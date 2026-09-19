@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,331 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,324 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 12 | [High Hopes 3000](https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [High Hopes 3000](https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu) | 4:05 |
 | 13 | [Phoenix](https://open.spotify.com/track/351H9o2h92wpjsXJZghEPQ) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Phoenix](https://open.spotify.com/album/2pC7ak3YGdCBwNQLI7XSCx) | 2:24 |
 | 14 | [I Love Life \(feat\. RANI\)](https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [I Love Life \(feat\. RANI\)](https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO) | 2:36 |
-| 15 | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk) | 2:02 |
-| 16 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
+| 15 | [Lucky Again](https://open.spotify.com/track/0n63xAny4NjxRNgKnboEp8) | [Lykke Li](https://open.spotify.com/artist/6oBm8HB0yfrIc9IHbxs6in) | [Lucky Again](https://open.spotify.com/album/51she33GpvE2U3e6HZ41fD) | 3:01 |
+| 16 | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/track/2NyVUkfya4KZDw5qd4qWeZ) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Bb trickz](https://open.spotify.com/artist/5QS9NAK4AgJPTcRe472pZA) | [Joven y Salvaje \(with Bb trickz\)](https://open.spotify.com/album/7FfZfslQwa0TUrQkRFqeKk) | 2:02 |
 | 17 | [Joy](https://open.spotify.com/track/4WOsZ7Rq8NmEiLpXM8Zvd5) | [ROLE MODEL](https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z) | [Joy](https://open.spotify.com/album/1XXUdRkbwKWm8hCcHLwdGl) | 3:34 |
 | 18 | [Boogie's in My Soul](https://open.spotify.com/track/3auasA1oQjH9hXr5Ux72Sk) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Snoop Dogg](https://open.spotify.com/artist/7hJcb9fa4alzcOq3EaNPoG) | [Boogie's in My Soul](https://open.spotify.com/album/58mYTAij5IQXuuDo3ojhTQ) | 3:42 |
 | 19 | [Level Up](https://open.spotify.com/track/3zIIFXu5MthG98bX7mvx8Y) | [Pastel](https://open.spotify.com/artist/6wa2PiIWrIhhz6lRQEGQpO) | [Level Up](https://open.spotify.com/album/0UXWjC9RsVw3RlWXqFPQf0) | 2:24 |
@@ -59,18 +59,18 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 49 | [Whether I Win or Lose](https://open.spotify.com/track/7icgSLNDP90O7g7PwTpX6d) | [Saults](https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8) | [Whether I Win or Lose](https://open.spotify.com/album/6qFJGE4q3yu20PrJu4cTpr) | 4:02 |
 | 50 | [Delusional](https://open.spotify.com/track/4YV1PTqHU45t70PJZSlqom) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Delusional](https://open.spotify.com/album/1RnkE63I6UR3FUTue5OG0a) | 3:34 |
 | 51 | [Malibu](https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Side One](https://open.spotify.com/artist/02Ni6QKLqoq8wfx846M2GZ) | [Malibu](https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo) | 2:52 |
-| 52 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 |
-| 53 | [Fucked Up](https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Fucked Up](https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ) | 3:17 |
-| 54 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
-| 55 | [Promises](https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Promises](https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA) | 3:16 |
+| 52 | [Fucked Up](https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Fucked Up](https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ) | 3:17 |
+| 53 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 |
+| 54 | [Promises](https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Promises](https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA) | 3:16 |
+| 55 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |
 | 56 | [Give Me More](https://open.spotify.com/track/5NDtRNvnSdbGGAWRqDGMSZ) | [Obongjayar](https://open.spotify.com/artist/6l7R1jntPahGxwJt7Tky8h) | [Give Me More](https://open.spotify.com/album/42jsuMoNdmTPbr8msasO8e) | 3:10 |
 | 57 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 |
 | 58 | [Chiara](https://open.spotify.com/track/2VhPjIXLBE3KPx7WI71gU9) | [Valentino Vivace](https://open.spotify.com/artist/0CHQ6qjh2bf79lPEE6zRUf) | [Oscillare](https://open.spotify.com/album/2D6v55SUNu1Rz3govAtx08) | 3:27 |
 | 59 | [Fish in a Bowl](https://open.spotify.com/track/5MjlhiqSDgSValAXvEd1w7) | [Annie Lalalove](https://open.spotify.com/artist/0rXEHQAzDXBvblE2EZRBjL) | [Fish in a Bowl](https://open.spotify.com/album/4EjoAF2w6uCqttZAgko5Cp) | 3:42 |
 | 60 | [Not What’s Going On](https://open.spotify.com/track/1oeUbGUc5kRSGLYoBdZR1S) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Kicking My Feet](https://open.spotify.com/album/5tH8mnli4GdpoZKlftLOu5) | 2:54 |
 | 61 | [La flemme](https://open.spotify.com/track/4bOIaQgprATStZk6AEPo71) | [Shaga](https://open.spotify.com/artist/4KZhzeqnmQnVt4687rh5qR), [Adamé](https://open.spotify.com/artist/0sERWA25W58jwsWqspklGe) | [La flemme](https://open.spotify.com/album/7hPscfFDNYH4ITpKBYPgNX) | 2:03 |
-| 62 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 |
-| 63 | [Creepy](https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW) | [Soraya Cinema](https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9) | [Creepy](https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn) | 2:20 |
+| 62 | [Creepy](https://open.spotify.com/track/5FyVzyckWhLmWrlYACfoFW) | [Soraya Cinema](https://open.spotify.com/artist/3DP8fD0P68CorpqJY6mjc9) | [Creepy](https://open.spotify.com/album/2N1iMsS1iSvwYD4en0iuKn) | 2:20 |
+| 63 | [555](https://open.spotify.com/track/1qpLfVQGAyMtSMQgYEUgJ3) | [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [555](https://open.spotify.com/album/3TzTUtBE6D489IUaKcGw2k) | 3:18 |
 | 64 | [Honey](https://open.spotify.com/track/7ARwLWvI6Zh5k4SW7on84x) | [Porte des Princes](https://open.spotify.com/artist/0k56TZBD4TcMBlRuWK0Ya4) | [Honey](https://open.spotify.com/album/6IiorWvpvw5n1LqbRxPylU) | 3:37 |
 | 65 | [Dive Into The Ocean \(Prod\. By Alok\)](https://open.spotify.com/track/1QUE9sIUcCA2uvcieOQ2uJ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Zeeba](https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Dive Into The Ocean](https://open.spotify.com/album/3wNI7uuXR8S3PKVjjJ6JMA) | 3:38 |
 | 66 | [I Remember...](https://open.spotify.com/track/7d1mlaQ0uYGbjtLHnfjxmU) | [Dent May](https://open.spotify.com/artist/34me8hAxavRmcDIwhxa3b7) | [I Remember...](https://open.spotify.com/album/1KOZyRe3HszodUXU11FvQW) | 3:05 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 69 | [Eden](https://open.spotify.com/track/5jFiIiqGyS35QMov2WvFaT) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Eden](https://open.spotify.com/album/1PIpblTFI5xO71o0SWj5Ca) | 4:07 |
 | 70 | [Wasted Time](https://open.spotify.com/track/4zuis8Tg4TrhoQfRaKtCJ0) | [Papooz](https://open.spotify.com/artist/2gaCpvhi31OZtozJKsr5gm), [Zé Ibarra](https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U) | [Wasted Time](https://open.spotify.com/album/2Yx8F5G25DlYYh6CbAJLUj) | 3:44 |
 
-Snapshot ID: `AAAAANsv+9/y0aSkHR0t7Cz+xiq5DmnS`
+Snapshot ID: `AAAAAENrnTgTdn1aQa2XCTnI+0a7VBon`

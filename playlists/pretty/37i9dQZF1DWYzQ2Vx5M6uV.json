@@ -1,12 +1,12 @@
 {
   "description": "Latin Afrobeats heat that will make you sweat \ud83e\udd75 Cover: Luister La Voz & Manuel Turizo",
-  "num_followers": 143221,
+  "num_followers": 143216,
   "original_name": "Afro Ritmo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAKBs0VHPKWSKf6FsF7nOESOfMZq",
+  "snapshot_id": "AAAAAEO1wqk2s7Vx6/8O80x7sKQfsFZn",
   "tracks": [
     {
       "added_at": "2026-09-04 04:01:49",
@@ -743,18 +743,22 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Beso a Beso",
-        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
+        "name": "Quien Me Mand\u00f3?",
+        "url": "https://open.spotify.com/album/5L5ZVe1zrpfV55B77qh06l"
       },
       "artists": [
         {
           "name": "Hamilton",
           "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Zaider",
+          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
         }
       ],
-      "duration_ms": 137969,
-      "name": "Beso a Beso",
-      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
+      "duration_ms": 204925,
+      "name": "Quien Me Mand\u00f3?",
+      "url": "https://open.spotify.com/track/7KTlGFaD6kwsY7oosqgs3i"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -831,22 +835,18 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Quien Me Mand\u00f3?",
-        "url": "https://open.spotify.com/album/5L5ZVe1zrpfV55B77qh06l"
+        "name": "Beso a Beso",
+        "url": "https://open.spotify.com/album/3ltYEasCkX4XZJxBScFNln"
       },
       "artists": [
         {
           "name": "Hamilton",
           "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Zaider",
-          "url": "https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz"
         }
       ],
-      "duration_ms": 204925,
-      "name": "Quien Me Mand\u00f3?",
-      "url": "https://open.spotify.com/track/7KTlGFaD6kwsY7oosqgs3i"
+      "duration_ms": 137969,
+      "name": "Beso a Beso",
+      "url": "https://open.spotify.com/track/1hih4xsBd6rHYETs8wI79C"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1199,6 +1199,22 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
+        "name": "X Siempre",
+        "url": "https://open.spotify.com/album/4503riheEdxWQTNSVZItgF"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 139428,
+      "name": "X Siempre",
+      "url": "https://open.spotify.com/track/3SqHkuKsJQ6SLSdMibLiTi"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
         "name": "Todav\u00eda",
         "url": "https://open.spotify.com/album/3z66QImSBHBA1V3gxYDbfx"
       },
@@ -1215,22 +1231,6 @@
       "duration_ms": 183278,
       "name": "todav\u00edA",
       "url": "https://open.spotify.com/track/570Q5CgBICftKsge5bPBDx"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
-        "name": "X Siempre",
-        "url": "https://open.spotify.com/album/4503riheEdxWQTNSVZItgF"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        }
-      ],
-      "duration_ms": 139428,
-      "name": "X Siempre",
-      "url": "https://open.spotify.com/track/3SqHkuKsJQ6SLSdMibLiTi"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
+      },
+      "artists": [
+        {
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+        }
+      ],
+      "duration_ms": 143914,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
         "name": "Afro",
         "url": "https://open.spotify.com/album/4UB2nT0IAEunpdUFiuFUxA"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 186895,
       "name": "Tucu",
       "url": "https://open.spotify.com/track/4oSDSQzBBB2BIvHeHcXoyu"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
-        "name": "AFRO RED 2",
-        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
-      },
-      "artists": [
-        {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
-        }
-      ],
-      "duration_ms": 143914,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1563,26 +1563,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Momento Zero",
-        "url": "https://open.spotify.com/album/2cwbnZ6i3Zrjt5guhxHw6d"
-      },
-      "artists": [
-        {
-          "name": "Danny Polo",
-          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
-        },
-        {
-          "name": "Mpax",
-          "url": "https://open.spotify.com/artist/7cjS7KNLvZGL1f39wICavK"
-        }
-      ],
-      "duration_ms": 157699,
-      "name": "Momento Zero",
-      "url": "https://open.spotify.com/track/1PzmZIxr5XIvfgRA1uYBqe"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "Volver a Verte",
         "url": "https://open.spotify.com/album/6xn0R7Iv47dIgId3xv9zaw"
       },
@@ -1599,6 +1579,26 @@
       "duration_ms": 183286,
       "name": "Volver a Verte",
       "url": "https://open.spotify.com/track/5tQSwzIY7MUXsGD2pVrpCB"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "Momento Zero",
+        "url": "https://open.spotify.com/album/2cwbnZ6i3Zrjt5guhxHw6d"
+      },
+      "artists": [
+        {
+          "name": "Danny Polo",
+          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
+        },
+        {
+          "name": "Mpax",
+          "url": "https://open.spotify.com/artist/7cjS7KNLvZGL1f39wICavK"
+        }
+      ],
+      "duration_ms": 157699,
+      "name": "Momento Zero",
+      "url": "https://open.spotify.com/track/1PzmZIxr5XIvfgRA1uYBqe"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1655,22 +1655,6 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "SQD Quilla",
-        "url": "https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw"
-      },
-      "artists": [
-        {
-          "name": "Danny Polo",
-          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
-        }
-      ],
-      "duration_ms": 121043,
-      "name": "SQD Quilla",
-      "url": "https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0"
-    },
-    {
-      "added_at": "2026-09-04 04:01:49",
-      "album": {
         "name": "Yeye",
         "url": "https://open.spotify.com/album/06s1jeHWriD0paXix3dr8U"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 139200,
       "name": "Yeye",
       "url": "https://open.spotify.com/track/0fDfCZNxfJgxG9pdwnVT3B"
+    },
+    {
+      "added_at": "2026-09-04 04:01:49",
+      "album": {
+        "name": "SQD Quilla",
+        "url": "https://open.spotify.com/album/16E4uq3O5HyXIX2DDlbAUw"
+      },
+      "artists": [
+        {
+          "name": "Danny Polo",
+          "url": "https://open.spotify.com/artist/0nhnCORnFBXUJdgWzIbPIm"
+        }
+      ],
+      "duration_ms": 121043,
+      "name": "SQD Quilla",
+      "url": "https://open.spotify.com/track/5HPGjWYZCaezPcUB630JK0"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1779,22 +1779,22 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "No Esperes",
-        "url": "https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW"
+        "name": "Normal",
+        "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
       },
       "artists": [
         {
-          "name": "Venesti",
-          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
+          "name": "Jeeiph",
+          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
         },
         {
-          "name": "Shine TTW",
-          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
+          "name": "K\u00e9nsel Tell Them",
+          "url": "https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5"
         }
       ],
-      "duration_ms": 194347,
-      "name": "No Esperes",
-      "url": "https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i"
+      "duration_ms": 131022,
+      "name": "Normal",
+      "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
     },
     {
       "added_at": "2026-09-04 04:01:49",
@@ -1815,22 +1815,22 @@
     {
       "added_at": "2026-09-04 04:01:49",
       "album": {
-        "name": "Normal",
-        "url": "https://open.spotify.com/album/1M9Zk1oRRV2ZWkszoa0Yt1"
+        "name": "No Esperes",
+        "url": "https://open.spotify.com/album/6PglUUr1rmg4MsS5icSGvW"
       },
       "artists": [
         {
-          "name": "Jeeiph",
-          "url": "https://open.spotify.com/artist/6ZtLRqHEkAXPWVw0eRbDac"
+          "name": "Venesti",
+          "url": "https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU"
         },
         {
-          "name": "K\u00e9nsel Tell Them",
-          "url": "https://open.spotify.com/artist/0Zx2tpZDTuKR3qudWCNSH5"
+          "name": "Shine TTW",
+          "url": "https://open.spotify.com/artist/5MMagWgGKYleThIlmQp6wn"
         }
       ],
-      "duration_ms": 131022,
-      "name": "Normal",
-      "url": "https://open.spotify.com/track/61gjmSPSIADsbIMf5tAKk2"
+      "duration_ms": 194347,
+      "name": "No Esperes",
+      "url": "https://open.spotify.com/track/3f15uZz4sb219FssrK3E4i"
     },
     {
       "added_at": "2026-09-04 04:01:49",

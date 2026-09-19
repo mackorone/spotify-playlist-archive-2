@@ -3017,6 +3017,24 @@
     },
     {
       "album": {
+        "name": "At Rest",
+        "url": "https://open.spotify.com/album/2srYAaDy9XqK2Go6nUmzC4"
+      },
+      "artists": [
+        {
+          "name": "Waylen Orson",
+          "url": "https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138607,
+      "name": "At Rest",
+      "url": "https://open.spotify.com/track/3Cyslf8Sbb2MhISVhfI9Pw"
+    },
+    {
+      "album": {
         "name": "At The Edge Of Light",
         "url": "https://open.spotify.com/album/0v48kH9FPiWsImYzQZ0LXi"
       },
@@ -18078,6 +18096,24 @@
       "duration_ms": 159753,
       "name": "Morning Dew",
       "url": "https://open.spotify.com/track/1LlWrUUgRE2Mqxdbcpj6NF"
+    },
+    {
+      "album": {
+        "name": "Morning Finds Us",
+        "url": "https://open.spotify.com/album/2NJtQg8BSfX6eTSaiqjdg5"
+      },
+      "artists": [
+        {
+          "name": "Andrei Mizi",
+          "url": "https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136180,
+      "name": "Morning Finds Us",
+      "url": "https://open.spotify.com/track/4RaG5enBGhICIVQMaxojd9"
     },
     {
       "album": {

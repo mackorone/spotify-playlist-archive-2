@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 499135,
+  "num_followers": 499116,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD+3xsi27S3A39tRpvoZ+X9wrhEH",
+  "snapshot_id": "AAAAAC/hGArp3wM2JDtA67iNb9tBqhon",
   "tracks": [
     {
       "added_at": "2026-02-27 14:15:43",
@@ -631,6 +631,22 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
+        "name": "MARKERS AND SUCH PENS FLASHDISKS",
+        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+      },
+      "artists": [
+        {
+          "name": "Sal Priadi",
+          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+        }
+      ],
+      "duration_ms": 231187,
+      "name": "Semua lagu cinta",
+      "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
         "name": "Seamin Tak Seiman",
         "url": "https://open.spotify.com/album/7owNPjJUe8SaGuJ8zpYf6m"
       },
@@ -647,18 +663,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "MARKERS AND SUCH PENS FLASHDISKS",
-        "url": "https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q"
+        "name": "Raisa",
+        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
       },
       "artists": [
         {
-          "name": "Sal Priadi",
-          "url": "https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu"
+          "name": "Raisa",
+          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
         }
       ],
-      "duration_ms": 231187,
-      "name": "Semua lagu cinta",
-      "url": "https://open.spotify.com/track/4s8W4gutSQnFIDNThqUPSI"
+      "duration_ms": 262746,
+      "name": "Serba Salah",
+      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -699,22 +715,6 @@
       "duration_ms": 295542,
       "name": "Badai Telah Berlalu",
       "url": "https://open.spotify.com/track/2zZgfxFyDHDHJzGrs4b9es"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
-        "name": "Raisa",
-        "url": "https://open.spotify.com/album/5oCsnT2SMuNZ4mVZBbvxWD"
-      },
-      "artists": [
-        {
-          "name": "Raisa",
-          "url": "https://open.spotify.com/artist/5OZXWMwDhlYBRvoOfcX0sk"
-        }
-      ],
-      "duration_ms": 262746,
-      "name": "Serba Salah",
-      "url": "https://open.spotify.com/track/3jMXORZIqN8biiXVJXP3vk"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -887,8 +887,8 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "RAYA",
-        "url": "https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80"
+        "name": "1st (Special Edition)",
+        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
       },
       "artists": [
         {
@@ -896,9 +896,9 @@
           "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
         }
       ],
-      "duration_ms": 269300,
-      "name": "Semoga",
-      "url": "https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z"
+      "duration_ms": 245400,
+      "name": "Untitled",
+      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -967,8 +967,8 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "1st (Special Edition)",
-        "url": "https://open.spotify.com/album/0qG0Ij0WCn6JgWREX8eAaK"
+        "name": "RAYA",
+        "url": "https://open.spotify.com/album/6xBlB6lznV9ZjVlPq7Xd80"
       },
       "artists": [
         {
@@ -976,9 +976,9 @@
           "url": "https://open.spotify.com/artist/18PmEN8ZiHBQlDpxrgR2xs"
         }
       ],
-      "duration_ms": 245400,
-      "name": "Untitled",
-      "url": "https://open.spotify.com/track/1i9iliTpiPLizleapSg37I"
+      "duration_ms": 269300,
+      "name": "Semoga",
+      "url": "https://open.spotify.com/track/6cMVQgMRy4pMpSEyg2xd5z"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1051,8 +1051,8 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Hit Singles BCL And More",
-        "url": "https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j"
+        "name": "Tentang Kamu",
+        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
         }
       ],
-      "duration_ms": 292306,
-      "name": "Karena Kucinta Kau",
-      "url": "https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz"
+      "duration_ms": 229840,
+      "name": "Kecewa",
+      "url": "https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1131,8 +1131,8 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Tentang Kamu",
-        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
+        "name": "Hit Singles BCL And More",
+        "url": "https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j"
       },
       "artists": [
         {
@@ -1140,9 +1140,9 @@
           "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
         }
       ],
-      "duration_ms": 229840,
-      "name": "Kecewa",
-      "url": "https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i"
+      "duration_ms": 292306,
+      "name": "Karena Kucinta Kau",
+      "url": "https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz"
     },
     {
       "added_at": "2026-02-27 14:15:43",

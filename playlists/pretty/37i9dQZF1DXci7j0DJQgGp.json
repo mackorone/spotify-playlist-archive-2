@@ -1,12 +1,12 @@
 {
   "description": "The perfect playlist to just sit back and chill out with.",
-  "num_followers": 1675980,
+  "num_followers": 1675875,
   "original_name": "Hanging Out & Relaxing",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFC1KdNNB1RLx8eZ1mI3DFkUtf9A",
+  "snapshot_id": "AAAAADUZoO3rOG+L+/KFglgkc6nt7J5c",
   "tracks": [
     {
       "added_at": "2026-04-20 20:08:42",
@@ -59,22 +59,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Mother",
-        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 262960,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "I Can't Let Go",
         "url": "https://open.spotify.com/album/2ccGlDnYg0D9qAZHDq55Vm"
       },
@@ -87,6 +71,22 @@
       "duration_ms": 193031,
       "name": "Moves",
       "url": "https://open.spotify.com/track/6TT7B4MigCJCc0tqKYEpZC"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Mother",
+        "url": "https://open.spotify.com/album/3cDl7l5FGQi93NgtqFR1gR"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 262960,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Outside Child",
-        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
-      },
-      "artists": [
-        {
-          "name": "Allison Russell",
-          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
-        }
-      ],
-      "duration_ms": 295546,
-      "name": "Nightflyer",
-      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "The Breach EP",
         "url": "https://open.spotify.com/album/62rRQnbxkzsFxFYHQSXSwR"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 253848,
       "name": "The Breach",
       "url": "https://open.spotify.com/track/1WXVfFRD89EtVURD4Tbixo"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Outside Child",
+        "url": "https://open.spotify.com/album/4R21oaKCstE2fMc4XkuVlw"
+      },
+      "artists": [
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 295546,
+      "name": "Nightflyer",
+      "url": "https://open.spotify.com/track/6BxDMOnim3Ut7nQaOj01DJ"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -459,26 +459,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "Notes from the Archive: Recordings 2011-2016",
-        "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
-      },
-      "artists": [
-        {
-          "name": "Maggie Rogers",
-          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
-        },
-        {
-          "name": "Del Water Gap",
-          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
-        }
-      ],
-      "duration_ms": 382613,
-      "name": "New Song",
-      "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "How Long Do You Think It's Gonna Last?",
         "url": "https://open.spotify.com/album/3YbMxdapL6mvSQjosFkc0T"
       },
@@ -499,6 +479,26 @@
       "duration_ms": 255533,
       "name": "Phoenix",
       "url": "https://open.spotify.com/track/4Vs2i8GdP5s7vd8vfSRcDk"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Notes from the Archive: Recordings 2011-2016",
+        "url": "https://open.spotify.com/album/2li1FMT6riytgLdq4Eu4rb"
+      },
+      "artists": [
+        {
+          "name": "Maggie Rogers",
+          "url": "https://open.spotify.com/artist/4NZvixzsSefsNiIqXn0NDe"
+        },
+        {
+          "name": "Del Water Gap",
+          "url": "https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00"
+        }
+      ],
+      "duration_ms": 382613,
+      "name": "New Song",
+      "url": "https://open.spotify.com/track/3PUMPtOSeXSJsBvK43K96b"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1591,22 +1591,6 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
-        "name": "No Driver",
-        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
-      },
-      "artists": [
-        {
-          "name": "Widowspeak",
-          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
-        }
-      ],
-      "duration_ms": 228840,
-      "name": "No Driver",
-      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
         "name": "I Love You, Brae",
         "url": "https://open.spotify.com/album/2BztvJNxd2JgKszB0NGr8m"
       },
@@ -1623,6 +1607,22 @@
     {
       "added_at": "2026-04-20 20:08:42",
       "album": {
+        "name": "No Driver",
+        "url": "https://open.spotify.com/album/1mtcNZvxU9QfWH9RmUkOrH"
+      },
+      "artists": [
+        {
+          "name": "Widowspeak",
+          "url": "https://open.spotify.com/artist/5ZW7HlSuZz8ng2X21cXbdP"
+        }
+      ],
+      "duration_ms": 228840,
+      "name": "No Driver",
+      "url": "https://open.spotify.com/track/2Md8LNHMvHDN8Ed4GwRCw3"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
         "name": "Modern Woman",
         "url": "https://open.spotify.com/album/30kbdtHtt6rJShWGeMsVcI"
       },
@@ -1635,22 +1635,6 @@
       "duration_ms": 204946,
       "name": "Modern Woman",
       "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
-    },
-    {
-      "added_at": "2026-04-20 20:08:42",
-      "album": {
-        "name": "Blood Wolf Moon",
-        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
-      },
-      "artists": [
-        {
-          "name": "Tommy Ashby",
-          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
-        }
-      ],
-      "duration_ms": 180010,
-      "name": "Blood Wolf Moon",
-      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
     },
     {
       "added_at": "2026-04-20 20:08:42",
@@ -1683,6 +1667,22 @@
       "duration_ms": 220377,
       "name": "Reason",
       "url": "https://open.spotify.com/track/1vKQ7iMGxPdPhuWTjHKzQh"
+    },
+    {
+      "added_at": "2026-04-20 20:08:42",
+      "album": {
+        "name": "Blood Wolf Moon",
+        "url": "https://open.spotify.com/album/7gWTR3utfEnwboOuxGtuAK"
+      },
+      "artists": [
+        {
+          "name": "Tommy Ashby",
+          "url": "https://open.spotify.com/artist/7y1RS42LqlRYnpONXTjN3t"
+        }
+      ],
+      "duration_ms": 180010,
+      "name": "Blood Wolf Moon",
+      "url": "https://open.spotify.com/track/3wihzwWc7SD7plghq6xNxV"
     }
   ],
   "unique_name": "Hanging Out & Relaxing",

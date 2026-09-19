@@ -4,7 +4,7 @@
 
 > This is Trivium\. The essential tracks, all in one playlist.
 
-96 songs - 7 hr 39 min
+97 songs - 7 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -28,6 +28,7 @@
 | [Catastrophist](https://open.spotify.com/track/3fnqNxjN7o0tJe7zOQZV68) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [What The Dead Men Say](https://open.spotify.com/album/0aXIJYbWk4u41iJmoJmp8y) | 6:28 | 2022-05-30 |  |
 | [Caustic Are the Ties That Bind](https://open.spotify.com/track/68UN4iv0KbuQfv6TrCmN3T) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 5:34 | 2022-09-29 | 2025-03-03 |
 | [Dead and Gone](https://open.spotify.com/track/5SqZCOOwTRYeGXiGvXekAC) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Silence in the Snow \(Special Edition\)](https://open.spotify.com/album/5l2xUBNPkPSZB0KVrEXANI) | 3:46 | 2022-05-31 |  |
+| [Dead Inside Of Me](https://open.spotify.com/track/4JdrQ06kBNP10EMxS7E6Fh) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Dead Inside Of Me](https://open.spotify.com/album/3wXT1Tf8fCwKnQGiYNlUlm) | 4:01 | 2026-09-19 |  |
 | [Departure](https://open.spotify.com/track/0RtYoUK6JwYeofPsaPsBD5) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:41 | 2022-05-30 | 2022-10-13 |
 | [Dig](https://open.spotify.com/track/7nVIE2M0t4sIh3ZkEqrjlY) | [Kevin Sherwood](https://open.spotify.com/artist/0etNimDSQLWFbktPBHQ5vb), [Matthew K\. Heafy](https://open.spotify.com/artist/2YRpsoIsb4KGe66E7hfEx5), [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Call of Duty®: Black Ops 6 \- Zombies "The Tomb" \(Original Soundtrack\)](https://open.spotify.com/album/3xPKKfr1Llm3NU6sF7Zn7C) | 3:49 | 2025-02-03 | 2025-11-02 |
 | [Down from the Sky](https://open.spotify.com/track/5LePaQIrJcIwrUzNEr3m86) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:34 | 2022-05-30 |  |
@@ -58,7 +59,7 @@
 | [Like Callisto to a Star in Heaven](https://open.spotify.com/track/4WrPIx7lGOgIyxkSO9x9CG) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Shogun \(Special Edition\)](https://open.spotify.com/album/0kIXzVzbFuUf5kxM8US67m) | 5:25 | 2022-05-30 | 2022-10-11 |
 | [Like Light to the Flies](https://open.spotify.com/track/3wuGM9ka6DGQPtrEaVGl00) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy](https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV) | 5:40 | 2022-07-21 |  |
 | [Losing My Religion](https://open.spotify.com/track/4nvffGMrhZMK6DXCdNieys) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Losing My Religion](https://open.spotify.com/album/6oRydz4vuNsUY0y1NlmOmR) | 4:41 | 2022-05-30 |  |
-| [Master of Puppets](https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy \(Special Edition\)](https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF) | 8:09 | 2022-05-30 |  |
+| [Master of Puppets](https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Ascendancy \(Special Edition\)](https://open.spotify.com/album/21mOhkOtrPVySn4D2SbOAF) | 8:09 | 2022-05-30 | 2026-09-19 |
 | [No Way Back Just Through](https://open.spotify.com/track/1JQaVRvmmInKm7WG0H6FDK) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In The Court Of The Dragon](https://open.spotify.com/album/0mrtkWYrUzTuFwyiiQPdQs) | 3:53 | 2022-06-03 |  |
 | [No Way to Heal](https://open.spotify.com/track/3gPaGEKEKPjWqxEwF1ILyf) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [Vengeance Falls \(Special Edition\)](https://open.spotify.com/album/1hamGtmqitOROTKc0yNhow) | 4:05 | 2023-12-13 | 2024-06-14 |
 | [Of All These Yesterdays](https://open.spotify.com/track/0dsIrE3aAwSuEtl2zFgcR4) | [Trivium](https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP) | [In Waves \(Special Edition\)](https://open.spotify.com/album/2p1voQHdNSdy596VRDtdji) | 4:21 | 2022-06-18 | 2022-06-20 |

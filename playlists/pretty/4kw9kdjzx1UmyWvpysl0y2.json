@@ -1,13 +1,33 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122701,
+  "num_followers": 122686,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVwjwtYnVuuqIkmuX1gTNf1qCqVYap",
+  "snapshot_id": "AAAVw3R7cHyhd7gCNMHnfjEM2x1nv+0+",
   "tracks": [
+    {
+      "added_at": "2026-09-18 15:15:45",
+      "album": {
+        "name": "Lose It All",
+        "url": "https://open.spotify.com/album/5i8IP4wrPsUYEI3bQISNMe"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "Kaya Vitalis",
+          "url": "https://open.spotify.com/artist/2JlV6S5ko0BCkx0BxG7SGP"
+        }
+      ],
+      "duration_ms": 204137,
+      "name": "Lose It All",
+      "url": "https://open.spotify.com/track/0Zq2IfabhVry15laf5Irtk"
+    },
     {
       "added_at": "2026-09-17 14:23:56",
       "album": {

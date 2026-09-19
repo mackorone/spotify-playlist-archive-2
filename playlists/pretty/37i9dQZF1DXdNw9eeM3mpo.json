@@ -1,12 +1,12 @@
 {
   "description": "100% ska en espa\u00f1ol. La Tremenda Korte en portada.",
-  "num_followers": 491899,
+  "num_followers": 491941,
   "original_name": "Ska Latino ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKJwxcR7/CHTARE+LEjw7AskSzf",
+  "snapshot_id": "AAAAAGxel7IkCdwchHoR6wgV9uVuFkL3",
   "tracks": [
     {
       "added_at": "2026-08-21 04:39:10",
@@ -899,26 +899,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
-      },
-      "artists": [
-        {
-          "name": "Despistaos",
-          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
-        },
-        {
-          "name": "La Pegatina",
-          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
-        }
-      ],
-      "duration_ms": 176747,
-      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
-      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "La Kaguama",
         "url": "https://open.spotify.com/album/2PszQA8qrNBYI1zt5MLzxV"
       },
@@ -935,6 +915,26 @@
       "duration_ms": 193170,
       "name": "La Kaguama",
       "url": "https://open.spotify.com/track/0dWskEqRk0CZH0hHsQXHBs"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+        "url": "https://open.spotify.com/album/2XFhxf774ufp6QdJasM2rL"
+      },
+      "artists": [
+        {
+          "name": "Despistaos",
+          "url": "https://open.spotify.com/artist/0QE9iXPzgSaBq34OqIZ4n2"
+        },
+        {
+          "name": "La Pegatina",
+          "url": "https://open.spotify.com/artist/4xvB67czbtvemGVXGa81oK"
+        }
+      ],
+      "duration_ms": 176747,
+      "name": "Estoy aqu\u00ed (feat. La Pegatina)",
+      "url": "https://open.spotify.com/track/6BZyZKGieV83gE9IZcNZCz"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1015,22 +1015,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Flamingo",
-        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
-      },
-      "artists": [
-        {
-          "name": "Skapital Sound",
-          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
-        }
-      ],
-      "duration_ms": 162930,
-      "name": "Ska en la Playa",
-      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Que me quemen tus ojos",
         "url": "https://open.spotify.com/album/0uafJymFyfHtQOJn6r3EfJ"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Flamingo",
+        "url": "https://open.spotify.com/album/7uwulXVQW3ZhUnzWTDnNVU"
+      },
+      "artists": [
+        {
+          "name": "Skapital Sound",
+          "url": "https://open.spotify.com/artist/1rKV4FpTtOyl7Wcldkj1Zi"
+        }
+      ],
+      "duration_ms": 162930,
+      "name": "Ska en la Playa",
+      "url": "https://open.spotify.com/track/5rN7Jw3sBHaGHp6MqAGl2u"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1083,6 +1083,26 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
+        "name": "Batuco",
+        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+      },
+      "artists": [
+        {
+          "name": "Son Rompe Pera",
+          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+        },
+        {
+          "name": "Mi\u00f1o",
+          "url": "https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf"
+        }
+      ],
+      "duration_ms": 328680,
+      "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
+      "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
         "name": "Sentimental",
         "url": "https://open.spotify.com/album/4o6q7jqE6r4r6AQOsXcFov"
       },
@@ -1103,22 +1123,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Batuco",
-        "url": "https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX"
+        "name": "Masacrados Por La Felicidad",
+        "url": "https://open.spotify.com/album/2ShR2NhAnFCSzyoTADk3tS"
       },
       "artists": [
         {
-          "name": "Son Rompe Pera",
-          "url": "https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V"
+          "name": "Santaferia",
+          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
         },
         {
-          "name": "Mi\u00f1o",
-          "url": "https://open.spotify.com/artist/4ceRa2fprkKr9byxABIyTf"
+          "name": "Macha",
+          "url": "https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz"
         }
       ],
-      "duration_ms": 328680,
-      "name": "Mi Vida sin tu Amor (featuring Mi\u00f1o)",
-      "url": "https://open.spotify.com/track/63TFbfWD0zH9Y2tf3uqoRB"
+      "duration_ms": 203695,
+      "name": "Golpes En El Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/09uXwwlVhiRpSpmcRoLJFP"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1155,26 +1175,6 @@
       "duration_ms": 206933,
       "name": "Qu\u00e9 Vas a Hacer Conmigo",
       "url": "https://open.spotify.com/track/4J0phvYcKa1Hr1EBwH0pu3"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
-        "name": "Masacrados Por La Felicidad",
-        "url": "https://open.spotify.com/album/2ShR2NhAnFCSzyoTADk3tS"
-      },
-      "artists": [
-        {
-          "name": "Santaferia",
-          "url": "https://open.spotify.com/artist/22QaKKmBIH3QiotuG30W3o"
-        },
-        {
-          "name": "Macha",
-          "url": "https://open.spotify.com/artist/16QcrGi8KouBjobR8dEIoz"
-        }
-      ],
-      "duration_ms": 203695,
-      "name": "Golpes En El Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/09uXwwlVhiRpSpmcRoLJFP"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1375,8 +1375,8 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Combativo",
-        "url": "https://open.spotify.com/album/5AoXmqZUAQM1ahgEmSlt3b"
+        "name": "Juntos",
+        "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
       },
       "artists": [
         {
@@ -1384,9 +1384,9 @@
           "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 194315,
-      "name": "Combativo",
-      "url": "https://open.spotify.com/track/4M35ty1GY7heFrHhgMqXzP"
+      "duration_ms": 199565,
+      "name": "Juntos",
+      "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1427,26 +1427,6 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
-        "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
-      },
-      "artists": [
-        {
-          "name": "Raztlan",
-          "url": "https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE"
-        },
-        {
-          "name": "Melodycans",
-          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
-        }
-      ],
-      "duration_ms": 213602,
-      "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
-      "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
-    },
-    {
-      "added_at": "2026-08-21 04:39:10",
-      "album": {
         "name": "Un Amor Violento",
         "url": "https://open.spotify.com/album/6GNEPdeN4MKdGwVKnMwnC1"
       },
@@ -1467,8 +1447,24 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Juntos",
-        "url": "https://open.spotify.com/album/38DiXVpaDu8xDofJE3xJHd"
+        "name": "Voy a curarme de ti",
+        "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
+      },
+      "artists": [
+        {
+          "name": "Timo Pacheco",
+          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+        }
+      ],
+      "duration_ms": 253285,
+      "name": "Voy a curarme de ti",
+      "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
+    },
+    {
+      "added_at": "2026-08-21 04:39:10",
+      "album": {
+        "name": "Combativo",
+        "url": "https://open.spotify.com/album/5AoXmqZUAQM1ahgEmSlt3b"
       },
       "artists": [
         {
@@ -1476,9 +1472,9 @@
           "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 199565,
-      "name": "Juntos",
-      "url": "https://open.spotify.com/track/3zJizV0VAlItx99aOKEtLo"
+      "duration_ms": 194315,
+      "name": "Combativo",
+      "url": "https://open.spotify.com/track/4M35ty1GY7heFrHhgMqXzP"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1499,18 +1495,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "Voy a curarme de ti",
-        "url": "https://open.spotify.com/album/3XriISqGqSjHuNsXLlm6gH"
+        "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
+        "url": "https://open.spotify.com/album/1e3dZ3V9acJz1nJRCjsZXO"
       },
       "artists": [
         {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+          "name": "Raztlan",
+          "url": "https://open.spotify.com/artist/4bm76UqljC1NEUS1yahaxE"
+        },
+        {
+          "name": "Melodycans",
+          "url": "https://open.spotify.com/artist/1kjHfeJNTbCFiDwz0xJbNF"
         }
       ],
-      "duration_ms": 253285,
-      "name": "Voy a curarme de ti",
-      "url": "https://open.spotify.com/track/34qV1rb1zaufUFmqalIokP"
+      "duration_ms": 213602,
+      "name": "El Amor No Es para Tibios (Este A\u00f1o Es el Bueno)",
+      "url": "https://open.spotify.com/track/7xUJ7xDiITKkziExo8TolF"
     },
     {
       "added_at": "2026-08-21 04:39:10",
@@ -1719,18 +1719,22 @@
     {
       "added_at": "2026-08-21 04:39:10",
       "album": {
-        "name": "VOY DE NUEVO",
-        "url": "https://open.spotify.com/album/5PZ6IrrJSrF1u1DtjX49O8"
+        "name": "Somos todo",
+        "url": "https://open.spotify.com/album/7HlAXQw68Oq1e806GNEv2I"
       },
       "artists": [
         {
-          "name": "Timo Pacheco",
-          "url": "https://open.spotify.com/artist/1MKcc3IUoKOJFhoJ59wKWl"
+          "name": "Alto Grado",
+          "url": "https://open.spotify.com/artist/5VvEb9IBLasKGbAI2R27FH"
+        },
+        {
+          "name": "Los De Abajo",
+          "url": "https://open.spotify.com/artist/45fwElEp0loQ0FdpvpOgsW"
         }
       ],
-      "duration_ms": 158122,
-      "name": "VOY DE NUEVO",
-      "url": "https://open.spotify.com/track/3cfXsdfx4P5qDZMUn5euy0"
+      "duration_ms": 155232,
+      "name": "Somos todo",
+      "url": "https://open.spotify.com/track/4QpD6vwI5CsWVF70Dqn25l"
     }
   ],
   "unique_name": "Ska Latino ",

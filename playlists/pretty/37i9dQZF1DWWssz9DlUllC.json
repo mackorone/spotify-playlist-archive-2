@@ -1,12 +1,12 @@
 {
   "description": "Where afrobeats meets amapiano.\nCover:  Shoday",
-  "num_followers": 98754,
+  "num_followers": 98882,
   "original_name": "afro-piano",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAE2SC77/S0F+3z11fKZCqAIHtSsY",
+  "snapshot_id": "AAAAAPCyiTyzoPA8to7jZTSL0AZINu5E",
   "tracks": [
     {
       "added_at": "2026-09-11 00:01:38",
@@ -71,18 +71,18 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "attention!",
-        "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
+        "name": "FUN",
+        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
       },
       "artists": [
         {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
         }
       ],
-      "duration_ms": 155852,
-      "name": "attention!",
-      "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
+      "duration_ms": 188981,
+      "name": "FUN",
+      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -103,18 +103,18 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "FUN",
-        "url": "https://open.spotify.com/album/46QsilgIDjNfmkhXQltZmZ"
+        "name": "attention!",
+        "url": "https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4"
       },
       "artists": [
         {
-          "name": "Rema",
-          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         }
       ],
-      "duration_ms": 188981,
-      "name": "FUN",
-      "url": "https://open.spotify.com/track/0qlu7Te2J2BuAGFcwb3rjn"
+      "duration_ms": 155852,
+      "name": "attention!",
+      "url": "https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -451,26 +451,22 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "Guide",
-        "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
+        "name": "Hello Hello",
+        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
       },
       "artists": [
         {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+          "name": "Kashcoming",
+          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
         },
         {
-          "name": "Chech",
-          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
-        },
-        {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
         }
       ],
-      "duration_ms": 127565,
-      "name": "Guide",
-      "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
+      "duration_ms": 155789,
+      "name": "Hello Hello",
+      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -499,22 +495,26 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "Hello Hello",
-        "url": "https://open.spotify.com/album/2MemAGSs6AwHzhHRr4FezH"
+        "name": "Guide",
+        "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
       },
       "artists": [
         {
-          "name": "Kashcoming",
-          "url": "https://open.spotify.com/artist/5yJLqKU6LRfzliSQIVnJMI"
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
         },
         {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+          "name": "Chech",
+          "url": "https://open.spotify.com/artist/2hcI8RG5BVD85XXcuMFLiO"
+        },
+        {
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 155789,
-      "name": "Hello Hello",
-      "url": "https://open.spotify.com/track/2Ee6WFlAauCqC241KOe4xq"
+      "duration_ms": 127565,
+      "name": "Guide",
+      "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -647,6 +647,22 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
+        "name": "Rock Me Gentle",
+        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
+      },
+      "artists": [
+        {
+          "name": "Olamide",
+          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
+        }
+      ],
+      "duration_ms": 186028,
+      "name": "Rock Me Gentle",
+      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
         "name": "Bank Alert",
         "url": "https://open.spotify.com/album/6gbIE8I2TYRVU23PoIltaS"
       },
@@ -671,22 +687,6 @@
       "duration_ms": 142487,
       "name": "Bank Alert",
       "url": "https://open.spotify.com/track/4wEpSkZ9V6CNZu8gwiOw1a"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
-        "name": "Rock Me Gentle",
-        "url": "https://open.spotify.com/album/45NPP48bR0MLByihoQBOia"
-      },
-      "artists": [
-        {
-          "name": "Olamide",
-          "url": "https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr"
-        }
-      ],
-      "duration_ms": 186028,
-      "name": "Rock Me Gentle",
-      "url": "https://open.spotify.com/track/6E55BUeTgdzkQqXsPD5LGh"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -739,30 +739,6 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "KING COAL",
-        "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
-      },
-      "artists": [
-        {
-          "name": "Wande Coal",
-          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
-        },
-        {
-          "name": "Ruger",
-          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 188803,
-      "name": "GBESUNMO",
-      "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
         "name": "99 (feat. Daecolm)",
         "url": "https://open.spotify.com/album/2BhFjpBKVdJxl1U4XqiIUv"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 248832,
       "name": "99 (feat. Daecolm)",
       "url": "https://open.spotify.com/track/4sm7xhaW2PT4iLuTtXaKa1"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
+        "name": "KING COAL",
+        "url": "https://open.spotify.com/album/6KPqebNAhpIVGeDzjaATxr"
+      },
+      "artists": [
+        {
+          "name": "Wande Coal",
+          "url": "https://open.spotify.com/artist/1fYVmAFB7sC7eDoF3mJXla"
+        },
+        {
+          "name": "Ruger",
+          "url": "https://open.spotify.com/artist/0a1SidMjD8D6EHvJph4n2H"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 188803,
+      "name": "GBESUNMO",
+      "url": "https://open.spotify.com/track/4erCeMYq7wsuiKTpBF69hH"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -935,22 +935,6 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 146165,
-      "name": "SHEGE",
-      "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
         "name": "11:11 (Deluxe)",
         "url": "https://open.spotify.com/album/5onhEG8O3aKdg9b4lIdkNz"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 176503,
       "name": "Hmmm (feat. Davido)",
       "url": "https://open.spotify.com/track/2JfRd9fkzyZge8BZzs7aUI"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 146165,
+      "name": "SHEGE",
+      "url": "https://open.spotify.com/track/7kf67G87lsYqfnooZB913F"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -1027,22 +1027,6 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "Root Of All Evil",
-        "url": "https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd"
-      },
-      "artists": [
-        {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
-        }
-      ],
-      "duration_ms": 185084,
-      "name": "Root Of All Evil",
-      "url": "https://open.spotify.com/track/5ZBWJoft4p9Pg6o2YkTSqN"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
         "name": "Wahala Pikin",
         "url": "https://open.spotify.com/album/3DVSsOwiOvKGN6t639kjy4"
       },
@@ -1055,6 +1039,22 @@
       "duration_ms": 118801,
       "name": "Opium Amapiano",
       "url": "https://open.spotify.com/track/7oocZnr0yjZxJfRkbOHkYv"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
+        "name": "Root Of All Evil",
+        "url": "https://open.spotify.com/album/3wk4P3gN8M5NwaYV4kV6jd"
+      },
+      "artists": [
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 185084,
+      "name": "Root Of All Evil",
+      "url": "https://open.spotify.com/track/5ZBWJoft4p9Pg6o2YkTSqN"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -1123,22 +1123,6 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "Shakabulizzy",
-        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 165296,
-      "name": "Shakabulizzy",
-      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
         "name": "1 WORK (Remix)",
         "url": "https://open.spotify.com/album/7yezfWrnSRLPRkHIM0nvls"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 136693,
       "name": "1 WORK - Remix",
       "url": "https://open.spotify.com/track/5LDB1Cal2PnHN3Ioy84SdN"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
+        "name": "Shakabulizzy",
+        "url": "https://open.spotify.com/album/3C9TWb7MPEM0gOJOmEk54s"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 165296,
+      "name": "Shakabulizzy",
+      "url": "https://open.spotify.com/track/1Yf58S4QQwxqYSJZm5JxmA"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -1403,26 +1403,6 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "The Wellness Package",
-        "url": "https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV"
-      },
-      "artists": [
-        {
-          "name": "Teni",
-          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
-        },
-        {
-          "name": "Chike",
-          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
-        }
-      ],
-      "duration_ms": 197522,
-      "name": "Wuru Manya",
-      "url": "https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
         "name": "ROAD TO PARATI",
         "url": "https://open.spotify.com/album/4hrsqASn4jdNwpEB3xhq2f"
       },
@@ -1443,6 +1423,26 @@
       "duration_ms": 172631,
       "name": "Stack",
       "url": "https://open.spotify.com/track/0IrPrIOOIq8d0KRb8QQ4xQ"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
+        "name": "The Wellness Package",
+        "url": "https://open.spotify.com/album/1kEUq0Waq0I4HaFtNJISiV"
+      },
+      "artists": [
+        {
+          "name": "Teni",
+          "url": "https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS"
+        },
+        {
+          "name": "Chike",
+          "url": "https://open.spotify.com/artist/6zK1M4TcabpLQMNmmG2P0Q"
+        }
+      ],
+      "duration_ms": 197522,
+      "name": "Wuru Manya",
+      "url": "https://open.spotify.com/track/47UOr5Xqi2CsGRiMwbyVnN"
     },
     {
       "added_at": "2026-09-11 00:01:38",
@@ -1479,30 +1479,6 @@
     {
       "added_at": "2026-09-11 00:01:38",
       "album": {
-        "name": "Time Of Our Lives",
-        "url": "https://open.spotify.com/album/566xpmRwGi7Ho4I4BoQSoF"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Ajebutter22",
-          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
-        },
-        {
-          "name": "Time Of Our Lives",
-          "url": "https://open.spotify.com/artist/1a0dkcZrMwhd1nbwvIxIax"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Time Of Our Lives",
-      "url": "https://open.spotify.com/track/6PaDuV64iFg4PPUWmc6yc7"
-    },
-    {
-      "added_at": "2026-09-11 00:01:38",
-      "album": {
         "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
         "url": "https://open.spotify.com/album/5YU6EleyQUDHFaPUwaiGA4"
       },
@@ -1527,6 +1503,30 @@
       "duration_ms": 217718,
       "name": "W For Wetego (feat. Young Jonn, Phyno & DJ 808)",
       "url": "https://open.spotify.com/track/7fJofn7Y6Uo7g8S4JRNr3m"
+    },
+    {
+      "added_at": "2026-09-11 00:01:38",
+      "album": {
+        "name": "Time Of Our Lives",
+        "url": "https://open.spotify.com/album/566xpmRwGi7Ho4I4BoQSoF"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Ajebutter22",
+          "url": "https://open.spotify.com/artist/36gl2NBJNRaQakdS4fTKGW"
+        },
+        {
+          "name": "Time Of Our Lives",
+          "url": "https://open.spotify.com/artist/1a0dkcZrMwhd1nbwvIxIax"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Time Of Our Lives",
+      "url": "https://open.spotify.com/track/6PaDuV64iFg4PPUWmc6yc7"
     },
     {
       "added_at": "2026-09-11 00:01:38",

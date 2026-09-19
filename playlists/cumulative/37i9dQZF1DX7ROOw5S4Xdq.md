@@ -4,7 +4,7 @@
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-3,671 songs - 12 day 23 hr 28 min
+3,672 songs - 12 day 23 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1693,7 +1693,7 @@
 | [Maior Valor](https://open.spotify.com/track/7zQ4rYnJwGb7fhLIczOXZW) | [Davi Sacer](https://open.spotify.com/artist/6z6iovCkrGvBsRsLOrFbdx) | [Maior Valor](https://open.spotify.com/album/5iZwOIXt76NucI30CkbCHK) | 4:58 | 2025-11-07 | 2025-11-28 |
 | [Mais](https://open.spotify.com/track/779Ex6ZFFjTJs4EtTEGamv) | [Keven Be](https://open.spotify.com/artist/4O7qWGPD4cqXCma90NK0vk), [Sulset Music](https://open.spotify.com/artist/4QjHpxVGeol4deNW46UScs) | [Mais](https://open.spotify.com/album/3eE7CHTzouV35tI3ndrjjO) | 3:33 | 2023-10-06 | 2023-10-14 |
 | [Mais \- Ao Vivo](https://open.spotify.com/track/5GdPVjVpPJGqH82K7eSEmX) | [Carol Braga](https://open.spotify.com/artist/62tR4thbBmrAuprUoUVgGA) | [Mais \(Ao Vivo\)](https://open.spotify.com/album/756qdT3UtQKJ8xX2chlELS) | 6:42 | 2023-11-24 | 2023-12-23 |
-| [Mais do que Cantar \- Ao Vivo](https://open.spotify.com/track/36tCsZ3d4eRksmOEhWzQlJ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [O Céu É o Meu Lar \(Ao Vivo\)](https://open.spotify.com/album/3NRVpQ0qlPEoMGj5I3fOfB) | 7:17 | 2026-08-21 |  |
+| [Mais do que Cantar \- Ao Vivo](https://open.spotify.com/track/36tCsZ3d4eRksmOEhWzQlJ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [O Céu É o Meu Lar \(Ao Vivo\)](https://open.spotify.com/album/3NRVpQ0qlPEoMGj5I3fOfB) | 7:17 | 2026-08-21 | 2026-09-19 |
 | [Mais Do Que o Ouro \- Ao Vivo](https://open.spotify.com/track/6LLAG4Op6SUP4JM72UnWZa) | [Jeser Pires](https://open.spotify.com/artist/01PC7nidJabM3Z9igap9GD), [Os Bravos](https://open.spotify.com/artist/1fR2eijp4FoQX7RmBUeyEm) | [Mais Do Que o Ouro \(Ao Vivo\)](https://open.spotify.com/album/2zzHuCKUHCAkDBmfDaQdwW) | 5:44 | 2025-02-07 | 2025-03-01 |
 | [Mais Firme do Que Nunca \(Ao Vivo\)](https://open.spotify.com/track/1R3HWg25Sgcci0gDovGXb9) | [Letícia Vitória](https://open.spotify.com/artist/5TiYZA0hvaVGzez5lg9WhR), [Arthur Callazans](https://open.spotify.com/artist/5Wkk7zsJx0eYgnR7rAFIVS) | [Mais Firme do Que Nunca \(Ao Vivo\)](https://open.spotify.com/album/54j6RaMfHjRtNQPbJL8btu) | 4:16 | 2024-11-22 | 2024-11-30 |
 | [Mais Firme do Que Nunca \- Ao Vivo](https://open.spotify.com/track/2VI0zYsH1XzgYj0nZITK4C) | [Kiara Vitória](https://open.spotify.com/artist/7isz29frg8jk2TERqWfP00) | [Mais Firme do Que Nunca \(Ao Vivo\)](https://open.spotify.com/album/0IuPNKprDIhUuzlLJD04sE) | 4:15 | 2025-03-28 | 2025-04-12 |
@@ -3347,6 +3347,7 @@
 | [Tudo em Ti me faz Te amar](https://open.spotify.com/track/5R5u4qHQ6bJjLUYpbJzkUk) | [Adelso Freire](https://open.spotify.com/artist/1ppkWLi1n5n1lIbp1I95i5), [Jonata Cabral](https://open.spotify.com/artist/0RwWKoLV3ZRPZP5ZuDV1Rp) | [Tudo em Ti me faz Te amar](https://open.spotify.com/album/2MgcH8LW2mdRZY3gr8fuDg) | 3:57 | 2025-10-03 | 2025-10-17 |
 | [Tudo Ficou Bem \- Ao Vivo](https://open.spotify.com/track/3L90bRzxVichbr3jsoEHJB) | [Mari Borges](https://open.spotify.com/artist/0p2zpsFX6FVVOWOVQ9SSa6) | [Tudo Ficou Bem \(Ao Vivo\)](https://open.spotify.com/album/02tYgCry3Vd22RoeygK7uO) | 5:33 | 2024-06-14 | 2024-06-29 |
 | [Tudo Mudou \- Ao Vivo](https://open.spotify.com/track/4G2oaoj9Dd6afKWrfVOLXp) | [Gabriel Brito](https://open.spotify.com/artist/4LXMmTqllPBxNh4msJMYCm) | [Tudo Mudou \(Ao Vivo\)](https://open.spotify.com/album/3EMz8oYJ87r287ZbKthluj) | 3:32 | 2023-10-06 | 2023-10-14 |
+| [Tudo Novo / Maranata \- Ao Vivo](https://open.spotify.com/track/1lql7PYuQF4vRnBh8QTeKf) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn) | [Tudo Novo \| 25 anos \- Parte 2: Presença \(Ao Vivo\)](https://open.spotify.com/album/0pUXoscu8IEaVcgsmky1VY) | 10:17 | 2026-09-18 |  |
 | [Tudo o Que Eu Preciso \- Ao Vivo](https://open.spotify.com/track/3acTlXk10D1LD2LgtCJ4eJ) | [Jhonas Serra](https://open.spotify.com/artist/0WsTM0BMHTqJM5M7EGX4EH) | [Tudo o Que Eu Preciso \(Ao Vivo\)](https://open.spotify.com/album/5i7kZXFFpzsMRKjtv0Pd8M) | 6:13 | 2026-07-17 | 2026-08-07 |
 | [Tudo o Que Sou](https://open.spotify.com/track/1dqywAyR0E5xasRAq9BWdA) | [Vocal Renascer](https://open.spotify.com/artist/3khrOLayDDtaAbUBeUQDd2), [Naielly](https://open.spotify.com/artist/0fNnCnzmzMDAmxUgPygioi) | [Tudo o Que Sou](https://open.spotify.com/album/3Dq6FiMfBjEgodbEsOWBBs) | 3:29 | 2023-07-21 | 2023-07-29 |
 | [Tudo para Ser Feliz](https://open.spotify.com/track/4IX1RHu9O1JPHovadAPU8u) | [Morelzinho](https://open.spotify.com/artist/1GI7OMBkCGuM25mxweZeyY) | [Tudo para Ser Feliz](https://open.spotify.com/album/7tHAxRj39QK33a62ZB0ttd) | 3:11 | 2025-02-28 | 2025-03-08 |

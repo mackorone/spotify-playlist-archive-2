@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 
 > The best new music by independent artists and labels in India\. Cover \- Aamir Rizvi
 
-[Spotify](https://open.spotify.com/user/spotify) - 63,136 likes - 50 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 63,183 likes - 50 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaRf94BiB7fV.md) - [plain]
 | 49 | [Saanware](https://open.spotify.com/track/5pKX2YPm6Ke9ObybeurG8i) | [Zikrr](https://open.spotify.com/artist/4aEfgXDQuGLSDsyFRGt2DZ), [Vidhi Tyagi](https://open.spotify.com/artist/2WUJ2S53A6RZENNR2rbAzr), [Arjit Srivastava](https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz), [DUSH](https://open.spotify.com/artist/05abXfm9g4tZcaUqn301Xh) | [Saanware](https://open.spotify.com/album/5GLWcHsMZOBsIPj0969gXm) | 3:34 |
 | 50 | [I'm In Love](https://open.spotify.com/track/18cZRZyMpNqI6VQxodCXz9) | [Shreya Karmakar](https://open.spotify.com/artist/0acFRXnuE857d9jtr7ZV0F) | [I'm In Love](https://open.spotify.com/album/34F4oGQLAwchtuiU5mZD0i) | 3:19 |
 
-Snapshot ID: `AAAAALKVm7/TdRfn3juZ0Opuv4LYiVsF`
+Snapshot ID: `AAAAAOszMvJo6Txj8GU6+Z3TrE4aA50/`

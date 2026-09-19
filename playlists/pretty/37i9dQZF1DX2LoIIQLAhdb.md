@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 
 > Le R&B français, nouvelle ère\. Photo : Jey Brownie x Merveille
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,633 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,729 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2LoIIQLAhdb.md) - [plain]
 | 39 | [MÉLANGÉ](https://open.spotify.com/track/41lNUNNATNWnW44H3QG0VN) | [Sassy](https://open.spotify.com/artist/7xctvxd7HiY2nLko37YEx2) | [MÉLANGÉ](https://open.spotify.com/album/08oPslm1X7q3yZxPTbGXbp) | 2:31 |
 | 40 | [OVER](https://open.spotify.com/track/18nUcRgG9TPNieS0SL5uij) | [Holy](https://open.spotify.com/artist/0W8m2g2n1fFTBC22ZovGEk) | [OVER](https://open.spotify.com/album/5CKTlquXhFwVQIobBgfpyH) | 2:38 |
 
-Snapshot ID: `AAAAAEkXtayBfAfFZy59uLe5cS1GLM9E`
+Snapshot ID: `AAAAAHAyGMOUphRYtmv22isegY5wncJB`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 
 > Future hits in the Philippines! Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,047 likes - 80 songs - 4 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,040 likes - 80 songs - 4 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBkvNBaUBeu.md) - [plain]
 | 79 | [Light the Way](https://open.spotify.com/track/518z7AJPjm0oCI8vEN6S5j) | [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Happiness Anytime: Part 1](https://open.spotify.com/album/0be9RJySbvkMaeCqMytpcH) | 3:31 |
 | 80 | [Bury It](https://open.spotify.com/track/3BEe362K23Vc1bliXqyQ4x) | [Estelle Fly](https://open.spotify.com/artist/3sBC2tYJt3sFq6j1dPC5Bk) | [Bury It](https://open.spotify.com/album/33W0mcGpZis0alt3swinMu) | 3:08 |
 
-Snapshot ID: `AAAAAIZnp6DWjgVfcbx3TI9qSu1wJUep`
+Snapshot ID: `AAAAAAGBMwPgItW0onjYxb6AQM0qm8Zy`

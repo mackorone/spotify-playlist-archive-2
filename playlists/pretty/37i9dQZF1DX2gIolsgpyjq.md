@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 
 > The best new music by independent artists in the Nordics\. Cover: louii lane
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,385 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,402 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2gIolsgpyjq.md) - [plain]
 | 49 | [Not That Bitch](https://open.spotify.com/track/0CymDJg0OssX4hWpHrfuB4) | [Yuti](https://open.spotify.com/artist/2PQPBZUsdiz2pUewFnp8eY) | [Not That Bitch](https://open.spotify.com/album/59Ut1LRluyqYimnD2Njrpt) | 2:18 |
 | 50 | [pixel heart](https://open.spotify.com/track/5tuBcdw0wZTVBFEumaX7zq) | [dóttir.x](https://open.spotify.com/artist/7jq2vXolpLlHipMTPVeMR0) | [pixel heart](https://open.spotify.com/album/2JN3HJiXofIxU9pluRaH0m) | 3:04 |
 
-Snapshot ID: `AAAAAFtlFOBCaBnwnGoZCbPY3GJ+sjpH`
+Snapshot ID: `AAAAALsnYvBeAIRqbANze9yw1hJjNbUI`

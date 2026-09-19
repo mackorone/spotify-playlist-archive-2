@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 
 > lass mal den herbst romantisieren
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,101,793 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,101,847 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 24 | [Chemical Light](https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK) | [Josie Edwards](https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq) | [Greetings From Bleak St.](https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1) | 3:46 |
 | 25 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 |
 | 26 | [Take Me There](https://open.spotify.com/track/5Xlm6r0hBIxe0OvtfUG9UX) | [DA TI](https://open.spotify.com/artist/0E1Yd4BPHXB4DfTaYb9Y5i) | [Take Me There](https://open.spotify.com/album/0hT1cJPUyBfkscqU1gMbpa) | 3:22 |
-| 27 | [Track 5](https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [everything in between](https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO) | 0:00 |
+| 27 | [seven days a week](https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [everything in between](https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO) | 3:33 |
 | 28 | [Mariella](https://open.spotify.com/track/3dvXRk7TZ929m21p49RR5P) | [Khruangbin](https://open.spotify.com/artist/2mVVjNmdjXZZDvhgQWiakk), [Leon Bridges](https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x) | [Texas Moon](https://open.spotify.com/album/2Xs9xSBhvyo8F6daRc1npu) | 5:10 |
 | 29 | [us\. \(feat\. Taylor Swift\)](https://open.spotify.com/track/0hhzNPE68LWLfgZwdpxVdR) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5), [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [The Secret of Us](https://open.spotify.com/album/56bdWeO40o3WfAD2Lja4dl) | 4:02 |
 | 30 | [The light in the painting](https://open.spotify.com/track/6E8YhQRxBowTWXmHbhmJTJ) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [The light in the painting](https://open.spotify.com/album/2skGI69m0mNWQ4o5hguQbY) | 3:44 |
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 43 | [All My Friends](https://open.spotify.com/track/4bDhE89Vq92CWTvwFb8zP8) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Loner](https://open.spotify.com/album/6aE10Kz82jIDkcOM2hRhR5) | 3:20 |
 | 44 | [Hu Man](https://open.spotify.com/track/2ZfVt2skRwfEq1Wb3D7GmP) | [Greentea Peng](https://open.spotify.com/artist/5z9wLR0RGBcWMXr4fCZW0K) | [Hu Man](https://open.spotify.com/album/1weDKnsUBvJMN9sdlaqC2W) | 3:23 |
 | 45 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 |
-| 46 | [Rehab \- Spotify Singles](https://open.spotify.com/track/2zohPykSNrLEahqVi3gKfu) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Rehab \- Spotify Singles](https://open.spotify.com/album/5ryoNuIzvgmHGm1mswYtq2) | 4:22 |
-| 47 | [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 |
+| 46 | [doing my best](https://open.spotify.com/track/2jEK6rkAJ82GjVSoIkxxyr) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [doing my best](https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC) | 3:02 |
+| 47 | [Rehab \- Spotify Singles](https://open.spotify.com/track/2zohPykSNrLEahqVi3gKfu) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Rehab \- Spotify Singles](https://open.spotify.com/album/5ryoNuIzvgmHGm1mswYtq2) | 4:22 |
 | 48 | [In My Head](https://open.spotify.com/track/0AwAvlH9dNtZ8oC2PZAzRe) | [Jo The Man The Music](https://open.spotify.com/artist/1BWOJXIhHTWP13YSMqjnAQ) | [Soft Skin \(only\)](https://open.spotify.com/album/4erHS0wa1Atrw9cmkQTED7) | 2:27 |
 | 49 | [Head In The Clouds](https://open.spotify.com/track/3CeKc83EsgRPItgvlDHo5B) | [Hayd](https://open.spotify.com/artist/1adGvsK8A0XG2D18ufk7fZ) | [Changes \- EP](https://open.spotify.com/album/1GknYqyoJ7ZHn8ch5PJipt) | 3:04 |
 | 50 | [Till the Morning](https://open.spotify.com/track/0wuxOBMmwRRgJi3gXse0QD) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6), [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [Wide Awake](https://open.spotify.com/album/0yTCTx3Xq4LGjgDVHCba81) | 3:34 |
@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 52 | [light up](https://open.spotify.com/track/5873aXgitStLQwgQBRVJAK) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [light up](https://open.spotify.com/album/624OAhMdNm67bAzeEoQCsS) | 3:35 |
 | 53 | [I Was Stone](https://open.spotify.com/track/6NLpXfFn71uETTLM8aqjeB) | [SYML](https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0) | [I Was Stone](https://open.spotify.com/album/5suahUnFpSYBNSXncdV1fg) | 3:46 |
 | 54 | [Claw Marks](https://open.spotify.com/track/6QsXgv4TR4luZN0omMH5Di) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [Claw Marks](https://open.spotify.com/album/554SArB7F5OY3NkquLJ06I) | 2:35 |
-| 55 | [Reza Braba](https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 3:24 |
-| 56 | [Märchenwald](https://open.spotify.com/track/5lsYXP02jd62YmG4iARPTK) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [Märchenwald](https://open.spotify.com/album/1swXRRje7xzfuTdFL5A5tz) | 3:03 |
+| 55 | [Märchenwald](https://open.spotify.com/track/5lsYXP02jd62YmG4iARPTK) | [CRO](https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu), [jolle](https://open.spotify.com/artist/6iBB08eTj4dxsbpaXIUJdQ) | [Märchenwald](https://open.spotify.com/album/1swXRRje7xzfuTdFL5A5tz) | 3:03 |
+| 56 | [Reza Braba](https://open.spotify.com/track/05IQB3ByghBrhl1U0hYA6a) | [Mari Froes](https://open.spotify.com/artist/60oAQJsBmykZP3GwjbSL6S) | [Esquina do Sol](https://open.spotify.com/album/5X30ATquawvTC3sySlEtMv) | 3:24 |
 | 57 | [Call It Love](https://open.spotify.com/track/7y572RoCEda0D8Wm8JUEha) | [thebandfriday](https://open.spotify.com/artist/4GYuunIaiS9R8sPS6hzhFs) | [Homecoming](https://open.spotify.com/album/6eS5eYT7btNKemESERBLNa) | 3:11 |
 | 58 | [Karaoke Bar](https://open.spotify.com/track/6LnSW4vYgR1nVsbnkhxqEN) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Karaoke Bar](https://open.spotify.com/album/7glG1v9GDkGqCA8M5ad1Qa) | 3:24 |
 | 59 | [was bleibt](https://open.spotify.com/track/0IImqP5NaL0ZN5jPCIlOad) | [Ami Warning](https://open.spotify.com/artist/7emjIbMonyAREBQkHhblu9) | [was bleibt](https://open.spotify.com/album/6mWRN4XBYWFVJlnmnE9UFJ) | 3:13 |
@@ -81,8 +81,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 71 | [Eugene](https://open.spotify.com/track/4S6PolgPZ5OLph314ww8Fg) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Eugene](https://open.spotify.com/album/7FJKoKn7zy2OET6KtiJJp7) | 3:41 |
 | 72 | [All Again](https://open.spotify.com/track/60DdAwooDzeUf68mZB6d5b) | [Wallners](https://open.spotify.com/artist/3EdHRW9KganBlpKU12OQos) | [Prolog I](https://open.spotify.com/album/1T4yqQcf6jzCEt8IX1dF1v) | 4:18 |
 | 73 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |
-| 74 | [think twice](https://open.spotify.com/track/3K8Dlk2IdXvb3kPDpf8zbU) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [think twice](https://open.spotify.com/album/5ZCaadoasMxcPFsMWeHlye) | 5:27 |
-| 75 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
+| 74 | [Deep End](https://open.spotify.com/track/3DXEbjIftmPeBj638CxyJD) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Deep End](https://open.spotify.com/album/4nbcHRQuErLlToxQWa9eRc) | 2:51 |
+| 75 | [think twice](https://open.spotify.com/track/3K8Dlk2IdXvb3kPDpf8zbU) | [strongboi](https://open.spotify.com/artist/2ygluM9w0lmulZrMJ1pI0i) | [think twice](https://open.spotify.com/album/5ZCaadoasMxcPFsMWeHlye) | 5:27 |
 | 76 | [Stolen Seasons](https://open.spotify.com/track/4I1MhYsQQ71wkE5DiCWw5T) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Goodbye to the Valley Low \(Side A\)](https://open.spotify.com/album/4y08yRIEOIAcGkuJWwWZ91) | 3:01 |
 | 77 | [Happy For Myself](https://open.spotify.com/track/36dsWcxFduUk1YJASw1lYp) | [Carly Pearce](https://open.spotify.com/artist/4sIl4BTo9l9KqEi0Y3RE72) | [Happy For Myself](https://open.spotify.com/album/6ikfoJwEotEUf1cxuNdA7e) | 2:45 |
 | 78 | [Feel The Rush](https://open.spotify.com/track/2Hu0FoS9V98LSQkkOtsKIx) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Feel The Rush](https://open.spotify.com/album/33xNB3f9rzZhPpO8xs1xD0) | 3:13 |
@@ -91,10 +91,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 81 | [Tell Me](https://open.spotify.com/track/1oKgrBYuFR7zq5k80OiwEe) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Tell Me](https://open.spotify.com/album/1bEGUR0TXyAEETEGIuRw0S) | 3:26 |
 | 82 | [Bisschen wach](https://open.spotify.com/track/6boCFRIpvYlbv5HnTdgbyA) | [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI), [anaïs](https://open.spotify.com/artist/5uT4SmzhWTYv1iia2BFnVQ) | [Am Ende des Tages](https://open.spotify.com/album/52JSitmvGlUJFlJMVidPNL) | 3:15 |
 | 83 | [Little Life](https://open.spotify.com/track/3NI4AFvzhJOuYBA5lYXHWM) | [Cordelia](https://open.spotify.com/artist/07Hw5MsrlNyfsE1UT40FL4) | [Caramel](https://open.spotify.com/album/2iisoUhGqOQr7H6Qkxqc8o) | 4:30 |
-| 84 | [Iman](https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Iman](https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN) | 4:00 |
-| 85 | [when i close my eyes](https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [when i close my eyes](https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb) | 3:46 |
-| 86 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
-| 87 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
+| 84 | [when i close my eyes](https://open.spotify.com/track/2Az9qnorhkpbvkwA0nu8hY) | [Benjamin Amaru](https://open.spotify.com/artist/05HjXsZCR2S4JW473HsFvp) | [when i close my eyes](https://open.spotify.com/album/6he3WZdBgT2Qpqc3uvOYgb) | 3:46 |
+| 85 | [Iman](https://open.spotify.com/track/4cQcn6Zh5mHglFWIXnckqi) | [Yuuf](https://open.spotify.com/artist/3VfdXeAhqukWy1TTimSA7v) | [Iman](https://open.spotify.com/album/5NbAz6PiABkXYYOpaTIEQN) | 4:00 |
+| 86 | [Everything](https://open.spotify.com/track/3ELZG2YLGrwCVesooFyF4e) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Rosie Lowe](https://open.spotify.com/artist/3xGUleMP0VqmYNXcGBNhnI) | [Everything](https://open.spotify.com/album/7H2TlAwM0GMWeZbT3XGI0F) | 3:35 |
+| 87 | [Know the Night](https://open.spotify.com/track/0hfjholWfyL1cxsvjwkzM8) | [Ocie Elliott](https://open.spotify.com/artist/5jbk18C7YXRcEZxUWPJCyT) | [Know the Night](https://open.spotify.com/album/1rKrDA2rrti4WOKjsF4XWm) | 3:10 |
 | 88 | [1000 Tage](https://open.spotify.com/track/5No65rZdw7efFpH5Ax6F6Z) | [yung pepp](https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR) | [1000 Tage](https://open.spotify.com/album/5TeTkaORghKxRZob0qxBqD) | 2:00 |
 | 89 | [Irish Eyes \- Cover](https://open.spotify.com/track/7f22CM18praOPpgvbiMAgY) | [Isabel Dumaa](https://open.spotify.com/artist/31R2Jd36gfwflNuGkqovpv) | [Irish Eyes](https://open.spotify.com/album/6wNwp3iSMstG1TjpTQLbAq) | 2:33 |
 | 90 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaIrEwuQ3hyy.md) - [plain]
 | 99 | [Bau mich auseinander \(Piano Version\)](https://open.spotify.com/track/0Ok8KfWfiI84vEYHbtX4TE) | [Fynn Kliemann](https://open.spotify.com/artist/2YIxQoGvBukvoC1CbJ7opS), [Philipp Schwär](https://open.spotify.com/artist/21zpknhD3wjZyfgr6WF0lg), [Klinger](https://open.spotify.com/artist/5IZvbL90N2vOjH9Cjqrgqr) | [Nur](https://open.spotify.com/album/5bDisUecxjM8WhpK7HKmrK) | 3:36 |
 | 100 | [When A Good Man Cries](https://open.spotify.com/track/32EMc8jknohqZlNSM6gtj7) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [When A Good Man Cries](https://open.spotify.com/album/2QAkD0UQPequuKUym51naj) | 4:32 |
 
-Snapshot ID: `AAAAAItSXZJxOqpg3RkAWjNg475jhNgQ`
+Snapshot ID: `AAAAADdkvrHnAELKcp5VNslYTMutHPZS`

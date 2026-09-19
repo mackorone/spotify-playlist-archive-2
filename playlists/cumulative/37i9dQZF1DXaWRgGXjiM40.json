@@ -1283,6 +1283,28 @@
     },
     {
       "album": {
+        "name": "Me Leva Pra Voc\u00ea (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4TZD2wHncHxrfovghumTIm"
+      },
+      "artists": [
+        {
+          "name": "Matheus & Kauan",
+          "url": "https://open.spotify.com/artist/2Z0lRIqr997lIUiPtrpKCr"
+        },
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230165,
+      "name": "Me Leva Pra Voc\u00ea - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Ae6RpDX15PH0nY4qpwBfx"
+    },
+    {
+      "album": {
         "name": "Ao Vivo Em Goi\u00e2nia",
         "url": "https://open.spotify.com/album/61KUhWve8zR7CreNCWZcha"
       },
@@ -1366,7 +1388,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 189997,
       "name": "Minha Vontade",
       "url": "https://open.spotify.com/track/4eWHMq1DmBtj0XLv3rFySv"
@@ -1431,6 +1453,24 @@
     },
     {
       "album": {
+        "name": "Mo\u00e7a Pra Casar (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1ojbs1pbmWrudu24ZleoKT"
+      },
+      "artists": [
+        {
+          "name": "Diego & Victor Hugo",
+          "url": "https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161862,
+      "name": "Mo\u00e7a Pra Casar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6xawCc1ihv2XbURFL9bJLs"
+    },
+    {
+      "album": {
         "name": "Esquece o Mundo L\u00e1 Fora (Ao Vivo | Deluxe)",
         "url": "https://open.spotify.com/album/0wQ5Sn6RU4yL6WpeiWSaBN"
       },
@@ -1486,7 +1526,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 161597,
       "name": "M\u00e1gica - Live",
       "url": "https://open.spotify.com/track/5cN5ZOVcYBl4Lnq50Zeqsx"

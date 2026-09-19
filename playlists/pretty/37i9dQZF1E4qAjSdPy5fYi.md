@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 
 ### [Kittydog Radio](https://open.spotify.com/playlist/37i9dQZF1E4qAjSdPy5fYi)
 
-> With SPARKLEWOLF RADIO, UrvTek, sixwing and more
+> With UrvTek, sixwing, STYXVII and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 690 likes - 50 songs - 2 hr 23 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4qAjSdPy5fYi.md) - [plain]
 | 49 | [The Last One Left](https://open.spotify.com/track/6vCoPOCloqfrlUV9R0yYSH) | [Rueckus](https://open.spotify.com/artist/5w9vKV2lL3zHp1i6QsUDWY) | [The Last One Left](https://open.spotify.com/album/4Gt894ZDs83BO1mPqXVJJN) | 3:23 |
 | 50 | [Afraid of the Dark](https://open.spotify.com/track/5zZPKKopUMdDw17b1MHA3G) | [Awkward Marina](https://open.spotify.com/artist/2tZhjPJa22VaG9rBTpQhow) | [AWKTOBER](https://open.spotify.com/album/0DvEEegjWgoluiCObVyKX7) | 3:01 |
 
-Snapshot ID: `AAAAAHh1n3fmvxq4V/CGsuh7SvjeU0Qw`
+Snapshot ID: `AAAAAEGoFu4rizeVHadngXYxelpLRHrr`

@@ -81,6 +81,24 @@
     },
     {
       "album": {
+        "name": "Blissed Out",
+        "url": "https://open.spotify.com/album/3NDxs3nvQvDUlm8YcFDTbd"
+      },
+      "artists": [
+        {
+          "name": "Raveena",
+          "url": "https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238938,
+      "name": "Blissed Out",
+      "url": "https://open.spotify.com/track/1v3fjHaMNoXYMntxhpUIcF"
+    },
+    {
+      "album": {
         "name": "The Way That Lovers Do (Deluxe)",
         "url": "https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N"
       },

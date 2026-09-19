@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 
 > doppel gangs  en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 349,037 likes - 112 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 349,009 likes - 112 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6hYrNXR8P2U.md) - [plain]
 | 111 | [Testigos](https://open.spotify.com/track/7AKh9n2ntcD9qw5zf2Sjgy) | [esperanzah.](https://open.spotify.com/artist/1vRM1MjuevPK5oTTYOoZS6) | [ESPERANZAH.](https://open.spotify.com/album/0mFyq5UNYqqXKta7zraEYI) | 3:31 |
 | 112 | [El Camino](https://open.spotify.com/track/6ImoaHwKlO5mMkAfsqSHa9) | [Cerounno](https://open.spotify.com/artist/5KpmLKI7ktzNzQL13J95Pf), [Vinyltracker](https://open.spotify.com/artist/3C1LbhIokOcNVlfGF9k6Qz) | [De Camino Al Palacio](https://open.spotify.com/album/2HnisiZ6JpLbIZivzCDque) | 2:40 |
 
-Snapshot ID: `AAAAALgsxZykd1BJS3fqlLqyXgDetd8w`
+Snapshot ID: `AAAAAImKvAayMb5hkmFXXZNyVzVQAT/b`

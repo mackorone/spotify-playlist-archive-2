@@ -1,12 +1,12 @@
 {
   "description": "Epic tunes for the open road. ",
-  "num_followers": 107151,
+  "num_followers": 107161,
   "original_name": "Long Drives",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKtbbi6UZqmuv9rkgK/NlcfXnHxI",
+  "snapshot_id": "AAAAADR1DT8dcRBdlF2ZXlbMuk1JDGS3",
   "tracks": [
     {
       "added_at": "2026-08-28 01:24:57",
@@ -639,22 +639,6 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Surf Hat",
-        "url": "https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S"
-      },
-      "artists": [
-        {
-          "name": "Surf Hat",
-          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
-        }
-      ],
-      "duration_ms": 179217,
-      "name": "Bowling Alley Thug",
-      "url": "https://open.spotify.com/track/4hbMHyGiSxyZMAbHzy2upA"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
         "name": "Sob Rock",
         "url": "https://open.spotify.com/album/2JmfwvRDitJlTUoLCkp61z"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 187306,
       "name": "Last Train Home",
       "url": "https://open.spotify.com/track/0tgBtQ0ISnMQOKorrN9HLX"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
+        "name": "Surf Hat",
+        "url": "https://open.spotify.com/album/3xM9YASLf1ZnJKQnuvT17S"
+      },
+      "artists": [
+        {
+          "name": "Surf Hat",
+          "url": "https://open.spotify.com/artist/4fFi5poEqNSf7iv0jOwEFy"
+        }
+      ],
+      "duration_ms": 179217,
+      "name": "Bowling Alley Thug",
+      "url": "https://open.spotify.com/track/4hbMHyGiSxyZMAbHzy2upA"
     },
     {
       "added_at": "2026-08-28 01:24:57",
@@ -995,26 +995,6 @@
     {
       "added_at": "2026-08-28 01:24:57",
       "album": {
-        "name": "Ride Lonesome (feat. Sierra Ferrell)",
-        "url": "https://open.spotify.com/album/4ProrUSimVgRttzO0LfZRj"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        },
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 264256,
-      "name": "Ride Lonesome (feat. Sierra Ferrell)",
-      "url": "https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ"
-    },
-    {
-      "added_at": "2026-08-28 01:24:57",
-      "album": {
         "name": "Backwards Directions",
         "url": "https://open.spotify.com/album/5mhk3C0cKun3x8MoIwkukF"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 234360,
       "name": "Something In The Air",
       "url": "https://open.spotify.com/track/0emd9tHSVP4dK6UG4pcOFD"
+    },
+    {
+      "added_at": "2026-08-28 01:24:57",
+      "album": {
+        "name": "Ride Lonesome (feat. Sierra Ferrell)",
+        "url": "https://open.spotify.com/album/4ProrUSimVgRttzO0LfZRj"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        },
+        {
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
+        }
+      ],
+      "duration_ms": 264256,
+      "name": "Ride Lonesome (feat. Sierra Ferrell)",
+      "url": "https://open.spotify.com/track/2lWk9Ik4LSAYKNGwBn86yJ"
     },
     {
       "added_at": "2026-08-28 01:24:57",

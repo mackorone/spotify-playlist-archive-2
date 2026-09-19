@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 
 > Marra e Guè in cover della playlist urban più 🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,119,207 likes - 50 songs - 2 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,119,165 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX14EWeH2Pwf3.md) - [plain]
 | 49 | [COME SE NON FOSSI NEI GUAI](https://open.spotify.com/track/46w75NfLpau9juuoeiY3ZM) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz), [Shiva](https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS) | [SANTANA MONEY GANG](https://open.spotify.com/album/71agI93AilqukvHURp6tGy) | 3:29 |
 | 50 | [+ FORTE](https://open.spotify.com/track/6L1RGHjUjpxf3y2xUl9BSw) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [Latrelle](https://open.spotify.com/artist/2mUoO8KgRQOOzR0VoUWoEV), [Ed Mars](https://open.spotify.com/artist/26LV5lhRjmkGpyqoi2hVB3) | [+ FORTE](https://open.spotify.com/album/0fFTufxbeegpl7egX0ugxa) | 3:26 |
 
-Snapshot ID: `AAAAAG0dk993qpaUQchOIh3lwezgi6cV`
+Snapshot ID: `AAAAABLQ822dAsVECW3akrM1xFz0N5Bo`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 
 > This is Saosin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,950 likes - 37 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,964 likes - 37 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,10 +40,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO10RDWw.md) - [plain]
 | 30 | [Move Slow](https://open.spotify.com/track/7d4BF0jqyQAoaU9kz1AlV3) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Ncis: The Official Tv Soundtrack \- Vol\. 2](https://open.spotify.com/album/576fyLLci8j617RWwYX54O) | 3:08 |
 | 31 | [Racing Toward a Red Light](https://open.spotify.com/track/5BUol6mbHtjJk9giZVW7KV) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Along The Shadow \(Deluxe Edition\)](https://open.spotify.com/album/1i1nrIQlV5M9qM9o9Q9jy4) | 2:54 |
 | 32 | [Pitiful \- Live](https://open.spotify.com/track/5ebNBO5QrgmQLczRlp1rly) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 3:17 |
-| 33 | [Hometown Feeling \- Live](https://open.spotify.com/track/24F7IKeSQuKr47xr5BsI1F) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 0:38 |
-| 34 | [Cove's Memory \- Live](https://open.spotify.com/track/29ogoJ0Qn7x7uuaxe7SNKM) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 1:05 |
+| 33 | [Cove's Memory \- Live](https://open.spotify.com/track/29ogoJ0Qn7x7uuaxe7SNKM) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 1:05 |
+| 34 | [Hometown Feeling \- Live](https://open.spotify.com/track/24F7IKeSQuKr47xr5BsI1F) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 0:38 |
 | 35 | [Racing Towards A Red Light \- Live](https://open.spotify.com/track/3gDekUyuYKGXTvpGkpiU8i) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 3:10 |
 | 36 | [Only 20 Once \- Live](https://open.spotify.com/track/7nIqfhqI24mXCpeqSRAxSZ) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 1:41 |
 | 37 | [Zero \- Live](https://open.spotify.com/track/5NoSuc0Y3ZmXqT6A1zi4GE) | [Saosin](https://open.spotify.com/artist/1NUOfvAhA9AvsF1ISMkgHX) | [Live From The Garden Amphitheater](https://open.spotify.com/album/3NfVMaOZ77ncBATxyHyP1f) | 3:35 |
 
-Snapshot ID: `aqiKgAAAAADFjWc0ygYeFvafqFNUViHf`
+Snapshot ID: `aqstgAAAAABXXxd5n5CLvPTp1GA/Nhfm`

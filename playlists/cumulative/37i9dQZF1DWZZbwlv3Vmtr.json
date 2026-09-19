@@ -1068,7 +1068,7 @@
       ],
       "date_added": "2024-03-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 147567,
       "name": "At Ease",
       "url": "https://open.spotify.com/track/5UsgZGJsK5B98OmsL5ptzI"
@@ -1461,6 +1461,24 @@
     },
     {
       "album": {
+        "name": "Barefoot Hours",
+        "url": "https://open.spotify.com/album/43udYlEJaBPOZWiUYwEGEM"
+      },
+      "artists": [
+        {
+          "name": "Unmade Bed",
+          "url": "https://open.spotify.com/artist/5XYhH4Vnl4zce8VkvTqFCb"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138576,
+      "name": "Barefoot Hours",
+      "url": "https://open.spotify.com/track/4Z0QMdz4LpXLgvCFv1wv4K"
+    },
+    {
+      "album": {
         "name": "Barefootin",
         "url": "https://open.spotify.com/album/3KqQ8MrQOafJh0itq1NjpY"
       },
@@ -1804,7 +1822,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 140000,
       "name": "Biboon",
       "url": "https://open.spotify.com/track/3EoBlre6s5wDqLEXtIaX9R"
@@ -3768,6 +3786,24 @@
       "duration_ms": 104281,
       "name": "Come With A Sparkle",
       "url": "https://open.spotify.com/track/24WyUZrnrasIjh7VjUjnI8"
+    },
+    {
+      "album": {
+        "name": "comeback",
+        "url": "https://open.spotify.com/album/7u3bbRG9GhkhfxTSHP42v7"
+      },
+      "artists": [
+        {
+          "name": "poems",
+          "url": "https://open.spotify.com/artist/3MqAMBWx8jXvOhjQWiGN6w"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126796,
+      "name": "comeback",
+      "url": "https://open.spotify.com/track/5Ka3hY42stMN0lBKdp4KvO"
     },
     {
       "album": {
@@ -6168,7 +6204,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 120020,
       "name": "Flave",
       "url": "https://open.spotify.com/track/69AT3zGrT8dl2hSQPActta"
@@ -13496,7 +13532,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 120981,
       "name": "open",
       "url": "https://open.spotify.com/track/7KNKl6ZoNTqPYgaz4Oe1wF"
@@ -15934,7 +15970,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 114782,
       "name": "rivers ahead",
       "url": "https://open.spotify.com/track/1fuGjJuqIKHimlm4BDIj3W"
@@ -18905,6 +18941,28 @@
     },
     {
       "album": {
+        "name": "Subside",
+        "url": "https://open.spotify.com/album/6YE2UMzo8zi0viQtyrgEVc"
+      },
+      "artists": [
+        {
+          "name": "Ptr.",
+          "url": "https://open.spotify.com/artist/6NjVgE12RKrH5MjW9Tgd0o"
+        },
+        {
+          "name": "Jonny Abbey",
+          "url": "https://open.spotify.com/artist/5qck8dZMJVyI9gCATPGdCj"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150857,
+      "name": "Subside",
+      "url": "https://open.spotify.com/track/63O6VaCtf2PwM5kTRq1hD7"
+    },
+    {
+      "album": {
         "name": "Suijin",
         "url": "https://open.spotify.com/album/0dQZpLubRgBOSsUaIhYZwn"
       },
@@ -20626,7 +20684,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 158225,
       "name": "tirana",
       "url": "https://open.spotify.com/track/6O83ZDzYcqY4obY2VLvqgz"
@@ -20734,7 +20792,7 @@
       ],
       "date_added": "2025-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 143684,
       "name": "told u",
       "url": "https://open.spotify.com/track/13k2LSUYUuJq25wh0rdI2C"

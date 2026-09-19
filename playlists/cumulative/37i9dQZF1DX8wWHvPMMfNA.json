@@ -13329,6 +13329,24 @@
     },
     {
       "album": {
+        "name": "Stay a little longer",
+        "url": "https://open.spotify.com/album/2BOjiIkqNaeTyRuIQS5o3M"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Thomas",
+          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202846,
+      "name": "Stay a little longer",
+      "url": "https://open.spotify.com/track/0emDa50ODJgLqy4l0h6hc4"
+    },
+    {
+      "album": {
         "name": "Turning Point",
         "url": "https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT"
       },
@@ -16972,7 +16990,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 256542,
       "name": "Without saying much",
       "url": "https://open.spotify.com/track/3Lld9Qsp3Rig5lcZTbIWpc"

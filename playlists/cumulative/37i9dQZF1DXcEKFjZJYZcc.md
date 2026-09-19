@@ -4,7 +4,7 @@
 
 > Positive, uplifting piano to make you feel good.
 
-356 songs - 14 hr 37 min
+357 songs - 14 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -305,6 +305,7 @@
 | [The Belfry](https://open.spotify.com/track/7cc0PJfYHGn5W3KQrhXS0D) | [Jessy Ribordy](https://open.spotify.com/artist/7fxyrcwACinFsRlmTxnodY) | [The Belfry](https://open.spotify.com/album/0zcMbeXJrzE5ARa344WXbu) | 2:28 | 2021-12-14 | 2025-06-11 |
 | [The book of love](https://open.spotify.com/track/666JYU0w4jgwyB9xOsjR37) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [The book of love](https://open.spotify.com/album/0GDaWajfUkhgS7rwQNonsJ) | 2:30 | 2023-11-08 |  |
 | [The Chapel](https://open.spotify.com/track/4Vuegf7MFlYZ5h8WK973O3) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [The Chapel](https://open.spotify.com/album/6D6v2edEjUDk5OMVcvzbGO) | 3:30 | 2021-12-14 | 2025-06-11 |
+| [The Long Return](https://open.spotify.com/track/5AevI3cV3brwdOTSh1sfNo) | [Ezequiel Aragón](https://open.spotify.com/artist/683KE92SAUqlhIstBnBBXd) | [The Long Return](https://open.spotify.com/album/4XJd4lS5T8QnUww28zblCt) | 2:06 | 2026-09-18 |  |
 | [The Old Garden](https://open.spotify.com/track/6brQG7CUofzdsnNx3qssrh) | [Sanna Aalto](https://open.spotify.com/artist/6EJXTKyCTIQICfv1PT6uAg) | [The Old Garden](https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM) | 2:54 | 2023-12-12 | 2025-11-13 |
 | [The River](https://open.spotify.com/track/2FPCfxbbIoCItFMjTG8sl0) | [Genevieve Melton](https://open.spotify.com/artist/6qbFrBijq88ljdzAy0CRVr) | [Testimony \(EP\)](https://open.spotify.com/album/0HjtIrigoEWGcSKn8xKVPq) | 1:58 | 2021-12-14 | 2023-09-19 |
 | [The Road Leading Home](https://open.spotify.com/track/6MjhNXAhiZn5q8233Uzxn7) | [Isora Hill](https://open.spotify.com/artist/4tH9SDj4I06E9hy5FaZ1mM) | [The Road Leading Home](https://open.spotify.com/album/787Zif3QbLeV0K7IDRKgnp) | 2:36 | 2025-08-05 |  |

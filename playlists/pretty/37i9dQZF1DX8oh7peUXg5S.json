@@ -1,12 +1,12 @@
 {
   "description": "El don de cantar y componer, una playlist llena de talento. Foto: Joaqu\u00edn Sabina.",
-  "num_followers": 353037,
+  "num_followers": 353062,
   "original_name": "Cantautores",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHJhH/+Um56OPp3Fi3wREX30oAWI",
+  "snapshot_id": "AAAAADDgizkzorHvPRHerJ8Pz8bXdvip",
   "tracks": [
     {
       "added_at": "2026-09-17 22:01:37",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "Esc\u00fachame",
-        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
-      },
-      "artists": [
-        {
-          "name": "Mari Trini",
-          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
-        }
-      ],
-      "duration_ms": 152906,
-      "name": "Yo no soy esa",
-      "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
         "name": "Desde Que No Nos Vemos",
         "url": "https://open.spotify.com/album/1pQrDGSI9b3W3ur1XEYhVN"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 144840,
       "name": "Aunque t\u00fa no lo sepas",
       "url": "https://open.spotify.com/track/2VybHZvsshGs8GpOaB0wS1"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
+        "name": "Esc\u00fachame",
+        "url": "https://open.spotify.com/album/6xFDhmKZHP8nnUewCwcnTu"
+      },
+      "artists": [
+        {
+          "name": "Mari Trini",
+          "url": "https://open.spotify.com/artist/0CVHw8AAgA5brxfblp1lsQ"
+        }
+      ],
+      "duration_ms": 152906,
+      "name": "Yo no soy esa",
+      "url": "https://open.spotify.com/track/4wJNcICQAv1ZNj8tkoMJab"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -839,22 +839,6 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "City Zen",
-        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
-      },
-      "artists": [
-        {
-          "name": "Kevin Johansen",
-          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Desde Que Te Perd\u00ed",
-      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
         "name": "Aire",
         "url": "https://open.spotify.com/album/7F7AQLPetH2wvAUtJAP5Xk"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 256839,
       "name": "Al alba",
       "url": "https://open.spotify.com/track/2g1oUOP1r8DpzXvd1PMafY"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
+        "name": "City Zen",
+        "url": "https://open.spotify.com/album/37dsJwV9mJUYSOjeUHif3L"
+      },
+      "artists": [
+        {
+          "name": "Kevin Johansen",
+          "url": "https://open.spotify.com/artist/7qjoG7bwhAjSd7nJTcjgAk"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Desde Que Te Perd\u00ed",
+      "url": "https://open.spotify.com/track/3kfXwiFSsdqyWG5C7PULIZ"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -923,22 +923,18 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "M\u00e9ritos Y Merecimientos",
-        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
+        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
+        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
       },
       "artists": [
         {
-          "name": "Fernando Cabrera",
-          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
-        },
-        {
-          "name": "Jorge Drexler",
-          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
+          "name": "Rosana",
+          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
         }
       ],
-      "duration_ms": 220310,
-      "name": "M\u00e9ritos Y Merecimientos",
-      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
+      "duration_ms": 256320,
+      "name": "Si t\u00fa no estas",
+      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -959,18 +955,22 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "Lunas Rotas: De casa a las ventas (Standard version)",
-        "url": "https://open.spotify.com/album/56Ux4hVWrnwFUvRBaxXngR"
+        "name": "M\u00e9ritos Y Merecimientos",
+        "url": "https://open.spotify.com/album/6ruWQDL06KMQJhCWA1ufXc"
       },
       "artists": [
         {
-          "name": "Rosana",
-          "url": "https://open.spotify.com/artist/5ttV0N9HvMH3KLqNKcS2M0"
+          "name": "Fernando Cabrera",
+          "url": "https://open.spotify.com/artist/6SgzbJKexV8Ouadaaa6PVy"
+        },
+        {
+          "name": "Jorge Drexler",
+          "url": "https://open.spotify.com/artist/4ssUf5gLb1GBLxi1BhPrVt"
         }
       ],
-      "duration_ms": 256320,
-      "name": "Si t\u00fa no estas",
-      "url": "https://open.spotify.com/track/0LhiDnaTjkRZHWgAJfWqb6"
+      "duration_ms": 220310,
+      "name": "M\u00e9ritos Y Merecimientos",
+      "url": "https://open.spotify.com/track/5Q8ZcIv6mysLIuTr2c43HT"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -1163,6 +1163,22 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
+        "name": "Deseos de cosas imposibles",
+        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 214881,
+      "name": "Deseos de cosas imposibles",
+      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
         "name": "Cerrando Puntos Suspensivos",
         "url": "https://open.spotify.com/album/64l9Hf8OOB5S5E3cftmFxr"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 171013,
       "name": "Para la Libertad",
       "url": "https://open.spotify.com/track/2MbBeecWBAEHAYEC37Gk6s"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
-        "name": "Deseos de cosas imposibles",
-        "url": "https://open.spotify.com/album/7tD1j4gre4QQaFTCH3MpAk"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 214881,
-      "name": "Deseos de cosas imposibles",
-      "url": "https://open.spotify.com/track/1bEhmOoBkeINjLcLA2z0rp"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -1291,6 +1291,22 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
+        "name": "Agua",
+        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "Agua",
+      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
         "name": "Quiero Mejor",
         "url": "https://open.spotify.com/album/7wMaXdsVI3tW89aZIc7xW1"
       },
@@ -1307,22 +1323,6 @@
       "duration_ms": 183165,
       "name": "Quiero Mejor",
       "url": "https://open.spotify.com/track/3LW4vz2fFmhUinOH2t4AR4"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
-        "name": "Agua",
-        "url": "https://open.spotify.com/album/18lEH8fgVYdkUBTDK0IPyu"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "Agua",
-      "url": "https://open.spotify.com/track/76yx6d2cnxogqq5EeWAGGv"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -1379,6 +1379,22 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
+        "name": "Algo contigo",
+        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
+      },
+      "artists": [
+        {
+          "name": "Valeria Castro",
+          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
+        }
+      ],
+      "duration_ms": 170000,
+      "name": "Algo contigo",
+      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
         "name": "TODO O NADA (feat. Bunbury)",
         "url": "https://open.spotify.com/album/0VLPByInwnBNttWEeo68XC"
       },
@@ -1395,22 +1411,6 @@
       "duration_ms": 208046,
       "name": "TODO O NADA (feat. Bunbury)",
       "url": "https://open.spotify.com/track/3CJFWQ1WNZhZWOsYvYG3lQ"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
-        "name": "Algo contigo",
-        "url": "https://open.spotify.com/album/1SsMdo5QqpKYd8MSRtmDtI"
-      },
-      "artists": [
-        {
-          "name": "Valeria Castro",
-          "url": "https://open.spotify.com/artist/7JTVqKJ414qRPuDPhdKnHD"
-        }
-      ],
-      "duration_ms": 170000,
-      "name": "Algo contigo",
-      "url": "https://open.spotify.com/track/5zuW9T5REjejF9tSEG0sxp"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "No Me Ir\u00e9 Ma\u00f1ana (Edici\u00f3n 25 Aniversario)",
-        "url": "https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 251373,
-      "name": "Se Dejaba Llevar Por Ti - Remastered 2015",
-      "url": "https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
         "name": "De Lo Perdido Y Otras Coplas",
         "url": "https://open.spotify.com/album/53XJCziWiXOOrBCmbVLXGC"
       },
@@ -1559,6 +1543,22 @@
       "duration_ms": 346920,
       "name": "Habaneras de C\u00e1diz",
       "url": "https://open.spotify.com/track/6Mhw12JZfaRullIwuiDrnW"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
+        "name": "No Me Ir\u00e9 Ma\u00f1ana (Edici\u00f3n 25 Aniversario)",
+        "url": "https://open.spotify.com/album/5o2N9jbirrmmUsNF0NfHXe"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 251373,
+      "name": "Se Dejaba Llevar Por Ti - Remastered 2015",
+      "url": "https://open.spotify.com/track/1Nv0VZzkY6MzKK8YrD2zGT"
     },
     {
       "added_at": "2026-09-17 22:01:37",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-09-17 22:01:37",
       "album": {
-        "name": "Canciones 1980-2009",
-        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
-      },
-      "artists": [
-        {
-          "name": "Antonio Vega",
-          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
-        }
-      ],
-      "duration_ms": 248413,
-      "name": "Me quedo contigo - Radio Edit",
-      "url": "https://open.spotify.com/track/59R6zsfUXb4zCnj1N8JS20"
-    },
-    {
-      "added_at": "2026-09-17 22:01:37",
-      "album": {
         "name": "Rueda eterna",
         "url": "https://open.spotify.com/album/6C5lucQEhdJzPKOL25Q57y"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 179480,
       "name": "Rueda eterna",
       "url": "https://open.spotify.com/track/63tZPvFVEFLZUYngE4km29"
+    },
+    {
+      "added_at": "2026-09-17 22:01:37",
+      "album": {
+        "name": "Canciones 1980-2009",
+        "url": "https://open.spotify.com/album/07JZVPABSbkGmTHDHDCt6u"
+      },
+      "artists": [
+        {
+          "name": "Antonio Vega",
+          "url": "https://open.spotify.com/artist/0r4YtlmJPQk1xhiVKHuPeF"
+        }
+      ],
+      "duration_ms": 248413,
+      "name": "Me quedo contigo - Radio Edit",
+      "url": "https://open.spotify.com/track/59R6zsfUXb4zCnj1N8JS20"
     },
     {
       "added_at": "2026-09-17 22:01:37",

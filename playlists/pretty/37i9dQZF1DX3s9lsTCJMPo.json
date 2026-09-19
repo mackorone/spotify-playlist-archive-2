@@ -1,12 +1,12 @@
 {
   "description": "Nothing but the classics, the best in Soca anthems from the Caribbean. Cover: Kes",
-  "num_followers": 138109,
+  "num_followers": 138112,
   "original_name": "Soca Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPQlca4xPjxfzXKM0C/Z5ZpXDYc1",
+  "snapshot_id": "AAAAAGc6KA77K9I59A7Wh7jE42UQbiaS",
   "tracks": [
     {
       "added_at": "2026-08-20 14:00:40",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-08-20 14:00:40",
       "album": {
-        "name": "Soca758 Vol. 3",
-        "url": "https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4"
-      },
-      "artists": [
-        {
-          "name": "Kes",
-          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
-        }
-      ],
-      "duration_ms": 205187,
-      "name": "Your Body Working",
-      "url": "https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8"
-    },
-    {
-      "added_at": "2026-08-20 14:00:40",
-      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 243453,
       "name": "Get On",
       "url": "https://open.spotify.com/track/20xMfsI1oNOxRRPmz6isyA"
+    },
+    {
+      "added_at": "2026-08-20 14:00:40",
+      "album": {
+        "name": "Soca758 Vol. 3",
+        "url": "https://open.spotify.com/album/5RaYUnX7cpWEzeb8is2YW4"
+      },
+      "artists": [
+        {
+          "name": "Kes",
+          "url": "https://open.spotify.com/artist/7E6r9S8qCRfZVCjF1A8do6"
+        }
+      ],
+      "duration_ms": 205187,
+      "name": "Your Body Working",
+      "url": "https://open.spotify.com/track/4uYEsArYXSas1ZTtdBSXN8"
     },
     {
       "added_at": "2026-08-20 14:00:40",
@@ -703,22 +703,6 @@
     {
       "added_at": "2026-08-20 14:00:40",
       "album": {
-        "name": "Man Ah Bad Man",
-        "url": "https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3"
-      },
-      "artists": [
-        {
-          "name": "Devon George",
-          "url": "https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG"
-        }
-      ],
-      "duration_ms": 300506,
-      "name": "If Ah Rude Ah Rude",
-      "url": "https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1"
-    },
-    {
-      "added_at": "2026-08-20 14:00:40",
-      "album": {
         "name": "Soca Gold 2008",
         "url": "https://open.spotify.com/album/0yZvpoJJHkPE9y4bfbKIeT"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 221560,
       "name": "Gyal Farm",
       "url": "https://open.spotify.com/track/0YKJ3Hl6QbtoQ46sQtBd7Q"
+    },
+    {
+      "added_at": "2026-08-20 14:00:40",
+      "album": {
+        "name": "Man Ah Bad Man",
+        "url": "https://open.spotify.com/album/53gpvRksVdGeCTEUvg8Vc3"
+      },
+      "artists": [
+        {
+          "name": "Devon George",
+          "url": "https://open.spotify.com/artist/6uw11NfwK3mkHsXWEM62sG"
+        }
+      ],
+      "duration_ms": 300506,
+      "name": "If Ah Rude Ah Rude",
+      "url": "https://open.spotify.com/track/0SJM6td3gcXuGkdo4ZAxW1"
     },
     {
       "added_at": "2026-08-20 14:00:40",

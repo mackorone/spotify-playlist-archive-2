@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 
 > This is Absolutely\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,438 likes - 26 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,434 likes - 26 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 | 5 | [CYANIDE](https://open.spotify.com/track/6f1mEDrve2XTLByOsIP8AT) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CTRL ESCAPE](https://open.spotify.com/album/3M5cmrMP6IkqcrpHKOwO6e) | 3:18 |
 | 6 | [Waterslides](https://open.spotify.com/track/1SBfaO3swtjh8dV07MExuP) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Waterslides](https://open.spotify.com/album/5U1HyVpo9zeSC8K8LhHx4i) | 2:38 |
 | 7 | [see through \(remix\) \[feat\. Coco Jones, Absolutely & Samara Cyn\]](https://open.spotify.com/track/4K4DZUvJQSiSOchQdZlP7K) | [Amelia Moore](https://open.spotify.com/artist/61shKG2hWuRTW2PEAPk7fo), [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh), [Samara Cyn](https://open.spotify.com/artist/4nqQTosM2Mbg7iRjvJU0N0) | [see through \(remix\)](https://open.spotify.com/album/4Z5CCOQUQJnow6RCLneGWH) | 3:59 |
-| 8 | [Nowhere to Hide](https://open.spotify.com/track/1OkdA1jxsQSSSvhWAlL71s) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:38 |
+| 8 | [No Audience](https://open.spotify.com/track/4neKoZZ53RPyeUyKqH8WSm) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 2:48 |
 | 9 | [Air](https://open.spotify.com/track/71QKcBjRSoGBMNPByY715u) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Breathe](https://open.spotify.com/album/4x5UzbvkvyvBPBfF3h6t9h) | 2:49 |
 | 10 | [Heartbreak Anniversary \- H&M&REDSTAGE](https://open.spotify.com/track/37kwFPtjKsxi8CAAvgT5Fa) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Heartbreak Anniversary \(H&M&REDSTAGE\)](https://open.spotify.com/album/0meYfjk11lzFgR1hK31EJg) | 3:21 |
 | 11 | [EVERYBODY KNOWS I'M SAD \- REMIX](https://open.spotify.com/track/15BYAhv1YFKwKaOIJz1r9s) | [MARINA](https://open.spotify.com/artist/6CwfuxIqcltXDGjfZsMd9A), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [PRINCESS OF POWER \(DELUXE\)](https://open.spotify.com/album/7KKQfFKPruJ3lHVVtwGuo7) | 4:07 |
-| 12 | [No Audience](https://open.spotify.com/track/4neKoZZ53RPyeUyKqH8WSm) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/7oxvUjBnPYJAuBFMrTwNTw) | 2:48 |
+| 12 | [Nowhere to Hide](https://open.spotify.com/track/1OkdA1jxsQSSSvhWAlL71s) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Paracosm](https://open.spotify.com/album/6LifnNApEGwyRpFHMKNW25) | 3:38 |
 | 13 | [24 Hours](https://open.spotify.com/track/5nwSXC1tojEYcUPUfywdu3) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:27 |
 | 14 | [Shades](https://open.spotify.com/track/3mjieZNrw6iPjcMI9VuhAP) | [Snakehips](https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Shades](https://open.spotify.com/album/16vgihjplSgXYRfEYTHKCS) | 2:31 |
 | 15 | [Walls \(feat\. Absolutely\) \- Live](https://open.spotify.com/track/7tMwaGg2AlnQ0XYLdWSJjw) | [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD), [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [Friends From Your Hometown](https://open.spotify.com/album/4xyhhzhRAm1u4lstjybyWk) | 4:24 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2tnu2T.md) - [plain]
 | 25 | [Symphony](https://open.spotify.com/track/1V5YRAjAJWt7snPQ96hP2R) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 2:41 |
 | 26 | [Daylight](https://open.spotify.com/track/5gFQ0Gt2IO9qsf5z8LClso) | [Absolutely](https://open.spotify.com/artist/4ellgkPyhbJetngXmHX5Zh) | [CEREBRUM](https://open.spotify.com/album/3NY3LrCmVkMoUKrAc9wSPQ) | 3:31 |
 
-Snapshot ID: `aqncAAAAAADhDF6ERGwvGm8NS6t8/SlW`
+Snapshot ID: `aqstgAAAAADot5Qp576+OZUb0qUxToLP`

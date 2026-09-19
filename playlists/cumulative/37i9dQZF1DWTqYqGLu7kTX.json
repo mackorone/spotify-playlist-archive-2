@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-30",
-  "description": "Best of Punjabi Hip-Hop! Cover:  Karan Aujla",
+  "description": "Best of Punjabi Hip-Hop! Cover:  Diljit Dosanjh",
   "name": "RAP 91 Punjabi",
   "tracks": [
     {
@@ -4158,7 +4158,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 185000,
       "name": "London",
       "url": "https://open.spotify.com/track/6JJItkAG3SkBVZfk1vFVVu"
@@ -5548,6 +5548,32 @@
       "duration_ms": 138953,
       "name": "Opinion",
       "url": "https://open.spotify.com/track/0wDE9NWS9C5s0wbC5DQZ7z"
+    },
+    {
+      "album": {
+        "name": "BLACK AND WHITE",
+        "url": "https://open.spotify.com/album/5qVFswtg7g13VmcMCVWzrF"
+      },
+      "artists": [
+        {
+          "name": "Wazir Patar",
+          "url": "https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ"
+        },
+        {
+          "name": "SAMBATA",
+          "url": "https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO"
+        },
+        {
+          "name": "Hukam",
+          "url": "https://open.spotify.com/artist/03OH9jpTJ8nYmuWdGSe5Zr"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195348,
+      "name": "Parche",
+      "url": "https://open.spotify.com/track/363T4AE8XIqufjcKQ2Wg2P"
     },
     {
       "album": {

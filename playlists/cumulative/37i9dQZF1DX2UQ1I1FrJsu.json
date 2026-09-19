@@ -113,6 +113,24 @@
     },
     {
       "album": {
+        "name": "AHHHH***",
+        "url": "https://open.spotify.com/album/1S57d9hqZ61HL6vDM7RPza"
+      },
+      "artists": [
+        {
+          "name": "Kaicrewsade",
+          "url": "https://open.spotify.com/artist/4WgDm2J3jztBZSc1S0lMsx"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116756,
+      "name": "AHHHH***",
+      "url": "https://open.spotify.com/track/09ovKflFL3KRcFvNMnM7aj"
+    },
+    {
+      "album": {
         "name": "Yesterday's Gone",
         "url": "https://open.spotify.com/album/6wjryxtrKxzTZID9kyZUV5"
       },
@@ -142,7 +160,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 277000,
       "name": "Alexandria",
       "url": "https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY"
@@ -2724,7 +2742,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 180490,
       "name": "Lotus 72 D - Fast Version",
       "url": "https://open.spotify.com/track/7rtcBPsHDLeYW9cHDrO0NB"
@@ -2750,6 +2768,28 @@
       "duration_ms": 102634,
       "name": "Lou's Tune",
       "url": "https://open.spotify.com/track/5crkOzXbUZ5SOSkSat7g4T"
+    },
+    {
+      "album": {
+        "name": "Love Illusion",
+        "url": "https://open.spotify.com/album/57FMLm6JHjABEeQ2gKyG18"
+      },
+      "artists": [
+        {
+          "name": "B\u00e5rd Berg",
+          "url": "https://open.spotify.com/artist/6cj0DfbcgWVo53BtyTEH6r"
+        },
+        {
+          "name": "GIA",
+          "url": "https://open.spotify.com/artist/17k1bAQwNIsz9Zdw4AQGYq"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189705,
+      "name": "Love Illusion",
+      "url": "https://open.spotify.com/track/3WHqEBuxbm3j8WUan3WgRm"
     },
     {
       "album": {
@@ -2982,6 +3022,28 @@
       "duration_ms": 363791,
       "name": "Monsters",
       "url": "https://open.spotify.com/track/3yDV0PzSV2okw1w9jno0me"
+    },
+    {
+      "album": {
+        "name": "MOON (feat. tab\u00fc)",
+        "url": "https://open.spotify.com/album/0Hl2lunFW0XFhJzc3kIXqT"
+      },
+      "artists": [
+        {
+          "name": "Drewbyrd",
+          "url": "https://open.spotify.com/artist/67kmAPaXes2HLVDJphvWMH"
+        },
+        {
+          "name": "tab\u00fc",
+          "url": "https://open.spotify.com/artist/1vGMG20PythFPSm6K1aryq"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172000,
+      "name": "MOON (feat. tab\u00fc)",
+      "url": "https://open.spotify.com/track/5bZaFh03cIObQJfDsyS8wp"
     },
     {
       "album": {
@@ -3510,7 +3572,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 316093,
       "name": "Savanne",
       "url": "https://open.spotify.com/track/7BeDGBnTV2SqchXGAegMNm"
@@ -4066,7 +4128,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 229477,
       "name": "There Will Be No Crying",
       "url": "https://open.spotify.com/track/2v4fvU8my0WUTy0TOTS36l"
@@ -4110,6 +4172,28 @@
       "duration_ms": 276733,
       "name": "Three Piece Suit (feat. Azekel)",
       "url": "https://open.spotify.com/track/0VIegveYbIaxxTgBNHSl3v"
+    },
+    {
+      "album": {
+        "name": "Toes and Rings",
+        "url": "https://open.spotify.com/album/3ZdCtR1Dc6hyg7zgVWpeWB"
+      },
+      "artists": [
+        {
+          "name": "Telemakus",
+          "url": "https://open.spotify.com/artist/2tgOGRSlg4TCPaXr3kDRK6"
+        },
+        {
+          "name": "Liv.e",
+          "url": "https://open.spotify.com/artist/0YCL71Clky5els6NireSBP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 111371,
+      "name": "Toes and Rings",
+      "url": "https://open.spotify.com/track/3RrJeC128ATz5XKCGxbn3U"
     },
     {
       "album": {

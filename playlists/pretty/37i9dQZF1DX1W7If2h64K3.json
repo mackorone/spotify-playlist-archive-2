@@ -1,12 +1,12 @@
 {
   "description": "Discover the music of Schumann.",
-  "num_followers": 59481,
+  "num_followers": 59494,
   "original_name": "This Is Schumann",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALYDb+XaUHfYIOK/Mabm3RYdfOzr",
+  "snapshot_id": "AAAAAJ9lXODMp2zEVQloiFHpOlxkXEOu",
   "tracks": [
     {
       "added_at": "2025-12-15 12:40:07",
@@ -595,26 +595,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
-        "url": "https://open.spotify.com/album/3g5eeiTV00Nr01OOeBIYip"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Ll\u0177r Williams",
-          "url": "https://open.spotify.com/artist/1hIMnRye51lifBy0mV2jdE"
-        }
-      ],
-      "duration_ms": 188666,
-      "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
-      "url": "https://open.spotify.com/track/2JIPjHPXrYqpcYN0izpNf4"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Myrthen",
         "url": "https://open.spotify.com/album/7I0LzTM3LnH0byXdDn3cGf"
       },
@@ -635,6 +615,26 @@
       "duration_ms": 139000,
       "name": "Myrthen, Op. 25: No. 1, Widmung",
       "url": "https://open.spotify.com/track/29jmWDvrfrcSVDE3U0twzg"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
+        "url": "https://open.spotify.com/album/3g5eeiTV00Nr01OOeBIYip"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Ll\u0177r Williams",
+          "url": "https://open.spotify.com/artist/1hIMnRye51lifBy0mV2jdE"
+        }
+      ],
+      "duration_ms": 188666,
+      "name": "Piano Sonata No. 1 in F-Sharp Minor, Op. 11: II. Aria. Senza passione, ma espressivo",
+      "url": "https://open.spotify.com/track/2JIPjHPXrYqpcYN0izpNf4"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -743,30 +743,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
-        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Christian Thielemann",
-          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
-        }
-      ],
-      "duration_ms": 773000,
-      "name": "Symphony No. 2 in C Major, Op. 61: I. Sostenuto assai \u2013 Allegro ma non troppo",
-      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Violin Concerto; Piano Trio No. 3",
         "url": "https://open.spotify.com/album/77OdIMqqtoXO8bTBdlcA8q"
       },
@@ -791,6 +767,30 @@
       "duration_ms": 911400,
       "name": "Violin Concerto in D minor, WoO 23: I. In kr\u00e4ftigem, nicht zu schnellem Tempo",
       "url": "https://open.spotify.com/track/3GI9zES0F4tERFfC91obWX"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann: Symphony No.2; \"Manfred\" Overture; Konzertst\u00fcck for 4 Horns",
+        "url": "https://open.spotify.com/album/0wWKS7tKOF2KxpMSURs08f"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Christian Thielemann",
+          "url": "https://open.spotify.com/artist/5c2dloAaXR2qRbIVh2C0jD"
+        }
+      ],
+      "duration_ms": 773000,
+      "name": "Symphony No. 2 in C Major, Op. 61: I. Sostenuto assai \u2013 Allegro ma non troppo",
+      "url": "https://open.spotify.com/track/5OQl6PCd6FxO7qfz6tMVGq"
     },
     {
       "added_at": "2025-12-15 12:40:07",
@@ -927,26 +927,6 @@
     {
       "added_at": "2025-12-15 12:40:07",
       "album": {
-        "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
-        "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
-      },
-      "artists": [
-        {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
-          "name": "Maria Jo\u00e3o Pires",
-          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
-        }
-      ],
-      "duration_ms": 176920,
-      "name": "Schumann: Kinderszenen, Op. 15: No. 13, Der Dichter spricht",
-      "url": "https://open.spotify.com/track/1DSNobLV59uOAaNrZnGXZs"
-    },
-    {
-      "added_at": "2025-12-15 12:40:07",
-      "album": {
         "name": "Schumann: Piano Pieces",
         "url": "https://open.spotify.com/album/3s7iUla63fkBt3XwwMUFc7"
       },
@@ -963,6 +943,26 @@
       "duration_ms": 151000,
       "name": "Faschingsschwank aus Wien, Op. 26: IV. Intermezzo (Colla pi\u00f9 grande energia)",
       "url": "https://open.spotify.com/track/7Jbuk6fy23BwXeegTvsRcj"
+    },
+    {
+      "added_at": "2025-12-15 12:40:07",
+      "album": {
+        "name": "Schumann : Kinderszenen, Waldszenen & Bunte Bl\u00e4tter",
+        "url": "https://open.spotify.com/album/33xqDfwbdFoF9JzODICq8g"
+      },
+      "artists": [
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
+        },
+        {
+          "name": "Maria Jo\u00e3o Pires",
+          "url": "https://open.spotify.com/artist/1hRLlo7ZGxEmc0ztMOKurs"
+        }
+      ],
+      "duration_ms": 176920,
+      "name": "Schumann: Kinderszenen, Op. 15: No. 13, Der Dichter spricht",
+      "url": "https://open.spotify.com/track/1DSNobLV59uOAaNrZnGXZs"
     },
     {
       "added_at": "2025-12-15 12:40:07",

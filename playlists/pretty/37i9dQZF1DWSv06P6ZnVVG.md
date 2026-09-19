@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 
 > Pura pieza cara con las que Alfredo Olivas se pone a echar agüita.
 
-[Spotify](https://open.spotify.com/user/spotify) - 58,031 likes - 25 songs - 1 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 58,543 likes - 25 songs - 1 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,4 +34,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSv06P6ZnVVG.md) - [plain]
 | 24 | [Veinte Mujeres De Negro](https://open.spotify.com/track/6dSDh142ee5UPeMnwh14pm) | [Los Huracanes del Norte](https://open.spotify.com/artist/2wmwGWrqRizLaSEYrm5dzZ) | [Norteño 2000](https://open.spotify.com/album/7tOJ88Jeuo8aOOwKMrsHdv) | 2:43 |
 | 25 | [Cien Charolas](https://open.spotify.com/track/2SjQ6wfhDn5ozfJK4F5ogi) | [Alfredo Olivas](https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8) | [Privilegio](https://open.spotify.com/album/6eYQRNqomQ8q5R2xysBeGj) | 3:58 |
 
-Snapshot ID: `AAAAAMkNQQbiwWyEAyH+h2VsJV+FC1Gg`
+Snapshot ID: `AAAAAB6oJN/iLvsJ5I5Q1zKoQukQ5sT/`

@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 81616,
+  "num_followers": 81623,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAAJpEE1WUjggag8Xbm2Hx5f",
+  "snapshot_id": "aqstgAAAAAAc7SB7500Z4CQ32T5kv19l",
   "tracks": [
     {
       "added_at": null,
@@ -363,8 +363,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blood Dynasty",
-        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
+        "name": "Anthems of Rebellion",
+        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 269853,
-      "name": "Dream Stealer",
-      "url": "https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v"
+      "duration_ms": 254946,
+      "name": "Dead Eyes See No Future",
+      "url": "https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4"
     },
     {
       "added_at": null,
@@ -411,8 +411,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Anthems of Rebellion",
-        "url": "https://open.spotify.com/album/79KP5UGPkyDLMKRoz1nxq7"
+        "name": "Blood Dynasty",
+        "url": "https://open.spotify.com/album/0nHZFMlRozyRanBXUCBpp8"
       },
       "artists": [
         {
@@ -420,9 +420,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 254946,
-      "name": "Dead Eyes See No Future",
-      "url": "https://open.spotify.com/track/7KjLyiaxHG45hvS9wL49i4"
+      "duration_ms": 269853,
+      "name": "Dream Stealer",
+      "url": "https://open.spotify.com/track/2AQfPVnLvzvOYJbUDdGK5v"
     },
     {
       "added_at": null,

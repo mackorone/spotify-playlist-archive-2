@@ -526,7 +526,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 167428,
       "name": "After",
       "url": "https://open.spotify.com/track/6xNVBgIRbb9cHKR1ipzIfm"
@@ -588,7 +588,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 176568,
       "name": "Ah\u00ed",
       "url": "https://open.spotify.com/track/6DoUDG1GJrJf6eGQLUBBnm"
@@ -744,7 +744,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 177882,
       "name": "AMISTA",
       "url": "https://open.spotify.com/track/1kJyDcBrZ7rSKnFtKc82vm"
@@ -2703,6 +2703,40 @@
     },
     {
       "album": {
+        "name": "Maluma - Hits Pa' Siempre",
+        "url": "https://open.spotify.com/album/4rtnFaG2TPzcifzZIZ9VDh"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Trap Capos",
+          "url": "https://open.spotify.com/artist/2pQAUIesBqfT87PaM1ijtk"
+        },
+        {
+          "name": "Noriel",
+          "url": "https://open.spotify.com/artist/3RtNN1VnooWEn3KQk03DUL"
+        },
+        {
+          "name": "Bryant Myers",
+          "url": "https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c"
+        },
+        {
+          "name": "Juhn",
+          "url": "https://open.spotify.com/artist/2LmcxBak1alK1bf7d1beTr"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278013,
+      "name": "Cuatro Babys (feat. Trap Capos, Noriel, Bryant Myers & Juhn)",
+      "url": "https://open.spotify.com/track/15AlCAcyTVSqibPxZbTwRg"
+    },
+    {
+      "album": {
         "name": "CULE POCO (sirena_besarico_coste\u00f1a)",
         "url": "https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC"
       },
@@ -3292,7 +3326,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-14",
+      "date_removed": null,
       "duration_ms": 286040,
       "name": "Diles",
       "url": "https://open.spotify.com/track/6C1RD7YQVvt3YQj0CmuTeu"
@@ -3970,7 +4004,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 255905,
       "name": "En Las Noches Frias",
       "url": "https://open.spotify.com/track/0a0JiZejbYYem1W31fldde"
@@ -4124,7 +4158,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 190560,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3Btqti3QpzZZr6uz5mlNzz"
@@ -4178,7 +4212,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 192120,
       "name": "Es un Secreto",
       "url": "https://open.spotify.com/track/3KZCP2StVGdWkOKyRZNWA4"
@@ -4306,7 +4340,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 187076,
       "name": "EXCESOS",
       "url": "https://open.spotify.com/track/6UtWwuheJr5LLDeVypPNx7"
@@ -4809,6 +4843,44 @@
     },
     {
       "album": {
+        "name": "GANAS REMIXXX (feat. De La Rose, Blessd)",
+        "url": "https://open.spotify.com/album/5j9jw0AIRC6f0NjJWRdDMi"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481955,
+      "name": "GANAS REMIXXX (feat. De La Rose, Blessd)",
+      "url": "https://open.spotify.com/track/55knkuzL7hByREAumJcj3q"
+    },
+    {
+      "album": {
         "name": "Gangsters En La Disco",
         "url": "https://open.spotify.com/album/6zg980BJZT8M6Wei0A2Kcn"
       },
@@ -5172,7 +5244,7 @@
       ],
       "date_added": "2026-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 171226,
       "name": "Hace Mucho Tiempo",
       "url": "https://open.spotify.com/track/0a6ogDrZBvYgDjILgsQVaJ"
@@ -7124,7 +7196,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 144286,
       "name": "MATADORA",
       "url": "https://open.spotify.com/track/04d5HlcQX6zH5MMqffXOon"
@@ -9142,7 +9214,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 133548,
       "name": "PERRA",
       "url": "https://open.spotify.com/track/2NMxj0w0hat4kkkadr0TGJ"
@@ -12642,6 +12714,24 @@
       "duration_ms": 268075,
       "name": "Viajando Por El Mundo",
       "url": "https://open.spotify.com/track/4w6Wpq1KWk485krowaqUIV"
+    },
+    {
+      "album": {
+        "name": "Ahora M\u00e1s Que Nunca",
+        "url": "https://open.spotify.com/album/126xvNTHDugqvllz6O0v4h"
+      },
+      "artists": [
+        {
+          "name": "Adolescent's Orquesta",
+          "url": "https://open.spotify.com/artist/70nxnxEqDQIEWneRjg2Q4O"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271751,
+      "name": "Virgen",
+      "url": "https://open.spotify.com/track/5HCGrYR7g9u2X9Ju83yQLm"
     },
     {
       "album": {

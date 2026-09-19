@@ -1,12 +1,12 @@
 {
   "description": "The smoothest of smooth Jazz for your romantic evening.",
-  "num_followers": 173240,
+  "num_followers": 173296,
   "original_name": "Romantic Smooth Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIE3g761d1IZYzkCV26mK+2ZILPW",
+  "snapshot_id": "AAAAAK5Iy36ObmS5B4CDa9ZhEzGhfJn7",
   "tracks": [
     {
       "added_at": "2026-02-09 08:21:39",
@@ -91,22 +91,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Kisses In The Rain",
-        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 272626,
-      "name": "Kisses in the Rain",
-      "url": "https://open.spotify.com/track/0xGa0PyJsByzRajl8KYefg"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Unconditional",
         "url": "https://open.spotify.com/album/5CJ01DIFiwJG7kRpav8ZuV"
       },
@@ -123,18 +107,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Day Into Night",
-        "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
+        "name": "Kisses In The Rain",
+        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
       },
       "artists": [
         {
-          "name": "Bob Mamet",
-          "url": "https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK"
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
         }
       ],
-      "duration_ms": 238066,
-      "name": "Greenstreet",
-      "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
+      "duration_ms": 272626,
+      "name": "Kisses in the Rain",
+      "url": "https://open.spotify.com/track/0xGa0PyJsByzRajl8KYefg"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -151,6 +135,22 @@
       "duration_ms": 234733,
       "name": "Sweet Thing",
       "url": "https://open.spotify.com/track/3M44mD2haxaLsG6chVL9l1"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Day Into Night",
+        "url": "https://open.spotify.com/album/2NKSBByE54uNLWgMosf0fB"
+      },
+      "artists": [
+        {
+          "name": "Bob Mamet",
+          "url": "https://open.spotify.com/artist/3zzFQcyqb7rDDq8n587TtK"
+        }
+      ],
+      "duration_ms": 238066,
+      "name": "Greenstreet",
+      "url": "https://open.spotify.com/track/7ChAL7efVJHKlm5Pl4oZqW"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -283,18 +283,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "The Collection",
-        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
+        "name": "For Your Pleasure",
+        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
       },
       "artists": [
         {
-          "name": "Tim Bowman",
-          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
+          "name": "Walter Beasley",
+          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
         }
       ],
-      "duration_ms": 246237,
-      "name": "Let It Shine",
-      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
+      "duration_ms": 263400,
+      "name": "Nice And Easy",
+      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "For Your Pleasure",
-        "url": "https://open.spotify.com/album/0rHJ7WovNY23g8QRKHCUMw"
+        "name": "The Collection",
+        "url": "https://open.spotify.com/album/3hJBjYNUVY7vSITE8GZ3QV"
       },
       "artists": [
         {
-          "name": "Walter Beasley",
-          "url": "https://open.spotify.com/artist/6tBzJqpqRAPyJFR4Rq0yBP"
+          "name": "Tim Bowman",
+          "url": "https://open.spotify.com/artist/0lVHG6dLy7suf4FaubTzF5"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Nice And Easy",
-      "url": "https://open.spotify.com/track/19bvu15yBMP8ZBDPxvwp6K"
+      "duration_ms": 246237,
+      "name": "Let It Shine",
+      "url": "https://open.spotify.com/track/18V3WdhlafZXWC2uAXVEf9"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -411,22 +411,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Dance Of The Soul",
-        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
-      },
-      "artists": [
-        {
-          "name": "Ramsey Lewis",
-          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
-        }
-      ],
-      "duration_ms": 271800,
-      "name": "Love's Serenade",
-      "url": "https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Someone To Love You",
         "url": "https://open.spotify.com/album/7J1vwBoBA9y0kNCfVPxi2B"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 290453,
       "name": "The Ride",
       "url": "https://open.spotify.com/track/2QVzx6RuAvWAy6ZcB3o9WH"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Dance Of The Soul",
+        "url": "https://open.spotify.com/album/1AMsdS2ZKQRYTuo4HSKywh"
+      },
+      "artists": [
+        {
+          "name": "Ramsey Lewis",
+          "url": "https://open.spotify.com/artist/7Kfrmups2Z3ncDQmNS5jRc"
+        }
+      ],
+      "duration_ms": 271800,
+      "name": "Love's Serenade",
+      "url": "https://open.spotify.com/track/0kuI1W0TxINXsHrrcHiMQS"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Last Look",
-        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
-      },
-      "artists": [
-        {
-          "name": "Torcuato Mariano",
-          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
-        }
-      ],
-      "duration_ms": 276106,
-      "name": "Last Look",
-      "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Steppin' Out",
         "url": "https://open.spotify.com/album/253BTggCrxk5ULsiaYTZfF"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 238293,
       "name": "Night Rider",
       "url": "https://open.spotify.com/track/3mn4KmAcvj2mhpkO11EsGQ"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Last Look",
+        "url": "https://open.spotify.com/album/5HrdlCejzSFYKD6qA0vywx"
+      },
+      "artists": [
+        {
+          "name": "Torcuato Mariano",
+          "url": "https://open.spotify.com/artist/5nmTcw6WV6BzDvguH2iPXR"
+        }
+      ],
+      "duration_ms": 276106,
+      "name": "Last Look",
+      "url": "https://open.spotify.com/track/3aLL7ks2lkz9YklnnWYqrI"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Kisses In The Rain",
-        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
-      },
-      "artists": [
-        {
-          "name": "Rick Braun",
-          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
-        }
-      ],
-      "duration_ms": 280240,
-      "name": "Grover's Groove",
-      "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "Brazil Chill",
         "url": "https://open.spotify.com/album/4T8thECArdoVMqYZpWxfHn"
       },
@@ -815,6 +799,22 @@
       "duration_ms": 346266,
       "name": "I Wanna Be Where You Are",
       "url": "https://open.spotify.com/track/5vM8GpI04rVLp7m1gUHDRa"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Kisses In The Rain",
+        "url": "https://open.spotify.com/album/36tLRdlIbuXboC0QyMhfaX"
+      },
+      "artists": [
+        {
+          "name": "Rick Braun",
+          "url": "https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ"
+        }
+      ],
+      "duration_ms": 280240,
+      "name": "Grover's Groove",
+      "url": "https://open.spotify.com/track/4st8tyWOqApXeqy5GeHAst"
     },
     {
       "added_at": "2026-02-09 08:21:39",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-02-09 08:21:39",
       "album": {
-        "name": "Drive",
-        "url": "https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ"
-      },
-      "artists": [
-        {
-          "name": "Russ Freeman",
-          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
-        }
-      ],
-      "duration_ms": 285666,
-      "name": "Anywhere Near You",
-      "url": "https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb"
-    },
-    {
-      "added_at": "2026-02-09 08:21:39",
-      "album": {
         "name": "GK",
         "url": "https://open.spotify.com/album/4BBTNvkhpqgAItRxEHmNeu"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 286093,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/27wLc0cxnw9IbhRMyMeBmR"
+    },
+    {
+      "added_at": "2026-02-09 08:21:39",
+      "album": {
+        "name": "Drive",
+        "url": "https://open.spotify.com/album/7Iayri0sBA3sHqs3nwR8OJ"
+      },
+      "artists": [
+        {
+          "name": "Russ Freeman",
+          "url": "https://open.spotify.com/artist/6NVwMiEWAjCHnKWPx9h8WO"
+        }
+      ],
+      "duration_ms": 285666,
+      "name": "Anywhere Near You",
+      "url": "https://open.spotify.com/track/5rYAOOyDrBBcshfeNh2qfb"
     },
     {
       "added_at": "2026-02-09 08:21:39",

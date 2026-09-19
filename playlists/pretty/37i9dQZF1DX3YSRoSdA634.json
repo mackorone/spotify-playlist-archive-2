@@ -1,12 +1,12 @@
 {
   "description": "for when you're leaning into that bad day feeling",
-  "num_followers": 3918929,
+  "num_followers": 3918761,
   "original_name": "Life Sucks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACG4jmJc4WYEd5paWwbXhK7+xphX",
+  "snapshot_id": "AAAAAFprBc9bZAvUiFylP05Fe52XWgDf",
   "tracks": [
     {
       "added_at": "2026-05-01 14:14:17",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Revival",
-        "url": "https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC"
-      },
-      "artists": [
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
-        }
-      ],
-      "duration_ms": 254013,
-      "name": "Someone To Stay",
-      "url": "https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Malibu Nights",
         "url": "https://open.spotify.com/album/6SWmGozzQDUaczHXMuE8Za"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 286928,
       "name": "Malibu Nights",
       "url": "https://open.spotify.com/track/0Eqg0CQ7bK3RQIMPw1A7pl"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Revival",
+        "url": "https://open.spotify.com/album/7mhJTJjSZtFVDZwR7CU9xC"
+      },
+      "artists": [
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 254013,
+      "name": "Someone To Stay",
+      "url": "https://open.spotify.com/track/2xlV2CuWgpPyE9e0GquKDN"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1023,6 +1023,22 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
+        "name": "Solo",
+        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
+      },
+      "artists": [
+        {
+          "name": "Myles Smith",
+          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
+        }
+      ],
+      "duration_ms": 199756,
+      "name": "Solo",
+      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
         "name": "Bathing Beach",
         "url": "https://open.spotify.com/album/4vGuMdwnxc6X8izbVS6MTN"
       },
@@ -1051,22 +1067,6 @@
       "duration_ms": 171727,
       "name": "Liability",
       "url": "https://open.spotify.com/track/6Kkt27YmFyIFrcX3QXFi2o"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
-        "name": "Solo",
-        "url": "https://open.spotify.com/album/03jkbwbhopEYNhcbwGwIt8"
-      },
-      "artists": [
-        {
-          "name": "Myles Smith",
-          "url": "https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt"
-        }
-      ],
-      "duration_ms": 199756,
-      "name": "Solo",
-      "url": "https://open.spotify.com/track/4Skkx52Dh8yo4G1ijAEGs3"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Purpose (Deluxe)",
-        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
-      },
-      "artists": [
-        {
-          "name": "Justin Bieber",
-          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
-        }
-      ],
-      "duration_ms": 210160,
-      "name": "Purpose",
-      "url": "https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "The Bedroom Demos",
         "url": "https://open.spotify.com/album/0yVBYSlNkpWuqB9TheUQEm"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 220239,
       "name": "A Drop in the Ocean",
       "url": "https://open.spotify.com/track/5JDcQAztvZTIkrWoZihgvC"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Purpose (Deluxe)",
+        "url": "https://open.spotify.com/album/6Fr2rQkZ383FcMqFyT7yPr"
+      },
+      "artists": [
+        {
+          "name": "Justin Bieber",
+          "url": "https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s"
+        }
+      ],
+      "duration_ms": 210160,
+      "name": "Purpose",
+      "url": "https://open.spotify.com/track/2IjyFRCRn8x1bEquOM3vxg"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1311,6 +1311,22 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
+        "name": "locket",
+        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
+      },
+      "artists": [
+        {
+          "name": "Madison Beer",
+          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
+        }
+      ],
+      "duration_ms": 209409,
+      "name": "you're still everything",
+      "url": "https://open.spotify.com/track/13T1nG7nwaoF8EUUwAQnlp"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
         "name": "Justice",
         "url": "https://open.spotify.com/album/5dGWwsZ9iB2Xc3UKR0gif2"
       },
@@ -1327,22 +1343,6 @@
       "duration_ms": 158324,
       "name": "Unstable (feat. The Kid LAROI)",
       "url": "https://open.spotify.com/track/137mSruegm1u6x9NvwiagR"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
-        "name": "locket",
-        "url": "https://open.spotify.com/album/766kQKYQvONQk339t5payy"
-      },
-      "artists": [
-        {
-          "name": "Madison Beer",
-          "url": "https://open.spotify.com/artist/2kRfqPViCqYdSGhYSM9R0Q"
-        }
-      ],
-      "duration_ms": 209409,
-      "name": "you're still everything",
-      "url": "https://open.spotify.com/track/13T1nG7nwaoF8EUUwAQnlp"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "All For You",
-        "url": "https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML"
-      },
-      "artists": [
-        {
-          "name": "Cian Ducrot",
-          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
-        }
-      ],
-      "duration_ms": 219380,
-      "name": "All For You",
-      "url": "https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Please Don't Hate Me",
         "url": "https://open.spotify.com/album/14EBLrQbRhhzyCMQBSlhmn"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 201063,
       "name": "Please Don't Hate Me",
       "url": "https://open.spotify.com/track/1yvgEFgtTMU5jz9m6GXj9t"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "All For You",
+        "url": "https://open.spotify.com/album/3SHliIKddH4xZVyr7hyjML"
+      },
+      "artists": [
+        {
+          "name": "Cian Ducrot",
+          "url": "https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W"
+        }
+      ],
+      "duration_ms": 219380,
+      "name": "All For You",
+      "url": "https://open.spotify.com/track/29Co9NKhOM5R9vWCrpkPPK"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1871,22 +1871,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "I'm trying",
-        "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
-      },
-      "artists": [
-        {
-          "name": "Alexander Stewart",
-          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
-        }
-      ],
-      "duration_ms": 164933,
-      "name": "I'm trying",
-      "url": "https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "Born To Die",
         "url": "https://open.spotify.com/album/4vXt6IpMcSnqonljffWlMI"
       },
@@ -1899,6 +1883,22 @@
       "duration_ms": 243173,
       "name": "Dark Paradise",
       "url": "https://open.spotify.com/track/2wObnNMZce8ntVt8fckSuX"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "I'm trying",
+        "url": "https://open.spotify.com/album/6dPQkfGAbsDB7cYI32VG0m"
+      },
+      "artists": [
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "duration_ms": 164933,
+      "name": "I'm trying",
+      "url": "https://open.spotify.com/track/4gcC1lyxdjoTE13FPOqyHt"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -1987,22 +1987,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Habits of My Heart",
-        "url": "https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ"
-      },
-      "artists": [
-        {
-          "name": "Jaymes Young",
-          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
-        }
-      ],
-      "duration_ms": 248554,
-      "name": "I'll Be Good",
-      "url": "https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "John's Song",
         "url": "https://open.spotify.com/album/3NU7iqOGclbHvW86UGdI1i"
       },
@@ -2019,18 +2003,18 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "As Long As - EP",
-        "url": "https://open.spotify.com/album/5mw8aBvFbVZsmWmyJmHv9B"
+        "name": "Habits of My Heart",
+        "url": "https://open.spotify.com/album/7c4oC2FhDzwu7XU7XRB4lZ"
       },
       "artists": [
         {
-          "name": "Billie Marten",
-          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+          "name": "Jaymes Young",
+          "url": "https://open.spotify.com/artist/6QrQ7OrISRYIfS5mtacaw2"
         }
       ],
-      "duration_ms": 240400,
-      "name": "Cursive",
-      "url": "https://open.spotify.com/track/5Iy1wdO0tMaHwKnfFYtlel"
+      "duration_ms": 248554,
+      "name": "I'll Be Good",
+      "url": "https://open.spotify.com/track/5WLSak7DN3LY1K71oWYuoN"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -2047,6 +2031,22 @@
       "duration_ms": 175979,
       "name": "Black Hole - Acoustic Version",
       "url": "https://open.spotify.com/track/1cpVLszZnKUHUjsJDTEi3D"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "As Long As - EP",
+        "url": "https://open.spotify.com/album/5mw8aBvFbVZsmWmyJmHv9B"
+      },
+      "artists": [
+        {
+          "name": "Billie Marten",
+          "url": "https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7"
+        }
+      ],
+      "duration_ms": 240400,
+      "name": "Cursive",
+      "url": "https://open.spotify.com/track/5Iy1wdO0tMaHwKnfFYtlel"
     },
     {
       "added_at": "2026-05-01 14:14:17",
@@ -2123,22 +2123,6 @@
     {
       "added_at": "2026-05-01 14:14:17",
       "album": {
-        "name": "Oceans - EP",
-        "url": "https://open.spotify.com/album/2tnJaZfDk3kqCpDzOTSUFi"
-      },
-      "artists": [
-        {
-          "name": "Seafret",
-          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
-        }
-      ],
-      "duration_ms": 216186,
-      "name": "Oceans",
-      "url": "https://open.spotify.com/track/7Cia4WzapwjMr0NUQF8vf3"
-    },
-    {
-      "added_at": "2026-05-01 14:14:17",
-      "album": {
         "name": "All For Something",
         "url": "https://open.spotify.com/album/6LapP2TcuXedzs3mqGQNMd"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 256245,
       "name": "People Always Change",
       "url": "https://open.spotify.com/track/0fpBteIa5Ecp353J6OXOcU"
+    },
+    {
+      "added_at": "2026-05-01 14:14:17",
+      "album": {
+        "name": "Oceans - EP",
+        "url": "https://open.spotify.com/album/2tnJaZfDk3kqCpDzOTSUFi"
+      },
+      "artists": [
+        {
+          "name": "Seafret",
+          "url": "https://open.spotify.com/artist/4Ly0KABsxlx4fNj63zJTrF"
+        }
+      ],
+      "duration_ms": 216186,
+      "name": "Oceans",
+      "url": "https://open.spotify.com/track/7Cia4WzapwjMr0NUQF8vf3"
     },
     {
       "added_at": "2026-05-01 14:14:17",

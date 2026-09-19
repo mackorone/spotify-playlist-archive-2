@@ -423,6 +423,24 @@
     },
     {
       "album": {
+        "name": "Clear Skies",
+        "url": "https://open.spotify.com/album/4ABqezJKQUJmbU9BnsVMBc"
+      },
+      "artists": [
+        {
+          "name": "Asger Rykker",
+          "url": "https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150600,
+      "name": "Clear Skies",
+      "url": "https://open.spotify.com/track/7brVkDJH3BSAZl31Oqi35w"
+    },
+    {
+      "album": {
         "name": "Cloudscape",
         "url": "https://open.spotify.com/album/5wwrR5aEmGMxemHKT9GnxS"
       },

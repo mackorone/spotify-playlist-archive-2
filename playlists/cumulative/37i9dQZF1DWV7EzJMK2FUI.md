@@ -4,7 +4,7 @@
 
 > Calm jazz instrumentals for working, reading, focusing, or simply winding down.
 
-1,814 songs - 4 day 11 hr 48 min
+1,816 songs - 4 day 11 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -427,7 +427,7 @@
 | [Embracable You](https://open.spotify.com/track/2vc6aQG10jrwwi2VGXXcfl) | [Red Stairs Jazz Quartet](https://open.spotify.com/artist/7Aw4wL0AJtfh0yQDQgaBjS) | [Easy Living](https://open.spotify.com/album/063dLcnFERUaDqum86A5eF) | 2:34 | 2022-01-17 | 2023-03-31 |
 | [Embraced by Night](https://open.spotify.com/track/6h0ZKvA9lL7aPDNl4s6e7v) | [Sparrow & Bird](https://open.spotify.com/artist/1j7mprvrngD7wjbXtlVQ3d) | [Embraced by Night](https://open.spotify.com/album/0RZijEhRfQKs7m9YXafzzG) | 3:03 | 2024-03-08 | 2025-12-03 |
 | [Emerald Dreamscape](https://open.spotify.com/track/6y3A2C5g4NtmSTGPA1dn6c) | [Måns & Dotter](https://open.spotify.com/artist/2p01LeKL4qyvQ5xKWs9S40) | [Emerald Dreamscape](https://open.spotify.com/album/5QKH9vfQVg0WzHc9vZBd6k) | 2:58 | 2023-11-24 | 2024-10-15 |
-| [Emeralds](https://open.spotify.com/track/2Oottz1nS02NqaTNmfg3jl) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Emeralds](https://open.spotify.com/album/4VK7YSOolCFuqlHbo2RcFO) | 3:04 | 2025-07-01 |  |
+| [Emeralds](https://open.spotify.com/track/2Oottz1nS02NqaTNmfg3jl) | [Hamilton Reed](https://open.spotify.com/artist/48VtkBYuWbEZxRWaXLJlkb) | [Emeralds](https://open.spotify.com/album/4VK7YSOolCFuqlHbo2RcFO) | 3:04 | 2025-07-01 | 2026-09-19 |
 | [Empty Embrace](https://open.spotify.com/track/23M3EyLMK59mwAftJcWjJX) | [Halcyon Jazz Band](https://open.spotify.com/artist/65v6vabYRS8eorJk8Heb6n) | [Empty Embrace](https://open.spotify.com/album/7tZNqPtohwikYeyXWlMLhd) | 3:05 | 2023-04-13 | 2025-07-16 |
 | [Endless Days](https://open.spotify.com/track/4XDwiR78GhH02o4SIqXOj7) | [Mike Coen](https://open.spotify.com/artist/17USEyRv0BAOsxvM5pnsA8) | [Endless Days](https://open.spotify.com/album/1n1D2WiBN1G3bC4YNrsU6J) | 3:29 | 2024-10-14 | 2025-12-03 |
 | [English Rose](https://open.spotify.com/track/1vNFoWu3d80MnNkgjlaQ7k) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [English Rose](https://open.spotify.com/album/1Glhi5IB4ukDTgnfuzTwdX) | 3:06 | 2023-06-08 | 2025-12-03 |
@@ -574,7 +574,7 @@
 | [Guess the difference?](https://open.spotify.com/track/2tqQyujiRxEHUwRF9uNZCf) | [Lia Riggs Trio](https://open.spotify.com/artist/2CYlWsH8q2kD5tMQUE6Z5U) | [Guess the difference?](https://open.spotify.com/album/1nVwsbQZUhWpFcgunecXfh) | 3:19 | 2023-04-20 | 2025-04-24 |
 | [Guidance](https://open.spotify.com/track/4z8F22xJyVwiuflJV0UW5f) | [Newington Green](https://open.spotify.com/artist/33hLFARszQC3uxE93PiNeE) | [Guidance](https://open.spotify.com/album/6L416spNnfqDkQADYwejmg) | 4:00 | 2022-01-17 | 2025-01-21 |
 | [Half\-Asleep](https://open.spotify.com/track/4KL9c9n1gsFxTb1mjkqkqk) | [Urskogen Jazz](https://open.spotify.com/artist/7gaN9W8fBI9obJ9tMK1x0A) | [Half\-Asleep](https://open.spotify.com/album/1Nih0jTBS2dYrZ7DMB1T2Q) | 3:43 | 2026-04-03 |  |
-| [Halfway To Light](https://open.spotify.com/track/6BngJIrjrdnk6EEc0lPkBn) | [The Small Hours](https://open.spotify.com/artist/6725YBvkvjUa1jHvygHPk9) | [Halfway To Light](https://open.spotify.com/album/4ErGgFNLWtuvfZurDqQhKy) | 3:40 | 2026-07-26 |  |
+| [Halfway To Light](https://open.spotify.com/track/6BngJIrjrdnk6EEc0lPkBn) | [The Small Hours](https://open.spotify.com/artist/6725YBvkvjUa1jHvygHPk9) | [Halfway To Light](https://open.spotify.com/album/4ErGgFNLWtuvfZurDqQhKy) | 3:40 | 2026-07-26 | 2026-09-19 |
 | [Hand over your pocket](https://open.spotify.com/track/5CIkeKeE8beIkEnHeoSzMw) | [Samuel Greene](https://open.spotify.com/artist/43cWWTPvyFL74DlpEVyl1A) | [Hand over your pocket](https://open.spotify.com/album/3SapH8K9cfr8z3tdJAIuxk) | 2:54 | 2026-04-24 |  |
 | [Hard and lonely road](https://open.spotify.com/track/2MbAdOCekIB8VJfH8b4zye) | [Grayville Trio](https://open.spotify.com/artist/6ll13Y20dnndy8mAuF9tgk) | [Hard and lonely road](https://open.spotify.com/album/3gaUFY7kqSIM3SqY1OIefh) | 2:55 | 2023-03-30 | 2025-07-16 |
 | [Harness Your Love](https://open.spotify.com/track/3BRHCdQZeVwUj3J6evUKEF) | [Max Light Quartet](https://open.spotify.com/artist/0BZxORrNUJfV3VoAH6pgYO) | [If You Love Me](https://open.spotify.com/album/6Jzn1W3g575lrC847GFzqh) | 2:43 | 2023-04-13 | 2025-07-16 |
@@ -1303,6 +1303,7 @@
 | [Silvia](https://open.spotify.com/track/434BBeGzIGovFdGWZ3TiYl) | [Mareld Trio](https://open.spotify.com/artist/4uWLlqbaxT3HX5ucOLaiSJ) | [Silvia](https://open.spotify.com/album/0VcQYLmL9k7QlHmbJVhoyk) | 2:42 | 2026-04-24 | 2026-04-28 |
 | [Simple Things](https://open.spotify.com/track/2q89KYHbcaepIFaaT3bTZg) | [Adrian Berg](https://open.spotify.com/artist/1phUimQWJsdDP0xu7KXYnt) | [Simple Things](https://open.spotify.com/album/6poFTDFzAXcydtpifJsOix) | 3:06 | 2026-01-16 |  |
 | [Simple Things](https://open.spotify.com/track/4oOkC6iNHVNtJJWHD8fqiL) | [Loft Trio](https://open.spotify.com/artist/0deAuR6p2brrc0MsfMlQXI) | [Dave’s Waltz](https://open.spotify.com/album/2wZOolV02qRIJjOI71L8F1) | 3:06 | 2022-01-17 | 2023-04-28 |
+| [Since That Moment](https://open.spotify.com/track/6xCfLqFgLYkdeLfQeKu0tr) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [Since That Moment](https://open.spotify.com/album/3fF4dPyPTq3jBOiPbLz3pG) | 2:59 | 2026-09-18 |  |
 | [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-08 | 2024-06-01 |
 | [Sincera](https://open.spotify.com/track/4B7lJ0073KDXFgWXivllAd) | [The Don Mason Trio](https://open.spotify.com/artist/0lKn6bgPn1MwQE2L2OGjUf) | [Sincera](https://open.spotify.com/album/6Pc4LLAqn9YRpwabtzoTzj) | 2:38 | 2022-12-08 | 2025-12-03 |
 | [Six Copies](https://open.spotify.com/track/3OnVhUvvgbm9ca4UW1Agh8) | [Gottfried Barber Trio](https://open.spotify.com/artist/1QO8UVy5AHBqOWgHWEYywf) | [Six Copies](https://open.spotify.com/album/6RBOorpn7m71FYN3RnBfww) | 3:19 | 2024-04-16 | 2025-01-08 |
@@ -1392,6 +1393,7 @@
 | [Stars Above](https://open.spotify.com/track/2iMQAwqqjCEeLlnPppBOYW) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Stars Above](https://open.spotify.com/album/0jbSSFBfcHSJl7UVaCk1S9) | 2:58 | 2023-12-22 | 2025-12-03 |
 | [Stars Fell On Alabama](https://open.spotify.com/track/6V9XxCoJ9Ujckla3A0aUYL) | [Mark Roswell Trio](https://open.spotify.com/artist/5LyofWLANV5qojc0VHqh6i) | [Stars Fell On Alabama](https://open.spotify.com/album/1jJKCnldeVDpCo5p7DFXJp) | 4:04 | 2022-08-09 | 2024-10-08 |
 | [State Of Reverie](https://open.spotify.com/track/12oPfo4JKn8WdVNEe4Xp1i) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [State Of Reverie](https://open.spotify.com/album/5uzulv2dJHsQx0uuB6mGmZ) | 3:14 | 2024-05-10 | 2025-02-11 |
+| [Stay a little longer](https://open.spotify.com/track/0emDa50ODJgLqy4l0h6hc4) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [Stay a little longer](https://open.spotify.com/album/2BOjiIkqNaeTyRuIQS5o3M) | 3:22 | 2026-09-18 |  |
 | [Steady Wind](https://open.spotify.com/track/2jZZBgRqzNbF5zQnv9SNLO) | [Figgy Mold](https://open.spotify.com/artist/1nr44rcCUJR2qL0SKfCOYF) | [Steady Wind](https://open.spotify.com/album/4ynwvu1tgh72u0VovM0yNY) | 3:34 | 2025-09-30 | 2026-03-07 |
 | [Stella By Starlight](https://open.spotify.com/track/22nFrPhzV9b5yzK8GFBbEG) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Stella By Starlight](https://open.spotify.com/album/1xuGElIWx3CqL6TMaWij8U) | 2:45 | 2023-11-17 | 2025-12-03 |
 | [Stella by Starlight](https://open.spotify.com/track/3wQLuUwHezzoYCmKWztTxm) | [Tommies Trio](https://open.spotify.com/artist/6A8VCzSDHW4C4Q2J0sIJJN) | [Stella by Starlight](https://open.spotify.com/album/1vDFNuVUq9NcQ0QCRpoVbN) | 3:57 | 2022-01-17 | 2023-05-05 |

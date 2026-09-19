@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Alice Merton
 
-[Spotify](https://open.spotify.com/user/spotify) - 178,051 likes - 90 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 178,082 likes - 90 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 15 | [Red Car](https://open.spotify.com/track/1iZsQ8JtDEjZojlFOBrDRi) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Melodie](https://open.spotify.com/album/3pCuWK1YLBdu96F3wIGqjy) | 3:28 |
 | 16 | [⁠Wildfire](https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Nocturne](https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC) | 4:56 |
 | 17 | [nicotine](https://open.spotify.com/track/2DDqh8VKrNHo1xtzdydLfA) | [Winter](https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl), [Eyedress](https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB) | [nicotine](https://open.spotify.com/album/7CPreu4yLanbK0BZrJRFoe) | 3:18 |
-| 18 | [Track 3](https://open.spotify.com/track/3OopdCgZYh1N0idjbXs18b) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Feel Forever](https://open.spotify.com/album/7fuZOsaYKUhzz03q58qZ8n) | 0:00 |
+| 18 | [Leave You](https://open.spotify.com/track/3OopdCgZYh1N0idjbXs18b) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Feel Forever](https://open.spotify.com/album/7fuZOsaYKUhzz03q58qZ8n) | 3:13 |
 | 19 | [Atlantic Lullaby](https://open.spotify.com/track/5BrFbN7ebGqmEdbltTf6aF) | [vincent varus](https://open.spotify.com/artist/2Mirs2KlJTaBavdK1i6jIP) | [Atlantic Lullaby](https://open.spotify.com/album/3HUxdUISjasixUgPjdVAMo) | 3:36 |
 | 20 | [1000 Sheep](https://open.spotify.com/track/3hfBIfJDZ1OPTIA7COD28s) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [1000 Sheep](https://open.spotify.com/album/7x36dw1J9niSikR8yjsJww) | 3:26 |
 | 21 | [Isolation](https://open.spotify.com/track/65ZogCl43SsccNhS20OUph) | [The Drums](https://open.spotify.com/artist/0p5axeJsbtTCXBrRVoKjwu), [60 juno](https://open.spotify.com/artist/6BMp2cQhN9C3Vl8PLzLvw9) | [Isolation](https://open.spotify.com/album/7Ae3QP1JZtdUEYGJdMFjZZ) | 4:23 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hcTuUCeYxa.md) - [plain]
 | 89 | [In N Out](https://open.spotify.com/track/1qaXXn8O6sGopWeVXRnRr6) | [Zach Stephenson](https://open.spotify.com/artist/1HIoL8j6NeBRIdZLO8alwN) | [In N Out](https://open.spotify.com/album/08xTz3N0aYfduShwtz5Ec4) | 3:32 |
 | 90 | [Tunnelblick](https://open.spotify.com/track/7uO6VqHLUflWaKe2hJrr7J) | [Girlwoman](https://open.spotify.com/artist/24rqTvJDFy2t2xgCxsN2f0) | [Tunnelblick](https://open.spotify.com/album/48SFAfajk2gzwRzrKCpKst) | 3:34 |
 
-Snapshot ID: `AAAAALwJrfe4/JikzI313+GM3gF3FkMG`
+Snapshot ID: `AAAAAIvorAHqnsbLSSaJJsw2WoYdey8D`

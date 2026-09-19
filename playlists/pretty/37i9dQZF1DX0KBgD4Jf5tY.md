@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 
 > Solo musica indipendente 🇮🇹, aggiornata il mercoledì\. <a href="spotify:artist:4hZ6NhyyFrGR6TAnEROtVs">R£d</a> in cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,957 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,963 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0KBgD4Jf5tY.md) - [plain]
 | 49 | [calderone](https://open.spotify.com/track/3Im9VugwibqqHVVQrX0Mbb) | [55miki](https://open.spotify.com/artist/0V3d3uLu6WLBtZqeBNS0YU) | [calderone](https://open.spotify.com/album/6EoBeHzkN4cIrcRJwRtXe6) | 1:23 |
 | 50 | [CON I TASTINI](https://open.spotify.com/track/7fA72COCPQLddo8MXmZIlg) | [Musche](https://open.spotify.com/artist/2wRyXjh9Aen8FfrcQ2VEQN) | [CON I TASTINI](https://open.spotify.com/album/5aAzg6niZVLfOaq6U8BzbQ) | 1:53 |
 
-Snapshot ID: `AAAAABjsXzGOJcHppkenLAccz9UTd/CS`
+Snapshot ID: `AAAAANSpAON8LUndaJNfdR3KRvujlNI2`

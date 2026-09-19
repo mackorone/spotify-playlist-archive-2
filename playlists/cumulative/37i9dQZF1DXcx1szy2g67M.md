@@ -2,7 +2,7 @@
 
 ### [Summer 2026](https://open.spotify.com/playlist/37i9dQZF1DXcx1szy2g67M)
 
-> Zomer 2026 beleef je hier!
+> Kom maar op met de indian summer 2026!
 
 971 songs - 2 day 0 hr 58 min
 

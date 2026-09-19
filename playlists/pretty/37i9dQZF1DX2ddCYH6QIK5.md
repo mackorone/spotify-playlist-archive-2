@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 
 > The best new music by independent artists and labels from GSA, updated every Wednesday\. Cover: gwuapo, Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,821 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,831 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2ddCYH6QIK5.md) - [plain]
 | 49 | [high/low](https://open.spotify.com/track/572Qvr0K6cxkoaqvEAC4aN) | [young hoffi](https://open.spotify.com/artist/7bwLkVy3g8h8kkyLeNdiQt) | [high/low](https://open.spotify.com/album/1bjRCbCBQ9FjalRuyax1J2) | 3:46 |
 | 50 | [Odyssee](https://open.spotify.com/track/2DrKoZTPMceehif9nQntT3) | [Mende](https://open.spotify.com/artist/1XfqP1N38BVNsyLfMD2UTL) | [Odyssee](https://open.spotify.com/album/7H1meLcsqJuICI4hQyOk6V) | 3:42 |
 
-Snapshot ID: `AAAAABhU1tQ+o2Mk/4loewT+M5GvRPNe`
+Snapshot ID: `AAAAAJEPYTcFCJBvOGpQiuP1ex4YrvLu`

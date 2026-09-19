@@ -4525,6 +4525,24 @@
     },
     {
       "album": {
+        "name": "Inflictor",
+        "url": "https://open.spotify.com/album/593StCh46ilmoJGWfRdt6p"
+      },
+      "artists": [
+        {
+          "name": "Worldview",
+          "url": "https://open.spotify.com/artist/53AOSoE3dHnIV5IO2F1A0J"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226216,
+      "name": "Inflictor",
+      "url": "https://open.spotify.com/track/6hMjrIUiej8Jz0D3mJ63Zw"
+    },
+    {
+      "album": {
         "name": "Hom\u00f3nimo",
         "url": "https://open.spotify.com/album/0VsshIJiVioik5t4nLl3Pd"
       },

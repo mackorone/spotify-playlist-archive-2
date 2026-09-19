@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 
 > The best new music from independent artists in the UK and Ireland\. Cover: Otik
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,790 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,809 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7AqyNZFu97s.md) - [plain]
 | 49 | [C'est La Vie](https://open.spotify.com/track/5W9GYaW9EHNUGgPPLjlK9f) | [Jesse June](https://open.spotify.com/artist/1jTbHx4wIRpp5mbVc35lLu) | [C'est La Vie](https://open.spotify.com/album/5QCsD6oD7L2Bmn9mdIGG7Z) | 2:58 |
 | 50 | [London Tonight](https://open.spotify.com/track/0e04OZxrOF4VrDPFRPfXcO) | [Mercer](https://open.spotify.com/artist/3SWER2Np3pHA03J0MDHnV7) | [London Tonight](https://open.spotify.com/album/47M0OMLQ5G5AFgwqkKXDUf) | 3:25 |
 
-Snapshot ID: `AAAAAG2wwVkmI7iuvkh9q++ce/5mif6B`
+Snapshot ID: `AAAAAOZQc7CSf8J5hfr1Z/jKqunrwgs7`

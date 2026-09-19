@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "a little indie, a little pop, soda featuring Jack Gray",
+  "description": "a little indie, a little pop, soda featuring Henry Morris",
   "name": "soda",
   "tracks": [
     {
@@ -1929,6 +1929,24 @@
     },
     {
       "album": {
+        "name": "Average Joe",
+        "url": "https://open.spotify.com/album/5kf0iKNBmGaXsjOp7QTaBU"
+      },
+      "artists": [
+        {
+          "name": "Moody Joody",
+          "url": "https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192946,
+      "name": "Average Joe",
+      "url": "https://open.spotify.com/track/7rC6j8fRo2Sov5GX099XVv"
+    },
+    {
+      "album": {
         "name": "B.I.L.L.S.",
         "url": "https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5"
       },
@@ -2628,6 +2646,24 @@
       "duration_ms": 144074,
       "name": "Better Off",
       "url": "https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl"
+    },
+    {
+      "album": {
+        "name": "Better Than Me",
+        "url": "https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175037,
+      "name": "Better Than Me",
+      "url": "https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG"
     },
     {
       "album": {
@@ -5957,6 +5993,24 @@
     },
     {
       "album": {
+        "name": "Crawling Back To You",
+        "url": "https://open.spotify.com/album/6tWyemLPfJD9PBsv6xJsnE"
+      },
+      "artists": [
+        {
+          "name": "Henry Morris",
+          "url": "https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175304,
+      "name": "Crawling Back To You",
+      "url": "https://open.spotify.com/track/2E55dUwvxdSkrqhgLgL6SC"
+    },
+    {
+      "album": {
         "name": "Creatures In Heaven",
         "url": "https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3"
       },
@@ -8560,6 +8614,24 @@
       "duration_ms": 172606,
       "name": "EVERYTHING YOU WANTED",
       "url": "https://open.spotify.com/track/2gvdqsxVtVayLEclQIFDRk"
+    },
+    {
+      "album": {
+        "name": "Everything's the same",
+        "url": "https://open.spotify.com/album/0c3fqqv3MGSb0vN8ckYHp0"
+      },
+      "artists": [
+        {
+          "name": "MICO",
+          "url": "https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172363,
+      "name": "Everything's the same",
+      "url": "https://open.spotify.com/track/0JR7Pjg8QzNbZ4b4FEYxtX"
     },
     {
       "album": {
@@ -12560,6 +12632,24 @@
       "duration_ms": 174744,
       "name": "Hug Yourself",
       "url": "https://open.spotify.com/track/0wxptU4oakoC1OfPWcqgDc"
+    },
+    {
+      "album": {
+        "name": "human nature",
+        "url": "https://open.spotify.com/album/0WEiLAjjiwYpCdGSR3cAsR"
+      },
+      "artists": [
+        {
+          "name": "Thomas Day",
+          "url": "https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149100,
+      "name": "human nature",
+      "url": "https://open.spotify.com/track/1yTBVn8vCTDps5lh1VjgrR"
     },
     {
       "album": {

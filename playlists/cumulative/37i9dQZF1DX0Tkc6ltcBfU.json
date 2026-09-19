@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The hottest out the South. Cover: Nine Vicious",
+  "description": "The hottest out the South. Cover: Don Toliver",
   "name": "No Cap",
   "tracks": [
     {
@@ -1736,7 +1736,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 128573,
       "name": "6WA",
       "url": "https://open.spotify.com/track/6fODAgyTJdN7ATeJOP81dj"
@@ -5068,6 +5068,32 @@
       "duration_ms": 158620,
       "name": "BALL LIKE ME TOO",
       "url": "https://open.spotify.com/track/2niJk9HZuWEBGPuR1aGYjy"
+    },
+    {
+      "album": {
+        "name": "Ball Without The Dribble (feat. Trigga500k)",
+        "url": "https://open.spotify.com/album/4bNmqRnwPqCRmAjgnB7lDi"
+      },
+      "artists": [
+        {
+          "name": "Big Moochie Grape",
+          "url": "https://open.spotify.com/artist/3tYObOPkxDpra3sjNdCeKa"
+        },
+        {
+          "name": "Zaytoven",
+          "url": "https://open.spotify.com/artist/1mceaxtjWdEmwoDVAlkC41"
+        },
+        {
+          "name": "Trigga500k",
+          "url": "https://open.spotify.com/artist/3sKEcXiXfFmjp7qOo44qfx"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172853,
+      "name": "Ball Without The Dribble (feat. Trigga500k)",
+      "url": "https://open.spotify.com/track/7LN24wp9FlhZ9VIHrSc1Vj"
     },
     {
       "album": {
@@ -28532,7 +28558,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 192104,
       "name": "Krank!",
       "url": "https://open.spotify.com/track/6rBPut0icGIYuPpLNXx9Ob"
@@ -30292,6 +30318,28 @@
       "duration_ms": 207079,
       "name": "LIT EFFECT [Feat. Bktherula & LAZER DIM 700]",
       "url": "https://open.spotify.com/track/4sJFW6APhXl5v7idGF3QWd"
+    },
+    {
+      "album": {
+        "name": "LITE (feat. Belly Gang Kushington)",
+        "url": "https://open.spotify.com/album/2R1Ux79J3M5N1T8QnPTdf7"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "LITE (feat. Belly Gang Kushington)",
+      "url": "https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq"
     },
     {
       "album": {
@@ -43483,6 +43531,28 @@
     },
     {
       "album": {
+        "name": "RHYNO (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "RHYNO (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
+    },
+    {
+      "album": {
         "name": "SW4GL0RD",
         "url": "https://open.spotify.com/album/3R7smKm710OLsHyNWkNviz"
       },
@@ -44240,7 +44310,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 158531,
       "name": "Rollacoasta",
       "url": "https://open.spotify.com/track/0Reng10iZSowA8IlegRTtL"
@@ -44510,7 +44580,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 194571,
       "name": "Run It Up (feat. Key Glock)",
       "url": "https://open.spotify.com/track/73EKQrgYNVwOaKdwh5a1PV"
@@ -47737,6 +47807,24 @@
     },
     {
       "album": {
+        "name": "Something I Need",
+        "url": "https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145754,
+      "name": "Something I Need",
+      "url": "https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8"
+    },
+    {
+      "album": {
         "name": "Something Wrong (with Don Toliver)",
         "url": "https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a"
       },
@@ -48152,7 +48240,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 255104,
       "name": "Spin",
       "url": "https://open.spotify.com/track/3Y915GAqFaP9hO4VDip2ud"
@@ -52637,6 +52725,36 @@
     },
     {
       "album": {
+        "name": "I Quit Rap",
+        "url": "https://open.spotify.com/album/7I9ZdeXGuh2ttPzhbjbf6n"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        },
+        {
+          "name": "BabyDrill",
+          "url": "https://open.spotify.com/artist/4Q7FV4mw6Q3va79JwftGRv"
+        },
+        {
+          "name": "YKNIECE",
+          "url": "https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog"
+        },
+        {
+          "name": "Fatt Smaxk",
+          "url": "https://open.spotify.com/artist/0RRUXaSteOOZzo5gMCAeuX"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223711,
+      "name": "Throw It (feat. YKNIECE & Fatt Smaxk)",
+      "url": "https://open.spotify.com/track/5VTbKRpw2x8l9w94lfyWXx"
+    },
+    {
+      "album": {
         "name": "Thug Diary",
         "url": "https://open.spotify.com/album/3pZcbvQtNFCiUfNWfb1tOT"
       },
@@ -53063,20 +53181,24 @@
     },
     {
       "album": {
-        "name": "Too Phat",
+        "name": "Too Phat (feat. Steelo Steezy)",
         "url": "https://open.spotify.com/album/2wW0DM1EjuLv8lxoocnj2o"
       },
       "artists": [
         {
           "name": "HoodRich Pablo Juan",
           "url": "https://open.spotify.com/artist/1ZLO8d7zll1WeQJUHaxQer"
+        },
+        {
+          "name": "Steelo Steezy",
+          "url": "https://open.spotify.com/artist/6Nm7b57RPG4WshJW2e5kpz"
         }
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 200328,
-      "name": "Too Phat",
+      "name": "Too Phat (feat. Steelo Steezy)",
       "url": "https://open.spotify.com/track/1vEE3ZaSMwMih4DAFgDFOD"
     },
     {

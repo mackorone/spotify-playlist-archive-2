@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 
 > The best tracks from the world of music\. Cover: LISA
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,629 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,620 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdEF3AqJpXE3.md) - [plain]
 | 49 | [can't be without you](https://open.spotify.com/track/2GbduroFTuALtTJpi0FnWP) | [brb.](https://open.spotify.com/artist/2XBiI8PjCnjJ3XKWtiKcvc) | [can't be without you](https://open.spotify.com/album/62LiDJ3ztVaV4chE1EUjzk) | 2:44 |
 | 50 | [MMG \(My Mine Gueh\)](https://open.spotify.com/track/2AtJq58CHh4qBUqTpU75vU) | [Naykilla](https://open.spotify.com/artist/79omf4LgzaVAnXIRWPkJUq) | [MMG \(My Mine Gueh\)](https://open.spotify.com/album/45k1vV0vkspETDlmA8nxZM) | 3:13 |
 
-Snapshot ID: `AAAAAOwHpsu/nDnOq6le+5ZTQoZnCl8m`
+Snapshot ID: `AAAAALhOQhRBROfgooyf3VHlaI6/JcRg`

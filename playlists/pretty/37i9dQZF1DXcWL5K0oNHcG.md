@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 
 > Fresh jazz by independent artists every Wednesday\. Cover: SYNC.EXE Artwork: Joy Yamusangie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 245,107 likes - 50 songs - 3 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 245,145 likes - 50 songs - 3 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcWL5K0oNHcG.md) - [plain]
 | 49 | [notte brava](https://open.spotify.com/track/0ChseX4Zj2Ix6bDOgXQN9m) | [Dario Jacque](https://open.spotify.com/artist/2zZOZjbIhOVjV9wdFEjwHm) | [SANG](https://open.spotify.com/album/0uu67DzeyjOUkXantXQSSH) | 2:31 |
 | 50 | [LOVE THERAPY PT.3](https://open.spotify.com/track/6MS8pijpGGJLtkmzL1YKyH) | [hoshii](https://open.spotify.com/artist/1PzdsUKu27uO3dCnpnXxWJ), [Kuba Więcek](https://open.spotify.com/artist/6TMvLRR8hD8RADUX9aqz3L) | [HER NAME WAS YUMI \(DELUXE\)](https://open.spotify.com/album/3Glpu99dSGM2bDlKzyHd7L) | 3:21 |
 
-Snapshot ID: `AAAAAL1aHdSxBb/8SoXhf1uHdSo3ZIfn`
+Snapshot ID: `AAAAANlEgCrmz0acVufO1tsuc199D1rZ`

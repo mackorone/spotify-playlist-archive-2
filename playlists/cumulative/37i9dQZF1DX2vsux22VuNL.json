@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-27",
-  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Cynthia Luz, Sotam",
+  "description": "Aquele som que \u00e9 pura brisa. \ud83c\udf43 Foto: Drik Barbosa",
   "name": "brisa",
   "tracks": [
     {
@@ -1300,6 +1300,28 @@
       "duration_ms": 207500,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/3gs7uYFl24VspXdi39Yy6l"
+    },
+    {
+      "album": {
+        "name": "L\u00f3tus",
+        "url": "https://open.spotify.com/album/2MmihnLyHR6arfyTpB4KId"
+      },
+      "artists": [
+        {
+          "name": "Drik Barbosa",
+          "url": "https://open.spotify.com/artist/1VJZvjGu80pBwk0qeJz8ZR"
+        },
+        {
+          "name": "outro lado",
+          "url": "https://open.spotify.com/artist/3QmFq43WZx7c0kgBHLgVX6"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163571,
+      "name": "Banho de Sol",
+      "url": "https://open.spotify.com/track/6yoAW4zcYOKiIoWpEqwtaE"
     },
     {
       "album": {
@@ -2688,7 +2710,7 @@
       ],
       "date_added": "2024-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 192001,
       "name": "Depois do Depois",
       "url": "https://open.spotify.com/track/49o6s1cJeFXcSyHMKtLnGg"
@@ -2754,7 +2776,7 @@
       ],
       "date_added": "2023-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 167478,
       "name": "Desliga",
       "url": "https://open.spotify.com/track/4DsVj6LY4dUwEAOz29i4QR"
@@ -6358,7 +6380,7 @@
       ],
       "date_added": "2025-03-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 245714,
       "name": "Meu I\u00f4 I\u00f4",
       "url": "https://open.spotify.com/track/1f8i0jRzztHvZmzPT2cYhx"
@@ -9273,6 +9295,32 @@
     },
     {
       "album": {
+        "name": "Garotas Adoram Meu Estilo",
+        "url": "https://open.spotify.com/album/6oCdAaT6454HNMxP4Aq5jM"
+      },
+      "artists": [
+        {
+          "name": "LUKA",
+          "url": "https://open.spotify.com/artist/1qYaM9h5VHYbHxIlr4UIa0"
+        },
+        {
+          "name": "Kiaz",
+          "url": "https://open.spotify.com/artist/6Ae0wz09vBFYZXJ2bJAKUl"
+        },
+        {
+          "name": "Malu Original",
+          "url": "https://open.spotify.com/artist/3UgDjYJgPcLRrFoLa1YzTY"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168984,
+      "name": "Quando Eu Te Vi",
+      "url": "https://open.spotify.com/track/4iAzhPVhNyQJ0IxsyBvLxX"
+    },
+    {
+      "album": {
         "name": "Quanta Riqueza",
         "url": "https://open.spotify.com/album/5eiWGVE6tFQiv4HhusuxWM"
       },
@@ -11384,6 +11432,32 @@
       "duration_ms": 191600,
       "name": "Tempo",
       "url": "https://open.spotify.com/track/0JbnM6rnFObzTrwKl7BPMb"
+    },
+    {
+      "album": {
+        "name": "Terapia",
+        "url": "https://open.spotify.com/album/1xcUwnCCCJJon9Pd4XBKJE"
+      },
+      "artists": [
+        {
+          "name": "Caio Passos",
+          "url": "https://open.spotify.com/artist/6zGPa2tLMJ5HQYUddZI8di"
+        },
+        {
+          "name": "PETER",
+          "url": "https://open.spotify.com/artist/0n1mAwB6WCl4n32lHCGJZ3"
+        },
+        {
+          "name": "O Brabo da Terra do Sol",
+          "url": "https://open.spotify.com/artist/4nYStsH7Stew93Q7C4XiFe"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166153,
+      "name": "Terapia",
+      "url": "https://open.spotify.com/track/7EghrkAzBt8wtriekaK8wi"
     },
     {
       "album": {

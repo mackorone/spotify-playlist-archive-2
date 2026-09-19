@@ -2,9 +2,9 @@
 
 ### [Feelin' Myself](https://open.spotify.com/playlist/37i9dQZF1DX6GwdWRQMQpq)
 
-> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Cardi B
+> The hip\-hop playlist that's a whole mood\. Art By Laci Jordan; Cover: Coi Leray
 
-872 songs - 1 day 14 hr 37 min
+874 songs - 1 day 14 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -153,7 +153,7 @@
 | [Broke Boy Pt\. 2 \(feat\. Bankroll Freddie\)](https://open.spotify.com/track/4XLHL9bbPjruuuL2LGVMGQ) | [Gloss Up](https://open.spotify.com/artist/7eDFwYpqsAROCZibWYr5C1), [Bankroll Freddie](https://open.spotify.com/artist/20vLls6BmcHB0zEwpB91O2) | [Broke Boy Pt\. 2 \(feat\. Bankroll Freddie\)](https://open.spotify.com/album/5EjFJHbDCb47EPcGV8Piqd) | 2:33 | 2022-09-02 | 2022-09-24 |
 | [Brokey](https://open.spotify.com/track/1JF8LkQWZ8grXb2emqrNKn) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Sugar Honey Iced Tea](https://open.spotify.com/album/1S9LGRodo5jsXGsMeVaYNp) | 3:37 | 2024-08-16 | 2026-04-25 |
 | [Budget \(feat\. Latto\)](https://open.spotify.com/track/3BFxkzhkESwALQxjxOVFgJ) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 | 2022-08-12 | 2023-07-01 |
-| [Bunna Summa](https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Bunna Summa](https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK) | 2:27 | 2025-05-02 |  |
+| [Bunna Summa](https://open.spotify.com/track/4OGAwFoXdtYTNitXb40ZVV) | [BunnaB](https://open.spotify.com/artist/31xNxPD0tnYKr7Krg8dyPB) | [Bunna Summa](https://open.spotify.com/album/4ePUbQBPZ4a553ap9NTSqK) | 2:27 | 2025-05-02 | 2026-09-19 |
 | [Burning Blue](https://open.spotify.com/track/0aWHb6ujnlXkmmOI1ltStc) | [Mariah the Scientist](https://open.spotify.com/artist/7HO5fOXE4gh3lzZn64tX2E) | [Burning Blue](https://open.spotify.com/album/02DSnnPzc0do4lZmfJjeeg) | 3:25 | 2025-05-09 | 2025-08-23 |
 | [Business & Personal \(Intro\)](https://open.spotify.com/track/7MuSU4AjQ9yW9Jl6eFIPTW) | [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Business & Personal \(Intro\)](https://open.spotify.com/album/5N4cdVzzsQFrw6qleGwPBr) | 4:20 | 2026-03-20 | 2026-05-30 |
 | [Bussin](https://open.spotify.com/track/7lcI4X8RZxK4zIknJcwpBq) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Bussin](https://open.spotify.com/album/5cs7xv0RHTRhw9S7vw529n) | 2:16 | 2022-02-11 | 2022-06-18 |
@@ -386,6 +386,7 @@
 | [I Might \(feat\. Summer Walker\)](https://open.spotify.com/track/7jOH0c8zwNLteXLsCW8gvT) | [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Hood Hottest Princess \(Deluxe\)](https://open.spotify.com/album/7eJUwUbX2BGnNkLBoOvIlr) | 2:55 | 2023-12-01 | 2023-12-09 |
 | [I Need A Thug](https://open.spotify.com/track/2SOoJnfRWOEeme123rd0B3) | [City Girls](https://open.spotify.com/artist/37hAfseJWi0G3Scife12Il) | [I Need A Thug](https://open.spotify.com/album/23QZB0Q3annZYCOiKRB4Pl) | 1:57 | 2023-06-09 | 2023-06-24 |
 | [I Wish you Roses](https://open.spotify.com/track/6BQrmjAgPfPTwILoFEK3Hd) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM) | [I Wish you Roses](https://open.spotify.com/album/2XCrHIlpS6yq2Lix46lOPi) | 3:45 | 2023-01-20 | 2023-02-04 |
+| [I'M KNOWIN' \(feat\. KenTheMan\)](https://open.spotify.com/track/3f72wceJz35zVhehff2reA) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [KenTheMan](https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3) | [MOTION PACK](https://open.spotify.com/album/1YvvObdtDdAha2JiKuMIc8) | 3:21 | 2026-09-18 |  |
 | [I'M THAT BITCH](https://open.spotify.com/track/39uEuUEWsAZtozSQRPlf62) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [Timbaland](https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ) | [I'M THAT BITCH](https://open.spotify.com/album/3XZmrh1D5RI5kvz5N6i6Lp) | 2:32 | 2023-03-24 | 2023-11-04 |
 | [Ice Baby](https://open.spotify.com/track/54c4fajLogCgJkKiKztEa2) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Ice Baby](https://open.spotify.com/album/47fUhEmt7Ew393CEPo7VhK) | 2:49 | 2021-10-29 | 2022-03-12 |
 | [Ice Me](https://open.spotify.com/track/4DRrkGW5OpK80HzMSk7mGu) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Ice Me](https://open.spotify.com/album/7DcjUsuRBzr5K3lxOsFCFm) | 2:33 | 2024-06-14 | 2024-09-07 |
@@ -457,7 +458,7 @@
 | [Like That!](https://open.spotify.com/track/4uEqDPi2ZC7S4RabDJ2lnr) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Like That!](https://open.spotify.com/album/1F3gM9DwTTdX2Mzf8v571g) | 2:49 | 2024-04-19 | 2024-08-24 |
 | [Like This \(Back It Up\)](https://open.spotify.com/track/64r5iQ8xKI1CjmtqUb8lbY) | [Icandy](https://open.spotify.com/artist/1I0tv3cE1cDIJvQpHyuCYN) | [Like This \(Back It Up\)](https://open.spotify.com/album/22AFCh0LRZCh1Um4X5YHO2) | 3:00 | 2024-02-09 | 2024-02-24 |
 | [Like What \(Freestyle\)](https://open.spotify.com/track/3ytbtkmMnkfwMrBi32a7FD) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Like What \(Freestyle\)](https://open.spotify.com/album/5lkEeOxdNc0SYt91lz7miv) | 2:16 | 2024-03-01 | 2024-12-07 |
-| [Lil Mama](https://open.spotify.com/track/0G869PQwqx7tcIB6ftQDg6) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Lil Mama](https://open.spotify.com/album/15XdftqQ6gFZDhlmWIqh90) | 2:02 | 2026-06-12 |  |
+| [Lil Mama](https://open.spotify.com/track/0G869PQwqx7tcIB6ftQDg6) | [YKNIECE](https://open.spotify.com/artist/0W1zQBUWnDofTkc0APdaog) | [Lil Mama](https://open.spotify.com/album/15XdftqQ6gFZDhlmWIqh90) | 2:02 | 2026-06-12 | 2026-09-19 |
 | [Lipstick Lover](https://open.spotify.com/track/6IhkXHtj7tJg5waF4utfX0) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Lipstick Lover](https://open.spotify.com/album/6eg7CJ9fJAeLJ5PGB1Vf7T) | 2:49 | 2023-05-12 | 2023-06-03 |
 | [Live Your Life](https://open.spotify.com/track/3x9NMi02uf1xxmczl0Grxx) | [Molly Santana](https://open.spotify.com/artist/1zEHBw7xQf0drXZagRkciU) | [Live Your Life](https://open.spotify.com/album/19Ul2SFUdm30hRpT2X6tin) | 2:03 | 2026-08-14 | 2026-08-28 |
 | [LL Cool J](https://open.spotify.com/track/7MGPr84RIWHL9Zz9xLHe93) | [Leikeli47](https://open.spotify.com/artist/0DtXHIvJ8NWBg5pGvsgWnR) | [LL Cool J](https://open.spotify.com/album/28tjTRoy8DLPOFntXpUxRk) | 3:13 | 2022-03-18 | 2022-06-26 |
@@ -561,6 +562,7 @@
 | [Not My Problem](https://open.spotify.com/track/1T6dUV1mqXyA2bSP3lK0IZ) | [Laila!](https://open.spotify.com/artist/7tHTnyrdTNM152slc8aQ3t) | [Not My Problem \(Flyer Than U\)](https://open.spotify.com/album/6G6eCUDFNO5A8rgWrxKddR) | 2:39 | 2024-08-23 | 2025-06-28 |
 | [Not Sorry](https://open.spotify.com/track/4d6aCv12wZco0ndMM8NpQY) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd) | [Fine Ho, Stay](https://open.spotify.com/album/4tNtjyBBXMhGRwqOQTbh6i) | 1:52 | 2024-03-15 | 2024-04-06 |
 | [Not Yours](https://open.spotify.com/track/1Wlxvl98MLBcyXsVF6VDnt) | [Lady Binladen](https://open.spotify.com/artist/7uhhz6hbxdJlbHIbmqvAAT) | [Not Yours](https://open.spotify.com/album/2dmEvjeosmWip7SSpV7wro) | 2:36 | 2026-07-24 |  |
+| [Nothing Into Something](https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nothing Into Something](https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH) | 2:21 | 2026-09-18 |  |
 | [Numb](https://open.spotify.com/track/2GeHPJJYtU5ABDo0bS0Jou) | [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Numb](https://open.spotify.com/album/2UZOCW5ysMVZAP85uYW4ma) | 2:34 | 2026-04-17 | 2026-05-30 |
 | [Nun Nun](https://open.spotify.com/track/7o60UHSLPo5SuNc0v9hG7o) | [cupcakKe](https://open.spotify.com/artist/76SlrtEaq2oViRXulxjfuM) | [Dauntless Manifesto](https://open.spotify.com/album/2g8S9vqA5k6Xb6Yvjldya3) | 2:15 | 2024-06-28 | 2024-07-13 |
 | [NUT NUT](https://open.spotify.com/track/0Fjj0Y49ltlxqcLiIZMSgE) | [thickney](https://open.spotify.com/artist/7cvYYJFBuw4169sVI1Krk5) | [NUT NUT](https://open.spotify.com/album/50rXxaX9ONvoG7rkGj248G) | 1:37 | 2026-03-20 | 2026-03-28 |

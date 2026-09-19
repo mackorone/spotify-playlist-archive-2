@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 
 > Khuphuka lapho… seku\-late! Cover: Feza
 
-[Spotify](https://open.spotify.com/user/spotify) - 262,950 likes - 100 songs - 7 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 263,072 likes - 100 songs - 7 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 10 | [Ama Baffalo Nama Elephant](https://open.spotify.com/track/0CyUpyCXdfg3j3aeNefnvE) | [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY) | [Number 10](https://open.spotify.com/album/7grvU2KtNU99HxAZOMpanN) | 4:59 |
 | 11 | [Usungikhombisile](https://open.spotify.com/track/40Pz55sGOiG7enWMDnq36u) | [Nkeshemba](https://open.spotify.com/artist/5mcQQWaTilvZ99xmDg9LCU) | [Imikhonto](https://open.spotify.com/album/6X5yIlflEhPDxmuEe2Uki6) | 4:27 |
 | 12 | [Yimi umaqondana](https://open.spotify.com/track/7N1xuoaI37vpWuGXXUEqDI) | [Mahostela 97](https://open.spotify.com/artist/1MSTGFMPxpZD05uY1EnD5w) | [Yimi umaqondana](https://open.spotify.com/album/7j5RodVWmaPj5Nu7KE1D2P) | 4:29 |
-| 13 | [Umgangela](https://open.spotify.com/track/7jMyXpdSv3j44EFfbwM8gY) | [Digital Maskandi](https://open.spotify.com/artist/65yZ3NmkReEd509wquNGJr), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Saliwa](https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8), [Khanyie](https://open.spotify.com/artist/1j5VEOlKML7QXilZcmIE3v) | [Umgangela](https://open.spotify.com/album/0HTTg0uBRvquTnJm1VEW8Y) | 3:59 |
+| 13 | [Umgangela](https://open.spotify.com/track/7jMyXpdSv3j44EFfbwM8gY) | [Digital Maskandi](https://open.spotify.com/artist/65yZ3NmkReEd509wquNGJr), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn), [Saliwa](https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8), [Khanyie](https://open.spotify.com/artist/1j5VEOlKML7QXilZcmIE3v) | [Umgangela](https://open.spotify.com/album/0HTTg0uBRvquTnJm1VEW8Y) | 4:15 |
 | 14 | [Phez' komuntu \(feat\. Limit Nala & Saliwa\)](https://open.spotify.com/track/60q8bPLtN7gLTrpm5JZP7G) | [Zwide](https://open.spotify.com/artist/1MLyzirvUgvt90R9DISyeJ), [LIMIT NALA](https://open.spotify.com/artist/0ysbLY7TUvj3AKV2W7ZCFY), [Saliwa](https://open.spotify.com/artist/2I0i5ZfLpQQ1dzFTkyBON8) | [Phez' komuntu \(feat\. Limit Nala & Saliwa\)](https://open.spotify.com/album/3vrEVzUKWBYLL8qIKs0185) | 4:56 |
 | 15 | [Ngiphelele](https://open.spotify.com/track/64N5FotBq94fBRNG6GWoTX) | [Maqatha](https://open.spotify.com/artist/7ijapeqUB1Kjh7Ou34Bbtk), [Inkosi Yamagcokama](https://open.spotify.com/artist/6nUOVYcWS0pat3LXuZMe6q) | [AmaKillometre](https://open.spotify.com/album/2zRYEhA2jbOEJkxHxmutpG) | 4:22 |
 | 16 | [Liyoma Ngami](https://open.spotify.com/track/662p5yCu62sqXtZN2nihdB) | [Mjolisi](https://open.spotify.com/artist/241x5prRiXJmnk4vSGEHcr), [UMnotho](https://open.spotify.com/artist/2h2oLC9oYSV4kYoAnHQHhd), [SOMCWAYI](https://open.spotify.com/artist/4kLo4bjriPxt8Bbx3UnuDZ) | [Kuphelele](https://open.spotify.com/album/6GEKyyFeiQOaUCdaWVUgbJ) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2xhOTSp6PjQ.md) - [plain]
 | 99 | [Isifebe Sendoda](https://open.spotify.com/track/1otdCFUdWjT0yLWOfFr6kc) | [IZINGANE ZOMA](https://open.spotify.com/artist/1fa6d4xSwQWEhmp0MwKw61) | [Msholozi](https://open.spotify.com/album/6QxMBGWtj8tXhWiNNFF2pA) | 4:20 |
 | 100 | [Sukuma Mkami Bakubone](https://open.spotify.com/track/0O5LuQXAfihaOA3TFxYt3C) | [Mzukulu](https://open.spotify.com/artist/2cvAWNKeSNVAfSZqAQIIS3) | [Ivila Laselawini](https://open.spotify.com/album/278BIRWbQrUNkDwC3gN56e) | 4:26 |
 
-Snapshot ID: `AAAAAGpePJm3uWImm6u7CzyAOTipm8Oz`
+Snapshot ID: `AAAAAA5Z2yD6RnUd2fkDDLG9fKVgLkZ8`

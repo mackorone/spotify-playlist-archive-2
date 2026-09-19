@@ -1,12 +1,12 @@
 {
   "description": "Deutschrap f\u00fcr die emotions. Cover: Mucco",
-  "num_followers": 569874,
+  "num_followers": 569865,
   "original_name": "Rap in deep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAD4fd2yUOjy7VqAp6EM/Y2iQccNu",
+  "snapshot_id": "AAAAAMF6TTKI4iNFSgduIPVB6D5JsdTh",
   "tracks": [
     {
       "added_at": "2026-09-14 09:21:00",
@@ -127,6 +127,22 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
+        "name": "Erinnerung",
+        "url": "https://open.spotify.com/album/6vsV5GUrK6qjQiLNQ3anfh"
+      },
+      "artists": [
+        {
+          "name": "Dardan",
+          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
+        }
+      ],
+      "duration_ms": 184093,
+      "name": "Erinnerung",
+      "url": "https://open.spotify.com/track/3ZytSzc7WgFeXLuGQjwuwr"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
         "name": "LET ME LOVE YOU",
         "url": "https://open.spotify.com/album/2W46w9MTi2iEhIHFKAoHnM"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 144500,
       "name": "LET ME LOVE YOU",
       "url": "https://open.spotify.com/track/1QlIvqhrLroP5Eyd4qpzvE"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
-        "name": "Erinnerung",
-        "url": "https://open.spotify.com/album/6vsV5GUrK6qjQiLNQ3anfh"
-      },
-      "artists": [
-        {
-          "name": "Dardan",
-          "url": "https://open.spotify.com/artist/3pjq2pDV9RR6VY55wBjVnp"
-        }
-      ],
-      "duration_ms": 184093,
-      "name": "Erinnerung",
-      "url": "https://open.spotify.com/track/3ZytSzc7WgFeXLuGQjwuwr"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -211,22 +211,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "44 ME",
-        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
-      },
-      "artists": [
-        {
-          "name": "Juju",
-          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
-        }
-      ],
-      "duration_ms": 143130,
-      "name": "ALLEIN",
-      "url": "https://open.spotify.com/track/1NdsWLtQVYABhM72vF3oit"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Gift",
         "url": "https://open.spotify.com/album/61jDWf2iogrNLVfIKVFbIP"
       },
@@ -239,6 +223,22 @@
       "duration_ms": 167000,
       "name": "Gift",
       "url": "https://open.spotify.com/track/0hE2ICHThRdaBUJPRmjtdH"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "44 ME",
+        "url": "https://open.spotify.com/album/0zKLi0wo0t1F2jWJ3fgQsm"
+      },
+      "artists": [
+        {
+          "name": "Juju",
+          "url": "https://open.spotify.com/artist/4sg4no0TXdsrM1s4SVUwNF"
+        }
+      ],
+      "duration_ms": 143130,
+      "name": "ALLEIN",
+      "url": "https://open.spotify.com/track/1NdsWLtQVYABhM72vF3oit"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -355,26 +355,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "DUBAI",
-        "url": "https://open.spotify.com/album/73rMNDoChpSjFrI7WvpSTW"
-      },
-      "artists": [
-        {
-          "name": "PA Sports",
-          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
-        },
-        {
-          "name": "Mucco",
-          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
-        }
-      ],
-      "duration_ms": 164678,
-      "name": "DUBAI",
-      "url": "https://open.spotify.com/track/5K9x7Npbq2swS3XSmQjFtZ"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Wunder",
         "url": "https://open.spotify.com/album/5O4Ps6WmC2nFKpUP5TIIMa"
       },
@@ -395,6 +375,26 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
+        "name": "DUBAI",
+        "url": "https://open.spotify.com/album/73rMNDoChpSjFrI7WvpSTW"
+      },
+      "artists": [
+        {
+          "name": "PA Sports",
+          "url": "https://open.spotify.com/artist/2qMezKrAKRh2Z2uR3fCqHt"
+        },
+        {
+          "name": "Mucco",
+          "url": "https://open.spotify.com/artist/0AfMiUTAbsDPQSCXmBva4y"
+        }
+      ],
+      "duration_ms": 164678,
+      "name": "DUBAI",
+      "url": "https://open.spotify.com/track/5K9x7Npbq2swS3XSmQjFtZ"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
         "name": "pass auf mein herz auf",
         "url": "https://open.spotify.com/album/1Cyp8PDZmddPo100wHR09j"
       },
@@ -407,6 +407,22 @@
       "duration_ms": 156143,
       "name": "mit dir ist es anders",
       "url": "https://open.spotify.com/track/5pYwlWa3wwKlTEyt4jvWvS"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
+        "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
+      },
+      "artists": [
+        {
+          "name": "FANJI",
+          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
+        }
+      ],
+      "duration_ms": 167053,
+      "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
+      "url": "https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -447,22 +463,6 @@
       "duration_ms": 138224,
       "name": "KOMM N\u00c4HER",
       "url": "https://open.spotify.com/track/5bw4N8amK7DNOshwCDMgIJ"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
-        "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
-        "url": "https://open.spotify.com/album/0ANGBiq4fo4acpGYXFCGTe"
-      },
-      "artists": [
-        {
-          "name": "FANJI",
-          "url": "https://open.spotify.com/artist/7cbNRxBnegas0Y6W4cDdhy"
-        }
-      ],
-      "duration_ms": 167053,
-      "name": "Was w\u00e4re wenn du nicht w\u00e4rst?",
-      "url": "https://open.spotify.com/track/1wYdHjqYbGZW087h9lFHxX"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -523,6 +523,30 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
+        "name": "tempo",
+        "url": "https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7"
+      },
+      "artists": [
+        {
+          "name": "Sampagne",
+          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
+        },
+        {
+          "name": "badchieff",
+          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
+        },
+        {
+          "name": "CRO",
+          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
+        }
+      ],
+      "duration_ms": 164745,
+      "name": "tempo",
+      "url": "https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
         "name": "Bling Bling",
         "url": "https://open.spotify.com/album/7FUJDqWr0PvHJyIJeCsswA"
       },
@@ -563,30 +587,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "tempo",
-        "url": "https://open.spotify.com/album/3T77zsspapRdhGH9FXf4A7"
-      },
-      "artists": [
-        {
-          "name": "Sampagne",
-          "url": "https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS"
-        },
-        {
-          "name": "badchieff",
-          "url": "https://open.spotify.com/artist/6GoNVmYCl0yUm4pEp80vn6"
-        },
-        {
-          "name": "CRO",
-          "url": "https://open.spotify.com/artist/3utZ2yeQk0Z3BCOBWP7Vlu"
-        }
-      ],
-      "duration_ms": 164745,
-      "name": "tempo",
-      "url": "https://open.spotify.com/track/2sTXJinZQxl58tFCTYtEqa"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Keine Homies",
         "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
       },
@@ -623,26 +623,6 @@
       "duration_ms": 162899,
       "name": "Endlich Normale Tr\u00e4ume",
       "url": "https://open.spotify.com/track/5tI29X3CK0J4qF65vLORQq"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
-        "name": "Gl\u00fcck",
-        "url": "https://open.spotify.com/album/4Mgv8693VB0RY2REV6jnOO"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        },
-        {
-          "name": "Sido",
-          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
-        }
-      ],
-      "duration_ms": 164985,
-      "name": "Gl\u00fcck",
-      "url": "https://open.spotify.com/track/7j1OD1NADcP0m05LpZvBrl"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -699,6 +679,26 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
+        "name": "Gl\u00fcck",
+        "url": "https://open.spotify.com/album/4Mgv8693VB0RY2REV6jnOO"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        },
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "duration_ms": 164985,
+      "name": "Gl\u00fcck",
+      "url": "https://open.spotify.com/track/7j1OD1NADcP0m05LpZvBrl"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
         "name": "Marbella",
         "url": "https://open.spotify.com/album/1TBOrXCDn26WX5L5xy0VDt"
       },
@@ -731,22 +731,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Verlieb dich nicht",
-        "url": "https://open.spotify.com/album/4PlAMPAytlCPFflTVvpud2"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 112736,
-      "name": "Verlieb dich nicht",
-      "url": "https://open.spotify.com/track/17JghsEEdoSepywa7aMBAb"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "21 Gramm",
         "url": "https://open.spotify.com/album/0xRRqJIhWIU0WASStddsWK"
       },
@@ -775,6 +759,22 @@
       "duration_ms": 180000,
       "name": "Ruf mich an",
       "url": "https://open.spotify.com/track/2irNEyuG8VTKYnPkWcGgzi"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "Verlieb dich nicht",
+        "url": "https://open.spotify.com/album/4PlAMPAytlCPFflTVvpud2"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 112736,
+      "name": "Verlieb dich nicht",
+      "url": "https://open.spotify.com/track/17JghsEEdoSepywa7aMBAb"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Apricot",
-        "url": "https://open.spotify.com/album/2SS8VcNhHmKrJM5whJJHCO"
-      },
-      "artists": [
-        {
-          "name": "CIVO",
-          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
-        }
-      ],
-      "duration_ms": 124800,
-      "name": "Apricot",
-      "url": "https://open.spotify.com/track/2eMzjLapKMzslpcbQHbu9r"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "MOST VALUABLE PLAYA",
         "url": "https://open.spotify.com/album/0zgrSUOZl6OdK4pwGBrY8v"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 140235,
       "name": "Rollercoaster",
       "url": "https://open.spotify.com/track/3RQcXNKroMZRYfePxAKGkz"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "Apricot",
+        "url": "https://open.spotify.com/album/2SS8VcNhHmKrJM5whJJHCO"
+      },
+      "artists": [
+        {
+          "name": "CIVO",
+          "url": "https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8"
+        }
+      ],
+      "duration_ms": 124800,
+      "name": "Apricot",
+      "url": "https://open.spotify.com/track/2eMzjLapKMzslpcbQHbu9r"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "work life balance",
-        "url": "https://open.spotify.com/album/20NecpMT468TQi84dtSMYM"
-      },
-      "artists": [
-        {
-          "name": "Boondawg",
-          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
-        }
-      ],
-      "duration_ms": 147925,
-      "name": "work life balance",
-      "url": "https://open.spotify.com/track/0wjnOT3bQwMD752qIAn2W5"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Alle Risse heilen",
         "url": "https://open.spotify.com/album/6R9KVt9WZlG4GogbmYShTk"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 150640,
       "name": "Alle Risse heilen",
       "url": "https://open.spotify.com/track/3Q3Infgim4rgSUslJojSED"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "work life balance",
+        "url": "https://open.spotify.com/album/20NecpMT468TQi84dtSMYM"
+      },
+      "artists": [
+        {
+          "name": "Boondawg",
+          "url": "https://open.spotify.com/artist/46RrxZVxLkgEbraenPAmbz"
+        }
+      ],
+      "duration_ms": 147925,
+      "name": "work life balance",
+      "url": "https://open.spotify.com/track/0wjnOT3bQwMD752qIAn2W5"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Sch\u00f6n, dass du da warst",
-        "url": "https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30"
-      },
-      "artists": [
-        {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
-        }
-      ],
-      "duration_ms": 167847,
-      "name": "Sch\u00f6n, dass du da warst",
-      "url": "https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Art Attack",
         "url": "https://open.spotify.com/album/3XbLYuBgtW5613hoxoOPUi"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 166896,
       "name": "Art Attack",
       "url": "https://open.spotify.com/track/5BlflGhvAxyr8dC8eoJ97Y"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "Sch\u00f6n, dass du da warst",
+        "url": "https://open.spotify.com/album/2CvzWoK3kqqymwMHNL6A30"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "duration_ms": 167847,
+      "name": "Sch\u00f6n, dass du da warst",
+      "url": "https://open.spotify.com/track/4VeJoK6YHCecZTsJS1clMq"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Ich lieb mich, ich lieb mich nicht",
-        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
-      },
-      "artists": [
-        {
-          "name": "Nina Chuba",
-          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
-        }
-      ],
-      "duration_ms": 123818,
-      "name": "Malediven",
-      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Liebe ist ein Dieb",
         "url": "https://open.spotify.com/album/0YF2mwA3MHC6McbmPCIhxW"
       },
@@ -1167,22 +1151,18 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Fahrt ins Blaue",
-        "url": "https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1"
+        "name": "Ich lieb mich, ich lieb mich nicht",
+        "url": "https://open.spotify.com/album/5gi65SySOtiSeEmMMvr2xf"
       },
       "artists": [
         {
-          "name": "Chapo102",
-          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
-        },
-        {
-          "name": "102 Boyz",
-          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+          "name": "Nina Chuba",
+          "url": "https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5"
         }
       ],
-      "duration_ms": 172023,
-      "name": "F\u00fcr immer",
-      "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
+      "duration_ms": 123818,
+      "name": "Malediven",
+      "url": "https://open.spotify.com/track/5WBTdhkXW8REDxEERqtUOY"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1207,6 +1187,26 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
+        "name": "Fahrt ins Blaue",
+        "url": "https://open.spotify.com/album/2XxZIwmuF0vBZr1pJBDey1"
+      },
+      "artists": [
+        {
+          "name": "Chapo102",
+          "url": "https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr"
+        },
+        {
+          "name": "102 Boyz",
+          "url": "https://open.spotify.com/artist/78TTCmh2koperK5NBn7DgR"
+        }
+      ],
+      "duration_ms": 172023,
+      "name": "F\u00fcr immer",
+      "url": "https://open.spotify.com/track/5GHiHUrlsLfE6EM7N0LkPI"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
         "name": "Bitte sei vorsichtig",
         "url": "https://open.spotify.com/album/2kTU5wPrLFTHoVP7Q1zP0C"
       },
@@ -1219,6 +1219,22 @@
       "duration_ms": 156786,
       "name": "Bitte sei vorsichtig",
       "url": "https://open.spotify.com/track/20B2I2t11yceg5v6CSdF2C"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "LIDSCHATTEN",
+        "url": "https://open.spotify.com/album/08oKnVAQR676illfZgpYW0"
+      },
+      "artists": [
+        {
+          "name": "Cave",
+          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "LIDSCHATTEN",
+      "url": "https://open.spotify.com/track/5JQBSO3RsHgGeViD9skxgu"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1239,22 +1255,6 @@
       "duration_ms": 135600,
       "name": "glaub dir nicht",
       "url": "https://open.spotify.com/track/0Px456UcSYPzNpL2R0uzwN"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
-        "name": "LIDSCHATTEN",
-        "url": "https://open.spotify.com/album/08oKnVAQR676illfZgpYW0"
-      },
-      "artists": [
-        {
-          "name": "Cave",
-          "url": "https://open.spotify.com/artist/2LAMcjEMXfL8mWohcAkCF9"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "LIDSCHATTEN",
-      "url": "https://open.spotify.com/track/5JQBSO3RsHgGeViD9skxgu"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1299,26 +1299,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Wenn der Himmel weint",
-        "url": "https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ"
-      },
-      "artists": [
-        {
-          "name": "Bausa",
-          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
-        },
-        {
-          "name": "Jazeek",
-          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
-        }
-      ],
-      "duration_ms": 128641,
-      "name": "Wenn der Himmel weint",
-      "url": "https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "kleine Feuer",
         "url": "https://open.spotify.com/album/672lt6au46TYlrsYLLvTTa"
       },
@@ -1335,6 +1315,26 @@
       "duration_ms": 154733,
       "name": "Atlantis",
       "url": "https://open.spotify.com/track/7HF2ixqp47pB4FcCSXkHP4"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "Wenn der Himmel weint",
+        "url": "https://open.spotify.com/album/32JXAbcmBvvZRJSCSsKQwJ"
+      },
+      "artists": [
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        },
+        {
+          "name": "Jazeek",
+          "url": "https://open.spotify.com/artist/1E8mXBWN7AXZCOPYbOky4J"
+        }
+      ],
+      "duration_ms": 128641,
+      "name": "Wenn der Himmel weint",
+      "url": "https://open.spotify.com/track/6yT1Qf1EKbUfiROeOWtzeN"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1491,6 +1491,34 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
+        "name": "NICHT PERFEKT",
+        "url": "https://open.spotify.com/album/2iSwZs9gVVvnEo9ms2EqH8"
+      },
+      "artists": [
+        {
+          "name": "vic",
+          "url": "https://open.spotify.com/artist/7xW9cSIhYijWTuF24sEEpY"
+        },
+        {
+          "name": "Matterz",
+          "url": "https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP"
+        },
+        {
+          "name": "ducato",
+          "url": "https://open.spotify.com/artist/0PY9cP8eveg8ZVb0swkdDK"
+        },
+        {
+          "name": "enna",
+          "url": "https://open.spotify.com/artist/4R48ihvFPxEHrlox6sxtvC"
+        }
+      ],
+      "duration_ms": 147895,
+      "name": "NICHT PERFEKT",
+      "url": "https://open.spotify.com/track/6vDOXReG8oIfhsrdKT6eQN"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
         "name": "Was du nicht siehst (feat. ela.)",
         "url": "https://open.spotify.com/album/38Zz6O369v6562TJTnnEv8"
       },
@@ -1507,22 +1535,6 @@
       "duration_ms": 151704,
       "name": "Was du nicht siehst (feat. ela.)",
       "url": "https://open.spotify.com/track/76j4GsRzhvUVfucELTpiS2"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
-        "name": "Du f\u00fchlst genauso",
-        "url": "https://open.spotify.com/album/1KQ1QphaXts0aLrp0Okj8J"
-      },
-      "artists": [
-        {
-          "name": "Morpheuz",
-          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
-        }
-      ],
-      "duration_ms": 175500,
-      "name": "Du f\u00fchlst genauso",
-      "url": "https://open.spotify.com/track/0NGXJiKkVxW5ZZxeSHjDpl"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1555,30 +1567,18 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "NICHT PERFEKT",
-        "url": "https://open.spotify.com/album/2iSwZs9gVVvnEo9ms2EqH8"
+        "name": "Du f\u00fchlst genauso",
+        "url": "https://open.spotify.com/album/1KQ1QphaXts0aLrp0Okj8J"
       },
       "artists": [
         {
-          "name": "vic",
-          "url": "https://open.spotify.com/artist/7xW9cSIhYijWTuF24sEEpY"
-        },
-        {
-          "name": "Matterz",
-          "url": "https://open.spotify.com/artist/1y4sg1ayAaE5pCGeOvqhLP"
-        },
-        {
-          "name": "ducato",
-          "url": "https://open.spotify.com/artist/0PY9cP8eveg8ZVb0swkdDK"
-        },
-        {
-          "name": "enna",
-          "url": "https://open.spotify.com/artist/4R48ihvFPxEHrlox6sxtvC"
+          "name": "Morpheuz",
+          "url": "https://open.spotify.com/artist/6mFNhGWIA0SYoGMFXi2cgf"
         }
       ],
-      "duration_ms": 147895,
-      "name": "NICHT PERFEKT",
-      "url": "https://open.spotify.com/track/6vDOXReG8oIfhsrdKT6eQN"
+      "duration_ms": 175500,
+      "name": "Du f\u00fchlst genauso",
+      "url": "https://open.spotify.com/track/0NGXJiKkVxW5ZZxeSHjDpl"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1607,26 +1607,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "King",
-        "url": "https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1"
-      },
-      "artists": [
-        {
-          "name": "Kool Savas",
-          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
-        },
-        {
-          "name": "Alice Stark",
-          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
-        }
-      ],
-      "duration_ms": 169842,
-      "name": "King",
-      "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Regentage",
         "url": "https://open.spotify.com/album/0PFt6WX6A7W0MIJsBtK0b0"
       },
@@ -1643,6 +1623,26 @@
       "duration_ms": 178217,
       "name": "Regentage",
       "url": "https://open.spotify.com/track/2wsshURx5YlfXcUpJETi5T"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "King",
+        "url": "https://open.spotify.com/album/6DTa2fvtiupcS2fBzPfpo1"
+      },
+      "artists": [
+        {
+          "name": "Kool Savas",
+          "url": "https://open.spotify.com/artist/1SUu1Bi7ev9HbOzyVC77qD"
+        },
+        {
+          "name": "Alice Stark",
+          "url": "https://open.spotify.com/artist/6012kczHExxqLw3N9xnEZ4"
+        }
+      ],
+      "duration_ms": 169842,
+      "name": "King",
+      "url": "https://open.spotify.com/track/3N0KdzIP3kDCm4SPSIl7CT"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1691,22 +1691,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "Dieses eine Lied",
-        "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
-      },
-      "artists": [
-        {
-          "name": "Jassin",
-          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
-        }
-      ],
-      "duration_ms": 142502,
-      "name": "Dieses eine Lied",
-      "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Sterne (feat. Bozza)",
         "url": "https://open.spotify.com/album/2bpBB75sl2fOqUKUUuPGe1"
       },
@@ -1723,6 +1707,22 @@
       "duration_ms": 236056,
       "name": "Sterne (feat. Bozza)",
       "url": "https://open.spotify.com/track/3WnBW96ByuZLYGUlAPtqUG"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "Dieses eine Lied",
+        "url": "https://open.spotify.com/album/3DaMy2PmEpWtfry9aFsg2r"
+      },
+      "artists": [
+        {
+          "name": "Jassin",
+          "url": "https://open.spotify.com/artist/2hRKaY76bYHW5uCvHqbeMh"
+        }
+      ],
+      "duration_ms": 142502,
+      "name": "Dieses eine Lied",
+      "url": "https://open.spotify.com/track/4eqjuxCylVKJykllp83972"
     },
     {
       "added_at": "2026-09-14 09:21:00",
@@ -1763,26 +1763,6 @@
     {
       "added_at": "2026-09-14 09:21:00",
       "album": {
-        "name": "TIEFPUNKT",
-        "url": "https://open.spotify.com/album/5ePq52Y4bcPnNpe0P3j5RM"
-      },
-      "artists": [
-        {
-          "name": "HoodBlaq",
-          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
-        },
-        {
-          "name": "Kontra K",
-          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "TIEFPUNKT",
-      "url": "https://open.spotify.com/track/58O70zSrgckp8Kli3kSqXn"
-    },
-    {
-      "added_at": "2026-09-14 09:21:00",
-      "album": {
         "name": "Wer liebt dich jetzt ?",
         "url": "https://open.spotify.com/album/1m7MCqOuh9Xf9SCrmRIXPp"
       },
@@ -1799,6 +1779,26 @@
       "duration_ms": 163831,
       "name": "Wer liebt dich jetzt ?",
       "url": "https://open.spotify.com/track/6CRKyj9tYGcZHt5lxuc1hT"
+    },
+    {
+      "added_at": "2026-09-14 09:21:00",
+      "album": {
+        "name": "TIEFPUNKT",
+        "url": "https://open.spotify.com/album/5ePq52Y4bcPnNpe0P3j5RM"
+      },
+      "artists": [
+        {
+          "name": "HoodBlaq",
+          "url": "https://open.spotify.com/artist/1Wic7dyEeEpQXDBbDf6HKm"
+        },
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "TIEFPUNKT",
+      "url": "https://open.spotify.com/track/58O70zSrgckp8Kli3kSqXn"
     },
     {
       "added_at": "2026-09-14 09:21:00",

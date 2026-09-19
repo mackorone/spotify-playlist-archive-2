@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 
 > Cele mai de succes 50 de hituri în România\. Cover: Grasu XXL
 
-[Spotify](https://open.spotify.com/user/spotify) - 128,134 likes - 50 songs - 2 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 128,142 likes - 50 songs - 2 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9BPHmsKo7pf.md) - [plain]
 | 49 | [CAND VINE NOAPTEA](https://open.spotify.com/track/6yCcirPq6fJkF1fUlBNvgY) | [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [CAND VINE NOAPTEA](https://open.spotify.com/album/7iKCZwND2QWSLmztc5MeJN) | 2:28 |
 | 50 | [Damelo](https://open.spotify.com/track/37h8o6hEV5jdmiNpZkFxRF) | [Tzanca Uraganu](https://open.spotify.com/artist/5h0wBmd25qPcGSInl3dp66), [Mr\. Juve](https://open.spotify.com/artist/3Mpgf08uPOZUYMnFDRSRV8) | [Damelo](https://open.spotify.com/album/4wauIktNjjNpMduE5M4wuW) | 2:37 |
 
-Snapshot ID: `AAAAAOy5RPAc4U/iXclc3yAxHDoPGnDn`
+Snapshot ID: `AAAAAKn4y2EeAFT8KZyeAKxSHyb+wB+x`

@@ -131,6 +131,24 @@
     },
     {
       "album": {
+        "name": "About A House",
+        "url": "https://open.spotify.com/album/5jRQSsPgR0dQSUMNuccSWM"
+      },
+      "artists": [
+        {
+          "name": "Curiosity Shop",
+          "url": "https://open.spotify.com/artist/1T0VltNs70p1wi7Tgh2rTy"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204745,
+      "name": "About A House",
+      "url": "https://open.spotify.com/track/380cfvRBQfkqcc4RGnFCAh"
+    },
+    {
+      "album": {
         "name": "Absolutely",
         "url": "https://open.spotify.com/album/2lOIFb6xgtMIYmBNxUZ4be"
       },
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 198146,
       "name": "Fireworks",
       "url": "https://open.spotify.com/track/0Dpe1m77tBKkEvxaHvStsD"
@@ -2274,6 +2292,24 @@
       "duration_ms": 196359,
       "name": "Forget About Us",
       "url": "https://open.spotify.com/track/5jvwQYcagkSTkpMkZlk9cC"
+    },
+    {
+      "album": {
+        "name": "Freak Show",
+        "url": "https://open.spotify.com/album/76zpAZRPGwWpRY0woAwyeL"
+      },
+      "artists": [
+        {
+          "name": "Marfa",
+          "url": "https://open.spotify.com/artist/0qQCr8kpPnhZHnnHoVtErD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188608,
+      "name": "Freak Show",
+      "url": "https://open.spotify.com/track/2fbovbRpIcLRuLoQ0IEY0i"
     },
     {
       "album": {
@@ -3248,7 +3284,7 @@
       ],
       "date_added": "2024-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 293037,
       "name": "Honey",
       "url": "https://open.spotify.com/track/0SSUhVaTjx4qCM7hF2qzaB"
@@ -4912,7 +4948,7 @@
       ],
       "date_added": "2021-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 204946,
       "name": "Modern Woman",
       "url": "https://open.spotify.com/track/5ZaSoSM8VR7OUiYyEKBmL9"
@@ -5908,6 +5944,24 @@
       "duration_ms": 196085,
       "name": "Regret Me",
       "url": "https://open.spotify.com/track/5a8U9oin9Xh6kM5B2EsONK"
+    },
+    {
+      "album": {
+        "name": "remember this",
+        "url": "https://open.spotify.com/album/76oZ5D27X0GfWgEeRkwTdY"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "remember this",
+      "url": "https://open.spotify.com/track/2Ky36Q51BjoAwuCD1ukpUo"
     },
     {
       "album": {

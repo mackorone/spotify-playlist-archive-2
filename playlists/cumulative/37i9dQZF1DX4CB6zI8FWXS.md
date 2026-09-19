@@ -4,7 +4,7 @@
 
 > R&Bの最新話題曲をまとめてお届けします。cover: 3House
 
-1,466 songs - 3 day 7 hr 41 min
+1,467 songs - 3 day 7 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -443,6 +443,7 @@
 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-06-06 | 2024-08-02 |
 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2024-08-09 | 2024-11-15 |
 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-16 | 2024-02-09 |
+| [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 | 2026-09-17 |  |
 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-12 | 2026-05-08 |
 | [Get It Till I'm Gone \(Remix\) \[feat\. Chy Cartier\]](https://open.spotify.com/track/0Zo4r5wybn7I785RLkN9ok) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [Chy Cartier](https://open.spotify.com/artist/4qxFzMJxrNzlv11J7pCY5q) | [Get It Till I'm Gone \(Remix\) \[feat\. Chy Cartier\]](https://open.spotify.com/album/624eRyp06IxIdNGvjxc0Ug) | 3:45 | 2025-03-20 | 2025-06-07 |
 | [Get Out Of Your Hair \(feat\. Sunni Colón\)](https://open.spotify.com/track/0R6uge6tjTqDc1sb9OdHrc) | [Peyton](https://open.spotify.com/artist/0uIVCKSl2eNhWQ1yXxO5xV), [Shafiq Husayn](https://open.spotify.com/artist/0XzVyZOZF7FIsQ7VbBZ9Yy), [Sunni Colón](https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2) | [Au](https://open.spotify.com/album/2ddqwkTKxHVWweH5t1y1Ll) | 3:06 | 2025-09-11 | 2025-11-08 |

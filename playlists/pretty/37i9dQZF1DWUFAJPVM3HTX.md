@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X?si=f7e145f77b3548ed">LAYA</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,041 likes - 105 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,129 likes - 105 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -114,4 +114,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 | 104 | [F.O.O.L](https://open.spotify.com/track/4nphN02N23z4bYvDlLbAYC) | [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Deposit](https://open.spotify.com/album/6Q3hvYLQBNK5vsq2ZXFjBU) | 2:22 |
 | 105 | [Tricks Are For Kids](https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids](https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO) | 2:20 |
 
-Snapshot ID: `AAAAAL8LwpKTuxUhdtiWyqUjAJIAIySu`
+Snapshot ID: `AAAAAOxpNUt761NHAIQ9e60qQ49oueWO`

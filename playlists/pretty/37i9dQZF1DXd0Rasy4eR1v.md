@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 
 > Editor's picks of freshest Pakistani discoveries you need to listen to\. Cover: MALIK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,045 likes - 95 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,064 likes - 95 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 9 | [Khayaal](https://open.spotify.com/track/772wevNT7Kft3Bn7iBEuOK) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Daud Raheel](https://open.spotify.com/artist/6NPzI9FlO53oaQmk6Yn2SG), [Jibran Raheel](https://open.spotify.com/artist/5Ziai02jpq91fjNgV6mF9k) | [Khayaal](https://open.spotify.com/album/0VXSJsAas10oeP2HUNefXT) | 2:35 |
 | 10 | [tuu](https://open.spotify.com/track/72SinU5HNrqxakGLztrp68) | [Bilal Khalid](https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf), [Ittehad Band](https://open.spotify.com/artist/0Kyzc9LMJjZeLOBvyBsfid), [Seventean](https://open.spotify.com/artist/1KbWZUNoYa35zBcd7LjbRd) | [tuu](https://open.spotify.com/album/7wwWATJfGkWErCMaWXk4ns) | 2:32 |
 | 11 | [Teray Rang](https://open.spotify.com/track/4juZ9fZmQ01oqUOzJO7nJd) | [Shamikh](https://open.spotify.com/artist/5OX1k6sfpyVSusR3Ur0tHH), [Amaizy](https://open.spotify.com/artist/0QozOd13aqX9kGziUWKzSK) | [Teray Rang](https://open.spotify.com/album/1ts7vh1udrOFaQAbQrs9gf) | 3:07 |
-| 12 | [Bedardi Ishq](https://open.spotify.com/track/2w8ODO7SulehbpTniL3Xkl) | [Ritik Sharma](https://open.spotify.com/artist/1SuZ3nXBxnLqscv7N6EIpU), [Musawir Khan](https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH) | [Bedardi Ishq](https://open.spotify.com/album/5ZB5DbnZ2Xqkv2IIIVVYwA) | 3:21 |
+| 12 | [Bedardi Ishq](https://open.spotify.com/track/2w8ODO7SulehbpTniL3Xkl) | [Ritik Sharma](https://open.spotify.com/artist/2NjvSekTiu1z12VH8k85xC), [Musawir Khan](https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH) | [Bedardi Ishq](https://open.spotify.com/album/5ZB5DbnZ2Xqkv2IIIVVYwA) | 3:21 |
 | 13 | [Long Distance](https://open.spotify.com/track/0sttDdYGdLrIX11ck52XV1) | [Ahmad Shahid](https://open.spotify.com/artist/0kBRzwcYR9asMYPmLBaFea), [Seabay](https://open.spotify.com/artist/1yJpfVUGvriQ6r2qEEzUnF) | [Long Distance](https://open.spotify.com/album/2bheGvVF2r0l8i0o3YhXnk) | 2:38 |
 | 14 | [Pyaar DI Gal](https://open.spotify.com/track/2E9kl1vHjHrKWxl5l4LSoK) | [Ezio](https://open.spotify.com/artist/62CF5EoeOLRByAlX3Z2axx), [Ramzan Jani](https://open.spotify.com/artist/7m3ldTvNh0FdYnXKJhIRd2), [Sajal Fatima](https://open.spotify.com/artist/5WwTfNpqMYoJSST5LmiuR2) | [Pyaar Di Gal](https://open.spotify.com/album/72krKMt8bXGZzUVkwyPuf0) | 3:16 |
 | 15 | [guftugu \(feat\. MALIK.\)](https://open.spotify.com/track/3tmPuETgYIyhs4pF2mMjus) | [Maliha J\. Khan](https://open.spotify.com/artist/63RTNEI59osbMZHgd9FUTl), [The Initials](https://open.spotify.com/artist/4P1V3cE0rFe7eYM9hDQ8qP), [Shameer](https://open.spotify.com/artist/2YOWil5rDregv3GVz4BFwi), [MALIK.](https://open.spotify.com/artist/59XndZp96nBhBPqw7fJwuO) | [guftugu \(feat\. MALIK.\)](https://open.spotify.com/album/4w2H9tTyrFwKcmrPcLO5ym) | 3:40 |
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0Rasy4eR1v.md) - [plain]
 | 94 | [Bhool Gaya](https://open.spotify.com/track/3GfPzRWJWyJZbl25NaatiW) | [izhaar Ali](https://open.spotify.com/artist/3Q2R81iiDAi2VKmbYvjpol) | [Bhool Gaya](https://open.spotify.com/album/0iL1P0t5Rth9zRWpB7VWy0) | 4:06 |
 | 95 | [Chune Ishq'en](https://open.spotify.com/track/4PeNxF94ppeUKQDkGtXRul) | [SAZGIR](https://open.spotify.com/artist/2oAG6MjavkOWhvC97uf212) | [Chune Ishq'en](https://open.spotify.com/album/1sU8WNSFTrE8hfgxtSFACP) | 3:23 |
 
-Snapshot ID: `AAAAAKEvCrnqi/U4A8SJuvlEjsaSayFQ`
+Snapshot ID: `AAAAALx2FOL6X/q9oGqsZZ1F+WnUPmiS`

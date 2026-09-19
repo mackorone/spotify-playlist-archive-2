@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-26",
-  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Mahalini",
+  "description": "Kumpulan lagu yang sedang menyebar luas. Cover: Nabila Taqiyyah",
   "name": "Lagi Viral",
   "tracks": [
     {
@@ -840,7 +840,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 257452,
       "name": "Ada Untukmu",
       "url": "https://open.spotify.com/track/0mG2Sq4PnmHGSMLay75bDw"
@@ -1222,7 +1222,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 232000,
       "name": "Aku Harus Pergi",
       "url": "https://open.spotify.com/track/33HagC36ZDbYVqoc9ud6vm"
@@ -1374,7 +1374,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 210447,
       "name": "All I Need To Hear",
       "url": "https://open.spotify.com/track/5WdMBJD7V5CVBTBdE2at2D"
@@ -3312,7 +3312,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 216877,
       "name": "berlin",
       "url": "https://open.spotify.com/track/716EFADuhOuYUCLRltcwnC"
@@ -4636,7 +4636,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 285428,
       "name": "BUNGA TAK BERWARNA",
       "url": "https://open.spotify.com/track/1KreXOMHdAIQTmbeGRX0sw"
@@ -5976,6 +5976,24 @@
       "duration_ms": 225864,
       "name": "Cosmic",
       "url": "https://open.spotify.com/track/3pDGJRDN3p6kCNZcD97FYY"
+    },
+    {
+      "album": {
+        "name": "Cowgirl",
+        "url": "https://open.spotify.com/album/2clPCGSsH7P7UkBzTVy2bR"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175763,
+      "name": "Cowgirl",
+      "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
     },
     {
       "album": {
@@ -7324,6 +7342,24 @@
       "duration_ms": 194776,
       "name": "Dimana Malumu",
       "url": "https://open.spotify.com/track/1iLKca5Z73d4ABK7cmF4Dw"
+    },
+    {
+      "album": {
+        "name": "Dinda",
+        "url": "https://open.spotify.com/album/3UR1sVs8XaD9mfeFZLGfTj"
+      },
+      "artists": [
+        {
+          "name": "MASDO",
+          "url": "https://open.spotify.com/artist/2r1WoyhX1FSc7AmcF8rkoO"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211544,
+      "name": "Dinda",
+      "url": "https://open.spotify.com/track/0YxZwR2nJViImRcbNpDQDj"
     },
     {
       "album": {
@@ -10290,7 +10326,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 190762,
       "name": "Gurun Hujan",
       "url": "https://open.spotify.com/track/4czYdbSTG4j5mlsgS6VWn7"
@@ -10634,7 +10670,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 204343,
       "name": "Hatchu!!",
       "url": "https://open.spotify.com/track/2Xrakgck64eK7BebSfiWsp"
@@ -13931,6 +13967,28 @@
     },
     {
       "album": {
+        "name": "For You",
+        "url": "https://open.spotify.com/album/5PXJbCIr2BoUHJq5FIDpMd"
+      },
+      "artists": [
+        {
+          "name": "Fatin",
+          "url": "https://open.spotify.com/artist/4HeEXMr62GWTKpnqEiFOkC"
+        },
+        {
+          "name": "Mikha Angelo",
+          "url": "https://open.spotify.com/artist/1TsPGD8cCf3JaSGrC7sLkf"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218693,
+      "name": "Kaulah Kamuku (feat. Mikha Angelo)",
+      "url": "https://open.spotify.com/track/1dkSwb8vT0kNj1Tgn8WQ9q"
+    },
+    {
+      "album": {
         "name": "Kawanen Saur",
         "url": "https://open.spotify.com/album/3h19n32YsqZJb4XjWCDH7U"
       },
@@ -14496,7 +14554,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 249920,
       "name": "Kita Buat Menyenangkan",
       "url": "https://open.spotify.com/track/4J9DouSADdyakPD9h6oD6N"
@@ -14952,7 +15010,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 324083,
       "name": "Lalu Biru",
       "url": "https://open.spotify.com/track/3iC60wudai0qrFnkFUDHSs"
@@ -15046,6 +15104,24 @@
       "duration_ms": 208229,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/3X3mfRMRaPJRiIMDMQtSkd"
+    },
+    {
+      "album": {
+        "name": "Langit Merah Muda (Original Soundtrack from 'Agensi Rumah Tangga')",
+        "url": "https://open.spotify.com/album/5oEY7qOdeJPvB02EwK4Jvp"
+      },
+      "artists": [
+        {
+          "name": "Afgan",
+          "url": "https://open.spotify.com/artist/4cgBCGxtlfap2g6jveB7du"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200487,
+      "name": "Langit Merah Muda - Original Soundtrack from 'Agensi Rumah Tangga'",
+      "url": "https://open.spotify.com/track/2INmDiSugzBjib2TWP7Odd"
     },
     {
       "album": {
@@ -16442,7 +16518,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 218106,
       "name": "Maafkan",
       "url": "https://open.spotify.com/track/2zZZQM87GupPuk78UofvFr"
@@ -19090,7 +19166,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 227853,
       "name": "Never Say Never",
       "url": "https://open.spotify.com/track/5GYbkDveRD2I8M5ZJ14hWn"
@@ -19974,6 +20050,24 @@
       "duration_ms": 358646,
       "name": "Obati Rinduku",
       "url": "https://open.spotify.com/track/6BJ5LJafJYwe3i8wqY4Js6"
+    },
+    {
+      "album": {
+        "name": "Do That Again",
+        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219427,
+      "name": "Obsessica",
+      "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
     },
     {
       "album": {
@@ -20916,7 +21010,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 170673,
       "name": "Pelarian",
       "url": "https://open.spotify.com/track/3UqvqIAj7mfd8pBBnxJWhb"
@@ -22146,7 +22240,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 175176,
       "name": "Rabun Jauh",
       "url": "https://open.spotify.com/track/670sqeIKIxTu0DweRjnjKt"
@@ -22244,7 +22338,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 219743,
       "name": "Raindance (feat. Tems)",
       "url": "https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz"
@@ -23424,6 +23518,24 @@
       "duration_ms": 227160,
       "name": "Sakit Hati",
       "url": "https://open.spotify.com/track/3ogHZ8gDoMsTwVKSiFr37x"
+    },
+    {
+      "album": {
+        "name": "Yang Terpilih",
+        "url": "https://open.spotify.com/album/6DnionTgS03ZnmfYTNmI35"
+      },
+      "artists": [
+        {
+          "name": "Rossa",
+          "url": "https://open.spotify.com/artist/0ygQsC5td2maGmglpzd7tp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227133,
+      "name": "Sakura",
+      "url": "https://open.spotify.com/track/44OTsyBeuZyYOQlyO9NfZW"
     },
     {
       "album": {
@@ -27365,6 +27477,24 @@
     },
     {
       "album": {
+        "name": "Tak Semudah Hompimpa",
+        "url": "https://open.spotify.com/album/7MVHYuCr4lIJ1MaU944tdb"
+      },
+      "artists": [
+        {
+          "name": "Nabila Taqiyyah",
+          "url": "https://open.spotify.com/artist/0sLoVTeBT6akDY7ecDxKYe"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204520,
+      "name": "Tak Semudah Hompimpa",
+      "url": "https://open.spotify.com/track/0Q82xVk3e34a6InV5sQHeQ"
+    },
+    {
+      "album": {
         "name": "Takbir Terdengar Kejam",
         "url": "https://open.spotify.com/album/5eWIvRYmwWeZ8mS5qC6Qt8"
       },
@@ -28522,7 +28652,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 232720,
       "name": "That Should Be Me",
       "url": "https://open.spotify.com/track/0aPZbnkMoWJaJ5CNVLCj8S"
@@ -28540,7 +28670,7 @@
       ],
       "date_added": "2023-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 283311,
       "name": "That Somebody",
       "url": "https://open.spotify.com/track/0rmhhawrhWNqqZprQTGWWz"
@@ -29299,6 +29429,24 @@
     },
     {
       "album": {
+        "name": "The Very Best of Celine Dion",
+        "url": "https://open.spotify.com/album/51DfHvunyUysUZoBJEwbF8"
+      },
+      "artists": [
+        {
+          "name": "C\u00e9line Dion",
+          "url": "https://open.spotify.com/artist/4S9EykWXhStSc15wEx8QFK"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279360,
+      "name": "To Love You More - Radio Edit",
+      "url": "https://open.spotify.com/track/0UEqov6I69uqwBG6J2wMwC"
+    },
+    {
+      "album": {
         "name": "To the Infinity Castle - Muzan vs Hashira Theme (from \"Demon Slayer\") [Cover]",
         "url": "https://open.spotify.com/album/4zF4VFhYsHjqhsBdZsnrFf"
       },
@@ -29849,6 +29997,24 @@
     },
     {
       "album": {
+        "name": "Kisah Klasik Untuk Masa Depan",
+        "url": "https://open.spotify.com/album/4bPUtZdWsvU1eTPmJFuvwm"
+      },
+      "artists": [
+        {
+          "name": "Sheila On 7",
+          "url": "https://open.spotify.com/artist/6q87vizIEdEN4NvlR6mjfT"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 307280,
+      "name": "Tunggu Aku Di Jakarta",
+      "url": "https://open.spotify.com/track/0Z0K5nZGqw8WuV4WOLxVnR"
+    },
+    {
+      "album": {
         "name": "Tunggu Apa Lagi",
         "url": "https://open.spotify.com/album/0CzgGlTF8B68pXxcZhTjm5"
       },
@@ -30040,7 +30206,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 240633,
       "name": "Untuk Apa",
       "url": "https://open.spotify.com/track/3Uozk5ZZ9aC3oSVmGrYFaN"
@@ -30728,7 +30894,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 186577,
       "name": "What if I miss you for the rest of my life?",
       "url": "https://open.spotify.com/track/432pM7gIHQmksVaU3B50pN"

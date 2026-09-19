@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 
 > tutte le migliori novità indie 🇮🇹  Willie Peyote in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,905 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,917 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6O5gXioqvYB.md) - [plain]
 | 99 | [Dia Apos Dia](https://open.spotify.com/track/2BlI8HlAds71wCi3ZL8xJp) | [TYTO](https://open.spotify.com/artist/0S59moEnRYKPvI5g5EvihU), [Giovanni Truppi](https://open.spotify.com/artist/6qSYb2AiQlXlAoa50vLx5m) | [Ora è Ora](https://open.spotify.com/album/3kJIQNs36pjPB5aFbaWEWr) | 4:42 |
 | 100 | [Niente di Speciale \- Marlene](https://open.spotify.com/track/51weS1IC207v8J6KZlEZkk) | [Evandro](https://open.spotify.com/artist/1iSp6fP7gO2Z459KZ9shFJ) | [Niente di Speciale \(Marlene\)](https://open.spotify.com/album/5vFjB4pusnn4ecey5MLlrG) | 3:45 |
 
-Snapshot ID: `AAAAAKTtm1ukOOOY8T8qTZDD6aC4Y58N`
+Snapshot ID: `AAAAAMaA5MOjxOCbc3E/CJHLzYrf82Cz`

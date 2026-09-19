@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: L.A.B.
 
-368 songs - 21 hr 8 min
+369 songs - 21 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -52,7 +52,7 @@
 | [Brown Sugar](https://open.spotify.com/track/6L2Wi1vXE5jAzFOm2iOGqn) | [lilbubblegum](https://open.spotify.com/artist/5FF8xJSW4qUVU8bk79KYLT) | [Brown Sugar](https://open.spotify.com/album/05nJE7MpNns4boJRITmpJe) | 3:09 | 2026-05-25 | 2026-09-03 |
 | [BYOD](https://open.spotify.com/track/3psmzK5er4ieYNeJ7DUiyo) | [LA WOMEN](https://open.spotify.com/artist/4FUs4dXBvexAfJDQEcBfGj) | [BYOD](https://open.spotify.com/album/7K0PrHSmkeep8lxTWt2Zet) | 3:21 | 2025-05-01 | 2025-05-09 |
 | [California](https://open.spotify.com/track/49SB6SrYqi7mswTaLQL2HO) | [Paige](https://open.spotify.com/artist/2hscsIIlxYGIUYsfarFCG7) | [Aquarian](https://open.spotify.com/album/6ScksipUR6hyt1n5dxkTue) | 2:58 | 2024-05-20 | 2024-11-08 |
-| [call me yours](https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [call me yours](https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz) | 3:24 | 2026-06-11 |  |
+| [call me yours](https://open.spotify.com/track/6pMBi9UarWDtL6aA1ADKfm) | [hanbee](https://open.spotify.com/artist/1so016J03vtcKN2mKWprQk) | [call me yours](https://open.spotify.com/album/3G59mbte7ztS4KeNPZ19Gz) | 3:24 | 2026-06-11 | 2026-09-19 |
 | [CANADA \- sped up](https://open.spotify.com/track/0y7Lcpbk4U8PQHfbpXk8dQ) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [jnhygs](https://open.spotify.com/artist/0H942IkjXv9bjx5OxoG7kh) | [CANADA \- versions](https://open.spotify.com/album/3Mc1kDzI0RPfibegrVzYhj) | 1:42 | 2024-05-20 | 2024-11-08 |
 | [Candy](https://open.spotify.com/track/3wUUjh1onb46xOaJhx6Kqe) | [RIIKI REID](https://open.spotify.com/artist/5E9EpWliOZr1yTJ8A7XSqC) | [Candy](https://open.spotify.com/album/1c8zI78vFIMEgNFqtdt1VO) | 2:51 | 2025-07-03 | 2025-09-13 |
 | [Candy's House \(Comedown Song\)](https://open.spotify.com/track/4HBQRNQTA6Wq4PgIauAWMB) | [Rita Mae](https://open.spotify.com/artist/3LLYTe7aruXdjTelVYuBZE) | [Superfeeling \(Deluxe\)](https://open.spotify.com/album/5uMEjjSH41zZbl4XpI4KDC) | 3:06 | 2024-05-20 | 2024-10-11 |
@@ -240,6 +240,7 @@
 | [Nada](https://open.spotify.com/track/0M7evS0r2rbRSt61GMH4e7) | [Olivia Foa'i](https://open.spotify.com/artist/5GIaRpKCtzquc5UUicqe50) | [Nada](https://open.spotify.com/album/405mKNtoyJhnJRB7zdUqIn) | 2:56 | 2024-05-20 | 2024-08-16 |
 | [Nadja](https://open.spotify.com/track/2AojQfi1k8pgwyg1Ii0Ly8) | [Unknown Mortal Orchestra](https://open.spotify.com/artist/1LeVJ5GPeYDOVUjxx1y7Rp) | [V](https://open.spotify.com/album/1epwNzmWdqkBQQZpTa8KJD) | 4:06 | 2024-05-20 |  |
 | [need u worse](https://open.spotify.com/track/38bwOFfc73jd1iZAUqvdCM) | [Gloria Laing](https://open.spotify.com/artist/3aO4DL5c2uBGD8EUuP7sxi) | [need u worse](https://open.spotify.com/album/1HeFAsrSjmpTd5FBSCAYwM) | 3:45 | 2025-01-09 | 2025-04-06 |
+| [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 | 2026-09-17 |  |
 | [Next Stop](https://open.spotify.com/track/1THi2wFMXol0p3lOpX9fZd) | [Fat Freddy's Drop](https://open.spotify.com/artist/32lo0J8u6KZJTwBOIBrdYS), [MC Slave](https://open.spotify.com/artist/1C5mWM86XaAjaX5fiNm5O1) | [Next Stop](https://open.spotify.com/album/6i5wh97IMqnO8A3MIo1DA9) | 6:11 | 2024-09-12 | 2024-12-13 |
 | [Night Like This](https://open.spotify.com/track/6qaRzZs9xEN9BpJ9qxmaKh) | [CHAII](https://open.spotify.com/artist/5QYfFIxVcsJtK600MxqtpF) | [Night Like This](https://open.spotify.com/album/4wI3VU8L0pgcKBFi3Xa0E3) | 2:59 | 2024-05-20 | 2024-11-08 |
 | [No Excuses](https://open.spotify.com/track/0PuxAQgCYmfLBabuVR7OlY) | [Flamingo Pier](https://open.spotify.com/artist/0gWNgpI1v73a7BEbi39wt8) | [No Excuses](https://open.spotify.com/album/7gCGb9oTHGniVU8yjXOtnf) | 3:31 | 2026-08-06 | 2026-09-18 |

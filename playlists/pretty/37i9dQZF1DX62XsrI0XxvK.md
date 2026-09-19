@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Gavendri
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,626 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,631 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 99 | [Kubuka Pintu](https://open.spotify.com/track/5PP3Qbc5yDA7zvg3MPjpQm) | [KELJO](https://open.spotify.com/artist/7Ccgqcrw1xLU7Qm5scSj0o) | [Kubuka Pintu](https://open.spotify.com/album/5IchrfWDYZmoJEaZKlUAcM) | 3:53 |
 | 100 | [Lika & Liku](https://open.spotify.com/track/7bsAM9K5gI0eTqYOqVg0tq) | [Dzulfahmi](https://open.spotify.com/artist/3e07AHzXnSbfuIBc6IHNio), [Jebung](https://open.spotify.com/artist/77t6V3aopGYc0ZhsTyRS3z) | [Lika & Liku](https://open.spotify.com/album/7lOptYZ3jVvZ0mELGJJQ6v) | 2:21 |
 
-Snapshot ID: `AAAAABYiTP1RcI70Bz1p/n66A+3A4GTH`
+Snapshot ID: `AAAAAN5zL7oWPhuVtnXbXCMQ3nmI9/bk`

@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,782 songs - 10 day 18 hr 50 min
+4,785 songs - 10 day 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2321,6 +2321,7 @@
 | [Leningrado](https://open.spotify.com/track/0NVmgOHKOC00HAAHvchH2A) | [CIGNO](https://open.spotify.com/artist/70Fvv8XwCCBE4PM0JaTsKI) | [Buonanotte Berlinguer](https://open.spotify.com/album/1tx16k5nRquLGYFqydm6Jb) | 4:09 | 2025-11-12 |  |
 | [Let Go](https://open.spotify.com/track/6WwwKLeyMnxvRo7ui87gh9) | [Scampi Chips Dip & Campari](https://open.spotify.com/artist/05mT2uMoZuw3cblKFsYzh9) | [Let Go](https://open.spotify.com/album/1vsdTGi5uycHXDNaqyHSVw) | 3:02 | 2026-03-06 |  |
 | [Let it all out](https://open.spotify.com/track/6feDqUIBfhQJWdCL0iDnfv) | [Abbracci](https://open.spotify.com/artist/1RxeLo5uBMZHEkMz9O9SPO) | [The Electric Guitar Monument](https://open.spotify.com/album/4GFENOuE6IiYQykIx8URDf) | 2:12 | 2026-02-15 |  |
+| [Let Me See The Fire](https://open.spotify.com/track/2NuKWe5H1xJSsEn3EfSXqx) | [Anyverse](https://open.spotify.com/artist/5n7wwlclR6kAlw5N74NCSg) | [Let Me See The Fire](https://open.spotify.com/album/5sqrxKoR11mfTuEley9Bhy) | 3:12 | 2026-09-18 |  |
 | [Let me try again](https://open.spotify.com/track/0xjCRP1uRfxXICjXoDmteU) | [Mannerdogs](https://open.spotify.com/artist/4YuMVFtgou6wWvx2dVEVj3) | [Let me try again](https://open.spotify.com/album/42eSRFYwg1HeSiXpVeGySr) | 3:26 | 2025-04-02 |  |
 | [Let super](https://open.spotify.com/track/2c4558q1mDpIpnuPyuM5iW) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Super pop beat](https://open.spotify.com/album/4DXyhPDVxKIv06QyLMek7z) | 2:43 | 2025-09-12 |  |
 | [Let the music take you high](https://open.spotify.com/track/4YsR4qfwZC53nintO4u8Dd) | [Raffaele Tremante](https://open.spotify.com/artist/4d8ojEqg8n52KpP8TA7hLv) | [Let the music take you high](https://open.spotify.com/album/6aSo6Hfov4ksNP5phXBcVM) | 2:59 | 2025-06-04 |  |
@@ -3160,6 +3161,7 @@
 | [Permission to Share \- Marcel Reps\-Gotsch Techno Remix](https://open.spotify.com/track/3lcmCPgjjC207jAZCYV0Kj) | [Broken Star](https://open.spotify.com/artist/7jixBxoSPjyr8LXJaa8TX6), [Marcel Reps\-Gotsch](https://open.spotify.com/artist/2XcSz6LiS3o85dYKEtQQ1Z) | [Permission to Share \(Marcel Reps\-Gotsch Techno Remix\)](https://open.spotify.com/album/2MFpVFNuuUrulvcrC16BCT) | 5:24 | 2026-09-09 |  |
 | [Perreo Sucio](https://open.spotify.com/track/1PiPXkHkzMZeuVAa6XFUSt) | [Dany Melki](https://open.spotify.com/artist/037AeZZVeAnTNITCescluf) | [Perreo Sucio](https://open.spotify.com/album/2AbmHbcHOHeJX0YUSmYjhd) | 2:28 | 2026-04-28 |  |
 | [Persi nel Ritmo](https://open.spotify.com/track/69iIP2OpNaWHvz4uQEe4Jq) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Playlist Italia 2025](https://open.spotify.com/album/6DUX6UOq97rQeTwOKXGzKM) | 2:08 | 2025-09-12 |  |
+| [Personality](https://open.spotify.com/track/4d6opMFuuaU5YjfkSqpYV7) | [Retroviral](https://open.spotify.com/artist/2bemF0p9xqlEuiClwuECVl) | [Personality](https://open.spotify.com/album/3hNiSRcbKZ8y5tkoBKyC5c) | 3:15 | 2026-09-19 |  |
 | [Personne n’est comme toi](https://open.spotify.com/track/3e9ZUp2zCG7rIjydxxU0fB) | [Carlo Furii](https://open.spotify.com/artist/79WFeSImI8x1pypmrMxTZM), [François Clavel](https://open.spotify.com/artist/6sbqnTkiftUTU1OxZ0PSGa) | [Personne n’est comme toi](https://open.spotify.com/album/3bgSwm3MR8gM2OWnGM5z4G) | 3:51 | 2025-07-01 |  |
 | [Petrol Fumes](https://open.spotify.com/track/66BBf7Uf3UpyhLFrpnCAmk) | [Billy Nomates](https://open.spotify.com/artist/0QJaBD8Piha8IEwKtNpBOB) | [Emergency Telephone](https://open.spotify.com/album/5lbnFvJgYtqN9UPCVPQu2U) | 4:10 | 2025-11-05 |  |
 | [Pezzi](https://open.spotify.com/track/1J0hPf5fcVogT9ckCRnx8Q) | [Maledetto](https://open.spotify.com/artist/2csLuQAaoanlNaHP8FMkES) | [Pezzi](https://open.spotify.com/album/2D4RMLYVc9i3FFVuKPafhm) | 3:20 | 2025-06-01 |  |
@@ -4082,6 +4084,7 @@
 | [The Chapeltown Rag](https://open.spotify.com/track/5jeh4hwbQJnnAJHZV9fqeo) | [Slipknot](https://open.spotify.com/artist/05fG473iIaoy82BF1aGhL8) | [The End, So Far](https://open.spotify.com/album/3hWTXO0w02D6YpVRyLRmQz) | 4:49 | 2025-04-09 |  |
 | [The Clockwork Stone](https://open.spotify.com/track/7gIilCVS2ELuWmPplKRzEW) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:08 | 2026-09-06 |  |
 | [The Clockwork Stone \(fomo mode\)](https://open.spotify.com/track/1YQDexgffasdPy7dIcA3KT) | [KODEX](https://open.spotify.com/artist/2PMIG7IbYzcmcvZaKerDO5) | [THE SOLOMON PROJECT](https://open.spotify.com/album/3RFWkcxBDRtwCKshnt27Hp) | 3:43 | 2026-09-06 |  |
+| [The Cobra Has Arrived, Pt\. 2](https://open.spotify.com/track/28onWsoR8929yLq7Npxbd7) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [The Cobra Has Arrived, Pt\. 2](https://open.spotify.com/album/7wL9N0B0ZxJcYNRQh3L6dO) | 3:59 | 2026-09-18 |  |
 | [The Comeback Kid](https://open.spotify.com/track/70duDlgOF7i2GLB0Lugtwt) | [Dolour](https://open.spotify.com/artist/5aNyiLkMbHKufrAvfDNy0O), [Shane Tutmarc](https://open.spotify.com/artist/5HqeKeRTxCHQtcQeUUBBac) | [Daylight Upon Magic \(Deluxe\)](https://open.spotify.com/album/0uuswDGuMCXwx99GAd9rlr) | 3:26 | 2025-07-01 |  |
 | [The Creeps](https://open.spotify.com/track/2N2KVihh0v9I0hV28c9bIk) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [The Creeps](https://open.spotify.com/album/0kvUTplWYsofiXs6rgfD54) | 4:50 | 2025-11-05 |  |
 | [The Creeps](https://open.spotify.com/track/7HsjovFiqgeIVjlwhh3EkK) | [Railway Athletic](https://open.spotify.com/artist/4i5DLwG9DeSmYHTgh8rxD9) | [Alco\-Rhythm](https://open.spotify.com/album/4GO11BTRtDwQANUqmiGqwI) | 4:50 | 2025-11-05 |  |

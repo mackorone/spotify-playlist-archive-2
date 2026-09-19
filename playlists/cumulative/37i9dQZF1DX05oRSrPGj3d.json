@@ -3772,10 +3772,32 @@
       ],
       "date_added": "2025-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 210437,
       "name": "When Love Comes Around",
       "url": "https://open.spotify.com/track/6YlFNWOL2Q1kFOsIvd3Otm"
+    },
+    {
+      "album": {
+        "name": "Where the Neon Lies (with Ronnie Dunn)",
+        "url": "https://open.spotify.com/album/2oZKygcTIrbhxKSKjRCGZy"
+      },
+      "artists": [
+        {
+          "name": "Triston Marez",
+          "url": "https://open.spotify.com/artist/34J7mIMU9nyg5px9m3ur88"
+        },
+        {
+          "name": "Ronnie Dunn",
+          "url": "https://open.spotify.com/artist/1iLuTmIgxCEiEllDSWkeIy"
+        }
+      ],
+      "date_added": "2026-02-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242360,
+      "name": "Where the Neon Lies (with Ronnie Dunn)",
+      "url": "https://open.spotify.com/track/7EiReSdSNMGYz2ki0RRiYP"
     },
     {
       "album": {

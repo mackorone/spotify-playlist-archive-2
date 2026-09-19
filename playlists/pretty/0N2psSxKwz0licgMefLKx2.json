@@ -1,13 +1,33 @@
 {
   "description": "The biggest Country hits of the year w Morgan Wallen, Tucker Wetmore, and Josh Ross! Cover: Owen Riegling",
-  "num_followers": 11221,
+  "num_followers": 11220,
   "original_name": "2026 COUNTRY BANGERS \ud83e\udd20\ud83d\udd25",
   "owner": {
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAnaEetK6GSUBc4xwPigbdH4UvnkThP",
+  "snapshot_id": "AAAnapCbY14db8JEOm1IkQ4Xf9KiDHpZ",
   "tracks": [
+    {
+      "added_at": "2026-09-18 04:23:44",
+      "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/2WSyZvOGDRjPvhY6xUNZ71"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "duration_ms": 223058,
+      "name": "Finders Keepers",
+      "url": "https://open.spotify.com/track/2h7n0HIRYmOvE5MvI9GzSz"
+    },
     {
       "added_at": "2026-09-09 02:02:04",
       "album": {

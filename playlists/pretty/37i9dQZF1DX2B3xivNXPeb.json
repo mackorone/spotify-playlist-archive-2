@@ -1,12 +1,12 @@
 {
   "description": "Music for enjoying your space",
-  "num_followers": 59469,
+  "num_followers": 59468,
   "original_name": "Your Kitchen Stereo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP6la6at5zPsELWJGW50Y/FIBiRx",
+  "snapshot_id": "AAAAACKM/wnvv74fvI/yEJ2M+cUjZJeT",
   "tracks": [
     {
       "added_at": "2026-07-10 00:00:27",
@@ -355,22 +355,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 246813,
-      "name": "Worth It.",
-      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "Requiem",
         "url": "https://open.spotify.com/album/5DfKDonIvNlxlzA4ORIOFm"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 204223,
       "name": "Soft Spot",
       "url": "https://open.spotify.com/track/2aL4lMGhWdPpyPL6COPou7"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 246813,
+      "name": "Worth It.",
+      "url": "https://open.spotify.com/track/7JgNAnCjJvL8hBR1kmCOFF"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "Short n' Sweet (Deluxe)",
-        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
-      },
-      "artists": [
-        {
-          "name": "Sabrina Carpenter",
-          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
-        }
-      ],
-      "duration_ms": 191519,
-      "name": "15 Minutes",
-      "url": "https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "Nobody But You",
         "url": "https://open.spotify.com/album/0HaY1bBhaYUEXBOSva6Pf7"
       },
@@ -451,6 +435,22 @@
       "duration_ms": 213214,
       "name": "Nobody But You",
       "url": "https://open.spotify.com/track/6VFKuuqSbA1GpMEosUgTwQ"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
+        "name": "Short n' Sweet (Deluxe)",
+        "url": "https://open.spotify.com/album/3WzBIQmn2hrulLeTY9smkk"
+      },
+      "artists": [
+        {
+          "name": "Sabrina Carpenter",
+          "url": "https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B"
+        }
+      ],
+      "duration_ms": 191519,
+      "name": "15 Minutes",
+      "url": "https://open.spotify.com/track/1zhvxTuSha22nsUT5Nw8gE"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "My 21st Century Blues",
-        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
-      },
-      "artists": [
-        {
-          "name": "RAYE",
-          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
-        }
-      ],
-      "duration_ms": 199293,
-      "name": "The Thrill Is Gone.",
-      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "Not At This Party",
         "url": "https://open.spotify.com/album/3HeSxkLXlUx9ugabrCXa4t"
       },
@@ -687,6 +671,22 @@
       "duration_ms": 212437,
       "name": "Not At This Party",
       "url": "https://open.spotify.com/track/2V45ERWv9xrvV7Udm0a8di"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
+        "name": "My 21st Century Blues",
+        "url": "https://open.spotify.com/album/3U8n8LzBx2o9gYXvvNq4uH"
+      },
+      "artists": [
+        {
+          "name": "RAYE",
+          "url": "https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2"
+        }
+      ],
+      "duration_ms": 199293,
+      "name": "The Thrill Is Gone.",
+      "url": "https://open.spotify.com/track/5eVG50IlyjSevPsWnSI76r"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "Personal",
-        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
-      },
-      "artists": [
-        {
-          "name": "Nia Smith",
-          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
-        }
-      ],
-      "duration_ms": 162920,
-      "name": "Personal",
-      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "In A World We Don't Belong (Pt.1)",
         "url": "https://open.spotify.com/album/2qmKexam2hulUGtbFkOPO6"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 176054,
       "name": "Love Language",
       "url": "https://open.spotify.com/track/0mZtuc61VpzJ10Rl4p8kT4"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
+        "name": "Personal",
+        "url": "https://open.spotify.com/album/7gGfsO0o0JcxvgTpVB5sQf"
+      },
+      "artists": [
+        {
+          "name": "Nia Smith",
+          "url": "https://open.spotify.com/artist/50MUpOKyCZMtBcYlBQP260"
+        }
+      ],
+      "duration_ms": 162920,
+      "name": "Personal",
+      "url": "https://open.spotify.com/track/4eEI8eLVGvvvqPL07bgyB6"
     },
     {
       "added_at": "2026-07-10 00:00:27",
@@ -1399,22 +1399,6 @@
     {
       "added_at": "2026-07-10 00:00:27",
       "album": {
-        "name": "Bittersweet Escape",
-        "url": "https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed"
-      },
-      "artists": [
-        {
-          "name": "Grace Carter",
-          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
-        }
-      ],
-      "duration_ms": 167860,
-      "name": "Bittersweet Escape",
-      "url": "https://open.spotify.com/track/7m048jBthqhBF62d67E1kM"
-    },
-    {
-      "added_at": "2026-07-10 00:00:27",
-      "album": {
         "name": "in defense of my own happiness",
         "url": "https://open.spotify.com/album/3dzxXQLyHYrhKYWcKrnFAZ"
       },
@@ -1427,6 +1411,22 @@
       "duration_ms": 186760,
       "name": "if you got a problem",
       "url": "https://open.spotify.com/track/1wk5QI8DKu2iwDGpMfUSss"
+    },
+    {
+      "added_at": "2026-07-10 00:00:27",
+      "album": {
+        "name": "Bittersweet Escape",
+        "url": "https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed"
+      },
+      "artists": [
+        {
+          "name": "Grace Carter",
+          "url": "https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC"
+        }
+      ],
+      "duration_ms": 167860,
+      "name": "Bittersweet Escape",
+      "url": "https://open.spotify.com/track/7m048jBthqhBF62d67E1kM"
     },
     {
       "added_at": "2026-07-10 00:00:27",

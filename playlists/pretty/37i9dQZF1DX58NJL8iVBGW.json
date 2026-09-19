@@ -1,12 +1,12 @@
 {
   "description": "Long-shadow roots rock, folk, and Americana. Grit-worn, brooding, and  dark.",
-  "num_followers": 821233,
+  "num_followers": 821307,
   "original_name": "Southern Gothic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEHvu2BLJIJeAAV6h2101ob/Hze3",
+  "snapshot_id": "AAAAACBRK592HMtL3hkr3Ag/NGMisUSk",
   "tracks": [
     {
       "added_at": "2026-09-11 04:00:16",
@@ -539,22 +539,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Parker Millsap",
-        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 234000,
-      "name": "Old Time Religion",
-      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Spaces",
         "url": "https://open.spotify.com/album/5EfF28rTF2MACFCf9yVZ1j"
       },
@@ -567,6 +551,22 @@
       "duration_ms": 242266,
       "name": "Sons & Daughters",
       "url": "https://open.spotify.com/track/42r1v4tT0xfteQq0pNMaf9"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Parker Millsap",
+        "url": "https://open.spotify.com/album/3puqTC6ZIfItLMY4q0wr4e"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 234000,
+      "name": "Old Time Religion",
+      "url": "https://open.spotify.com/track/4zm37YNRt5XrbFOTPk0jBp"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "The Very Last Day",
-        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
-      },
-      "artists": [
-        {
-          "name": "Parker Millsap",
-          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
-        }
-      ],
-      "duration_ms": 156106,
-      "name": "Hades Pleads",
-      "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "The Edge of the Map (Cumberland Gap)",
         "url": "https://open.spotify.com/album/3IzvwJ6nngKTdiyOdjJ70j"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 180141,
       "name": "The Edge of the Map (Cumberland Gap)",
       "url": "https://open.spotify.com/track/2kCAq5RxMJF0U7kYmzDcoL"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "The Very Last Day",
+        "url": "https://open.spotify.com/album/71K6pqQC9BGomxvPDQVM3T"
+      },
+      "artists": [
+        {
+          "name": "Parker Millsap",
+          "url": "https://open.spotify.com/artist/0MASTEXfUt3bpiyGOoEaur"
+        }
+      ],
+      "duration_ms": 156106,
+      "name": "Hades Pleads",
+      "url": "https://open.spotify.com/track/2Yf3wwS48rkAoBRXNJ34kz"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "How To Act",
-        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 221104,
-      "name": "How To Act",
-      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Dark Feathers",
         "url": "https://open.spotify.com/album/1lSnurE1qrHG1rai2ps8CK"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 237115,
       "name": "Dark Feathers",
       "url": "https://open.spotify.com/track/3ron5Rg6TcEC2eIHzhoMK5"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "How To Act",
+        "url": "https://open.spotify.com/album/1pXMpwXyCzaZAWnqRpkGFE"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 221104,
+      "name": "How To Act",
+      "url": "https://open.spotify.com/track/3N5aJgsAM0VQIQ5vEyS8HX"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -795,22 +795,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "The Winter of '68",
-        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 202979,
-      "name": "The Winter of '68",
-      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Salt For Salt",
         "url": "https://open.spotify.com/album/0SVsGgGApRYVXP466ywwsC"
       },
@@ -823,6 +807,22 @@
       "duration_ms": 198132,
       "name": "Chairkickers",
       "url": "https://open.spotify.com/track/0O0T1NHzuTa12tNZ1hZ7db"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "The Winter of '68",
+        "url": "https://open.spotify.com/album/5ZZhy7EjeuUy3fQg7JYuBe"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 202979,
+      "name": "The Winter of '68",
+      "url": "https://open.spotify.com/track/6xaRjpgvphJbRSTc7xUNTB"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -871,6 +871,22 @@
       "duration_ms": 186213,
       "name": "Lost Boys",
       "url": "https://open.spotify.com/track/1fhcTpn9fvemLo60JesY2W"
+    },
+    {
+      "added_at": "2026-09-18 00:00:09",
+      "album": {
+        "name": "Holy Line",
+        "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
+      },
+      "artists": [
+        {
+          "name": "Mynolia",
+          "url": "https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg"
+        }
+      ],
+      "duration_ms": 207718,
+      "name": "Holy Line",
+      "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -923,22 +939,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Another Man\u02bcs Grave",
-        "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
-      },
-      "artists": [
-        {
-          "name": "Amigo the Devil",
-          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
-        }
-      ],
-      "duration_ms": 188677,
-      "name": "Another Man\u02bcs Grave",
-      "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "The Dark",
         "url": "https://open.spotify.com/album/5bYknjcVWXm5uGXvOeYJ2v"
       },
@@ -951,6 +951,22 @@
       "duration_ms": 180920,
       "name": "The Beast",
       "url": "https://open.spotify.com/track/3Ots0w8hKuBavNkhLjlJ79"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Another Man\u02bcs Grave",
+        "url": "https://open.spotify.com/album/1ydWuirnz39uMCZYgkE18E"
+      },
+      "artists": [
+        {
+          "name": "Amigo the Devil",
+          "url": "https://open.spotify.com/artist/0AkmSuTOzM2pNCIOSP8ziv"
+        }
+      ],
+      "duration_ms": 188677,
+      "name": "Another Man\u02bcs Grave",
+      "url": "https://open.spotify.com/track/0kO82Vu0CXMrkLo5p9EvyI"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -987,22 +1003,6 @@
       "duration_ms": 203757,
       "name": "Six Shades of Grey",
       "url": "https://open.spotify.com/track/32EA0LfAv3JBxXHGqRiPAy"
-    },
-    {
-      "added_at": "2026-09-18 00:00:09",
-      "album": {
-        "name": "Holy Line",
-        "url": "https://open.spotify.com/album/00zs78kdZrIo3qGLITPC2a"
-      },
-      "artists": [
-        {
-          "name": "Mynolia",
-          "url": "https://open.spotify.com/artist/1M7odak1xeImHJBDcIMTAg"
-        }
-      ],
-      "duration_ms": 207718,
-      "name": "Holy Line",
-      "url": "https://open.spotify.com/track/5JZD5yys1uzvrE0nCFJDJ0"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1265,6 +1265,22 @@
       "url": "https://open.spotify.com/track/76JVAMWG968qRkbccq6ziq"
     },
     {
+      "added_at": "2026-09-18 00:00:09",
+      "album": {
+        "name": "Wooden Machine",
+        "url": "https://open.spotify.com/album/1pTDcGfgXQEwT2uzMuKTT3"
+      },
+      "artists": [
+        {
+          "name": "Goodnight, Texas",
+          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
+        }
+      ],
+      "duration_ms": 222170,
+      "name": "Ashes",
+      "url": "https://open.spotify.com/track/1bSaCwYFe8qwTcNuEIFvKV"
+    },
+    {
       "added_at": "2026-09-11 04:00:16",
       "album": {
         "name": "3",
@@ -1319,22 +1335,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "...And There Are Devils",
-        "url": "https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g"
-      },
-      "artists": [
-        {
-          "name": "Whiskey Folk Ramblers",
-          "url": "https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj"
-        }
-      ],
-      "duration_ms": 216160,
-      "name": "Gambling Preacher and His Daughter",
-      "url": "https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Gravity Well",
         "url": "https://open.spotify.com/album/4x3oQDSVcs6pZCooX5p9DB"
       },
@@ -1347,6 +1347,22 @@
       "duration_ms": 203546,
       "name": "Country Blues",
       "url": "https://open.spotify.com/track/4902sigaZA0IflQ6FdWmtk"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "...And There Are Devils",
+        "url": "https://open.spotify.com/album/3jBfO1ub4VfVSUIUjj5x8g"
+      },
+      "artists": [
+        {
+          "name": "Whiskey Folk Ramblers",
+          "url": "https://open.spotify.com/artist/1dKwL2D1YxwQqN0BsvMPGj"
+        }
+      ],
+      "duration_ms": 216160,
+      "name": "Gambling Preacher and His Daughter",
+      "url": "https://open.spotify.com/track/4SzeCnM4d39PAMxBDIViod"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1379,22 +1395,6 @@
       "duration_ms": 239093,
       "name": "Saint Elizabeth",
       "url": "https://open.spotify.com/track/6kUG8Dja3ClxOolNqKEWy6"
-    },
-    {
-      "added_at": "2026-09-18 00:00:09",
-      "album": {
-        "name": "Wooden Machine",
-        "url": "https://open.spotify.com/album/1pTDcGfgXQEwT2uzMuKTT3"
-      },
-      "artists": [
-        {
-          "name": "Goodnight, Texas",
-          "url": "https://open.spotify.com/artist/5ammRFhN6wQXM30xlhndC5"
-        }
-      ],
-      "duration_ms": 222170,
-      "name": "Ashes",
-      "url": "https://open.spotify.com/track/1bSaCwYFe8qwTcNuEIFvKV"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1447,22 +1447,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Stuck In The South",
-        "url": "https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA"
-      },
-      "artists": [
-        {
-          "name": "Adia Victoria",
-          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
-        }
-      ],
-      "duration_ms": 187186,
-      "name": "Stuck In The South",
-      "url": "https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Demons",
         "url": "https://open.spotify.com/album/21NyUBjgGQJgelMtRhwnop"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 267373,
       "name": "Demons",
       "url": "https://open.spotify.com/track/7INchL1IboCdg8hLZxMRY1"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Stuck In The South",
+        "url": "https://open.spotify.com/album/28nGrVJh9r3leGrLKiuplA"
+      },
+      "artists": [
+        {
+          "name": "Adia Victoria",
+          "url": "https://open.spotify.com/artist/1HKGjRPwI0gaFyv4aSWPPl"
+        }
+      ],
+      "duration_ms": 187186,
+      "name": "Stuck In The South",
+      "url": "https://open.spotify.com/track/2OWs4IaG1vWTcxEKvANwTX"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Loneliness",
-        "url": "https://open.spotify.com/album/4FhRFKIWfuNSGoO2PMhT0U"
-      },
-      "artists": [
-        {
-          "name": "Joshua Quimby",
-          "url": "https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0"
-        }
-      ],
-      "duration_ms": 208170,
-      "name": "Loneliness",
-      "url": "https://open.spotify.com/track/5NFIoFLFsfKD5JkHu9SVSb"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Blossom Talk",
         "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 213590,
       "name": "You Don't Fool Me",
       "url": "https://open.spotify.com/track/5QJ5ICpA44RUm2l6mJtwGD"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Loneliness",
+        "url": "https://open.spotify.com/album/4FhRFKIWfuNSGoO2PMhT0U"
+      },
+      "artists": [
+        {
+          "name": "Joshua Quimby",
+          "url": "https://open.spotify.com/artist/1fH3yHATnmsvIirfFNmlf0"
+        }
+      ],
+      "duration_ms": 208170,
+      "name": "Loneliness",
+      "url": "https://open.spotify.com/track/5NFIoFLFsfKD5JkHu9SVSb"
     },
     {
       "added_at": "2026-09-11 04:00:16",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-09-11 04:00:16",
       "album": {
-        "name": "Skunks",
-        "url": "https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL"
-      },
-      "artists": [
-        {
-          "name": "The Handsome Family",
-          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
-        }
-      ],
-      "duration_ms": 207161,
-      "name": "Skunks",
-      "url": "https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL"
-    },
-    {
-      "added_at": "2026-09-11 04:00:16",
-      "album": {
         "name": "Blossom Talk",
         "url": "https://open.spotify.com/album/33H4WbY7m8jy1HLedmUlWN"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 135000,
       "name": "Dig",
       "url": "https://open.spotify.com/track/3CFhdCcuagfQGxjQMzmRBs"
+    },
+    {
+      "added_at": "2026-09-11 04:00:16",
+      "album": {
+        "name": "Skunks",
+        "url": "https://open.spotify.com/album/20eLwOICuMCGV1eSW3b0AL"
+      },
+      "artists": [
+        {
+          "name": "The Handsome Family",
+          "url": "https://open.spotify.com/artist/72PnPUc1qv9UjRPaGVZ1jq"
+        }
+      ],
+      "duration_ms": 207161,
+      "name": "Skunks",
+      "url": "https://open.spotify.com/track/4slpqLJuWHNfQcXBBcmOjL"
     },
     {
       "added_at": "2026-09-11 04:00:16",

@@ -1,12 +1,12 @@
 {
   "description": "The best alternative songs of the decade. Cover: Vampire Weekend",
-  "num_followers": 905893,
+  "num_followers": 905886,
   "original_name": "Alternative 10s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGzrwLX3gEt0hU+xNCfUVglNBoab",
+  "snapshot_id": "AAAAAMosEhnTn1U29hztbHbDn9u7OucV",
   "tracks": [
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1179,18 +1179,22 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Changing of the Seasons",
-        "url": "https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7"
+        "name": "Oxnard",
+        "url": "https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc"
       },
       "artists": [
         {
-          "name": "Two Door Cinema Club",
-          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 222880,
-      "name": "Changing of the Seasons",
-      "url": "https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU"
+      "duration_ms": 268400,
+      "name": "Tints (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/7c3SbTuufigBWURcICnAWy"
     },
     {
       "added_at": "2022-09-29 15:30:40",
@@ -1211,22 +1215,18 @@
     {
       "added_at": "2022-09-29 15:30:40",
       "album": {
-        "name": "Oxnard",
-        "url": "https://open.spotify.com/album/3rqqwtJE89WoWvMyPTvbZc"
+        "name": "Changing of the Seasons",
+        "url": "https://open.spotify.com/album/5ClKeDzSpUxrpTKWFwixQ7"
       },
       "artists": [
         {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Two Door Cinema Club",
+          "url": "https://open.spotify.com/artist/536BYVgOnRky0xjsPT96zl"
         }
       ],
-      "duration_ms": 268400,
-      "name": "Tints (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/7c3SbTuufigBWURcICnAWy"
+      "duration_ms": 222880,
+      "name": "Changing of the Seasons",
+      "url": "https://open.spotify.com/track/6SlZp9UeLRIuw92j96dcjU"
     },
     {
       "added_at": "2022-09-29 15:30:40",

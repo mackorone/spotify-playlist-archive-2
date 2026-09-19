@@ -4,7 +4,7 @@
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-1,487 songs - 2 day 16 hr 1 min
+1,488 songs - 2 day 16 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -346,6 +346,7 @@
 | [Embrace The Sun](https://open.spotify.com/track/4EFwKxf6rlftFAMjpsxfxZ) | [BLANCE](https://open.spotify.com/artist/6evlfkHSHNx1mUQwDuZFXW), [Levi From Space](https://open.spotify.com/artist/27xQgK4tfoUirlu1rBhxYP) | [Embrace The Sun](https://open.spotify.com/album/3dAllXEKA6CXrlMTIeA2J4) | 2:43 | 2026-08-16 |  |
 | [End Of Me](https://open.spotify.com/track/2nxcHeBNJSsHc0wwrUn53s) | [Eloi El](https://open.spotify.com/artist/3fN5sNv6BOuzPD6r95XVNJ), [Lucien](https://open.spotify.com/artist/5qmHB3aI1CfoYudcfOdgod), [Zen Waves](https://open.spotify.com/artist/3cb1iTN6ukqRjCpbu4y8ia) | [End Of Me](https://open.spotify.com/album/279119bhxgIgHoojZ5wZWV) | 2:24 | 2024-11-01 | 2025-02-15 |
 | [End of The World](https://open.spotify.com/track/2Hpq7uw41HhMyAhoIeaZhr) | [Nate VanDeusen](https://open.spotify.com/artist/125PCXGTE6sFhvG8w0EnvU), [Karim](https://open.spotify.com/artist/7ASTAqkubyvLAADXV9Hlvb), [Niko Frost](https://open.spotify.com/artist/3hUupfJ0GpSJhRltxBUlF7) | [End of The World](https://open.spotify.com/album/2ZqZK4UOYPTFelGCg10B9s) | 2:23 | 2024-07-21 | 2024-08-19 |
+| [Endless Beach](https://open.spotify.com/track/0zU11XHZAcNsVNYthX9eZO) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Endless Beach](https://open.spotify.com/album/0KOyPPY7SJTmU4p7J9FEAK) | 2:37 | 2026-09-18 |  |
 | [Endless Summer](https://open.spotify.com/track/5QAhqtUPu3S3I0zXiWycUG) | [Lucas Estrada](https://open.spotify.com/artist/2tndYCXQneCV4jtoWRwVpz), [Thierry Von Der Warth](https://open.spotify.com/artist/2mF9PcfpN8vxRtCfra8hz1), [Sirena](https://open.spotify.com/artist/3ua4MYAHmkOM1hL7o0FqIw) | [Endless Summer](https://open.spotify.com/album/3rs24YAeYhfi4fTOM2KJxK) | 2:52 | 2023-09-22 | 2025-06-03 |
 | [Englishman In New York](https://open.spotify.com/track/059mWkxcvYRfyaPlGq3Gkh) | [Oceanside](https://open.spotify.com/artist/5QCwRUSPkHc6uD78wTCcXR), [Majesto](https://open.spotify.com/artist/0fFZroJML4yia5tPZs8SDI) | [Englishman In New York](https://open.spotify.com/album/1g1ef5KCvVgw2MNBFbmsrX) | 2:32 | 2024-01-27 | 2024-07-29 |
 | [Enjoy the silence](https://open.spotify.com/track/4mLyWPmO0BBvpdid64ynNe) | [ItsLee](https://open.spotify.com/artist/1dq0GAzGi7vIwvcREuVKiZ), [Lost Ways](https://open.spotify.com/artist/4tI5grRhokUSIptaT5shnu) | [Enjoy the silence](https://open.spotify.com/album/3ilaUVLzjVolnbrM9jgLW8) | 2:21 | 2023-09-22 | 2025-12-11 |

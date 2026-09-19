@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Khodi e Flaco, 22simba, Palazzi d'Oriente con Massimo Pericolo, Young Hash e tanti altri
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,134 likes - 85 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,145 likes - 85 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 84 | [himalaya](https://open.spotify.com/track/1jq6Cg7i4AN8CRlDoHzuHg) | [55miki](https://open.spotify.com/artist/0V3d3uLu6WLBtZqeBNS0YU), [annoiwto](https://open.spotify.com/artist/6HqKGkg2smjpzAYY1iAbbX) | [a Bad Book](https://open.spotify.com/album/0XbmhKq0iZoACG90LTBaN9) | 1:59 |
 | 85 | [Gocce d'acqua](https://open.spotify.com/track/4KGCp3jM9a9LBuRd23G8E0) | [eyTrama](https://open.spotify.com/artist/2NpwOGf7PazuBdxHI5WY1A) | [Gocce d'acqua](https://open.spotify.com/album/7tZ9IMJYifLEic7UXUa4th) | 3:57 |
 
-Snapshot ID: `AAAAAJeYVgsduGJViyxPEPv9TXHALN3z`
+Snapshot ID: `AAAAANBWphI2WV8rsb5NY0L13dBFC7m5`

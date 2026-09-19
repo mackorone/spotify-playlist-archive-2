@@ -5711,6 +5711,24 @@
     },
     {
       "album": {
+        "name": "Mati\u00e8re Noire",
+        "url": "https://open.spotify.com/album/1peyUGGTK1VCTcX13D9pkr"
+      },
+      "artists": [
+        {
+          "name": "Djadja & Dinaz",
+          "url": "https://open.spotify.com/artist/5hREZP0zTQbTLkZ2M8RS4v"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175346,
+      "name": "Baraque au Bled",
+      "url": "https://open.spotify.com/track/4DOmaofCT3iUb6dMllhWBc"
+    },
+    {
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -11058,7 +11076,7 @@
       ],
       "date_added": "2026-08-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 161795,
       "name": "Coachella",
       "url": "https://open.spotify.com/track/5GW0Vh78Qa8aEVHByOCuYn"
@@ -36324,7 +36342,7 @@
       ],
       "date_added": "2025-01-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 183685,
       "name": "NUEVAYoL",
       "url": "https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5"
@@ -43392,7 +43410,7 @@
       ],
       "date_added": "2025-06-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 174493,
       "name": "RUINART",
       "url": "https://open.spotify.com/track/4ffqxU54Ll4YRz5NVBe77w"
@@ -51642,7 +51660,7 @@
       ],
       "date_added": "2023-12-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 169000,
       "name": "Tu connais",
       "url": "https://open.spotify.com/track/3rIX5DA9rUk89KUOZdGFaN"
@@ -52188,7 +52206,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 161140,
       "name": "Uber",
       "url": "https://open.spotify.com/track/2PPFDGYR4t96gLVsd52NmL"

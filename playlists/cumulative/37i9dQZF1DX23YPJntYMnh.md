@@ -4,7 +4,7 @@
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-135 songs - 9 hr 22 min
+136 songs - 9 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,13 +111,14 @@
 | [Stranger Danger \(In The Streets Of Life\)](https://open.spotify.com/track/2aVfD1DpyU1mqAtqbChj5A) | [Jitwam](https://open.spotify.com/artist/3yg8VEfEzpr8T9NkiEsycS) | [Third](https://open.spotify.com/album/4zG3uvykSITw9ZRfkL6h0V) | 4:06 | 2022-07-29 | 2024-04-19 |
 | [Suck My Kiss](https://open.spotify.com/track/0psB5QzGb4653K0uaPgEyh) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Blood Sugar Sex Magik \(Deluxe Edition\)](https://open.spotify.com/album/30Perjew8HyGkdSmqguYyg) | 3:37 | 2020-01-08 |  |
 | [Summer Romance \(Anti\-Gravity Love Song\)](https://open.spotify.com/track/4O1aEPLNamT9ZuClNZi2KM) | [Incubus](https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za) | [S.C.I.E.N.C.E.](https://open.spotify.com/album/0XC5hMpEFLDSuRxc5bVtIZ) | 4:25 | 2020-01-08 |  |
+| [Swamp](https://open.spotify.com/track/4zuBxr90H3TtaTYyek9j4R) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Twice As Nice](https://open.spotify.com/album/0RGN2AnG2NPajc9vNCzQYE) | 3:16 | 2026-09-18 |  |
 | [Tahitian Moon](https://open.spotify.com/track/3DwzYRgOgojl0EcdOaJLYr) | [Porno for Pyros](https://open.spotify.com/artist/58etTNn7xmsQZhjnfjpAXL) | [Good God's Urge](https://open.spotify.com/album/6Sa5vHSMHnIm1m0LG82xBM) | 3:47 | 2020-01-08 |  |
 | [Take The Power Back](https://open.spotify.com/track/25CbtOzU8Pn17SAaXFjIR3) | [Rage Against The Machine](https://open.spotify.com/artist/2d0hyoQ5ynDBnkvAbJKORj) | [Rage Against The Machine \- XX \(20th Anniversary Special Edition\)](https://open.spotify.com/album/4Io5vWtmV1rFj4yirKb4y4) | 5:36 | 2020-01-08 |  |
 | [Tell Your Story Walkin'](https://open.spotify.com/track/2gBnKiNNXCIDLfqVptT6v6) | [Stevie Salas](https://open.spotify.com/artist/6fb78HXq6cKqNjjwZP9dax) | [Back from the Living](https://open.spotify.com/album/6J5Lg92qtxOwyrLrn1Zqfv) | 4:01 | 2020-01-08 |  |
 | [Thatch](https://open.spotify.com/track/33uwLfWs1uu8oj5ercdX99) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Thatch](https://open.spotify.com/album/1Ln1otwRV5Cw4E8y7kxgWI) | 6:40 | 2025-04-11 |  |
 | [The Devil](https://open.spotify.com/track/0Oo8Aa1ENUC78J2Vl7T7TP) | [Twiddle](https://open.spotify.com/artist/0hNjIdUHXWhd0dilzi6c12), [John Popper](https://open.spotify.com/artist/2r8UpAivBMWpM96XTb4zaI) | [The Devil](https://open.spotify.com/album/5nksS055u8VN76qS1A54j9) | 3:07 | 2022-02-25 |  |
 | [The Drummer](https://open.spotify.com/track/5KnqauuLF6qyZA9RzfeKxG) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [Return of the Dream Canteen](https://open.spotify.com/album/0KJc9ksnoJJsdpQxV3z5i1) | 3:22 | 2022-10-14 | 2023-10-28 |
-| [The Jokes On You](https://open.spotify.com/track/301qRmALgPe2NZur3lRkPA) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Jokes On You](https://open.spotify.com/album/6B4QyvP8Bbq122hleD2QQm) | 2:42 | 2026-04-03 |  |
+| [The Jokes On You](https://open.spotify.com/track/301qRmALgPe2NZur3lRkPA) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Jokes On You](https://open.spotify.com/album/6B4QyvP8Bbq122hleD2QQm) | 2:42 | 2026-04-03 | 2026-09-19 |
 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 | 2022-07-01 |  |
 | [The Shape I'm Takin'](https://open.spotify.com/track/4UEMZFRrxVUkuMVaHhWoKQ) | [Red Hot Chili Peppers](https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5) | [The Shape I'm Takin'](https://open.spotify.com/album/7D2jhStmJWw2u8DhMWnORp) | 3:35 | 2022-11-25 |  |
 | [They Say I'm Different](https://open.spotify.com/track/7yQpHgbDPweCZhTD5ZtXES) | [Betty Davis](https://open.spotify.com/artist/5Ryxgm3uLvQOsw4H5ZpHDn) | [They Say I'm Different](https://open.spotify.com/album/6cnH06Wxjb2QqUHFa8PEwc) | 4:15 | 2020-01-08 |  |

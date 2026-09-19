@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 
 > เพลงใหม่ที่ดีที่สุดจากศิลปินรุ่นใหม่ คัดสรรโดยบรรณาธิการ Spotify\. ศิลปิน: Pawitt\. Artwork: Isu Kim
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,566 likes - 60 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,568 likes - 60 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSLboKmA6wlS.md) - [plain]
 | 59 | [ก็แค่น้อยใจ](https://open.spotify.com/track/1k6Szm0eZc8A0HCCL3v8Bd) | [PAIRY](https://open.spotify.com/artist/6G6MRBKezYH9TPzzth53Ep) | [ก็แค่น้อยใจ](https://open.spotify.com/album/4tq9zyAVTK6q0IqJUYVLgw) | 2:28 |
 | 60 | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/track/6CVFCsrnNIuoEz8bMMSY1r) | [Rocket Mellow](https://open.spotify.com/artist/0rsv4gxu6NqS7CmzbyvbiW) | [เป็นเพราะ \(Sorrow\)](https://open.spotify.com/album/2eE83NCQ1MhWdTipnoLtjD) | 4:36 |
 
-Snapshot ID: `AAAAAIfUi3rHpRtB7KuHWp5u2+T6V2ne`
+Snapshot ID: `AAAAAMzVJXeJqdr4ps8CK5mqotrBZI5I`

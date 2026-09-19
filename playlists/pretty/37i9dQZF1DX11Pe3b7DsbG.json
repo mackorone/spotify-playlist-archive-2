@@ -1,12 +1,12 @@
 {
   "description": "Um bom sambinha para acompanhar cada gole.",
-  "num_followers": 233860,
+  "num_followers": 233858,
   "original_name": "Caipirinha",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALuk4bxJPyfQrgDvpDXg2/9Zhc9Z",
+  "snapshot_id": "AAAAADKEfAJQhZWsU9LhWuqe9ZnPlGn1",
   "tracks": [
     {
       "added_at": "2025-09-19 22:07:37",
@@ -947,6 +947,26 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
+        "name": "Tudo Azul",
+        "url": "https://open.spotify.com/album/49GlmFB8PkKv5LT6qsL8Ty"
+      },
+      "artists": [
+        {
+          "name": "VELHA GUARDA DA PORTELA",
+          "url": "https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn"
+        },
+        {
+          "name": "Marisa Monte",
+          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
+        }
+      ],
+      "duration_ms": 264373,
+      "name": "Volta Meu Amor",
+      "url": "https://open.spotify.com/track/1YcFAX7t0ijC9KmeL4pj95"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
         "name": "Pagode do Peric\u00e3o (Ao Vivo)",
         "url": "https://open.spotify.com/album/2KB4XIudFdwuX7BgA1F2ak"
       },
@@ -1071,26 +1091,6 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
-        "name": "Cidade do Samba (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy"
-      },
-      "artists": [
-        {
-          "name": "Martinho Da Vila",
-          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
-        },
-        {
-          "name": "Zeca Pagodinho",
-          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
-        }
-      ],
-      "duration_ms": 200026,
-      "name": "Mulheres - Ao Vivo",
-      "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
         "name": "Sambabook Jo\u00e3o Nogueira, 2",
         "url": "https://open.spotify.com/album/6FOkfUj1Mv1ySctRjW3GY0"
       },
@@ -1179,6 +1179,26 @@
     {
       "added_at": "2025-09-19 22:07:37",
       "album": {
+        "name": "Cidade do Samba (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0pi0cmNcMMi5RXrXg6KiHy"
+      },
+      "artists": [
+        {
+          "name": "Martinho Da Vila",
+          "url": "https://open.spotify.com/artist/6rM2yY0GnVcOHMU5GD3y9E"
+        },
+        {
+          "name": "Zeca Pagodinho",
+          "url": "https://open.spotify.com/artist/3qZ2n5keOAat1SoF6bHwmb"
+        }
+      ],
+      "duration_ms": 200026,
+      "name": "Mulheres - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Kjil04DcA70F6h3WjLz2e"
+    },
+    {
+      "added_at": "2025-09-19 22:07:37",
+      "album": {
         "name": "Mund\u00e3o de Ouro",
         "url": "https://open.spotify.com/album/3fShPfDTdSqu0pck5wlWfm"
       },
@@ -1191,26 +1211,6 @@
       "duration_ms": 176573,
       "name": "Eu Vou Chegando",
       "url": "https://open.spotify.com/track/0MlLbRZYmBLd2sWKECh6zA"
-    },
-    {
-      "added_at": "2025-09-19 22:07:37",
-      "album": {
-        "name": "Tudo Azul",
-        "url": "https://open.spotify.com/album/49GlmFB8PkKv5LT6qsL8Ty"
-      },
-      "artists": [
-        {
-          "name": "VELHA GUARDA DA PORTELA",
-          "url": "https://open.spotify.com/artist/5NZP1TAmVDd3fzmi4X29Jn"
-        },
-        {
-          "name": "Marisa Monte",
-          "url": "https://open.spotify.com/artist/0rSTXALHu0EKAawPLBdODH"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "Volta Meu Amor",
-      "url": "https://open.spotify.com/track/1YcFAX7t0ijC9KmeL4pj95"
     },
     {
       "added_at": "2025-09-19 22:07:37",

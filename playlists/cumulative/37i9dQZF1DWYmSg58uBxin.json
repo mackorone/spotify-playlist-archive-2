@@ -935,6 +935,24 @@
     },
     {
       "album": {
+        "name": "Calm September",
+        "url": "https://open.spotify.com/album/6OGhtROq5IqfW1l9bGZfB9"
+      },
+      "artists": [
+        {
+          "name": "From the Keys",
+          "url": "https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Calm September",
+      "url": "https://open.spotify.com/track/4R3ZCBttcvLHd10k0nTHvP"
+    },
+    {
+      "album": {
         "name": "Calm Skies",
         "url": "https://open.spotify.com/album/4cXfofUmdPZ87JT6cixyAc"
       },
@@ -2604,7 +2622,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 134278,
       "name": "Jeg l\u00e6nges",
       "url": "https://open.spotify.com/track/5MEM7rEDW1wEJOqnpf1tuK"
@@ -3955,6 +3973,24 @@
     },
     {
       "album": {
+        "name": "Pause Here",
+        "url": "https://open.spotify.com/album/5qEoS15uFx0ODHDedzPNOW"
+      },
+      "artists": [
+        {
+          "name": "Enviromental State",
+          "url": "https://open.spotify.com/artist/5tHKsyArg710bnAL9MAL42"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132820,
+      "name": "Pause Here",
+      "url": "https://open.spotify.com/track/0RpMpu7lNVxOZ0hPDNF9fu"
+    },
+    {
+      "album": {
         "name": "Peggy's Cove",
         "url": "https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM"
       },
@@ -4297,6 +4333,24 @@
     },
     {
       "album": {
+        "name": "Serpentine",
+        "url": "https://open.spotify.com/album/5bAdiVYCm5Ran8woOHAC2u"
+      },
+      "artists": [
+        {
+          "name": "Finn Lenoir",
+          "url": "https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132007,
+      "name": "Serpentine",
+      "url": "https://open.spotify.com/track/11uoMckd2bsR8LtgQDSoSG"
+    },
+    {
+      "album": {
         "name": "Shimmer",
         "url": "https://open.spotify.com/album/6V4uuBOhnY4XTZE6wr0vCk"
       },
@@ -4312,6 +4366,24 @@
       "duration_ms": 151050,
       "name": "Shimmer",
       "url": "https://open.spotify.com/track/0JJjOOXHvXcpr7okiNGOe5"
+    },
+    {
+      "album": {
+        "name": "Silent Movement",
+        "url": "https://open.spotify.com/album/3gyFA13R6OolmaA5D5C6C5"
+      },
+      "artists": [
+        {
+          "name": "Aubrelon",
+          "url": "https://open.spotify.com/artist/7vKIGoD0cwFei1uZjI5S1o"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178000,
+      "name": "Silent Movement",
+      "url": "https://open.spotify.com/track/0vhIDstakWcajEJHVTJcFX"
     },
     {
       "album": {
@@ -5032,7 +5104,7 @@
       ],
       "date_added": "2024-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 248173,
       "name": "Thanksgiving",
       "url": "https://open.spotify.com/track/0Ra8bl33VpUwp0sodP5pL7"
@@ -5764,7 +5836,7 @@
       ],
       "date_added": "2023-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 192760,
       "name": "waltz - the greenhouse",
       "url": "https://open.spotify.com/track/7kfnzRb4vbJUJDtSFuvlHi"

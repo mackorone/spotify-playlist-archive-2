@@ -4,7 +4,7 @@
 
 > 日本の女性アーティストの歌を特集。A Collection of Songs by Japanese Women Vocalists\.  cover: Chilli Beans.
 
-3,885 songs - 10 day 7 hr 8 min
+3,886 songs - 10 day 7 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2189,7 +2189,7 @@
 | [Wonderful Days \- feat.Jan](https://open.spotify.com/track/2ptgJKRPCgVI1iI4w5KcaU) | [GIRA MUNDO](https://open.spotify.com/artist/62Va8ffu6xF2kgP4oqHBkW), [Jan](https://open.spotify.com/artist/4PjXq1smNWJ32ixoXMlgGQ) | [Wonderful Days \(feat.Jan\)](https://open.spotify.com/album/4cgRCUJjioyKM0JEr8dekI) | 3:39 | 2024-04-16 | 2024-04-24 |
 | [Wonderland](https://open.spotify.com/track/394oCRuzRAlpjgWhYE0Z2X) | [Night Tempo](https://open.spotify.com/artist/76B4kqqCUdVdAo9AG5LNWF), [BONNIE PINK](https://open.spotify.com/artist/0ogtEa0KT8kmWr6n0UoAqu) | [Wonderland](https://open.spotify.com/album/1JOeGgY4MCY2LbvoCvCxma) | 4:17 | 2022-06-02 | 2022-07-21 |
 | [wonderland](https://open.spotify.com/track/2ZprfZxepqebe1iIuyFK37) | [yukaDD](https://open.spotify.com/artist/5AfbFgeqRYOGZbu3lYtZLe) | [wonderland](https://open.spotify.com/album/1utyCLbWwQ4hW21s5Wbhsk) | 2:48 | 2024-05-21 | 2024-05-29 |
-| [Words to Follow](https://open.spotify.com/track/1NaLmLLhaM6EtTxHvbFffz) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Words to Follow](https://open.spotify.com/album/7nGlLqnNc3AffIsZGLH9eP) | 3:11 | 2026-04-07 |  |
+| [Words to Follow](https://open.spotify.com/track/1NaLmLLhaM6EtTxHvbFffz) | [Rokudenashi](https://open.spotify.com/artist/4kpQdAU7yPjqtiJsFcBTBb) | [Words to Follow](https://open.spotify.com/album/7nGlLqnNc3AffIsZGLH9eP) | 3:11 | 2026-04-07 | 2026-09-19 |
 | [WORLD DANCE](https://open.spotify.com/track/4t6YlJMuO54junyfkZG3eC) | [AI](https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q), [CHANMINA](https://open.spotify.com/artist/2vjeuQwzSP5ErC1S41gONX) | [WORLD DANCE](https://open.spotify.com/album/6hS2sOF0dexmQBEOFnS3s1) | 3:41 | 2023-08-15 | 2023-10-13 |
 | [Wrecked](https://open.spotify.com/track/68wXxnlnc3B5r5QrfwRiiH) | [HARU NEMURI](https://open.spotify.com/artist/3cn7Ujrlj3rdyuqmOYhBJT) | [Wrecked](https://open.spotify.com/album/41NdOKlkYvk8FJL0Uj4el1) | 2:08 | 2023-06-30 | 2023-07-05 |
 | [Wren](https://open.spotify.com/track/4251HZQieHxgvAH6D7v8U5) | [Aimer](https://open.spotify.com/artist/0bAsR2unSRpn6BQPEnNlZm) | [Sign](https://open.spotify.com/album/268Fp4sOfh7kFOmChBsT4f) | 3:07 | 2024-08-27 | 2024-11-13 |
@@ -2880,6 +2880,7 @@
 | [ボクとキミを繋ぐモノ](https://open.spotify.com/track/7vWyB6YGbIYru4C6wac97h) | [fumika](https://open.spotify.com/artist/4FPhimiDlyEUsTSMWAUrhG) | [ボクとキミを繋ぐモノ](https://open.spotify.com/album/7bacewGlY9bUzu2Fy94hKG) | 3:38 | 2022-06-07 | 2022-07-25 |
 | [ポッピンラブ!](https://open.spotify.com/track/05rUvwGY3b2zHXwFXf7H4f) | [Sakurako Ohara](https://open.spotify.com/artist/5TS11vZTUaDP4maTjFCcBU) | [ポッピンラブ!](https://open.spotify.com/album/0qatIInmTuyCQKhuvzHv56) | 4:19 | 2022-05-29 | 2022-06-01 |
 | [ポポリル \- feat\. 木村千咲](https://open.spotify.com/track/2kJt5wSgLt1LzK6AYaYhjy) | [souzoucity](https://open.spotify.com/artist/0jfrSwW42l9FzT2HDcUXuT), [木村千咲](https://open.spotify.com/artist/2gxCXIHeJ93kR6HhilaJDU) | [ポポリル \(feat\. 木村千咲\)](https://open.spotify.com/album/1usrQa1qEjMcLDSocAGOzC) | 3:38 | 2022-10-18 | 2022-10-26 |
+| [マイオーダー](https://open.spotify.com/track/5PFQKYtkC4B1St8GSen6mk) | [Leina](https://open.spotify.com/artist/0ufoLkr55gheQNunOgkTae) | [マイオーダー](https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2) | 3:37 | 2026-09-15 |  |
 | [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/35n7uoX6bP8VJRnFLW6KPJ) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/2ihGCQ3UJZ6hkf0KPJ27XO) | 3:05 | 2023-09-08 | 2023-09-20 |
 | [マイナーなキス \(川谷絵音より\)](https://open.spotify.com/track/5aK41yNkJmkwa7vBroG2Vn) | [Ai Otsuka](https://open.spotify.com/artist/0q7KOr99MYmwKxivChxpSd) | [marble](https://open.spotify.com/album/1LHccueAFTr89QOcxSmvKe) | 3:05 | 2023-09-05 | 2023-09-10 |
 | [マイ・ソングス](https://open.spotify.com/track/6HOGYAumHsPIzsEr9s8gZh) | [むらかみなぎさ](https://open.spotify.com/artist/7h0LsDhkjvkMBQRNyUABN9) | [マイ・ソングス](https://open.spotify.com/album/5JLXowCpYpe8mbqZ0Rsx5E) | 4:10 | 2022-06-07 | 2022-06-15 |

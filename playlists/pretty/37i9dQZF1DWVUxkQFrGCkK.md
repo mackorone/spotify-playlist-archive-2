@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 
 > IBZ szn\. Cover: Folamour
 
-[Spotify](https://open.spotify.com/user/spotify) - 415,402 likes - 100 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,488 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Gotta Be Cool \- Luch Remix](https://open.spotify.com/track/6jtVPskUWZSDBtotyrfzzX) | [Rafael](https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6), [Luch](https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp) | [Gotta Be Cool \(Luch Remix\)](https://open.spotify.com/album/0wuSilFBnY1ZHmKLM2OuDL) | 3:02 |
 | 2 | [No Bass, No Love](https://open.spotify.com/track/5q8auJyAiF145znk2b3e73) | [Tiffy Vera](https://open.spotify.com/artist/0jUVqtJz5g4UnrFysOrbs0) | [No Bass, No Love](https://open.spotify.com/album/5hwLicEaDxbgGevrO7Tlgj) | 2:50 |
 | 3 | [Music is Life](https://open.spotify.com/track/4blPk8aWh2odUS0ENW2gfr) | [Folamour](https://open.spotify.com/artist/6pJY5At9SiMpAOBrw9YosS) | [Music is Life](https://open.spotify.com/album/2w2CJpHGsCYFPjh6Ma6YuO) | 4:48 |
-| 4 | [Track 1](https://open.spotify.com/track/2vqpDKEnWE3Q5rT3cHMUll) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Miguel EP](https://open.spotify.com/album/7GRY5QjDtmz4MPfcFZz9s9) | 0:00 |
+| 4 | [Miguel](https://open.spotify.com/track/2vqpDKEnWE3Q5rT3cHMUll) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Miguel EP](https://open.spotify.com/album/7GRY5QjDtmz4MPfcFZz9s9) | 3:29 |
 | 5 | [The City](https://open.spotify.com/track/6cRPrKsD1dgTEYhC7fc5VG) | [KIMONOS](https://open.spotify.com/artist/32XZI46GRocn0V8ghzhDYN), [Amour Propre](https://open.spotify.com/artist/1QjNphqwn88rGaLekI0fQQ) | [The City/All I Want](https://open.spotify.com/album/2NMKjdT6Ky0qMmza1rhKpY) | 3:25 |
 | 6 | [dissolve](https://open.spotify.com/track/3aKeZ75NMlUdk75F3N8mix) | [Azzecca](https://open.spotify.com/artist/2k5DY2QDU3kBi5DX7OQlWj) | [dissolve](https://open.spotify.com/album/2HchFhNfHtVMXBKAd6n2bV) | 4:03 |
 | 7 | [Turned A Key](https://open.spotify.com/track/5dwI3JHau2HD1r5ZEKTkIx) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh), [Luca Saporito](https://open.spotify.com/artist/5j0QAbips8lkIhtCwUYkBh) | [Turned A Key](https://open.spotify.com/album/24ZQse3rQUV1g1p9Qt1Vg9) | 3:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVUxkQFrGCkK.md) - [plain]
 | 99 | [Freaky 1](https://open.spotify.com/track/5cefCIhgIJgsG3r3LcRmwB) | [Max Styler](https://open.spotify.com/artist/3NKKngINK1tP6BFy0WOyWk), [Vintage Culture](https://open.spotify.com/artist/28uJnu5EsrGml2tBd7y8ts), [Ali Love](https://open.spotify.com/artist/5XJp0gYotUfFraS626GSge) | [Freaky 1](https://open.spotify.com/album/2iI0aQO2hrnBmMDIUvrLJS) | 3:52 |
 | 100 | [Monologue](https://open.spotify.com/track/0VW7oyXCCUKjzc0cRXB64o) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Monologue EP](https://open.spotify.com/album/1ZMbGVDdGBLlEzDbddiU5G) | 3:36 |
 
-Snapshot ID: `AAAAADD6MOTVKp6UQEw8rQLEqw8Sknvi`
+Snapshot ID: `AAAAAIKUx7u9pqeWRb33aefaCWbHpDBU`

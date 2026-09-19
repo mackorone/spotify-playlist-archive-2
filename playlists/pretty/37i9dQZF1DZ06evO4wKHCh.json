@@ -1,12 +1,12 @@
 {
   "description": "This is Emei. The essential tracks, all in one playlist.",
-  "num_followers": 13294,
+  "num_followers": 13296,
   "original_name": "This Is Emei",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAAHMMhAwlOMzGaZH4uJMoG2",
+  "snapshot_id": "aqstgAAAAACVqmeI4GRHuwOwvJx9Tpaj",
   "tracks": [
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scatterbrain",
+        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 140937,
+      "name": "Picky",
+      "url": "https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Distracted",
         "url": "https://open.spotify.com/album/05pOtkIgnk3jbeEctdrQuT"
       },
@@ -375,22 +391,6 @@
       "duration_ms": 147451,
       "name": "Stereo",
       "url": "https://open.spotify.com/track/65crqZhjAbaM6bmNCgDf9M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Scatterbrain",
-        "url": "https://open.spotify.com/album/7nMsq0A9k3KjCNBPu2RN3v"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 140937,
-      "name": "Picky",
-      "url": "https://open.spotify.com/track/1qTHWIDjnghhPe294079cZ"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scatterbrain (Deluxe)",
-        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
-      },
-      "artists": [
-        {
-          "name": "Emei",
-          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
-        }
-      ],
-      "duration_ms": 119900,
-      "name": "Human Being - Demo",
-      "url": "https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALL THESE KIDS",
         "url": "https://open.spotify.com/album/2PiygkH7sI89FdZc9GVdKM"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 117091,
       "name": "ALL THESE KIDS",
       "url": "https://open.spotify.com/track/4GCMUoBhLMELZ9yf1xHQbc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Scatterbrain (Deluxe)",
+        "url": "https://open.spotify.com/album/0kb0Eq1AKUHztZpCJYUrZ5"
+      },
+      "artists": [
+        {
+          "name": "Emei",
+          "url": "https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU"
+        }
+      ],
+      "duration_ms": 119900,
+      "name": "Human Being - Demo",
+      "url": "https://open.spotify.com/track/304dMIr0dsQ9JUliawZVKT"
     },
     {
       "added_at": null,

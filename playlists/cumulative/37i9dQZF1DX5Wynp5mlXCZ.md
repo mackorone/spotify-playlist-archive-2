@@ -4,7 +4,7 @@
 
 > Українські та світові артисти в добірці найцікавіших поп треків\. Обкладинка: GRISANA
 
-646 songs - 1 day 8 hr 59 min
+650 songs - 1 day 9 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -435,6 +435,7 @@
 | [злітай](https://open.spotify.com/track/6gWR61j9VKJsAdkuSgSAy8) | [CHERNETSKA](https://open.spotify.com/artist/3NXDoDGrRoeOFS7UOoEYIK) | [у глибині душі](https://open.spotify.com/album/5SQSVgAvIiaKWlhnqSy8g9) | 3:00 | 2026-07-30 | 2026-08-28 |
 | [Золото](https://open.spotify.com/track/7hfy7FKJ4YukP5QHWa8rPG) | [KAZKA](https://open.spotify.com/artist/6tnqzaOroG2OtBaSfVJbEw) | [Золото](https://open.spotify.com/album/2Sj5shmODB688jVan9pQMq) | 2:45 | 2024-11-28 | 2025-01-17 |
 | [Зупинись](https://open.spotify.com/track/4yWrbc8k9R2Ot7GU8BhItt) | [The Maneken](https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm) | [Nova Era](https://open.spotify.com/album/733WEbkU1APj1Y2KlR51W8) | 3:19 | 2025-05-22 | 2025-05-30 |
+| [Зіркою кіно](https://open.spotify.com/track/0ZFbTCcYJ2wpOLtwo1kF3S) | [Tender Di](https://open.spotify.com/artist/0NsfCpY90lSwTV8HdVvW1m), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Зіркою кіно](https://open.spotify.com/album/00xn1MRzV1JTL0GUZ8DCQC) | 2:30 | 2026-09-17 |  |
 | [КАЖАНИ](https://open.spotify.com/track/2dYmrwp8exK5rMMx193Lj7) | [MamaRika](https://open.spotify.com/artist/6N2neiZftq16Phw99zxLDS) | [КАЖАНИ](https://open.spotify.com/album/2LBytOkd0MneKuZugxWjeG) | 3:05 | 2024-09-13 | 2024-10-11 |
 | [Каланхое](https://open.spotify.com/track/4YgV3rfa56cZaxJm3zsyB2) | [TVORCHI](https://open.spotify.com/artist/0jWniZlqlLCZY3xSPwPXz5), [Pozdniakov](https://open.spotify.com/artist/69c9d1s70PiMSiJPMrLxpa) | [Каланхое](https://open.spotify.com/album/1nq5GccsxAwC7OB3dEHgxx) | 3:06 | 2024-10-04 | 2025-01-17 |
 | [Камертон](https://open.spotify.com/track/0O3BnlKDKVeoqrHWanbO0r) | [Khrystyna Soloviy](https://open.spotify.com/artist/5lLVx3mMyUvZ9QKzM09CZa) | [Камертон](https://open.spotify.com/album/6k5oC3oLwKd8UocbZlISp4) | 3:29 | 2024-06-27 | 2024-07-05 |
@@ -473,6 +474,7 @@
 | [Ліфт](https://open.spotify.com/track/7yk4zXXeXGtRrZKvWSOWhT) | [SKYLERR](https://open.spotify.com/artist/4yAxWAp7yFeQJu9la6eaCg), [Нікіта Кісельов](https://open.spotify.com/artist/0OK2yr1GTqeX6ND3TlWnAp) | [Ліфт](https://open.spotify.com/album/3VlwiDK6GKqvukwECg6qoG) | 3:34 | 2024-12-05 | 2025-03-14 |
 | [Магія](https://open.spotify.com/track/5JWUdCPytdnt4gbe9lj9TM) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ), [The Maneken](https://open.spotify.com/artist/21XreEXwXo1TNn2QMkwPzm) | [Квітами на глибині](https://open.spotify.com/album/3T1r69op3L3kHWpqQEZZyN) | 3:05 | 2025-04-10 | 2025-04-18 |
 | [мадам](https://open.spotify.com/track/5cSNtwfVLUDVHcgOnjBiBX) | [Маша Кондратенко](https://open.spotify.com/artist/1YgQMGLeH8C8Y6552fZ3Lm), [Міша Крупін](https://open.spotify.com/artist/04hCN9kKMAgHUaElQ4stQG) | [мадам](https://open.spotify.com/album/0GM5h6BNoQm6garAtev6ZC) | 3:26 | 2025-10-03 | 2025-10-10 |
+| [Мармелад](https://open.spotify.com/track/59EVmFrk3Mk02FQtdNF1r5) | [NANA SOLIS](https://open.spotify.com/artist/5nqfEPmgH1HtrcPJeIt51G), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Мармелад](https://open.spotify.com/album/38438dvkZY9vxPGNX71Snc) | 2:19 | 2026-09-17 |  |
 | [МаХат МаХат](https://open.spotify.com/track/7ripvzOElI5lNVwOTWX8ZR) | [Kadnay](https://open.spotify.com/artist/5uXIaMULUstVp4F5Jq1irJ) | [Квітами на глибині](https://open.spotify.com/album/3T1r69op3L3kHWpqQEZZyN) | 2:40 | 2025-04-10 | 2025-04-18 |
 | [Мелатонін](https://open.spotify.com/track/4ZQNrAOsong5Kny2QViQl1) | [Golubenko](https://open.spotify.com/artist/5XPjmh7BsTQfSfp9wqSoJQ) | [Мелатонін](https://open.spotify.com/album/4daqJ11hjdRJUTem9opHdU) | 2:03 | 2026-08-06 | 2026-09-11 |
 | [Мені тебе бракує](https://open.spotify.com/track/4AS9O91OqMi1gZ4zq2UiA0) | [Phil It](https://open.spotify.com/artist/0mJGrzOVeAMwrtlQZaNyUe), [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Коли квітне папороть](https://open.spotify.com/album/4Sue4Nkc79cFi44txiLEL6) | 3:38 | 2024-06-27 | 2024-07-13 |
@@ -510,8 +512,10 @@
 | [Накоїли](https://open.spotify.com/track/33fH0ZjfdKjqn2htjrxhmM) | [МУЛЬТИТРЕК](https://open.spotify.com/artist/6xVfsVrltoRr7tm4Gq9oev), [Parfeniuk](https://open.spotify.com/artist/64XGTiElvPUfmJjyWJnW8C) | [Накоїли](https://open.spotify.com/album/24HlefjKeKXhqEDXXlHMdu) | 2:31 | 2024-12-19 | 2025-02-14 |
 | [Намисто](https://open.spotify.com/track/7ieSNET9yuS7u9zinIGwVs) | [ROXOLANA](https://open.spotify.com/artist/2N0mbAIb33TV4rvt4TOXe4) | [Намисто](https://open.spotify.com/album/1jrMaeB4AvMkdqKfCUaB0S) | 2:49 | 2025-10-23 | 2025-11-07 |
 | [Наодинці танці](https://open.spotify.com/track/2Mn91cpqJpFM6vFKlRdwUc) | [ALEKSEEV](https://open.spotify.com/artist/0PdkdCdzIY5XUTa7hE4S6S) | [Наодинці танці](https://open.spotify.com/album/4LWM06jRsxDmFRPazquIDy) | 3:00 | 2024-10-04 | 2024-10-11 |
+| [Не вистачає](https://open.spotify.com/track/2gfk4bDSP962Q0f60Ha2eP) | [BEREZA](https://open.spotify.com/artist/3HU0YQovv7GeTj1Tq6aSUg), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Не вистачає](https://open.spotify.com/album/1QdkxXcqALIg3SFOxAf0ZS) | 1:57 | 2026-09-17 |  |
 | [Не лякай](https://open.spotify.com/track/1ZbtwhtxORZcaSh5VKjeXJ) | [OSTY](https://open.spotify.com/artist/58UBmhZzNl22EI94dh9Gx0), [Klavdia Petrivna](https://open.spotify.com/artist/5BwbVAdT6rFF2vGVE8su2y) | [Не лякай](https://open.spotify.com/album/24wMgJBKYxWz1cSScyEBiz) | 2:54 | 2024-09-13 | 2025-06-06 |
 | [не мине](https://open.spotify.com/track/5VQ740HkqqGXfTgxcJlTkF) | [MONATIK](https://open.spotify.com/artist/6wbEgVlGqWb4I9tbMluu5Q) | [не мине](https://open.spotify.com/album/17kGcxK5jD20PufCq7Toan) | 3:35 | 2024-07-26 | 2024-08-17 |
+| [Не мовчить](https://open.spotify.com/track/57aeEZ4nH4LMc7XDasSzAL) | [MÝRO](https://open.spotify.com/artist/2VpXBjH81TY4LiVxpb1MQo), [Фабрика Зірок](https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84) | [Не мовчить](https://open.spotify.com/album/6NZ2UGPYZIJwjX0fQfkDMO) | 3:03 | 2026-09-17 |  |
 | [Не Пʼяна \- Закохана \- за участі ансамблю «Кралиця»](https://open.spotify.com/track/0stBh1b8Oyi7gW3MdQQSGs) | [Alena Omargalieva](https://open.spotify.com/artist/1gg8DiQzv8QV2Ej1lWGIQV) | [Не Пʼяна \- Закохана \(за участі ансамблю «Кралиця»\)](https://open.spotify.com/album/2Y0mXdZdGWGWrKSdLWmPJ2) | 3:43 | 2025-11-13 |  |
 | [Не питай мене](https://open.spotify.com/track/3Boq316DbsofOgque5jXDk) | [YAKTAK](https://open.spotify.com/artist/5zjgy7grnZbt2L12meuxog) | [Не питай мене](https://open.spotify.com/album/6dEyeuCmL5E7kcQBfF989C) | 2:59 | 2025-08-01 | 2025-08-08 |
 | [не раз чаруй](https://open.spotify.com/track/2fhkVtl77XswwQX0XD9VkD) | [badactress](https://open.spotify.com/artist/6tWEWLQxHcea8qSHfbyWUV) | [не раз чаруй](https://open.spotify.com/album/35MuLeTs4BeFuhmEYL4TPA) | 2:56 | 2024-12-12 | 2024-12-20 |

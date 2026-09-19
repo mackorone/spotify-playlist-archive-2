@@ -1,12 +1,12 @@
 {
   "description": "Igor Levit, Alexis Ffrench, and other amazing artists help you take a moment, breathe, and relax with this playlist for reflection and calm.",
-  "num_followers": 57506,
+  "num_followers": 57500,
   "original_name": "Wellness",
   "owner": {
     "name": "Filtr Canada\t",
     "url": "https://open.spotify.com/user/filtr.ca"
   },
-  "snapshot_id": "AAAIquLYf0i/ijNeVKTd6QPDVtP6r6xn",
+  "snapshot_id": "AAAIrCJShkXBJEem9y6ppwtIkp/UHju8",
   "tracks": [
     {
       "added_at": "2026-06-18 13:50:44",
@@ -123,6 +123,46 @@
       "duration_ms": 155693,
       "name": "Beyond the Canvas",
       "url": "https://open.spotify.com/track/16evbqH9kBXWHHUa4NSG0i"
+    },
+    {
+      "added_at": "2026-09-18 18:33:43",
+      "album": {
+        "name": "Haydn Trumpet Concerto Variation (After Trumpet Concerto in E-Flat Major, Hob. Vlle:1: III. Finale. Allegro)",
+        "url": "https://open.spotify.com/album/5pvsU3SZctWEJAS2Au5GDB"
+      },
+      "artists": [
+        {
+          "name": "Joseph Haydn",
+          "url": "https://open.spotify.com/artist/656RXuyw7CE0dtjdPgjJV6"
+        },
+        {
+          "name": "Gabriele Bagnati",
+          "url": "https://open.spotify.com/artist/0OG7Jsxh29ESIeAHlElBOj"
+        }
+      ],
+      "duration_ms": 101783,
+      "name": "Haydn Trumpet Concerto Variation (After Trumpet Concerto in E-Flat Major, Hob. Vlle:1: III. Finale. Allegro)",
+      "url": "https://open.spotify.com/track/7ee1CadETzpKcbt8dFEl57"
+    },
+    {
+      "added_at": "2026-09-18 18:32:39",
+      "album": {
+        "name": "Gershwin Variations",
+        "url": "https://open.spotify.com/album/555iB5SDr21Nr6FZJT9mN5"
+      },
+      "artists": [
+        {
+          "name": "Lucas Debargue",
+          "url": "https://open.spotify.com/artist/3gGFrz3hjzLPTKFwjzfm3n"
+        },
+        {
+          "name": "George Gershwin",
+          "url": "https://open.spotify.com/artist/1YuknfkSYTTbolRpwZBOv4"
+        }
+      ],
+      "duration_ms": 117120,
+      "name": "Someone To Watch Over Me in D: Pavane",
+      "url": "https://open.spotify.com/track/3zqqn3VbosliOHB5T0Af3k"
     },
     {
       "added_at": "2026-05-05 16:00:29",

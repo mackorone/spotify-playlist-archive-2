@@ -1,12 +1,12 @@
 {
   "description": "Una dosis con lo m\u00e1s ching\u00f3n pa'l gusto mexicano,  Los Aut\u00e9nticos Decadentes y Los Caligaris en portada. ",
-  "num_followers": 957751,
+  "num_followers": 957616,
   "original_name": "La + Chingona",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ+sqTVT4O4Nvxm6HcR9lozK2fn4",
+  "snapshot_id": "AAAAALXqOADE6GKy3UV0jmA5M0xtJMus",
   "tracks": [
     {
       "added_at": "2026-09-04 06:00:37",
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "Re",
-        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
-      },
-      "artists": [
-        {
-          "name": "Caf\u00e9 Tacvba",
-          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
-        }
-      ],
-      "duration_ms": 135133,
-      "name": "Las flores",
-      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
         "name": "Infame",
         "url": "https://open.spotify.com/album/7FYLw9fTOiYnJFbFk2Mntn"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 225706,
       "name": "Putita",
       "url": "https://open.spotify.com/track/0SaKhiBPgdRaQKA7Bxu3ek"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
+        "name": "Re",
+        "url": "https://open.spotify.com/album/7EJ5pXrSqqfybKyfbvlz84"
+      },
+      "artists": [
+        {
+          "name": "Caf\u00e9 Tacvba",
+          "url": "https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz"
+        }
+      ],
+      "duration_ms": 135133,
+      "name": "Las flores",
+      "url": "https://open.spotify.com/track/0oakHTPj4SF7Si0NAsLwi8"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "La Invasion De Los Blatidos",
-        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
-      },
-      "artists": [
-        {
-          "name": "Cuca",
-          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
-        }
-      ],
-      "duration_ms": 240973,
-      "name": "El Son del Dolor",
-      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
         "name": "Dance And Dense Denso",
         "url": "https://open.spotify.com/album/2AbyDhzuhpMNKEm8johQft"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 256386,
       "name": "Hit Me",
       "url": "https://open.spotify.com/track/5oYQ84f7jWY90pblm2XJAO"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
+        "name": "La Invasion De Los Blatidos",
+        "url": "https://open.spotify.com/album/7ob1QWWWDWYkpewkCuYKEE"
+      },
+      "artists": [
+        {
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+        }
+      ],
+      "duration_ms": 240973,
+      "name": "El Son del Dolor",
+      "url": "https://open.spotify.com/track/6Sg8HCDhEX0IL7My2HjS6H"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "Trinchera",
-        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
-      },
-      "artists": [
-        {
-          "name": "Babasonicos",
-          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
-        }
-      ],
-      "duration_ms": 220795,
-      "name": "La Izquierda de la Noche",
-      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
         "name": "Laberinto",
         "url": "https://open.spotify.com/album/64cQcqpTfJQ4YMSvQfxmlo"
       },
@@ -1411,6 +1395,22 @@
       "duration_ms": 271000,
       "name": "Laberinto",
       "url": "https://open.spotify.com/track/5lo4luJDYXCV3KGvHt5smB"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
+        "name": "Trinchera",
+        "url": "https://open.spotify.com/album/5oLaRXGevqs8RYxXhYe9PG"
+      },
+      "artists": [
+        {
+          "name": "Babasonicos",
+          "url": "https://open.spotify.com/artist/2F9pvj94b52wGKs0OqiNi2"
+        }
+      ],
+      "duration_ms": 220795,
+      "name": "La Izquierda de la Noche",
+      "url": "https://open.spotify.com/track/6Z1ljEyzvcjq3WcGrKXBIB"
     },
     {
       "added_at": "2026-09-04 06:00:37",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-09-04 06:00:37",
       "album": {
-        "name": "Perro de Pavlov",
-        "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
-      },
-      "artists": [
-        {
-          "name": "Los Concorde",
-          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
-        }
-      ],
-      "duration_ms": 197271,
-      "name": "Perro de Pavlov",
-      "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
-    },
-    {
-      "added_at": "2026-09-04 06:00:37",
-      "album": {
         "name": "Cae La Lluvia",
         "url": "https://open.spotify.com/album/4lEd8H0uq6YaJDgIiG8Uu3"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 179829,
       "name": "Cae La Lluvia",
       "url": "https://open.spotify.com/track/2zfG2C9oJYMkM088tOtdgY"
+    },
+    {
+      "added_at": "2026-09-04 06:00:37",
+      "album": {
+        "name": "Perro de Pavlov",
+        "url": "https://open.spotify.com/album/0eFUlktiO4tZFskaWVQaq4"
+      },
+      "artists": [
+        {
+          "name": "Los Concorde",
+          "url": "https://open.spotify.com/artist/3jkWOLEB1SNniW6394QnXA"
+        }
+      ],
+      "duration_ms": 197271,
+      "name": "Perro de Pavlov",
+      "url": "https://open.spotify.com/track/7uaodGRJiJelKJ8gLpzdYD"
     },
     {
       "added_at": "2026-09-04 06:00:37",

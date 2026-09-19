@@ -3363,6 +3363,28 @@
     },
     {
       "album": {
+        "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\" (Transcr. for Piano by Franz Liszt, S. 464/3)/III. Scherzo. Allegro vivace",
+        "url": "https://open.spotify.com/album/4j6QVnRqkxOiz4KpEw5KiC"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Igor Levit",
+          "url": "https://open.spotify.com/artist/0japPUWMmW3gxqjSB1VEVL"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 327120,
+      "name": "Symphony No. 3 in E-Flat Major, Op. 55 \"Eroica\" (Transcr. for Piano by Franz Liszt, S. 464/3): III. Scherzo. Allegro vivace",
+      "url": "https://open.spotify.com/track/1XOwujGoAY7fsanvhQKfRz"
+    },
+    {
+      "album": {
         "name": "Shostakovich: 24 Preludes, Op. 34; Piano Sonatas Nos. 1 & 2",
         "url": "https://open.spotify.com/album/5LocqZdvSxKeqCymQT4sUn"
       },
@@ -3404,6 +3426,28 @@
       "duration_ms": 271200,
       "name": "The Seasons, Op. 37b: VI. June, \"Barcarolle\"",
       "url": "https://open.spotify.com/track/675uoOAtz3TzuigX3Doe4h"
+    },
+    {
+      "album": {
+        "name": "J.S. Bach: The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
+        "url": "https://open.spotify.com/album/2YOdUQDZ9JzCyoxumriUTh"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Minsoo Sohn",
+          "url": "https://open.spotify.com/artist/2SPassRsXiTWiRW9IBgPgL"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 78333,
+      "name": "The Well-Tempered Clavier I: Prelude & Fugue No. 5 in D Major, BWV 850: I. Prelude",
+      "url": "https://open.spotify.com/track/3EjmTzp2JgA1mGLCrjK4JS"
     },
     {
       "album": {

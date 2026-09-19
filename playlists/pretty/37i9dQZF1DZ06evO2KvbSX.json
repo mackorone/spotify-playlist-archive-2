@@ -1,12 +1,12 @@
 {
   "description": "This is Lewis Capaldi. The essential tracks, all in one playlist.",
-  "num_followers": 811089,
+  "num_followers": 811097,
   "original_name": "This Is Lewis Capaldi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAADVFnHUKNdBdrpkYL8jzcF0",
+  "snapshot_id": "aqstgAAAAADyjXJeHk3sFc7/wdkvLZ/t",
   "tracks": [
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
-        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
+        "name": "Before You Go EP",
+        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
       },
       "artists": [
         {
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 214438,
-      "name": "Strangers",
-      "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
+      "duration_ms": 218900,
+      "name": "Before You Go - Guitar Acoustic",
+      "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
     },
     {
       "added_at": null,
@@ -283,8 +283,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Before You Go EP",
-        "url": "https://open.spotify.com/album/1AGHTcqnvCoksoL6UGAxFa"
+        "name": "Broken By Desire To Be Heavenly Sent (Extended Edition)",
+        "url": "https://open.spotify.com/album/4mOX4ESm6Hy0UlzgWZ2t3Q"
       },
       "artists": [
         {
@@ -292,9 +292,9 @@
           "url": "https://open.spotify.com/artist/4GNC7GD6oZMSxPGyXy4MNB"
         }
       ],
-      "duration_ms": 218900,
-      "name": "Before You Go - Guitar Acoustic",
-      "url": "https://open.spotify.com/track/27829SWtwhWUANViVTEpol"
+      "duration_ms": 214438,
+      "name": "Strangers",
+      "url": "https://open.spotify.com/track/7jrI96onnEzgwPKacNJUCz"
     },
     {
       "added_at": null,

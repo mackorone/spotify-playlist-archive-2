@@ -1,12 +1,12 @@
 {
   "description": "The greatest indie love songs of all time. ",
-  "num_followers": 779111,
+  "num_followers": 779169,
   "original_name": "Indie Love Songs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFe3cc4QIdXkFSPYQkSUK+0tKW56",
+  "snapshot_id": "AAAAAAPwGLtKgL4L9Mq7Pt9tu8JjKEFb",
   "tracks": [
     {
       "added_at": "2026-02-19 14:58:26",
@@ -251,22 +251,6 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Inside In / Inside Out",
-        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
-      },
-      "artists": [
-        {
-          "name": "The Kooks",
-          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
-        }
-      ],
-      "duration_ms": 169306,
-      "name": "She Moves In Her Own Way",
-      "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
-    },
-    {
-      "added_at": "2026-02-19 14:58:26",
-      "album": {
         "name": "Bad Contestant",
         "url": "https://open.spotify.com/album/7I6d6PkjEJE50fnxhCwQ8M"
       },
@@ -279,6 +263,22 @@
       "duration_ms": 218754,
       "name": "As the World Caves In",
       "url": "https://open.spotify.com/track/3NM41PVVUr0ceootKAtkAj"
+    },
+    {
+      "added_at": "2026-02-19 14:58:26",
+      "album": {
+        "name": "Inside In / Inside Out",
+        "url": "https://open.spotify.com/album/03JPFQvZRnHHysSZrSFmKY"
+      },
+      "artists": [
+        {
+          "name": "The Kooks",
+          "url": "https://open.spotify.com/artist/1GLtl8uqKmnyCWxHmw9tL4"
+        }
+      ],
+      "duration_ms": 169306,
+      "name": "She Moves In Her Own Way",
+      "url": "https://open.spotify.com/track/5xoUgPXbMNUmoHU0Enwtwq"
     },
     {
       "added_at": "2026-02-19 14:58:26",
@@ -1219,18 +1219,18 @@
     {
       "added_at": "2026-02-19 14:58:26",
       "album": {
-        "name": "Me & You Together Song",
-        "url": "https://open.spotify.com/album/6RicVnt1SB39xCjG81RUDo"
+        "name": "Crazy For Your Love",
+        "url": "https://open.spotify.com/album/6bOAe5i2ZRu05c23ebUetQ"
       },
       "artists": [
         {
-          "name": "The 1975",
-          "url": "https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW"
+          "name": "JAWNY",
+          "url": "https://open.spotify.com/artist/25pd339V2rRJo84USlcSRP"
         }
       ],
-      "duration_ms": 209500,
-      "name": "Me & You Together Song",
-      "url": "https://open.spotify.com/track/4AQzk2yNWKs6sYhZi6NzVN"
+      "duration_ms": 141918,
+      "name": "Crazy For Your Love",
+      "url": "https://open.spotify.com/track/7H4AmFumKq3GtXcOLFYscR"
     }
   ],
   "unique_name": "Indie Love Songs",

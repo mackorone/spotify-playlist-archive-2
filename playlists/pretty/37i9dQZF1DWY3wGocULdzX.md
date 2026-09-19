@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 
 > ¡Qué rico el mambo! Cover: Machito
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,024 likes - 50 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,048 likes - 50 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 14 | [Wild Jungle \- 2000 Remaster](https://open.spotify.com/track/0uoOBKdEsBzqKjondmUTli) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Kenya](https://open.spotify.com/album/1BHUIrORQwywRkl5cjapQz) | 2:47 |
 | 15 | [Patricia](https://open.spotify.com/track/4jmFSkpcqLOUN6scGU6BOO) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [El Rey Del Mambo](https://open.spotify.com/album/0uOqCrRJCMMcyArm5wsv78) | 2:08 |
 | 16 | [El Yerbero](https://open.spotify.com/track/0Ix8RTtzO4v6lC8mlpXkVq) | [Charlie Palmieri and His Orchestra La Duboney](https://open.spotify.com/artist/1jqzqfKGgaSN517pbyIdRh) | [Salsa Na' Ma'](https://open.spotify.com/album/1ETJ89KjLOTBrBrAG2Dv8W) | 2:25 |
-| 17 | [Baile Mi Mambo](https://open.spotify.com/track/4hj0qM3g6ioPpDdBqBxVGK) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Besame Mucho and More Golden Hits](https://open.spotify.com/album/55iu99b3CQUneNy1hTeRig) | 3:07 |
+| 17 | [Complicación](https://open.spotify.com/track/1McWg1rZqA1AGhYojNff8c) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:20 |
 | 18 | [Saca Tu Mujer](https://open.spotify.com/track/6E2a4v0Sj2I5vAuaJb2UMO) | [Tito Puente & His Orchestra](https://open.spotify.com/artist/1zN5Et4jcH3XQ0b60IGmp1) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:04 |
 | 19 | [Si Si No No](https://open.spotify.com/track/0u7PjYa0zIkQSor0a3gFgJ) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Mi Amigo, Machito](https://open.spotify.com/album/2lKq4rYdg8Byf3O7EkiZap) | 3:16 |
 | 20 | [Pachito E Che](https://open.spotify.com/track/5ZYO9ETsTxLMXfhzSmUTfA) | [Beny Moré](https://open.spotify.com/artist/1Sp47peMTI9na8FTY4yHJw), [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Legends Of Cuban Music](https://open.spotify.com/album/6tviOtL10UFy6Or8rpjlfR) | 3:32 |
 | 21 | [The Peanut Vendor](https://open.spotify.com/track/2AW7BpJBv9AWlTiZwrP3pV) | [Pérez Prado](https://open.spotify.com/artist/1ZKhPkCXXgtiGgALn4OYtT) | [Mambos Favoritos de Perez Prado, Machito, Y Tito Puente](https://open.spotify.com/album/05QnOkGorplyXGfUdhSgQY) | 2:41 |
-| 22 | [Complicación](https://open.spotify.com/track/1McWg1rZqA1AGhYojNff8c) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Dance Mania Vol.1](https://open.spotify.com/album/1XjabdmwipT62cLSZV45SU) | 3:20 |
+| 22 | [Baile Mi Mambo](https://open.spotify.com/track/4hj0qM3g6ioPpDdBqBxVGK) | [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Besame Mucho and More Golden Hits](https://open.spotify.com/album/55iu99b3CQUneNy1hTeRig) | 3:07 |
 | 23 | [Buchipluma Na' Ma'](https://open.spotify.com/track/66eyTpvxV8aMlyR1gN6XHt) | [Charlie Palmieri](https://open.spotify.com/artist/1qNctKAgK8LDV3agmP8ukS) | [Two Brothers Two Legends](https://open.spotify.com/album/4znxzsJdCVRIdANotJMDwh) | 5:26 |
 | 24 | [Mambo Is Here to Stay](https://open.spotify.com/track/3NrVV0aTz1g2LNjucnWxMt) | [Machito](https://open.spotify.com/artist/3mdrgtEX1xhiauu3Pn06LL) | [Perlas Cubanas: Machito](https://open.spotify.com/album/6wvG0RnL3WVxvD74ekA0YA) | 2:59 |
 | 25 | [La Guarachera](https://open.spotify.com/track/3cSDem58zQegVmYCBEQgnL) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Tito Puente](https://open.spotify.com/artist/6SPpCqM8gOzrtICAxN5NuX) | [Fania Classics](https://open.spotify.com/album/5ZWa8mkn4xiKkF2iVDbWX9) | 2:44 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3wGocULdzX.md) - [plain]
 | 49 | [Mambo Manila](https://open.spotify.com/track/1GMFNZPL68pjtUQuQCyI7Y) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez \- Greatest Hits](https://open.spotify.com/album/0STlCm7OuAFQvXctPFGO40) | 3:10 |
 | 50 | [Blen, Blen, Blen](https://open.spotify.com/track/2fRVPaccC6WaKjiksPV7yl) | [Tito Rodriguez](https://open.spotify.com/artist/10n4KkyM4UDt4pf9H4aDlS) | [Tito Rodriguez \- El Inolvidable](https://open.spotify.com/album/2zD0H7q9bIaNpV13cMOSUg) | 3:15 |
 
-Snapshot ID: `AAAAANKCfhTFQTbAVZ8/XxWpp0F4+PWP`
+Snapshot ID: `AAAAAN1VqgB4WuexnKDFmhQXk2yJXCBi`

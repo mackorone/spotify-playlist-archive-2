@@ -71,6 +71,24 @@
     },
     {
       "album": {
+        "name": "Ain\u2019t In LA (Live) | Spotify RADAR",
+        "url": "https://open.spotify.com/album/13h1CO85SGwetCJI9CgL5U"
+      },
+      "artists": [
+        {
+          "name": "AD\u00c9LA",
+          "url": "https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182271,
+      "name": "Ain\u2019t In LA (Live) | Spotify RADAR",
+      "url": "https://open.spotify.com/track/2ssudX8IFcoWVqRTKbaeTY"
+    },
+    {
+      "album": {
         "name": "All Too Well: The Short Film",
         "url": "https://open.spotify.com/album/3X4GpQK5ZwoWzyLtFe0khh"
       },
@@ -184,7 +202,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 154261,
       "name": "Babydoll",
       "url": "https://open.spotify.com/track/0j6oaxFNCIJVCSXAci3MAg"
@@ -202,10 +220,32 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 202346,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/3gCEBalMhCFY4zWOLhzSWt"
+    },
+    {
+      "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/4DhVLtJCxv3P9Mn4ZeCZmy"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245870,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/1XrHykceUFs13WaIOHf2M8"
     },
     {
       "album": {
@@ -368,7 +408,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 242698,
       "name": "Borracho de Amor",
       "url": "https://open.spotify.com/track/7xYDdj5EpqjSG8gYjpfmQe"
@@ -430,6 +470,24 @@
       "duration_ms": 257898,
       "name": "Can of Worms",
       "url": "https://open.spotify.com/track/5lrxCHNa6AMbl55f02mlBk"
+    },
+    {
+      "album": {
+        "name": "cardigan",
+        "url": "https://open.spotify.com/album/5ssWLpZFyCIsot1SrMGPaW"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274524,
+      "name": "cardigan",
+      "url": "https://open.spotify.com/track/2lr8keLO8ErlW9tOQa3ieA"
     },
     {
       "album": {
@@ -856,7 +914,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 293376,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/5x2kR0EpPMXF2C8EnPR7kU"
@@ -1162,7 +1220,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 146249,
       "name": "It's Me",
       "url": "https://open.spotify.com/track/3cD5mr6KeFMlmgzAWdVZR7"
@@ -1558,7 +1616,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 192675,
       "name": "Mono No Aware - Live | Presented by Spotify",
       "url": "https://open.spotify.com/track/4OVcdR8O3sbwUYwJhoNMIo"
@@ -1598,6 +1656,24 @@
       "duration_ms": 219633,
       "name": "Nicole Kidman",
       "url": "https://open.spotify.com/track/4fBnFBSVjHfDv8dqXxKw05"
+    },
+    {
+      "album": {
+        "name": "No Me Suman",
+        "url": "https://open.spotify.com/album/4eXqF2Tw0wAE6b45QDfPVV"
+      },
+      "artists": [
+        {
+          "name": "Cris MJ",
+          "url": "https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183801,
+      "name": "No Me Suman",
+      "url": "https://open.spotify.com/track/3Ib6OQS7zUPW0FBmutoo25"
     },
     {
       "album": {
@@ -1688,7 +1764,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 274624,
       "name": "Ojos Brujos",
       "url": "https://open.spotify.com/track/3f7WBr2tv7KJ6uBHK67b3n"
@@ -1718,6 +1794,24 @@
       "duration_ms": 162505,
       "name": "OK (feat. Don Toliver)",
       "url": "https://open.spotify.com/track/0QUNl2qufcUU0ZiJq1srHX"
+    },
+    {
+      "album": {
+        "name": "Online",
+        "url": "https://open.spotify.com/album/4EGsaFq8tIo5gcxtdbYxlW"
+      },
+      "artists": [
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172800,
+      "name": "Online",
+      "url": "https://open.spotify.com/track/5jVfmvD9Q3U8CCPaltVODA"
     },
     {
       "album": {
@@ -1963,6 +2057,24 @@
     },
     {
       "album": {
+        "name": "Shake It Off",
+        "url": "https://open.spotify.com/album/0ybpykKhoW5LltMFxV2ALt"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243034,
+      "name": "Shake It Off",
+      "url": "https://open.spotify.com/track/17G7Y46fYsHY3r2cqWOZEC"
+    },
+    {
+      "album": {
         "name": "Sign of the Times",
         "url": "https://open.spotify.com/album/5NqwgBT4ZeQzVIr9r0YbxN"
       },
@@ -2028,7 +2140,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 196928,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
@@ -2090,6 +2202,24 @@
       "duration_ms": 216925,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4g9I4CSbPn5XREMrr0TNyF"
+    },
+    {
+      "album": {
+        "name": "Style",
+        "url": "https://open.spotify.com/album/0AINX7jMtPwho5vIh2sIBR"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243952,
+      "name": "Style",
+      "url": "https://open.spotify.com/track/0wcvnSPKvF9BzmNsY2Ohze"
     },
     {
       "album": {
@@ -2223,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "Tie Your Mother Down (Live in Budapest)",
+        "url": "https://open.spotify.com/album/6a06jNYsLlD5zcuemWQTy8"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 119765,
+      "name": "Tie Your Mother Down - Live in Budapest",
+      "url": "https://open.spotify.com/track/5LHP4a5vFrgiYYSSBK1lJK"
+    },
+    {
+      "album": {
         "name": "Touch",
         "url": "https://open.spotify.com/album/01ynN8qJ1KTcK71oIpocdJ"
       },
@@ -2234,7 +2382,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 138521,
       "name": "Touch",
       "url": "https://open.spotify.com/track/15dlnZCOoJgNh6C2kIe3z4"
@@ -2252,7 +2400,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 228437,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/708fgISg1S1a6GT2Q3gxIH"
@@ -2328,10 +2476,28 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 198485,
       "name": "WHERE IS MY HUSBAND!",
       "url": "https://open.spotify.com/track/3bb46U9c7d5IVGYpxlAGgj"
+    },
+    {
+      "album": {
+        "name": "You Belong With Me",
+        "url": "https://open.spotify.com/album/3AmbDhWpDYtGrJcI4rQGgd"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234651,
+      "name": "You Belong With Me",
+      "url": "https://open.spotify.com/track/3PK7gijh68pEcZO1TEDq2K"
     },
     {
       "album": {

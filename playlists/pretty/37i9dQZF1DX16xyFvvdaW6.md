@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 
 > Los mejores temas del Rock Cristiano\. ¡Dale al play y disfruta estos tremendos temazos!
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,694 likes - 60 songs - 4 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,712 likes - 60 songs - 4 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX16xyFvvdaW6.md) - [plain]
 | 59 | [Hazme Renacer](https://open.spotify.com/track/4lOIqFqpNHhONmN8I64hhe) | [Juan Restrepo](https://open.spotify.com/artist/0N8PYFGyD5VCHuQbAiCwu4), [Marco López](https://open.spotify.com/artist/61BYqEd2g505e6OWOUaxqy) | [Hazme Renacer](https://open.spotify.com/album/4ApJfmhyrElqgPj7k6GAIt) | 5:43 |
 | 60 | [Alaba](https://open.spotify.com/track/3gtKnR2a9bQMIB4OnSZ1JX) | [Banda Generasion](https://open.spotify.com/artist/6W6JOZ91tOgrLB4bdcGs3r) | [Yo Soy Generasion](https://open.spotify.com/album/0Q9uXsdYktit3JOb3LRsaV) | 5:24 |
 
-Snapshot ID: `AAAAAFGyFfgoQfnrmq1kvX5R8GV/7AoI`
+Snapshot ID: `AAAAAIffjhl0Z4Mlu21R+In4L+/Ec+r9`

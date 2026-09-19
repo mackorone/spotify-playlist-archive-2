@@ -14685,6 +14685,24 @@
     },
     {
       "album": {
+        "name": "Classic",
+        "url": "https://open.spotify.com/album/1UcpTP6wYotthmSrBtDg3X"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117073,
+      "name": "Classic",
+      "url": "https://open.spotify.com/track/5pLwQA52xYGDpK0EEEFRyF"
+    },
+    {
+      "album": {
         "name": "Clean Up",
         "url": "https://open.spotify.com/album/7mV6dK2LAdqizBLDenY51b"
       },
@@ -32401,6 +32419,24 @@
     },
     {
       "album": {
+        "name": "Harmony",
+        "url": "https://open.spotify.com/album/3kJbuSpcEHxSoJKROpvJfd"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 128888,
+      "name": "Harmony",
+      "url": "https://open.spotify.com/track/3QY1tpcHJRJupHyN3W99Rx"
+    },
+    {
+      "album": {
         "name": "Haru",
         "url": "https://open.spotify.com/album/4OsJpFV0JxQp9jUYEpeNx1"
       },
@@ -41106,7 +41142,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 153230,
       "name": "Krautology",
       "url": "https://open.spotify.com/track/3Zylvt4YmBroyRajWjzChM"
@@ -47718,7 +47754,7 @@
       ],
       "date_added": "2024-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 108923,
       "name": "Matura",
       "url": "https://open.spotify.com/track/615dueLshTDN5G4Rkvdh8g"
@@ -48712,7 +48748,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 99512,
       "name": "MIA",
       "url": "https://open.spotify.com/track/6MKZTI0G2RexXvKcCe8jsG"
@@ -51714,7 +51750,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 114146,
       "name": "Mosaics",
       "url": "https://open.spotify.com/track/1jVykeNDR8gZGpxV3bB7kI"
@@ -58582,7 +58618,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-18",
+      "date_removed": null,
       "duration_ms": 128873,
       "name": "Outlines",
       "url": "https://open.spotify.com/track/4kPeJwqxGDX7DJYFuOCQAF"
@@ -66091,6 +66127,28 @@
     },
     {
       "album": {
+        "name": "Room 388",
+        "url": "https://open.spotify.com/album/0yVQOvfZIL8ZZOAoo903wC"
+      },
+      "artists": [
+        {
+          "name": "terrarium.",
+          "url": "https://open.spotify.com/artist/7H9kbms3gRPcNY8L850Uxf"
+        },
+        {
+          "name": "Hopmax",
+          "url": "https://open.spotify.com/artist/4TfGlx7UAcN39yNgRy2tc7"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "Room 388",
+      "url": "https://open.spotify.com/track/5w3hSbpsxFytvVYrjEmIEb"
+    },
+    {
+      "album": {
         "name": "Room Full Of Strangers",
         "url": "https://open.spotify.com/album/4RCf3hLts6cQc0SJvOHrL1"
       },
@@ -68480,7 +68538,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 132413,
       "name": "Sentries",
       "url": "https://open.spotify.com/track/7DctRxkgO0VwCb3pAvtoI8"
@@ -72231,6 +72289,24 @@
     },
     {
       "album": {
+        "name": "Somewhere",
+        "url": "https://open.spotify.com/album/2tH0WniQaD92x1JpTxzyEO"
+      },
+      "artists": [
+        {
+          "name": "Screen Jazzmaster",
+          "url": "https://open.spotify.com/artist/0ccv58yNhOu5FERx9Kpvgt"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121481,
+      "name": "Somewhere",
+      "url": "https://open.spotify.com/track/03W7SAX0oTXQqWkeO1Eoql"
+    },
+    {
+      "album": {
         "name": "Sonaro",
         "url": "https://open.spotify.com/album/6wNkoOrREKlyFw1T2tJRGl"
       },
@@ -72336,7 +72412,7 @@
       ],
       "date_added": "2023-11-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 161743,
       "name": "Sonic Perfume",
       "url": "https://open.spotify.com/track/1ruJmvGgVhSXh7mvd4gNMM"
@@ -74536,7 +74612,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 131707,
       "name": "Still",
       "url": "https://open.spotify.com/track/3vovMmY8OLJIgqmFwr9iDx"

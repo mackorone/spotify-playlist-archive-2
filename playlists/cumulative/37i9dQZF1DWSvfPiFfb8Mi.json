@@ -2736,7 +2736,7 @@
       ],
       "date_added": "2023-05-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 202000,
       "name": "Freeway (with Estelle)",
       "url": "https://open.spotify.com/track/0dIfJUr08iuUos2rGg9uEJ"
@@ -8024,6 +8024,24 @@
       "duration_ms": 186123,
       "name": "Sumthin Crazy (with Rochelle Jordan)",
       "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
+    },
+    {
+      "album": {
+        "name": "Sunshine Club",
+        "url": "https://open.spotify.com/album/7yXe36K6wGEOmmEUkCyREu"
+      },
+      "artists": [
+        {
+          "name": "Engelwood",
+          "url": "https://open.spotify.com/artist/7rgCh0Go1ezmcV75kXQM2T"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228923,
+      "name": "Sunshine Club",
+      "url": "https://open.spotify.com/track/4Xj3Wv23iulVlBXOyHbM3s"
     },
     {
       "album": {

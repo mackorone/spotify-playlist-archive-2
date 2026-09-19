@@ -1,12 +1,12 @@
 {
   "description": "Strings and pianos to accompany your latest great read.",
-  "num_followers": 211813,
+  "num_followers": 211840,
   "original_name": "Instrumental Reading",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFJJ+tdjo7CNdvvLc1EFcBo3j2ae",
+  "snapshot_id": "AAAAADkivQli+8wLuI7QHYYiyCZH8umX",
   "tracks": [
     {
       "added_at": "2025-12-23 11:35:17",
@@ -743,6 +743,22 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
+        "name": "S\u00e9r\u00e9nit\u00e9",
+        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
+      },
+      "artists": [
+        {
+          "name": "J\u00e9r\u00e9mie Fauquet",
+          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
+        }
+      ],
+      "duration_ms": 108690,
+      "name": "S\u00e9r\u00e9nit\u00e9",
+      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
+    },
+    {
+      "added_at": "2025-12-23 11:35:17",
+      "album": {
         "name": "Giazotto: Adagio in G Minor \"Albinoni's Adagio\" (Arr. Awadis for Piano)",
         "url": "https://open.spotify.com/album/3khpEqL8Qj5DcOFIKMFQKh"
       },
@@ -767,18 +783,18 @@
     {
       "added_at": "2025-12-23 11:35:17",
       "album": {
-        "name": "S\u00e9r\u00e9nit\u00e9",
-        "url": "https://open.spotify.com/album/1XdeturncHpWMnATLRATPZ"
+        "name": "K\u00e4rlek",
+        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
       },
       "artists": [
         {
-          "name": "J\u00e9r\u00e9mie Fauquet",
-          "url": "https://open.spotify.com/artist/2JfYFXAwjWCX0EY9ZdPiob"
+          "name": "Ruben Fjellner",
+          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
         }
       ],
-      "duration_ms": 108690,
-      "name": "S\u00e9r\u00e9nit\u00e9",
-      "url": "https://open.spotify.com/track/4KwJZiykCwZTDNF8ArSMWZ"
+      "duration_ms": 148672,
+      "name": "K\u00e4rlek",
+      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
     },
     {
       "added_at": "2025-12-23 11:35:17",
@@ -795,22 +811,6 @@
       "duration_ms": 222909,
       "name": "Adventure",
       "url": "https://open.spotify.com/track/6hAQReL2lY2ygoJF0nXQic"
-    },
-    {
-      "added_at": "2025-12-23 11:35:17",
-      "album": {
-        "name": "K\u00e4rlek",
-        "url": "https://open.spotify.com/album/5zlFzaQwZqdmwEJuFkVzX8"
-      },
-      "artists": [
-        {
-          "name": "Ruben Fjellner",
-          "url": "https://open.spotify.com/artist/44oQBciAO9OkwefVrQUFLG"
-        }
-      ],
-      "duration_ms": 148672,
-      "name": "K\u00e4rlek",
-      "url": "https://open.spotify.com/track/3biDlhK0lzErVCKW1Yoafk"
     },
     {
       "added_at": "2025-12-23 11:35:17",

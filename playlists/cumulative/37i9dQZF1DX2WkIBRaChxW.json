@@ -5385,6 +5385,24 @@
     },
     {
       "album": {
+        "name": "Come To Me",
+        "url": "https://open.spotify.com/album/0tuUgEHfdSrC3IvPO4K88Y"
+      },
+      "artists": [
+        {
+          "name": "Luna Elle",
+          "url": "https://open.spotify.com/artist/76FMyQJ8BGZA762QQc0X8Q"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193813,
+      "name": "Come To Me",
+      "url": "https://open.spotify.com/track/0SatrQYxWoTKfiZR9hqv5W"
+    },
+    {
+      "album": {
         "name": "Come With Me",
         "url": "https://open.spotify.com/album/1H9pgl0ykNBD3NeZsk6Eve"
       },
@@ -7156,7 +7174,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 218472,
       "name": "Don't Remind Me (with Anderson .Paak)",
       "url": "https://open.spotify.com/track/7zptU3OZqdXe6qsRcpNWiS"
@@ -9610,7 +9628,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 218122,
       "name": "Friends Again",
       "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
@@ -10980,7 +10998,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 181706,
       "name": "heal something",
       "url": "https://open.spotify.com/track/5cF1qDDpSg5oPJDGCMv57X"
@@ -11697,6 +11715,28 @@
     },
     {
       "album": {
+        "name": "HYDRAULIC: FUELED UP",
+        "url": "https://open.spotify.com/album/4ivGfQt3Iy0ufQrehkvyzu"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        },
+        {
+          "name": "Teezo Touchdown",
+          "url": "https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208780,
+      "name": "HOUSTON (feat. TEEZO TOUCHDOWN)",
+      "url": "https://open.spotify.com/track/1gdWMROp3Jb8mK71KqWdYK"
+    },
+    {
+      "album": {
         "name": "Heart On My Sleeve",
         "url": "https://open.spotify.com/album/6p5jJLTFiYgk95HhW0unhy"
       },
@@ -11858,7 +11898,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 153568,
       "name": "I Been",
       "url": "https://open.spotify.com/track/25zKoVubfweF7RvWbdnII7"
@@ -13701,6 +13741,24 @@
     },
     {
       "album": {
+        "name": "Just Us In The Room",
+        "url": "https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168046,
+      "name": "Just Us In The Room",
+      "url": "https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg"
+    },
+    {
+      "album": {
         "name": "Justified",
         "url": "https://open.spotify.com/album/4w2TGNnhTZhZO7WsZJodye"
       },
@@ -14306,7 +14364,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 183293,
       "name": "Lady",
       "url": "https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu"
@@ -15780,7 +15838,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 165818,
       "name": "Love You Right",
       "url": "https://open.spotify.com/track/2J9y1Oub0bozZGztQVrfpa"
@@ -16732,7 +16790,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 223509,
       "name": "Might Just",
       "url": "https://open.spotify.com/track/16qnkRmdN75LgttNSXIxAa"
@@ -18562,7 +18620,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 197379,
       "name": "nobody has to know (with Ronald Isley)",
       "url": "https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3"
@@ -20497,6 +20555,28 @@
     },
     {
       "album": {
+        "name": "Pieces (Remix)",
+        "url": "https://open.spotify.com/album/5wsKCPX3VqZKXzvVUaVbzZ"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186421,
+      "name": "Pieces (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/71xigYhF7fHi2GEiwwMeo6"
+    },
+    {
+      "album": {
         "name": "PIMPIN'",
         "url": "https://open.spotify.com/album/1cfJseIIMHCbHoHj2IEmiB"
       },
@@ -20618,6 +20698,24 @@
       "duration_ms": 177562,
       "name": "Please Don't Fall In Love With Me",
       "url": "https://open.spotify.com/track/7jEpRsSusmGqKFISucMnV7"
+    },
+    {
+      "album": {
+        "name": "Plein Soleil",
+        "url": "https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205746,
+      "name": "Plein Soleil",
+      "url": "https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81"
     },
     {
       "album": {
@@ -21415,6 +21513,24 @@
     },
     {
       "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198549,
+      "name": "Put It Down",
+      "url": "https://open.spotify.com/track/69X834Yvjqp6tNOuGTsrGi"
+    },
+    {
+      "album": {
         "name": "Put On Repeat",
         "url": "https://open.spotify.com/album/7fkVD3CHttaBT4rnyEZiCN"
       },
@@ -21951,6 +22067,24 @@
     },
     {
       "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/4PEA7Ywknl77l6WM3DA9bP"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184737,
+      "name": "Red Eye",
+      "url": "https://open.spotify.com/track/3tv3nu2BNrKEbD6JaDDECz"
+    },
+    {
+      "album": {
         "name": "Red Rover",
         "url": "https://open.spotify.com/album/4ZYygbzb4lzQ8FlkibyGIV"
       },
@@ -22068,7 +22202,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 229133,
       "name": "Rendezvous - Blacksmith R&B Rerub",
       "url": "https://open.spotify.com/track/2A0lGgF7enMrO5IvE8kMTL"
@@ -26887,6 +27021,24 @@
     },
     {
       "album": {
+        "name": "These Days",
+        "url": "https://open.spotify.com/album/2ok0t0EGlpNAdnSrDuQt1j"
+      },
+      "artists": [
+        {
+          "name": "Faiza",
+          "url": "https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172413,
+      "name": "These Days",
+      "url": "https://open.spotify.com/track/3SRlVBEKrbZ2eV7281uH7q"
+    },
+    {
+      "album": {
         "name": "THIN WALLS",
         "url": "https://open.spotify.com/album/0Aus2L4LbK805hUmCHsm7P"
       },
@@ -30584,6 +30736,24 @@
       "duration_ms": 182845,
       "name": "Yeah Yeah",
       "url": "https://open.spotify.com/track/3VSBjeNW4XzxPdE2yaJNHR"
+    },
+    {
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173868,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"
     },
     {
       "album": {

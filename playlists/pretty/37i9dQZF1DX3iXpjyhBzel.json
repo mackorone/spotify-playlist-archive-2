@@ -1,12 +1,12 @@
 {
   "description": "A m\u00fasica certa para o seu momento de adora\u00e7\u00e3o. Foto: Valesca Mayssa",
-  "num_followers": 1218679,
+  "num_followers": 1218814,
   "original_name": "Louvor & Adora\u00e7\u00e3o",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKxLUSKk1pkJiSfseFkwFlUQy3wN",
+  "snapshot_id": "AAAAAChSxpNgeiTA6HrG7IjPnrS3C1Fp",
   "tracks": [
     {
       "added_at": "2026-08-17 18:39:22",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
+        "name": "Toda Terra (Ao Vivo)",
+        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 519302,
+      "name": "Toda Terra - Ao Vivo",
+      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
         "name": "COMUNH\u00c3O - Fernandinho Em Casa, vol. 2 (Ao Vivo)",
         "url": "https://open.spotify.com/album/0bDmTYJxrUlLdVEWdtsyg5"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 312426,
       "name": "Na Comunh\u00e3o - Ao Vivo",
       "url": "https://open.spotify.com/track/0ISYegqyS3fP4C1aMuR65b"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
-        "name": "Toda Terra (Ao Vivo)",
-        "url": "https://open.spotify.com/album/0xU9l010M4DiRiM0E8CWDt"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 519302,
-      "name": "Toda Terra - Ao Vivo",
-      "url": "https://open.spotify.com/track/409bxok0eao5dfqJfL3Mot"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
+        "name": "F\u00e9 Para O Imposs\u00edvel",
+        "url": "https://open.spotify.com/album/4vmCARn8Gmc9Uodx8aaJGE"
+      },
+      "artists": [
+        {
+          "name": "Eli Soares",
+          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
+        }
+      ],
+      "duration_ms": 260506,
+      "name": "F\u00e9 Para O Imposs\u00edvel",
+      "url": "https://open.spotify.com/track/0OSnHMH7SVZT9CgA2DMu4x"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
         "name": "Fiel \u00e9 Deus",
         "url": "https://open.spotify.com/album/2DxTfnkSxyNWz6PfsQUZKb"
       },
@@ -679,22 +695,6 @@
       "duration_ms": 503584,
       "name": "Fiel \u00e9 Deus",
       "url": "https://open.spotify.com/track/1EzlXvFPrQ8d7Ar4L9kOSx"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
-        "name": "F\u00e9 Para O Imposs\u00edvel",
-        "url": "https://open.spotify.com/album/4vmCARn8Gmc9Uodx8aaJGE"
-      },
-      "artists": [
-        {
-          "name": "Eli Soares",
-          "url": "https://open.spotify.com/artist/5zblJYkCzvB51Jh29FB07V"
-        }
-      ],
-      "duration_ms": 260506,
-      "name": "F\u00e9 Para O Imposs\u00edvel",
-      "url": "https://open.spotify.com/track/0OSnHMH7SVZT9CgA2DMu4x"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
+        "name": "Deus Est\u00e1 Aqui (Medley)",
+        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 283648,
+      "name": "Deus Est\u00e1 Aqui (Medley)",
+      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
         "name": "Messias (Ao Vivo)",
         "url": "https://open.spotify.com/album/1yaEBtVZ5GtJW7xKIor9Iu"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 489442,
       "name": "Messias - Ao Vivo",
       "url": "https://open.spotify.com/track/4mIyeVe11htVAzz2gVNmJk"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
-        "name": "Deus Est\u00e1 Aqui (Medley)",
-        "url": "https://open.spotify.com/album/4JKl5GeTte3fPKg4sRzO0G"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 283648,
-      "name": "Deus Est\u00e1 Aqui (Medley)",
-      "url": "https://open.spotify.com/track/3jbkfF5kFYJiEN1XnCLKcN"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1531,22 +1531,6 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
-      },
-      "artists": [
-        {
-          "name": "Alexsander Lucio",
-          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
-        }
-      ],
-      "duration_ms": 624000,
-      "name": "O Fogo Arder\u00e1 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
         "name": "A Promessa Nasceu",
         "url": "https://open.spotify.com/album/49q3KwfTAqchT3bQM82nzF"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 306103,
       "name": "A Promessa Nasceu",
       "url": "https://open.spotify.com/track/0cXgwmIeq1KdakfFPK8VUr"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
+        "name": "O Fogo Arder\u00e1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4rd6xVSZfkwaltIFTmZWNe"
+      },
+      "artists": [
+        {
+          "name": "Alexsander Lucio",
+          "url": "https://open.spotify.com/artist/2xX3xodC7zA5u2xygCWzuP"
+        }
+      ],
+      "duration_ms": 624000,
+      "name": "O Fogo Arder\u00e1 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6ATNNv8tZF61fa7VwDH89j"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "Escape / Nunca Pare de Lutar",
-        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
-      },
-      "artists": [
-        {
-          "name": "Jadson Moreno",
-          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
-        }
-      ],
-      "duration_ms": 565252,
-      "name": "Escape / Nunca Pare de Lutar",
-      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
         "name": "A Boa Parte (Ao Vivo)",
         "url": "https://open.spotify.com/album/5IqoYCPu71fVQLw2yyyYKC"
       },
@@ -1795,6 +1779,22 @@
       "duration_ms": 476736,
       "name": "Tu \u00e9s + \u00c1guas Purificadoras - Ao vivo",
       "url": "https://open.spotify.com/track/2xVe3wMbesHcOhqW8OoyS8"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
+        "name": "Escape / Nunca Pare de Lutar",
+        "url": "https://open.spotify.com/album/4TbHIqNcUNuIYN9Btkcc4q"
+      },
+      "artists": [
+        {
+          "name": "Jadson Moreno",
+          "url": "https://open.spotify.com/artist/0al9OSYU79AxFJ1fVg8b23"
+        }
+      ],
+      "duration_ms": 565252,
+      "name": "Escape / Nunca Pare de Lutar",
+      "url": "https://open.spotify.com/track/2EDMmkfZgZQ8OyjuQNmhu9"
     },
     {
       "added_at": "2026-08-17 18:39:22",
@@ -1847,22 +1847,6 @@
     {
       "added_at": "2026-08-17 18:39:22",
       "album": {
-        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
-      },
-      "artists": [
-        {
-          "name": "Gabriela Rocha",
-          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
-        }
-      ],
-      "duration_ms": 208025,
-      "name": "Estrela da Manh\u00e3 - Ao Vivo",
-      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
-    },
-    {
-      "added_at": "2026-08-17 18:39:22",
-      "album": {
         "name": "\u00danico (Ao Vivo)",
         "url": "https://open.spotify.com/album/4V1GgFslsRjZLpAYow6hfT"
       },
@@ -1879,6 +1863,22 @@
       "duration_ms": 456676,
       "name": "\u00danico - Ao vivo",
       "url": "https://open.spotify.com/track/7hLh6ZRE6A561kKUi6jfre"
+    },
+    {
+      "added_at": "2026-08-17 18:39:22",
+      "album": {
+        "name": "Estrela da Manh\u00e3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1x5q27NqrvZTbqaOccQKfD"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Rocha",
+          "url": "https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto"
+        }
+      ],
+      "duration_ms": 208025,
+      "name": "Estrela da Manh\u00e3 - Ao Vivo",
+      "url": "https://open.spotify.com/track/6niSlio5eTouP2xa9Ziu30"
     },
     {
       "added_at": "2026-08-17 18:39:22",

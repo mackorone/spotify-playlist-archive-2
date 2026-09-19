@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bail",
-  "num_followers": 74660,
+  "num_followers": 74688,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPBKzQ+pnXK1eJZZtX6NjMJqevBS",
+  "snapshot_id": "AAAAAAClHmKBARI2QGTuY5pwt9uGBaT2",
   "tracks": [
     {
       "added_at": "2026-09-11 07:16:07",
@@ -273,6 +273,30 @@
       "url": "https://open.spotify.com/track/3AULsVItJdXnbJ6mIwZKb8"
     },
     {
+      "added_at": "2026-09-18 06:10:38",
+      "album": {
+        "name": "Hey Radhe Hey Radhe (From \"Manikanta\")",
+        "url": "https://open.spotify.com/album/5Q6SVhjmsbF5KResKYEJMF"
+      },
+      "artists": [
+        {
+          "name": "Swaroop.R",
+          "url": "https://open.spotify.com/artist/2PthYVohS3cQTQaRgxNTwA"
+        },
+        {
+          "name": "Abhishek M R",
+          "url": "https://open.spotify.com/artist/2SXCXOoQxoRfHwtHaRwt97"
+        },
+        {
+          "name": "Meghana Haliyal",
+          "url": "https://open.spotify.com/artist/2IVFHDXsOnIyrfA2BQ4f9i"
+        }
+      ],
+      "duration_ms": 245151,
+      "name": "Hey Radhe Hey Radhe (From \"Manikanta\")",
+      "url": "https://open.spotify.com/track/20hIRjY9AX27d5bqlfIZTM"
+    },
+    {
       "added_at": "2026-09-16 08:44:14",
       "album": {
         "name": "Doora",
@@ -397,6 +421,26 @@
       "url": "https://open.spotify.com/track/0d7eIPrTrBL0SY1krUxqsD"
     },
     {
+      "added_at": "2026-09-18 06:10:38",
+      "album": {
+        "name": "Matte Male Hoyyuthide",
+        "url": "https://open.spotify.com/album/5bl1X6KNTh9gLv6m7ZvJrc"
+      },
+      "artists": [
+        {
+          "name": "Armaan Malik",
+          "url": "https://open.spotify.com/artist/4IKVDbCSBTxBeAsMKjAuTs"
+        },
+        {
+          "name": "Ankita Kundu",
+          "url": "https://open.spotify.com/artist/0AyBrWlYwDQOsrN1xxOmkG"
+        }
+      ],
+      "duration_ms": 249432,
+      "name": "Mana Manadi",
+      "url": "https://open.spotify.com/track/4FEoqOxLvdb9vHK7q7Vi9q"
+    },
+    {
       "added_at": "2026-09-16 08:44:14",
       "album": {
         "name": "Kumari Kumari (From \"Bail\")",
@@ -404,8 +448,8 @@
       },
       "artists": [
         {
-          "name": "B.Ajaneesh Loknath",
-          "url": "https://open.spotify.com/artist/6ncB0IMCeWkFVxAxypR846"
+          "name": "B. Ajaneesh Loknath",
+          "url": "https://open.spotify.com/artist/3PjvC3vaZ6wh5FK6PZ4Dd5"
         },
         {
           "name": "Nakash Aziz",

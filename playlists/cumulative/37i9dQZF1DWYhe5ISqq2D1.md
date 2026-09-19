@@ -8,7 +8,7 @@
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 | 2025-12-16 |  |
+| [\(how could i be\)honest?](https://open.spotify.com/track/7s0ygb2NL1HadOECm3fv6D) | [Rol3ert](https://open.spotify.com/artist/3fJfvyieATQfDE47J42H2E) | [\(how could i be\)honest?](https://open.spotify.com/album/3vZxVziBLKSPLzXjxGhasl) | 3:29 | 2025-12-16 | 2026-09-19 |
 | [\(I keep reaching but\) the light is far](https://open.spotify.com/track/21uv2vOAAnRXTj0ZYjNgfU) | [Skirt](https://open.spotify.com/artist/08mohCeV7TXJ7EASM6u6Cc) | [\(I keep reaching but\) the light is far](https://open.spotify.com/album/3mOmkItwWWARVN2v9BakWl) | 3:05 | 2025-07-08 | 2025-07-16 |
 | [0.2mm](https://open.spotify.com/track/2TIYGZ9G65jf1FcwF9iknF) | [大森元貴](https://open.spotify.com/artist/4gwWRJBdufvMEHUuyjBDOs) | [OITOMA](https://open.spotify.com/album/3t6vgq00zaSOviMFDdKVAx) | 4:38 | 2026-02-24 |  |
 | [0821\_a](https://open.spotify.com/track/3dcFxSx1vIKmRouPHBWYmF) | [Natsuko Nisshoku](https://open.spotify.com/artist/4GnFg9D7Ds99UI0r5t9PZK) | [Nisshoku Natsuko 15th Anniversary BEST \- Fly\-by2024\-](https://open.spotify.com/album/7gmE43E3l6qPzX5muaklAK) | 5:39 | 2024-09-17 | 2024-10-02 |
@@ -897,7 +897,7 @@
 | [さめたら](https://open.spotify.com/track/45ec4no1a8ldwA7Lsy0SNe) | [沼澤成毅](https://open.spotify.com/artist/3eRCuEr1wEzlAs0E8MNqfL) | [さめたら](https://open.spotify.com/album/5Mqhkp7RXXMcuEyXOk0rDh) | 4:38 | 2026-08-25 | 2026-09-02 |
 | [さよなら](https://open.spotify.com/track/4uY7DMgia3paEqmoQ7z70H) | [REI](https://open.spotify.com/artist/3aruVsemnfqahIh1CnlcLH) | [さよなら](https://open.spotify.com/album/3PT6GvWneQu7jkvfRNvQ36) | 3:33 | 2026-04-07 | 2026-04-15 |
 | [さよなら \- SAYONARA](https://open.spotify.com/track/43IaIzIRWI2NZUDbNNtwvV) | [山本大斗](https://open.spotify.com/artist/1KA2TRTtiLfWAN7HQBB3su) | [さよなら \- SAYONARA](https://open.spotify.com/album/4CjOPYsmKKnpMFHNLj0yxr) | 3:06 | 2025-09-03 | 2025-09-17 |
-| [さよならお姫様](https://open.spotify.com/track/3bZDd3fAih3vw4P2iMDaHU) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [さよならお姫様](https://open.spotify.com/album/1P3drMv5LeVRY8Kqa2pgFP) | 2:24 | 2026-09-08 | 2026-09-16 |
+| [さよならお姫様](https://open.spotify.com/track/3bZDd3fAih3vw4P2iMDaHU) | [音田 雅則](https://open.spotify.com/artist/7KSbqXHO0xzNQhzaIWILIo) | [さよならお姫様](https://open.spotify.com/album/1P3drMv5LeVRY8Kqa2pgFP) | 2:24 | 2026-09-08 |  |
 | [さよならグリーンデイズ](https://open.spotify.com/track/291VbkPlmKHPG89TVoFtMk) | [ぼっちぼろまる](https://open.spotify.com/artist/62DFXFLKdUqfpvVmJbXAyo) | [さよならグリーンデイズ](https://open.spotify.com/album/3o4iSnn6UpvYEYR9N3JnEU) | 4:09 | 2025-11-04 | 2025-11-12 |
 | [さよなら肩パッド](https://open.spotify.com/track/3Edmg04CcnZLLphU8ul87T) | [MHRJ](https://open.spotify.com/artist/5N22lbGgYS8PIR9or5LIIF), [浜野謙太](https://open.spotify.com/artist/4JJs67r1TPFUWtlywvQLK0) | [さよなら肩パッド](https://open.spotify.com/album/03Z1R0V4RUgVjUmPBZvAtn) | 3:19 | 2026-09-01 | 2026-09-09 |
 | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/track/6jRyCWUAnRVir3OK4jSZvV) | [Kenshi Yonezu](https://open.spotify.com/artist/1snhtMLeb2DYoMOcVbb8iB) | [さよーならまたいつか！\- Sayonara](https://open.spotify.com/album/3c9L5LsKV4lIK14pxGu0SG) | 3:21 | 2024-07-02 | 2024-12-25 |

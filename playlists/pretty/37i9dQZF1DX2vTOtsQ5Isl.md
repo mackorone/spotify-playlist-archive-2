@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 
 > Gorące nowości i przeboje od światowych gwiazd muzyki pop\. Cover: Miley Cyrus
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,121 likes - 60 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,260 likes - 60 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2vTOtsQ5Isl.md) - [plain]
 | 59 | [CAN I WATCH YOU \(feat\. Pharrell Williams\)](https://open.spotify.com/track/25kqjl0To6q08zgnRkKqE1) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Pharrell Williams](https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8) | [B'DAY \(20th ANNIVERSARY DELUXE EDITION\)](https://open.spotify.com/album/1P4dRFaQjFO5bfQKGSCOtW) | 3:36 |
 | 60 | [crank 2](https://open.spotify.com/track/6LMdNshhDtSq5pUSlPjTsE) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [crank 2](https://open.spotify.com/album/3mG3Hvwq8rF1yfY8zQPpwC) | 3:19 |
 
-Snapshot ID: `AAAAALitpi/yTh9mhEsoHVbaMtS/bHon`
+Snapshot ID: `AAAAABXPRGoy9nm2CWhoQxd1WigWRR5S`

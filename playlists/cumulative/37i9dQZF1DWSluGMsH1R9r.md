@@ -4,7 +4,7 @@
 
 > Calm piano music for enhanced concentration.
 
-805 songs - 1 day 10 hr 27 min
+807 songs - 1 day 10 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -506,6 +506,7 @@
 | [Opportunity Knocks](https://open.spotify.com/track/1T81HdwFZ2bzZYBFZ6tc13) | [John Deigen](https://open.spotify.com/artist/15uysw3q7CD404iYaCUxs3) | [Opportunity Knocks](https://open.spotify.com/album/1FU0Aw1hWxy8SHBsMV5zd2) | 2:29 | 2021-12-07 | 2022-04-21 |
 | [Opus 5](https://open.spotify.com/track/3kkgprUeiPDV0nDQerhq9h) | [Karol Seifert](https://open.spotify.com/artist/3IQYEJG6lpSmC3r4NfWB9m) | [Opus 5](https://open.spotify.com/album/264MR7dpX3eMMMctQ26xRz) | 2:45 | 2022-02-15 | 2025-02-27 |
 | [Ordinary Thoughts](https://open.spotify.com/track/6J6q6ejP39h9FqE5d9EdBp) | [Thom Nelson](https://open.spotify.com/artist/4o5K7rIpvDyPmdNWvt9XY1) | [Ordinary Thoughts](https://open.spotify.com/album/1QEAfHDzflVLqXUkckRzMw) | 2:23 | 2025-05-13 | 2025-09-17 |
+| [Oriental Stillness](https://open.spotify.com/track/2BGImniHULJiPxWF78mHVM) | [Medhi Tate](https://open.spotify.com/artist/5EOHMF3L8Jtte0cid9DWS4) | [Oriental Stillness](https://open.spotify.com/album/2lnUgz7TljNVYPMmg059t6) | 2:39 | 2026-09-18 |  |
 | [Our Time Will Come](https://open.spotify.com/track/1z4bpvqPgnfUg9fkykQp0D) | [Tim Karlsen](https://open.spotify.com/artist/3I0dZZLw0lTrptPX7nNc59) | [Our Time Will Come](https://open.spotify.com/album/2CrrbexAFC9h2NUTLveyt5) | 2:34 | 2023-09-18 | 2025-04-10 |
 | [Over and over again](https://open.spotify.com/track/3xsVn4oDC1yAvquezhsGwr) | [NOIR](https://open.spotify.com/artist/1jd7mfHRsQszG278XirWDC) | [Over and over again](https://open.spotify.com/album/19EkqaFNdzEhPyF9YaGDG7) | 2:12 | 2023-01-26 | 2023-10-19 |
 | [Overseas](https://open.spotify.com/track/0JUMYfwgrUdd5GtAGtQiAu) | [Alix Claude](https://open.spotify.com/artist/2IxTniy4sAptAfXe0WgwLD) | [Overseas](https://open.spotify.com/album/69fZyItEkoker9n2FNey1x) | 1:51 | 2026-05-22 |  |
@@ -663,6 +664,7 @@
 | [Sun Burst](https://open.spotify.com/track/5HVNys0JzY4zi3slDnU0Bv) | [Christopher Dicker](https://open.spotify.com/artist/3WrvWolT9GYQzCudBunNu3) | [Perceptions](https://open.spotify.com/album/2cAim7maiyIf86Y6PTdnrX) | 2:23 | 2022-07-28 | 2023-10-05 |
 | [Sun Crosses The Sky](https://open.spotify.com/track/5WoQSCilkcY6MbXlFgoAH2) | [Anon Berg](https://open.spotify.com/artist/22Eb4qC99mAt3X4vMYktBg) | [Sun Crosses The Sky](https://open.spotify.com/album/7irh1OArC4jbOvw6UDNE1z) | 2:35 | 2021-12-07 | 2024-04-19 |
 | [Sunday](https://open.spotify.com/track/4jOQwNjLa0oejVoopzY7Gx) | [Levi Jacob](https://open.spotify.com/artist/2dv3nI6plW2rvqyOelBUAa) | [Roundabout](https://open.spotify.com/album/6b53thMzbMzq31mspTVAQW) | 2:25 | 2022-02-01 | 2025-05-31 |
+| [Sunlight On Her Cheek](https://open.spotify.com/track/4bQfsF4r3GDqwhQk96vOze) | [Poets Heart](https://open.spotify.com/artist/3KmMTvlK6DdRGizAt8qrnG) | [Sunlight On Her Cheek](https://open.spotify.com/album/7ckysMAWOxctsoyMwhV51l) | 2:23 | 2026-09-18 |  |
 | [Sunshine memories](https://open.spotify.com/track/7mTOT3NtThBfjth797MRD1) | [Ava Cerasoli](https://open.spotify.com/artist/2zMMspLbw3KFWxxf8KCQLl) | [Sunshine memories](https://open.spotify.com/album/415BxT3uG0LXopWxVtfueb) | 1:45 | 2023-07-04 | 2023-07-25 |
 | [Sweet Cherie](https://open.spotify.com/track/1ElNuIHucvUavBEg4IFtSx) | [Bernadine Richter](https://open.spotify.com/artist/5EUn1FMsnRUZTJsmXuDy0z) | [Sweet Cherie](https://open.spotify.com/album/3djxMnVkD678tgExMCQqpD) | 3:07 | 2021-12-07 | 2022-07-16 |
 | [Sweet Redolence](https://open.spotify.com/track/0BXq9t3wTA8HMqFPvGxZYf) | [Cedric Armfeldt](https://open.spotify.com/artist/3llSwjdelb4sV1khXfWFPQ) | [Sweet Redolence](https://open.spotify.com/album/2BkNgqpxRpu2lMH2yi0FJC) | 1:54 | 2021-12-07 | 2022-07-16 |

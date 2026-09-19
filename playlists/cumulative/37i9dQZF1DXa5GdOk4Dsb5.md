@@ -2,9 +2,9 @@
 
 ### [Parceros 🤝 Compas](https://open.spotify.com/playlist/37i9dQZF1DXa5GdOk4Dsb5)
 
-> Reforzando la alianza Colombia\-México\. Con Natanael Cano en portada.
+> Reforzando la alianza Colombia\-México\. Con Luis Alfonso, Xavi y Silvestre Dangond en portada.
 
-427 songs - 22 hr 41 min
+428 songs - 22 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [Repítela](https://open.spotify.com/track/6syqaRHW4FsOgdGgoWvAb1) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Repítela](https://open.spotify.com/album/1S3Ao9VsfFF9v8azLqaM29) | 3:29 | 2022-06-08 | 2022-07-28 |
 | [Resultó Muy Perra \(Me Dejó Solito\)](https://open.spotify.com/track/0JfDDmD5vuNYpwQj4FCxdj) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Resultó Muy Perra \(Me Dejó Solito\)](https://open.spotify.com/album/2VKqdkvlANFAc3AhrYFeyj) | 2:24 | 2022-06-08 | 2022-12-31 |
 | [ROSONES](https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC) | [Jorsshh](https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG), [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [ROSONES](https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen) | 2:58 | 2026-07-17 |  |
+| [Sabor a Tequila](https://open.spotify.com/track/2Yf4vYhuvTeoV2AaisltKc) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sabor a Tequila](https://open.spotify.com/album/1GVyTNO2C4Xd4qwBNe0iaX) | 3:22 | 2026-09-18 |  |
 | [Salud por Él](https://open.spotify.com/track/0RcDaioRDGeIXNzMGle1Jx) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Salud por Él](https://open.spotify.com/album/1GOljII4jHDsLbYmAkypyo) | 3:46 | 2022-06-08 | 2022-07-29 |
 | [Se Me Olvidó Otra Vez](https://open.spotify.com/track/6Y3AwA8UfVSDjeMrdJyjLK) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [15 Anos De Exitos](https://open.spotify.com/album/0raOnVnK8S60UkiSpIzVIY) | 2:57 | 2022-06-08 | 2022-12-31 |
 | [Según Quién](https://open.spotify.com/track/4bw8mcDUSRWfQo63ZTYRnU) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Don Juan](https://open.spotify.com/album/3Fk8yQvPlCHgwR2pNhEIRA) | 2:22 | 2026-07-17 |  |
@@ -413,7 +414,7 @@
 | [Veinte Años](https://open.spotify.com/track/1t67fCJnJsszjnCSpY8gfs) | [Romulo Caicedo](https://open.spotify.com/artist/7gr3mvchhyMrwNRvNUT2YF) | [Mi Consentida](https://open.spotify.com/album/3wFU7VA0XGVwuY0sZm95qH) | 3:01 | 2023-04-14 | 2024-04-19 |
 | [Vete](https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Vete](https://open.spotify.com/album/0Py5k3RPR4YGEPzH3Rq2I4) | 3:09 | 2026-07-17 |  |
 | [Vete Ya](https://open.spotify.com/track/68KxNaYseDqDC1xlTSbLL0) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Gabito Ballesteros](https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf) | [Vete Ya](https://open.spotify.com/album/3YLjdhKEcFnwrQve9vVaOY) | 2:37 | 2023-02-14 | 2023-04-15 |
-| [Vive Tu Vida](https://open.spotify.com/track/3DzNgv4wLRfR90ZKl5raAZ) | [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Vive Tu Vida](https://open.spotify.com/album/1b4CTfE2CODXCgSIW0nXSY) | 2:37 | 2026-07-17 |  |
+| [Vive Tu Vida](https://open.spotify.com/track/3DzNgv4wLRfR90ZKl5raAZ) | [Sebastián Ayala](https://open.spotify.com/artist/2lMpNav4JbeQ3XuPp6yNPv), [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx) | [Vive Tu Vida](https://open.spotify.com/album/1b4CTfE2CODXCgSIW0nXSY) | 2:37 | 2026-07-17 | 2026-09-19 |
 | [Volver, Volver](https://open.spotify.com/track/5OaEtJsd7WtbdboLWZkrGz) | [Johan Sanabria](https://open.spotify.com/artist/1K3jKSzJRcwgOMJBgMxqdn) | [Volver, Volver](https://open.spotify.com/album/6ojcdccmCGh3ncp9jvWWn6) | 3:03 | 2026-09-04 |  |
 | [Volver, Volver](https://open.spotify.com/track/4Fvnz1ZJ86IdqDAepWYPAh) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [Arriba Huentitan](https://open.spotify.com/album/5C4hWSmiBTcTKbBGB4ILx9) | 3:00 | 2022-06-08 | 2022-12-13 |
 | [Volviste Tarde](https://open.spotify.com/track/1N0DeNbKI2PjESx1xUIvbM) | [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Volviste Tarde](https://open.spotify.com/album/5PmEyL1R6hETTJERszjbFe) | 4:19 | 2023-04-14 | 2025-12-28 |

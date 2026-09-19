@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 
 > Um apanhado do soul brasileiro para animar e dançar\. Foto: Liniker
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,504 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,511 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVJE8hP95f7v.md) - [plain]
 | 74 | [Newsroom Costumers](https://open.spotify.com/track/0Wz0QhOSNyRsNsABrQtlrP) | [Ed Motta](https://open.spotify.com/artist/19nFjml2GjS4LuL4NrDa7D) | [Behind the Tea Chronicles](https://open.spotify.com/album/2NRg9UqRH3YFWJG7XEwba9) | 4:54 |
 | 75 | [Se Bem](https://open.spotify.com/track/0oXf1XVXo3Qsm0eqx1pJvo) | [Rívia](https://open.spotify.com/artist/04YyFN1zuxkeu8EH5QWUsm), [Mais Q](https://open.spotify.com/artist/4zkwAP5pD0ZS1JW6mU7ijF) | [Cores](https://open.spotify.com/album/5378Ek1OzMLVklal3J7Nyu) | 3:33 |
 
-Snapshot ID: `AAAAAE+Rbx6tJ8Aow1aeCxsa45LSFCny`
+Snapshot ID: `AAAAAEvm+G5/NyE24gmcmbcKogltPQRs`

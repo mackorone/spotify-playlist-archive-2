@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 
 > The best in new rock\. Cover: Vana
 
-[Spotify](https://open.spotify.com/user/spotify) - 97,367 likes - 80 songs - 4 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 97,373 likes - 80 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 17 | [Blushing](https://open.spotify.com/track/1f6kL5n8crEcT4dI5iDjA7) | [Bugs](https://open.spotify.com/artist/6kjbCSFaHOo2deId1wSaeL) | [HEAD NOISE](https://open.spotify.com/album/6PZB7q0t1EnxqCzol3H3xZ) | 4:59 |
 | 18 | [My Whole World](https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [My Whole World](https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe) | 4:07 |
 | 19 | [lamb \(feat\. Kellin Quinn\)](https://open.spotify.com/track/4KcJQSNtKzqi42wAdhlIml) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [lamb \(feat\. Kellin Quinn\)](https://open.spotify.com/album/6q5Ifer7omoq9iBJ6tADaP) | 2:24 |
-| 20 | [Track 5](https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Lethal Devotion](https://open.spotify.com/album/3KpYEsXJKOxJUQI2IyoMzk) | 0:00 |
+| 20 | [Hypoxia](https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Lethal Devotion](https://open.spotify.com/album/3KpYEsXJKOxJUQI2IyoMzk) | 5:21 |
 | 21 | [Without You](https://open.spotify.com/track/4kwpYZxSMhp8sETJ77csWc) | [Polaris](https://open.spotify.com/artist/0v2e0oznnTaIXKLGKHphfX) | [Without You](https://open.spotify.com/album/3w0DTk4Sbocn0So22geTLR) | 4:05 |
 | 22 | [Dying In Reverse](https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD) | [Cage The Elephant](https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3) | [Dying In Reverse](https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx) | 3:54 |
 | 23 | [Katy Bar the Door](https://open.spotify.com/track/3VApbvq1y9u4VgV8GxXN5i) | [Rise Against](https://open.spotify.com/artist/6Wr3hh341P84m3EI8qdn9O) | [Katy Bar the Door / Living Undercover](https://open.spotify.com/album/68cC5stW1SQBptOMnywDbs) | 3:25 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7VfcxcuiL8Z.md) - [plain]
 | 79 | [Runaways](https://open.spotify.com/track/3fQLQSOhijzOC6W1NPhYle) | [The Temper Trap](https://open.spotify.com/artist/4W48hZAnAHVOC2c8WH8pcq) | [Sungazer](https://open.spotify.com/album/2N4iGvv8PwZdJQL3rNQlrh) | 4:19 |
 | 80 | [C.E.O.](https://open.spotify.com/track/6ZsVaTDPoRFCX9evH3x1U7) | [Weezer](https://open.spotify.com/artist/3jOstUTkEu2JkjvRdBA5Gu) | [C.E.O.](https://open.spotify.com/album/02x4x22HOnv0j9Zk1FJpeY) | 2:54 |
 
-Snapshot ID: `AAAAACcUer7bgWnRGffYaf/5cpDGW2MZ`
+Snapshot ID: `AAAAACwLB1JUJgv0GOPD4OjNDKRU7bYC`

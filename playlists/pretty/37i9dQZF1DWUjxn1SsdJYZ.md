@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 
 > The best new AUS & NZ Rap\. Cover: Lisi
 
-[Spotify](https://open.spotify.com/user/spotify) - 142,896 likes - 100 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 142,902 likes - 100 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUjxn1SsdJYZ.md) - [plain]
 | 99 | [KEEP IT ON THE PLAYGROUND](https://open.spotify.com/track/6HEfmLr5DJVsBXsatNB2mL) | [Brazen Barbie](https://open.spotify.com/artist/7krRGwtf9BlypHPR8D9EZW) | [KEEP IT ON THE PLAYGROUND](https://open.spotify.com/album/4HgjXKlBuZFCuTBhWBDIt6) | 2:24 |
 | 100 | [Swear Mums](https://open.spotify.com/track/6aSYO9VhwKOj7Za4OOJ8az) | [That Kid Kearve](https://open.spotify.com/artist/6XBbh6vh6VvVIPlebmPPLR) | [Swear Mums](https://open.spotify.com/album/5K5vM1aJBKrbLthAZJFoJn) | 3:16 |
 
-Snapshot ID: `AAAAAKRIzLsN4fwrkExEWx37pQMfWUof`
+Snapshot ID: `AAAAAPlE/eIry3y+dAQs9cF4oJbBSV10`

@@ -4,7 +4,7 @@
 
 > Det senaste och bästa från världen av indie\. Cover: Tove Styrke
 
-1,405 songs - 3 day 8 hr 46 min
+1,405 songs - 3 day 8 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [A Stitch For Grand Affairs](https://open.spotify.com/track/4XHZDe9D4wgtCxzNtJYFCG) | [The Court](https://open.spotify.com/artist/4YeLPeJgbLboih3WGXZeWJ) | [A Stitch For Grand Affairs](https://open.spotify.com/album/6qrW5ybZ8vKvJdHaA1UpEx) | 3:01 | 2026-04-09 | 2026-09-11 |
 | [A Tear in Space \(Airlock\)](https://open.spotify.com/track/6Bi1Y7TD70eWTCKn7jsQQm) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [A Tear in Space \(Airlock\)](https://open.spotify.com/album/6X2fbRz8huOXlxzId6ET7J) | 3:23 | 2024-06-27 | 2024-08-02 |
 | [A thousand lies \- Fine EDIT](https://open.spotify.com/track/4xC4LCqxvstJbM68VQl7GS) | [Smerz](https://open.spotify.com/artist/1f8PlfSHEW6fHnILSzm8dI), [Fine](https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5) | [Big city life EDITS](https://open.spotify.com/album/3ggimNXIMUP70F50ZGgPMy) | 3:37 | 2025-11-06 | 2026-05-01 |
+| [A Time A Place](https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [It's Only Heaven](https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ) | 2:38 | 2026-09-17 |  |
 | [About the Heart](https://open.spotify.com/track/79o1dbP1lkUBeyI7Qwm9oq) | [2AM\-DM](https://open.spotify.com/artist/3ypNj7o6K9O02LfRlfxUcN) | [About the Heart](https://open.spotify.com/album/0T3rfBkkPj2qWqz62sByLW) | 4:08 | 2025-05-15 | 2025-10-10 |
 | [Above Love](https://open.spotify.com/track/7pBylm1bDkNrlBzCvUoLD4) | [Say Lou Lou](https://open.spotify.com/artist/0flVPOQPuTboUwEtzPk6vj) | [Above Love](https://open.spotify.com/album/25vMXIp2LP75SlECzIAqMj) | 2:42 | 2024-06-27 | 2024-08-16 |
 | [Acrobats](https://open.spotify.com/track/17v4Yif1l2JurwAELLWZWt) | [Sondre Lerche](https://open.spotify.com/artist/0Q6X1jqwOVQuclYp2P1bub) | [Acrobats](https://open.spotify.com/album/4lWPhsAo2kN7JfqAug49B2) | 3:54 | 2026-08-27 |  |
@@ -1271,7 +1272,6 @@
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-08-16 |
 | [Took the Train 'til the End](https://open.spotify.com/track/0JhqyLHTwuFbl34Z2nQZWL) | [Arny Margret](https://open.spotify.com/artist/0is0GJzcvwz5jg1qVZyOwW) | [I Miss You, I Do](https://open.spotify.com/album/0T0s1ct3KmVkQg5dAd8ILU) | 3:59 | 2025-03-07 | 2025-05-16 |
 | [Totally](https://open.spotify.com/track/5xoo7xfolFQGmRyDYtzXNp) | [Baba Stiltz](https://open.spotify.com/artist/1xaQSClXcsc1JvxZ2qnwBF) | [Totally](https://open.spotify.com/album/68bAvtCNnayCdY7cQbz1Mh) | 2:42 | 2026-08-20 |  |
-| [Track 7](https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [It's Only Heaven](https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ) | 0:00 | 2026-09-17 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-09-11 |
 | [Trailers after dark](https://open.spotify.com/track/2Tr7s79xvkh70uA1pW2z1a) | [Finn Wolfhard](https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG) | [Trailers after dark](https://open.spotify.com/album/46s1sq3nEJiTRq3okup3N4) | 3:18 | 2025-04-10 | 2025-07-04 |
 | [Trappa till himlen](https://open.spotify.com/track/140hfWLjtZQyRlYY7j2auV) | [Terra ](https://open.spotify.com/artist/38KJOj7CCAHBDSLkjczak1), [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Trappa till himlen](https://open.spotify.com/album/1VNQheQ9ALB6PU7Y3cr6M8) | 3:56 | 2025-04-24 | 2025-10-10 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 
 > Fresh folk and roots music from independent artists every Wednesday! Cover: Mynolia
 
-[Spotify](https://open.spotify.com/user/spotify) - 104,521 likes - 75 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 104,637 likes - 75 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdS3lvGe1GrT.md) - [plain]
 | 74 | [If This Is The End](https://open.spotify.com/track/3kFUML1xNLa91hI9EMRkrq) | [Emma Harner](https://open.spotify.com/artist/22LN4kmzdiXhbuFUU4GWCQ) | [If This Is The End](https://open.spotify.com/album/2ZyHeH8F9mmnhV5Fcbr4nU) | 3:41 |
 | 75 | [Strawberry Rhinestone](https://open.spotify.com/track/7BAcAmm4hyKhd2sgZjSjdS) | [Two Runner](https://open.spotify.com/artist/4pMqJEcrPoNT1QZgIUKBWg) | [Strawberry Rhinestone](https://open.spotify.com/album/6pHHgfdtht4v9TAgDxE9WM) | 4:19 |
 
-Snapshot ID: `AAAAAGvlfV/UY+sTx8tULrNOLosHtj1V`
+Snapshot ID: `AAAAAOKTdmg+L62g6MYVNzZnoOifqbZP`

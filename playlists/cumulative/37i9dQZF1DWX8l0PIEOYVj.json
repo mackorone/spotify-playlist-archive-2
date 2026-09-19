@@ -1758,7 +1758,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 220800,
       "name": "Before We Say Goodbye",
       "url": "https://open.spotify.com/track/0Ew01g0wdjESoidUYRfWW6"
@@ -5949,6 +5949,28 @@
     },
     {
       "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/45RySrc4bC7PzuqSeVLzAi"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        },
+        {
+          "name": "ARCTURA",
+          "url": "https://open.spotify.com/artist/0mBnq6ex1s5r5O1TmJ8oTN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/50ANz85LHdZuL75bmlInED"
+    },
+    {
+      "album": {
         "name": "Fire Again (Dabin Remix)",
         "url": "https://open.spotify.com/album/6VcgKd8N1eGmiaiWYi2rsf"
       },
@@ -7338,6 +7360,24 @@
       "duration_ms": 262425,
       "name": "Gravity",
       "url": "https://open.spotify.com/track/21PELgAI135nZmhjEi9MxG"
+    },
+    {
+      "album": {
+        "name": "Gravity",
+        "url": "https://open.spotify.com/album/14hZE1MkZ9CULnF9SU4qps"
+      },
+      "artists": [
+        {
+          "name": "JVNA",
+          "url": "https://open.spotify.com/artist/0BMfVLB7t0VCzNBZZKBy6A"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168510,
+      "name": "Gravity",
+      "url": "https://open.spotify.com/track/6QyOkIgDpRpaDnCfXFglOh"
     },
     {
       "album": {
@@ -16960,7 +17000,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 328890,
       "name": "Superluminal",
       "url": "https://open.spotify.com/track/4DGpTIyJgbxL5k3Ka5GqOe"

@@ -1163,6 +1163,28 @@
     },
     {
       "album": {
+        "name": "April X (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/4LTqFbriZSMgd4mMD2w64T"
+      },
+      "artists": [
+        {
+          "name": "Matthew Atticus Berger",
+          "url": "https://open.spotify.com/artist/6oWf19KLD6crt5vbQsWiWE"
+        },
+        {
+          "name": "Amanda Achen",
+          "url": "https://open.spotify.com/artist/3O5CsKfeQzMKYqbQVqHa9Y"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108483,
+      "name": "Sweet and Simple (feat. Amanda Achen)",
+      "url": "https://open.spotify.com/track/3VtWQ4yV182Das2PyfpHeZ"
+    },
+    {
+      "album": {
         "name": "The Adam Project",
         "url": "https://open.spotify.com/album/3mBBGGBVmBMHMfmrT4s7pH"
       },

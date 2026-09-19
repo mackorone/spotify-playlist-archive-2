@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-325 songs - 15 hr 56 min
+326 songs - 15 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,7 +39,7 @@
 | [Bare dreams](https://open.spotify.com/track/26yNNpbZfLEYigyJdVKeyd) | [Sayulita](https://open.spotify.com/artist/1TZG0boEXBMRfxjj1nH6TM) | [Bare dreams](https://open.spotify.com/album/4C9LrzhzKueTHmUHCQENJS) | 2:39 | 2024-08-28 |  |
 | [Beautiful Awakening](https://open.spotify.com/track/7z2XZ3N0nyzZed42lEz2ul) | [Spirit Minds](https://open.spotify.com/artist/3GrOqlDYHDtloOS3v1cnvD) | [Beautiful Awakening](https://open.spotify.com/album/6mSSBidKkhCtzzn4N44FEG) | 3:01 | 2022-07-05 | 2024-12-12 |
 | [Between Galaxies](https://open.spotify.com/track/6DXhWt90wnGcyL6W7GIwwk) | [Spatia Sonica](https://open.spotify.com/artist/52CWUxOpQe9GHy9aCN0Irk) | [Between Galaxies](https://open.spotify.com/album/4LWYVa3ShlnbxP9ohY0lri) | 2:43 | 2025-09-30 | 2026-02-12 |
-| [Birdcage Walk](https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Milestone](https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88) | 3:32 | 2022-07-05 |  |
+| [Birdcage Walk](https://open.spotify.com/track/2mnHERT3I2AP2g4S1V8rXH) | [Stone Steps](https://open.spotify.com/artist/4FDTSH6593ZrweLvsonjQ5) | [Milestone](https://open.spotify.com/album/6rKC6cDvgzKIAuUgxACb88) | 3:32 | 2022-07-05 | 2026-09-19 |
 | [Blissful](https://open.spotify.com/track/2b5wdM050xUWmFDGygyqe8) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Blissful](https://open.spotify.com/album/7GCBYS9ubuzTUDiXu0ioWN) | 2:44 | 2022-07-19 | 2024-04-19 |
 | [Blissful](https://open.spotify.com/track/5m7SY0GjW0n0LWz10XA8VP) | [Studio Tranquilo](https://open.spotify.com/artist/48dV0cPzz4OVDmYam426RP) | [Blissful](https://open.spotify.com/album/5Kwr9SHPE3HVyqxEdUsKIp) | 2:44 | 2022-07-05 | 2022-07-29 |
 | [Blue Dreams](https://open.spotify.com/track/3lVCWvfaO5b7stge6SGJo1) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Blue Dreams](https://open.spotify.com/album/3FRdQ6edoNlviuZ0adEjkG) | 2:55 | 2024-12-11 | 2025-05-15 |
@@ -167,6 +167,7 @@
 | [lights](https://open.spotify.com/track/0jUDyVPlv8eWJ86dC4sLqz) | [Mountain Explorer](https://open.spotify.com/artist/0ZRFQvqH13ouWGPIR0ulSF) | [lights](https://open.spotify.com/album/62nUEsKB9oBtGyNokjC3WB) | 2:20 | 2025-05-14 | 2026-02-12 |
 | [Lights on Water](https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Lights on Water](https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp) | 3:37 | 2022-07-05 |  |
 | [Linearity](https://open.spotify.com/track/0Ci8JFzz4gsoDRY7aUau5o) | [Hypertime](https://open.spotify.com/artist/2h8Lzun0E6Ei7JeGW6Hlcc) | [Linearity](https://open.spotify.com/album/0pgMpYSMvMZtoLDl9EWeHW) | 3:11 | 2022-07-05 | 2022-11-12 |
+| [Livity](https://open.spotify.com/track/6K1Y957kZJmLYRvSBjmeuW) | [Indigenouz](https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7) | [Livity](https://open.spotify.com/album/2niIaa7s1BUp3xq4DvR7N4) | 2:43 | 2026-09-14 |  |
 | [Lost City](https://open.spotify.com/track/06Abg0WqRt5zIeYX3d73qB) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [Lost City](https://open.spotify.com/album/7fS8P6tpiMkEB97ANGOdG2) | 2:35 | 2024-08-28 | 2025-01-15 |
 | [Love](https://open.spotify.com/track/0yf0a2YESK4qQeJ2RxjTQS) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Love](https://open.spotify.com/album/1jYA1RLpNu4G6eXzb7UeyL) | 2:06 | 2022-07-19 | 2024-04-19 |
 | [Love](https://open.spotify.com/track/1XZhYDzpkGogafOyTDhZtn) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Love](https://open.spotify.com/album/589ZsN7OR27RrA5q3ltkyv) | 2:06 | 2022-07-05 | 2024-06-11 |

@@ -2757,6 +2757,24 @@
     },
     {
       "album": {
+        "name": "Gentle Divide",
+        "url": "https://open.spotify.com/album/0veyTYXboX3DozB6MO1VN5"
+      },
+      "artists": [
+        {
+          "name": "Friedrich Hahn",
+          "url": "https://open.spotify.com/artist/6RTZD5u0Respn5hQRVBB1C"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189058,
+      "name": "Gentle Divide",
+      "url": "https://open.spotify.com/track/2TV3XOD8QAgDxlUSejp8sz"
+    },
+    {
+      "album": {
         "name": "Get To Know You",
         "url": "https://open.spotify.com/album/0LTF6J05EQgqGka3DCRxcz"
       },

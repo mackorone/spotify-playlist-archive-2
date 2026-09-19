@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 
 > afrobeats daqui, de fora, de todos os cantos
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,462 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,469 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,13 +43,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 33 | [Soul da Noite.](https://open.spotify.com/track/0HSnywq4MlYwAfuaKCbWnQ) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [LilBoy Bruce](https://open.spotify.com/artist/7tXm14yok4jpYlP6RB5QMn) | [Guetto Wave’s](https://open.spotify.com/album/1JLnx4QiONuJC1LH54GK6C) | 3:13 |
 | 34 | [Segredo](https://open.spotify.com/track/0PjmCUmfHEwlXp6LjdmNmA) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Torya](https://open.spotify.com/artist/1WWepZwmNRqvNIOpLyX8dh) | [Dengo](https://open.spotify.com/album/295G8XvTS3wV4qpysbaa4L) | 4:05 |
 | 35 | [Rolls Royce](https://open.spotify.com/track/52yjmlg2RUC0CNwh9Pex1D) | [Pluck D](https://open.spotify.com/artist/514cPHde1lpv5Umk7f6rWq), [Dudu](https://open.spotify.com/artist/5Ynf8bbQV9ICbK3vZoPxGF), [TR3VAS](https://open.spotify.com/artist/5lZZfdDqp7XKRaTdZ1KUIO) | [Rolls Royce](https://open.spotify.com/album/5atFUYt0WYOajLtuWqZYGg) | 2:29 |
-| 36 | [Sem nada](https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Sem nada](https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF) | 2:36 |
-| 37 | [Cê Decide](https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ) | [Scardinni](https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO) | [Cê Decide](https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX) | 1:56 |
+| 36 | [Cê Decide](https://open.spotify.com/track/74Xa1p6kyCTyTtidZOPAUZ) | [Scardinni](https://open.spotify.com/artist/18LTJax6PTlio8utZE2YLO) | [Cê Decide](https://open.spotify.com/album/4oZMdfYEB5sTsJlwRFuwDX) | 1:56 |
+| 37 | [Sem nada](https://open.spotify.com/track/6ZlTGWsNYigSj5LTCK3Uy4) | [Devasto Prod](https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc), [Junior Lord](https://open.spotify.com/artist/6rFkZxhheU9l1nODgZm4SP), [Marvvila](https://open.spotify.com/artist/0pC5o5Jo4P8uNn2SSNmpXz) | [Sem nada](https://open.spotify.com/album/5x0K9eHmy0ZSVj1nej5zyF) | 2:36 |
 | 38 | [Blues](https://open.spotify.com/track/3Iqr5U8iVPlwy1v7pKQ4fQ) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Blues](https://open.spotify.com/album/7uaZKrYAdBdge7eb7gqlJN) | 2:44 |
 | 39 | [Fatal](https://open.spotify.com/track/72UUzIwp3WFPB23xrfPQWS) | [Juniper](https://open.spotify.com/artist/3h55d9cBydMk3jlDfMu1rN) | [Fatal](https://open.spotify.com/album/0gCVzdKjphVLTqb4BPyqt4) | 2:24 |
 | 40 | [Porta Aberta](https://open.spotify.com/track/7vjdDgdZpqdK0JDMN3Gio5) | [Kafé](https://open.spotify.com/artist/3YQp5W4RR8sMhWnRlmgruw), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP) | [Porta Aberta](https://open.spotify.com/album/418Bw99V7nkdsTZ69Rya5H) | 2:47 |
-| 41 | [Coulda Shown You](https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg) | [Lucca DL](https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Coulda Shown You](https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n) | 2:21 |
-| 42 | [Só pra você](https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:47 |
+| 41 | [Só pra você](https://open.spotify.com/track/0OYfygtqmhjlLbz6AL4Thc) | [Dash Foreal](https://open.spotify.com/artist/2vrrGwK98P8zHi7mskmfXA) | [Músicas Para Mulheres, Vol\. 1](https://open.spotify.com/album/61GjFlMdbK3NEssTLJV0wF) | 2:47 |
+| 42 | [Coulda Shown You](https://open.spotify.com/track/2rC6jFHUz7xbUuU90COGQg) | [Lucca DL](https://open.spotify.com/artist/7uNLWYaX4XKrb2jhKtvbdP), [Killa](https://open.spotify.com/artist/1gGUO8gYL0YWzyOKFCYegd) | [Coulda Shown You](https://open.spotify.com/album/61J2ZuwfW76J0byGOOzs6n) | 2:21 |
 | 43 | [Halo](https://open.spotify.com/track/32VgModyfPye3imxW4Q7DC) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb) | [Halo](https://open.spotify.com/album/6YcTAftsSUNPC0gJTMYvM4) | 3:11 |
 | 44 | [BRINDE](https://open.spotify.com/track/7z9WyytxQY7nRLuQNeFeE8) | [Yan Cloud](https://open.spotify.com/artist/6J23LhPbu4ccHOHEnDxnDP), [Avicena](https://open.spotify.com/artist/2JLBQFMznqSVWj9GSuXF1L) | [BRINDE](https://open.spotify.com/album/5fNVRErf70NzXrtjLiF5ac) | 2:56 |
 | 45 | [Fora do Normal](https://open.spotify.com/track/2sDGcExhySyvzQNXk0RTWs) | [THIFREE](https://open.spotify.com/artist/4i1onoDzdfZeBll14ktbfv), [Vignoli](https://open.spotify.com/artist/0jKm12TzXOaJBmb5hrG7q2), [Maui](https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed) | [Fora do Normal](https://open.spotify.com/album/2Hn8berMzeeQHZfR1OFnm5) | 2:54 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4PfwA6GHHNV.md) - [plain]
 | 49 | [RINGUE](https://open.spotify.com/track/5fwp4Me529FOYNKxyVAz1n) | [El Coffee](https://open.spotify.com/artist/5gc7yJDG60eAdwcQtaIFg5), [Paiva Prod](https://open.spotify.com/artist/1T0F05F7TEo6QYr4vtGJdb), [Malcolm VL](https://open.spotify.com/artist/6pJi8PaFlp6aNvOw3e0ONm), [Hobb The Goat](https://open.spotify.com/artist/6BY8aKKdrEbzOYWoD2EOAZ) | [RINGUE](https://open.spotify.com/album/5U60uRO6qeJOfwIiluPyTk) | 3:02 |
 | 50 | [Seu](https://open.spotify.com/track/3x86FsaHkvbrLIkguGACHn) | [Derek](https://open.spotify.com/artist/4Y0VwRwAOyJutxoVpPX4td) | [ARꓘANO](https://open.spotify.com/album/6dehecfgOrOfZqIzzwDQxl) | 2:22 |
 
-Snapshot ID: `AAAAAGGgdCxVTszKwAXGdz2OEc1VKJ3b`
+Snapshot ID: `AAAAAJxq0oM9ds5AoYsGFkTX5yosklYb`

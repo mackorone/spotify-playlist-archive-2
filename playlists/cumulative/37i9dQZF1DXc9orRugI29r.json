@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2022-02-10",
-  "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25 UNPATITOOO",
-  "name": "HOT NOW - Tito Double P ",
+  "description": "LAS CANCIONES M\u00c1S \ud83d\udd25\ud83d\udd25\ud83d\udd25 ",
+  "name": "HOT NOW - Maluma & Shakira ",
   "tracks": [
     {
       "album": {
@@ -902,6 +902,28 @@
       "duration_ms": 168601,
       "name": "AFTERLIFE",
       "url": "https://open.spotify.com/track/6GGhD1IyPluXefBT0n3K6F"
+    },
+    {
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
       "album": {
@@ -1852,7 +1874,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 174813,
       "name": "Ay Bendito (with Mora & Ovy On The Drums)",
       "url": "https://open.spotify.com/track/0Z4SYgGJxNNfYFvmwthup2"
@@ -3840,7 +3862,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 134867,
       "name": "Caramel",
       "url": "https://open.spotify.com/track/0VkehLUYXLieeTgHTC3quR"
@@ -12873,6 +12895,28 @@
     },
     {
       "album": {
+        "name": "Macacoa 2000 (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173881,
+      "name": "Macacoa 2000 (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn"
+    },
+    {
+      "album": {
         "name": "Madonna",
         "url": "https://open.spotify.com/album/0QZVRL2HC24voXfxWmpHvd"
       },
@@ -18054,7 +18098,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 186666,
       "name": "PROV\u00d3CATE",
       "url": "https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu"
@@ -18650,7 +18694,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 167433,
       "name": "Qu\u00e9 Mal Te Ves Sin M\u00ed",
       "url": "https://open.spotify.com/track/78qgcRHfy0y0e39nz34m64"
@@ -20770,6 +20814,28 @@
       "duration_ms": 214642,
       "name": "Soltera",
       "url": "https://open.spotify.com/track/3OJDtCdYs8QJnui708tEU3"
+    },
+    {
+      "album": {
+        "name": "so\u00f1\u00e9 la respuesta pero no recuerdo (RADAR M\u00e9xico)",
+        "url": "https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        },
+        {
+          "name": "Zenei",
+          "url": "https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189047,
+      "name": "so\u00f1\u00e9 la respuesta pero no recuerdo - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT"
     },
     {
       "album": {
@@ -23600,6 +23666,28 @@
       "duration_ms": 160394,
       "name": "Vamo a Bailotear",
       "url": "https://open.spotify.com/track/5lCk0ZeN8h76QxNqHEGMZJ"
+    },
+    {
+      "album": {
+        "name": "VAMO A VEL",
+        "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "VAMO A VEL",
+      "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
     },
     {
       "album": {

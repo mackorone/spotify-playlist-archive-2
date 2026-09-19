@@ -1,12 +1,12 @@
 {
   "description": "The official soundtrack for EA SPORTS FC 27.",
-  "num_followers": 431349,
+  "num_followers": 431768,
   "original_name": "EA SPORTS FC 27 Official Soundtrack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI1UEgMNX4qZgRHQK+swIA2KOfJ4",
+  "snapshot_id": "AAAAALashrLZqNQR9sOdm0O5WuqrjMZc",
   "tracks": [
     {
       "added_at": "2026-09-10 17:00:41",
@@ -147,6 +147,22 @@
     {
       "added_at": "2026-09-10 17:00:41",
       "album": {
+        "name": "Dance Dance Dance!",
+        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 217797,
+      "name": "Dance Dance Dance!",
+      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
+    },
+    {
+      "added_at": "2026-09-10 17:00:41",
+      "album": {
         "name": "Black Boy (Alternative)",
         "url": "https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG"
       },
@@ -167,22 +183,6 @@
       "duration_ms": 167666,
       "name": "How To Pray",
       "url": "https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU"
-    },
-    {
-      "added_at": "2026-09-10 17:00:41",
-      "album": {
-        "name": "Dance Dance Dance!",
-        "url": "https://open.spotify.com/album/6MpeEDPVX7DiLigR6rVS2r"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 217797,
-      "name": "Dance Dance Dance!",
-      "url": "https://open.spotify.com/track/6O23Yf2GSRMunBn3j1eQCJ"
     },
     {
       "added_at": "2026-09-10 17:00:41",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-09-10 17:00:41",
       "album": {
-        "name": "This Mirror Weighs a Ton/See Out Loud",
-        "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
-      },
-      "artists": [
-        {
-          "name": "Interpol",
-          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
-        }
-      ],
-      "duration_ms": 296746,
-      "name": "See Out Loud",
-      "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
-    },
-    {
-      "added_at": "2026-09-10 17:00:41",
-      "album": {
         "name": "COME CLOSER",
         "url": "https://open.spotify.com/album/5C40IE0VAEHNZJcpwUxoNY"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 251373,
       "name": "SOMEWHERE ELSE",
       "url": "https://open.spotify.com/track/4ROFunSkVUlXqU0cMi6vYJ"
+    },
+    {
+      "added_at": "2026-09-10 17:00:41",
+      "album": {
+        "name": "This Mirror Weighs a Ton/See Out Loud",
+        "url": "https://open.spotify.com/album/53ZH0bU5CZ1QVfz92eImpl"
+      },
+      "artists": [
+        {
+          "name": "Interpol",
+          "url": "https://open.spotify.com/artist/3WaJSfKnzc65VDgmj2zU8B"
+        }
+      ],
+      "duration_ms": 296746,
+      "name": "See Out Loud",
+      "url": "https://open.spotify.com/track/0xPCZvjwl2myKKPhw4Rqhj"
     },
     {
       "added_at": "2026-09-10 17:00:41",
@@ -859,22 +859,6 @@
     {
       "added_at": "2026-09-10 17:00:41",
       "album": {
-        "name": "Maybe Not Tonight",
-        "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
-      },
-      "artists": [
-        {
-          "name": "Lime Garden",
-          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
-        }
-      ],
-      "duration_ms": 168456,
-      "name": "23",
-      "url": "https://open.spotify.com/track/7yBH2DRYZ5zsklX5nseXzK"
-    },
-    {
-      "added_at": "2026-09-10 17:00:41",
-      "album": {
         "name": "Autopilot",
         "url": "https://open.spotify.com/album/4Clo73J4CkcN63demIeZ2F"
       },
@@ -887,6 +871,22 @@
       "duration_ms": 166730,
       "name": "Autopilot",
       "url": "https://open.spotify.com/track/2HB0CSmHzShtuZzvvo7FC2"
+    },
+    {
+      "added_at": "2026-09-10 17:00:41",
+      "album": {
+        "name": "Maybe Not Tonight",
+        "url": "https://open.spotify.com/album/7EO4tVModdOi5Xh3m7uEzC"
+      },
+      "artists": [
+        {
+          "name": "Lime Garden",
+          "url": "https://open.spotify.com/artist/5GA6j57yIPCBrWk1lTvF9o"
+        }
+      ],
+      "duration_ms": 168456,
+      "name": "23",
+      "url": "https://open.spotify.com/track/7yBH2DRYZ5zsklX5nseXzK"
     },
     {
       "added_at": "2026-09-10 17:00:41",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-09-10 17:00:41",
       "album": {
-        "name": "You're Gonna Need A Little Music",
-        "url": "https://open.spotify.com/album/3OVsFANxuVt1F4Ja2Vg3bO"
-      },
-      "artists": [
-        {
-          "name": "Yard Act",
-          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
-        }
-      ],
-      "duration_ms": 172068,
-      "name": "Cherophobe Rock",
-      "url": "https://open.spotify.com/track/59B6zKfTrcZ5Rj6itkAb1F"
-    },
-    {
-      "added_at": "2026-09-10 17:00:41",
-      "album": {
         "name": "DRAMA",
         "url": "https://open.spotify.com/album/39ZEVXaHtMaTuxWOUJXbiH"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 121849,
       "name": "dramatique",
       "url": "https://open.spotify.com/track/1Gw998U4FMej6nuOxAbjn6"
+    },
+    {
+      "added_at": "2026-09-10 17:00:41",
+      "album": {
+        "name": "You're Gonna Need A Little Music",
+        "url": "https://open.spotify.com/album/3OVsFANxuVt1F4Ja2Vg3bO"
+      },
+      "artists": [
+        {
+          "name": "Yard Act",
+          "url": "https://open.spotify.com/artist/2h3ooJn8m8X8cL2g1BZ1Rd"
+        }
+      ],
+      "duration_ms": 172068,
+      "name": "Cherophobe Rock",
+      "url": "https://open.spotify.com/track/59B6zKfTrcZ5Rj6itkAb1F"
     },
     {
       "added_at": "2026-09-10 17:00:41",
@@ -1031,22 +1031,6 @@
     {
       "added_at": "2026-09-10 17:00:41",
       "album": {
-        "name": "\u5186\u76f8 \uff5cEnso",
-        "url": "https://open.spotify.com/album/13JammOxbOwU9ft8PElfDT"
-      },
-      "artists": [
-        {
-          "name": "bed",
-          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
-        }
-      ],
-      "duration_ms": 259000,
-      "name": "\u30c7\u30c8\u30ed\u30a4\u30c8\uff5cDetoroito",
-      "url": "https://open.spotify.com/track/6DZbO6wJuGzUyy2lARqAmC"
-    },
-    {
-      "added_at": "2026-09-10 17:00:41",
-      "album": {
         "name": "Optimism",
         "url": "https://open.spotify.com/album/2XDnp6nVUaEXWrHbqwP54t"
       },
@@ -1059,6 +1043,22 @@
       "duration_ms": 248709,
       "name": "Achtung! Optimism",
       "url": "https://open.spotify.com/track/5HSYmEWmFBByYKquigO6OF"
+    },
+    {
+      "added_at": "2026-09-10 17:00:41",
+      "album": {
+        "name": "\u5186\u76f8 \uff5cEnso",
+        "url": "https://open.spotify.com/album/13JammOxbOwU9ft8PElfDT"
+      },
+      "artists": [
+        {
+          "name": "bed",
+          "url": "https://open.spotify.com/artist/5nJqGF6KUDFS2jVMW9Oix9"
+        }
+      ],
+      "duration_ms": 259000,
+      "name": "\u30c7\u30c8\u30ed\u30a4\u30c8\uff5cDetoroito",
+      "url": "https://open.spotify.com/track/6DZbO6wJuGzUyy2lARqAmC"
     },
     {
       "added_at": "2026-09-10 17:00:41",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2026-09-10 17:00:41",
       "album": {
-        "name": "Heaven 2",
-        "url": "https://open.spotify.com/album/5DNFT7cSHevC4ayOuLA22e"
-      },
-      "artists": [
-        {
-          "name": "Lala Lala",
-          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
-        }
-      ],
-      "duration_ms": 209533,
-      "name": "Arrow",
-      "url": "https://open.spotify.com/track/3nAcQSav21VEB1alqUHnZy"
-    },
-    {
-      "added_at": "2026-09-10 17:00:41",
-      "album": {
         "name": "Adieu Cl\u00e9mence",
         "url": "https://open.spotify.com/album/4RCesufe1n18aubuTf3Led"
       },
@@ -1163,6 +1147,22 @@
       "duration_ms": 180624,
       "name": "Adieu Cl\u00e9mence",
       "url": "https://open.spotify.com/track/1p2Majs5PEH4xKLn0T1HNC"
+    },
+    {
+      "added_at": "2026-09-10 17:00:41",
+      "album": {
+        "name": "Heaven 2",
+        "url": "https://open.spotify.com/album/5DNFT7cSHevC4ayOuLA22e"
+      },
+      "artists": [
+        {
+          "name": "Lala Lala",
+          "url": "https://open.spotify.com/artist/492I2sQFcHDcsZECYX25dE"
+        }
+      ],
+      "duration_ms": 209533,
+      "name": "Arrow",
+      "url": "https://open.spotify.com/track/3nAcQSav21VEB1alqUHnZy"
     },
     {
       "added_at": "2026-09-10 17:00:41",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-09-10 17:00:41",
       "album": {
-        "name": "Aguar\u00e1chate",
-        "url": "https://open.spotify.com/album/4VZJ6snqnaC0Z2eNrcbeSv"
-      },
-      "artists": [
-        {
-          "name": "Monsieur Perin\u00e9",
-          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
-        }
-      ],
-      "duration_ms": 156714,
-      "name": "Aguar\u00e1chate",
-      "url": "https://open.spotify.com/track/5zxQOlEtF759QnUzq43f7v"
-    },
-    {
-      "added_at": "2026-09-10 17:00:41",
-      "album": {
         "name": "In All Of My Tomorrows",
         "url": "https://open.spotify.com/album/52gf1YDvLm2WfjW5URSQkg"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 141546,
       "name": "Ethereal",
       "url": "https://open.spotify.com/track/0iSLB5okQOzIwzx9vJiDdT"
+    },
+    {
+      "added_at": "2026-09-10 17:00:41",
+      "album": {
+        "name": "Aguar\u00e1chate",
+        "url": "https://open.spotify.com/album/4VZJ6snqnaC0Z2eNrcbeSv"
+      },
+      "artists": [
+        {
+          "name": "Monsieur Perin\u00e9",
+          "url": "https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK"
+        }
+      ],
+      "duration_ms": 156714,
+      "name": "Aguar\u00e1chate",
+      "url": "https://open.spotify.com/track/5zxQOlEtF759QnUzq43f7v"
     },
     {
       "added_at": "2026-09-10 17:00:41",
@@ -1437,26 +1437,6 @@
       "url": "https://open.spotify.com/track/1MlM3cDZ9P4baCP27CHxBp"
     },
     {
-      "added_at": "2026-09-10 19:05:20",
-      "album": {
-        "name": "Quiero Mas",
-        "url": "https://open.spotify.com/album/0RJBbeCQ0Zrve3k4SwkJZH"
-      },
-      "artists": [
-        {
-          "name": "Don Elektron",
-          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
-        },
-        {
-          "name": "Ms Nina",
-          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
-        }
-      ],
-      "duration_ms": 138692,
-      "name": "Quiero Mas",
-      "url": "https://open.spotify.com/track/7JPMho2z4oTf3ESsVaHq82"
-    },
-    {
       "added_at": "2026-09-10 17:00:41",
       "album": {
         "name": "It's The Hope That Kills You",
@@ -1487,6 +1467,26 @@
       "duration_ms": 185266,
       "name": "Her Eyes",
       "url": "https://open.spotify.com/track/2GVil5jFuIJAIrGgVXJnN7"
+    },
+    {
+      "added_at": "2026-09-10 19:05:20",
+      "album": {
+        "name": "Quiero Mas",
+        "url": "https://open.spotify.com/album/0RJBbeCQ0Zrve3k4SwkJZH"
+      },
+      "artists": [
+        {
+          "name": "Don Elektron",
+          "url": "https://open.spotify.com/artist/7DlW3AsJBngztfUBjAY0W2"
+        },
+        {
+          "name": "Ms Nina",
+          "url": "https://open.spotify.com/artist/43Hr2FjhVehkROIIEb7EfQ"
+        }
+      ],
+      "duration_ms": 138692,
+      "name": "Quiero Mas",
+      "url": "https://open.spotify.com/track/7JPMho2z4oTf3ESsVaHq82"
     },
     {
       "added_at": "2026-09-10 17:00:41",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-09-10 17:00:41",
       "album": {
+        "name": "The Rush",
+        "url": "https://open.spotify.com/album/4vtQe8MwFPVpAGnHDsUHKZ"
+      },
+      "artists": [
+        {
+          "name": "Paul Prier",
+          "url": "https://open.spotify.com/artist/5FAoLXLkCfaQDBDGeZbBtX"
+        }
+      ],
+      "duration_ms": 273956,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/6x5d2Q0jtdnQLy45AHK8Q5"
+    },
+    {
+      "added_at": "2026-09-10 17:00:41",
+      "album": {
         "name": "R\u00e9alit\u00e9 Rap Musique, Vol. 1",
         "url": "https://open.spotify.com/album/0EuYtJkLsYXxsLfpSU38rF"
       },
@@ -1599,6 +1615,22 @@
       "duration_ms": 186090,
       "name": "Nickel",
       "url": "https://open.spotify.com/track/2Tc7jb3EkwCFYtyt0TwuDr"
+    },
+    {
+      "added_at": "2026-09-10 17:00:41",
+      "album": {
+        "name": "Motivation",
+        "url": "https://open.spotify.com/album/2yrs2NkdZBt3vxu2S5AZ7s"
+      },
+      "artists": [
+        {
+          "name": "Rylo & Le Prof",
+          "url": "https://open.spotify.com/artist/1BU6jib1ToNI7Lh7qxCRl4"
+        }
+      ],
+      "duration_ms": 162923,
+      "name": "Motivation",
+      "url": "https://open.spotify.com/track/0LpEb3Nz2TM0v6QCA2oMfu"
     },
     {
       "added_at": "2026-09-10 17:00:41",
@@ -1619,38 +1651,6 @@
       "duration_ms": 255617,
       "name": "BOP",
       "url": "https://open.spotify.com/track/55B7h4UVKWsKG5prz7xRr3"
-    },
-    {
-      "added_at": "2026-09-10 17:00:41",
-      "album": {
-        "name": "The Rush",
-        "url": "https://open.spotify.com/album/4vtQe8MwFPVpAGnHDsUHKZ"
-      },
-      "artists": [
-        {
-          "name": "Paul Prier",
-          "url": "https://open.spotify.com/artist/5FAoLXLkCfaQDBDGeZbBtX"
-        }
-      ],
-      "duration_ms": 273956,
-      "name": "The Rush",
-      "url": "https://open.spotify.com/track/6x5d2Q0jtdnQLy45AHK8Q5"
-    },
-    {
-      "added_at": "2026-09-10 17:00:41",
-      "album": {
-        "name": "Motivation",
-        "url": "https://open.spotify.com/album/2yrs2NkdZBt3vxu2S5AZ7s"
-      },
-      "artists": [
-        {
-          "name": "Rylo & Le Prof",
-          "url": "https://open.spotify.com/artist/1BU6jib1ToNI7Lh7qxCRl4"
-        }
-      ],
-      "duration_ms": 162923,
-      "name": "Motivation",
-      "url": "https://open.spotify.com/track/0LpEb3Nz2TM0v6QCA2oMfu"
     },
     {
       "added_at": "2026-09-10 17:00:41",
@@ -1723,30 +1723,6 @@
     {
       "added_at": "2026-09-10 17:00:41",
       "album": {
-        "name": "CEROUNO",
-        "url": "https://open.spotify.com/album/5le8bGUJj6QSUL1CojXAIJ"
-      },
-      "artists": [
-        {
-          "name": "Delfina Dib",
-          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
-        },
-        {
-          "name": "Willy Bronca",
-          "url": "https://open.spotify.com/artist/72LcvCe3u6J31WGoz55n9c"
-        },
-        {
-          "name": "Tomy B",
-          "url": "https://open.spotify.com/artist/1ao488YkYeC1iUFSEcAvjm"
-        }
-      ],
-      "duration_ms": 145609,
-      "name": "GARDEL EN EL AVI\u00d3N",
-      "url": "https://open.spotify.com/track/3jjFnrNEplIuYPf8qH5yUf"
-    },
-    {
-      "added_at": "2026-09-10 17:00:41",
-      "album": {
         "name": "Un peu plus souvent (Yuksek remix)",
         "url": "https://open.spotify.com/album/3WdCI0B0T0b2myEJUWmS3j"
       },
@@ -1779,6 +1755,30 @@
       "duration_ms": 209813,
       "name": "\u00c9toile Filante",
       "url": "https://open.spotify.com/track/6EuvKVXsQrJa7nePwN7ve7"
+    },
+    {
+      "added_at": "2026-09-10 17:00:41",
+      "album": {
+        "name": "CEROUNO",
+        "url": "https://open.spotify.com/album/5le8bGUJj6QSUL1CojXAIJ"
+      },
+      "artists": [
+        {
+          "name": "Delfina Dib",
+          "url": "https://open.spotify.com/artist/6vwr6V7RwcWMDqVNerpNlZ"
+        },
+        {
+          "name": "Willy Bronca",
+          "url": "https://open.spotify.com/artist/72LcvCe3u6J31WGoz55n9c"
+        },
+        {
+          "name": "Tomy B",
+          "url": "https://open.spotify.com/artist/1ao488YkYeC1iUFSEcAvjm"
+        }
+      ],
+      "duration_ms": 145609,
+      "name": "GARDEL EN EL AVI\u00d3N",
+      "url": "https://open.spotify.com/track/3jjFnrNEplIuYPf8qH5yUf"
     },
     {
       "added_at": "2026-09-10 17:00:41",
@@ -1833,6 +1833,22 @@
       "url": "https://open.spotify.com/track/4xWKzMax2D4VMvb080Ci6K"
     },
     {
+      "added_at": "2026-09-18 04:02:29",
+      "album": {
+        "name": "Husband",
+        "url": "https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo"
+      },
+      "artists": [
+        {
+          "name": "Blossoms",
+          "url": "https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5"
+        }
+      ],
+      "duration_ms": 236440,
+      "name": "Husband",
+      "url": "https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD"
+    },
+    {
       "added_at": "2026-09-10 17:00:41",
       "album": {
         "name": "Business",
@@ -1883,30 +1899,6 @@
       "duration_ms": 180003,
       "name": "Monster",
       "url": "https://open.spotify.com/track/0ArK2SbGCLuuWsSdF2YFGS"
-    },
-    {
-      "added_at": "2026-09-14 16:21:14",
-      "album": {
-        "name": "Va Va Vroom",
-        "url": "https://open.spotify.com/album/67w7fxQ3qMYp16ENtDJjbf"
-      },
-      "artists": [
-        {
-          "name": "Jadakins",
-          "url": "https://open.spotify.com/artist/1G7hnhf87VHNjdOGTI6zx9"
-        },
-        {
-          "name": "Dee Mad",
-          "url": "https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI"
-        },
-        {
-          "name": "MJ Nebreda",
-          "url": "https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy"
-        }
-      ],
-      "duration_ms": 125714,
-      "name": "Va Va Vroom",
-      "url": "https://open.spotify.com/track/6QK53R3PkzMAgCY4L8iENN"
     }
   ],
   "unique_name": "EA SPORTS FC 27 Official Soundtrack",

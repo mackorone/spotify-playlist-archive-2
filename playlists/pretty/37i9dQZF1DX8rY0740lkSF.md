@@ -103,4 +103,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8rY0740lkSF.md) - [plain]
 | 93 | [THE SECOND ACT \- X ver.](https://open.spotify.com/track/39pHrTjDWuDvbuLY6i2qnT) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ ファンタジア なりきりダンジョンX オリジナルサウンドトラック](https://open.spotify.com/album/71bEOsE8FKdYOyFTvAeMlA) | 2:11 |
 | 94 | [TAKE UP THE CROSS \- X ver.](https://open.spotify.com/track/3VbCwh5njuLRxHdXTzFYnc) | [テイルズ オブ シリーズ SOUND TEAM](https://open.spotify.com/artist/1rEXDL9kyqXXDiZgCloFXL), [Bandai Namco Game Music](https://open.spotify.com/artist/79TdUM8JBfntiLVLJVTS98) | [テイルズ オブ ファンタジア なりきりダンジョンX オリジナルサウンドトラック](https://open.spotify.com/album/71bEOsE8FKdYOyFTvAeMlA) | 2:39 |
 
-Snapshot ID: `AAAAAO1VlI7YOFW/n1P+MqA3h08cwBxS`
+Snapshot ID: `AAAAAIAWqU139wiOBn4l7o/p8PdmKCKA`

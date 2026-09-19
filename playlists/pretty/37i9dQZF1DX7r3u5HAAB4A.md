@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 
 > A melting pot of Caribbean culture\. Cover: Malie Donn
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,592 likes - 103 songs - 5 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,041 likes - 103 songs - 5 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -112,4 +112,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7r3u5HAAB4A.md) - [plain]
 | 102 | [Ackee](https://open.spotify.com/track/2cEZKqPlouhdWVAQ3qFGFu) | [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [BARE CHAT](https://open.spotify.com/album/47uDkYlLrtQMT26ywUpaGQ) | 2:18 |
 | 103 | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/track/03jGFqmsLt2BLWcbA4Vx5E) | [Mahalia](https://open.spotify.com/artist/16rCzZOMQX7P8Kmn5YKexI), [Masicka](https://open.spotify.com/artist/2Gzy8TYJ5xrEMDyUjZuDsK) | [Different Type of Love \(feat\. Masicka\)](https://open.spotify.com/album/1bD4ne7GGkyeViaNBFg5Z2) | 3:05 |
 
-Snapshot ID: `AAAAAIlAwTqs2ZiClkeM3XtRp0HrfHg9`
+Snapshot ID: `AAAAAP9Pekdl7a2KRNpVG2qMhlFgN8e9`

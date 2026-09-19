@@ -2,9 +2,9 @@
 
 ### [RAP 91 Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWTqYqGLu7kTX)
 
-> Best of Punjabi Hip\-Hop! Cover:  Karan Aujla
+> Best of Punjabi Hip\-Hop! Cover:  Diljit Dosanjh
 
-351 songs - 17 hr 22 min
+352 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -193,7 +193,7 @@
 | [Life for Hip\-Hop](https://open.spotify.com/track/3ZbYWJ1B5Fp7ZRCGKGepgZ) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:53 | 2025-02-28 |  |
 | [Lighter](https://open.spotify.com/track/7xPSRRceQoC0nJqfg5P60h) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1) | [The Finest](https://open.spotify.com/album/47gUYtnZNZBbbcwc6YMdAy) | 3:26 | 2024-07-26 | 2024-08-24 |
 | [Lock](https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Lock](https://open.spotify.com/album/26w8VWnNdWUcF5rRZc2rrZ) | 2:55 | 2025-02-28 | 2026-06-27 |
-| [London](https://open.spotify.com/track/6JJItkAG3SkBVZfk1vFVVu) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Majhaestic](https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v) | 3:05 | 2026-06-26 |  |
+| [London](https://open.spotify.com/track/6JJItkAG3SkBVZfk1vFVVu) | [Prem Dhillon](https://open.spotify.com/artist/6IP4VnqS1pOiQcPVP4zx0H), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Majhaestic](https://open.spotify.com/album/0Rfydlvsbf9JRARoPfaj3v) | 3:05 | 2026-06-26 | 2026-09-19 |
 | [Low Fade](https://open.spotify.com/track/4CZl2BQkGPIFK99cf6jTAz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Low Fade](https://open.spotify.com/album/4OMBxFEkBo4MHCTTRP90Jf) | 2:55 | 2026-07-03 |  |
 | [Low Rider](https://open.spotify.com/track/54eRJjpGrbomPpChIlVYgy) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Real Boss](https://open.spotify.com/artist/7mAbpafXc2MIAZn4ldxEuP), [CHEETAH](https://open.spotify.com/artist/48jxktLmsxYggMW9XpdI15) | [Low Rider](https://open.spotify.com/album/28BL2zT9xYHkzQILhHdRMv) | 3:05 | 2025-12-12 |  |
 | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/track/6zWZp7gpqXuY5Fb4HXhb9C) | [Tarsem Jassar](https://open.spotify.com/artist/67XQGZSc63AMXMINY8H7Fx) | [Maan Punjabi \- Spotify Singles](https://open.spotify.com/album/0tiQGJvtfSDtqGURqSU2e3) | 2:33 | 2023-03-18 | 2023-04-12 |
@@ -259,6 +259,7 @@
 | [One Call Away](https://open.spotify.com/track/2Wtl8Lr6ZF2XSnGcakH4zG) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Jazzy B](https://open.spotify.com/artist/25bvyjHJAszeSV3q0TmEhY), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Enigma](https://open.spotify.com/album/0mUdGUIB3n2lIXkarHHHyf) | 3:04 | 2026-05-29 |  |
 | [Oouuu](https://open.spotify.com/track/4hAmLeBT1Ryk2oxSMMiJ7z) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ) | [Way Ahead](https://open.spotify.com/album/0hyDY9e60a2LNEasyI52KF) | 2:27 | 2023-03-18 | 2024-10-19 |
 | [Opinion](https://open.spotify.com/track/0wDE9NWS9C5s0wbC5DQZ7z) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Manifest](https://open.spotify.com/album/11PJMOJkvhx55dOpJQRUV8) | 2:18 | 2025-06-20 | 2026-02-18 |
+| [Parche](https://open.spotify.com/track/363T4AE8XIqufjcKQ2Wg2P) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [SAMBATA](https://open.spotify.com/artist/3Il6TyOnML9fMSCyDMbUCO), [Hukam](https://open.spotify.com/artist/03OH9jpTJ8nYmuWdGSe5Zr) | [BLACK AND WHITE](https://open.spotify.com/album/5qVFswtg7g13VmcMCVWzrF) | 3:15 | 2026-09-18 |  |
 | [Pecha](https://open.spotify.com/track/66h3lsk8H1wLsqh4Rph0kn) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ) | [Pecha](https://open.spotify.com/album/07EHw83aARjdazdCuKQJGz) | 2:19 | 2025-01-16 | 2025-04-19 |
 | [Peg Patiala](https://open.spotify.com/track/1T2zltv44cifAqZIbG3D2N) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw) | [Peg Patiala](https://open.spotify.com/album/5avTKrtiB7J3HbUWYGStQB) | 3:06 | 2025-06-06 | 2026-02-18 |
 | [Petrol](https://open.spotify.com/track/3vr1DQv4bow2fW4od7PJU0) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [THE REVOLUTION](https://open.spotify.com/album/1QkGi708j70paXVgKdef65) | 1:59 | 2025-02-28 |  |

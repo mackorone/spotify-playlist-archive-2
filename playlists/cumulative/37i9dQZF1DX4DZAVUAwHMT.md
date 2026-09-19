@@ -4,7 +4,7 @@
 
 > The UK's biggest rock playlist\. Cover: beabadoobee
 
-1,563 songs - 3 day 16 hr 12 min
+1,564 songs - 3 day 16 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -689,6 +689,7 @@
 | [I've Said Too Much \[Feat\. Dazy\]](https://open.spotify.com/track/5LzRRzixhsgAiHyEc42rDX) | [Militarie Gun](https://open.spotify.com/artist/4us4NMG5wuqdUZvthZrj0Q), [Dazy](https://open.spotify.com/artist/2pe1uLYghU4lj6Fe6qq8k6) | [God Save The Gun \(Deluxe\)](https://open.spotify.com/album/72bQZ9JHJtRR5g4vGiFIco) | 2:36 | 2026-09-11 |  |
 | [Iconic](https://open.spotify.com/track/21WBLBnlfaelcFQz0Qvegw) | [Hana Lili](https://open.spotify.com/artist/6irpcuKNgvg9Zyy62yXC7p) | [Iconic](https://open.spotify.com/album/4XCUSQq5jRc6B8E6tR7SaZ) | 2:26 | 2024-04-18 | 2024-09-06 |
 | [if i had a gun](https://open.spotify.com/track/4rYoirkxujHEP1hhKZcMrl) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [FOREVER](https://open.spotify.com/album/52iIfDstVzVMMAuOsFJ2YA) | 2:32 | 2025-05-15 | 2025-08-22 |
+| [If The Sun Burns Out Tonight](https://open.spotify.com/track/6XZ5emkGiXmX3T77PhIKam) | [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t), [Grabbitz](https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45), [Oli Sykes](https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW), [Courtney LaPlante](https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs) | [If The Sun Burns Out Tonight](https://open.spotify.com/album/30wcEnAwWs8vMajB23SPx5) | 3:46 | 2026-09-18 |  |
 | [If You Could Talk](https://open.spotify.com/track/6VeZUUTHx67EmtTM4682eA) | [Dexter and The Moonrocks](https://open.spotify.com/artist/72sOBVpZpUwHq7i0vb26lT) | [If You Could Talk](https://open.spotify.com/album/269QpgbtjTpHHPGdZlLany) | 3:55 | 2026-07-16 |  |
 | [If You Wanna](https://open.spotify.com/track/600a14WIlxMRKPn5DlSC6m) | [STONE](https://open.spotify.com/artist/1br1PqvafIUOis4rBUvv1H) | [If You Wanna](https://open.spotify.com/album/3qq71MqRsuDFptNY9VeEAB) | 2:48 | 2023-09-21 | 2023-10-27 |
 | [If You’re Gonna Break My Heart](https://open.spotify.com/track/4rd7dRScIJePZmZsHpDHRP) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [If You’re Gonna Break My Heart](https://open.spotify.com/album/0HINCw0Pfo7xmGaMTXS51l) | 4:26 | 2023-02-03 | 2023-05-05 |

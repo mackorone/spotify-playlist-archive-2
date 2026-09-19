@@ -4,7 +4,7 @@
 
 > A weekly selection of tracks that I love to listen to at home or play out at a party.
 
-3,187 songs - 8 day 0 hr 45 min
+3,188 songs - 8 day 0 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2912,6 +2912,7 @@
 | [Turn It Up](https://open.spotify.com/track/7wy6C3yXk0vqsIHa8okpoh) | [TV Noise](https://open.spotify.com/artist/32Aw9aJJoXXC1Vn3zqzJbQ) | [Turn It Up](https://open.spotify.com/album/0anuO2efQfyUNAqRWxkUAr) | 2:49 | 2022-10-15 | 2022-11-05 |
 | [Turn Me On](https://open.spotify.com/track/5kCOmZ3BZwsdNEmDK05WMj) | [Inner City](https://open.spotify.com/artist/0vUJ3QLN3MlRfjOc2LjGWp), [Steffanie Christi'an](https://open.spotify.com/artist/7kY9ne2m81JVEziwNj9tTF) | [Turn Me On](https://open.spotify.com/album/7AObGFYtZ1cN9LZFSISXZI) | 3:25 | 2026-08-14 |  |
 | [Turn The Page](https://open.spotify.com/track/038YxoOvHJKyFiXhqlVkil) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3), [The Streets](https://open.spotify.com/artist/4GvOygVQquMaPm8oAc0vXi) | [Turn The Page](https://open.spotify.com/album/3v8EL9UazZlDhvn6mERMoq) | 4:22 | 2024-05-10 | 2024-05-26 |
+| [Turn Up The Speakers \- Julian Jordan Remix](https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM) | [AFROJACK](https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz), [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Julian Jordan](https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV) | [Turn Up The Speakers \(Julian Jordan Remix\)](https://open.spotify.com/album/3ls2ibRNHUJwcwQLkGYWFk) | 2:36 | 2026-09-18 |  |
 | [Turning \- Radio Edit](https://open.spotify.com/track/3oGy260x9Rpc80VErMf6u3) | [Footshooter](https://open.spotify.com/artist/691jSL9gwZx8VX55QVTRGa) | [Afterglow FM](https://open.spotify.com/album/5UCHZ2Bbf5kicl2AQSapTz) | 2:51 | 2022-11-18 | 2022-12-03 |
 | [Turntable Truth](https://open.spotify.com/track/362ZxQJ3XC8K7lo19ysDow) | [Fedde Le Grand](https://open.spotify.com/artist/7dc6hUwyuIhrZdh80eaCEE), [Funkerman](https://open.spotify.com/artist/7ljL11SRgjkdqO8NqjJBVU), [Smokin' Jack Hill](https://open.spotify.com/artist/4yBNXUpedJYDi734gNJWSm) | [Turntable Truth](https://open.spotify.com/album/6GrtcsJyvo6zxwE6T20snD) | 3:23 | 2025-05-17 | 2025-05-25 |
 | [Two Line Groove](https://open.spotify.com/track/7cfoiMqGf3tFHOLRLp35BU) | [Claude VonStroke](https://open.spotify.com/artist/5CYAFhywQTXdZmppCp0ukd), [Jasper Crenshaw](https://open.spotify.com/artist/2Ap9R6ckbHRu6IdUYaKU8o), [Ella Crenshaw](https://open.spotify.com/artist/3NzLlEC2xlPrmXbQ9uexy1) | [Two Line Groove](https://open.spotify.com/album/2Y5oB0yUOF6p8UxxJCMCyx) | 2:42 | 2026-04-17 | 2026-05-10 |

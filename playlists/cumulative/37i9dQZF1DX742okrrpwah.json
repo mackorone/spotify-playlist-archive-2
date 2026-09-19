@@ -14733,6 +14733,24 @@
     },
     {
       "album": {
+        "name": "Detour (Rare N' Deluxe)",
+        "url": "https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258083,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV"
+    },
+    {
+      "album": {
         "name": "Jeune & Laide",
         "url": "https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ"
       },
@@ -48564,7 +48582,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 158589,
-      "name": "DIAMONDS",
+      "name": "Diamonds",
       "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
     },
     {
@@ -112126,6 +112144,24 @@
       "duration_ms": 208790,
       "name": "Londres en Mars_freestyle 2025",
       "url": "https://open.spotify.com/track/05pGpNnBnOwIAeF4zaGEd2"
+    },
+    {
+      "album": {
+        "name": "POST GLOOM",
+        "url": "https://open.spotify.com/album/3C5V7kQaYRWbFanQCEHiTd"
+      },
+      "artists": [
+        {
+          "name": "BLOW",
+          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 295906,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/4QV90sdysX82x6GyFX2URa"
     },
     {
       "album": {
@@ -197478,42 +197514,6 @@
       "duration_ms": 194919,
       "name": "Traces (feat. SDM)",
       "url": "https://open.spotify.com/track/5vAzHFS0RL5lVEeuPD1om9"
-    },
-    {
-      "album": {
-        "name": "Detour (Rare N' Deluxe)",
-        "url": "https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 17",
-      "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV"
-    },
-    {
-      "album": {
-        "name": "POST GLOOM",
-        "url": "https://open.spotify.com/album/3C5V7kQaYRWbFanQCEHiTd"
-      },
-      "artists": [
-        {
-          "name": "BLOW",
-          "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4QV90sdysX82x6GyFX2URa"
     },
     {
       "album": {

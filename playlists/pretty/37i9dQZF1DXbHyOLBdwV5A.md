@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 
 > A palavra do Senhor pra você dançar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,279 likes - 75 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,283 likes - 75 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,8 +54,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 44 | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/track/4906T93wcLNpENXsVAbfHb) | [Dois Irmãos](https://open.spotify.com/artist/1oGmoG5sbNO6r8VW7RyZll), [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Michaell D](https://open.spotify.com/artist/5ArzJ2X1nP3xieoouy9lwE) | [Vem Com Josué Lutar em Jericó](https://open.spotify.com/album/5FcbFy9wrhcBcSfWdg3xWN) | 2:38 |
 | 45 | [Tempo Novo](https://open.spotify.com/track/0IvQFmJgLHW9beiu5mTMvy) | [DJ Alan Nunes](https://open.spotify.com/artist/1Yz7yVjGoYzlg4gdrmTPuo), [Cristo Alegria](https://open.spotify.com/artist/4qsj59g2x0oYzuOuXagY3J) | [Tempo Novo](https://open.spotify.com/album/5sdUuhHJoS9RyRfYkGWzYJ) | 3:37 |
 | 46 | [Encontrar](https://open.spotify.com/track/6MwtfborOQQqACqx6lsBrX) | [Tomatti](https://open.spotify.com/artist/6QSaldbCVLPl1QYQFYALrR) | [Encontrar](https://open.spotify.com/album/2Mwju9MPuVu6msQXmoWsKc) | 2:44 |
-| 47 | [Azul](https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ok!](https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz) | 2:30 |
-| 48 | [Eu Voltei](https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Eliezer Rezende](https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh) | [Eu Voltei](https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD) | 3:11 |
+| 47 | [Eu Voltei](https://open.spotify.com/track/6Pd2FCXWEomUTcUraqadp2) | [Leandro Alencar](https://open.spotify.com/artist/5bZTDTpuiv6SkLkbhDOh0x), [Eliezer Rezende](https://open.spotify.com/artist/46R0MX2uXNqCdIPeUo3xFh) | [Eu Voltei](https://open.spotify.com/album/0ODwJ0peFEa3k3axaltglD) | 3:11 |
+| 48 | [Azul](https://open.spotify.com/track/7zn8W0S4iA5awUPz4N0Kxp) | [Hadassah Perez](https://open.spotify.com/artist/0xGcz3etCHBOf6ZmZB6YAb) | [Ok!](https://open.spotify.com/album/6n3cBUrNtcIL852TX2N3qz) | 2:30 |
 | 49 | [Vamo Com Tudo](https://open.spotify.com/track/0xto6kOf1WTk2VfQ9ItPkm) | [Kennto](https://open.spotify.com/artist/1LowrYvOkGJcVk5piBkvD3), [YoungJhow](https://open.spotify.com/artist/594qTcHwWxBHZAy6NSRGko), [JoyFull](https://open.spotify.com/artist/3fsEN3GFq4UYojJ9YKWAZ5) | [Vamo Com Tudo](https://open.spotify.com/album/3JG2veeth9hEJJ9tWToZqG) | 2:59 |
 | 50 | [O Autor](https://open.spotify.com/track/56kNz9R6DCjeoQuCrljeYy) | [Lufra](https://open.spotify.com/artist/0WbCLutChGfh0qP6SWIsVH), [Dj Mello](https://open.spotify.com/artist/0CwYZDyglnOXWCZ9xx2YC2), [Felson](https://open.spotify.com/artist/2DDzAI8sGdcVE4MYs8VuU2) | [O Autor](https://open.spotify.com/album/50A1UrSjQM0zcLJuqEI3rr) | 2:56 |
 | 51 | [Balada do Senhor \(Slap House Gospel\)](https://open.spotify.com/track/6qK8RrdvUSBKWoBjgAqyoV) | [DJ Emerson MK](https://open.spotify.com/artist/4sOeEoCv8yEKQ5jl6UoffX), [DJ Vitor Capoia](https://open.spotify.com/artist/0I2GS9B8Wtghd5LogOcePp), [Cleyton & Johnny](https://open.spotify.com/artist/7MLppR1QSf2lpb5ljhiTwT) | [Balada do Senhor \(Remixes\)](https://open.spotify.com/album/3qN9BR6Mv6kjTj1RvvMJ3N) | 2:58 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbHyOLBdwV5A.md) - [plain]
 | 74 | [Tu És Real \(feat\. Fernandinho & Gabriela Rocha\)](https://open.spotify.com/track/103rDmKCI9cOA5z1ZMkkHm) | [DJ PV](https://open.spotify.com/artist/6jdJKaM0mCqZzbUgeO5e0j), [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [Som da Liberdade 2.0](https://open.spotify.com/album/6lXJdvuPnJl7T3dN2ctPws) | 4:21 |
 | 75 | [YOU ARE GOOD](https://open.spotify.com/track/2K8WQYyYQgCkMn68iK5yiz) | [Gui Brazil](https://open.spotify.com/artist/5UBTjAZHVXlnISDDkj7LVE), [GV3](https://open.spotify.com/artist/3Cfqd7Hjh2Ctl6OlKT1zBr) | [YOU ARE GOOD](https://open.spotify.com/album/4N7YMZlUlS4Mx4UAqKRUEJ) | 2:20 |
 
-Snapshot ID: `AAAAAAbBjnW7TIgVeqH7xbiPUh0xJGZg`
+Snapshot ID: `AAAAADCQzgKzUYEfqF7e4KuaJrkndPrK`

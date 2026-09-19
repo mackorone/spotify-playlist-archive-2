@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,847 songs - 10 day 22 hr 11 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,851 songs - 10 day 22 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4855,5 +4855,9 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4845 | [Be Water My Friend](https://open.spotify.com/track/3sdi3e3G30q347yGVIuzG9) | [Miciz](https://open.spotify.com/artist/7qpozaIK58pp74Ep8ugnrW), [LORD AMEN](https://open.spotify.com/artist/12N57Y6sSeiPuVwe9jvcIY) | [Be Water My Friend](https://open.spotify.com/album/3ChAH5i8VofZE3uBVo3lN3) | 3:00 |
 | 4846 | [One More Sunrise](https://open.spotify.com/track/00NceuLhHFOKWaLKwQKLTV) | [AUREVAIN](https://open.spotify.com/artist/4tPzOCUsGbpJmDdWKUmr4x) | [One More Sunrise](https://open.spotify.com/album/1P6QYcDerRPjAQDcHpi5wv) | 5:22 |
 | 4847 | [The Ever Patient](https://open.spotify.com/track/1eGah37rhnWdb9Ve2qnzZ2) | [Atrocity Girl](https://open.spotify.com/artist/5XpzCpqGPiWJgWAAI1kRdp) | [The Ever Patient](https://open.spotify.com/album/7nX5qkjeBqvZo9UYneMQKW) | 3:59 |
+| 4848 | [How I Roll](https://open.spotify.com/track/32paNGShaeE7O5USN1pC4M) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [How I Roll](https://open.spotify.com/album/03LIKVBmtQtxm2u0wxO35n) | 3:41 |
+| 4849 | [Let Me See The Fire](https://open.spotify.com/track/2NuKWe5H1xJSsEn3EfSXqx) | [Anyverse](https://open.spotify.com/artist/5n7wwlclR6kAlw5N74NCSg) | [Let Me See The Fire](https://open.spotify.com/album/5sqrxKoR11mfTuEley9Bhy) | 3:12 |
+| 4850 | [The Cobra Has Arrived, Pt\. 2](https://open.spotify.com/track/28onWsoR8929yLq7Npxbd7) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [The Cobra Has Arrived, Pt\. 2](https://open.spotify.com/album/7wL9N0B0ZxJcYNRQh3L6dO) | 3:59 |
+| 4851 | [Personality](https://open.spotify.com/track/4d6opMFuuaU5YjfkSqpYV7) | [Retroviral](https://open.spotify.com/artist/2bemF0p9xqlEuiClwuECVl) | [Personality](https://open.spotify.com/album/3hNiSRcbKZ8y5tkoBKyC5c) | 3:15 |
 
-Snapshot ID: `AAAKEzzuDr46qbTmkTeddcOyyR74Mq5T`
+Snapshot ID: `AAAKFyvgVeZKaXr0eFU41OAqd/wgZFtQ`

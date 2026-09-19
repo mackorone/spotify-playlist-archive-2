@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Philippines.
 
-1,255 songs - 3 day 4 hr 3 min
+1,256 songs - 3 day 4 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Alipin](https://open.spotify.com/track/4m9p3fGGkutMcvjgVTu1QN) | [Khel Pangilinan](https://open.spotify.com/artist/30DIeQNV9s1HEXyuCpGF4l) | [BANDROOM SESSIONS EPISODE 1](https://open.spotify.com/album/5yGhuPl0wpNaZQDOaFGda2) | 3:54 | 2025-08-15 | 2025-10-04 |
 | [Alipin](https://open.spotify.com/track/3KhjY6JxrGo6ii77SbILG7) | [Shamrock](https://open.spotify.com/artist/2TnJoEY5ctCfKaCwosowyY) | [Are You Serious?](https://open.spotify.com/album/6rfNifF9BMWfvuXng0TBoW) | 4:23 | 2025-08-18 | 2025-08-20 |
 | [All Eyes On Me](https://open.spotify.com/track/2YXswOX5aKv6OHRKUcAMLQ) | [JISOO](https://open.spotify.com/artist/6UZ0ba50XreR4TM8u322gs) | [ME](https://open.spotify.com/album/4QuczuzDZNzCDli5Gz6DQ0) | 2:43 | 2023-04-01 | 2023-04-06 |
-| [All I Need To Hear](https://open.spotify.com/track/5WdMBJD7V5CVBTBdE2at2D) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/0kvoCDiWdZ7eHPW7xvdg3z) | 3:30 | 2026-09-14 |  |
+| [All I Need To Hear](https://open.spotify.com/track/5WdMBJD7V5CVBTBdE2at2D) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/0kvoCDiWdZ7eHPW7xvdg3z) | 3:30 | 2026-09-14 | 2026-09-19 |
 | [All I Want for Christmas Is You](https://open.spotify.com/track/0bYg9bo50gSsH3LtXe2SQn) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ) | [Merry Christmas](https://open.spotify.com/album/61ulfFSmmxMhc2wCdmdMkN) | 4:01 | 2021-12-17 | 2025-12-28 |
 | [All Of The Girls You Loved Before](https://open.spotify.com/track/4P9Q0GojKVXpRTJCaL3kyy) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [All Of The Girls You Loved Before](https://open.spotify.com/album/1Uauz6ql2dIPvIOH4JiuhD) | 3:41 | 2023-03-18 | 2023-09-10 |
 | [All The Stars \(with SZA\)](https://open.spotify.com/track/3GCdLUSnKSMJhs4Tj6CV3s) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Black Panther The Album Music From And Inspired By](https://open.spotify.com/album/3pLdWdkj83EYfDN6H2N8MR) | 3:52 | 2025-02-12 | 2025-03-07 |
@@ -725,7 +725,7 @@
 | [Multo](https://open.spotify.com/track/5tlb0AxuzsMWL2GtEppXGX) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [Silakbo](https://open.spotify.com/album/2WOyuTsNHF90SryrS3kmIN) | 3:57 | 2025-03-01 |  |
 | [Multo \(Stripped Down\)](https://open.spotify.com/track/1GSv3y0eL50grXOaro8BTn) | [Cup of Joe](https://open.spotify.com/artist/61nn6nOoLWjVC1ER2qFAvN) | [The Loved One \(Original Movie Soundtrack\)](https://open.spotify.com/album/3Ro4baI6qQJeefppUAUoVw) | 4:06 | 2026-02-08 | 2026-03-01 |
 | [Mundo](https://open.spotify.com/track/4u8RkgV6P4TLi89SmlUtv8) | [IV Of Spades](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/2p6QlBCrnKwUFC0wPN1kfV) | 5:49 | 2023-04-30 | 2023-05-03 |
-| [Mundo](https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl) | 5:49 | 2025-04-19 |  |
+| [Mundo](https://open.spotify.com/track/61vyXXtY7OSYFRtSzv5ehw) | [IV OF SPADES](https://open.spotify.com/artist/4k9wp4ipHdA1bu1T4x1ZTG) | [Mundo](https://open.spotify.com/album/5TbOkIWnSSdde2HYigXvBl) | 5:49 | 2025-04-19 | 2026-09-19 |
 | [Museo](https://open.spotify.com/track/2dMQ4FbQcrEWVFK6NIFjrl) | [Eliza Maturan](https://open.spotify.com/artist/3C1ER0cuXc8dLtaI8RvLI6) | [Museo](https://open.spotify.com/album/5YU9eW5SXNmyX768HHrDFr) | 4:30 | 2024-07-07 | 2025-06-03 |
 | [Musika](https://open.spotify.com/track/7bAVndaTleEnfizm6h2d3i) | [Dionela](https://open.spotify.com/artist/1chOgh5tgwfiyJ2zhUHwBj) | [Musika](https://open.spotify.com/album/3A0K1ImYGMKTYDLe5EgLWv) | 4:06 | 2023-04-12 | 2025-05-04 |
 | [My Boy Only Breaks His Favorite Toys](https://open.spotify.com/track/05msZuGKP3OCUGQnvLBOf4) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/3f6e4wXxxi4ahqWsSU7OpT) | 3:23 | 2024-04-20 | 2024-04-22 |
@@ -739,6 +739,7 @@
 | [My Universe \- Instrumental](https://open.spotify.com/track/2sp32rIevQhpbo0Z4aQzoe) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [My Universe](https://open.spotify.com/album/39McjovZ3M6n5SFtNmWTdp) | 3:48 | 2021-09-26 | 2021-09-27 |
 | [MYSB \(Miss You so Bad\)](https://open.spotify.com/track/6LIKnHYUP1ItLpKFhFL8R8) | [Kira](https://open.spotify.com/artist/5QS9kt4vpBuruMJDplhsIq) | [MYSB \(Miss You so Bad\)](https://open.spotify.com/album/4faZTb8gMHsBfrDjMOCnnL) | 4:44 | 2026-08-03 | 2026-09-18 |
 | [Na Na Na](https://open.spotify.com/track/4aqkICleG6HLRc2ygpWqN1) | [BINI](https://open.spotify.com/artist/7tNO3vJC9zlHy2IJOx34ga) | [Born To Win](https://open.spotify.com/album/28rgW6IXDsrk4YtTcFtGGK) | 4:11 | 2024-05-10 | 2024-08-06 |
+| [Na Para Bang](https://open.spotify.com/track/5U3UOiWDos9P2NWV7xTNwJ) | [Mariah Deborah](https://open.spotify.com/artist/37Wy0h3oMjblxPn4bLXqyv) | [Na Para Bang](https://open.spotify.com/album/3PEV15iBgqpsdyUVT5pj4x) | 3:48 | 2026-09-18 |  |
 | [Nahuhulog](https://open.spotify.com/track/1t2gvCG4jH1kYE9sX2PrRs) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/6djSRoiGffRDFthmbsRgDP) | 3:47 | 2023-08-31 | 2024-03-08 |
 | [Nahuhulog](https://open.spotify.com/track/0R6lC6F082eap1AJd8W54d) | [Jed Baruelo](https://open.spotify.com/artist/6EigliA66uumHSob7cOG1y) | [Nahuhulog](https://open.spotify.com/album/07p7jUJyKz9qVwieHNpxs8) | 3:47 | 2023-08-05 | 2023-09-01 |
 | [Naiilang](https://open.spotify.com/track/2NxnWXho1vkCkuBijDyYNK) | [Le John](https://open.spotify.com/artist/2SKZZzdGrOcdb8q3IguugV) | [Naiilang](https://open.spotify.com/album/7e0J2eo8jrAtRjDkMqtzs5) | 4:07 | 2025-05-13 | 2026-09-18 |
@@ -911,7 +912,7 @@
 | [Running Wild](https://open.spotify.com/track/45DB3yqxYGAnKN3YmLWbAX) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :D \(Remixes\)](https://open.spotify.com/album/6MNt88F7umrtkwUPcOgG69) | 2:31 | 2024-11-20 | 2024-11-25 |
 | [Running Wild](https://open.spotify.com/track/4p7DTkyrKqT98xlIwYYfXz) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy](https://open.spotify.com/album/0fKlaQuBMQYFo5aIFoGIXt) | 2:31 | 2024-11-16 | 2024-11-18 |
 | [Running Wild](https://open.spotify.com/track/50zAEIE4B1QqhPjRMK2Xmh) | [Jin](https://open.spotify.com/artist/5vV3bFXnN6D6N3Nj4xRvaV) | [Happy \- :'\) \(Remixes\)](https://open.spotify.com/album/3nRmQ70bczWCLWyj1aRbt6) | 2:31 | 2024-11-21 | 2024-12-17 |
-| [Sa Bawat Sandali](https://open.spotify.com/track/06IkOr83qPqa3yYvrIjgxp) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Sa Bawat Sandali](https://open.spotify.com/album/15yotlQyhydLnbHKy8TFRl) | 5:02 | 2025-01-19 | 2026-08-30 |
+| [Sa Bawat Sandali](https://open.spotify.com/track/06IkOr83qPqa3yYvrIjgxp) | [Amiel Sol](https://open.spotify.com/artist/4iXntje546XRJmmMTjTO7g) | [Sa Bawat Sandali](https://open.spotify.com/album/15yotlQyhydLnbHKy8TFRl) | 5:02 | 2025-01-19 |  |
 | [Sa Ngalan Ng Pag\-Ibig](https://open.spotify.com/track/1FnPkOlWCMwRtfXeAAuhMu) | [December Avenue](https://open.spotify.com/artist/4qFxP3qN9GsnZDOkAE6x2m) | [Langit Mong Bughaw](https://open.spotify.com/album/7eXlJM2M5i3iDd8xgd0qwr) | 4:45 | 2025-02-04 | 2025-11-19 |
 | [Sa Susunod na Habang Buhay](https://open.spotify.com/track/3PgjBOoA5OytNGkglObpOd) | [Ben&Ben](https://open.spotify.com/artist/4DAcJXcjX0zlQAZAPAx4Zb) | [Sa Susunod na Habang Buhay](https://open.spotify.com/album/0U3q2NgWn97Fsns6dg7CzD) | 4:48 | 2022-05-02 | 2025-02-01 |
 | [Sa Susunod Na Lang](https://open.spotify.com/track/34ob61cxp34Sf7KHK6RnSU) | [PDL](https://open.spotify.com/artist/1Dlwdk88pCDKkHvThkSdqc), [Skusta Clee](https://open.spotify.com/artist/117XFtbZPnCI1EYKjYZWJc), [Yuridope](https://open.spotify.com/artist/5xOvrnVpLjzfGi69GDlzQY) | [Sa Susunod Na Lang](https://open.spotify.com/album/79UXZq6nXVVBpZgWWxb9Gq) | 3:34 | 2023-05-13 | 2026-08-08 |

@@ -1,12 +1,12 @@
 {
   "description": "This is 2Pac. The essential tracks, all in one playlist.",
-  "num_followers": 1238241,
+  "num_followers": 1238311,
   "original_name": "This Is 2Pac",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAAcis15hZJRkks1XjnA4luQ",
+  "snapshot_id": "aqstgAAAAAD3utJSQNfLd42m53zXO9AX",
   "tracks": [
     {
       "added_at": null,
@@ -459,26 +459,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Better Dayz",
-        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        },
-        {
-          "name": "Mr. Biggs",
-          "url": "https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO"
-        }
-      ],
-      "duration_ms": 257626,
-      "name": "Better Dayz",
-      "url": "https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pac's Life",
         "url": "https://open.spotify.com/album/5eVcXpQNaB4ILrocqaUdmT"
       },
@@ -495,6 +475,26 @@
       "duration_ms": 220266,
       "name": "Soon As I Get Home",
       "url": "https://open.spotify.com/track/3Vt89nokRNoQyafkZ4kJF0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Better Dayz",
+        "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        },
+        {
+          "name": "Mr. Biggs",
+          "url": "https://open.spotify.com/artist/4x508hr5pvqmZTnGzEFBFO"
+        }
+      ],
+      "duration_ms": 257626,
+      "name": "Better Dayz",
+      "url": "https://open.spotify.com/track/5dRCujBQZQq6dlkCaGDMV0"
     },
     {
       "added_at": null,
@@ -535,6 +535,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 279200,
+      "name": "Old School",
+      "url": "https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Better Dayz",
         "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
       },
@@ -551,18 +567,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+        "name": "The Art of War: World War 2",
+        "url": "https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx"
       },
       "artists": [
+        {
+          "name": "Bone Thugs-N-Harmony",
+          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
+        },
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 279200,
-      "name": "Old School",
-      "url": "https://open.spotify.com/track/4GGbJ60q5HIN8wKOp9Xabz"
+      "duration_ms": 307986,
+      "name": "Thug Luv (feat. 2pac)",
+      "url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb"
     },
     {
       "added_at": null,
@@ -595,22 +615,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Art of War: World War 2",
-        "url": "https://open.spotify.com/album/4CDSLpg1NCcgePObnRGTEx"
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
       },
       "artists": [
-        {
-          "name": "Bone Thugs-N-Harmony",
-          "url": "https://open.spotify.com/artist/5spEJXLwD1sKUdC2bnOHPg"
-        },
         {
           "name": "2Pac",
           "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
         }
       ],
-      "duration_ms": 307986,
-      "name": "Thug Luv (feat. 2pac)",
-      "url": "https://open.spotify.com/track/62SqHqTAndm0pqZ8oVvlkb"
+      "duration_ms": 300573,
+      "name": "Temptations",
+      "url": "https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
       "duration_ms": 322573,
       "name": "My Block - Nitty Remix",
       "url": "https://open.spotify.com/track/2qcllSUyD3gKbfh9NEjARW"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 300573,
-      "name": "Temptations",
-      "url": "https://open.spotify.com/track/1PU3Hy2uNXmWGDe9gh4Ukb"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Me Against The World",
+        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
+      },
+      "artists": [
+        {
+          "name": "2Pac",
+          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
+        }
+      ],
+      "duration_ms": 293933,
+      "name": "It Ain't Easy",
+      "url": "https://open.spotify.com/track/6pFfeJceBPGdzTOGgUcLWZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Better Dayz",
         "url": "https://open.spotify.com/album/5tue3HeaFm6XHyYXhI1kww"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 306200,
       "name": "They Don't Give A F**** About Us",
       "url": "https://open.spotify.com/track/4mfc9g4VHf8e7mVLiPEsrq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Me Against The World",
-        "url": "https://open.spotify.com/album/3OrucS4sHv6Bl9GS4rafEk"
-      },
-      "artists": [
-        {
-          "name": "2Pac",
-          "url": "https://open.spotify.com/artist/1ZwdS5xdxEREPySFridCfh"
-        }
-      ],
-      "duration_ms": 293933,
-      "name": "It Ain't Easy",
-      "url": "https://open.spotify.com/track/6pFfeJceBPGdzTOGgUcLWZ"
     },
     {
       "added_at": null,

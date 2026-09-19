@@ -4,7 +4,7 @@
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: KUKO
 
-545 songs - 1 day 3 hr 34 min
+545 songs - 1 day 3 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -467,7 +467,6 @@
 | [Time Lost](https://open.spotify.com/track/2Rw5ktfYbZvrqT2O0uMPA7) | [Junes](https://open.spotify.com/artist/5PiZjZsPnzVtfoF3m3L0uv) | [Of Love and Loss](https://open.spotify.com/album/7eJIpv68HMlBpqViTvCgxv) | 4:19 | 2025-06-05 | 2025-08-29 |
 | [Tinnitus](https://open.spotify.com/track/190WjFY2x74JEa1jL8BTSU) | [Provinz](https://open.spotify.com/artist/2f7f3AmL16mmiAmYnxmmfx) | [Tinnitus](https://open.spotify.com/album/3B7SQjSOkUmlfWNOjZDFel) | 2:17 | 2022-03-31 | 2022-06-17 |
 | [To Whom All Lovers](https://open.spotify.com/track/0awCmEEBuLoXHLe9mH2JOS) | [VTSS](https://open.spotify.com/artist/0zo109NM3S7CqHpvlXwqEN), [Jasmine Azarian](https://open.spotify.com/artist/0SPFoqccna8MrtiFTQLW5s) | [Borderline Tenderness](https://open.spotify.com/album/5JSqzO7OU0ce12h1rkMz7c) | 6:18 | 2021-12-16 | 2022-01-07 |
-| [Track 2](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 0:00 | 2026-09-17 |  |
 | [Trajadão](https://open.spotify.com/track/3C9dOOUF0nUTy1hSvBEe7H) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Sun FM](https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3) | 2:42 | 2025-08-07 | 2026-05-01 |
 | [Traum](https://open.spotify.com/track/7gNNL3bJEqtznjbyMVileY) | [Niyas](https://open.spotify.com/artist/3vsudk9aA5Cx5JHEqpNY6k) | [Traum](https://open.spotify.com/album/3eX1OaU6AYppdtGuLpxdBi) | 2:55 | 2026-01-13 | 2026-01-30 |
 | [Trick By Trick](https://open.spotify.com/track/1RjEEBbM9Lf4G4sRYFMeXE) | [ÄTNA](https://open.spotify.com/artist/4ORnI4BzjKFbUply6fRvkX) | [Trick By Trick](https://open.spotify.com/album/3qfR8Ml0NhRcu2eQm2EScO) | 2:48 | 2021-12-16 | 2022-01-28 |
@@ -488,6 +487,7 @@
 | [Unterwelt](https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Unterwelt](https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd) | 2:45 | 2026-09-04 |  |
 | [Utopie](https://open.spotify.com/track/5dEk2G5Cdklq7eZFCrTIkm) | [ENNIO](https://open.spotify.com/artist/6ztKrKekC3nb3nCBoy9HUt) | [Utopie](https://open.spotify.com/album/7k8u3WFdC2fHOmp9VWsC2E) | 2:43 | 2023-10-05 | 2024-05-10 |
 | [Vergeben \(ans Leben\)](https://open.spotify.com/track/3duSLGUdDRMd2xTnfk4xq8) | [error](https://open.spotify.com/artist/3CiuMe6mZlqH8TnuzA3AYp) | [Vergeben \(ans Leben\)](https://open.spotify.com/album/72yvEy7DONAkwTvch9C2rl) | 2:13 | 2026-04-03 |  |
+| [vergötter mich \(mit bürgermeisterin von wien\)](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 2:41 | 2026-09-17 |  |
 | [Verschwendete Zeit](https://open.spotify.com/track/4Ku2j0poFCLaSAEtncIeLi) | [01099](https://open.spotify.com/artist/3Z3aTg9PwJ37e8xeO0aUC9), [Gustav](https://open.spotify.com/artist/2WmxTCUVOyGsqn4GA7VxuC), [Paul](https://open.spotify.com/artist/2SRd7Kx7xWkZjoaFKgEreg), [Zachi](https://open.spotify.com/artist/5RgzUZORebl59TcvCRZsD2) | [Verschwendete Zeit](https://open.spotify.com/album/6juFtXw9xa1N6zOsRixGWy) | 2:47 | 2024-05-16 | 2024-08-02 |
 | [viele](https://open.spotify.com/track/38zw0z87YOu2zDY2DbgiyV) | [Wilhelmine](https://open.spotify.com/artist/4f5pBvQZzdOGpFF0pwtUZG) | [viele](https://open.spotify.com/album/4as6aHBiCwqiaXzxuIGz7A) | 3:39 | 2024-03-21 | 2025-07-25 |
 | [vielleicht fehlst du mir](https://open.spotify.com/track/6e4ntmP3oc63oA7pt7ixjg) | [Bella](https://open.spotify.com/artist/5faCGAse4maeHgRIvEMS56) | [vielleicht fehlst du mir](https://open.spotify.com/album/20f16ZQ8Pj9dMxoQMF1Y03) | 2:35 | 2025-10-23 | 2026-07-10 |

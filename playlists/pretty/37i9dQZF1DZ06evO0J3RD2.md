@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 
 > This is Movements\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,558 likes - 40 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,561 likes - 40 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,8 +15,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 | 5 | [Afraid To Die](https://open.spotify.com/track/5RpbbEcE5IdL9Dyr6mRZVi) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Afraid To Die](https://open.spotify.com/album/5TisKSxs4yiItVrle1sxqJ) | 3:02 |
 | 6 | [Dissolve Me](https://open.spotify.com/track/5UMltx4PE50jf9GCEMA3t8) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 3:27 |
 | 7 | [Full Circle](https://open.spotify.com/track/4pdPJQqQNWuDQ6Swl2mW2u) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:24 |
-| 8 | [Kept](https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 2:27 |
-| 9 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 |
+| 8 | [Cherry Thrill](https://open.spotify.com/track/3zrA9UNPZqSpgFD1GXIHhg) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Cherry Thrill](https://open.spotify.com/album/2M5bOmQDM8v3o9dDLBAP5p) | 3:19 |
+| 9 | [Kept](https://open.spotify.com/track/4mW87rC2y8oJWYCglzBuO1) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Outgrown Things](https://open.spotify.com/album/7rVzuWEA2QyRBZiaepThCO) | 2:27 |
 | 10 | [Colorblind](https://open.spotify.com/track/4jhbBCHWjQqWD4cifyuAcA) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Feel Something](https://open.spotify.com/album/4baVGjGtGhgpb0oEqjSkLi) | 3:40 |
 | 11 | [Seneca](https://open.spotify.com/track/6NODZg5BdHffvguB5Qky1v) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [No Good Left To Give](https://open.spotify.com/album/77DJwm3iezGJOtsZdNGE3Z) | 3:09 |
 | 12 | [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0J3RD2.md) - [plain]
 | 39 | [Tightrope](https://open.spotify.com/track/0qESwJG5DLYEpigv3h08ky) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [RUCKUS!](https://open.spotify.com/album/3UO7dRJBreXDCBlqfCWBPo) | 4:41 |
 | 40 | [Spellbound](https://open.spotify.com/track/0LuRD7PTDVxzdZQhXk1Zz6) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Happier Now](https://open.spotify.com/album/7HYm5WG8IiXJtgWvYPGTfI) | 1:07 |
 
-Snapshot ID: `aqncAAAAAAAeD6BNGKsVlNq4Qe5IaZ4t`
+Snapshot ID: `aqstgAAAAABpEkjiW+ktavfX2tdyNwvM`

@@ -4,7 +4,7 @@
 
 > Al die nuutste Afrikaanse musiek met Droomsindroom, Ricus Nel, WG Nel, CHARLIZE BERG en meer!
 
-2,864 songs - 6 day 15 hr 34 min
+2,865 songs - 6 day 15 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -146,7 +146,7 @@
 | [Anker](https://open.spotify.com/track/2ROWosGgtaTatGEngpoA4N) | [Cordelia](https://open.spotify.com/artist/2iYdMAkvSwwuG9uHbSnPyN) | [Anker](https://open.spotify.com/album/7N2WwkWNREHJxjrCOEQpIv) | 3:20 | 2022-09-15 | 2022-10-14 |
 | [Anker My](https://open.spotify.com/track/69h8coUge7LT7hjhYiRxTX) | [John Morland](https://open.spotify.com/artist/2w9ttzUhPMtSxegRmWrXdC) | [Anker My](https://open.spotify.com/album/0cPQXrIzoVaF5iMTIOk1ga) | 3:24 | 2023-04-06 | 2023-04-21 |
 | [Annabel](https://open.spotify.com/track/3nwMol5Gz9kqGeWxMo6NQV) | [Wentzel](https://open.spotify.com/artist/0StQwxwrKk0iUBg0u0YF9C) | [Annabel](https://open.spotify.com/album/53bXupJ07ZtivIO4fT4wUy) | 2:59 | 2024-09-26 | 2024-11-29 |
-| [Annekantoe](https://open.spotify.com/track/2n1wOm0DkrnEopsfwC3wCe) | [Leon Ferreira](https://open.spotify.com/artist/39uCiGH9MvKNvQXdklDchX) | [Annekantoe](https://open.spotify.com/album/3UlKzYOTU31bB158WJrKmR) | 3:48 | 2026-07-23 |  |
+| [Annekantoe](https://open.spotify.com/track/2n1wOm0DkrnEopsfwC3wCe) | [Leon Ferreira](https://open.spotify.com/artist/39uCiGH9MvKNvQXdklDchX) | [Annekantoe](https://open.spotify.com/album/3UlKzYOTU31bB158WJrKmR) | 3:48 | 2026-07-23 | 2026-09-19 |
 | [ANNEMAN](https://open.spotify.com/track/6T23e05Tkfuo5pQKGO67Fy) | [Jemma Catherine](https://open.spotify.com/artist/7xfyNt2MUfeZlNyIGlh9XQ) | [ANNEMAN](https://open.spotify.com/album/0YRMUCsIfRviyK5I9KdcZ8) | 2:32 | 2024-10-03 | 2024-10-18 |
 | [Annie Brand](https://open.spotify.com/track/0DYXzNajl8iRXBKJzGSlMe) | [Ampie](https://open.spotify.com/artist/05OlCJb6VjFEHPiCfwTCZx) | [Niemandsland](https://open.spotify.com/album/79RWMYLdQGjK97CCNMY9pj) | 3:46 | 2024-12-05 | 2025-01-17 |
 | [Antarktika](https://open.spotify.com/track/7xC98L9Zqih4ofTv8WFz8S) | [Tarryn Lamb](https://open.spotify.com/artist/2FmxaUJ8rqQaLvvjFkhuWe) | [Antarktika](https://open.spotify.com/album/7eye5RK9PabUA0ZqZddMXL) | 3:49 | 2026-07-16 | 2026-08-28 |
@@ -1614,6 +1614,7 @@
 | [Meer Van U](https://open.spotify.com/track/1t7eOWWRYk01UWAwXv5hXI) | [Stella](https://open.spotify.com/artist/3DJdQo4KmnMxc12F5k7gs5) | [Meer Van U](https://open.spotify.com/album/3dbmzmmXbjMmKn7pElHbYb) | 3:22 | 2025-11-13 | 2025-11-28 |
 | [Meermin Suster](https://open.spotify.com/track/7oPv5zOk24YwaOpXmweRpc) | [NORRA](https://open.spotify.com/artist/0fW5uAPKjN6BOHvkIGprtw) | [Meermin Suster](https://open.spotify.com/album/12ZxjqE6tRrvQcA8JwZGPN) | 3:56 | 2025-08-14 | 2025-08-29 |
 | [Meisie](https://open.spotify.com/track/4Wl61saOR6rwgVcXQuKYQ1) | [Dodo Nyoka](https://open.spotify.com/artist/4ikALYd62or9IJXnjYwcXa) | [Meisie](https://open.spotify.com/album/11ZDOCvUNFJbbrQgaG4A3M) | 2:35 | 2024-12-12 | 2025-03-07 |
+| [Meisie Meisie](https://open.spotify.com/track/5R1old1VkxFZu468PhPGwy) | [Kurt Darren](https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd), [Zaan Sonnekus](https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR) | [Meisie Meisie](https://open.spotify.com/album/3ZMSkGMMDwL8JsKaTd8f5R) | 3:33 | 2026-09-18 |  |
 | [Meisie van die Stad \- Remix](https://open.spotify.com/track/21qszv6R8xhZpMuitcJUGW) | [Righardt Rigter](https://open.spotify.com/artist/2morcLyTNbn5LqIUgmZWvU) | [Meisie van die Stad \(Remix\)](https://open.spotify.com/album/04LqqLhmwNePCOU1F0hV3B) | 3:08 | 2025-03-13 | 2025-04-04 |
 | [Meisie Van Fraserburg](https://open.spotify.com/track/2TwzvxiOUxwC1FGrrzAamc) | [Francois Boyce](https://open.spotify.com/artist/0Hyqs3YkRrCLahzGsb8qk3) | [Meisie van Fraserburg](https://open.spotify.com/album/73e09G7FUYUGzXlktr5I5g) | 3:04 | 2022-09-22 | 2022-10-07 |
 | [Meisie Van My Drome](https://open.spotify.com/track/2lg9qBGh5eWYu8By9ASjlY) | [Desmond Wells](https://open.spotify.com/artist/1yVxV8VoPoZHoPDQPc3n19) | [Meisie Van My Drome](https://open.spotify.com/album/4tkXQNpAKhTiOtwV0hBVTA) | 3:31 | 2026-01-08 | 2026-03-28 |

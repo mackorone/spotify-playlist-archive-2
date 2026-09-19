@@ -1,12 +1,12 @@
 {
   "description": "This is Davido. The essential tracks, all in one playlist.",
-  "num_followers": 107297,
+  "num_followers": 107318,
   "original_name": "This Is Davido",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAD0m1z9bSLR8N/y+bBSzV/7",
+  "snapshot_id": "aqstgAAAAAB1l/F7jj207eceY2QikrhK",
   "tracks": [
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Timeless",
-        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
-      },
-      "artists": [
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 153684,
-      "name": "AWAY",
-      "url": "https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deal With It",
         "url": "https://open.spotify.com/album/1jLhAmn3rw2GjKy28gvCtS"
       },
@@ -511,6 +495,22 @@
       "duration_ms": 217216,
       "name": "Ride For You",
       "url": "https://open.spotify.com/track/00d0ILlSL8Np5IhVIyAP02"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Timeless",
+        "url": "https://open.spotify.com/album/6lI21W76LD0S3vC55GrfSS"
+      },
+      "artists": [
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 153684,
+      "name": "AWAY",
+      "url": "https://open.spotify.com/track/14gQ7SmMZeeEC3YAPB5vFw"
     },
     {
       "added_at": null,
@@ -675,6 +675,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Betty Butter",
+        "url": "https://open.spotify.com/album/3EOaOT5E1TOzXt1LtkLykd"
+      },
+      "artists": [
+        {
+          "name": "Mayorkun",
+          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        }
+      ],
+      "duration_ms": 129802,
+      "name": "Betty Butter",
+      "url": "https://open.spotify.com/track/4cCo1QTHuuJCZQDnAUahQI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hayya Hayya (Better Together) [Music from FIFA World Cup Qatar 2022 Soundtrack]",
         "url": "https://open.spotify.com/album/6mPSjHXiuf2zHA0ssVp8iU"
       },
@@ -699,26 +719,6 @@
       "duration_ms": 206069,
       "name": "Hayya Hayya (Better Together) - Music from the FIFA World Cup Qatar 2022 Official Soundtrack",
       "url": "https://open.spotify.com/track/7vAJiDFrFtMYVOrZbOw7jj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Betty Butter",
-        "url": "https://open.spotify.com/album/3EOaOT5E1TOzXt1LtkLykd"
-      },
-      "artists": [
-        {
-          "name": "Mayorkun",
-          "url": "https://open.spotify.com/artist/3DNCUaKdMZcMVJIS7yTskd"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        }
-      ],
-      "duration_ms": 129802,
-      "name": "Betty Butter",
-      "url": "https://open.spotify.com/track/4cCo1QTHuuJCZQDnAUahQI"
     },
     {
       "added_at": null,

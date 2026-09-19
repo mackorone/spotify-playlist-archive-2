@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 
 > Just wanna Praise the Lord and chill\. Here is a perfect one! Cover: Neon Adejo
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,981 likes - 100 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,009 likes - 100 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZRdj6RqDDMm.md) - [plain]
 | 99 | [Letting Go](https://open.spotify.com/track/1sgZaOTCDVQJeaJIvBRKQd) | [Keptah](https://open.spotify.com/artist/3BLBdRyLyibc3aKdZ6ZdcJ) | [Letting Go](https://open.spotify.com/album/5MO5T6Bpxd3kYionNtBwWO) | 2:12 |
 | 100 | [FREE](https://open.spotify.com/track/0HIw23DMTw8cTZiX54LW9R) | [Favour Ojo](https://open.spotify.com/artist/3cQ7XTvsGfuO0PrtpplBPJ) | [FREE](https://open.spotify.com/album/0RvPef3u65ch28gR3tEJvL) | 3:16 |
 
-Snapshot ID: `AAAAAI2A98GTV892bznJwOA5FxHUc/7w`
+Snapshot ID: `AAAAAIM+z7b22YvI34X5FIWYW3MhzeFR`

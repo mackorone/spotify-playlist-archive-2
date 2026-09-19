@@ -6,8 +6,132 @@
     "name": "uDiscover Canada",
     "url": "https://open.spotify.com/user/digsterca"
   },
-  "snapshot_id": "AAAEFKjdnKdBf9axszWg3CmPUpaVinAI",
+  "snapshot_id": "AAAEHpZnruJniFNJOFdnPW1FNrnI8Ter",
   "tracks": [
+    {
+      "added_at": "2026-09-18 13:27:50",
+      "album": {
+        "name": "Wheat Kings (feat. Allison Russell) ['It's A Good Life If You Don't Weaken' Original Cast Recording]",
+        "url": "https://open.spotify.com/album/0kmub57sX7hmyAKwnNDa79"
+      },
+      "artists": [
+        {
+          "name": "'It's A Good Life If You Don't Weaken' Original Cast",
+          "url": "https://open.spotify.com/artist/44TNh3EziKQGhN9VJFvGiM"
+        },
+        {
+          "name": "The Tragically Hip",
+          "url": "https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0"
+        },
+        {
+          "name": "Allison Russell",
+          "url": "https://open.spotify.com/artist/3JBmecDGXTll46ygrnGTM6"
+        }
+      ],
+      "duration_ms": 238957,
+      "name": "Wheat Kings (feat. Allison Russell) - 'It's A Good Life If You Don't Weaken' Original Cast Recording",
+      "url": "https://open.spotify.com/track/4y2gmy4Md3xQ95S3raKtFr"
+    },
+    {
+      "added_at": "2026-09-18 13:28:21",
+      "album": {
+        "name": "Norwegian Wood (This Bird Has Flown) [Second Version - Take 2]",
+        "url": "https://open.spotify.com/album/3ul1EiGojNX430uixmReAp"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 140946,
+      "name": "Norwegian Wood (This Bird Has Flown) [Second Version - Take 2]",
+      "url": "https://open.spotify.com/track/3CYJDTCIZ1ehpqwUtkolFU"
+    },
+    {
+      "added_at": "2026-09-18 13:28:31",
+      "album": {
+        "name": "Hard Luck Woman (Outtake)",
+        "url": "https://open.spotify.com/album/1QTB19waB3UfK4x5MG9Sql"
+      },
+      "artists": [
+        {
+          "name": "KISS",
+          "url": "https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "Hard Luck Woman - Outtake",
+      "url": "https://open.spotify.com/track/104gOf7mPTkf9cCH4vDzIF"
+    },
+    {
+      "added_at": "2026-09-18 13:28:49",
+      "album": {
+        "name": "Parade Of Loons",
+        "url": "https://open.spotify.com/album/0KK6yCEZxgq41fQibK2MQH"
+      },
+      "artists": [
+        {
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+        }
+      ],
+      "duration_ms": 183493,
+      "name": "Parade Of Loons",
+      "url": "https://open.spotify.com/track/4d26ASDWApFAknkgKppZbk"
+    },
+    {
+      "added_at": "2026-09-18 13:28:59",
+      "album": {
+        "name": "Face The Promise (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0D0izf9iXE3pphBaGtUjMw"
+      },
+      "artists": [
+        {
+          "name": "Bob Seger",
+          "url": "https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ"
+        }
+      ],
+      "duration_ms": 187586,
+      "name": "Red Eye To Memphis",
+      "url": "https://open.spotify.com/track/5BSSzjYNoVADzCc6pLweIn"
+    },
+    {
+      "added_at": "2026-09-18 13:29:25",
+      "album": {
+        "name": "Teenage Whore",
+        "url": "https://open.spotify.com/album/6XXhkGbSwa7PYItDBfSFJO"
+      },
+      "artists": [
+        {
+          "name": "Hole",
+          "url": "https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn"
+        }
+      ],
+      "duration_ms": 289385,
+      "name": "Drown Soda - Live At Brixton Academy,1995",
+      "url": "https://open.spotify.com/track/5H5BQYIIKbvyY8FprP2p9j"
+    },
+    {
+      "added_at": "2026-09-18 13:29:41",
+      "album": {
+        "name": "All My Life (Channel Tres Remix)",
+        "url": "https://open.spotify.com/album/50y7CGtM5ZI3OwmwME9vBb"
+      },
+      "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 280665,
+      "name": "All My Life - Channel Tres Remix",
+      "url": "https://open.spotify.com/track/0TgLFlVroT5JBtzPYq3qZT"
+    },
     {
       "added_at": "2026-08-28 16:39:11",
       "album": {

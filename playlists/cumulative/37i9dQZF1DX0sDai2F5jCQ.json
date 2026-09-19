@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "Your shortcut to the best new Hip Hop. Cover: Nemzzz",
+  "description": "Your shortcut to the best new Hip Hop. Cover: Quavo",
   "name": "A1",
   "tracks": [
     {
@@ -1645,6 +1645,28 @@
     },
     {
       "album": {
+        "name": "Backwards (feat. T.I.)",
+        "url": "https://open.spotify.com/album/6g9K8LPPVZQKroz3sUTwtg"
+      },
+      "artists": [
+        {
+          "name": "Quavo",
+          "url": "https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5"
+        },
+        {
+          "name": "T.I.",
+          "url": "https://open.spotify.com/artist/4OBJLual30L7gRl5UkeRcT"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191505,
+      "name": "Backwards (feat. T.I.)",
+      "url": "https://open.spotify.com/track/0p7ubMwKZaSE6RhIo8QN9J"
+    },
+    {
+      "album": {
         "name": "BAD DECISIONS",
         "url": "https://open.spotify.com/album/6FRtJw6ULKUrSvqXK99PjR"
       },
@@ -1812,7 +1834,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 141897,
       "name": "Baja Blast",
       "url": "https://open.spotify.com/track/3uDa6lqSqmgU8dOWkztU9f"
@@ -2090,6 +2112,24 @@
       "duration_ms": 160346,
       "name": "Better Than Yours (feat. Youngboy Never Broke Again)",
       "url": "https://open.spotify.com/track/7Cu72sNXv5n9vbHcXbSmgp"
+    },
+    {
+      "album": {
+        "name": "PROJECT X",
+        "url": "https://open.spotify.com/album/2UNJOZcWFBhtjUrKBNS9bc"
+      },
+      "artists": [
+        {
+          "name": "Key Glock",
+          "url": "https://open.spotify.com/artist/0RESbWvOMyua0yuyVrztJ5"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 123960,
+      "name": "BIG 5",
+      "url": "https://open.spotify.com/track/5S5gF7ujCupq2bmZMhAvmJ"
     },
     {
       "album": {
@@ -2540,7 +2580,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 104581,
       "name": "Body Dangerous",
       "url": "https://open.spotify.com/track/2E0i6a505azpLGarDsNMv7"
@@ -2954,7 +2994,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 149600,
       "name": "California Girls",
       "url": "https://open.spotify.com/track/5Rv0O0Bv90IqC97T68zesG"
@@ -3436,7 +3476,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 172566,
       "name": "Chances",
       "url": "https://open.spotify.com/track/0ttfPTxMi6s2Z4ZZnwaGhy"
@@ -4914,6 +4954,24 @@
       "duration_ms": 189217,
       "name": "Dust",
       "url": "https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu"
+    },
+    {
+      "album": {
+        "name": "My Forte",
+        "url": "https://open.spotify.com/album/1ZIn9urj8CHqNfKzRyIMWg"
+      },
+      "artists": [
+        {
+          "name": "Ro$ama",
+          "url": "https://open.spotify.com/artist/6sacEP77oivRMuZRlOuSCr"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151179,
+      "name": "E.T.",
+      "url": "https://open.spotify.com/track/5J4PcF9jlWVNlTkXy8Lxu1"
     },
     {
       "album": {
@@ -7946,7 +8004,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 191786,
       "name": "Hostage (feat. 21 Savage)",
       "url": "https://open.spotify.com/track/3qVkXQgbHKhbq4KGQMBU6h"
@@ -8206,6 +8264,24 @@
       "duration_ms": 149500,
       "name": "I Will",
       "url": "https://open.spotify.com/track/27sKtH0PZpASkN8H3ZJOQf"
+    },
+    {
+      "album": {
+        "name": "All Eyes on Shiest",
+        "url": "https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI"
+      },
+      "artists": [
+        {
+          "name": "Pooh Shiesty",
+          "url": "https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202840,
+      "name": "I'm Back",
+      "url": "https://open.spotify.com/track/4oBu4APIBsEeQwLTIsfUn8"
     },
     {
       "album": {
@@ -8552,6 +8628,32 @@
       "duration_ms": 159571,
       "name": "INDUSTRY VIOLATION",
       "url": "https://open.spotify.com/track/1cmoJC29BO4XdfVoRKqlen"
+    },
+    {
+      "album": {
+        "name": "Innocent Smile",
+        "url": "https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq"
+      },
+      "artists": [
+        {
+          "name": "Skepta",
+          "url": "https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN"
+        },
+        {
+          "name": "Suggs",
+          "url": "https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC"
+        },
+        {
+          "name": "Chase & Status",
+          "url": "https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160000,
+      "name": "Innocent Smile",
+      "url": "https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f"
     },
     {
       "album": {
@@ -9032,7 +9134,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 113437,
       "name": "KILLIN EM",
       "url": "https://open.spotify.com/track/05gfooFDrVx4SkKZp1H1Wx"
@@ -9134,6 +9236,24 @@
       "duration_ms": 214122,
       "name": "KO",
       "url": "https://open.spotify.com/track/1erl58kCgZtjZIsXqaBaL5"
+    },
+    {
+      "album": {
+        "name": "kylie",
+        "url": "https://open.spotify.com/album/3WP9jFGj0Fi5bbBcAdSkuL"
+      },
+      "artists": [
+        {
+          "name": "sayso",
+          "url": "https://open.spotify.com/artist/12Av8CCJTyPhv7Uk6yG5Lh"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127882,
+      "name": "kylie",
+      "url": "https://open.spotify.com/track/1e1HDiKRvgF4274sY5iNsA"
     },
     {
       "album": {
@@ -9250,7 +9370,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 177566,
       "name": "Lah Lah",
       "url": "https://open.spotify.com/track/2lhHhPyQrhb2kzXC4Vqotp"
@@ -9880,7 +10000,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 148547,
       "name": "Living Large",
       "url": "https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ"
@@ -10008,6 +10128,36 @@
       "duration_ms": 186857,
       "name": "lost",
       "url": "https://open.spotify.com/track/110127WJIyOYQOyik6DkQL"
+    },
+    {
+      "album": {
+        "name": "Lottery 4.0 (feat. Jeremih, Rick Ross & Skillibeng)",
+        "url": "https://open.spotify.com/album/4Afe7nX5WoDuvxYHo2jASa"
+      },
+      "artists": [
+        {
+          "name": "Shaggy",
+          "url": "https://open.spotify.com/artist/5EvFsr3kj42KNv97ZEnqij"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Rick Ross",
+          "url": "https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a"
+        },
+        {
+          "name": "Skillibeng",
+          "url": "https://open.spotify.com/artist/5FkUhnHQ0KC63549LHHtst"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194424,
+      "name": "Lottery 4.0 (feat. Jeremih, Rick Ross & Skillibeng)",
+      "url": "https://open.spotify.com/track/30Vn2g5NWfVedvshn1dgFj"
     },
     {
       "album": {
@@ -10224,6 +10374,32 @@
       "duration_ms": 165576,
       "name": "M.O.M.",
       "url": "https://open.spotify.com/track/6iIpGsEuUIuapBssJ8sFC2"
+    },
+    {
+      "album": {
+        "name": "Czarface Meets Frankie Pulitzer",
+        "url": "https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6"
+      },
+      "artists": [
+        {
+          "name": "CZARFACE",
+          "url": "https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr"
+        },
+        {
+          "name": "Frankie Pulitzer",
+          "url": "https://open.spotify.com/artist/03GXakQX7cf6cd7hZQqgYg"
+        },
+        {
+          "name": "Method Man",
+          "url": "https://open.spotify.com/artist/4VmEWwd8y9MCLwexFMdpwt"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223466,
+      "name": "Mad Technology",
+      "url": "https://open.spotify.com/track/6yDQOCVxV6Z0XGZgbeCvMi"
     },
     {
       "album": {
@@ -11126,7 +11302,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 200830,
       "name": "National Treasures",
       "url": "https://open.spotify.com/track/393OFJFZKIIv66JmJcNm9D"
@@ -11188,6 +11364,24 @@
       "duration_ms": 235689,
       "name": "Needle (feat. Drake)",
       "url": "https://open.spotify.com/track/4I4G0LD277PWvfblYtSf91"
+    },
+    {
+      "album": {
+        "name": "No Rest for The Wicked",
+        "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143450,
+      "name": "Negative",
+      "url": "https://open.spotify.com/track/0RDb7mW6zljLNIzWwPbso9"
     },
     {
       "album": {
@@ -11737,6 +11931,28 @@
     },
     {
       "album": {
+        "name": "Not Many - Ganay Biralunbar",
+        "url": "https://open.spotify.com/album/6Bb0LzeqGThvu8hrEYcyVh"
+      },
+      "artists": [
+        {
+          "name": "3%",
+          "url": "https://open.spotify.com/artist/4CnzGjdsHYGHgmsDk1tNwg"
+        },
+        {
+          "name": "Fred Leone",
+          "url": "https://open.spotify.com/artist/6VJsigqfG1cGogt4Q8LQ2s"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168428,
+      "name": "Not Many - Ganay Biralunbar",
+      "url": "https://open.spotify.com/track/6ytpqi2XfBbtNguP5QsmN5"
+    },
+    {
+      "album": {
         "name": "NOW OR NEVER",
         "url": "https://open.spotify.com/album/0IHeHlvgJcWx6h4hscOBpM"
       },
@@ -11974,6 +12190,28 @@
       "duration_ms": 199125,
       "name": "On My Grind",
       "url": "https://open.spotify.com/track/6krHfcYbtZyka2LEZAmSjC"
+    },
+    {
+      "album": {
+        "name": "ON MY MIND",
+        "url": "https://open.spotify.com/album/6iemH4ryFgQWRaSEVN3zKV"
+      },
+      "artists": [
+        {
+          "name": "Fat Papi",
+          "url": "https://open.spotify.com/artist/6bemHySK6oqDAPZZzt61ov"
+        },
+        {
+          "name": "prodshushy",
+          "url": "https://open.spotify.com/artist/6aQnbm7k0VsmUqfU9cfwoA"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139354,
+      "name": "ON MY MIND",
+      "url": "https://open.spotify.com/track/49En5kPk69YS7lSK1he7D8"
     },
     {
       "album": {
@@ -12272,6 +12510,32 @@
       "duration_ms": 199165,
       "name": "Or What",
       "url": "https://open.spotify.com/track/3lUYO6zvXI88sNDpyKvIJ2"
+    },
+    {
+      "album": {
+        "name": "Ora Siamo Noi",
+        "url": "https://open.spotify.com/album/6CJuLAy2CDTchJkBx53g3P"
+      },
+      "artists": [
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        },
+        {
+          "name": "DoloRRes",
+          "url": "https://open.spotify.com/artist/74OqG3fmuLxfa8qIzmyJVC"
+        },
+        {
+          "name": "Brodinski",
+          "url": "https://open.spotify.com/artist/0ZurilbRp6KwW6dpaw4pEK"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116890,
+      "name": "Ora Siamo Noi",
+      "url": "https://open.spotify.com/track/7wiZgBAI9pVXAQr1SvokwH"
     },
     {
       "album": {
@@ -13098,7 +13362,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 158110,
       "name": "Playlist .",
       "url": "https://open.spotify.com/track/2cPU1MnlgHgeUKjaX7ZBKb"
@@ -13756,7 +14020,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 169142,
       "name": "RAPID FYAH (feat. Skillibeng)",
       "url": "https://open.spotify.com/track/2liaCKyzID20FGfWslwWHA"
@@ -14074,6 +14338,28 @@
       "duration_ms": 202398,
       "name": "Resilient Ones",
       "url": "https://open.spotify.com/track/5H99tFNCPVIZ6lEdUz9ch4"
+    },
+    {
+      "album": {
+        "name": "RHYNO (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "RHYNO (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
       "album": {
@@ -14760,6 +15046,24 @@
       "duration_ms": 142560,
       "name": "SILVER TOOTH. (with A$AP Ferg)",
       "url": "https://open.spotify.com/track/7fhcDui4AKQydfFoXILsso"
+    },
+    {
+      "album": {
+        "name": "Simon Says",
+        "url": "https://open.spotify.com/album/39GjE18YGLzkfPo5aLvKUS"
+      },
+      "artists": [
+        {
+          "name": "Sampa the Great",
+          "url": "https://open.spotify.com/artist/7fw0E8WHdG3r9SuPBcGmWk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121175,
+      "name": "Simon Says",
+      "url": "https://open.spotify.com/track/5zFEpchBYlRZKehXXez3O6"
     },
     {
       "album": {
@@ -15734,7 +16038,7 @@
       ],
       "date_added": "2026-04-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 151212,
       "name": "Stuntn",
       "url": "https://open.spotify.com/track/7FpBSmSsI3AHNTVptxEv1K"
@@ -15906,7 +16210,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 143673,
       "name": "Sun In My Eyes",
       "url": "https://open.spotify.com/track/01d2YJG6A7w0NsgcxYi9tT"
@@ -16708,7 +17012,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 151265,
       "name": "THREESIXFIVE",
       "url": "https://open.spotify.com/track/5awriPtey6bIb1xqF87QCz"

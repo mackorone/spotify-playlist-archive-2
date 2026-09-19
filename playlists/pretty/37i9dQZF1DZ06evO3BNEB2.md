@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 
 > This is Wale\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,060 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,062 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 33 | [Ride Out](https://open.spotify.com/track/59PL9AwYjIrIpP04n9gmMR) | [Kid Ink](https://open.spotify.com/artist/6KZDXtSj0SzGOV705nNeh3), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [Rich Homie Quan](https://open.spotify.com/artist/5lHRUCqkQZCIWeX7xG4sYT) | [Furious 7: Original Motion Picture Soundtrack](https://open.spotify.com/album/7hTMaPfK488vRcC1Ar4bOm) | 3:31 |
 | 34 | [My Love \(feat\. Major Lazer, WizKid, Dua Lipa\)](https://open.spotify.com/track/7rfiXyFb5M9BqdkvKvVEiB) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Major Lazer](https://open.spotify.com/artist/738wLrAtLtCtFOLvQBXOXp), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Shine](https://open.spotify.com/album/3X1Ljgkvf2cLwi8mMjhvKy) | 3:48 |
 | 35 | [Bed of Roses \(with Wale\)](https://open.spotify.com/track/1M7szG4sXLIcacdsYNJ9OW) | [Teyana Taylor](https://open.spotify.com/artist/4ULO7IGI3M2bo0Ap7B9h8a), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Bed of Roses \(with Wale\)](https://open.spotify.com/album/2TYtr1CCfYFlwf1k3hJ6S3) | 3:05 |
-| 36 | [Red Lights \(feat\. Wale\)](https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 3:39 |
-| 37 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:28 |
+| 36 | [Angles \(feat\. Chris Brown\)](https://open.spotify.com/track/36RxJoLeXSY3GdtpuzlzKg) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Chris Brown](https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z) | [Folarin II](https://open.spotify.com/album/1GyvDV1vj6x3GH61CNRv3H) | 3:28 |
+| 37 | [Red Lights \(feat\. Wale\)](https://open.spotify.com/track/2A9l1TsM78JQqQMYqAQEZe) | [RINI](https://open.spotify.com/artist/2joIhhX3Feq47H4QXVDOr3), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Constellations](https://open.spotify.com/album/0X4X4hGytNt85z9zZQW8F9) | 3:39 |
 | 38 | [You Don't Know \(feat\. Wale\)](https://open.spotify.com/track/3mSkzP4ud5KG26OIVIAL3s) | [Tank](https://open.spotify.com/artist/4mwXUEKaW4ftbncf9Hi58l), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Sex, Love & Pain II](https://open.spotify.com/album/58WvlSmvoKkrvUuZHw322D) | 4:05 |
 | 39 | [Bag of Money \(feat\. Rick Ross, Meek Mill & T\-Pain\)](https://open.spotify.com/track/1BvTqJLeB9ZeGU01gFzJbh) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Rick Ross](https://open.spotify.com/artist/1sBkRIssrMs1AbVkOJbc7a), [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [T\-Pain](https://open.spotify.com/artist/3aQeKQSyrW4qWr35idm0cy) | [Bag of Money \(feat\. Rick Ross, Meek Mill & T\-Pain\)](https://open.spotify.com/album/4M1WXCpnNqFMmiZz0W3FfW) | 4:07 |
 | 40 | [Feel the Love \(feat\. Wale\)](https://open.spotify.com/track/0ojU4I7FDbtkvh4lnkPI1C) | [Rudimental](https://open.spotify.com/artist/4WN5naL3ofxrVBgFpguzKo), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Home \(Deluxe Edition\)](https://open.spotify.com/album/6RM05aDNmbqF7AV1xwubac) | 3:56 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3BNEB2.md) - [plain]
 | 49 | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/track/3oMICOZz49EM5LT4Z330uo) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [H.E.R.](https://open.spotify.com/artist/3Y7RZ31TRPVadSFVy1o8os), [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE) | [Slow Down \(Remix\) \[feat\. H.E.R\. & Wale\]](https://open.spotify.com/album/2HGRESjom1ev3i6XQfSszY) | 3:42 |
 | 50 | [The Girls on Drugs](https://open.spotify.com/track/09GCuO9yQH5R1E8HYknrV8) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Jeremih](https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg) | [The Album About Nothing](https://open.spotify.com/album/6aCr3UaB8lM9g6TtFB3qwd) | 4:09 |
 
-Snapshot ID: `aqiKgAAAAABVHwjDlq9lPviEYIAsYbx7`
+Snapshot ID: `aqstgAAAAABBlRrwUD8EAkcIO9lfk7Xn`

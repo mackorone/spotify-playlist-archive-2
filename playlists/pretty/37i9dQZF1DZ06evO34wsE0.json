@@ -1,12 +1,12 @@
 {
   "description": "This is Shania Twain. The essential tracks, all in one playlist.",
-  "num_followers": 254627,
+  "num_followers": 254645,
   "original_name": "This Is Shania Twain",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAB8+8vksdNqtg98aL9sOp79",
+  "snapshot_id": "aqstgAAAAAA91dvCxHEHFF4LxdjPmCK0",
   "tracks": [
     {
       "added_at": null,
@@ -395,22 +395,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 198331,
-      "name": "Stranger Things",
-      "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Man! I Feel Like A Woman! (Real Hypha Remix)",
         "url": "https://open.spotify.com/album/1kXH8Pon2O1RPYT9gz7SQI"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 176000,
       "name": "Man! I Feel Like A Woman! - Real Hypha Remix",
       "url": "https://open.spotify.com/track/0T1iRhYeTh5JpVdM2TI6kO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 198331,
+      "name": "Stranger Things",
+      "url": "https://open.spotify.com/track/2JJe8znYUqz9R1x5J1F8ei"
     },
     {
       "added_at": null,
@@ -519,22 +519,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Up! (Green Version)",
-        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 229093,
-      "name": "She's Not Just A Pretty Face",
-      "url": "https://open.spotify.com/track/1dqiXGXfB74mwUeJRvqYKB"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Come On Over",
         "url": "https://open.spotify.com/album/4UMe0Ods7kygK6OISasZe9"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 262400,
       "name": "Rock This Country!",
       "url": "https://open.spotify.com/track/00K3iFsXALgjg5ECPLR1hs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Up! (Green Version)",
+        "url": "https://open.spotify.com/album/4h6bh60fEl4GAZiPhmrgMx"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 229093,
+      "name": "She's Not Just A Pretty Face",
+      "url": "https://open.spotify.com/track/1dqiXGXfB74mwUeJRvqYKB"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faded Blue Jeans",
-        "url": "https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        },
-        {
-          "name": "Josh Homme",
-          "url": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
-        }
-      ],
-      "duration_ms": 151962,
-      "name": "Faded Blue Jeans (feat. Josh Homme)",
-      "url": "https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Encontros Pelo Caminho",
         "url": "https://open.spotify.com/album/0bHzubpVK10uxO9kyaSJke"
       },
@@ -775,22 +755,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Little Miss Twain",
-        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
-      },
-      "artists": [
-        {
-          "name": "Shania Twain",
-          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
-        }
-      ],
-      "duration_ms": 235284,
-      "name": "Northern Town",
-      "url": "https://open.spotify.com/track/1A8VErbB8Az7sEIh1SoySU"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Up! (Red and Blue Versions)",
         "url": "https://open.spotify.com/album/0VB5ymCq0odyXi4YWuoNB0"
       },
@@ -803,6 +767,42 @@
       "duration_ms": 199466,
       "name": "It Only Hurts When I'm Breathing - Red Version",
       "url": "https://open.spotify.com/track/4vumsuBIb2nEFKLuNaOeGO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Little Miss Twain",
+        "url": "https://open.spotify.com/album/7wFY6xghEoqMqVi1ojvtIa"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        }
+      ],
+      "duration_ms": 236462,
+      "name": "That's The Money",
+      "url": "https://open.spotify.com/track/0fQywf9DypbCkHGXuiWCEu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Faded Blue Jeans",
+        "url": "https://open.spotify.com/album/7jbfvhV7NYQoXYVFdJwhD2"
+      },
+      "artists": [
+        {
+          "name": "Shania Twain",
+          "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
+        },
+        {
+          "name": "Josh Homme",
+          "url": "https://open.spotify.com/artist/03xb2BUdIFzuRQ6o88yfCB"
+        }
+      ],
+      "duration_ms": 151962,
+      "name": "Faded Blue Jeans (feat. Josh Homme)",
+      "url": "https://open.spotify.com/track/5Zdks1bLKiYAP9HJEh65kc"
     },
     {
       "added_at": null,
@@ -856,9 +856,9 @@
           "url": "https://open.spotify.com/artist/5e4Dhzv426EvQe3aDb64jL"
         }
       ],
-      "duration_ms": 236462,
-      "name": "That's The Money",
-      "url": "https://open.spotify.com/track/0fQywf9DypbCkHGXuiWCEu"
+      "duration_ms": 200367,
+      "name": "I'd Be Loving Me",
+      "url": "https://open.spotify.com/track/6liXi6cJZMRp9CC8dpUQCg"
     }
   ],
   "unique_name": "This Is Shania Twain",

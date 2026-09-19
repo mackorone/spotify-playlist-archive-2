@@ -27909,6 +27909,24 @@
     },
     {
       "album": {
+        "name": "Helena On Broadway",
+        "url": "https://open.spotify.com/album/4fgvTYItlzAmShFGo8fXZs"
+      },
+      "artists": [
+        {
+          "name": "Helena Vondr\u00e1\u010dkov\u00e1",
+          "url": "https://open.spotify.com/artist/3iHwsEoQOrf8uxVkLtWyD7"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 284746,
+      "name": "Vzpominky",
+      "url": "https://open.spotify.com/track/5M8UBebO4aFoHdXXDuVHQx"
+    },
+    {
+      "album": {
         "name": "Evita: The Complete Motion Picture Music Soundtrack",
         "url": "https://open.spotify.com/album/7FEyjOwZ7Hjvtb92GjM286"
       },

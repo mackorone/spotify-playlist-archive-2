@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 
 > Deretan musik Indonesia terpopuler saat ini\.  Cover: Piche Kota
 
-[Spotify](https://open.spotify.com/user/spotify) - 789,197 likes - 106 songs - 6 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 789,198 likes - 106 songs - 6 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZxM58TRkuqg.md) - [plain]
 | 105 | [Seperti Angka 8](https://open.spotify.com/track/77MFQP0wCPUylMss7jfrKu) | [Lafa Pratomo](https://open.spotify.com/artist/7Dvs3xSjt5dSftGq0Onkud), [Feby Putri](https://open.spotify.com/artist/66NmU5epI0ONGmdCRbLpmW), [Matter Mos](https://open.spotify.com/artist/3BdGivzytiHhSHQ7VF58jL) | [Seperti Angka 8](https://open.spotify.com/album/3YMdebTvm2iOgvrRvqvQ3P) | 4:09 |
 | 106 | [Bangga](https://open.spotify.com/track/1NajyXjwvpw1E9XTCWFSep) | [Petra Sihombing](https://open.spotify.com/artist/5TV9JhBjG6c2hHsoibBaIW) | [Bangga](https://open.spotify.com/album/3rOE34WAo8hBki0cSMGLmd) | 3:25 |
 
-Snapshot ID: `AAAAAFI5TW/Fy2XWmP+1zCHA+1WghPVE`
+Snapshot ID: `AAAAAPFd6rSGrzvBQrhV+kz2gUUMQHt9`

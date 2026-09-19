@@ -351,6 +351,24 @@
     },
     {
       "album": {
+        "name": "360",
+        "url": "https://open.spotify.com/album/2KzDclXcqTHkAWnKBIoghl"
+      },
+      "artists": [
+        {
+          "name": "Jada Kingdom",
+          "url": "https://open.spotify.com/artist/2FgooFaZzZy6PUyJImk0kG"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130938,
+      "name": "360",
+      "url": "https://open.spotify.com/track/1vTphVtB4tAc5CJsjDMNSL"
+    },
+    {
+      "album": {
         "name": "3X BBB (Tripple Bad)",
         "url": "https://open.spotify.com/album/5rZg9Wdr2Aa61AVMGYusFk"
       },
@@ -632,7 +650,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 156824,
       "name": "8: 15 am - Raw",
       "url": "https://open.spotify.com/track/5M3KFiqRykxXiE4cBbsnAs"
@@ -8313,6 +8331,24 @@
     },
     {
       "album": {
+        "name": "SWAGUU",
+        "url": "https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr"
+      },
+      "artists": [
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158589,
+      "name": "Diamonds",
+      "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
+    },
+    {
+      "album": {
         "name": "DIANA",
         "url": "https://open.spotify.com/album/0TwIIUEUs0t2F9Z45eGKV9"
       },
@@ -15234,6 +15270,32 @@
       "duration_ms": 161626,
       "name": "ILEBOGUS (feat. MASIDI)",
       "url": "https://open.spotify.com/track/3H3SnLZImZuFhlstOt7SXj"
+    },
+    {
+      "album": {
+        "name": "IMALI",
+        "url": "https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ"
+      },
+      "artists": [
+        {
+          "name": "Fireboy DML",
+          "url": "https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY"
+        },
+        {
+          "name": "JAZZWRLD",
+          "url": "https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz"
+        },
+        {
+          "name": "Thukuthela",
+          "url": "https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283127,
+      "name": "IMALI",
+      "url": "https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO"
     },
     {
       "album": {
@@ -23838,7 +23900,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 158539,
       "name": "Oshe",
       "url": "https://open.spotify.com/track/1GxRlWK5Y4dz1Gpl5PvVho"
@@ -33414,7 +33476,7 @@
       ],
       "date_added": "2026-01-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 145492,
       "name": "Turbulence",
       "url": "https://open.spotify.com/track/6b5aOjZh1szuKcbfSU8YdK"
@@ -36031,6 +36093,28 @@
     },
     {
       "album": {
+        "name": "Winning",
+        "url": "https://open.spotify.com/album/6lnOgnYWT4SByhEaf8Qfow"
+      },
+      "artists": [
+        {
+          "name": "Stephen Marley",
+          "url": "https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1"
+        },
+        {
+          "name": "Beenie Man",
+          "url": "https://open.spotify.com/artist/4L3GTE04bW5N7azA9QPhjA"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162474,
+      "name": "Winning",
+      "url": "https://open.spotify.com/track/0rRezuJai0bMoFxA9b7qk0"
+    },
+    {
+      "album": {
         "name": "5ive",
         "url": "https://open.spotify.com/album/4jzhMxpTkAm2pxUuamulT8"
       },
@@ -36398,7 +36482,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 165751,
       "name": "WUL UP (Walk Out)",
       "url": "https://open.spotify.com/track/74My9unxFHLmvw0ezYZTBO"

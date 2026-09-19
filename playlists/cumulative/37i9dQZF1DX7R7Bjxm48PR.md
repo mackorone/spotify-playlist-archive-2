@@ -4,7 +4,7 @@
 
 > Calming and inspiring piano music for yoga.
 
-193 songs - 8 hr 38 min
+194 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -31,6 +31,7 @@
 | [Canyon View](https://open.spotify.com/track/7cCDwM8s5gRC40RmaBwd4e) | [the aisle filler](https://open.spotify.com/artist/20cv2xJ8u0oURplfF0Pr5U) | [Canyon View](https://open.spotify.com/album/4LV3lTKdxuqHq6S67Q9pxB) | 2:30 | 2026-08-14 |  |
 | [Cascade](https://open.spotify.com/track/5adFxEx5X49AW6K4yl9Xef) | [Astral Chants](https://open.spotify.com/artist/74iuTKjTeNqMtynmJ6wTTF) | [Cascade](https://open.spotify.com/album/6ekqd6M7YWFIIDERra1c66) | 2:20 | 2025-09-17 |  |
 | [Ce Jour Là](https://open.spotify.com/track/6Y7GT4UuGkUFhYHxVLQ4bF) | [Eugène Arnaud](https://open.spotify.com/artist/41MsWLfnAsYZTlfNAllHa8) | [Ce Jour Là](https://open.spotify.com/album/2nQtY69UjbRQQYkjMHnqXB) | 2:48 | 2022-01-19 | 2025-05-15 |
+| [Clear Skies](https://open.spotify.com/track/7brVkDJH3BSAZl31Oqi35w) | [Asger Rykker](https://open.spotify.com/artist/1dkPa7IPiPu8k4vNJbql0B) | [Clear Skies](https://open.spotify.com/album/4ABqezJKQUJmbU9BnsVMBc) | 2:30 | 2026-09-18 |  |
 | [Cloudscape](https://open.spotify.com/track/2jMHW6iPBdG4AbtvNGona5) | [Arden Brooks](https://open.spotify.com/artist/1u0BwfDCRUJ9WlO9YVpZ1m) | [Cloudscape](https://open.spotify.com/album/5wwrR5aEmGMxemHKT9GnxS) | 2:31 | 2025-03-20 |  |
 | [Colorful Wind](https://open.spotify.com/track/4k5NwAqXwtNP17qUdVZD1Y) | [Howie Paget](https://open.spotify.com/artist/4BZKW4O93jl7SthCIu89he) | [Colorful Wind](https://open.spotify.com/album/56klfdedaMKwnDJGFi38II) | 2:36 | 2022-01-19 | 2022-04-14 |
 | [Consideration](https://open.spotify.com/track/65lddH3h121XMhXaVkazVG) | [Sizmara](https://open.spotify.com/artist/54kLR6UglFWK1l2EkHmTmX), [Anarekli](https://open.spotify.com/artist/0owGYDx2xWGY0t6Nelyf4N), [Iasamani](https://open.spotify.com/artist/6AdGVwkv68xlsPwV2KvEF8) | [Consideration](https://open.spotify.com/album/0ogzhXsphb7JCFdSg3dRc6) | 2:27 | 2023-02-14 | 2025-04-16 |

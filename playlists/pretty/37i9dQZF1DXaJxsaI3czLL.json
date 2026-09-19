@@ -1,12 +1,12 @@
 {
   "description": "\u7720\u308c\u306a\u3044\u591c\u3082\u97f3\u697d\u3068\u4e00\u7dd2\u306b\u3002\u304f\u3064\u308d\u304e\u306a\u304c\u3089\u3001\u5165\u7720\u52b9\u679c\u306e\u3042\u308b\u97f3\u697d\u3068\u7d20\u6575\u306a\u591c\u3092\u3086\u3063\u305f\u308a\u3068\u304a\u904e\u3054\u3057\u4e0b\u3055\u3044\u3002",
-  "num_followers": 135904,
+  "num_followers": 135903,
   "original_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAH4CXjSHzqPlEStrutrV5fHPWZkM",
+  "snapshot_id": "AAAAAF8Iq4kOHMUjw6TEIhFcxedGFCGV",
   "tracks": [
     {
       "added_at": "2026-09-14 04:17:29",
@@ -347,22 +347,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "THE GREATEST UNKNOWN",
-        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 218497,
-      "name": "IKAROS",
-      "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
         "url": "https://open.spotify.com/album/5Rr1mK7xiTXEgPN6it8VJN"
       },
@@ -375,6 +359,22 @@
       "duration_ms": 225960,
       "name": "\u5e78\u305b\u306e\u307e\u308f\u308a\u9053",
       "url": "https://open.spotify.com/track/1OCvIuUDYIwnuv6lQzdoD7"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "THE GREATEST UNKNOWN",
+        "url": "https://open.spotify.com/album/2elSXVKJ2zpNaJkDC5T8fr"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 218497,
+      "name": "IKAROS",
+      "url": "https://open.spotify.com/track/4ct5cffZGIcSJ6P8iEToG2"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -663,22 +663,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u611b\u306e\u661f\u5c51\u3092",
-        "url": "https://open.spotify.com/album/0aiLZfAW75Lsdr1oHplrxV"
-      },
-      "artists": [
-        {
-          "name": "never young beach",
-          "url": "https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX"
-        }
-      ],
-      "duration_ms": 265898,
-      "name": "\u611b\u306e\u661f\u5c51\u3092",
-      "url": "https://open.spotify.com/track/66zpkRPnd7OF05z1TZ83AP"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "Dear Jubilee -RADWIMPS TRIBUTE-",
         "url": "https://open.spotify.com/album/6Gru76yWx8iMVWkTqkKU4I"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 409000,
       "name": "\u305d\u3063\u3051\u306a\u3044",
       "url": "https://open.spotify.com/track/1r1BKnCK7XTcYmRciPYtKB"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u611b\u306e\u661f\u5c51\u3092",
+        "url": "https://open.spotify.com/album/0aiLZfAW75Lsdr1oHplrxV"
+      },
+      "artists": [
+        {
+          "name": "never young beach",
+          "url": "https://open.spotify.com/artist/2YtvgEYiTH6jh7n2UmUdXX"
+        }
+      ],
+      "duration_ms": 265898,
+      "name": "\u611b\u306e\u661f\u5c51\u3092",
+      "url": "https://open.spotify.com/track/66zpkRPnd7OF05z1TZ83AP"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -877,38 +877,6 @@
       "url": "https://open.spotify.com/track/27zCXnSoxvJzTKTvu23X0l"
     },
     {
-      "added_at": "2026-07-09 15:00:35",
-      "album": {
-        "name": "Note of Mothership",
-        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
-      },
-      "artists": [
-        {
-          "name": "Haruomi Hosono",
-          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
-        }
-      ],
-      "duration_ms": 178995,
-      "name": "Note of Mothership",
-      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "Quicksand",
-        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
-      },
-      "artists": [
-        {
-          "name": "Bialystocks",
-          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
-        }
-      ],
-      "duration_ms": 225720,
-      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
-      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
-    },
-    {
       "added_at": "2026-04-17 03:28:41",
       "album": {
         "name": "\u5fc3\u306e\u305d\u3070\u306b",
@@ -927,6 +895,38 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "Quicksand",
+        "url": "https://open.spotify.com/album/7dyuNqSWAptyjwzRVzCiOI"
+      },
+      "artists": [
+        {
+          "name": "Bialystocks",
+          "url": "https://open.spotify.com/artist/3y24PAHjsJ3rWvMWERM7Oe"
+        }
+      ],
+      "duration_ms": 225720,
+      "name": "\u306f\u3060\u304b\u306e\u3086\u3081",
+      "url": "https://open.spotify.com/track/2NTZPgc5SLsKQX8VzypAh6"
+    },
+    {
+      "added_at": "2026-07-09 15:00:35",
+      "album": {
+        "name": "Note of Mothership",
+        "url": "https://open.spotify.com/album/4VReJ4pdw1dOJzIq2p1hlf"
+      },
+      "artists": [
+        {
+          "name": "Haruomi Hosono",
+          "url": "https://open.spotify.com/artist/370nbSkMB9kDWyTypwWYak"
+        }
+      ],
+      "duration_ms": 178995,
+      "name": "Note of Mothership",
+      "url": "https://open.spotify.com/track/2Qj1RsGrDD9laGR9QqrBvV"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "Ninh Binh Brother's Homestay",
         "url": "https://open.spotify.com/album/2I7P1pgDW7BZigccsZ17ra"
       },
@@ -939,22 +939,6 @@
       "duration_ms": 220575,
       "name": "\u30d0\u30a4\u30af\u3092\u98db\u3070\u3057\u3066",
       "url": "https://open.spotify.com/track/7CJGXnESvFMH9bKXVhwwP7"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
-        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
-        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
-      },
-      "artists": [
-        {
-          "name": "yangskinny",
-          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
-        }
-      ],
-      "duration_ms": 116880,
-      "name": "\u591c\u306e\u307e\u307e\u3067",
-      "url": "https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -979,6 +963,22 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
+        "name": "\u6b4c\u306b\u3057\u3066\u3057\u307e\u3048\u3070\u3001\u3069\u3093\u306a\u3053\u3068\u3067\u3082\u8a31\u3055\u308c\u308b\u3068\u601d\u3063\u3066\u3044\u305f",
+        "url": "https://open.spotify.com/album/6PuiGsnDm2d8zKPkK9Iq1e"
+      },
+      "artists": [
+        {
+          "name": "yangskinny",
+          "url": "https://open.spotify.com/artist/3VVMRDGpbQR2SK9nHX3DW5"
+        }
+      ],
+      "duration_ms": 116880,
+      "name": "\u591c\u306e\u307e\u307e\u3067",
+      "url": "https://open.spotify.com/track/4S3RhR7avC92O5rFsi55nX"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
         "name": "\u97f3\u697d\u3068\u79c1",
         "url": "https://open.spotify.com/album/40ZrEXw8VRCDkWrICrBTb0"
       },
@@ -995,22 +995,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "tradition",
-        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
-      },
-      "artists": [
-        {
-          "name": "CHO CO PA CO CHO CO QUIN QUIN",
-          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
-        }
-      ],
-      "duration_ms": 167885,
-      "name": "Moon Dance",
-      "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "19\u2103",
         "url": "https://open.spotify.com/album/5e6Dnt4gBECf2Sk2fb7QfS"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 253722,
       "name": "19\u2103",
       "url": "https://open.spotify.com/track/5dlsXs7v9N6BmUFyF0h3kY"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "tradition",
+        "url": "https://open.spotify.com/album/5fj2vwRaYmwFoRKtuik6lm"
+      },
+      "artists": [
+        {
+          "name": "CHO CO PA CO CHO CO QUIN QUIN",
+          "url": "https://open.spotify.com/artist/3mWeBqMtDhKO66qel3iO2C"
+        }
+      ],
+      "duration_ms": 167885,
+      "name": "Moon Dance",
+      "url": "https://open.spotify.com/track/2mMZ6RsGVCUJwNuJekjlAx"
     },
     {
       "added_at": "2026-07-02 15:00:05",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "The Story of Us",
-        "url": "https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 247213,
-      "name": "Anytime Anywhere - Piano Session",
-      "url": "https://open.spotify.com/track/1uD0V0FXClTxj1eHd6H3iL"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "UTAU",
         "url": "https://open.spotify.com/album/6mSXKYAQh59mF11BjUDVI0"
       },
@@ -1295,6 +1279,22 @@
       "duration_ms": 305213,
       "name": "\u7f8e\u8c8c\u306e\u9752\u7a7a\uff08Bibo no Aozora\uff09 - Geimori - Medley",
       "url": "https://open.spotify.com/track/0TfFwWDeuphsK3Cx6MAcJL"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "The Story of Us",
+        "url": "https://open.spotify.com/album/60naGDgc9FpNszd6YFrhHB"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 247213,
+      "name": "Anytime Anywhere - Piano Session",
+      "url": "https://open.spotify.com/track/1uD0V0FXClTxj1eHd6H3iL"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u6700\u60aa\u6700\u611b",
-        "url": "https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv"
-      },
-      "artists": [
-        {
-          "name": "Ai Higuchi",
-          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
-        }
-      ],
-      "duration_ms": 358666,
-      "name": "\u5287\u5834",
-      "url": "https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC"
-    },
-    {
-      "added_at": "2026-04-17 03:28:41",
-      "album": {
         "name": "Highlights from Simple is best",
         "url": "https://open.spotify.com/album/3j087Rm0XA4375oo8bOpsj"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 257105,
       "name": "The Rose (15th Anniversary Version\uff09",
       "url": "https://open.spotify.com/track/3gprhfewjgihqZS5OIRX95"
+    },
+    {
+      "added_at": "2026-04-17 03:28:41",
+      "album": {
+        "name": "\u6700\u60aa\u6700\u611b",
+        "url": "https://open.spotify.com/album/3HrPqqK8s7gsSEa7fFHNjv"
+      },
+      "artists": [
+        {
+          "name": "Ai Higuchi",
+          "url": "https://open.spotify.com/artist/4GxWcui9BlMJH9VOOK5wav"
+        }
+      ],
+      "duration_ms": 358666,
+      "name": "\u5287\u5834",
+      "url": "https://open.spotify.com/track/53hfzcJKgWPNFpfjORtTKC"
     },
     {
       "added_at": "2026-04-17 03:28:41",
@@ -1663,18 +1663,18 @@
     {
       "added_at": "2026-04-17 03:28:41",
       "album": {
-        "name": "\u30cf\u30df\u30f3\u30b0\u30d0\u30fc\u30c9",
-        "url": "https://open.spotify.com/album/42RtIuwRaKZXMhVGi2O5PY"
+        "name": "\u305f\u3060\u3044\u307e",
+        "url": "https://open.spotify.com/album/4YybvOoOrXps18hLkrsrEB"
       },
       "artists": [
         {
-          "name": "STRANGE REITARO",
-          "url": "https://open.spotify.com/artist/56GlPMUHPnbBDYMMbgLHN4"
+          "name": "Aoi Teshima",
+          "url": "https://open.spotify.com/artist/4FrFdi2hHpulQOxDihRIQD"
         }
       ],
-      "duration_ms": 275266,
-      "name": "Life Is Beautiful",
-      "url": "https://open.spotify.com/track/7L4VgQR2mhH8GBJV19FEoR"
+      "duration_ms": 329666,
+      "name": "\u661f\u660e\u304b\u308a\u306e\u30c8\u30ed\u30a4\u30e1\u30e9\u30a4",
+      "url": "https://open.spotify.com/track/1PGaIt3b8ABOLZDZN0WKZS"
     }
   ],
   "unique_name": "\u7720\u308c\u306c\u591c\u306e\u97f3\u697d",

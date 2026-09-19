@@ -25299,6 +25299,28 @@
     },
     {
       "album": {
+        "name": "Study",
+        "url": "https://open.spotify.com/album/0gLXwdxnEolfEkOfwcpJEA"
+      },
+      "artists": [
+        {
+          "name": "Majid Unpeek",
+          "url": "https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179200,
+      "name": "Study",
+      "url": "https://open.spotify.com/track/1RrKZ1fVGGHO9be3P1ZAMD"
+    },
+    {
+      "album": {
         "name": "Stuff & Things",
         "url": "https://open.spotify.com/album/6TtXTseVtXPOaNxAoOMAvE"
       },

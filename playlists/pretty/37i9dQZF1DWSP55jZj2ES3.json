@@ -1,12 +1,12 @@
 {
   "description": "Indie jams that sound like lounging under the sun with friends. ",
-  "num_followers": 530898,
+  "num_followers": 530873,
   "original_name": "Park Hangs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG0g2wLeFVhB39GIy+lkJcsmXA1d",
+  "snapshot_id": "AAAAAGZHSqLpTrwj7JI+5KQt4FPq4y4h",
   "tracks": [
     {
       "added_at": "2026-01-20 16:17:11",
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Gamesofluck",
-        "url": "https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA"
-      },
-      "artists": [
-        {
-          "name": "Parcels",
-          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
-        }
-      ],
-      "duration_ms": 348093,
-      "name": "Gamesofluck",
-      "url": "https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "One Wayne G",
         "url": "https://open.spotify.com/album/70hX7IYqmUGV97OXs2v848"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 136888,
       "name": "20191009 I Like Her",
       "url": "https://open.spotify.com/track/3oUn55qKRZ1JFzfQNbJjS1"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "Gamesofluck",
+        "url": "https://open.spotify.com/album/0ugE0qpkFDNLYFmNiUOOKA"
+      },
+      "artists": [
+        {
+          "name": "Parcels",
+          "url": "https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA"
+        }
+      ],
+      "duration_ms": 348093,
+      "name": "Gamesofluck",
+      "url": "https://open.spotify.com/track/0rdWkO7ncrh1lrJGDmLq9L"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -1303,26 +1303,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Blame My Ex",
-        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
-      },
-      "artists": [
-        {
-          "name": "The Beaches",
-          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
-        },
-        {
-          "name": "Beach Weather",
-          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
-        }
-      ],
-      "duration_ms": 173975,
-      "name": "My Body ft Your Lips",
-      "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/3mhZHDmHvIUAeAYH7MrXBW"
       },
@@ -1339,6 +1319,26 @@
       "duration_ms": 193093,
       "name": "Dapper (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/2Nh2cMryoXl7BrZoIeN2Pr"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "Blame My Ex",
+        "url": "https://open.spotify.com/album/1a5idDFSq90ej8CzQC7YDc"
+      },
+      "artists": [
+        {
+          "name": "The Beaches",
+          "url": "https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy"
+        },
+        {
+          "name": "Beach Weather",
+          "url": "https://open.spotify.com/artist/7I3bkknknQkIiatWiupQgD"
+        }
+      ],
+      "duration_ms": 173975,
+      "name": "My Body ft Your Lips",
+      "url": "https://open.spotify.com/track/4xkxhTvP9tmCKfAIO8GFJR"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-01-20 16:17:11",
       "album": {
-        "name": "Boyhood",
-        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
-      },
-      "artists": [
-        {
-          "name": "The Japanese House",
-          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
-        }
-      ],
-      "duration_ms": 189624,
-      "name": "Boyhood",
-      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
-    },
-    {
-      "added_at": "2026-01-20 16:17:11",
-      "album": {
         "name": "Inside Out",
         "url": "https://open.spotify.com/album/7yf6qu9oeomPuI8p3FHjCP"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 230310,
       "name": "Keep On Calling",
       "url": "https://open.spotify.com/track/35nfO92JtV6Nhv3CgHpS7P"
+    },
+    {
+      "added_at": "2026-01-20 16:17:11",
+      "album": {
+        "name": "Boyhood",
+        "url": "https://open.spotify.com/album/0WeOawoUKtxcNqkdvmdN4n"
+      },
+      "artists": [
+        {
+          "name": "The Japanese House",
+          "url": "https://open.spotify.com/artist/3IunaFjvNKj98JW89JYv9u"
+        }
+      ],
+      "duration_ms": 189624,
+      "name": "Boyhood",
+      "url": "https://open.spotify.com/track/4Y273Gix47holXvTP9hGpj"
     },
     {
       "added_at": "2026-01-20 16:17:11",
@@ -1664,7 +1664,7 @@
       },
       "artists": [
         {
-          "name": "Teilz",
+          "name": "TEILZ",
           "url": "https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno"
         }
       ],

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "As belas novidades da MPB. Foto: Djavan",
+  "description": "As belas novidades da MPB. Foto: Leo Middea",
   "name": "Divina MPB",
   "tracks": [
     {
@@ -4683,6 +4683,24 @@
     },
     {
       "album": {
+        "name": "Carnaval",
+        "url": "https://open.spotify.com/album/1X2TldNrfZHx55I8c4mq8g"
+      },
+      "artists": [
+        {
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170240,
+      "name": "Carnaval",
+      "url": "https://open.spotify.com/track/4cOTrXfESTvKe9skDhaEPt"
+    },
+    {
+      "album": {
         "name": "Carnavil\u00e3",
         "url": "https://open.spotify.com/album/6M823WJsJilFHI1CBcCS3D"
       },
@@ -5122,6 +5140,28 @@
       "duration_ms": 151458,
       "name": "Ciumeira",
       "url": "https://open.spotify.com/track/5xy5b7EWPTCINHJF4izEWJ"
+    },
+    {
+      "album": {
+        "name": "Nave Luz",
+        "url": "https://open.spotify.com/album/1q1EQFIMVGoOcjuPJdnLZw"
+      },
+      "artists": [
+        {
+          "name": "Academia da Berlinda",
+          "url": "https://open.spotify.com/artist/2pG3gLX9VMIXtbSRxvNKjC"
+        },
+        {
+          "name": "Mestre Anderson Miguel",
+          "url": "https://open.spotify.com/artist/2A5yczeZxYgxtjZENNKp5o"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254500,
+      "name": "Ci\u00eancia",
+      "url": "https://open.spotify.com/track/2WoXB1yitKjWPziYhOJ3xN"
     },
     {
       "album": {
@@ -6128,6 +6168,32 @@
       "duration_ms": 239506,
       "name": "Dan\u00e7a Do Esp\u00edrito",
       "url": "https://open.spotify.com/track/3wjz57aFpVopeXLqI8V2aE"
+    },
+    {
+      "album": {
+        "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
+        "url": "https://open.spotify.com/album/4MsrnDkwgg0GCZfp1OjRJh"
+      },
+      "artists": [
+        {
+          "name": "H\u00e9loa",
+          "url": "https://open.spotify.com/artist/7DFdiuoXSlZnvRxU83UvCi"
+        },
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "Liu Kid",
+          "url": "https://open.spotify.com/artist/6qEUX0TzUwwswlE8w3MPiW"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260603,
+      "name": "Dan\u00e7a N\u2019kisi Dan\u00e7a",
+      "url": "https://open.spotify.com/track/4k80imJJqnVRDxpc1O0Y1a"
     },
     {
       "album": {
@@ -7816,7 +7882,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 221684,
       "name": "Entre Amores e Danos",
       "url": "https://open.spotify.com/track/7dI4arfkb8h4yQKLVlkrBH"
@@ -9814,7 +9880,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 243607,
       "name": "Giram S\u00f3is",
       "url": "https://open.spotify.com/track/15GQtcXgZlUXDbkgu27Zvu"
@@ -11082,6 +11148,24 @@
       "duration_ms": 210532,
       "name": "Laiarai\u00e1",
       "url": "https://open.spotify.com/track/5bHjeMbFmKNnXdf09cxEqQ"
+    },
+    {
+      "album": {
+        "name": "Lamento de Artista",
+        "url": "https://open.spotify.com/album/5sNh8dzi6FXH9wUIr5T6BE"
+      },
+      "artists": [
+        {
+          "name": "Luna Di",
+          "url": "https://open.spotify.com/artist/4nNEvDiE4ZIwyed39o4ZoQ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169823,
+      "name": "Lamento de Artista",
+      "url": "https://open.spotify.com/track/26d3gqVl9eUBY41g9ErvCB"
     },
     {
       "album": {
@@ -12530,7 +12614,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 235238,
       "name": "Me Quedo Por Ti",
       "url": "https://open.spotify.com/track/2D3ZBmZU1ue8I5NcuU4frk"
@@ -13499,6 +13583,24 @@
     },
     {
       "album": {
+        "name": "A Voz, o Viol\u00e3o, a M\u00fasica de Djavan (Edi\u00e7\u00e3o Especial de 50 Anos) [Remasterizada 2026]",
+        "url": "https://open.spotify.com/album/3P3wCaOTHQFAHRL0sT5rfw"
+      },
+      "artists": [
+        {
+          "name": "Djavan",
+          "url": "https://open.spotify.com/artist/5rrmaoBXZ7Jcs4Qb77j0YA"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193130,
+      "name": "Muito Obrigado - Voz e Viol\u00e3o",
+      "url": "https://open.spotify.com/track/19ZqlnVzHadrQjB4DvlVxi"
+    },
+    {
+      "album": {
         "name": "Muito Prazer, Meu Nome \u00c9 Salvador",
         "url": "https://open.spotify.com/album/1R9yRCssXMD08whNj8bBzH"
       },
@@ -14098,7 +14200,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 232966,
       "name": "Nem Uma, Nem Duas, Nem Tr\u00eas",
       "url": "https://open.spotify.com/track/6CtJhfxODuGlf3atmAbki1"
@@ -15596,7 +15698,7 @@
       ],
       "date_added": "2025-07-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 121015,
       "name": "O Mundo \u00e9 um Moinho",
       "url": "https://open.spotify.com/track/5RrabFXezOFgx5FlYYhkHc"
@@ -17406,7 +17508,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 276000,
       "name": "Pontes no Ar",
       "url": "https://open.spotify.com/track/2M6GfrTPMJSkO6DHGHsvJy"
@@ -18241,6 +18343,28 @@
     },
     {
       "album": {
+        "name": "Fervo Unboxing - Rodrigo Ciampi",
+        "url": "https://open.spotify.com/album/5RYuQybfuZ3TwiaFktJlqE"
+      },
+      "artists": [
+        {
+          "name": "Fervo Unboxing",
+          "url": "https://open.spotify.com/artist/20tw3T1uuOc20FQzt6p2ia"
+        },
+        {
+          "name": "Rodrigo Ciampi",
+          "url": "https://open.spotify.com/artist/5nDYeKVJTFBjX7xxucGcHL"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144296,
+      "name": "Presente",
+      "url": "https://open.spotify.com/track/3GCQrVE2tt0gmEQaxzD8gS"
+    },
+    {
+      "album": {
         "name": "Luminosa",
         "url": "https://open.spotify.com/album/52lDBjyuC2VwwplJ0xTu4R"
       },
@@ -18490,7 +18614,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 224720,
       "name": "Proposta",
       "url": "https://open.spotify.com/track/7nnOpLkOGevWX6BYxs2xnP"
@@ -19928,7 +20052,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 276459,
       "name": "River Man",
       "url": "https://open.spotify.com/track/2ApJEk0TXkQPNSBqsrAFb9"
@@ -20894,7 +21018,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-07",
+      "date_removed": null,
       "duration_ms": 174565,
       "name": "SEM DRAMAS",
       "url": "https://open.spotify.com/track/7aYoAp3JEVSEpZHW0r06hw"
@@ -21028,7 +21152,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 208607,
       "name": "Semeia",
       "url": "https://open.spotify.com/track/2gcSyG9JxCdb4gIDtbbtCG"

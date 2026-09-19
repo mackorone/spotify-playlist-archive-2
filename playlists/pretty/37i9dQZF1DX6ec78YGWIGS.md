@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 
 > Lo nuevo y lo más escuchado del pop\. Foto: K4OS
 
-[Spotify](https://open.spotify.com/user/spotify) - 577,767 likes - 96 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 577,753 likes - 96 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -105,4 +105,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ec78YGWIGS.md) - [plain]
 | 95 | [Caos Remix](https://open.spotify.com/track/23uCc690KZoofO0otAj3sN) | [K4OS](https://open.spotify.com/artist/0jwhC8DIMe1p89BXvsMnYj) | [Caos Remix](https://open.spotify.com/album/5hKU1pfcskKHoFKYAAIRw5) | 2:13 |
 | 96 | [Nana \(feat\. BB Asul\)](https://open.spotify.com/track/4fd0dVy9LBXxARAeGdKi3R) | [Mar Marzo](https://open.spotify.com/artist/4WnBdEl64Zs4DiEBAaAFlc), [BB ASUL](https://open.spotify.com/artist/27PauMy7dOiHb7sI8h6s4T) | [Efectos Adversos](https://open.spotify.com/album/1LDMXAPEUd7ROkIyJwFgCT) | 3:04 |
 
-Snapshot ID: `AAAAALqz2tRw8muDwoAmmNX97EeiqG1n`
+Snapshot ID: `AAAAABDUUlU3Vh93blTJpePExKxAyqqn`

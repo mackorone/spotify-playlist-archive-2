@@ -1968,7 +1968,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 227476,
       "name": "Blame",
       "url": "https://open.spotify.com/track/3gLyqgPINXC7aJoHnBJ3hj"
@@ -3164,7 +3164,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 170976,
       "name": "Close",
       "url": "https://open.spotify.com/track/5xdC35mf072S94yav2vRt6"
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 234303,
       "name": "Coil",
       "url": "https://open.spotify.com/track/0Bo7hqEUT49zxY4bZXRX55"
@@ -4990,7 +4990,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 213516,
       "name": "F U WANT IT",
       "url": "https://open.spotify.com/track/5HmntMOWQF4ixQsOWooNkI"
@@ -5116,7 +5116,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 166949,
       "name": "Figure Me Out",
       "url": "https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm"
@@ -6260,7 +6260,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 242446,
       "name": "HANNAH MONTANA",
       "url": "https://open.spotify.com/track/36dnmtvkyziG2MKXZe6xY4"
@@ -6614,6 +6614,24 @@
       "duration_ms": 206143,
       "name": "High Road",
       "url": "https://open.spotify.com/track/70gjgZ9hREB49y3JnKMzAi"
+    },
+    {
+      "album": {
+        "name": "Higher",
+        "url": "https://open.spotify.com/album/21fNxP69AUkNk8x4JXimvd"
+      },
+      "artists": [
+        {
+          "name": "Jespfur",
+          "url": "https://open.spotify.com/artist/7uPZzaOXKtwltRGEgeQN0r"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205750,
+      "name": "Higher",
+      "url": "https://open.spotify.com/track/23YHFy3aUoyc4imtGgPY9Z"
     },
     {
       "album": {
@@ -7263,6 +7281,24 @@
     },
     {
       "album": {
+        "name": "I Was Stone",
+        "url": "https://open.spotify.com/album/5suahUnFpSYBNSXncdV1fg"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226147,
+      "name": "I Was Stone",
+      "url": "https://open.spotify.com/track/6NLpXfFn71uETTLM8aqjeB"
+    },
+    {
+      "album": {
         "name": "I Will Wait For You",
         "url": "https://open.spotify.com/album/1QSUuLr1vGrlLxu9yRk2nK"
       },
@@ -7278,6 +7314,24 @@
       "duration_ms": 203809,
       "name": "I Will Wait For You",
       "url": "https://open.spotify.com/track/7hiFzbTjQg3Xc1TrAAb7mR"
+    },
+    {
+      "album": {
+        "name": "Crunchy, Sad and Strangely Happy",
+        "url": "https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224383,
+      "name": "I Wish I Never Met You",
+      "url": "https://open.spotify.com/track/0DZrttPj3g3XEyiTTRnLZd"
     },
     {
       "album": {
@@ -12220,7 +12274,7 @@
       ],
       "date_added": "2026-05-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 300764,
       "name": "Real Here Now",
       "url": "https://open.spotify.com/track/4sUUqLfVKhX3DGnT1CyFHI"
@@ -12664,7 +12718,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 299559,
       "name": "Room Of Love",
       "url": "https://open.spotify.com/track/0z7GpjiF54m9GIGYQKr88G"
@@ -13447,6 +13501,24 @@
     },
     {
       "album": {
+        "name": "The House",
+        "url": "https://open.spotify.com/album/20JwXguQZQ56bQYkY0B6zE"
+      },
+      "artists": [
+        {
+          "name": "Elis Floreen",
+          "url": "https://open.spotify.com/artist/299Jzr4T2YvOOue2DiJ0AL"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245986,
+      "name": "Sleepless Dream",
+      "url": "https://open.spotify.com/track/2FfNTLtBLYQ91faLchKmlr"
+    },
+    {
+      "album": {
         "name": "Slow Tonight",
         "url": "https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc"
       },
@@ -13488,6 +13560,24 @@
       "duration_ms": 265969,
       "name": "small red tree",
       "url": "https://open.spotify.com/track/45vShxI8norxKMVdTWSs2P"
+    },
+    {
+      "album": {
+        "name": "Small Town",
+        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169981,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {
       "album": {
@@ -13682,7 +13772,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 178064,
       "name": "Something's Off",
       "url": "https://open.spotify.com/track/5hXyd0dTCoXgFryBC1rgK1"
@@ -15445,6 +15535,24 @@
     },
     {
       "album": {
+        "name": "The Meaning of Flowers",
+        "url": "https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234644,
+      "name": "The Meaning of Flowers",
+      "url": "https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM"
+    },
+    {
+      "album": {
         "name": "The Mountain",
         "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
       },
@@ -15646,6 +15754,24 @@
       "duration_ms": 196665,
       "name": "The Start",
       "url": "https://open.spotify.com/track/5Jh7h57SHsgmvPLnkN2P76"
+    },
+    {
+      "album": {
+        "name": "The Sun",
+        "url": "https://open.spotify.com/album/6siWmmAx2R0xa5Gp1l8lFX"
+      },
+      "artists": [
+        {
+          "name": "Galine",
+          "url": "https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216453,
+      "name": "The Sun",
+      "url": "https://open.spotify.com/track/3CXadUqQ5eUVbDxtDaidgN"
     },
     {
       "album": {
@@ -16104,6 +16230,24 @@
       "duration_ms": 196560,
       "name": "Too Good To Go",
       "url": "https://open.spotify.com/track/2rccADxloadlIfECZPCWcP"
+    },
+    {
+      "album": {
+        "name": "too late",
+        "url": "https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ"
+      },
+      "artists": [
+        {
+          "name": "Juney Boy",
+          "url": "https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190157,
+      "name": "too late",
+      "url": "https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu"
     },
     {
       "album": {
@@ -16849,6 +16993,24 @@
     },
     {
       "album": {
+        "name": "We Doen Alsof",
+        "url": "https://open.spotify.com/album/59pkwsQ2UfKwtR5o9TPeNW"
+      },
+      "artists": [
+        {
+          "name": "Wende",
+          "url": "https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210040,
+      "name": "We Doen Alsof",
+      "url": "https://open.spotify.com/track/54JVTO9jnEayXd0DZgaut0"
+    },
+    {
+      "album": {
         "name": "We Tried",
         "url": "https://open.spotify.com/album/69IhLswBPVjFm52fjf19Yo"
       },
@@ -17062,7 +17224,7 @@
       ],
       "date_added": "2026-06-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 205720,
       "name": "When I Get Drunk (I Want You Boy)",
       "url": "https://open.spotify.com/track/69AtEHHdDYKRgWlO0vwjUY"
@@ -17730,6 +17892,24 @@
       "duration_ms": 200053,
       "name": "\u00ddparxi",
       "url": "https://open.spotify.com/track/7gUCQf72nxrbkWypZpGkuF"
+    },
+    {
+      "album": {
+        "name": "Nocturne",
+        "url": "https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC"
+      },
+      "artists": [
+        {
+          "name": "Wasia Project",
+          "url": "https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 296285,
+      "name": "\u2060Wildfire",
+      "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
     },
     {
       "album": {

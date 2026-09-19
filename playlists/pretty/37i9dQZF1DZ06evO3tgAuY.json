@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAC+7zMMtquuZvnIFi72WfdY",
+  "snapshot_id": "aqstgAAAAAByqRvCEW8TEXUlx5bTq2oz",
   "tracks": [
     {
       "added_at": null,
@@ -287,26 +287,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PVTIVUELTA",
-        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
-      },
-      "artists": [
-        {
-          "name": "Michelle Maciel",
-          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 143798,
-      "name": "PVTIVUELTA",
-      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Fue Suerte",
         "url": "https://open.spotify.com/album/5QxLA2T5xN1exwvi8Nbj3m"
       },
@@ -323,6 +303,26 @@
       "duration_ms": 160038,
       "name": "No Fue Suerte",
       "url": "https://open.spotify.com/track/5JlFFZzslIp8Ljnl4DRr5X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PVTIVUELTA",
+        "url": "https://open.spotify.com/album/1ea72a9TzaXc9hHy3cU77E"
+      },
+      "artists": [
+        {
+          "name": "Michelle Maciel",
+          "url": "https://open.spotify.com/artist/4WFwvZ4L8FZbt3qubbQJS6"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 143798,
+      "name": "PVTIVUELTA",
+      "url": "https://open.spotify.com/track/0dLYRSyQlhY3un6yTslsoA"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MASARYK / BIEN PEDO",
+        "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "BIEN PEDO",
+      "url": "https://open.spotify.com/track/7sduQZMezgZjyUkPhZjz8a"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Copa",
         "url": "https://open.spotify.com/album/3Hygvhaxw3UB4kRknoCDRe"
       },
@@ -543,22 +559,6 @@
       "duration_ms": 200000,
       "name": "Copa",
       "url": "https://open.spotify.com/track/4HSQu9jV9WrADVgo9wW1Kk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MASARYK / BIEN PEDO",
-        "url": "https://open.spotify.com/album/2xk9Rij0FAObYriAiybTmW"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 146250,
-      "name": "BIEN PEDO",
-      "url": "https://open.spotify.com/track/7sduQZMezgZjyUkPhZjz8a"
     },
     {
       "added_at": null,
@@ -831,22 +831,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Do\u00f1a Soledad",
-        "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
+        "name": "Bsod3",
+        "url": "https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx"
       },
       "artists": [
         {
-          "name": "Ang\u00e9lica Gallegos",
-          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
+          "name": "GHT Official",
+          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
         },
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 163636,
-      "name": "Ser\u00e1",
-      "url": "https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c"
+      "duration_ms": 194645,
+      "name": "Bsod3",
+      "url": "https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD"
     },
     {
       "added_at": null,
@@ -871,26 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bsod3",
-        "url": "https://open.spotify.com/album/7iYg0CAEK4TRhUjIblmrHx"
-      },
-      "artists": [
-        {
-          "name": "GHT Official",
-          "url": "https://open.spotify.com/artist/5UoJHEmD9sWybPkddJTmq8"
-        },
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 194645,
-      "name": "Bsod3",
-      "url": "https://open.spotify.com/track/1rgHdprGGmImOaPwwfGQXD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Uno Al 7 (En Vivo)",
         "url": "https://open.spotify.com/album/3ZQHJaeHx9bGyZIsRC8Abs"
       },
@@ -911,38 +891,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Digas No",
-        "url": "https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH"
+        "name": "Do\u00f1a Soledad",
+        "url": "https://open.spotify.com/album/6xu4RkKBWn5YM5DUyG8n4W"
       },
       "artists": [
         {
-          "name": "Rivs",
-          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+          "name": "Ang\u00e9lica Gallegos",
+          "url": "https://open.spotify.com/artist/0x5h9zpuylgle1BtMTgfvb"
         },
         {
           "name": "Alex Favela",
           "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
         }
       ],
-      "duration_ms": 169780,
-      "name": "No Digas No",
-      "url": "https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "AFROLANDIA",
-        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
-      },
-      "artists": [
-        {
-          "name": "Alex Favela",
-          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
-        }
-      ],
-      "duration_ms": 154000,
-      "name": "FLAKA MORENA",
-      "url": "https://open.spotify.com/track/2ILDGw3bCscmGDlhAB1Hfb"
+      "duration_ms": 163636,
+      "name": "Ser\u00e1",
+      "url": "https://open.spotify.com/track/1GdveMmBNitc3qL041jx2c"
     },
     {
       "added_at": null,
@@ -967,6 +931,42 @@
       "duration_ms": 127058,
       "name": "DESDE MIS OJOS",
       "url": "https://open.spotify.com/track/1d4ZXTWSIN8VgVNjbL1Xfr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AFROLANDIA",
+        "url": "https://open.spotify.com/album/7L1etojI2A2lpgC47Fn4rq"
+      },
+      "artists": [
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 154000,
+      "name": "FLAKA MORENA",
+      "url": "https://open.spotify.com/track/2ILDGw3bCscmGDlhAB1Hfb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Digas No",
+        "url": "https://open.spotify.com/album/2rVjETCPkl6FEXKQJjN3IH"
+      },
+      "artists": [
+        {
+          "name": "Rivs",
+          "url": "https://open.spotify.com/artist/4ev0gsQkvhWz9gh20gQ3HA"
+        },
+        {
+          "name": "Alex Favela",
+          "url": "https://open.spotify.com/artist/5TcnuUD5MHBfd1cO4kweWD"
+        }
+      ],
+      "duration_ms": 169780,
+      "name": "No Digas No",
+      "url": "https://open.spotify.com/track/6GVXNywMiGRsVbVf46SxAZ"
     },
     {
       "added_at": null,

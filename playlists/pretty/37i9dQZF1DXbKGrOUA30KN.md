@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Dani Lia, Yola
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,934 likes - 90 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,879 likes - 90 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Track 2](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 0:00 |
+| 1 | [vergötter mich \(mit bürgermeisterin von wien\)](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 2:41 |
 | 2 | [Stille Kämpfe](https://open.spotify.com/track/5bwAUjXCeswq7BD1dX4hqV) | [NESS](https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R), [Montez](https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc) | [Stille Kämpfe](https://open.spotify.com/album/6i7nTqFylGp2JEqUIHCDxc) | 2:47 |
 | 3 | [Optimistisch](https://open.spotify.com/track/1idx5w32OLTjYWcbHqeoP6) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt), [leiseer](https://open.spotify.com/artist/4wNGXnmteSkCfJ4aigVsyz) | [Optimistisch](https://open.spotify.com/album/6tDdSd2I3qQhhTcoHtn0Ky) | 2:55 |
 | 4 | [Dein Lied](https://open.spotify.com/track/2nSE7dT2VRZ5it7iGfn5Au) | [KLANGSPIEL](https://open.spotify.com/artist/3usPPkMdtxRaQl5pEpIkAq), [Anna Grey](https://open.spotify.com/artist/5SFwozJTdBZNUFYYrAqH4q) | [Dein Lied](https://open.spotify.com/album/4ak7YGfD2M1LXg49UXghJU) | 2:08 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 | 89 | [time flies](https://open.spotify.com/track/4V6dMONwHVfw8QfpSucNrt) | [PAMO](https://open.spotify.com/artist/7qf2XcdJFubvVknccluf2r) | [time flies](https://open.spotify.com/album/77qQwRE8towWv5I7T619Ib) | 2:21 |
 | 90 | [wie du liebst](https://open.spotify.com/track/4bydS9c1vpLXjyg79TOyb4) | [Erda](https://open.spotify.com/artist/0Zd813hYpR0qlSmJt5T8E7), [Sampagne](https://open.spotify.com/artist/7vohy1W7YNLxHynG44UFjS) | [wie du liebst](https://open.spotify.com/album/3351R1TgdmIoBJlWqeQVgK) | 2:52 |
 
-Snapshot ID: `AAAAABz3hXsr7H+CjdP3aOpNgQE2YLAU`
+Snapshot ID: `AAAAAL+082maQd94ezQcrTsi5WUYYk9d`

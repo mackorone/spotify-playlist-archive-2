@@ -1,12 +1,12 @@
 {
   "description": "Many would say that this decade is a \"Golden Era\" for country music. Cover: Patsy Cline",
-  "num_followers": 387530,
+  "num_followers": 387546,
   "original_name": "60s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAC9dSMYYzA7CKs6ApRxSle/rP1PK",
+  "snapshot_id": "AAAAAPN/BUCSa4/Lz/wJ5+Ma5YSGW5TY",
   "tracks": [
     {
       "added_at": "2026-02-17 04:47:51",
@@ -695,18 +695,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
+        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
+        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
       },
       "artists": [
         {
-          "name": "Jim Reeves",
-          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
+          "name": "Marty Robbins",
+          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
         }
       ],
-      "duration_ms": 140800,
-      "name": "Am I Losing You - 1959 Version",
-      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
+      "duration_ms": 194160,
+      "name": "Don't Worry",
+      "url": "https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -727,18 +727,18 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Story Of My Life: The Best Of Marty Robbins 1952-1965",
-        "url": "https://open.spotify.com/album/74rRdoFP8aO3ZhY8MeZK0m"
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/1xA2yRz4VCNPpzDIioyowJ"
       },
       "artists": [
         {
-          "name": "Marty Robbins",
-          "url": "https://open.spotify.com/artist/0Xi59sEw38vRvwleSAVqoo"
+          "name": "Jim Reeves",
+          "url": "https://open.spotify.com/artist/2Ev0e8GUIX4u7d9etNLTXg"
         }
       ],
-      "duration_ms": 194160,
-      "name": "Don't Worry",
-      "url": "https://open.spotify.com/track/0dPfKBYyPmoSfoLJqeKAs4"
+      "duration_ms": 140800,
+      "name": "Am I Losing You - 1959 Version",
+      "url": "https://open.spotify.com/track/3CRQJXjhNZiyvoNc3RIcwr"
     },
     {
       "added_at": "2026-02-17 04:47:51",
@@ -1251,26 +1251,6 @@
     {
       "added_at": "2026-02-17 04:47:51",
       "album": {
-        "name": "The Essential Porter Wagoner & Dolly Parton",
-        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
-      },
-      "artists": [
-        {
-          "name": "Porter Wagoner",
-          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
-        },
-        {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        }
-      ],
-      "duration_ms": 117053,
-      "name": "We'll Get Ahead Someday",
-      "url": "https://open.spotify.com/track/7mdB5GWRbuWJDxZ2CbarAv"
-    },
-    {
-      "added_at": "2026-02-17 04:47:51",
-      "album": {
         "name": "(Margie's At) The Lincoln Park Inn",
         "url": "https://open.spotify.com/album/2sIBp3FcO6tNjcgFVIxaFM"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 166973,
       "name": "Still - Single Version",
       "url": "https://open.spotify.com/track/0Q7eey8NSPQEQ3ol75UAAx"
+    },
+    {
+      "added_at": "2026-02-17 04:47:51",
+      "album": {
+        "name": "The Essential Porter Wagoner & Dolly Parton",
+        "url": "https://open.spotify.com/album/6HsMsuo7HXXwZPk3lIr850"
+      },
+      "artists": [
+        {
+          "name": "Porter Wagoner",
+          "url": "https://open.spotify.com/artist/4PcLkq6IefIYiRWLXOfwKA"
+        },
+        {
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        }
+      ],
+      "duration_ms": 117053,
+      "name": "We'll Get Ahead Someday",
+      "url": "https://open.spotify.com/track/7mdB5GWRbuWJDxZ2CbarAv"
     },
     {
       "added_at": "2026-02-17 04:47:51",

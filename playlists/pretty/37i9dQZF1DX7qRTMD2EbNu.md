@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 
 > Hottest bars coming live from the 233\.  Cover: M.anifest & O'Kenneth
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,347 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,386 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7qRTMD2EbNu.md) - [plain]
 | 79 | [They can't kill me](https://open.spotify.com/track/2kwmjkWFrZuaduNhWMh6kk) | [Lalid](https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV) | [They can't kill me](https://open.spotify.com/album/5XQIc8y4KxN1yEpWiTv6nC) | 2:46 |
 | 80 | [Wonti](https://open.spotify.com/track/2dlsncrlurYOmMHgBdftN4) | [E.L](https://open.spotify.com/artist/3mUnqlNBdoohi6s287lxel) | [Wonti](https://open.spotify.com/album/5nlI5sQed4837qKtGrODtl) | 2:51 |
 
-Snapshot ID: `AAAAAMhhcQmMBCPTlcbTUjnr73fUykDE`
+Snapshot ID: `AAAAAHdFn936kpQOFsfNV36ikC4t0IvT`

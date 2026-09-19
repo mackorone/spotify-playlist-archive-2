@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 
 > Spotifyが注目するニューカマー・プレイリスト。 Cover: LAUSBUB
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,944 likes - 60 songs - 3 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,959 likes - 60 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4OR8pnFkwhR.md) - [plain]
 | 59 | [otukare](https://open.spotify.com/track/0idKcK4Kn2ufuScidLGBPL) | [楽音](https://open.spotify.com/artist/4W11pDowC8EO7a6cR5WO9L) | [otukare](https://open.spotify.com/album/43PYBVng0F5Njhxpubgilf) | 2:37 |
 | 60 | [Lunch Blake](https://open.spotify.com/track/1YH9cBtGVOUtRWK882G05l) | [the BL00M](https://open.spotify.com/artist/6K70Hpx3VPRd2DzJ9CQ76x) | [Lunch Blake](https://open.spotify.com/album/0Tzl7PMSqTrQKKQJxtSgFB) | 3:01 |
 
-Snapshot ID: `AAAAAL1NPBE0NmG8iOQwJ8xtlpckcWsD`
+Snapshot ID: `AAAAAOGy2FB3PJ+wZAHjzdxVOG/TQj8/`

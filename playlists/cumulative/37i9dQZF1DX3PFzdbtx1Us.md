@@ -4,7 +4,7 @@
 
 > Ambient piano to help you stay focussed.
 
-417 songs - 16 hr 51 min
+418 songs - 16 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -425,5 +425,6 @@
 | [Yasminah \(Alexanderplatz Station, Berlin\)](https://open.spotify.com/track/6RBURrAX0XCPUwSwTAEbTU) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe) | [Actual Life Piano EP \(April 14 \- December 17 2020\)](https://open.spotify.com/album/77cR5kSztr2fcYtr0vsyes) | 2:20 | 2021-06-27 | 2023-05-16 |
 | [Yoko](https://open.spotify.com/track/5F0DA0Op4ameBmS2OzEeOc) | [Julian Klaas](https://open.spotify.com/artist/4jy6NdHQgxTCEY2OykrMMa) | [Yoko](https://open.spotify.com/album/14Lm9SOzppoTzqLOT3IPCk) | 3:57 | 2023-08-15 | 2025-04-10 |
 | [Your Own Kind](https://open.spotify.com/track/3V6ocwEhy5BD9rpzrLFXfn) | [Maya Sarfatto](https://open.spotify.com/artist/2BULWWkjYsQLp6CasdyPC9) | [Your Own Kind](https://open.spotify.com/album/1WV5E90TCHTaGKRYU9QfoH) | 1:54 | 2023-05-15 | 2023-08-16 |
+| [à Jamais](https://open.spotify.com/track/3pQMBz9uXu5fnWujqgANGB) | [Nicholai Janeret](https://open.spotify.com/artist/1emPMGrt54fr9Ax9Q2xOql) | [à Jamais](https://open.spotify.com/album/4KS81e2WOCsnY0oXRt0YtL) | 2:44 | 2026-09-18 |  |
 
 \*This playlist was first scraped on 2022-04-20. Prior content cannot be recovered.

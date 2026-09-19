@@ -1,12 +1,12 @@
 {
   "description": "This is the best of ska, new and classic. Sublime on cover ",
-  "num_followers": 414191,
+  "num_followers": 414206,
   "original_name": "The Essential Ska",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAN8lbpNl380ODJeXM0dRUsfjVLXF",
+  "snapshot_id": "AAAAANI4Q48zY9lUNfmNQYeeNVui3awU",
   "tracks": [
     {
       "added_at": "2026-06-12 06:00:36",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Reggae Greats",
-        "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 159400,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Life Won't Wait",
         "url": "https://open.spotify.com/album/410JU10vru3pFk7f7vA94E"
       },
@@ -875,18 +859,18 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
-        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+        "name": "Reggae Greats",
+        "url": "https://open.spotify.com/album/4X1ILb0MYP4JB6KQGtULc0"
       },
       "artists": [
         {
-          "name": "Travelers All Stars",
-          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+          "name": "Jimmy Cliff",
+          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
         }
       ],
-      "duration_ms": 170083,
-      "name": "Don\u00b4t Give Up",
-      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
+      "duration_ms": 159400,
+      "name": "You Can Get It If You Really Want",
+      "url": "https://open.spotify.com/track/6IwTuQuQ4suJTQ43plwZef"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -907,6 +891,22 @@
       "duration_ms": 159453,
       "name": "Que me quemen tus ojos",
       "url": "https://open.spotify.com/track/6NhDCP3GmbwHcv6bJeKnVn"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "BOSS REGGAE FROM MEXICO - REGGAE GORDO",
+        "url": "https://open.spotify.com/album/4tOQx2JFrcweaQ7ASv9XJT"
+      },
+      "artists": [
+        {
+          "name": "Travelers All Stars",
+          "url": "https://open.spotify.com/artist/648TQGLrKzZRl8sxfcM6QH"
+        }
+      ],
+      "duration_ms": 170083,
+      "name": "Don\u00b4t Give Up",
+      "url": "https://open.spotify.com/track/145Hd5EtKOkJKyoWUIddzM"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Un Pa\u00f1uelo",
-        "url": "https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN"
-      },
-      "artists": [
-        {
-          "name": "Iseo & Dodosound",
-          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
-        }
-      ],
-      "duration_ms": 222648,
-      "name": "Un Pa\u00f1uelo",
-      "url": "https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Tears of a Clown",
         "url": "https://open.spotify.com/album/3ySSPA5ZmFTi0q9HbdpKtw"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 160026,
       "name": "The Tears of a Clown",
       "url": "https://open.spotify.com/track/7ejx2icT9lb1DijmynLvRb"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Un Pa\u00f1uelo",
+        "url": "https://open.spotify.com/album/3lIDfBVEsJT8oqeLxrq4xN"
+      },
+      "artists": [
+        {
+          "name": "Iseo & Dodosound",
+          "url": "https://open.spotify.com/artist/7dmbpbRfi5fEBqu9A9kwrc"
+        }
+      ],
+      "duration_ms": 222648,
+      "name": "Un Pa\u00f1uelo",
+      "url": "https://open.spotify.com/track/7pq02WBTCDP3n6QrfyAXak"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "The Godfather Of Ska Anthology",
-        "url": "https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp"
-      },
-      "artists": [
-        {
-          "name": "Laurel Aitken",
-          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
-        }
-      ],
-      "duration_ms": 280626,
-      "name": "Skinhead",
-      "url": "https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd"
-    },
-    {
-      "added_at": "2026-06-12 06:00:36",
-      "album": {
         "name": "Escape from Everything",
         "url": "https://open.spotify.com/album/4httMcgUvgdYF85BdSHwIy"
       },
@@ -1287,18 +1271,18 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Lleva",
-        "url": "https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj"
+        "name": "The Godfather Of Ska Anthology",
+        "url": "https://open.spotify.com/album/3e6PGMhDmrtQScMgZvQ6kp"
       },
       "artists": [
         {
-          "name": "Los Calzones",
-          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
+          "name": "Laurel Aitken",
+          "url": "https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA"
         }
       ],
-      "duration_ms": 214997,
-      "name": "Lleva",
-      "url": "https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn"
+      "duration_ms": 280626,
+      "name": "Skinhead",
+      "url": "https://open.spotify.com/track/5iAh9acjaoPyXavmj3T0fd"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1355,18 +1339,18 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "Cold in the City",
-        "url": "https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z"
+        "name": "Lleva",
+        "url": "https://open.spotify.com/album/1BR4Osr3Z5BJ8bssSZS2Hj"
       },
       "artists": [
         {
-          "name": "Millington",
-          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+          "name": "Los Calzones",
+          "url": "https://open.spotify.com/artist/0TdpHmgTji0VJARVNgB9hc"
         }
       ],
-      "duration_ms": 206163,
-      "name": "Cold in the City",
-      "url": "https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r"
+      "duration_ms": 214997,
+      "name": "Lleva",
+      "url": "https://open.spotify.com/track/1vqNsN90UbNY7oyIF9VGBn"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1383,6 +1367,22 @@
       "duration_ms": 183200,
       "name": "Fat Randy",
       "url": "https://open.spotify.com/track/1iSMI7Z9ZGjuYJDO8uKfZe"
+    },
+    {
+      "added_at": "2026-06-12 06:00:36",
+      "album": {
+        "name": "Cold in the City",
+        "url": "https://open.spotify.com/album/55U2sYG01pdlcsY847uw0z"
+      },
+      "artists": [
+        {
+          "name": "Millington",
+          "url": "https://open.spotify.com/artist/674oSgXMvyLNHMGQKHcUpp"
+        }
+      ],
+      "duration_ms": 206163,
+      "name": "Cold in the City",
+      "url": "https://open.spotify.com/track/15W2XqolwVw2F8TYNMTP7r"
     },
     {
       "added_at": "2026-06-12 06:00:36",
@@ -1623,30 +1623,22 @@
     {
       "added_at": "2026-06-12 06:00:36",
       "album": {
-        "name": "You've Got A Friend",
-        "url": "https://open.spotify.com/album/0oCrAr6VXADGTvcHTBhywJ"
+        "name": "Raul 80",
+        "url": "https://open.spotify.com/album/06IdI1z4rnehKaSUsXJSlP"
       },
       "artists": [
         {
-          "name": "The Mighty Rootsmen",
-          "url": "https://open.spotify.com/artist/3HZNJxRu48Cxt6dlPcIhnH"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         },
         {
-          "name": "Toots & The Maytals",
-          "url": "https://open.spotify.com/artist/6ZFv3wQwwWPiVDWhv0mjQK"
-        },
-        {
-          "name": "Mykal Rose",
-          "url": "https://open.spotify.com/artist/5wdQ2IkL8WASlcyt0x2s8Q"
-        },
-        {
-          "name": "Gregory Isaacs",
-          "url": "https://open.spotify.com/artist/6QHu71f8LLeT8n0GzfbYFc"
+          "name": "Raul Seixas",
+          "url": "https://open.spotify.com/artist/7jrRQZg4FZq6dwpi3baKcu"
         }
       ],
-      "duration_ms": 263905,
-      "name": "You've Got A Friend",
-      "url": "https://open.spotify.com/track/5YmqNKWDpbGZKCPapGHDrN"
+      "duration_ms": 240232,
+      "name": "Eu Nasci H\u00e1 Dez Mil Anos Atr\u00e1s",
+      "url": "https://open.spotify.com/track/1wzoyCLQEleUN366W2LinG"
     },
     {
       "added_at": "2026-06-12 06:00:36",

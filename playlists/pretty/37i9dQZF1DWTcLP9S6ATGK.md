@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 
 > Menemani akhir pekanmu dengan lagu\-lagu terbaru\. Cover: Ariyo Wahab
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,458 likes - 100 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,469 likes - 100 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTcLP9S6ATGK.md) - [plain]
 | 99 | [Butterflies](https://open.spotify.com/track/1M7S9Zp9DDclXC6PmEyitG) | [Laura Geraldine](https://open.spotify.com/artist/2mxvSPHMJnQDZUL61yMLZC) | [Butterflies](https://open.spotify.com/album/4OmmLc2KBpOKmUzC7rCvVd) | 2:42 |
 | 100 | [Aku Suka](https://open.spotify.com/track/72NF4cQgbkzmeeXxTqFEt5) | [Alika](https://open.spotify.com/artist/3cOIvAvtcVtmNwwfrjNLv5) | [Crush Alert](https://open.spotify.com/album/6Llw0H8PdwvoinGXfVGEpe) | 3:29 |
 
-Snapshot ID: `AAAAANUIAhVaJjk6m+lDrkR3gF/aZyp+`
+Snapshot ID: `AAAAAGjc3KkVTQZ2z4c3lA2uzvOyGFDg`

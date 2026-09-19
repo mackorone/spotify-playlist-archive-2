@@ -1,12 +1,12 @@
 {
   "description": "Romance a la antig\u00fcita con Luciano Daniel en portada.",
-  "num_followers": 537331,
+  "num_followers": 537279,
   "original_name": "nuevo bolero",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACIUSy00CBBFBZ6eeljlMc0NDQ2R",
+  "snapshot_id": "AAAAAKfgXfJGKt9JellIp365E7luWkl+",
   "tracks": [
     {
       "added_at": "2026-09-04 17:31:36",
@@ -231,6 +231,62 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "BOGOT\u00c1",
+        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
+      },
+      "artists": [
+        {
+          "name": "Andr\u00e9s Cepeda",
+          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
+        },
+        {
+          "name": "Manuel Medrano",
+          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
+        }
+      ],
+      "duration_ms": 228562,
+      "name": "Una Flor",
+      "url": "https://open.spotify.com/track/2uWJ7SZfaTHkGAGPLvngNh"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "CASI T\u00da",
+        "url": "https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn"
+      },
+      "artists": [
+        {
+          "name": "Eddy",
+          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
+        },
+        {
+          "name": "Ed Maverick",
+          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
+        }
+      ],
+      "duration_ms": 157927,
+      "name": "CASI T\u00da",
+      "url": "https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Autopoi\u00e9tica",
+        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
+      },
+      "artists": [
+        {
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+        }
+      ],
+      "duration_ms": 263533,
+      "name": "Pornocracia",
+      "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Nombre y Apellido",
         "url": "https://open.spotify.com/album/1w2Yqtcb9tTGRx93hKSawe"
       },
@@ -255,62 +311,6 @@
       "duration_ms": 271208,
       "name": "Nombre y Apellido",
       "url": "https://open.spotify.com/track/5T3GPd0C19r3y4ahADtiXH"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "BOGOT\u00c1",
-        "url": "https://open.spotify.com/album/74imuWw1wN5lI4hiX57410"
-      },
-      "artists": [
-        {
-          "name": "Andr\u00e9s Cepeda",
-          "url": "https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6"
-        },
-        {
-          "name": "Manuel Medrano",
-          "url": "https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM"
-        }
-      ],
-      "duration_ms": 228562,
-      "name": "Una Flor",
-      "url": "https://open.spotify.com/track/2uWJ7SZfaTHkGAGPLvngNh"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Autopoi\u00e9tica",
-        "url": "https://open.spotify.com/album/1P3veSTOBbA57c6nndi5xI"
-      },
-      "artists": [
-        {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
-        }
-      ],
-      "duration_ms": 263533,
-      "name": "Pornocracia",
-      "url": "https://open.spotify.com/track/67nuer2QzVcANQ32vDV5kV"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "CASI T\u00da",
-        "url": "https://open.spotify.com/album/25u60Pgm4jnY8NU8Hy3ghn"
-      },
-      "artists": [
-        {
-          "name": "Eddy",
-          "url": "https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG"
-        },
-        {
-          "name": "Ed Maverick",
-          "url": "https://open.spotify.com/artist/3JSSjGYcIkgsrz7892CelT"
-        }
-      ],
-      "duration_ms": 157927,
-      "name": "CASI T\u00da",
-      "url": "https://open.spotify.com/track/7MklqPSMrs22DGXSDIgxeO"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Cuando Yo Fui Tu Clavel",
-        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
-      },
-      "artists": [
-        {
-          "name": "Soyiby",
-          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
-        }
-      ],
-      "duration_ms": 112500,
-      "name": "Cuando Yo Fui Tu Clavel",
-      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Que Suerte",
         "url": "https://open.spotify.com/album/7eZKBS5wCk4ISf5C9autaV"
       },
@@ -887,18 +871,18 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Tu Aprendiz",
-        "url": "https://open.spotify.com/album/3IbsSb1NMSRUlkBMPrYq0L"
+        "name": "Cuando Yo Fui Tu Clavel",
+        "url": "https://open.spotify.com/album/1MsQyfkAyCio9tBVjdJIBd"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 y el Toro",
-          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+          "name": "Soyiby",
+          "url": "https://open.spotify.com/artist/0oEQPvFinI4JBJA6Ii22Xn"
         }
       ],
-      "duration_ms": 211800,
-      "name": "Tu Aprendiz",
-      "url": "https://open.spotify.com/track/7KwMslS46xt7nNxvjmpMDn"
+      "duration_ms": 112500,
+      "name": "Cuando Yo Fui Tu Clavel",
+      "url": "https://open.spotify.com/track/1OgtfmFUelshO9fLczAjPl"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -915,6 +899,22 @@
       "duration_ms": 161480,
       "name": "Coraz\u00f3n de Oro",
       "url": "https://open.spotify.com/track/1p5hmYpG0r3aDwpj48jTsw"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Tu Aprendiz",
+        "url": "https://open.spotify.com/album/3IbsSb1NMSRUlkBMPrYq0L"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 y el Toro",
+          "url": "https://open.spotify.com/artist/5Bq8Ri1jFba5clhChG8Cex"
+        }
+      ],
+      "duration_ms": 211800,
+      "name": "Tu Aprendiz",
+      "url": "https://open.spotify.com/track/7KwMslS46xt7nNxvjmpMDn"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Nuestro Primer Disco / Nuestro Amor",
-        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
-      },
-      "artists": [
-        {
-          "name": "Los Tri-O",
-          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
-        }
-      ],
-      "duration_ms": 209040,
-      "name": "Para Que Pides Perdon (Bonus Track)",
-      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Mil Vidas",
         "url": "https://open.spotify.com/album/1MDYbIPaUShFYhmEGowygz"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 136667,
       "name": "Mil Vidas",
       "url": "https://open.spotify.com/track/17QkvWlyeD6r3ubmqYUUtc"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Nuestro Primer Disco / Nuestro Amor",
+        "url": "https://open.spotify.com/album/1kX0gTg7fRJEXT0Pa4gZUG"
+      },
+      "artists": [
+        {
+          "name": "Los Tri-O",
+          "url": "https://open.spotify.com/artist/4PK8uCiKRILtXKQXABBvBC"
+        }
+      ],
+      "duration_ms": 209040,
+      "name": "Para Que Pides Perdon (Bonus Track)",
+      "url": "https://open.spotify.com/track/5UacxPvzsx6J9pcib7gGuM"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Puro Teatro",
-        "url": "https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E"
+        "name": "La Voz",
+        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
       },
       "artists": [
         {
-          "name": "Celeste Sanazi",
-          "url": "https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd"
+          "name": "Bunbury",
+          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
         }
       ],
-      "duration_ms": 137131,
-      "name": "Puro Teatro",
-      "url": "https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL"
+      "duration_ms": 201401,
+      "name": "La Voz",
+      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1243,18 +1243,18 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "La Voz",
-        "url": "https://open.spotify.com/album/1O2vySLN8ge6cVr5QWgW6S"
+        "name": "Puro Teatro",
+        "url": "https://open.spotify.com/album/5UgeLQE0d8rZ1txCWPjS2E"
       },
       "artists": [
         {
-          "name": "Bunbury",
-          "url": "https://open.spotify.com/artist/4uqzzJg3ww5eH7IgGV7DMT"
+          "name": "Celeste Sanazi",
+          "url": "https://open.spotify.com/artist/7IDLdCC97Mb5DE7zpk6Tmd"
         }
       ],
-      "duration_ms": 201401,
-      "name": "La Voz",
-      "url": "https://open.spotify.com/track/0e7CW8YYg37nCqmpER3Diy"
+      "duration_ms": 137131,
+      "name": "Puro Teatro",
+      "url": "https://open.spotify.com/track/1AI3Ut3V1vrFqvzZyxncHL"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1279,22 +1279,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Para tu",
-        "url": "https://open.spotify.com/album/4SO9zx0X5TtvHHHAdWCpOj"
-      },
-      "artists": [
-        {
-          "name": "Lalo San",
-          "url": "https://open.spotify.com/artist/3fHQGl6g2gODc8e9iKDmxr"
-        }
-      ],
-      "duration_ms": 186166,
-      "name": "Para tu",
-      "url": "https://open.spotify.com/track/0xSIPnktUNBmTtE4xrmfXJ"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Desde Cu\u00e1ndo",
         "url": "https://open.spotify.com/album/2040erAeJrkzHBcxYHaj2T"
       },
@@ -1307,6 +1291,22 @@
       "duration_ms": 164791,
       "name": "Desde Cu\u00e1ndo",
       "url": "https://open.spotify.com/track/3srXo4ebUPLbzuDvuze63p"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Para tu",
+        "url": "https://open.spotify.com/album/4SO9zx0X5TtvHHHAdWCpOj"
+      },
+      "artists": [
+        {
+          "name": "Lalo San",
+          "url": "https://open.spotify.com/artist/3fHQGl6g2gODc8e9iKDmxr"
+        }
+      ],
+      "duration_ms": 186166,
+      "name": "Para tu",
+      "url": "https://open.spotify.com/track/0xSIPnktUNBmTtE4xrmfXJ"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
+        "name": "Celebrando Al Pr\u00edncipe",
+        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
+      },
+      "artists": [
+        {
+          "name": "Cristian Castro",
+          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
+        }
+      ],
+      "duration_ms": 242293,
+      "name": "Almohada",
+      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
         "name": "Parada Obligatoria (1ra Parada)",
         "url": "https://open.spotify.com/album/2egjoQlWOOcvoUu0YwDfJt"
       },
@@ -1499,22 +1515,6 @@
       "duration_ms": 210166,
       "name": "Un poema duerme en mi cama",
       "url": "https://open.spotify.com/track/4gP1fhi83i8ZITpokd9vqj"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
-        "name": "Celebrando Al Pr\u00edncipe",
-        "url": "https://open.spotify.com/album/2HZkh6ay4cVKa8lxMvDfol"
-      },
-      "artists": [
-        {
-          "name": "Cristian Castro",
-          "url": "https://open.spotify.com/artist/2AZOALDIBORfbzKTuliwdJ"
-        }
-      ],
-      "duration_ms": 242293,
-      "name": "Almohada",
-      "url": "https://open.spotify.com/track/3lL5AiJtpdGe7AYCIwJ5cI"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Cenicero",
-        "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
-      },
-      "artists": [
-        {
-          "name": "Diana Meril",
-          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "Cenicero",
-      "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Empecemos a Empezar",
         "url": "https://open.spotify.com/album/1DjuOKT64S3kVkajN4jFU4"
       },
@@ -1643,6 +1627,22 @@
       "duration_ms": 200859,
       "name": "Empecemos a Empezar",
       "url": "https://open.spotify.com/track/3DGy4S1hW4LOiSXW1xFDki"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Cenicero",
+        "url": "https://open.spotify.com/album/5iT7CyiJDHVZxOyLWlxV07"
+      },
+      "artists": [
+        {
+          "name": "Diana Meril",
+          "url": "https://open.spotify.com/artist/2VzNlNyc9lEAKr7wjKnTlo"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "Cenicero",
+      "url": "https://open.spotify.com/track/7zUFhXRcQ9CiswkoiSGnZ9"
     },
     {
       "added_at": "2026-07-24 06:00:45",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-07-24 06:00:45",
       "album": {
-        "name": "Mexicano",
-        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
-      },
-      "artists": [
-        {
-          "name": "Carlos Rivera",
-          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
-        }
-      ],
-      "duration_ms": 180933,
-      "name": "Esta Tarde Vi Llover",
-      "url": "https://open.spotify.com/track/7HkeoCaym1hk1E9IlrU6Li"
-    },
-    {
-      "added_at": "2026-07-24 06:00:45",
-      "album": {
         "name": "Lo Mejor",
         "url": "https://open.spotify.com/album/32dsC61ldEAoFxbl04NkAI"
       },
@@ -1711,6 +1695,22 @@
       "duration_ms": 185727,
       "name": "Lo Mejor",
       "url": "https://open.spotify.com/track/0rsozShCG7kkI7qFGJ086R"
+    },
+    {
+      "added_at": "2026-07-24 06:00:45",
+      "album": {
+        "name": "Mexicano",
+        "url": "https://open.spotify.com/album/35pQAHKoqPw8GQyghvhx8R"
+      },
+      "artists": [
+        {
+          "name": "Carlos Rivera",
+          "url": "https://open.spotify.com/artist/39yVoqm6sYFvvqF1RciUVf"
+        }
+      ],
+      "duration_ms": 180933,
+      "name": "Esta Tarde Vi Llover",
+      "url": "https://open.spotify.com/track/7HkeoCaym1hk1E9IlrU6Li"
     },
     {
       "added_at": "2026-07-24 06:00:45",

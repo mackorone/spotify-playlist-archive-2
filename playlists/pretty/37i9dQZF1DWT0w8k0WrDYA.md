@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0w8k0WrDYA.md) - [plain]
 
 > Return to Hawkins, listen to the music from the animated series Stranger Things: Tales From ‘85.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,841 likes - 45 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,868 likes - 45 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0w8k0WrDYA.md) - [plain]
 | 44 | [HIC Theme](https://open.spotify.com/track/0UYI96KAw8jroXsosc1xU7) | [Brad Breeck](https://open.spotify.com/artist/0g7mDlF2aARbBqVUgPFyfT) | [Stranger Things: Tales From '85 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0kITEVjY9NFgHgPu3UEuEz) | 0:48 |
 | 45 | [Tales from '85 End Titles](https://open.spotify.com/track/4tAITDntkll0v7FqAdgkrO) | [Brad Breeck](https://open.spotify.com/artist/0g7mDlF2aARbBqVUgPFyfT), [Cooper Babbes](https://open.spotify.com/artist/2SzFCiMzlqxJ8rm1EUWJuq) | [Stranger Things: Tales From '85 \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/0kITEVjY9NFgHgPu3UEuEz) | 1:17 |
 
-Snapshot ID: `AAAAAFr5XQG+Kpjt6a6zI/djfvVddJD6`
+Snapshot ID: `AAAAAO2Ceenp1iOViivHU9Xz0DIqep1C`

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-04",
-  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Anakin Larios en portada.",
+  "description": "Brav\u00edas, rom\u00e1nticas y rancheras, las mejores canciones norte\u00f1as. Gerardo Coronel en portada.",
   "name": "Norte\u00f1o 2026",
   "tracks": [
     {
@@ -456,7 +456,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 165212,
       "name": "A La Luz De La luna",
       "url": "https://open.spotify.com/track/6VZiBmPwjTdNjyrOLKkCNa"
@@ -932,6 +932,24 @@
       "duration_ms": 151573,
       "name": "Al Natural",
       "url": "https://open.spotify.com/track/3K3ZNUBVl9Stt5OXO6HdUa"
+    },
+    {
+      "album": {
+        "name": "Al Rev\u00e9s",
+        "url": "https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d"
+      },
+      "artists": [
+        {
+          "name": "Pepe Walker",
+          "url": "https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182593,
+      "name": "Al Rev\u00e9s",
+      "url": "https://open.spotify.com/track/5nDwxEmqGQRNcIlOw343Ad"
     },
     {
       "album": {
@@ -4259,6 +4277,24 @@
     },
     {
       "album": {
+        "name": "De M\u00e9xico Soy",
+        "url": "https://open.spotify.com/album/3TlUK5ukcTDdHXan3QEIQp"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162112,
+      "name": "De M\u00e9xico Soy",
+      "url": "https://open.spotify.com/track/6DGPN25C9jioipnxlahZ3J"
+    },
+    {
+      "album": {
         "name": "De Peri\u00f3dico Un Gallito (En Vivo)",
         "url": "https://open.spotify.com/album/5K5GgkBth8AKzx02bHSqEE"
       },
@@ -4520,6 +4556,24 @@
       "duration_ms": 212271,
       "name": "Desvelado (Cover)",
       "url": "https://open.spotify.com/track/79FposUzYy00COFTPTZnW6"
+    },
+    {
+      "album": {
+        "name": "Desde El Ensayo Vol.1",
+        "url": "https://open.spotify.com/album/020HUblc2diWXTsCKgPrBn"
+      },
+      "artists": [
+        {
+          "name": "Grupo Recluta",
+          "url": "https://open.spotify.com/artist/2Dlvgi70UoJJicfKgoW5Vo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182917,
+      "name": "Desv\u00e9late conmigo",
+      "url": "https://open.spotify.com/track/0OjdgenD6rcxEt7quScAyc"
     },
     {
       "album": {
@@ -6309,6 +6363,24 @@
     },
     {
       "album": {
+        "name": "El Plan Perfecto",
+        "url": "https://open.spotify.com/album/2gl7Zc325H3DISVMSj9R39"
+      },
+      "artists": [
+        {
+          "name": "Los Rojos",
+          "url": "https://open.spotify.com/artist/4N76v8ETS7Q5sod9W0dgIo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199541,
+      "name": "El Plan Perfecto",
+      "url": "https://open.spotify.com/track/4FpDTTWtPoLy7OpoWE128H"
+    },
+    {
+      "album": {
         "name": "As\u00ed Es Esto",
         "url": "https://open.spotify.com/album/5t3QwyKSV5oww8T0eB26mB"
       },
@@ -6544,7 +6616,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 214783,
       "name": "El RG 2",
       "url": "https://open.spotify.com/track/6Jn2LvKZOmtGldcEcXOWEF"
@@ -7865,6 +7937,24 @@
     },
     {
       "album": {
+        "name": "Faltaba Fe",
+        "url": "https://open.spotify.com/album/7iaRcI3nN3VWZVtcn700h5"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "Faltaba Fe",
+      "url": "https://open.spotify.com/track/2otuxWCtbaoZns3f00itTQ"
+    },
+    {
+      "album": {
         "name": "Familia, Honor y Talento",
         "url": "https://open.spotify.com/album/5LoCbJU63mYBbG15Dohpid"
       },
@@ -8062,6 +8152,24 @@
       "duration_ms": 158441,
       "name": "Flores",
       "url": "https://open.spotify.com/track/2n6qEM9e2a6yS50fWyaPQT"
+    },
+    {
+      "album": {
+        "name": "FLOW ROCKSTAR",
+        "url": "https://open.spotify.com/album/5yhV4kzTrPhJV4qV2UbOzr"
+      },
+      "artists": [
+        {
+          "name": "Grupo Privado",
+          "url": "https://open.spotify.com/artist/4KlSPzyPWa9JKOBsaOMKaA"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176610,
+      "name": "FLOW ROCKSTAR",
+      "url": "https://open.spotify.com/track/03iYAVW5ACzBlLp7TcuIdi"
     },
     {
       "album": {
@@ -9638,7 +9746,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 155534,
       "name": "La Caminera",
       "url": "https://open.spotify.com/track/5L2XRjYSnCaZk3AdagEqaW"
@@ -9866,7 +9974,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 158242,
       "name": "La G\u00fcera",
       "url": "https://open.spotify.com/track/33A0Pj4Yw2cqPbgypFzkg0"
@@ -10974,7 +11082,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 158000,
       "name": "Llamada Prohibida",
       "url": "https://open.spotify.com/track/13pfpsGhaxPbSKZHuuc5Ni"
@@ -12994,7 +13102,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 187474,
       "name": "M\u00e9xico Sigue De Pie",
       "url": "https://open.spotify.com/track/2QyKexTBME3MrkkWgL84Sf"
@@ -13226,7 +13334,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 158850,
       "name": "Ni Tu Perro Ni Tu Gato",
       "url": "https://open.spotify.com/track/4j4FrTLZf7O92PLZ4UekoN"
@@ -14370,7 +14478,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 174562,
       "name": "Pa Que Me Sirve La Vida",
       "url": "https://open.spotify.com/track/07MNJQ0BE9oZUuVLV7wCvS"
@@ -14544,6 +14652,24 @@
       "duration_ms": 203733,
       "name": "Para Que Ya No Duela - Remix",
       "url": "https://open.spotify.com/track/4xTqoUyUHyltXykpwOJOdg"
+    },
+    {
+      "album": {
+        "name": "Para Ya Saben Quien",
+        "url": "https://open.spotify.com/album/0BLNc8tUgZJgZqw5GDrYBv"
+      },
+      "artists": [
+        {
+          "name": "Gerardo Coronel",
+          "url": "https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201774,
+      "name": "Para Ya Saben Quien",
+      "url": "https://open.spotify.com/track/6qbN6LWApfySSYuOx6Emr0"
     },
     {
       "album": {
@@ -15486,7 +15612,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 161258,
       "name": "Por Si Las Dudas",
       "url": "https://open.spotify.com/track/1fIlEolCrD9USldzUmCrgb"
@@ -16503,6 +16629,28 @@
     },
     {
       "album": {
+        "name": "Con Aktitud Corazon Y Huevos",
+        "url": "https://open.spotify.com/album/13mRHd5JtLn6Apw9sT1MCL"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aktitud",
+          "url": "https://open.spotify.com/artist/66mY8ZqJGTJfcdqC6jeOEX"
+        },
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195088,
+      "name": "San Lucas",
+      "url": "https://open.spotify.com/track/69VqFk2qKYiKneTt1dJQp4"
+    },
+    {
+      "album": {
         "name": "Saturno",
         "url": "https://open.spotify.com/album/3VRWyVPyWevD3rHJ0467Ys"
       },
@@ -17350,6 +17498,24 @@
       "duration_ms": 225581,
       "name": "Sin Ti",
       "url": "https://open.spotify.com/track/22CILLfATiWSO8NsyOhJp3"
+    },
+    {
+      "album": {
+        "name": "Sin Ti",
+        "url": "https://open.spotify.com/album/44u0YqrJSVXucB6qs5hdkP"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117136,
+      "name": "Sin Ti",
+      "url": "https://open.spotify.com/track/4LPNlYouyfk0R2kvIiVWgB"
     },
     {
       "album": {
@@ -18834,7 +19000,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 204105,
       "name": "Tu Juguete",
       "url": "https://open.spotify.com/track/1TGw2o9FP9A16BpsYYwkk4"
@@ -19680,6 +19846,24 @@
       "duration_ms": 171395,
       "name": "Voy Llegando a tu Ciudad",
       "url": "https://open.spotify.com/track/4D6hmOCokMBChx7PfwqjV7"
+    },
+    {
+      "album": {
+        "name": "Voy Llegando A Tu Ciudad",
+        "url": "https://open.spotify.com/album/3BzvXrVdM42LwrwuAJcJTW"
+      },
+      "artists": [
+        {
+          "name": "Los Encinos De Sinaloa",
+          "url": "https://open.spotify.com/artist/3toKbWWeQVQqeX6Vs14yVJ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145813,
+      "name": "Voy Llegando A Tu Ciudad",
+      "url": "https://open.spotify.com/track/1W4C7KeRMYRCKQJLrbnzlT"
     },
     {
       "album": {

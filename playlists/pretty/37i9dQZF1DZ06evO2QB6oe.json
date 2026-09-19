@@ -1,12 +1,12 @@
 {
   "description": "This is Pedro Cap\u00f3. The essential tracks, all in one playlist.",
-  "num_followers": 71060,
+  "num_followers": 71071,
   "original_name": "This Is Pedro Cap\u00f3",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAA0jmJ1jn3eWO89a10qnvXb",
+  "snapshot_id": "aqstgAAAAABPdp7AEHxO+es6hi9S+MWF",
   "tracks": [
     {
       "added_at": null,
@@ -347,6 +347,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La Neta",
+        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 154560,
+      "name": "5 y 3",
+      "url": "https://open.spotify.com/track/1gZAKL2rlLa2UqEoebli86"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OzuTochi",
         "url": "https://open.spotify.com/album/1kjfMVBNhsDeRyAu9zbLfF"
       },
@@ -363,22 +379,6 @@
       "duration_ms": 204413,
       "name": "Mar Chiquita",
       "url": "https://open.spotify.com/track/52AHKfP6qQ3feLjPCDTiRI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La Neta",
-        "url": "https://open.spotify.com/album/4jL4G1XbqAKQjp3irG9kl1"
-      },
-      "artists": [
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 154560,
-      "name": "5 y 3",
-      "url": "https://open.spotify.com/track/1gZAKL2rlLa2UqEoebli86"
     },
     {
       "added_at": null,
@@ -915,26 +915,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BESITOS Y BESITAS",
-        "url": "https://open.spotify.com/album/77CfbYt3OGzTxk7bCugAS5"
-      },
-      "artists": [
-        {
-          "name": "Los Rivera Destino",
-          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
-        },
-        {
-          "name": "Pedro Cap\u00f3",
-          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
-        }
-      ],
-      "duration_ms": 220213,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/3IT7vsVEwg0LyJ8eVGtvzn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Estoy Enamorado (En Vivo)",
         "url": "https://open.spotify.com/album/3obr3RWtDcd4nZq36HqsWw"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 183592,
       "name": "Estoy Enamorado - En Vivo",
       "url": "https://open.spotify.com/track/4IeTtjvqaCbWUzL1m2NPTM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BESITOS Y BESITAS",
+        "url": "https://open.spotify.com/album/77CfbYt3OGzTxk7bCugAS5"
+      },
+      "artists": [
+        {
+          "name": "Los Rivera Destino",
+          "url": "https://open.spotify.com/artist/7LQaY9LGXHzoJY8DvwpSid"
+        },
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "duration_ms": 220213,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/3IT7vsVEwg0LyJ8eVGtvzn"
     },
     {
       "added_at": null,

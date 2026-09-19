@@ -2,9 +2,9 @@
 
 ### [อินดี้ศาสตร์ Indieology](https://open.spotify.com/playlist/37i9dQZF1DWXPoAK0p4FcE)
 
-> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: TELEx TELEXs
+> อินดี้ที่ปัง ต้องฟังอินดี้ศาสตร์! ศิลปิน: Whal & Dolph, SCRUBB
 
-195 songs - 13 hr 33 min
+197 songs - 13 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -99,7 +99,7 @@
 | [ทุกวันเหมือนเดิม](https://open.spotify.com/track/4zQNXqaOsprULnmPpJzthQ) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [ทุกวันเหมือนเดิม](https://open.spotify.com/album/3u1yAY03tT0NgH6eXJX6NJ) | 4:03 | 2025-02-28 | 2026-05-16 |
 | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/track/7FuNF6TO7xdrKdDSePTw0x) | [Safeplanet](https://open.spotify.com/artist/1DsSoeOUg0YS2hl2czNcbw) | [ทุกสิ่ง \(Voodoo Potion\)](https://open.spotify.com/album/6alNIfAj10XFQskbGE8KgP) | 4:48 | 2024-06-27 | 2025-03-22 |
 | [นี่ฉันเองคนที่...](https://open.spotify.com/track/7xIA2UmWstNzDU3tba4VP1) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [นี่ฉันเองคนที่...](https://open.spotify.com/album/11gCYa9lh1X1QyxnIZGArK) | 4:16 | 2024-09-20 | 2026-05-08 |
-| [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/track/3l8N4HXUN9O0s6hLWYTrRm) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/album/4RYKPODUPCpvBFFnbIhCD6) | 3:37 | 2025-07-25 |  |
+| [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/track/3l8N4HXUN9O0s6hLWYTrRm) | [YEW](https://open.spotify.com/artist/2xsBUJ327d3iC1LvL5hYrQ) | [บทกวีสีฟ้า \(Bluebird\)](https://open.spotify.com/album/4RYKPODUPCpvBFFnbIhCD6) | 3:37 | 2025-07-25 | 2026-09-19 |
 | [บอกทีได้ไหม?](https://open.spotify.com/track/0hnEQh5IUjnXgT923C07qR) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [บอกทีได้ไหม?](https://open.spotify.com/album/4DBDoBVgZatuk4dcKeU4uq) | 3:58 | 2024-10-11 | 2026-03-10 |
 | [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/track/1WIZ3l4fZemVHoL8LjaAXS) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [ปลายฝนต้นหนาว \(Winter Breeze\)](https://open.spotify.com/album/1fW1hBs7G8B5VmsvmoGdus) | 2:57 | 2025-11-07 | 2026-02-14 |
 | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/track/0KdiGdEM5WRIcSWqFjT33b) | [Newery](https://open.spotify.com/artist/2ztuZ95DKP7O7DDAxCKYen) | [ปลายสัปดาห์ \(last weekend\)](https://open.spotify.com/album/6AQEMLftDGMFTOAEybxBBv) | 3:39 | 2024-07-05 | 2024-12-21 |
@@ -109,8 +109,9 @@
 | [ฝังร่างข้างๆกัน](https://open.spotify.com/track/2ozaRIqgJ3P0F0IDUeCGx2) | [เรนิษรา](https://open.spotify.com/artist/2UmVsCJpQoAGPcaKbCyheW) | [ฝังร่างข้างๆกัน](https://open.spotify.com/album/7dx5MW8O3RAfPNMln79BYd) | 5:13 | 2025-06-13 | 2026-09-12 |
 | [พรดาวตก](https://open.spotify.com/track/6VMntYzRpSDB2lRIJWJ1Zw) | [CORNBOI](https://open.spotify.com/artist/1OgywX1Q6OWOoGNmChavLi) | [พรดาวตก](https://open.spotify.com/album/4WBPyEq4CAEORHls1imUjh) | 4:28 | 2025-11-21 |  |
 | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/track/6cvASv3yuhmXUkpvArYNGo) | [SHERRY](https://open.spotify.com/artist/3Uzr5SP3rk1GL9OdPYL0Rz) | [พอแล้ว\(แต่อีกแล้ว\)](https://open.spotify.com/album/1dtLsETExRe02RSDxixrAI) | 4:28 | 2024-06-27 | 2024-09-21 |
+| [พัดพา \(When the Wind Blows\)](https://open.spotify.com/track/4JVuvSLFnjwEi1D8Yn7rWz) | [PENGUIN VILLA](https://open.spotify.com/artist/2nO6v6ZnigodGqi7kZfEY6) | [พัดพา \(When the Wind Blows\)](https://open.spotify.com/album/2u0zzU9nb2iSS8qDBhRR9h) | 5:02 | 2026-09-18 |  |
 | [พื้นที่ความทรงจำ](https://open.spotify.com/track/7D8eiRaPyZjdn32F6y9Zo3) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [พื้นที่ความทรงจำ](https://open.spotify.com/album/6wAd9J32861HPk1QYhJZWm) | 4:21 | 2025-08-22 | 2025-10-25 |
-| [มอง=กอด](https://open.spotify.com/track/7yKGkOde6ogB4MjpNVDajp) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [มอง=กอด](https://open.spotify.com/album/5S868uu0jbeLlwQinp6Ecs) | 4:01 | 2025-05-16 |  |
+| [มอง=กอด](https://open.spotify.com/track/7yKGkOde6ogB4MjpNVDajp) | [Moving and Cut](https://open.spotify.com/artist/4Ay4SXrEtSvyImMWgFeFZ3) | [มอง=กอด](https://open.spotify.com/album/5S868uu0jbeLlwQinp6Ecs) | 4:01 | 2025-05-16 | 2026-09-19 |
 | [มีชีวิต \(Alive\)](https://open.spotify.com/track/21NBknen0yxwugDGFPYXy1) | [Plastic Plastic](https://open.spotify.com/artist/0YjEWrRKD9nBJfeF5eLdBd) | [Alive](https://open.spotify.com/album/6iG4T2CRpmPDsj8VRTBZAJ) | 3:42 | 2025-10-31 | 2025-11-22 |
 | [ยอม \(White Flag\)](https://open.spotify.com/track/1VfxBuhaRC8rnE4VAPQ4Qk) | [LANDOKMAI](https://open.spotify.com/artist/4k22J4XE3nfRlv4IH7D5Vt) | [All My Purple Feelings](https://open.spotify.com/album/697YQLmLHyLPeO73NGvVqs) | 3:31 | 2024-06-27 | 2024-11-09 |
 | [ยังดี \(You\)](https://open.spotify.com/track/0oZh9OKGPeyDPVzh1eJNaK) | [Stoondio](https://open.spotify.com/artist/1aVt6mMj51qleWROhksK8J) | [Common Sense](https://open.spotify.com/album/4Xd1G8WXQb9p8KeB3OnayE) | 3:43 | 2025-08-15 | 2025-10-25 |
@@ -133,6 +134,7 @@
 | [สร้างภาพ \(PERSONA\)](https://open.spotify.com/track/53eyWhgIpBtTl29xtUe9ju) | [YODSARUN](https://open.spotify.com/artist/7w7BVYWmNFduUbjjqUuFb7) | [สร้างภาพ \(PERSONA\)](https://open.spotify.com/album/2oBnPzhAHXG6SBOmQofeJZ) | 4:02 | 2025-07-04 | 2025-07-19 |
 | [สักคำก่อน](https://open.spotify.com/track/4a5knK2We9wDXk6G9PjmtM) | [Lower Mansion](https://open.spotify.com/artist/0tNQk80J4jiIo3eOVvcda6) | [สักคำก่อน](https://open.spotify.com/album/1mneqtolwEvbGKSuowZoPe) | 4:47 | 2026-08-14 |  |
 | [สักวันหนึ่ง \(Someday\)](https://open.spotify.com/track/2hMTyuTMniu9l0StZ9RZNW) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สักวันหนึ่ง \(Someday\)](https://open.spotify.com/album/1OXgq0ZJljJ3DveQhNh2D6) | 3:59 | 2026-04-22 |  |
+| [สับสนวุ่นวาย \(Outside\)](https://open.spotify.com/track/4OiVtlt4R0lxyvOUYk4FEs) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh), [SCRUBB](https://open.spotify.com/artist/3zSMaWnvUzyNlOW0Tj2s4N) | [สับสนวุ่นวาย \(Outside\)](https://open.spotify.com/album/7fMeFr2iSTbzsvd4IgleRe) | 3:20 | 2026-09-18 |  |
 | [สายรุ้งหลังฝนโปรย](https://open.spotify.com/track/6IAnRK7K3c6SZetYS7R3wY) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [PurfectPeech](https://open.spotify.com/album/5wAiWwSRZKqpUIsKlVADiI) | 5:00 | 2024-06-27 | 2025-05-02 |
 | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/track/6pQp49ThiAsKwCl8OWcO4V) | [Whal & Dolph](https://open.spotify.com/artist/6f38IgFJNrepAhVQzVRSdh) | [สิ่งที่สวยงาม \(I Wish Every Night\)](https://open.spotify.com/album/1MHUEhvO4u9sKKKVcUOVRy) | 3:59 | 2025-10-24 |  |
 | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/track/0CC1S9A2e9v8ZSUFkWSZkN) | [Uncle Ben](https://open.spotify.com/artist/7lhxw2OpjLMGTrlUobUN3F) | [สิ่งเดียวที่เราต่าง](https://open.spotify.com/album/1rukZSSmILafBs5Yt9FxXu) | 4:41 | 2024-11-22 | 2025-02-01 |

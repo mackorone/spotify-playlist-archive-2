@@ -4,7 +4,7 @@
 
 > All the new music you need to hear right now\. Cover: Skepta
 
-4,055 songs - 9 day 4 hr 31 min
+4,057 songs - 9 day 4 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Attention](https://open.spotify.com/track/11xC6P3iKYpFThT6Ce1KdG) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Attention](https://open.spotify.com/album/38xgBOLAcKoYWMSXWUDH1E) | 4:37 | 2023-06-15 | 2023-07-14 |
 | [Attention](https://open.spotify.com/track/6FarFRn9u25aqc6sr2axuO) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS) | [Attention](https://open.spotify.com/album/4WdTj6XgugduzjfhFcI5Ew) | 1:47 | 2024-03-15 | 2024-03-29 |
 | [Aura](https://open.spotify.com/track/5vtZTLyLMkIHsAUuSVnzg2) | [Strandz](https://open.spotify.com/artist/33X2jfLSVyDevoksJjRZoS), [RIMON](https://open.spotify.com/artist/4DtUsfaVQBhypuwYmobdSm) | [Diaspora Dance Music](https://open.spotify.com/album/32U6tpk6aNinHdFEhDnHGl) | 2:38 | 2025-09-11 | 2025-09-27 |
+| [Autobahn](https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 4:18 | 2026-09-17 |  |
 | [AVA](https://open.spotify.com/track/7bdpStmJdlw9GKBPTOkDwT) | [Natalie Jane](https://open.spotify.com/artist/5bfglVyGJppmmNoC2rhBUG) | [AVA](https://open.spotify.com/album/63WPi0R6qTveHv31Djy7D1) | 2:39 | 2022-11-22 | 2023-01-13 |
 | [Avalanche](https://open.spotify.com/track/2xNc3WwzGK19JXPgcmzRU8) | [Katy B](https://open.spotify.com/artist/5EUdiv20t58GCS09VMKk7M) | [Avalanche](https://open.spotify.com/album/05fHcYNnZOIL56Aq5QVqU2) | 2:37 | 2025-07-03 | 2025-08-08 |
 | [Aw, Shoot!](https://open.spotify.com/track/4D7db0sTmEWYf9aAzCJl9c) | [CMAT](https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv) | [Aw, Shoot!](https://open.spotify.com/album/2MrVs5OGnY7RGn33GiB2pu) | 3:28 | 2024-05-09 | 2024-06-07 |
@@ -1353,6 +1354,7 @@
 | [Get Around](https://open.spotify.com/track/6AF86U8bfXoXf54cqbHVGo) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [Voyeur \(Deluxe\)](https://open.spotify.com/album/53Mn3nQy0YRTBWtyfwrOiL) | 2:20 | 2025-11-07 | 2025-12-19 |
 | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W) | 2:48 | 2026-06-18 | 2026-07-24 |
 | [Get Close](https://open.spotify.com/track/0Ani0foia32xeSDE2MdHWM) | [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [Get Close](https://open.spotify.com/album/75636FX5iYEcgCrLqcBtXr) | 2:51 | 2023-11-17 | 2023-12-08 |
+| [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 | 2026-09-17 |  |
 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-13 | 2026-04-10 |
 | [get him back!](https://open.spotify.com/track/2gyxAWHebV7xPYVxqoi86f) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [GUTS](https://open.spotify.com/album/1xJHno7SmdVtZAtXbdbDZp) | 3:31 | 2023-09-08 | 2023-10-25 |
 | [Get Loose](https://open.spotify.com/track/16DBKyIHIPdKnQbQZkNdKG) | [Cheetah](https://open.spotify.com/artist/57VZ8RtFU9P9iZr9LHg4OD), [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Get Loose](https://open.spotify.com/album/2j2BNY5MwsZAv3g6UzIkMq) | 2:36 | 2025-04-24 | 2025-05-30 |
@@ -2950,6 +2952,7 @@
 | [Revolution](https://open.spotify.com/track/6C3jGzujdwT76XU4CH6ZHg) | [TSHA](https://open.spotify.com/artist/2kLa7JZu4Ijdz1Gle2khZh) | [Revolution](https://open.spotify.com/album/7519Ww1er6JNd64E8sW8rB) | 3:22 | 2025-06-12 | 2025-07-11 |
 | [Revolving door](https://open.spotify.com/track/541sN2qNfIlllGn9nGOQoC) | [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [So Close To What](https://open.spotify.com/album/3w32SV56JvtJXsrYtThwzP) | 3:00 | 2025-02-21 | 2025-04-04 |
 | [Rhetorical Questions](https://open.spotify.com/track/4QR8axjkh9dPhey4BxOdpE) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [Rhetorical Questions](https://open.spotify.com/album/3j4QdU7FlRNF7eXJTJKUS7) | 2:55 | 2024-10-03 | 2024-10-26 |
+| [RHYNO \(from GTAVI: The Album\)](https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [RHYNO \(from GTAVI: The Album\)](https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns) | 3:00 | 2026-09-18 |  |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2023-09-14 | 2023-10-20 |
 | [Ribs](https://open.spotify.com/track/49GfyfNkOCRFaoSNCAN5GM) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [Ribs](https://open.spotify.com/album/1STW8v44VbbFKtmToUurll) | 2:50 | 2023-04-25 | 2023-06-02 |
 | [Rice Bowl](https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Rice Bowl](https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO) | 3:06 | 2026-04-24 | 2026-05-22 |
@@ -3680,7 +3683,6 @@
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-01-24 |
 | [Toxic Trait](https://open.spotify.com/track/49NAdUsRKTFK3Lz8k0yQNy) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Fredo](https://open.spotify.com/artist/3rbtPd0NcvhO2AzMfzx90z) | [Toxic Trait](https://open.spotify.com/album/7LLdvA94DikzoIqvFpgW1S) | 3:14 | 2023-06-22 | 2023-08-05 |
 | [TQG](https://open.spotify.com/track/0DWdj2oZMBFSzRsi2Cvfzf) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [MAÑANA SERÁ BONITO](https://open.spotify.com/album/4kS7bSuU0Jm9LYMosFU2x5) | 3:17 | 2023-02-24 | 2023-03-18 |
-| [Track 17](https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 0:00 | 2026-09-17 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-13 | 2026-04-17 |
 | [Training Season](https://open.spotify.com/track/6Qb7YsAqH4wWFUMbGsCpap) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Training Season](https://open.spotify.com/album/3sqC2sXZc0b9r7WM9z3784) | 3:29 | 2024-02-16 | 2024-03-22 |
 | [Transparency \(feat\. USHER\)](https://open.spotify.com/track/4f5rBgdoka8ffiFAX9GNuO) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Welcome 2 Collegrove](https://open.spotify.com/album/2LdlfTE6xqf2Ez8LPAFZSy) | 3:15 | 2023-11-17 | 2023-12-15 |

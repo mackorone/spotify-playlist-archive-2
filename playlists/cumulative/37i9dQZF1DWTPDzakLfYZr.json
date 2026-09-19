@@ -6441,6 +6441,24 @@
     },
     {
       "album": {
+        "name": "PA TI <3",
+        "url": "https://open.spotify.com/album/39sk0PBz8zYj7V0bBHpXKo"
+      },
+      "artists": [
+        {
+          "name": "Ela Conem",
+          "url": "https://open.spotify.com/artist/6j3TVnrOKJQYWcX5YKLMkV"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138556,
+      "name": "PA TI <3",
+      "url": "https://open.spotify.com/track/35EqUnbJ0rCZZCWrQdYo1d"
+    },
+    {
+      "album": {
         "name": "Pa' Despu\u00e9s",
         "url": "https://open.spotify.com/album/6JlrpC0BIdrgfAB9xLHsSk"
       },
@@ -7138,7 +7156,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 161030,
       "name": "Regalito",
       "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
@@ -7360,6 +7378,32 @@
       "duration_ms": 183414,
       "name": "Santo",
       "url": "https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj"
+    },
+    {
+      "album": {
+        "name": "Segunda Cita",
+        "url": "https://open.spotify.com/album/7nhWuuDKZNuXOHucKvXlm2"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170013,
+      "name": "Segunda Cita",
+      "url": "https://open.spotify.com/track/0M4EZodLBU7pomErJ9hD5W"
     },
     {
       "album": {

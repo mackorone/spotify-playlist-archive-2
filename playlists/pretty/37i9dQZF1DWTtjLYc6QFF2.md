@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 
 > Слухай українських виконавиць на повну гучність! Добірка створена спільно із ТУЧЕЮ 💚
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,106 likes - 63 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,105 likes - 63 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,4 +72,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTtjLYc6QFF2.md) - [plain]
 | 62 | [Solid ground](https://open.spotify.com/track/5qHF2qZ2hPVY4GT1hufbqC) | [Daryna](https://open.spotify.com/artist/2Nagycqaa3u6LAavjfYbsQ) | [Solid ground](https://open.spotify.com/album/6E0zOZtbjhKhc2kBZaTMxx) | 4:59 |
 | 63 | [Spy](https://open.spotify.com/track/2nSgG9NpKBwC0QvCgck7sZ) | [DIYana](https://open.spotify.com/artist/5IfNghmcLfvmomhdqv64s2) | [More than a refugee](https://open.spotify.com/album/0l8CPE8nabGGYbaqolMU3k) | 3:32 |
 
-Snapshot ID: `AAAAAA+NQugzSCPMuEhBCOxY04eS6D+J`
+Snapshot ID: `AAAAACLgvHNv35M0YCevpT17vuMjooBI`

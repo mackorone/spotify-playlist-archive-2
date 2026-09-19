@@ -1,13 +1,37 @@
 {
   "description": "A weekly selection of tracks that I love to listen to at home or play out at a party.",
-  "num_followers": 273055,
+  "num_followers": 273026,
   "original_name": "Martin Garrix Radio",
   "owner": {
     "name": "Martin Garrix",
     "url": "https://open.spotify.com/user/martingarrix"
   },
-  "snapshot_id": "AAAIuQiZMoqwP0fhXpR283zYQxAp6+yY",
+  "snapshot_id": "AAAIup7EKVC4HFgVD5opUz60U/bWHkRn",
   "tracks": [
+    {
+      "added_at": "2026-09-18 06:13:26",
+      "album": {
+        "name": "Turn Up The Speakers (Julian Jordan Remix)",
+        "url": "https://open.spotify.com/album/3ls2ibRNHUJwcwQLkGYWFk"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "duration_ms": 156489,
+      "name": "Turn Up The Speakers - Julian Jordan Remix",
+      "url": "https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM"
+    },
     {
       "added_at": "2026-08-14 06:17:47",
       "album": {

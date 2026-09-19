@@ -2,9 +2,9 @@
 
 ### [Locked In](https://open.spotify.com/playlist/37i9dQZF1DWTl4y3vgJOXW)
 
-> Fourth quarter, two minutes left .\. get locked in\. Cover: Patrick Mahomes and Kenneth Walker III
+> Fourth quarter, two minutes left .\. get locked in\. Cover: Josh Allen and Keon Coleman
 
-945 songs - 1 day 23 hr 52 min
+946 songs - 1 day 23 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -181,7 +181,7 @@
 | [CMO Freestyle \(feat\. Baby Slime, BIG30, K Carbon\)](https://open.spotify.com/track/2uEwGTCQLHbWiD4v67hiWA) | [Pooh Shiesty](https://open.spotify.com/artist/5F1aAS1duwlzExnPs3l2Xe), [Baby SLime](https://open.spotify.com/artist/05AIETWTLmmn4q9KiCPN9V), [BIG30](https://open.spotify.com/artist/4nZmMrwH6LxHnCzQv4IFUE), [K Carbon](https://open.spotify.com/artist/5LxoXQBUoD5oftz6xQLv9y) | [All Eyes on Shiest](https://open.spotify.com/album/5bSBopVXXVyJlVCL5Lv7LI) | 3:06 | 2026-08-07 | 2026-08-15 |
 | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/track/5uVW9FWVaQde0lfF4hYs4C) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW), [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [CODE \(feat\. Moneybagg Yo\)](https://open.spotify.com/album/42jB9RVqk28zOVbbKhSMX1) | 3:12 | 2022-08-26 | 2023-03-03 |
 | [COFFEE BEAN](https://open.spotify.com/track/6vnfObZ4Ys70SBAtti1xZ9) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:29 | 2024-10-25 | 2024-11-02 |
-| [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 | 2025-08-15 |  |
+| [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 | 2025-08-15 | 2026-09-19 |
 | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/track/53acd3PVcgGCux58YABBr5) | [Flo Milli](https://open.spotify.com/artist/08PvCOlef4xdOr20jFSTPd), [Lola Brooke](https://open.spotify.com/artist/2Ggj5XNlIb4Lnbqe307FyB), [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ) | [Conceited \(feat\. Lola Brooke & Maiya The Don\)](https://open.spotify.com/album/1RJ4oGkndLQuhu4EfVTKk5) | 3:15 | 2023-01-27 | 2023-03-14 |
 | [Contact \(feat\. Tyga\)](https://open.spotify.com/track/0WLhJ2NBuZHuoHY8pLVHJ0) | [Wiz Khalifa](https://open.spotify.com/artist/137W8MRPWKqSmrBGDBFSop), [Tyga](https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp) | [Contact \(feat\. Tyga\)](https://open.spotify.com/album/25CfSiH8FAG9802wbdftH4) | 2:35 | 2021-09-02 | 2023-02-18 |
 | [Controversy 2 \(feat\. Tee Grizzley\)](https://open.spotify.com/track/3nPI8WzSQWAhF0WjH8cnrH) | [Skilla Baby](https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI), [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO) | [Crack Music 3](https://open.spotify.com/album/7GgMU6eXAkAJ1IJ9WcPVIo) | 2:00 | 2024-11-23 | 2025-01-25 |
@@ -250,6 +250,7 @@
 | [DUMBO](https://open.spotify.com/track/1rQEgtQNsj63xIUzEmKbML) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [JACKBOYS 2](https://open.spotify.com/album/32lGAqeVkdJxEj2iv2Q01B) | 3:58 | 2025-07-13 |  |
 | [durag activity \(with Travis Scott\)](https://open.spotify.com/track/4dfojOC0mkRk4CZdOwr4VT) | [Baby Keem](https://open.spotify.com/artist/5SXuuuRpukkTvsLuUknva1), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [The Melodic Blue \(Deluxe\)](https://open.spotify.com/album/5Co3CGD9lBQVNnn7q0px1g) | 3:44 | 2024-07-12 | 2024-07-19 |
 | [Dust](https://open.spotify.com/track/4eE16RJFDKf2WxBTqqfylu) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 3:09 | 2026-05-29 |  |
+| [EARNËD IT](https://open.spotify.com/track/0F0uSTQGmuF1JxmEtbZFxw) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [COCOON](https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL) | 2:31 | 2026-09-18 |  |
 | [Eaters](https://open.spotify.com/track/1aQZOezVcyTJ0niV0l3hTU) | [Young Stoner Life](https://open.spotify.com/artist/1xr2G8Hlx4QWmT9HaUbmoO), [Young Thug](https://open.spotify.com/artist/50co4Is1HCEo8bhOyUWKpn), [Tezzus](https://open.spotify.com/artist/3YQEnGNd8ooVyyhjnuwQIm), [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [Slime Language 3](https://open.spotify.com/album/1WtVKnWze7lleZLJdkmlbB) | 3:43 | 2026-08-29 |  |
 | [Ego Death \(feat\. Kanye West, FKA twigs & Skrillex\)](https://open.spotify.com/track/4JB0EAT4BkLShTyTt50FmO) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [FKA twigs](https://open.spotify.com/artist/6nB0iY1cjSY1KyhYyuIIKH), [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Ego Death \(feat\. Kanye West, FKA twigs & Skrillex\)](https://open.spotify.com/album/6FPhDUfQUECZVD8vnobxjM) | 3:51 | 2021-09-02 | 2022-06-25 |
 | [Emotionally Scarred](https://open.spotify.com/track/7ge7BHazYbVKi8qyZUX1Bm) | [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [My Turn](https://open.spotify.com/album/1ynyQdPQiXdYJNQEDL1S3d) | 3:17 | 2021-09-02 | 2023-03-03 |

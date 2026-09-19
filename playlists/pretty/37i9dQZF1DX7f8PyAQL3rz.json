@@ -1,12 +1,12 @@
 {
   "description": "os mlk a milh\u00e3o do 013 ao 019",
-  "num_followers": 1432365,
+  "num_followers": 1432253,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM6NAEThFVyPf5kehF6uMmvguJLq",
+  "snapshot_id": "AAAAAJbLsj0q12Lyt1dICzyT9f+BmgOw",
   "tracks": [
     {
       "added_at": "2026-09-11 13:11:58",
@@ -815,38 +815,6 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
-        "name": "DOISMILEVINTEHOJE",
-        "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
-      },
-      "artists": [
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Labbel Rec",
-          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
-        },
-        {
-          "name": "Greezy",
-          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
-        },
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
-        }
-      ],
-      "duration_ms": 187317,
-      "name": "Pasta Registrada",
-      "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
         "name": "Dentro da Sua",
         "url": "https://open.spotify.com/album/6A7c82aLDbJiJVRbObW6wp"
       },
@@ -875,6 +843,38 @@
       "duration_ms": 136320,
       "name": "Dentro da Sua",
       "url": "https://open.spotify.com/track/5XnBTv0a5JjTG57mhZDVpz"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
+        "name": "DOISMILEVINTEHOJE",
+        "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
+      },
+      "artists": [
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Labbel Rec",
+          "url": "https://open.spotify.com/artist/4tfQzFEhNTBnKUrYueeLKX"
+        },
+        {
+          "name": "Greezy",
+          "url": "https://open.spotify.com/artist/3exY81LSlWqpL03GFPTEgB"
+        },
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+        }
+      ],
+      "duration_ms": 187317,
+      "name": "Pasta Registrada",
+      "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -947,6 +947,26 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
+        "name": "Muito Rom\u00e2ntico",
+        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
+      },
+      "artists": [
+        {
+          "name": "Maui",
+          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
+        },
+        {
+          "name": "Meio Feel",
+          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
+        }
+      ],
+      "duration_ms": 148965,
+      "name": "Perigos&Macetes",
+      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -975,26 +995,6 @@
       "duration_ms": 162461,
       "name": "Monop\u00f3lio",
       "url": "https://open.spotify.com/track/4N3LI6Agfo5feFoVJHx5ti"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
-        "name": "Muito Rom\u00e2ntico",
-        "url": "https://open.spotify.com/album/12huOOShCMRppercsnKCdS"
-      },
-      "artists": [
-        {
-          "name": "Maui",
-          "url": "https://open.spotify.com/artist/36KguyRusb89rBTNnL32ed"
-        },
-        {
-          "name": "Meio Feel",
-          "url": "https://open.spotify.com/artist/1Fm4cFyLxFxY3nIIMCmxO3"
-        }
-      ],
-      "duration_ms": 148965,
-      "name": "Perigos&Macetes",
-      "url": "https://open.spotify.com/track/35WTDGdqXQjwQBhQgtBAbh"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -1087,26 +1087,26 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
-        "name": "MUSICAS PARA ELEVADOR",
-        "url": "https://open.spotify.com/album/1jFa66HKY5ddl2UGR9Y1pG"
+        "name": "Cicatrizes, Vol. 1",
+        "url": "https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl"
       },
       "artists": [
         {
-          "name": "Baby T",
-          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+          "name": "LX",
+          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
         },
         {
-          "name": "137 Records",
-          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
         },
         {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+          "name": "Celo1st",
+          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
         }
       ],
-      "duration_ms": 161856,
-      "name": "MARTINA",
-      "url": "https://open.spotify.com/track/2QOxeIlhFvLyIwQvkoeznG"
+      "duration_ms": 142677,
+      "name": "VAI TOMANDO",
+      "url": "https://open.spotify.com/track/6Cissij4MMX6vApChJEZgp"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -1139,6 +1139,30 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
+        "name": "MUSICAS PARA ELEVADOR",
+        "url": "https://open.spotify.com/album/1jFa66HKY5ddl2UGR9Y1pG"
+      },
+      "artists": [
+        {
+          "name": "Baby T",
+          "url": "https://open.spotify.com/artist/5dv1JeruTM0jHepHgHxqTf"
+        },
+        {
+          "name": "137 Records",
+          "url": "https://open.spotify.com/artist/77v0PQBtyhbSpuDysJA7Qb"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 161856,
+      "name": "MARTINA",
+      "url": "https://open.spotify.com/track/2QOxeIlhFvLyIwQvkoeznG"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
         "name": "Fiquei Bonito...",
         "url": "https://open.spotify.com/album/3E5mXFZLXppSoqT6zKWl6k"
       },
@@ -1163,30 +1187,6 @@
       "duration_ms": 134829,
       "name": "Fiquei Bonito...",
       "url": "https://open.spotify.com/track/3xmAIiw9f84lX8c1Qy2dRI"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
-        "name": "Cicatrizes, Vol. 1",
-        "url": "https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl"
-      },
-      "artists": [
-        {
-          "name": "LX",
-          "url": "https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Celo1st",
-          "url": "https://open.spotify.com/artist/6RC5tRbakJ46EExHuPmxzK"
-        }
-      ],
-      "duration_ms": 142677,
-      "name": "VAI TOMANDO",
-      "url": "https://open.spotify.com/track/6Cissij4MMX6vApChJEZgp"
     },
     {
       "added_at": "2026-09-11 13:11:58",

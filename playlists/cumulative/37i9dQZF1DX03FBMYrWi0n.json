@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-11",
-  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: Antoine Corriveau",
+  "description": "L\u2019alternatif qu\u00e9b\u00e9cois \u00e0 plein volume. Photo: NOBRO",
   "name": "ALT_QC",
   "tracks": [
     {
@@ -496,6 +496,24 @@
       "duration_ms": 247996,
       "name": "Aire de plastique",
       "url": "https://open.spotify.com/track/1FP93DO41UqI4THy99qo2L"
+    },
+    {
+      "album": {
+        "name": "Alfa Romeo",
+        "url": "https://open.spotify.com/album/69Ve5JWbx0O6oIBAJQc62M"
+      },
+      "artists": [
+        {
+          "name": "Wizaard",
+          "url": "https://open.spotify.com/artist/1z4KX6U3ieDwUjKDwMz4IK"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170188,
+      "name": "Alfa Romeo",
+      "url": "https://open.spotify.com/track/61JgdSbCnw1XDM95DZOh3u"
     },
     {
       "album": {
@@ -1114,7 +1132,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 166153,
       "name": "Balance",
       "url": "https://open.spotify.com/track/1xAJOrNV8ets4b64VROl8K"
@@ -1556,6 +1574,24 @@
       "duration_ms": 112000,
       "name": "boucan \u00e0 l'\u00e9tage",
       "url": "https://open.spotify.com/track/2cU2yboOs2Cyzc1RlOu3fy"
+    },
+    {
+      "album": {
+        "name": "Mode",
+        "url": "https://open.spotify.com/album/7IpOclL2Ol5dVGhOufaqjI"
+      },
+      "artists": [
+        {
+          "name": "Patche",
+          "url": "https://open.spotify.com/artist/2l5zAkA5ErSzEplCC0gDu1"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243803,
+      "name": "Boulet",
+      "url": "https://open.spotify.com/track/5GOae0JQzudKXWayFPmbqj"
     },
     {
       "album": {
@@ -2732,7 +2768,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 195783,
       "name": "Dans la rue",
       "url": "https://open.spotify.com/track/5tBRyDEWpRisfUv3POqnWy"
@@ -2876,7 +2912,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 189540,
       "name": "Demain minuit",
       "url": "https://open.spotify.com/track/1HubFNujYKvxk5UfvJNLpV"
@@ -3513,6 +3549,24 @@
     },
     {
       "album": {
+        "name": "Moindre Mal",
+        "url": "https://open.spotify.com/album/0VxQ4mEKzj1WmMZmCYPyuL"
+      },
+      "artists": [
+        {
+          "name": "Moindre Mal",
+          "url": "https://open.spotify.com/artist/30BtBeDtNxVUNJQtly9vFo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209838,
+      "name": "Effigie",
+      "url": "https://open.spotify.com/track/1R1r4Ki69qkng1gkXv46eR"
+    },
+    {
+      "album": {
         "name": "Mitshuap",
         "url": "https://open.spotify.com/album/1dr7crjcYUidGq4igkPLh7"
       },
@@ -3859,6 +3913,24 @@
     },
     {
       "album": {
+        "name": "Para Ella",
+        "url": "https://open.spotify.com/album/3e66JaKNGXyiLTFWNiwUS9"
+      },
+      "artists": [
+        {
+          "name": "Thalia Rosaura",
+          "url": "https://open.spotify.com/artist/5vuMOoIQLqoyIr4Mr8VeJZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191882,
+      "name": "Ferrari",
+      "url": "https://open.spotify.com/track/0rN69yHaCkPKCPAC1B7oy4"
+    },
+    {
+      "album": {
         "name": "Chicout",
         "url": "https://open.spotify.com/album/5jJZizjQO3LX5fDMGDymog"
       },
@@ -4032,7 +4104,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 148160,
       "name": "Fox",
       "url": "https://open.spotify.com/track/3ACdS3R5SaiZzRg5FWGMBh"
@@ -4122,7 +4194,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 124315,
       "name": "FYORE",
       "url": "https://open.spotify.com/track/1R4KhmCfFGtXY6BvnSL1W4"
@@ -4162,6 +4234,24 @@
       "duration_ms": 214792,
       "name": "Gants blancs",
       "url": "https://open.spotify.com/track/2LvkbJtiU8zBRZnBWqra43"
+    },
+    {
+      "album": {
+        "name": "Girls Like Us",
+        "url": "https://open.spotify.com/album/6QTOMTau9o8DUwu1EtnLt3"
+      },
+      "artists": [
+        {
+          "name": "NOBRO",
+          "url": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186219,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h"
     },
     {
       "album": {
@@ -4234,6 +4324,24 @@
       "duration_ms": 217800,
       "name": "Going on the patch",
       "url": "https://open.spotify.com/track/2mpJjohnbHOi89Dv3OjKSW"
+    },
+    {
+      "album": {
+        "name": "Good Sport",
+        "url": "https://open.spotify.com/album/0UZd74pAgp2NFl8b2nBpYm"
+      },
+      "artists": [
+        {
+          "name": "Aidan Rex",
+          "url": "https://open.spotify.com/artist/1rkPPXRaJdv3dHucEHoXg9"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184000,
+      "name": "Good Sport",
+      "url": "https://open.spotify.com/track/3kORBU2wOUUbuyQ1WoN3iE"
     },
     {
       "album": {
@@ -4410,7 +4518,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 178379,
       "name": "heart",
       "url": "https://open.spotify.com/track/0bdwem7sj4TeYcPslXwcSK"
@@ -4616,7 +4724,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 257359,
       "name": "Hook IV",
       "url": "https://open.spotify.com/track/1eiiIwFz5JyRzlCaUnbHLP"
@@ -5075,6 +5183,24 @@
     },
     {
       "album": {
+        "name": "J'en sais rien",
+        "url": "https://open.spotify.com/album/0RtuI6zhAvZLUvaO1hmeXA"
+      },
+      "artists": [
+        {
+          "name": "Thierry Larose",
+          "url": "https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214853,
+      "name": "J'en sais rien",
+      "url": "https://open.spotify.com/track/3QL5fvzPzHtSCcNbXMrYOp"
+    },
+    {
+      "album": {
         "name": "Lou-Adriane Cassidy vous dit : Bonsoir",
         "url": "https://open.spotify.com/album/6UEj0UFeDADuPxGYXuANV7"
       },
@@ -5288,7 +5414,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 185384,
       "name": "JENNY",
       "url": "https://open.spotify.com/track/5hgBzfR3BzBWxznq9Cccrc"
@@ -6885,6 +7011,24 @@
     },
     {
       "album": {
+        "name": "Gimmicks",
+        "url": "https://open.spotify.com/album/52wMgE8YgsyAQDUD79H89s"
+      },
+      "artists": [
+        {
+          "name": "Population II",
+          "url": "https://open.spotify.com/artist/6PPO5rGb8UVDvR1XjHEWZd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214490,
+      "name": "Magouilleux",
+      "url": "https://open.spotify.com/track/7dTQnmlNNPo50QZW05MsKH"
+    },
+    {
+      "album": {
         "name": "Magouilleux",
         "url": "https://open.spotify.com/album/3T0wyczV6l4oBscKqx71EO"
       },
@@ -7080,7 +7224,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-02",
+      "date_removed": null,
       "duration_ms": 175793,
       "name": "merci la vie",
       "url": "https://open.spotify.com/track/10cdEg6FXk3Ncj1YRCLjAS"
@@ -8297,6 +8441,24 @@
     },
     {
       "album": {
+        "name": "Peine perdue",
+        "url": "https://open.spotify.com/album/5IU3d7WxI4lFBSgfpc0ZNs"
+      },
+      "artists": [
+        {
+          "name": "Yuki B",
+          "url": "https://open.spotify.com/artist/1Ag1DdfWNtnGdm83G5iYXr"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192723,
+      "name": "Peine perdue",
+      "url": "https://open.spotify.com/track/29O7jNWJvYpJYuCmsmEQ4E"
+    },
+    {
+      "album": {
         "name": "Pepperina",
         "url": "https://open.spotify.com/album/7iBWKPRekoVU8sepTrAMrC"
       },
@@ -8720,7 +8882,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 216146,
       "name": "Polymorphe",
       "url": "https://open.spotify.com/track/1UfDzEfCPcfuZ5lLYKXwIm"
@@ -9103,6 +9265,24 @@
     },
     {
       "album": {
+        "name": "Rayban",
+        "url": "https://open.spotify.com/album/14CZ7Qw2yfKXIJARzCcpm0"
+      },
+      "artists": [
+        {
+          "name": "ZEHD",
+          "url": "https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216009,
+      "name": "Rayban",
+      "url": "https://open.spotify.com/track/1CtIT4KJDnR0iLmctEk9UN"
+    },
+    {
+      "album": {
         "name": "Razz",
         "url": "https://open.spotify.com/album/17aE8q34Jq6gYImpF2O4g5"
       },
@@ -9478,7 +9658,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 183000,
       "name": "Saint Loreto",
       "url": "https://open.spotify.com/track/0v5558IQMhOWIInaVeb9wI"
@@ -9626,6 +9806,24 @@
       "duration_ms": 212137,
       "name": "Sempre Juntos",
       "url": "https://open.spotify.com/track/1km2OgCnbPQwlL7ya5VYEa"
+    },
+    {
+      "album": {
+        "name": "sen",
+        "url": "https://open.spotify.com/album/0X00vseB24ES6tKNoFKopM"
+      },
+      "artists": [
+        {
+          "name": "Kee Avil",
+          "url": "https://open.spotify.com/artist/178F3Nm61BKsUtDP3egSoR"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161061,
+      "name": "sen",
+      "url": "https://open.spotify.com/track/4QpXoIUglAyedO4arG8lin"
     },
     {
       "album": {
@@ -10510,7 +10708,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 205546,
       "name": "Surf Jesus Surf",
       "url": "https://open.spotify.com/track/3cpBoQaaw3TBoVwesCtfgg"
@@ -10690,7 +10888,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 210681,
       "name": "The Cost of Freedom",
       "url": "https://open.spotify.com/track/4iOXkjBf9fhbyCjQRlTHnE"
@@ -10978,7 +11176,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 236254,
       "name": "Tout ce que je voudrais \u00eatre, c'est tout ce que je ne suis pas",
       "url": "https://open.spotify.com/track/5iISNJSdGntEhsDBXAtisg"
@@ -11318,7 +11516,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 151666,
       "name": "Uncomfortable",
       "url": "https://open.spotify.com/track/41oTqHIO4rKtGCF7fINvkQ"
@@ -11642,7 +11840,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 178200,
       "name": "Washing Machine",
       "url": "https://open.spotify.com/track/061FmEAYZyUEY0hONIJ3OZ"

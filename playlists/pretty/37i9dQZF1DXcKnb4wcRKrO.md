@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 
 > Golden hour, apéritif, cozy time, beach wind\-down \-  jazzy vibes & relaxed house beats🍹
 
-[Spotify](https://open.spotify.com/user/spotify) - 121,760 likes - 174 songs - 7 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 121,866 likes - 174 songs - 7 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -183,4 +183,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKnb4wcRKrO.md) - [plain]
 | 173 | [silkysmooth](https://open.spotify.com/track/2x4o4WaPZRtdkWiJoZ5yYK) | [Landayn](https://open.spotify.com/artist/13ptCL2mD06c4wcdwj1SaA) | [silkysmooth](https://open.spotify.com/album/2pGNKhitHKrBI8JH37iiL7) | 2:41 |
 | 174 | [Burgundy](https://open.spotify.com/track/5rUIJwknE8Aj28bIcdrFW0) | [house red](https://open.spotify.com/artist/6SheSUxv8x6bB5Dn8lIWlp), [muscato](https://open.spotify.com/artist/1F6tBDXjLyv3jmoonckbvR) | [Burgundy](https://open.spotify.com/album/1stsanxIcY2DJEnzH02vEc) | 2:23 |
 
-Snapshot ID: `AAAAAHbh1B2WirAeU8iH/oPZj98lq56g`
+Snapshot ID: `AAAAAEwm4RXSYOckk97tP/TRc3SpexzN`

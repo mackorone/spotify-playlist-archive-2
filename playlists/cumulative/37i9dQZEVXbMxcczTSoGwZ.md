@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Finland.
 
-3,460 songs - 7 day 13 hr 27 min
+3,461 songs - 7 day 13 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -107,6 +107,7 @@
 | [Aikuinen mies](https://open.spotify.com/track/54VuYTGSWEnMzrFexUlpuh) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt) | [Aris](https://open.spotify.com/album/7woVOwWOTjrixtxhIPjRXd) | 2:05 | 2026-01-24 | 2026-02-01 |
 | [Aikuisii](https://open.spotify.com/track/3bKFbtcIr4tq1obGrUJ0dp) | [Reino Nordin](https://open.spotify.com/artist/5cvT1YrzMiVuHMg22UKIk5) | [Aikuisii](https://open.spotify.com/album/4bAylNnfdgChUN2oNZduem) | 3:30 | 2021-03-27\* | 2021-04-20 |
 | [Aikuisten rannekkeet](https://open.spotify.com/track/39PreMAeQVWGnTfV2gG3Le) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [Erika Vikman](https://open.spotify.com/album/3QsYSDk8vAA3h2NP0yAXE8) | 3:14 | 2021-08-22 | 2021-08-31 |
+| [Ain't In LA](https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:04 | 2026-09-18 |  |
 | [AINA](https://open.spotify.com/track/7EjyrRhPCsUHfq1odGNajx) | [jambo](https://open.spotify.com/artist/1fy2OEMI7TX9ayBKxErHK0), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [AINA](https://open.spotify.com/album/6SMovWc6E3Q8LdKk0fVKZh) | 2:45 | 2023-11-04 | 2023-11-12 |
 | [Aina](https://open.spotify.com/track/2zBiB79GNoVXY6cLB8AMKE) | [Joe L](https://open.spotify.com/artist/1zNcOiKaCyEKnoHpc8QNra) | [Aina](https://open.spotify.com/album/0ZHz8msY0KGTSk7VXxKFoL) | 2:12 | 2024-04-27 | 2024-04-29 |
 | [Aina](https://open.spotify.com/track/30e8FQADV8Xdyc5UnPBVio) | [SHRTY](https://open.spotify.com/artist/0hidKEfknd2aNabseugaN2), [Bizi](https://open.spotify.com/artist/3sMD9js59UX6gYODxbg1VV) | [Aina](https://open.spotify.com/album/7vZNKYbQkKPaRC0IGDwd9C) | 2:15 | 2025-10-25 | 2025-10-30 |
@@ -2707,7 +2708,7 @@
 | [Stadin puistot \(feat\. AHTI\)](https://open.spotify.com/track/5Om2bI3bo28V7XKvDHYy7d) | [Överi](https://open.spotify.com/artist/55ueMDhpCYDmeffxXff2Aw), [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Stadin puistot \(feat\. AHTI\)](https://open.spotify.com/album/2UG0q8ZsvuUp8xTgF92LlF) | 2:57 | 2023-05-20 | 2023-10-22 |
 | [Stand Back](https://open.spotify.com/track/6ncxWZeud6ry2fFYS3Qw1D) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Comeback](https://open.spotify.com/album/7fXIlpj2gXIZQyAQwEO6TT) | 2:45 | 2026-04-04 | 2026-04-19 |
 | [Stand Back](https://open.spotify.com/track/7jQJMN2Pq0DkPVIyxGGIBi) | [Jukka Poika](https://open.spotify.com/artist/57ZjZU8vSOeP0Q2hbwh8wn) | [Stand Back](https://open.spotify.com/album/6zZZpP1zCyhxQ5bZ8HLAIe) | 2:45 | 2026-01-31 | 2026-04-05 |
-| [Stanley Cup](https://open.spotify.com/track/0ZC9xM6MdClvWyWUKwyMam) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Mikä muutti kaiken](https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb) | 2:50 | 2026-09-05 |  |
+| [Stanley Cup](https://open.spotify.com/track/0ZC9xM6MdClvWyWUKwyMam) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Mikä muutti kaiken](https://open.spotify.com/album/0GvB5YVmzpXq6MyBE8UvLb) | 2:50 | 2026-09-05 | 2026-09-19 |
 | [Stanley Cup](https://open.spotify.com/track/5trRDAvsLKQkRnfe0aTfVX) | [AHTI](https://open.spotify.com/artist/2E93OTghhH2JKYUWt48gFK) | [Stanley Cup](https://open.spotify.com/album/7tNOxHEspPK1w9No03RRut) | 2:50 | 2026-07-04 | 2026-07-26 |
 | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/track/38T0tPVZHcPZyhtOcCP7pF) | [Lil Nas X](https://open.spotify.com/artist/7jVv8c5Fj3E9VhNjxT4snq) | [STAR WALKIN' \(League of Legends Worlds Anthem\)](https://open.spotify.com/album/0aIy6J8M9yHTnjtRu81Nr9) | 3:30 | 2022-09-24 | 2023-01-01 |
 | [Stara](https://open.spotify.com/track/04TcSXoEPD9fNkEQaKEzdj) | [Lauri Haav](https://open.spotify.com/artist/4cmLVUbkth6BauCptSGKsV) | [Aino](https://open.spotify.com/album/5K7D2ZTuIO2KzrsiqR7Nb6) | 3:09 | 2023-10-28 | 2023-11-04 |

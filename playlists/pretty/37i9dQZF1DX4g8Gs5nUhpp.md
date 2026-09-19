@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 
 > V\-Pop nở hoa trên những khúc ca này\. Ảnh bìa: Dangrangto
 
-[Spotify](https://open.spotify.com/user/spotify) - 190,014 likes - 51 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 190,021 likes - 51 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4g8Gs5nUhpp.md) - [plain]
 | 50 | [Em \(feat\. SOOBIN\)](https://open.spotify.com/track/0a32EBPjqAe47cYDPE5Ia5) | [Binz](https://open.spotify.com/artist/2nSO7JYDbJrYbJmP39qUzj), [SOOBIN](https://open.spotify.com/artist/6CGGvCBHWqQ4HXtn5aLhbh) | [Gặp Lại](https://open.spotify.com/album/7KhulL89ZB118WVHfgCSm4) | 4:56 |
 | 51 | [Người Im Lặng Gặp Người Hay Nói](https://open.spotify.com/track/0wvpRHXXuImyrccNEPAXBo) | [HIEUTHUHAI](https://open.spotify.com/artist/5HZtdKfC4xU0wvhEyYDWiY) | [Người Im Lặng Gặp Người Hay Nói](https://open.spotify.com/album/2E1SVr2mWpBXenivjz5cIh) | 4:16 |
 
-Snapshot ID: `AAAAAH93qo3/o5YZojLP/Rj3hv+I1Iac`
+Snapshot ID: `AAAAAPb6bDhlTYk7D0kM21ssqkLv7idF`

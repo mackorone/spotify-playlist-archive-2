@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 
 > Sound Of Legend au top des bangers dance/electro du moment !
 
-[Spotify](https://open.spotify.com/user/spotify) - 430,122 likes - 40 songs - 1 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 430,141 likes - 40 songs - 1 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5wB72P2sVsT.md) - [plain]
 | 39 | [Boys Don't Cry](https://open.spotify.com/track/0TDWLRlQZolhApIkNePfNp) | [Bormin’](https://open.spotify.com/artist/2DCCeNy7EIhIt2TceZELw5), [Skinny Days](https://open.spotify.com/artist/4Q8IIlsZsXY1BgPzaz4DYq) | [Boys Don't Cry](https://open.spotify.com/album/3eUdaXbeIq9JGh3nBsyGX0) | 2:13 |
 | 40 | [In Your Eyes](https://open.spotify.com/track/0NIIKZEed0nXPz4lHnMaZg) | [Alesso](https://open.spotify.com/artist/4AVFqumd2ogHFlRbKIjp1t), [OneRepublic](https://open.spotify.com/artist/5Pwc4xIPtQLFEnJriah9YJ) | [In Your Eyes](https://open.spotify.com/album/09Hf2GLhclN92AvNgf3cBa) | 3:36 |
 
-Snapshot ID: `AAAAAKJstYAlmOYX3LjrdeSFtetozKYg`
+Snapshot ID: `AAAAAGbgOZMtg0ZeZLZLONddmUGstQRP`

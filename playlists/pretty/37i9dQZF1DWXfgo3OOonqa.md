@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 
 > håll det 100.
 
-[Spotify](https://open.spotify.com/user/spotify) - 333,394 likes - 100 songs - 3 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 333,384 likes - 100 songs - 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXfgo3OOonqa.md) - [plain]
 | 99 | [Detaljer](https://open.spotify.com/track/7oHcPk86R3L7JrxYJDXjSw) | [Z.E](https://open.spotify.com/artist/3PtEOX0PJSh7ndOL4tP0NR), [Jay Giovann1](https://open.spotify.com/artist/6FODee3v5qIktg9hw6hGOq) | [Detaljer](https://open.spotify.com/album/5kiCjHesIeEd4gWPmStsbZ) | 2:03 |
 | 100 | [Blessed](https://open.spotify.com/track/5FVdUVH1IU2bCyoqaCk8YW) | [Ninety](https://open.spotify.com/artist/2tl3YeeRX4B0j3RbGRVBcD) | [Blessed](https://open.spotify.com/album/3mZSbToHlItaFpo4GzhfF1) | 2:07 |
 
-Snapshot ID: `AAAAALBZKWGgZR+0C+Bo8ixE/eybIOZk`
+Snapshot ID: `AAAAAFaOxaOjGzlsZi4NU0JNtC7MFCC7`

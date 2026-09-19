@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 
 > A palavra do Senhor na voz de grandes adoradores do Brasil\. Foto: Julliany Souza
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,335,532 likes - 75 songs - 8 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,335,658 likes - 75 songs - 8 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0OEZC3cbQmU.md) - [plain]
 | 74 | [Se eu Somente Te Tocar \- Ao Vivo](https://open.spotify.com/track/3FZSOrmZmuUGZ9zxdfsVr1) | [Nilson Junior](https://open.spotify.com/artist/3iVKvSnoBIfdGNiLYrLIny) | [Se eu Somente Te Tocar \(Ao Vivo\)](https://open.spotify.com/album/4InzdfPhGCrhPEmgFPLvL9) | 4:55 |
 | 75 | [Dependente de Deus \- Ao Vivo](https://open.spotify.com/track/1YrMQT4omVlCCKQUGqaJm0) | [Isadora Pompeo](https://open.spotify.com/artist/0f59qYByNYzspwAr7huTSB) | [Dependente de Deus \(Ao Vivo\)](https://open.spotify.com/album/0dQX1IZI82UCXg47zWJNvh) | 5:29 |
 
-Snapshot ID: `AAAAAFVcJmLKaNwtcI3RmKEBWzYmyf1U`
+Snapshot ID: `AAAAAKWGgCQ0v7z4ZHKdF4KywuX86rCu`

@@ -2,9 +2,9 @@
 
 ### [Electronii\[K\]](https://open.spotify.com/playlist/37i9dQZF1DXdmJixlyx0rj)
 
-> New & best K\-Electronic music is here\. \(Cover: Kim Ximya\)
+> New & best K\-Electronic music is here\. \(Cover: DJ co.kr, h4rdy\)
 
-336 songs - 18 hr 56 min
+337 songs - 19 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,7 +105,7 @@
 | [Down Low](https://open.spotify.com/track/7uHs6HMb42GyRZ5WVsY6Ra) | [Fahjah](https://open.spotify.com/artist/7LjoOGD9rMWkR8clGUu2Id), [Oing](https://open.spotify.com/artist/2u5jpW3Xbb26uME8g5ixiB) | [Down Low](https://open.spotify.com/album/2vrXkjvERniroEr8z178xX) | 2:16 | 2024-04-05 | 2024-06-29 |
 | [DOWNFALL](https://open.spotify.com/track/3B6FXHASndfG4AymIFJVIV) | [Choi jin soul](https://open.spotify.com/artist/52m9oodSHzgqZPhKucw0al) | [DOWNFALL](https://open.spotify.com/album/76u6XROCDq6ruK7x5Z4DRt) | 2:47 | 2024-07-16 | 2024-08-11 |
 | [DRIFT](https://open.spotify.com/track/0e5xZ1b1Ol2sSSvDvihh9U) | [DPR CREAM](https://open.spotify.com/artist/7bPplWv4cZ1q26UY2Wmcvw), [DPR ARTIC](https://open.spotify.com/artist/6IeQ8QiuP3yQ2MGCsSuIFQ) | [NO DRUGS](https://open.spotify.com/album/3UTPtWpVQ8d2IEBNOLQN0M) | 2:26 | 2025-05-13 |  |
-| [DSMN \(Don't Stop Me Now\)](https://open.spotify.com/track/4sob8TY3S6oue34B97IG6O) | [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [DSMN \(Don't Stop Me Now\)](https://open.spotify.com/album/5qRUPGzKchRSmIcYLopzuu) | 3:02 | 2026-09-10 |  |
+| [DSMN \(Don't Stop Me Now\)](https://open.spotify.com/track/4sob8TY3S6oue34B97IG6O) | [Advanced](https://open.spotify.com/artist/3PQZ01Mrp3HaVVUJ976fMY), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [DSMN \(Don't Stop Me Now\)](https://open.spotify.com/album/5qRUPGzKchRSmIcYLopzuu) | 3:02 | 2026-09-10 | 2026-09-19 |
 | [Dynamite \(EDM Remix\)](https://open.spotify.com/track/0GIfKnZxlWAtX7P3b8PYyP) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [Dynamite \(DayTime Version\)](https://open.spotify.com/album/1Yo63a5AzPMyHiYMKYIrld) | 3:18 | 2024-06-28 | 2026-06-23 |
 | [d☆ct \(soccer banger\)](https://open.spotify.com/track/50NbbKgWFbwkTCRP7AkZ6I) | [Effie](https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ), [Eurohead](https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f) | [d☆ct \(soccer banger\)](https://open.spotify.com/album/5Z0yiqKRzFfXie0tinKQ3Z) | 3:04 | 2026-06-23 |  |
 | [E E A \(Feat\. JUE\)](https://open.spotify.com/track/0nQSuLnjOAWdV1gtaNqDzO) | [KONA](https://open.spotify.com/artist/6E1vNiOCUfC7BmxAvwIYIr), [JUE](https://open.spotify.com/artist/10n5khtXYHdljYhDDChKgk) | [A Kind of Animal](https://open.spotify.com/album/7yTtPy6yQ7YZXEmgi16kOL) | 4:06 | 2025-07-01 | 2025-07-25 |
@@ -206,6 +206,7 @@
 | [MOONLIGHT \- MOTi Remix](https://open.spotify.com/track/3N5IHH758ozxFH5Q5QfexW) | [HENRY LAU](https://open.spotify.com/artist/1sjw4xq2pAWy5Vdgba5QAt), [MOTi](https://open.spotify.com/artist/1vo8zHmO1KzkuU9Xxh6J7W) | [MOONLIGHT \(MOTi Remix\)](https://open.spotify.com/album/4n9rf9FyzaBtH9PvOyPrN2) | 2:43 | 2024-06-28 |  |
 | [MOOSA \(feat\. PENOMECO\)](https://open.spotify.com/track/0hkOgOg5OtQlGkvQts4z3Z) | [HUS](https://open.spotify.com/artist/23m7tUHLULVyBAAIYHbsgT), [PENOMECO](https://open.spotify.com/artist/1MAUqH0haKBYbjpknTfreY) | [MOOSA](https://open.spotify.com/album/0tCsTjDv2UMbgFAEdMwAdU) | 2:34 | 2025-09-22 | 2026-01-05 |
 | [Motion](https://open.spotify.com/track/32XcX4loha6c8lxw0K1Fqb) | [Take Note](https://open.spotify.com/artist/5uaYpqX82XlELErGUfxrJ0), [GUILTY PLEASURE](https://open.spotify.com/artist/6O9RTpNUVUK7uLAiqmfiWP) | [Motion](https://open.spotify.com/album/1z3YUVgVdYbL7TnMIvD1gM) | 4:16 | 2024-06-28 | 2024-11-11 |
+| [Motorskills](https://open.spotify.com/track/0AnbP0VoncGfQJpRs0gg1B) | [DJ co.kr](https://open.spotify.com/artist/29B31wBYJN1MJjE76whSHk), [h4rdy](https://open.spotify.com/artist/7JvaJdbpBgiVUWfxTal27Z) | [Motorskills](https://open.spotify.com/album/3yunGdbhiuxIjgwEBGt4YY) | 4:27 | 2026-09-18 |  |
 | [MOVEURBODY](https://open.spotify.com/track/3gfK4VzGxs3wUIq8nWSi4L) | [HYO](https://open.spotify.com/artist/3U7bOaJLuFkrmDQ1C1OqKl) | [MOVEURBODY](https://open.spotify.com/album/1VvZ6YbGHF9vNc9ixAI7fW) | 2:16 | 2026-03-23 |  |
 | [murmur](https://open.spotify.com/track/6KqF60TpACu4mtCCvqkNoN) | [Silly Silky](https://open.spotify.com/artist/4IHSCHg3UPSy0rBSHi3c5s) | [silkysmooth 01](https://open.spotify.com/album/0ozNLYHixaeddRLPLL9o8S) | 4:02 | 2025-07-29 |  |
 | [Mushroom House](https://open.spotify.com/track/5jVjqBtRqo7j25txCvZICI) | [Tomatomat](https://open.spotify.com/artist/24GOwtUldxDM0zGtcs0zZ9) | [Mushroom House](https://open.spotify.com/album/6gy4tGYNLSBCWFNvQ7GszG) | 2:54 | 2025-10-14 |  |

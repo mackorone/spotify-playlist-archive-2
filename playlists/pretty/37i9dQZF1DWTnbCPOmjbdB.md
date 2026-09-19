@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 
 > Najlepsze polskie piosenki na czasie\. Cover: Mrozu
 
-[Spotify](https://open.spotify.com/user/spotify) - 268,264 likes - 65 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 268,310 likes - 65 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTnbCPOmjbdB.md) - [plain]
 | 64 | [Sztos](https://open.spotify.com/track/5sjeU0jbxxOVcPItPtzwMr) | [Red Lips](https://open.spotify.com/artist/3k7VvYK030ZB8XkLrbFX7M), [Bard Kowalski](https://open.spotify.com/artist/2HZPSTdKVp6CdzRrDkaQsv) | [Sztos](https://open.spotify.com/album/2vQ07EMCA36O2CVbMG2vTY) | 2:31 |
 | 65 | [LOT](https://open.spotify.com/track/7IXd2FFIU23r2VRc71FtJ9) | [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [LOT](https://open.spotify.com/album/2MpvuXx9wwXU4g9gL2ahvC) | 2:49 |
 
-Snapshot ID: `AAAAANvM9IeMrMsXO4igupFhT6usmBYv`
+Snapshot ID: `AAAAAJWQ8tJScEjJmev9zLXgUcW0kYBG`

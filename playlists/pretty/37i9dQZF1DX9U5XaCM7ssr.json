@@ -1,12 +1,12 @@
 {
   "description": "Lagu-lagu sedih yang menyayat hati \ud83d\ude2d",
-  "num_followers": 1199944,
+  "num_followers": 1199961,
   "original_name": "Generasi Galau",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKSI/j5BeterQaR/lghFkzIpL+9h",
+  "snapshot_id": "AAAAAPUUVTWyaeISMy7Xh8c4NcFpZlJ7",
   "tracks": [
     {
       "added_at": "2026-05-01 01:20:26",
@@ -751,22 +751,6 @@
     {
       "added_at": "2026-05-01 01:20:26",
       "album": {
-        "name": "Heart",
-        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
-      },
-      "artists": [
-        {
-          "name": "Acha Septriasa",
-          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
-        }
-      ],
-      "duration_ms": 228413,
-      "name": "Sampai Menutup Mata",
-      "url": "https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu"
-    },
-    {
-      "added_at": "2026-05-01 01:20:26",
-      "album": {
         "name": "Selamat Pagi, Dunia!",
         "url": "https://open.spotify.com/album/6O4DUdeq5zCALFTlHGcaNx"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 235280,
       "name": "Sekali Ini Saja",
       "url": "https://open.spotify.com/track/1GmIlN8URkjZxtV99zKlBk"
+    },
+    {
+      "added_at": "2026-05-01 01:20:26",
+      "album": {
+        "name": "Heart",
+        "url": "https://open.spotify.com/album/0OyN4NEEkqb2E5iiXxvJv9"
+      },
+      "artists": [
+        {
+          "name": "Acha Septriasa",
+          "url": "https://open.spotify.com/artist/6x9pgf75qWhi1YKJH2a8Xv"
+        }
+      ],
+      "duration_ms": 228413,
+      "name": "Sampai Menutup Mata",
+      "url": "https://open.spotify.com/track/6RbOugGEsbxhOmNCHJGqLu"
     },
     {
       "added_at": "2026-05-01 01:20:26",

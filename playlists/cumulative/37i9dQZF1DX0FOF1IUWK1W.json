@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "Jo\u00e3o Gustavo e Murilo, Grelo o e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
+  "description": "MC JVila, Vulgo FK, Veigh, Kayblack e os maiores hits do pa\u00eds. O que t\u00e1 bombando t\u00e1 aqui.",
   "name": "Top Brasil",
   "tracks": [
     {
@@ -1534,7 +1534,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-23",
+      "date_removed": null,
       "duration_ms": 156579,
       "name": "Aproveita Que Eu T\u00f4 Brigado - Ao Vivo",
       "url": "https://open.spotify.com/track/6bpIrlJ06Fb6amL5M9djmi"
@@ -5004,7 +5004,7 @@
       ],
       "date_added": "2025-12-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 357120,
       "name": "Di\u00e1rio de um Cafajeste",
       "url": "https://open.spotify.com/track/6kaWah1Acn1dtNjAy6sm1p"
@@ -5992,7 +5992,7 @@
       ],
       "date_added": "2025-11-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 148561,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/4V2rUOmaevK0C1bKAkeFf5"
@@ -7643,6 +7643,24 @@
     },
     {
       "album": {
+        "name": "Onde Tudo Come\u00e7a,",
+        "url": "https://open.spotify.com/album/19xRmHjdqso76RByiG81me"
+      },
+      "artists": [
+        {
+          "name": "\u00cdcaro e Gilmar",
+          "url": "https://open.spotify.com/artist/6Wlvsn3IPHiZwAv02lB5eC"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198667,
+      "name": "Imagina Voc\u00ea,",
+      "url": "https://open.spotify.com/track/47tqclPTpDulUapzDeuN3w"
+    },
+    {
+      "album": {
         "name": "Imprevisto",
         "url": "https://open.spotify.com/album/4KbiGCm9vDI0dLXwGGXktY"
       },
@@ -9000,7 +9018,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 177230,
       "name": "ME POSTOU NO DAILY - FESTA DO BIG G",
       "url": "https://open.spotify.com/track/4ukpXdplqDEMk3Fy2i30oI"
@@ -9446,6 +9464,60 @@
       "duration_ms": 234461,
       "name": "Menos Foco Mais Ansiedade (Ce Ta Nervosa)",
       "url": "https://open.spotify.com/track/5ooFbBHL6xleehCpWACc9M"
+    },
+    {
+      "album": {
+        "name": "Menos Foco Mais Ansiedade 2",
+        "url": "https://open.spotify.com/album/4a2l8VNpqQYsvZvAlYiqj0"
+      },
+      "artists": [
+        {
+          "name": "dj andreoli",
+          "url": "https://open.spotify.com/artist/6Y7e2jet1yvaymbzwOn4Fa"
+        },
+        {
+          "name": "Mc Jacare\u0301",
+          "url": "https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW"
+        },
+        {
+          "name": "MC Ryan SP",
+          "url": "https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY"
+        },
+        {
+          "name": "Mc Iguinho Ct",
+          "url": "https://open.spotify.com/artist/3oAVbOfRvgOoCAEKnpohSo"
+        },
+        {
+          "name": "Mc IG",
+          "url": "https://open.spotify.com/artist/2q9wk5fkeU2C9CgCKdh4AN"
+        },
+        {
+          "name": "Mc Lele JP",
+          "url": "https://open.spotify.com/artist/1mV9h1AwhRXSjBFcYpajgY"
+        },
+        {
+          "name": "Oldilla",
+          "url": "https://open.spotify.com/artist/6sW5k31iA8sTy0i2goUKF9"
+        },
+        {
+          "name": "MC LUUKY",
+          "url": "https://open.spotify.com/artist/70jpkgy5oGT4YjaGFpCpk7"
+        },
+        {
+          "name": "MC Menor da VG",
+          "url": "https://open.spotify.com/artist/4maKTxhTIDEnWKra7wEIMR"
+        },
+        {
+          "name": "ZANOLINI",
+          "url": "https://open.spotify.com/artist/1wMfs3UxnvluH33Wfgieuc"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 413538,
+      "name": "Menos Foco Mais Ansiedade 2",
+      "url": "https://open.spotify.com/track/3p0rEXm4ApV2ps9bTTLHFE"
     },
     {
       "album": {
@@ -12657,6 +12729,24 @@
     },
     {
       "album": {
+        "name": "Voc\u00eas & Deus (Ao Vivo no Rio de Janeiro)",
+        "url": "https://open.spotify.com/album/7fF43JKZ1MTkFiWRzrkzcn"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Neto & Cristiano",
+          "url": "https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174183,
+      "name": "Plano C - Ao Vivo",
+      "url": "https://open.spotify.com/track/6xQwzsTwW0GFeYfADodNsc"
+    },
+    {
+      "album": {
         "name": "PLAYGROUND",
         "url": "https://open.spotify.com/album/3hPfwefUmHJZDXrJpdftxi"
       },
@@ -13018,7 +13108,7 @@
       ],
       "date_added": "2025-10-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 158769,
       "name": "Posso At\u00e9 N\u00e3o Te Dar Flores",
       "url": "https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp"

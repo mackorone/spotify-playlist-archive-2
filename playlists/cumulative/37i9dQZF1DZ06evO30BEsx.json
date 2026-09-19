@@ -731,6 +731,32 @@
     },
     {
       "album": {
+        "name": "Relaxing Classical for Studying",
+        "url": "https://open.spotify.com/album/0WfJqLaQANECrxskT2QCKM"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Gautier Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/57ziOSBD3x0PhVbl7MXTgI"
+        },
+        {
+          "name": "Yuja Wang",
+          "url": "https://open.spotify.com/artist/7HUNjWo242UAVHZvj9zk4w"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217173,
+      "name": "Chopin: Cello Sonata in G Minor, Op. 65: III. Largo",
+      "url": "https://open.spotify.com/track/1KolH5Qqd5BhW0U5QDJXac"
+    },
+    {
+      "album": {
         "name": "Franck & Chopin: Cello Sonatas",
         "url": "https://open.spotify.com/album/1j1fYBmsgel1Zut5UJG3JR"
       },
@@ -2404,7 +2430,7 @@
       ],
       "date_added": "2025-11-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 913335,
       "name": "Schubert: String Quintet in C Major, Op. 163, D. 956: II. Adagio",
       "url": "https://open.spotify.com/track/25mDxI046ioWDZZgSF2MYT"

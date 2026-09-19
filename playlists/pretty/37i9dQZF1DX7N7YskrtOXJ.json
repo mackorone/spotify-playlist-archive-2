@@ -1,12 +1,12 @@
 {
   "description": "La fiesta se enciende con cumbia.\n",
-  "num_followers": 128641,
+  "num_followers": 128795,
   "original_name": "Cumbias para carretear",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACNSojPCVxmpd+E+i6sUIhLjEDl0",
+  "snapshot_id": "AAAAAHzkE/OVawyjCbxpC+3YVUixY+XT",
   "tracks": [
     {
       "added_at": "2026-09-04 18:44:34",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Lo Mejor de Lo Mejor",
+        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 161239,
+      "name": "Yo Tomo Licor",
+      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "El Amor de Mi Vida",
         "url": "https://open.spotify.com/album/7ln5J3GjNk2B6YSbO8IGUG"
       },
@@ -175,22 +191,6 @@
       "duration_ms": 184586,
       "name": "El Amor de Mi Vida",
       "url": "https://open.spotify.com/track/1zgTTXWby9R40Gj9rHgH8e"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Lo Mejor de Lo Mejor",
-        "url": "https://open.spotify.com/album/3u2Re7BVZxzrKZIsVkKSHn"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 161239,
-      "name": "Yo Tomo Licor",
-      "url": "https://open.spotify.com/track/32KF7V0vpeKalBGxt2quBe"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -439,6 +439,70 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Cumbia Nena",
+        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
+      },
+      "artists": [
+        {
+          "name": "Amar Azul",
+          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
+        }
+      ],
+      "duration_ms": 187546,
+      "name": "Yo Me Enamore",
+      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 181254,
+      "name": "Que Nadie Se Entere",
+      "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
+        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
+      },
+      "artists": [
+        {
+          "name": "Los del Fuego",
+          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
+        }
+      ],
+      "duration_ms": 197616,
+      "name": "Entre el Cielo Vos y Yo",
+      "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Toque",
+        "url": "https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn"
+      },
+      "artists": [
+        {
+          "name": "Joe Vasconcellos",
+          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
+        }
+      ],
+      "duration_ms": 175266,
+      "name": "Las Seis",
+      "url": "https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "Eres",
         "url": "https://open.spotify.com/album/2dvXPiV2OhaRqCs0BQfZe5"
       },
@@ -464,25 +528,9 @@
           "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
         }
       ],
-      "duration_ms": 187546,
-      "name": "Yo Me Enamore",
-      "url": "https://open.spotify.com/track/6pHggeQk3ZnOm10uAnsqAG"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "A 30 A\u00f1os de una Pasi\u00f3n Inexplicable... Solo He Nacido para Amarte",
-        "url": "https://open.spotify.com/album/2oAr9qO4Lfm8PgSBHgox8l"
-      },
-      "artists": [
-        {
-          "name": "Los del Fuego",
-          "url": "https://open.spotify.com/artist/5L6GbwWUM3Oi5GPnkmmp24"
-        }
-      ],
-      "duration_ms": 197616,
-      "name": "Entre el Cielo Vos y Yo",
-      "url": "https://open.spotify.com/track/1xOHKgqHqUJJSoLVqNu8OR"
+      "duration_ms": 179813,
+      "name": "La Vecina",
+      "url": "https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -499,54 +547,6 @@
       "duration_ms": 195644,
       "name": "Y Dime",
       "url": "https://open.spotify.com/track/5be0AiqAcjVqapIqvVeP38"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
-      },
-      "artists": [
-        {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
-        }
-      ],
-      "duration_ms": 181254,
-      "name": "Que Nadie Se Entere",
-      "url": "https://open.spotify.com/track/41BuYNd5IMSmDV7m6aNb8J"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Toque",
-        "url": "https://open.spotify.com/album/3fGKGJuofCLwmPzK2wLIxn"
-      },
-      "artists": [
-        {
-          "name": "Joe Vasconcellos",
-          "url": "https://open.spotify.com/artist/4sGC7K2rSpWrWudBgYPMce"
-        }
-      ],
-      "duration_ms": 175266,
-      "name": "Las Seis",
-      "url": "https://open.spotify.com/track/56Q1u9KJUMcun4UWv0b7ik"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Cumbia Nena",
-        "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
-      },
-      "artists": [
-        {
-          "name": "Amar Azul",
-          "url": "https://open.spotify.com/artist/04TVfWdJWbfH0FOT2zA1Tg"
-        }
-      ],
-      "duration_ms": 179813,
-      "name": "La Vecina",
-      "url": "https://open.spotify.com/track/1cs24klrqgJtj5MC4JHaMm"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -599,22 +599,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Hecho con Amor",
-        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
-      },
-      "artists": [
-        {
-          "name": "Agrupaci\u00f3n Marilyn",
-          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
-        }
-      ],
-      "duration_ms": 202586,
-      "name": "Bonita",
-      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Pibes Chorros - Criando Cuervos",
         "url": "https://open.spotify.com/album/4nMOd2K00P2kLWJj8FyFOs"
       },
@@ -627,6 +611,22 @@
       "duration_ms": 225320,
       "name": "Que calor",
       "url": "https://open.spotify.com/track/0RDDMvevLZkkBhAHP2mNpb"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Hecho con Amor",
+        "url": "https://open.spotify.com/album/7M8zzURI76D1gAX5M0o0bl"
+      },
+      "artists": [
+        {
+          "name": "Agrupaci\u00f3n Marilyn",
+          "url": "https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG"
+        }
+      ],
+      "duration_ms": 202586,
+      "name": "Bonita",
+      "url": "https://open.spotify.com/track/2ndfn8f7o94Y33HPcWjyay"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -647,38 +647,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Mi \u00danico Amor",
-        "url": "https://open.spotify.com/album/1bc0MLEqmNIXBPrSwkyN2j"
-      },
-      "artists": [
-        {
-          "name": "Nestor En Bloque",
-          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
-        }
-      ],
-      "duration_ms": 214264,
-      "name": "Una Calle Nos Separa",
-      "url": "https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Sue\u00f1o Cumplido",
-        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
-      },
-      "artists": [
-        {
-          "name": "La Banda De Lechuga",
-          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
-        }
-      ],
-      "duration_ms": 190800,
-      "name": "Te Vi",
-      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "Cumbia E' Plaza",
         "url": "https://open.spotify.com/album/1GIrK9JtY36HaNnixqCzDj"
       },
@@ -695,18 +663,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Sa, Za...Sabor",
-        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
+        "name": "Mi \u00danico Amor",
+        "url": "https://open.spotify.com/album/1bc0MLEqmNIXBPrSwkyN2j"
       },
       "artists": [
         {
-          "name": "La Cumbia",
-          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+          "name": "Nestor En Bloque",
+          "url": "https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg"
         }
       ],
-      "duration_ms": 217293,
-      "name": "Ya lleg\u00f3 el sabor",
-      "url": "https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj"
+      "duration_ms": 214264,
+      "name": "Una Calle Nos Separa",
+      "url": "https://open.spotify.com/track/1TvjOTe5HcnzxnlvQ8JRy8"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -727,18 +695,34 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Fiesta a la Colombiana",
-        "url": "https://open.spotify.com/album/7JYeyBox4EWUvB6Wl8CHnj"
+        "name": "Sue\u00f1o Cumplido",
+        "url": "https://open.spotify.com/album/1gF6aBVQUo0kf76juna4fz"
       },
       "artists": [
         {
-          "name": "Luis Lambis",
-          "url": "https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5"
+          "name": "La Banda De Lechuga",
+          "url": "https://open.spotify.com/artist/4fILEHnYOJmHI2Z1VhuWLZ"
         }
       ],
-      "duration_ms": 233519,
-      "name": "Le Hace Falta un Beso",
-      "url": "https://open.spotify.com/track/2l6muDVPIFFw4egn7DeDjz"
+      "duration_ms": 190800,
+      "name": "Te Vi",
+      "url": "https://open.spotify.com/track/0Czh7yRIgkTJfM9Ju4QY88"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Sa, Za...Sabor",
+        "url": "https://open.spotify.com/album/1FEdWlYk1Sncb8j3WJTO06"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia",
+          "url": "https://open.spotify.com/artist/1JBqDQ2nqzGdgOEv7f4Gev"
+        }
+      ],
+      "duration_ms": 217293,
+      "name": "Ya lleg\u00f3 el sabor",
+      "url": "https://open.spotify.com/track/5BG9WgcEpgdC8dLZIA8CTj"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -759,34 +743,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Sin Remedio",
-        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
+        "name": "Fiesta a la Colombiana",
+        "url": "https://open.spotify.com/album/7JYeyBox4EWUvB6Wl8CHnj"
       },
       "artists": [
         {
-          "name": "Damas Gratis",
-          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+          "name": "Luis Lambis",
+          "url": "https://open.spotify.com/artist/6ouwZ3vbVnP5WIwEMurzJ5"
         }
       ],
-      "duration_ms": 299426,
-      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
-      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "A Morir",
-        "url": "https://open.spotify.com/album/5zlUl4R0tqxC6GUlYemOZy"
-      },
-      "artists": [
-        {
-          "name": "Am\u00e9rico",
-          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
-        }
-      ],
-      "duration_ms": 232515,
-      "name": "Entre el Odio y el Amor",
-      "url": "https://open.spotify.com/track/1TmHJBYmcbLzUCpJbYCfRp"
+      "duration_ms": 233519,
+      "name": "Le Hace Falta un Beso",
+      "url": "https://open.spotify.com/track/2l6muDVPIFFw4egn7DeDjz"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -807,6 +775,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "A Morir",
+        "url": "https://open.spotify.com/album/5zlUl4R0tqxC6GUlYemOZy"
+      },
+      "artists": [
+        {
+          "name": "Am\u00e9rico",
+          "url": "https://open.spotify.com/artist/6eUAVH8tSq8WSJGPLeDN9c"
+        }
+      ],
+      "duration_ms": 232515,
+      "name": "Entre el Odio y el Amor",
+      "url": "https://open.spotify.com/track/1TmHJBYmcbLzUCpJbYCfRp"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "Cumbia Nena",
         "url": "https://open.spotify.com/album/0bD7aJOQVENKQFq0ayzh9y"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 186986,
       "name": "Explicale",
       "url": "https://open.spotify.com/track/3lTKmLEuJl8rj68ojwjoK5"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
+        "name": "Sin Remedio",
+        "url": "https://open.spotify.com/album/3C7wJlpB5i90gaL1XBvwcT"
+      },
+      "artists": [
+        {
+          "name": "Damas Gratis",
+          "url": "https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV"
+        }
+      ],
+      "duration_ms": 299426,
+      "name": "Mir\u00e1 Como Est\u00e1 La Vagancia",
+      "url": "https://open.spotify.com/track/5CmYHW6tHT8tPbLef7mjBP"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -855,6 +855,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Amor Entre S\u00e1banas",
+        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+      },
+      "artists": [
+        {
+          "name": "La Noche",
+          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+        }
+      ],
+      "duration_ms": 201827,
+      "name": "Amor Sobre 4 Ruedas",
+      "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "Feliz Con Verte",
         "url": "https://open.spotify.com/album/7AtlscIZYhaka5YkQcwWph"
       },
@@ -875,18 +891,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Amor Entre S\u00e1banas",
-        "url": "https://open.spotify.com/album/0TKpSJvxQTxePOFcN9Tj50"
+        "name": "Iconos Kitsch",
+        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
       },
       "artists": [
         {
-          "name": "La Noche",
-          "url": "https://open.spotify.com/artist/74RYbbIHke18VFvcsP2iD9"
+          "name": "Los Vikings 5",
+          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
         }
       ],
-      "duration_ms": 201827,
-      "name": "Amor Sobre 4 Ruedas",
-      "url": "https://open.spotify.com/track/2ITePMEKaSYFFoD9Lc3z4f"
+      "duration_ms": 209005,
+      "name": "Boquita De Caramelo",
+      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -967,22 +983,6 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Iconos Kitsch",
-        "url": "https://open.spotify.com/album/20lnY27K2DUJAR5WMbVfME"
-      },
-      "artists": [
-        {
-          "name": "Los Vikings 5",
-          "url": "https://open.spotify.com/artist/2Z7XpwcKmrsYyXZw1SqyZ7"
-        }
-      ],
-      "duration_ms": 209005,
-      "name": "Boquita De Caramelo",
-      "url": "https://open.spotify.com/track/5qO03VRi0VQ3TVVGSE0QwJ"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
         "name": "El Sonido Inconfundible",
         "url": "https://open.spotify.com/album/58pWXPdguofh0hAAXzbVqr"
       },
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Moral Distra\u00edda",
+        "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
+      },
+      "artists": [
+        {
+          "name": "Moral Distraida",
+          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
+        }
+      ],
+      "duration_ms": 198173,
+      "name": "El Men\u00fa",
+      "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "Una Cerveza RMX",
         "url": "https://open.spotify.com/album/38AGkC9ZE88AFQCSeFjqjX"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 181619,
       "name": "Una Cerveza RMX",
       "url": "https://open.spotify.com/track/0DaZGaU25mPJZEnrNuloLc"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Moral Distra\u00edda",
-        "url": "https://open.spotify.com/album/3DJRdHtWaZNJLiJHG7b1jx"
-      },
-      "artists": [
-        {
-          "name": "Moral Distraida",
-          "url": "https://open.spotify.com/artist/4IdI1p8OrVpot6dbdCl3wv"
-        }
-      ],
-      "duration_ms": 198173,
-      "name": "El Men\u00fa",
-      "url": "https://open.spotify.com/track/4gpk5y4EPsHFak0ORjOl5l"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
+        "name": "Veneno Para Olvidar",
+        "url": "https://open.spotify.com/album/3jWy2ZHjzyNmX38j7v4pbk"
+      },
+      "artists": [
+        {
+          "name": "Megapuesta",
+          "url": "https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2"
+        }
+      ],
+      "duration_ms": 232960,
+      "name": "Veneno Para Olvidar",
+      "url": "https://open.spotify.com/track/093BkdHzJ10bqUbXbdA09u"
+    },
+    {
+      "added_at": "2026-09-04 18:44:34",
+      "album": {
         "name": "Mariposa Del Dolor",
         "url": "https://open.spotify.com/album/3coxrERAYGVAsq0GnnC7zg"
       },
@@ -1227,22 +1243,6 @@
       "duration_ms": 253070,
       "name": "Mariposa Del Dolor",
       "url": "https://open.spotify.com/track/3OO8pvK6Bo04vXmZzSCKTV"
-    },
-    {
-      "added_at": "2026-09-04 18:44:34",
-      "album": {
-        "name": "Veneno Para Olvidar",
-        "url": "https://open.spotify.com/album/3jWy2ZHjzyNmX38j7v4pbk"
-      },
-      "artists": [
-        {
-          "name": "Megapuesta",
-          "url": "https://open.spotify.com/artist/2u70zmwJlNfRR89itoO8j2"
-        }
-      ],
-      "duration_ms": 232960,
-      "name": "Veneno Para Olvidar",
-      "url": "https://open.spotify.com/track/093BkdHzJ10bqUbXbdA09u"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1671,8 +1671,8 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Adi\u00f3s Amor / Oye Mujer",
-        "url": "https://open.spotify.com/album/0BfSiRWo0RiAGhKowhcrxn"
+        "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+        "url": "https://open.spotify.com/album/0BmRinej1BC9Dk6AmpY6ND"
       },
       "artists": [
         {
@@ -1680,9 +1680,9 @@
           "url": "https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM"
         }
       ],
-      "duration_ms": 407573,
-      "name": "Adi\u00f3s Amor / Oye Mujer",
-      "url": "https://open.spotify.com/track/0hvsOvo1zARlNnmHNhrxIF"
+      "duration_ms": 428438,
+      "name": "Si No Te Tengo / \u00c1ngel / Aquello Que Pas\u00f3",
+      "url": "https://open.spotify.com/track/1fKFxmSByZfjwVSbq0PHye"
     },
     {
       "added_at": "2026-09-04 18:44:34",
@@ -1739,18 +1739,18 @@
     {
       "added_at": "2026-09-04 18:44:34",
       "album": {
-        "name": "Grandes Exitos",
-        "url": "https://open.spotify.com/album/3Sgf6BKnsUYi1NhceV8Xgf"
+        "name": "Sue\u00f1o Su Boca",
+        "url": "https://open.spotify.com/album/73aIXXhkTKeQ4fz72gVcrr"
       },
       "artists": [
         {
-          "name": "Grupo Hechizo Chile",
-          "url": "https://open.spotify.com/artist/0vPUBMfIYujmPFD1OwdfTM"
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
         }
       ],
-      "duration_ms": 210285,
-      "name": "No Te Dejes",
-      "url": "https://open.spotify.com/track/1wxtqsneeTjeuUa86ZE6zX"
+      "duration_ms": 356938,
+      "name": "La Santa Diabla",
+      "url": "https://open.spotify.com/track/4FeUB6lhoT0Z3e43IHD4F8"
     }
   ],
   "unique_name": "Cumbias para carretear",

@@ -7682,7 +7682,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 104096,
       "name": "Kater",
       "url": "https://open.spotify.com/track/2ouSd5eDDawCVxFHXEPGUd"
@@ -12834,7 +12834,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 131000,
       "name": "Quiet Growth",
       "url": "https://open.spotify.com/track/7rRZuZcvk2pPX0tcJWUoHb"
@@ -13856,7 +13856,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 129210,
       "name": "Simple Things",
       "url": "https://open.spotify.com/track/0jiHFSq49GpQ9BPhFeAuS4"
@@ -15640,7 +15640,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 117098,
       "name": "Sunleap",
       "url": "https://open.spotify.com/track/55C8M6ov4fk2n4SPt0kXzj"
@@ -15794,6 +15794,24 @@
       "duration_ms": 152937,
       "name": "Superglue",
       "url": "https://open.spotify.com/track/71o5d6HO6CdRW899OkB0e1"
+    },
+    {
+      "album": {
+        "name": "SUPREME",
+        "url": "https://open.spotify.com/album/7fl0RFgHMzpmBXwG6wkP6z"
+      },
+      "artists": [
+        {
+          "name": "Illuzionary",
+          "url": "https://open.spotify.com/artist/2o46d078sJRWBz2evc0WFx"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 114626,
+      "name": "SUPREME",
+      "url": "https://open.spotify.com/track/6Yqwc5lQ0BNTfIpEWIO3aF"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > We got you! Den bedste nye pop er samlet her\. Emme Sehested Høeg på cover ☀️
 
-1,011 songs - 2 day 3 hr 30 min
+1,011 songs - 2 day 3 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -470,6 +470,7 @@
 | [If u kno u kno \(feat\. Karoline Mousing\)](https://open.spotify.com/track/4baTMQfOgmcWJwzYHXM0rf) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [If u kno u kno](https://open.spotify.com/album/4dQO15Lp6hWvl2BhW6gvCx) | 2:25 | 2026-01-01 | 2026-08-21 |
 | [igen & igen](https://open.spotify.com/track/2SVbXLbEe7rxCrY0Poizv2) | [Asta Brix](https://open.spotify.com/artist/7jdou2ayaa86lDotGOCwpg) | [igen & igen](https://open.spotify.com/album/4AQTk0vuTbLMicdkQuWZfI) | 2:31 | 2026-03-05 | 2026-08-21 |
 | [igen & igen](https://open.spotify.com/track/2r3BQc8MFSCpHXmnepCJDd) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [One Two](https://open.spotify.com/artist/0b4zEyqVkKTcrrZbzw7Rl5) | [igen & igen](https://open.spotify.com/album/74Zmt6oaCyu0RKvlnlVxMj) | 2:44 | 2025-03-27 | 2026-02-06 |
+| [Ik Giv Slip](https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 2:53 | 2026-09-17 |  |
 | [Ik Tænk Twice](https://open.spotify.com/track/6yjI0tbfhbqv8qMP9diEin) | [Bette](https://open.spotify.com/artist/4gepV1NXit1T15YxX0Bv27) | [Ik Tænk Twice](https://open.spotify.com/album/5nZTkrieTKTclZw5IhpZw5) | 2:53 | 2025-06-06 | 2025-08-01 |
 | [Ikke Interesseret](https://open.spotify.com/track/6bXpGUSFMWneAq2DknMUFe) | [Laura Vejlby](https://open.spotify.com/artist/4V4WZwkKxV8Y2u5GVF3cIJ) | [Ikke Interesseret](https://open.spotify.com/album/6ImOq4vf1VXya1EwblUK8f) | 2:40 | 2026-06-19 |  |
 | [In The Morning](https://open.spotify.com/track/5RgcK50B5BvMJIzfHhrg47) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [In The Morning](https://open.spotify.com/album/3jjyM2Fbo4U66mSxnV7NeM) | 3:56 | 2025-09-25 | 2025-10-17 |
@@ -906,7 +907,6 @@
 | [To Love Somebody](https://open.spotify.com/track/17LuVd2gBc7UvcgZbm1cFV) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [To Love Somebody](https://open.spotify.com/album/0YZQHiFydiWcBpISxOCFdc) | 3:57 | 2026-01-22 | 2026-02-20 |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-27 | 2024-07-30 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-01-24 |
-| [Track 6](https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 0:00 | 2026-09-17 |  |
 | [Trampoline](https://open.spotify.com/track/1seCBPXlQclXNQbDmjWAsQ) | [Nicklas Sahl](https://open.spotify.com/artist/3k785W4GFDnZfTortQlhMA) | [Trampoline](https://open.spotify.com/album/1vkq5KBggKzpt7P6ZETmJb) | 3:21 | 2025-05-22 | 2025-06-27 |
 | [Trip Trip](https://open.spotify.com/track/7dFT2thcuAmKMC59rRuZ9A) | [BBYBITES](https://open.spotify.com/artist/3PZ4vwOarmd1QJil6kY3SW) | [Bby's Corner](https://open.spotify.com/album/2fOY9CevU5A47Rs5kp82cr) | 3:21 | 2025-10-02 | 2025-10-17 |
 | [Tristan & Isolde](https://open.spotify.com/track/361guhUskLY7XA6X178aEk) | [Hans Philip](https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C) | [Honey](https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf) | 4:50 | 2025-10-02 | 2026-08-21 |

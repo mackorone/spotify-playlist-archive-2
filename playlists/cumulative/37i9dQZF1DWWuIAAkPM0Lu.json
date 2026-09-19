@@ -4451,6 +4451,24 @@
     },
     {
       "album": {
+        "name": "It's Only Heaven",
+        "url": "https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ"
+      },
+      "artists": [
+        {
+          "name": "Morabeza Tobacco",
+          "url": "https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158332,
+      "name": "A Time A Place",
+      "url": "https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI"
+    },
+    {
+      "album": {
         "name": "A Very Bad Dream",
         "url": "https://open.spotify.com/album/1SdRfY8KowS3NXIlofAUsc"
       },
@@ -77215,6 +77233,28 @@
     },
     {
       "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
+    },
+    {
+      "album": {
         "name": "Get Go",
         "url": "https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ"
       },
@@ -89458,6 +89498,28 @@
       "duration_ms": 115992,
       "name": "HERINDE",
       "url": "https://open.spotify.com/track/5uFR1ikFl6KiYsemNzPr0v"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134600,
+      "name": "Herinde",
+      "url": "https://open.spotify.com/track/6P0NSsp88qTFhRfOfrhbWd"
     },
     {
       "album": {
@@ -105728,6 +105790,28 @@
       "duration_ms": 136551,
       "name": "Ik Er Her.",
       "url": "https://open.spotify.com/track/0TzGNfAXYBWpbo5YqCchM2"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173547,
+      "name": "Ik Giv Slip",
+      "url": "https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt"
     },
     {
       "album": {
@@ -123856,6 +123940,24 @@
       "duration_ms": 261831,
       "name": "LILLE BITTE",
       "url": "https://open.spotify.com/track/2rGTfsNe3kwCLY5XcJcml5"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175473,
+      "name": "Lille Hjerte",
+      "url": "https://open.spotify.com/track/1nLkggtWWFH9JG8RbZurA2"
     },
     {
       "album": {
@@ -212479,96 +212581,6 @@
     },
     {
       "album": {
-        "name": "LOST DISC",
-        "url": "https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A"
-      },
-      "artists": [
-        {
-          "name": "Pocket",
-          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
-    },
-    {
-      "album": {
-        "name": "Verden Er Din",
-        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt"
-    },
-    {
-      "album": {
-        "name": "Verden Er Din",
-        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/1nLkggtWWFH9JG8RbZurA2"
-    },
-    {
-      "album": {
-        "name": "It's Only Heaven",
-        "url": "https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ"
-      },
-      "artists": [
-        {
-          "name": "Morabeza Tobacco",
-          "url": "https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI"
-    },
-    {
-      "album": {
-        "name": "Verden Er Din",
-        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 9",
-      "url": "https://open.spotify.com/track/6P0NSsp88qTFhRfOfrhbWd"
-    },
-    {
-      "album": {
         "name": "d.a.t.a.d.e.a.t.h.",
         "url": "https://open.spotify.com/album/4enVd9gDj0jRvGRZvyWjhd"
       },
@@ -223057,6 +223069,24 @@
     },
     {
       "album": {
+        "name": "LOST DISC",
+        "url": "https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218651,
+      "name": "WAITING FOR YOU",
+      "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
+    },
+    {
+      "album": {
         "name": "WAITING UP ALL NIGHT",
         "url": "https://open.spotify.com/album/2Jymoj67DLV3dIJ2UceA5R"
       },
@@ -224282,6 +224312,24 @@
       "duration_ms": 181277,
       "name": "Waste My Love",
       "url": "https://open.spotify.com/track/0IfVxQdDSnf43WjS38gVSt"
+    },
+    {
+      "album": {
+        "name": "Waste My Tears",
+        "url": "https://open.spotify.com/album/0RIDUo6VfxAwdsLIT8j4bx"
+      },
+      "artists": [
+        {
+          "name": "James Arthur",
+          "url": "https://open.spotify.com/artist/4IWBUUAFIplrNtaOHcJPRM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179583,
+      "name": "Waste My Tears",
+      "url": "https://open.spotify.com/track/42OehPSUvy7glthEAG0QOr"
     },
     {
       "album": {

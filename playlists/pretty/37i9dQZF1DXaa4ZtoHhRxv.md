@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 
 > your honky tonk meets club playlist 🤠🪩 featuring Diplo
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,049 likes - 100 songs - 4 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,135 likes - 100 songs - 4 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 2 | [Don't You Blink](https://open.spotify.com/track/5wzWnclLk0dNnd405P0pM0) | [Two Friends](https://open.spotify.com/artist/44Ewva5aHOX00EwaX2D2mh), [Tyler Braden](https://open.spotify.com/artist/63wjVVauFUQ4gBw6QXTT5N), [Lindsey Stirling](https://open.spotify.com/artist/378dH6EszOLFShpRzAQkVM) | [Big Boots](https://open.spotify.com/album/4EmuD8QXF5QzsjDcSWxI1i) | 3:43 |
 | 3 | [Remember Us \(feat\. Dustin Lynch\)](https://open.spotify.com/track/2Eg4pK9k0XxiJsta9Q8MrO) | [Frank Walker](https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq), [Dustin Lynch](https://open.spotify.com/artist/1dID9zgn0OV0Y8ud7Mh2tS) | [OASIS](https://open.spotify.com/album/5Wmypry9sRXgIZT5wdqkQq) | 2:50 |
 | 4 | [A Bar Song \(Tipsy\) \[Remix}](https://open.spotify.com/track/5yr1JLt5hokAyU8NBr75jr) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai) | [A Bar Song \(Tipsy\) \[Remix\]](https://open.spotify.com/album/0oNjcrEbdpkDuDYypawNah) | 2:43 |
-| 5 | [CHOOSIN’ TEXAS \(Feat\. DINER\)](https://open.spotify.com/track/3CxxfN4YdbcSJ3tu1p5Rfp) | [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [DINER](https://open.spotify.com/artist/7dvHlnKgD5EWy243QylvvC) | [CHOOSIN’ TEXAS \(Feat\. DINER\)](https://open.spotify.com/album/1vcsirZc8GNyIBC1hpGwS4) | 2:13 |
+| 5 | [CHOOSIN’ TEXAS](https://open.spotify.com/track/3CxxfN4YdbcSJ3tu1p5Rfp) | [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3), [DINER](https://open.spotify.com/artist/7dvHlnKgD5EWy243QylvvC) | [CHOOSIN’ TEXAS](https://open.spotify.com/album/1vcsirZc8GNyIBC1hpGwS4) | 2:13 |
 | 6 | [Heaven On Your Mind](https://open.spotify.com/track/6CfTOBRp1sgG8xY97RsUWS) | [Kygo](https://open.spotify.com/artist/23fqKkggKUBHNkbKtXEls4), [Dan Tyminski](https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8) | [Heaven On Your Mind](https://open.spotify.com/album/1oPqsnINC8uvqs1MfxZNez) | 3:44 |
 | 7 | [Drinkin’ Problem \- Country Night Remix](https://open.spotify.com/track/4S7VVsQ9pUyelFuAfV3KlY) | [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi), [Country Night](https://open.spotify.com/artist/5Q520C8g8SdHdWVjw4SEU3) | [Midland \- Country Night Remixes](https://open.spotify.com/album/5f76YO2fVNooew3UEuoSBB) | 2:21 |
 | 8 | [Two Steppin’ \(feat\. Adrien Nunez\)](https://open.spotify.com/track/6fOMrE0rA2XMbSaO3Wku0h) | [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [Two Steppin’ \(feat\. Adrien Nunez\)](https://open.spotify.com/album/3TFX3h1hQwlkMoQ0ZCH16W) | 2:19 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaa4ZtoHhRxv.md) - [plain]
 | 99 | [Hold You Tonight \(with Chris Lane\)](https://open.spotify.com/track/58jecLK0epwMLr9cy5vFUy) | [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh), [Chris Lane](https://open.spotify.com/artist/68abRTdO4meYReMWHvBYb0) | [Hold You Tonight \(with Chris Lane\)](https://open.spotify.com/album/3jpi8V1xyAiNNiheqa6Rl5) | 3:39 |
 | 100 | [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/track/5hSJLszS7QUMQbVT3cwfEo) | [Dylan Scott](https://open.spotify.com/artist/78YqeIji3mgAS2K1Maca6x), [VAVO](https://open.spotify.com/artist/44re77WwNG34C182Jq3WIK) | [This Town's Been Too Good To Us \(VAVO Remix\)](https://open.spotify.com/album/15NlctqXysjYS5fFGACncz) | 2:44 |
 
-Snapshot ID: `AAAAAKGa1AdWFiR3hdAYrhtyvUfN8h2X`
+Snapshot ID: `AAAAALl1SFzaQ2v/FanpwEIP0JrnLqMM`

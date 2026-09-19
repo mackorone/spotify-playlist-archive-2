@@ -1276,7 +1276,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 147083,
       "name": "Bad Habits",
       "url": "https://open.spotify.com/track/2lEnm8Q9kw7Cz12xYC1GLb"
@@ -2540,7 +2540,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 119995,
       "name": "Chakka Jam",
       "url": "https://open.spotify.com/track/51lrp24rUnfuilT7RsJ8SJ"
@@ -3502,7 +3502,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 197647,
       "name": "Crash & Run",
       "url": "https://open.spotify.com/track/3KC5esKqh1ZJvz0tCc7PWu"
@@ -5316,6 +5316,24 @@
       "duration_ms": 133636,
       "name": "Gaadi Me Jaat",
       "url": "https://open.spotify.com/track/3dTg3Iu1vyuj3QIRupY52r"
+    },
+    {
+      "album": {
+        "name": "Gaama Aale",
+        "url": "https://open.spotify.com/album/5Pc9vGznhONkPVm0G6JQsD"
+      },
+      "artists": [
+        {
+          "name": "Bhanu Rao",
+          "url": "https://open.spotify.com/artist/1Bu9yu7MJLjW4QDM176qdR"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "Gaama Aale",
+      "url": "https://open.spotify.com/track/7ofDpfC0O60dTHOzx3IDK3"
     },
     {
       "album": {
@@ -8094,10 +8112,28 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 145578,
       "name": "kasai",
       "url": "https://open.spotify.com/track/0EbGK2QO1o7goHuq3FIcof"
+    },
+    {
+      "album": {
+        "name": "Katana",
+        "url": "https://open.spotify.com/album/4BkKyC8IUMeJQHQ8vSFcIT"
+      },
+      "artists": [
+        {
+          "name": "PANJETA",
+          "url": "https://open.spotify.com/artist/5aDlllQePpCiUfrFNeKEDR"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143047,
+      "name": "Katana",
+      "url": "https://open.spotify.com/track/0fsbP93NxoJBbTdVvCBMGv"
     },
     {
       "album": {
@@ -10680,7 +10716,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 117445,
       "name": "Ok Report",
       "url": "https://open.spotify.com/track/2WCH6Est3Te0Z57O0qYFdM"
@@ -11023,6 +11059,28 @@
     },
     {
       "album": {
+        "name": "Paisa Phek",
+        "url": "https://open.spotify.com/album/4n9taA5qyR2AiaIrQcCE3v"
+      },
+      "artists": [
+        {
+          "name": "Anurag Ranga",
+          "url": "https://open.spotify.com/artist/6gK3DtQWcbmcDwIH46HAiK"
+        },
+        {
+          "name": "Bosco Martis",
+          "url": "https://open.spotify.com/artist/5qVpAfbVV2piAEmvBN6lM3"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226132,
+      "name": "Paisa Phek",
+      "url": "https://open.spotify.com/track/2LzTzRIXMquLVwYP64rGtt"
+    },
+    {
+      "album": {
         "name": "Still Breathing",
         "url": "https://open.spotify.com/album/2EaUAUdLHPm4e9A3oqBQbm"
       },
@@ -11235,6 +11293,28 @@
     },
     {
       "album": {
+        "name": "Four Sins",
+        "url": "https://open.spotify.com/album/5AR4Lg2xoaHphPf69qgeyI"
+      },
+      "artists": [
+        {
+          "name": "Old Sinners",
+          "url": "https://open.spotify.com/artist/6uN0yKoOoelg1X2GnSj35s"
+        },
+        {
+          "name": "Aniket Jain",
+          "url": "https://open.spotify.com/artist/3CenMXEd3ei2rZZ3k9bWQH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162532,
+      "name": "Pimp",
+      "url": "https://open.spotify.com/track/4fUopVCbWfVK7XPys71UfW"
+    },
+    {
+      "album": {
         "name": "Pinball (Mafioso Chapter 1)",
         "url": "https://open.spotify.com/album/6vXXmSq4bxzyfu4g2HJulg"
       },
@@ -11364,6 +11444,28 @@
       "duration_ms": 173999,
       "name": "Power",
       "url": "https://open.spotify.com/track/2QPQ4mqVJRVxqi1vGlFiXw"
+    },
+    {
+      "album": {
+        "name": "Prem Ragni",
+        "url": "https://open.spotify.com/album/2VWV8OgYpgLDBjtBmkahhQ"
+      },
+      "artists": [
+        {
+          "name": "Akash Andaaz",
+          "url": "https://open.spotify.com/artist/54eQ83Cj2RBSDZz2rapkl5"
+        },
+        {
+          "name": "Balram Baisla",
+          "url": "https://open.spotify.com/artist/1LEwA0hsFupxLwNt8pPg0s"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185380,
+      "name": "Prem Ragni",
+      "url": "https://open.spotify.com/track/093LKOhtsJgsVwq1QwBxGe"
     },
     {
       "album": {
@@ -11634,7 +11736,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 155294,
       "name": "Ram Thaada Meharbaan",
       "url": "https://open.spotify.com/track/0OG4IDHrDRxtupl2fmazCm"
@@ -12143,6 +12245,28 @@
     },
     {
       "album": {
+        "name": "Russian Toys",
+        "url": "https://open.spotify.com/album/7kQPNDk7EeD34SqopoQ6o5"
+      },
+      "artists": [
+        {
+          "name": "Fanish",
+          "url": "https://open.spotify.com/artist/5HIoB88Vvw3q7mhm8UJZ61"
+        },
+        {
+          "name": "Aryan Rajput",
+          "url": "https://open.spotify.com/artist/5QzTH0Nby5p9T3Z7OipmlN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183518,
+      "name": "Russian Toys",
+      "url": "https://open.spotify.com/track/6dZopjLrQwNaqKGi7MMku2"
+    },
+    {
+      "album": {
         "name": "Rutba",
         "url": "https://open.spotify.com/album/7e4GZ6RqUXdbY5KrBctbuf"
       },
@@ -12154,7 +12278,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 193201,
       "name": "Rutba",
       "url": "https://open.spotify.com/track/72k6qzK3xph0ZaiY43dCaw"
@@ -12933,6 +13057,24 @@
     },
     {
       "album": {
+        "name": "Still Standing",
+        "url": "https://open.spotify.com/album/4av65ID6niZILF5PyzEEXE"
+      },
+      "artists": [
+        {
+          "name": "Tushar Kaushik",
+          "url": "https://open.spotify.com/artist/15X6iaWHszKPoHPwoGG0bY"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165055,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/3JaOlHlcLmYRELnxzyIMYL"
+    },
+    {
+      "album": {
         "name": "Stock",
         "url": "https://open.spotify.com/album/01eLHSYcmafJra1YN2mCg2"
       },
@@ -13421,6 +13563,28 @@
     },
     {
       "album": {
+        "name": "Teeri Khaa",
+        "url": "https://open.spotify.com/album/5BdVTEDQbLEddbhJ9k38iy"
+      },
+      "artists": [
+        {
+          "name": "Konark",
+          "url": "https://open.spotify.com/artist/6QyYqYnXxSHnOWsaYraYIv"
+        },
+        {
+          "name": "INFRNO",
+          "url": "https://open.spotify.com/artist/741WSQVcf6R4RqzDVXb3hU"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206244,
+      "name": "Teeri Khaa",
+      "url": "https://open.spotify.com/track/3JNbOn8w2Q0XyIeWAQOPUf"
+    },
+    {
+      "album": {
         "name": "Tell Me",
         "url": "https://open.spotify.com/album/4DrMykT2LZZkxAuCq9fCVz"
       },
@@ -13436,7 +13600,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 166486,
       "name": "Tell Me",
       "url": "https://open.spotify.com/track/61BSrgSdXnCF71vfis0zCY"

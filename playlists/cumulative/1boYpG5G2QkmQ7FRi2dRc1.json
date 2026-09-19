@@ -61117,6 +61117,32 @@
     },
     {
       "album": {
+        "name": "Turn Up The Speakers (Julian Jordan Remix)",
+        "url": "https://open.spotify.com/album/3ls2ibRNHUJwcwQLkGYWFk"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156489,
+      "name": "Turn Up The Speakers - Julian Jordan Remix",
+      "url": "https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM"
+    },
+    {
+      "album": {
         "name": "Afterglow FM",
         "url": "https://open.spotify.com/album/5UCHZ2Bbf5kicl2AQSapTz"
       },

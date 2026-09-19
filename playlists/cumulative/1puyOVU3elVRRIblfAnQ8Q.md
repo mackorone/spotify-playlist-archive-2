@@ -4,7 +4,7 @@
 
 > Celebrating 10 Years of Deadbeats\. <a href="https://shop.deadbeats.com">Shop the collection now</a>
 
-301 songs - 17 hr 15 min
+302 songs - 17 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,6 +117,7 @@
 | [FULL SEND](https://open.spotify.com/track/7uSupgnScNSahebyEiRitY) | [Jantsen](https://open.spotify.com/artist/6rhTnHtyVcRrtuzS1wnLZg), [Ravenscoon](https://open.spotify.com/artist/7vfvYuEyJbh1Tf3QlOTAmZ) | [FULL SEND](https://open.spotify.com/album/1kvJVniw82d9loGIZRDKKH) | 3:31 | 2026-03-16 | 2026-07-01 |
 | [Function](https://open.spotify.com/track/48KGR8WF4VcJAPg2w38B8T) | [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg), [SOH SOH](https://open.spotify.com/artist/57bZARCXfFj5fkB5BxHzfs) | [Function](https://open.spotify.com/album/3Je3eKWetXLlHlL2sna87F) | 3:04 | 2024-08-05 | 2024-08-24 |
 | [Genesis](https://open.spotify.com/track/7I3qlmrHP7vm0v86enuRmX) | [Phrva](https://open.spotify.com/artist/2gUjbFSv34ZRVw5qkwKTO7) | [Genesis EP](https://open.spotify.com/album/2q2gG71q8GdxvjCDQVRoGq) | 3:12 | 2025-10-28 | 2026-03-17 |
+| [Get Dark](https://open.spotify.com/track/0iWMV1PjHlhClsvdGyuQvS) | [Zero](https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH), [Killa P](https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ) | [14ZERO V2](https://open.spotify.com/album/2IRS9qLBd27Wp824FxnZqw) | 4:12 | 2026-09-18 |  |
 | [Get Wompy](https://open.spotify.com/track/3JFbLpgf57vGArmdFULXNB) | [SIPPY](https://open.spotify.com/artist/4LLYqe8ogaK9wC1xHlvR5S) | [Get Wompy](https://open.spotify.com/album/7I7SUHapYZwLjzQB9Whcu6) | 2:33 | 2023-07-26 | 2023-11-09 |
 | [GLITCH](https://open.spotify.com/track/3C3ZOzxGQtu4V1uxCmI799) | [ALLEYCVT](https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1) | [GLITCH](https://open.spotify.com/album/50G2j1uk3yF53mzZjxDeJC) | 3:56 | 2023-11-08 | 2024-08-24 |
 | [GOOD 4 U](https://open.spotify.com/track/01d0mVYKVR8OLH3pWsXiNc) | [Gentlemens Club](https://open.spotify.com/artist/58MEqEE2029jp6KTWTt1hO), [MPH](https://open.spotify.com/artist/62SCu33InHVq97VaWw3eof) | [GOOD 4 U](https://open.spotify.com/album/394BCnGgzVk4bS5yG3XNkR) | 2:40 | 2024-12-06 | 2025-10-29 |

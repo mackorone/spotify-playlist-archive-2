@@ -4,11 +4,12 @@
 
 > Get ready to party met deze ultieme DANCE Party Mix Playlist!
 
-171 songs - 8 hr 39 min
+173 songs - 8 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24 Hours](https://open.spotify.com/track/3xucyI8yC8RNSaE5QOeFxB) | [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd), [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [24 Hours](https://open.spotify.com/album/6h8MihL1baSyYITmOxrIxP) | 3:17 | 2026-05-22 |  |
+| [2LOUD](https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE) | [REI AMI](https://open.spotify.com/artist/6U1dV7aL68N7Gb0Naq34V5) | [2LOUD](https://open.spotify.com/album/2ULR4Fp8Fl8w8Lv3ND6ADi) | 2:30 | 2026-09-18 |  |
 | [ACID](https://open.spotify.com/track/6j3SjLAuZntLvBCrxKbEbZ) | [GLINTSAL](https://open.spotify.com/artist/3g1uSwnMu9jepMyNjTp4pY), [FAISAL](https://open.spotify.com/artist/7rGmBEwMg0OJvkd2JhKRV1), [Glints](https://open.spotify.com/artist/2AQbD4TyJYG1QUGEoD2vta) | [ACID](https://open.spotify.com/album/0kCqQwMjVwkzjlRXYM3jGX) | 3:48 | 2025-07-04 | 2025-09-13 |
 | [Actin' Tough](https://open.spotify.com/track/507j66jaEEUU11uFSTOHFM) | [Dean Turnley](https://open.spotify.com/artist/3BcWcwYXVjvLWHMGKsuvsd) | [Actin' Tough](https://open.spotify.com/album/0lL98VdijOX8PAeg6sl8MZ) | 3:07 | 2026-03-30 |  |
 | [Ain't No Party](https://open.spotify.com/track/4OjT5tTYsmQl29oQT6OHab) | [Lance Savali](https://open.spotify.com/artist/3BJfXq3PuHFiHrD6PcfpCd) | [Ain't No Party](https://open.spotify.com/album/3WEW6RrQrhxOB0wdlU6mGb) | 3:05 | 2025-11-07 |  |
@@ -128,6 +129,7 @@
 | [Okay \- NLS Remix](https://open.spotify.com/track/2CRjQBN348ZpCjPYgaPfft) | [JONI](https://open.spotify.com/artist/0Yg1QOck4SWkHWHTtlNGLS), [Niels Zuiderhoek](https://open.spotify.com/artist/49W5oCV16Ilhs7lxYNtSrq) | [Okay](https://open.spotify.com/album/30YJMJIXvMbS7cEc51kE0h) | 2:54 | 2025-07-04 | 2026-08-08 |
 | [On & On](https://open.spotify.com/track/2B0xsnWUjm7cPLs9gGoepp) | [Sub Focus](https://open.spotify.com/artist/0QaSiI5TLA4N7mcsdxShDO), [bbyclose](https://open.spotify.com/artist/2UNjfzEkfsdWVDwnuD6vdH) | [On & On](https://open.spotify.com/album/4MkZ4elzb1iHTMmzyYh1Jc) | 3:04 | 2025-07-04 | 2026-02-21 |
 | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/track/6YYg1yA4raAeDzixJfITnb) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [EJAE](https://open.spotify.com/artist/0RMJOzHDhAKY1o2j0W0vxY) | [Out Of My Body \(feat\. EJAE\)](https://open.spotify.com/album/2YidFYtb1VSsHdzodpnBIx) | 2:39 | 2025-12-19 |  |
+| [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 | 2026-09-18 |  |
 | [Pedicure Princess](https://open.spotify.com/track/4z510xfhROCrnpDU28jnLB) | [Hannah Laing](https://open.spotify.com/artist/1QEd635szhierW6gzRiS1o) | [Into The Bounce](https://open.spotify.com/album/1J4ck23JjAzM8AycwW5lgH) | 3:15 | 2025-07-04 | 2025-11-22 |
 | [Positions](https://open.spotify.com/track/3nnStd7PMGgrN0tfmdhv3j) | [Stryv](https://open.spotify.com/artist/6XjgqvaVLUib6lCerbZrYD), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk) | [Positions](https://open.spotify.com/album/3PrRNJ8J2SsqlPjjNvDeah) | 2:28 | 2025-07-04 | 2025-09-13 |
 | [PRIDE](https://open.spotify.com/track/7DFBKsaJieWr5DgWezzlOO) | [Felix Jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [JHart](https://open.spotify.com/artist/6oSTtYd3B3OJubFU8mVhHQ) | [PRIDE](https://open.spotify.com/album/7Cve4BzHjBQx7JdXURxpaN) | 2:38 | 2025-07-04 | 2025-09-13 |

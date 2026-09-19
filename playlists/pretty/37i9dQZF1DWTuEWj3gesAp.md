@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEWj3gesAp.md) - [plain]
 
 > Get ready for the upcoming festival by listening to the best songs from the festival lineup! \(페스티벌 참가 라인업의 베스트 곡들을 들으며 다가오는 페스티벌을 준비해보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 852 likes - 148 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 855 likes - 148 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -157,4 +157,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTuEWj3gesAp.md) - [plain]
 | 147 | [Wavy](https://open.spotify.com/track/0wH6Nfxdfu0jX9pBGYR1vG) | [Ishmael](https://open.spotify.com/artist/7hrompfctL57NwvR0naYCI), [JAYD](https://open.spotify.com/artist/51f8XtsQ1NqSuxGJOeDvfe) | [MAELROSE](https://open.spotify.com/album/4Qn3NMDXmj9MqQm1ewXOnQ) | 2:28 |
 | 148 | [want u back](https://open.spotify.com/track/52yK72vQvgzuSKjcRuX4ka) | [JAYD](https://open.spotify.com/artist/51f8XtsQ1NqSuxGJOeDvfe), [Mario D.](https://open.spotify.com/artist/37wdA1fQiCW0PrRd6nHRIO), [Carsan](https://open.spotify.com/artist/07UUIlGgGpLwHm2O4k8vHQ), [Pooch](https://open.spotify.com/artist/541igAN8QJUQyIa92Y80jM) | [want u back](https://open.spotify.com/album/3yEPd9XEzOvjeT6nvFkPZJ) | 2:46 |
 
-Snapshot ID: `AAAAANChvVokC8p4MbWgsh/2OHbU0Onc`
+Snapshot ID: `AAAAACiou2c8Z4InQKKnU0a0nr24WePk`

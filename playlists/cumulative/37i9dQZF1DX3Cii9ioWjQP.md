@@ -4,7 +4,7 @@
 
 > All about Korean Jazz hits & new \(Cover: Haewon Moon\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-285 songs - 19 hr 47 min
+286 songs - 19 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,6 +66,7 @@
 | [Continuum](https://open.spotify.com/track/0e0H9w9UvDk5LkqNS4OkSl) | [YUJIN KIM](https://open.spotify.com/artist/5XvMdIgNV79lvoBrUvmUPb) | [Extraordinary](https://open.spotify.com/album/0sNQgCPq9IidNOikkedQJ3) | 6:04 | 2023-11-14 | 2024-11-07 |
 | [COSMONAUT](https://open.spotify.com/track/2UHzboHhUa6xBGtJBZAKRG) | [Sun Kim](https://open.spotify.com/artist/4J0PZFEnEr8Yn6482aEcWY) | [COSMONAUT](https://open.spotify.com/album/5ut5JBpa629u5pRsAHKoDJ) | 5:11 | 2022-05-03 | 2022-05-19 |
 | [Coucou](https://open.spotify.com/track/0X5S0n9710zbQgbMurM45J) | [U.BAR.E](https://open.spotify.com/artist/547Oa355hQl5ynq8QFfmb8) | [Madame Coucou Vol.3](https://open.spotify.com/album/1b27OMnldnCHHcauwsk5T6) | 3:49 | 2025-09-09 |  |
+| [Crispy Toast III](https://open.spotify.com/track/1GhDL61cGMHfPeiq9eAGdc) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Larnell Lewis](https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U), [Oli Hayhurst](https://open.spotify.com/artist/46TzUYALPMYCLkQOiEyox1) | [Crispy Toast](https://open.spotify.com/album/1Lj8a35TwydopNoyZwiyGJ) | 4:28 | 2026-09-18 |  |
 | [Dead End](https://open.spotify.com/track/69F1rfqGeNGhAZVqkyVAZp) | [Jay Kim](https://open.spotify.com/artist/5CKtSMyg3anlcQvTWMrmxf) | [Dead End](https://open.spotify.com/album/4TDJGeuPpmfvd49P7GWCQ8) | 4:16 | 2022-11-11 | 2024-09-20 |
 | [Dear Polar Bears](https://open.spotify.com/track/0fcLigZyZnPz8GOjcibxsl) | [Raon Park](https://open.spotify.com/artist/1rv3Mh0eI0ghrbNOaGGpzd) | [Dear Polar Bears](https://open.spotify.com/album/4rRnrjKpcYpcjwMKmbEozU) | 4:51 | 2023-02-07 | 2024-11-07 |
 | [Desperate](https://open.spotify.com/track/4Bv3tVAF9tnusOb8POzngj) | [Zion](https://open.spotify.com/artist/2m5s6yCAoi5kvykCll3BLU) | [Desperate](https://open.spotify.com/album/2leypAJ4IVrcSHVAw7WQFc) | 3:28 | 2022-05-03 | 2023-02-08 |
@@ -98,7 +99,7 @@
 | [Folding firepot](https://open.spotify.com/track/7GSZVMov9m9UO55csoY8WZ) | [JAZZ DELUXE](https://open.spotify.com/artist/3H8yiLBISn9K5xYWDqW8ZM) | [Camping \#1](https://open.spotify.com/album/4eCz3zgtU464qVb8FRUeib) | 3:00 | 2022-11-11 | 2024-10-10 |
 | [For Sentimental Reasons](https://open.spotify.com/track/1PnnkvCYq5EVnltifNmny7) | [Junggigo](https://open.spotify.com/artist/6zTIxEXFWjoNu2VXauDITb) | [For Sentimental Reasons](https://open.spotify.com/album/6Y9QuBzXGc5hn0zzkl8Le9) | 4:40 | 2024-12-11 |  |
 | [forever](https://open.spotify.com/track/1zgGCWMf6OOh2IP7OmkI03) | [Love recipe](https://open.spotify.com/artist/5N3TjdglYn7FkcNU4Rcyzu) | [First time ..\. ing](https://open.spotify.com/album/5wtn5mvEtk7f1qDqQrE0Ax) | 3:50 | 2022-06-13 | 2024-08-11 |
-| [Glistening Leaves in the Rain](https://open.spotify.com/track/6KUJKvd8ofhwdL1yJOHImH) | [DJ LEE](https://open.spotify.com/artist/4hi2VfhxqYrijrmFQChsx3) | [Stillness on the Rainy Porch](https://open.spotify.com/album/45mp4vE0YTFJMqJ9dVdFC9) | 2:44 | 2026-06-29 |  |
+| [Glistening Leaves in the Rain](https://open.spotify.com/track/6KUJKvd8ofhwdL1yJOHImH) | [DJ LEE](https://open.spotify.com/artist/4hi2VfhxqYrijrmFQChsx3) | [Stillness on the Rainy Porch](https://open.spotify.com/album/45mp4vE0YTFJMqJ9dVdFC9) | 2:44 | 2026-06-29 | 2026-09-19 |
 | [gray hair](https://open.spotify.com/track/65mCrA8bRPqvmlhdFBRzHC) | [U\-jin](https://open.spotify.com/artist/3ho6nC4QjX2r8PyaVyHlCS) | [Gray hair](https://open.spotify.com/album/6yHmPMWk2l1hBxVg3i3snm) | 2:16 | 2023-02-07 | 2024-11-07 |
 | [Growl \- Jazz Version](https://open.spotify.com/track/1wOlDvbVzBpKQaKcQgSI7w) | [SM Jazz Trio](https://open.spotify.com/artist/4HD8lcs5SHCJcIVryqV8n3) | [PINK NOTE](https://open.spotify.com/album/169Xc0DtUg1XLTA82hTT8i) | 3:17 | 2025-11-20 |  |
 | [gut](https://open.spotify.com/track/6b1Y86a4rk8mhuPi3qFtkG) | [Q the trumpet](https://open.spotify.com/artist/6s38y5NrMJQEEaA71NqYHW) | [Research Daily 2](https://open.spotify.com/album/5k9SMcIDginQmvq6xWGEYh) | 3:48 | 2024-08-29 | 2025-05-08 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 
 > Największe rapowe kawałki w tej chwili\. Cover: Louis Villain
 
-[Spotify](https://open.spotify.com/user/spotify) - 573,354 likes - 50 songs - 2 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 573,347 likes - 50 songs - 2 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXJnyndhASBe.md) - [plain]
 | 49 | [nowe ciocie](https://open.spotify.com/track/1n7TRtAujmbcujwWKD0Vwk) | [rydawarrior](https://open.spotify.com/artist/4l4laIN7oJbSKMRO1LTi2J), [CUZCO$](https://open.spotify.com/artist/5YX5w3ApI8if9LJHhh8tei) | [NOWE CIOCIE](https://open.spotify.com/album/2iXhnwmIXen6egSY3scoir) | 2:05 |
 | 50 | [Grand Soir](https://open.spotify.com/track/0MEH9MHfX1JK9hzY4V37L5) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Grand Soir](https://open.spotify.com/album/0sOFx440hbrLgfNsP0tKnV) | 2:13 |
 
-Snapshot ID: `AAAAAN05G1zJYPTDmD2vFRUe4y7ws1X3`
+Snapshot ID: `AAAAAKCmucYD8e8TOeMMqh43eBNM6zbg`

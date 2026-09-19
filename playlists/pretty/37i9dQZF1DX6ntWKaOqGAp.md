@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 
 > 日本ロックシーンの話題曲をひとつのプレイリストに。The biggest Japanese rock hits right now\. Cover: レトロリロン（RETRORIRON）
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,262 likes - 100 songs - 6 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,270 likes - 100 songs - 6 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ntWKaOqGAp.md) - [plain]
 | 99 | [kūchū hokō](https://open.spotify.com/track/1IktdQIocTeVFQ2xSmxrLh) | [UNDER GRAPH](https://open.spotify.com/artist/2Ox7XO5C0tbbk9pfZVDGA1) | [kūchū hokō](https://open.spotify.com/album/2SKlvpFTcenCUp1snY3cEm) | 3:45 |
 | 100 | [Emotion](https://open.spotify.com/track/4a2ZEFAFFtubbRxqUWmsyv) | [Aぇ! group](https://open.spotify.com/artist/2d2y9tvbA63vy8bPgNPKLV) | [Emotion](https://open.spotify.com/album/14xH7U0Z7PMwgaHbvOuAjJ) | 3:50 |
 
-Snapshot ID: `AAAAAOcAmPi4pQ+sDxdO+nD83hA4Qof7`
+Snapshot ID: `AAAAALeUvI9hljmNAWfICMp8BtBxjaMc`

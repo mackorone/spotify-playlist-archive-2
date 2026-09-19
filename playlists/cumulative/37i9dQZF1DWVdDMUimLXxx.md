@@ -4,7 +4,7 @@
 
 > An atmospheric mix of chill soundtracks and classical pieces to help you roll high and keep the chaos low.
 
-95 songs - 4 hr 52 min
+96 songs - 4 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -63,6 +63,7 @@
 | [Mouvement Déterminé](https://open.spotify.com/track/6ryCqg8031fqxpL7Tic6qZ) | [Erinrad Viker Sinfonietta](https://open.spotify.com/artist/577NHFNqD3EF7ePgJxpCzu) | [Mouvement Déterminé](https://open.spotify.com/album/70WIfeigUPwzlT0PUWSXAW) | 3:14 | 2022-04-22 |  |
 | [Nocturne in C Sharp](https://open.spotify.com/track/4UAJf6d48Q6dBzgbC5pjya) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Robin Smith](https://open.spotify.com/artist/2FGezmANSFpsGzBoLoIa9I), [HAUSER](https://open.spotify.com/artist/2iSn12gFykgv92aTvPiH4s), [London Symphony Orchestra](https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc), [Robert Ziegler](https://open.spotify.com/artist/6c3mMiMnHQtu4mGWN87CFx) | [Classic](https://open.spotify.com/album/3gZv6Vq2Q2a300JEUV8Dq9) | 4:33 | 2022-04-22 |  |
 | [Now We are Free](https://open.spotify.com/track/6OLgebma3uuh5KDG5ZXjF5) | [2CELLOS](https://open.spotify.com/artist/6Fi8CHfO8WGtu3yO8c2Mc4) | [Score](https://open.spotify.com/album/0sR0wZubrE2h3h4WxviRCX) | 6:03 | 2022-04-22 |  |
+| [Nucleus](https://open.spotify.com/track/5fCnEBvX1NQbYfmLVqC1Rp) | [Hampus Naeselius](https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5) | [Nucleus](https://open.spotify.com/album/6c1OyqBb61Q7fkJe52Ntfz) | 3:30 | 2026-09-18 |  |
 | [One With the Tribe](https://open.spotify.com/track/41DlWb37TIoHzK4XmWRk2T) | [Bonnie Grace](https://open.spotify.com/artist/3z6E6ZPwJ7l0mp3HHcOfd2) | [Highland Hymn](https://open.spotify.com/album/6zmxkrUeUrSVtDMqggKDRb) | 2:13 | 2022-04-22 |  |
 | [Papuk](https://open.spotify.com/track/54eSAFrT7YqBxitvqZJIgc) | [Julian Luger](https://open.spotify.com/artist/6PxHwSZFaidQkagrCE3LlA) | [Pool of Thoughts](https://open.spotify.com/album/082ENN7CJl15GNseXv8B2F) | 2:06 | 2022-04-22 |  |
 | [Partners in Crime](https://open.spotify.com/track/0MC5OUFlsS6wn3tuOYLF5I) | [Christoffer Moe Ditlevsen](https://open.spotify.com/artist/1byqtZiN0rWjNg7kXy5j3S) | [Partners in Crime](https://open.spotify.com/album/0ntMgYnq6D9hswNnEwy3PP) | 3:27 | 2022-04-22 |  |

@@ -321,6 +321,28 @@
     },
     {
       "album": {
+        "name": "Johannes Brahms: Klavierst\u00fccke",
+        "url": "https://open.spotify.com/album/3L4sBX3w9HgeFPKLbfO1Ie"
+      },
+      "artists": [
+        {
+          "name": "Johannes Brahms",
+          "url": "https://open.spotify.com/artist/5wTAi7QkpP6kp8a54lmTOq"
+        },
+        {
+          "name": "Andr\u00e1s Schiff",
+          "url": "https://open.spotify.com/artist/24K6LTZFqBAvKsorwK0iXd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203017,
+      "name": "8 Klavierst\u00fccke, Op. 76: No. 1, Capriccio in F-Sharp Minor",
+      "url": "https://open.spotify.com/track/5TFpbv8Xl1z5bOKvWaRJGT"
+    },
+    {
+      "album": {
         "name": "Brahms: 8 Klavierst\u00fccke, Op. 76: No. 2, Capriccio in B Minor",
         "url": "https://open.spotify.com/album/0Dmv6Q05ALgAuwKBOKFJuZ"
       },
@@ -3416,6 +3438,28 @@
       "duration_ms": 294960,
       "name": "Suite bergamasque, L. 75: III. Clair de lune",
       "url": "https://open.spotify.com/track/3hCPh4oVVjaM8tv9sFH8cx"
+    },
+    {
+      "album": {
+        "name": "Fern\u00e2ndez: Suite brasileira No. 1: II. Suave acalanto",
+        "url": "https://open.spotify.com/album/22ypaXTQfFHGnmP2ze1aJk"
+      },
+      "artists": [
+        {
+          "name": "Oscar Lorenzo Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4CT1odezsNRAX8mxy3CSiz"
+        },
+        {
+          "name": "Daniil Trifonov",
+          "url": "https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204786,
+      "name": "Suite brasileira No. 1: II. Suave acalanto",
+      "url": "https://open.spotify.com/track/1MsIcoNvS3QETc7P96OM1H"
     },
     {
       "album": {

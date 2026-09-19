@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 
 > Mga bago at lumilitaw sa mundo ng OPM\. Cover: LEYO
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,120 likes - 100 songs - 6 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,164 likes - 100 songs - 6 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSVQreDCvFMf.md) - [plain]
 | 99 | [Bawat Sulok](https://open.spotify.com/track/0ljWpwGZUZZIyXJcbcv6Be) | [Mark Carpio](https://open.spotify.com/artist/2JEIN1g27pZdm3hKB9EwE5) | [Bawat Sulok](https://open.spotify.com/album/2WhqRBhJ8F7P4Cf5vQrkmf) | 4:20 |
 | 100 | [Habang Tumatagal](https://open.spotify.com/track/3ubGwsslaMPiAiHueKBlnB) | [Ice Seguerra](https://open.spotify.com/artist/19X3R5eJguNYE8lwDZZWV9) | [Habang Tumatagal](https://open.spotify.com/album/1N9SuTOUAdVUa0Po4ch1Lf) | 3:32 |
 
-Snapshot ID: `AAAAAJNpuo39xY7ZyQ2GWJWghiSX3XgX`
+Snapshot ID: `AAAAAI0VnbrQylaGUMJqg4CDDBhZTXGb`

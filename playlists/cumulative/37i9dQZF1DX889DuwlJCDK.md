@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: ザ・シスターズハイ
 
-1,956 songs - 4 day 22 hr 23 min
+1,957 songs - 4 day 22 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1111,7 +1111,7 @@
 | [キャラメルパイ](https://open.spotify.com/track/2WCCNii7NpoIgPdVOeu8Dy) | [35.7](https://open.spotify.com/artist/0r2fuN8lNQF4p6KRgxCVnP) | [キャラメルパイ](https://open.spotify.com/album/4W412FdVRRX5RFRVGgiPPh) | 3:38 | 2025-04-08 | 2025-07-03 |
 | [キリギリス](https://open.spotify.com/track/6LC9dlvX2pTpw30x8TW5uN) | [berry meet](https://open.spotify.com/artist/59LkGYlqNpJJislvdaOi7m) | [キリギリス](https://open.spotify.com/album/2Y8fvG4o9o4BDt7HPASZrr) | 3:38 | 2024-01-16 | 2024-02-01 |
 | [ギューアグ](https://open.spotify.com/track/4VkVKgNyTFS3hRR3QldFUV) | [名誉伝説](https://open.spotify.com/artist/2tQe3JU05yYIs9350ppVPD) | [ギューアグ](https://open.spotify.com/album/7eWBDcemeEcPROAmKHlYMJ) | 3:08 | 2026-04-01 |  |
-| [クエスチョン](https://open.spotify.com/track/1Ix4GixUfVe2hJKZoY7H2n) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [クエスチョン](https://open.spotify.com/album/2AfYk9VN2ACnhxOT6xydRK) | 4:00 | 2026-03-24 |  |
+| [クエスチョン](https://open.spotify.com/track/1Ix4GixUfVe2hJKZoY7H2n) | [Aooo](https://open.spotify.com/artist/2Tz9q3iKdePddG0s46E9X2) | [クエスチョン](https://open.spotify.com/album/2AfYk9VN2ACnhxOT6xydRK) | 4:00 | 2026-03-24 | 2026-09-19 |
 | [クオリア](https://open.spotify.com/track/2g5ukf6P59TKXYbP7Rx6g7) | [life crown](https://open.spotify.com/artist/1GucUlQZCS6eETrQwUsg6m) | [クオリア](https://open.spotify.com/album/6OTjalZZmvtxgtmlBTpsxD) | 3:34 | 2025-11-11 | 2025-11-26 |
 | [クライネ](https://open.spotify.com/track/4GnrPXsMALWfu1Bp7URyYq) | [Chevon](https://open.spotify.com/artist/5eOzdoFyAe6ugv5bhf1wQr) | [クライネ](https://open.spotify.com/album/421WIl1p0uKTKel9ZSOlvj) | 4:28 | 2026-09-15 |  |
 | [クラッシュ](https://open.spotify.com/track/52bUzd6abRXpGBt9a3Gxc9) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK), [なとり](https://open.spotify.com/artist/3lagKxU3X84fGgnH9gekjy) | [デジタル・ラブ](https://open.spotify.com/album/4BMR0iTGRG76xRmH6K1QmG) | 2:16 | 2025-11-25 | 2026-02-12 |
@@ -1157,6 +1157,7 @@
 | [シンメトリー](https://open.spotify.com/track/4vm8NHeVSVkZrAhiLJZe19) | [Oisicle Melonpan](https://open.spotify.com/artist/7v7AOgHT3xwF4Z86hcCbsh) | [シンメトリー](https://open.spotify.com/album/0XjRP10R8TDcZHFdBm6kXR) | 3:46 | 2023-08-01 | 2023-10-15 |
 | [シーブリーズと君の匂い](https://open.spotify.com/track/3C8cUsZwnO6kQ5Ar6nsc3H) | [moon drop](https://open.spotify.com/artist/1fqzuhLXIimUwLTU6HzBse) | [拝啓 悲劇のヒロイン](https://open.spotify.com/album/4RM9MphiCYyR3UPBhvxcKY) | 2:46 | 2024-05-30 | 2024-06-10 |
 | [ジオメトリック](https://open.spotify.com/track/70eXilPrGUWLzc23iiw07z) | [osage](https://open.spotify.com/artist/4PC4yqIacQxiKL43y2Ml5x) | [ジオメトリック](https://open.spotify.com/album/2DeFpsAPiZcsXX3kT5ZlDi) | 2:55 | 2024-09-17 | 2025-03-05 |
+| [ジャガーノート](https://open.spotify.com/track/180C0bLHGOC6RENP0qWvza) | [TOOBOE](https://open.spotify.com/artist/0HZLpOSMHpalBlUnONhynN) | [ジャガーノート](https://open.spotify.com/album/6H5Mx2xeGXStIf6Z0vXxIw) | 2:34 | 2026-09-15 |  |
 | [ジャンクガール](https://open.spotify.com/track/3s2AFyWkmDCySsdtGKgjj4) | [ロイヤルギャル](https://open.spotify.com/artist/0JZRhfetZbcYPdP0HDLA2e) | [ジャンクガール](https://open.spotify.com/album/126mHkYms2PkYWDEzq9ArR) | 3:16 | 2025-02-11 | 2025-02-19 |
 | [ジャージ \- 2024 ver.](https://open.spotify.com/track/171bhWJsrmK35Llx2IhHgS) | [サバシスター](https://open.spotify.com/artist/59SCS5djYwMbZv80XDI0pj) | [覚悟を決めろ!](https://open.spotify.com/album/2eoWg1Bc1vn6m4HxSwya2v) | 2:34 | 2024-03-07 | 2024-10-09 |
 | [ジャーニー](https://open.spotify.com/track/4NsVI3vhKcTteWevJyyUJg) | [ヤユヨ](https://open.spotify.com/artist/0JUlkKazTRFzIGvtMe1d1c) | [ジャーニー](https://open.spotify.com/album/4oOxROSve09XhpM01B6eO7) | 3:38 | 2024-12-03 | 2025-01-16 |

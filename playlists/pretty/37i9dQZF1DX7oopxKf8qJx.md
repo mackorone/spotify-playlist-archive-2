@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 
 > The moody sound of easy listening from the 50's and 60's\. Cover: Percy Faith
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,413 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,464 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,15 +19,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 9 | [Unchained Melody](https://open.spotify.com/track/00bjRdeKrB2xxRsjzexpql) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Dancing In Wonderland \(Remastered\)](https://open.spotify.com/album/1TcoXpHdXwb9qdKz84pUOI) | 2:43 |
 | 10 | [The Summer Knows \(From "Summer of '42"\)](https://open.spotify.com/track/4852V4r33kQtMIWscamrac) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [The Mancini Pops Orchestra](https://open.spotify.com/artist/1vxjKNfdi39vzEeA36L31L) | [As Time Goes By](https://open.spotify.com/album/6QbgZKxpHRWjF7ryy0uczS) | 3:27 |
 | 11 | [Fascination](https://open.spotify.com/track/6rgswTxsKoO4zRlL1C5fDF) | [Percy Faith & His Orchestra](https://open.spotify.com/artist/24DQLSng7bKZD4GXLIaQbv) | [Tara's Theme from "Gone With The Wind" and Other Movie Themes](https://open.spotify.com/album/0dA8Iq9534j5yb7b4HA6Li) | 2:42 |
-| 12 | [There Will Never Be Another You](https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 2:51 |
-| 13 | [El Condor Pasa](https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [With Compliments](https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d) | 3:04 |
+| 12 | [El Condor Pasa](https://open.spotify.com/track/3n4x97RfPCjiGy9KoWCKZ2) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [With Compliments](https://open.spotify.com/album/71SySWPySOQJiMsyQgmn1d) | 3:04 |
+| 13 | [There Will Never Be Another You](https://open.spotify.com/track/4sdpvOQB4AD9S2gjMW9nu1) | [Paul Weston](https://open.spotify.com/artist/5ctnTue97AB5QdivrymEaK) | [Music For Romancing](https://open.spotify.com/album/6uvtXa9roNJj96YTGJkhV4) | 2:51 |
 | 14 | [Three O'Clock In The Morning](https://open.spotify.com/track/2Q7ee3yYMiuY3MQwmlvPhn) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Blue Midnight \(Remastered\)](https://open.spotify.com/album/4cXY2pebOf073jBBH7zoza) | 2:33 |
 | 15 | [Moon River \- From "Breakfast At Tiffanys"](https://open.spotify.com/track/2BpyzY3nIhoqF37Xh5TMr8) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf), [Mantovani](https://open.spotify.com/artist/4l2d1CRNjXgG4RBoA89Kle) | [The Third Man \- Cinema Gala](https://open.spotify.com/album/3IHT3DgvdFtEwScd0d60Qn) | 2:40 |
 | 16 | [Georgy Girl](https://open.spotify.com/track/09WMsGVawZQr61lzFrLcMz) | [Ronnie Aldrich and his 2 pianos](https://open.spotify.com/artist/0Dh1BicC7OimxTazI2iffT), [London Festival Orchestra](https://open.spotify.com/artist/3akUqAy3Q1WqRZqceC4jW9) | [Two Pianos Today](https://open.spotify.com/album/5furh3F91CSI9ELQIZpoCY) | 3:08 |
-| 17 | [Moonglow and Theme from Picnic](https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:44 |
-| 18 | [You'll Never Know \- Instrumental](https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh) | [Hugo Winterhalter And His Orchestra](https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL) | [I Only Have Eyes for You](https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE) | 2:40 |
+| 17 | [I Will Wait For You \- From "The Umbrellas Of Cherbourg"](https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5) | [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Film Festival](https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV) | 2:21 |
+| 18 | [Moonglow and Theme from Picnic](https://open.spotify.com/track/2ALPECYsOxZ0qQlxnQPlj6) | [Manuel & The Music Of The Mountains](https://open.spotify.com/artist/63jNJ6txlnRE4leSfFoSu3) | [The Magic Of Manuel](https://open.spotify.com/album/0LYABqXPjDAJYyVNUlEE42) | 3:44 |
 | 19 | [Wonderland By Night \(Wunderland bei Nacht\)](https://open.spotify.com/track/5Ik1BD4gKzxofvNgSRQbCF) | [Bert Kaempfert](https://open.spotify.com/artist/2s6JabvZdqVQhfOsaxCSFX) | [Wonderland By Night](https://open.spotify.com/album/4NJgRrbHDkPMBMkup98HpB) | 3:15 |
-| 20 | [I Will Wait For You \- From "The Umbrellas Of Cherbourg"](https://open.spotify.com/track/3RRR4mBySzKJCEZHxMIEm5) | [Frank Chacksfield & His Orchestra](https://open.spotify.com/artist/01zQA436fdUqmEWvljtzxr) | [Film Festival](https://open.spotify.com/album/4f942rZJsCBVfuFUQgdbSV) | 2:21 |
+| 20 | [You'll Never Know \- Instrumental](https://open.spotify.com/track/0sQ0BzLHZfX9TLXvNROcjh) | [Hugo Winterhalter And His Orchestra](https://open.spotify.com/artist/0I8ekdWabNnWyuOtVuW2DL) | [I Only Have Eyes for You](https://open.spotify.com/album/7ls79FDjgrXlt424cIP1SE) | 2:40 |
 | 21 | [Games That Lovers Play](https://open.spotify.com/track/1DIhGrVGZamMWrsV0U3maT) | [James Last](https://open.spotify.com/artist/5UyJW2eCOuXtyYftgbMxZG) | [Games That Lovers Play](https://open.spotify.com/album/2H5ZaikJttXkNHJEgA5n8i) | 2:31 |
 | 22 | [Gabrielle](https://open.spotify.com/track/0XVdFtfj6N7JRvw78tlia1) | [Nelson Riddle](https://open.spotify.com/artist/6PyGlGbMoNqkofF14K4BWb) | [Paris When It Sizzles](https://open.spotify.com/album/5lAGUlrq75JPt2DrtfESeK) | 2:46 |
 | 23 | [Theme from Picnic \- Remastered](https://open.spotify.com/track/7C2cDPLUfDxfxq5u7vIWF0) | [Russ Conway](https://open.spotify.com/artist/3CH93c2rBMyBq9eeWBCQ60) | [The Piano Legend \(Remastered\)](https://open.spotify.com/album/7AZxS7684aRvvnJZ7fC2ZV) | 3:23 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7oopxKf8qJx.md) - [plain]
 | 79 | [Moonlight Serenade \- Digitally Remastered](https://open.spotify.com/track/5GLP9ZqgQOHBLNuLSWA5rV) | [Henry Mancini](https://open.spotify.com/artist/2EExdpjU4SK3xnJHO5paJf) | [The Touch of Henry Mancini, Vol\. 3](https://open.spotify.com/album/64psneLvhQVZvrPL7zEpiU) | 3:41 |
 | 80 | [The Days Of Wine And Roses](https://open.spotify.com/track/40WZ6K3o6X3wsAbh3b41wG) | [Hugo Winterhalter](https://open.spotify.com/artist/5WVQxyLSWuV7XpjDlgNY53) | [28 Big Ones](https://open.spotify.com/album/75C2nKf5frcYnRI8tSqXOM) | 2:36 |
 
-Snapshot ID: `AAAAAN+w3u5agqCpcv3/xrGtY5i+SnXr`
+Snapshot ID: `AAAAAJvnc3DdMvqVEOq0bF5sWpXjEyoH`

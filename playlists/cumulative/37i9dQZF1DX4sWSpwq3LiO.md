@@ -4,7 +4,7 @@
 
 > Peaceful piano to help you slow down, breathe, and relax.
 
-1,873 songs - 3 day 10 hr 59 min
+1,875 songs - 3 day 11 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -174,6 +174,7 @@
 | [Asteroid](https://open.spotify.com/track/5Enc5JAvGziRBT7YQqdgXO) | [Saddest Girl In The World](https://open.spotify.com/artist/08g585oJkNJi7zMacm8LA6) | [Tomorrow EP](https://open.spotify.com/album/2XLQK7qXj1syMDkuPpmLId) | 2:57 | 2019-08-23 | 2020-03-17 |
 | [Astray](https://open.spotify.com/track/3cuvXQjn74rLPC0jSVysUK) | [Simon Vouet](https://open.spotify.com/artist/4lj4RXgWmv0T5xx561yT1b) | [Astray](https://open.spotify.com/album/1IJanCxmCe6rhSBUyDS1L2) | 2:00 | 2023-10-23 | 2025-02-26 |
 | [At Dawn](https://open.spotify.com/track/6sSFbKl9oQ7ToYxBeTQZvw) | [Ever So Blue](https://open.spotify.com/artist/6LwcYWG1molG0KW2xwnPd2) | [Fragment](https://open.spotify.com/album/4hDrHeKxgRFP07lI6RAkoE) | 2:16 | 2019-08-02 | 2022-02-24 |
+| [At Rest](https://open.spotify.com/track/3Cyslf8Sbb2MhISVhfI9Pw) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [At Rest](https://open.spotify.com/album/2srYAaDy9XqK2Go6nUmzC4) | 2:18 | 2026-09-18 |  |
 | [At The Edge Of Light](https://open.spotify.com/track/3BNfBGWpsyOF3JPl1QxfkQ) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [At The Edge Of Light](https://open.spotify.com/album/0v48kH9FPiWsImYzQZ0LXi) | 2:43 | 2026-03-27 |  |
 | [At The End Of The Day](https://open.spotify.com/track/3x16lncPJzr2VDTtVrPpgj) | [Frederico Morales](https://open.spotify.com/artist/43oHV1OfcYMyNvj7pwUhTx) | [The Old Oak Tree](https://open.spotify.com/album/1mFItBvAGzfPeKdarGWBWo) | 2:11 | 2023-01-17 | 2024-05-23 |
 | [Atlas](https://open.spotify.com/track/2UUoUzFXegRNIzIangETNG) | [Ledetraad](https://open.spotify.com/artist/1oldJmiOiDyqjCwKYtm16E) | [Atlas](https://open.spotify.com/album/0UXtrysJ58HTDz5RtFPtNn) | 2:12 | 2022-05-26 | 2023-09-23 |
@@ -1008,6 +1009,7 @@
 | [Morning Air](https://open.spotify.com/track/75yhwBaQZoBOt5XeX1Dm6E) | [Ima Rayner](https://open.spotify.com/artist/5DN5SSVJ3DYAnbyzARxe6D) | [Morning Air](https://open.spotify.com/album/6r5cXVhPeNalnSEgIupUcj) | 2:57 | 2022-02-16 | 2022-05-13 |
 | [Morning Dance](https://open.spotify.com/track/73uDJDqIcF5QQWXZ19rH8z) | [Amine Ayad](https://open.spotify.com/artist/1AyCO3Kq1tv1K87CBbC2KM) | [Morning Dance](https://open.spotify.com/album/0p1cZEnGXZvsDbDvKfCevD) | 1:55 | 2022-11-09 | 2023-11-21 |
 | [Morning Dew](https://open.spotify.com/track/1LlWrUUgRE2Mqxdbcpj6NF) | [Blue George](https://open.spotify.com/artist/3iXwpImyv9kqSfxcTtfou5) | [Morning Dew](https://open.spotify.com/album/7rjp836UdyTfcc2XtWjyB2) | 2:39 | 2024-07-30 | 2026-04-25 |
+| [Morning Finds Us](https://open.spotify.com/track/4RaG5enBGhICIVQMaxojd9) | [Andrei Mizi](https://open.spotify.com/artist/6KnknNIJOqJZzBiooVpN3R) | [Morning Finds Us](https://open.spotify.com/album/2NJtQg8BSfX6eTSaiqjdg5) | 2:16 | 2026-09-18 |  |
 | [Morning In June](https://open.spotify.com/track/5qvj3mHMXXxtzGSXIYQwjt) | [Rukkirahu](https://open.spotify.com/artist/5zTrvOLnNeQEzrRQH07NxM) | [Morning In June](https://open.spotify.com/album/17sS5SwMaMKCeU3GMPZMux) | 2:55 | 2025-02-18 | 2025-04-16 |
 | [Morning Song](https://open.spotify.com/track/0CSW0V2PU9WOEbxBkltPio) | [Melody of Sound](https://open.spotify.com/artist/1jbj3bUyRhQ8FqU55nERZ4) | [Morning Song](https://open.spotify.com/album/0oXikKT6FVhUyV4ASmXF19) | 2:09 | 2021-06-18 | 2022-09-24 |
 | [Morning Write](https://open.spotify.com/track/3wQ4jhM4hH3a9SKqGStvkl) | [May Laude](https://open.spotify.com/artist/16RcZW1nYsx9RJ1gKSR4JG) | [Morning Write](https://open.spotify.com/album/3TECXzv0JenFb76sIXaCCY) | 2:44 | 2025-03-18 | 2025-04-02 |

@@ -399,6 +399,54 @@
     },
     {
       "album": {
+        "name": "Saint-Saens & Lalo: Cello Concertos",
+        "url": "https://open.spotify.com/album/10HAld1DFgTbYtc425RlAT"
+      },
+      "artists": [
+        {
+          "name": "Camille Saint-Sa\u00ebns",
+          "url": "https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0"
+        },
+        {
+          "name": "Sol Gabetta",
+          "url": "https://open.spotify.com/artist/4XvLzjMwnILZ9YnMHOVMIN"
+        },
+        {
+          "name": "Les Si\u00e8cles",
+          "url": "https://open.spotify.com/artist/1ncGbUNumu1kLQDLfI5Hds"
+        },
+        {
+          "name": "Fran\u00e7ois-Xavier Roth",
+          "url": "https://open.spotify.com/artist/01MlLLNqc0Dp9jS04Rm6gp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204905,
+      "name": "Cello Concerto No. 1 in A Minor, Op. 33: I. Allegro non troppo - Short Edit",
+      "url": "https://open.spotify.com/track/2DVN1JiuAszAsYCLUULdRL"
+    },
+    {
+      "album": {
+        "name": "Che si pu\u00f2 fare (Arr. Vennart)",
+        "url": "https://open.spotify.com/album/6VMPcYl8O82KRnkYs8BOCB"
+      },
+      "artists": [
+        {
+          "name": "Jess Gillam",
+          "url": "https://open.spotify.com/artist/41OHse5xHr1E6wceODGrPB"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 269533,
+      "name": "Che si pu\u00f2 fare (Arr. Vennart)",
+      "url": "https://open.spotify.com/track/3GJaWol6UksOX3nMUygnsL"
+    },
+    {
+      "album": {
         "name": "Contentious Environment (From \"The Invite\")",
         "url": "https://open.spotify.com/album/5gC7Jy2lyadGwSI9voznHH"
       },
@@ -1458,6 +1506,36 @@
       "duration_ms": 138333,
       "name": "Puccini: Gianni Schicchi: \"O mio babbino caro\" (Lauretta)",
       "url": "https://open.spotify.com/track/2uDMqUrVjT68aOS0cBqmOK"
+    },
+    {
+      "album": {
+        "name": "Rachmaninov: Vocalise",
+        "url": "https://open.spotify.com/album/5tHCek3pMWfsCgITjnHgGu"
+      },
+      "artists": [
+        {
+          "name": "Sergei Rachmaninoff",
+          "url": "https://open.spotify.com/artist/0Kekt6CKSo0m5mivKcoH51"
+        },
+        {
+          "name": "Bruno de S\u00e1",
+          "url": "https://open.spotify.com/artist/0dZf3rViOcTQFtQmPaFF2p"
+        },
+        {
+          "name": "Op\u00e9ra Orchestre Normandie Rouen",
+          "url": "https://open.spotify.com/artist/1Rg6lFT2fz1w2G75rIFKYN"
+        },
+        {
+          "name": "Pierre Dumoussaud",
+          "url": "https://open.spotify.com/artist/1gposA5qOfH8VZAYQAtios"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 431800,
+      "name": "Rachmaninov: 14 Romances, Op. 34: No. 14, Vocalise",
+      "url": "https://open.spotify.com/track/1vLAC18Ob6iKjfvuaqcZYX"
     },
     {
       "album": {

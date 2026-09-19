@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 
 > Fresh rock & alternative from independent artists every Wednesday\. Cover: Just Penelope
 
-[Spotify](https://open.spotify.com/user/spotify) - 175,293 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 175,341 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX78toxP7mOaJ.md) - [plain]
 | 74 | [YES, I AM AN ANIMAL](https://open.spotify.com/track/54ayOa2nydoqHPbje4Ggtl) | [tankerlow](https://open.spotify.com/artist/3s1K1og0JzNIKLOj3sQeZJ) | [YES, I AM AN ANIMAL](https://open.spotify.com/album/0IDnwWNDrfmk02MmJR93be) | 5:04 |
 | 75 | [Apocalypse](https://open.spotify.com/track/2XrIGDr941m9w6WCUUz6oy) | [Porcelain](https://open.spotify.com/artist/4PUPdR1u1N18esUCWLGYxW) | [Apocalypse](https://open.spotify.com/album/5dQ8TL1Gsss5Hpf7fNRSCR) | 4:23 |
 
-Snapshot ID: `AAAAAMKh7evesTB7Oo8HL/5q4WsGemnQ`
+Snapshot ID: `AAAAAD9JMOibO+qmcGCw8o9va9puKEkL`

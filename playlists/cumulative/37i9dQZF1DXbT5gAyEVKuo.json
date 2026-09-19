@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: Naomi Raine & Tauren Wells",
+  "description": "Praise the Lord with all your heart as you sing along to these Gospel Worship songs. Cover: DOE",
   "name": "Gospel Worship",
   "tracks": [
     {
@@ -104,6 +104,24 @@
       "duration_ms": 270957,
       "name": "Abide In You - Live",
       "url": "https://open.spotify.com/track/2Gn8W9Lrf9ozWY8Wm9EHSI"
+    },
+    {
+      "album": {
+        "name": "Able (Live)",
+        "url": "https://open.spotify.com/album/68bRd6WuHC0HPuawqmievI"
+      },
+      "artists": [
+        {
+          "name": "Anthony Evans",
+          "url": "https://open.spotify.com/artist/6qL5lCa1VbCzWiVgnj6QIV"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 517541,
+      "name": "Able - Live",
+      "url": "https://open.spotify.com/track/5aHmY3Dh5L7j5FmrVamnfd"
     },
     {
       "album": {
@@ -1132,7 +1150,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 504889,
       "name": "Dance Anyhow",
       "url": "https://open.spotify.com/track/3TLl80bJcNDDgay3jMclgp"
@@ -1439,6 +1457,24 @@
     },
     {
       "album": {
+        "name": "Eze Mo (Live)",
+        "url": "https://open.spotify.com/album/0odnu4b4TXbJbUaEmD3yjX"
+      },
+      "artists": [
+        {
+          "name": "Neon Adejo",
+          "url": "https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 530000,
+      "name": "Eze Mo (Live)",
+      "url": "https://open.spotify.com/track/1xvCcVSNo7YrvJeDGMdk1D"
+    },
+    {
+      "album": {
         "name": "The Faith Journey (Live)",
         "url": "https://open.spotify.com/album/50IACast23ezf8MlYV2ayt"
       },
@@ -1705,6 +1741,24 @@
     },
     {
       "album": {
+        "name": "The Life Recording",
+        "url": "https://open.spotify.com/album/1Zs0UQ3vqlDJytajyaoiyQ"
+      },
+      "artists": [
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 814591,
+      "name": "Glory to God in the Highest",
+      "url": "https://open.spotify.com/track/2wfKR78LJVyLary3V3KmFI"
+    },
+    {
+      "album": {
         "name": "Expect Impossible (NYE Live)",
         "url": "https://open.spotify.com/album/4OkeoW2uyBkuRtJdNf2Rsy"
       },
@@ -1800,7 +1854,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 361821,
       "name": "God Of War (feat. ELEVATION RHYTHM)",
       "url": "https://open.spotify.com/track/5bHwjz8ENwXYFSmvsj9yzN"
@@ -1858,6 +1912,28 @@
       "duration_ms": 369840,
       "name": "Grace - Live",
       "url": "https://open.spotify.com/track/5ahLgNl6MprCkvnYWRPq59"
+    },
+    {
+      "album": {
+        "name": "Gracefully Broken / Who The Son Sets Free",
+        "url": "https://open.spotify.com/album/7dQe2pkmZuaAwQSoCfqFGm"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        },
+        {
+          "name": "Israel Houghton",
+          "url": "https://open.spotify.com/artist/7pUnaNwiKa3p27L1EwB4X6"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 358601,
+      "name": "Gracefully Broken/Who The Son Sets Free",
+      "url": "https://open.spotify.com/track/72UISIbGPOR0M3mj7EygOU"
     },
     {
       "album": {
@@ -2040,7 +2116,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 410235,
       "name": "He Did It for Me - Live",
       "url": "https://open.spotify.com/track/4Z8HVDwVQR2uu5nd1v95CK"
@@ -2830,7 +2906,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 368760,
       "name": "In the Sanctuary - Live",
       "url": "https://open.spotify.com/track/7okZiRqgL1K0lKTKDJe9OT"
@@ -3234,7 +3310,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 272800,
       "name": "Let Go (feat. PJ Morton & DeWayne Woods) - Live Version",
       "url": "https://open.spotify.com/track/50wH2g17mKfEeVXakbhIyw"
@@ -3264,6 +3340,24 @@
       "duration_ms": 413824,
       "name": "Lift Up Jesus - Live",
       "url": "https://open.spotify.com/track/3YMM9hBhuuYX66zNrYAJuh"
+    },
+    {
+      "album": {
+        "name": "Lifted High",
+        "url": "https://open.spotify.com/album/5mlGsrA6fjQ17Lm4oH7QSZ"
+      },
+      "artists": [
+        {
+          "name": "Steve Crown",
+          "url": "https://open.spotify.com/artist/6ssJ7jGUrvWN8XZjggRBF3"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450960,
+      "name": "Lifted High",
+      "url": "https://open.spotify.com/track/1smZXcXZmVr0bAhf2X8LdB"
     },
     {
       "album": {
@@ -3308,6 +3402,24 @@
       "duration_ms": 516000,
       "name": "Lord I Love You - Live",
       "url": "https://open.spotify.com/track/6DO834OLITajOfoPJ27ckA"
+    },
+    {
+      "album": {
+        "name": "Love Never Fails (Live)",
+        "url": "https://open.spotify.com/album/5yLO4IHBCrDiWVaZKwx6Tk"
+      },
+      "artists": [
+        {
+          "name": "Watoto",
+          "url": "https://open.spotify.com/artist/35BkVhqEOG2cTuTQ4GiVbB"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242809,
+      "name": "Love Never Fails - Live",
+      "url": "https://open.spotify.com/track/5flMRi7rJFwPpvcRnZl7PZ"
     },
     {
       "album": {
@@ -3443,6 +3555,24 @@
     },
     {
       "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/71g3oJneC3LzwgZy5X8kHE"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585000,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/1EDdsfw8FVk6Zdn35yOWmg"
+    },
+    {
+      "album": {
         "name": "Miracle Walking (Live)",
         "url": "https://open.spotify.com/album/536KgvRn6R6OMQoK3Z4DCq"
       },
@@ -3550,7 +3680,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 344260,
       "name": "More Than Anything - Live",
       "url": "https://open.spotify.com/track/4rj3rvwZo0IYe3Usm0IdVN"
@@ -3832,7 +3962,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 692419,
       "name": "Nobody Greater (feat. Tasha Cobbs Leonard & BeBe Winans) - Remix/Live",
       "url": "https://open.spotify.com/track/1529DjjfVnq5LV51XNgmmn"
@@ -4000,6 +4130,24 @@
       "duration_ms": 324314,
       "name": "One Good God",
       "url": "https://open.spotify.com/track/3iKHfuRR6n2liPxV9ss8sr"
+    },
+    {
+      "album": {
+        "name": "Tasha Unscripted",
+        "url": "https://open.spotify.com/album/6L1U8qma9G36efdBtGja86"
+      },
+      "artists": [
+        {
+          "name": "Tasha Cobbs Leonard",
+          "url": "https://open.spotify.com/artist/5YxebzzreNswbtYC1td4cx"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385109,
+      "name": "One Word",
+      "url": "https://open.spotify.com/track/7IPCuaIn3V5jgwQ0uly8rb"
     },
     {
       "album": {
@@ -4206,10 +4354,28 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 559994,
       "name": "Prayer - Live",
       "url": "https://open.spotify.com/track/1WAq3ApLvMZx7hULs5LOcY"
+    },
+    {
+      "album": {
+        "name": "proclaim the Gospel (Live at De Stanley Brothers campus Tour)",
+        "url": "https://open.spotify.com/album/5cQkDbB8loXjvDwmewmxXC"
+      },
+      "artists": [
+        {
+          "name": "De Stanley Brothers",
+          "url": "https://open.spotify.com/artist/5QcpMCOrA4nVxileunNZD3"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 315076,
+      "name": "proclaim the Gospel - Live at De Stanley Brothers campus Tour",
+      "url": "https://open.spotify.com/track/1NQ3YJnYNhmo9wwUwnJLM3"
     },
     {
       "album": {
@@ -4316,7 +4482,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 239616,
       "name": "Release Control - Radio",
       "url": "https://open.spotify.com/track/3oofzigkObAVBc56KcTGkW"
@@ -4820,7 +4986,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 366640,
       "name": "Take My Life - Live",
       "url": "https://open.spotify.com/track/6Xbj9AtRjYPcozeSDFVF2z"
@@ -5328,7 +5494,7 @@
       ],
       "date_added": "2024-06-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 413266,
       "name": "To Worship You I Live - Live",
       "url": "https://open.spotify.com/track/5uIRfBq9GiUY7TRE3E2GNJ"
@@ -5737,6 +5903,28 @@
     },
     {
       "album": {
+        "name": "Wonder",
+        "url": "https://open.spotify.com/album/34npUpzknuO6gTYXzhPgJW"
+      },
+      "artists": [
+        {
+          "name": "Sunmisola Agbebi",
+          "url": "https://open.spotify.com/artist/7fJd7w897ouOZzDc6e3oyU"
+        },
+        {
+          "name": "kaestrings",
+          "url": "https://open.spotify.com/artist/7eEP4TA1RioDH3OBKPcQEC"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 943500,
+      "name": "Wonder",
+      "url": "https://open.spotify.com/track/6lDtOEonI6yUjuyYp6g7X4"
+    },
+    {
+      "album": {
         "name": "Work It Out (Live)",
         "url": "https://open.spotify.com/album/5fcf47GvauNXh7yGACSXpQ"
       },
@@ -6054,6 +6242,24 @@
       "duration_ms": 307866,
       "name": "You Waited (Live)",
       "url": "https://open.spotify.com/track/2JffucuR5jZhDf9ysy0EnA"
+    },
+    {
+      "album": {
+        "name": "You Will Have It All",
+        "url": "https://open.spotify.com/album/0xKyxbiOjwq4sVIABMqrmJ"
+      },
+      "artists": [
+        {
+          "name": "DOE",
+          "url": "https://open.spotify.com/artist/7z7byOJ4AJnMY2NHE66ZpW"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 322583,
+      "name": "You Will Have It All",
+      "url": "https://open.spotify.com/track/5znzle0Lx9BzqgGpoz5xEJ"
     },
     {
       "album": {

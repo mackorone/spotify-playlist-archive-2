@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 
 > This is Angie Stone\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,839 likes - 50 songs - 3 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,843 likes - 50 songs - 3 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,9 +33,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 23 | [It's Too Late](https://open.spotify.com/track/0FPwnqxQP6sdY77FFIcGh7) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 4:08 |
 | 24 | [Think It Over](https://open.spotify.com/track/548aQWCnaW5d6ytu4yoD4v) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 4:22 |
 | 25 | [My Nutmeg Phantasy \(featuring Angie Stone & Mos Def\) \(feat\. Angie Stone & Mos Def\)](https://open.spotify.com/track/5YlIN4hkyrCUrNlYw09KA0) | [Macy Gray](https://open.spotify.com/artist/4ylR3zwA0zaapAu94fktwa), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Mos Def](https://open.spotify.com/artist/0Mz5XE0kb1GBnbLQm2VbcO) | [the id](https://open.spotify.com/album/6TYleoMhZYHFUvYl8UQiqp) | 4:55 |
-| 26 | [Do What U Gotta Do](https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Do What U Gotta Do](https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H) | 3:24 |
-| 27 | [Go Back To Your Life](https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 1:22 |
-| 28 | [Backup Plan](https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Backup Plan](https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz) | 3:26 |
+| 26 | [Backup Plan](https://open.spotify.com/track/3bdIKo2LrqDdW0okJ26g5R) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Backup Plan](https://open.spotify.com/album/1ULfDozwUs82x98URWoBoz) | 3:26 |
+| 27 | [Do What U Gotta Do](https://open.spotify.com/track/6wo7R2MQZ0uZdKNozW6U97) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Do What U Gotta Do](https://open.spotify.com/album/72zbFzJ4FMbeIsm1bvsn0H) | 3:24 |
+| 28 | [Go Back To Your Life](https://open.spotify.com/track/4bId2ICKxum3Y2fZXJjCpy) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 1:22 |
 | 29 | [Love Of My Life Worldwide](https://open.spotify.com/track/7sfv48GFGTACbipv2osobB) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [Queen Latifah](https://open.spotify.com/artist/5m7wCUhYhBh7A3A3YMxrbt), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Bahamadia](https://open.spotify.com/artist/6ZcRUVs3I5U8EOnm9ZdCsO) | [Worldwide Underground](https://open.spotify.com/album/1oJIFrDoyKF1aV8sq0rBAQ) | 5:26 |
 | 30 | [Since I Lost My Baby](https://open.spotify.com/track/60sfBPovUoGakpff86kf9F) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [So Amazing: An All\-Star Tribute To Luther Vandross](https://open.spotify.com/album/1ak4qUWrH8YSjA4u7MPVXL) | 5:22 |
 | 31 | [U\-Haul](https://open.spotify.com/track/6nEJciQRIMIF2TfYUN0Ma5) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/5RBN1ZISk3zHXQM8Rtg4CB) | 3:56 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 35 | [Stay For A While \(feat\. Anthony Hamilton\)](https://open.spotify.com/track/5R7wbaxRvAhsSN6d1PxrEm) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Anthony Hamilton](https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 4:01 |
 | 36 | [Happy Being Me](https://open.spotify.com/track/7jIvDotIdiYG0Zv35xam8v) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM), [Pauletta Washington](https://open.spotify.com/artist/1xPmfPmx5uMCXmTcB5aEiT) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 4:29 |
 | 37 | [Love TKO](https://open.spotify.com/track/37ap6nCrkAew8dPVsGj1QD) | [Teddy Pendergrass](https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Duets \- Love & Soul](https://open.spotify.com/album/69XGRDK4bcb0pSEgIV05tC) | 4:49 |
-| 38 | [Dollar Bill](https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:15 |
-| 39 | [In the Air Tonight](https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 4:05 |
+| 38 | [In the Air Tonight](https://open.spotify.com/track/1nzVdpMp7SzrAzCKQdYelk) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Covered in Soul](https://open.spotify.com/album/4HGEXvjkZ7KrlsHTaF6xkn) | 4:05 |
+| 39 | [Dollar Bill](https://open.spotify.com/track/2DyH6CAfcuZps5tnXqtVE5) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Dream](https://open.spotify.com/album/2v0kuepYZWCdXDHlSwa5jE) | 3:15 |
 | 40 | [You Don't Love Me](https://open.spotify.com/track/6LgeYzc85nIiOg9ZcaRjRu) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [Stone Love](https://open.spotify.com/album/0Grb5Ql9aU3XkTv2Y7adt0) | 3:34 |
 | 41 | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/track/2zhgYDsj5s9ucveGRlEr9F) | [KDA](https://open.spotify.com/artist/3EK3opK9Hp93HJjBPupzfg), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Human Stone \(feat\. Angie Stone\)](https://open.spotify.com/album/5JDtdJsp89vm1wldP6Qwro) | 3:27 |
 | 42 | [Black Magic](https://open.spotify.com/track/0m1gxHaKMyr8cYMNTE9YYF) | [Styles P](https://open.spotify.com/artist/2x8KDZdSONA3872CnhaAlX), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [A Gangster And A Gentleman](https://open.spotify.com/album/4LmiDfIReR290PQm026KNF) | 4:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1iVEUc.md) - [plain]
 | 49 | [Here We Go Again](https://open.spotify.com/track/4v4ICmsY42M8sc0iI8w1I8) | [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Art of Love & War](https://open.spotify.com/album/6XMurmlxaZvPTy5txOOA15) | 3:32 |
 | 50 | [U Make My Sun Shine \(feat\. Angie Stone\)](https://open.spotify.com/track/6ucOlSv5N8sa18vJIkE7lf) | [Prince](https://open.spotify.com/artist/5a2EaR3hamoenG9rDuVn8j), [Angie Stone](https://open.spotify.com/artist/2hWr3AjjKOCVmWcwvuT4uM) | [The Chocolate Invasion \(Trax From The NPG Music Club Volume One\)](https://open.spotify.com/album/1v48RtdtTRvnqYVOxsj2q3) | 7:05 |
 
-Snapshot ID: `aqiKgAAAAABAAlQfkDRj46IFgYxdoMxs`
+Snapshot ID: `aqstgAAAAAAX2CocqVNaZbpl5PyIU8HX`

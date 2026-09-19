@@ -6,7 +6,7 @@
     "name": "Better Noise Music",
     "url": "https://open.spotify.com/user/elevensevenmusic"
   },
-  "snapshot_id": "AAAJKozzdAIl4n9LiK3fczj26jSn2cXR",
+  "snapshot_id": "AAAJLan8x65AUIZeShHJGn4o/ljXth1z",
   "tracks": [
     {
       "added_at": "2026-07-31 15:08:40",
@@ -23,6 +23,26 @@
       "duration_ms": 210000,
       "name": "Legacy",
       "url": "https://open.spotify.com/track/3kNxNSNAu5I9ZIb6RcYkZf"
+    },
+    {
+      "added_at": "2026-09-18 13:52:29",
+      "album": {
+        "name": "Templars (feat. Pop Evil)",
+        "url": "https://open.spotify.com/album/7FdChgOT89etcBVl6sMaNV"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        },
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "duration_ms": 203160,
+      "name": "Templars (feat. Pop Evil)",
+      "url": "https://open.spotify.com/track/58gNJGAe1LBN8735E0OWwd"
     },
     {
       "added_at": "2026-07-17 14:15:42",

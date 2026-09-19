@@ -1,12 +1,12 @@
 {
   "description": "The songs of the 1990s that will make you dance all summer long!",
-  "num_followers": 883661,
+  "num_followers": 883867,
   "original_name": "Summer Hits of the 90s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABWXCmOWNb3F/ML+qUW08r9wI3gA",
+  "snapshot_id": "AAAAAMATk+tfFZFcCCnNvTNL//Z37gtj",
   "tracks": [
     {
       "added_at": "2025-07-01 19:44:45",
@@ -699,22 +699,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "Cracked Rear View",
-        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
-      },
-      "artists": [
-        {
-          "name": "Hootie & The Blowfish",
-          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
-        }
-      ],
-      "duration_ms": 229586,
-      "name": "Only Wanna Be With You",
-      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "Daydream",
         "url": "https://open.spotify.com/album/1ibYM4abQtSVQFQWvDSo4J"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 258133,
       "name": "Always Be My Baby",
       "url": "https://open.spotify.com/track/2aBxt229cbLDOvtL7Xbb9x"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "Cracked Rear View",
+        "url": "https://open.spotify.com/album/5AYmpTfdv1OoASUJ5rZB7K"
+      },
+      "artists": [
+        {
+          "name": "Hootie & The Blowfish",
+          "url": "https://open.spotify.com/artist/08ct2eZF5lUPdJpHwNKWof"
+        }
+      ],
+      "duration_ms": 229586,
+      "name": "Only Wanna Be With You",
+      "url": "https://open.spotify.com/track/1OFKUn2VLafrHj7ybnap0Q"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "It's My Life",
-        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
-      },
-      "artists": [
-        {
-          "name": "Sash!",
-          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
-        }
-      ],
-      "duration_ms": 212133,
-      "name": "Ecuador - Original Radio Edit",
-      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
-    },
-    {
-      "added_at": "2025-07-01 19:44:45",
-      "album": {
         "name": "Wilson Phillips",
         "url": "https://open.spotify.com/album/1Xi55xFMaymXdSWshmxhw2"
       },
@@ -1079,18 +1063,18 @@
     {
       "added_at": "2025-07-01 19:44:45",
       "album": {
-        "name": "No Ordinary Man",
-        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
+        "name": "It's My Life",
+        "url": "https://open.spotify.com/album/2YBkamwn6VqpPO2wOfDVjS"
       },
       "artists": [
         {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+          "name": "Sash!",
+          "url": "https://open.spotify.com/artist/5XTxV2ifoYkmNb13Gb6cKz"
         }
       ],
-      "duration_ms": 181973,
-      "name": "Watermelon Crawl",
-      "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
+      "duration_ms": 212133,
+      "name": "Ecuador - Original Radio Edit",
+      "url": "https://open.spotify.com/track/1arJHhz6TxMV50SNvSmGnV"
     },
     {
       "added_at": "2025-07-01 19:44:45",
@@ -1107,6 +1091,22 @@
       "duration_ms": 235973,
       "name": "Say You'll Be There - Single Mix",
       "url": "https://open.spotify.com/track/1yTQ39my3MoNROlFw3RDNy"
+    },
+    {
+      "added_at": "2025-07-01 19:44:45",
+      "album": {
+        "name": "No Ordinary Man",
+        "url": "https://open.spotify.com/album/53g8c9eM74nQkKXDEE5tlu"
+      },
+      "artists": [
+        {
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+        }
+      ],
+      "duration_ms": 181973,
+      "name": "Watermelon Crawl",
+      "url": "https://open.spotify.com/track/3Q9t1A12iUemHTAWnH7PjD"
     },
     {
       "added_at": "2025-07-01 19:44:45",

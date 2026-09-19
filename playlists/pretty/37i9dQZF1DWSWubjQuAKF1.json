@@ -1,12 +1,12 @@
 {
   "description": "\u015bwie\u017ce brzmienia na horyzoncie \u2728 Cover: Qncicka",
-  "num_followers": 26485,
+  "num_followers": 26521,
   "original_name": "up next",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP0cfbXnOtU+XtT2/tiQl7zACh9h",
+  "snapshot_id": "AAAAALX4tqM7cuMhIvund4TuS0KQJtL2",
   "tracks": [
     {
       "added_at": "2026-09-17 22:02:10",
@@ -135,6 +135,22 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
+        "name": "Ch\u0142opaki",
+        "url": "https://open.spotify.com/album/5b9FqCGkBCvoALEdOGC0De"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        }
+      ],
+      "duration_ms": 170381,
+      "name": "Ch\u0142opaki",
+      "url": "https://open.spotify.com/track/2nI04xLBi0oRFsGmTJYeUU"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
         "name": "UMIAR",
         "url": "https://open.spotify.com/album/633aOhMKpVxIqZfHVtBRI8"
       },
@@ -155,22 +171,6 @@
       "duration_ms": 162000,
       "name": "UMIAR",
       "url": "https://open.spotify.com/track/7LVt9ME7UO97V0ys2jLq0D"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
-        "name": "Ch\u0142opaki",
-        "url": "https://open.spotify.com/album/5b9FqCGkBCvoALEdOGC0De"
-      },
-      "artists": [
-        {
-          "name": "Kuba i Kuba",
-          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
-        }
-      ],
-      "duration_ms": 170381,
-      "name": "Ch\u0142opaki",
-      "url": "https://open.spotify.com/track/2nI04xLBi0oRFsGmTJYeUU"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -355,8 +355,8 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "TRESURA",
-        "url": "https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ"
+        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
+        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
       },
       "artists": [
         {
@@ -364,9 +364,9 @@
           "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
         }
       ],
-      "duration_ms": 190062,
-      "name": "TRESURA",
-      "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
+      "duration_ms": 152727,
+      "name": "OPIUM",
+      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -383,6 +383,22 @@
       "duration_ms": 190506,
       "name": "Nie za\u015bpiewam Twojej mamie",
       "url": "https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
+        "name": "PARANOJA",
+        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
+      },
+      "artists": [
+        {
+          "name": "Hugo Tarres",
+          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
+        }
+      ],
+      "duration_ms": 116885,
+      "name": "PARANOJA",
+      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -407,22 +423,6 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "PARANOJA",
-        "url": "https://open.spotify.com/album/3QtM4vAwBExJsuWJSnx7dz"
-      },
-      "artists": [
-        {
-          "name": "Hugo Tarres",
-          "url": "https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ"
-        }
-      ],
-      "duration_ms": 116885,
-      "name": "PARANOJA",
-      "url": "https://open.spotify.com/track/7o42yfJFnEldFhMN7bAT4D"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
         "name": "Nie umiem kocha\u0107",
         "url": "https://open.spotify.com/album/5vYyH9BSkDwWETMMswSbnO"
       },
@@ -439,8 +439,8 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "OPIUM / NIE POCIESZ\u0118 CI\u0118",
-        "url": "https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB"
+        "name": "TRESURA",
+        "url": "https://open.spotify.com/album/6HwqXMTzRzcEFHBY1kk8wJ"
       },
       "artists": [
         {
@@ -448,25 +448,9 @@
           "url": "https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN"
         }
       ],
-      "duration_ms": 152727,
-      "name": "OPIUM",
-      "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb"
-      },
-      "artists": [
-        {
-          "name": "Basia Ma\u0142ecka",
-          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
-        }
-      ],
-      "duration_ms": 141984,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
+      "duration_ms": 190062,
+      "name": "TRESURA",
+      "url": "https://open.spotify.com/track/0IDekqxi83vyPooXWQa0Al"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -483,6 +467,22 @@
       "duration_ms": 190000,
       "name": "pelagia",
       "url": "https://open.spotify.com/track/704ZzYrKrgg4tFLfrib3HR"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb"
+      },
+      "artists": [
+        {
+          "name": "Basia Ma\u0142ecka",
+          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
+        }
+      ],
+      "duration_ms": 141984,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
+        "name": "szpila",
+        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        }
+      ],
+      "duration_ms": 181694,
+      "name": "czekaj!",
+      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
         "name": "Kafejka na Ochocie",
         "url": "https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD"
       },
@@ -575,6 +591,22 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
+        "name": "Pick me baby",
+        "url": "https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW"
+      },
+      "artists": [
+        {
+          "name": "Kasia Babis",
+          "url": "https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1"
+        }
+      ],
+      "duration_ms": 203101,
+      "name": "Pick me baby",
+      "url": "https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
         "name": "Halina",
         "url": "https://open.spotify.com/album/2GtZYIsuWOhl4Jwxa2WkbK"
       },
@@ -587,6 +619,22 @@
       "duration_ms": 230547,
       "name": "Halina",
       "url": "https://open.spotify.com/track/0BOKmMV0RoCWurTJdDXNIb"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
+        "name": "Po drugiej stronie szk\u0142a",
+        "url": "https://open.spotify.com/album/2QRmQC5t6mD4aXdUQuPfjV"
+      },
+      "artists": [
+        {
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+        }
+      ],
+      "duration_ms": 158222,
+      "name": "Po drugiej stronie szk\u0142a",
+      "url": "https://open.spotify.com/track/7uyrqEix2UJUrCqOOFsnKf"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -623,50 +671,18 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "szpila",
-        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
+        "name": "DOM\u00d3WKI",
+        "url": "https://open.spotify.com/album/4swvEJOb7IQJJJEj6pnMwd"
       },
       "artists": [
         {
-          "name": "nat cichocka",
-          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+          "name": "Jan Marczewski",
+          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
         }
       ],
-      "duration_ms": 181694,
-      "name": "czekaj!",
-      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
-        "name": "Echo Echo",
-        "url": "https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI"
-      },
-      "artists": [
-        {
-          "name": "bryska",
-          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
-        }
-      ],
-      "duration_ms": 133987,
-      "name": "Echo Echo",
-      "url": "https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
-        "name": "Pick me baby",
-        "url": "https://open.spotify.com/album/1zrL1yJJxEpmZmL4MYJrxW"
-      },
-      "artists": [
-        {
-          "name": "Kasia Babis",
-          "url": "https://open.spotify.com/artist/2IF016LDI9i40JP8sNrIe1"
-        }
-      ],
-      "duration_ms": 203101,
-      "name": "Pick me baby",
-      "url": "https://open.spotify.com/track/7dnvgI7XcoUn4aR9dkDO1c"
+      "duration_ms": 153253,
+      "name": "DOM\u00d3WKI",
+      "url": "https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -691,18 +707,18 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "DOM\u00d3WKI",
-        "url": "https://open.spotify.com/album/4swvEJOb7IQJJJEj6pnMwd"
+        "name": "Echo Echo",
+        "url": "https://open.spotify.com/album/5135pSDTAnl7l2RLFKmrwI"
       },
       "artists": [
         {
-          "name": "Jan Marczewski",
-          "url": "https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU"
+          "name": "bryska",
+          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
         }
       ],
-      "duration_ms": 153253,
-      "name": "DOM\u00d3WKI",
-      "url": "https://open.spotify.com/track/6P2a95GqnTr80Ii85GhroI"
+      "duration_ms": 133987,
+      "name": "Echo Echo",
+      "url": "https://open.spotify.com/track/2PNfi8dp5JplrBq0Rp4yu0"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -723,18 +739,18 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "Po drugiej stronie szk\u0142a",
-        "url": "https://open.spotify.com/album/2QRmQC5t6mD4aXdUQuPfjV"
+        "name": "boj\u0119 si\u0119 ba\u0107",
+        "url": "https://open.spotify.com/album/1wPfJYhgSlNgRZgD02ZEwq"
       },
       "artists": [
         {
-          "name": "bryska",
-          "url": "https://open.spotify.com/artist/5I8Y0U8doFLVCsSY88v4Vh"
+          "name": "Lotta",
+          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
         }
       ],
-      "duration_ms": 158222,
-      "name": "Po drugiej stronie szk\u0142a",
-      "url": "https://open.spotify.com/track/7uyrqEix2UJUrCqOOFsnKf"
+      "duration_ms": 209999,
+      "name": "boj\u0119 si\u0119 ba\u0107",
+      "url": "https://open.spotify.com/track/43eOzsjLG1e4FilGVCeEGi"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -755,22 +771,6 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "boj\u0119 si\u0119 ba\u0107",
-        "url": "https://open.spotify.com/album/1wPfJYhgSlNgRZgD02ZEwq"
-      },
-      "artists": [
-        {
-          "name": "Lotta",
-          "url": "https://open.spotify.com/artist/07EyVrrbqIAHNLw9FEnQUs"
-        }
-      ],
-      "duration_ms": 209999,
-      "name": "boj\u0119 si\u0119 ba\u0107",
-      "url": "https://open.spotify.com/track/43eOzsjLG1e4FilGVCeEGi"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
         "name": "Esmeralda",
         "url": "https://open.spotify.com/album/7rRxYzy6yDNhY7KWQ0NSCl"
       },
@@ -783,6 +783,22 @@
       "duration_ms": 171516,
       "name": "Esmeralda",
       "url": "https://open.spotify.com/track/1zlYK4S2HHhQWntlXq2t6P"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
+        "name": "just a girl",
+        "url": "https://open.spotify.com/album/6uXnAW9wHZ0gxPsivoAjHw"
+      },
+      "artists": [
+        {
+          "name": "Manya",
+          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
+        }
+      ],
+      "duration_ms": 166161,
+      "name": "just a girl",
+      "url": "https://open.spotify.com/track/5j5FlA1FgfPBwgiFzenRh8"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -803,22 +819,6 @@
       "duration_ms": 176554,
       "name": "SYRENY",
       "url": "https://open.spotify.com/track/2moIgh6lTs6D6kICWX8370"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
-        "name": "just a girl",
-        "url": "https://open.spotify.com/album/6uXnAW9wHZ0gxPsivoAjHw"
-      },
-      "artists": [
-        {
-          "name": "Manya",
-          "url": "https://open.spotify.com/artist/0Ik3lsTqLJTDmAmKQ6mxPL"
-        }
-      ],
-      "duration_ms": 166161,
-      "name": "just a girl",
-      "url": "https://open.spotify.com/track/5j5FlA1FgfPBwgiFzenRh8"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
-        "name": "PRZY TOBIE",
-        "url": "https://open.spotify.com/album/5gcQhuYnWRlB7ZcIyD7iOB"
-      },
-      "artists": [
-        {
-          "name": "HELA",
-          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
-        }
-      ],
-      "duration_ms": 188976,
-      "name": "PRZY TOBIE",
-      "url": "https://open.spotify.com/track/6IunjfJaJElmdpudshkY6U"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
         "name": "Miodowe lata",
         "url": "https://open.spotify.com/album/2KXbj2rHdMkluZn7EEy78C"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 211196,
       "name": "Miodowe lata",
       "url": "https://open.spotify.com/track/021LlPQEOIAxKtopy8xuZv"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
+        "name": "PRZY TOBIE",
+        "url": "https://open.spotify.com/album/5gcQhuYnWRlB7ZcIyD7iOB"
+      },
+      "artists": [
+        {
+          "name": "HELA",
+          "url": "https://open.spotify.com/artist/0kDheRc8ZXm7cEBSIcb3dj"
+        }
+      ],
+      "duration_ms": 188976,
+      "name": "PRZY TOBIE",
+      "url": "https://open.spotify.com/track/6IunjfJaJElmdpudshkY6U"
     },
     {
       "added_at": "2026-09-17 22:02:10",
@@ -1059,6 +1059,22 @@
     {
       "added_at": "2026-09-17 22:02:10",
       "album": {
+        "name": "Dreszcze",
+        "url": "https://open.spotify.com/album/6BlYxjMh6IOceHZcWYp4ZN"
+      },
+      "artists": [
+        {
+          "name": "Martyna Baranowska",
+          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
+        }
+      ],
+      "duration_ms": 159567,
+      "name": "Dreszcze",
+      "url": "https://open.spotify.com/track/4sXAOQVBABdN75iM7DijDL"
+    },
+    {
+      "added_at": "2026-09-17 22:02:10",
+      "album": {
         "name": "Nie t\u0119dy droga",
         "url": "https://open.spotify.com/album/0sBj1vSlzrGotfcgWjTAYf"
       },
@@ -1075,22 +1091,6 @@
       "duration_ms": 229500,
       "name": "Nie t\u0119dy droga",
       "url": "https://open.spotify.com/track/7y08ZSBOtWhjazBozOsjoz"
-    },
-    {
-      "added_at": "2026-09-17 22:02:10",
-      "album": {
-        "name": "Dreszcze",
-        "url": "https://open.spotify.com/album/6BlYxjMh6IOceHZcWYp4ZN"
-      },
-      "artists": [
-        {
-          "name": "Martyna Baranowska",
-          "url": "https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b"
-        }
-      ],
-      "duration_ms": 159567,
-      "name": "Dreszcze",
-      "url": "https://open.spotify.com/track/4sXAOQVBABdN75iM7DijDL"
     },
     {
       "added_at": "2026-09-17 22:02:10",

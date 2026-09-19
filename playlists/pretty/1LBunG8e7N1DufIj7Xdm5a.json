@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKEzzuDr46qbTmkTeddcOyyR74Mq5T",
+  "snapshot_id": "AAAKFyvgVeZKaXr0eFU41OAqd/wgZFtQ",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -79071,6 +79071,70 @@
       "duration_ms": 239955,
       "name": "The Ever Patient",
       "url": "https://open.spotify.com/track/1eGah37rhnWdb9Ve2qnzZ2"
+    },
+    {
+      "added_at": "2026-09-18 08:28:46",
+      "album": {
+        "name": "How I Roll",
+        "url": "https://open.spotify.com/album/03LIKVBmtQtxm2u0wxO35n"
+      },
+      "artists": [
+        {
+          "name": "Static Revolver",
+          "url": "https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi"
+        }
+      ],
+      "duration_ms": 221337,
+      "name": "How I Roll",
+      "url": "https://open.spotify.com/track/32paNGShaeE7O5USN1pC4M"
+    },
+    {
+      "added_at": "2026-09-18 15:19:17",
+      "album": {
+        "name": "Let Me See The Fire",
+        "url": "https://open.spotify.com/album/5sqrxKoR11mfTuEley9Bhy"
+      },
+      "artists": [
+        {
+          "name": "Anyverse",
+          "url": "https://open.spotify.com/artist/5n7wwlclR6kAlw5N74NCSg"
+        }
+      ],
+      "duration_ms": 192480,
+      "name": "Let Me See The Fire",
+      "url": "https://open.spotify.com/track/2NuKWe5H1xJSsEn3EfSXqx"
+    },
+    {
+      "added_at": "2026-09-18 15:21:20",
+      "album": {
+        "name": "The Cobra Has Arrived, Pt. 2",
+        "url": "https://open.spotify.com/album/7wL9N0B0ZxJcYNRQh3L6dO"
+      },
+      "artists": [
+        {
+          "name": "Cobra queen",
+          "url": "https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc"
+        }
+      ],
+      "duration_ms": 239926,
+      "name": "The Cobra Has Arrived, Pt. 2",
+      "url": "https://open.spotify.com/track/28onWsoR8929yLq7Npxbd7"
+    },
+    {
+      "added_at": "2026-09-19 01:06:34",
+      "album": {
+        "name": "Personality",
+        "url": "https://open.spotify.com/album/3hNiSRcbKZ8y5tkoBKyC5c"
+      },
+      "artists": [
+        {
+          "name": "Retroviral",
+          "url": "https://open.spotify.com/artist/2bemF0p9xqlEuiClwuECVl"
+        }
+      ],
+      "duration_ms": 195600,
+      "name": "Personality",
+      "url": "https://open.spotify.com/track/4d6opMFuuaU5YjfkSqpYV7"
     }
   ],
   "unique_name": "playlist spotify free",

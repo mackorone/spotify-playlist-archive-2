@@ -1,12 +1,12 @@
 {
   "description": "This is Esteman. The essential tracks, all in one playlist.",
-  "num_followers": 42374,
+  "num_followers": 42377,
   "original_name": "This Is Esteman",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAABV725E1AA3yQik0DonRsPg",
+  "snapshot_id": "aqstgAAAAAAmxZ3Pp7ZhMLaIXS70ZMhr",
   "tracks": [
     {
       "added_at": null,
@@ -339,6 +339,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sue\u00f1o C\u00edtrico",
+        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
+      },
+      "artists": [
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        },
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        }
+      ],
+      "duration_ms": 202538,
+      "name": "Vencimiento",
+      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "El Observador",
         "url": "https://open.spotify.com/album/2LKVBvvtASD8v1213UXXw3"
       },
@@ -375,26 +395,6 @@
       "duration_ms": 212313,
       "name": "Aeropuerto",
       "url": "https://open.spotify.com/track/49tB7r0lAVLPTk6pZoqpNP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sue\u00f1o C\u00edtrico",
-        "url": "https://open.spotify.com/album/0K7TuMwi1SkiZylSx8vXDf"
-      },
-      "artists": [
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        },
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        }
-      ],
-      "duration_ms": 202538,
-      "name": "Vencimiento",
-      "url": "https://open.spotify.com/track/1zFeJhyNJOnzm0nS20t3HX"
     },
     {
       "added_at": null,
@@ -559,26 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Si Volviera A Nacer",
-        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
-      },
-      "artists": [
-        {
-          "name": "Esteman",
-          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
-        },
-        {
-          "name": "Miranda!",
-          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
-        }
-      ],
-      "duration_ms": 221760,
-      "name": "Juan Y Paul",
-      "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Piensa en m\u00ed",
         "url": "https://open.spotify.com/album/5rMtRy2rK07v1CSthUb8ev"
       },
@@ -595,6 +575,26 @@
       "duration_ms": 173102,
       "name": "Piensa en m\u00ed",
       "url": "https://open.spotify.com/track/1XwNYoMOeD7399kxslic0Q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Si Volviera A Nacer",
+        "url": "https://open.spotify.com/album/0rc8MShj37cLImmPbUt8Pq"
+      },
+      "artists": [
+        {
+          "name": "Esteman",
+          "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
+        },
+        {
+          "name": "Miranda!",
+          "url": "https://open.spotify.com/artist/2eEmsgWmUFMbtU7agJpnjY"
+        }
+      ],
+      "duration_ms": 221760,
+      "name": "Juan Y Paul",
+      "url": "https://open.spotify.com/track/1FUKWcdbjLj872lLhgdVeu"
     },
     {
       "added_at": null,
@@ -779,22 +779,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cr\u00f3nica De Un Desamor Anunciado",
-        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
+        "name": "Secretos",
+        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
       },
       "artists": [
-        {
-          "name": "Kaia Lana",
-          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
-        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 200981,
-      "name": "Me Haces Mal",
-      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
+      "duration_ms": 187640,
+      "name": "Cartagena",
+      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
     },
     {
       "added_at": null,
@@ -815,18 +811,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Secretos",
-        "url": "https://open.spotify.com/album/2anoc6bJ4VPsGZQxrWZTOD"
+        "name": "Cr\u00f3nica De Un Desamor Anunciado",
+        "url": "https://open.spotify.com/album/69gpv2EqSR3nIV9bdqmicQ"
       },
       "artists": [
+        {
+          "name": "Kaia Lana",
+          "url": "https://open.spotify.com/artist/2w1kIJBDjYnpHHVLiTn3FJ"
+        },
         {
           "name": "Esteman",
           "url": "https://open.spotify.com/artist/3ZtIhDSOuRkpDyqjx53X1R"
         }
       ],
-      "duration_ms": 187640,
-      "name": "Cartagena",
-      "url": "https://open.spotify.com/track/1ZgCfe0fYlgjvbRpJYp2hV"
+      "duration_ms": 200981,
+      "name": "Me Haces Mal",
+      "url": "https://open.spotify.com/track/2hCSYP7BoWsDgnu4NwmPdC"
     },
     {
       "added_at": null,

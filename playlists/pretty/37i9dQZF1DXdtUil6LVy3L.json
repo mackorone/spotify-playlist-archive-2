@@ -1,12 +1,12 @@
 {
   "description": "Cozy Christmas jazz tunes for your shopping, wrapping, cooking, studying or relaxing.",
-  "num_followers": 38777,
+  "num_followers": 38776,
   "original_name": "Jazzy Christmas Chill\ud83c\udf84\u2728",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABPEYT0awLYT0Twkhw1zR1+gK6EK",
+  "snapshot_id": "AAAAAAfoXrNaa1V7sSvE08POXr6FPGs8",
   "tracks": [
     {
       "added_at": "2025-12-19 14:32:05",
@@ -555,22 +555,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Meet Me Under the Mistletoe",
-        "url": "https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc"
-      },
-      "artists": [
-        {
-          "name": "Belleville",
-          "url": "https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V"
-        }
-      ],
-      "duration_ms": 204187,
-      "name": "Meet Me Under the Mistletoe",
-      "url": "https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "A Night To Remember",
         "url": "https://open.spotify.com/album/09K85uBFteuPunRZw3z0HQ"
       },
@@ -583,6 +567,22 @@
       "duration_ms": 200516,
       "name": "A Night To Remember",
       "url": "https://open.spotify.com/track/2rNZgCXOKKQQh70tYCtPkS"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Meet Me Under the Mistletoe",
+        "url": "https://open.spotify.com/album/7eWMP5eQSUrOKivRDD9rHc"
+      },
+      "artists": [
+        {
+          "name": "Belleville",
+          "url": "https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V"
+        }
+      ],
+      "duration_ms": 204187,
+      "name": "Meet Me Under the Mistletoe",
+      "url": "https://open.spotify.com/track/39kbAYlQI8I9WA6j3YxKSD"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -603,22 +603,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Away in a manger",
-        "url": "https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz"
-      },
-      "artists": [
-        {
-          "name": "The Mill Basin Band",
-          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
-        }
-      ],
-      "duration_ms": 126007,
-      "name": "Away in a manger",
-      "url": "https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "The Gift of Joy",
         "url": "https://open.spotify.com/album/5eRAFq93ULac7FqDP2uKna"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 177215,
       "name": "The Gift of Joy",
       "url": "https://open.spotify.com/track/4depPKWxAgfS0Okw7ZY41V"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Away in a manger",
+        "url": "https://open.spotify.com/album/5aO0KpQkTRPpVKErKhE3Wz"
+      },
+      "artists": [
+        {
+          "name": "The Mill Basin Band",
+          "url": "https://open.spotify.com/artist/4lMgo5IwaCdF1fRSdubcUU"
+        }
+      ],
+      "duration_ms": 126007,
+      "name": "Away in a manger",
+      "url": "https://open.spotify.com/track/0E6J6VqH8KDsWoRW9uwNBY"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -715,22 +715,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "God Rest Ye, Merry Gentlemen",
-        "url": "https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny"
-      },
-      "artists": [
-        {
-          "name": "Rossdale Junction",
-          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
-        }
-      ],
-      "duration_ms": 120061,
-      "name": "God Rest Ye, Merry Gentlemen",
-      "url": "https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "I've Got My Love To Keep Me Warm",
         "url": "https://open.spotify.com/album/5aB8qoGTXzpnlE7XSxCFdJ"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 180731,
       "name": "I've Got My Love To Keep Me Warm",
       "url": "https://open.spotify.com/track/7A7CHS1v0c0uy6Yf89lXI2"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "God Rest Ye, Merry Gentlemen",
+        "url": "https://open.spotify.com/album/4YL35s4guMbT7Sfn696Rny"
+      },
+      "artists": [
+        {
+          "name": "Rossdale Junction",
+          "url": "https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO"
+        }
+      ],
+      "duration_ms": 120061,
+      "name": "God Rest Ye, Merry Gentlemen",
+      "url": "https://open.spotify.com/track/4uTqFlXMoLOn8qbc50Ib5d"
     },
     {
       "added_at": "2025-12-19 14:32:05",
@@ -1147,22 +1147,6 @@
     {
       "added_at": "2025-12-19 14:32:05",
       "album": {
-        "name": "Candlelit Within",
-        "url": "https://open.spotify.com/album/3nKPaFrNuWs3go1l4WFS4u"
-      },
-      "artists": [
-        {
-          "name": "Joseph Cole",
-          "url": "https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l"
-        }
-      ],
-      "duration_ms": 156511,
-      "name": "Candlelit Within",
-      "url": "https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl"
-    },
-    {
-      "added_at": "2025-12-19 14:32:05",
-      "album": {
         "name": "O Little Town Of Bethlehem",
         "url": "https://open.spotify.com/album/5ATgjzS28kfGc1mEb7woSb"
       },
@@ -1175,6 +1159,22 @@
       "duration_ms": 121585,
       "name": "O Little Town Of Bethlehem",
       "url": "https://open.spotify.com/track/1kmTkjdISuKcmP5NTop76j"
+    },
+    {
+      "added_at": "2025-12-19 14:32:05",
+      "album": {
+        "name": "Candlelit Within",
+        "url": "https://open.spotify.com/album/3nKPaFrNuWs3go1l4WFS4u"
+      },
+      "artists": [
+        {
+          "name": "Joseph Cole",
+          "url": "https://open.spotify.com/artist/1g058tnDJO8IRJH1ymkz7l"
+        }
+      ],
+      "duration_ms": 156511,
+      "name": "Candlelit Within",
+      "url": "https://open.spotify.com/track/4KzPfpoiBHHOX8DYZydShl"
     },
     {
       "added_at": "2025-12-19 14:32:05",

@@ -310,7 +310,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 237500,
       "name": "909",
       "url": "https://open.spotify.com/track/2NNyqVX63BJq603V80uBCf"
@@ -1284,7 +1284,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 179876,
       "name": "Attitude",
       "url": "https://open.spotify.com/track/0m7yrxSM3BOhuuON1iY6hG"
@@ -2137,6 +2137,28 @@
     },
     {
       "album": {
+        "name": "Bassline Criminal (feat. Kxne)",
+        "url": "https://open.spotify.com/album/2vIF1mDCHHsUWEXWgPVlLA"
+      },
+      "artists": [
+        {
+          "name": "Average Citizens",
+          "url": "https://open.spotify.com/artist/5sN9PgGYPrFI5OcEHF7VR9"
+        },
+        {
+          "name": "Kxne",
+          "url": "https://open.spotify.com/artist/2ra4pgvFtoYYzvXir3E4JD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273636,
+      "name": "Bassline Criminal (feat. Kxne)",
+      "url": "https://open.spotify.com/track/6z7NESbfbZugosxbeYxYCM"
+    },
+    {
+      "album": {
         "name": "Be Here (La La La)",
         "url": "https://open.spotify.com/album/3c8WhTXdr0jNmaBxbOyxmM"
       },
@@ -2196,6 +2218,28 @@
       "duration_ms": 206869,
       "name": "Beautiful",
       "url": "https://open.spotify.com/track/5e5sLyUNCoSnJo1dv8ltbJ"
+    },
+    {
+      "album": {
+        "name": "Behave",
+        "url": "https://open.spotify.com/album/1aWVqCic34imSRfE0bulXR"
+      },
+      "artists": [
+        {
+          "name": "OYODASS",
+          "url": "https://open.spotify.com/artist/2BD5FbzJFQHIPylgzvqTXY"
+        },
+        {
+          "name": "HayaT",
+          "url": "https://open.spotify.com/artist/2agGHayL4gjtEoH0WmYNiH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130909,
+      "name": "Behave",
+      "url": "https://open.spotify.com/track/71IKZSvJfGoFR02diigW31"
     },
     {
       "album": {
@@ -2790,6 +2834,24 @@
       "duration_ms": 146610,
       "name": "BPM",
       "url": "https://open.spotify.com/track/3v1IQk2ibvoG3bxI9qp9t3"
+    },
+    {
+      "album": {
+        "name": "Break Down",
+        "url": "https://open.spotify.com/album/7icjD1X2y3V5F6Ic4FrzGJ"
+      },
+      "artists": [
+        {
+          "name": "RDGO",
+          "url": "https://open.spotify.com/artist/6UZEErPAl6SmBfodfX4U8c"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192727,
+      "name": "Break Down",
+      "url": "https://open.spotify.com/track/0gD2XdavES6JLtyV4UcYLu"
     },
     {
       "album": {
@@ -3992,7 +4054,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 187279,
       "name": "Contact",
       "url": "https://open.spotify.com/track/2BVyRnQTr2by4dvTdhP6LI"
@@ -4230,7 +4292,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 125625,
       "name": "Crazy",
       "url": "https://open.spotify.com/track/4a1UArX9uL4trMks4wu8LZ"
@@ -4774,6 +4836,24 @@
       "duration_ms": 192000,
       "name": "Different Shit",
       "url": "https://open.spotify.com/track/3Jp6kKe9kPVQJvkC9kUIGz"
+    },
+    {
+      "album": {
+        "name": "Disconnect",
+        "url": "https://open.spotify.com/album/1RVHBdgKYwmlfiKCrMKfzB"
+      },
+      "artists": [
+        {
+          "name": "BYOR",
+          "url": "https://open.spotify.com/artist/0Upxnyh9nIUNSOmNE8WF4R"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138181,
+      "name": "Disconnect",
+      "url": "https://open.spotify.com/track/2OBxGsKYLjnRX3VpdAHlBI"
     },
     {
       "album": {
@@ -9761,6 +9841,24 @@
     },
     {
       "album": {
+        "name": "I Just Wanna Dance",
+        "url": "https://open.spotify.com/album/3KE6zlLzUsyjFwhWExjZhY"
+      },
+      "artists": [
+        {
+          "name": "LxAM",
+          "url": "https://open.spotify.com/artist/3sYpdgBvkCjlFmuhpaHW3U"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147398,
+      "name": "I Just Wanna Dance",
+      "url": "https://open.spotify.com/track/4ixFEimLgmcwdI5fSdzmP1"
+    },
+    {
+      "album": {
         "name": "I Know",
         "url": "https://open.spotify.com/album/4PEATKNNKmWcSoRLyVQDRS"
       },
@@ -11992,7 +12090,7 @@
       ],
       "date_added": "2026-01-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 169308,
       "name": "Loose Pt. 3",
       "url": "https://open.spotify.com/track/2Hg1IXJ36JXi40dmTqJ5T4"
@@ -13236,17 +13334,13 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Imael Angel",
-          "url": "https://open.spotify.com/artist/17yREPqyU875WJnX9U082A"
-        },
-        {
           "name": "Ultra Nat\u00e9",
           "url": "https://open.spotify.com/artist/1cK2Abwkni7m51wJCSGllN"
         }
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/25DgjoTlKK8KjstM4cZ8L2"

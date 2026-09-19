@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: Kardinal Offishall & Glenn Lewis",
+  "description": "The coldest sounds in hip-hop, coming out of Canada. Cover: NAV & Young Thug",
   "name": "Northern Bars",
   "tracks": [
     {
@@ -4410,7 +4410,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 123428,
       "name": "BASIC AF",
       "url": "https://open.spotify.com/track/3YuOW9WO599gXwTQ3YaSj6"
@@ -9349,6 +9349,36 @@
     },
     {
       "album": {
+        "name": "Microdose, Vol. 2",
+        "url": "https://open.spotify.com/album/3yEIrSE2OVFoLFPIGETjZg"
+      },
+      "artists": [
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        },
+        {
+          "name": "Neutron The Plug",
+          "url": "https://open.spotify.com/artist/5bp7CO6X0tau0cUu4vXg4P"
+        },
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        },
+        {
+          "name": "Wanted",
+          "url": "https://open.spotify.com/artist/6QfKvLYfq3KavipR1LNPXL"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184468,
+      "name": "Copperfield",
+      "url": "https://open.spotify.com/track/0ko5T1nJAydaqAZw3dVa1Q"
+    },
+    {
+      "album": {
         "name": "Corde \u00e0 linge",
         "url": "https://open.spotify.com/album/7fPC38bEo6lSGyiTk7SNb2"
       },
@@ -11370,7 +11400,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 180965,
       "name": "DON DADA",
       "url": "https://open.spotify.com/track/5Ryfbx9CwOzsWktpzF9qaC"
@@ -19507,6 +19537,28 @@
     },
     {
       "album": {
+        "name": "i was gone",
+        "url": "https://open.spotify.com/album/5Rrmr45Yfy9dqttbh5k1ia"
+      },
+      "artists": [
+        {
+          "name": "Maky Lavender",
+          "url": "https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6"
+        },
+        {
+          "name": "David Campana",
+          "url": "https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156000,
+      "name": "i was gone",
+      "url": "https://open.spotify.com/track/4tc63itlGrACm0prjhHD8v"
+    },
+    {
+      "album": {
         "name": "I'M GOOD",
         "url": "https://open.spotify.com/album/4Yi6Tiw8YKTj43Yy6oQDtd"
       },
@@ -20638,7 +20690,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 144705,
       "name": "Jaded",
       "url": "https://open.spotify.com/track/107qvFVsmTbVGpfALSNfA0"
@@ -21114,6 +21166,24 @@
       "duration_ms": 132345,
       "name": "Just Like Me feat. NAV",
       "url": "https://open.spotify.com/track/3NNHfUOA7t6VEZ8j1hqtmv"
+    },
+    {
+      "album": {
+        "name": "Just Us In The Room",
+        "url": "https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT"
+      },
+      "artists": [
+        {
+          "name": "TOBi",
+          "url": "https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168046,
+      "name": "Just Us In The Room",
+      "url": "https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg"
     },
     {
       "album": {
@@ -25267,6 +25337,28 @@
     },
     {
       "album": {
+        "name": "COCOON",
+        "url": "https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188503,
+      "name": "MISS MY DAWG (feat. Drake)",
+      "url": "https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A"
+    },
+    {
+      "album": {
         "name": "Across The Board",
         "url": "https://open.spotify.com/album/7AhYf4qUNi9xkpc6JSgDPs"
       },
@@ -26740,7 +26832,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 229071,
       "name": "Mystique",
       "url": "https://open.spotify.com/track/2jSkJ6giy5f424JvGBYVIn"
@@ -27156,7 +27248,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 129558,
       "name": "New Drop",
       "url": "https://open.spotify.com/track/4m6KMftkq26KfRi4c945OO"
@@ -28074,6 +28166,24 @@
       "duration_ms": 204277,
       "name": "No Reason",
       "url": "https://open.spotify.com/track/1btZPyHhKi6jKrkJouQPPE"
+    },
+    {
+      "album": {
+        "name": "No Saint",
+        "url": "https://open.spotify.com/album/7J6jr81lK64KD7XSu1XgSY"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118060,
+      "name": "No Saint",
+      "url": "https://open.spotify.com/track/5FMjhlVcEpyVZvcWNZpbdo"
     },
     {
       "album": {
@@ -29375,6 +29485,24 @@
     },
     {
       "album": {
+        "name": "ON THE ROCKS",
+        "url": "https://open.spotify.com/album/6ZeIAeFaKbRrtTCVSusibO"
+      },
+      "artists": [
+        {
+          "name": "RUSSELL!",
+          "url": "https://open.spotify.com/artist/1cEcF3RdBDSBjhF5Udcmdb"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172268,
+      "name": "ON THE ROCKS",
+      "url": "https://open.spotify.com/track/67TqmQxiwHPa9sUJiJS35o"
+    },
+    {
+      "album": {
         "name": "ON THE RUN",
         "url": "https://open.spotify.com/album/1mOKEoCmKoMMNjV6gmGfdi"
       },
@@ -29616,7 +29744,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 121756,
       "name": "Onion",
       "url": "https://open.spotify.com/track/4NQAnaZVOxRg9jfFfA5LVA"
@@ -31828,7 +31956,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 113333,
       "name": "POP MY SHIT",
       "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
@@ -36838,7 +36966,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 271947,
       "name": "Someone I Knew (at Dreamhouse Studios)",
       "url": "https://open.spotify.com/track/21DmVZ10UWqUcWc9c2L7C3"
@@ -39400,6 +39528,24 @@
       "duration_ms": 124511,
       "name": "TALK MY SHIT",
       "url": "https://open.spotify.com/track/1vcsdCE0qlLxRIWv9lsKDh"
+    },
+    {
+      "album": {
+        "name": "TALK2MUCH",
+        "url": "https://open.spotify.com/album/0j1Fkvjf5Ayb5NP6OBdtvl"
+      },
+      "artists": [
+        {
+          "name": "4sante",
+          "url": "https://open.spotify.com/artist/2GJUNhi3knOQjYM9OPq8yD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199568,
+      "name": "TALK2MUCH",
+      "url": "https://open.spotify.com/track/06q6d5TWaqK6pIvE20VjE8"
     },
     {
       "album": {
@@ -45039,6 +45185,32 @@
     },
     {
       "album": {
+        "name": "Who did it?",
+        "url": "https://open.spotify.com/album/7yn120kp8Bk4hWaORuLGW9"
+      },
+      "artists": [
+        {
+          "name": "TAAYLEE G",
+          "url": "https://open.spotify.com/artist/3UL3HL2fv69tDavqXTwDhM"
+        },
+        {
+          "name": "Mazzi 500",
+          "url": "https://open.spotify.com/artist/5WdcOIjKV53EqBjpykrhjZ"
+        },
+        {
+          "name": "BIG23",
+          "url": "https://open.spotify.com/artist/2yviEkkykJdorlVyGy0dlI"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182479,
+      "name": "Who did it?",
+      "url": "https://open.spotify.com/track/74BwvF7c5hSXuyyBkVFBct"
+    },
+    {
+      "album": {
         "name": "WHO DO YOU KNOW?",
         "url": "https://open.spotify.com/album/0GQoqhgABNr7DcQFrSAiv7"
       },
@@ -45156,6 +45328,28 @@
       "duration_ms": 166160,
       "name": "Who!? What!?",
       "url": "https://open.spotify.com/track/1YTzKEfWyUaptahtWr7jmQ"
+    },
+    {
+      "album": {
+        "name": "Who's Down",
+        "url": "https://open.spotify.com/album/6sfrSwMGqA53IpGHEE1LdE"
+      },
+      "artists": [
+        {
+          "name": "City Fidelia",
+          "url": "https://open.spotify.com/artist/04IRs1NjfLU4BHyNDUDMsB"
+        },
+        {
+          "name": "Kraftykid",
+          "url": "https://open.spotify.com/artist/5pRWzyK7lEorYbAwsX4ord"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176469,
+      "name": "Who's Down",
+      "url": "https://open.spotify.com/track/5CgXOdDIVPufhlmjZyulhZ"
     },
     {
       "album": {
@@ -46380,7 +46574,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 201242,
       "name": "Yesterday",
       "url": "https://open.spotify.com/track/5RTxycYPWDVAG1k2j4NFcZ"

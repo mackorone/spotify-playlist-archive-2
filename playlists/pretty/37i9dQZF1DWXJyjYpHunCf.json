@@ -1,76 +1,44 @@
 {
-  "description": "The best of folk-infused pop and singer-songwriter. Cover: Phillip Phillips\n",
-  "num_followers": 954878,
+  "description": "The best of folk-infused pop and singer-songwriter. Cover: Cassandra Coleman",
+  "num_followers": 954937,
   "original_name": "Folk Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOE8tQhPFw9cwP6fm+iuJdRQSv3M",
+  "snapshot_id": "AAAAALG6ItY9EPWHeCR66x0GT1YQm+bA",
   "tracks": [
     {
-      "added_at": "2026-09-11 04:01:12",
+      "added_at": "2026-09-18 04:01:02",
       "album": {
-        "name": "Under Control",
-        "url": "https://open.spotify.com/album/6eXDWPydrJ1fnpaf01UW3x"
+        "name": "End Of Your Love",
+        "url": "https://open.spotify.com/album/0boQbM2Y1UuPVNyhDTRvjD"
       },
       "artists": [
         {
-          "name": "The Brook & The Bluff",
-          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+          "name": "Cassandra Coleman",
+          "url": "https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV"
         }
       ],
-      "duration_ms": 152028,
-      "name": "Under Control",
-      "url": "https://open.spotify.com/track/3eZQ4tZpWFz9fOSw80FXGg"
+      "duration_ms": 250865,
+      "name": "End Of Your Love",
+      "url": "https://open.spotify.com/track/5pXwBJIXdskly7dogEQUKw"
     },
     {
-      "added_at": "2026-09-04 04:01:22",
+      "added_at": "2026-09-18 04:01:02",
       "album": {
-        "name": "Wild Woman",
-        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
+        "name": "The Late Show",
+        "url": "https://open.spotify.com/album/5B8dcN7FeNf1050hUs28gM"
       },
       "artists": [
         {
-          "name": "Andrea Bejar",
-          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+          "name": "Evan Honer",
+          "url": "https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP"
         }
       ],
-      "duration_ms": 179303,
-      "name": "Wild Woman",
-      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
-        "name": "Let's Go Far: Vol. 1",
-        "url": "https://open.spotify.com/album/4FZrEZF2B4zaiC0icWNITX"
-      },
-      "artists": [
-        {
-          "name": "Phillip Phillips",
-          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
-        }
-      ],
-      "duration_ms": 245440,
-      "name": "My Dark Places",
-      "url": "https://open.spotify.com/track/3eRPPaLoyyidcMge6KhnI8"
-    },
-    {
-      "added_at": "2026-09-11 04:01:12",
-      "album": {
-        "name": "Isabelle Fly",
-        "url": "https://open.spotify.com/album/5uE4ERkkeXvR051RYx5L22"
-      },
-      "artists": [
-        {
-          "name": "The Lumineers",
-          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
-        }
-      ],
-      "duration_ms": 209766,
-      "name": "Isabelle Fly",
-      "url": "https://open.spotify.com/track/4jrlNVzdotW3tpcaVqVnuv"
+      "duration_ms": 186764,
+      "name": "The Late Show",
+      "url": "https://open.spotify.com/track/2lDIKBnTJJWB66Hn0aouHG"
     },
     {
       "added_at": "2026-09-04 04:01:22",
@@ -93,6 +61,118 @@
       "url": "https://open.spotify.com/track/0E8KC0cKuIdj9NjaDBooVc"
     },
     {
+      "added_at": "2026-09-04 04:01:22",
+      "album": {
+        "name": "Wild Woman",
+        "url": "https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6"
+      },
+      "artists": [
+        {
+          "name": "Andrea Bejar",
+          "url": "https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8"
+        }
+      ],
+      "duration_ms": 179303,
+      "name": "Wild Woman",
+      "url": "https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x"
+    },
+    {
+      "added_at": "2026-09-18 04:01:02",
+      "album": {
+        "name": "Universe Awaiting EP",
+        "url": "https://open.spotify.com/album/6PpbsztD3IG5xV4dGyrFVt"
+      },
+      "artists": [
+        {
+          "name": "Charlie Burg",
+          "url": "https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8"
+        }
+      ],
+      "duration_ms": 185500,
+      "name": "Universe Awaiting",
+      "url": "https://open.spotify.com/track/0X8aiGfHrN5cfIg67jdgh6"
+    },
+    {
+      "added_at": "2026-09-11 04:01:12",
+      "album": {
+        "name": "Under Control",
+        "url": "https://open.spotify.com/album/6eXDWPydrJ1fnpaf01UW3x"
+      },
+      "artists": [
+        {
+          "name": "The Brook & The Bluff",
+          "url": "https://open.spotify.com/artist/4dWtsQvuME6tCWFycaTvO7"
+        }
+      ],
+      "duration_ms": 152028,
+      "name": "Under Control",
+      "url": "https://open.spotify.com/track/3eZQ4tZpWFz9fOSw80FXGg"
+    },
+    {
+      "added_at": "2026-09-04 04:01:22",
+      "album": {
+        "name": "Let's Go Far: Vol. 1",
+        "url": "https://open.spotify.com/album/4FZrEZF2B4zaiC0icWNITX"
+      },
+      "artists": [
+        {
+          "name": "Phillip Phillips",
+          "url": "https://open.spotify.com/artist/6p5JxpTc7USNnBnLzctyd4"
+        }
+      ],
+      "duration_ms": 245440,
+      "name": "My Dark Places",
+      "url": "https://open.spotify.com/track/3eRPPaLoyyidcMge6KhnI8"
+    },
+    {
+      "added_at": "2026-09-18 04:01:02",
+      "album": {
+        "name": "Wind Up",
+        "url": "https://open.spotify.com/album/1k5Vms8StthNKAQIjCzKOj"
+      },
+      "artists": [
+        {
+          "name": "HAFFWAY",
+          "url": "https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH"
+        }
+      ],
+      "duration_ms": 200717,
+      "name": "Wind Up",
+      "url": "https://open.spotify.com/track/7tr6hTeo3INeHKvToHYRDa"
+    },
+    {
+      "added_at": "2026-09-04 04:01:22",
+      "album": {
+        "name": "Is This Heaven? (Extended)",
+        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 169121,
+      "name": "Good At Leaving",
+      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
+    },
+    {
+      "added_at": "2026-09-11 04:01:12",
+      "album": {
+        "name": "Isabelle Fly",
+        "url": "https://open.spotify.com/album/5uE4ERkkeXvR051RYx5L22"
+      },
+      "artists": [
+        {
+          "name": "The Lumineers",
+          "url": "https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg"
+        }
+      ],
+      "duration_ms": 209766,
+      "name": "Isabelle Fly",
+      "url": "https://open.spotify.com/track/4jrlNVzdotW3tpcaVqVnuv"
+    },
+    {
       "added_at": "2026-09-11 04:01:12",
       "album": {
         "name": "Hanging Out In My Head",
@@ -111,22 +191,6 @@
       "duration_ms": 168000,
       "name": "Hanging Out In My Head",
       "url": "https://open.spotify.com/track/5ValF3UWlU0MasMfGFXXle"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
-        "name": "Is This Heaven? (Extended)",
-        "url": "https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 169121,
-      "name": "Good At Leaving",
-      "url": "https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE"
     },
     {
       "added_at": "2026-09-04 04:01:22",
@@ -1167,22 +1231,6 @@
     {
       "added_at": "2026-09-04 04:01:22",
       "album": {
-        "name": "Good Boy",
-        "url": "https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF"
-      },
-      "artists": [
-        {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
-        }
-      ],
-      "duration_ms": 222106,
-      "name": "Good Boy",
-      "url": "https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
         "name": "Say My Name In Your Sleep",
         "url": "https://open.spotify.com/album/4hClukIu7dTzWcMTYT0Aoz"
       },
@@ -1387,6 +1435,22 @@
     {
       "added_at": "2026-09-04 04:01:22",
       "album": {
+        "name": "DON'T WANNA GO HOME",
+        "url": "https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg"
+      },
+      "artists": [
+        {
+          "name": "Adrien Nunez",
+          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+        }
+      ],
+      "duration_ms": 133560,
+      "name": "DON'T WANNA GO HOME",
+      "url": "https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM"
+    },
+    {
+      "added_at": "2026-09-04 04:01:22",
+      "album": {
         "name": "Skeleton",
         "url": "https://open.spotify.com/album/06nY6LXMeaRGEudo7i2IOd"
       },
@@ -1399,22 +1463,6 @@
       "duration_ms": 158802,
       "name": "Skeleton",
       "url": "https://open.spotify.com/track/2Yn9puKCi8DRD1oYi4kNn8"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
-        "name": "Ready to Let You Down",
-        "url": "https://open.spotify.com/album/3tkB4oJJ3ENFQMDjflYIBu"
-      },
-      "artists": [
-        {
-          "name": "JOSEPH",
-          "url": "https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO"
-        }
-      ],
-      "duration_ms": 184832,
-      "name": "Ready to Let You Down",
-      "url": "https://open.spotify.com/track/4SEbW0shz7Q7yN3qrEDoQM"
     },
     {
       "added_at": "2026-09-04 04:01:22",
@@ -1467,22 +1515,6 @@
     {
       "added_at": "2026-09-04 04:01:22",
       "album": {
-        "name": "Matches & Gasoline",
-        "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
-      },
-      "artists": [
-        {
-          "name": "Noah Rinker",
-          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
-        }
-      ],
-      "duration_ms": 287063,
-      "name": "Matches & Gasoline",
-      "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
         "name": "Canaries in a Coal Mine",
         "url": "https://open.spotify.com/album/33UCr0zXoaacNfDUcznxxX"
       },
@@ -1515,18 +1547,18 @@
     {
       "added_at": "2026-09-04 04:01:22",
       "album": {
-        "name": "Good Grief",
-        "url": "https://open.spotify.com/album/4W3taFGD605teSYbVv4rfu"
+        "name": "We Are Young (But Only Once) [Extended]",
+        "url": "https://open.spotify.com/album/02x5BfFCWAYBrwZnfvvVWO"
       },
       "artists": [
         {
-          "name": "Bre Kennedy",
-          "url": "https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj"
+          "name": "Dominik Dudek",
+          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
         }
       ],
-      "duration_ms": 215572,
-      "name": "Good Grief",
-      "url": "https://open.spotify.com/track/1XJiPT4CuzLju0dLeEA559"
+      "duration_ms": 185076,
+      "name": "Saving Grace",
+      "url": "https://open.spotify.com/track/2QwVLmoHNRrPjStGPPts5G"
     },
     {
       "added_at": "2026-09-04 04:01:22",
@@ -1547,22 +1579,6 @@
     {
       "added_at": "2026-09-04 04:01:22",
       "album": {
-        "name": "We Are Young (But Only Once) [Extended]",
-        "url": "https://open.spotify.com/album/02x5BfFCWAYBrwZnfvvVWO"
-      },
-      "artists": [
-        {
-          "name": "Dominik Dudek",
-          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
-        }
-      ],
-      "duration_ms": 185076,
-      "name": "Saving Grace",
-      "url": "https://open.spotify.com/track/2QwVLmoHNRrPjStGPPts5G"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
         "name": "Somebody Nobody Gets Over",
         "url": "https://open.spotify.com/album/49xvRotzBI9ef94BJ5WhHf"
       },
@@ -1575,26 +1591,6 @@
       "duration_ms": 167808,
       "name": "Somebody Nobody Gets Over",
       "url": "https://open.spotify.com/track/4mgHSgglAVlr7i7vPKJmSo"
-    },
-    {
-      "added_at": "2026-09-04 04:01:22",
-      "album": {
-        "name": "LOOK! I'm Alive",
-        "url": "https://open.spotify.com/album/6kEeD6FBlXWEuWN2YFj4pU"
-      },
-      "artists": [
-        {
-          "name": "Quinn XCII",
-          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
-        },
-        {
-          "name": "DISPATCH",
-          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
-        }
-      ],
-      "duration_ms": 243038,
-      "name": "Live & Let Go (with DISPATCH)",
-      "url": "https://open.spotify.com/track/5bANCdXPTD9Lik5JGhYsAO"
     },
     {
       "added_at": "2026-09-04 04:01:22",
@@ -1615,38 +1611,38 @@
     {
       "added_at": "2026-09-04 04:01:22",
       "album": {
-        "name": "HEARTLAND : PART I",
-        "url": "https://open.spotify.com/album/4DTMQjooZcqq7rXrYmywo6"
+        "name": "Matches & Gasoline",
+        "url": "https://open.spotify.com/album/3NB6G28F41Ee1iH2NXI6Xm"
       },
       "artists": [
         {
-          "name": "MORGXN",
-          "url": "https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW"
-        },
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+          "name": "Noah Rinker",
+          "url": "https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6"
         }
       ],
-      "duration_ms": 218400,
-      "name": "TALK ABOUT IT",
-      "url": "https://open.spotify.com/track/5thXit7SfvatSSoRbks4DX"
+      "duration_ms": 287063,
+      "name": "Matches & Gasoline",
+      "url": "https://open.spotify.com/track/6rDacZ9BHqi3JEthMNEXgp"
     },
     {
       "added_at": "2026-09-04 04:01:22",
       "album": {
-        "name": "DON'T WANNA GO HOME",
-        "url": "https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg"
+        "name": "LOOK! I'm Alive",
+        "url": "https://open.spotify.com/album/6kEeD6FBlXWEuWN2YFj4pU"
       },
       "artists": [
         {
-          "name": "Adrien Nunez",
-          "url": "https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ"
+          "name": "Quinn XCII",
+          "url": "https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd"
+        },
+        {
+          "name": "DISPATCH",
+          "url": "https://open.spotify.com/artist/6v4jPZO3UIDNJIgdxRxtr9"
         }
       ],
-      "duration_ms": 133560,
-      "name": "DON'T WANNA GO HOME",
-      "url": "https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM"
+      "duration_ms": 243038,
+      "name": "Live & Let Go (with DISPATCH)",
+      "url": "https://open.spotify.com/track/5bANCdXPTD9Lik5JGhYsAO"
     }
   ],
   "unique_name": "Folk Pop",

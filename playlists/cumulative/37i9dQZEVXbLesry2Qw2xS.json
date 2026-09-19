@@ -1864,7 +1864,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 270927,
       "name": "Ahvatlused",
       "url": "https://open.spotify.com/track/34goOdm2gZAiHtW294s6DP"
@@ -12713,6 +12713,24 @@
     },
     {
       "album": {
+        "name": "Good Girl Gone Bad",
+        "url": "https://open.spotify.com/album/4OXnPSBtZo8PBFiTOfuumP"
+      },
+      "artists": [
+        {
+          "name": "Rihanna",
+          "url": "https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267080,
+      "name": "Don't Stop The Music",
+      "url": "https://open.spotify.com/track/1Jo0Zg7XlrA6z0mFTZVdkn"
+    },
+    {
+      "album": {
         "name": "DON'T TAP THE GLASS",
         "url": "https://open.spotify.com/album/1jzv3jwZbt8lYfEtMjiD1R"
       },
@@ -22444,7 +22462,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 276687,
       "name": "I Got Love",
       "url": "https://open.spotify.com/track/43wgyQXc2M9KmTDUqVzugM"
@@ -23146,7 +23164,7 @@
       ],
       "date_added": "2026-01-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 190724,
       "name": "I Smoked Away My Brain (I'm God x Demons Mashup) (feat. Imogen Heap & Clams Casino)",
       "url": "https://open.spotify.com/track/3jnYCrF7UpSYAwwy1URW8d"
@@ -29300,7 +29318,7 @@
       ],
       "date_added": "2023-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-03",
+      "date_removed": null,
       "duration_ms": 154077,
       "name": "leekiv armastus",
       "url": "https://open.spotify.com/track/00hNKV1irlhbazTD3p7Uea"
@@ -29962,7 +29980,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 173142,
       "name": "Lihtsalt kaaslane",
       "url": "https://open.spotify.com/track/0StAgispgjih4elmadtyRY"
@@ -31076,7 +31094,7 @@
       ],
       "date_added": "2025-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 213466,
       "name": "Love Me Not",
       "url": "https://open.spotify.com/track/4WFgvKVfEhb3IUAFGrutTR"
@@ -47734,7 +47752,7 @@
       ],
       "date_added": "2026-05-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 168000,
       "name": "Shokolaad",
       "url": "https://open.spotify.com/track/6sz5KfeiBWSIPClpmOoKi8"
@@ -56574,7 +56592,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 178517,
       "name": "T\u00e4htede eest",
       "url": "https://open.spotify.com/track/4PtTBY7WI6fLot8TpXhENb"
@@ -60686,7 +60704,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"

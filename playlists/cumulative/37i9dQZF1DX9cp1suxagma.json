@@ -1205,6 +1205,24 @@
     },
     {
       "album": {
+        "name": "Fragmentos",
+        "url": "https://open.spotify.com/album/6JFcAexVjNUiaD58flvD5P"
+      },
+      "artists": [
+        {
+          "name": "Santiago Cruz",
+          "url": "https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213654,
+      "name": "Cuando Te Hayas Ido",
+      "url": "https://open.spotify.com/track/5gy7wqECbSpypcZ6RB5GkT"
+    },
+    {
+      "album": {
         "name": "CUCARACHEO",
         "url": "https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ"
       },
@@ -4286,7 +4304,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 192251,
       "name": "No Te Esperaba",
       "url": "https://open.spotify.com/track/39VpoxiF5HN43Hkc9flyGa"
@@ -4744,7 +4762,7 @@
       ],
       "date_added": "2023-02-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 179960,
       "name": "Planetas",
       "url": "https://open.spotify.com/track/2WzigCWeKa1LrTPbe6nUJq"
@@ -5284,6 +5302,32 @@
       "duration_ms": 176086,
       "name": "Salir Con Vida",
       "url": "https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw"
+    },
+    {
+      "album": {
+        "name": "Segunda Cita",
+        "url": "https://open.spotify.com/album/7nhWuuDKZNuXOHucKvXlm2"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170013,
+      "name": "Segunda Cita",
+      "url": "https://open.spotify.com/track/0M4EZodLBU7pomErJ9hD5W"
     },
     {
       "album": {

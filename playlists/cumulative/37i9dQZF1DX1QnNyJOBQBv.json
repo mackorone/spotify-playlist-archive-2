@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Pop on the rise you should know, featuring Camilo.",
+  "description": "Pop on the rise you should know, featuring ARIA VEGA.",
   "name": "Latin Pop Today",
   "tracks": [
     {
@@ -714,7 +714,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 191160,
       "name": "abusadOra (tambores)",
       "url": "https://open.spotify.com/track/1thaOV3ltF9gn3if93fyRo"
@@ -834,6 +834,28 @@
       "duration_ms": 153564,
       "name": "AGORA",
       "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
+    },
+    {
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
       "album": {
@@ -3989,6 +4011,24 @@
     },
     {
       "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
+    },
+    {
+      "album": {
         "name": "Conquistar El Planeta",
         "url": "https://open.spotify.com/album/1eyy2wEKQLrxwchTKHC5cd"
       },
@@ -4982,7 +5022,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 201500,
       "name": "desamarte",
       "url": "https://open.spotify.com/track/4bjGzeO9Eat8RhjW4IBDBC"
@@ -7188,6 +7228,24 @@
       "duration_ms": 203161,
       "name": "Gata Oficial",
       "url": "https://open.spotify.com/track/7hKVe53E4qYRGoRGk7tfYC"
+    },
+    {
+      "album": {
+        "name": "fill de la mar (2026)",
+        "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117857,
+      "name": "gaviotas de cristal",
+      "url": "https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh"
     },
     {
       "album": {
@@ -13005,6 +13063,28 @@
     },
     {
       "album": {
+        "name": "Pa' Bailar",
+        "url": "https://open.spotify.com/album/7nvo0gB4hZNFRn8sK0HXI0"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "Pa' Bailar",
+      "url": "https://open.spotify.com/track/62EHKz3dRbYol2F0epVQ0Z"
+    },
+    {
+      "album": {
         "name": "Canto Pa No Llorar",
         "url": "https://open.spotify.com/album/5bX6LxVm3m57Dd6pp1ASTf"
       },
@@ -14064,7 +14144,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 205653,
       "name": "principiante",
       "url": "https://open.spotify.com/track/6JZskcFRPDRpr5GtPzVFnM"
@@ -15157,6 +15237,32 @@
     },
     {
       "album": {
+        "name": "Segunda Cita",
+        "url": "https://open.spotify.com/album/7nhWuuDKZNuXOHucKvXlm2"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170013,
+      "name": "Segunda Cita",
+      "url": "https://open.spotify.com/track/0M4EZodLBU7pomErJ9hD5W"
+    },
+    {
+      "album": {
         "name": "SEGUNDO INTENTO",
         "url": "https://open.spotify.com/album/4uNKr16Lt1pTOiqhd4R7Ux"
       },
@@ -15488,7 +15594,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 140952,
       "name": "Si t\u00fa supieras\u2026",
       "url": "https://open.spotify.com/track/6aPlrDbqDmON1KAkUn4D6U"
@@ -17000,7 +17106,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 138994,
       "name": "TOTOTO (+4)",
       "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"

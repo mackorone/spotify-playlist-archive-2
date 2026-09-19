@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 
 > <a href="spotify:artist:3M3wTTCDwicRubwMyHyEDy"> Shygirl</a>'s favorite tracks\. Updated regularly\. Curated by Shygirl\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,697 likes - 72 songs - 3 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,694 likes - 72 songs - 3 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 36 | [Dolphin](https://open.spotify.com/track/1bzpFAFvucnsqFwqRB4XHk) | [Eartheater](https://open.spotify.com/artist/18ca9d5EU5R1AhVKPR1cm0), [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Shark Brain / Dolphin](https://open.spotify.com/album/1RTKS3ogUg57xDJaiW7dBj) | 3:05 |
 | 37 | [FTRW!](https://open.spotify.com/track/0eiuxRLtuTVZZI0UQcGzAa) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [FTRW!](https://open.spotify.com/album/2Uul5GoHM26xnV3WcTIpuR) | 4:11 |
 | 38 | [HooHooHoo](https://open.spotify.com/track/58F73soDs7qmO3tfOeZUhB) | [Surusinghe](https://open.spotify.com/artist/7m5jnraNhVbxMZ7B8FvCSe) | [HooHooHoo](https://open.spotify.com/album/7lGmDW32RDSh3tx3US5FlP) | 4:14 |
-| 39 | [001](https://open.spotify.com/track/6BTCpYcmwGBk4BVgdxQ5ZA) | [Suorcristona](https://open.spotify.com/artist/0Bqog93ANuhgpTLGIzcwza) | [selecta 002](https://open.spotify.com/album/07pr8juqXraD4u2baLrXEE) | 4:33 |
+| 39 | [001](https://open.spotify.com/track/6BTCpYcmwGBk4BVgdxQ5ZA) | [Maqo](https://open.spotify.com/artist/0Bqog93ANuhgpTLGIzcwza) | [selecta 002](https://open.spotify.com/album/07pr8juqXraD4u2baLrXEE) | 4:33 |
 | 40 | [Je M'appelle \- Florentino Remix](https://open.spotify.com/track/7vZSIc0xjsOXtcLmQRr2bm) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy), [Club Shy](https://open.spotify.com/artist/4qUk32dcxFNOv89M0iUItq), [Florentino](https://open.spotify.com/artist/1rhVQSyhxNOMN6RHi2sB44) | [Room 2 RMX](https://open.spotify.com/album/40MuSzLbGfsOmfkYoSPhSz) | 2:15 |
 | 41 | [Fuzil dos Drake](https://open.spotify.com/track/2mxRRv19stAPY5Abi9JRHs) | [Triz](https://open.spotify.com/artist/4ACGdFl6mPI3lntaYef1gc), [DJ Arana](https://open.spotify.com/artist/22RXQj1gd5zEbcRjdxiJbu) | [Fuzil dos Drake](https://open.spotify.com/album/2USFjeWFO7EsglsNGRXfgL) | 2:54 |
 | 42 | [Seven](https://open.spotify.com/track/0FrR0bn1T1kei89hlz6R7u) | [IShowSpeed](https://open.spotify.com/artist/0V5bkwV2Bd90bMLMc8JFeS), [DJ Scheme](https://open.spotify.com/artist/1m7LSAMIB1BErIHYSOn32W), [shonci](https://open.spotify.com/artist/0PDEn6fqo7VEhexzDok9Dl) | [Trip 2 Brazil](https://open.spotify.com/album/48o3p2p88HTSaiH8lKpgZ3) | 3:26 |
@@ -81,4 +81,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVsUAwZHD4MI.md) - [plain]
 | 71 | [NSYNC](https://open.spotify.com/track/3mZvLHvCRhY1WNvMIQ8QS7) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95), [BEAM](https://open.spotify.com/artist/46MWeeHNVMYRIIofQBEX98) | [NSYNC \(feat\. BEAM\)](https://open.spotify.com/album/2kXJciD20GygzPzqAWAaeA) | 2:23 |
 | 72 | [There Is Something I Can’t Find \(feat\. Mayah Alkhateri\)](https://open.spotify.com/track/4cSb7yKcrJGK8vYOd91FdR) | [KARL F RIVAS](https://open.spotify.com/artist/2wyfVm9NWgVasdW7iFbYOK), [Mayah Alkhateri](https://open.spotify.com/artist/6pRSMw1aD3tZ6oL214hU71) | [There Is Something I Can’t Find \(feat\. Mayah Alkhateri\)](https://open.spotify.com/album/6tK7Dyy8xl325QT0u8ziQb) | 3:28 |
 
-Snapshot ID: `AAAAAKftTRac5XSfJt4U01HzJujrRkeq`
+Snapshot ID: `AAAAAEBTQemCPRdlU9gCgQRAOAsCTWcc`

@@ -1,13 +1,93 @@
 {
-  "description": "The sweetest bops. Cover: KATSEYE",
-  "num_followers": 76856,
+  "description": "The sweetest bops. Cover: no na",
+  "num_followers": 76898,
   "original_name": "SUGAR",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPtcMKNftYuMuP6oRiRw3XVukcZ3",
+  "snapshot_id": "AAAAAEOq2hkxDJcqQNj2N3CNp+Tos7iP",
   "tracks": [
+    {
+      "added_at": "2026-09-18 04:03:00",
+      "album": {
+        "name": "island girl",
+        "url": "https://open.spotify.com/album/3SqmsePfS5FsfyrqzREGfR"
+      },
+      "artists": [
+        {
+          "name": "no na",
+          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
+        }
+      ],
+      "duration_ms": 146480,
+      "name": "party in the +62",
+      "url": "https://open.spotify.com/track/4AQX2lTPY1H7x473fjCzIt"
+    },
+    {
+      "added_at": "2026-08-28 04:01:04",
+      "album": {
+        "name": "TUNE & PLAY",
+        "url": "https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN"
+      },
+      "artists": [
+        {
+          "name": "TUIDE",
+          "url": "https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf"
+        }
+      ],
+      "duration_ms": 181000,
+      "name": "SUN KISS",
+      "url": "https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy"
+    },
+    {
+      "added_at": "2026-09-18 04:03:00",
+      "album": {
+        "name": "new trick",
+        "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "duration_ms": 182582,
+      "name": "new trick",
+      "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
+    },
+    {
+      "added_at": "2026-09-11 04:01:38",
+      "album": {
+        "name": "Made My Night",
+        "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 126000,
+      "name": "Made My Night",
+      "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
+    },
+    {
+      "added_at": "2026-09-18 04:03:00",
+      "album": {
+        "name": "bad taste",
+        "url": "https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "duration_ms": 170400,
+      "name": "bad taste",
+      "url": "https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs"
+    },
     {
       "added_at": "2026-08-28 04:01:04",
       "album": {
@@ -27,18 +107,34 @@
     {
       "added_at": "2026-09-11 04:01:38",
       "album": {
-        "name": "Made My Night",
-        "url": "https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt"
+        "name": "SaWaDiKa",
+        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
       },
       "artists": [
         {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+          "name": "LISA",
+          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
         }
       ],
-      "duration_ms": 126000,
-      "name": "Made My Night",
-      "url": "https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi"
+      "duration_ms": 188531,
+      "name": "SaWaDiKa",
+      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
+    },
+    {
+      "added_at": "2026-04-07 02:40:52",
+      "album": {
+        "name": "SEQUENCE 01.5 (dreaming of the 2nd 1st impact - consequences of fate redux)",
+        "url": "https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb"
+      },
+      "artists": [
+        {
+          "name": "f5ve",
+          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "I Choose You",
+      "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
     },
     {
       "added_at": "2026-09-11 04:01:38",
@@ -55,6 +151,22 @@
       "duration_ms": 159095,
       "name": "CLICK",
       "url": "https://open.spotify.com/track/1zyNO73bPNPC6KBi3raNmZ"
+    },
+    {
+      "added_at": "2026-07-24 04:00:28",
+      "album": {
+        "name": "KISS N TELL",
+        "url": "https://open.spotify.com/album/5pwhf4kv2qX10i6k2uJsFp"
+      },
+      "artists": [
+        {
+          "name": "aespa",
+          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
+        }
+      ],
+      "duration_ms": 166000,
+      "name": "KISS N TELL",
+      "url": "https://open.spotify.com/track/3Fse9qXqMNey4TL5mLy8IF"
     },
     {
       "added_at": "2026-08-28 04:01:04",
@@ -91,38 +203,6 @@
     {
       "added_at": "2026-08-28 04:01:04",
       "album": {
-        "name": "SWEAT",
-        "url": "https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq"
-      },
-      "artists": [
-        {
-          "name": "KISS OF LIFE",
-          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
-        }
-      ],
-      "duration_ms": 173000,
-      "name": "SWEAT",
-      "url": "https://open.spotify.com/track/503e19tHN0QmaraGxAQzt7"
-    },
-    {
-      "added_at": "2026-07-24 04:00:28",
-      "album": {
-        "name": "KISS N TELL",
-        "url": "https://open.spotify.com/album/5pwhf4kv2qX10i6k2uJsFp"
-      },
-      "artists": [
-        {
-          "name": "aespa",
-          "url": "https://open.spotify.com/artist/6YVMFz59CuY7ngCxTxjpxE"
-        }
-      ],
-      "duration_ms": 166000,
-      "name": "KISS N TELL",
-      "url": "https://open.spotify.com/track/3Fse9qXqMNey4TL5mLy8IF"
-    },
-    {
-      "added_at": "2026-08-28 04:01:04",
-      "album": {
         "name": "Animal",
         "url": "https://open.spotify.com/album/3ybCwWDhYDt2GYSCYFiF83"
       },
@@ -137,36 +217,20 @@
       "url": "https://open.spotify.com/track/3ouNEk0tv5TTi8VWMe1xbX"
     },
     {
-      "added_at": "2026-09-11 04:01:38",
-      "album": {
-        "name": "SaWaDiKa",
-        "url": "https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O"
-      },
-      "artists": [
-        {
-          "name": "LISA",
-          "url": "https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT"
-        }
-      ],
-      "duration_ms": 188531,
-      "name": "SaWaDiKa",
-      "url": "https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa"
-    },
-    {
       "added_at": "2026-08-28 04:01:04",
       "album": {
-        "name": "TUNE & PLAY",
-        "url": "https://open.spotify.com/album/6ctU4KzuUCZk9ZR8n0p6FN"
+        "name": "SWEAT",
+        "url": "https://open.spotify.com/album/4yEWhrGAxvMhNtL4TuO2rq"
       },
       "artists": [
         {
-          "name": "TUIDE",
-          "url": "https://open.spotify.com/artist/2uxeKIw5ancTu92x28Ctkf"
+          "name": "KISS OF LIFE",
+          "url": "https://open.spotify.com/artist/4TEK9tIkcoxib4GxT3O4ky"
         }
       ],
-      "duration_ms": 181000,
-      "name": "SUN KISS",
-      "url": "https://open.spotify.com/track/7Jpb9OejYYIwsBIVQwceRy"
+      "duration_ms": 173000,
+      "name": "SWEAT",
+      "url": "https://open.spotify.com/track/503e19tHN0QmaraGxAQzt7"
     },
     {
       "added_at": "2026-06-05 04:01:16",
@@ -771,22 +835,6 @@
     {
       "added_at": "2026-04-07 02:40:52",
       "album": {
-        "name": "SEQUENCE 01.5 (dreaming of the 2nd 1st impact - consequences of fate redux)",
-        "url": "https://open.spotify.com/album/214SKpjQqkpcPYnBbSspCb"
-      },
-      "artists": [
-        {
-          "name": "f5ve",
-          "url": "https://open.spotify.com/artist/6aiCF0pornq0j11wvKG4dy"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "I Choose You",
-      "url": "https://open.spotify.com/track/5cAsy4oXqZCemP9r7va8Ub"
-    },
-    {
-      "added_at": "2026-04-07 02:40:52",
-      "album": {
         "name": "FOCUS - The 1st Mini Album",
         "url": "https://open.spotify.com/album/0SVlu6q116wFO1m4EZ088b"
       },
@@ -879,26 +927,6 @@
       "duration_ms": 186973,
       "name": "WE GO UP",
       "url": "https://open.spotify.com/track/1tonXoW6dcb7GGNpec3PTl"
-    },
-    {
-      "added_at": "2026-04-07 02:40:52",
-      "album": {
-        "name": "sad face :(",
-        "url": "https://open.spotify.com/album/346wFaSt5f7TfNJfXMKE78"
-      },
-      "artists": [
-        {
-          "name": "88rising",
-          "url": "https://open.spotify.com/artist/1AhjOkOLkbHUfcHDSErXQs"
-        },
-        {
-          "name": "no na",
-          "url": "https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b"
-        }
-      ],
-      "duration_ms": 208051,
-      "name": "sad face :(",
-      "url": "https://open.spotify.com/track/3St17urGIaCTW6PD0rgyI5"
     },
     {
       "added_at": "2026-04-07 02:40:52",
@@ -1003,42 +1031,6 @@
       "duration_ms": 169917,
       "name": "APT.",
       "url": "https://open.spotify.com/track/5vNRhkKd0yEAg8suGBpjeY"
-    },
-    {
-      "added_at": "2026-04-07 02:40:52",
-      "album": {
-        "name": "Ruby",
-        "url": "https://open.spotify.com/album/1vWMw6pu3err6qqZzI3RhH"
-      },
-      "artists": [
-        {
-          "name": "JENNIE",
-          "url": "https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M"
-        },
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 180129,
-      "name": "Love Hangover (feat. Dominic Fike)",
-      "url": "https://open.spotify.com/track/0rx7xu0RmZLpJjKNVZjSVv"
-    },
-    {
-      "added_at": "2026-04-07 02:40:52",
-      "album": {
-        "name": "I DO",
-        "url": "https://open.spotify.com/album/1WMHx2pByCuT41GF5NHU3O"
-      },
-      "artists": [
-        {
-          "name": "i-dle",
-          "url": "https://open.spotify.com/artist/2AfmfGFbe0A0WsTYm0SDTx"
-        }
-      ],
-      "duration_ms": 190113,
-      "name": "I DO",
-      "url": "https://open.spotify.com/track/23z04slx9PgvUYCOKkd27X"
     },
     {
       "added_at": "2026-04-07 02:40:52",

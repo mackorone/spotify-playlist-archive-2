@@ -1,12 +1,12 @@
 {
   "description": "This is Lou Rawls. The essential tracks, all in one playlist.",
-  "num_followers": 12940,
+  "num_followers": 12942,
   "original_name": "This Is Lou Rawls",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAAenuc/WUwTchCOSDwhTgAV",
+  "snapshot_id": "aqstgAAAAACv9IY4xKa4icgxt4/myteS",
   "tracks": [
     {
       "added_at": null,
@@ -207,8 +207,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Let Me Be Good to You",
-        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
       "artists": [
         {
@@ -216,9 +216,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 325853,
-      "name": "Let Me Be Good to You",
-      "url": "https://open.spotify.com/track/0Z1OoeOob3W4Qf4eAuz463"
+      "duration_ms": 267400,
+      "name": "You've Made Me So Very Happy",
+      "url": "https://open.spotify.com/track/4KClNuFZIA0Tqjk3eTnEUt"
     },
     {
       "added_at": null,
@@ -239,6 +239,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Let Me Be Good to You",
+        "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 325853,
+      "name": "Let Me Be Good to You",
+      "url": "https://open.spotify.com/track/0Z1OoeOob3W4Qf4eAuz463"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "All Things In Time",
         "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
@@ -255,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+        "name": "Soulin\u2019",
+        "url": "https://open.spotify.com/album/22qxx8jehkNry0r4Qau0uy"
       },
       "artists": [
         {
@@ -264,9 +280,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 267400,
-      "name": "You've Made Me So Very Happy",
-      "url": "https://open.spotify.com/track/4KClNuFZIA0Tqjk3eTnEUt"
+      "duration_ms": 137133,
+      "name": "Love Is A Hurtin' Thing",
+      "url": "https://open.spotify.com/track/3klpwWrBjRgEaPZrRWqqg0"
     },
     {
       "added_at": null,
@@ -283,22 +299,6 @@
       "duration_ms": 259613,
       "name": "There Will Be Love",
       "url": "https://open.spotify.com/track/2KjSNIlOeI6bHG9KaWIf3V"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Soulin\u2019",
-        "url": "https://open.spotify.com/album/22qxx8jehkNry0r4Qau0uy"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 137133,
-      "name": "Love Is A Hurtin' Thing",
-      "url": "https://open.spotify.com/track/3klpwWrBjRgEaPZrRWqqg0"
     },
     {
       "added_at": null,
@@ -339,22 +339,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "When You Hear Lou, You've Heard It All",
-        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 231653,
-      "name": "Not the Staying Kind",
-      "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me Be Good to You",
         "url": "https://open.spotify.com/album/1mHRprlZp4JTafIiIxOKtY"
       },
@@ -371,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "When You Hear Lou, You've Heard It All",
+        "url": "https://open.spotify.com/album/6mg5MNs8xfiFxVaDX7Rycl"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 272413,
+      "name": "If I Coulda, Woulda, Shoulda",
+      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sit Down and Talk to Me",
         "url": "https://open.spotify.com/album/0ptfSwqXv2Jm93lXyY2bXD"
       },
@@ -383,6 +383,22 @@
       "duration_ms": 293213,
       "name": "Sit Down and Talk to Me",
       "url": "https://open.spotify.com/track/4JTp5ZdVqCqJmBSNzJhn7X"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Brotherman!: Lou Rawls Sings His Hits",
+        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 154333,
+      "name": "The Letter",
+      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
     },
     {
       "added_at": null,
@@ -412,25 +428,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 272413,
-      "name": "If I Coulda, Woulda, Shoulda",
-      "url": "https://open.spotify.com/track/69YAZPqQ7bbu4Vcu8QLH5z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Brotherman!: Lou Rawls Sings His Hits",
-        "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 154333,
-      "name": "The Letter",
-      "url": "https://open.spotify.com/track/1CDke7GKa0x4PheMWoIkuH"
+      "duration_ms": 231653,
+      "name": "Not the Staying Kind",
+      "url": "https://open.spotify.com/track/4i1Mf0irMA0hLawEcjj5r0"
     },
     {
       "added_at": null,
@@ -451,22 +451,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Essential Lou Rawls",
-        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 339160,
-      "name": "Early Morning Love",
-      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legendary Lou Rawls",
         "url": "https://open.spotify.com/album/2aA0a7jTuOaUdjG9ELNtX2"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 240640,
       "name": "Dead End Street",
       "url": "https://open.spotify.com/track/6lE3fTHyZgGtT2adZSLYxW"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Essential Lou Rawls",
+        "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 339160,
+      "name": "Early Morning Love",
+      "url": "https://open.spotify.com/track/77SdpzxMVJIjpYkrObUHdP"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 294720,
-      "name": "From Now On",
-      "url": "https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Brotherman!: Lou Rawls Sings His Hits",
         "url": "https://open.spotify.com/album/2dQjiU3OspVulLuFoGXBvI"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 176466,
       "name": "For What It's Worth",
       "url": "https://open.spotify.com/track/39ZtwewomTxsYMDRITXTlP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 294720,
+      "name": "From Now On",
+      "url": "https://open.spotify.com/track/4ZhTHLapD13w79NiWrHHBX"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
       "duration_ms": 215240,
       "name": "I'd Rather Drink Muddy Water - 2006 Remaster",
       "url": "https://open.spotify.com/track/1ZGODV0nkzm2GpPKmKWu5k"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live",
+        "url": "https://open.spotify.com/album/0RHxOjkG1CpNAGba3nN9c5"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 317360,
+      "name": "You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening - Live at the Mark Hellinger Theatre, New York, NY - November 1977",
+      "url": "https://open.spotify.com/track/5z0pKiEk0me8RdNYh4gOvj"
     },
     {
       "added_at": null,
@@ -647,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live",
-        "url": "https://open.spotify.com/album/0RHxOjkG1CpNAGba3nN9c5"
+        "name": "All Things In Time",
+        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
       },
       "artists": [
         {
@@ -656,9 +672,9 @@
           "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
         }
       ],
-      "duration_ms": 317360,
-      "name": "You'll Never Find Another Love Like Mine / A Lovely Way to Spend an Evening - Live at the Mark Hellinger Theatre, New York, NY - November 1977",
-      "url": "https://open.spotify.com/track/5z0pKiEk0me8RdNYh4gOvj"
+      "duration_ms": 240600,
+      "name": "Let's Fall In Love All Over Again",
+      "url": "https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2"
     },
     {
       "added_at": null,
@@ -675,22 +691,6 @@
       "duration_ms": 223493,
       "name": "Be Anything (But Be Mine)",
       "url": "https://open.spotify.com/track/2I1W9KXPSmT6h8hvJ2ij7u"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "All Things In Time",
-        "url": "https://open.spotify.com/album/3JWeH3xgkigYvXdNQCFx1m"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 240600,
-      "name": "Let's Fall In Love All Over Again",
-      "url": "https://open.spotify.com/track/7M9lUbA4ggamFsLG5DsiZ2"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shades of Blue",
-        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
-      },
-      "artists": [
-        {
-          "name": "Lou Rawls",
-          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
-        }
-      ],
-      "duration_ms": 232346,
-      "name": "I Go Crazy",
-      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Essential Lou Rawls",
         "url": "https://open.spotify.com/album/6vhHreCbPvwLXDreRFHcdG"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 256160,
       "name": "We Understand Each Other",
       "url": "https://open.spotify.com/track/7em6KhKMrKS8svfEuKgXLJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shades of Blue",
+        "url": "https://open.spotify.com/album/6thOuxCNeHuZpvyw90JlnN"
+      },
+      "artists": [
+        {
+          "name": "Lou Rawls",
+          "url": "https://open.spotify.com/artist/1zJBFCev9UwOMcrZsLi2od"
+        }
+      ],
+      "duration_ms": 232346,
+      "name": "I Go Crazy",
+      "url": "https://open.spotify.com/track/2bElJW7i0Sq8xME6Tk4qiK"
     },
     {
       "added_at": null,

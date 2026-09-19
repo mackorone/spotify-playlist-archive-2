@@ -1,12 +1,12 @@
 {
   "description": "A mega Anime hits mix! Illustration by <a href=\"https://www.instagram.com/nostalook7090/\">NOSTALOOK</a>",
-  "num_followers": 740517,
+  "num_followers": 740582,
   "original_name": "Anime On Replay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFyT5cPcYyEcw0veuHWs+L3itPCz",
+  "snapshot_id": "AAAAAC6+MsyHipwJ3MkSwmfyyy+cs0p8",
   "tracks": [
     {
       "added_at": "2026-07-16 09:36:19",
@@ -731,6 +731,22 @@
     {
       "added_at": "2026-07-16 09:36:19",
       "album": {
+        "name": "\u304a\u3044\u3057\u3044\u30d1\u30b9\u30bf\u304c\u3042\u308b\u3068\u805e\u3044\u3066",
+        "url": "https://open.spotify.com/album/4UcEHspatQwGvtfR6AVwZl"
+      },
+      "artists": [
+        {
+          "name": "Aimyon",
+          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
+        }
+      ],
+      "duration_ms": 326866,
+      "name": "\u30cf\u30eb\u30ce\u30d2",
+      "url": "https://open.spotify.com/track/1oNeSCt0CMekCyyLo06kFs"
+    },
+    {
+      "added_at": "2026-07-16 09:36:19",
+      "album": {
         "name": "\u7d46\u30ce\u5947\u8de1",
         "url": "https://open.spotify.com/album/1xml9CR90tJdvTESDk4Q4s"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 223320,
       "name": "\u7d46\u30ce\u5947\u8de1",
       "url": "https://open.spotify.com/track/2VBLFxCUyFp5BfmsZpxcis"
-    },
-    {
-      "added_at": "2026-07-16 09:36:19",
-      "album": {
-        "name": "\u304a\u3044\u3057\u3044\u30d1\u30b9\u30bf\u304c\u3042\u308b\u3068\u805e\u3044\u3066",
-        "url": "https://open.spotify.com/album/4UcEHspatQwGvtfR6AVwZl"
-      },
-      "artists": [
-        {
-          "name": "Aimyon",
-          "url": "https://open.spotify.com/artist/5kVZa4lFUmAQlBogl1fkd6"
-        }
-      ],
-      "duration_ms": 326866,
-      "name": "\u30cf\u30eb\u30ce\u30d2",
-      "url": "https://open.spotify.com/track/1oNeSCt0CMekCyyLo06kFs"
     },
     {
       "added_at": "2026-07-16 09:36:19",
@@ -1087,22 +1087,6 @@
     {
       "added_at": "2026-07-16 09:36:19",
       "album": {
-        "name": "\u706b\u7a2e",
-        "url": "https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5"
-      },
-      "artists": [
-        {
-          "name": "Tatsuya Kitani",
-          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
-        }
-      ],
-      "duration_ms": 204833,
-      "name": "\u706b\u7a2e",
-      "url": "https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX"
-    },
-    {
-      "added_at": "2026-07-16 09:36:19",
-      "album": {
         "name": "\u6253\u4e0a\u82b1\u706b",
         "url": "https://open.spotify.com/album/1zIM9xHEOKU0rDCH6nIXQS"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 289334,
       "name": "\u6253\u4e0a\u82b1\u706b",
       "url": "https://open.spotify.com/track/7pcTLUekZJQnzDOUDuExVJ"
+    },
+    {
+      "added_at": "2026-07-16 09:36:19",
+      "album": {
+        "name": "\u706b\u7a2e",
+        "url": "https://open.spotify.com/album/1usOiy15DL5VbcguyZmrX5"
+      },
+      "artists": [
+        {
+          "name": "Tatsuya Kitani",
+          "url": "https://open.spotify.com/artist/7mvhRvEAHiCTQHUnH7fgnv"
+        }
+      ],
+      "duration_ms": 204833,
+      "name": "\u706b\u7a2e",
+      "url": "https://open.spotify.com/track/3WaAa5Fc3LgN7QRn5oVomX"
     },
     {
       "added_at": "2026-07-16 09:36:19",
@@ -1319,22 +1319,6 @@
     {
       "added_at": "2026-07-16 09:36:19",
       "album": {
-        "name": "\u9006\u69d8",
-        "url": "https://open.spotify.com/album/1qq7jAulzATlVCltzautOz"
-      },
-      "artists": [
-        {
-          "name": "POLKADOT STINGRAY",
-          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "\u9006\u69d8",
-      "url": "https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn"
-    },
-    {
-      "added_at": "2026-07-16 09:36:19",
-      "album": {
         "name": "\u71c8",
         "url": "https://open.spotify.com/album/3wM9hHXOVaqczNQNYRxylz"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 238720,
       "name": "\u71c8",
       "url": "https://open.spotify.com/track/5blG2vXcJC2n9l3rb5sCOr"
+    },
+    {
+      "added_at": "2026-07-16 09:36:19",
+      "album": {
+        "name": "\u9006\u69d8",
+        "url": "https://open.spotify.com/album/1qq7jAulzATlVCltzautOz"
+      },
+      "artists": [
+        {
+          "name": "POLKADOT STINGRAY",
+          "url": "https://open.spotify.com/artist/5zV9afUO4DVqJeRaZvfNev"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "\u9006\u69d8",
+      "url": "https://open.spotify.com/track/3hETmWK6G4wLMRCADo6hXn"
     },
     {
       "added_at": "2026-07-16 09:36:19",
@@ -1367,22 +1367,6 @@
     {
       "added_at": "2026-07-16 09:36:19",
       "album": {
-        "name": "TWILIGHT!!!",
-        "url": "https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6"
-      },
-      "artists": [
-        {
-          "name": "King Gnu",
-          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
-        }
-      ],
-      "duration_ms": 217160,
-      "name": "TWILIGHT!!!",
-      "url": "https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc"
-    },
-    {
-      "added_at": "2026-07-16 09:36:19",
-      "album": {
         "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai - My Hero Academia: Vigilantes Opening Theme Song",
         "url": "https://open.spotify.com/album/4ywLGordDneexrcRNp2uw0"
       },
@@ -1395,6 +1379,22 @@
       "duration_ms": 172550,
       "name": "\u3051\u3063\u304b\u304a\u30fc\u3089\u3044 - Kekka Orai",
       "url": "https://open.spotify.com/track/7Ea65yIjXDZDfg39hsvcE6"
+    },
+    {
+      "added_at": "2026-07-16 09:36:19",
+      "album": {
+        "name": "TWILIGHT!!!",
+        "url": "https://open.spotify.com/album/3KbovyECUFkQQFfUVvwkD6"
+      },
+      "artists": [
+        {
+          "name": "King Gnu",
+          "url": "https://open.spotify.com/artist/6wxfx1yhyqjCPYwwxJktR2"
+        }
+      ],
+      "duration_ms": 217160,
+      "name": "TWILIGHT!!!",
+      "url": "https://open.spotify.com/track/7rPEpMvt6O2Np1i7TFk3Hc"
     },
     {
       "added_at": "2026-07-16 09:36:19",
@@ -1431,18 +1431,18 @@
     {
       "added_at": "2026-07-16 09:36:19",
       "album": {
-        "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
-        "url": "https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb"
+        "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc/FLY ME TO THE MOON",
+        "url": "https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9"
       },
       "artists": [
         {
-          "name": "MISIA",
-          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
+          "name": "Yoko Takahashi",
+          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
         }
       ],
-      "duration_ms": 213066,
-      "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
-      "url": "https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs"
+      "duration_ms": 245826,
+      "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
+      "url": "https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2"
     },
     {
       "added_at": "2026-07-16 09:36:19",
@@ -1463,18 +1463,18 @@
     {
       "added_at": "2026-07-16 09:36:19",
       "album": {
-        "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc/FLY ME TO THE MOON",
-        "url": "https://open.spotify.com/album/27ysS0QNhMKuq2UBBxu8d9"
+        "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
+        "url": "https://open.spotify.com/album/0fkv7ecmetM6W7GUGQMYGb"
       },
       "artists": [
         {
-          "name": "Yoko Takahashi",
-          "url": "https://open.spotify.com/artist/2RSmBT9gH02j53dMSw982t"
+          "name": "MISIA",
+          "url": "https://open.spotify.com/artist/3uyDATzOGjbGCts7v2eszk"
         }
       ],
-      "duration_ms": 245826,
-      "name": "\u6b8b\u9177\u306a\u5929\u4f7f\u306e\u30c6\u30fc\u30bc",
-      "url": "https://open.spotify.com/track/3dDZFJSvdT9N2nNAdsE9j2"
+      "duration_ms": 213066,
+      "name": "\u30e9\u30b9\u30c8\u30c0\u30f3\u30b9\u3042\u306a\u305f\u3068",
+      "url": "https://open.spotify.com/track/4s2NSTs2Go6JSnAUKpM2bs"
     },
     {
       "added_at": "2026-07-16 09:36:19",

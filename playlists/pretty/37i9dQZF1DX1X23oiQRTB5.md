@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 
 > Aya Nakamura & La Rvfleuze au top de la première playlist de rap français.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,438,625 likes - 40 songs - 1 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,438,468 likes - 40 songs - 1 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1X23oiQRTB5.md) - [plain]
 | 39 | [Mandat de dépôt](https://open.spotify.com/track/1CGRRKN4SgR4z1JiaL5Sz8) | [Lagui](https://open.spotify.com/artist/3TP2Ucsow6rW1s24aq9gb4), [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [En Croix](https://open.spotify.com/album/2W1UqRYHgB4vEG4dEdtbhv) | 2:27 |
 | 40 | [RAP d’arabe](https://open.spotify.com/track/6GptmYh60KaZ2QfUEfjOby) | [Saïf](https://open.spotify.com/artist/1bbr3P3o6BGIdvTWKb6rxL) | [RAP d’arabe](https://open.spotify.com/album/5k4CfMeOgL4wICbkzmWODJ) | 3:01 |
 
-Snapshot ID: `AAAAAEeE1Ld56Z7ewOIuAtvPnIsr6qH7`
+Snapshot ID: `AAAAAHVbkDxphslloWyWMRKfrW3Ilhs7`

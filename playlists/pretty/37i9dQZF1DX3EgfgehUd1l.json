@@ -1,12 +1,12 @@
 {
   "description": "Vintage easy listening from the fifties...",
-  "num_followers": 178903,
+  "num_followers": 178910,
   "original_name": "Easy 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAMzSXH3g+W1uSh4/y4lv40A81dr",
+  "snapshot_id": "AAAAAGeQkfpfy5w+F6wxsH1dyLv4C5Rs",
   "tracks": [
     {
       "added_at": "2023-10-17 16:18:55",
@@ -547,6 +547,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "The Magic Of Malcolm Vaughan",
+        "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Vaughan",
+          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
+        }
+      ],
+      "duration_ms": 172133,
+      "name": "St Therese of the Roses",
+      "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Takes Two to Tango (Duets for Him and Her - Music for Valentine's Day)",
         "url": "https://open.spotify.com/album/6Ez1BPJcARYJTDdPlsCE8O"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 185051,
       "name": "True Love",
       "url": "https://open.spotify.com/track/7fFBLMq8tiwawU2vtJwrVb"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "The Magic Of Malcolm Vaughan",
-        "url": "https://open.spotify.com/album/3aW9zXU8mpe0Jhylob4URU"
-      },
-      "artists": [
-        {
-          "name": "Malcolm Vaughan",
-          "url": "https://open.spotify.com/artist/40nN9AjGbnrntYFEyD95GA"
-        }
-      ],
-      "duration_ms": 172133,
-      "name": "St Therese of the Roses",
-      "url": "https://open.spotify.com/track/2uN8hMV4ZuAZdSx2z1G4Ob"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -983,22 +983,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Trying",
-        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
-      },
-      "artists": [
-        {
-          "name": "The Hilltoppers",
-          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
-        }
-      ],
-      "duration_ms": 165466,
-      "name": "Only You (and You Alone)",
-      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Rock & Roll 50s & 60s Mix",
         "url": "https://open.spotify.com/album/1LL6GWTsMYiRc0fwGfoU3h"
       },
@@ -1011,6 +995,22 @@
       "duration_ms": 166051,
       "name": "Unchained Melody",
       "url": "https://open.spotify.com/track/3YCWbPfDLt4w4vzBnfoRgH"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Trying",
+        "url": "https://open.spotify.com/album/6wNlsCkqpdsIU4CGHUgWij"
+      },
+      "artists": [
+        {
+          "name": "The Hilltoppers",
+          "url": "https://open.spotify.com/artist/6qcybypxBn4XlMcYJHhViw"
+        }
+      ],
+      "duration_ms": 165466,
+      "name": "Only You (and You Alone)",
+      "url": "https://open.spotify.com/track/6meUbywMo1j9kxiL58s6f1"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Skiffle - From Britain to Broadway",
-        "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
-      },
-      "artists": [
-        {
-          "name": "Johnny Duncan & The Blue Grass Boys",
-          "url": "https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k"
-        }
-      ],
-      "duration_ms": 151186,
-      "name": "Last Train to San Fernando",
-      "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Summer Holiday",
         "url": "https://open.spotify.com/album/3qwiCEbQuOZ3UO2DO4YhIw"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 157493,
       "name": "Just Walkin' in the Rain",
       "url": "https://open.spotify.com/track/5zIrB8lgWBmhHeV00mCN75"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Skiffle - From Britain to Broadway",
+        "url": "https://open.spotify.com/album/5wxaPwp9lFcVpcjzr8YsNS"
+      },
+      "artists": [
+        {
+          "name": "Johnny Duncan & The Blue Grass Boys",
+          "url": "https://open.spotify.com/artist/5fEbMt6fvVtVp9RGkNWU5k"
+        }
+      ],
+      "duration_ms": 151186,
+      "name": "Last Train to San Fernando",
+      "url": "https://open.spotify.com/track/63fDzYusBC0MeUkmM856ug"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "Ruby Murray - Greatest Hits",
-        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
-      },
-      "artists": [
-        {
-          "name": "Ruby Murray",
-          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
-        }
-      ],
-      "duration_ms": 156373,
-      "name": "I'll Come When You Call",
-      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
         "name": "Street Of Memories",
         "url": "https://open.spotify.com/album/6PN0sBIqdjtodywtNBBzrX"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 143506,
       "name": "Walking My Baby Back Home",
       "url": "https://open.spotify.com/track/0zLMXELSW0q0HvBvVLF139"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
+        "name": "Ruby Murray - Greatest Hits",
+        "url": "https://open.spotify.com/album/5w3MZ0imkrTr5nkxy5IeWO"
+      },
+      "artists": [
+        {
+          "name": "Ruby Murray",
+          "url": "https://open.spotify.com/artist/6b8vSsnQwT73gACLGMs0qn"
+        }
+      ],
+      "duration_ms": 156373,
+      "name": "I'll Come When You Call",
+      "url": "https://open.spotify.com/track/1fuzK1I8Wi2d0lS1UPv4bG"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
+        "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
+      },
+      "artists": [
+        {
+          "name": "Kay Starr",
+          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+        }
+      ],
+      "duration_ms": 170343,
+      "name": "Changing Partners - Remastered",
+      "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
+    },
+    {
+      "added_at": "2023-10-17 16:18:55",
+      "album": {
         "name": "Hits",
         "url": "https://open.spotify.com/album/52dzyLWumJQhP25q0BCBRX"
       },
@@ -1291,18 +1307,18 @@
     {
       "added_at": "2023-10-17 16:18:55",
       "album": {
-        "name": "All the Greatest Hits Ever Made, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/5zQ5WRP0Fp7gVZrWTVl4gR"
+        "name": "Greatest Hits: 50s",
+        "url": "https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t"
       },
       "artists": [
         {
-          "name": "Kay Starr",
-          "url": "https://open.spotify.com/artist/7rpf45DdbpweG51Acze45i"
+          "name": "Ronnie Hilton",
+          "url": "https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M"
         }
       ],
-      "duration_ms": 170343,
-      "name": "Changing Partners - Remastered",
-      "url": "https://open.spotify.com/track/6xtJ7cccbNbmCiwk3NzIpB"
+      "duration_ms": 162760,
+      "name": "Around the World",
+      "url": "https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx"
     },
     {
       "added_at": "2023-10-17 16:18:55",
@@ -1319,22 +1335,6 @@
       "duration_ms": 160280,
       "name": "We Will Make Love",
       "url": "https://open.spotify.com/track/2RwgGFFWJO0RzyM2VAOwWW"
-    },
-    {
-      "added_at": "2023-10-17 16:18:55",
-      "album": {
-        "name": "Greatest Hits: 50s",
-        "url": "https://open.spotify.com/album/7HYRCENbrRxmnP9P7cqz3t"
-      },
-      "artists": [
-        {
-          "name": "Ronnie Hilton",
-          "url": "https://open.spotify.com/artist/3EdBvBQhLB43ayLxB3gf6M"
-        }
-      ],
-      "duration_ms": 162760,
-      "name": "Around the World",
-      "url": "https://open.spotify.com/track/4QqN9qiEznIbrZPJKFrfMx"
     }
   ],
   "unique_name": "Easy 50s",

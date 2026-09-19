@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The home of Canadian country music. Cover: Classe Moyenne",
+  "description": "The home of Canadian country music. Cover: James Barker Band",
   "name": "North Country",
   "tracks": [
     {
@@ -1060,6 +1060,24 @@
       "duration_ms": 168194,
       "name": "Best Boat",
       "url": "https://open.spotify.com/track/0OlVvaNPwRQnRzPXl5PUBC"
+    },
+    {
+      "album": {
+        "name": "Call You A Country Boy",
+        "url": "https://open.spotify.com/album/7dr2sBxee5DFcy6Nuua3Ln"
+      },
+      "artists": [
+        {
+          "name": "The Martin Boys",
+          "url": "https://open.spotify.com/artist/0Jjl71AwTHhQlvhSeugY8k"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189489,
+      "name": "Better Angel",
+      "url": "https://open.spotify.com/track/37UfcOcC2WJZxJW2zuA0Vi"
     },
     {
       "album": {
@@ -2324,6 +2342,28 @@
       "duration_ms": 208425,
       "name": "Coming Home To You (Bigger Houses) [feat. Owen Riegling]",
       "url": "https://open.spotify.com/track/6Fsa84KVrTjU9B1ZcppFsT"
+    },
+    {
+      "album": {
+        "name": "Coming Soon To A Honky Tonk Near You",
+        "url": "https://open.spotify.com/album/69UGWayVw5TmfSf0fid4xo"
+      },
+      "artists": [
+        {
+          "name": "Jade Eagleson",
+          "url": "https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP"
+        },
+        {
+          "name": "Midland",
+          "url": "https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168186,
+      "name": "Coming Soon To A Honky Tonk Near You",
+      "url": "https://open.spotify.com/track/1xOK8ho6DIUq6nZyCTAoe9"
     },
     {
       "album": {
@@ -6719,6 +6759,24 @@
     },
     {
       "album": {
+        "name": "It Ain't Forever",
+        "url": "https://open.spotify.com/album/0PyCVPn1LGGkSf5PHvGSgZ"
+      },
+      "artists": [
+        {
+          "name": "The Wild Palominos",
+          "url": "https://open.spotify.com/artist/78cemO4mikDQPN9BKWg2IO"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218185,
+      "name": "It Ain't Forever",
+      "url": "https://open.spotify.com/track/7rWSSkJBHJwJJ31BuLJ7Qu"
+    },
+    {
+      "album": {
         "name": "It Was Always You",
         "url": "https://open.spotify.com/album/6m5GFrZ4D3mkIVVXbnCX0R"
       },
@@ -7649,6 +7707,24 @@
     },
     {
       "album": {
+        "name": "Linda Lou",
+        "url": "https://open.spotify.com/album/6725V1wacWYwzbsus4zXPo"
+      },
+      "artists": [
+        {
+          "name": "Ethan Miller",
+          "url": "https://open.spotify.com/artist/4ZFU6OpvQZjWGe4fUJ9Dw1"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251144,
+      "name": "Linda Lou",
+      "url": "https://open.spotify.com/track/63fnq7oHN3gkRxIHCkIsSX"
+    },
+    {
+      "album": {
         "name": "Listen To Jones",
         "url": "https://open.spotify.com/album/1UZ5gjFrqUw1yswMRd1pMf"
       },
@@ -8348,6 +8424,24 @@
       "duration_ms": 154448,
       "name": "Men Into Boys",
       "url": "https://open.spotify.com/track/5xe0QNOEkCivrqV7Loyz8R"
+    },
+    {
+      "album": {
+        "name": "Mercy on the Skyline (Country Cut)",
+        "url": "https://open.spotify.com/album/68FpAnF4ZRAGttZeh7M4lv"
+      },
+      "artists": [
+        {
+          "name": "Noah Derksen",
+          "url": "https://open.spotify.com/artist/31wEHfLGUKIlJAayR6K936"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "Mercy on the Skyline - Country Cut",
+      "url": "https://open.spotify.com/track/6ytMi5xCPEPyZy0xEfXOr6"
     },
     {
       "album": {
@@ -9595,6 +9689,24 @@
     },
     {
       "album": {
+        "name": "one more time",
+        "url": "https://open.spotify.com/album/5zq8Exy6K59F2tsgEPRkum"
+      },
+      "artists": [
+        {
+          "name": "Trudy",
+          "url": "https://open.spotify.com/artist/4lBFE3enDio6Yb5xJaXbWS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197741,
+      "name": "one more time",
+      "url": "https://open.spotify.com/track/0aDLGoFRRidv1qdGVdLEKo"
+    },
+    {
+      "album": {
         "name": "The Truth We Hold",
         "url": "https://open.spotify.com/album/4ZECwfb4wwu830xgPnTk52"
       },
@@ -10371,6 +10483,24 @@
     },
     {
       "album": {
+        "name": "Dolbeau-Mistassini",
+        "url": "https://open.spotify.com/album/2TnuA0032unv7gbitwMNB0"
+      },
+      "artists": [
+        {
+          "name": "Sara Dufour",
+          "url": "https://open.spotify.com/artist/3MSqVr13Lkb9iCiigUOm4S"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189905,
+      "name": "Quand",
+      "url": "https://open.spotify.com/track/3x6v20yvhAte43kAa8Aynl"
+    },
+    {
+      "album": {
         "name": "Quits",
         "url": "https://open.spotify.com/album/2NXMaPZwgGAzx8IKumHbwt"
       },
@@ -10926,6 +11056,24 @@
       "duration_ms": 189431,
       "name": "Ruin Your Bar",
       "url": "https://open.spotify.com/track/5P1hRtdbq8Oyw5me30rrj1"
+    },
+    {
+      "album": {
+        "name": "Mule",
+        "url": "https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179054,
+      "name": "Run Out Of Road",
+      "url": "https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI"
     },
     {
       "album": {
@@ -12220,6 +12368,24 @@
       "duration_ms": 227592,
       "name": "Stop The Bleeding",
       "url": "https://open.spotify.com/track/4ISoN4KS2mCdZlLTToWFtH"
+    },
+    {
+      "album": {
+        "name": "Sailboat in the Prairies",
+        "url": "https://open.spotify.com/album/69ZI7DnzCl8HzftSmouUur"
+      },
+      "artists": [
+        {
+          "name": "Ryan Lindsay",
+          "url": "https://open.spotify.com/artist/1KWojkmgW6AiDS9yIx9VVu"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217386,
+      "name": "Story of a Hitchhiker",
+      "url": "https://open.spotify.com/track/5CYY4oiwwdjAULn3sbYREL"
     },
     {
       "album": {
@@ -14665,6 +14831,24 @@
     },
     {
       "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/205S3gL9ecNDwCS6ZOtEWz"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310893,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/1n1bvVbadpuQ2pjTjE4r4Y"
+    },
+    {
+      "album": {
         "name": "Wide Open (feat. Michaela Slinger)",
         "url": "https://open.spotify.com/album/2GwFSvFseBD11Jk8TZM6fU"
       },
@@ -14684,6 +14868,24 @@
       "duration_ms": 222760,
       "name": "Wide Open (feat. Michaela Slinger)",
       "url": "https://open.spotify.com/track/3eskIYs6c2GjLs7Hk0v1PE"
+    },
+    {
+      "album": {
+        "name": "Wiggle Pow",
+        "url": "https://open.spotify.com/album/3b8JSJP0zWVrMqYJXhWICq"
+      },
+      "artists": [
+        {
+          "name": "Matt Lang",
+          "url": "https://open.spotify.com/artist/3vBiGAzipq0DcXDStBf8QW"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144022,
+      "name": "Wiggle Pow",
+      "url": "https://open.spotify.com/track/49bi2pNOA2IzdwudgUxy1G"
     },
     {
       "album": {
@@ -14756,6 +14958,24 @@
       "duration_ms": 217450,
       "name": "Wildflower",
       "url": "https://open.spotify.com/track/4euWcMK8R1oGsh3XtLKgLP"
+    },
+    {
+      "album": {
+        "name": "Wilson Silverstar 402 Blues",
+        "url": "https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283723,
+      "name": "Wilson Silverstar 402 Blues",
+      "url": "https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2"
     },
     {
       "album": {

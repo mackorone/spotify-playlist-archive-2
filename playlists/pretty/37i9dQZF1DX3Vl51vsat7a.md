@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 
 > Discover your new favourite artists with a focus on Germany, Switzerland, Austria\. Cover: KUKO
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,071 likes - 50 songs - 2 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,069 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Unterwelt](https://open.spotify.com/track/58QTtL8VKZYcRQKZdECXJh) | [KUKO](https://open.spotify.com/artist/4sCQPElBVBfJNFGydeWwnU), [Frauenarzt](https://open.spotify.com/artist/38KSpOSYnwQX9zcOcVKdym) | [Unterwelt](https://open.spotify.com/album/5yypfe1KcGuSDSQiK4X9Fd) | 2:45 |
-| 2 | [Track 2](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 0:00 |
+| 2 | [vergötter mich \(mit bürgermeisterin von wien\)](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 2:41 |
 | 3 | [Actress](https://open.spotify.com/track/78PxTyDdkRujjm5nSUKxTC) | [Sofie Royer](https://open.spotify.com/artist/2P2BXSc0Wxpf10Fpno38rl) | [Actress](https://open.spotify.com/album/6pebMOxLbzcnOGhDSSi8HC) | 2:34 |
 | 4 | [Du](https://open.spotify.com/track/2nG3Mc1jSwvvL3EgZ9l0PL) | [JAS](https://open.spotify.com/artist/6z8C5UXOpIz82zLSvj1Xc9) | [Du](https://open.spotify.com/album/6G1H5faNVCHATEMyVLNyxV) | 2:12 |
 | 5 | [Modern Dreaming](https://open.spotify.com/track/4MrsOZiOUIuyq2gt1A3hsf) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Modern Dreaming](https://open.spotify.com/album/1Cp1Pl0VveGx9vYlezypOC) | 2:53 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Vl51vsat7a.md) - [plain]
 | 49 | [belly of the beast](https://open.spotify.com/track/1wM7wW0GWCvWcWyDUjuQOF) | [LIE NING](https://open.spotify.com/artist/1X6lOLyGCw9kfdChwHIbVs), [Eugénie](https://open.spotify.com/artist/47aUSMdD5Sf0DpeOCyPL5K) | [bullfight](https://open.spotify.com/album/6nrmlkU9elKQBL5rePqqaD) | 3:36 |
 | 50 | [Dienstag](https://open.spotify.com/track/4LNX3NCuCTudq0w36933CZ) | [BRUCKNER](https://open.spotify.com/artist/0OKQx5tW0vxtKwYVblZTkq) | [Dienstag](https://open.spotify.com/album/0gidecBoYd1pQrhgj1hYnH) | 2:41 |
 
-Snapshot ID: `AAAAAHpgVMarMT1LJyAUvGAQv/KCM8gi`
+Snapshot ID: `AAAAAF/hYCSQfNKsfkFzpJGdJPfgbOZQ`

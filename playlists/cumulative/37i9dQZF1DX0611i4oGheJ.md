@@ -4,7 +4,7 @@
 
 > Sweet gems to help you slow down and savor your day.
 
-425 songs - 1 day 2 hr 46 min
+427 songs - 1 day 2 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -127,6 +127,7 @@
 | [Gown](https://open.spotify.com/track/2qDjzlewG9Dx3rC1M2OWXh) | [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L), [Oliver Coates](https://open.spotify.com/artist/2jToqK8MU3rtt0DYrgCIXM) | [Blurrr](https://open.spotify.com/album/5WhOeAAZdZNuVPd0owQ88D) | 3:15 | 2025-09-22 | 2026-08-13 |
 | [GPS \(w/ Felly\)](https://open.spotify.com/track/7HZrYnVlYSsx7MVeBvizgH) | [Ethan Tasch](https://open.spotify.com/artist/5QeOEXfGjdzdEsUOHODPCw), [Felly](https://open.spotify.com/artist/2848adRcxvgWNRcz1g1tQD) | [GPS \(w/ Felly\)](https://open.spotify.com/album/2PcrCDemJVsysOdpeNXNyP) | 2:48 | 2021-10-22 |  |
 | [Graves](https://open.spotify.com/track/4wwZvbK1mJKiHvA2n2dLEO) | [Hand Habits](https://open.spotify.com/artist/5poU7FPEYoBlwjzOEWMbX5) | [Graves](https://open.spotify.com/album/5PCieAZVKwqWKiTTuCcjzs) | 3:12 | 2021-10-22 | 2022-07-29 |
+| [Greatest Love](https://open.spotify.com/track/0Mt98T6pBxQ5MVaLNuQVTW) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Normal Heights](https://open.spotify.com/album/365X1dJqI1hwqdm6rqI0UY) | 4:08 | 2026-09-18 |  |
 | [Green Lights \- Recorded At Spotify Studios NYC](https://open.spotify.com/track/2SYZVSHVz8tpnjjnM5ZsZs) | [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Spotify Singles](https://open.spotify.com/album/1fL8ABOXukxK8fbjLLNcBk) | 3:34 | 2021-10-22 | 2024-04-20 |
 | [Half Alive](https://open.spotify.com/track/4iL0LJgt27lSqpNS6AQsiN) | [Eleni Drake](https://open.spotify.com/artist/2y7pPMQioLwMFUKhK9Pyow) | [Half Alive](https://open.spotify.com/album/7HF75RmgHlbDQqZjwmtiIb) | 3:03 | 2025-09-22 |  |
 | [Harder Way](https://open.spotify.com/track/2mOxQ582K8WAP3FjTUhYVC) | [Jamestown Revival](https://open.spotify.com/artist/4w1ZBtHF0HxrGqQdB7i1it) | [San Isabel](https://open.spotify.com/album/0ujviO24y6WGV1KQwkcwIv) | 3:17 | 2022-05-27 | 2024-04-19 |
@@ -299,6 +300,7 @@
 | [Sentimental \(Reimagined\)](https://open.spotify.com/track/2ETVEbCAaiuu8S9tYKecBM) | [Dillan Witherow](https://open.spotify.com/artist/4GmUsPoD5r1hUi4O9bJ1Sl), [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR) | [Sentimental \(Reimagined\)](https://open.spotify.com/album/7FtA4yHesiXguXulNgFDxe) | 3:03 | 2026-09-15 |  |
 | [Shiver](https://open.spotify.com/track/32zRM6N7CqNCsPR7innQNu) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [Do You Haunt Me](https://open.spotify.com/album/2TxFjmhQQpz4WQRkNgoYl3) | 3:34 | 2024-08-26 |  |
 | [Silicone Heart](https://open.spotify.com/track/18YdjxKgfyjcaIKRrfpndh) | [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [Silicone Heart](https://open.spotify.com/album/2NbquPo8J4VCEqkrDyV9KR) | 3:13 | 2024-02-16 |  |
+| [Simple Life](https://open.spotify.com/track/38b37kM4AfEYe9YrHTrkMh) | [Jon Wiilde](https://open.spotify.com/artist/3bqHSYVBMI0gs3v86080ZT) | [Simple Life](https://open.spotify.com/album/2ravf0Omum1objvrI2H8fq) | 3:06 | 2026-09-18 |  |
 | [Sleepless in Seattle](https://open.spotify.com/track/1JEjCzwE9viGiRyewkcWy9) | [Noah Gundersen](https://open.spotify.com/artist/34482S5nfxR441wcnVfrHi) | [Sleepless in Seattle](https://open.spotify.com/album/1LY1O1GGbuH89FpOPqWaJL) | 4:00 | 2021-10-22 | 2026-08-03 |
 | [Smoke \- Acoustic](https://open.spotify.com/track/5ND2EmYyhWRJq6iCdENkgZ) | [Gia Margaret](https://open.spotify.com/artist/7fnMav7xXJwwjbyWbSjF4C) | [There's Always Glimmer \(Deluxe Version\)](https://open.spotify.com/album/3tWAl6LlBWM46Ck9bA9A6y) | 2:32 | 2021-10-22 | 2025-01-08 |
 | [Snowpath](https://open.spotify.com/track/1e1QnRkEXG5HFMOUFo3V4L) | [Jonah Yano](https://open.spotify.com/artist/4Js9qeA7KMFyjBYHEjFaeJ), [Clairo](https://open.spotify.com/artist/3l0CmX0FuQjFxr8SK7Vqag) | [Snowpath](https://open.spotify.com/album/53piZ0a4vXwSbHZrymx7rT) | 2:13 | 2024-09-30 | 2026-09-16 |
@@ -312,7 +314,7 @@
 | [Stay Alive](https://open.spotify.com/track/6QHGyXR0m3PDStlyHN8dYK) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/4cqXElyn3SU9jYbMhGFML2) | 4:26 | 2021-10-22 | 2022-07-19 |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/2GiYPEgOA7hb7sqsEWX8df) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/3E3RbNL43xqu0o5KggHJBU) | 2:54 | 2022-05-27 | 2024-04-19 |
 | [Stay With Me \- Live From Spotify Berlin](https://open.spotify.com/track/6itWAD2WxmAVQgWuk85yXx) | [Angus & Julia Stone](https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr) | [Spotify Sessions](https://open.spotify.com/album/5ota1DtixKfUcrsiazzgcK) | 2:54 | 2021-10-22 |  |
-| [Stones & Waves](https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Stones & Waves](https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ) | 3:10 | 2024-02-16 |  |
+| [Stones & Waves](https://open.spotify.com/track/634FnvBHSfPkHbG5ovee8Y) | [Elias Hix](https://open.spotify.com/artist/7caEhKgBilB0MHIyWWWGsV) | [Stones & Waves](https://open.spotify.com/album/6GXgoZCLZA8FVakysuTHkZ) | 3:10 | 2024-02-16 | 2026-09-19 |
 | [Strange Country](https://open.spotify.com/track/5FKe8dFIw1CAbFocbGpG7Y) | [Kacy & Clayton](https://open.spotify.com/artist/7oJ1EabmX7ejrie3NBzn0p) | [Strange Country](https://open.spotify.com/album/7BNZap44fZHuI1P1WJ7nrw) | 3:32 | 2021-10-22 | 2022-07-28 |
 | [strip mall](https://open.spotify.com/track/4CgagfLY8EbXVCT69EY9tA) | [Jake Minch](https://open.spotify.com/artist/7Lfq2a2cpwQBdDzo7SW1HC) | [strip mall](https://open.spotify.com/album/6T6OnNPadTtsyslDCXpUYp) | 2:33 | 2024-03-15 |  |
 | [Such A Simple Thing \- Recorded at Sound Stage Studios Nashville](https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Spotify Singles](https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu) | 5:07 | 2021-10-22 |  |
@@ -363,7 +365,7 @@
 | [Then Again](https://open.spotify.com/track/3y8nbtLl3XgTB5VlMuENg6) | [Brooke Annibale](https://open.spotify.com/artist/1JojxxteIsItgolTdalOb3) | [Hold to the Light](https://open.spotify.com/album/1KMlbpnEzCcKxoBFiuNnrD) | 4:54 | 2021-10-22 | 2022-07-17 |
 | [These Days](https://open.spotify.com/track/3uCkIqD0VzQUijbs8WIizs) | [Nico](https://open.spotify.com/artist/0IwlY33zbBXN7zlS9DP2Cj) | [Chelsea Girl](https://open.spotify.com/album/6O62Cqi0YqOytEbFmeLyjU) | 3:30 | 2024-02-20 |  |
 | [Thin Ice](https://open.spotify.com/track/7EdqI2yCywlX79fr6f8a8H) | [Liza Anne](https://open.spotify.com/artist/426VSUSxx9puUYFgp7l7EQ) | [The Colder Months](https://open.spotify.com/album/2e0UF1lwDIhvbpEY3hlog1) | 3:27 | 2021-10-22 | 2024-04-20 |
-| [This Time Around](https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [This Time Around](https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R) | 3:51 | 2025-01-07 |  |
+| [This Time Around](https://open.spotify.com/track/76LZ3g7Kc8o9g2qh8fYPvv) | [Miya Folick](https://open.spotify.com/artist/1jFVu6Z7wmwywivOeBTSIV) | [This Time Around](https://open.spotify.com/album/4JBjcczbRn6gAqiieTOX4R) | 3:51 | 2025-01-07 | 2026-09-19 |
 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/12VVXFEYxro5C61KyWee9C) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/album/1NI7pFzmcyiQ9Nk8VDDvUS) | 3:26 | 2021-10-22 | 2022-07-28 |
 | [Thousand \(feat\. Lisa Hannigan\)](https://open.spotify.com/track/2QlPMIhutG3WHV26Eza8u9) | [Rosie Carney](https://open.spotify.com/artist/3Aut8hgiqZSy2qmJluZMU9), [Lisa Hannigan](https://open.spotify.com/artist/0z7Yuv7DuDQ5SaVn4VSlLt) | [Bare](https://open.spotify.com/album/11uRisUr2dNqeKIn8dhB3Z) | 3:26 | 2022-05-27 | 2024-04-19 |
 | [Thérèse](https://open.spotify.com/track/1LklAGxyeK07JYRzw3Vzx9) | [Maya Hawke](https://open.spotify.com/artist/4e9vQfyvvDlcQAkjSdFE4x) | [Thérèse](https://open.spotify.com/album/1lbJOgLXOtyxQbvjt17eGT) | 3:27 | 2022-09-16 | 2026-02-12 |

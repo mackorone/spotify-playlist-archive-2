@@ -1,12 +1,12 @@
 {
   "description": "\u7235\u58eb\u5c31\u662f\u4e00\u500b\u8072\u97f3\u7684\u7d33\u58eb\uff0c\u6709\u6b4c\u8072\u52d5\u4eba\u3001\u6709\u6f14\u594f\u512a\u96c5\uff0c\u65cb\u5f8b\u7f8e\u5999\u4e4b\u9918\u9084\u6fc3\u6fc3\u60c5\u610f\uff01",
-  "num_followers": 63119,
+  "num_followers": 63120,
   "original_name": "\u7235\u58eb\u60c5\u6b4c",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMuZ3S/BKRfZz9Z6U81enaSo7Twv",
+  "snapshot_id": "AAAAALiPIJa5M/8XGupKp3F2FC0PPLXV",
   "tracks": [
     {
       "added_at": "2026-02-09 02:43:34",
@@ -99,22 +99,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Maria Rita",
-        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
-      },
-      "artists": [
-        {
-          "name": "Maria Rita",
-          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
-        }
-      ],
-      "duration_ms": 282293,
-      "name": "Cara valente",
-      "url": "https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Rarities, Outtakes & Other Delights, Vol. 2",
         "url": "https://open.spotify.com/album/29DNH3Fggk7fkLZebFkcH8"
       },
@@ -127,6 +111,22 @@
       "duration_ms": 203306,
       "name": "The Way You Look Tonight",
       "url": "https://open.spotify.com/track/7yED4n2U8RR5LKZVmisiev"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Maria Rita",
+        "url": "https://open.spotify.com/album/0xLGxMlF7mzPccjawvljuw"
+      },
+      "artists": [
+        {
+          "name": "Maria Rita",
+          "url": "https://open.spotify.com/artist/1C8UBSZs5rOPfxuxTMS6OI"
+        }
+      ],
+      "duration_ms": 282293,
+      "name": "Cara valente",
+      "url": "https://open.spotify.com/track/1KlC2yGobg0mBMAIJ3OrX2"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -179,22 +179,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Julie Is Her Name",
-        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
-      },
-      "artists": [
-        {
-          "name": "Julie London",
-          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
-        }
-      ],
-      "duration_ms": 147413,
-      "name": "I'm Glad There Is You",
-      "url": "https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Duets II",
         "url": "https://open.spotify.com/album/5ktAYFq8wJ1hcWHaxl6AQf"
       },
@@ -211,6 +195,22 @@
       "duration_ms": 200586,
       "name": "Body and Soul",
       "url": "https://open.spotify.com/track/01hJnhpAmjzg85Etnz2ECH"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Julie Is Her Name",
+        "url": "https://open.spotify.com/album/6hDZjN3iWJ95RIXnxbiG1P"
+      },
+      "artists": [
+        {
+          "name": "Julie London",
+          "url": "https://open.spotify.com/artist/3qUMmh5biaB5hqpF4LqS3m"
+        }
+      ],
+      "duration_ms": 147413,
+      "name": "I'm Glad There Is You",
+      "url": "https://open.spotify.com/track/1xlyVmdCo5lMRIzuMlAUF7"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -271,22 +271,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Dance Of Time",
-        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
-      },
-      "artists": [
-        {
-          "name": "Eliane Elias",
-          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
-        }
-      ],
-      "duration_ms": 299506,
-      "name": "Little Paradise",
-      "url": "https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Sim",
         "url": "https://open.spotify.com/album/36fWvul2SzklDegMxkLRyC"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 249973,
       "name": "Amado",
       "url": "https://open.spotify.com/track/1UehyRYWHQxfj52XJbswIv"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Dance Of Time",
+        "url": "https://open.spotify.com/album/3AwETxl8Vf5yYbACae04eP"
+      },
+      "artists": [
+        {
+          "name": "Eliane Elias",
+          "url": "https://open.spotify.com/artist/4qKIiUdFND09cgGOc5kfoR"
+        }
+      ],
+      "duration_ms": 299506,
+      "name": "Little Paradise",
+      "url": "https://open.spotify.com/track/7p3AeUfrHFKdBuyVTXwXKW"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "At Last",
-        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
-      },
-      "artists": [
-        {
-          "name": "Susan Wong",
-          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
-        }
-      ],
-      "duration_ms": 164652,
-      "name": "At Last",
-      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "My Romance",
         "url": "https://open.spotify.com/album/7jYUVQLHD774i0rtsJzbSf"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 253283,
       "name": "Don't Let Me Be Lonely Tonight",
       "url": "https://open.spotify.com/track/4PkRM1zAuKOeHsAYFDhXnt"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/3NsaK9g3lFCE2zmE8TkMXR"
+      },
+      "artists": [
+        {
+          "name": "Susan Wong",
+          "url": "https://open.spotify.com/artist/3stKuoGxVciVL8qXRRbzxI"
+        }
+      ],
+      "duration_ms": 164652,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/08N2AGjQuf3FitcSvPXgD9"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -711,22 +711,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "The Very Thought of You",
-        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
-      },
-      "artists": [
-        {
-          "name": "Nicole Henry",
-          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
-        }
-      ],
-      "duration_ms": 316453,
-      "name": "Make It Last",
-      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Linger Awhile",
         "url": "https://open.spotify.com/album/1TZ16QfCsARON0efp6mGga"
       },
@@ -739,6 +723,22 @@
       "duration_ms": 294287,
       "name": "Misty",
       "url": "https://open.spotify.com/track/4Pjs6JmmSq4v9FuZFnWIng"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "The Very Thought of You",
+        "url": "https://open.spotify.com/album/6R6CLCrX0PblFlg8kj1KsO"
+      },
+      "artists": [
+        {
+          "name": "Nicole Henry",
+          "url": "https://open.spotify.com/artist/17lVE8O9nHn3WWc6Csy2Sn"
+        }
+      ],
+      "duration_ms": 316453,
+      "name": "Make It Last",
+      "url": "https://open.spotify.com/track/69Di4YxK4PB1ivkRdeglt5"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -759,22 +759,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "I Love A Love Song!",
-        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
-      },
-      "artists": [
-        {
-          "name": "Rachael & Vilray",
-          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
-        }
-      ],
-      "duration_ms": 227455,
-      "name": "Even in the Evenin'",
-      "url": "https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "where are we",
         "url": "https://open.spotify.com/album/6lI2Db6atrpRHt0l76DQCl"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 310106,
       "name": "Where Are You?",
       "url": "https://open.spotify.com/track/4yJgdugXPQIzvWBwFUJbS4"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "I Love A Love Song!",
+        "url": "https://open.spotify.com/album/0j551HTufOYW6EJ9CQwNrD"
+      },
+      "artists": [
+        {
+          "name": "Rachael & Vilray",
+          "url": "https://open.spotify.com/artist/3UHyuBA5qay3xcxFr3Z1Y9"
+        }
+      ],
+      "duration_ms": 227455,
+      "name": "Even in the Evenin'",
+      "url": "https://open.spotify.com/track/6YbbXubrxAnXsJLZSJnb7l"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "Tuck + Cover",
-        "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
-      },
-      "artists": [
-        {
-          "name": "Hailey Tuck",
-          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
-        }
-      ],
-      "duration_ms": 208767,
-      "name": "Love On Top",
-      "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "All About Chris",
         "url": "https://open.spotify.com/album/0C82GvQXd2ls4jnK7Rf0UA"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 180146,
       "name": "All About Ronnie",
       "url": "https://open.spotify.com/track/4s5MqP3R5MiKit4wauAGNH"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "Tuck + Cover",
+        "url": "https://open.spotify.com/album/3ldm7w3EdQXyMHJHUmizvk"
+      },
+      "artists": [
+        {
+          "name": "Hailey Tuck",
+          "url": "https://open.spotify.com/artist/31xWBejhhuVdm9zRmCQuse"
+        }
+      ],
+      "duration_ms": 208767,
+      "name": "Love On Top",
+      "url": "https://open.spotify.com/track/7409tRO6Y8sLLIlSRZyXiu"
     },
     {
       "added_at": "2026-02-09 02:43:34",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-02-09 02:43:34",
       "album": {
-        "name": "You Should Have Told Me",
-        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
-      },
-      "artists": [
-        {
-          "name": "Ellen Andersson",
-          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
-        }
-      ],
-      "duration_ms": 212680,
-      "name": "I Get Along Without You Very Well",
-      "url": "https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4"
-    },
-    {
-      "added_at": "2026-02-09 02:43:34",
-      "album": {
         "name": "Kandace Springs",
         "url": "https://open.spotify.com/album/3sgO2YhnSjDNGCkcm3tjrr"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 196844,
       "name": "Forbidden Fruit",
       "url": "https://open.spotify.com/track/5Whmxb8uv9XCLz0daWbOVr"
+    },
+    {
+      "added_at": "2026-02-09 02:43:34",
+      "album": {
+        "name": "You Should Have Told Me",
+        "url": "https://open.spotify.com/album/24zLLdsQq4OwtSpS3SiEQJ"
+      },
+      "artists": [
+        {
+          "name": "Ellen Andersson",
+          "url": "https://open.spotify.com/artist/5N87utqQzCT8NHBW7JJXog"
+        }
+      ],
+      "duration_ms": 212680,
+      "name": "I Get Along Without You Very Well",
+      "url": "https://open.spotify.com/track/36ijrUpp53t9EBJa31Yus4"
     }
   ],
   "unique_name": "\u7235\u58eb\u60c5\u6b4c",

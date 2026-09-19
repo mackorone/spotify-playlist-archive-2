@@ -1,12 +1,12 @@
 {
   "description": "This is LUDMILLA. The essential tracks, all in one playlist.",
-  "num_followers": 304582,
+  "num_followers": 304575,
   "original_name": "This Is LUDMILLA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAD9jntOKknESLQMDqIaBJPB",
+  "snapshot_id": "aqstgAAAAABWSlRncqAVHw6GA2OQ/XAi",
   "tracks": [
     {
       "added_at": null,
@@ -447,26 +447,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Thiaguinho",
-          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
-        }
-      ],
-      "duration_ms": 220004,
-      "name": "Amor Dif\u00edcil - Ao vivo",
-      "url": "https://open.spotify.com/track/7vzfaxzAl0YNLBp2xA7T0b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prazer, eu sou Ferrugem (Ao vivo)",
         "url": "https://open.spotify.com/album/3SkOXrdSri5EIpDpUvfdm3"
       },
@@ -483,6 +463,26 @@
       "duration_ms": 233637,
       "name": "Paci\u00eancia (Participa\u00e7\u00e3o especial de Ludmilla) - Ao vivo",
       "url": "https://open.spotify.com/track/3jHsNUej99xBE7TX3fg1xD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Thiaguinho",
+          "url": "https://open.spotify.com/artist/1vppDmG3i5sXf3DJzrK4T1"
+        }
+      ],
+      "duration_ms": 220004,
+      "name": "Amor Dif\u00edcil - Ao vivo",
+      "url": "https://open.spotify.com/track/7vzfaxzAl0YNLBp2xA7T0b"
     },
     {
       "added_at": null,
@@ -527,6 +527,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "T\u00e1 Na Mente",
+          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
+        }
+      ],
+      "duration_ms": 231283,
+      "name": "Dorme com Deus / Fica - Ao Vivo",
+      "url": "https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Numanice (Ao vivo)",
         "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
@@ -567,26 +587,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "T\u00e1 Na Mente",
-          "url": "https://open.spotify.com/artist/1x7Y5zQOvhROVPgy73689r"
-        }
-      ],
-      "duration_ms": 231283,
-      "name": "Dorme com Deus / Fica - Ao Vivo",
-      "url": "https://open.spotify.com/track/1Y7ShD0kGmHPwJTWOuBlHK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Numanice #2 (Ao Vivo) - Deluxe",
         "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
       },
@@ -623,6 +623,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "Mar\u00edlia Mendon\u00e7a",
+          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
+        }
+      ],
+      "duration_ms": 181157,
+      "name": "Ins\u00f4nia - Ao Vivo",
+      "url": "https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dia de Fluxo",
         "url": "https://open.spotify.com/album/58jzd3ALDliyTUI5Ke8jmS"
       },
@@ -647,22 +667,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
       },
       "artists": [
         {
           "name": "LUDMILLA",
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "Mar\u00edlia Mendon\u00e7a",
-          "url": "https://open.spotify.com/artist/1yR65psqiazQpeM79CcGh8"
         }
       ],
-      "duration_ms": 181157,
-      "name": "Ins\u00f4nia - Ao Vivo",
-      "url": "https://open.spotify.com/track/3EM71GPnUGJ75uDhkH77pq"
+      "duration_ms": 401511,
+      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
+      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
     },
     {
       "added_at": null,
@@ -687,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 401511,
-      "name": "Desse Jeito \u00e9 Ruim Pra Mim / Perfume / Antes de Dizer Adeus - Ao vivo",
-      "url": "https://open.spotify.com/track/1CehxijvhSszrBS3FuCxBw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Um P\u00f4r do Sol Na Praia",
         "url": "https://open.spotify.com/album/1UVkJQfyY6tX2su3aLSgXO"
       },
@@ -719,6 +719,22 @@
       "duration_ms": 188415,
       "name": "Um P\u00f4r do Sol Na Praia",
       "url": "https://open.spotify.com/track/7JGjgJOUPjyc35carv8hoh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "VIL\u00c3",
+        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Sintomas de Prazer",
+      "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
       "duration_ms": 171808,
       "name": "Tu Pode Falar Mal",
       "url": "https://open.spotify.com/track/3BzspvZM7gE6jKOt5ThNci"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "VIL\u00c3",
-        "url": "https://open.spotify.com/album/2cp016R4eqJx2SmU9E5rxh"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Sintomas de Prazer",
-      "url": "https://open.spotify.com/track/2D1rmVTeaZrr5Ipow29t4b"
     },
     {
       "added_at": null,
@@ -847,62 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Numanice (Ao vivo)",
-        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 281421,
-      "name": "Mande Um Sinal / Sinais - Ao vivo",
-      "url": "https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Numanice #2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
-      },
-      "artists": [
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        },
-        {
-          "name": "P\u00e9ricles",
-          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
-        }
-      ],
-      "duration_ms": 201301,
-      "name": "Sinais de fogo - Ao Vivo",
-      "url": "https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mo\u00e7a",
-        "url": "https://open.spotify.com/album/5lKJXq6buEHcbd7LGmCs1z"
-      },
-      "artists": [
-        {
-          "name": "Xam\u00e3",
-          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
-        },
-        {
-          "name": "LUDMILLA",
-          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
-        }
-      ],
-      "duration_ms": 134311,
-      "name": "Mo\u00e7a",
-      "url": "https://open.spotify.com/track/3hnFZQNmaYvNgroiiCKRcf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dono das Esquinas",
         "url": "https://open.spotify.com/album/1A0a8bYGqm5tC4vgSnvDmK"
       },
@@ -927,6 +871,62 @@
       "duration_ms": 171428,
       "name": "Ap\u00ea 1001",
       "url": "https://open.spotify.com/track/6oVNrpMWlzS6UkQuuM8zHU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice #2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1sikBy4Cu6l99M6Sd6mDdu"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        },
+        {
+          "name": "P\u00e9ricles",
+          "url": "https://open.spotify.com/artist/6gEzJZrbm0F4ihvE9iXR9z"
+        }
+      ],
+      "duration_ms": 201301,
+      "name": "Sinais de fogo - Ao Vivo",
+      "url": "https://open.spotify.com/track/5Uq1ta57YcmShqMyPmVyyO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Numanice (Ao vivo)",
+        "url": "https://open.spotify.com/album/5u9JxohIzAYCPE53Ev4uiN"
+      },
+      "artists": [
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 281421,
+      "name": "Mande Um Sinal / Sinais - Ao vivo",
+      "url": "https://open.spotify.com/track/7gGCGzNFmW0xjhA8dA3Y5w"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mo\u00e7a",
+        "url": "https://open.spotify.com/album/5lKJXq6buEHcbd7LGmCs1z"
+      },
+      "artists": [
+        {
+          "name": "Xam\u00e3",
+          "url": "https://open.spotify.com/artist/5YwzDz4RJfTiMHS4tdR5Lf"
+        },
+        {
+          "name": "LUDMILLA",
+          "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
+        }
+      ],
+      "duration_ms": 134311,
+      "name": "Mo\u00e7a",
+      "url": "https://open.spotify.com/track/3hnFZQNmaYvNgroiiCKRcf"
     },
     {
       "added_at": null,
@@ -999,8 +999,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "BOTA",
-        "url": "https://open.spotify.com/album/3dR7Ki6FZ7ZzERpGaDqizJ"
+        "name": "Numanice #2 (Ao Vivo) - Deluxe",
+        "url": "https://open.spotify.com/album/6iCqu8WWngOqpEGxGthyvv"
       },
       "artists": [
         {
@@ -1008,17 +1008,13 @@
           "url": "https://open.spotify.com/artist/3CDoRporvSjdzTrm99a3gi"
         },
         {
-          "name": "Emilia",
-          "url": "https://open.spotify.com/artist/0AqlFI0tz2DsEoJlKSIiT9"
-        },
-        {
-          "name": "Latto",
-          "url": "https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ"
+          "name": "Belo",
+          "url": "https://open.spotify.com/artist/7hLjkyL9Pz9xtQNahzJZki"
         }
       ],
-      "duration_ms": 178173,
-      "name": "BOTA",
-      "url": "https://open.spotify.com/track/6XRjI89oGBRJe0etKtI04L"
+      "duration_ms": 187796,
+      "name": "N\u00e3o v\u00e1 me enganar - Ao Vivo",
+      "url": "https://open.spotify.com/track/6Q3JFwQ0EoAO7gosrWI3na"
     }
   ],
   "unique_name": "This Is LUDMILLA",

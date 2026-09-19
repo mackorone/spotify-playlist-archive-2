@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 
 > Classic cuts from the alternative country music scene\. Cover: Uncle Tupelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,404 likes - 75 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,399 likes - 75 songs - 4 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 8 | [Handle With Care](https://open.spotify.com/track/1G0ku3TLCGwrAHj9WPudKX) | [Traveling Wilburys](https://open.spotify.com/artist/2hO4YtXUFJiUYS2uYFvHNK) | [The Traveling Wilburys, Vol\. 1](https://open.spotify.com/album/4zcvamWINofMEwG74kvQl1) | 3:19 |
 | 9 | [Good Lord Lorrie](https://open.spotify.com/track/0pghPocTwFg6ckBUs52SQ8) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Goodbye Normal Street](https://open.spotify.com/album/0bbz2cwhC8oQtyli5tjaqP) | 5:01 |
 | 10 | [A Long December](https://open.spotify.com/track/1tjKIXd7DYNklhVSgBxREi) | [Counting Crows](https://open.spotify.com/artist/0vEsuISMWAKNctLlUAhSZC) | [Recovering The Satellites](https://open.spotify.com/album/4YArB2Q848BDmmwUUumEFP) | 4:55 |
-| 11 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 |
+| 11 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/4Cd7jyOiC8S18NwUBEGRbe) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Movie Of The Week](https://open.spotify.com/album/7wNQC2MXYcehArLMjdFzZ2) | 3:12 |
 | 12 | [Turtles All the Way Down](https://open.spotify.com/track/1KtDYUcgs25O2SoBTaWsLE) | [Sturgill Simpson](https://open.spotify.com/artist/3vDpQbGnzRbRVirXlfQagB) | [Metamodern Sounds in Country Music](https://open.spotify.com/album/5N1kfa3omZENLwlVhEgqHF) | 3:08 |
-| 13 | [Ready or Not \(feat\. Sierra Ferrell\)](https://open.spotify.com/track/4Cd7jyOiC8S18NwUBEGRbe) | [Shakey Graves](https://open.spotify.com/artist/1fZpYWNWdL5Z3wrDtISFUH), [Sierra Ferrell](https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t) | [Movie Of The Week](https://open.spotify.com/album/7wNQC2MXYcehArLMjdFzZ2) | 3:12 |
+| 13 | [Hold On](https://open.spotify.com/track/1EuvOdyyzhFUP2z3gfr6xz) | [Alabama Shakes](https://open.spotify.com/artist/16GcWuvvybAoaHr0NqT8Eh) | [Boys & Girls](https://open.spotify.com/album/4eOGRVKyCsVfaXysnHz0k2) | 3:46 |
 | 14 | [Long Hot Summer Day](https://open.spotify.com/track/0kOG4bwpKgRlcJw1NA6csR) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [Diamonds & Gasoline](https://open.spotify.com/album/5I249HRmXIxJw3IQDUOP5p) | 4:12 |
 | 15 | [Oneida](https://open.spotify.com/track/5dUCixiCL0CcIUdlgUl1ct) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 4:38 |
 | 16 | [If We Were Vampires](https://open.spotify.com/track/250RLekaiL1q9qZer975Eg) | [Jason Isbell and the 400 Unit](https://open.spotify.com/artist/3Lg3FGwBxOGuefqekQzRUf), [Jason Isbell](https://open.spotify.com/artist/3Q8wgwyVVv0z4UEh1HB0KY) | [The Nashville Sound](https://open.spotify.com/album/0gYLr4tpPpRrPg2WIS64jw) | 3:35 |
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 47 | [Timebomb](https://open.spotify.com/track/2S6yBUXa5KddBV0CqBkcP1) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Too Far To Care](https://open.spotify.com/album/0Jo6Fx3HfybzdNhwXOPD7D) | 3:08 |
 | 48 | [Indianapolis](https://open.spotify.com/track/4dCFpIPmSWi2fDQvcdp9dK) | [The Bottle Rockets](https://open.spotify.com/artist/5YsFZtitLEPVCFjixwBIkW) | [24 Hours A Day](https://open.spotify.com/album/6oEpo2mn9gFX5B8MQUy1qy) | 3:32 |
 | 49 | [Radio King](https://open.spotify.com/track/3C46CEeM0ltNQwOtPN8jRg) | [Golden Smog](https://open.spotify.com/artist/0BLh5cn4nqfqoVUREx3hLj) | [Down By The Old Mainstream](https://open.spotify.com/album/3JN6iTnWyTYFULRijpCtTY) | 3:09 |
-| 50 | [Good Intentions](https://open.spotify.com/track/1xFvog4nYO22Sfw5iarls7) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/0NwAQ1Z8qlkvBRxm2pjxBM) | 2:47 |
-| 51 | [Yuma \- Remastered](https://open.spotify.com/track/6r674yB7uC3NdEpV5kicsN) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Yuma \(Remastered\)](https://open.spotify.com/album/7tsNX9x3wzHdCTHNPJFrU9) | 3:05 |
+| 50 | [Yuma \- Remastered](https://open.spotify.com/track/6r674yB7uC3NdEpV5kicsN) | [Justin Townes Earle](https://open.spotify.com/artist/3znXuXT3xkCtjgOxXBBVnq) | [Yuma \(Remastered\)](https://open.spotify.com/album/7tsNX9x3wzHdCTHNPJFrU9) | 3:05 |
+| 51 | [Good Intentions](https://open.spotify.com/track/1xFvog4nYO22Sfw5iarls7) | [Robert Ellis](https://open.spotify.com/artist/6XtG9W2KkPiQ6n1rlIvTJE) | [The Lights from the Chemical Plant](https://open.spotify.com/album/0NwAQ1Z8qlkvBRxm2pjxBM) | 2:47 |
 | 52 | [Question](https://open.spotify.com/track/2m5ItG3IIMsaGYJjZOvUoE) | [Old 97's](https://open.spotify.com/artist/27AzFtMZhRN78bAMPntbpF) | [Satellite Rides](https://open.spotify.com/album/6SVjHaDr6gwCXUEvHoUhpA) | 2:15 |
 | 53 | [Things That Scare Me](https://open.spotify.com/track/1GMphu4rFfW80ME1EN8IJo) | [Neko Case](https://open.spotify.com/artist/4Cedjq5BQL3MhapRvDpFED) | [Blacklisted](https://open.spotify.com/album/76PyfjqUSplsygzK6lcbcU) | 2:30 |
 | 54 | [You Can't Fail Me Now](https://open.spotify.com/track/1HrU3nSY7CNMr43DMHnhYw) | [Loudon Wainwright III](https://open.spotify.com/artist/3loACRmkzdtOMNJEaB6j8L) | [Strange Weirdos: Music From And Inspired By The Film Knocked Up](https://open.spotify.com/album/6L1QV8S8MbJxRdm3UqQyz9) | 3:45 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXdN7izJSV.md) - [plain]
 | 74 | [Post to Wire](https://open.spotify.com/track/2vwOmgQGX1abLc6dDqyRry) | [Richmond Fontaine](https://open.spotify.com/artist/2zTCLiQ8OUIWEyV6eZWzFy) | [Post to Wire](https://open.spotify.com/album/1IQSQJop8pMbbWozvZsMbc) | 2:13 |
 | 75 | [Officer Down](https://open.spotify.com/track/2hS1eS0RAg5b9VzRPSPK6J) | [Carolyn Mark](https://open.spotify.com/artist/5LEbX3AeiknZxV5zOIFhCH), [NQ Arbuckle](https://open.spotify.com/artist/0UXWUsqoGhYC4sCiEe7tEk) | [Let's Just Stay Here](https://open.spotify.com/album/610I6r165R7zGCI2rFlQc7) | 3:57 |
 
-Snapshot ID: `AAAAACBlE0DmnM48mClWYu+PzFU1/7jL`
+Snapshot ID: `AAAAAAh9YOQfMNdv0uMZwxkyL0dwv4g3`

@@ -4,7 +4,7 @@
 
 > Electrónica Nacional, nuevos lanzamientos todas las semanas.<br/>📸  Inda Jani
 
-412 songs - 1 day 14 hr 10 min
+413 songs - 1 day 14 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -277,6 +277,7 @@
 | [Once Once](https://open.spotify.com/track/5FYaPTvCmsiX1LN6cREn0Y) | [Jorge Savoretti](https://open.spotify.com/artist/2y5On3ikuSulzY5qLJNCba) | [Once Once](https://open.spotify.com/album/2MhMZkB71pV1jMPkRVNnk5) | 7:12 | 2025-03-19 | 2025-11-07 |
 | [Once Upon a Time \- Original Mix](https://open.spotify.com/track/6LBbUEXngeoiHk5wTBhdKT) | [Mariano Mellino](https://open.spotify.com/artist/3ikEi08G1s0jiIxBC9a9GE) | [Once Upon a Time](https://open.spotify.com/album/4sz56iNEt5jyh7sCNTVtTW) | 8:08 | 2020-09-04 | 2023-11-18 |
 | [One Two Three Four](https://open.spotify.com/track/6EzMEiXcLAQPPYXUiYTWiH) | [BRK \(BR\)](https://open.spotify.com/artist/2zLTIcwPglk4RMQDrf9Hsv), [Gueva](https://open.spotify.com/artist/05Pn4YBKlafyqay7CrSS17) | [One Two Three Four](https://open.spotify.com/album/4wjXfnuHVoBx3pdFr5B4d5) | 6:00 | 2025-06-30 |  |
+| [Only I Know What You Said \- Emi Galvan Remix](https://open.spotify.com/track/5WtcoyNndsQMaiLz9mwdK3) | [Nick Warren](https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN), [Emi Galvan](https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj) | [Only I Know What You Said](https://open.spotify.com/album/5jYVJ3rfmzith6mAL6OQKO) | 7:25 | 2026-09-18 |  |
 | [Out of Mind](https://open.spotify.com/track/41T06CLFEf09tUQSa1ln2m) | [Julieta Kühnle](https://open.spotify.com/artist/3q5V5nh60ZXK4ejyTALGNu) | [South Strangers, Vol\. 4](https://open.spotify.com/album/7zJzOCEZMLa0mulGfWH01y) | 8:01 | 2023-11-17 | 2025-06-27 |
 | [Over](https://open.spotify.com/track/1qqUb6n3fPzIjegshaVZ3p) | [Lucefora](https://open.spotify.com/artist/6GKpX2YtbMOIQVpv3DpFBv) | [13 Years of Akbal Music](https://open.spotify.com/album/1TElv6fUEh66qMzQzerrbk) | 8:19 | 2020-09-04 | 2023-11-18 |
 | [Overflow \- Fiama Molina Remix](https://open.spotify.com/track/2spNlmReyMDsZanz79yjQG) | [Miss Adk](https://open.spotify.com/artist/1P8ulwWeuGIL12delhvGEz), [Fiama Molina](https://open.spotify.com/artist/2O2QR0JbQ4Rkv9fN3HvRew) | [Overflow](https://open.spotify.com/album/58E9QSlo17wnE07iXwpzIo) | 6:27 | 2024-01-05 | 2025-07-08 |

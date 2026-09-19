@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 
 > De beste nieuwe R&B releases \| Cover: Chris Brown
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,757 likes - 100 songs - 5 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,725 likes - 100 songs - 5 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 28 | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/0Ck2PwCeW99bcyn4ZD3Uvr) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Need it Bad \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/7wflrYEr2NnbAwsZysbKrC) | 3:07 |
 | 29 | [Friends Again](https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0) | [Baby Rose](https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Friends Again](https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu) | 3:38 |
 | 30 | [Acres](https://open.spotify.com/track/5X4MryeUcDuIisyVitndm3) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:04 |
-| 31 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
-| 32 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
+| 31 | [Spend It](https://open.spotify.com/track/290eKCMBc9f9CcSLFuQrim) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Spend It](https://open.spotify.com/album/1bbRn3bCzOPvjbShgj26K9) | 2:45 |
+| 32 | [Lady](https://open.spotify.com/track/1aeRSlCn1EF7f5q7b5l6uu) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 3:03 |
 | 33 | [DUVET](https://open.spotify.com/track/6AC9alC8qJ7cXuYifgAfQn) | [SAILORR](https://open.spotify.com/artist/6ucHomyCWjxmvbyqAAbSci) | [FROM FLORIDA'S FINEST DELU/XXX \[for my delusional ex\]](https://open.spotify.com/album/4cwTNbK4eKfA98HHIdh4m0) | 2:31 |
 | 34 | [sweet talk](https://open.spotify.com/track/5stCKPzR4uSF3Sr5aJS60Y) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [sweet talk](https://open.spotify.com/album/6wjU9WgKaA8auGXzfSaemY) | 2:26 |
 | 35 | [bad](https://open.spotify.com/track/3nHfrCYH0QTkH6AkWuuitJ) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [bad](https://open.spotify.com/album/2bbtGmc7JDTHvbsubHacsO) | 2:44 |
@@ -61,8 +61,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 51 | [U Gotta](https://open.spotify.com/track/20RR34NvvcSas9GdZUrAhq) | [Dyce](https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc), [The Limba](https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7) | [U Gotta](https://open.spotify.com/album/30VqT2rbEknTdCZt1n0Rci) | 2:02 |
 | 52 | [No](https://open.spotify.com/track/6vtYF1GqtBJvfvDLAkKuid) | [Summer Walker](https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS) | [Finally Over It](https://open.spotify.com/album/5X1Y5kGtPQyu4UhjSuTRhx) | 2:26 |
 | 53 | [SA NA SAN](https://open.spotify.com/track/1YQ7UbplDV4LGXeLvWVwRj) | [Amazone](https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46) | [SA NA SAN](https://open.spotify.com/album/3UoYIWj5tFDxbxeh8VqIU8) | 2:35 |
-| 54 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
-| 55 | [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 |
+| 54 | [Useless \(Without You\)](https://open.spotify.com/track/0iifpUGfAW5GdVyEojWaiw) | [Elmiene](https://open.spotify.com/artist/2CLclpIC43fLzsYq6LQvlL) | [Useless \(Without You\)](https://open.spotify.com/album/6eNCIMRpRD0i7cJeTbki35) | 2:46 |
+| 55 | [Don't Leave](https://open.spotify.com/track/44kUOVs16iRf11YjO7aaRW) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Don't Leave](https://open.spotify.com/album/4noKPYGvy7eXfARAgRDhHr) | 2:10 |
 | 56 | [Better Days](https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Better Days](https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1) | 3:22 |
 | 57 | [Priceless](https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Priceless](https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84) | 2:39 |
 | 58 | [I'm Still](https://open.spotify.com/track/3Hnz8f9G9HsbJL56vb6zJr) | [HILLARI](https://open.spotify.com/artist/1bEzbwo8LkrDN0imp4dkEM) | [I'm Still](https://open.spotify.com/album/3BoiZa3vYxc4as8qO5MKQu) | 2:42 |
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 63 | [Can We Talk?](https://open.spotify.com/track/1NeL0geu5M3lya479QuA6q) | [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [Can We Talk?](https://open.spotify.com/album/5bzaSX78ybcXW55HFe8xZi) | 3:08 |
 | 64 | [Sweet Life](https://open.spotify.com/track/3TwtwxvOZBs8Xyat0QjDiW) | [Amazone](https://open.spotify.com/artist/5G0ANZaJzsikgGl5nZdm46) | [Sweet Life](https://open.spotify.com/album/3l3CJTMpoJyqTz1DLckKf9) | 2:49 |
 | 65 | [side slider](https://open.spotify.com/track/2O3zj9sxh8NcurUYDGfduH) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Mr\. Lovebomb](https://open.spotify.com/album/6P5iNEDyHXsLhL781CJFyZ) | 3:47 |
-| 66 | [Physical \(feat.Tink\)](https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Physical](https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd) | 3:52 |
-| 67 | [Playdoh](https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Playdoh](https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1) | 2:18 |
+| 66 | [Playdoh](https://open.spotify.com/track/5q4BwNIFR4n5d2vGMbyg6Q) | [B Young](https://open.spotify.com/artist/7JMwO9tyFPMsb2KnsJqZlp) | [Playdoh](https://open.spotify.com/album/7uVB9tRYHBjMyUHqqyhMN1) | 2:18 |
+| 67 | [Physical \(feat.Tink\)](https://open.spotify.com/track/5sbfWeOSosqHJqaTI5dlb7) | [Jacquees](https://open.spotify.com/artist/4tMm1dU6Gn04VAZ9ClHcIZ), [Tink](https://open.spotify.com/artist/4v6XOdonnfpdTKTRJArG7v) | [Physical](https://open.spotify.com/album/6mRITTNrSAo6Qa2FPIrHUd) | 3:52 |
 | 68 | [System](https://open.spotify.com/track/5coSBS4AytJ2V3lAAtstEg) | [Asiah](https://open.spotify.com/artist/3cAWgw5dy6A1OheKZx0uZX) | [System](https://open.spotify.com/album/2ow4378LTz6HxOdaLOWG9C) | 3:08 |
 | 69 | [Miss That](https://open.spotify.com/track/32C7nsEacy74cB3tlJQCaE) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [Miss That](https://open.spotify.com/album/2BOViTOt2OUGdjGWpjT8t9) | 2:56 |
 | 70 | [Why](https://open.spotify.com/track/5m7WSCHb0I8wBSAM0xAVOq) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Why](https://open.spotify.com/album/78eqoV7ejwEOZreqaRYaes) | 2:32 |
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 77 | [He's Not Me](https://open.spotify.com/track/6JYu49kxv7FzZNB6H7u4SE) | [Dylan Sinclair](https://open.spotify.com/artist/45RZn1pAEvQYqkRnvFaIJx) | [He's Not Me](https://open.spotify.com/album/1bueDSKPw6O7QCzH8D5WoZ) | 3:27 |
 | 78 | [back 'n forth](https://open.spotify.com/track/57c824155MOILKW4B9i26h) | [Chuka, The Destroyer](https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys) | [back 'n forth](https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED) | 3:17 |
 | 79 | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3) | [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ronald Isley](https://open.spotify.com/artist/6W9RUw7xnNRYtgh8dimg7L) | [nobody has to know \(with Ronald Isley\)](https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd) | 3:17 |
-| 80 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
-| 81 | [MEET THE SUN](https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [MEET THE SUN](https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w) | 4:45 |
+| 80 | [MEET THE SUN](https://open.spotify.com/track/1P2j9lCkJ0IzwRkuRZEFNa) | [Joseph Solomon](https://open.spotify.com/artist/0hZEO1Bl2QRGUaeeSLWDYN) | [MEET THE SUN](https://open.spotify.com/album/0Mff6DYflCDBNvAaahjB3w) | 4:45 |
+| 81 | [Bittersweet](https://open.spotify.com/track/6DKGwoYNtFOScgbtTQO3zn) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [The Only Love We Know](https://open.spotify.com/album/2yqz7Zcel4REXGt1qdbUma) | 3:57 |
 | 82 | [Tricks Are For Kids](https://open.spotify.com/track/4G59GzF7Enxx2XiGKbYkVw) | [rjtheweirdo](https://open.spotify.com/artist/5XWVWbQiBVEEXZSFyEsUcW) | [Tricks Are For Kids](https://open.spotify.com/album/1OuyXG6n4qbD91SUPss8pO) | 2:20 |
 | 83 | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/track/4fnTe6QJgXrZtLrTUuCo3M) | [Bnnyhunna](https://open.spotify.com/artist/13itA83Wg0KCCk1odzFFpD), [Reggie Dartey](https://open.spotify.com/artist/2hDO9Hvuh8vrSCYm3yRBui) | [Waiting For You \(feat\. Reggie Dartey\)](https://open.spotify.com/album/3OP5lchVXZ5LjpmTwqk3Rt) | 3:18 |
 | 84 | [Desire \- Spotify Singles](https://open.spotify.com/track/1CfHEKb7RO3qSlcFxXCsnv) | [Isaia Huron](https://open.spotify.com/artist/1hJx89kEIcAmlZzUWat9w6) | [Desire \- Spotify Singles](https://open.spotify.com/album/19ubPXvzp96eqKKH905E3i) | 3:45 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1aA8os1ylFZ.md) - [plain]
 | 99 | [125 Degrees](https://open.spotify.com/track/3vVWaeY9ZZpLq2fBGl9J4i) | [Keke Palmer](https://open.spotify.com/artist/2YFBOR9KIxC6WqHclkj9Yq) | [125 Degrees](https://open.spotify.com/album/3N6qsUlszc6byIASYr0bBp) | 2:43 |
 | 100 | [One More Time](https://open.spotify.com/track/2aW0YxPMcioaMvioYZgYf1) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI) | [One More Time](https://open.spotify.com/album/2UgBgSaNVEblHh3IXBqHXN) | 2:40 |
 
-Snapshot ID: `AAAAAK/jgQSQRu0G+CWSBG0gu4MFI6MJ`
+Snapshot ID: `AAAAAFnsHNSlStOZM050L4NqDbexlxLN`

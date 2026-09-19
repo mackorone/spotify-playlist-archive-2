@@ -1,45 +1,13 @@
 {
   "description": "This is Charles Ans. The essential tracks, all in one playlist.",
-  "num_followers": 261428,
+  "num_followers": 261466,
   "original_name": "This Is Charles Ans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAADAmdtbbQmguJNYSgVyFR5X",
+  "snapshot_id": "aqstgAAAAAC4M7wEWPkTVkvjnd9kjtEs",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lo Que Importa",
-        "url": "https://open.spotify.com/album/5BORI0jxYHxEOvG6N9ASlT"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        }
-      ],
-      "duration_ms": 308250,
-      "name": "Lo Que Importa",
-      "url": "https://open.spotify.com/track/3gxmfNwq3FP5G8W5q7I7nF"
-    },
     {
       "added_at": null,
       "album": {
@@ -159,30 +127,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los No Tan Tristes",
-        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 232200,
-      "name": "Invisibles",
-      "url": "https://open.spotify.com/track/6QY5zaoulgveKCr7XE0vs9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LQRA Session #5",
         "url": "https://open.spotify.com/album/6fEbvdp7RK0pfoeHiJ2r8a"
       },
@@ -207,6 +151,30 @@
       "duration_ms": 308000,
       "name": "LQRA Session #5",
       "url": "https://open.spotify.com/track/1YVyKeuVEhIGNTdhNjbREI"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los No Tan Tristes",
+        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 232200,
+      "name": "Invisibles",
+      "url": "https://open.spotify.com/track/6QY5zaoulgveKCr7XE0vs9"
     },
     {
       "added_at": null,
@@ -251,30 +219,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los No Tan Tristes",
-        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
-      },
-      "artists": [
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        },
-        {
-          "name": "Gera MX",
-          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
-        },
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 246000,
-      "name": "Los No Tan Tristes",
-      "url": "https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00e1scaras",
         "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
       },
@@ -295,6 +239,30 @@
       "duration_ms": 209292,
       "name": "Si T\u00fa Te Vas",
       "url": "https://open.spotify.com/track/2N5GGKdxHZeQOxNDlZPfbP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Los No Tan Tristes",
+        "url": "https://open.spotify.com/album/2z1eY7EHl7VGDaDdyEW1LM"
+      },
+      "artists": [
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        },
+        {
+          "name": "Gera MX",
+          "url": "https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 246000,
+      "name": "Los No Tan Tristes",
+      "url": "https://open.spotify.com/track/4soIDKXJbxGnSMmADYnANT"
     },
     {
       "added_at": null,
@@ -355,38 +323,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Letras Chiquitas",
-        "url": "https://open.spotify.com/album/7cdkN6vQDrlnZMGJjvg3gT"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Yubeili",
-          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
-        },
-        {
-          "name": "DAAZ",
-          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
-        },
-        {
-          "name": "Caztro",
-          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
-        }
-      ],
-      "duration_ms": 262961,
-      "name": "Letras Chiquitas",
-      "url": "https://open.spotify.com/track/2xX22Q4snEaWfqUVooJp9b"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Historias",
         "url": "https://open.spotify.com/album/0faFdiRoAseqHBHMNsxBpE"
       },
@@ -415,6 +351,38 @@
       "duration_ms": 291115,
       "name": "Historias",
       "url": "https://open.spotify.com/track/0qM1sYOj4vluKnq6Ez6shg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Letras Chiquitas",
+        "url": "https://open.spotify.com/album/7cdkN6vQDrlnZMGJjvg3gT"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Yubeili",
+          "url": "https://open.spotify.com/artist/4Fsv1gBjfqSyhzAPbhInXV"
+        },
+        {
+          "name": "DAAZ",
+          "url": "https://open.spotify.com/artist/3EmNguRllf32GJRqIKnD0C"
+        },
+        {
+          "name": "Caztro",
+          "url": "https://open.spotify.com/artist/1YvkzmaJLVRHSJ8J5YzoaW"
+        }
+      ],
+      "duration_ms": 262961,
+      "name": "Letras Chiquitas",
+      "url": "https://open.spotify.com/track/2xX22Q4snEaWfqUVooJp9b"
     },
     {
       "added_at": null,
@@ -687,6 +655,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "M\u00e1scaras",
+        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "La Loquera",
+          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
+        },
+        {
+          "name": "BCN",
+          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
+        }
+      ],
+      "duration_ms": 182200,
+      "name": "Vegetales Con Pescado",
+      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Super Poderes",
         "url": "https://open.spotify.com/album/4DWhSOhqBQq24IwNqPIuRG"
       },
@@ -711,30 +703,6 @@
       "duration_ms": 258421,
       "name": "Super Poderes",
       "url": "https://open.spotify.com/track/3nvZhn4wNgWsb089sc2Wag"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "M\u00e1scaras",
-        "url": "https://open.spotify.com/album/1e4hvdD4wgcEtABivupueQ"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "La Loquera",
-          "url": "https://open.spotify.com/artist/6CXMmTckIVMgPu5wRX1ECI"
-        },
-        {
-          "name": "BCN",
-          "url": "https://open.spotify.com/artist/1M3oDOCXXZVkIlXPp5gAKd"
-        }
-      ],
-      "duration_ms": 182200,
-      "name": "Vegetales Con Pescado",
-      "url": "https://open.spotify.com/track/79E00piO2jJc98iBP9mw7m"
     },
     {
       "added_at": null,
@@ -955,26 +923,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olvidemos el Reloj",
-        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        },
-        {
-          "name": "M2H",
-          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
-        }
-      ],
-      "duration_ms": 232947,
-      "name": "Olvidemos el Reloj",
-      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Entre Compas",
         "url": "https://open.spotify.com/album/0Trve0GFSb3wp7VlQKFjSx"
       },
@@ -1007,6 +955,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Olvidemos el Reloj",
+        "url": "https://open.spotify.com/album/0SoOGrJ6Rs2Zm7t9rlr5kr"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        },
+        {
+          "name": "M2H",
+          "url": "https://open.spotify.com/artist/7bWN0FHvLppK8ozEH6exdi"
+        }
+      ],
+      "duration_ms": 232947,
+      "name": "Olvidemos el Reloj",
+      "url": "https://open.spotify.com/track/57czCt4GTuasg1JRAg9lc9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Hasta Que la Muerte Nos Separe",
         "url": "https://open.spotify.com/album/04MJFDXcwKuZizmnMKqyhb"
       },
@@ -1023,22 +991,6 @@
       "duration_ms": 232500,
       "name": "Hasta Que la Muerte Nos Separe",
       "url": "https://open.spotify.com/track/1cUPGG5tSWperOT9a7zZz3"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ataraxia: A Plena Luz del Dia",
-        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
-      },
-      "artists": [
-        {
-          "name": "Charles Ans",
-          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Aunque la Vida Duele",
-      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
     },
     {
       "added_at": null,
@@ -1067,8 +1019,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sin Maletas",
-        "url": "https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf"
+        "name": "Ataraxia: A Plena Luz del Dia",
+        "url": "https://open.spotify.com/album/2ioeDgPaHJ7cID0n6KrkXi"
       },
       "artists": [
         {
@@ -1076,9 +1028,9 @@
           "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
         }
       ],
-      "duration_ms": 163226,
-      "name": "Lejos de Aqu\u00ed",
-      "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
+      "duration_ms": 211000,
+      "name": "Aunque la Vida Duele",
+      "url": "https://open.spotify.com/track/4tvsIgHpZyZWXS7yfPMKTc"
     },
     {
       "added_at": null,
@@ -1099,6 +1051,22 @@
       "duration_ms": 208564,
       "name": "El Tiempo Cura",
       "url": "https://open.spotify.com/track/10b3OqDXcjzghDKXcK7RBy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sin Maletas",
+        "url": "https://open.spotify.com/album/1MHvm1gns1yjtmiCej5Lqf"
+      },
+      "artists": [
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 163226,
+      "name": "Lejos de Aqu\u00ed",
+      "url": "https://open.spotify.com/track/0aRdQgkVWa3tAXKSitRRVM"
     },
     {
       "added_at": null,
@@ -1167,6 +1135,30 @@
       "duration_ms": 250382,
       "name": "El \u00daltimo Tango",
       "url": "https://open.spotify.com/track/6pUeqmlV162GbTx76DbodN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "De Inmensidades",
+        "url": "https://open.spotify.com/album/64xRjme6Wx7xdJVhRt06fY"
+      },
+      "artists": [
+        {
+          "name": "Sharif",
+          "url": "https://open.spotify.com/artist/5pIapcAHb6WV4fUjfQchMf"
+        },
+        {
+          "name": "Gordo del Funk",
+          "url": "https://open.spotify.com/artist/5cvgau68BWnLZcjeX7Pdf3"
+        },
+        {
+          "name": "Charles Ans",
+          "url": "https://open.spotify.com/artist/5lYeiQxUTcGKVgAuTqbTeL"
+        }
+      ],
+      "duration_ms": 231416,
+      "name": "Lumbre",
+      "url": "https://open.spotify.com/track/4grtH2EEl14ZJL0fry7Zcg"
     }
   ],
   "unique_name": "This Is Charles Ans",

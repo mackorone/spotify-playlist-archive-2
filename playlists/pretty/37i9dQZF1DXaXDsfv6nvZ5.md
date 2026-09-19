@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 
 > The soulful tunes to ease you into your day\. Cover: Eric Bellinger
 
-[Spotify](https://open.spotify.com/user/spotify) - 786,650 likes - 150 songs - 8 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 786,613 likes - 150 songs - 8 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 112 | [Disappear](https://open.spotify.com/track/7ecFrdTfBsazcrZwE3iluC) | [Katie Tupper](https://open.spotify.com/artist/4uReB9HwMdEgwDXredJoVW) | [Greyhound](https://open.spotify.com/album/1o5qIyhha8idsRxsDtadeP) | 3:31 |
 | 113 | [Easier Done Than Said](https://open.spotify.com/track/78H6YBy5lm1P2suxSAzVdo) | [JVCK JAMES](https://open.spotify.com/artist/0hhGFNFQrdE34ZYR1CaBYN), [Stormzy](https://open.spotify.com/artist/2SrSdSvpminqmStGELCSNd) | [Easier Done Than Said](https://open.spotify.com/album/08P5vVNLqPNiCyle8kRssE) | 3:35 |
 | 114 | [Anyone In Love](https://open.spotify.com/track/5fjaHwIsvJKxkhODCYY0EB) | [Jalen Ngonda](https://open.spotify.com/artist/2kEDso93O2hDgCbnuiSkkZ) | [Anyone In Love](https://open.spotify.com/album/2XWTgpZp4up1zFIIUApP3G) | 3:06 |
-| 115 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 |
-| 116 | [Make Me Feel](https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Make Me Feel](https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU) | 3:03 |
+| 115 | [Make Me Feel](https://open.spotify.com/track/6mnZghSd48G0jM5f2FF47p) | [SABRI](https://open.spotify.com/artist/0WhmMZXwrGzYK5lWJZiej5) | [Make Me Feel](https://open.spotify.com/album/6pZglm4JbKCzcDmSyDPObU) | 3:03 |
+| 116 | [Can I Call You Rose? \- Cover](https://open.spotify.com/track/2xJ1NpJ5S69lY317IQ37q5) | [SOLOMON](https://open.spotify.com/artist/4Vw9AVIUyOYmwYYX54uRM4) | [Can I Call You Rose? \(Cover\)](https://open.spotify.com/album/7gfajT0h8Ir6SiIxw4uUWM) | 2:24 |
 | 117 | [Really Wanna Be With You](https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q) | [Durand Jones & The Indications](https://open.spotify.com/artist/6TVVIyd0fsRDGg6WzHKyTP), [Durand Jones](https://open.spotify.com/artist/099J9XcZ0A8kXtBANb5WCs) | [Flowers](https://open.spotify.com/album/7zyILGPU1W58PNTgEgRNvO) | 4:31 |
 | 118 | [Stuck In My Head](https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp) | [Adi Oasis](https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh) | [Silver Lining](https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP) | 3:39 |
 | 119 | [Tangled \- Stripped](https://open.spotify.com/track/0ryUcnLIcccWlNZlxaL7wV) | [John Splithoff](https://open.spotify.com/artist/7A2x4Urpc4VKF1pb7qnNqD) | [Tangled \(Stripped\)](https://open.spotify.com/album/6UqaMkDSEbEFObUpxDsrPp) | 2:52 |
@@ -134,8 +134,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 124 | [Good Morning \(feat\. Susan Carol\)](https://open.spotify.com/track/6A4P5ehiWPgfTUjLVuWtEi) | [PJ Morton](https://open.spotify.com/artist/2FMOHE79X98yptp4RpPrt7), [Susan Carol](https://open.spotify.com/artist/7lkBIPB2g6tiQos6UF9plP) | [Good Morning \(feat\. Susan Carol\)](https://open.spotify.com/album/4AgLuqopjOtOC3qZxPGiAp) | 2:42 |
 | 125 | [Chakzilla](https://open.spotify.com/track/5gtvdVHeztFQ6XJqTWAPJW) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT) | [Chakzilla](https://open.spotify.com/album/4jQtLyqroF68NQdJZsuKWH) | 3:27 |
 | 126 | [If The Love Goes](https://open.spotify.com/track/5umedE89tIRPYTAkgLvFEW) | [Jamilah Barry](https://open.spotify.com/artist/2XSaBoykurbHLXS5WwDewv) | [Full Circle](https://open.spotify.com/album/74QAmMwD0zVIDaNXzm6o0Z) | 2:58 |
-| 127 | [IDK](https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 1:57 |
-| 128 | [Looking for God](https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Looking for God](https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ) | 2:24 |
+| 127 | [Looking for God](https://open.spotify.com/track/3QLYMOcolTK2pn7D0aA94M) | [Mannywellz](https://open.spotify.com/artist/3fP3g1UvspOUHoeT4QUoLL) | [Looking for God](https://open.spotify.com/album/6mPOuVIBfjt3Qj8DySayjZ) | 2:24 |
+| 128 | [IDK](https://open.spotify.com/track/5cjiM95QJwPxGxSWtLqZ8k) | [Mack Keane](https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO) | [Entries](https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx) | 1:57 |
 | 129 | [Find My Love](https://open.spotify.com/track/3BkkIdPVSl1vQu6lrzsg3l) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4), [Tori Kelly](https://open.spotify.com/artist/1vSN1fsvrzpbttOYGsliDr) | [Find My Love](https://open.spotify.com/album/5y5BaqS5OvqYO1nXWEVd8m) | 3:41 |
 | 130 | [OUT OF MY HANDS](https://open.spotify.com/track/6DersWcxOf1I5YlwxqMDlI) | [SiR](https://open.spotify.com/artist/3QTDHixorJelOLxoxcjqGx), [Maeta](https://open.spotify.com/artist/2EwyKG76iX4Pp5HhAD6SKO) | [Heavy Deluxe: THE LIGHT](https://open.spotify.com/album/626fD5CXGPiAZxXEk7TlEC) | 3:03 |
 | 131 | [MoveOn](https://open.spotify.com/track/6NkpXwmHBAWYQmMDV0AVdw) | [NxWorries](https://open.spotify.com/artist/6PEMFpe3PTOksdV4ZXUpbE), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ) | [Why Lawd?](https://open.spotify.com/album/0LlzHi8Erl8zpTumqt88Qe) | 2:47 |
@@ -149,8 +149,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 139 | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/track/2iNMrWUMlqf03NrHCQZY71) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [SOS \(Sex on Sight\) \(feat\. USHER\)](https://open.spotify.com/album/5tVtBhkc0CWO1TKsx6CdQH) | 4:25 |
 | 140 | [The Present](https://open.spotify.com/track/3yZlwIRiMRdPlkIY8HLavO) | [Misha](https://open.spotify.com/artist/4dPYdHTBZATnTYABJ39sY7), [cocabona](https://open.spotify.com/artist/5V8HGb7Pt982HEbpmglIYT), [Joya Mooi](https://open.spotify.com/artist/03X2rnTnfrpid7yLZfUSGn), [Derrick Mckenzie](https://open.spotify.com/artist/2yTk5VCLEsumMmQf25x8VI) | [The Present](https://open.spotify.com/album/2W2WtKH6HWN90uPFwirlFj) | 3:28 |
 | 141 | [Come Thru](https://open.spotify.com/track/0dDiRn0SeHXrYpen9JSVPi) | [Lekan](https://open.spotify.com/artist/3Z7dkUrTApDgi6npZfoHVv) | [Come Thru](https://open.spotify.com/album/46LbagB4ZLUwslEQPBs4iH) | 2:39 |
-| 142 | [Silent Treatment](https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Silent Treatment](https://open.spotify.com/album/0uWQFPszr6SJZ695zVp029) | 3:13 |
-| 143 | [Guilty Pleasure](https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd) | [MAYOR](https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko) | [Guilty Pleasure](https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE) | 2:09 |
+| 142 | [Guilty Pleasure](https://open.spotify.com/track/6WOSTTt78Um06Q04Fchmvd) | [MAYOR](https://open.spotify.com/artist/08Bt3jkvycLCshAiiEPQko) | [Guilty Pleasure](https://open.spotify.com/album/1f5XKm5SJZfMuQo2o4t3zE) | 2:09 |
+| 143 | [Silent Treatment](https://open.spotify.com/track/2EUUu4O0loy3PvwEHmdOZ2) | [October London](https://open.spotify.com/artist/1eNO1DUCOtZgCzlwtjtb1t) | [Silent Treatment](https://open.spotify.com/album/0uWQFPszr6SJZ695zVp029) | 3:13 |
 | 144 | [Good Bye](https://open.spotify.com/track/0f1ZaAkynbxc1JYf151zKI) | [Victoria Monét](https://open.spotify.com/artist/63XBtGSEZINSyXylZxEUbv) | [JAGUAR II](https://open.spotify.com/album/6WlGOgNNtpwFt2gfRFfqgZ) | 4:10 |
 | 145 | [Stare at Me](https://open.spotify.com/track/5OQGljb4oGPYojBFpNrQ4a) | [JANE HANDCOCK](https://open.spotify.com/artist/2wgW0CiQRwbWlkT6nM8suD), [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa) | [Stare at Me](https://open.spotify.com/album/5wWZ3Kdg4ZCQdFd3vwjiYu) | 3:55 |
 | 146 | [No Business](https://open.spotify.com/track/4A3vbpwHYmbU8wXBXGdew1) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [E\-WHIZZ](https://open.spotify.com/artist/0oIORjw5SUBp7rv9u10oVP) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 5:17 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXDsfv6nvZ5.md) - [plain]
 | 149 | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/track/5oHIdbNS7o1oi8dm26opsj) | [Venna](https://open.spotify.com/artist/7qKJMpPZfyGHHwPgsjgFCP), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Twisting \(feat\. Leon Thomas\)](https://open.spotify.com/album/4IXE89h8jk4cKXBzpXAIvE) | 3:45 |
 | 150 | [Save Her 4 Me](https://open.spotify.com/track/6bj2u9VRe7kq8Q7eINfUOz) | [Vedo](https://open.spotify.com/artist/3wVXTWabe3viT0jF7DfjOL) | [Save Her 4 Me](https://open.spotify.com/album/2AX5AoMK78qczFJHy2oE2F) | 2:55 |
 
-Snapshot ID: `AAAAAMWKIml0OYHTB26NvhViwg5o5ipA`
+Snapshot ID: `AAAAAIU5/c/6bCZJbCNH0MACsIfiIsgN`

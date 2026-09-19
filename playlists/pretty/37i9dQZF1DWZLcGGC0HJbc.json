@@ -1,12 +1,12 @@
 {
   "description": "mindful genieten \ud83c\udf31. Cover: Sarah Julia",
-  "num_followers": 98013,
+  "num_followers": 98007,
   "original_name": "Touching Grass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACau0lyxIT7CHRb5mh4s1wd8LFgt",
+  "snapshot_id": "AAAAAFZ6tV4MKKPeYsb4ndzC4fJ+m1Zl",
   "tracks": [
     {
       "added_at": "2026-09-10 22:00:09",
@@ -507,22 +507,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
-      },
-      "artists": [
-        {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
-        }
-      ],
-      "duration_ms": 239895,
-      "name": "Mountain",
-      "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "More More More",
         "url": "https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz"
       },
@@ -535,6 +519,22 @@
       "duration_ms": 192753,
       "name": "More More More",
       "url": "https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "duration_ms": 239895,
+      "name": "Mountain",
+      "url": "https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -939,22 +939,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Seeing You",
-        "url": "https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 198727,
-      "name": "Seeing You",
-      "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "Bloodline",
         "url": "https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 190129,
       "name": "Where the mountain meets the sea",
       "url": "https://open.spotify.com/track/4aTHJ0yGSf2Gb6rLnMD567"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "red sky at night",
+        "url": "https://open.spotify.com/album/6nTaOFO6qZb0YbOciCEPZu"
+      },
+      "artists": [
+        {
+          "name": "Orange Oak",
+          "url": "https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy"
+        }
+      ],
+      "duration_ms": 176818,
+      "name": "red sky at night",
+      "url": "https://open.spotify.com/track/5PLGmfrSqRq7Q1dKvJ7S7M"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -987,18 +987,18 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "red sky at night",
-        "url": "https://open.spotify.com/album/6nTaOFO6qZb0YbOciCEPZu"
+        "name": "Seeing You",
+        "url": "https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP"
       },
       "artists": [
         {
-          "name": "Orange Oak",
-          "url": "https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy"
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
         }
       ],
-      "duration_ms": 176818,
-      "name": "red sky at night",
-      "url": "https://open.spotify.com/track/5PLGmfrSqRq7Q1dKvJ7S7M"
+      "duration_ms": 198727,
+      "name": "Seeing You",
+      "url": "https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "A Good Run",
-        "url": "https://open.spotify.com/album/3PEIbtEGaXsuI796aBVgyl"
-      },
-      "artists": [
-        {
-          "name": "Gildor",
-          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
-        }
-      ],
-      "duration_ms": 173141,
-      "name": "A Good Run",
-      "url": "https://open.spotify.com/track/5tTDFBl4KqXZj0baFufH2q"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
         "name": "The Surface",
         "url": "https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 235000,
       "name": "The Surface",
       "url": "https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "A Good Run",
+        "url": "https://open.spotify.com/album/3PEIbtEGaXsuI796aBVgyl"
+      },
+      "artists": [
+        {
+          "name": "Gildor",
+          "url": "https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU"
+        }
+      ],
+      "duration_ms": 173141,
+      "name": "A Good Run",
+      "url": "https://open.spotify.com/track/5tTDFBl4KqXZj0baFufH2q"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1359,6 +1359,22 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
+        "name": "In Between Station",
+        "url": "https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq"
+      },
+      "artists": [
+        {
+          "name": "tjels",
+          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
+        }
+      ],
+      "duration_ms": 206083,
+      "name": "In Between Station",
+      "url": "https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
         "name": "Colour On The Wall",
         "url": "https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT"
       },
@@ -1387,22 +1403,6 @@
       "duration_ms": 277504,
       "name": "From Up Here",
       "url": "https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
-        "name": "In Between Station",
-        "url": "https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq"
-      },
-      "artists": [
-        {
-          "name": "tjels",
-          "url": "https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX"
-        }
-      ],
-      "duration_ms": 206083,
-      "name": "In Between Station",
-      "url": "https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1439,22 +1439,18 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "For Months Now (III)",
-        "url": "https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW"
+        "name": "Wild Mountain Thyme",
+        "url": "https://open.spotify.com/album/0TBcf52Rt7ULny9VX9QP6d"
       },
       "artists": [
         {
-          "name": "Madi Diaz",
-          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
-        },
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+          "name": "Roodnoot",
+          "url": "https://open.spotify.com/artist/3I4WW7NbmYkKG988d3OKQI"
         }
       ],
-      "duration_ms": 247000,
-      "name": "For Months Now (III)",
-      "url": "https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0"
+      "duration_ms": 268778,
+      "name": "Wild Mountain Thyme",
+      "url": "https://open.spotify.com/track/1uDOVXkGFMJlsTndb2h3Mk"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1479,34 +1475,22 @@
     {
       "added_at": "2026-09-10 22:00:09",
       "album": {
-        "name": "Wild Mountain Thyme",
-        "url": "https://open.spotify.com/album/0TBcf52Rt7ULny9VX9QP6d"
+        "name": "For Months Now (III)",
+        "url": "https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW"
       },
       "artists": [
         {
-          "name": "Roodnoot",
-          "url": "https://open.spotify.com/artist/3I4WW7NbmYkKG988d3OKQI"
-        }
-      ],
-      "duration_ms": 268778,
-      "name": "Wild Mountain Thyme",
-      "url": "https://open.spotify.com/track/1uDOVXkGFMJlsTndb2h3Mk"
-    },
-    {
-      "added_at": "2026-09-10 22:00:09",
-      "album": {
-        "name": "Sweet Sixteen",
-        "url": "https://open.spotify.com/album/1nusjfRY64IIfov6QqFhkI"
-      },
-      "artists": [
+          "name": "Madi Diaz",
+          "url": "https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az"
+        },
         {
-          "name": "Ciska Ciska",
-          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
         }
       ],
-      "duration_ms": 241840,
-      "name": "Sweet Sixteen",
-      "url": "https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP"
+      "duration_ms": 247000,
+      "name": "For Months Now (III)",
+      "url": "https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0"
     },
     {
       "added_at": "2026-09-10 22:00:09",
@@ -1523,6 +1507,22 @@
       "duration_ms": 258426,
       "name": "Woollen Women",
       "url": "https://open.spotify.com/track/5kSM7f7Bg9GgsTXs2Ro437"
+    },
+    {
+      "added_at": "2026-09-10 22:00:09",
+      "album": {
+        "name": "Sweet Sixteen",
+        "url": "https://open.spotify.com/album/1nusjfRY64IIfov6QqFhkI"
+      },
+      "artists": [
+        {
+          "name": "Ciska Ciska",
+          "url": "https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC"
+        }
+      ],
+      "duration_ms": 241840,
+      "name": "Sweet Sixteen",
+      "url": "https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP"
     },
     {
       "added_at": "2026-09-10 22:00:09",

@@ -365,6 +365,24 @@
     },
     {
       "album": {
+        "name": "Dead Inside Of Me",
+        "url": "https://open.spotify.com/album/3wXT1Tf8fCwKnQGiYNlUlm"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241453,
+      "name": "Dead Inside Of Me",
+      "url": "https://open.spotify.com/track/4JdrQ06kBNP10EMxS7E6Fh"
+    },
+    {
+      "album": {
         "name": "Ascendancy",
         "url": "https://open.spotify.com/album/4tUJoHF6in0wA5cpioJkbV"
       },
@@ -924,7 +942,7 @@
       ],
       "date_added": "2022-05-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 489960,
       "name": "Master of Puppets",
       "url": "https://open.spotify.com/track/0P5D7ji9AJi85bEdQhq50a"

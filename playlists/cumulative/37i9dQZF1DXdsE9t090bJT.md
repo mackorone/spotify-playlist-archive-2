@@ -4,7 +4,7 @@
 
 > Súbete a la troca ❤️
 
-368 songs - 19 hr 21 min
+369 songs - 19 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,7 +311,7 @@
 | [Solamente Tú](https://open.spotify.com/track/7yc1583SLaSHXCOWnrsdM7) | [Los Gfez](https://open.spotify.com/artist/21oKCrUHWbio1GrIP6zpcF) | [Solamente Tú](https://open.spotify.com/album/5c1RVEFFzV9v0SfcRfuQO4) | 3:53 | 2022-02-11 | 2022-12-08 |
 | [Solita \(En Vivo\)](https://open.spotify.com/track/279gdvickeQgmRt3EHBtNg) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Con Los Pies en La Tierra](https://open.spotify.com/album/1Lfc9KLUvubRJ7TM4KZZ1r) | 3:35 | 2024-05-01 |  |
 | [Solo Con Verte](https://open.spotify.com/track/5z4O1H0vFY0Nh4ZMtfgapP) | [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Que Bendición](https://open.spotify.com/album/5VL90afs1EsezktD44XMIN) | 3:12 | 2022-02-11 | 2024-05-02 |
-| [Sombrero en Alto](https://open.spotify.com/track/2VJSpAgPmTg90YncWlj1Ca) | [Ximena ramos](https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD) | [Sombrero en Alto](https://open.spotify.com/album/4oixXRrCUAvFbQOv1DpEwb) | 2:41 | 2026-02-06 |  |
+| [Sombrero en Alto](https://open.spotify.com/track/2VJSpAgPmTg90YncWlj1Ca) | [Ximena ramos](https://open.spotify.com/artist/2ONyU1dZQ54agORMzggxTD) | [Sombrero en Alto](https://open.spotify.com/album/4oixXRrCUAvFbQOv1DpEwb) | 2:41 | 2026-02-06 | 2026-09-19 |
 | [SONRÍE <3](https://open.spotify.com/track/73dvoIH9lGoNqA5JLJw7Jt) | [Eddy](https://open.spotify.com/artist/3dhMDOAn4QhiSEerNabrnG) | [SONRÍE <3](https://open.spotify.com/album/78Nm7rz6BdWJgHXcImsPrT) | 2:58 | 2025-08-01 | 2025-08-30 |
 | [Soy Fan](https://open.spotify.com/track/214dHBkQIghUJArTL083fZ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt) | [Soy Fan](https://open.spotify.com/album/5IOMxDPKMtuqX72hEwhz3Z) | 2:56 | 2026-02-06 | 2026-08-15 |
 | [Soy Para Ti](https://open.spotify.com/track/1P5pgQQ1njPjAkvnSJM2kY) | [Código FN](https://open.spotify.com/artist/4A4qYy2jK9DDN1OHV0nLkH), [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Soy Para Ti](https://open.spotify.com/album/6eRUj25447aaQ7TpYz2iJT) | 2:40 | 2022-02-11 | 2024-05-02 |
@@ -358,6 +358,7 @@
 | [Vestido Negro](https://open.spotify.com/track/5nkK1Ndk8f2tE7l7MRDjyh) | [Christian Lara](https://open.spotify.com/artist/0eptefgBKrNB6UAZvrX9c5) | [Vestido Negro](https://open.spotify.com/album/34VSDhNg7x8hHOkVxPzaVO) | 3:17 | 2024-05-01 | 2025-08-02 |
 | [Vibrar +](https://open.spotify.com/track/3ZhAp3NqitEPfKINYmir12) | [Estevan Plazola](https://open.spotify.com/artist/4Rh80sXmcG4xDP1r6dTNiQ) | [Vibrar +](https://open.spotify.com/album/5JG8dcjPqJTaunDFiyeWw6) | 3:12 | 2025-07-04 | 2025-08-02 |
 | [Voy a Conquistarte](https://open.spotify.com/track/1NRL1xr9JCqu5ITWURgfk6) | [Diego Verdaguer](https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P), [Carin Leon](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Voy a Conquistarte](https://open.spotify.com/album/2VHsO0GHeMDDemIeaEg9dZ) | 2:55 | 2022-12-07 | 2024-05-02 |
+| [Voy Llegando A Tu Ciudad](https://open.spotify.com/track/1W4C7KeRMYRCKQJLrbnzlT) | [Los Encinos De Sinaloa](https://open.spotify.com/artist/3toKbWWeQVQqeX6Vs14yVJ) | [Voy Llegando A Tu Ciudad](https://open.spotify.com/album/3BzvXrVdM42LwrwuAJcJTW) | 2:25 | 2026-09-18 |  |
 | [VPPMHDSPPM](https://open.spotify.com/track/1p1wnpmPz3oGnZrscI0ayu) | [Los Gemelos De Sinaloa](https://open.spotify.com/artist/1Zkxm1dM3HI3QkTmxUEVQA) | [VPPMHDSPPM](https://open.spotify.com/album/6DBsROTJOvlSRbKNOoqEMs) | 1:55 | 2024-05-01 |  |
 | [Vuelve](https://open.spotify.com/track/0sFgOr8SYJDoxKWuATw3kJ) | [Los Del North Texas](https://open.spotify.com/artist/55UZ2MKN6ATq3tQcA9XCHE), [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo) | [Vuelve](https://open.spotify.com/album/7lYcolZOql39WKCD8vY4Sp) | 2:45 | 2025-12-19 | 2026-02-07 |
 | [WEEKND](https://open.spotify.com/track/5NbFWZiEj9WATXs6F1HxGZ) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [WEEKND](https://open.spotify.com/album/5EaUYCfbpl9FBTq22eD5HI) | 3:23 | 2025-08-01 | 2026-07-14 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 
 > Η ελληνική ραπ σκηνή στα καλύτερά της\. Εξώφυλλο: Tsaki, Dof Twogee
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,534 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,551 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXczv0e5n6k9E.md) - [plain]
 | 59 | [80s](https://open.spotify.com/track/2YfUDAeK634hrKfhEzbZxo) | [HGEMONA$](https://open.spotify.com/artist/1POlf5v8Q8ciCcWlAcxnEm), [Alecc](https://open.spotify.com/artist/0vpzE9GXq41Yg1ixJUrwOG), [Mike G](https://open.spotify.com/artist/7zYmrye7LvmpMkfHWrENu9) | [80s](https://open.spotify.com/album/0P2nXpqHmhxMsMOsRNwodG) | 2:49 |
 | 60 | [HAHAHA 2](https://open.spotify.com/track/5EAy0J6wLVOb0qR9eR9Rsa) | [CHEKKIS](https://open.spotify.com/artist/43eXh1mPvuHJJg8xRELhYO), [HermesHermes](https://open.spotify.com/artist/5PeCMyf2BO8RlAujWP0erY), [SKEZ](https://open.spotify.com/artist/5ILWyExKu5I8poAuLyEvNH) | [HAHAHA 2](https://open.spotify.com/album/0ArcAZ824nDh744VaKOB1r) | 2:56 |
 
-Snapshot ID: `AAAAAELXfgdYLAB9Bm+B2IaqfcYSZ4dW`
+Snapshot ID: `AAAAAKS6Xa5uttOvWjgOvxMMQg423g2q`

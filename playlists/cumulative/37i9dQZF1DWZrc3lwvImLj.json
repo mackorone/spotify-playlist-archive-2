@@ -5587,6 +5587,24 @@
     },
     {
       "album": {
+        "name": "Paleecho",
+        "url": "https://open.spotify.com/album/1EwD9bgFaQQyG9bWX0hPHD"
+      },
+      "artists": [
+        {
+          "name": "Ion Mihutz",
+          "url": "https://open.spotify.com/artist/6YTzCIrWAXP9KgZCU6O89m"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150500,
+      "name": "Paleecho",
+      "url": "https://open.spotify.com/track/0GincprMhLfOt2xq2UmU2F"
+    },
+    {
+      "album": {
         "name": "Paragon",
         "url": "https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe"
       },

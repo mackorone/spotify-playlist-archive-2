@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 
 > LEO2745 entra na zona.
 
-[Spotify](https://open.spotify.com/user/spotify) - 192,070 likes - 70 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 192,095 likes - 70 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 2 | [Holocausto](https://open.spotify.com/track/7hAxl0EeuAWxOQTdFg0C9H) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Il\-Brutto](https://open.spotify.com/artist/2PhIdF7Do8K7sungAwRtj7) | [Holocausto](https://open.spotify.com/album/7AkzNoOeqha0nNjKK1yusl) | 5:12 |
 | 3 | [Mulher Do Bandido](https://open.spotify.com/track/0eZiONOncclcPEMty5K5AO) | [Prodígio](https://open.spotify.com/artist/0Zsw8N0usCdHtEtFtwZKg5), [Rikinho](https://open.spotify.com/artist/0MwIU9RawJmWw1SOhZi6Qw), [Edgar Domingos](https://open.spotify.com/artist/24ln2MhGkr8aWPhqrgQ7LZ) | [Mulher Do Bandido](https://open.spotify.com/album/4l2k2xZcm3entvzOjoA42b) | 3:18 |
 | 4 | [Love Me Now \(feat\. Chronic Law\)](https://open.spotify.com/track/6NUstHvzEruoMgH1qX9Ndy) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Chronic Law](https://open.spotify.com/artist/3zorWCDx017sz4UYP2fC9w) | [Love Me Now \(feat\. Chronic Law\)](https://open.spotify.com/album/0mhc4M8apBFKiNYjb815up) | 3:28 |
-| 5 | [Mais Vida](https://open.spotify.com/track/6zJ84RziYdMNw6jC7VJmAG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ad](https://open.spotify.com/artist/3y8LoxPD0EoYqWMNd8RvTK) | [Mais Vida](https://open.spotify.com/album/1Lwm2g5j8wrwmcwXjJp2rS) | 4:11 |
+| 5 | [Mais Vida](https://open.spotify.com/track/6zJ84RziYdMNw6jC7VJmAG) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ad](https://open.spotify.com/artist/0tpoQZ0NrLEYuU9hxuT1Jb) | [Mais Vida](https://open.spotify.com/album/1Lwm2g5j8wrwmcwXjJp2rS) | 4:11 |
 | 6 | [Look What You've Done](https://open.spotify.com/track/1Umi992NaKD6NoFkUujkNS) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Elephant In The Room](https://open.spotify.com/album/55aRlTcoJzesDzpi4qlbua) | 2:47 |
 | 7 | [Não Me Fales \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/0cyZxCagQAFRtykDcbsjqS) | [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [ID](https://open.spotify.com/album/235O2OncTKPS2XsUUT28XY) | 4:28 |
 | 8 | [Blessed](https://open.spotify.com/track/0WlMw7Ztdnnq0ZyYRTRpuD) | [Phoenix Rdc](https://open.spotify.com/artist/5L3JOH0e3PcOrHKVMXrFna), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1) | [Último Rapper](https://open.spotify.com/album/64KqejTQOkpLtFFFelIHLU) | 3:53 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdpF2suW27SP.md) - [plain]
 | 69 | [NÃO DÁ](https://open.spotify.com/track/7mKQ0XtCP5QBPF1r8wHmoO) | [MUN](https://open.spotify.com/artist/0XWmIDUMxka9p2aayQ9MOr) | [NÃO DÁ](https://open.spotify.com/album/5Eq9OGs1dupKf85rnOsVOV) | 3:14 |
 | 70 | [Putos Qui Ata Cria](https://open.spotify.com/track/0Y387sgsGMktt6R8ua3GRG) | [Vado Más Ki Ás](https://open.spotify.com/artist/6HmLPYedWhpFhiF8BonrMG) | [Putos Qui Ata Cria](https://open.spotify.com/album/1f5luAMRVCAvZew4mvNUdL) | 3:42 |
 
-Snapshot ID: `AAAAAPVwND08URj7BGKEXMKh2IvrSLsC`
+Snapshot ID: `AAAAAIAIERP80M69swZV0KVfskfc2DMR`

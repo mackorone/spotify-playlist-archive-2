@@ -4,7 +4,7 @@
 
 > The Biggest Hip Hop, UK Rap, R&B, Dancehall, Reggae, Soca & Afrobeats playlist\. Cover: Offset
 
-1,861 songs - 3 day 21 hr 4 min
+1,862 songs - 3 day 21 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1366,6 +1366,7 @@
 | [Retribution](https://open.spotify.com/track/0G0owoqDUhDL9C4HY2w4En) | [IndigoChildRick](https://open.spotify.com/artist/6MCWgmIn0zVm7yDmdSy6Uv) | [Retribution](https://open.spotify.com/album/1HxYDjhgip0RNlRRtTpPRs) | 3:50 | 2023-09-16 | 2023-09-19 |
 | [Reverse](https://open.spotify.com/track/63dHAaPXAVXnRS9f1wzKbj) | [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [Reverse](https://open.spotify.com/album/6xEyptUPu6O4XF1RcxBVSB) | 2:24 | 2023-07-06 | 2023-08-11 |
 | [RHUDE GYAL! \(with Darkoo\)](https://open.spotify.com/track/7fTZGGFULOk6KDBAhupep5) | [JELEEL!](https://open.spotify.com/artist/1FX1BFU0DbHRYgKP83pA0d), [Darkoo](https://open.spotify.com/artist/4QSTyDpxsKmv3UfavVUImR) | [RHUDE GYAL! \(with Darkoo\)](https://open.spotify.com/album/2xfL170E8laeFdFwBlpOrM) | 2:37 | 2025-08-15 | 2025-12-05 |
+| [RHYNO \(from GTAVI: The Album\)](https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [RHYNO \(from GTAVI: The Album\)](https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns) | 3:00 | 2026-09-18 |  |
 | [Rhythm & Blues](https://open.spotify.com/track/4yZIlBKbrvOfQlhR0oZvwS) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Rhythm & Blues](https://open.spotify.com/album/5avPK0nUF9JHE01pCFW0mB) | 2:24 | 2023-09-14 | 2023-11-11 |
 | [Rice Bowl](https://open.spotify.com/track/3QZugtgEClvPtugTwxu5jn) | [Young T & Bugsey](https://open.spotify.com/artist/6M6XXCcO5gI68XpIlrUL3Z), [SadBoi](https://open.spotify.com/artist/7kpAW7boBJFRFCMydZpjUd) | [Rice Bowl](https://open.spotify.com/album/2Trn9ft8Tc9aZ8gyzLdoyO) | 3:06 | 2026-04-23 | 2026-09-18 |
 | [Rich Baby Daddy \(feat\. Sexyy Red & SZA\)](https://open.spotify.com/track/1yeB8MUNeLo9Ek1UEpsyz6) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [For All The Dogs](https://open.spotify.com/album/4czdORdCWP9umpbhFXK2fW) | 5:19 | 2024-01-26 | 2024-03-22 |
@@ -1453,7 +1454,7 @@
 | [Shirt](https://open.spotify.com/track/34ZAzO78a5DAVNrYIGWcPm) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Shirt](https://open.spotify.com/album/6Kqm5aSp69hTaOHTx38hsD) | 3:01 | 2022-10-27 | 2023-03-09 |
 | [Shirt](https://open.spotify.com/track/2wSTnntOPRi7aQneobFtU4) | [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [SOS](https://open.spotify.com/album/07w0rG5TETcyihsEIZR3qG) | 3:01 | 2023-03-08 | 2023-03-09 |
 | [SHOT CALLER](https://open.spotify.com/track/4i15z1pvFVNuaMEQQFBTDm) | [Nafe Smallz](https://open.spotify.com/artist/3dKjmeRZcSUw617CoMzEA0) | [SHOT CALLER](https://open.spotify.com/album/7p8iWzdtG32lZuqMdwc31G) | 2:28 | 2025-11-28 | 2026-04-18 |
-| [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:06 | 2026-04-23 |  |
+| [Shoulda Never \(feat\. USHER\)](https://open.spotify.com/track/1ITJflybJsfarsUtiBvkfK) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Kehlani](https://open.spotify.com/album/2xkYTmqjear3lSGydIn7wh) | 3:06 | 2026-04-23 | 2026-09-19 |
 | [Show Me](https://open.spotify.com/track/0Un7faRDF3UYaLXTL6Whce) | [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Show Me](https://open.spotify.com/album/3NI0wO8r93MQrdYrvsvQe9) | 2:54 | 2024-10-03 | 2024-12-20 |
 | [Shut The Door \- Más Tiempo Mix by Skepta & Jammer](https://open.spotify.com/track/2ZfHbEibHGIaFXIZAXIPTD) | [Todd Edwards](https://open.spotify.com/artist/6MFopqejpmTUUZlcRmGzgg), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Jammer](https://open.spotify.com/artist/4xgV1UcvsrLM4rQrjTjwNw) | [Shut The Door \(Más Tiempo Mix by Skepta & Jammer\)](https://open.spotify.com/album/5kr9JtEZpEOCM8zbZTbiv6) | 3:08 | 2023-09-16 | 2023-09-19 |
 | [Shy Lover](https://open.spotify.com/track/7miAnx549SadDs2wFvAzSZ) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9) | [Shy Lover](https://open.spotify.com/album/0MFGCY6DDl4rA0Y10S8W5I) | 2:43 | 2026-04-02 | 2026-06-26 |

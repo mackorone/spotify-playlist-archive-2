@@ -1,12 +1,12 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 76702,
+  "num_followers": 76710,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKo4YzyN6DmStkUL6bV44vcoR1IJ",
+  "snapshot_id": "AAAAAIc6j4q5lkq0T89yZx0zkYf5uu8K",
   "tracks": [
     {
       "added_at": "2026-08-20 13:38:48",
@@ -795,6 +795,26 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
+        "name": "LOUDER",
+        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
+      },
+      "artists": [
+        {
+          "name": "Mozey",
+          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
+        },
+        {
+          "name": "Circadian",
+          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+        }
+      ],
+      "duration_ms": 222069,
+      "name": "LOUDER",
+      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
         "name": "Bad Boy Horns",
         "url": "https://open.spotify.com/album/3W8GgxqEIZyiE4sOdGbCCt"
       },
@@ -819,42 +839,18 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "LOUDER",
-        "url": "https://open.spotify.com/album/4BlHJap7UWIyvT0ZdsrwoD"
+        "name": "Left 2 Right",
+        "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
       },
       "artists": [
         {
-          "name": "Mozey",
-          "url": "https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0"
-        },
-        {
-          "name": "Circadian",
-          "url": "https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE"
+          "name": "Rova",
+          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
         }
       ],
-      "duration_ms": 222069,
-      "name": "LOUDER",
-      "url": "https://open.spotify.com/track/6yWCx32ltE7Kcoq6k4hJqX"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
-        "name": "Reaper (feat. Comma Dee)",
-        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
-      },
-      "artists": [
-        {
-          "name": "Rendah",
-          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
-        },
-        {
-          "name": "Comma Dee",
-          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
-        }
-      ],
-      "duration_ms": 213793,
-      "name": "Reaper (feat. Comma Dee)",
-      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
+      "duration_ms": 202971,
+      "name": "Left 2 Right",
+      "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -875,18 +871,22 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "Left 2 Right",
-        "url": "https://open.spotify.com/album/5Geg97JMNRNsSh1kgw7yY6"
+        "name": "Reaper (feat. Comma Dee)",
+        "url": "https://open.spotify.com/album/6ZbwTsAcuOWAnN3gbyS807"
       },
       "artists": [
         {
-          "name": "Rova",
-          "url": "https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH"
+          "name": "Rendah",
+          "url": "https://open.spotify.com/artist/2DD20dIAwiGrP8DFKoFGdX"
+        },
+        {
+          "name": "Comma Dee",
+          "url": "https://open.spotify.com/artist/2K2k6w3rhyifPmKC4U86VY"
         }
       ],
-      "duration_ms": 202971,
-      "name": "Left 2 Right",
-      "url": "https://open.spotify.com/track/3dbCZLMW3xuBry6L8pBlkE"
+      "duration_ms": 213793,
+      "name": "Reaper (feat. Comma Dee)",
+      "url": "https://open.spotify.com/track/1utY88WOs4rOugVwhNQvi2"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
-      },
-      "artists": [
-        {
-          "name": "Blossom",
-          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
         "name": "Feel My Love",
         "url": "https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus"
       },
@@ -1011,18 +995,18 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "RUN",
-        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA"
       },
       "artists": [
         {
-          "name": "\u00c6ON:MODE",
-          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+          "name": "Blossom",
+          "url": "https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V"
         }
       ],
-      "duration_ms": 180689,
-      "name": "RUN",
-      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
+      "duration_ms": 180000,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6"
     },
     {
       "added_at": "2026-08-20 13:38:48",
@@ -1059,6 +1043,22 @@
       "duration_ms": 192000,
       "name": "Let Me Down",
       "url": "https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
+        "name": "RUN",
+        "url": "https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN"
+      },
+      "artists": [
+        {
+          "name": "\u00c6ON:MODE",
+          "url": "https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV"
+        }
+      ],
+      "duration_ms": 180689,
+      "name": "RUN",
+      "url": "https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2"
     },
     {
       "added_at": "2026-08-20 13:38:48",

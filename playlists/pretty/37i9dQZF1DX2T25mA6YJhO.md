@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 
 > Súbete a la nueva ola del rock español\. Foto: Alcalá Norte.
 
-[Spotify](https://open.spotify.com/user/spotify) - 35,783 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 35,829 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 11 | [Walking](https://open.spotify.com/track/3t7Mv4p7c4S7gXFxFJa7lp) | [Amygdala](https://open.spotify.com/artist/7BGTl5Swxc7pcXnSgqzSSM) | [Walking](https://open.spotify.com/album/7iXDXvjMc3IXvQhMnLVU0N) | 3:38 |
 | 12 | [En todas partes](https://open.spotify.com/track/1udZzlKUDhffTRldHgh4qn) | [Marina Domínguez](https://open.spotify.com/artist/3kheYglVYKfR3TCT7oy0lO) | [En todas partes](https://open.spotify.com/album/4BWHAoBRFDkUTdVbQ7afw0) | 3:01 |
 | 13 | [Normalmente Mejor](https://open.spotify.com/track/1yFCC7FMCmJ6EOvoy5OKU6) | [Nuevos Vicios](https://open.spotify.com/artist/4DYnKenkvlxMCBrwMjcdst), [Mala Gestión](https://open.spotify.com/artist/7qJkLxM6Q2meXrGz2cUkpP) | [Normalmente Mejor](https://open.spotify.com/album/7EWDV3Lh6XBe3lFKmMgFNh) | 4:02 |
-| 14 | [Track 8](https://open.spotify.com/track/6lSHrCAw9zVTuDIXjUI7QK) | [Diagnóstico Binario](https://open.spotify.com/artist/4toUuM31r6QCBRJcCKh7ad) | [Sinapsis](https://open.spotify.com/album/1ODRUWz80PD1gKfHP3t5MV) | 0:00 |
+| 14 | [Plan de juego](https://open.spotify.com/track/6lSHrCAw9zVTuDIXjUI7QK) | [Diagnóstico Binario](https://open.spotify.com/artist/4toUuM31r6QCBRJcCKh7ad) | [Sinapsis](https://open.spotify.com/album/1ODRUWz80PD1gKfHP3t5MV) | 3:21 |
 | 15 | [Tonto](https://open.spotify.com/track/5vXJemrliIRxcRw6iKfMEs) | [Parquesvr](https://open.spotify.com/artist/1PpnPBZxWGm65wR6oS5Phy) | [Tonto](https://open.spotify.com/album/639kL76DOwt3RFTK4nFAss) | 3:16 |
 | 16 | [MIS AMIGAS TE ODIAN](https://open.spotify.com/track/0kcKR84wqVB1zvOvTHNI7b) | [La 126](https://open.spotify.com/artist/7F7eCZ1XNx2ojbcd40IRQY) | [MIS AMIGAS TE ODIAN](https://open.spotify.com/album/5uShqMOiords11EFF9Mjmx) | 2:55 |
 | 17 | [No te necesito para ser feliz](https://open.spotify.com/track/3X2sHFaJlakwX31ngq88d6) | [La Maravillosa Orquesta del Alcohol](https://open.spotify.com/artist/1vBn5Puz4mdZopZEHq1QDq), [Repion](https://open.spotify.com/artist/15o4xwiKZWJ6jOFp9LeP24) | [No te necesito para ser feliz](https://open.spotify.com/album/2bXPANmjU7Hkse3hz5Csap) | 3:52 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2T25mA6YJhO.md) - [plain]
 | 99 | [Los veranos de antes](https://open.spotify.com/track/45f3h6SinFMpN6ktDJOL39) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Los veranos de antes](https://open.spotify.com/album/3b2iO0frI7i3E40dscSfJE) | 2:33 |
 | 100 | [Si no existe la libertad](https://open.spotify.com/track/5U3mzZ6EgXWb7BFcliNhZt) | [Periferia](https://open.spotify.com/artist/0XrH6ldTNnTtaIRILHcbkI) | [Si no existe la libertad](https://open.spotify.com/album/0x7GR6GlRZKIQRAXeuaGYe) | 3:04 |
 
-Snapshot ID: `AAAAAG6IYW+BSjM/h87XRsilq+PBQ5Vn`
+Snapshot ID: `AAAAAKMAQjhYwA8H+GZtuPBXv53G3So4`

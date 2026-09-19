@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 
 > Uma playlist de pura alma pop! Foto: Descendentes
 
-[Spotify](https://open.spotify.com/user/spotify) - 124,282 likes - 70 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 124,309 likes - 70 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6ViL9RcFABv.md) - [plain]
 | 69 | [Ficar Óai](https://open.spotify.com/track/1nDOYhM8Xl18RAEzoN3ZAU) | [D.A.M.A](https://open.spotify.com/artist/4h5zTnUibCdGWia43hOo5y), [Zé Amaro](https://open.spotify.com/artist/4RPhwXdkeoT1IYQ1sQIEvi) | [Ficar Óai](https://open.spotify.com/album/03GkXezi0YyOGnE5AbGrfX) | 3:12 |
 | 70 | [Alô](https://open.spotify.com/track/368RNXKnoAUO91Yu20mUQ1) | [David Carreira](https://open.spotify.com/artist/6tIIe4TjUAUBgebA9j53ch) | [Alô](https://open.spotify.com/album/0PrHwWJ0hp45UJQcq3WHvh) | 2:16 |
 
-Snapshot ID: `AAAAAJjc4JT+GWnbvJvJlRjLIsExCxEU`
+Snapshot ID: `AAAAAO0d3bDZo6Bpm00dldS8HKcyn5Hk`

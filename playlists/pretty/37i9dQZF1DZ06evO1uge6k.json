@@ -1,12 +1,12 @@
 {
   "description": "This is ZZ Top. The essential tracks, all in one playlist.",
-  "num_followers": 264190,
+  "num_followers": 264201,
   "original_name": "This Is ZZ Top",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAAvgGwb5ImONQN6XRIVcCta",
+  "snapshot_id": "aqstgAAAAABvOvHKvKeN5O9Qgdu8bFNz",
   "tracks": [
     {
       "added_at": null,
@@ -315,8 +315,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tejas",
-        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
+        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
+        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
       },
       "artists": [
         {
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 186586,
-      "name": "Arrested for Driving While Blind",
-      "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
+      "duration_ms": 281586,
+      "name": "La Grange",
+      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
     },
     {
       "added_at": null,
@@ -347,8 +347,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "RAW (\u2018That Little Ol' Band From Texas\u2019 Original Soundtrack)",
-        "url": "https://open.spotify.com/album/1ffoQmr9pU3NXGz15QwKZw"
+        "name": "Tejas",
+        "url": "https://open.spotify.com/album/4orn4y9tLpEC0I3Mk5Y11K"
       },
       "artists": [
         {
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
         }
       ],
-      "duration_ms": 281586,
-      "name": "La Grange",
-      "url": "https://open.spotify.com/track/2YgjwTiG85B2tvqmdRNpba"
+      "duration_ms": 186586,
+      "name": "Arrested for Driving While Blind",
+      "url": "https://open.spotify.com/track/21es9c3dvLYO0sRKeac1fQ"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ZZ Top's First Album",
-        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
-      },
-      "artists": [
-        {
-          "name": "ZZ Top",
-          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
-        }
-      ],
-      "duration_ms": 207706,
-      "name": "Certified Blues",
-      "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Very Baddest of ZZ Top",
         "url": "https://open.spotify.com/album/3PvzCN4AY0dN3NsZ4c2i8z"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 211773,
       "name": "Gimme All Your Lovin'",
       "url": "https://open.spotify.com/track/0eSfOEuazxnW8q52siYHPG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ZZ Top's First Album",
+        "url": "https://open.spotify.com/album/7ciZLTYyN246cK0ywCCEOx"
+      },
+      "artists": [
+        {
+          "name": "ZZ Top",
+          "url": "https://open.spotify.com/artist/2AM4ilv6UzW0uMRuqKtDgN"
+        }
+      ],
+      "duration_ms": 207706,
+      "name": "Certified Blues",
+      "url": "https://open.spotify.com/track/2WecIwijceRnfYDxwUGJPK"
     },
     {
       "added_at": null,

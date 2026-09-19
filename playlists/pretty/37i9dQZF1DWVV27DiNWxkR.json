@@ -1,12 +1,12 @@
 {
   "description": "The premier indie melancholia playlist, featuring Phoebe Bridgers",
-  "num_followers": 1984258,
+  "num_followers": 1984169,
   "original_name": "Sad Indie",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANYdybyughegOmVs15Tlg4yj/ixJ",
+  "snapshot_id": "AAAAANj2x/nyKYoHZ6aPCJbu90t+H1m1",
   "tracks": [
     {
       "added_at": "2026-09-04 20:06:07",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-04 20:06:07",
       "album": {
-        "name": "American IV: The Man Comes Around",
-        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
-      },
-      "artists": [
-        {
-          "name": "Johnny Cash",
-          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
-        }
-      ],
-      "duration_ms": 216533,
-      "name": "Hurt",
-      "url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"
-    },
-    {
-      "added_at": "2026-09-04 20:06:07",
-      "album": {
         "name": "Not Your Muse (Deluxe)",
         "url": "https://open.spotify.com/album/3bqEvlGHE4amqPGZtdMnep"
       },
@@ -611,6 +595,22 @@
     {
       "added_at": "2026-09-04 20:06:07",
       "album": {
+        "name": "American IV: The Man Comes Around",
+        "url": "https://open.spotify.com/album/2BlL4Gv2DLPu8p58Wcmlm9"
+      },
+      "artists": [
+        {
+          "name": "Johnny Cash",
+          "url": "https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x"
+        }
+      ],
+      "duration_ms": 216533,
+      "name": "Hurt",
+      "url": "https://open.spotify.com/track/28cnXtME493VX9NOw9cIUh"
+    },
+    {
+      "added_at": "2026-09-04 20:06:07",
+      "album": {
         "name": "Lost Weekend",
         "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
       },
@@ -620,9 +620,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 218689,
-      "name": "Lost Weekend",
-      "url": "https://open.spotify.com/track/1GMPPheF4aMHMifOgp72eF"
+      "duration_ms": 236205,
+      "name": "Still Standing",
+      "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
     },
     {
       "added_at": "2026-09-04 20:06:07",
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 236205,
-      "name": "Still Standing",
-      "url": "https://open.spotify.com/track/09IT8imSuZBu1mjhNWHjuo"
+      "duration_ms": 218689,
+      "name": "Lost Weekend",
+      "url": "https://open.spotify.com/track/1GMPPheF4aMHMifOgp72eF"
     },
     {
       "added_at": "2026-09-04 20:06:07",

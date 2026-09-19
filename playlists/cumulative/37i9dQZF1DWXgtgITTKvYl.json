@@ -2623,6 +2623,24 @@
     },
     {
       "album": {
+        "name": "everything we never did",
+        "url": "https://open.spotify.com/album/2AjKRSy2yiY5gtVo8c7eff"
+      },
+      "artists": [
+        {
+          "name": "Owane",
+          "url": "https://open.spotify.com/artist/2LkMP01m9PIf5r87iC0HI2"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201500,
+      "name": "everything we never did",
+      "url": "https://open.spotify.com/track/5O532OLom3ZMrLqytYJuzz"
+    },
+    {
+      "album": {
         "name": "Evil Ghost (Nightcore)",
         "url": "https://open.spotify.com/album/2oal5dkH09c7EoO0R3BbfA"
       },
@@ -3010,7 +3028,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 243226,
       "name": "Fourth of July - Fireworks Version",
       "url": "https://open.spotify.com/track/0XzWMOnzOdXJZ5Ph1Vh0GY"
@@ -3130,7 +3148,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 443831,
       "name": "Frozen Rivers",
       "url": "https://open.spotify.com/track/4wqUDHZwER3IZkskH5cffd"
@@ -3304,6 +3322,24 @@
       "duration_ms": 376214,
       "name": "Go! - 2026 Remix",
       "url": "https://open.spotify.com/track/5AQzv0sP0WEWkyZNhzhwzk"
+    },
+    {
+      "album": {
+        "name": "God Knows",
+        "url": "https://open.spotify.com/album/1JomwofNOqVbWlfCfcGPav"
+      },
+      "artists": [
+        {
+          "name": "The Pineapple Thief",
+          "url": "https://open.spotify.com/artist/4lrBMUSk8PiNnCEZfsmPAk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201999,
+      "name": "God Knows",
+      "url": "https://open.spotify.com/track/5lw3bKWPAqS0KZXYjAFjDF"
     },
     {
       "album": {
@@ -4530,7 +4566,7 @@
       ],
       "date_added": "2026-07-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 229499,
       "name": "La Llorona",
       "url": "https://open.spotify.com/track/0EBneZc1Vjw2I7obObTsu6"
@@ -4987,6 +5023,28 @@
     },
     {
       "album": {
+        "name": "Love Is the Light (feat. Ross Jennings) [Live at Sea 2026]",
+        "url": "https://open.spotify.com/album/0ZIPyM1EdjnGtTF3ascVtg"
+      },
+      "artists": [
+        {
+          "name": "Big Big Train",
+          "url": "https://open.spotify.com/artist/68VJJPVAVNAmwsDDf1i70g"
+        },
+        {
+          "name": "Ross Jennings",
+          "url": "https://open.spotify.com/artist/4xzmmm75cGnlFF65TLNDPH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 504300,
+      "name": "Love Is the Light (feat. Ross Jennings) - Live at Sea 2026",
+      "url": "https://open.spotify.com/track/7Jo7EdcciDmGEOVQlnW9UH"
+    },
+    {
+      "album": {
         "name": "Love Weapon",
         "url": "https://open.spotify.com/album/4XbIcl1VoAf9T8OTWkYdfv"
       },
@@ -5194,6 +5252,32 @@
       "duration_ms": 478186,
       "name": "Midnight Messiah",
       "url": "https://open.spotify.com/track/5Z4UhpREYJqrR5AZzeETzI"
+    },
+    {
+      "album": {
+        "name": "Milk Of My Dreams",
+        "url": "https://open.spotify.com/album/3ntDk6wgq1ri4IFVjNHLNG"
+      },
+      "artists": [
+        {
+          "name": "The Ocean",
+          "url": "https://open.spotify.com/artist/6fuALtryzj4cq7vkglKLxq"
+        },
+        {
+          "name": "Tangerine Dream",
+          "url": "https://open.spotify.com/artist/1BGN1IdyiSR0ZYrkoKNchl"
+        },
+        {
+          "name": "Thorsten Quaeschning",
+          "url": "https://open.spotify.com/artist/6m30SHWcbXdvehkhZkgla5"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 256079,
+      "name": "Milk Of My Dreams",
+      "url": "https://open.spotify.com/track/1HRRBI5v9tJ8826WrHx1zh"
     },
     {
       "album": {
@@ -6406,7 +6490,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 210085,
       "name": "Power",
       "url": "https://open.spotify.com/track/5rCTw6Dejbj4NvJOkAbB5X"
@@ -7946,7 +8030,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 232517,
       "name": "Spiral - 2026 Remix",
       "url": "https://open.spotify.com/track/7wp6tnKFAIkJUj4yNjZkvN"
@@ -8254,6 +8338,24 @@
       "duration_ms": 607680,
       "name": "Tannh\u00e4user / Derive",
       "url": "https://open.spotify.com/track/0gURBZfus0Bt9YV2Q5RtYg"
+    },
+    {
+      "album": {
+        "name": "Tear It Down",
+        "url": "https://open.spotify.com/album/5tTVErPEf0dIdLB5kI8oqA"
+      },
+      "artists": [
+        {
+          "name": "Greta Van Fleet",
+          "url": "https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263727,
+      "name": "Tear It Down",
+      "url": "https://open.spotify.com/track/1JRJoWhWj91n7TxgxVDBbY"
     },
     {
       "album": {
@@ -8622,6 +8724,24 @@
       "duration_ms": 134000,
       "name": "THE FRUIT OF ALL EVIL",
       "url": "https://open.spotify.com/track/55j6qnXtmPVLGbrMDJw8ww"
+    },
+    {
+      "album": {
+        "name": "The Future (Proves me Right)",
+        "url": "https://open.spotify.com/album/3XHZFKyvP9S5X1RN3aYJZG"
+      },
+      "artists": [
+        {
+          "name": "Atomic Fruit",
+          "url": "https://open.spotify.com/artist/3uuRFQ0o6Iqa8mXe0gNjeB"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225923,
+      "name": "The Future (Proves me Right)",
+      "url": "https://open.spotify.com/track/3vg2DLWdT8eilwmMPFoYsY"
     },
     {
       "album": {
@@ -9646,7 +9766,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 266700,
       "name": "Unending",
       "url": "https://open.spotify.com/track/66TmdQiawM43UIWO6x4Nzt"

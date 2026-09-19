@@ -2,26 +2,26 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 
 ### [ฮิตติดกระแส](https://open.spotify.com/playlist/37i9dQZF1DWW1S2VXZ4bIj)
 
-> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: Lipta, Ref PURPEECH
+> เพลงใหม่มาแรง เพลงฮิตล่าสุด ที่นี่เลย\. ศิลปิน: Zom Marie
 
-[Spotify](https://open.spotify.com/user/spotify) - 300,791 likes - 100 songs - 6 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 300,853 likes - 100 songs - 6 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [ขึ้นใจ \(3am call\)](https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ขึ้นใจ \(3am call\)](https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy) | 4:21 |
-| 2 | [นาฬิกาทราย \(sign\)](https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [นาฬิกาทราย \(sign\)](https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW) | 4:15 |
-| 3 | [ขออนุญาตรัก](https://open.spotify.com/track/4aMAa266XcIMVxP1jBLs0v) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Ref PURPEECH](https://open.spotify.com/artist/7hnYEQCM1kvdwR9qsznKIB) | [ขออนุญาตรัก](https://open.spotify.com/album/5u4Ym8kpxNAyNTIW69TTEJ) | 2:52 |
-| 4 | [ไม่รักดีกว่า](https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ไม่รักดีกว่า](https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4) | 3:26 |
-| 5 | [คาราโอเกะ \(Karaoke\)](https://open.spotify.com/track/17h2gVR109XfFX0q7xdsyL) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [คาราโอเกะ \(Karaoke\)](https://open.spotify.com/album/3GyIu3P9gdxUUFCf7ovveh) | 3:30 |
+| 1 | [นาฬิกาทราย \(sign\)](https://open.spotify.com/track/4S0zJwuiJF9ImbGYUbGrNT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr) | [นาฬิกาทราย \(sign\)](https://open.spotify.com/album/0uOFuflrHAMrKt3CXmtOsW) | 4:15 |
+| 2 | [ขึ้นใจ \(3am call\)](https://open.spotify.com/track/36OWvhv70Cu3LGC92N79qs) | [Mirrr](https://open.spotify.com/artist/5zSQoNQ9o2dnT1LPTzDxg7), [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [ขึ้นใจ \(3am call\)](https://open.spotify.com/album/60Pa5g1ZpmDiIFDXnuulUy) | 4:21 |
+| 3 | [ขอฝัน \(Wish\)](https://open.spotify.com/track/3NMGjMcRZ17esGTivF5n0E) | [Zom Marie](https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB) | [ขอฝัน \(Wish\)](https://open.spotify.com/album/1sfDRvFv2jUv64XrQdyVQv) | 4:15 |
+| 4 | [ขออนุญาตรัก](https://open.spotify.com/track/4aMAa266XcIMVxP1jBLs0v) | [Lipta](https://open.spotify.com/artist/2DaMrZndfGgM3yd9ivadRC), [Ref PURPEECH](https://open.spotify.com/artist/7hnYEQCM1kvdwR9qsznKIB) | [ขออนุญาตรัก](https://open.spotify.com/album/5u4Ym8kpxNAyNTIW69TTEJ) | 2:52 |
+| 5 | [ชอบจังว่ะ \(Ricky Latin\)](https://open.spotify.com/track/5su7so7GIrRcGXaVfgJYAa) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [Fitness Pop](https://open.spotify.com/album/7FGG9gmUa9M9VHCYeX78dl) | 3:08 |
 | 6 | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/track/63oA4hG0SqvsUFfaEhgqVX) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV) | [อยากจะกอดเธอนาน ๆ \(HAVE A GOOD TIME\)](https://open.spotify.com/album/51gTzozCry8vsoOpJikdqL) | 3:39 |
-| 7 | [CHECKLIST](https://open.spotify.com/track/5sxfpwXQU6636cZerTtiTG) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [CHECKLIST](https://open.spotify.com/album/0VJ2t25jf4JQ5Tdx4xVSvK) | 3:47 |
-| 8 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 |
-| 9 | [Butterflies](https://open.spotify.com/track/06BpRg0JXjnUmjtOZjZT3U) | [KRIST](https://open.spotify.com/artist/44bpIttZnohSzfXKoaw31l), [ปั๊บ Potato](https://open.spotify.com/artist/3XbhlGKpFyzOgGtbkmp9UQ) | [Butterflies](https://open.spotify.com/album/2lmihlrOT7fNGU0fDQsxmE) | 3:32 |
-| 10 | [9 นาฬิกา](https://open.spotify.com/track/1RIcNj56JKuH0WB9AyNARB) | [SPF](https://open.spotify.com/artist/3ZUdKB3VGo26BxRSmnv5n2) | [9 นาฬิกา](https://open.spotify.com/album/29mC3mS9pmusHnZeAA1oH4) | 4:02 |
-| 11 | [เมะติ๋มรักเคะกล้าม \(Uke\-Seme\) \- From GELBOYS 2 ตกอยู่ในสถานะติ่งแฟน](https://open.spotify.com/track/0FaODv61T7CZGfEECPW9W4) | [PJ](https://open.spotify.com/artist/7Duv82zy6lhA77CvXIC2N0) | [เมะติ๋มรักเคะกล้าม \(Uke\-Seme\) \[From GELBOYS 2 ตกอยู่ในสถานะติ่งแฟน\]](https://open.spotify.com/album/6YBrhd1euR8agUvsRH11Rn) | 3:19 |
-| 12 | [ได้โปรดอยู่ตรงนี้ \(Upside Down\)](https://open.spotify.com/track/2Lvp0KYwXrU1L9OHQNA5Be) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [ได้โปรดอยู่ตรงนี้ \(Upside Down\)](https://open.spotify.com/album/3UomWRkUyNpaIbeBxE5wOL) | 4:31 |
-| 13 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
-| 14 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
+| 7 | [ไม่รักดีกว่า](https://open.spotify.com/track/5F6Zfgz34H4UtJkCcDUlPs) | [Z9](https://open.spotify.com/artist/4CuVt3p02OaWu4klQuJoDP) | [ไม่รักดีกว่า](https://open.spotify.com/album/48cyb2zARYAHsN6G42LAe4) | 3:26 |
+| 8 | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/track/4ntIPuXf6DpvrZExXrn5QA) | [PURPEECH](https://open.spotify.com/artist/3xlC7Dw0uiwprXDHCU9SAu) | [กลัวว่าฉันจะไม่เสียใจ \(Fear\)](https://open.spotify.com/album/1Uwz9ZHd0kCz4cqxNCUs7K) | 4:47 |
+| 9 | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/track/7zKxBR2LzgFMnVBX6d0ZhT) | [BOWKYLION](https://open.spotify.com/artist/2SWWw5uB9cO5m7zJQZqwmr), [NONT TANONT](https://open.spotify.com/artist/6chmC6o0wvACYVGTITw3Pz) | [ที่คั่นหนังสือ \(Sometimes\)](https://open.spotify.com/album/2K4KOfhgb6YLNdyVas8eq6) | 4:52 |
+| 10 | [คาราโอเกะ \(Karaoke\)](https://open.spotify.com/track/17h2gVR109XfFX0q7xdsyL) | [Tattoo Colour](https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi) | [คาราโอเกะ \(Karaoke\)](https://open.spotify.com/album/3GyIu3P9gdxUUFCf7ovveh) | 3:30 |
+| 11 | [CHECKLIST](https://open.spotify.com/track/5sxfpwXQU6636cZerTtiTG) | [BILLKIN](https://open.spotify.com/artist/2a727ekkPaUHk0bMifk7fj) | [CHECKLIST](https://open.spotify.com/album/0VJ2t25jf4JQ5Tdx4xVSvK) | 3:47 |
+| 12 | [SaWaDiKa](https://open.spotify.com/track/1VWiDyYTrqQhhmnWANWkFa) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT) | [SaWaDiKa](https://open.spotify.com/album/5WG9kRKPpHgnZ5pKku509O) | 3:08 |
+| 13 | [9 นาฬิกา](https://open.spotify.com/track/1RIcNj56JKuH0WB9AyNARB) | [SPF](https://open.spotify.com/artist/3ZUdKB3VGo26BxRSmnv5n2) | [9 นาฬิกา](https://open.spotify.com/album/29mC3mS9pmusHnZeAA1oH4) | 4:02 |
+| 14 | [ได้โปรดอยู่ตรงนี้ \(Upside Down\)](https://open.spotify.com/track/2Lvp0KYwXrU1L9OHQNA5Be) | [BLVCKHEART](https://open.spotify.com/artist/3Ld1g6LjfR2ILDB6SD8aJV), [PUN](https://open.spotify.com/artist/6HEMZkIMQAPnd36iLsUlTx) | [ได้โปรดอยู่ตรงนี้ \(Upside Down\)](https://open.spotify.com/album/3UomWRkUyNpaIbeBxE5wOL) | 4:31 |
 | 15 | [นักแสดงตบตา \- Remix](https://open.spotify.com/track/5fajhzcr4puTHlkzI8KQwm) | [MaxMillor](https://open.spotify.com/artist/4Yk2QTFYbKN55vfo8ghH63), [PORZAX](https://open.spotify.com/artist/4ykAAPcxGHz8z6N0muxbIP), [ize so cold.](https://open.spotify.com/artist/2ghXX54wgKqlv2UQZv0N4a) | [นักแสดงตบตา \(Remix\)](https://open.spotify.com/album/1cxLMLQnKXC4hwBQP4idmD) | 6:00 |
 | 16 | [oasis \(feat\. D Gerrard\)](https://open.spotify.com/track/0vhuUxZ2J94B1Fcv9jI7UL) | [atom chanakan](https://open.spotify.com/artist/2iLCiSxdwUMDEfqyfkuLEw), [D Gerrard](https://open.spotify.com/artist/1k7MP2tMC43vM0b0wg8HHg) | [oasis \(feat\. D Gerrard\)](https://open.spotify.com/album/0cvvDW04KiOXnJKN4rqEKn) | 3:02 |
 | 17 | [เหงา...เข้าใจ](https://open.spotify.com/track/1HDARi635fpU4mHpzKtFYs) | [4EVE](https://open.spotify.com/artist/3aBwCcP4CB8M6S7YV8QkOg) | [เหงา...เข้าใจ](https://open.spotify.com/album/3PTXvqPCV5ijlUgGt1tufp) | 3:27 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW1S2VXZ4bIj.md) - [plain]
 | 99 | [เวลาเธอยิ้ม \(You Had Me At Hello\)](https://open.spotify.com/track/06DPpk0hUJEgpzl5cuWNI6) | [Polycat](https://open.spotify.com/artist/1ssEwBiz4ZKrbgR6o8vOeg) | [80 Kisses](https://open.spotify.com/album/4z8dyovQ2XGFESeEeRam95) | 3:47 |
 | 100 | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/track/0e4DnxHb7xjCqEPYv91v6t) | [guncharlie](https://open.spotify.com/artist/1qveov8f3HXFhDIWtFO5tG) | [กลับไปใช้ชีวิตแบบเดิม](https://open.spotify.com/album/4ul97lR8PnxEgpJnzVEMVC) | 4:10 |
 
-Snapshot ID: `AAAAAPbabGL2oyAtX+j0SBb/e/McAuhk`
+Snapshot ID: `AAAAAC8bqUmGiojcW3bhNNiYYxiNRgw+`

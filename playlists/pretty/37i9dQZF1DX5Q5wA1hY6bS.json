@@ -1,12 +1,12 @@
 {
   "description": "the best things in life can't be contained.",
-  "num_followers": 1322201,
+  "num_followers": 1322077,
   "original_name": "Wild & Free",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEwkZegGHAOH6GYuTlGfbGLfkCi8",
+  "snapshot_id": "AAAAAAx/B+sVI1THeF2RQ9W6B63Dqq4g",
   "tracks": [
     {
       "added_at": "2026-05-08 17:21:15",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Yellow",
-        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
-      },
-      "artists": [
-        {
-          "name": "Hugo Barriol",
-          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
-        }
-      ],
-      "duration_ms": 186973,
-      "name": "Our Kingdom",
-      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "MONOVISION",
         "url": "https://open.spotify.com/album/4yzBq7tSsGjnQS0GPmbWcE"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 216493,
       "name": "Strong Enough",
       "url": "https://open.spotify.com/track/1M1xjg2N1i5EKosEPtx2T7"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Yellow",
+        "url": "https://open.spotify.com/album/0ozIWfcCUNXKl9yNL57Ke0"
+      },
+      "artists": [
+        {
+          "name": "Hugo Barriol",
+          "url": "https://open.spotify.com/artist/714s2nd4G1chzdguyBIwvk"
+        }
+      ],
+      "duration_ms": 186973,
+      "name": "Our Kingdom",
+      "url": "https://open.spotify.com/track/1hmNibuS4toaTijZjDEtNZ"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -835,22 +835,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Mick Flannery",
-        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
-      },
-      "artists": [
-        {
-          "name": "Mick Flannery",
-          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
-        }
-      ],
-      "duration_ms": 216781,
-      "name": "Fool",
-      "url": "https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "i wanna be your right hand",
         "url": "https://open.spotify.com/album/1Qo5P3fZvirEKp6sKXEoYT"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 148533,
       "name": "i wanna be your right hand",
       "url": "https://open.spotify.com/track/68SNAUUgO2XwxykrEboEZN"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Mick Flannery",
+        "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
+      },
+      "artists": [
+        {
+          "name": "Mick Flannery",
+          "url": "https://open.spotify.com/artist/5tIXFM4sGNRR4Oo3hLbFdf"
+        }
+      ],
+      "duration_ms": 216781,
+      "name": "Fool",
+      "url": "https://open.spotify.com/track/4NgfxzTUZw3s953GcTvDxC"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -915,6 +915,22 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
+        "name": "Reckless Skyline",
+        "url": "https://open.spotify.com/album/7DjQyYdYrfB3DcgoULegGK"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 224713,
+      "name": "Get Up",
+      "url": "https://open.spotify.com/track/61YuCtYvNxDecX2qlR62z3"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
         "name": "Mick Flannery",
         "url": "https://open.spotify.com/album/48rcrRY3lVDZ23cpE6kwls"
       },
@@ -935,22 +951,6 @@
       "duration_ms": 216038,
       "name": "Come Find Me",
       "url": "https://open.spotify.com/track/4b36RncsINpQaOxeEbLB6q"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
-        "name": "Reckless Skyline",
-        "url": "https://open.spotify.com/album/7DjQyYdYrfB3DcgoULegGK"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 224713,
-      "name": "Get Up",
-      "url": "https://open.spotify.com/track/61YuCtYvNxDecX2qlR62z3"
     },
     {
       "added_at": "2026-05-08 17:21:15",
@@ -1483,22 +1483,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Not Like It Was",
-        "url": "https://open.spotify.com/album/2OXSKzWohxMSLtcDQIovDT"
-      },
-      "artists": [
-        {
-          "name": "Tall Heights",
-          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
-        }
-      ],
-      "duration_ms": 175103,
-      "name": "Not Like It Was",
-      "url": "https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Getting It Right",
         "url": "https://open.spotify.com/album/3zA17MmyBmEogW6WHIDsWj"
       },
@@ -1519,6 +1503,22 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
+        "name": "Not Like It Was",
+        "url": "https://open.spotify.com/album/2OXSKzWohxMSLtcDQIovDT"
+      },
+      "artists": [
+        {
+          "name": "Tall Heights",
+          "url": "https://open.spotify.com/artist/1OVaGC0CDZaxjcPxclSNmp"
+        }
+      ],
+      "duration_ms": 175103,
+      "name": "Not Like It Was",
+      "url": "https://open.spotify.com/track/7kAJjcUdOIDXVVowBEneH5"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
         "name": "Daniel",
         "url": "https://open.spotify.com/album/5RiG6luXx2PXXTYAOjh6Tb"
       },
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-05-08 17:21:15",
       "album": {
-        "name": "Born at the Right Time",
-        "url": "https://open.spotify.com/album/1lgKcUycLcKvcH1PtUHN3x"
-      },
-      "artists": [
-        {
-          "name": "Mipso",
-          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
-        }
-      ],
-      "duration_ms": 224161,
-      "name": "Born at the Right Time",
-      "url": "https://open.spotify.com/track/5YT483i1cyJMnGtsYFzeSW"
-    },
-    {
-      "added_at": "2026-05-08 17:21:15",
-      "album": {
         "name": "Angel",
         "url": "https://open.spotify.com/album/5vi6pUjMmkdtABSiTPSuvF"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 242844,
       "name": "Angel",
       "url": "https://open.spotify.com/track/18SbC9qVTs8zuudDislTV5"
+    },
+    {
+      "added_at": "2026-05-08 17:21:15",
+      "album": {
+        "name": "Born at the Right Time",
+        "url": "https://open.spotify.com/album/1lgKcUycLcKvcH1PtUHN3x"
+      },
+      "artists": [
+        {
+          "name": "Mipso",
+          "url": "https://open.spotify.com/artist/5Bcrb5qQMVTEbJ43fdIS4A"
+        }
+      ],
+      "duration_ms": 224161,
+      "name": "Born at the Right Time",
+      "url": "https://open.spotify.com/track/5YT483i1cyJMnGtsYFzeSW"
     },
     {
       "added_at": "2026-05-08 17:21:15",

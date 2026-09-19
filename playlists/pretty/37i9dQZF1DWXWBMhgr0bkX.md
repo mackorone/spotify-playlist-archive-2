@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 
 > New pop releases from the UK & Ireland 🌟 cover: Say Now
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,480 likes - 85 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,489 likes - 85 songs - 4 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 14 | [So Entitled](https://open.spotify.com/track/1Qn9D0yPJb2zre0zx8dFhW) | [Moriah Mensah](https://open.spotify.com/artist/4jgCVCIIT2pPaemZBYMOYJ) | [MENSAH](https://open.spotify.com/album/4AIcRtRmZ7xcDpKUqQaGC6) | 1:52 |
 | 15 | [Lighthouse](https://open.spotify.com/track/5sTcGQXd5WuW1slqxpDP0E) | [Alfie Jukes](https://open.spotify.com/artist/06qfcPQQZ3AplWOg3KxsQ9) | [Lighthouse](https://open.spotify.com/album/7tuKf6C1YINV2hPGlccnG9) | 4:00 |
 | 16 | [Daydreaming](https://open.spotify.com/track/4OqGAjIXTwVt7pxTekpuuf) | [CHIRAI](https://open.spotify.com/artist/2p3FQ1wlwCWcCXQpUuxWTa) | [Daydreaming](https://open.spotify.com/album/58bEBWRLvRZ9sUU7GweNIZ) | 4:03 |
-| 17 | [Track 5](https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [THE SUN FROM BOTH SIDES](https://open.spotify.com/album/4sQGptlAPSLA8MN4NP45bv) | 0:00 |
+| 17 | [HOLE IN MY HEART](https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [THE SUN FROM BOTH SIDES](https://open.spotify.com/album/4sQGptlAPSLA8MN4NP45bv) | 3:13 |
 | 18 | [Best I Can](https://open.spotify.com/track/08HRzux4mcLR6mtJ68EWoc) | [Marti Perramon](https://open.spotify.com/artist/5avtmEzkiV6g9YlnadEAAX) | [Best I Can](https://open.spotify.com/album/6Jl27z0EuOfEVK0Y88Xufp) | 4:04 |
 | 19 | [Ghost Train](https://open.spotify.com/track/56ouZOgAkOMXprl1m42mqj) | [Hannah Hu](https://open.spotify.com/artist/5FJZEcDIxGn5cW2g3ngiWl) | [Ghost Train](https://open.spotify.com/album/1PGZVCzqQwZOzf8X5tc02G) | 3:13 |
 | 20 | [animal](https://open.spotify.com/track/7Bc1B6UheBQpCaO5HfIdfe) | [Josie Oliver](https://open.spotify.com/artist/6R7lcur1z2DTOoBJfDwEan) | [animal](https://open.spotify.com/album/39JZEVlJ6VQKs2YQSsRHR1) | 3:00 |
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXWBMhgr0bkX.md) - [plain]
 | 84 | [Wild Horses](https://open.spotify.com/track/5CWstgZrgIFR6GFJHJnQ3W) | [Moncrieff](https://open.spotify.com/artist/7axEazQlDDxu7KBQyFTfoC) | [Wild Horses](https://open.spotify.com/album/7K1AncQZSSd0wUVK3aWNjM) | 2:44 |
 | 85 | [Warrior](https://open.spotify.com/track/7LPkr2n6OnUW2qPOOmVh9C) | [Florrie](https://open.spotify.com/artist/2fkmfYw1KeOiDLA6MHDwU8) | [Warrior](https://open.spotify.com/album/1d9naeoDcHGup2oWXDdPu0) | 4:55 |
 
-Snapshot ID: `AAAAAJDsdHvd3UJ2S6ECJOKhUHJXnv8J`
+Snapshot ID: `AAAAAMQYTxU2vjyrEjhHRjaq523wVF9r`

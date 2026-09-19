@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-19",
-  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: WENDY, JUN. K)",
+  "description": "Ready for some sweet harmony or explosive combination of your favourite couple or troublemakers. (Cover: Moon Sujin, GANGGA)",
   "name": "K-Pop Duets (\ub7ec\ube14\ub9ac \ub4c0\uc5e3)",
   "tracks": [
     {
@@ -437,6 +437,28 @@
     },
     {
       "album": {
+        "name": "A:LIVE",
+        "url": "https://open.spotify.com/album/2EifnCDYJcL7ckLXQwF6L3"
+      },
+      "artists": [
+        {
+          "name": "DONGHAE",
+          "url": "https://open.spotify.com/artist/4TSRZ3mVg0Lu0qmtJPiPEY"
+        },
+        {
+          "name": "CHANELLE MOON",
+          "url": "https://open.spotify.com/artist/2bzbLjINzRbi4KSZ5aZQtM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187000,
+      "name": "BABY (Feat.CHANELLE MOON)",
+      "url": "https://open.spotify.com/track/5BW4D0PGS6cq4MtpAa5ztJ"
+    },
+    {
+      "album": {
         "name": "Epik High Is Here \u4e0a (Part 1)",
         "url": "https://open.spotify.com/album/5MH95tw9aZo7ayqkfsRzMu"
       },
@@ -496,7 +518,7 @@
       ],
       "date_added": "2022-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 215386,
       "name": "Be Your Enemy",
       "url": "https://open.spotify.com/track/1ssN3REdzr9dUIZ6T8rD1T"
@@ -3763,6 +3785,28 @@
     },
     {
       "album": {
+        "name": "patience (feat. GANGGA)",
+        "url": "https://open.spotify.com/album/6j3nsCzQpHfrN7y8ATLgaB"
+      },
+      "artists": [
+        {
+          "name": "Moon Sujin",
+          "url": "https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du"
+        },
+        {
+          "name": "GANGGA",
+          "url": "https://open.spotify.com/artist/4nd1IvFkUoQinjvYdUmOBI"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151000,
+      "name": "patience (feat. GANGGA)",
+      "url": "https://open.spotify.com/track/3EQcRDK8hxb1cLeUkLqy3T"
+    },
+    {
+      "album": {
         "name": "Your BGM Vol.1",
         "url": "https://open.spotify.com/album/7buYKdXbAntzuYkJj2oY2G"
       },
@@ -6036,7 +6080,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 206000,
       "name": "Your Lips (feat. WENDY)",
       "url": "https://open.spotify.com/track/6WzNSMg1sWKRbjyAsrMgX8"

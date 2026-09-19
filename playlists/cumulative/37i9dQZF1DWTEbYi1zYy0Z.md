@@ -4,7 +4,7 @@
 
 > So fresh, so smooth\. Cover: Boney James
 
-563 songs - 1 day 15 hr 52 min
+565 songs - 1 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Convergency](https://open.spotify.com/track/5tkJLRlnVyoKFlT89TiSOP) | [Candy Dulfer](https://open.spotify.com/artist/287jMoxHzjERgHI6ja8TKa), [Nile Rodgers](https://open.spotify.com/artist/3yDIp0kaq9EFKe07X1X2rz) | [Convergency](https://open.spotify.com/album/36SPfNjozWymvftbq0oMYF) | 4:54 | 2022-10-28 | 2023-05-06 |
 | [Conversations](https://open.spotify.com/track/63q8XJjBixwkfVop5Mxvli) | [Marqueal Jordan](https://open.spotify.com/artist/67z4QmWjkhUiM9LcGvvr87) | [Intention & Purpose](https://open.spotify.com/album/4XwDD9KmVCVGjvYr4Grkk2) | 3:46 | 2020-10-30 | 2022-03-12 |
 | [Cool Like That](https://open.spotify.com/track/6D6qDFZsUyL51HabQM5qzV) | [Gregory Goodloe](https://open.spotify.com/artist/54rVFwo1rV4sK63FyFCJBY), [Bob Baldwin](https://open.spotify.com/artist/6URFeH3cWWv6tj2RazL9IP) | [Cool Like That](https://open.spotify.com/album/0pRUctv8x3wIrirJ6rxjHn) | 4:49 | 2020-10-30 | 2022-03-17 |
+| [Cool Spice](https://open.spotify.com/track/5EHh1z5EqEwq9DdCjGU4RB) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Cool Spice](https://open.spotify.com/album/02NkDaCubIqKyzMCvRYsa8) | 4:28 | 2026-09-18 |  |
 | [Cozy](https://open.spotify.com/track/6g8NbOh9z2woOeiNXErKf3) | [David P Stevens](https://open.spotify.com/artist/50Q09II7EoYJdcgK3UJhBl) | [Cozy](https://open.spotify.com/album/4i1ztqwpJJfKEWMIg5mpnl) | 4:46 | 2024-02-09 | 2025-03-01 |
 | [Crazy](https://open.spotify.com/track/0kUxknsCizotSJvigXGz78) | [Gerald Albright](https://open.spotify.com/artist/3bhckpkRmz8mqONUceSutp) | [G\-Stream](https://open.spotify.com/album/3m0QBbnJrOuvdSw8BmUvgS) | 5:18 | 2020-10-30 | 2022-03-18 |
 | [Cruising the Boulevard](https://open.spotify.com/track/3J876JF0XKXFSltuHMjD5r) | [Dreaming in Colour](https://open.spotify.com/artist/5CpsCuEhGHwGM0sQTGX5NF), [Nelson Rangell](https://open.spotify.com/artist/5lFAGKb5mvPQX9on6lKC88) | [Cruising the Boulevard](https://open.spotify.com/album/6eJ8dlpqTqwZ63S3iuIw5w) | 4:19 | 2021-07-16 | 2022-09-17 |
@@ -131,7 +132,7 @@
 | [Del Mar](https://open.spotify.com/track/4fiiULvaEPZQfa6mH2txg1) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds), [Steve Oliver](https://open.spotify.com/artist/0eorTItuLyKdhZmII8zREL) | [Del Mar](https://open.spotify.com/album/4sKiIOOpmFKBwQGTEhk11p) | 3:59 | 2023-01-20 | 2024-04-19 |
 | [Denola](https://open.spotify.com/track/4TkYbPPXffu1nOaTRWYd1X) | [Jesty Beatz](https://open.spotify.com/artist/7sRH2fPfPf4B0BofCmltmV) | [Denola](https://open.spotify.com/album/4QCz8BlWYJQbAUitX9XKKw) | 3:42 | 2021-08-20 | 2022-04-21 |
 | [Detour](https://open.spotify.com/track/0oWyGFYrxLSsgZkgeIZvsu) | [Boney James](https://open.spotify.com/artist/1sBRcMH8DDR8Nsk2RoJmjS) | [Detour](https://open.spotify.com/album/7bdEN9nnzV8n41s6mYLJKb) | 4:08 | 2022-09-23 | 2024-03-02 |
-| [Diamond Dress](https://open.spotify.com/track/5ztGtwsntbsMThEzb6xahM) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Diamond Dress](https://open.spotify.com/album/32YVZO2ZJ7UDJyGJkx4k7N) | 3:57 | 2024-03-15 |  |
+| [Diamond Dress](https://open.spotify.com/track/5ztGtwsntbsMThEzb6xahM) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U) | [Diamond Dress](https://open.spotify.com/album/32YVZO2ZJ7UDJyGJkx4k7N) | 3:57 | 2024-03-15 | 2026-09-19 |
 | [Dig It](https://open.spotify.com/track/2zhLDKuqClyWEJJfHVGe2y) | [Jessy J](https://open.spotify.com/artist/4WrtIP5PIekZwaAZo1tb0x) | [Blue](https://open.spotify.com/album/6OXq9kgHo787SpOBuRp9qk) | 3:36 | 2022-04-15 | 2023-07-29 |
 | [Dirty Dozen](https://open.spotify.com/track/6xAwvLnRA9QcxdZNNEIsx8) | [Euge Groove](https://open.spotify.com/artist/05UwRaoOjJPuGzCtawrORF) | [Dirty Dozen](https://open.spotify.com/album/6ePyOueklnKrmRG3H3PVrs) | 5:08 | 2021-01-22 | 2022-03-17 |
 | [Dirty Martini](https://open.spotify.com/track/5SM7Y1qawtGkIVqjqHNZrM) | [Rick Habana](https://open.spotify.com/artist/1auijsxorLLC20UDzLG7ds) | [Dirty Martini](https://open.spotify.com/album/5D69NbhIWwxFa3bHYMkS6K) | 3:35 | 2022-09-30 | 2024-02-17 |
@@ -211,7 +212,7 @@
 | [Groove Factor](https://open.spotify.com/track/57NamF1itcWdE3WotFyPqM) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/1zRcI2NdbzP1Io1weNvMvF) | 5:14 | 2023-04-28 | 2025-05-24 |
 | [Groove Factor](https://open.spotify.com/track/7yhNFPUSYSygjoKIt2epLT) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Groove Factor](https://open.spotify.com/album/2Hluf4SuDadLbjEcPH9u9N) | 5:14 | 2023-04-28 | 2023-07-31 |
 | [Groovin' at the Symphony Hall](https://open.spotify.com/track/3qVuajH5vjMaypGAuw4hTr) | [Braxton Brothers](https://open.spotify.com/artist/6nkylX7POzzqZ44nSYH2hw) | [Groovin' at the Symphony Hall](https://open.spotify.com/album/4VSFMb03AlbMAuELJFwS0X) | 4:13 | 2024-03-15 |  |
-| [Grounded](https://open.spotify.com/track/5UmEYm4kmCdoevPAMwiNEg) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Grounded](https://open.spotify.com/album/6KgUC5fs5tQgczwuHPo11k) | 4:15 | 2026-08-14 |  |
+| [Grounded](https://open.spotify.com/track/5UmEYm4kmCdoevPAMwiNEg) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [Grounded](https://open.spotify.com/album/6KgUC5fs5tQgczwuHPo11k) | 4:15 | 2026-08-14 | 2026-09-19 |
 | [H.A.D\. \(featuring Chieli Minucci\)](https://open.spotify.com/track/72ZZhAjKqZbx6u33C7jghZ) | [Michael J Thomas](https://open.spotify.com/artist/2jeiNrIK545gXuj6yv3VR0), [Chieli Minucci](https://open.spotify.com/artist/099uBIWpdGDTtJ7daCuCyX) | [H.A.D.](https://open.spotify.com/album/6mD6cwDTyVZ1csISyYTvbZ) | 4:13 | 2022-09-30 | 2024-03-16 |
 | [Happy](https://open.spotify.com/track/6VutCMZ11XOzQMJENC6hUm) | [Jeffery Smith](https://open.spotify.com/artist/7CW9qPfjuZqNDJsJqT9iM2) | [Happy](https://open.spotify.com/album/5niIPoCZuJw83hBrj2dPKv) | 4:19 | 2023-03-10 | 2023-05-13 |
 | [Happy Hour](https://open.spotify.com/track/3iZDt8tUUKq5KblXWZGXiL) | [Michael Broening](https://open.spotify.com/artist/3LSpP85R3Dszki2XgI2ORG) | [Happy Hour](https://open.spotify.com/album/0OVp7l61NtLRuQauGUSoLJ) | 4:03 | 2024-08-23 |  |
@@ -227,6 +228,7 @@
 | [High Heels](https://open.spotify.com/track/7KesmZG74pZzj69FUC57HK) | [Lisa Addeo](https://open.spotify.com/artist/1Rkm8EM4Z0fYhkJ1k6D52U), [Jeff Ryan](https://open.spotify.com/artist/0cjzOb6JYN5AOg4WVA9miY) | [Listen to This](https://open.spotify.com/album/59kliXiMCzY52ZTVYrvE8p) | 4:09 | 2020-10-30 | 2022-03-18 |
 | [Hoboken](https://open.spotify.com/track/1jp41tll6761L9Q8PtqAab) | [Slim Gambill](https://open.spotify.com/artist/6pkYDXD80qfP5EckmtuqKx), [Mindi Abair](https://open.spotify.com/artist/4NpYuUHLxUMcGSzuYxv3W4) | [Hoboken](https://open.spotify.com/album/2eCVft4UJb36r2UeBnXM0G) | 3:42 | 2023-04-14 | 2025-03-01 |
 | [Honest](https://open.spotify.com/track/3GJ5EcLudl4JrUld9sfD7o) | [Ryan Montano](https://open.spotify.com/artist/60c1zWUz1UhsnemRwziySF) | [Honest](https://open.spotify.com/album/4masdetfPsUOpFF2yJ7EVB) | 6:14 | 2022-07-01 | 2023-09-02 |
+| [How Great Thou Art](https://open.spotify.com/track/5L5ZVU7Qd5q0asSU09wVWa) | [Marcus Anderson](https://open.spotify.com/artist/74w7jlHFeZ4x6cHFaHfHtf) | [How Great Thou Art](https://open.spotify.com/album/0CTZlCuXV7d50WlqFSxZ5S) | 4:29 | 2026-09-18 |  |
 | [Hrs and Hrs](https://open.spotify.com/track/4R8bxjmbyHYv7PoZzV5ptn) | [Nathan Allen](https://open.spotify.com/artist/6IRnIHHQ6Fj5bEsGkHH2Ce) | [Hrs and Hrs](https://open.spotify.com/album/6V18NGCK4t7I0Nisj5lZcR) | 3:28 | 2022-02-25 | 2023-03-25 |
 | [Hub City Jam](https://open.spotify.com/track/1qSjM7DY7vgc2EcFJJyl2N) | [Tom Braxton](https://open.spotify.com/artist/2ZRRsjA8UZ7S5x5JvWHhRK), [Rick Braun](https://open.spotify.com/artist/4ThkLup6LmqCUuHuG434zZ) | [Hub City Jam](https://open.spotify.com/album/0NAhhMdZDZ1p454HhztrIi) | 4:09 | 2023-06-30 | 2026-06-06 |
 | [I Can Let Go Now \- Instrumental Version](https://open.spotify.com/track/24UVZM3ETZsEKCLfkQ5INR) | [David Garfield](https://open.spotify.com/artist/3RPnyf7t9phTwwSzQgaZYb), [Steve Tavaglione](https://open.spotify.com/artist/24DYsjzmOJblWOhpdEDUJE), [James Harrah](https://open.spotify.com/artist/4XonxCeLqWlDlpztAyCZb4) | [I Can Let Go Now](https://open.spotify.com/album/2uXOfbXLXLOWOWRW7SrGl1) | 3:50 | 2020-10-30 | 2022-02-28 |

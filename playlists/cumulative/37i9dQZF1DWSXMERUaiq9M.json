@@ -476,7 +476,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 154000,
       "name": "Acid For Breakfast",
       "url": "https://open.spotify.com/track/5GWuNgdeHmy37dTDYOe9Ql"
@@ -12825,6 +12825,24 @@
     },
     {
       "album": {
+        "name": "Pele De Mar",
+        "url": "https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6"
+      },
+      "artists": [
+        {
+          "name": "\u00d8TTA",
+          "url": "https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350913,
+      "name": "RIO",
+      "url": "https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4"
+    },
+    {
+      "album": {
         "name": "Rise Up",
         "url": "https://open.spotify.com/album/7JkeFNWMO44IneNli188wr"
       },
@@ -13328,7 +13346,7 @@
       ],
       "date_added": "2024-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 196583,
       "name": "SEXY",
       "url": "https://open.spotify.com/track/1D6CSkKNYJVFgai1eQQ4Xm"
@@ -15475,42 +15493,6 @@
     },
     {
       "album": {
-        "name": "Pele De Mar",
-        "url": "https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6"
-      },
-      "artists": [
-        {
-          "name": "\u00d8TTA",
-          "url": "https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4"
-    },
-    {
-      "album": {
-        "name": "FIESTA EP",
-        "url": "https://open.spotify.com/album/0tAgbpVFL5QRoFxq0kUfau"
-      },
-      "artists": [
-        {
-          "name": "SUSKA",
-          "url": "https://open.spotify.com/artist/0EaFSYUoeUNIFoFtFgFMtl"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/3AhwyGcUc3hjfoDqUCduNy"
-    },
-    {
-      "album": {
         "name": "Sun FM",
         "url": "https://open.spotify.com/album/16loyrI8kbGUd53IzTBXE3"
       },
@@ -15954,6 +15936,24 @@
       "duration_ms": 240510,
       "name": "Us Two",
       "url": "https://open.spotify.com/track/13JRjckFdJGsmk75YWCpF8"
+    },
+    {
+      "album": {
+        "name": "FIESTA EP",
+        "url": "https://open.spotify.com/album/0tAgbpVFL5QRoFxq0kUfau"
+      },
+      "artists": [
+        {
+          "name": "SUSKA",
+          "url": "https://open.spotify.com/artist/0EaFSYUoeUNIFoFtFgFMtl"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154177,
+      "name": "VAMOS LOCO",
+      "url": "https://open.spotify.com/track/3AhwyGcUc3hjfoDqUCduNy"
     },
     {
       "album": {

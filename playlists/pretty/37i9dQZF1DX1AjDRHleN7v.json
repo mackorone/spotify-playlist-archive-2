@@ -1,12 +1,12 @@
 {
   "description": "Um pouco de reggae pra acompanhar a brisa do mar.",
-  "num_followers": 420370,
+  "num_followers": 420382,
   "original_name": "Praiana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJxyyTHMNL9Q2dexWFa2OzhkFxKz",
+  "snapshot_id": "AAAAAO/9CSuAtQYI7foCjP0ehQljF4o3",
   "tracks": [
     {
       "added_at": "2026-09-11 12:59:28",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-09-11 12:59:28",
       "album": {
-        "name": "Tempestade",
-        "url": "https://open.spotify.com/album/40wQAuq0wltC894JGWkxi6"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        },
-        {
-          "name": "Tati Portella",
-          "url": "https://open.spotify.com/artist/0n1wKapVwhPJKt0REzPNfb"
-        }
-      ],
-      "duration_ms": 162300,
-      "name": "Tempestade",
-      "url": "https://open.spotify.com/track/4nuC7MlHT9NOI8byXPn2da"
-    },
-    {
-      "added_at": "2026-09-11 12:59:28",
-      "album": {
         "name": "Novela",
         "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
       },
@@ -407,22 +387,22 @@
     {
       "added_at": "2026-09-11 12:59:28",
       "album": {
-        "name": "Time Won\u2019t Wait",
-        "url": "https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2"
+        "name": "Tempestade",
+        "url": "https://open.spotify.com/album/40wQAuq0wltC894JGWkxi6"
       },
       "artists": [
         {
-          "name": "SOJA",
-          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
         },
         {
-          "name": "Di Ferrero",
-          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+          "name": "Tati Portella",
+          "url": "https://open.spotify.com/artist/0n1wKapVwhPJKt0REzPNfb"
         }
       ],
-      "duration_ms": 210010,
-      "name": "Time Won\u2019t Wait",
-      "url": "https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J"
+      "duration_ms": 162300,
+      "name": "Tempestade",
+      "url": "https://open.spotify.com/track/4nuC7MlHT9NOI8byXPn2da"
     },
     {
       "added_at": "2026-09-11 12:59:28",
@@ -447,6 +427,26 @@
     {
       "added_at": "2026-09-11 12:59:28",
       "album": {
+        "name": "Time Won\u2019t Wait",
+        "url": "https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2"
+      },
+      "artists": [
+        {
+          "name": "SOJA",
+          "url": "https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE"
+        },
+        {
+          "name": "Di Ferrero",
+          "url": "https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB"
+        }
+      ],
+      "duration_ms": 210010,
+      "name": "Time Won\u2019t Wait",
+      "url": "https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J"
+    },
+    {
+      "added_at": "2026-09-11 12:59:28",
+      "album": {
         "name": "Brisa Positiva",
         "url": "https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT"
       },
@@ -463,22 +463,6 @@
     {
       "added_at": "2026-09-11 12:59:28",
       "album": {
-        "name": "Maneva 20 Anos, Origem - Ao Vivo",
-        "url": "https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr"
-      },
-      "artists": [
-        {
-          "name": "Maneva",
-          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
-        }
-      ],
-      "duration_ms": 152166,
-      "name": "Incenso - Ao Vivo",
-      "url": "https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY"
-    },
-    {
-      "added_at": "2026-09-11 12:59:28",
-      "album": {
         "name": "Flor de Aruanda",
         "url": "https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 183146,
       "name": "Flor de Aruanda",
       "url": "https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e"
+    },
+    {
+      "added_at": "2026-09-11 12:59:28",
+      "album": {
+        "name": "Maneva 20 Anos, Origem - Ao Vivo",
+        "url": "https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr"
+      },
+      "artists": [
+        {
+          "name": "Maneva",
+          "url": "https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb"
+        }
+      ],
+      "duration_ms": 152166,
+      "name": "Incenso - Ao Vivo",
+      "url": "https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY"
     },
     {
       "added_at": "2026-09-11 12:59:28",

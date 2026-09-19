@@ -3315,6 +3315,24 @@
     },
     {
       "album": {
+        "name": "Crunchy, Sad and Strangely Happy",
+        "url": "https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224383,
+      "name": "I Wish I Never Met You",
+      "url": "https://open.spotify.com/track/0DZrttPj3g3XEyiTTRnLZd"
+    },
+    {
+      "album": {
         "name": "VANITY",
         "url": "https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g"
       },
@@ -6826,24 +6844,6 @@
       "duration_ms": 203876,
       "name": "Touch Me",
       "url": "https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d"
-    },
-    {
-      "album": {
-        "name": "Crunchy, Sad and Strangely Happy",
-        "url": "https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/0DZrttPj3g3XEyiTTRnLZd"
     },
     {
       "album": {

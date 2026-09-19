@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Lipta, Ref PURPEECH",
+  "description": "\u0e40\u0e1e\u0e25\u0e07\u0e43\u0e2b\u0e21\u0e48\u0e21\u0e32\u0e41\u0e23\u0e07 \u0e40\u0e1e\u0e25\u0e07\u0e2e\u0e34\u0e15\u0e25\u0e48\u0e32\u0e2a\u0e38\u0e14 \u0e17\u0e35\u0e48\u0e19\u0e35\u0e48\u0e40\u0e25\u0e22. \u0e28\u0e34\u0e25\u0e1b\u0e34\u0e19: Zom Marie",
   "name": "\u0e2e\u0e34\u0e15\u0e15\u0e34\u0e14\u0e01\u0e23\u0e30\u0e41\u0e2a",
   "tracks": [
     {
@@ -1062,7 +1062,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 212000,
       "name": "Butterflies",
       "url": "https://open.spotify.com/track/06BpRg0JXjnUmjtOZjZT3U"
@@ -6593,6 +6593,24 @@
     },
     {
       "album": {
+        "name": "\u0e02\u0e2d\u0e1d\u0e31\u0e19 (Wish)",
+        "url": "https://open.spotify.com/album/1sfDRvFv2jUv64XrQdyVQv"
+      },
+      "artists": [
+        {
+          "name": "Zom Marie",
+          "url": "https://open.spotify.com/artist/3CYmJROYywqfz2zXoUrcGB"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255000,
+      "name": "\u0e02\u0e2d\u0e1d\u0e31\u0e19 (Wish)",
+      "url": "https://open.spotify.com/track/3NMGjMcRZ17esGTivF5n0E"
+    },
+    {
+      "album": {
         "name": "\u0e02\u0e2d\u0e2d\u0e19\u0e38\u0e0d\u0e32\u0e15\u0e23\u0e31\u0e01",
         "url": "https://open.spotify.com/album/5u4Ym8kpxNAyNTIW69TTEJ"
       },
@@ -8100,6 +8118,24 @@
       "duration_ms": 365538,
       "name": "\u0e09\u0e31\u0e19\u0e44\u0e21\u0e48\u0e15\u0e49\u0e2d\u0e07\u0e01\u0e32\u0e23\u0e15\u0e31\u0e27\u0e40\u0e18\u0e2d\u0e43\u0e19\u0e15\u0e2d\u0e19\u0e19\u0e35\u0e49",
       "url": "https://open.spotify.com/track/2QV4JzbjMvgBRXsZHE0vW5"
+    },
+    {
+      "album": {
+        "name": "Fitness Pop",
+        "url": "https://open.spotify.com/album/7FGG9gmUa9M9VHCYeX78dl"
+      },
+      "artists": [
+        {
+          "name": "Tattoo Colour",
+          "url": "https://open.spotify.com/artist/5pxvW2nJ0a77b9oX24Unwi"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "\u0e0a\u0e2d\u0e1a\u0e08\u0e31\u0e07\u0e27\u0e48\u0e30 (Ricky Latin)",
+      "url": "https://open.spotify.com/track/5su7so7GIrRcGXaVfgJYAa"
     },
     {
       "album": {
@@ -13464,7 +13500,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 199310,
       "name": "\u0e40\u0e21\u0e30\u0e15\u0e34\u0e4b\u0e21\u0e23\u0e31\u0e01\u0e40\u0e04\u0e30\u0e01\u0e25\u0e49\u0e32\u0e21 (Uke-Seme) - From GELBOYS 2 \u0e15\u0e01\u0e2d\u0e22\u0e39\u0e48\u0e43\u0e19\u0e2a\u0e16\u0e32\u0e19\u0e30\u0e15\u0e34\u0e48\u0e07\u0e41\u0e1f\u0e19",
       "url": "https://open.spotify.com/track/0FaODv61T7CZGfEECPW9W4"

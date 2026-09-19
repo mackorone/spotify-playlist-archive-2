@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 
 > The newest and best Hip\-Hop updated weekly! Cover: Casper TNG
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,821 likes - 72 songs - 3 hr 34 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 22,820 likes - 73 songs - 3 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -80,5 +80,6 @@ pretty - [cumulative](/playlists/cumulative/1xVV8WCtm9c6y0cGo4WrWG.md) - [plain]
 | 70 | [LA Nights](https://open.spotify.com/track/62uzemerm9B0BFS9R0jApf) | [Trap Dickey](https://open.spotify.com/artist/20B8Ga2HfEUNJBAbZsJU2c) | [The Ville](https://open.spotify.com/album/4h19noQJ2iWAoyNW4zHYGQ) | 2:18 |
 | 71 | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/track/124asPU2FC370O180KQPQi) | [Ice Spice](https://open.spotify.com/artist/3LZZPxNDGDFVSIPqf4JuEf), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Out My Face \(My Baby\) \(feat\. Lil Yachty\)](https://open.spotify.com/album/0myqS8XRIGw3RYHfmuwF7Y) | 3:23 |
 | 72 | [vamp city \(with OsamaSon\)](https://open.spotify.com/track/4UyE3xTsvuyovBIODvhDV0) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 1:50 |
+| 73 | [MISS MY DAWG \(feat\. Drake\)](https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [COCOON](https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL) | 3:08 |
 
-Snapshot ID: `AAAlPt3q16xWEu/8NAiB9rRjtGVpXcFh`
+Snapshot ID: `AAAlPw+kFK9BU5VZu2MJ+9ndD1NxTfEX`

@@ -304,7 +304,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 247272,
       "name": "afterglow",
       "url": "https://open.spotify.com/track/2OEisVHjBrHhwWCCCJsPKe"
@@ -985,6 +985,24 @@
     },
     {
       "album": {
+        "name": "The Arrival",
+        "url": "https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl"
+      },
+      "artists": [
+        {
+          "name": "KDAY",
+          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
+    },
+    {
+      "album": {
         "name": "Aspire to Inspire",
         "url": "https://open.spotify.com/album/10YVJOKLunCfm9ssAVkSzI"
       },
@@ -1340,6 +1358,24 @@
       "duration_ms": 177730,
       "name": "Back to the 305",
       "url": "https://open.spotify.com/track/1tWkiHe2UtNye350uhqwVm"
+    },
+    {
+      "album": {
+        "name": "Back To The Flow EP",
+        "url": "https://open.spotify.com/album/3oH0SicksUbx1A02tP9ALD"
+      },
+      "artists": [
+        {
+          "name": "Easttown",
+          "url": "https://open.spotify.com/artist/60BcxlrIyqHOIjd9dBvld3"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212077,
+      "name": "Back To The Flow",
+      "url": "https://open.spotify.com/track/5ZhCiIZ9mjVj8nF2IBfm8p"
     },
     {
       "album": {
@@ -2932,7 +2968,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 275232,
       "name": "Bring The Beat Back",
       "url": "https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC"
@@ -4619,6 +4655,24 @@
     },
     {
       "album": {
+        "name": "Dancing Through EP",
+        "url": "https://open.spotify.com/album/0iYuvzdLNPjXgKaxADw9GL"
+      },
+      "artists": [
+        {
+          "name": "DAETOR",
+          "url": "https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247272,
+      "name": "Dancing Through",
+      "url": "https://open.spotify.com/track/73tiEGpvcvWxs8G0kPmIw4"
+    },
+    {
+      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/2JMA4A9DfW0F9zRxgXuf5T"
       },
@@ -5584,6 +5638,46 @@
       "duration_ms": 228750,
       "name": "Don't Stahp - Edit",
       "url": "https://open.spotify.com/track/5UVwqwrWsVLjjPvOOZkHem"
+    },
+    {
+      "album": {
+        "name": "Don't Stare",
+        "url": "https://open.spotify.com/album/3emj0E3qYpnOztMeNXITpx"
+      },
+      "artists": [
+        {
+          "name": "Elado",
+          "url": "https://open.spotify.com/artist/6tOqXU5tewaxqFtYCw9NlI"
+        },
+        {
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221090,
+      "name": "Don't Stare - Jordan Peak Remix",
+      "url": "https://open.spotify.com/track/1CxEKzjin5ljOTWTZNZBZv"
+    },
+    {
+      "album": {
+        "name": "Don't Stop EP",
+        "url": "https://open.spotify.com/album/5NZH0aHaP61wlbXk3cBR8Q"
+      },
+      "artists": [
+        {
+          "name": "aMo (um)",
+          "url": "https://open.spotify.com/artist/4XVAZbKq64Z3Q0LPpCmoo0"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242851,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/4I0O2T4Mi4pR4hx6ZZ2M6o"
     },
     {
       "album": {
@@ -9742,7 +9836,7 @@
       ],
       "date_added": "2026-03-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 178153,
       "name": "House Is Gettin' Raw",
       "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
@@ -9760,7 +9854,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 156923,
       "name": "House Mentality - Radio Edit",
       "url": "https://open.spotify.com/track/1pPz86QiMJvGN6Gkt7uonE"
@@ -10437,6 +10531,24 @@
     },
     {
       "album": {
+        "name": "In Your Atmosphere",
+        "url": "https://open.spotify.com/album/2SEKCUaPKm6ns4845s9dEu"
+      },
+      "artists": [
+        {
+          "name": "DELACOUR",
+          "url": "https://open.spotify.com/artist/3bFd5sav9N5kGzBklcXt6l"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207873,
+      "name": "In Your Atmosphere",
+      "url": "https://open.spotify.com/track/41ODyVxJdKhRfSXhUlcgCT"
+    },
+    {
+      "album": {
         "name": "Indianism",
         "url": "https://open.spotify.com/album/5J5Egpr5tXLXZMik9VwbmD"
       },
@@ -10732,6 +10844,24 @@
       "duration_ms": 347341,
       "name": "It's Alright",
       "url": "https://open.spotify.com/track/05p0F0sC8Ym7BZKG79hTKK"
+    },
+    {
+      "album": {
+        "name": "It's Time EP",
+        "url": "https://open.spotify.com/album/62LYZp4TFLbvOTPZQS4YGs"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/5ufXLBWYgi6YLHdhPJJbJW"
     },
     {
       "album": {
@@ -12344,7 +12474,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 212461,
       "name": "Loco Stop",
       "url": "https://open.spotify.com/track/5Cirr3cAS8wao8pbh7wr1g"
@@ -14282,7 +14412,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 135703,
       "name": "Need U",
       "url": "https://open.spotify.com/track/1aHWTyE87SPtspl78tc8zN"
@@ -17934,7 +18064,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 183036,
       "name": "Run (feat. O.MMY)",
       "url": "https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw"
@@ -20290,7 +20420,7 @@
       ],
       "date_added": "2026-05-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 160025,
       "name": "Swagger Sound",
       "url": "https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP"
@@ -21656,7 +21786,7 @@
       ],
       "date_added": "2026-01-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 183953,
       "name": "The Way I Are - Max Dean Remix",
       "url": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
@@ -23283,6 +23413,24 @@
     },
     {
       "album": {
+        "name": "Want U Back",
+        "url": "https://open.spotify.com/album/64kspokjua1DDfhiuYoIeb"
+      },
+      "artists": [
+        {
+          "name": "Skeptic",
+          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155515,
+      "name": "Want U Back",
+      "url": "https://open.spotify.com/track/3qk3Sf3hnnSBIfWTjpB9Kv"
+    },
+    {
+      "album": {
         "name": "Want You EP",
         "url": "https://open.spotify.com/album/4T0AtHkpum0TmZBD5nqaNh"
       },
@@ -23982,6 +24130,24 @@
       "duration_ms": 336350,
       "name": "without you",
       "url": "https://open.spotify.com/track/7H42rYILst7JUooiGyqz9u"
+    },
+    {
+      "album": {
+        "name": "Witty",
+        "url": "https://open.spotify.com/album/4bhf9v3REyvW96YzoY9Bh4"
+      },
+      "artists": [
+        {
+          "name": "Kitty Hall",
+          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "Witty",
+      "url": "https://open.spotify.com/track/6cKNCPypACC3mosprq9VQx"
     },
     {
       "album": {

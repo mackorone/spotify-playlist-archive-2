@@ -1,12 +1,12 @@
 {
   "description": "The very best acoustic songs from singer-songwriters making waves. Cover: I'm With Her",
-  "num_followers": 155895,
+  "num_followers": 155889,
   "original_name": "Women of Acoustic",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPmCJInqTBg3+MVEaZvsUSiwTZ/i",
+  "snapshot_id": "AAAAAJSGbfaPcs+SbgaN4wcVuqfVbQWO",
   "tracks": [
     {
       "added_at": "2026-03-08 15:34:05",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
-        "name": "About U: One Year On",
-        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
-      },
-      "artists": [
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 291538,
-      "name": "I Know A Place - Acoustic",
-      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
         "name": "Old Country",
         "url": "https://open.spotify.com/album/39SFOAucYDD4aYKJ6Ymza9"
       },
@@ -919,6 +903,22 @@
       "duration_ms": 228500,
       "name": "Portland",
       "url": "https://open.spotify.com/track/1eDkdK7CVn0NRAvKM6xBiY"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
+        "name": "About U: One Year On",
+        "url": "https://open.spotify.com/album/7HaFj1HOC2Q1viS1lpCAGX"
+      },
+      "artists": [
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 291538,
+      "name": "I Know A Place - Acoustic",
+      "url": "https://open.spotify.com/track/7tMc9X5fX4fcEttj2dNLYI"
     },
     {
       "added_at": "2026-03-08 15:34:05",
@@ -1155,6 +1155,22 @@
     {
       "added_at": "2026-03-08 15:34:05",
       "album": {
+        "name": "Risk",
+        "url": "https://open.spotify.com/album/2wNSp3CQIbNVsBKuBhr9V8"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        }
+      ],
+      "duration_ms": 244218,
+      "name": "Risk",
+      "url": "https://open.spotify.com/track/3KUEz7T5o9Ijq4L4jsTuXf"
+    },
+    {
+      "added_at": "2026-03-08 15:34:05",
+      "album": {
         "name": "August (feat. Adam Melchor)",
         "url": "https://open.spotify.com/album/7rCjzf8hQdihYpq1NbWAJn"
       },
@@ -1171,22 +1187,6 @@
       "duration_ms": 221599,
       "name": "August (feat. Adam Melchor)",
       "url": "https://open.spotify.com/track/2i650Qa2Mw4brCjxulbacC"
-    },
-    {
-      "added_at": "2026-03-08 15:34:05",
-      "album": {
-        "name": "Risk",
-        "url": "https://open.spotify.com/album/2wNSp3CQIbNVsBKuBhr9V8"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 244218,
-      "name": "Risk",
-      "url": "https://open.spotify.com/track/3KUEz7T5o9Ijq4L4jsTuXf"
     },
     {
       "added_at": "2026-03-08 15:34:05",

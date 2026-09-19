@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 
 > Enjoy the freshest K\-Pop new releases \(Cover: aespa\) \(국내 최신곡을 플레이리스트로 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 360,462 likes - 112 songs - 6 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 360,764 likes - 112 songs - 6 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -121,4 +121,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe5W6diBL5N4.md) - [plain]
 | 111 | [Godspeed!](https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job) | [HYUKOH](https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp) | [Godspeed!](https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz) | 4:46 |
 | 112 | [courage](https://open.spotify.com/track/1GxXymBkVQJtSPZhiyl2wZ) | [wave to earth](https://open.spotify.com/artist/5069JTmv5ZDyPeZaCCXiCg) | [bad pieces](https://open.spotify.com/album/3vyo8Ev3o6olStojgqpS6U) | 3:11 |
 
-Snapshot ID: `AAAAAGyxBi0gaEUJ7JC44bcAuHjqpv34`
+Snapshot ID: `AAAAAPeEMo3v8nDyWZOcDnIuIOxTQKoS`

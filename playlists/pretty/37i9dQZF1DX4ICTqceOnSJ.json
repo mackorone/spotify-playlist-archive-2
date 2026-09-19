@@ -1,12 +1,12 @@
 {
   "description": "Las canciones esenciales de la escena alternativa en espa\u00f1ol. Con Leiva en portada.",
-  "num_followers": 386269,
+  "num_followers": 386130,
   "original_name": "Lo Mejor del Indie Latino  ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJValB1CtXkGIZSCxmxKvqrxPEN+",
+  "snapshot_id": "AAAAAExRNK8D/HVc+tS3wkbC3f5NEpD2",
   "tracks": [
     {
       "added_at": "2024-06-14 04:59:00",
@@ -491,22 +491,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "Detroit",
-        "url": "https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT"
-      },
-      "artists": [
-        {
-          "name": "Miss Caffeina",
-          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
-        }
-      ],
-      "duration_ms": 189360,
-      "name": "Mira c\u00f3mo vuelo",
-      "url": "https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Viento de Cara",
         "url": "https://open.spotify.com/album/1H12cM0oy1TMb5snNa040x"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 257111,
       "name": "Viento de Cara",
       "url": "https://open.spotify.com/track/5sKdpvvNyRJifUmYLNiYys"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "Detroit",
+        "url": "https://open.spotify.com/album/4OjdqmQYAJvbb7OvkdiMtT"
+      },
+      "artists": [
+        {
+          "name": "Miss Caffeina",
+          "url": "https://open.spotify.com/artist/1uvhwixGrZkuT2gpQQWgYb"
+        }
+      ],
+      "duration_ms": 189360,
+      "name": "Mira c\u00f3mo vuelo",
+      "url": "https://open.spotify.com/track/0q26YkYooQjbNyNXzGcHGP"
     },
     {
       "added_at": "2024-06-14 04:59:00",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2024-06-14 04:59:00",
       "album": {
-        "name": "O Marineros",
-        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
-      },
-      "artists": [
-        {
-          "name": "Marineros",
-          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
-        }
-      ],
-      "duration_ms": 222242,
-      "name": "El Lado Oscuro de Tu Coraz\u00f3n",
-      "url": "https://open.spotify.com/track/4i2Yg55oDJdPLZtg01nwRi"
-    },
-    {
-      "added_at": "2024-06-14 04:59:00",
-      "album": {
         "name": "Todas las Flores de Enero",
         "url": "https://open.spotify.com/album/1PuUdFenRJ41IMROlqP41a"
       },
@@ -1455,6 +1439,22 @@
       "duration_ms": 268280,
       "name": "Adelante",
       "url": "https://open.spotify.com/track/1FgYBRmeJF5x1H1bBVTVKt"
+    },
+    {
+      "added_at": "2024-06-14 04:59:00",
+      "album": {
+        "name": "O Marineros",
+        "url": "https://open.spotify.com/album/6K5aPsu50qj7aoM32GiO8I"
+      },
+      "artists": [
+        {
+          "name": "Marineros",
+          "url": "https://open.spotify.com/artist/6EwwcDTg6CKzsuWq7Xbd7D"
+        }
+      ],
+      "duration_ms": 222242,
+      "name": "El Lado Oscuro de Tu Coraz\u00f3n",
+      "url": "https://open.spotify.com/track/4i2Yg55oDJdPLZtg01nwRi"
     },
     {
       "added_at": "2024-06-14 04:59:00",

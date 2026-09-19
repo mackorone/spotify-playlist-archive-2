@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 
 > תחנת הרדיו הפרטית שלך\. שירים יפים מישראל והעולם\. קאבר: פול טראנק
 
-[Spotify](https://open.spotify.com/user/spotify) - 25,733 likes - 100 songs - 5 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 25,732 likes - 100 songs - 5 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 65 | [Espresso](https://open.spotify.com/track/2oADPwknKEfMtwpMnr7xfg) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/4BmzK2rkU0mJJzfkugX0NG) | 2:55 |
 | 66 | [כל עכבה לטובה](https://open.spotify.com/track/6spkDJlie5raRezVwEDeQK) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [כל עכבה לטובה](https://open.spotify.com/album/3U3HVgEFqsHHSAyyR3OepE) | 2:42 |
 | 67 | [איפה שתגידי](https://open.spotify.com/track/2PZ8BlakFfw8T8InWlkVLg) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [תסמינים של פרידה](https://open.spotify.com/album/5zW2JPL3VdVwRwntUZ0F43) | 2:55 |
-| 68 | [אחת ממיליון](https://open.spotify.com/track/7kFo0ivGlvuzIWmODfmrjF) | [רון חיון](https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H) | [אחת ממיליון](https://open.spotify.com/album/2LFWvIFP6k3YWjhgkiaVgo) | 3:21 |
-| 69 | [אצלנו זה ככה](https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אצלנו זה ככה](https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew) | 3:33 |
+| 68 | [אצלנו זה ככה](https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj) | [Jasmin Moallem](https://open.spotify.com/artist/3cDi1D2FHMVgljfdB1QVgr), [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [אצלנו זה ככה](https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew) | 3:33 |
+| 69 | [אחת ממיליון](https://open.spotify.com/track/7kFo0ivGlvuzIWmODfmrjF) | [רון חיון](https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H) | [אחת ממיליון](https://open.spotify.com/album/2LFWvIFP6k3YWjhgkiaVgo) | 3:21 |
 | 70 | [פלסטרים](https://open.spotify.com/track/6qB33ch9RK0aoMfxfnlXa1) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [פלסטרים](https://open.spotify.com/album/4qEuEcv48zeatrNOxGHStV) | 2:58 |
 | 71 | [נשמות צמאות](https://open.spotify.com/track/3KFaiPnUVpvwrcIjbMFKBW) | [בן צור](https://open.spotify.com/artist/13Bny64Z0lG2BQFHhrMTPb) | [נשמות צמאות](https://open.spotify.com/album/0qYLzHNcwvcvvdGlEDrtmx) | 2:59 |
 | 72 | [רק שלך](https://open.spotify.com/track/4zXfQYhcSboWEOAwIQST9N) | [Omer Adam](https://open.spotify.com/artist/1IAEef07H0fd9aA8aUHUlL) | [חמישה לילות](https://open.spotify.com/album/1qjdpHH3JbWR9ZTGRjjoRs) | 3:54 |
@@ -89,9 +89,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 79 | [באמפרים](https://open.spotify.com/track/3FihyZ7YA7vrNiSUfWww10) | [סטילה](https://open.spotify.com/artist/7lwdlhwSxbB36wqnOwo5Kd), [Ness](https://open.spotify.com/artist/2ygecp3YQJwBHL7LNzDgwe) | [באמפרים](https://open.spotify.com/album/68jOubWGq2KpQexGxt6lP6) | 2:27 |
 | 80 | [מאחל לך טוב](https://open.spotify.com/track/2RNGK9C5zMQhKMTiPL5Q0T) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [גיטרה ולנשום](https://open.spotify.com/album/6MYR06lNvAzbzXmKTn3kpw) | 2:58 |
 | 81 | [אם זה זה – זה זה](https://open.spotify.com/track/5e1XuRHOjrgVhy6zrZWOCu) | [Agam Buhbut](https://open.spotify.com/artist/3JPKPnzWJGjccn8SnjwA5i) | [אם זה זה – זה זה](https://open.spotify.com/album/78VNDC9zHvBXKi8Nqz7jrE) | 2:53 |
-| 82 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 |
-| 83 | [SAD GENERATION, HAPPY PICTURES \(feat\. Flyana Boss\)](https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:27 |
-| 84 | [סוד הנעורים](https://open.spotify.com/track/3IGeTg6zodZUVUNHp7bfmk) | [young buta](https://open.spotify.com/artist/7eDcihyzgwCbWXFRJFc0MB) | [סוד הנעורים](https://open.spotify.com/album/5a7PsyCayvzgpsgfS614Ay) | 3:03 |
+| 82 | [סוד הנעורים](https://open.spotify.com/track/3IGeTg6zodZUVUNHp7bfmk) | [young buta](https://open.spotify.com/artist/7eDcihyzgwCbWXFRJFc0MB) | [סוד הנעורים](https://open.spotify.com/album/5a7PsyCayvzgpsgfS614Ay) | 3:03 |
+| 83 | [Hurricane](https://open.spotify.com/track/2Ozw7k5CLtM5W9SomrOyjw) | [Eden Golan](https://open.spotify.com/artist/2eqELzJhAS2EDZayMaMHk5) | [Hurricane](https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p) | 2:58 |
+| 84 | [SAD GENERATION, HAPPY PICTURES \(feat\. Flyana Boss\)](https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn) | [Noga Erez](https://open.spotify.com/artist/5VwCIS8jdx9ZHjApLFNrTZ), [Flyana Boss](https://open.spotify.com/artist/0CLW5934vy2XusynS1px1S) | [THE VANDALIST](https://open.spotify.com/album/1zHfi28zB4HyturzEUyjrQ) | 3:27 |
 | 85 | [לופ](https://open.spotify.com/track/1ChZJDdEU5tR4ZrLeuDh5u) | [Osher Cohen](https://open.spotify.com/artist/2LUB7PhWK2j2obgSTeD3GN) | [לופ](https://open.spotify.com/album/4uWf4XvMwY5r4SQo3IVm2L) | 2:43 |
 | 86 | [מלודי](https://open.spotify.com/track/0hdDyhwaJpNW5nsJC3qYPe) | [פאר טסי](https://open.spotify.com/artist/24HI9hevLjIQtj7xp2CeHs) | [רדיו שטח 2](https://open.spotify.com/album/1PWujNSVmbVLoY0CbewwWq) | 3:27 |
 | 87 | [תהיה בנאדם](https://open.spotify.com/track/0BIn5KNnPdnDZrLJ2qLXnp) | [מתן חסן](https://open.spotify.com/artist/36TG4OFhKuCHnTFCa6BEh7) | [תהיה בנאדם](https://open.spotify.com/album/4d0DUXWVlWh3R7OzyPrUYI) | 1:57 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV9KyA92twJc.md) - [plain]
 | 99 | [בחיבק](https://open.spotify.com/track/0OIq7kRsGg7UkLKtO7Srqd) | [תמר ריילי](https://open.spotify.com/artist/3mtlJGfDIyEyrflj4HAW4i) | [בחיבק](https://open.spotify.com/album/0Mzp2CgjhTvKqeIIYTI76s) | 2:27 |
 | 100 | [בן אדם](https://open.spotify.com/track/2edVP7ujjhYSoZ308dpEpW) | [אודיה](https://open.spotify.com/artist/28jEBK1RysfSUBHFofFflA) | [בן אדם](https://open.spotify.com/album/6Bd4Gvr0EKVYMGY56D2Az8) | 3:13 |
 
-Snapshot ID: `AAAAAJooA+Kluu7R5w8394bTbepJLAx+`
+Snapshot ID: `AAAAAHQTDlzQgi683l6rVWF8VrCgZr3S`

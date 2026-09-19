@@ -1,12 +1,12 @@
 {
   "description": "Every track you're listening/should be listening to ;) ",
-  "num_followers": 1352066,
+  "num_followers": 1352482,
   "original_name": "Trending Now India",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAARdEd16UOt74RKhdF5mOhexfBcI",
+  "snapshot_id": "AAAAAJDlsLEWGiBuPMKjGZiWzd1lgbM9",
   "tracks": [
     {
       "added_at": "2026-09-09 08:39:42",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "CHANEL",
-        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
-      },
-      "artists": [
-        {
-          "name": "Tyla",
-          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
-        }
-      ],
-      "duration_ms": 188059,
-      "name": "CHANEL",
-      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
-    },
-    {
-      "added_at": "2026-09-09 08:39:42",
-      "album": {
         "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
         "url": "https://open.spotify.com/album/1QxshnBv2N7xiC2OmGpldW"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 210197,
       "name": "Alaakaa Loova (From \"OM Chapter 1: Udhiram - The Blood Wood\") [Tamil]",
       "url": "https://open.spotify.com/track/0JiGoqPHbvK65rBHadXYoB"
+    },
+    {
+      "added_at": "2026-09-09 08:39:42",
+      "album": {
+        "name": "CHANEL",
+        "url": "https://open.spotify.com/album/4u9fJJ2AxC2VzyyeJVyS59"
+      },
+      "artists": [
+        {
+          "name": "Tyla",
+          "url": "https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE"
+        }
+      ],
+      "duration_ms": 188059,
+      "name": "CHANEL",
+      "url": "https://open.spotify.com/track/4VxTzYm00mg82MuoT35Ja7"
     },
     {
       "added_at": "2026-09-09 08:39:42",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "Mann Mera (Original Version)",
-        "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
-      },
-      "artists": [
-        {
-          "name": "Gajendra Verma",
-          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
-        }
-      ],
-      "duration_ms": 228000,
-      "name": "Mann Mera - Original Version",
-      "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
-    },
-    {
-      "added_at": "2026-09-09 08:39:42",
-      "album": {
         "name": "Alligator Bites Never Heal (Extended)",
         "url": "https://open.spotify.com/album/5yPu6XkHu8DAGmV6YkXYZq"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 249302,
       "name": "Anxiety",
       "url": "https://open.spotify.com/track/3LPLRNr58Z9Pn0clnEtkXb"
+    },
+    {
+      "added_at": "2026-09-09 08:39:42",
+      "album": {
+        "name": "Mann Mera (Original Version)",
+        "url": "https://open.spotify.com/album/3KR9QiP7RuCpAhXwFOE9vR"
+      },
+      "artists": [
+        {
+          "name": "Gajendra Verma",
+          "url": "https://open.spotify.com/artist/1yzgJmZf5CxtFfGfRFm4Si"
+        }
+      ],
+      "duration_ms": 228000,
+      "name": "Mann Mera - Original Version",
+      "url": "https://open.spotify.com/track/1As2Jo89VTF9V3D6GuOPr9"
     },
     {
       "added_at": "2026-09-09 08:39:42",
@@ -1091,30 +1091,6 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "Awarapan (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/7a7eM4QH71vqwvga5NrgiD"
-      },
-      "artists": [
-        {
-          "name": "Pritam",
-          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
-        },
-        {
-          "name": "Mustafa Zahid",
-          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
-        },
-        {
-          "name": "Sayeed Quadri",
-          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
-        }
-      ],
-      "duration_ms": 348280,
-      "name": "Toh Phir Aao - Original Version",
-      "url": "https://open.spotify.com/track/10rTRsKQDEke6Dd1Qj57Jd"
-    },
-    {
-      "added_at": "2026-09-09 08:39:42",
-      "album": {
         "name": "Kaise Hua (From \"Kabir Singh\")",
         "url": "https://open.spotify.com/album/1ncyKqyZae6DoyjYaV9LmS"
       },
@@ -1155,6 +1131,30 @@
       "duration_ms": 437679,
       "name": "Andaaz e Karam",
       "url": "https://open.spotify.com/track/0qheD9ZwdmVKu5ktHXFbb0"
+    },
+    {
+      "added_at": "2026-09-09 08:39:42",
+      "album": {
+        "name": "Awarapan (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/7a7eM4QH71vqwvga5NrgiD"
+      },
+      "artists": [
+        {
+          "name": "Pritam",
+          "url": "https://open.spotify.com/artist/1wRPtKGflJrBx9BmLsSwlU"
+        },
+        {
+          "name": "Mustafa Zahid",
+          "url": "https://open.spotify.com/artist/71oGOxg5ez52Hh1Ye41A98"
+        },
+        {
+          "name": "Sayeed Quadri",
+          "url": "https://open.spotify.com/artist/2pGRniGOJSOvYoK3dGaBb8"
+        }
+      ],
+      "duration_ms": 348280,
+      "name": "Toh Phir Aao - Original Version",
+      "url": "https://open.spotify.com/track/10rTRsKQDEke6Dd1Qj57Jd"
     },
     {
       "added_at": "2026-09-09 08:39:42",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "Ranjheya Ve",
-        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
-      },
-      "artists": [
-        {
-          "name": "Zain Zohaib",
-          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
-        }
-      ],
-      "duration_ms": 278474,
-      "name": "Ranjheya Ve",
-      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
-    },
-    {
-      "added_at": "2026-09-09 08:39:42",
-      "album": {
         "name": "Inferno",
         "url": "https://open.spotify.com/album/4ZbDtK4rvjgDiyofGLQzot"
       },
@@ -1411,18 +1395,18 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "Russian Bandana",
-        "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
+        "name": "Ranjheya Ve",
+        "url": "https://open.spotify.com/album/5k1gcNPYHM5h2mEDpdxND1"
       },
       "artists": [
         {
-          "name": "Dhanda Nyoliwala",
-          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
         }
       ],
-      "duration_ms": 197142,
-      "name": "Russian Bandana",
-      "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
+      "duration_ms": 278474,
+      "name": "Ranjheya Ve",
+      "url": "https://open.spotify.com/track/5J9L7IbadCt0ivs9xmNrr0"
     },
     {
       "added_at": "2026-09-09 08:39:42",
@@ -1451,26 +1435,18 @@
     {
       "added_at": "2026-09-09 08:39:42",
       "album": {
-        "name": "Sajni (From \"Laapataa Ladies\")",
-        "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
+        "name": "Russian Bandana",
+        "url": "https://open.spotify.com/album/6CLIf42g7M6k0nE3vlcqud"
       },
       "artists": [
         {
-          "name": "Ram Sampath",
-          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
-        },
-        {
-          "name": "Arijit Singh",
-          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
-        },
-        {
-          "name": "Prashant Pandey",
-          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
+          "name": "Dhanda Nyoliwala",
+          "url": "https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb"
         }
       ],
-      "duration_ms": 170044,
-      "name": "Sajni (From \"Laapataa Ladies\")",
-      "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
+      "duration_ms": 197142,
+      "name": "Russian Bandana",
+      "url": "https://open.spotify.com/track/1dFrZr9eMUsFqeag04ClqD"
     },
     {
       "added_at": "2026-09-09 08:39:42",
@@ -1491,6 +1467,30 @@
       "duration_ms": 247816,
       "name": "Hangova",
       "url": "https://open.spotify.com/track/1W8MIxJT69pJTJpAbmIBGM"
+    },
+    {
+      "added_at": "2026-09-09 08:39:42",
+      "album": {
+        "name": "Sajni (From \"Laapataa Ladies\")",
+        "url": "https://open.spotify.com/album/3I3kZyHUtEA9Y59rJkxtk6"
+      },
+      "artists": [
+        {
+          "name": "Ram Sampath",
+          "url": "https://open.spotify.com/artist/3PpjqSKBer3obW6lDflOBx"
+        },
+        {
+          "name": "Arijit Singh",
+          "url": "https://open.spotify.com/artist/4YRxDV8wJFPHPTeXepOstw"
+        },
+        {
+          "name": "Prashant Pandey",
+          "url": "https://open.spotify.com/artist/7vCsTTACb2iT4fvBMnwp5w"
+        }
+      ],
+      "duration_ms": 170044,
+      "name": "Sajni (From \"Laapataa Ladies\")",
+      "url": "https://open.spotify.com/track/5zCnGtCl5Ac5zlFHXaZmhy"
     },
     {
       "added_at": "2026-09-09 08:39:42",

@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75879,
+  "num_followers": 75878,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAADKR457stC2pmZsCxHAoZd/",
+  "snapshot_id": "aqstgAAAAABpkvctwOVQC7g72aEOV4XJ",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HERO: A Second Wind",
-        "url": "https://open.spotify.com/album/7Dta2R6zh3NV1SvKsvalqo"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 182866,
-      "name": "We Can't Be Friends",
-      "url": "https://open.spotify.com/track/2bgTXQe2IF8mjgW5eiKj27"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Chain (From the Motion Picture Soundtrack \"The Kitchen\")",
         "url": "https://open.spotify.com/album/2RFcxjuCLxKYfnOVyucot5"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 291533,
       "name": "The Chain - From the Motion Picture Soundtrack \"The Kitchen\"",
       "url": "https://open.spotify.com/track/47yfbuX2JXVg0STjXEGAps"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HERO: A Second Wind",
+        "url": "https://open.spotify.com/album/7Dta2R6zh3NV1SvKsvalqo"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 182866,
+      "name": "We Can't Be Friends",
+      "url": "https://open.spotify.com/track/2bgTXQe2IF8mjgW5eiKj27"
     },
     {
       "added_at": null,
@@ -607,6 +607,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
+        "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        },
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        },
+        {
+          "name": "Ashley McBryde",
+          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
+        },
+        {
+          "name": "Tenille Townes",
+          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
+        },
+        {
+          "name": "Caylee Hammack",
+          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
+        }
+      ],
+      "duration_ms": 249573,
+      "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
+      "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at The Gorge 2023",
         "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
       },
@@ -671,38 +707,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
-        "url": "https://open.spotify.com/album/6l4667PMmvxv6kEZT1SoPH"
+        "name": "D R E A M S I C L E (deluxe)",
+        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
       },
       "artists": [
         {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        },
-        {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        },
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        },
-        {
-          "name": "Ashley McBryde",
-          "url": "https://open.spotify.com/artist/371jpyGdoChzUASOIG2ECV"
-        },
-        {
-          "name": "Tenille Townes",
-          "url": "https://open.spotify.com/artist/3TyeX0lk4B7k56ukfzEE0z"
-        },
-        {
-          "name": "Caylee Hammack",
-          "url": "https://open.spotify.com/artist/1ok6sI97SuTRNc7Hjj7Uj9"
         }
       ],
-      "duration_ms": 249573,
-      "name": "Fooled Around and Fell in Love (feat. Maren Morris, Elle King, Ashley McBryde, Tenille Townes & Caylee Hammack)",
-      "url": "https://open.spotify.com/track/3P9mtsqs0J79yGVmVuAs4B"
+      "duration_ms": 184406,
+      "name": "be a bitch",
+      "url": "https://open.spotify.com/track/62EUDu2IcL7pgmqiCY2J2I"
     },
     {
       "added_at": null,
@@ -735,22 +751,6 @@
       "duration_ms": 215139,
       "name": "My Church - Live at The Gorge 2023",
       "url": "https://open.spotify.com/track/0z642wDi5qmnMdWQ8dtwrU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "D R E A M S I C L E (deluxe)",
-        "url": "https://open.spotify.com/album/6qA8TnnCdZCoXzy0mDaZjk"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 184406,
-      "name": "be a bitch",
-      "url": "https://open.spotify.com/track/62EUDu2IcL7pgmqiCY2J2I"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+      },
+      "artists": [
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 187638,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Live at The Gorge 2023",
         "url": "https://open.spotify.com/album/4q1ps5m2IFKCdlKrCxhcuz"
       },
@@ -827,8 +843,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "HERO (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
       },
       "artists": [
         {
@@ -836,9 +852,9 @@
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 187638,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
+      "duration_ms": 240061,
+      "name": "I Wish I Was",
+      "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
     },
     {
       "added_at": null,
@@ -911,22 +927,6 @@
       "duration_ms": 268956,
       "name": "The Bees - Live at The Gorge 2023",
       "url": "https://open.spotify.com/track/6rZWFVFSaIc15DFvxmmgfV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HERO (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/4sSXylKcBB3p47VfrBJlfK"
-      },
-      "artists": [
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 240061,
-      "name": "I Wish I Was",
-      "url": "https://open.spotify.com/track/0CqvhN7ChNjQf4tHp5rKTv"
     },
     {
       "added_at": null,

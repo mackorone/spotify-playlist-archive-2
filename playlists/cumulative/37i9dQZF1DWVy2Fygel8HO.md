@@ -4,7 +4,7 @@
 
 > Soft, soothing piano for you and your baby.
 
-211 songs - 8 hr 44 min
+214 songs - 8 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [As a Rose Blossom](https://open.spotify.com/track/657LOljr0QcBwRX1qtWQy6) | [Emile Cerise](https://open.spotify.com/artist/5J3gBMCxZ68jLD8aijjftS) | [As a Rose Blossom](https://open.spotify.com/album/2w1FFF4DGgE1DZKKKvujf9) | 2:11 | 2024-10-14 |  |
 | [Ashfall](https://open.spotify.com/track/6ftwSPoxBAoAk41eQeen4w) | [Eigil Leuc](https://open.spotify.com/artist/7nseZgS00tkLotjF6GbGrt) | [Ashfall](https://open.spotify.com/album/5xQ0f2SQpsoHHLGDGypcWB) | 2:49 | 2025-07-07 |  |
 | [At Night](https://open.spotify.com/track/1QX2SYLb1nATOdaS2eer1U) | [C.M.H](https://open.spotify.com/artist/7eMrolcvKtdRpB6OrG3tIx) | [At Night](https://open.spotify.com/album/59Dy1DGXPMfcFmzWQUVsu8) | 2:54 | 2025-03-18 |  |
+| [At Rest](https://open.spotify.com/track/3Cyslf8Sbb2MhISVhfI9Pw) | [Waylen Orson](https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw) | [At Rest](https://open.spotify.com/album/2srYAaDy9XqK2Go6nUmzC4) | 2:18 | 2026-09-18 |  |
 | [Autumn Sky](https://open.spotify.com/track/7yQvxdXqotBSRCAYOIOGVt) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Autumn Sky](https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT) | 2:38 | 2023-10-04 |  |
 | [aux aguets](https://open.spotify.com/track/0DPSCh1dZwNd8grbFrAwT4) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [aux aguets](https://open.spotify.com/album/5Mo5ZQd5xfN9OcDDsH3Yoh) | 2:36 | 2025-11-25 |  |
 | [Balloon](https://open.spotify.com/track/6OIKgnO4zehihKR2ba6vlm) | [Chad Hammond](https://open.spotify.com/artist/2f57qlf6OXqVTlxymKxjEL) | [Balloon](https://open.spotify.com/album/5pJAAbu6gtYqxC9fx4Rusa) | 3:17 | 2023-10-04 |  |
@@ -155,6 +156,7 @@
 | [Serenade to Veronika](https://open.spotify.com/track/2hzwsJaOQLnex8YchKVqOe) | [Ferenc Bognár](https://open.spotify.com/artist/6kZd1uFzg7uGWSitp4F4GW) | [Serenade to Veronika](https://open.spotify.com/album/1rdGTeKhkDgpSbk84SFjNM) | 2:36 | 2025-04-23 |  |
 | [Serene Lullaby](https://open.spotify.com/track/6senBBuEDrhyrtq83mNw8K) | [Michele Nobler](https://open.spotify.com/artist/3c77k7JBsnl7h72xlCuaS2) | [A Second Life](https://open.spotify.com/album/4zfzNeWgluMMQfhXxNOft8) | 2:46 | 2023-05-09 | 2025-02-19 |
 | [Serenity](https://open.spotify.com/track/5ul8fmKLEXPOoxI2UB03Cl) | [Peighton](https://open.spotify.com/artist/1YUB5ogOMQkiMfYvaPIEPY) | [Serenity](https://open.spotify.com/album/3H4nRo9aqyV0W0CK0MyaRo) | 2:38 | 2023-05-09 |  |
+| [She Did It](https://open.spotify.com/track/2l2NVF3lHBlatAtyoF6g08) | [Christopher T\. Gaius](https://open.spotify.com/artist/47NWKPZdH6is4KvirYJbxk) | [She Did It](https://open.spotify.com/album/5gm0MYy73r2OBcI2EBpiwu) | 2:36 | 2026-09-18 |  |
 | [Silence](https://open.spotify.com/track/6gAiT0trxkYwlMVsvFjmsX) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Silence](https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5) | 2:21 | 2024-12-03 |  |
 | [Silent Bloom](https://open.spotify.com/track/2ESAE30bJPEvyvfDE5oh1T) | [Aquilegia](https://open.spotify.com/artist/4XF98HJsL7ue3NksOvebiJ) | [Silent Bloom](https://open.spotify.com/album/4zKinGSo2A4tBIunlolmbJ) | 2:10 | 2025-07-07 |  |
 | [Silent Steps in the Snow](https://open.spotify.com/track/4hhki0inb5KmXcI3gJGXOv) | [Gianni Domenici](https://open.spotify.com/artist/35oY1jZXg6xVhLBw2M8M8g) | [Silent Steps in the Snow](https://open.spotify.com/album/052ClOJxN5pEBblLQNISsz) | 2:24 | 2024-11-12 |  |
@@ -181,6 +183,7 @@
 | [Sunday breeze](https://open.spotify.com/track/1atf2cbN3stTERkx9AafmN) | [Volker Anderson](https://open.spotify.com/artist/77UwtMovkeXsignTuy1dB1) | [Sunday breeze](https://open.spotify.com/album/31KA9JmcgGuefqDeQXak52) | 1:38 | 2023-05-09 | 2025-04-09 |
 | [Tenderness](https://open.spotify.com/track/4bIpvx1sHj3yIFRpPQ4XAu) | [Stone Mirland](https://open.spotify.com/artist/7JhyuaeB60S8vsFRzcdN2o) | [Tenderness](https://open.spotify.com/album/5eYAFoTBGNJAaxoFnK45ZZ) | 1:59 | 2025-03-04 | 2025-04-09 |
 | [teunok](https://open.spotify.com/track/382bYUbYKAIfyhZ0CQ9gek) | [Ove Roos](https://open.spotify.com/artist/6qPCa2xnuweDEXoBg5Byr0) | [teunok](https://open.spotify.com/album/2zR5ONJGefVeFM904jJ2HY) | 2:31 | 2023-09-11 | 2024-10-08 |
+| [The Early Hours](https://open.spotify.com/track/2QOiRXpVyZ3fN5267IPkJ4) | [Soren Cudero](https://open.spotify.com/artist/0tx1OsY5NW97YUXLoxroYf) | [The Early Hours](https://open.spotify.com/album/66PNTiEQXMD89klGdQnKmf) | 2:19 | 2026-09-18 |  |
 | [The Gilded Orchard](https://open.spotify.com/track/1KwYk5OxdkR9gKMhX3YR9K) | [Quentin Noire](https://open.spotify.com/artist/1FXZ3lnXGrC1N5WGYOzmRm) | [The Gilded Orchard](https://open.spotify.com/album/2RGz0JfVslB2jdqFj6vMIZ) | 2:20 | 2026-05-08 |  |
 | [The light is there](https://open.spotify.com/track/1aHkqLrb44WJtIxXxz93qp) | [Eve St\. Claire](https://open.spotify.com/artist/3MSaDulfIzPkitDIJeZxDO) | [The light is there](https://open.spotify.com/album/4sLCogCSRNefB8zbmhcEj2) | 2:03 | 2025-05-13 |  |
 | [The Midnight Sun](https://open.spotify.com/track/73WwLsqz0sZQucwkeyybus) | [Hakone](https://open.spotify.com/artist/21exwUEFwK59KTe51vTfjI) | [The Midnight Sun](https://open.spotify.com/album/6ST5jKASoHoEU1T7pgq5cE) | 2:58 | 2023-05-09 | 2025-04-26 |

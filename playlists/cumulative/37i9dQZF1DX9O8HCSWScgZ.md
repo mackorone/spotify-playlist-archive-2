@@ -4,7 +4,7 @@
 
 > warm and cozy beats to watch the leaves fall, focus, study or chill to.
 
-119 songs - 4 hr 32 min
+120 songs - 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -104,6 +104,7 @@
 | [Rainseat](https://open.spotify.com/track/7Aw4NIhyuW9hyF5WxtKN9m) | [Corridor](https://open.spotify.com/artist/0Tc5RmUZd5MfNBwBQfEXld) | [Rainseat](https://open.spotify.com/album/0L8V6DITyr1ZSLwpzeJwYz) | 2:05 | 2025-11-28 |  |
 | [raphael](https://open.spotify.com/track/5mLWt4ZwYYAWtnBE3v1xGT) | [vädur](https://open.spotify.com/artist/2Mbe5uXFqTeYC5exWeeQrQ) | [raphael](https://open.spotify.com/album/21oJkldyM7lbK0Ki87qnFA) | 2:34 | 2024-10-18 | 2025-09-06 |
 | [Renaissance](https://open.spotify.com/track/6rjWO9LcpRRAovhVpJ93pr) | [SumPlusOne](https://open.spotify.com/artist/0cER211mwgbpBAMlqyXNi4) | [Renaissance](https://open.spotify.com/album/1j1RJtqUsyL4P9ATPCIf2x) | 2:08 | 2024-10-18 |  |
+| [Robin](https://open.spotify.com/track/5bBzYZ5n15wINaBmD28M8X) | [Plaxon](https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM) | [Robin](https://open.spotify.com/album/6D3p9YoUNQNDvnYFSkKCb5) | 2:10 | 2026-09-18 |  |
 | [routine](https://open.spotify.com/track/0HZsLTBHkIrtDC0qmCOAtg) | [Gaccio](https://open.spotify.com/artist/5VFn6uezSGCIslQWRV5vhy) | [routine](https://open.spotify.com/album/0z1s7c5kahemDRbOVe0YOP) | 2:02 | 2024-10-18 | 2026-03-13 |
 | [Sail Setter](https://open.spotify.com/track/2zdcTEiOSuMUM3ZoO32o1q) | [French Connection](https://open.spotify.com/artist/65psUobejSe9ZkjPgtCtZW) | [Sail Setter](https://open.spotify.com/album/0JMWzKEYE8lz7lmzUJTYMj) | 2:04 | 2025-09-12 |  |
 | [Short of Breath](https://open.spotify.com/track/3nChuUgl4otmgu0u0ZueWj) | [eun](https://open.spotify.com/artist/0L8slSjSjkpmY2vCCuXZ2r) | [Short of Breath](https://open.spotify.com/album/1PntOd2Nr7y3CtOoPCFJnc) | 2:32 | 2024-12-11 |  |
@@ -126,6 +127,6 @@
 | [what´s my name](https://open.spotify.com/track/0tgX9pQ08mwF29RB89XH6P) | [yellofish](https://open.spotify.com/artist/6wHTJtZcirtHMW5PALNq3p) | [what´s my name](https://open.spotify.com/album/0gUnjr4PLsev8CSxg7BbYG) | 1:52 | 2024-12-11 |  |
 | [when the leaves](https://open.spotify.com/track/627rDXLovcxPJRbarsYQxP) | [azayaka](https://open.spotify.com/artist/6NlDyXtng5iheiZRAzt4NF) | [when the leaves](https://open.spotify.com/album/6dtMISjjExmxOq1mqcY3X6) | 2:03 | 2025-10-22 |  |
 | [Windmill](https://open.spotify.com/track/31EArKgvKgR8hdPSahd7QK) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Windmill](https://open.spotify.com/album/27pD2gQL69w78Wtf9CbjUa) | 2:01 | 2024-12-11 |  |
-| [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 | 2024-10-18 |  |
+| [Worcestershire dreaming](https://open.spotify.com/track/7qdmi4ASzlDenOqt5hG587) | [Low Couture](https://open.spotify.com/artist/13mNwKx9Xb7I4qurCOJfXq) | [Worcestershire dreaming](https://open.spotify.com/album/7j6jANOsfXpSfabekUP2lj) | 2:06 | 2024-10-18 | 2026-09-19 |
 
 \*This playlist was first scraped on 2024-10-20. Prior content cannot be recovered.

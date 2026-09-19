@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 
 > If it's buzzing, it's here\. The hottest new songs of the week\. Cover: Slayyyter
 
-[Spotify](https://open.spotify.com/user/spotify) - 921,144 likes - 40 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 921,367 likes - 40 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f6LHxMjnzD.md) - [plain]
 | 39 | [Toy Gun](https://open.spotify.com/track/0OXVPuuyCU3Wih7xObJ4HO) | [Avery Cochrane](https://open.spotify.com/artist/2I0aPV0zqzG1LKhsMaKFDR) | [Toy Gun](https://open.spotify.com/album/6FlDkhHiDKhNeInRIdPng1) | 3:14 |
 | 40 | [Safe \(feat\. Savannah Ré\)](https://open.spotify.com/track/03NddMz8erSpjjioDecBh4) | [Andye](https://open.spotify.com/artist/45WqSW6mVJQNJuqF1nIKqj), [Savannah Ré](https://open.spotify.com/artist/3qfqqDpGv4XNfa3G0EfP9s) | [Safe](https://open.spotify.com/album/1Gp9CR7Nv9pAmqNjjeFyKp) | 2:50 |
 
-Snapshot ID: `AAAAADp2vBLCYs/c1rpMGt5/YB3jZpKn`
+Snapshot ID: `AAAAACz3VFKxWCvzwmwm6yR4XFgGLYOk`

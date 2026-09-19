@@ -1,12 +1,12 @@
 {
   "description": "This is Ramon Ayala Y Sus Bravos Del Norte. The essential tracks, all in one playlist.",
-  "num_followers": 89756,
+  "num_followers": 89776,
   "original_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAADESlzOeWGiGGjzWd+2+hOV",
+  "snapshot_id": "aqstgAAAAAD7X3hRB9viUAItmbVMdi7c",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El N\u00famero 100",
-        "url": "https://open.spotify.com/album/0QduY2R2maevRnHXuBFrBi"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 173160,
-      "name": "Del Otro Lado del Port\u00f3n",
-      "url": "https://open.spotify.com/track/5lLSkpxhENaXxzeBBa8vYN"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imprescindibles",
         "url": "https://open.spotify.com/album/55QcIDyo41sAS9L27I6uRE"
       },
@@ -151,6 +135,22 @@
       "duration_ms": 181640,
       "name": "Para Poder Llegar A Ti",
       "url": "https://open.spotify.com/track/0vixYN2nSOIn9k1wr0qfhC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El N\u00famero 100",
+        "url": "https://open.spotify.com/album/0QduY2R2maevRnHXuBFrBi"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 173160,
+      "name": "Del Otro Lado del Port\u00f3n",
+      "url": "https://open.spotify.com/track/5lLSkpxhENaXxzeBBa8vYN"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Vengas A Rogarme",
-        "url": "https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji"
+        "name": "Relampagueando - En Memoria De Cornelio Reyna 25 A\u00f1os Despu\u00e9s",
+        "url": "https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 180880,
-      "name": "Hay Unos Ojos",
-      "url": "https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF"
+      "duration_ms": 144426,
+      "name": "El Disgusto",
+      "url": "https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr"
     },
     {
       "added_at": null,
@@ -251,8 +251,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Relampagueando - En Memoria De Cornelio Reyna 25 A\u00f1os Despu\u00e9s",
-        "url": "https://open.spotify.com/album/1nD4NSry2Tv0Fz4UzjkHfy"
+        "name": "No Vengas A Rogarme",
+        "url": "https://open.spotify.com/album/2q8HkR7CQ2AB5Xj95p40Ji"
       },
       "artists": [
         {
@@ -260,25 +260,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 144426,
-      "name": "El Disgusto",
-      "url": "https://open.spotify.com/track/1yhUCJgl0iUT9zX8UvEyPr"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Amor Vaquero",
-        "url": "https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 224360,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp"
+      "duration_ms": 180880,
+      "name": "Hay Unos Ojos",
+      "url": "https://open.spotify.com/track/6sz8xJn16194T5KAIVqrnF"
     },
     {
       "added_at": null,
@@ -299,6 +283,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Amor Vaquero",
+        "url": "https://open.spotify.com/album/2ikhPXiJKnhxkMBUJGUw2I"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 224360,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/4gMEDmaYG8JaM2Au8RzNqp"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Los Mejores 15 \u00c9xitos Norte\u00f1os",
         "url": "https://open.spotify.com/album/6G6ycCLOWgkb3AQoI28Y8c"
       },
@@ -311,22 +311,6 @@
       "duration_ms": 183733,
       "name": "Qu\u00e9 Casualidad",
       "url": "https://open.spotify.com/track/5PIG1GPqYdPeAmTDfwA23T"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pu\u00f1o De Tierra",
-        "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 227706,
-      "name": "Pu\u00f1o De Tierra Aka Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy"
     },
     {
       "added_at": null,
@@ -347,8 +331,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "PURA MUSICA DE CANTINA",
-        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
+        "name": "Pu\u00f1o De Tierra",
+        "url": "https://open.spotify.com/album/6eA4QybNgwI6q0txjuKat5"
       },
       "artists": [
         {
@@ -356,9 +340,9 @@
           "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
         }
       ],
-      "duration_ms": 252374,
-      "name": "Enti\u00e9rrenme Cantando",
-      "url": "https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI"
+      "duration_ms": 227706,
+      "name": "Pu\u00f1o De Tierra Aka Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/0smNhvm21KgOkfrdaEaZqy"
     },
     {
       "added_at": null,
@@ -375,6 +359,22 @@
       "duration_ms": 167160,
       "name": "Cuando Yo Era Un Jovencito",
       "url": "https://open.spotify.com/track/1AmTaFC0Pfr1opxgUEkO3W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PURA MUSICA DE CANTINA",
+        "url": "https://open.spotify.com/album/17S07IHyOj067N2Q7ffz4Z"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 252374,
+      "name": "Enti\u00e9rrenme Cantando",
+      "url": "https://open.spotify.com/track/04vH8GYCVFxARTN7LydGdI"
     },
     {
       "added_at": null,
@@ -475,22 +475,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "40 \u00c9xitos",
-        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 226360,
-      "name": "Un Pu\u00f1o De Tierra",
-      "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Recu\u00e9rdame Y Ven A M\u00ed",
         "url": "https://open.spotify.com/album/1X2Hj21Lb5nOpaHlZpYLnU"
       },
@@ -503,6 +487,22 @@
       "duration_ms": 185280,
       "name": "Recuerdos Tristes",
       "url": "https://open.spotify.com/track/7ddBBqgSFD17sJUjkdROAK"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "40 \u00c9xitos",
+        "url": "https://open.spotify.com/album/7L9TeAqSwkvSkFzyogoVxd"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 226360,
+      "name": "Un Pu\u00f1o De Tierra",
+      "url": "https://open.spotify.com/track/466JLm2qQmjOzfbee0PIg6"
     },
     {
       "added_at": null,
@@ -763,22 +763,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Casas de Madera",
-        "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
-      },
-      "artists": [
-        {
-          "name": "Ramon Ayala Y Sus Bravos Del Norte",
-          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
-        }
-      ],
-      "duration_ms": 235706,
-      "name": "M\u00e1ndame A La Tumba",
-      "url": "https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rinconcito En El Cielo",
         "url": "https://open.spotify.com/album/0fwOf6VXJiMV12WfFIlSDr"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 161560,
       "name": "Amor Vaquero",
       "url": "https://open.spotify.com/track/4mfeFlSkg2PHY3Gf5iYuGU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Casas de Madera",
+        "url": "https://open.spotify.com/album/0WqOmaMS6vSvntxrzo22EM"
+      },
+      "artists": [
+        {
+          "name": "Ramon Ayala Y Sus Bravos Del Norte",
+          "url": "https://open.spotify.com/artist/5j9R5dTGerKvdXopZnfJh9"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "M\u00e1ndame A La Tumba",
+      "url": "https://open.spotify.com/track/0b0cFie5DLwExBHq0Oo7oi"
     }
   ],
   "unique_name": "This Is Ramon Ayala Y Sus Bravos Del Norte",

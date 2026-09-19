@@ -4,7 +4,7 @@
 
 > Warm and cozy acoustic instrumentals.
 
-431 songs - 19 hr 18 min
+434 songs - 19 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,6 +240,7 @@
 | [Meet Me When I Come](https://open.spotify.com/track/6A4OZEbZdVXcWa79ZhanWN) | [Brett Williams](https://open.spotify.com/artist/15f9QL7XLBeC7W5mRsxBpN) | [Meet Me When I Come](https://open.spotify.com/album/5n6VG1x2YR6D8xVDrpFGaL) | 3:11 | 2023-06-22 | 2024-02-02 |
 | [Meeting and Passing](https://open.spotify.com/track/1V6MaIG0Ad0WTXIFYJJHmw) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Meeting and Passing](https://open.spotify.com/album/5jwABaertIL4wbwvMDGlfu) | 2:41 | 2025-07-22 |  |
 | [Melrose](https://open.spotify.com/track/5ngbgfC1bhMA7WMxzH9Cfe) | [Olma](https://open.spotify.com/artist/0jgC3HsKV46vXA8wsaZFuP) | [Melrose](https://open.spotify.com/album/6Z1EwaLJ7zU8SaGywp0pSj) | 2:04 | 2022-05-13 | 2022-06-10 |
+| [Mending Wall](https://open.spotify.com/track/7tdnauJhZjAn3THCaa5thS) | [Sven Simons](https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU) | [Mending Wall](https://open.spotify.com/album/1yVKdwUc4z2WJZoApRdY6s) | 2:23 | 2026-09-18 |  |
 | [Millstätter See](https://open.spotify.com/track/1f2ZxUgU6d5gp7pRyz35I0) | [Andreas Horschel](https://open.spotify.com/artist/7jtXTNxn8Q0LVzvSjIlldV) | [Millstätter See](https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG) | 2:37 | 2023-03-31 |  |
 | [Mindset](https://open.spotify.com/track/4KGyiKKDpKNGcn46Nbz5qj) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Mindset](https://open.spotify.com/album/402gxdke8XzhCG8MKkXT4b) | 2:25 | 2024-10-01 |  |
 | [Mist on Water](https://open.spotify.com/track/4UD4lu6cPROXEGSeJGp1BW) | [Enzo Costa](https://open.spotify.com/artist/08bZKTxSPaQAvmzc5YvDAQ) | [Mist on Water](https://open.spotify.com/album/0sLeBGncP7adWV4bDnqUnN) | 2:36 | 2025-12-03 |  |
@@ -253,6 +254,7 @@
 | [Morning Mist](https://open.spotify.com/track/3a6sXii4VwApu2WTxYMBtn) | [Staffan Carlén](https://open.spotify.com/artist/1KBpWE9XJDISBwQ0PKkf0g) | [Morning Mist](https://open.spotify.com/album/7j3yVrwdKhzMs1rQIIuHQP) | 2:44 | 2022-05-13 | 2022-06-10 |
 | [Mountain Chant](https://open.spotify.com/track/0csG0Uzl98JwzCPbtH6CHr) | [Robert Delofeu](https://open.spotify.com/artist/05HoDshGmaZHJBCs6HWFA3) | [Mountain Chant](https://open.spotify.com/album/0f2aP7y51qVgN8hgz0N7Yx) | 2:07 | 2024-10-23 |  |
 | [Mulholland Drive](https://open.spotify.com/track/0NC6A6tgBtSpxAj0qYFZrS) | [William Bilford](https://open.spotify.com/artist/7LVVFIS8cyyb9aM5OV3Im0) | [Mulholland Drive](https://open.spotify.com/album/5KzdfPbNX3oTV87uK4Ownn) | 1:57 | 2022-05-13 | 2023-09-16 |
+| [My favorite flower](https://open.spotify.com/track/7kQPoZ9q5p0hin7xz4Xrg2) | [J\. Kahnberg](https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs) | [My favorite flower](https://open.spotify.com/album/4iLbT8UdyfjyQcTT56hZwG) | 2:35 | 2026-09-18 |  |
 | [My Favorite Memory Of You](https://open.spotify.com/track/7qQi4pHT2tdu32Po9MsrME) | [Derek Shearer](https://open.spotify.com/artist/3W51gb95wAmpctfOfM9no0) | [My Favorite Memory Of You](https://open.spotify.com/album/6E3b4wqXPPhV56yW6vxDia) | 3:42 | 2022-05-13 | 2022-05-27 |
 | [My Heart In Your Hands](https://open.spotify.com/track/5MxdTIHlQxvk9qMAcuLp7e) | [Equanimity Seekers](https://open.spotify.com/artist/6oXndPl70FAG2e2h7ttCge) | [My Heart In Your Hands](https://open.spotify.com/album/0JNhtB6qvXWnYp1VpKOsLR) | 2:42 | 2022-05-13 | 2023-06-23 |
 | [Name in the sand](https://open.spotify.com/track/704mqSXh2SSuB2uFyluxTt) | [Jim Nash](https://open.spotify.com/artist/5Q8X9eQtzN2M4kpgxOMp2m) | [Name in the sand](https://open.spotify.com/album/2Iet70zsUPRRIBlm0MNGAT) | 1:47 | 2023-08-11 | 2023-09-16 |
@@ -286,7 +288,7 @@
 | [Quality Craftsmanship](https://open.spotify.com/track/0BoV3iHQDjg8f1RI1jHR6B) | [Joshua Cipolla](https://open.spotify.com/artist/1dc27rgyTY82CaorqruMi1) | [Quality Craftsmanship](https://open.spotify.com/album/3AZbol8ntAqXNrUJOelRwX) | 2:16 | 2022-05-13 | 2023-03-31 |
 | [Question to Answer](https://open.spotify.com/track/62KO5To5TYAmJu6PRFRuJd) | [Sam Stone](https://open.spotify.com/artist/0Ostoo9TfYaBuDd5QdHz28) | [Question to Answer](https://open.spotify.com/album/2s24dE6W3E2yKSVtRvRYiy) | 2:36 | 2025-08-26 |  |
 | [Quiet Company](https://open.spotify.com/track/7aWnaIWr9ODUy6XeDWNThT) | [Camilo Branca](https://open.spotify.com/artist/2jH6TryZOIvoPpQqb1hRmc) | [Quiet Company](https://open.spotify.com/album/5WBcOx4C4KhNTmMgrg3Kse) | 2:19 | 2025-11-24 |  |
-| [Quiet times](https://open.spotify.com/track/46I0z7KOabwM2XNLZNgYkH) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Quiet times](https://open.spotify.com/album/2McekGiCV75q2JlsnXWz6E) | 2:09 | 2024-04-19 |  |
+| [Quiet times](https://open.spotify.com/track/46I0z7KOabwM2XNLZNgYkH) | [Yolanda Rae](https://open.spotify.com/artist/7hVOcrYbi7ru9tDmWqZnIx) | [Quiet times](https://open.spotify.com/album/2McekGiCV75q2JlsnXWz6E) | 2:09 | 2024-04-19 | 2026-09-19 |
 | [Rainy Window](https://open.spotify.com/track/7qtNQxxjeHjxZPszQWrpRW) | [Daria Semikina](https://open.spotify.com/artist/1DEdteKCepxFJObz41bCVO) | [Heart Strings](https://open.spotify.com/album/4iorPBHCd2puA6SKUKbiLl) | 3:42 | 2022-05-13 | 2022-06-10 |
 | [Ravel’s Dream](https://open.spotify.com/track/4N2yJrCq7yl7ArlD3GbsWC) | [Dieter Huber](https://open.spotify.com/artist/2wdHPx6lvGu3MvTH61uvTi) | [Ravel’s Dream](https://open.spotify.com/album/1balSNUaDGLmZA8kspVEPE) | 2:25 | 2024-09-03 | 2025-04-30 |
 | [raven](https://open.spotify.com/track/5o6X2A8XqhphXjR5kpIQXy) | [Finlep](https://open.spotify.com/artist/1CIIFCOCvjPkzlNRxw0XNp) | [raven](https://open.spotify.com/album/0XUjhMDUqt4OxUujlgZTgl) | 3:56 | 2022-05-13 | 2024-04-06 |
@@ -327,6 +329,7 @@
 | [Sleeping In](https://open.spotify.com/track/5VLRRFirz43glb8VaLi0u5) | [Damien Adams](https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg) | [Sleeping In](https://open.spotify.com/album/74gHriyoqihLtwbA9LdyTG) | 3:00 | 2023-03-10 | 2024-02-23 |
 | [Slowed by Time](https://open.spotify.com/track/4jdOVJzC2JYKMwfgat1Rdh) | [Logan Connors](https://open.spotify.com/artist/5isnVGl3x963Fl8DCH1zsk) | [Slowed by Time](https://open.spotify.com/album/3sNV8v8XF2A15Ai4lFzBfX) | 2:18 | 2025-06-11 |  |
 | [Slowly Rising](https://open.spotify.com/track/6uQxV9Y845sCOJju5miIXy) | [Max Stewart](https://open.spotify.com/artist/3QVwxtN8aGF1GSyZqqcEow) | [Slowly Rising](https://open.spotify.com/album/23blTYLSSf3L1bGPNBVVnM) | 2:16 | 2025-02-19 |  |
+| [Snow Melting](https://open.spotify.com/track/4Y2vqXkbcr0OIVuEcqMQHI) | [Antonio Boulevard](https://open.spotify.com/artist/41RSV4AuIGcLiAUFwrXMm3) | [Snow Melting](https://open.spotify.com/album/4dmET3EZcXsra2imoUF6xH) | 2:07 | 2026-09-18 |  |
 | [Soft Echoes](https://open.spotify.com/track/3pZt1uUb7bgSADqm3smoMo) | [Colin Weary](https://open.spotify.com/artist/5z9QoWPwVN58RPnYjpPgEO) | [Soft Echoes](https://open.spotify.com/album/0FcwvBp2L2pKv1pdgXbvyV) | 3:27 | 2023-01-20 | 2024-05-25 |
 | [Some Relief](https://open.spotify.com/track/6pa3sT6pQ7OmqTQDQrr9Qj) | [Leo Ek](https://open.spotify.com/artist/0X9FoBNRpQYrWqcDPVBtRm) | [Some Relief](https://open.spotify.com/album/5ZVDW1j5RqiwtBBuwGFgib) | 2:31 | 2024-09-03 |  |
 | [Something Special](https://open.spotify.com/track/48KSYU3Ek5PBtRKNgcGoLS) | [Leo Krepper](https://open.spotify.com/artist/67l42DKf27egbfdp0XLpY0) | [Something Special](https://open.spotify.com/album/45ClUpyAnFBixVMmY9hcUm) | 2:48 | 2022-05-13 | 2022-06-10 |

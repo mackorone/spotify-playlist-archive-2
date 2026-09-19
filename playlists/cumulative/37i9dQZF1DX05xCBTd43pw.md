@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Kings Elliot
 
-586 songs - 1 day 6 hr 24 min
+586 songs - 1 day 6 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -522,12 +522,12 @@
 | [Toro](https://open.spotify.com/track/160NRR8Ol1CwAMNnjM2COC) | [LieVin](https://open.spotify.com/artist/4bCEw9lXrhxvEZQHxD8tJU), [L Loko](https://open.spotify.com/artist/6iI54kPtuDGxFe6T3eIR53), [Drini](https://open.spotify.com/artist/5tRlhg6J2lBxI7Qb4IfL00) | [Toro](https://open.spotify.com/album/0wNk0P72mbxhAx1I6UcrZ6) | 2:31 | 2025-04-24 | 2025-05-02 |
 | [Toti Chatz](https://open.spotify.com/track/5K1QCmyfRpGylVR3Cj6Gj6) | [Dachs](https://open.spotify.com/artist/04LdKPNs0taDflOxwGZCGe) | [Toti Chatz](https://open.spotify.com/album/6kWFAwpZ9L7wd9FeZH6v7v) | 3:30 | 2025-04-24 | 2025-05-02 |
 | [Toxic Love](https://open.spotify.com/track/2qmKkXEWSvNdF72humhk4G) | [Marius Bear](https://open.spotify.com/artist/6thEUEg4pJq0H4aLVqNMwb) | [When We Get There We'll Know 2.0](https://open.spotify.com/album/7yZdmwtFDpy8gxEBMEn6cN) | 3:13 | 2025-06-13 | 2025-08-10 |
-| [Track 8](https://open.spotify.com/track/6S5TA6mJyIll0WF1lD23bL) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [20 SOMETHING IS A F\*CKING STRANGE PLACE](https://open.spotify.com/album/5aW1dSPLvETJtyMzsG0Wws) | 0:00 | 2026-09-17 |  |
 | [Trade Hearts](https://open.spotify.com/track/6ABj99azBSfIGjLEG06BxT) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg) | [Trade Hearts](https://open.spotify.com/album/6aajMo7t2WqdeNva5ThW28) | 2:54 | 2024-06-27 | 2025-05-30 |
 | [Trapped in the Middle](https://open.spotify.com/track/5auKT8Cuq3ROPPRxZhMlle) | [Joya Marleen](https://open.spotify.com/artist/4vaE77ooZ6reoKW8b7YTeb) | [Trapped in the Middle](https://open.spotify.com/album/4g4OlXckIGoy5C7zMYskaw) | 2:18 | 2025-09-25 |  |
 | [Tribut](https://open.spotify.com/track/0N1AE3zqGZYLmvffDCJkNy) | [Lo & Leduc](https://open.spotify.com/artist/4VxxrJptDJKGOsKvb8jcVe) | [Tribut](https://open.spotify.com/album/6CR79CTeKXHzHlRoDyDStP) | 3:17 | 2024-06-27 | 2025-09-20 |
 | [trop tard](https://open.spotify.com/track/7FcgfdaESPyI7MVgItXpob) | [Nomuel](https://open.spotify.com/artist/0Hz78L3EHCCOdD4hWEiWMY) | [trop tard](https://open.spotify.com/album/4Rhio8XlmhIDdq9CT1fehd) | 2:57 | 2025-07-10 | 2025-07-30 |
 | [Träumer](https://open.spotify.com/track/3zZT2tVOOvoeXhCXHXwLxe) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Träumer](https://open.spotify.com/album/2yxljgT0voJDYx4vQUq7Hi) | 3:29 | 2025-05-08 | 2025-05-16 |
+| [Twenty Something](https://open.spotify.com/track/6S5TA6mJyIll0WF1lD23bL) | [LEILA](https://open.spotify.com/artist/4Ug2xY5mJFUqx4UkrggYLg) | [20 SOMETHING IS A F\*CKING STRANGE PLACE](https://open.spotify.com/album/5aW1dSPLvETJtyMzsG0Wws) | 2:48 | 2026-09-17 |  |
 | [Type Of Way](https://open.spotify.com/track/21ZNEpSVD3aawNNRmed3uV) | [Marlin](https://open.spotify.com/artist/4CYjGEYERBkCTF2fK2QjVG) | [Type Of Way](https://open.spotify.com/album/3ZaRCKIxP10Nf10xjirFfj) | 3:14 | 2026-02-19 |  |
 | [Tú y Yo](https://open.spotify.com/track/1s5YXOdmyNk0KLEbKcKCRz) | [Loco Escrito](https://open.spotify.com/artist/00UMLCX51uNiBzMhQKlwyQ) | [Tú y Yo](https://open.spotify.com/album/3E2PiQa0TO3ecSgrDDzN4e) | 2:44 | 2024-06-27 | 2025-09-13 |
 | [Underwater](https://open.spotify.com/track/5qGXpVbI6aWB2of5lT0tcM) | [Remo Forrer](https://open.spotify.com/artist/7LtDT7MR8nsSZxTxcp1glk) | [Underwater](https://open.spotify.com/album/75KpfrUDdlKegdLEmmyS9I) | 2:44 | 2025-02-07 |  |

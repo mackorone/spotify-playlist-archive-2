@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ldddduma5t.md) - [plain]
 
 > Check out the best new music videos from around the world\. Music videos only available on Premium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,321 likes - 30 songs - 1 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,411 likes - 30 songs - 1 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ldddduma5t.md) - [plain]
 | 29 | [Stay Gone](https://open.spotify.com/track/2arjC99T7tiLwCpSFklmmO) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Stay Gone](https://open.spotify.com/album/0fAfTDRDjfWjs4YryqQARn) | 4:27 |
 | 30 | [4AM](https://open.spotify.com/track/2m0LVMnYGn9AXBllkkWcDI) | [Nemzzz](https://open.spotify.com/artist/3DHtfeD4PsmR9YGhCP4VF7) | [4AM](https://open.spotify.com/album/1Z0nnNdSO57sk7ENh7EHY7) | 2:35 |
 
-Snapshot ID: `AAAAAPtvWOf/HnS8Icirza75vzCRmJjP`
+Snapshot ID: `AAAAAEAFo2UTxP3kh+SQZkX7buWOqypf`

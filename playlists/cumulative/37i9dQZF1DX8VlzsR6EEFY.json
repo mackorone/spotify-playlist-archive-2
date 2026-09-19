@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-03-09",
-  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Asmed y Moy Bobadilla en portada \ud83c\udf39",
+  "description": "Lo m\u00e1s fresco de la <a href=\"spotify:genre:0JQ5DAqbMKFDTEtSaS4R92\"> M\u00fasica Mexicana</a>, las que van pegar. Raymix en portada \ud83c\udf39",
   "name": "La Miscel\u00e1nea",
   "tracks": [
     {
@@ -504,6 +504,24 @@
       "duration_ms": 227696,
       "name": "Amor Clandestino - Versi\u00f3n Regional Mexicano",
       "url": "https://open.spotify.com/track/5qZaNA8FPzxPEtOaRj9zeY"
+    },
+    {
+      "album": {
+        "name": "Raymix X",
+        "url": "https://open.spotify.com/album/4YBHbLRO6mrkG4QC3p9cfD"
+      },
+      "artists": [
+        {
+          "name": "Raymix",
+          "url": "https://open.spotify.com/artist/0hHT2BH7XTm3ZdZb6CX064"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 255326,
+      "name": "Amor Incondicional",
+      "url": "https://open.spotify.com/track/5CKScf4f1WFhzhiHw6v3ND"
     },
     {
       "album": {
@@ -2418,7 +2436,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 156818,
       "name": "El Ranchero Chido",
       "url": "https://open.spotify.com/track/7xyvjI0IPfcCb2dGXM7k2q"
@@ -3174,7 +3192,7 @@
       ],
       "date_added": "2025-04-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 163655,
       "name": "Hoy Muere un Rom\u00e1ntico",
       "url": "https://open.spotify.com/track/2pOkxxJxSTzMbbASfFWoVM"
@@ -4645,6 +4663,28 @@
     },
     {
       "album": {
+        "name": "Mami",
+        "url": "https://open.spotify.com/album/2qwDdtnfWmVY1DuQ8tSrvp"
+      },
+      "artists": [
+        {
+          "name": "HUGEL",
+          "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
+        },
+        {
+          "name": "Neton Vega",
+          "url": "https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144843,
+      "name": "Mami",
+      "url": "https://open.spotify.com/track/3py6ylZiCGaPQa1MWltbTz"
+    },
+    {
+      "album": {
         "name": "Manos De Tijera",
         "url": "https://open.spotify.com/album/0P6t2omP7inmRkHnnQuWcp"
       },
@@ -5876,7 +5916,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 196166,
       "name": "Obvio No",
       "url": "https://open.spotify.com/track/0ggedvT3TQhCOti5AKrvVU"
@@ -8159,6 +8199,24 @@
     },
     {
       "album": {
+        "name": "DESDE EL WESTERN CLUB VOLUMEN 4",
+        "url": "https://open.spotify.com/album/7MAgdNwz54nmwx76Yn4k6X"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208615,
+      "name": "UN HOMBRE NORMAL",
+      "url": "https://open.spotify.com/track/0VMjyuqjebhfnXL8FUwXqm"
+    },
+    {
+      "album": {
         "name": "Un Terrenito en Tu Vida",
         "url": "https://open.spotify.com/album/2Uh5oJkecjBWisNxKNmISj"
       },
@@ -8450,6 +8508,24 @@
       "duration_ms": 159581,
       "name": "Vueltas",
       "url": "https://open.spotify.com/track/0UP0Mahe68ecSjuVrAYR97"
+    },
+    {
+      "album": {
+        "name": "Entre Copas y Verdades",
+        "url": "https://open.spotify.com/album/6uar0qbeXsYa5uCgMMQ6ze"
+      },
+      "artists": [
+        {
+          "name": "Superiores de Nuevo Leon",
+          "url": "https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204508,
+      "name": "Y Si Tomo Y Tomo",
+      "url": "https://open.spotify.com/track/7z0W6WQMPJx5qQ7P91JdLq"
     },
     {
       "album": {
@@ -8766,7 +8842,7 @@
       ],
       "date_added": "2026-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 140854,
       "name": "\u00bfARDIDA QUI\u00c9N?",
       "url": "https://open.spotify.com/track/0gCqNU4anOEcpwUY0u44br"

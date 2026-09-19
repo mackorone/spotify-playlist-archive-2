@@ -2,9 +2,9 @@
 
 ### [RADAR México](https://open.spotify.com/playlist/37i9dQZF1DXbpJNWtkXDpL)
 
-> Descubre el futuro de la música en México en compañía de 8uno y DENNA LA PORRI
+> Descubre el futuro de la música en México en compañía de iza tkm y Zenei
 
-571 songs - 1 day 5 hr 16 min
+572 songs - 1 day 5 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -357,7 +357,7 @@
 | [No Quiero Llorar](https://open.spotify.com/track/3wNfYe0jVuk14kY028HzK1) | [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [No Quiero Llorar](https://open.spotify.com/album/3PgJ2wWIEOTu7smbdou1La) | 3:12 | 2023-04-18 | 2024-02-13 |
 | [No Se Da](https://open.spotify.com/track/6TU0aXrBCJRerU3D5m10zL) | [Ely Blancarte](https://open.spotify.com/artist/1IncEJiDn0fbUO0rDQkqB2), [Fran Zata](https://open.spotify.com/artist/38qrFBs12feiiLMMcLWekk) | [No Se Da](https://open.spotify.com/album/5ZLdaoqUAzavTeIuRS1Mt8) | 2:26 | 2021-10-01 | 2022-05-08 |
 | [No Se Si Es Amor](https://open.spotify.com/track/1C57mFhSPwsyzJAlRVspVW) | [Uriel S\. Vázquez](https://open.spotify.com/artist/4s3ux0QXjgaBei8QhxipQ4) | [No Se Si Es Amor](https://open.spotify.com/album/2ESiTaW63HIxQdFiJriEvQ) | 2:32 | 2026-06-22 | 2026-09-05 |
-| [NO SÉ NI CÓMO ESTÁS](https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [NO SÉ NI CÓMO ESTÁS](https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv) | 3:12 | 2026-04-17 |  |
+| [NO SÉ NI CÓMO ESTÁS](https://open.spotify.com/track/1lwrgze63fFxlH9F8g4Pzx) | [Mario Santander](https://open.spotify.com/artist/4bYye4gNgarsr9PjUuUFrS), [matt](https://open.spotify.com/artist/6p5YTwc0ujpm6YXoy9Wgxy) | [NO SÉ NI CÓMO ESTÁS](https://open.spotify.com/album/0QN6QF3sNEnbi8GgyHSjKv) | 3:12 | 2026-04-17 | 2026-09-19 |
 | [No Vale la Pena](https://open.spotify.com/track/0fAGO86gKgFmeOLXATLyor) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Vale la Pena](https://open.spotify.com/album/2n3yISkNF3ZUfVzwplQiKV) | 3:38 | 2022-05-13 | 2022-07-29 |
 | [No Vale La Pena](https://open.spotify.com/track/6L2vmngcyjUFuwRBCJCNqA) | [La Santa Grifa](https://open.spotify.com/artist/1oH2B8tcHn4Gpl2bmmyd4A), [Elie Tigre](https://open.spotify.com/artist/6tM7AHGyfVc57FK5hZlEd1) | [No Vale la Pena](https://open.spotify.com/album/1Xf1J2t3uTb2dMgnH3gout) | 3:38 | 2022-05-13 | 2022-12-22 |
 | [No Voy A Llorar](https://open.spotify.com/track/3v6f1Bn9Pyz6NkI2ISINPt) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [No Voy A Llorar](https://open.spotify.com/album/7BP2b79XEPJYHEgChKkiF6) | 3:17 | 2021-10-01 | 2022-05-10 |
@@ -480,6 +480,7 @@
 | [Soy El Unico](https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Obsessed \(Deluxe\)](https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq) | 3:33 | 2022-05-13 | 2023-04-19 |
 | [Soy El Unico](https://open.spotify.com/track/6HJIZUOiZDE814XMhRGSZN) | [Yahritza Y Su Esencia](https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A) | [Soy El Unico](https://open.spotify.com/album/5oPFcz7IZOyJKNdJ08HXQl) | 3:33 | 2022-05-09 | 2022-07-29 |
 | [Soy Un Bombón](https://open.spotify.com/track/1xXXDSbb411DEeiRAsmmVg) | [Pau Laggies](https://open.spotify.com/artist/4yxXxMpC0bNGbc1LePew2t) | [Soy Un Bombón](https://open.spotify.com/album/2sYKhPMNMnZRlpxR64qE6K) | 2:17 | 2021-10-01 | 2022-05-12 |
+| [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [Zenei](https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u) | [soñé la respuesta pero no recuerdo \(RADAR México\)](https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn) | 3:09 | 2026-09-18 |  |
 | [Sticky](https://open.spotify.com/track/7w5URvpnvMCDZo7z3wOPrZ) | [La Favi](https://open.spotify.com/artist/5lnsY88L4HEVxNUMCefego), [Foudeqush](https://open.spotify.com/artist/0XFgM33h3Ls5tj1M9IKUWd), [MONVCO](https://open.spotify.com/artist/1rGlHeD5HzcjBJiW7kq7ZJ), [KALIFRN](https://open.spotify.com/artist/5Kj0ySkgBEbDp0Xk3Qwl5n) | [Sticky](https://open.spotify.com/album/2YqknpnTeKNkJUJqK8w098) | 2:38 | 2025-05-23 | 2026-04-18 |
 | [SUERTE](https://open.spotify.com/track/5F3dwmIaUfOhUrg1ybapLD) | [kor!](https://open.spotify.com/artist/1I20nipdKCbAY4mrnI78xK), [ZEEVA](https://open.spotify.com/artist/5c7xVgAzKeYYrYnKTrHELH) | [SUERTE](https://open.spotify.com/album/2Cp3v7YCr64yi4H7S1sjBF) | 2:57 | 2025-10-03 | 2026-04-18 |
 | [Sumérgete](https://open.spotify.com/track/4e3DsTwu1VOzh0Su0OKp1A) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Petite Amie](https://open.spotify.com/album/28TqzlvN2K0te8ssOfwnLu) | 3:22 | 2021-10-01 | 2022-07-06 |

@@ -1,12 +1,12 @@
 {
   "description": "Die Playlist, die dich f\u00fchlt. Cover: Paula Hartmann",
-  "num_followers": 475796,
+  "num_followers": 475782,
   "original_name": "me right now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKdTT4WxiBYXQQAwpcTb26j32k8x",
+  "snapshot_id": "AAAAAIM53IxM3WLyIlDr9ZQQvgWmLJpG",
   "tracks": [
     {
       "added_at": "2026-09-17 22:00:48",
@@ -242,10 +242,18 @@
         {
           "name": "Dani Lia",
           "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        },
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 161663,
+      "name": "verg\u00f6tter mich (mit b\u00fcrgermeisterin von wien)",
       "url": "https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg"
     },
     {

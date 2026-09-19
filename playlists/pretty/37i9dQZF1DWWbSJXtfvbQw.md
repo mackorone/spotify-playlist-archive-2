@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 
 > The biggest songs in Latin America in 2016\. Cover: Shakira
 
-[Spotify](https://open.spotify.com/user/spotify) - 74,618 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 74,645 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWbSJXtfvbQw.md) - [plain]
 | 49 | [Cuando Se Pone a Bailar](https://open.spotify.com/track/1MpKZi1zTXpERKwxmOu1PH) | [Rombai](https://open.spotify.com/artist/5KQX0Ui06LVm6PApyicRFK) | [Cuando Se Pone a Bailar](https://open.spotify.com/album/2PnTfdBKqkOYtazDgtClqX) | 3:15 |
 | 50 | [Embriágame \(feat\. Don Omar\) \- Remix](https://open.spotify.com/track/1WOJTQfNUEkLlsinPP95VM) | [Zion & Lennox](https://open.spotify.com/artist/21451j1KhjAiaYKflxBjr1), [Don Omar](https://open.spotify.com/artist/33ScadVnbm2X8kkUqOkC6Z) | [Motivan2](https://open.spotify.com/album/22lEQJ7khtB2yvsq84FDQb) | 3:50 |
 
-Snapshot ID: `AAAAAC70OuIc1W8+TG0crYQ4Tkz4cQNI`
+Snapshot ID: `AAAAANLQcX1flvipW1MrbXQ5li8x1Q02`

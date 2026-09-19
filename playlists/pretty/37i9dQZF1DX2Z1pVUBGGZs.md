@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 
 > a playlist without boundaries 🚀 cover: Moriah Mensah
 
-[Spotify](https://open.spotify.com/user/spotify) - 294,214 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,194 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Z1pVUBGGZs.md) - [plain]
 | 99 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 |
 | 100 | [Bone Structure](https://open.spotify.com/track/42jkxiYg7D05HKmQNsRp8o) | [Dolder](https://open.spotify.com/artist/2zzssv1I5AKOEPI98SZvQb) | [Bone Structure](https://open.spotify.com/album/5Nqd6iPF3I8dFnVw66cFNV) | 3:01 |
 
-Snapshot ID: `AAAAALHLePMJO08SXHsBg2ZM9FMEkaWt`
+Snapshot ID: `AAAAAObVdBAidWEWssJzS2I7EUQOWxz0`

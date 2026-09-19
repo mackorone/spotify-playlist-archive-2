@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "Big rooms and big sounds. Cover: Quintino",
+  "description": "Big rooms and big sounds. Cover: AFROJACK",
   "name": "Big Room Dance",
   "tracks": [
     {
@@ -196,6 +196,28 @@
       "duration_ms": 154000,
       "name": "Acid For Breakfast",
       "url": "https://open.spotify.com/track/5GWuNgdeHmy37dTDYOe9Ql"
+    },
+    {
+      "album": {
+        "name": "Acid Nation",
+        "url": "https://open.spotify.com/album/7Efv1g56HWe1xuTk9x2qi0"
+      },
+      "artists": [
+        {
+          "name": "Marie Vaunt",
+          "url": "https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5"
+        },
+        {
+          "name": "Bassjackers",
+          "url": "https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183552,
+      "name": "Acid Nation",
+      "url": "https://open.spotify.com/track/6LZXZdkvpJ1f2tDXc5jzIF"
     },
     {
       "album": {
@@ -766,7 +788,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 113586,
       "name": "Arriba",
       "url": "https://open.spotify.com/track/1De64hyRaLVuef35R9mAyE"
@@ -1783,6 +1805,24 @@
     },
     {
       "album": {
+        "name": "Born Loud",
+        "url": "https://open.spotify.com/album/5V2nn01QjRXpwCpSUoZEQ1"
+      },
+      "artists": [
+        {
+          "name": "Blasterjaxx",
+          "url": "https://open.spotify.com/artist/37awA8DFCAnCCL7aqYbDnD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132800,
+      "name": "Born Loud",
+      "url": "https://open.spotify.com/track/1M6VqVGHErJ2qy0STOrFCK"
+    },
+    {
+      "album": {
         "name": "Born Slippy",
         "url": "https://open.spotify.com/album/40EgK2IAORBQhNBKmK2Tzs"
       },
@@ -2222,7 +2262,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 142384,
       "name": "Calling",
       "url": "https://open.spotify.com/track/0q7VZvqvkt0atX2QJTxwNv"
@@ -5601,6 +5641,36 @@
     },
     {
       "album": {
+        "name": "Greece 2000",
+        "url": "https://open.spotify.com/album/486r67S25fR7bppJz4bGSa"
+      },
+      "artists": [
+        {
+          "name": "Mike Williams",
+          "url": "https://open.spotify.com/artist/3IpvVrP3VLhruTmnququq7"
+        },
+        {
+          "name": "Three Drives",
+          "url": "https://open.spotify.com/artist/6zgVdOBoN1Fu4JGqd9SZlG"
+        },
+        {
+          "name": "Three Drives On A Vinyl",
+          "url": "https://open.spotify.com/artist/10feV0eOe64kjUc95Lnfuv"
+        },
+        {
+          "name": "ANTICALM",
+          "url": "https://open.spotify.com/artist/4ZxKGoXptSllXcXhlpbD5B"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156363,
+      "name": "Greece 2000",
+      "url": "https://open.spotify.com/track/6Eu2xJ7EQTnkXZepNKejqa"
+    },
+    {
+      "album": {
         "name": "Greece 2021",
         "url": "https://open.spotify.com/album/3RBDiTNxMfORg1PAcCn4XK"
       },
@@ -6256,7 +6326,7 @@
       ],
       "date_added": "2026-04-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 195692,
       "name": "Higher When I Rise",
       "url": "https://open.spotify.com/track/45vv0ZVpJ8sCh08YQtRQlT"
@@ -7887,6 +7957,36 @@
     },
     {
       "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/7irXcUZhy8nyX0YKQbagpv"
+      },
+      "artists": [
+        {
+          "name": "HAL\u014c",
+          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214696,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1"
+    },
+    {
+      "album": {
         "name": "Living On Video (feat. DTale) [Festival Mix]",
         "url": "https://open.spotify.com/album/3ilMBUiEE7oTOExAPwkV84"
       },
@@ -7942,7 +8042,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 190800,
       "name": "Logical Song",
       "url": "https://open.spotify.com/track/6Flu7TXBKytCpITqXTBO2w"
@@ -15075,6 +15175,32 @@
     },
     {
       "album": {
+        "name": "Turn Up The Speakers (Julian Jordan Remix)",
+        "url": "https://open.spotify.com/album/3ls2ibRNHUJwcwQLkGYWFk"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156489,
+      "name": "Turn Up The Speakers - Julian Jordan Remix",
+      "url": "https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM"
+    },
+    {
+      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
       },
@@ -16244,7 +16370,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 155359,
       "name": "Zick Zack",
       "url": "https://open.spotify.com/track/3Y9J7jIrOnVeRUxMhvtEVu"

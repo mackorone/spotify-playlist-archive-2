@@ -2,9 +2,9 @@
 
 ### [Alternative Pride](https://open.spotify.com/playlist/37i9dQZF1DWTMR78LDoAZC)
 
-> Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: MUNA
+> Left of center indie/alternative/rock LGBTQIA+ artists\. Cover: Caroline Rose
 
-301 songs - 16 hr 54 min
+303 songs - 17 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Hanger\-on](https://open.spotify.com/track/3ZxPU3puN1OqItx1pwKZh4) | [Homeschool](https://open.spotify.com/artist/3QSLQuaMerIfT2VHvqObG8) | [Just Now](https://open.spotify.com/album/4eyEhLGWV79klaEqDrHpfT) | 3:28 | 2023-06-01 | 2023-07-05 |
 | [HARDCORE HAPPY](https://open.spotify.com/track/3crc8YzKF41WtRIz1HUmC5) | [THE BLSSM](https://open.spotify.com/artist/7lq7hz0Z6rG6v9zbJRRn4K) | [HARDCORE HAPPY](https://open.spotify.com/album/0TEXITHiEK0QnrcwkicZlG) | 2:49 | 2023-06-01 |  |
 | [Heavy Pour](https://open.spotify.com/track/6PRM5tpuPQbv7y7Jr4lU5m) | [Pillow Queens](https://open.spotify.com/artist/7BDvurihyagH0uSPNDJX7d) | [Name Your Sorrow](https://open.spotify.com/album/2V7E1kGKVpXWyAbRxLsurF) | 3:50 | 2024-06-21 | 2026-06-16 |
+| [Hello Again, Jim](https://open.spotify.com/track/4WA9XCYWwlfSZesVC2TdLy) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Calm](https://open.spotify.com/album/4KgHvvtfb8DxKJxV36gNXb) | 3:26 | 2026-09-18 |  |
 | [Help Myself](https://open.spotify.com/track/0GBgnbJII17LGSXjIjVHT7) | [Evvol](https://open.spotify.com/artist/21drkL18eajEqlnqSAphJm) | [The Power](https://open.spotify.com/album/18p9w3i4FrHnbJVteUocya) | 3:04 | 2021-06-22 | 2022-06-01 |
 | [Here To Dance](https://open.spotify.com/track/2HsdZX6NDNgI7kx5HaOWYr) | [The Veronicas](https://open.spotify.com/artist/1dIdBZaaHRW2bDTkHNfWln) | [Here To Dance](https://open.spotify.com/album/5x39VhgLcnKUQjekc0uZuC) | 2:05 | 2024-05-22 | 2026-08-01 |
 | [HHB](https://open.spotify.com/track/4WU87vmQbci92qkqtE4YGm) | [Tiberius b](https://open.spotify.com/artist/0Kt443UQm5aqR2WCwqSMe0) | [HHB](https://open.spotify.com/album/6PBP9Bdk8OG1CB43RD0NSy) | 3:12 | 2023-06-30 | 2024-06-04 |
@@ -177,6 +178,7 @@
 | [Nothing Good](https://open.spotify.com/track/0AOgY0pLb1m57uB74YPAGt) | [Mavi Phoenix](https://open.spotify.com/artist/0Lt05xaSe2ACmAiSkIdcSm) | [Nothing Good](https://open.spotify.com/album/3sfwcZLjmpkMOcNN7A6omn) | 3:42 | 2021-06-22 | 2022-07-29 |
 | [Nothing Matters](https://open.spotify.com/track/5crY7axm3GejOxy5PsnnPk) | [The Last Dinner Party](https://open.spotify.com/artist/5SHgclK1ZpTdfdAmXW7J6s) | [Prelude to Ecstasy](https://open.spotify.com/album/1ycq58KRtWt3wFtbuIkvLn) | 3:02 | 2024-06-21 |  |
 | [Nothing Surprises Me](https://open.spotify.com/track/2hR2QaeQ29c11a9NNCsyVN) | [Ilgen\-Nur](https://open.spotify.com/artist/4FjRuMCcbAdiYBr47QE3xX) | [Power Nap](https://open.spotify.com/album/6K7Y1NWKzGebau4h4v6gKE) | 2:34 | 2021-06-22 | 2022-07-29 |
+| [Nothing To Do \(nananananana\)](https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5) | [MARIS](https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE) | [MOSH★PIT](https://open.spotify.com/album/6ISPvXakmNusQEkPVseqIg) | 3:24 | 2026-09-18 |  |
 | [Number One Fan](https://open.spotify.com/track/69WAiCaEdxACKzB4B7Bv27) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [Saves The World](https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz) | 3:25 | 2021-06-22 | 2022-06-01 |
 | [NY](https://open.spotify.com/track/6ZDGjhsVQToQK74JfocrhM) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Found](https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx) | 2:14 | 2021-06-22 | 2022-06-01 |
 | [October Passed Me By](https://open.spotify.com/track/0AjcdGri5vhJsmZnduCEqd) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9) | [October Passed Me By](https://open.spotify.com/album/6XtlrNlPUFHcpLS7ImjG3E) | 2:45 | 2023-06-01 |  |
@@ -225,7 +227,7 @@
 | [Ruby Off The Rails](https://open.spotify.com/track/0TaViAtX3IcIJ3Osa5Mofc) | [Sarah and the Safe Word](https://open.spotify.com/artist/4YguD206MPuadAlhnGppL3) | [Ruby Off The Rails](https://open.spotify.com/album/2S8Nzw6qzyQXwPFLJW4WSL) | 3:23 | 2023-06-01 | 2024-05-23 |
 | [Savage Good Boy](https://open.spotify.com/track/0EredcGoVUJTRiBLmwI0AO) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Jubilee](https://open.spotify.com/album/1uD1kdwTWH1DZQZqGKz6rY) | 2:26 | 2022-06-06 | 2023-06-02 |
 | [Savage Good Boy](https://open.spotify.com/track/6mH7lvaAr2Q87Yz6JIeejx) | [Japanese Breakfast](https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw) | [Savage Good Boy](https://open.spotify.com/album/3p84ciTFVs07foaC10DLAp) | 2:26 | 2021-06-22 | 2022-07-29 |
-| [Say It Like You Mean It](https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:44 | 2024-06-21 |  |
+| [Say It Like You Mean It](https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4) | [Sleater\-Kinney](https://open.spotify.com/artist/4wLIbcoqmqI4WZHDiBxeCB) | [Little Rope](https://open.spotify.com/album/7hf2cM8SdK5vdb6SeH2qyM) | 3:44 | 2024-06-21 | 2026-09-19 |
 | [see](https://open.spotify.com/track/3wQ0YkiB06taOuSPjS5xzh) | [Ceréna](https://open.spotify.com/artist/6jdYcGAF6rLHIf1uc21w37) | [see](https://open.spotify.com/album/33TxYcWpcYOUiVcrqKKVrU) | 2:53 | 2021-06-22 | 2022-06-01 |
 | [Self Love](https://open.spotify.com/track/2MBVnShnrBNvjdtMBCWkbp) | [Emily Vu](https://open.spotify.com/artist/3t3oOB1GYe4PFV2X6D29NS) | [Found](https://open.spotify.com/album/5CMCYw32tcYsqrPZnCypHx) | 2:24 | 2022-06-01 | 2023-07-01 |
 | [September](https://open.spotify.com/track/3hKoViubBdwojyrmgnS9LW) | [Jeremy Pope](https://open.spotify.com/artist/524EFpZzvA7B9cdU27Fmm9) | [September](https://open.spotify.com/album/1VbANOHciJzOjiWN1USMGo) | 1:37 | 2021-06-22 | 2022-06-01 |
@@ -259,7 +261,7 @@
 | [Suburbia](https://open.spotify.com/track/5e6F64qyjBbXiPmktOax3t) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Stay Proud of Me](https://open.spotify.com/album/1aGsUoZnjToggqsjIK84nc) | 3:35 | 2023-03-07 | 2025-03-30 |
 | [Suburbia](https://open.spotify.com/track/5my2GN5y6i1KhOYfOByJEn) | [NoSo](https://open.spotify.com/artist/09Wl9YiRr5l1rChWktQD4o) | [Suburbia](https://open.spotify.com/album/3EKorAn8NIq138RN9W6XaC) | 3:35 | 2022-06-01 | 2023-01-25 |
 | [Sugar in the Tank](https://open.spotify.com/track/27Xxf6AtaSpXE47Xzvua9r) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip), [TORRES](https://open.spotify.com/artist/3lrDYjsghBMfUTiLziD9q9) | [Send A Prayer My Way](https://open.spotify.com/album/7wVTqZ02NOssDk9xfo9Imf) | 3:42 | 2025-05-30 |  |
-| [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-06-01 |  |
+| [sulky baby](https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH) | [yeule](https://open.spotify.com/artist/1WZarnZpWEv7dDtjAETt4X) | [sulky baby](https://open.spotify.com/album/3MvISUCBgt0rFXGhuxJ7IJ) | 4:38 | 2023-06-01 | 2026-09-19 |
 | [Sweet Cis Teen](https://open.spotify.com/track/46Boh7rtDSxoEDZ52Qowcc) | [Dazey and the Scouts](https://open.spotify.com/artist/3J8YGHzxEZzHRYVxGmQCvJ) | [Maggot](https://open.spotify.com/album/1qyq3sPzif79oiw9nPN99S) | 4:29 | 2023-05-25 | 2026-04-01 |
 | [Talk Too Much](https://open.spotify.com/track/1ekAgx1qOdnVoSlmkHghKq) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 3:16 | 2024-06-21 |  |
 | [Tears can be so soft](https://open.spotify.com/track/47UhZ9fjTEIOjOe4gktZN9) | [Christine and the Queens](https://open.spotify.com/artist/04vj3iPUiVh5melWr0w3xT) | [Tears can be so soft](https://open.spotify.com/album/1OdiuYoGwzTCuIiSu5v20O) | 5:11 | 2023-06-01 | 2024-06-22 |

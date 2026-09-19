@@ -4,7 +4,7 @@
 
 > Aggressive trap and bass for the <a href="spotify:genre:edm\_dance">gym</a>
 
-501 songs - 1 day 2 hr 37 min
+502 songs - 1 day 2 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,7 +133,7 @@
 | [Emergence](https://open.spotify.com/track/5NM99r8sRxJ1vbVlAopATe) | [YULTRON](https://open.spotify.com/artist/3n2H1XlCyS1WQ0vyVUFEma), [LLLLNNNN](https://open.spotify.com/artist/5EnVoD5aCLkfAkZR6hFrSR) | [Emergence](https://open.spotify.com/album/1ZdDg0Y5tTFYMGlGMN0VJd) | 2:56 | 2022-01-07 | 2022-07-21 |
 | [Eternity](https://open.spotify.com/track/1apKTl69lh4dXHcUOZer8l) | [NOIXES](https://open.spotify.com/artist/4YeITwoqeIks45gELm488B) | [Eternity](https://open.spotify.com/album/3zUXUyx9kx2Pp7ANoLtzxV) | 3:01 | 2021-11-19 | 2022-01-08 |
 | [F U](https://open.spotify.com/track/2eYfS1zUGVLZN0MAgeDqRP) | [SIDEQUEST](https://open.spotify.com/artist/3ke2GnEqLKvhIYrtaRY24x) | [F U](https://open.spotify.com/album/7tkEt619WLeFAQ7jvzKKF9) | 2:11 | 2026-08-07 | 2026-09-18 |
-| [F WHAT U HEARD](https://open.spotify.com/track/1BFSAaGL91tAFRedx1KvXJ) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa), [SHIVERZ](https://open.spotify.com/artist/5POUA3KoQ9Y20hzBuikqim) | [F WHAT U HEARD](https://open.spotify.com/album/2tnTwKysfYdVFQDxLO7LQJ) | 2:53 | 2026-09-11 |  |
+| [F WHAT U HEARD](https://open.spotify.com/track/1BFSAaGL91tAFRedx1KvXJ) | [INFEKT](https://open.spotify.com/artist/3I6KMDdmPiLE5UQ4XF8Kpl), [SampliFire](https://open.spotify.com/artist/57gGqESEggWfCpE3KOzdVa), [SHIVERZ](https://open.spotify.com/artist/5POUA3KoQ9Y20hzBuikqim) | [F WHAT U HEARD](https://open.spotify.com/album/2tnTwKysfYdVFQDxLO7LQJ) | 2:53 | 2026-09-11 | 2026-09-19 |
 | [F.Y.U.](https://open.spotify.com/track/0spwJ193Ph76sWTwoNXkYb) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K) | [F.Y.U.](https://open.spotify.com/album/6VVz3SsKCYbokxhmfzm38Q) | 2:41 | 2023-12-15 | 2026-01-15 |
 | [FACEDOWN](https://open.spotify.com/track/5bBsJxig0Ls4USQqIukB6I) | [Kai Wachi](https://open.spotify.com/artist/2fNr4ldujwq97v1jWeqs8K), [Tisoki](https://open.spotify.com/artist/0XW7mqhbaQnRtHmwfAVg64) | [FACEDOWN](https://open.spotify.com/album/2ynrHhpM9WSDh9Snv0dz1c) | 2:36 | 2026-01-30 |  |
 | [Faded](https://open.spotify.com/track/14HYujR7ZdFWU85rKRWExI) | [Zannen](https://open.spotify.com/artist/2Dtb2Ccia5ZI5BSPuOctuC), [$teven Cannon](https://open.spotify.com/artist/5wK5IsvsDAGMxnPvKyLf2y) | [Faded](https://open.spotify.com/album/3DutHGfBaQnYtiJSlPblod) | 2:56 | 2022-01-07 | 2022-08-03 |
@@ -413,6 +413,7 @@
 | [Soma](https://open.spotify.com/track/6MVLHfS52hKHzbcLtejCWC) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [Nitepunk](https://open.spotify.com/artist/6iPbI11utXY9CVhX6SPXEg) | [SOMA](https://open.spotify.com/album/4vSNQ69cqRe2WgsdPXH3mv) | 3:24 | 2026-06-12 |  |
 | [SONG REQUEST](https://open.spotify.com/track/4ZlcezbAuIfO400BvhlvtD) | [Ray Volpe](https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb) | [SONG REQUEST](https://open.spotify.com/album/1Wq5lav9Emu0I4cVkHwIFz) | 3:24 | 2024-05-31 |  |
 | [SONG SIX \- CloZee Remix](https://open.spotify.com/track/30rKCglfFE6ta2iJfrwaU1) | [Deathpact](https://open.spotify.com/artist/09C3CKFxKEw1n1Z7kvT3jb), [CloZee](https://open.spotify.com/artist/1496XxkytEk26FUJLfpVZr) | [SONG SIX \(CloZee Remix\)](https://open.spotify.com/album/5nw1xSZFsU5Jn4Sphc1I9q) | 3:39 | 2021-11-19 | 2022-01-08 |
+| [sound di alarm](https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng) | [Knock2](https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg) | [sound di alarm](https://open.spotify.com/album/6BIVBxODB2ZY7Xmt9HuyPf) | 3:40 | 2026-09-18 |  |
 | [Speakerbox \(feat\. Lafa Taylor\)](https://open.spotify.com/track/3NPYT4nilQ6YW1uA8I7orI) | [Bassnectar](https://open.spotify.com/artist/1JPy5PsJtkhftfdr6saN2i), [Lafa Taylor](https://open.spotify.com/artist/0j0HBDnIuT6rsn840ec18A) | [Into the Sun](https://open.spotify.com/album/4o64zqena2YeCi6q687ekv) | 4:42 | 2022-07-22 | 2024-02-17 |
 | [Spirits Pt\. 2](https://open.spotify.com/track/1hmiQTBi1ucDbqs0KEJ1c8) | [Party Favor](https://open.spotify.com/artist/7yPPzu5UdAK7yagQqjEZQm), [Lil Gnar](https://open.spotify.com/artist/3EIX8WuD9ybB4ruz0MSilB) | [RESET](https://open.spotify.com/album/4rpqjEDrwQlWPrzkW47bJK) | 2:01 | 2022-06-17 | 2024-11-09 |
 | [SPITFIRE](https://open.spotify.com/track/0IzEFIuQ216h7pq4HKsqY4) | [Skrillex](https://open.spotify.com/artist/5he5w2lnU9x7JFhnwcekXX), [HAWAII SLIM](https://open.spotify.com/artist/2sGZiuhYWjfElrC65muVWz) | [F\*CK U SKRILLEX YOU THINK UR ANDY WARHOL BUT UR NOT!! <3](https://open.spotify.com/album/784znju28Nz5zSuRuthPcO) | 1:29 | 2025-04-04 | 2026-06-13 |

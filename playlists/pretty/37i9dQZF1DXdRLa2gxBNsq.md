@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 
 > No, el punk español NO ESTÁ MUERTO\. Foto: Non Servium.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,075 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,085 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,13 +44,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 34 | [Mi única salida](https://open.spotify.com/track/1Iq05aiCe4fPyJXDiSsHIW) | [Calero LDN](https://open.spotify.com/artist/0VD8vX2wvCYYD0SMFCZeRR), [Endemia](https://open.spotify.com/artist/30HBg18EnoAtgGWVps8nsa) | [Mi única salida](https://open.spotify.com/album/2m91Eba2vl5OSLCpJejcIy) | 3:20 |
 | 35 | [Ahora soy un punkarra](https://open.spotify.com/track/0LxrU6acqExF3yRqm4CGNP) | [Desklate](https://open.spotify.com/artist/1XzYJOnCCtzY8jJtnmjInT) | [Ahora soy un punkarra](https://open.spotify.com/album/1c1By2uCsRcq6TN20WmYFK) | 2:24 |
 | 36 | [Maki Navaja, El Último Chorisso](https://open.spotify.com/track/2hK8ZAY2KgCbla7iZdOyhR) | [Tijuana in blue](https://open.spotify.com/artist/35LHJRKlkpHkACfkoyqqT4) | [A Bocajarro + Sopla Sopla](https://open.spotify.com/album/2QoZ36rmjP1gyQIQ2aAB9r) | 4:49 |
-| 37 | [No Sabemos Perder](https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4), [Dinamita](https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x), [Rotten XIII](https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF) | [No Sabemos Perder](https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz) | 4:00 |
-| 38 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
+| 37 | [Figurante](https://open.spotify.com/track/2Ond4SI9sIodW3sRZs9Ynm) | [Hijos De Nacho Vidal](https://open.spotify.com/artist/0C4EXE8J4wocwa1rVzMmVz) | [Figurante](https://open.spotify.com/album/09lLkyUYYdWGTfaDm6qiSt) | 2:30 |
+| 38 | [No Sabemos Perder](https://open.spotify.com/track/1ZjqPKcnTaLLVo0VIcdJ5u) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4), [Dinamita](https://open.spotify.com/artist/7zmOHB4a4Fo9oS3ZgoHz9x), [Rotten XIII](https://open.spotify.com/artist/17qPb5DXDDbJixc4cmwJiF) | [No Sabemos Perder](https://open.spotify.com/album/7LHgDyGCDBMmfgxcV4oWLz) | 4:00 |
 | 39 | [No Olvidamos, 3 de Marzo](https://open.spotify.com/track/4l7gui5pGuOs7sHLkGqeCX) | [Soziedad Alkoholika](https://open.spotify.com/artist/2S5OOMthdyp3Qu4IbTGAQ3) | [No Olvidamos, 3 de Marzo \- Single](https://open.spotify.com/album/0p3A6vidvVSIaA8lXxATVE) | 3:51 |
 | 40 | [Ellos Dicen Mierda \(Live\)](https://open.spotify.com/track/4ZhVqaagIdAhVswRMxkUTl) | [La Polla](https://open.spotify.com/artist/1hUMfVjUdE0cymGOv2J70J) | [Punk Latino Vol\. 1](https://open.spotify.com/album/1FOLdlGQrTwxpA7nhGd4zN) | 4:26 |
 | 41 | [Rico deprimido \- XX5](https://open.spotify.com/track/5x7dsu12skCbNd5HR05ZcB) | [Kaotiko](https://open.spotify.com/artist/1XwQSgy1ZYGHw8ZryGbT2S) | [Rico deprimido \(XX5\)](https://open.spotify.com/album/5beaDQvsYwZFJWBYvuy50z) | 3:25 |
-| 42 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
-| 43 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 42 | [ANTIFASCISTA](https://open.spotify.com/track/0yIxWJRf96RJds9DQ3tLG3) | [Demenzia Sozial](https://open.spotify.com/artist/7HRSS0s7sgWTvK4q7MDy2O) | [ANTIFASCISTA](https://open.spotify.com/album/7FxgIAAIqupAq0Nslf1VCv) | 4:33 |
+| 43 | [Antifascismo](https://open.spotify.com/track/0V945W0o8KQijRUY98x59d) | [Kaos Urbano](https://open.spotify.com/artist/0u5LMlVeRfZZuh2Nxowii4) | [Antifascismo](https://open.spotify.com/album/1NB2KlLDkVFJLJPlMg7zXU) | 4:20 |
 | 44 | [Molestar](https://open.spotify.com/track/5YH279sUHUCdS8puzhq7ag) | [Segismundo Toxicómano](https://open.spotify.com/artist/0sKBEhvr6hz7Wpptw0fY8U) | [Molestar](https://open.spotify.com/album/1WNGYIGYF0NdeFAZBIAoa8) | 2:38 |
 | 45 | [Amaneceres](https://open.spotify.com/track/6gKydiml5drraNpPnAaAWb) | [No Konforme](https://open.spotify.com/artist/26yvJIyoBOe4vGLB2tlwub), [Kutxi Romero](https://open.spotify.com/artist/3nFnQg8Kav6UMFFjQ1dspY), [Marea](https://open.spotify.com/artist/5EBH204cwRkvAWknwTAjCQ) | [Amaneceres](https://open.spotify.com/album/3kwZQAwgyK6LCOZG3Jz4Wp) | 3:50 |
 | 46 | [Asesinos](https://open.spotify.com/track/0CRt6D5Rvprkc7ldCixcSJ) | [Manifa](https://open.spotify.com/artist/7ynFnXnaMHYbTeT4JQ97tc) | [Asesinos](https://open.spotify.com/album/795sm61CeAsygXN9TlRnNc) | 2:56 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdRLa2gxBNsq.md) - [plain]
 | 99 | [El Infierno Es Demasiado Dulce](https://open.spotify.com/track/4QVgYxK4QKLyeygg5EtSXN) | [Akritud](https://open.spotify.com/artist/42RTZ2sSvtQ2BkzbOT29SX), [Non Servium](https://open.spotify.com/artist/3xyRzXuv0vKb4kCzVhqAbS), [Yugular](https://open.spotify.com/artist/2oBhhi0QflSGHexns2KTsM), [Odio a Muerte](https://open.spotify.com/artist/5JXhckF5PfoPReuIwDuGnS) | [El Infierno Es Demasiado Dulce](https://open.spotify.com/album/66xSqjqAaAlwUgaXEeQJmu) | 2:50 |
 | 100 | [Froilán de Todos los Antros](https://open.spotify.com/track/2532AJjI6LDDL9Ybz8Sl7k) | [Fuckop Family](https://open.spotify.com/artist/0b4TqnnddOeTOuGaWV0KRe), [Lendakaris Muertos](https://open.spotify.com/artist/6x6bFaWdzVQM6e7ke2ysMc) | [Froilán de Todos los Antros](https://open.spotify.com/album/0hhFWgkYXpVX1kFrmqksLE) | 3:40 |
 
-Snapshot ID: `AAAAAOhH+uwCX5FYUz5/eDIkbPo0ZCoc`
+Snapshot ID: `AAAAAEnkDy+z2lgPJEei5K0z0HGlpot+`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 
 > Spotifyが注目する、J\-Hip Hopの「その先」を担うフレッシュなアーティスト。Cover: C6ix
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,753 likes - 99 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,757 likes - 99 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8leXASs2BZ.md) - [plain]
 | 98 | [JIMOTO](https://open.spotify.com/track/4RlUWu8KSLMPJCkhMW6htZ) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [JIMOTO](https://open.spotify.com/album/1uw7pWwVM3aG5R9cjb5p4t) | 2:01 |
 | 99 | [WASSUP \(feat\. NORIKIYO\)](https://open.spotify.com/track/0dHRNAuFbHNnTAx4bWbZPx) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Get Litty? \(Deluxe\)](https://open.spotify.com/album/6UMWTseCkEKRCrR5cJ8DYE) | 2:56 |
 
-Snapshot ID: `AAAAACHvgCv87NDLCM75afY/Bd4BVebN`
+Snapshot ID: `AAAAAORawgPCls5JEQLmcagrRS/uvgF9`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 
 > New and local indie noise\. Cover: The Church
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,014 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,012 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVHkDVXyDP0L.md) - [plain]
 | 99 | [Sick](https://open.spotify.com/track/130iBycjciSRwPJiqZUhyH) | [Mannequin Death Squad](https://open.spotify.com/artist/5AzjW5JyaBBRJR1FUjD9iA) | [Sick](https://open.spotify.com/album/4jENISQSpDe49A133TvPUS) | 3:23 |
 | 100 | [Vultures](https://open.spotify.com/track/0IBIdjCRwtmZfjCf0p0gZp) | [Pool House](https://open.spotify.com/artist/1tCQas73x7KX8maY66bLg4) | [Foreign Films](https://open.spotify.com/album/7eZSuQvSabBuvDe4EDbXfV) | 3:40 |
 
-Snapshot ID: `AAAAAIWXBNfR9f+k3P9KnyUR3IOns3IB`
+Snapshot ID: `AAAAAKsjKt0bU7HY7vQoNt84PZEj0Glb`

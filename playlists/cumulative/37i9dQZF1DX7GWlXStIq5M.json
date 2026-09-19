@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-24",
-  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: DAY LIMNS, Gl\u00f3ria Groove",
+  "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Ananda",
   "name": "Palco POP",
   "tracks": [
     {
@@ -601,6 +601,24 @@
     },
     {
       "album": {
+        "name": "A Minha Flor",
+        "url": "https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX"
+      },
+      "artists": [
+        {
+          "name": "Felipe Lobo",
+          "url": "https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189570,
+      "name": "A Minha Flor",
+      "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
+    },
+    {
+      "album": {
         "name": "A Vida De Uma Gostosa",
         "url": "https://open.spotify.com/album/3lKFu66OVJkAGww20AjXoN"
       },
@@ -962,7 +980,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 165768,
       "name": "afinal o que \u00e9 um amor tranquilo?",
       "url": "https://open.spotify.com/track/3iTYogUAhLKxmkU9xrFEAF"
@@ -4470,7 +4488,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 154285,
       "name": "carne fraca",
       "url": "https://open.spotify.com/track/5MhbiOFEK0Wa2ptHjdLujP"
@@ -7831,6 +7849,24 @@
     },
     {
       "album": {
+        "name": "Errado pra mim",
+        "url": "https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151925,
+      "name": "Errado pra mim",
+      "url": "https://open.spotify.com/track/6EAqA71uEIEtt0QfvU8OAQ"
+    },
+    {
+      "album": {
         "name": "ASTRO",
         "url": "https://open.spotify.com/album/28MLfO3QWZB7lKz73TDdvs"
       },
@@ -10696,6 +10732,24 @@
       "duration_ms": 153088,
       "name": "Imaginando Aquele Dia",
       "url": "https://open.spotify.com/track/6WVzOH9YzOPJg6Q9BAEMVb"
+    },
+    {
+      "album": {
+        "name": "Imagin\u00e1rio",
+        "url": "https://open.spotify.com/album/10HYnS8SsyaCeW39D3I6Vs"
+      },
+      "artists": [
+        {
+          "name": "Mariasss",
+          "url": "https://open.spotify.com/artist/4JcML8YU8ihTAFIwHPuOXw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194769,
+      "name": "Imagin\u00e1rio",
+      "url": "https://open.spotify.com/track/4SEiconHW8TBlkQ4rvvnjo"
     },
     {
       "album": {
@@ -15550,7 +15604,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 145237,
       "name": "N\u00c3O VOU PARAR",
       "url": "https://open.spotify.com/track/61NmBK1EVDR3uqdj6Y15Io"

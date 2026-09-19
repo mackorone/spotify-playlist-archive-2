@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-10",
-  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: FILOU, LeDji",
+  "description": "Le rap qu\u00e9b\u00e9cois, servi tout frais tout chaud. Photo: Shreez, Tizzo, Salgrimo, Le Ice, Peeda, Soft, YoAlain!, Chiko",
   "name": "Rap qu\u00e9b",
   "tracks": [
     {
@@ -108,7 +108,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 127636,
       "name": "15 Nord",
       "url": "https://open.spotify.com/track/0iTep2VVz7Tq70PkxVomCS"
@@ -988,7 +988,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 151874,
       "name": "7ayati",
       "url": "https://open.spotify.com/track/1BN7xAyT8kj44lsdem70kx"
@@ -1882,7 +1882,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 195807,
       "name": "Au final",
       "url": "https://open.spotify.com/track/6roD63p7GhWRT4tYEfDCNc"
@@ -2604,7 +2604,7 @@
       ],
       "date_added": "2024-05-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 227211,
       "name": "Bang",
       "url": "https://open.spotify.com/track/1Cam8hAddVp0uNaUMhUxXD"
@@ -3280,7 +3280,7 @@
       ],
       "date_added": "2025-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 96842,
       "name": "Big Wop",
       "url": "https://open.spotify.com/track/1b31hRNoQogOJSKqQxhfjv"
@@ -4681,6 +4681,28 @@
     },
     {
       "album": {
+        "name": "Carey Price",
+        "url": "https://open.spotify.com/album/58LCb4NZ7sMwKwNTttQrnz"
+      },
+      "artists": [
+        {
+          "name": "Teddy Relaxx",
+          "url": "https://open.spotify.com/artist/6v3OSBCzhedYhORkVkrndN"
+        },
+        {
+          "name": "KaMa",
+          "url": "https://open.spotify.com/artist/3rblgHbQPHtt6CKgR9ykrH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164307,
+      "name": "Carey Price",
+      "url": "https://open.spotify.com/track/58RY018QZjWwaKuzHLIU0c"
+    },
+    {
+      "album": {
         "name": "CO2",
         "url": "https://open.spotify.com/album/40ZUHqyTGLHBiT8Do4oEEx"
       },
@@ -6059,6 +6081,36 @@
     },
     {
       "album": {
+        "name": "Microdose, Vol. 2",
+        "url": "https://open.spotify.com/album/3yEIrSE2OVFoLFPIGETjZg"
+      },
+      "artists": [
+        {
+          "name": "Obia le Chef",
+          "url": "https://open.spotify.com/artist/2gHIHPqWAWEDnmT2qSTEK3"
+        },
+        {
+          "name": "Neutron The Plug",
+          "url": "https://open.spotify.com/artist/5bp7CO6X0tau0cUu4vXg4P"
+        },
+        {
+          "name": "SeinsSucrer",
+          "url": "https://open.spotify.com/artist/6AFFCSzexIvA2fBeEpe0nP"
+        },
+        {
+          "name": "Wanted",
+          "url": "https://open.spotify.com/artist/6QfKvLYfq3KavipR1LNPXL"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184468,
+      "name": "Copperfield",
+      "url": "https://open.spotify.com/track/0ko5T1nJAydaqAZw3dVa1Q"
+    },
+    {
+      "album": {
         "name": "Corde \u00e0 linge",
         "url": "https://open.spotify.com/album/7fPC38bEo6lSGyiTk7SNb2"
       },
@@ -6944,7 +6996,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 205081,
       "name": "De quoi j'me rappelle (1997-98 Metal Universe Kobe Bryant Precious Metal Gems)",
       "url": "https://open.spotify.com/track/6sAVWXM4JvEWpNrwdIcGun"
@@ -7430,6 +7482,24 @@
       "duration_ms": 262791,
       "name": "Discours Graphique",
       "url": "https://open.spotify.com/track/1dGQThBkwwwW3a0REvcV9y"
+    },
+    {
+      "album": {
+        "name": "DISMOI (LOWKEY)",
+        "url": "https://open.spotify.com/album/0IhuaA9QS72ygLp7Lxay1N"
+      },
+      "artists": [
+        {
+          "name": "\u00e9ther",
+          "url": "https://open.spotify.com/artist/4XT1Jfd6Hel58qViPrldXY"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112095,
+      "name": "DISMOI (LOWKEY)",
+      "url": "https://open.spotify.com/track/2TXaudf7XzQilhZ6PzuL0j"
     },
     {
       "album": {
@@ -9006,7 +9076,7 @@
       ],
       "date_added": "2026-02-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 125090,
       "name": "Fanta",
       "url": "https://open.spotify.com/track/2BZl3aK7SReMp5itKrH7G7"
@@ -12899,6 +12969,24 @@
     },
     {
       "album": {
+        "name": "Kess tu connais?",
+        "url": "https://open.spotify.com/album/087lSpOwE9O7aF7F1JUILs"
+      },
+      "artists": [
+        {
+          "name": "Fl\u00e9au Dicaprio",
+          "url": "https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 140963,
+      "name": "Kess tu connais?",
+      "url": "https://open.spotify.com/track/6uJhWxmB5Xsvtk8KQq2Rdv"
+    },
+    {
+      "album": {
         "name": "Kesspass",
         "url": "https://open.spotify.com/album/5nnf7yOuDKZx0WjGRGeqgv"
       },
@@ -14306,6 +14394,24 @@
       "duration_ms": 175660,
       "name": "Left Wrist Frost Right Wrist Sauce",
       "url": "https://open.spotify.com/track/700mZciX5TdzGQxw3ffwNS"
+    },
+    {
+      "album": {
+        "name": "#RAPELLES - Saison 1",
+        "url": "https://open.spotify.com/album/1ygdOA0ldi3qKJWfGbI26l"
+      },
+      "artists": [
+        {
+          "name": "Meryem Saci",
+          "url": "https://open.spotify.com/artist/5B3Wm59hYt0VbwypxsVkQE"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 198374,
+      "name": "Les ailes",
+      "url": "https://open.spotify.com/track/5S8YpOaA9eTckCWySKewow"
     },
     {
       "album": {
@@ -16148,7 +16254,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 138181,
       "name": "MISSION",
       "url": "https://open.spotify.com/track/0RorYfeHYkH1ZSX6dS3WiT"
@@ -16998,7 +17104,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-08",
+      "date_removed": null,
       "duration_ms": 230418,
       "name": "MURDA",
       "url": "https://open.spotify.com/track/0eZGhUhnRq73yTWM5se93o"
@@ -17914,7 +18020,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 246810,
       "name": "N\u00e9m\u00e9sis",
       "url": "https://open.spotify.com/track/16D5o0NvwrqVAWI4yYi0hr"
@@ -18601,6 +18707,40 @@
     },
     {
       "album": {
+        "name": "CANICULE",
+        "url": "https://open.spotify.com/album/7n6T6Z5kmKUar9s5RFhSpa"
+      },
+      "artists": [
+        {
+          "name": "Shreez",
+          "url": "https://open.spotify.com/artist/0qNrNX9FKJM0ZJFbcbMlMp"
+        },
+        {
+          "name": "Tizzo",
+          "url": "https://open.spotify.com/artist/0NAWq4CW7DxGwgIm1Ock5C"
+        },
+        {
+          "name": "Salgrimo",
+          "url": "https://open.spotify.com/artist/4UV5H3SeSPhlAgXL6JJBsE"
+        },
+        {
+          "name": "Le Ice",
+          "url": "https://open.spotify.com/artist/5Tz7QkwRnEvV0MpWhLdDFI"
+        },
+        {
+          "name": "Peeda",
+          "url": "https://open.spotify.com/artist/5ss8XbfkdgN1sTdgyPp6Ed"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227356,
+      "name": "PALE ANPIL",
+      "url": "https://open.spotify.com/track/4pbCNhxu0FzJtb9y3GZD0f"
+    },
+    {
+      "album": {
         "name": "Palmar\u00e8s",
         "url": "https://open.spotify.com/album/76Du01EjxBVqFUxuQpNyiP"
       },
@@ -18754,6 +18894,28 @@
       "duration_ms": 176000,
       "name": "Papercuts",
       "url": "https://open.spotify.com/track/4A2b6v9CmNJsNfykZqawDk"
+    },
+    {
+      "album": {
+        "name": "S\u00e9rie NOLA",
+        "url": "https://open.spotify.com/album/29IiuhEq7xO2626BMjSJLW"
+      },
+      "artists": [
+        {
+          "name": "20Some",
+          "url": "https://open.spotify.com/artist/5XexJCqZgI59ntWjW3p8jQ"
+        },
+        {
+          "name": "Imposs",
+          "url": "https://open.spotify.com/artist/7jAs3bSFCCU88rzme8E9fz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176102,
+      "name": "Papercuts",
+      "url": "https://open.spotify.com/track/73cQ9CN3Z0pFvvq6HFGo6k"
     },
     {
       "album": {
@@ -19562,7 +19724,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 160615,
       "name": "pierrafeu",
       "url": "https://open.spotify.com/track/2jRfrIllqZ54j0yQ3UVWB6"
@@ -23387,6 +23549,24 @@
     },
     {
       "album": {
+        "name": "SOUL",
+        "url": "https://open.spotify.com/album/1k8yyVWlsyKoZEzyRk9ZDc"
+      },
+      "artists": [
+        {
+          "name": "VVILL",
+          "url": "https://open.spotify.com/artist/23VFiSwJgy4kgcDeT5MJk4"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "SOUL",
+      "url": "https://open.spotify.com/track/6LU51Xi3UsLQe9okcS46uy"
+    },
+    {
+      "album": {
         "name": "La force de comprendre",
         "url": "https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve"
       },
@@ -24194,7 +24374,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 151578,
       "name": "Taste",
       "url": "https://open.spotify.com/track/6j3GQoT8bUADviaQgqWS6A"
@@ -24220,6 +24400,24 @@
       "duration_ms": 234000,
       "name": "TEC",
       "url": "https://open.spotify.com/track/3HJKrwiplwM14ZN9RowsIc"
+    },
+    {
+      "album": {
+        "name": "Tehfouf",
+        "url": "https://open.spotify.com/album/70DTqN5rPBB9ICMf0LkWa5"
+      },
+      "artists": [
+        {
+          "name": "Jula\u00ef",
+          "url": "https://open.spotify.com/artist/121HfPsWH7DqRtTtF5PEWn"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148351,
+      "name": "Tehfouf",
+      "url": "https://open.spotify.com/track/1C1d6BPQ9ILd6fSgRtcQrV"
     },
     {
       "album": {
@@ -24957,6 +25155,24 @@
     },
     {
       "album": {
+        "name": "Radeau Capharna\u00fcm",
+        "url": "https://open.spotify.com/album/3Zt8ueRsn2X80guFi53ERf"
+      },
+      "artists": [
+        {
+          "name": "Floraison Tardive",
+          "url": "https://open.spotify.com/artist/22h02uNReoFoSiyLU56tHz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175076,
+      "name": "TOUT VA TROP VITE",
+      "url": "https://open.spotify.com/track/0NNxX6ZYEhpxGs0QwtyOB2"
+    },
+    {
+      "album": {
         "name": "Toute La Night",
         "url": "https://open.spotify.com/album/1bk4syGySEg4a2nqFM5YWc"
       },
@@ -25188,7 +25404,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 140622,
       "name": "Trip",
       "url": "https://open.spotify.com/track/6kxwRi9daiaV1c6wWQmwVi"
@@ -26234,7 +26450,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 153203,
       "name": "Vraiment",
       "url": "https://open.spotify.com/track/3R3OYCyYGa5538RBDXY7bX"

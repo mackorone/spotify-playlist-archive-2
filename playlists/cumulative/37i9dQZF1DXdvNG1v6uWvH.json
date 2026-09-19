@@ -2161,6 +2161,28 @@
     },
     {
       "album": {
+        "name": "Factoid Happiness",
+        "url": "https://open.spotify.com/album/2GThrLLl8X1TUHE4owuALW"
+      },
+      "artists": [
+        {
+          "name": "Kaktus Einarsson",
+          "url": "https://open.spotify.com/artist/6JNguRWD1fs6lOR6IXQlp3"
+        },
+        {
+          "name": "Jessica Winter",
+          "url": "https://open.spotify.com/artist/0gCYUYF1zfqZk5pG0e2ojy"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281468,
+      "name": "3rd Time (with Jessica Winter)",
+      "url": "https://open.spotify.com/track/0AA5kLjq3q8MGLLKiiQCI3"
+    },
+    {
+      "album": {
         "name": "4 AM",
         "url": "https://open.spotify.com/album/0GA4oZzfaTxokdIq9XNtuu"
       },
@@ -4092,6 +4114,24 @@
       "duration_ms": 187333,
       "name": "A Thousand Times",
       "url": "https://open.spotify.com/track/0547MWFbVf9ykU6T7LMbCD"
+    },
+    {
+      "album": {
+        "name": "It's Only Heaven",
+        "url": "https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ"
+      },
+      "artists": [
+        {
+          "name": "Morabeza Tobacco",
+          "url": "https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158332,
+      "name": "A Time A Place",
+      "url": "https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI"
     },
     {
       "album": {
@@ -77974,6 +78014,28 @@
       "duration_ms": 207856,
       "name": "get down on it",
       "url": "https://open.spotify.com/track/5rbzoOu97UwrjgrGGr7NNI"
+    },
+    {
+      "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
     },
     {
       "album": {
@@ -217043,60 +217105,6 @@
     },
     {
       "album": {
-        "name": "Factoid Happiness",
-        "url": "https://open.spotify.com/album/2GThrLLl8X1TUHE4owuALW"
-      },
-      "artists": [
-        {
-          "name": "Kaktus Einarsson",
-          "url": "https://open.spotify.com/artist/6JNguRWD1fs6lOR6IXQlp3"
-        }
-      ],
-      "date_added": "2026-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/0AA5kLjq3q8MGLLKiiQCI3"
-    },
-    {
-      "album": {
-        "name": "LOST DISC",
-        "url": "https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A"
-      },
-      "artists": [
-        {
-          "name": "Pocket",
-          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
-        }
-      ],
-      "date_added": "2026-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 3",
-      "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
-    },
-    {
-      "album": {
-        "name": "It's Only Heaven",
-        "url": "https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ"
-      },
-      "artists": [
-        {
-          "name": "Morabeza Tobacco",
-          "url": "https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7"
-        }
-      ],
-      "date_added": "2026-09-18",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI"
-    },
-    {
-      "album": {
         "name": "Tractor Beam",
         "url": "https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q"
       },
@@ -225292,6 +225300,24 @@
       "duration_ms": 269047,
       "name": "Waiting For Love",
       "url": "https://open.spotify.com/track/7faBDPpACK6D31VqvnmeQs"
+    },
+    {
+      "album": {
+        "name": "LOST DISC",
+        "url": "https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218651,
+      "name": "WAITING FOR YOU",
+      "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
     },
     {
       "album": {

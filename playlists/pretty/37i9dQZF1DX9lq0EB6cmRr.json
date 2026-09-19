@@ -1,12 +1,12 @@
 {
   "description": "Listen hot and new Korean classical & new age  music in here! (Cover: \uc870\uc218\ubbf8(Sumi Jo)) \ud55c\uad6d \ud074\ub798\uc2dd \uc74c\uc545 \ud56b & \ucd5c\uc2e0 \ud2b8\ub799\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694!",
-  "num_followers": 5828,
+  "num_followers": 5830,
   "original_name": "Classics Korea",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKLJDWi6xDfuFZOgZu9j7hqK1Den",
+  "snapshot_id": "AAAAAHcCXSpFbfEtcUVjRiOBx/pYnxlp",
   "tracks": [
     {
       "added_at": "2026-05-07 06:03:41",
@@ -987,26 +987,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Connected",
-        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
-      },
-      "artists": [
-        {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
-        },
-        {
-          "name": "Cho Yoonseung",
-          "url": "https://open.spotify.com/artist/0B9Omv7ftLzVz20MwuLeUv"
-        }
-      ],
-      "duration_ms": 289613,
-      "name": "Ave Maria \"Tanti anni prima\" (Arr. for Violin and Piano by Cho Yoonseung)",
-      "url": "https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Summer Vacation",
         "url": "https://open.spotify.com/album/3Qzc5rtvxsEOSFKgFCjUeZ"
       },
@@ -1023,6 +1003,26 @@
       "duration_ms": 235906,
       "name": "100% Summer",
       "url": "https://open.spotify.com/track/2kNWYHygLX93gHmBvT0GJz"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Connected",
+        "url": "https://open.spotify.com/album/1omw0PdB8y3wQpPffwWDMw"
+      },
+      "artists": [
+        {
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+        },
+        {
+          "name": "Cho Yoonseung",
+          "url": "https://open.spotify.com/artist/0B9Omv7ftLzVz20MwuLeUv"
+        }
+      ],
+      "duration_ms": 289613,
+      "name": "Ave Maria \"Tanti anni prima\" (Arr. for Violin and Piano by Cho Yoonseung)",
+      "url": "https://open.spotify.com/track/6M1P67H2GXqqhEb5XbQLob"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1111,18 +1111,18 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "MOONLIGHT",
-        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
+        "name": "THE WAR",
+        "url": "https://open.spotify.com/album/36vxVW2Dnh8vpwOR7wdSNs"
       },
       "artists": [
         {
-          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
-          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
         }
       ],
-      "duration_ms": 234000,
-      "name": "Love Letter",
-      "url": "https://open.spotify.com/track/6bQr39dhQRzL6Ja1pkZ0g0"
+      "duration_ms": 212986,
+      "name": "The War",
+      "url": "https://open.spotify.com/track/6XxWCHSggKK5lmUGRe1oa0"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1147,18 +1147,18 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "THE WAR",
-        "url": "https://open.spotify.com/album/36vxVW2Dnh8vpwOR7wdSNs"
+        "name": "MOONLIGHT",
+        "url": "https://open.spotify.com/album/15nHJiMLYYFDgfryUskaAY"
       },
       "artists": [
         {
-          "name": "LA POEM",
-          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
+          "name": "\ub300\ub2c8 \uad6c(Danny Koo)",
+          "url": "https://open.spotify.com/artist/4M76P0tK97Ia9zTOz8wWOn"
         }
       ],
-      "duration_ms": 212986,
-      "name": "The War",
-      "url": "https://open.spotify.com/track/6XxWCHSggKK5lmUGRe1oa0"
+      "duration_ms": 234000,
+      "name": "Love Letter",
+      "url": "https://open.spotify.com/track/6bQr39dhQRzL6Ja1pkZ0g0"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1355,6 +1355,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Anchor",
+        "url": "https://open.spotify.com/album/6r6Hp8DvgSe72YiOCjTsUN"
+      },
+      "artists": [
+        {
+          "name": "LA POEM",
+          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
+        }
+      ],
+      "duration_ms": 235160,
+      "name": "Anchor",
+      "url": "https://open.spotify.com/track/0MMBIESr9bIUSq18evg5Sh"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Pure Opera Vol. 2",
         "url": "https://open.spotify.com/album/3ebREGFHsjpJCD0wx4ghvO"
       },
@@ -1439,22 +1455,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Anchor",
-        "url": "https://open.spotify.com/album/6r6Hp8DvgSe72YiOCjTsUN"
-      },
-      "artists": [
-        {
-          "name": "LA POEM",
-          "url": "https://open.spotify.com/artist/0FnUIVrcXuabu4ec2Wu1tG"
-        }
-      ],
-      "duration_ms": 235160,
-      "name": "Anchor",
-      "url": "https://open.spotify.com/track/0MMBIESr9bIUSq18evg5Sh"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Espero 1st, Romance on Classic",
         "url": "https://open.spotify.com/album/1mnrmCrepcylAUQOeHyO27"
       },
@@ -1523,26 +1523,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "MOZART: Piano Works 1",
-        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
-      },
-      "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
-        {
-          "name": "Kun-Woo Paik",
-          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
-        }
-      ],
-      "duration_ms": 205573,
-      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
-      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Modern Cello",
         "url": "https://open.spotify.com/album/4ofOUfKLp3RsIH9fdpgXL4"
       },
@@ -1559,6 +1539,26 @@
       "duration_ms": 305000,
       "name": "Us, then",
       "url": "https://open.spotify.com/track/0VuQ9J9lpFdLAaQzKzBtRX"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "MOZART: Piano Works 1",
+        "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Kun-Woo Paik",
+          "url": "https://open.spotify.com/artist/22B1T23YzVRPPQkvN6AjSX"
+        }
+      ],
+      "duration_ms": 205573,
+      "name": "Piano Sonata No. 16 in C Major, K. 545 \"Sonata facile\": I. Allegro",
+      "url": "https://open.spotify.com/track/2mRgoOBAGtuDz8qbYd4HXc"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1635,22 +1635,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "In Love",
-        "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
-      },
-      "artists": [
-        {
-          "name": "Sumi Jo",
-          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
-        }
-      ],
-      "duration_ms": 157946,
-      "name": "In Love",
-      "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "MOZART: Piano Works 1",
         "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
       },
@@ -1671,6 +1655,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "In Love",
+        "url": "https://open.spotify.com/album/6O8SJIDG9wHel9n1yT9AT9"
+      },
+      "artists": [
+        {
+          "name": "Sumi Jo",
+          "url": "https://open.spotify.com/artist/2QJJHCdkMmlbff1beZnAz6"
+        }
+      ],
+      "duration_ms": 157946,
+      "name": "In Love",
+      "url": "https://open.spotify.com/track/5sCjHL8W4IwCIwAegbL1x8"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Sherlock (Clue + Note) [Orchestra Version]",
         "url": "https://open.spotify.com/album/2fg7HdPCDSHdbZRXzh70RE"
       },
@@ -1683,38 +1683,6 @@
       "duration_ms": 260325,
       "name": "Sherlock (Clue + Note) - Orchestra Version",
       "url": "https://open.spotify.com/track/73rDAj6Wl1JBgaKsr2qHlA"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "FLOWER",
-        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
-      },
-      "artists": [
-        {
-          "name": "YOONHAN",
-          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
-        }
-      ],
-      "duration_ms": 216333,
-      "name": "Magnolia",
-      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "VOLCANO",
-        "url": "https://open.spotify.com/album/2mOrIcxamOhiC3lbni6wX2"
-      },
-      "artists": [
-        {
-          "name": "JUNGKEY",
-          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
-        }
-      ],
-      "duration_ms": 284400,
-      "name": "Volcano",
-      "url": "https://open.spotify.com/track/1IhdzUhupcFCuoLyEw9RMV"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1739,6 +1707,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "FLOWER",
+        "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
+      },
+      "artists": [
+        {
+          "name": "YOONHAN",
+          "url": "https://open.spotify.com/artist/5uJNKjOGqmV02sT1ArP5qb"
+        }
+      ],
+      "duration_ms": 216333,
+      "name": "Magnolia",
+      "url": "https://open.spotify.com/track/3ohdGaN55v20ZmO9pIvkty"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "MOZART: Piano Works 1",
         "url": "https://open.spotify.com/album/5shrL6GpKa19wuephOtqDO"
       },
@@ -1755,6 +1739,22 @@
       "duration_ms": 433986,
       "name": "Piano Sonata No. 12 in F Major, K. 332: I. Allegro",
       "url": "https://open.spotify.com/track/3HX0J6b6ptIdnyBF4lFU8A"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "VOLCANO",
+        "url": "https://open.spotify.com/album/2mOrIcxamOhiC3lbni6wX2"
+      },
+      "artists": [
+        {
+          "name": "JUNGKEY",
+          "url": "https://open.spotify.com/artist/6fTEkjuuZ3hH6fdeBxxbA2"
+        }
+      ],
+      "duration_ms": 284400,
+      "name": "Volcano",
+      "url": "https://open.spotify.com/track/1IhdzUhupcFCuoLyEw9RMV"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
-      },
-      "artists": [
-        {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        }
-      ],
-      "duration_ms": 195283,
-      "name": "When We Meet Again",
-      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "Une Vie",
         "url": "https://open.spotify.com/album/35ZxJ2C6cLe4x9mkWrR4xL"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 253360,
       "name": "Une Vie Part 1",
       "url": "https://open.spotify.com/track/66V6BzDDI5U9xEsrB5tTkK"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        }
+      ],
+      "duration_ms": 348446,
+      "name": "Cello Forest",
+      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
-        "name": "Dear Forest",
-        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
-      },
-      "artists": [
-        {
-          "name": "Hong Jin Ho",
-          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
-        }
-      ],
-      "duration_ms": 348446,
-      "name": "Cello Forest",
-      "url": "https://open.spotify.com/track/3p0fbbsb3DczN0LspSgO6r"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
         "name": "FLOWER",
         "url": "https://open.spotify.com/album/4KJnsMyfh7POyObWxf932i"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 232000,
       "name": "Camellia",
       "url": "https://open.spotify.com/track/777FLvGcK65H7Ljf4K3PNl"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
+        "name": "Dear Forest",
+        "url": "https://open.spotify.com/album/1UZRA9X3koYXeUFskB6we3"
+      },
+      "artists": [
+        {
+          "name": "Hong Jin Ho",
+          "url": "https://open.spotify.com/artist/7tcubelUDbviHoBqVGeEQ3"
+        }
+      ],
+      "duration_ms": 195283,
+      "name": "When We Meet Again",
+      "url": "https://open.spotify.com/track/4OahKkWYPduOcSB8PrBdvl"
     },
     {
       "added_at": "2026-05-07 06:03:41",
@@ -2011,6 +2011,22 @@
     {
       "added_at": "2026-05-07 06:03:41",
       "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ"
+      },
+      "artists": [
+        {
+          "name": "Paul Kim",
+          "url": "https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R"
+        }
+      ],
+      "duration_ms": 207893,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
+    },
+    {
+      "added_at": "2026-05-07 06:03:41",
+      "album": {
         "name": "Timepass",
         "url": "https://open.spotify.com/album/1UKIVk5shyZCjcukuCuqnU"
       },
@@ -2027,22 +2043,6 @@
       "duration_ms": 862200,
       "name": "Concert Fantasy on Themes from Gershwin's Porgy and Bess, Op. 19",
       "url": "https://open.spotify.com/track/0wxEjB5smW1Y62T7nh8DMD"
-    },
-    {
-      "added_at": "2026-05-07 06:03:41",
-      "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5tJbCZf6eQpp4CANZXG7fQ"
-      },
-      "artists": [
-        {
-          "name": "Paul Kim",
-          "url": "https://open.spotify.com/artist/2FRCeQL1u1A7YLxXde0Y1R"
-        }
-      ],
-      "duration_ms": 207893,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/6bM1AM7nvmkpFxUaH3eWk5"
     }
   ],
   "unique_name": "Classics Korea",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,641 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,648 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 49 | [copacabana](https://open.spotify.com/track/2c39ZtqhdYgjQ4brG0ujmT) | [ZEHD](https://open.spotify.com/artist/5NLjMu7RaXfk1Um3BHWOnS) | [copacabana](https://open.spotify.com/album/1BKsViGNggJHu3558EdWSE) | 1:57 |
 | 50 | [Goldmine](https://open.spotify.com/track/7p8mo1LlK73GzZtUGlYGvd) | [Tona](https://open.spotify.com/artist/6q8LiFdCehhaItyNf5yHSN), [Sayzee](https://open.spotify.com/artist/1z5quJYr5jxx1ETXNmylsa) | [Sunna](https://open.spotify.com/album/6ydEzBduSvCvKIho2NumU2) | 3:14 |
 
-Snapshot ID: `AAAAADIFNvP3THIFuAIYLdV1nC0y7m2l`
+Snapshot ID: `AAAAAFa9C1WPh4OOAmCwouZoizQ4G4UG`

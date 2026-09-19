@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 
 > This is kwn\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,029 likes - 28 songs - 1 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,040 likes - 28 songs - 1 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,9 +13,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 | 3 | [back of the club](https://open.spotify.com/track/6svat6LhQXRAnALB7CkUg5) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 4:33 |
 | 4 | [Sex In Peace \(ft\. kwn\)](https://open.spotify.com/track/55LgZlNjXalYkfgdfiedMi) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [THERAPY AT THE CLUB](https://open.spotify.com/album/1Rz7o4Hllbk3qVHEa6XgBf) | 3:25 |
 | 5 | [risk it all](https://open.spotify.com/track/4Efkz2fw4BgqFaWfLReqKN) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 3:02 |
-| 6 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 |
+| 6 | [DADAMAN](https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:41 |
 | 7 | [do what i say](https://open.spotify.com/track/5P8zrJH6NhD2QRIscTSTcq) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:08 |
-| 8 | [DADAMAN](https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL) | [DESTIN CONRAD](https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [ROADRUNNER](https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj) | 2:41 |
+| 8 | [eyes wide open](https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [eyes wide open](https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV) | 2:33 |
 | 9 | [touch myself](https://open.spotify.com/track/3tyDv1Qwsr7MSZB45ywgj7) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [and all pride aside](https://open.spotify.com/album/3WInudF8Setm33NN23BxYH) | 4:09 |
 | 10 | [Clothes Off \(feat\. kwn\)](https://open.spotify.com/track/1sNYvKAc4xMIb7FURYo04r) | [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX), [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [While We Wait 2](https://open.spotify.com/album/6BtMJG0J0QnXIiGRCMgkxA) | 3:49 |
 | 11 | [worst behaviour \(feat\. Kehlani\)](https://open.spotify.com/track/5W67A7t9MWL3VtovrVrici) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [with all due respect](https://open.spotify.com/album/60cNc5CdvVCTEF5A6FRhFN) | 3:33 |
@@ -37,4 +37,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1A2wPq.md) - [plain]
 | 27 | [making love](https://open.spotify.com/track/5RWaq2ntMWdC2j4yM30j58) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:35 |
 | 28 | [went wrong](https://open.spotify.com/track/51U1KMRcqBnpt4pUJyU22b) | [kwn](https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb) | [episode wn](https://open.spotify.com/album/6s4EpeWF8X3w8hwuQIABGl) | 2:13 |
 
-Snapshot ID: `aqiKgAAAAAAmrUIZwSD+4/5/vjBWPfhV`
+Snapshot ID: `aqstgAAAAACr418e1dNccna7mck6o66E`

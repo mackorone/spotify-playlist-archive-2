@@ -4,7 +4,7 @@
 
 > Súbete a la nueva ola del rock español\. Foto: Alcalá Norte.
 
-796 songs - 1 day 17 hr 11 min
+796 songs - 1 day 17 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -571,6 +571,7 @@
 | [Piensa en mí](https://open.spotify.com/track/5C1mVFpqXdnCpDUtDgpije) | [Sueño Xanadú](https://open.spotify.com/artist/0EEtOnJrRGSEFHKAGJ7wPn) | [Piensa en mí](https://open.spotify.com/album/2T2lkQCc9FzfG1r5ERUkqx) | 2:34 | 2024-07-25 | 2024-08-16 |
 | [Piropos](https://open.spotify.com/track/3gIH0fYBDdpsINlYv1feqs) | [Naitinain](https://open.spotify.com/artist/75k1x4oYTR0db8FBm9VbCy), [Joder Juan](https://open.spotify.com/artist/6aBkrLdqbTaGgefSznMub9) | [Piropos](https://open.spotify.com/album/1bktsgFPfHw9XRiVaGsWoE) | 2:34 | 2024-11-14 | 2025-01-24 |
 | [Pitbull](https://open.spotify.com/track/23qWMsNit3DECls7rX1ueT) | [Venturi](https://open.spotify.com/artist/2f1pksYZS7c56itOgksEeE) | [Pitbull](https://open.spotify.com/album/5zYMSBCpGIxNYNNHij1YPw) | 2:55 | 2024-06-27 | 2024-12-13 |
+| [Plan de juego](https://open.spotify.com/track/6lSHrCAw9zVTuDIXjUI7QK) | [Diagnóstico Binario](https://open.spotify.com/artist/4toUuM31r6QCBRJcCKh7ad) | [Sinapsis](https://open.spotify.com/album/1ODRUWz80PD1gKfHP3t5MV) | 3:21 | 2026-09-17 |  |
 | [Plan de Mierda](https://open.spotify.com/track/1QdV4SR8PhomxtxKcwJ57P) | [LA ÉLITE](https://open.spotify.com/artist/0sISeGVb8SMEQGbI9DBfov), [Diego Ibáñez](https://open.spotify.com/artist/6nWCIaOTHhqgbkxPcj4AeJ) | [Plan de Mierda](https://open.spotify.com/album/2ExZDAeYu4RF6tgYGigJl4) | 3:22 | 2024-06-27 | 2025-11-28 |
 | [Poeta en NY](https://open.spotify.com/track/7roSNKc6cTpdsaE9lmV51z) | [Las Petunias](https://open.spotify.com/artist/5ahvDss0AH60cd2AWqoU1r) | [Poeta en NY](https://open.spotify.com/album/6BEKGJDyIbuLnaGdLJ1dMe) | 3:00 | 2025-07-03 |  |
 | [Poetas de Cristal](https://open.spotify.com/track/1jOi7gDEJs0rHR6IYO60tA) | [Wet Iguanas](https://open.spotify.com/artist/5Nh9UxAQ4Pf2e68ZPZHQHC) | [Poetas de Cristal](https://open.spotify.com/album/32HNcTe1pDnv6yN13ltMsX) | 3:32 | 2024-09-05 | 2025-03-14 |
@@ -709,7 +710,6 @@
 | [Toro](https://open.spotify.com/track/38L5vNRY6RXo6j5G8Q4gMq) | [The Animal Plastics](https://open.spotify.com/artist/5iFGq7lrw5akXvNkvM2t1m), [Kenya Saiz](https://open.spotify.com/artist/1t17ROTZ0TP1T8NxDhLkfB) | [Toro](https://open.spotify.com/album/5PFcdkGCGZzbPSS94KrNtO) | 3:11 | 2025-07-03 | 2025-07-18 |
 | [Torreznos y Larios](https://open.spotify.com/track/26s9yq8ZEBd13DaqXKzaxy) | [Ashleys](https://open.spotify.com/artist/78rDLh5yrOapboJgm6gTi9) | [Torreznos y Larios](https://open.spotify.com/album/1noYaoDRZhHU8zPB7eCKJK) | 2:43 | 2024-12-19 | 2025-03-07 |
 | [TRABAJAR EN VERANO](https://open.spotify.com/track/6lTJGk4VIeMViR74OiCzsT) | [HORROCRUX](https://open.spotify.com/artist/1voKh33KLw9EzZHBms3NzW) | [AMARILLO VERANO](https://open.spotify.com/album/2HLAjP0WXLbYbWCFF03TZP) | 2:40 | 2025-08-07 | 2025-09-26 |
-| [Track 8](https://open.spotify.com/track/6lSHrCAw9zVTuDIXjUI7QK) | [Diagnóstico Binario](https://open.spotify.com/artist/4toUuM31r6QCBRJcCKh7ad) | [Sinapsis](https://open.spotify.com/album/1ODRUWz80PD1gKfHP3t5MV) | 0:00 | 2026-09-17 |  |
 | [Trash](https://open.spotify.com/track/2IKrGxiXxcp4gViTALjfSJ) | [NIÑA COYOTE eta CHICO TORNADO](https://open.spotify.com/artist/4QlaoCIrTZjyl1M6TaDUEW), [Maika Makovski](https://open.spotify.com/artist/23qto2LKAJoFxdffbvVvKC), [Rodrigo Cuevas](https://open.spotify.com/artist/1d3CepUS2V6F3cP9YWNfUO), [Los Zigarros](https://open.spotify.com/artist/47U0TDHIE1H5t78HNVgR0M), [Bala](https://open.spotify.com/artist/5Cqy5kUi1EY01scjbz87eJ), [Le Ra](https://open.spotify.com/artist/48qMM7J4at63DHV5hqHZfY), [Waxy](https://open.spotify.com/artist/7gtw6fJ0m3qOtkRPSYKipQ) | [Trash](https://open.spotify.com/album/6K2TLtJqoTFvbDiBPTfMI1) | 1:05 | 2025-04-03 | 2025-04-25 |
 | [Travieso](https://open.spotify.com/track/2q6kjZSeB3P9mmV3W4lOlY) | [Niña Polaca](https://open.spotify.com/artist/7wItEsGHPEaFKnb1iJhbmW) | [Travieso](https://open.spotify.com/album/1PoKsze0nTJ0Ntu9cHRfGp) | 2:27 | 2024-06-27 | 2024-12-13 |
 | [Tripitir](https://open.spotify.com/track/479fQ9Py5nJE9n7LJaXkB2) | [LA MILAGROSA](https://open.spotify.com/artist/2zfICaZaVlooSb1GFh6ZiP) | [Tripitir](https://open.spotify.com/album/4uzWGyuxyxdmiUgtquBsQz) | 2:40 | 2024-11-28 | 2025-05-23 |

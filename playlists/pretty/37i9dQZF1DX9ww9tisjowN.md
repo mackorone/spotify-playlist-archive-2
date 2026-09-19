@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 
 > What pops out!? Roll the gacha and find your Neo J\-Pop treasure\. cover: LiSA
 
-[Spotify](https://open.spotify.com/user/spotify) - 561,824 likes - 75 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 561,922 likes - 75 songs - 4 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9ww9tisjowN.md) - [plain]
 | 74 | [hora](https://open.spotify.com/track/4p4RcxZBkJOhRq1fAWDVu9) | [luv](https://open.spotify.com/artist/2Gy7SZvabW5UQgL0oljfeB) | [hora](https://open.spotify.com/album/51SClLoJGlqlkEOoTX5xrU) | 3:23 |
 | 75 | [未完成婚姻論](https://open.spotify.com/track/1AukQSQzdaWtsH8z1wdmTO) | [Dannie May](https://open.spotify.com/artist/1ZUDSRNUUa69sTk4pMiyp7) | [MERAKI](https://open.spotify.com/album/02jYu8ctxk4EYep1LQheiW) | 3:08 |
 
-Snapshot ID: `AAAAAFMEkc3NBZ8xz3FDF3CAGKfIFZxz`
+Snapshot ID: `AAAAAH48Mhd3nlR91MRjIiUMpuwTLRsP`

@@ -2,16 +2,17 @@
 
 ### [Sad Folk](https://open.spotify.com/playlist/37i9dQZF1DWV1bxlagjEmb)
 
-> folk songs for the weight of it all, featuring music from Gregory Alan Isakov
+> folk songs for the weight of it all, featuring music from Anna Shoemaker
 
-142 songs - 9 hr 38 min
+147 songs - 9 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [A Little Bit of Everything \- Spotify Singles](https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Spotify Singles](https://open.spotify.com/album/39pwm6XqSwGxzEm0gVYSL1) | 5:17 | 2023-04-20 |  |
+| [Always The Same](https://open.spotify.com/track/5RZomQGckBcXSH8lsKBhqD) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Always The Same](https://open.spotify.com/album/0UQd6myReEV9LZ5NcT1lJW) | 3:21 | 2026-09-18 |  |
 | [And It's Still Alright](https://open.spotify.com/track/2tRxHjEkdgGMv9kZbOyqOH) | [Nathaniel Rateliff](https://open.spotify.com/artist/4qKpLkR911SUlnd4HAtF79) | [And It’s Still Alright](https://open.spotify.com/album/2bWrnSJNyGevb1pr2VYEGW) | 3:55 | 2023-04-20 |  |
 | [anything](https://open.spotify.com/track/4PwWESSlTwzvw9B7bmtTLS) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 3:22 | 2023-04-20 |  |
-| [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 | 2023-04-20 |  |
+| [Appointments](https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw) | [Julien Baker](https://open.spotify.com/artist/12zbUHbPHL5DGuJtiUfsip) | [Turn Out the Lights](https://open.spotify.com/album/3AV0YFhIzY0LDeaJPU5x3O) | 4:33 | 2023-04-20 | 2026-09-19 |
 | [Baby You're Lying](https://open.spotify.com/track/3vCH4YzLnacmiOnWSEUkDK) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2) | 3:22 | 2025-05-20 |  |
 | [Beach Baby](https://open.spotify.com/track/2LXtyj95dK56ENS1QLt4IB) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Blood Bank](https://open.spotify.com/album/6G2VFrsyr7jAiUYklrdKob) | 2:40 | 2023-04-20 |  |
 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 | 2023-04-20 |  |
@@ -32,6 +33,7 @@
 | [come](https://open.spotify.com/track/6MX8v7cRooNQb5fW5Uo6Sm) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [songs](https://open.spotify.com/album/2Qt8Z1LB3Fsrf6nhBNsvUJ) | 5:17 | 2025-02-26 |  |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2023-04-20 |  |
 | [Conrad](https://open.spotify.com/track/63QsFC6m0CaTw2gU0iZa7N) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [I Forget Where We Were](https://open.spotify.com/album/4WI3oFEsDiHU3I5xHz88sF) | 6:08 | 2023-04-20 |  |
+| [Cue the Symphony](https://open.spotify.com/track/552CblFVkWAQLN0fPzByAy) | [Nicole Atkins](https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO), [Chris Isaak](https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx) | [Drama](https://open.spotify.com/album/7KPk3hjKhEpxzHQqMF39oI) | 2:45 | 2026-09-18 |  |
 | [Do I Wanna Know? \- BBC Live Lounge](https://open.spotify.com/track/32btQnrL0HR6M1KKAPf3D3) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Hozier \(Special Edition\)](https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH) | 4:17 | 2025-02-26 |  |
 | [Do You See The Light Around Me?](https://open.spotify.com/track/6pPfKmVvvu1ztJxqvpQ4Vm) | [Uwade](https://open.spotify.com/artist/57qPRqUfnRY0KJtO5lrjWL) | [Do You See The Light Around Me?](https://open.spotify.com/album/4ryLljFHWYTslwrz8l0UTK) | 3:24 | 2023-04-20 |  |
 | [Drinking Song](https://open.spotify.com/track/5KkoM9rbevlWf8EePOrwfS) | [Haley Heynderickx](https://open.spotify.com/artist/73MDShZzdL4vUGMkmXOG6X) | [I Need to Start a Garden](https://open.spotify.com/album/4I8BEAiq1kPqRRlvWLTo5B) | 3:15 | 2023-04-20 |  |
@@ -51,10 +53,11 @@
 | [God's A Different Sword](https://open.spotify.com/track/3g134LcN3aeu8HUNgPjECr) | [Folk Bitch Trio](https://open.spotify.com/artist/26jdbJyBkpr6LivDYvKp2r) | [God's A Different Sword](https://open.spotify.com/album/4D7Ffcjkced2JlUivqw164) | 3:19 | 2025-05-20 |  |
 | [Good Thing](https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:12 | 2023-09-15 | 2024-04-19 |
 | [Good Thing](https://open.spotify.com/track/2aFdcjK3Hz1Q9h9bjkJcGI) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy Is the Only Thing](https://open.spotify.com/album/4cVX6h32CrAhowx4WGHb6E) | 4:12 | 2023-04-20 |  |
-| [Half of Me](https://open.spotify.com/track/3zyDQeTrptB1etZyRCpOLX) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:33 | 2023-04-20 |  |
+| [Half of Me](https://open.spotify.com/track/3zyDQeTrptB1etZyRCpOLX) | [Faye Webster](https://open.spotify.com/artist/5szilpXHcwOqnyKLqGco5j) | [I Know I'm Funny haha](https://open.spotify.com/album/424bxvpYyNDM2DFFibeKs0) | 3:33 | 2023-04-20 | 2026-09-19 |
 | [Heart Swell](https://open.spotify.com/track/0Nqpwh40TX2a1rsq1u3auY) | [S.G\. Goodman](https://open.spotify.com/artist/7hzn6FoCsEaUNPnPn7TJWd) | [Teeth Marks](https://open.spotify.com/album/5fXIv2d6FP5hSTYThKREZH) | 4:09 | 2023-04-20 |  |
 | [Heartbeats](https://open.spotify.com/track/5YqpHuXpFjDVZ7tY1ClFll) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Veneer](https://open.spotify.com/album/2e0BYdQ7VJlzSNHafdmfrl) | 2:41 | 2023-04-20 |  |
 | [History Of A Feeling](https://open.spotify.com/track/2PLpZnaPqYfr89TY1bG3wc) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az) | [History Of A Feeling](https://open.spotify.com/album/0bx5hbIbfqvl6XmqTiGvkt) | 3:19 | 2023-04-20 |  |
+| [Hope Is the Thing with Feathers](https://open.spotify.com/track/4jLzG9tZZGTbc3p2VWjF7r) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM) | [Hope Is the Thing with Feathers](https://open.spotify.com/album/1GqUJ1pY3mDZ29wLsJ7Qny) | 2:55 | 2026-09-18 |  |
 | [Hospital](https://open.spotify.com/track/4mgYKB06m2MsTI27eEW0og) | [Baerd](https://open.spotify.com/artist/6L6LwshK4H0TVqsNfCO69t) | [Canyon](https://open.spotify.com/album/1qSYkiIAFof7yxgLsrvxl7) | 3:40 | 2023-04-20 |  |
 | [How \(feat\. Brandi Carlile\)](https://open.spotify.com/track/171xo7JC4bf7vqFmjF88M8) | [Marcus Mumford](https://open.spotify.com/artist/3bYcjbVAN3rAuU3TMzw2mB), [Brandi Carlile](https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej) | [\(self\-titled\)](https://open.spotify.com/album/1vTQ7l9DHERJJYPMsKGpxE) | 3:44 | 2023-04-20 |  |
 | [Human](https://open.spotify.com/track/1OlYy9FWeaXAQHwU6CBKpk) | [Ellyn Woods](https://open.spotify.com/artist/2j6jDlTTN4EW5HVEOn25p2) | [Human](https://open.spotify.com/album/6hwvM9utzQaeFWzj3Mpu6d) | 3:49 | 2023-07-14 |  |
@@ -72,6 +75,7 @@
 | [L.A\. Dream](https://open.spotify.com/track/72uctX0CoGN8m4MH430GSu) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Don't Let The Kids Win](https://open.spotify.com/album/33C9uXgwL1Bee6gwdcFxSY) | 3:29 | 2023-04-20 |  |
 | [La Lune](https://open.spotify.com/track/0DwaOWI1kC2s98qLj0LTDd) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Writing of Blues and Yellows \(Deluxe Version\)](https://open.spotify.com/album/3WHmv6ghPoM7oA0rP6jMkT) | 3:07 | 2023-04-20 |  |
 | [Lady May](https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Purgatory](https://open.spotify.com/album/35LcGAeeMwVeIJrDpB3Gkz) | 3:03 | 2023-04-20 |  |
+| [Landmine](https://open.spotify.com/track/7koeUHpoFE1MPJykVRVQdj) | [Anna Shoemaker](https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4) | [Landmine](https://open.spotify.com/album/1Shv99AhrMT7kIPNOhWsfj) | 3:24 | 2026-09-18 |  |
 | [Last Time](https://open.spotify.com/track/63msGdgRl82cT88247E2kz) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB) | [Melchor Lullaby Hotline Vol\. 1](https://open.spotify.com/album/1YRyAjsB08BYLAGB4oLPV2) | 3:13 | 2023-04-20 |  |
 | [Life According To Raechel](https://open.spotify.com/track/0L6aCvJcfTEAx0INqVxjBH) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Life According To Raechel](https://open.spotify.com/album/72oba0tTHatmqgkzdHCosS) | 4:33 | 2023-04-20 | 2023-06-10 |
 | [Life According To Raechel \- Spotify Single](https://open.spotify.com/track/3JfD2CejQKmTsqDHis7c2N) | [Madison Cunningham](https://open.spotify.com/artist/3h9TfIgwhovQELlP2jj4xL) | [Spotify Singles](https://open.spotify.com/album/2lGT7K0SQyk4c9jB1cddAM) | 4:35 | 2023-06-09 |  |
@@ -105,6 +109,7 @@
 | [Safe & Sound \(feat\. Joy Williams and John Paul White\) \(Taylor’s Version\)](https://open.spotify.com/track/2RJnNdu4pb3MypbBroHU0T) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Joy Williams](https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa), [John Paul White](https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb) | [Safe & Sound \(Taylor's Version\)](https://open.spotify.com/album/4eZKjfeKPSwd6NYsmlKjuR) | 3:59 | 2023-04-20 |  |
 | [San Luis](https://open.spotify.com/track/7gDNQLV9cr8449LFrQbk5J) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5K7PZiOlAn8sxxhh0QTFuJ) | 4:32 | 2023-04-20 |  |
 | [Scott Street](https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Stranger in the Alps](https://open.spotify.com/album/0qWcLfCZ8wtcoOdX14oGNI) | 5:05 | 2023-04-20 |  |
+| [Seeds](https://open.spotify.com/track/23iaNctslvllPw0lve3egs) | [rakey](https://open.spotify.com/artist/2MHVHW2D8Xzn8jQKOMFx4p) | [Seeds](https://open.spotify.com/album/52zKv7RC0Kjx5NpP2gNBGN) | 3:42 | 2026-09-18 |  |
 | [Sick In The Head](https://open.spotify.com/track/3u4pq1k2CliqRp0iI5JHI4) | [The Lumineers](https://open.spotify.com/artist/16oZKvXb6WkQlVAjwo2Wbg) | [Cleopatra](https://open.spotify.com/album/2zbTrm2pIAErzFSopinkbN) | 2:31 | 2023-04-20 |  |
 | [Silent Earth](https://open.spotify.com/track/24Sztla2BtKBRWcLnmjRo0) | [Josephine Illingworth](https://open.spotify.com/artist/47tAxYSbAuzh3Pm6FDTUDQ) | [Silent Earth](https://open.spotify.com/album/09M2M71vFgrOmDqNFY9URx) | 4:16 | 2025-02-26 |  |
 | [Skinny Love](https://open.spotify.com/track/2cbic3TiUENlJX91y67ARR) | [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [For Emma, Forever Ago](https://open.spotify.com/album/4SxFsOO0h4Nz3lFJuysKq5) | 3:58 | 2023-12-08 |  |

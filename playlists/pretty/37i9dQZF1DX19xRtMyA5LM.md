@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 
 > ❗️Nieuwe tracks: Kevin & JoeyAK, Qlas, Mula en meer.
 
-[Spotify](https://open.spotify.com/user/spotify) - 702,271 likes - 60 songs - 2 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 702,246 likes - 60 songs - 2 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX19xRtMyA5LM.md) - [plain]
 | 59 | [NO DAYS OFF](https://open.spotify.com/track/2wNNAvXTcn1CvjcBdD32bB) | [KM](https://open.spotify.com/artist/0MSYpagcvnSP2o91Ji2OCw), [Kevin](https://open.spotify.com/artist/0IxgA9wO4Op3CSnPlhfwV1) | [NO DAYS OFF](https://open.spotify.com/album/2SXwIw8beU1KHJvIZ266Gc) | 3:06 |
 | 60 | [DOWN](https://open.spotify.com/track/22thDxnP0TZNDiFwV9Rh5q) | [DIM](https://open.spotify.com/artist/7yZNhvAn2bmCbIiiBGFCwJ) | [DOWN](https://open.spotify.com/album/07KHg4MG5lDqA3rWLxDZ2g) | 1:36 |
 
-Snapshot ID: `AAAAAIkPlIGWPPRkfzXDymcUpmzZS7NP`
+Snapshot ID: `AAAAAHkAp/f7/q/Bb7z82HhU74ZFudGn`

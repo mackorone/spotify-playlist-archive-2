@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 
 > Muito romance, groove suave e R&B feitos no Brasil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,371 likes - 50 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,383 likes - 50 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbFiKKs5CKio.md) - [plain]
 | 49 | [Música](https://open.spotify.com/track/7HGFGnAuiRMKMAEnxbpFZ8) | [YAZI](https://open.spotify.com/artist/5PREKq9DL9Ka5yKjUVQCVP), [A Timeline](https://open.spotify.com/artist/6nFOozVSnRJPcEg3CxtOed) | [Música](https://open.spotify.com/album/3UGv2sdXNmT92Y3cejde4L) | 3:23 |
 | 50 | [It's Fine \(Luz\)](https://open.spotify.com/track/3G7A6TA86EkdNMo0LsGRHQ) | [Celo Dut](https://open.spotify.com/artist/7zjwtX10Vhi4R52RoloHtV), [Liniker](https://open.spotify.com/artist/2O6q06oNcmOIPg1qidSU3C) | [Rei das Ruas](https://open.spotify.com/album/54XF5DS1sE5qVguIX4cBhi) | 4:15 |
 
-Snapshot ID: `AAAAAEHJbdgR23LzKSx7UUv9OmF8qU8s`
+Snapshot ID: `AAAAANMj/Fqjg2GVx84M5lOwSBWoPd33`

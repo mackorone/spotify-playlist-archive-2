@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 
 > Cele mai noi hituri pop românești\. Cover: Guess Who, Smiley
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,972 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,983 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXEZONYtiyqo.md) - [plain]
 | 49 | [Mr\. Saxobeat \- Spotify Singles](https://open.spotify.com/track/78PyhOfbHt3mA4Jhz8M9tW) | [Erika Isac](https://open.spotify.com/artist/5ZBJ4rLeQx0IEN3ut3O1fC) | [Mr\. Saxobeat \- Spotify Singles](https://open.spotify.com/album/4INWAlhyOBANA8GUB7Iugy) | 2:57 |
 | 50 | [Marfarul](https://open.spotify.com/track/3qlEQ8NDF9zRTyCr5YaWha) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw) | [Marfarul](https://open.spotify.com/album/1Rf93YL3QSTXNoPzgw8Ydg) | 3:16 |
 
-Snapshot ID: `AAAAAGia/FiI21xlXrYBJ5vVzg/42VUd`
+Snapshot ID: `AAAAAIKUQJdvuP4d0jmTBj1ycHpZcTxk`

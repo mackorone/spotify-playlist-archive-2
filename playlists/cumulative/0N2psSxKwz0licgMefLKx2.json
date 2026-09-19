@@ -2391,6 +2391,28 @@
     },
     {
       "album": {
+        "name": "Signs",
+        "url": "https://open.spotify.com/album/2WSyZvOGDRjPvhY6xUNZ71"
+      },
+      "artists": [
+        {
+          "name": "Luke Bryan",
+          "url": "https://open.spotify.com/artist/0BvkDsjIUla7X0k6CSWh1I"
+        },
+        {
+          "name": "Luke Combs",
+          "url": "https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223058,
+      "name": "Finders Keepers",
+      "url": "https://open.spotify.com/track/2h7n0HIRYmOvE5MvI9GzSz"
+    },
+    {
+      "album": {
         "name": "Finish This Drink",
         "url": "https://open.spotify.com/album/1kpQJrhQQtsiaoMvP0bY3t"
       },

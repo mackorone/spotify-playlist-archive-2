@@ -4,7 +4,7 @@
 
 > <a href="spotify:genre:techno">techno</a> starter pack
 
-358 songs - 18 hr 37 min
+359 songs - 18 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -121,7 +121,7 @@
 | [Get Naughty](https://open.spotify.com/track/2jLJXddJOrdDh8XiL0K9nt) | [ILYAA](https://open.spotify.com/artist/6hFz7qfv7dt2sgRuGBYnP1) | [Get Naughty](https://open.spotify.com/album/4xknrXxDZWckpqXI2v4Fgo) | 1:57 | 2025-05-30 | 2025-08-03 |
 | [Get Up](https://open.spotify.com/track/6UFmrytCO3Dfia95c40RcB) | [AKKI \(DE\)](https://open.spotify.com/artist/0hReHYoLJG38QBwYIZ8zKs) | [Get Up](https://open.spotify.com/album/3d5lmdfqpoCU49lJaI4k8J) | 4:03 | 2023-08-11 | 2023-08-26 |
 | [Get Ur Freak On](https://open.spotify.com/track/3ehFMmXnxE1O5Gxi3yycAw) | [BEAUZ](https://open.spotify.com/artist/2Wzb0u138rgoZQTK3ytknT), [JKRS](https://open.spotify.com/artist/5EXlM2WBPw4fwTnDNazXxv), [NIVEK](https://open.spotify.com/artist/4LW7ATTlh6btuM3AvT1Ejp) | [Get Ur Freak On](https://open.spotify.com/album/6vJ7RuoCtdo47KWTTVMEAB) | 2:03 | 2025-04-04 | 2026-06-12 |
-| [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 | 2025-01-17 |  |
+| [Getting Ready For The Party](https://open.spotify.com/track/6HUZoMili2b3e6X81OPIQd) | [KI/KI](https://open.spotify.com/artist/0UMs6dTf23FC2fHc40fXNS), [Storm Mollison](https://open.spotify.com/artist/6GOV6moAmOS8qzIEvjKoVC) | [slash 011 \- Getting Ready For The Party](https://open.spotify.com/album/1xLZI4sXn3cM5NfeilgDh0) | 3:19 | 2025-01-17 | 2026-09-19 |
 | [gImmE gImmE](https://open.spotify.com/track/4z9QQWXBmY9ARRmqWeAbjX) | [Eli Brown](https://open.spotify.com/artist/5lVNSw2GPci8kebrAQpZqU), [HNTR](https://open.spotify.com/artist/3R0yz9xgTmCOLQMPcJ6MuU), [Rome Fortune](https://open.spotify.com/artist/0AlOgXaMBLYvxNEhqHM4np) | [gImmE gImmE](https://open.spotify.com/album/0qfEvqdN7B9aBWleNWuf82) | 3:17 | 2025-03-14 | 2025-05-02 |
 | [Gimme That Noise](https://open.spotify.com/track/3TWwb6t0Nu2WYvZEuLxHSy) | [Scooter](https://open.spotify.com/artist/0HlxL5hisLf59ETEPM3cUA), [Harris & Ford](https://open.spotify.com/artist/4FDj6mh458K7m9Txwyj2rt), [Shibui](https://open.spotify.com/artist/3DgZk9TPxWee4QgbRpKGF4) | [Gimme That Noise](https://open.spotify.com/album/25EH7sB7gsAhUNKvu5yv1x) | 3:02 | 2025-05-16 | 2026-04-12 |
 | [Girls Go Freak](https://open.spotify.com/track/7bczhNQjOjzPO5lgZec3LV) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Reinier Zonneveld](https://open.spotify.com/artist/21A7bhIL1m6CNZn8y57PIZ), [Sarah de Warren](https://open.spotify.com/artist/2V431yZGG08uroH2CZAgur) | [Girls Go Freak](https://open.spotify.com/album/6M66TFVI1FXWh2c6HEeyld) | 2:56 | 2025-11-21 | 2026-06-27 |
@@ -272,6 +272,7 @@
 | [Rave Harder Techno Bass](https://open.spotify.com/track/1tkS8yt5NwTZkqFvZMxM0F) | [Mark Dekoda](https://open.spotify.com/artist/3FzG2HgsgPRfwpX1qSK1g8) | [Rave Harder Techno Bass](https://open.spotify.com/album/0GbjMnAZAeoHabYDB4IMYe) | 6:00 | 2023-08-11 |  |
 | [Rave Mozart](https://open.spotify.com/track/2LthmFrSphvy9i4ZbCOvrw) | [W&W](https://open.spotify.com/artist/2rTo8KIkBTFjQS7VvaKYQ4), [Vini Vici](https://open.spotify.com/artist/29zsVzEH33dD5QqxeL8dvy) | [Rave Mozart](https://open.spotify.com/album/2uOKEJY6YVITAumYlV35n8) | 2:06 | 2024-06-07 |  |
 | [Rave Never Ends](https://open.spotify.com/track/3A5vAVf6MabbZnfC662cdn) | [Novah](https://open.spotify.com/artist/7qvjUtp2ccRD9AiDnukyFF) | [Rave Never Ends](https://open.spotify.com/album/6JMks2UYqlFiOQPPZK8rfX) | 3:27 | 2026-07-31 |  |
+| [Rave Therapy](https://open.spotify.com/track/26SBh3qrxSkpVqLRQkcSbU) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Bassjackers](https://open.spotify.com/artist/6xQvQwZQQuq9R3TdPNbcR8) | [Rave Therapy](https://open.spotify.com/album/0uEiSJnCg3JGlacWk6Slgp) | 2:37 | 2026-09-18 |  |
 | [Ray Of Solar \- Anfisa Letyago Remix](https://open.spotify.com/track/72Y9Cqx3RnFFXtHUqD65WR) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Anfisa Letyago](https://open.spotify.com/artist/7icoOm5fKKPo49jVxoj1Cq) | [Ray Of Solar \(Anfisa Letyago Remix\)](https://open.spotify.com/album/42R9yItwNGM4B7dUnJQFW2) | 3:27 | 2023-09-22 | 2023-10-17 |
 | [Reality Check](https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Hekataia EP](https://open.spotify.com/album/6OqYMy7da8pAJmnLvMmpiW) | 4:52 | 2026-04-17 |  |
 | [Reflection](https://open.spotify.com/track/21WIoAisDlLyEsRAZX35CT) | [Charlotte de Witte](https://open.spotify.com/artist/1lJhME1ZpzsEa5M0wW6Mso), [Enrico Sangiuliano](https://open.spotify.com/artist/1u7DsNFbakULvxnDGtMm90) | [Reflection EP](https://open.spotify.com/album/78bqEeos8LIGqSpTqNPNU6) | 6:46 | 2023-08-11 | 2024-02-03 |

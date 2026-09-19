@@ -5397,6 +5397,28 @@
     },
     {
       "album": {
+        "name": "Just Believe",
+        "url": "https://open.spotify.com/album/6lRddqfhBJ5jtzhctqlaAw"
+      },
+      "artists": [
+        {
+          "name": "Victoria Orenze",
+          "url": "https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso"
+        },
+        {
+          "name": "Princess Ubabudike",
+          "url": "https://open.spotify.com/artist/0rJ1gAFLYevPLRdAy2CyXl"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 468542,
+      "name": "God Brought Us This Far !",
+      "url": "https://open.spotify.com/track/4Mud8gQ3gI7CYHcNn3NaBW"
+    },
+    {
+      "album": {
         "name": "God Has Done",
         "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
       },

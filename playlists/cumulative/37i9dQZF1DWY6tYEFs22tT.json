@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "Today's Hip-Hop with Quavo, Yeat,  NAV, Nemzzz, 2 Chainz, Casper TNG, and Drake.",
+  "description": "Today's Hip-Hop with Travis Scott, Yeat, Quavo, Nemzzz, and Drake.",
   "name": "Hip-Hop Central",
   "tracks": [
     {
@@ -950,7 +950,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 188586,
       "name": "6IXER PARTY (FEAT. SNOOP DOGG)",
       "url": "https://open.spotify.com/track/0bWbDcx2GyvCFjCOW9XvlH"
@@ -1166,6 +1166,28 @@
       "duration_ms": 157777,
       "name": "[Admire Her] (with Gunna)",
       "url": "https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id"
+    },
+    {
+      "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151072,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
     },
     {
       "album": {
@@ -8044,7 +8066,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 176666,
       "name": "DO IT",
       "url": "https://open.spotify.com/track/4cirtPFnjCEoGV8XILBYk8"
@@ -17765,6 +17787,28 @@
     },
     {
       "album": {
+        "name": "LITE (feat. Belly Gang Kushington)",
+        "url": "https://open.spotify.com/album/2R1Ux79J3M5N1T8QnPTdf7"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "LITE (feat. Belly Gang Kushington)",
+      "url": "https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq"
+    },
+    {
+      "album": {
         "name": "Set In Stone",
         "url": "https://open.spotify.com/album/0lTp4t1VtrtxiFyNwy8MfB"
       },
@@ -17780,7 +17824,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 148547,
       "name": "Living Large",
       "url": "https://open.spotify.com/track/5TOMdHHPMyVV40ansTI9cZ"
@@ -18780,7 +18824,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 197260,
       "name": "MANE",
       "url": "https://open.spotify.com/track/287y8enXKYqxjJs5LzVQVZ"
@@ -19250,6 +19294,28 @@
       "duration_ms": 185142,
       "name": "Miss Independent",
       "url": "https://open.spotify.com/track/3cJYabIZeTxKGoqJcGrfZz"
+    },
+    {
+      "album": {
+        "name": "COCOON",
+        "url": "https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188503,
+      "name": "MISS MY DAWG (feat. Drake)",
+      "url": "https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A"
     },
     {
       "album": {
@@ -20443,6 +20509,24 @@
     },
     {
       "album": {
+        "name": "No Rest for The Wicked",
+        "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143450,
+      "name": "Negative",
+      "url": "https://open.spotify.com/track/0RDb7mW6zljLNIzWwPbso9"
+    },
+    {
+      "album": {
         "name": "Dennis Daughter (Deluxe Version)",
         "url": "https://open.spotify.com/album/3ey0JVQZp7VBFWHEs7z6X1"
       },
@@ -20714,7 +20798,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 194473,
       "name": "Nightmares To Dreams",
       "url": "https://open.spotify.com/track/55t0oslolWtghfZX5VAJ9X"
@@ -21024,6 +21108,24 @@
       "duration_ms": 149865,
       "name": "No Remorse",
       "url": "https://open.spotify.com/track/5auKzb2kuqO3lTcoybxVJI"
+    },
+    {
+      "album": {
+        "name": "No Saint",
+        "url": "https://open.spotify.com/album/7J6jr81lK64KD7XSu1XgSY"
+      },
+      "artists": [
+        {
+          "name": "KILLY",
+          "url": "https://open.spotify.com/artist/0gCGZZ1Ibo5QsOnll977PD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118060,
+      "name": "No Saint",
+      "url": "https://open.spotify.com/track/5FMjhlVcEpyVZvcWNZpbdo"
     },
     {
       "album": {
@@ -23840,7 +23942,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 113333,
       "name": "POP MY SHIT",
       "url": "https://open.spotify.com/track/5QLDWLnjXSuolYK8NC72Fx"
@@ -24811,6 +24913,32 @@
     },
     {
       "album": {
+        "name": "Rain (feat. Skilla Baby)",
+        "url": "https://open.spotify.com/album/0chTA50O8k6pZ2HFVJFPlz"
+      },
+      "artists": [
+        {
+          "name": "Tee Grizzley",
+          "url": "https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO"
+        },
+        {
+          "name": "Ashanti",
+          "url": "https://open.spotify.com/artist/5rkVyNGXEgeUqKkB5ccK83"
+        },
+        {
+          "name": "Skilla Baby",
+          "url": "https://open.spotify.com/artist/1GVenmuuAtusi17LY6FvgI"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180784,
+      "name": "Rain (feat. Skilla Baby)",
+      "url": "https://open.spotify.com/track/3XXytWautscZk8JZNhxQ5a"
+    },
+    {
+      "album": {
         "name": "REALLY HER (INTL DELUXE)",
         "url": "https://open.spotify.com/album/28Yvo0JYp7oZe1fsNsh7H2"
       },
@@ -25352,6 +25480,28 @@
       "duration_ms": 125093,
       "name": "Rexdale",
       "url": "https://open.spotify.com/track/1r9Sbh5cc4kC0g7eUPnscB"
+    },
+    {
+      "album": {
+        "name": "RHYNO (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/5Csu5sbvhYVlDJ24hRWXns"
+      },
+      "artists": [
+        {
+          "name": "Travis Scott",
+          "url": "https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "RHYNO (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
     },
     {
       "album": {
@@ -27557,6 +27707,28 @@
     },
     {
       "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237250,
+      "name": "So Good (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
+    },
+    {
+      "album": {
         "name": "Let Me Fly",
         "url": "https://open.spotify.com/album/5bPJWz3z4NWjOaRYBRZBED"
       },
@@ -27660,6 +27832,24 @@
       "duration_ms": 131947,
       "name": "Something Ether",
       "url": "https://open.spotify.com/track/6t5LP8XVNaAXjVJIBxHpZz"
+    },
+    {
+      "album": {
+        "name": "Something I Need",
+        "url": "https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145754,
+      "name": "Something I Need",
+      "url": "https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8"
     },
     {
       "album": {
@@ -31420,7 +31610,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 155520,
       "name": "Trap 4 a Year II",
       "url": "https://open.spotify.com/track/6ZTPxJSyLNbrBy2jyF5lJF"
@@ -32626,7 +32816,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 121834,
       "name": "Walk of Shame",
       "url": "https://open.spotify.com/track/2Jeh5DPuVrAtNhqkE33qvB"
@@ -32832,7 +33022,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 135000,
       "name": "Watch Me Now! (with NLE Choppa)",
       "url": "https://open.spotify.com/track/1hoEI997iy6tutEfF5a9M6"

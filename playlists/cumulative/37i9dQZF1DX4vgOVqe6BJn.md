@@ -4,7 +4,7 @@
 
 > The official soundtrack for EA SPORTS FC 27.
 
-351 songs - 19 hr 15 min
+352 songs - 19 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -151,6 +151,7 @@
 | [How To Pray](https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 2:47 | 2026-09-10 |  |
 | [Hurt Me](https://open.spotify.com/track/2u2nlJGXbc4cFCOSaSB0rL) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [Icarus](https://open.spotify.com/album/3hyDsN7pD5tXtNTFDatTQp) | 3:23 | 2022-09-22 | 2025-08-12 |
 | [Hurt Me](https://open.spotify.com/track/4o4iusqhnZGGBruQ8cp8ZA) | [Cryalot](https://open.spotify.com/artist/5MAbo7Vj1N532cmkSN4YIY) | [Icarus](https://open.spotify.com/album/2VNYTjbqZ3rc3AZ4TrKFJw) | 3:23 | 2022-09-22 | 2024-04-19 |
+| [Husband](https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Husband](https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo) | 3:56 | 2026-09-18 |  |
 | [I Love Life \(feat\. RANI\)](https://open.spotify.com/track/79pT7sUpGnVQqjvlwM9sq8) | [Bakermat](https://open.spotify.com/artist/3MyFDtqB80WZvbtCZRsekM), [RANI](https://open.spotify.com/artist/3SYnDj7btg9gFY7ps8m5d5) | [I Love Life \(feat\. RANI\)](https://open.spotify.com/album/33cQtUeuBcXsUHoWuRoDlO) | 2:36 | 2026-09-10 |  |
 | [I Want What I Want](https://open.spotify.com/track/1g7dC3xN9jXMfQpEkcvkqo) | [John Beltran](https://open.spotify.com/artist/0si3qPiSptTnVbdGByVAMd), [Placid Angles](https://open.spotify.com/artist/4OBt2MzBg9UmaACOI95QcX), [Sophia Stel](https://open.spotify.com/artist/18w9tq3c2x11niEFNYqeex) | [I Want What I Want](https://open.spotify.com/album/4Y39p70moAouyUQ8RXVXZ3) | 6:08 | 2026-09-10 |  |
 | [I'm Gon' Get You](https://open.spotify.com/track/3HcZq5T4OW6nSL0iUs4t9s) | [Tassia Zappia](https://open.spotify.com/artist/7bXqujdpOq3rBiEmUF6M5k) | [I'm Gon' Get You](https://open.spotify.com/album/4gGhnFi58lYP7rJyomWx1p) | 2:47 | 2022-09-30 | 2025-09-16 |
@@ -333,7 +334,7 @@
 | [Universe \(feat\. iDA HAWK\)](https://open.spotify.com/track/5XMsLJ0CXP2h8qfFi7so7m) | [Big Wild](https://open.spotify.com/artist/0PxzGnCYBpSuaI49OR94cA), [iDA HAWK](https://open.spotify.com/artist/5hrtcI0g197yJxmyAU6VYv) | [Universe \(feat\. iDA HAWK\)](https://open.spotify.com/album/2pdWephmuNIPKFh6ZSzWap) | 4:54 | 2025-09-15 | 2026-09-11 |
 | [Upset & Aggressive](https://open.spotify.com/track/2IaME6ZbdnNc2CvDeRFhhj) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Rocket](https://open.spotify.com/album/3KKqjBV0QBcgfTErzdkEd3) | 2:31 | 2025-09-15 | 2026-09-11 |
 | [UYUNI](https://open.spotify.com/track/1Hq9DR1s1DZIlpNZMEFA0v) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [afroLOVA 25'](https://open.spotify.com/album/6j8S3AOIOXBR1qfd3n2wHm) | 2:37 | 2025-09-15 | 2026-09-11 |
-| [Va Va Vroom](https://open.spotify.com/track/6QK53R3PkzMAgCY4L8iENN) | [Jadakins](https://open.spotify.com/artist/1G7hnhf87VHNjdOGTI6zx9), [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Va Va Vroom](https://open.spotify.com/album/67w7fxQ3qMYp16ENtDJjbf) | 2:05 | 2026-09-14 |  |
+| [Va Va Vroom](https://open.spotify.com/track/6QK53R3PkzMAgCY4L8iENN) | [Jadakins](https://open.spotify.com/artist/1G7hnhf87VHNjdOGTI6zx9), [Dee Mad](https://open.spotify.com/artist/6ofHQpykLy6SINDBBKqoOI), [MJ Nebreda](https://open.spotify.com/artist/1h6b4y2ObngnFpgEwry7Fy) | [Va Va Vroom](https://open.spotify.com/album/67w7fxQ3qMYp16ENtDJjbf) | 2:05 | 2026-09-14 | 2026-09-19 |
 | [Vacay](https://open.spotify.com/track/28t3hQwbHDfjwqZOWrFN6T) | [Aminé](https://open.spotify.com/artist/3Gm5F95VdRxW3mqCn8RPBJ) | [13 Months of Sunshine](https://open.spotify.com/album/7uu6SJRaMfIuoiMUKs5hIO) | 2:22 | 2025-09-15 | 2026-09-11 |
 | [Vertical](https://open.spotify.com/track/0ecQazzKkndVD8Ry9Orp9Q) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ) | [Vertical](https://open.spotify.com/album/5yE2axVMkK3AwGrAT7W1L3) | 2:36 | 2026-09-10 |  |
 | [Victory Lap](https://open.spotify.com/track/1lbNgoJ5iMrMluCyhI4OQP) | [Fred again..](https://open.spotify.com/artist/4oLeXFyACqeem2VImYeBFe), [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [PlaqueBoyMax](https://open.spotify.com/artist/79NDEw5QWlDC9KaIbogNhS) | [Victory Lap](https://open.spotify.com/album/1wD2xMSjGRFSVX8zkFEuMo) | 2:45 | 2025-09-15 | 2026-09-11 |

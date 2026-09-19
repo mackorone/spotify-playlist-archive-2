@@ -1,12 +1,12 @@
 {
   "description": "Alaba al Se\u0144or con estas canciones cl\u00e1sicas! Foto: Marcela Gandara",
-  "num_followers": 522182,
+  "num_followers": 522272,
   "original_name": "Cl\u00e1sicos Cristianos",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKKeNy4dx+tKD9aOGO5gShNBPiGz",
+  "snapshot_id": "AAAAAKaPa/I30I9ByKw+MK2oIwRtG7Oh",
   "tracks": [
     {
       "added_at": "2026-05-12 05:08:23",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
+        "name": "ESTAR BIEN",
+        "url": "https://open.spotify.com/album/0xaShTX3JNAeEGq1PaapGT"
+      },
+      "artists": [
+        {
+          "name": "ZOE Worship",
+          "url": "https://open.spotify.com/artist/2ZfB6mbNS4AQTid9M6GDjK"
+        }
+      ],
+      "duration_ms": 207100,
+      "name": "ESTAR BIEN",
+      "url": "https://open.spotify.com/track/4cuHB56Vlh6dHycYLSzowC"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
         "name": "ResplanDC",
         "url": "https://open.spotify.com/album/5qP3FrkV5QQb5qwZiFBFQx"
       },
@@ -1539,38 +1555,6 @@
     {
       "added_at": "2026-05-12 05:08:23",
       "album": {
-        "name": "ESTAR BIEN",
-        "url": "https://open.spotify.com/album/0xaShTX3JNAeEGq1PaapGT"
-      },
-      "artists": [
-        {
-          "name": "ZOE Worship",
-          "url": "https://open.spotify.com/artist/2ZfB6mbNS4AQTid9M6GDjK"
-        }
-      ],
-      "duration_ms": 207100,
-      "name": "ESTAR BIEN",
-      "url": "https://open.spotify.com/track/4cuHB56Vlh6dHycYLSzowC"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
-        "name": "Si Tu Presencia Conmigo No Va",
-        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
-      },
-      "artists": [
-        {
-          "name": "Oasis Ministry",
-          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
-        }
-      ],
-      "duration_ms": 288183,
-      "name": "Si Tu Presencia Conmigo No Va",
-      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
-    },
-    {
-      "added_at": "2026-05-12 05:08:23",
-      "album": {
         "name": "La Sunamita",
         "url": "https://open.spotify.com/album/1atwSXYD9Dpmf40HhCOC9N"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 773909,
       "name": "La Sunamita",
       "url": "https://open.spotify.com/track/5nmRDCoUya4XwQXCuQjzjm"
+    },
+    {
+      "added_at": "2026-05-12 05:08:23",
+      "album": {
+        "name": "Si Tu Presencia Conmigo No Va",
+        "url": "https://open.spotify.com/album/46KmpiuPAvHcuXGQrmFPbq"
+      },
+      "artists": [
+        {
+          "name": "Oasis Ministry",
+          "url": "https://open.spotify.com/artist/71Q7jmvxx7g06qlWNEU45p"
+        }
+      ],
+      "duration_ms": 288183,
+      "name": "Si Tu Presencia Conmigo No Va",
+      "url": "https://open.spotify.com/track/4GSSysU56FdBKhnv9HlTnT"
     },
     {
       "added_at": "2026-05-12 05:08:23",

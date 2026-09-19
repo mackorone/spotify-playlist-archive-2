@@ -1,12 +1,12 @@
 {
   "description": "Rom\u00e1nticas, rancheras y brav\u00edas, las mejores canciones sierre\u00f1as. Cover: RIA",
-  "num_followers": 820594,
+  "num_followers": 820606,
   "original_name": "Sierre\u00f1o 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEhEqXA3tFtznwTvcdO5V4WOroGm",
+  "snapshot_id": "AAAAAKD1B+tY1SVIaiQMJjyrevkJdbkE",
   "tracks": [
     {
       "added_at": "2026-08-14 07:20:00",
@@ -175,6 +175,22 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
+        "name": "Nata Montana",
+        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "duration_ms": 190666,
+      "name": "Mi Bello Angel",
+      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
         "name": "El Azul",
         "url": "https://open.spotify.com/album/2szyIt0ulaHnKxxyrlUCDB"
       },
@@ -191,22 +207,6 @@
       "duration_ms": 187225,
       "name": "El Azul",
       "url": "https://open.spotify.com/track/1haJsMtoBhHfvuM7XWuT3W"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
-        "name": "Nata Montana",
-        "url": "https://open.spotify.com/album/507VZINfvVEAyrcPbJuOVU"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        }
-      ],
-      "duration_ms": 190666,
-      "name": "Mi Bello Angel",
-      "url": "https://open.spotify.com/track/4t46soaqA758rbukTO5pp1"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -271,6 +271,22 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
+      },
+      "artists": [
+        {
+          "name": "Tito Double P",
+          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
+        }
+      ],
+      "duration_ms": 177590,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
         "name": "$AD BOYZ 4 LIFE II",
         "url": "https://open.spotify.com/album/7Lv6VzSqIz1sAssK2JUskG"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 169587,
       "name": "Brillarosa",
       "url": "https://open.spotify.com/track/2BMlaVJaHDGd3ODSyrB2VK"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/5cQfpT5TqmekHpZqYDcGTL"
-      },
-      "artists": [
-        {
-          "name": "Tito Double P",
-          "url": "https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG"
-        }
-      ],
-      "duration_ms": 177590,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/0LTwdL5yZ6YOTEGUQPFuSN"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -351,6 +351,22 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
+        "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
+        "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
+      },
+      "artists": [
+        {
+          "name": "T3R Elemento",
+          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
+        }
+      ],
+      "duration_ms": 226250,
+      "name": "Labios de Cereza 2",
+      "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
         "name": "DEPR</3$$ED MFKZ",
         "url": "https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 191507,
       "name": "MI$ LLAMADA$",
       "url": "https://open.spotify.com/track/3xff9Zn9iZ5anX3e9oi6tt"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
-        "name": "Cap\u00edtulo 1: El Regreso Del Dragon",
-        "url": "https://open.spotify.com/album/6NbV4YCgoWwEUyjuN4WMT0"
-      },
-      "artists": [
-        {
-          "name": "T3R Elemento",
-          "url": "https://open.spotify.com/artist/34nbQa7Hug9DYkRJpfKNFv"
-        }
-      ],
-      "duration_ms": 226250,
-      "name": "Labios de Cereza 2",
-      "url": "https://open.spotify.com/track/5kydBNKLSxvWNjXSSfyWAr"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -439,22 +439,6 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
-        "name": "Cruisin' with Junior H",
-        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
-      },
-      "artists": [
-        {
-          "name": "Junior H",
-          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
-        }
-      ],
-      "duration_ms": 235858,
-      "name": "Se Amerita",
-      "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
         "name": "TQM",
         "url": "https://open.spotify.com/album/3GqCt85yKxtKxnIivSN15e"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 158964,
       "name": "TQM",
       "url": "https://open.spotify.com/track/368eeEO3Y2uZUQ6S5oIjcu"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
+        "name": "Cruisin' with Junior H",
+        "url": "https://open.spotify.com/album/0HANqWtJABVpAWVrQzE2XM"
+      },
+      "artists": [
+        {
+          "name": "Junior H",
+          "url": "https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is"
+        }
+      ],
+      "duration_ms": 235858,
+      "name": "Se Amerita",
+      "url": "https://open.spotify.com/track/3pQYf90V5idOGrXzosm9rt"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -555,22 +555,6 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
-        "name": "Las Pacas",
-        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
-      },
-      "artists": [
-        {
-          "name": "Alame\u00f1os de la Sierra",
-          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
-        }
-      ],
-      "duration_ms": 281518,
-      "name": "Perfecta",
-      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
         "name": "Coraz\u00f3n Fr\u00edo",
         "url": "https://open.spotify.com/album/7aC9iMxYc7mHTN3mJWZFc1"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 263810,
       "name": "Coraz\u00f3n Fr\u00edo",
       "url": "https://open.spotify.com/track/0KSwFEkVh0KCBR0TwqBVen"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
+        "name": "Las Pacas",
+        "url": "https://open.spotify.com/album/4yMC2UNgGrcWdnMpdQ6noX"
+      },
+      "artists": [
+        {
+          "name": "Alame\u00f1os de la Sierra",
+          "url": "https://open.spotify.com/artist/4C9L4xjlVFB6lsA9v3EfUh"
+        }
+      ],
+      "duration_ms": 281518,
+      "name": "Perfecta",
+      "url": "https://open.spotify.com/track/2bUDsZdvWZyIYFWluUzFe6"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -1451,22 +1451,6 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
-        "name": "Creo en Ti",
-        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
-      },
-      "artists": [
-        {
-          "name": "Eden Mu\u00f1oz",
-          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
-        }
-      ],
-      "duration_ms": 177058,
-      "name": "Creo en Ti",
-      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
         "name": "No Eramos Pobres",
         "url": "https://open.spotify.com/album/7ARAFCNn8qdAmGRfjve01g"
       },
@@ -1479,6 +1463,22 @@
       "duration_ms": 176111,
       "name": "No Eramos Pobres",
       "url": "https://open.spotify.com/track/5hAVXQydK0GXiTEJ8sRe0b"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
+        "name": "Creo en Ti",
+        "url": "https://open.spotify.com/album/3spEvK7Mc5ITcn1SuuViNd"
+      },
+      "artists": [
+        {
+          "name": "Eden Mu\u00f1oz",
+          "url": "https://open.spotify.com/artist/1gJdf4Yybu4X5A2xYV3NMV"
+        }
+      ],
+      "duration_ms": 177058,
+      "name": "Creo en Ti",
+      "url": "https://open.spotify.com/track/6HOOykUGBMv3LFsR9gObw5"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -1587,6 +1587,22 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
+        "name": "D\u00e9jenla Que Sea Feliz",
+        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
+      },
+      "artists": [
+        {
+          "name": "Chacho Y Su Vagancia",
+          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
+        }
+      ],
+      "duration_ms": 175677,
+      "name": "D\u00e9jenla Que Sea Feliz",
+      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
         "name": "Parque de Diversiones",
         "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 209358,
       "name": "Te Lo Dije",
       "url": "https://open.spotify.com/track/6ZRMDvbAqmkngX6M7EnfjY"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
-        "name": "D\u00e9jenla Que Sea Feliz",
-        "url": "https://open.spotify.com/album/0lFXVyddx801x6GVdtxBF3"
-      },
-      "artists": [
-        {
-          "name": "Chacho Y Su Vagancia",
-          "url": "https://open.spotify.com/artist/4Amw1TvsWkH2pWxZHF8pk6"
-        }
-      ],
-      "duration_ms": 175677,
-      "name": "D\u00e9jenla Que Sea Feliz",
-      "url": "https://open.spotify.com/track/0Js77UpzQj50fJLYvEVUXH"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -1751,26 +1751,6 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
-        "name": "Yales",
-        "url": "https://open.spotify.com/album/24IIsYIPJeUniqGKzSQKOw"
-      },
-      "artists": [
-        {
-          "name": "Marcos Villalobos",
-          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
-        },
-        {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
-        }
-      ],
-      "duration_ms": 144322,
-      "name": "Yales",
-      "url": "https://open.spotify.com/track/0chtBoIb4E5iUNr1c8PNW5"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
         "name": "Ahora Estoy Mejor",
         "url": "https://open.spotify.com/album/5BsrTRp4TvgUwRLsvlyKuF"
       },
@@ -1787,6 +1767,26 @@
       "duration_ms": 274172,
       "name": "Ahora Estoy Mejor",
       "url": "https://open.spotify.com/track/0Wg5AVKIIrnGq25aYU7Inp"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
+        "name": "Yales",
+        "url": "https://open.spotify.com/album/24IIsYIPJeUniqGKzSQKOw"
+      },
+      "artists": [
+        {
+          "name": "Marcos Villalobos",
+          "url": "https://open.spotify.com/artist/79BK7vrzlQtgNnCHvZ7aYi"
+        },
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        }
+      ],
+      "duration_ms": 144322,
+      "name": "Yales",
+      "url": "https://open.spotify.com/track/0chtBoIb4E5iUNr1c8PNW5"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -1907,22 +1907,6 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
-        "name": "MIAMI PENTHOUSE",
-        "url": "https://open.spotify.com/album/00roY55J2iEw56IBdWTCRe"
-      },
-      "artists": [
-        {
-          "name": "El Padrinito Toys",
-          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
-        }
-      ],
-      "duration_ms": 174137,
-      "name": "MIAMI PENTHOUSE",
-      "url": "https://open.spotify.com/track/1idSm0NlutOIBoedkPrKXe"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
         "name": "MONTHS",
         "url": "https://open.spotify.com/album/2xBj81KVZYlkDE89zqvtD4"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 169988,
       "name": "MONTHS",
       "url": "https://open.spotify.com/track/7Bt8I7y8b2p2uUY33sYCQl"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
+        "name": "MIAMI PENTHOUSE",
+        "url": "https://open.spotify.com/album/00roY55J2iEw56IBdWTCRe"
+      },
+      "artists": [
+        {
+          "name": "El Padrinito Toys",
+          "url": "https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm"
+        }
+      ],
+      "duration_ms": 174137,
+      "name": "MIAMI PENTHOUSE",
+      "url": "https://open.spotify.com/track/1idSm0NlutOIBoedkPrKXe"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -2059,22 +2059,6 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
-        "name": "Te Regalo",
-        "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
-      },
-      "artists": [
-        {
-          "name": "Edgardo Nu\u00f1ez",
-          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
-        }
-      ],
-      "duration_ms": 153431,
-      "name": "Te Regalo",
-      "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
         "name": "Besito Con Humo",
         "url": "https://open.spotify.com/album/6RLEUN4DBKqaKJiti4TP0H"
       },
@@ -2087,6 +2071,22 @@
       "duration_ms": 145658,
       "name": "Besito Con Humo",
       "url": "https://open.spotify.com/track/463TMJNU67VDASLEHRGZmU"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
+        "name": "Te Regalo",
+        "url": "https://open.spotify.com/album/1s5wqxWuB1nuhAjYXNmqWd"
+      },
+      "artists": [
+        {
+          "name": "Edgardo Nu\u00f1ez",
+          "url": "https://open.spotify.com/artist/0mA4dkNGiN4fqTBi2SLlAv"
+        }
+      ],
+      "duration_ms": 153431,
+      "name": "Te Regalo",
+      "url": "https://open.spotify.com/track/4tRUs8WbSVaTHmJBCgbvnP"
     },
     {
       "added_at": "2026-08-14 07:20:00",
@@ -2147,6 +2147,22 @@
     {
       "added_at": "2026-08-14 07:20:00",
       "album": {
+        "name": "Casi Algo",
+        "url": "https://open.spotify.com/album/1Tk99mHlULtaxKGSjkrgEA"
+      },
+      "artists": [
+        {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "duration_ms": 213875,
+      "name": "Casi Algo",
+      "url": "https://open.spotify.com/track/2InFGvJZvQjiGZixFFvvj1"
+    },
+    {
+      "added_at": "2026-08-14 07:20:00",
+      "album": {
         "name": "Ni Fiestas, Ni Flores - Spotify Single",
         "url": "https://open.spotify.com/album/120GvzgCQeq4nYW1cKVi7r"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 185240,
       "name": "Ni Fiestas, Ni Flores - Spotify Single",
       "url": "https://open.spotify.com/track/1oHwG6fCf9dydOfHqO2Xhx"
-    },
-    {
-      "added_at": "2026-08-14 07:20:00",
-      "album": {
-        "name": "Casi Algo",
-        "url": "https://open.spotify.com/album/1Tk99mHlULtaxKGSjkrgEA"
-      },
-      "artists": [
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "duration_ms": 213875,
-      "name": "Casi Algo",
-      "url": "https://open.spotify.com/track/2InFGvJZvQjiGZixFFvvj1"
     },
     {
       "added_at": "2026-08-14 07:20:00",

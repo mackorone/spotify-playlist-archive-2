@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: TOOBOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,274 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,268 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 59 | [リンカルネーション](https://open.spotify.com/track/0l4TebB4lfvI2pR0YB0BXu) | [シユイ](https://open.spotify.com/artist/3EKiz61ZCQs4LK3O96mt5O) | [リンカルネーション](https://open.spotify.com/album/2SNgRHIhLueXFLQVGgufRb) | 3:25 |
 | 60 | [百鬼夜行。](https://open.spotify.com/track/6Wv6djactnaJ4zG48hBzG5) | [Nakimushi](https://open.spotify.com/artist/2zv25U5N7QyNcn8I9kzZVn) | [百鬼夜行。](https://open.spotify.com/album/6sKvuQAoSaQHsqRmwqxO75) | 2:36 |
 
-Snapshot ID: `AAAAAJIduqOX5mhevjJjeSRfilatderJ`
+Snapshot ID: `AAAAAAkflqRCCxVfrRSc62Fkt7L1TQ5/`

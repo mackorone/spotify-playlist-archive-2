@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 
 > The very best of Punjabi romance featuring Parmish Verma & Harman Brar
 
-[Spotify](https://open.spotify.com/user/spotify) - 315,024 likes - 100 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 315,146 likes - 100 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSKoG4oVafMt.md) - [plain]
 | 99 | [Gulab](https://open.spotify.com/track/1CMivY02VCtga3xT7AyfQ4) | [Karan Randhawa](https://open.spotify.com/artist/3mnR9SJ3hfV6EcrGKH44H9) | [Loverboy](https://open.spotify.com/album/67uk6VOF3UDB3JW5pKycnF) | 2:39 |
 | 100 | [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/track/0BTyEzF1GM0J8ipX3NUal8) | [Ammy Virk](https://open.spotify.com/artist/2RlWC7XKizSOsZ8F3uGi59), [Happy Raikoti](https://open.spotify.com/artist/6q71Xu33Q9DBhLFSUCLMUM) | [Shayar Akhiyan \(From "Mithde"\)](https://open.spotify.com/album/5aRiPnV51LMEcnNYcuFdBM) | 3:58 |
 
-Snapshot ID: `AAAAAKvT7A9mt3ihbFxk5G9fSoEtFtZY`
+Snapshot ID: `AAAAAHjzNYAKe7C9xwRuq4650vF3fR+B`

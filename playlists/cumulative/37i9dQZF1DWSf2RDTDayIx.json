@@ -7131,6 +7131,28 @@
     },
     {
       "album": {
+        "name": "Music Don't Stop",
+        "url": "https://open.spotify.com/album/4sFGrLwLDtaAYyST7IJqLu"
+      },
+      "artists": [
+        {
+          "name": "J. Worra",
+          "url": "https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj"
+        },
+        {
+          "name": "Bipolar Sunshine",
+          "url": "https://open.spotify.com/artist/0CjWKoS55T7DOt0HJuwF1H"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 215500,
+      "name": "Music Don't Stop",
+      "url": "https://open.spotify.com/track/0KcEUsbDhld6ZFK2eYOVtG"
+    },
+    {
+      "album": {
         "name": "My Feelings For You (Mark Knight Remix)",
         "url": "https://open.spotify.com/album/3P4T0xEYwLZiB9xhzM0tzF"
       },
@@ -9742,7 +9764,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 190914,
       "name": "Sunshine",
       "url": "https://open.spotify.com/track/0hPjwZ80xT39CKpcAOu6zT"

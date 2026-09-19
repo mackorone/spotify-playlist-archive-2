@@ -1,12 +1,12 @@
 {
   "description": "C'est parti pour une bonne journ\u00e9e.",
-  "num_followers": 387960,
+  "num_followers": 387951,
   "original_name": "R\u00e9veil en douceur",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFPa0ks1qtwsFQrXDWcA2O905vEm",
+  "snapshot_id": "AAAAANXMN14AwSmYUEGqhLoy1V2/i2aq",
   "tracks": [
     {
       "added_at": "2026-09-04 16:29:00",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
-        "name": "End of Time",
-        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
-      },
-      "artists": [
-        {
-          "name": "Olive Jones",
-          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
-        }
-      ],
-      "duration_ms": 226052,
-      "name": "End of Time",
-      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
         "name": "Some Birds Don't Fly",
         "url": "https://open.spotify.com/album/28GN4GapBzVeGu3fcYOTRo"
       },
@@ -491,6 +475,22 @@
       "duration_ms": 206480,
       "name": "Some Birds Don't Fly",
       "url": "https://open.spotify.com/track/3zUh0LEFrPjlnKUm3krD8C"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
+        "name": "End of Time",
+        "url": "https://open.spotify.com/album/39bOm3zdtpBtT4lNjsTh2q"
+      },
+      "artists": [
+        {
+          "name": "Olive Jones",
+          "url": "https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn"
+        }
+      ],
+      "duration_ms": 226052,
+      "name": "End of Time",
+      "url": "https://open.spotify.com/track/7bRZSHUpTQFne0BbARBO8i"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -567,22 +567,6 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
-        "name": "Satin Psicodelic",
-        "url": "https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W"
-      },
-      "artists": [
-        {
-          "name": "Sunni Col\u00f3n",
-          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
-        }
-      ],
-      "duration_ms": 324130,
-      "name": "Mornin Dew",
-      "url": "https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
         "name": "Paint The Picture",
         "url": "https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe"
       },
@@ -599,18 +583,18 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+        "name": "Satin Psicodelic",
+        "url": "https://open.spotify.com/album/1HRzxvSMJSc6sNHrU2JA1W"
       },
       "artists": [
         {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+          "name": "Sunni Col\u00f3n",
+          "url": "https://open.spotify.com/artist/4tRZRfhgfLEIUI9mw9Njy2"
         }
       ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+      "duration_ms": 324130,
+      "name": "Mornin Dew",
+      "url": "https://open.spotify.com/track/6bxtai04eVsvV7IZGqOXMy"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -631,6 +615,22 @@
       "duration_ms": 232813,
       "name": "Drink the Ocean (feat. Oracle Sisters)",
       "url": "https://open.spotify.com/track/1dlmHgXInk7Zaq0xUMFVnw"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
-        "name": "Coming Home",
-        "url": "https://open.spotify.com/album/39JRixi3qOjhXvEWjvigfT"
-      },
-      "artists": [
-        {
-          "name": "NAVENI",
-          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
-        }
-      ],
-      "duration_ms": 218962,
-      "name": "Coming Home",
-      "url": "https://open.spotify.com/track/4XMjBid32yY7UsphrpJevX"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
         "name": "Disarray",
         "url": "https://open.spotify.com/album/5PnRdsovy10n2k5l4J6KqW"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 310853,
       "name": "Disarray",
       "url": "https://open.spotify.com/track/6TyWbo6XJzcPjo36hGjFrA"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
+        "name": "Coming Home",
+        "url": "https://open.spotify.com/album/39JRixi3qOjhXvEWjvigfT"
+      },
+      "artists": [
+        {
+          "name": "NAVENI",
+          "url": "https://open.spotify.com/artist/6SKl45GZWlPXXiRgAP9Kmg"
+        }
+      ],
+      "duration_ms": 218962,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/4XMjBid32yY7UsphrpJevX"
     },
     {
       "added_at": "2026-09-04 16:29:00",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-09-04 16:29:00",
       "album": {
-        "name": "Yours Or Mine",
-        "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
-      },
-      "artists": [
-        {
-          "name": "Hajaj",
-          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
-        }
-      ],
-      "duration_ms": 230977,
-      "name": "Yours Or Mine",
-      "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
-    },
-    {
-      "added_at": "2026-09-04 16:29:00",
-      "album": {
         "name": "L.A.B VI",
         "url": "https://open.spotify.com/album/7Cq7tNfVMckpwGX4llhsVN"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 254920,
       "name": "Give Me That Feeling",
       "url": "https://open.spotify.com/track/1TttmYJbJ5SfbmA06qJ8kZ"
+    },
+    {
+      "added_at": "2026-09-04 16:29:00",
+      "album": {
+        "name": "Yours Or Mine",
+        "url": "https://open.spotify.com/album/4TeFGNjeEzZytPpGiw81M2"
+      },
+      "artists": [
+        {
+          "name": "Hajaj",
+          "url": "https://open.spotify.com/artist/08yjRkGm8KNsShKjtbEmt6"
+        }
+      ],
+      "duration_ms": 230977,
+      "name": "Yours Or Mine",
+      "url": "https://open.spotify.com/track/6uJ1XDLc1xsAD7TqnAFLP4"
     },
     {
       "added_at": "2026-09-04 16:29:00",

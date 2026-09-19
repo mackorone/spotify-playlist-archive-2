@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 
 > mindful genieten 🌱\. Cover: Sarah Julia
 
-[Spotify](https://open.spotify.com/user/spotify) - 98,013 likes - 100 songs - 5 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 98,007 likes - 100 songs - 5 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 29 | [I'd Like To Walk Around In Your Mind](https://open.spotify.com/track/7dbI4g3m8A0isJVvYk2xdD) | [Vashti Bunyan](https://open.spotify.com/artist/4chuPfKtATDZvbRLExsTp2) | [Just Another Diamond Day](https://open.spotify.com/album/4KerqbIPBSPn5S2YTKwKys) | 2:15 |
 | 30 | [Photograph of a Cyclone](https://open.spotify.com/track/3Xa6wbikubNAiKSIWKprId) | [Searows](https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It) | [Death in the Business of Whaling](https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl) | 3:28 |
 | 31 | [If You Know Me \- demo](https://open.spotify.com/track/1x0Q0nvWYbJCrmsPZNHIkb) | [Hudson Freeman](https://open.spotify.com/artist/6k3W2iGuRZrhUnfVZOMQo8) | [If You Know Me \(demo\)](https://open.spotify.com/album/06M6z1DB5blsjhKh8oVBbE) | 2:07 |
-| 32 | [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 |
-| 33 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
+| 32 | [More More More](https://open.spotify.com/track/3l8t8MTOomTwvN7I4dc0LZ) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [More More More](https://open.spotify.com/album/2gVSL0UNZknT1leTnK46Pz) | 3:12 |
+| 33 | [Mountain](https://open.spotify.com/track/04TCm13pPRL7HqKdWc8Pf6) | [Hannah Cohen](https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros) | [Earthstar Mountain](https://open.spotify.com/album/29NwfbBz9hexhTMa6rfBTF) | 3:59 |
 | 34 | [Julia](https://open.spotify.com/track/3R6Tl3h7z21hPVz55ZEMeQ) | [Ásgeir](https://open.spotify.com/artist/7xUZ4069zcyBM4Bn10NQ1c) | [Julia](https://open.spotify.com/album/71VHBPBBSf8P93F4uoo3si) | 4:45 |
 | 35 | [garden green eyes](https://open.spotify.com/track/76ubvikrOTzDV73Wvi4mkA) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [garden green eyes](https://open.spotify.com/album/5pH4FPzMU4Wnuo2g5pv2jn) | 2:58 |
 | 36 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 |
@@ -66,14 +66,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 56 | [You and I](https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t) | [Lily Meola](https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6) | [You and I](https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t) | 2:49 |
 | 57 | [Underwear](https://open.spotify.com/track/10zG0Yamj5zQoWcRCnQI7Z) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [Underwear](https://open.spotify.com/album/2bLVEtFJZFX94OZ2oeUa9Y) | 3:27 |
 | 58 | [Abilene](https://open.spotify.com/track/1eXPy9yPydGgJYnM2WkFGy) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Abilene](https://open.spotify.com/album/0qheGwJpGcA3e0vNPxT6nw) | 4:16 |
-| 59 | [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 |
-| 60 | [Where the mountain meets the sea](https://open.spotify.com/track/4aTHJ0yGSf2Gb6rLnMD567) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:10 |
+| 59 | [Where the mountain meets the sea](https://open.spotify.com/track/4aTHJ0yGSf2Gb6rLnMD567) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Bloodline](https://open.spotify.com/album/7Ln3LF8E2WFUZENabeVuIX) | 3:10 |
+| 60 | [red sky at night](https://open.spotify.com/track/5PLGmfrSqRq7Q1dKvJ7S7M) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [red sky at night](https://open.spotify.com/album/6nTaOFO6qZb0YbOciCEPZu) | 2:56 |
 | 61 | [A Little Lost](https://open.spotify.com/track/1ToKOSrvlMVSPvFyvU9FvX) | [Arthur Russell](https://open.spotify.com/artist/3iJJD5v7oIFUevW4N5w5cj) | [Another Thought](https://open.spotify.com/album/3pYFqjWzClbyDKvACv5bVQ) | 3:18 |
-| 62 | [red sky at night](https://open.spotify.com/track/5PLGmfrSqRq7Q1dKvJ7S7M) | [Orange Oak](https://open.spotify.com/artist/622vfvXmIK16EfIZszsVYy) | [red sky at night](https://open.spotify.com/album/6nTaOFO6qZb0YbOciCEPZu) | 2:56 |
+| 62 | [Seeing You](https://open.spotify.com/track/7jjQcyGSb1rNGdUmoQuBuk) | [hey, nothing](https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI) | [Seeing You](https://open.spotify.com/album/5PMPqKGwQCGAbZhl9qdLbP) | 3:18 |
 | 63 | [God Loves Weirdos](https://open.spotify.com/track/2ZrUGV4BYg13r4Q3ilGdt3) | [Mt\. Joy](https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI) | [God Loves Weirdos](https://open.spotify.com/album/0Goshi4S6DLOdTCoPDTsXB) | 3:09 |
 | 64 | [Figure Me Out](https://open.spotify.com/track/09c2a3vT1KBsbROet7Nxxm) | [Julia Adriana](https://open.spotify.com/artist/2EiAH8EU1rWo8ZWaivtwvc) | [Figure Me Out](https://open.spotify.com/album/44DxmrynYCH8Q76eKyatBb) | 2:46 |
-| 65 | [A Good Run](https://open.spotify.com/track/5tTDFBl4KqXZj0baFufH2q) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [A Good Run](https://open.spotify.com/album/3PEIbtEGaXsuI796aBVgyl) | 2:53 |
-| 66 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
+| 65 | [The Surface](https://open.spotify.com/track/4329XA7OGxcJXruj4nirnn) | [Alice Phoebe Lou](https://open.spotify.com/artist/03uMw43UVu9MsQCcHVSGjX) | [The Surface](https://open.spotify.com/album/08x9Txl6jTNKIgfL64iwaG) | 3:55 |
+| 66 | [A Good Run](https://open.spotify.com/track/5tTDFBl4KqXZj0baFufH2q) | [Gildor](https://open.spotify.com/artist/2DyS2mSsaFkj5nFB3P6KqU) | [A Good Run](https://open.spotify.com/album/3PEIbtEGaXsuI796aBVgyl) | 2:53 |
 | 67 | [happiness \- live](https://open.spotify.com/track/43zJRyV2RM1Zk9FIw9xx74) | [Adrianne Lenker](https://open.spotify.com/artist/4aKWmkWAKviFlyvHYPTNQY) | [happiness \(live\)](https://open.spotify.com/album/5ZBOV5VfT8r4TU17gKOYX0) | 3:28 |
 | 68 | [Tie you down](https://open.spotify.com/track/0S2c7Zxd1NyUewjQyW187L) | [HAIM](https://open.spotify.com/artist/4Ui2kfOqGujY81UcPrb5KE), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Tie you down](https://open.spotify.com/album/1I791510xrKrTghdNBHfgm) | 2:56 |
 | 69 | [Speaking of You](https://open.spotify.com/track/4a4BqvfGcEh2PwRdFVwiMM) | [Old Sea Brigade](https://open.spotify.com/artist/6vUNwmljZAcn7tNtUoxG45) | [Speaking of You](https://open.spotify.com/album/1VRsxPMJdQ1LgeKhNb5Kv1) | 4:25 |
@@ -91,16 +91,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 81 | [Old Fort Steel Trail](https://open.spotify.com/track/4kcsDPAER6xQl8WFyWP1gr) | [Mon Rovîa](https://open.spotify.com/artist/6pvai2QB2c0defVI0UTFos) | [Old Fort Steel Trail](https://open.spotify.com/album/7larsH6AfaDqGW4y4JBx5a) | 2:29 |
 | 82 | [In My House](https://open.spotify.com/track/3eS6WoprTnjBqSxQooJys3) | [Theo Bleak](https://open.spotify.com/artist/1P7Y9mc5VzxlEeo15JpNAk) | [In My House / Like A Thorn](https://open.spotify.com/album/4zubTJub6ZIAwNGVsLjl6Z) | 3:03 |
 | 83 | [The Next Time We Meet](https://open.spotify.com/track/0bPP1eAXRK8NFu38IrY4KS) | [Coos](https://open.spotify.com/artist/6P2qWDFyufx2tJxRlCKzXI) | [The Next Time We Meet](https://open.spotify.com/album/13hRU2LNjolmWEkDnjWOiA) | 3:03 |
-| 84 | [Colour On The Wall](https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:18 |
-| 85 | [From Up Here](https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8) | 4:37 |
-| 86 | [In Between Station](https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [In Between Station](https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq) | 3:26 |
+| 84 | [In Between Station](https://open.spotify.com/track/5jY7TEqaFOOBvbEyFAECzQ) | [tjels](https://open.spotify.com/artist/47rSKopkbamYzXzYY7PoIX) | [In Between Station](https://open.spotify.com/album/6lo8n8CWv3HfCpJkjy1GWq) | 3:26 |
+| 85 | [Colour On The Wall](https://open.spotify.com/track/5HE9cEXsyLuqSKptTd5RxV) | [Olive Jones](https://open.spotify.com/artist/2DwbPVZ7uyW2B0AgoHuzLn) | [Colour On The Wall](https://open.spotify.com/album/1oNTMpPsU2g8xgoHftYpXT) | 3:18 |
+| 86 | [From Up Here](https://open.spotify.com/track/3sT7VhTBLbLNUIPc7CYqXf) | [Heather Nova](https://open.spotify.com/artist/76oeXwztPqAxVg9oqozK3z) | [Breath and Air](https://open.spotify.com/album/28CQ3p031mxAc8p2Z3SMy8) | 4:37 |
 | 87 | [For Tomorrow's Sake](https://open.spotify.com/track/6noc42qHS5k4qFjYjHAfCz) | [Tim Knol](https://open.spotify.com/artist/5iwR7L3O96vO8rVXXuLf5K) | [For Tomorrow's Sake](https://open.spotify.com/album/4lfYG6Fr9gMrNRZ1wOUmLi) | 3:24 |
 | 88 | [Shape of Tomorrow](https://open.spotify.com/track/426yKV0zjMdLNHb5o4SuUS) | [Charlie Cunningham](https://open.spotify.com/artist/78CiW0UJbHspFaVuVexOK6) | [In Light](https://open.spotify.com/album/3TN0tiqlA7kj1o7FtJ08XV) | 3:34 |
-| 89 | [For Months Now \(III\)](https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Months Now \(III\)](https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW) | 4:07 |
+| 89 | [Wild Mountain Thyme](https://open.spotify.com/track/1uDOVXkGFMJlsTndb2h3Mk) | [Roodnoot](https://open.spotify.com/artist/3I4WW7NbmYkKG988d3OKQI) | [Wild Mountain Thyme](https://open.spotify.com/album/0TBcf52Rt7ULny9VX9QP6d) | 4:28 |
 | 90 | [High Up](https://open.spotify.com/track/7bw14ijp1ulc2ML5Nq2cRW) | [Boy & Bear](https://open.spotify.com/artist/2NqgE99Ll5vOTvmbN7O2R6), [Boo Seeka](https://open.spotify.com/artist/1SFz3S9eSUTc49ysstadiO) | [High Up](https://open.spotify.com/album/04RRkuSWzmRggOYO1HAvpZ) | 3:41 |
-| 91 | [Wild Mountain Thyme](https://open.spotify.com/track/1uDOVXkGFMJlsTndb2h3Mk) | [Roodnoot](https://open.spotify.com/artist/3I4WW7NbmYkKG988d3OKQI) | [Wild Mountain Thyme](https://open.spotify.com/album/0TBcf52Rt7ULny9VX9QP6d) | 4:28 |
-| 92 | [Sweet Sixteen](https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Sweet Sixteen](https://open.spotify.com/album/1nusjfRY64IIfov6QqFhkI) | 4:01 |
-| 93 | [Woollen Women](https://open.spotify.com/track/5kSM7f7Bg9GgsTXs2Ro437) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Constant Distance](https://open.spotify.com/album/1NfdcDaioUmxBBUNfcv6JB) | 4:18 |
+| 91 | [For Months Now \(III\)](https://open.spotify.com/track/1S4dxxePAL21FZfgjdn5k0) | [Madi Diaz](https://open.spotify.com/artist/7E1o9IcnpiFQDlAUk2H7Az), [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [For Months Now \(III\)](https://open.spotify.com/album/7wicvkduvBHX8fEe2BMPxW) | 4:07 |
+| 92 | [Woollen Women](https://open.spotify.com/track/5kSM7f7Bg9GgsTXs2Ro437) | [Emma Hessels](https://open.spotify.com/artist/2EBGNZQqTRCOmaLi10FQ2g) | [Constant Distance](https://open.spotify.com/album/1NfdcDaioUmxBBUNfcv6JB) | 4:18 |
+| 93 | [Sweet Sixteen](https://open.spotify.com/track/3yvuxavteJieAqtUkkLjjP) | [Ciska Ciska](https://open.spotify.com/artist/6V1Hbm6ydOli9zOuVmZFmC) | [Sweet Sixteen](https://open.spotify.com/album/1nusjfRY64IIfov6QqFhkI) | 4:01 |
 | 94 | [Dove or the Devil](https://open.spotify.com/track/2qxYFnVKHQQf30SFa5VsWl) | [Camille Camille](https://open.spotify.com/artist/7mGSaMaJKk9GMxATlKBYQH) | [Enchanted Sea](https://open.spotify.com/album/7vvNyJtGEh4GStEjvZYXXf) | 3:36 |
 | 95 | [Daughters](https://open.spotify.com/track/0gkbSKHIteBnTaICk5olxg) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Daughters](https://open.spotify.com/album/47NyXXILF8gzdX8koVRirx) | 3:37 |
 | 96 | [Changing](https://open.spotify.com/track/71Bicxf83u2pxsdpRzm39W) | [Mooneye](https://open.spotify.com/artist/5WHt1gMUaK0iEm53NKNdxL) | [Come with Me and Hide](https://open.spotify.com/album/23pr3SrInhrmHAwBZxcJYY) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZLcGGC0HJbc.md) - [plain]
 | 99 | [Missionary Bell](https://open.spotify.com/track/1GluuaWtdcXDlqLDJxVdWf) | [Cass McCombs](https://open.spotify.com/artist/2iUVQjheBnvOt8vaBrxXJz) | [Interior Live Oak](https://open.spotify.com/album/2GMrzMBDK4rpOLXtTMECl2) | 4:24 |
 | 100 | [Trigger](https://open.spotify.com/track/72q4Hksp0Q6nhRGbDqDt3E) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Trigger](https://open.spotify.com/album/5PdcLSkMkoAU7GRGwyRflK) | 3:23 |
 
-Snapshot ID: `AAAAACau0lyxIT7CHRb5mh4s1wd8LFgt`
+Snapshot ID: `AAAAAFZ6tV4MKKPeYsb4ndzC4fJ+m1Zl`

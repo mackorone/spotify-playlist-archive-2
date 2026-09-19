@@ -2721,6 +2721,24 @@
     },
     {
       "album": {
+        "name": "Ese Pe\u00f1on",
+        "url": "https://open.spotify.com/album/4UrOmsEbfdkcdmLmzpmHsp"
+      },
+      "artists": [
+        {
+          "name": "Rochy RD",
+          "url": "https://open.spotify.com/artist/4riOEaOW5hCeqomFDBk0aP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148024,
+      "name": "Ese Pe\u00f1on",
+      "url": "https://open.spotify.com/track/15l4miPAqCo0WHESax75zg"
+    },
+    {
+      "album": {
         "name": "Eso E",
         "url": "https://open.spotify.com/album/57dLimWMxsMkIagUobbfpe"
       },
@@ -6413,6 +6431,24 @@
     },
     {
       "album": {
+        "name": "PERRA",
+        "url": "https://open.spotify.com/album/1iisP5Qkr4PJ1h2bdGCCxr"
+      },
+      "artists": [
+        {
+          "name": "Lil Naay",
+          "url": "https://open.spotify.com/artist/3hfWiirwdO1ijoZQwj7uzZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133548,
+      "name": "PERRA",
+      "url": "https://open.spotify.com/track/2NMxj0w0hat4kkkadr0TGJ"
+    },
+    {
+      "album": {
         "name": "Perrita",
         "url": "https://open.spotify.com/album/1PLmcdRyratFio8zQkoGyd"
       },
@@ -8754,7 +8790,7 @@
       ],
       "date_added": "2024-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 144004,
       "name": "To No Morimo",
       "url": "https://open.spotify.com/track/0WjYqtGGmGoPEVGk5kFqu8"

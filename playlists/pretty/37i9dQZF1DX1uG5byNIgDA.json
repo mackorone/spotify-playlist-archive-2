@@ -1,12 +1,12 @@
 {
   "description": "\ud589\ubcf5\ud558\uace0 \uc2e0\ub098\ub294 \uc74c\uc545\ub4e4\uacfc \ud568\uaed8 \uac13\uc0dd\uc744 \uc2dc\uc791\ud574\ubcf4\uc138\uc694! \ucd9c\ud1f4\uadfc \uae38\uc5d0 \ub4e4\uc73c\uc2dc\uba74 \ub354\uc6b1 \uc88b\uc2b5\ub2c8\ub2e4. (Kickstart your day with high-energy vibes, the ultimate soundtrack for your hustle and commute.)",
-  "num_followers": 216262,
+  "num_followers": 216244,
   "original_name": "RUSH HOUR: \uac13\uc0dd ON!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGalqyJpk946oRAsgMfjUTE5fIA8",
+  "snapshot_id": "AAAAALt3YP3HQqv62yqUJHcuAMSNOGcB",
   "tracks": [
     {
       "added_at": "2026-07-03 07:27:32",
@@ -419,6 +419,22 @@
     {
       "added_at": "2026-07-03 07:27:32",
       "album": {
+        "name": "Perfect Night",
+        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
+      },
+      "artists": [
+        {
+          "name": "LE SSERAFIM",
+          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
+        }
+      ],
+      "duration_ms": 159080,
+      "name": "Perfect Night",
+      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
+    },
+    {
+      "added_at": "2026-07-03 07:27:32",
+      "album": {
         "name": "BABYMONS7ER",
         "url": "https://open.spotify.com/album/0eSbsl3j8jz96LC2NCLPc4"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 140021,
       "name": "Lucky Girl Syndrome",
       "url": "https://open.spotify.com/track/2kIUILBPlz4exX9xIFS275"
-    },
-    {
-      "added_at": "2026-07-03 07:27:32",
-      "album": {
-        "name": "Perfect Night",
-        "url": "https://open.spotify.com/album/6Msc3BwzKZ5f5FXmKuUSu6"
-      },
-      "artists": [
-        {
-          "name": "LE SSERAFIM",
-          "url": "https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p"
-        }
-      ],
-      "duration_ms": 159080,
-      "name": "Perfect Night",
-      "url": "https://open.spotify.com/track/74X2u8JMVooG2QbjRxXwR8"
     },
     {
       "added_at": "2026-07-03 07:27:32",

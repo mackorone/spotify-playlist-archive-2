@@ -4,7 +4,7 @@
 
 > Chill techno, melodic house and tech house.
 
-808 songs - 3 day 2 hr 40 min
+809 songs - 3 day 2 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -69,6 +69,7 @@
 | [Baby Run](https://open.spotify.com/track/44COSTXHkxPVGfeyA038Qq) | [Jimi Jules](https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd) | [Baby Run](https://open.spotify.com/album/7FFjxOPlJ3RZe5omgkKTpc) | 4:47 | 2026-01-30 | 2026-03-17 |
 | [Baharat](https://open.spotify.com/track/6iuW3TfMShUo5FTi6NNsRC) | [Jerome Isma\-Ae](https://open.spotify.com/artist/4GEIawzVZxWGdtl9OOdgeA) | [Baharat](https://open.spotify.com/album/4nDtzWgOouNi3e09jNUwJa) | 4:01 | 2021-04-08 | 2022-07-25 |
 | [Balloons \- Made in Paris Remix](https://open.spotify.com/track/6sHBpR20gmPQmsAiqhbhJe) | [Nils Hoffmann](https://open.spotify.com/artist/6sOEMfvCfHQ9dhSWyamXVb), [Made in Paris](https://open.spotify.com/artist/7ejF235eYuh8PlQDLaJy0N) | [Once in a Blue Moon \(Remixes\)](https://open.spotify.com/album/2eghyUE7oGVnvdlHZhcbN6) | 5:46 | 2021-05-07 | 2022-06-10 |
+| [Be My Own](https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41) | [Kevin de Vries](https://open.spotify.com/artist/11aPF3sc8lDWNqPVInm4Zx), [Stylo](https://open.spotify.com/artist/0e8a2RTD02fJ5lmCBOR7DI), [MONTE](https://open.spotify.com/artist/5u7JRRh8fKRbjCA2CueKkX) | [Be My Own](https://open.spotify.com/album/3fpEe2Kl7Um32VkOkLsoU5) | 2:59 | 2026-09-18 |  |
 | [Be Patient](https://open.spotify.com/track/2d9QvDQS5ijgMBynTnYMa3) | [Alice DiMar](https://open.spotify.com/artist/3rNi4ttKcnvBaBT5aMYBNN) | [Be Patient](https://open.spotify.com/album/3xjRJcTxSTvP4QeR8EX1vj) | 3:08 | 2022-04-15 | 2022-04-20 |
 | [Be The One](https://open.spotify.com/track/4gDKviRLkpZowZhcnRPqqE) | [Adam Port](https://open.spotify.com/artist/2loEsOijJ6XiGzWYFXMIRk), [SG Lewis](https://open.spotify.com/artist/0GG2cWaonE4JPrjcCCQ1EG), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Be The One](https://open.spotify.com/album/4qnDtActtsWu2i8VH9wkmE) | 3:25 | 2026-04-24 |  |
 | [Beacon](https://open.spotify.com/track/5rlVY4N61BYRhEgBT8bLQk) | [Monolink](https://open.spotify.com/artist/2I4hRNCYkPKJQlkoEZKjYx) | [The Beauty Of It All](https://open.spotify.com/album/5ckEQxkxWVwC6SMPu0z266) | 4:50 | 2025-10-03 | 2025-11-04 |
@@ -330,7 +331,7 @@
 | [Hybrid Sounds](https://open.spotify.com/track/73LEqnV0JnO1a41qxdkgn3) | [Schwarz Avni](https://open.spotify.com/artist/001UurAm0cIXxR0hrqMepQ), [Tiefschwarz](https://open.spotify.com/artist/6f2k5CwVLvTy0rgw6Q8B4Q), [Yotam Avni](https://open.spotify.com/artist/4lSumeUuEBPEwWcozc0oba) | [Hybrid Sounds](https://open.spotify.com/album/29dvlndPExjenFcc4Tuuez) | 7:45 | 2019-08-06\* | 2020-02-09 |
 | [Hypercolour](https://open.spotify.com/track/3CmUXmrh17WIaQOQu9OVha) | [CamelPhat](https://open.spotify.com/artist/240wlM8vDrf6S4zCyzGj2W), [Yannis](https://open.spotify.com/artist/6CFQDzNLNcuK5lVZ766Yxt), [Foals](https://open.spotify.com/artist/6FQqZYVfTNQ1pCqfkwVFEa) | [Hypercolour](https://open.spotify.com/album/2EFTTJUDOQhbJ6c9kc0Vgu) | 3:29 | 2020-07-18 | 2022-11-26 |
 | [Hypnotease](https://open.spotify.com/track/4v4yMDQ3eO8uVSYRysgcyQ) | [Rich Vom Dorf](https://open.spotify.com/artist/1j1jzA1X6Lr19bxTlBS8n9) | [Hypnotease](https://open.spotify.com/album/4fT1pJeDDNgdpIXXVUoiQS) | 5:46 | 2022-01-14 | 2022-07-29 |
-| [I Cared For You](https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj) | [I Cared For You](https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu) | 4:30 | 2026-07-03 |  |
+| [I Cared For You](https://open.spotify.com/track/66POHEgKYBNW5cpocQvSfC) | [NTO](https://open.spotify.com/artist/7ry8L53T4oJtSIogGYuioq), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4), [Noah Kulaga](https://open.spotify.com/artist/4tgjM4H8ONwXj82PTVD5Bj) | [I Cared For You](https://open.spotify.com/album/6PoJhDNqk7LRys76iIwhDu) | 4:30 | 2026-07-03 | 2026-09-19 |
 | [I Don't Need You](https://open.spotify.com/track/5uVU4VEQmzeNg0F11Jxu47) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3vjULlZhcatjZgSREPs3V1) | 3:04 | 2022-10-28 | 2023-04-16 |
 | [I Don't Need You](https://open.spotify.com/track/0grLyO9HmxtestrFZrFJfU) | [southstar](https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi) | [Backseat Tape](https://open.spotify.com/album/3kukhQjrtZcMNL43oLBedf) | 3:04 | 2023-04-05 | 2024-04-19 |
 | [I Feel](https://open.spotify.com/track/4LIWlYAo7Ee2nl5GVuvCNC) | [INURE](https://open.spotify.com/artist/5NvzCumjwyLbFqorYKqIXd) | [I Feel](https://open.spotify.com/album/1GPFvq8fng96P1Isom1ZCZ) | 4:48 | 2020-07-25 | 2021-02-07 |

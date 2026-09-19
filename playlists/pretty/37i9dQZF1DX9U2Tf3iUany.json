@@ -1,12 +1,12 @@
 {
   "description": "Sophisticated palates only. Curated by: <a href=\"https://www.instagram.com/stevenvictor/\">Steven Victor</a>",
-  "num_followers": 60235,
+  "num_followers": 60238,
   "original_name": "Steven Victor's Taste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKmHFBr46CvFgfGjzVhwjkkCcEaM",
+  "snapshot_id": "AAAAAEESpI4hKraJF8vVsXivoWHcSZJp",
   "tracks": [
     {
       "added_at": "2022-10-01 16:00:00",
@@ -823,6 +823,22 @@
     {
       "added_at": "2022-10-01 16:00:00",
       "album": {
+        "name": "DAYTONA",
+        "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp"
+      },
+      "artists": [
+        {
+          "name": "Pusha T",
+          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
+        }
+      ],
+      "duration_ms": 166120,
+      "name": "The Games We Play",
+      "url": "https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn"
+    },
+    {
+      "added_at": "2022-10-01 16:00:00",
+      "album": {
         "name": "Greatest Hits",
         "url": "https://open.spotify.com/album/1WBZyULtlANBKed7Zf9cDP"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 314906,
       "name": "Picture Me Rollin'",
       "url": "https://open.spotify.com/track/71jzSTkT0F0w1v4moZIDyc"
-    },
-    {
-      "added_at": "2022-10-01 16:00:00",
-      "album": {
-        "name": "DAYTONA",
-        "url": "https://open.spotify.com/album/07bIdDDe3I3hhWpxU6tuBp"
-      },
-      "artists": [
-        {
-          "name": "Pusha T",
-          "url": "https://open.spotify.com/artist/0ONHkAv9pCAFxb0zJwDNTy"
-        }
-      ],
-      "duration_ms": 166120,
-      "name": "The Games We Play",
-      "url": "https://open.spotify.com/track/7iEoaTyBCqLaAwJnOP1BTn"
     }
   ],
   "unique_name": "Steven Victor's Taste",

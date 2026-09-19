@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 
 > unearthing music that makes life feel interesting, featuring working men's club
 
-[Spotify](https://open.spotify.com/user/spotify) - 404,136 likes - 85 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 404,114 likes - 85 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,4 +94,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYFysGpUi8gb.md) - [plain]
 | 84 | [swim](https://open.spotify.com/track/3TRP1MEDDkUw0YDsi8iQ3F) | [Night Tapes](https://open.spotify.com/artist/5APEQlUaQ5K70LgPqAdTuU) | [swim](https://open.spotify.com/album/4h4L56LbVAXREBss215iRB) | 6:11 |
 | 85 | [satellite](https://open.spotify.com/track/22KuAF3uNzkErSHplur0Un) | [Slow Fiction](https://open.spotify.com/artist/3ZyjpHbSpzsLV3ZEyJZBAW) | [satellite](https://open.spotify.com/album/61iu7I8eohNeK0XJVXwGG9) | 2:26 |
 
-Snapshot ID: `AAAAALaUf7cn9fxNHZdEGjqyhaSim1ET`
+Snapshot ID: `AAAAABMSSkR/j7hD+AoeCeUDEBUyDdAt`

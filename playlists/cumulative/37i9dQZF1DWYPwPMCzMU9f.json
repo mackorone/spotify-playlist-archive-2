@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-11-13",
-  "description": "\ud83d\udc94 yo nac\u00ed pa' querer a la que no me quiere y eso duele \ud83d\udc94 Foto: Yeison Jimenez",
+  "description": "\ud83d\udc94 t\u00fa y yo est\u00e1bamos viviendo algo bonito y disculpa si es que te vuelvo a insistir \ud83d\udc94 Foto: Luis Alfonso, Silvestre Dangond y Xavi",
   "name": "La Llorer\u00eda",
   "tracks": [
     {
@@ -252,7 +252,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 147945,
       "name": "Coraz\u00f3n Maleante",
       "url": "https://open.spotify.com/track/5RY2D7x6vmREBPQa3uq0sd"
@@ -385,6 +385,24 @@
     },
     {
       "album": {
+        "name": "Evoluci\u00f3n",
+        "url": "https://open.spotify.com/album/5bdv6THb6wb7DyCpDBv7be"
+      },
+      "artists": [
+        {
+          "name": "Grupo Firme",
+          "url": "https://open.spotify.com/artist/1dKdetem2xEmjgvyymzytS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 245500,
+      "name": "El Beneficio De La Duda",
+      "url": "https://open.spotify.com/track/5yXt80BNZGbmHFd0NHZHNn"
+    },
+    {
+      "album": {
         "name": "Alex Bueno",
         "url": "https://open.spotify.com/album/6MCkKGtuyBZRfS1xvH3mvr"
       },
@@ -422,6 +440,28 @@
       "duration_ms": 215263,
       "name": "El Problema",
       "url": "https://open.spotify.com/track/4fq7LJ43lbr1OYB93KvBDI"
+    },
+    {
+      "album": {
+        "name": "DOSIS",
+        "url": "https://open.spotify.com/album/3ubgQrcjkyLeiRuTSfOR3Z"
+      },
+      "artists": [
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Manuel Turizo",
+          "url": "https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199399,
+      "name": "En Privado",
+      "url": "https://open.spotify.com/track/6icgTkJIKnVzQ48ER6enLA"
     },
     {
       "album": {
@@ -628,7 +668,7 @@
       ],
       "date_added": "2024-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 258442,
       "name": "Kbron y Medio",
       "url": "https://open.spotify.com/track/5mCpJrvnlFIsOIxwd8VIc0"
@@ -1164,7 +1204,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 235235,
       "name": "No Pude Quitarte las Espinas",
       "url": "https://open.spotify.com/track/0kboeujB0vMltPld2uhRPR"
@@ -1593,6 +1633,32 @@
     },
     {
       "album": {
+        "name": "Sabor a Tequila",
+        "url": "https://open.spotify.com/album/1GVyTNO2C4Xd4qwBNe0iaX"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202621,
+      "name": "Sabor a Tequila",
+      "url": "https://open.spotify.com/track/2Yf4vYhuvTeoV2AaisltKc"
+    },
+    {
+      "album": {
         "name": "Salvavidas",
         "url": "https://open.spotify.com/album/7vhda7TSmOXiGlLtmVFS6c"
       },
@@ -1963,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "Reinicio",
+        "url": "https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7"
+      },
+      "artists": [
+        {
+          "name": "Lenin Ram\u00edrez",
+          "url": "https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192064,
+      "name": "Todo Lo Fue",
+      "url": "https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG"
+    },
+    {
+      "album": {
         "name": "Oro Salsero",
         "url": "https://open.spotify.com/album/3f7xnh39CMDvC6TVQf9oNU"
       },
@@ -2036,7 +2120,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 184864,
       "name": "Un Besito M\u00e1s",
       "url": "https://open.spotify.com/track/15EbEcyVuKFKsQFLVQPjrr"

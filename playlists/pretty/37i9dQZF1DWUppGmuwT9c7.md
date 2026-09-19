@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 
 > De grootste hits uit de kroeg in één playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 293,906 likes - 120 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 294,026 likes - 120 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUppGmuwT9c7.md) - [plain]
 | 119 | [Met Je Moeder Niks Te Maken](https://open.spotify.com/track/3qi2R0sJMjEftAaSjpFTot) | [Sander Kwarten](https://open.spotify.com/artist/3mF7KKbv6XN4QYjDOFFipn) | [Met Je Moeder Niks Te Maken](https://open.spotify.com/album/6ZkNv9kkbPfcIiyQjtWmgI) | 2:39 |
 | 120 | [In De Boeken](https://open.spotify.com/track/5iHmlYIg8FaLrfxjRbmj3M) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [In De Boeken](https://open.spotify.com/album/6W57eI7WR2WhTTfcyyWhw2) | 2:41 |
 
-Snapshot ID: `AAAAAOnRRwQGtVa+2hRdEEtLYxubEEz8`
+Snapshot ID: `AAAAAGn/8BDZU6rGkHp8R/kZ5a8CnM93`

@@ -1,12 +1,12 @@
 {
   "description": "Easy listening mix of recent hits, everyday favorites & some new songs you'll love. Cover: ROLE MODEL",
-  "num_followers": 504496,
+  "num_followers": 504562,
   "original_name": "Everyday Favorites ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACGjKVj8NywySMnvVK+0sY75U5Yj",
+  "snapshot_id": "AAAAALQRRKMlEPI1Zx2KukhY+v9n1ia9",
   "tracks": [
     {
       "added_at": "2026-08-21 04:02:46",
@@ -73,6 +73,22 @@
       "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
     },
     {
+      "added_at": "2026-09-18 04:00:34",
+      "album": {
+        "name": "Bass Persuades",
+        "url": "https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "duration_ms": 216104,
+      "name": "Let\u2019s Get Married",
+      "url": "https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k"
+    },
+    {
       "added_at": "2026-08-07 04:02:27",
       "album": {
         "name": "Secret Language",
@@ -119,6 +135,22 @@
       "duration_ms": 205523,
       "name": "Break Up in Reverse",
       "url": "https://open.spotify.com/track/6XdycV0dqSLTk6oZmKVTL6"
+    },
+    {
+      "added_at": "2026-09-18 04:00:34",
+      "album": {
+        "name": "Babydoll",
+        "url": "https://open.spotify.com/album/2FRSDXehsQLDy2rYnZ9Drq"
+      },
+      "artists": [
+        {
+          "name": "Jamie Miller",
+          "url": "https://open.spotify.com/artist/2LkkwxA19J8C52wPQl5bG6"
+        }
+      ],
+      "duration_ms": 178822,
+      "name": "Babydoll",
+      "url": "https://open.spotify.com/track/1o9mAOmNm3wT2NdyGV1Ard"
     },
     {
       "added_at": "2026-06-05 04:01:26",
@@ -621,22 +653,6 @@
       "url": "https://open.spotify.com/track/4GOYVxQPaKqen2QcoLtrlc"
     },
     {
-      "added_at": "2025-09-05 04:00:15",
-      "album": {
-        "name": "EURO-COUNTRY",
-        "url": "https://open.spotify.com/album/6p8GFQi9D44s9ODeml47ag"
-      },
-      "artists": [
-        {
-          "name": "CMAT",
-          "url": "https://open.spotify.com/artist/3VBNIRx1LxVdRqOiPgkLwv"
-        }
-      ],
-      "duration_ms": 272266,
-      "name": "When A Good Man Cries",
-      "url": "https://open.spotify.com/track/6VXIZWHmdOTHIFhsSkYFgQ"
-    },
-    {
       "added_at": "2026-05-15 23:14:14",
       "album": {
         "name": "Wishbone Deluxe",
@@ -991,22 +1007,6 @@
       "duration_ms": 195869,
       "name": "I CAN TELL",
       "url": "https://open.spotify.com/track/18wmUghxdWxTgFsW4leZnt"
-    },
-    {
-      "added_at": "2025-08-22 04:00:31",
-      "album": {
-        "name": "The Suburbs",
-        "url": "https://open.spotify.com/album/5DNXxlpEJF20jnQsFFTfmg"
-      },
-      "artists": [
-        {
-          "name": "Ruel",
-          "url": "https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn"
-        }
-      ],
-      "duration_ms": 188712,
-      "name": "The Suburbs",
-      "url": "https://open.spotify.com/track/1RtBcv6qFWBiKfVWfP7gHX"
     },
     {
       "added_at": "2026-01-23 05:00:31",

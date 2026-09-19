@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-09",
-  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. ROBI y Ar\u00f3n Piper en portada.\n",
+  "description": "Las canciones de pop m\u00e1s exitosas en M\u00e9xico. Rels B en portada.\n",
   "name": "S\u00f3lo Pop",
   "tracks": [
     {
@@ -854,6 +854,28 @@
       "duration_ms": 204520,
       "name": "AGUA",
       "url": "https://open.spotify.com/track/4e4t1qNN47CzmCxFffzs4U"
+    },
+    {
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
       "album": {
@@ -4314,7 +4336,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 235906,
       "name": "creiziiii",
       "url": "https://open.spotify.com/track/7F37hWsqlVNux3dATtr4ls"
@@ -7930,7 +7952,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 291115,
       "name": "Historias",
       "url": "https://open.spotify.com/track/0qM1sYOj4vluKnq6Ez6shg"
@@ -14656,7 +14678,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 186680,
       "name": "Pompas de Jab\u00f3n",
       "url": "https://open.spotify.com/track/7mbSHUDE3rftM885u0MQ4Q"
@@ -14780,6 +14802,24 @@
       "duration_ms": 216569,
       "name": "Prefiero Que Me Duela",
       "url": "https://open.spotify.com/track/1tkoq5jwdEpYsUdfqDqOIA"
+    },
+    {
+      "album": {
+        "name": "fill de la mar (2026)",
+        "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153741,
+      "name": "preso",
+      "url": "https://open.spotify.com/track/2CVpQ2AnL2I2XvnORd7WXo"
     },
     {
       "album": {
@@ -18096,6 +18136,24 @@
       "duration_ms": 213760,
       "name": "Tu Me Ense\u00f1aste",
       "url": "https://open.spotify.com/track/0367uF6vbcYnIYAgilNWYX"
+    },
+    {
+      "album": {
+        "name": "Tu Veneno",
+        "url": "https://open.spotify.com/album/1kEnS7aYBok4zUMNYazRxx"
+      },
+      "artists": [
+        {
+          "name": "Daniela Spalla",
+          "url": "https://open.spotify.com/artist/2VSRhqonKsL7KRAIk8SMmt"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260405,
+      "name": "Tu Veneno",
+      "url": "https://open.spotify.com/track/2xR6JxPvPcITjA0gM15evm"
     },
     {
       "album": {

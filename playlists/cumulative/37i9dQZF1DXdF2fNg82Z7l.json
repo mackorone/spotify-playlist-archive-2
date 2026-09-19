@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "a strictly smooth mood...Cover: Kelela",
+  "description": "a strictly smooth mood...",
   "name": "Raw Silk ",
   "tracks": [
     {
@@ -56,6 +56,32 @@
       "duration_ms": 200000,
       "name": "2 Much",
       "url": "https://open.spotify.com/track/4QySScdQnRDZjDaAdpY0AM"
+    },
+    {
+      "album": {
+        "name": "All Eyes",
+        "url": "https://open.spotify.com/album/2K4HdHvotZBsEP5mXV9OGe"
+      },
+      "artists": [
+        {
+          "name": "Baakio",
+          "url": "https://open.spotify.com/artist/36ws0N21AlYMI8YMyiz2Il"
+        },
+        {
+          "name": "Eco$ystem",
+          "url": "https://open.spotify.com/artist/42dkfArTdrcxq0NYRmo9rk"
+        },
+        {
+          "name": "UTILITY",
+          "url": "https://open.spotify.com/artist/07SL7uPXhqtBGz0Pqljjgi"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 113376,
+      "name": "2016",
+      "url": "https://open.spotify.com/track/3UvjjcxvC6hOJON7OzRMDS"
     },
     {
       "album": {
@@ -284,7 +310,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 236120,
       "name": "Almeda",
       "url": "https://open.spotify.com/track/6IAgarq2wDeYzpsY2Kx0Hw"
@@ -352,6 +378,24 @@
       "duration_ms": 175802,
       "name": "Angel Pt. 1 (feat. Jimin of BTS, JVKE & Muni Long)",
       "url": "https://open.spotify.com/track/4g1Ant3Me43Cm5Lx91bV8e"
+    },
+    {
+      "album": {
+        "name": "Are You Willing",
+        "url": "https://open.spotify.com/album/6STKU0OmvS8oV6N2z3WjBG"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230132,
+      "name": "Are You Willing",
+      "url": "https://open.spotify.com/track/6my2GkulHxUnSzKZkRv38d"
     },
     {
       "album": {
@@ -584,7 +628,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 256590,
       "name": "Black Box - feat. Kamasi Washington",
       "url": "https://open.spotify.com/track/2ZbvE8viThUEizWXz8GDCL"
@@ -718,7 +762,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 275590,
       "name": "Brasil",
       "url": "https://open.spotify.com/track/2rOyYldVLfwKghlS3SgNEW"
@@ -1782,7 +1826,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 160455,
       "name": "FREEDOM (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/3QRf1b0DZej59MUjFdg9k4"
@@ -1866,6 +1910,24 @@
       "duration_ms": 416322,
       "name": "Girl (feat. KAYTRANADA)",
       "url": "https://open.spotify.com/track/3PFaFVWq5wucLu6s4baj9D"
+    },
+    {
+      "album": {
+        "name": "Girls Next Door",
+        "url": "https://open.spotify.com/album/3xIqVZV1ty7QMpQOpg3GlM"
+      },
+      "artists": [
+        {
+          "name": "Sica",
+          "url": "https://open.spotify.com/artist/0lPbEIq95kQF2Xlbbp0y4B"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137538,
+      "name": "Girls Next Door",
+      "url": "https://open.spotify.com/track/0vCo7DTU7kVRd6NJrZRb9P"
     },
     {
       "album": {
@@ -2260,7 +2322,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 173114,
       "name": "HOT AS A BIC",
       "url": "https://open.spotify.com/track/0KykicNBk9kGkvydoKdKeR"
@@ -2438,7 +2500,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 204324,
       "name": "I'm a Rock",
       "url": "https://open.spotify.com/track/2KQtAZ5F8LK0vi0JyrpF6w"
@@ -3099,6 +3161,24 @@
     },
     {
       "album": {
+        "name": "Mighty Tree",
+        "url": "https://open.spotify.com/album/4NrWYYcNk1DlaZMiDJiq2c"
+      },
+      "artists": [
+        {
+          "name": "Louis Baker",
+          "url": "https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 311082,
+      "name": "Mighty Tree",
+      "url": "https://open.spotify.com/track/6x8Z5vWm5VRUGFgXsR36CY"
+    },
+    {
+      "album": {
         "name": "Miss Independent",
         "url": "https://open.spotify.com/album/0nqnSOBfk40E7PKulHrK8Z"
       },
@@ -3300,7 +3380,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 254015,
       "name": "My Boy",
       "url": "https://open.spotify.com/track/6zCOiqpJqq3IJ3zv075e1P"
@@ -3676,7 +3756,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 182740,
       "name": "No Way!",
       "url": "https://open.spotify.com/track/3clsu0NXBjwPQ0KI0BunEv"
@@ -3716,6 +3796,24 @@
       "duration_ms": 182516,
       "name": "OFF MY MIND",
       "url": "https://open.spotify.com/track/5NMwqBJmbT3Vx1feZXFqI3"
+    },
+    {
+      "album": {
+        "name": "Oh No",
+        "url": "https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96"
+      },
+      "artists": [
+        {
+          "name": "Rema",
+          "url": "https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195285,
+      "name": "Oh No",
+      "url": "https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN"
     },
     {
       "album": {
@@ -4546,7 +4644,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 215013,
       "name": "Romanticize (feat. Jenevieve)",
       "url": "https://open.spotify.com/track/1eqXXzzOpPM98Rliz3BAoT"
@@ -4866,7 +4964,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 215776,
       "name": "Silence",
       "url": "https://open.spotify.com/track/5Ea6VaQFplATEu2biAQdlB"
@@ -4932,6 +5030,28 @@
       "duration_ms": 155876,
       "name": "Slow Motion",
       "url": "https://open.spotify.com/track/14g8BK83DN5XToeCwRbBbq"
+    },
+    {
+      "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237250,
+      "name": "So Good (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
     },
     {
       "album": {
@@ -5462,7 +5582,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 233533,
       "name": "the bridge",
       "url": "https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX"
@@ -5722,7 +5842,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 320471,
       "name": "Time & Time (feat. Demae) [IG Culture Remix]",
       "url": "https://open.spotify.com/track/6dSffQCAJ4ZAZp3p9ZRcDA"
@@ -5898,7 +6018,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 179815,
       "name": "Tunnel Vision",
       "url": "https://open.spotify.com/track/3rFcgqq2tPwNT5G5TzISDA"
@@ -6444,6 +6564,24 @@
       "duration_ms": 165642,
       "name": "Yah Mean",
       "url": "https://open.spotify.com/track/5MUxrNd7Gr2HksLcAlB0IO"
+    },
+    {
+      "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173868,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"
     },
     {
       "album": {

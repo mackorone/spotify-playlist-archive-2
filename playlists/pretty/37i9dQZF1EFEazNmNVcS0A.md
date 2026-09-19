@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/31KmCnNeB0z9GdgtqlLDlH">Kid Harpoon</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,678 likes - 171 songs - 10 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,681 likes - 171 songs - 10 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -156,8 +156,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 146 | [Concrete](https://open.spotify.com/track/2YzOZVISn7UPohH8Ius1ah) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:49 |
 | 147 | [All I Got Is You](https://open.spotify.com/track/5LdqOr1f7cq7EZOfs2UqsG) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:44 |
 | 148 | [Little Things](https://open.spotify.com/track/5PcUoMGPDNSmYzLYrt0yqu) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:14 |
-| 149 | [Robot Love](https://open.spotify.com/track/7FPrSOO1S9OzVNS4OS25Rs) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/0ctNJzlDkmLEO3pWXeFtTB) | 3:27 |
-| 150 | [Still Young](https://open.spotify.com/track/5qGPBJkL6moL7wr9ET1Q7k) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:21 |
+| 149 | [Still Young](https://open.spotify.com/track/5qGPBJkL6moL7wr9ET1Q7k) | [Inhaler](https://open.spotify.com/artist/6lyMYewq2SuTFIXgiv7OxH) | [Open Wide](https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1) | 3:21 |
+| 150 | [Robot Love](https://open.spotify.com/track/7FPrSOO1S9OzVNS4OS25Rs) | [Mayer Hawthorne](https://open.spotify.com/artist/4d53BMrRlQkrQMz5d59f2O) | [Where Does This Door Go \(Deluxe Edition\)](https://open.spotify.com/album/0ctNJzlDkmLEO3pWXeFtTB) | 3:27 |
 | 151 | [Stay On Me](https://open.spotify.com/track/2PtLFjdYbFdbXn4qYX5Y0L) | [Sophie Ellis\-Bextor](https://open.spotify.com/artist/2cBh5lVMg222FFuRU7EfDE) | [Perimenopop](https://open.spotify.com/album/0aKJ5KioHYFoiioK0HZZzn) | 3:07 |
 | 152 | [Wash Me In The Water](https://open.spotify.com/track/2qtZj7T7nYixKbVvPInwvy) | [Jamie N Commons](https://open.spotify.com/artist/2FsZnS8gQ8jG1HGnPYNlm9) | [Rumble And Sway EP](https://open.spotify.com/album/7MpGww78i1qn7ZPZBT27jH) | 3:33 |
 | 153 | [In My Way](https://open.spotify.com/track/4Vzu7HaiibAZ8HoaO8NwR1) | [Gin Wigmore](https://open.spotify.com/artist/4Gzfk9Lxm67nBs7E9BZjzG) | [Blood To Bone](https://open.spotify.com/album/3dtekEn6Y5SpEDO4sy1d1o) | 3:29 |
@@ -180,4 +180,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFEazNmNVcS0A.md) - [plain]
 | 170 | [Hold On](https://open.spotify.com/track/1Jfl0IXNH6aJgNWSpBNqN2) | [Kid Harpoon](https://open.spotify.com/artist/0raU17YI2OXuenDM7N7gfh) | [Once](https://open.spotify.com/album/2EsDLIabBTzC4IdNU07KAa) | 3:15 |
 | 171 | [Numb](https://open.spotify.com/track/4mlcYfLYLVVIqp9pKL0pcS) | [Kimberly Anne](https://open.spotify.com/artist/7uX9gyS2bhEYXaOjqKnAWq) | [From the Trauma Care Unit](https://open.spotify.com/album/4aDPxEMbiEuwxmzR2s1FKv) | 3:23 |
 
-Snapshot ID: `AcclCAAAAAAITpqUuZ3udFgNec4WUv2/`
+Snapshot ID: `AccqxgAAAAB7mUEdWldZ9gDJ8MfTT1VP`

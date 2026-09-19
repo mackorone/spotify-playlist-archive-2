@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 
 > Club classics from the homeland of dance music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,784 likes - 80 songs - 7 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,909 likes - 80 songs - 7 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,8 +52,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 42 | [French Kiss \- The Original Underground Mix](https://open.spotify.com/track/7hnqJYCKZFW7vMoykaraZG) | [Lil' Louis](https://open.spotify.com/artist/5A16TE7083RJq3yzpdsQWs), [The World](https://open.spotify.com/artist/62ltJFdLVl9JUrdhzWqp0F) | [Club Epic \- A Collection Of Classic Dance Mixes: Volume 4](https://open.spotify.com/album/5EeLmKBK9L5zt1m2hpzIjW) | 9:51 |
 | 43 | [Chime \(Edit\) \- Remastered](https://open.spotify.com/track/5LOKOBboMIbi4moxpjuFL5) | [Orbital](https://open.spotify.com/artist/3csPCeXsj2wezyvkRFzvmV) | [Chime](https://open.spotify.com/album/5Q5TZTTdvn7njWWGNjlJdm) | 3:14 |
 | 44 | [Little Fluffy Clouds](https://open.spotify.com/track/7FVvHGA46aU7mkwx4iHMRE) | [The Orb](https://open.spotify.com/artist/5HAtRoEPUvGSA7ziTGB1cF) | [Adventures Beyond The Ultraworld](https://open.spotify.com/album/0ee1sAau9a2DXQkAyezdwk) | 4:27 |
-| 45 | [Yeke Yeke](https://open.spotify.com/track/7yuF2FK7adgzGiIfEpR7Km) | [Mory Kanté](https://open.spotify.com/artist/0roLSs1WqlurDniSZ1pttN) | [Akwaba Beach](https://open.spotify.com/album/7gWws7q8OQDc8t5R4IXIx3) | 3:58 |
-| 46 | [We Come 1 \- Radio Edit](https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Faithless 2.0](https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O) | 3:42 |
+| 45 | [We Come 1 \- Radio Edit](https://open.spotify.com/track/7reoZz80hQYuWtEn0Lsd0p) | [Faithless](https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE) | [Faithless 2.0](https://open.spotify.com/album/5USqWtDnrzYSN7oh1wPl2O) | 3:42 |
+| 46 | [Yeke Yeke](https://open.spotify.com/track/7yuF2FK7adgzGiIfEpR7Km) | [Mory Kanté](https://open.spotify.com/artist/0roLSs1WqlurDniSZ1pttN) | [Akwaba Beach](https://open.spotify.com/album/7gWws7q8OQDc8t5R4IXIx3) | 3:58 |
 | 47 | [Destination Calabria \- Extended Mix](https://open.spotify.com/track/5FLHMNGjvwvvyk2gx5rNue) | [Alex Gaudino](https://open.spotify.com/artist/7vb7VLDqpLTlAy1ctTMR5d), [Crystal Waters](https://open.spotify.com/artist/2sd9Q3r0Jhqpe3w9WVuG43) | [Destination Calabria](https://open.spotify.com/album/4sRexfGVnXMBJ1k5RW5WT8) | 6:56 |
 | 48 | [State of Independence](https://open.spotify.com/track/3mZ6PVxWBhCycZxeEJQDNs) | [Donna Summer](https://open.spotify.com/artist/2eogQKWWoohI3BSnoG7E2U) | [Donna Summer](https://open.spotify.com/album/5FrCkoFG25Zd6QVJTtviYW) | 5:51 |
 | 49 | [Adiós ayer](https://open.spotify.com/track/3inZkpVlyHfLoxwuyu2GYW) | [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU) | [Navigator\. 15th Anniversary Edition](https://open.spotify.com/album/6SeGjJ8MSAoYw44wcXsesp) | 5:02 |
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 54 | [Maybe The Sunset](https://open.spotify.com/track/00CQJXwhMPdoyXRlITsoBT) | [José Padilla](https://open.spotify.com/artist/7rDHusYGKfhI7ZNIGeUibU), [Lydmor](https://open.spotify.com/artist/5aubywQASFk4xdR0fVTxFR) | [So Many Colours](https://open.spotify.com/album/4WlD2i4Eb75fNj9VukkEB8) | 6:04 |
 | 55 | [Lullaby \- Extended Mix](https://open.spotify.com/track/3oHh50CILa1PKDBSvfVuDd) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [Mixed Up \(Remastered 2018 / Deluxe Edition\)](https://open.spotify.com/album/3huHRCpnBNMIrU4e10HDtr) | 7:45 |
 | 56 | [Stop Bajon \- Club Mix](https://open.spotify.com/track/0WRWjlZ4R7b9Jz3CVzKz4B) | [Tullio De Piscopo](https://open.spotify.com/artist/677NtrMPiyPumrSUs8lBKk) | [Acqua E Viento](https://open.spotify.com/album/7tg26RTYMYqwep1civ4E0g) | 7:14 |
-| 57 | [T.V\. Scene \- Sensurround Mix](https://open.spotify.com/track/2boRfspDMS8D2e44lw6VTl) | [Linda Di Franco](https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW) | [T.V\. Scene \(Sensurround Mix\)](https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae) | 7:18 |
-| 58 | [Mutual Feelin' \- Edit](https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK) | [Somethin' Sanctified](https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0) | [Mutual Feelin' \(Edit\)](https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O) | 3:46 |
+| 57 | [Mutual Feelin' \- Edit](https://open.spotify.com/track/05qsISHwuU9QGnce33vkpK) | [Somethin' Sanctified](https://open.spotify.com/artist/3y0q5tz9jmBCnqzPyLVzO0) | [Mutual Feelin' \(Edit\)](https://open.spotify.com/album/7tXpbm0az3GXSF9mTxni9O) | 3:46 |
+| 58 | [T.V\. Scene \- Sensurround Mix](https://open.spotify.com/track/2boRfspDMS8D2e44lw6VTl) | [Linda Di Franco](https://open.spotify.com/artist/7DslfczzwUOIbfmCiGmIgW) | [T.V\. Scene \(Sensurround Mix\)](https://open.spotify.com/album/5uPIx8188wcE4JsxGe4Kae) | 7:18 |
 | 59 | [Watch The Sunrise \- Extended Vocal](https://open.spotify.com/track/0gkPk0ZveKo3407ahJtsgB) | [Axwell](https://open.spotify.com/artist/1xNmvlEiICkRlRGqlNFZ43), [Steve Edwards](https://open.spotify.com/artist/2SwhNukah1MYpLR594PnuC) | [Watch The Sunrise](https://open.spotify.com/album/1Md7ZeYEBe2lkEnxMxFpeZ) | 6:12 |
 | 60 | [A Dream's A Dream](https://open.spotify.com/track/6SGOR8yLKOxa6sB9p7mQPr) | [Soul II Soul](https://open.spotify.com/artist/2sIx6SmAMw9IBySG3Uj0jf) | [Volume II \- 1990 A New Decade](https://open.spotify.com/album/24zCSTLxBLjzz3yenDjqFF) | 5:38 |
 | 61 | [Don't You Want Me \- Hooj Mix Edit](https://open.spotify.com/track/3zXRtN3UOtt197xbTxv1A1) | [Felix](https://open.spotify.com/artist/6iRRErKYy1iojOaJoq6Ltk), [Rollo Armstrong](https://open.spotify.com/artist/6hFSukEzqXAkCIcXNnctZ4), [Red Jerry](https://open.spotify.com/artist/5TmU0aKScXjIZuJlHQcKaW) | [Essential \- The 90s](https://open.spotify.com/album/1suw2wSUQSR9ZJxL2xkh3e) | 3:07 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZK99LPvBBfP.md) - [plain]
 | 79 | [The Age Of Love \- Jam & Spoon Watch Out For Stella Mix](https://open.spotify.com/track/0rgQp5Pi4C2G8vQrhaTS7b) | [Age Of Love](https://open.spotify.com/artist/03tes5RhEvH2dX2eDeGnRn) | [The Age Of Love](https://open.spotify.com/album/1lvQv4KLgECYj4jPkwGPh5) | 6:48 |
 | 80 | [The Sun Rising](https://open.spotify.com/track/4pCvvYLj3N4kdz0jvR33Dw) | [The Beloved](https://open.spotify.com/artist/46h3caIKtqPlEfRHuSdibg) | [Happiness](https://open.spotify.com/album/3cGR7Z78GMRPXetD6cFGjG) | 5:05 |
 
-Snapshot ID: `AAAAAGeChsNn3IpDuAVDUm2NTtolBNa2`
+Snapshot ID: `AAAAAB2OS8SpIoJFO2WrJAczbKsNkVxd`

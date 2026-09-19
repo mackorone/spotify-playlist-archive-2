@@ -4,7 +4,7 @@
 
 > Damn son, where'd ya find this?
 
-825 songs - 1 day 22 hr 8 min
+826 songs - 1 day 22 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -349,6 +349,7 @@
 | [I SCREAM](https://open.spotify.com/track/3AccdL73dItIK8flPFVF0x) | [G Milla](https://open.spotify.com/artist/50UcvA9EhQUMxHRMLggZnW) | [I SCREAM](https://open.spotify.com/album/0cVGVCp5DmQ9MRjqGPkFzE) | 1:46 | 2023-12-15 | 2024-02-24 |
 | [I Smell Pussy](https://open.spotify.com/track/6YTGeOilUBLvOGrpPBZ1OR) | [G\-Unit](https://open.spotify.com/artist/6evKD5JWJON3qPBJtUEmtY) | [Beg For Mercy](https://open.spotify.com/album/0BolFrIcCXXppUK50ETvgy) | 3:58 | 2024-05-17 |  |
 | [I Wish \- Radio Edit](https://open.spotify.com/track/0QMHVTnrFTQJoaqmkdsKhT) | [Skee\-Lo](https://open.spotify.com/artist/55Pp4Ns5VfTSFsBraW7MQy) | [I Wish](https://open.spotify.com/album/74QhQQa0lhpkOSrz9HXWyE) | 4:12 | 2022-10-14 | 2023-04-09 |
+| [I'm Good](https://open.spotify.com/track/7306lGgwtFFpubz8PN4Z0G) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh) | [DPG WU\-TANG, WU\-TANG DPG \-THE GODBODY LP\-](https://open.spotify.com/album/2KovdnHtmmm4JrAmln3Yqp) | 5:15 | 2026-09-18 |  |
 | [I'm Mad At Me \(feat\. Lil Wayne\)](https://open.spotify.com/track/0OwUA3xLGpxgsBNQYVMno4) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [A Love Letter To You 5](https://open.spotify.com/album/4zkMdAqSIOLL2BOFZeQ3tg) | 3:12 | 2023-08-11 | 2023-08-26 |
 | [I'm Still Somehow](https://open.spotify.com/track/6cGROQpysVhw5Pd4UEvp5n) | [El Michels Affair](https://open.spotify.com/artist/0cLrgpG3pW4MX4nD8h6qCc), [Black Thought](https://open.spotify.com/artist/6DJEUXZm0e2rAohdoZ5Voo) | [I'm Still Somehow](https://open.spotify.com/album/6WiNe8IgYj8qMt0NM6zuug) | 2:04 | 2023-03-31 | 2023-04-15 |
 | [I'm the Bag](https://open.spotify.com/track/5hLTaD7ZuEtDOkfETWkhlD) | [Queen Key](https://open.spotify.com/artist/3IhYHKVt0Q9vxCCwiCHahR) | [I'm the Bag](https://open.spotify.com/album/1m2gjLVruReTBQgtFAYrFR) | 1:56 | 2023-02-03 | 2023-02-25 |
@@ -761,7 +762,7 @@
 | [Trouble](https://open.spotify.com/track/7CbQmo7ePU46TTC1Wz6TOi) | [XL the Band](https://open.spotify.com/artist/5Dr4feymCwbAmK7bvXpSbl), [Swollen Members](https://open.spotify.com/artist/30QbUq31PEXAT4QFYZyBAM), [Alpha Omega](https://open.spotify.com/artist/0vHwhWeuE1DBBZO7wA9ZMf) | [Trouble](https://open.spotify.com/album/4KpkCdySMe6TWjN4rQln3a) | 3:27 | 2023-04-07 | 2023-04-29 |
 | [Trouble Man.](https://open.spotify.com/track/5jPtXvN5kdWaA1H5A7SfID) | [Thelonious](https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI) | [Trouble Man.](https://open.spotify.com/album/3OjYPZsH6dkXft8n2bpn3z) | 2:10 | 2022-04-29 | 2022-09-03 |
 | [Truth \(Is In The Eyes\)](https://open.spotify.com/track/5WKWhXU2uRXhQyxEIs6wB4) | [Danny Miles](https://open.spotify.com/artist/4gKUbrpi04oVG9zEGaAuxi), [Aquakultre](https://open.spotify.com/artist/38Lr1bGvJiIU0UKntaJJus) | [Truth \(Is In The Eyes\)](https://open.spotify.com/album/1S76crj63VlavdiENElN4G) | 3:25 | 2024-05-23 | 2024-07-27 |
-| [TRUTH HURTS](https://open.spotify.com/track/0QSs6rMlWl0JWU53HKMgsR) | [Ashton Francis](https://open.spotify.com/artist/18SWkvRmEGTL9349v0Hu5s) | [OBJECTS IN MIRROR ARE CLOSER THAN THEY APPEAR](https://open.spotify.com/album/3eJGGMA3ffRB8q4dKx0RpF) | 3:29 | 2026-04-22 |  |
+| [TRUTH HURTS](https://open.spotify.com/track/0QSs6rMlWl0JWU53HKMgsR) | [Ashton Francis](https://open.spotify.com/artist/18SWkvRmEGTL9349v0Hu5s) | [OBJECTS IN MIRROR ARE CLOSER THAN THEY APPEAR](https://open.spotify.com/album/3eJGGMA3ffRB8q4dKx0RpF) | 3:29 | 2026-04-22 | 2026-09-19 |
 | [TRUTH OR DARE](https://open.spotify.com/track/5FNgzQI7b3PqEBrL9RHjBP) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8), [Freddie Gibbs](https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb) | [TRUTH OR DARE](https://open.spotify.com/album/5BJ69eEkaAShh1YxodOnb8) | 4:05 | 2023-06-30 | 2023-12-09 |
 | [TULUM](https://open.spotify.com/track/7xSlkebKRYibm6plhrEQAX) | [Kota the Friend](https://open.spotify.com/artist/2AfU5LYBVCiCtuCCfM7uVX), [Hit\-Boy](https://open.spotify.com/artist/6q3p11nP1p80Ey6LrOOSed) | [Lyrics to GO Vol\. 5](https://open.spotify.com/album/0R78djLTRtZIvdySvSRjql) | 2:35 | 2024-01-26 | 2024-08-24 |
 | [Turkey Wings \- Bonus Track](https://open.spotify.com/track/3MjtBnv45fIRRo9Qp9ul3C) | [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [The Elephant Man's Bones The ALC Edition](https://open.spotify.com/album/1G0ESeSyFudOH7k6xzfreh) | 2:31 | 2023-09-01 | 2023-09-23 |

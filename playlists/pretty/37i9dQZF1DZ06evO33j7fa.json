@@ -1,12 +1,12 @@
 {
   "description": "This is Nick Drake. The essential tracks, all in one playlist.",
-  "num_followers": 62445,
+  "num_followers": 62452,
   "original_name": "This Is Nick Drake",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAAlEMV/DxjwCYij4lOpmDaJ",
+  "snapshot_id": "aqstgAAAAACRGEpaO6fxSYl9fZV+avfm",
   "tracks": [
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 133226,
-      "name": "Been Smoking Too Long",
-      "url": "https://open.spotify.com/track/5PRuDR6a4sh2CnnzRMI0ps"
+      "duration_ms": 60626,
+      "name": "Sketch 1",
+      "url": "https://open.spotify.com/track/78m3lFjooXA5MaJ1gRSh2Z"
     },
     {
       "added_at": null,
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/5c3GLXai8YOMid29ZEuR9y"
         }
       ],
-      "duration_ms": 60626,
-      "name": "Sketch 1",
-      "url": "https://open.spotify.com/track/78m3lFjooXA5MaJ1gRSh2Z"
+      "duration_ms": 133226,
+      "name": "Been Smoking Too Long",
+      "url": "https://open.spotify.com/track/5PRuDR6a4sh2CnnzRMI0ps"
     },
     {
       "added_at": null,

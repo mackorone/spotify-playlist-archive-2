@@ -2349,6 +2349,28 @@
     },
     {
       "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Brendan Yates",
+          "url": "https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178391,
+      "name": "Powerlines",
+      "url": "https://open.spotify.com/track/7uvsxYvJwAGTdxMNJrgtbQ"
+    },
+    {
+      "album": {
         "name": "Victorious",
         "url": "https://open.spotify.com/album/2dwb86bhTK0Nr9ClfXQbZA"
       },
@@ -2742,7 +2764,7 @@
       ],
       "date_added": "2021-11-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 235946,
       "name": "Space",
       "url": "https://open.spotify.com/track/20wnO4hGXbWvIPDEmED8gM"

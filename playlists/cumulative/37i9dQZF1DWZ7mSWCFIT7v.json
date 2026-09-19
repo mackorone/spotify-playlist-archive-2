@@ -932,7 +932,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 312000,
       "name": "Ascension.png",
       "url": "https://open.spotify.com/track/3HcJRxgltYkPo3M1jhryCC"
@@ -3922,7 +3922,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 297931,
       "name": "flow, out",
       "url": "https://open.spotify.com/track/3s7hc0XqsNWTfaAYD0Xbdf"
@@ -6792,6 +6792,28 @@
       "duration_ms": 346610,
       "name": "Noise and Chaos",
       "url": "https://open.spotify.com/track/4Mj4o0nMhfznMyz9BqvIja"
+    },
+    {
+      "album": {
+        "name": "Nokik Messiah",
+        "url": "https://open.spotify.com/album/5YGfqyMEvnI1LVhe1ZkEdG"
+      },
+      "artists": [
+        {
+          "name": "OR",
+          "url": "https://open.spotify.com/artist/0OVGzl7zhsnqmi9wFTHmsA"
+        },
+        {
+          "name": "John Talabot",
+          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393163,
+      "name": "Nokik Messiah",
+      "url": "https://open.spotify.com/track/3Z80IyXkWwtw1AQQWLQyjY"
     },
     {
       "album": {
@@ -11556,6 +11578,28 @@
       "duration_ms": 309618,
       "name": "XPNDR",
       "url": "https://open.spotify.com/track/5WtwS6vUsfOaCcSVztZYnN"
+    },
+    {
+      "album": {
+        "name": "Y EP (Remixes)",
+        "url": "https://open.spotify.com/album/7wggyx9Q4kzH4KtFRYb1Gg"
+      },
+      "artists": [
+        {
+          "name": "Next To Blue",
+          "url": "https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco"
+        },
+        {
+          "name": "RamonPang",
+          "url": "https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279529,
+      "name": "Y - RamonPang Remix",
+      "url": "https://open.spotify.com/track/1mevmwXKeSb8WzxYvqBCyd"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Pump up your adrenaline with Cheema Y & more!
 
-356 songs - 17 hr 2 min
+357 songs - 17 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -281,6 +281,7 @@
 | [PPL](https://open.spotify.com/track/0FjTHHJL0ouvjgXskvxwyK) | [Singga](https://open.spotify.com/artist/6nmrEhAdodPuhMLMbefluW) | [PPL](https://open.spotify.com/album/5PUZxnsYh7pWj0oRqZUkDM) | 3:38 | 2025-08-07 | 2025-08-22 |
 | [Pre Workout](https://open.spotify.com/track/0Ov71yacCGsGhHbFXwhKTo) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [ALPHA](https://open.spotify.com/album/6xONAWWocgNhYPBvUBjF8f) | 2:36 | 2024-10-23 | 2025-07-31 |
 | [Pump Up](https://open.spotify.com/track/1O1E1lbobekZp3PHVqDAMl) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb) | [Longway](https://open.spotify.com/album/44SVcjDKmwb0buNknrEpiW) | 2:30 | 2025-07-30 |  |
+| [Punjab](https://open.spotify.com/track/0oxsoUGV7bBNGmU7PsL4bt) | [Bobby Sandhu](https://open.spotify.com/artist/6dGJfSrWE2z9oBj7wZXG5q), [Ary B](https://open.spotify.com/artist/2Q0gszM51Kkyhwjs8BTkKa) | [Punjab](https://open.spotify.com/album/32sC4Ebg2FhHZGEDbEUgXp) | 2:32 | 2026-09-18 |  |
 | [Punjabi Kompa](https://open.spotify.com/track/3XUeQfDlKWphVg5LFWEaRi) | [фрози](https://open.spotify.com/artist/3IIpbS5XHnLSdXTP4c1YN2), [Tesher](https://open.spotify.com/artist/49YbNTLaaAbZHLtDI2aPGL) | [Punjabi Kompa](https://open.spotify.com/album/38K1o8yxmy7ZnHr4wJaYH3) | 3:10 | 2025-01-17 | 2025-02-04 |
 | [Putt Jatt Da](https://open.spotify.com/track/0xffKEAFkJB8ZWt0w38YAn) | [Simiran Kaur Dhadli](https://open.spotify.com/artist/6HDjrqj5bbSESYOj89PtP9), [Desi Trap Music](https://open.spotify.com/artist/7uZQ7O3hu5Z90Wg09ZB1ge) | [Putt Jatt Da](https://open.spotify.com/album/5RuqCvnNgBn5VUzm05EtlD) | 2:35 | 2025-04-04 |  |
 | [Putt Sardara De](https://open.spotify.com/track/7JPcZDsguZkm5OpofJ5pZl) | [Bhinda Aujla](https://open.spotify.com/artist/4452AKcmQh6NC4yNlTrR3D) | [Putt Sardara De](https://open.spotify.com/album/3ZG8s2MIYNXSImWF3ANpsK) | 2:04 | 2024-10-01 | 2024-10-22 |
@@ -341,7 +342,7 @@
 | [Thumke 100](https://open.spotify.com/track/6DC287c6vu72O9PeHSxqek) | [Vilen](https://open.spotify.com/artist/5gVozagAcRKYCeAVnlC3Nk), [Burrah](https://open.spotify.com/artist/6YB1D1koiebYqzQesSUfIS) | [Thumke 100](https://open.spotify.com/album/3MrfPOu6hAgFp0m0yvG1Y2) | 2:07 | 2024-11-04 | 2024-11-19 |
 | [Time Is Money](https://open.spotify.com/track/2qfgB5I2DCpnFLUIcNPTNR) | [Parmish Verma](https://open.spotify.com/artist/3OQRPFFS3OsltFjFAXu1kE), [Laddi Chahal](https://open.spotify.com/artist/3lmszXxkp47K9kDCRRPU8p), [Black Virus](https://open.spotify.com/artist/3baDngVJ6Eof0PzTWf42lU) | [Time Is Money](https://open.spotify.com/album/6kJgtWHygct1bH5kGEJPFQ) | 2:06 | 2025-06-02 | 2025-08-05 |
 | [Top Gear](https://open.spotify.com/track/2eGdocY9Ja9dqPpC2Ct7db) | [Raka](https://open.spotify.com/artist/6DaYS7s7hXtNtuGwBICzVB), [Meavin](https://open.spotify.com/artist/1nG9O8LanYlbxZVA28oYFV), [Gurlez Akhtar](https://open.spotify.com/artist/55kkrbuMkdzPGD7YGA6xrJ) | [Raah Rok De](https://open.spotify.com/album/4nRWjUkDrI4Du5nI7iFSDV) | 2:26 | 2024-11-21 | 2024-12-10 |
-| [Top Tier Gabbru](https://open.spotify.com/track/4G9sE1KgkZxs2IfQbE7GTy) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Top Tier Gabbru](https://open.spotify.com/album/4TqllDWypjYpW8WpDxnCNG) | 3:26 | 2026-07-22 |  |
+| [Top Tier Gabbru](https://open.spotify.com/track/4G9sE1KgkZxs2IfQbE7GTy) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Top Tier Gabbru](https://open.spotify.com/album/4TqllDWypjYpW8WpDxnCNG) | 3:26 | 2026-07-22 | 2026-09-19 |
 | [Track 2](https://open.spotify.com/track/3I3MuNOtHtWhbz6K7ySRWN) | [Veer Sandhu](https://open.spotify.com/artist/2X1Bu6jg2Se8OclSxn4byQ), [INDERZY](https://open.spotify.com/artist/2wnEx44eFeFJDWS2rPILkJ) | [](https://open.spotify.com/album/null) | 0:00 | 2025-09-15 | 2025-09-20 |
 | [Trade Marka](https://open.spotify.com/track/1we2yN08AAo5pNiT9ngdhC) | [Navi Warring](https://open.spotify.com/artist/30sKPEz7rychX6f8FkA56J), [Deepak Dhillon](https://open.spotify.com/artist/647Ivke8w05hNzKHs68ZSY) | [Trade Marka](https://open.spotify.com/album/1h74R55rRCrToyXTjJQE8P) | 3:02 | 2025-01-20 | 2025-02-04 |
 | [Try Me](https://open.spotify.com/track/5RaK2eqyHaBSyjEtI27w3T) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [Making Memories](https://open.spotify.com/album/3BGU0BqGwBkYDHpfCWFm7I) | 3:15 | 2023-09-04 | 2025-02-06 |

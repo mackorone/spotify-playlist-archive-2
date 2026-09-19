@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with J. Worra",
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Mesto",
   "name": "Dance Rising",
   "tracks": [
     {
@@ -144,7 +144,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 187384,
       "name": ".com",
       "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
@@ -5635,6 +5635,24 @@
     },
     {
       "album": {
+        "name": "The Arrival",
+        "url": "https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl"
+      },
+      "artists": [
+        {
+          "name": "KDAY",
+          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211363,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
+    },
+    {
+      "album": {
         "name": "Asa",
         "url": "https://open.spotify.com/album/2ZqR3WdAJcLqzrAnrfTqyf"
       },
@@ -6096,6 +6114,24 @@
       "duration_ms": 224541,
       "name": "B2B",
       "url": "https://open.spotify.com/track/3OrMbFUgXjchOYTU8TeLO7"
+    },
+    {
+      "album": {
+        "name": "Baby Do You Wanna Bump",
+        "url": "https://open.spotify.com/album/1KnYyxYPqjIfIi6epO99wm"
+      },
+      "artists": [
+        {
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214838,
+      "name": "Baby Do You Wanna Bump",
+      "url": "https://open.spotify.com/track/6dL7IcJKZsMk2ClvsW65GX"
     },
     {
       "album": {
@@ -10644,7 +10680,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 165675,
       "name": "Booty Roll",
       "url": "https://open.spotify.com/track/3fVnYcsWzLWc1iwplYUwOg"
@@ -15852,7 +15888,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 182535,
       "name": "COME THRU",
       "url": "https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY"
@@ -16458,6 +16494,28 @@
       "duration_ms": 198613,
       "name": "Control",
       "url": "https://open.spotify.com/track/3BvNkAEJ1pZ7r1LMMuDH4t"
+    },
+    {
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N"
+      },
+      "artists": [
+        {
+          "name": "Joseph Capriati",
+          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        {
+          "name": "GENNARO",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161250,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad"
     },
     {
       "album": {
@@ -28185,6 +28243,28 @@
     },
     {
       "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/667tkdMNb9tR0R68FPsdQP"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138750,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/1pJQFno9DA8ghYWMecImct"
+    },
+    {
+      "album": {
         "name": "Freak Me Now (with R\u00f3is\u00edn Murphy)",
         "url": "https://open.spotify.com/album/5C9mU8kbHika6CeQfTcePJ"
       },
@@ -30600,6 +30680,28 @@
       "duration_ms": 200000,
       "name": "Give It Up",
       "url": "https://open.spotify.com/track/46j2gbguuzgeBEVyfNMDhG"
+    },
+    {
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/6h2YCNXUNfDkHmTqVheOhE"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Astr\u00f8",
+          "url": "https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177098,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/6NZpSV9wwvtGLQUynf3ofk"
     },
     {
       "album": {
@@ -33752,7 +33854,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 156498,
       "name": "Hey Everybody",
       "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
@@ -42167,6 +42269,28 @@
     },
     {
       "album": {
+        "name": "P \u2605 K I",
+        "url": "https://open.spotify.com/album/2y1prRtwVuujlCVYcbcwEg"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "ance.",
+          "url": "https://open.spotify.com/artist/5gARTVXOrWKJrKoTdJ9TKk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208375,
+      "name": "Koi Si",
+      "url": "https://open.spotify.com/track/0xy2uyNdYhF6lI9ipDkiIA"
+    },
+    {
+      "album": {
         "name": "Kratos (A Little Closer)",
         "url": "https://open.spotify.com/album/5pFCMAphKik56FTRTgLgqh"
       },
@@ -42588,7 +42712,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 182000,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI"
@@ -45386,7 +45510,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 199626,
       "name": "Little More (Body Action)",
       "url": "https://open.spotify.com/track/7MMBk3p5G0SyPiNiUDgjPD"
@@ -45408,6 +45532,36 @@
       "duration_ms": 131000,
       "name": "Little Things x Gypsy Woman - L BEATS MASHUP",
       "url": "https://open.spotify.com/track/6xp1u6ZEHXX8DxJIFFrVoP"
+    },
+    {
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/7irXcUZhy8nyX0YKQbagpv"
+      },
+      "artists": [
+        {
+          "name": "HAL\u014c",
+          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214696,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1"
     },
     {
       "album": {
@@ -53934,7 +54088,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 176028,
       "name": "Next to U",
       "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
@@ -64084,7 +64238,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 215000,
       "name": "Right Thing",
       "url": "https://open.spotify.com/track/3iClibIjy24oX2tOGuBHYl"
@@ -64498,6 +64652,24 @@
       "duration_ms": 185625,
       "name": "Rock The Casbah",
       "url": "https://open.spotify.com/track/3D0LkP3sKoCuwPihiRtJfr"
+    },
+    {
+      "album": {
+        "name": "ROCK THE DISCO",
+        "url": "https://open.spotify.com/album/1x9bdn2Rjr5Y7d62C5N1zG"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "ROCK THE DISCO",
+      "url": "https://open.spotify.com/track/5DkQxWX81nR4TtMOzW3o24"
     },
     {
       "album": {
@@ -65014,6 +65186,32 @@
       "duration_ms": 180668,
       "name": "RUN INTO MY ARMS",
       "url": "https://open.spotify.com/track/0RTHKL6kDu7gCQf4qnCfRV"
+    },
+    {
+      "album": {
+        "name": "Niche Flex EP",
+        "url": "https://open.spotify.com/album/7aCKzsRIGIlWfrMEyD2M2b"
+      },
+      "artists": [
+        {
+          "name": "Sam Binga",
+          "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205104,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/0FeIdgocbmdrBHse3iWxGx"
     },
     {
       "album": {
@@ -85276,7 +85474,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 226896,
       "name": "Whisper To Me",
       "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"

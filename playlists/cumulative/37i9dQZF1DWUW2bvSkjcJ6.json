@@ -14843,6 +14843,24 @@
     },
     {
       "album": {
+        "name": "Detour (Rare N' Deluxe)",
+        "url": "https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258083,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV"
+    },
+    {
+      "album": {
         "name": "Automatic",
         "url": "https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A"
       },
@@ -21454,6 +21472,36 @@
       "duration_ms": 119200,
       "name": "Bestie",
       "url": "https://open.spotify.com/track/48gVZLYmMtVBihea1suHD4"
+    },
+    {
+      "album": {
+        "name": "made it out of the groupchat",
+        "url": "https://open.spotify.com/album/1pdOUre0A6ZYwIZs2biC2n"
+      },
+      "artists": [
+        {
+          "name": "bangerfabrique",
+          "url": "https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn"
+        },
+        {
+          "name": "emmamaelo",
+          "url": "https://open.spotify.com/artist/22rNY5viAKySIkxhN8xBjR"
+        },
+        {
+          "name": "melle",
+          "url": "https://open.spotify.com/artist/2IZgsJlw6u4ZnZlbGqlBHw"
+        },
+        {
+          "name": "nebou",
+          "url": "https://open.spotify.com/artist/02hm9wskKc1kHkGkn2ssge"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174315,
+      "name": "BESTIE <3",
+      "url": "https://open.spotify.com/track/4YjObQbFVj27nqYUuTjB2l"
     },
     {
       "album": {
@@ -39832,6 +39880,24 @@
       "duration_ms": 156044,
       "name": "CYBER TRUCK",
       "url": "https://open.spotify.com/track/11o11r4KmIVxCGxIUGd9X5"
+    },
+    {
+      "album": {
+        "name": "CYCLE",
+        "url": "https://open.spotify.com/album/6h85V2Uscwo83JnnkFpBk2"
+      },
+      "artists": [
+        {
+          "name": "A$AP Ferg",
+          "url": "https://open.spotify.com/artist/5dHt1vcEm9qb8fCyLcB3HL"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186240,
+      "name": "CYCLE",
+      "url": "https://open.spotify.com/track/6zG1h4f5LxtoryzQwmGPvk"
     },
     {
       "album": {
@@ -69514,6 +69580,28 @@
       "duration_ms": 150200,
       "name": "Get Buck",
       "url": "https://open.spotify.com/track/63F3FjzThdTnwwY7JLwTt0"
+    },
+    {
+      "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
     },
     {
       "album": {
@@ -110854,6 +110942,44 @@
       "duration_ms": 161806,
       "name": "Live It All",
       "url": "https://open.spotify.com/track/3fmQLmDfZAhrUhJxP4qvdK"
+    },
+    {
+      "album": {
+        "name": "Live My Life",
+        "url": "https://open.spotify.com/album/6EeU8oP8CbGowRcJFe5iAT"
+      },
+      "artists": [
+        {
+          "name": "HEARTSTEEL",
+          "url": "https://open.spotify.com/artist/4lY2DXvRv9RPeFcUtn6PUh"
+        },
+        {
+          "name": "League of Legends",
+          "url": "https://open.spotify.com/artist/47mIJdHORyRerp4os813jD"
+        },
+        {
+          "name": "BAEKHYUN",
+          "url": "https://open.spotify.com/artist/4ufh0WuMZh6y4Dmdnklvdl"
+        },
+        {
+          "name": "Connor Price",
+          "url": "https://open.spotify.com/artist/5zixe6AbgXPqt4c1uSl94L"
+        },
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Nic D",
+          "url": "https://open.spotify.com/artist/1XlLhtgJjC4ROQZilBZAvw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166494,
+      "name": "Live My Life",
+      "url": "https://open.spotify.com/track/2vC7UJ62Skqd0cQtDZ2cIc"
     },
     {
       "album": {
@@ -160569,6 +160695,24 @@
     },
     {
       "album": {
+        "name": "everything in between",
+        "url": "https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213450,
+      "name": "seven days a week",
+      "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
+    },
+    {
+      "album": {
         "name": "seventies",
         "url": "https://open.spotify.com/album/7otoxpOPVXeGEZT5ICsSaY"
       },
@@ -185493,78 +185637,6 @@
     },
     {
       "album": {
-        "name": "made it out of the groupchat",
-        "url": "https://open.spotify.com/album/1pdOUre0A6ZYwIZs2biC2n"
-      },
-      "artists": [
-        {
-          "name": "bangerfabrique",
-          "url": "https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 11",
-      "url": "https://open.spotify.com/track/4YjObQbFVj27nqYUuTjB2l"
-    },
-    {
-      "album": {
-        "name": "Detour (Rare N' Deluxe)",
-        "url": "https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 17",
-      "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV"
-    },
-    {
-      "album": {
-        "name": "harte mackerinnen ep",
-        "url": "https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC"
-      },
-      "artists": [
-        {
-          "name": "Dani Lia",
-          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 2",
-      "url": "https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg"
-    },
-    {
-      "album": {
-        "name": "everything in between",
-        "url": "https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
-    },
-    {
-      "album": {
         "name": "Track Team",
         "url": "https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL"
       },
@@ -191106,6 +191178,32 @@
       "duration_ms": 173359,
       "name": "Vergleiche",
       "url": "https://open.spotify.com/track/0HsuCKvms8l9GxRABl6S13"
+    },
+    {
+      "album": {
+        "name": "harte mackerinnen ep",
+        "url": "https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC"
+      },
+      "artists": [
+        {
+          "name": "Dani Lia",
+          "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        },
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161663,
+      "name": "verg\u00f6tter mich (mit b\u00fcrgermeisterin von wien)",
+      "url": "https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg"
     },
     {
       "album": {

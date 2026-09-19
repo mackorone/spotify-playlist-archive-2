@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-704 songs - 2 day 0 hr 10 min
+705 songs - 2 day 0 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,7 +76,7 @@
 | [Billinghurst \- Original Mix](https://open.spotify.com/track/1kZVDA9y4vL1pVDmmNGKji) | [Jeremy Olander](https://open.spotify.com/artist/5vdjF79d5d2m12FOkJhxHB) | [Damon EP](https://open.spotify.com/album/1fHq7k3X3rMsRx0xdRfL9F) | 7:36 | 2021-05-07 | 2022-04-20 |
 | [Biochemical](https://open.spotify.com/track/7nlK1F6iJ3Aih70YkltfJS) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Seth Hills](https://open.spotify.com/artist/5nFt7a5Du2MkdAr1KniXh7) | [Biochemical](https://open.spotify.com/album/1oNttAQgPEuS0NfPsdWhaS) | 2:43 | 2024-03-01 | 2025-09-28 |
 | [Bird](https://open.spotify.com/track/0MjVztKL0FI9oU6L9QKzLf) | [Recondite](https://open.spotify.com/artist/1doQgXssRfKnLx70adszbK) | [Bird EP](https://open.spotify.com/album/6gUapIjz0WUqMhf52onMec) | 5:50 | 2021-05-07 | 2022-04-19 |
-| [Blink](https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Blink](https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY) | 5:14 | 2025-09-19 |  |
+| [Blink](https://open.spotify.com/track/2TnIT2ztSmAE6iswiCPIQV) | [Bob Moses](https://open.spotify.com/artist/6LHsnRBUYhFyt01PdKXAF5) | [Blink](https://open.spotify.com/album/3ZXDOcCdVL2RE4WnuzJwyY) | 5:14 | 2025-09-19 | 2026-09-19 |
 | [Bloom](https://open.spotify.com/track/6pRvIg1q3LVQw63PwLJGlb) | [DJ\_Dave](https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme) | [Intercell](https://open.spotify.com/album/1H5RU9ymFKcu0GGt3QVZbI) | 3:16 | 2023-10-13 | 2023-11-04 |
 | [Bloom](https://open.spotify.com/track/4O8aAhhXLBCSTDW7zUF1FV) | [Paul Arcane](https://open.spotify.com/artist/4mX6KkWIws87dwZdorDOQA) | [Bloom / Rise](https://open.spotify.com/album/7z8dvy3gNn7Yys09BKgBtS) | 4:49 | 2021-05-07 | 2022-04-21 |
 | [Bloom At Night](https://open.spotify.com/track/1Hz5ZPQxC6esErNVN4cxr6) | [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Bloom At Night](https://open.spotify.com/album/2Z7t6PxnrVwUICV3qUBRtj) | 3:19 | 2024-03-22 | 2025-05-03 |
@@ -354,6 +354,7 @@
 | [LINE IN THE SAND](https://open.spotify.com/track/1ChJyLrvuFRUQIbBuavjcO) | [KILL SCRIPT](https://open.spotify.com/artist/1wvo1Xor4CLS2ySK1HywfH), [Linney](https://open.spotify.com/artist/0vomb9Zaob10lPzxBcIiNb) | [LINE IN THE SAND](https://open.spotify.com/album/3gJhVuyWCQR2B1HknimhZk) | 5:05 | 2022-06-03 | 2023-06-12 |
 | [Lioness \- Argy Remix](https://open.spotify.com/track/65baOP5OngpGwLOeFI1drl) | [Swedish House Mafia](https://open.spotify.com/artist/1h6Cn3P4NGzXbaXidqURXs), [Niki & The Dove](https://open.spotify.com/artist/4hiLNlqr4vQdiuo1aQKSXS), [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI) | [Lioness \(Argy Remix\)](https://open.spotify.com/album/3PXHFsTDpYQyQe31jilqYr) | 3:07 | 2024-12-13 |  |
 | [Little Darling \- Joris Voorn Remix](https://open.spotify.com/track/4NzjiBcQT7Hzp2hvuEViqe) | [Marsh](https://open.spotify.com/artist/1eucLGnPT27tdEh6MU29wp), [Joris Voorn](https://open.spotify.com/artist/4jGpKAmwvU263l0tUh4xKU) | [Little Darling \(Joris Voorn Remix\)](https://open.spotify.com/album/2dtExe65fdE0PJLhnPpFyU) | 3:20 | 2023-03-31 | 2024-07-03 |
+| [Live Again](https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1) | [HALŌ](https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n), [Third Party](https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V), [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Matisse & Sadko](https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88) | [Live Again](https://open.spotify.com/album/7irXcUZhy8nyX0YKQbagpv) | 3:34 | 2026-09-18 |  |
 | [Live My Life](https://open.spotify.com/track/2a0Az8oSMkiZjOpWNzXICs) | [DubVision](https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX), [Nicky Romero](https://open.spotify.com/artist/5ChF3i92IPZHduM7jN3dpg), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Live My Life](https://open.spotify.com/album/7C4dHLELP7ivO6HXeLltK3) | 4:01 | 2025-04-04 |  |
 | [London To Buenos Aires](https://open.spotify.com/track/44db9t1Dj5UJrBp99RQgvg) | [Paul Oakenfold](https://open.spotify.com/artist/5MO2kbaGGA2a8kL4c9qqHq), [Hernan Cattaneo](https://open.spotify.com/artist/4mpJaw5y17CIN08qqe8EfB) | [London To Buenos Aires](https://open.spotify.com/album/23voORn42hd5caxnLbTJwy) | 3:05 | 2025-01-10 |  |
 | [Lose Control](https://open.spotify.com/track/0bqjS54zmDlYanW8mlx28k) | [Grum](https://open.spotify.com/artist/3VEqFWRt47xQAZJMBF3duQ) | [Deep State](https://open.spotify.com/album/52beQVaTRkEsdip6N4nWZo) | 5:37 | 2021-05-07 | 2023-06-10 |

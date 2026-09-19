@@ -114,7 +114,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 151808,
       "name": "1-800",
       "url": "https://open.spotify.com/track/0AkmDhmbHBkKcw4Upq1NqQ"
@@ -703,6 +703,28 @@
     },
     {
       "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
+    },
+    {
+      "album": {
         "name": "Aguardiente",
         "url": "https://open.spotify.com/album/01sRdAXvIOOCKq2mQ4fvvN"
       },
@@ -856,7 +878,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 213011,
       "name": "ALGO T\u00da",
       "url": "https://open.spotify.com/track/1dHbcmMm9bov1q4lG7Q4nQ"
@@ -2954,6 +2976,24 @@
       "duration_ms": 145171,
       "name": "CAEN LAS ESTRELLAS",
       "url": "https://open.spotify.com/track/4L2v8fOruCUk2wbXC0PKHt"
+    },
+    {
+      "album": {
+        "name": "Caer y Levantarse",
+        "url": "https://open.spotify.com/album/7sRTvhUtL6QbVeVNO7BaYa"
+      },
+      "artists": [
+        {
+          "name": "Pedro Cap\u00f3",
+          "url": "https://open.spotify.com/artist/4QVBYiagIaa6ZGSPMbybpy"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 270925,
+      "name": "Caer y Levantarse",
+      "url": "https://open.spotify.com/track/0FYGlxgKse1U1v5QrfjXwj"
     },
     {
       "album": {
@@ -5366,7 +5406,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 268996,
       "name": "Despu\u00e9s de ti",
       "url": "https://open.spotify.com/track/6PbhFQkpQjoojWo2b6Ghoi"
@@ -6611,6 +6651,24 @@
     },
     {
       "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150560,
+      "name": "El \u00c1ngel",
+      "url": "https://open.spotify.com/track/6Pod4tijP0OFwDAxtweAMa"
+    },
+    {
+      "album": {
         "name": "El \u00c1rbol",
         "url": "https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v"
       },
@@ -6944,7 +7002,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 202542,
       "name": "EPA",
       "url": "https://open.spotify.com/track/1DtGtvgGRxsfHfwQu3cqfw"
@@ -7148,7 +7206,7 @@
       ],
       "date_added": "2025-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 209616,
       "name": "ESTA ES TU CASA NENA",
       "url": "https://open.spotify.com/track/1be5haaiIQXBp7nQFhhpge"
@@ -10061,6 +10119,28 @@
     },
     {
       "album": {
+        "name": "Para Cuando Sean Mayores",
+        "url": "https://open.spotify.com/album/4ObpOQskrI1sAUEysNy4FG"
+      },
+      "artists": [
+        {
+          "name": "Camilo",
+          "url": "https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N"
+        },
+        {
+          "name": "Evaluna Montaner",
+          "url": "https://open.spotify.com/artist/52qzWdNUp6ebjcNsvgZSiC"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203480,
+      "name": "La Medalla",
+      "url": "https://open.spotify.com/track/3xXf2AMnx9a8ArfpsOW2Td"
+    },
+    {
+      "album": {
         "name": "Por Primera Vez",
         "url": "https://open.spotify.com/album/6xS6mQz1fQZ6eZE654J15I"
       },
@@ -11266,7 +11346,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 221875,
       "name": "Mala mia",
       "url": "https://open.spotify.com/track/4hRfnv8MfjajsHdUhNYBY2"
@@ -11762,6 +11842,24 @@
       "duration_ms": 190570,
       "name": "Me Gusta",
       "url": "https://open.spotify.com/track/5Xhqh4lwJPtMUTsdBztN1a"
+    },
+    {
+      "album": {
+        "name": "956 fm",
+        "url": "https://open.spotify.com/album/20o1ttu3Ompq9JUcrPC8nK"
+      },
+      "artists": [
+        {
+          "name": "Mariangela",
+          "url": "https://open.spotify.com/artist/6rbhHufoSGkldXNhOtb6Mf"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182993,
+      "name": "Me Gustas Tanto!",
+      "url": "https://open.spotify.com/track/0RoG38prSYjBGsRyWtoue3"
     },
     {
       "album": {
@@ -12328,6 +12426,24 @@
       "duration_ms": 174708,
       "name": "Miami",
       "url": "https://open.spotify.com/track/2wRlMMLTfPao0vHpAJPtlY"
+    },
+    {
+      "album": {
+        "name": "Mil A\u00f1os Luz",
+        "url": "https://open.spotify.com/album/6uir6VliMqpzFyufG3XAPo"
+      },
+      "artists": [
+        {
+          "name": "Matisse",
+          "url": "https://open.spotify.com/artist/77aLk6J8ofnVxa1eXK9jiU"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252060,
+      "name": "Mil A\u00f1os Luz",
+      "url": "https://open.spotify.com/track/5BkQhPFhDit08E2j3wl62Z"
     },
     {
       "album": {
@@ -13338,6 +13454,24 @@
       "duration_ms": 203880,
       "name": "No me tires flores",
       "url": "https://open.spotify.com/track/0bZzyFUzIiqoTH744vtauR"
+    },
+    {
+      "album": {
+        "name": "Como agua",
+        "url": "https://open.spotify.com/album/5Ez4CgkoPdaPgmwgruraUG"
+      },
+      "artists": [
+        {
+          "name": "YE\u0418DRY",
+          "url": "https://open.spotify.com/artist/3Lk9AWrpD4bminO5LwmBOw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153371,
+      "name": "No me vuelvo a enamorar",
+      "url": "https://open.spotify.com/track/1D9HeHrfmxYBtxswHTOAnM"
     },
     {
       "album": {
@@ -14432,6 +14566,28 @@
       "duration_ms": 213001,
       "name": "pa ti toa <3",
       "url": "https://open.spotify.com/track/54NQtnCL950bGIHlZUMMDH"
+    },
+    {
+      "album": {
+        "name": "Pa' Bailar",
+        "url": "https://open.spotify.com/album/7nvo0gB4hZNFRn8sK0HXI0"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156493,
+      "name": "Pa' Bailar",
+      "url": "https://open.spotify.com/track/62EHKz3dRbYol2F0epVQ0Z"
     },
     {
       "album": {
@@ -17784,7 +17940,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 186293,
       "name": "supersexi",
       "url": "https://open.spotify.com/track/5MPHZfPu9hsXDPEqGjUgec"

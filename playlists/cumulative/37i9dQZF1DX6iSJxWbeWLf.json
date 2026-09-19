@@ -1409,6 +1409,24 @@
     },
     {
       "album": {
+        "name": "Pink Noise DLX",
+        "url": "https://open.spotify.com/album/63Ef6Cl05dO97Rhao5BA9Q"
+      },
+      "artists": [
+        {
+          "name": "Granular",
+          "url": "https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188465,
+      "name": "Pink Noise - Nex 12",
+      "url": "https://open.spotify.com/track/5Nvw37iTs54rYjncE4N0iY"
+    },
+    {
+      "album": {
         "name": "Pink Noise Dreamscape",
         "url": "https://open.spotify.com/album/3QPfOMSfVydZE7ESKo4frz"
       },
@@ -2364,6 +2382,24 @@
       "duration_ms": 172129,
       "name": "White Noise Ambience",
       "url": "https://open.spotify.com/track/2uzB21fohLT12TfjlRoMOz"
+    },
+    {
+      "album": {
+        "name": "White Noise Clouddrift",
+        "url": "https://open.spotify.com/album/28xcOAN68mOjULFIuStxfk"
+      },
+      "artists": [
+        {
+          "name": "Breezy Noise",
+          "url": "https://open.spotify.com/artist/3CXGywpBBnCFYvsuILK9XA"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150508,
+      "name": "White Noise Clouddrift",
+      "url": "https://open.spotify.com/track/5ywx0gWbPEg2Ks7ENEBIMy"
     },
     {
       "album": {

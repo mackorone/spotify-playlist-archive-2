@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IqoSRcZHzi.md) - [plain]
 
 > Iconic videos from one of country music's most iconic decades.
 
-[Spotify](https://open.spotify.com/user/spotify) - 724 likes - 54 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 815 likes - 54 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,4 +63,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4IqoSRcZHzi.md) - [plain]
 | 53 | [Blue](https://open.spotify.com/track/1g5EcKDECPxeI7kgkvcbxm) | [LeAnn Rimes](https://open.spotify.com/artist/2d3VHzlOEwXvmBdS4pzOPL) | [Blue](https://open.spotify.com/album/0gHvXXQ36Lz30Romr24rF6) | 2:49 |
 | 54 | [Poor, Poor Pitiful Me](https://open.spotify.com/track/1ak2K9SpHCjnDbxmNFxr6P) | [Terri Clark](https://open.spotify.com/artist/0HLOP0AdsaWe5Pt5TNueGC) | [Just The Same](https://open.spotify.com/album/2zUyHKwlBjczKdmYTykB8a) | 3:10 |
 
-Snapshot ID: `AAAAAIEOme/CpV2otBuqsgeKYcuXytkf`
+Snapshot ID: `AAAAAKD15y22bYw4kO0T2sUxS/8eUk82`

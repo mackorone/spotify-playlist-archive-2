@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-06-14",
-  "description": "Bienvenidx a la trampa mexa.  En portada: Onemillionkisses y Hwii",
+  "description": "Bienvenidx a la trampa mexa.  En portada: Sack Baby",
   "name": "TRAPPERZ_MX",
   "tracks": [
     {
@@ -196,7 +196,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 133050,
       "name": "29 D\u00edas",
       "url": "https://open.spotify.com/track/3nDNzYmqvjAQoSWXNDUUFw"
@@ -2150,7 +2150,7 @@
       ],
       "date_added": "2023-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 164494,
       "name": "Chicago",
       "url": "https://open.spotify.com/track/1tzTYPfNNu2QEwYqRISmGi"
@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 161739,
       "name": "De Gira",
       "url": "https://open.spotify.com/track/2M0yRM2dsjvRsLjn2npDZU"
@@ -3248,6 +3248,24 @@
       "duration_ms": 156805,
       "name": "Dollar Baby",
       "url": "https://open.spotify.com/track/5rUmUTm8XjVtjXsC2uVDUV"
+    },
+    {
+      "album": {
+        "name": "Dominos Paizza",
+        "url": "https://open.spotify.com/album/4qlZ2yVrEXWTHYqNbDs3mg"
+      },
+      "artists": [
+        {
+          "name": "Freddy Moreno",
+          "url": "https://open.spotify.com/artist/2kLRl0AbP8D7Fqyohb0Shf"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237830,
+      "name": "Dominos Paizza",
+      "url": "https://open.spotify.com/track/5pUuxA8t90PhSfMnBY7Y3x"
     },
     {
       "album": {
@@ -6076,7 +6094,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 186666,
       "name": "las piezas",
       "url": "https://open.spotify.com/track/02KvG6C6dp2tDhvPzHPV3W"
@@ -6448,6 +6466,32 @@
       "duration_ms": 163636,
       "name": "LORDS OF CINDER",
       "url": "https://open.spotify.com/track/7vpM6TMzb9QBM3jrCToQC4"
+    },
+    {
+      "album": {
+        "name": "lotto",
+        "url": "https://open.spotify.com/album/4quTPeTdndsthwzi0h12KB"
+      },
+      "artists": [
+        {
+          "name": "GoldenVato",
+          "url": "https://open.spotify.com/artist/2XmvJnNQlbfLL0NIsryD6b"
+        },
+        {
+          "name": "PastoRolo",
+          "url": "https://open.spotify.com/artist/0kzstq6q0UY544Y33H5YRu"
+        },
+        {
+          "name": "Daggo.vst3",
+          "url": "https://open.spotify.com/artist/3UE3rZDcA1lihSdOvVBfvB"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109499,
+      "name": "lotto",
+      "url": "https://open.spotify.com/track/28VTArfFfCsxZnyxXSwlzg"
     },
     {
       "album": {
@@ -9063,6 +9107,28 @@
     },
     {
       "album": {
+        "name": "Punta Verde",
+        "url": "https://open.spotify.com/album/4as4UhTrMBTpkOFQWvxBgq"
+      },
+      "artists": [
+        {
+          "name": "Russo",
+          "url": "https://open.spotify.com/artist/4yzuWxT9FcCZUuzdKh1Fc4"
+        },
+        {
+          "name": "Jan Glack",
+          "url": "https://open.spotify.com/artist/0Vg3WP6VS3IuKYwvnGsJFh"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238016,
+      "name": "Punta Verde",
+      "url": "https://open.spotify.com/track/6Vl94Dxz9bbZd2HRvZFMsF"
+    },
+    {
+      "album": {
         "name": "PUNTOS",
         "url": "https://open.spotify.com/album/616dHklJ46HJ21QkvVlGBm"
       },
@@ -10140,6 +10206,28 @@
       "duration_ms": 110300,
       "name": "SKYLINE",
       "url": "https://open.spotify.com/track/6R1Z1T2Sw38P7mKUOeW6KA"
+    },
+    {
+      "album": {
+        "name": "SLIPKNOT",
+        "url": "https://open.spotify.com/album/1rPy0BDMpgNOndc0y4Qpx3"
+      },
+      "artists": [
+        {
+          "name": "Tryzty",
+          "url": "https://open.spotify.com/artist/3WwHNlLL31bBoiHYzd8hAS"
+        },
+        {
+          "name": "Yama Make Them Bounce",
+          "url": "https://open.spotify.com/artist/5w4k2ycYs8poQj5iMR7Vdu"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144807,
+      "name": "SLIPKNOT",
+      "url": "https://open.spotify.com/track/0NnHpsgTHNh93W3oBsZZ6f"
     },
     {
       "album": {
@@ -11342,7 +11430,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 308305,
       "name": "Va a Valer Oro - Remix",
       "url": "https://open.spotify.com/track/0btljyoEP6j2zXJ32skWmO"
@@ -11486,6 +11574,24 @@
       "duration_ms": 184514,
       "name": "Vida Peligrosa",
       "url": "https://open.spotify.com/track/1lMxwYYTrh6OR1M49fsYuV"
+    },
+    {
+      "album": {
+        "name": "Visnes sucios",
+        "url": "https://open.spotify.com/album/3rYp99Hie7fA37C0UBJkAL"
+      },
+      "artists": [
+        {
+          "name": "Sack Baby",
+          "url": "https://open.spotify.com/artist/0hXIvlbouda8hdgcczoB3s"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211776,
+      "name": "Visnes sucios",
+      "url": "https://open.spotify.com/track/2gKgRooYkJcidvsGgxnbCN"
     },
     {
       "album": {

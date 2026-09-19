@@ -1587,6 +1587,28 @@
     },
     {
       "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 297506,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+    },
+    {
+      "album": {
         "name": "Hadestown (Original Broadway Cast Recording)",
         "url": "https://open.spotify.com/album/1J1yxODbNlqKbwRqJxYJUP"
       },
@@ -4685,6 +4707,24 @@
     },
     {
       "album": {
+        "name": "SATURATION",
+        "url": "https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 278125,
+      "name": "BOYS",
+      "url": "https://open.spotify.com/track/1H3GqbebLfBjqY8rW9oVyq"
+    },
+    {
+      "album": {
         "name": "Found Heaven",
         "url": "https://open.spotify.com/album/39gMxRpFKgIVvw3krIIam5"
       },
@@ -5910,6 +5950,24 @@
       "duration_ms": 175531,
       "name": "chaotic",
       "url": "https://open.spotify.com/track/4bt7eqP7mfWduRBKEpCAzM"
+    },
+    {
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 267960,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
     },
     {
       "album": {
@@ -9765,6 +9823,24 @@
     },
     {
       "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "album": {
         "name": "evermore (deluxe version)",
         "url": "https://open.spotify.com/album/6AORtDjduMM3bupSWzbTSG"
       },
@@ -12108,6 +12184,28 @@
       "duration_ms": 253993,
       "name": "Get Down",
       "url": "https://open.spotify.com/track/198ZUXC5jCr5DiQNlKBiNV"
+    },
+    {
+      "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
     },
     {
       "album": {
@@ -19831,6 +19929,24 @@
     },
     {
       "album": {
+        "name": "(((((ultraSOUND)))))",
+        "url": "https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200280,
+      "name": "Lovebomb",
+      "url": "https://open.spotify.com/track/6SOJwznM9EuhsspI20Xk0Z"
+    },
+    {
+      "album": {
         "name": "Unapologetic (Deluxe)",
         "url": "https://open.spotify.com/album/5pLlGJrxuQO3jMoQe1XxZY"
       },
@@ -25087,6 +25203,24 @@
     },
     {
       "album": {
+        "name": "PICK UP",
+        "url": "https://open.spotify.com/album/5ISHoGmszZO5dwiIzYFzmX"
+      },
+      "artists": [
+        {
+          "name": "zachdoa",
+          "url": "https://open.spotify.com/artist/6NE750JMOmsY57WeUHjHes"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131941,
+      "name": "PICK UP",
+      "url": "https://open.spotify.com/track/25edMffSHEeWLwPkyqVdkX"
+    },
+    {
+      "album": {
         "name": "Taylor Swift",
         "url": "https://open.spotify.com/album/7mzrIsaAjnXihW3InKjlC3"
       },
@@ -25417,6 +25551,24 @@
     },
     {
       "album": {
+        "name": "Chip Chrome & The Mono-Tones",
+        "url": "https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234093,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv"
+    },
+    {
+      "album": {
         "name": "Snow Angel",
         "url": "https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z"
       },
@@ -25432,6 +25584,24 @@
       "duration_ms": 146234,
       "name": "Pretty Girls",
       "url": "https://open.spotify.com/track/1dh5DUke1yHJzIF3Sa7nXC"
+    },
+    {
+      "album": {
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223253,
+      "name": "Pretty Girls Make Graves - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO"
     },
     {
       "album": {
@@ -28613,6 +28783,24 @@
     },
     {
       "album": {
+        "name": "La Historia Contin\u00faa...Parte IV",
+        "url": "https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286973,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
+    },
+    {
+      "album": {
         "name": "Warriors",
         "url": "https://open.spotify.com/album/3KMnVj85laQ3mvCp0k82Zl"
       },
@@ -30072,6 +30260,24 @@
       "duration_ms": 121412,
       "name": "STANKA POOH",
       "url": "https://open.spotify.com/track/1mMVC8AsuUUelwopm51Jht"
+    },
+    {
+      "album": {
+        "name": "SATURATION",
+        "url": "https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161000,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/1xfFPJdRjgDAaMcDgbXwyh"
     },
     {
       "album": {
@@ -35253,6 +35459,24 @@
     },
     {
       "album": {
+        "name": "unlearning you",
+        "url": "https://open.spotify.com/album/6FpOqgBHMr8KuAYUJKMQak"
+      },
+      "artists": [
+        {
+          "name": "Crying City",
+          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195864,
+      "name": "unlearning you",
+      "url": "https://open.spotify.com/track/1yCBTTm2QzU5eIsGUxlKEh"
+    },
+    {
+      "album": {
         "name": "Good Riddance (Deluxe)",
         "url": "https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ"
       },
@@ -36596,6 +36820,24 @@
       "duration_ms": 244236,
       "name": "We Were Happy (Taylor\u2019s Version) (From The Vault)",
       "url": "https://open.spotify.com/track/34V9RiEPe8MNdU32qJsJa1"
+    },
+    {
+      "album": {
+        "name": "Fisherman's Blues",
+        "url": "https://open.spotify.com/album/0lIGBQj12ehBETiO01zUZx"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 421933,
+      "name": "We Will Not Be Lovers - 2006 Remaster",
+      "url": "https://open.spotify.com/track/5HcSxmtgf66je7TNKO1rR9"
     },
     {
       "album": {

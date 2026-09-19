@@ -1557,6 +1557,24 @@
     },
     {
       "album": {
+        "name": "Fill This House",
+        "url": "https://open.spotify.com/album/5XanFeMZaQWVLucCxyyMHC"
+      },
+      "artists": [
+        {
+          "name": "Shirley Caesar",
+          "url": "https://open.spotify.com/artist/5hrUVXJsPParZB87QtAz1R"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237280,
+      "name": "Sow Righteous Seeds",
+      "url": "https://open.spotify.com/track/50BFszWY6FXWYy1QheXecM"
+    },
+    {
+      "album": {
         "name": "Heart to Yours",
         "url": "https://open.spotify.com/album/2AKIOgc7sL3yzA7AElE1SS"
       },
@@ -1766,7 +1784,7 @@
       ],
       "date_added": "2023-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 306071,
       "name": "The World Didn't Give It to Me",
       "url": "https://open.spotify.com/track/1I341GhDAnOmIa3NalRlff"

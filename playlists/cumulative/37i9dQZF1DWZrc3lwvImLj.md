@@ -4,7 +4,7 @@
 
 > lowkey crying.
 
-519 songs - 22 hr 36 min
+520 songs - 22 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -317,6 +317,7 @@
 | [Ornaments](https://open.spotify.com/track/4LgzLdKvlp9PxacJFVdwNI) | [John Crome](https://open.spotify.com/artist/5HCXtWcqdFJhJQYgevKCA5) | [Ornaments](https://open.spotify.com/album/34yhdzESZ5n9tyWLgJVo6j) | 3:34 | 2022-02-16 | 2023-11-16 |
 | [Orpheus](https://open.spotify.com/track/7AWRvkdNrKwbOtAdwrala2) | [Eric Sebastian](https://open.spotify.com/artist/5jVvCMHfdjbTVXntiqRhKp) | [Orpheus](https://open.spotify.com/album/5u6J1xnvJzVgBaSDhMIABv) | 3:27 | 2022-12-21 | 2023-11-16 |
 | [Overcast](https://open.spotify.com/track/5ACLrTERL7b7JQd2ZTfMjz) | [Sylvio](https://open.spotify.com/artist/3xi1oLL4AB1BfQBN9eZA8O) | [Overcast](https://open.spotify.com/album/6UcJJ2rPauLCJLaEzqFvCR) | 2:33 | 2021-12-14 | 2023-10-11 |
+| [Paleecho](https://open.spotify.com/track/0GincprMhLfOt2xq2UmU2F) | [Ion Mihutz](https://open.spotify.com/artist/6YTzCIrWAXP9KgZCU6O89m) | [Paleecho](https://open.spotify.com/album/1EwD9bgFaQQyG9bWX0hPHD) | 2:30 | 2026-09-18 |  |
 | [Paragon](https://open.spotify.com/track/7r2oQgswotJG7uxMvvomc6) | [Alvaro Pascoal](https://open.spotify.com/artist/0dMvKKoVhCg8rbwpmzZtAj) | [Paragon](https://open.spotify.com/album/2UizTfQJHP9iS8GTCrlgHe) | 2:40 | 2022-07-06 | 2025-11-06 |
 | [Parisienne](https://open.spotify.com/track/1epvt6Gm4OjEu1SjuSf1sr) | [Erik Sigurd](https://open.spotify.com/artist/71OSrLPABmMazSjgFaeDoQ) | [Parisienne](https://open.spotify.com/album/6SESsSqhmLi80C8l3NoTOY) | 6:25 | 2022-04-22 | 2022-06-07 |
 | [Pax](https://open.spotify.com/track/6ma8HDfAK7yjLJxBc5LkE2) | [Joep Beving](https://open.spotify.com/artist/2VKfXEWzhUi9siHBDTI02Y) | [Pax](https://open.spotify.com/album/3mvjKn2ciwtyMWl8pTklzW) | 5:28 | 2024-04-03 |  |

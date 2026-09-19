@@ -596,7 +596,7 @@
       ],
       "date_added": "2022-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 211760,
       "name": "Get Back",
       "url": "https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r"
@@ -1410,7 +1410,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 169659,
       "name": "Puppet Stringers",
       "url": "https://open.spotify.com/track/4fBFlRX8rbyuPWPSHByTos"
@@ -1590,10 +1590,28 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 190445,
       "name": "Smoke Signals from My Couch",
       "url": "https://open.spotify.com/track/1dP8TNNzaK2CxQbCIZaEwD"
+    },
+    {
+      "album": {
+        "name": "I.O.",
+        "url": "https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy"
+      },
+      "artists": [
+        {
+          "name": "zebrahead",
+          "url": "https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190445,
+      "name": "Smoke Signals from My Couch",
+      "url": "https://open.spotify.com/track/6UJnGHx1JGBdlmAIxcQrfz"
     },
     {
       "album": {

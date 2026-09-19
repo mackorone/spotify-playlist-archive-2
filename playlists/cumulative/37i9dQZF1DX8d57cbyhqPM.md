@@ -2,9 +2,9 @@
 
 ### [Biso Na Biso](https://open.spotify.com/playlist/37i9dQZF1DX8d57cbyhqPM)
 
-> Du Congo, au monde 🌍 avec Tonton SDM.
+> Du Congo, au monde 🌍 avec Tonton Mauvais djo.
 
-800 songs - 1 day 20 hr 40 min
+803 songs - 1 day 20 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,6 +22,7 @@
 | [2LOVE](https://open.spotify.com/track/23ID5AM06gtQXpiSWDFDRU) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [2LOVE](https://open.spotify.com/album/49cxG8i9nLPpeL99vgxu00) | 2:36 | 2025-12-19 | 2026-07-11 |
 | [2xt](https://open.spotify.com/track/3OJsrBDnnP0KuMvHJbD2Xk) | [Big Molimo AK](https://open.spotify.com/artist/5rv1KON2TIHnOPhQYYDIEp) | [2xt](https://open.spotify.com/album/140TfqfjBZ0RrgdQHzpJjf) | 2:06 | 2022-06-30 | 2022-08-27 |
 | [32](https://open.spotify.com/track/7l2z3f8fOQO0bsuh3tSu8g) | [Gradi Ki](https://open.spotify.com/artist/1MksR6DPJzCSgawz8OPwVD) | [32](https://open.spotify.com/album/2Kd1FJ0j7pIGlKzL8aaAga) | 1:38 | 2025-12-19 | 2026-02-21 |
+| [4](https://open.spotify.com/track/0TwQx4EjJbI0WCmnP8n4HO) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [4](https://open.spotify.com/album/5nVnAPXT2kZrNZbA86IWXu) | 2:20 | 2026-09-18 |  |
 | [50 ans](https://open.spotify.com/track/7ueSn0EJb0cOto5fNG5Us6) | [JB Mpiana](https://open.spotify.com/artist/23wkD6IAPu5rg1el0K5KLM) | [Balle de match \(Radio Edit\)](https://open.spotify.com/album/6tw6K0SGfNvcKk6XbhqeHx) | 7:17 | 2023-01-06 | 2023-03-11 |
 | [500](https://open.spotify.com/track/1YieXGaS4c81P4x02oUl61) | [Gaz Mawete](https://open.spotify.com/artist/4WSA56zRr2ZBnbQqVNrMay), [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah) | [Puzzle](https://open.spotify.com/album/3D0OJtFqBqjgfbsangQU2L) | 3:22 | 2023-02-24 | 2024-06-15 |
 | [5x](https://open.spotify.com/track/2FT8rLpopuHduXx11vbFzA) | [K\-Lito](https://open.spotify.com/artist/50n06A17txkLv57MU1BcqX) | [Ndima \(believe\)](https://open.spotify.com/album/08IND0ish4Rmk3oYgBRdMA) | 2:05 | 2023-07-21 | 2023-09-02 |
@@ -119,6 +120,7 @@
 | [Bomaye](https://open.spotify.com/track/3CEFVlSmv5KRooqXoKSPWS) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/2oz2hClmby2iAj7iWulReI) | 2:24 | 2022-10-21 | 2022-12-25 |
 | [Bomaye](https://open.spotify.com/track/50ZsyxjMWxPjzun9kXmxv9) | [Omo Frenchie](https://open.spotify.com/artist/6VROqAbDagFNCB52DA4nO9) | [Bomaye](https://open.spotify.com/album/6ssjdtgwemdgvwovgOdEKr) | 2:24 | 2022-12-16 | 2023-06-24 |
 | [Bonbon](https://open.spotify.com/track/3Lasn0k10J5Xx3nlez8N6h) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [Bonbon](https://open.spotify.com/album/1ADfN6Y8bD0kgEtMYcm6dn) | 2:21 | 2025-11-28 | 2026-01-17 |
+| [BONNIE](https://open.spotify.com/track/4qR2MiJJTVLFjboDX2kVh8) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [BONNIE](https://open.spotify.com/album/1Ihlnpxhr5mOuPiTwtoHg5) | 2:57 | 2026-09-18 |  |
 | [Booster](https://open.spotify.com/track/2uRtKtAriztwH2ZTYEL5NU) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok) | [Booster](https://open.spotify.com/album/1s94fh2aVxfSpTVD3SZFJb) | 2:11 | 2026-07-17 |  |
 | [Boss](https://open.spotify.com/track/3HeBKfgNiFgor7SjzzX85S) | [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED), [Guccima](https://open.spotify.com/artist/5ZsfSFTF5DlQ8gRSe65Mhh) | [Boss](https://open.spotify.com/album/0wGVLoQ4igKEYOiTbMaEWr) | 3:16 | 2023-10-06 | 2024-01-27 |
 | [Boss II \(Liputa\)](https://open.spotify.com/track/1G0yq5GFkqlvsIE96NXWqH) | [Gino J](https://open.spotify.com/artist/4cAltlzViWaH9SL0RKlrED), [Guccima](https://open.spotify.com/artist/5ZsfSFTF5DlQ8gRSe65Mhh) | [Me vs Moi](https://open.spotify.com/album/5wNBA4zMpAfiPKPECTIVJg) | 3:07 | 2025-11-21 | 2026-02-21 |
@@ -263,7 +265,7 @@
 | [Fais ça bien](https://open.spotify.com/track/7lTpq4P6yA8YbldQ7CgcDx) | [Hiro](https://open.spotify.com/artist/64XqdWjtYhfMJeQB7wtAwS) | [Fais ça bien](https://open.spotify.com/album/478AuAkwWnCZ2fJb34Ai6N) | 3:04 | 2023-11-17 | 2024-08-24 |
 | [Falanga](https://open.spotify.com/track/0AWybPxbLUozPwkGxsj5c4) | [Paterne Maestro](https://open.spotify.com/artist/77I75BZlpcoggeiSxUUp7r) | [Falanga](https://open.spotify.com/album/7cwhSSLemX6cRGhqkQa26v) | 2:48 | 2024-08-30 | 2025-06-28 |
 | [False Prophets](https://open.spotify.com/track/7KK7kjtuN4pHuQCntYK2tM) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [False Prophets](https://open.spotify.com/album/5vFPQlcPZT8jDLSRXMrIxY) | 2:50 | 2025-07-25 | 2026-01-15 |
-| [FANTAISIE](https://open.spotify.com/track/6D3FyauwPesFG3RDs7IpML) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [FANTAISIE](https://open.spotify.com/album/6d9I4Fr7wF3edbZfl8TiBi) | 2:40 | 2026-07-24 |  |
+| [FANTAISIE](https://open.spotify.com/track/6D3FyauwPesFG3RDs7IpML) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [FANTAISIE](https://open.spotify.com/album/6d9I4Fr7wF3edbZfl8TiBi) | 2:40 | 2026-07-24 | 2026-09-19 |
 | [Favéla \(\#STATION 3\)](https://open.spotify.com/track/4RrEMleLv7K3Htsxly2hLs) | [Naza](https://open.spotify.com/artist/7xNYY1Zkb1vks5m9ATlJok), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [Favéla \(\#STATION 3\)](https://open.spotify.com/album/2Ei4g6zJuC6rtWPWtszUx3) | 2:58 | 2025-01-24 | 2025-10-18 |
 | [Faya](https://open.spotify.com/track/4UuBi6buMUZ0kOlYHEIn1m) | [Dyss MK](https://open.spotify.com/artist/5omTTGUh0GnhAXY8ovFqDq), [DJ Jordan MasterBoy](https://open.spotify.com/artist/2xD0xzBe6BVwqLJDxliXd9) | [Faya](https://open.spotify.com/album/3xFXM7xa6al9Fgxn0m608C) | 3:38 | 2022-07-29 | 2022-12-31 |
 | [Femme](https://open.spotify.com/track/2GI17itTcj3E7HmnMvqCPX) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb) | [Femme](https://open.spotify.com/album/0oEgAsCcZ4omuKHWDfWh4v) | 7:13 | 2022-11-11 | 2023-03-18 |
@@ -395,7 +397,7 @@
 | [Legende](https://open.spotify.com/track/7xhmtGvVqulcdUcsaauS15) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh) | [Legende](https://open.spotify.com/album/5Fxc5sWsRgEJ66jIkRBYYg) | 3:12 | 2023-12-08 | 2024-08-10 |
 | [Lekela Muadi](https://open.spotify.com/track/6PLr81r85eFZMivn5aHrOh) | [Tshala Muana](https://open.spotify.com/artist/7Eg9NJC0jFmuEtqT1N5Bdv) | [Mutuashi](https://open.spotify.com/album/19mFwYhkUjh2t4D93W8os3) | 5:22 | 2023-01-27 | 2023-02-25 |
 | [Lela](https://open.spotify.com/track/2aTtcIhZwFPxGB2w2WGrE8) | [RJ Kanierra](https://open.spotify.com/artist/3bUA7po6oFl7sVyq6ukrlx) | [Lela](https://open.spotify.com/album/3Vs0tt1V2JAU4ViJoSK8Hy) | 3:55 | 2024-08-09 | 2025-08-09 |
-| [Lelo](https://open.spotify.com/track/1pdNNU2wWIaZifmv9lwU90) | [DJ Faya](https://open.spotify.com/artist/4uWcueZxhQMoolyY5OAYTd), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Lelo](https://open.spotify.com/album/5bMg9qXRHnEnFiZdxSy1tX) | 3:04 | 2024-02-09 |  |
+| [Lelo](https://open.spotify.com/track/1pdNNU2wWIaZifmv9lwU90) | [DJ Faya](https://open.spotify.com/artist/4uWcueZxhQMoolyY5OAYTd), [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Lelo](https://open.spotify.com/album/5bMg9qXRHnEnFiZdxSy1tX) | 3:04 | 2024-02-09 | 2026-09-19 |
 | [Les bons comptes](https://open.spotify.com/track/5dsseFiaekcJxuvbFJJwqc) | [Jupiter & Okwess](https://open.spotify.com/artist/2tujJgEWPfR8gdqVw183dT), [Flavia Coelho](https://open.spotify.com/artist/4Lu4jDj4ky1wxvRDgL90tc) | [Les bons comptes](https://open.spotify.com/album/2S93cbtaf8VskHaMJjL2Xz) | 2:16 | 2024-12-06 | 2025-01-25 |
 | [LES DIAMANTS DE BOKASSA](https://open.spotify.com/track/1VBKQJ5AVNKROv0WJ2h4ZK) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [M.I.L.S 4](https://open.spotify.com/album/11XkHp613L7iXDGbQV9lAJ) | 2:32 | 2026-01-09 |  |
 | [Libala \(Kompa\)](https://open.spotify.com/track/5wV8TfNveuykrJe5hc70Yv) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [Libala \(Kompa\)](https://open.spotify.com/album/6p2WjXj8Jl0WbStW6iW6ju) | 2:40 | 2026-01-30 | 2026-02-21 |
@@ -655,7 +657,7 @@
 | [Saint Patrick](https://open.spotify.com/track/3nPbazoyLQO8ynVbpzBDdW) | [SenSey'](https://open.spotify.com/artist/23u2dvae3e0f3caJSqdlN5) | [Saint Patrick](https://open.spotify.com/album/0hol5X7wXvGAsVV0y0OFhG) | 2:07 | 2026-07-10 | 2026-07-18 |
 | [Sakwado](https://open.spotify.com/track/6wQzmZREyVEFT2LTWoK3jE) | [George Kipa](https://open.spotify.com/artist/3ueSDQRME8RZFqJpJUEsxR), [Gbandz](https://open.spotify.com/artist/3dq9mDztwPneAJs5bZkgWw), [Mwizz](https://open.spotify.com/artist/5bSeeBLmB0lRlEQk02KoeU) | [Sakwado](https://open.spotify.com/album/1lXZ9T2DUQuxUnqtbiSL3W) | 2:40 | 2022-06-30 | 2023-09-30 |
 | [Sala Sala](https://open.spotify.com/track/4ds8dnIqgWtzuxrnFrkS7q) | [Les Mamans du Congo](https://open.spotify.com/artist/7i6SYXEQQzBMOlb4M9hE1I), [RROBIN](https://open.spotify.com/artist/2xPaqV5LOTeUjSsMGaLVmY) | [Sala Sala](https://open.spotify.com/album/60M7cgeuKTmU3u9jMxRkAW) | 4:24 | 2023-02-10 | 2023-03-18 |
-| [Samedi Soir](https://open.spotify.com/track/6vuQTVtmkcFaMbB6v6hEbQ) | [Notche](https://open.spotify.com/artist/3N9OZlrjMVMRNyXAtiHytF) | [Samedi Soir](https://open.spotify.com/album/4Q7Qh0kWzHMnBOC1wV7Ho5) | 2:21 | 2026-09-11 |  |
+| [Samedi Soir](https://open.spotify.com/track/6vuQTVtmkcFaMbB6v6hEbQ) | [Notche](https://open.spotify.com/artist/3N9OZlrjMVMRNyXAtiHytF) | [Samedi Soir](https://open.spotify.com/album/4Q7Qh0kWzHMnBOC1wV7Ho5) | 2:21 | 2026-09-11 | 2026-09-19 |
 | [SAMU KANI](https://open.spotify.com/track/4G9qKwAEHXctjKlyTOMpZj) | [Bramsito](https://open.spotify.com/artist/1WDkNp8Duv9QhO246S4dDa) | [BIG MAN](https://open.spotify.com/album/6c0EWZUJUXYI6OgdteIOyu) | 2:34 | 2024-10-25 | 2025-07-12 |
 | [Samukaya \(feat\. Mosty\)](https://open.spotify.com/track/0E2Vr9povqsD8PbDbP4ugD) | [Jeunes Premiers 242](https://open.spotify.com/artist/52XKKAm1Dz5uQ9lIspNV58), [Mosty](https://open.spotify.com/artist/64idDFucLXetV5ccSBycS0) | [Samukaya \(feat\. Mosty\)](https://open.spotify.com/album/6wZw8vL4WhKxe4wYxzGutU) | 3:37 | 2025-05-16 | 2025-06-07 |
 | [SAN GOKU](https://open.spotify.com/track/33RwMBXnqn3V5i5uGoR1Nt) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK) | [LE NORD SE SOUVIENT](https://open.spotify.com/album/55DUcp4pTvwD4VzUnWaXfw) | 2:52 | 2024-09-13 | 2025-02-15 |
@@ -774,6 +776,7 @@
 | [WAKA WAKA](https://open.spotify.com/track/3IriOnjl5WTuREfvzDPjJ4) | [Ryan De La Cruz](https://open.spotify.com/artist/0hascI4XWSMRTdWgdxNI8T) | [WAKA WAKA](https://open.spotify.com/album/7f2AMUr6ZW0OIfRzg7fsk3) | 3:32 | 2022-08-26 | 2022-08-29 |
 | [Wake up](https://open.spotify.com/track/4qRgqWuM5PNKiuD7x3UPP9) | [Koffi Olomide](https://open.spotify.com/artist/7e14Bh8oZXNRmZxjhhTARb), [Papa Wemba](https://open.spotify.com/artist/6a4cdntqTPN10fph5A8zRQ) | [Wake Up](https://open.spotify.com/album/0isIGnIWJ4lVVmG2rvXF7I) | 6:49 | 2022-06-30 | 2022-12-17 |
 | [Walou](https://open.spotify.com/track/6UdrVmF6zi8Vw342UWAypc) | [Daniel Mundos](https://open.spotify.com/artist/3aLEhh4HY2Sdl0v0lWhZwc) | [Walou](https://open.spotify.com/album/5m0J6I9LHquC6zJJ4hxOBf) | 2:43 | 2025-05-23 | 2025-10-18 |
+| [Wanna Dance](https://open.spotify.com/track/19g1zuYxcp7Lg3hF4VSV5I) | [Fally Ipupa](https://open.spotify.com/artist/6IflU2YrY5Cyw7YoBICosV) | [Wanna Dance](https://open.spotify.com/album/7xma0F79Vw7xxNbwp87wTu) | 6:05 | 2026-09-18 |  |
 | [We Like](https://open.spotify.com/track/52j4ZPqoJCQaq4LlTrRUL7) | [Pierre Kwenders](https://open.spotify.com/artist/04B6sMoIopTgUAQM3dcSxP), [Poté](https://open.spotify.com/artist/4mHvZlo1KyW4kW3F1FE1q5) | [We Like](https://open.spotify.com/album/6YJQgTzZksirShExF4rvCJ) | 3:07 | 2025-01-31 | 2025-02-15 |
 | [What It Do Baby](https://open.spotify.com/track/2cSlM8aBaXFNoj7QBSXLmZ) | [Serge Ibaka](https://open.spotify.com/artist/4fDx6CTJ4KWhnAg6TvwmWe) | [What It Do Baby](https://open.spotify.com/album/2BNJwGkYA8mmSLAnVQQ2Cu) | 2:56 | 2023-10-27 | 2024-03-09 |
 | [Who Dembi](https://open.spotify.com/track/4TMimp5DUch0hydlFQbzph) | [Gn Breezy](https://open.spotify.com/artist/3Q9vYABYmVbX8Tv541J3eT), [Mestre Dangui](https://open.spotify.com/artist/0FqTHBfTk71N4hZXndB6E2) | [Who Dembi](https://open.spotify.com/album/1FA9LlthaSq66VHen2U2c6) | 3:40 | 2022-08-12 | 2022-12-31 |

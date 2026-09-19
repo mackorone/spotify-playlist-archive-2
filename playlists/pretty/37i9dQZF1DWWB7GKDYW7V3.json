@@ -1,12 +1,12 @@
 {
   "description": "De Spotify muziekredactie tipt 40 acts voor LL26! Nieuwe namen bekend: Kelis, Celeste, Willem, ZEP, Lambrini Girls en meer... ",
-  "num_followers": 37004,
+  "num_followers": 36998,
   "original_name": "Best of Lowlands",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANrDwqmW8FrG3jU2O9gvgLFo3xi3",
+  "snapshot_id": "AAAAAPXAiajZ4MWd/p26MEwx+Fe5CIn9",
   "tracks": [
     {
       "added_at": "2026-05-12 09:00:32",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
-        "name": "Franz Ferdinand",
-        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
-      },
-      "artists": [
-        {
-          "name": "Franz Ferdinand",
-          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
-        }
-      ],
-      "duration_ms": 237026,
-      "name": "Take Me Out",
-      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
         "name": "Oracular Spectacular",
         "url": "https://open.spotify.com/album/6mm1Skz3JE6AXneya9Nyiv"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 302840,
       "name": "Kids",
       "url": "https://open.spotify.com/track/1jJci4qxiYcOHhQR247rEU"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
+        "name": "Franz Ferdinand",
+        "url": "https://open.spotify.com/album/0vi5ePiEHrGZJF7QhnDW2z"
+      },
+      "artists": [
+        {
+          "name": "Franz Ferdinand",
+          "url": "https://open.spotify.com/artist/0XNa1vTidXlvJ2gHSsRi4A"
+        }
+      ],
+      "duration_ms": 237026,
+      "name": "Take Me Out",
+      "url": "https://open.spotify.com/track/20I8RduZC2PWMWTDCZuuAN"
     },
     {
       "added_at": "2026-05-12 09:00:32",
@@ -2035,6 +2035,22 @@
     {
       "added_at": "2026-05-12 09:00:32",
       "album": {
+        "name": "Blood",
+        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
+      },
+      "artists": [
+        {
+          "name": "Lianne La Havas",
+          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
+        }
+      ],
+      "duration_ms": 278200,
+      "name": "Green & Gold",
+      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
+    },
+    {
+      "added_at": "2026-05-12 09:00:32",
+      "album": {
         "name": "For Lack Of A Better Name",
         "url": "https://open.spotify.com/album/6WJvrBlL3zgu4mVoKyvMkl"
       },
@@ -2051,22 +2067,6 @@
       "duration_ms": 328253,
       "name": "Ghosts 'n' Stuff",
       "url": "https://open.spotify.com/track/4ua0IepBEISCWwF8dTJvcU"
-    },
-    {
-      "added_at": "2026-05-12 09:00:32",
-      "album": {
-        "name": "Blood",
-        "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
-      },
-      "artists": [
-        {
-          "name": "Lianne La Havas",
-          "url": "https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt"
-        }
-      ],
-      "duration_ms": 278200,
-      "name": "Green & Gold",
-      "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
     },
     {
       "added_at": "2026-05-12 09:00:32",

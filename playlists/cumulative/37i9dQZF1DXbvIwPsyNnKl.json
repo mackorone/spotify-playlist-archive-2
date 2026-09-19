@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-23",
-  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: Gloc-9",
+  "description": "The best of Pinoy hip-hop. KALYE Natin 'To. Cover: RAPROJECT SIX",
   "name": "KALYE",
   "tracks": [
     {
@@ -1237,6 +1237,32 @@
     },
     {
       "album": {
+        "name": "Baha",
+        "url": "https://open.spotify.com/album/0ToP4fye1bQzqvbrFU1WWT"
+      },
+      "artists": [
+        {
+          "name": "KASSA",
+          "url": "https://open.spotify.com/artist/1yZ7d1q1FUETRaa93RSiZ7"
+        },
+        {
+          "name": "Poison 13",
+          "url": "https://open.spotify.com/artist/2bXTlso46K6tKA1ANQsYGs"
+        },
+        {
+          "name": "Onad",
+          "url": "https://open.spotify.com/artist/08wfarqco5r3HUtWO4IV5O"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183472,
+      "name": "Baha",
+      "url": "https://open.spotify.com/track/7rnTQ1eEuE51yOSmH55kn0"
+    },
+    {
+      "album": {
         "name": "BAI NA BAI",
         "url": "https://open.spotify.com/album/3GQhCfio9Aec4AwVTUMdjD"
       },
@@ -1322,6 +1348,84 @@
       "duration_ms": 180490,
       "name": "Banana",
       "url": "https://open.spotify.com/track/3iSa7VCFrQiaG2SUqHeaYw"
+    },
+    {
+      "album": {
+        "name": "BIG CHEKE / AYE GG",
+        "url": "https://open.spotify.com/album/4v58kTD3CLDeUV9hLye3FK"
+      },
+      "artists": [
+        {
+          "name": "CHEKE.",
+          "url": "https://open.spotify.com/artist/4uZiskzbV8hQ9UsrUN2dNH"
+        },
+        {
+          "name": "Costa Cashman",
+          "url": "https://open.spotify.com/artist/5JSTkYzbFkLcx1vDw1RYxI"
+        },
+        {
+          "name": "THUGSTA",
+          "url": "https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x"
+        },
+        {
+          "name": "Fern.",
+          "url": "https://open.spotify.com/artist/7KoTRIhjkIQy2L8RjWDpfF"
+        },
+        {
+          "name": "Matt White",
+          "url": "https://open.spotify.com/artist/5wwh2J5HHs38gBfeOUgK93"
+        },
+        {
+          "name": "2ICEY",
+          "url": "https://open.spotify.com/artist/7emlGVjzcaBw6ndzROgua5"
+        },
+        {
+          "name": "riv",
+          "url": "https://open.spotify.com/artist/3wn0W7LBB2D2t8ZKScTeJ6"
+        },
+        {
+          "name": "Gaspari",
+          "url": "https://open.spotify.com/artist/32pwg5wo0jdAWgDIAiKKzi"
+        },
+        {
+          "name": "BABY FREEZE",
+          "url": "https://open.spotify.com/artist/4BQ84eYGgqG80ToE0F5rBQ"
+        },
+        {
+          "name": "GEE EXCLSV",
+          "url": "https://open.spotify.com/artist/6rjqsmPAKDp4RbgpsoLjGB"
+        },
+        {
+          "name": "ken$hin",
+          "url": "https://open.spotify.com/artist/5WwcK2mavKhvtPN9zEDb7J"
+        },
+        {
+          "name": "Iggy Napoles",
+          "url": "https://open.spotify.com/artist/5W3GwQT1NcWLptNoNmGCEQ"
+        },
+        {
+          "name": "Bankyu",
+          "url": "https://open.spotify.com/artist/6IvROQtaYPleoVZOlxMqwG"
+        },
+        {
+          "name": "dot.jaime",
+          "url": "https://open.spotify.com/artist/0ULME3YyOHybyb8oQCo7Kc"
+        },
+        {
+          "name": "Because",
+          "url": "https://open.spotify.com/artist/0n4a5imdLBN24fIrBWoqrv"
+        },
+        {
+          "name": "3o3 Shordie",
+          "url": "https://open.spotify.com/artist/6PFGzN5vUJ5IDPUkFTKGaF"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 489896,
+      "name": "BIG CHEKE.",
+      "url": "https://open.spotify.com/track/1lCcWP57MTetSZ8tjcl92v"
     },
     {
       "album": {
@@ -1568,7 +1672,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 142758,
       "name": "BOMBA",
       "url": "https://open.spotify.com/track/0sOkijXePf8GltBTHySvDt"
@@ -2368,7 +2472,7 @@
       ],
       "date_added": "2026-06-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 195688,
       "name": "DOET",
       "url": "https://open.spotify.com/track/3BUgSPP81wY0nTM7SKwqsI"
@@ -2774,6 +2878,28 @@
       "duration_ms": 175384,
       "name": "Faded (Raw)",
       "url": "https://open.spotify.com/track/5AxEGHRwgBqFDZ20ilkCw6"
+    },
+    {
+      "album": {
+        "name": "FAMOUS RICH",
+        "url": "https://open.spotify.com/album/0oEoj4Jc24pwUphdzvE7jp"
+      },
+      "artists": [
+        {
+          "name": "THUGSTA",
+          "url": "https://open.spotify.com/artist/5EmXpuTNIJc6YTD2su7L4x"
+        },
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225512,
+      "name": "FAMOUS RICH",
+      "url": "https://open.spotify.com/track/23yRNRMM5BrsvKx7CCxfuZ"
     },
     {
       "album": {
@@ -3358,6 +3484,36 @@
       "duration_ms": 229333,
       "name": "Good Game",
       "url": "https://open.spotify.com/track/0LKwGEMlYx9BsrTHXflMvg"
+    },
+    {
+      "album": {
+        "name": "Good Love",
+        "url": "https://open.spotify.com/album/0RM5WmSXKKOH3Xjlqj9r4X"
+      },
+      "artists": [
+        {
+          "name": "Gat Putch",
+          "url": "https://open.spotify.com/artist/641Pd0RfQQ81mnWu7Vlb8v"
+        },
+        {
+          "name": "Ghoti Scale",
+          "url": "https://open.spotify.com/artist/50teFCw4EgxAKJ6boDbrJi"
+        },
+        {
+          "name": "Uncle Dags",
+          "url": "https://open.spotify.com/artist/3RM6NEfGA58GBtXSUs3G5l"
+        },
+        {
+          "name": "Godd Patron",
+          "url": "https://open.spotify.com/artist/4Rn9rDVPtPwhQns97r95JO"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253440,
+      "name": "Good Love",
+      "url": "https://open.spotify.com/track/02fy6llneoW7xbL97qHZoF"
     },
     {
       "album": {
@@ -4842,7 +4998,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 198969,
       "name": "Leon (Ka)",
       "url": "https://open.spotify.com/track/643JRTr9lKVrOmgOTcUdEv"
@@ -9404,7 +9560,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 200816,
       "name": "TYPE KO",
       "url": "https://open.spotify.com/track/4NyMaEIaJGOxVeKkxghSqN"

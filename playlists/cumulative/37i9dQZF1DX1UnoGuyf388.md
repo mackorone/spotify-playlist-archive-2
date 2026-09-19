@@ -4,7 +4,7 @@
 
 > Pop music driving the current, every week\.  Cover: Rachel Chinouriri
 
-684 songs - 1 day 10 hr 35 min
+687 songs - 1 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -220,6 +220,7 @@
 | [Friends That Kiss](https://open.spotify.com/track/6yuLBqqPR9fs0lLWEPAXJx) | [La Rhonza](https://open.spotify.com/artist/5YOg6PEOX2N8a7Rn0rBRjD) | [Friends That Kiss](https://open.spotify.com/album/4IqXE6wpoVYJvn3wb7Owg2) | 3:05 | 2024-06-24 | 2024-12-07 |
 | [fue mejor \(feat\. SZA\)](https://open.spotify.com/track/4AIiCP2scA6jt6jAKfkvTX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [Sin Miedo \(del Amor y Otros Demonios\) ∞ \[Deluxe Version\]](https://open.spotify.com/album/64SrjXrYNfYvQcccFmYEHu) | 3:50 | 2022-02-04 | 2023-01-28 |
 | [Game Over](https://open.spotify.com/track/1dZW33lY36vkumMm5F5RrD) | [Synae](https://open.spotify.com/artist/3Q2nENhSwAYt3rP6LZUoIq) | [Game Over](https://open.spotify.com/album/40xnM71tlIZ299GruGToGD) | 2:20 | 2022-03-11 | 2023-01-28 |
+| [GARGANTUAN!!](https://open.spotify.com/track/7gCGEmplLzjjV0rG2YbLfZ) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [BULLDOZER!!](https://open.spotify.com/album/0ob10johhogCNiWerZeWkj) | 3:30 | 2026-09-18 |  |
 | [Genesis.](https://open.spotify.com/track/2bMhQ5kJTFTKEKBFzkMBvN) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [Genesis.](https://open.spotify.com/album/1hgQGj9c3rod2bjjMnfWj3) | 7:00 | 2024-06-07 | 2024-11-26 |
 | [Genius](https://open.spotify.com/track/2od6VwQ93pD6vfYss3oync) | [Ravyn Lenae](https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz) | [Bird's Eye](https://open.spotify.com/album/1uE3dRPe3SrGdNhd1nWlSa) | 2:35 | 2024-08-09 | 2025-01-11 |
 | [get better!](https://open.spotify.com/track/2FElV26FnQwjsGzmkh4Dom) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [get better!](https://open.spotify.com/album/44DDyYBv1WXPKfStRoCXPl) | 2:17 | 2025-09-19 | 2026-06-20 |
@@ -236,6 +237,7 @@
 | [GIRLS!](https://open.spotify.com/track/73ExiZGfM6v3atyTPmiOzH) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [GIRLS!](https://open.spotify.com/album/4cu1qX4jsDDrFHD6a7oaqF) | 2:22 | 2025-01-31 | 2025-06-21 |
 | [Give A Little Kindness](https://open.spotify.com/track/7JrYr89YEIGwWqiEFUlSvj) | [Lloyiso](https://open.spotify.com/artist/3CrKgAMSBXsnTugbUqpu6g) | [Seasons](https://open.spotify.com/album/7K4KWIiH8u4q319jECEwAZ) | 2:44 | 2023-03-31 | 2023-12-16 |
 | [Glad U Came](https://open.spotify.com/track/3g5OlVimHO0rK6qmRiwokX) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Glad U Came](https://open.spotify.com/album/2H37NHuufU0kkwLhMwhdLj) | 2:58 | 2023-04-28 | 2023-05-20 |
+| [gloria!](https://open.spotify.com/track/0JvxCw2L2ChMeVpIfSwvqN) | [hemlocke springs](https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx) | [gloria!](https://open.spotify.com/album/7lasq7rFh5mygtWV08BOqh) | 3:21 | 2026-09-18 |  |
 | [go](https://open.spotify.com/track/4VtRHZ4tBDHaWltVAytlLY) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [go](https://open.spotify.com/album/7KfrkeW0bJx9w3Wak4PGX2) | 3:35 | 2022-03-18 | 2023-01-28 |
 | [Go That High](https://open.spotify.com/track/5ky2asWUDCHRTKt2c769X5) | [Ray Dalton](https://open.spotify.com/artist/4e0nWw2r4BoQSKPQ2zpU13) | [Go That High](https://open.spotify.com/album/6yvzDsYQpyLiorTkWO29PK) | 3:24 | 2026-06-19 |  |
 | [Go!](https://open.spotify.com/track/4lCIrVa8wxC1ItHo7iUpc5) | [iKeda](https://open.spotify.com/artist/0xP5DJaYjqU3oTOPbP7Skt) | [Go!](https://open.spotify.com/album/59ILYFRxCcj72Q2QW4JLZl) | 2:50 | 2026-08-25 |  |
@@ -403,7 +405,7 @@
 | [mouse](https://open.spotify.com/track/1XoXWYxD64PmsnYXfEUzZ5) | [Jewel Owusu](https://open.spotify.com/artist/6juZJy9PxiYX2EhuxW4AzW) | [mouse](https://open.spotify.com/album/53LIIHadE5Ehu7kJzTIdCD) | 2:25 | 2025-05-27 | 2025-07-26 |
 | [Moving](https://open.spotify.com/track/664mVcYRMDsVnOg95R71Ti) | [Omah Lay](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Moving](https://open.spotify.com/album/3sS2beAsBBlz5ZSbhOuGeV) | 2:20 | 2024-08-23 | 2025-01-28 |
 | [MUSCLE](https://open.spotify.com/track/2feyIPw7iHgdaMYRskMTuK) | [METTE](https://open.spotify.com/artist/6ukMeuNl2eHxb2z9mTFuKL) | [MUSCLE](https://open.spotify.com/album/7bzkCKNKQQTlHKbEdEuOBH) | 2:29 | 2024-06-24 | 2024-12-07 |
-| [MUSCLE MARYS..](https://open.spotify.com/track/5TPleDKLsLNRdqkGMrbL5F) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [MUSCLE MARYS..](https://open.spotify.com/album/1uPbpmEVZxxGvMtqBj6hWl) | 3:23 | 2026-09-14 |  |
+| [MUSCLE MARYS..](https://open.spotify.com/track/5TPleDKLsLNRdqkGMrbL5F) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [MUSCLE MARYS..](https://open.spotify.com/album/1uPbpmEVZxxGvMtqBj6hWl) | 3:23 | 2026-09-14 | 2026-09-19 |
 | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/track/4PzxlHzDM3bDafkHjg1XCX) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [El Alfa](https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Muñekita \(with El Alfa & JT\)](https://open.spotify.com/album/1TNCpCq8peDn03K1qK5If4) | 3:39 | 2023-08-18 | 2024-06-01 |
 | [My Everything](https://open.spotify.com/track/5d9YtDcXi97VcJzMBoYI1b) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [My Everything](https://open.spotify.com/album/4kIsccihJrNx2sXGbVw41Y) | 3:20 | 2025-09-19 | 2025-10-25 |
 | [My Future](https://open.spotify.com/track/1r5ScrTm9vynVcUal1HDii) | [Poppy Ajudha](https://open.spotify.com/artist/6oPQiSj92N4mk5jXLtX1bl) | [My Future](https://open.spotify.com/album/0XsZ7ulN5Qqeyn3buHrn23) | 2:22 | 2024-03-22 | 2024-06-25 |
@@ -451,6 +453,7 @@
 | [Outside \(feat\. Blaqbonez\)](https://open.spotify.com/track/0XL0niXGoEmf0IJs3A8tjt) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Blaqbonez](https://open.spotify.com/artist/12kjvw4e3gLp6qVHO65n7W) | [Outside / Obaa Sima](https://open.spotify.com/album/2KiBlKHtsrlaJIwriKI1Qi) | 3:00 | 2023-12-08 | 2024-06-01 |
 | [Overexposed](https://open.spotify.com/track/75ltCxPZaTM2hi8YRnQuir) | [Jelani Aryeh](https://open.spotify.com/artist/7A47sEe0ih6WpKmNCRMu86) | [Overexposed](https://open.spotify.com/album/1fo7LauHBzmPE1JxHOF9qu) | 3:01 | 2022-02-04 | 2022-02-26 |
 | [Own Lane](https://open.spotify.com/track/6ce3Xw27POBaMKat3r6qxw) | [Odreii](https://open.spotify.com/artist/7an95q1yJtdFUi57D6Emrn) | [Sweatin' Gold](https://open.spotify.com/album/62i2u21jWNKds9DVXtDl8R) | 2:43 | 2022-02-04 | 2022-02-12 |
+| [Painkiller \(feat\. Denzel Curry\)](https://open.spotify.com/track/4SMv2ovSTKGFbe7iYkM9Rf) | [Joy Crookes](https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS), [Denzel Curry](https://open.spotify.com/artist/6fxyWrfmjcbj5d12gXeiNV) | [Painkiller \(feat\. Denzel Curry\)](https://open.spotify.com/album/2F1FhufyLQkZ8laR5PckEx) | 4:01 | 2026-09-18 |  |
 | [Paint The Town Red](https://open.spotify.com/track/2IGMVunIBsBLtEQyoI1Mu7) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/54dZypaXHAIDzBe9ujAZ63) | 3:51 | 2023-08-04 | 2024-03-02 |
 | [PARADISE](https://open.spotify.com/track/15vFR8puc7KZ1YvTWP23A7) | [Madison Rose](https://open.spotify.com/artist/4XgL05GiIZGJev3EwBnbsE) | [PARADISE](https://open.spotify.com/album/5B5bNotk4KQ4MlwZfzBtXM) | 2:44 | 2024-05-26 | 2024-12-07 |
 | [Party Baby](https://open.spotify.com/track/3ofTFwIvSlTDud7CFajaNm) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Party Baby](https://open.spotify.com/album/4mH1aqzu5zUAi150aeLbI3) | 2:57 | 2026-08-25 |  |

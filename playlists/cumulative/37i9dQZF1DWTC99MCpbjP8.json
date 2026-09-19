@@ -8437,6 +8437,24 @@
     },
     {
       "album": {
+        "name": "Quiescence",
+        "url": "https://open.spotify.com/album/5WUcVO8qaropiO4GrClY5Z"
+      },
+      "artists": [
+        {
+          "name": "Gabriela Ohm",
+          "url": "https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141250,
+      "name": "Quiescence",
+      "url": "https://open.spotify.com/track/3TVJ6saUoVBh9Ltrob3qzy"
+    },
+    {
+      "album": {
         "name": "Quiet Cove",
         "url": "https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL"
       },

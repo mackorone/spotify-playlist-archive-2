@@ -1,12 +1,12 @@
 {
   "description": "This is The Used. The essential tracks, all in one playlist.",
-  "num_followers": 49654,
+  "num_followers": 49658,
   "original_name": "This Is The Used",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAAnVsTZtlyuBFRa1g1FC0Yy",
+  "snapshot_id": "aqstgAAAAACrfetshd87Jjh+E3en96uE",
   "tracks": [
     {
       "added_at": null,
@@ -383,22 +383,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lies for the Liars",
-        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 176786,
-      "name": "Hospital",
-      "url": "https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -411,22 +395,6 @@
       "duration_ms": 165868,
       "name": "MEDZ",
       "url": "https://open.spotify.com/track/02GBAcnrvBhiQiXcauxBE1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In Love and Death",
-        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 166226,
-      "name": "Listening",
-      "url": "https://open.spotify.com/track/528rajP3OyhornDwrsQrt4"
     },
     {
       "added_at": null,
@@ -447,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In Love and Death",
+        "url": "https://open.spotify.com/album/10Mw53MGdbK8KjIhBM0Wx2"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 166226,
+      "name": "Listening",
+      "url": "https://open.spotify.com/track/528rajP3OyhornDwrsQrt4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Lies for the Liars",
         "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
@@ -456,9 +440,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 209440,
-      "name": "Earthquake",
-      "url": "https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X"
+      "duration_ms": 176786,
+      "name": "Hospital",
+      "url": "https://open.spotify.com/track/6PSRgNVdVo7PeiDzOzzDsD"
     },
     {
       "added_at": null,
@@ -520,9 +504,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 172706,
-      "name": "Liar Liar (Burn in Hell)",
-      "url": "https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D"
+      "duration_ms": 209440,
+      "name": "Earthquake",
+      "url": "https://open.spotify.com/track/6yvlln6XHkgcZzKxMelh1X"
     },
     {
       "added_at": null,
@@ -575,8 +559,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Canyon",
-        "url": "https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe"
+        "name": "Lies for the Liars",
+        "url": "https://open.spotify.com/album/2UTLJA4Rxsth81uNh4Q6ox"
       },
       "artists": [
         {
@@ -584,9 +568,9 @@
           "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
         }
       ],
-      "duration_ms": 314373,
-      "name": "Over and Over Again",
-      "url": "https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk"
+      "duration_ms": 172706,
+      "name": "Liar Liar (Burn in Hell)",
+      "url": "https://open.spotify.com/track/68A7cJ9HuOOwrilOhwOW5D"
     },
     {
       "added_at": null,
@@ -623,6 +607,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Canyon",
+        "url": "https://open.spotify.com/album/2hqtN1MEtZFZTQZ4XwjoMe"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 314373,
+      "name": "Over and Over Again",
+      "url": "https://open.spotify.com/track/4tLJlbnRoUz8BOfy2Xcsgk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Artwork",
         "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
       },
@@ -639,22 +639,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Imaginary Enemy",
-        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 244680,
-      "name": "Revolution",
-      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -667,6 +651,22 @@
       "duration_ms": 197966,
       "name": "Before I Leave",
       "url": "https://open.spotify.com/track/4UvpM0BuXyfbHmt9hhAiZk"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Imaginary Enemy",
+        "url": "https://open.spotify.com/album/2UMvo9uU74jGUArNX7C7qT"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 244680,
+      "name": "Revolution",
+      "url": "https://open.spotify.com/track/3er2yurebKOKZJR6H3IFTo"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 157489,
-      "name": "Dopamine",
-      "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MEDZ",
         "url": "https://open.spotify.com/album/4dSpScBjwvvoCtLRzSnnbb"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 183044,
       "name": "Terrified",
       "url": "https://open.spotify.com/track/2aA7RSPH78lQmKCNxkr2lo"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 168891,
+      "name": "I Hate Everybody",
+      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Toxic Positivity",
-        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 168891,
-      "name": "I Hate Everybody",
-      "url": "https://open.spotify.com/track/5N7p0vxDpd6oxrrxJiisIv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Artwork",
         "url": "https://open.spotify.com/album/0jfPsx2EKO0kvWcuYGNNTI"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 213946,
       "name": "Born to Quit",
       "url": "https://open.spotify.com/track/35GqUDMKUtbuNyh0YQDmtV"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Toxic Positivity",
+        "url": "https://open.spotify.com/album/3eFVX7tq5tCU0uqol29fis"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 157489,
+      "name": "Dopamine",
+      "url": "https://open.spotify.com/track/4fOp1YbB4mTx0HYkmjs5OC"
     },
     {
       "added_at": null,

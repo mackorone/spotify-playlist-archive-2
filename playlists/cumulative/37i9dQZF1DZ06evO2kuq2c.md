@@ -4,7 +4,7 @@
 
 > This is Architects\. The essential tracks, all in one playlist.
 
-85 songs - 5 hr 18 min
+86 songs - 5 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -71,6 +71,7 @@
 | [Landmines](https://open.spotify.com/track/1tdZ3QQYxRwVXwTDJwfAMY) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Sky, The Earth & All Between](https://open.spotify.com/album/2W82VyyIFAXigJEiLm5TT1) | 3:34 | 2025-03-02 | 2025-04-09 |
 | [Learn to Live](https://open.spotify.com/track/65a0TZb4oPjLeeuD1BAK1L) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [The Here and Now](https://open.spotify.com/album/7EiIIwSiYBkaq741bL6Se3) | 4:01 | 2022-05-30 |  |
 | [living is killing us](https://open.spotify.com/track/1Ho5lI6FHNyG8H7UW5kSrs) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [the classic symptoms of a broken spirit](https://open.spotify.com/album/5ncQrFYuAZYrNcbzbJjgL4) | 3:41 | 2022-10-22 | 2022-11-17 |
+| [Machine](https://open.spotify.com/track/4OZsL523QNwRZMgJGwC2Lq) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Machine](https://open.spotify.com/album/1YSWmWb80zzj9Sp9ZEvyoD) | 4:00 | 2026-09-19 |  |
 | [Meteor](https://open.spotify.com/track/0d2mj7p92bZEckjowsc1a4) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [For Those That Wish To Exist](https://open.spotify.com/album/7qemUq4n71awwVPOaX7jw4) | 4:01 | 2022-06-02 |  |
 | [Modern Misery](https://open.spotify.com/track/6jaJVPLZOME4TtgW1Es5NT) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 4:13 | 2025-06-05 | 2025-06-06 |
 | [Mortal After All](https://open.spotify.com/track/1rMGbnh7zWGs8ME0mbuVai) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Holy Hell](https://open.spotify.com/album/3gh9LlHXtUEPkqsWj60Qy7) | 3:39 | 2022-05-30 |  |

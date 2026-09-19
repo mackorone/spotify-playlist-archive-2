@@ -1,12 +1,12 @@
 {
   "description": "Nuovi brani di 22simba, Ultimo, Cesare Cremonini, Miley Cyrus, Travis Scott, Annalisa con Madame, e tanti altri.",
-  "num_followers": 368749,
+  "num_followers": 369124,
   "original_name": "New Music Friday Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIOfxMpfskcAgOB0JuiPxFgaKpnG",
+  "snapshot_id": "AAAAAO86gLlSej8DeNyP9qhZiosFn4D6",
   "tracks": [
     {
       "added_at": "2026-09-17 23:01:40",
@@ -599,6 +599,26 @@
       "duration_ms": 156274,
       "name": "F",
       "url": "https://open.spotify.com/track/0eJKT4tCGzVuowzzAXkqeu"
+    },
+    {
+      "added_at": "2026-09-17 23:01:40",
+      "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
     },
     {
       "added_at": "2026-09-17 23:01:40",

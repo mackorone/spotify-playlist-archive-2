@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック Cover: ACE COOL \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,804 likes - 100 songs - 4 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,828 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 29 | [Drip on my body](https://open.spotify.com/track/3J4miHWJRPrqwIqTNBsZ1k) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Pretty Machine Gun II](https://open.spotify.com/album/3k822AXXavvXzwJ0X3hiAu) | 2:52 |
 | 30 | [Top Pt.3](https://open.spotify.com/track/5h21LRsItnd1anZWXg4W8Q) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Top Pt.3](https://open.spotify.com/album/0smsmc7R8pRrytHK1uabCp) | 3:09 |
 | 31 | [Ryuchijo](https://open.spotify.com/track/6P9tyHxFUy3chrOlwNsdf6) | [G PLANTS](https://open.spotify.com/artist/4iCVfqA83pTcu5Dngc2v6u) | [Ryuchijo](https://open.spotify.com/album/1x6sjfsgGz3oYDvcqvZwfr) | 3:50 |
-| 32 | [俺の周り](https://open.spotify.com/track/3QU1GK49FmYkd1H9iB4mXg) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.5](https://open.spotify.com/album/4TX7b48kgCLWtrVfYKl7Co) | 3:39 |
+| 32 | [1回でダメなら2回やれ](https://open.spotify.com/track/6WN6gouzuj7Oo1yt0fhGkR) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.5](https://open.spotify.com/album/4TX7b48kgCLWtrVfYKl7Co) | 2:24 |
 | 33 | [Otoha](https://open.spotify.com/track/0GtTH8onLAtegd4FhQEJYn) | [5Leaf](https://open.spotify.com/artist/181uZm7XsdRljYH67Qb23A) | [Otoha](https://open.spotify.com/album/7FDGskNADcFXu2QwX3Vl2b) | 2:02 |
 | 34 | [Baby Don't Cry \(feat\. WhiteStone\)](https://open.spotify.com/track/1CFKB8DzINij7Q586szX0g) | [AIRIE](https://open.spotify.com/artist/2xN2Y7hBcfqQiy3qI7j1Py), [evisv](https://open.spotify.com/artist/2eR3ptk4o6AOhhT8Eu2WGx), [WhiteStone](https://open.spotify.com/artist/2LaDaOkmkdTPKCgBpisG3N) | [Baby Don't Cry \(feat\. WhiteStone\)](https://open.spotify.com/album/6KO0Mtw4fuu59JLRTzO4ha) | 2:17 |
 | 35 | [WE ALL](https://open.spotify.com/track/6HIleOC769QgceR8LDnTLM) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [WE ALL](https://open.spotify.com/album/0CV0TNekCSBIh8BEuq686T) | 3:49 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 99 | [7Star](https://open.spotify.com/track/4gjhFeDQ3bf4e9RBvEqnMP) | [7](https://open.spotify.com/artist/2ZC0XLLz6C3oWZUTUdRIwn) | [7Star](https://open.spotify.com/album/4oHHhaxrZzqIEMZ6Xhb1QH) | 3:52 |
 | 100 | [WASSUP \(feat\. NORIKIYO\)](https://open.spotify.com/track/0dHRNAuFbHNnTAx4bWbZPx) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [NORIKIYO](https://open.spotify.com/artist/4mNrY8D5uTNbiCBtnh3YmL) | [Get Litty? \(Deluxe\)](https://open.spotify.com/album/6UMWTseCkEKRCrR5cJ8DYE) | 2:56 |
 
-Snapshot ID: `AAAAAF4a0lBzoTcbwirTiih9GBeeadwq`
+Snapshot ID: `AAAAAHnw8LY1lfaAmb3hVM1YJjA1cJ+s`

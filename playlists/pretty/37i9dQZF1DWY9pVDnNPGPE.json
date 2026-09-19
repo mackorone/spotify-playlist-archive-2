@@ -1,12 +1,12 @@
 {
   "description": "\ub530\ub73b\ud55c \ud587\uc0b4\uacfc \uac00\ubcbc\uc6b4 \ubc1c\uac78\uc74c. \ud589\ubcf5\ud55c \uc74c\uc545\ub4e4\uacfc \uae30\ubd84 \uc88b\uc740 \uc0b0\ucc45 & \ud53c\ud06c\ub2c9\uc744 \uc990\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 12093,
+  "num_followers": 12095,
   "original_name": "\ub0a0\uc774 * \uc88b\uc544\uc11c (K-Pop Walk & Picnic)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACuc45gvC0Vn2ZkwCwD9XnDbGpw4",
+  "snapshot_id": "AAAAAIAky5SfbW4bDQraVx3wuedNGxh5",
   "tracks": [
     {
       "added_at": "2026-09-03 07:10:58",
@@ -267,26 +267,6 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "D.O.",
-          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
-        }
-      ],
-      "duration_ms": 189706,
-      "name": "Small girl (feat. D.O.)",
-      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
         "name": "Jannabi\u2019s small pieces ll : GRIPPIN\u2019THEGREEN",
         "url": "https://open.spotify.com/album/1JKiz2WDaNak1fPjmNG1Vt"
       },
@@ -315,6 +295,26 @@
       "duration_ms": 196126,
       "name": "The Reason Why I Like You",
       "url": "https://open.spotify.com/track/6MrU2GdDhEW5DHCL5AYBXm"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "D.O.",
+          "url": "https://open.spotify.com/artist/2CQZr2RPZmrcvDnaod1ldC"
+        }
+      ],
+      "duration_ms": 189706,
+      "name": "Small girl (feat. D.O.)",
+      "url": "https://open.spotify.com/track/1AtFSBJibfaqfiOByQCwZ5"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -527,26 +527,18 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "Airman Morning Diaries",
-        "url": "https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC"
+        "name": "LOVE & HATE",
+        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
       "artists": [
         {
-          "name": "Airman",
-          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
-        },
-        {
-          "name": "1ho",
-          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
-        },
-        {
-          "name": "Chan",
-          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
+          "name": "Kassy",
+          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
         }
       ],
-      "duration_ms": 201077,
-      "name": "Blue Island (feat. 1Ho & Chan)",
-      "url": "https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL"
+      "duration_ms": 164253,
+      "name": "Don't wanna leave tonight",
+      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -567,18 +559,26 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "LOVE & HATE",
-        "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
+        "name": "Airman Morning Diaries",
+        "url": "https://open.spotify.com/album/0yeq174Fcjq2JZei3L0laC"
       },
       "artists": [
         {
-          "name": "Kassy",
-          "url": "https://open.spotify.com/artist/6pU8o91xAS0aWNjj06nQSU"
+          "name": "Airman",
+          "url": "https://open.spotify.com/artist/0GTBwQZcSJid6l5iwaWQ8E"
+        },
+        {
+          "name": "1ho",
+          "url": "https://open.spotify.com/artist/6H9BOh1aFTuoa6xFMV3z8g"
+        },
+        {
+          "name": "Chan",
+          "url": "https://open.spotify.com/artist/5Jte273iLRGrRRMA5yJy3F"
         }
       ],
-      "duration_ms": 164253,
-      "name": "Don't wanna leave tonight",
-      "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+      "duration_ms": 201077,
+      "name": "Blue Island (feat. 1Ho & Chan)",
+      "url": "https://open.spotify.com/track/3DeUnI1lH69twBuliumOQL"
     },
     {
       "added_at": "2026-09-03 07:10:58",
@@ -819,22 +819,6 @@
     {
       "added_at": "2026-09-03 07:10:58",
       "album": {
-        "name": "Wednesday",
-        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
-      },
-      "artists": [
-        {
-          "name": "Dailog",
-          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
-        }
-      ],
-      "duration_ms": 167733,
-      "name": "Wednesday",
-      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
-    },
-    {
-      "added_at": "2026-09-03 07:10:58",
-      "album": {
         "name": "School Rapper4 Semi Final 2",
         "url": "https://open.spotify.com/album/7BWDssnirZKzn1pTHIJN8J"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 213626,
       "name": "PARADISE (Feat. meenoi)",
       "url": "https://open.spotify.com/track/4YXWk4YOEmlu8bWlzNObD7"
+    },
+    {
+      "added_at": "2026-09-03 07:10:58",
+      "album": {
+        "name": "Wednesday",
+        "url": "https://open.spotify.com/album/1cbfO7COigEmv5igX2A0FX"
+      },
+      "artists": [
+        {
+          "name": "Dailog",
+          "url": "https://open.spotify.com/artist/61NOuvWbdbCndC4Z8XvypF"
+        }
+      ],
+      "duration_ms": 167733,
+      "name": "Wednesday",
+      "url": "https://open.spotify.com/track/3PPFza9c9iXZgBWb4KF0Bq"
     },
     {
       "added_at": "2026-09-03 07:10:58",

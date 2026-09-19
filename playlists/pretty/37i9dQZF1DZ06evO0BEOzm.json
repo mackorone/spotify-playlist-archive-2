@@ -1,12 +1,12 @@
 {
   "description": "This is Megan Thee Stallion. The essential tracks, all in one playlist.",
-  "num_followers": 313509,
+  "num_followers": 313536,
   "original_name": "This Is Megan Thee Stallion",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAA/KITgMlB8AtJQc5g9i10P",
+  "snapshot_id": "aqstgAAAAACyR4jejBG2PmAw/O4a9co+",
   "tracks": [
     {
       "added_at": null,
@@ -695,22 +695,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Motion Party (Remix)",
-        "url": "https://open.spotify.com/album/4zMIJXXO6hA9UgJXlb6zvQ"
+        "name": "MEGAN: ACT II",
+        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
       },
       "artists": [
-        {
-          "name": "BossMan Dlow",
-          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
-        },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 156200,
-      "name": "Motion Party (Remix)",
-      "url": "https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG"
+      "duration_ms": 140883,
+      "name": "Number One Rule",
+      "url": "https://open.spotify.com/track/2BOS4WTxBpqCx7s3XsHn0D"
     },
     {
       "added_at": null,
@@ -731,18 +727,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEGAN: ACT II",
-        "url": "https://open.spotify.com/album/7KYpVsgw7yqbfmGBp9gYiR"
+        "name": "Motion Party (Remix)",
+        "url": "https://open.spotify.com/album/4zMIJXXO6hA9UgJXlb6zvQ"
       },
       "artists": [
+        {
+          "name": "BossMan Dlow",
+          "url": "https://open.spotify.com/artist/23xFbA9rYgRX8mreqysWPc"
+        },
         {
           "name": "Megan Thee Stallion",
           "url": "https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK"
         }
       ],
-      "duration_ms": 140883,
-      "name": "Number One Rule",
-      "url": "https://open.spotify.com/track/2BOS4WTxBpqCx7s3XsHn0D"
+      "duration_ms": 156200,
+      "name": "Motion Party (Remix)",
+      "url": "https://open.spotify.com/track/6ZSDvXbaeuGeCwiPJCfOwG"
     },
     {
       "added_at": null,

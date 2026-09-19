@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/0VfNiwAYFUG5TFaVRKtkNF">Nija</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-220 songs - 11 hr 46 min
+221 songs - 11 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -196,7 +196,8 @@
 | [Surface](https://open.spotify.com/track/0y1lLLaSzHIVQZKHEfwOrm) | [Mustard](https://open.spotify.com/artist/0YinUQ50QDB7ZxSCLyQ40k), [Ty Dolla $ign](https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq), [Ella Mai](https://open.spotify.com/artist/7HkdQ0gt53LP4zmHsL0nap) | [Perfect Ten](https://open.spotify.com/album/2WrNHOba5u6P9S9xEboaUy) | 3:14 | 2023-12-30 |  |
 | [Sweetest Pie](https://open.spotify.com/track/3JXF3LsUjyDIHjuwhXxdjo) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Traumazine](https://open.spotify.com/album/4YP0h2KGDb20eJuStnBvim) | 3:21 | 2023-12-31 |  |
 | [Sweetest Pie](https://open.spotify.com/track/6LaTT2NL0tjLa5MeOKH02p) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Sweetest Pie](https://open.spotify.com/album/6kehv5HWUC4vNxt3ZTdf7z) | 3:35 | 2023-12-30 | 2024-02-01 |
-| [SWERVE](https://open.spotify.com/track/7hcutCVlcgyfX0j95G1UiV) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [SWERVE](https://open.spotify.com/album/5ij7M5p7MKeR13lrZwoDSr) | 2:51 | 2026-08-24 |  |
+| [SWERVE](https://open.spotify.com/track/66o2MJYTvdoanjOLH0UCp8) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [HYDRAULIC: FUELED UP](https://open.spotify.com/album/4ivGfQt3Iy0ufQrehkvyzu) | 2:51 | 2026-09-18 |  |
+| [SWERVE](https://open.spotify.com/track/7hcutCVlcgyfX0j95G1UiV) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz) | [SWERVE](https://open.spotify.com/album/5ij7M5p7MKeR13lrZwoDSr) | 2:51 | 2026-08-24 | 2026-09-19 |
 | [Take It Home](https://open.spotify.com/track/45RspXN5oWquKcWiiScmkR) | [Mabel](https://open.spotify.com/artist/1MIVXf74SZHmTIp4V4paH4) | [Take It Home](https://open.spotify.com/album/5nWFGfFaGM09JaawwjwXLF) | 2:46 | 2023-12-30 |  |
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/6ISN7qvnXR0EdxE0l7vTRK) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Me vs\. Myself](https://open.spotify.com/album/2vM2H6lyPfitmNZlc1Vrxv) | 4:41 | 2023-12-31 |  |
 | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/track/4YDGIk0vg21LMfTq9hNlbW) | [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I), [Tory Lanez](https://open.spotify.com/artist/2jku7tDXc6XoB6MO2hFuqg) | [Take Shots \(feat\. Tory Lanez\)](https://open.spotify.com/album/2B5dLSSoqKT25tGRBQAmOb) | 4:43 | 2023-12-30 | 2024-01-31 |
@@ -217,7 +218,7 @@
 | [Unruly](https://open.spotify.com/track/1VKYPniaKiiZqfNfJXCpq8) | [Nija](https://open.spotify.com/artist/7f9KxQWD88MZrSY6jc0zoW) | [Unruly](https://open.spotify.com/album/1nIu9Bw2e4xQBrYFx8XEsY) | 2:57 | 2024-12-11 |  |
 | [Uptown Vibes \(feat\. Fabolous & Anuel AA\)](https://open.spotify.com/track/2tnlNVAhuQGgoFJxALVeXx) | [Meek Mill](https://open.spotify.com/artist/20sxb77xiYeusSH8cVdatc), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Fabolous](https://open.spotify.com/artist/0YWxKQj2Go9CGHCp77UOyy) | [Championships](https://open.spotify.com/album/6UYZEYjpN1DYRW0kqFy9ZE) | 3:10 | 2023-12-30 |  |
 | [Ur Best Friend](https://open.spotify.com/track/0LW7qWXhhyQSI88uoRNMwp) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5xv5lAFaTM5HWmzQhk7pEB) | 3:21 | 2023-12-30 | 2024-02-01 |
-| [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 | 2023-12-31 |  |
+| [Ur Best Friend \(with Kehlani\)](https://open.spotify.com/track/1gsYCXkisSnnjBb3qwYZoc) | [Kiana Ledé](https://open.spotify.com/artist/7jZMxhsB8djyIbYmoiJSTs), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [Ur Best Friend](https://open.spotify.com/album/5vQaqB1ZfaOW6BSEGuQ8HC) | 3:02 | 2023-12-31 | 2026-09-19 |
 | [Vibez](https://open.spotify.com/track/2RaxPAWpOHyececTv2g8Ib) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Vibez \(Official Video\)](https://open.spotify.com/album/64QMJpyj7fcPaHi3Ba2R5d) | 2:42 | 2023-12-30 | 2024-01-31 |
 | [Vibez](https://open.spotify.com/track/6T6D9CIrHkALcHPafDFA6L) | [ZAYN](https://open.spotify.com/artist/5ZsFI1h6hIdQRw2ti0hz81) | [Nobody Is Listening](https://open.spotify.com/album/2yuQqhSklmfWgn8lmJNk5t) | 2:43 | 2024-01-01 |  |
 | [Waistline](https://open.spotify.com/track/1W8pwkDbdMBo1Whf4pkVLU) | [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [Waistline](https://open.spotify.com/album/627d1VuZD4LwTuFnND4eVR) | 2:46 | 2023-12-30 |  |

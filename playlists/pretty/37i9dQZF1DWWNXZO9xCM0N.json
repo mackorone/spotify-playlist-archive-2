@@ -1,12 +1,12 @@
 {
   "description": "Para subir la temperatura. Foto: Lebr\u00f3n Brothers",
-  "num_followers": 129889,
+  "num_followers": 129940,
   "original_name": "Salsa Brava",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAM5In6bOXL9aB3OUNtqgG3QeC4eP",
+  "snapshot_id": "AAAAAKo8amDTHYaKBQdPGOjhg9iK9Y9i",
   "tracks": [
     {
       "added_at": "2024-06-24 22:23:31",
@@ -795,26 +795,6 @@
     {
       "added_at": "2024-06-24 22:23:31",
       "album": {
-        "name": "Aqui Esta el Reencuentro",
-        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
-      },
-      "artists": [
-        {
-          "name": "El Gran Combo De Puerto Rico",
-          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
-        },
-        {
-          "name": "Andy Monta\u00f1ez",
-          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
-        }
-      ],
-      "duration_ms": 297213,
-      "name": "Un Verano en Nueva York",
-      "url": "https://open.spotify.com/track/1hvyKYOS7m6msSUbXS7reP"
-    },
-    {
-      "added_at": "2024-06-24 22:23:31",
-      "album": {
         "name": "Tumi Cuba Classics Volume 4: Son",
         "url": "https://open.spotify.com/album/1UKOkRav56nHZ5v3SgfxqS"
       },
@@ -831,6 +811,26 @@
       "duration_ms": 365240,
       "name": "Tal Vez Vuelvas a Llamarme",
       "url": "https://open.spotify.com/track/6tEovPZnOeNMvELOhmWAxn"
+    },
+    {
+      "added_at": "2024-06-24 22:23:31",
+      "album": {
+        "name": "Aqui Esta el Reencuentro",
+        "url": "https://open.spotify.com/album/2Vpk4g41LQN5eD4A7G48ld"
+      },
+      "artists": [
+        {
+          "name": "El Gran Combo De Puerto Rico",
+          "url": "https://open.spotify.com/artist/6nnspeopmJAG07xOxHmqTu"
+        },
+        {
+          "name": "Andy Monta\u00f1ez",
+          "url": "https://open.spotify.com/artist/6RMWFexOHVj5ctezneQH5v"
+        }
+      ],
+      "duration_ms": 297213,
+      "name": "Un Verano en Nueva York",
+      "url": "https://open.spotify.com/track/1hvyKYOS7m6msSUbXS7reP"
     },
     {
       "added_at": "2024-06-24 22:23:31",

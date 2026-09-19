@@ -1,12 +1,12 @@
 {
   "description": "<a href=\"spotify:artist:249QVZLSwrDyleKNapaapm\">SAFAR</a>'s favorite tracks. Updated regularly. Curated by SAFAR. Discover more track IDs playlists <a href=\"spotify:genre:track_id\">here</a>.",
-  "num_followers": 30665,
+  "num_followers": 30745,
   "original_name": "SAFAR's track IDs",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACto4VH1LlJ4canGtLrevFx819ob",
+  "snapshot_id": "AAAAACRwMWfZkoP+/0ESq/VpGkPx5oxM",
   "tracks": [
     {
       "added_at": "2026-07-28 10:00:14",
@@ -460,12 +460,12 @@
       },
       "artists": [
         {
-          "name": "Danidane",
-          "url": "https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3"
-        },
-        {
           "name": "MAAURA",
           "url": "https://open.spotify.com/artist/40AKih5OpGrRTlHilgilSN"
+        },
+        {
+          "name": "Danidane",
+          "url": "https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3"
         },
         {
           "name": "Ape Drums",

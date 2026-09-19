@@ -1,12 +1,12 @@
 {
   "description": "compare, prenda el asador y destape otra cheve.",
-  "num_followers": 1320330,
+  "num_followers": 1320348,
   "original_name": "Carnita Asada ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI29SU0WhKPbfzd2eMC1nB+s92jz",
+  "snapshot_id": "AAAAAD9g3IZGhO/zYrDg6DbkOJIUDOAX",
   "tracks": [
     {
       "added_at": "2026-07-06 17:27:23",
@@ -451,6 +451,22 @@
     {
       "added_at": "2026-07-06 17:27:23",
       "album": {
+        "name": "Se Quitan El Sombrero",
+        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
+      },
+      "artists": [
+        {
+          "name": "Cardenales De Nuevo Le\u00f3n",
+          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
+        }
+      ],
+      "duration_ms": 206733,
+      "name": "Compr\u00e9ndala",
+      "url": "https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM"
+    },
+    {
+      "added_at": "2026-07-06 17:27:23",
+      "album": {
         "name": "Bebe Dame",
         "url": "https://open.spotify.com/album/6PdUbuaqXLdQKPGFLhLpRC"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 271861,
       "name": "Bebe Dame",
       "url": "https://open.spotify.com/track/0mzsLrUNazBaRfYZfjmpSV"
-    },
-    {
-      "added_at": "2026-07-06 17:27:23",
-      "album": {
-        "name": "Se Quitan El Sombrero",
-        "url": "https://open.spotify.com/album/4y46IJXRYnKC1Hubv0Nbcz"
-      },
-      "artists": [
-        {
-          "name": "Cardenales De Nuevo Le\u00f3n",
-          "url": "https://open.spotify.com/artist/0GpuSge5ffZ053NhXxgQkV"
-        }
-      ],
-      "duration_ms": 206733,
-      "name": "Compr\u00e9ndala",
-      "url": "https://open.spotify.com/track/1hoWZj7mw3khkTYobkDgcM"
     },
     {
       "added_at": "2026-07-06 17:27:23",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-07-06 17:27:23",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 172706,
-      "name": "Tao, Tao",
-      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
-    },
-    {
-      "added_at": "2026-07-06 17:27:23",
-      "album": {
         "name": "20 Memorias Norte\u00f1as",
         "url": "https://open.spotify.com/album/1BnTwu2JNvBuSAWnfDwBn4"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 190360,
       "name": "El Rey De Mil Coronas",
       "url": "https://open.spotify.com/track/7JKPv7gpFkehGjpFrZJevo"
+    },
+    {
+      "added_at": "2026-07-06 17:27:23",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 215066,
+      "name": "Cumbia Con La Luna",
+      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
     },
     {
       "added_at": "2026-07-06 17:27:23",
@@ -683,22 +683,6 @@
     {
       "added_at": "2026-07-06 17:27:23",
       "album": {
-        "name": "Cumbias Sin Control",
-        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
-      },
-      "artists": [
-        {
-          "name": "Control",
-          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
-        }
-      ],
-      "duration_ms": 215066,
-      "name": "Cumbia Con La Luna",
-      "url": "https://open.spotify.com/track/0mgTAs7MVas9SyGNQeKFJp"
-    },
-    {
-      "added_at": "2026-07-06 17:27:23",
-      "album": {
         "name": "IV",
         "url": "https://open.spotify.com/album/43UFBkcvSy10IIqsGIJzUw"
       },
@@ -711,6 +695,22 @@
       "duration_ms": 246906,
       "name": "\u00bfD\u00f3nde Est\u00e1s?",
       "url": "https://open.spotify.com/track/3XzRoXUBIzJQhTvWmGNeF7"
+    },
+    {
+      "added_at": "2026-07-06 17:27:23",
+      "album": {
+        "name": "Cumbias Sin Control",
+        "url": "https://open.spotify.com/album/4WA8OOdFDDoYUoCDnde5UX"
+      },
+      "artists": [
+        {
+          "name": "Control",
+          "url": "https://open.spotify.com/artist/69BX3Y0Y9rzA039eZX2hdx"
+        }
+      ],
+      "duration_ms": 172706,
+      "name": "Tao, Tao",
+      "url": "https://open.spotify.com/track/71J3ktUHU5n0EWAfD7VVFX"
     },
     {
       "added_at": "2026-07-06 17:27:23",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-07-06 17:27:23",
       "album": {
-        "name": "15 Grandes Exitos",
-        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
-      },
-      "artists": [
-        {
-          "name": "Banda R-15",
-          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
-        }
-      ],
-      "duration_ms": 178293,
-      "name": "Si Tu Boquita Fuera",
-      "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
-    },
-    {
-      "added_at": "2026-07-06 17:27:23",
-      "album": {
         "name": "Ll\u00e9vame Contigo",
         "url": "https://open.spotify.com/album/66rxjBaeraSB1qqQcYQSel"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 206400,
       "name": "No Te Vayas",
       "url": "https://open.spotify.com/track/7AM7gEehnVqElO1BD9h8dC"
+    },
+    {
+      "added_at": "2026-07-06 17:27:23",
+      "album": {
+        "name": "15 Grandes Exitos",
+        "url": "https://open.spotify.com/album/1f0ASfbeUcjB2vEI8PNyuC"
+      },
+      "artists": [
+        {
+          "name": "Banda R-15",
+          "url": "https://open.spotify.com/artist/5l0ZjUz8rAAFVm616in8YR"
+        }
+      ],
+      "duration_ms": 178293,
+      "name": "Si Tu Boquita Fuera",
+      "url": "https://open.spotify.com/track/4MeagrXRJb7XjSE8FK0n75"
     },
     {
       "added_at": "2026-07-06 17:27:23",
@@ -959,18 +959,18 @@
     {
       "added_at": "2026-07-06 17:27:23",
       "album": {
-        "name": "De Mexico para el Mundo",
-        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+        "name": "Hoy y Siempre",
+        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
       },
       "artists": [
         {
-          "name": "Banda El Recodo",
-          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+          "name": "Banda Peque\u00f1os Musical",
+          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
         }
       ],
-      "duration_ms": 176453,
-      "name": "Seis Pies Abajo",
-      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
+      "duration_ms": 188653,
+      "name": "No necesitas a Carlo",
+      "url": "https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18"
     },
     {
       "added_at": "2026-07-06 17:27:23",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-07-06 17:27:23",
       "album": {
-        "name": "Hoy y Siempre",
-        "url": "https://open.spotify.com/album/44tTvWJzOg7rxrMphXBZaL"
-      },
-      "artists": [
-        {
-          "name": "Banda Peque\u00f1os Musical",
-          "url": "https://open.spotify.com/artist/46WT0eTBzCslHoVsLahvfE"
-        }
-      ],
-      "duration_ms": 188653,
-      "name": "No necesitas a Carlo",
-      "url": "https://open.spotify.com/track/7iHKGbJSzClb7Q8IK9OH18"
-    },
-    {
-      "added_at": "2026-07-06 17:27:23",
-      "album": {
         "name": "4 Decadas 20 Boleros",
         "url": "https://open.spotify.com/album/2asPHwYLmWPVhS0VA6Uu6N"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 159059,
       "name": "Una Pagina Mas",
       "url": "https://open.spotify.com/track/0PaJt0W8xP4VpnVBMWvOvI"
+    },
+    {
+      "added_at": "2026-07-06 17:27:23",
+      "album": {
+        "name": "De Mexico para el Mundo",
+        "url": "https://open.spotify.com/album/32TIJn1x8SCsHVCswGnQZQ"
+      },
+      "artists": [
+        {
+          "name": "Banda El Recodo",
+          "url": "https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC"
+        }
+      ],
+      "duration_ms": 176453,
+      "name": "Seis Pies Abajo",
+      "url": "https://open.spotify.com/track/6oiKbZIaQ8A0Rnsq9jMJ1E"
     },
     {
       "added_at": "2026-07-06 17:27:23",
@@ -1091,22 +1091,6 @@
     {
       "added_at": "2026-07-06 17:27:23",
       "album": {
-        "name": "Lo Que La Gente Estaba Esperando",
-        "url": "https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm"
-      },
-      "artists": [
-        {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
-        }
-      ],
-      "duration_ms": 196640,
-      "name": "Ojitos de Golondrina",
-      "url": "https://open.spotify.com/track/3xxVPMCnMoHZhsQlxRztno"
-    },
-    {
-      "added_at": "2026-07-06 17:27:23",
-      "album": {
         "name": "Vive",
         "url": "https://open.spotify.com/album/4v2fdmkaVrrT0eYhy2ix3a"
       },
@@ -1119,6 +1103,22 @@
       "duration_ms": 180560,
       "name": "Ojal\u00e1 Te Animes",
       "url": "https://open.spotify.com/track/1tg7ZzCAkjDNENdWL7WuIr"
+    },
+    {
+      "added_at": "2026-07-06 17:27:23",
+      "album": {
+        "name": "Lo Que La Gente Estaba Esperando",
+        "url": "https://open.spotify.com/album/5dvRYXt7xSY8EDSlvnWtAm"
+      },
+      "artists": [
+        {
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+        }
+      ],
+      "duration_ms": 196640,
+      "name": "Ojitos de Golondrina",
+      "url": "https://open.spotify.com/track/3xxVPMCnMoHZhsQlxRztno"
     },
     {
       "added_at": "2026-07-06 17:27:23",

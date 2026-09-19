@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 
 > solo le tracce con l'aura migliore 👾 Angie in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 457,228 likes - 80 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 457,201 likes - 80 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYCIYGXn56uz.md) - [plain]
 | 79 | [Bel venerdì](https://open.spotify.com/track/7e3L4E70QnI1hierB1Lynk) | [Eddie Brock](https://open.spotify.com/artist/0harR1ApYeMN6GOLBNMiUR) | [Amarsi è la rivoluzione \(Deluxe\)](https://open.spotify.com/album/084PMCGrwjTtiUBD8ITXbg) | 3:11 |
 | 80 | [Dimmelo tu](https://open.spotify.com/track/5ZJXEdQ0i5MYGi24F7VSv2) | [Lorenzo Salvetti](https://open.spotify.com/artist/6oWt3cQ0VpQx0ZxguU1Dh7) | [Dimmelo tu](https://open.spotify.com/album/4Powg4QrPhuucXUvYmurHG) | 2:49 |
 
-Snapshot ID: `AAAAANLLf3+PR5BNn124HkSr9lCRGEc/`
+Snapshot ID: `AAAAADOZaWCwytJNW3+hru3NUOFntNUf`

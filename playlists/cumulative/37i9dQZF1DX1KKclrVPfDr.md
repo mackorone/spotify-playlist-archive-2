@@ -4,7 +4,7 @@
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-89 songs - 6 hr 38 min
+90 songs - 6 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -76,6 +76,7 @@
 | [Reliya Bairan](https://open.spotify.com/track/1KU4LkDHLMe0LprDcm1n5X) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Reliya Bairan](https://open.spotify.com/album/3qRmFf2z2OLvm2GMIXqr1u) | 5:21 | 2025-09-15 | 2026-03-07 |
 | [Runjhun Khola Na Kewadiya](https://open.spotify.com/track/0QGBV1H3I6m9byzSyYl0B2) | [Shailendra Mishra](https://open.spotify.com/artist/6TaxFYdCeCCkLnqNxWm3ht), [Prashant Singh](https://open.spotify.com/artist/0UCrJlbwzyfOvyYGd7vOi0) | [Runjhun Khola Na Kewadiya](https://open.spotify.com/album/2HWJKxxAYAEPLHbTCM5sG1) | 3:31 | 2025-09-15 | 2026-03-07 |
 | [Saanvar \- Saanvar Suratiya Tohar Dulha \(Baraat\)](https://open.spotify.com/track/5EROAJcLJVFVIC3qFb67aY) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Shubh Vivah](https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe) | 7:27 | 2026-03-06 |  |
+| [Saanwar \- Sawar Suratiya Tohaar Dulha](https://open.spotify.com/track/5oXdYgaXizNKsLoATHxnPq) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Dulhin](https://open.spotify.com/album/6NM2PNbNHlENPjstKMqZHP) | 8:30 | 2026-08-21 |  |
 | [Saari Saari Ratiya](https://open.spotify.com/track/21TDQB67T7YG0Kt1ipq7rk) | [Deepali Sahay](https://open.spotify.com/artist/4TWRZes3FT7UoOvsVNCj2Q) | [Bejod Vol 1](https://open.spotify.com/album/2j318y4M67EQzPry1SDdyL) | 4:22 | 2025-09-15 | 2026-03-07 |
 | [SAJANWA Love in Bangkok](https://open.spotify.com/track/3uV48MQcXm310OWtoGxWID) | [Sushant Asthana](https://open.spotify.com/artist/70DPuZFzmT4KpKWukOS45q), [Surabhi Kashyap](https://open.spotify.com/artist/225iy0vV4QNRhPFVhiMCDm) | [SAJANWA Love in Bangkok](https://open.spotify.com/album/78LZ3Ix8rrUiQfJKOZ4JQT) | 3:42 | 2025-09-15 | 2026-03-07 |
 | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/track/0Tt7bu3C0JouzB9kbzRKyP) | [KUMARI SONAL](https://open.spotify.com/artist/06TPwrMe1ZOjyYBeuPD3o1), [Ashkandani](https://open.spotify.com/artist/6U3uObcnGgPTY80L1JDU5w) | [Samdhi Bhukhal Baade Ho](https://open.spotify.com/album/0nI5UD7gJKmriWMFNEBR2m) | 3:03 | 2025-09-15 |  |
@@ -93,7 +94,7 @@
 | [Siya Ji Bahiniya Hamar Ho](https://open.spotify.com/track/0zzDLkQ54dX9t8k5piwWj0) | [Anamika Jha](https://open.spotify.com/artist/4qsnWD4hRuNphRxmWOsUuw) | [Siya Ji Bahiniya Hamar Ho](https://open.spotify.com/album/1WDGOMkyIgQrWfmOlJ2M8R) | 3:17 | 2025-12-02 |  |
 | [Sone Ke Sinhorwa \- From "Mehaan"](https://open.spotify.com/track/0NahhEHM4OiXZ3m8a7Vcef) | [Khushi Kakkar](https://open.spotify.com/artist/0BJNNzQGYD82tPvp5ziJiu), [RR Pankaj](https://open.spotify.com/artist/2lfDVEQdxB082sSkJFqfb7) | [Sone Ke Sinhorwa \(From "Mehaan"\)](https://open.spotify.com/album/451b2pGI9EXSSncT0aYLeu) | 2:43 | 2025-11-27 |  |
 | [Sone Ke Supuliya](https://open.spotify.com/track/22UpBY3kHUUkAFMMA3Olxu) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Sone Ke Supuliya](https://open.spotify.com/album/5hE79CfvhWGGWbKd5KImz1) | 4:36 | 2025-09-15 | 2026-08-05 |
-| [Suna Ho Paahun \(Lava Chhitaai\)](https://open.spotify.com/track/3bvjW7Cdx4plONJLiDpcfK) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Shubh Vivah](https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe) | 4:09 | 2026-03-06 |  |
+| [Suna Ho Paahun \(Lava Chhitaai\)](https://open.spotify.com/track/3bvjW7Cdx4plONJLiDpcfK) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Shubh Vivah](https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe) | 4:09 | 2026-03-06 | 2026-09-19 |
 | [Tani Tani Sa Baat](https://open.spotify.com/track/1bJ6kc3V8OaJtFh1dgcgTa) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Tani Tani Sa Baat](https://open.spotify.com/album/23xQHa7AAa7bn1qIq049EB) | 4:43 | 2025-09-15 | 2026-03-07 |
 | [Tohre me Base Sajna](https://open.spotify.com/track/3MH3r1uLG0uBeCNgMAOioE) | [Swati Mishra](https://open.spotify.com/artist/3SwS8uwiv8h8gf0uobOb4f) | [Tohre me Base Sajna](https://open.spotify.com/album/4EbSiXvKe2VGvmcutgPe0z) | 3:46 | 2025-09-15 | 2026-03-07 |
 | [Vivah Geet \(From "Hawa Mein Udta Jaye Mera Lal Dupatta Malmal Ka"\)](https://open.spotify.com/track/3CR3vrJDFpikRoEitIxOCB) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 15:17 | 2026-03-06 |  |

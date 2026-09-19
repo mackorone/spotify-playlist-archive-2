@@ -1,12 +1,12 @@
 {
   "description": "This is EARTHGANG. The essential tracks, all in one playlist.",
-  "num_followers": 22516,
+  "num_followers": 22513,
   "original_name": "This Is EARTHGANG",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAABr6NG1BiiUlpCTaBgfUhNJ",
+  "snapshot_id": "aqstgAAAAABM/083+1b5683O+/RUsUir",
   "tracks": [
     {
       "added_at": null,
@@ -459,6 +459,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "moMINTs",
+        "url": "https://open.spotify.com/album/0KdZJNlk291YqvUQhHYttm"
+      },
+      "artists": [
+        {
+          "name": "Tobe Nwigwe",
+          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "Pharrell Williams",
+          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
+        },
+        {
+          "name": "Fat Nwigwe",
+          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "LORD FORGIVE ME",
+      "url": "https://open.spotify.com/track/10dSPiyXAM0Z1oJXRMqIn9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rags",
         "url": "https://open.spotify.com/album/6vWPa9ZBLjjh7jsG4hRskQ"
       },
@@ -499,34 +527,6 @@
       "duration_ms": 167480,
       "name": "Big Love (with EARTHGANG & MNDR)",
       "url": "https://open.spotify.com/track/25Q6XHjKEyaXzCvKlwDpPP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "moMINTs",
-        "url": "https://open.spotify.com/album/0KdZJNlk291YqvUQhHYttm"
-      },
-      "artists": [
-        {
-          "name": "Tobe Nwigwe",
-          "url": "https://open.spotify.com/artist/3Qh89pgJeZq6d8uM1bTot3"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "Pharrell Williams",
-          "url": "https://open.spotify.com/artist/2RdwBSPQiwcmiDo9kixcl8"
-        },
-        {
-          "name": "Fat Nwigwe",
-          "url": "https://open.spotify.com/artist/6vKEwTQ0TVz0aJoobvLG1Y"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "LORD FORGIVE ME",
-      "url": "https://open.spotify.com/track/10dSPiyXAM0Z1oJXRMqIn9"
     },
     {
       "added_at": null,
@@ -911,34 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nirvana",
-        "url": "https://open.spotify.com/album/3IFIDcn1OpA40MxMPrDxM7"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        },
-        {
-          "name": "sadMONTH",
-          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
-        },
-        {
-          "name": "Benny Benassi",
-          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
-        }
-      ],
-      "duration_ms": 165230,
-      "name": "Nirvana - Benny Benassi Remix",
-      "url": "https://open.spotify.com/track/3QW1NlUehukxZb1YBGBbml"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bears Like This Too Much",
         "url": "https://open.spotify.com/album/1QYACZF6ijryY2dHq71erf"
       },
@@ -967,6 +939,34 @@
       "duration_ms": 195800,
       "name": "Willow Tree (feat. J.I.D, JordxnBryant, Hollywood JB & EARTHGANG)",
       "url": "https://open.spotify.com/track/4ir5WlzsgiP6TEbRtkhCGR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Nirvana",
+        "url": "https://open.spotify.com/album/3IFIDcn1OpA40MxMPrDxM7"
+      },
+      "artists": [
+        {
+          "name": "PNAU",
+          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        },
+        {
+          "name": "sadMONTH",
+          "url": "https://open.spotify.com/artist/7HYex123yOBSsNwKGjNzf9"
+        },
+        {
+          "name": "Benny Benassi",
+          "url": "https://open.spotify.com/artist/4Ws2otunReOa6BbwxxpCt6"
+        }
+      ],
+      "duration_ms": 165230,
+      "name": "Nirvana - Benny Benassi Remix",
+      "url": "https://open.spotify.com/track/3QW1NlUehukxZb1YBGBbml"
     },
     {
       "added_at": null,
@@ -1039,30 +1039,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "never worry - deluxe",
-        "url": "https://open.spotify.com/album/0SYj4nRcHvdBasdvpNIfUF"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Daya",
-          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
-        },
-        {
-          "name": "EARTHGANG",
-          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
-        }
-      ],
-      "duration_ms": 222624,
-      "name": "Sometimes\u2026 (with Daya & Earthgang)",
-      "url": "https://open.spotify.com/track/0lwucugEyuHhPxR3blKKJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PERFECT FANTASY",
         "url": "https://open.spotify.com/album/6RGc5RHYU6tt6hsDKNF0ND"
       },
@@ -1083,6 +1059,30 @@
       "duration_ms": 358913,
       "name": "DEEP BLUE (feat. Little Dragon)",
       "url": "https://open.spotify.com/track/0I9rRQ9vUtx8GzYVvET5Li"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "never worry - deluxe",
+        "url": "https://open.spotify.com/album/0SYj4nRcHvdBasdvpNIfUF"
+      },
+      "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
+        {
+          "name": "Daya",
+          "url": "https://open.spotify.com/artist/6Dd3NScHWwnW6obMFbl1BH"
+        },
+        {
+          "name": "EARTHGANG",
+          "url": "https://open.spotify.com/artist/5MbNzCW3qokGyoo9giHA3V"
+        }
+      ],
+      "duration_ms": 222624,
+      "name": "Sometimes\u2026 (with Daya & Earthgang)",
+      "url": "https://open.spotify.com/track/0lwucugEyuHhPxR3blKKJE"
     },
     {
       "added_at": null,

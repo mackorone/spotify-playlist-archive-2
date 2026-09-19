@@ -357,6 +357,24 @@
     },
     {
       "album": {
+        "name": "All the Hours",
+        "url": "https://open.spotify.com/album/2KoDJ1JzWPLrAPLKOkUNb9"
+      },
+      "artists": [
+        {
+          "name": "Henry Flower",
+          "url": "https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157826,
+      "name": "All the Hours",
+      "url": "https://open.spotify.com/track/01Zljnm6u3puIQBGvz7djl"
+    },
+    {
+      "album": {
         "name": "All We Shared",
         "url": "https://open.spotify.com/album/37r4pHddFZxrafYpqPv7pl"
       },
@@ -4670,6 +4688,24 @@
       "duration_ms": 123821,
       "name": "Vuelta",
       "url": "https://open.spotify.com/track/0mPUDi1UgV7xvwMo31wYlR"
+    },
+    {
+      "album": {
+        "name": "V\u00e9raison",
+        "url": "https://open.spotify.com/album/7nf7iVj9lLkBM7V5LYvZJ1"
+      },
+      "artists": [
+        {
+          "name": "Silvenna",
+          "url": "https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148013,
+      "name": "V\u00e9raison",
+      "url": "https://open.spotify.com/track/5O1uC5BKuDD9Kfm4KAxsku"
     },
     {
       "album": {

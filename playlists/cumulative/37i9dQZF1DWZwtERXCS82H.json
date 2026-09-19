@@ -491,6 +491,24 @@
     },
     {
       "album": {
+        "name": "Ahead",
+        "url": "https://open.spotify.com/album/6UzTzDaf7voAotFU3Yxi4r"
+      },
+      "artists": [
+        {
+          "name": "Thomas Perceval",
+          "url": "https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136000,
+      "name": "Ahead",
+      "url": "https://open.spotify.com/track/7CXle5jJAdlIdXwoRwiMUk"
+    },
+    {
+      "album": {
         "name": "Airborne",
         "url": "https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC"
       },
@@ -3416,6 +3434,24 @@
       "duration_ms": 154750,
       "name": "Dusk to dawn",
       "url": "https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O"
+    },
+    {
+      "album": {
+        "name": "Each Evening",
+        "url": "https://open.spotify.com/album/0DmC0GMqmikCyd8st3bZHn"
+      },
+      "artists": [
+        {
+          "name": "Lennon McKenna",
+          "url": "https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139020,
+      "name": "Each Evening",
+      "url": "https://open.spotify.com/track/6i3W2ouWdpjLX5USNhh9fe"
     },
     {
       "album": {

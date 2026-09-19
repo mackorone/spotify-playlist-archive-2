@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 
 > For the new generation of trendsetters coming through, we move\. Cover: dexter in the newsagent
 
-[Spotify](https://open.spotify.com/user/spotify) - 99,689 likes - 75 songs - 3 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 99,703 likes - 75 songs - 3 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0TrWIhtmeqJ.md) - [plain]
 | 74 | [AS A MAN](https://open.spotify.com/track/4O3WEaP0J6imXxijBr1wZT) | [Efosa](https://open.spotify.com/artist/6bMDcfWfOVl5mWw8DUgLO3) | [A MAN'S GAME](https://open.spotify.com/album/4o8SSMPIcRzpem7M2aY6F9) | 2:21 |
 | 75 | [Socially Punished](https://open.spotify.com/track/7ByYsTYt1oDCEVrjG7YoQF) | [Paul Stephan](https://open.spotify.com/artist/4mJjROPMjSeN3bcyUR2sXF), [Frank Medley](https://open.spotify.com/artist/2cAfNDdxqonl94O7O0p77J) | [Socially Punished](https://open.spotify.com/album/6ZaBSgCp7ni4g9SdiDJnWw) | 2:01 |
 
-Snapshot ID: `AAAAAFKlw0F2BzNOlHn0KEEdFA4w9Dh0`
+Snapshot ID: `AAAAAGnNd0LWSI/ugBZuGAM0iWcGBwl1`

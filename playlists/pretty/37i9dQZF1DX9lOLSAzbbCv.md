@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 
 > Хіти українського репу\. Обкладинка: МС Петя
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,344 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,385 likes - 50 songs - 2 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9lOLSAzbbCv.md) - [plain]
 | 49 | [ГАДДЕМІТ](https://open.spotify.com/track/4OX375hbVOIIYYOVKqGWKO) | [GEZWEIRDO](https://open.spotify.com/artist/6bTAQ6F3BQfGWbqLz0xk46) | [ГАДДЕМІТ](https://open.spotify.com/album/1yg8JJLkBXE93Y6dDya9Tr) | 2:31 |
 | 50 | [Марічка](https://open.spotify.com/track/2WoksKIDPQ8o90cqDbgE7L) | [Patsyki Z Franeka](https://open.spotify.com/artist/0fB3vIwNC9q3MCIBugQ5o9) | [Марічка](https://open.spotify.com/album/2vuy3wk0EUUUPJejUuAF43) | 3:26 |
 
-Snapshot ID: `AAAAAOwHEtOVxBZ1iHtIpelmPPnezYal`
+Snapshot ID: `AAAAAON/Vyl7YwUeGAGeBQK3ltWVxKwD`

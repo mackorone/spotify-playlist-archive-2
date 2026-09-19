@@ -1,12 +1,12 @@
 {
   "description": "The essential pop rock songs from the 2000s. Cover: Avril Lavigne",
-  "num_followers": 361371,
+  "num_followers": 361528,
   "original_name": "00s Pop Rock",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB+QFWu7h+EmOv7DXEM0jgccFYyj",
+  "snapshot_id": "AAAAALjvEpYxNEeYedEhvh8+8wk3FWG1",
   "tracks": [
     {
       "added_at": "2024-07-02 21:20:51",
@@ -603,22 +603,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Dead Letters",
-        "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
-      },
-      "artists": [
-        {
-          "name": "The Rasmus",
-          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
-        }
-      ],
-      "duration_ms": 257920,
-      "name": "In the Shadows",
-      "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "How To Save A Life",
         "url": "https://open.spotify.com/album/1IM3GwptCGYjRkzCBolyFK"
       },
@@ -631,6 +615,22 @@
       "duration_ms": 236266,
       "name": "Over My Head (Cable Car)",
       "url": "https://open.spotify.com/track/1N62wozuHCvczCkY4QidpP"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Dead Letters",
+        "url": "https://open.spotify.com/album/1J9W7Fkg34vdOVa8gR7dx7"
+      },
+      "artists": [
+        {
+          "name": "The Rasmus",
+          "url": "https://open.spotify.com/artist/76ptJV8617638xrpeoUtzl"
+        }
+      ],
+      "duration_ms": 257920,
+      "name": "In the Shadows",
+      "url": "https://open.spotify.com/track/1fr92Vupmcs2vgLMFVQ7rd"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -747,22 +747,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "The Script",
-        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
-      },
-      "artists": [
-        {
-          "name": "The Script",
-          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
-        }
-      ],
-      "duration_ms": 241373,
-      "name": "The Man Who Can't Be Moved",
-      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "Hero (feat. Josey Scott)",
         "url": "https://open.spotify.com/album/4JLTenJ9u07tFnk3On1ypa"
       },
@@ -779,6 +763,22 @@
       "duration_ms": 200480,
       "name": "Hero (feat. Josey Scott)",
       "url": "https://open.spotify.com/track/779ooI3rBd0CLqCiiJmtVo"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "The Script",
+        "url": "https://open.spotify.com/album/2hWSBJTWE0ce0NqJv2vzCc"
+      },
+      "artists": [
+        {
+          "name": "The Script",
+          "url": "https://open.spotify.com/artist/3AQRLZ9PuTAozP28Skbq8V"
+        }
+      ],
+      "duration_ms": 241373,
+      "name": "The Man Who Can't Be Moved",
+      "url": "https://open.spotify.com/track/4AFwnrH5atiJoAd5xS5QtR"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1023,22 +1023,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Sugar Ray",
-        "url": "https://open.spotify.com/album/7rq2iwU4TVxeZJbR4Gb2ht"
-      },
-      "artists": [
-        {
-          "name": "Sugar Ray",
-          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
-        }
-      ],
-      "duration_ms": 219226,
-      "name": "When It's Over - David Kahne Main",
-      "url": "https://open.spotify.com/track/5ZsPy9wHH733NlU6c4v2Hi"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
       },
@@ -1055,18 +1039,18 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Comfort Eagle",
-        "url": "https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj"
+        "name": "Sugar Ray",
+        "url": "https://open.spotify.com/album/7rq2iwU4TVxeZJbR4Gb2ht"
       },
       "artists": [
         {
-          "name": "CAKE",
-          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+          "name": "Sugar Ray",
+          "url": "https://open.spotify.com/artist/4uN3DsfENc7dp0OLO0FEIb"
         }
       ],
-      "duration_ms": 204128,
-      "name": "Short Skirt / Long Jacket",
-      "url": "https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7"
+      "duration_ms": 219226,
+      "name": "When It's Over - David Kahne Main",
+      "url": "https://open.spotify.com/track/5ZsPy9wHH733NlU6c4v2Hi"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1087,6 +1071,22 @@
       "duration_ms": 254466,
       "name": "The Game of Love (feat. Michelle Branch) - Main / Radio Mix",
       "url": "https://open.spotify.com/track/41IShViF79gmulEkIHAjcb"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Comfort Eagle",
+        "url": "https://open.spotify.com/album/5OCg9OWnL1PY4tW2ON8ssj"
+      },
+      "artists": [
+        {
+          "name": "CAKE",
+          "url": "https://open.spotify.com/artist/6A43Djmhbe9100UwnI7epV"
+        }
+      ],
+      "duration_ms": 204128,
+      "name": "Short Skirt / Long Jacket",
+      "url": "https://open.spotify.com/track/3OOFEF20WqtsUPcRbPY3L7"
     },
     {
       "added_at": "2024-07-02 21:20:51",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2024-07-02 21:20:51",
       "album": {
-        "name": "Have A Nice Day",
-        "url": "https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P"
-      },
-      "artists": [
-        {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Have A Nice Day",
-      "url": "https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF"
-    },
-    {
-      "added_at": "2024-07-02 21:20:51",
-      "album": {
         "name": "Breakaway",
         "url": "https://open.spotify.com/album/5gDAEao3VxFdbm8vS0koQq"
       },
@@ -1187,6 +1171,22 @@
       "duration_ms": 198973,
       "name": "Behind These Hazel Eyes",
       "url": "https://open.spotify.com/track/0AKAxdNkwq9ZxRdW1DN9zW"
+    },
+    {
+      "added_at": "2024-07-02 21:20:51",
+      "album": {
+        "name": "Have A Nice Day",
+        "url": "https://open.spotify.com/album/3VfBy3QX5peTfME0UxzZ2P"
+      },
+      "artists": [
+        {
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Have A Nice Day",
+      "url": "https://open.spotify.com/track/06Zz2l7cVTCTgCNDe1bnEF"
     },
     {
       "added_at": "2024-07-02 21:20:51",

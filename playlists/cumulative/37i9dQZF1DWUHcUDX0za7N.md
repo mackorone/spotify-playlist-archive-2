@@ -2,9 +2,9 @@
 
 ### [Naija Bars ](https://open.spotify.com/playlist/37i9dQZF1DWUHcUDX0za7N)
 
-> Hip hop and rap music from Nigeria\. Cover: Kayode
+> Hip hop and rap music from Nigeria\. Cover: Jerq & TUFF KING
 
-825 songs - 1 day 14 hr 33 min
+826 songs - 1 day 14 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -215,6 +215,7 @@
 | [Die It](https://open.spotify.com/track/2tAOGLiRgEIk39MmXxAEeB) | [Peruzzi](https://open.spotify.com/artist/5ywjxFhmhHGQBsK3DundNf) | [Die It](https://open.spotify.com/album/7MTjqxi7fAr92xsTM1wZUQ) | 2:50 | 2025-09-26 | 2026-01-25 |
 | [DIFFERENT PATTERN](https://open.spotify.com/track/7fLCROqSZ6vqVAbuYZnjVT) | [PsychoYP](https://open.spotify.com/artist/4Hyl7QROvzELSzMO7OXdjr) | [DIFFERENT PATTERN](https://open.spotify.com/album/4xGQkrkVUNM0X2tqjUdKze) | 1:50 | 2025-03-07 | 2025-03-21 |
 | [Different Pattern](https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:03 | 2023-12-08 | 2024-07-19 |
+| [Different Wave](https://open.spotify.com/track/09rEMK856dCFKa4Jg3XEkE) | [Jeriq](https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk), [TUFF KING](https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw) | [Different Wave](https://open.spotify.com/album/0qfIlhKvGdveRpIpS5mKsb) | 3:15 | 2026-09-18 |  |
 | [Digga](https://open.spotify.com/track/1oh95MuaCB9hd1gckqyRXA) | [Yôrkk](https://open.spotify.com/artist/4KLrpPDaqivMxsrJ7X6byv), [ARTSALGHUL](https://open.spotify.com/artist/3hXlGRJuBMCg9xJ41BSWkf) | [Digga](https://open.spotify.com/album/3WbPHstTziKAuJVx9vIQQI) | 3:07 | 2026-04-17 | 2026-05-08 |
 | [disembark](https://open.spotify.com/track/4KeTS2OQLoL7qt0kMB31Jb) | [Minz](https://open.spotify.com/artist/2XNwtpu314ZSFziTt0ZqZT) | [By Any Minz](https://open.spotify.com/album/48nHgN9M9JO1ic95yWLhJP) | 2:50 | 2024-10-04 | 2025-03-29 |
 | [Disturb](https://open.spotify.com/track/2R3CNCOX4wqB1goYTh1h0U) | [Jaido P](https://open.spotify.com/artist/5xdkKmWYZOF6IlzJWcs97q) | [Disturb / Pablo Moves](https://open.spotify.com/album/1NM948f5uEGrjeYXXy5MkM) | 2:52 | 2022-09-12 | 2023-01-28 |
@@ -523,7 +524,7 @@
 | [No Less](https://open.spotify.com/track/32wGNSA3W124qObuGWW2i6) | [Falz](https://open.spotify.com/artist/2s187JqHC9kipPLBLWXubl) | [The Feast](https://open.spotify.com/album/0mfWmn7nIuZuJHVsaZ8An9) | 3:10 | 2025-05-30 | 2026-05-29 |
 | [No Level](https://open.spotify.com/track/5SqwvygbmBKzzFHSUE7ONG) | [LADIPOE](https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [REVIVAL](https://open.spotify.com/album/3CQixxEVLChY4ILKkS1QmM) | 4:00 | 2026-07-17 | 2026-08-25 |
 | [No Love In Lagos](https://open.spotify.com/track/3S612TExInLWnYOsQ9Ti9y) | [Show Dem Camp](https://open.spotify.com/artist/0XqLMMiljB30SqHKV9PYsD), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD), [Nsikak David](https://open.spotify.com/artist/68rNpsuXK5ie82VFFuJZJy) | [No Love In Lagos](https://open.spotify.com/album/3qUxHQMBLeBWsBTkPnhXb3) | 3:09 | 2024-07-05 | 2024-11-17 |
-| [No Nation \(Ayakata\)](https://open.spotify.com/track/4lSSjtNkcROuqNXg09lZVS) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67) | [No Nation \(Ayakata\)](https://open.spotify.com/album/72TahaKuyCyjuUJHFIdotd) | 2:38 | 2026-08-14 |  |
+| [No Nation \(Ayakata\)](https://open.spotify.com/track/4lSSjtNkcROuqNXg09lZVS) | [Ginton](https://open.spotify.com/artist/4Fx9JQTrRogacwiF4Drhoy), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy), [Fela Kuti](https://open.spotify.com/artist/5CG9X521RDFWCuAhlo6QoR), [Sholz](https://open.spotify.com/artist/3DcibggJwwufI8QNBYnq67) | [No Nation \(Ayakata\)](https://open.spotify.com/album/72TahaKuyCyjuUJHFIdotd) | 2:38 | 2026-08-14 | 2026-09-19 |
 | [No Option](https://open.spotify.com/track/3mxm7OJDadZK1HYN9ZP8gf) | [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW), [ODUMODUBLVCK](https://open.spotify.com/artist/3LOm0AZjpwVQebvkyanjDy) | [Gbagada Express Vol 2: Moving Mad](https://open.spotify.com/album/7bFrLfofeujIbvs4WcHn3p) | 2:32 | 2023-06-02 | 2023-06-17 |
 | [No Peace \(Violence\)](https://open.spotify.com/track/1uQqjEsdd6LEKpfZxAeIIl) | [Ajebo Hustlers](https://open.spotify.com/artist/7oVwzvvrXEC8LbXhaNjTi4) | [Bad Boy Etiquette 101](https://open.spotify.com/album/2DNwwAZeVYl3Ld9zTP4zBA) | 2:35 | 2022-12-08 | 2023-06-17 |
 | [No Sign of Weakness](https://open.spotify.com/track/2hZSwKDJFiTnxnvObgiQuB) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [No Sign of Weakness](https://open.spotify.com/album/35EMM8QwKJ2qXmoUJnUSNf) | 2:55 | 2025-07-11 | 2026-02-17 |

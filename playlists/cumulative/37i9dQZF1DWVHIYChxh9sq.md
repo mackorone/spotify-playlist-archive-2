@@ -2,9 +2,9 @@
 
 ### [Música Mexicana En Vivo](https://open.spotify.com/playlist/37i9dQZF1DWVHIYChxh9sq)
 
-> Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: Ángela Aguilar
+> Música en vivo de tus artistas favoritos de la Música Mexicana\. Portada: Los Encinos De Sinaloa
 
-623 songs - 1 day 10 hr 55 min
+624 songs - 1 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Basta Ya \- En Vivo](https://open.spotify.com/track/4L0BVZLHU4r2HVLPaVRLMh) | [Calibre 50](https://open.spotify.com/artist/4jogXSSvlyMkODGSZ2wc2P) | [En Vivo](https://open.spotify.com/album/2pNBioReXaB9LZI1VRna74) | 3:43 | 2022-12-08 | 2024-04-24 |
 | [Bebe Dame](https://open.spotify.com/track/0IKeDy5bT9G0bA7ZixRT4A) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [Sigan Hablando](https://open.spotify.com/album/7JH7pr10sJV9caUhk3ORyK) | 4:31 | 2023-03-17 | 2024-04-16 |
 | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/track/7kIDShjwKNfhXv1dNfT9ec) | [Codiciado](https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Belico El Asunto \(En Vivo\)](https://open.spotify.com/album/2cfOMyHwOEIOVWiOjYB5OS) | 3:28 | 2022-12-08 |  |
+| [Besos Y Cerezas \(En Vivo\)](https://open.spotify.com/track/2LFMfRklB7N8ZEgAkt3XvP) | [Los Encinos De Sinaloa](https://open.spotify.com/artist/3toKbWWeQVQqeX6Vs14yVJ) | [Voy Llegando A Tu Ciudad](https://open.spotify.com/album/3BzvXrVdM42LwrwuAJcJTW) | 3:12 | 2026-09-18 |  |
 | [Besos Y Copas \(En Vivo\)](https://open.spotify.com/track/0xHedGzkiufKRHj2S1hdSf) | [Los Cuates de Sinaloa](https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7) | [Besos Y Copas \(En Vivo\)](https://open.spotify.com/album/46Y1UoLLf7GBVSwwR1jxKJ) | 3:07 | 2022-05-12 | 2023-03-18 |
 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/4133rBXOv4L0RJfzzpNJSc) | [Banda Los Reales](https://open.spotify.com/artist/6kTecPO26Gxf7Vsk0Lk8OI) | [Besos y Copas \(En Vivo\)](https://open.spotify.com/album/1Sc3shKERVLmKS1eU4ImMG) | 3:18 | 2026-09-04 |  |
 | [Besos y Copas \- En Vivo](https://open.spotify.com/track/1OVjCXRrPSbYfDwMTSTXRF) | [Los Humildes Hermanos Ayala](https://open.spotify.com/artist/22GEcjAc2Uvgl2neYIZwdL) | [Desde el corral \(En Vivo\)](https://open.spotify.com/album/6qsXUi1aIwzBroAPMh1mgU) | 2:47 | 2022-12-08 | 2024-04-16 |
@@ -196,7 +197,7 @@
 | [El Comando del Diablo \- En Vivo](https://open.spotify.com/track/4ttaps59yHeuSYKhMitFjJ) | [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [El Comando del Diablo \(En Vivo\)](https://open.spotify.com/album/7hMQTRIaeXlCAaVxBX4pNx) | 2:53 | 2022-05-12 | 2026-08-01 |
 | [El Compa Carlos \- En Vivo](https://open.spotify.com/track/0oZgRqBtQbfB8zkJNQGUTr) | [Panchito Arredondo](https://open.spotify.com/artist/1enyvmNKgt4BIIkVnt9FAV) | [Golpe de Estado \(En Vivo\)](https://open.spotify.com/album/4HKp5Ouc9lHtJvwlYhlcFg) | 2:15 | 2022-05-12 |  |
 | [El Corrido de Everardo \- En Vivo](https://open.spotify.com/track/7HMhgYzvOvz9ZBbylacRrm) | [El Komander](https://open.spotify.com/artist/2wC90WSKQd0BvdxJZ0mObr) | [El Corrido de Everardo \(En Vivo\)](https://open.spotify.com/album/30adXk1ADomEHWfS8red5c) | 3:07 | 2022-05-12 | 2022-12-09 |
-| [El Corrido Del Piyi \(LDLG\)](https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [El Corrido Del Piyi \(LDLG\)](https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2) | 3:04 | 2022-12-08 |  |
+| [El Corrido Del Piyi \(LDLG\)](https://open.spotify.com/track/3rs25Jb9yuoHxPQuV4pS12) | [Larry Hernández](https://open.spotify.com/artist/6djNDzSg08mnh2Ayoh6Ovn), [Los Caimanes De Sinaloa](https://open.spotify.com/artist/5VE6IinEVSwdQNqQIN8zAN) | [El Corrido Del Piyi \(LDLG\)](https://open.spotify.com/album/243mP1y4rBdXYiFjodfUS2) | 3:04 | 2022-12-08 | 2026-09-19 |
 | [El de los 7 Chinos \(En Vivo\)](https://open.spotify.com/track/35LrSWA4EBbB3vOcAALOZe) | [Los Varones De California](https://open.spotify.com/artist/4JtXEZQTssP9XfeaPbi8NF), [Antonin Padilla](https://open.spotify.com/artist/1wlt0D7y3meggHVgSwSqpk) | [El de los 7 Chinos \(En Vivo\)](https://open.spotify.com/album/4SfKwU0sIAHzmaWky8wN5r) | 2:51 | 2024-06-22 | 2024-09-21 |
 | [El De Tijuana \- En Vivo](https://open.spotify.com/track/6XvpygTZOFy06G7VtV3LXk) | [Grupo Vanguardia](https://open.spotify.com/artist/5qrmJRfUakYkbZZPXdD2FE) | [En Vivo Desde Colony Music](https://open.spotify.com/album/2C2fUFAgltuOeARxxTcq3q) | 2:58 | 2022-05-12 | 2022-12-09 |
 | [El Del Ice \- Live](https://open.spotify.com/track/3L8sZbVW0bGuyUOyqHBFa8) | [Edicion Especial](https://open.spotify.com/artist/7DkseLyOZrdRjCuoWFtqFi) | [El Del Ice \- Live](https://open.spotify.com/album/1Ha5QFa0aBqttJenBzDs9U) | 3:36 | 2022-12-08 | 2024-10-08 |

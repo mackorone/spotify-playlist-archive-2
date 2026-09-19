@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Music paying tribute to the Heartland of America.",
+  "description": "Music paying tribute to the Heartland of America. Cover: Drew Baldridge",
   "name": "Heartland Country",
   "tracks": [
     {
@@ -1193,6 +1193,24 @@
     },
     {
       "album": {
+        "name": "FARM FAITH FAMILY",
+        "url": "https://open.spotify.com/album/5CD7X8yLZt3vJoCBcuFgRd"
+      },
+      "artists": [
+        {
+          "name": "Drew Baldridge",
+          "url": "https://open.spotify.com/artist/08qaG5crPMPF7i0h2wORk5"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193120,
+      "name": "Farmland",
+      "url": "https://open.spotify.com/track/4w3iBFtBz7fIAItnGVpn1g"
+    },
+    {
+      "album": {
         "name": "COUNTRY!",
         "url": "https://open.spotify.com/album/3f1DEK9vqp8w3NL8w5F1s0"
       },
@@ -1474,7 +1492,7 @@
       ],
       "date_added": "2020-10-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 165586,
       "name": "Good Vibes",
       "url": "https://open.spotify.com/track/49oBFP6ZHPtd6t33LFTD3E"

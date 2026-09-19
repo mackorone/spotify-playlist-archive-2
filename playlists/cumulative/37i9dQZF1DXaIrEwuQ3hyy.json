@@ -5097,6 +5097,24 @@
     },
     {
       "album": {
+        "name": "everything in between",
+        "url": "https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO"
+      },
+      "artists": [
+        {
+          "name": "Amistat",
+          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213450,
+      "name": "seven days a week",
+      "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
+    },
+    {
+      "album": {
         "name": "she goes",
         "url": "https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122"
       },
@@ -6532,24 +6550,6 @@
       "duration_ms": 188828,
       "name": "Tough",
       "url": "https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer"
-    },
-    {
-      "album": {
-        "name": "everything in between",
-        "url": "https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO"
-      },
-      "artists": [
-        {
-          "name": "Amistat",
-          "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
     },
     {
       "album": {

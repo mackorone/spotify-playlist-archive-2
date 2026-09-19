@@ -1,12 +1,12 @@
 {
   "description": "Discover your new favourite artists with a focus on Germany, Switzerland, Austria. Cover: KUKO",
-  "num_followers": 29071,
+  "num_followers": 29069,
   "original_name": "RADAR GSA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHpgVMarMT1LJyAUvGAQv/KCM8gi",
+  "snapshot_id": "AAAAAF/hYCSQfNKsfkFzpJGdJPfgbOZQ",
   "tracks": [
     {
       "added_at": "2026-09-17 22:01:19",
@@ -38,10 +38,18 @@
         {
           "name": "Dani Lia",
           "url": "https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC"
+        },
+        {
+          "name": "yola",
+          "url": "https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF"
+        },
+        {
+          "name": "verifiziert",
+          "url": "https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 161663,
+      "name": "verg\u00f6tter mich (mit b\u00fcrgermeisterin von wien)",
       "url": "https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg"
     },
     {

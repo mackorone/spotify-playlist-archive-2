@@ -4,7 +4,7 @@
 
 > Soft instrumental jazz for working or studying.
 
-969 songs - 2 day 12 hr 32 min
+970 songs - 2 day 12 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -744,6 +744,7 @@
 | [Star\-Crossed Lovers](https://open.spotify.com/track/390r0C8H4XIoKtk0kOnbrE) | [Pepper Adams](https://open.spotify.com/artist/7fSCq6nVoFiyBqFD8fQFWR) | [Encounter!](https://open.spotify.com/album/7DkZ2AIH5OifT32a1HLBK5) | 3:55 | 2022-05-18 | 2022-11-11 |
 | [Stardust](https://open.spotify.com/track/2KfxK9sO9xnjeFxizuXljy) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 2:26 | 2021-12-16 | 2022-11-11 |
 | [Stars Above](https://open.spotify.com/track/2iMQAwqqjCEeLlnPppBOYW) | [Nordic Light Trio](https://open.spotify.com/artist/2BcQKRbEFJJaMcad1CRZ35) | [Stars Above](https://open.spotify.com/album/0jbSSFBfcHSJl7UVaCk1S9) | 2:58 | 2023-12-22 |  |
+| [Stay a little longer](https://open.spotify.com/track/0emDa50ODJgLqy4l0h6hc4) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [Stay a little longer](https://open.spotify.com/album/2BOjiIkqNaeTyRuIQS5o3M) | 3:22 | 2026-09-18 |  |
 | [Stella By Starlight](https://open.spotify.com/track/7JQlMm9c0pkOeowoMCeCTG) | [Benny Golson](https://open.spotify.com/artist/78NDaMzmcDKjt7mkXs7AuG) | [Turning Point](https://open.spotify.com/album/0agszqZvTEs9EpGAsAj6yT) | 4:52 | 2021-12-16 | 2026-01-17 |
 | [Stephanie](https://open.spotify.com/track/0kuEM0rW8eZgIEXoaqISxD) | [Lee Konitz Quartet](https://open.spotify.com/artist/6c2FFoYYHufG0gxmk790Vj) | [Tranquility](https://open.spotify.com/album/7Iy7v5tD2N6Q4uHCKU4H7F) | 3:55 | 2021-12-16 | 2022-11-11 |
 | [Steps Ahead](https://open.spotify.com/track/3PglbYgSF2NiYDRMiONnio) | [Joyce Trio](https://open.spotify.com/artist/75pnTZQozf5CtkbWxmUtCf) | [Steps Ahead](https://open.spotify.com/album/2pVrdxaWpxPeFLtAz3EYIh) | 3:22 | 2022-11-11 | 2026-03-03 |
@@ -944,7 +945,7 @@
 | [Windless Waters](https://open.spotify.com/track/7FMsiew09v6ICDI5MU1Jc5) | [Lee Davis](https://open.spotify.com/artist/4GTZfDMmFwiIThMu6b39qp) | [Windless Waters](https://open.spotify.com/album/4VavAVgUen9lslDOZtqizc) | 3:30 | 2022-11-11 | 2026-03-03 |
 | [With A Little Bit Of Luck \- Instrumental](https://open.spotify.com/track/2sYInNWcg7ZL9cLobvs0oo) | [Shelly Manne And His Friends](https://open.spotify.com/artist/4NmuwMxBl62HSU4nXZYLUf) | [My Fair Lady](https://open.spotify.com/album/0HyyWDSM4mZcnkHIXo6oza) | 6:02 | 2021-12-16 | 2026-02-07 |
 | [Without A Song](https://open.spotify.com/track/1nsMASRDWwUwlBMmOuh80d) | [Meadow Park](https://open.spotify.com/artist/3xgSoGgPQpQvOK5XOyoOAm) | [Without A Song](https://open.spotify.com/album/7KckOMQ11H9HTjolar2ch7) | 3:56 | 2022-11-11 | 2026-03-19 |
-| [Without saying much](https://open.spotify.com/track/3Lld9Qsp3Rig5lcZTbIWpc) | [Mill Basin](https://open.spotify.com/artist/2JJLo6OchMfh5VgpVZmVTw) | [Without saying much](https://open.spotify.com/album/5HaU2XRqk6gfFI5qkylADr) | 4:16 | 2026-02-06 |  |
+| [Without saying much](https://open.spotify.com/track/3Lld9Qsp3Rig5lcZTbIWpc) | [Mill Basin](https://open.spotify.com/artist/2JJLo6OchMfh5VgpVZmVTw) | [Without saying much](https://open.spotify.com/album/5HaU2XRqk6gfFI5qkylADr) | 4:16 | 2026-02-06 | 2026-09-19 |
 | [Wooden String](https://open.spotify.com/track/7A0Tfue4lSnzJsudy5m7y9) | [Ballroom Jazz Collective](https://open.spotify.com/artist/0i7Yh2vJ2r5pMEMUjgntGL) | [Wooden String](https://open.spotify.com/album/0JNbiCpZInQlQcYnRzVGZS) | 3:24 | 2023-08-10 | 2026-01-17 |
 | [Woodland](https://open.spotify.com/track/5HydmnvQcjzE2JRf1GUtiz) | [Fred Hayes](https://open.spotify.com/artist/62p6oXKfOk0e0tLh9uO94a) | [Woodland](https://open.spotify.com/album/6806BOrYiaBMTYzpdDBdBR) | 3:24 | 2024-07-01 |  |
 | [Worry and Gossip](https://open.spotify.com/track/32BL3Zghn1hSCgpgLSrUqc) | [Courtney Salas Group](https://open.spotify.com/artist/7hQlDvOgJjwCaF5Ecsvnj7) | [Worry and Gossip](https://open.spotify.com/album/1GA9JcA89pxedYvGc7FUqV) | 3:41 | 2023-10-13 |  |

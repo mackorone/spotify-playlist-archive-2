@@ -6,8 +6,32 @@
     "name": "Spinnin\u2019 Records",
     "url": "https://open.spotify.com/user/spinninrecordsofficial"
   },
-  "snapshot_id": "AAARuPKobP9sVH20Qsqi4PWi2U02XWqO",
+  "snapshot_id": "AAARxNB3sbCBQuh2wgq+XR4t8nm3bTWX",
   "tracks": [
+    {
+      "added_at": "2026-09-18 08:13:34",
+      "album": {
+        "name": "Chase The Feeling (feat. ALEXX)",
+        "url": "https://open.spotify.com/album/6yh6I4g8c6QYATbQJIe6VC"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "ALEXX",
+          "url": "https://open.spotify.com/artist/5uKJESYpkn1kFR72Sj0UWC"
+        }
+      ],
+      "duration_ms": 149538,
+      "name": "Chase The Feeling (feat. ALEXX)",
+      "url": "https://open.spotify.com/track/0e5Af4sM86p0CD3KpZAEY2"
+    },
     {
       "added_at": "2026-09-11 07:03:01",
       "album": {
@@ -33,44 +57,20 @@
       "url": "https://open.spotify.com/track/4YhVo4VniHUGeTE6bOYF41"
     },
     {
-      "added_at": "2026-09-11 07:08:45",
+      "added_at": "2026-09-18 08:23:08",
       "album": {
-        "name": "He The Best",
-        "url": "https://open.spotify.com/album/0BV0YFbIEuEuxsXKGmgamX"
+        "name": "Whole Again",
+        "url": "https://open.spotify.com/album/4T6WGOKNC5P8euk1cbiqJs"
       },
       "artists": [
         {
-          "name": "CIS",
-          "url": "https://open.spotify.com/artist/1wQLvzp6520wqPtnXyic9P"
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
         }
       ],
-      "duration_ms": 171428,
-      "name": "He The Best",
-      "url": "https://open.spotify.com/track/5E5QDIjHCy7FNZ4KBhGz76"
-    },
-    {
-      "added_at": "2026-09-04 15:05:25",
-      "album": {
-        "name": "Keep Up",
-        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
-      },
-      "artists": [
-        {
-          "name": "Argy",
-          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
-        },
-        {
-          "name": "Alok",
-          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
-        },
-        {
-          "name": "Adam Beyer",
-          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
-        }
-      ],
-      "duration_ms": 158181,
-      "name": "Keep Up",
-      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
+      "duration_ms": 168746,
+      "name": "Whole Again",
+      "url": "https://open.spotify.com/track/1WGPOivrkVZPQTYS7yagu0"
     },
     {
       "added_at": "2026-06-25 22:00:04",
@@ -97,6 +97,46 @@
       "url": "https://open.spotify.com/track/4qNqRgHTf2maOS3Ttggutw"
     },
     {
+      "added_at": "2026-09-18 08:46:17",
+      "album": {
+        "name": "So Incredible (Remix)",
+        "url": "https://open.spotify.com/album/2K7r7mT6pbFM4EbYR7XFzx"
+      },
+      "artists": [
+        {
+          "name": "Lies Zhara",
+          "url": "https://open.spotify.com/artist/6lepB2hdHmFWYsZEDqP4l5"
+        }
+      ],
+      "duration_ms": 117570,
+      "name": "So Incredible (Remix)",
+      "url": "https://open.spotify.com/track/5o9IvdwmVGFqhiWCP67qy2"
+    },
+    {
+      "added_at": "2026-09-04 15:05:25",
+      "album": {
+        "name": "Keep Up",
+        "url": "https://open.spotify.com/album/3kOlNcliOtOJDT4R5XLS4k"
+      },
+      "artists": [
+        {
+          "name": "Argy",
+          "url": "https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Adam Beyer",
+          "url": "https://open.spotify.com/artist/1btv9qmIpbp7q1ixCYNdHu"
+        }
+      ],
+      "duration_ms": 158181,
+      "name": "Keep Up",
+      "url": "https://open.spotify.com/track/61hNFGvYnfrlEVdQ6xNN8a"
+    },
+    {
       "added_at": "2026-09-11 07:35:17",
       "album": {
         "name": "Subra",
@@ -111,6 +151,22 @@
       "duration_ms": 233385,
       "name": "Subra",
       "url": "https://open.spotify.com/track/2gN6xtF82P2A4D4gnVLpJc"
+    },
+    {
+      "added_at": "2026-09-11 07:08:45",
+      "album": {
+        "name": "He The Best",
+        "url": "https://open.spotify.com/album/0BV0YFbIEuEuxsXKGmgamX"
+      },
+      "artists": [
+        {
+          "name": "CIS",
+          "url": "https://open.spotify.com/artist/1wQLvzp6520wqPtnXyic9P"
+        }
+      ],
+      "duration_ms": 171428,
+      "name": "He The Best",
+      "url": "https://open.spotify.com/track/5E5QDIjHCy7FNZ4KBhGz76"
     },
     {
       "added_at": "2026-08-14 08:07:32",
@@ -5863,6 +5919,22 @@
       "duration_ms": 215433,
       "name": "I Just Wanna Die",
       "url": "https://open.spotify.com/track/4H05gE8mThjMF5ooVEahZs"
+    },
+    {
+      "added_at": "2026-09-18 08:23:08",
+      "album": {
+        "name": "Whole Again",
+        "url": "https://open.spotify.com/album/4T6WGOKNC5P8euk1cbiqJs"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "duration_ms": 144620,
+      "name": "Empathy",
+      "url": "https://open.spotify.com/track/5B8D0hoLbPlf5cO9N1OluW"
     }
   ],
   "unique_name": "Tech House & Clubbing 2026",

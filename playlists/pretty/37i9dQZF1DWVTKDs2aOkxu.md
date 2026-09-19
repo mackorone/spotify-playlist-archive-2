@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 
 > The best indie music of the moment\. Cover: Jamie T
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,930,984 likes - 80 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,930,871 likes - 80 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTKDs2aOkxu.md) - [plain]
 | 79 | [Six Years Of Keeping On](https://open.spotify.com/track/0gSIr2lOp9I2mynmYdjzyf) | [jo from school](https://open.spotify.com/artist/3aDv6CO1l66pfxOz0RUQtT) | [Grace, Flair and Distance](https://open.spotify.com/album/3Q4kLbPexP7VnH4jymSPo6) | 3:00 |
 | 80 | [Right On Time](https://open.spotify.com/track/15gbrNPteUKN5gNuoRnhY2) | [Truman Sinclair](https://open.spotify.com/artist/6blV8nsJMWan2a2sYFyxVG) | [Right On Time](https://open.spotify.com/album/0pgqi9s9qkIGjCbN5vGbNq) | 3:29 |
 
-Snapshot ID: `AAAAAEE3JXLOnIlL/5VMt/kGvpJqXL6t`
+Snapshot ID: `AAAAACVmRoLGStWmVQ6LnZ3HzmTJJXgL`

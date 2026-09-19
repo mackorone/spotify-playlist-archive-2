@@ -4,7 +4,7 @@
 
 > Smooth and cozy saxophone ballads for relaxing or focus.
 
-254 songs - 16 hr 18 min
+257 songs - 16 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -33,6 +33,7 @@
 | [April In Paris](https://open.spotify.com/track/5rPMbUxXRXvWu89k0n6Sxj) | [Charlie Parker](https://open.spotify.com/artist/4Ww5mwS7BWYjoZTUIrMHfC) | [April In Paris: The Genius Of Charlie Parker \#2](https://open.spotify.com/album/7uifUApb0mUlqIxX5SkrVJ) | 3:07 | 2022-08-18 | 2022-09-09 |
 | [Ardent](https://open.spotify.com/track/0tJPym7iyE0HyPFhwPrPBj) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Ardent](https://open.spotify.com/album/14v5XJ2DIhpd1AmlgA25cw) | 3:06 | 2022-10-13 | 2025-11-13 |
 | [As Though The Sun](https://open.spotify.com/track/2AxW80QuVqJ0GXygmupaM2) | [Mabon Clarke Quartet](https://open.spotify.com/artist/1PxVNcTPbAGfnt4i21wDzc) | [As Though The Sun](https://open.spotify.com/album/6Te3ZDjwGegzpFd1MaZNNe) | 3:47 | 2023-01-05 | 2026-06-13 |
+| [As We Go Along](https://open.spotify.com/track/4vG6uDg708tokMywPXoOfA) | [Nordic Quartet](https://open.spotify.com/artist/6XhjDLFPmCbhposdUMoJvM) | [As We Go Along](https://open.spotify.com/album/5Ez53MHteTskvrrNoo1qg1) | 3:31 | 2026-09-18 |  |
 | [Ask for More](https://open.spotify.com/track/0Hx2fvSuf3OxAadpYV92NH) | [Tommie Blayne](https://open.spotify.com/artist/204e8Dl05BFPHdRr5icPdx) | [Ask for More](https://open.spotify.com/album/4RuLAwmPJcZUCGkuRd5r5a) | 3:23 | 2025-11-12 |  |
 | [Autumn in Berlin](https://open.spotify.com/track/5Frs5xwfED7VCc6XYNFnK7) | [William Claeson](https://open.spotify.com/artist/0QDLHVdGZpRfw01CpFIoUZ) | [Autumn in Berlin](https://open.spotify.com/album/0j5PaJc7pFXmloYCVSIxZ1) | 2:54 | 2022-08-18 |  |
 | [Back Again](https://open.spotify.com/track/2tc90056I9biUsg2AJJgxu) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [Back Again](https://open.spotify.com/album/7t2aig2y41TMu92g00TRNj) | 5:11 | 2024-02-23 |  |
@@ -96,6 +97,7 @@
 | [I Can´t Get Started](https://open.spotify.com/track/4WnIvYavScSqhquPBhSEof) | [Willowdale](https://open.spotify.com/artist/57UeAcyqrdUXJlNLqXFtIF) | [I Can´t Get Started](https://open.spotify.com/album/27ohKrlRWtHFV0Evzl2crp) | 3:28 | 2022-08-18 | 2025-11-13 |
 | [I Let You Go](https://open.spotify.com/track/2MUAcWl4bGxBtVUlUxC3xj) | [Belleville](https://open.spotify.com/artist/6OZLCBcT66pK5nRLz4xC2V) | [I Let You Go](https://open.spotify.com/album/7J3h6X9DQ1xtAzbcr6qlZU) | 4:08 | 2024-11-25 | 2026-02-28 |
 | [I Should Care](https://open.spotify.com/track/0uCk5mVLsnjndhPl7sXMCe) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [I Should Care](https://open.spotify.com/album/00pfFfQ3l1A9dZItYypDcg) | 3:27 | 2023-04-13 |  |
+| [I still doubt it](https://open.spotify.com/track/29z4NUw0E4mjC4OmlOLgzD) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [I still doubt it](https://open.spotify.com/album/51X1XLJJyT3anz8IsFO8xe) | 3:04 | 2026-09-18 |  |
 | [I Still See You In My Dreams](https://open.spotify.com/track/0zBUB6TUdZNOeWrQphEP6J) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [I Still See You In My Dreams](https://open.spotify.com/album/37NCgGDRaxH8E7N4pxunDM) | 3:17 | 2022-09-29 | 2025-11-13 |
 | [I Thought About Us](https://open.spotify.com/track/3WuYbFjNzxV1iHsopkRE5v) | [Andy Miller Group](https://open.spotify.com/artist/7prqikKsztTvb6GHaYVbku) | [I Thought About Us](https://open.spotify.com/album/0q97p3nKwoNzSsNxtWqFMN) | 3:57 | 2022-08-18 | 2025-11-13 |
 | [I Try Not To Worry](https://open.spotify.com/track/6i78FMOtR7auXQ15mWyYjE) | [Le Bourget](https://open.spotify.com/artist/39QGocubAYKDY8IlHzs6ZL) | [I Try Not To Worry](https://open.spotify.com/album/2nCIZTSeCZQs5dNsG88NlW) | 3:49 | 2025-11-12 |  |
@@ -191,6 +193,7 @@
 | [Shadows of You](https://open.spotify.com/track/75iWzL2HCo4ckYySYIhkar) | [Sverrir Audland](https://open.spotify.com/artist/62pUUDqEOmiAntBGGKLs6T) | [Shadows of You](https://open.spotify.com/album/2Zk67mWiPQQQiXqhTA95i5) | 3:22 | 2024-02-02 | 2025-11-13 |
 | [She's A Class Act](https://open.spotify.com/track/7L8qE08pnMxr4JvvtYJxis) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [She's A Class Act](https://open.spotify.com/album/0MpvWeiSTn4OERhT97V4sw) | 3:37 | 2023-02-02 |  |
 | [Silent Thunder](https://open.spotify.com/track/6yY6hRz9VNEhaRyWEHTezV) | [Carla Anderson](https://open.spotify.com/artist/1TbIqBiSP0SseGrRStPd3o) | [Silent Thunder](https://open.spotify.com/album/2D7QuOEsAvaN9oSQTLEjqb) | 4:39 | 2022-08-18 | 2025-11-13 |
+| [Since That Moment](https://open.spotify.com/track/6xCfLqFgLYkdeLfQeKu0tr) | [Buddy Kearnan Quartet](https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG) | [Since That Moment](https://open.spotify.com/album/3fF4dPyPTq3jBOiPbLz3pG) | 2:59 | 2026-09-18 |  |
 | [Since You Left Me](https://open.spotify.com/track/3d4PWG3P1FU0CGiBu0fZRV) | [Odo Lefebvre](https://open.spotify.com/artist/7lLtsVLpDbuhSvr5UE6HIU) | [Since You Left Me](https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso) | 3:49 | 2022-12-08 | 2024-06-12 |
 | [Sleep Paralysis](https://open.spotify.com/track/55FKJfDFMkBvd04FBXYlYX) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Sleep Paralysis](https://open.spotify.com/album/04EUuEijOXyWTzyyoOUW2L) | 4:22 | 2022-08-18 | 2025-11-13 |
 | [Sleeted Streets](https://open.spotify.com/track/4dX9jhmfLWYYmb1NQ5SCgN) | [Eduard Landings](https://open.spotify.com/artist/6SF8oe9fw9X65MbLwQfkau) | [Sleeted Streets](https://open.spotify.com/album/2lS8BnBmFMczWJ6WrjPAoK) | 3:44 | 2022-12-22 | 2025-11-13 |

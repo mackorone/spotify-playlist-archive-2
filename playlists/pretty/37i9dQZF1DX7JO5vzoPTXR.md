@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 
 > Songs that are 100% written, produced, and performed by Women! Co\-Curated this month by: <a href="spotify:artist:5Oj5jQ98vsoHeIGqCS9Dfq">Msaki</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,588 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,615 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7JO5vzoPTXR.md) - [plain]
 | 49 | [to know you](https://open.spotify.com/track/4PewY42ebXnwFJPZ3CaxPu) | [Melissa Kadas](https://open.spotify.com/artist/3eOzCx1fs3vuE0K2R4x29C) | [to know you](https://open.spotify.com/album/6ANeh0U9ijUC8W32tIETrp) | 2:28 |
 | 50 | [lao shi](https://open.spotify.com/track/6Z3mpXWlxpH91pkxtvhfYK) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [lao shi](https://open.spotify.com/album/2QAToXwax3o7UkhpMZSsW3) | 2:11 |
 
-Snapshot ID: `AAAAADJ2sgrk27f+353dorvfUO1j82al`
+Snapshot ID: `AAAAANLU5KwByWnY2nqppqFwJTftrn1/`

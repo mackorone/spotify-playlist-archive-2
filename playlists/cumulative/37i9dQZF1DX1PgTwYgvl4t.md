@@ -4,7 +4,7 @@
 
 > Get served with the best Nigerian worship songs\. Cover: Nathaniel Bassey
 
-456 songs - 2 day 8 hr 58 min
+457 songs - 2 day 9 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -144,6 +144,7 @@
 | [Glory to God in the Highest](https://open.spotify.com/track/2wfKR78LJVyLary3V3KmFI) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn) | [The Life Recording](https://open.spotify.com/album/1Zs0UQ3vqlDJytajyaoiyQ) | 13:34 | 2026-08-14 |  |
 | [Glory to Jesus Forever](https://open.spotify.com/track/3wOuvkjq9UWJGNxGauqgkZ) | [Daniel Aikhomu](https://open.spotify.com/artist/2ZpiNuJPh1v5DeqfZs623d) | [Glory to Jesus Forever](https://open.spotify.com/album/1qotccFUotC9CrhD3hnNYj) | 5:51 | 2024-07-05 | 2024-11-08 |
 | [Glory to the Lamb](https://open.spotify.com/track/425k4vS0dg9Ri0gpslc6JW) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Nessa Asuakoh](https://open.spotify.com/artist/3PhfIzLpTaNOr8tSvgbzGo) | [The Glory of His Presence](https://open.spotify.com/album/0G15dQmK6vpTiHwQNiroWz) | 21:09 | 2026-04-01 | 2026-04-07 |
+| [God Brought Us This Far !](https://open.spotify.com/track/4Mud8gQ3gI7CYHcNn3NaBW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso), [Princess Ubabudike](https://open.spotify.com/artist/0rJ1gAFLYevPLRdAy2CyXl) | [Just Believe](https://open.spotify.com/album/6lRddqfhBJ5jtzhctqlaAw) | 7:48 | 2026-09-18 |  |
 | [God Has Done](https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [God Has Done](https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg) | 2:59 | 2025-09-26 | 2026-07-03 |
 | [God Has Done Me Well](https://open.spotify.com/track/7v3pqEg8SQr30Id4T7kRZn) | [Victor Atenaga](https://open.spotify.com/artist/7Gnq3VWNEzKpouU0B7hMJr), [Nosa](https://open.spotify.com/artist/2L0sgYLzuz1GstJlck2kU4), [Osa Ekhator](https://open.spotify.com/artist/6fuP5lC0tFLaTSTZ0BWwS0) | [God Has Done Me Well](https://open.spotify.com/album/63ayOU5TbQ8JIVEBs1IfB6) | 6:27 | 2025-02-21 | 2025-03-28 |
 | [God of Vengeance](https://open.spotify.com/track/49uKEYQfVMvvXdrKVskMhd) | [Minister GUC](https://open.spotify.com/artist/5F9NFQsix9CwLRFKUbyCEL) | [The Message](https://open.spotify.com/album/4Ms9jXii2uQWm8mjxvnqLd) | 9:17 | 2024-05-09 |  |

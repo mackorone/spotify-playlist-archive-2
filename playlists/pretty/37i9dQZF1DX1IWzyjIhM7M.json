@@ -1,12 +1,12 @@
 {
   "description": "Our editors' picks of best tracks of 2023 by independent, developing artists from around the world. Cover: Searows\n",
-  "num_followers": 10433,
+  "num_followers": 10439,
   "original_name": "Fresh Finds: Class of 2023",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALcD7gnNe9+AQI58OEXBJYU03D+y",
+  "snapshot_id": "AAAAALyVvIriCL2+rNtRTTth7+BCj6PZ",
   "tracks": [
     {
       "added_at": "2024-01-10 16:06:35",
@@ -215,22 +215,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Body Language",
-        "url": "https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3"
-      },
-      "artists": [
-        {
-          "name": "Chikoruss",
-          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
-        }
-      ],
-      "duration_ms": 203637,
-      "name": "Body Language",
-      "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Come Over And Love Me",
         "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
       },
@@ -243,6 +227,22 @@
       "duration_ms": 161266,
       "name": "Come Over And Love Me",
       "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Body Language",
+        "url": "https://open.spotify.com/album/6L1ekY8aBACrSliErW0bB3"
+      },
+      "artists": [
+        {
+          "name": "Chikoruss",
+          "url": "https://open.spotify.com/artist/3uZWq09EA6TKOR3wqJGVMx"
+        }
+      ],
+      "duration_ms": 203637,
+      "name": "Body Language",
+      "url": "https://open.spotify.com/track/0KTj4f42N812t5jfFto2CU"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -947,22 +947,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "bo card (things i need)",
-        "url": "https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY"
-      },
-      "artists": [
-        {
-          "name": "YKB",
-          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
-        }
-      ],
-      "duration_ms": 179717,
-      "name": "bo card (things i need)",
-      "url": "https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Cheapshot",
         "url": "https://open.spotify.com/album/6hlsYGVG7023cYQrKottTH"
       },
@@ -975,6 +959,22 @@
       "duration_ms": 100593,
       "name": "Cheapshot",
       "url": "https://open.spotify.com/track/4DWvLw48z22rqMEPrja8oU"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "bo card (things i need)",
+        "url": "https://open.spotify.com/album/3yBIbaYNlFfrbEZVZEDdrY"
+      },
+      "artists": [
+        {
+          "name": "YKB",
+          "url": "https://open.spotify.com/artist/2f8rjDwhSy9IDL6sB6BEEE"
+        }
+      ],
+      "duration_ms": 179717,
+      "name": "bo card (things i need)",
+      "url": "https://open.spotify.com/track/0saSQscIxmbaT9i29o6ygY"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Raining Tomorrow",
-        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
-      },
-      "artists": [
-        {
-          "name": "Natanya",
-          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
-        }
-      ],
-      "duration_ms": 228484,
-      "name": "Raining Tomorrow",
-      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "blue dream",
         "url": "https://open.spotify.com/album/5dVdataC8Czd3mIh3gheEK"
       },
@@ -1363,6 +1347,22 @@
       "duration_ms": 188963,
       "name": "blue dream",
       "url": "https://open.spotify.com/track/1gYRR8ZHN3Ii9p7fggfihQ"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Raining Tomorrow",
+        "url": "https://open.spotify.com/album/3bG5fjCjRBLHq0b6p2oGBY"
+      },
+      "artists": [
+        {
+          "name": "Natanya",
+          "url": "https://open.spotify.com/artist/4QlEFh3gBGqmboPVc7AwUp"
+        }
+      ],
+      "duration_ms": 228484,
+      "name": "Raining Tomorrow",
+      "url": "https://open.spotify.com/track/6CBBTbmqTTSCzkSyfpUs8n"
     },
     {
       "added_at": "2024-01-10 16:06:35",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2024-01-10 16:06:35",
       "album": {
-        "name": "Conditions",
-        "url": "https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ"
-      },
-      "artists": [
-        {
-          "name": "Giift",
-          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
-        }
-      ],
-      "duration_ms": 131541,
-      "name": "Lonely",
-      "url": "https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr"
-    },
-    {
-      "added_at": "2024-01-10 16:06:35",
-      "album": {
         "name": "Is It Me",
         "url": "https://open.spotify.com/album/3I3vADoXrs50CCHvOtJ2f4"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 194638,
       "name": "Is It Me",
       "url": "https://open.spotify.com/track/3HoWMvZthFR2Ymbm1YaSgh"
+    },
+    {
+      "added_at": "2024-01-10 16:06:35",
+      "album": {
+        "name": "Conditions",
+        "url": "https://open.spotify.com/album/5dQyKXUD3YhvsESDAUX4iZ"
+      },
+      "artists": [
+        {
+          "name": "Giift",
+          "url": "https://open.spotify.com/artist/2uRyCr2a4iM7uEaz4oQE3p"
+        }
+      ],
+      "duration_ms": 131541,
+      "name": "Lonely",
+      "url": "https://open.spotify.com/track/6vkucSVB3rWcLQA4Shijcr"
     },
     {
       "added_at": "2024-01-10 16:06:35",

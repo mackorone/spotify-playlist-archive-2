@@ -1,12 +1,12 @@
 {
   "description": "This is Black Alien. The essential tracks, all in one playlist.",
-  "num_followers": 42321,
+  "num_followers": 42329,
   "original_name": "This Is Black Alien",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAC7YGeNi/6gkwKPzeilLl1y",
+  "snapshot_id": "aqstgAAAAADtSD7AHINxuIMyZcDpWVWW",
   "tracks": [
     {
       "added_at": null,
@@ -195,8 +195,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Real Gold",
-        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
+        "name": "Fica At\u00e9 Umas Hora",
+        "url": "https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 197840,
-      "name": "Real Gold",
-      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
+      "duration_ms": 228800,
+      "name": "Fica At\u00e9 Umas Hora",
+      "url": "https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z"
     },
     {
       "added_at": null,
@@ -243,8 +243,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fica At\u00e9 Umas Hora",
-        "url": "https://open.spotify.com/album/0VCfXfgGoV1ogsTnMW74Ot"
+        "name": "Real Gold",
+        "url": "https://open.spotify.com/album/5PRS6zL5id8VsFjesEsaw3"
       },
       "artists": [
         {
@@ -252,9 +252,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 228800,
-      "name": "Fica At\u00e9 Umas Hora",
-      "url": "https://open.spotify.com/track/066BKF0jdIIgoNoRUm7f8Z"
+      "duration_ms": 197840,
+      "name": "Real Gold",
+      "url": "https://open.spotify.com/track/4qQm3DuFEVsqp2GWjkNFli"
     },
     {
       "added_at": null,
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 212725,
-      "name": "Homem de Fam\u00edlia",
-      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
+      "duration_ms": 191981,
+      "name": "Rolo Compressor",
+      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
     },
     {
       "added_at": null,
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/6aCbXH85qN6xo54C7atSMx"
         }
       ],
-      "duration_ms": 191981,
-      "name": "Rolo Compressor",
-      "url": "https://open.spotify.com/track/5wFUgWRIVGPr0RnidObdEc"
+      "duration_ms": 212725,
+      "name": "Homem de Fam\u00edlia",
+      "url": "https://open.spotify.com/track/34CKVzQJk6T6XsKwNh2cpN"
     },
     {
       "added_at": null,

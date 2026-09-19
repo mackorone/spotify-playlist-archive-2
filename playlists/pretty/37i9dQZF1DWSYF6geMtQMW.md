@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 
 > הפלייליסט הכי גדול בישראל, עם השירים הכי חמים של היום ומחר\. קאבר: רואי אדם
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,817 likes - 50 songs - 2 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,880 likes - 50 songs - 2 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSYF6geMtQMW.md) - [plain]
 | 49 | [אביצ'י](https://open.spotify.com/track/4DAwc04XQCOGDDHZ6trCbK) | [נדב חנציס](https://open.spotify.com/artist/4ZXLucEFePscKcgUlD0Sf9) | [אופוריה](https://open.spotify.com/album/7bukWWwRd94p8xLUyNXhVs) | 3:08 |
 | 50 | [Michelle](https://open.spotify.com/track/22g4vKHFze17AV7vnequhG) | [Noam Bettan](https://open.spotify.com/artist/0RzO7EUuiJ1urqHiJecPdn), [כאן \- תאגיד השידור הישראלי](https://open.spotify.com/artist/2N9Cvh536WBOePrevGKIlj) | [Michelle](https://open.spotify.com/album/4ba7N69bOXNccJuCU5S8x3) | 3:00 |
 
-Snapshot ID: `AAAAANnXdYytze6Rr5JGYewQlPn4axp9`
+Snapshot ID: `AAAAAB1kP3d21qv9YidQuteFgCXglJ3X`

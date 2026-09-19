@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 
 > Sophisticated palates only\. Curated by: <a href="https://www.instagram.com/archdvs/">Archie Davis</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,591 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,590 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9Q5f4msmVDn.md) - [plain]
 | 49 | [Dark Shades](https://open.spotify.com/track/3pte5BLqrgOQRvP4EEnKwJ) | [Dom Kennedy](https://open.spotify.com/artist/3s8alQfNnY0roAHaJh7Xxt), [Niko G4](https://open.spotify.com/artist/0R4yXxa1YyORYIzlE3LfmB) | [Rap N Roll](https://open.spotify.com/album/1K1x5xDGJoPrZVitY4H7Iu) | 2:36 |
 | 50 | [Options](https://open.spotify.com/track/2yPQab0fUSPz6cCv4JOJrU) | [Nana](https://open.spotify.com/artist/40mGQmqwScWdeqW08ff7vu) | [Save Yourself](https://open.spotify.com/album/084WGSgugXmYrsJRMeIRaB) | 3:10 |
 
-Snapshot ID: `AAAAAOIGW2Dp22yaGjGEumaWj/YnVv3L`
+Snapshot ID: `AAAAAJ3H2NbK/Nk+VFU7KMaeNlDl0pnv`

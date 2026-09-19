@@ -4,7 +4,7 @@
 
 > Some of the biggest artists, recorded live\. It’s \(almost\) like you were there\.  Cover: ROLE MODEL
 
-273 songs - 20 hr 38 min
+274 songs - 20 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [A Little Respect \(Live in Nashville\)](https://open.spotify.com/track/4a2dbJunlLGd87U7bNrwHh) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/7FKtqGJK8DhnAOUqHSfPqU) | 3:38 | 2023-11-03 | 2024-04-19 |
 | [A Little Respect \- Live in Nashville](https://open.spotify.com/track/7z0xCVXPn6gESV6dygIj5W) | [Erasure](https://open.spotify.com/artist/0z5DFXmhT4ZNzWElsM7V89) | [On the Road to Nashville \(Live\)](https://open.spotify.com/album/0OemsjkWbTZFRm2XzM4fLk) | 3:38 | 2022-04-14 | 2024-10-24 |
 | [Against All Odds \(Take a Look at Me Now\) \- Live from the Serious Tour 1990; 2019 Remaster](https://open.spotify.com/track/61N8sBOfE9iM0uRhInFnKN) | [Phil Collins](https://open.spotify.com/artist/4lxfqrEsLX6N1N4OCSkILp) | [Serious Hits...Live! \(2019 Remaster\)](https://open.spotify.com/album/3YhgdRfaZrVIOORGK9SNiV) | 3:29 | 2022-04-14 | 2023-08-19 |
+| [Ain’t In LA \(Live\) \| Spotify RADAR](https://open.spotify.com/track/2ssudX8IFcoWVqRTKbaeTY) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [Ain’t In LA \(Live\) \| Spotify RADAR](https://open.spotify.com/album/13h1CO85SGwetCJI9CgL5U) | 3:02 | 2026-09-18 |  |
 | [All I Ever Asked \- Short n' Sweet Version](https://open.spotify.com/track/3tc2UcOjPQvHz1BywgtXzG) | [Rachel Chinouriri](https://open.spotify.com/artist/4wrzxtBZw20ufDstKyTnnP) | [All I Ever Asked \(Short n' Sweet Version\)](https://open.spotify.com/album/2vYWdXfPEGRfqjKXlbQIhT) | 3:43 | 2025-04-18 |  |
 | [All My Shit Is In My Car \- Live With Band](https://open.spotify.com/track/3RDwc3dmpXPwdOFSiVW7od) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [A Grey Area \(Live Sessions\)](https://open.spotify.com/album/4RTgnKqmdtb25iXJd35TBL) | 3:01 | 2024-02-09 | 2024-12-08 |
 | [All Night Long \(All Night\) \- Live](https://open.spotify.com/track/26DAOgxkcKLSKdoHvHoAcn) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl) | [Hello From Las Vegas \(Deluxe\)](https://open.spotify.com/album/7FIU253gt9jvbTeLfKQbPC) | 6:16 | 2022-04-14 | 2022-07-29 |
@@ -226,7 +227,7 @@
 | [Sweet Dreams \(Are Made Of This\) \- Live](https://open.spotify.com/track/6Ee0yGNdvKIqOcq6ua5zwz) | [Eurythmics](https://open.spotify.com/artist/0NKDgy9j66h3DLnN8qu1bB), [Annie Lennox](https://open.spotify.com/artist/5MspMQqdVbdwP6ax3GXqum), [Dave Stewart](https://open.spotify.com/artist/7gcCQIlkkfbul5Mt0jBQkg) | [Live 1983\-1989](https://open.spotify.com/album/0C2W2DUuXsn8iRHYInqs71) | 3:48 | 2022-04-14 | 2022-07-29 |
 | [Take A Chance On Me \- Live](https://open.spotify.com/track/7mHjo6TCCMmYk5zQ9jlMBX) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Live At Wembley Arena](https://open.spotify.com/album/1mc8M9eR9ZIBxqWA2CA4Wo) | 4:25 | 2022-04-14 | 2023-08-19 |
 | [Take Me to Church \- Live From Spotify London](https://open.spotify.com/track/6d0wEqM0jJTNv1asKflGGi) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions London](https://open.spotify.com/album/4IEY5pUQMlTAAMfMNCc4pb) | 4:06 | 2022-04-29 | 2024-04-19 |
-| [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 | 2022-04-14 |  |
+| [Take Me To Church \- Live From Spotify, London](https://open.spotify.com/track/61IautUH8F8UWJ0kxF9pJc) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Spotify Sessions \(Live From Spotify, London\)](https://open.spotify.com/album/7z50fkoKTjnNyChNiJQx6q) | 4:06 | 2022-04-14 | 2026-09-19 |
 | [Take My Breath Away \- Live](https://open.spotify.com/track/1WSMOF5Smc8oD3oX9d4wgh) | [Berlin](https://open.spotify.com/artist/2aS6jYh7ysTL1ZUsHneNgM) | [Live: Sacred & Profane](https://open.spotify.com/album/6L3Xuxq8UvsJw8dAOry7hU) | 6:07 | 2022-04-14 | 2023-08-19 |
 | [Take On Me \- Live](https://open.spotify.com/track/6q8XHT9eax6UnNnqFTi7W5) | [a\-ha](https://open.spotify.com/artist/2jzc5TC5TVFLXQlBNiIUzE) | [How Can I Sleep With Your Voice In My Head](https://open.spotify.com/album/0Fnnmvjt4WeV5ybMYU4acH) | 5:42 | 2022-04-14 | 2025-01-18 |
 | [Take Your Mama \- Live at Live 8, Hyde Park, London, 2nd July 2005](https://open.spotify.com/track/7igDjypA2A9moTbMPzB54A) | [Scissor Sisters](https://open.spotify.com/artist/3Y10boYzeuFCJ4Qgp53w6o) | [Live 8 \(Live, July 2005\)](https://open.spotify.com/album/15t7NAV9KXOtPo7HefS39H) | 4:51 | 2022-04-14 | 2022-07-21 |

@@ -1,12 +1,12 @@
 {
   "description": "The best in classic and contemporary Reggae. Cover: Original Koffee, for <a href=spotify:playlist:37i9dQZF1DX0rM1NjYKMJa> Carnival Sounds Live 2026.</a>",
-  "num_followers": 2118842,
+  "num_followers": 2118672,
   "original_name": "One Love",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABjKy/RnE2zutYq2B+1yrlBm9Jkx",
+  "snapshot_id": "AAAAAJ3t2oUi3sytG+d03QJYm4ZufLAf",
   "tracks": [
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1803,18 +1803,18 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Love Is My Religion",
-        "url": "https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI"
+        "name": "Jah Victory",
+        "url": "https://open.spotify.com/album/7CoH3Na9J73DUay9gLU4fk"
       },
       "artists": [
         {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+          "name": "Alpha Blondy",
+          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
         }
       ],
-      "duration_ms": 220413,
-      "name": "Beach In Hawaii",
-      "url": "https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I"
+      "duration_ms": 267120,
+      "name": "I Wish You Were Here",
+      "url": "https://open.spotify.com/track/4AVIdds2A4E4UsZcVU0Uso"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1839,18 +1839,18 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "Jah Victory",
-        "url": "https://open.spotify.com/album/7CoH3Na9J73DUay9gLU4fk"
+        "name": "Love Is My Religion",
+        "url": "https://open.spotify.com/album/1r2BhDNMDn9BszceZZ7wVI"
       },
       "artists": [
         {
-          "name": "Alpha Blondy",
-          "url": "https://open.spotify.com/artist/41ekW4MXG59xJMXR8dX1OG"
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
         }
       ],
-      "duration_ms": 267120,
-      "name": "I Wish You Were Here",
-      "url": "https://open.spotify.com/track/4AVIdds2A4E4UsZcVU0Uso"
+      "duration_ms": 220413,
+      "name": "Beach In Hawaii",
+      "url": "https://open.spotify.com/track/1ZPsdTkzhDeHjA5c2Rnt2I"
     },
     {
       "added_at": "2026-08-21 14:00:21",
@@ -1887,6 +1887,22 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
+        "name": "One Two",
+        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
+      },
+      "artists": [
+        {
+          "name": "Sister Nancy",
+          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+        }
+      ],
+      "duration_ms": 196506,
+      "name": "Bam Bam",
+      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
+    },
+    {
+      "added_at": "2026-08-21 14:00:21",
+      "album": {
         "name": "Murder She Wrote Single",
         "url": "https://open.spotify.com/album/4cEHufQKt2Mqojs9SMwUWQ"
       },
@@ -1907,34 +1923,18 @@
     {
       "added_at": "2026-08-21 14:00:21",
       "album": {
-        "name": "One Two",
-        "url": "https://open.spotify.com/album/4H9eL5O62tZRXwksrtMQfN"
+        "name": "The Israelites",
+        "url": "https://open.spotify.com/album/46BSjIgwm2NarXXFM8fEjX"
       },
       "artists": [
         {
-          "name": "Sister Nancy",
-          "url": "https://open.spotify.com/artist/21pMSs2JHWwwy2kp1QIIVB"
+          "name": "Desmond Dekker",
+          "url": "https://open.spotify.com/artist/1FcB6xMihhP9Hb6AdGVbWe"
         }
       ],
-      "duration_ms": 196506,
-      "name": "Bam Bam",
-      "url": "https://open.spotify.com/track/7cKLOenzViwzoHJWciMIrj"
-    },
-    {
-      "added_at": "2026-08-21 14:00:21",
-      "album": {
-        "name": "The Harder They Come",
-        "url": "https://open.spotify.com/album/4UhiCJRMQrjZ1AQooan47K"
-      },
-      "artists": [
-        {
-          "name": "Jimmy Cliff",
-          "url": "https://open.spotify.com/artist/3rJ3m1tM6vUgiWLjfV8sRf"
-        }
-      ],
-      "duration_ms": 158893,
-      "name": "You Can Get It If You Really Want",
-      "url": "https://open.spotify.com/track/2QKh6t4JnWeTnzQpkNXhzW"
+      "duration_ms": 155866,
+      "name": "Israelites",
+      "url": "https://open.spotify.com/track/0di7hMT6o1ogeUN1XDB9Ft"
     },
     {
       "added_at": "2026-08-21 14:00:21",

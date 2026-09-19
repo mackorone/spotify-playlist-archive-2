@@ -2,9 +2,9 @@
 
 ### [Hot Country](https://open.spotify.com/playlist/37i9dQZF1DX1lVhptIYRda)
 
-> Today's top country hits\. Cover: Ella Langley
+> Today's top country hits\. Cover: Riley Green
 
-1,034 songs - 2 day 7 hr 55 min
+1,036 songs - 2 day 8 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -240,7 +240,7 @@
 | [Don't It Sound Alright](https://open.spotify.com/track/58UvLeYJXtFkbkUP3lU6YK) | [Adam Doleac](https://open.spotify.com/artist/4NsVVzuaZGk4aya8Pyacew) | [Don't It Sound Alright](https://open.spotify.com/album/3zLyedIJvUMz9V6iLeFPlv) | 3:38 | 2022-09-30 | 2023-01-28 |
 | [Don't Need No Reason](https://open.spotify.com/track/1ATvZTCBsBo7tL6YwHUc1m) | [Lee Brice](https://open.spotify.com/artist/5Zq7R5qmi58ByYyBQTlNuk) | [Hey World](https://open.spotify.com/album/7zhKZcqIJkkeqrswshd15r) | 3:12 | 2020-11-20 | 2020-12-06 |
 | [DON'T WANNA GO HOME](https://open.spotify.com/track/3ZuIruaanYV4SRdVM9cLUM) | [Adrien Nunez](https://open.spotify.com/artist/6R2UojZrKYDr0RiP9jROAJ) | [DON'T WANNA GO HOME](https://open.spotify.com/album/1u0pRqkVrTwSnOVXBZV0dg) | 2:13 | 2025-06-27 | 2025-08-02 |
-| [Don't We](https://open.spotify.com/track/45UDzIWgqj5hgQKXLlfdp7) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF) | 3:11 | 2026-04-24 |  |
+| [Don't We](https://open.spotify.com/track/45UDzIWgqj5hgQKXLlfdp7) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [I’m The Problem](https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF) | 3:11 | 2026-04-24 | 2026-09-19 |
 | [Done](https://open.spotify.com/track/693NFnfJZt16AFDaZqlflo) | [Chris Janson](https://open.spotify.com/artist/60gmlHZmT16wiO9GiXKYK9) | [Real Friends](https://open.spotify.com/album/2rEH3VUXei9WuwsitItfcv) | 3:40 | 2020-06-29 | 2020-08-30 |
 | [Done For](https://open.spotify.com/track/3aSyshS7O34fmTpcieSCTt) | [Max McNown](https://open.spotify.com/artist/340PS4ZcZ4UCBgyrXzEjcp) | [Done For](https://open.spotify.com/album/1cGgULJ45qb2qOvPuKQcXH) | 2:33 | 2026-03-20 |  |
 | [Don’t Mess With Exes](https://open.spotify.com/track/0svx82ZXx8NlIwf7hihUNa) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ) | [Mackenzie Carpenter](https://open.spotify.com/album/30tgvcvKKBR2eoiKQZaD4i) | 3:27 | 2024-01-05 | 2024-02-24 |
@@ -530,6 +530,7 @@
 | [Last Night Lonely](https://open.spotify.com/track/3SeeaIXnrCfT88vHVCRWHl) | [Jon Pardi](https://open.spotify.com/artist/4MoAOfV4ROWofLG3a3hhBN) | [Last Night Lonely](https://open.spotify.com/album/6RVASKYeyPoQCjExSbmpzp) | 3:01 | 2022-03-04 | 2022-10-01 |
 | [Last One To Know](https://open.spotify.com/track/7Eb9i3xmiLuY5MiY6AhzzL) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Last One To Know](https://open.spotify.com/album/4zzLitRvQXzr4Eu2UVz0Nh) | 2:57 | 2025-08-15 |  |
 | [Last Rodeo](https://open.spotify.com/track/2neydrTb5GVPRHNNmW0iPP) | [Restless Road](https://open.spotify.com/artist/5XLWHp9tjK7PWm7SMcvo2q) | [Last Rodeo](https://open.spotify.com/album/3BaNqBIic3TSZtXrnooYES) | 3:15 | 2023-10-06 | 2024-03-30 |
+| [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls) | 3:16 | 2026-09-18 |  |
 | [Last Time I Say Sorry](https://open.spotify.com/track/3gAaDDoBipWZzGBMwK194e) | [Kane Brown](https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE), [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Last Time I Say Sorry](https://open.spotify.com/album/1nYnm2JXB13BYcsOnjGwGs) | 3:14 | 2020-03-28 | 2020-05-09 |
 | [Lay It On Me](https://open.spotify.com/track/0O9quVZcM3pNu9VPuhfY9m) | [Mickey Guyton](https://open.spotify.com/artist/6nfN5B7Jmi853SHa9106Hz) | [Remember Her Name](https://open.spotify.com/album/29WY4kjzCtXpWrYyywIUnD) | 3:09 | 2022-01-21 | 2022-04-09 |
 | [Learn From It](https://open.spotify.com/track/2CqfyB7PQznYxHNSmmF6lE) | [Conner Smith](https://open.spotify.com/artist/0y2FPygoi6LVc75pxCgsMk) | [Learn From It](https://open.spotify.com/album/7vFiXBUWlapCxGcKni9vh0) | 2:59 | 2021-12-17 | 2022-05-14 |
@@ -871,6 +872,7 @@
 | [That Ain't Me No More](https://open.spotify.com/track/4wrKruoaRzt3TtdzJ9uR0F) | [Matt Stell](https://open.spotify.com/artist/7EekKnlf2HwNaLLpL9Cpgy) | [That Ain't Me No More](https://open.spotify.com/album/6U2ProCSsR0GzNZLK9Jshc) | 3:11 | 2021-02-20 | 2021-07-04 |
 | [That Old Truck](https://open.spotify.com/track/76jICtPC51cXmetYVnOqHu) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [That Old Truck](https://open.spotify.com/album/2IhkYeQlcDrxdLzB2sUBDt) | 3:32 | 2019-05-26\* | 2019-06-15 |
 | [That's How You Got It](https://open.spotify.com/track/0QFvybNsiwupz72jpQWxKn) | [John Gurney](https://open.spotify.com/artist/1cn7hpmFEpidzWJySGCTJF) | [That's How You Got It](https://open.spotify.com/album/7kpHgUKH8pcFL9ThzANrNE) | 3:04 | 2019-05-26\* | 2019-08-13 |
+| [That's Just Me](https://open.spotify.com/track/6ctQA1MhB2epFVXXJYocwu) | [Riley Green](https://open.spotify.com/artist/2QMsj4XJ7ne2hojxt6v5eb) | [That's Just Me](https://open.spotify.com/album/65MjEtYWhPJ320kJE1NrIc) | 3:50 | 2026-09-18 |  |
 | [That's What Tequila Does](https://open.spotify.com/track/6kCFt2ATuMIE5H9zVEJXei) | [Jason Aldean](https://open.spotify.com/artist/3FfvYsEGaIb52QPXhg4DcH) | [MACON](https://open.spotify.com/album/2cydSJJLXu2TtP9VoOnGn4) | 3:09 | 2022-08-05 | 2023-04-01 |
 | [The Bones](https://open.spotify.com/track/3npzogdOEiVsieXmmhBepL) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL](https://open.spotify.com/album/5QakU0QMcoxjjyCS1YW4G5) | 3:17 | 2019-12-08 | 2020-03-14 |
 | [The Bones](https://open.spotify.com/track/7g9YrTuImvIkpS9uveKdCO) | [Maren Morris](https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI) | [GIRL...The Bones](https://open.spotify.com/album/3wRyo249Hi01jeaxnkJ49m) | 3:17 | 2019-05-26\* | 2019-12-11 |
@@ -980,7 +982,7 @@
 | [What’s Your Country Song](https://open.spotify.com/track/7Cw3yXDA8Uui37SI5FFaA7) | [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [What's Your Country Song](https://open.spotify.com/album/0WbfaztYJGyHiW3W9qe5Xw) | 2:50 | 2020-11-11 | 2021-04-10 |
 | [Where It Ends](https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:59 | 2023-12-01 | 2024-06-08 |
 | [Where the Wild Things Are](https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:59 | 2023-11-17 | 2024-05-25 |
-| [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 | 2026-04-17 |  |
+| [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 | 2026-04-17 | 2026-09-19 |
 | [Whiskey And Rain](https://open.spotify.com/track/1tf4Bfk8JIKryLpWYRvyiI) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Whiskey And Rain](https://open.spotify.com/album/08lBvRZr4DpqiOYe4r2JAn) | 3:26 | 2021-08-28 | 2022-01-22 |
 | [Whiskey Blues](https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Whiskey Blues](https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y) | 2:13 | 2024-05-31 | 2024-10-05 |
 | [Whiskey Glasses](https://open.spotify.com/track/6foY66mWZN0pSRjZ408c00) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM) | [If I Know Me](https://open.spotify.com/album/1IR2nlwX6YVTXXeu2qzoWO) | 3:54 | 2019-05-26\* | 2019-06-22 |

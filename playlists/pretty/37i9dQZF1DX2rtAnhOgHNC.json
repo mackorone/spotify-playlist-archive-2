@@ -1,12 +1,12 @@
 {
   "description": "Los grandes \u00e9xitos de la d\u00e9cada pasada, en M\u00e9xico. Carla Morrison en portada.",
-  "num_followers": 257866,
+  "num_followers": 257882,
   "original_name": "Los 2010 M\u00e9xico",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF4NS3/OJVWOkKM9MyaKWYXhXCXZ",
+  "snapshot_id": "AAAAAOBt2A7M2vC+agm8bg4KUp/5Ch4Z",
   "tracks": [
     {
       "added_at": "2021-06-16 14:03:20",
@@ -479,6 +479,22 @@
     {
       "added_at": "2021-06-16 14:03:20",
       "album": {
+        "name": "De Pel\u00edcula",
+        "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
+      },
+      "artists": [
+        {
+          "name": "Gloria Trevi",
+          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
+        }
+      ],
+      "duration_ms": 224333,
+      "name": "No Quer\u00edas Lastimarme",
+      "url": "https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV"
+    },
+    {
+      "added_at": "2021-06-16 14:03:20",
+      "album": {
         "name": "Confidencias",
         "url": "https://open.spotify.com/album/3g2uS0IsIdaKqRiBSFrbBk"
       },
@@ -495,22 +511,6 @@
       "duration_ms": 291106,
       "name": "Hoy Tengo Ganas De Ti",
       "url": "https://open.spotify.com/track/0qO4GfXADY9QfgcgtrasT9"
-    },
-    {
-      "added_at": "2021-06-16 14:03:20",
-      "album": {
-        "name": "De Pel\u00edcula",
-        "url": "https://open.spotify.com/album/18p26t1RNPSqnIPPBHAi6w"
-      },
-      "artists": [
-        {
-          "name": "Gloria Trevi",
-          "url": "https://open.spotify.com/artist/1Db5GsIoVWYktPoD2nnPZZ"
-        }
-      ],
-      "duration_ms": 224333,
-      "name": "No Quer\u00edas Lastimarme",
-      "url": "https://open.spotify.com/track/2wDiktMejILuXe3rSy2DHV"
     },
     {
       "added_at": "2021-06-16 14:03:20",

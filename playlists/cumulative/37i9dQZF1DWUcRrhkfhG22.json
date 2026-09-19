@@ -1451,6 +1451,28 @@
     },
     {
       "album": {
+        "name": "Midas Touch",
+        "url": "https://open.spotify.com/album/59SurwzOxCIJhMzDVcCGvJ"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Lawson",
+          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
+        },
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/038D4db0mzjZpmiR9VnKLa"
+    },
+    {
+      "album": {
         "name": "All the Greatest Hits",
         "url": "https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ"
       },

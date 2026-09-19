@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Workout to K-Pop? Count me in! (Cover: BIGBANG) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
+  "description": "Workout to K-Pop? Count me in! (Cover: ALL(H)OURS) (\uc2e0\ub098\ub294 \ucf00\uc774\ud31d \ub304\uc2a4 \uc74c\uc545\uacfc \ud568\uaed8 \uc6b4\ub3d9\uc744 \uc990\uaca8\ubcf4\uc138\uc694!)",
   "name": "WOR K  OUT",
   "tracks": [
     {
@@ -2732,6 +2732,24 @@
       "duration_ms": 169000,
       "name": "DAISY (H//PE P ver.) (KR ver.)",
       "url": "https://open.spotify.com/track/5U6Dnu5pH4rpGcrVKNATVd"
+    },
+    {
+      "album": {
+        "name": "UNBOUND",
+        "url": "https://open.spotify.com/album/40riOYM5nWwz5NEKeVzSMs"
+      },
+      "artists": [
+        {
+          "name": "ALL(H)OURS",
+          "url": "https://open.spotify.com/artist/2m5lRlEucobWPA1V6xqxWO"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190906,
+      "name": "DANG DANG",
+      "url": "https://open.spotify.com/track/0ZkCSH8wiHEkY7S4luv8CM"
     },
     {
       "album": {
@@ -12572,7 +12590,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 173640,
       "name": "Virtual Angel",
       "url": "https://open.spotify.com/track/1eCT7mlUiD0FDaYpFPiE4z"

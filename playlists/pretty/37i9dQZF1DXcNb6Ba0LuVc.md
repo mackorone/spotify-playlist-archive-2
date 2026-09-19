@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 
 > Uplifting instrumental beats to brighten your day.
 
-[Spotify](https://open.spotify.com/user/spotify) - 338,656 likes - 110 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 338,728 likes - 110 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcNb6Ba0LuVc.md) - [plain]
 | 109 | [Nicosia](https://open.spotify.com/track/0s5pKkA3WQsR2LWjO9ZXab) | [Showyou](https://open.spotify.com/artist/7KbVIv3ToW5rD8qJNnypKO) | [Nicosia](https://open.spotify.com/album/7LBJjgzR9DS2zwzOzVjAJD) | 1:54 |
 | 110 | [Like Water](https://open.spotify.com/track/6H1OU7JVRSNaZXrVU6JQnt) | [Herr Kaschke](https://open.spotify.com/artist/2dGqSVZSyxJpLWtWRkm7Ba) | [Like Water](https://open.spotify.com/album/3vruSZimL0mCbGfQcGaAfz) | 2:21 |
 
-Snapshot ID: `AAAAAFME6a3L6c19KSpSNsNBuJv0HhkQ`
+Snapshot ID: `AAAAABUe9kWrR7bzQa1wz2oHRfee29i7`

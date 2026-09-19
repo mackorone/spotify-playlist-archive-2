@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dominik Hartz
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,984 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,061 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 74 | [Macht über mich](https://open.spotify.com/track/0PlSX6FQzGlFBWOrvsAqmi) | [herbst](https://open.spotify.com/artist/4LK69bEJ58eoQBb6Vyzz3T) | [Macht über mich](https://open.spotify.com/album/1IopN0lretjngDlHxslT4R) | 4:22 |
 | 75 | [die schönsten dinge](https://open.spotify.com/track/1SpfQqkvbKFMvxeKVJmn1E) | [katlix](https://open.spotify.com/artist/2w9SZxjM9DUKiFsMhAk5Lr) | [um's nicht zu teilen](https://open.spotify.com/album/3UY7trHPPcP5KGlNrkmqu0) | 2:36 |
 
-Snapshot ID: `AAAAAHDl3yUcjR7l1oTvugECi/creddy`
+Snapshot ID: `AAAAABi0tGJMFQ5BHhiylQOH5J6P/Sfa`

@@ -13060,7 +13060,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 204840,
       "name": "Eu n\u00e3o vou recuar",
       "url": "https://open.spotify.com/track/76UgJ2XRcLyrdpVqEdjF8Y"
@@ -39458,6 +39458,24 @@
       "duration_ms": 265769,
       "name": "Summer Drift",
       "url": "https://open.spotify.com/track/2RU3H8DMErDTsXemUa5iey"
+    },
+    {
+      "album": {
+        "name": "Summer Nights",
+        "url": "https://open.spotify.com/album/6t2hGIJgcrJzhHAgOfdf9m"
+      },
+      "artists": [
+        {
+          "name": "50 Ways",
+          "url": "https://open.spotify.com/artist/6lIRNVXjOm2XC5TGXMcZV6"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205121,
+      "name": "Summer Nights",
+      "url": "https://open.spotify.com/track/7FBdQeCOVJi465fK6Y2uNe"
     },
     {
       "album": {

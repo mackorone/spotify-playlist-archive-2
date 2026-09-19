@@ -1150,7 +1150,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 274145,
       "name": "Manifesto (feat. Lenine & Emicida)",
       "url": "https://open.spotify.com/track/6wJqQmyHqINC6aRm6iYsku"
@@ -1477,6 +1477,32 @@
     },
     {
       "album": {
+        "name": "O Que Separa Os Homens dos Meninos, Vol. 2",
+        "url": "https://open.spotify.com/album/0uSQmtWJKYpucN9ZZNp8CK"
+      },
+      "artists": [
+        {
+          "name": "Sant",
+          "url": "https://open.spotify.com/artist/7IlBcKrGUBJ0NKdnbDde89"
+        },
+        {
+          "name": "Emicida",
+          "url": "https://open.spotify.com/artist/2d9LRvQJnAXRijqIJDDs2K"
+        },
+        {
+          "name": "LP Beatzz",
+          "url": "https://open.spotify.com/artist/3WFKRRXUORuPPdH11Spele"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208000,
+      "name": "O QUE SEPARA OS HOMENS DOS MENINOS 2",
+      "url": "https://open.spotify.com/track/3EqNnn97k4qBZY3KrVzMw4"
+    },
+    {
+      "album": {
         "name": "Rock In Rio (Ao Vivo)",
         "url": "https://open.spotify.com/album/4ZLLVCn6RnlENQ0nhAS5sS"
       },
@@ -1496,7 +1522,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 246320,
       "name": "Oi Compadre - Ao Vivo",
       "url": "https://open.spotify.com/track/21qhVrVh2DHXxYZv0CtDqR"
@@ -1934,7 +1960,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 170586,
       "name": "Rotina",
       "url": "https://open.spotify.com/track/7zHL93JQ1MjyRUvJJwv1CD"

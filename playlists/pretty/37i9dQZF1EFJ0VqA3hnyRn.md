@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/43ZED10qAFnfZZIy8nTgHy">Theron Thomas</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 727 likes - 287 songs - 16 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 728 likes - 287 songs - 16 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 40 | [Cuz I Love You](https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ) | [Lizzo](https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS) | [Cuz I Love You](https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL) | 2:59 |
 | 41 | [Can't Stop Dancin'](https://open.spotify.com/track/5NetSTs4dgiR6GLrZOQcwJ) | [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Can't Stop Dancin'](https://open.spotify.com/album/0fwnH770rSy9L2F172lTMu) | 3:18 |
 | 42 | [I Bet](https://open.spotify.com/track/20lNo44eUUCnyNNInzwkv9) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Jackie \(Deluxe\)](https://open.spotify.com/album/1vxEYHEzZI2l1AyZOtVHKJ) | 4:47 |
-| 43 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
-| 44 | [Ain't In LA](https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:04 |
+| 43 | [Ain't In LA](https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:04 |
+| 44 | [Hear Me Tonight](https://open.spotify.com/track/0v8OKUrqZGoEbgEUXScRSQ) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [THRDL!FE](https://open.spotify.com/artist/04O00MEN0lHEKWTwRjb1nS) | [Hear Me Tonight](https://open.spotify.com/album/2kJHrTUZ21XbtKO9fEFzhG) | 3:08 |
 | 45 | [Jennie \(feat\. R\. City, Bori\)](https://open.spotify.com/track/7uM7YZwNZqdDMG0NfGhmux) | [felix jaehn](https://open.spotify.com/artist/4bL2B6hmLlMWnUEZnorEtG), [Bori](https://open.spotify.com/artist/712InoSIIy6pB9rCV2R5id), [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX) | [I](https://open.spotify.com/album/2S56F6bIk01HboGbJJJ1IQ) | 3:04 |
 | 46 | [I Won \(feat\. Kanye West\)](https://open.spotify.com/track/2T4JE91t7Js1DJ4rSHltcQ) | [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x) | [Honest](https://open.spotify.com/album/5rbqupVSYwvEmXBUnFtUf7) | 3:59 |
 | 47 | [Pretty Girls Walk](https://open.spotify.com/track/646pXmilpKaPZIjgHzwPhR) | [Big Boss Vette](https://open.spotify.com/artist/6fKiutMtRIcxi4zEau0BuI) | [Pretty Girls Walk](https://open.spotify.com/album/4xUnFaLOk5EFsW78uNMnDK) | 2:20 |
@@ -197,8 +197,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 187 | [Your Sister](https://open.spotify.com/track/4VYEAooWTvX0wNhOn2M0TF) | [Sean Kingston](https://open.spotify.com/artist/6S0dmVVn4udvppDhZIWxCr) | [Sean Kingston](https://open.spotify.com/album/1y6Vw5HI0HmLOY2EtzLiPh) | 3:30 |
 | 188 | [\#1](https://open.spotify.com/track/4TTHdo78RGbLo8HeTDtMQ8) | [Kelly Rowland](https://open.spotify.com/artist/3AuMNF8rQAKOzjYppFNAoB) | [Talk A Good Game \(Deluxe Version\)](https://open.spotify.com/album/6BnbjiGCAzSMMiqACIIkHO) | 4:31 |
 | 189 | [What Happens Here](https://open.spotify.com/track/17tuHcxhRbZADp4kU7Lrfs) | [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [Poster Girl](https://open.spotify.com/album/79y7DSLFQH3907u4ysOMGr) | 3:19 |
-| 190 | [Make U A Believer](https://open.spotify.com/track/3d9qL4raQJ9NlV7aCUXhLb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:06 |
-| 191 | [shades on](https://open.spotify.com/track/3hHjRr3nokxcYCYyshQ3ic) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [early life crisis](https://open.spotify.com/album/161Te6W2Bylj3YmpI4Svit) | 2:09 |
+| 190 | [shades on](https://open.spotify.com/track/3hHjRr3nokxcYCYyshQ3ic) | [Nettspend](https://open.spotify.com/artist/2jl4qd6UbzeCmImT4nWbtA) | [early life crisis](https://open.spotify.com/album/161Te6W2Bylj3YmpI4Svit) | 2:09 |
+| 191 | [Make U A Believer](https://open.spotify.com/track/3d9qL4raQJ9NlV7aCUXhLb) | [USHER](https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj) | [Hard II Love](https://open.spotify.com/album/4HAuPn3A4uu9n7RYNk1dOz) | 4:06 |
 | 192 | [Live by the Gun \(feat\. Akon\)](https://open.spotify.com/track/0CxCpL8uCAwThYevFxv6bb) | [R\. City](https://open.spotify.com/artist/4TH4BHy0LdBi3dpBW4P2UX), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [What Dreams Are Made Of](https://open.spotify.com/album/4AUTMNSP56xicSznzKgzjB) | 3:42 |
 | 193 | [Give It to Me](https://open.spotify.com/track/6Im7Bn2FHuuBqfWgNkqgWa) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Future History \(Deluxe Edition\)](https://open.spotify.com/album/31tCg5RXhY5jpagfCPcQa2) | 3:24 |
 | 194 | [Keep On Lookin'](https://open.spotify.com/track/6J254v0NfP9dw2Uzg7U0Ow) | [Ciara](https://open.spotify.com/artist/2NdeV5rLm47xAvogXrYhJX) | [Ciara](https://open.spotify.com/album/4iGuSUpSeXQKckIuQGwPg7) | 3:17 |
@@ -296,4 +296,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJ0VqA3hnyRn.md) - [plain]
 | 286 | [Trick or Treat](https://open.spotify.com/track/1OeEONCaGm6b2ZtdgQOopI) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 1:52 |
 | 287 | [Ghosts](https://open.spotify.com/track/5FB0kBWrG11JP9IbaK502G) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Happy Halloween](https://open.spotify.com/album/5A0mmKuVOJrThbe3hiqu8J) | 2:25 |
 
-Snapshot ID: `AcclCAAAAAB7+dmh+0H7UHELlrrScF8d`
+Snapshot ID: `AccqqAAAAAAyWDJ/LB/eL4dWcixphK4k`

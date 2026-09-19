@@ -2117,6 +2117,32 @@
     },
     {
       "album": {
+        "name": "The Journey",
+        "url": "https://open.spotify.com/album/4vQ7dGmeD1OertypxHGkJE"
+      },
+      "artists": [
+        {
+          "name": "Max Richter",
+          "url": "https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW"
+        },
+        {
+          "name": "Tenebrae",
+          "url": "https://open.spotify.com/artist/0vUnn6Eje2O5yxEj35touD"
+        },
+        {
+          "name": "Nigel Short",
+          "url": "https://open.spotify.com/artist/4gs13ipYIJhCcqDMOEx9eN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 459333,
+      "name": "On the Nature of Daylight",
+      "url": "https://open.spotify.com/track/1WqAYX2eBcfKQ4pH4ZY4cQ"
+    },
+    {
+      "album": {
         "name": "E\u0161envalds: Northern Lights, Stars & Other Choral Works",
         "url": "https://open.spotify.com/album/1Dz6X8oht713S1IWFTv4Af"
       },

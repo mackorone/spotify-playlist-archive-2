@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 
 > Dagood YL in cover della playlist con il futuro del rap italiano 📈
 
-[Spotify](https://open.spotify.com/user/spotify) - 228,572 likes - 60 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 228,594 likes - 60 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUQru3jd69v5.md) - [plain]
 | 59 | [Fa La Bella Addormentata](https://open.spotify.com/track/7rdMbDcUoSYwPlggCVYaLE) | [Soubra](https://open.spotify.com/artist/7staNGw61cPotqe4ZJhSmf) | [O'Croco](https://open.spotify.com/album/4E24HevaJEYa2FOx7KdYuh) | 1:43 |
 | 60 | [TutteLeVolte](https://open.spotify.com/track/2tbivxZFgeoq1ZAGmcITfX) | [Aira](https://open.spotify.com/artist/2qL2WexCXgAAThz83mOXy6) | [Crash Out](https://open.spotify.com/album/2OSYIvhAF22cJtRFSLEr6g) | 2:49 |
 
-Snapshot ID: `AAAAAAV0sH9XIkhG/OB/vN2VDcQt7V6Y`
+Snapshot ID: `AAAAAO+NWX25chKRrkRtp+OMpn+CsLkd`

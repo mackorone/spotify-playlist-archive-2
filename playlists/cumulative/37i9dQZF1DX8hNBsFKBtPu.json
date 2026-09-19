@@ -8705,6 +8705,28 @@
     },
     {
       "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173547,
+      "name": "Ik Giv Slip",
+      "url": "https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt"
+    },
+    {
+      "album": {
         "name": "Ik T\u00e6nk Twice",
         "url": "https://open.spotify.com/album/5nZTkrieTKTclZw5IhpZw5"
       },
@@ -16930,24 +16952,6 @@
       "duration_ms": 156685,
       "name": "toxic till the end",
       "url": "https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ"
-    },
-    {
-      "album": {
-        "name": "Verden Er Din",
-        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 6",
-      "url": "https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt"
     },
     {
       "album": {

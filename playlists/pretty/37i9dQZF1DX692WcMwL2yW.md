@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 
 > Stay focused with electronic beats and dark ambient movements.
 
-[Spotify](https://open.spotify.com/user/spotify) - 907,180 likes - 110 songs - 4 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 907,178 likes - 110 songs - 4 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX692WcMwL2yW.md) - [plain]
 | 109 | [feels like this](https://open.spotify.com/track/09QZtFm1d6TCa8JADGsNak) | [Morning life](https://open.spotify.com/artist/594JjvUBbtG5rOcSd75EYj) | [feels like this](https://open.spotify.com/album/5LbUygUio9ShKq0Rmt7k1d) | 2:35 |
 | 110 | [Quaf](https://open.spotify.com/track/7yhKub0dXR5tV3dwR3l0Zp) | [Bahtar](https://open.spotify.com/artist/4n53TzoRFhYOjUHMFHBm7d) | [Quaf](https://open.spotify.com/album/1b6eYPv7uTDvTbdOZImYVp) | 2:35 |
 
-Snapshot ID: `AAAAAHHOXSLGq17T2bHhTTD3LCN7nsGG`
+Snapshot ID: `AAAAALSLNrk6g/VEwSHDUBCSJD4yzn2T`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 
 > Le meilleur du rap africain francophone\. Photo : Lil Jay Bingerack
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,014 likes - 49 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,079 likes - 49 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3oRZ26ZzwxF.md) - [plain]
 | 48 | [Médaillon](https://open.spotify.com/track/7DTJxVjbo5Huz9nsStOiNt) | [FLOCKA ICE](https://open.spotify.com/artist/4GFpFNFM22K6DpBnLsJvrw) | [Médaillon](https://open.spotify.com/album/49nNj8EJpnFLbpp5BJXEiM) | 2:22 |
 | 49 | [FAKE](https://open.spotify.com/track/2zF8ceLvvvP1EhI8ggypHj) | [PurppX](https://open.spotify.com/artist/5fCtEFSypD573BbrNOF6XS), [OG Mahilet](https://open.spotify.com/artist/3WbcgjqtToJiTxZ3IlibGT) | [FAKE](https://open.spotify.com/album/5cao5tSStVDFXZA7MqW3Ga) | 3:16 |
 
-Snapshot ID: `AAAAAGnR0jvxPIJUJOE1vfrxsg5l89hJ`
+Snapshot ID: `AAAAAPOCbEUfeArS5LaZKn1OQOgKRtY0`

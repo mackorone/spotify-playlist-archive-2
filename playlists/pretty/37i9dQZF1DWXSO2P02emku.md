@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 
 > Este 13 de Septiembre es la gran final de México Canta 2026\. Conoce a los artistas que participaron\. 📸 Banda El Recodo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 92,012 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 92,025 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXSO2P02emku.md) - [plain]
 | 49 | [Si Tú No Vuelves](https://open.spotify.com/track/0neogNQcR4Zq7dbsPqaSYH) | [Majo Aguilar](https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP) | [Mariachi Mío \(Deluxe\)](https://open.spotify.com/album/4p1A2yuhbQo7M3S18ltyXh) | 3:27 |
 | 50 | [Acábame De Matar](https://open.spotify.com/track/6b70qcaryJFejODMi3VRl1) | [Banda El Recodo](https://open.spotify.com/artist/6AcOTCYBMvjKYy4zms0kaC) | [Te Presumo](https://open.spotify.com/album/6rIeG5N7Dr1KxvmCMigPcK) | 3:08 |
 
-Snapshot ID: `AAAAAMEiu5K7DmYKJ7HsaDqvrEc6A/1s`
+Snapshot ID: `AAAAAApLE8MNnnoB9z0xi4IsLL3o9B1u`

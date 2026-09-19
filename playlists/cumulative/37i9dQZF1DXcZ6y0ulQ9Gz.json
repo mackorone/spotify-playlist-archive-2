@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-29",
-  "description": "The best indie of then and the best of now... new Dominic Fike era is upon us.",
+  "description": "The best indie of then and the best of now w/ This is Lorelei",
   "name": "Indie Favourites",
   "tracks": [
     {
@@ -942,7 +942,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 280186,
       "name": "Andromeda",
       "url": "https://open.spotify.com/track/51EMSRpNm9Rg5rGViVCczv"
@@ -2752,7 +2752,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 242341,
       "name": "Charcoal Baby",
       "url": "https://open.spotify.com/track/3bBmpVl9rQKJsFFGLFilIS"
@@ -4004,7 +4004,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 183654,
       "name": "Do That Again",
       "url": "https://open.spotify.com/track/4Dopg5XLw6JHlaqHHHYe0l"
@@ -4062,7 +4062,7 @@
       ],
       "date_added": "2025-12-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 236140,
       "name": "do you think you could love me?",
       "url": "https://open.spotify.com/track/4ZnouIAIei34XVzeq9T2xv"
@@ -4999,6 +4999,24 @@
     },
     {
       "album": {
+        "name": "Fire From The Hip",
+        "url": "https://open.spotify.com/album/43mE12XfH3PQ7iX3mPj2Ri"
+      },
+      "artists": [
+        {
+          "name": "Finn Wolfhard",
+          "url": "https://open.spotify.com/artist/2nmWcAqQtfgNp8Kpixa2CG"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204052,
+      "name": "Follow",
+      "url": "https://open.spotify.com/track/6BkGs2ZNaqaEbrJNlQAt2x"
+    },
+    {
+      "album": {
         "name": "This Old Dog",
         "url": "https://open.spotify.com/album/4NNq2vwTapv4fSJcrZbPH7"
       },
@@ -5100,7 +5118,7 @@
       ],
       "date_added": "2022-11-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 234857,
       "name": "Free",
       "url": "https://open.spotify.com/track/7H7SHw3YWXhb4zYqyoPNa1"
@@ -5768,6 +5786,24 @@
       "duration_ms": 153871,
       "name": "Habit",
       "url": "https://open.spotify.com/track/4BsLwvaJOTOHDNg7xMpvrL"
+    },
+    {
+      "album": {
+        "name": "half smile",
+        "url": "https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A"
+      },
+      "artists": [
+        {
+          "name": "Hockitay",
+          "url": "https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 228240,
+      "name": "half smile",
+      "url": "https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk"
     },
     {
       "album": {
@@ -6469,6 +6505,24 @@
     },
     {
       "album": {
+        "name": "Lost Weekend",
+        "url": "https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217205,
+      "name": "I Can\u2019t Wait",
+      "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
+    },
+    {
+      "album": {
         "name": "I Don't Live Here Anymore (feat. Lucius)",
         "url": "https://open.spotify.com/album/3TlKOq7pgN2XIAM3J2HSyD"
       },
@@ -6676,7 +6730,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 234383,
       "name": "I Lied (with August Ponthier)",
       "url": "https://open.spotify.com/track/7xQg5QTx8eiQnsxEnfynPh"
@@ -7204,7 +7258,7 @@
       ],
       "date_added": "2023-02-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 261881,
       "name": "It Runs Through Me (feat. De La Soul)",
       "url": "https://open.spotify.com/track/0vMctOnb4YNIvbqgkbWNDy"
@@ -8389,6 +8443,28 @@
     },
     {
       "album": {
+        "name": "Oh yeah?",
+        "url": "https://open.spotify.com/album/289GZwycrFReuNB706obBx"
+      },
+      "artists": [
+        {
+          "name": "Steve Lacy",
+          "url": "https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp"
+        },
+        {
+          "name": "Cecile Believe",
+          "url": "https://open.spotify.com/artist/0nZHjqvdLoBy50ZzUH5FNU"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236619,
+      "name": "lovesexdrugbomb (feat. Cecile Believe)",
+      "url": "https://open.spotify.com/track/4cPmWicSiYsqRQAzBey7h3"
+    },
+    {
+      "album": {
         "name": "Low",
         "url": "https://open.spotify.com/album/5ipoWTaBfknOP3YgEXW4oY"
       },
@@ -8544,7 +8620,7 @@
       ],
       "date_added": "2024-01-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 155721,
       "name": "Mama's Boy",
       "url": "https://open.spotify.com/track/65leXqfkdViSssEVN23uYL"
@@ -9032,6 +9108,24 @@
       "duration_ms": 221386,
       "name": "Momentary Bliss (feat. slowthai and Slaves)",
       "url": "https://open.spotify.com/track/5zZWKugaE2ZmnZN77HVfUH"
+    },
+    {
+      "album": {
+        "name": "Mood Ring",
+        "url": "https://open.spotify.com/album/32egrBNmQPGPRSYWdkn9Xf"
+      },
+      "artists": [
+        {
+          "name": "Sophia Bel",
+          "url": "https://open.spotify.com/artist/6WJnpSVDynCWGrhJcSQIm6"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202616,
+      "name": "Mood Ring",
+      "url": "https://open.spotify.com/track/7rDj3Mst01U7U6GmfHImZT"
     },
     {
       "album": {
@@ -9941,6 +10035,24 @@
     },
     {
       "album": {
+        "name": "Oh No Now My",
+        "url": "https://open.spotify.com/album/6Qex2dWIX0M5LPHLTJq4Sr"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188453,
+      "name": "Oh No Now My",
+      "url": "https://open.spotify.com/track/2MbLMnGeW92YVBbsyHM5WR"
+    },
+    {
+      "album": {
         "name": "OKAY COOL",
         "url": "https://open.spotify.com/album/4d39q2x5RC5uEIc1dLP9CT"
       },
@@ -10024,7 +10136,7 @@
       ],
       "date_added": "2022-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 284906,
       "name": "Once Twice Melody",
       "url": "https://open.spotify.com/track/057rZ21MDp8Ld0TgQndNcv"
@@ -10086,6 +10198,24 @@
       "duration_ms": 207774,
       "name": "Only in Your Eyes",
       "url": "https://open.spotify.com/track/2Ve8jt3csQx5S2q4QsMoyJ"
+    },
+    {
+      "album": {
+        "name": "Remember The Humans",
+        "url": "https://open.spotify.com/album/6skQ2cM5dafp4UdvvN0Xf9"
+      },
+      "artists": [
+        {
+          "name": "Broken Social Scene",
+          "url": "https://open.spotify.com/artist/7lOJ7WXyopaxri0dbOiZkd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207066,
+      "name": "Only The Good I Keep",
+      "url": "https://open.spotify.com/track/4zbYQmI3s9tMTCdOVIZgOD"
     },
     {
       "album": {
@@ -10198,6 +10328,24 @@
       "duration_ms": 217816,
       "name": "Orpheus",
       "url": "https://open.spotify.com/track/5jhplymMubt3XgOkEKfAJF"
+    },
+    {
+      "album": {
+        "name": "Don't Be Funny Without Me",
+        "url": "https://open.spotify.com/album/6sB6Bm2KkI8QjW0y7934ry"
+      },
+      "artists": [
+        {
+          "name": "Le Ren",
+          "url": "https://open.spotify.com/artist/338ANSuWEHPphBye1qDGvF"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170826,
+      "name": "Otherwise, I'm Fine",
+      "url": "https://open.spotify.com/track/2OuNMpGtZ8xlFRIgykw9qh"
     },
     {
       "album": {
@@ -11382,7 +11530,7 @@
       ],
       "date_added": "2026-08-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 161007,
       "name": "Ripple",
       "url": "https://open.spotify.com/track/5bwMHh1cYrDB9PXa5mKjEb"
@@ -14737,6 +14885,24 @@
     },
     {
       "album": {
+        "name": "Romanticize The Dive",
+        "url": "https://open.spotify.com/album/75oefoG5Cn2MbBc32uNPnu"
+      },
+      "artists": [
+        {
+          "name": "Metric",
+          "url": "https://open.spotify.com/artist/1rCIEwPp5OnXW0ornlSsRl"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223106,
+      "name": "Tremolo",
+      "url": "https://open.spotify.com/track/2fLrRiiTmJM4Gdoq7mdXV9"
+    },
+    {
+      "album": {
         "name": "Tell Me I'm Pretty",
         "url": "https://open.spotify.com/album/0nW0w37lrQ87k7PLZvC4qJ"
       },
@@ -15538,6 +15704,24 @@
       "duration_ms": 220500,
       "name": "When You Know Someone",
       "url": "https://open.spotify.com/track/2KA5X1bvsobQBETOQ4YClI"
+    },
+    {
+      "album": {
+        "name": "POWER HOUSE",
+        "url": "https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h"
+      },
+      "artists": [
+        {
+          "name": "Magi Merlin",
+          "url": "https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192095,
+      "name": "WHIP",
+      "url": "https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72"
     },
     {
       "album": {

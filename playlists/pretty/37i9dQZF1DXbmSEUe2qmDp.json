@@ -1,12 +1,12 @@
 {
   "description": "Conhe\u00e7a as novas vozes da m\u00fasica sertaneja! Foto: Heitor & Henrique, Israel & Rodolffo",
-  "num_followers": 482877,
+  "num_followers": 482880,
   "original_name": "Gera\u00e7\u00e3o Sertaneja",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKOf0KzO/8/B90vC+uAzlzloQDsl",
+  "snapshot_id": "AAAAAN8OpjmzA1CXfLd3Dx48TUNF59pE",
   "tracks": [
     {
       "added_at": "2026-09-04 03:00:51",
@@ -259,26 +259,6 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Exclusividade 2, Vol. 3 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3xa4sPEvuLjqvaMyvs2x6U"
-      },
-      "artists": [
-        {
-          "name": "Thallys e Thiago",
-          "url": "https://open.spotify.com/artist/0UeKlFw6vkDEQ9pSqUaoPG"
-        },
-        {
-          "name": "Marrone",
-          "url": "https://open.spotify.com/artist/39OnL72TR17RZE6Gi8xtbz"
-        }
-      ],
-      "duration_ms": 235783,
-      "name": "Faz um Ano - Ao Vivo",
-      "url": "https://open.spotify.com/track/6S0irUulkJl6xmiAYSvQ5S"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
         "name": "PIX DE 1 REAL",
         "url": "https://open.spotify.com/album/6Z5iturICQytbtsloXqaOa"
       },
@@ -295,6 +275,26 @@
       "duration_ms": 152830,
       "name": "PIX DE 1 REAL",
       "url": "https://open.spotify.com/track/5WiNzAfWe9mhgFoqCZFIQi"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
+        "name": "Exclusividade 2, Vol. 3 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3xa4sPEvuLjqvaMyvs2x6U"
+      },
+      "artists": [
+        {
+          "name": "Thallys e Thiago",
+          "url": "https://open.spotify.com/artist/0UeKlFw6vkDEQ9pSqUaoPG"
+        },
+        {
+          "name": "Marrone",
+          "url": "https://open.spotify.com/artist/39OnL72TR17RZE6Gi8xtbz"
+        }
+      ],
+      "duration_ms": 235783,
+      "name": "Faz um Ano - Ao Vivo",
+      "url": "https://open.spotify.com/track/6S0irUulkJl6xmiAYSvQ5S"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -371,26 +371,6 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Lugar Que Interessa",
-        "url": "https://open.spotify.com/album/3wzn8k6wsC6FzqDy03CYKB"
-      },
-      "artists": [
-        {
-          "name": "S\u00f3crates e Matheus",
-          "url": "https://open.spotify.com/artist/457x1clamoAk5eyiAwmd90"
-        },
-        {
-          "name": "Loubet",
-          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
-        }
-      ],
-      "duration_ms": 164337,
-      "name": "Lugar Que Interessa",
-      "url": "https://open.spotify.com/track/7A9CAVUuNBsD0I5JaFX4hQ"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
         "name": "Ayala & Julio Cesar (Ao Vivo Em Goi\u00e2nia)",
         "url": "https://open.spotify.com/album/3gFNUpamog1CINhbBhcygz"
       },
@@ -411,18 +391,22 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Donas do Bar em Goi\u00e2nia - Parte 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fgxf3hh1OXOjCDjPi5Dbk"
+        "name": "Lugar Que Interessa",
+        "url": "https://open.spotify.com/album/3wzn8k6wsC6FzqDy03CYKB"
       },
       "artists": [
         {
-          "name": "Donas do Bar",
-          "url": "https://open.spotify.com/artist/6fF0MJ2PuMeOuiJ1soyMcY"
+          "name": "S\u00f3crates e Matheus",
+          "url": "https://open.spotify.com/artist/457x1clamoAk5eyiAwmd90"
+        },
+        {
+          "name": "Loubet",
+          "url": "https://open.spotify.com/artist/6DtpcJP3QBgHfte3eKzUCI"
         }
       ],
-      "duration_ms": 158982,
-      "name": "Duzent\u00e3o - Ao Vivo",
-      "url": "https://open.spotify.com/track/0SES1umyru6s8TpgcZqEi3"
+      "duration_ms": 164337,
+      "name": "Lugar Que Interessa",
+      "url": "https://open.spotify.com/track/7A9CAVUuNBsD0I5JaFX4hQ"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -447,6 +431,22 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
+        "name": "Donas do Bar em Goi\u00e2nia - Parte 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fgxf3hh1OXOjCDjPi5Dbk"
+      },
+      "artists": [
+        {
+          "name": "Donas do Bar",
+          "url": "https://open.spotify.com/artist/6fF0MJ2PuMeOuiJ1soyMcY"
+        }
+      ],
+      "duration_ms": 158982,
+      "name": "Duzent\u00e3o - Ao Vivo",
+      "url": "https://open.spotify.com/track/0SES1umyru6s8TpgcZqEi3"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
         "name": "Cora\u00e7\u00e3o do Bruto (Ao Vivo)",
         "url": "https://open.spotify.com/album/2sHIiUvzJf4QYCZl2BR22I"
       },
@@ -463,26 +463,6 @@
       "duration_ms": 182570,
       "name": "Cora\u00e7\u00e3o do Bruto - Ao Vivo",
       "url": "https://open.spotify.com/track/7tXRESqmBQk9kd5NeLWDuP"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
-        "name": "Porta De Balada (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2AV2iuD8aoVlubd4uWkxBA"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Henrique",
-          "url": "https://open.spotify.com/artist/4aoYJ4BymBTeqLVwN7GHBb"
-        },
-        {
-          "name": "Luccas & Rodrigo",
-          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
-        }
-      ],
-      "duration_ms": 154808,
-      "name": "Porta De Balada - Ao Vivo",
-      "url": "https://open.spotify.com/track/61dXAAGdVJR0dJ2cTAihut"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -511,6 +491,26 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
+        "name": "Porta De Balada (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2AV2iuD8aoVlubd4uWkxBA"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Henrique",
+          "url": "https://open.spotify.com/artist/4aoYJ4BymBTeqLVwN7GHBb"
+        },
+        {
+          "name": "Luccas & Rodrigo",
+          "url": "https://open.spotify.com/artist/76FeGERn9sCv607gktNjQh"
+        }
+      ],
+      "duration_ms": 154808,
+      "name": "Porta De Balada - Ao Vivo",
+      "url": "https://open.spotify.com/track/61dXAAGdVJR0dJ2cTAihut"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
         "name": "Retronejo (Ao Vivo)",
         "url": "https://open.spotify.com/album/01wk7MYyaS6GEHKb9tpwzX"
       },
@@ -523,6 +523,22 @@
       "duration_ms": 145722,
       "name": "Cerveja Falando - Ao Vivo",
       "url": "https://open.spotify.com/track/0rD068pBtD2L4DAolWFD20"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
+        "name": "Barzin, Vol. 2 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
+      },
+      "artists": [
+        {
+          "name": "Bruna Lipiani",
+          "url": "https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK"
+        }
+      ],
+      "duration_ms": 178356,
+      "name": "Porteira Fechada - Ao Vivo",
+      "url": "https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -543,22 +559,6 @@
       "duration_ms": 150396,
       "name": "Perdid\u00e3o",
       "url": "https://open.spotify.com/track/5SPXRFQaHlegG0Cqlitxax"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
-        "name": "Barzin, Vol. 2 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6OMUQZatjKKedEXu1hV7Ig"
-      },
-      "artists": [
-        {
-          "name": "Bruna Lipiani",
-          "url": "https://open.spotify.com/artist/3qsb1v2HkuCUWGWI0rHOPK"
-        }
-      ],
-      "duration_ms": 178356,
-      "name": "Porteira Fechada - Ao Vivo",
-      "url": "https://open.spotify.com/track/1yAnmsUZERvZbolGbKwCFx"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -627,22 +627,6 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Uma Dose De Cristinas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6Fb7dfs5e2HKnyKCk6o9iJ"
-      },
-      "artists": [
-        {
-          "name": "Cristinas",
-          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
-        }
-      ],
-      "duration_ms": 182218,
-      "name": "Roteiro - Ao Vivo",
-      "url": "https://open.spotify.com/track/2pd1yjPwvUoD05twpG7tuY"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
         "name": "Rastros",
         "url": "https://open.spotify.com/album/4kNt9qMV9sqePGrj9uUKD9"
       },
@@ -659,22 +643,18 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Nem Tira A Roupa (Ao Vivo)",
-        "url": "https://open.spotify.com/album/78OXXfPFaQRNyBC24lsPN8"
+        "name": "Uma Dose De Cristinas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6Fb7dfs5e2HKnyKCk6o9iJ"
       },
       "artists": [
         {
-          "name": "Lorena Cristine",
-          "url": "https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln"
-        },
-        {
-          "name": "Mar\u00edlia Tavares",
-          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
+          "name": "Cristinas",
+          "url": "https://open.spotify.com/artist/7DmKgIhj9hUClv6a1iF4Q3"
         }
       ],
-      "duration_ms": 149026,
-      "name": "Nem Tira A Roupa - Ao Vivo",
-      "url": "https://open.spotify.com/track/12l2QeF4w8eNy6rwNvLsjH"
+      "duration_ms": 182218,
+      "name": "Roteiro - Ao Vivo",
+      "url": "https://open.spotify.com/track/2pd1yjPwvUoD05twpG7tuY"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -715,6 +695,26 @@
       "duration_ms": 132269,
       "name": "Caramelo",
       "url": "https://open.spotify.com/track/3GvMsahexvoCTVBGXxBxTu"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
+        "name": "Nem Tira A Roupa (Ao Vivo)",
+        "url": "https://open.spotify.com/album/78OXXfPFaQRNyBC24lsPN8"
+      },
+      "artists": [
+        {
+          "name": "Lorena Cristine",
+          "url": "https://open.spotify.com/artist/2QVNBzkqMGqtwHiLyobYln"
+        },
+        {
+          "name": "Mar\u00edlia Tavares",
+          "url": "https://open.spotify.com/artist/5B1BR71Q9cBvvoNocPSHiL"
+        }
+      ],
+      "duration_ms": 149026,
+      "name": "Nem Tira A Roupa - Ao Vivo",
+      "url": "https://open.spotify.com/track/12l2QeF4w8eNy6rwNvLsjH"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Mulher Sabe, Mulher Sente",
-        "url": "https://open.spotify.com/album/7EoqzfGYwtNnSH26IODYR8"
-      },
-      "artists": [
-        {
-          "name": "Gabi Fernandes",
-          "url": "https://open.spotify.com/artist/6OSsybKSOi5qmfRle8Ehqt"
-        }
-      ],
-      "duration_ms": 166470,
-      "name": "Mulher Sabe, Mulher Sente",
-      "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
         "name": "Arielly Dara - Ao Vivo (Deluxe)",
         "url": "https://open.spotify.com/album/1WldYbAaIHawj8ZnVsYUw1"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 192434,
       "name": "T\u00f4 Preparada - Ao Vivo",
       "url": "https://open.spotify.com/track/2JYLmG4jBSFyNjOOFIYu0x"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
+        "name": "Mulher Sabe, Mulher Sente",
+        "url": "https://open.spotify.com/album/7EoqzfGYwtNnSH26IODYR8"
+      },
+      "artists": [
+        {
+          "name": "Gabi Fernandes",
+          "url": "https://open.spotify.com/artist/6OSsybKSOi5qmfRle8Ehqt"
+        }
+      ],
+      "duration_ms": 166470,
+      "name": "Mulher Sabe, Mulher Sente",
+      "url": "https://open.spotify.com/track/6aCAclE84tOTJSmICImcvG"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
-        "name": "Voc\u00ea \u00e9 Voc\u00ea",
-        "url": "https://open.spotify.com/album/3BIGSJIEc6qEJuXw2hzej0"
-      },
-      "artists": [
-        {
-          "name": "May e Gabi",
-          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
-        }
-      ],
-      "duration_ms": 171834,
-      "name": "Voc\u00ea \u00e9 Voc\u00ea",
-      "url": "https://open.spotify.com/track/0PCpcj9LfR988741kQXCAB"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
         "name": "Cadeado No Dedo",
         "url": "https://open.spotify.com/album/1UknpCqyp4CgzQyh3k0K1R"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 125970,
       "name": "Cadeado No Dedo",
       "url": "https://open.spotify.com/track/54PL6YkAOs5jXF8mHajii0"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
+        "name": "Voc\u00ea \u00e9 Voc\u00ea",
+        "url": "https://open.spotify.com/album/3BIGSJIEc6qEJuXw2hzej0"
+      },
+      "artists": [
+        {
+          "name": "May e Gabi",
+          "url": "https://open.spotify.com/artist/7Hp5amK5MrJdUFx1r9QrVq"
+        }
+      ],
+      "duration_ms": 171834,
+      "name": "Voc\u00ea \u00e9 Voc\u00ea",
+      "url": "https://open.spotify.com/track/0PCpcj9LfR988741kQXCAB"
     },
     {
       "added_at": "2026-09-04 03:00:51",
@@ -1343,6 +1343,22 @@
     {
       "added_at": "2026-09-04 03:00:51",
       "album": {
+        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
+        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
+      },
+      "artists": [
+        {
+          "name": "Murilo e Romario",
+          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
+        }
+      ],
+      "duration_ms": 146613,
+      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
+      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
+    },
+    {
+      "added_at": "2026-09-04 03:00:51",
+      "album": {
         "name": "Aqui Tem Sentimento, Ep.3",
         "url": "https://open.spotify.com/album/3VcU0KNUWCQjGfKf5DGQz8"
       },
@@ -1371,22 +1387,6 @@
       "duration_ms": 178847,
       "name": "Sonho Americano",
       "url": "https://open.spotify.com/track/4rdARVMEoeWrA1JvPHLfNB"
-    },
-    {
-      "added_at": "2026-09-04 03:00:51",
-      "album": {
-        "name": "Como Foi Que Eu Te Perdi (Que Que \u00c9 Isso?, Ao Vivo)",
-        "url": "https://open.spotify.com/album/2aYcn6Wz3ARzACblcxenDF"
-      },
-      "artists": [
-        {
-          "name": "Murilo e Romario",
-          "url": "https://open.spotify.com/artist/0hgLPlvTIfFVTT9SxP3n4T"
-        }
-      ],
-      "duration_ms": 146613,
-      "name": "Como Foi Que Eu Te Perdi - Que Que \u00c9 Isso?, Ao Vivo",
-      "url": "https://open.spotify.com/track/5QYRjlFVwQqbOgliJehTV3"
     },
     {
       "added_at": "2026-09-04 03:00:51",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: BNXN
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,130 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,433 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 2 | [4](https://open.spotify.com/track/0TwQx4EjJbI0WCmnP8n4HO) | [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [4](https://open.spotify.com/album/5nVnAPXT2kZrNZbA86IWXu) | 2:20 |
 | 3 | [it's over](https://open.spotify.com/track/4Ot8yw6eGAStt4Y0DnV3IF) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z), [Bella Shmurda](https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [it's over](https://open.spotify.com/album/2uLEoMtUERv9U0ob9PzIKX) | 3:10 |
 | 4 | [Vody](https://open.spotify.com/track/79yLh07evC9J8rP28x7Xqv) | [Lossa](https://open.spotify.com/artist/5ZlyVrDhzKVvaZNj3b58fE) | [New Era](https://open.spotify.com/album/2qV3TYFG9FKreZZPEXA6Bm) | 2:16 |
-| 5 | [DIAMONDS](https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:38 |
+| 5 | [Diamonds](https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:38 |
 | 6 | [Zoblazo](https://open.spotify.com/track/2bP4d1jWgRglQCbBu4DREv) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Zoblazo](https://open.spotify.com/album/3X3mH7ffwYZZIbFPF2vUjY) | 2:40 |
 | 7 | [OSHE](https://open.spotify.com/track/60pJwNheLBJjgTattwEqXg) | [Heaven Sam](https://open.spotify.com/artist/654ILatijxm7AEeqC6F2Aq), [1da Banton](https://open.spotify.com/artist/6dlzQ6fiPna40trq1Ek6cb) | [OSHE](https://open.spotify.com/album/55iZzQGIUhBJqU0wXPE7jz) | 3:08 |
 | 8 | [C'est la vie](https://open.spotify.com/track/6d8fbLWXDp0ET2KyJGVjUz) | [Ocevne](https://open.spotify.com/artist/0K4D8NX2d2sMQlvWcfLhSL) | [C'est la vie](https://open.spotify.com/album/5MQWBz12ZbRpDyqSYncy93) | 2:36 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 49 | [attention!](https://open.spotify.com/track/1MGCRWKSEutuqNQwbktV7C) | [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [attention!](https://open.spotify.com/album/3Z9nEOl5fo7PzP9feRWyz4) | 2:35 |
 | 50 | [CUTLASS](https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic), [Projexx](https://open.spotify.com/artist/2DFzMI8SSWPYBBSxVF7b2N), [Pa Salieu](https://open.spotify.com/artist/290nCNEce1y6rfoJiO2rK7) | [JUNCTION](https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe) | 2:49 |
 
-Snapshot ID: `AAAAACgMxVugl2PYemFIZWiDQ05Vmcg0`
+Snapshot ID: `AAAAAJyMIOz7Zs4wqiogBTAWlI4trhbH`

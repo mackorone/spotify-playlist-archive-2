@@ -1552,7 +1552,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 234560,
       "name": "Can You Stay",
       "url": "https://open.spotify.com/track/4Xm3PUvwXpTUq7xQ1ATPtA"
@@ -3230,7 +3230,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 213746,
       "name": "Fuck",
       "url": "https://open.spotify.com/track/1vkZx3z5H0uVvrrCsMMn6I"
@@ -3752,6 +3752,28 @@
       "duration_ms": 276000,
       "name": "Happily Ever After",
       "url": "https://open.spotify.com/track/21fXrzSxu2y51Yqf57QycI"
+    },
+    {
+      "album": {
+        "name": "A Tree Grows In Brooklyn",
+        "url": "https://open.spotify.com/album/5nVcHW2aDrDmWF0w1ikks0"
+      },
+      "artists": [
+        {
+          "name": "Jourden",
+          "url": "https://open.spotify.com/artist/7BJgHEoxvlal00T5B0Ro5u"
+        },
+        {
+          "name": "Queen Naija",
+          "url": "https://open.spotify.com/artist/3nViOFa3kZW8OMSNOzwr98"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161798,
+      "name": "Hard",
+      "url": "https://open.spotify.com/track/2moHkub7vjM2UYtCpZ7ToO"
     },
     {
       "album": {
@@ -6709,6 +6731,28 @@
     },
     {
       "album": {
+        "name": "No Rest for The Wicked",
+        "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        },
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/0rBqWViEFYIIW5X49IfRl3"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188883,
+      "name": "Need Your Love (feat. JMSN)",
+      "url": "https://open.spotify.com/track/0XZOXaYQfJj0nMF0DQPL5Q"
+    },
+    {
+      "album": {
         "name": "TwoFr 2",
         "url": "https://open.spotify.com/album/6IFG8yV0MHsyAaZxbDHzlK"
       },
@@ -8619,6 +8663,24 @@
     },
     {
       "album": {
+        "name": "Something I Need",
+        "url": "https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ"
+      },
+      "artists": [
+        {
+          "name": "Offset",
+          "url": "https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145754,
+      "name": "Something I Need",
+      "url": "https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8"
+    },
+    {
+      "album": {
         "name": "Something Wrong (with Don Toliver)",
         "url": "https://open.spotify.com/album/6BzulXCJ5ZITGuNNFxEQ3a"
       },
@@ -9578,7 +9640,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 195807,
       "name": "This City (feat. Devlin)",
       "url": "https://open.spotify.com/track/5izYtB29cwjnVVUVEulUv0"

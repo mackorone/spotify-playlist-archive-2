@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 
 > 
 
-[lia🍭](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,444 songs - 3 day 10 hr 27 min
+[𝒿𝓊𝓁𝒾](https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu) - 3 likes - 1,457 songs - 3 day 11 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -1452,5 +1452,18 @@ pretty - [cumulative](/playlists/cumulative/1UDtZQ2RZtGRjPy7PCzuzA.md) - [plain]
 | 1442 | [Nuestro Planeta \(feat\. Reykon\)](https://open.spotify.com/track/12TOa8pzhbLTWh1vxIsPMp) | [Kali Uchis](https://open.spotify.com/artist/1U1el3k54VvEUzo3ybLPlM), [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [Isolation](https://open.spotify.com/album/4EPQtdq6vvwxuYeQTrwDVY) | 3:22 |
 | 1443 | [Chamakay](https://open.spotify.com/track/2iR4oHXi5qsb17b0KHVpon) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:20 |
 | 1444 | [You're Not Good Enough](https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Samantha Urbani](https://open.spotify.com/artist/7sKDdrRD7J0GZC8d5wB4F7) | [Cupid Deluxe](https://open.spotify.com/album/1bsLkHcWAGUao6Z1dHOEIB) | 4:21 |
+| 1445 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
+| 1446 | [PICK UP](https://open.spotify.com/track/25edMffSHEeWLwPkyqVdkX) | [zachdoa](https://open.spotify.com/artist/6NE750JMOmsY57WeUHjHes) | [PICK UP](https://open.spotify.com/album/5ISHoGmszZO5dwiIzYFzmX) | 2:11 |
+| 1447 | [unlearning you](https://open.spotify.com/track/1yCBTTm2QzU5eIsGUxlKEh) | [Crying City](https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD) | [unlearning you](https://open.spotify.com/album/6FpOqgBHMr8KuAYUJKMQak) | 3:15 |
+| 1448 | [All I Want Is You \(feat\. J\. Cole\)](https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av) | [Miguel](https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [All I Want Is You](https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R) | 4:57 |
+| 1449 | [Evergreen \(You Didn’t Deserve Me At All\)](https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33) | [Omar Apollo](https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO) | [Ivory](https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv) | 3:36 |
+| 1450 | [Si No Te Hubieras Ido](https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE) | [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [La Historia Continúa...Parte IV](https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO) | 4:46 |
+| 1451 | [Pretty Boy](https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [Chip Chrome & The Mono\-Tones](https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX) | 3:54 |
+| 1452 | [Lovebomb](https://open.spotify.com/track/6SOJwznM9EuhsspI20Xk0Z) | [The Neighbourhood](https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh) | [\(\(\(\(\(ultraSOUND\)\)\)\)\)](https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv) | 3:20 |
+| 1453 | [Chasing Cars](https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6) | [Snow Patrol](https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp) | [Eyes Open](https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3) | 4:27 |
+| 1454 | [We Will Not Be Lovers \- 2006 Remaster](https://open.spotify.com/track/5HcSxmtgf66je7TNKO1rR9) | [The Waterboys](https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ) | [Fisherman's Blues](https://open.spotify.com/album/0lIGBQj12ehBETiO01zUZx) | 7:01 |
+| 1455 | [Pretty Girls Make Graves \- 2011 Remaster](https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO) | [The Smiths](https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8) | [The Smiths](https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN) | 3:43 |
+| 1456 | [STAR](https://open.spotify.com/track/1xfFPJdRjgDAaMcDgbXwyh) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION](https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm) | 2:41 |
+| 1457 | [BOYS](https://open.spotify.com/track/1H3GqbebLfBjqY8rW9oVyq) | [BROCKHAMPTON](https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA) | [SATURATION](https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm) | 4:38 |
 
-Snapshot ID: `AAANKEW5s9OdWDk9rzNFHh1aGSbVpunx`
+Snapshot ID: `AAANNcsPpCn3JI/5Jcym2G+OU/E9lo4T`

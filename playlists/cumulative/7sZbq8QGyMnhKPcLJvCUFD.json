@@ -6087,6 +6087,24 @@
     },
     {
       "album": {
+        "name": "fired up",
+        "url": "https://open.spotify.com/album/2HsiWbkvAdt58XPw4oL6om"
+      },
+      "artists": [
+        {
+          "name": "jonty",
+          "url": "https://open.spotify.com/artist/6YJHE94iyYJhyxsg8QKXT2"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150465,
+      "name": "fired up",
+      "url": "https://open.spotify.com/track/5QLnmfHwjOt4krkauOeBo0"
+    },
+    {
+      "album": {
         "name": "Fireflies",
         "url": "https://open.spotify.com/album/3Oj6yFu8nIG4KJtRv1w6rv"
       },

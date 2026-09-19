@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/1jfYpWb92femNCZefwYZhs">Janieck</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 97 likes - 39 songs - 1 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 97 likes - 40 songs - 1 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -47,5 +47,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFBfictkn2KG8.md) - [plain]
 | 37 | [Taking It Slowly](https://open.spotify.com/track/37hjpeTAswbMzp978oGBg5) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Taking It Slowly](https://open.spotify.com/album/5dnZeCPifLReZQrKMtRBbc) | 2:34 |
 | 38 | [How To Stop It](https://open.spotify.com/track/1C1zYsvtEw9nROGnQL40wh) | [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [How To Stop It](https://open.spotify.com/album/1x880PZgDNpeG3M67BmCpX) | 2:44 |
 | 39 | [GOAT](https://open.spotify.com/track/0ACNb58uJrEqNlZXmNVyDf) | [SØBER](https://open.spotify.com/artist/5h52qlTPK4S2ZrQj69Q2B5), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0), [Carston](https://open.spotify.com/artist/0WRqpklDf9jCcdVitOJGn6) | [GOAT](https://open.spotify.com/album/2u7zWNBAM8cCqVDRdb7sLd) | 2:22 |
+| 40 | [Remedy](https://open.spotify.com/track/5qlTVVj7HjwEWBuAyIdGEy) | [OYADI](https://open.spotify.com/artist/3oIZUzAdCrbsm30GIleFvs) | [Remedy](https://open.spotify.com/album/3WEVoOmB0XKyNzDL4cvvZE) | 3:00 |
 
-Snapshot ID: `AcclJgAAAADAe09ioIdBp1SGdTK4IwBP`
+Snapshot ID: `AccqxgAAAAA3WWAVhkGK1uQ4eREAdIbN`

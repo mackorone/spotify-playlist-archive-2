@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 
 > Lagu\-lagu terkini yang sedang beranjak menjadi hit\. Cover: Farrel Hilal
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,771 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 152,784 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sD2LU79ZzQ.md) - [plain]
 | 99 | [Celah Hati](https://open.spotify.com/track/5gvSgp1iKPkdTq6kNzvKv2) | [Harra.](https://open.spotify.com/artist/0bPHN5TpcAXxpuPjgNbh7O) | [Celah Hati](https://open.spotify.com/album/75oe7dblGQr9KbKKk1Zggz) | 3:14 |
 | 100 | [Tulang dan Nadi](https://open.spotify.com/track/38hWMbRnP6ORTbEuAKk9TR) | [Tiara Andini](https://open.spotify.com/artist/0kPb52ySN2k9P6wEZPTUzm) | [Tulang dan Nadi](https://open.spotify.com/album/6Ljpg0MzZrUMQZMqHl0kom) | 4:28 |
 
-Snapshot ID: `AAAAAP3nv5aAkxqXSxKlyCBZQ7ok7Ps3`
+Snapshot ID: `AAAAAJ9nyRbxkTrQVOf6JkZrZ7m7u1wN`

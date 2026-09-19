@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 
 > We got you! Den bedste nye pop er samlet her\. Emme Sehested Høeg på cover ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,794 likes - 137 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,795 likes - 137 songs - 6 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 3 | [Ødelagte Mennesker](https://open.spotify.com/track/290GmiHv84n3yg8MlYNeWK) | [Svea S](https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c) | [Ødelagte Mennesker](https://open.spotify.com/album/1tBnI6uHosQgf1tloFQp9k) | 2:29 |
 | 4 | [Jeg Mener Det Stadig \(feat\. Kind mod Kind\)](https://open.spotify.com/track/6nyBmxdOIunGRdn6uTR8EJ) | [Pil](https://open.spotify.com/artist/3vSX14E4YqHrx8nyXeOVen), [Kind mod Kind](https://open.spotify.com/artist/0cc3y7owJCbx8MuYJZI6As) | [Jeg Mener Det Stadig \(feat\. Kind mod Kind\)](https://open.spotify.com/album/4sCQiY6rTV8FfPeXr1e4fm) | 3:02 |
 | 5 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
-| 6 | [Track 6](https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 0:00 |
+| 6 | [Ik Giv Slip](https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 2:53 |
 | 7 | [KBH](https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS) | [Nik & Jay](https://open.spotify.com/artist/71k6SmcYKiIPq8M2RxK2Jr) | [KBH](https://open.spotify.com/album/3erupsnNhmfnUhtdryLaUB) | 2:55 |
 | 8 | [Elsker Dig Så Meget Jeg Ku' Gå I Stykker](https://open.spotify.com/track/3mpPDxIpKT484rULyXa82j) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Elsker Dig Så Meget Jeg Ku' Gå I Stykker](https://open.spotify.com/album/2wRWJP7Xf2RfMmc3LIqk9F) | 2:55 |
 | 9 | [Hvor du er](https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ) | [dreng&piger](https://open.spotify.com/artist/07JRf49TUGMnobtGeXPY73) | [Hvor du er](https://open.spotify.com/album/5827zWSldtqm71hwFcsQml) | 2:25 |
@@ -146,4 +146,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8hNBsFKBtPu.md) - [plain]
 | 136 | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/track/6viL4eHTn5njVOxPGev6nx) | [Maisie Peters](https://open.spotify.com/artist/2RVvqRBon9NgaGXKfywDSs), [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Kingmaker \(with Julia Michaels\)](https://open.spotify.com/album/0VuY51BeTd6TvBc4DeiRdb) | 3:08 |
 | 137 | [Kærlighed & Kildevand](https://open.spotify.com/track/5KVgLz2vx6LGnCR3I3xpJV) | [barejegvarmig](https://open.spotify.com/artist/2jd9z4iry5iB6Ue1pt6HVH) | [Kærlighed & Kildevand](https://open.spotify.com/album/1yZj2pHkRzRdmaUp0DKMsi) | 2:44 |
 
-Snapshot ID: `AAAAAP0KjFW1kQ4wL4WLF1Etr9jKM/Wm`
+Snapshot ID: `AAAAAC0TjDYXb/WEkGTLJ4eHi6n3jLtq`

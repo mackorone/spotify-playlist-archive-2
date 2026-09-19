@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Jon Reddick",
+  "description": "Experience the lastest and the greatest Worship music right here, right now. Cover: Charity Gayle",
   "name": "WorshipNow",
   "tracks": [
     {
@@ -7338,7 +7338,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 316666,
       "name": "Heaven Collide",
       "url": "https://open.spotify.com/track/6napmh5WfgrThYbkwognKx"
@@ -7458,6 +7458,28 @@
       "duration_ms": 343376,
       "name": "Here Comes The Church",
       "url": "https://open.spotify.com/track/0XCgphxtg9U1kmh4Q2icrq"
+    },
+    {
+      "album": {
+        "name": "Here Comes The Church (with Tiffany Hudson)",
+        "url": "https://open.spotify.com/album/5JQ7WGi7qBFhy3aPRyf7FR"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Tiffany Hudson",
+          "url": "https://open.spotify.com/artist/0F58iilfZWiLrxyhsVOdQV"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 432839,
+      "name": "Here Comes The Church (with Tiffany Hudson)",
+      "url": "https://open.spotify.com/track/0iYugCuyeWGor2kqJ13GtE"
     },
     {
       "album": {
@@ -9298,7 +9320,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 323548,
       "name": "I Was Dead, Now I'm Alive - Live",
       "url": "https://open.spotify.com/track/4jCZcUBdbAckNeWUu2Ydn6"
@@ -9780,6 +9802,24 @@
       "duration_ms": 455400,
       "name": "In The Name of Jesus (Jesus Is The Way Spontaneous) (feat. Chandler Moore)",
       "url": "https://open.spotify.com/track/7fkWuneCeC7VIcjXsLjF5r"
+    },
+    {
+      "album": {
+        "name": "In The Presence of The King",
+        "url": "https://open.spotify.com/album/0eoNPgbz1ry4DSmJ1nr2cv"
+      },
+      "artists": [
+        {
+          "name": "Charity Gayle",
+          "url": "https://open.spotify.com/artist/57YsESW6BGZLHQgOg8AiAq"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 332293,
+      "name": "In The Presence of The King",
+      "url": "https://open.spotify.com/track/52skahlcwzxAslN6NkSlA0"
     },
     {
       "album": {
@@ -12477,6 +12517,24 @@
     },
     {
       "album": {
+        "name": "Memory",
+        "url": "https://open.spotify.com/album/71g3oJneC3LzwgZy5X8kHE"
+      },
+      "artists": [
+        {
+          "name": "Roosevelt Stewart",
+          "url": "https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 585000,
+      "name": "Memory",
+      "url": "https://open.spotify.com/track/1EDdsfw8FVk6Zdn35yOWmg"
+    },
+    {
+      "album": {
         "name": "Midst",
         "url": "https://open.spotify.com/album/1iytTNnPCBeEtX9JyyVR77"
       },
@@ -14402,7 +14460,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 262634,
       "name": "One More Day - Radio Version",
       "url": "https://open.spotify.com/track/3W2FBJUYK5GTDFr14gG56y"
@@ -15370,6 +15428,24 @@
       "duration_ms": 302003,
       "name": "Praise To The Most High",
       "url": "https://open.spotify.com/track/1QTn0Xf38y1ucsMVaR1DI0"
+    },
+    {
+      "album": {
+        "name": "Praise Upon Praise",
+        "url": "https://open.spotify.com/album/5yE1Rgtnic38wVRaHbiFnp"
+      },
+      "artists": [
+        {
+          "name": "Shane & Shane",
+          "url": "https://open.spotify.com/artist/2LFbgsbEhfilNpQYW7mied"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244664,
+      "name": "Praise Upon Praise",
+      "url": "https://open.spotify.com/track/1BmTOIvRFua9AcEAqotIN3"
     },
     {
       "album": {
@@ -21516,7 +21592,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 594723,
       "name": "What A Miracle Feels Like (with Naomi Raine)",
       "url": "https://open.spotify.com/track/3LWT76qGbYLor4PXR1einh"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 
 > Your new favourite songs! Cover: Jhené Aiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,442 likes - 75 songs - 4 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,592 likes - 75 songs - 4 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaLvcwjNfHBR.md) - [plain]
 | 74 | [Pumpin](https://open.spotify.com/track/51KLyIiHMGywXh2yh9Lk5d) | [Partiboi69](https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL), [KETTAMA](https://open.spotify.com/artist/3an9rnsXKPCAMlZgH4A0n4) | [Pumpin](https://open.spotify.com/album/5HUcDxoU1KWBcjyLhlJDbM) | 3:31 |
 | 75 | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/track/1u2tyMNIqJQ9jbQxmGI9lo) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [Get Away From Me \(I Think I'll Love You Soon\)](https://open.spotify.com/album/0YbnCJi3H6yOl1Rrltlo2W) | 2:48 |
 
-Snapshot ID: `AAAAAMCpGa6Z+dMv3q1Geu3PBwzbDKRw`
+Snapshot ID: `AAAAADGTQ5YItUMSjDH9+Xe3D6yFlxAb`

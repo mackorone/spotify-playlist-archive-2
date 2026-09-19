@@ -2,9 +2,9 @@
 
 ### [El Ritmo](https://open.spotify.com/playlist/37i9dQZF1DWVOLXBOylBUZ)
 
-> Latinoamérica baila al ritmo de Bellakath.
+> Latinoamérica baila al ritmo de Gangsta, Jory Boy y Red Fox.
 
-1,482 songs - 3 day 4 hr 31 min
+1,483 songs - 3 day 4 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -79,7 +79,7 @@
 | [Algarete](https://open.spotify.com/track/6Fxs2k9ds8PQNDWQqZtzoe) | [Hozwal](https://open.spotify.com/artist/1lgtR3WlcFxEy6yPoOh0J2), [Pirlo](https://open.spotify.com/artist/7GQDI5Vmxs92RsIRZzYT11) | [Algarete](https://open.spotify.com/album/2YJzl0IcZXQKBSuLP17UXE) | 2:11 | 2023-08-15 | 2023-11-18 |
 | [algo así](https://open.spotify.com/track/5YZ6ThqD1WBi9g0YSlLsfW) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9) | [diamantes y espinas](https://open.spotify.com/album/3o86U2Y7aQCgQe2kQQOz8T) | 3:33 | 2022-09-02 | 2022-09-20 |
 | [algo así \(remix\)](https://open.spotify.com/track/0z0IEbMRvIEjj9Iif4doxD) | [paopao](https://open.spotify.com/artist/5AS4y4rlmbUYDCdg35qmI9), [Mora](https://open.spotify.com/artist/0Q8NcsJwoCbZOHHW63su5S) | [algo así \(remix\)](https://open.spotify.com/album/38q60hmzuFy1xa8Dexc2eX) | 3:43 | 2022-09-19 | 2023-01-21 |
-| [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 | 2026-01-16 |  |
+| [ALMA](https://open.spotify.com/track/3DNPOTO44kCKUV9RkYU77G) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY) | [Bendito Verano](https://open.spotify.com/album/3879XuqQ01JARbfd5pMH3s) | 2:56 | 2026-01-16 | 2026-09-19 |
 | [Alma](https://open.spotify.com/track/35kVPuCr0uZfkNEt5TlD9O) | [Zaider](https://open.spotify.com/artist/5Wuz885csKSCJoBNsOSCxz), [Kapo](https://open.spotify.com/artist/3UTF2no3muGdiFXVujl94i) | [Alma](https://open.spotify.com/album/6LxTdbzVKWdPUJZYbPU2I0) | 2:25 | 2024-12-20 | 2026-03-01 |
 | [Almas Gemelas](https://open.spotify.com/track/5Y37PYMXdUxfpCWn9o5r6f) | [Reykon](https://open.spotify.com/artist/3PAwspMN27PDm81WwXDsMf) | [12 12](https://open.spotify.com/album/6zSJ3hOlv7MdsBnoTsorpd) | 2:09 | 2023-08-25 | 2023-11-18 |
 | [ALMORZARTE](https://open.spotify.com/track/5gQVkXuT4CerW7XxgtinC9) | [Dawer X Damper](https://open.spotify.com/artist/4OGeO4jU4OMK0kWh69UhtY) | [ALMORZARTE](https://open.spotify.com/album/1JmCEUqTUCKbQdpOCQZSXR) | 2:41 | 2022-04-08 | 2022-05-14 |
@@ -1111,6 +1111,7 @@
 | [QUE CULPA TENGO YO](https://open.spotify.com/track/7oLpEaBgkTpxMA84DShhn1) | [West Blanco](https://open.spotify.com/artist/5KX37yoUcrgKZGNc0NdwHL) | [QUE CULPA TENGO YO](https://open.spotify.com/album/0qXkvYgcS5nN4Kq5Dzkppw) | 2:18 | 2026-06-05 |  |
 | [QUE ME HICISTE](https://open.spotify.com/track/64y7606OQWxKysceRlkNxI) | [Nicky Jam](https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT) | [INSOMNIO](https://open.spotify.com/album/0leCm7DasgqP70lhOVeXyU) | 2:46 | 2024-09-06 | 2024-12-21 |
 | [Que Se Parezca A Ti](https://open.spotify.com/track/1egG8nOtq5l9ZiqVRT7KM6) | [Tiago PZK](https://open.spotify.com/artist/5Y3MV9DZ0d87NnVm56qSY1) | [Portales \(Deluxe Edition\)](https://open.spotify.com/album/4rncniiruMzTS8BTWHVEjU) | 3:04 | 2023-04-07 | 2023-07-08 |
+| [Que Se Reporten](https://open.spotify.com/track/5ViVSElIxnYSy0QjwftX41) | [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3), [Jory Boy](https://open.spotify.com/artist/5lFhCi03HDneWzvCxGctrT), [Red Fox](https://open.spotify.com/artist/43q1Ij10cJfjg3rLG8Wo9f) | [Que Se Reporten](https://open.spotify.com/album/0MsTM8UKeN4EIfuHJO7IQs) | 2:55 | 2026-09-18 |  |
 | [Que Te Perdone](https://open.spotify.com/track/5FxhGtbB5kopGvNETRpcLx) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Que Te Perdone](https://open.spotify.com/album/6nPMcgX2MUuEsGgQvNL1FT) | 3:34 | 2022-12-02 | 2023-04-20 |
 | [Que Tú, Que Yo](https://open.spotify.com/track/7EoK1JCOJq5nEVqYKLbEkg) | [Maxi Vargas](https://open.spotify.com/artist/1FtPGO6iOU4CTmJ5YCTWPy) | [Que Tú, Que Yo](https://open.spotify.com/album/05v92qF9Y3MCFiwcHMAVwd) | 2:47 | 2023-09-15 | 2023-09-30 |
 | [Que Vamo’ Hacer?](https://open.spotify.com/track/3Lnfbc1ZlIzIU5KmAeQNj4) | [Lenny Tavárez](https://open.spotify.com/artist/1pQWsZQehhS4wavwh7Fnxd), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [KRACK DELUXE](https://open.spotify.com/album/20jm8zrqWsVXKWBhhiOT0I) | 3:31 | 2022-03-04 | 2022-08-20 |

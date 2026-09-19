@@ -4,7 +4,7 @@
 
 > party time 🙂‍↔️
 
-2,410 songs - 5 day 0 hr 23 min
+2,410 songs - 5 day 0 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1743,6 +1743,7 @@
 | [Ram Pam Pam](https://open.spotify.com/track/4DHDIdeayp8xvlyg22wREO) | [Natti Natasha](https://open.spotify.com/artist/1GDbiv3spRmZ1XdM1jQbT7), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Ram Pam Pam](https://open.spotify.com/album/6Wg0bZna6okQRbB6JgOEmr) | 3:20 | 2021-04-24 | 2021-05-22 |
 | [rapunzel](https://open.spotify.com/track/1mT8ynmtag8TCA01FUujxl) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [rapunzel](https://open.spotify.com/album/2HSYHoAuFyiu7XXr9lePEy) | 3:07 | 2022-01-10 | 2022-03-26 |
 | [Rapunzel \(feat\. Megan Thee Stallion\)](https://open.spotify.com/track/03qZDQKRYZdjhKsQ5G5H0t) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 2:45 | 2025-02-28 | 2025-03-28 |
+| [Rare N' Deluxe](https://open.spotify.com/track/6xK6JHpASzcEF9zzLx1pI0) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 2:40 | 2026-09-17 |  |
 | [Reach You](https://open.spotify.com/track/321YxpqBmI20oWOgWN4kmq) | [Mariella](https://open.spotify.com/artist/1TRFZkvpFayTy7cveLinG6) | [Reach You](https://open.spotify.com/album/4G3ZScIA2hKsIxRoR4FBi5) | 3:31 | 2025-03-07 | 2025-03-21 |
 | [Real Life](https://open.spotify.com/track/2RTrGUrkUrDdts1tYTLR2L) | [Claire Rosinkranz](https://open.spotify.com/artist/3V0ZQW0dNuVaFtbVYgSI24) | [Real Life](https://open.spotify.com/album/6BxLuygqBzU523DpwzwtK3) | 2:57 | 2021-02-26 | 2021-04-10 |
 | [Real Love](https://open.spotify.com/track/4Juaa2ppIOYcSWbrVtcrNp) | [Dillon Francis](https://open.spotify.com/artist/5R3Hr2cnCCjt220Jmt2xLf), [Aleyna Tilki](https://open.spotify.com/artist/4ckLjJztj53Ifid7WHweBn) | [Happy Machine](https://open.spotify.com/album/2iab1reuBluKDh3wspwu3e) | 2:15 | 2021-10-08 | 2022-01-29 |
@@ -2209,8 +2210,6 @@
 | [top gun](https://open.spotify.com/track/5DZLRMLNeGRS73q0psBiBq) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [top gun](https://open.spotify.com/album/3yCB0HDiI8ilckWy85Em4u) | 2:21 | 2022-10-07 | 2022-11-05 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-05 | 2024-12-21 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-06 | 2025-03-07 |
-| [Track 15](https://open.spotify.com/track/6xK6JHpASzcEF9zzLx1pI0) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 0:00 | 2026-09-17 |  |
-| [Track 18](https://open.spotify.com/track/2nxdPYdIQQb0APnSLr5UHT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 0:00 | 2026-09-17 |  |
 | [Tragedy](https://open.spotify.com/track/22RbBpcpvW5sZwnSyXesUh) | [Dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [Tragedy](https://open.spotify.com/album/1M9ewERGU0rDrYdS1yz4RF) | 3:49 | 2024-01-19 | 2024-04-10 |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-01-17 | 2025-03-07 |
 | [Treadmill](https://open.spotify.com/track/0ewQUWupKrDmYFhhiyjqaA) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Treadmill](https://open.spotify.com/album/1lnKUpRIc0wAcnMP9scVlJ) | 3:13 | 2024-07-05 | 2024-12-21 |
@@ -2302,6 +2301,7 @@
 | [Western Wind](https://open.spotify.com/track/0Q2FDq304w57PGAKKcC3Qk) | [Carly Rae Jepsen](https://open.spotify.com/artist/6sFIWsNpZYqfjUpaCgueju) | [Western Wind](https://open.spotify.com/album/5WCdg2iITZNONNV8Wp5P7M) | 3:45 | 2022-05-06 | 2022-07-09 |
 | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/track/4s3MvOa2k4mwlIgH6mcfcZ) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP), [Cobrah](https://open.spotify.com/artist/1AHswQqsDNmu1xaE8KpBne) | [Wet Like \(feat\. COBRAH\)](https://open.spotify.com/album/0Hz2N9IKHo9fuTNpTC7AI9) | 2:41 | 2025-10-02 | 2025-10-24 |
 | [We’re All Gonna Die \(with Noah Kahan\)](https://open.spotify.com/track/2Eb2TKNAaE15Fqd4A3MFWU) | [Joy Oladokun](https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [We’re All Gonna Die](https://open.spotify.com/album/1uiwlKORLzoDvBsDiLdkm4) | 2:59 | 2023-03-17 | 2023-07-15 |
+| [What a Night](https://open.spotify.com/track/2nxdPYdIQQb0APnSLr5UHT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 2:33 | 2026-09-17 |  |
 | [What A Shame](https://open.spotify.com/track/7FGIEAVXfegxngH9Jg6VwA) | [Leyla Blue](https://open.spotify.com/artist/6HpIVA13SPof8sYuXRUfxj) | [What A Shame](https://open.spotify.com/album/6CDPh3OAeHXOtZlyuaxELX) | 2:57 | 2021-01-30 | 2021-04-24 |
 | [What A Waste](https://open.spotify.com/track/7kGIXHL97P3bVy3Wh997ZA) | [GRACEY](https://open.spotify.com/artist/7xBGi7Eign0fX7jGQj5KlJ) | [What A Waste](https://open.spotify.com/album/4ydBNpc9b94VSX2VizYfRW) | 3:13 | 2021-08-21 | 2021-10-23 |
 | [What Am I Gonna Do On Sundays?](https://open.spotify.com/track/0WttB2xYS66VopJmwD1UzF) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [What Am I Gonna Do On Sundays?](https://open.spotify.com/album/1nAyMIwsiY0PbGzFbRY742) | 3:29 | 2020-12-05 | 2021-03-27 |

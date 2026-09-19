@@ -1,12 +1,12 @@
 {
   "description": "This is Teddy Pendergrass. The essential tracks, all in one playlist.",
-  "num_followers": 39534,
+  "num_followers": 39540,
   "original_name": "This Is Teddy Pendergrass",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAA3bLtMmY9DHZ3pI0Uzv8YK",
+  "snapshot_id": "aqstgAAAAADZdQOTPESVhE2HmKNxh469",
   "tracks": [
     {
       "added_at": null,
@@ -543,18 +543,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Heaven Only Knows",
-        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
+        "name": "I Miss You (Expanded Edition) (feat. Teddy Pendergrass)",
+        "url": "https://open.spotify.com/album/1Z62kgqZsdk7BdUjSHyxt3"
       },
       "artists": [
+        {
+          "name": "Harold Melvin & The Blue Notes",
+          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
+        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 240946,
-      "name": "I Want My Baby Back",
-      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
+      "duration_ms": 198800,
+      "name": "I Miss You, Pt. 1 (feat. Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/4kSXMdCeFLEbjlPfgOnlT5"
     },
     {
       "added_at": null,
@@ -591,22 +595,34 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Miss You (Expanded Edition) (feat. Teddy Pendergrass)",
-        "url": "https://open.spotify.com/album/1Z62kgqZsdk7BdUjSHyxt3"
+        "name": "Heaven Only Knows",
+        "url": "https://open.spotify.com/album/4hFGg240tpuX6ghIiz33kK"
       },
       "artists": [
-        {
-          "name": "Harold Melvin & The Blue Notes",
-          "url": "https://open.spotify.com/artist/438JBZR1AR0l04AzcYW9gy"
-        },
         {
           "name": "Teddy Pendergrass",
           "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 198800,
-      "name": "I Miss You, Pt. 1 (feat. Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/4kSXMdCeFLEbjlPfgOnlT5"
+      "duration_ms": 240946,
+      "name": "I Want My Baby Back",
+      "url": "https://open.spotify.com/track/466Nltju0Om75oImtmEyR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Love Language",
+        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 289813,
+      "name": "You're My Choice Tonight (Choose Me)",
+      "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
       "duration_ms": 279426,
       "name": "To Be True (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/46Liv0Pkip7IL14eJeHHbu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Love Language",
-        "url": "https://open.spotify.com/album/3b2W2WbmhnFx9KvwOiVFXg"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 289813,
-      "name": "You're My Choice Tonight (Choose Me)",
-      "url": "https://open.spotify.com/track/2xKEAqAlHFqIR8irs6q651"
     },
     {
       "added_at": null,
@@ -683,6 +683,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Teddy (Expanded Edition)",
+        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 273000,
+      "name": "All I Need Is You",
+      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "To Be True (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/5C0EIMdlDPa8AEEs1fgpM3"
       },
@@ -719,6 +735,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "TP (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 274546,
+      "name": "Is It Still Good to Ya",
+      "url": "https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "This One's For You",
+        "url": "https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 378266,
+      "name": "This One's for You",
+      "url": "https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Stephanie",
         "url": "https://open.spotify.com/album/6cwySqorXyjshvt0Pkx6C6"
       },
@@ -739,38 +787,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy (Expanded Edition)",
-        "url": "https://open.spotify.com/album/5WeHpxpPWmURN5kVQ4lhHM"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 273000,
-      "name": "All I Need Is You",
-      "url": "https://open.spotify.com/track/6uViXuBpQbfDFXke9mUQ2S"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "TP (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0zxNyboTeS8TpOOOBjwVoO"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 274546,
-      "name": "Is It Still Good to Ya",
-      "url": "https://open.spotify.com/track/3P8lihsvbBf0IPWAfxS5jg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Teddy Pendergrass",
         "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 245493,
       "name": "You Can't Hide from Yourself",
       "url": "https://open.spotify.com/track/0P1CIWMLDE56pE3SQ2Hacq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This One's For You",
-        "url": "https://open.spotify.com/album/0IcTugJDlNs7X7s4D9IPol"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 378266,
-      "name": "This One's for You",
-      "url": "https://open.spotify.com/track/3FHwxEjV65cmgUYx19bzRR"
     },
     {
       "added_at": null,
@@ -835,22 +835,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teddy Pendergrass",
-        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
-      },
-      "artists": [
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
-        }
-      ],
-      "duration_ms": 261866,
-      "name": "And If I Had",
-      "url": "https://open.spotify.com/track/1f2xKsMmIXza7hID4IeLY6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Black & Blue (Expanded Edition) (feat. Teddy Pendergrass)",
         "url": "https://open.spotify.com/album/13qcPLh0uGE0jlskyLLa1N"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 210186,
       "name": "Satisfaction Guaranteed (Or Take Your Love Back) (feat. Teddy Pendergrass)",
       "url": "https://open.spotify.com/track/2x6R84co7Bqniso1Nzm82z"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teddy Pendergrass",
+        "url": "https://open.spotify.com/album/5MoWcSxnqFuBa0HGGExRM5"
+      },
+      "artists": [
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
+        }
+      ],
+      "duration_ms": 261866,
+      "name": "And If I Had",
+      "url": "https://open.spotify.com/track/1f2xKsMmIXza7hID4IeLY6"
     }
   ],
   "unique_name": "This Is Teddy Pendergrass",

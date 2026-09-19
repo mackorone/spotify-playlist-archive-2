@@ -4,7 +4,7 @@
 
 > Traditional country sounds from artists of yesterday and today.
 
-216 songs - 12 hr 24 min
+217 songs - 12 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,6 +80,7 @@
 | [Honky Talkin'](https://open.spotify.com/track/2NI2N5wNrpyRnRNiZVJySM) | [Jade Eagleson](https://open.spotify.com/artist/2nTzAHwCk0swkDdIPj2FIP) | [Honky Talkin'](https://open.spotify.com/album/14PnVtU21kgvHQoSWGaceV) | 2:53 | 2023-05-26 | 2023-06-06 |
 | [Honky Tonk Land](https://open.spotify.com/track/3GkSLx4Sfv9XB6NpxOnd80) | [Easton Corbin](https://open.spotify.com/artist/070kGpqtESdDsLb3gdMIyx) | [Honky Tonk Land](https://open.spotify.com/album/5faF1UVFN3ErXhkOiXoz6T) | 2:56 | 2022-07-01 | 2022-07-06 |
 | [Hot Beer](https://open.spotify.com/track/5CawRA9RzdlvF8ladonjsl) | [Dillon Carmichael](https://open.spotify.com/artist/3lvYE3o75PNjyvcKuBPXo6) | [Son Of A](https://open.spotify.com/album/5krj7eQSqb08k9RVxujeJ3) | 3:10 | 2022-02-17 | 2023-03-11 |
+| [Howdy](https://open.spotify.com/track/4CLiBDK6O5lYTWs2x9PNqv) | [Cole Goodwin](https://open.spotify.com/artist/1BJuLsavR5ekNDC4FhjTmF) | [Howdy](https://open.spotify.com/album/6EOpZkTC9ZUIRmxnXmR6Sq) | 3:48 | 2026-09-18 |  |
 | [I Bought It](https://open.spotify.com/track/5Umvff73wiCuYBgVfDfZqO) | [Craig Campbell](https://open.spotify.com/artist/7tkwiWhGKSuQV8LwPWceWN) | [Craig Campbell](https://open.spotify.com/album/1TwrHiwVEFcrHpWL7W6lxa) | 2:44 | 2022-02-19 | 2022-04-20 |
 | [I Can Be Your Whiskey](https://open.spotify.com/track/0A7GvbqAUCnpSQb3TLKKFO) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj) | [Faulkner County](https://open.spotify.com/album/76TJG2HSA6OfERayHK4XLQ) | 3:59 | 2022-02-19 | 2022-07-15 |
 | [I Can Lie \(The Truth Is\)](https://open.spotify.com/track/5qqIccBZC1LfSGPU04Px26) | [Kameron Marlowe](https://open.spotify.com/artist/31n3CN1jSC5ALUJ9dwT8UI) | [I Can Lie \(The Truth Is\)](https://open.spotify.com/album/6QwfWouiQcSPcnh8t6GYvF) | 3:30 | 2023-06-09 | 2024-12-31 |
@@ -89,7 +90,7 @@
 | [I Met a Girl](https://open.spotify.com/track/4WtkYdCG4n80h08Ep5SmDI) | [William Michael Morgan](https://open.spotify.com/artist/03tfKFHhDoDqF73vCI3cxn) | [Vinyl](https://open.spotify.com/album/0g5rhDZDPOuaLlxCq0GZ2g) | 3:21 | 2022-02-17 | 2025-07-19 |
 | [I Never Lie](https://open.spotify.com/track/3t6gUcGYLrUuqwpXjOFWQc) | [Zach Top](https://open.spotify.com/artist/4FGPzWzgjURDNT7JQ8pYgH) | [Cold Beer & Country Music](https://open.spotify.com/album/2liHjGjIgWvjrfBgKGBYuF) | 3:44 | 2024-08-19 |  |
 | [I Think I'll Just Stay Here And Drink](https://open.spotify.com/track/3lX7epJ9xWICkf1YauHYgM) | [Merle Haggard](https://open.spotify.com/artist/2ptmyXoL7poH6Zq62h1QT9) | [Back To The Barrooms](https://open.spotify.com/album/3jq2yXUtI6kRQ296YpGFqj) | 4:31 | 2022-05-13 |  |
-| [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7) | 2:53 | 2025-07-18 |  |
+| [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/track/3wdvFJv9nXCmnBNzP2pMTo) | [Mackenzie Carpenter](https://open.spotify.com/artist/1gYlQ5LjfQz9QPaCApCsDZ), [Midland](https://open.spotify.com/artist/1DTZRmlVZBxx2wRQBtx6yi) | [I Wish You Would \(ft\. Midland\)](https://open.spotify.com/album/0MQvYrTBZn5k07K1gZhxf7) | 2:53 | 2025-07-18 | 2026-09-19 |
 | [I'd Do It Different](https://open.spotify.com/track/4rzD1EihpFtcWLtNAQ2ugc) | [Erin Enderlin](https://open.spotify.com/artist/3ZRP1FiHFKaftTFYOMsFxj) | [I'd Do It Different](https://open.spotify.com/album/5QAZosdEGZeS1cmIJcSm1b) | 3:28 | 2022-02-17 | 2023-01-21 |
 | [I'll Think Of A Reason Later](https://open.spotify.com/track/7ygWc80Ao1nhcV2D6Q3zPa) | [Lee Ann Womack](https://open.spotify.com/artist/738OS3zrCO782uDiUN9pet) | [Some Things I Know](https://open.spotify.com/album/2Wdl9EOvTg4l4AhEpYovw8) | 3:38 | 2022-06-10 |  |
 | [I'm No Stranger to the Rain](https://open.spotify.com/track/0lNLXEMPtGhEpbgwQfo0c1) | [Keith Whitley](https://open.spotify.com/artist/0bc7dhY6YXL35m1G0jVwuW) | [Greatest Hits](https://open.spotify.com/album/4oj3skAMdx0abpd3XtOrOo) | 3:36 | 2022-02-17 | 2023-06-10 |

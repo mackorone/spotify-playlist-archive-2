@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 
 > We're celebrating the 40th anniversary of The Judd's album "Why Not Me" on 80s Country!
 
-[Spotify](https://open.spotify.com/user/spotify) - 749,027 likes - 150 songs - 8 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 749,169 likes - 150 songs - 8 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,9 +25,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 15 | [Amarillo By Morning](https://open.spotify.com/track/4TnUKixNWMfajncgdSwFoi) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Strait From The Heart](https://open.spotify.com/album/3NB2cmFq9nyhHSVz0Zv08t) | 2:53 |
 | 16 | [I Love a Rainy Night](https://open.spotify.com/track/0zvNHIL7ci0ZzIoWU6RO2u) | [Eddie Rabbitt](https://open.spotify.com/artist/0jgAONnsHxrwAlhkMUVS78) | [All Time Greatest Hits](https://open.spotify.com/album/6DLnBf2xooYa5UniuggpnD) | 3:11 |
 | 17 | [Always On My Mind](https://open.spotify.com/track/2xYQTU2bbg6WVAmpY1eae4) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Always On My Mind](https://open.spotify.com/album/5lSPP40Df9t2nkusLZtXTb) | 3:33 |
-| 18 | [Why Not Me](https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:29 |
+| 18 | [Baby's Got Her Blue Jeans On](https://open.spotify.com/track/56BG1hMSEkIN7IA2E4xNuN) | [Mel McDaniel](https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup) | [Let It Roll](https://open.spotify.com/album/1RV4I709P5rn8oIDMJfiQo) | 2:59 |
 | 19 | [Angel Of The Morning](https://open.spotify.com/track/11y8GSP2ASv8S9n0FiiDva) | [Juice Newton](https://open.spotify.com/artist/4L1z1IcfK7lbqx8izGHaw5) | [Juice](https://open.spotify.com/album/13TOuCZy3QU2Tt1llKPUqc) | 4:10 |
-| 20 | [Baby's Got Her Blue Jeans On](https://open.spotify.com/track/56BG1hMSEkIN7IA2E4xNuN) | [Mel McDaniel](https://open.spotify.com/artist/1fMdO9vLUd6wW4jbMeNiup) | [Let It Roll](https://open.spotify.com/album/1RV4I709P5rn8oIDMJfiQo) | 2:59 |
+| 20 | [Why Not Me](https://open.spotify.com/track/6BkK5Dsu1kTne7Cn6EyYex) | [The Judds](https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc) | [Why Not Me](https://open.spotify.com/album/7ddhrJqVCguGmLhvffzxkA) | 3:29 |
 | 21 | [Get a Little Rowdy](https://open.spotify.com/track/2Sda1KzCD3MnlfP0Oq2Ysj) | [Travis Tritt](https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2) | [Get a Little Rowdy](https://open.spotify.com/album/6Z89GpdksvibHlhiUrgnV3) | 2:07 |
 | 22 | [Slow Hand](https://open.spotify.com/track/2h1Xj6D76ygKS3tu9DgIY5) | [Conway Twitty](https://open.spotify.com/artist/7gi3jmwpUpNWdswT8eEprF) | [Southern Comfort](https://open.spotify.com/album/4IBg62LpRIejaV7VFcsyl9) | 2:54 |
 | 23 | [Ocean Front Property](https://open.spotify.com/track/4G9eIyEcVwLoG7kYNFpSII) | [George Strait](https://open.spotify.com/artist/5vngPClqofybhPERIqQMYd) | [Ocean Front Property](https://open.spotify.com/album/7AwvNqwI3PS9zJ8NFgIAWB) | 3:08 |
@@ -133,12 +133,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 123 | [Tennessee Flat Top Box](https://open.spotify.com/track/3zyj0RajXg2w2Bnn773mnW) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:15 |
 | 124 | [Leaving Louisiana In The Broad Daylight](https://open.spotify.com/track/1ADDagtKH24eNO8eJ6II6j) | [The Oak Ridge Boys](https://open.spotify.com/artist/3XnO697XIus1M0cMuxZjos) | [Oak Ridge Boys Greatest Hits](https://open.spotify.com/album/3LeMf9unDBiy665fDBJWcN) | 3:02 |
 | 125 | [Baby I Lied](https://open.spotify.com/track/5KqGrafc3paz7bNPju5Ne9) | [Deborah Allen](https://open.spotify.com/artist/0WO15UbgUyKKtn1anzZP5u) | [Cheat the Night](https://open.spotify.com/album/6ZMLxQUzTCjKYB1IVhAgLM) | 4:12 |
-| 126 | [Highway 40 Blues](https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [16 Biggest Hits](https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu) | 3:08 |
-| 127 | [Somebody Should Leave](https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Kind Of Country](https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q) | 3:33 |
+| 126 | [Somebody Should Leave](https://open.spotify.com/track/4m3VFxVwSPk8VGoA9qcLRC) | [Reba McEntire](https://open.spotify.com/artist/02rd0anEWfMtF7iMku9uor) | [My Kind Of Country](https://open.spotify.com/album/3jgF141Czb7pAXR5yvzZ9q) | 3:33 |
+| 127 | [Highway 40 Blues](https://open.spotify.com/track/58hXpQTyQLiskPd5XiLzFQ) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [16 Biggest Hits](https://open.spotify.com/album/7KoA9fS06LDxutPtdt5IUu) | 3:08 |
 | 128 | [Do Ya'](https://open.spotify.com/track/4uhDXoLPOR60UWIQNfdJjk) | [K.T\. Oslin](https://open.spotify.com/artist/0MMNJf1JrxeSFE2pcpX50b) | [Greatest Hits\-\-"Songs from an Aging Sex Bomb"](https://open.spotify.com/album/1kXK1pSK2uRUtWml9WA92X) | 4:05 |
 | 129 | [I Tell It Like It Used To Be](https://open.spotify.com/track/5wsa5z6Vfq0gjaC32X4hAG) | [T\. Graham Brown](https://open.spotify.com/artist/0UMJlMGr85C0C5D7wmB0Ik) | [Super Hits](https://open.spotify.com/album/37h9Piw16ne1sxRopr8JD8) | 3:00 |
-| 130 | [Holding Her and Loving You](https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [The Essential Earl Thomas Conley](https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW) | 3:08 |
-| 131 | [Fourteen Carat Mind](https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Gene Watson's Greatest Hits](https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp) | 2:39 |
+| 130 | [Fourteen Carat Mind](https://open.spotify.com/track/2RB2xSlVoMRhINO0SruNIx) | [Gene Watson](https://open.spotify.com/artist/3VQfHuqrRK1CNXR1V8PeR9) | [Gene Watson's Greatest Hits](https://open.spotify.com/album/1PKnP8QXBvGKbNWEBhxGsp) | 2:39 |
+| 131 | [Holding Her and Loving You](https://open.spotify.com/track/5K8MiZ3xJD57Z77EOCZGaI) | [Earl Thomas Conley](https://open.spotify.com/artist/69baNgo5tsg1RjBgotRbEj) | [The Essential Earl Thomas Conley](https://open.spotify.com/album/2mO9KRrzX78O8AXRb0vMsW) | 3:08 |
 | 132 | [Seven Year Ache](https://open.spotify.com/track/2bYp7DYfjXULM24FUh9Z3Q) | [Rosanne Cash](https://open.spotify.com/artist/6lx6XS8umFqYRVbBErx9fE) | [The Very Best Of Rosanne Cash](https://open.spotify.com/album/2Wc3y0qSYX4fxYBWeiYnFa) | 3:14 |
 | 133 | [If It Don't Come Easy](https://open.spotify.com/track/3YuCV1BpUaitv016B5Lpcu) | [Tanya Tucker](https://open.spotify.com/artist/7dmeVSH4lJqxXU7C87dKIB) | [Greatest Hits](https://open.spotify.com/album/1YRCRPM4KO5aYfg8LWPw9Z) | 3:28 |
 | 134 | [Heartbroke](https://open.spotify.com/track/79gYsiFPJ8x6ofr656fVIP) | [Ricky Skaggs](https://open.spotify.com/artist/0uNC9XuH437fKCCMuzvSks) | [Super Hits](https://open.spotify.com/album/7d8pkWSqNHRDeJh3qu9DDa) | 3:14 |
@@ -159,4 +159,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6RCydf9ytsj.md) - [plain]
 | 149 | [War Is Hell \- Re\-Recorded](https://open.spotify.com/track/2QaKxNtOx8bT7Q8ogqB7P6) | [T.G\. Sheppard](https://open.spotify.com/artist/23C7hNBr8GRdsk3VoTSZXh) | [Do You Want to Go to Heaven](https://open.spotify.com/album/0mMewKMunFjw7JJsJsUwkw) | 3:23 |
 | 150 | [Takin' It Easy](https://open.spotify.com/track/11enveFO56ghu7Az89ekd3) | [Lacy J\. Dalton](https://open.spotify.com/artist/3JTFILRsbbqmkb740jjT0l) | [Takin' It Easy](https://open.spotify.com/album/2emdvvcPKBgIMCJkA4nzZa) | 3:28 |
 
-Snapshot ID: `AAAAAARxYlsrzjYA7Vomru8NyyMKUpYy`
+Snapshot ID: `AAAAAEU8yW3AxHOcvsgv5MnsZrXbGqmL`

@@ -951,6 +951,24 @@
     },
     {
       "album": {
+        "name": "Better Than Me",
+        "url": "https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz"
+      },
+      "artists": [
+        {
+          "name": "Knox",
+          "url": "https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175037,
+      "name": "Better Than Me",
+      "url": "https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG"
+    },
+    {
+      "album": {
         "name": "Title (10th Anniversary Edition)",
         "url": "https://open.spotify.com/album/4UAaN9ifmJueH9wBtuz2f4"
       },
@@ -4902,7 +4920,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 179763,
       "name": "My Vow",
       "url": "https://open.spotify.com/track/3uuqyt9nWfNbg0qLBdRgM3"
@@ -4992,7 +5010,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 168491,
       "name": "New Money",
       "url": "https://open.spotify.com/track/7xRu2TjEvemjtocQAJ3q84"
@@ -5549,6 +5567,24 @@
     },
     {
       "album": {
+        "name": "Perfect Man",
+        "url": "https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F"
+      },
+      "artists": [
+        {
+          "name": "Teddy Swims",
+          "url": "https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213690,
+      "name": "Perfect Man",
+      "url": "https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px"
+    },
+    {
+      "album": {
         "name": "Post Malone (feat. RANI) [Joe Stone Remix]",
         "url": "https://open.spotify.com/album/45nsubB5EsRVWWqx0ED1ET"
       },
@@ -5985,6 +6021,24 @@
     },
     {
       "album": {
+        "name": "Mule",
+        "url": "https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179054,
+      "name": "Run Out Of Road",
+      "url": "https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI"
+    },
+    {
+      "album": {
         "name": "Forgiven, Not Forgotten",
         "url": "https://open.spotify.com/album/4acB71ZhsfYGdTdqdbpzLK"
       },
@@ -6130,6 +6184,24 @@
       "duration_ms": 192173,
       "name": "Say My Name In Your Sleep",
       "url": "https://open.spotify.com/track/3eMo73vmAMBNGLH7k3L8U9"
+    },
+    {
+      "album": {
+        "name": "Secondhand Smoke",
+        "url": "https://open.spotify.com/album/1vZrOVzfi100ihpjPRSSsC"
+      },
+      "artists": [
+        {
+          "name": "Paige Fish",
+          "url": "https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202078,
+      "name": "Secondhand Smoke",
+      "url": "https://open.spotify.com/track/30l66ARYnwynjNlByPPbPj"
     },
     {
       "album": {
@@ -7794,7 +7866,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 226793,
       "name": "Weight Of It All",
       "url": "https://open.spotify.com/track/4f70TZP7p2NXanhp9ABOkc"
@@ -8152,7 +8224,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 288707,
       "name": "You're So Vain - Spotify Singles",
       "url": "https://open.spotify.com/track/7sSha1h81udZIjKJgnShkJ"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 
 > my alt/pop could mean anything ⚔️ cover: Wasia Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,730 likes - 80 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,731 likes - 80 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdfR43X3iEzK.md) - [plain]
 | 79 | [Black Cherry Liqueur](https://open.spotify.com/track/0FTqriqVRsDGT96kH6RfgC) | [Silver Gore](https://open.spotify.com/artist/5VrSyJDlKqvbpRaRBaA4o2) | [Black Cherry Liqueur](https://open.spotify.com/album/2mpS1n2hOWhO49xwxyNNq7) | 3:05 |
 | 80 | [buzzin](https://open.spotify.com/track/54GiqXZaERtafqRyrqRRfH) | [Chanpan](https://open.spotify.com/artist/1fWoiW6kTjrVDoRc4ba3kh) | [buzzin](https://open.spotify.com/album/1q5KduupT5hI0EKYA9rtyi) | 2:41 |
 
-Snapshot ID: `AAAAAIpGIcz3G2fkpI9hIAQ/IPSbqlXi`
+Snapshot ID: `AAAAANC9CcxzAxBMEG9wLN4iJrIW7jts`

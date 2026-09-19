@@ -4,7 +4,7 @@
 
 > Drift off to these peaceful classical melodies.
 
-261 songs - 12 hr 14 min
+263 songs - 12 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -26,6 +26,7 @@
 | [After Sky](https://open.spotify.com/track/7JWthkhacSL9OxUvQu0lRB) | [Drifreda](https://open.spotify.com/artist/6KvPFVsqQeAyZxp9MUUGTW) | [After Sky](https://open.spotify.com/album/2HIcAjp3OfgYbUWEjqiHV2) | 2:39 | 2025-08-05 |  |
 | [Afterlight](https://open.spotify.com/track/0X3mDFl8poPzyNQmrTe9fr) | [Arlo Thiem](https://open.spotify.com/artist/7eUaOSOuEptG91onQNFSCd) | [Afterlight](https://open.spotify.com/album/4dNFgryxb6P7wJDsdPaupX) | 3:20 | 2023-10-10 |  |
 | [Album for the Young, Op\. 39: No\. 3\. Mamma \(Maman\)](https://open.spotify.com/track/4GjfVYoUJ0OCmDiL869kUJ) | [Pyotr Ilyich Tchaikovsky](https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA), [Carol Rosenberger](https://open.spotify.com/artist/3lYDYx5OUgPVrVvFLCCRB7) | [Piano Recital: Rosenberger, Carol \- Kabalevsky, D\. / Tchaikovsky, P\. \(Perchance To Dream \- A Lullaby Album for Children and Adults\)](https://open.spotify.com/album/2wiv4F0IkUWwFkv453uEkT) | 1:33 | 2021-11-09 | 2023-10-25 |
+| [All the Hours](https://open.spotify.com/track/01Zljnm6u3puIQBGvz7djl) | [Henry Flower](https://open.spotify.com/artist/297mB3xOXz7lxYcIY6Ur5E) | [All the Hours](https://open.spotify.com/album/2KoDJ1JzWPLrAPLKOkUNb9) | 2:37 | 2026-09-18 |  |
 | [All We Shared](https://open.spotify.com/track/2VIqbLiw40FESThOqVcUtr) | [Laurent Wilks](https://open.spotify.com/artist/2jpGlziwuj9JAqH8kZXnes) | [All We Shared](https://open.spotify.com/album/37r4pHddFZxrafYpqPv7pl) | 2:04 | 2023-09-29 |  |
 | [All You Want](https://open.spotify.com/track/5hJYtuUAsHMnmRe1aogTfX) | [Gunnel Boek](https://open.spotify.com/artist/1o402msQD5tWRl4y5jnrvI) | [All You Want](https://open.spotify.com/album/4STwzDy8LTnUsA6AImZZy7) | 3:40 | 2024-03-11 |  |
 | [alysse blanc](https://open.spotify.com/track/5QLpYkglaMEzC6n189uPj3) | [Adrien Anviér](https://open.spotify.com/artist/0nqRJVX6wgTfAlvltxr3d8) | [alysse blanc](https://open.spotify.com/album/7Ggd7NDSbIx6tsq5kyr9gh) | 2:28 | 2025-11-26 |  |
@@ -254,6 +255,7 @@
 | [Veiled Remembrance](https://open.spotify.com/track/5ottoPWbTULvnKU5PSCysf) | [Mijongya](https://open.spotify.com/artist/7GPrD3dPYED5wENCMHirj7) | [Veiled Remembrance](https://open.spotify.com/album/6qwFoOfdmNmHT0aTrXBlzA) | 2:52 | 2024-07-23 |  |
 | [Viva Valeriana](https://open.spotify.com/track/4k8AC9xUl0o7JG7qlVQBZi) | [Anaëlle Mei](https://open.spotify.com/artist/109jb0FywTHrzudz9XfX4L) | [Viva Valeriana](https://open.spotify.com/album/5c8qEdjduemMVmUxuMKp8n) | 1:52 | 2023-02-28 | 2023-10-25 |
 | [Vuelta](https://open.spotify.com/track/0mPUDi1UgV7xvwMo31wYlR) | [Con Alma](https://open.spotify.com/artist/5PVx0aBQ2ebBVk09n1675G) | [Vuelta](https://open.spotify.com/album/71bxnh6ZfVRvmW6BpyXgiB) | 2:03 | 2024-09-13 |  |
+| [Véraison](https://open.spotify.com/track/5O1uC5BKuDD9Kfm4KAxsku) | [Silvenna](https://open.spotify.com/artist/0EpNnTSU5DHuYwSdMMRyfw) | [Véraison](https://open.spotify.com/album/7nf7iVj9lLkBM7V5LYvZJ1) | 2:28 | 2026-09-18 |  |
 | [Waiting For You](https://open.spotify.com/track/12fP6KSs4CyLE6MnVs2VLc) | [Lavendle](https://open.spotify.com/artist/4yJMaS2zuoK9RhQWzOE38u) | [Waiting For You](https://open.spotify.com/album/5wanR4vJ9jSXcD9MlN6XWc) | 2:27 | 2023-09-29 |  |
 | [Wake with me](https://open.spotify.com/track/4xTvAj3iYFWOoeaErsNwbj) | [Brian Lyndon](https://open.spotify.com/artist/1F24KoavEHiou99P9SlyBY) | [Wake with me](https://open.spotify.com/album/3L3SYoTKzulJPAhsVd0tXy) | 2:15 | 2023-09-29 | 2025-05-17 |
 | [Warm Embrace](https://open.spotify.com/track/2bVUyLxltPaSPhz9yaNbr4) | [MettaForm](https://open.spotify.com/artist/06gX9DtFjd1muCd2b4qfxq) | [Solar Cooling](https://open.spotify.com/album/5rHfIbbcc4xDiDGkbIfifX) | 1:50 | 2021-11-09 | 2023-10-25 |

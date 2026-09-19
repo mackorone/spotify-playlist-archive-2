@@ -4,7 +4,7 @@
 
 > Gentle instrumental covers of known songs.
 
-696 songs - 1 day 11 hr 22 min
+699 songs - 1 day 11 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -217,6 +217,7 @@
 | [From Both Sides Now](https://open.spotify.com/track/0y1QJXvmb5iRXd11JJf9Hi) | [Mats Tärnfors](https://open.spotify.com/artist/5PkNELD0DuzkqW2I7X0ND1) | [From Both Sides Now](https://open.spotify.com/album/7leRuOJAVfQIAPkVFBhEKz) | 4:12 | 2023-02-24 | 2025-10-25 |
 | [Frozen](https://open.spotify.com/track/0P6sZGgNjafAYt9mNLzmgC) | [Pia Nouvelle](https://open.spotify.com/artist/2uJNVfvvlpXghZQ2sNzVq9) | [Frozen](https://open.spotify.com/album/1wW9CUmaPYDnRnmt9E2eUV) | 3:30 | 2025-04-07 | 2026-03-05 |
 | [För Kärlekens Skull](https://open.spotify.com/track/4rCJlK3Uw8Cv80AZWaWQBO) | [Douglas Simmons](https://open.spotify.com/artist/165sed6LuybeRD22A8kzPS) | [För Kärlekens Skull](https://open.spotify.com/album/5SjcOhVGjH8apOCeajW8Yf) | 4:14 | 2023-01-20 | 2023-04-29 |
+| [Get Lucky](https://open.spotify.com/track/0CsUTj7OvYNffEuZT97lt9) | [Pacífico](https://open.spotify.com/artist/4AFuGqcgd6uJgd6UoP8J33) | [Get Lucky](https://open.spotify.com/album/2HivYg6oY5vPJyUiN6ITX8) | 3:26 | 2026-09-18 |  |
 | [Get Lucky](https://open.spotify.com/track/4CvzxUEgqlN2aHUQHDRnls) | [Troy Mair](https://open.spotify.com/artist/5veMU6D1o2oIb7fOcg5VAZ) | [Get Lucky](https://open.spotify.com/album/4WEgJcuTLcG5JlcvWA4OJC) | 2:47 | 2023-02-24 | 2023-06-16 |
 | [Ghost](https://open.spotify.com/track/7DCs0VpiINdXfpz8VgC4sD) | [Jennifer Toledo](https://open.spotify.com/artist/6r0yeyjdGpvfPhPVeaq877) | [Ghost](https://open.spotify.com/album/7Fq1BHzu1qsdmUsIGMrJU2) | 2:34 | 2023-11-17 | 2026-03-05 |
 | [Ghost Again](https://open.spotify.com/track/0dTy1UqD6BblPJtTFXVheS) | [Rita May](https://open.spotify.com/artist/7aHv2HgCuDTe3VU99UWkLm) | [Ghosts Again](https://open.spotify.com/album/6xTKawI8bmXF7IN23OQ1ym) | 4:10 | 2023-04-28 | 2026-03-05 |
@@ -297,6 +298,7 @@
 | [I Don't Want to Miss a Thing \- Piano](https://open.spotify.com/track/0pBBdDfWDIZQ3vYN3e67qB) | [The Bedtime Orchestra](https://open.spotify.com/artist/2YNrq9cmdroJa9v8kmKmsr) | [Relaxing Pop Piano Covers](https://open.spotify.com/album/1AaSKM9uuMtpckNIJQfhR4) | 2:42 | 2022-12-16 | 2023-04-12 |
 | [I Feel It Coming](https://open.spotify.com/track/32iww11xhYb12qU8rZTp7c) | [Steffi du Retz](https://open.spotify.com/artist/7COfBp7javjOBGr1ibVPA8) | [I Feel It Coming](https://open.spotify.com/album/4a3t6Fj5yIoQnRW0GSNXGQ) | 3:39 | 2023-01-06 | 2026-03-05 |
 | [I Just Might](https://open.spotify.com/track/6cUMicvOMvc2IO42Wxhiuz) | [Dustin Tomas](https://open.spotify.com/artist/2uflvyKj2mPIzddN3MEjLs) | [I Just Might](https://open.spotify.com/album/6XIKBq7AzpI4948ehDZdPK) | 3:14 | 2026-05-22 | 2026-06-12 |
+| [I Just Might](https://open.spotify.com/track/0dRbOLJ5fZB8qMugLGVTyI) | [Ted Morley](https://open.spotify.com/artist/7jH3CdvGPD8DW5AyiRKSiF) | [I Just Might](https://open.spotify.com/album/29hv4yLyHgn4e3dCnHKHhF) | 3:48 | 2026-09-18 |  |
 | [I Like Me Better](https://open.spotify.com/track/4STW1iP7o2MpsKzJqtFYPN) | [Jody Riley](https://open.spotify.com/artist/36ySKo3dExC8VT1j1quEr7) | [I Like Me Better](https://open.spotify.com/album/1ilNJ3bCe2jyKIAqjo9iIw) | 2:33 | 2022-09-30 | 2025-08-30 |
 | [I Love You So](https://open.spotify.com/track/6Pa9HUOaEaIIHMputOMIUw) | [Moelizi](https://open.spotify.com/artist/3Ai64gmUdBby8LEa6HRWEJ) | [I Love You So](https://open.spotify.com/album/4tgrB9xx23ZTp0piP2LUXz) | 3:05 | 2022-06-08 | 2022-12-02 |
 | [I Still Haven't Found What I'm Looking For \- Piano Version](https://open.spotify.com/track/4lPMv8xyxDTx2iLk9hwOHb) | [Figgy Malone](https://open.spotify.com/artist/0MeNDWmyEBS65fk2Vihetl) | [Piano Covers Part I](https://open.spotify.com/album/0WXTylU55NFcO4gLH2e4JP) | 3:45 | 2022-12-02 | 2025-08-30 |
@@ -412,6 +414,7 @@
 | [More Than Words](https://open.spotify.com/track/1L0jNfvlHUmlsZ9jZKQ16p) | [Elisa Couvez](https://open.spotify.com/artist/6wTOHmwrxnusgajauHkJ6s) | [More Than Words](https://open.spotify.com/album/47wXrjLN0MlwWwptEi1JHE) | 3:04 | 2022-10-14 | 2025-08-30 |
 | [Morning Has Broken](https://open.spotify.com/track/0jLoULVwUgZkrqNC7JlSeE) | [Noah Jacob](https://open.spotify.com/artist/4Z5swVp8qC7FbtzOkNaChH) | [Morning Has Broken](https://open.spotify.com/album/4VfjuDo8r7kVuyqQPN9fdG) | 2:55 | 2022-10-14 | 2025-08-30 |
 | [Moves Like Jagger](https://open.spotify.com/track/6zc8GnAqooH79uEs2kZmTb) | [Lukas Glenn](https://open.spotify.com/artist/5ynIpFDk091P5NvdaMsrEO) | [Moves Like Jagger](https://open.spotify.com/album/5m3fTHK0aSuD0OBFtxYCsi) | 2:55 | 2023-10-20 | 2026-01-28 |
+| [Mr\. Brightside](https://open.spotify.com/track/1dF7mnkuNz3uGt0euaXlSI) | [Velvet Touch](https://open.spotify.com/artist/2o3VOSLA8a9tPU0kfclKHM) | [Mr\. Brightside](https://open.spotify.com/album/4Nast8foamY4SwXdorFUaA) | 2:39 | 2026-09-18 |  |
 | [Murder On The Dancefloor](https://open.spotify.com/track/2l2WYibyPhizu9h3N0tWEy) | [Bea Westphal](https://open.spotify.com/artist/1WYKnoHGJ7nwH1S9SyZsYc) | [Murder On The Dancefloor](https://open.spotify.com/album/3Wqu2taru4mAkshnuMtXMn) | 3:07 | 2024-06-07 |  |
 | [My Favorite Things](https://open.spotify.com/track/29Z43s5cYYulFEkGJYMLkb) | [Thierry Marchal](https://open.spotify.com/artist/5AENpX9I8MY8ptOAihBszp) | [My Favorite Things](https://open.spotify.com/album/678aa3LRKcsZilzocaADh1) | 2:53 | 2023-01-06 | 2023-03-18 |
 | [my future](https://open.spotify.com/track/3tj775u3IAgXrMxxMqtG8k) | [Diana Juliet](https://open.spotify.com/artist/1BlPnxWt0crhcYDCPS8GeV) | [my future](https://open.spotify.com/album/7ELa0S1mF1IAk6uTAaYv34) | 3:33 | 2022-01-21 | 2023-03-25 |

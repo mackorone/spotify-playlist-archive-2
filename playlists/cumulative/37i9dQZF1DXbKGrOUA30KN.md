@@ -4,7 +4,7 @@
 
 > Deutschpop, der jetzt passiert\. Cover: Dani Lia, Yola
 
-748 songs - 1 day 9 hr 31 min
+748 songs - 1 day 9 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -632,7 +632,6 @@
 | [time flies](https://open.spotify.com/track/4V6dMONwHVfw8QfpSucNrt) | [PAMO](https://open.spotify.com/artist/7qf2XcdJFubvVknccluf2r) | [time flies](https://open.spotify.com/album/77qQwRE8towWv5I7T619Ib) | 2:21 | 2026-09-10 |  |
 | [TIPICO!](https://open.spotify.com/track/2SC0tWaxDDTZn1N3HNG1K1) | [Elias](https://open.spotify.com/artist/16YzSnyXMElA8gW0unulku) | [TIPICO!](https://open.spotify.com/album/7ydHkHaaiC8ZiryhzfegbV) | 2:11 | 2026-08-20 | 2026-09-04 |
 | [Tot](https://open.spotify.com/track/73ZDBpbxuy8CP45FKLrhPd) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Tot](https://open.spotify.com/album/1RJcxdAywbdvIpIvFFpySv) | 2:34 | 2026-01-29 | 2026-03-06 |
-| [Track 2](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 0:00 | 2026-09-17 |  |
 | [Traumfrau](https://open.spotify.com/track/2BKYVK54OCkOJW1FFP1gej) | [Sandra Hesch](https://open.spotify.com/artist/4Kmi9gtWqvt7AJU2m1SNsh) | [Traumfrau](https://open.spotify.com/album/4eDGUfOsDno1JYQ7lOzoj9) | 2:10 | 2026-02-26 | 2026-05-15 |
 | [Trust Issues](https://open.spotify.com/track/2OaqsMStA93iZPddnZuSHQ) | [ROTE MÜTZE RAPHI](https://open.spotify.com/artist/0jxy7TWRoSFqe4eucObq6L) | [Trust Issues](https://open.spotify.com/album/2yODdsTI20zYnM7QAHT7bh) | 2:36 | 2025-11-20 | 2025-12-12 |
 | [Träum weiter](https://open.spotify.com/track/0BZym7oJYCUx2782HG6VDF) | [SOPHIA](https://open.spotify.com/artist/45wdSLZd70phdDkxlA5D3v), [KAYEF](https://open.spotify.com/artist/4hXT6A14n901v8DU5Of337) | [Träum weiter](https://open.spotify.com/album/3cmL72jU4x8R1CU2jqtIpe) | 2:15 | 2025-10-24 | 2026-01-15 |
@@ -649,6 +648,7 @@
 | [Vanille](https://open.spotify.com/track/4hpDueXN35tk4bxr4AAhK5) | [LINA](https://open.spotify.com/artist/3YPpKFZGAT0O8SJca2Aaj8), [Dominik Hartz](https://open.spotify.com/artist/5UkjZuL8QQccOXbUWoREdI) | [Vanille](https://open.spotify.com/album/4xI7nGSjBBpBvAtf4tDdGa) | 2:10 | 2025-11-20 | 2026-01-16 |
 | [Vergess mich](https://open.spotify.com/track/04HDl2ePJwk5r7Txi23F0p) | [LYZA](https://open.spotify.com/artist/1GkuVWjCoLLzR2KwEp0zB4) | [Vergess mich](https://open.spotify.com/album/3ciVMnY3Yd3Y089p1uEs22) | 2:34 | 2025-10-24 | 2025-11-21 |
 | [Vergiss mich](https://open.spotify.com/track/6utpVvKzAozb1a93PzXUBD) | [Max Million](https://open.spotify.com/artist/4bSvQ0SdFWaeP2rKyvgYzF) | [Vergiss mich](https://open.spotify.com/album/6oiUBjbvIGVssKY1Ceta0a) | 2:04 | 2026-01-22 | 2026-02-13 |
+| [vergötter mich \(mit bürgermeisterin von wien\)](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 2:41 | 2026-09-17 |  |
 | [Verlieb dich nicht](https://open.spotify.com/track/17JghsEEdoSepywa7aMBAb) | [CIVO](https://open.spotify.com/artist/3pOnFT5MHIqIe9kcFCznZ8) | [Verlieb dich nicht](https://open.spotify.com/album/4PlAMPAytlCPFflTVvpud2) | 1:52 | 2026-08-06 |  |
 | [VERLIEBT IN MICH](https://open.spotify.com/track/1XZK1B904mtFv1Ze3Rgeg2) | [FAYAN](https://open.spotify.com/artist/3YTQuQvO2DwiO3AId4yjCF), [Dalton](https://open.spotify.com/artist/4ccC3e6gKs6Yp7rZ9oKQMk) | [VERLIEBT IN MICH](https://open.spotify.com/album/1mgjUkBHhJLQlrcxtC3QOX) | 2:09 | 2025-10-24 | 2026-02-27 |
 | [VERMISS DICH](https://open.spotify.com/track/4r6Aws9aiJdYpG4cS1vrJ1) | [CHRIS](https://open.spotify.com/artist/5KFGB68TTW3x2GFT8o00rL) | [VERMISS DICH](https://open.spotify.com/album/2Iv9uGJkD15qyUDhKxvVvh) | 2:08 | 2026-05-14 | 2026-06-26 |

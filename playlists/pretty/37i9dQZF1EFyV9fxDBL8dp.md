@@ -17,8 +17,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 7 | [Condores](https://open.spotify.com/track/4QojFkWSmU4kE12qKHBgHP) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/5OBYVNXKdfcXzIHx9ZZXSd) | 4:23 |
 | 8 | [Mentes Livres](https://open.spotify.com/track/1dPjpA9KSwimtpPpQ2c0KM) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 4:12 |
 | 9 | [Construção de Amor](https://open.spotify.com/track/7ka8otYQ42XaD1dYUuQEaj) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 3:30 |
-| 10 | [Música pra Despertar](https://open.spotify.com/track/1U9FYQkrYhgfhabhMwmaWa) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/5OBYVNXKdfcXzIHx9ZZXSd) | 3:11 |
-| 11 | [Majestade Imperial](https://open.spotify.com/track/5wvrt2gbmYTtis8tBGz3hn) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 4:45 |
+| 10 | [Majestade Imperial](https://open.spotify.com/track/5wvrt2gbmYTtis8tBGz3hn) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Vibrações Rasta](https://open.spotify.com/album/43hyg0VRQCxmHZTJGe777w) | 4:45 |
+| 11 | [Música pra Despertar](https://open.spotify.com/track/1U9FYQkrYhgfhabhMwmaWa) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/5OBYVNXKdfcXzIHx9ZZXSd) | 3:11 |
 | 12 | [Exército de Jah](https://open.spotify.com/track/5wDCq7A6jDbOARleOGcxeD) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Edição Comemorativa 15 Anos](https://open.spotify.com/album/5OBYVNXKdfcXzIHx9ZZXSd) | 5:05 |
 | 13 | [Bom Amigo](https://open.spotify.com/track/06lETLX1rlQZNv1j4EeiqF) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Quilombagem](https://open.spotify.com/album/6sBuYTZVabHAN4cP2a548C) | 3:31 |
 | 14 | [Sincronia \- Ao Vivo](https://open.spotify.com/track/4cZ04Yn2KcBIppr9ySiyjI) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Persevere \(Ao Vivo\)](https://open.spotify.com/album/603RWVLWjXNpzmIbg6if0X) | 5:35 |
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFyV9fxDBL8dp.md) - [plain]
 | 58 | [Vítima](https://open.spotify.com/track/3evRYeoBMqhJt3oDNojlps) | [Vibrações](https://open.spotify.com/artist/7BVAEbZsvTJ5ZGH87anDtT) | [Ciclo](https://open.spotify.com/album/4kMDELgRXW0vnMPwDQni6A) | 4:10 |
 | 59 | [Rasta Commander](https://open.spotify.com/track/5a6pFkwgYuw7SgJ2QanIJG) | [Luiz de Assis](https://open.spotify.com/artist/6GsSCLHySnPTdaS82mgMir), [Cedric Myton](https://open.spotify.com/artist/0WYnbwHtJwlgq4kZ8wv5Y3), [Átila Santana](https://open.spotify.com/artist/3xZplycz3ZHKYoIUM9wwnS) | [Rasta Commander](https://open.spotify.com/album/3aGP9FKhuvuqnbkUuFISnC) | 4:20 |
 
-Snapshot ID: `AcclJgAAAADgDnBScG81O/8F8sw4Jnyd`
+Snapshot ID: `AccqxgAAAAD9q5WGpSYRGuR90APrrXIp`

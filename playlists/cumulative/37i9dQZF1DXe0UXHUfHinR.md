@@ -4,7 +4,7 @@
 
 > The most popular Jazz tracks in one playlist\. Cover: Herbie Hancock
 
-874 songs - 2 day 22 hr 32 min
+875 songs - 2 day 22 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -453,7 +453,7 @@
 | [Let's Do It](https://open.spotify.com/track/1f1ybry2mOfAgP3qBFMiKc) | [Eartha Kitt](https://open.spotify.com/artist/1AwO9pWEBSBoWdEZu28XDC) | [That Bad Eartha](https://open.spotify.com/album/19ZUoDOWmYb59rG5p5WoSW) | 3:05 | 2022-10-27 | 2024-04-19 |
 | [Let's Fall In Love](https://open.spotify.com/track/4IVyX0UJzGyUk0MLiz1jVJ) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [When I Look In Your Eyes](https://open.spotify.com/album/6NqwpeiAjwYAppRNA7F3yD) | 4:18 | 2022-10-27 |  |
 | [Li'l Darlin' \- Live At The Tropicana Hotel, Las Vegas/1969](https://open.spotify.com/track/3oRx6kr2B2sLQWwKM3f7Ks) | [Count Basie](https://open.spotify.com/artist/2jFZlvIea42ZvcCw4OeEdA) | [Standing Ovation](https://open.spotify.com/album/4B3lvgh5PeEX2NMVch91F5) | 4:52 | 2024-03-20 |  |
-| [Light Blue](https://open.spotify.com/track/1aScbLgIXdvopADfbla929) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [All Blues \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c) | 6:44 | 2024-07-17 |  |
+| [Light Blue](https://open.spotify.com/track/1aScbLgIXdvopADfbla929) | [Ron Carter](https://open.spotify.com/artist/4wnzivx3OQ3vjrySAdTdJP) | [All Blues \(CTI Records 40th Anniversary Edition\)](https://open.spotify.com/album/5nEZ3hlaqqiQ9MQ4lFl16c) | 6:44 | 2024-07-17 | 2026-09-19 |
 | [Like It Is \- Remastered](https://open.spotify.com/track/23sTGlQIsLtAxKuJj9Ekrd) | [Yusef Lateef](https://open.spotify.com/artist/33XkS6h90eeK7e6OJHw0mq) | [The Blue Yusef Lateef](https://open.spotify.com/album/4dpXhQvZAzAbti2Xpccnat) | 7:32 | 2023-06-21 |  |
 | [Lil Darlin'](https://open.spotify.com/track/0jtpMDKSkMQ0WZ5e8l7iX4) | [Kai Winding](https://open.spotify.com/artist/1kYYk4lJ7ZWbyy3zDYOl6h) | [The Incredible Kai Winding Trombones](https://open.spotify.com/album/0SHrQNz88Wjkgups6vz1Rj) | 4:05 | 2022-10-27 |  |
 | [Lil' Darlin'](https://open.spotify.com/track/6G9gDSV2reYifOmD4cwUSf) | [Joe Pass](https://open.spotify.com/artist/4DuZTASH5eSyd0K73W6fuZ) | [Intercontinental](https://open.spotify.com/album/2zdmAZybFyUmIMPDok4y6A) | 3:44 | 2025-12-04 | 2026-06-16 |
@@ -635,6 +635,7 @@
 | [Seattle](https://open.spotify.com/track/7d5hzhh2eNOKOBgP4MteYX) | [Avishai Cohen](https://open.spotify.com/artist/5wu05jGsVMAFHYMYHqCB9l) | [Gently Disturbed](https://open.spotify.com/album/1YpYJkg18DHN92lVz9qcYC) | 2:50 | 2023-12-14 | 2024-01-18 |
 | [Seeker](https://open.spotify.com/track/51WozCH6KrpMsf6MSsftkD) | [Hiromi](https://open.spotify.com/artist/7DeuppKQdCVhuWrzzCBBpc), [Anthony Jackson](https://open.spotify.com/artist/4jSvNq6yedPhkC4p3zlznC), [Simon Phillips](https://open.spotify.com/artist/1OGCS507PQzgLappLg26AK) | [Alive](https://open.spotify.com/album/18L36uUa7xLegzjkvr10ev) | 7:25 | 2024-07-17 | 2026-07-15 |
 | [Senor Mouse](https://open.spotify.com/track/6linlPbVWEecMEMfNcul1e) | [Gary Burton](https://open.spotify.com/artist/4iovNkf44dsELmo3E7XSKX), [Chick Corea](https://open.spotify.com/artist/5olDKSsFhhmwh8UCWwKtpq) | [Crystal Silence](https://open.spotify.com/album/1bvhjpp45aO2i1d7kjbsjh) | 6:17 | 2022-10-27 | 2026-08-29 |
+| [September in the Rain](https://open.spotify.com/track/2qnw6oYuN4NAkJtG6g8UdU) | [Roy Hargrove](https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs), [Billy Higgins](https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs), [Antonio Hart](https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA), [Stephen Scott](https://open.spotify.com/artist/06kLNOGaO1lOeaUAUnFByH), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv) | [Public Eye](https://open.spotify.com/album/1eihzffGTVuLqxngyKA4a5) | 7:30 | 2025-12-04 |  |
 | [Serenade To A Soul Sister \- Remastered](https://open.spotify.com/track/1duGF26RKaTntfsJ0cTkzj) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Serenade To A Soul Sister](https://open.spotify.com/album/1gryuLyN2QvKQOpEPMTwBC) | 6:19 | 2024-03-20 | 2026-08-31 |
 | [Sicilyan Dream \(D’après Siciliano, BWV\. 1031 de Johann Sebastian Bach\)](https://open.spotify.com/track/22DgAcWnb50oKlv0F8eziW) | [Enrico Pieranunzi](https://open.spotify.com/artist/5vACdMa2kY7jHnlJwqYRKP), [André Ceccarelli](https://open.spotify.com/artist/77FgwKhxIPrET0QgGTn58K), [Diego Imbert](https://open.spotify.com/artist/0jdE0ynq5zcnMeAn9XutIX) | [Ménage à trois](https://open.spotify.com/album/55UQ7AQ6F88cmU7SEoVNaE) | 4:37 | 2024-07-17 |  |
 | [Sideways](https://open.spotify.com/track/5iSawMqnY9rgPkUHhSvyNT) | [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [Sideways](https://open.spotify.com/album/0nd4ki7GPhLrH5MjjdP7eP) | 4:51 | 2022-10-27 | 2025-04-22 |

@@ -1,12 +1,12 @@
 {
   "description": "Moody electronica for the night shift",
-  "num_followers": 2461,
+  "num_followers": 2465,
   "original_name": "Night Shift",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHYbOXXZhPoBnHPmh3s+wgXyHAqh",
+  "snapshot_id": "AAAAANc5KB4pBvRhIisK3Ej0w9saefoc",
   "tracks": [
     {
       "added_at": "2023-08-31 14:00:00",
@@ -91,22 +91,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Good Lies",
-        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
-      },
-      "artists": [
-        {
-          "name": "Overmono",
-          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
-        }
-      ],
-      "duration_ms": 312029,
-      "name": "Skulled",
-      "url": "https://open.spotify.com/track/74zH3oGg6qcrm58X7Q1cjw"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Interior",
         "url": "https://open.spotify.com/album/4xg4jgWhwTgULqHiIdDbML"
       },
@@ -119,6 +103,22 @@
       "duration_ms": 228734,
       "name": "Interior - Edit",
       "url": "https://open.spotify.com/track/0lITcp6BtydURi2OqWQffZ"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Good Lies",
+        "url": "https://open.spotify.com/album/7m2yEFYxnjmEyq7IXa9sXp"
+      },
+      "artists": [
+        {
+          "name": "Overmono",
+          "url": "https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3"
+        }
+      ],
+      "duration_ms": 312029,
+      "name": "Skulled",
+      "url": "https://open.spotify.com/track/74zH3oGg6qcrm58X7Q1cjw"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -303,22 +303,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "do you feel it too?",
-        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
-      },
-      "artists": [
-        {
-          "name": "Seb Wildblood",
-          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
-        }
-      ],
-      "duration_ms": 308623,
-      "name": "by the reservoir",
-      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Take Me Home",
         "url": "https://open.spotify.com/album/5DSIVfyY6Ju3uoUJ68Jcck"
       },
@@ -331,6 +315,22 @@
       "duration_ms": 270271,
       "name": "Take Me Home",
       "url": "https://open.spotify.com/track/7COWdD8bEaTJJtc1MlZEG3"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "do you feel it too?",
+        "url": "https://open.spotify.com/album/3BrTI93IecTgOSLqyn4SId"
+      },
+      "artists": [
+        {
+          "name": "Seb Wildblood",
+          "url": "https://open.spotify.com/artist/51Rlwvwkj8L3zakIRr6dUV"
+        }
+      ],
+      "duration_ms": 308623,
+      "name": "by the reservoir",
+      "url": "https://open.spotify.com/track/2KTzvg9BdiO9ss0kiZzBe1"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -383,6 +383,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "MY DEAR",
+        "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
+      },
+      "artists": [
+        {
+          "name": "DJ Koze",
+          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
+        }
+      ],
+      "duration_ms": 343332,
+      "name": "Blissda",
+      "url": "https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Keep On",
         "url": "https://open.spotify.com/album/1H43fXF8GpLEXaWk2raqxO"
       },
@@ -403,22 +419,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "MY DEAR",
-        "url": "https://open.spotify.com/album/7M6tHZFOENnFOzFeeUokS1"
-      },
-      "artists": [
-        {
-          "name": "DJ Koze",
-          "url": "https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg"
-        }
-      ],
-      "duration_ms": 343332,
-      "name": "Blissda",
-      "url": "https://open.spotify.com/track/6cOie6oyMHzoVHLmpLfHN4"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "You Need Somebody",
         "url": "https://open.spotify.com/album/4oSnGMfEK0NCZlTLsFDtdi"
       },
@@ -431,22 +431,6 @@
       "duration_ms": 200830,
       "name": "You Need Somebody",
       "url": "https://open.spotify.com/track/3MOOLHyOlR0lzcTwoXSci8"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Cold",
-        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
-      },
-      "artists": [
-        {
-          "name": "George FitzGerald",
-          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
-        }
-      ],
-      "duration_ms": 282349,
-      "name": "Cold",
-      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -467,6 +451,22 @@
       "duration_ms": 292987,
       "name": "Halcyon & On - Logic1000 Mix",
       "url": "https://open.spotify.com/track/7aXyBkjhsB5sitA3kEINo9"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Cold",
+        "url": "https://open.spotify.com/album/0osdfKk3BLKntTr04VYvlo"
+      },
+      "artists": [
+        {
+          "name": "George FitzGerald",
+          "url": "https://open.spotify.com/artist/3KOHpygRuo1ruQAbEneR3t"
+        }
+      ],
+      "duration_ms": 282349,
+      "name": "Cold",
+      "url": "https://open.spotify.com/track/7sIPjaEIz3puBvD9eLlSWs"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -507,22 +507,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Basic Instinct",
-        "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
-      },
-      "artists": [
-        {
-          "name": "Session Victim",
-          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
-        }
-      ],
-      "duration_ms": 284477,
-      "name": "SFC - Hommage Mix",
-      "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Wall Of Sleep",
         "url": "https://open.spotify.com/album/72YJcxGTWSbRYRqRzCYdVV"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 287198,
       "name": "Wall of Sleep",
       "url": "https://open.spotify.com/track/1KaS7bkSH7jPsz2tch2ZQ7"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
+        "name": "Basic Instinct",
+        "url": "https://open.spotify.com/album/22xLqkwE6w0lHo7wERFM8q"
+      },
+      "artists": [
+        {
+          "name": "Session Victim",
+          "url": "https://open.spotify.com/artist/4Hl6TEQAFgH0XrZq4f8okX"
+        }
+      ],
+      "duration_ms": 284477,
+      "name": "SFC - Hommage Mix",
+      "url": "https://open.spotify.com/track/7tKPryPVYvvkFFG1T88XXt"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -607,6 +607,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Poly 61",
+        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
+      },
+      "artists": [
+        {
+          "name": "Liam Mour",
+          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
+        }
+      ],
+      "duration_ms": 273300,
+      "name": "Poly 61",
+      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "In Response",
         "url": "https://open.spotify.com/album/3T7fD9JJOdbaCjS7rj1aVa"
       },
@@ -623,22 +639,6 @@
       "duration_ms": 214920,
       "name": "In Response",
       "url": "https://open.spotify.com/track/2Twprkt2frZEbhG3ADc3BF"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "Poly 61",
-        "url": "https://open.spotify.com/album/4QtJHCnRvyffr6Jx34K68H"
-      },
-      "artists": [
-        {
-          "name": "Liam Mour",
-          "url": "https://open.spotify.com/artist/5XaT1otgH5hpyqjkDbt8d0"
-        }
-      ],
-      "duration_ms": 273300,
-      "name": "Poly 61",
-      "url": "https://open.spotify.com/track/504mdqIfWU65Ar6ePzsZJU"
     },
     {
       "added_at": "2023-08-31 14:00:00",
@@ -755,22 +755,6 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
-        "name": "Fortune Teller",
-        "url": "https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5"
-      },
-      "artists": [
-        {
-          "name": "Polito",
-          "url": "https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO"
-        }
-      ],
-      "duration_ms": 220743,
-      "name": "Fortune Teller",
-      "url": "https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
         "name": "Mercury Remixes",
         "url": "https://open.spotify.com/album/4dgG6jfRwyZyDLtB8F2yVZ"
       },
@@ -791,6 +775,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "BOY / if u wanna cry",
+        "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
+      },
+      "artists": [
+        {
+          "name": "Ryan Hemsworth",
+          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
+        }
+      ],
+      "duration_ms": 183204,
+      "name": "BOY",
+      "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "ENCLOSURE",
         "url": "https://open.spotify.com/album/1hcGDnuOuufMcUn2QfmrQ0"
       },
@@ -807,6 +807,22 @@
     {
       "added_at": "2023-08-31 14:00:00",
       "album": {
+        "name": "Fortune Teller",
+        "url": "https://open.spotify.com/album/1bjM2LT6B6EUC95d01mqJ5"
+      },
+      "artists": [
+        {
+          "name": "Polito",
+          "url": "https://open.spotify.com/artist/6O6fqsTlbgAkpge0oKhATO"
+        }
+      ],
+      "duration_ms": 220743,
+      "name": "Fortune Teller",
+      "url": "https://open.spotify.com/track/3a6nQetpY79GE7nkqXKyVC"
+    },
+    {
+      "added_at": "2023-08-31 14:00:00",
+      "album": {
         "name": "Coasting",
         "url": "https://open.spotify.com/album/54DYqYdimIsZdIvxzQEtAJ"
       },
@@ -819,22 +835,6 @@
       "duration_ms": 243692,
       "name": "Coasting",
       "url": "https://open.spotify.com/track/4GH858YJvWQnMrJULGEDxR"
-    },
-    {
-      "added_at": "2023-08-31 14:00:00",
-      "album": {
-        "name": "BOY / if u wanna cry",
-        "url": "https://open.spotify.com/album/79Wtz0l5ubAbkzlRJOk2Ie"
-      },
-      "artists": [
-        {
-          "name": "Ryan Hemsworth",
-          "url": "https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9"
-        }
-      ],
-      "duration_ms": 183204,
-      "name": "BOY",
-      "url": "https://open.spotify.com/track/6Q3z3LmFRjPTBFaLCbsHOd"
     }
   ],
   "unique_name": "Night Shift",

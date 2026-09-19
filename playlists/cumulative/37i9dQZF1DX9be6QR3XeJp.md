@@ -2,9 +2,9 @@
 
 ### [RADAR UK & Ireland](https://open.spotify.com/playlist/37i9dQZF1DX9be6QR3XeJp)
 
-> Discover your new favourite artists from UK&IE\. Cover: Dermot Henry
+> Discover your new favourite artists from UK&IE\. Cover: Pocket
 
-373 songs - 19 hr 59 min
+374 songs - 20 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -355,6 +355,7 @@
 | [TRUTH](https://open.spotify.com/track/4C9BuBuYgYlOvLh6QzMpqb) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [TRUTH](https://open.spotify.com/album/514vLGRIoCZV3WFoo61QIl) | 2:03 | 2025-06-26 |  |
 | [Use You](https://open.spotify.com/track/7LHdg8zRyjdwiV2RpBKL8x) | [AWA](https://open.spotify.com/artist/0dR988NNn8lrFhXTOxyJfZ) | [cry.baby](https://open.spotify.com/album/4cPb0Ej857PhMEXh0YmrCM) | 2:54 | 2022-02-18 |  |
 | [Void](https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu) | [Kaleem Taylor](https://open.spotify.com/artist/4eQKo2fvEqEbdopHhSjlug) | [Ember](https://open.spotify.com/album/4TdkbM2pBTKg4mKppswtyN) | 3:16 | 2023-03-24 |  |
+| [WAITING FOR YOU](https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE) | [Pocket](https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo) | [LOST DISC](https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A) | 3:38 | 2026-09-18 |  |
 | [Walter White](https://open.spotify.com/track/1htbje7tSIZTXgEKpqKr4Q) | [Junior Simba](https://open.spotify.com/artist/0Tr6RBtxQ5DzImZISTfSKn), [Manz](https://open.spotify.com/artist/737If524ZtvW15VK4u5q1e) | [Walter White](https://open.spotify.com/album/19rcS3uaCIqEzFXfS94kTn) | 3:25 | 2026-07-02 |  |
 | [Wanna Chill Baby?](https://open.spotify.com/track/1OYgZHegbK7PS1WwWeWOa1) | [G!ft](https://open.spotify.com/artist/5dmyNQ4NmCkkV6Ilf9l7Xm) | [Wanna Chill Baby?](https://open.spotify.com/album/1624ryqTdABHLSmeOMHMsy) | 1:56 | 2023-04-13 |  |
 | [war outside](https://open.spotify.com/track/7IXCfadpx5y8O37WojfLUp) | [Kamal.](https://open.spotify.com/artist/2gIHyzlzKxntjQWf8xAGaI) | [war outside](https://open.spotify.com/album/2NIWgo6xKR6YbWt0xfKw0z) | 3:06 | 2022-02-18 |  |

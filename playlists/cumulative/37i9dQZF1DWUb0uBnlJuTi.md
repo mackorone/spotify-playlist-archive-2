@@ -4,7 +4,7 @@
 
 > Jazz, but make it funky\. Cover: Skinny Hightower
 
-462 songs - 1 day 11 hr 5 min
+463 songs - 1 day 11 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Can't Make It with Your Brain](https://open.spotify.com/track/5kaBvDFliuVJE8zy9BjVtb) | [Kurt Elling](https://open.spotify.com/artist/1UhC1mCcd9SFXLibHhMX61), [Charlie Hunter](https://open.spotify.com/artist/0si9BxvM2C33fAIkr1pgUc) | [Can't Make It with Your Brain](https://open.spotify.com/album/1IbOBwX1JllNtalRMRZd2Y) | 5:49 | 2021-09-10 | 2022-07-29 |
 | [Capture This](https://open.spotify.com/track/1TVnApmkJFqFLN77oI9X3z) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Capture This](https://open.spotify.com/album/2ukCIXlfWg8W0nSCWhNpiV) | 3:45 | 2022-04-01 |  |
 | [Capture This](https://open.spotify.com/track/6qGx9ikckPPtDbD9L3gdmq) | [Gianni Brezzo](https://open.spotify.com/artist/3JJR0ExBP5G8uyhcViM14W) | [Tutto Passa](https://open.spotify.com/album/1OGUuP0QHICwXrX8GtNp4y) | 3:45 | 2022-04-01 | 2024-04-19 |
+| [Carter's Boogaloo](https://open.spotify.com/track/7MfWFfodAL0NXjLZCOAqVr) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Carter Arrington](https://open.spotify.com/artist/33QeDPfeSWWQSZmbUC15Ly), [Nigel Price](https://open.spotify.com/artist/4rkjXYN63ih8p2sfS6By5z) | [Carter's Boogaloo](https://open.spotify.com/album/12KNDnrTFY1soo4kY0lUm5) | 5:56 | 2026-09-18 |  |
 | [CATS GROOVE](https://open.spotify.com/track/6UY4Eml6zaSVZpjbuhBQAk) | [Kaelin Ellis](https://open.spotify.com/artist/0QalUUx2C9F1PGbfQVcHAd), [Tony Rosenberg](https://open.spotify.com/artist/7vXgs3BMJ1MWJU2HBjtKxh) | [THE FUNK WILL PREVAIL](https://open.spotify.com/album/4ZEbJk4ytV7Y9BAJm7pqqd) | 1:31 | 2022-04-01 | 2025-02-08 |
 | [Celestial Blues](https://open.spotify.com/track/0YEZzOR61QvNc6w8SUFLcg) | [Gary Bartz Ntu Troop](https://open.spotify.com/artist/1vaNGxPiwE1mrIZvU7fOSN) | [Harlem Bush Music \- Uhuru](https://open.spotify.com/album/031Ay5otjVJvC6OLAkT23D) | 7:36 | 2020-10-09 |  |
 | [Chain Reaction](https://open.spotify.com/track/0srUKiOtd4K2GmAETtqRDQ) | [Skinny Hightower](https://open.spotify.com/artist/0rfUpMmPFYv5s0dF6hyYrx) | [Chain Reaction](https://open.spotify.com/album/1vwmnBEUOKa04GmwDA61jE) | 8:07 | 2026-05-01 |  |
@@ -209,7 +210,7 @@
 | [Lions Walk](https://open.spotify.com/track/1IjEo2Er7st6ML2DaOQxYU) | [Doug Carn](https://open.spotify.com/artist/1PWbiGBEBaiLJI0Lvhnoha), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd) | [Lions Walk](https://open.spotify.com/album/4mE1hbSNlBouxBZpX0EOoX) | 4:19 | 2020-11-27 | 2022-07-23 |
 | [Little Miss Lover \(feat\. Gary Bartz & The Greyboy Allstars\)](https://open.spotify.com/track/6FLdgbIPkk1uTJLxHNxHtm) | [Robert Walter](https://open.spotify.com/artist/4vqJywDSqxaNITMBlTRGER), [Gary Bartz](https://open.spotify.com/artist/5ArqvMflDEhxdqW8sBBQUQ), [The Greyboy Allstars](https://open.spotify.com/artist/3G8x1XQX8nCXYouEfMrP07) | [Spirit of '70](https://open.spotify.com/album/7h3Pf3Yl1D7O4yggm5GuTk) | 4:17 | 2021-05-07 |  |
 | [Little Walter Rides Again](https://open.spotify.com/track/2fB7lE3uEUqXrV36jOSVYY) | [Medeski Scofield Martin & Wood](https://open.spotify.com/artist/4QlI67Mg3LbNH3VBcExNr4) | [Out Louder](https://open.spotify.com/album/6CpU9BxpWBTXuD59ngzPBl) | 3:53 | 2020-10-09 | 2023-04-15 |
-| [Live Your Best Dream](https://open.spotify.com/track/57Nud2GW7rZK6IGDqwOQuA) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Carter Arrington](https://open.spotify.com/artist/33QeDPfeSWWQSZmbUC15Ly) | [Live Your Best Dream](https://open.spotify.com/album/3hIu9BJQTZAtWlYNdJwXDn) | 4:40 | 2024-05-24 |  |
+| [Live Your Best Dream](https://open.spotify.com/track/57Nud2GW7rZK6IGDqwOQuA) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Carter Arrington](https://open.spotify.com/artist/33QeDPfeSWWQSZmbUC15Ly) | [Live Your Best Dream](https://open.spotify.com/album/3hIu9BJQTZAtWlYNdJwXDn) | 4:40 | 2024-05-24 | 2026-09-19 |
 | [Local Reptile Convention](https://open.spotify.com/track/5mcq01EGzFTFvuHMUpn3Fj) | [PRNDL](https://open.spotify.com/artist/7lSHLl0pD4rZ1vrBZ0yVPU), [Sam.ro.chelle](https://open.spotify.com/artist/7cGnvFkneRjpP65YbPvmDw) | [Local Reptile Convention](https://open.spotify.com/album/1JVRkKMuPNn4YkXiC2YZ55) | 3:01 | 2024-03-15 |  |
 | [London 1969](https://open.spotify.com/track/3nQvNXKbgLPcuZ3cLTZiJ7) | [Otis McDonald](https://open.spotify.com/artist/4Ps1M3A9ck9G3gbPjllg7T) | [London 1969](https://open.spotify.com/album/3YqvadIdZczYILvNKJN2IZ) | 2:26 | 2022-10-29 | 2023-05-20 |
 | [London Town](https://open.spotify.com/track/7736PM8iVs3GL5J1Ob6X9W) | [Light Of The World](https://open.spotify.com/artist/5F0l2aNAlrwOR2QwiUktJ3) | [The Best of the Light of the World](https://open.spotify.com/album/1mKPx8kdnrxvfDqut3rsP4) | 4:31 | 2020-10-09 | 2024-04-19 |

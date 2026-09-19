@@ -2,9 +2,9 @@
 
 ### [Folk Pop](https://open.spotify.com/playlist/37i9dQZF1DWXJyjYpHunCf)
 
-> The best of folk\-infused pop and singer\-songwriter\. Cover: Phillip Phillips
+> The best of folk\-infused pop and singer\-songwriter\. Cover: Cassandra Coleman
 
-636 songs - 1 day 11 hr 53 min
+640 songs - 1 day 12 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -166,6 +166,7 @@
 | [Either](https://open.spotify.com/track/2eXRgdwREO1B8jt5k2n2cW) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Either](https://open.spotify.com/album/7m0ZMDJ3lqepjUQJ2KpwsQ) | 3:10 | 2025-07-18 | 2026-09-05 |
 | [Eloise](https://open.spotify.com/track/3XnDbrxxtA40HPIIRWLgRT) | [Penny and Sparrow](https://open.spotify.com/artist/65o6y7GtoXzchyiJB3r9Ur) | [Finch](https://open.spotify.com/album/0ixOUcKraH7Y3tIV1MGoRo) | 2:48 | 2021-11-12 | 2024-03-30 |
 | [Embers](https://open.spotify.com/track/5narWdetexXv1ucBDuZJfO) | [The Brevet](https://open.spotify.com/artist/6tK77FerjTNLS5EEhI0zGM) | [E M B E R S: Ch\. 2](https://open.spotify.com/album/0HzOvrhMs78v5rqBqhXLCD) | 3:10 | 2021-11-12 | 2022-07-21 |
+| [End Of Your Love](https://open.spotify.com/track/5pXwBJIXdskly7dogEQUKw) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [End Of Your Love](https://open.spotify.com/album/0boQbM2Y1UuPVNyhDTRvjD) | 4:10 | 2026-09-18 |  |
 | [Enjoy the view](https://open.spotify.com/track/6WDHGgsxiB2YQIib7kcmRf) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Enjoy the view](https://open.spotify.com/album/1MYDttHKjrYFTc8G9DYeYy) | 2:32 | 2024-07-12 | 2024-10-19 |
 | [Evangeline](https://open.spotify.com/track/3lGPy4laQ3s4lT1pRXKmFC) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Evangeline](https://open.spotify.com/album/7JfCmXc5Fo8GkFdWjqSexN) | 2:57 | 2023-01-27 | 2025-01-11 |
 | [Even If You Are Not Mine](https://open.spotify.com/track/6IenqsSKtJLesI3w0oJZZz) | [Briston Maroney](https://open.spotify.com/artist/7vtSUU3zpHeYJfX6BPNrJd) | [Even If You Are Not Mine](https://open.spotify.com/album/1Wr8RS4Iu2AohhXV3PVGaT) | 3:59 | 2026-08-21 |  |
@@ -222,8 +223,8 @@
 | [Gold](https://open.spotify.com/track/3hZo9UznjcWfJ9vkOho6Ea) | [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [A Minute, A Moment...](https://open.spotify.com/album/02Im7TTPFgjVmXc3HpIkUj) | 2:44 | 2025-05-23 | 2026-05-09 |
 | [Golden Hour](https://open.spotify.com/track/28vZIcjA9gDI7BYZnwDzNm) | [Andrey Azizov](https://open.spotify.com/artist/2hGxtbozs9MLpSHE11XOOC), [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [Golden Hour](https://open.spotify.com/album/01j4hEadyEaX40YCjQXvMR) | 2:49 | 2023-08-25 | 2023-09-02 |
 | [Good At Leaving](https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Is This Heaven? \(Extended\)](https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK) | 2:49 | 2026-07-03 |  |
-| [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 | 2025-09-19 |  |
-| [Good Grief](https://open.spotify.com/track/1XJiPT4CuzLju0dLeEA559) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Good Grief](https://open.spotify.com/album/4W3taFGD605teSYbVv4rfu) | 3:35 | 2025-08-15 |  |
+| [Good Boy](https://open.spotify.com/track/0zGedcOInQVyGKVPShTn2s) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Good Boy](https://open.spotify.com/album/58lXi5oqRNfrDXK2xi1NEF) | 3:42 | 2025-09-19 | 2026-09-19 |
+| [Good Grief](https://open.spotify.com/track/1XJiPT4CuzLju0dLeEA559) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Good Grief](https://open.spotify.com/album/4W3taFGD605teSYbVv4rfu) | 3:35 | 2025-08-15 | 2026-09-19 |
 | [Good Riddance](https://open.spotify.com/track/4psl72FmlFg9y711X88aEL) | [Lily Fitts](https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N) | [Good Riddance](https://open.spotify.com/album/75BeAq4oBNfn6g3zN8lwfE) | 3:17 | 2025-05-30 | 2026-08-28 |
 | [Good Times](https://open.spotify.com/track/0C9uaJt51ytJgwiZpRYyGM) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Half Moon Light](https://open.spotify.com/album/6jqJNgfl234UYEWeP3iRF1) | 3:49 | 2021-11-12 | 2023-08-10 |
 | [Good To Be](https://open.spotify.com/track/0rdGHLnsyAdnLcO4rz5sMK) | [Mark Ambor](https://open.spotify.com/artist/11p2E654TTU8e0nZWBR4AL) | [Good To Be](https://open.spotify.com/album/6lVzd7PgdTCzmN8P9rOA0o) | 2:27 | 2024-03-04 | 2024-03-30 |
@@ -437,7 +438,7 @@
 | [Rabies](https://open.spotify.com/track/4bb4b8LxkX5HpUU9THfBQQ) | [Baby Bugs](https://open.spotify.com/artist/3TBTcHpZ3aV1g8rk8i1zb5), [Black Polish](https://open.spotify.com/artist/68uS7D9Jp3BsuUEOOqQ9oP) | [Rabies](https://open.spotify.com/album/5tfVxiVnjr3e6a5jgBKqKq) | 3:32 | 2026-07-31 |  |
 | [radio tower](https://open.spotify.com/track/1rIrGL2KRBhIE4FEX2IawH) | [asiris](https://open.spotify.com/artist/4YFxglwXwymzvkPYndX3G2) | [san marino](https://open.spotify.com/album/64FhCcwZeQHckx4Dug0Et4) | 3:08 | 2024-11-22 | 2025-03-15 |
 | [rain](https://open.spotify.com/track/3X7bED3gYbZlSPDWOFphnp) | [mxmtoon](https://open.spotify.com/artist/0HthCchcL0kVLHTr113Vk1) | [rain](https://open.spotify.com/album/2yxznO5r7m2ut3HjKvgyNA) | 4:14 | 2024-10-11 | 2026-04-04 |
-| [Ready to Let You Down](https://open.spotify.com/track/4SEbW0shz7Q7yN3qrEDoQM) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Ready to Let You Down](https://open.spotify.com/album/3tkB4oJJ3ENFQMDjflYIBu) | 3:04 | 2025-09-19 |  |
+| [Ready to Let You Down](https://open.spotify.com/track/4SEbW0shz7Q7yN3qrEDoQM) | [JOSEPH](https://open.spotify.com/artist/5Wfvw7rDz7HA6gE2z6QhqO) | [Ready to Let You Down](https://open.spotify.com/album/3tkB4oJJ3ENFQMDjflYIBu) | 3:04 | 2025-09-19 | 2026-09-19 |
 | [Rearview](https://open.spotify.com/track/3iE4Jss20H7mJm1Zw8TAkN) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [Rearview](https://open.spotify.com/album/5wVWj2Nwq93ucLX10IqFyV) | 3:51 | 2023-09-29 | 2025-07-05 |
 | [Rearview](https://open.spotify.com/track/62WbDgGyCki73Ec2Reuvze) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [County Line](https://open.spotify.com/album/3XRx8517824ujZ6kFbo5vv) | 3:51 | 2024-03-29 | 2024-04-19 |
 | [Regretter](https://open.spotify.com/track/66wXwbAyFAB0O0sHRpjkX1) | [Noah Levine](https://open.spotify.com/artist/4aOb13B7cfQem9IbDvSNdz) | [Leaver](https://open.spotify.com/album/0B2nJVXaVM23uex5TgnS17) | 3:14 | 2026-06-12 |  |
@@ -516,7 +517,7 @@
 | [Take A Drink](https://open.spotify.com/track/2rclzl0GGH1bDM3pP34NWm) | [Abigail Osborn](https://open.spotify.com/artist/5gv5fvzy1TWJmDj7jyMiLO) | [Take A Drink](https://open.spotify.com/album/7jMnT6irYdrAb1APfm2LcN) | 2:57 | 2026-07-03 |  |
 | [Take a trip](https://open.spotify.com/track/2lc22De7oWxlAj5Dm3JDy4) | [Henrik](https://open.spotify.com/artist/7osFcSwjlRPwxZdVALIOuC) | [Take a trip](https://open.spotify.com/album/0K6gjjwKxkwlwBWHOfYxMB) | 2:27 | 2025-03-14 | 2026-05-02 |
 | [Take Me Back](https://open.spotify.com/track/20CsvBiCnAAa6cKmnjCsUN) | [Eli Wilson](https://open.spotify.com/artist/5oQxK0KlCYoKZg8wS5Pm0p) | [Take Me Back](https://open.spotify.com/album/6xN9RBL6ihLkXnfVdhejzX) | 2:53 | 2024-06-28 | 2025-08-16 |
-| [TALK ABOUT IT](https://open.spotify.com/track/5thXit7SfvatSSoRbks4DX) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [HEARTLAND : PART I](https://open.spotify.com/album/4DTMQjooZcqq7rXrYmywo6) | 3:38 | 2025-07-04 |  |
+| [TALK ABOUT IT](https://open.spotify.com/track/5thXit7SfvatSSoRbks4DX) | [MORGXN](https://open.spotify.com/artist/034u8Qcs47NHkRQXaWkLXW), [Katie Pruitt](https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s) | [HEARTLAND : PART I](https://open.spotify.com/album/4DTMQjooZcqq7rXrYmywo6) | 3:38 | 2025-07-04 | 2026-09-19 |
 | [Talkin' About Jesus](https://open.spotify.com/track/0xJeEbuxxGvpcoBsG335LS) | [Jonah Kagen](https://open.spotify.com/artist/5KsRA81UaMVKvLNiwDySfp) | [Talkin' About Jesus](https://open.spotify.com/album/4oCw0RruILxxANId1k4Zq4) | 2:58 | 2026-02-20 |  |
 | [Ten Steps Back](https://open.spotify.com/track/2isLKMPLn2TziEALHXsruK) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/3VGWawHYkkcHTBftEfD5Ev) | 3:27 | 2022-03-12 | 2022-10-15 |
 | [Ten Steps Back](https://open.spotify.com/track/2lBi4wDhV3TQZOWIcHfq62) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [This Time I See It](https://open.spotify.com/album/5GKghelnfdwT1Xnzc4RF2O) | 3:27 | 2021-11-12 | 2022-07-29 |
@@ -529,6 +530,7 @@
 | [The Great Divide](https://open.spotify.com/track/77zqs8ucHCSk5jh9TYec4b) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/1VfncK0Rpng2xCmfkKfO7N) | 5:17 | 2026-02-06 | 2026-06-13 |
 | [The Hand](https://open.spotify.com/track/5W9YtUsoXA547TTPJUXvns) | [Annabelle Dinda](https://open.spotify.com/artist/4iS7gVZUawLaXYADeRZL36) | [The Hand](https://open.spotify.com/album/1fU8gr2wjoHd2Q71JeUTtx) | 3:10 | 2025-11-07 |  |
 | [The Hunt](https://open.spotify.com/track/1WPDc6h6igXcZMZn5zjjfq) | [River Whyless](https://open.spotify.com/artist/7gRGh8w4G9zaFJSaIYp8HH) | [The Hunt](https://open.spotify.com/album/0yVQpUiw9Zwc8magSmNf7h) | 3:22 | 2021-11-12 | 2024-02-07 |
+| [The Late Show](https://open.spotify.com/track/2lDIKBnTJJWB66Hn0aouHG) | [Evan Honer](https://open.spotify.com/artist/1GERDglQrxe4ynLzcdG6qP) | [The Late Show](https://open.spotify.com/album/5B8dcN7FeNf1050hUs28gM) | 3:06 | 2026-09-18 |  |
 | [THE LOWS](https://open.spotify.com/track/79mpJRScxPAmlIXqGhb70I) | [Caleb Hearn](https://open.spotify.com/artist/0EiNdCUwM4B5GkTInLAyuj) | [THE LOWS](https://open.spotify.com/album/1TrL87Zds3BQz7cnullLL1) | 3:10 | 2025-05-23 | 2026-08-28 |
 | [The Mountain Is You](https://open.spotify.com/track/6IiAEnXYsSD5De5M502OBa) | [Chance Peña](https://open.spotify.com/artist/4lhUHpVOXmkEBGGHV71QCh) | [The Mountain Is You](https://open.spotify.com/album/4JI3u1wRGAu5H4CB5NFyBS) | 3:16 | 2024-04-12 | 2025-02-01 |
 | [The Only Thing Left](https://open.spotify.com/track/5rOkv636e3XHJmjLHvjLPT) | [Vincent Lima](https://open.spotify.com/artist/7AB7bdCR5saJ0b9C4RuceX) | [Versions of Uncertainty](https://open.spotify.com/album/3s0BEYs9blTh9wpgsSH3wm) | 3:27 | 2024-07-19 | 2026-01-31 |
@@ -573,6 +575,7 @@
 | [Undone](https://open.spotify.com/track/24hn3aFOHawfGzO4JWwx45) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Undone](https://open.spotify.com/album/6ML9ENZ5eDo0CYyZg32L7W) | 3:37 | 2022-03-12 | 2023-01-18 |
 | [Undone](https://open.spotify.com/track/5iMl1CDPOjElGiCgerN7kN) | [Sons Of The East](https://open.spotify.com/artist/6cSxzHrQgGc4I4Ck5Gewej) | [Palomar Parade](https://open.spotify.com/album/10BcjSFPmPwUtHyqHfKkQh) | 3:37 | 2022-10-14 | 2023-01-20 |
 | [Unforgivable Things](https://open.spotify.com/track/2Zj7NczSaCllfU2QGaevYB) | [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Unforgivable Things](https://open.spotify.com/album/2Q268vFBrWzAj28Hv7vtgC) | 2:35 | 2026-08-28 |  |
+| [Universe Awaiting](https://open.spotify.com/track/0X8aiGfHrN5cfIg67jdgh6) | [Charlie Burg](https://open.spotify.com/artist/0ubGY2CcC0tvR0eE6hJaT8) | [Universe Awaiting EP](https://open.spotify.com/album/6PpbsztD3IG5xV4dGyrFVt) | 3:05 | 2026-09-18 |  |
 | [Unsee](https://open.spotify.com/track/4s4Qxld7g6ydIcQ5Ir6MTf) | [Rowan Drake](https://open.spotify.com/artist/4NYx2GcZWwIW3glF0dW1fC) | [For all my eyes have seen](https://open.spotify.com/album/56zLXVP20MYSoP0UV90B9c) | 4:41 | 2024-06-14 | 2026-01-31 |
 | [Until I Found You](https://open.spotify.com/track/6VhuP99TE6gYNQRJIlAWFD) | [Stephen Sanchez](https://open.spotify.com/artist/5XKFrudbV4IiuE5WuTPRmT) | [Easy On My Eyes](https://open.spotify.com/album/6BUPtXbb2tspYnkVdg5Ef7) | 2:56 | 2022-08-19 | 2024-09-14 |
 | [Until You](https://open.spotify.com/track/7iH6cflAGYwR82sNMZiGuq) | [AHI](https://open.spotify.com/artist/08Uextujt6ZT2iQmSYAJfH) | [Until You](https://open.spotify.com/album/03MCMaTPo8CiVxwcCvgyem) | 3:18 | 2021-11-12 | 2024-08-17 |
@@ -621,6 +624,7 @@
 | [Wilburn Street](https://open.spotify.com/track/6IRxdL4Mhe52S8Iz2BPchz) | [Bre Kennedy](https://open.spotify.com/artist/61oqMHI8QuFrE5Qt91uJAj) | [Note To Self](https://open.spotify.com/album/5nvf3juHez844dgOnwiSjY) | 2:50 | 2021-11-12 | 2022-07-29 |
 | [Wild Woman](https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Wild Woman](https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6) | 2:59 | 2026-08-28 |  |
 | [Wildflower](https://open.spotify.com/track/7HYVXHGXsXOoQGi7UjYBrQ) | [The National Parks](https://open.spotify.com/artist/2JMtxA2S9SNUlqBlkDtXm6) | [Wildflower](https://open.spotify.com/album/75sVhPaNpMaypvDzhPbjXa) | 3:32 | 2021-11-12 | 2024-01-20 |
+| [Wind Up](https://open.spotify.com/track/7tr6hTeo3INeHKvToHYRDa) | [HAFFWAY](https://open.spotify.com/artist/3GL9CphwkHjP0Niz2fTWJH) | [Wind Up](https://open.spotify.com/album/1k5Vms8StthNKAQIjCzKOj) | 3:20 | 2026-09-18 |  |
 | [Wintergreen](https://open.spotify.com/track/4SZKuCSzKbKWSFkg7yHeHp) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Wintergreen](https://open.spotify.com/album/7qlEqLyATaydg82FdhOAwT) | 3:31 | 2021-11-12 | 2022-07-29 |
 | [Wintergreen](https://open.spotify.com/track/6U6xkMgaFgR0LEWHAOcD4F) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/7d4zInmL1k7M6t6GmGlwuJ) | 3:31 | 2022-10-14 | 2023-02-04 |
 | [Wintergreen](https://open.spotify.com/track/7EL9YtzL4qYOcxYlf4mbVi) | [The East Pointers](https://open.spotify.com/artist/0YAZ2nVxNnOeiGmNOxe8U3) | [Yours to Break](https://open.spotify.com/album/2zXp7huP6HGVldywEC6arL) | 3:31 | 2023-01-27 | 2024-03-30 |

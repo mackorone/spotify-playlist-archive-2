@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 
 > la nuova scena pop italiana 🇮🇹 cover: prima stanza a destra e Angelica Bove
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,637 likes - 80 songs - 3 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,658 likes - 80 songs - 3 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2c7QgpQBJFr.md) - [plain]
 | 79 | [PRENDI LA MIRA E BASTA](https://open.spotify.com/track/70FQOnXMKq3ZDUNPVJmeYR) | [KLAUS NOIR](https://open.spotify.com/artist/49IamDbZMOj9GPux8Z4i9e) | [PRENDI LA MIRA E BASTA](https://open.spotify.com/album/0csK30chHho12GO4HfYrnm) | 2:26 |
 | 80 | [Irrecuperabile \(feat\. Ermal Meta\)](https://open.spotify.com/track/3lIPaUNQjz4wS8jW8j2Jsf) | [Trigno](https://open.spotify.com/artist/0SBg7WdbOCGPBJesT19A4R), [Ermal Meta](https://open.spotify.com/artist/4XWTdNlsP8jqo5BDn5hgmd) | [Irrecuperabile \(feat\. Ermal Meta\)](https://open.spotify.com/album/7IuYVPDOBdMc385R8kERVZ) | 2:36 |
 
-Snapshot ID: `AAAAANAU+x5GnHBgGtAZR5toC6fQEBj3`
+Snapshot ID: `AAAAALmMdZki8z75ijJZDknyPLKY91H2`

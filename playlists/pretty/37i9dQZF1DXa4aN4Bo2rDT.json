@@ -1,15 +1,35 @@
 {
   "description": "A soothing selection of music from Pok\u00e9mon Sleep! \u00a9Pok\u00e9mon/Nintendo/CR/GF",
-  "num_followers": 143944,
+  "num_followers": 144152,
   "original_name": "Pok\u00e9mon Sleep",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFqvDfsVUkrExieMCLaiT9yl4BNZ",
+  "snapshot_id": "AAAAACpAkz1usyJfS8EYPKLWw8JNugj1",
   "tracks": [
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
+      "album": {
+        "name": "Pok\u00e9mon Sleep",
+        "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
+      },
+      "artists": [
+        {
+          "name": "Pok\u00e9mon Sleep",
+          "url": "https://open.spotify.com/artist/65As9pJfcWHUl7Rpp4T476"
+        },
+        {
+          "name": "\u666f\u5c71\u5c06\u592a",
+          "url": "https://open.spotify.com/artist/1Yyx41KWDE5iDL5I4T8wZ0"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "\u79d8\u5883\u30ea\u30b5\u30fc\u30c1\uff01\u30df\u30e5\u30a6\u30c4\u30fc\u3092\u304a\u3044\u304b\u3051\u3066 1",
+      "url": "https://open.spotify.com/track/2pzILlrUXCS8kv3d6Xg3NL"
+    },
+    {
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -29,7 +49,7 @@
       "url": "https://open.spotify.com/track/3aHVWYlgiQoqjYKVm2tcbf"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -49,7 +69,7 @@
       "url": "https://open.spotify.com/track/3fz7M3Twp5G6FM9TzJuMMG"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -69,7 +89,7 @@
       "url": "https://open.spotify.com/track/74D2R74S9xfskU6VjOMUeV"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -89,7 +109,7 @@
       "url": "https://open.spotify.com/track/6Z21LfK2xA1aJp1j7pB0wQ"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -109,7 +129,7 @@
       "url": "https://open.spotify.com/track/1EaJTz9neFquowyW5lfDSJ"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -129,7 +149,7 @@
       "url": "https://open.spotify.com/track/1DOaugGr0BrvqgjMa9gv9w"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -149,7 +169,7 @@
       "url": "https://open.spotify.com/track/5KavMTRnDsT5S2Io1h9giY"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -169,7 +189,7 @@
       "url": "https://open.spotify.com/track/1qt5QaOfLXyP27gc9CuoIx"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -189,7 +209,7 @@
       "url": "https://open.spotify.com/track/0gcHp8zSquaMnOK7VOgQ1X"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -209,7 +229,7 @@
       "url": "https://open.spotify.com/track/50UvLGaZHi8oWxQx0Mk4GU"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -229,7 +249,7 @@
       "url": "https://open.spotify.com/track/6Y37NCVm2Aty7fH2ZCPOI8"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -249,7 +269,7 @@
       "url": "https://open.spotify.com/track/5RakSct0U8DKAvmgDkDcx7"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -269,7 +289,7 @@
       "url": "https://open.spotify.com/track/2uWpRVjzbEmi8L2qAXlIM0"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -289,7 +309,7 @@
       "url": "https://open.spotify.com/track/6iR1GtRBv2lZDvrHcZvYFd"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -309,7 +329,7 @@
       "url": "https://open.spotify.com/track/0g2oB8ucpGc3IjUStl7aqd"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -329,7 +349,7 @@
       "url": "https://open.spotify.com/track/2eQv8iWBBByyBJ8FSH5DJ5"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -349,7 +369,7 @@
       "url": "https://open.spotify.com/track/2xff0uw62e7JulIWRWOXlE"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -369,7 +389,7 @@
       "url": "https://open.spotify.com/track/1txA8ABylSYVvbuxYq5Jcm"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3AyKrfBb9THm5h6kzInSpQ"
@@ -389,7 +409,7 @@
       "url": "https://open.spotify.com/track/5ZDu75m87SVxHi5D8h249u"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -409,7 +429,7 @@
       "url": "https://open.spotify.com/track/4Ya3v2JvTmOnmVj6uMDeT1"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -429,7 +449,7 @@
       "url": "https://open.spotify.com/track/6v1oOZH1hoBmDCAEhU18VH"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -449,7 +469,7 @@
       "url": "https://open.spotify.com/track/2tykQUy09YnaXqJzDR6z6S"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -469,7 +489,7 @@
       "url": "https://open.spotify.com/track/7cXITgORFQExMynkHZBdrr"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -489,7 +509,7 @@
       "url": "https://open.spotify.com/track/3jG0wyXTekw1EN8Do3MRkk"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -509,7 +529,7 @@
       "url": "https://open.spotify.com/track/4k3uqPVxollp8o4JiqXvpH"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -529,7 +549,7 @@
       "url": "https://open.spotify.com/track/4S8qBOXDzcgp7s8gvVAl4e"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -549,7 +569,7 @@
       "url": "https://open.spotify.com/track/0350LXDrHXyA9l3TQJLpXS"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -569,7 +589,7 @@
       "url": "https://open.spotify.com/track/2GT8six6OnMsPSpn5Kcdo7"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -589,7 +609,7 @@
       "url": "https://open.spotify.com/track/0NyX82WG6qmufAAZueJCKb"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -609,7 +629,7 @@
       "url": "https://open.spotify.com/track/6qbvSTDgiudaYBivhMW9HC"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -629,7 +649,7 @@
       "url": "https://open.spotify.com/track/2LEVAEAq3oQioJjjIQZxCK"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -649,7 +669,7 @@
       "url": "https://open.spotify.com/track/6OEyweg6mEf3PPiLAZwycZ"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -669,7 +689,7 @@
       "url": "https://open.spotify.com/track/41Nq7qfTLtIa4cWMfM1InD"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -689,7 +709,7 @@
       "url": "https://open.spotify.com/track/6AiUJ4q7GwEAfM99X1gk0l"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -709,7 +729,7 @@
       "url": "https://open.spotify.com/track/79ThFyTybLK7gqPBJ6mp6e"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -729,7 +749,7 @@
       "url": "https://open.spotify.com/track/74kh8PFtSzRsIkPOigNZf0"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -749,7 +769,7 @@
       "url": "https://open.spotify.com/track/02aT6jJUcTGOfL5uSTLrW4"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"
@@ -769,7 +789,7 @@
       "url": "https://open.spotify.com/track/56mfAxYWB4gn7Oli7E2L3v"
     },
     {
-      "added_at": "2026-09-03 22:01:08",
+      "added_at": "2026-09-19 01:00:05",
       "album": {
         "name": "Pok\u00e9mon Sleep",
         "url": "https://open.spotify.com/album/3YgS92Rp7fj0uDaTxoZbCH"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 
 > Tập hợp các MV đỉnh nóc kịch trần\. Đăng ký Premium để xem\. Ảnh bìa: Hngle
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,339 likes - 31 songs - 1 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,344 likes - 31 songs - 1 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,4 +40,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7sUtJC5lRfJ.md) - [plain]
 | 30 | [QUÁ KHỨ CÒN LẠI GÌ](https://open.spotify.com/track/48hWQAVI0qzfnWKy0Ke33Q) | [Anh Trai Vượt Ngàn Chông Gai](https://open.spotify.com/artist/1NVwSzuIbuPJEGWhUQRlnv), [Đại Nghĩa](https://open.spotify.com/artist/0KFv5eYNxnaI41B5h2NJlz), [Trịnh Thăng Bình](https://open.spotify.com/artist/4co1OIKlUOsNNVJFSZzO9N), [Đinh Mạnh Ninh](https://open.spotify.com/artist/1G2yxRuuHv9mev4EHZzbXw), [Will](https://open.spotify.com/artist/3HMWKU43x9GxkGWVP1KjQT), [CHARLES.](https://open.spotify.com/artist/5k9DAxaugi6ANyemUgQrgV) | [CÔNG DIỄN 1 \(Anh Trai Vượt Ngàn Chông Gai 2026\)](https://open.spotify.com/album/6wsi1o6Vq5ULAD6OedEJYS) | 5:03 |
 | 31 | [lạc bước trong ngần mắt em](https://open.spotify.com/track/4hFOmgvcPbobvPKnsAQIVh) | [GUrbane](https://open.spotify.com/artist/5SdxHHfstcRfGIxOw1ghSN), [Hoàng Tôn](https://open.spotify.com/artist/6xRZoWlE9twEkMC5NW4Z9f) | [lạc bước trong ngần mắt em](https://open.spotify.com/album/2HSpr3SP4kZTxouuyofhXo) | 3:12 |
 
-Snapshot ID: `AAAAACI08S9lXx/yXT9I2JSPbckxTe34`
+Snapshot ID: `AAAAAGep5WSNPMomAInr8Ga88DDwen5i`

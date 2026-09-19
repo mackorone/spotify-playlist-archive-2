@@ -1,12 +1,12 @@
 {
   "description": "This is Jamiroquai. The essential tracks, all in one playlist.",
-  "num_followers": 447746,
+  "num_followers": 448145,
   "original_name": "This Is Jamiroquai",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAASzYfVCIg8AcW0YkO8Kh0M",
+  "snapshot_id": "aqstgAAAAAB9xqNFOA6MIIKgq2wEfwBD",
   "tracks": [
     {
       "added_at": null,
@@ -399,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 268800,
-      "name": "Butterfly",
-      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dynamite",
         "url": "https://open.spotify.com/album/0NDOtCzyOSoSXwENIWFvMW"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 295400,
       "name": "Dynamite",
       "url": "https://open.spotify.com/track/4LkJXlCD9AYjScPywhUjZs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 268800,
+      "name": "Butterfly",
+      "url": "https://open.spotify.com/track/4vevrGPaGIdakuoWhzSnwl"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Funk Odyssey",
-        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Picture of My Life",
-      "url": "https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -587,6 +571,22 @@
       "duration_ms": 238533,
       "name": "Something About You",
       "url": "https://open.spotify.com/track/2xT2d2PxUVKEchW64s2ff9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A Funk Odyssey",
+        "url": "https://open.spotify.com/album/6cLYs4e403jQk6PJ8PG9rs"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Picture of My Life",
+      "url": "https://open.spotify.com/track/0JSinz03ZGQxKtCH3yBg6W"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 341560,
-      "name": "Black Capricorn Day",
-      "url": "https://open.spotify.com/track/26sQR1K5m5RGThDKXzlY8R"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Automaton",
         "url": "https://open.spotify.com/album/1xQq0txMTpstjFUwp4c4E0"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 287960,
       "name": "Automaton",
       "url": "https://open.spotify.com/track/42dJ29C11xlJTLkRVmKty1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 341560,
+      "name": "Black Capricorn Day",
+      "url": "https://open.spotify.com/track/26sQR1K5m5RGThDKXzlY8R"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Synkronized",
-        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
-      },
-      "artists": [
-        {
-          "name": "Jamiroquai",
-          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
-        }
-      ],
-      "duration_ms": 255400,
-      "name": "Soul Education",
-      "url": "https://open.spotify.com/track/0zzlpRq2UwK3bGlI8O4DCe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Return of the Space Cowboy (Remastered)",
         "url": "https://open.spotify.com/album/3emhnEQ76nUUehouSvnGxk"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 329386,
       "name": "Mr Moon",
       "url": "https://open.spotify.com/track/2k3MqTGANsyR1knJbR4kIg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Synkronized",
+        "url": "https://open.spotify.com/album/17XrgcYNbKz2oTNm6kwVwv"
+      },
+      "artists": [
+        {
+          "name": "Jamiroquai",
+          "url": "https://open.spotify.com/artist/6J7biCazzYhU3gM9j1wfid"
+        }
+      ],
+      "duration_ms": 255400,
+      "name": "Soul Education",
+      "url": "https://open.spotify.com/track/0zzlpRq2UwK3bGlI8O4DCe"
     },
     {
       "added_at": null,

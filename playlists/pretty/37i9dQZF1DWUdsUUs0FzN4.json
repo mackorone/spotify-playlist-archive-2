@@ -1,12 +1,12 @@
 {
   "description": "bailando en el antro con Marcos Villalobos y Martinwhite hasta el amanecer ",
-  "num_followers": 24733,
+  "num_followers": 24737,
   "original_name": "ANTRO ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALCXa4YDINhZaRE+5yQqeWQYsg2G",
+  "snapshot_id": "AAAAANpfQ9x8+euOqHEilMI0F9Kd0aTL",
   "tracks": [
     {
       "added_at": "2026-09-11 06:00:13",
@@ -731,6 +731,26 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
+        "name": "PIKI",
+        "url": "https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ"
+      },
+      "artists": [
+        {
+          "name": "Sega Bodega",
+          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
+        },
+        {
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+        }
+      ],
+      "duration_ms": 259867,
+      "name": "PIKI",
+      "url": "https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
         "name": "RULETEO",
         "url": "https://open.spotify.com/album/5XXD422rYEMorwZuOH16hv"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 195389,
       "name": "Magia",
       "url": "https://open.spotify.com/track/6bbTjLQR2TmEApXj8QYhl8"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
-        "name": "PIKI",
-        "url": "https://open.spotify.com/album/0Evi337rRbs0degCcRoTqQ"
-      },
-      "artists": [
-        {
-          "name": "Sega Bodega",
-          "url": "https://open.spotify.com/artist/1ZvF4Sgnre3Rk2CpiNy077"
-        },
-        {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
-        }
-      ],
-      "duration_ms": 259867,
-      "name": "PIKI",
-      "url": "https://open.spotify.com/track/55ZZAOtvWkHrEFX10Zg0lP"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -895,6 +895,26 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
+        "name": "nueveonceamarillo",
+        "url": "https://open.spotify.com/album/16khlP9Sq4I2Ksg7FpOv2s"
+      },
+      "artists": [
+        {
+          "name": "Mi Compa el Chino",
+          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
+        },
+        {
+          "name": "urboi.",
+          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
+        }
+      ],
+      "duration_ms": 212000,
+      "name": "nueveonceamarillo",
+      "url": "https://open.spotify.com/track/1zJs0zwqadmFbh0zFflvAp"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
         "name": "Loco Contigo",
         "url": "https://open.spotify.com/album/6K1zeBOnzT2Yl20rY0vVvp"
       },
@@ -915,26 +935,6 @@
       "duration_ms": 168687,
       "name": "Loco Contigo",
       "url": "https://open.spotify.com/track/1jStUvWUJi2tSbWzZ2IjcS"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
-        "name": "nueveonceamarillo",
-        "url": "https://open.spotify.com/album/16khlP9Sq4I2Ksg7FpOv2s"
-      },
-      "artists": [
-        {
-          "name": "Mi Compa el Chino",
-          "url": "https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4"
-        },
-        {
-          "name": "urboi.",
-          "url": "https://open.spotify.com/artist/6QhzVrbA9G5OZJ7u6Mq30L"
-        }
-      ],
-      "duration_ms": 212000,
-      "name": "nueveonceamarillo",
-      "url": "https://open.spotify.com/track/1zJs0zwqadmFbh0zFflvAp"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1019,26 +1019,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "Ni\u00f1a Bien (SLS-007)",
-        "url": "https://open.spotify.com/album/7dKqAaRmVVghVq4iqSOnYa"
-      },
-      "artists": [
-        {
-          "name": "Sheeno",
-          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
-        },
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        }
-      ],
-      "duration_ms": 133100,
-      "name": "Ni\u00f1a Bien (SLS-007)",
-      "url": "https://open.spotify.com/track/7yt5TPj7jGPs09iITMzAuw"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "ITALO MIXTAPE VOL. 3",
         "url": "https://open.spotify.com/album/2LHWy7BA83xWm1kePTdiMK"
       },
@@ -1055,6 +1035,26 @@
       "duration_ms": 167462,
       "name": "AMNESIA",
       "url": "https://open.spotify.com/track/1ymc98fp75ggtCsQ74uYoT"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "Ni\u00f1a Bien (SLS-007)",
+        "url": "https://open.spotify.com/album/7dKqAaRmVVghVq4iqSOnYa"
+      },
+      "artists": [
+        {
+          "name": "Sheeno",
+          "url": "https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO"
+        },
+        {
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
+        }
+      ],
+      "duration_ms": 133100,
+      "name": "Ni\u00f1a Bien (SLS-007)",
+      "url": "https://open.spotify.com/track/7yt5TPj7jGPs09iITMzAuw"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1079,22 +1079,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "LA CIUDAD NUNCA DUERME*",
-        "url": "https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI"
-      },
-      "artists": [
-        {
-          "name": "Young Cister",
-          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
-        }
-      ],
-      "duration_ms": 111875,
-      "name": "nunca me duermo!*",
-      "url": "https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "Jenni Rivera",
         "url": "https://open.spotify.com/album/3TxgKrJOzELj9jp06lytkm"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 156466,
       "name": "Jenni Rivera",
       "url": "https://open.spotify.com/track/5iyLTZ1YvtSYMdHsrwzuA3"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "LA CIUDAD NUNCA DUERME*",
+        "url": "https://open.spotify.com/album/6q0eNeShaKS7mRom4HunuI"
+      },
+      "artists": [
+        {
+          "name": "Young Cister",
+          "url": "https://open.spotify.com/artist/0Yg29FX1M4ayqjXs0ttZFq"
+        }
+      ],
+      "duration_ms": 111875,
+      "name": "nunca me duermo!*",
+      "url": "https://open.spotify.com/track/4n1Oy3PZtUp0yHid1hJ0e0"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
-        "name": "Pichersita",
-        "url": "https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay"
-      },
-      "artists": [
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 138932,
-      "name": "Pichersita",
-      "url": "https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
         "name": "Miraverah\u00ed (Slow Jamz Remix)",
         "url": "https://open.spotify.com/album/4boDswbpYB6q9ikDzAgEkf"
       },
@@ -1379,6 +1363,22 @@
       "duration_ms": 257374,
       "name": "Miraverah\u00ed - Slow Jamz Remix",
       "url": "https://open.spotify.com/track/6k7hllGhHCNwdDBoosxCLT"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
+        "name": "Pichersita",
+        "url": "https://open.spotify.com/album/0xZAeYNDZX9GAaFaMVWyay"
+      },
+      "artists": [
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 138932,
+      "name": "Pichersita",
+      "url": "https://open.spotify.com/track/5IJ09fmhbr06HTRA3O84pG"
     },
     {
       "added_at": "2026-09-11 06:00:13",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-09-11 06:00:13",
       "album": {
+        "name": "HOTCORE",
+        "url": "https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB"
+      },
+      "artists": [
+        {
+          "name": "TAICHU",
+          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
+        }
+      ],
+      "duration_ms": 163384,
+      "name": "N\u00c3O TEM FIN (garota fav)",
+      "url": "https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1"
+    },
+    {
+      "added_at": "2026-09-11 06:00:13",
+      "album": {
         "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
         "url": "https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 147586,
       "name": "No puedo estar aqu\u00ed (feat. iza tkm)",
       "url": "https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP"
-    },
-    {
-      "added_at": "2026-09-11 06:00:13",
-      "album": {
-        "name": "HOTCORE",
-        "url": "https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB"
-      },
-      "artists": [
-        {
-          "name": "TAICHU",
-          "url": "https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN"
-        }
-      ],
-      "duration_ms": 163384,
-      "name": "N\u00c3O TEM FIN (garota fav)",
-      "url": "https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1"
     },
     {
       "added_at": "2026-09-11 06:00:13",

@@ -1,7 +1,7 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The best indie picks. Cover: Naaz",
-  "name": "indie noise on noise cancelling headphones",
+  "description": "De beste indie tracks van nu. Cover: Fontaines D.C.",
+  "name": "Indie XL",
   "tracks": [
     {
       "album": {
@@ -34,7 +34,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 159315,
       "name": "104 Degrees",
       "url": "https://open.spotify.com/track/3Zj3UZgeP5fKJV9iO6mt6d"
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 242903,
       "name": "12 to 12",
       "url": "https://open.spotify.com/track/6MrLkXsMmHaYt680fhJUAq"
@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "And Then I Woke Up",
+        "url": "https://open.spotify.com/album/3coDLWeDJYp3m5iyh6rEFK"
+      },
+      "artists": [
+        {
+          "name": "Dressed Like Boys",
+          "url": "https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350699,
+      "name": "And Then I Woke Up",
+      "url": "https://open.spotify.com/track/2mrOZHjVK645tRXNUJxcTI"
+    },
+    {
+      "album": {
         "name": "Angel Face",
         "url": "https://open.spotify.com/album/5hTm1YiaWDgGDJdGroOKqI"
       },
@@ -308,7 +326,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 201916,
       "name": "azad\u00ee",
       "url": "https://open.spotify.com/track/7KeTeWHrHAbflR6ymtTI8n"
@@ -380,7 +398,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 216880,
       "name": "Bad Things",
       "url": "https://open.spotify.com/track/2QMV9Kj5BFo8kjggLVHf86"
@@ -596,7 +614,7 @@
       ],
       "date_added": "2025-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 201349,
       "name": "Burn Me Like a Cigarette",
       "url": "https://open.spotify.com/track/1IUmy6YVIr10pSmK2aUZoj"
@@ -770,7 +788,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 287185,
       "name": "Cloud 9",
       "url": "https://open.spotify.com/track/7j8cb81XleLLI0EgZrC8IY"
@@ -878,7 +896,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 261173,
       "name": "damn",
       "url": "https://open.spotify.com/track/5mgWktGBliaIdAaBtZ8ff3"
@@ -954,7 +972,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 146000,
       "name": "Destroy Myself Just For You",
       "url": "https://open.spotify.com/track/7vMDFGBs0CTEkENk2dyCnc"
@@ -1116,7 +1134,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 249120,
       "name": "Down to be wrong",
       "url": "https://open.spotify.com/track/2d18juMmmN1KwjFtfEj0FP"
@@ -1534,7 +1552,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 213312,
       "name": "Girl In Red",
       "url": "https://open.spotify.com/track/7FDZ2inzoMZSlV9To1mMdO"
@@ -1624,7 +1642,7 @@
       ],
       "date_added": "2026-01-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 215486,
       "name": "Healing",
       "url": "https://open.spotify.com/track/6C7S3LAPokFppY2ttt6VSi"
@@ -2128,7 +2146,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
@@ -2752,7 +2770,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 247560,
       "name": "Lipstick On The Glass",
       "url": "https://open.spotify.com/track/0jGAm66ie0uOt7bYmXG64f"
@@ -2842,7 +2860,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 235000,
       "name": "Loser",
       "url": "https://open.spotify.com/track/5NTZM8YYeKM2YsGSffVIge"
@@ -2878,7 +2896,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 234093,
       "name": "Lost",
       "url": "https://open.spotify.com/track/3GZD6HmiNUhxXYf8Gch723"
@@ -2954,7 +2972,7 @@
       ],
       "date_added": "2025-12-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 198386,
       "name": "Love Takes Miles",
       "url": "https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF"
@@ -3012,6 +3030,24 @@
       "duration_ms": 204475,
       "name": "mangetout",
       "url": "https://open.spotify.com/track/5UW4tA4j23YL6kDfRw3rWT"
+    },
+    {
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
     },
     {
       "album": {
@@ -3134,7 +3170,7 @@
       ],
       "date_added": "2025-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 175833,
       "name": "moody",
       "url": "https://open.spotify.com/track/7MerIDn7wpEH4OEGbpasSH"
@@ -3188,7 +3224,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 227267,
       "name": "My Babe",
       "url": "https://open.spotify.com/track/2KoQiXDyIz2pnd33oukKEw"
@@ -3906,7 +3942,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 249360,
       "name": "Pure",
       "url": "https://open.spotify.com/track/4PBA2lNSRFoakYjsFbWlfX"
@@ -3924,7 +3960,7 @@
       ],
       "date_added": "2025-07-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 201679,
       "name": "Pyramid",
       "url": "https://open.spotify.com/track/2MBMZkwfDM1FjoiCpP3aXD"
@@ -3996,7 +4032,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 328719,
       "name": "Red Flag Magician",
       "url": "https://open.spotify.com/track/2Or2qg4qhw5RXDbyCTGIdb"
@@ -4036,7 +4072,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 339410,
       "name": "Rein Me In (with Olivia Dean)",
       "url": "https://open.spotify.com/track/7MZHqgTVTnN6xZGYAcEEAf"
@@ -4072,7 +4108,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 253078,
       "name": "Remember?",
       "url": "https://open.spotify.com/track/5RMlKxmmHbbalI8q7qg9IX"
@@ -4512,7 +4548,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 320466,
       "name": "Space Song",
       "url": "https://open.spotify.com/track/1ZgMsA55GIY7ICkQh5MILA"
@@ -4692,7 +4728,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 193053,
       "name": "Stronger",
       "url": "https://open.spotify.com/track/7wnZ0ccUMn79s9JMTPRkH1"
@@ -5074,7 +5110,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 195873,
       "name": "The Spins",
       "url": "https://open.spotify.com/track/51pshtuYkgUQnt5huMPbKL"
@@ -5114,7 +5150,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 180973,
       "name": "The Valley of The Pagans (feat. Beck)",
       "url": "https://open.spotify.com/track/3oP3Tfn86FRmxAGsV0TqCp"
@@ -5460,7 +5496,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 256451,
       "name": "Unmoved (A Black Woman Truth)",
       "url": "https://open.spotify.com/track/2zmLkPOV4Y3NTwh5P6gM51"

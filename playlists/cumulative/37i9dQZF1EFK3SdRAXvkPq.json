@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "BbY WOW",
+        "url": "https://open.spotify.com/album/1xUMnBY6y9Cr03ifTEeLLv"
+      },
+      "artists": [
+        {
+          "name": "Infound",
+          "url": "https://open.spotify.com/artist/4afypHPOzDGPUgFb5NUvR0"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122000,
+      "name": "BbY WOW",
+      "url": "https://open.spotify.com/track/4LxvLjzwTX3gLSlWfDOq26"
+    },
+    {
+      "album": {
         "name": "Boca Chueca, Vol. 1",
         "url": "https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU"
       },

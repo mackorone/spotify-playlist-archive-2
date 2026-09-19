@@ -2029,6 +2029,24 @@
     },
     {
       "album": {
+        "name": "I Will Be There",
+        "url": "https://open.spotify.com/album/4sDdURTfPP2hDqqug8HcB6"
+      },
+      "artists": [
+        {
+          "name": "XY Axis",
+          "url": "https://open.spotify.com/artist/4CMKdXXiXli9kQn5yVXRkz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138571,
+      "name": "I Will Be There",
+      "url": "https://open.spotify.com/track/2Mcl0BAqLfzIE3DKkVPh7L"
+    },
+    {
+      "album": {
         "name": "If Only I Could Stop the Clock",
         "url": "https://open.spotify.com/album/5MPk2CIBjpHTo4VKeLCfEE"
       },
@@ -2656,6 +2674,24 @@
       "duration_ms": 203323,
       "name": "Lumi\u00e8re du Matin",
       "url": "https://open.spotify.com/track/0QVowuvdlITX199RTJnxeR"
+    },
+    {
+      "album": {
+        "name": "Lush Moments",
+        "url": "https://open.spotify.com/album/4B6sLcZQ22Cql1Pvh35jXX"
+      },
+      "artists": [
+        {
+          "name": "Loumi Des Moines",
+          "url": "https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155500,
+      "name": "Lush Moments",
+      "url": "https://open.spotify.com/track/1w2qcmXzP2hXRbHSxTSlPZ"
     },
     {
       "album": {

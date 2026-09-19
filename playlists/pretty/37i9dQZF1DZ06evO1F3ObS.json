@@ -1,12 +1,12 @@
 {
   "description": "This is ReoNa. The essential tracks, all in one playlist.",
-  "num_followers": 22653,
+  "num_followers": 22655,
   "original_name": "This Is ReoNa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAATUuai4y7rOXLN5MbLezek",
+  "snapshot_id": "aqstgAAAAAAeqJ2gjQsr32cgROPMdfDx",
   "tracks": [
     {
       "added_at": null,
@@ -155,22 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u7d50\u3005\u306e\u5504",
-        "url": "https://open.spotify.com/album/3ZdqakJeXU27ffoHYtV1XU"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 219773,
-      "name": "\u7d50\u3005\u306e\u5504",
-      "url": "https://open.spotify.com/track/2a2j5ou6wR6ehkWzZnSEou"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593 (Special Edition)",
         "url": "https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf"
       },
@@ -187,8 +171,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Amore (Special Edition)",
-        "url": "https://open.spotify.com/album/55lYpIDpUDAkftXYdBBxlY"
+        "name": "\u7d50\u3005\u306e\u5504",
+        "url": "https://open.spotify.com/album/3ZdqakJeXU27ffoHYtV1XU"
       },
       "artists": [
         {
@@ -196,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 266466,
-      "name": "\u305d\u308c\u306f\u9b54\u6cd5\u3067\u3057\u305f",
-      "url": "https://open.spotify.com/track/36kIbkJeFCS9H4JTbFZy5r"
+      "duration_ms": 219773,
+      "name": "\u7d50\u3005\u306e\u5504",
+      "url": "https://open.spotify.com/track/2a2j5ou6wR6ehkWzZnSEou"
     },
     {
       "added_at": null,
@@ -219,8 +203,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "CLUTCH!",
-        "url": "https://open.spotify.com/album/4bU30og2JBEC25bxIjy6WJ"
+        "name": "Amore (Special Edition)",
+        "url": "https://open.spotify.com/album/55lYpIDpUDAkftXYdBBxlY"
       },
       "artists": [
         {
@@ -228,25 +212,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 208493,
-      "name": "CLUTCH!",
-      "url": "https://open.spotify.com/track/5Z2PJNkWiQMvThOwVmEKBQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Alive",
-        "url": "https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 258517,
-      "name": "Alive",
-      "url": "https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD"
+      "duration_ms": 266466,
+      "name": "\u305d\u308c\u306f\u9b54\u6cd5\u3067\u3057\u305f",
+      "url": "https://open.spotify.com/track/36kIbkJeFCS9H4JTbFZy5r"
     },
     {
       "added_at": null,
@@ -267,6 +235,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Alive",
+        "url": "https://open.spotify.com/album/7IBqowr22LfhlV1GL6fQmF"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 258517,
+      "name": "Alive",
+      "url": "https://open.spotify.com/track/4HkMETY0zKUblZVAX22YUD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f",
         "url": "https://open.spotify.com/album/0bJE38pebBIRov35fJG5jZ"
       },
@@ -279,6 +263,42 @@
       "duration_ms": 266936,
       "name": "\u30b7\u30e3\u30eb\u30fb\u30a6\u30a3\u30fb\u30c0\u30f3\u30b9\uff1f",
       "url": "https://open.spotify.com/track/3scQcXcg9nOfWVQDQTeDXF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CLUTCH!",
+        "url": "https://open.spotify.com/album/4bU30og2JBEC25bxIjy6WJ"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 208493,
+      "name": "CLUTCH!",
+      "url": "https://open.spotify.com/track/5Z2PJNkWiQMvThOwVmEKBQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593 (Special Edition)",
+        "url": "https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        },
+        {
+          "name": "Annacoto",
+          "url": "https://open.spotify.com/artist/614M6cLKA9Vfd9Fc3EJPmY"
+        }
+      ],
+      "duration_ms": 269333,
+      "name": "\u30a2\u30f3\u30ca\u30b3\u30c8",
+      "url": "https://open.spotify.com/track/6l0oc82Nj37smSKVdWfylF"
     },
     {
       "added_at": null,
@@ -315,26 +335,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lv.1 \u8077\u696d\uff1a\u4eba\u9593 (Special Edition)",
-        "url": "https://open.spotify.com/album/2DF1V6u01dBvnThrTpQpJf"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        },
-        {
-          "name": "Annacoto",
-          "url": "https://open.spotify.com/artist/614M6cLKA9Vfd9Fc3EJPmY"
-        }
-      ],
-      "duration_ms": 269333,
-      "name": "\u30a2\u30f3\u30ca\u30b3\u30c8",
-      "url": "https://open.spotify.com/track/6l0oc82Nj37smSKVdWfylF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Amore (Special Edition)",
         "url": "https://open.spotify.com/album/55lYpIDpUDAkftXYdBBxlY"
       },
@@ -347,6 +347,22 @@
       "duration_ms": 227840,
       "name": "\u5fc3\u75db",
       "url": "https://open.spotify.com/track/1r878sS22nS4OIpuYBUMFN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SWEET HURT",
+        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 277480,
+      "name": "SWEET HURT",
+      "url": "https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc"
     },
     {
       "added_at": null,
@@ -383,22 +399,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SWEET HURT",
-        "url": "https://open.spotify.com/album/5wcOB0FItV2G8a4EGVUZEm"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "SWEET HURT",
-      "url": "https://open.spotify.com/track/6HpT1pNhenYMIYY9vWgJoc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HUMAN",
         "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
       },
@@ -431,6 +431,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 301253,
+      "name": "ALONE",
+      "url": "https://open.spotify.com/track/7gAEbjSCRgZhE1YjiO5ZPV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u84bc\u7a79\u306e\u30d5\u30a1\u30f3\u30d5\u30a1\u30fc\u30ec",
         "url": "https://open.spotify.com/album/1SIWm59nMt5C5CTtxHmGBJ"
       },
@@ -459,22 +479,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+        "name": "GG",
+        "url": "https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ"
       },
       "artists": [
-        {
-          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
-          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
-        },
         {
           "name": "ReoNa",
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 301253,
-      "name": "ALONE",
-      "url": "https://open.spotify.com/track/7gAEbjSCRgZhE1YjiO5ZPV"
+      "duration_ms": 196346,
+      "name": "GG",
+      "url": "https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq"
     },
     {
       "added_at": null,
@@ -495,22 +511,6 @@
       "duration_ms": 236093,
       "name": "\u9769\u547d",
       "url": "https://open.spotify.com/track/3vrRp3jqWHh1viOqo7AfBz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GG",
-        "url": "https://open.spotify.com/album/5lCc7uhAlFqamdV552r6HJ"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 196346,
-      "name": "GG",
-      "url": "https://open.spotify.com/track/6FTHtzIv5KmyLFkKyNe0jq"
     },
     {
       "added_at": null,
@@ -567,8 +567,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "HUMAN",
-        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+        "name": "ANIMA (Special Edition)",
+        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
       },
       "artists": [
         {
@@ -576,9 +576,9 @@
           "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
         }
       ],
-      "duration_ms": 249741,
-      "name": "\u30e1\u30e1\u30f3\u30c8\u30fb\u30e2\u30ea",
-      "url": "https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S"
+      "duration_ms": 269746,
+      "name": "\u96e8\u306b\u5504\u3048\u3070",
+      "url": "https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB"
     },
     {
       "added_at": null,
@@ -603,42 +603,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANIMA (Special Edition)",
-        "url": "https://open.spotify.com/album/5uH5YSFKXzMhxXxJbzAbfL"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 269746,
-      "name": "\u96e8\u306b\u5504\u3048\u3070",
-      "url": "https://open.spotify.com/track/41IzyYGkQdmAlGhpww2zLB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Prologue",
-        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
-      },
-      "artists": [
-        {
-          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
-          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
-        },
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 242373,
-      "name": "\u846c\u9001\u306e\u5100",
-      "url": "https://open.spotify.com/track/54Wn2RQDn1tKIcFhpwVMSZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "VITA",
         "url": "https://open.spotify.com/album/2g4EM8qrRTmMbV4k93ArVE"
       },
@@ -651,6 +615,38 @@
       "duration_ms": 306586,
       "name": "VITA",
       "url": "https://open.spotify.com/track/0XCQqPCFIRunW6ZFK3NnzS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HUMAN",
+        "url": "https://open.spotify.com/album/1viQNIgOEcg34svVzSB5Ic"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 249741,
+      "name": "\u30e1\u30e1\u30f3\u30c8\u30fb\u30e2\u30ea",
+      "url": "https://open.spotify.com/track/2VEh6M8uR2hk4oBYQBjo9S"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
+        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
+      },
+      "artists": [
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 315898,
+      "name": "Lost",
+      "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
     },
     {
       "added_at": null,
@@ -675,6 +671,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Prologue",
+        "url": "https://open.spotify.com/album/4nvlGw1x1DAg3hm3GXypgj"
+      },
+      "artists": [
+        {
+          "name": "\u795e\u5d0e\u30a8\u30eb\u30b6",
+          "url": "https://open.spotify.com/artist/3EzK2WRDfjAtTAVRHW8HWR"
+        },
+        {
+          "name": "ReoNa",
+          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
+        }
+      ],
+      "duration_ms": 242373,
+      "name": "\u846c\u9001\u306e\u5100",
+      "url": "https://open.spotify.com/track/54Wn2RQDn1tKIcFhpwVMSZ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u306a\u3044\u306a\u3044 (Special Edition)",
         "url": "https://open.spotify.com/album/6HD7Zt2IlhBzbOankRvipw"
       },
@@ -687,22 +703,6 @@
       "duration_ms": 341773,
       "name": "\u751f\u304d\u3066\u308b\u3060\u3051\u3067\u3048\u3089\u3044\u3088",
       "url": "https://open.spotify.com/track/59DcEQnz5dfWEuB9iG8YGJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u6708\u59eb -A piece of blue glass moon- THEME SONG E.P.",
-        "url": "https://open.spotify.com/album/25lcvkvNjoSlU07gs1M3hi"
-      },
-      "artists": [
-        {
-          "name": "ReoNa",
-          "url": "https://open.spotify.com/artist/2SIBY7Jwq1kYng12Zguo3C"
-        }
-      ],
-      "duration_ms": 315898,
-      "name": "Lost",
-      "url": "https://open.spotify.com/track/2GEtnhDxxWBDWUc5wHqTsC"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,529 songs - 4 day 0 hr 11 min
+2,532 songs - 4 day 0 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -204,6 +204,7 @@
 | [Baobab](https://open.spotify.com/track/55T3gpC529x2MFyadhVQ27) | [Funky Notes](https://open.spotify.com/artist/6LSrnKA5oEVsLopxSMVGFR), [Beats for Trees](https://open.spotify.com/artist/3fMYtQwkblUGOAto35b82Y) | [Baobab](https://open.spotify.com/album/3soETJQRYj3ywOtkWHQSSk) | 2:50 | 2022-08-12 | 2022-12-17 |
 | [Bar Breeze](https://open.spotify.com/track/4cPDwwClSmyI85odEgVVgm) | [Hammocks & Lime](https://open.spotify.com/artist/3sHx5xJC4akld5WXlIis2Y) | [Bar Breeze](https://open.spotify.com/album/58Igwkq1QIk5dfnfoqaB5M) | 2:18 | 2023-03-20 | 2025-07-18 |
 | [Bar on the Corner](https://open.spotify.com/track/4r4NduGT7HDtEILpZa3KVc) | [Elijah the Alchemist](https://open.spotify.com/artist/3KUUj9cTyiuixKmbn96baH) | [Bar on the Corner](https://open.spotify.com/album/1QDvYNCWYM59B1FV3wZoCF) | 1:51 | 2022-07-29 | 2022-08-12 |
+| [Barefoot Hours](https://open.spotify.com/track/4Z0QMdz4LpXLgvCFv1wv4K) | [Unmade Bed](https://open.spotify.com/artist/5XYhH4Vnl4zce8VkvTqFCb) | [Barefoot Hours](https://open.spotify.com/album/43udYlEJaBPOZWiUYwEGEM) | 2:18 | 2026-09-18 |  |
 | [Bareru Rōru](https://open.spotify.com/track/2euw7YmuTYRuBx0DQTgvqq) | [d.w.h](https://open.spotify.com/artist/2Mv14rolxu9z56WEkPIhZd) | [Bareru Rōru](https://open.spotify.com/album/4UDE3AKNXjv7rFvv4T5KKO) | 2:38 | 2023-11-17 | 2025-11-26 |
 | [Basement Jam](https://open.spotify.com/track/7LsaaJ6Q1ZVJ7pvcyq2ehW) | [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq), [dennisivnvc](https://open.spotify.com/artist/03sYI7Ckj5JOq6cYowPUmo) | [Basement Jam](https://open.spotify.com/album/7aESSLXnVR273nxh7Ezhrj) | 1:55 | 2022-10-28 | 2023-09-16 |
 | [Battle Scars](https://open.spotify.com/track/5Dad8McLnbvlcMgatup13k) | [Kelly Kane](https://open.spotify.com/artist/39HLOML84ZP6Bp6EqsTswD) | [Purpose](https://open.spotify.com/album/2pXYL4dh76enhCxUGMCoF2) | 2:03 | 2023-07-13 | 2025-07-26 |
@@ -532,7 +533,7 @@
 | [Daydream Thing](https://open.spotify.com/track/3Li5s9nmyXaZFTPqyGIO2x) | [Bnjo](https://open.spotify.com/artist/2ypA9JtiknHFRxTq1X36ry) | [Daydream Thing](https://open.spotify.com/album/0sul8DdAXX7bHDC4pv3bXX) | 2:08 | 2023-09-08 | 2025-07-26 |
 | [Daydreaming](https://open.spotify.com/track/4EON13xU5v3CsQG6C5BZcO) | [LUXID AXID](https://open.spotify.com/artist/6yZIMRBmAHdrstkuapdrc0), [Chiljalo](https://open.spotify.com/artist/5FshA6iHVcvQYwaPafaWjO) | [Daydreaming](https://open.spotify.com/album/7DbRuyDxuJTVIIUKvPFgb9) | 2:33 | 2022-09-16 | 2023-01-07 |
 | [Daylight](https://open.spotify.com/track/5dTPpkcJNZ5QrLhzb9bUOW) | [Vincent Rayn](https://open.spotify.com/artist/3zWwvS0OdQwTploEQjT1VG) | [Daylight](https://open.spotify.com/album/21SlLRetRq9OpLMaRFBx6T) | 2:17 | 2023-03-24 | 2023-10-06 |
-| [Dayphase](https://open.spotify.com/track/1krSFxhJyXiYGktvdVv7pj) | [Pale Fiction](https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV) | [Dayphase](https://open.spotify.com/album/3lkkPmZIy4UJmGZFKcw70M) | 2:17 | 2026-07-09 |  |
+| [Dayphase](https://open.spotify.com/track/1krSFxhJyXiYGktvdVv7pj) | [Pale Fiction](https://open.spotify.com/artist/4rMd74iv02uwHdEs5Dc4XV) | [Dayphase](https://open.spotify.com/album/3lkkPmZIy4UJmGZFKcw70M) | 2:17 | 2026-07-09 | 2026-09-19 |
 | [Days before](https://open.spotify.com/track/0Yr84Z0J8XdIFgef0Gm4wC) | [Dino P](https://open.spotify.com/artist/1PDCXtWxAyrZXWQHLdgtha) | [Days Before](https://open.spotify.com/album/0gSYHXWZ0niLxoUr7A63nq) | 2:47 | 2023-02-21 | 2025-11-26 |
 | [Days Of Noburu](https://open.spotify.com/track/31LBBQL98E7LutHxW9hT1X) | [Etzuko.](https://open.spotify.com/artist/2UnLJpotwiOvhCz8LXdVXb) | [Days Of Noburu](https://open.spotify.com/album/1sf3MH8rtSKOcuEoStAtnG) | 2:23 | 2022-04-15 | 2022-09-17 |
 | [Daytime](https://open.spotify.com/track/1UyhPO5FGcbE0iicGlqSMA) | [Lydtakt](https://open.spotify.com/artist/2nbKa9EFY05zFjSwkmMjkq) | [Daytime](https://open.spotify.com/album/1P9nIoReDcQ3lLi7lLdnCP) | 2:01 | 2023-03-08 | 2023-03-25 |
@@ -1165,6 +1166,7 @@
 | [Last Time](https://open.spotify.com/track/08WUibKNfFF4WfG41D4PtG) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe) | [Last Time](https://open.spotify.com/album/2ZE03YO8AarncGggsEqlUM) | 2:23 | 2022-06-10 | 2022-11-19 |
 | [late days](https://open.spotify.com/track/2nOqhb262LVJxEZtvEqqFK) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [late days](https://open.spotify.com/album/3nxugzWYnvcC5DTKEMqA47) | 1:41 | 2024-04-12 | 2024-08-22 |
 | [late dusk](https://open.spotify.com/track/35xHtH12lTSko40xnOGI2F) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo), [cloud cover](https://open.spotify.com/artist/1y9I7fJdrExfvwiY8SYtB6) | [late dusk](https://open.spotify.com/album/7t3jqx4FpamMRb3asFRHDX) | 1:51 | 2026-02-13 |  |
+| [Late Night](https://open.spotify.com/track/3NqOQ4YLQrLwaJcAMIeYCm) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Late Night](https://open.spotify.com/album/3ejOugPM4HrzfMWs2eifNy) | 2:35 | 2026-09-18 |  |
 | [Late Night Call](https://open.spotify.com/track/4F0rWDhwr8mAImFmCPuBvP) | [rasya](https://open.spotify.com/artist/5AiC0g0himsHrBJgYixuB0) | [Late Night Call](https://open.spotify.com/album/5li4QSdvxWxkes4fRqDR3t) | 2:33 | 2022-04-15 | 2022-06-25 |
 | [Late Night Cruisin'](https://open.spotify.com/track/4CAv2SgblWL9g2bf7Xft0W) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Late Night Cruisin'](https://open.spotify.com/album/1MF15bUjDTGL2ojqnJKldU) | 1:37 | 2022-04-15 | 2022-08-12 |
 | [late night thoughts](https://open.spotify.com/track/2MxnUB5s8RPbpbnoTZivFs) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [late night thoughts](https://open.spotify.com/album/4xXy2SrN8a7kUW18jlYO2L) | 1:37 | 2026-01-30 | 2026-02-07 |
@@ -1581,6 +1583,7 @@
 | [olive oil](https://open.spotify.com/track/17520et6mlj3SsxJUZ0RbZ) | [Sötma](https://open.spotify.com/artist/37oFJAxUb7MyB7ask0oirs) | [olive oil](https://open.spotify.com/album/2XqnMnyZPBONwj1TUFsBEP) | 1:58 | 2024-07-12 | 2025-07-18 |
 | [omuamua](https://open.spotify.com/track/1NDdxGxv9KHTT32tuj9GYY) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [omuamua](https://open.spotify.com/album/7bC2vK7iRGTfZibOgKjgKY) | 2:13 | 2026-09-04 |  |
 | [omw](https://open.spotify.com/track/46PM3cvVVSpFnco90yU4zk) | [Knowmadic](https://open.spotify.com/artist/0HcyeAioEKhfwVcJAoyN36) | [omw](https://open.spotify.com/album/15NdTmSabOkFfnm7b9fgCf) | 2:12 | 2024-06-28 |  |
+| [on a tuesday](https://open.spotify.com/track/4YGrnEZVSSnjSkjjVWQfsk) | [stillnote](https://open.spotify.com/artist/71URiGTdyY6ffXdsu3pzRL) | [on a tuesday](https://open.spotify.com/album/2wKT5oIGJpQbF0y0DgJNBr) | 2:06 | 2026-09-18 |  |
 | [on and off](https://open.spotify.com/track/0im5PdKDz2raraDknVtn8F) | [fly\_by\_wire](https://open.spotify.com/artist/68bqVC3nQPvOuKAYdQNUEj) | [on and off](https://open.spotify.com/album/3JwndlcwuI3X2eZFWHOC0r) | 2:06 | 2024-01-19 | 2026-02-07 |
 | [On Demand](https://open.spotify.com/track/5xDZcCoD5lenLkc3IUM2YR) | [Tom Doolie](https://open.spotify.com/artist/4C7NcNb9V6lakzMGHQlm8i) | [On Demand](https://open.spotify.com/album/72LlNQkCRr0myzBUSsmNCX) | 1:56 | 2023-02-06 | 2023-09-29 |
 | [On Empty](https://open.spotify.com/track/1UNiVCuUcoKHRol0ykFlBr) | [wovels tune](https://open.spotify.com/artist/2Q0DvYlO2XM5FrZy2dSJYX) | [On Empty](https://open.spotify.com/album/1YMJQUp4mQo2yrtIZ85keu) | 2:12 | 2022-12-23 | 2025-07-11 |
@@ -1905,7 +1908,7 @@
 | [Semester](https://open.spotify.com/track/0fNNBqC28Ap2KGyjZ3fVkz) | [Phive O](https://open.spotify.com/artist/3BazVVHaz03CY1JFfedL9L) | [Semester](https://open.spotify.com/album/4WvZPXhQMUz94Cf6AvTgZ9) | 2:05 | 2022-04-15 | 2022-05-27 |
 | [semi\-hollow](https://open.spotify.com/track/0WZmg03i0vltH03r3pDuex) | [Ponzi Skeemz](https://open.spotify.com/artist/217VkbBQjlErrkiDqNPDPM) | [semi\-hollow](https://open.spotify.com/album/4ctfPJLaYEBKhoy5E7aR3k) | 2:38 | 2024-01-12 |  |
 | [Sentosa](https://open.spotify.com/track/2rjTDMwuHyfTr3HSwAlMpa) | [Steve Nguyen](https://open.spotify.com/artist/0uWdW9U87jBwkzaz0Ts8p6), [Ricardo Schneider](https://open.spotify.com/artist/7waAdUdVySPnnQcHbj1rwv) | [Sentosa](https://open.spotify.com/album/5pAzfThJksEP3eyWzWfCzO) | 2:46 | 2022-07-22 | 2022-08-12 |
-| [Sentries](https://open.spotify.com/track/1glqyfGgl5ocubAauA2nQV) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC) | [Sentries](https://open.spotify.com/album/2ldsTM5QliroRYExZtZE1Y) | 1:27 | 2026-02-13 |  |
+| [Sentries](https://open.spotify.com/track/1glqyfGgl5ocubAauA2nQV) | [Half Blue](https://open.spotify.com/artist/2OFRhWUjfTKWj9XGiAZplC) | [Sentries](https://open.spotify.com/album/2ldsTM5QliroRYExZtZE1Y) | 1:27 | 2026-02-13 | 2026-09-19 |
 | [separate ways](https://open.spotify.com/track/4zIcaL6M0tAUmXiQeZp7IE) | [leaf land](https://open.spotify.com/artist/53oSRikHvu3IOUp2L8Rano) | [separate ways](https://open.spotify.com/album/5jsuVua8jgHydjorTJqqrC) | 2:01 | 2026-01-23 |  |
 | [September](https://open.spotify.com/track/7uu7u0v9IOOvDFpab8Yf6t) | [Sakloma24](https://open.spotify.com/artist/6PkzYxQ7Bae6IJyyhkPhmf) | [Boss Hogg](https://open.spotify.com/album/59CYVZphliSm8ekQ6z1jP5) | 1:46 | 2022-05-27 | 2024-05-14 |
 | [Serenade](https://open.spotify.com/track/2bfnKbCWBGqXQIRReLvCRC) | [URCHN](https://open.spotify.com/artist/6TsSBSisvQYCupsHmXe1iK), [Matchbox Youth](https://open.spotify.com/artist/16DVV7qn9iqu3g4QECcyRr) | [Serenade](https://open.spotify.com/album/0gG7jXS8cG4Fsc8w3ovDQ8) | 2:19 | 2022-07-29 | 2022-08-12 |
@@ -1997,7 +2000,7 @@
 | [Snacks On The Beach](https://open.spotify.com/track/7I9YFbEsvtYfAnR7MEdSCi) | [Shierro](https://open.spotify.com/artist/7EVtRX3E2y1wcAwd2YituJ) | [Snacks On The Beach](https://open.spotify.com/album/4lFuYHK0y9xpPAblxC0A3O) | 2:30 | 2022-04-15 | 2022-10-14 |
 | [Snag It](https://open.spotify.com/track/3c8ARxqGvlucNqj3kDiHES) | [Wolly](https://open.spotify.com/artist/0qxRZ4kkDJv5MXJuP4RzDD) | [Snag It](https://open.spotify.com/album/2EOeiv8NLKhqvuZtaG8YSq) | 1:36 | 2022-12-02 | 2023-02-07 |
 | [Snail Walking in the Rain](https://open.spotify.com/track/0LWXZ1G7pCnqoC4vCfxDLU) | [Moth On The Moon](https://open.spotify.com/artist/2zXUgkVijgWr0hxp4lVanS) | [Snail Walking in the Rain](https://open.spotify.com/album/59WqvkoX2tHnocepsPZACO) | 1:57 | 2025-06-13 | 2025-07-18 |
-| [Snake](https://open.spotify.com/track/3f54wTDSOKb9D4LSsqvA0p) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Snake](https://open.spotify.com/album/6rz9e8uyjOsx0ed1tlRkHy) | 2:32 | 2026-04-24 |  |
+| [Snake](https://open.spotify.com/track/3f54wTDSOKb9D4LSsqvA0p) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Snake](https://open.spotify.com/album/6rz9e8uyjOsx0ed1tlRkHy) | 2:32 | 2026-04-24 | 2026-09-19 |
 | [Snooze Groove](https://open.spotify.com/track/0Pvu5OJLVcukLnrLFZ8YgH) | [Dozy Duzzn](https://open.spotify.com/artist/2CPIZDGSe0zORQADHqFIAY) | [Snooze Groove](https://open.spotify.com/album/5CaL7WVwN9ZBYHbzcXLCL6) | 2:04 | 2024-08-23 | 2026-03-14 |
 | [snoozed](https://open.spotify.com/track/6HroDUYsLg9I6qtcfwIkmn) | [lilibu](https://open.spotify.com/artist/2GAEdgtVHrKsjcHqwUFjpI) | [snoozed](https://open.spotify.com/album/0wViZvA7s19WrpKIMFxfos) | 2:50 | 2024-08-30 | 2026-09-05 |
 | [SNOOZY](https://open.spotify.com/track/4XhPlXWcmojFQC93KicLkM) | [SLOWIFI](https://open.spotify.com/artist/6eUzsh8B4bKK2pUFD2eGQm) | [SNOOZY](https://open.spotify.com/album/0fNG0QHYogZKvDHTdTBwxd) | 2:00 | 2024-01-12 | 2025-11-26 |

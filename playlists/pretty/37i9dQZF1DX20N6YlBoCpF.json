@@ -1,12 +1,12 @@
 {
   "description": "Al die nuutste Afrikaanse musiek met Droomsindroom, Ricus Nel, WG Nel, CHARLIZE BERG en meer!",
-  "num_followers": 44434,
+  "num_followers": 44469,
   "original_name": "Nuwe Afrikaans",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADCdeNzIinpAP7SaqZzpLi2GLA5U",
+  "snapshot_id": "AAAAAHMcBkCrFkqqMM3Y92y87v1ysrjV",
   "tracks": [
     {
       "added_at": "2026-09-17 22:02:30",
@@ -71,6 +71,26 @@
       "duration_ms": 164464,
       "name": "Al Wat Ek Wil H\u00ea",
       "url": "https://open.spotify.com/track/7a6SwIG3fQusFlCI4ig6VC"
+    },
+    {
+      "added_at": "2026-09-18 07:09:23",
+      "album": {
+        "name": "Meisie Meisie",
+        "url": "https://open.spotify.com/album/3ZMSkGMMDwL8JsKaTd8f5R"
+      },
+      "artists": [
+        {
+          "name": "Kurt Darren",
+          "url": "https://open.spotify.com/artist/3fFoaTI85WuaVkSMUxeYRd"
+        },
+        {
+          "name": "Zaan Sonnekus",
+          "url": "https://open.spotify.com/artist/1QsjWZGFjaIYKyvxaQUJuR"
+        }
+      ],
+      "duration_ms": 213688,
+      "name": "Meisie Meisie",
+      "url": "https://open.spotify.com/track/5R1old1VkxFZu468PhPGwy"
     },
     {
       "added_at": "2026-09-17 22:02:30",
@@ -967,22 +987,6 @@
       "duration_ms": 192149,
       "name": "Halfpad",
       "url": "https://open.spotify.com/track/2G1KsYYIZF29YKuiMiKhTp"
-    },
-    {
-      "added_at": "2026-07-23 22:01:03",
-      "album": {
-        "name": "Annekantoe",
-        "url": "https://open.spotify.com/album/3UlKzYOTU31bB158WJrKmR"
-      },
-      "artists": [
-        {
-          "name": "Leon Ferreira",
-          "url": "https://open.spotify.com/artist/39uCiGH9MvKNvQXdklDchX"
-        }
-      ],
-      "duration_ms": 228304,
-      "name": "Annekantoe",
-      "url": "https://open.spotify.com/track/2n1wOm0DkrnEopsfwC3wCe"
     },
     {
       "added_at": "2026-07-02 22:01:24",

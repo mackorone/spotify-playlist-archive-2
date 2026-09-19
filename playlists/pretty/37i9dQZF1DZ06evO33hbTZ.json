@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6130,
+  "num_followers": 6131,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAABe/aP6VwsyLuX10fdnSs9h",
+  "snapshot_id": "aqstgAAAAABP5QH11C+IMwlbx/dfsy+4",
   "tracks": [
     {
       "added_at": null,
@@ -31,26 +31,6 @@
       "duration_ms": 160239,
       "name": "THIS YEAR (Blessings) - Remix",
       "url": "https://open.spotify.com/track/5IelW2v32KZHJKwsoJsAwN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Your Fada",
-        "url": "https://open.spotify.com/album/6bLFuSuIKIsqqyaxvqtvDx"
-      },
-      "artists": [
-        {
-          "name": "Snatcha",
-          "url": "https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl"
-        },
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 152557,
-      "name": "Your Fada",
-      "url": "https://open.spotify.com/track/4F48JYIzoHHifwondyNJSi"
     },
     {
       "added_at": null,
@@ -87,6 +67,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Has Done",
+        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "God Has Done",
+      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psalm 8",
         "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
       },
@@ -103,22 +99,6 @@
       "duration_ms": 199250,
       "name": "Psalm 8",
       "url": "https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Has Done",
-        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "God Has Done",
-      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
     },
     {
       "added_at": null,
@@ -347,42 +327,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Subscribed (Live)",
-        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        },
-        {
-          "name": "Ada Ehi",
-          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
-        }
-      ],
-      "duration_ms": 198518,
-      "name": "Subscribed - Live",
-      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ROOTED",
-        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 287316,
-      "name": "Reckless Love",
-      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Parlour Worship Medley",
         "url": "https://open.spotify.com/album/4op2MUKLfQTezGoT91rga1"
       },
@@ -411,6 +355,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "ROOTED",
+        "url": "https://open.spotify.com/album/52HK0MKJgUQsNM5sKCtS7s"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 287316,
+      "name": "Reckless Love",
+      "url": "https://open.spotify.com/track/3TgwaMBjmLa8T0DGZgVaoH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Subscribed (Live)",
+        "url": "https://open.spotify.com/album/7wUZqwtHb0JwuZytdKrrQE"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        },
+        {
+          "name": "Ada Ehi",
+          "url": "https://open.spotify.com/artist/27aJyju2K5sLLiCgZKemnt"
+        }
+      ],
+      "duration_ms": 198518,
+      "name": "Subscribed - Live",
+      "url": "https://open.spotify.com/track/4PH7CkhsXd4hlc1iTnUV4p"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "OMG",
         "url": "https://open.spotify.com/album/66y97RsgjPCEUB7AlsZaiT"
       },
@@ -435,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "ALONE WITH GOD (Spontaneous Worship)",
-        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
+        "name": "20Minutes Spontaneous Deep Worship",
+        "url": "https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr"
       },
       "artists": [
         {
@@ -444,9 +424,9 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 2526933,
-      "name": "ALONE WITH GOD (Spontaneous Worship)",
-      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+      "duration_ms": 1270909,
+      "name": "20Minutes Spontaneous Deep Worship",
+      "url": "https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA"
     },
     {
       "added_at": null,
@@ -467,8 +447,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "20Minutes Spontaneous Deep Worship",
-        "url": "https://open.spotify.com/album/7Hgz8JX3QN8SBD6lecp6Rr"
+        "name": "ALONE WITH GOD (Spontaneous Worship)",
+        "url": "https://open.spotify.com/album/2Z3o8lf2kZKvjVZRg80KvM"
       },
       "artists": [
         {
@@ -476,9 +456,29 @@
           "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
         }
       ],
-      "duration_ms": 1270909,
-      "name": "20Minutes Spontaneous Deep Worship",
-      "url": "https://open.spotify.com/track/1vyk4mYWTCURI39om3hWvA"
+      "duration_ms": 2526933,
+      "name": "ALONE WITH GOD (Spontaneous Worship)",
+      "url": "https://open.spotify.com/track/3SURAl2LSmzt7uX9uzUhMQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Your Fada",
+        "url": "https://open.spotify.com/album/6bLFuSuIKIsqqyaxvqtvDx"
+      },
+      "artists": [
+        {
+          "name": "Snatcha",
+          "url": "https://open.spotify.com/artist/39fYK5CHqdEbJj3oTJrAPl"
+        },
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 152557,
+      "name": "Your Fada",
+      "url": "https://open.spotify.com/track/4F48JYIzoHHifwondyNJSi"
     },
     {
       "added_at": null,
@@ -691,38 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BLESSINGS",
-        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 824408,
-      "name": "BLESSINGS",
-      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 190500,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Great is Your Faithfulness",
         "url": "https://open.spotify.com/album/60NUOnCVQ28gul1cqFo1hl"
       },
@@ -743,6 +711,38 @@
       "duration_ms": 1147000,
       "name": "Great is Your Faithfulness",
       "url": "https://open.spotify.com/track/7sjq9jAZBIcjMRsL6pQol7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 190500,
+      "name": "Water",
+      "url": "https://open.spotify.com/track/4zKGsQ2ryuPyP4yNIQDRB6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BLESSINGS",
+        "url": "https://open.spotify.com/album/0GHp6F6kRcQnsabEO0fpTU"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 824408,
+      "name": "BLESSINGS",
+      "url": "https://open.spotify.com/track/1vo3XKyNdpYtofLD9CihXP"
     },
     {
       "added_at": null,

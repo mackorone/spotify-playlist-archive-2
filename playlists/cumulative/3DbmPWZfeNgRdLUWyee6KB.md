@@ -4,7 +4,7 @@
 
 > The best new independent songs\. New tracks every month.
 
-1,503 songs - 3 day 15 hr 36 min
+1,506 songs - 3 day 15 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -507,6 +507,7 @@
 | [Heartbreak](https://open.spotify.com/track/4Kfz8tiFJqYn8lVRYwsdSC) | [Amovura](https://open.spotify.com/artist/73Yp1MIb1iXRJBYcwzPOSq) | [Heartbreak](https://open.spotify.com/album/3ogH4sbNLfvoo5B83dywvS) | 2:49 | 2025-11-17 | 2025-12-21 |
 | [Heartbreak Saved My Life](https://open.spotify.com/track/0tAfNHLq08mZw3nOcmxi8H) | [Dina Renee](https://open.spotify.com/artist/39cseH5ONOhKNHd02PcxlJ) | [Heartbreak Saved My Life](https://open.spotify.com/album/0LNXda2B2cTyfdsyr5Ss13) | 3:23 | 2025-12-22 | 2026-01-24 |
 | [Hell Has a Garden with Angels](https://open.spotify.com/track/4qM7VTi6CpgP04QhOcdObD) | [If by Whiskey](https://open.spotify.com/artist/2BN3IyVjJZIgTjYeK2FEu5) | [Higher Planes](https://open.spotify.com/album/2kVWUkqMYdQ9C9Lrc5YjNy) | 2:46 | 2026-06-02 | 2026-07-03 |
+| [Hello](https://open.spotify.com/track/6jlYvHtAqczyut8taxFsbB) | [Masked Family](https://open.spotify.com/artist/2v3CYqA4SYszVxUQ4uh4BK) | [Luna Crystal Blue](https://open.spotify.com/album/2aAh6nzbJcmxdf0uWO6ze5) | 2:35 | 2026-09-18 |  |
 | [Her Light , Unseen](https://open.spotify.com/track/0twmDCQjmHIF5HutJ3UeMH) | [YAJAC](https://open.spotify.com/artist/2lGR7UnmXxxPwcWS74QQG4) | [Her Light , Unseen](https://open.spotify.com/album/7B3perMaBT7qFl59RWIOiZ) | 3:17 | 2026-02-20 | 2026-03-25 |
 | [Here In My Heart](https://open.spotify.com/track/71zw4eqnxWlnKuOF44XAoS) | [RECLVSION](https://open.spotify.com/artist/71jk85yahoqkc3dEba3xCX) | [Here In My Heart](https://open.spotify.com/album/0FWjikd3YsqUevAKkfW2Y0) | 2:53 | 2026-07-04 | 2026-08-10 |
 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 | 2026-06-09 | 2026-07-19 |
@@ -1069,6 +1070,7 @@
 | [Rótulo](https://open.spotify.com/track/4F1QSRSGLiFmqKUZA2HOjR) | [Andre Santolin](https://open.spotify.com/artist/4nY8m3tltMGpIDJnKnLe8K), [Vanessa Louz](https://open.spotify.com/artist/4vUiVOcaAaHlwOWlNsWeXM) | [Rótulo](https://open.spotify.com/album/2QaYSsaNuZTTKxxoxTrBsg) | 4:34 | 2026-07-10 | 2026-08-10 |
 | [Saajna](https://open.spotify.com/track/2f9yKZiCmnGKgtkmsT67yP) | [Niswarth](https://open.spotify.com/artist/65dQV1yW3OrsEcy0O1b0S5), [Pradhumn Rajput](https://open.spotify.com/artist/2INevekE5kePA1zEWUXuih) | [Saajna](https://open.spotify.com/album/5VTsL2MF0q4Mjfvd7pV1Kx) | 4:00 | 2026-01-14 | 2026-02-20 |
 | [Sabor a Café](https://open.spotify.com/track/0EVejdb25HjSn1MEi9N8sw) | [Samuel Calderón](https://open.spotify.com/artist/6VFOsXn6LfGB6MMdQzvs4l) | [Problema Favorito](https://open.spotify.com/album/0NJKShNiu4WU6Iqxl9R6Ww) | 3:24 | 2025-12-15 | 2026-01-15 |
+| [Sadé Blade](https://open.spotify.com/track/6nFN1ewrrDbOyrWZ0me3jT) | [Citrus pop](https://open.spotify.com/artist/0EREt3VQhcJR27KlQIGOQ9) | [Sadé Blade](https://open.spotify.com/album/0F5nPvnRleywtSvOcbkjkT) | 2:20 | 2026-09-18 |  |
 | [Sai mondo l'ho capito](https://open.spotify.com/track/7IUdrwykrrNMjk68kaRzZm) | [kreio](https://open.spotify.com/artist/3kRclwJ3uJqLsAYwLLjcZK) | [Sai mondo l'ho capito](https://open.spotify.com/album/5V4C0WT4qhZfFAJnI1AOzK) | 3:17 | 2026-03-09 | 2026-04-12 |
 | [Salga el sol](https://open.spotify.com/track/7kUMy7807NMwPbkU3oecpG) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Puzzles](https://open.spotify.com/album/7e2bA6vx7HTLvrOtyFLChY) | 2:25 | 2026-05-26 | 2026-07-03 |
 | [Salida](https://open.spotify.com/track/34Aj31aeIkukCiYlbQjsMe) | [Jay Hofman](https://open.spotify.com/artist/4WWuKUayc9e9IQm8cAV72x) | [Salida](https://open.spotify.com/album/09qRipyIm17H5QKkqjACuF) | 2:57 | 2026-08-02 | 2026-08-30 |
@@ -1428,6 +1430,7 @@
 | [Weizenwetter](https://open.spotify.com/track/6zWKGR8Rn1EGib9mOP2jxf) | [LEEZE](https://open.spotify.com/artist/2IiWnyqGW4BZHM8THRSFpe) | [Weizenwetter](https://open.spotify.com/album/1HLwzEgafWcvuhsJqaIYgb) | 3:09 | 2026-05-29 | 2026-07-03 |
 | [Wenn ich nachts nicht schlafen kann](https://open.spotify.com/track/7popSOnP1uS3C7v0ortVPM) | [Mia Hermann](https://open.spotify.com/artist/6JfCDV2SyMKZfemIViLw9K) | [Kopf aus](https://open.spotify.com/album/18Aia1gxHqixLZBzt0zoi1) | 3:22 | 2026-08-27 |  |
 | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/track/3Mm300FDJhsQSvVngugH2G) | [Roi Aknin](https://open.spotify.com/artist/7yrnNLKe4mLE6OLb8EtO1u) | [We’re In The Same Boat \(Don’t Let Us Drown\)](https://open.spotify.com/album/6EsnMFhBUOTk6aTQ0rQKMU) | 3:12 | 2026-02-21 | 2026-03-25 |
+| [What About Now](https://open.spotify.com/track/0Fk4WKxOlbysiPIVARm0Lu) | [Gemma Cox](https://open.spotify.com/artist/5UHDRNiF6EMuzrtSq7tbXF) | [What About Now](https://open.spotify.com/album/4myIM1idgTbgMWXLChmzd6) | 3:34 | 2026-09-18 |  |
 | [What are you doing the rest of your life?](https://open.spotify.com/track/2KHHj0ghB5pkwVGoKbJDZF) | [Bob Salmieri](https://open.spotify.com/artist/13WVJToFNF7CLqefdFdoqa), [Danilo Gambardella](https://open.spotify.com/artist/79S5c90qxy2Bo0AxYfZMJE) | [What are you doing the rest of your life?](https://open.spotify.com/album/5UOBOEhS23KJ9kiVfsCjVr) | 5:37 | 2025-07-18 | 2026-01-05 |
 | [What I Want](https://open.spotify.com/track/4FQLB3tFAnXTQYKOUncEBP) | [Jimmie Chesh](https://open.spotify.com/artist/6UtfPj6jV1beO2Dg64uhY3) | [Waiting](https://open.spotify.com/album/27dSOVVwcVXBIPk9DwqVxf) | 3:35 | 2025-12-23 | 2026-01-24 |
 | [what you want](https://open.spotify.com/track/5iVs4X6pL9FvemLW8qEcFj) | [Prince Frencho](https://open.spotify.com/artist/2BwRP4jLpHD1Tj5BpB6qkQ) | [what you want](https://open.spotify.com/album/5rncqxKNvPAqA1nZFZ7yCy) | 2:34 | 2026-08-23 |  |

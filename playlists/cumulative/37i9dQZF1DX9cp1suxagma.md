@@ -4,7 +4,7 @@
 
 > Pop de los mejores artistas colombianos\. ¡Dale play! Foto: Camilo
 
-370 songs - 19 hr 25 min
+372 songs - 19 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [ctrl +z](https://open.spotify.com/track/3CiRNiGUuvestGbU2IFEOq) | [Antonia Jones](https://open.spotify.com/artist/5k51uvP0VIISXtITjGNRLL) | [¿a dónde van los besos rotos?](https://open.spotify.com/album/2rLcFmNqXAbaHuGOylgugu) | 3:53 | 2026-02-06 | 2026-05-30 |
 | [Cuando Nadie Ve](https://open.spotify.com/track/1Cxd4ZJJ9VOQQpNcpdcZEQ) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Cuando Nadie Ve](https://open.spotify.com/album/1TOxFOMe6FNpH8hENt9fIR) | 3:39 | 2023-02-17 | 2024-09-14 |
 | [Cuando Te Encuentre](https://open.spotify.com/track/19HWNXdno7mRCF6ILlkgdV) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY) | [Cuando Te Encuentre](https://open.spotify.com/album/3dz9ty3Lcdeyjef5IUd4GC) | 2:56 | 2023-08-25 | 2023-10-30 |
+| [Cuando Te Hayas Ido](https://open.spotify.com/track/5gy7wqECbSpypcZ6RB5GkT) | [Santiago Cruz](https://open.spotify.com/artist/5ClJtuiNlr83ua45Dvpcf7) | [Fragmentos](https://open.spotify.com/album/6JFcAexVjNUiaD58flvD5P) | 3:33 | 2026-09-18 |  |
 | [CUCARACHEO](https://open.spotify.com/track/5NMexEjiw22qnc3GxKtJuW) | [Sebastian Yatra](https://open.spotify.com/artist/07YUOmWljBTXwIseAUd9TW), [Jay Kabalan](https://open.spotify.com/artist/3CY1f5QW3qx9FmbkQGOwbm) | [CUCARACHEO](https://open.spotify.com/album/3YgQj8RwGWcZpSn6FQP5kQ) | 2:33 | 2026-02-13 | 2026-05-30 |
 | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/track/3j0avHj4G5EPk6sCCj8NdQ) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [CULE POCO \(sirena\_besarico\_costeña\)](https://open.spotify.com/album/2AjV3IQ9rioKsjNPW2JiPC) | 2:20 | 2026-05-01 |  |
 | [Culpables](https://open.spotify.com/track/3RD0PGolM0mETGHaprwgMn) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Culpables](https://open.spotify.com/album/0ojcVRT3LvPrnuTP2VUaSA) | 3:53 | 2023-02-17 | 2023-07-01 |
@@ -231,7 +232,7 @@
 | [NO SUPISTE CUIDARNOS \- Respuesta \#2](https://open.spotify.com/track/0XYnxyC3AgBO8B19iqc3r4) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM), [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g) | [NO SUPISTE CUIDARNOS \(Respuesta \#2\)](https://open.spotify.com/album/0NTnrfFM9oczlM1795mwLQ) | 2:55 | 2025-09-05 |  |
 | [No Sé Querer](https://open.spotify.com/track/0QnOCHmZ6yH5J0gajW9jf2) | [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [No Sé Querer](https://open.spotify.com/album/5mCGmJ3N1H0ARTdBCihqMO) | 3:25 | 2023-02-17 | 2024-09-07 |
 | [No Sé Si Volverá](https://open.spotify.com/track/4KZrzzj4Js25wBYhmUBRNr) | [Superlitio](https://open.spotify.com/artist/2zipzOx6MIp5B8fmxR7bLB), [Andrés Cepeda](https://open.spotify.com/artist/49Z1AvGeUaBSanPaOmplK6) | [X Revisitado](https://open.spotify.com/album/0VHJPkZR0bh3dOE67Fog6v) | 4:22 | 2023-04-28 | 2023-11-04 |
-| [No Te Esperaba](https://open.spotify.com/track/39VpoxiF5HN43Hkc9flyGa) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Nada es Permanente](https://open.spotify.com/album/3BRumEgSsjbXY4uF1vfPCE) | 3:12 | 2026-05-08 |  |
+| [No Te Esperaba](https://open.spotify.com/track/39VpoxiF5HN43Hkc9flyGa) | [Paula Arenas](https://open.spotify.com/artist/4ay2pQwnYqa44OAnWCGix2) | [Nada es Permanente](https://open.spotify.com/album/3BRumEgSsjbXY4uF1vfPCE) | 3:12 | 2026-05-08 | 2026-09-19 |
 | [No Tengo Remedio](https://open.spotify.com/track/2R6VN8srZYSecU20Un9Nni) | [Ela Taubert](https://open.spotify.com/artist/5xS8cfsAaFyy188dNJGDbM) | [No Tengo Remedio](https://open.spotify.com/album/0DM3TZ2kLXKPCpfAgMk49F) | 3:09 | 2026-09-04 |  |
 | [No Vivirías Igual](https://open.spotify.com/track/1Ti5iLAbHICLtvkQW1d4YZ) | [Emyl Rusev](https://open.spotify.com/artist/6nlEU8dj964UFSPfojvK5L) | [No vivirías igual](https://open.spotify.com/album/0PK4vZ49RHea4vSJqD5r42) | 2:54 | 2026-08-28 |  |
 | [Noche Eterna](https://open.spotify.com/track/3qaKKH1lf9vp3InT2wDBiS) | [Manú](https://open.spotify.com/artist/3iyr6xJPyHx8ptqqzMHDVE) | [Noche Eterna](https://open.spotify.com/album/12XCMP9FULSvpLDBozulb6) | 2:48 | 2025-05-23 | 2025-05-31 |
@@ -254,7 +255,7 @@
 | [Pelo Suelto](https://open.spotify.com/track/1qNxLFVArTx1apjahvwbgR) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy), [Conociendo Rusia](https://open.spotify.com/artist/79R7PUc6T6j09G8mJzNml2) | [Pelo Suelto](https://open.spotify.com/album/5GMwzpHmzwPY1qcd2psoYt) | 3:24 | 2023-06-23 | 2023-11-11 |
 | [Perfecta](https://open.spotify.com/track/1JPCPOhvzCTEBAholSpt3T) | [Nia Sierra](https://open.spotify.com/artist/3ELKb8yF5ZV6oP7BWEjZEb) | [Perfecta](https://open.spotify.com/album/3Cqb31rcK84oAlVebjOsOo) | 2:30 | 2024-06-28 |  |
 | [Planeta](https://open.spotify.com/track/4rFB9ALhEivDQfGZ0XR4ih) | [Cristina Charry](https://open.spotify.com/artist/4wWSI10oOA9RsE0ELsAXAQ), [Ana Sanz](https://open.spotify.com/artist/1wFieEqzZtcjkSIHtVk2YD) | [Planeta](https://open.spotify.com/album/4acHHuwfEyhY1ZL381voCz) | 2:34 | 2024-08-02 | 2024-09-27 |
-| [Planetas](https://open.spotify.com/track/2WzigCWeKa1LrTPbe6nUJq) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Planetas](https://open.spotify.com/album/5BsM6aELM0cxx7l67nP0EK) | 2:59 | 2023-02-17 |  |
+| [Planetas](https://open.spotify.com/track/2WzigCWeKa1LrTPbe6nUJq) | [Alejandro Santamaria](https://open.spotify.com/artist/7HXJp9OMIL5tdwZYleuBvy) | [Planetas](https://open.spotify.com/album/5BsM6aELM0cxx7l67nP0EK) | 2:59 | 2023-02-17 | 2026-09-19 |
 | [Poema](https://open.spotify.com/track/4ki07OxnhAu6PT5iViZxye) | [Las Villa](https://open.spotify.com/artist/0sXJRmgbjbq6Q5uu4W1wDM) | [Flow Romántico](https://open.spotify.com/album/4r0PI0BKDrDhftCfvFjxWT) | 2:35 | 2026-03-18 | 2026-03-27 |
 | [Por Hacerme el Bueno](https://open.spotify.com/track/5kTBmo3zNcnlm6saZRFrHR) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [Por Hacerme el Bueno](https://open.spotify.com/album/3M97oXb58OyZJrO8PdWaLp) | 4:12 | 2024-04-12 |  |
 | [Por Hacerme el Bueno](https://open.spotify.com/track/1iEIQ69PuAM76GCBT9HCek) | [Bacilos](https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl) | [¿Dónde Nos Quedamos?](https://open.spotify.com/album/3jcXAJvWPnHyDsUtrFqBIx) | 4:12 | 2023-02-17 | 2024-04-19 |
@@ -283,6 +284,7 @@
 | [Roca](https://open.spotify.com/track/2zujvi2Jef8V014b9ev3Ll) | [César Pinzón](https://open.spotify.com/artist/6WmcwbAC7wUcuPzXzxxcG6) | [¿Qué Pasó en el 20XX?](https://open.spotify.com/album/6llY3eFZ4NYFQORYhLXXOX) | 3:24 | 2023-05-26 | 2023-09-09 |
 | [Rompecabezas](https://open.spotify.com/track/7mMMs48wi2SAxDPrBiVXsm) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [Rompecabezas](https://open.spotify.com/album/5iyRIoZahas3q6yqEZzGgl) | 3:27 | 2025-12-19 | 2026-02-28 |
 | [Salir Con Vida](https://open.spotify.com/track/5OX1JvE7gTkOd1DSzlrtFw) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD), [Feid](https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo) | [Salir Con Vida](https://open.spotify.com/album/3mwKjQSJdQTY0ZdakLi0Vp) | 2:56 | 2023-02-17 |  |
+| [Segunda Cita](https://open.spotify.com/track/0M4EZodLBU7pomErJ9hD5W) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [Segunda Cita](https://open.spotify.com/album/7nhWuuDKZNuXOHucKvXlm2) | 2:50 | 2026-09-18 |  |
 | [Segundos Platos](https://open.spotify.com/track/1pHZf30WYm6CQukt7TvNPM) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [SI AYER FUERA HOY](https://open.spotify.com/album/1BUb9ayIoyy6T3iwMscDts) | 3:04 | 2023-02-17 |  |
 | [Serenata](https://open.spotify.com/track/0Ek2vjTPwy3fXKQnsXy8MH) | [Mike Bahía](https://open.spotify.com/artist/1phfTBIocBW3UwqcYjaEN6) | [Serenata](https://open.spotify.com/album/3DCcGs0cLdjIS43YAIYPix) | 3:26 | 2023-02-17 |  |
 | [Serpiente](https://open.spotify.com/track/03BmpPex7wowkAhdPgFEeG) | [Manuel Medrano](https://open.spotify.com/artist/0i5iO6icb7kxg48thi9gBM) | [SUPERIOR](https://open.spotify.com/album/7Aa5Xb8P3l5DPYvn3drCCM) | 3:33 | 2025-11-07 | 2025-12-06 |

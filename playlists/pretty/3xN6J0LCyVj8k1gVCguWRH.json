@@ -1,12 +1,12 @@
 {
   "description": "Obama&#x27;s actual playlist? Nope, just a fan who grouped all his summer song picks into one list. (2026, 2024 &amp; 2023 + bonus tracks) Enjoy! ",
-  "num_followers": 143360,
+  "num_followers": 143362,
   "original_name": "Obama\u2019s Summer Playlist 2026",
   "owner": {
     "name": "SoundsDeli",
     "url": "https://open.spotify.com/user/soundsdeli"
   },
-  "snapshot_id": "AAA+3soUzs7D+haE8ssolQu3SNRIKn43",
+  "snapshot_id": "AAA+6dlyrnQSmi+GMUXv8nRjsKA4yxFg",
   "tracks": [
     {
       "added_at": "2026-07-30 16:30:00",
@@ -187,6 +187,22 @@
       "duration_ms": 280440,
       "name": "One Eyed Jack",
       "url": "https://open.spotify.com/track/6nQOI0eKINNjbi76Ymzhfc"
+    },
+    {
+      "added_at": "2026-09-18 12:56:40",
+      "album": {
+        "name": "\u00daltima Noche",
+        "url": "https://open.spotify.com/album/31eLPJ8ubv5TSF2l06nFhd"
+      },
+      "artists": [
+        {
+          "name": "Sergi",
+          "url": "https://open.spotify.com/artist/1YdO9GJZicIofAYHnFZSwv"
+        }
+      ],
+      "duration_ms": 189254,
+      "name": "\u00daltima Noche",
+      "url": "https://open.spotify.com/track/3zXSeTu987386oTJo3i1F6"
     },
     {
       "added_at": "2026-07-30 16:34:37",
@@ -1037,6 +1053,22 @@
       "url": "https://open.spotify.com/track/6OLlACmD4AlW2N7CWVhVxO"
     },
     {
+      "added_at": "2026-09-18 13:01:42",
+      "album": {
+        "name": "By The River",
+        "url": "https://open.spotify.com/album/7p55zVmytZ7Hg5op4VpDMb"
+      },
+      "artists": [
+        {
+          "name": "Davie",
+          "url": "https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06"
+        }
+      ],
+      "duration_ms": 159750,
+      "name": "By The River",
+      "url": "https://open.spotify.com/track/3hBXaSKCYYLgnwJ2qIcqUd"
+    },
+    {
       "added_at": "2026-09-12 12:53:08",
       "album": {
         "name": "Whatever Feels Good",
@@ -1791,6 +1823,26 @@
       "duration_ms": 220729,
       "name": "Only Love Me",
       "url": "https://open.spotify.com/track/7J5yxzx5WXoqeu2hVtLMKp"
+    },
+    {
+      "added_at": "2026-09-18 19:55:52",
+      "album": {
+        "name": "Die in Peace",
+        "url": "https://open.spotify.com/album/7xVJlLCCfS1Hil9mp8e8Hx"
+      },
+      "artists": [
+        {
+          "name": "Scribbles Who",
+          "url": "https://open.spotify.com/artist/2MRE0EnE3kUdMOsOGeBSG3"
+        },
+        {
+          "name": "YDV",
+          "url": "https://open.spotify.com/artist/4ZyEDjgPrbX47OOgGg6Rqk"
+        }
+      ],
+      "duration_ms": 230270,
+      "name": "Die in Peace",
+      "url": "https://open.spotify.com/track/6y9ZDDXdXwwCZHBaOh4r2j"
     },
     {
       "added_at": "2024-08-12 20:33:17",
@@ -3019,6 +3071,38 @@
       "duration_ms": 427093,
       "name": "Love & Hate",
       "url": "https://open.spotify.com/track/7oOEFDLSQscl0uGulnIEmG"
+    },
+    {
+      "added_at": "2026-09-19 00:02:16",
+      "album": {
+        "name": "Maybe It's You",
+        "url": "https://open.spotify.com/album/66gZHBKJZ8BhWox7uHRGTX"
+      },
+      "artists": [
+        {
+          "name": "JOHN MERXIA",
+          "url": "https://open.spotify.com/artist/5ktanFKJp6v1meDC0GrkyM"
+        }
+      ],
+      "duration_ms": 117227,
+      "name": "Maybe It's You",
+      "url": "https://open.spotify.com/track/1nvo2JnTlxNcPAfZLwmsfm"
+    },
+    {
+      "added_at": "2026-09-18 18:05:33",
+      "album": {
+        "name": "Codeine",
+        "url": "https://open.spotify.com/album/5ZgiRowgbYpBcJT58sVXVZ"
+      },
+      "artists": [
+        {
+          "name": "PKG Vntz",
+          "url": "https://open.spotify.com/artist/4yxQydQCmkReK5P5B1IbuM"
+        }
+      ],
+      "duration_ms": 145454,
+      "name": "Codeine",
+      "url": "https://open.spotify.com/track/1C3Jy7EWePIPekAV66K5Fh"
     },
     {
       "added_at": "2026-09-17 02:05:00",

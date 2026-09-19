@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 
 > Ouça os últimos lançamentos da música Cristã\. Foto: Isadora Pompeo
 
-[Spotify](https://open.spotify.com/user/spotify) - 381,026 likes - 50 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 381,280 likes - 50 songs - 4 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 12 | [Uma por Uma \- Ao Vivo](https://open.spotify.com/track/5HlkiKDkEJ6g7WEmCwnJvk) | [Kemilly Santos](https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Uma por Uma \(Ao Vivo\)](https://open.spotify.com/album/6U6n2VYTFtRrR8vFU86SAh) | 4:31 |
 | 13 | [Ressuscita](https://open.spotify.com/track/2Dh7fpdgIWEOOUk9kjIaKc) | [Raquel Mello](https://open.spotify.com/artist/3dlQ2CtcGsR7lOtLGATtSd), [Paulo Cesar Baruk](https://open.spotify.com/artist/0GQKmEguhkY8DCzH4NdJvD), [ CGM \- Central Gospel Music](https://open.spotify.com/artist/0w3McsbWl0CdYnJ9SOruUq) | [Ressuscita](https://open.spotify.com/album/6UfGfOSQhUvGa2xidR0Whr) | 5:50 |
 | 14 | [Eu Creio em Deus \(Ao Vivo\)](https://open.spotify.com/track/04YIUKP8wjuLPFAkClJizL) | [Sarah Farias](https://open.spotify.com/artist/3YvHDhzmrkcYZuKN7A2KBK), [Brunno Ramos](https://open.spotify.com/artist/2BUPdjSDiE8znjJPfIjPTb) | [Eu Creio em Deus \(Ao Vivo\)](https://open.spotify.com/album/4BlUEO0f1ZbDOkipT6gT2I) | 3:30 |
-| 15 | [É Aqui](https://open.spotify.com/track/66w1IKdznZf6zAyo1Dk012) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [É Aqui](https://open.spotify.com/album/56cQuFiX8LM8DcDYZ47Kga) | 4:45 |
-| 16 | [Mais do que Cantar \- Ao Vivo](https://open.spotify.com/track/36tCsZ3d4eRksmOEhWzQlJ) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [O Céu É o Meu Lar \(Ao Vivo\)](https://open.spotify.com/album/3NRVpQ0qlPEoMGj5I3fOfB) | 7:17 |
+| 15 | [Tudo Novo / Maranata \- Ao Vivo](https://open.spotify.com/track/1lql7PYuQF4vRnBh8QTeKf) | [Rachel Novaes](https://open.spotify.com/artist/6gU3EmyD7Jzv8QZtiMwGRn), [fhop music](https://open.spotify.com/artist/0V208yTQ5OGOUBZuszu6Fn) | [Tudo Novo \| 25 anos \- Parte 2: Presença \(Ao Vivo\)](https://open.spotify.com/album/0pUXoscu8IEaVcgsmky1VY) | 10:17 |
+| 16 | [É Aqui](https://open.spotify.com/track/66w1IKdznZf6zAyo1Dk012) | [Suellen Lima](https://open.spotify.com/artist/4SqxTYV3Tdwo2JshGLlH6P) | [É Aqui](https://open.spotify.com/album/56cQuFiX8LM8DcDYZ47Kga) | 4:45 |
 | 17 | [Livro do Cordeiro](https://open.spotify.com/track/0U1nD45MDlon0Qnyr4xlQJ) | [Aline Barros](https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo) | [Livro do Cordeiro](https://open.spotify.com/album/43gT6m3XyqjHQ4kW9ouAGl) | 5:58 |
 | 18 | [A CRISTO SEJA A GLÓRIA](https://open.spotify.com/track/3R92iO0RYDUBUeRCBmt2ll) | [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Gabriela Rocha](https://open.spotify.com/artist/4fdCGYM7dtJLa3LvR1ccto) | [A CRISTO SEJA A GLÓRIA](https://open.spotify.com/album/23mpLYp1CECNRnK9Xy7xgu) | 9:38 |
 | 19 | [Até Depois do Fim \- Ao Vivo](https://open.spotify.com/track/3Xs3IfXaFkZn3UInOLqctz) | [Misaias Oliveira](https://open.spotify.com/artist/0nQgkrgwYvnmvP4UihHaQt), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Até Depois do Fim \(Ao Vivo\)](https://open.spotify.com/album/7uzOOc5adUvg1mp1b74ulV) | 6:38 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ROOw5S4Xdq.md) - [plain]
 | 49 | [Meu Alvo \(Ao Vivo\)](https://open.spotify.com/track/5QDesvAfEEjnBO2py9h2sN) | [Jonata Cabral](https://open.spotify.com/artist/0RwWKoLV3ZRPZP5ZuDV1Rp) | [Meu Alvo \(Ao Vivo\)](https://open.spotify.com/album/7DsbMjFst6ZLsV6OJ1MBmD) | 3:49 |
 | 50 | [O Céu é o Meu Lar \- Acústico](https://open.spotify.com/track/7kvQI0lykVp0nvKOAK9Mws) | [Adoração Central](https://open.spotify.com/artist/3eAdvab03DC4n3jZ18HYP4), [Gustavo Silva](https://open.spotify.com/artist/3GGrQcaaAEx6OC4hDef0mt), [Daiana Celano](https://open.spotify.com/artist/0A7O8vWr8zmjwcZrmswa9o) | [O Céu é o Meu Lar \(Acústico\)](https://open.spotify.com/album/3EaWU9ssMe3xhq82HGx0dx) | 4:34 |
 
-Snapshot ID: `AAAAAKevH/v9t9pM83M/UgFyrVcNvVs2`
+Snapshot ID: `AAAAABUHSEi40Kw6/rwn+qDdtq7ocGGU`

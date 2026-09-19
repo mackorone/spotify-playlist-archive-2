@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Explore all things indie rock right now. Featuring music from Julia Jacklin",
+  "description": "Explore all things indie rock right now. Featuring music from Winyah",
   "name": "Today's Indie Rock",
   "tracks": [
     {
@@ -17247,6 +17247,24 @@
     },
     {
       "album": {
+        "name": "Right Here, Right Now",
+        "url": "https://open.spotify.com/album/0Xd4UED1htvc8sZMfNE5T9"
+      },
+      "artists": [
+        {
+          "name": "Winyah",
+          "url": "https://open.spotify.com/artist/4iyP4VOGOLzbt2Vxcyu6zG"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204235,
+      "name": "I Am Of Course",
+      "url": "https://open.spotify.com/track/653sip0zLVKhfUgnc2BAYL"
+    },
+    {
+      "album": {
         "name": "I Am One Thousand",
         "url": "https://open.spotify.com/album/50fUKvIVKc2X46746Xu8hx"
       },
@@ -20062,6 +20080,24 @@
       "duration_ms": 170624,
       "name": "Juliette",
       "url": "https://open.spotify.com/track/1Po2n7GxUAf6snaUxYekd5"
+    },
+    {
+      "album": {
+        "name": "June 2 (Early Version)",
+        "url": "https://open.spotify.com/album/4jRlOp8Q5JPE3RPVrDDu1K"
+      },
+      "artists": [
+        {
+          "name": "Wednesday",
+          "url": "https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212720,
+      "name": "June 2 - Early Version",
+      "url": "https://open.spotify.com/track/371NJco2wnSGa4sQu4mRrF"
     },
     {
       "album": {
@@ -28949,6 +28985,24 @@
     },
     {
       "album": {
+        "name": "Melodie",
+        "url": "https://open.spotify.com/album/3pCuWK1YLBdu96F3wIGqjy"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208937,
+      "name": "Red Car",
+      "url": "https://open.spotify.com/track/1iZsQ8JtDEjZojlFOBrDRi"
+    },
+    {
+      "album": {
         "name": "Red Couch",
         "url": "https://open.spotify.com/album/1767l1LGvYXvlVsl2Oq924"
       },
@@ -36943,6 +36997,24 @@
     },
     {
       "album": {
+        "name": "too late",
+        "url": "https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ"
+      },
+      "artists": [
+        {
+          "name": "Juney Boy",
+          "url": "https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190157,
+      "name": "too late",
+      "url": "https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu"
+    },
+    {
+      "album": {
         "name": "Too Late!",
         "url": "https://open.spotify.com/album/6xotdUwvU7d0MaYhbVKXvw"
       },
@@ -38701,6 +38773,24 @@
     },
     {
       "album": {
+        "name": "Wave Has a Place",
+        "url": "https://open.spotify.com/album/2zTrF75HZXccghZCO2V2pW"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129840,
+      "name": "Wave Has a Place",
+      "url": "https://open.spotify.com/track/6zu2CSLcjJ15uumyXddXTg"
+    },
+    {
+      "album": {
         "name": "Waxwing",
         "url": "https://open.spotify.com/album/49vsrHjBAKKFj6PMjwQu6h"
       },
@@ -40021,6 +40111,24 @@
     },
     {
       "album": {
+        "name": "Wishing Bone",
+        "url": "https://open.spotify.com/album/7xtBW8XGdQdjPwnlZ8G42P"
+      },
+      "artists": [
+        {
+          "name": "Freak Slug",
+          "url": "https://open.spotify.com/artist/5wk7sY8GIg5ihSI09EbWeS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208800,
+      "name": "Wishing Bone",
+      "url": "https://open.spotify.com/track/1Rpc4MF6q5kH63rozkvlZg"
+    },
+    {
+      "album": {
         "name": "With Only Your Mouth",
         "url": "https://open.spotify.com/album/3in3hrBp5PsAjMngNXVmPB"
       },
@@ -40382,6 +40490,24 @@
       "duration_ms": 222453,
       "name": "Wristwatch",
       "url": "https://open.spotify.com/track/6HsIV3KVhmY20DAyt5u0ug"
+    },
+    {
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194103,
+      "name": "Write Me A Letter",
+      "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
     },
     {
       "album": {

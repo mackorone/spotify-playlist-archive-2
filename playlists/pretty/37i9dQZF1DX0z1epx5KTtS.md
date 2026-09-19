@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 
 > The best of Coupé Décalé and Biama from the continent to Paris\. Photo : Safarel Obiang
 
-[Spotify](https://open.spotify.com/user/spotify) - 139,077 likes - 40 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 139,131 likes - 40 songs - 1 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0z1epx5KTtS.md) - [plain]
 | 39 | [Mignon Garçon](https://open.spotify.com/track/3rIdDhDjMRKOXMOPofsGxm) | [Momo Hayek](https://open.spotify.com/artist/1oP2Sl67EVqRA4Khgriski), [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [Mignon Garçon](https://open.spotify.com/album/1WIiGoSuSliouuJevYqviW) | 2:54 |
 | 40 | [senvolement](https://open.spotify.com/track/2LL3bN6fchZxhE3axSyGjn) | [Sonik](https://open.spotify.com/artist/1pZnslHopDREVLA0hjtpgR) | [senvolement](https://open.spotify.com/album/1WGOlaHW9q6nBP9X6u9vwW) | 1:14 |
 
-Snapshot ID: `AAAAAMlMimSb226hwMvtXhyND1bWdFat`
+Snapshot ID: `AAAAAM7wnDSIneD/WsKGKQj8TExEmqC5`

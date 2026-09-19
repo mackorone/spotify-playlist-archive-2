@@ -5383,6 +5383,24 @@
     },
     {
       "album": {
+        "name": "The Long Return",
+        "url": "https://open.spotify.com/album/4XJd4lS5T8QnUww28zblCt"
+      },
+      "artists": [
+        {
+          "name": "Ezequiel Arag\u00f3n",
+          "url": "https://open.spotify.com/artist/683KE92SAUqlhIstBnBBXd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126343,
+      "name": "The Long Return",
+      "url": "https://open.spotify.com/track/5AevI3cV3brwdOTSh1sfNo"
+    },
+    {
+      "album": {
         "name": "The Old Garden",
         "url": "https://open.spotify.com/album/4Jb3hdLpWGCRrNM6so6KXM"
       },

@@ -427,6 +427,24 @@
     },
     {
       "album": {
+        "name": "DEJAVU",
+        "url": "https://open.spotify.com/album/50XHxZ6jnr6kUNSX3X95Lg"
+      },
+      "artists": [
+        {
+          "name": "KWON EUNBI",
+          "url": "https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182000,
+      "name": "DEJAVU",
+      "url": "https://open.spotify.com/track/2C9LBzDg7yBm8pdHQQuYLw"
+    },
+    {
+      "album": {
         "name": "Deutsche Pop / United Pop: Campus Compilation 4th Edition",
         "url": "https://open.spotify.com/album/6KYElnHWvVU1UGaCnRgaU4"
       },

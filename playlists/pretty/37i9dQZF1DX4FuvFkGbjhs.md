@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 
 > Beyond titles, beyond genre\. Cover: Joy Crookes
 
-[Spotify](https://open.spotify.com/user/spotify) - 197,807 likes - 80 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 197,794 likes - 80 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4FuvFkGbjhs.md) - [plain]
 | 79 | [The Rot](https://open.spotify.com/track/0BXd8OZonjsjn6VelekrpD) | [Mother Soki](https://open.spotify.com/artist/08W3G3y83p0TLqqjiyKXBk) | [The Rot](https://open.spotify.com/album/04TXLv2JHrjWwedE0e4BvF) | 3:16 |
 | 80 | [MEZZANINE](https://open.spotify.com/track/2cXZlQo84TruuheHlho8A0) | [otta](https://open.spotify.com/artist/2c04R4WjyZyi1qiRLPhpsO) | [MEZZANINE](https://open.spotify.com/album/0H21c88LLaA0ATOBSLaEB6) | 8:29 |
 
-Snapshot ID: `AAAAAEWQGtZN1WvrLT9Y4fFxl1CETwY6`
+Snapshot ID: `AAAAAMFNJDpJOQYDJHFBLGlnEwPNsyE4`

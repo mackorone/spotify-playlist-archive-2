@@ -1,12 +1,12 @@
 {
   "description": "Your escape to the world of chill Indian pop. Cover - Jubin Nautiyal & Elnaaz Norouzi",
-  "num_followers": 136071,
+  "num_followers": 136111,
   "original_name": "I-Pop Chill",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEa2wiDtIPcZxwi/kIGB6fNIaY5f",
+  "snapshot_id": "AAAAAJwSXvO1A6PH9JCVWPQHvE7/fbMr",
   "tracks": [
     {
       "added_at": "2026-09-02 09:14:00",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
-        "name": "I-Popstar: Vol. 1 | Episodes 1\u20133",
-        "url": "https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b"
-      },
-      "artists": [
-        {
-          "name": "Maan Panu",
-          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
-        }
-      ],
-      "duration_ms": 159187,
-      "name": "I\u2019m Done. - I-Popstar: Vol. 1",
-      "url": "https://open.spotify.com/track/0YRpv07J0y7J73X87efpia"
-    },
-    {
-      "added_at": "2026-09-02 09:14:00",
-      "album": {
         "name": "Thinking of You",
         "url": "https://open.spotify.com/album/7zSGzs1r6SF5I2T5ZfzNCa"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 180217,
       "name": "Thinking of You",
       "url": "https://open.spotify.com/track/0rSU2KwpOCqLVDCPwd4WbE"
+    },
+    {
+      "added_at": "2026-09-02 09:14:00",
+      "album": {
+        "name": "I-Popstar: Vol. 1 | Episodes 1\u20133",
+        "url": "https://open.spotify.com/album/3dlhatca0G1nYPziLwSl4b"
+      },
+      "artists": [
+        {
+          "name": "Maan Panu",
+          "url": "https://open.spotify.com/artist/3lRhKw5gfTNnpnPFFE7TfQ"
+        }
+      ],
+      "duration_ms": 159187,
+      "name": "I\u2019m Done. - I-Popstar: Vol. 1",
+      "url": "https://open.spotify.com/track/0YRpv07J0y7J73X87efpia"
     },
     {
       "added_at": "2026-09-02 09:14:00",
@@ -323,6 +323,22 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
+        "name": "With You",
+        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
+      },
+      "artists": [
+        {
+          "name": "AP Dhillon",
+          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
+        }
+      ],
+      "duration_ms": 154554,
+      "name": "With You",
+      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
+    },
+    {
+      "added_at": "2026-09-02 09:14:00",
+      "album": {
         "name": "Main Rahoon Ya Na Rahoon",
         "url": "https://open.spotify.com/album/2hlpZpzFRp0SxM8Fk50dsp"
       },
@@ -343,22 +359,6 @@
       "duration_ms": 309457,
       "name": "Main Rahoon Ya Na Rahoon",
       "url": "https://open.spotify.com/track/6f3ANRNQ8nCiPZ6VqXqq93"
-    },
-    {
-      "added_at": "2026-09-02 09:14:00",
-      "album": {
-        "name": "With You",
-        "url": "https://open.spotify.com/album/30eM1PJ8qLZJeEykhcje0j"
-      },
-      "artists": [
-        {
-          "name": "AP Dhillon",
-          "url": "https://open.spotify.com/artist/6LEG9Ld1aLImEFEVHdWNSB"
-        }
-      ],
-      "duration_ms": 154554,
-      "name": "With You",
-      "url": "https://open.spotify.com/track/0xIuPDzJSnJywALez8dwKR"
     },
     {
       "added_at": "2026-09-02 09:14:00",
@@ -411,26 +411,6 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
-        "name": "Rang Lageya",
-        "url": "https://open.spotify.com/album/3Gv6LmSvfxkUFmw8KCmUEr"
-      },
-      "artists": [
-        {
-          "name": "Mohit Chauhan",
-          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
-        },
-        {
-          "name": "Rochak Kohli",
-          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
-        }
-      ],
-      "duration_ms": 227962,
-      "name": "Rang Lageya",
-      "url": "https://open.spotify.com/track/7mSzDKajY2wUtstQSLdzMK"
-    },
-    {
-      "added_at": "2026-09-02 09:14:00",
-      "album": {
         "name": "Brown Munde",
         "url": "https://open.spotify.com/album/1Ac8fcWoMbo35vD3B5Tjqs"
       },
@@ -459,6 +439,26 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
+        "name": "Rang Lageya",
+        "url": "https://open.spotify.com/album/3Gv6LmSvfxkUFmw8KCmUEr"
+      },
+      "artists": [
+        {
+          "name": "Mohit Chauhan",
+          "url": "https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS"
+        },
+        {
+          "name": "Rochak Kohli",
+          "url": "https://open.spotify.com/artist/3dN9MQpjIyNxyeRfz4EDZe"
+        }
+      ],
+      "duration_ms": 227962,
+      "name": "Rang Lageya",
+      "url": "https://open.spotify.com/track/7mSzDKajY2wUtstQSLdzMK"
+    },
+    {
+      "added_at": "2026-09-02 09:14:00",
+      "album": {
         "name": "Dheere Dheere",
         "url": "https://open.spotify.com/album/5shKctJ4loVT41X1nxYkx2"
       },
@@ -471,6 +471,30 @@
       "duration_ms": 212412,
       "name": "Dheere Dheere",
       "url": "https://open.spotify.com/track/4fyR24BKznXBLNkK8LwWla"
+    },
+    {
+      "added_at": "2026-09-02 09:14:00",
+      "album": {
+        "name": "Banger",
+        "url": "https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Hiten",
+          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
+        },
+        {
+          "name": "Sharvi Yadav",
+          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
+        }
+      ],
+      "duration_ms": 158095,
+      "name": "Banger",
+      "url": "https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck"
     },
     {
       "added_at": "2026-09-02 09:14:00",
@@ -539,30 +563,6 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
-        "name": "Banger",
-        "url": "https://open.spotify.com/album/39vk2GxCiAHs7FJfvdXvSy"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Hiten",
-          "url": "https://open.spotify.com/artist/597A6e3D22Vq4gxyh4mUjh"
-        },
-        {
-          "name": "Sharvi Yadav",
-          "url": "https://open.spotify.com/artist/30DC0uyycct5LGcqhzE6a3"
-        }
-      ],
-      "duration_ms": 158095,
-      "name": "Banger",
-      "url": "https://open.spotify.com/track/0Wm64vrNZTUxpo762vW1Ck"
-    },
-    {
-      "added_at": "2026-09-02 09:14:00",
-      "album": {
         "name": "Heer Ranjha",
         "url": "https://open.spotify.com/album/5jZOJxJvZj63YKrPEWPy63"
       },
@@ -583,6 +583,26 @@
       "duration_ms": 223107,
       "name": "Heer Ranjha",
       "url": "https://open.spotify.com/track/3wwLWFRLiReDf5AqgmAJwT"
+    },
+    {
+      "added_at": "2026-09-02 09:14:00",
+      "album": {
+        "name": "Jugnu",
+        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
+      },
+      "artists": [
+        {
+          "name": "Badshah",
+          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
+        },
+        {
+          "name": "Nikhita Gandhi",
+          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "Jugnu",
+      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
     },
     {
       "added_at": "2026-09-02 09:14:00",
@@ -639,26 +659,6 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
-        "name": "Jugnu",
-        "url": "https://open.spotify.com/album/1tIBidZ4PMZPqWLgunT4IP"
-      },
-      "artists": [
-        {
-          "name": "Badshah",
-          "url": "https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1"
-        },
-        {
-          "name": "Nikhita Gandhi",
-          "url": "https://open.spotify.com/artist/3tPQOjkxO3mrYrrgkTeXgH"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "Jugnu",
-      "url": "https://open.spotify.com/track/2NTVtNcpC0i1R7LVGaCZCF"
-    },
-    {
-      "added_at": "2026-09-02 09:14:00",
-      "album": {
         "name": "Mahiye Jinna Sohna",
         "url": "https://open.spotify.com/album/4fiPkVR8M247hQBOYLkwBq"
       },
@@ -691,30 +691,6 @@
       "duration_ms": 216905,
       "name": "Lamberghini",
       "url": "https://open.spotify.com/track/0N8eNF7HSu4wlZFcmjLUxt"
-    },
-    {
-      "added_at": "2026-09-02 09:14:00",
-      "album": {
-        "name": "Bheegi Bheegi",
-        "url": "https://open.spotify.com/album/3gSamGzuaJypB6V9z6CvrX"
-      },
-      "artists": [
-        {
-          "name": "A. R. Ameen",
-          "url": "https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE"
-        },
-        {
-          "name": "A.R. Rahman",
-          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
-        },
-        {
-          "name": "Jasleen Royal",
-          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
-        }
-      ],
-      "duration_ms": 219818,
-      "name": "Bheegi Bheegi",
-      "url": "https://open.spotify.com/track/3KYbbE5Yje5IcqJmNNbbkS"
     },
     {
       "added_at": "2026-09-02 09:14:00",
@@ -763,6 +739,30 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
+        "name": "Bheegi Bheegi",
+        "url": "https://open.spotify.com/album/3gSamGzuaJypB6V9z6CvrX"
+      },
+      "artists": [
+        {
+          "name": "A. R. Ameen",
+          "url": "https://open.spotify.com/artist/0pO2eJn9QBtNRVdLxI1nrE"
+        },
+        {
+          "name": "A.R. Rahman",
+          "url": "https://open.spotify.com/artist/1mYsTxnqsietFxj1OgoGbG"
+        },
+        {
+          "name": "Jasleen Royal",
+          "url": "https://open.spotify.com/artist/74OaRjmyh0XyRZsQQQ5l7c"
+        }
+      ],
+      "duration_ms": 219818,
+      "name": "Bheegi Bheegi",
+      "url": "https://open.spotify.com/track/3KYbbE5Yje5IcqJmNNbbkS"
+    },
+    {
+      "added_at": "2026-09-02 09:14:00",
+      "album": {
         "name": "Aaya Na Tu",
         "url": "https://open.spotify.com/album/2ZGzoWXjfWxRwepEbS0H1b"
       },
@@ -807,26 +807,6 @@
     {
       "added_at": "2026-09-02 09:14:00",
       "album": {
-        "name": "Tu Mile Dil Khile",
-        "url": "https://open.spotify.com/album/4l9OB8kgKU3M6w5GYQZbKI"
-      },
-      "artists": [
-        {
-          "name": "Stebin Ben",
-          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
-        },
-        {
-          "name": "Asees Kaur",
-          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
-        }
-      ],
-      "duration_ms": 197392,
-      "name": "Tu Mile Dil Khile",
-      "url": "https://open.spotify.com/track/6V7UVqe8XnAS4WPdpaw5TK"
-    },
-    {
-      "added_at": "2026-09-02 09:14:00",
-      "album": {
         "name": "Man Of The Moon",
         "url": "https://open.spotify.com/album/0jasm0jnhQ6Y6OUYTI1NL6"
       },
@@ -843,6 +823,26 @@
       "duration_ms": 174056,
       "name": "Moon Rise",
       "url": "https://open.spotify.com/track/3oWv5qDKYN7MH6FdlglMN5"
+    },
+    {
+      "added_at": "2026-09-02 09:14:00",
+      "album": {
+        "name": "Tu Mile Dil Khile",
+        "url": "https://open.spotify.com/album/4l9OB8kgKU3M6w5GYQZbKI"
+      },
+      "artists": [
+        {
+          "name": "Stebin Ben",
+          "url": "https://open.spotify.com/artist/1UAzmnFgjizIDvtHvnCdEq"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "duration_ms": 197392,
+      "name": "Tu Mile Dil Khile",
+      "url": "https://open.spotify.com/track/6V7UVqe8XnAS4WPdpaw5TK"
     },
     {
       "added_at": "2026-09-02 09:14:00",

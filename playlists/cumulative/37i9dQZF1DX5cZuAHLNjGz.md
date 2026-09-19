@@ -2,7 +2,7 @@
 
 ### [Punjabi 101](https://open.spotify.com/playlist/37i9dQZF1DX5cZuAHLNjGz)
 
-> Ultimate 101 Punjabi Hits with Jxggi
+> Ultimate 101 Punjabi Hits with Amrinder Gill
 
 610 songs - 1 day 7 hr 4 min
 

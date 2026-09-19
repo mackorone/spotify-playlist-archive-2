@@ -4,7 +4,7 @@
 
 > Get the chill vibes going and flowing ✨ Las vibras tranqui que ocupas en tu vida.
 
-308 songs - 16 hr 34 min
+309 songs - 16 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -106,6 +106,7 @@
 | [frío](https://open.spotify.com/track/0V6H31xM6WbPL1Bjsiqplx) | [Gus](https://open.spotify.com/artist/3tQrRoZiGXR5uMkaCYf8S4), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1), [Luisa](https://open.spotify.com/artist/4pQdwpmOtVV6iLgWjoEr6z) | [frío](https://open.spotify.com/album/1KNTUzCpkgLV9v7lgHdPmT) | 4:38 | 2022-05-20 |  |
 | [fuckhim \(feat\. Ximena Sariñana\)](https://open.spotify.com/track/0D2JmflHSZwCVqle0RqxAz) | [Girl Ultra](https://open.spotify.com/artist/7i1CyQ1fogh4bkj3EPj3ls), [Ximena Sariñana](https://open.spotify.com/artist/7plUpXSFcSJUZSiZAoXqr1) | [Nuevos Aires](https://open.spotify.com/album/1pmuUGKQdl3yIAIMZucjKu) | 3:32 | 2022-05-20 | 2022-10-28 |
 | [Fui Yo](https://open.spotify.com/track/7BgRDcB5DXH4lOMqXlgdjT) | [Donovan Morales](https://open.spotify.com/artist/7tOfNTrIJaAxfedyY5Xyax) | [Fui Yo](https://open.spotify.com/album/47bJpna53ROacuEwXQ1yxP) | 3:04 | 2022-12-30 |  |
+| [gaviotas de cristal](https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh) | [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [fill de la mar \(2026\)](https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt) | 1:57 | 2026-09-18 |  |
 | [Genesis](https://open.spotify.com/track/3Od7Qyp7sEit3sm3Zq4e7L) | [Daniela Andrade](https://open.spotify.com/artist/0WfaItAbs4vlgIA1cuqGtJ) | [Genesis](https://open.spotify.com/album/5SAmkX4MiJ1soaVPAHxX9w) | 2:36 | 2022-05-20 | 2022-10-28 |
 | [Girasoles](https://open.spotify.com/track/4LdtAljggvH4qzlxNxo559) | [Luis Fonsi](https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG) | [Girasoles](https://open.spotify.com/album/4R22TlmVh28LeA4J3vohVn) | 2:51 | 2022-05-20 | 2023-07-29 |
 | [Golden Choice](https://open.spotify.com/track/2EfDz9cgsVfwM1AcDWsSyN) | [Little Jesus](https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit) | [Río Salvaje](https://open.spotify.com/album/63bVZH9Eju2DLKFkOYmHMI) | 3:48 | 2023-01-06 | 2024-04-19 |
@@ -233,7 +234,7 @@
 | [Planeando Madrid](https://open.spotify.com/track/6SreMzzAJ5OFN396IJnBlq) | [Gonza Silva](https://open.spotify.com/artist/4DUULlizAy9zRrfsfG5ttn) | [Planeando Madrid](https://open.spotify.com/album/6nKhhgRiT0icKwW12lgVKS) | 4:12 | 2023-08-31 | 2024-04-19 |
 | [Plegarias \- Acústico Premios Gardel 2020](https://open.spotify.com/track/7L9iiGbLG2zyjS8KR74MoC) | [Nicki Nicole](https://open.spotify.com/artist/2UZIAOlrnyZmyzt1nuXr9y) | [Plegarias \(Acústico Premios Gardel 2020\)](https://open.spotify.com/album/63FCLdOda9dZy1SzHVYwAS) | 2:59 | 2022-05-20 | 2024-05-11 |
 | [POKE FREESTYLE](https://open.spotify.com/track/44nurfcBvWwOI2bMBPRzZA) | [Alvaro Diaz](https://open.spotify.com/artist/5J7rXWjtn5HzUkJ4Jet8Fr), [Papi Sousa](https://open.spotify.com/artist/0zcP8lCmLxqRRIZJPSq8i7) | [POKE FREESTYLE](https://open.spotify.com/album/2GWvS2DZKb8ovA7HquXJQ3) | 3:23 | 2023-07-28 | 2024-05-11 |
-| [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/5Pa0fsgk3DjWKlBc47JE79) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 | 2022-05-20 |  |
+| [Promesa](https://open.spotify.com/track/7xEN9p3spnvGC891587UOO) | [Paula Cendejas](https://open.spotify.com/artist/4EiI7Vls0NB16jLuexzCHC), [st\. Pedro](https://open.spotify.com/artist/5Pa0fsgk3DjWKlBc47JE79) | [Promesa](https://open.spotify.com/album/20gXqGOQCoipOLp4u9MkOk) | 3:01 | 2022-05-20 | 2026-09-19 |
 | [PRONTO!](https://open.spotify.com/track/1V1S26dHvmZXbwB6TvwXQb) | [CLUBZ](https://open.spotify.com/artist/6MoZZABXeQwEmzmcwICxwK) | [PRONTO!](https://open.spotify.com/album/5mcmC81PUNTwFp3YLflIzF) | 3:28 | 2022-05-20 | 2022-10-28 |
 | [Puente](https://open.spotify.com/track/6mQzYeBnZZTZjfXtQ2EHC2) | [Vale](https://open.spotify.com/artist/22p8vOZwMABvl5qt2nZHWD) | [Iridiscente](https://open.spotify.com/album/6PksDOysvcluD0wAfNSCxB) | 3:00 | 2022-05-20 |  |
 | [Quieres de mi](https://open.spotify.com/track/2cJCPpy5Iwgon0wORjxJan) | [Anna Zarate](https://open.spotify.com/artist/0lV6MyEOCG0JjI1HCWjeX2), [Gamboa](https://open.spotify.com/artist/2F3Cv7KfrxibMyE8NO7VCu) | [Quieres de mi](https://open.spotify.com/album/6HiLVwSJMQG4UacfTsAotq) | 3:12 | 2022-05-20 | 2026-06-23 |

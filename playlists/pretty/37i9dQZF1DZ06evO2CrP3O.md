@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,375 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,401 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,11 +20,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 10 | [Dreaming](https://open.spotify.com/track/2Rn7bVL1FVYboc4c55RUdg) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:08 |
 | 11 | [Denis \- Remastered 2001](https://open.spotify.com/track/3RIpoyYHjSTJtwoi5yHW1E) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:19 |
 | 12 | [Call Me \- Theme From "American Gigolo" / Remastered 2001](https://open.spotify.com/track/6wzbWsPbfIR0nBjSqdbV7m) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Autoamerican \(Remastered 2001\)](https://open.spotify.com/album/1VuNXmZV6eIfUwglRlM9Ya) | 8:06 |
-| 13 | [Sunday Girl \- Remastered 2001](https://open.spotify.com/track/4niYgqetPxqqPn7oR2XXLX) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:05 |
+| 13 | [Hanging On The Telephone \- Remastered 2001](https://open.spotify.com/track/343iSx7QQ41UeroboMrhmh) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 2:22 |
 | 14 | [Union City Blue \- Single Version](https://open.spotify.com/track/3a3JGuTQNYM3YawGpck7Ql) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:22 |
 | 15 | [Once I Had A Love \(AKA The Disco Song\) \- 1975 Version / Remastered 2001](https://open.spotify.com/track/0UFLbtupYWaDGMS4io94Ml) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 3:58 |
 | 16 | [Long Time](https://open.spotify.com/track/2ugSAWatjCmL6dgvAKcZrn) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Pollinator](https://open.spotify.com/album/4i4apRNcRz0LhEQy4lbA3U) | 4:35 |
-| 17 | [Hanging On The Telephone \- Remastered 2001](https://open.spotify.com/track/343iSx7QQ41UeroboMrhmh) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 2:22 |
+| 17 | [Sunday Girl \- Remastered 2001](https://open.spotify.com/track/4niYgqetPxqqPn7oR2XXLX) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Parallel Lines \(Remastered\)](https://open.spotify.com/album/5wc12ZsmXNIlppTmNFZFLU) | 3:05 |
 | 18 | [X Offender \- Remastered 2001](https://open.spotify.com/track/2Yn7a6j6jWq9xzQFP2myDS) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Blondie \(Remastered 2001\)](https://open.spotify.com/album/54V45InMvJ6uVtRtO6h1Co) | 3:14 |
 | 19 | [\(I'm Always Touched By Your\) Presence, Dear \- Remastered 2001](https://open.spotify.com/track/7wKcSMrAW3d9qTd8OSd9HX) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Plastic Letters](https://open.spotify.com/album/0N12rQBwFaD13ELCuEmUDl) | 2:43 |
 | 20 | [Shayla](https://open.spotify.com/track/1OGQGQgmbUnRStarwKxvrr) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Eat To The Beat](https://open.spotify.com/album/4gbZS6jj6ufbiSG4C8jLv5) | 3:58 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [One Way Or Another \- Live](https://open.spotify.com/track/3l0VXECEIHBasR2gYKezNO) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live](https://open.spotify.com/album/6c3BB1ehH8VjFTj0lDXLoz) | 3:38 |
 | 50 | [No Exit \- feat\. Coolio](https://open.spotify.com/track/16tZD5aSFYCIkjyKMoatrp) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [No Exit](https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4) | 4:19 |
 
-Snapshot ID: `aqiKgAAAAADjxwpPYOgcCfmhDdLzX7NH`
+Snapshot ID: `aqstgAAAAAB0x69WODbk/imQbohTfNIB`

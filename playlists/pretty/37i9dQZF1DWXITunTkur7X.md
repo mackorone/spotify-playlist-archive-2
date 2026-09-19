@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 
 > Beste Nederlandstaligs songs uit de 10's! Cover: BLØF
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,963 likes - 65 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,970 likes - 65 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 25 | [Ik Ga Hard](https://open.spotify.com/track/0VrxOB23fTNCyG6WZCshd9) | [The Partysquad](https://open.spotify.com/artist/2dQgOfBP52UwjegY8FwJAY), [Gers Pardoel](https://open.spotify.com/artist/5AvkVClT6JuPL4LFy7liYN), [Adje](https://open.spotify.com/artist/5erZiBCKPxe9FaTiXHO00m), [Jayh](https://open.spotify.com/artist/1eLxAzPSnsl03ajNNihddF) | [Ik Ga Hard](https://open.spotify.com/album/5h6BEWVTml6KaB7pL4V2ir) | 3:08 |
 | 26 | [Liefde In De Lucht](https://open.spotify.com/track/3xbLeZAtP6yVnsgP3EGlie) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q), [Joshua Nolet](https://open.spotify.com/artist/2DJWNlGHpzlTwdIpVkjRBV) | [Liefde In De Lucht](https://open.spotify.com/album/6LnaCBWAPhhXSCPelaQLH3) | 3:32 |
 | 27 | [Blauwe Dag](https://open.spotify.com/track/6bQDOThuAyOYVFomm36lR4) | [Suzan & Freek](https://open.spotify.com/artist/77IW5ZK1smDQYYKDCQugXh) | [Blauwe Dag](https://open.spotify.com/album/4eNf6WntLR94hrsKlm0Zlw) | 3:02 |
-| 28 | [De Zon Op](https://open.spotify.com/track/7CYnkJKpShrhw4foM71XcC) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [De Zon Op](https://open.spotify.com/album/6eVSAtcFUBA0vvfwVBVhiJ) | 3:28 |
-| 29 | [Dominique](https://open.spotify.com/track/5cJR6iMvlC2RxBfNHXfwNg) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Dominique](https://open.spotify.com/album/2ZApdgqRMQCcmeQDrof1O9) | 4:21 |
+| 28 | [Dominique](https://open.spotify.com/track/5cJR6iMvlC2RxBfNHXfwNg) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Dominique](https://open.spotify.com/album/2ZApdgqRMQCcmeQDrof1O9) | 4:21 |
+| 29 | [De Zon Op](https://open.spotify.com/track/7CYnkJKpShrhw4foM71XcC) | [Diggy Dex](https://open.spotify.com/artist/4XQhU3S4TyPkiPIsSu2hmA) | [De Zon Op](https://open.spotify.com/album/6eVSAtcFUBA0vvfwVBVhiJ) | 3:28 |
 | 30 | [Schouder Aan Schouder](https://open.spotify.com/track/3Zs8NVXn61nMzHwgUdnOw3) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Guus Meeuwis](https://open.spotify.com/artist/72qVrKXRp9GeFQOesj0Pmv) | [Dromen Durven Delen](https://open.spotify.com/album/1nmOBRgGGHKFxRtkxurEiE) | 3:56 |
 | 31 | [Lil Craney](https://open.spotify.com/track/6mhojtIauujcoXxlGsihh1) | [Kraantje Pappie](https://open.spotify.com/artist/5yDkaiPTFbHGWCMXAEBt5Q) | [Lil Craney](https://open.spotify.com/album/32gEJF3F0kjSxLL3q41UOh) | 2:49 |
 | 32 | [Afscheid](https://open.spotify.com/track/0XzxGUfBEkMP0NdUCRhTR9) | [Glennis Grace](https://open.spotify.com/artist/3J85lWF7GZWWWLyBPMMX7h) | [Het Beste Van Glennis Grace](https://open.spotify.com/album/6gvv5CK5WVdSu6K9TQQSOq) | 4:38 |
@@ -56,8 +56,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 46 | [Hey Meisje](https://open.spotify.com/track/1c7Kh2uMMxG7k4QqNjjg95) | [Esko](https://open.spotify.com/artist/0rQ69yrbz7CeUmXUn1beIj), [Josylvio](https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx), [Hansie](https://open.spotify.com/artist/3Xvu1Rur46ZO8HiE9hBuxl) | [Beats By Esko](https://open.spotify.com/album/3E7PWkWtbaTtwvgw89Qm8a) | 3:17 |
 | 47 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 |
 | 48 | [Zo Stil](https://open.spotify.com/track/3ZcDSojpxWjRrKGw7GjdvT) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [Hier \- Het Beste Van 20 Jaar BLØF](https://open.spotify.com/album/6CXlCKvZ8vyIEDlOIDZZUp) | 3:57 |
-| 49 | [Habiba](https://open.spotify.com/track/6G41AeVgQkpvEbTxN5fNkW) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Slaaptekort](https://open.spotify.com/album/5PUULHwxm3XJdr4g3fNRxP) | 3:35 |
-| 50 | [Reünie](https://open.spotify.com/track/0C9JPibPAdaBvt60rbwEsJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Reünie](https://open.spotify.com/album/7kY8OqgHbBOQwkF7vpFjTS) | 2:52 |
+| 49 | [Reünie](https://open.spotify.com/track/0C9JPibPAdaBvt60rbwEsJ) | [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Reünie](https://open.spotify.com/album/7kY8OqgHbBOQwkF7vpFjTS) | 2:52 |
+| 50 | [Habiba](https://open.spotify.com/track/6G41AeVgQkpvEbTxN5fNkW) | [Boef](https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1) | [Slaaptekort](https://open.spotify.com/album/5PUULHwxm3XJdr4g3fNRxP) | 3:35 |
 | 51 | [Sexy Als Ik Dans](https://open.spotify.com/track/2zgYC13KDtqwVwNremDoWQ) | [Nielson](https://open.spotify.com/artist/5m5Fh8zrb0uHM85qwkIkVT) | [Sexy Als Ik Dans](https://open.spotify.com/album/3hvQDsTHwRw21QrEoIxmxz) | 3:34 |
 | 52 | [Zo Kan Het Dus Ook](https://open.spotify.com/track/0ZDkMMdWTw9ykmmIGUVnrS) | [Maan](https://open.spotify.com/artist/5vmwWgrlwCfHm1P0vdDFbU) | [Zo Kan Het Dus Ook](https://open.spotify.com/album/7HC6X1dkpJzDMwrrVlSHzk) | 2:34 |
 | 53 | [Open Je Ogen](https://open.spotify.com/track/6A5vneoavVypAOtH0VITTc) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB) | [In Het Midden Van Alles](https://open.spotify.com/album/76z6VdmYMrPbm1an5eefys) | 4:38 |
@@ -74,4 +74,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXITunTkur7X.md) - [plain]
 | 64 | [Zoutelande](https://open.spotify.com/track/59H8FBoOPxW1jOaQToWHXi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike Arnaert](https://open.spotify.com/artist/2ovvfw7LL1RAhlqyGLlvGC) | [Aan](https://open.spotify.com/album/058xGrYZ3uGpjL7M1asXlw) | 3:43 |
 | 65 | [Een Nieuwe Dag](https://open.spotify.com/track/49uHHiEI3TkQ60F619MvgB) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Fier Deluxe](https://open.spotify.com/album/5OO4wiLAUGxCJa1Rbgok2x) | 3:29 |
 
-Snapshot ID: `AAAAACBHFDULE4z+XR3+LutmzT0afevE`
+Snapshot ID: `AAAAAKzp0F9VVWMuWd7ZJcteGP7AYLKY`

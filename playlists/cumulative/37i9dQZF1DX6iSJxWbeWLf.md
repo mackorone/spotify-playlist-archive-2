@@ -4,7 +4,7 @@
 
 > White noise for studying and concentration
 
-155 songs - 8 hr 0 min
+157 songs - 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -86,6 +86,7 @@
 | [Noise Waterfalls](https://open.spotify.com/track/0XymKofC03Psmdmjj8PnY3) | [Misa Bee](https://open.spotify.com/artist/5JSgVFubDnbqYDUWPzl4tj) | [Noise Waterfalls](https://open.spotify.com/album/7By7Jo2T4WuFDwzW7MRc02) | 2:17 | 2025-03-11 |  |
 | [Oceanic Green Noise](https://open.spotify.com/track/0WFudCfNJjLYuFFQu7e07O) | [Zendium](https://open.spotify.com/artist/4yi6Bu5q83ZFBlj3KH1CFV) | [Oceanic Green Noise](https://open.spotify.com/album/6AcLf5y5cOB95JAvQMJMUx) | 3:00 | 2024-08-30 | 2025-03-12 |
 | [Pacífico](https://open.spotify.com/track/0JFaOI42ENrS1Zs6pwT2r9) | [Brisa Matinal](https://open.spotify.com/artist/1DXZ1YHbVYMnaiBKoqiBqd) | [Pacífico](https://open.spotify.com/album/6hYCsHoKis66UWEFMr3Odi) | 3:08 | 2022-09-21 | 2025-03-12 |
+| [Pink Noise \- Nex 12](https://open.spotify.com/track/5Nvw37iTs54rYjncE4N0iY) | [Granular](https://open.spotify.com/artist/1jfnMuDBl5OaAoU0VwLD8m) | [Pink Noise DLX](https://open.spotify.com/album/63Ef6Cl05dO97Rhao5BA9Q) | 3:08 | 2026-09-18 |  |
 | [Pink Noise Dreamscape](https://open.spotify.com/track/0JLOIkyPKPEhUykR63YJFl) | [BBVB](https://open.spotify.com/artist/1uMU5JVDiS1brp2XOicvPP) | [Pink Noise Dreamscape](https://open.spotify.com/album/3QPfOMSfVydZE7ESKo4frz) | 3:24 | 2025-02-19 | 2026-04-01 |
 | [Pink Noise for Sleeping](https://open.spotify.com/track/2ex3O9bv4muJcuVI3BQbtj) | [Falling into Pink](https://open.spotify.com/artist/6GpFiBAVovOVJfK7OTWnxN) | [Pink Noise Sleep](https://open.spotify.com/album/4B143uGP1Wwhb5xO95nvaS) | 3:39 | 2022-09-21 | 2026-04-01 |
 | [Pink Noise in the Clouds](https://open.spotify.com/track/13CjSx77aqHKD1FwlLTPL3) | [Avosola](https://open.spotify.com/artist/451HQRdyUYr2CEkK4A9wty) | [Pink Noise in the Clouds](https://open.spotify.com/album/51Ih7E1U2BpapVGCRESxb6) | 3:10 | 2022-09-21 | 2026-04-01 |
@@ -139,6 +140,7 @@
 | [White Night Noise](https://open.spotify.com/track/1EUTUbuBNWwyVNMr1Jxp9w) | [Ambientics](https://open.spotify.com/artist/5P4WyIscm91rNDa8lZuW6a) | [White Evening Noise](https://open.spotify.com/album/5m9azpx3Mqj4tOLA2kM7F6) | 2:52 | 2025-03-11 |  |
 | [White Noise \- 7k +5.0 dB Gain](https://open.spotify.com/track/0yodukAf2LaYe9ZzX4xtRS) | [Noise Library Samples Bank](https://open.spotify.com/artist/6CL6g0j2NdZ5DjhL0JHtkc) | [Light Noise Samples](https://open.spotify.com/album/7piAiiAMVL8xJxat85Jjaq) | 2:08 | 2022-09-21 |  |
 | [White Noise Ambience](https://open.spotify.com/track/2uzB21fohLT12TfjlRoMOz) | [Focus Frequency](https://open.spotify.com/artist/7M7Z5YhclUy7AjsdZEN8X4) | [White Noise Ambience](https://open.spotify.com/album/5wpP6MRUZmg7rjoTX4QIrL) | 2:52 | 2026-03-31 |  |
+| [White Noise Clouddrift](https://open.spotify.com/track/5ywx0gWbPEg2Ks7ENEBIMy) | [Breezy Noise](https://open.spotify.com/artist/3CXGywpBBnCFYvsuILK9XA) | [White Noise Clouddrift](https://open.spotify.com/album/28xcOAN68mOjULFIuStxfk) | 2:30 | 2026-09-18 |  |
 | [White Noise Deep Sleep](https://open.spotify.com/track/5RGMjuikfiSPEXnf1B2nve) | [Likko Sol](https://open.spotify.com/artist/2Or8PQp1nSscZ2gnIkx17E) | [White Noise Deep Sleep](https://open.spotify.com/album/4a8KTNoforigkMwNB7qFBC) | 4:01 | 2025-04-01 |  |
 | [White Noise Escape](https://open.spotify.com/track/3JZn98HiHohUnlWN5e3VeS) | [The Clear Mind](https://open.spotify.com/artist/17poofi2R6BSgWBubaEbGs) | [White Noise Escape](https://open.spotify.com/album/0rziKOMplDcakjAFsrxZWZ) | 4:15 | 2025-02-19 |  |
 | [White Noise Fluff Stuff](https://open.spotify.com/track/51Ok453OoSjLn3vCu9DLPY) | [Aquagirl](https://open.spotify.com/artist/3JzRLQr4GliLDbPaRZ4XPJ) | [White Noise Fluff Stuff](https://open.spotify.com/album/1ubTkeSZncZYpXmsRQSDpP) | 2:56 | 2026-03-31 |  |

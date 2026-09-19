@@ -1056,6 +1056,32 @@
     {
       "album": {
         "name": "Black Life, Red Planet",
+        "url": "https://open.spotify.com/album/3aOX0m9MWcX9KH3yu55nb4"
+      },
+      "artists": [
+        {
+          "name": "gum.mp3",
+          "url": "https://open.spotify.com/artist/3ENnUCpAIcPmffEj736hNa"
+        },
+        {
+          "name": "48thSt",
+          "url": "https://open.spotify.com/artist/0cB7mWWQDeeZ33j3qAMCiU"
+        },
+        {
+          "name": "Harrison",
+          "url": "https://open.spotify.com/artist/0IbD9X6mgxyaIKT3aqzioT"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 282000,
+      "name": "Mars and Its Moons",
+      "url": "https://open.spotify.com/track/6wuKezOjT9IAjkxJnaJtAQ"
+    },
+    {
+      "album": {
+        "name": "Black Life, Red Planet",
         "url": "https://open.spotify.com/album/6C9mnXb8ZXTo5Qsat9mZ0K"
       },
       "artists": [
@@ -1074,7 +1100,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 282000,
       "name": "Mars and Its Moons",
       "url": "https://open.spotify.com/track/7jysG69WpZjSnXtinBWHIf"

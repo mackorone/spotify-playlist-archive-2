@@ -4,7 +4,7 @@
 
 > Die besten Neuheiten von Alt\-Pop bis Indie\-Rock\. Cover: Alice Merton
 
-3,360 songs - 8 day 1 hr 27 min
+3,360 songs - 8 day 1 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1657,6 +1657,7 @@
 | [Leave It All Behind](https://open.spotify.com/track/1FPVHXIPKR2TV5JZkDoHyV) | [Efterklang](https://open.spotify.com/artist/3DL71JYSG6VREkmLSzfWhU) | [Things We Have In Common](https://open.spotify.com/album/7nbZ6zoCutfdWwFM4Bekpn) | 4:02 | 2024-09-26 | 2024-10-18 |
 | [Leave It Unread](https://open.spotify.com/track/4KjXCey0VhlmdTqXAEIAKp) | [Morning Silk](https://open.spotify.com/artist/4tyiJFCv1MuTzfykbK0q7A), [Alisa Xayalith](https://open.spotify.com/artist/6yI9BJNdoOE6vjbZGoGyGz) | [Leave It Unread](https://open.spotify.com/album/1jH3vNCNjnan3ZFSq01vMU) | 3:05 | 2026-08-27 | 2026-09-11 |
 | [Leave The Light On](https://open.spotify.com/track/1OtmZkJMyX5wCLrFZCVsVb) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Leave The Light On](https://open.spotify.com/album/0N3mKyEhS6mKtH20JL2PQA) | 3:40 | 2025-01-09 | 2025-01-31 |
+| [Leave You](https://open.spotify.com/track/3OopdCgZYh1N0idjbXs18b) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Feel Forever](https://open.spotify.com/album/7fuZOsaYKUhzz03q58qZ8n) | 3:13 | 2026-09-17 |  |
 | [Leaveyourlove](https://open.spotify.com/track/5GGHmGNZYnVSdRERLUSB4w) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Leaveyourlove](https://open.spotify.com/album/2D8xau8LbKERnclFx8p4Ug) | 3:51 | 2024-10-24 | 2024-11-22 |
 | [Leaving Home Again](https://open.spotify.com/track/6nFC4Y1p83E0qQ3DWqNgFr) | [Dana Gavanski](https://open.spotify.com/artist/1GSLjV7vq6pSsNAEFwWSbn) | [Leaving Home Again](https://open.spotify.com/album/6COhwQ1EEP0IOZMzaRMwDc) | 2:48 | 2025-01-30 | 2025-02-14 |
 | [leaving is easy](https://open.spotify.com/track/4nfJKQjA0kTZELSUtpeKQv) | [almost monday](https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E) | [leaving is easy](https://open.spotify.com/album/4csC6Ngy7HOWdFhh21SMhP) | 3:33 | 2026-03-05 | 2026-04-03 |
@@ -3037,7 +3038,6 @@
 | [Towards The Dawn](https://open.spotify.com/track/6xrrY73Ths1IJBuWDxE8TZ) | [Public Service Broadcasting](https://open.spotify.com/artist/6VsiDFMZJlJ053P1uO4A6h) | [Towards The Dawn](https://open.spotify.com/album/5KzTRPRbLXif2K3Xx4AsaT) | 3:07 | 2024-10-03 | 2024-10-18 |
 | [Townies](https://open.spotify.com/track/2deA4WXDrTa7jAZuaIAeqo) | [Wednesday](https://open.spotify.com/artist/4j7DrazfBZLLD0OrVoAtEe) | [Bleeds](https://open.spotify.com/album/29HKbQ2pgXgElTnH66mFXK) | 3:15 | 2025-09-18 | 2025-09-27 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-26 |
-| [Track 3](https://open.spotify.com/track/3OopdCgZYh1N0idjbXs18b) | [Tokyo Tea Room](https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD) | [Feel Forever](https://open.spotify.com/album/7fuZOsaYKUhzz03q58qZ8n) | 0:00 | 2026-09-17 |  |
 | [Track and Field](https://open.spotify.com/track/49pUZuG2dMJATu4Hc82QyE) | [JJerome87](https://open.spotify.com/artist/2UzQILybhlgKlKSiBikOio), [alt\-J](https://open.spotify.com/artist/3XHO7cRUPCLOr6jwp8vsx5) | [Track and Field](https://open.spotify.com/album/7lJIJZp0dR8I5dfLACSYKA) | 3:15 | 2026-04-16 | 2026-05-08 |
 | [Tractor Beam](https://open.spotify.com/track/3SCe8EBhzxVx5Tqhv9cYqi) | [Snail Mail](https://open.spotify.com/artist/4QkSD9TRUnMtI8Fq1jXJJe) | [Tractor Beam](https://open.spotify.com/album/4ZkRrdsD1RP5UdCmDP6s8Q) | 3:34 | 2026-03-26 | 2026-04-24 |
 | [Tragic](https://open.spotify.com/track/0h7M39CvtDJl9OzXxYPyf6) | [VARLEY](https://open.spotify.com/artist/72bbAAM5Iz6gsbihCr1Gvc) | [Tragic](https://open.spotify.com/album/3XYFyxePlQpWQmwfeb5oM6) | 2:43 | 2026-02-19 | 2026-03-06 |

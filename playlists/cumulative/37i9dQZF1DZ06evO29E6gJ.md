@@ -4,7 +4,7 @@
 
 > This is Los Alegres De Teran\. The essential tracks, all in one playlist.
 
-117 songs - 5 hr 28 min
+118 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [Amor de Madre](https://open.spotify.com/track/4VhhWGfF2A1oRvsuUdZ67g) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Norteñas de Oro](https://open.spotify.com/album/1PNXf5gl2iFS6ZN3ssNY95) | 2:23 | 2022-06-03 | 2023-02-09 |
 | [Arnulfo Gonzalez](https://open.spotify.com/track/3crxQKluxTRyJE4l5JQ7YM) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Corridos Famosos](https://open.spotify.com/album/5pwxkJ7SsCvzHZ4SLPPRxu) | 3:17 | 2022-06-01 | 2025-04-25 |
 | [Aun Se Acuerda De Mi](https://open.spotify.com/track/1xHzz42RHgu6cj7kbZr5G3) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 2:56 | 2022-06-01 | 2025-04-12 |
-| [Aun Se Acuerda De Mi](https://open.spotify.com/track/49T6YipGo56UIb6rRNZANQ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 2:56 | 2025-04-13 |  |
+| [Aun Se Acuerda De Mi](https://open.spotify.com/track/49T6YipGo56UIb6rRNZANQ) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 2:56 | 2025-04-13 | 2026-09-19 |
 | [Cajita de Oro](https://open.spotify.com/track/0QIVhpxIP5WSIHRcNmXWU6) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Cañonazos Norteños](https://open.spotify.com/album/02QZWZpOvdk97kuYJWY8NL) | 2:32 | 2022-06-01 | 2026-08-29 |
 | [Cariño Sin Condicion](https://open.spotify.com/track/3EYKM9dXqvnnTpqEt4PnRG) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Pensando en Tu Dia Vol\. 3](https://open.spotify.com/album/6keKSJlgpHyjPRjUci7qjO) | 2:50 | 2025-09-26 |  |
 | [carta jugada](https://open.spotify.com/track/50rr7toY0hwRzLCHEmt1BB) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [ANORANZA NORTENA](https://open.spotify.com/album/6626gtmDfSGPNkce5p8kfF) | 2:45 | 2022-06-01 | 2025-01-15 |
@@ -84,7 +84,8 @@
 | [Margarita](https://open.spotify.com/track/3AHRnIxggLXyUdw5Wi5DtH) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [LA TRAICIONERA \(Remastered\)](https://open.spotify.com/album/116YnDmd7Vevo95B70AUdq) | 2:00 | 2025-04-20 |  |
 | [Mariano Resendez](https://open.spotify.com/track/0DV9ErAz39HdALK77p7Pib) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Historias Del Siglo XX En 20 Corridos](https://open.spotify.com/album/5ps2KefGtIVYRk3OtdoM2a) | 3:46 | 2022-06-01 | 2022-10-12 |
 | [Mi Destino Fue Quererte](https://open.spotify.com/track/7HDNA0t9icJttiRSGN44mv) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/1wQNoNPJzVHJpc265eYkG3) | 3:17 | 2025-04-05 | 2025-04-11 |
-| [Mi Destino Fue Quererte](https://open.spotify.com/track/7x32CubDcgMfgemGbEw58j) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 3:17 | 2025-04-12 |  |
+| [Mi Destino Fue Quererte](https://open.spotify.com/track/7x32CubDcgMfgemGbEw58j) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [20 Exitos De Oro](https://open.spotify.com/album/54PiozyCmsyefYSGFw7XCf) | 3:17 | 2025-04-12 | 2026-09-19 |
+| [Mi Destino Fué Quererte](https://open.spotify.com/track/36ZvQNbCNgOqtcUtEt9Wdb) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Añoranza Norteña](https://open.spotify.com/album/36EZFM4cbNaCHS7ZWAvR3t) | 3:05 | 2026-09-19 |  |
 | [Mi Unico Camino](https://open.spotify.com/track/4LWoe4xNQ8DcI1ky9fr0yR) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Las 100 Clasicas De Los Alegres De Teran Vol\. 2](https://open.spotify.com/album/4eLLJs0uZVko6pwncshyfj) | 2:36 | 2022-08-16 | 2022-10-13 |
 | [Modesta Ayala](https://open.spotify.com/track/7hFGRE0pf1KQCuR16lHW0r) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Mano A Mano](https://open.spotify.com/album/7AqygqPGx2duxufK7woexa) | 2:47 | 2026-09-16 |  |
 | [Moneda Sin Valor](https://open.spotify.com/track/3fRqJK9IGjuPFlbFbxCzl6) | [Los Alegres De Teran](https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ) | [Serie De Colección 15 Auténticos Éxitos](https://open.spotify.com/album/7kUAaTE5u9TiqObEmoDDoR) | 3:09 | 2025-11-09 |  |

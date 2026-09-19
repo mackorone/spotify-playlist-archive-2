@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 
 > The best new music by independent Experimental artists\. Dance Arts Center on cover\. Artwork by Thami Nabil.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,894 likes - 95 songs - 7 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,950 likes - 95 songs - 7 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -104,4 +104,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8C585qnMYHP.md) - [plain]
 | 94 | [no answer greater than silence, no punishment greater than forgiveness](https://open.spotify.com/track/1yFJ1xSM057m00HXDMHsJK) | [mu tate](https://open.spotify.com/artist/3vFTZMsaFnLOcqvjxCofTP) | [life of mu](https://open.spotify.com/album/1b09PxhpiNit55Eb4Ut7bC) | 3:13 |
 | 95 | [teide//duquedecabra](https://open.spotify.com/track/4YDgwaMdgrm0OgywrMDVzG) | [Pleito](https://open.spotify.com/artist/4O1LWWl1H4vlqn5br1p0Fw) | [teide//duquedecabra](https://open.spotify.com/album/07vZRgCPznpWkPJlvZTGgZ) | 5:07 |
 
-Snapshot ID: `AAAAAB2wMVPgdgERpE1KmPasxGhg7RJj`
+Snapshot ID: `AAAAACJM20kTmqFaN/gx/RoFeAXdctd1`

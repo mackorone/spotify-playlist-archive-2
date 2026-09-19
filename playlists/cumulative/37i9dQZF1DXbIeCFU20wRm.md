@@ -4,7 +4,7 @@
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-82 songs - 5 hr 23 min
+83 songs - 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -67,6 +67,7 @@
 | [Sub Prime Directive](https://open.spotify.com/track/2s5IpsIqEUsomwlmn7qKtU) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek Into Darkness \(Music From The Original Motion Picture / Deluxe Edition\)](https://open.spotify.com/album/5BnIT4bmFxbdwyKJ1pX5xu) | 2:23 | 2022-07-20 | 2022-11-13 |
 | [Sub Prime Directive](https://open.spotify.com/track/0vgkEeiULt4ow0B4zjKkfI) | [Michael Giacchino](https://open.spotify.com/artist/4kLvhMAuCloLxoP1aVM7Lr) | [Star Trek Into Darkness \(Music From The Motion Picture\)](https://open.spotify.com/album/0dst3z0HnOCF0pdU05AZ4b) | 2:24 | 2022-07-20 | 2024-04-19 |
 | [Sunshine \(Adagio in D Minor\)](https://open.spotify.com/track/50ExtKr8j9cHTY3OEw282G) | [John Murphy](https://open.spotify.com/artist/4UGoqrmNHDJ166XD6DtZni) | [Sunshine \(Adagio in D Minor\)](https://open.spotify.com/album/03AWGUwhN41Glz0JKCZ7a8) | 4:44 | 2021-12-16 |  |
+| [Sweet and Simple \(feat\. Amanda Achen\)](https://open.spotify.com/track/3VtWQ4yV182Das2PyfpHeZ) | [Matthew Atticus Berger](https://open.spotify.com/artist/6oWf19KLD6crt5vbQsWiWE), [Amanda Achen](https://open.spotify.com/artist/3O5CsKfeQzMKYqbQVqHa9Y) | [April X \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4LTqFbriZSMgd4mMD2w64T) | 1:48 | 2026-09-18 |  |
 | [The Adam Project](https://open.spotify.com/track/0h2oliFUGdQzHE9TjCpeHe) | [Rob Simonsen](https://open.spotify.com/artist/2ZeUaZT3s3NSbeV7OS094J) | [The Adam Project](https://open.spotify.com/album/3mBBGGBVmBMHMfmrT4s7pH) | 4:55 | 2022-07-13 |  |
 | [The bioluminescence of the night](https://open.spotify.com/track/7mJNJKQ1eZFKMmJoaqyw55) | [James Horner](https://open.spotify.com/artist/3PhL2Vdao2v8SS8AptuhAr) | [AVATAR Music From The Motion Picture Music Composed and Conducted by James Horner](https://open.spotify.com/album/1H81jGoWeLI8ufq42GfDPn) | 3:37 | 2021-12-16 |  |
 | [The Consolations Of Philosophy](https://open.spotify.com/track/5gbBbzBnuat3nBDZWNHusF) | [Max Richter](https://open.spotify.com/artist/2VZNmg4vCnew4Pavo8zDdW) | [Black Mirror \- Nosedive \(Music From The Original TV Series\)](https://open.spotify.com/album/2PgwF3dLz3ESa0pyNDMWK5) | 5:36 | 2021-12-16 |  |

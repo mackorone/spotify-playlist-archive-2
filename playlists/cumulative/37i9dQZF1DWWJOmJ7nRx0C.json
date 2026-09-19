@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: The Linda Lindas",
+  "description": "Rock songs you need to know. Turn it  \u2b06\ufe0f Cover: Architects",
   "name": "VOLUME",
   "tracks": [
     {
@@ -1630,7 +1630,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 216884,
       "name": "An Ending In Itself",
       "url": "https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk"
@@ -2800,6 +2800,24 @@
       "duration_ms": 192489,
       "name": "Balboa",
       "url": "https://open.spotify.com/track/7BQd7bXMRvyXyoLFpxz0hb"
+    },
+    {
+      "album": {
+        "name": "Bang Bang Bang",
+        "url": "https://open.spotify.com/album/2OQAMmezHYf03fpDoJngrN"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142221,
+      "name": "Bang Bang Bang",
+      "url": "https://open.spotify.com/track/6fhNTP2BZzR3wri0qh1iKx"
     },
     {
       "album": {
@@ -4739,6 +4757,28 @@
     },
     {
       "album": {
+        "name": "Bright Lights, Big City (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/1kpiZpM48ybu8qrh5DDa88"
+      },
+      "artists": [
+        {
+          "name": "Keith Richards",
+          "url": "https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210910,
+      "name": "Bright Lights, Big City (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/2X67K1KTLBg9EU2dMUQC42"
+    },
+    {
+      "album": {
         "name": "Bring Me Back",
         "url": "https://open.spotify.com/album/71cr9xL00MCJxkGpfbxXdK"
       },
@@ -5212,7 +5252,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 170726,
       "name": "Call It What You Want",
       "url": "https://open.spotify.com/track/46museEHuxvmYT16wjAEkD"
@@ -5302,7 +5342,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 165063,
       "name": "Calvary Drive",
       "url": "https://open.spotify.com/track/4dHi0ke5ncQfI8gUv2eFRP"
@@ -10364,7 +10404,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 205812,
       "name": "Ember",
       "url": "https://open.spotify.com/track/1OKEovgANHx7PdQqiwMznj"
@@ -11098,6 +11138,24 @@
       "duration_ms": 200010,
       "name": "Eyes Closed (feat. J Balvin)",
       "url": "https://open.spotify.com/track/78EfhCsgEi8cEJXib3BFqL"
+    },
+    {
+      "album": {
+        "name": "F.A.M.O.U.S",
+        "url": "https://open.spotify.com/album/0vVoKZmi97XxytJghdjvHF"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200712,
+      "name": "F.A.M.O.U.S",
+      "url": "https://open.spotify.com/track/4cLzHSqYaxcw8qVFV2xlGY"
     },
     {
       "album": {
@@ -14471,6 +14529,28 @@
     },
     {
       "album": {
+        "name": "Better Days (Deluxe)",
+        "url": "https://open.spotify.com/album/1vUmsKkej9e51KGUHrxU9w"
+      },
+      "artists": [
+        {
+          "name": "Yellowcard",
+          "url": "https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf"
+        },
+        {
+          "name": "Steve Aoki",
+          "url": "https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171294,
+      "name": "Hell With Me (feat. Steve Aoki)",
+      "url": "https://open.spotify.com/track/4fRSz2kGowoaHuWHqeJCZv"
+    },
+    {
+      "album": {
         "name": "Keep Me Fed",
         "url": "https://open.spotify.com/album/1rYHznqLeJVXuy0YqwERGv"
       },
@@ -16269,6 +16349,36 @@
     },
     {
       "album": {
+        "name": "If The Sun Burns Out Tonight",
+        "url": "https://open.spotify.com/album/30wcEnAwWs8vMajB23SPx5"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226403,
+      "name": "If The Sun Burns Out Tonight",
+      "url": "https://open.spotify.com/track/6XZ5emkGiXmX3T77PhIKam"
+    },
+    {
+      "album": {
         "name": "If Tomorrow Never Comes (Feat. Spencer Charnas of Ice Nine Kills)",
         "url": "https://open.spotify.com/album/3la7NF2COfg90BdTY7HGtS"
       },
@@ -17104,6 +17214,32 @@
       "duration_ms": 309000,
       "name": "Jim Jones - Cowards, Pt. 2",
       "url": "https://open.spotify.com/track/0l2J2Ix63Iz7AwuCEebCiE"
+    },
+    {
+      "album": {
+        "name": "Joseph",
+        "url": "https://open.spotify.com/album/3KIlhMEiSYNn8VD7e6yglU"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249359,
+      "name": "Joseph",
+      "url": "https://open.spotify.com/track/1BdI8NEvZx61tnkbuAxC5x"
     },
     {
       "album": {
@@ -19651,6 +19787,24 @@
     },
     {
       "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/1YSWmWb80zzj9Sp9ZEvyoD"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240494,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/4OZsL523QNwRZMgJGwC2Lq"
+    },
+    {
+      "album": {
         "name": "Mad Ones",
         "url": "https://open.spotify.com/album/5AgSY5HoIiUQREIlBV5bJE"
       },
@@ -21268,7 +21422,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 183142,
       "name": "My Own Name",
       "url": "https://open.spotify.com/track/4DJXcp9Awjg6vCgoDThD3k"
@@ -24368,7 +24522,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 234285,
       "name": "Play Dead",
       "url": "https://open.spotify.com/track/48fiPDRk7FPmNAgefKIILW"
@@ -28299,6 +28453,24 @@
     },
     {
       "album": {
+        "name": "If You Insist",
+        "url": "https://open.spotify.com/album/0mlnEqCwYIG14bb538wHZZ"
+      },
+      "artists": [
+        {
+          "name": "The Bends",
+          "url": "https://open.spotify.com/artist/2xBejdNon0VS3Egq8he7sb"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204314,
+      "name": "Smoking In Bed",
+      "url": "https://open.spotify.com/track/5xUyQIDuiYrGWoIlvDmmUv"
+    },
+    {
+      "album": {
         "name": "Snake In The Grass",
         "url": "https://open.spotify.com/album/03PP8plAoML5JYtp55htjB"
       },
@@ -29484,7 +29656,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 234657,
       "name": "Street Of Dreams",
       "url": "https://open.spotify.com/track/70X6SFkjCUZ0nRBUGXddTn"
@@ -32418,7 +32590,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 267126,
       "name": "Third Side of the Moon",
       "url": "https://open.spotify.com/track/6FejTj8qZ51DhKMHYSOG4K"

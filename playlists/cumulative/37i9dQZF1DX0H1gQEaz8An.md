@@ -2,7 +2,7 @@
 
 ### [Tumbado Romántico](https://open.spotify.com/playlist/37i9dQZF1DX0H1gQEaz8An)
 
-> Lo que diga el corazón ❤️💔 Cover: Angel Cervantes, Adrian L Santos
+> Lo que diga el corazón ❤️💔 Cover: Helen Ochoa
 
 261 songs - 13 hr 35 min
 

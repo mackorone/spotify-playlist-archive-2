@@ -4,7 +4,7 @@
 
 > Praise and Worship the Almighty God with the best songs\. A mix of both African and International songs.
 
-976 songs - 4 day 6 hr 34 min
+977 songs - 4 day 6 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -270,6 +270,7 @@
 | [Glory to the Lamb](https://open.spotify.com/track/425k4vS0dg9Ri0gpslc6JW) | [Nathaniel Bassey](https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn), [Nessa Asuakoh](https://open.spotify.com/artist/3PhfIzLpTaNOr8tSvgbzGo) | [The Glory of His Presence](https://open.spotify.com/album/0G15dQmK6vpTiHwQNiroWz) | 21:09 | 2026-01-02 | 2026-01-23 |
 | [GO!](https://open.spotify.com/track/2VtQ4TnLxooGfv89IC3Qc3) | [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [GO!](https://open.spotify.com/album/5XnGqduLs9TKkjhKolDhtB) | 2:39 | 2026-01-23 | 2026-03-27 |
 | [God Alone \- Live](https://open.spotify.com/track/3dWxH0XNHZgC4A8Nbz8n12) | [OMASHINES](https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM) | [God Alone \(Live\)](https://open.spotify.com/album/36VZypiP0OK3wfvI60Os0f) | 4:20 | 2026-04-17 | 2026-04-24 |
+| [God Brought Us This Far !](https://open.spotify.com/track/4Mud8gQ3gI7CYHcNn3NaBW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso), [Princess Ubabudike](https://open.spotify.com/artist/0rJ1gAFLYevPLRdAy2CyXl) | [Just Believe](https://open.spotify.com/album/6lRddqfhBJ5jtzhctqlaAw) | 7:48 | 2026-09-18 |  |
 | [God Has Done](https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB) | [Victor Thompson](https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas) | [God Has Done](https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg) | 2:59 | 2025-09-26 | 2025-11-28 |
 | [God I'm Just Grateful](https://open.spotify.com/track/2ggP6WjaTsloaiBxXY5JB7) | [Elevation Worship](https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix), [Chandler Moore](https://open.spotify.com/artist/6y7frW1RUq3XBBXbYowVpk) | [God I'm Just Grateful](https://open.spotify.com/album/5FTiQxhX4OfMF5YjStmIt6) | 4:59 | 2026-01-09 |  |
 | [God Is Alive](https://open.spotify.com/track/5avTXXUA36ekHDaec72R6m) | [Pacome BenHaelohim](https://open.spotify.com/artist/4Ytvgrankp38Tw46uJwPOj), [Sarepta Faveur](https://open.spotify.com/artist/1R5Ud8jFIhhFfUXnVmmjPE) | [Chayyim](https://open.spotify.com/album/1WvT2OBu7myGedtQHAgkai) | 6:15 | 2025-04-19 | 2025-05-09 |

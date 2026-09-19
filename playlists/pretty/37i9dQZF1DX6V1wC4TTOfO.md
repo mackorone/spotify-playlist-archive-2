@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6V1wC4TTOfO.md) - [plain]
 
 > <a href="spotify:artist:249QVZLSwrDyleKNapaapm">SAFAR</a>'s favorite tracks\. Updated regularly\. Curated by SAFAR\. Discover more track IDs playlists <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,665 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,745 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,7 +31,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6V1wC4TTOfO.md) - [plain]
 | 21 | [Deedee \- SAFAR's Scandalous Mix](https://open.spotify.com/track/0Me5v8MsGEf5b2zoSTxDKu) | [HVMZA](https://open.spotify.com/artist/7lrf9DRS7RmffYzVN7PYfK), [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [Simo Chemchoub](https://open.spotify.com/artist/1gKFhYULkd0yVePJAPR1IV) | [Deedee \(SAFAR's Scandalous Mix\)](https://open.spotify.com/album/3BsdrkQrIDAXLmxEjh5zDD) | 5:52 |
 | 22 | [Gandagana](https://open.spotify.com/track/2CA3v1wyKRZl54wslksKkZ) | [Swanky Tunes](https://open.spotify.com/artist/06cLuOP0p7VAnBnqil1eWX), [Backeer](https://open.spotify.com/artist/1eIMkjElnyyQ4qbiby3h6w), [Elline](https://open.spotify.com/artist/3X76EEZE5EfyHkOCyrVIkm) | [Gandagana](https://open.spotify.com/album/4Ur1Y5qQca5bdn8EWvO9cZ) | 2:34 |
 | 23 | [Scandalosa](https://open.spotify.com/track/7tcyt0AGkCSYwiO9nkzCW7) | [SAFAR](https://open.spotify.com/artist/249QVZLSwrDyleKNapaapm), [LeCloarec](https://open.spotify.com/artist/0Aa8SAfVNznvAyAFmfgu1x) | [Scandalosa](https://open.spotify.com/album/3mdWkfqmhJ6rpmcIP6dEEj) | 7:21 |
-| 24 | [Like Dat \- Ape Drums Remix](https://open.spotify.com/track/6pv5Ajnc2fp12ilnkD5Xrr) | [Danidane](https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3), [MAAURA](https://open.spotify.com/artist/40AKih5OpGrRTlHilgilSN), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Like Dat \(Ape Drums Remix\)](https://open.spotify.com/album/3YJqSdB9sI55m2keWWNK41) | 4:15 |
+| 24 | [Like Dat \- Ape Drums Remix](https://open.spotify.com/track/6pv5Ajnc2fp12ilnkD5Xrr) | [MAAURA](https://open.spotify.com/artist/40AKih5OpGrRTlHilgilSN), [Danidane](https://open.spotify.com/artist/0iuUN6j3vMee2NUjkFJDF3), [Ape Drums](https://open.spotify.com/artist/4HJnsUVBubdKJ2aV0sr48u) | [Like Dat \(Ape Drums Remix\)](https://open.spotify.com/album/3YJqSdB9sI55m2keWWNK41) | 4:15 |
 | 25 | [Where's My Voice? \- Samer Soltan Remix](https://open.spotify.com/track/0ZwwEA0piRDdayPerIsYtm) | [Mita Gami](https://open.spotify.com/artist/6Y9N9gdo5jpzGsExWDymS8), [EREZ](https://open.spotify.com/artist/0UKrJ4XldrkShYFCjRPhVa), [Samer Soltan](https://open.spotify.com/artist/5cOdeiFBqRyXSDUJbnInuX) | [Where's My Voice?](https://open.spotify.com/album/1Iix0stRVi0IPp0NPM3CD0) | 5:14 |
 | 26 | [Djobi](https://open.spotify.com/track/2hdUTWqOX1vqGhCPViDb9C) | [Christian Lepah](https://open.spotify.com/artist/0EUxPMFdUknfd9UjSpOJGz), [Alin Dragan](https://open.spotify.com/artist/6FLbnoVXD4WSFyZkqrGElX), [Sounds Of Sirin](https://open.spotify.com/artist/0aPNhtrzvas6BBr9N7Db7w) | [Djobi](https://open.spotify.com/album/3sm0aYOm1VflvPUgYt1Yuu) | 3:40 |
 | 27 | [Tribal Mood](https://open.spotify.com/track/0TknK7w87OpsSWotAeKW3D) | [Jesús Fernández](https://open.spotify.com/artist/6bZ11vzZLe2XZhvgLVcZum), [NenaHalena](https://open.spotify.com/artist/23iRCK9958IO0IMtIvAAJq) | [Tribal Mood](https://open.spotify.com/album/5qf5h8JHPkkAmC0gQjZEv0) | 2:35 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6V1wC4TTOfO.md) - [plain]
 | 49 | [Live Your Life \- Radio Edit](https://open.spotify.com/track/5foOyxcGmVKHpPfeOfm9oi) | [Erick Morillo](https://open.spotify.com/artist/4DE0cYxMnEEmfKLwDkYwxb), [Eddie Thoneick](https://open.spotify.com/artist/5bZtLLqlPwps3vdb8ElAkt), [Shawnee Taylor](https://open.spotify.com/artist/5sicJtm0vC2wbv3RFNOqRU) | [Radio Killers in Stereo](https://open.spotify.com/album/2qs3qhbAPSrfABD9F0fG1V) | 3:44 |
 | 50 | [Music Sounds Better With You](https://open.spotify.com/track/303ccTay2FiDTZ9fZ2AdBt) | [Stardust](https://open.spotify.com/artist/2w7IutHv5g4e8LumrwtjWR), [Benjamin Diamond](https://open.spotify.com/artist/2XOvFG8pp1XAV1V6ZJABim), [Alan Braxe](https://open.spotify.com/artist/24JRvbKfTcF2x7c2kCCJrW), [Thomas Bangalter](https://open.spotify.com/artist/41vv2Tj1knysv6MuFUmdwi) | [Music Sounds Better With You](https://open.spotify.com/album/7Kusf5plZjl76X5ARWJbNO) | 6:43 |
 
-Snapshot ID: `AAAAACto4VH1LlJ4canGtLrevFx819ob`
+Snapshot ID: `AAAAACRwMWfZkoP+/0ESq/VpGkPx5oxM`

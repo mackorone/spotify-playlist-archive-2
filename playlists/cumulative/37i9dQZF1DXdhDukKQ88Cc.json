@@ -117,6 +117,28 @@
     },
     {
       "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157780,
+      "name": "10/5",
+      "url": "https://open.spotify.com/track/0VlWAuVyELrgYOxUfVF4Ng"
+    },
+    {
+      "album": {
         "name": "12 Dage",
         "url": "https://open.spotify.com/album/2SegepYWdJtTAgHPVU20H0"
       },
@@ -2094,6 +2116,28 @@
       "duration_ms": 163886,
       "name": "Cash Out",
       "url": "https://open.spotify.com/track/1VZnv0F4z84RGtA8gC2xM2"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182015,
+      "name": "Casio",
+      "url": "https://open.spotify.com/track/1Yc2Z8NQZvpOd0mMzvrSiI"
     },
     {
       "album": {
@@ -10800,42 +10844,6 @@
       "duration_ms": 131156,
       "name": "Topskud",
       "url": "https://open.spotify.com/track/2yXRAzgIXzLwKCoyP0kEwG"
-    },
-    {
-      "album": {
-        "name": "Verden Er Din",
-        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 10",
-      "url": "https://open.spotify.com/track/1Yc2Z8NQZvpOd0mMzvrSiI"
-    },
-    {
-      "album": {
-        "name": "Verden Er Din",
-        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
-      },
-      "artists": [
-        {
-          "name": "Gilli",
-          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 8",
-      "url": "https://open.spotify.com/track/0VlWAuVyELrgYOxUfVF4Ng"
     },
     {
       "album": {

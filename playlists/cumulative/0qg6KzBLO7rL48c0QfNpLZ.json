@@ -2886,7 +2886,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 128727,
       "name": "Best Days",
       "url": "https://open.spotify.com/track/2z06fNBgyzRTCGq4ptcCeM"
@@ -4432,6 +4432,24 @@
       "duration_ms": 164375,
       "name": "call your name",
       "url": "https://open.spotify.com/track/64nHffSg8vjbefneTeIK0r"
+    },
+    {
+      "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2rN2hM3iBOov1LcdPZ1Chm"
+      },
+      "artists": [
+        {
+          "name": "Effluents",
+          "url": "https://open.spotify.com/artist/2cesrjIDNjXKwc22JUBTk0"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160389,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/5gIKPCFVDHlLXaXQCHrpDr"
     },
     {
       "album": {
@@ -6475,6 +6493,24 @@
     },
     {
       "album": {
+        "name": "Dale M\u00e1s",
+        "url": "https://open.spotify.com/album/2RnN3xlHP0ukZm0ecFcAYG"
+      },
+      "artists": [
+        {
+          "name": "Amani Amara",
+          "url": "https://open.spotify.com/artist/5V0ajF8JrttHDTb65QM21N"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153934,
+      "name": "Dale M\u00e1s",
+      "url": "https://open.spotify.com/track/04NRokm3Djidms5NGFhCAe"
+    },
+    {
+      "album": {
         "name": "Dance The Night Away",
         "url": "https://open.spotify.com/album/0ZmtmKJbvkWeBMCN2HLQmI"
       },
@@ -7468,7 +7504,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 165995,
       "name": "Do U Notice",
       "url": "https://open.spotify.com/track/4KSqY3gJ1YODJZ5qCYPweI"
@@ -9150,6 +9186,32 @@
       "duration_ms": 131892,
       "name": "Endless",
       "url": "https://open.spotify.com/track/768sW21QQtCKYrFyeh8iTV"
+    },
+    {
+      "album": {
+        "name": "Endless Beach",
+        "url": "https://open.spotify.com/album/0KOyPPY7SJTmU4p7J9FEAK"
+      },
+      "artists": [
+        {
+          "name": "Fex",
+          "url": "https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        },
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Endless Beach",
+      "url": "https://open.spotify.com/track/0zU11XHZAcNsVNYthX9eZO"
     },
     {
       "album": {
@@ -11534,7 +11596,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 138461,
       "name": "Forever",
       "url": "https://open.spotify.com/track/1wjlK6XQV0ne8ZEE2aFJ7C"
@@ -12040,6 +12102,28 @@
       "duration_ms": 171530,
       "name": "Get You Alone",
       "url": "https://open.spotify.com/track/1QWpPdRbTRSWpsmBZzD9cA"
+    },
+    {
+      "album": {
+        "name": "getting in my head",
+        "url": "https://open.spotify.com/album/5eZzSkK3MEVf8s16XDwPZD"
+      },
+      "artists": [
+        {
+          "name": "Drics",
+          "url": "https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO"
+        },
+        {
+          "name": "emziii",
+          "url": "https://open.spotify.com/artist/6P9QtmAiOBTw9VzKYJkO1t"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193333,
+      "name": "getting in my head",
+      "url": "https://open.spotify.com/track/282Pp564PbcKyePaozItgH"
     },
     {
       "album": {
@@ -14036,6 +14120,24 @@
       "duration_ms": 150000,
       "name": "Hold Me Close",
       "url": "https://open.spotify.com/track/0IwKgvLvEpZWLvuHKTyuzH"
+    },
+    {
+      "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/5uu0UR0AYKV7URMIDuUTvw"
+      },
+      "artists": [
+        {
+          "name": "SITHEA",
+          "url": "https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153537,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/6UtyCX02xxE2F48lHeOZob"
     },
     {
       "album": {
@@ -16149,6 +16251,24 @@
     },
     {
       "album": {
+        "name": "in my head",
+        "url": "https://open.spotify.com/album/1CNdX0E12E2NNAvacx6geu"
+      },
+      "artists": [
+        {
+          "name": "hazle",
+          "url": "https://open.spotify.com/artist/2B0LD693Ywjj4jLRGJOQHK"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171697,
+      "name": "in my head",
+      "url": "https://open.spotify.com/track/4ENvfRmVlNR8Q5GWDVBxPU"
+    },
+    {
+      "album": {
         "name": "In My Head",
         "url": "https://open.spotify.com/album/6Z1OHC8fQPRnXlsw3VNaaY"
       },
@@ -16200,6 +16320,32 @@
       "duration_ms": 149336,
       "name": "In The Air Tonight",
       "url": "https://open.spotify.com/track/6xCUzDEwifZ9PUPYoFCtZt"
+    },
+    {
+      "album": {
+        "name": "In The Light",
+        "url": "https://open.spotify.com/album/1rb488tswX9SzyMRrgEZcU"
+      },
+      "artists": [
+        {
+          "name": "Velvety",
+          "url": "https://open.spotify.com/artist/5vj8jozcvNuHvgw68Lwvyh"
+        },
+        {
+          "name": "Luna Serenade",
+          "url": "https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ"
+        },
+        {
+          "name": "idyllic",
+          "url": "https://open.spotify.com/artist/2GIbW7hY6JPKZAO2INUYIL"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130699,
+      "name": "In The Light",
+      "url": "https://open.spotify.com/track/6n5gexGdH3VMcwJay0zbEh"
     },
     {
       "album": {
@@ -19972,6 +20118,24 @@
     {
       "album": {
         "name": "Loving You",
+        "url": "https://open.spotify.com/album/5yb9PJcq6WiNtAQE3qKI1a"
+      },
+      "artists": [
+        {
+          "name": "JNDST",
+          "url": "https://open.spotify.com/artist/1Wwyw3BdrqON42G2tMJKfi"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135504,
+      "name": "Loving You",
+      "url": "https://open.spotify.com/track/0SL28niUr6jlv3Nv8Q82Z7"
+    },
+    {
+      "album": {
+        "name": "Loving You",
         "url": "https://open.spotify.com/album/04XdUm9jo68vDw8FVimIo4"
       },
       "artists": [
@@ -20160,6 +20324,32 @@
       "duration_ms": 160624,
       "name": "Lullaby",
       "url": "https://open.spotify.com/track/7IKbLYB375325vEbN2NiwL"
+    },
+    {
+      "album": {
+        "name": "Lush Life",
+        "url": "https://open.spotify.com/album/498C1NIHKEHLJsuoCMZhqV"
+      },
+      "artists": [
+        {
+          "name": "Jorge Junior",
+          "url": "https://open.spotify.com/artist/7yC0P7WGtGY5lA9ZBkhSIL"
+        },
+        {
+          "name": "\u00c6j",
+          "url": "https://open.spotify.com/artist/0VJqEAN7vlJ2hhtBgRNv41"
+        },
+        {
+          "name": "Eliine",
+          "url": "https://open.spotify.com/artist/1E2Zt9ZCpNq2Styo5IzYHk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165043,
+      "name": "Lush Life",
+      "url": "https://open.spotify.com/track/2yBovq7tedk0nA0qpgwszj"
     },
     {
       "album": {
@@ -20993,6 +21183,24 @@
     },
     {
       "album": {
+        "name": "Missing Us",
+        "url": "https://open.spotify.com/album/3P6NhMXnkzHbLYt9BjR3Bx"
+      },
+      "artists": [
+        {
+          "name": "P.A.V",
+          "url": "https://open.spotify.com/artist/4pqyg42kTh4xrULdghsTGV"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137739,
+      "name": "Missing Us",
+      "url": "https://open.spotify.com/track/1ZYoPj8qWiySLomOnleR0l"
+    },
+    {
+      "album": {
         "name": "Missing You",
         "url": "https://open.spotify.com/album/4vLpOQGZ4QSZpwYqge4yfb"
       },
@@ -21452,6 +21660,32 @@
       "duration_ms": 184005,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/2x3oNXRXqn79zuGIeKRkkS"
+    },
+    {
+      "album": {
+        "name": "Moth To A Flame",
+        "url": "https://open.spotify.com/album/4FNauBuwISWGzeXaBFJ7Ji"
+      },
+      "artists": [
+        {
+          "name": "MARSTEREON",
+          "url": "https://open.spotify.com/artist/7jEVO7yGtLTH2UsMcuA8Ap"
+        },
+        {
+          "name": "Nito-Onna",
+          "url": "https://open.spotify.com/artist/79GiwayvvpyZVErpH6BLsY"
+        },
+        {
+          "name": "Deep Mage",
+          "url": "https://open.spotify.com/artist/0MR7IMVJ0cdWJBivbwRr4A"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184772,
+      "name": "Moth To A Flame",
+      "url": "https://open.spotify.com/track/5biMBvG8AacMfwMd7uxY86"
     },
     {
       "album": {
@@ -22780,6 +23014,28 @@
       "duration_ms": 159310,
       "name": "nostalgia",
       "url": "https://open.spotify.com/track/6P145UblEPK6eXBtQYcbLG"
+    },
+    {
+      "album": {
+        "name": "Not A Burden",
+        "url": "https://open.spotify.com/album/6KzvdDsUtStCpwAlX1qjVT"
+      },
+      "artists": [
+        {
+          "name": "Thom Merlin",
+          "url": "https://open.spotify.com/artist/0N6fCdc4H9CuUysWoCb9FC"
+        },
+        {
+          "name": "Andrea Hamilton",
+          "url": "https://open.spotify.com/artist/6KHaRRRqsIRnkLcApkyELs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130560,
+      "name": "Not A Burden",
+      "url": "https://open.spotify.com/track/63Wtzbg8jDMFYF93UyLMQi"
     },
     {
       "album": {
@@ -26990,6 +27246,24 @@
       "duration_ms": 146608,
       "name": "Save Tonight",
       "url": "https://open.spotify.com/track/60YPwlX3UnngvCHaP9qEdu"
+    },
+    {
+      "album": {
+        "name": "Save You",
+        "url": "https://open.spotify.com/album/2XU9KwYhz8pvyBpsYhGick"
+      },
+      "artists": [
+        {
+          "name": "Ocean East",
+          "url": "https://open.spotify.com/artist/0gC4DgeokOQjmqG1NQZ4kF"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135555,
+      "name": "Save You",
+      "url": "https://open.spotify.com/track/6i8DvN0JoJlTeuPDyt5L4g"
     },
     {
       "album": {
@@ -32361,6 +32635,24 @@
     },
     {
       "album": {
+        "name": "To Me",
+        "url": "https://open.spotify.com/album/6o956KBDjcqf3moFdNSXcz"
+      },
+      "artists": [
+        {
+          "name": "Eijk",
+          "url": "https://open.spotify.com/artist/3xpqgW506tvkpYpP57a1IM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130714,
+      "name": "To Me",
+      "url": "https://open.spotify.com/track/56WhOSJyW1675KJODU18py"
+    },
+    {
+      "album": {
         "name": "To Move Again",
         "url": "https://open.spotify.com/album/2ud8zdiICtWtTgI3OhqR5u"
       },
@@ -33028,7 +33320,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 169811,
       "name": "Underwater",
       "url": "https://open.spotify.com/track/1XUUcQn4Z2R80t4gbGSrvn"

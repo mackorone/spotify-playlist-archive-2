@@ -1,12 +1,12 @@
 {
   "description": "Release your inner jock with these badass jams. ",
-  "num_followers": 389162,
+  "num_followers": 389164,
   "original_name": "Jock Jams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOSZqaXeUL8xUu92PKM5GZn7DZ8R",
+  "snapshot_id": "AAAAAANqmFFOG4NYuI7b+lUWXPdfWCKl",
   "tracks": [
     {
       "added_at": "2024-07-15 15:51:37",
@@ -223,18 +223,18 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
+        "name": "Crush",
+        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
       },
       "artists": [
         {
-          "name": "Boston",
-          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
+          "name": "Bon Jovi",
+          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
         }
       ],
-      "duration_ms": 285133,
-      "name": "More Than a Feeling",
-      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
+      "duration_ms": 224493,
+      "name": "It's My Life",
+      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -275,18 +275,18 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
-        "name": "Crush",
-        "url": "https://open.spotify.com/album/0Q9SljCrM0CL0bR23MuP69"
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/2QLp07RO6anZHmtcKTEvSC"
       },
       "artists": [
         {
-          "name": "Bon Jovi",
-          "url": "https://open.spotify.com/artist/58lV9VcRSjABbAbfWS6skp"
+          "name": "Boston",
+          "url": "https://open.spotify.com/artist/29kkCKKGXheHuoO829FxWK"
         }
       ],
-      "duration_ms": 224493,
-      "name": "It's My Life",
-      "url": "https://open.spotify.com/track/0v1XpBHnsbkCn7iJ9Ucr1l"
+      "duration_ms": 285133,
+      "name": "More Than a Feeling",
+      "url": "https://open.spotify.com/track/1QEEqeFIZktqIpPI4jSVSF"
     },
     {
       "added_at": "2024-07-15 15:51:37",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2024-07-15 15:51:37",
       "album": {
+        "name": "DS2 (Deluxe)",
+        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
+      },
+      "artists": [
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        }
+      ],
+      "duration_ms": 237400,
+      "name": "Fuck Up Some Commas",
+      "url": "https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1"
+    },
+    {
+      "added_at": "2024-07-15 15:51:37",
+      "album": {
         "name": "Battle Of The Sexes (Deluxe)",
         "url": "https://open.spotify.com/album/00kSgH9g6nYBQhjnRQFBew"
       },
@@ -1139,22 +1155,6 @@
       "duration_ms": 216933,
       "name": "My Chick Bad",
       "url": "https://open.spotify.com/track/3bMNprrp2JDKZsGbiXpsJl"
-    },
-    {
-      "added_at": "2024-07-15 15:51:37",
-      "album": {
-        "name": "DS2 (Deluxe)",
-        "url": "https://open.spotify.com/album/0fUy6IdLHDpGNwavIlhEsl"
-      },
-      "artists": [
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        }
-      ],
-      "duration_ms": 237400,
-      "name": "Fuck Up Some Commas",
-      "url": "https://open.spotify.com/track/49zD0wr2S3d0lZPib0K4e1"
     },
     {
       "added_at": "2024-07-15 15:51:37",

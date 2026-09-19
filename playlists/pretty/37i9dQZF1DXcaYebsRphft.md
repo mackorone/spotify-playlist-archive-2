@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 
 > 『2026 TWS TOUR '24/7:FOR:YOU' IN JAPAN』のメンバーボイス入りセットリスト
 
-[Spotify](https://open.spotify.com/user/spotify) - 40,927 likes - 24 songs - 52 min 42 sec
+[Spotify](https://open.spotify.com/user/spotify) - 40,933 likes - 24 songs - 52 min 42 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcaYebsRphft.md) - [plain]
 | 23 | [SODA SODA](https://open.spotify.com/track/57gjiXuk5Z992BWHrvncEa) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [SODA SODA](https://open.spotify.com/album/46CiVULXNIUuEfTtfHLQ3T) | 3:12 |
 | 24 | [Message from KYUNGMIN](https://open.spotify.com/track/0YymzX3s2pqlbuEsffVoNw) | [TWS](https://open.spotify.com/artist/4GgBKgxhc649frZDHcXIEz) | [Message from TWS](https://open.spotify.com/album/1FFjyE5rtPfaK1FlCBsvfw) | 0:15 |
 
-Snapshot ID: `AAAAAGpTjY23NuuoVq5PtpzgcYFFsboD`
+Snapshot ID: `AAAAAGj4H+vyBMA5rkX1RktdFoBwgLiM`

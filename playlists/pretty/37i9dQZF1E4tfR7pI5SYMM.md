@@ -2,7 +2,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4tfR7pI5SYMM.md) - [plain]
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With MIK's Reaction, David Von Beahm, The Charlie Marshall Effect and more
+> With MIK's Reaction, David Von Beahm, Roderiko Pop and more
 
 [Spotify](https://open.spotify.com/user/spotify) - 23 likes - 50 songs - 3 hr 8 min
 
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4tfR7pI5SYMM.md) - [plain]
 | 49 | [Værstevænna](https://open.spotify.com/track/4PoNlPin3j1eXYFbJ8P4sV) | [Mareritt Larsen](https://open.spotify.com/artist/1gSnGu4c6myeOdBBJIFDZ0) | [Værstevænna](https://open.spotify.com/album/4gjHa1krm1x5BVjmplMk30) | 2:01 |
 | 50 | [Fuzz Days](https://open.spotify.com/track/3vGTXbl5WjHG0XH2fZEV60) | [Simone Vignini](https://open.spotify.com/artist/2nJ85JfXrhJCBmEhkGlMaU) | [Fuzz Days](https://open.spotify.com/album/7c9LF5vPiA33RVPZD0t0sG) | 3:51 |
 
-Snapshot ID: `AAAAAN3Z5VDtEz/oGJTFis5OnjnDMFj2`
+Snapshot ID: `AAAAABNWNXPrZRDzSHBzJO/EkD5mPf7m`

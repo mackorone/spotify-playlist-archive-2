@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Trending for a reason - the home of country's future monster hits. Cover: Riley Green",
+  "description": "Trending for a reason - the home of country's future monster hits. Cover: Kameron Marlowe",
   "name": "Breakout Country",
   "tracks": [
     {
@@ -634,7 +634,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 258736,
       "name": "Anytime, Anywhere, Antoinette",
       "url": "https://open.spotify.com/track/5clq7hPIaE3VUB0mqnKIjn"
@@ -1484,7 +1484,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 161410,
       "name": "Born To Die",
       "url": "https://open.spotify.com/track/2OYL3iPdImeS7qMmV2gOsX"
@@ -1904,6 +1904,28 @@
       "duration_ms": 204411,
       "name": "California Sober (Feat. Chris Stapleton)",
       "url": "https://open.spotify.com/track/1SPI4AlK4121PEQPGSpdcY"
+    },
+    {
+      "album": {
+        "name": "Can of Worms",
+        "url": "https://open.spotify.com/album/30LMtgFfBNLziQmAgSZOCd"
+      },
+      "artists": [
+        {
+          "name": "Wade Forster",
+          "url": "https://open.spotify.com/artist/4ZPuBr6MAXRpyQsQMfqVRK"
+        },
+        {
+          "name": "Treaty Oak Revival",
+          "url": "https://open.spotify.com/artist/3444S3C4U9Ts86BnCtSPRV"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254319,
+      "name": "Can of Worms",
+      "url": "https://open.spotify.com/track/18m5aSDgzYu18fWAGdQIRD"
     },
     {
       "album": {
@@ -2352,7 +2374,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 175763,
       "name": "Cowgirl",
       "url": "https://open.spotify.com/track/1CXLVRVMVxtJOtV50pfVly"
@@ -6562,7 +6584,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 203733,
       "name": "Land",
       "url": "https://open.spotify.com/track/4848iEZHeWX9rqPlilPA87"
@@ -6746,6 +6768,24 @@
       "duration_ms": 230632,
       "name": "Left You For Me",
       "url": "https://open.spotify.com/track/2c6RxNOmFQ5Vfnay17glsh"
+    },
+    {
+      "album": {
+        "name": "Let 'Em Know",
+        "url": "https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180236,
+      "name": "Let 'Em Know",
+      "url": "https://open.spotify.com/track/3oxVbPoTwXbN2Pl4HWLINy"
     },
     {
       "album": {
@@ -8589,6 +8629,24 @@
     },
     {
       "album": {
+        "name": "On The Road",
+        "url": "https://open.spotify.com/album/4tqa9YThom4gRa6y2PhQ39"
+      },
+      "artists": [
+        {
+          "name": "Eric Church",
+          "url": "https://open.spotify.com/artist/2IvkS5MXK0vPGnwyJsrEyV"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310986,
+      "name": "On The Road",
+      "url": "https://open.spotify.com/track/0JNkydMC9KcUNG73DBIbZK"
+    },
+    {
+      "album": {
         "name": "One Day Tonight",
         "url": "https://open.spotify.com/album/2MphzYOblUXTBfdWzYxtbl"
       },
@@ -8828,6 +8886,28 @@
       "duration_ms": 184013,
       "name": "Over You is You (feat. Matt Stell)",
       "url": "https://open.spotify.com/track/4q6ZkvXOCdKaGFBwTWj7nY"
+    },
+    {
+      "album": {
+        "name": "Overrated",
+        "url": "https://open.spotify.com/album/4rZXNKlNmP7tdTRJXt4PSe"
+      },
+      "artists": [
+        {
+          "name": "Warren Zeiders",
+          "url": "https://open.spotify.com/artist/7kplJl06UmldxLKseURAYi"
+        },
+        {
+          "name": "Bellah Mae",
+          "url": "https://open.spotify.com/artist/0BCD9XnZVhdY2vojKAPAiT"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186639,
+      "name": "Overrated",
+      "url": "https://open.spotify.com/track/6B0SRCqeUHWQW9iqoglcpR"
     },
     {
       "album": {

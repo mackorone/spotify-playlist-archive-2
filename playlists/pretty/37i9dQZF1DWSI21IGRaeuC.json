@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Josh Baker",
-  "num_followers": 90558,
+  "num_followers": 90615,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIwoq2apMGw/ANisuR4ubtF6k8pQ",
+  "snapshot_id": "AAAAAIger7pBS48bmiKWNrMhgLVLXK2b",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:45",
@@ -45,6 +45,38 @@
       "url": "https://open.spotify.com/track/7dDyrOyL1NBPE8uUi217NO"
     },
     {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "1997",
+        "url": "https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7"
+      },
+      "artists": [
+        {
+          "name": "Beave",
+          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "1997 - Radio Edit",
+      "url": "https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp"
+    },
+    {
+      "added_at": "2026-09-18 04:02:15",
+      "album": {
+        "name": "It's Time EP",
+        "url": "https://open.spotify.com/album/62LYZp4TFLbvOTPZQS4YGs"
+      },
+      "artists": [
+        {
+          "name": "Dennis Quin",
+          "url": "https://open.spotify.com/artist/1iaGffGcjxdzSFkwfCN2Ul"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "It's Time",
+      "url": "https://open.spotify.com/track/5ufXLBWYgi6YLHdhPJJbJW"
+    },
+    {
       "added_at": "2026-08-21 04:01:27",
       "album": {
         "name": "Sun is Shining (Lovelee Dae)",
@@ -61,20 +93,36 @@
       "url": "https://open.spotify.com/track/4BnF9lzg2f7kc7wxydPhby"
     },
     {
-      "added_at": "2026-08-28 04:01:45",
+      "added_at": "2026-09-11 04:01:32",
       "album": {
-        "name": "1997",
-        "url": "https://open.spotify.com/album/0Ps0Yj6bbMoO65Ll7PsPO7"
+        "name": "She's Dangerous",
+        "url": "https://open.spotify.com/album/47Xymw0XyHuEgykXOk3jOB"
       },
       "artists": [
         {
-          "name": "Beave",
-          "url": "https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS"
+          "name": "Flex (UK)",
+          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
         }
       ],
-      "duration_ms": 160000,
-      "name": "1997 - Radio Edit",
-      "url": "https://open.spotify.com/track/1u84J8DVyePh6h2Ru7K2Cp"
+      "duration_ms": 195348,
+      "name": "She's Dangerous",
+      "url": "https://open.spotify.com/track/5JKeTyb0STGVxk3kEsATXS"
+    },
+    {
+      "added_at": "2026-09-18 04:02:15",
+      "album": {
+        "name": "Want U Back",
+        "url": "https://open.spotify.com/album/64kspokjua1DDfhiuYoIeb"
+      },
+      "artists": [
+        {
+          "name": "Skeptic",
+          "url": "https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI"
+        }
+      ],
+      "duration_ms": 155515,
+      "name": "Want U Back",
+      "url": "https://open.spotify.com/track/3qk3Sf3hnnSBIfWTjpB9Kv"
     },
     {
       "added_at": "2026-09-11 04:01:32",
@@ -97,20 +145,68 @@
       "url": "https://open.spotify.com/track/30JxmICN72zsldCJADryJj"
     },
     {
-      "added_at": "2026-09-04 14:34:20",
+      "added_at": "2026-09-11 04:01:32",
       "album": {
-        "name": "No Joke",
-        "url": "https://open.spotify.com/album/19fK99qInBx1rJLqaCfvcC"
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
       },
       "artists": [
         {
-          "name": "Ben Griff",
-          "url": "https://open.spotify.com/artist/0UBeWkZtGsqsGG83v4iCNZ"
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
         }
       ],
-      "duration_ms": 209090,
-      "name": "No Joke",
-      "url": "https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX"
+      "duration_ms": 195572,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
+    },
+    {
+      "added_at": "2026-09-18 04:02:15",
+      "album": {
+        "name": "Witty",
+        "url": "https://open.spotify.com/album/4bhf9v3REyvW96YzoY9Bh4"
+      },
+      "artists": [
+        {
+          "name": "Kitty Hall",
+          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Witty",
+      "url": "https://open.spotify.com/track/6cKNCPypACC3mosprq9VQx"
+    },
+    {
+      "added_at": "2026-09-18 04:02:15",
+      "album": {
+        "name": "The Arrival",
+        "url": "https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl"
+      },
+      "artists": [
+        {
+          "name": "KDAY",
+          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
+    },
+    {
+      "added_at": "2026-09-04 04:01:18",
+      "album": {
+        "name": "Energy Crew",
+        "url": "https://open.spotify.com/album/1F4hYcrjNOuHqmitVgDQaT"
+      },
+      "artists": [
+        {
+          "name": "Gaskin",
+          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+        }
+      ],
+      "duration_ms": 201400,
+      "name": "Sheetz",
+      "url": "https://open.spotify.com/track/6BbT79lSfkd5rqLaaDN3Q8"
     },
     {
       "added_at": "2026-08-28 04:01:45",
@@ -137,36 +233,52 @@
       "url": "https://open.spotify.com/track/29Ryx73SRQjFLovbWRuG57"
     },
     {
-      "added_at": "2026-09-11 04:01:32",
+      "added_at": "2026-09-18 04:02:15",
       "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
+        "name": "In Your Atmosphere",
+        "url": "https://open.spotify.com/album/2SEKCUaPKm6ns4845s9dEu"
       },
       "artists": [
         {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+          "name": "DELACOUR",
+          "url": "https://open.spotify.com/artist/3bFd5sav9N5kGzBklcXt6l"
         }
       ],
-      "duration_ms": 195572,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
+      "duration_ms": 207873,
+      "name": "In Your Atmosphere",
+      "url": "https://open.spotify.com/track/41ODyVxJdKhRfSXhUlcgCT"
     },
     {
-      "added_at": "2026-09-04 04:01:18",
+      "added_at": "2026-09-04 14:34:20",
       "album": {
-        "name": "Energy Crew",
-        "url": "https://open.spotify.com/album/1F4hYcrjNOuHqmitVgDQaT"
+        "name": "No Joke",
+        "url": "https://open.spotify.com/album/19fK99qInBx1rJLqaCfvcC"
       },
       "artists": [
         {
-          "name": "Gaskin",
-          "url": "https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm"
+          "name": "Ben Griff",
+          "url": "https://open.spotify.com/artist/0UBeWkZtGsqsGG83v4iCNZ"
         }
       ],
-      "duration_ms": 201400,
-      "name": "Sheetz",
-      "url": "https://open.spotify.com/track/6BbT79lSfkd5rqLaaDN3Q8"
+      "duration_ms": 209090,
+      "name": "No Joke",
+      "url": "https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX"
+    },
+    {
+      "added_at": "2026-09-18 04:02:15",
+      "album": {
+        "name": "Dancing Through EP",
+        "url": "https://open.spotify.com/album/0iYuvzdLNPjXgKaxADw9GL"
+      },
+      "artists": [
+        {
+          "name": "DAETOR",
+          "url": "https://open.spotify.com/artist/0PivHDlqdfJmNugJ2TLXlt"
+        }
+      ],
+      "duration_ms": 247272,
+      "name": "Dancing Through",
+      "url": "https://open.spotify.com/track/73tiEGpvcvWxs8G0kPmIw4"
     },
     {
       "added_at": "2026-09-11 04:01:32",
@@ -183,6 +295,38 @@
       "duration_ms": 180396,
       "name": "In My House",
       "url": "https://open.spotify.com/track/0TEppNd7RwCZ6gGKzYExPQ"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "Breaking Point EP",
+        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
+      },
+      "artists": [
+        {
+          "name": "Josh Baker",
+          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+        }
+      ],
+      "duration_ms": 168334,
+      "name": "Breaking Point",
+      "url": "https://open.spotify.com/track/79a1xMhXdnCPpTY8MmnEre"
+    },
+    {
+      "added_at": "2026-09-18 04:02:15",
+      "album": {
+        "name": "Don't Stop EP",
+        "url": "https://open.spotify.com/album/5NZH0aHaP61wlbXk3cBR8Q"
+      },
+      "artists": [
+        {
+          "name": "aMo (um)",
+          "url": "https://open.spotify.com/artist/4XVAZbKq64Z3Q0LPpCmoo0"
+        }
+      ],
+      "duration_ms": 242851,
+      "name": "Don't Stop",
+      "url": "https://open.spotify.com/track/4I0O2T4Mi4pR4hx6ZZ2M6o"
     },
     {
       "added_at": "2026-08-21 16:29:30",
@@ -217,6 +361,66 @@
       "url": "https://open.spotify.com/track/6cN2NpPwDAtvSIcVGV1mLO"
     },
     {
+      "added_at": "2026-09-18 04:02:15",
+      "album": {
+        "name": "Don't Stare",
+        "url": "https://open.spotify.com/album/3emj0E3qYpnOztMeNXITpx"
+      },
+      "artists": [
+        {
+          "name": "Elado",
+          "url": "https://open.spotify.com/artist/6tOqXU5tewaxqFtYCw9NlI"
+        },
+        {
+          "name": "Jordan Peak",
+          "url": "https://open.spotify.com/artist/5Jhhsm26nMbGu8FNOvN3Gk"
+        }
+      ],
+      "duration_ms": 221090,
+      "name": "Don't Stare - Jordan Peak Remix",
+      "url": "https://open.spotify.com/track/1CxEKzjin5ljOTWTZNZBZv"
+    },
+    {
+      "added_at": "2026-07-31 04:01:09",
+      "album": {
+        "name": "Back To Funk",
+        "url": "https://open.spotify.com/album/5pELdg3Dntw5icXk1N7QiN"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "duration_ms": 219111,
+      "name": "Back To Funk",
+      "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
+    },
+    {
+      "added_at": "2026-08-28 04:01:45",
+      "album": {
+        "name": "Friction",
+        "url": "https://open.spotify.com/album/7gfLe1HQHQrqtWjEDw8MYB"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        },
+        {
+          "name": "Locky",
+          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
+        }
+      ],
+      "duration_ms": 193749,
+      "name": "Friction",
+      "url": "https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu"
+    },
+    {
       "added_at": "2026-08-28 04:01:45",
       "album": {
         "name": "Desire",
@@ -237,20 +441,20 @@
       "url": "https://open.spotify.com/track/1ACxe83zCuJVNcuWaxC5M9"
     },
     {
-      "added_at": "2026-08-28 04:01:45",
+      "added_at": "2026-09-18 04:02:15",
       "album": {
-        "name": "Breaking Point EP",
-        "url": "https://open.spotify.com/album/58nZe6rmrimxwTx84lDdCK"
+        "name": "Back To The Flow EP",
+        "url": "https://open.spotify.com/album/3oH0SicksUbx1A02tP9ALD"
       },
       "artists": [
         {
-          "name": "Josh Baker",
-          "url": "https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6"
+          "name": "Easttown",
+          "url": "https://open.spotify.com/artist/60BcxlrIyqHOIjd9dBvld3"
         }
       ],
-      "duration_ms": 168334,
-      "name": "Breaking Point",
-      "url": "https://open.spotify.com/track/79a1xMhXdnCPpTY8MmnEre"
+      "duration_ms": 212077,
+      "name": "Back To The Flow",
+      "url": "https://open.spotify.com/track/5ZhCiIZ9mjVj8nF2IBfm8p"
     },
     {
       "added_at": "2026-09-11 14:26:09",
@@ -267,22 +471,6 @@
       "duration_ms": 197169,
       "name": "SHE DOESN'T KNOW",
       "url": "https://open.spotify.com/track/2m608yh1RjLy7N72mSX02T"
-    },
-    {
-      "added_at": "2026-09-11 04:01:32",
-      "album": {
-        "name": "She's Dangerous",
-        "url": "https://open.spotify.com/album/47Xymw0XyHuEgykXOk3jOB"
-      },
-      "artists": [
-        {
-          "name": "Flex (UK)",
-          "url": "https://open.spotify.com/artist/2ed1paa4TCZ0C8aLk5xalM"
-        }
-      ],
-      "duration_ms": 195348,
-      "name": "She's Dangerous",
-      "url": "https://open.spotify.com/track/5JKeTyb0STGVxk3kEsATXS"
     },
     {
       "added_at": "2026-08-28 04:01:45",
@@ -381,26 +569,6 @@
       "url": "https://open.spotify.com/track/1mXwe5luOaakmaKK5ib1P8"
     },
     {
-      "added_at": "2026-07-31 04:01:09",
-      "album": {
-        "name": "Back To Funk",
-        "url": "https://open.spotify.com/album/5pELdg3Dntw5icXk1N7QiN"
-      },
-      "artists": [
-        {
-          "name": "Bushbaby",
-          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
-        },
-        {
-          "name": "Danny P",
-          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
-        }
-      ],
-      "duration_ms": 219111,
-      "name": "Back To Funk",
-      "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
-    },
-    {
       "added_at": "2026-07-17 15:05:04",
       "album": {
         "name": "Hey Everybody",
@@ -431,26 +599,6 @@
       "duration_ms": 182000,
       "name": "Landslide",
       "url": "https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI"
-    },
-    {
-      "added_at": "2026-08-28 04:01:45",
-      "album": {
-        "name": "Friction",
-        "url": "https://open.spotify.com/album/7gfLe1HQHQrqtWjEDw8MYB"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        },
-        {
-          "name": "Locky",
-          "url": "https://open.spotify.com/artist/5ZwpRQ2GBK8tsd6x45Ngwa"
-        }
-      ],
-      "duration_ms": 193749,
-      "name": "Friction",
-      "url": "https://open.spotify.com/track/09kvrg8hjr8G71mhIVARfu"
     },
     {
       "added_at": "2026-08-25 19:57:18",
@@ -729,22 +877,6 @@
       "url": "https://open.spotify.com/track/7rKSCsqyh4YsJtGBpZVMSg"
     },
     {
-      "added_at": "2026-08-21 04:01:27",
-      "album": {
-        "name": "afterglow",
-        "url": "https://open.spotify.com/album/4Fift6IgtpB7CxrkLBjPUM"
-      },
-      "artists": [
-        {
-          "name": "orion",
-          "url": "https://open.spotify.com/artist/3V1t1Z3x2MrYJXEE2uEEIb"
-        }
-      ],
-      "duration_ms": 247272,
-      "name": "afterglow",
-      "url": "https://open.spotify.com/track/2OEisVHjBrHhwWCCCJsPKe"
-    },
-    {
       "added_at": "2026-08-07 04:01:14",
       "album": {
         "name": "Dirty",
@@ -961,22 +1093,6 @@
       "url": "https://open.spotify.com/track/73HI3WuwM7W12t1X3x12Vr"
     },
     {
-      "added_at": "2026-08-14 04:01:21",
-      "album": {
-        "name": "Loco Stop",
-        "url": "https://open.spotify.com/album/6XCbXXbmjLVWPSmkNutea5"
-      },
-      "artists": [
-        {
-          "name": "Ammo Avenue",
-          "url": "https://open.spotify.com/artist/2Ruz18KUgVaQXSbc6mqdOn"
-        }
-      ],
-      "duration_ms": 212461,
-      "name": "Loco Stop",
-      "url": "https://open.spotify.com/track/5Cirr3cAS8wao8pbh7wr1g"
-    },
-    {
       "added_at": "2026-07-24 04:01:33",
       "album": {
         "name": "Energy Crew Pt. 2",
@@ -1091,26 +1207,6 @@
       "duration_ms": 239888,
       "name": "Ah Ah Ah",
       "url": "https://open.spotify.com/track/2WCdQPOg6vWU1mSb1ozqNc"
-    },
-    {
-      "added_at": "2026-07-01 03:14:17",
-      "album": {
-        "name": "Run EP",
-        "url": "https://open.spotify.com/album/3Myjvmo4PGIwAjRUrZT4ts"
-      },
-      "artists": [
-        {
-          "name": "Marsolo",
-          "url": "https://open.spotify.com/artist/19KqOfazpv8bU6RrVJpLcV"
-        },
-        {
-          "name": "O.MMY",
-          "url": "https://open.spotify.com/artist/03uJoULpNhZyCaXwTAWFfS"
-        }
-      ],
-      "duration_ms": 183036,
-      "name": "Run (feat. O.MMY)",
-      "url": "https://open.spotify.com/track/1gI05lrka4qQy2p00eW7Rw"
     },
     {
       "added_at": "2026-07-17 04:01:06",
@@ -1287,26 +1383,6 @@
       "duration_ms": 189090,
       "name": "Golden Eyes",
       "url": "https://open.spotify.com/track/1d8w8ahMR2HwECpQ5ksjZB"
-    },
-    {
-      "added_at": "2026-07-31 04:01:09",
-      "album": {
-        "name": "Bring The Beat Back",
-        "url": "https://open.spotify.com/album/3lgwAztqNRf5uupPe88kOR"
-      },
-      "artists": [
-        {
-          "name": "Beltran",
-          "url": "https://open.spotify.com/artist/1jgSqmZTBltb5O2L7ErmEP"
-        },
-        {
-          "name": "Mr. V",
-          "url": "https://open.spotify.com/artist/659qXyHaiMTKxFjBMMDpo8"
-        }
-      ],
-      "duration_ms": 275232,
-      "name": "Bring The Beat Back",
-      "url": "https://open.spotify.com/track/1xTrhGzjQXcWZOT4Xq4tZC"
     },
     {
       "added_at": "2026-06-19 04:01:17",
@@ -1737,26 +1813,6 @@
       "url": "https://open.spotify.com/track/2GLogZAAP1nmaqcvmgWrTX"
     },
     {
-      "added_at": "2026-05-27 23:36:59",
-      "album": {
-        "name": "Hypa",
-        "url": "https://open.spotify.com/album/6qwcD8Fu84jZJgFVfeIT5B"
-      },
-      "artists": [
-        {
-          "name": "Silva Bumpa",
-          "url": "https://open.spotify.com/artist/2dPLkqesvPXpIlP65JoLrf"
-        },
-        {
-          "name": "Mr Virgo",
-          "url": "https://open.spotify.com/artist/4lQPqOsyeapLWAd2aXILFU"
-        }
-      ],
-      "duration_ms": 160025,
-      "name": "Swagger Sound",
-      "url": "https://open.spotify.com/track/3huOaiSWe9zJJYwu4M6MsP"
-    },
-    {
       "added_at": "2026-05-01 04:01:14",
       "album": {
         "name": "Second Nature (SHUFFA Remix)",
@@ -1861,22 +1917,6 @@
       "url": "https://open.spotify.com/track/2P2hfZzVcEv3bUjC2E3AZX"
     },
     {
-      "added_at": "2026-04-03 04:01:44",
-      "album": {
-        "name": "House Mentality",
-        "url": "https://open.spotify.com/album/0Q6T89Fkb4FJFCErQPWPyg"
-      },
-      "artists": [
-        {
-          "name": "Dale Howard",
-          "url": "https://open.spotify.com/artist/0SnbG2YfyykWmnsXwBXonJ"
-        }
-      ],
-      "duration_ms": 156923,
-      "name": "House Mentality - Radio Edit",
-      "url": "https://open.spotify.com/track/1pPz86QiMJvGN6Gkt7uonE"
-    },
-    {
       "added_at": "2026-03-13 04:00:43",
       "album": {
         "name": "All This Love",
@@ -1907,22 +1947,6 @@
       "duration_ms": 195183,
       "name": "Built For This",
       "url": "https://open.spotify.com/track/1PpHwZ75m6xGKdjXpaxUua"
-    },
-    {
-      "added_at": "2026-03-27 04:00:16",
-      "album": {
-        "name": "Need U EP",
-        "url": "https://open.spotify.com/album/4lnbGYHhjCfvFHh5gd4W2y"
-      },
-      "artists": [
-        {
-          "name": "Funk Cartel",
-          "url": "https://open.spotify.com/artist/5CTZ9x42i9fZmlzm3AEyX0"
-        }
-      ],
-      "duration_ms": 135703,
-      "name": "Need U",
-      "url": "https://open.spotify.com/track/1aHWTyE87SPtspl78tc8zN"
     },
     {
       "added_at": "2026-03-06 05:00:09",
@@ -2017,22 +2041,6 @@
       "url": "https://open.spotify.com/track/5k6H7X2I9CumI73lMbGKkE"
     },
     {
-      "added_at": "2026-03-04 00:37:47",
-      "album": {
-        "name": "House Is Gettin' Raw",
-        "url": "https://open.spotify.com/album/4szlsAbwcDD7DT11PzysWR"
-      },
-      "artists": [
-        {
-          "name": "PAULY!",
-          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
-        }
-      ],
-      "duration_ms": 178153,
-      "name": "House Is Gettin' Raw",
-      "url": "https://open.spotify.com/track/1sGGXzDr5bjEHBpGjwvNdq"
-    },
-    {
       "added_at": "2026-03-06 05:00:09",
       "album": {
         "name": "On A Wave",
@@ -2115,34 +2123,6 @@
       "duration_ms": 242790,
       "name": "Touched",
       "url": "https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa"
-    },
-    {
-      "added_at": "2026-01-12 16:33:49",
-      "album": {
-        "name": "The Way I Are (Max Dean Remix)",
-        "url": "https://open.spotify.com/album/2PGg01PDpfS5pJqUj7iaEj"
-      },
-      "artists": [
-        {
-          "name": "Timbaland",
-          "url": "https://open.spotify.com/artist/5Y5TRrQiqgUO4S36tzjIRZ"
-        },
-        {
-          "name": "Keri Hilson",
-          "url": "https://open.spotify.com/artist/63wjoROpeh5f11Qm93UiJ1"
-        },
-        {
-          "name": "D.O.E.",
-          "url": "https://open.spotify.com/artist/4TLCPR1sMYoNU1jA7O4uww"
-        },
-        {
-          "name": "Max Dean",
-          "url": "https://open.spotify.com/artist/65TLDWbTJxYASqadmNAxvc"
-        }
-      ],
-      "duration_ms": 183953,
-      "name": "The Way I Are - Max Dean Remix",
-      "url": "https://open.spotify.com/track/1hl81ThWpsoVYylBPaWedn"
     }
   ],
   "unique_name": "Deep & Minimal",

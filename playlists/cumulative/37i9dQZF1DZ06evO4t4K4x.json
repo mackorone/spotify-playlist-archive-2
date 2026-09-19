@@ -192,7 +192,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-29",
+      "date_removed": null,
       "duration_ms": 74573,
       "name": "Computermatic",
       "url": "https://open.spotify.com/track/3O8IUG7HPVvLbp993DDdvU"
@@ -276,7 +276,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-03",
+      "date_removed": null,
       "duration_ms": 80200,
       "name": "Delia's Theme",
       "url": "https://open.spotify.com/track/1HSpoFHUmphpjU0RwqbnJz"
@@ -1512,7 +1512,7 @@
       ],
       "date_added": "2026-02-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 122413,
       "name": "Hannett and Delia synth exchanges track 15",
       "url": "https://open.spotify.com/track/49qjhomc9oEhQ5jxi9Cf89"
@@ -1996,7 +1996,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 79946,
       "name": "Hannett and Delia synth exchanges track 7",
       "url": "https://open.spotify.com/track/14jFN5waXiPuCoQmSq6WVD"
@@ -2546,7 +2546,7 @@
       ],
       "date_added": "2022-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 110866,
       "name": "Plodding Power",
       "url": "https://open.spotify.com/track/5ameYEi5L28ecrqiu2necP"
@@ -2660,7 +2660,7 @@
       ],
       "date_added": "2023-11-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 63760,
       "name": "Restless Relays",
       "url": "https://open.spotify.com/track/3cVx3TuP0wzLcGr23QIqJi"

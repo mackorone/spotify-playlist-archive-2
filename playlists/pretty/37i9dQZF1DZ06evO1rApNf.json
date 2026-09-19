@@ -1,12 +1,12 @@
 {
   "description": "This is Mau y Ricky. The essential tracks, all in one playlist.",
-  "num_followers": 127616,
+  "num_followers": 127614,
   "original_name": "This Is Mau y Ricky",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAADDjbGE1qLiZXS+IqIS7NpC",
+  "snapshot_id": "aqstgAAAAAAq5gZciMDRnDY8Ctl5moTL",
   "tracks": [
     {
       "added_at": null,
@@ -482,11 +482,15 @@
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Lia Kali",
+          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
         }
       ],
-      "duration_ms": 142150,
-      "name": "AMAPOLA",
-      "url": "https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW"
+      "duration_ms": 224030,
+      "name": "L\u00edos",
+      "url": "https://open.spotify.com/track/4ZZwG6Lxgqiax3fvU6bNAD"
     },
     {
       "added_at": null,
@@ -558,15 +562,11 @@
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Lia Kali",
-          "url": "https://open.spotify.com/artist/7rFHoDuiSlV0DGHxckjm89"
         }
       ],
-      "duration_ms": 224030,
-      "name": "L\u00edos",
-      "url": "https://open.spotify.com/track/4ZZwG6Lxgqiax3fvU6bNAD"
+      "duration_ms": 142150,
+      "name": "AMAPOLA",
+      "url": "https://open.spotify.com/track/4iXgIc7EYYppSPmkMaGJRW"
     },
     {
       "added_at": null,
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         }
       ],
-      "duration_ms": 147237,
-      "name": "Tiroteo",
-      "url": "https://open.spotify.com/track/1DwmcCNBNKJVnFWcqOWRVH"
+      "duration_ms": 182023,
+      "name": "Diamantes",
+      "url": "https://open.spotify.com/track/7DnQPVVj39VKEH9mq69Lzp"
     },
     {
       "added_at": null,
@@ -783,6 +783,26 @@
       "duration_ms": 177515,
       "name": "Doler\u00eda",
       "url": "https://open.spotify.com/track/4Qo19cJDhL3G4cJaAqmhk1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "No Puede Ser (con Eladio Carrion)",
+        "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        },
+        {
+          "name": "Eladio Carrion",
+          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+        }
+      ],
+      "duration_ms": 191360,
+      "name": "No Puede Ser - con Eladio Carrion",
+      "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
     },
     {
       "added_at": null,
@@ -879,30 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tocando Madera",
-        "url": "https://open.spotify.com/album/2GczCMSnfjV5UNxXTGC5t6"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Big One",
-          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
-        }
-      ],
-      "duration_ms": 159360,
-      "name": "Tocando Madera",
-      "url": "https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Ricky y Mau",
         "url": "https://open.spotify.com/album/0wfdo9fpL4o4oNBWKUPmLg"
       },
@@ -910,15 +906,11 @@
         {
           "name": "Mau y Ricky",
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        },
-        {
-          "name": "Marc Anthony",
-          "url": "https://open.spotify.com/artist/4wLXwxDeWQ8mtUIRPxGiD6"
         }
       ],
-      "duration_ms": 216260,
-      "name": "Recordando",
-      "url": "https://open.spotify.com/track/2ifvjmD3ypoALrB0QoCnBF"
+      "duration_ms": 147237,
+      "name": "Tiroteo",
+      "url": "https://open.spotify.com/track/1DwmcCNBNKJVnFWcqOWRVH"
     },
     {
       "added_at": null,
@@ -943,8 +935,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Puede Ser (con Eladio Carrion)",
-        "url": "https://open.spotify.com/album/3P9QEsyg5GJC7Im8XEUtTP"
+        "name": "Tocando Madera",
+        "url": "https://open.spotify.com/album/2GczCMSnfjV5UNxXTGC5t6"
       },
       "artists": [
         {
@@ -952,13 +944,17 @@
           "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
         },
         {
-          "name": "Eladio Carrion",
-          "url": "https://open.spotify.com/artist/5XJDexmWFLWOkjOEjOVX3e"
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
+          "name": "Big One",
+          "url": "https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e"
         }
       ],
-      "duration_ms": 191360,
-      "name": "No Puede Ser - con Eladio Carrion",
-      "url": "https://open.spotify.com/track/6X1zhbLzOH4Pw5ip4MTnM1"
+      "duration_ms": 159360,
+      "name": "Tocando Madera",
+      "url": "https://open.spotify.com/track/6ILrPgB1ywnLmdmFWQ73p7"
     },
     {
       "added_at": null,
@@ -1019,22 +1015,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miami",
-        "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
-      },
-      "artists": [
-        {
-          "name": "Mau y Ricky",
-          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
-        }
-      ],
-      "duration_ms": 130653,
-      "name": "Miami",
-      "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malcriado",
         "url": "https://open.spotify.com/album/7cqCTMBfcNv0JBVIMBHwu3"
       },
@@ -1051,6 +1031,22 @@
       "duration_ms": 174353,
       "name": "Biling\u00fces",
       "url": "https://open.spotify.com/track/6MUUIuJAgulhbQRmYGlVWH"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Miami",
+        "url": "https://open.spotify.com/album/1OuQBKfqgazuDJ4X5QRPR2"
+      },
+      "artists": [
+        {
+          "name": "Mau y Ricky",
+          "url": "https://open.spotify.com/artist/2wkoKEfS6dXwThbyTnZWFU"
+        }
+      ],
+      "duration_ms": 130653,
+      "name": "Miami",
+      "url": "https://open.spotify.com/track/2aucJuYeU78veki8dBqzzW"
     },
     {
       "added_at": null,

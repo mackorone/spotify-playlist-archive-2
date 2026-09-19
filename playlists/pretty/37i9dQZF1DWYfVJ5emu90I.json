@@ -1,12 +1,12 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26685,
+  "num_followers": 26688,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALU2vOu+SHAv2EqRnSzPtJrOn5VE",
+  "snapshot_id": "AAAAAL8FaHc3c+HtPLA9IUlQM6LLtDNp",
   "tracks": [
     {
       "added_at": "2026-08-19 00:34:26",
@@ -863,26 +863,6 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Get Litty?",
-        "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
-      },
-      "artists": [
-        {
-          "name": "Litty",
-          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
-        },
-        {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
-        }
-      ],
-      "duration_ms": 165000,
-      "name": "My Fan",
-      "url": "https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
         "name": "Type 1 Diabetes",
         "url": "https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8"
       },
@@ -903,6 +883,26 @@
       "duration_ms": 197088,
       "name": "For Real (feat. Fuji Taito & SIMON)",
       "url": "https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
+        "name": "Get Litty?",
+        "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Fan",
+      "url": "https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX"
     },
     {
       "added_at": "2026-08-19 00:34:26",

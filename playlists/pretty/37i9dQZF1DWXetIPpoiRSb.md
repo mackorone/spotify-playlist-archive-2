@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 
 > party time 🙂‍↔️
 
-[Spotify](https://open.spotify.com/user/spotify) - 198,053 likes - 88 songs - 4 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 198,018 likes - 88 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 |
-| 2 | [Track 15](https://open.spotify.com/track/6xK6JHpASzcEF9zzLx1pI0) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 0:00 |
+| 2 | [Rare N' Deluxe](https://open.spotify.com/track/6xK6JHpASzcEF9zzLx1pI0) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 2:40 |
 | 3 | [Lucky\[Hymn\]](https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lucky\[Hymn\]](https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz) | 3:48 |
 | 4 | [right](https://open.spotify.com/track/2wAvaqPNqREQ8bB7RIOom9) | [Cosette](https://open.spotify.com/artist/0bwL6Ymce4gQ5uIxNSryAf) | [soliloquy](https://open.spotify.com/album/6hOiB7F1TAR3gNccw7lX8e) | 2:28 |
 | 5 | [nan peng you](https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY) | [Helena Gao](https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h) | [gao dan dan](https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ) | 2:12 |
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 16 | [Lucky \- Spotify Singles](https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99) | [Namasenda](https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX) | [Lucky \(Spotify Singles\)](https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN) | 2:53 |
 | 17 | [Creamy](https://open.spotify.com/track/5PQ9eOhnSsOCja5yymUAmW) | [AMARA ctk100](https://open.spotify.com/artist/6g40AmE4t6z5wPuFbytdsy) | [Creamy](https://open.spotify.com/album/6kgJhA3eCnG3BQ7ilhRHmb) | 2:30 |
 | 18 | [brand new chanel$](https://open.spotify.com/track/3FZoov0ORtnr8TznSNI1y2) | [Slayyyter](https://open.spotify.com/artist/4QM5QCHicznALtX885CnZC) | [brand new chanel$](https://open.spotify.com/album/75NIUjwFzYkzok7nRwNurg) | 3:58 |
-| 19 | [Track 18](https://open.spotify.com/track/2nxdPYdIQQb0APnSLr5UHT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 0:00 |
+| 19 | [What a Night](https://open.spotify.com/track/2nxdPYdIQQb0APnSLr5UHT) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 2:33 |
 | 20 | [Unlimited Love](https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW) | [underscores](https://open.spotify.com/artist/7HfUJxeVTgrvhk0eWHFzV7) | [Unlimited Love b/w The Peace \(Frost Children Remix\)](https://open.spotify.com/album/2tP52mdSGd9kBtAlzevo4E) | 4:12 |
 | 21 | [2007](https://open.spotify.com/track/7GVLyPEpJtQZiYt95LF0ng) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Music, Fashion, Film](https://open.spotify.com/album/4bR7pd6TVS53l24qFV4wI8) | 2:04 |
 | 22 | [iPod Touch \- Madeon Remix](https://open.spotify.com/track/2gRrj7LQZMTtUQv0gvhHpQ) | [Ninajirachi](https://open.spotify.com/artist/3MekbRujJg5VZThubOlrkR), [Madeon](https://open.spotify.com/artist/4pb4rqWSoGUgxm63xmJ8xc) | [iPod Touch \(Madeon Remix\)](https://open.spotify.com/album/43tYbnCgnbu1MlJU51XNyS) | 3:34 |
@@ -97,4 +97,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXetIPpoiRSb.md) - [plain]
 | 87 | [Moon](https://open.spotify.com/track/5XNlfqa1h8R8n5WneARCZJ) | [Moyka](https://open.spotify.com/artist/2u7pjisWrThF8JErPVIPlJ) | [Moon](https://open.spotify.com/album/28nsJk3KI30yHBehakxirS) | 2:33 |
 | 88 | [CONSTANTLY](https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu), [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA) | [CONSTANTLY](https://open.spotify.com/album/213P10SLkkkRltYI9bbh2V) | 3:02 |
 
-Snapshot ID: `AAAAAKd8c1ejYs40ASyhtnLR2cbEHrrS`
+Snapshot ID: `AAAAAJAFJmmEIo4XD0bjsVajOyFdCH2D`

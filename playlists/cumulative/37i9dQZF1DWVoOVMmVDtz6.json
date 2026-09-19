@@ -171,6 +171,28 @@
     },
     {
       "album": {
+        "name": "Peaches and Limes",
+        "url": "https://open.spotify.com/album/7cQfhsNHJaEaGHN3jfNK6a"
+      },
+      "artists": [
+        {
+          "name": "Field Guide",
+          "url": "https://open.spotify.com/artist/3m8lmJWxlk9SPTFFCdxJVz"
+        },
+        {
+          "name": "Georgia Harmer",
+          "url": "https://open.spotify.com/artist/3I7KBuz60UYfMzBbPcqrU4"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154624,
+      "name": "Back to the Way",
+      "url": "https://open.spotify.com/track/2NSzX80QxYzRt7bygoDRWf"
+    },
+    {
+      "album": {
         "name": "Bottle It In",
         "url": "https://open.spotify.com/album/1UVthTEgHP0WcZZxqHtkvL"
       },
@@ -236,7 +258,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 168756,
       "name": "Blowin' in the Wind",
       "url": "https://open.spotify.com/track/18GiV1BaXzPVYpp9rmOg0E"
@@ -568,7 +590,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 217552,
       "name": "Elegy for Love",
       "url": "https://open.spotify.com/track/6fyAYtlwjVS3Je7O3yohDA"
@@ -586,7 +608,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 284146,
       "name": "Ends of the Earth",
       "url": "https://open.spotify.com/track/0iMt8ZMe2BsNvsF9LFDOAn"
@@ -622,7 +644,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 174539,
       "name": "Fool",
       "url": "https://open.spotify.com/track/4jGfNIAPEJNpHoGm4r5znR"
@@ -698,7 +720,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 193373,
       "name": "Gasoline",
       "url": "https://open.spotify.com/track/2oUq6l5hEPHQwHozEA4MjV"
@@ -778,6 +800,24 @@
       "duration_ms": 264906,
       "name": "Gypsy",
       "url": "https://open.spotify.com/track/19Ym5Sg0YyOCa6ao21bdoG"
+    },
+    {
+      "album": {
+        "name": "Happiness Anytime: Part 2",
+        "url": "https://open.spotify.com/album/7dn6XRgEhJV7DRnupARxs9"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158331,
+      "name": "Happiness Anytime",
+      "url": "https://open.spotify.com/track/06CdB50OBa7Y3MjNLmX63q"
     },
     {
       "album": {
@@ -1131,6 +1171,24 @@
     },
     {
       "album": {
+        "name": "Big Bad",
+        "url": "https://open.spotify.com/album/2T9CsqtNoY1aR02X4ATkZR"
+      },
+      "artists": [
+        {
+          "name": "Post Sex Nachos",
+          "url": "https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199795,
+      "name": "Junk",
+      "url": "https://open.spotify.com/track/33IakqHUMjWdlfEly37oz2"
+    },
+    {
+      "album": {
         "name": "Kids",
         "url": "https://open.spotify.com/album/39OIkrUzvzzCkwhXh9Rdeg"
       },
@@ -1471,6 +1529,24 @@
     },
     {
       "album": {
+        "name": "Officially",
+        "url": "https://open.spotify.com/album/2JLycznyORfKJDAxKa5Zbv"
+      },
+      "artists": [
+        {
+          "name": "Way Dynamic",
+          "url": "https://open.spotify.com/artist/10aehkZWLg2dqDftjp5SXk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205144,
+      "name": "Officially",
+      "url": "https://open.spotify.com/track/2f2OVYYAuKikmGFZrJNHdy"
+    },
+    {
+      "album": {
         "name": "one thing",
         "url": "https://open.spotify.com/album/6LO5iP8jbzx7LzPukyFWAl"
       },
@@ -1652,7 +1728,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 289826,
       "name": "Resurrection Fern",
       "url": "https://open.spotify.com/track/1Ozj5XjZUAdnSedBxMgCwO"
@@ -1678,6 +1754,42 @@
       "duration_ms": 273026,
       "name": "Right Back to It",
       "url": "https://open.spotify.com/track/17Zzi8qsn8mdm0t0JTGeQo"
+    },
+    {
+      "album": {
+        "name": "YOUNG REGAN",
+        "url": "https://open.spotify.com/album/7odkdCGZcEFevFilZZIjn9"
+      },
+      "artists": [
+        {
+          "name": "Ethan Regan",
+          "url": "https://open.spotify.com/artist/3UNkRVGHGCrGCE0930Bt9e"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168727,
+      "name": "rome",
+      "url": "https://open.spotify.com/track/771HqvspPa0yUzG7uod7mn"
+    },
+    {
+      "album": {
+        "name": "Ride Lonesome",
+        "url": "https://open.spotify.com/album/6gP36h0Cv8vTiBmdbHO3qI"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219029,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/4djHuoHnH3bEKf5tbviToI"
     },
     {
       "album": {
@@ -1732,6 +1844,24 @@
       "duration_ms": 174540,
       "name": "Satellite",
       "url": "https://open.spotify.com/track/06guidgPnPfyA4VJaELthY"
+    },
+    {
+      "album": {
+        "name": "Small Town",
+        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169981,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
     },
     {
       "album": {
@@ -2006,7 +2136,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 270366,
       "name": "The Stranger (feat. Sachi, Dan Reeder, Tobias Jesso Jr., John C. Reilly, Becky and the Birds)",
       "url": "https://open.spotify.com/track/2TfcFXI1FOsO5HCz4X6uRk"
@@ -2096,7 +2226,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 274455,
       "name": "Trampoline",
       "url": "https://open.spotify.com/track/1xMOdQOD7bDhkRHG04FHDX"
@@ -2114,7 +2244,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 188301,
       "name": "Tree Among Shrubs",
       "url": "https://open.spotify.com/track/2JKtCvtxP47fOMYi0BjMoY"
@@ -2154,6 +2284,24 @@
       "duration_ms": 265912,
       "name": "True Feeling",
       "url": "https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ"
+    },
+    {
+      "album": {
+        "name": "life & death etc",
+        "url": "https://open.spotify.com/album/5pH13IhD7mHxVcaMyqcbaz"
+      },
+      "artists": [
+        {
+          "name": "Martin Luke Brown",
+          "url": "https://open.spotify.com/artist/7L2rePM60cIztWZ7cLlskE"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237802,
+      "name": "unlearning everything",
+      "url": "https://open.spotify.com/track/5pHidSst7qUjGbrahWaGzA"
     },
     {
       "album": {
@@ -2230,6 +2378,24 @@
       "duration_ms": 180727,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk"
+    },
+    {
+      "album": {
+        "name": "Big World",
+        "url": "https://open.spotify.com/album/7FxTrIkmdXRF14Pmp71ezy"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "What I Had",
+      "url": "https://open.spotify.com/track/73X9SAt8qtPtbUjY1Ngl1N"
     },
     {
       "album": {

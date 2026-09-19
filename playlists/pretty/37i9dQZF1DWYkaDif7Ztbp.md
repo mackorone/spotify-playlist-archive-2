@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 
 > The tracks heating up the continent right now!  Cover: Seyi Vibez
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,773,296 likes - 51 songs - 2 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,773,588 likes - 51 songs - 2 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [MOVE](https://open.spotify.com/track/7CaTezgzShsRBV7dnxZVWa) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW) | [MOVE](https://open.spotify.com/album/72Blq4pbnoc6togBVawf3K) | 1:56 |
 | 2 | [Hold Somebody](https://open.spotify.com/track/5Ed9M3XQBjwHiJXY1KBRaY) | [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI) | [Hold Somebody](https://open.spotify.com/album/7vIUh7p2sFCIleEpx4DVEH) | 2:38 |
 | 3 | [Forgiveness](https://open.spotify.com/track/5u4rozuOBse9MgrAzGspQy) | [Asake](https://open.spotify.com/artist/3a1tBryiczPAZpgoZN9Rzg) | [M$NEY](https://open.spotify.com/album/07iqzVICrgPFOpXem6MEpU) | 2:38 |
-| 4 | [DIAMONDS](https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:38 |
+| 4 | [Diamonds](https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:38 |
 | 5 | [Aura Salad](https://open.spotify.com/track/3JN8aItsGqTWapuekI8vxM) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [Breaking](https://open.spotify.com/album/6xxAjyMa0avvRjfwEXknXK) | 2:52 |
 | 6 | [Nakupenda](https://open.spotify.com/track/1p0zeYPLjmIGtw1DzmshZO) | [TxC](https://open.spotify.com/artist/25j9xL1MTyuycuB2xy2Q9g), [Davido](https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh), [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Scotts Maphuma](https://open.spotify.com/artist/3S4T8XtipStwl34odXn1YS), [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep), [Al Xapo](https://open.spotify.com/artist/6dmpoGpCKPEdy7R3XSEA7y) | [Nakupenda](https://open.spotify.com/album/3xbbiXWEHWpCqxDAXKUu5d) | 5:33 |
 | 7 | [Oh No](https://open.spotify.com/track/2aLQ89nVUJgLjn3tlmjaxN) | [Rema](https://open.spotify.com/artist/46pWGuE3dSwY3bMMXGBvVS) | [Oh No](https://open.spotify.com/album/4gxDCaxwQ8HmgN4yACif96) | 3:15 |
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYkaDif7Ztbp.md) - [plain]
 | 50 | [⁠Morocco](https://open.spotify.com/track/1BSMV4VRi2jJFc8R1YGPta) | [Joshua Baraka](https://open.spotify.com/artist/3sjmAVaeka80SCvK69bedW), [Axon](https://open.spotify.com/artist/3g95XKMEfhHYudfTK9m6Ol) | [Juvie](https://open.spotify.com/album/1jK9tjtq7oZcQuaJmYsnjC) | 2:41 |
 | 51 | [2FRESH](https://open.spotify.com/track/0UBGGJAUGlzl7nQ3DIUbnm) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG) | [STARLIFE](https://open.spotify.com/album/7mj5fvMdUDCtTy9HPpjBHr) | 2:34 |
 
-Snapshot ID: `AAAAACYqWHUfcG7fLPSfzjjAYY8YJ/i7`
+Snapshot ID: `AAAAAHLsDVHbK9HNggfYziA/lVG/NScb`

@@ -2,22 +2,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 
 ### [Tumbado Romántico](https://open.spotify.com/playlist/37i9dQZF1DX0H1gQEaz8An)
 
-> Lo que diga el corazón ❤️💔 Cover: Angel Cervantes, Adrian L Santos
+> Lo que diga el corazón ❤️💔 Cover: Helen Ochoa
 
-[Spotify](https://open.spotify.com/user/spotify) - 107,469 likes - 75 songs - 4 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 107,496 likes - 75 songs - 4 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Por Amarte Así](https://open.spotify.com/track/3O3bL4mhBEm5oSjT0GRyQ8) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano, Vol.1](https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN) | 3:22 |
-| 2 | [Perderte](https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Perderte](https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL) | 3:39 |
-| 3 | [DEMENCIA](https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:41 |
-| 4 | [Pvta Luna](https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Pvta Luna](https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa) | 3:18 |
-| 5 | [No Puedo Más](https://open.spotify.com/track/668c13TJaMLiel3D86TNLv) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [No Puedo Más](https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp) | 3:07 |
-| 6 | [Mar Azul](https://open.spotify.com/track/16x23W9udcF7iPcNfU4k28) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano, Vol.1](https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN) | 3:41 |
-| 7 | [tu con el](https://open.spotify.com/track/2A2x5MZB5OrnnKkVOxx5dp) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 2:45 |
-| 8 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
-| 9 | [Wow](https://open.spotify.com/track/4U5ppJiMhk3OfovjsS9EQW) | [Low Clika](https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV) | [El Primer Album de Low Clika](https://open.spotify.com/album/4NhYN1wLhOVg0aS5oTyjQa) | 2:29 |
-| 10 | [Yo Era Atea](https://open.spotify.com/track/3NV0YhnuNzjnUuh6STABEC) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Yo Era Atea](https://open.spotify.com/album/4wgMwN0diMssKu9PQxc4IA) | 2:29 |
+| 1 | [Yo Era Atea](https://open.spotify.com/track/3NV0YhnuNzjnUuh6STABEC) | [Helen Ochoa](https://open.spotify.com/artist/7oFVQdInQWD7GQRgWxSiHD) | [Yo Era Atea](https://open.spotify.com/album/4wgMwN0diMssKu9PQxc4IA) | 2:29 |
+| 2 | [Por Amarte Así](https://open.spotify.com/track/3O3bL4mhBEm5oSjT0GRyQ8) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano, Vol.1](https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN) | 3:22 |
+| 3 | [Perderte](https://open.spotify.com/track/38NzNYXJblGKRWlytlSgXQ) | [RIA](https://open.spotify.com/artist/21suutlchqrS2j8b2tjEWt), [Jasiel Nuñez](https://open.spotify.com/artist/0T8Ix53aIN4F7aEKj4EnKy) | [Perderte](https://open.spotify.com/album/3xVRT1vm3BOvaQp6JNMLiL) | 3:39 |
+| 4 | [DEMENCIA](https://open.spotify.com/track/3BAtCOv7easPy9xoZ4h9Ng) | [Junior H](https://open.spotify.com/artist/7Gi6gjaWy3DxyilpF1a8Is), [Gael Valenzuela](https://open.spotify.com/artist/5mo9Z7aGxbLG7gVYajpCar) | [DEPR</3$$ED MFKZ](https://open.spotify.com/album/3VVqkkiUqVklgPcC4dnYos) | 3:41 |
+| 5 | [Pvta Luna](https://open.spotify.com/track/33MeEaRCeIQMSRyFTr5ZJU) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Pvta Luna](https://open.spotify.com/album/0Cw2JMk1YfzkuXk7B1yBYa) | 3:18 |
+| 6 | [No Puedo Más](https://open.spotify.com/track/668c13TJaMLiel3D86TNLv) | [Ilusion Eterno](https://open.spotify.com/artist/3GEugx6A35ghkZEGQhliaK) | [No Puedo Más](https://open.spotify.com/album/1stWdnmPun1ltjryx4MWIp) | 3:07 |
+| 7 | [Mar Azul](https://open.spotify.com/track/16x23W9udcF7iPcNfU4k28) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano, Vol.1](https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN) | 3:41 |
+| 8 | [tu con el](https://open.spotify.com/track/2A2x5MZB5OrnnKkVOxx5dp) | [Peso Pluma](https://open.spotify.com/artist/12GqGscKJx3aE4t07u7eVZ), [Tito Double P](https://open.spotify.com/artist/5eumcnUkdmGvkvcsx1WFNG) | [DINASTÍA](https://open.spotify.com/album/3kJfKZWulX2oyatVMvDx6a) | 2:45 |
+| 9 | [Lo Que Hay X Aquí](https://open.spotify.com/track/4KYCSg9y5P8BVbtSY3vGGf) | [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Lo Que Hay X Aquí](https://open.spotify.com/album/2aGLQMoG98H1SoSlwmBvEN) | 2:38 |
+| 10 | [Wow](https://open.spotify.com/track/4U5ppJiMhk3OfovjsS9EQW) | [Low Clika](https://open.spotify.com/artist/2Jye6qmyi4e4IMmnb2KHXV) | [El Primer Album de Low Clika](https://open.spotify.com/album/4NhYN1wLhOVg0aS5oTyjQa) | 2:29 |
 | 11 | [Loka](https://open.spotify.com/track/35JFJ7y2iwPRAGY3Ihb4rT) | [Angel Cervantes](https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ), [Adrian L Santos](https://open.spotify.com/artist/2KtMgfc6pR6Jpovuqrs8Ac) | [Loka](https://open.spotify.com/album/2yk6zdo1kwj5WDcYOmZJCD) | 2:25 |
 | 12 | [CHAKALON](https://open.spotify.com/track/5TjRRnzTkA0I7Mr3IQV2Xm) | [Agushto Papa](https://open.spotify.com/artist/1v04yGSzSyXhmxR1SD5hfS), [Marca Personal](https://open.spotify.com/artist/0tP9MVgUWif7jXLrDdMVZK) | [Agushto Papa Presents: Hidden Gems Vol\. 2](https://open.spotify.com/album/0wQ5FqHSdgaaRLO4OU8Axm) | 3:27 |
 | 13 | [Me Conoces Bien](https://open.spotify.com/track/5Ud3kUsVVGFoljNjRqlK14) | [Angel Tumbado](https://open.spotify.com/artist/6Vlv2tBpKw6ib5C7DHkOfq), [Jonathan Caro](https://open.spotify.com/artist/7y6eZQZwyUvR4PlZOVSR7I) | [Me Conoces Bien](https://open.spotify.com/album/4HFqug00CdgnIoLZf4Vlyk) | 2:36 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0H1gQEaz8An.md) - [plain]
 | 74 | [PENSANDO Y PENSANDO](https://open.spotify.com/track/7dVY5BkyRtWQM3I3Mnog3k) | [Armenta](https://open.spotify.com/artist/4TdMGChhzBYNXhADaEGUZX) | [PENSANDO Y PENSANDO](https://open.spotify.com/album/6ImDSXC8NMv7gdwNIuXtMO) | 3:26 |
 | 75 | [Cuando Me Ocupes](https://open.spotify.com/track/6QvHiOp35ylHrYGy2ohuBg) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1) | [Mi Vida Mi Muerte](https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3) | 3:38 |
 
-Snapshot ID: `AAAAANujJut3iXlCXO35w2JsIn2YHv+l`
+Snapshot ID: `AAAAAF0PGlJA99D8OC5mqZ7Ly4uyiFgX`

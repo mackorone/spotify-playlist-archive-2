@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 
 > The best new Irish music in one place 📍 cover: The Mary Wallopers
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,391 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,411 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcvmeS1jhCQv.md) - [plain]
 | 99 | [Rags to Riches](https://open.spotify.com/track/1rEacgLTdcAXG56ZOESyMN) | [Meryl Streek](https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd) | [Rags to Riches](https://open.spotify.com/album/4HM7GVj4fbpqCX3mUk0c1X) | 2:18 |
 | 100 | [Rude](https://open.spotify.com/track/7d13dvKQT70XJvmtw6xCUX) | [KhakiKid](https://open.spotify.com/artist/6ERytyft8dcTGIVtiuNpxp), [Kojaque](https://open.spotify.com/artist/3ZHJIsD3uMwwjXlSpDzPtY) | [Rude](https://open.spotify.com/album/1Xom9SIqeNlotFWsI3XSee) | 2:50 |
 
-Snapshot ID: `AAAAAIf8abIiJAVC1IVU8Weq/XVU2BYT`
+Snapshot ID: `AAAAACzMlAbHxrTgrqLTtNF9Sba5LsfC`

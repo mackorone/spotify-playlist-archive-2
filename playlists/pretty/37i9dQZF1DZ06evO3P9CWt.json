@@ -1,12 +1,12 @@
 {
   "description": "This is Pabllo Vittar. The essential tracks, all in one playlist.",
-  "num_followers": 279854,
+  "num_followers": 279859,
   "original_name": "This Is Pabllo Vittar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAADD7DleXzL9nHUTLbtYiwuj",
+  "snapshot_id": "aqstgAAAAAB29Apg63E0gPjCn2f4I2PA",
   "tracks": [
     {
       "added_at": null,
@@ -199,6 +199,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MEXE",
+        "url": "https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "NMIXX",
+          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
+        }
+      ],
+      "duration_ms": 146204,
+      "name": "MEXE",
+      "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ensaios Da Anitta",
         "url": "https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39"
       },
@@ -247,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MEXE",
-        "url": "https://open.spotify.com/album/3pqOt29EZkGpqPHBfpPskX"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "NMIXX",
-          "url": "https://open.spotify.com/artist/28ot3wh4oNmoFOdVajibBl"
-        }
-      ],
-      "duration_ms": 146204,
-      "name": "MEXE",
-      "url": "https://open.spotify.com/track/43x4drok2kDJqm9dgRr685"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AmarElo",
         "url": "https://open.spotify.com/album/5cUY5chmS86cdonhoFdn8h"
       },
@@ -291,26 +291,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROCKSTAR",
-        "url": "https://open.spotify.com/album/30YgLXNMvemSXzDcSkhJPm"
-      },
-      "artists": [
-        {
-          "name": "Pabllo Vittar",
-          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "Villano Antillano",
-          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
-        }
-      ],
-      "duration_ms": 148826,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "N\u00e3o Esque\u00e7o",
         "url": "https://open.spotify.com/album/5ZdxGjDEVczmubvGbzf5Ru"
       },
@@ -327,6 +307,26 @@
       "duration_ms": 185217,
       "name": "N\u00e3o Esque\u00e7o",
       "url": "https://open.spotify.com/track/3ycgRTqMzjmLMhWfuIKIcm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROCKSTAR",
+        "url": "https://open.spotify.com/album/30YgLXNMvemSXzDcSkhJPm"
+      },
+      "artists": [
+        {
+          "name": "Pabllo Vittar",
+          "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "Villano Antillano",
+          "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
+        }
+      ],
+      "duration_ms": 148826,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/48EtMjA8Qtf0yDzpHfjqsZ"
     },
     {
       "added_at": null,
@@ -663,22 +663,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dawn Of Chromatica",
-        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
+        "name": "111",
+        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
       },
       "artists": [
-        {
-          "name": "Lady Gaga",
-          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
-        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 140968,
-      "name": "Fun Tonight - Pabllo Vittar Remix",
-      "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
+      "duration_ms": 157508,
+      "name": "Rajad\u00e3o",
+      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
     },
     {
       "added_at": null,
@@ -699,18 +695,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "111",
-        "url": "https://open.spotify.com/album/67rOBOMZsXiQwoPpZbnC8b"
+        "name": "Dawn Of Chromatica",
+        "url": "https://open.spotify.com/album/3OevODyllQCrhudfLLnV3y"
       },
       "artists": [
+        {
+          "name": "Lady Gaga",
+          "url": "https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms"
+        },
         {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
         }
       ],
-      "duration_ms": 157508,
-      "name": "Rajad\u00e3o",
-      "url": "https://open.spotify.com/track/1DmSaQjZkuwFi57KPv20oB"
+      "duration_ms": 140968,
+      "name": "Fun Tonight - Pabllo Vittar Remix",
+      "url": "https://open.spotify.com/track/70FhY7hwautR5xB1qnHzVn"
     },
     {
       "added_at": null,
@@ -827,26 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "AFTER",
-        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
+        "name": "Pandora",
+        "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
       },
       "artists": [
         {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        },
+        {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
-        },
-        {
-          "name": "O Kannalha",
-          "url": "https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq"
-        },
-        {
-          "name": "PEDRO SAMPAIO",
-          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         }
       ],
-      "duration_ms": 150824,
-      "name": "Penetra - Pedro Sampaio Remix",
-      "url": "https://open.spotify.com/track/7hPSlGAChIcqAbBXFgbcdq"
+      "duration_ms": 128067,
+      "name": "Garupa",
+      "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
     },
     {
       "added_at": null,
@@ -867,22 +863,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pandora",
-        "url": "https://open.spotify.com/album/1eHsHKConMfzho7k48pomW"
+        "name": "AFTER",
+        "url": "https://open.spotify.com/album/4aj7OO4L022IGAz5zbQwJZ"
       },
       "artists": [
         {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
           "name": "Pabllo Vittar",
           "url": "https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV"
+        },
+        {
+          "name": "O Kannalha",
+          "url": "https://open.spotify.com/artist/074zrnA9SL424EnrYgoKmq"
+        },
+        {
+          "name": "PEDRO SAMPAIO",
+          "url": "https://open.spotify.com/artist/5wbf52LA6kcaboHSN6NEF1"
         }
       ],
-      "duration_ms": 128067,
-      "name": "Garupa",
-      "url": "https://open.spotify.com/track/6nmYC5NZrRjRMhyR4aHLoF"
+      "duration_ms": 150824,
+      "name": "Penetra - Pedro Sampaio Remix",
+      "url": "https://open.spotify.com/track/7hPSlGAChIcqAbBXFgbcdq"
     },
     {
       "added_at": null,

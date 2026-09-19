@@ -4,7 +4,7 @@
 
 > 💯 Suomi.
 
-1,345 songs - 2 day 15 hr 28 min
+1,346 songs - 2 day 15 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -433,6 +433,7 @@
 | [Kahdestaan \(la di da\)](https://open.spotify.com/track/4eUeYZTu9Hk7VlKkgSjfXz) | [T Swoop](https://open.spotify.com/artist/3XB4IVNkzpc80d9qmthhl3) | [Kahdestaan \(la di da\)](https://open.spotify.com/album/01k7k2mVuOAP8rzEFsPMjx) | 2:20 | 2023-11-16 | 2023-12-15 |
 | [Kai minäkin ansaitsen sinisen taivaan](https://open.spotify.com/track/4VQ2kdl24cZ2KH43SDiUTW) | [Hugo Soniver](https://open.spotify.com/artist/3xyLz8SaiijXKUqqS7y7TP), [Vesa Heimo](https://open.spotify.com/artist/0RyalZn9vXsKHJ4qlpX53I) | [Kai minäkin ansaitsen sinisen taivaan](https://open.spotify.com/album/6LfJBP2On3M7XcIDMcJdi5) | 3:02 | 2024-03-14 | 2024-04-05 |
 | [Kaikki hyväks kääntyy](https://open.spotify.com/track/0oyDPNPFFjQXibzBhIoG75) | [1Jonne](https://open.spotify.com/artist/5vRSguKzrcZCmXRZSxIqrl), [Asa](https://open.spotify.com/artist/0rHtbK2pK4r67coo9EsT7D), [Pyhimys](https://open.spotify.com/artist/3MaQwUQBigrjcMYHk8bDKm) | [Kaikki hyväks kääntyy](https://open.spotify.com/album/3RD3lUSFcyq58srZL28cyB) | 3:52 | 2024-02-29 | 2024-04-12 |
+| [Kaikki Kunnos](https://open.spotify.com/track/3lFVihVnqjVOTABmwtnpLs) | [Sliki](https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt), [Korelon](https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP) | [Kaikki Kunnos](https://open.spotify.com/album/5abijySksPUxJduZAfjEOn) | 2:40 | 2026-09-18 |  |
 | [Kaikki Menee](https://open.spotify.com/track/1ea7HFSjseiL4tCKHKC4pU) | [Rekami](https://open.spotify.com/artist/25SDUzCXVuk0Va1iinM5aB) | [Kaikki Menee](https://open.spotify.com/album/2UDaUocpTLbju2vmnrBKFs) | 2:20 | 2024-05-30 | 2024-07-02 |
 | [Kaikki Menee!](https://open.spotify.com/track/04x88ZQsjsEdYQcfM6bZ3S) | [Petri Nygård](https://open.spotify.com/artist/4l0zTor5S32Yly4uw96Bto) | [Kaikki Menee!](https://open.spotify.com/album/14s2JQLCpc7tZ93pT8LDtI) | 2:34 | 2024-10-24 | 2024-11-08 |
 | [Kaikki mitä sanoit](https://open.spotify.com/track/74HITquM008p9aERYIGhBK) | [Koli\-C](https://open.spotify.com/artist/1PugsyLO87Xl7JbaLELlLP), [Färmy](https://open.spotify.com/artist/1VgwrLDy2Nte8B5g5nhcqi) | [Kaikki mitä sanoit](https://open.spotify.com/album/29zQ7m8gDBKVP87wfyxHTc) | 3:53 | 2023-09-21 | 2023-09-29 |

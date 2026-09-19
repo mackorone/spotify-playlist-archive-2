@@ -341,6 +341,28 @@
     },
     {
       "album": {
+        "name": "Con Una, Dos o Tres",
+        "url": "https://open.spotify.com/album/4PNeDZTeOOAkWziN5hxHU9"
+      },
+      "artists": [
+        {
+          "name": "Lupita Infante",
+          "url": "https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ"
+        },
+        {
+          "name": "Chiquis",
+          "url": "https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179917,
+      "name": "Con Una, Dos o Tres",
+      "url": "https://open.spotify.com/track/59VMTSGfODLpmLRjBZrXLi"
+    },
+    {
+      "album": {
         "name": "La Corona Es M\u00eda",
         "url": "https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B"
       },

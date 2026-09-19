@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-04-22",
-  "description": "folk songs for the weight of it all, featuring music from Gregory Alan Isakov",
+  "description": "folk songs for the weight of it all, featuring music from Anna Shoemaker",
   "name": "Sad Folk",
   "tracks": [
     {
@@ -20,6 +20,24 @@
       "duration_ms": 317106,
       "name": "A Little Bit of Everything - Spotify Singles",
       "url": "https://open.spotify.com/track/66yvX4stoMKIiTcZeDJGpt"
+    },
+    {
+      "album": {
+        "name": "Always The Same",
+        "url": "https://open.spotify.com/album/0UQd6myReEV9LZ5NcT1lJW"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Always The Same",
+      "url": "https://open.spotify.com/track/5RZomQGckBcXSH8lsKBhqD"
     },
     {
       "album": {
@@ -70,7 +88,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 273466,
       "name": "Appointments",
       "url": "https://open.spotify.com/track/3jt1ZVIuluGkV0sWWLSUzw"
@@ -437,6 +455,28 @@
     },
     {
       "album": {
+        "name": "Drama",
+        "url": "https://open.spotify.com/album/7KPk3hjKhEpxzHQqMF39oI"
+      },
+      "artists": [
+        {
+          "name": "Nicole Atkins",
+          "url": "https://open.spotify.com/artist/4ab2tQaaTr2TnairelOwvO"
+        },
+        {
+          "name": "Chris Isaak",
+          "url": "https://open.spotify.com/artist/7290H8m1Dwt8G7jm1y9CQx"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165733,
+      "name": "Cue the Symphony",
+      "url": "https://open.spotify.com/track/552CblFVkWAQLN0fPzByAy"
+    },
+    {
+      "album": {
         "name": "Hozier (Special Edition)",
         "url": "https://open.spotify.com/album/5PaHwpTefKhQa6Yqsj9WRH"
       },
@@ -798,7 +838,7 @@
       ],
       "date_added": "2023-04-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 213293,
       "name": "Half of Me",
       "url": "https://open.spotify.com/track/3zyDQeTrptB1etZyRCpOLX"
@@ -856,6 +896,24 @@
       "duration_ms": 199200,
       "name": "History Of A Feeling",
       "url": "https://open.spotify.com/track/2PLpZnaPqYfr89TY1bG3wc"
+    },
+    {
+      "album": {
+        "name": "Hope Is the Thing with Feathers",
+        "url": "https://open.spotify.com/album/1GqUJ1pY3mDZ29wLsJ7Qny"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175640,
+      "name": "Hope Is the Thing with Feathers",
+      "url": "https://open.spotify.com/track/4jLzG9tZZGTbc3p2VWjF7r"
     },
     {
       "album": {
@@ -1182,6 +1240,24 @@
       "duration_ms": 183533,
       "name": "Lady May",
       "url": "https://open.spotify.com/track/3t5OV1asJHmOlf23T08CLv"
+    },
+    {
+      "album": {
+        "name": "Landmine",
+        "url": "https://open.spotify.com/album/1Shv99AhrMT7kIPNOhWsfj"
+      },
+      "artists": [
+        {
+          "name": "Anna Shoemaker",
+          "url": "https://open.spotify.com/artist/3STjhKc10jr3X60mDRpHV4"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204438,
+      "name": "Landmine",
+      "url": "https://open.spotify.com/track/7koeUHpoFE1MPJykVRVQdj"
     },
     {
       "album": {
@@ -1792,6 +1868,24 @@
       "duration_ms": 305000,
       "name": "Scott Street",
       "url": "https://open.spotify.com/track/6Uwi2Qk3H7fM4b4W4ExrAp"
+    },
+    {
+      "album": {
+        "name": "Seeds",
+        "url": "https://open.spotify.com/album/52zKv7RC0Kjx5NpP2gNBGN"
+      },
+      "artists": [
+        {
+          "name": "rakey",
+          "url": "https://open.spotify.com/artist/2MHVHW2D8Xzn8jQKOMFx4p"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 222053,
+      "name": "Seeds",
+      "url": "https://open.spotify.com/track/23iaNctslvllPw0lve3egs"
     },
     {
       "album": {

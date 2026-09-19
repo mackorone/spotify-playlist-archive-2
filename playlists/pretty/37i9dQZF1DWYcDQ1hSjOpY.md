@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 
 > Soothing, minimalist ambient for deep sleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,230,546 likes - 370 songs - 16 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,230,954 likes - 370 songs - 16 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -379,4 +379,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYcDQ1hSjOpY.md) - [plain]
 | 369 | [Follow the light](https://open.spotify.com/track/4IO1bKACHBxTWQl0kSU5LU) | [Foora](https://open.spotify.com/artist/4xrxBC3PuUnnlziFfHdvYJ) | [Follow the light](https://open.spotify.com/album/2VtaE3vCJ4fzB6C5agXNQ1) | 2:52 |
 | 370 | [Falling Blue Stars](https://open.spotify.com/track/4tauiyO1Y1svU1U63XjXWw) | [Sal Lastra](https://open.spotify.com/artist/3aJYpSuHbjZsn6oONgiBwa) | [Falling Blue Stars](https://open.spotify.com/album/6rQOYH3uadzIulsBwlX1Js) | 2:48 |
 
-Snapshot ID: `AAAAAIuf5fwbr010L0jHbbaVcDs1KQHR`
+Snapshot ID: `AAAAAI3WJnFSaL4tPr8qZlAiOtzf4myD`

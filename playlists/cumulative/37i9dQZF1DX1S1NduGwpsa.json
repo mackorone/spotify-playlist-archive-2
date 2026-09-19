@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-04-20",
-  "description": "The best jazz new releases. Cover: Liana Flores",
+  "description": "The best jazz new releases. Cover: Okvsho",
   "name": "Jazz Club",
   "tracks": [
     {
@@ -1418,6 +1418,24 @@
     {
       "album": {
         "name": "At Last",
+        "url": "https://open.spotify.com/album/4JmunSVZjllauUkJO9abyi"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186680,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/5pc0LjdOAAFvUEwcNhlBoh"
+    },
+    {
+      "album": {
+        "name": "At Last",
         "url": "https://open.spotify.com/album/6XqU4wmYLO897De94LOeNI"
       },
       "artists": [
@@ -1450,6 +1468,28 @@
       "duration_ms": 184306,
       "name": "At The Swing Cats Ball",
       "url": "https://open.spotify.com/track/1GuLFlKfwXYGBFwGMb0xgn"
+    },
+    {
+      "album": {
+        "name": "Dedicated To You",
+        "url": "https://open.spotify.com/album/6F2N7JA2Dnbkg9zjVVGqd1"
+      },
+      "artists": [
+        {
+          "name": "Branford Marsalis Quartet",
+          "url": "https://open.spotify.com/artist/795yvukGj0UOfcP8uftDq9"
+        },
+        {
+          "name": "Dianne Reeves",
+          "url": "https://open.spotify.com/artist/7nwrblOf59ulOiB6djwPVh"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 406554,
+      "name": "Autumn Serenade",
+      "url": "https://open.spotify.com/track/1ZUTW4oNoaaJMGwUtCKsuE"
     },
     {
       "album": {
@@ -3537,6 +3577,24 @@
     },
     {
       "album": {
+        "name": "Chocolatine",
+        "url": "https://open.spotify.com/album/1vOezFD0gNnBEFIOXCYLFz"
+      },
+      "artists": [
+        {
+          "name": "R\u00e9mi Panossian Trio",
+          "url": "https://open.spotify.com/artist/2ArddH4FwPLwmYFCnduiLh"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210031,
+      "name": "Chocolatine",
+      "url": "https://open.spotify.com/track/4MrAizK4yq7LIVlFOIzvyV"
+    },
+    {
+      "album": {
         "name": "Chop Chop",
         "url": "https://open.spotify.com/album/6vd2OeHvhmSsHj3GRbk0Za"
       },
@@ -4538,7 +4596,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 381007,
       "name": "Dedicated To You",
       "url": "https://open.spotify.com/track/6jBnz1u9XVFmGrcaaPduYm"
@@ -7050,6 +7108,36 @@
       "duration_ms": 206066,
       "name": "Goody Goody",
       "url": "https://open.spotify.com/track/0n19Dlz4j8ITUavvAXmkXs"
+    },
+    {
+      "album": {
+        "name": "Grand Street",
+        "url": "https://open.spotify.com/album/6TIjvKJlXCo4mJUYJRUdJV"
+      },
+      "artists": [
+        {
+          "name": "Joshua Redman",
+          "url": "https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S"
+        },
+        {
+          "name": "Peter Bernstein",
+          "url": "https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Marcus Gilmore",
+          "url": "https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224868,
+      "name": "Grand Street",
+      "url": "https://open.spotify.com/track/2NxHjUNJbp9udozC5zCUxy"
     },
     {
       "album": {
@@ -12144,7 +12232,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 229436,
       "name": "Menina Passarinho",
       "url": "https://open.spotify.com/track/04k3l4ziEySpRlfKcnjmBA"
@@ -14740,7 +14828,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 231066,
       "name": "PEARL",
       "url": "https://open.spotify.com/track/33E2bU4xRVvjuc6Y4dtk5k"
@@ -15038,6 +15126,24 @@
       "duration_ms": 167960,
       "name": "Pippo 1303",
       "url": "https://open.spotify.com/track/2Ena1sPFrFTdJ16k0hHHoT"
+    },
+    {
+      "album": {
+        "name": "Frozen Flashes",
+        "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246957,
+      "name": "Place of Two",
+      "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
     },
     {
       "album": {
@@ -15780,7 +15886,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 163531,
       "name": "royal sun",
       "url": "https://open.spotify.com/track/56YZ4McOSFa1HrgxlBOfVq"
@@ -16346,6 +16452,36 @@
       "duration_ms": 248862,
       "name": "September In The Rain",
       "url": "https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS"
+    },
+    {
+      "album": {
+        "name": "Sextan Bucket",
+        "url": "https://open.spotify.com/album/31JfQ2JfmnjID4AmmErkA8"
+      },
+      "artists": [
+        {
+          "name": "Monty Alexander",
+          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
+        },
+        {
+          "name": "Luke Sellick",
+          "url": "https://open.spotify.com/artist/4JmBOPedbbGZPb4hwcQy1S"
+        },
+        {
+          "name": "Jason Brown",
+          "url": "https://open.spotify.com/artist/0WSt6xUyHBsceCqUgcZTiv"
+        },
+        {
+          "name": "Bobby Thomas Jr.",
+          "url": "https://open.spotify.com/artist/1LBIHUhctWa6uNPFRdxPkt"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Sextan Bucket",
+      "url": "https://open.spotify.com/track/5WKEoxwAqPPSQvkttcvjOx"
     },
     {
       "album": {
@@ -21260,7 +21396,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 318440,
       "name": "What's going on",
       "url": "https://open.spotify.com/track/48y1wtDJYyV0wyiQMq3Qhs"
@@ -21668,7 +21804,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 134198,
       "name": "Wonderful Thing",
       "url": "https://open.spotify.com/track/2Ibslyq8GAIop6GV91l6Nz"

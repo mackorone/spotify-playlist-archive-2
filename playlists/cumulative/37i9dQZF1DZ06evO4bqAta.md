@@ -4,7 +4,7 @@
 
 > This is Bob Dylan\. The essential tracks, all in one playlist.
 
-133 songs - 9 hr 38 min
+134 songs - 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -39,6 +39,7 @@
 | [From a Buick 6](https://open.spotify.com/track/6txGFpco4cfgG1sA1MxLCp) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 3:15 | 2022-09-24 | 2025-05-30 |
 | [Girl from the North Country](https://open.spotify.com/track/4K1imZQQ0yKtJ40vGmUajS) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [Johnny Cash](https://open.spotify.com/artist/6kACVPfCOnqzgfEF5ryl0x) | [Nashville Skyline](https://open.spotify.com/album/5WBx64FIN04CvM2T1MGrUN) | 3:44 | 2022-09-24 |  |
 | [Going, Going, Gone \- Live at Nippon Budokan Hall, Tokyo, Japan \- February 28, 1978](https://open.spotify.com/track/2jaHpMuTVaEM2kFtAmkOHi) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [The Complete Budokan 1978 \(Live\)](https://open.spotify.com/album/6LosaBGHSd97BYSVI7x4ni) | 4:03 | 2023-12-13 | 2024-01-22 |
+| [Going, Going, Gone \- Live at Tarrant County Convention Center Arena, Fort Worth, TX \- May 16, 1976](https://open.spotify.com/track/148pGYwurEnSflr6TJ1BRP) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Going, Going, Gone \(Live at Tarrant County Convention Center Arena, Fort Worth, TX \- May 16, 1976\)](https://open.spotify.com/album/3rIs6ocYkun62cDGQfdALA) | 5:49 | 2026-09-19 |  |
 | [Goodbye Jimmy Reed](https://open.spotify.com/track/74mIBeHhMcIpiAej3nBgo4) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Rough and Rowdy Ways](https://open.spotify.com/album/1Qht64MPvWTWa0aMsqxegB) | 4:13 | 2022-09-29 | 2024-12-01 |
 | [Gotta Serve Somebody](https://open.spotify.com/track/760420tYNmNjFgi8bWvbop) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Slow Train Coming](https://open.spotify.com/album/5k4z33VjpVmkOB18IgOD8E) | 5:25 | 2022-10-16 | 2026-08-27 |
 | [Highway 61 Revisited](https://open.spotify.com/track/6os5B6xjuke9YfBKH3tu1e) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Highway 61 Revisited](https://open.spotify.com/album/6YabPKtZAjxwyWbuO9p4ZD) | 3:30 | 2024-06-04 |  |
@@ -117,7 +118,7 @@
 | [Something There Is About You \- Live at Madison Square Garden, New York City, NY \- January 30, 1974](https://open.spotify.com/track/5o47ZqRTyHccIrzHna2mNf) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX), [The Band](https://open.spotify.com/artist/4vpDg7Y7fU982Ds30zawDA) | [The 1974 Live Recordings Sampler](https://open.spotify.com/album/5x6WnUtS1wQU9MRHQWzPQa) | 4:21 | 2024-09-27 | 2024-10-19 |
 | [Song to Woody](https://open.spotify.com/track/0dfdXhBg11XA16XgAEtFcN) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bob Dylan](https://open.spotify.com/album/5k63xxy9YcKM0H9GS3vP1K) | 2:45 | 2022-09-25 |  |
 | [Standing in the Doorway \- 2022 Remix](https://open.spotify.com/track/0sjFBMLwC03vm88eZSfDWT) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Fragments \- Time Out of Mind Sessions \(1996\-1997\): The Bootleg Series, Vol\. 17 \(Deluxe Edition\)](https://open.spotify.com/album/0qfFt0ItzdJngdYWWxRkub) | 7:41 | 2023-02-08 | 2023-03-26 |
-| [Stuck Inside of Mobile with the Memphis Blues Again](https://open.spotify.com/track/1NYTj6JEw3IOh4ggiBh82h) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 7:06 | 2022-09-24 |  |
+| [Stuck Inside of Mobile with the Memphis Blues Again](https://open.spotify.com/track/1NYTj6JEw3IOh4ggiBh82h) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blonde On Blonde](https://open.spotify.com/album/4NP1rhnsPdYpnyJP0p0k0L) | 7:06 | 2022-09-24 | 2026-09-19 |
 | [Subterranean Homesick Blues](https://open.spotify.com/track/6k9DUKMJpWvu6eFG3O64Lg) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Bringing It All Back Home](https://open.spotify.com/album/1lPoRKSgZHQAYXxzBsOQ7v) | 2:19 | 2022-09-24 |  |
 | [Tangled up in Blue](https://open.spotify.com/track/6Vcwr9tb3ZLO63F8DL8cqu) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [Blood On The Tracks](https://open.spotify.com/album/4WD4pslu83FF6oMa1e19mF) | 5:40 | 2022-09-24 |  |
 | [The Man in Me](https://open.spotify.com/track/7xRemq7GLu0Tbqe9OckG87) | [Bob Dylan](https://open.spotify.com/artist/74ASZWbe4lXaubB36ztrGX) | [New Morning](https://open.spotify.com/album/48efaobqOTbvnlxbETstey) | 3:11 | 2022-09-24 |  |

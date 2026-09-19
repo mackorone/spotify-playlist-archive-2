@@ -4,7 +4,7 @@
 
 > You don't have to be King David to own the dance floor, just play the best Christian electronic and dance music out now\. 🪩🕺🏽
 
-634 songs - 1 day 10 hr 38 min
+635 songs - 1 day 10 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -392,6 +392,7 @@
 | [Miracles](https://open.spotify.com/track/2Zvtq9Ctnr4grdUJJmi1LA) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Miracles](https://open.spotify.com/album/7AAhLaigZx0cOx77P8ij79) | 2:54 | 2021-10-31 | 2022-07-19 |
 | [Miracles](https://open.spotify.com/track/6CVCNhM3dOfPL6Ud4JLNr7) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Colton Dixon](https://open.spotify.com/album/3mHEOWMp4xyuH3B290E34B) | 2:54 | 2021-10-31 | 2022-07-29 |
 | [Miracles](https://open.spotify.com/track/7u67t6j872bK1tDbMUjnMz) | [Colton Dixon](https://open.spotify.com/artist/52oVYHQ99ORZzeig2YGo4R) | [Devil Is A Liar](https://open.spotify.com/album/5kT3QNv411H3VlALarhLnC) | 2:54 | 2021-10-31 | 2023-02-08 |
+| [Miracles \- Church Mix](https://open.spotify.com/track/5XROQQHpGmUBhTlvBxoWdE) | [CeCe Rogers](https://open.spotify.com/artist/2hNpOiBBvdArEJy7ACY4O1) | [Miracles \(Church Mix\)](https://open.spotify.com/album/6jwPGICefQUEFkJ9FdbrWT) | 5:34 | 2026-08-18 |  |
 | [Mirage](https://open.spotify.com/track/511Q7DOLFifvVhCfPO1tgp) | [Platon Emil](https://open.spotify.com/artist/08WKaltWCl4lLaEq0UvYeQ), [Stefan Nixdorf](https://open.spotify.com/artist/1vSbKVRsNhyZ3fjC66vraJ), [Landry Cantrell](https://open.spotify.com/artist/6WYJ7U3mOA7bzOMkkkT3N6), [Kristen Hicks](https://open.spotify.com/artist/5dQsQyRyYQAXhnbaCMDhOl) | [Mirage](https://open.spotify.com/album/5AmXZU3x9PMA0p5Y5pD9C4) | 3:33 | 2021-10-31 | 2023-02-06 |
 | [Missing Piece](https://open.spotify.com/track/5qHg5XJtrqtHVvkkto4gYp) | [Alive City](https://open.spotify.com/artist/5Toah6plT6mSqAKVffLAj5), [Quasarpro](https://open.spotify.com/artist/0LHG14z6WbWvKtUNTMF7Ww) | [Missing Piece](https://open.spotify.com/album/3cltdHvJPTK7hwtWCHgPz0) | 3:13 | 2023-02-07 | 2024-07-20 |
 | [MORE LIKE YOU](https://open.spotify.com/track/0k8edf4aAsnJxOKhWJJkPe) | [BLVRS](https://open.spotify.com/artist/3SeJEA9smshVPlk8jbWlPD) | [MORE LIKE YOU](https://open.spotify.com/album/6GXBFlCRnvdiDtBJajp88w) | 2:55 | 2025-12-12 | 2026-08-19 |
@@ -407,7 +408,7 @@
 | [My Blessing](https://open.spotify.com/track/2y5RFauJUu13lSWbrTd1is) | [Sherwin Gardner](https://open.spotify.com/artist/3Dvmmnxs0w0LNL9hoCPQKW), [Kevin Downswell](https://open.spotify.com/artist/19yI5UdtGvSKDu23hoG3K4), [Positive](https://open.spotify.com/artist/5n2K8brRRD6NUM91RQNnPb) | [Find Me Here \- EP](https://open.spotify.com/album/26K7ZSbt4kjEe3mVS293hk) | 3:45 | 2025-09-14 | 2026-08-19 |
 | [My Champion](https://open.spotify.com/track/7z5MaKrUuj54pp7JzGzmEp) | [Hannah Schaefer](https://open.spotify.com/artist/2WsOOOpIzs8GLKjH05jG6s) | [My Champion](https://open.spotify.com/album/43yuI9hwTkW5pTnCZ24Jum) | 3:22 | 2021-10-31 | 2022-07-28 |
 | [My Prayer \- Micky More & Andy Tee Classic Edit](https://open.spotify.com/track/1Lzz07hvxsfnQ7XZ3dJyi6) | [Ron Carroll](https://open.spotify.com/artist/4GcXer1D6UzmWfW1wTqS9r), [Micky More & Andy Tee](https://open.spotify.com/artist/4J8KATDlTQSmBzS6T78QPN) | [My Prayer \(Micky More & Andy Tee Mixes\)](https://open.spotify.com/album/385RrkiS7KqbM53hQuS0hZ) | 3:48 | 2026-08-18 |  |
-| [My Sweet Heaven \(feat\. Stealth\)](https://open.spotify.com/track/0i3v7Y3WyIe4v4kRVJ8BGj) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [My Sweet Heaven \(feat\. Stealth\)](https://open.spotify.com/album/70iRS7awE2Q5iQgY8wDzcB) | 2:57 | 2026-08-18 |  |
+| [My Sweet Heaven \(feat\. Stealth\)](https://open.spotify.com/track/0i3v7Y3WyIe4v4kRVJ8BGj) | [Jay Hardway](https://open.spotify.com/artist/12SPNXi0aDpFt0rMVbmLrr), [Stealth](https://open.spotify.com/artist/6f3R3mqKR3kHp1KBNMUn80) | [My Sweet Heaven \(feat\. Stealth\)](https://open.spotify.com/album/70iRS7awE2Q5iQgY8wDzcB) | 2:57 | 2026-08-18 | 2026-09-19 |
 | [Need You](https://open.spotify.com/track/1g1gGNiGpQ8Oc83C3W6Wuq) | [Caz](https://open.spotify.com/artist/4BC0mFwxuHdoumvM6sxLDu) | [Need You](https://open.spotify.com/album/4xOxYOkrefDfXuOVenXPIl) | 3:20 | 2024-07-19 | 2026-08-19 |
 | [Need You](https://open.spotify.com/track/7mNhPcVlfiwviMs1vFJqvq) | [Marie Love](https://open.spotify.com/artist/5K9zbxy7ezNSd4Jj5DUR2h), [Saint James](https://open.spotify.com/artist/0i3IFzWtRtl3IDWx6GhECi) | [Need You](https://open.spotify.com/album/4sE3LUKKl1Gy8BBS1AOVsD) | 3:29 | 2023-02-08 | 2026-08-19 |
 | [Need Your Love](https://open.spotify.com/track/00lhBqWtz3kIwBD3DFtM3I) | [Rave Jesus](https://open.spotify.com/artist/3mPHVEre3DiAHKuOCBFP8D), [Gracie Binion](https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n) | [Need Your Love](https://open.spotify.com/album/0rcpSlFUQH5z4YkWJ7vBRq) | 3:18 | 2025-12-12 | 2026-03-24 |

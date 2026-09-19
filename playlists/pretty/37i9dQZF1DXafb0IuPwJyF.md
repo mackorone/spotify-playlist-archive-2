@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 
 > 日本のポップシーンを彩る最新ベスト50。The hottest hits in Japan right now\. Cover:  YAO\(Awich, CHICO CARLITO, ONE OK ROCK, Paledusk\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,015,696 likes - 50 songs - 3 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,015,745 likes - 50 songs - 3 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafb0IuPwJyF.md) - [plain]
 | 49 | [Running Wheel](https://open.spotify.com/track/1QNc9HPnw3diR0gIoVZp1S) | [Creepy Nuts](https://open.spotify.com/artist/0pWR7TsFhvSCnbmHDjWgrE) | [Running Wheel](https://open.spotify.com/album/046nzm7oipvLuxPMFrlb7e) | 2:17 |
 | 50 | [BUGS LIFE](https://open.spotify.com/track/3o9jxRsczWG6Juy1KTDNuG) | [Number\_i](https://open.spotify.com/artist/4XFkDALFTsSHVnRtJSsaMN) | [BUGS LIFE](https://open.spotify.com/album/00iL5SyEZfu0gxcnN6Py4t) | 2:59 |
 
-Snapshot ID: `AAAAAFTVBvsHtF0/c5x6SL7Uju5hzqc8`
+Snapshot ID: `AAAAAL08bGCuqaWEqTg+tIEjqzTI8QpH`

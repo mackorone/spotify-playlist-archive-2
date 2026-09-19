@@ -1,12 +1,12 @@
 {
   "description": "This is kwn. The essential tracks, all in one playlist.",
-  "num_followers": 23029,
+  "num_followers": 23040,
   "original_name": "This Is kwn",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAAmrUIZwSD+4/5/vjBWPfhV",
+  "snapshot_id": "aqstgAAAAACr418e1dNccna7mck6o66E",
   "tracks": [
     {
       "added_at": null,
@@ -99,18 +99,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "eyes wide open",
-        "url": "https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV"
+        "name": "ROADRUNNER",
+        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
       },
       "artists": [
+        {
+          "name": "DESTIN CONRAD",
+          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
+        },
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 153648,
-      "name": "eyes wide open",
-      "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
+      "duration_ms": 161086,
+      "name": "DADAMAN",
+      "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
     },
     {
       "added_at": null,
@@ -131,22 +135,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROADRUNNER",
-        "url": "https://open.spotify.com/album/7joEKdjJC5ROVOVc15CNfj"
+        "name": "eyes wide open",
+        "url": "https://open.spotify.com/album/4uCsGsDDZQbhDsb8ujwenV"
       },
       "artists": [
-        {
-          "name": "DESTIN CONRAD",
-          "url": "https://open.spotify.com/artist/4jwROPSUkTkohLCRiyjiZZ"
-        },
         {
           "name": "kwn",
           "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 161086,
-      "name": "DADAMAN",
-      "url": "https://open.spotify.com/track/5O9aVGryqU0Um5l4a1pezL"
+      "duration_ms": 153648,
+      "name": "eyes wide open",
+      "url": "https://open.spotify.com/track/6TQtwV4QG19SzCVG5F2RkC"
     },
     {
       "added_at": null,

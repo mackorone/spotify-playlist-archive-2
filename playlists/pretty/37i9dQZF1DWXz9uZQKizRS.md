@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 
 > Najlepsza świeża polska alternatywa\. Cover: Artur Rojek
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,036 likes - 100 songs - 5 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,087 likes - 100 songs - 5 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXz9uZQKizRS.md) - [plain]
 | 99 | [nie kochaj](https://open.spotify.com/track/2gDzbXXOM5WPNzqs69eCHR) | [Kuba Karaś](https://open.spotify.com/artist/39ycziDyXzRblGDq5L243I), [Piotr Fiedler](https://open.spotify.com/artist/7i0uDWgNKJg7VkGTg2tnY8) | [nie kochaj](https://open.spotify.com/album/13SHaiSacNJleQ0H8GjdG7) | 4:18 |
 | 100 | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/track/2utoajLfufNnNWFdYgbPLm) | [Briela](https://open.spotify.com/artist/3kk3YGzYSrzJ1foeuH0Rjf) | [Nie zaśpiewam Twojej mamie](https://open.spotify.com/album/5D6T9j8UsbzwBrn29X1Muh) | 3:10 |
 
-Snapshot ID: `AAAAAM1u5dYrzW+8Hc1BGaoBg/EW1eBA`
+Snapshot ID: `AAAAAA6OlVnW7HoDe9W33d8sOmwYwHNZ`

@@ -1,13 +1,29 @@
 {
-  "description": "A delicious mix of new songs in high rotation. Cover: Phoebe Bridgers",
-  "num_followers": 1906503,
+  "description": "A delicious mix of new songs in high rotation. Cover: This is Lorlelei",
+  "num_followers": 1906423,
   "original_name": "Indie's Top 50",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF7u5KSqVLyLA7M8esx0nhZuH4co",
+  "snapshot_id": "AAAAAI0TF4MLFwF3c8aT3wIPO8XKNEq0",
   "tracks": [
+    {
+      "added_at": "2026-09-11 04:01:56",
+      "album": {
+        "name": "The Kid With the Crown",
+        "url": "https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa"
+      },
+      "artists": [
+        {
+          "name": "This Is Lorelei",
+          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+        }
+      ],
+      "duration_ms": 254961,
+      "name": "The Kid With the Crown",
+      "url": "https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA"
+    },
     {
       "added_at": "2026-09-11 04:01:56",
       "album": {
@@ -41,20 +57,36 @@
       "url": "https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q"
     },
     {
-      "added_at": "2026-09-11 04:01:56",
+      "added_at": "2026-09-18 04:00:28",
       "album": {
-        "name": "The Kid With the Crown",
-        "url": "https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa"
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
       },
       "artists": [
         {
-          "name": "This Is Lorelei",
-          "url": "https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun"
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
         }
       ],
-      "duration_ms": 254961,
-      "name": "The Kid With the Crown",
-      "url": "https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA"
+      "duration_ms": 194103,
+      "name": "Write Me A Letter",
+      "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
+    },
+    {
+      "added_at": "2026-09-18 04:00:28",
+      "album": {
+        "name": "Melodie",
+        "url": "https://open.spotify.com/album/3pCuWK1YLBdu96F3wIGqjy"
+      },
+      "artists": [
+        {
+          "name": "Slow Pulp",
+          "url": "https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D"
+        }
+      ],
+      "duration_ms": 208937,
+      "name": "Red Car",
+      "url": "https://open.spotify.com/track/1iZsQ8JtDEjZojlFOBrDRi"
     },
     {
       "added_at": "2026-09-11 04:01:56",
@@ -71,6 +103,198 @@
       "duration_ms": 179042,
       "name": "No Thank You, I Love You, Goodbye",
       "url": "https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g"
+    },
+    {
+      "added_at": "2026-09-18 04:00:28",
+      "album": {
+        "name": "Small Town",
+        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "duration_ms": 169981,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
+    },
+    {
+      "added_at": "2026-09-11 04:01:56",
+      "album": {
+        "name": "Everything in the shade",
+        "url": "https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ"
+      },
+      "artists": [
+        {
+          "name": "Fine",
+          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
+        }
+      ],
+      "duration_ms": 216750,
+      "name": "Everything in the shade",
+      "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
+    },
+    {
+      "added_at": "2026-09-18 04:00:28",
+      "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 305875,
+      "name": "Over country",
+      "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
+    },
+    {
+      "added_at": "2026-09-11 04:01:56",
+      "album": {
+        "name": "I WANNA LOVE YOU BABE",
+        "url": "https://open.spotify.com/album/2bMNH52yTI8iJczEutL43W"
+      },
+      "artists": [
+        {
+          "name": "LAUNDRY DAY",
+          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
+        }
+      ],
+      "duration_ms": 274120,
+      "name": "I WANNA LOVE YOU BABE",
+      "url": "https://open.spotify.com/track/3jNgp0vOXGqd0Dy9V4KdsB"
+    },
+    {
+      "added_at": "2026-07-31 04:02:10",
+      "album": {
+        "name": "LOVE IS THE LAW",
+        "url": "https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 205497,
+      "name": "Don't Touch",
+      "url": "https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm"
+    },
+    {
+      "added_at": "2026-09-11 04:01:56",
+      "album": {
+        "name": "Kid",
+        "url": "https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp"
+      },
+      "artists": [
+        {
+          "name": "DIIV",
+          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
+        }
+      ],
+      "duration_ms": 220295,
+      "name": "Kid",
+      "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
+    },
+    {
+      "added_at": "2026-09-18 04:00:28",
+      "album": {
+        "name": "Are You Willing",
+        "url": "https://open.spotify.com/album/6STKU0OmvS8oV6N2z3WjBG"
+      },
+      "artists": [
+        {
+          "name": "Wet",
+          "url": "https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8"
+        }
+      ],
+      "duration_ms": 230132,
+      "name": "Are You Willing",
+      "url": "https://open.spotify.com/track/6my2GkulHxUnSzKZkRv38d"
+    },
+    {
+      "added_at": "2026-09-11 04:01:56",
+      "album": {
+        "name": "King of Having Fun",
+        "url": "https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3"
+      },
+      "artists": [
+        {
+          "name": "Medium Build",
+          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
+        }
+      ],
+      "duration_ms": 146054,
+      "name": "It's Not Easy (Falling In Love)",
+      "url": "https://open.spotify.com/track/0C9GRYGgChsl5aHBxSEJoX"
+    },
+    {
+      "added_at": "2026-09-18 04:00:28",
+      "album": {
+        "name": "Belinda",
+        "url": "https://open.spotify.com/album/62HSUHlT6fzM1WjH8hHVWG"
+      },
+      "artists": [
+        {
+          "name": "\u03a3tella",
+          "url": "https://open.spotify.com/artist/2tBWWgGv7H5ymPtJrT1rNu"
+        }
+      ],
+      "duration_ms": 165104,
+      "name": "Belinda",
+      "url": "https://open.spotify.com/track/1rs2lOYfBKNW5OCpeTIiVf"
+    },
+    {
+      "added_at": "2026-09-11 04:01:56",
+      "album": {
+        "name": "Blister Sunrise",
+        "url": "https://open.spotify.com/album/0YloSzp3b1YxEdYOxfbA5T"
+      },
+      "artists": [
+        {
+          "name": "M83",
+          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
+        }
+      ],
+      "duration_ms": 200608,
+      "name": "Blister Sunrise",
+      "url": "https://open.spotify.com/track/6KmnrYGLTStjxonyQYRPbU"
+    },
+    {
+      "added_at": "2026-09-18 04:00:28",
+      "album": {
+        "name": "GET MEAN",
+        "url": "https://open.spotify.com/album/7MSjDOtClAwAVMK2CUw9uz"
+      },
+      "artists": [
+        {
+          "name": "Boy Harsher",
+          "url": "https://open.spotify.com/artist/4iom7VVRU6AHRIu1JUXpLG"
+        }
+      ],
+      "duration_ms": 199253,
+      "name": "Faulty",
+      "url": "https://open.spotify.com/track/1oLrfOvf2TaMR23qu8QThR"
+    },
+    {
+      "added_at": "2026-09-18 04:00:28",
+      "album": {
+        "name": "April Suzanne",
+        "url": "https://open.spotify.com/album/02k9RZkhDfdskVGJ1NvJHt"
+      },
+      "artists": [
+        {
+          "name": "Beach House",
+          "url": "https://open.spotify.com/artist/56ZTgzPBDge0OvCGgMO3OY"
+        }
+      ],
+      "duration_ms": 225478,
+      "name": "April Suzanne - Cover Version",
+      "url": "https://open.spotify.com/track/6u19Z263teVaAY2LFRGZQJ"
     },
     {
       "added_at": "2026-07-31 04:02:10",
@@ -121,38 +345,6 @@
       "url": "https://open.spotify.com/track/5nlsXkRIR3ZFTdeot66Yj6"
     },
     {
-      "added_at": "2026-09-11 04:01:56",
-      "album": {
-        "name": "Everything in the shade",
-        "url": "https://open.spotify.com/album/5A6ti3IM50zvD9RkLa7usZ"
-      },
-      "artists": [
-        {
-          "name": "Fine",
-          "url": "https://open.spotify.com/artist/2356dfnXmbn9pH0xE2sYQ5"
-        }
-      ],
-      "duration_ms": 216750,
-      "name": "Everything in the shade",
-      "url": "https://open.spotify.com/track/6wS9y7UwgL1DQnIWrm5GjF"
-    },
-    {
-      "added_at": "2026-09-11 04:01:56",
-      "album": {
-        "name": "Kid",
-        "url": "https://open.spotify.com/album/2HPku9riwrjNlCcJQignjp"
-      },
-      "artists": [
-        {
-          "name": "DIIV",
-          "url": "https://open.spotify.com/artist/4OrizGCKhOrW6iDDJHN9xd"
-        }
-      ],
-      "duration_ms": 220295,
-      "name": "Kid",
-      "url": "https://open.spotify.com/track/3yXMMzqvq3aTiczg8lpkfS"
-    },
-    {
       "added_at": "2026-07-13 18:06:54",
       "album": {
         "name": "Caught In A Jam",
@@ -169,22 +361,6 @@
       "url": "https://open.spotify.com/track/67aVjLV3z4QqlXMBrGoOOJ"
     },
     {
-      "added_at": "2026-09-11 04:01:56",
-      "album": {
-        "name": "I WANNA LOVE YOU BABE",
-        "url": "https://open.spotify.com/album/2bMNH52yTI8iJczEutL43W"
-      },
-      "artists": [
-        {
-          "name": "LAUNDRY DAY",
-          "url": "https://open.spotify.com/artist/0SwK6bwzmGkViNoxSbJ5Mk"
-        }
-      ],
-      "duration_ms": 274120,
-      "name": "I WANNA LOVE YOU BABE",
-      "url": "https://open.spotify.com/track/3jNgp0vOXGqd0Dy9V4KdsB"
-    },
-    {
       "added_at": "2026-06-26 04:01:46",
       "album": {
         "name": "the feeling",
@@ -199,54 +375,6 @@
       "duration_ms": 275936,
       "name": "the feeling",
       "url": "https://open.spotify.com/track/3SoarlzPEiF7NgSeGsh44S"
-    },
-    {
-      "added_at": "2026-09-11 04:01:56",
-      "album": {
-        "name": "King of Having Fun",
-        "url": "https://open.spotify.com/album/6qvLeDfqPRk1w73Vh885S3"
-      },
-      "artists": [
-        {
-          "name": "Medium Build",
-          "url": "https://open.spotify.com/artist/3C6wmSgnZuqxVQyBWujBsn"
-        }
-      ],
-      "duration_ms": 146054,
-      "name": "It's Not Easy (Falling In Love)",
-      "url": "https://open.spotify.com/track/0C9GRYGgChsl5aHBxSEJoX"
-    },
-    {
-      "added_at": "2026-08-28 04:02:44",
-      "album": {
-        "name": "Memories",
-        "url": "https://open.spotify.com/album/5lqmvYYODVFgrFTObdKwRr"
-      },
-      "artists": [
-        {
-          "name": "beabadoobee",
-          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
-        }
-      ],
-      "duration_ms": 168733,
-      "name": "Memories",
-      "url": "https://open.spotify.com/track/2QjvcnTm5u1vWaIChGQVAY"
-    },
-    {
-      "added_at": "2026-07-31 04:02:10",
-      "album": {
-        "name": "LOVE IS THE LAW",
-        "url": "https://open.spotify.com/album/570VyuVvfNUQBm2cSvPLT0"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 205497,
-      "name": "Don't Touch",
-      "url": "https://open.spotify.com/track/5mKk0BWGXLydgV1hP7C6jm"
     },
     {
       "added_at": "2026-08-07 04:02:03",
@@ -377,22 +505,6 @@
       "url": "https://open.spotify.com/track/07lwMZLo0Nxc01nMXuiVL8"
     },
     {
-      "added_at": "2026-09-11 04:01:56",
-      "album": {
-        "name": "Wallflower",
-        "url": "https://open.spotify.com/album/2qTsxiYvMYv1uJIzcj29Ao"
-      },
-      "artists": [
-        {
-          "name": "Dominic Fike",
-          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
-        }
-      ],
-      "duration_ms": 178334,
-      "name": "Wallflower",
-      "url": "https://open.spotify.com/track/0IeBxP5BlIH2BDhQYVsRq3"
-    },
-    {
       "added_at": "2026-08-21 04:00:34",
       "album": {
         "name": "Indecision (feat. Daniel Caesar)",
@@ -443,22 +555,6 @@
       "duration_ms": 417341,
       "name": "The Reason",
       "url": "https://open.spotify.com/track/0zyMLOsWbWQmeq9PIIKiFk"
-    },
-    {
-      "added_at": "2026-09-11 04:01:56",
-      "album": {
-        "name": "Blister Sunrise",
-        "url": "https://open.spotify.com/album/0YloSzp3b1YxEdYOxfbA5T"
-      },
-      "artists": [
-        {
-          "name": "M83",
-          "url": "https://open.spotify.com/artist/63MQldklfxkjYDoUE4Tppz"
-        }
-      ],
-      "duration_ms": 200608,
-      "name": "Blister Sunrise",
-      "url": "https://open.spotify.com/track/6KmnrYGLTStjxonyQYRPbU"
     },
     {
       "added_at": "2026-08-14 04:02:19",
@@ -543,22 +639,6 @@
       "duration_ms": 316400,
       "name": "Eye For An Eye",
       "url": "https://open.spotify.com/track/0v2AiyfpKx4qE0c0enlSl2"
-    },
-    {
-      "added_at": "2026-08-14 04:02:19",
-      "album": {
-        "name": "Take Me Out To The Disco",
-        "url": "https://open.spotify.com/album/3c5VO9D0LOzYjmMvKNYuvL"
-      },
-      "artists": [
-        {
-          "name": "Gus Dapperton",
-          "url": "https://open.spotify.com/artist/6sHCvZe1PHrOAuYlwTLNH4"
-        }
-      ],
-      "duration_ms": 202402,
-      "name": "Take Me Out To The Disco",
-      "url": "https://open.spotify.com/track/7d7hc9QrLJMZGchzyGd0r2"
     },
     {
       "added_at": "2026-08-28 04:02:44",
@@ -777,22 +857,6 @@
       "url": "https://open.spotify.com/track/0lvRPZvTJn7DHS8arrcdUr"
     },
     {
-      "added_at": "2026-07-24 04:01:51",
-      "album": {
-        "name": "Bonny",
-        "url": "https://open.spotify.com/album/2KsCvxIGlrfeqj6OfCZ9QF"
-      },
-      "artists": [
-        {
-          "name": "Swapmeet",
-          "url": "https://open.spotify.com/artist/02ngaZWfkvv0Fzmh7FhJqj"
-        }
-      ],
-      "duration_ms": 153901,
-      "name": "Bonny",
-      "url": "https://open.spotify.com/track/38Af6mSvET1v7XXpE4C21S"
-    },
-    {
       "added_at": "2026-07-10 04:02:00",
       "album": {
         "name": "Loveland",
@@ -823,70 +887,6 @@
       "duration_ms": 171392,
       "name": "its not about me!",
       "url": "https://open.spotify.com/track/02UI5paChJe2PHsi0nikly"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "Song for the Messenger",
-        "url": "https://open.spotify.com/album/5qp010KtWhsUNURCNH8o1c"
-      },
-      "artists": [
-        {
-          "name": "Chanel Beads",
-          "url": "https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL"
-        }
-      ],
-      "duration_ms": 182880,
-      "name": "Song for the Messenger",
-      "url": "https://open.spotify.com/track/1Ap75Wv20tVqTA8cAJXqq3"
-    },
-    {
-      "added_at": "2026-07-10 04:02:00",
-      "album": {
-        "name": "Lima",
-        "url": "https://open.spotify.com/album/0kXzXKuBJQ7wGEoeLCwZUg"
-      },
-      "artists": [
-        {
-          "name": "James Ivy",
-          "url": "https://open.spotify.com/artist/7t8sK02zmZ9f6e6eJA9oSJ"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Lima",
-      "url": "https://open.spotify.com/track/51DYhnKExX7vqsjg7aH0tq"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "bitknot",
-        "url": "https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ"
-      },
-      "artists": [
-        {
-          "name": "feeble little horse",
-          "url": "https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8"
-        }
-      ],
-      "duration_ms": 212949,
-      "name": "Dior",
-      "url": "https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3"
-    },
-    {
-      "added_at": "2026-06-26 04:01:46",
-      "album": {
-        "name": "Autosmile",
-        "url": "https://open.spotify.com/album/0TkVOCI5fcQPt6mbFT2jil"
-      },
-      "artists": [
-        {
-          "name": "@",
-          "url": "https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3"
-        }
-      ],
-      "duration_ms": 399026,
-      "name": "Autosmile",
-      "url": "https://open.spotify.com/track/74wiS51Xagi78GpoStA7hr"
     }
   ],
   "unique_name": "Indie's Top 50",

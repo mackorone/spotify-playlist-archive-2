@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 
 > 今週も話題の新曲を最速で。 Cover: マカロニえんぴつ \*👉 <a href="https://spice.eplus.jp/articles/349031">連動記事</a>をSPICEでチェック!
 
-[Spotify](https://open.spotify.com/user/spotify) - 256,303 likes - 84 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 256,312 likes - 84 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -93,4 +93,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBDycFJuxRt.md) - [plain]
 | 83 | [feel good](https://open.spotify.com/track/7HKsvrjkErmfEerFG4P7iV) | [malord](https://open.spotify.com/artist/4PLbpe0oMcvQKf3J6MLVEp) | [feel good](https://open.spotify.com/album/2mYBx4nDLsUTxCP0FUE6JN) | 4:58 |
 | 84 | [To feel your love](https://open.spotify.com/track/6D6lt3LIKST4s4StWWi08w) | [Marter](https://open.spotify.com/artist/4BtZnNCpfbIIvPf2bNsQw1) | [To feel your love](https://open.spotify.com/album/5k7GRRGLrCPtUrneXb2MDa) | 3:57 |
 
-Snapshot ID: `AAAAAIzjVqO984VZ1zh7kWnQ+KD6Izjp`
+Snapshot ID: `AAAAAK+MDDHspeChDFm5DbolQ08d14iR`

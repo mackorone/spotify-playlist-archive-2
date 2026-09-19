@@ -1,12 +1,12 @@
 {
   "description": "Your ultimate gym playlist featuring upbeat Marathi tracks.",
-  "num_followers": 39192,
+  "num_followers": 39200,
   "original_name": "Marathi Workout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADVG8eNDp96SVPfUaRgR84DfFDh6",
+  "snapshot_id": "AAAAAG6svX2is6ku7sHgfOGTa2PkGKLQ",
   "tracks": [
     {
       "added_at": "2026-08-04 09:03:36",
@@ -283,6 +283,22 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
+        "name": "Koliwada Jhingla",
+        "url": "https://open.spotify.com/album/6MApVLobvbC1PzRIVkouUo"
+      },
+      "artists": [
+        {
+          "name": "Siddhi Ture",
+          "url": "https://open.spotify.com/artist/5wesFSpvU7ZDe0pnXFziA1"
+        }
+      ],
+      "duration_ms": 227606,
+      "name": "Koliwada Jhingla",
+      "url": "https://open.spotify.com/track/3lhpuZdgqKdcX0WocldP8e"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
         "name": "Angaat Aalaya - Zombivli",
         "url": "https://open.spotify.com/album/5GJgMooWCCoTVFJ4TOyIkx"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 226008,
       "name": "Angaat Aalaya",
       "url": "https://open.spotify.com/track/3CdyqQCvlKJLVr9II5XIDT"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
-        "name": "Koliwada Jhingla",
-        "url": "https://open.spotify.com/album/6MApVLobvbC1PzRIVkouUo"
-      },
-      "artists": [
-        {
-          "name": "Siddhi Ture",
-          "url": "https://open.spotify.com/artist/5wesFSpvU7ZDe0pnXFziA1"
-        }
-      ],
-      "duration_ms": 227606,
-      "name": "Koliwada Jhingla",
-      "url": "https://open.spotify.com/track/3lhpuZdgqKdcX0WocldP8e"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -707,22 +707,6 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
-      },
-      "artists": [
-        {
-          "name": "Ajay Gogavale",
-          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
-        }
-      ],
-      "duration_ms": 305805,
-      "name": "Mauli Mauli",
-      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
         "name": "Majhi Navri",
         "url": "https://open.spotify.com/album/37mQ476fRfiAiBl2cW1LbT"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 240000,
       "name": "Majhi Navri",
       "url": "https://open.spotify.com/track/35h2x2FdA82bUs90mP8S7Q"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Lai Bhari (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/63X8oYDqhvjJyfVDy4SiSX"
+      },
+      "artists": [
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        }
+      ],
+      "duration_ms": 305805,
+      "name": "Mauli Mauli",
+      "url": "https://open.spotify.com/track/2wlvvOjuDENy0b7DbdZ6Dr"
     },
     {
       "added_at": "2026-08-04 09:03:36",
@@ -827,22 +827,6 @@
     {
       "added_at": "2026-08-04 09:03:36",
       "album": {
-        "name": "Punyachi Maina",
-        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
-      },
-      "artists": [
-        {
-          "name": "Dj Abhijeet",
-          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
-        }
-      ],
-      "duration_ms": 96052,
-      "name": "Punyachi Maina",
-      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
-    },
-    {
-      "added_at": "2026-08-04 09:03:36",
-      "album": {
         "name": "Girlz",
         "url": "https://open.spotify.com/album/1EHCqmt5gz8VdhMs2HFiyd"
       },
@@ -863,6 +847,22 @@
       "duration_ms": 216166,
       "name": "Aaichya Gavat",
       "url": "https://open.spotify.com/track/6cnyrhtkM0Ula95uIQq7P0"
+    },
+    {
+      "added_at": "2026-08-04 09:03:36",
+      "album": {
+        "name": "Punyachi Maina",
+        "url": "https://open.spotify.com/album/2e5dU4YpgiWFRtNT4c3x3i"
+      },
+      "artists": [
+        {
+          "name": "Dj Abhijeet",
+          "url": "https://open.spotify.com/artist/0bYa83XUHjzRzRiQwyLgoH"
+        }
+      ],
+      "duration_ms": 96052,
+      "name": "Punyachi Maina",
+      "url": "https://open.spotify.com/track/2BE79QOSOlZm8VvgzXAS9x"
     }
   ],
   "unique_name": "Marathi Workout",

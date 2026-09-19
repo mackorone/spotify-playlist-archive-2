@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAABY86/V2bGFwvfH04Z3I9xS",
+  "snapshot_id": "aqstgAAAAAC6uh7bUAlpol38Fm44PTpc",
   "tracks": [
     {
       "added_at": null,
@@ -803,6 +803,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Bloody Win (Live)",
+        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
+      },
+      "artists": [
+        {
+          "name": "Tye Tribbett",
+          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
+        },
+        {
+          "name": "Lena Byrd-Miles",
+          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
+        }
+      ],
+      "duration_ms": 509186,
+      "name": "Out Of Hiding / How He Loves / Good Good Father - Medley/Live",
+      "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Thy Kingdom Come",
         "url": "https://open.spotify.com/album/5QCeH56vGJQQntZ5dupCon"
       },
@@ -823,26 +843,6 @@
       "duration_ms": 278952,
       "name": "Most High",
       "url": "https://open.spotify.com/track/6QA4FqB7HkiYoeJ5RvhfWq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Bloody Win (Live)",
-        "url": "https://open.spotify.com/album/4LJMZurhpJDxopsPlwQvqk"
-      },
-      "artists": [
-        {
-          "name": "Tye Tribbett",
-          "url": "https://open.spotify.com/artist/1xy9x7h2jKEg8iG22Sml32"
-        },
-        {
-          "name": "Lena Byrd-Miles",
-          "url": "https://open.spotify.com/artist/02dokIaBFwqSfAFyU8xWWZ"
-        }
-      ],
-      "duration_ms": 509186,
-      "name": "Out Of Hiding / How He Loves / Good Good Father - Medley/Live",
-      "url": "https://open.spotify.com/track/5LV9XOXzoyYmNnKPVH9wBv"
     },
     {
       "added_at": null,

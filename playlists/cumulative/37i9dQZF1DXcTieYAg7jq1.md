@@ -4,7 +4,7 @@
 
 > Featuring that new vintage\. Cover: Frank Mastra
 
-597 songs - 1 day 9 hr 41 min
+599 songs - 1 day 9 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,7 +62,7 @@
 | [Blind in Love](https://open.spotify.com/track/0rjoewFohsVztU43hybG2Y) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Blind in Love](https://open.spotify.com/album/4XFHV45wr4tm0HldVDCTKQ) | 3:08 | 2025-10-10 | 2026-04-25 |
 | [Bloom](https://open.spotify.com/track/67q72wEUwXTEj5fHlC2hT8) | [Big Stuff](https://open.spotify.com/artist/5hVGTwuOK7snm9spr45QS3) | [Bloom](https://open.spotify.com/album/7wLp5QkiaGmHzKonmlBa3c) | 3:16 | 2022-03-11 | 2023-11-11 |
 | [Blow My Cover](https://open.spotify.com/track/0ZVZ0htiIF0MaoczqT0zFV) | [Ansley Stewart](https://open.spotify.com/artist/5vhTunGtLVYEAvjIOurNxS), [Pat Van Dyke](https://open.spotify.com/artist/1yaeIrccwZJISDyXmizfZZ) | [Blow My Cover](https://open.spotify.com/album/2QuIiA2eDdeGCa2HWXpGOW) | 3:45 | 2022-02-25 | 2023-08-05 |
-| [Blue](https://open.spotify.com/track/7jzAGxJ1mdurwfeWFZYi1B) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Blue](https://open.spotify.com/album/7dABaHFKjSJoVKRBHHpL9u) | 3:49 | 2026-02-13 |  |
+| [Blue](https://open.spotify.com/track/7jzAGxJ1mdurwfeWFZYi1B) | [Mae Stephens](https://open.spotify.com/artist/311uEW9rt5g2NmzjGEKS2E) | [Blue](https://open.spotify.com/album/7dABaHFKjSJoVKRBHHpL9u) | 3:49 | 2026-02-13 | 2026-09-19 |
 | [Bored](https://open.spotify.com/track/2SPbioo65CuUB3H0aW1ID5) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Bewitched: The Goddess Edition](https://open.spotify.com/album/1hmlhl74JfLyUqmqtCwvFb) | 3:33 | 2024-04-26 | 2025-04-05 |
 | [BORN BLUE \(THE SONG\)](https://open.spotify.com/track/4UWtyESSkgFuLL7JU6YsdX) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [BORN BLUE \(THE SONG\)](https://open.spotify.com/album/7J3K7vYvEDFCQbhpCXdECr) | 3:30 | 2026-06-26 |  |
 | [Brand New Nowhere](https://open.spotify.com/track/0pznRgpmNQXRZYCG6uYhNP) | [Mandy Moore](https://open.spotify.com/artist/2LJxr7Pt3JnP60eLxwbDOu) | [In Real Life](https://open.spotify.com/album/5ryM91OiM0t4owAR1MHIoK) | 3:17 | 2022-05-13 | 2025-03-29 |
@@ -148,6 +148,7 @@
 | [Eat Your Young](https://open.spotify.com/track/2Jw3VjB1xy5KHBqEeAC6VK) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/1GOa0Bsm7eeVIJglLcoLWX) | 4:02 | 2023-03-17 | 2023-08-21 |
 | [Eat Your Young](https://open.spotify.com/track/6PkxSIt2TYLMFa8ybyngVP) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Eat Your Young](https://open.spotify.com/album/5mS9VJU9Lv7YfQtu6bqKmt) | 4:02 | 2023-03-17 | 2025-10-11 |
 | [Eat Your Young](https://open.spotify.com/track/2SXx7Ofa79CeJfio98aJcG) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unreal Unearth](https://open.spotify.com/album/3gF9KIynrJaC80HbVayPMx) | 4:03 | 2023-03-17 | 2024-04-19 |
+| [Ego Talking](https://open.spotify.com/track/3XGuVdPaYpIj48GOl711bK) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Ego Talking](https://open.spotify.com/album/5sW4mHXlHqny4w0d7ylyUi) | 2:55 | 2026-09-18 |  |
 | [end credits](https://open.spotify.com/track/4IEGZYUSKkgWMy8vpp1Z7H) | [Sarah Kang](https://open.spotify.com/artist/0MBNzfGHTiPYag4DupDXUj) | [end credits](https://open.spotify.com/album/6ZgbXMymYOnmGTTgFcnmy2) | 4:08 | 2022-09-30 | 2023-05-27 |
 | [Euphoria](https://open.spotify.com/track/5B5TkWpRVYbwTalK5wmlif) | [Talia Rae](https://open.spotify.com/artist/4v6p8rTvDtYbnoegKY3mqr) | [Euphoria](https://open.spotify.com/album/0XsXNu1alb2oWNzN96sDpW) | 3:32 | 2026-03-20 |  |
 | [Every Day and Every Night](https://open.spotify.com/track/18WMlv400ZLzVuW33m8CGN) | [WILSN](https://open.spotify.com/artist/2ymjQZjPQe0pziQ67Y8Ncr) | [Those Days Are Over](https://open.spotify.com/album/08gZ1W70cqDTkOX5TsUZBf) | 2:54 | 2023-02-03 | 2025-09-20 |
@@ -210,7 +211,7 @@
 | [Hangin' On](https://open.spotify.com/track/1XUj9ehEJkBCRqoBL0nOJw) | [Frank Mastra](https://open.spotify.com/artist/4nCpBgm1OfE0FUMlUlqOwv) | [Hangin' On](https://open.spotify.com/album/4SSvXp6ipfftH9Kg2haxo9) | 3:31 | 2026-07-21 | 2026-08-28 |
 | [HAPPY FOR YOU](https://open.spotify.com/track/77LUIy19BGRJWjVsXnX7ee) | [RIVER](https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV) | [HAPPY FOR YOU](https://open.spotify.com/album/1xcp0GpRqjGpgnjRVFjeKW) | 3:06 | 2023-03-03 | 2023-09-02 |
 | [Hard Days Love](https://open.spotify.com/track/4OHWSZO1Y2tfE1i1jkQRcO) | [Lily Moore](https://open.spotify.com/artist/1SQeTDXO492WB6aFvrntSS) | [Hard Days Love](https://open.spotify.com/album/7cnKO4UgV9NnJz098ZlG4X) | 3:43 | 2023-01-20 | 2023-09-02 |
-| [Hate to Be the One](https://open.spotify.com/track/6JiUEyUcZ1C9FnNAfO4UIZ) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Hate to Be the One](https://open.spotify.com/album/3D1D6EStEZHBBxevQ9epWK) | 3:29 | 2026-04-17 |  |
+| [Hate to Be the One](https://open.spotify.com/track/6JiUEyUcZ1C9FnNAfO4UIZ) | [Izzy Escobar](https://open.spotify.com/artist/63iuP8EumHpqaaMKyi0pxO) | [Hate to Be the One](https://open.spotify.com/album/3D1D6EStEZHBBxevQ9epWK) | 3:29 | 2026-04-17 | 2026-09-19 |
 | [Hear Me Now](https://open.spotify.com/track/5cXcykFgbrLw1nwpSYjVJF) | [Zinadelphia](https://open.spotify.com/artist/2bTnGGWvuVQsMVyg31rmum) | [Lucky](https://open.spotify.com/album/7BXf5VfNpYVYHMc4bz0tzo) | 3:44 | 2023-09-01 | 2023-10-07 |
 | [Hello](https://open.spotify.com/track/1H4fnvmxwS2CoJMrZu44mb) | [Albert Posis](https://open.spotify.com/artist/4bNOdxc26omK0xR7FPucJn) | [Hello](https://open.spotify.com/album/7jRUkMkhGxRbXklc8SbPKd) | 3:30 | 2023-08-25 | 2025-08-16 |
 | [Hello Love \- Edit](https://open.spotify.com/track/1tpcELwRo7bxRfCr0xspqy) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Hello Love \(Edit\)](https://open.spotify.com/album/0OAyBoFCVvjg4s4UPLZOip) | 3:07 | 2023-10-27 | 2026-02-14 |
@@ -369,6 +370,7 @@
 | [My Game](https://open.spotify.com/track/7yAXpAYFiPqKzyi86xXbLQ) | [Zella Day](https://open.spotify.com/artist/100sLnojEpcadRx4edEBA6) | [My Game](https://open.spotify.com/album/6GLUWw271MCvjhDcp7sd31) | 3:30 | 2021-12-03 | 2022-04-18 |
 | [My Love](https://open.spotify.com/track/1EQzwySOz9MxpbPIhzj5Mh) | [Caitlin Byk](https://open.spotify.com/artist/7HYi0cSMn8CBtilz99bXin) | [My Love](https://open.spotify.com/album/2KTiBISlejXB7O09ct1Uga) | 4:08 | 2026-08-14 |  |
 | [My Tragic Love Story](https://open.spotify.com/track/6fIkgdMrq2OzoHKcpEYO8z) | [Olivia C\. Dacal](https://open.spotify.com/artist/5UQMb52W2mfhkLJSJUzRAa) | [My Tragic Love Story](https://open.spotify.com/album/7gBAcyjxQLSIWvfgha6KYx) | 3:18 | 2026-06-26 |  |
+| [N.Y\. Baby \(feat\. Holly Walker, Say She She & Flavor Flav\)](https://open.spotify.com/track/5iHA1i9I8qzF0MQBPvpufe) | [Blu DeTiger](https://open.spotify.com/artist/5NyCIBCeU080ynEj33S4hC), [Holly Walker](https://open.spotify.com/artist/5vssQp6TyMHsx4mihKVAsC), [Flavor Flav](https://open.spotify.com/artist/7Bzd9B4YO9HFqNVM2P7MPX), [Say She She](https://open.spotify.com/artist/1WGb8nCPGJA0RyriSDIQfC) | [N.Y\. Baby \(feat\. Holly Walker, Say She She & Flavor Flav\)](https://open.spotify.com/album/6jjq0NYdzpneBQR6vzwFwN) | 3:40 | 2026-09-18 |  |
 | [Naturally](https://open.spotify.com/track/1Mny3onDz12YDgSUXkGfET) | [Nectar Woode](https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK) | [Naturally](https://open.spotify.com/album/7gJC1w5cF7GQXBzTal3XTQ) | 2:31 | 2026-04-10 |  |
 | [New](https://open.spotify.com/track/1Pd2lKVz2idFMh67ACJJ0q) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [Lauren Daigle](https://open.spotify.com/album/2XzIFrXnYFapaT2sNJ1LQQ) | 2:56 | 2023-04-28 | 2024-04-19 |
 | [New](https://open.spotify.com/track/2wWdhjrpJubT4WsxqNgsOf) | [Lauren Daigle](https://open.spotify.com/artist/40LHVA5BTQp9RxHOQ9JPYj) | [New](https://open.spotify.com/album/658wAowCbIm9PT2VxUbYrs) | 2:56 | 2023-04-28 | 2025-09-06 |

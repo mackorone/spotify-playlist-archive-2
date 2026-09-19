@@ -4,7 +4,7 @@
 
 > lass mal den herbst romantisieren
 
-381 songs - 21 hr 19 min
+381 songs - 21 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -276,6 +276,7 @@
 | [Say Yes To Heaven](https://open.spotify.com/track/6GGtHZgBycCgGBUhZo81xe) | [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Say Yes To Heaven](https://open.spotify.com/album/6jVg0POvGYH1Pt6lISl3ok) | 3:29 | 2023-07-26 |  |
 | [Schmetterlinge](https://open.spotify.com/track/3f4IvFmig584KELtNSXKaj) | [Kayla Shyx](https://open.spotify.com/artist/37NnQM5PCvTKYI1MIWiNx8) | [Schmetterlinge](https://open.spotify.com/album/1IxFrxur96BYfoQpZbhGMd) | 3:04 | 2025-04-25 | 2025-05-25 |
 | [september lightning](https://open.spotify.com/track/3AblXPVtQlTdXMU2Lo5rf8) | [Humble the Great](https://open.spotify.com/artist/2mt0DSoD1Lc8halPyRTVHP), [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [i don't mind floating](https://open.spotify.com/album/5mlKipIxPBzS0TYCdTSOO0) | 2:54 | 2024-10-18 | 2025-03-15 |
+| [seven days a week](https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [everything in between](https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO) | 3:33 | 2026-09-17 |  |
 | [she goes](https://open.spotify.com/track/0GLKC3ieDZFiR9URpN4D4m) | [zeck](https://open.spotify.com/artist/2Brk4G18TPI8kgR3fG8agO) | [she goes](https://open.spotify.com/album/0o8YSDMiDS6ecft4YS1122) | 3:09 | 2023-07-26 | 2026-03-27 |
 | [SHIVER](https://open.spotify.com/track/4ggoW4LKonBMecWMS1VDlK) | [Brenn!](https://open.spotify.com/artist/74slMAMk8L6oMf6OhNyZ8Q) | [SHIVER](https://open.spotify.com/album/3MwbiuKnRS79mDoQjjyA8H) | 3:30 | 2026-05-07 | 2026-06-19 |
 | [Shiver](https://open.spotify.com/track/2hwAADrapspxkmLsZzvqIv) | [Hope Tala](https://open.spotify.com/artist/74CcYmmNeHKe5PrZaISk8e) | [Shiver](https://open.spotify.com/album/7qTUcbVpWzLQdX2OrlwEda) | 3:25 | 2024-11-09 | 2024-11-15 |
@@ -351,7 +352,6 @@
 | [Told You So](https://open.spotify.com/track/7v94i6EcwKfSch4uplaQqv) | [SUPER\-Hi](https://open.spotify.com/artist/2lJ6K4PTrrweXhRiqh1CZE) | [Told You So](https://open.spotify.com/album/5DT3I8xDobo6h66iHSLfMj) | 3:04 | 2023-07-26 | 2025-09-26 |
 | [tonight](https://open.spotify.com/track/5ekn0rTXRpR5M99v64inDc) | [BEACHPEOPLE](https://open.spotify.com/artist/3OXpCq0ndnIgWu13LKBEba) | [tonight](https://open.spotify.com/album/4kGymfdDrK06vKDsmc30fQ) | 2:44 | 2023-07-26 |  |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-09 | 2025-04-26 |
-| [Track 5](https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [everything in between](https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO) | 0:00 | 2026-09-17 |  |
 | [Trade it for the Night](https://open.spotify.com/track/5eTeLVyJv5PT9SVFuOmycc) | [HAEVN](https://open.spotify.com/artist/65Tmt9uAPTYGl1ZhsOeEJ6) | [Trade it for the Night](https://open.spotify.com/album/1TUyTfzAhejrdz4I4pymgp) | 4:50 | 2023-07-26 | 2024-06-27 |
 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 | 2026-07-23 |  |
 | [Trust Myself](https://open.spotify.com/track/0P8hP2O5hEVdAvnr0q2c8q) | [Katelyn Tarver](https://open.spotify.com/artist/6i8Tae6takoQos2JZ4vdRn) | [Tell Me How You Really Feel](https://open.spotify.com/album/68VnJqtwbk7vmAuyYYsiZa) | 3:03 | 2026-03-05 | 2026-05-15 |

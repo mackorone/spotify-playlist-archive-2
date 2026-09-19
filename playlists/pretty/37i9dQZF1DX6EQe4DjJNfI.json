@@ -1,12 +1,12 @@
 {
   "description": "O R&B com tempero e gostinho brasileiro para voc\u00ea ouvir. Foto: THAMI, Luedji Luna",
-  "num_followers": 191784,
+  "num_followers": 191793,
   "original_name": "R&B Brasil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGMpQJaoBY5Ng8qFJoRjgYPmAiOb",
+  "snapshot_id": "AAAAAFYxQZ4+57btUXSeWIPkvy/AKWsi",
   "tracks": [
     {
       "added_at": "2026-09-10 03:01:31",
@@ -771,26 +771,6 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
-        "name": "Busco Romance Love Show (Deluxe)",
-        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
-      },
-      "artists": [
-        {
-          "name": "Luccas Carlos",
-          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
-        },
-        {
-          "name": "Nave",
-          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
-        }
-      ],
-      "duration_ms": 159616,
-      "name": "NEON",
-      "url": "https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
         "name": "Cris\u00e1lida",
         "url": "https://open.spotify.com/album/4rUZOCrDhLJGQlnnNRZ8fe"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 134571,
       "name": "Al\u00f4? \u00c9 Voc\u00ea",
       "url": "https://open.spotify.com/track/5sJ0E8Y3W4P1ko7ivdRmcW"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
+        "name": "Busco Romance Love Show (Deluxe)",
+        "url": "https://open.spotify.com/album/2MuKbqIe2pEwetQGBMUgkT"
+      },
+      "artists": [
+        {
+          "name": "Luccas Carlos",
+          "url": "https://open.spotify.com/artist/5WFFFHVqeVk5tLuYh2KjQy"
+        },
+        {
+          "name": "Nave",
+          "url": "https://open.spotify.com/artist/2Xpiwporhsl8LXdC96Xs8J"
+        }
+      ],
+      "duration_ms": 159616,
+      "name": "NEON",
+      "url": "https://open.spotify.com/track/74kTrpeeUOLOclJfZLub4n"
     },
     {
       "added_at": "2026-09-10 03:01:31",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
+        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
+        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
+      },
+      "artists": [
+        {
+          "name": "Chris MC",
+          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
+        }
+      ],
+      "duration_ms": 152678,
+      "name": "Anjo",
+      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
         "name": "SEM AR//CAOS",
         "url": "https://open.spotify.com/album/2x3AutqIh3CMYwiC3A1ZQl"
       },
@@ -975,22 +991,6 @@
       "duration_ms": 160000,
       "name": "SEM AR",
       "url": "https://open.spotify.com/track/1aqyJwn9vx6WMV6h8RfhM9"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
-        "name": "Decep\u00e7\u00f5es de Algu\u00e9m que Ama",
-        "url": "https://open.spotify.com/album/2RDf0PNeCFoaFcGu7MSmUk"
-      },
-      "artists": [
-        {
-          "name": "Chris MC",
-          "url": "https://open.spotify.com/artist/0obu7Om4zu9ahul5DI4JtY"
-        }
-      ],
-      "duration_ms": 152678,
-      "name": "Anjo",
-      "url": "https://open.spotify.com/track/4AFsCIYOqkVtmcmaz3CqPr"
     },
     {
       "added_at": "2026-09-10 03:01:31",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
-        "name": "FORA DA LEI",
-        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
-      },
-      "artists": [
-        {
-          "name": "BIAB",
-          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
-        }
-      ],
-      "duration_ms": 186396,
-      "name": "FORA DA LEI",
-      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
         "name": "N\u00c3O VOU PARAR",
         "url": "https://open.spotify.com/album/0drLMm4wYVMOZBl3kp0QrB"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 145237,
       "name": "N\u00c3O VOU PARAR",
       "url": "https://open.spotify.com/track/4alEl0SGua9H6t5waKGwyd"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
+        "name": "FORA DA LEI",
+        "url": "https://open.spotify.com/album/2cV1oGBot85ZGwuTqOVz2E"
+      },
+      "artists": [
+        {
+          "name": "BIAB",
+          "url": "https://open.spotify.com/artist/3bPBp07Uj7QylER7i6VOuF"
+        }
+      ],
+      "duration_ms": 186396,
+      "name": "FORA DA LEI",
+      "url": "https://open.spotify.com/track/5icVJ94721IikUq0hEDvnv"
     },
     {
       "added_at": "2026-09-10 03:01:31",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2026-09-10 03:01:31",
       "album": {
-        "name": "TRATO",
-        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
-      },
-      "artists": [
-        {
-          "name": "Magyn",
-          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
-        }
-      ],
-      "duration_ms": 149610,
-      "name": "TRATO",
-      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
-    },
-    {
-      "added_at": "2026-09-10 03:01:31",
-      "album": {
         "name": "Se For Com Voc\u00ea",
         "url": "https://open.spotify.com/album/4jAsY6ILLnhixhthDLRXay"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 170191,
       "name": "Se For Com Voc\u00ea",
       "url": "https://open.spotify.com/track/0R3UF9P83s8P6DR9lOnfuE"
+    },
+    {
+      "added_at": "2026-09-10 03:01:31",
+      "album": {
+        "name": "TRATO",
+        "url": "https://open.spotify.com/album/7mHxkuHr9ymMDapBPOHRJO"
+      },
+      "artists": [
+        {
+          "name": "Magyn",
+          "url": "https://open.spotify.com/artist/4WQ90yZHNwvRHZSWCG5dpU"
+        }
+      ],
+      "duration_ms": 149610,
+      "name": "TRATO",
+      "url": "https://open.spotify.com/track/1usu3xnDdqPIuAsUm8HsPl"
     },
     {
       "added_at": "2026-09-10 03:01:31",

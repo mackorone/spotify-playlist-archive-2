@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-25",
-  "description": "Nieuw: Qlas, Antoon & Boef, Miley Cyrus en meer..",
+  "description": "Nieuw: Qlas, Antoon & Boef, Miley, Bankzitters & Robert van Hemert en meer..",
   "name": "New Music Friday NL",
   "tracks": [
     {
@@ -22756,6 +22756,24 @@
       "duration_ms": 211212,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/0cHUKYQRoe0dWNCMzz21yF"
+    },
+    {
+      "album": {
+        "name": "Detour (Rare N' Deluxe)",
+        "url": "https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh"
+      },
+      "artists": [
+        {
+          "name": "Kim Petras",
+          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 258083,
+      "name": "Autobahn",
+      "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV"
     },
     {
       "album": {
@@ -144001,6 +144019,24 @@
     },
     {
       "album": {
+        "name": "Crunchy, Sad and Strangely Happy",
+        "url": "https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224383,
+      "name": "I Wish I Never Met You",
+      "url": "https://open.spotify.com/track/0DZrttPj3g3XEyiTTRnLZd"
+    },
+    {
+      "album": {
         "name": "I Wish You Well",
         "url": "https://open.spotify.com/album/3LvKwWsV65kw0zBuNaChoA"
       },
@@ -178141,6 +178177,28 @@
     },
     {
       "album": {
+        "name": "LITE (feat. Belly Gang Kushington)",
+        "url": "https://open.spotify.com/album/2R1Ux79J3M5N1T8QnPTdf7"
+      },
+      "artists": [
+        {
+          "name": "BigXthaPlug",
+          "url": "https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I"
+        },
+        {
+          "name": "Belly Gang Kushington",
+          "url": "https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178333,
+      "name": "LITE (feat. Belly Gang Kushington)",
+      "url": "https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq"
+    },
+    {
+      "album": {
         "name": "Lithonia",
         "url": "https://open.spotify.com/album/1hfI7lik7Q3ENibeUxfsf3"
       },
@@ -196925,6 +196983,28 @@
     },
     {
       "album": {
+        "name": "COCOON",
+        "url": "https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188503,
+      "name": "MISS MY DAWG (feat. Drake)",
+      "url": "https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A"
+    },
+    {
+      "album": {
         "name": "Miss My Dogs",
         "url": "https://open.spotify.com/album/4gg4WF1614e90qTq8sDMFD"
       },
@@ -212980,6 +213060,24 @@
       "duration_ms": 155053,
       "name": "No Time To Talk",
       "url": "https://open.spotify.com/track/2qGj53vRPm0NEKGk6ymawI"
+    },
+    {
+      "album": {
+        "name": "Tarmac",
+        "url": "https://open.spotify.com/album/4gmyQfu8sHmPu0vOnxPN7Y"
+      },
+      "artists": [
+        {
+          "name": "Triggerfinger",
+          "url": "https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153083,
+      "name": "No Trouble",
+      "url": "https://open.spotify.com/track/7r8om0E8jH8sxyZ0pLzG38"
     },
     {
       "album": {
@@ -307754,60 +307852,6 @@
       "duration_ms": 194395,
       "name": "Tra",
       "url": "https://open.spotify.com/track/5M2RXimSt8334s6eLz5ueo"
-    },
-    {
-      "album": {
-        "name": "Detour (Rare N' Deluxe)",
-        "url": "https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh"
-      },
-      "artists": [
-        {
-          "name": "Kim Petras",
-          "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 17",
-      "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV"
-    },
-    {
-      "album": {
-        "name": "Crunchy, Sad and Strangely Happy",
-        "url": "https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/0DZrttPj3g3XEyiTTRnLZd"
-    },
-    {
-      "album": {
-        "name": "Tarmac",
-        "url": "https://open.spotify.com/album/4gmyQfu8sHmPu0vOnxPN7Y"
-      },
-      "artists": [
-        {
-          "name": "Triggerfinger",
-          "url": "https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/7r8om0E8jH8sxyZ0pLzG38"
     },
     {
       "album": {

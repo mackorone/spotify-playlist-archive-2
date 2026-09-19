@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 
 > 独自の進化を遂げる日本のポップ文化。「キラキラポップ」なナンバーをひとつのプレイリストに。Curated by ふくりゅう（音楽コンシェルジュ）Cover: magicHour
 
-[Spotify](https://open.spotify.com/user/spotify) - 79,576 likes - 80 songs - 4 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 79,579 likes - 80 songs - 4 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVlypmfyCIGr.md) - [plain]
 | 79 | [現代風刺歌](https://open.spotify.com/track/3TF26daYZgssPbyogh1aoT) | [岬小次郎](https://open.spotify.com/artist/1TS8HluEBjDORs4WxNHG5Q) | [現代風刺歌](https://open.spotify.com/album/1D715Ee1xyC9QsBTwMAAEp) | 4:09 |
 | 80 | [それはジューシー](https://open.spotify.com/track/2h2piLl2sLgYl7WQtHOlIZ) | [Yuma Abe](https://open.spotify.com/artist/576rDSci8FAVAq5dIKZc7z) | [それはジューシー](https://open.spotify.com/album/79LronoW9pIfeNzRrljxWZ) | 2:51 |
 
-Snapshot ID: `AAAAADyMzA1vIizQU2RH5oICUEBguuYV`
+Snapshot ID: `AAAAAEqpnjXF9UU2KioHiUi3oD+nsANb`

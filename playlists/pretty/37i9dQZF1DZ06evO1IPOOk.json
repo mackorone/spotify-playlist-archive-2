@@ -1,12 +1,12 @@
 {
   "description": "This is Kendrick Lamar. The essential tracks, all in one playlist.",
-  "num_followers": 1922448,
+  "num_followers": 1922509,
   "original_name": "This Is Kendrick Lamar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAADl5JF0WkNSkgUe0KHHS72y",
+  "snapshot_id": "aqstgAAAAAASQ25diBCBre7Zewbj8O19",
   "tracks": [
     {
       "added_at": null,
@@ -123,22 +123,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "good kid, m.A.A.d city",
-        "url": "https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u"
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
       },
       "artists": [
         {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
         },
         {
-          "name": "Jay Rock",
-          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
         }
       ],
-      "duration_ms": 386906,
-      "name": "Money Trees",
-      "url": "https://open.spotify.com/track/74tLlkN3rgVzRqQJgPfink"
+      "duration_ms": 237250,
+      "name": "So Good (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
     },
     {
       "added_at": null,
@@ -159,22 +159,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Westside Whimsy",
-        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+        "name": "good kid, m.A.A.d city",
+        "url": "https://open.spotify.com/album/0Oq3mWfexhsjUh0aNNBB5u"
       },
       "artists": [
         {
-          "name": "Jhen\u00e9 Aiko",
-          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
-        },
-        {
           "name": "Kendrick Lamar",
           "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        },
+        {
+          "name": "Jay Rock",
+          "url": "https://open.spotify.com/artist/28ExwzUQsvgJooOI0X1mr3"
         }
       ],
-      "duration_ms": 237250,
-      "name": "So Good (feat. Kendrick Lamar)",
-      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
+      "duration_ms": 386906,
+      "name": "Money Trees",
+      "url": "https://open.spotify.com/track/74tLlkN3rgVzRqQJgPfink"
     },
     {
       "added_at": null,
@@ -771,26 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starboy",
-        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
-      },
-      "artists": [
-        {
-          "name": "The Weeknd",
-          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 231360,
-      "name": "Sidewalks",
-      "url": "https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Sun's Tirade",
         "url": "https://open.spotify.com/album/6jjX8mGrsWtrpYpFhGMrg1"
       },
@@ -811,6 +791,26 @@
       "duration_ms": 330783,
       "name": "Wat's Wrong (feat. Zacari & Kendrick Lamar)",
       "url": "https://open.spotify.com/track/2RPbEp0DyBVlkRvvYKopO7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starboy",
+        "url": "https://open.spotify.com/album/2ODvWsOgouMbaA5xf0RkJe"
+      },
+      "artists": [
+        {
+          "name": "The Weeknd",
+          "url": "https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 231360,
+      "name": "Sidewalks",
+      "url": "https://open.spotify.com/track/4h90qkbnW1Qq6pBhoPvwko"
     },
     {
       "added_at": null,
@@ -875,6 +875,26 @@
       "duration_ms": 266072,
       "name": "Doves In The Wind (feat. Kendrick Lamar)",
       "url": "https://open.spotify.com/track/593W4qZOwwdqF6YnimJjL6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bad Blood",
+        "url": "https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE"
+      },
+      "artists": [
+        {
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "duration_ms": 200106,
+      "name": "Bad Blood",
+      "url": "https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT"
     },
     {
       "added_at": null,
@@ -947,26 +967,6 @@
       "duration_ms": 216933,
       "name": "Hair Down",
       "url": "https://open.spotify.com/track/2jrXrZdn5PoPsMw9W0T5sn"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bad Blood",
-        "url": "https://open.spotify.com/album/1Tv3rrFNdXGtTeP1plX2xE"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Kendrick Lamar",
-          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
-        }
-      ],
-      "duration_ms": 200106,
-      "name": "Bad Blood",
-      "url": "https://open.spotify.com/track/6xsEAm6w9oMQYYg3jkEkMT"
     },
     {
       "added_at": null,

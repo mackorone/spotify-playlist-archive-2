@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: MUNA",
+  "description": "Left of center indie/alternative/rock LGBTQIA+ artists. Cover: Caroline Rose",
   "name": "Alternative Pride",
   "tracks": [
     {
@@ -1925,6 +1925,24 @@
     },
     {
       "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/4KgHvvtfb8DxKJxV36gNXb"
+      },
+      "artists": [
+        {
+          "name": "Caroline Rose",
+          "url": "https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206569,
+      "name": "Hello Again, Jim",
+      "url": "https://open.spotify.com/track/4WA9XCYWwlfSZesVC2TdLy"
+    },
+    {
+      "album": {
         "name": "The Power",
         "url": "https://open.spotify.com/album/18p9w3i4FrHnbJVteUocya"
       },
@@ -3131,6 +3149,24 @@
     },
     {
       "album": {
+        "name": "MOSH\u2605PIT",
+        "url": "https://open.spotify.com/album/6ISPvXakmNusQEkPVseqIg"
+      },
+      "artists": [
+        {
+          "name": "MARIS",
+          "url": "https://open.spotify.com/artist/4s4sHVaj6CRcClZ7SFSKzE"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204663,
+      "name": "Nothing To Do (nananananana)",
+      "url": "https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5"
+    },
+    {
+      "album": {
         "name": "Saves The World",
         "url": "https://open.spotify.com/album/5ZpSRd3GwvEGrD7kWn0fHz"
       },
@@ -4026,7 +4062,7 @@
       ],
       "date_added": "2024-06-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 224840,
       "name": "Say It Like You Mean It",
       "url": "https://open.spotify.com/track/2EgYIE84KYjf52Sw2WW4x4"
@@ -4654,7 +4690,7 @@
       ],
       "date_added": "2023-06-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 278998,
       "name": "sulky baby",
       "url": "https://open.spotify.com/track/3GnahtjoeFUWAu6vEYQnzH"

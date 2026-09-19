@@ -1,13 +1,345 @@
 {
   "description": "Check out our latest Cargo digital distributed tracks! Updated weekly",
-  "num_followers": 641,
+  "num_followers": 642,
   "original_name": "Cargo Independent Distribution New Release Playlist",
   "owner": {
     "name": "Cargo Independent Distribution",
     "url": "https://open.spotify.com/user/cargorecords"
   },
-  "snapshot_id": "AABN/EvGb0Y/JXEU9HDMQr5J3fMCwrnf",
+  "snapshot_id": "AABOHvXUQdOgFqD5QdpE/MKktANpG7gn",
   "tracks": [
+    {
+      "added_at": "2026-09-18 05:51:45",
+      "album": {
+        "name": "Have a few days off",
+        "url": "https://open.spotify.com/album/11PubMyNVBm1RYpNwfWjbo"
+      },
+      "artists": [
+        {
+          "name": "K-Lone",
+          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
+        }
+      ],
+      "duration_ms": 463102,
+      "name": "Have a few days off",
+      "url": "https://open.spotify.com/track/0cUCoebnvr0JbxZ2ePhKSp"
+    },
+    {
+      "added_at": "2026-09-18 05:54:17",
+      "album": {
+        "name": "GET UP HO!!!!!!!!! (westside boogi rework)",
+        "url": "https://open.spotify.com/album/303nEysmuV8M8abwUjRFMj"
+      },
+      "artists": [
+        {
+          "name": "Traxman",
+          "url": "https://open.spotify.com/artist/0KyFKunOclAI5jah1T55lh"
+        }
+      ],
+      "duration_ms": 220441,
+      "name": "GET UP HO!!!!!!!!! - westside boogi rework",
+      "url": "https://open.spotify.com/track/4F6XbtTeDvX873ZAnh6iNq"
+    },
+    {
+      "added_at": "2026-09-18 05:56:06",
+      "album": {
+        "name": "Eyes See What The Camera Cannot Feel",
+        "url": "https://open.spotify.com/album/0y70300lh7s7yv74KHhi0s"
+      },
+      "artists": [
+        {
+          "name": "Saint Abdullah",
+          "url": "https://open.spotify.com/artist/4etazEwJ5tHdjhCyFihuIP"
+        },
+        {
+          "name": "Eomac",
+          "url": "https://open.spotify.com/artist/6J30Iyy8uZbhTzepsSs5yJ"
+        }
+      ],
+      "duration_ms": 153383,
+      "name": "Eyes See What The Camera Cannot Feel",
+      "url": "https://open.spotify.com/track/1JpridjoqmxHP34klfTaLv"
+    },
+    {
+      "added_at": "2026-09-18 05:59:00",
+      "album": {
+        "name": "7ilween",
+        "url": "https://open.spotify.com/album/2z00wjU6AC7nJAcL8Wo0Vm"
+      },
+      "artists": [
+        {
+          "name": "Fatima Al Qadiri",
+          "url": "https://open.spotify.com/artist/1pfunEyqsC4oKSBY9gr8lN"
+        },
+        {
+          "name": "Bobo Secret",
+          "url": "https://open.spotify.com/artist/27pAgy0Wr5PBuFd8uvbe6k"
+        },
+        {
+          "name": "Lama3an",
+          "url": "https://open.spotify.com/artist/4NcB358IJGDU0ouRJkKOgN"
+        }
+      ],
+      "duration_ms": 249493,
+      "name": "7ilween",
+      "url": "https://open.spotify.com/track/2iPdSlshxiljR70f6lwNBg"
+    },
+    {
+      "added_at": "2026-09-18 05:53:21",
+      "album": {
+        "name": "Remain Obscure",
+        "url": "https://open.spotify.com/album/1YHTZGVgQ4Qndgx4KFJI7p"
+      },
+      "artists": [
+        {
+          "name": "The Van Pelt",
+          "url": "https://open.spotify.com/artist/3EhFI2URDazN3fp9PqHLrt"
+        }
+      ],
+      "duration_ms": 235470,
+      "name": "City of Dead Ends",
+      "url": "https://open.spotify.com/track/73LZfOjjQ6TtKXmaadUALX"
+    },
+    {
+      "added_at": "2026-09-18 05:55:53",
+      "album": {
+        "name": "Dig",
+        "url": "https://open.spotify.com/album/6GmVcOAsVNKMfeAYZgHJa6"
+      },
+      "artists": [
+        {
+          "name": "Sennen",
+          "url": "https://open.spotify.com/artist/4Oj3M6yChNMnrXHAa5uWxa"
+        }
+      ],
+      "duration_ms": 252106,
+      "name": "Dig",
+      "url": "https://open.spotify.com/track/0DZIY3sLxBnHC7rF8rVSDv"
+    },
+    {
+      "added_at": "2026-09-18 05:36:55",
+      "album": {
+        "name": "The Treatment of Fractures",
+        "url": "https://open.spotify.com/album/1jtCwrrJSj2714TS7RtLeR"
+      },
+      "artists": [
+        {
+          "name": "M. Woodroe",
+          "url": "https://open.spotify.com/artist/3XcaCcJ4MSkEPSQNd54qN7"
+        }
+      ],
+      "duration_ms": 314062,
+      "name": "Statue",
+      "url": "https://open.spotify.com/track/1j1453FwhwDQXA18lMyQqL"
+    },
+    {
+      "added_at": "2026-09-18 05:58:09",
+      "album": {
+        "name": "Abandoned Village",
+        "url": "https://open.spotify.com/album/0Zj0x1VpXCqxpjlm8GC8nD"
+      },
+      "artists": [
+        {
+          "name": "Laura Cannell",
+          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
+        }
+      ],
+      "duration_ms": 187242,
+      "name": "Abandoned Village",
+      "url": "https://open.spotify.com/track/3wNsRL5Olq0EtRqMTCyv5q"
+    },
+    {
+      "added_at": "2026-09-18 05:58:26",
+      "album": {
+        "name": "Mantra",
+        "url": "https://open.spotify.com/album/70OHjuGa9Vq2ewmDuKa2a6"
+      },
+      "artists": [
+        {
+          "name": "Flowers Must Die",
+          "url": "https://open.spotify.com/artist/27P1oHX79UqesBdT17z28I"
+        }
+      ],
+      "duration_ms": 370093,
+      "name": "Mantra",
+      "url": "https://open.spotify.com/track/2GQ9dqOQhJ9PO6Bwxzp9iZ"
+    },
+    {
+      "added_at": "2026-09-18 05:37:08",
+      "album": {
+        "name": "Two Steps At A Time",
+        "url": "https://open.spotify.com/album/7ErfLvMM3sY2zWqyzaElko"
+      },
+      "artists": [
+        {
+          "name": "Railcard",
+          "url": "https://open.spotify.com/artist/1h7YejqHI5OfMCS6fcRbEr"
+        }
+      ],
+      "duration_ms": 228771,
+      "name": "Flannelette",
+      "url": "https://open.spotify.com/track/5fhAHRGYMcggLkdAxEoHKb"
+    },
+    {
+      "added_at": "2026-09-18 05:51:26",
+      "album": {
+        "name": "Pressure Chords",
+        "url": "https://open.spotify.com/album/3NV5pKo46vMtd96he7ocea"
+      },
+      "artists": [
+        {
+          "name": "John McCowen",
+          "url": "https://open.spotify.com/artist/27OtkPZMJ6buVqDw4aTqEw"
+        },
+        {
+          "name": "Lucy Railton",
+          "url": "https://open.spotify.com/artist/7Gqr7VNPRfacOcjlqORrq9"
+        },
+        {
+          "name": "Weston Olencki",
+          "url": "https://open.spotify.com/artist/5VltHPo6anXZzrWcquJrMR"
+        }
+      ],
+      "duration_ms": 969250,
+      "name": "Pressure Chords \u2013 A",
+      "url": "https://open.spotify.com/track/1ShyGf669vgJBo628a0yy5"
+    },
+    {
+      "added_at": "2026-09-18 05:53:47",
+      "album": {
+        "name": "Sea Fever: The Remixes",
+        "url": "https://open.spotify.com/album/3qQqiGm1VvclRBlgFnJSKj"
+      },
+      "artists": [
+        {
+          "name": "Sarah Nixey",
+          "url": "https://open.spotify.com/artist/7nzpICHWCUXx7i9TTWwPSZ"
+        },
+        {
+          "name": "Autumn Hang",
+          "url": "https://open.spotify.com/artist/0mLl8tmxw6GdKkMT99S05Y"
+        }
+      ],
+      "duration_ms": 225328,
+      "name": "Rolling Waves - Autumn Hang Remix",
+      "url": "https://open.spotify.com/track/1XJnyiNWivzYzwoSrWpDdc"
+    },
+    {
+      "added_at": "2026-09-18 05:54:03",
+      "album": {
+        "name": "Sex, Pills, BASS & Thrill",
+        "url": "https://open.spotify.com/album/0mvaSicgNR3MTNlQ9zbF0B"
+      },
+      "artists": [
+        {
+          "name": "Law D. Soul",
+          "url": "https://open.spotify.com/artist/1amO1YcfjirbdHB1eqibfC"
+        }
+      ],
+      "duration_ms": 171069,
+      "name": "Sex, Pills, BASS & Thrill (To The D.isco!)",
+      "url": "https://open.spotify.com/track/21Wb2gVfRzWe0sO5Nr4pcK"
+    },
+    {
+      "added_at": "2026-09-18 05:54:35",
+      "album": {
+        "name": "Song For Derek",
+        "url": "https://open.spotify.com/album/37HJ2y4ALU8FaXuZgUrqdk"
+      },
+      "artists": [
+        {
+          "name": "Barbican Estate",
+          "url": "https://open.spotify.com/artist/3WtysNDDHZPanheGthHRms"
+        }
+      ],
+      "duration_ms": 294186,
+      "name": "Song For Derek",
+      "url": "https://open.spotify.com/track/39jo0UPT4HmFpwffk44sV1"
+    },
+    {
+      "added_at": "2026-09-18 05:54:55",
+      "album": {
+        "name": "my people megazord",
+        "url": "https://open.spotify.com/album/6bnxXMIiNudfDdnyKJy4zo"
+      },
+      "artists": [
+        {
+          "name": "Big Flowers",
+          "url": "https://open.spotify.com/artist/0NhPSg4BoR15rey1i0orN9"
+        },
+        {
+          "name": "Ko6i",
+          "url": "https://open.spotify.com/artist/3w8OIn4VWoF12GSGnQvYez"
+        }
+      ],
+      "duration_ms": 236666,
+      "name": "my people megazord",
+      "url": "https://open.spotify.com/track/3JyO3Wy4m0uYmoYqgRh7rY"
+    },
+    {
+      "added_at": "2026-09-18 05:55:15",
+      "album": {
+        "name": "Septicity",
+        "url": "https://open.spotify.com/album/6lqowSPL2qQFrOwgq0W375"
+      },
+      "artists": [
+        {
+          "name": "Fosse Septique",
+          "url": "https://open.spotify.com/artist/5TuQN9Q4iDfNTTQqAgYcmu"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "SSSS (Septic Suppuration Sludge Saturation)",
+      "url": "https://open.spotify.com/track/3sfmlTkreMtRPx7aET9zAu"
+    },
+    {
+      "added_at": "2026-09-18 05:55:36",
+      "album": {
+        "name": "Striking Home",
+        "url": "https://open.spotify.com/album/7eItHcHxUYPabldVXbwHBH"
+      },
+      "artists": [
+        {
+          "name": "Straw Man Army",
+          "url": "https://open.spotify.com/artist/6rFhssJkbBIptBACb7mfSB"
+        }
+      ],
+      "duration_ms": 155218,
+      "name": "Striking Home",
+      "url": "https://open.spotify.com/track/3poXuFHyQ5gaa4G3hqL02u"
+    },
+    {
+      "added_at": "2026-09-18 05:57:33",
+      "album": {
+        "name": "Violence For Your Furs",
+        "url": "https://open.spotify.com/album/6er5o4gHnjXbelJNGNFqYf"
+      },
+      "artists": [
+        {
+          "name": "DRIFT.",
+          "url": "https://open.spotify.com/artist/70cGeOjh1oxWfJZlMckLIz"
+        }
+      ],
+      "duration_ms": 279279,
+      "name": "Rough Rider",
+      "url": "https://open.spotify.com/track/7CaCffZR6BAlfuVOIi770Q"
+    },
+    {
+      "added_at": "2026-09-18 05:59:33",
+      "album": {
+        "name": "V ba\u017ein\u00e1ch v\u011bdom\u00ed",
+        "url": "https://open.spotify.com/album/3cZC4RnGuobOG2fpPdWWy5"
+      },
+      "artists": [
+        {
+          "name": "Sn\u011b\u0165",
+          "url": "https://open.spotify.com/artist/3JKEwpug197mkE731B6ohK"
+        }
+      ],
+      "duration_ms": 177626,
+      "name": "D\u0159ev\u011bn\u00fd k\u016fl",
+      "url": "https://open.spotify.com/track/6PHUQDjlyvP2gD0YCcHxxD"
+    },
     {
       "added_at": "2026-09-11 15:01:42",
       "album": {
@@ -1315,450 +1647,6 @@
       "duration_ms": 545000,
       "name": "Phosphenes - claire rousay EDIT",
       "url": "https://open.spotify.com/track/1dgiMqTuhDvBgFzX0mqMK5"
-    },
-    {
-      "added_at": "2026-07-31 09:03:14",
-      "album": {
-        "name": "Holdup",
-        "url": "https://open.spotify.com/album/4cz6FvT4wuTL8aul3R7AjQ"
-      },
-      "artists": [
-        {
-          "name": "K-Lone",
-          "url": "https://open.spotify.com/artist/6VC4hWnnMMmOxpH6KsAXBU"
-        }
-      ],
-      "duration_ms": 312500,
-      "name": "Holdup",
-      "url": "https://open.spotify.com/track/7D8FvmoY7F8aGMYWWdsXic"
-    },
-    {
-      "added_at": "2026-07-31 08:54:57",
-      "album": {
-        "name": "Street Bass Tape 26 (Mixed)",
-        "url": "https://open.spotify.com/album/0cMCRPzZofqbkhER2Oro1g"
-      },
-      "artists": [
-        {
-          "name": "Starkey",
-          "url": "https://open.spotify.com/artist/1jSXmAYCaHoqt7C6t0VZdK"
-        }
-      ],
-      "duration_ms": 190855,
-      "name": "Landing Zone",
-      "url": "https://open.spotify.com/track/5IPDb3VtChvFgjkFK1acod"
-    },
-    {
-      "added_at": "2026-07-31 09:00:18",
-      "album": {
-        "name": "Here It Comes",
-        "url": "https://open.spotify.com/album/3sKe7QBx9iKWcST6N1mVgw"
-      },
-      "artists": [
-        {
-          "name": "Sennen",
-          "url": "https://open.spotify.com/artist/4Oj3M6yChNMnrXHAa5uWxa"
-        }
-      ],
-      "duration_ms": 262880,
-      "name": "Here It Comes",
-      "url": "https://open.spotify.com/track/2P60dDSdSSAgT8Y9YNCL2k"
-    },
-    {
-      "added_at": "2026-07-31 08:42:07",
-      "album": {
-        "name": "Spike",
-        "url": "https://open.spotify.com/album/1ikVgllIio0ykSGvMQ8gRc"
-      },
-      "artists": [
-        {
-          "name": "Spike",
-          "url": "https://open.spotify.com/artist/39uMUO8aGb1e8smPZBb6fd"
-        }
-      ],
-      "duration_ms": 150661,
-      "name": "Event Horizon",
-      "url": "https://open.spotify.com/track/2Bp7g3WWktwOdDoTNEMAtV"
-    },
-    {
-      "added_at": "2026-07-31 08:53:38",
-      "album": {
-        "name": "I Belong To The Band",
-        "url": "https://open.spotify.com/album/2LLI0I8DR4C8wXLbpfkQjE"
-      },
-      "artists": [
-        {
-          "name": "Abi Budgen",
-          "url": "https://open.spotify.com/artist/100hcvLMk6kIAayNDCrlGY"
-        }
-      ],
-      "duration_ms": 171573,
-      "name": "I Belong To The Band",
-      "url": "https://open.spotify.com/track/5WWOWjVgsjqIgRmxkfgLBR"
-    },
-    {
-      "added_at": "2026-07-31 08:54:31",
-      "album": {
-        "name": "Dissidente",
-        "url": "https://open.spotify.com/album/4mrmw6ilNZeyVfXVgzVorQ"
-      },
-      "artists": [
-        {
-          "name": "Agazero",
-          "url": "https://open.spotify.com/artist/3CmY3G8IVu7K8IOa5ivn4N"
-        }
-      ],
-      "duration_ms": 272727,
-      "name": "Craves Vain Attention",
-      "url": "https://open.spotify.com/track/7JjbvT4vhZJN6SedeMEU1b"
-    },
-    {
-      "added_at": "2026-07-31 09:02:24",
-      "album": {
-        "name": "Lie Down With Dogs, Stand Up With Fleas (Radio Edit)",
-        "url": "https://open.spotify.com/album/3NrHt65YbECF7GVGzzIdLi"
-      },
-      "artists": [
-        {
-          "name": "British Birds",
-          "url": "https://open.spotify.com/artist/3qeG4iaWZCauchpE2pgHfx"
-        }
-      ],
-      "duration_ms": 217363,
-      "name": "Lie Down With Dogs, Stand Up With Fleas - Radio Edit",
-      "url": "https://open.spotify.com/track/6c4ZkRkta95Xafm1dXcDPi"
-    },
-    {
-      "added_at": "2026-07-31 09:04:00",
-      "album": {
-        "name": "After Battle",
-        "url": "https://open.spotify.com/album/39pfoHka3oFIHsRP178khI"
-      },
-      "artists": [
-        {
-          "name": "Laura Cannell",
-          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
-        }
-      ],
-      "duration_ms": 200582,
-      "name": "After Battle",
-      "url": "https://open.spotify.com/track/1rxjtqI5BvTgpgsGTZeFDi"
-    },
-    {
-      "added_at": "2026-07-31 08:57:05",
-      "album": {
-        "name": "Sound Hoard 2 Jurassic Voices",
-        "url": "https://open.spotify.com/album/7scKLfigPHmG5WwEwTrdtP"
-      },
-      "artists": [
-        {
-          "name": "Laura Cannell",
-          "url": "https://open.spotify.com/artist/6vu845nbe3HOXDNYhMmZSq"
-        }
-      ],
-      "duration_ms": 174083,
-      "name": "The Cacophonous Chorus of Dawn",
-      "url": "https://open.spotify.com/track/1z5u1X3b2wdpnPzEgml4G8"
-    },
-    {
-      "added_at": "2026-07-31 09:00:52",
-      "album": {
-        "name": "Open Sea",
-        "url": "https://open.spotify.com/album/41pMpSVRBQMAxXLS2vJXyT"
-      },
-      "artists": [
-        {
-          "name": "Eye",
-          "url": "https://open.spotify.com/artist/0awe26k6bxJr78VomO32ku"
-        }
-      ],
-      "duration_ms": 367440,
-      "name": "Open Sea",
-      "url": "https://open.spotify.com/track/5dKz4SWgjD8lLrzBiDhCRh"
-    },
-    {
-      "added_at": "2026-07-31 09:05:18",
-      "album": {
-        "name": "Johnny Anti-Christ / See You in Beirut (2026 Remaster)",
-        "url": "https://open.spotify.com/album/6rGNDFZCBGBqbjZdDIysRm"
-      },
-      "artists": [
-        {
-          "name": "Scrambled Eggs",
-          "url": "https://open.spotify.com/artist/7LMaj868IbZLUCIbSOy7bF"
-        }
-      ],
-      "duration_ms": 180246,
-      "name": "Johnny Anti-Christ - 2026 Remaster",
-      "url": "https://open.spotify.com/track/4u256otpJzGW8pTnrLq3cz"
-    },
-    {
-      "added_at": "2026-07-31 09:02:46",
-      "album": {
-        "name": "Innocent Driver",
-        "url": "https://open.spotify.com/album/2QlSvj61dMZd1jLmIMAtU8"
-      },
-      "artists": [
-        {
-          "name": "Peter Cat",
-          "url": "https://open.spotify.com/artist/3SntVNfRaavqckb9zr75ui"
-        }
-      ],
-      "duration_ms": 187174,
-      "name": "Innocent Driver",
-      "url": "https://open.spotify.com/track/7KHOnSb2zrfTLrHJ333ukD"
-    },
-    {
-      "added_at": "2026-07-31 09:05:32",
-      "album": {
-        "name": "Grey Midas / Cannibal Blues (2026 Remaster)",
-        "url": "https://open.spotify.com/album/675UZ4SjKm2OheupwtkFDr"
-      },
-      "artists": [
-        {
-          "name": "The Incompetents",
-          "url": "https://open.spotify.com/artist/7LtllQUaY1rNbxBdONOiqH"
-        }
-      ],
-      "duration_ms": 350415,
-      "name": "Grey Midas - 2026 Remaster",
-      "url": "https://open.spotify.com/track/44OorVYKm0celJm4Z9Lv5u"
-    },
-    {
-      "added_at": "2026-07-31 08:56:48",
-      "album": {
-        "name": "Hats Off (Extended Mix)",
-        "url": "https://open.spotify.com/album/474nBTQuqe1EOX7pC4Yo25"
-      },
-      "artists": [
-        {
-          "name": "Argonaut",
-          "url": "https://open.spotify.com/artist/2huRhwQ4N5TB5AiMfS0n4F"
-        }
-      ],
-      "duration_ms": 237999,
-      "name": "Hats Off - Extended Mix",
-      "url": "https://open.spotify.com/track/67llygDnxiltqn6Y19jwid"
-    },
-    {
-      "added_at": "2026-07-23 09:32:11",
-      "album": {
-        "name": "Rags to Riches",
-        "url": "https://open.spotify.com/album/4HM7GVj4fbpqCX3mUk0c1X"
-      },
-      "artists": [
-        {
-          "name": "Meryl Streek",
-          "url": "https://open.spotify.com/artist/5oQoqOBnUfgaBNlkoYwBmd"
-        }
-      ],
-      "duration_ms": 138344,
-      "name": "Rags to Riches",
-      "url": "https://open.spotify.com/track/1rEacgLTdcAXG56ZOESyMN"
-    },
-    {
-      "added_at": "2026-07-24 10:04:29",
-      "album": {
-        "name": "HIKARIGASASHIKOMU",
-        "url": "https://open.spotify.com/album/7vUMpc2uzUdE4aUluaRpIZ"
-      },
-      "artists": [
-        {
-          "name": "foodman",
-          "url": "https://open.spotify.com/artist/4e8VeCyfFRBL1e06oGg1dR"
-        }
-      ],
-      "duration_ms": 159000,
-      "name": "Omoi",
-      "url": "https://open.spotify.com/track/5xQurUlKu6jgvLvoRlytC0"
-    },
-    {
-      "added_at": "2026-07-24 10:02:19",
-      "album": {
-        "name": "gauze",
-        "url": "https://open.spotify.com/album/2YluvlX0iZlYZeGF966PT7"
-      },
-      "artists": [
-        {
-          "name": "BAE BAE",
-          "url": "https://open.spotify.com/artist/1I8UXmyHIrwwX2fMKG0EQU"
-        }
-      ],
-      "duration_ms": 261000,
-      "name": "living in the memory - reese mix",
-      "url": "https://open.spotify.com/track/7ewtN5wGstZg3AgDzuMVFv"
-    },
-    {
-      "added_at": "2026-07-23 09:32:57",
-      "album": {
-        "name": "The Rain Felt Kind",
-        "url": "https://open.spotify.com/album/2EEupfBnN241gaj650LYQt"
-      },
-      "artists": [
-        {
-          "name": "Foglights",
-          "url": "https://open.spotify.com/artist/19dlMux0gJEgigFw9YTyMy"
-        }
-      ],
-      "duration_ms": 161704,
-      "name": "The Rain Felt Kind",
-      "url": "https://open.spotify.com/track/69cryfI5IdTbgsuAheMTVK"
-    },
-    {
-      "added_at": "2026-07-23 09:31:43",
-      "album": {
-        "name": "Riki Rachtman",
-        "url": "https://open.spotify.com/album/5IUTLwqv7spqvqWn7TqETP"
-      },
-      "artists": [
-        {
-          "name": "Nick Mitchell Maiato",
-          "url": "https://open.spotify.com/artist/5xVDCUwaCgq92kjaXoypqS"
-        }
-      ],
-      "duration_ms": 411023,
-      "name": "Riki Rachtman",
-      "url": "https://open.spotify.com/track/3jlHIVesYOymZzSmbT9S24"
-    },
-    {
-      "added_at": "2026-07-24 10:02:42",
-      "album": {
-        "name": "Cheap Flights to a sublime future",
-        "url": "https://open.spotify.com/album/28ePY1slLeEuL3XA4xSIGs"
-      },
-      "artists": [
-        {
-          "name": "Pete Spiby",
-          "url": "https://open.spotify.com/artist/4BQTEFK3yEDeeJ2haGQbsl"
-        }
-      ],
-      "duration_ms": 221918,
-      "name": "Criticize - Future mix 2030",
-      "url": "https://open.spotify.com/track/1oqvF7yJWZq9UO9iyxRcW2"
-    },
-    {
-      "added_at": "2026-07-24 10:02:57",
-      "album": {
-        "name": ".After Again",
-        "url": "https://open.spotify.com/album/4tC1LtanoYgOZfYvBnHFT1"
-      },
-      "artists": [
-        {
-          "name": "CxBxT",
-          "url": "https://open.spotify.com/artist/6b3mAMqETY2saNhbieaKur"
-        },
-        {
-          "name": "Tujiko Noriko",
-          "url": "https://open.spotify.com/artist/7n9eKttEekbKaDErD29u7l"
-        },
-        {
-          "name": "Adrian Corker",
-          "url": "https://open.spotify.com/artist/0vGBRguVWc2xLgn6crZtQH"
-        },
-        {
-          "name": "DJ Trystero",
-          "url": "https://open.spotify.com/artist/4ZgLP2i0RUqqcbOxMor2rI"
-        }
-      ],
-      "duration_ms": 442000,
-      "name": "Toku No Minato - DJ Trystero All Frills Remix",
-      "url": "https://open.spotify.com/track/3HGgX59XOeWsFbp4xt1EDc"
-    },
-    {
-      "added_at": "2026-07-24 10:05:02",
-      "album": {
-        "name": "Classical Dogs",
-        "url": "https://open.spotify.com/album/5RL4Or0zen6bCdXJjiKEys"
-      },
-      "artists": [
-        {
-          "name": "Tyla J. Pallas",
-          "url": "https://open.spotify.com/artist/5XvE4cDJeE0DGkIWGMsqkp"
-        }
-      ],
-      "duration_ms": 297266,
-      "name": "Drunk Like Me",
-      "url": "https://open.spotify.com/track/5TriZEuSvuMM41bIXGmI6K"
-    },
-    {
-      "added_at": "2026-07-24 10:06:22",
-      "album": {
-        "name": "All We Got Is Us",
-        "url": "https://open.spotify.com/album/20yA1cnQV6yWaMFmoLK0uK"
-      },
-      "artists": [
-        {
-          "name": "Nekra",
-          "url": "https://open.spotify.com/artist/58m7ayz4XwscODlKampXsw"
-        }
-      ],
-      "duration_ms": 95729,
-      "name": "All We Got Is Us",
-      "url": "https://open.spotify.com/track/6B8lezUCIvWnhceYuf8Cdw"
-    },
-    {
-      "added_at": "2026-07-24 10:05:18",
-      "album": {
-        "name": "Longshore Drifting",
-        "url": "https://open.spotify.com/album/3i3ZRXMtaWAJSEhMalmyzD"
-      },
-      "artists": [
-        {
-          "name": "Lone Bison",
-          "url": "https://open.spotify.com/artist/61OWpiozb1YFD4T8IhoJGB"
-        }
-      ],
-      "duration_ms": 162106,
-      "name": "Hand Me Down",
-      "url": "https://open.spotify.com/track/5iPOiqQch4N8ZUKtK7dJPB"
-    },
-    {
-      "added_at": "2026-07-24 10:05:36",
-      "album": {
-        "name": "Pink Trash Chicken",
-        "url": "https://open.spotify.com/album/0i5Ms1usprATdgAXwI9xYl"
-      },
-      "artists": [
-        {
-          "name": "Lola Pony",
-          "url": "https://open.spotify.com/artist/220TdFBGDcqRON4FVSiVJQ"
-        }
-      ],
-      "duration_ms": 170898,
-      "name": "Babylon",
-      "url": "https://open.spotify.com/track/3aCoA6omcaSDjRNItSfBp6"
-    },
-    {
-      "added_at": "2026-07-24 10:06:08",
-      "album": {
-        "name": "Should Know Better (Live)",
-        "url": "https://open.spotify.com/album/4UWT52F7MVy9USTw3OTYj9"
-      },
-      "artists": [
-        {
-          "name": "Soho Dukes",
-          "url": "https://open.spotify.com/artist/5VmtPnTksMTQkflYqT5w3z"
-        }
-      ],
-      "duration_ms": 185440,
-      "name": "Should Know Better - Live",
-      "url": "https://open.spotify.com/track/6QobBfLz8nRx1nlGAOpAvQ"
-    },
-    {
-      "added_at": "2026-07-24 10:05:54",
-      "album": {
-        "name": "GUT (Live at the ICA 23.05.23)",
-        "url": "https://open.spotify.com/album/0wWcr5AC95kz1cNscqi83r"
-      },
-      "artists": [
-        {
-          "name": "Daniel Blumberg",
-          "url": "https://open.spotify.com/artist/4rpRk9AZxVdwOV5t8XEBDj"
-        }
-      ],
-      "duration_ms": 2072541,
-      "name": "GUT - Live at the ICA 23.05.23",
-      "url": "https://open.spotify.com/track/1N2mulEoXw5B4bQTcLTaRq"
     }
   ],
   "unique_name": "Cargo Independent Distribution New Release Playlist",

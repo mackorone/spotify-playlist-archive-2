@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 
 > Les plus grands tubes français des années 70\. Photo : Dalida
 
-[Spotify](https://open.spotify.com/user/spotify) - 629,191 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 629,200 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,13 +17,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 7 | [Le chasseur \(Les oies sauvages\)](https://open.spotify.com/track/1cbEUq5Rwe9LLFQyPKxurl) | [Michel Delpech](https://open.spotify.com/artist/4T795JhhCZMWM01DLcX98p) | [Le Chasseur](https://open.spotify.com/album/6cmLF1Ryo6jQTLLSyREabH) | 3:04 |
 | 8 | [Paroles… paroles…](https://open.spotify.com/track/4VvTGipG8YaF09z0kfGqaD) | [Dalida](https://open.spotify.com/artist/04aQfpx1U1WQEJkrvGs4ig), [Alain Delon](https://open.spotify.com/artist/2e1aRMKieswINolf49MzQ8) | [40 succès en or](https://open.spotify.com/album/4NFg1VigQEZRrtlE45UL5H) | 4:05 |
 | 9 | [Ce n'est rien](https://open.spotify.com/track/0klbnFP6UwMYpUuKjhleKT) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Niagara](https://open.spotify.com/album/4PXN6s7jgy76nUzLdPFGvU) | 3:34 |
-| 10 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
-| 11 | [Je vais t'aimer](https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La vieille](https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm) | 5:27 |
+| 10 | [Je vais t'aimer](https://open.spotify.com/track/3TqoXM2sHgEFXgd1ywgyZf) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [La vieille](https://open.spotify.com/album/7cQsqaKx87ZHeJEoRsIStm) | 5:27 |
+| 11 | [Le sud](https://open.spotify.com/track/7zjkSx1EUums3s1Yg2jPJD) | [Nino Ferrer](https://open.spotify.com/artist/3THqHCN7gq2Z9hLleof9uv) | [Nino Ferrer](https://open.spotify.com/album/5M6ImA7adD4TpBV5wFq7DG) | 4:35 |
 | 12 | [Message personnel \- Remasterisé en 2013](https://open.spotify.com/track/1E1fwQ5Wmls13iEf4QjL9y) | [Françoise Hardy](https://open.spotify.com/artist/7x3f7c0fBanNlQwpx1255g) | [Message personnel \(Version Deluxe\)](https://open.spotify.com/album/6tU1iGwcfWjFasYGnoVj6k) | 4:16 |
 | 13 | [L'été indien](https://open.spotify.com/track/7BNeFchpHDCWYSUV4hfU89) | [Joe Dassin](https://open.spotify.com/artist/64LCTpIu9Iji2EPaxxPpxF) | [Joe Dassin Éternel...](https://open.spotify.com/album/3BRgfYZqKjLoqmEt1jZSHa) | 4:29 |
 | 14 | [Ma préférence](https://open.spotify.com/track/3N9Vibj1SwLn4SRtWJVDVO) | [Julien Clerc](https://open.spotify.com/artist/7gVzeNvBbUpj6PXX5ekCMs) | [Jaloux](https://open.spotify.com/album/3GRhZqQ2442jfDIZXXCQCb) | 3:26 |
-| 15 | [San Francisco](https://open.spotify.com/track/4EucYViqJKQ4lCECHnec1P) | [Maxime Le Forestier](https://open.spotify.com/artist/63daU3zd0ubMpG5sgOorgC) | [Mon Frère](https://open.spotify.com/album/3AQhnilaP323JIXSDAYofu) | 2:45 |
-| 16 | [Si maman si \- Remasterisé en 2004](https://open.spotify.com/track/6NvKOWV0UnBPAaO76D4JxS) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Dancing Disco \(Remasterisé en 2004\)](https://open.spotify.com/album/2OV5w1EvwvFUcn0PEoFAxB) | 2:58 |
+| 15 | [Si maman si \- Remasterisé en 2004](https://open.spotify.com/track/6NvKOWV0UnBPAaO76D4JxS) | [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Dancing Disco \(Remasterisé en 2004\)](https://open.spotify.com/album/2OV5w1EvwvFUcn0PEoFAxB) | 2:58 |
+| 16 | [San Francisco](https://open.spotify.com/track/4EucYViqJKQ4lCECHnec1P) | [Maxime Le Forestier](https://open.spotify.com/artist/63daU3zd0ubMpG5sgOorgC) | [Mon Frère](https://open.spotify.com/album/3AQhnilaP323JIXSDAYofu) | 2:45 |
 | 17 | [Alexandrie Alexandra](https://open.spotify.com/track/2e9Sa881KIjKK0y86iNZ6C) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Magnolias for Ever](https://open.spotify.com/album/3Q7plxq5RjD1ba3L6vslrM) | 4:22 |
 | 18 | [Qui saura](https://open.spotify.com/track/17X2d0BXk1sgVvH94JIiOR) | [Mike Brant](https://open.spotify.com/artist/1u9tovPnCMYuZiV3EMZqDV) | [20eme anniversaire](https://open.spotify.com/album/45feqbqIXi45boCrjlo0cV) | 3:20 |
 | 19 | [En chantant](https://open.spotify.com/track/4agHyTtI7txejGgCciL6fX) | [Michel Sardou](https://open.spotify.com/artist/0krCd0zVANPv9ryri4T0TO) | [En Chantant](https://open.spotify.com/album/6jpgSolMOIaEyNgF4TrYbC) | 3:54 |
@@ -48,8 +48,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 38 | [Le téléphone pleure](https://open.spotify.com/track/4cAeq0pjjvWxFfy7NL3XSD) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ), [Frédérique](https://open.spotify.com/artist/38dqh4zX6r6OBMW0cjtjSI) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 4:05 |
 | 39 | [J'ai dix ans](https://open.spotify.com/track/3pWBtajUyESxMhyxWD78zR) | [Alain Souchon](https://open.spotify.com/artist/5LVp2pGNzmOQqXzziBBR5x) | [J'ai dix ans](https://open.spotify.com/album/61ELXLv7SrKIdL3Gf22ERQ) | 3:02 |
 | 40 | [L'aigle noir](https://open.spotify.com/track/1GAMoIHawNWhdq0a22vT4E) | [Barbara](https://open.spotify.com/artist/4TNiKyCX2oCvdo1sTgHcRw) | [Les 50 Plus Belles Chansons De Barbara](https://open.spotify.com/album/23ZuuZarpj66WtoFqbmN12) | 4:54 |
-| 41 | [C'est moi](https://open.spotify.com/track/6GGTIbx1HkiJybU8yaRqZX) | [C\. Jérôme](https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH) | [Baby Boy](https://open.spotify.com/album/1rvuEe2N58ujU6CjRRTUni) | 2:52 |
-| 42 | [Les Rois mages \- Remasterisé en 2006](https://open.spotify.com/track/2y31xdqCINOlMWeR7sfR23) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Love](https://open.spotify.com/album/4tDE4kPJZBjZ8MJpF1ABUt) | 3:24 |
+| 41 | [Les Rois mages \- Remasterisé en 2006](https://open.spotify.com/track/2y31xdqCINOlMWeR7sfR23) | [Sheila](https://open.spotify.com/artist/5fhRcv2KU96vbXqNE2FEdu) | [Love](https://open.spotify.com/album/4tDE4kPJZBjZ8MJpF1ABUt) | 3:24 |
+| 42 | [C'est moi](https://open.spotify.com/track/6GGTIbx1HkiJybU8yaRqZX) | [C\. Jérôme](https://open.spotify.com/artist/4tJSPijz99rQ8cNtr7DYMH) | [Baby Boy](https://open.spotify.com/album/1rvuEe2N58ujU6CjRRTUni) | 2:52 |
 | 43 | [Le mal aimé](https://open.spotify.com/track/36JTsxq9ywTGHpBjg3Wf4J) | [Claude François](https://open.spotify.com/artist/0P2p1bqVyP2EgqubwjTBUJ) | [Le mal aimé / Le téléphone pleure](https://open.spotify.com/album/2nNfGK1Gcwie6YAiwZ1chD) | 2:39 |
 | 44 | [Où sont les femmes](https://open.spotify.com/track/0aWA84zzPPadF7I0N9tSRb) | [Patrick Juvet](https://open.spotify.com/artist/7c5wlQVkajxJG0X13D0Fpc) | [Paris By Night](https://open.spotify.com/album/7wMa3V484gRTpUFKvZ8GkZ) | 6:16 |
 | 45 | [Ça balance pas mal à Paris \- Remasterisé en 2002](https://open.spotify.com/track/3MyUnoqEPeCANpFyLYXBhN) | [Michel Berger](https://open.spotify.com/artist/5skauLarl8sqqUFypECtP4), [France Gall](https://open.spotify.com/artist/22HVxZPA6UhBp8wahxDA6I) | [Pour me comprendre \(40 titres\)](https://open.spotify.com/album/1Nkz53Btm6laHVLRo595DZ) | 2:16 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7W8X7B8YNLZ.md) - [plain]
 | 49 | [L'avventura](https://open.spotify.com/track/3E1xf2aDc3eRFt69PrXnaw) | [Stone & Charden](https://open.spotify.com/artist/4ndPdP6aVSDCvhsjOHLGjb) | [22 titres inoubliables](https://open.spotify.com/album/72euUqr3HkpoXf7I8UUGAs) | 3:36 |
 | 50 | [Du côte de chez Swann](https://open.spotify.com/track/5vuh4FAd5apHmhD85XJOyH) | [Dave](https://open.spotify.com/artist/39Fh4OTce0hxKCiuyB21dg) | [Dave](https://open.spotify.com/album/7n5DNjnkerFIrz6PXleX7o) | 3:00 |
 
-Snapshot ID: `AAAAALp+poAgQhgFFOBD2wOkGr0se5O2`
+Snapshot ID: `AAAAAIijCuJnvdx8PQC3G+e4Sz5Olxkf`

@@ -10613,6 +10613,24 @@
     },
     {
       "album": {
+        "name": "THE SUN FROM BOTH SIDES",
+        "url": "https://open.spotify.com/album/4sQGptlAPSLA8MN4NP45bv"
+      },
+      "artists": [
+        {
+          "name": "Alex Apolline",
+          "url": "https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193635,
+      "name": "HOLE IN MY HEART",
+      "url": "https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd"
+    },
+    {
+      "album": {
         "name": "Holiday Blues",
         "url": "https://open.spotify.com/album/51sC7Wqr61fGhgwsyLe0RG"
       },
@@ -23938,24 +23956,6 @@
       "duration_ms": 205597,
       "name": "traces",
       "url": "https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi"
-    },
-    {
-      "album": {
-        "name": "THE SUN FROM BOTH SIDES",
-        "url": "https://open.spotify.com/album/4sQGptlAPSLA8MN4NP45bv"
-      },
-      "artists": [
-        {
-          "name": "Alex Apolline",
-          "url": "https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 5",
-      "url": "https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd"
     },
     {
       "album": {

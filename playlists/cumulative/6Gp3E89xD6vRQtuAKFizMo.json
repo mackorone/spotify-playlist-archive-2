@@ -5295,6 +5295,24 @@
     },
     {
       "album": {
+        "name": "I'm About It",
+        "url": "https://open.spotify.com/album/4J2DnDIkzIzFMjeHwMzM9F"
+      },
+      "artists": [
+        {
+          "name": "Beachcrimes",
+          "url": "https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130036,
+      "name": "I'm About It",
+      "url": "https://open.spotify.com/track/3FrsCXsEbqu2XVg22oKWCR"
+    },
+    {
+      "album": {
         "name": "IDGAF",
         "url": "https://open.spotify.com/album/3wAV4RmAtuVVKUy7HWrK2i"
       },

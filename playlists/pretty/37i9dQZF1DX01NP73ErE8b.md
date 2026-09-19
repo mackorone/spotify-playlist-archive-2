@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 
 > I brani italiani di cui siamo ossessionati 🎧 BLANCO in cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 644,454 likes - 70 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 644,458 likes - 70 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX01NP73ErE8b.md) - [plain]
 | 69 | [Questa domenica](https://open.spotify.com/track/1OzmC9yrffo4samDgOzg27) | [Olly](https://open.spotify.com/artist/25u1DN0MwQVSav4XoJS7hl), [Juli](https://open.spotify.com/artist/4rj3KWaLAnuxgtMMkypZhf) | [Questa domenica](https://open.spotify.com/album/2MAslE3CpEJAIvLG8EW1Gh) | 3:36 |
 | 70 | [VITA MORTE MIRACOLI](https://open.spotify.com/track/5kTTmHImyUi7JirBBC9iOq) | [J\-AX](https://open.spotify.com/artist/2iK8weavvfS2xJCmzNzNE5) | [VITA MORTE MIRACOLI](https://open.spotify.com/album/40r7qBVfienPoRHOuJhluR) | 2:55 |
 
-Snapshot ID: `AAAAAInw0vVq/qZ2JDEQAVsR2RPKAlJp`
+Snapshot ID: `AAAAANdqo1SjQ0tW2QzL4eQ0If6fIR8N`

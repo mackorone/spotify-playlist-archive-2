@@ -1,12 +1,12 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Baneva",
-  "num_followers": 588225,
+  "num_followers": 588207,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAClWuSCz1fnJibfcBU9UUWK43fir",
+  "snapshot_id": "AAAAAKP/pO2sMBiF42SqwqEggYlCnF5Q",
   "tracks": [
     {
       "added_at": "2026-09-14 10:00:44",
@@ -487,6 +487,22 @@
     {
       "added_at": "2026-09-14 10:00:44",
       "album": {
+        "name": "Ate\u015ften Bi R\u00fczgar",
+        "url": "https://open.spotify.com/album/60BEVIsHpsdfQeCDiALdba"
+      },
+      "artists": [
+        {
+          "name": "Emir",
+          "url": "https://open.spotify.com/artist/052U3i0lM0CeCkJRrES8XK"
+        }
+      ],
+      "duration_ms": 205191,
+      "name": "Makina",
+      "url": "https://open.spotify.com/track/22yZy5Pa6HAgqsa90Mcof4"
+    },
+    {
+      "added_at": "2026-09-14 10:00:44",
+      "album": {
         "name": "5 YILDIZ",
         "url": "https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 90451,
       "name": "5 YILDIZ",
       "url": "https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs"
-    },
-    {
-      "added_at": "2026-09-14 10:00:44",
-      "album": {
-        "name": "Ate\u015ften Bi R\u00fczgar",
-        "url": "https://open.spotify.com/album/60BEVIsHpsdfQeCDiALdba"
-      },
-      "artists": [
-        {
-          "name": "Emir",
-          "url": "https://open.spotify.com/artist/052U3i0lM0CeCkJRrES8XK"
-        }
-      ],
-      "duration_ms": 205191,
-      "name": "Makina",
-      "url": "https://open.spotify.com/track/22yZy5Pa6HAgqsa90Mcof4"
     },
     {
       "added_at": "2026-09-14 10:00:44",

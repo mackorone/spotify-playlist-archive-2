@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 
 > Sofia the First: Royal Magic is now available to watch on Disney Jr\. and Disney+!
 
-[Spotify](https://open.spotify.com/user/spotify) - 60,666 likes - 136 songs - 3 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 60,673 likes - 137 songs - 3 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -142,7 +142,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TzCf8od5BM.md) - [plain]
 | 132 | [A Disney Junior Party](https://open.spotify.com/track/3pri510ZBhTChyyeMSGjJ7) | [Beau Black](https://open.spotify.com/artist/1awJjjL5ucGBcu48LZCeco), [Alex Cartana](https://open.spotify.com/artist/3GFUpR9zW45n5aO4TIbBAA) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 2:32 |
 | 133 | [Twinkle, Twinkle Little Star](https://open.spotify.com/track/4C5lrIVsItUxZNQmTC2PlO) | [Goofy](https://open.spotify.com/artist/3CcmFRXYSCdT25TOMlVe64) | [Mickey Mouse Clubhouse](https://open.spotify.com/album/2xqbyzv6NncmREgqNFP5Ee) | 2:22 |
 | 134 | [Make Them Proud](https://open.spotify.com/track/11gTqbjA70dOFUwUEmv03n) | ["Elena Of Avalor" Cast](https://open.spotify.com/artist/0p6iNlkB41r1JtxZ3F6JMJ) | [Elena of Avalor: Disney Junior Music](https://open.spotify.com/album/2EVjCUeErLZqSWBrSAI4wb) | 2:43 |
-| 135 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/6eykmqPkR0ItSGhrwPvOEF) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena of Avalor \(Original Soundtrack\)](https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw) | 1:02 |
-| 136 | [Elena of Avalor \(Main Title\) / My Time Mashup \- From "Elena of Avalor"](https://open.spotify.com/track/4FNoMwQTkWyVd28EimU00i) | [Cast \- Elena of Avalor](https://open.spotify.com/artist/2mxj8j8IW2pWq0QOi4WN7Y), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 2:37 |
+| 135 | [I'll Come Back to You](https://open.spotify.com/track/44urtUma795UpdADt2MLU5) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H), [Ozzy Fox](https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i), [Mama Fox](https://open.spotify.com/artist/1oTEIpktT99xzq5awLGKiN), [Papa Fox](https://open.spotify.com/artist/7mUmhKMIqiZwOS1kEZjUlU) | [Disney Jr\. Music: Ozzy Fox](https://open.spotify.com/album/4KYVNrgVnfGiZwLlanHBFL) | 1:59 |
+| 136 | [Elena of Avalor \(Main Title\)](https://open.spotify.com/track/6eykmqPkR0ItSGhrwPvOEF) | [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Elena of Avalor \(Original Soundtrack\)](https://open.spotify.com/album/42OLLIcdDeCiLitu9o3FYw) | 1:02 |
+| 137 | [Elena of Avalor \(Main Title\) / My Time Mashup \- From "Elena of Avalor"](https://open.spotify.com/track/4FNoMwQTkWyVd28EimU00i) | [Cast \- Elena of Avalor](https://open.spotify.com/artist/2mxj8j8IW2pWq0QOi4WN7Y), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Disney Junior Music Dance Party! The Album](https://open.spotify.com/album/4kq1XGnRO3PJMirraOUHvK) | 2:37 |
 
-Snapshot ID: `AAAAAGSuFsiriX7RwUWkYk9o7jhMMBH3`
+Snapshot ID: `AAAAAGFrJ1+nDrlbaJ1aSdBDTYcu/y+Q`

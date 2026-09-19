@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 
 > kun det nyeste danske rap 👀  1WAY på cover!!
 
-[Spotify](https://open.spotify.com/user/spotify) - 186,608 likes - 47 songs - 1 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 186,610 likes - 47 songs - 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Hver En Del](https://open.spotify.com/track/6rF3HzxSojaFcw9O3QULNT) | [1WAY](https://open.spotify.com/artist/1Sn41xUC669O7Boqyo2nPH) | [Hver En Del](https://open.spotify.com/album/1TLo7iBzhPXur2KRpGkfba) | 2:54 |
-| 2 | [Track 10](https://open.spotify.com/track/1Yc2Z8NQZvpOd0mMzvrSiI) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 0:00 |
+| 2 | [Casio](https://open.spotify.com/track/1Yc2Z8NQZvpOd0mMzvrSiI) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 3:02 |
 | 3 | [Tilfælles](https://open.spotify.com/track/42uS7UHHRU52QvuDLh4UGZ) | [Carmon](https://open.spotify.com/artist/4Bu9ocyPQWQRyk3kXDSNlv) | [Tilfælles](https://open.spotify.com/album/4b3mLfJM6e0sfFAWdeE5d8) | 2:48 |
 | 4 | [Min Demon](https://open.spotify.com/track/4gubHYqq2WnDMahm19OLo0) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [Min Demon](https://open.spotify.com/album/1oCCMMqM8JVf8FejDKu257) | 2:32 |
 | 5 | [Smerte Indeni](https://open.spotify.com/track/25meNS9Bngckzmccy58Vu7) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX) | [Smerte Indeni](https://open.spotify.com/album/751D8oEjKzoK7WpwT73Nzq) | 2:49 |
 | 6 | [Amira](https://open.spotify.com/track/6GpCoUl3H52mKyepmWMQya) | [Cizzo](https://open.spotify.com/artist/4mDyp9yRHugUnXvIBrt9xP) | [Amira](https://open.spotify.com/album/00brwhGxxVji3sWi8ACisb) | 2:03 |
-| 7 | [Track 8](https://open.spotify.com/track/0VlWAuVyELrgYOxUfVF4Ng) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 0:00 |
+| 7 | [10/5](https://open.spotify.com/track/0VlWAuVyELrgYOxUfVF4Ng) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 2:37 |
 | 8 | [f\#\#ked up](https://open.spotify.com/track/506caoF4Hx1vETEvlJvJGJ) | [K4BZ](https://open.spotify.com/artist/2TIlWsBmdZBgR2qstq6NM1) | [f\#\#ked up](https://open.spotify.com/album/1HYRWH6ErnuEkCDe9arA01) | 2:28 |
 | 9 | [Ud Af Boksen](https://open.spotify.com/track/6k510Mf6Qz34GVfYLx81W9) | [Miklo](https://open.spotify.com/artist/1ehbJ6ob0exKXppmDcfhm8) | [Ud Af Boksen](https://open.spotify.com/album/31eba2dt9qS1Q3d82G2uCX) | 2:26 |
 | 10 | [Hunger 4 Livet](https://open.spotify.com/track/1ZlFVKqb3s2X5ypaaWxqXL) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX) | [Hunger 4 Livet](https://open.spotify.com/album/3BNM9RBUkdo2dnnmMhEHwi) | 2:39 |
@@ -56,4 +56,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdhDukKQ88Cc.md) - [plain]
 | 46 | [Hver Dag & Nat](https://open.spotify.com/track/5hU6PBSMW6inBahwpSq40X) | [1WAY](https://open.spotify.com/artist/1Sn41xUC669O7Boqyo2nPH) | [Hver Dag & Nat](https://open.spotify.com/album/0ZfsjIav220Ztr9KCAmgQY) | 2:45 |
 | 47 | [Stresser ik](https://open.spotify.com/track/2XgnIqokLVOTlBDXebYBTI) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Stresser ik](https://open.spotify.com/album/1Q3gS6HIUL9THhgfeNXa8i) | 1:56 |
 
-Snapshot ID: `AAAAAHL55z3koNgnDVZrV+7qppIKBi/Y`
+Snapshot ID: `AAAAAJkCbd2WgQmdCch9PdllRMZjTQDp`

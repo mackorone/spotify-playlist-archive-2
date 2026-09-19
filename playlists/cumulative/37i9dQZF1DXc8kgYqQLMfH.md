@@ -4,7 +4,7 @@
 
 > in your lush & lazy era 🪷 cozy beats, comfy self\-care vibes
 
-1,342 songs - 2 day 3 hr 20 min
+1,343 songs - 2 day 3 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -188,7 +188,7 @@
 | [Cereal](https://open.spotify.com/track/7zmnH5VY7m2TDJjMnr1g7k) | [Lightbulb Factory](https://open.spotify.com/artist/78iAJp4pn43kp0qykn8j84) | [Rumble](https://open.spotify.com/album/62H1oUwmHeqO1wUciIpWoZ) | 3:31 | 2021-11-10 | 2023-04-12 |
 | [cereal](https://open.spotify.com/track/6LGikEEOdHCfH4kpOprvfX) | [W8lss](https://open.spotify.com/artist/5WNLGMfzBzzqeRuODrfQZ7) | [cereal](https://open.spotify.com/album/2qyyubGuuT6z3BGX4WoCwL) | 1:42 | 2022-10-28 | 2025-07-16 |
 | [Changes](https://open.spotify.com/track/6OI6ZzRcB3YqGn5ufAfj6I) | [Banco Swiss](https://open.spotify.com/artist/13lknPOa6VwjkuWzHcrg4J) | [Changes](https://open.spotify.com/album/31XIGAQMgeq8cOU2HZ0AzY) | 2:29 | 2022-11-25 | 2025-03-15 |
-| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 | 2026-09-14 |
+| [Channel 4](https://open.spotify.com/track/2oh5lRVcuSJKXuIYaQyTna) | [Gibbon Baby](https://open.spotify.com/artist/57e5lRPOUi6N1Oroph48nz) | [Channel 4](https://open.spotify.com/album/4OiNQcBMisLzzftNlQbfq2) | 2:07 | 2024-02-02 |  |
 | [channel vibe](https://open.spotify.com/track/48rD1oCPeNhKNmmk9M02jL) | [Max Kellen](https://open.spotify.com/artist/01DXCHumnPqMICVTYhOdUU) | [channel vibe](https://open.spotify.com/album/1PiyFneVStcfr9VQoC7s3V) | 2:10 | 2022-07-15 | 2025-07-16 |
 | [Chasing Dreams](https://open.spotify.com/track/7HpNwwS5G8mUjcTshcMKzi) | [Sitting Duck](https://open.spotify.com/artist/7nlZWVZ0U8EVad0g71xiZt), [Khutko](https://open.spotify.com/artist/26e6xlrurIqVfo2GzwuSMQ) | [Wonderland Chapter II](https://open.spotify.com/album/3HOZF0LXJjt0vhrJ3idypD) | 2:17 | 2021-11-10 | 2022-05-20 |
 | [chassing the lights](https://open.spotify.com/track/7nlDM7i676eZkcxlxvpJgG) | [Roppany](https://open.spotify.com/artist/7CtCqvAtkty3esFsNW6tLn) | [chassing the lights](https://open.spotify.com/album/6HBQsscOXZKP0S3sLgK4r5) | 1:46 | 2022-09-02 | 2023-04-12 |
@@ -526,7 +526,7 @@
 | [Home Made Grooves](https://open.spotify.com/track/7qfM1Atsyz7aAwVYNkXouq) | [Soundlabs](https://open.spotify.com/artist/6NxLFje78d1aXXBqzZkswH) | [Home Made Grooves](https://open.spotify.com/album/5yLszYe0EAEuVSG8UAxayn) | 1:30 | 2021-11-10 | 2022-06-03 |
 | [Home Roots](https://open.spotify.com/track/0EXhTgF6e1fpFHsO3uCGeP) | [PINANO](https://open.spotify.com/artist/2SJvTrEFHegW2SEVgMy6aT) | [Keep Track](https://open.spotify.com/album/14nHWUf96LpgoN9Gpz7CQv) | 1:48 | 2021-11-10 | 2022-09-03 |
 | [Hometown Cafe](https://open.spotify.com/track/6jjpHma6BEh62xBJeasFyf) | [Vens Adams](https://open.spotify.com/artist/5aqTLMEUNAGDfzRNBzJZiQ) | [Hometown Cafe](https://open.spotify.com/album/2sdFvHsLUhvyR7O1S3RC0m) | 2:35 | 2021-11-10 | 2022-10-15 |
-| [honey sweet](https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [honey sweet](https://open.spotify.com/album/68VuJvWiekf22ADYco8THc) | 1:55 | 2023-10-13 |  |
+| [honey sweet](https://open.spotify.com/track/6HMReqwhFiDYjXm9Yp008x) | [louke's beats](https://open.spotify.com/artist/2dr9SIsVpmN3ijGzjsnT0E) | [honey sweet](https://open.spotify.com/album/68VuJvWiekf22ADYco8THc) | 1:55 | 2023-10-13 | 2026-09-19 |
 | [Hoot](https://open.spotify.com/track/5a9FIXaP7vA1k00fxsHRuH) | [Notation](https://open.spotify.com/artist/6Ez42bOoRelk95xv7GBMhx) | [Light of Dawn](https://open.spotify.com/album/5oqNd0jD06nuviPzb0fOFE) | 1:49 | 2022-05-13 | 2022-07-29 |
 | [Hope](https://open.spotify.com/track/440V3Kb6STWjXVYkGiph2d) | [Mr\. Jello](https://open.spotify.com/artist/36L95dDAJG3EJ2tstIZpFj), [Pixie Dust](https://open.spotify.com/artist/0kSqe2dBbt8rg07yfEBnjR) | [Hope](https://open.spotify.com/album/57vqKi8jLGQjrr7fRkT6lN) | 1:30 | 2023-03-16 | 2025-07-25 |
 | [Hope](https://open.spotify.com/track/153ikHLHd0r3dhycyYuLfn) | [run2me](https://open.spotify.com/artist/5hCMSuSpa0y5KihMVcfGw7) | [Hope](https://open.spotify.com/album/1CALuWpHb0s5Hjjk5FA08D) | 2:12 | 2022-07-01 |  |
@@ -844,7 +844,7 @@
 | [no stress](https://open.spotify.com/track/0lYQNQEUcPIIpiAo00x58l) | [chill.farm](https://open.spotify.com/artist/4tPOKN9ZM2sn8f6F0cRVmF) | [no stress](https://open.spotify.com/album/00IcnpcG1Kqt7RhCRUlwiy) | 2:21 | 2023-03-16 |  |
 | [no way back](https://open.spotify.com/track/72vhwaCoLwzCACdcqOaWAO) | [Milkz](https://open.spotify.com/artist/5z1ToudFpZeaJhHVhRekvi) | [no way back](https://open.spotify.com/album/1xJN1I3OjDaIMKUOtToyMY) | 1:58 | 2022-05-13 | 2022-05-20 |
 | [NoHo Walks](https://open.spotify.com/track/1TyXDp22IIpopBKJUdoLcZ) | [Quist](https://open.spotify.com/artist/5aAoxh5kzdhSfHhsPThqdH) | [NoHo Walks](https://open.spotify.com/album/0Zjpq0e6GZzxhvtPkMIxDb) | 1:40 | 2022-09-16 | 2023-08-04 |
-| [north](https://open.spotify.com/track/0zPy5NVLohdcz1bPdHf8le) | [tendgarden](https://open.spotify.com/artist/6Rf72Rsh1XjPZRrU5fHGJl) | [north](https://open.spotify.com/album/0O0qhqXRMLv3gzUwjrjP3K) | 2:08 | 2026-07-09 |  |
+| [north](https://open.spotify.com/track/0zPy5NVLohdcz1bPdHf8le) | [tendgarden](https://open.spotify.com/artist/6Rf72Rsh1XjPZRrU5fHGJl) | [north](https://open.spotify.com/album/0O0qhqXRMLv3gzUwjrjP3K) | 2:08 | 2026-07-09 | 2026-09-19 |
 | [northern light](https://open.spotify.com/track/17c2b2WvFsQtQGGkRW8psl) | [nearly monday](https://open.spotify.com/artist/77lm1CStze3sAtsBUvW2Rm) | [northern light](https://open.spotify.com/album/4W5n9TkA0dHZC3TLvfFCpp) | 2:32 | 2026-06-11 | 2026-07-16 |
 | [Norway](https://open.spotify.com/track/06Co3dkZW9abpw0feyJWl5) | [steezy prime](https://open.spotify.com/artist/4ApyJoQGYHAcMtJEvK5tRx), [luv pug](https://open.spotify.com/artist/5oYQJceaUGHcz6d7TGry4q) | [Starcrossed](https://open.spotify.com/album/628FcjCPi9j1F27RG47lHs) | 2:08 | 2022-04-15 | 2022-12-10 |
 | [Nostalgia](https://open.spotify.com/track/12zINLpjdMmXVesmTDP63h) | [damaa.beats](https://open.spotify.com/artist/4zSHueBRkrGzbb5p9J74dY), [Hoffy Beats](https://open.spotify.com/artist/2z92TjllsDfZLyBjp0SDuq) | [Nostalgia](https://open.spotify.com/album/5GJo1YoJaHfV19pQF3Pn21) | 2:20 | 2022-08-05 | 2022-10-01 |
@@ -939,6 +939,7 @@
 | [Press Start](https://open.spotify.com/track/7jLAhUlipXOkcvu9pz05hx) | [Kisiaria](https://open.spotify.com/artist/6vRLEJFTHryBVa2mZ4aBKX) | [Press Start](https://open.spotify.com/album/0Bj13pKUn9CEwe2QXU33tL) | 1:49 | 2022-10-28 | 2025-01-11 |
 | [Pretty Machine](https://open.spotify.com/track/4meg3qbldu4dlTv5e6hWsj) | [Eclips3](https://open.spotify.com/artist/6ivJbFCNcqWHdxM9y83LV9) | [Pretty Machine](https://open.spotify.com/album/5EQ08AeGmReXRD17x2ybJc) | 2:05 | 2023-02-07 | 2025-07-16 |
 | [Propaganda](https://open.spotify.com/track/4pGFAdZGXhH0sdsygb6wIP) | [Aöm](https://open.spotify.com/artist/3lQeibogltk6xDaXJKCMjf) | [Propaganda](https://open.spotify.com/album/523RDjlbLVarxB690TTS50) | 2:13 | 2023-02-17 | 2025-07-16 |
+| [puffer](https://open.spotify.com/track/2rtudDsdr1FJrTkis1ENyD) | [Gro](https://open.spotify.com/artist/3J9dqkHC9cq5gOwEUP86wJ) | [puffer](https://open.spotify.com/album/4gEl6azjyCP974ryvpGsXk) | 2:07 | 2026-09-18 |  |
 | [Pulse](https://open.spotify.com/track/1QpkRFytAoWxnfMrHegiLn) | [Enter Etherial](https://open.spotify.com/artist/2NkdAoQipIsgUKqe3sLun2) | [Pulse](https://open.spotify.com/album/1eCNVdcm396voeH3TvvGMg) | 2:01 | 2022-08-19 | 2023-10-06 |
 | [Pulses Of Light](https://open.spotify.com/track/42AhAYqu0InMQts7uo2JcR) | [pósza](https://open.spotify.com/artist/7hJFmedA1zOESZECgDPvKq), [BluntOne](https://open.spotify.com/artist/225l1KEprObX8xgl8xo2Gc) | [Pulses Of Light](https://open.spotify.com/album/14YjvBZxtfpBRGJs8IPqJN) | 2:36 | 2024-06-28 | 2024-07-05 |
 | [Puppy Love](https://open.spotify.com/track/0VjZvP7Lr8Pkeq1v0QAkNt) | [overthemoon](https://open.spotify.com/artist/3wvbWEn9z1AcCS2sGF5fgz), [DYVN](https://open.spotify.com/artist/0txJ9PYLXPk2Ojegw5Ty9X) | [Puppy Love](https://open.spotify.com/album/72ykVcSpu8JIYFp1E8KxC3) | 1:54 | 2022-12-09 | 2025-07-16 |

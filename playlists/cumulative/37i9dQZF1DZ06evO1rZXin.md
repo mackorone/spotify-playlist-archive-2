@@ -4,7 +4,7 @@
 
 > This is Banda Vallarta Show\. The essential tracks, all in one playlist.
 
-130 songs - 6 hr 22 min
+133 songs - 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -20,8 +20,9 @@
 | [Camarón Pelao](https://open.spotify.com/track/1D6MEkZC1P4WXJpDsxawOg) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [35 Años de Fiesta](https://open.spotify.com/album/227ypUZTqPBOyiKgj2rqL6) | 2:57 | 2026-07-01 |  |
 | [Camarón Pelao](https://open.spotify.com/track/4TVANpQOkqEjTjge4Xk8zu) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 2:57 | 2022-06-01 | 2026-07-01 |
 | [Caminando Por El Mundo](https://open.spotify.com/track/5UeXurONcahPI6BwjvrRms) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 3:00 | 2024-06-10 | 2024-06-13 |
-| [Candela Verde](https://open.spotify.com/track/3RH9cfdnnlO2aBJ0VtY0Kx) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 3:04 | 2025-04-04 |  |
+| [Candela Verde](https://open.spotify.com/track/3RH9cfdnnlO2aBJ0VtY0Kx) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 3:04 | 2025-04-04 | 2026-09-19 |
 | [Candela Verde](https://open.spotify.com/track/4DCsgTNqInQ1EdHwHATiMr) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:04 | 2022-06-01 | 2023-06-09 |
+| [Candela Verde](https://open.spotify.com/track/4NLsLl1oCahutQoxs7IHJC) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/0QreSIT65xmICsStYKQWbd) | 3:04 | 2026-09-19 |  |
 | [Celoso](https://open.spotify.com/track/4EfuFU0nB3wVWFQjWg1CoA) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/5ZPBfxIb9pSrhk3ZDxjoiJ) | 3:43 | 2022-10-06 | 2024-06-18 |
 | [Celoso](https://open.spotify.com/track/4C1rjOklvN6ydlOUwkoOJ3) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4HchciGvAhayt4ochaYU7h) | 3:43 | 2024-06-18 |  |
 | [Celoso \(Jealous Heart\)](https://open.spotify.com/track/2CXxdIDxuzxJniHU9aq9Zo) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty), [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [El Tirador](https://open.spotify.com/album/4U7i6KlRF6QwJlW3I9v6uT) | 3:43 | 2023-07-19 | 2024-05-27 |
@@ -47,8 +48,9 @@
 | [El Farolito](https://open.spotify.com/track/1TtEn9YkPng9lKJKE6cDS9) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 3:01 | 2024-06-11 |  |
 | [El Farolito](https://open.spotify.com/track/2YKyj18wo1O8WOZVOs1PJ6) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y) | 3:01 | 2023-03-20 | 2024-06-09 |
 | [El Farolito](https://open.spotify.com/track/6tgo5wDSNaVuqbCboIrCRb) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 3:04 | 2022-06-01 | 2023-03-21 |
-| [El Hombliguito](https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 2:57 | 2025-04-12 |  |
+| [El Hombliguito](https://open.spotify.com/track/08tkUBQCTmiCHfLOiUorh0) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 2:57 | 2025-04-12 | 2026-09-19 |
 | [El Hombliguito](https://open.spotify.com/track/3zGRGy0Db4640OrA0zRg6i) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 2:57 | 2022-06-01 | 2023-06-09 |
+| [El Hombliguito](https://open.spotify.com/track/7Gh3JfznbdbnhSvbeiQlgr) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/0QreSIT65xmICsStYKQWbd) | 2:57 | 2026-09-19 |  |
 | [El Huerfanito](https://open.spotify.com/track/1GNazkIFj7nPl9NfzO2f6V) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/6srLGUbrQEhxKm4CCTdT8Y) | 2:44 | 2023-03-09 | 2024-06-06 |
 | [El Huerfnito](https://open.spotify.com/track/7lK6scXajux18QPlPvAYrG) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/0DCi97uYJCrBBWCnDZ1MHR) | 2:44 | 2024-06-06 |  |
 | [El Huerfnito](https://open.spotify.com/track/4pOFtfV3QirO4aSdnrmtXh) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Provócame](https://open.spotify.com/album/3OQXVUDVYWspLfqyUXcM1X) | 2:44 | 2022-06-01 | 2023-03-10 |
@@ -68,8 +70,9 @@
 | [Esa Chica Me Vacila](https://open.spotify.com/track/3B4DGPWuk7VeEFj6IFlC24) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/216Vvwkcgb3OR27a8Gwt7Q) | 3:35 | 2022-06-01 | 2024-06-10 |
 | [Esa Chica Me Vacila](https://open.spotify.com/track/5n7Ve3yvy4VapkWzCDbhJf) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/3CGWqfqmYROp68wdT8BVmB) | 3:40 | 2024-06-10 |  |
 | [Esa Chica Me Vacila](https://open.spotify.com/track/7q6yn8JrCnoCUGtD9JUiVg) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Esa Chica Me Vacila](https://open.spotify.com/album/7gtvSChOxpQxGiLRp984LB) | 3:40 | 2024-02-15 | 2024-06-09 |
-| [Hueso No Ma](https://open.spotify.com/track/1pXrL6GnhlVUhJhYijKimw) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 3:24 | 2025-04-12 |  |
+| [Hueso No Ma](https://open.spotify.com/track/1pXrL6GnhlVUhJhYijKimw) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/6bxhLkpA4VCAwrIPbljCQc) | 3:24 | 2025-04-12 | 2026-09-19 |
 | [Hueso No Ma](https://open.spotify.com/track/3Sa8pP7ntuNmr4hkFYzJUP) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/3FvOTZpZwrFZDmYDXaHoAJ) | 3:24 | 2022-06-01 | 2023-03-03 |
+| [Hueso No Ma](https://open.spotify.com/track/4Ego5sj3GZCtkghlJovD0v) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Celebrando En Grande](https://open.spotify.com/album/0QreSIT65xmICsStYKQWbd) | 3:24 | 2026-09-19 |  |
 | [Insensible](https://open.spotify.com/track/4obs3aaHJMnCR71GqKmTIO) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/3qOEmcSIxId5nhyrTlnU7y) | 2:24 | 2022-06-01 | 2023-06-09 |
 | [Insensible](https://open.spotify.com/track/6Ob7lSosBDxx4C51LXRZSV) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Homenajeando Al Divo De Juarez Juan Gabriel](https://open.spotify.com/album/11t4hLxD4YPa1aJKIWuRrr) | 2:24 | 2025-05-11 |  |
 | [La Banda Rock](https://open.spotify.com/track/448szMJep2MNhcZLVeMeGn) | [Banda Vallarta Show](https://open.spotify.com/artist/2x0jMwWdICvSU2qqAh30h5) | [Busca Amor](https://open.spotify.com/album/7HCdsi7pbDlzVWuglC3dJt) | 3:20 | 2022-06-01 |  |

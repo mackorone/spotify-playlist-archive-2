@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Lo mejor de la Salsa Cubana! Celia Cruz en portada.",
-  "num_followers": 535235,
+  "num_followers": 535280,
   "original_name": "Salsa Cubana",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIHhxNENIhpxHxKYH3y1+rDAg3Ph",
+  "snapshot_id": "AAAAACKKVbkGt5gKIh3FAKH3+KTiihuW",
   "tracks": [
     {
       "added_at": "2025-03-07 06:00:25",
@@ -779,18 +779,22 @@
     {
       "added_at": "2025-03-07 06:00:25",
       "album": {
-        "name": "Grandes \u00e9xitos",
-        "url": "https://open.spotify.com/album/0QSSZDP9Vva4PRT0Dhw759"
+        "name": "Chambonea (feat. Gilbert Man)",
+        "url": "https://open.spotify.com/album/4GSDTPNXpF34lRWRnn9CLD"
       },
       "artists": [
         {
-          "name": "Manol\u00edn, El M\u00e9dico De La Salsa",
-          "url": "https://open.spotify.com/artist/1FfJF5xoAMmermBUVxoEYV"
+          "name": "Los Desiguales",
+          "url": "https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm"
+        },
+        {
+          "name": "Gilbert Man",
+          "url": "https://open.spotify.com/artist/0Ez3P0meOOmx66jOuLWPxv"
         }
       ],
-      "duration_ms": 310079,
-      "name": "Arriba de la bola",
-      "url": "https://open.spotify.com/track/4P2VLqOAJrA3ZoaYWSG0Co"
+      "duration_ms": 235247,
+      "name": "Chambonea",
+      "url": "https://open.spotify.com/track/4gqW1VyZG04DLSvN1GrzFT"
     },
     {
       "added_at": "2025-03-07 06:00:25",

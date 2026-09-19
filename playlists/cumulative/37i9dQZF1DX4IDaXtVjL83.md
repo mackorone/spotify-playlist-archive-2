@@ -2,9 +2,9 @@
 
 ### [K\-Pop X\-Overs](https://open.spotify.com/playlist/37i9dQZF1DX4IDaXtVjL83)
 
-> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: JIHYO, Shenseea\)
+> Watch out for all the collaborations and cross\-overs in the K\-Pop world! \(Cover: HONGJOONG, Bazzi\)
 
-287 songs - 14 hr 59 min
+288 songs - 15 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -91,6 +91,7 @@
 | [eight\(Prod.&Feat\. SUGA of BTS\)](https://open.spotify.com/track/0pYacDCZuRhcrwGUA5nTBe) | [IU](https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU), [SUGA](https://open.spotify.com/artist/0ebNdVaOfp6N0oZ1guIxM8) | [eight](https://open.spotify.com/album/5vJNAlQeTf9lsulO1YlmSt) | 2:47 | 2021-12-20 | 2025-04-19 |
 | [EKO EKO](https://open.spotify.com/track/2QE61cQ0tyWWDMNkWFtHeX) | [m\-flo](https://open.spotify.com/artist/4UhiMIdxKqQxmzdE9nYe6O), [ZICO](https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0), [eill](https://open.spotify.com/artist/3AiES4wyTOfJvNgqz9baDn) | [EKO EKO](https://open.spotify.com/album/17VDRp9RX5rp7GPc5r1XuO) | 3:06 | 2025-06-27 | 2026-05-30 |
 | [EMOTIONS](https://open.spotify.com/track/5xG8q1HN3zJFVml6lttUbK) | [WENDY](https://open.spotify.com/artist/0FRUZvZNPzM3YJMABJxf2K), [Alec Benjamin](https://open.spotify.com/artist/5IH6FPUwQTxPSXurCrcIov) | [EMOTIONS](https://open.spotify.com/album/3qNHVdG5XAa63qdiLm6LzR) | 3:23 | 2026-02-27 | 2026-05-30 |
+| [ENOuGH](https://open.spotify.com/track/7MYgrDGoz1NlwTdBU9sXAg) | [HONGJOONG](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [ENOuGH](https://open.spotify.com/album/6NNgbHl1bfglbnPKeX5aSJ) | 2:23 | 2026-09-18 |  |
 | [Era with NAYEON \- \(Remix\)](https://open.spotify.com/track/0Nezjtp74RRI0p6C3gXN13) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15), [NAYEON](https://open.spotify.com/artist/1VwDG9aBflQupaFNjUru9A) | [Era with NAYEON \(TWICE\)](https://open.spotify.com/album/4oRP4R749QNBtxOob5lylI) | 2:29 | 2025-06-16 | 2026-05-30 |
 | [Eve, Psyche & the Bluebeard’s wife \(feat\. Demi Lovato\)](https://open.spotify.com/track/5zYrD1r49ex3WJk6iVIhfw) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Eve, Psyche & the Bluebeard’s wife \(feat\. Demi Lovato\)](https://open.spotify.com/album/2VVf6P029Bw2sRXV721xui) | 3:05 | 2023-08-04 | 2025-10-11 |
 | [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/track/7y2WZKii5EQkpGUef37XkR) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [Rina Sawayama](https://open.spotify.com/artist/2KEqzdPS7M5YwGmiuPTdr5) | [Eve, Psyche & the Bluebeard’s wife \(Rina Sawayama Remix\)](https://open.spotify.com/album/4snDidl0spOeD55YeH3HGh) | 2:54 | 2023-08-04 | 2025-06-07 |
@@ -260,7 +261,7 @@
 | [Under the Full Moon \- Alok Remix](https://open.spotify.com/track/6mMaK2MTTnJR1vug1ykPig) | [Alok](https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W), [Sonnet](https://open.spotify.com/artist/2RtkJZ5bHvyy1g3tHxfv0B), [Kim Jun Su](https://open.spotify.com/artist/7CUcK2meST31pjD3V14khI) | [Under the Full Moon \(Alok Remix\)](https://open.spotify.com/album/4yC8CrziY3rJMkTKVM6lIG) | 2:45 | 2022-03-04 | 2022-07-29 |
 | [UNFORGIVEN \- Japanese ver.](https://open.spotify.com/track/07Kq5cRJkYNieu1rge3PZX) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p), [ナイル・ロジャース](https://open.spotify.com/artist/7sKzaEQMrAbbO3Q3cTzazQ), [Ado](https://open.spotify.com/artist/6mEQK9m2krja6X1cfsAjfl) | [UNFORGIVEN \(Japanese ver.\)](https://open.spotify.com/album/28unbkaJvfdbM5zffw9vpc) | 3:02 | 2023-08-18 | 2025-06-07 |
 | [Valley of Lies](https://open.spotify.com/track/3Bgl1xMI00capuTqUHBNUW) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [Valley of Lies](https://open.spotify.com/album/6HxwkL6Z3D14XOXY5SUPJp) | 3:04 | 2022-07-22 | 2025-03-07 |
-| [VIRAL \- Alan Walker Remix](https://open.spotify.com/track/52C0nB13L9E7oE0m4tDZly) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [VIRAL \(Alan Walker Remix\)](https://open.spotify.com/album/6M29cFy55sW3mm0xdwcUrq) | 3:13 | 2026-07-28 |  |
+| [VIRAL \- Alan Walker Remix](https://open.spotify.com/track/52C0nB13L9E7oE0m4tDZly) | [BOYNEXTDOOR](https://open.spotify.com/artist/4hnHLgMSOiqERWBL4jINP1), [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN) | [VIRAL \(Alan Walker Remix\)](https://open.spotify.com/album/6M29cFy55sW3mm0xdwcUrq) | 3:13 | 2026-07-28 | 2026-09-19 |
 | [VOoDOo BOogie](https://open.spotify.com/track/1jQr59cbLRE73yZOjPnG8e) | [1999 WRITE THE FUTURE](https://open.spotify.com/artist/33aS3DKsGRMWBwjM9ddhak), [Tiger JK](https://open.spotify.com/artist/11S00dFcvNvJahis8MTGMD), [YOON MIRAE](https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0) | [hella \(˃̣̣̥╭╮˂̣̣̥\) ✧ ♡ ‧º·˚](https://open.spotify.com/album/7nAFPtoN75FBt8WA0CQoBQ) | 2:47 | 2024-02-20 | 2026-02-06 |
 | [WANNABE \- Japanese ver.](https://open.spotify.com/track/1F6lnQwfiEzq7ikNnODitc) | [ITZY](https://open.spotify.com/artist/2KC9Qb60EaY0kW4eH68vr3) | [WANNABE \(Japanese ver.\)](https://open.spotify.com/album/6ZmevJEKLGFFddTBwory5Q) | 3:11 | 2021-12-20 | 2022-08-30 |
 | [Wasteland](https://open.spotify.com/track/4bml9BznT3E0sX4xpa0voN) | [KANGDANIEL](https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW) | [Wasteland](https://open.spotify.com/album/3gerGX9iUd6cEwLNGCrh6u) | 3:02 | 2023-06-08 | 2025-04-19 |

@@ -4,16 +4,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 
 > Pump up your adrenaline with Cheema Y & more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 241,430 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 241,487 likes - 50 songs - 2 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Barota](https://open.spotify.com/track/5i2jG0ScOY5B40sTHMeb08) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Barota](https://open.spotify.com/album/6cpoFW7kurlcF2yqTkaDAZ) | 4:03 |
 | 2 | [Balenci](https://open.spotify.com/track/3nKO2BajBQ1wNJd5f2eJhw) | [Shubh](https://open.spotify.com/artist/5r3wPya2PpeTTsXsGhQU8O) | [Balenci](https://open.spotify.com/album/298UXj0QGtqX9UWZh0ejXP) | 3:02 |
 | 3 | [At Peace](https://open.spotify.com/track/1Ae2O8GhTe5KiDrrurzm41) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Ikky](https://open.spotify.com/artist/3nqS8jzqmsPKFJTp0BOIel) | [At Peace](https://open.spotify.com/album/0BPCmxmfJM9Msh8MwT0eEL) | 2:44 |
-| 4 | [Top Tier Gabbru](https://open.spotify.com/track/4G9sE1KgkZxs2IfQbE7GTy) | [Gurnam Bhullar](https://open.spotify.com/artist/45LSiycLy1JsWUMObvPvpX), [Vicky Dhaliwal](https://open.spotify.com/artist/5Gf8EL6dRLNm7EJNnLQ4vf), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2) | [Top Tier Gabbru](https://open.spotify.com/album/4TqllDWypjYpW8WpDxnCNG) | 3:26 |
-| 5 | [Devil](https://open.spotify.com/track/6rGOy7dWFadX9gZIxvC3fM) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [HIZZY HUNDAL](https://open.spotify.com/artist/24ITAwyfcSHMMJGzAWnKJv) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:32 |
-| 6 | [Cartel](https://open.spotify.com/track/31NP3kpDutZWYcHAY4Vmze) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bermuda Triangle](https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh) | 2:36 |
+| 4 | [Devil](https://open.spotify.com/track/6rGOy7dWFadX9gZIxvC3fM) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN), [HIZZY HUNDAL](https://open.spotify.com/artist/24ITAwyfcSHMMJGzAWnKJv) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:32 |
+| 5 | [Cartel](https://open.spotify.com/track/31NP3kpDutZWYcHAY4Vmze) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Bermuda Triangle](https://open.spotify.com/album/6a7nrbUhXwFEJQ1xWCbNnh) | 2:36 |
+| 6 | [Punjab](https://open.spotify.com/track/0oxsoUGV7bBNGmU7PsL4bt) | [Bobby Sandhu](https://open.spotify.com/artist/6dGJfSrWE2z9oBj7wZXG5q), [Ary B](https://open.spotify.com/artist/2Q0gszM51Kkyhwjs8BTkKa) | [Punjab](https://open.spotify.com/album/32sC4Ebg2FhHZGEDbEUgXp) | 2:32 |
 | 7 | [Asla](https://open.spotify.com/track/2evIekFZQjJZJSetzjUBgA) | [Watan Sahi](https://open.spotify.com/artist/60AHsnenfij85IExxs2456), [Syphr](https://open.spotify.com/artist/1p0cpaSetvDyBCogumWAXM) | [Asla](https://open.spotify.com/album/48ksAgJxBlNxQhjAb5Im8Z) | 2:06 |
 | 8 | [Greatest](https://open.spotify.com/track/77mI75scDZpgK0gZ565FNZ) | [Arjan Dhillon](https://open.spotify.com/artist/64DvMieEUCdrYKmEIhDt8G) | [Patandar](https://open.spotify.com/album/7w80tk12K6vKuXC7MriUIh) | 2:58 |
 | 9 | [Refugee](https://open.spotify.com/track/5uHCw6YJdAv3LO8boVPg9p) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [ABY](https://open.spotify.com/artist/474lx20917Ts6yKqKc6lF5) | [God’s Favorite](https://open.spotify.com/album/4bHtB4mKSgQxpbiB4UAYxU) | 2:28 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQNdt1GHNdg.md) - [plain]
 | 49 | [Strong Enough](https://open.spotify.com/track/6C4zDUv7NpDxmvyakCGnKf) | [Saabi Bhinder](https://open.spotify.com/artist/7balJhYEvDHAshA39peuCr), [Yaari Ghuman](https://open.spotify.com/artist/1joJsPgNOvnSwUlCKwst3N) | [Strong Enough](https://open.spotify.com/album/6sxRh5LkG9gk3cAnaaZjT6) | 3:10 |
 | 50 | [RYDE OR DIE](https://open.spotify.com/track/7Gc2WlXhHEzYrlGl77tYag) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [A KID FROM GURDASPUR](https://open.spotify.com/album/6MBBnnY5Kacck7ATbIVTcJ) | 2:15 |
 
-Snapshot ID: `AAAAAFSpbTLlBGa/wIQV2/sOOPjPnHNN`
+Snapshot ID: `AAAAAEc019QDP6vb40P9PZo86ype0VWf`

@@ -1,12 +1,12 @@
 {
   "description": "Acoustic country songs from the heart of Nashville - stripped down to the basics.",
-  "num_followers": 176890,
+  "num_followers": 176892,
   "original_name": "Nashville Stripped",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFIOxK38B4uWzbSxM2Jt5suqPYjq",
+  "snapshot_id": "AAAAAEyI0pS3/fBt5x2j3z4KsYi9UCmD",
   "tracks": [
     {
       "added_at": "2026-09-09 19:14:42",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-09-09 19:14:42",
       "album": {
-        "name": "Pack My Hometown",
-        "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
-      },
-      "artists": [
-        {
-          "name": "Eli Winders",
-          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
-        }
-      ],
-      "duration_ms": 191615,
-      "name": "Pack My Hometown",
-      "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
-    },
-    {
-      "added_at": "2026-09-09 19:14:42",
-      "album": {
         "name": "Slow Dance In A Parking Lot (Acoustic)",
         "url": "https://open.spotify.com/album/7JG2UFjGvdHMQ6Zes4lclo"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 178285,
       "name": "Slow Dance In A Parking Lot - Acoustic",
       "url": "https://open.spotify.com/track/2obDcF1vgEom76Mj3UZGxw"
+    },
+    {
+      "added_at": "2026-09-09 19:14:42",
+      "album": {
+        "name": "Pack My Hometown",
+        "url": "https://open.spotify.com/album/7hqgRwJjA5rjc4XL61T20i"
+      },
+      "artists": [
+        {
+          "name": "Eli Winders",
+          "url": "https://open.spotify.com/artist/1FrotTX0L8LcXNxuigzB0w"
+        }
+      ],
+      "duration_ms": 191615,
+      "name": "Pack My Hometown",
+      "url": "https://open.spotify.com/track/7IAmh4baSztXaPd0gncWwK"
     },
     {
       "added_at": "2026-09-09 19:14:42",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-09-09 19:14:42",
       "album": {
-        "name": "This City Remix (feat. Kane Brown)",
-        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
-      },
-      "artists": [
-        {
-          "name": "Sam Fischer",
-          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
-        },
-        {
-          "name": "Kane Brown",
-          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
-        }
-      ],
-      "duration_ms": 194837,
-      "name": "This City Remix (feat. Kane Brown)",
-      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
-    },
-    {
-      "added_at": "2026-09-09 19:14:42",
-      "album": {
         "name": "Half Of Me (Acoustic)",
         "url": "https://open.spotify.com/album/5rf5DzBHvvgjQIp3yu9Df7"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 175639,
       "name": "Half Of Me - Acoustic",
       "url": "https://open.spotify.com/track/4H7aZit0urnDJocqdGjxuZ"
+    },
+    {
+      "added_at": "2026-09-09 19:14:42",
+      "album": {
+        "name": "This City Remix (feat. Kane Brown)",
+        "url": "https://open.spotify.com/album/0WWpkBplmouutZQWMlq0vF"
+      },
+      "artists": [
+        {
+          "name": "Sam Fischer",
+          "url": "https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA"
+        },
+        {
+          "name": "Kane Brown",
+          "url": "https://open.spotify.com/artist/3oSJ7TBVCWMDMiYjXNiCKE"
+        }
+      ],
+      "duration_ms": 194837,
+      "name": "This City Remix (feat. Kane Brown)",
+      "url": "https://open.spotify.com/track/3GPvHSNPWlzDu5rLu4PztC"
     },
     {
       "added_at": "2026-09-09 19:14:42",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-09 19:14:42",
       "album": {
-        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
-        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
-      },
-      "artists": [
-        {
-          "name": "Bailey Zimmerman",
-          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
-        }
-      ],
-      "duration_ms": 200506,
-      "name": "You Don't Want That Smoke. - The Acoustic Version.",
-      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
-    },
-    {
-      "added_at": "2026-09-09 19:14:42",
-      "album": {
         "name": "Sounds Like Something I'd Say (Acoustic)",
         "url": "https://open.spotify.com/album/66pm2X8619J4LIu2cG8aXD"
       },
@@ -1151,6 +1135,22 @@
       "duration_ms": 196216,
       "name": "Sounds Like Something I'd Say - Acoustic",
       "url": "https://open.spotify.com/track/65IMy9SoKAWvozEuXLEoxR"
+    },
+    {
+      "added_at": "2026-09-09 19:14:42",
+      "album": {
+        "name": "You Don\u2019t Want That Smoke. (The Acoustic Version.)",
+        "url": "https://open.spotify.com/album/37YaXtCWpAZoQ3qxrvmu3D"
+      },
+      "artists": [
+        {
+          "name": "Bailey Zimmerman",
+          "url": "https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf"
+        }
+      ],
+      "duration_ms": 200506,
+      "name": "You Don't Want That Smoke. - The Acoustic Version.",
+      "url": "https://open.spotify.com/track/2Ca9OSwJhhxO8HbsnTTsqu"
     },
     {
       "added_at": "2026-09-09 19:14:42",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-09-09 19:14:42",
       "album": {
-        "name": "Neon Moon",
-        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
-      },
-      "artists": [
-        {
-          "name": "Julia Cole",
-          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
-        }
-      ],
-      "duration_ms": 161052,
-      "name": "Neon Moon",
-      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
-    },
-    {
-      "added_at": "2026-09-09 19:14:42",
-      "album": {
         "name": "She Had Me At Heads Carolina (Acoustic)",
         "url": "https://open.spotify.com/album/4w9hMFWcxHwVkJlJfrJfIa"
       },
@@ -1467,18 +1451,18 @@
     {
       "added_at": "2026-09-09 19:14:42",
       "album": {
-        "name": "Live from Layman",
-        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+        "name": "Neon Moon",
+        "url": "https://open.spotify.com/album/1iY1fvzHTy4u6ouop155oT"
       },
       "artists": [
         {
-          "name": "Sarah Darling",
-          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+          "name": "Julia Cole",
+          "url": "https://open.spotify.com/artist/48rpE75ZIsnfNFyojfYene"
         }
       ],
-      "duration_ms": 260000,
-      "name": "Waves (Live)",
-      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
+      "duration_ms": 161052,
+      "name": "Neon Moon",
+      "url": "https://open.spotify.com/track/2MLlSnAU74p2OHT5cNmazH"
     },
     {
       "added_at": "2026-09-09 19:14:42",
@@ -1499,6 +1483,22 @@
       "duration_ms": 211848,
       "name": "Never Wanted To Be That Girl - Acoustic Version",
       "url": "https://open.spotify.com/track/0CbnbBGQGXK3tXieapv9sk"
+    },
+    {
+      "added_at": "2026-09-09 19:14:42",
+      "album": {
+        "name": "Live from Layman",
+        "url": "https://open.spotify.com/album/15VQUz44I4pCUmf0QEQ0lL"
+      },
+      "artists": [
+        {
+          "name": "Sarah Darling",
+          "url": "https://open.spotify.com/artist/4WCpgJFxAdAsm4FSD9CAfX"
+        }
+      ],
+      "duration_ms": 260000,
+      "name": "Waves (Live)",
+      "url": "https://open.spotify.com/track/1W1o7dl3G44SlN07pNNFFf"
     },
     {
       "added_at": "2026-09-09 19:14:42",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-09-09 19:14:42",
       "album": {
-        "name": "I Should Probably Go To Bed (Acoustic)",
-        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
-      },
-      "artists": [
-        {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        }
-      ],
-      "duration_ms": 177066,
-      "name": "I Should Probably Go To Bed - Acoustic",
-      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
-    },
-    {
-      "added_at": "2026-09-09 19:14:42",
-      "album": {
         "name": "Weekends Look A Little Acoustic These Days",
         "url": "https://open.spotify.com/album/4kVKg4LdknIwFgktCrYMy0"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2026-09-09 19:14:42",
       "album": {
-        "name": "Put It in Drive",
-        "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
+        "name": "I Should Probably Go To Bed (Acoustic)",
+        "url": "https://open.spotify.com/album/4hX3KKNZn3WHQIUNnSUyCc"
       },
       "artists": [
         {
-          "name": "Tommy Karlas",
-          "url": "https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
         }
       ],
-      "duration_ms": 191973,
-      "name": "Lessons (Acoustic)",
-      "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
+      "duration_ms": 177066,
+      "name": "I Should Probably Go To Bed - Acoustic",
+      "url": "https://open.spotify.com/track/3PUYUmxOlVtAEUMKuoT7T1"
     },
     {
       "added_at": "2026-09-09 19:14:42",
@@ -1631,6 +1615,22 @@
       "duration_ms": 204358,
       "name": "Can't Nobody - Acoustic",
       "url": "https://open.spotify.com/track/2c12s9u80ml1VTZ7Y5tSj6"
+    },
+    {
+      "added_at": "2026-09-09 19:14:42",
+      "album": {
+        "name": "Put It in Drive",
+        "url": "https://open.spotify.com/album/1QVygeRrG4uHm6RnglN9kB"
+      },
+      "artists": [
+        {
+          "name": "Tommy Karlas",
+          "url": "https://open.spotify.com/artist/7t5t9O35bE8qMnUAybSzbY"
+        }
+      ],
+      "duration_ms": 191973,
+      "name": "Lessons (Acoustic)",
+      "url": "https://open.spotify.com/track/45dRlmdb1eb9shNH6VOvyw"
     },
     {
       "added_at": "2026-09-09 19:14:42",

@@ -4,7 +4,7 @@
 
 > Novedades y clásicos del popular género colombiano\. Foto: Ana del Castillo
 
-214 songs - 14 hr 46 min
+215 songs - 14 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,7 +159,8 @@
 | [No Voy A Llorar](https://open.spotify.com/track/5MWJ8J0jyXtJQcnsB9iykS) | [Los Diablitos](https://open.spotify.com/artist/1f6CQnTy4FKDgLGzp6G2Wd) | [10 Años De Historia](https://open.spotify.com/album/4G3uYZwUvhvi8IByx7CUgU) | 4:43 | 2022-09-02 | 2023-04-03 |
 | [Nunca Dudes de Mi](https://open.spotify.com/track/1hzYGSMYGhBxCuzqpFZvRK) | [Ivan Villazon](https://open.spotify.com/artist/0gudLEFCyMFIBCt1EQaMh7), [Saúl Lallermand](https://open.spotify.com/artist/1lKbL9flS8aGA1TG9IpJsj) | [El Poder del Amor](https://open.spotify.com/album/6Egg4KXDy9yhJox4gjGjmZ) | 4:27 | 2024-05-22 | 2024-08-31 |
 | [O Te Acuso Con Dios](https://open.spotify.com/track/5ptO7RPfHSIsVF9EBuQxhi) | [El Gran Martín Elías](https://open.spotify.com/artist/15g2N69hNuvVjSUqa9Entz) | [O Te Acuso Con Dios](https://open.spotify.com/album/7MQKW38fegrx48F3ullhSS) | 3:51 | 2022-09-02 | 2024-05-11 |
-| [Obsesión](https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7) | [Homenaje](https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ) | 3:34 | 2024-01-26 |  |
+| [Obsesión](https://open.spotify.com/track/7mkOjITw91E51sPBNCgjnx) | [Daniel Calderón](https://open.spotify.com/artist/2O76CmUXGThMPPImBOnbUA), [Los Gigantes Del Vallenato](https://open.spotify.com/artist/0P8EpsSMekkWtsX331Iebt) | [Obsesión](https://open.spotify.com/album/0AmnUsmcawbpizjGPWBIBH) | 3:38 | 2026-09-18 |  |
+| [Obsesión](https://open.spotify.com/track/2bSnF32fwvIaj603AGo6wn) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7) | [Homenaje](https://open.spotify.com/album/4iOAopfjsHSqsqpw5jbRVQ) | 3:34 | 2024-01-26 | 2026-09-19 |
 | [Obsesión \(feat\. Ramiro Better\)](https://open.spotify.com/track/4yc290Q5nIELODhKyntBhP) | [Estrellas Vallenatas](https://open.spotify.com/artist/2nWxgBHLsfOh75ct5c13C7), [Ramiro Better](https://open.spotify.com/artist/1zCl36J3uAuup64ADqK5Pw) | [Homenaje](https://open.spotify.com/album/4CCxY26bO2H9QJe0Y71l1u) | 3:34 | 2022-09-02 | 2024-04-19 |
 | [Olvidarte Otra Vez](https://open.spotify.com/track/2Tm8ziXRmiDizKZeevs2kF) | [La Banda del 5](https://open.spotify.com/artist/3fwLvzwmgJkUwtn9YmpTiB), [Pau Mor](https://open.spotify.com/artist/55Yvm4qFavBJgDK936X5K7) | [Olvidarte Otra Vez](https://open.spotify.com/album/2qDWwcj2THeF3foweSRZpD) | 2:43 | 2024-05-10 | 2024-09-14 |
 | [Otra Botella](https://open.spotify.com/track/7JHyn813Ij0oY6uXaKWiA3) | [Los Chiches Vallenatos](https://open.spotify.com/artist/34zJjO7ns1qmMYJxJPF1wP) | [Otra Botella](https://open.spotify.com/album/3PZtW70YVWTpEWYN1PZ9ZJ) | 3:49 | 2022-09-02 | 2022-10-22 |

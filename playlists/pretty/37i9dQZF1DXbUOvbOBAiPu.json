@@ -1,12 +1,12 @@
 {
   "description": "New music from Miley Cyrus, GIMS, TeddyBear, Djadja & Dinaz, HUGEL x Neton Vega, Maluma x Shakira and more...",
-  "num_followers": 53608,
+  "num_followers": 53821,
   "original_name": "New Music Friday BE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK8in0Xs8CpfrVfhtlwy6/7sg5rE",
+  "snapshot_id": "AAAAAGpVRDjuqK2DNlS38rqVYsgPPNKK",
   "tracks": [
     {
       "added_at": "2026-09-17 22:02:06",
@@ -84,8 +84,8 @@
           "url": "https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 7",
+      "duration_ms": 153083,
+      "name": "No Trouble",
       "url": "https://open.spotify.com/track/7r8om0E8jH8sxyZ0pLzG38"
     },
     {
@@ -372,8 +372,8 @@
           "url": "https://open.spotify.com/artist/4abnJNB1ZNdqTP8Q0zBbP7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 9",
+      "duration_ms": 228800,
+      "name": "Mama",
       "url": "https://open.spotify.com/track/43lD6s1AJLws5e2EEk8fjY"
     },
     {
@@ -1195,6 +1195,22 @@
     {
       "added_at": "2026-09-17 22:02:06",
       "album": {
+        "name": "De Aanhouder Wint",
+        "url": "https://open.spotify.com/album/5kjX1cp1rcepFRjfXiFLMC"
+      },
+      "artists": [
+        {
+          "name": "Froze",
+          "url": "https://open.spotify.com/artist/2LARH7BtBpQnr8yCaqjiT6"
+        }
+      ],
+      "duration_ms": 275334,
+      "name": "Stef Bos",
+      "url": "https://open.spotify.com/track/53XZi4Ay0SFnsDGeFBigdu"
+    },
+    {
+      "added_at": "2026-09-17 22:02:06",
+      "album": {
         "name": "Murch",
         "url": "https://open.spotify.com/album/0ygO2h6Kuw4W4YZ9C5bOh5"
       },
@@ -1628,8 +1644,8 @@
           "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 17",
+      "duration_ms": 258083,
+      "name": "Autobahn",
       "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV"
     },
     {
@@ -2056,8 +2072,8 @@
           "url": "https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 295906,
+      "name": "Lonely",
       "url": "https://open.spotify.com/track/4QV90sdysX82x6GyFX2URa"
     },
     {

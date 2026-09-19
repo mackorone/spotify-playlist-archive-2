@@ -4,7 +4,7 @@
 
 > The best new electronic indie music\. Cover: Maribou State
 
-537 songs - 1 day 9 hr 39 min
+538 songs - 1 day 9 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -450,7 +450,7 @@
 | [Swipe \(ft\. Isis Salam\)](https://open.spotify.com/track/04vGc65ydCvfyeV9E4vs2l) | [Prozak](https://open.spotify.com/artist/1cFxOHBhTZDQuzNaIvzBel), [Benson](https://open.spotify.com/artist/6XVEZ5mTWp5DpfuFPn1QCz), [Isis Salam](https://open.spotify.com/artist/3bYWS9Hq4G2gF2Cb6rnRb2) | [Swipe \(ft\. Isis Salam\)](https://open.spotify.com/album/5m4FJKUGhqsL6OqoxAlqzQ) | 3:09 | 2026-03-13 | 2026-04-17 |
 | [SWITCH](https://open.spotify.com/track/10PTIp0MdGqBuTvtTEuhR0) | [Sweatbaby](https://open.spotify.com/artist/1phDY6rkCuE2y5DYiQZ2Z9), [Ruby Rodgers](https://open.spotify.com/artist/1yQ8xHBILLk32v48YCzq0G) | [EVERYTHING IS FUNNY](https://open.spotify.com/album/4Gg47cyXg8R06a0SDkCt6O) | 2:44 | 2026-05-29 | 2026-07-10 |
 | [Switch It](https://open.spotify.com/track/2bZRE5rSZL2aMZh86oaMuI) | [TOKiMONSTA](https://open.spotify.com/artist/3VwKSHAfgzV1DOHV0aANCI), [Cakes da Killa](https://open.spotify.com/artist/6MoQZOH2KnQrJhVtO9VoXC), [GAWD](https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6) | [Switch It](https://open.spotify.com/album/4und1ixZx8BGcsyvk2kniU) | 3:04 | 2024-06-21 | 2025-02-14 |
-| [Switch Up](https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Switch Up](https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU) | 3:35 | 2026-05-08 |  |
+| [Switch Up](https://open.spotify.com/track/1FHSvpvNWmJcpDcmsxrtbH) | [Mike D](https://open.spotify.com/artist/1Um2jYfcrBnrDlqvW2KGw8) | [Switch Up](https://open.spotify.com/album/3zjyEgzxDUFRaWdCTM5vZU) | 3:35 | 2026-05-08 | 2026-09-19 |
 | [Tacchini](https://open.spotify.com/track/6YpeSOKGqvxO8M8K5SlsjQ) | [Mind Enterprises](https://open.spotify.com/artist/5pN1DJhPFDKso4OtC0QhnB) | [Tacchini](https://open.spotify.com/album/3j9gagsPfqOmdi7jB0F2tG) | 4:49 | 2026-02-13 | 2026-07-05 |
 | [Take Me There](https://open.spotify.com/track/3BcMePW9jGSfzYqlNHdtvz) | [Antony Szmierek](https://open.spotify.com/artist/1odn2oz1bEsGWugQ8W3zhn) | [Service Station At The End Of The Universe](https://open.spotify.com/album/1Lf53XbMfvkF7oDKlZkahO) | 3:32 | 2025-02-28 | 2025-03-28 |
 | [Take My Space](https://open.spotify.com/track/3cIbR7s1wSEhesuYLRD9ij) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Take My Space](https://open.spotify.com/album/62SfUalXptRGizTRybkeXH) | 2:23 | 2026-05-07 |  |
@@ -477,6 +477,7 @@
 | [The Way You Make Me Feel](https://open.spotify.com/track/7iXA7a53fVKxPJFJvebJ8P) | [The Kount](https://open.spotify.com/artist/24OnVX6EYwtu7P3jpMenPY), [Marc Rebillet](https://open.spotify.com/artist/72udTJKu1pGovvS9aCYGMI), [Moods](https://open.spotify.com/artist/14uVJsPC4DByeuD0cq36ez) | [The Way You Make Me Feel](https://open.spotify.com/album/3YzSZa0NOzbojLGnhKohbk) | 3:24 | 2021-10-28 | 2024-06-21 |
 | [There for You](https://open.spotify.com/track/2Xk53t3TnNSqeSm2pXD6jv) | [Everyone You Know](https://open.spotify.com/artist/4UAnAM35NDxEWd5WXKv7jM) | [Just for the Times](https://open.spotify.com/album/751FUQcmvpQEinjZhTOLHH) | 3:48 | 2021-10-28 | 2024-04-12 |
 | [THIEF](https://open.spotify.com/track/4LtWEmxk2fW2tPiTUh2YII) | [corto.alto](https://open.spotify.com/artist/5Kd7e5lauV4CDdTHm5uiJH) | [THIEF](https://open.spotify.com/album/6xQzdxhFSXzY43USc4EmJJ) | 3:02 | 2026-05-15 |  |
+| [Think Tomorrow](https://open.spotify.com/track/6mw92ldgNYOy1EupraEGI5) | [Nuage](https://open.spotify.com/artist/40aC0ICH8LjuNvZrh30WtD) | [Think Tomorrow](https://open.spotify.com/album/0Y4RcSfy7TOVDyuQFvU2dk) | 4:40 | 2026-09-10 |  |
 | [Think Twice](https://open.spotify.com/track/7xpSlt90FIiu0yl9q7ZZFx) | [Aonair](https://open.spotify.com/artist/6soC4hjokac6GbBiiJEQ57), [Caoi De Barra](https://open.spotify.com/artist/3uCUliGLxC72lpRordFyuH) | [Think Twice](https://open.spotify.com/album/07CD9VfwrsTglHLMQGohBT) | 3:41 | 2021-10-28 | 2024-06-21 |
 | [THIS CITY'S BURNING](https://open.spotify.com/track/05IC4b9m1SH8oo9XkESRby) | [Boston Bun](https://open.spotify.com/artist/1Na1sVrGWKwAigaW7a6hi5) | [MIXED FEELINGS \(reloaded\)](https://open.spotify.com/album/4VKMZAA4wn45aSecLkBniq) | 3:42 | 2025-01-17 | 2025-02-14 |
 | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/track/4NtQwxR7o3ixPVKLyOTS66) | [Prospa](https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb), [RAHH](https://open.spotify.com/artist/1WR2sls6n0N1usqywvysnX) | [This Rhythm \(feat\. RAHH\)](https://open.spotify.com/album/3lOIzDGjuWw1kXWNTML6px) | 3:09 | 2025-02-21 | 2025-04-18 |

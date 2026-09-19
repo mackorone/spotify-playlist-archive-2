@@ -1,12 +1,12 @@
 {
   "description": "This is Stevie Nicks. The essential tracks, all in one playlist.",
-  "num_followers": 174569,
+  "num_followers": 174581,
   "original_name": "This Is Stevie Nicks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAADUH8Q0M+Uto4tMKe5HEBDZ",
+  "snapshot_id": "aqstgAAAAAAb/Ha+8A6JfEGKPnSOPMey",
   "tracks": [
     {
       "added_at": null,
@@ -307,8 +307,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Crystal Visions...The Very Best of Stevie Nicks",
-        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
+        "name": "Trouble in Shangri-La",
+        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
       },
       "artists": [
         {
@@ -316,9 +316,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 421800,
-      "name": "Rhiannon - Live 2005",
-      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
+      "duration_ms": 294920,
+      "name": "Sorcerer",
+      "url": "https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni"
     },
     {
       "added_at": null,
@@ -339,8 +339,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trouble in Shangri-La",
-        "url": "https://open.spotify.com/album/77Q6ef8LmG5pCA34yyRjOg"
+        "name": "Crystal Visions...The Very Best of Stevie Nicks",
+        "url": "https://open.spotify.com/album/7q0dYnAjmqZBJLhMBre8aL"
       },
       "artists": [
         {
@@ -348,9 +348,9 @@
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 294920,
-      "name": "Sorcerer",
-      "url": "https://open.spotify.com/track/0MzPy6NHF8w4ybSYqMweni"
+      "duration_ms": 421800,
+      "name": "Rhiannon - Live 2005",
+      "url": "https://open.spotify.com/track/3brPoiEss4oQsy6BxUzbFe"
     },
     {
       "added_at": null,
@@ -402,15 +402,11 @@
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        },
-        {
-          "name": "Tom Petty",
-          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 201826,
-      "name": "I Will Run to You - 2016 Remaster",
-      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
+      "duration_ms": 301293,
+      "name": "Nightbird - 2016 Remaster",
+      "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
     },
     {
       "added_at": null,
@@ -478,11 +474,15 @@
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        },
+        {
+          "name": "Tom Petty",
+          "url": "https://open.spotify.com/artist/2UZMlIwnkgAEDBsw1Rejkn"
         }
       ],
-      "duration_ms": 301293,
-      "name": "Nightbird - 2016 Remaster",
-      "url": "https://open.spotify.com/track/4pCCNs8hTsXAnadASFtREk"
+      "duration_ms": 201826,
+      "name": "I Will Run to You - 2016 Remaster",
+      "url": "https://open.spotify.com/track/0QyRzKoOzbeOOk1JbufxZ2"
     },
     {
       "added_at": null,
@@ -775,22 +775,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rockstar",
-        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
+        "name": "Pack Up The Plantation: Live!",
+        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+          "name": "Tom Petty and the Heartbreakers",
+          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
         },
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 301583,
-      "name": "What Has Rock And Roll Ever Done For You",
-      "url": "https://open.spotify.com/track/5XRE1d7LrJJ3yA5AbpRogE"
+      "duration_ms": 145201,
+      "name": "Needles And Pins - Live At The The Forum/1981",
+      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
     },
     {
       "added_at": null,
@@ -819,22 +819,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Pack Up The Plantation: Live!",
-        "url": "https://open.spotify.com/album/5HutXQpnb17yRXVnrolKR0"
+        "name": "Rockstar",
+        "url": "https://open.spotify.com/album/2thjKwqPvHo5SWzSzudVB2"
       },
       "artists": [
         {
-          "name": "Tom Petty and the Heartbreakers",
-          "url": "https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
         },
         {
           "name": "Stevie Nicks",
           "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
         }
       ],
-      "duration_ms": 145201,
-      "name": "Needles And Pins - Live At The The Forum/1981",
-      "url": "https://open.spotify.com/track/6Alshe3WYMVZRbYWgijYWT"
+      "duration_ms": 301583,
+      "name": "What Has Rock And Roll Ever Done For You",
+      "url": "https://open.spotify.com/track/5XRE1d7LrJJ3yA5AbpRogE"
     },
     {
       "added_at": null,

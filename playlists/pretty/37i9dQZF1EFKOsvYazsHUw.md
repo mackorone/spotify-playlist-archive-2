@@ -122,8 +122,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 112 | [Tell The World](https://open.spotify.com/track/4T5ZHiswsAfcnISctw4uTW) | [Jesse Labelle](https://open.spotify.com/artist/5xLdSGejmdil911M6q1HdU) | [Two](https://open.spotify.com/album/0d4qbYdDgwYRrFlSeOFLXR) | 3:22 |
 | 113 | [Like The Ocean](https://open.spotify.com/track/6kjb27Mw4DbaOfrFYs7L6H) | [Matt Palmer](https://open.spotify.com/artist/1lElMtQBM7yiErMxrNCRK3) | [Like The Ocean](https://open.spotify.com/album/18mLjPBMeWrvOre4sl8T9W) | 3:24 |
 | 114 | [Baby Ya Right](https://open.spotify.com/track/4E3V9P9zAQreNDcVy7SI65) | [Lukay](https://open.spotify.com/artist/7McTi9RqgxownB25kiyNPt) | [Melting Pot](https://open.spotify.com/album/7xPnEfJEGoFMwshyGbqi54) | 3:55 |
-| 115 | [10s](https://open.spotify.com/track/4Jzd5FnbzmeZBzzx3Ba7xx) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 |
-| 116 | [Mantra](https://open.spotify.com/track/14ftucxsjLUHr5Begj1cWE) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-MISSION](https://open.spotify.com/album/0RUIhDkxPVjAjUXawRmjgn) | 3:44 |
+| 115 | [Mantra](https://open.spotify.com/track/14ftucxsjLUHr5Begj1cWE) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-MISSION](https://open.spotify.com/album/0RUIhDkxPVjAjUXawRmjgn) | 3:44 |
+| 116 | [10s](https://open.spotify.com/track/4Jzd5FnbzmeZBzzx3Ba7xx) | [Tayla Parx](https://open.spotify.com/artist/1LzWWI9v4UKdbBgz8fqi15) | [Many Moons, Many Suns](https://open.spotify.com/album/6y9GtAWTtSJPGBsa9LDSa7) | 2:57 |
 | 117 | [Drifting Through Light](https://open.spotify.com/track/32LpxGKmzDvA8g6bKhH4g1) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-MISSION](https://open.spotify.com/album/0RUIhDkxPVjAjUXawRmjgn) | 4:40 |
 | 118 | [Inno\-sense](https://open.spotify.com/track/1Mee8GJDj2VZnisGRe8rAQ) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 4:09 |
 | 119 | [Connected](https://open.spotify.com/track/3AHaT1WvmVdTyy9imtkW6o) | [Karl Wolf](https://open.spotify.com/artist/1aVH8BgQhW8TT5hgNGwLc7), [Robin Packalen](https://open.spotify.com/artist/4Q4b4S784htx6DtxcMUfMO) | [Finally Free](https://open.spotify.com/album/0PimgHIJe4nDDS8CBmPGzC) | 3:17 |
@@ -150,4 +150,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFKOsvYazsHUw.md) - [plain]
 | 140 | [Aquatic Reflections](https://open.spotify.com/track/5qnES870WffOrO2s0iG8SM) | [Yonatan Ayal](https://open.spotify.com/artist/6p79syafiayehoS7optud2) | [INNER\-SENSE](https://open.spotify.com/album/7IwpxeS1NtKpCbkKKck9BX) | 3:03 |
 | 141 | [Murder](https://open.spotify.com/track/7Ev7Bb8tPrQFR2MvQzrfM9) | [Thes](https://open.spotify.com/artist/7nnzlSxfrZkifdVvMhKyGp) | [Young Giant](https://open.spotify.com/album/4j6RpYZk9y67ggu1gWO8QL) | 4:35 |
 
-Snapshot ID: `AcclCAAAAAA4DnUla2ORMvCYk8KqcuD3`
+Snapshot ID: `AccqxgAAAADcCl+fhhmTAeQRhqwdHZDs`

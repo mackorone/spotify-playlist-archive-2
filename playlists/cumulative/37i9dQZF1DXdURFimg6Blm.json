@@ -1283,6 +1283,28 @@
     },
     {
       "album": {
+        "name": "Back To Funk",
+        "url": "https://open.spotify.com/album/5pELdg3Dntw5icXk1N7QiN"
+      },
+      "artists": [
+        {
+          "name": "Bushbaby",
+          "url": "https://open.spotify.com/artist/6YYg4TQoF8cp50IuM2vU4C"
+        },
+        {
+          "name": "Danny P",
+          "url": "https://open.spotify.com/artist/6RImhfdBSbW7mioCBKmQOd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219111,
+      "name": "Back To Funk",
+      "url": "https://open.spotify.com/track/673evkde3J0TA7JxdCClDd"
+    },
+    {
+      "album": {
         "name": "Back to Life",
         "url": "https://open.spotify.com/album/2eShCMLXmJ06B65OMOIOQ4"
       },
@@ -2574,7 +2596,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 193846,
       "name": "Can't Say Nah (feat. Benni Ola)",
       "url": "https://open.spotify.com/track/1wQYUksfWhqFKcoQzjHGHO"
@@ -3806,7 +3828,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 213965,
       "name": "Destiny",
       "url": "https://open.spotify.com/track/5OpaQpPSkkpiSXUSrZx7ob"
@@ -6100,7 +6122,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 257843,
       "name": "Get Get Down",
       "url": "https://open.spotify.com/track/69A01pYY2LORH0xJkYWL2d"
@@ -7184,7 +7206,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 154943,
       "name": "Homework (feat. Lancey Foux)",
       "url": "https://open.spotify.com/track/3DPmmX5uRSoEpldlHmP8Eq"
@@ -7312,7 +7334,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 138772,
       "name": "Houseboy",
       "url": "https://open.spotify.com/track/6SI6m9H51acvV0poAOvGHS"
@@ -7668,6 +7690,24 @@
       "duration_ms": 137986,
       "name": "i like the way you kiss me - southstar remix",
       "url": "https://open.spotify.com/track/7skteOnDbwZ3ZvjSe99xv2"
+    },
+    {
+      "album": {
+        "name": "I Need Your Lovin'",
+        "url": "https://open.spotify.com/album/2uukapgbed8sqMqHQrmlTI"
+      },
+      "artists": [
+        {
+          "name": "Matroda",
+          "url": "https://open.spotify.com/artist/45lcbTsX07JWzmTIjcdyBz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "I Need Your Lovin'",
+      "url": "https://open.spotify.com/track/5Tjkz9SXrtWdwQmEm11ZPS"
     },
     {
       "album": {
@@ -11086,7 +11126,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 175028,
       "name": "NO BRAKES",
       "url": "https://open.spotify.com/track/5tSKSeCq8veSh3je7x6mML"

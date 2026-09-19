@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-02-21",
-  "description": "Discover your new favourite artists from UK&IE. Cover: Dermot Henry",
+  "description": "Discover your new favourite artists from UK&IE. Cover: Pocket",
   "name": "RADAR UK & Ireland",
   "tracks": [
     {
@@ -6428,6 +6428,24 @@
       "duration_ms": 196000,
       "name": "Void",
       "url": "https://open.spotify.com/track/1KpTRAQKZuZS21myWlTuRu"
+    },
+    {
+      "album": {
+        "name": "LOST DISC",
+        "url": "https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218651,
+      "name": "WAITING FOR YOU",
+      "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
     },
     {
       "album": {

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAApMzQwj8iZRItybeJf03of",
+  "snapshot_id": "aqstgAAAAAAw/64gmDycze++g+JtiLQi",
   "tracks": [
     {
       "added_at": null,
@@ -107,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "Quem Nunca",
+      "url": "https://open.spotify.com/track/3g0GvJxgn2eZoJAdrqUdGk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -127,22 +143,6 @@
       "duration_ms": 304473,
       "name": "Resist\u00eancia - Ao Vivo",
       "url": "https://open.spotify.com/track/0RwI9TJMTLIQLNSWBZ6Lff"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "Quem Nunca",
-      "url": "https://open.spotify.com/track/3g0GvJxgn2eZoJAdrqUdGk"
     },
     {
       "added_at": null,
@@ -187,6 +187,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Fica Tranquilo",
+        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        }
+      ],
+      "duration_ms": 290040,
+      "name": "Nas M\u00e3os do Oleiro",
+      "url": "https://open.spotify.com/track/28fcOzkWlYVKVJDQntl4eO"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -207,22 +223,6 @@
       "duration_ms": 448926,
       "name": "Plano do Senhor - Ao Vivo",
       "url": "https://open.spotify.com/track/7oe0KG1ZEDkoM9gKD05HxU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fica Tranquilo",
-        "url": "https://open.spotify.com/album/1l76aJyyt6956BdMIwFDpV"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        }
-      ],
-      "duration_ms": 290040,
-      "name": "Nas M\u00e3os do Oleiro",
-      "url": "https://open.spotify.com/track/28fcOzkWlYVKVJDQntl4eO"
     },
     {
       "added_at": null,
@@ -267,26 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus de Obras Completas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 543627,
-      "name": "Eliseu - Ao Vivo",
-      "url": "https://open.spotify.com/track/4z9cbMtDF6v9EpVXUWqWYM"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Far\u00e1s Outra Vez",
         "url": "https://open.spotify.com/album/7G8XGVmyU4c0ZOeX5nyzPK"
       },
@@ -303,6 +283,26 @@
       "duration_ms": 246998,
       "name": "Far\u00e1s Outra Vez",
       "url": "https://open.spotify.com/track/3DFHmoWf6DvDlYQWpSGOrj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus de Obras Completas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 543627,
+      "name": "Eliseu - Ao Vivo",
+      "url": "https://open.spotify.com/track/4z9cbMtDF6v9EpVXUWqWYM"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus de Obras Completas (Ao Vivo)",
-        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Todah Music",
-          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
-        }
-      ],
-      "duration_ms": 424985,
-      "name": "Cicatrizes - Ao Vivo",
-      "url": "https://open.spotify.com/track/6v9d7DgP3HoWwCaR8EJ5t0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sonhador (Ao Vivo)",
         "url": "https://open.spotify.com/album/5BBal0yfHCqk2WMBS3wiRb"
       },
@@ -379,6 +359,26 @@
       "duration_ms": 233093,
       "name": "Sonhador (Ao Vivo)",
       "url": "https://open.spotify.com/track/115fT6bA6oiR4mHVrnZzG2"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Deus de Obras Completas (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Todah Music",
+          "url": "https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY"
+        }
+      ],
+      "duration_ms": 424985,
+      "name": "Cicatrizes - Ao Vivo",
+      "url": "https://open.spotify.com/track/6v9d7DgP3HoWwCaR8EJ5t0"
     },
     {
       "added_at": null,
@@ -419,6 +419,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+      },
+      "artists": [
+        {
+          "name": "Kemilly Santos",
+          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
+        },
+        {
+          "name": "Sued Silva",
+          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
+        }
+      ],
+      "duration_ms": 217500,
+      "name": "Calma",
+      "url": "https://open.spotify.com/track/2jpAVrNOYTHLguyC7ccPGj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Deus de Obras Completas (Ao Vivo)",
         "url": "https://open.spotify.com/album/5r0swEHPG3AA5yhRrepC8F"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 349984,
       "name": "Deus do Amanh\u00e3 - Ao Vivo",
       "url": "https://open.spotify.com/track/5FEw9JQkDELlGDDwqqVYKG"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
-      },
-      "artists": [
-        {
-          "name": "Kemilly Santos",
-          "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
-        },
-        {
-          "name": "Sued Silva",
-          "url": "https://open.spotify.com/artist/4EaUmdr2olpJ9n2OARYRJ2"
-        }
-      ],
-      "duration_ms": 217500,
-      "name": "Calma",
-      "url": "https://open.spotify.com/track/2jpAVrNOYTHLguyC7ccPGj"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
-        "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 241874,
-      "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
-      "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
+      "duration_ms": 273913,
+      "name": "A Resposta",
+      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
     },
     {
       "added_at": null,
@@ -791,8 +791,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+        "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+        "url": "https://open.spotify.com/album/7vdquHLDt7lLkyOa6CawVN"
       },
       "artists": [
         {
@@ -800,9 +800,9 @@
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 273913,
-      "name": "A Resposta",
-      "url": "https://open.spotify.com/track/4oNXwuFag2I7YMDLvlldtW"
+      "duration_ms": 241874,
+      "name": "Ele Te Escolheu (Ess\u00eancia Sessions)",
+      "url": "https://open.spotify.com/track/1VllRsyiavxu58wL4FGPv1"
     },
     {
       "added_at": null,
@@ -827,22 +827,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Grito Aflito",
-        "url": "https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P"
+        "name": "Plano Original",
+        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
       },
       "artists": [
-        {
-          "name": "Rayssa Peres",
-          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
-        },
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 280117,
-      "name": "Grito Aflito",
-      "url": "https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E"
+      "duration_ms": 311450,
+      "name": "Barulho de Milagre",
+      "url": "https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At"
     },
     {
       "added_at": null,
@@ -863,18 +859,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Plano Original",
-        "url": "https://open.spotify.com/album/4bAZtQAOkCmTIKKyA50cCI"
+        "name": "Grito Aflito",
+        "url": "https://open.spotify.com/album/7004Y9QzkFf5IRZbz9Yq3P"
       },
       "artists": [
+        {
+          "name": "Rayssa Peres",
+          "url": "https://open.spotify.com/artist/7cOiQi1jlP9H4JRA9IBBvA"
+        },
         {
           "name": "Kemilly Santos",
           "url": "https://open.spotify.com/artist/0IkWyvcpQ0bdOmRvnJl5ld"
         }
       ],
-      "duration_ms": 311450,
-      "name": "Barulho de Milagre",
-      "url": "https://open.spotify.com/track/3km9ZMQcrPrqPn13T7Y5At"
+      "duration_ms": 280117,
+      "name": "Grito Aflito",
+      "url": "https://open.spotify.com/track/4eagNWRJ2IET4RsWa9mH9E"
     },
     {
       "added_at": null,

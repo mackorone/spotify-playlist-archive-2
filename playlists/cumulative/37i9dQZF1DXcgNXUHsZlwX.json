@@ -1536,7 +1536,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 189945,
       "name": "Comme un b\u00e9b\u00e9",
       "url": "https://open.spotify.com/track/1QNvIVa7cMATG461n2UxGj"
@@ -1840,7 +1840,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 144173,
       "name": "Dans une autre cour",
       "url": "https://open.spotify.com/track/4bogJtkAPlJ8C6kE3IJ0v8"
@@ -1884,7 +1884,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 316826,
       "name": "Dear Friend, Queer Friend",
       "url": "https://open.spotify.com/track/40Q1JRSxZ3U81vE2wH3ix1"
@@ -2014,7 +2014,7 @@
       ],
       "date_added": "2021-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 226586,
       "name": "Des histoires qui ne seront jamais finies",
       "url": "https://open.spotify.com/track/0lQ6omsWPn0jUDkT4frBuu"
@@ -3743,6 +3743,24 @@
     },
     {
       "album": {
+        "name": "How Do You Like Me Now",
+        "url": "https://open.spotify.com/album/2AFgIaJDyU9EUa8EjNzN8t"
+      },
+      "artists": [
+        {
+          "name": "Helena Deland",
+          "url": "https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146000,
+      "name": "How Do You Like Me Now",
+      "url": "https://open.spotify.com/track/4bAbkWQVY9tjSYH5jLhufV"
+    },
+    {
+      "album": {
         "name": "H\u00f4tel W",
         "url": "https://open.spotify.com/album/2OHrWg2fgiBqDTbpi97yYD"
       },
@@ -4546,6 +4564,24 @@
       "duration_ms": 191360,
       "name": "Je vais te faire danser",
       "url": "https://open.spotify.com/track/4jOmWOr64qpeLx00Q1RCac"
+    },
+    {
+      "album": {
+        "name": "Recueil",
+        "url": "https://open.spotify.com/album/1CvwAMNTj8BfVZIepoK39D"
+      },
+      "artists": [
+        {
+          "name": "La Steppe",
+          "url": "https://open.spotify.com/artist/6yPLwJZvsWaw6VMuUFppOf"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223821,
+      "name": "Jour",
+      "url": "https://open.spotify.com/track/52YVcM6riVcSfDOjvCvtl1"
     },
     {
       "album": {
@@ -6069,6 +6105,24 @@
     },
     {
       "album": {
+        "name": "Baignade au centre du fleuve",
+        "url": "https://open.spotify.com/album/7t3tXpp9Y7nxRsGV6zPTqr"
+      },
+      "artists": [
+        {
+          "name": "Antoine Corriveau",
+          "url": "https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235613,
+      "name": "Les vagues",
+      "url": "https://open.spotify.com/track/1bahlqlm8z6G0L1fIyQ2w6"
+    },
+    {
+      "album": {
         "name": "Les vents aimants",
         "url": "https://open.spotify.com/album/5DJaV9O0iPbyFgueY0WgV8"
       },
@@ -6774,6 +6828,28 @@
       "duration_ms": 233440,
       "name": "Mardi de pluie",
       "url": "https://open.spotify.com/track/60EuBCizMRhgud2wplAFCT"
+    },
+    {
+      "album": {
+        "name": "Margins",
+        "url": "https://open.spotify.com/album/7nTxvRImkzNxWwsE3V4COR"
+      },
+      "artists": [
+        {
+          "name": "Ash",
+          "url": "https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS"
+        },
+        {
+          "name": "Geoffroy",
+          "url": "https://open.spotify.com/artist/0VzoflxRgSVEWHYmCbMOJJ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237426,
+      "name": "Margins",
+      "url": "https://open.spotify.com/track/66G363ZUjwSNq2KmHUvEgw"
     },
     {
       "album": {
@@ -9553,6 +9629,24 @@
     },
     {
       "album": {
+        "name": "Si on allait",
+        "url": "https://open.spotify.com/album/3r937q1h9NV530JTZDmZy3"
+      },
+      "artists": [
+        {
+          "name": "Huriel",
+          "url": "https://open.spotify.com/artist/6RDCp8jmo1UzN9Lqnm751K"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 247362,
+      "name": "Si on allait",
+      "url": "https://open.spotify.com/track/1cmw415RluZZ83KUfE8YDw"
+    },
+    {
+      "album": {
         "name": "Les grandes art\u00e8res",
         "url": "https://open.spotify.com/album/2HGCx9cx51b0MlkBdzUiaY"
       },
@@ -11668,7 +11762,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 172500,
       "name": "Win of the Century",
       "url": "https://open.spotify.com/track/6uL1E5qg1PxEAzxBODCxPh"

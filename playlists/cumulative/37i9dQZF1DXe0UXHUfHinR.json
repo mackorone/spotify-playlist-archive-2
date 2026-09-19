@@ -8466,7 +8466,7 @@
       ],
       "date_added": "2024-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 404026,
       "name": "Light Blue",
       "url": "https://open.spotify.com/track/1aScbLgIXdvopADfbla929"
@@ -11952,6 +11952,40 @@
       "duration_ms": 377706,
       "name": "Senor Mouse",
       "url": "https://open.spotify.com/track/6linlPbVWEecMEMfNcul1e"
+    },
+    {
+      "album": {
+        "name": "Public Eye",
+        "url": "https://open.spotify.com/album/1eihzffGTVuLqxngyKA4a5"
+      },
+      "artists": [
+        {
+          "name": "Roy Hargrove",
+          "url": "https://open.spotify.com/artist/49zXTngyUTielHTbbH5YKs"
+        },
+        {
+          "name": "Billy Higgins",
+          "url": "https://open.spotify.com/artist/6FmHMrX0jETx6WNGzyZKRs"
+        },
+        {
+          "name": "Antonio Hart",
+          "url": "https://open.spotify.com/artist/6JSmjrmk4fKV6hnxtt6ZcA"
+        },
+        {
+          "name": "Stephen Scott",
+          "url": "https://open.spotify.com/artist/06kLNOGaO1lOeaUAUnFByH"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        }
+      ],
+      "date_added": "2025-12-04",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 450666,
+      "name": "September in the Rain",
+      "url": "https://open.spotify.com/track/2qnw6oYuN4NAkJtG6g8UdU"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Wampi",
-  "num_followers": 168256,
+  "num_followers": 168277,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK0r9uolWyr6IuvjM+jn2n98p25B",
+  "snapshot_id": "AAAAAKQbraCnU88CHgaZ1dWcknx/Eu7z",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:34",
@@ -811,34 +811,6 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
-        "name": "POQUITICO",
-        "url": "https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT"
-      },
-      "artists": [
-        {
-          "name": "Zurdo Mc",
-          "url": "https://open.spotify.com/artist/2WPnRprqCgkxTrErb9xuqN"
-        },
-        {
-          "name": "Payaso x Ley",
-          "url": "https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA"
-        },
-        {
-          "name": "Ernesto Losa",
-          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
-        },
-        {
-          "name": "Wildey",
-          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
-        }
-      ],
-      "duration_ms": 198000,
-      "name": "POQUITICO",
-      "url": "https://open.spotify.com/track/1WOwgd7rhOlidOhkn2rcp7"
-    },
-    {
-      "added_at": "2026-09-11 04:01:34",
-      "album": {
         "name": "Un Tiempo (Remix)",
         "url": "https://open.spotify.com/album/2FDk8opYaD456Vo5BVp6aG"
       },
@@ -867,22 +839,30 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
-        "name": "Tamoarriba",
-        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
+        "name": "POQUITICO",
+        "url": "https://open.spotify.com/album/6qHvjG50ACS7ELdCLBmOFT"
       },
       "artists": [
         {
-          "name": "Jacob Forever",
-          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+          "name": "Zurdo Mc",
+          "url": "https://open.spotify.com/artist/2WPnRprqCgkxTrErb9xuqN"
         },
         {
-          "name": "El Chacal",
-          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+          "name": "Payaso x Ley",
+          "url": "https://open.spotify.com/artist/0ZbitUHy4wYrvbCiRPS1qA"
+        },
+        {
+          "name": "Ernesto Losa",
+          "url": "https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS"
+        },
+        {
+          "name": "Wildey",
+          "url": "https://open.spotify.com/artist/7CNxv71fklGu3VhjX0QDiS"
         }
       ],
-      "duration_ms": 210228,
-      "name": "Otro Trago",
-      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
+      "duration_ms": 198000,
+      "name": "POQUITICO",
+      "url": "https://open.spotify.com/track/1WOwgd7rhOlidOhkn2rcp7"
     },
     {
       "added_at": "2026-09-11 04:01:34",
@@ -907,6 +887,26 @@
       "duration_ms": 169611,
       "name": "MARIDON",
       "url": "https://open.spotify.com/track/631ybVLS21A3wY9zmHOsrw"
+    },
+    {
+      "added_at": "2026-09-11 04:01:34",
+      "album": {
+        "name": "Tamoarriba",
+        "url": "https://open.spotify.com/album/5VBE3hC5gZeDzlsf1r3I9V"
+      },
+      "artists": [
+        {
+          "name": "Jacob Forever",
+          "url": "https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp"
+        },
+        {
+          "name": "El Chacal",
+          "url": "https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA"
+        }
+      ],
+      "duration_ms": 210228,
+      "name": "Otro Trago",
+      "url": "https://open.spotify.com/track/3LxJkenFqGh29Jvg1MIAAV"
     },
     {
       "added_at": "2026-09-11 04:01:34",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 
 > Weekly new Hardstyle releases! Cover: Ran\-D
 
-[Spotify](https://open.spotify.com/user/spotify) - 301,452 likes - 100 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 301,718 likes - 100 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7NhGf24haor.md) - [plain]
 | 99 | [All I Am](https://open.spotify.com/track/7paqDj5KUo47My3t8latkt) | [Primeshock](https://open.spotify.com/artist/0BtiMLqwAvO3yHcPh5BWCS), [Cryex](https://open.spotify.com/artist/5NkT0VLTEXldi82KVVnG1b) | [Higher Rush / All I Am EP](https://open.spotify.com/album/3HqGF6XAhKUQjPI46TRoEW) | 3:21 |
 | 100 | [Wolf City Anthem](https://open.spotify.com/track/2mdYEQ3bt8FaYOqgduO9rF) | [Hysta](https://open.spotify.com/artist/5b4R0928g89y6qmOgtEN1O) | [Wolf City Anthem](https://open.spotify.com/album/0ZJuVo40fdaJgewKExLxuI) | 2:43 |
 
-Snapshot ID: `AAAAAGXM2g+P/PyRKYZ6ToQNJzTEyPFf`
+Snapshot ID: `AAAAAGVeXRwmdbDyK1K2HUSz7c6q///L`

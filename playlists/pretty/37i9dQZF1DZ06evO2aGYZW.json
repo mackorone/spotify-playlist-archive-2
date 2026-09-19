@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 206004,
+  "num_followers": 206822,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAAbh6I+ruIoCFtrvd2r2EHI",
+  "snapshot_id": "aqstgAAAAAA3s78FTkoG1wpWhX08fsib",
   "tracks": [
     {
       "added_at": null,
@@ -179,6 +179,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "HIND'S HALL",
+        "url": "https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 168941,
+      "name": "HIND'S HALL",
+      "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Unruly Mess I've Made",
         "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
@@ -215,22 +231,6 @@
       "duration_ms": 292593,
       "name": "Downtown (feat. Melle Mel, Grandmaster Caz, Kool Moe Dee & Eric Nally)",
       "url": "https://open.spotify.com/track/5pfJsMwoRYKampPay8amX0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HIND'S HALL",
-        "url": "https://open.spotify.com/album/5sufLQAlJG3TnaZ1EgfqzB"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        }
-      ],
-      "duration_ms": 168941,
-      "name": "HIND'S HALL",
-      "url": "https://open.spotify.com/track/1zOgXnODZUp87IGbF3b8YB"
     },
     {
       "added_at": null,
@@ -346,11 +346,15 @@
         {
           "name": "Ryan Lewis",
           "url": "https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1"
+        },
+        {
+          "name": "Mary Lambert",
+          "url": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
         }
       ],
-      "duration_ms": 299599,
-      "name": "Wing$",
-      "url": "https://open.spotify.com/track/2NywFcoD8G4U5SyIh8CWQ3"
+      "duration_ms": 320034,
+      "name": "Same Love (feat. Mary Lambert)",
+      "url": "https://open.spotify.com/track/2SUbEGOWS0cUV19uFjQQxR"
     },
     {
       "added_at": null,
@@ -395,6 +399,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "HIND'S HALL 2 (feat. anees, MC Abdul, & Amer Zahr)",
+        "url": "https://open.spotify.com/album/3hnZUQIXpDRh3o9IYhkmae"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "anees",
+          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
+        },
+        {
+          "name": "MC Abdul",
+          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
+        },
+        {
+          "name": "Amer Zahr",
+          "url": "https://open.spotify.com/artist/5jyiTzlbmqRiXrw9ueKJ3u"
+        }
+      ],
+      "duration_ms": 317725,
+      "name": "HIND'S HALL 2 (feat. anees, MC Abdul, & Amer Zahr)",
+      "url": "https://open.spotify.com/track/77BOEFqrLR4GorhMHwUYoG"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Heist",
         "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },
@@ -410,15 +442,11 @@
         {
           "name": "Ryan Lewis",
           "url": "https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1"
-        },
-        {
-          "name": "Mary Lambert",
-          "url": "https://open.spotify.com/artist/5Z2NUZiY3FA00HKu5WTMhA"
         }
       ],
-      "duration_ms": 320034,
-      "name": "Same Love (feat. Mary Lambert)",
-      "url": "https://open.spotify.com/track/2SUbEGOWS0cUV19uFjQQxR"
+      "duration_ms": 299599,
+      "name": "Wing$",
+      "url": "https://open.spotify.com/track/2NywFcoD8G4U5SyIh8CWQ3"
     },
     {
       "added_at": null,
@@ -467,34 +495,6 @@
       "duration_ms": 305240,
       "name": "Growing Up (feat. Ed Sheeran)",
       "url": "https://open.spotify.com/track/44T13PWJ87jb3lFElhVIHx"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "HIND'S HALL 2 (feat. anees, MC Abdul, & Amer Zahr)",
-        "url": "https://open.spotify.com/album/3hnZUQIXpDRh3o9IYhkmae"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "anees",
-          "url": "https://open.spotify.com/artist/2HPqVfdPh9JkBSlFG5hK6h"
-        },
-        {
-          "name": "MC Abdul",
-          "url": "https://open.spotify.com/artist/2gr50NWFuNsweefgZzVb2E"
-        },
-        {
-          "name": "Amer Zahr",
-          "url": "https://open.spotify.com/artist/5jyiTzlbmqRiXrw9ueKJ3u"
-        }
-      ],
-      "duration_ms": 317725,
-      "name": "HIND'S HALL 2 (feat. anees, MC Abdul, & Amer Zahr)",
-      "url": "https://open.spotify.com/track/77BOEFqrLR4GorhMHwUYoG"
     },
     {
       "added_at": null,
@@ -559,6 +559,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "fucked up",
+        "url": "https://open.spotify.com/album/7121xvYFDW2K9p6IhiUqxs"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 219357,
+      "name": "fucked up",
+      "url": "https://open.spotify.com/track/7iZwny5Hp9zUObbcDsGHzT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Shadow (feat. IRO) [From Songland]",
         "url": "https://open.spotify.com/album/2TZgCoAnwX3YJmOfyC2SF3"
       },
@@ -575,22 +591,6 @@
       "duration_ms": 177965,
       "name": "Shadow (feat. IRO) - From Songland",
       "url": "https://open.spotify.com/track/09Hjv8GEDhzPxqiJCw8dSB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "fucked up",
-        "url": "https://open.spotify.com/album/7121xvYFDW2K9p6IhiUqxs"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        }
-      ],
-      "duration_ms": 219357,
-      "name": "fucked up",
-      "url": "https://open.spotify.com/track/7iZwny5Hp9zUObbcDsGHzT"
     },
     {
       "added_at": null,
@@ -683,26 +683,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "BEN",
-        "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
+        "name": "The Heist",
+        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
       },
       "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
         {
           "name": "Macklemore",
           "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
         },
         {
-          "name": "Sarah Barthel",
-          "url": "https://open.spotify.com/artist/7AVY1bJuRTZrbYW3soi1Js"
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1"
         },
         {
-          "name": "Phantogram",
-          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
+          "name": "Ben Bridwell",
+          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
         }
       ],
-      "duration_ms": 192813,
-      "name": "DAY YOU DIE (feat. Sarah Barthel of Phantogram)",
-      "url": "https://open.spotify.com/track/1e2jQhHijtvLCNUTZ1MKbC"
+      "duration_ms": 251196,
+      "name": "Starting Over (feat. Ben Bridwell)",
+      "url": "https://open.spotify.com/track/7gSyfcCtcnlHDbA8O3Lnls"
     },
     {
       "added_at": null,
@@ -731,30 +735,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Heist",
-        "url": "https://open.spotify.com/album/5QWHes9ODwn42DHTifGkXd"
+        "name": "BEN",
+        "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
       },
       "artists": [
-        {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
-        },
         {
           "name": "Macklemore",
           "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
         },
         {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5mZJerulcERBZV7xnhrVp1"
+          "name": "Sarah Barthel",
+          "url": "https://open.spotify.com/artist/7AVY1bJuRTZrbYW3soi1Js"
         },
         {
-          "name": "Ben Bridwell",
-          "url": "https://open.spotify.com/artist/6Vfn70eqp3AgtiZZtQcv4W"
+          "name": "Phantogram",
+          "url": "https://open.spotify.com/artist/1l9d7B8W0IHy3LqWsxP2SH"
         }
       ],
-      "duration_ms": 251196,
-      "name": "Starting Over (feat. Ben Bridwell)",
-      "url": "https://open.spotify.com/track/7gSyfcCtcnlHDbA8O3Lnls"
+      "duration_ms": 192813,
+      "name": "DAY YOU DIE (feat. Sarah Barthel of Phantogram)",
+      "url": "https://open.spotify.com/track/1e2jQhHijtvLCNUTZ1MKbC"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "Featuring up-and-coming Tamil artists from the Indie scene\nCover : Sam Vishal",
-  "num_followers": 21299,
+  "num_followers": 21316,
   "original_name": "RADAR Tamil",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMbfR9XZKoO+D3iPtX5CFnkoTVAQ",
+  "snapshot_id": "AAAAAFj7xYQFas/9E0+ZvuwXVH7J+WcV",
   "tracks": [
     {
       "added_at": "2026-09-02 15:26:39",
@@ -237,6 +237,22 @@
       "url": "https://open.spotify.com/track/2RhsDyaoFoLOZ16NS0ItO5"
     },
     {
+      "added_at": "2026-09-18 10:18:35",
+      "album": {
+        "name": "Varuvaaya",
+        "url": "https://open.spotify.com/album/7MUsrxgHdJTpusOfN1jKkp"
+      },
+      "artists": [
+        {
+          "name": "Kshia",
+          "url": "https://open.spotify.com/artist/2sJDE8wstTiLCnffel2NOU"
+        }
+      ],
+      "duration_ms": 153000,
+      "name": "Varuvaaya",
+      "url": "https://open.spotify.com/track/2EieJF5EFYGZRl6FUjZlQy"
+    },
+    {
       "added_at": "2026-09-17 12:40:40",
       "album": {
         "name": "Naan Paravaiyaa",
@@ -315,6 +331,22 @@
       "duration_ms": 144633,
       "name": "Mama Balayya (ReinKarnation)",
       "url": "https://open.spotify.com/track/3qr1r1ftRJB254AbJuVFKS"
+    },
+    {
+      "added_at": "2026-09-18 10:18:35",
+      "album": {
+        "name": "Unaala Thaana",
+        "url": "https://open.spotify.com/album/0oVfXQVl9J8P0bPdRpJxPD"
+      },
+      "artists": [
+        {
+          "name": "Vidusan Kaneswaran",
+          "url": "https://open.spotify.com/artist/320KWuazpEd0eY3PHQ35Zs"
+        }
+      ],
+      "duration_ms": 159295,
+      "name": "Unaala Thaana",
+      "url": "https://open.spotify.com/track/4z55zP4oypnxBMIerF7JAS"
     },
     {
       "added_at": "2026-08-04 15:12:42",
@@ -1421,26 +1453,6 @@
       "url": "https://open.spotify.com/track/3289Oo8ShsetMCZ7RK4gxG"
     },
     {
-      "added_at": "2026-04-02 06:27:19",
-      "album": {
-        "name": "Oh My Faahh!",
-        "url": "https://open.spotify.com/album/2OwP43t9xfwPbo7aJEqPVD"
-      },
-      "artists": [
-        {
-          "name": "Sharan kumar",
-          "url": "https://open.spotify.com/artist/6TZDORviDHkSuMyOC7Y1zT"
-        },
-        {
-          "name": "Sudarson Murali",
-          "url": "https://open.spotify.com/artist/3tN6lidJb3D8ajB1CR8Fl2"
-        }
-      ],
-      "duration_ms": 192396,
-      "name": "Oh My Faahh!",
-      "url": "https://open.spotify.com/track/5ulozItll1NPmEcxCfJQm6"
-    },
-    {
       "added_at": "2026-04-30 15:42:33",
       "album": {
         "name": "Sundari Sundari",
@@ -2011,30 +2023,6 @@
       "duration_ms": 254276,
       "name": "Adiye Azhage",
       "url": "https://open.spotify.com/track/3c9btVWeQwlR9tfRZPZDRH"
-    },
-    {
-      "added_at": "2026-03-26 06:28:43",
-      "album": {
-        "name": "Ondu Rendu",
-        "url": "https://open.spotify.com/album/279b9lCdoSdo3B0G0aPvPY"
-      },
-      "artists": [
-        {
-          "name": "Ashnaa",
-          "url": "https://open.spotify.com/artist/2XrbuKCQpeSCmR8lViu8aK"
-        },
-        {
-          "name": "Bups Saggu",
-          "url": "https://open.spotify.com/artist/4OnbPgq5lRZJdbvYT7dwZD"
-        },
-        {
-          "name": "Karam Brar",
-          "url": "https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79"
-        }
-      ],
-      "duration_ms": 210433,
-      "name": "Ondu Rendu",
-      "url": "https://open.spotify.com/track/26j5TqO25YifNx5kpAE6N1"
     },
     {
       "added_at": "2026-04-09 10:06:42",

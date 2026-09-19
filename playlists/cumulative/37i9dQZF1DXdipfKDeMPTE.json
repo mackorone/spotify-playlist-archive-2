@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-26",
-  "description": "Smooth beats for sleepless nights.",
+  "description": "after dark beats that stay up with you \ud83c\udf19  for night owls, night drives, or midnight thoughts.",
   "name": "Late Night Beats",
   "tracks": [
     {
@@ -114,7 +114,7 @@
       ],
       "date_added": "2023-01-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 123375,
       "name": "25oct",
       "url": "https://open.spotify.com/track/5CZjfDoBL0k1L8BZqPceNP"
@@ -3671,6 +3671,24 @@
     },
     {
       "album": {
+        "name": "fade away",
+        "url": "https://open.spotify.com/album/1LRFjk3omdHtJWDDTvGv3O"
+      },
+      "artists": [
+        {
+          "name": "afk",
+          "url": "https://open.spotify.com/artist/29Xl84PNW154iIVrdVe2mN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 120000,
+      "name": "fade away",
+      "url": "https://open.spotify.com/track/7tocYBvlgpXqbsQcwJa6yo"
+    },
+    {
+      "album": {
         "name": "Falling",
         "url": "https://open.spotify.com/album/2PC3BMAAknWwEBMvepVhhK"
       },
@@ -5518,7 +5536,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 102447,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/3RjAv5yesDSOOZHricohtS"
@@ -5652,6 +5670,24 @@
       "duration_ms": 130033,
       "name": "Last Supper",
       "url": "https://open.spotify.com/track/0m6t9hWkVsasFtD88BEWmq"
+    },
+    {
+      "album": {
+        "name": "Late Night",
+        "url": "https://open.spotify.com/album/3ejOugPM4HrzfMWs2eifNy"
+      },
+      "artists": [
+        {
+          "name": "Spring Bingo",
+          "url": "https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155464,
+      "name": "Late Night",
+      "url": "https://open.spotify.com/track/3NqOQ4YLQrLwaJcAMIeYCm"
     },
     {
       "album": {
@@ -6066,7 +6102,7 @@
       ],
       "date_added": "2024-11-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 151463,
       "name": "lille dyp",
       "url": "https://open.spotify.com/track/3QXdIjTThCZP2r2ed3XEiZ"
@@ -7078,7 +7114,7 @@
       ],
       "date_added": "2023-12-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 198291,
       "name": "moonwatch",
       "url": "https://open.spotify.com/track/2CZEvQKqgtNLwWqkdyc2yy"
@@ -10623,6 +10659,24 @@
     },
     {
       "album": {
+        "name": "stopmotion",
+        "url": "https://open.spotify.com/album/1tb7gd2mCNz8iYW1JL36E1"
+      },
+      "artists": [
+        {
+          "name": "wuy-wuy",
+          "url": "https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "stopmotion",
+      "url": "https://open.spotify.com/track/1GErEOl5hPy0b2nsAr1x3k"
+    },
+    {
+      "album": {
         "name": "Stormy Weather",
         "url": "https://open.spotify.com/album/5s0x6jVEZYJsZLqXBm4aoG"
       },
@@ -12514,6 +12568,24 @@
       "duration_ms": 150447,
       "name": "Woollen Potato",
       "url": "https://open.spotify.com/track/5WSBqCeXfUE6A7siQZewYK"
+    },
+    {
+      "album": {
+        "name": "wornout",
+        "url": "https://open.spotify.com/album/7Ais4rGB6OALQ40vD1ZlpM"
+      },
+      "artists": [
+        {
+          "name": "Mellow Moose",
+          "url": "https://open.spotify.com/artist/4xZn8EEsnsQr0wQ6j6ysJR"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "wornout",
+      "url": "https://open.spotify.com/track/0xhRQNyWJTkmwt2r2KpnZl"
     },
     {
       "album": {

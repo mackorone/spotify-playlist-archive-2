@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 
 > Sultry house beats to accompany your cocktail drinks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 168,135 likes - 250 songs - 10 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 168,286 likes - 250 songs - 10 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6syac0fWYdV.md) - [plain]
 | 249 | [SOMEONE](https://open.spotify.com/track/4JhzSPynAt7M2N48o4m4QL) | [Caspian](https://open.spotify.com/artist/1f10N5xKYd8z0y1IgCGHFe) | [SOMEONE](https://open.spotify.com/album/1FVVUkUlBNc2xFLuD4NMEs) | 3:02 |
 | 250 | [Vetyver](https://open.spotify.com/track/09y9S8Of5XIuRvDADaCYPQ) | [Bongrand](https://open.spotify.com/artist/2spEkQyK7tE3HEJSFKQu4j) | [Vetyver](https://open.spotify.com/album/03BtbG5v19lQV2J9v7PtM0) | 2:22 |
 
-Snapshot ID: `AAAAAEMjwpyYpDr6wd00+YEi+Bdr4Jvo`
+Snapshot ID: `AAAAAPf25TzsXP/DtCjD9k7VDqceEzZy`

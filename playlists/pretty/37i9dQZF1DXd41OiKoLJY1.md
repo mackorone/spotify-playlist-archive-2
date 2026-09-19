@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 
 > The best new music from independent artists\. Curated with love by human Spotify editors\. Cover: Shantel Cyline\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,065 likes - 50 songs - 2 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,093 likes - 50 songs - 2 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd41OiKoLJY1.md) - [plain]
 | 49 | [SOBRANG FLY](https://open.spotify.com/track/6b3yX6hVglGGOBPSmrzRVv) | [cole](https://open.spotify.com/artist/5JoLnpAiiuQQwFD6n3qUmw), [sko](https://open.spotify.com/artist/6zH04uCu9SwGVErpr553hw) | [SOBRANG FLY](https://open.spotify.com/album/4LAjpEDosO1DtE8RoFgi3V) | 2:40 |
 | 50 | [TAKIS](https://open.spotify.com/track/31YHZyxu0kryrBnkXxAAII) | [Javi That's Me](https://open.spotify.com/artist/4yPRWVvazFxeuAd4R26X8W) | [TAKIS](https://open.spotify.com/album/7gKzeZUuIW2aKU95TWqWe1) | 2:45 |
 
-Snapshot ID: `AAAAAMWDrdJmX7bgTocEgdUu9mMrqgXM`
+Snapshot ID: `AAAAAJ1uidaDg2n95gP+eM7St5nCuNoe`

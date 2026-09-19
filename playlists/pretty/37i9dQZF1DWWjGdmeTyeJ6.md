@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 
 > The best new music from independent artists and labels\. Featuring PUSHBACK\. Curated with love by human Spotify editors.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,221,039 likes - 100 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,221,137 likes - 100 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWjGdmeTyeJ6.md) - [plain]
 | 99 | [TALK ABOUT IT](https://open.spotify.com/track/0YjjOiBjdvp0oOqICrXbxM) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [I’M OKAY NOW, BUT I WASN’T FOR A WHILE](https://open.spotify.com/album/0EEbdJAgd1LfTuQBwGONJV) | 2:03 |
 | 100 | [You Are Never Gone From Me](https://open.spotify.com/track/3X4aqjMeBDw4ISXy3M3Xtw) | [Morgana](https://open.spotify.com/artist/2qYwadDTn22zMJ9Q26ke0d) | [You Are Never Gone From Me](https://open.spotify.com/album/7czHkHTQJ2toJgow0V0zdQ) | 3:32 |
 
-Snapshot ID: `AAAAAPYwlpTmcTiwuc9y8HQZ9k/T0rdf`
+Snapshot ID: `AAAAAA2y7xosCNavEQ8qG5eNx9eFMtK4`

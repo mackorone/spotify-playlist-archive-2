@@ -2,9 +2,9 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Fat Dog</a>
 
-[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 60,680 likes - 50 songs - 3 hr 39 min
+[Domino Recording Company](https://open.spotify.com/user/dominorecords) - 60,679 likes - 50 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/2nSEYi9ueqDn2wxo1Tmceg.md) - [plain]
 | 49 | [The Laugh Is in the Eyes](https://open.spotify.com/track/54UH8jnUysi7MAlVXScQKd) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Materia](https://open.spotify.com/album/4N18onGeiRu5uj3H7bSOl3) | 4:38 |
 | 50 | [Get Me Down \(feat\. Jorja Smith\)](https://open.spotify.com/track/4s0WWsnbCvEtOjsFo6ZdkR) | [Nia Archives](https://open.spotify.com/artist/7BMR0fwtEvzGtK4rNGdoiQ), [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [Emotional Junglist](https://open.spotify.com/album/513jv6L44NNDZQGSaPNg7S) | 3:14 |
 
-Snapshot ID: `AAAR4N7N+FFGXVNQCyQgQxOxBeUd9xKr`
+Snapshot ID: `AAAR4TdSFmXxFV866YeGHIEGPMGWI4U5`

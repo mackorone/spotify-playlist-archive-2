@@ -4,7 +4,7 @@
 
 > Soothing piano and strings to help you concentrate.
 
-334 songs - 15 hr 8 min
+338 songs - 15 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -59,6 +59,7 @@
 | [Buoyant](https://open.spotify.com/track/6Wq0t1A5sxrYNxKtfXuXHB) | [Iremia](https://open.spotify.com/artist/2GQxq7lvcYy8w71KvQHJM6) | [Lucid Air](https://open.spotify.com/album/2sAUWgPdApJIaescPesSPq) | 1:30 | 2021-01-30 | 2023-09-09 |
 | [Calling](https://open.spotify.com/track/0BY0tUd1MNhONkZwNyMCVg) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling](https://open.spotify.com/album/6DuVMjQuRjgYKmKZNQs1bu) | 2:26 | 2021-01-30 | 2023-09-09 |
 | [Calling](https://open.spotify.com/track/6aSGp6af4KxWmYHadWTJDu) | [Monaxia](https://open.spotify.com/artist/5oSOrrskSneqhw8bwpkb1v) | [Calling \(Ambient version\)](https://open.spotify.com/album/25aXfFaajgtMVOrzAHAgMA) | 2:32 | 2021-04-22 | 2022-06-25 |
+| [Calm September](https://open.spotify.com/track/4R3ZCBttcvLHd10k0nTHvP) | [From the Keys](https://open.spotify.com/artist/0MWGdO1126AL0S3uptXQ22) | [Calm September](https://open.spotify.com/album/6OGhtROq5IqfW1l9bGZfB9) | 2:16 | 2026-09-18 |  |
 | [Calm Skies](https://open.spotify.com/track/2FXFAi4sseuJfboDNpP9sQ) | [Vincent Fanguro](https://open.spotify.com/artist/4VWpxQlVnMltoRKKVToSJM) | [Calm Skies](https://open.spotify.com/album/4cXfofUmdPZ87JT6cixyAc) | 2:55 | 2021-09-18 |  |
 | [Celene by Candlelight](https://open.spotify.com/track/0crEES24wZ8548FG2jZqLp) | [Óskar Ólafsson](https://open.spotify.com/artist/6f58NPwECwG3DfnbQmYhf8) | [Celene by Candlelight](https://open.spotify.com/album/0PUMpyMC0dPiOq6utAOdGs) | 2:28 | 2025-05-02 | 2026-05-23 |
 | [Chambers](https://open.spotify.com/track/4wHsmSi7FBZ2aZhQ3ook7M) | [Ali Toygar](https://open.spotify.com/artist/3UWxXb2q9zHnhaSjHcKt7H) | [Chambers](https://open.spotify.com/album/61DhX4MuBUYTYnlrdBhyiN) | 2:25 | 2023-09-26 |  |
@@ -150,7 +151,7 @@
 | [Invitation](https://open.spotify.com/track/0gTjyLSaG5FFIpDhw6IA2C) | [Samuel Kees](https://open.spotify.com/artist/6KGVoP7dCFZ2FILUCCj4rn) | [Invitation](https://open.spotify.com/album/3dnVyXLUFDwBcUwC3s82yx) | 2:54 | 2024-07-23 |  |
 | [It Won't Be Like This for Long](https://open.spotify.com/track/1CSs4RlMxSeMNYFdd0b12t) | [A\. Hunt](https://open.spotify.com/artist/7sxu41SWrNz2ndyXMXMvNi) | [It Won't Be Like This for Long](https://open.spotify.com/album/2H9ZbgUjVz6QIMgT3TC8kO) | 1:36 | 2022-07-01 | 2023-09-09 |
 | [Itinere](https://open.spotify.com/track/3SJyrNsIX3mkiyFKekNAty) | [Rickard Nilsson](https://open.spotify.com/artist/6qa2LFLjGOvQPRxs8LZuZX), [Helmut Schenker](https://open.spotify.com/artist/6wf5DKFK08Qx5d11LNhesK) | [Itinere](https://open.spotify.com/album/47GVftysLfyzIMrF3D95Gw) | 2:08 | 2022-05-27 | 2025-02-25 |
-| [Jeg længes](https://open.spotify.com/track/5MEM7rEDW1wEJOqnpf1tuK) | [Paul Todnem](https://open.spotify.com/artist/6I2OAiM7l26aVxPJGJ5V0Q) | [Jeg længes](https://open.spotify.com/album/5QlKsBtLVfT2LkyRvEz2Lp) | 2:14 | 2023-09-08 |  |
+| [Jeg længes](https://open.spotify.com/track/5MEM7rEDW1wEJOqnpf1tuK) | [Paul Todnem](https://open.spotify.com/artist/6I2OAiM7l26aVxPJGJ5V0Q) | [Jeg længes](https://open.spotify.com/album/5QlKsBtLVfT2LkyRvEz2Lp) | 2:14 | 2023-09-08 | 2026-09-19 |
 | [Journey](https://open.spotify.com/track/1quhoqxC3qTryCIJUnDcRA) | [Leon Hartness](https://open.spotify.com/artist/0QVs7sw7QMsyYK9Nj9zYwh) | [Journey](https://open.spotify.com/album/1VnMbZezkNaowQQHJ7HP3u) | 2:23 | 2024-11-19 |  |
 | [Jupiter](https://open.spotify.com/track/0X4MfCEzXp28yrhUKpOadD) | [Stratospheric](https://open.spotify.com/artist/2cuKHP8TmCTf4KovZNg1Ut) | [Jupiter](https://open.spotify.com/album/4MOIk31rXkeM3VYy6Dt72L) | 2:02 | 2020-10-20\* | 2023-09-09 |
 | [Kalopsia](https://open.spotify.com/track/3XebcloY8ola1VTGRm6aLP) | [Taganema](https://open.spotify.com/artist/6b9S5hXIpAB6V7vyiKdr3d) | [Kalopsia](https://open.spotify.com/album/3kJJgfrEqoVMQkR9cHRsm8) | 2:58 | 2023-09-08 | 2026-05-23 |
@@ -225,6 +226,7 @@
 | [Padjelanta](https://open.spotify.com/track/5N5jZgY2X3sfj3HUSjg1Ic) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:44 | 2020-10-20\* | 2022-01-08 |
 | [Papperssvalan](https://open.spotify.com/track/537FP4rNU5SILZ5uWF2zDi) | [Norröga](https://open.spotify.com/artist/6k2rfOW9DnWyV4cKXkfjMw) | [Papperssvalan](https://open.spotify.com/album/2Qg3Na5QnWlPFJf0O2CiWV) | 2:33 | 2021-06-18 |  |
 | [Pastel](https://open.spotify.com/track/5ewgBMv3RKvWgusgayOubz) | [Harlan Silverman](https://open.spotify.com/artist/6RR7uINKmGclSu0zHBC7mU) | [Pastel](https://open.spotify.com/album/7s6ILaRz5CluLRvZVQzBOv) | 2:35 | 2020-10-20\* | 2023-09-09 |
+| [Pause Here](https://open.spotify.com/track/0RpMpu7lNVxOZ0hPDNF9fu) | [Enviromental State](https://open.spotify.com/artist/5tHKsyArg710bnAL9MAL42) | [Pause Here](https://open.spotify.com/album/5qEoS15uFx0ODHDedzPNOW) | 2:12 | 2026-09-18 |  |
 | [Peggy's Cove](https://open.spotify.com/track/7yplIuBnFYA8eUje0Vi0UP) | [Sarah Watson](https://open.spotify.com/artist/3pyGXjDKAt3czGsh7vxkT0) | [Peggy's Cove](https://open.spotify.com/album/6u1kaq0ueouDEcdpyyvsFM) | 2:15 | 2023-09-18 |  |
 | [Pensamiento \(Variacion 1\)](https://open.spotify.com/track/1XjmvMlHQeXqXqbIiphr7L) | [Night Effects](https://open.spotify.com/artist/3LYasSAMIunoZHkV2FC7WB) | [Night Effects](https://open.spotify.com/album/6YAH0vPQGXSSWdXv4ENVzU) | 1:42 | 2020-10-20\* | 2023-09-09 |
 | [Pink Leaves](https://open.spotify.com/track/0vVHC00JNA3FjAAKVcOOEf) | [v i v](https://open.spotify.com/artist/3Zieh1I7GDWSW8MGSDGApX) | [Pink Leaves](https://open.spotify.com/album/5EuxY0r4AtvyPikjyZyCC4) | 4:30 | 2023-09-08 |  |
@@ -244,7 +246,9 @@
 | [Sarek](https://open.spotify.com/track/7tN9gRPc8eYR9mS5cQsV0M) | [Laponia](https://open.spotify.com/artist/2ofMsV0f4ziG96f4ZKPzGr) | [Sarek](https://open.spotify.com/album/2CmyrbcaDXk5SulZg9nRIi) | 2:10 | 2020-10-20\* | 2026-05-23 |
 | [Secret Admirer](https://open.spotify.com/track/2lHQrHpOz29hr1HYMuYfO4) | [Carl Easterling](https://open.spotify.com/artist/1BpbMpMfqgyXdsZmUXsoIx) | [Secret Admirer](https://open.spotify.com/album/3Vzz6AtfJGbirjpPCnFnlq) | 2:07 | 2023-09-26 | 2026-05-23 |
 | [Serenade For Strings](https://open.spotify.com/track/3nJuP6wP2C3KagblFUjsBS) | [Auguste Henrique](https://open.spotify.com/artist/4vhZAxV71kt6sNrFiGOBgL) | [Serenade For Strings](https://open.spotify.com/album/4MJu2Ro6UfS4zE90VOZ6Lf) | 2:13 | 2020-10-20\* | 2023-09-09 |
+| [Serpentine](https://open.spotify.com/track/11uoMckd2bsR8LtgQDSoSG) | [Finn Lenoir](https://open.spotify.com/artist/34O50Wu6XLsShNKbJiNi9d) | [Serpentine](https://open.spotify.com/album/5bAdiVYCm5Ran8woOHAC2u) | 2:12 | 2026-09-18 |  |
 | [Shimmer](https://open.spotify.com/track/0JJjOOXHvXcpr7okiNGOe5) | [Kye Wood](https://open.spotify.com/artist/6DHce4xCnG7D6j4BMlN0II) | [Shimmer](https://open.spotify.com/album/6V4uuBOhnY4XTZE6wr0vCk) | 2:31 | 2025-07-18 |  |
+| [Silent Movement](https://open.spotify.com/track/0vhIDstakWcajEJHVTJcFX) | [Aubrelon](https://open.spotify.com/artist/7vKIGoD0cwFei1uZjI5S1o) | [Silent Movement](https://open.spotify.com/album/3gyFA13R6OolmaA5D5C6C5) | 2:58 | 2026-09-18 |  |
 | [Silentium](https://open.spotify.com/track/3fyrhR9Wup3zvKnAhwkS2k) | [VIbeke Holst\-Tofte](https://open.spotify.com/artist/2vwQEppB6ZLxvDBMuZjv7h) | [Silentium](https://open.spotify.com/album/5hy969sJ3PHIXTBtlLEY1d) | 2:21 | 2020-10-20\* | 2025-05-21 |
 | [Silver Moon](https://open.spotify.com/track/6ctSMybCtQT5a4BkdcpfHU) | [Fryken](https://open.spotify.com/artist/5z0Fx2yg2bbV0WpHiWi4pf) | [Silver Moon](https://open.spotify.com/album/2prGAm4grMizINuJ6OR4MB) | 3:03 | 2025-02-26 |  |
 | [Sincerity](https://open.spotify.com/track/3fQdsoPpWz3sbwlvlMfBF3) | [Gavin Luke](https://open.spotify.com/artist/2bqAlaRiT91dCQ7KMGnP8i) | [Sentient](https://open.spotify.com/album/0tAguXAg4RwGUtle2ngQaQ) | 2:24 | 2020-10-28 | 2023-09-09 |
@@ -284,7 +288,7 @@
 | [Tender](https://open.spotify.com/track/3gWc1zZPLqHPtt4oKLhXmn) | [Lake Geneva](https://open.spotify.com/artist/6CcMV3fTlrJ4ECazXDdOA9) | [Tender](https://open.spotify.com/album/3NfGrGowW0H58RO8ZBDcP6) | 2:45 | 2020-10-20\* | 2023-09-09 |
 | [Terai\-Duar](https://open.spotify.com/track/1rkonLSBTFJhP5bMGaRjUS) | [Taj Mendel](https://open.spotify.com/artist/0xWF2XH0Nmxm0ZFL55ylfp) | [Terai\-Duar](https://open.spotify.com/album/4BROYeb4u3YNEcwlknFhlC) | 4:11 | 2020-10-20\* | 2023-09-09 |
 | [Thankful](https://open.spotify.com/track/0fLniMyx3JO0FBuW8AjvNz) | [Allysa Nelson](https://open.spotify.com/artist/6h7cuFH2XtPwuplHby1gT0) | [Spring is Here](https://open.spotify.com/album/59xOA3f8FmCObSHn9pJuxk) | 3:07 | 2020-10-20\* | 2023-09-09 |
-| [Thanksgiving](https://open.spotify.com/track/0Ra8bl33VpUwp0sodP5pL7) | [George Winston](https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3) | [December](https://open.spotify.com/album/4NvcTP2P7bGwDz7zIG22oK) | 4:08 | 2024-08-14 |  |
+| [Thanksgiving](https://open.spotify.com/track/0Ra8bl33VpUwp0sodP5pL7) | [George Winston](https://open.spotify.com/artist/3jdODvx7rIdq0UGU7BOVR3) | [December](https://open.spotify.com/album/4NvcTP2P7bGwDz7zIG22oK) | 4:08 | 2024-08-14 | 2026-09-19 |
 | [The book of love](https://open.spotify.com/track/666JYU0w4jgwyB9xOsjR37) | [Chloe Welch](https://open.spotify.com/artist/3KLQ9EVYCMPlY6e8qCagzD) | [The book of love](https://open.spotify.com/album/0GDaWajfUkhgS7rwQNonsJ) | 2:30 | 2023-11-13 |  |
 | [The Day After Tomorrow](https://open.spotify.com/track/6utMGchGek24Jzaihq2GSP) | [Frantz Langdon](https://open.spotify.com/artist/5IvJzgDwTyF6fEcZUEkVxR) | [Us](https://open.spotify.com/album/2mTUsrGasTKmm7qKYy09kT) | 2:47 | 2020-10-20\* | 2023-09-09 |
 | [The Destination](https://open.spotify.com/track/2ntaF4Q9b2yePJ3NICBnVs) | [Keane Wang](https://open.spotify.com/artist/03uAZJV3EydDTU5C8fAYfA) | [The Destination](https://open.spotify.com/album/3uqMuVZorKUEnYg8p7VtMH) | 2:02 | 2023-09-26 | 2026-04-18 |
@@ -324,7 +328,7 @@
 | [Vertical Seas](https://open.spotify.com/track/4xqI2lGmINpE0XMcZdIOYH) | [Aimon Cour](https://open.spotify.com/artist/3LkHg6D2NUGLLrqpnp1HTt) | [Vertical Seas](https://open.spotify.com/album/5IbA6pnLzkGr23TmhBu4xA) | 3:01 | 2024-12-20 |  |
 | [Vespera](https://open.spotify.com/track/3kRMgnaBoU2JeLVN3TeGIJ) | [Freya Bagger](https://open.spotify.com/artist/5eXjvPNzzT9oZcbK0zuSj7) | [Vespera](https://open.spotify.com/album/1pej4Wxd7Wo5FmWmiyeeFS) | 2:25 | 2025-03-11 |  |
 | [Voicing the Past](https://open.spotify.com/track/2g5UwHtPHeBNfAVaAC7m4r) | [Adrien Mann](https://open.spotify.com/artist/5riMQUJqMiLZg8AcxvjVIf) | [Voicing the Past](https://open.spotify.com/album/1RjoMyc35IAbjMLnYuUoy7) | 2:23 | 2025-06-10 |  |
-| [waltz \- the greenhouse](https://open.spotify.com/track/7kfnzRb4vbJUJDtSFuvlHi) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [finding peace \- the greenhouse](https://open.spotify.com/album/3hcUmxsxfss5ehoxc3sBfm) | 3:12 | 2023-09-08 |  |
+| [waltz \- the greenhouse](https://open.spotify.com/track/7kfnzRb4vbJUJDtSFuvlHi) | [BARTH.](https://open.spotify.com/artist/6oM4pj0cViaM9uaplSkKAl) | [finding peace \- the greenhouse](https://open.spotify.com/album/3hcUmxsxfss5ehoxc3sBfm) | 3:12 | 2023-09-08 | 2026-09-19 |
 | [Waltz In The Sunset](https://open.spotify.com/track/4KxLDubITTzAoRROcamdIs) | [An&Ca](https://open.spotify.com/artist/6RH6BLYVKA1TGccBIvluoI) | [Forever In Your Arms](https://open.spotify.com/album/3Aqr3oh4OLhRXeBHWqCR4F) | 2:40 | 2020-10-20\* | 2022-07-08 |
 | [warm cocoa](https://open.spotify.com/track/1DH4LU7IDJAfcci6cqnU9c) | [Max Dew](https://open.spotify.com/artist/2BtPnrfL2fH8v7QrWO0mEW) | [warm cocoa](https://open.spotify.com/album/0sPxt9ckDOlYOEmx8NallC) | 2:24 | 2024-02-05 |  |
 | [Warmth](https://open.spotify.com/track/4qWwzAr9hf044oOMqcqfAM) | [A Chance To Dream](https://open.spotify.com/artist/4AcyyxYM1TvsUUxNS8bPqk) | [Warmth](https://open.spotify.com/album/4M3rNBk7tp0pILXkTw3dfk) | 2:36 | 2024-09-10 |  |

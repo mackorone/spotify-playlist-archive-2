@@ -2,7 +2,7 @@
 
 ### [Bipolar Superstar Radio](https://open.spotify.com/playlist/37i9dQZF1E4tfR7pI5SYMM)
 
-> With MIK's Reaction, David Von Beahm, The Charlie Marshall Effect and more
+> With MIK's Reaction, David Von Beahm, Roderiko Pop and more
 
 1,021 songs - 2 day 21 hr 18 min
 

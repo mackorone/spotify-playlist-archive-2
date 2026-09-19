@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-10-01",
-  "description": "Hip hop and rap music from Nigeria. Cover: Kayode",
+  "description": "Hip hop and rap music from Nigeria. Cover: Jerq & TUFF KING",
   "name": "Naija Bars ",
   "tracks": [
     {
@@ -4436,6 +4436,28 @@
       "duration_ms": 123333,
       "name": "Different Pattern",
       "url": "https://open.spotify.com/track/7FB5261Iv3MRbSz13HYP5l"
+    },
+    {
+      "album": {
+        "name": "Different Wave",
+        "url": "https://open.spotify.com/album/0qfIlhKvGdveRpIpS5mKsb"
+      },
+      "artists": [
+        {
+          "name": "Jeriq",
+          "url": "https://open.spotify.com/artist/7MJaBrtUNMCVWliXOa7mwk"
+        },
+        {
+          "name": "TUFF KING",
+          "url": "https://open.spotify.com/artist/6U6qcXdFyk0B5PxHM7JYmw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195963,
+      "name": "Different Wave",
+      "url": "https://open.spotify.com/track/09rEMK856dCFKa4Jg3XEkE"
     },
     {
       "album": {
@@ -11030,7 +11052,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 158675,
       "name": "No Nation (Ayakata)",
       "url": "https://open.spotify.com/track/4lSSjtNkcROuqNXg09lZVS"

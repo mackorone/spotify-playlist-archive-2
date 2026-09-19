@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 
 > Explore Pakistan's thriving independent scene 🔥 Cover: Asteria
 
-[Spotify](https://open.spotify.com/user/spotify) - 37,732 likes - 80 songs - 4 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,740 likes - 80 songs - 4 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2E5psOxzjXz.md) - [plain]
 | 79 | [desi log skateboard](https://open.spotify.com/track/4acQPTfPAbUHgdwVYeeNwc) | [Bilal Khalid](https://open.spotify.com/artist/2KsaM9MOzw8IxyaxiN9YXf), [ishan awasthi](https://open.spotify.com/artist/2prnxuLM3FjP4pGXTqX8xS) | [desi log skateboard](https://open.spotify.com/album/4ohzHfwdVPEAHvDWGwFaJN) | 2:45 |
 | 80 | [Fuzool](https://open.spotify.com/track/7Bmrm4DU6AD86HnebNaAPY) | [Raamiz Rizvi](https://open.spotify.com/artist/34dLN7dVpBtsXn0yDQoZtg), [Zaphixx](https://open.spotify.com/artist/6lCX5UL3OnSnZIW0vt2j5m) | [Fuzool](https://open.spotify.com/album/4g3ppCmzoFtSfmL5cCM2iL) | 2:15 |
 
-Snapshot ID: `AAAAAE4Yz5mTk1ZPsO6mZ+8EjDMLP++6`
+Snapshot ID: `AAAAAPISOejArIwFFRV8re7Vq1oPVtop`

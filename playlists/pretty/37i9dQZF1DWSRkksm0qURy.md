@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 
 > An immersive solfeggio frequency used by many for balance, healing and removing negative energy.
 
-[Spotify](https://open.spotify.com/user/spotify) - 117,509 likes - 100 songs - 4 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 117,537 likes - 100 songs - 4 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSRkksm0qURy.md) - [plain]
 | 99 | [417Hz Alignments](https://open.spotify.com/track/0m0lI0kpU7OpxN6LfStnaR) | [Tree Talker](https://open.spotify.com/artist/5BWcNI4vQrnhrBht2b1tU0) | [417Hz Alignments](https://open.spotify.com/album/1MUkQcaFCT5D01uS8Bt9B1) | 2:37 |
 | 100 | [417 Hz \- Restorative Energy Shift](https://open.spotify.com/track/178u7Q3SKQ4rk2gjsFaJh0) | [Sternutatory](https://open.spotify.com/artist/581glPGSKcjBbozXRHt7n8) | [417 Hz \- Restorative Energy Shift](https://open.spotify.com/album/4oFmiB8w3wI0FJfYfZ2h1m) | 3:24 |
 
-Snapshot ID: `AAAAAEFVmgis+YtLGMtc27bDXp6Bmk4x`
+Snapshot ID: `AAAAADB8A9/M19q9v4UY6/aw5/BOxa25`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6M7L8SMVEFvblfFmcNtgaV">BNYX®</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414 likes - 189 songs - 8 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 415 likes - 189 songs - 8 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -83,8 +83,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 73 | [Tallër](https://open.spotify.com/track/2RYuJMA76j0mFiVbOIJWnR) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [ADL](https://open.spotify.com/album/6sKe2lWmQxRYhhUnN7dln3) | 2:48 |
 | 74 | [FUNKY WIZARD SMOKE](https://open.spotify.com/track/5OcKtqNLOEKurr6HAacXCg) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY) | 2:45 |
 | 75 | [MOST AIN’T DENNIS](https://open.spotify.com/track/5GZiIFANWWtPU3VvDTrAoO) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [INSANO](https://open.spotify.com/album/4a0ynulSO09VjqN18vGkdY) | 2:37 |
-| 76 | [Enter The Dragon](https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 1:51 |
-| 77 | [CREEPIN](https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [CREEPIN](https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS) | 2:21 |
+| 76 | [CREEPIN](https://open.spotify.com/track/2xsKrCvpBqEKPzVAodigtx) | [Don Toliver](https://open.spotify.com/artist/4Gso3d4CscCijv0lmajZWs) | [CREEPIN](https://open.spotify.com/album/0u7WydbfGigOa5IMHs0vbS) | 2:21 |
+| 77 | [Enter The Dragon](https://open.spotify.com/track/6VN45skJHnnZ2oFIHA6wwQ) | [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Enter The Dragon / TEKTIME](https://open.spotify.com/album/0IuT1gNetRGeyzLdW5VTAg) | 1:51 |
 | 78 | [S.M.O.](https://open.spotify.com/track/7iYrk5G9jTqY5oG8k7Lj0B) | [Amaarae](https://open.spotify.com/artist/21UPYSRWFKwtqvSAnFnSvS) | [BLACK STAR](https://open.spotify.com/album/59PktWhvg6nGZJaxW0mVVV) | 4:30 |
 | 79 | [Fools Gold](https://open.spotify.com/track/3GrmuJIlhZs8O6SpVhR8yx) | [BLP KOSHER](https://open.spotify.com/artist/6w60ExNMjs0gd4ioh7GMRI) | [Bars Mitzvah](https://open.spotify.com/album/3Fc5H7NJ2V8SNrUHnpBvV2) | 2:55 |
 | 80 | [Rocket Power](https://open.spotify.com/track/4wmanmyr7qybonPp2WT5WW) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Rocket Power](https://open.spotify.com/album/0HRZ0CldV3tp7U2sTomtIf) | 3:36 |
@@ -143,8 +143,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 133 | [WIPED](https://open.spotify.com/track/3mOUnFnggll5Svu4hZFUlH) | [Lil Dann](https://open.spotify.com/artist/2mMBXm6qrEJuqdg3HnILr2), [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [WIPED](https://open.spotify.com/album/0X7sDKR0b0XA93UpkT9gXx) | 3:04 |
 | 134 | [Damaged Feelings](https://open.spotify.com/track/1uVfXaNoJicLDMEEntCKDw) | [Neemz](https://open.spotify.com/artist/1klyF43vSKkOiQ7So5hVti) | [It's Above Me](https://open.spotify.com/album/0V1OyHUSASwtdjZmiEnDQH) | 3:17 |
 | 135 | [ROOM OF SMILES \(feat\. Uhmeer & Dayne Jordan\)](https://open.spotify.com/track/1IGsipdqanheKcO7iauH4u) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [UHMEER](https://open.spotify.com/artist/5PsYkefUonoeM9VCnpf5zd), [Dayne Jordan](https://open.spotify.com/artist/3ryEOBMCxD6GPLBOL7Wzmr) | [LOADING...](https://open.spotify.com/album/3TiHfUIEWKH4yXb9VL84IR) | 3:27 |
-| 136 | [Olive \(feat\. Zelooperz\)](https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Almost There](https://open.spotify.com/album/2Zi2oIVwrNddAmeqeO96ig) | 2:04 |
-| 137 | [CRAZY](https://open.spotify.com/track/514v7VPMH5MEy6RV6FCu7G) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 2:27 |
+| 136 | [CRAZY](https://open.spotify.com/track/514v7VPMH5MEy6RV6FCu7G) | [PARTYOF2](https://open.spotify.com/artist/70KxgbZNsd9xOttXW67mh3) | [GOAT \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/7l7gIXOUlIasR3NjDxVRRg) | 2:27 |
+| 137 | [Olive \(feat\. Zelooperz\)](https://open.spotify.com/track/4CGM56g4eHDSjW97Psi9aW) | [TiaCorine](https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW), [Zelooperz](https://open.spotify.com/artist/5j93hwFBNo29RJMsWvtzj8) | [Almost There](https://open.spotify.com/album/2Zi2oIVwrNddAmeqeO96ig) | 2:04 |
 | 138 | [Feels CoreCore](https://open.spotify.com/track/3grRcy3rbsNz4ao4X8apku) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
 | 139 | [MONTREAL](https://open.spotify.com/track/1VGQzAAmfZaalTHQLddcrT) | [Cochise](https://open.spotify.com/artist/46HzS7yz0c9udVwtbHk1sx) | [WHY ALWAYS ME?](https://open.spotify.com/album/3HMmoUioYMFszTSEDEg5Jd) | 2:00 |
 | 140 | [Right Key](https://open.spotify.com/track/7vEuEEOz0iEiGaJFHDmheN) | [Benji Blue Bills](https://open.spotify.com/artist/7t6PzXRwTR6eb4lNHxyhIC), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Out The Blue](https://open.spotify.com/album/0VHFW4XiYdVxfUzfjkUkIc) | 2:44 |
@@ -161,8 +161,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 151 | [Oh Shit](https://open.spotify.com/track/70XwlON2HyHdFEoEl4tshL) | [Delli Boe](https://open.spotify.com/artist/52Nioi9ACBG8H4XvE0eS7r) | [Phase Won](https://open.spotify.com/album/2HZ5UAXThHo39mDz8zs2iX) | 1:17 |
 | 152 | [scream my name](https://open.spotify.com/track/3msVzpk6BgRwIu9ywpWzfa) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 1:52 |
 | 153 | [God Like](https://open.spotify.com/track/4RC4WP3J7z9U56uiDWqqKX) | [Summrs](https://open.spotify.com/artist/5L15t6I0PQS9SBXbiklPEN) | [GHOST](https://open.spotify.com/album/4OrbijrYXkwBJF9drCrBFR) | 2:12 |
-| 154 | [Give It To You](https://open.spotify.com/track/1zxyqqtI2FMY0vPcjZ33Q1) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:10 |
-| 155 | [squEEze !i \(feat\. Lancey Foux\)](https://open.spotify.com/track/6n5brWEqLJrO5IpfUs3U3S) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 2:56 |
+| 154 | [squEEze !i \(feat\. Lancey Foux\)](https://open.spotify.com/track/6n5brWEqLJrO5IpfUs3U3S) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Lancey Foux](https://open.spotify.com/artist/2LakckgvXEtJlKOYP6BO11) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 2:56 |
+| 155 | [Give It To You](https://open.spotify.com/track/1zxyqqtI2FMY0vPcjZ33Q1) | [Mario](https://open.spotify.com/artist/20s0P9QLxGqKuCsGwFsp7w) | [Glad You Came](https://open.spotify.com/album/6CmStg5HcRCi7mJyThSbIR) | 2:10 |
 | 156 | [let u back in](https://open.spotify.com/track/7AZRI11SKhBBGl22dXupwg) | [Fousheé](https://open.spotify.com/artist/6trIghKwHRUyxwvm66HLHH) | [softCORE](https://open.spotify.com/album/0iv5fjooZ7WR2FvmxKwDER) | 3:12 |
 | 157 | [science \(feat\. Nippa\)](https://open.spotify.com/track/2HOd0QqnkYWQRhU9gXzSuL) | [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [Nippa](https://open.spotify.com/artist/4EnRRIOfqBmNcsTj4tReXq) | [GENESIS FM](https://open.spotify.com/album/68BG4zlKsvZYNerckT0gj4) | 2:40 |
 | 158 | [Monkey](https://open.spotify.com/track/3hQSiBi6Bqjy68OhMh2edr) | [Trinidad Cardona](https://open.spotify.com/artist/4wP1kxjUsc9IR4Iy2smL7o), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG), [LAWSON](https://open.spotify.com/artist/4pMJdsAzstHSaoZnTgvSsV) | [Monkey / Up + Down](https://open.spotify.com/album/6lgnsuDjaDEQkZ8LsaMQYX) | 2:44 |
@@ -198,4 +198,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFQFcRGVLkSji.md) - [plain]
 | 188 | [Teach Me.](https://open.spotify.com/track/6lk7eNQnklTjsEx30gUJ80) | [Ant Beale](https://open.spotify.com/artist/14piOhWdd0MbAPVmUqGLhH) | [Life's a Hazard](https://open.spotify.com/album/0UqowJBThZPMFlqPorNSR1) | 5:00 |
 | 189 | [Divided](https://open.spotify.com/track/6NJOdQyw2EPnRAstnXNTDG) | [Warner Meadows](https://open.spotify.com/artist/0FzMywSPPmb2hqv2gvcIFk) | [Divided](https://open.spotify.com/album/2zCmstd1DA381t9zoW8QDr) | 1:44 |
 
-Snapshot ID: `AcclJgAAAABLu2G0prwQxqfzUIIQj97k`
+Snapshot ID: `AccqxgAAAACvW+R+Yd0QPVEciEKajWZn`

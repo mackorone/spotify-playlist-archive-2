@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 
 > La scène française branchée sur courant alternatif\. Photo : Satine.
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,709 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,779 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4TqmALHVh5A.md) - [plain]
 | 49 | [Cookie](https://open.spotify.com/track/7EA9t5HOT9JlftSqvF3TRv) | [Elle en été](https://open.spotify.com/artist/3clftljp65DnlVlGRRneEW) | [Cookie](https://open.spotify.com/album/0UqC6W0iqv0F0mKYGSm6Gh) | 2:00 |
 | 50 | [LE BAR](https://open.spotify.com/track/0yeBYOM0O0IOoC2fajIKjZ) | [JOËN](https://open.spotify.com/artist/5FQRFB6WYZLVKAALf2Vqqx) | [LE BAR](https://open.spotify.com/album/10cvRHol744gMED4YKcIpX) | 2:28 |
 
-Snapshot ID: `AAAAAPw3WNo4HpsVjBgZlkeXLZtQrhvk`
+Snapshot ID: `AAAAAJP34OxqymLG/KMDWSL9u8Xgo7LY`

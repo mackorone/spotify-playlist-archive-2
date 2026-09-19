@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-01",
-  "description": "New jazz for open minds. Cover: Ezra Collective",
+  "description": "New jazz for open minds. Cover: Emmet Cohen",
   "name": "State of Jazz",
   "tracks": [
     {
@@ -618,6 +618,24 @@
       "duration_ms": 202723,
       "name": "A Future Untold",
       "url": "https://open.spotify.com/track/6gthXQDyhf3OaWw3QvuYtA"
+    },
+    {
+      "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/12lhqX0jKHwN4EsIQz1aCn"
+      },
+      "artists": [
+        {
+          "name": "Sean Mason",
+          "url": "https://open.spotify.com/artist/1M58n49ePEbvVICvpKXB5Z"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 303588,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/4AbRAMyczJaA16NPkZ9QxF"
     },
     {
       "album": {
@@ -5502,7 +5520,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 277400,
       "name": "Blue Train",
       "url": "https://open.spotify.com/track/1IrN8tRAaOVgfPYalUYs0U"
@@ -5544,6 +5562,28 @@
       "duration_ms": 378226,
       "name": "Blue Walk",
       "url": "https://open.spotify.com/track/5L8Kw23V4Elt57u3Mfrq6K"
+    },
+    {
+      "album": {
+        "name": "Blue Waves",
+        "url": "https://open.spotify.com/album/56hRnNRdYbBroZFHqlSvbX"
+      },
+      "artists": [
+        {
+          "name": "Daveform Quintet",
+          "url": "https://open.spotify.com/artist/6qq06xQaTZamLd1Phgu01A"
+        },
+        {
+          "name": "Kurt Rosenwinkel",
+          "url": "https://open.spotify.com/artist/253GMpCNwx1TJtASNAeDoP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393713,
+      "name": "Blue Waves",
+      "url": "https://open.spotify.com/track/6PRURA2JuQfMDXUI59l2Ko"
     },
     {
       "album": {
@@ -8389,6 +8429,36 @@
     },
     {
       "album": {
+        "name": "Compassion",
+        "url": "https://open.spotify.com/album/655tfMuWbx5lzrx6gLxUQZ"
+      },
+      "artists": [
+        {
+          "name": "Miguel Atwood-Ferguson",
+          "url": "https://open.spotify.com/artist/6SlLXvZvYEGnurxBUpUdri"
+        },
+        {
+          "name": "Immanuel Wilkins",
+          "url": "https://open.spotify.com/artist/5szMuuBbDzULkagWIfI5LG"
+        },
+        {
+          "name": "David Virelles",
+          "url": "https://open.spotify.com/artist/2yHMWN7OFCTJ9ZiGSVU0F8"
+        },
+        {
+          "name": "Flying Lotus",
+          "url": "https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 285122,
+      "name": "Compassion (feat. Flying Lotus, Immanuel Wilkins, David Virelles)",
+      "url": "https://open.spotify.com/track/0HnzJayzmv01DGyBV1J8na"
+    },
+    {
+      "album": {
         "name": "concentrate",
         "url": "https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca"
       },
@@ -10588,7 +10658,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 676374,
       "name": "Don't Look Down",
       "url": "https://open.spotify.com/track/1E3HMV57VwDkqQq9beSSUD"
@@ -13894,6 +13964,32 @@
       "duration_ms": 297293,
       "name": "Folksong",
       "url": "https://open.spotify.com/track/1SraTU38cGcQdi0nQngQkO"
+    },
+    {
+      "album": {
+        "name": "For Chick",
+        "url": "https://open.spotify.com/album/0BxCN6tIrw90mZeghOun69"
+      },
+      "artists": [
+        {
+          "name": "Zohar & Adam",
+          "url": "https://open.spotify.com/artist/3jrqdkncH6CuK39BaLJ9mj"
+        },
+        {
+          "name": "Christian McBride",
+          "url": "https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv"
+        },
+        {
+          "name": "Steve Wilson",
+          "url": "https://open.spotify.com/artist/40iNUL4JRFh1PLeunwMbNi"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 493386,
+      "name": "For Chick",
+      "url": "https://open.spotify.com/track/1fYAo7CzBRwVgMoURsSx64"
     },
     {
       "album": {
@@ -22210,7 +22306,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 238360,
       "name": "Lil Lullaby",
       "url": "https://open.spotify.com/track/36sS5GnenEZM4kw6aPcYwx"
@@ -23130,6 +23226,28 @@
       "duration_ms": 143244,
       "name": "lucidly (ft. Ophie)",
       "url": "https://open.spotify.com/track/3zpFSNm0QQ3F1MFjliSFwG"
+    },
+    {
+      "album": {
+        "name": "Luck Be A Lady",
+        "url": "https://open.spotify.com/album/3YPu1Jgr6RxhUE9eIesGlw"
+      },
+      "artists": [
+        {
+          "name": "Emmet Cohen",
+          "url": "https://open.spotify.com/artist/3kyGmsyTEpjopA521SSlLT"
+        },
+        {
+          "name": "Patrick Bartley Jr.",
+          "url": "https://open.spotify.com/artist/5QzWMvefUKmiZuzTyEabcC"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 495636,
+      "name": "Luck Be A Lady",
+      "url": "https://open.spotify.com/track/2qoFgri9rsDsqtgTAfKgrR"
     },
     {
       "album": {
@@ -24456,7 +24574,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 489148,
       "name": "Midlife Madness",
       "url": "https://open.spotify.com/track/1TugTG9hrT6Tp42z7pruAJ"
@@ -33150,7 +33268,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 390308,
       "name": "Secure the Bag",
       "url": "https://open.spotify.com/track/6uSG3r0yQMA5QVNwPomgf4"
@@ -33694,6 +33812,24 @@
       "duration_ms": 241640,
       "name": "Shaw 'Nuff",
       "url": "https://open.spotify.com/track/5mIoHM9AzfOoI93GuC792c"
+    },
+    {
+      "album": {
+        "name": "she's alive",
+        "url": "https://open.spotify.com/album/1MugpNnWOcxM8DTXbVgvVL"
+      },
+      "artists": [
+        {
+          "name": "Tyreek McDole",
+          "url": "https://open.spotify.com/artist/4CaP7lMH3pQeY7YboZJu7T"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281590,
+      "name": "she's alive",
+      "url": "https://open.spotify.com/track/7JfV9mRbWkcrBJei1kABGF"
     },
     {
       "album": {
@@ -37207,6 +37343,24 @@
     },
     {
       "album": {
+        "name": "S\u00d6WT",
+        "url": "https://open.spotify.com/album/0GnWV276OoGWWMCBOzivMw"
+      },
+      "artists": [
+        {
+          "name": "JD Allen",
+          "url": "https://open.spotify.com/artist/5ACouApJyhZpZ3Eu2DtrlM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 462558,
+      "name": "S\u00d6WT",
+      "url": "https://open.spotify.com/track/1sH0Nzfn1mD10YadjDB77x"
+    },
+    {
+      "album": {
         "name": "Table Talk",
         "url": "https://open.spotify.com/album/3N5XJpMVK4IF158ilJIemH"
       },
@@ -40560,7 +40714,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 424475,
       "name": "THINK OF YOU",
       "url": "https://open.spotify.com/track/0F7EPqKLflTsdRExGL7Gm7"
@@ -41548,7 +41702,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 440892,
       "name": "Trinity (Father, Son, and Holy Spirit)",
       "url": "https://open.spotify.com/track/0nONfdSjBptV3MtphsdYDc"

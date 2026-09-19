@@ -1,12 +1,12 @@
 {
   "description": "Rebecca Black is an Anaheim star \ud83c\udf1f",
-  "num_followers": 521428,
+  "num_followers": 521617,
   "original_name": "hyperpop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFnctFG0ktccEVZbgSi4oGP0bpsD",
+  "snapshot_id": "AAAAABIZUHOVF/NM3okKk/L+4MsKBcOO",
   "tracks": [
     {
       "added_at": "2026-07-03 04:02:01",
@@ -41,56 +41,20 @@
       "url": "https://open.spotify.com/track/4ebLEVrsP0oQ8C9w2iwm5Q"
     },
     {
-      "added_at": "2026-08-21 04:01:32",
+      "added_at": "2026-08-07 04:02:03",
       "album": {
-        "name": ".com",
-        "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
+        "name": "Crash",
+        "url": "https://open.spotify.com/album/6iyZGJYs5Hcis6MkGrte6F"
       },
       "artists": [
         {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        },
-        {
-          "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+          "name": "aftrr!",
+          "url": "https://open.spotify.com/artist/6Twj8lltC7kWfs3G8TMr1u"
         }
       ],
-      "duration_ms": 187384,
-      "name": ".com",
-      "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
-    },
-    {
-      "added_at": "2026-09-11 04:02:10",
-      "album": {
-        "name": "gao dan dan",
-        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
-      },
-      "artists": [
-        {
-          "name": "Helena Gao",
-          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
-        }
-      ],
-      "duration_ms": 132696,
-      "name": "nan peng you",
-      "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
-    },
-    {
-      "added_at": "2026-07-03 04:02:01",
-      "album": {
-        "name": "Satellites",
-        "url": "https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU"
-      },
-      "artists": [
-        {
-          "name": "Frost Children",
-          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Satellites",
-      "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
+      "duration_ms": 267338,
+      "name": "Crash",
+      "url": "https://open.spotify.com/track/06P0eISbnaU1FOuuJAjAg2"
     },
     {
       "added_at": "2026-06-19 04:01:32",
@@ -113,6 +77,62 @@
       "url": "https://open.spotify.com/track/15vg0v6tZ1y8aZfpdz2KRY"
     },
     {
+      "added_at": "2026-08-21 04:01:32",
+      "album": {
+        "name": ".com",
+        "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
+      },
+      "artists": [
+        {
+          "name": "Effie",
+          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
+        },
+        {
+          "name": "Eurohead",
+          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
+        }
+      ],
+      "duration_ms": 187384,
+      "name": ".com",
+      "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
+    },
+    {
+      "added_at": "2026-07-03 04:02:01",
+      "album": {
+        "name": "Satellites",
+        "url": "https://open.spotify.com/album/1lwDEmZ3j69Wrh0AycrCCU"
+      },
+      "artists": [
+        {
+          "name": "Frost Children",
+          "url": "https://open.spotify.com/artist/6R1kfr0GIWnwxY4zW11Vag"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Satellites",
+      "url": "https://open.spotify.com/track/0w1z41tugZvJHNLUWUjXkD"
+    },
+    {
+      "added_at": "2026-09-18 04:02:52",
+      "album": {
+        "name": "IDK",
+        "url": "https://open.spotify.com/album/6sR3lgH8lhJcOST4AyLOot"
+      },
+      "artists": [
+        {
+          "name": "AZZO",
+          "url": "https://open.spotify.com/artist/4IJBCv2lz2aSDJ6mHBeFrA"
+        },
+        {
+          "name": "Shai",
+          "url": "https://open.spotify.com/artist/4fXKzFtrAGS3gGyM0BKoKq"
+        }
+      ],
+      "duration_ms": 180978,
+      "name": "IDK",
+      "url": "https://open.spotify.com/track/4Zu40S3DaIo0yd7kCZCnEV"
+    },
+    {
       "added_at": "2026-08-28 04:02:31",
       "album": {
         "name": "Unlimited Love b/w The Peace (Frost Children Remix)",
@@ -129,20 +149,20 @@
       "url": "https://open.spotify.com/track/7tCX63cXtClUjasZyBwSkW"
     },
     {
-      "added_at": "2026-08-07 04:02:03",
+      "added_at": "2026-09-18 04:02:52",
       "album": {
-        "name": "Crash",
-        "url": "https://open.spotify.com/album/6iyZGJYs5Hcis6MkGrte6F"
+        "name": "Sex",
+        "url": "https://open.spotify.com/album/1NTNfFiznzUQYLTNEyhZl7"
       },
       "artists": [
         {
-          "name": "aftrr!",
-          "url": "https://open.spotify.com/artist/6Twj8lltC7kWfs3G8TMr1u"
+          "name": "2hollis",
+          "url": "https://open.spotify.com/artist/72NhFAGG5Pt91VbheJeEPG"
         }
       ],
-      "duration_ms": 267338,
-      "name": "Crash",
-      "url": "https://open.spotify.com/track/06P0eISbnaU1FOuuJAjAg2"
+      "duration_ms": 166154,
+      "name": "Sex",
+      "url": "https://open.spotify.com/track/28JTepgeSEGHe9OcvHFzAs"
     },
     {
       "added_at": "2026-09-11 04:02:10",
@@ -159,6 +179,54 @@
       "duration_ms": 150857,
       "name": "Creamy",
       "url": "https://open.spotify.com/track/5PQ9eOhnSsOCja5yymUAmW"
+    },
+    {
+      "added_at": "2026-08-21 04:01:32",
+      "album": {
+        "name": "strong emotion",
+        "url": "https://open.spotify.com/album/41syWv4PlFuREYMDCCghgb"
+      },
+      "artists": [
+        {
+          "name": "pager",
+          "url": "https://open.spotify.com/artist/1qBj9F3l4NpBnRXl1R6eEl"
+        }
+      ],
+      "duration_ms": 220352,
+      "name": "strong emotion",
+      "url": "https://open.spotify.com/track/35Hil9E7BcaP4Xql6SjzLn"
+    },
+    {
+      "added_at": "2026-09-11 04:02:10",
+      "album": {
+        "name": "gao dan dan",
+        "url": "https://open.spotify.com/album/79UIu9ToXdjzDmL7GqGZOJ"
+      },
+      "artists": [
+        {
+          "name": "Helena Gao",
+          "url": "https://open.spotify.com/artist/2s2ztYpVGqV3BWDbAcd35h"
+        }
+      ],
+      "duration_ms": 132696,
+      "name": "nan peng you",
+      "url": "https://open.spotify.com/track/3K7wEeOTaJR5IS2LuDzvuY"
+    },
+    {
+      "added_at": "2026-09-18 04:02:52",
+      "album": {
+        "name": "i keep falling in love",
+        "url": "https://open.spotify.com/album/6qngY4agNcz8iS1QcBd4oz"
+      },
+      "artists": [
+        {
+          "name": "Tiiva",
+          "url": "https://open.spotify.com/artist/7xPH48skEkdWGdzNzZwVKF"
+        }
+      ],
+      "duration_ms": 175853,
+      "name": "i keep falling in love",
+      "url": "https://open.spotify.com/track/25I2tic3WctcHpKcHd9QPz"
     },
     {
       "added_at": "2026-08-28 04:02:31",
@@ -193,6 +261,58 @@
       "url": "https://open.spotify.com/track/2Vr416wqRU1gyfMfRjCeDf"
     },
     {
+      "added_at": "2026-09-11 04:02:10",
+      "album": {
+        "name": "Pa-ti-",
+        "url": "https://open.spotify.com/album/78uvrZLrSRUHsvcDHj9Ly1"
+      },
+      "artists": [
+        {
+          "name": "mediopicky",
+          "url": "https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm"
+        },
+        {
+          "name": "Ekstra Bonus",
+          "url": "https://open.spotify.com/artist/7HhjQ7M6KloGuoUB4ruvSq"
+        }
+      ],
+      "duration_ms": 159537,
+      "name": "Activa",
+      "url": "https://open.spotify.com/track/5CD5ZtaCukObMsFAPs10eR"
+    },
+    {
+      "added_at": "2026-09-01 21:51:02",
+      "album": {
+        "name": "Inside Your Light",
+        "url": "https://open.spotify.com/album/380ZZ2AeiyPiGdyYkNnH9t"
+      },
+      "artists": [
+        {
+          "name": "Petal Supply",
+          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
+        }
+      ],
+      "duration_ms": 219820,
+      "name": "Inside Your Light",
+      "url": "https://open.spotify.com/track/4ragvZ6bncbPc34ZqgZFth"
+    },
+    {
+      "added_at": "2026-09-18 04:02:52",
+      "album": {
+        "name": "Error",
+        "url": "https://open.spotify.com/album/143dM0ClGJbBCPtIL4vvzp"
+      },
+      "artists": [
+        {
+          "name": "MANON",
+          "url": "https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3"
+        }
+      ],
+      "duration_ms": 152365,
+      "name": "Error",
+      "url": "https://open.spotify.com/track/0RrwVrlkomHDZDkCbaGMNu"
+    },
+    {
       "added_at": "2026-03-27 04:00:20",
       "album": {
         "name": "SAME LA",
@@ -211,6 +331,58 @@
     {
       "added_at": "2026-08-28 04:02:31",
       "album": {
+        "name": "Lucky (Spotify Singles)",
+        "url": "https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN"
+      },
+      "artists": [
+        {
+          "name": "Namasenda",
+          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "Lucky - Spotify Singles",
+      "url": "https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"
+    },
+    {
+      "added_at": "2026-09-11 04:02:10",
+      "album": {
+        "name": "Motion Sick",
+        "url": "https://open.spotify.com/album/4v90RmR3tgqSsdFdncFAoG"
+      },
+      "artists": [
+        {
+          "name": "Zorza",
+          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
+        }
+      ],
+      "duration_ms": 174117,
+      "name": "Motion Sick",
+      "url": "https://open.spotify.com/track/5d7o5oyQJi0U77NQvDtOZB"
+    },
+    {
+      "added_at": "2026-09-18 04:02:52",
+      "album": {
+        "name": "Bathroom Bitch (6arelyhuman Remix)",
+        "url": "https://open.spotify.com/album/5p3dPp4yv1Yk7e8uBkyeVC"
+      },
+      "artists": [
+        {
+          "name": "HOLYCHILD",
+          "url": "https://open.spotify.com/artist/4itksv8jgpEcvRvZ7lDalQ"
+        },
+        {
+          "name": "6arelyhuman",
+          "url": "https://open.spotify.com/artist/1oYXEVbGh1L7EWGm9C68cN"
+        }
+      ],
+      "duration_ms": 168333,
+      "name": "Bathroom Bitch - 6arelyhuman Remix",
+      "url": "https://open.spotify.com/track/5qLE9apyPgYYD4bYtuLSa0"
+    },
+    {
+      "added_at": "2026-08-28 04:02:31",
+      "album": {
         "name": "Bangs N Braces",
         "url": "https://open.spotify.com/album/4gCFyq36zp5euoD8SgDXJt"
       },
@@ -223,6 +395,38 @@
       "duration_ms": 165708,
       "name": "Tiger Tiger",
       "url": "https://open.spotify.com/track/6eZwaCbR6jIwR12Yfaguhj"
+    },
+    {
+      "added_at": "2026-09-18 04:02:52",
+      "album": {
+        "name": "Instinct",
+        "url": "https://open.spotify.com/album/6YI3T1Fp18q8b7s7QM9pGs"
+      },
+      "artists": [
+        {
+          "name": "Kianna",
+          "url": "https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl"
+        }
+      ],
+      "duration_ms": 92000,
+      "name": "stabilizer",
+      "url": "https://open.spotify.com/track/4w7d9o1bp3F2JSt8pcL9LC"
+    },
+    {
+      "added_at": "2026-09-18 04:02:52",
+      "album": {
+        "name": "MIA",
+        "url": "https://open.spotify.com/album/729O9QWZAbLUE94YOOv5JC"
+      },
+      "artists": [
+        {
+          "name": "Sophie Powers",
+          "url": "https://open.spotify.com/artist/0hrMKLqgNEIemiF4Ag8dTI"
+        }
+      ],
+      "duration_ms": 162911,
+      "name": "MIA",
+      "url": "https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307"
     },
     {
       "added_at": "2026-08-28 04:02:31",
@@ -277,56 +481,24 @@
       "url": "https://open.spotify.com/track/5V0MbUqdi6rSRbJMn8Crrv"
     },
     {
-      "added_at": "2026-08-21 04:01:32",
+      "added_at": "2026-09-18 04:02:52",
       "album": {
-        "name": "strong emotion",
-        "url": "https://open.spotify.com/album/41syWv4PlFuREYMDCCghgb"
+        "name": "fin.",
+        "url": "https://open.spotify.com/album/7wBRZ0dLEjSYlLyio0PfhP"
       },
       "artists": [
         {
-          "name": "pager",
-          "url": "https://open.spotify.com/artist/1qBj9F3l4NpBnRXl1R6eEl"
-        }
-      ],
-      "duration_ms": 220352,
-      "name": "strong emotion",
-      "url": "https://open.spotify.com/track/35Hil9E7BcaP4Xql6SjzLn"
-    },
-    {
-      "added_at": "2026-09-11 04:02:10",
-      "album": {
-        "name": "Pa-ti-",
-        "url": "https://open.spotify.com/album/78uvrZLrSRUHsvcDHj9Ly1"
-      },
-      "artists": [
-        {
-          "name": "mediopicky",
-          "url": "https://open.spotify.com/artist/6vOfSVXZAWvuZliupPw4Wm"
+          "name": "Kamui",
+          "url": "https://open.spotify.com/artist/39PBUM5S4D2fVPFbzMUr6C"
         },
         {
-          "name": "Ekstra Bonus",
-          "url": "https://open.spotify.com/artist/7HhjQ7M6KloGuoUB4ruvSq"
+          "name": "lilbesh ramko",
+          "url": "https://open.spotify.com/artist/5bdiD2ANkGjawGUiBFYmRu"
         }
       ],
-      "duration_ms": 159537,
-      "name": "Activa",
-      "url": "https://open.spotify.com/track/5CD5ZtaCukObMsFAPs10eR"
-    },
-    {
-      "added_at": "2026-09-01 21:51:02",
-      "album": {
-        "name": "Inside Your Light",
-        "url": "https://open.spotify.com/album/380ZZ2AeiyPiGdyYkNnH9t"
-      },
-      "artists": [
-        {
-          "name": "Petal Supply",
-          "url": "https://open.spotify.com/artist/3QpNnKSjUIIMwFei8h3eOj"
-        }
-      ],
-      "duration_ms": 219820,
-      "name": "Inside Your Light",
-      "url": "https://open.spotify.com/track/4ragvZ6bncbPc34ZqgZFth"
+      "duration_ms": 132923,
+      "name": "fin.",
+      "url": "https://open.spotify.com/track/5wOnKFwoGtRfdaNXb3IC97"
     },
     {
       "added_at": "2026-08-21 04:01:32",
@@ -351,6 +523,22 @@
       "duration_ms": 196800,
       "name": "Fire Away (feat. Slayyyter) - Frost Children Remix",
       "url": "https://open.spotify.com/track/5qlnDQV1xjZl5HwHJuiROh"
+    },
+    {
+      "added_at": "2026-09-18 04:02:52",
+      "album": {
+        "name": "ON ECSTATIC",
+        "url": "https://open.spotify.com/album/4mCugW3ZP2DvkVUd02kIM3"
+      },
+      "artists": [
+        {
+          "name": "Sophia Anne Caruso",
+          "url": "https://open.spotify.com/artist/6DQwC1hPrwv3JRmvxONCoZ"
+        }
+      ],
+      "duration_ms": 213208,
+      "name": "another life",
+      "url": "https://open.spotify.com/track/0GrTMiguGCFYmkI67jGvRV"
     },
     {
       "added_at": "2026-09-11 04:02:10",
@@ -385,36 +573,20 @@
       "url": "https://open.spotify.com/track/0s85l92YEFHiOH6rpFVUOj"
     },
     {
-      "added_at": "2026-08-28 04:02:31",
+      "added_at": "2026-09-18 04:02:52",
       "album": {
-        "name": "Lucky (Spotify Singles)",
-        "url": "https://open.spotify.com/album/2Tiw85yTcOBR9adhfxf3GN"
+        "name": "Not So Lovely",
+        "url": "https://open.spotify.com/album/6qkdY0evWH8xzVISZlEZGV"
       },
       "artists": [
         {
-          "name": "Namasenda",
-          "url": "https://open.spotify.com/artist/5T68nryXXOMNE2kVe61fKX"
+          "name": "LOVELI LORI",
+          "url": "https://open.spotify.com/artist/7mcE0EmrnPmyAGU3UBJrFg"
         }
       ],
-      "duration_ms": 173680,
-      "name": "Lucky - Spotify Singles",
-      "url": "https://open.spotify.com/track/3mlGZG9LEBTBlTaR9EVS99"
-    },
-    {
-      "added_at": "2026-09-11 04:02:10",
-      "album": {
-        "name": "Motion Sick",
-        "url": "https://open.spotify.com/album/4v90RmR3tgqSsdFdncFAoG"
-      },
-      "artists": [
-        {
-          "name": "Zorza",
-          "url": "https://open.spotify.com/artist/3aAo0qwTvgRwURTzzQ3frr"
-        }
-      ],
-      "duration_ms": 174117,
-      "name": "Motion Sick",
-      "url": "https://open.spotify.com/track/5d7o5oyQJi0U77NQvDtOZB"
+      "duration_ms": 106331,
+      "name": "Lovesick Psycho",
+      "url": "https://open.spotify.com/track/0lrn6suDeipHPwcyFIdVHw"
     },
     {
       "added_at": "2026-09-04 04:01:50",
@@ -741,42 +913,6 @@
       "url": "https://open.spotify.com/track/4Mrmo8tcADYG7lNU00lOWk"
     },
     {
-      "added_at": "2026-08-28 04:02:31",
-      "album": {
-        "name": "Let Luv",
-        "url": "https://open.spotify.com/album/5etvJRZCUzllfosHMGPWGz"
-      },
-      "artists": [
-        {
-          "name": "Kenan Ki\u00e1n",
-          "url": "https://open.spotify.com/artist/0BAXn33cmNZb3pgDJx4cuO"
-        },
-        {
-          "name": "Meg Ward",
-          "url": "https://open.spotify.com/artist/2mD3jEYpdABPmYGMkwIp8s"
-        }
-      ],
-      "duration_ms": 182686,
-      "name": "Let Luv",
-      "url": "https://open.spotify.com/track/51ZNNmfiqlXdNdXCaOPUK0"
-    },
-    {
-      "added_at": "2026-08-21 04:01:32",
-      "album": {
-        "name": "I do Got it",
-        "url": "https://open.spotify.com/album/5V7RrhW5zzRyIspv6SYJRw"
-      },
-      "artists": [
-        {
-          "name": "Sorisa",
-          "url": "https://open.spotify.com/artist/5aHJ7mcBAI9x0Hv28IzNV8"
-        }
-      ],
-      "duration_ms": 245176,
-      "name": "Can I Do Anything That I Want",
-      "url": "https://open.spotify.com/track/1tGelDiSaXa7b21WTa9VyO"
-    },
-    {
       "added_at": "2026-08-14 04:02:27",
       "album": {
         "name": "Miku-Maxxing (with Hatsune Miku, Grimes, & \u3055\u305f\u3071\u3093P)",
@@ -871,26 +1007,6 @@
       "duration_ms": 143099,
       "name": "DEMAND",
       "url": "https://open.spotify.com/track/02jHrxlIWXJKQmPHNfUX8z"
-    },
-    {
-      "added_at": "2026-08-21 04:01:32",
-      "album": {
-        "name": "\u6069\u5bf5",
-        "url": "https://open.spotify.com/album/49nxD8ulK9YyROQcvP2CYU"
-      },
-      "artists": [
-        {
-          "name": "Hakushi Hasegawa",
-          "url": "https://open.spotify.com/artist/5DZqDIAqRSN8mBM0DoQwoi"
-        },
-        {
-          "name": "HaHa And The Hairpins",
-          "url": "https://open.spotify.com/artist/1ruD7LPCd8uwJNppN5oaEs"
-        }
-      ],
-      "duration_ms": 192672,
-      "name": "\u6069\u5bf5",
-      "url": "https://open.spotify.com/track/1H5SlTjRrM6eDD1WHePYdS"
     },
     {
       "added_at": "2026-08-28 04:02:31",
@@ -1081,22 +1197,6 @@
       "url": "https://open.spotify.com/track/1UzjeYE8X7fTgWAofd00sX"
     },
     {
-      "added_at": "2026-08-14 04:02:27",
-      "album": {
-        "name": "Hot Night",
-        "url": "https://open.spotify.com/album/4UcOHX9XD90KNx9hKTxm39"
-      },
-      "artists": [
-        {
-          "name": "Tama Gucci",
-          "url": "https://open.spotify.com/artist/6jAwGiTR1vM9nEnsSv2dn5"
-        }
-      ],
-      "duration_ms": 167300,
-      "name": "Hot Night",
-      "url": "https://open.spotify.com/track/4mhssP1J0vF8nlvjm54Z3y"
-    },
-    {
       "added_at": "2026-07-10 04:02:12",
       "album": {
         "name": "Kiss",
@@ -1167,26 +1267,6 @@
       "duration_ms": 117302,
       "name": "Bridgerton",
       "url": "https://open.spotify.com/track/4RKtDDOYsm6864QgAziwdW"
-    },
-    {
-      "added_at": "2026-07-31 04:01:57",
-      "album": {
-        "name": "Tell Me I'm Pretty (MARiMARi Remix)",
-        "url": "https://open.spotify.com/album/16hcL6gEpVkXnasQVbz8pR"
-      },
-      "artists": [
-        {
-          "name": "Girl Group",
-          "url": "https://open.spotify.com/artist/4v9htNDv5ZTWn8JiMZx7S4"
-        },
-        {
-          "name": "MARiMARi",
-          "url": "https://open.spotify.com/artist/4EuIByMqMJOCQijthmKLwl"
-        }
-      ],
-      "duration_ms": 151730,
-      "name": "Tell Me I'm Pretty - MARiMARi Remix",
-      "url": "https://open.spotify.com/track/535RDCwzvAElmlAD4ZI45t"
     },
     {
       "added_at": "2026-06-12 04:01:44",

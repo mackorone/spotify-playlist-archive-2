@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 
 > 国内外のオルタナティブダンスミュージック  Cover: Stones Taro \*金曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 91,725 likes - 90 songs - 6 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 91,742 likes - 90 songs - 6 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbiEfzyzIRj9.md) - [plain]
 | 89 | [Devout](https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Devout](https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS) | 3:37 |
 | 90 | [What I Have Left](https://open.spotify.com/track/4FWbKjOTDnKZnQgTDqJytS) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [What I Have Left](https://open.spotify.com/album/4ehzHqPAjCcu8PiNBIdHv9) | 2:55 |
 
-Snapshot ID: `AAAAAPQaXndgQOAU1gxIbjmwItTXD8gc`
+Snapshot ID: `AAAAAByfOs/w3jYVQpkvuGpaTCUDY6e/`

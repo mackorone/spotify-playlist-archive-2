@@ -1911,6 +1911,24 @@
     },
     {
       "album": {
+        "name": "The Parting Glass (Arr. Huws for Harp)",
+        "url": "https://open.spotify.com/album/3qjj8sLPmY4Ul35AW4WD8d"
+      },
+      "artists": [
+        {
+          "name": "Alis Huws",
+          "url": "https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143047,
+      "name": "The Parting Glass (Arr. Huws for Harp)",
+      "url": "https://open.spotify.com/track/4Si1jKkStIBF2tBX1uRd2i"
+    },
+    {
+      "album": {
         "name": "Santaolalla: Theme from \"The Last of Us\" (Transcr. Trifonov for Piano)",
         "url": "https://open.spotify.com/album/3pfA3PO1UEEyMxO9YVB0gn"
       },

@@ -1,12 +1,12 @@
 {
   "description": "Music from \u201cA3!\u201d, Japan\u2019s top anime style mobile games.\u00a9Liber Entertainment Inc. All Rights Reserved.",
-  "num_followers": 40880,
+  "num_followers": 40884,
   "original_name": "A3!",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF/eilVTgJ8V/tIGM4ArVyJ/UTOb",
+  "snapshot_id": "AAAAACyJ+xa8efFBkxh8UahihI8XA1r5",
   "tracks": [
     {
       "added_at": "2026-08-25 16:08:07",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
-        "name": "Act! Addict! Actors!",
-        "url": "https://open.spotify.com/album/1FsYzmUDEFHOmAoymlGDZK"
-      },
-      "artists": [
-        {
-          "name": "A3ders!",
-          "url": "https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv"
-        }
-      ],
-      "duration_ms": 224186,
-      "name": "Act! Addict! Actors!",
-      "url": "https://open.spotify.com/track/71bCzyoEyJYw2A7qN1FBk7"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
         "name": "A3! VIVID AUTUMN EP",
         "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
       },
@@ -471,6 +455,22 @@
       "duration_ms": 257320,
       "name": "SECOND SHOT",
       "url": "https://open.spotify.com/track/7cJf42KFLf7rRmVzQ9dGkt"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
+        "name": "Act! Addict! Actors!",
+        "url": "https://open.spotify.com/album/1FsYzmUDEFHOmAoymlGDZK"
+      },
+      "artists": [
+        {
+          "name": "A3ders!",
+          "url": "https://open.spotify.com/artist/4mAab1tXVGXGgmqt4Sbbkv"
+        }
+      ],
+      "duration_ms": 224186,
+      "name": "Act! Addict! Actors!",
+      "url": "https://open.spotify.com/track/71bCzyoEyJYw2A7qN1FBk7"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -647,22 +647,6 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
-        "name": "A3! SUNNY SPRING EP",
-        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
-      },
-      "artists": [
-        {
-          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
-          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
-        }
-      ],
-      "duration_ms": 261440,
-      "name": "\u521d\u604bX",
-      "url": "https://open.spotify.com/track/0OehqIzKNfTlG9xuyMA2aN"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
         "name": "A3! First SPRING EP",
         "url": "https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M"
       },
@@ -695,22 +679,6 @@
       "duration_ms": 258733,
       "name": "Spring has come!",
       "url": "https://open.spotify.com/track/2RRBQEw3laesyrXApTgWnV"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
-        "name": "A3! VIVID AUTUMN EP",
-        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
-      },
-      "artists": [
-        {
-          "name": "\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)",
-          "url": "https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA"
-        }
-      ],
-      "duration_ms": 257120,
-      "name": "\u9913\u9b3c\u6271\u3044",
-      "url": "https://open.spotify.com/track/3Z18XcDKq3etDT07IrK1bm"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -751,18 +719,34 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
-        "name": "A3! SUNNY WINTER EP",
-        "url": "https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP"
+        "name": "A3! VIVID AUTUMN EP",
+        "url": "https://open.spotify.com/album/6hPBFHntGggl2QHVGDX3CS"
       },
       "artists": [
         {
-          "name": "\u6709\u6816\u5ddd\u8a89(CV:\u8c4a\u6c38\u5229\u884c)",
-          "url": "https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo"
+          "name": "\u6cc9\u7530\u8387(CV:\u5c0f\u897f\u6210\u5f25)",
+          "url": "https://open.spotify.com/artist/6vs80AhrELN6M47kwfpfCA"
         }
       ],
-      "duration_ms": 170253,
-      "name": "\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
-      "url": "https://open.spotify.com/track/5NxOxDgcMJSbsGKsfgaxwq"
+      "duration_ms": 257120,
+      "name": "\u9913\u9b3c\u6271\u3044",
+      "url": "https://open.spotify.com/track/3Z18XcDKq3etDT07IrK1bm"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
+        "name": "A3! SUNNY SPRING EP",
+        "url": "https://open.spotify.com/album/7MSradvQRYj5JgmZ78h96e"
+      },
+      "artists": [
+        {
+          "name": "\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)",
+          "url": "https://open.spotify.com/artist/70038mflhvWOF3fhpXCFBf"
+        }
+      ],
+      "duration_ms": 261440,
+      "name": "\u521d\u604bX",
+      "url": "https://open.spotify.com/track/0OehqIzKNfTlG9xuyMA2aN"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -783,6 +767,22 @@
       "duration_ms": 236706,
       "name": "\u5618\u3064\u304d\u306f\u9b54\u6cd5\u306e\u306f\u3058\u307e\u308a",
       "url": "https://open.spotify.com/track/7Lhy1ymBdiPwAquSf6pn05"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
+        "name": "A3! SUNNY WINTER EP",
+        "url": "https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP"
+      },
+      "artists": [
+        {
+          "name": "\u6709\u6816\u5ddd\u8a89(CV:\u8c4a\u6c38\u5229\u884c)",
+          "url": "https://open.spotify.com/artist/2PW2GKX6MHXvUzHknb2Vwo"
+        }
+      ],
+      "duration_ms": 170253,
+      "name": "\u30a8\u30e2\u30fc\u30b7\u30e7\u30f3",
+      "url": "https://open.spotify.com/track/5NxOxDgcMJSbsGKsfgaxwq"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -923,6 +923,22 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
+        "name": "A3! First AUTUMN EP",
+        "url": "https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn"
+      },
+      "artists": [
+        {
+          "name": "\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)",
+          "url": "https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh"
+        }
+      ],
+      "duration_ms": 238613,
+      "name": "\u30b9\u30fc\u30d1\u30fc\u30a6\u30eb\u30c8\u30e9\u30a4\u30fc\u30b8\u30fc\u30e2\u30fc\u30c9",
+      "url": "https://open.spotify.com/track/6LNAwYwpjOlLRB0FSqk98m"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
         "name": "A3! VIVID WINTER EP",
         "url": "https://open.spotify.com/album/5kbcl1xM717EyFyXNiFhb5"
       },
@@ -959,22 +975,6 @@
       "duration_ms": 312533,
       "name": "Precious to us\uff5e\u50d5\u3089\u306e\u5b63\u7bc0\uff5e",
       "url": "https://open.spotify.com/track/3LTVj1RAbdXMX7FkXC8Joo"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
-        "name": "A3! First AUTUMN EP",
-        "url": "https://open.spotify.com/album/3Z9ByrJdBMKn4jQVMq7CEn"
-      },
-      "artists": [
-        {
-          "name": "\u6442\u6d25\u4e07\u91cc(CV:\u6ca2\u57ce\u5343\u6625)",
-          "url": "https://open.spotify.com/artist/1tQ0ttx4p0OGK374aMxqFh"
-        }
-      ],
-      "duration_ms": 238613,
-      "name": "\u30b9\u30fc\u30d1\u30fc\u30a6\u30eb\u30c8\u30e9\u30a4\u30fc\u30b8\u30fc\u30e2\u30fc\u30c9",
-      "url": "https://open.spotify.com/track/6LNAwYwpjOlLRB0FSqk98m"
     },
     {
       "added_at": "2026-08-25 16:08:07",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
-        "name": "A3! EVER LASTING LP",
-        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
-      },
-      "artists": [
-        {
-          "name": "\u4f50\u4e45\u9593\u54b2\u4e5f(CV:\u9152\u4e95\u5e83\u5927)",
-          "url": "https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC"
-        }
-      ],
-      "duration_ms": 317440,
-      "name": "\u30e2\u30ce\u30ed\u30fc\u30b0",
-      "url": "https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV"
-    },
-    {
-      "added_at": "2026-08-25 16:08:07",
-      "album": {
         "name": "A3! BRIGHT WINTER EP",
         "url": "https://open.spotify.com/album/11nYqZlQCZT761a8VNcUuN"
       },
@@ -1055,22 +1039,34 @@
     {
       "added_at": "2026-08-25 16:08:07",
       "album": {
-        "name": "A3! First SPRING EP",
-        "url": "https://open.spotify.com/album/3cucE119BiMAbKSLh0DE1M"
+        "name": "A3! EVER LASTING LP",
+        "url": "https://open.spotify.com/album/6FM2TzRFLqEvgjEvxJ6BcA"
       },
       "artists": [
         {
-          "name": "\u30ed\u30df\u30aa[\u4f50\u4e45\u9593\u54b2\u4e5f(CV:\u9152\u4e95\u5e83\u5927)]",
-          "url": "https://open.spotify.com/artist/5YJQGxsCPe8sk9josxunAZ"
-        },
-        {
-          "name": "\u30b8\u30e5\u30ea\u30a2\u30b9[\u7893\u6c37\u771f\u6f84(CV:\u767d\u4e95\u60a0\u4ecb)]",
-          "url": "https://open.spotify.com/artist/6mSbP2I9NQLb2b27KvPzuX"
+          "name": "\u4f50\u4e45\u9593\u54b2\u4e5f(CV:\u9152\u4e95\u5e83\u5927)",
+          "url": "https://open.spotify.com/artist/6rPornlr337BSL4cfY3dTC"
         }
       ],
-      "duration_ms": 303880,
-      "name": "\u50d5\u3089\u306e\u7d46",
-      "url": "https://open.spotify.com/track/5u84IGengx68EHf5gYy9DU"
+      "duration_ms": 317440,
+      "name": "\u30e2\u30ce\u30ed\u30fc\u30b0",
+      "url": "https://open.spotify.com/track/37yUMR4J1Hz3JafJILbhcV"
+    },
+    {
+      "added_at": "2026-08-25 16:08:07",
+      "album": {
+        "name": "A3! SUNNY WINTER EP",
+        "url": "https://open.spotify.com/album/7ls2OwNoFEXuL49UQtKkpP"
+      },
+      "artists": [
+        {
+          "name": "\u5fa1\u5f71\u5bc6(CV:\u5bfa\u5cf6\u60c7\u592a)",
+          "url": "https://open.spotify.com/artist/0hXb0YqEirdRnu6COfDVAn"
+        }
+      ],
+      "duration_ms": 271813,
+      "name": "\u30ca\u30cf\u30c8\u30e0\u30b8\u30af\u3068\u767d\u6708",
+      "url": "https://open.spotify.com/track/5laQ9JOIhLHeCbK7ytvjp2"
     }
   ],
   "unique_name": "A3!",

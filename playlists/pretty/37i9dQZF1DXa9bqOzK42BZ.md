@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 
 > The best of Swahili gospel music\. Cover: Moses Luka
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,227 likes - 100 songs - 10 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,297 likes - 100 songs - 10 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXa9bqOzK42BZ.md) - [plain]
 | 99 | [Amina](https://open.spotify.com/track/3M0rZ3y3U5GblF0rOEuajB) | [Rose Muhando](https://open.spotify.com/artist/43KbcDih4fGBiHXsdI5X87), [Sophie Shangwa](https://open.spotify.com/artist/3rOaAX8sANHe6g8kcCPcAB) | [AMINA](https://open.spotify.com/album/19uq2Q3iuAI8W4xvrsrp1X) | 4:26 |
 | 100 | [Hatatuacha](https://open.spotify.com/track/2qnxh0XE78UG0Ai5uBFOQ0) | [Ambwene Mwasongwe](https://open.spotify.com/artist/3VWdz8uTAUxMqnGDeKWqYH) | [Hatatuacha](https://open.spotify.com/album/3y6PLi1J0mxU51alR8DkLj) | 9:15 |
 
-Snapshot ID: `AAAAADZNuX+bJZJkOzvVpgwmH8JJprKs`
+Snapshot ID: `AAAAALUIgXfkmRA5k/iJ5Os9E05gmGk0`

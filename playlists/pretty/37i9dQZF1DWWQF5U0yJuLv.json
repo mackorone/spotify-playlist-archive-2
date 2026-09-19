@@ -1,12 +1,12 @@
 {
   "description": "Glitch and giggle with these whimsically warped bouncy bops \ud83e\udd16",
-  "num_followers": 65096,
+  "num_followers": 65128,
   "original_name": "Quirktronica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFqvkmzh9cEEJJ0DC/mmR5MI/XlX",
+  "snapshot_id": "AAAAADJvroomShjoJ59KPRyvALZMgwot",
   "tracks": [
     {
       "added_at": "2025-11-07 05:00:56",
@@ -803,6 +803,22 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "Sorry I Make You Lush",
+        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
+      },
+      "artists": [
+        {
+          "name": "Wagon Christ",
+          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
+        }
+      ],
+      "duration_ms": 420066,
+      "name": "Sci-Fi Staircase",
+      "url": "https://open.spotify.com/track/1ilAKNVQwIZXaFna2q2dne"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Time to Recover",
         "url": "https://open.spotify.com/album/7wzFqOBxEWo6gmvFntCtSP"
       },
@@ -835,22 +851,6 @@
       "duration_ms": 213332,
       "name": "BIPP - Autechre Mx",
       "url": "https://open.spotify.com/track/4tBdLWvYYr5IjJpvwiZr85"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "Sorry I Make You Lush",
-        "url": "https://open.spotify.com/album/2fxOZi4VkImgPWuf6my6nR"
-      },
-      "artists": [
-        {
-          "name": "Wagon Christ",
-          "url": "https://open.spotify.com/artist/3INW2gvv9ZcgPGL0oqkOXy"
-        }
-      ],
-      "duration_ms": 420066,
-      "name": "Sci-Fi Staircase",
-      "url": "https://open.spotify.com/track/1ilAKNVQwIZXaFna2q2dne"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1135,22 +1135,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Manhattan Research, Inc.",
-        "url": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D"
-      },
-      "artists": [
-        {
-          "name": "Raymond Scott",
-          "url": "https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt"
-        }
-      ],
-      "duration_ms": 105026,
-      "name": "Night And Day",
-      "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Candid",
         "url": "https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8"
       },
@@ -1167,6 +1151,22 @@
       "duration_ms": 348947,
       "name": "Honsu",
       "url": "https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Manhattan Research, Inc.",
+        "url": "https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D"
+      },
+      "artists": [
+        {
+          "name": "Raymond Scott",
+          "url": "https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt"
+        }
+      ],
+      "duration_ms": 105026,
+      "name": "Night And Day",
+      "url": "https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -1675,22 +1675,6 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
-        "name": "Puzzlewood",
-        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
-      },
-      "artists": [
-        {
-          "name": "Plone",
-          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
-        }
-      ],
-      "duration_ms": 208983,
-      "name": "Red Kite",
-      "url": "https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
         "name": "Too Far",
         "url": "https://open.spotify.com/album/4cGbgxMQWj4KD99pLSVfdF"
       },
@@ -1703,6 +1687,22 @@
       "duration_ms": 266179,
       "name": "Too Far",
       "url": "https://open.spotify.com/track/4bXwtTkkedf9RHndi65kcC"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "Puzzlewood",
+        "url": "https://open.spotify.com/album/7kJ4lcPkAOebXxBxvOmaeq"
+      },
+      "artists": [
+        {
+          "name": "Plone",
+          "url": "https://open.spotify.com/artist/28HqZ2RaUbI3uewbxWDW41"
+        }
+      ],
+      "duration_ms": 208983,
+      "name": "Red Kite",
+      "url": "https://open.spotify.com/track/3I7n1t3f3mSJWeHAxILqSP"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2299,6 +2299,26 @@
     {
       "added_at": "2025-11-07 05:00:56",
       "album": {
+        "name": "lux",
+        "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
+      },
+      "artists": [
+        {
+          "name": "The Surrealist",
+          "url": "https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy"
+        },
+        {
+          "name": "DARK",
+          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
+        }
+      ],
+      "duration_ms": 195960,
+      "name": "lux",
+      "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
         "name": "Scorpion Deathlock",
         "url": "https://open.spotify.com/album/1t5hEdGsyJsZaYqeeuq8fF"
       },
@@ -2311,6 +2331,22 @@
       "duration_ms": 173226,
       "name": "Ferrari Rocher",
       "url": "https://open.spotify.com/track/7KFHq7A8fDPv3vzGDWJ7Tf"
+    },
+    {
+      "added_at": "2025-11-07 05:00:56",
+      "album": {
+        "name": "The Red Line",
+        "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
+      },
+      "artists": [
+        {
+          "name": "Dualizm",
+          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
+        }
+      ],
+      "duration_ms": 158620,
+      "name": "The Red Line",
+      "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
     },
     {
       "added_at": "2025-11-07 05:00:56",
@@ -2335,42 +2371,6 @@
       "duration_ms": 311533,
       "name": "Run",
       "url": "https://open.spotify.com/track/4mhrqvqLes5QzRelxP3klq"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "lux",
-        "url": "https://open.spotify.com/album/6xhpUQ1gT0rvATP1QMmTDs"
-      },
-      "artists": [
-        {
-          "name": "The Surrealist",
-          "url": "https://open.spotify.com/artist/54muyMofzFuDNq0oJfI8Gy"
-        },
-        {
-          "name": "DARK",
-          "url": "https://open.spotify.com/artist/4mJeYvJH1WW0jLjbUh6VxM"
-        }
-      ],
-      "duration_ms": 195960,
-      "name": "lux",
-      "url": "https://open.spotify.com/track/6PAV1uC2gERxuqdvjzYk7Z"
-    },
-    {
-      "added_at": "2025-11-07 05:00:56",
-      "album": {
-        "name": "The Red Line",
-        "url": "https://open.spotify.com/album/4x3TyH5d8USGNgLowZ1n9w"
-      },
-      "artists": [
-        {
-          "name": "Dualizm",
-          "url": "https://open.spotify.com/artist/7q0bttnSm6LD4zu9RoPEkz"
-        }
-      ],
-      "duration_ms": 158620,
-      "name": "The Red Line",
-      "url": "https://open.spotify.com/track/49d3Ukzxtx0lyYCztnY1Y4"
     },
     {
       "added_at": "2025-11-07 05:00:56",

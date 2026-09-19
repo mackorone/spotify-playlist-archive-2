@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 
 > explore the alt\-sounds of Copenhagen and beyond 🌀 Cover: Yvonnes
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,570 likes - 196 songs - 11 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,771 likes - 196 songs - 11 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -205,4 +205,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0gcho56Immm.md) - [plain]
 | 195 | [sinking stone](https://open.spotify.com/track/6HO2Ak18blRMCY7ePLRW5W) | [Nova Varnrable](https://open.spotify.com/artist/7eXnw7Cn85i2s9aYNAERcR) | [where it melts away](https://open.spotify.com/album/3xHwEDVAeZjpnDg4PRmaBl) | 2:44 |
 | 196 | [Letters](https://open.spotify.com/track/0B6xHxWg4g7C9174Cx1d0m) | [@](https://open.spotify.com/artist/5HMQ8Ndq4fhuLwhealQFO3) | [Mind Palace Music](https://open.spotify.com/album/7h3MMJMKzY03w8VVYgrYWr) | 2:26 |
 
-Snapshot ID: `AAAAAG+23cVqVy9F55bIWo2ssWMpislV`
+Snapshot ID: `AAAAAHkAwCDbSN32ffT4EoqFOKImCo0C`

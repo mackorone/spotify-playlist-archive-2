@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 
 > Music for when you've got your Jesus on and your swag up \. <br/>Cover:  Anendlessocean
 
-[Spotify](https://open.spotify.com/user/spotify) - 82,884 likes - 100 songs - 5 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 82,949 likes - 100 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2VXwwgu0PzV.md) - [plain]
 | 99 | [go back](https://open.spotify.com/track/4fhVo2oTvsbOvUDKhsYx1O) | [JOSHUA LAZER](https://open.spotify.com/artist/2CtZZgLqDy4tgYKMLHdpO0) | [go back](https://open.spotify.com/album/7FLrjtMHZgWVS0gA1xGOEU) | 2:06 |
 | 100 | [God Alone](https://open.spotify.com/track/6a8NzydorMVCGuPtpYHu2x) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Yusuf Fist](https://open.spotify.com/artist/39r5htdRsiGJajqY6je43G), [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS) | [God Alone](https://open.spotify.com/album/1cx10QcKVdRwnTfkwYM4ha) | 3:00 |
 
-Snapshot ID: `AAAAAOlu+KVRXn+vnxAxuYkGrIhMiyRF`
+Snapshot ID: `AAAAAPdGL6CG1C8jZDBFAaND0DhVhd/B`

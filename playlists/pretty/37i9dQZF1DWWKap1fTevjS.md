@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,308 likes - 391 songs - 17 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,389 likes - 391 songs - 17 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -400,4 +400,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 390 | [Aquila](https://open.spotify.com/track/4Qi0R3RMouRVAuUnrXRPiL) | [Boris Wilde](https://open.spotify.com/artist/0g32C3NhVb9ERoH34Jj6fE) | [Aquila](https://open.spotify.com/album/4GrjE9fqO2sVQhhhM23Q48) | 2:35 |
 | 391 | [The Slow Bloom](https://open.spotify.com/track/3QipTmcVQtv5GDG6pe4RS7) | [Selma Moore](https://open.spotify.com/artist/2JMWh2t6eo5FgtnVUTX7Im) | [The Slow Bloom](https://open.spotify.com/album/5LXL8qb6zPFszVoS1ek9Dl) | 2:26 |
 
-Snapshot ID: `AAAAALZKPfyiD/BYZTK/gI3HuuhJwIXX`
+Snapshot ID: `AAAAAKUHiUzT/msgapFoA4hVnyf+7/1T`

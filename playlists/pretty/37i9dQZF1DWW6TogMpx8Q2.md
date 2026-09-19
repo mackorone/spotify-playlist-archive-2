@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 
 > Biggest Cantopop MV Hits! MVs only available for Spotify premium subscribers\.  Cover: Mischa Ip
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,445 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,448 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW6TogMpx8Q2.md) - [plain]
 | 99 | [如是因 如是果](https://open.spotify.com/track/1tVcgUxgByb7D8ne8FH5zu) | [Alan Po](https://open.spotify.com/artist/07KI4ayN7XEoAVkYdRq6FA) | [如是因 如是果](https://open.spotify.com/album/5H83HRQcJBXmgzGcPu64zD) | 4:38 |
 | 100 | [多謝你自己](https://open.spotify.com/track/73HLm4bnp7QSnH8chPczoO) | [Dear Jane](https://open.spotify.com/artist/6V1SwiosQqf5XvmoTMCGa9) | [多謝你自己](https://open.spotify.com/album/0bVY9uMWyikjiWk3peaiDX) | 4:19 |
 
-Snapshot ID: `AAAAALebie43SuK2yump7hvJWCxT01+R`
+Snapshot ID: `AAAAABbF9jrUgCar75Ib0wo4ScdoPBeJ`

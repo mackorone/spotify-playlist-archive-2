@@ -4,7 +4,7 @@
 
 > The best in new rock\. Cover: Vana
 
-744 songs - 1 day 19 hr 46 min
+744 songs - 1 day 19 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -307,6 +307,7 @@
 | [Hurry Hurry](https://open.spotify.com/track/1uDj1d8Jul3CgL4KV4079d) | [Jet](https://open.spotify.com/artist/5ypxebeHEIXjMtJb17uJlI) | [Hurry Hurry](https://open.spotify.com/album/6rMh29r4PsozHUR5evbyr9) | 3:04 | 2024-09-05 | 2025-03-21 |
 | [Hurts Like Hell](https://open.spotify.com/track/4DmXWoFYEsBtwSSJe1wkGe) | [Hands Like Houses](https://open.spotify.com/artist/0u3d5PM2FuEuG5QuUdt8mT), [Normandie](https://open.spotify.com/artist/1zsOttiR3VjZRnw4Iq8Zg6) | [Hurts Like Hell](https://open.spotify.com/album/4DWR9YrTgCNBma8yC6L6Ie) | 3:41 | 2024-10-10 | 2025-02-21 |
 | [Hush](https://open.spotify.com/track/0OcCTvv3tpZBSZxP889Ijs) | [Muse](https://open.spotify.com/artist/12Chz98pHFMPJEknJQMWvI), [Ellie Goulding](https://open.spotify.com/artist/0X2BH1fck6amBIoJhDVmmJ) | [The Wow! Signal](https://open.spotify.com/album/6TObgE5QDLYzA3Exu5vGhS) | 3:55 | 2026-06-25 |  |
+| [Hypoxia](https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Lethal Devotion](https://open.spotify.com/album/3KpYEsXJKOxJUQI2IyoMzk) | 5:21 | 2026-09-17 |  |
 | [I Am Everything](https://open.spotify.com/track/3KtC8awsPhk1WPQLzbPeGU) | [Press Club](https://open.spotify.com/artist/7x6qYdGPScBRRz5lOPeHnG) | [I Am Everything](https://open.spotify.com/album/4wHOmqPIqa5shEdrpcQQ1D) | 2:52 | 2025-03-13 | 2025-09-12 |
 | [I CARE](https://open.spotify.com/track/7KVIuHxbV5lvBE5Vyiw8FC) | [Turnstile](https://open.spotify.com/artist/2qnpHrOzdmOo1S4ox3j17x) | [NEVER ENOUGH](https://open.spotify.com/album/52yD51X7yDinwlg6tbCtpP) | 3:53 | 2025-06-05 | 2026-02-06 |
 | [I Don't Wanna Go!](https://open.spotify.com/track/27FgGNuuHsFs84Gzhhs1x0) | [Lina\-Mariah](https://open.spotify.com/artist/3oCoTG5YGC6Z8cqH942oav) | [I Don't Wanna Go!](https://open.spotify.com/album/11vz5r57TsCFxG5QGy0585) | 2:39 | 2026-04-16 | 2026-05-08 |
@@ -677,7 +678,6 @@
 | [Today's Song](https://open.spotify.com/track/14PhYqLZ4QLKprqeCOMx36) | [Foo Fighters](https://open.spotify.com/artist/7jy3rLJdDQY21OgRLCZ9sD) | [Today's Song](https://open.spotify.com/album/6DuHTWcfnuCvgQhbFyh1ct) | 3:14 | 2025-07-03 | 2025-08-22 |
 | [Top 10 staTues tHat CriEd bloOd](https://open.spotify.com/track/7g4hIeYVk3h5qQXb9RLeXP) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [POST HUMAN: NeX GEn](https://open.spotify.com/album/1k7OXnGQPV4zF3seDwRroD) | 4:00 | 2024-05-23 | 2024-11-15 |
 | [tower of memories](https://open.spotify.com/track/0qhVpwKivK3u4OMLb7Z9Ah) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [tower of memories](https://open.spotify.com/album/5fZahPiBBEr15SgNs9h5s6) | 3:28 | 2025-10-02 | 2026-02-20 |
-| [Track 5](https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r) | [Cenobia](https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG) | [Lethal Devotion](https://open.spotify.com/album/3KpYEsXJKOxJUQI2IyoMzk) | 0:00 | 2026-09-17 |  |
 | [Tropics](https://open.spotify.com/track/50kY9njISacBSyPLyR8cwk) | [Rainbow Kitten Surprise](https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2) | [bones](https://open.spotify.com/album/51ju8MHRhddaMJcz05B1yu) | 4:53 | 2025-09-25 | 2025-11-21 |
 | [Two Faced](https://open.spotify.com/track/5Hh2VJj7bOWGsN0Jw6smwt) | [Linkin Park](https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz) | [Two Faced](https://open.spotify.com/album/4kksZlvAqineklmhltdTFe) | 3:03 | 2024-11-14 | 2025-01-17 |
 | [U Should Not Be Doing That](https://open.spotify.com/track/3gq0rDxpS9e6sbO72PBWbn) | [Amyl and The Sniffers](https://open.spotify.com/artist/3NqV2DJoAWsjl787bWaHW7) | [U Should Not Be Doing That / Facts](https://open.spotify.com/album/5UODUkH4PCuG6HNCjDo5VS) | 3:26 | 2024-05-23 | 2024-10-11 |

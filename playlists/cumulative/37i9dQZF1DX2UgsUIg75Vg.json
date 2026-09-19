@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2019-07-10",
-  "description": "Chill r&b. Cover: John Legend",
+  "description": "Chill r&b. Cover: Victoria Mon\u00e9t",
   "name": "Chilled R&B",
   "tracks": [
     {
@@ -2846,7 +2846,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 252144,
       "name": "Barii",
       "url": "https://open.spotify.com/track/2PvlquQapPjpRd2vfhEmVm"
@@ -4388,7 +4388,7 @@
       ],
       "date_added": "2026-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 237188,
       "name": "Breathe",
       "url": "https://open.spotify.com/track/28AnZq4Yo21iyneTWGjeUT"
@@ -6228,7 +6228,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 156933,
       "name": "COCONUT (feat. Eem Triplin)",
       "url": "https://open.spotify.com/track/4BagPVnrcGVujbuwevPp1z"
@@ -6682,6 +6682,28 @@
       "duration_ms": 147096,
       "name": "Crash & Burn",
       "url": "https://open.spotify.com/track/7JOtjhuqqUIvPNAhaeE5Qu"
+    },
+    {
+      "album": {
+        "name": "PHATTER",
+        "url": "https://open.spotify.com/album/5zBPstEEPrgw80d4aTMxGK"
+      },
+      "artists": [
+        {
+          "name": "GAWD",
+          "url": "https://open.spotify.com/artist/23BIYcWDJsaIqWoNSmljS6"
+        },
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220500,
+      "name": "Crawl",
+      "url": "https://open.spotify.com/track/76KN8Y6260PMoHVMhWhm3K"
     },
     {
       "album": {
@@ -11968,7 +11990,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 204000,
       "name": "Girl",
       "url": "https://open.spotify.com/track/08fPZ0IIoPCDIodw3J2LMi"
@@ -12102,7 +12124,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 129232,
       "name": "glass houses",
       "url": "https://open.spotify.com/track/5g8zn3LMQ5wr9I2Cb2VDub"
@@ -14926,7 +14948,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 214390,
       "name": "I Tried",
       "url": "https://open.spotify.com/track/3TAp8qfC53qxlzES7ndQ9I"
@@ -15540,7 +15562,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 137746,
       "name": "In the Chair",
       "url": "https://open.spotify.com/track/1GPJiUz5W8pJpmeqopYmPe"
@@ -17236,7 +17258,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 291513,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/27PPzQyuNkGn8YRNtuPx0X"
@@ -20740,7 +20762,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 178586,
       "name": "Myself (feat. Jorja Smith)",
       "url": "https://open.spotify.com/track/193kHBMzUKdtk8ZZC0YGXj"
@@ -21755,6 +21777,24 @@
     },
     {
       "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/4PEA7Ywknl77l6WM3DA9bP"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141600,
+      "name": "Nothing 2 Lose",
+      "url": "https://open.spotify.com/track/3AAhCZMnHWLD038MprEEsC"
+    },
+    {
+      "album": {
         "name": "Nothing Is Impossible With You",
         "url": "https://open.spotify.com/album/5RJnjSC3fLOiC3NpZ7z5vW"
       },
@@ -22256,7 +22296,7 @@
       ],
       "date_added": "2025-12-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 157440,
       "name": "On The Floor",
       "url": "https://open.spotify.com/track/1PKxa0QYeAUptdVTqqsf72"
@@ -23713,6 +23753,28 @@
     },
     {
       "album": {
+        "name": "Pieces (Remix)",
+        "url": "https://open.spotify.com/album/5wsKCPX3VqZKXzvVUaVbzZ"
+      },
+      "artists": [
+        {
+          "name": "Leven Kali",
+          "url": "https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B"
+        },
+        {
+          "name": "Lucky Daye",
+          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186421,
+      "name": "Pieces (feat. Lucky Daye)",
+      "url": "https://open.spotify.com/track/71xigYhF7fHi2GEiwwMeo6"
+    },
+    {
+      "album": {
         "name": "Pieces ft Duckwrth",
         "url": "https://open.spotify.com/album/7g7HsmUkK7pm94sqy9INrh"
       },
@@ -23922,6 +23984,24 @@
       "duration_ms": 216161,
       "name": "Please Don't Walk Away",
       "url": "https://open.spotify.com/track/5cLRmsipy54ddUeJt1h4uk"
+    },
+    {
+      "album": {
+        "name": "Plein Soleil",
+        "url": "https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h"
+      },
+      "artists": [
+        {
+          "name": "Avenoir",
+          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205746,
+      "name": "Plein Soleil",
+      "url": "https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81"
     },
     {
       "album": {
@@ -24517,6 +24597,24 @@
     },
     {
       "album": {
+        "name": "Rain",
+        "url": "https://open.spotify.com/album/58zT0QIvIoPR17pcS4S8uJ"
+      },
+      "artists": [
+        {
+          "name": "TheARTI$t",
+          "url": "https://open.spotify.com/artist/0lzz7vFjUA0jCmEy1PR53a"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189374,
+      "name": "Rain",
+      "url": "https://open.spotify.com/track/1RWZDdIe9TwL1vUlyti5aD"
+    },
+    {
+      "album": {
         "name": "Son Of Spergy",
         "url": "https://open.spotify.com/album/2xyVcW7Xab4ITjIQ98ewZJ"
       },
@@ -24586,7 +24684,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 218918,
       "name": "raindance",
       "url": "https://open.spotify.com/track/4iri2wi0oBPowVHazsOzIO"
@@ -25434,10 +25532,28 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 127202,
       "name": "Rollin",
       "url": "https://open.spotify.com/track/4zvrGKI2UesVMfooZuLbDL"
+    },
+    {
+      "album": {
+        "name": "Static",
+        "url": "https://open.spotify.com/album/4PEA7Ywknl77l6WM3DA9bP"
+      },
+      "artists": [
+        {
+          "name": "Jaymin",
+          "url": "https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127202,
+      "name": "Rollin",
+      "url": "https://open.spotify.com/track/68j42eFoNdIPZGfSm5PnJf"
     },
     {
       "album": {
@@ -26097,6 +26213,28 @@
     },
     {
       "album": {
+        "name": "HYDRAULIC: FUELED UP",
+        "url": "https://open.spotify.com/album/0fei7uzggKmfZjILrnN9QQ"
+      },
+      "artists": [
+        {
+          "name": "Josh Levi",
+          "url": "https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz"
+        },
+        {
+          "name": "Brandy",
+          "url": "https://open.spotify.com/artist/05oH07COxkXKIMt6mIPRee"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172968,
+      "name": "SAY IT REMIX (feat. BRANDY)",
+      "url": "https://open.spotify.com/track/3LzCEuS3QtGsjFt773y1iH"
+    },
+    {
+      "album": {
         "name": "Songs That I Hate to Sing",
         "url": "https://open.spotify.com/album/5M46rpIqXw0R1nfzXoQQMW"
       },
@@ -26376,7 +26514,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 204311,
       "name": "Second Hand",
       "url": "https://open.spotify.com/track/2QyBcS4FwJAnqyG4jDpfF5"
@@ -27765,6 +27903,28 @@
     },
     {
       "album": {
+        "name": "Westside Whimsy",
+        "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
+      },
+      "artists": [
+        {
+          "name": "Jhen\u00e9 Aiko",
+          "url": "https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk"
+        },
+        {
+          "name": "Kendrick Lamar",
+          "url": "https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237250,
+      "name": "So Good (feat. Kendrick Lamar)",
+      "url": "https://open.spotify.com/track/3Yd3J42s3GZaYty4Iy4ewT"
+    },
+    {
+      "album": {
         "name": "LOVE ON DIGITAL",
         "url": "https://open.spotify.com/album/7ChitlgU5oFgKmjLtViJ8K"
       },
@@ -28096,7 +28256,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 156892,
       "name": "Something Real",
       "url": "https://open.spotify.com/track/17odCitXaQsvl3uZWskCEH"
@@ -28632,7 +28792,7 @@
       ],
       "date_added": "2026-01-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 179439,
       "name": "Squeeze",
       "url": "https://open.spotify.com/track/0aHUhMAzRF8nRTqInJ3a5U"
@@ -34787,6 +34947,24 @@
     },
     {
       "album": {
+        "name": "Yearning",
+        "url": "https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq"
+      },
+      "artists": [
+        {
+          "name": "Larissa Lambert",
+          "url": "https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173868,
+      "name": "Yearning",
+      "url": "https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p"
+    },
+    {
+      "album": {
         "name": "YES",
         "url": "https://open.spotify.com/album/7mTgsCUAA1iQGNz7S4TrOr"
       },
@@ -34900,6 +35078,28 @@
       "duration_ms": 168936,
       "name": "You And I",
       "url": "https://open.spotify.com/track/25UDLYL5fRm1LSfbUTt6Nt"
+    },
+    {
+      "album": {
+        "name": "Unstoppable",
+        "url": "https://open.spotify.com/album/0QkTFRB3Osbp0u1zfHcMY9"
+      },
+      "artists": [
+        {
+          "name": "Kalisway",
+          "url": "https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK"
+        },
+        {
+          "name": "Reuben Vincent",
+          "url": "https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167466,
+      "name": "You And Me (Feat. Reuben Vincent)",
+      "url": "https://open.spotify.com/track/1iSDJPN6Xj6q32mH6OxHd1"
     },
     {
       "album": {

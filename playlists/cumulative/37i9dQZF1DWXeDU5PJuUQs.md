@@ -4,7 +4,7 @@
 
 > Unas buenas cumbias con el calor de la gente! <br/>Foto: Ke Personajes & Ulises Bueno.
 
-245 songs - 15 hr 2 min
+246 songs - 15 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Escucha Mi Voz \- En Vivo](https://open.spotify.com/track/5YN8noZFkBXn92ddHGZbDK) | [Antonio Rios](https://open.spotify.com/artist/7s652lD4v77szrPEfgMTBi), [Pablo Lescano](https://open.spotify.com/artist/6pztqmUqWADMZQKrrmGWGx) | [Escucha Mi Voz \(En Vivo\)](https://open.spotify.com/album/02VT4Zr7qPUEukzEs5ybbw) | 3:39 | 2024-12-13 | 2025-04-22 |
 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/0YZh1ldHeWENOALTKRpwEW) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg) | [En Vivo](https://open.spotify.com/album/3KwyevLnQNE7nXJtmIOLc9) | 1:46 | 2025-03-14 | 2025-10-25 |
 | [Estoy Buscando un Amor \- En Vivo](https://open.spotify.com/track/1B0GuAZXeOEa41BWuax8UH) | [Nestor En Bloque](https://open.spotify.com/artist/2to8xMgnoxHCXPF7eWJPvg), [Cartucho](https://open.spotify.com/artist/7d2PwZelcQLuNIiVcWTSGN) | [En el Gran Rex \(En Vivo\)](https://open.spotify.com/album/2m85X2JbnDrgMg529Uc3wu) | 3:15 | 2021-12-10 | 2024-11-02 |
-| [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 | 2022-06-03 |  |
+| [Estuve Ahí](https://open.spotify.com/track/0vj7n8tknwKtbvZQ1ocATb) | [El Reja](https://open.spotify.com/artist/7HSeegdmjLYRJpkOYIaZIW) | [Estuve Ahí](https://open.spotify.com/album/0o0TxliabAYbbhAxeFDYLM) | 3:14 | 2022-06-03 | 2026-09-19 |
 | [Falso Malo \- En Vivo](https://open.spotify.com/track/5xNDCYF5PFIsb5MIBaEd1h) | [Karen Britos](https://open.spotify.com/artist/6DTSChtNao6SMQy2EyTHyA) | [En Vivo en Pasión 2018](https://open.spotify.com/album/1jqDkm5aXq9Z9DPljvNhjE) | 3:04 | 2021-12-10 | 2022-07-28 |
 | [Fiera Inquieta / Tu Oportunidad / Alguien Que una Vez Ame \- En Vivo](https://open.spotify.com/track/7jyxq4y5HiJ6jfYsGGs5k5) | [Dalila](https://open.spotify.com/artist/3ruk44IzmsPppwo7VOknwZ) | [En Vivo en el Gran Rex](https://open.spotify.com/album/7gAMypAPwm97SxVNLVBooy) | 4:57 | 2021-12-10 | 2022-07-28 |
 | [Flor del Bañado \(En Vivo\)](https://open.spotify.com/track/377AzTYtB0NSahp11mfa3K) | [Lucas Sugo](https://open.spotify.com/artist/0WnP62TjkFfRrt52yE8zcX) | [Flor del Bañado \(En Vivo\)](https://open.spotify.com/album/48au1oyXaWr5hmbyKMIKzF) | 3:41 | 2024-04-12 |  |
@@ -130,6 +130,7 @@
 | [Me Acostumbré a Ti / Chica Brasilera \- Live Session](https://open.spotify.com/track/6Oi8YNK9aVuQxlrmtF0a3M) | [Commanche](https://open.spotify.com/artist/7o6GWu8PprO89hxuS9OiPu) | [Me Acostumbré a Ti / Chica Brasilera \(Live Session\)](https://open.spotify.com/album/23xgXJA2MLnOAXHy9JQiBc) | 5:40 | 2022-03-18 | 2022-06-09 |
 | [Me Duele Tu Nombre](https://open.spotify.com/track/4JLedgJ80MsjcJBiFdqnFb) | [Pinky SD](https://open.spotify.com/artist/7yIp2QRLkQ6loIrupimiri), [Un Poco de Ruido](https://open.spotify.com/artist/2Mt2vBBEckrvXtg0JldwZ0), [Q' Lokura](https://open.spotify.com/artist/7dlkBH23ERFXxuNoMHq94Y) | [Q' LOKURA / Zapada EN VIVO en UN POCO DE RUIDO!](https://open.spotify.com/album/2bjRXWxUeKc2X7PYoUBs3v) | 2:15 | 2025-09-19 |  |
 | [Me Enamore / A tus pies / Te falta sufrir \- En Vivo](https://open.spotify.com/track/4SdhLz9BrdxkNQuWGtu1Vd) | [Agrupación Marilyn](https://open.spotify.com/artist/1dJfjAj2mnpKrGm8ldBjNG) | [Festival \(En Vivo\)](https://open.spotify.com/album/6vSSjSJLfVY0PHdT1d9fGx) | 10:28 | 2024-03-29 |  |
+| [Me Gusta Todo De Ti \- En Vivo](https://open.spotify.com/track/3jza4qOdjYhG4wVjPxq0Ox) | [Ke Personajes](https://open.spotify.com/artist/06Q5VlSAku57lFzyME3HrM), [Noche de Brujas](https://open.spotify.com/artist/1bwsprbGyKx2vBbPAwVebl) | [Me Gusta Todo De Ti \(En Vivo\)](https://open.spotify.com/album/0GnUQlC9zqQgzAiitVmK99) | 4:24 | 2026-09-18 |  |
 | [Me Muero de Amor \- En Vivo](https://open.spotify.com/track/1vX3eIWSPr9EH3nSy1JhMN) | [Damas Gratis](https://open.spotify.com/artist/3YeBTR1Q1rUxKguz4jP6UV), [El Viejo Marquez](https://open.spotify.com/artist/4EAV5xJot3hs1RICAsxSHA) | [Me Muero de Amor \(En Vivo\)](https://open.spotify.com/album/2QvyND4UnCt20ZvJAykc88) | 3:28 | 2021-12-10 |  |
 | [Me Olvide de Ti \- En Vivo](https://open.spotify.com/track/4RHxezAdnkrKuVUSc4pXiQ) | [18 Kilates](https://open.spotify.com/artist/2rqtqFiCGyzaRSYdgMiMNC) | [Me Olvide de Ti \(En Vivo\)](https://open.spotify.com/album/3BFgkhcKON3CF5SDUMoCZE) | 2:08 | 2022-01-07 | 2026-09-18 |
 | [Me preocupa sin ti / Despues de ti](https://open.spotify.com/track/7z10iAOt13Ra69Cqu5kZnQ) | [Leo Mattioli](https://open.spotify.com/artist/2Mu8h5sFkOziL0Rfn7FXIA) | [Aniversario](https://open.spotify.com/album/40PFDic0PjqdNetzrHp1zD) | 2:27 | 2025-02-28 | 2025-03-15 |

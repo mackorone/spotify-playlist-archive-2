@@ -1,12 +1,12 @@
 {
   "description": "A new shade of Country. Cover: Angela Autumn\n",
-  "num_followers": 557585,
+  "num_followers": 557645,
   "original_name": "Indigo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMLehsnY8CaiN7+xr1viNV90Lh72",
+  "snapshot_id": "AAAAAPrESvPvFEx8zV8Jtkk68zjVVJSD",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:15",
@@ -77,6 +77,22 @@
       "url": "https://open.spotify.com/track/5iMZMwl1m9H62jCNkNS5at"
     },
     {
+      "added_at": "2026-09-18 04:01:45",
+      "album": {
+        "name": "Wilson Silverstar 402 Blues",
+        "url": "https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "duration_ms": 283723,
+      "name": "Wilson Silverstar 402 Blues",
+      "url": "https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2"
+    },
+    {
       "added_at": "2026-09-11 04:01:15",
       "album": {
         "name": "The Leaving Kind",
@@ -107,6 +123,26 @@
       "duration_ms": 269833,
       "name": "Pair of Dice",
       "url": "https://open.spotify.com/track/0SIaQRxv2uyjjeWP8PV7uj"
+    },
+    {
+      "added_at": "2026-09-18 04:01:45",
+      "album": {
+        "name": "Me, After",
+        "url": "https://open.spotify.com/album/3UvXEKAfItY7GVhOzVIHHS"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        },
+        {
+          "name": "Delaney Ramsdell",
+          "url": "https://open.spotify.com/artist/6Jx5tElAXRcTYfRuO9dm5o"
+        }
+      ],
+      "duration_ms": 243941,
+      "name": "Me, After",
+      "url": "https://open.spotify.com/track/6lBI4TII4BY1SxIll3EiqT"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -145,6 +181,22 @@
       "url": "https://open.spotify.com/track/6Zbl8ILPEkNr4WqyXaq0c4"
     },
     {
+      "added_at": "2026-09-18 04:01:45",
+      "album": {
+        "name": "Love Ain't For The Faint Of Heart",
+        "url": "https://open.spotify.com/album/7G0uPAqkOc0JMiLCJcG5BE"
+      },
+      "artists": [
+        {
+          "name": "Laci Kaye Booth",
+          "url": "https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4"
+        }
+      ],
+      "duration_ms": 243129,
+      "name": "Hell Or Highwater",
+      "url": "https://open.spotify.com/track/0vXToEUE9g0AqSm1BSVyQV"
+    },
+    {
       "added_at": "2026-09-11 04:01:15",
       "album": {
         "name": "Clothesline",
@@ -161,6 +213,22 @@
       "url": "https://open.spotify.com/track/1fj3OcoKr7IVemETrPCFdO"
     },
     {
+      "added_at": "2026-09-18 04:01:45",
+      "album": {
+        "name": "Breaking Habits",
+        "url": "https://open.spotify.com/album/3FrlR7nluTkW40K65E8OGk"
+      },
+      "artists": [
+        {
+          "name": "Emma Smalley",
+          "url": "https://open.spotify.com/artist/0aS7MPo8k8PNxOAJmRVcDw"
+        }
+      ],
+      "duration_ms": 219028,
+      "name": "Blind Eye",
+      "url": "https://open.spotify.com/track/4LMlCTmOmzttBy0eBUNjZw"
+    },
+    {
       "added_at": "2026-09-11 04:01:15",
       "album": {
         "name": "So Much For Goodbyes",
@@ -175,6 +243,38 @@
       "duration_ms": 251073,
       "name": "Carry Us Home",
       "url": "https://open.spotify.com/track/6bOvkth6LOFrJbywr4JQJt"
+    },
+    {
+      "added_at": "2026-09-18 04:01:45",
+      "album": {
+        "name": "Humble Mama",
+        "url": "https://open.spotify.com/album/1MywGiTtlzsesh6hd23JNk"
+      },
+      "artists": [
+        {
+          "name": "The Wildwoods",
+          "url": "https://open.spotify.com/artist/2wPWBhOid8BNr5lgEf8GKe"
+        }
+      ],
+      "duration_ms": 238364,
+      "name": "Humble Mama",
+      "url": "https://open.spotify.com/track/7ixc7bdE6pmZoeUZpAagN8"
+    },
+    {
+      "added_at": "2026-09-18 04:01:45",
+      "album": {
+        "name": "Folded Moon",
+        "url": "https://open.spotify.com/album/5LOvzbUmSKuRwNutKCI1g7"
+      },
+      "artists": [
+        {
+          "name": "Presley Haile",
+          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
+        }
+      ],
+      "duration_ms": 204287,
+      "name": "Folded Moon",
+      "url": "https://open.spotify.com/track/1hxrVOqXmnrlbPzkUD9mBt"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -207,22 +307,6 @@
       "duration_ms": 227727,
       "name": "America's Greatest Burnout",
       "url": "https://open.spotify.com/track/47a91ZLVbrRX0WwYVGNcrx"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
-        "name": "Waiting",
-        "url": "https://open.spotify.com/album/4gOLqWKnL15bfDqymX59re"
-      },
-      "artists": [
-        {
-          "name": "Paige Plaisance",
-          "url": "https://open.spotify.com/artist/6QXmgDEJUxAn2Sg9t5blC9"
-        }
-      ],
-      "duration_ms": 249251,
-      "name": "Waiting",
-      "url": "https://open.spotify.com/track/0rorWZIu2F2EmYrLEN9P5F"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -291,6 +375,22 @@
     {
       "added_at": "2026-09-11 04:01:15",
       "album": {
+        "name": "Waiting",
+        "url": "https://open.spotify.com/album/4gOLqWKnL15bfDqymX59re"
+      },
+      "artists": [
+        {
+          "name": "Paige Plaisance",
+          "url": "https://open.spotify.com/artist/6QXmgDEJUxAn2Sg9t5blC9"
+        }
+      ],
+      "duration_ms": 249251,
+      "name": "Waiting",
+      "url": "https://open.spotify.com/track/0rorWZIu2F2EmYrLEN9P5F"
+    },
+    {
+      "added_at": "2026-09-11 04:01:15",
+      "album": {
         "name": "Lost Child",
         "url": "https://open.spotify.com/album/6JpOa88t7gWJ2rpjW8JQol"
       },
@@ -303,6 +403,26 @@
       "duration_ms": 211346,
       "name": "Lost Child",
       "url": "https://open.spotify.com/track/12nINXObjFpoofWmixLUrD"
+    },
+    {
+      "added_at": "2026-09-11 04:01:15",
+      "album": {
+        "name": "Middle of Nowhere",
+        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
+      },
+      "artists": [
+        {
+          "name": "Kacey Musgraves",
+          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
+        },
+        {
+          "name": "Billy Strings",
+          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
+        }
+      ],
+      "duration_ms": 219357,
+      "name": "Everybody Wants To Be A Cowboy (feat. Billy Strings)",
+      "url": "https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -403,26 +523,6 @@
       "duration_ms": 223496,
       "name": "Appalachian Raised",
       "url": "https://open.spotify.com/track/4fIHkwFU2L36TqKrDtUWey"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
-        "name": "Middle of Nowhere",
-        "url": "https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg"
-      },
-      "artists": [
-        {
-          "name": "Kacey Musgraves",
-          "url": "https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424"
-        },
-        {
-          "name": "Billy Strings",
-          "url": "https://open.spotify.com/artist/1ZN1c1qWEGZNX1pGeKCPpf"
-        }
-      ],
-      "duration_ms": 219357,
-      "name": "Everybody Wants To Be A Cowboy (feat. Billy Strings)",
-      "url": "https://open.spotify.com/track/6ULjjAbwB2BoTZthQKv1Q2"
     },
     {
       "added_at": "2026-09-11 04:01:15",
@@ -1251,22 +1351,6 @@
       "duration_ms": 177845,
       "name": "Empty Tank",
       "url": "https://open.spotify.com/track/0oo4sQDIMm49Hd5e0SGUCI"
-    },
-    {
-      "added_at": "2026-09-11 04:01:15",
-      "album": {
-        "name": "Vengeance and Grace",
-        "url": "https://open.spotify.com/album/74YQ2s3XrZGwl280BuB7Ku"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
-        }
-      ],
-      "duration_ms": 209973,
-      "name": "The Bottle's Gone",
-      "url": "https://open.spotify.com/track/0ImDYE0mQU0x1twdSQOD5U"
     },
     {
       "added_at": "2026-09-11 04:01:15",

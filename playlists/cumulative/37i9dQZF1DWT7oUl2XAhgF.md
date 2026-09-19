@@ -4,11 +4,11 @@
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-623 songs - 1 day 13 hr 21 min
+624 songs - 1 day 13 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
-| [258366](https://open.spotify.com/track/3JAE90gTtwRbM1jFNdGayh) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [258366](https://open.spotify.com/album/5So0wjjztZHOeV0nKnpcDA) | 3:19 | 2026-09-04 |  |
+| [258366](https://open.spotify.com/track/3JAE90gTtwRbM1jFNdGayh) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [258366](https://open.spotify.com/album/5So0wjjztZHOeV0nKnpcDA) | 3:19 | 2026-09-04 | 2026-09-19 |
 | [365 Flavors](https://open.spotify.com/track/4cVMfP5l4k2KNUhYlFpmQH) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [365 Flavors](https://open.spotify.com/album/0fCd5MFX0y24jiCWuWoU5h) | 3:58 | 2026-03-27 | 2026-09-12 |
 | [3AM in Chicago](https://open.spotify.com/track/4PqjlKTXoRBJwHCwy0OHtQ) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Little Black Flies](https://open.spotify.com/album/3IELDMdo0nbuzRSduoXYwJ) | 3:36 | 2021-07-09 | 2022-07-02 |
 | [911](https://open.spotify.com/track/5Ra3wJLBQKxJiYEpWe3Pjf) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Tough Love](https://open.spotify.com/album/5DAnXvsWlrq2zTPrjb8rjB) | 2:46 | 2022-01-07 | 2023-08-05 |
@@ -286,6 +286,7 @@
 | [Kinda Cowgirl](https://open.spotify.com/track/4Hk2jzwMXxMkVBcODfcILC) | [Stephen Day](https://open.spotify.com/artist/4cnFw4bkIWVGKUBsr93OS5) | [Kinda Cowgirl](https://open.spotify.com/album/6BoTRlw3qryfJxVaObaFjp) | 4:17 | 2023-10-06 | 2024-01-13 |
 | [Lady Love](https://open.spotify.com/track/7d8XCLdv4VYAb9YejIcWsH) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU) | [Lady Love](https://open.spotify.com/album/4janT6Oq3wApU3v0vs0qlc) | 3:02 | 2022-08-19 | 2022-09-19 |
 | [Last One Standing \- Radio Edit](https://open.spotify.com/track/2mRNzUxMguZuN4BdyjCGnz) | [Monophonics](https://open.spotify.com/artist/6LXZac7iBIZgnNrywTkQRw) | [Last One Standing \(Radio Edit\)](https://open.spotify.com/album/1bvPZK9ZXI8y8qDX4XO6rY) | 3:23 | 2021-12-03 | 2023-01-28 |
+| [Late Bloomer](https://open.spotify.com/track/1CbjA7ApNZ6H70K4A53tBK) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [Late Bloomer](https://open.spotify.com/album/4mwPqkVG6UByPnxdUVmRtx) | 3:16 | 2026-09-18 |  |
 | [Leave it all Behind](https://open.spotify.com/track/6Zcpb2xesQgsSb0alHHIBm) | [Teddy Grossman](https://open.spotify.com/artist/3E0jeQoIrqwpjGuhSIe7H0) | [Halcyon](https://open.spotify.com/album/78taGztt2CApRup8BKnpMe) | 4:59 | 2026-06-26 |  |
 | [Leave You Alone](https://open.spotify.com/track/266b55L7iAmnNdphZDeZ8p) | [Kelly Finnigan](https://open.spotify.com/artist/0gdEDrF1Fve7FIBYcmX7W4) | [Leave You Alone](https://open.spotify.com/album/2LwQhwvAWd15eFJfzNDiAU) | 3:10 | 2023-07-14 | 2024-10-19 |
 | [Less Is More](https://open.spotify.com/track/15E1HxTq8M05lJeFACHw7m) | [The New Mastersounds](https://open.spotify.com/artist/1DJVvIcjKhdedkuGRzW7PG), [Lamar Williams Jr.](https://open.spotify.com/artist/1ArGVCjCLeHMHzUK4MUkD4) | [Less Is More](https://open.spotify.com/album/1vr964CwAICSadDDA9EuaJ) | 4:16 | 2021-07-09 | 2022-05-23 |

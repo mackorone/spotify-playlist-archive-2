@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 
 > The best new songs of the month, handpicked by Spotify editors\. Cover: KAROL G, rusowsky, Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 115,843 likes - 70 songs - 3 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,791 likes - 70 songs - 3 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,14 +33,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 23 | [Love Me Through](https://open.spotify.com/track/5pN3nwpjwFR08G9ZwaCVk9) | [Coco Jones](https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd) | [Love Me Through](https://open.spotify.com/album/3WJbf13X3slcKq32jRt4FO) | 3:23 |
 | 24 | [Already Gone](https://open.spotify.com/track/6gwHZtCuKWycRdgyBGsIlj) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Already Gone](https://open.spotify.com/album/4BYINxlhcfs2WcQ4hobhou) | 2:49 |
 | 25 | [After The Rain](https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq) | [Overmono](https://open.spotify.com/artist/01PnN11ovfen6xUOHfNpn3) | [Pure Devotion](https://open.spotify.com/album/0DS9OxHBt693YOs3TDira2) | 3:15 |
-| 26 | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/track/2XlaX5NF4ux2QgADVeYfU5) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/album/4TJnMKR81EbrOExdDsQo6I) | 2:33 |
-| 27 | [Lean On](https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Lean On](https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu) | 3:25 |
-| 28 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 |
-| 29 | [Let Me Cry](https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 3:40 |
+| 26 | [Lean On](https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND) | [Miles Caton](https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL) | [Lean On](https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu) | 3:25 |
+| 27 | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/track/2XlaX5NF4ux2QgADVeYfU5) | [slayr](https://open.spotify.com/artist/0SL3lfuoRP67mrvkdnwIMA), [SoFaygo](https://open.spotify.com/artist/2SJhf6rTOU53g8yBdAjPby) | [Try and Fail \(feat\. SoFaygo\)](https://open.spotify.com/album/4TJnMKR81EbrOExdDsQo6I) | 2:33 |
+| 28 | [Let Me Cry](https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 3:40 |
+| 29 | [Want For Nothing](https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI) | [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [The Hard Way \(Complete Edition\)](https://open.spotify.com/album/5uQnCFvZnigWu4AVJS15t8) | 2:47 |
 | 30 | [Does It Ever Cross Your Mind?](https://open.spotify.com/track/3mkRtMr2NOfjlk3c5BlX8a) | [Brandon Flowers](https://open.spotify.com/artist/18Zv2g2vUcEGqJf6WnjfXN) | [THRASHER](https://open.spotify.com/album/4AWBFHgvBgI9ah66wq1TEo) | 3:11 |
 | 31 | [Vogue](https://open.spotify.com/track/7gLPKqoXJue0AJeNVRaDXj) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Vogue](https://open.spotify.com/album/0XVavxGRrEjxPYDShtvTD0) | 3:59 |
-| 32 | [Ponte a Pensar](https://open.spotify.com/track/3ty3o40yxItfYoAcrT69GT) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 3:24 |
-| 33 | [the cops are coming](https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [the cops are coming](https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm) | 3:13 |
+| 32 | [the cops are coming](https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt) | [Junior Mesa](https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX) | [the cops are coming](https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm) | 3:13 |
+| 33 | [Ponte a Pensar](https://open.spotify.com/track/3ty3o40yxItfYoAcrT69GT) | [De La Rose](https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo), [Rels B](https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8) | [Mi Carpe Diem](https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl) | 3:24 |
 | 34 | [Wild Woman](https://open.spotify.com/track/5XteAoR1RExHpPNX6qYW8x) | [Andrea Bejar](https://open.spotify.com/artist/5l3g6Xp8KQE4prw9hk6rQ8) | [Wild Woman](https://open.spotify.com/album/1qwhMXeDjwOFlqt3mYGKX6) | 2:59 |
 | 35 | [Hurt](https://open.spotify.com/track/4We6KzS94ZJk0a4zSH4b9o) | [Icona Pop](https://open.spotify.com/artist/1VBflYyxBhnDc9uVib98rw) | [Ritual](https://open.spotify.com/album/48kNSC9VNag007n2cdI374) | 3:24 |
 | 36 | [rwm](https://open.spotify.com/track/5KuDuzCVDZqtFz83HMZsLP) | [the booyah! kids](https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP) | [rwm](https://open.spotify.com/album/7fEre53L3MiyxsBAst0PHY) | 2:30 |
@@ -79,4 +79,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXahWDu9o481i.md) - [plain]
 | 69 | [Senses](https://open.spotify.com/track/7tLM1eOQl0yWkMIsn7rl3b) | [Reyne L.](https://open.spotify.com/artist/3HpGGXW3yN7H6t67UweHLe), [REYNE](https://open.spotify.com/artist/5Zb2vIUyfZbX15otYc072P) | [Senses](https://open.spotify.com/album/1PAwFeMDuutYR9oBpaqumh) | 2:21 |
 | 70 | [TALK ABOUT IT](https://open.spotify.com/track/0YjjOiBjdvp0oOqICrXbxM) | [Jeremiah Paltan](https://open.spotify.com/artist/7gaLLumDYrznRYzpPtvrru) | [I’M OKAY NOW, BUT I WASN’T FOR A WHILE](https://open.spotify.com/album/0EEbdJAgd1LfTuQBwGONJV) | 2:03 |
 
-Snapshot ID: `AAAAALk5tVDsgqBc+3kFyQ52NMJoQ9s2`
+Snapshot ID: `AAAAAKOYdnqkdPE7YDfIXW7F5wRRG+5H`

@@ -189,6 +189,24 @@
     },
     {
       "album": {
+        "name": "A Different Kind of Happiness",
+        "url": "https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246899,
+      "name": "A Different Kind of Happiness",
+      "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
+    },
+    {
+      "album": {
         "name": "A Fool",
         "url": "https://open.spotify.com/album/6Avdb3Kzzi5byUmnACETXh"
       },
@@ -6955,6 +6973,24 @@
     },
     {
       "album": {
+        "name": "Crunchy, Sad and Strangely Happy",
+        "url": "https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx"
+      },
+      "artists": [
+        {
+          "name": "n\u00e9om\u00ed",
+          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 224383,
+      "name": "I Wish I Never Met You",
+      "url": "https://open.spotify.com/track/0DZrttPj3g3XEyiTTRnLZd"
+    },
+    {
+      "album": {
         "name": "I Won't Let Go",
         "url": "https://open.spotify.com/album/3JrmfauG25tz4C5hmJED64"
       },
@@ -7508,6 +7544,24 @@
       "duration_ms": 180920,
       "name": "Inside My Mind",
       "url": "https://open.spotify.com/track/0uIZfP2ntunxoQBtegFa0Y"
+    },
+    {
+      "album": {
+        "name": "Insignificant Other",
+        "url": "https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib"
+      },
+      "artists": [
+        {
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353666,
+      "name": "Insignificant Other",
+      "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
     },
     {
       "album": {
@@ -8252,7 +8306,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 219451,
       "name": "Let You Go",
       "url": "https://open.spotify.com/track/7mHTdjUQLBfnVVCio5xMyy"
@@ -15599,24 +15653,6 @@
     },
     {
       "album": {
-        "name": "Crunchy, Sad and Strangely Happy",
-        "url": "https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx"
-      },
-      "artists": [
-        {
-          "name": "n\u00e9om\u00ed",
-          "url": "https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 4",
-      "url": "https://open.spotify.com/track/0DZrttPj3g3XEyiTTRnLZd"
-    },
-    {
-      "album": {
         "name": "Trade it for the Night",
         "url": "https://open.spotify.com/album/0wdUPsYwH8Z1lGQf0Jqej6"
       },
@@ -16832,7 +16868,7 @@
       ],
       "date_added": "2026-03-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 300623,
       "name": "Where There's Smoke, There's Fire",
       "url": "https://open.spotify.com/track/2fmKTXjj8zPinrBwswwTjI"

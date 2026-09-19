@@ -1,12 +1,12 @@
 {
   "description": "This is Toby Keith. The essential tracks, all in one playlist.",
-  "num_followers": 126426,
+  "num_followers": 126436,
   "original_name": "This Is Toby Keith",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAACZJbbfdATlnZzsLpUDDShW",
+  "snapshot_id": "aqstgAAAAAB9mEVpPOab8UH60KFcVKwY",
   "tracks": [
     {
       "added_at": null,
@@ -479,6 +479,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bullets in the Gun",
+        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 256613,
+      "name": "Bullets in the Gun",
+      "url": "https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Blue Moon",
+        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 233106,
+      "name": "Me Too",
+      "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shock 'N Y'all",
+        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 238933,
+      "name": "The Taliban Song - Live",
+      "url": "https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Okie From Muskogee (Live)",
         "url": "https://open.spotify.com/album/2rwFK8bxHwqjIJO3he8Mc6"
       },
@@ -571,38 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Blue Moon",
-        "url": "https://open.spotify.com/album/60MJhCGRycALVB5qXHHYf1"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 233106,
-      "name": "Me Too",
-      "url": "https://open.spotify.com/track/5Jy6TexjmznhnsWqRLkiSi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bullets in the Gun",
-        "url": "https://open.spotify.com/album/7JGUB3wQUb5M9pdCw2HVCH"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 256613,
-      "name": "Bullets in the Gun",
-      "url": "https://open.spotify.com/track/26bRcXA9qmivWYTPocMlfT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "White Trash With Money",
         "url": "https://open.spotify.com/album/1gbck5elXdHY6CAL11Q8Wl"
       },
@@ -615,38 +631,6 @@
       "duration_ms": 178840,
       "name": "Get Drunk And Be Somebody",
       "url": "https://open.spotify.com/track/408wKFP7qp6ALbjcex2t9k"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Shock 'N Y'all",
-        "url": "https://open.spotify.com/album/7xPAsIGxs8It3pVWnZEHan"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 238933,
-      "name": "The Taliban Song - Live",
-      "url": "https://open.spotify.com/track/5FcwIJt39NpSTVQkaguJcq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Honkytonk University",
-        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 214920,
-      "name": "Honkytonk U",
-      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
     },
     {
       "added_at": null,
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Honkytonk University",
+        "url": "https://open.spotify.com/album/4SOpJPkpAO8FT9n4sbmnoT"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 214920,
+      "name": "Honkytonk U",
+      "url": "https://open.spotify.com/track/0pCc4FyfMBheq3ZgXj3oz6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Unleashed",
         "url": "https://open.spotify.com/album/7ExectJocqn8sMKq4Tn4LY"
       },
@@ -679,26 +679,6 @@
       "duration_ms": 179440,
       "name": "Good To Go To Mexico",
       "url": "https://open.spotify.com/track/7qpDmis5NJwqlrDDcLmASe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "35 mph Town",
-        "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        },
-        {
-          "name": "Jimmy Buffett",
-          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
-        }
-      ],
-      "duration_ms": 188413,
-      "name": "Sailboat for Sale",
-      "url": "https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz"
     },
     {
       "added_at": null,
@@ -751,6 +731,26 @@
       "duration_ms": 183293,
       "name": "Hey Good Lookin'",
       "url": "https://open.spotify.com/track/2TSc7ee1OQPb4tuXsi2X7W"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "35 mph Town",
+        "url": "https://open.spotify.com/album/2YD3x5rpYeNg1fYAcHTv8d"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        },
+        {
+          "name": "Jimmy Buffett",
+          "url": "https://open.spotify.com/artist/28AyklUmMECPwdfo8NEsV0"
+        }
+      ],
+      "duration_ms": 188413,
+      "name": "Sailboat for Sale",
+      "url": "https://open.spotify.com/track/2wT3VvoiJm0LFZyQrfkQYz"
     },
     {
       "added_at": null,

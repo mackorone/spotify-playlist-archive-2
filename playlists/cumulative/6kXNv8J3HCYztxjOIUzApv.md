@@ -4,7 +4,7 @@
 
 > Rock out while you work out! Follow for updates!
 
-339 songs - 21 hr 2 min
+340 songs - 21 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [Take What You Want](https://open.spotify.com/track/00u5kDzvaEAOFBLhUQWFx5) | [Yellowcard](https://open.spotify.com/artist/3zxKH0qp3nBCuPZCZT5Vaf) | [Take What You Want](https://open.spotify.com/album/6czWnjVM7aX9VUoV4fmDnw) | 2:26 | 2025-07-11 |  |
 | [Teeth](https://open.spotify.com/track/6AfO1z409Tf4xivfYUJnXD) | [Eva Under Fire](https://open.spotify.com/artist/4CqPd0j1VupcPYQRTMBn1c) | [Villainous](https://open.spotify.com/album/4gae2cFWCoGhohWbZmXNvR) | 2:36 | 2026-07-10 |  |
 | [Templars](https://open.spotify.com/track/1OtLNenkGkCDsVLGCgMtpj) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG) | [Templars](https://open.spotify.com/album/3WnVO32cbBRfKynknZ5XcI) | 4:54 | 2025-05-21 |  |
+| [Templars \(feat\. Pop Evil\)](https://open.spotify.com/track/58gNJGAe1LBN8735E0OWwd) | [Sabaton](https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG), [Pop Evil](https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2) | [Templars \(feat\. Pop Evil\)](https://open.spotify.com/album/7FdChgOT89etcBVl6sMaNV) | 3:23 | 2026-09-18 |  |
 | [The American Nightmare](https://open.spotify.com/track/04K2bMi2vyOBwxr5EjDq5O) | [Ice Nine Kills](https://open.spotify.com/artist/52qKfVcIV4GS8A8Vay2xtt) | [The Silver Scream](https://open.spotify.com/album/3DVjLNjzyZBVc8eZcJoulz) | 4:09 | 2022-01-24 |  |
 | [The Boom Went The Boom \(feat\. Phil Collen\)](https://open.spotify.com/track/5kC045Ohl32Sn4a2vOjsUt) | [Crossbone Skully](https://open.spotify.com/artist/6CxBy6Z5KAgzapbIBkyETd), [Phil Collen](https://open.spotify.com/artist/5ZedcFUHfB6ejLwD668YpN) | [The Boom Went The Boom \(feat\. Phil Collen\)](https://open.spotify.com/album/5V36Ru7RN4gc8bAWEnKODF) | 3:39 | 2023-10-06 |  |
 | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/track/6IFN3NtLjOHFpTmgZfGz2N) | [All Good Things](https://open.spotify.com/artist/2uMWUtg8XLpJxNSqbGOkl1), [Escape the Fate](https://open.spotify.com/artist/5ojhEavq6altxW8fWIlLum) | [The Comeback \(feat\. Craig Mabbitt of Escape The Fate\)](https://open.spotify.com/album/2Rwy7b6mf4bstYZ7eUe2Hq) | 4:15 | 2021-08-20 |  |

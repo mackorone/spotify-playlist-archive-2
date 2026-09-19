@@ -4,7 +4,7 @@
 
 > Nuovi brani di 22simba, Ultimo, Cesare Cremonini, Miley Cyrus, Travis Scott, Annalisa con Madame, e tanti altri.
 
-10,416 songs - 21 day 23 hr 31 min
+10,417 songs - 21 day 23 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3518,6 +3518,7 @@
 | [GESÙ BAMBINO](https://open.spotify.com/track/0SPITJflzWbXuGYy3XzpV2) | [Brucherò nei pascoli](https://open.spotify.com/artist/39tpK31mZUPajAHF86AHsg), [Crookers](https://open.spotify.com/artist/3o1cwVQfiDWafhYA02k13C) | [NOLOTOV](https://open.spotify.com/album/52BDJ4sqrkv91RUyvvaHds) | 2:33 | 2024-05-31 | 2024-06-07 |
 | [Get Away](https://open.spotify.com/track/4OBZntR9IGwMzz5VnDpjpa) | [Kungs](https://open.spotify.com/artist/7keGfmQR4X5w0two1xKZ7d), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Out Loud](https://open.spotify.com/album/67nw9S7CjMBgeqMxEcK4DY) | 4:28 | 2026-03-12 | 2026-03-20 |
 | [Get Buck](https://open.spotify.com/track/63F3FjzThdTnwwY7JLwTt0) | [Marlon Hoffstadt](https://open.spotify.com/artist/0HHa7ZJZxUQlg5l2mB0N0f) | [Get Buck](https://open.spotify.com/album/58iK0WSHT8zzXQxkRiC5Bl) | 2:30 | 2026-07-17 | 2026-07-24 |
+| [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 | 2026-09-17 |  |
 | [get go](https://open.spotify.com/track/2CFiBJsk7XF0uKZWS4vag5) | [a nice noise](https://open.spotify.com/artist/0DLoI8l8Q2Pm4iPnk6H6RJ) | [get go](https://open.spotify.com/album/4oF0hOCllVh8ntdtEJgFVK) | 2:43 | 2026-09-03 | 2026-09-11 |
 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-12 | 2026-03-20 |
 | [Get In Girl](https://open.spotify.com/track/7CULOX5o1ekP2LmSfmgOFJ) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Get In Girl](https://open.spotify.com/album/6CieG4RrsQjO1x03umSVrk) | 3:26 | 2026-02-12 | 2026-02-20 |

@@ -86,7 +86,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-09",
+      "date_removed": null,
       "duration_ms": 185142,
       "name": "3 En 1",
       "url": "https://open.spotify.com/track/5HIzCGqvXKVnyziWxL8nL1"
@@ -112,6 +112,28 @@
       "duration_ms": 151441,
       "name": "30 GRADOS",
       "url": "https://open.spotify.com/track/0GVPemmAwkXhFlYimhdDr3"
+    },
+    {
+      "album": {
+        "name": "30 Grados",
+        "url": "https://open.spotify.com/album/60gvJYHZGLyxwiZSlETv56"
+      },
+      "artists": [
+        {
+          "name": "El Turko",
+          "url": "https://open.spotify.com/artist/7aqaIr9F3tHP7BMsmfAL8Z"
+        },
+        {
+          "name": "Mandale Flow",
+          "url": "https://open.spotify.com/artist/2mrlK4Ow9Fb9U50qbkRMZd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151441,
+      "name": "30 Grados",
+      "url": "https://open.spotify.com/track/6IRRoV7AbjHT8JWP4uFrD5"
     },
     {
       "album": {
@@ -622,7 +644,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-09-21",
+      "date_removed": null,
       "duration_ms": 174580,
       "name": "Auto Al Piso",
       "url": "https://open.spotify.com/track/2YwFbO158HeAMCSjSaouRu"
@@ -652,7 +674,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 226821,
       "name": "Azote - Remix",
       "url": "https://open.spotify.com/track/6862W0OJNwhytsXSpCQZ5k"
@@ -1126,7 +1148,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 168994,
       "name": "CALLEJERO FINO | Mission 10",
       "url": "https://open.spotify.com/track/12BLBKATlbWXPhuSNL8eAr"
@@ -1447,6 +1469,40 @@
     },
     {
       "album": {
+        "name": "Con Tu Amiga",
+        "url": "https://open.spotify.com/album/0TRENNocpVdJGGwFObxJLb"
+      },
+      "artists": [
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Alejo Isakk",
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
+        },
+        {
+          "name": "Locura Mix",
+          "url": "https://open.spotify.com/artist/42cc22xiuvWzjmFHSKwwwv"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        },
+        {
+          "name": "Eme Sarav",
+          "url": "https://open.spotify.com/artist/0QH2EQUeL4yhzlFC9XXjC2"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181800,
+      "name": "Con Tu Amiga",
+      "url": "https://open.spotify.com/track/7EvbmV5YDLpQoUNo12m54G"
+    },
+    {
+      "album": {
         "name": "Conmigo se besa",
         "url": "https://open.spotify.com/album/2ebfxiapf8VV37XETgCsEx"
       },
@@ -1700,7 +1756,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 139310,
       "name": "Diablita",
       "url": "https://open.spotify.com/track/4YQzgNSeNxrxB5nxVxzMFm"
@@ -1826,7 +1882,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 122455,
       "name": "DISCULPE OFICIAL",
       "url": "https://open.spotify.com/track/4Ngtr8wWqF8wNanDkG5OhG"
@@ -1950,7 +2006,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 182400,
       "name": "El Motorcito - Remix",
       "url": "https://open.spotify.com/track/2vEY9OdhUx7oFOjcbmIrwt"
@@ -1972,7 +2028,7 @@
       ],
       "date_added": "2023-12-22",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 148000,
       "name": "EL NEGRO TECLA | Omar Algo Anda Mal #9",
       "url": "https://open.spotify.com/track/08809bzGs69SfjOFdeyssu"
@@ -2779,16 +2835,16 @@
         },
         {
           "name": "Alejo Isakk",
-          "url": "https://open.spotify.com/artist/1e1IR2nfSPsCbCxZaYTulK"
+          "url": "https://open.spotify.com/artist/2cdoH2XFAhj0LlSo4P2fJJ"
         },
         {
           "name": "Gusty dj",
-          "url": "https://open.spotify.com/artist/6A6qNFh1bOIg8mYkz1IgNx"
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
         }
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 171428,
       "name": "La Chispa Es Una",
       "url": "https://open.spotify.com/track/7lLc3W3Yb2vGOrkuK0N0XH"
@@ -2880,7 +2936,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-07-19",
+      "date_removed": null,
       "duration_ms": 137150,
       "name": "La Jarra",
       "url": "https://open.spotify.com/track/5NvbkwL6r96Auhaa621dXW"
@@ -3108,7 +3164,7 @@
       ],
       "date_added": "2024-07-26",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 143592,
       "name": "LLEGU\u00c9 YO",
       "url": "https://open.spotify.com/track/07XP74OBxaDGNGqllhORde"
@@ -3342,6 +3398,32 @@
     {
       "album": {
         "name": "Me Escap\u00e9",
+        "url": "https://open.spotify.com/album/1qjTCgzjfvn68EIVa7l7qD"
+      },
+      "artists": [
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Lauty Gram",
+          "url": "https://open.spotify.com/artist/6WAnQfBWB7ddhujPsFQ0pG"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176014,
+      "name": "Me Escap\u00e9",
+      "url": "https://open.spotify.com/track/3PMDGzzSA9T2KYEENEMEcD"
+    },
+    {
+      "album": {
+        "name": "Me Escap\u00e9",
         "url": "https://open.spotify.com/album/2ypjhfhKCKTtyvB5IW5ZcU"
       },
       "artists": [
@@ -3558,7 +3640,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 136144,
       "name": "MESITA | Mission 05",
       "url": "https://open.spotify.com/track/3UwXgRALJ6L2pQX0j0ZuzR"
@@ -4350,7 +4432,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-07-19",
+      "date_removed": null,
       "duration_ms": 119387,
       "name": "Para el Tiktok",
       "url": "https://open.spotify.com/track/4zgEanSngHa5vqehDVlY8x"
@@ -4850,7 +4932,7 @@
       ],
       "date_added": "2024-01-10",
       "date_added_asterisk": false,
-      "date_removed": "2025-02-15",
+      "date_removed": null,
       "duration_ms": 165312,
       "name": "PONTE SATA",
       "url": "https://open.spotify.com/track/305U3q7GpuywzXIUrSGHqC"
@@ -4910,6 +4992,32 @@
       "duration_ms": 184897,
       "name": "Prisioneros",
       "url": "https://open.spotify.com/track/1EXHZL86SxIchdGMmzrYiX"
+    },
+    {
+      "album": {
+        "name": "Pusieron Rkt Punky",
+        "url": "https://open.spotify.com/album/3a5cM7AhmWNdwtRnxNMo4j"
+      },
+      "artists": [
+        {
+          "name": "Tomy DJ",
+          "url": "https://open.spotify.com/artist/6e7knXUrhWcp85TTN6za9z"
+        },
+        {
+          "name": "DJ Pirata",
+          "url": "https://open.spotify.com/artist/4MlPk7Q5wc1b5KRKSCDNnh"
+        },
+        {
+          "name": "El Kaio",
+          "url": "https://open.spotify.com/artist/0c6zVQn3CWPIu7I6QV6D8Y"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141176,
+      "name": "Pusieron Rkt Punky",
+      "url": "https://open.spotify.com/track/2X8osFoRpTpinrSwh5E0dn"
     },
     {
       "album": {
@@ -5394,7 +5502,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2024-04-19",
+      "date_removed": null,
       "duration_ms": 142143,
       "name": "Rompe",
       "url": "https://open.spotify.com/track/68X5Om9wJ1EROy2hlnGeAB"
@@ -5416,7 +5524,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-08-01",
+      "date_removed": null,
       "duration_ms": 155291,
       "name": "ROZE | DJ TAO Turreo Sessions #22",
       "url": "https://open.spotify.com/track/5wcghdKONQcc5TKx9jCcns"
@@ -5511,6 +5619,24 @@
     },
     {
       "album": {
+        "name": "TU PATRONA DE LUJO",
+        "url": "https://open.spotify.com/album/44Z2l8T9cvw3SFs35f6PQq"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124689,
+      "name": "SAN TURRONA",
+      "url": "https://open.spotify.com/track/1BtOVx51rbTM42fIA9986M"
+    },
+    {
+      "album": {
         "name": "SAN TURRONA REMIX",
         "url": "https://open.spotify.com/album/1LQ9PrZ8uGkKf5xBXB8tlY"
       },
@@ -5578,7 +5704,7 @@
       ],
       "date_added": "2024-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 136000,
       "name": "SE DICE DE MI",
       "url": "https://open.spotify.com/track/2wEhjcnre2PU36KQNBLXCC"
@@ -6092,7 +6218,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 163800,
       "name": "SUELTA",
       "url": "https://open.spotify.com/track/69i9cSF10GKohRuyhqNcOf"
@@ -6276,7 +6402,7 @@
       ],
       "date_added": "2024-05-03",
       "date_added_asterisk": false,
-      "date_removed": "2024-08-17",
+      "date_removed": null,
       "duration_ms": 136064,
       "name": "TATTOO",
       "url": "https://open.spotify.com/track/4kGGnJmqYqn6RQ9LMfvPcv"
@@ -6310,6 +6436,36 @@
       "duration_ms": 162697,
       "name": "TATTOO REMIX",
       "url": "https://open.spotify.com/track/4LnJJwdPgID9vFXjmxfdMy"
+    },
+    {
+      "album": {
+        "name": "TU PATRONA DE LUJO",
+        "url": "https://open.spotify.com/album/44Z2l8T9cvw3SFs35f6PQq"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "elaggume",
+          "url": "https://open.spotify.com/artist/5RopQXy9tobYADC0GZyLVb"
+        },
+        {
+          "name": "Fauna Music",
+          "url": "https://open.spotify.com/artist/5OnpSUKZU23JCU8axe7b2P"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162697,
+      "name": "TATTOO REMIX",
+      "url": "https://open.spotify.com/track/5BkJrsaDghovncygWLiget"
     },
     {
       "album": {
@@ -6516,6 +6672,32 @@
       "duration_ms": 164424,
       "name": "TERAPIA DE CHOQUE",
       "url": "https://open.spotify.com/track/1HRUB9L0IRcRHzLVD4pk6C"
+    },
+    {
+      "album": {
+        "name": "TU PATRONA DE LUJO",
+        "url": "https://open.spotify.com/album/44Z2l8T9cvw3SFs35f6PQq"
+      },
+      "artists": [
+        {
+          "name": "La Joaqui",
+          "url": "https://open.spotify.com/artist/60XHOAhvEBiV6BGBOv8ClM"
+        },
+        {
+          "name": "DobleP",
+          "url": "https://open.spotify.com/artist/2eXWodjj5K1vVq2CSjl036"
+        },
+        {
+          "name": "Gusty dj",
+          "url": "https://open.spotify.com/artist/5f9pQjPeDbuRF1GowQXo3L"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164424,
+      "name": "TERAPIA DE CHOQUE",
+      "url": "https://open.spotify.com/track/7eVZK8roFvCbjKULZSsR29"
     },
     {
       "album": {
@@ -6845,6 +7027,24 @@
     },
     {
       "album": {
+        "name": "Tumba",
+        "url": "https://open.spotify.com/album/4YcEYtx6FP0N2csSWjth6F"
+      },
+      "artists": [
+        {
+          "name": "Thomy DJ",
+          "url": "https://open.spotify.com/artist/1owf6hAeplDLF3a8lwI6kY"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180543,
+      "name": "Tumba",
+      "url": "https://open.spotify.com/track/7EASmjkD3fAMypq49FCLNY"
+    },
+    {
+      "album": {
         "name": "tunda",
         "url": "https://open.spotify.com/album/28POgiQ8qxaZRAYmWjmmBV"
       },
@@ -6964,7 +7164,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2025-11-29",
+      "date_removed": null,
       "duration_ms": 169055,
       "name": "Turro Diferente (feat. Omar Varela, Preciau)",
       "url": "https://open.spotify.com/track/2EZdlAbCWobkRJUj248m4S"
@@ -7078,7 +7278,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-02-14",
+      "date_removed": null,
       "duration_ms": 153850,
       "name": "Ubicacion 5 Saquense la Ropa",
       "url": "https://open.spotify.com/track/4EssJyOx8862eIHQxn6XS1"
@@ -7182,7 +7382,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-04-25",
+      "date_removed": null,
       "duration_ms": 167058,
       "name": "UH LA LA LA",
       "url": "https://open.spotify.com/track/2eV3pmYGM1bm1vWHc0t8WF"

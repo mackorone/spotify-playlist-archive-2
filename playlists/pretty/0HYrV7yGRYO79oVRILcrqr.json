@@ -1,33 +1,13 @@
 {
   "description": "\ud83d\udc49 Free Pitch : audiartist.com | Insta : stardust_from_sun | Email : musiqueslibre2droit@gmail.com | \ud83c\udfb8 Rock &#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul. Soulful rhythms, timeless riffs, and electrifying energy. Follow now and vibe with the best of rock and blues!",
-  "num_followers": 1897,
+  "num_followers": 1901,
   "original_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",
   "owner": {
     "name": "Audiartist",
     "url": "https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24"
   },
-  "snapshot_id": "AAAMhRpQvRrz8DKtIi7VX1tOn0dfHsgC",
+  "snapshot_id": "AAAMjBcKGrGphKnLmdap7beE6E/HxlfV",
   "tracks": [
-    {
-      "added_at": "2026-02-17 12:01:17",
-      "album": {
-        "name": "Shame on Me",
-        "url": "https://open.spotify.com/album/2YZ4LHiDmL6Yhh0LraTytw"
-      },
-      "artists": [
-        {
-          "name": "Ugochill",
-          "url": "https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw"
-        },
-        {
-          "name": "The Turtle Project",
-          "url": "https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa"
-        }
-      ],
-      "duration_ms": 308400,
-      "name": "Shame on Me",
-      "url": "https://open.spotify.com/track/5MJ15vdn2Nmtywbjpm6l5h"
-    },
     {
       "added_at": "2026-08-25 19:38:02",
       "album": {
@@ -93,6 +73,22 @@
       "url": "https://open.spotify.com/track/661nbgxeFKG1G90ZZ6blQR"
     },
     {
+      "added_at": "2026-09-18 07:36:47",
+      "album": {
+        "name": "The Current",
+        "url": "https://open.spotify.com/album/2cO1HjYSTNbwbc65fLAnza"
+      },
+      "artists": [
+        {
+          "name": "Ugochill",
+          "url": "https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw"
+        }
+      ],
+      "duration_ms": 253846,
+      "name": "The Current",
+      "url": "https://open.spotify.com/track/1I48cT7zjIcAbz2FJmnbyf"
+    },
+    {
       "added_at": "2026-07-19 14:06:58",
       "album": {
         "name": "SEVENTH SENSE",
@@ -107,22 +103,6 @@
       "duration_ms": 241626,
       "name": "SEVEN",
       "url": "https://open.spotify.com/track/1dBPODOrEYRX1S6jPklG27"
-    },
-    {
-      "added_at": "2025-11-22 16:53:49",
-      "album": {
-        "name": "You I Love the Most",
-        "url": "https://open.spotify.com/album/5PHKzoIa6kH5W9zsx7GfRq"
-      },
-      "artists": [
-        {
-          "name": "Ugochill",
-          "url": "https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw"
-        }
-      ],
-      "duration_ms": 351000,
-      "name": "You I Love the Most",
-      "url": "https://open.spotify.com/track/549UkDfx95rT3K290ftqjc"
     },
     {
       "added_at": "2025-09-21 08:56:10",
@@ -401,6 +381,26 @@
       "url": "https://open.spotify.com/track/5hvZynQUpMYVnKV0H6yM5C"
     },
     {
+      "added_at": "2026-02-17 12:01:17",
+      "album": {
+        "name": "Shame on Me",
+        "url": "https://open.spotify.com/album/2YZ4LHiDmL6Yhh0LraTytw"
+      },
+      "artists": [
+        {
+          "name": "Ugochill",
+          "url": "https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw"
+        },
+        {
+          "name": "The Turtle Project",
+          "url": "https://open.spotify.com/artist/062cY7RGKXM9XJyWM1VCXa"
+        }
+      ],
+      "duration_ms": 308400,
+      "name": "Shame on Me",
+      "url": "https://open.spotify.com/track/5MJ15vdn2Nmtywbjpm6l5h"
+    },
+    {
       "added_at": "2026-03-15 14:35:45",
       "album": {
         "name": "Metaphysical Machines",
@@ -559,6 +559,22 @@
       "duration_ms": 119117,
       "name": "Pure Love",
       "url": "https://open.spotify.com/track/5QcqsZF84HiIiyLrSguLYM"
+    },
+    {
+      "added_at": "2025-11-22 16:53:49",
+      "album": {
+        "name": "You I Love the Most",
+        "url": "https://open.spotify.com/album/5PHKzoIa6kH5W9zsx7GfRq"
+      },
+      "artists": [
+        {
+          "name": "Ugochill",
+          "url": "https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw"
+        }
+      ],
+      "duration_ms": 351000,
+      "name": "You I Love the Most",
+      "url": "https://open.spotify.com/track/549UkDfx95rT3K290ftqjc"
     },
     {
       "added_at": "2026-08-11 05:50:25",
@@ -2287,6 +2303,78 @@
       "duration_ms": 226588,
       "name": "Addicted to Failure",
       "url": "https://open.spotify.com/track/4VZf9Fvio0gJujRfGwqLl8"
+    },
+    {
+      "added_at": "2026-09-18 12:59:50",
+      "album": {
+        "name": "Kryptonite",
+        "url": "https://open.spotify.com/album/2Ttr0fh2gvZQuurlb5Nav6"
+      },
+      "artists": [
+        {
+          "name": "Mama Said",
+          "url": "https://open.spotify.com/artist/3222eI74JYYnvhm4zhTu3V"
+        }
+      ],
+      "duration_ms": 187337,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/51FvtQMsWXSDS7bmnOqDcD"
+    },
+    {
+      "added_at": "2026-09-18 13:25:19",
+      "album": {
+        "name": "Przesta\u0144 scrollowac dziecinko",
+        "url": "https://open.spotify.com/album/5ELFcpNuXmhfaaCbXUAY2u"
+      },
+      "artists": [
+        {
+          "name": "Rdza duszy",
+          "url": "https://open.spotify.com/artist/2l4c3tamlv3jprRQwoyqbJ"
+        }
+      ],
+      "duration_ms": 344880,
+      "name": "Przesta\u0144 scrollowac dziecinko",
+      "url": "https://open.spotify.com/track/5WxhDNH6E40qhcCVn2k6gG"
+    },
+    {
+      "added_at": "2026-09-18 13:26:58",
+      "album": {
+        "name": "I'm Bored x",
+        "url": "https://open.spotify.com/album/6pPoIqEGFHEEu0FGE23UWz"
+      },
+      "artists": [
+        {
+          "name": "Andrew Wilson",
+          "url": "https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk"
+        },
+        {
+          "name": "Kellin Quinn",
+          "url": "https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2"
+        }
+      ],
+      "duration_ms": 248468,
+      "name": "I'm Bored x",
+      "url": "https://open.spotify.com/track/1fRonpKCl5SRNccAHOEvl0"
+    },
+    {
+      "added_at": "2026-09-18 13:42:50",
+      "album": {
+        "name": "Devil in your Eyes",
+        "url": "https://open.spotify.com/album/4OWRSANXAH393AN761G6YQ"
+      },
+      "artists": [
+        {
+          "name": "Elizabeth",
+          "url": "https://open.spotify.com/artist/0tgidGFMzSBoxZI87spcTW"
+        },
+        {
+          "name": "SinCrawler",
+          "url": "https://open.spotify.com/artist/2aGUDAsWVwhbc8bnqNx5Ho"
+        }
+      ],
+      "duration_ms": 263816,
+      "name": "Devil in your Eyes",
+      "url": "https://open.spotify.com/track/6nRgzrlhyd2yBp2T3OItgp"
     }
   ],
   "unique_name": "\ud83c\udfb8 Rock Music Hits   Blues Rock, Classic Rock, Southern Rock, Hard Rock, Rhythm and Blues (R&B), So",

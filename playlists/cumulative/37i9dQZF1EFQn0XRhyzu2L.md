@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/6pIqJXrWHth17iGoiK0mPz">Justin Tranter</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-699 songs - 1 day 14 hr 19 min
+700 songs - 1 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -368,6 +368,7 @@
 | [Loveable](https://open.spotify.com/track/6Nqw5ZZASs98p7e4zfIIqM) | [Gwen Stefani](https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP) | [This Is What The Truth Feels Like](https://open.spotify.com/album/2es3eRI3drhe6WKdCuHjGM) | 3:20 | 2024-02-27 | 2025-07-17 |
 | [Luv Everybody](https://open.spotify.com/track/2tnBlh7oMnqaTsHlejsaHM) | [Baby Tate](https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4) | [Baby Tate Presents \- Sexploration: The Musical](https://open.spotify.com/album/6e0e1fGkJxHGyKpqZPw9Qb) | 2:42 | 2024-02-27 |  |
 | [Lying To You](https://open.spotify.com/track/5WEFOKbWxFlEYG0gGKmhjo) | [Goldroom](https://open.spotify.com/artist/4eZebkMFU3xelF8mbZYXyl) | [West Of The West](https://open.spotify.com/album/1CNxJCixrOSJxMo5pz5ZaP) | 3:27 | 2024-02-27 |  |
+| [Made My Night](https://open.spotify.com/track/5MOIAV008posdOGmxiJBsi) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [Made My Night](https://open.spotify.com/album/59BYHVCzCi3WTu2f0ONpKt) | 2:06 | 2026-09-18 |  |
 | [Magnetic Baby](https://open.spotify.com/track/0pPLR7tXZJGSfOZnBK7bk4) | [Semi Precious Weapons](https://open.spotify.com/artist/1AXeYOFxlCjSmmMdp4myG9) | [You Love You](https://open.spotify.com/album/6hwVVJuEBCHwAYnkMttS6S) | 2:44 | 2024-02-27 |  |
 | [Make It Up To You](https://open.spotify.com/track/2XZ1I5xCHe38XOvfpMRY5e) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Nervous System](https://open.spotify.com/album/1qyjZGIeeLJlXbYWuoloWj) | 3:36 | 2024-02-27 |  |
 | [Make Me Feel](https://open.spotify.com/track/5gW5dSy3vXJxgzma4rQuzH) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Dirty Computer](https://open.spotify.com/album/2PjlaxlMunGOUvcRzlTbtE) | 3:14 | 2024-02-27 |  |

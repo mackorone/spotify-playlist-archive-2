@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 
 > This is Durand Bernarr\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,798 likes - 48 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,806 likes - 48 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,8 +35,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 25 | [Homesick](https://open.spotify.com/track/7HwwKT3cGTRY5xS3GgnXrv) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [VIC MENSA](https://open.spotify.com/artist/27w1NoOLMX7tJMYqcetPyG) | [BERNARR.](https://open.spotify.com/album/3mwj7hNvVWw3wKcJzZZEVm) | 4:44 |
 | 26 | [Reaching](https://open.spotify.com/track/37Bw9TOmxbDW0i509GmqOR) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 4:30 |
 | 27 | [READY!](https://open.spotify.com/track/3sw0DdToI9uCMTZmTzsBwE) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Charlie Vettuno](https://open.spotify.com/artist/6SjBIWfrxSzMxeQb0pu9k0) | [READY!](https://open.spotify.com/album/0wVKhisY1iT0Enm2dOQzQi) | 3:29 |
-| 28 | [Get Paid \(feat\. Durand Bernarr\)](https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Humo en la Trampa 3](https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci) | 2:41 |
-| 29 | [Completed \- A COLORS SHOW](https://open.spotify.com/track/2VU9K6Cw4ocEaamg0iNkqr) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Completed \- A COLORS SHOW](https://open.spotify.com/album/5EMhgECFU4cV1B5WkwEhmX) | 5:49 |
+| 28 | [Completed \- A COLORS SHOW](https://open.spotify.com/track/2VU9K6Cw4ocEaamg0iNkqr) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Completed \- A COLORS SHOW](https://open.spotify.com/album/5EMhgECFU4cV1B5WkwEhmX) | 5:49 |
+| 29 | [Get Paid \(feat\. Durand Bernarr\)](https://open.spotify.com/track/06YScHhrQUlW4suDU7mslP) | [Alemán](https://open.spotify.com/artist/4QFG9KrGWEbr6hNA58CAqE), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Humo en la Trampa 3](https://open.spotify.com/album/5q8hNRlU7Bzo0WOui0hbci) | 2:41 |
 | 30 | [GENEROUS](https://open.spotify.com/track/15iKg3vhtQNgIMtv6IzylW) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [BLOOM](https://open.spotify.com/album/756LreEk5nDrKn0FyiVJNH) | 6:09 |
 | 31 | [Company](https://open.spotify.com/track/1SxojyK5aAEHRS2mnNgVhU) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 5:05 |
 | 32 | [PIT STOP](https://open.spotify.com/track/4dEQyFlM6xPqB7UWMbn54x) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [DeShawn Jenkins](https://open.spotify.com/artist/2Dxkrl4da72WpLloFlg6R1) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 1:31 |
@@ -49,12 +49,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1g1g3K.md) - [plain]
 | 39 | [Melody](https://open.spotify.com/track/0cc4hNDMidsGNzAZ2jFw71) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 4:42 |
 | 40 | [Whisper \(Want My Luv\)](https://open.spotify.com/track/5yFnawMLEJyxzRlbMZeSPS) | [Patrick Paige II](https://open.spotify.com/artist/3rTMj1pmRvXBfzAEIk9XX9), [Allen Love](https://open.spotify.com/artist/556i2ElDsmb4qh5bEOZ1C9), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Steve Lacy](https://open.spotify.com/artist/57vWImR43h4CaDao012Ofp) | [If I Fail Are We Still Cool?](https://open.spotify.com/album/4dNMPTG96R8kLnZQ37yOIB) | 3:49 |
 | 41 | [Processing...](https://open.spotify.com/track/2E5OshuXUdcR43yStOifJ7) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [En Route](https://open.spotify.com/album/6oMGF1OHuuRjQWKn1HXrU5) | 2:51 |
-| 42 | [Collide](https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:42 |
+| 42 | [Search Party](https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:58 |
 | 43 | [Relocate](https://open.spotify.com/track/0KEFmJW0gsRLmCgQVOMNzC) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [DUR&](https://open.spotify.com/album/3HGGNFWHFe1c8cgJx0t8ki) | 3:33 |
 | 44 | [Hip 2 Hip Hypnosis](https://open.spotify.com/track/4qqfI2my7ydYntn6T82fUZ) | [Cool Company](https://open.spotify.com/artist/6lOCVUQbb9wzuZQbZQV9zn), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Hip 2 Hip Hypnosis](https://open.spotify.com/album/7wweXc51MLp0BLoGMNCjJR) | 3:13 |
 | 45 | [Bump The Man \- Live](https://open.spotify.com/track/5yWFIKczW4utUfbHkrZt7p) | [Philip Lassiter](https://open.spotify.com/artist/1wnaeDbP5Yl9MNV9qC008L), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Raw In Amsterdam \(Live\)](https://open.spotify.com/album/2V6vqIHHdVfSvH7bMeAWEd) | 4:51 |
-| 46 | [Search Party](https://open.spotify.com/track/4y3cjPpuyUiyE7z02TrxfJ) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:58 |
+| 46 | [Collide](https://open.spotify.com/track/2PxRnDqqrsRVYgbh5rWPpE) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW) | [Sound Check](https://open.spotify.com/album/2WYlqZt9qlYZToSgBq95Dn) | 3:42 |
 | 47 | [Lil Bit \(feat\. METTA\)](https://open.spotify.com/track/2NOW1oBfJtkA1i4OASoKn4) | [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Metta](https://open.spotify.com/artist/1pwUbfPf4VBYuwAdA4xmix) | [Wanderlust](https://open.spotify.com/album/1rTKMaQeug98fbSH29NoaG) | 3:42 |
 | 48 | [minding\_my business](https://open.spotify.com/track/4E3AUfhHzDg0xD12mzcCNu) | [Knxwledge](https://open.spotify.com/artist/17Zu03OgBVxgLxWmRUyNOJ), [Durand Bernarr](https://open.spotify.com/artist/2d6ggH1oVt4z2zCuY2u5DW), [Rose Gold](https://open.spotify.com/artist/5ZvCpVAckM5gWTM5HYgSFb) | [1988](https://open.spotify.com/album/0YePXgGfk39Rd1OWgqFKRS) | 4:28 |
 
-Snapshot ID: `aqncAAAAAACZZlMXrBq4OmACeVawi10c`
+Snapshot ID: `aqstgAAAAADFraHcvX8H+/guyo8YfqiJ`

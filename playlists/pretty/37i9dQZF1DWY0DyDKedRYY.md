@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 
 > The most exciting new music on our radar, featuring ADÉLA.
 
-[Spotify](https://open.spotify.com/user/spotify) - 340,035 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 340,079 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY0DyDKedRYY.md) - [plain]
 | 49 | [esto no mueRE](https://open.spotify.com/track/5zGUctVVMen1QnceAb5Mdh) | [Remers](https://open.spotify.com/artist/5bVgn8ImAnQDIB1NjxfSvb) | [La Ré Baby](https://open.spotify.com/album/6R5MKQczFVsfNTDRY3Ct2i) | 3:09 |
 | 50 | [Her](https://open.spotify.com/track/4IvgjdQD4mG7yDvftdBOft) | [Leanna Crawford](https://open.spotify.com/artist/3dm6lDgdQh05XDHGhb9XQf) | [Thank God](https://open.spotify.com/album/6KI31QMuC77LZi5GS8Ipqf) | 2:53 |
 
-Snapshot ID: `AAAAAL6HTtml/gzZEV7utZZrzWzcqQcO`
+Snapshot ID: `AAAAAHw2jwIOQvEyV0nLKUekR6VJS/kQ`

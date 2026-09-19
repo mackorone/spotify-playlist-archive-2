@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 
 > Koffie met gemoedelijke muziek op de achtergrond.
 
-[Spotify](https://open.spotify.com/user/spotify) - 397,997 likes - 100 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 398,009 likes - 100 songs - 5 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,9 +44,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 34 | [Say You'll Stay](https://open.spotify.com/track/4MOVvLoJH0Q9V6hIjarPjP) | [Koa Rae](https://open.spotify.com/artist/5OJ1k0urJj2DSWSVVzMgZw) | [Say You'll Stay](https://open.spotify.com/album/4rI92qYqrV2XfJuocHqA1N) | 2:49 |
 | 35 | [Lies](https://open.spotify.com/track/5hXctFvYF5cp6y9eIjAqy2) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [Lies](https://open.spotify.com/album/0NQ0db0GPSUYicdx1aiF5e) | 3:47 |
 | 36 | [Light of My Life](https://open.spotify.com/track/4bviXkL3PQC331yzFlXPEz) | [Douwe Bob](https://open.spotify.com/artist/6VSZeMeJlVPGoR2nfB6UxD) | [Light of My Life](https://open.spotify.com/album/0nTBKuQEAaYS3K1dhHy7b8) | 4:19 |
-| 37 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
-| 38 | [On The Way](https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [On The Way](https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA) | 3:12 |
-| 39 | [Saturday Silence](https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Saturday Silence](https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl) | 2:55 |
+| 37 | [On The Way](https://open.spotify.com/track/0TvxrH69oDuV4k9NZAvs3l) | [Hollow Coves](https://open.spotify.com/artist/7IAFAOtc9kTYNTizhLSWM6) | [On The Way](https://open.spotify.com/album/3H2v38YigQUXP24Yhq49YA) | 3:12 |
+| 38 | [Saturday Silence](https://open.spotify.com/track/1QGVy7iVqFrb45SKBWt6e9) | [Iskander Moon](https://open.spotify.com/artist/4DHxzuCSdrTZgeNMEYg7u0) | [Saturday Silence](https://open.spotify.com/album/5JvijO28pBs28VkOzZIHMl) | 2:55 |
+| 39 | [Back on the Road](https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq) | [Half Moon Run](https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n) | [Back on the Road](https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj) | 2:24 |
 | 40 | [Walls](https://open.spotify.com/track/23maC3cddA5XAxmeVVxpr3) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Walls](https://open.spotify.com/album/6SRWhcfH94UmcQrvXRuFWS) | 3:06 |
 | 41 | [Happier \- Piano Version](https://open.spotify.com/track/2oX4P8Oh5u0JCinsyNOWOY) | [Berre](https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW) | [Happier \(Piano Version\)](https://open.spotify.com/album/1zdzQkGXsNjwSUoUcOw16S) | 3:12 |
 | 42 | [Calling Out](https://open.spotify.com/track/7dDFaYUvDRqrGFIKWRQUMW) | [Solar State](https://open.spotify.com/artist/6apP9Y1rUXNySghaBvyRzu) | [Calling Out](https://open.spotify.com/album/6fzk3KsLIJzzlYaEoOmSvn) | 2:30 |
@@ -63,8 +63,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 53 | [Let's Stay Together](https://open.spotify.com/track/6kttTC4qm7W8CTfOLcMrMG) | [DeWolff](https://open.spotify.com/artist/1OHnmln4huMiBLyxBHNx0k) | [Muscle Shoals](https://open.spotify.com/album/4CgnYQ1ImIJaoxkgCmYXVt) | 3:02 |
 | 54 | [Nomad](https://open.spotify.com/track/0ZJPFFiDWl8AQSE9UiR5sg) | [Nambyar](https://open.spotify.com/artist/2OVh8vBXmBS9Sc5w6G5Ko9) | [Remedy](https://open.spotify.com/album/5UOuVdbm7voBfBbdq4ZZ6A) | 3:26 |
 | 55 | [Bigger Picture](https://open.spotify.com/track/0iFdtqVlV5piDnq0KUloCB) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Bigger Picture](https://open.spotify.com/album/7q4bQccI2jQ32LwE2ydM57) | 3:05 |
-| 56 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 |
-| 57 | [Not The One](https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 3:28 |
+| 56 | [Not The One](https://open.spotify.com/track/74Zu26EVqhfSN5QpTWtvr4) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Save It For Later](https://open.spotify.com/album/1JCSyDDYF8k1dAxbchvxbl) | 3:28 |
+| 57 | [Like It Always Was](https://open.spotify.com/track/5aniJiKNuKy75LfedJ5dTt) | [Danny Vera](https://open.spotify.com/artist/1bObiFZkYu7IfzxVlAVj5x) | [Like It Always Was](https://open.spotify.com/album/1MbDgDFNVspz3stTWb1vDI) | 3:20 |
 | 58 | [Be My Own](https://open.spotify.com/track/1K0DoOa7iEgUcXdBPXC5lw) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Be My Own](https://open.spotify.com/album/6SKu22UR1q7puVJoUYwl70) | 3:39 |
 | 59 | [I Miss You](https://open.spotify.com/track/2AAhrVlXSqTUDLGPQDbqCz) | [Douglas Firs](https://open.spotify.com/artist/4bIqgUsS9Vgb5vQOPdaLr4) | [Happy, Pt\. 2](https://open.spotify.com/album/6ZU1LCfGkXbU7Ot0R528yi) | 3:50 |
 | 60 | [To Love Somebody](https://open.spotify.com/track/6j8FjzwlWpr1SlDnN5IDzj) | [Tim Dawn](https://open.spotify.com/artist/55VC7UDCmceodks4rbHgHe) | [To Love Somebody](https://open.spotify.com/album/5AvAQALNYpsHoHK98JE6j9) | 2:40 |
@@ -72,12 +72,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 62 | [Uncharted \- Recorded at Spotify Studios Stockholm](https://open.spotify.com/track/2cOwUzjqyk9S4PsAW7BycC) | [Kensington](https://open.spotify.com/artist/5hHcAWKNV84BEbkRnbQ6A7) | [Spotify Singles](https://open.spotify.com/album/5YcB3oSnzUImqETGH3jqeq) | 3:57 |
 | 63 | [Don't Leave Me Now](https://open.spotify.com/track/6WmFcu5t23LYIw6jotpn5Z) | [Lucas Hamming](https://open.spotify.com/artist/4iDpNIlF0YzksZ35iQf196) | [Don't Leave Me Now](https://open.spotify.com/album/3242iTcpKXzQe4zFTp2AMz) | 3:52 |
 | 64 | [What Makes A King](https://open.spotify.com/track/0quGcjPmKx83IghLfgcS3P) | [Marcel Kapteijn](https://open.spotify.com/artist/6VTUhYONG3oqq10TWNLswp) | [What Makes A King](https://open.spotify.com/album/59ZHtyohHl6rHbajav5ofK) | 2:48 |
-| 65 | [One Life](https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [One Life](https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC) | 2:30 |
-| 66 | [Until My Last Breath](https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Until My Last Breath](https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT) | 2:57 |
+| 65 | [Until My Last Breath](https://open.spotify.com/track/14IkANhrfPnJownyQUpiq1) | [NYVE](https://open.spotify.com/artist/5YHb2A9DThy2IFLn6z5bkA) | [Until My Last Breath](https://open.spotify.com/album/2gIZT0Buq4dZ1mwcYdCuKT) | 2:57 |
+| 66 | [One Life](https://open.spotify.com/track/4H6huybuIXixEEvEFBiltj) | [Bunch Of Grapes](https://open.spotify.com/artist/4mreXDeA7Qv8DrGNKfOsdK) | [One Life](https://open.spotify.com/album/7d3jCuEQ8pXtg0bjxtcTsC) | 2:30 |
 | 67 | [Better Tomorrow](https://open.spotify.com/track/0DXMmLSftFOYvAB84xcWzA) | [Sennen Bay](https://open.spotify.com/artist/0UQWrW7HtqX5UN1StDmiKW) | [Better Tomorrow](https://open.spotify.com/album/68mtiOTPbUs6FhNhPyGefj) | 3:31 |
 | 68 | [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/track/63iSpVU9FUKevNdkUYpnUD) | [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp), [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Easy To Love \(feat\. Iris Jean\)](https://open.spotify.com/album/4dzcTV21H0O6LfuliqlYBp) | 3:46 |
-| 69 | [One Day](https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS) | [Axelle](https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ) | [One Day](https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL) | 2:59 |
-| 70 | [Who Am I](https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Who Am I](https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6) | 2:25 |
+| 69 | [Who Am I](https://open.spotify.com/track/0YKcTnaJJ9U5QeX6TNqJ7z) | [Faela](https://open.spotify.com/artist/3ihQuU7gvb99xM54jIHoZm) | [Who Am I](https://open.spotify.com/album/2Kwf79Mrk1ms9T4lfIJiL6) | 2:25 |
+| 70 | [One Day](https://open.spotify.com/track/0Tka4kL8PHgbrI1cfd4cqS) | [Axelle](https://open.spotify.com/artist/6ngMbvXa9lkh6ArCCuw0LQ) | [One Day](https://open.spotify.com/album/4W8MdPWEUpVTttKtzhbERL) | 2:59 |
 | 71 | [Apple Tree](https://open.spotify.com/track/3F8qD0jYXjGweKRYv5CQRf) | [Niels Geusebroek](https://open.spotify.com/artist/7D22FhEGzT4jxbjWryB63l) | [Apple Tree](https://open.spotify.com/album/1iKpZ2BXsPfibh7g897dgx) | 2:58 |
 | 72 | [Amsterdam](https://open.spotify.com/track/7Get7yGumhmImlPmD1fKOM) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Amsterdam](https://open.spotify.com/album/5Poc7rMFKXvwGejX9WWJfy) | 4:05 |
 | 73 | [Your Spirit \- From "Team Spirit: Next Gen"](https://open.spotify.com/track/6WlW10QVG34BDyAZOCXL4N) | [OSKI](https://open.spotify.com/artist/3qfXX3w7HSnE4QfJlicEvJ) | [Your Spirit \(From "Team Spirit: Next Gen"\)](https://open.spotify.com/album/7KE4vswEm8fYEq3WKmQucw) | 3:31 |
@@ -101,12 +101,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwGkJoztcR.md) - [plain]
 | 91 | [Company Store](https://open.spotify.com/track/5t62X15lF4mm3tcw3S1HAu) | [MELL VF](https://open.spotify.com/artist/0gP5wSp6he2gUcPa5gunV8) | [Queen Of My Castle](https://open.spotify.com/album/1FmqqLLTFfcUKKhKI4q7FM) | 2:59 |
 | 92 | [Bend](https://open.spotify.com/track/5ndA2BSNuy54Ga49nEkECX) | [Noa Lee](https://open.spotify.com/artist/4YGchyGbwAekTbhOxczQqM) | [Bend](https://open.spotify.com/album/24Lcq3Gfs5zUkovQWsmTAT) | 3:56 |
 | 93 | [Afraid Of What You Might Find](https://open.spotify.com/track/7cnbRTFRYERD9bPO6SkDUx) | [SJ Hoffman](https://open.spotify.com/artist/16xNj5A1JEBDwSf9zPhr0m) | [Redeeming Grace](https://open.spotify.com/album/0GKWgZFnokGG8vSSPoDqfQ) | 4:25 |
-| 94 | [Conversation](https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Conversation](https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp) | 3:06 |
-| 95 | [Just Another Road](https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Just Another Road](https://open.spotify.com/album/6QhmM3FglBHKpZdYF6DQo6) | 3:00 |
+| 94 | [Back to the River](https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Back to the River](https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG) | 4:09 |
+| 95 | [Conversation](https://open.spotify.com/track/7xNTBpjd4aU98Roi43Gzzo) | [Sarah Julia](https://open.spotify.com/artist/2qVi7G7OjgVXyl9zxabzTQ) | [Conversation](https://open.spotify.com/album/2uiBton7Bsbn3rFABv8vDp) | 3:06 |
 | 96 | [Lonely On Lovers Lane](https://open.spotify.com/track/5PLSERzlNXmiOJsMMyI9j7) | [Blackbird](https://open.spotify.com/artist/5SU9mZVaI9pRXgXmIhG1fL) | [Pink Shades](https://open.spotify.com/album/3ukzsoKcwtAyFnjtbGbCKw) | 3:15 |
-| 97 | [Back to the River](https://open.spotify.com/track/7h15s9nOXVe8nH9TGqXb6O) | [Jon Allen](https://open.spotify.com/artist/5ajIkPBUamM5hTDLtrpTBa) | [Back to the River](https://open.spotify.com/album/6yaMZCMnX7lTWKLeyAhutG) | 4:09 |
+| 97 | [Just Another Road](https://open.spotify.com/track/1AG54oWoFQkowhjonVMemw) | [Tim Akkerman](https://open.spotify.com/artist/1mdYzJv7Z90aiNlfBvoI9u), [The Ivy League](https://open.spotify.com/artist/3sEDJcE3V0YjnmaxIQP5qO) | [Just Another Road](https://open.spotify.com/album/6QhmM3FglBHKpZdYF6DQo6) | 3:00 |
 | 98 | [Trouble Is Me](https://open.spotify.com/track/4LJdc3NTNFugi2pWkjZZmr) | [Tangarine](https://open.spotify.com/artist/6M1HAXD9PmL4w7uB5aP659) | [Trouble Is Me](https://open.spotify.com/album/2haCvHHeluKqvojJPKzJpN) | 3:12 |
 | 99 | [Woman](https://open.spotify.com/track/5q5bSQnrPsdxvmb17kAIxU) | [Celine Cairo](https://open.spotify.com/artist/2icndAD2G5umAWdgrARONR) | [Woman](https://open.spotify.com/album/3rd9u0gRWSDMCkO7UcF0jV) | 4:08 |
 | 100 | [Poète Maudit](https://open.spotify.com/track/1Jxowf9kQioNDbM2znWRbV) | [Orange Skyline](https://open.spotify.com/artist/2khmzZ3jOfcd9tJ821E6Xx) | [Poète Maudit](https://open.spotify.com/album/7vLoKhrg9BBXWqUVOeE5bZ) | 2:47 |
 
-Snapshot ID: `AAAAAImOH7ZauGekD052bfWA7DdnJtfG`
+Snapshot ID: `AAAAAKeKzbh7qY1ovejzue5BgUn84M55`

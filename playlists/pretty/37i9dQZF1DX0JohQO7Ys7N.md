@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 
 > Kickback, Relax to some smooth R&B from Nairobi \-The city under the Sun\. Cover: Davy Waweru
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,145 likes - 60 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,166 likes - 60 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0JohQO7Ys7N.md) - [plain]
 | 59 | [Sorry](https://open.spotify.com/track/4gKQ9XVPxtUx2sGuwSMPso) | [Nviiri The Storyteller](https://open.spotify.com/artist/7xPDTxQrpZPvvI0LzuO73p) | [Sorry](https://open.spotify.com/album/1hKcd4AYQQDRlR9GpLxgaQ) | 3:52 |
 | 60 | [Sweetest Time](https://open.spotify.com/track/2p0Gy479pqaL7GToLiLDhW) | [Maya Amolo](https://open.spotify.com/artist/6e6TdjEmxMCM5CFNrEfX3H), [Ywaya Tajiri](https://open.spotify.com/artist/6wf9RfrBquBd6Galoe5oQE) | [Sweetest Time](https://open.spotify.com/album/1hsqYq7l4qAkEUEbzl1qtW) | 2:34 |
 
-Snapshot ID: `AAAAAGY7n5qpupfGfOKJBgppkARA5f5i`
+Snapshot ID: `AAAAALB/6LOf0NekiUPcH/cOXlkd9R0A`

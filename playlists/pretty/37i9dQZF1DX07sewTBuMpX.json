@@ -1,12 +1,12 @@
 {
   "description": "De beste tunes op repeat. Cover: Langa",
-  "num_followers": 141748,
+  "num_followers": 141749,
   "original_name": "Pull Up Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACAzzV/XlGiONj9ejBitDZ6nQIuD",
+  "snapshot_id": "AAAAAKZYcm3Ihu7NRL5VWxp4bJYlbME1",
   "tracks": [
     {
       "added_at": "2026-09-15 08:33:02",
@@ -787,26 +787,6 @@
     {
       "added_at": "2026-09-15 08:33:02",
       "album": {
-        "name": "Damage",
-        "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
-      },
-      "artists": [
-        {
-          "name": "Noano",
-          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
-        },
-        {
-          "name": "Ronnie Flex",
-          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
-        }
-      ],
-      "duration_ms": 130615,
-      "name": "Damage",
-      "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
-    },
-    {
-      "added_at": "2026-09-15 08:33:02",
-      "album": {
         "name": "Hyp\u00e9 (feat. Ayra Starr)",
         "url": "https://open.spotify.com/album/5RuD9wVp96jSA1Lx1pZNYD"
       },
@@ -823,6 +803,26 @@
       "duration_ms": 157402,
       "name": "Hyp\u00e9 (feat. Ayra Starr)",
       "url": "https://open.spotify.com/track/6oi6AAmRd2IbanRMQZC39J"
+    },
+    {
+      "added_at": "2026-09-15 08:33:02",
+      "album": {
+        "name": "Damage",
+        "url": "https://open.spotify.com/album/3hQ8L8ZqfLGe2gXPNWXBrk"
+      },
+      "artists": [
+        {
+          "name": "Noano",
+          "url": "https://open.spotify.com/artist/5eDdy8QxB47JsLASK2FI1m"
+        },
+        {
+          "name": "Ronnie Flex",
+          "url": "https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl"
+        }
+      ],
+      "duration_ms": 130615,
+      "name": "Damage",
+      "url": "https://open.spotify.com/track/1b6G5YNi5akoOpwlqnulH8"
     },
     {
       "added_at": "2026-09-15 08:33:02",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-09-15 08:33:02",
       "album": {
+        "name": "De Ene Hand Wast De Ander (Deluxe)",
+        "url": "https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5"
+      },
+      "artists": [
+        {
+          "name": "Broederliefde",
+          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
+        }
+      ],
+      "duration_ms": 189026,
+      "name": "Maak Me Niet Heet",
+      "url": "https://open.spotify.com/track/0npU90BM992t07Oh3hfaYb"
+    },
+    {
+      "added_at": "2026-09-15 08:33:02",
+      "album": {
         "name": "BABABA WORLD",
         "url": "https://open.spotify.com/album/5sLI4vFzifjpqNjmbPQFhS"
       },
@@ -971,22 +987,6 @@
       "duration_ms": 154000,
       "name": "COMO TU",
       "url": "https://open.spotify.com/track/0IXL5SPeI849hcz7Cynpk4"
-    },
-    {
-      "added_at": "2026-09-15 08:33:02",
-      "album": {
-        "name": "De Ene Hand Wast De Ander (Deluxe)",
-        "url": "https://open.spotify.com/album/4kiNumKo95FBrtwmIC6uF5"
-      },
-      "artists": [
-        {
-          "name": "Broederliefde",
-          "url": "https://open.spotify.com/artist/5GvMLzUp6tMBpaCbr903RN"
-        }
-      ],
-      "duration_ms": 189026,
-      "name": "Maak Me Niet Heet",
-      "url": "https://open.spotify.com/track/0npU90BM992t07Oh3hfaYb"
     },
     {
       "added_at": "2026-09-15 08:33:02",
@@ -1671,22 +1671,26 @@
     {
       "added_at": "2026-09-15 08:33:02",
       "album": {
-        "name": "Voorzichtig",
-        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
+        "name": "Tiptop",
+        "url": "https://open.spotify.com/album/02pGycUh9gWr3r1T7b2yQN"
       },
       "artists": [
         {
-          "name": "Zo\u00eb Tauran",
-          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
         },
         {
-          "name": "Idaly",
-          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Dior",
+          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
         }
       ],
-      "duration_ms": 143015,
-      "name": "Voorzichtig",
-      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
+      "duration_ms": 153554,
+      "name": "Tiptop",
+      "url": "https://open.spotify.com/track/1Bs3psfhOUzwgyHDwJuOhh"
     },
     {
       "added_at": "2026-09-15 08:33:02",
@@ -1715,26 +1719,22 @@
     {
       "added_at": "2026-09-15 08:33:02",
       "album": {
-        "name": "Tiptop",
-        "url": "https://open.spotify.com/album/02pGycUh9gWr3r1T7b2yQN"
+        "name": "Voorzichtig",
+        "url": "https://open.spotify.com/album/6EvtZrcitziggFFbxyAcqM"
       },
       "artists": [
         {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+          "name": "Zo\u00eb Tauran",
+          "url": "https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi"
         },
         {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Dior",
-          "url": "https://open.spotify.com/artist/5aR7M98Z0H5SzbGOIfkIQt"
+          "name": "Idaly",
+          "url": "https://open.spotify.com/artist/1EYdbYpGAuJy6uZo4sVMoM"
         }
       ],
-      "duration_ms": 153554,
-      "name": "Tiptop",
-      "url": "https://open.spotify.com/track/1Bs3psfhOUzwgyHDwJuOhh"
+      "duration_ms": 143015,
+      "name": "Voorzichtig",
+      "url": "https://open.spotify.com/track/5D50iIozof7VABnwls2H13"
     },
     {
       "added_at": "2026-09-15 08:33:02",
@@ -1779,6 +1779,26 @@
     {
       "added_at": "2026-09-15 08:33:02",
       "album": {
+        "name": "180",
+        "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
+      },
+      "artists": [
+        {
+          "name": "Siggy & D1ns",
+          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
+        },
+        {
+          "name": "Josylvio",
+          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
+        }
+      ],
+      "duration_ms": 211304,
+      "name": "180",
+      "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
+    },
+    {
+      "added_at": "2026-09-15 08:33:02",
+      "album": {
         "name": "Amazin\u2019 (Remix)",
         "url": "https://open.spotify.com/album/7CJPdQcYGjdOqor42uir6h"
       },
@@ -1799,26 +1819,6 @@
       "duration_ms": 175250,
       "name": "Amazin' - Remix",
       "url": "https://open.spotify.com/track/00XmWMEZ4ms7Xxk6ZoH4Lo"
-    },
-    {
-      "added_at": "2026-09-15 08:33:02",
-      "album": {
-        "name": "180",
-        "url": "https://open.spotify.com/album/3JziZ02K6CPyI83kKOQbHj"
-      },
-      "artists": [
-        {
-          "name": "Siggy & D1ns",
-          "url": "https://open.spotify.com/artist/7Hr9muVs27WNIcEqGVQGcm"
-        },
-        {
-          "name": "Josylvio",
-          "url": "https://open.spotify.com/artist/1wFoE1RwBMWoWkXcFrCgsx"
-        }
-      ],
-      "duration_ms": 211304,
-      "name": "180",
-      "url": "https://open.spotify.com/track/3rKD53F1KpVjCg5MZQabq9"
     },
     {
       "added_at": "2026-09-15 08:33:02",

@@ -395,6 +395,24 @@
     },
     {
       "album": {
+        "name": "El Amor En 48 Compases",
+        "url": "https://open.spotify.com/album/6D1PFyTxsic9JoAuAG7C7Q"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134601,
+      "name": "A Tu Lado",
+      "url": "https://open.spotify.com/track/2u3WO2kkjrf9HamtkRPRlY"
+    },
+    {
+      "album": {
         "name": "A Tu Manera",
         "url": "https://open.spotify.com/album/2StLvH80masSd4Y4ZK3NP5"
       },
@@ -682,7 +700,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 253822,
       "name": "Alg\u00fan D\u00eda Volver\u00e1s",
       "url": "https://open.spotify.com/track/6hww0d3JzXT89rK1Hu7HMv"
@@ -4195,6 +4213,24 @@
     },
     {
       "album": {
+        "name": "30 Cuecas",
+        "url": "https://open.spotify.com/album/4FmtkXKv581qdKHT4ksFTR"
+      },
+      "artists": [
+        {
+          "name": "Los Hermanos Campos",
+          "url": "https://open.spotify.com/artist/25iPZnrdjEMSYXjUxdfgc6"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135546,
+      "name": "El Guat\u00f3n Loyola",
+      "url": "https://open.spotify.com/track/5hbprTqXilqPGuytq83451"
+    },
+    {
+      "album": {
         "name": "K.O.B. Live",
         "url": "https://open.spotify.com/album/03Sa02WIHEwH8lHfbipmrz"
       },
@@ -5092,7 +5128,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 181277,
       "name": "Fuga",
       "url": "https://open.spotify.com/track/1nsSptqJG7xzP6vDgeoJ41"
@@ -5629,6 +5665,32 @@
     },
     {
       "album": {
+        "name": "ICE",
+        "url": "https://open.spotify.com/album/6dBanSrjmVc7bVHi9bqh00"
+      },
+      "artists": [
+        {
+          "name": "Jere Klein",
+          "url": "https://open.spotify.com/artist/35oGZihZclGoTVuICPXRP9"
+        },
+        {
+          "name": "Justin Quiles",
+          "url": "https://open.spotify.com/artist/14zUHaJZo1mnYtn6IBRaRP"
+        },
+        {
+          "name": "Adan La Amenaza",
+          "url": "https://open.spotify.com/artist/0dQUkvpKTvHbsTxXKcIN0S"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205360,
+      "name": "ICE",
+      "url": "https://open.spotify.com/track/6F0gdQ7Z1Zxt5Sq0EPt4Qc"
+    },
+    {
+      "album": {
         "name": "ORQU\u00cdDEAS",
         "url": "https://open.spotify.com/album/5U20AVSsUvycGtWip4XQfo"
       },
@@ -6108,7 +6170,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2025-09-27",
+      "date_removed": null,
       "duration_ms": 127613,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/4TUMZBtQISdb2NUiaEMemd"
@@ -6552,6 +6614,24 @@
       "duration_ms": 250149,
       "name": "Llora (Para Mam\u00e1)",
       "url": "https://open.spotify.com/track/0kztjyLUak6pMWBr1cpMjA"
+    },
+    {
+      "album": {
+        "name": "Los Chamantos de Mi Chile",
+        "url": "https://open.spotify.com/album/77xDjdwYz3oY1Vv2hSv3Gy"
+      },
+      "artists": [
+        {
+          "name": "Maihuen de los Angeles",
+          "url": "https://open.spotify.com/artist/4vkOLg1AyJgDqF9xwLsgXR"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131106,
+      "name": "Llorando Ausencia",
+      "url": "https://open.spotify.com/track/0oYhhckOA2JrLprhgPV3Ot"
     },
     {
       "album": {
@@ -7390,7 +7470,7 @@
       ],
       "date_added": "2025-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 205714,
       "name": "Me Reh\u00faso",
       "url": "https://open.spotify.com/track/6ifUES3keWjwXgae8pXI3o"
@@ -8816,7 +8896,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 250000,
       "name": "Ojos Brujos",
       "url": "https://open.spotify.com/track/0nlOi8arjQH6MSaC9zKkeq"
@@ -8994,7 +9074,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 191560,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/19CmuECYssqkPWANF4nLWM"
@@ -9290,7 +9370,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 184000,
       "name": "Perm\u00edtame",
       "url": "https://open.spotify.com/track/6OaGIYcVzx5c7aEKkuYS1M"
@@ -10058,7 +10138,7 @@
       ],
       "date_added": "2025-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-15",
+      "date_removed": null,
       "duration_ms": 175694,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/6Sqm0JcOT9tw6Az1dDZ2WC"
@@ -10910,7 +10990,7 @@
       ],
       "date_added": "2025-06-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 195824,
       "name": "Si Antes Te Hubiera Conocido",
       "url": "https://open.spotify.com/track/73scB4Q4fcOmnsBVZPmk32"
@@ -11838,6 +11918,24 @@
       "duration_ms": 201027,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/0vfPiExVUcECwzpQ3vfV0R"
+    },
+    {
+      "album": {
+        "name": "La Vida En Versos",
+        "url": "https://open.spotify.com/album/0MIvQzYZg9LJUDQURmM7Tl"
+      },
+      "artists": [
+        {
+          "name": "Entremares",
+          "url": "https://open.spotify.com/artist/7KPcBMsOzS2QvKzkjj1kxU"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 116934,
+      "name": "Te Amo En Silencio",
+      "url": "https://open.spotify.com/track/01aHmEjy11tWEVwUKRWnR9"
     },
     {
       "album": {
@@ -13176,7 +13274,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 269596,
       "name": "WO OH OH",
       "url": "https://open.spotify.com/track/0h54mLixODOqU6vTcZMqVM"
@@ -13652,7 +13750,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 216506,
       "name": "\u2060LUCES DE COLORES",
       "url": "https://open.spotify.com/track/5dDlknAL9imbXXl7uG7oqe"

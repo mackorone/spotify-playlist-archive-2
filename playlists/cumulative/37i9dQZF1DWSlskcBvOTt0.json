@@ -1186,7 +1186,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 176545,
       "name": "Allo",
       "url": "https://open.spotify.com/track/0KulM7tmm7fqNUORBooiXg"
@@ -8505,6 +8505,28 @@
     },
     {
       "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/6h2YCNXUNfDkHmTqVheOhE"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Astr\u00f8",
+          "url": "https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177098,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/6NZpSV9wwvtGLQUynf3ofk"
+    },
+    {
+      "album": {
         "name": "Giza",
         "url": "https://open.spotify.com/album/5X04fNVdcHNUNgqFFK1iPw"
       },
@@ -8652,10 +8674,32 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 231774,
       "name": "Gotta Be Cool",
       "url": "https://open.spotify.com/track/0BYTKcBcRU9w9S8QqbTIUR"
+    },
+    {
+      "album": {
+        "name": "Gotta Be Cool (Luch Remix)",
+        "url": "https://open.spotify.com/album/0wuSilFBnY1ZHmKLM2OuDL"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        },
+        {
+          "name": "Luch",
+          "url": "https://open.spotify.com/artist/0Jp7EXwEqkmsUO7eu9kbbp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182903,
+      "name": "Gotta Be Cool - Luch Remix",
+      "url": "https://open.spotify.com/track/6jtVPskUWZSDBtotyrfzzX"
     },
     {
       "album": {
@@ -13000,6 +13044,24 @@
       "duration_ms": 192780,
       "name": "Lost In The Mellow Circus",
       "url": "https://open.spotify.com/track/490WOBHMpwktztXilZOcdr"
+    },
+    {
+      "album": {
+        "name": "Lost Keys",
+        "url": "https://open.spotify.com/album/2AlktZkNdjjqBin6GT7uku"
+      },
+      "artists": [
+        {
+          "name": "Alex Wann",
+          "url": "https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168387,
+      "name": "Lost Keys",
+      "url": "https://open.spotify.com/track/42cB9RkUjlxkU2jlarBYBb"
     },
     {
       "album": {
@@ -25864,7 +25926,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 130000,
       "name": "you love me",
       "url": "https://open.spotify.com/track/1tD762Wdgt43yznHd2I4ST"

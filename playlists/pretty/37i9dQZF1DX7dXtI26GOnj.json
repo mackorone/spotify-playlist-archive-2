@@ -1,12 +1,12 @@
 {
   "description": "Todo o calor latino aqui! Ay ay ay \ud83d\udd25  foto: Rauw Alejandro",
-  "num_followers": 247492,
+  "num_followers": 247503,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHcW/IN5Bz7AxWyBGaNcLGVJsTkn",
+  "snapshot_id": "AAAAABbNb7cJJUpejYvJd8La7omLZEZr",
   "tracks": [
     {
       "added_at": "2026-09-18 03:00:12",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-09-18 03:00:12",
       "album": {
+        "name": "Rio",
+        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 188386,
+      "name": "Rio",
+      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
+    },
+    {
+      "added_at": "2026-09-18 03:00:12",
+      "album": {
         "name": "T\u00cdMIDA, SANTA Y PELIGROSA",
         "url": "https://open.spotify.com/album/5Mc458p3XeHN1pljpu8rUY"
       },
@@ -903,22 +919,6 @@
       "duration_ms": 126722,
       "name": "T\u00cdMIDA, SANTA Y PELIGROSA",
       "url": "https://open.spotify.com/track/6yhlBas06D4GJ7hLWod9gH"
-    },
-    {
-      "added_at": "2026-09-18 03:00:12",
-      "album": {
-        "name": "Rio",
-        "url": "https://open.spotify.com/album/0EEQ93KABmtc6GFkyBV0sl"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 188386,
-      "name": "Rio",
-      "url": "https://open.spotify.com/track/4c6yjn6FdNfuRltmPFciJh"
     },
     {
       "added_at": "2026-09-18 03:00:12",
@@ -979,6 +979,26 @@
     {
       "added_at": "2026-09-18 03:00:12",
       "album": {
+        "name": "Pal Agua",
+        "url": "https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Ryan Castro",
+          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
+        }
+      ],
+      "duration_ms": 206296,
+      "name": "Pal Agua",
+      "url": "https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0"
+    },
+    {
+      "added_at": "2026-09-18 03:00:12",
+      "album": {
         "name": "Enemigos",
         "url": "https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1"
       },
@@ -999,26 +1019,6 @@
       "duration_ms": 201254,
       "name": "Enemigos",
       "url": "https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2"
-    },
-    {
-      "added_at": "2026-09-18 03:00:12",
-      "album": {
-        "name": "Pal Agua",
-        "url": "https://open.spotify.com/album/3uOpta5cUNTRP3HFJzFMyt"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Ryan Castro",
-          "url": "https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz"
-        }
-      ],
-      "duration_ms": 206296,
-      "name": "Pal Agua",
-      "url": "https://open.spotify.com/track/5oG6xYYuukHrsK1SLagCn0"
     },
     {
       "added_at": "2026-09-18 03:00:12",

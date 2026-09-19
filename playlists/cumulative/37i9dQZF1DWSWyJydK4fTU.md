@@ -4,7 +4,7 @@
 
 > darf man so ?? \(in den tag starten, kurz leben leben, bisschen pause machen\)
 
-410 songs - 20 hr 46 min
+410 songs - 20 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -185,6 +185,7 @@
 | [I Think I Like You Better When You’re Gone](https://open.spotify.com/track/3hBzKgqQKkChH9hyb3MhmT) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [BITE ME](https://open.spotify.com/album/6ULnaZahd0zTGVUBVQO6mN) | 2:23 | 2025-08-29 | 2026-01-31 |
 | [I Thought I Saw Your Face Today](https://open.spotify.com/track/0myRViRgmQ3J8izICXEAVO) | [She & Him](https://open.spotify.com/artist/3CIRif6ZAedT7kZSPvj2A4) | [Volume One](https://open.spotify.com/album/4eeQtydrFe5HEIgzNkX4S7) | 2:50 | 2026-01-02 | 2026-02-06 |
 | [I Want You](https://open.spotify.com/track/59sRxIltnBLAWzaTeV05xd) | [David Puentez](https://open.spotify.com/artist/4gSsv9FQDyXx0GUkZYha7v), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [I Want You](https://open.spotify.com/album/7Dq0zfGilniudyVzvZg3rn) | 2:53 | 2024-06-20 | 2024-08-03 |
+| [I Wish I Never Met You](https://open.spotify.com/track/0DZrttPj3g3XEyiTTRnLZd) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Crunchy, Sad and Strangely Happy](https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx) | 3:44 | 2026-09-17 |  |
 | [I'd Rather Pretend](https://open.spotify.com/track/4rJHH484bHZDts51o5i2CB) | [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [VANITY](https://open.spotify.com/album/3vKrt8nMzrqcjUf7rdeA3g) | 3:04 | 2024-08-07 | 2024-11-28 |
 | [I'm Still Here](https://open.spotify.com/track/42QSbLEWLo0RhXG7hwwpdF) | [COSBY](https://open.spotify.com/artist/7lNukQP9I2H6JmLcXrfmEv) | [I'm Still Here](https://open.spotify.com/album/0z4QvnPCIs6WlseyZoaW8Y) | 2:59 | 2025-02-27 | 2025-08-30 |
 | [ich dich auch <3](https://open.spotify.com/track/28yuOJf8EYSpW17tYeDvBD) | [Charlotte Kudella](https://open.spotify.com/artist/237KrHWanV4SzWmqWRdpyg) | [ich dich auch <3](https://open.spotify.com/album/1djXO1sknHyZvQ4oMEUx6D) | 2:45 | 2026-01-23 | 2026-05-16 |
@@ -372,7 +373,6 @@
 | [Too Busy Missing You](https://open.spotify.com/track/1H2kXCdkoYqLjS0iKbWryR) | [Asha Banks](https://open.spotify.com/artist/2uDFxcjRQnf8mjFwfqieSw) | [Too Busy Missing You](https://open.spotify.com/album/1VybD1PFxWJkD80YiM3NfU) | 3:25 | 2026-05-19 |  |
 | [Too Sweet](https://open.spotify.com/track/3HMY0r2BAdpasXMY8rseR0) | [Hozier](https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS) | [Unheard](https://open.spotify.com/album/6rjpYHZwFktbc0RCiTfEG6) | 4:11 | 2024-06-20 | 2024-10-04 |
 | [Touch Me](https://open.spotify.com/track/74lOK0Z3WKvTpK8W8Srj1d) | [ÁSDÍS](https://open.spotify.com/artist/28y5ZcfpdZAfeEE5ftCfUg) | [Touch Me](https://open.spotify.com/album/0W1CKVUL1yAWcIwWzA4Ztt) | 3:23 | 2025-03-25 | 2025-08-02 |
-| [Track 4](https://open.spotify.com/track/0DZrttPj3g3XEyiTTRnLZd) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Crunchy, Sad and Strangely Happy](https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx) | 0:00 | 2026-09-17 |  |
 | [Traitor](https://open.spotify.com/track/7B4BgTFefaJ6VPcsXvMmq0) | [Zoe Wees](https://open.spotify.com/artist/03d2mJXSMtuPI0nIvLnhoS) | [Traitor](https://open.spotify.com/album/5MmR536vGgyvldeiZS7HVh) | 2:27 | 2025-02-07 | 2025-08-02 |
 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 | 2026-07-23 |  |
 | [TYRANT](https://open.spotify.com/track/5mUlozUYpdmXVPkj4BW8cA) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Dolly Parton](https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 4:10 | 2025-07-10 | 2025-12-04 |

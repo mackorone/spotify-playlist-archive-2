@@ -2,7 +2,7 @@
 
 ### [Klangphonics Radio](https://open.spotify.com/playlist/37i9dQZF1E4EMdfaADzDUr)
 
-> With GONE, Douran, After Cooking and more
+> With After Cooking, GONE, Douran and more
 
 334 songs - 1 day 1 hr 39 min
 

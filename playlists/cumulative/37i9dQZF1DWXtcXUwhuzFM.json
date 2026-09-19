@@ -64837,6 +64837,28 @@
     },
     {
       "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
+    },
+    {
+      "album": {
         "name": "Get Go",
         "url": "https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ"
       },
@@ -99850,6 +99872,28 @@
       "duration_ms": 287472,
       "name": "Kaikki kaunis",
       "url": "https://open.spotify.com/track/4nJt0gIlFgqrDpeVKGFwlY"
+    },
+    {
+      "album": {
+        "name": "Kaikki Kunnos",
+        "url": "https://open.spotify.com/album/5abijySksPUxJduZAfjEOn"
+      },
+      "artists": [
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        },
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160350,
+      "name": "Kaikki Kunnos",
+      "url": "https://open.spotify.com/track/3lFVihVnqjVOTABmwtnpLs"
     },
     {
       "album": {
@@ -148005,6 +148049,24 @@
     },
     {
       "album": {
+        "name": "Not Afraid",
+        "url": "https://open.spotify.com/album/3iAWKop00Z82XxP3031f5Z"
+      },
+      "artists": [
+        {
+          "name": "JJ",
+          "url": "https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153120,
+      "name": "Not Afraid",
+      "url": "https://open.spotify.com/track/4iBb68KD6bL51N0Ku3q72V"
+    },
+    {
+      "album": {
         "name": "NOT AGAIN",
         "url": "https://open.spotify.com/album/3T5gWUkNXCrhPtx1qpdgBJ"
       },
@@ -148544,6 +148606,28 @@
       "duration_ms": 213283,
       "name": "Nothing I Need",
       "url": "https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4"
+    },
+    {
+      "album": {
+        "name": "Nothing Into Something",
+        "url": "https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH"
+      },
+      "artists": [
+        {
+          "name": "Coi Leray",
+          "url": "https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s"
+        },
+        {
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141885,
+      "name": "Nothing Into Something",
+      "url": "https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2"
     },
     {
       "album": {

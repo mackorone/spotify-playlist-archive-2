@@ -4189,6 +4189,24 @@
     },
     {
       "album": {
+        "name": "Mending Wall",
+        "url": "https://open.spotify.com/album/1yVKdwUc4z2WJZoApRdY6s"
+      },
+      "artists": [
+        {
+          "name": "Sven Simons",
+          "url": "https://open.spotify.com/artist/6OaZTQIF7xhBOSNSj3D1PU"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143777,
+      "name": "Mending Wall",
+      "url": "https://open.spotify.com/track/7tdnauJhZjAn3THCaa5thS"
+    },
+    {
+      "album": {
         "name": "Millst\u00e4tter See",
         "url": "https://open.spotify.com/album/6f5YB6Y0Ic0ixZ85lsibUG"
       },
@@ -4420,6 +4438,24 @@
       "duration_ms": 117500,
       "name": "Mulholland Drive",
       "url": "https://open.spotify.com/track/0NC6A6tgBtSpxAj0qYFZrS"
+    },
+    {
+      "album": {
+        "name": "My favorite flower",
+        "url": "https://open.spotify.com/album/4iLbT8UdyfjyQcTT56hZwG"
+      },
+      "artists": [
+        {
+          "name": "J. Kahnberg",
+          "url": "https://open.spotify.com/artist/2aLfgyCUwAWVDqwmtjyJxs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155618,
+      "name": "My favorite flower",
+      "url": "https://open.spotify.com/track/7kQPoZ9q5p0hin7xz4Xrg2"
     },
     {
       "album": {
@@ -5028,7 +5064,7 @@
       ],
       "date_added": "2024-04-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 129442,
       "name": "Quiet times",
       "url": "https://open.spotify.com/track/46I0z7KOabwM2XNLZNgYkH"
@@ -5752,6 +5788,24 @@
       "duration_ms": 136766,
       "name": "Slowly Rising",
       "url": "https://open.spotify.com/track/6uQxV9Y845sCOJju5miIXy"
+    },
+    {
+      "album": {
+        "name": "Snow Melting",
+        "url": "https://open.spotify.com/album/4dmET3EZcXsra2imoUF6xH"
+      },
+      "artists": [
+        {
+          "name": "Antonio Boulevard",
+          "url": "https://open.spotify.com/artist/41RSV4AuIGcLiAUFwrXMm3"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 127047,
+      "name": "Snow Melting",
+      "url": "https://open.spotify.com/track/4Y2vqXkbcr0OIVuEcqMQHI"
     },
     {
       "album": {

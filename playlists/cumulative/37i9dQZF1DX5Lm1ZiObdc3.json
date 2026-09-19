@@ -1883,6 +1883,36 @@
     },
     {
       "album": {
+        "name": "Mozart: Piano Concertos Nos. 20, KV 466 & 22, KV 482",
+        "url": "https://open.spotify.com/album/30PWTcje2ksObaNN3jUnzY"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Marie-Ange Nguci",
+          "url": "https://open.spotify.com/artist/0hU8mQhxARTAQjtnmF9fqS"
+        },
+        {
+          "name": "Mozarteum Orchestra Salzburg",
+          "url": "https://open.spotify.com/artist/7m5yQHpGKbm9YHcUdrZElN"
+        },
+        {
+          "name": "Howard Griffiths",
+          "url": "https://open.spotify.com/artist/6htlEU4z5WGJCDAkOFGGDq"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 744539,
+      "name": "Piano Concerto No. 22 in E-Flat Major, KV 482: III. Allegro \u2013 Andante Cantabile \u2013 Tempo I (Cadenzas by Johann Nepomuk Hummel)",
+      "url": "https://open.spotify.com/track/39Tv90zkU31Js7swNyRRyl"
+    },
+    {
+      "album": {
         "name": "Mozart: Piano Concerto No. 27 in B-Flat Major, KV 595: III. Rondo. Allegro (Cadenzas by Wolfgang Amadeus Mozart)",
         "url": "https://open.spotify.com/album/6fPQ0nYOT3izNxVe9li5hg"
       },
@@ -3378,6 +3408,36 @@
       "duration_ms": 275424,
       "name": "Waltz of the Fireflies",
       "url": "https://open.spotify.com/track/3Sb3HliyVL8ODw3CaTes5q"
+    },
+    {
+      "album": {
+        "name": "Weber: Clarinet Concertino, Op. 26: II. Andante",
+        "url": "https://open.spotify.com/album/4p1vhHZmKC7ZYPCEa5xffa"
+      },
+      "artists": [
+        {
+          "name": "Carl Maria von Weber",
+          "url": "https://open.spotify.com/artist/1p6wR69pnH9LBWZvwliuz2"
+        },
+        {
+          "name": "Pierre G\u00e9nisson",
+          "url": "https://open.spotify.com/artist/0tF4SmLJvn3gTurPM8TWC2"
+        },
+        {
+          "name": "Mozarteum Orchestra Salzburg",
+          "url": "https://open.spotify.com/artist/7m5yQHpGKbm9YHcUdrZElN"
+        },
+        {
+          "name": "G\u00e1bor Tak\u00e1cs-Nagy",
+          "url": "https://open.spotify.com/artist/2N3D7VKnPPIVk1lCNeZB8v"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252773,
+      "name": "Weber: Clarinet Concertino in E-Flat Major, Op. 26, J. 109: II. Andante",
+      "url": "https://open.spotify.com/track/5p36VfOxrzjSY1YiNrheyO"
     },
     {
       "album": {

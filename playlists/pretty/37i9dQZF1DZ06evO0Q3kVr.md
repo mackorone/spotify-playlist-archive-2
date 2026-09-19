@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 
 > This is Banda Bostik\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,809 likes - 50 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,811 likes - 50 songs - 3 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,17 +46,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0Q3kVr.md) - [plain]
 | 36 | [Tocando Fondo](https://open.spotify.com/track/1PTYtaCMIEJXvw3Y7gXXeW) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Hipotecados](https://open.spotify.com/album/7gVOPdYbUUcCEp7YzorFFs) | 6:33 |
 | 37 | [Redada](https://open.spotify.com/track/6A5YgDerg860DaXXDvBJxU) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 3:21 |
 | 38 | [Guerrillero](https://open.spotify.com/track/7vW9d63iftut4OaD1IVv17) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:43 |
-| 39 | [Ángel O Demonio](https://open.spotify.com/track/3aO9vK7A4YJIIjv1lOtDS2) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ángel O Demonio](https://open.spotify.com/album/4jmI2DrYtXmRjzqFo4hRBU) | 5:57 |
-| 40 | [Pandillero, Pt\. 1](https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:56 |
-| 41 | [Rateros Con Placas](https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 3:33 |
+| 39 | [Pandillero, Pt\. 1](https://open.spotify.com/track/1LB8vVSpazzZ9pQ0VzGuAj) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:56 |
+| 40 | [Rateros Con Placas](https://open.spotify.com/track/11ctA2XRw5P9MDwYsBCWn3) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 3:33 |
+| 41 | [Ladrón del Barrio](https://open.spotify.com/track/6rqBDztqwUSqcFueev5vTc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 6:21 |
 | 42 | [Perra Callejera](https://open.spotify.com/track/7C7wEPaOqPOI1ki0UUv6y9) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 2:21 |
-| 43 | [Ladrón del Barrio](https://open.spotify.com/track/6rqBDztqwUSqcFueev5vTc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [15 Éxitos](https://open.spotify.com/album/75qmnaAXlMCRlgG4ydpsbV) | 6:21 |
-| 44 | [Pandillero, Pt\. 2](https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:33 |
-| 45 | [Jesús de Nazaret](https://open.spotify.com/track/3zCuGv2PsLWmYfvenD4CXz) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 7:12 |
+| 43 | [Pandillero, Pt\. 2](https://open.spotify.com/track/2jzXiiFmGO0ITTDntM0uiX) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:33 |
+| 44 | [Jesús de Nazaret](https://open.spotify.com/track/3zCuGv2PsLWmYfvenD4CXz) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Ataca de Nuevo: En Vivo, Vol\. 2](https://open.spotify.com/album/2Yqdp2ibr3M8sqxZNGx3zu) | 7:12 |
+| 45 | [Reyes De La Noche](https://open.spotify.com/track/0IK9DXfp9pc3ZeyDpHzAHI) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Reyes De La Noche](https://open.spotify.com/album/4hGvyK2FVhx4xo8zzVoabc) | 4:18 |
 | 46 | [Mi Amigo Manuel](https://open.spotify.com/track/0UMy7gWkj930S829cgLNns) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:37 |
-| 47 | [Reyes De La Noche](https://open.spotify.com/track/0IK9DXfp9pc3ZeyDpHzAHI) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Reyes De La Noche](https://open.spotify.com/album/4hGvyK2FVhx4xo8zzVoabc) | 4:18 |
-| 48 | [Tlaltelolco 68](https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [20 Aniversario, Vol\. 2 \(Rock de la Banda para la Banda\)](https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC) | 5:18 |
-| 49 | [La Rola De Jhony](https://open.spotify.com/track/497VfiYZ0o95KXOAAC2fgs) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2) | 4:15 |
+| 47 | [Tlaltelolco 68](https://open.spotify.com/track/75MJBxhJ5nLXTBllGI5dwP) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [20 Aniversario, Vol\. 2 \(Rock de la Banda para la Banda\)](https://open.spotify.com/album/6jMTR49Z5XHpUlkvEEaIhC) | 5:18 |
+| 48 | [La Rola De Jhony](https://open.spotify.com/track/497VfiYZ0o95KXOAAC2fgs) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Trascendencia](https://open.spotify.com/album/4jmPxbPJv4AkuZojpTHaO2) | 4:15 |
+| 49 | [Maribel](https://open.spotify.com/track/24R36ZDhCWbXsucZwm4LBc) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Capturados](https://open.spotify.com/album/3yAAIY2FjKw8IkOVTEguWu) | 3:11 |
 | 50 | [Genoma Humano](https://open.spotify.com/track/1jAyWABMqibGhIkkkRpsBh) | [Banda Bostik](https://open.spotify.com/artist/1vWDEM03uVWmO7jSuBd2nO) | [Genoma Humano](https://open.spotify.com/album/7vN4m21unn7Fy7splGXC62) | 3:41 |
 
-Snapshot ID: `aqncAAAAAADxb5koJ72HKC3qJNhV1QcI`
+Snapshot ID: `aqstgAAAAAAE/QFiRUqrMs84NoVCkQxx`

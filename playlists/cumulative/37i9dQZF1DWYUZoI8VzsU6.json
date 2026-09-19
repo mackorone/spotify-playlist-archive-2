@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-09-06",
-  "description": "back roads up loud with Fox N' Vead",
+  "description": "back roads up loud with Treaty Oak Revival",
   "name": "GRAVEL",
   "tracks": [
     {
@@ -226,10 +226,28 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 215720,
       "name": "Bowery (feat. Kings of Leon)",
       "url": "https://open.spotify.com/track/0q3jlKYRjRw24PjrAwow1H"
+    },
+    {
+      "album": {
+        "name": "Break",
+        "url": "https://open.spotify.com/album/1aCo2xuHsV1gJz3tdlSg3Z"
+      },
+      "artists": [
+        {
+          "name": "Fox N' Vead",
+          "url": "https://open.spotify.com/artist/6b2SGANlOJdvJ9imgsVrSm"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196300,
+      "name": "Break",
+      "url": "https://open.spotify.com/track/0n0IZRf9c5wSfwWc6XORTd"
     },
     {
       "album": {
@@ -435,6 +453,24 @@
     },
     {
       "album": {
+        "name": "Doing Time",
+        "url": "https://open.spotify.com/album/63CRNTgYWSf4tyavNFnqRR"
+      },
+      "artists": [
+        {
+          "name": "Gannon Fremin & CCREV",
+          "url": "https://open.spotify.com/artist/0P3JEHMidLKLqAHuFd7Qf8"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160221,
+      "name": "Doing Time",
+      "url": "https://open.spotify.com/track/29MC8FA2ePMFv6zlRa1oMR"
+    },
+    {
+      "album": {
         "name": "Dust Till Dawn",
         "url": "https://open.spotify.com/album/3SqnkOUBHjugq0J7VvSv4u"
       },
@@ -558,7 +594,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 178440,
       "name": "Halfway To Hell",
       "url": "https://open.spotify.com/track/3EON33SUQai62FI5Sv0gPT"
@@ -771,6 +807,24 @@
     },
     {
       "album": {
+        "name": "Live From Louisiana",
+        "url": "https://open.spotify.com/album/0a1xX5K7XoCJnlKhT1mWbs"
+      },
+      "artists": [
+        {
+          "name": "Sam Donald",
+          "url": "https://open.spotify.com/artist/33HvGTT4l89zxUyt5VTFJs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172450,
+      "name": "Live From Louisiana",
+      "url": "https://open.spotify.com/track/6BUMfKM7O9MwMnfrOzah7X"
+    },
+    {
+      "album": {
         "name": "M.I.A",
         "url": "https://open.spotify.com/album/1K9hq2qxMtxu1LwJJmqywc"
       },
@@ -782,7 +836,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 186858,
       "name": "M.I.A",
       "url": "https://open.spotify.com/track/0h45L8tQrb6lwrQHUQovNn"
@@ -800,7 +854,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 153520,
       "name": "Make It Look Easy",
       "url": "https://open.spotify.com/track/2g6WCOlZS7mePH81Bxxa9s"
@@ -956,7 +1010,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 173289,
       "name": "Next Week",
       "url": "https://open.spotify.com/track/0r54Tm572IfsTmt0qXpJQO"
@@ -992,10 +1046,32 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 241375,
       "name": "Ode To Bourbon",
       "url": "https://open.spotify.com/track/4kvCtReby19JPkePLwy8Pq"
+    },
+    {
+      "album": {
+        "name": "One More Hurt (feat. Wyatt Flores)",
+        "url": "https://open.spotify.com/album/2erqDxjGyFqtnRMhHZO086"
+      },
+      "artists": [
+        {
+          "name": "80 ACRES",
+          "url": "https://open.spotify.com/artist/4mu142ay8RgOF0nPulRo8b"
+        },
+        {
+          "name": "Wyatt Flores",
+          "url": "https://open.spotify.com/artist/46lEQmDJLJeyltECJYJv1Y"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232516,
+      "name": "One More Hurt (feat. Wyatt Flores)",
+      "url": "https://open.spotify.com/track/0l6NdeHB070R90KU5RswP7"
     },
     {
       "album": {
@@ -1010,7 +1086,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 234771,
       "name": "Open the Gate",
       "url": "https://open.spotify.com/track/6pamafD9p0K7FHfJPz6TYF"
@@ -1176,7 +1252,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 244179,
       "name": "Rabbit Hole",
       "url": "https://open.spotify.com/track/3uvbS1Zckk8ZnHEfYcnDPx"
@@ -1230,7 +1306,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 198880,
       "name": "Ride",
       "url": "https://open.spotify.com/track/53VPFVW3aLdNlb4gNetXwS"
@@ -1252,7 +1328,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 172586,
       "name": "Right Now",
       "url": "https://open.spotify.com/track/1C28jPzvhdWeyfNrkPaa2Z"
@@ -1490,7 +1566,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 172125,
       "name": "Thoughts of You",
       "url": "https://open.spotify.com/track/0Xw2qqQDAm2uDJZI02UDix"
@@ -1584,7 +1660,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 197207,
       "name": "We're About To Break Up",
       "url": "https://open.spotify.com/track/7wTiCVNU7EH8gm9pLByjF3"
@@ -1620,7 +1696,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 199733,
       "name": "Wild as Her",
       "url": "https://open.spotify.com/track/4RG7P0CXQ4pe0OeCAHjX5L"
@@ -1660,6 +1736,24 @@
       "duration_ms": 163871,
       "name": "Wolves Cry",
       "url": "https://open.spotify.com/track/39SzkM3x0JGY6b7HV0wi4E"
+    },
+    {
+      "album": {
+        "name": "Your Loss, My Misery",
+        "url": "https://open.spotify.com/album/06HXoU2AWWXKlCbVYSsOjh"
+      },
+      "artists": [
+        {
+          "name": "Matthew Goodnough",
+          "url": "https://open.spotify.com/artist/71RxMNbsv5s7P10ibbYlkk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 265496,
+      "name": "Your Loss, My Misery",
+      "url": "https://open.spotify.com/track/617Zo7h4ptIk54rioUcaRO"
     }
   ],
   "url": "https://open.spotify.com/playlist/37i9dQZF1DWYUZoI8VzsU6"

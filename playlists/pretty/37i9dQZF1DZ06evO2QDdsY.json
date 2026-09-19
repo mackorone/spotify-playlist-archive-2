@@ -1,12 +1,12 @@
 {
   "description": "This is Valerie June. The essential tracks, all in one playlist.",
-  "num_followers": 16917,
+  "num_followers": 16918,
   "original_name": "This Is Valerie June",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAABMHkDwNjSx5vR3DCUBK7CP",
+  "snapshot_id": "aqstgAAAAADxqirdjr76JPlSqto9TUkN",
   "tracks": [
     {
       "added_at": null,
@@ -623,8 +623,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Moon And Stars: Prescriptions For Dreamers",
-        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
+        "name": "Brighter Blue",
+        "url": "https://open.spotify.com/album/6yI3LmZnE098Pxfa102pIS"
       },
       "artists": [
         {
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 198586,
-      "name": "Fallin'",
-      "url": "https://open.spotify.com/track/6MDmdCyYOIxgwRrohXy1CI"
+      "duration_ms": 188164,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/0ilZ7oUP9WaySwnJASgZQs"
     },
     {
       "added_at": null,
@@ -659,22 +659,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tyrannosaur",
-        "url": "https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB"
+        "name": "The Moon And Stars: Prescriptions For Dreamers",
+        "url": "https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO"
       },
       "artists": [
-        {
-          "name": "Sachal Vasandani",
-          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
-        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 199642,
-      "name": "Tyrannosaur",
-      "url": "https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3"
+      "duration_ms": 198586,
+      "name": "Fallin'",
+      "url": "https://open.spotify.com/track/6MDmdCyYOIxgwRrohXy1CI"
     },
     {
       "added_at": null,
@@ -695,18 +691,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brighter Blue",
-        "url": "https://open.spotify.com/album/6yI3LmZnE098Pxfa102pIS"
+        "name": "Tyrannosaur",
+        "url": "https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB"
       },
       "artists": [
+        {
+          "name": "Sachal Vasandani",
+          "url": "https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr"
+        },
         {
           "name": "Valerie June",
           "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 188164,
-      "name": "I'll Fly Away",
-      "url": "https://open.spotify.com/track/0ilZ7oUP9WaySwnJASgZQs"
+      "duration_ms": 199642,
+      "name": "Tyrannosaur",
+      "url": "https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3"
     },
     {
       "added_at": null,

@@ -1,13 +1,81 @@
 {
-  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with J. Worra",
-  "num_followers": 1814299,
+  "description": "Tomorrow's <a href=\"spotify:playlist:37i9dQZF1DX4dyzvuaRJ0n\">dance hits</a>, with Mesto",
+  "num_followers": 1814177,
   "original_name": "Dance Rising",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKxBSv0dVc1Zv9ZjJYBsJ6Wb/Zal",
+  "snapshot_id": "AAAAAOFyK61bULB6qwipOwj6e9bvxrhM",
   "tracks": [
+    {
+      "added_at": "2026-09-18 04:01:48",
+      "album": {
+        "name": "Freak",
+        "url": "https://open.spotify.com/album/667tkdMNb9tR0R68FPsdQP"
+      },
+      "artists": [
+        {
+          "name": "Mesto",
+          "url": "https://open.spotify.com/artist/0RViEWnZO2VhmY4oI0PhF9"
+        },
+        {
+          "name": "Ink",
+          "url": "https://open.spotify.com/artist/4ZhFCxPekpmV12n2xMeF2z"
+        }
+      ],
+      "duration_ms": 138750,
+      "name": "Freak",
+      "url": "https://open.spotify.com/track/1pJQFno9DA8ghYWMecImct"
+    },
+    {
+      "added_at": "2026-09-18 04:01:48",
+      "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/7irXcUZhy8nyX0YKQbagpv"
+      },
+      "artists": [
+        {
+          "name": "HAL\u014c",
+          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        }
+      ],
+      "duration_ms": 214696,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1"
+    },
+    {
+      "added_at": "2026-09-18 04:01:48",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7AraxEpTZr2hPUt04PR48N"
+      },
+      "artists": [
+        {
+          "name": "Joseph Capriati",
+          "url": "https://open.spotify.com/artist/7onsqSWPufMm5ZnUCECDpf"
+        },
+        {
+          "name": "GENNARO",
+          "url": "https://open.spotify.com/artist/0UVthdD1eqqsoNLX9ek4Xb"
+        }
+      ],
+      "duration_ms": 161250,
+      "name": "Control",
+      "url": "https://open.spotify.com/track/4LYES3lEMg5hwWNXFfqOad"
+    },
     {
       "added_at": "2026-09-11 04:01:31",
       "album": {
@@ -59,6 +127,26 @@
       "duration_ms": 186301,
       "name": "Broken Love",
       "url": "https://open.spotify.com/track/7dDyrOyL1NBPE8uUi217NO"
+    },
+    {
+      "added_at": "2026-09-18 04:01:48",
+      "album": {
+        "name": "Give Me A Minute",
+        "url": "https://open.spotify.com/album/6h2YCNXUNfDkHmTqVheOhE"
+      },
+      "artists": [
+        {
+          "name": "Sama (US)",
+          "url": "https://open.spotify.com/artist/1oWqftoeUVb2HeC7LdXXYm"
+        },
+        {
+          "name": "Astr\u00f8",
+          "url": "https://open.spotify.com/artist/31anju77mwSChYTKZYLxbZ"
+        }
+      ],
+      "duration_ms": 177098,
+      "name": "Give Me A Minute",
+      "url": "https://open.spotify.com/track/6NZpSV9wwvtGLQUynf3ofk"
     },
     {
       "added_at": "2026-09-11 04:01:31",
@@ -317,6 +405,38 @@
       "url": "https://open.spotify.com/track/6HTDX4qgjY6usYjtx18eWf"
     },
     {
+      "added_at": "2026-09-18 04:01:48",
+      "album": {
+        "name": "ROCK THE DISCO",
+        "url": "https://open.spotify.com/album/1x9bdn2Rjr5Y7d62C5N1zG"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "duration_ms": 181818,
+      "name": "ROCK THE DISCO",
+      "url": "https://open.spotify.com/track/5DkQxWX81nR4TtMOzW3o24"
+    },
+    {
+      "added_at": "2026-09-18 04:01:48",
+      "album": {
+        "name": "The Arrival",
+        "url": "https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl"
+      },
+      "artists": [
+        {
+          "name": "KDAY",
+          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
+        }
+      ],
+      "duration_ms": 211363,
+      "name": "As You Are",
+      "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
+    },
+    {
       "added_at": "2026-08-28 04:01:30",
       "album": {
         "name": "Breaking Point EP",
@@ -435,6 +555,26 @@
       "duration_ms": 195285,
       "name": "After The Rain",
       "url": "https://open.spotify.com/track/0rclr5nd7iwF4rJTYRLlJq"
+    },
+    {
+      "added_at": "2026-09-18 04:01:48",
+      "album": {
+        "name": "P \u2605 K I",
+        "url": "https://open.spotify.com/album/2y1prRtwVuujlCVYcbcwEg"
+      },
+      "artists": [
+        {
+          "name": "Ahadadream",
+          "url": "https://open.spotify.com/artist/3SvsaUFZZNgVZYKrcFgzWW"
+        },
+        {
+          "name": "ance.",
+          "url": "https://open.spotify.com/artist/5gARTVXOrWKJrKoTdJ9TKk"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "Koi Si",
+      "url": "https://open.spotify.com/track/0xy2uyNdYhF6lI9ipDkiIA"
     },
     {
       "added_at": "2026-09-04 04:00:58",
@@ -585,20 +725,20 @@
       "url": "https://open.spotify.com/track/5cghkAwcQt4ujKewPNIQ91"
     },
     {
-      "added_at": "2026-07-24 04:01:29",
+      "added_at": "2026-09-18 04:01:48",
       "album": {
-        "name": "Hey Everybody",
-        "url": "https://open.spotify.com/album/29o9pfqTU04YHmxCyOl1nT"
+        "name": "Baby Do You Wanna Bump",
+        "url": "https://open.spotify.com/album/1KnYyxYPqjIfIi6epO99wm"
       },
       "artists": [
         {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+          "name": "J\u00d8RD",
+          "url": "https://open.spotify.com/artist/2dhLVCzAEMbAu1SSkAoOGV"
         }
       ],
-      "duration_ms": 156498,
-      "name": "Hey Everybody",
-      "url": "https://open.spotify.com/track/25PFZE1QqJieWRIJOCk755"
+      "duration_ms": 214838,
+      "name": "Baby Do You Wanna Bump",
+      "url": "https://open.spotify.com/track/6dL7IcJKZsMk2ClvsW65GX"
     },
     {
       "added_at": "2026-09-04 04:00:58",
@@ -685,26 +825,6 @@
       "url": "https://open.spotify.com/track/5BPMItTjAsSOhOlDdftmhV"
     },
     {
-      "added_at": "2026-07-24 04:01:29",
-      "album": {
-        "name": "Whisper To Me",
-        "url": "https://open.spotify.com/album/45wZrMoCQ7BF8UhdedUwNv"
-      },
-      "artists": [
-        {
-          "name": "Jimi Jules",
-          "url": "https://open.spotify.com/artist/6RsLLSkSTcL4YrvgRcBTQd"
-        },
-        {
-          "name": "Modern Tales",
-          "url": "https://open.spotify.com/artist/5j34pD51tkc8KtqqYiBe8k"
-        }
-      ],
-      "duration_ms": 226896,
-      "name": "Whisper To Me",
-      "url": "https://open.spotify.com/track/4fJj5d2sms5UUsFyvrNjwr"
-    },
-    {
       "added_at": "2026-08-07 04:01:05",
       "album": {
         "name": "Beat Goes On",
@@ -763,22 +883,6 @@
       "duration_ms": 207187,
       "name": "7 Days",
       "url": "https://open.spotify.com/track/7Dukh87qwI5c0IB1UEAp73"
-    },
-    {
-      "added_at": "2026-07-31 04:01:37",
-      "album": {
-        "name": "Booty Roll",
-        "url": "https://open.spotify.com/album/52aBf5hDkajXwXkaIsnLJD"
-      },
-      "artists": [
-        {
-          "name": "SEBS",
-          "url": "https://open.spotify.com/artist/1IiulXLg9QcKr5GIwoEAnv"
-        }
-      ],
-      "duration_ms": 165675,
-      "name": "Booty Roll",
-      "url": "https://open.spotify.com/track/3fVnYcsWzLWc1iwplYUwOg"
     },
     {
       "added_at": "2026-08-14 04:00:44",
@@ -1061,26 +1165,6 @@
       "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
     },
     {
-      "added_at": "2026-07-24 04:01:29",
-      "album": {
-        "name": "Right Thing",
-        "url": "https://open.spotify.com/album/7H5iillfusVO8njfh7xBRH"
-      },
-      "artists": [
-        {
-          "name": "MALUGI",
-          "url": "https://open.spotify.com/artist/50udUOTR7dQUgyPwPuCLM6"
-        },
-        {
-          "name": "Paige Cavell",
-          "url": "https://open.spotify.com/artist/6K3xqGQiS7BLYG6llkAF24"
-        }
-      ],
-      "duration_ms": 215000,
-      "name": "Right Thing",
-      "url": "https://open.spotify.com/track/3iClibIjy24oX2tOGuBHYl"
-    },
-    {
       "added_at": "2026-09-04 04:00:58",
       "album": {
         "name": "Drop Your Spirit",
@@ -1095,6 +1179,30 @@
       "duration_ms": 198959,
       "name": "Drop Your Spirit",
       "url": "https://open.spotify.com/track/5sTUO2Ss8xNJc3t5LbcUCf"
+    },
+    {
+      "added_at": "2026-09-18 04:01:48",
+      "album": {
+        "name": "Niche Flex EP",
+        "url": "https://open.spotify.com/album/7aCKzsRIGIlWfrMEyD2M2b"
+      },
+      "artists": [
+        {
+          "name": "Sam Binga",
+          "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        }
+      ],
+      "duration_ms": 205104,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/0FeIdgocbmdrBHse3iWxGx"
     },
     {
       "added_at": "2026-07-10 04:01:25",
@@ -1131,22 +1239,6 @@
       "duration_ms": 175424,
       "name": "Italian Job",
       "url": "https://open.spotify.com/track/2AYebbKenqjmq5pOsn7L2o"
-    },
-    {
-      "added_at": "2026-07-24 04:01:29",
-      "album": {
-        "name": "Landslide",
-        "url": "https://open.spotify.com/album/0ljxqMO4RtUbN3XXyoDsUU"
-      },
-      "artists": [
-        {
-          "name": "Jamback",
-          "url": "https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB"
-        }
-      ],
-      "duration_ms": 182000,
-      "name": "Landslide",
-      "url": "https://open.spotify.com/track/5hW1f4Y2d0GXCJXkYsoiYI"
     },
     {
       "added_at": "2026-07-24 04:01:29",
@@ -1225,26 +1317,6 @@
       "url": "https://open.spotify.com/track/65C6n0hHXphRfKq0LIonih"
     },
     {
-      "added_at": "2026-09-11 04:01:31",
-      "album": {
-        "name": "MAXED OUT",
-        "url": "https://open.spotify.com/album/1B8dvAO5PtebTpskWvpXX2"
-      },
-      "artists": [
-        {
-          "name": "Jiqui",
-          "url": "https://open.spotify.com/artist/4Kf9ZowsOBySwBkaUNh2ut"
-        },
-        {
-          "name": "Lokal",
-          "url": "https://open.spotify.com/artist/6xA7gLda7ySE6nczMcHw3C"
-        }
-      ],
-      "duration_ms": 182535,
-      "name": "COME THRU",
-      "url": "https://open.spotify.com/track/0TDbrFbVeoA2hb865dI6pY"
-    },
-    {
       "added_at": "2026-07-31 04:01:37",
       "album": {
         "name": "140 MAFIA",
@@ -1289,22 +1361,6 @@
       "url": "https://open.spotify.com/track/4yaWWGx1sd1E6jWalOv08M"
     },
     {
-      "added_at": "2026-07-31 04:01:37",
-      "album": {
-        "name": "Little More (Body Action)",
-        "url": "https://open.spotify.com/album/3KB4mdLmrMq4vhNFqbcacm"
-      },
-      "artists": [
-        {
-          "name": "Sean Doron",
-          "url": "https://open.spotify.com/artist/1qc7Whymce7gEOJ92t4ocX"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "Little More (Body Action)",
-      "url": "https://open.spotify.com/track/7MMBk3p5G0SyPiNiUDgjPD"
-    },
-    {
       "added_at": "2026-07-24 04:01:29",
       "album": {
         "name": "Show Me",
@@ -1319,42 +1375,6 @@
       "duration_ms": 180000,
       "name": "Show Me",
       "url": "https://open.spotify.com/track/4UJPTK0oVnnLP7psav3x5R"
-    },
-    {
-      "added_at": "2026-07-24 04:01:29",
-      "album": {
-        "name": "Next to U",
-        "url": "https://open.spotify.com/album/6SYQg3WfLlnZujAcxV0eC4"
-      },
-      "artists": [
-        {
-          "name": "DJ_Dave",
-          "url": "https://open.spotify.com/artist/78ZgfyDjF59qBIWrGHRdme"
-        }
-      ],
-      "duration_ms": 176028,
-      "name": "Next to U",
-      "url": "https://open.spotify.com/track/5BHJmo8PQScGQA8QygEIfm"
-    },
-    {
-      "added_at": "2026-08-21 04:02:40",
-      "album": {
-        "name": ".com",
-        "url": "https://open.spotify.com/album/2jRSVSTR2jZeZlUhsnhadt"
-      },
-      "artists": [
-        {
-          "name": "Effie",
-          "url": "https://open.spotify.com/artist/5PIWabZPdU3YWRMbvD5nQJ"
-        },
-        {
-          "name": "Eurohead",
-          "url": "https://open.spotify.com/artist/33AVv5yXn7muCLbo0R378f"
-        }
-      ],
-      "duration_ms": 187384,
-      "name": ".com",
-      "url": "https://open.spotify.com/track/7IPGqUPDZwO2XvlwnKTBcC"
     },
     {
       "added_at": "2026-08-14 04:00:44",

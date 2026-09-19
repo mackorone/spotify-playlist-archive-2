@@ -1,12 +1,12 @@
 {
   "description": "The biggest songs of the 1950s. Cover: Elvis Presley",
-  "num_followers": 1883312,
+  "num_followers": 1883389,
   "original_name": "All Out 50s",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHOz5Z9rSPcYuztj9UpER7F/R1DF",
+  "snapshot_id": "AAAAAD+MYVBzWKe+d7JjwZTmtCvgh0zZ",
   "tracks": [
     {
       "added_at": "2024-09-06 14:23:51",
@@ -139,22 +139,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
-        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 171466,
-      "name": "I've Got a Woman",
-      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Unforgettable",
         "url": "https://open.spotify.com/album/7GBvXtxnvBluo2f4xBVNkm"
       },
@@ -171,18 +155,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+        "name": "Ray Charles (aka: Hallelujah, I Love Her So)",
+        "url": "https://open.spotify.com/album/0cw6Sv7IwZ87aLPPvNPSd0"
       },
       "artists": [
         {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
         }
       ],
-      "duration_ms": 126960,
-      "name": "La Bamba - Single Version",
-      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
+      "duration_ms": 171466,
+      "name": "I've Got a Woman",
+      "url": "https://open.spotify.com/track/2xar08Fq5xra2KKZs5Bw9j"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -199,6 +183,22 @@
       "duration_ms": 138948,
       "name": "Hound Dog",
       "url": "https://open.spotify.com/track/64Ny7djQ6rNJspquof2KoX"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 126960,
+      "name": "La Bamba - Single Version",
+      "url": "https://open.spotify.com/track/2aEeghgUcnu75tzcolFMfs"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -351,6 +351,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "Rock Around The Clock",
+        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
+      },
+      "artists": [
+        {
+          "name": "Bill Haley & His Comets",
+          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
+        }
+      ],
+      "duration_ms": 129893,
+      "name": "(We're Gonna) Rock Around The Clock",
+      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "Buddy Holly",
         "url": "https://open.spotify.com/album/4Qy0SOU9Jg7Td10K68SanP"
       },
@@ -367,22 +383,6 @@
       "duration_ms": 129120,
       "name": "Everyday",
       "url": "https://open.spotify.com/track/39lnzOIUCSNaQmgBHoz7rt"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "Rock Around The Clock",
-        "url": "https://open.spotify.com/album/2vB7uVHcRU4dmHeFQCTkSK"
-      },
-      "artists": [
-        {
-          "name": "Bill Haley & His Comets",
-          "url": "https://open.spotify.com/artist/3MFp4cYuYtTZe3d3xkLLbr"
-        }
-      ],
-      "duration_ms": 129893,
-      "name": "(We're Gonna) Rock Around The Clock",
-      "url": "https://open.spotify.com/track/1uRKT2LRANv4baowBWHfDS"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -563,22 +563,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Ritchie Valens",
-        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
-      },
-      "artists": [
-        {
-          "name": "Ritchie Valens",
-          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
-        }
-      ],
-      "duration_ms": 124586,
-      "name": "Come On, Let's Go",
-      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Shout!",
         "url": "https://open.spotify.com/album/3TU9a0ngwVYr7YRe5fJPVH"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 271983,
       "name": "Shout, Pts. 1 & 2",
       "url": "https://open.spotify.com/track/2ZNTPtYmAhN9vCwnAgqKn1"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "Ritchie Valens",
+        "url": "https://open.spotify.com/album/77UI8F1LuhiQaKIL1qOE1W"
+      },
+      "artists": [
+        {
+          "name": "Ritchie Valens",
+          "url": "https://open.spotify.com/artist/5Y9xEAGW4GwGJgbiI6W85P"
+        }
+      ],
+      "duration_ms": 124586,
+      "name": "Come On, Let's Go",
+      "url": "https://open.spotify.com/track/4cRfSR0QxDlXRHTKyEOu93"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -771,18 +771,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Fats Domino Swings",
-        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
+        "name": "Vintage Collections",
+        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
       },
       "artists": [
         {
-          "name": "Fats Domino",
-          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
+          "name": "Tennessee Ernie Ford",
+          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
         }
       ],
-      "duration_ms": 152200,
-      "name": "Ain't That A Shame",
-      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
+      "duration_ms": 158306,
+      "name": "Sixteen Tons",
+      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -803,18 +803,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Vintage Collections",
-        "url": "https://open.spotify.com/album/5qWqMyXJ9uOCl6vEIVKqBD"
+        "name": "Fats Domino Swings",
+        "url": "https://open.spotify.com/album/3vte37u7rIAmMZJwNyJSjf"
       },
       "artists": [
         {
-          "name": "Tennessee Ernie Ford",
-          "url": "https://open.spotify.com/artist/7u6FSuqT3SWE2kO8rNVjfp"
+          "name": "Fats Domino",
+          "url": "https://open.spotify.com/artist/09C0xjtosNAIXP36wTnWxd"
         }
       ],
-      "duration_ms": 158306,
-      "name": "Sixteen Tons",
-      "url": "https://open.spotify.com/track/3P6OwCX7Ofiaaqtvujb6i5"
+      "duration_ms": 152200,
+      "name": "Ain't That A Shame",
+      "url": "https://open.spotify.com/track/4ZfQwNx3FlCN07cnUvekh3"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
+        "name": "I Love You 1000 Times",
+        "url": "https://open.spotify.com/album/6hHrhFkL6GwZd11CHALzOR"
+      },
+      "artists": [
+        {
+          "name": "The Platters",
+          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
+        }
+      ],
+      "duration_ms": 166466,
+      "name": "Only You (And You Alone)",
+      "url": "https://open.spotify.com/track/3NhqNUMkRhHxEHbQ3bUaCc"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
         "name": "The Magic Of Jo Stafford",
         "url": "https://open.spotify.com/album/1kLGKgc8o8F3Kd4dgti9ka"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 126680,
       "name": "Ready Teddy",
       "url": "https://open.spotify.com/track/5wbZ3sbWf4PppzZiRxkxou"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
-        "name": "I Love You 1000 Times",
-        "url": "https://open.spotify.com/album/6hHrhFkL6GwZd11CHALzOR"
-      },
-      "artists": [
-        {
-          "name": "The Platters",
-          "url": "https://open.spotify.com/artist/6KWcxMWVNVIYbdOQyJtsSy"
-        }
-      ],
-      "duration_ms": 166466,
-      "name": "Only You (And You Alone)",
-      "url": "https://open.spotify.com/track/3NhqNUMkRhHxEHbQ3bUaCc"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1671,22 +1671,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "Rock 'N' Roll Legends",
-        "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
-      },
-      "artists": [
-        {
-          "name": "Little Richard",
-          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
-        }
-      ],
-      "duration_ms": 128639,
-      "name": "Good Golly, Miss Molly",
-      "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "Pat Boone's Greatest Hits (Reissue)",
         "url": "https://open.spotify.com/album/4UfDMjg8GFc3RZx5KILDlZ"
       },
@@ -1703,18 +1687,18 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Best Of Duane Eddy",
-        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
+        "name": "Rock 'N' Roll Legends",
+        "url": "https://open.spotify.com/album/793eXAlRhtt44WTFZj4SbA"
       },
       "artists": [
         {
-          "name": "Duane Eddy",
-          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+          "name": "Little Richard",
+          "url": "https://open.spotify.com/artist/4xls23Ye9WR9yy3yYMpAMm"
         }
       ],
-      "duration_ms": 153533,
-      "name": "Rebel Rouser",
-      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
+      "duration_ms": 128639,
+      "name": "Good Golly, Miss Molly",
+      "url": "https://open.spotify.com/track/5wJXbK6be3OUwZHrqEuuaD"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1731,6 +1715,22 @@
       "duration_ms": 135173,
       "name": "Party Doll",
       "url": "https://open.spotify.com/track/3SNEFR9U8CCEUN3iZfkVgW"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Best Of Duane Eddy",
+        "url": "https://open.spotify.com/album/1w35F1OItVmT916ZlJLTWf"
+      },
+      "artists": [
+        {
+          "name": "Duane Eddy",
+          "url": "https://open.spotify.com/artist/1I5Cu7bqjkRg85idwYsD91"
+        }
+      ],
+      "duration_ms": 153533,
+      "name": "Rebel Rouser",
+      "url": "https://open.spotify.com/track/4nAJtcmiyoL0ARY5WZY9IN"
     },
     {
       "added_at": "2024-09-06 14:23:51",
@@ -1879,22 +1879,6 @@
     {
       "added_at": "2024-09-06 14:23:51",
       "album": {
-        "name": "The Essential Johnny Mathis 3.0",
-        "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
-      },
-      "artists": [
-        {
-          "name": "Johnny Mathis",
-          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
-        }
-      ],
-      "duration_ms": 181400,
-      "name": "Chances Are - Single Version",
-      "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
-    },
-    {
-      "added_at": "2024-09-06 14:23:51",
-      "album": {
         "name": "The Complete Hank Williams",
         "url": "https://open.spotify.com/album/3A125M77Q1pkNik2HvB1MN"
       },
@@ -1907,6 +1891,22 @@
       "duration_ms": 161640,
       "name": "Your Cheatin' Heart",
       "url": "https://open.spotify.com/track/13Oi7vfd9mrujcEmGAYAPe"
+    },
+    {
+      "added_at": "2024-09-06 14:23:51",
+      "album": {
+        "name": "The Essential Johnny Mathis 3.0",
+        "url": "https://open.spotify.com/album/2VSzjViVZMciyUX0M1rFTv"
+      },
+      "artists": [
+        {
+          "name": "Johnny Mathis",
+          "url": "https://open.spotify.com/artist/21LGsW7bziR4Ledx7WZ1Wf"
+        }
+      ],
+      "duration_ms": 181400,
+      "name": "Chances Are - Single Version",
+      "url": "https://open.spotify.com/track/63NmQTtxQLHSRp7li6aAmP"
     },
     {
       "added_at": "2024-09-06 14:23:51",

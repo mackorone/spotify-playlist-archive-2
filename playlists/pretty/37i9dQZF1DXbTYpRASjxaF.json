@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG0Pk0BXQccKgUmQtP5EHSp6cAAR",
+  "snapshot_id": "AAAAAIC2eRt4E3NRxzdRXziXCu89nxWT",
   "tracks": [
     {
       "added_at": "2026-09-04 03:01:26",
@@ -423,6 +423,26 @@
     {
       "added_at": "2026-09-04 03:01:26",
       "album": {
+        "name": "DOIS Quebrada Inteligente",
+        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
+      },
+      "artists": [
+        {
+          "name": "Kyan",
+          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
+        },
+        {
+          "name": "Mu540",
+          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
+        }
+      ],
+      "duration_ms": 242007,
+      "name": "Vil\u00e3o da M\u00eddia!",
+      "url": "https://open.spotify.com/track/5BA4HUyjhg6ock2zEjxEjw"
+    },
+    {
+      "added_at": "2026-09-04 03:01:26",
+      "album": {
         "name": "Rugal & Bomfino",
         "url": "https://open.spotify.com/album/1HRUTHTACSZ3IH7uTvc0Lf"
       },
@@ -447,26 +467,6 @@
       "duration_ms": 204562,
       "name": "Pique B.I.G",
       "url": "https://open.spotify.com/track/6qIpf3Z88KXtczMiQc7zfY"
-    },
-    {
-      "added_at": "2026-09-04 03:01:26",
-      "album": {
-        "name": "DOIS Quebrada Inteligente",
-        "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
-      },
-      "artists": [
-        {
-          "name": "Kyan",
-          "url": "https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh"
-        },
-        {
-          "name": "Mu540",
-          "url": "https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU"
-        }
-      ],
-      "duration_ms": 242007,
-      "name": "Vil\u00e3o da M\u00eddia!",
-      "url": "https://open.spotify.com/track/5BA4HUyjhg6ock2zEjxEjw"
     },
     {
       "added_at": "2026-09-04 03:01:26",
@@ -547,34 +547,6 @@
     {
       "added_at": "2026-09-04 03:01:26",
       "album": {
-        "name": "LEAN NO CHIMARR\u00c3O",
-        "url": "https://open.spotify.com/album/19OHjPSosCnR9d6gyWaQum"
-      },
-      "artists": [
-        {
-          "name": "Galick",
-          "url": "https://open.spotify.com/artist/0NwxDrYgtiPOK5nmXmNp2H"
-        },
-        {
-          "name": "Nick Dilla",
-          "url": "https://open.spotify.com/artist/0hvbSOeyTC6RccJRlaiI8j"
-        },
-        {
-          "name": "Grilo",
-          "url": "https://open.spotify.com/artist/6vUiYjsf0eVCd4ucpSRHG0"
-        },
-        {
-          "name": "bernardo",
-          "url": "https://open.spotify.com/artist/2L6zLcYncPqHBxM68vXcm9"
-        }
-      ],
-      "duration_ms": 138000,
-      "name": "LEAN NO CHIMARR\u00c3O",
-      "url": "https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"
-    },
-    {
-      "added_at": "2026-09-04 03:01:26",
-      "album": {
         "name": "DOIS Quebrada Inteligente Pro Max",
         "url": "https://open.spotify.com/album/34MMvlqKZuvbCzJcv1FMwz"
       },
@@ -599,6 +571,34 @@
       "duration_ms": 237456,
       "name": "PRINCESA MANDRAKA.",
       "url": "https://open.spotify.com/track/20BRVZEog9m5rZGSv2UIGf"
+    },
+    {
+      "added_at": "2026-09-04 03:01:26",
+      "album": {
+        "name": "LEAN NO CHIMARR\u00c3O",
+        "url": "https://open.spotify.com/album/19OHjPSosCnR9d6gyWaQum"
+      },
+      "artists": [
+        {
+          "name": "Galick",
+          "url": "https://open.spotify.com/artist/0NwxDrYgtiPOK5nmXmNp2H"
+        },
+        {
+          "name": "Nick Dilla",
+          "url": "https://open.spotify.com/artist/0hvbSOeyTC6RccJRlaiI8j"
+        },
+        {
+          "name": "Grilo",
+          "url": "https://open.spotify.com/artist/6vUiYjsf0eVCd4ucpSRHG0"
+        },
+        {
+          "name": "bernardo",
+          "url": "https://open.spotify.com/artist/2L6zLcYncPqHBxM68vXcm9"
+        }
+      ],
+      "duration_ms": 138000,
+      "name": "LEAN NO CHIMARR\u00c3O",
+      "url": "https://open.spotify.com/track/4PEiLxARRLEk82zNdEeGkd"
     },
     {
       "added_at": "2026-09-04 03:01:26",
@@ -679,34 +679,6 @@
     {
       "added_at": "2026-09-04 03:01:26",
       "album": {
-        "name": "ZIGUIRIGUIDUM FUNKHALL",
-        "url": "https://open.spotify.com/album/61QD3xq1OlfgFCJfW1Xozd"
-      },
-      "artists": [
-        {
-          "name": "LAI$ROSA",
-          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
-        },
-        {
-          "name": "Cjtinha",
-          "url": "https://open.spotify.com/artist/31eNuqFkYk4xEDGI9mVhLE"
-        },
-        {
-          "name": "Agostinhx",
-          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
-        },
-        {
-          "name": "GEXIS",
-          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
-        }
-      ],
-      "duration_ms": 122790,
-      "name": "ZIGUIRIGUIDUM FUNKHALL",
-      "url": "https://open.spotify.com/track/4eHXdmsL4cwJdZHxG786gJ"
-    },
-    {
-      "added_at": "2026-09-04 03:01:26",
-      "album": {
         "name": "DOIS Quebrada Inteligente",
         "url": "https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY"
       },
@@ -731,34 +703,30 @@
     {
       "added_at": "2026-09-04 03:01:26",
       "album": {
-        "name": "6X1",
-        "url": "https://open.spotify.com/album/26IKwluVcFrmDUnL9fEM5r"
+        "name": "ZIGUIRIGUIDUM FUNKHALL",
+        "url": "https://open.spotify.com/album/61QD3xq1OlfgFCJfW1Xozd"
       },
       "artists": [
         {
-          "name": "Caio Luccas",
-          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+          "name": "LAI$ROSA",
+          "url": "https://open.spotify.com/artist/74sURGnGYZ0MsuL61biTCw"
         },
         {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+          "name": "Cjtinha",
+          "url": "https://open.spotify.com/artist/31eNuqFkYk4xEDGI9mVhLE"
         },
         {
-          "name": "Ayo Th",
-          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
+          "name": "Agostinhx",
+          "url": "https://open.spotify.com/artist/42KlXyEj8tt6vVyxQjpLaL"
         },
         {
-          "name": "Mozin",
-          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
-        },
-        {
-          "name": "NADAMAL",
-          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+          "name": "GEXIS",
+          "url": "https://open.spotify.com/artist/0v6hypyGUeuKpNnNeL8APU"
         }
       ],
-      "duration_ms": 211653,
-      "name": "6X1",
-      "url": "https://open.spotify.com/track/671UIqEjemgUXQY62PrsLi"
+      "duration_ms": 122790,
+      "name": "ZIGUIRIGUIDUM FUNKHALL",
+      "url": "https://open.spotify.com/track/4eHXdmsL4cwJdZHxG786gJ"
     },
     {
       "added_at": "2026-09-04 03:01:26",
@@ -791,6 +759,38 @@
       "duration_ms": 142702,
       "name": "Princ\u00edpios",
       "url": "https://open.spotify.com/track/5A9Eib6BX6y8k2xPcWM5x8"
+    },
+    {
+      "added_at": "2026-09-04 03:01:26",
+      "album": {
+        "name": "6X1",
+        "url": "https://open.spotify.com/album/26IKwluVcFrmDUnL9fEM5r"
+      },
+      "artists": [
+        {
+          "name": "Caio Luccas",
+          "url": "https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL"
+        },
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Ayo Th",
+          "url": "https://open.spotify.com/artist/5peXkFS2EUmRp7Llv7yDty"
+        },
+        {
+          "name": "Mozin",
+          "url": "https://open.spotify.com/artist/2BUCvMiMXfeacgCy3saqs6"
+        },
+        {
+          "name": "NADAMAL",
+          "url": "https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7"
+        }
+      ],
+      "duration_ms": 211653,
+      "name": "6X1",
+      "url": "https://open.spotify.com/track/671UIqEjemgUXQY62PrsLi"
     },
     {
       "added_at": "2026-09-04 03:01:26",
@@ -851,34 +851,6 @@
     {
       "added_at": "2026-09-04 03:01:26",
       "album": {
-        "name": "Advinha o CEP",
-        "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
-      },
-      "artists": [
-        {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
-        },
-        {
-          "name": "Yuri Redicopa",
-          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
-        },
-        {
-          "name": "Danzo",
-          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
-        },
-        {
-          "name": "Oklin",
-          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
-        }
-      ],
-      "duration_ms": 131368,
-      "name": "Advinha o CEP",
-      "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
-    },
-    {
-      "added_at": "2026-09-04 03:01:26",
-      "album": {
         "name": "DOISMILEVINTEHOJE",
         "url": "https://open.spotify.com/album/2MmHJyDkIZTxHq8rWnS5Nw"
       },
@@ -907,6 +879,34 @@
       "duration_ms": 187317,
       "name": "Pasta Registrada",
       "url": "https://open.spotify.com/track/4Ft94JOZnqVfteZzQikmLl"
+    },
+    {
+      "added_at": "2026-09-04 03:01:26",
+      "album": {
+        "name": "Advinha o CEP",
+        "url": "https://open.spotify.com/album/5mdlGL58bjvPlwegK3J7N9"
+      },
+      "artists": [
+        {
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+        },
+        {
+          "name": "Yuri Redicopa",
+          "url": "https://open.spotify.com/artist/0pVJXCGsBydS7rq0R4w4hm"
+        },
+        {
+          "name": "Danzo",
+          "url": "https://open.spotify.com/artist/5ZyT4ZJtpQdihQ7MTMTluE"
+        },
+        {
+          "name": "Oklin",
+          "url": "https://open.spotify.com/artist/4Mi4PoP5thS6fGcdirgh0A"
+        }
+      ],
+      "duration_ms": 131368,
+      "name": "Advinha o CEP",
+      "url": "https://open.spotify.com/track/6zx4f2OiSKrgOcromQsngp"
     },
     {
       "added_at": "2026-09-04 03:01:26",

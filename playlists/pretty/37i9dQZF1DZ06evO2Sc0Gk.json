@@ -6,28 +6,8 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAADjy6iUiHLdahgqTjO0wuvV",
+  "snapshot_id": "aqstgAAAAAAFN5eY3NKpCEK3jUX2+y5N",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Hide Your Love",
-        "url": "https://open.spotify.com/album/0oBaQIRl2fk3DYsmAA6ilx"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Dre Skull",
-          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
-        }
-      ],
-      "duration_ms": 157959,
-      "name": "Hide Your Love",
-      "url": "https://open.spotify.com/track/2yOU8KSP7dVlLBK1heneR9"
-    },
     {
       "added_at": null,
       "album": {
@@ -551,18 +531,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+        "name": "The Lion King: The Gift",
+        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
       },
       "artists": [
         {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        },
+        {
+          "name": "Lord Afrixana",
+          "url": "https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc"
+        },
+        {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Yemi Alade",
+          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
         }
       ],
-      "duration_ms": 168150,
-      "name": "Chop Time, No Friend",
-      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
+      "duration_ms": 155990,
+      "name": "DON'T JEALOUS ME",
+      "url": "https://open.spotify.com/track/1yvFoBp2Bq1ilD0518ZpQx"
     },
     {
       "added_at": null,
@@ -591,30 +583,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Lion King: The Gift",
-        "url": "https://open.spotify.com/album/552zi1M53PQAX5OH4FIdTx"
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
       },
       "artists": [
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
-        },
-        {
-          "name": "Lord Afrixana",
-          "url": "https://open.spotify.com/artist/2MfKVXjjRUAUEeh4b4y8Sc"
-        },
-        {
           "name": "Mr Eazi",
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Yemi Alade",
-          "url": "https://open.spotify.com/artist/7fKO99ryLDo8VocdtVvwZW"
         }
       ],
-      "duration_ms": 155990,
-      "name": "DON'T JEALOUS ME",
-      "url": "https://open.spotify.com/track/1yvFoBp2Bq1ilD0518ZpQx"
+      "duration_ms": 168150,
+      "name": "Chop Time, No Friend",
+      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
     },
     {
       "added_at": null,
@@ -691,8 +671,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
-        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+        "name": "Hide Your Love",
+        "url": "https://open.spotify.com/album/0oBaQIRl2fk3DYsmAA6ilx"
       },
       "artists": [
         {
@@ -700,13 +680,13 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         },
         {
-          "name": "Tekno",
-          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+          "name": "Dre Skull",
+          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
         }
       ],
-      "duration_ms": 168461,
-      "name": "Short Skirt",
-      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
+      "duration_ms": 157959,
+      "name": "Hide Your Love",
+      "url": "https://open.spotify.com/track/2yOU8KSP7dVlLBK1heneR9"
     },
     {
       "added_at": null,
@@ -727,6 +707,26 @@
       "duration_ms": 198952,
       "name": "KEYS TO THE KINGDOM",
       "url": "https://open.spotify.com/track/3KZK9MF3bAixN5UWOHVTbf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is Eazi, Vol. 1 - Accra To Lagos",
+        "url": "https://open.spotify.com/album/0lkYUVhHWfdCp3vBgqitfU"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Tekno",
+          "url": "https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut"
+        }
+      ],
+      "duration_ms": 168461,
+      "name": "Short Skirt",
+      "url": "https://open.spotify.com/track/2Udl0TzzW2pYjPmf6P9M2W"
     },
     {
       "added_at": null,
@@ -867,6 +867,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Gbagada Express",
+        "url": "https://open.spotify.com/album/3TZrhPPbC11jtPvW40PS9b"
+      },
+      "artists": [
+        {
+          "name": "Boj",
+          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
+        },
+        {
+          "name": "Davido",
+          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Abracadabra",
+      "url": "https://open.spotify.com/track/5MnO1TJXZ01GygCXiZKLNU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Call Waiting",
         "url": "https://open.spotify.com/album/5JkpF4etIZ5IOrAPzCcfjI"
       },
@@ -891,30 +915,6 @@
       "duration_ms": 150702,
       "name": "Call Waiting",
       "url": "https://open.spotify.com/track/6E7inQoWgdOxhFw4GmNS4c"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Gbagada Express",
-        "url": "https://open.spotify.com/album/3TZrhPPbC11jtPvW40PS9b"
-      },
-      "artists": [
-        {
-          "name": "Boj",
-          "url": "https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW"
-        },
-        {
-          "name": "Davido",
-          "url": "https://open.spotify.com/artist/0Y3agQaa6g2r0YmHPOO9rh"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 195789,
-      "name": "Abracadabra",
-      "url": "https://open.spotify.com/track/5MnO1TJXZ01GygCXiZKLNU"
     },
     {
       "added_at": null,
@@ -1011,26 +1011,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Obolo",
-        "url": "https://open.spotify.com/album/75lVo6dQYwfbtnOyOEEDS6"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 180140,
-      "name": "Obolo",
-      "url": "https://open.spotify.com/track/7xzMZiEAKFepQuGAPWI36d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Body",
         "url": "https://open.spotify.com/album/276Wmuj5vozbr8ud6lGTCv"
       },
@@ -1051,8 +1031,28 @@
     {
       "added_at": null,
       "album": {
-        "name": "F1 The Album",
-        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
+        "name": "Obolo",
+        "url": "https://open.spotify.com/album/75lVo6dQYwfbtnOyOEEDS6"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 180140,
+      "name": "Obolo",
+      "url": "https://open.spotify.com/track/7xzMZiEAKFepQuGAPWI36d"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Maison Rouge",
+        "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
       },
       "artists": [
         {
@@ -1060,9 +1060,9 @@
           "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
         }
       ],
-      "duration_ms": 173149,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
+      "duration_ms": 156715,
+      "name": "Violence",
+      "url": "https://open.spotify.com/track/6T1UPPaTavTq4WlR2U9rKB"
     }
   ],
   "unique_name": "This Is Mr Eazi",

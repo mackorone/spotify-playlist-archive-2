@@ -1,13 +1,173 @@
 {
-  "description": "The hottest new pop with all the drops. Cover: Cameron Whitcomb & Marshmello",
-  "num_followers": 450694,
+  "description": "The hottest new pop with all the drops. Cover: Troye Sivan",
+  "num_followers": 451260,
   "original_name": "New Dance Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA+BZ5G8/jtDXU/LvsfGFM1Zt/Va",
+  "snapshot_id": "AAAAAGwYxdgheJ6MFkLZ292aty60KvKZ",
   "tracks": [
+    {
+      "added_at": "2026-09-18 04:17:55",
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+    },
+    {
+      "added_at": "2026-09-18 04:44:20",
+      "album": {
+        "name": "ESTRUS",
+        "url": "https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6"
+      },
+      "artists": [
+        {
+          "name": "Tove Lo",
+          "url": "https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK"
+        }
+      ],
+      "duration_ms": 193792,
+      "name": "are we on a break",
+      "url": "https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s"
+    },
+    {
+      "added_at": "2026-09-18 04:40:45",
+      "album": {
+        "name": "making out",
+        "url": "https://open.spotify.com/album/2kVA2DXxldHD7H9HNs0ah0"
+      },
+      "artists": [
+        {
+          "name": "2charm",
+          "url": "https://open.spotify.com/artist/7HKUxdZeGZQHLE7vFG4Syr"
+        }
+      ],
+      "duration_ms": 208757,
+      "name": "making out",
+      "url": "https://open.spotify.com/track/5SQWCnd28UO4FrMwUYpQN5"
+    },
+    {
+      "added_at": "2026-09-18 04:17:55",
+      "album": {
+        "name": "Met my match",
+        "url": "https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO"
+      },
+      "artists": [
+        {
+          "name": "Say Now",
+          "url": "https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn"
+        }
+      ],
+      "duration_ms": 165339,
+      "name": "Met my match",
+      "url": "https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf"
+    },
+    {
+      "added_at": "2026-09-18 04:40:45",
+      "album": {
+        "name": "Get This Started",
+        "url": "https://open.spotify.com/album/7swkdDGRI7Wdpr4eU2cPkD"
+      },
+      "artists": [
+        {
+          "name": "Jazzy",
+          "url": "https://open.spotify.com/artist/7zAAwgV5Wqmvpb4GzvlRkP"
+        }
+      ],
+      "duration_ms": 159309,
+      "name": "Get This Started",
+      "url": "https://open.spotify.com/track/5DUwBSCftJFQC6uk6Ktw2F"
+    },
+    {
+      "added_at": "2026-09-18 04:40:45",
+      "album": {
+        "name": "I'll Be There",
+        "url": "https://open.spotify.com/album/7n6iRW15pV3Eg0IjxfbAGB"
+      },
+      "artists": [
+        {
+          "name": "D.O.D",
+          "url": "https://open.spotify.com/artist/0Cs47vvRsPgEfliBU9KDiB"
+        },
+        {
+          "name": "Aya Anne",
+          "url": "https://open.spotify.com/artist/5PbxcgpYKbG22qd9c3LNC1"
+        }
+      ],
+      "duration_ms": 158660,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/2Js4tt42TKBXl6pI1uZHCk"
+    },
+    {
+      "added_at": "2026-09-18 04:40:45",
+      "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/1tHG3rISWudn1FJoDjV56d"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "duration_ms": 172877,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/1VixD42StOF93a1naJMGnb"
+    },
+    {
+      "added_at": "2026-09-18 04:40:45",
+      "album": {
+        "name": "dancingthruthesummer",
+        "url": "https://open.spotify.com/album/3gVPNwFzmyIA9zJDYf5C3X"
+      },
+      "artists": [
+        {
+          "name": "Babsy.",
+          "url": "https://open.spotify.com/artist/1BjdCHWqVEwBktJLHOUhmk"
+        },
+        {
+          "name": "LAYNE",
+          "url": "https://open.spotify.com/artist/2rRf5V0hAZgB3yLGTE3T69"
+        }
+      ],
+      "duration_ms": 192000,
+      "name": "dancingthruthesummer",
+      "url": "https://open.spotify.com/track/0GsTXeq8b6wccYxQxfZzYi"
+    },
+    {
+      "added_at": "2026-09-18 04:40:45",
+      "album": {
+        "name": "The Box",
+        "url": "https://open.spotify.com/album/2vjDAKFAnCrEjteyOtWI63"
+      },
+      "artists": [
+        {
+          "name": "LEXXE",
+          "url": "https://open.spotify.com/artist/0lDo9zbShSX0EXnxLpUZIU"
+        }
+      ],
+      "duration_ms": 225383,
+      "name": "The Box",
+      "url": "https://open.spotify.com/track/072EYLKY3RnrcSssCX55gq"
+    },
     {
       "added_at": "2026-08-31 15:57:07",
       "album": {
@@ -1343,22 +1503,6 @@
     {
       "added_at": "2026-08-21 04:02:27",
       "album": {
-        "name": "Brace Yourself",
-        "url": "https://open.spotify.com/album/6K6TUKKDuyi5JtRn3qpK0q"
-      },
-      "artists": [
-        {
-          "name": "Liv Dawson",
-          "url": "https://open.spotify.com/artist/7i8fq2gFSVgPdWVXOlDEx7"
-        }
-      ],
-      "duration_ms": 268341,
-      "name": "Saturday",
-      "url": "https://open.spotify.com/track/15TaBpXonkkLMRBw6Nxy55"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
         "name": "Everything's Fine",
         "url": "https://open.spotify.com/album/2VpmMSVWQmFCqLRi0En2JR"
       },
@@ -1375,46 +1519,6 @@
       "duration_ms": 165692,
       "name": "Everything's Fine (PM)",
       "url": "https://open.spotify.com/track/1kLGkdqxQLZoQD9MBxyiwY"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/6lqi94meGIcutmFVQcgaUb"
-      },
-      "artists": [
-        {
-          "name": "Disco Shrine",
-          "url": "https://open.spotify.com/artist/1IkijWWvTvWKuZ90kHwdHA"
-        }
-      ],
-      "duration_ms": 173119,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/2YHhUvo1tf0Ywr7F079i8Q"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/1E7MzoTYYi12TXikpXlxrC"
-      },
-      "artists": [
-        {
-          "name": "Holy Molly",
-          "url": "https://open.spotify.com/artist/4ljZpmnnnA1ezEdylZuNLK"
-        },
-        {
-          "name": "Chris Hype",
-          "url": "https://open.spotify.com/artist/6exH5W5q1pR71N77VYff0a"
-        },
-        {
-          "name": "Orchestronic",
-          "url": "https://open.spotify.com/artist/4wOLzdvLBf9m00I0Z2QCYv"
-        }
-      ],
-      "duration_ms": 204375,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/4rMM6OaUqgYr6eZrFC2TMN"
     },
     {
       "added_at": "2026-08-21 04:02:27",
@@ -1511,30 +1615,6 @@
     {
       "added_at": "2026-08-21 04:02:27",
       "album": {
-        "name": "My Oh My",
-        "url": "https://open.spotify.com/album/2DaXDsSAZ5rTJkaFUVTcXh"
-      },
-      "artists": [
-        {
-          "name": "Kris Kross Amsterdam",
-          "url": "https://open.spotify.com/artist/4LcUpNlXFEleaLlelmkv2R"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        },
-        {
-          "name": "Willy William",
-          "url": "https://open.spotify.com/artist/4RSyJzf7ef6Iu2rnLdabNq"
-        }
-      ],
-      "duration_ms": 156591,
-      "name": "My Oh My",
-      "url": "https://open.spotify.com/track/5GmoIA9yhjMTpZ0J08Nyqk"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
         "name": "Lucky Again (The Magician Remix)",
         "url": "https://open.spotify.com/album/4usXG6rkCbdBRfnyRvgW8E"
       },
@@ -1607,82 +1687,6 @@
       "duration_ms": 147187,
       "name": "Do You Want It Right Now",
       "url": "https://open.spotify.com/track/2ibWjDuThUbFzgVo6ciD7j"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "We Are Free",
-        "url": "https://open.spotify.com/album/4pWqBvWBFXpfoC3mXDwD7e"
-      },
-      "artists": [
-        {
-          "name": "TR3NACRIA",
-          "url": "https://open.spotify.com/artist/1gFiEIH4TiLrNeoq7rktTH"
-        },
-        {
-          "name": "Alexandra Stan",
-          "url": "https://open.spotify.com/artist/0BmLNz4nSLfoWYW1cYsElL"
-        }
-      ],
-      "duration_ms": 148567,
-      "name": "We Are Free",
-      "url": "https://open.spotify.com/track/0AtDLb9eqZq85G33yYPiwc"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Chemistry",
-        "url": "https://open.spotify.com/album/6E6E7Qd61G1O1ZfY5oz93v"
-      },
-      "artists": [
-        {
-          "name": "PNAU",
-          "url": "https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u"
-        },
-        {
-          "name": "Master Peace",
-          "url": "https://open.spotify.com/artist/4GNHtO2iEJ09r4JNTlqnO9"
-        }
-      ],
-      "duration_ms": 209668,
-      "name": "Chemistry",
-      "url": "https://open.spotify.com/track/6k8UrKM6ScUbXGpPVz4xXf"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Nokia",
-        "url": "https://open.spotify.com/album/5begU32ZHoEmUeJa0f9Igt"
-      },
-      "artists": [
-        {
-          "name": "NOTD",
-          "url": "https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy"
-        },
-        {
-          "name": "Lucky Lou",
-          "url": "https://open.spotify.com/artist/4RziIirVtTJrU8xMTrOgU2"
-        }
-      ],
-      "duration_ms": 188741,
-      "name": "Nokia",
-      "url": "https://open.spotify.com/track/7bt12BkmQOft8dsOUkvOT9"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "YOUtopia",
-        "url": "https://open.spotify.com/album/4KHPTZ0Cad5ZJvZW614XUe"
-      },
-      "artists": [
-        {
-          "name": "Cascada",
-          "url": "https://open.spotify.com/artist/0N0d3kjwdY2h7UVuTdJGfp"
-        }
-      ],
-      "duration_ms": 150150,
-      "name": "YOUtopia",
-      "url": "https://open.spotify.com/track/35NaaOPzsTWOWM47PzRuaY"
     },
     {
       "added_at": "2026-08-21 04:02:27",
@@ -1767,30 +1771,6 @@
       "duration_ms": 145592,
       "name": "PLZ HOLD (feat. Tkay Maidza)",
       "url": "https://open.spotify.com/track/1vKQshIjVUhyg99UbCyeMp"
-    },
-    {
-      "added_at": "2026-08-21 04:02:27",
-      "album": {
-        "name": "Midnight Echoes",
-        "url": "https://open.spotify.com/album/3I6PSzNiPefKTnEnCaoH8c"
-      },
-      "artists": [
-        {
-          "name": "Dominik Dudek",
-          "url": "https://open.spotify.com/artist/2WfziyvfQ6eZG7iL9h7SVx"
-        },
-        {
-          "name": "Francis On My Mind",
-          "url": "https://open.spotify.com/artist/6GdAYfQVlByh3CUmlMsswc"
-        },
-        {
-          "name": "Albert RCB",
-          "url": "https://open.spotify.com/artist/2suB8DxwVd3W7nXcZkLRZc"
-        }
-      ],
-      "duration_ms": 156000,
-      "name": "Midnight Echoes",
-      "url": "https://open.spotify.com/track/0dHNJPhlBpk1f65kRmwoWj"
     },
     {
       "added_at": "2026-08-21 04:02:27",

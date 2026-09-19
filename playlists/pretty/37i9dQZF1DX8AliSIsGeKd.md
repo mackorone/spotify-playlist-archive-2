@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Moonbootica
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,671 likes - 90 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,843 likes - 90 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 7 | [Turned A Key](https://open.spotify.com/track/5dwI3JHau2HD1r5ZEKTkIx) | [Peace Control](https://open.spotify.com/artist/3rzbheJbLKamFWE8v9fPRh), [Luca Saporito](https://open.spotify.com/artist/5j0QAbips8lkIhtCwUYkBh) | [Turned A Key](https://open.spotify.com/album/24ZQse3rQUV1g1p9Qt1Vg9) | 3:19 |
 | 8 | [Don't Stress Your Mind](https://open.spotify.com/track/17JmeZMImVvXiZ5BkLCz5p) | [Boris Brejcha](https://open.spotify.com/artist/6caPJFLv1wesmM7gwK1ACy), [Chemutai Sage](https://open.spotify.com/artist/2mP0v7i6JeL8yXPfey97lx) | [Don't Stress Your Mind](https://open.spotify.com/album/2soPLw05nSn8RCpCJ037r9) | 3:02 |
 | 9 | [What I Have Left](https://open.spotify.com/track/4FWbKjOTDnKZnQgTDqJytS) | [Fritz Kalkbrenner](https://open.spotify.com/artist/08Ut1tYxtmgIInVyQqohkM) | [What I Have Left](https://open.spotify.com/album/4ehzHqPAjCcu8PiNBIdHv9) | 2:55 |
-| 10 | [Track 1](https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Pele De Mar](https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6) | 0:00 |
+| 10 | [RIO](https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Pele De Mar](https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6) | 5:50 |
 | 11 | [Automatic](https://open.spotify.com/track/3PPC2DfqOXD7YUxbOugLXa) | [Kellerkind](https://open.spotify.com/artist/4GYQytEFxnzqH96O6QywsA) | [Distortion Of Reality](https://open.spotify.com/album/77VhtRWe3GT597Zdd6kXnH) | 5:17 |
 | 12 | [Pegada Marginal](https://open.spotify.com/track/218wR8sVS30eoDT6X8yACW) | [Ede](https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK), [MANQO](https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ) | [Pegada Marginal](https://open.spotify.com/album/2a8k3SZqXiLO7gJQxxnKiy) | 3:04 |
 | 13 | [Warehouse](https://open.spotify.com/track/2yGOI6FBll9cg5og4hJf3t) | [HotLap](https://open.spotify.com/artist/7fQllKIlkVSl9JD1aJ8XYg), [Yanick](https://open.spotify.com/artist/1nobtmTG2YDSzbl9mhsEeH) | [Warehouse](https://open.spotify.com/album/7BeMiLmWSpqAeIgYauDnTH) | 3:13 |
@@ -32,7 +32,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 22 | [Games](https://open.spotify.com/track/6hbOuglgJngDBe4TONNON0) | [DAMEN](https://open.spotify.com/artist/6aW9vCCdBYNKQiXAztvGwQ) | [Games](https://open.spotify.com/album/3e3VHxp6q6R4SwGyXEz7vR) | 2:51 |
 | 23 | [Body Frequencies](https://open.spotify.com/track/2dhL8IGbjZrLbSjJ2t5OT2) | [Black Loops](https://open.spotify.com/artist/6AwGe2F49hD3ANXvmOwqQB) | [Body Frequencies](https://open.spotify.com/album/1G4CFKR5YYJIvHUeiRypCx) | 5:22 |
 | 24 | [Nite Rite Zeta](https://open.spotify.com/track/5lhceVrfvvnGEQz2xxEiAx) | [Mason](https://open.spotify.com/artist/307erl4VjT1dZDMYpneZqd) | [Nite Rite Zeta](https://open.spotify.com/album/3jbH2iTSXAp9kd6EdNGFHT) | 3:34 |
-| 25 | [Track 1](https://open.spotify.com/track/2vqpDKEnWE3Q5rT3cHMUll) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Miguel EP](https://open.spotify.com/album/7GRY5QjDtmz4MPfcFZz9s9) | 0:00 |
+| 25 | [Miguel](https://open.spotify.com/track/2vqpDKEnWE3Q5rT3cHMUll) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Miguel EP](https://open.spotify.com/album/7GRY5QjDtmz4MPfcFZz9s9) | 3:29 |
 | 26 | [all the love](https://open.spotify.com/track/3ECglq4v2KHTEnwMT5Y7i4) | [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [all the love](https://open.spotify.com/album/34Chlui2p7WpH48TVGFiBr) | 5:00 |
 | 27 | [Answer Me](https://open.spotify.com/track/0qsQjyWJXyoM8ytkcJvO3X) | [LondonGround](https://open.spotify.com/artist/1KrOwCpc0OZhhJIW3wWgl8) | [Answer The Light EP](https://open.spotify.com/album/2fQEVE5kfrPSJ28OBxCGaT) | 4:56 |
 | 28 | [Can't Stop](https://open.spotify.com/track/3xFmutQDQS1Ywuu3xSPIcz) | [Elroy \(AUS\)](https://open.spotify.com/artist/6DiRok1NmemDiXM5SVIgXp) | [Can't Stop](https://open.spotify.com/album/7cmfeCiX0kasgN1EqGiJMb) | 3:01 |
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 89 | [Da Fonk \(feat\. Joni\) \- DJ Gigola Remix](https://open.spotify.com/track/6BMFCLbaEFQsRgsUk2pzCX) | [Mochakk](https://open.spotify.com/artist/0rTh1tAdrEbdKZBTiiAQSo), [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf), [Joni](https://open.spotify.com/artist/6nZ4pcLtZYblB2ZwD7qvwe) | [Da Fonk \(feat\. Joni\) \[DJ Gigola Remix\]](https://open.spotify.com/album/6Y0fDAUpgIu2hSYkRoGcIR) | 4:27 |
 | 90 | [Leaving On](https://open.spotify.com/track/3RwtuFcPUZWm7zDEO3YK4J) | [SWIM](https://open.spotify.com/artist/1OxXLWb0AXEgOfTUzlDg3V) | [Leaving On](https://open.spotify.com/album/7LkAToNygMiqJViyOVr5HR) | 3:40 |
 
-Snapshot ID: `AAAAAJdaL8J9Zi1Qqrjlme6VkX4p8aHx`
+Snapshot ID: `AAAAAIlQ9JSJy+Ws1MsrWVHp9C5ZWkEj`

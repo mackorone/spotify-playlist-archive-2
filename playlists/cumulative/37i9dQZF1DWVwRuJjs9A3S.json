@@ -435,6 +435,24 @@
     },
     {
       "album": {
+        "name": "It's Only Heaven",
+        "url": "https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ"
+      },
+      "artists": [
+        {
+          "name": "Morabeza Tobacco",
+          "url": "https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158332,
+      "name": "A Time A Place",
+      "url": "https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI"
+    },
+    {
+      "album": {
         "name": "About the Heart",
         "url": "https://open.spotify.com/album/0T3rfBkkPj2qWqz62sByLW"
       },
@@ -23628,24 +23646,6 @@
       "duration_ms": 162224,
       "name": "Totally",
       "url": "https://open.spotify.com/track/5xoo7xfolFQGmRyDYtzXNp"
-    },
-    {
-      "album": {
-        "name": "It's Only Heaven",
-        "url": "https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ"
-      },
-      "artists": [
-        {
-          "name": "Morabeza Tobacco",
-          "url": "https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 7",
-      "url": "https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI"
     },
     {
       "album": {

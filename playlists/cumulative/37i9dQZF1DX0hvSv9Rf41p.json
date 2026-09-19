@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Viperactive",
+  "description": "All things <a href=\"spotify:genre:0JQ5DAqbMKFCuT8GwyTHgN\">bass</a> \ud83d\ude80\ud83d\ude80 featuring Knock2",
   "name": "Bass Arcade",
   "tracks": [
     {
@@ -6087,6 +6087,32 @@
     },
     {
       "album": {
+        "name": "Bury Me Alive",
+        "url": "https://open.spotify.com/album/2V2iNZoyE5zVdWjx0BdIBB"
+      },
+      "artists": [
+        {
+          "name": "LEVEL UP",
+          "url": "https://open.spotify.com/artist/1ZpDxqXS6HAvoZyCzQfKRb"
+        },
+        {
+          "name": "Kompany",
+          "url": "https://open.spotify.com/artist/7dtX3ykcuyVmts2HQnWgSP"
+        },
+        {
+          "name": "Bertie Scott",
+          "url": "https://open.spotify.com/artist/2m0xNVRx1tAHY3pfNXt7Ro"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Bury Me Alive",
+      "url": "https://open.spotify.com/track/7J51uinFoQXmKGyMJC7bEo"
+    },
+    {
+      "album": {
         "name": "Bury Me in Leather",
         "url": "https://open.spotify.com/album/3Dvdh7oOswePpcRafceHcj"
       },
@@ -6452,6 +6478,24 @@
       "duration_ms": 150110,
       "name": "Can't Talk",
       "url": "https://open.spotify.com/track/6tz0fj2mcbqBJ3ljWWWGQN"
+    },
+    {
+      "album": {
+        "name": "Candy",
+        "url": "https://open.spotify.com/album/28oqHcPPqUODSHq05JlhSh"
+      },
+      "artists": [
+        {
+          "name": "Dirt Monkey",
+          "url": "https://open.spotify.com/artist/5dNqUwGTZcQQ09ecTKkCGH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168000,
+      "name": "Candy",
+      "url": "https://open.spotify.com/track/3Kfklu38w4IjeBkhnHQMLc"
     },
     {
       "album": {
@@ -9848,7 +9892,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 185142,
       "name": "Dizzy",
       "url": "https://open.spotify.com/track/2CEHaeIDN5naObrLkJO7e1"
@@ -13597,6 +13641,28 @@
     },
     {
       "album": {
+        "name": "Final Bonk",
+        "url": "https://open.spotify.com/album/5X47t3DsewF8ZVF0KOjxbP"
+      },
+      "artists": [
+        {
+          "name": "Cyclops",
+          "url": "https://open.spotify.com/artist/1vOTVnnyLvVTeuwrZLghCN"
+        },
+        {
+          "name": "TYNAN",
+          "url": "https://open.spotify.com/artist/5oiSxivTCIoOk5UlMSwzWM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188571,
+      "name": "Final Bonk",
+      "url": "https://open.spotify.com/track/73NKwK7CHB0GXovxk24aOu"
+    },
+    {
+      "album": {
         "name": "Fibonacci Pt 1: Oblivion",
         "url": "https://open.spotify.com/album/4Ou53cCMdT8DPtVqcAHd7k"
       },
@@ -13704,6 +13770,28 @@
       "duration_ms": 210937,
       "name": "Fire",
       "url": "https://open.spotify.com/track/4BXAqV100Noy0wBNT7Ui5p"
+    },
+    {
+      "album": {
+        "name": "Fire",
+        "url": "https://open.spotify.com/album/45RySrc4bC7PzuqSeVLzAi"
+      },
+      "artists": [
+        {
+          "name": "NEOTEK",
+          "url": "https://open.spotify.com/artist/44btqMHopGiWCGHMtFw3mv"
+        },
+        {
+          "name": "ARCTURA",
+          "url": "https://open.spotify.com/artist/0mBnq6ex1s5r5O1TmJ8oTN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175200,
+      "name": "Fire",
+      "url": "https://open.spotify.com/track/50ANz85LHdZuL75bmlInED"
     },
     {
       "album": {
@@ -14760,7 +14848,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 155675,
       "name": "Fuck The Whole World - Subtronics Remix",
       "url": "https://open.spotify.com/track/4D5abe8UYoP2K2sKxyx3mT"
@@ -15188,6 +15276,28 @@
       "duration_ms": 217090,
       "name": "Genesis",
       "url": "https://open.spotify.com/track/6fRMhby9J9RS8UPgpi6eyj"
+    },
+    {
+      "album": {
+        "name": "14ZERO V2",
+        "url": "https://open.spotify.com/album/2IRS9qLBd27Wp824FxnZqw"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252002,
+      "name": "Get Dark",
+      "url": "https://open.spotify.com/track/0iWMV1PjHlhClsvdGyuQvS"
     },
     {
       "album": {
@@ -16800,7 +16910,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 224000,
       "name": "Hazard Pay",
       "url": "https://open.spotify.com/track/4SLhC2hS9m8fzcI3lvlRZ0"
@@ -22725,6 +22835,28 @@
     },
     {
       "album": {
+        "name": "Lose It All",
+        "url": "https://open.spotify.com/album/5i8IP4wrPsUYEI3bQISNMe"
+      },
+      "artists": [
+        {
+          "name": "[IVY]",
+          "url": "https://open.spotify.com/artist/3bXszy3HMRqUhnON4Bpojw"
+        },
+        {
+          "name": "Kaya Vitalis",
+          "url": "https://open.spotify.com/artist/2JlV6S5ko0BCkx0BxG7SGP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204137,
+      "name": "Lose It All",
+      "url": "https://open.spotify.com/track/0Zq2IfabhVry15laf5Irtk"
+    },
+    {
+      "album": {
         "name": "LOSE YOURSELF",
         "url": "https://open.spotify.com/album/16F8h09SzhLCFLC1rBWOJt"
       },
@@ -25958,7 +26090,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 164885,
       "name": "No Broke Boys - AVELLO Remix",
       "url": "https://open.spotify.com/track/4zXG4SBvsjsW0EN1mjCxaV"
@@ -31529,6 +31661,28 @@
     },
     {
       "album": {
+        "name": "ROWDY",
+        "url": "https://open.spotify.com/album/6ydmEYtma06BT21nlV8eMZ"
+      },
+      "artists": [
+        {
+          "name": "Sullivan King",
+          "url": "https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e"
+        },
+        {
+          "name": "Ray Volpe",
+          "url": "https://open.spotify.com/artist/2K9qsrYnsu1EWt7ZQkkuXb"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "ROWDY",
+      "url": "https://open.spotify.com/track/6pXxxyrJFZm81EngAGY29W"
+    },
+    {
+      "album": {
         "name": "Rowdy (BLAOW!)",
         "url": "https://open.spotify.com/album/6KSL4epV7UWnFKryvdPk3i"
       },
@@ -32896,7 +33050,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 192101,
       "name": "Shadow",
       "url": "https://open.spotify.com/track/6EivHFYqEblGthh05BsAxM"
@@ -34685,6 +34839,24 @@
     },
     {
       "album": {
+        "name": "sound di alarm",
+        "url": "https://open.spotify.com/album/6BIVBxODB2ZY7Xmt9HuyPf"
+      },
+      "artists": [
+        {
+          "name": "Knock2",
+          "url": "https://open.spotify.com/artist/6mmSS7itNWKbapgG2eZbIg"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220444,
+      "name": "sound di alarm",
+      "url": "https://open.spotify.com/track/6kNLgs7ioyGMDN027wnKng"
+    },
+    {
+      "album": {
         "name": "SOUNDBOY KILLA",
         "url": "https://open.spotify.com/album/39w0iisr7ZAkpm8gLT188R"
       },
@@ -35880,7 +36052,7 @@
       ],
       "date_added": "2025-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 154100,
       "name": "Subliminals",
       "url": "https://open.spotify.com/track/2gyn0L8It5sc7Tw8eQlkFY"
@@ -39742,7 +39914,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 276153,
       "name": "Under My Skin",
       "url": "https://open.spotify.com/track/4q1LQDKbCd6JX2EDJTRZjn"
@@ -41288,7 +41460,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 213554,
       "name": "When The Light Breaks",
       "url": "https://open.spotify.com/track/5rPj0HY2HsT8qneZQL0jJk"

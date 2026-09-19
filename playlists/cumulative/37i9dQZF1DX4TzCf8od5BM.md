@@ -4,7 +4,7 @@
 
 > Sofia the First: Royal Magic is now available to watch on Disney Jr\. and Disney+!
 
-250 songs - 6 hr 41 min
+251 songs - 6 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -94,6 +94,7 @@
 | [I Brush My Teeth](https://open.spotify.com/track/21CcXAr0c0aXyq7wFRhw6t) | [Rob Cantor](https://open.spotify.com/artist/1NtYiv70buGwaMspHuD49I) | [Disney Junior Music: Ready for Preschool Vol\. 2](https://open.spotify.com/album/5pGWhGWIzd5AjlLDk6ZJuZ) | 1:25 | 2022-03-18 | 2026-07-04 |
 | [I Love Kittydale](https://open.spotify.com/track/1sXbwRecL52c9OcJcWnZjN) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties](https://open.spotify.com/album/1Xcthm7WfSRGy3WaYe7R02) | 1:07 | 2023-02-03 | 2023-08-19 |
 | [I Love Kittydale](https://open.spotify.com/track/6tDqvLEFz3YnQeFlX8mxPd) | [SuperKitties \- Cast](https://open.spotify.com/artist/0J1rGrN9Vabx5A8qLV5Zuy), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: SuperKitties](https://open.spotify.com/album/1sl5YQ3LHpZOmKx9mdNPdI) | 1:07 | 2023-01-27 | 2023-02-05 |
+| [I'll Come Back to You](https://open.spotify.com/track/44urtUma795UpdADt2MLU5) | [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H), [Ozzy Fox](https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i), [Mama Fox](https://open.spotify.com/artist/1oTEIpktT99xzq5awLGKiN), [Papa Fox](https://open.spotify.com/artist/7mUmhKMIqiZwOS1kEZjUlU) | [Disney Jr\. Music: Ozzy Fox](https://open.spotify.com/album/4KYVNrgVnfGiZwLlanHBFL) | 1:59 | 2026-09-18 |  |
 | [I'm a Firefighter](https://open.spotify.com/track/6OWfse0RdCkZQn9zaxiolV) | [Firebuds \- Cast](https://open.spotify.com/artist/302laih82Q7GtW72QI8sGR), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Junior Music: Firebuds](https://open.spotify.com/album/6lqxNL9iYLCkY2jomLgY0u) | 1:09 | 2022-09-16 |  |
 | [I've Got a Friend Named Bob](https://open.spotify.com/track/4dQ3mGRpf96cs44j9w2yDJ) | ["Puppy Dog Pals" Cast](https://open.spotify.com/artist/6XYqhT02pSA6p3BoYe9P63) | [Disney Junior Music: Puppy Dog Pals \- Pup\-tastic Party](https://open.spotify.com/album/3veVX6rvkJ01H7UcpyOIp7) | 1:22 | 2022-03-18 | 2026-05-02 |
 | [In the Mirror](https://open.spotify.com/track/6DhQdBBs9qCRgjarM00Fmo) | [Ariel \- Cast](https://open.spotify.com/artist/55tVyQMqlv8vuCM8pveXLk), [Disney Junior](https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H) | [Disney Jr\. Music: Ariel, The Little Mermaid: Crystal Cavern](https://open.spotify.com/album/6HyaiQpz3nu8mnlunrgivG) | 2:01 | 2026-02-17 |  |

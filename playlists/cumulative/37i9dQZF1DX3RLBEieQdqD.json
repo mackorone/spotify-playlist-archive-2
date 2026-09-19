@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-09-07",
-  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Jessi Uribe, Eden Mu\u00f1oz",
+  "description": "\u00a1Popular, Mariachi, Vallenato y m\u00e1s pa' sentarse a beber! Foto: Joaquin Guiller",
   "name": "Ranchenato",
   "tracks": [
     {
@@ -3953,6 +3953,32 @@
     },
     {
       "album": {
+        "name": "Pa' Que No Me Anden Contando (Remix)",
+        "url": "https://open.spotify.com/album/08kLAE1CtYDg0EklM8LhwW"
+      },
+      "artists": [
+        {
+          "name": "Jessi Uribe",
+          "url": "https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS"
+        },
+        {
+          "name": "Juan Pablo Marquez",
+          "url": "https://open.spotify.com/artist/6vQ0XC3lBnVgYUzUzDv990"
+        },
+        {
+          "name": "Voz De Mando",
+          "url": "https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164253,
+      "name": "Pa' Que No Me Anden Contando - Remix",
+      "url": "https://open.spotify.com/track/5FjpV47OZnzaU85s0KToQS"
+    },
+    {
+      "album": {
         "name": "Descriterio",
         "url": "https://open.spotify.com/album/66Zehfpwnmx03XcjZmtm6p"
       },
@@ -4236,6 +4262,32 @@
       "duration_ms": 253414,
       "name": "REGALADA $ALES CARA - Remix",
       "url": "https://open.spotify.com/track/1HVl85DZpMA6u3jyFPNlWN"
+    },
+    {
+      "album": {
+        "name": "Sabor a Tequila",
+        "url": "https://open.spotify.com/album/1GVyTNO2C4Xd4qwBNe0iaX"
+      },
+      "artists": [
+        {
+          "name": "Luis Alfonso",
+          "url": "https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe"
+        },
+        {
+          "name": "Xavi",
+          "url": "https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1"
+        },
+        {
+          "name": "Silvestre Dangond",
+          "url": "https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202621,
+      "name": "Sabor a Tequila",
+      "url": "https://open.spotify.com/track/2Yf4vYhuvTeoV2AaisltKc"
     },
     {
       "album": {

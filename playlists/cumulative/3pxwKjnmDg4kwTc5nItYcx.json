@@ -15689,6 +15689,24 @@
     },
     {
       "album": {
+        "name": "trivia's over, there's a gas leak in the kitchen",
+        "url": "https://open.spotify.com/album/3ecurF3kkVzy4FldZySKXu"
+      },
+      "artists": [
+        {
+          "name": "Lily Wallace",
+          "url": "https://open.spotify.com/artist/7CWnS4iuMP7xrJECYPec0d"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182437,
+      "name": "trivia's over, there's a gas leak in the kitchen",
+      "url": "https://open.spotify.com/track/4qU4QbdvBwsHl8fl7y92ah"
+    },
+    {
+      "album": {
         "name": "Lux Prima",
         "url": "https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur"
       },

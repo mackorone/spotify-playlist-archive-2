@@ -709,6 +709,36 @@
     },
     {
       "album": {
+        "name": "Bacalov: Il postino",
+        "url": "https://open.spotify.com/album/3aDvJC3QsKj5Y07yKFu02a"
+      },
+      "artists": [
+        {
+          "name": "Luis Bacalov",
+          "url": "https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1"
+        },
+        {
+          "name": "Renaud Capu\u00e7on",
+          "url": "https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L"
+        },
+        {
+          "name": "St\u00e9phane Den\u00e8ve",
+          "url": "https://open.spotify.com/artist/7FPSLDmxB1UckL2c2NN1kb"
+        },
+        {
+          "name": "Brussels Philharmonic",
+          "url": "https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252706,
+      "name": "Il postino: Titoli",
+      "url": "https://open.spotify.com/track/4uwlw4Us5NTUBIdpPu1jp3"
+    },
+    {
+      "album": {
         "name": "Goodbye June (Soundtrack from the Netflix Film)",
         "url": "https://open.spotify.com/album/7rHo57cTI9eMxUhZyvl863"
       },

@@ -1,12 +1,12 @@
 {
   "description": "A collection of R&B, Soul and Gospel flavored Christmas songs for the holidays.",
-  "num_followers": 234794,
+  "num_followers": 234792,
   "original_name": "R&B Christmas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANU8ytdT0XEfU62uhn+5owuwmNDt",
+  "snapshot_id": "AAAAALM+NTYvecA9crh/kxo6azQKCJpJ",
   "tracks": [
     {
       "added_at": "2025-10-24 15:07:41",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "The Classic Christmas Album",
-        "url": "https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5"
-      },
-      "artists": [
-        {
-          "name": "Luther Vandross",
-          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
-        }
-      ],
-      "duration_ms": 305226,
-      "name": "Every Year, Every Christmas",
-      "url": "https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Christmas Special",
         "url": "https://open.spotify.com/album/3fXWnaHfndGSCqwBNMP4yl"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 188533,
       "name": "Christmas Special",
       "url": "https://open.spotify.com/track/5WPTYqK4CkaYkBY92WhDHW"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "The Classic Christmas Album",
+        "url": "https://open.spotify.com/album/3kcs7Sy2LOxHuQpEbraEo5"
+      },
+      "artists": [
+        {
+          "name": "Luther Vandross",
+          "url": "https://open.spotify.com/artist/19y5MFBH7gohEdGwKM7QsP"
+        }
+      ],
+      "duration_ms": 305226,
+      "name": "Every Year, Every Christmas",
+      "url": "https://open.spotify.com/track/1NPGiRG86PFwXzwrYZRa2a"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -851,18 +851,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Litmas",
-        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
+        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
+        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
       },
       "artists": [
         {
-          "name": "DRAM",
-          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
         }
       ],
-      "duration_ms": 188889,
-      "name": "Litmas",
-      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
+      "duration_ms": 144453,
+      "name": "What Christmas Means to Me - from \"The Best Man Holiday Original Motion Picture Soundtrack\"",
+      "url": "https://open.spotify.com/track/6fjsIxSPXnOjQleb11AYNU"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -883,18 +883,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "The Best Man Holiday: Original Motion Picture Soundtrack",
-        "url": "https://open.spotify.com/album/1oV4pg51THaPN4eJveWxHt"
+        "name": "Litmas",
+        "url": "https://open.spotify.com/album/5L8tVPZGpNSuPprmu7gqIR"
       },
       "artists": [
         {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+          "name": "DRAM",
+          "url": "https://open.spotify.com/artist/5M0lbkGluOPXLeFjApw8r8"
         }
       ],
-      "duration_ms": 144453,
-      "name": "What Christmas Means to Me - from \"The Best Man Holiday Original Motion Picture Soundtrack\"",
-      "url": "https://open.spotify.com/track/6fjsIxSPXnOjQleb11AYNU"
+      "duration_ms": 188889,
+      "name": "Litmas",
+      "url": "https://open.spotify.com/track/5sfoBZrl37SOhhIS0DMC5a"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -931,6 +931,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
+        "name": "Christmas After Midnight",
+        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
+      },
+      "artists": [
+        {
+          "name": "Fantasia",
+          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
+        }
+      ],
+      "duration_ms": 263920,
+      "name": "Hallelujah",
+      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
         "name": "Christmas in Baltimore",
         "url": "https://open.spotify.com/album/74I30qyYY4fofXIaViaQ2r"
       },
@@ -963,22 +979,6 @@
       "duration_ms": 190286,
       "name": "The First Noel (feat. Cory Henry) - Spotify Holiday Single",
       "url": "https://open.spotify.com/track/3tqjlg9Ut8l3WWRe1J0cNQ"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Christmas After Midnight",
-        "url": "https://open.spotify.com/album/6o4pzR1SeFzgVtUcAyTDJ2"
-      },
-      "artists": [
-        {
-          "name": "Fantasia",
-          "url": "https://open.spotify.com/artist/7xAcVHPiirnUqfdqo0USb1"
-        }
-      ],
-      "duration_ms": 263920,
-      "name": "Hallelujah",
-      "url": "https://open.spotify.com/track/0szwRYpWJcn58dzB8ZPSxp"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1259,22 +1259,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Def The Halls",
-        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
-      },
-      "artists": [
-        {
-          "name": "Coco Jones",
-          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
-        }
-      ],
-      "duration_ms": 176461,
-      "name": "Silver Bells",
-      "url": "https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Here (For Christmas)",
         "url": "https://open.spotify.com/album/6wnQgfOYDXcrI4CcI8I0pw"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 253046,
       "name": "Here (For Christmas)",
       "url": "https://open.spotify.com/track/21jVByCWeQAlt3xB5XtNfl"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Def The Halls",
+        "url": "https://open.spotify.com/album/0wV5Edyo92gZMKvEPpxUAc"
+      },
+      "artists": [
+        {
+          "name": "Coco Jones",
+          "url": "https://open.spotify.com/artist/4DHLoiIqFYYFjH09WduvFd"
+        }
+      ],
+      "duration_ms": 176461,
+      "name": "Silver Bells",
+      "url": "https://open.spotify.com/track/4llYiT4hqVZAshVmEAmc1W"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1359,26 +1359,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "This Christmas",
-        "url": "https://open.spotify.com/album/23jUzlbMdbzQEEUyJgQbl8"
-      },
-      "artists": [
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        },
-        {
-          "name": "Lalah Hathaway",
-          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
-        }
-      ],
-      "duration_ms": 242563,
-      "name": "This Christmas",
-      "url": "https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Nothing Like Christmas",
         "url": "https://open.spotify.com/album/1gZdV7rZkQi1XUzGkAXMJ2"
       },
@@ -1411,22 +1391,22 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Spotify Singles - Holiday",
-        "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
+        "name": "This Christmas",
+        "url": "https://open.spotify.com/album/23jUzlbMdbzQEEUyJgQbl8"
       },
       "artists": [
         {
-          "name": "Xavier Om\u00e4r",
-          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
         },
         {
-          "name": "Sango",
-          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+          "name": "Lalah Hathaway",
+          "url": "https://open.spotify.com/artist/0uNEy4544VZq2KOl7BsLuo"
         }
       ],
-      "duration_ms": 186098,
-      "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
-      "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
+      "duration_ms": 242563,
+      "name": "This Christmas",
+      "url": "https://open.spotify.com/track/721Z5ii3hik988t1ixcDJc"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1443,6 +1423,26 @@
       "duration_ms": 180588,
       "name": "Merry Like This",
       "url": "https://open.spotify.com/track/1BvOIRGQwiPsL3XPOdpZad"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Spotify Singles - Holiday",
+        "url": "https://open.spotify.com/album/50RXkvDaqBXrh7JGUuuCyB"
+      },
+      "artists": [
+        {
+          "name": "Xavier Om\u00e4r",
+          "url": "https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg"
+        },
+        {
+          "name": "Sango",
+          "url": "https://open.spotify.com/artist/7e3FtKBIPLrIVm8g1FJMVg"
+        }
+      ],
+      "duration_ms": 186098,
+      "name": "Wonderful Christmastime - Recorded at Spotify Studios NYC",
+      "url": "https://open.spotify.com/track/4MidM1ux8fwIWEM01eX6AC"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1484,22 +1484,6 @@
       },
       "artists": [
         {
-          "name": "Sebastian Mikael",
-          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
-        }
-      ],
-      "duration_ms": 275902,
-      "name": "Chimney [from Still Home For The Holidays (An R&B Christmas Album)]",
-      "url": "https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Still Home For The Holidays",
-        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
-      },
-      "artists": [
-        {
           "name": "Ty Dolla $ign",
           "url": "https://open.spotify.com/artist/7c0XG5cIJTrrAgEC3ULPiq"
         },
@@ -1511,6 +1495,22 @@
       "duration_ms": 175347,
       "name": "Alone for Christmas (feat. Kiana Led\u00e9) - from Still Home For The Holidays (An R&B Christmas Album)",
       "url": "https://open.spotify.com/track/1CCBd0tgDe1Diql27LeqZ0"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Still Home For The Holidays",
+        "url": "https://open.spotify.com/album/7FAqu4DgE3XkBzq8ub8dBv"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Mikael",
+          "url": "https://open.spotify.com/artist/4hknFHNFp3UMm2Rbc6Ansf"
+        }
+      ],
+      "duration_ms": 275902,
+      "name": "Chimney [from Still Home For The Holidays (An R&B Christmas Album)]",
+      "url": "https://open.spotify.com/track/1jU3jSkN5AYkiAsHlp4rDP"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1547,6 +1547,22 @@
       "duration_ms": 214373,
       "name": "The Christmas Song (feat. Chaka Khan)",
       "url": "https://open.spotify.com/track/48wCIeqP6xauczfsrOX3fJ"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Eazy Christmas",
+        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 179435,
+      "name": "Kisses On Christmas",
+      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1599,38 +1615,6 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Eazy Christmas",
-        "url": "https://open.spotify.com/album/3l8Bbp0kaZXMhUCWKFx2FT"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 179435,
-      "name": "Kisses On Christmas",
-      "url": "https://open.spotify.com/track/2zE7DVdqQxtcZ9LCuRpf0m"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
-        "name": "Have Yourself A Merry Little Christmas",
-        "url": "https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd"
-      },
-      "artists": [
-        {
-          "name": "Keyshia Cole",
-          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
-        }
-      ],
-      "duration_ms": 151600,
-      "name": "Have Yourself A Merry Little Christmas",
-      "url": "https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A"
-    },
-    {
-      "added_at": "2025-10-24 15:07:41",
-      "album": {
         "name": "Christmas Kisses",
         "url": "https://open.spotify.com/album/3nowY3FIVGxnVxZqVqN3ki"
       },
@@ -1651,22 +1635,18 @@
     {
       "added_at": "2025-10-24 15:07:41",
       "album": {
-        "name": "Save The World Remix Suite",
-        "url": "https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9"
+        "name": "Have Yourself A Merry Little Christmas",
+        "url": "https://open.spotify.com/album/1y4RiFdd1TpCrWAx7dVkNd"
       },
       "artists": [
         {
-          "name": "Marvin Gaye",
-          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
-        },
-        {
-          "name": "Salaam Remi",
-          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+          "name": "Keyshia Cole",
+          "url": "https://open.spotify.com/artist/1vfezMIyCr4XUdYRaKIKi3"
         }
       ],
-      "duration_ms": 299829,
-      "name": "I Want To Come Home For Christmas - SaLaAM ReMi Remix",
-      "url": "https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2"
+      "duration_ms": 151600,
+      "name": "Have Yourself A Merry Little Christmas",
+      "url": "https://open.spotify.com/track/7sCq3Z3xqytO4aOdsjx16A"
     },
     {
       "added_at": "2025-10-24 15:07:41",
@@ -1683,6 +1663,26 @@
       "duration_ms": 203434,
       "name": "Someday At Christmas",
       "url": "https://open.spotify.com/track/0omLPJ3WKOOSCVmHYgMJKZ"
+    },
+    {
+      "added_at": "2025-10-24 15:07:41",
+      "album": {
+        "name": "Save The World Remix Suite",
+        "url": "https://open.spotify.com/album/4QrE2ziKN8rbMQGBYQo8f9"
+      },
+      "artists": [
+        {
+          "name": "Marvin Gaye",
+          "url": "https://open.spotify.com/artist/3koiLjNrgRTNbOwViDipeA"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        }
+      ],
+      "duration_ms": 299829,
+      "name": "I Want To Come Home For Christmas - SaLaAM ReMi Remix",
+      "url": "https://open.spotify.com/track/14Gq8jrY24pCzdCSLcn5V2"
     },
     {
       "added_at": "2025-10-24 15:07:41",

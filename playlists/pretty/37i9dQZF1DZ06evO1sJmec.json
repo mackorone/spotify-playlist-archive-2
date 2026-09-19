@@ -1,12 +1,12 @@
 {
   "description": "This is Metallica. The essential tracks, all in one playlist.",
-  "num_followers": 2123622,
+  "num_followers": 2123829,
   "original_name": "This Is Metallica",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAACPevOPuINu9uJl+MJDocQr",
+  "snapshot_id": "aqstgAAAAAA9ilzHHpWrr/N6ZFNpFCMB",
   "tracks": [
     {
       "added_at": null,
@@ -267,22 +267,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Remastered)",
-        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 395706,
-      "name": "Creeping Death - Remastered",
-      "url": "https://open.spotify.com/track/4CLRLdxUDPNeO1xCW0U2zC"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Reload",
         "url": "https://open.spotify.com/album/0Ip2GlQPoAIgdkqCO2YkMa"
       },
@@ -299,6 +283,22 @@
       "duration_ms": 279173,
       "name": "The Memory Remains",
       "url": "https://open.spotify.com/track/6RbC38oDCIXD8V2AOU1Tjr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 395706,
+      "name": "Creeping Death - Remastered",
+      "url": "https://open.spotify.com/track/4CLRLdxUDPNeO1xCW0U2zC"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Disappear",
-        "url": "https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 266240,
-      "name": "I Disappear",
-      "url": "https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u2026And Justice for All (Remastered)",
         "url": "https://open.spotify.com/album/6jZ1z25PyF4Yd3kHxt9rl1"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 585506,
       "name": "...And Justice for All",
       "url": "https://open.spotify.com/track/4a47TNOfJ9vbpbmU31wpgT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "I Disappear",
+        "url": "https://open.spotify.com/album/7cJ4oRwyJ5BU1oj29AquOM"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 266240,
+      "name": "I Disappear",
+      "url": "https://open.spotify.com/track/46tSt69Xw10Ej8Rn7wJmFt"
     },
     {
       "added_at": null,
@@ -623,22 +623,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride The Lightning (Remastered)",
-        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 284506,
-      "name": "Fight Fire With Fire - Remastered",
-      "url": "https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Hardwired\u2026To Self-Destruct",
         "url": "https://open.spotify.com/album/7LwifLL1anaEd9eIIfIkx7"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 350644,
       "name": "Moth Into Flame",
       "url": "https://open.spotify.com/track/3JjZq20Kv6UphyyirAaY9A"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride The Lightning (Remastered)",
+        "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 284506,
+      "name": "Fight Fire With Fire - Remastered",
+      "url": "https://open.spotify.com/track/6ckozbGmOusAnLT2LEbERy"
     },
     {
       "added_at": null,
@@ -719,18 +719,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kill 'Em All (Remastered)",
-        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
+        "name": "Jungle Cruise (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/0QVHqbXNWF56DkR6gv1jgq"
       },
       "artists": [
+        {
+          "name": "James Newton Howard",
+          "url": "https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2"
+        },
         {
           "name": "Metallica",
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 187840,
-      "name": "Motorbreath - Remastered",
-      "url": "https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln"
+      "duration_ms": 86906,
+      "name": "Nothing Else Matters - Jungle Cruise Version Part 1",
+      "url": "https://open.spotify.com/track/4PGBgDZAcUpAapDtfdX5Np"
     },
     {
       "added_at": null,
@@ -751,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "S&M",
-        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
+        "name": "Kill 'Em All (Remastered)",
+        "url": "https://open.spotify.com/album/1aGapZGHBovnmhwqVNI6JZ"
       },
       "artists": [
         {
@@ -760,9 +764,9 @@
           "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
         }
       ],
-      "duration_ms": 343200,
-      "name": "No Leaf Clover - Live",
-      "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
+      "duration_ms": 187840,
+      "name": "Motorbreath - Remastered",
+      "url": "https://open.spotify.com/track/6RqEJvpEzzlwj8g0wKG1ln"
     },
     {
       "added_at": null,
@@ -783,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "S&M",
+        "url": "https://open.spotify.com/album/1OZaosC2RtsE2TEqLziwAD"
+      },
+      "artists": [
+        {
+          "name": "Metallica",
+          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
+        }
+      ],
+      "duration_ms": 343200,
+      "name": "No Leaf Clover - Live",
+      "url": "https://open.spotify.com/track/2UIuYNBg8r5pkoG2MjdLZT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ride The Lightning (Remastered)",
         "url": "https://open.spotify.com/album/05DePtm7oQMdL3Uzw2Jmsc"
       },
@@ -795,22 +815,6 @@
       "duration_ms": 244066,
       "name": "Trapped Under Ice - Remastered",
       "url": "https://open.spotify.com/track/3J8jTThxk8GtxyoupHtyrb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Master Of Puppets (Remastered)",
-        "url": "https://open.spotify.com/album/2Lq2qX3hYhiuPckC8Flj21"
-      },
-      "artists": [
-        {
-          "name": "Metallica",
-          "url": "https://open.spotify.com/artist/2ye2Wgw4gimLv2eAKyk1NB"
-        }
-      ],
-      "duration_ms": 339880,
-      "name": "Leper Messiah",
-      "url": "https://open.spotify.com/track/6XN00D9ejjEt1cW1sY44Gu"
     }
   ],
   "unique_name": "This Is Metallica",

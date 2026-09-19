@@ -507,6 +507,24 @@
     },
     {
       "album": {
+        "name": "Always The Same",
+        "url": "https://open.spotify.com/album/0UQd6myReEV9LZ5NcT1lJW"
+      },
+      "artists": [
+        {
+          "name": "Ruby Plume",
+          "url": "https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201000,
+      "name": "Always The Same",
+      "url": "https://open.spotify.com/track/5RZomQGckBcXSH8lsKBhqD"
+    },
+    {
+      "album": {
         "name": "AMATEUR AT BEST",
         "url": "https://open.spotify.com/album/11QFWsQoSk0qQzrndUokih"
       },
@@ -2006,7 +2024,7 @@
       ],
       "date_added": "2026-03-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 246866,
       "name": "Cannock Chase",
       "url": "https://open.spotify.com/track/0WAEGVylZjbe2mQ6Or6HxY"
@@ -2834,7 +2852,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 148196,
       "name": "Daddy's Gonna Buy You a Car",
       "url": "https://open.spotify.com/track/5euyasUWQNPf0uwQshxMv5"
@@ -7795,6 +7813,24 @@
     },
     {
       "album": {
+        "name": "i think i had something once",
+        "url": "https://open.spotify.com/album/2DuPrN4ZNbie1EmjJErImG"
+      },
+      "artists": [
+        {
+          "name": "Aubory Bugg",
+          "url": "https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173808,
+      "name": "just embers now",
+      "url": "https://open.spotify.com/track/5odEnVcWzR91r5h0ww62GF"
+    },
+    {
+      "album": {
         "name": "Just My Friend",
         "url": "https://open.spotify.com/album/5VQqBCiCDRrQJg3jFQvqli"
       },
@@ -8956,6 +8992,24 @@
       "duration_ms": 156346,
       "name": "mistake",
       "url": "https://open.spotify.com/track/2VkcrRCSaTORydPZVBv4i1"
+    },
+    {
+      "album": {
+        "name": "modern age",
+        "url": "https://open.spotify.com/album/0dvmUfEi9sGQLe3IqH1qcM"
+      },
+      "artists": [
+        {
+          "name": "lighthearted",
+          "url": "https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124928,
+      "name": "modern age",
+      "url": "https://open.spotify.com/track/3tHE9MegiMFMlkLIi5kD5B"
     },
     {
       "album": {
@@ -10672,7 +10726,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 214200,
       "name": "Pictures of You",
       "url": "https://open.spotify.com/track/4uw8eVbfUdCAjLp3yt4Woe"
@@ -11928,6 +11982,24 @@
       "duration_ms": 183655,
       "name": "satellite",
       "url": "https://open.spotify.com/track/106Dycnmmllhx8knNXpltf"
+    },
+    {
+      "album": {
+        "name": "Say It",
+        "url": "https://open.spotify.com/album/5Ing5q75Z5e4uqQNC0yh4Z"
+      },
+      "artists": [
+        {
+          "name": "Frankie Venter",
+          "url": "https://open.spotify.com/artist/4OpEtCxKCkuq7XqJ18zVYn"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197846,
+      "name": "Say It",
+      "url": "https://open.spotify.com/track/31gyMsBSLitwetPKlcntZv"
     },
     {
       "album": {
@@ -15498,7 +15570,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 176946,
       "name": "Wheels - with Babehoven & Billie Marten",
       "url": "https://open.spotify.com/track/6Tad0GdthV8sEb5bFMB613"

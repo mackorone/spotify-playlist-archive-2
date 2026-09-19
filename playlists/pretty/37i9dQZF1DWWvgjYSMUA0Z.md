@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 
 > Music to encourage emotional and physical healing through Reiki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 272,339 likes - 169 songs - 8 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 272,382 likes - 169 songs - 8 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -178,4 +178,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvgjYSMUA0Z.md) - [plain]
 | 168 | [Resonance](https://open.spotify.com/track/1vi0eotBTP65wrsESE9R7k) | [Evanesce](https://open.spotify.com/artist/5UPSHUrbSsFQCpKhIi9nr8) | [Resonance](https://open.spotify.com/album/0DR1BD43lQAW0RwSWvGZln) | 2:23 |
 | 169 | [Moonstone](https://open.spotify.com/track/6QjZfcN8ofBlHN7Thz5xhI) | [Calmatic](https://open.spotify.com/artist/4pnzDhLyf7keokIDeCTVVJ) | [Moonstone](https://open.spotify.com/album/0mSsRi0WvR4ySKbnwCKKy2) | 2:49 |
 
-Snapshot ID: `AAAAANaZjRDJ5l+vLAtqEJnozjbd8sI6`
+Snapshot ID: `AAAAAII7YDxzo025zF16KlfArh0AMtlC`

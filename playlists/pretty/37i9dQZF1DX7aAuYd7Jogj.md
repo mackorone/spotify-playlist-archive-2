@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 
 > Música ambiental para un sueño profundo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,960,938 likes - 366 songs - 16 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,961,137 likes - 366 songs - 16 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -375,4 +375,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7aAuYd7Jogj.md) - [plain]
 | 365 | [Afterglow](https://open.spotify.com/track/4HT1WedbhVHDpyFem0aMg4) | [Morgondimma](https://open.spotify.com/artist/0mQskyOm143f9LT371ux2U) | [Afterglow](https://open.spotify.com/album/3CBIrtuyWg8ZDqcnsw5tNu) | 2:39 |
 | 366 | [Lyria](https://open.spotify.com/track/6vMuJ5Ksai6YewJFVEsJcK) | [Nova Cantabile](https://open.spotify.com/artist/2Y6DHL3HjAYTtjKurRxg1l) | [Lyria](https://open.spotify.com/album/1mi4W11biS0vxNLxqtz6aG) | 2:44 |
 
-Snapshot ID: `AAAAAFrr8HgtkKYjTUJUPXhD0Pntdvwf`
+Snapshot ID: `AAAAAB3hreCzmq01ND6Ac7azsWwIgkjc`

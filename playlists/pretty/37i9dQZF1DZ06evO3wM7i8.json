@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 36865,
+  "num_followers": 36877,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAAAXUqSk60zqVdohzr0Du33",
+  "snapshot_id": "aqstgAAAAABoO63cMv1Fp00/dAHaIOd7",
   "tracks": [
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 140786,
+      "name": "Scatterbrain",
+      "url": "https://open.spotify.com/track/0aDbWBBoa2rkCImzeLugcE"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangologie Vol.12 / 1940 - 1941",
         "url": "https://open.spotify.com/album/1SVnrt2YEvlLIgLs65KxFL"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 168400,
       "name": "Swing 42",
       "url": "https://open.spotify.com/track/3n9LOtOJRK0dpGUhfFoaqj"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 140786,
-      "name": "Scatterbrain",
-      "url": "https://open.spotify.com/track/0aDbWBBoa2rkCImzeLugcE"
     },
     {
       "added_at": null,
@@ -507,6 +507,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Djangologie Vol9 / 1939 - 1940",
+        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 157066,
+      "name": "A Pretty Girl Is Like a Melody",
+      "url": "https://open.spotify.com/track/3XTGJlIluS71fut4P7uBsI"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Djangologie Vol6 / 1937",
         "url": "https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf"
       },
@@ -519,22 +535,6 @@
       "duration_ms": 198800,
       "name": "Improvisation sur le 1er mvt concerto r\u00e9 mineur",
       "url": "https://open.spotify.com/track/0ITMcSpAs4tjp4PZk0cRz8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 185546,
-      "name": "Topsy",
-      "url": "https://open.spotify.com/track/4vGPfSDRZwicewDUvaqBjK"
     },
     {
       "added_at": null,
@@ -607,8 +607,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Djangologie Vol9 / 1939 - 1940",
-        "url": "https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun"
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
       },
       "artists": [
         {
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
         }
       ],
-      "duration_ms": 157066,
-      "name": "A Pretty Girl Is Like a Melody",
-      "url": "https://open.spotify.com/track/3XTGJlIluS71fut4P7uBsI"
+      "duration_ms": 185546,
+      "name": "Topsy",
+      "url": "https://open.spotify.com/track/4vGPfSDRZwicewDUvaqBjK"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
       "duration_ms": 157840,
       "name": "Ol' Man River",
       "url": "https://open.spotify.com/track/0MWuBu7R8svPnlcas59cXN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 168493,
-      "name": "My Melancholy Baby",
-      "url": "https://open.spotify.com/track/7qcXGDzIkRUjfm7r75XW0k"
     },
     {
       "added_at": null,
@@ -723,6 +707,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 168493,
+      "name": "My Melancholy Baby",
+      "url": "https://open.spotify.com/track/7qcXGDzIkRUjfm7r75XW0k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Django Reinhardt",
         "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
       },
@@ -735,22 +735,6 @@
       "duration_ms": 176306,
       "name": "Place de Brouckere",
       "url": "https://open.spotify.com/track/4ryT12OMraUMCIhBb4bbly"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 211266,
-      "name": "Anniversary Song",
-      "url": "https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J"
     },
     {
       "added_at": null,
@@ -803,6 +787,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 211266,
+      "name": "Anniversary Song",
+      "url": "https://open.spotify.com/track/62RDBsdCy8RgrIND5BAh1J"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Best Of Django Reinhardt",
         "url": "https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF"
       },
@@ -815,22 +815,6 @@
       "duration_ms": 182866,
       "name": "My Serenade",
       "url": "https://open.spotify.com/track/02M5DvRoOiiPuBTQSpHYuA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Django Reinhardt: Legendary Recordings",
-        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 160866,
-      "name": "Sugar",
-      "url": "https://open.spotify.com/track/1rV3Q3UrxEWHkSo68lPiqb"
     },
     {
       "added_at": null,
@@ -879,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Limitless Jazz, Vol. 31",
-        "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
+        "name": "Django Reinhardt: Legendary Recordings",
+        "url": "https://open.spotify.com/album/7HG9retTWM7vjPh9HQy179"
       },
       "artists": [
         {
           "name": "Django Reinhardt",
           "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        },
-        {
-          "name": "Stephane Grappelli",
-          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
         }
       ],
-      "duration_ms": 174640,
-      "name": "Just One Of Those Things",
-      "url": "https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5"
+      "duration_ms": 160866,
+      "name": "Sugar",
+      "url": "https://open.spotify.com/track/1rV3Q3UrxEWHkSo68lPiqb"
     },
     {
       "added_at": null,
@@ -911,6 +891,26 @@
       "duration_ms": 259306,
       "name": "Beyond The Sea (La Mer)",
       "url": "https://open.spotify.com/track/5m3Gs5SU94QNkkK9DGaY1U"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Limitless Jazz, Vol. 31",
+        "url": "https://open.spotify.com/album/56ISLaoHBvb1fjVb2BB1ur"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        },
+        {
+          "name": "Stephane Grappelli",
+          "url": "https://open.spotify.com/artist/53xzJkWMGReUFyDPs9qY4z"
+        }
+      ],
+      "duration_ms": 174640,
+      "name": "Just One Of Those Things",
+      "url": "https://open.spotify.com/track/5Wi3fJl64lJAjbYcRuzeG5"
     },
     {
       "added_at": null,

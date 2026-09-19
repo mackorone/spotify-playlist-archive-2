@@ -4,7 +4,7 @@
 
 > Funky vocoders and talk boxes
 
-131 songs - 9 hr 38 min
+132 songs - 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Make It Funky \- Disco Mix](https://open.spotify.com/track/5nRXDUpWjtU7bCJURktRmE) | [TheDjLawyer](https://open.spotify.com/artist/7k2fD4YbAzbcHX5DFl0RDD) | [Make It Funky](https://open.spotify.com/album/2qhZSAmJea58xjhasjr96u) | 4:50 | 2023-05-05 |  |
 | [Make You Mine](https://open.spotify.com/track/1aKPbD7aGsySdLz27P92Gt) | [Breakbot](https://open.spotify.com/artist/0iui2Be5CP8EWxvHYsVspL) | [Baby I'm Yours](https://open.spotify.com/album/0sCktPXUOt19W503or8h9b) | 3:23 | 2020-09-18 |  |
 | [Mamacita](https://open.spotify.com/track/2tDdZBlft2KbcRjRdbX13E) | [Winfree](https://open.spotify.com/artist/4Iov3IICSPYPmfcjuHBiJI) | [Mamacita](https://open.spotify.com/album/3VeXhkyKkUPyI6RO9w3sZ3) | 3:14 | 2021-06-04 |  |
+| [Midas Touch](https://open.spotify.com/track/038D4db0mzjZpmiR9VnKLa) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Midas Touch](https://open.spotify.com/album/59SurwzOxCIJhMzDVcCGvJ) | 3:00 | 2026-09-18 |  |
 | [More Bounce to the Ounce](https://open.spotify.com/track/3Ho35OJixLg20qshXRgfBs) | [Zapp](https://open.spotify.com/artist/396Kh0m4wGUvcMUULw71yi) | [All the Greatest Hits](https://open.spotify.com/album/3aUZ0iLjcePsDggYsZAGBZ) | 5:12 | 2020-09-18 |  |
 | [More Than A Lover \- Remix](https://open.spotify.com/track/0YzS2vJwkzvoHHhjCzbNx2) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Help 2.0](https://open.spotify.com/album/3uAuno5UPTQSyRUOEYwxS2) | 3:21 | 2020-09-18 | 2024-04-19 |
 | [More Than a Lover Remix \(feat\. Mr\. Talkbox\)](https://open.spotify.com/track/2Hkikbq9geAVPYcSg740p1) | [Erica Campbell](https://open.spotify.com/artist/46CCmeVLrgc6MnyVpVMOzp), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH) | [Help 2.0](https://open.spotify.com/album/6ovRbwijSiDwYB8H5eg52M) | 3:21 | 2020-09-18 |  |

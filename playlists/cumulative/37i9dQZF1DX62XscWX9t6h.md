@@ -4,7 +4,7 @@
 
 > 21st Century nomadic expressions interwoven into a very unexpected patchwork.
 
-241 songs - 17 hr 4 min
+242 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -117,7 +117,7 @@
 | [Les Assassins](https://open.spotify.com/track/1ZNqgaLZfd5AUIYad8IsYF) | [Combo Daguerre](https://open.spotify.com/artist/5o5fwodeTwd5bEzG5mOj6F) | [Les Assassins](https://open.spotify.com/album/1Zu4xqanWGagE0TbMb7k9k) | 4:09 | 2024-07-05 | 2024-10-05 |
 | [Letter to the Martyrs](https://open.spotify.com/track/5NPqlvUBNkiqsgxVd2SM6M) | [cacique'97](https://open.spotify.com/artist/33t1sk0KBtX3FxfAyWsSkc) | [Letter to the Martyrs](https://open.spotify.com/album/27YMLZSmyV4t5R0ygfqLM5) | 4:14 | 2024-07-05 | 2025-10-05 |
 | [Lluvia](https://open.spotify.com/track/2QKIcgKfCpmVkfpMeqq5Rg) | [Çantamarta](https://open.spotify.com/artist/5Ayb9yqemFxECJB8LEG8ln) | [Lluvia](https://open.spotify.com/album/1paKQg7gOp16XexZyAjNvE) | 2:53 | 2021-10-20 | 2024-01-12 |
-| [Long Pond Lily](https://open.spotify.com/track/6Ra5CZCY5n706HnbJCS2FN) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Long Pond Lily](https://open.spotify.com/album/0DZu4BfkEbSHe2hiAQCymA) | 4:26 | 2025-05-05 |  |
+| [Long Pond Lily](https://open.spotify.com/track/6Ra5CZCY5n706HnbJCS2FN) | [Hayden Pedigo](https://open.spotify.com/artist/4OR0gbDLGgJ4fxoXB0ZCYZ) | [Long Pond Lily](https://open.spotify.com/album/0DZu4BfkEbSHe2hiAQCymA) | 4:26 | 2025-05-05 | 2026-09-19 |
 | [Los Andes](https://open.spotify.com/track/3HGlaKMMFsTEaat5TZ9vJF) | [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [Los Andes](https://open.spotify.com/album/0tXFnX1VTSiM89BsX7nvMZ) | 3:31 | 2026-08-21 |  |
 | [Los Chucos Suaves \(featuring Macha\)](https://open.spotify.com/track/71JT61x0b1jpIdjMG2B7u7) | [Son Rompe Pera](https://open.spotify.com/artist/0UKHKimjIGeFoS29LxWf4V), [Macha](https://open.spotify.com/artist/4nlcyHlvzjmpjOJ09k2nb9) | [Batuco](https://open.spotify.com/album/3M8Eepfnzl2kaKyBVqjguX) | 3:12 | 2022-02-12 |  |
 | [Love Buzz](https://open.spotify.com/track/3SihtP7OfilcWv91B3T78i) | [Gaye Su Akyol](https://open.spotify.com/artist/0VsS7WKuNEsKGNIWuiwSyZ) | [Love Buzz](https://open.spotify.com/album/5ZzgY4zglWsJAL1U4tkuiC) | 4:22 | 2023-09-25 | 2024-01-19 |
@@ -239,6 +239,7 @@
 | [Yak Sher](https://open.spotify.com/track/33sVaipoLkwfmS0FBPzgrc) | [Farhot](https://open.spotify.com/artist/25dl7AnPGblWzL4vmQ0qCt) | [Kabul Fire Vol\. 2](https://open.spotify.com/album/0xye43RFZ3KDSFI5OqLZm1) | 3:25 | 2021-10-20 | 2024-04-19 |
 | [Yaykatekar Dub \(Love Dub\)](https://open.spotify.com/track/6RAt5KUqAzW3XT8pVHTuTT) | [OKI](https://open.spotify.com/artist/1DyqDoMaDbFucSdywPnwhO) | [Tonkori In The Moonlight](https://open.spotify.com/album/5R83YBUE67ySdEaSc1Wpsx) | 5:10 | 2022-02-03 | 2024-02-02 |
 | [Yemayá](https://open.spotify.com/track/1LNxaEths4h9zioJN4yjJ4) | [Mexican Institute Of Sound](https://open.spotify.com/artist/4TPTW3cTwUtiihgOMSQfmy), [Gaby Moreno](https://open.spotify.com/artist/0K9pSmFx0kWESA9jqx8aCW) | [Yemayá](https://open.spotify.com/album/2sJglv0TslV4flsyAqQGmz) | 3:59 | 2021-10-20 |  |
+| [Yere Faga \- Natureboy Flako Version](https://open.spotify.com/track/4NsD2JP8rYaEL1SMhDivVm) | [Oumou Sangaré](https://open.spotify.com/artist/65CKKZilbcSKkAPC9a5Mvh), [Tony Allen](https://open.spotify.com/artist/2nWaAPCkilQ0mXATt2O3he), [Natureboy Flako](https://open.spotify.com/artist/41gy1E3ZlSK5KOjiDiqgmH) | [Mogoya Remixed](https://open.spotify.com/album/6TJC6eLskTBntkr9uP8O0x) | 5:00 | 2026-08-21 |  |
 | [Yoru Ni](https://open.spotify.com/track/0daxQGhaNTiE8HZn2aoIhH) | [TEKE::TEKE](https://open.spotify.com/artist/2muMdTToIY0P9819HvSYyu) | [Shirushi](https://open.spotify.com/album/2SCgXvQQ6Kljbasf9NR7Vc) | 4:00 | 2024-01-03 | 2024-10-05 |
 | [Yüce Dag Basinda](https://open.spotify.com/track/6uO8my6yaAbNVXxJNQ48rH) | [Altin Gün](https://open.spotify.com/artist/37PL04N8kBWWW69jdrMMWT) | [Yol](https://open.spotify.com/album/6IjH8qpZNlh4L5yJ2vzS6k) | 4:18 | 2021-10-20 | 2024-04-19 |
 | [ZENIT](https://open.spotify.com/track/4Zx0sAKSVmX9Sr5bX0W6hv) | [ONUKA](https://open.spotify.com/artist/2MVGuFg7kJgmXC2RkpJxz6) | [KOLIR](https://open.spotify.com/album/5g2VoLcAYrIdz1SDDBgmle) | 4:32 | 2021-10-20 | 2023-09-26 |

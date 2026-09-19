@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 
 > The hottest songs you need to listen to right now\. Cover: Jhené Aiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,198,024 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,197,706 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT1y71ZcMPe5.md) - [plain]
 | 49 | [Pop Off Pop Off](https://open.spotify.com/track/3iHzvU39BS03PD0zpNa19b) | [KiiiKiii](https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP) | [WhyKiiiKiii](https://open.spotify.com/album/6RrIZArw9cEz8gbpiylYFz) | 2:21 |
 | 50 | [She’s the Best](https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19) | 4:14 |
 
-Snapshot ID: `AAAAAN7VPOU1X5+KuHamjIDxbtgxSeZ8`
+Snapshot ID: `AAAAAAn39R/k/OiO0wTJX+t5rRw9y4ZS`

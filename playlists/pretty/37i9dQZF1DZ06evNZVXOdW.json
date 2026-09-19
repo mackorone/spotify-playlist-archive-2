@@ -1,12 +1,12 @@
 {
   "description": "This is Arooj Aftab. The essential tracks, all in one playlist.",
-  "num_followers": 9735,
+  "num_followers": 9738,
   "original_name": "This Is Arooj Aftab",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAAlb9I7bscBae9GTcTu7grw",
+  "snapshot_id": "aqstgAAAAAA5NDCHnegz9AqzU8fc4PJH",
   "tracks": [
     {
       "added_at": null,
@@ -103,26 +103,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freedom Now",
-        "url": "https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO"
+        "name": "Vulture Prince (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/1WH2ttzuKMSlxtfA7PQw8S"
       },
       "artists": [
         {
-          "name": "Nick Mulvey",
-          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
-        },
-        {
-          "name": "Golshifteh Farahani",
-          "url": "https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB"
-        },
-        {
           "name": "Arooj Aftab",
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Anoushka Shankar",
+          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
         }
       ],
-      "duration_ms": 224996,
-      "name": "Freedom Now",
-      "url": "https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5"
+      "duration_ms": 303361,
+      "name": "Udhero Na feat. Anoushka Shankar",
+      "url": "https://open.spotify.com/track/2hFN5GkZ1CNZNRp1tFYWqW"
     },
     {
       "added_at": null,
@@ -163,22 +159,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vulture Prince (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/1WH2ttzuKMSlxtfA7PQw8S"
+        "name": "Freedom Now",
+        "url": "https://open.spotify.com/album/3Bj0rk8lOxbzs5D2gOj9RO"
       },
       "artists": [
         {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+          "name": "Nick Mulvey",
+          "url": "https://open.spotify.com/artist/3x8FbPjh2Qz55XMdE2Yalj"
         },
         {
-          "name": "Anoushka Shankar",
-          "url": "https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU"
+          "name": "Golshifteh Farahani",
+          "url": "https://open.spotify.com/artist/2r87yC8H1mrlvAP8kq6BuB"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 303361,
-      "name": "Udhero Na feat. Anoushka Shankar",
-      "url": "https://open.spotify.com/track/2hFN5GkZ1CNZNRp1tFYWqW"
+      "duration_ms": 224996,
+      "name": "Freedom Now",
+      "url": "https://open.spotify.com/track/4rHQ8H5ZI8a9aIEGff3td5"
     },
     {
       "added_at": null,
@@ -331,6 +331,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 340400,
+      "name": "Aey Na Balam",
+      "url": "https://open.spotify.com/track/3yqeqSvhVZBfr7Jri53Jbq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
       },
@@ -351,22 +367,6 @@
       "duration_ms": 486598,
       "name": "Sajni",
       "url": "https://open.spotify.com/track/2IsMmLgrMbFjfDFe2Beur5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 497293,
-      "name": "Man Kunto Maula",
-      "url": "https://open.spotify.com/track/3184CMyowuchbfDlpM1rop"
     },
     {
       "added_at": null,
@@ -403,6 +403,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Bird Under Water",
+        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 497293,
+      "name": "Man Kunto Maula",
+      "url": "https://open.spotify.com/track/3184CMyowuchbfDlpM1rop"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -419,22 +435,6 @@
       "duration_ms": 119500,
       "name": "Beyond the Smoke Screen",
       "url": "https://open.spotify.com/track/2xdoRmz28lop5nqCc4v1GC"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bird Under Water",
-        "url": "https://open.spotify.com/album/1NAirccLvSolVSRuDNQ61R"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 340400,
-      "name": "Aey Na Balam",
-      "url": "https://open.spotify.com/track/3yqeqSvhVZBfr7Jri53Jbq"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
       "duration_ms": 256846,
       "name": "Zameen (feat. Chocolate Genius Incorporated)",
       "url": "https://open.spotify.com/track/4byAerUxEEu9dKVqpK0uBA"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Siren Islands",
-        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 477881,
-      "name": "Island No. 2",
-      "url": "https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW"
     },
     {
       "added_at": null,
@@ -531,6 +515,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Siren Islands",
+        "url": "https://open.spotify.com/album/3JXHEKcmSRlvDesUhccbDZ"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 477881,
+      "name": "Island No. 2",
+      "url": "https://open.spotify.com/track/3bzgUpxZiRmIJVbU78QrzW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -547,22 +547,6 @@
       "duration_ms": 166285,
       "name": "There Go the Clouds",
       "url": "https://open.spotify.com/track/3tPGyJZw8Mjxp82yIbhfw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Talvar",
-        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 200189,
-      "name": "Insaaf",
-      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
     },
     {
       "added_at": null,
@@ -607,6 +591,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Talvar",
+        "url": "https://open.spotify.com/album/2HScIV6V5QLSYZ6vyyctLT"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 200189,
+      "name": "Insaaf",
+      "url": "https://open.spotify.com/track/64zx8gCOeKKu3KINU2KiVb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -623,26 +623,6 @@
       "duration_ms": 410467,
       "name": "Rainy Streets",
       "url": "https://open.spotify.com/track/4LS4KDv8dOJ4HNNX6bolN0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "SPELLJAMS",
-        "url": "https://open.spotify.com/album/6V9QKCve0x4VTzOW8K4DK4"
-      },
-      "artists": [
-        {
-          "name": "Deru",
-          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
-        },
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        }
-      ],
-      "duration_ms": 469421,
-      "name": "Forgotten Land",
-      "url": "https://open.spotify.com/track/5HYvoAY6OwZp4hKHUA5rtV"
     },
     {
       "added_at": null,
@@ -683,6 +663,26 @@
       "duration_ms": 556525,
       "name": "To Remain/To Return",
       "url": "https://open.spotify.com/track/50gJubW06WlbN9zRqaSp6v"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "SPELLJAMS",
+        "url": "https://open.spotify.com/album/6V9QKCve0x4VTzOW8K4DK4"
+      },
+      "artists": [
+        {
+          "name": "Deru",
+          "url": "https://open.spotify.com/artist/4GolrXXRODq7bAGCod4JoV"
+        },
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        }
+      ],
+      "duration_ms": 469421,
+      "name": "Forgotten Land",
+      "url": "https://open.spotify.com/track/5HYvoAY6OwZp4hKHUA5rtV"
     },
     {
       "added_at": null,
@@ -735,26 +735,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution (Remix)",
-        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
-      },
-      "artists": [
-        {
-          "name": "Arooj Aftab",
-          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
-        },
-        {
-          "name": "Qais Essar",
-          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
-        }
-      ],
-      "duration_ms": 635805,
-      "name": "Dil Jalaney Ki Baat",
-      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Love In Exile",
         "url": "https://open.spotify.com/album/0nP1MzWoPnLfLglLS0v4CQ"
       },
@@ -779,6 +759,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Revolution (Remix)",
+        "url": "https://open.spotify.com/album/3uj3zZyoFtZLaJLioxmGhm"
+      },
+      "artists": [
+        {
+          "name": "Arooj Aftab",
+          "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
+        },
+        {
+          "name": "Qais Essar",
+          "url": "https://open.spotify.com/artist/15IBl7509ZIifHQ6IhYynD"
+        }
+      ],
+      "duration_ms": 635805,
+      "name": "Dil Jalaney Ki Baat",
+      "url": "https://open.spotify.com/track/5zKuk2XqZhqNDXTC8es73z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Tails Noir (Original Game Soundtrack)",
         "url": "https://open.spotify.com/album/1fHotEKyTMFFpMCxssBoiy"
       },
@@ -792,9 +792,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 185227,
-      "name": "Starling",
-      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
+      "duration_ms": 221642,
+      "name": "The Warmth of Parents' Hands",
+      "url": "https://open.spotify.com/track/4vzzXwWj4z2CObySCtDV4h"
     },
     {
       "added_at": null,
@@ -852,9 +852,9 @@
           "url": "https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5"
         }
       ],
-      "duration_ms": 221642,
-      "name": "The Warmth of Parents' Hands",
-      "url": "https://open.spotify.com/track/4vzzXwWj4z2CObySCtDV4h"
+      "duration_ms": 185227,
+      "name": "Starling",
+      "url": "https://open.spotify.com/track/5AYoaXGvbUYMnMlfAP62uT"
     }
   ],
   "unique_name": "This Is Arooj Aftab",

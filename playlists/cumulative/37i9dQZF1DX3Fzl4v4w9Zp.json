@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Where roots meet what\u2019s next. Cover: Futurebirds",
+  "description": "Where roots meet what\u2019s next. Cover: Noeline Hofmann",
   "name": "The Pulse of Americana",
   "tracks": [
     {
@@ -956,6 +956,24 @@
       "duration_ms": 244823,
       "name": "American Romance",
       "url": "https://open.spotify.com/track/6vS3l6JjTOp8LOZfDcKWDX"
+    },
+    {
+      "album": {
+        "name": "American Roots",
+        "url": "https://open.spotify.com/album/4Vpj2DIjCRIH7dgayKRB6r"
+      },
+      "artists": [
+        {
+          "name": "Brandy Clark",
+          "url": "https://open.spotify.com/artist/5vMAKlvvMNSRQRYCAvpG6S"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225541,
+      "name": "American Roots",
+      "url": "https://open.spotify.com/track/1EnhG9N6jNIBZFchM1EQRs"
     },
     {
       "album": {
@@ -2142,7 +2160,7 @@
       ],
       "date_added": "2025-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 263720,
       "name": "Brave the Weather",
       "url": "https://open.spotify.com/track/776QfJDeMP0o89mIioNAlU"
@@ -4190,7 +4208,7 @@
       ],
       "date_added": "2026-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 206931,
       "name": "DO IT ALL AGAIN",
       "url": "https://open.spotify.com/track/4xnWNcSDeYkOeN90KDKKka"
@@ -5775,6 +5793,24 @@
     },
     {
       "album": {
+        "name": "Freight Train",
+        "url": "https://open.spotify.com/album/2pImhhYndtgXgid3icpd72"
+      },
+      "artists": [
+        {
+          "name": "Sheryl Crow",
+          "url": "https://open.spotify.com/artist/4TKTii6gnOnUXQHyuo9JaD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229976,
+      "name": "Freight Train",
+      "url": "https://open.spotify.com/track/5jz1EecjIlkOKij1sxvbj0"
+    },
+    {
+      "album": {
         "name": "Surprise No. 1",
         "url": "https://open.spotify.com/album/4nuK9bdzH9Bx6wTWjUY31q"
       },
@@ -6418,7 +6454,7 @@
       ],
       "date_added": "2025-11-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 212687,
       "name": "Gone",
       "url": "https://open.spotify.com/track/087TB9G9VYQ8BDGOoKtbW8"
@@ -7736,6 +7772,24 @@
       "duration_ms": 259946,
       "name": "Hooray Hooray",
       "url": "https://open.spotify.com/track/6hMLis6Q8ykmLbTg7PakGu"
+    },
+    {
+      "album": {
+        "name": "Hope Is the Thing with Feathers",
+        "url": "https://open.spotify.com/album/1GqUJ1pY3mDZ29wLsJ7Qny"
+      },
+      "artists": [
+        {
+          "name": "Rhiannon Giddens",
+          "url": "https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175640,
+      "name": "Hope Is the Thing with Feathers",
+      "url": "https://open.spotify.com/track/4jLzG9tZZGTbc3p2VWjF7r"
     },
     {
       "album": {
@@ -9984,7 +10038,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 219139,
       "name": "Long Long Road",
       "url": "https://open.spotify.com/track/3j1niK872s5MqUfxqcTLvn"
@@ -10620,6 +10674,28 @@
       "duration_ms": 162200,
       "name": "Me and You",
       "url": "https://open.spotify.com/track/3QCC92CeayvexV8Fbd83ee"
+    },
+    {
+      "album": {
+        "name": "Me, After",
+        "url": "https://open.spotify.com/album/3UvXEKAfItY7GVhOzVIHHS"
+      },
+      "artists": [
+        {
+          "name": "Madeline Edwards",
+          "url": "https://open.spotify.com/artist/3eJCIS7ytlYvT3pgReuWWa"
+        },
+        {
+          "name": "Delaney Ramsdell",
+          "url": "https://open.spotify.com/artist/6Jx5tElAXRcTYfRuO9dm5o"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243941,
+      "name": "Me, After",
+      "url": "https://open.spotify.com/track/6lBI4TII4BY1SxIll3EiqT"
     },
     {
       "album": {
@@ -11908,6 +11984,28 @@
       "duration_ms": 226466,
       "name": "Old Gods",
       "url": "https://open.spotify.com/track/75CnQWeQ1V4tFSnes66c8H"
+    },
+    {
+      "album": {
+        "name": "Old History",
+        "url": "https://open.spotify.com/album/7ocZ2KL1aDPRJDkuN8svRl"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wade",
+          "url": "https://open.spotify.com/artist/4eYE8Z6cfEHEdG22lTyucP"
+        },
+        {
+          "name": "John Paul White",
+          "url": "https://open.spotify.com/artist/1yDI9pWnlrJmi9kZn3gkCb"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230579,
+      "name": "Old History",
+      "url": "https://open.spotify.com/track/0efnKvG3CCqweCGxgfpZkr"
     },
     {
       "album": {
@@ -13819,6 +13917,24 @@
     },
     {
       "album": {
+        "name": "Mule",
+        "url": "https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179054,
+      "name": "Run Out Of Road",
+      "url": "https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI"
+    },
+    {
+      "album": {
         "name": "Pressure Machine (Abridged)",
         "url": "https://open.spotify.com/album/7j8a2kSxAtenkXPim6mwUB"
       },
@@ -14542,7 +14658,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 272722,
       "name": "Six O'Clock News",
       "url": "https://open.spotify.com/track/3kbSNJhl1oRRjgX8PBKYAE"
@@ -17126,7 +17242,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 190923,
       "name": "Time Flies",
       "url": "https://open.spotify.com/track/3HdIk9Dv6CYWh35E2DzlAc"
@@ -17974,7 +18090,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 212715,
       "name": "we could use a little more",
       "url": "https://open.spotify.com/track/2ADoliMS6xPxeMg9C9iFdn"
@@ -18585,6 +18701,24 @@
     },
     {
       "album": {
+        "name": "Wide Open",
+        "url": "https://open.spotify.com/album/205S3gL9ecNDwCS6ZOtEWz"
+      },
+      "artists": [
+        {
+          "name": "William Prince",
+          "url": "https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310893,
+      "name": "Wide Open",
+      "url": "https://open.spotify.com/track/1n1bvVbadpuQ2pjTjE4r4Y"
+    },
+    {
+      "album": {
         "name": "Wild and Clear and Blue",
         "url": "https://open.spotify.com/album/2AAAjeTyO8T9juLBOKsCaV"
       },
@@ -18626,7 +18760,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 175653,
       "name": "Wild At Heart",
       "url": "https://open.spotify.com/track/7EVeo9YXY0UlctpcrrCxfp"
@@ -18684,6 +18818,24 @@
       "duration_ms": 169813,
       "name": "Wildest Dream",
       "url": "https://open.spotify.com/track/5YmEX0jmnkxNNg8vJsvbPN"
+    },
+    {
+      "album": {
+        "name": "Wilson Silverstar 402 Blues",
+        "url": "https://open.spotify.com/album/7Ato6HH1IWAPVjBjPIoxhP"
+      },
+      "artists": [
+        {
+          "name": "Noeline Hofmann",
+          "url": "https://open.spotify.com/artist/2xGbY9iFLZqd9BK0YV1aKW"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 283723,
+      "name": "Wilson Silverstar 402 Blues",
+      "url": "https://open.spotify.com/track/73ZTpFDEMU8wRmj4KXv0J2"
     },
     {
       "album": {

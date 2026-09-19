@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-18",
-  "description": "M\u00fasica brasileira fora da curva. Foto: Kiko Dinucci",
+  "description": "M\u00fasica brasileira fora da curva. Foto: jonabug",
   "name": "alt BR",
   "tracks": [
     {
@@ -3655,6 +3655,24 @@
     },
     {
       "album": {
+        "name": "White Elephant",
+        "url": "https://open.spotify.com/album/7wbNnaR5gOhzjyMQCyQcZI"
+      },
+      "artists": [
+        {
+          "name": "Negro Leo",
+          "url": "https://open.spotify.com/artist/6UKn12Sg5H3SyiFX5GalB6"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243873,
+      "name": "Coisado",
+      "url": "https://open.spotify.com/track/2zDhk1TVLzqSpEsCuuMafP"
+    },
+    {
+      "album": {
         "name": "Praeteritum",
         "url": "https://open.spotify.com/album/4P2MUjqeLMgIeMLDDByLUO"
       },
@@ -4658,6 +4676,24 @@
       "duration_ms": 239258,
       "name": "Deixa Minguar",
       "url": "https://open.spotify.com/track/3ttFDhTdRMAXxjKoKk88Q3"
+    },
+    {
+      "album": {
+        "name": "Deixa o Sol Me Queimar",
+        "url": "https://open.spotify.com/album/3BfVinoeFz0BaTflmvGLfj"
+      },
+      "artists": [
+        {
+          "name": "Chico e o Mar",
+          "url": "https://open.spotify.com/artist/24aBhTcvMpdnGyNBwbu2DJ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156399,
+      "name": "Deixa o Sol Me Queimar",
+      "url": "https://open.spotify.com/track/4nNdpTQnf6edG2D1uRr61S"
     },
     {
       "album": {
@@ -10988,7 +11024,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 268593,
       "name": "New Country",
       "url": "https://open.spotify.com/track/1682LH1SQUVyUsHHZM6zWr"
@@ -11588,7 +11624,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 268800,
       "name": "N\u00e3o Tem Espa\u00e7o pra Mais Nada (Al\u00e9m do Seu Ego Aqui)",
       "url": "https://open.spotify.com/track/0Wxwy0hM31v475vv2NKBmc"
@@ -12398,7 +12434,7 @@
       ],
       "date_added": "2026-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 206332,
       "name": "Ontem",
       "url": "https://open.spotify.com/track/0aq7xZ7JUOuOeHJaIPTpI3"
@@ -13611,6 +13647,24 @@
     },
     {
       "album": {
+        "name": "Psychedelic Friend",
+        "url": "https://open.spotify.com/album/030kePcAtg6EjVtZFtaISH"
+      },
+      "artists": [
+        {
+          "name": "Glue Trip",
+          "url": "https://open.spotify.com/artist/6b13SQkJSBYJxUoG8TaDcY"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236127,
+      "name": "Psychedelic Friend",
+      "url": "https://open.spotify.com/track/0qd4LaU8q4K129DLFtS6vx"
+    },
+    {
+      "album": {
         "name": "Um Novo Caminho",
         "url": "https://open.spotify.com/album/1xYId2qIZVZ3EnGLp88BCN"
       },
@@ -13640,7 +13694,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 169411,
       "name": "Pura Pur\u00edssima",
       "url": "https://open.spotify.com/track/6wjGy9KGq91UBqj52ydt9h"
@@ -14962,7 +15016,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 234863,
       "name": "Se Voc\u00ea Quisesse",
       "url": "https://open.spotify.com/track/09ZK2vh6egoRvHxRx6x3sz"
@@ -15140,6 +15194,24 @@
       "duration_ms": 170181,
       "name": "Sem Dire\u00e7\u00e3o",
       "url": "https://open.spotify.com/track/4YtGVCMMKJxFEcKzhRi1Su"
+    },
+    {
+      "album": {
+        "name": "Lembran\u00e7a",
+        "url": "https://open.spotify.com/album/3HHNW4eT76YYBJiJVrlw5N"
+      },
+      "artists": [
+        {
+          "name": "E A Terra Nunca Me Pareceu T\u00e3o Distante",
+          "url": "https://open.spotify.com/artist/218I9kMt3PFXsTsEMOhASh"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 316384,
+      "name": "Sem margem",
+      "url": "https://open.spotify.com/track/3gzbTYpYZU7IesqO6KKf7F"
     },
     {
       "album": {
@@ -18910,6 +18982,24 @@
       "duration_ms": 204500,
       "name": "\u00c1rvores do Fundo do Quintal",
       "url": "https://open.spotify.com/track/3MRGPpSroiVOxUdEOhHv4C"
+    },
+    {
+      "album": {
+        "name": "VERAS II",
+        "url": "https://open.spotify.com/album/6ocmtLBiqPFcEG1i2oLiX2"
+      },
+      "artists": [
+        {
+          "name": "Vera Fischer Era Clubber",
+          "url": "https://open.spotify.com/artist/7eWL16fgUCmADbKpHNQZom"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191620,
+      "name": "\u00c9 O Pico, \u00c9 O \u00c1pice",
+      "url": "https://open.spotify.com/track/5NrMukASd1cr5GOnh600Ir"
     },
     {
       "album": {

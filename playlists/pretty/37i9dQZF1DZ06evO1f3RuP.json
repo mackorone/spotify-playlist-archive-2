@@ -1,12 +1,12 @@
 {
   "description": "This is BAYLI. The essential tracks, all in one playlist.",
-  "num_followers": 331,
+  "num_followers": 333,
   "original_name": "This Is BAYLI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAAYHMiAynQVE9JWbWuM0riK",
+  "snapshot_id": "aqstgAAAAACAxsjYe5HZn13uq0YLdYNw",
   "tracks": [
     {
       "added_at": null,
@@ -331,34 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "SuperGood",
-        "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
-      },
-      "artists": [
-        {
-          "name": "Duckwrth",
-          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
-        },
-        {
-          "name": "Alex Mali",
-          "url": "https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ"
-        },
-        {
-          "name": "Radio Ahlee",
-          "url": "https://open.spotify.com/artist/4noIdorsdqtCKOxr9T2V1W"
-        },
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 231118,
-      "name": "Find A Way",
-      "url": "https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "clown shit (up the wall) [SOPHIE Remix]",
         "url": "https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr"
       },
@@ -383,6 +355,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 130560,
+      "name": "pressure",
+      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "NO RE-ENTRY",
         "url": "https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G"
       },
@@ -399,18 +387,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+        "name": "SuperGood",
+        "url": "https://open.spotify.com/album/07ElwjWGMXVNlQG4TsVn9H"
       },
       "artists": [
+        {
+          "name": "Duckwrth",
+          "url": "https://open.spotify.com/artist/6I3MElirhT5t6Kf7p0hGk9"
+        },
+        {
+          "name": "Alex Mali",
+          "url": "https://open.spotify.com/artist/77SLhlrrJKzclwLB9bnRJZ"
+        },
+        {
+          "name": "Radio Ahlee",
+          "url": "https://open.spotify.com/artist/4noIdorsdqtCKOxr9T2V1W"
+        },
         {
           "name": "BAYLI",
           "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
         }
       ],
-      "duration_ms": 130560,
-      "name": "pressure",
-      "url": "https://open.spotify.com/track/29XFwGNkE4E153MGV232hB"
+      "duration_ms": 231118,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/79VbNdFIOMuQQMWKhTg0Zr"
     },
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "stories 2",
-        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
-      },
-      "artists": [
-        {
-          "name": "BAYLI",
-          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
-        }
-      ],
-      "duration_ms": 120400,
-      "name": "ur mine",
-      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "TELLY BAG",
         "url": "https://open.spotify.com/album/40xQNubC2C2X2QcV3GQTTn"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 114484,
       "name": "TELLY BAG",
       "url": "https://open.spotify.com/track/2fre7Ba0EuJp578flYyYlO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "stories 2",
+        "url": "https://open.spotify.com/album/3bB8Ac29DUpwbjWTZGbOKh"
+      },
+      "artists": [
+        {
+          "name": "BAYLI",
+          "url": "https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9"
+        }
+      ],
+      "duration_ms": 120400,
+      "name": "ur mine",
+      "url": "https://open.spotify.com/track/4N3FaGxd5KRhdHahKDbbql"
     },
     {
       "added_at": null,

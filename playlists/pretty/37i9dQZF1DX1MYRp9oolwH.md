@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 
 > Bringing out the best of latest love tracks<br/>Cover : Idupu Kayitham
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,495 likes - 50 songs - 3 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,502 likes - 50 songs - 3 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1MYRp9oolwH.md) - [plain]
 | 49 | [Hey Pilla](https://open.spotify.com/track/7EmqaDmoj8sB8SzvSMjbmo) | [Raghavendra Saraswathula](https://open.spotify.com/artist/1zf5Oa5fPRUDqPPfacUv8m), [Sri Murali Karthikeya](https://open.spotify.com/artist/5hdDhVRtAtygssJd84hv06) | [Kalyanam Kamaneeyam Jeevitham](https://open.spotify.com/album/6KThYPI4OHPI0Y0qkGzdOt) | 4:07 |
 | 50 | [Ukkiri Bikkiri \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/track/1B3i3liP0OMAVvNoeO2K3c) | [G\. V\. Prakash](https://open.spotify.com/artist/5VVN3xZw1i2qihfITZlvCZ), [Haricharan](https://open.spotify.com/artist/1QvyquqkuuwUzdszyoKIy4), [Chandra Bose](https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK) | [Ukkiri Bikkiri \(From "Srinivasa Mangapuram"\)](https://open.spotify.com/album/3QDgq2ARIfqHDv64VKHVKz) | 5:10 |
 
-Snapshot ID: `AAAAANtpebgEVaEcE+WXvcYyGJJIxPoJ`
+Snapshot ID: `AAAAANLwmsUwMc6NCpRhzkygyRHJcPbi`

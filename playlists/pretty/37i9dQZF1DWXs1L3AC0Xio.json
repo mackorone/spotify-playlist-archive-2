@@ -1,12 +1,12 @@
 {
   "description": "lighters up.",
-  "num_followers": 823151,
+  "num_followers": 823223,
   "original_name": "Rock Ballads",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAK9gc2YCApplIxLUbk8v64Zm2xRT",
+  "snapshot_id": "AAAAAFyfXSBIg8pJu5v7Ukwjnr1BuCyb",
   "tracks": [
     {
       "added_at": "2026-03-27 04:00:05",
@@ -379,22 +379,6 @@
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "Daughtry",
-        "url": "https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW"
-      },
-      "artists": [
-        {
-          "name": "Daughtry",
-          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
-        }
-      ],
-      "duration_ms": 204853,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
         "name": "Gore",
         "url": "https://open.spotify.com/album/3tsXyEbUQehXPaRFCS8K1n"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 320546,
       "name": "Hearts / Wires",
       "url": "https://open.spotify.com/track/1SeMnyEb5dwCBLU3QUC0K2"
+    },
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "Daughtry",
+        "url": "https://open.spotify.com/album/7MEQdKzqoG2QJYcT2XEKsW"
+      },
+      "artists": [
+        {
+          "name": "Daughtry",
+          "url": "https://open.spotify.com/artist/5P5FTygHyx2G57oszR3Wot"
+        }
+      ],
+      "duration_ms": 204853,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/7mXmxXLAnsvXKt4Q37KoMI"
     },
     {
       "added_at": "2026-03-27 04:00:05",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "The Used",
-        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
-      },
-      "artists": [
-        {
-          "name": "The Used",
-          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
-        }
-      ],
-      "duration_ms": 163333,
-      "name": "On My Own",
-      "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
         "name": "Awake",
         "url": "https://open.spotify.com/album/0RySAmM6oDPGSE03X3dzi1"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 218386,
       "name": "Lucy",
       "url": "https://open.spotify.com/track/4VqkhvOP0FkcVrDxgJXtxM"
+    },
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "The Used",
+        "url": "https://open.spotify.com/album/57d5dFo7oN2yUyGfSKPrRv"
+      },
+      "artists": [
+        {
+          "name": "The Used",
+          "url": "https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL"
+        }
+      ],
+      "duration_ms": 163333,
+      "name": "On My Own",
+      "url": "https://open.spotify.com/track/3hccRLElirZOGOTHfCbg9p"
     },
     {
       "added_at": "2026-03-27 04:00:05",
@@ -1047,22 +1047,6 @@
     {
       "added_at": "2026-03-27 04:00:05",
       "album": {
-        "name": "Come What(ever) May [Special Edition]",
-        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
-      },
-      "artists": [
-        {
-          "name": "Stone Sour",
-          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
-        }
-      ],
-      "duration_ms": 267253,
-      "name": "Wicked Game - Acoustic; Live",
-      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
-    },
-    {
-      "added_at": "2026-03-27 04:00:05",
-      "album": {
         "name": "Back From the Dead",
         "url": "https://open.spotify.com/album/27Bw4tTQWjEv3jpp6ynGfu"
       },
@@ -1075,6 +1059,22 @@
       "duration_ms": 198799,
       "name": "Raise Your Horns",
       "url": "https://open.spotify.com/track/4YwXnWv3lnSFxpW9bO18hJ"
+    },
+    {
+      "added_at": "2026-03-27 04:00:05",
+      "album": {
+        "name": "Come What(ever) May [Special Edition]",
+        "url": "https://open.spotify.com/album/5eHk89PNorMd7e4wyxYiUV"
+      },
+      "artists": [
+        {
+          "name": "Stone Sour",
+          "url": "https://open.spotify.com/artist/49qiE8dj4JuNdpYGRPdKbF"
+        }
+      ],
+      "duration_ms": 267253,
+      "name": "Wicked Game - Acoustic; Live",
+      "url": "https://open.spotify.com/track/6UFhNbE4sLRUoM52kC4Xl4"
     },
     {
       "added_at": "2026-03-27 04:00:05",

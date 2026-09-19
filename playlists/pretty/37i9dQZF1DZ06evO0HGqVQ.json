@@ -1,12 +1,12 @@
 {
   "description": "This is Los inquietos del vallenato. The essential tracks, all in one playlist.",
-  "num_followers": 32383,
+  "num_followers": 32390,
   "original_name": "This Is Los inquietos del vallenato",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAABCiDy42xGg5/zViEwoMZkR",
+  "snapshot_id": "aqstgAAAAAAy1jsBADBTmOmZqsqRcs8H",
   "tracks": [
     {
       "added_at": null,
@@ -571,8 +571,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sue\u00f1os de Colombia",
-        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
+        "name": "Buenos Tiempos",
+        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
       },
       "artists": [
         {
@@ -580,9 +580,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 281386,
-      "name": "Cuando Te Vayas",
-      "url": "https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F"
+      "duration_ms": 227918,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
     },
     {
       "added_at": null,
@@ -603,8 +603,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buenos Tiempos",
-        "url": "https://open.spotify.com/album/6ATrYjKXRdMAxaKGtp2sSv"
+        "name": "Sue\u00f1os de Colombia",
+        "url": "https://open.spotify.com/album/7FHFcPMOdTXQ9AozIqpCia"
       },
       "artists": [
         {
@@ -612,9 +612,9 @@
           "url": "https://open.spotify.com/artist/1i2sOJlmgkWrWx28rB17Bd"
         }
       ],
-      "duration_ms": 227918,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/04sQocLyA1HIldBgUhbAQe"
+      "duration_ms": 281386,
+      "name": "Cuando Te Vayas",
+      "url": "https://open.spotify.com/track/629bybYHCuo9VtG695Qk8F"
     },
     {
       "added_at": null,

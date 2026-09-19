@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 
 > Lo mejor del pop en español\. Foto: Luis Fonsi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 996,753 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 996,711 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3sCT1ItXgNd.md) - [plain]
 | 49 | [No dejaré de abrazarte](https://open.spotify.com/track/1oICrICUMPDOMRatYykwOf) | [Dani Fernández](https://open.spotify.com/artist/0CVOcYvRcSvOXyuR4YGKaC), [Yarea](https://open.spotify.com/artist/2O4wnhTr4SO5ezY6WXI2Kl) | [No dejaré de abrazarte](https://open.spotify.com/album/3DSbalh1h4whx7z8Hrw3br) | 2:52 |
 | 50 | [Flechazo](https://open.spotify.com/track/3Y0bm2psmsSji70OYz1EWm) | [Lérica](https://open.spotify.com/artist/4d3kmfoZBTuUPSUjgP45uo) | [Kien me presta una guitarra?](https://open.spotify.com/album/4q4MIPjP96zPQVk6pVDPEp) | 2:02 |
 
-Snapshot ID: `AAAAAKz32plmP9P84Zzx3cMPo24ZXJcg`
+Snapshot ID: `AAAAAEhmaIbmsQ2Q0OTYcNkX7r6oTnEl`

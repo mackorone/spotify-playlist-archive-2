@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 
 > Fresh country music by independent artists every Wednesday\. Cover: Peytan Porter, Artwork: Fanélie Muselier
 
-[Spotify](https://open.spotify.com/user/spotify) - 125,826 likes - 75 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 125,907 likes - 75 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYUfsq4hxHWP.md) - [plain]
 | 74 | [The Summer I Turned Petty](https://open.spotify.com/track/3CKDCJR7BgrLm1a5QVD0DM) | [Jenna Davis](https://open.spotify.com/artist/6oXQgzqvbeAem9kPX0pXnD) | [The Summer I Turned Petty](https://open.spotify.com/album/28e0uSEKnY9Q3CuTnENcuE) | 3:01 |
 | 75 | [Same Place, Same Time](https://open.spotify.com/track/1zd5lh1vqOYEZ1vWOfKBRL) | [Austin Mackay](https://open.spotify.com/artist/4mQFSs5uamW2DxyRiHxJvh) | [Same Place, Same Time](https://open.spotify.com/album/48SHfHcWq9EGKI1DhFwSNH) | 2:46 |
 
-Snapshot ID: `AAAAAP3YP1HJpUsPmj7yjOjtl040LeWN`
+Snapshot ID: `AAAAAEM/xKXUKeEDXABxXR7AQ2bOyyaU`

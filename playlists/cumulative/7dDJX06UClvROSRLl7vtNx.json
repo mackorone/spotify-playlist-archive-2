@@ -7685,6 +7685,32 @@
     },
     {
       "album": {
+        "name": "Endless Beach",
+        "url": "https://open.spotify.com/album/0KOyPPY7SJTmU4p7J9FEAK"
+      },
+      "artists": [
+        {
+          "name": "Fex",
+          "url": "https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM"
+        },
+        {
+          "name": "Spijk",
+          "url": "https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX"
+        },
+        {
+          "name": "outset island",
+          "url": "https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157241,
+      "name": "Endless Beach",
+      "url": "https://open.spotify.com/track/0zU11XHZAcNsVNYthX9eZO"
+    },
+    {
+      "album": {
         "name": "Endless Summer",
         "url": "https://open.spotify.com/album/3rs24YAeYhfi4fTOM2KJxK"
       },

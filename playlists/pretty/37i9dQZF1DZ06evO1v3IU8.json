@@ -1,12 +1,12 @@
 {
   "description": "This is Banda MS de Sergio Liz\u00e1rraga. The essential tracks, all in one playlist.",
-  "num_followers": 1360525,
+  "num_followers": 1360548,
   "original_name": "This Is Banda MS de Sergio Liz\u00e1rraga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAClPqfqAW6al6hhXP6gqeE1",
+  "snapshot_id": "aqstgAAAAADlic+OSTlffclziX+T8aPr",
   "tracks": [
     {
       "added_at": null,
@@ -39,6 +39,26 @@
       "duration_ms": 164937,
       "name": "So\u00f1\u00e9",
       "url": "https://open.spotify.com/track/33HYZlzEZwp9KOMt9DY7xF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Por Tu Maldito Amor",
+        "url": "https://open.spotify.com/album/5utoF22uxbuZ82olUuaogg"
+      },
+      "artists": [
+        {
+          "name": "Vicente Fern\u00e1ndez",
+          "url": "https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l"
+        },
+        {
+          "name": "Banda MS de Sergio Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
+        }
+      ],
+      "duration_ms": 242533,
+      "name": "Por Tu Maldito Amor",
+      "url": "https://open.spotify.com/track/1nyojJXZta55xUKSHwnyiF"
     },
     {
       "added_at": null,
@@ -251,8 +271,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
+        "name": "La Mejor Versi\u00f3n De M\u00ed",
+        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
       },
       "artists": [
         {
@@ -260,9 +280,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 195453,
-      "name": "Cerrando Ciclos",
-      "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
+      "duration_ms": 281400,
+      "name": "Tu Postura",
+      "url": "https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj"
     },
     {
       "added_at": null,
@@ -283,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Mejor Versi\u00f3n De M\u00ed",
-        "url": "https://open.spotify.com/album/6UV1wTga3v0p7rXwxxbUL1"
+        "name": "El Trabajo Es La Suerte",
+        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
       },
       "artists": [
         {
@@ -292,9 +312,9 @@
           "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
         }
       ],
-      "duration_ms": 281400,
-      "name": "Tu Postura",
-      "url": "https://open.spotify.com/track/4RNzKQEzmlvVHca4t6Txkj"
+      "duration_ms": 195453,
+      "name": "Cerrando Ciclos",
+      "url": "https://open.spotify.com/track/3fBJNawfhtgCmo58trRK2z"
     },
     {
       "added_at": null,
@@ -831,22 +851,6 @@
       "duration_ms": 208992,
       "name": "Mi Raz\u00f3n de Ser - REMASTERIZADO",
       "url": "https://open.spotify.com/track/4TYRFIc2EIe4C9fN21UVM2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Trabajo Es La Suerte",
-        "url": "https://open.spotify.com/album/4j7afzzctfV0UPUrJKWCQk"
-      },
-      "artists": [
-        {
-          "name": "Banda MS de Sergio Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh"
-        }
-      ],
-      "duration_ms": 232413,
-      "name": "Lo Mejor Que Me Pas\u00f3",
-      "url": "https://open.spotify.com/track/2q6Yn01lr8bZK1hVVKFvat"
     }
   ],
   "unique_name": "This Is Banda MS de Sergio Liz\u00e1rraga",

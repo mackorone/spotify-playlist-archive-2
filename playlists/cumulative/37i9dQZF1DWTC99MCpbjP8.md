@@ -4,7 +4,7 @@
 
 > Slow down and relax with a mix of calming piano music.
 
-697 songs - 1 day 6 hr 10 min
+698 songs - 1 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -474,6 +474,7 @@
 | [Purity](https://open.spotify.com/track/3nfhbwdfbK19V3vwRTAcoo) | [Cecile Roy](https://open.spotify.com/artist/3KFuPRxcyZraNgy31TVxwF) | [Purity](https://open.spotify.com/album/1p7XvsfWUHq4ApCRN0zOaB) | 2:27 | 2022-04-22 | 2022-07-28 |
 | [Purity](https://open.spotify.com/track/3iyNoFOyMTZU1SdGbnmdy6) | [Yao Chen](https://open.spotify.com/artist/1dWCw84QGvLRebWigUZvyJ) | [Purity](https://open.spotify.com/album/3Xf0HZNA30BxiiMB0SqMuj) | 2:26 | 2022-04-22 | 2024-09-25 |
 | [Purity \(Single\)](https://open.spotify.com/track/2BBaNuc6B84qcMe0Mg9teB) | [Karen LeFrak](https://open.spotify.com/artist/7w0W3SxEy226zQlm1eMnXo), [Jacques van Tuinen](https://open.spotify.com/artist/2cJHx9ShBZorTEnZbVv5nz) | [Purity \(Single\)](https://open.spotify.com/album/3vfqfzS0R2fz02BlGOrfdq) | 1:53 | 2022-04-22 | 2023-05-04 |
+| [Quiescence](https://open.spotify.com/track/3TVJ6saUoVBh9Ltrob3qzy) | [Gabriela Ohm](https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g) | [Quiescence](https://open.spotify.com/album/5WUcVO8qaropiO4GrClY5Z) | 2:21 | 2026-09-18 |  |
 | [Quiet Cove](https://open.spotify.com/track/5gqstUNfi8kZBSsGDtk4ND) | [Edgar De Vries](https://open.spotify.com/artist/5ccEcnSCa82fIfFgwpVyrD) | [Quiet Cove](https://open.spotify.com/album/5GsMGDSeQKNXLZsujzhCTL) | 3:21 | 2022-04-22 | 2022-09-16 |
 | [Quiet Eyes](https://open.spotify.com/track/2oafUifmaR1uBS3o9o7uLO) | [Davignon](https://open.spotify.com/artist/6X9fOKgbMi7PCa7ZuB7ktE) | [Quiet Eyes](https://open.spotify.com/album/1KnEqKgjw9ryJcHvIgKHL0) | 2:21 | 2023-02-27 |  |
 | [Quiet Horizon](https://open.spotify.com/track/1W6HdGbCDr27POMPFLT4Td) | [Ludovic Agnes](https://open.spotify.com/artist/4l07zQkuiR10PftXNbieYZ) | [Quiet Horizon](https://open.spotify.com/album/6LTkgc9DbSpW143pvDEZ1v) | 2:32 | 2026-05-15 |  |

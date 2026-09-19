@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcCmWfoUaw2.md) - [plain]
 
 > Energetic tracks from the 2000s to boost your running session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,340,247 likes - 50 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,340,559 likes - 50 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbcCmWfoUaw2.md) - [plain]
 | 49 | [Hotel Room Service](https://open.spotify.com/track/32yIEFS62uS5ryhr2Xlooj) | [Pitbull](https://open.spotify.com/artist/0TnOYISbd1XYRBk9myaseg) | [Hotel Room Service](https://open.spotify.com/album/6t7u6RvLoWLfWPLRUUXD1d) | 3:58 |
 | 50 | [3](https://open.spotify.com/track/6pymOcrCnMuCWdgGVTvUgP) | [Britney Spears](https://open.spotify.com/artist/26dSoYclwsYLMAKD3tpOr4) | [The Singles Collection](https://open.spotify.com/album/325wcm5wMnlfjmKZ8PXIIn) | 3:33 |
 
-Snapshot ID: `AAAAAC3ZX6WoRTWQW9K3By4kS318mRMr`
+Snapshot ID: `AAAAAGOmz7ZhGKRd7JA2xHwB5Pejq2Jv`

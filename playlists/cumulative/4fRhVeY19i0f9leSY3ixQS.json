@@ -23,6 +23,24 @@
     },
     {
       "album": {
+        "name": "(no matter) what i said",
+        "url": "https://open.spotify.com/album/4I95LHYrHpBJhIlBo7kBW3"
+      },
+      "artists": [
+        {
+          "name": "W\u0142adek Sheen",
+          "url": "https://open.spotify.com/artist/5elwcM1iBIib16jSGK1SQe"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205842,
+      "name": "(no matter) what i said",
+      "url": "https://open.spotify.com/track/2D7TjCF6SyIDnq2pXSet43"
+    },
+    {
+      "album": {
         "name": "(There's) Something In The Air",
         "url": "https://open.spotify.com/album/7znmxL7XixLPylnBnL8PLg"
       },
@@ -1274,7 +1292,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 191029,
       "name": "All Hands On Deck",
       "url": "https://open.spotify.com/track/02fp6wiYg14qFl3uDMLWPj"
@@ -3120,7 +3138,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 209032,
       "name": "Beggin",
       "url": "https://open.spotify.com/track/0EIjTYShuIzEYnnNS6czmA"
@@ -4420,6 +4438,24 @@
       "duration_ms": 174931,
       "name": "Boleskine House Blues",
       "url": "https://open.spotify.com/track/73QTqhQdQJWcwIpmhsSlvc"
+    },
+    {
+      "album": {
+        "name": "Bones",
+        "url": "https://open.spotify.com/album/5qIqwRTKy0xuNEnxfrYqrw"
+      },
+      "artists": [
+        {
+          "name": "DECAYSTATE",
+          "url": "https://open.spotify.com/artist/7xYaNXIx3unPskGUKa6lCl"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210580,
+      "name": "Bones",
+      "url": "https://open.spotify.com/track/36OJB1amVh7BMUSBMQmUpC"
     },
     {
       "album": {
@@ -6974,7 +7010,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 176142,
       "name": "Closure",
       "url": "https://open.spotify.com/track/3s7wq07s2mWR4hTa5uMhhc"
@@ -7444,6 +7480,24 @@
       "duration_ms": 333184,
       "name": "Copperhead Road",
       "url": "https://open.spotify.com/track/4NfsyrdSYaB3fqRtuwgchM"
+    },
+    {
+      "album": {
+        "name": "Copycat",
+        "url": "https://open.spotify.com/album/1NFl3NFSesvuZeiN6KB4uM"
+      },
+      "artists": [
+        {
+          "name": "KISSING CONCRETE",
+          "url": "https://open.spotify.com/artist/3p8IvizUfUh1kPWLNeiec0"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173784,
+      "name": "Copycat",
+      "url": "https://open.spotify.com/track/3DbUoWMPE7OSfmysbBgRKO"
     },
     {
       "album": {
@@ -14831,6 +14885,24 @@
     },
     {
       "album": {
+        "name": "GOT IT BAD",
+        "url": "https://open.spotify.com/album/16BozHU0amEdS4ztFZIwzA"
+      },
+      "artists": [
+        {
+          "name": "KANITHA",
+          "url": "https://open.spotify.com/artist/40ObxTt9ReY2LxxDiklcO7"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165600,
+      "name": "GOT IT BAD",
+      "url": "https://open.spotify.com/track/0hWnSHRF8yfzBrTHCiSWwa"
+    },
+    {
+      "album": {
         "name": "Got What You Wanted",
         "url": "https://open.spotify.com/album/4EpAS3weiZ4RsVk4zqWC5b"
       },
@@ -20724,7 +20796,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 227826,
       "name": "Limousine",
       "url": "https://open.spotify.com/track/6edjFwEvZmtxlnAN9x7s5E"
@@ -21566,7 +21638,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 167253,
       "name": "LOVING TO GET US BY",
       "url": "https://open.spotify.com/track/02bxKCRNwwGyfJWujnBR94"
@@ -26321,6 +26393,28 @@
     },
     {
       "album": {
+        "name": "OVERFLOW",
+        "url": "https://open.spotify.com/album/3dfFbEOIzozYum3WyCg2GG"
+      },
+      "artists": [
+        {
+          "name": "Mainframe Bird",
+          "url": "https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt"
+        },
+        {
+          "name": "Jenasis",
+          "url": "https://open.spotify.com/artist/1m5tM87HoGL5ePg8IddymH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210011,
+      "name": "OVERFLOW",
+      "url": "https://open.spotify.com/track/3VBymBc0l8kKIQh40xwMNU"
+    },
+    {
+      "album": {
         "name": "Overload",
         "url": "https://open.spotify.com/album/3eLdIfnfMRr0m67BhADDEO"
       },
@@ -26444,6 +26538,24 @@
       "duration_ms": 115666,
       "name": "Paloma",
       "url": "https://open.spotify.com/track/2olsbUwBbE9MHbUjGoXNTu"
+    },
+    {
+      "album": {
+        "name": "Panic Juice",
+        "url": "https://open.spotify.com/album/6hdeJ1N3y06BE9KEskDHBH"
+      },
+      "artists": [
+        {
+          "name": "Pet Mammoth",
+          "url": "https://open.spotify.com/artist/4UPI1SKg2J96H4vhZZhlXv"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 125562,
+      "name": "Panic Juice",
+      "url": "https://open.spotify.com/track/63q0ihfuEXYK8ioFsRPvyK"
     },
     {
       "album": {
@@ -28686,6 +28798,24 @@
       "duration_ms": 163500,
       "name": "Regular Piece Of Shit",
       "url": "https://open.spotify.com/track/27zQNRkLR1kfhIuyfTcMic"
+    },
+    {
+      "album": {
+        "name": "Relations",
+        "url": "https://open.spotify.com/album/2B5RcrR2INASAczg4r9q8E"
+      },
+      "artists": [
+        {
+          "name": "DJ Russ Harris",
+          "url": "https://open.spotify.com/artist/6S6LXpJVP2sIOowJDd9o78"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 192467,
+      "name": "Relations",
+      "url": "https://open.spotify.com/track/2EnLqCAS5Q1ZiwfwlgEpTK"
     },
     {
       "album": {
@@ -31856,6 +31986,24 @@
       "duration_ms": 273000,
       "name": "Slow Rush",
       "url": "https://open.spotify.com/track/5wfM3eflEzREj2S4zl4BKU"
+    },
+    {
+      "album": {
+        "name": "Slower",
+        "url": "https://open.spotify.com/album/3lxbSZFMFW4qNZXthzHX5n"
+      },
+      "artists": [
+        {
+          "name": "Lana Grace",
+          "url": "https://open.spotify.com/artist/0OsGnPkIHbfPKEAHGTE6vS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180035,
+      "name": "Slower",
+      "url": "https://open.spotify.com/track/2uLVIBa1SvBy42nlpNxBnk"
     },
     {
       "album": {
@@ -36136,7 +36284,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 195437,
       "name": "The Light Was On",
       "url": "https://open.spotify.com/track/0qwplMSeoNOAb9mVNIcO67"
@@ -36176,6 +36324,24 @@
       "duration_ms": 218011,
       "name": "The Line That Separates",
       "url": "https://open.spotify.com/track/0Mf7Y9cVAhr3jsVcUXeyz3"
+    },
+    {
+      "album": {
+        "name": "The Little Things",
+        "url": "https://open.spotify.com/album/1KaUZbtzduEz6qLYdGTInL"
+      },
+      "artists": [
+        {
+          "name": "Firestone Elementary",
+          "url": "https://open.spotify.com/artist/0OyXptmtWOmY0FTraiaABa"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223906,
+      "name": "The Little Things",
+      "url": "https://open.spotify.com/track/4fRmxd8ImNWX31QqbKMSYY"
     },
     {
       "album": {
@@ -37293,6 +37459,24 @@
     },
     {
       "album": {
+        "name": "Those White Flags Are No Match For Our Muskets",
+        "url": "https://open.spotify.com/album/5WHnA60oLbgs2MNBeRHyR7"
+      },
+      "artists": [
+        {
+          "name": "The Chandelier Swing",
+          "url": "https://open.spotify.com/artist/0vRzucD1jFhXyOaeC5hVPR"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177837,
+      "name": "Those White Flags Are No Match For Our Muskets",
+      "url": "https://open.spotify.com/track/78ZZzKJCFqIB8EhZVjUCAk"
+    },
+    {
+      "album": {
         "name": "Thought Police",
         "url": "https://open.spotify.com/album/0BAGmKzJ7MjcYB6jduaWAb"
       },
@@ -37528,6 +37712,24 @@
       "duration_ms": 86379,
       "name": "Time of Your Life",
       "url": "https://open.spotify.com/track/7y1CYfks1Q9DA9XNaMbtUD"
+    },
+    {
+      "album": {
+        "name": "Time to Burn",
+        "url": "https://open.spotify.com/album/5fFDmFIcrBXrudfB7IzjzE"
+      },
+      "artists": [
+        {
+          "name": "DUSTPONY",
+          "url": "https://open.spotify.com/artist/3KvuOFDRHgSv5UiPAv3O9T"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240565,
+      "name": "Time to Burn",
+      "url": "https://open.spotify.com/track/3g4JNT1vLhrVG4uaQFZH2Q"
     },
     {
       "album": {
@@ -39441,6 +39643,24 @@
     },
     {
       "album": {
+        "name": "WARNING",
+        "url": "https://open.spotify.com/album/3pwrFb9IheebnknYXKNxCI"
+      },
+      "artists": [
+        {
+          "name": "Brandon Bing",
+          "url": "https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185176,
+      "name": "WARNING",
+      "url": "https://open.spotify.com/track/1XAymPdjKe5BhcRblNExsX"
+    },
+    {
+      "album": {
         "name": "Was ich will",
         "url": "https://open.spotify.com/album/6XxCrxKnv5ARpH2vbazFEi"
       },
@@ -39510,6 +39730,24 @@
       "duration_ms": 195642,
       "name": "Waste My Time",
       "url": "https://open.spotify.com/track/2KfOZHMkNuHiNI96bwcVHl"
+    },
+    {
+      "album": {
+        "name": "wasted, again.",
+        "url": "https://open.spotify.com/album/3oqwcLrh8GJv6C088J01tw"
+      },
+      "artists": [
+        {
+          "name": "Test The Waters",
+          "url": "https://open.spotify.com/artist/5ULMvdqhzkJPsTvwdsSNDH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203213,
+      "name": "wasted, again.",
+      "url": "https://open.spotify.com/track/4nuWq3Pzys10qI5tUgRlTn"
     },
     {
       "album": {
@@ -39762,7 +40000,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-27",
+      "date_removed": null,
       "duration_ms": 153428,
       "name": "We Figure It Out",
       "url": "https://open.spotify.com/track/2JWTeR7vtJCZUo6uMGHeqW"

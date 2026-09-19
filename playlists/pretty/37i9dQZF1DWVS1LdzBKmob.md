@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 
 > Crystal singing bowls, frequencies and gongs to lift you up and transcend.
 
-[Spotify](https://open.spotify.com/user/spotify) - 367,509 likes - 115 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 367,814 likes - 115 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -124,4 +124,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVS1LdzBKmob.md) - [plain]
 | 114 | [Preservation](https://open.spotify.com/track/0IlaIk8xzuKP7Wei0I0c9y) | [Healing Potion](https://open.spotify.com/artist/08sROjr8PALQrgskKAnmaw) | [Preservation](https://open.spotify.com/album/1a7Xfww0jdCKRbNwzQA1ho) | 2:47 |
 | 115 | [Enchantment](https://open.spotify.com/track/559FqeO9I9CRpClLNX7xp7) | [Lotus Mind](https://open.spotify.com/artist/4WJQ14cSIRntdUhIbMZ6vh) | [Enchantment](https://open.spotify.com/album/3xsfTJb3Nxow9MaAkfbO2f) | 3:01 |
 
-Snapshot ID: `AAAAAE6KxD4aYM9dSCUT22adYNRHw1tU`
+Snapshot ID: `AAAAALJXxZKFYTNGRDvtUGued4B+/6c2`

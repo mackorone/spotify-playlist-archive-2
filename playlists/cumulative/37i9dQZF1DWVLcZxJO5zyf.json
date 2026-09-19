@@ -2089,6 +2089,24 @@
     },
     {
       "album": {
+        "name": "Candidato",
+        "url": "https://open.spotify.com/album/1Z3veVgOJkNI04eu8ATkr4"
+      },
+      "artists": [
+        {
+          "name": "Lou Garcia",
+          "url": "https://open.spotify.com/artist/7l8ESevPECrqChwl3Bf7ov"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 163897,
+      "name": "Candidato",
+      "url": "https://open.spotify.com/track/2ZHoXrDBfOdt3SU0IM7VIW"
+    },
+    {
+      "album": {
         "name": "Canoa",
         "url": "https://open.spotify.com/album/3yVv0gmK4EdJNQBWt6au3D"
       },
@@ -2274,7 +2292,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 131562,
       "name": "Choka Choka",
       "url": "https://open.spotify.com/track/7CBWajKPyBA0GFtxmTzLBV"
@@ -2384,7 +2402,7 @@
       ],
       "date_added": "2026-04-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 154000,
       "name": "Como Ouro",
       "url": "https://open.spotify.com/track/1QRZnXM3lEUifwEzl9xtV1"
@@ -3092,6 +3110,24 @@
       "duration_ms": 138796,
       "name": "Doce Boy",
       "url": "https://open.spotify.com/track/56UFY8s74kaEkBSsFhSiJA"
+    },
+    {
+      "album": {
+        "name": "Dominou",
+        "url": "https://open.spotify.com/album/1RaOiXiVkDy73HCfZHW6bR"
+      },
+      "artists": [
+        {
+          "name": "JUNIOR",
+          "url": "https://open.spotify.com/artist/1bAP6GCtWKawdfTHyWm0QT"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144759,
+      "name": "Dominou",
+      "url": "https://open.spotify.com/track/4H9a5FMFA5Kg9RqC8DSAY8"
     },
     {
       "album": {
@@ -5078,6 +5114,40 @@
       "duration_ms": 114461,
       "name": "Macetar",
       "url": "https://open.spotify.com/track/5UcQhx8ulCedDE43IQZNV3"
+    },
+    {
+      "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/1oJnkZN4sHgx9vRwbOd2hk"
+      },
+      "artists": [
+        {
+          "name": "Bia Soull",
+          "url": "https://open.spotify.com/artist/0VYAyZttWMdlpWDl07itbd"
+        },
+        {
+          "name": "Vita",
+          "url": "https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO"
+        },
+        {
+          "name": "Adame DJ",
+          "url": "https://open.spotify.com/artist/7lOdAZzqR1Ju4bhq1kZUvy"
+        },
+        {
+          "name": "DJ CARLOZS",
+          "url": "https://open.spotify.com/artist/1tdUkusb60eDS6p0fgXexU"
+        },
+        {
+          "name": "DJ LUKINHAS",
+          "url": "https://open.spotify.com/artist/1ftCFF307OmsAVDAHHpn07"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203076,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/5iiJgAxw4oWc1apcCSQ9Ij"
     },
     {
       "album": {
@@ -7118,7 +7188,7 @@
       ],
       "date_added": "2025-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 205884,
       "name": "Para\u00edso",
       "url": "https://open.spotify.com/track/6HMNf7IfNZYNKGVNpc6UdQ"

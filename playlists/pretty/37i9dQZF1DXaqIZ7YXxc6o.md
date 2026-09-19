@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 
 > Your weekly dose of new dance\. Cover: Odd Mob
 
-[Spotify](https://open.spotify.com/user/spotify) - 148,914 likes - 100 songs - 5 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 148,920 likes - 100 songs - 5 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaqIZ7YXxc6o.md) - [plain]
 | 99 | [Unfold Me](https://open.spotify.com/track/4r9vSPOFseeHuKVafFDCTU) | [Juicy Romance](https://open.spotify.com/artist/55RZaB7LJnx3sXeyVJXB2e) | [Unfold Me](https://open.spotify.com/album/0xKFlbqRurBLyANvAN3JE7) | 2:43 |
 | 100 | [Hold My Breath](https://open.spotify.com/track/4FOdgYVV5xaMjY0NCZoFEu) | [Albi](https://open.spotify.com/artist/7AANDBs83JY3hFkYl7T3kk), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Hold My Breath](https://open.spotify.com/album/540DKCihQemJiYBN9AFi4m) | 2:20 |
 
-Snapshot ID: `AAAAAALd0o+zeVv6MUAD14ZEskvQDkQC`
+Snapshot ID: `AAAAAMfjIClw26RVRIGnYRyBSnYQuXk2`

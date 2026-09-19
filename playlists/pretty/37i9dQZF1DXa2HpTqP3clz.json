@@ -1,12 +1,12 @@
 {
   "description": "Today's Bluegrass and old time favorites. Cover: Tatiana Hargreaves, Laurie Lewis, and Lindsay Lou",
-  "num_followers": 168665,
+  "num_followers": 168663,
   "original_name": "Grass Roots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKtUQlpYyKgyxlJ/sETMhptBiqPn",
+  "snapshot_id": "AAAAAO2PZ0nXwn45yU1C3IR1b+wsp1Nh",
   "tracks": [
     {
       "added_at": "2026-08-14 04:01:26",
@@ -431,22 +431,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Fall Like Rain",
-        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
-      },
-      "artists": [
-        {
-          "name": "Justin Moses",
-          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
-        }
-      ],
-      "duration_ms": 262640,
-      "name": "Fall Like Rain",
-      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Songs from Horizon",
         "url": "https://open.spotify.com/album/0DbpxbSAqwkEQPinJCyxjq"
       },
@@ -479,6 +463,22 @@
       "duration_ms": 254226,
       "name": "Watch 'At Breakdown",
       "url": "https://open.spotify.com/track/4NgHCEYBTA4ZzYa2tzOYyy"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Fall Like Rain",
+        "url": "https://open.spotify.com/album/6j7KG1Gm2lK1EC3ppwcLcY"
+      },
+      "artists": [
+        {
+          "name": "Justin Moses",
+          "url": "https://open.spotify.com/artist/3kzBeseYmf4D2Xp56Eaola"
+        }
+      ],
+      "duration_ms": 262640,
+      "name": "Fall Like Rain",
+      "url": "https://open.spotify.com/track/3CbfrDVrNsfQ04RhDjHKvX"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Gas and Oil",
-        "url": "https://open.spotify.com/album/50vHvkAXlMu7mG59nmhtCs"
-      },
-      "artists": [
-        {
-          "name": "The Travelin' McCourys",
-          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
-        }
-      ],
-      "duration_ms": 227786,
-      "name": "Gas and Oil",
-      "url": "https://open.spotify.com/track/2sQ8RGC3DHAecvS5nd2lbF"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Nowhere Next",
         "url": "https://open.spotify.com/album/1NHQWSuv2fvxVivvngEMAL"
       },
@@ -611,6 +595,22 @@
       "duration_ms": 230733,
       "name": "Didn't Go Wrong",
       "url": "https://open.spotify.com/track/4CyXGgMZJeBIg0vU1V4X3Y"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Gas and Oil",
+        "url": "https://open.spotify.com/album/50vHvkAXlMu7mG59nmhtCs"
+      },
+      "artists": [
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "duration_ms": 227786,
+      "name": "Gas and Oil",
+      "url": "https://open.spotify.com/track/2sQ8RGC3DHAecvS5nd2lbF"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Dan Tyminski: Live From The Ryman",
-        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
-      },
-      "artists": [
-        {
-          "name": "Dan Tyminski",
-          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
-        }
-      ],
-      "duration_ms": 256878,
-      "name": "Whiskey Drinking Man - Live",
-      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Willow",
         "url": "https://open.spotify.com/album/2A0IALbZpxPXJ4ij9Dnsxp"
       },
@@ -767,22 +751,18 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Into the Wild",
-        "url": "https://open.spotify.com/album/058OYbS7WY1vMt77wgSbo6"
+        "name": "Dan Tyminski: Live From The Ryman",
+        "url": "https://open.spotify.com/album/1Hz94xWUWl3t2WIc0oUjzh"
       },
       "artists": [
         {
-          "name": "Molly Tuttle",
-          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
-        },
-        {
-          "name": "Molly Tuttle & Golden Highway",
-          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+          "name": "Dan Tyminski",
+          "url": "https://open.spotify.com/artist/1eNxt1JI2Bgjl8bPDQ5sG8"
         }
       ],
-      "duration_ms": 254316,
-      "name": "Into the Wild",
-      "url": "https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW"
+      "duration_ms": 256878,
+      "name": "Whiskey Drinking Man - Live",
+      "url": "https://open.spotify.com/track/46a8OV5xLREGgIymvImALp"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -807,6 +787,26 @@
       "duration_ms": 173906,
       "name": "Never Losing Me",
       "url": "https://open.spotify.com/track/3eOmIcNf2Oc4aaqkiCbYyJ"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Into the Wild",
+        "url": "https://open.spotify.com/album/058OYbS7WY1vMt77wgSbo6"
+      },
+      "artists": [
+        {
+          "name": "Molly Tuttle",
+          "url": "https://open.spotify.com/artist/4LX0KCPnH7gvxEbVXqXmAE"
+        },
+        {
+          "name": "Molly Tuttle & Golden Highway",
+          "url": "https://open.spotify.com/artist/1KVw3QwEmC8QMrpz0SV05n"
+        }
+      ],
+      "duration_ms": 254316,
+      "name": "Into the Wild",
+      "url": "https://open.spotify.com/track/3N5uxXspMxRD6q1k0G0NwW"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -879,26 +879,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Get Lost",
-        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
-      },
-      "artists": [
-        {
-          "name": "Wyatt Ellis",
-          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
-        },
-        {
-          "name": "Jake Workman",
-          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
-        }
-      ],
-      "duration_ms": 267954,
-      "name": "Get Lost",
-      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Wall Guitar (Since You Said Goodbye)",
         "url": "https://open.spotify.com/album/2a15WcuEBGzKhPzvJ4Dhzm"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 170093,
       "name": "Possum Up a 'Simmon Tree",
       "url": "https://open.spotify.com/track/6XUi6K31Od7prx0w5WZXYU"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Get Lost",
+        "url": "https://open.spotify.com/album/0fKAf9b8w95vvx189vGbPM"
+      },
+      "artists": [
+        {
+          "name": "Wyatt Ellis",
+          "url": "https://open.spotify.com/artist/7sMnZYKPDxOYnIApICuCuB"
+        },
+        {
+          "name": "Jake Workman",
+          "url": "https://open.spotify.com/artist/2pTYJ8ZHeRNixhBRxXZUvx"
+        }
+      ],
+      "duration_ms": 267954,
+      "name": "Get Lost",
+      "url": "https://open.spotify.com/track/2xoQ9YNPQLEB4U0CluiqMF"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "BBQ Chips",
+        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
+      },
+      "artists": [
+        {
+          "name": "Abby Webster",
+          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
+        }
+      ],
+      "duration_ms": 248364,
+      "name": "BBQ Chips",
+      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Happy Valley",
         "url": "https://open.spotify.com/album/4llhhUoj1OoUvwXeWOY3nV"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 218500,
       "name": "Grassy Cove",
       "url": "https://open.spotify.com/track/3aSvpbflrV8PCqENiZIuD5"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "BBQ Chips",
-        "url": "https://open.spotify.com/album/3iBlKkuOkBSo9qKeO2DG8o"
-      },
-      "artists": [
-        {
-          "name": "Abby Webster",
-          "url": "https://open.spotify.com/artist/0HhLNo5pI32wCYNKqpXuCD"
-        }
-      ],
-      "duration_ms": 248364,
-      "name": "BBQ Chips",
-      "url": "https://open.spotify.com/track/2LQxH6FmgC7vwXPo2lVtER"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1127,22 +1127,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Odds of Getting Even",
-        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
-      },
-      "artists": [
-        {
-          "name": "Caitlin Canty",
-          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
-        }
-      ],
-      "duration_ms": 195776,
-      "name": "Odds of Getting Even",
-      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Last Road Going Home",
         "url": "https://open.spotify.com/album/3AH3tiNwrkL5pMHOl4IIVS"
       },
@@ -1211,6 +1195,46 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
+        "name": "Living In A Song",
+        "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
+      },
+      "artists": [
+        {
+          "name": "Rob Ickes & Trey Hensley",
+          "url": "https://open.spotify.com/artist/1N33O43FnAJtlHh8Nna68C"
+        },
+        {
+          "name": "Rob Ickes",
+          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
+        },
+        {
+          "name": "Trey Hensley",
+          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
+        }
+      ],
+      "duration_ms": 236213,
+      "name": "Living In A Song",
+      "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Odds of Getting Even",
+        "url": "https://open.spotify.com/album/4LNRayY1XsEqVjo2lDPohE"
+      },
+      "artists": [
+        {
+          "name": "Caitlin Canty",
+          "url": "https://open.spotify.com/artist/3QOwPxkPpGvhbiPaEs7Pnl"
+        }
+      ],
+      "duration_ms": 195776,
+      "name": "Odds of Getting Even",
+      "url": "https://open.spotify.com/track/6hOcy7MbHW5I4QqZLZXddc"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
         "name": "Please Mr Please",
         "url": "https://open.spotify.com/album/2gcCWQhW56Mxe7GbyNR5i9"
       },
@@ -1239,30 +1263,6 @@
       "duration_ms": 223586,
       "name": "I'll Blame It on the Rain",
       "url": "https://open.spotify.com/track/3RGxcycEc2SxZ15PqjIeUc"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
-        "name": "Living In A Song",
-        "url": "https://open.spotify.com/album/6OBDoOanDakhw9QyyB5wau"
-      },
-      "artists": [
-        {
-          "name": "Rob Ickes & Trey Hensley",
-          "url": "https://open.spotify.com/artist/1N33O43FnAJtlHh8Nna68C"
-        },
-        {
-          "name": "Rob Ickes",
-          "url": "https://open.spotify.com/artist/484t62XnzdAjOXvx7IQWDd"
-        },
-        {
-          "name": "Trey Hensley",
-          "url": "https://open.spotify.com/artist/4Rk9tPJMkej36GtfYGjtSa"
-        }
-      ],
-      "duration_ms": 236213,
-      "name": "Living In A Song",
-      "url": "https://open.spotify.com/track/2xedIPhAxW5H0IGWM9J29L"
     },
     {
       "added_at": "2026-08-14 04:01:26",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2026-08-14 04:01:26",
       "album": {
-        "name": "Kentucky Highway",
-        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
-      },
-      "artists": [
-        {
-          "name": "Williamson Branch",
-          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
-        }
-      ],
-      "duration_ms": 219493,
-      "name": "Kentucky Highway",
-      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
-    },
-    {
-      "added_at": "2026-08-14 04:01:26",
-      "album": {
         "name": "Skating on the Harbourfront",
         "url": "https://open.spotify.com/album/0HJBSbUJHtaU1GAOCUYW9s"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 166975,
       "name": "Skating on the Harbourfront",
       "url": "https://open.spotify.com/track/5Brkc4oQQebavOBIaNMTXS"
+    },
+    {
+      "added_at": "2026-08-14 04:01:26",
+      "album": {
+        "name": "Kentucky Highway",
+        "url": "https://open.spotify.com/album/1MxjkNcs20cCVFvCyjN1ET"
+      },
+      "artists": [
+        {
+          "name": "Williamson Branch",
+          "url": "https://open.spotify.com/artist/4iX67MvaviUQqfP6j9JWxN"
+        }
+      ],
+      "duration_ms": 219493,
+      "name": "Kentucky Highway",
+      "url": "https://open.spotify.com/track/1N21yfPTidop9tkz3P5Kul"
     }
   ],
   "unique_name": "Grass Roots",

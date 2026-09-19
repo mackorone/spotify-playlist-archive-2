@@ -1,12 +1,12 @@
 {
   "description": "A mix of the best modern Deathcore tracks. Cover: Bring Me The Horizon",
-  "num_followers": 307452,
+  "num_followers": 307649,
   "original_name": "Deathcore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOIu/7+OPPfZq81cQSzmescJ+EQa",
+  "snapshot_id": "AAAAAHiaPcch3h80yXif00yl8ViNebzH",
   "tracks": [
     {
       "added_at": "2026-07-17 04:04:53",
@@ -659,6 +659,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "Hum From The Hollow",
+        "url": "https://open.spotify.com/album/3SUGVh17YHtmDYswbcCmkY"
+      },
+      "artists": [
+        {
+          "name": "After The Burial",
+          "url": "https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en"
+        }
+      ],
+      "duration_ms": 231884,
+      "name": "Hum From The Hollow",
+      "url": "https://open.spotify.com/track/2WiLtGRWHw2badAuJIJDkb"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Carry The Weight",
         "url": "https://open.spotify.com/album/3F6AqVyNhhgbW8N6GwI1zY"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 173990,
       "name": "Carry The Weight",
       "url": "https://open.spotify.com/track/68OwvHG4vUHckIvzWWSKZS"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Hum From The Hollow",
-        "url": "https://open.spotify.com/album/3SUGVh17YHtmDYswbcCmkY"
-      },
-      "artists": [
-        {
-          "name": "After The Burial",
-          "url": "https://open.spotify.com/artist/0uNj4RxFjG0iVPlZS753en"
-        }
-      ],
-      "duration_ms": 231884,
-      "name": "Hum From The Hollow",
-      "url": "https://open.spotify.com/track/2WiLtGRWHw2badAuJIJDkb"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -927,8 +927,8 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Rat Torture",
-        "url": "https://open.spotify.com/album/0gqOFfSQkDEl6bSotv3mjb"
+        "name": "Nothing Left to Hate",
+        "url": "https://open.spotify.com/album/0E2gDJcCMVouqy8PeT6H2A"
       },
       "artists": [
         {
@@ -936,9 +936,9 @@
           "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
         }
       ],
-      "duration_ms": 178478,
-      "name": "Rat Torture",
-      "url": "https://open.spotify.com/track/7GPuygB482Cs5GawFITv38"
+      "duration_ms": 192848,
+      "name": "Nothing Left to Hate",
+      "url": "https://open.spotify.com/track/0i4ygpC8IvP4CsKdfbz5eV"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1007,8 +1007,8 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Nothing Left to Hate",
-        "url": "https://open.spotify.com/album/0E2gDJcCMVouqy8PeT6H2A"
+        "name": "Rat Torture",
+        "url": "https://open.spotify.com/album/0gqOFfSQkDEl6bSotv3mjb"
       },
       "artists": [
         {
@@ -1016,9 +1016,9 @@
           "url": "https://open.spotify.com/artist/7dfpBi0QvO9FmlhBK6XHwJ"
         }
       ],
-      "duration_ms": 192848,
-      "name": "Nothing Left to Hate",
-      "url": "https://open.spotify.com/track/0i4ygpC8IvP4CsKdfbz5eV"
+      "duration_ms": 178478,
+      "name": "Rat Torture",
+      "url": "https://open.spotify.com/track/7GPuygB482Cs5GawFITv38"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1363,6 +1363,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "I Write To You, My Darling Decay",
+        "url": "https://open.spotify.com/album/65P5Jm9OqRUUbINjiYmiOu"
+      },
+      "artists": [
+        {
+          "name": "A Wake in Providence",
+          "url": "https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa"
+        }
+      ],
+      "duration_ms": 471605,
+      "name": "I Write To You, My Darling Decay",
+      "url": "https://open.spotify.com/track/6VBoXgIvYI3mrJE6eSd98X"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Needful Things",
         "url": "https://open.spotify.com/album/5kNyXGLHUusKlqJlrT8o7k"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "I Write To You, My Darling Decay",
-        "url": "https://open.spotify.com/album/65P5Jm9OqRUUbINjiYmiOu"
+        "name": "Endless",
+        "url": "https://open.spotify.com/album/5lxqoACoFFCyZaISr77Hdj"
       },
       "artists": [
         {
-          "name": "A Wake in Providence",
-          "url": "https://open.spotify.com/artist/60HAu8nsOGLPFtOOvar9wa"
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
         }
       ],
-      "duration_ms": 471605,
-      "name": "I Write To You, My Darling Decay",
-      "url": "https://open.spotify.com/track/6VBoXgIvYI3mrJE6eSd98X"
+      "duration_ms": 263400,
+      "name": "Forlorn",
+      "url": "https://open.spotify.com/track/5BCK5qslfX22rNkVnwomkw"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1431,18 +1447,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Endless",
-        "url": "https://open.spotify.com/album/5lxqoACoFFCyZaISr77Hdj"
+        "name": "Crossing Nails",
+        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
       },
       "artists": [
         {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+          "name": "Crystal Lake",
+          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
         }
       ],
-      "duration_ms": 263400,
-      "name": "Forlorn",
-      "url": "https://open.spotify.com/track/5BCK5qslfX22rNkVnwomkw"
+      "duration_ms": 222928,
+      "name": "Crossing Nails",
+      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1463,22 +1479,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Crossing Nails",
-        "url": "https://open.spotify.com/album/4xM8HEY092XTTswORmrm2K"
-      },
-      "artists": [
-        {
-          "name": "Crystal Lake",
-          "url": "https://open.spotify.com/artist/0A7d0PJxaLO7CGI94ht6PX"
-        }
-      ],
-      "duration_ms": 222928,
-      "name": "Crossing Nails",
-      "url": "https://open.spotify.com/track/61Ofd1JOWQ9IkvpO61CgvV"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Say Something",
         "url": "https://open.spotify.com/album/4uNSpSWHxNuQcJ1ra8On0r"
       },
@@ -1491,6 +1491,22 @@
       "duration_ms": 186944,
       "name": "Say Something",
       "url": "https://open.spotify.com/track/5YLa2A1uqX3v556WIKdTlm"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "HOLY MOONLIGHT",
+        "url": "https://open.spotify.com/album/3chxstOY9xzmGyR37xA869"
+      },
+      "artists": [
+        {
+          "name": "The Acacia Strain",
+          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+        }
+      ],
+      "duration_ms": 134748,
+      "name": "HOLY MOONLIGHT",
+      "url": "https://open.spotify.com/track/7I9eXdf4KRLujHJZxLBgDM"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1511,18 +1527,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "HOLY MOONLIGHT",
-        "url": "https://open.spotify.com/album/3chxstOY9xzmGyR37xA869"
+        "name": "THE FINAL GATE",
+        "url": "https://open.spotify.com/album/4eYL3VeN2LWNvC3Cc3ZT4N"
       },
       "artists": [
         {
-          "name": "The Acacia Strain",
-          "url": "https://open.spotify.com/artist/4tDkeVxH0CSkNiLVrsYmQs"
+          "name": "The Archaic Epidemic",
+          "url": "https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l"
         }
       ],
-      "duration_ms": 134748,
-      "name": "HOLY MOONLIGHT",
-      "url": "https://open.spotify.com/track/7I9eXdf4KRLujHJZxLBgDM"
+      "duration_ms": 184606,
+      "name": "THE FINAL GATE",
+      "url": "https://open.spotify.com/track/27deyidnU8H2Qat3gAjBIr"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1559,22 +1575,6 @@
       "duration_ms": 132861,
       "name": "Carotid",
       "url": "https://open.spotify.com/track/6b3FDNOiWM9NVsayrj6YZN"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "THE FINAL GATE",
-        "url": "https://open.spotify.com/album/4eYL3VeN2LWNvC3Cc3ZT4N"
-      },
-      "artists": [
-        {
-          "name": "The Archaic Epidemic",
-          "url": "https://open.spotify.com/artist/5g1ErYWibd11yq9eJkL38l"
-        }
-      ],
-      "duration_ms": 184606,
-      "name": "THE FINAL GATE",
-      "url": "https://open.spotify.com/track/27deyidnU8H2Qat3gAjBIr"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1819,18 +1819,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Kiss The Dice",
-        "url": "https://open.spotify.com/album/7u0t1WlQEKZdBUwxrPUlOg"
+        "name": "Say My Name",
+        "url": "https://open.spotify.com/album/0SPTYQCJRxtW93E1M2rqap"
       },
       "artists": [
         {
-          "name": "Disfiguring The Goddess",
-          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
+          "name": "Reminitions",
+          "url": "https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB"
         }
       ],
-      "duration_ms": 200000,
-      "name": "Kiss The Dice",
-      "url": "https://open.spotify.com/track/1ESHWKQu1i2WUZDj7PSWVE"
+      "duration_ms": 242644,
+      "name": "Say My Name",
+      "url": "https://open.spotify.com/track/6gdyMUqJgcZTv6JleU8ytr"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1851,18 +1851,18 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "Say My Name",
-        "url": "https://open.spotify.com/album/0SPTYQCJRxtW93E1M2rqap"
+        "name": "Kiss The Dice",
+        "url": "https://open.spotify.com/album/7u0t1WlQEKZdBUwxrPUlOg"
       },
       "artists": [
         {
-          "name": "Reminitions",
-          "url": "https://open.spotify.com/artist/02Y2TRv2FeIzVieVOoaIRB"
+          "name": "Disfiguring The Goddess",
+          "url": "https://open.spotify.com/artist/4KNivmUcgaar8yZvjYRoqv"
         }
       ],
-      "duration_ms": 242644,
-      "name": "Say My Name",
-      "url": "https://open.spotify.com/track/6gdyMUqJgcZTv6JleU8ytr"
+      "duration_ms": 200000,
+      "name": "Kiss The Dice",
+      "url": "https://open.spotify.com/track/1ESHWKQu1i2WUZDj7PSWVE"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1923,22 +1923,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "EVERMORE",
-        "url": "https://open.spotify.com/album/69fT5NXfGfl67tJPKv89x3"
-      },
-      "artists": [
-        {
-          "name": "Aviana",
-          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
-        }
-      ],
-      "duration_ms": 221250,
-      "name": "EVERMORE",
-      "url": "https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Misery Eternal",
         "url": "https://open.spotify.com/album/5xfr42OlCFI8PaEs8YElqD"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 213870,
       "name": "Misery Eternal",
       "url": "https://open.spotify.com/track/6o58ghU9lr29HIojmWqoVF"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "EVERMORE",
+        "url": "https://open.spotify.com/album/69fT5NXfGfl67tJPKv89x3"
+      },
+      "artists": [
+        {
+          "name": "Aviana",
+          "url": "https://open.spotify.com/artist/1AvLltBsz1HdAtZeucm9zy"
+        }
+      ],
+      "duration_ms": 221250,
+      "name": "EVERMORE",
+      "url": "https://open.spotify.com/track/6kaCDMySbzL7bPa3DRDPcV"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -1995,6 +1995,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "Seed",
+        "url": "https://open.spotify.com/album/37TC4QxiwGRzFfvoCcZqiK"
+      },
+      "artists": [
+        {
+          "name": "Ov Sulfur",
+          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
+        }
+      ],
+      "duration_ms": 289200,
+      "name": "Seed",
+      "url": "https://open.spotify.com/track/7l3t98bEOf3yHZGBSNjDXD"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Overdrive",
         "url": "https://open.spotify.com/album/5eLijWKg89vlalIFzQQOyY"
       },
@@ -2015,22 +2031,6 @@
       "duration_ms": 188746,
       "name": "Overdrive",
       "url": "https://open.spotify.com/track/3DQP1AK5wgHPhy2e1EIvdS"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Seed",
-        "url": "https://open.spotify.com/album/37TC4QxiwGRzFfvoCcZqiK"
-      },
-      "artists": [
-        {
-          "name": "Ov Sulfur",
-          "url": "https://open.spotify.com/artist/7DZ58DvASCdGxYBdET8fbC"
-        }
-      ],
-      "duration_ms": 289200,
-      "name": "Seed",
-      "url": "https://open.spotify.com/track/7l3t98bEOf3yHZGBSNjDXD"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2251,6 +2251,22 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
+        "name": "Drop Dead Gorgeous",
+        "url": "https://open.spotify.com/album/3g0e9UejRcmvoM2ADd4qeE"
+      },
+      "artists": [
+        {
+          "name": "Mauled",
+          "url": "https://open.spotify.com/artist/6UcO509nWHNHlMhDYbuel2"
+        }
+      ],
+      "duration_ms": 188906,
+      "name": "TheLastThingYouSee",
+      "url": "https://open.spotify.com/track/43VDdSuslycwdg8XEGWFql"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
         "name": "Kneel Before The Death",
         "url": "https://open.spotify.com/album/1Cfc1tRM1GB9TfjQDKBv6m"
       },
@@ -2279,22 +2295,6 @@
       "duration_ms": 178173,
       "name": "Concrete Casket",
       "url": "https://open.spotify.com/track/6zKq6LzG5XtVKye6urOW6G"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
-        "name": "Drop Dead Gorgeous",
-        "url": "https://open.spotify.com/album/3g0e9UejRcmvoM2ADd4qeE"
-      },
-      "artists": [
-        {
-          "name": "Mauled",
-          "url": "https://open.spotify.com/artist/6UcO509nWHNHlMhDYbuel2"
-        }
-      ],
-      "duration_ms": 188906,
-      "name": "TheLastThingYouSee",
-      "url": "https://open.spotify.com/track/43VDdSuslycwdg8XEGWFql"
     },
     {
       "added_at": "2026-07-17 04:04:53",
@@ -2503,22 +2503,6 @@
     {
       "added_at": "2026-07-17 04:04:53",
       "album": {
-        "name": "The Substance",
-        "url": "https://open.spotify.com/album/4zRZVEWooswBKCk4Ymbef0"
-      },
-      "artists": [
-        {
-          "name": "Decayer",
-          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
-        }
-      ],
-      "duration_ms": 275360,
-      "name": "The Substance",
-      "url": "https://open.spotify.com/track/7dPZOf2Hyn5BRSUmz1ScDI"
-    },
-    {
-      "added_at": "2026-07-17 04:04:53",
-      "album": {
         "name": "Apparition",
         "url": "https://open.spotify.com/album/5McFM0iyPTlRWWAWj6W8rr"
       },
@@ -2571,6 +2555,22 @@
       "duration_ms": 125776,
       "name": "SHACKLEROT",
       "url": "https://open.spotify.com/track/4fckK2M2zO9JveWT2iYgMK"
+    },
+    {
+      "added_at": "2026-07-17 04:04:53",
+      "album": {
+        "name": "The Substance",
+        "url": "https://open.spotify.com/album/4zRZVEWooswBKCk4Ymbef0"
+      },
+      "artists": [
+        {
+          "name": "Decayer",
+          "url": "https://open.spotify.com/artist/2uEEkcNT0D7EmVs2ebKe9i"
+        }
+      ],
+      "duration_ms": 275360,
+      "name": "The Substance",
+      "url": "https://open.spotify.com/track/7dPZOf2Hyn5BRSUmz1ScDI"
     },
     {
       "added_at": "2026-07-17 04:04:53",

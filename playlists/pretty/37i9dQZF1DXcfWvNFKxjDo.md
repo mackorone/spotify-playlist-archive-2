@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 
 > Die heißesten neuen Dance Tracks in einer Playlist\. Cover: Adriatique
 
-[Spotify](https://open.spotify.com/user/spotify) - 351,101 likes - 71 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 351,181 likes - 71 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 27 | [No Love For Free](https://open.spotify.com/track/2CoVFRl4snLXszp6dNgLEN) | [Mika Heggemann](https://open.spotify.com/artist/629DRpzxtk6FhLuqMfSqqP), [2HOT2PLAY](https://open.spotify.com/artist/3A1LIysZ96ZZSSMuAvvSEA), [Eloise Keeble](https://open.spotify.com/artist/7mOEFI30ETW9l7SFMpXoH9) | [No Love For Free](https://open.spotify.com/album/5CKOXGfquSSAqrhCvRvSJ5) | 2:40 |
 | 28 | [Pop This](https://open.spotify.com/track/0S9kUWMb4SoO1lnjvcRD7d) | [Öwnboss](https://open.spotify.com/artist/37czgDRfGMvgRiUKHvnnhj) | [Pop This](https://open.spotify.com/album/6jN04aIOe465ymEnpIz4WG) | 2:59 |
 | 29 | [Lose Control](https://open.spotify.com/track/6CGoaZLiqf6fSvTRGf7X9J) | [mischluft](https://open.spotify.com/artist/6IPWduBm255hSxmAcNoHjF) | [Lose Control](https://open.spotify.com/album/5YS69Tkbi6ckLICj96wQVi) | 2:53 |
-| 30 | [Track 1](https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Pele De Mar](https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6) | 0:00 |
+| 30 | [RIO](https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Pele De Mar](https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6) | 5:50 |
 | 31 | [Turn The Tide \(ft\. Sylver\)](https://open.spotify.com/track/1KzOYBxIWUOwpJqqcNrUHs) | [Dimitri Vegas](https://open.spotify.com/artist/2HkAI0YrEcgoR8QdaURqhO), [Sylver](https://open.spotify.com/artist/1i9NxPRrKcoW34XTMnvzJy), [Pat B](https://open.spotify.com/artist/6kLbQrRfstOkAju82Vrhmb) | [Turn The Tide \(ft\. Sylver\)](https://open.spotify.com/album/4rvN8fLgFPrvircikya1MW) | 2:15 |
 | 32 | [Replay](https://open.spotify.com/track/3zk1PjtUkBlhn6LMIYWGgS) | [ItaloBrothers](https://open.spotify.com/artist/5nkYRuiIHg2xXHFC8bfosJ), [Kickbait](https://open.spotify.com/artist/07Lnw1KXCwVMNUTGciJImE), [Julian Brandts](https://open.spotify.com/artist/7gs4gtPp3xC3flmP0pauVd) | [Replay](https://open.spotify.com/album/7F7AArObesQYSFq8ubUmdx) | 2:38 |
 | 33 | [1,2,3](https://open.spotify.com/track/026KKK884Zz74vrFF9EIiG) | [James Hype](https://open.spotify.com/artist/43BxCL6t4c73BQnIJtry5v), [Volkoder](https://open.spotify.com/artist/5SwGFGfUlV6Dan4ygjF5CU) | [1,2,3](https://open.spotify.com/album/3DRVzoB6SX4aHNtFVZet4p) | 2:47 |
@@ -78,6 +78,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcfWvNFKxjDo.md) - [plain]
 | 68 | [System](https://open.spotify.com/track/3pVz70xoeSaAVeTR7hqhGp) | [Davyboi](https://open.spotify.com/artist/6P4o2FYfdS5rI309RFzm9m), [Sacha Harland](https://open.spotify.com/artist/4GktaoQrTnZR0JREmWusDO) | [System](https://open.spotify.com/album/0Ecjy29B7yjF2tpLwGe9xA) | 3:16 |
 | 69 | [Over You](https://open.spotify.com/track/1bETUlYJKi9YoC3wHaZmlj) | [Jost](https://open.spotify.com/artist/4JLjGlT5l6gtKKvP8qRb2g) | [Over You](https://open.spotify.com/album/1z1RiFTYiG2k8dWu3hI8lp) | 2:12 |
 | 70 | [i gotta feel too much](https://open.spotify.com/track/5gedqp50I2WL7qGoCgLeG6) | [ALCATRAZ](https://open.spotify.com/artist/1HLQrKy2EhoJdADW105gfR), [biblemami](https://open.spotify.com/artist/6Wl8Lok0dnlLHeURIWeGHV) | [i gotta feel too much](https://open.spotify.com/album/67jJafIpmqVWRzxpms7K6l) | 2:32 |
-| 71 | [Track 4](https://open.spotify.com/track/3AhwyGcUc3hjfoDqUCduNy) | [SUSKA](https://open.spotify.com/artist/0EaFSYUoeUNIFoFtFgFMtl) | [FIESTA EP](https://open.spotify.com/album/0tAgbpVFL5QRoFxq0kUfau) | 0:00 |
+| 71 | [VAMOS LOCO](https://open.spotify.com/track/3AhwyGcUc3hjfoDqUCduNy) | [SUSKA](https://open.spotify.com/artist/0EaFSYUoeUNIFoFtFgFMtl) | [FIESTA EP](https://open.spotify.com/album/0tAgbpVFL5QRoFxq0kUfau) | 2:34 |
 
-Snapshot ID: `AAAAAFQJbGv52FzGGohf3YgMZaw1o2TO`
+Snapshot ID: `AAAAAFqpRtKGWB+Yo5FyUDtSa4OZ/1Yr`

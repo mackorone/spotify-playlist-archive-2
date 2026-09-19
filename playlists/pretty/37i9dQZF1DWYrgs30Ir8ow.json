@@ -1,12 +1,12 @@
 {
   "description": "Altijd frisse hits! Cover: Isab\u00e8l Usher (<a href=\"spotify:playlist:37i9dQZF1DXaxwXKCsImRe\">Spotify RADAR</a>\n-artiest)",
-  "num_followers": 37942,
+  "num_followers": 38002,
   "original_name": "Fresh Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADNhDpF1ITrHgvHnA/169HeyZABk",
+  "snapshot_id": "AAAAAMUW/m6/7+o5TpwrsXdA5zVFKc6v",
   "tracks": [
     {
       "added_at": "2026-09-17 22:01:47",
@@ -167,6 +167,22 @@
       "duration_ms": 221535,
       "name": "Trapped - Radio-Edit",
       "url": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
+    },
+    {
+      "added_at": "2026-09-17 22:01:47",
+      "album": {
+        "name": "Parachute",
+        "url": "https://open.spotify.com/album/0p8HRk8YftL51GFU0DvVbz"
+      },
+      "artists": [
+        {
+          "name": "Bente",
+          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
+        }
+      ],
+      "duration_ms": 206921,
+      "name": "Parachute",
+      "url": "https://open.spotify.com/track/6ipQbyshG2EiqlR11pbYLR"
     },
     {
       "added_at": "2026-09-17 22:01:47",
@@ -419,22 +435,6 @@
       "duration_ms": 120920,
       "name": "VOODOO",
       "url": "https://open.spotify.com/track/1m6CMEuJPdFJolVZOyuuy8"
-    },
-    {
-      "added_at": "2026-09-17 22:01:47",
-      "album": {
-        "name": "Parachute",
-        "url": "https://open.spotify.com/album/0p8HRk8YftL51GFU0DvVbz"
-      },
-      "artists": [
-        {
-          "name": "Bente",
-          "url": "https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e"
-        }
-      ],
-      "duration_ms": 206921,
-      "name": "Parachute",
-      "url": "https://open.spotify.com/track/6ipQbyshG2EiqlR11pbYLR"
     },
     {
       "added_at": "2026-09-17 22:01:47",

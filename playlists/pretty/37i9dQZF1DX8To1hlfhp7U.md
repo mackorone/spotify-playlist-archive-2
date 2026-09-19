@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 
 > Get ready for a full\-body workout
 
-[Spotify](https://open.spotify.com/user/spotify) - 93,185 likes - 50 songs - 2 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 93,199 likes - 50 songs - 2 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -22,8 +22,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 12 | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/track/5fXslGZPI5Cco6PKHzlSL3) | [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c), [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Tanishk Bagchi](https://open.spotify.com/artist/4f7KfxeHq9BiylGmyXepGt), [Intense](https://open.spotify.com/artist/0OS0NZnK7TGIAWx8MkWNFN) | [Illegal Weapon 2.0 \(From "Street Dancer 3D"\)](https://open.spotify.com/album/7LwW8qe6sND4ySnKmdZacl) | 3:08 |
 | 13 | [Snake](https://open.spotify.com/track/5Hbcsj2iTcsETphClTi4Wq) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Snake](https://open.spotify.com/album/7nFkbtIGw5DqUV5MSFZBip) | 2:20 |
 | 14 | [Illegal Weapon](https://open.spotify.com/track/3Oe3VdPn6rAueriQvFhCBA) | [Garry Sandhu](https://open.spotify.com/artist/7M3xY5iHSzEtoL3FpqOD75), [Jasmine Sandlas](https://open.spotify.com/artist/0mJDQBWytBhOh5JB1DOQ1c) | [Illegal Weapon](https://open.spotify.com/album/3FZHxI5Qc9POrnW3Lr9z4P) | 3:50 |
-| 15 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 |
-| 16 | [Teeje Week](https://open.spotify.com/track/000RDCYioLteXcutOjeweY) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Teeje Week](https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM) | 3:10 |
+| 15 | [Teeje Week](https://open.spotify.com/track/000RDCYioLteXcutOjeweY) | [Jordan Sandhu](https://open.spotify.com/artist/3TozxPbDes76aGFdfv7PMv), [Bunty Bains](https://open.spotify.com/artist/4eHycMGKslAXJLcLO4F82x) | [Teeje Week](https://open.spotify.com/album/6LxCxBowIfX7JAfmafOIaM) | 3:10 |
+| 16 | [Obsessed](https://open.spotify.com/track/6Z4rRhYZVQsYKmrxD40tru) | [Riar Saab](https://open.spotify.com/artist/34gAaWeYZoRER7MY3KBy1Q), [Abhijay Sharma](https://open.spotify.com/artist/3x1jBMHHrDUQbtRrvV78h2) | [Obsessed](https://open.spotify.com/album/3LyafXRRJVEfcjTMr1N8Mu) | 3:10 |
 | 17 | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/track/1YKPRycM3GzKbZUYDgLrmn) | [Manan Bhardwaj](https://open.spotify.com/artist/3pQ4aA7dkolyjUAMrVScgh), [Bhupinder Babbal](https://open.spotify.com/artist/5bppkTlu7F930pWlNn1b1g) | [Arjan Vailly \(From "ANIMAL"\)](https://open.spotify.com/album/6i0fypW09DBEBiMxqXXu8K) | 3:02 |
 | 18 | [Vancouver](https://open.spotify.com/track/1QKIZctspbifzxSJr6i7JX) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:43 |
 | 19 | [She Move It Like](https://open.spotify.com/track/39vrbjCMTRXEdiIr2IsBgd) | [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1) | [ONE \(Original Never Ends\)](https://open.spotify.com/album/1g1jWkfmIQPBwbUBc7VxTw) | 3:01 |
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8To1hlfhp7U.md) - [plain]
 | 46 | [Stubborn](https://open.spotify.com/track/0UXQN4UL4LW1IeMczufzsF) | [Nirvair Pannu](https://open.spotify.com/artist/4vIsAZx8AolYa6paJphDGY), [Pagga](https://open.spotify.com/artist/4tGqWmZl3fRvb0QMCb0yxg), [DesiFrenzy](https://open.spotify.com/artist/7gfgcUaGKOoCfKt1Yoi92E) | [ROMEO](https://open.spotify.com/album/3BdbcwuZ24zF60YcQrL3NV) | 2:17 |
 | 47 | [She Don't Know \(From "She Don't Know"\)](https://open.spotify.com/track/23dCPIMivfUQwUPSeDSUPc) | [Millind Gaba](https://open.spotify.com/artist/7hVmdlsJp0E2WQIvVl8ngN), [Dhrruv Yogi](https://open.spotify.com/artist/1gegc3MqXY9tE3SL0PyLKr) | [She Don't Know \(From "Blessed"\)](https://open.spotify.com/album/0vomvwmwqw7puUfnwVWjsf) | 3:23 |
 | 48 | [Marji Nal](https://open.spotify.com/track/4OOqDEp5ilJ7eq612SZ7Lk) | [Pardeep Sran](https://open.spotify.com/artist/4LUGmBDuNtbBZp5naOMEnC), [Gaiphy](https://open.spotify.com/artist/0skC3fyzwvZzjtrJ4iUP7B), [Arsh Sidhu](https://open.spotify.com/artist/67DISm7g3qiY70KENtwL6G) | [Hostel](https://open.spotify.com/album/7KSbKQ1gsadsdqEJyzg4S0) | 2:15 |
-| 49 | [Left Behind](https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Left Behind](https://open.spotify.com/album/3Z3kGbW5yyIlKeu6zpEFzQ) | 3:42 |
-| 50 | [Redbone](https://open.spotify.com/track/0CQeqWJO1OSand5O3LGWA3) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 |
+| 49 | [Redbone](https://open.spotify.com/track/0CQeqWJO1OSand5O3LGWA3) | [Chinna](https://open.spotify.com/artist/33saytE0qGBD96vkPj4ALw), [Manni Sandhu](https://open.spotify.com/artist/3IzepIGEFUSFFnuIVGwZDS) | [No Turning Back](https://open.spotify.com/album/20PfKi2qclF4raQzLjkz9i) | 2:49 |
+| 50 | [Left Behind](https://open.spotify.com/track/2CQlMyN2oEbCN2Rqg1uuzB) | [Zafar](https://open.spotify.com/artist/27zc1MNtaVbjkqsk6bSDVP), [Guri Nimana](https://open.spotify.com/artist/6kuGpAbghR1QObbtmJQX3f) | [Left Behind](https://open.spotify.com/album/3Z3kGbW5yyIlKeu6zpEFzQ) | 3:42 |
 
-Snapshot ID: `AAAAAO72iAJF0caPkWJNo2HYRSp/hBur`
+Snapshot ID: `AAAAAOQsFLG0k7Gghob91muUi3G6LVMK`

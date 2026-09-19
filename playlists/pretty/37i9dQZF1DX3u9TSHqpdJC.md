@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 
 > The best pop songs from new, independent artists as chosen by our editors\.  Cover: Hannah Hu\. Artwork by Paola Saliby
 
-[Spotify](https://open.spotify.com/user/spotify) - 243,006 likes - 75 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 243,066 likes - 75 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 44 | [Lady In the GPS](https://open.spotify.com/track/3S5aeNMYlrbxZGgUK7uCHv) | [Dominique Way](https://open.spotify.com/artist/5kROZ1F7ExRZyFnHvKdlJ7) | [Who Could Not Be Broken](https://open.spotify.com/album/0LFdvovLwaU4WQX1q3n6il) | 2:41 |
 | 45 | [heartbreaker](https://open.spotify.com/track/6G9GiMHJrwzZDV3gNuzGW8) | [kitty bella](https://open.spotify.com/artist/3dDsAxEGXIESY6puCA7YKz) | [heartbreaker](https://open.spotify.com/album/1vldrrNFlFsYgeg8GShaKh) | 2:26 |
 | 46 | [CANDYNECKLACE](https://open.spotify.com/track/0OCNB7aZHcl4FmBjfvR844) | [Babe America](https://open.spotify.com/artist/5oPCa0GsQjPlRdOdFRoY6Z) | [ANGELFOODCAKE](https://open.spotify.com/album/2X1juJXzvB8YVuioMOH848) | 3:33 |
-| 47 | [pretty please](https://open.spotify.com/track/7mXWEoSBIPVZ1quMSDhVSC) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [pretty please](https://open.spotify.com/album/5nz9UHOeV9hcsheM8HLjgN) | 3:46 |
+| 47 | [pretty please](https://open.spotify.com/track/7mXWEoSBIPVZ1quMSDhVSC) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [pretty please](https://open.spotify.com/album/5nz9UHOeV9hcsheM8HLjgN) | 3:46 |
 | 48 | [Tough Act To Follow](https://open.spotify.com/track/3zCCpmvOk5GYI3K6iPyYgY) | [Hunter Daily](https://open.spotify.com/artist/5t5Fbw7cQgZyJnyJhmanlW) | [Tough Act To Follow](https://open.spotify.com/album/6Ra73YJTLoLc2lmnew6HyS) | 2:45 |
 | 49 | [FERAL \(don't talk to me\)](https://open.spotify.com/track/7wHjcHhQJb883IZpeDlJgw) | [Baobei](https://open.spotify.com/artist/2Pj6Ot77F8iLP6H0QkXt1h) | [SATURN](https://open.spotify.com/album/6Ilr5VbWCPFRvf9UNOOKsf) | 2:38 |
 | 50 | [the dog that cries](https://open.spotify.com/track/6NRoy34F0juS7q0JaZibmO) | [gottsy](https://open.spotify.com/artist/2P30CnCVzy8gHQeWqr9nMb) | [the dog that cries](https://open.spotify.com/album/3on0VJ00sQWwhNSD85CGi0) | 2:44 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3u9TSHqpdJC.md) - [plain]
 | 74 | [spotless state of mind](https://open.spotify.com/track/4eD2k2u8NJGcIGcKddEcJf) | [Fia James](https://open.spotify.com/artist/7m9lGtwbFjNmBpc3AcJI7R) | [spotless state of mind](https://open.spotify.com/album/4nd3lSysTh1vDOAsujdUUT) | 2:39 |
 | 75 | [made for love](https://open.spotify.com/track/0wcH106ZfD71Vw2riAZnGv) | [Quiet Houses](https://open.spotify.com/artist/6oeIyvCenamQzsTMYnuZTC) | [we're all in love](https://open.spotify.com/album/2SpcNHbHyQAgcdQ2UzS0bF) | 3:56 |
 
-Snapshot ID: `AAAAAIHzUFartKaeG93rLv5+gv2vGzA8`
+Snapshot ID: `AAAAAFXisc5OufZq3M0HTtMdzi+Pcqcb`

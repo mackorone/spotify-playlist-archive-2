@@ -1,12 +1,12 @@
 {
   "description": "Con todo el sentimiento ranchero desde el coraz\u00f3n de la Tierra Caliente. To\u00f1o y Freddy en portada. ",
-  "num_followers": 98106,
+  "num_followers": 98123,
   "original_name": "Tierra Caliente",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEXDlFG47KcdYD6XP/tQOWM5rogm",
+  "snapshot_id": "AAAAAOfAjS3jvCYGJ2ROMqRvGXaybSrv",
   "tracks": [
     {
       "added_at": "2026-07-24 06:00:32",
@@ -563,22 +563,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Soy Cukin",
-        "url": "https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 225692,
-      "name": "Soy Cukin",
-      "url": "https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Eres Mi \u00c1ngel",
         "url": "https://open.spotify.com/album/1PDfdwiMGcGbsZqxd48tKo"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 181813,
       "name": "Todo Por Servir Se Acaba",
       "url": "https://open.spotify.com/track/33aFzGxZYAkCx2RxqfN06U"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Soy Cukin",
+        "url": "https://open.spotify.com/album/1eVP7WUjq7xfFEroePZ0yT"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 225692,
+      "name": "Soy Cukin",
+      "url": "https://open.spotify.com/track/6PYAdvhQGjuqoP4I9YBON5"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Estoy Aqu\u00ed",
-        "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 193882,
-      "name": "Jefe Fresa",
-      "url": "https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Arpacumbiando: Caliente, Caliente",
         "url": "https://open.spotify.com/album/6zOnwXDxxOHik1jT3IIukc"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 187746,
       "name": "Caliente Caliente",
       "url": "https://open.spotify.com/track/00KobkfwcyPkxUY73Y2J8T"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Estoy Aqu\u00ed",
+        "url": "https://open.spotify.com/album/4a2Q0M9B2DGneblANoPtEQ"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 193882,
+      "name": "Jefe Fresa",
+      "url": "https://open.spotify.com/track/5qYEfd1C9P6CmBEHKkzfKA"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "El Amor de Tu Vida",
-        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
-      },
-      "artists": [
-        {
-          "name": "Triny La Leyenda",
-          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
-        }
-      ],
-      "duration_ms": 278866,
-      "name": "El Amor de Mi Vida",
-      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "De California Te Escribo",
         "url": "https://open.spotify.com/album/5p5YGUu3u6gzDzkGxEO6wX"
       },
@@ -1147,8 +1131,24 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Lloviendo Estrellas",
-        "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
+        "name": "El Amor de Tu Vida",
+        "url": "https://open.spotify.com/album/6hy1Ztwrn8rmzlyKPauTtf"
+      },
+      "artists": [
+        {
+          "name": "Triny La Leyenda",
+          "url": "https://open.spotify.com/artist/2US3Kwk5KkABpNnDfLH8VI"
+        }
+      ],
+      "duration_ms": 278866,
+      "name": "El Amor de Mi Vida",
+      "url": "https://open.spotify.com/track/3GYv8wK6A1ANtG62oNm1Tl"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Casita de Adobe",
+        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
       },
       "artists": [
         {
@@ -1156,9 +1156,9 @@
           "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
         }
       ],
-      "duration_ms": 158906,
-      "name": "Mi Ranchito",
-      "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
+      "duration_ms": 239737,
+      "name": "Casita de Adobe",
+      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Rolonononas Pa la Raza",
-        "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
-      },
-      "artists": [
-        {
-          "name": "Raza Obrera",
-          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
-        }
-      ],
-      "duration_ms": 177866,
-      "name": "El Albanil",
-      "url": "https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Camionero",
         "url": "https://open.spotify.com/album/13rCTjAIt0kI9uECD2lILP"
       },
@@ -1227,6 +1211,38 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
+        "name": "Rolonononas Pa la Raza",
+        "url": "https://open.spotify.com/album/09RNUBHp17bcp3bWvMeyCy"
+      },
+      "artists": [
+        {
+          "name": "Raza Obrera",
+          "url": "https://open.spotify.com/artist/0R5UVonrEc6yE7gjWllRGF"
+        }
+      ],
+      "duration_ms": 177866,
+      "name": "El Albanil",
+      "url": "https://open.spotify.com/track/5Ubv1KI0TUpD5fedw1kagG"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Lloviendo Estrellas",
+        "url": "https://open.spotify.com/album/5dUVNQMzAHIn6z5I7Wv3zA"
+      },
+      "artists": [
+        {
+          "name": "Estrellas De Tuzantla",
+          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
+        }
+      ],
+      "duration_ms": 158906,
+      "name": "Mi Ranchito",
+      "url": "https://open.spotify.com/track/7aknjZ3qE9iMLzx7pDvpMJ"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
         "name": "Made in Michoacan",
         "url": "https://open.spotify.com/album/3NGXvBSjSVrXNVCk60HyCf"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 224840,
       "name": "Mi Destino Fue Quererte",
       "url": "https://open.spotify.com/track/7IpLTkFPJlvKUkX58faG0E"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
-        "name": "Casita de Adobe",
-        "url": "https://open.spotify.com/album/6BktzVPKB4mDmTQfageAWk"
-      },
-      "artists": [
-        {
-          "name": "Estrellas De Tuzantla",
-          "url": "https://open.spotify.com/artist/0B52rdLCXnTtqfzt3Xy2IN"
-        }
-      ],
-      "duration_ms": 239737,
-      "name": "Casita de Adobe",
-      "url": "https://open.spotify.com/track/330yVUacfUU84UKG5yX6EK"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1307,22 +1307,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
-        "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
-      },
-      "artists": [
-        {
-          "name": "Martin Solis Y Su Grupo Inborrable",
-          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
-        }
-      ],
-      "duration_ms": 208133,
-      "name": "Preso Me Llevan",
-      "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Como Diablos Te Olvido",
         "url": "https://open.spotify.com/album/0keII9QeGIds6oqoZ4bfDy"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 174706,
       "name": "Vida de Rancho (Zapateado)",
       "url": "https://open.spotify.com/track/55uFAzIYdRCFGnNeHny2Xm"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "20 Exitos de Ley (Serie de Colecci\u00f3n)",
+        "url": "https://open.spotify.com/album/6wPe9ExueR7aA2eUdegYNA"
+      },
+      "artists": [
+        {
+          "name": "Martin Solis Y Su Grupo Inborrable",
+          "url": "https://open.spotify.com/artist/0Dv5wGylebqTen211GWabB"
+        }
+      ],
+      "duration_ms": 208133,
+      "name": "Preso Me Llevan",
+      "url": "https://open.spotify.com/track/2YTdSooHn3xAZAOIuUpQrm"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1355,22 +1355,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "La Venganza De Tina (En Vivo)",
-        "url": "https://open.spotify.com/album/1tuzHZlbW6BAsqYTEUJhmm"
-      },
-      "artists": [
-        {
-          "name": "To\u00f1o Y Freddy",
-          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
-        }
-      ],
-      "duration_ms": 195541,
-      "name": "La Venganza De Tina - En Vivo",
-      "url": "https://open.spotify.com/track/30ny6TIdHONtE26rgEJpkw"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "El Arroyito (Los Creadores del Sacadito)",
         "url": "https://open.spotify.com/album/6Q3bJy46JBVYrcXet5oFf5"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 174400,
       "name": "Ya Est\u00e1n Cantando los Gallos",
       "url": "https://open.spotify.com/track/4MfGO5KzcrF1wCEj8jwOSg"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "La Venganza De Tina (En Vivo)",
+        "url": "https://open.spotify.com/album/1tuzHZlbW6BAsqYTEUJhmm"
+      },
+      "artists": [
+        {
+          "name": "To\u00f1o Y Freddy",
+          "url": "https://open.spotify.com/artist/1L0AuvKZjMooDU1n8uEmLw"
+        }
+      ],
+      "duration_ms": 195541,
+      "name": "La Venganza De Tina - En Vivo",
+      "url": "https://open.spotify.com/track/30ny6TIdHONtE26rgEJpkw"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1503,22 +1503,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Mi Presencia Cuenta",
-        "url": "https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL"
-      },
-      "artists": [
-        {
-          "name": "Nicolas Garcia",
-          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
-        }
-      ],
-      "duration_ms": 148122,
-      "name": "Mi Presencia Cuenta",
-      "url": "https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Para Toda La Vida",
         "url": "https://open.spotify.com/album/02jK2HoW0zuWrZIhnfdNUC"
       },
@@ -1531,6 +1515,22 @@
       "duration_ms": 170733,
       "name": "La Grapa",
       "url": "https://open.spotify.com/track/2m4EVVm3PzUQX8L3GviCeH"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Mi Presencia Cuenta",
+        "url": "https://open.spotify.com/album/6mCasm869JkpS9luUZbKJL"
+      },
+      "artists": [
+        {
+          "name": "Nicolas Garcia",
+          "url": "https://open.spotify.com/artist/6lT5Srr5Jw3bVDyEeCMaaD"
+        }
+      ],
+      "duration_ms": 148122,
+      "name": "Mi Presencia Cuenta",
+      "url": "https://open.spotify.com/track/3odi5ZTRPlXuSH9cOIV4lb"
     },
     {
       "added_at": "2026-07-24 06:00:32",
@@ -1603,22 +1603,6 @@
     {
       "added_at": "2026-07-24 06:00:32",
       "album": {
-        "name": "Exitos en Vivo (En Vivo)",
-        "url": "https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO"
-      },
-      "artists": [
-        {
-          "name": "Beto Y Sus Canarios",
-          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
-        }
-      ],
-      "duration_ms": 102609,
-      "name": "Carga Fina - En Vivo",
-      "url": "https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D"
-    },
-    {
-      "added_at": "2026-07-24 06:00:32",
-      "album": {
         "name": "Viva Tierra Caliente",
         "url": "https://open.spotify.com/album/1YkjA1dE7DsIlbmA46mCfx"
       },
@@ -1631,6 +1615,22 @@
       "duration_ms": 195640,
       "name": "Que Viva Tierra Caliente",
       "url": "https://open.spotify.com/track/1hijcF9lqX1Vwh9jxrWM8k"
+    },
+    {
+      "added_at": "2026-07-24 06:00:32",
+      "album": {
+        "name": "Exitos en Vivo (En Vivo)",
+        "url": "https://open.spotify.com/album/1NmTQFtD2GDx2zxexJ5sTO"
+      },
+      "artists": [
+        {
+          "name": "Beto Y Sus Canarios",
+          "url": "https://open.spotify.com/artist/1Y4RbL9WTMzu0TTobNbNSv"
+        }
+      ],
+      "duration_ms": 102609,
+      "name": "Carga Fina - En Vivo",
+      "url": "https://open.spotify.com/track/25EhRhmxIm8jCiYzxRbd0D"
     },
     {
       "added_at": "2026-07-24 06:00:32",

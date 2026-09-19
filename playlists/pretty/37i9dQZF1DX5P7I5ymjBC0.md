@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 
 > Fusion music for the soul.
 
-[Spotify](https://open.spotify.com/user/spotify) - 86,268 likes - 50 songs - 4 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 86,282 likes - 50 songs - 4 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 30 | [Saawariyo](https://open.spotify.com/track/0c1gm3EA6JkvxcEKr4XEoV) | [Atmanam](https://open.spotify.com/artist/2ZuvVGVR6kvx3NZpTuqxtz), [Aditya Gadhvi](https://open.spotify.com/artist/68BDWvc511MC0b6eAmH7gW) | [Saawariyo](https://open.spotify.com/album/3pFlse7FnOVb61rSHrokfB) | 4:25 |
 | 31 | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/track/64ity98lLkRVEZMfS8MSyI) | [Vishal Mishra](https://open.spotify.com/artist/5wJ1H6ud777odtZl5gG507), [Malini Awasthi](https://open.spotify.com/artist/4af9dUIG89GAuEsy6Se3F1), [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT) | [Holi Aayi Re \| Coke Studio Bharat](https://open.spotify.com/album/37NkpS6pd0PHcusmLqmx7M) | 5:28 |
 | 32 | [Baithi Hun](https://open.spotify.com/track/4OFL4SuIvY9i2RC36wRt96) | [Kaushiki Chakraborty](https://open.spotify.com/artist/4qWXi8Qj92dQOEJihdVqjI), [Shantanu Moitra](https://open.spotify.com/artist/6hpDlOvqsnIxrPegGTWVY1) | [Pankh](https://open.spotify.com/album/5tT24mhfEUpKSpgdfAPtx3) | 5:31 |
-| 33 | [Mausam](https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Mausam](https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF) | 4:51 |
-| 34 | [Tu Hai, Pt\. 01](https://open.spotify.com/track/4rlx1DGszzyKdwm5Kps9Ot) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Tu Hai](https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6) | 5:46 |
+| 33 | [Tu Hai, Pt\. 01](https://open.spotify.com/track/4rlx1DGszzyKdwm5Kps9Ot) | [Indian Ocean](https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy) | [Tu Hai](https://open.spotify.com/album/79RksAuwCLYQdhFnk2HpT6) | 5:46 |
+| 34 | [Mausam](https://open.spotify.com/track/2wMiTY6QDXqYlV6irpf12F) | [The Anirudh Varma Collective](https://open.spotify.com/artist/3bD7WaIwFeJMNv8smNGODB), [Kavya Singh](https://open.spotify.com/artist/3wfNDxeCBMNpbxBhKOk6rm), [Divyam Sodhi](https://open.spotify.com/artist/2oMbrqAZWD6lTVRPppXlr5), [Likhari](https://open.spotify.com/artist/33SPUncA5xd16yYMbI2t15) | [Mausam](https://open.spotify.com/album/7wykscgLlq9Ch9VLLZPYAF) | 4:51 |
 | 35 | [Ab Chhalakte Hue \(From "Bhoomi 2025"\)](https://open.spotify.com/track/4Ys3cMRAqJDL4XFI3KcTiV) | [Prithvi Gandharv](https://open.spotify.com/artist/5mXxFxVsphnPepnqhgBBhs), [Hariharan](https://open.spotify.com/artist/2NoJ7NuNs9nyj8Thoh1kbu), [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Ali Ahmad Jalili](https://open.spotify.com/artist/18APVUaqAQUzCtPN6xoFJL) | [Ab Chhalakte Hue \(From "Bhoomi 2025"\)](https://open.spotify.com/album/24c4qPeifmKRda1ZMoKuoB) | 5:48 |
 | 36 | [Shringaar \(From “Bhoomi 2025”\)](https://open.spotify.com/track/4yY6SRse3iDtY0QROJmBXa) | [Salim–Sulaiman](https://open.spotify.com/artist/6ohaQzKaXrobAL8paLSaxq), [Shankar Mahadevan](https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a), [Shraddha Pandit](https://open.spotify.com/artist/4rhk6lDh2srdV1a1qmIqGa) | [Shringaar \(From “Bhoomi 2025”\)](https://open.spotify.com/album/2Ppu21ldsYeyoED3fBtnOa) | 6:35 |
 | 37 | [Labon Se Baat \- The Ghazal](https://open.spotify.com/track/32tSOMIEEzIyW7BkIXky9M) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Madhubanti Bagchi](https://open.spotify.com/artist/4ojkMVHjuDZgDXSJy5qs2h), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss) | [Labon Se Baat \- The Ghazal](https://open.spotify.com/album/2qVpRzoWbjZKp7yWo9ASms) | 5:11 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5P7I5ymjBC0.md) - [plain]
 | 49 | [Jhoomelo \(feat\. Hansa Devi\) \- Maati S1](https://open.spotify.com/track/18obntWwlvtzNEOrVyyJTE) | [Mohit Chauhan](https://open.spotify.com/artist/5GnnSrwNCGyfAU4zuIytiS), [Raghav & Arjun](https://open.spotify.com/artist/6Q816hDJR1oJMAwQfn2Vot), [Deepak Ramola](https://open.spotify.com/artist/27sLJoziHcUlgivULGSga4), [Hansa Devi](https://open.spotify.com/artist/0Ja0ekncJTeJ9zn1qJ9Fn9) | [Jhoomelo \(feat\. Hansa Devi\) \[Maati S1\]](https://open.spotify.com/album/0GJ7GMjQjOG8Ar0rv1Qvkn) | 4:19 |
 | 50 | [Safar](https://open.spotify.com/track/17PQNiQynwG4iCGwPglRuL) | [Masala Coffee](https://open.spotify.com/artist/3w277raenZNQPvrbv1DoMs) | [Kimaya](https://open.spotify.com/album/5W5uidFGkEFw2GFKWUyT03) | 4:36 |
 
-Snapshot ID: `AAAAACgZz5SORwrS6npPMLaAiEEjmxqS`
+Snapshot ID: `AAAAABseTgCh3BVN7/X/zKxxWXs9Vg6q`

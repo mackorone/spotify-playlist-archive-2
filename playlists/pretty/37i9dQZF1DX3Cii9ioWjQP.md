@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 
 > All about Korean Jazz hits & new \(Cover: Haewon Moon\) 새롭고 핫한 국내 재즈 음악들을 만나보세요.
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,230 likes - 50 songs - 3 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,240 likes - 50 songs - 3 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Paper Wing](https://open.spotify.com/track/3C056Cw9lr6VqnrRDnEEfR) | [Haewon Moon](https://open.spotify.com/artist/5vRXwK3TSQ2mZgw9ZLIS7q) | [Paper Wing](https://open.spotify.com/album/2TxYJwV3JL3IfsnVw5xqOI) | 5:01 |
-| 2 | [Glistening Leaves in the Rain](https://open.spotify.com/track/6KUJKvd8ofhwdL1yJOHImH) | [DJ LEE](https://open.spotify.com/artist/4hi2VfhxqYrijrmFQChsx3) | [Stillness on the Rainy Porch](https://open.spotify.com/album/45mp4vE0YTFJMqJ9dVdFC9) | 2:44 |
+| 2 | [Crispy Toast III](https://open.spotify.com/track/1GhDL61cGMHfPeiq9eAGdc) | [Suwon Yim](https://open.spotify.com/artist/3RRrPqeIvcA2z56DKl0wku), [Larnell Lewis](https://open.spotify.com/artist/1hBRkKV5vncXd6W1KRJ87U), [Oli Hayhurst](https://open.spotify.com/artist/46TzUYALPMYCLkQOiEyox1) | [Crispy Toast](https://open.spotify.com/album/1Lj8a35TwydopNoyZwiyGJ) | 4:28 |
 | 3 | [When it stops raining \- tape mastered](https://open.spotify.com/track/3Gah3az5SeCNRV1IxIbJEj) | [Luca minor](https://open.spotify.com/artist/3mzVPZ18FgIuMjWUtYGooK) | [When it stops raining \(tape mastered\)](https://open.spotify.com/album/7AeBRZmuqoSOiKM9tFjFtO) | 2:53 |
 | 4 | [Bull vs Bear](https://open.spotify.com/track/4yN9VWrEjSea3wOaFxOt0W) | [Park Sang A](https://open.spotify.com/artist/6tCEbTm5L16Cf7CdxQnIUD) | [JAZZ CATS](https://open.spotify.com/album/1TvuDWFsXT2mjEy6YJKAQG) | 4:07 |
 | 5 | [Soul To Soul](https://open.spotify.com/track/5WaPMIlMr934RgQ9dv40tT) | [KIM JU\-HWAN](https://open.spotify.com/artist/6spyeEyZ3axemAvGhzWoVI) | [Soul To Soul](https://open.spotify.com/album/47dRkJiLd9DSa9ekATRGfv) | 4:49 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Cii9ioWjQP.md) - [plain]
 | 49 | [Embrace Your Emotions](https://open.spotify.com/track/1mdXIvu4djVvYpH0PF9X7W) | [A.Rion](https://open.spotify.com/artist/0VHEXCiwvN64fSXIOhpdqS) | [Embrace Your Emotions](https://open.spotify.com/album/387AhSf2J6RFAz9lOPAnaG) | 3:06 |
 | 50 | [Winter Moon](https://open.spotify.com/track/6JgdJz8Le10ftXoCfsjEWP) | [MIHYANG MOON](https://open.spotify.com/artist/20FFX2QgHJ19dpzkYY4wsD) | [EVERMOON](https://open.spotify.com/album/7ddssjwlAWEa0xC7C9VXbr) | 4:55 |
 
-Snapshot ID: `AAAAAOhJpjH/JEnv5820yGgjGKVMtdqK`
+Snapshot ID: `AAAAAPTYMkQ8LqgVF38z6tEblreiN1CQ`

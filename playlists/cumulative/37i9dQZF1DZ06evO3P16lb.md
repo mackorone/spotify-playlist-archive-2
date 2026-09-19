@@ -4,7 +4,7 @@
 
 > This is Lupita Infante\. The essential tracks, all in one playlist.
 
-77 songs - 4 hr 8 min
+78 songs - 4 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,6 +24,7 @@
 | [Cien Años \- En Vivo](https://open.spotify.com/track/0abywAZKp30hCllOLhq8P6) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Puras de Mi Abuelo, Vol\. 1 \(En Vivo\)](https://open.spotify.com/album/6ykgsX2sQOjkZtJITLepIk) | 3:14 | 2025-02-12 |  |
 | [Con Todo Respeto](https://open.spotify.com/track/18XP44X50GLQotasWhpK0E) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Aunque Me Duela](https://open.spotify.com/album/5MJsWPUvtZOp2lVys1iQ30) | 2:49 | 2026-05-31 |  |
 | [Con Todo Respeto](https://open.spotify.com/track/5oreXMQKsPW3duvPMx3zrg) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Con Todo Respeto](https://open.spotify.com/album/0ByqK7yZiZDWF4iZty9bAl) | 2:49 | 2026-03-21 | 2026-05-31 |
+| [Con Una, Dos o Tres](https://open.spotify.com/track/59VMTSGfODLpmLRjBZrXLi) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Chiquis](https://open.spotify.com/artist/5QcHBpoxrY7vx3ulMKEvTS) | [Con Una, Dos o Tres](https://open.spotify.com/album/4PNeDZTeOOAkWziN5hxHU9) | 2:59 | 2026-09-19 |  |
 | [Cuando Me Quieras](https://open.spotify.com/track/6NlJn11gSq75pfd74F4nYz) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ), [Alejandro Ascencio](https://open.spotify.com/artist/1LJTfklgWcEu2KvCBZJEgf) | [La Corona Es Mía](https://open.spotify.com/album/0DusDv4Kf4GPjtsUwyAA5B) | 3:33 | 2025-05-21 |  |
 | [Cucurrucucú Paloma](https://open.spotify.com/track/1piJQpsNncvOCmF8dHX8FS) | [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cucurrucucú Paloma](https://open.spotify.com/album/3yIXEqENgPgtJnJC7oYIci) | 3:10 | 2025-02-12 |  |
 | [Cumbiecitas Elegantes](https://open.spotify.com/track/37kpcwVIrLW1i6bz8XAshq) | [Diana Burco](https://open.spotify.com/artist/5Ne3ltocafq0vUn1nlbr3i), [Lupita Infante](https://open.spotify.com/artist/6tljZS5Y8cTsYagpA2pBpJ) | [Cumbiecitas Elegantes](https://open.spotify.com/album/7e8anfI4t2UBQPZADp4Rkq) | 2:47 | 2025-02-12 |  |

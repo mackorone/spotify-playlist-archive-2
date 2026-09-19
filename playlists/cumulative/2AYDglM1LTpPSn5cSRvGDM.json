@@ -6081,6 +6081,28 @@
     },
     {
       "album": {
+        "name": "You Are Home",
+        "url": "https://open.spotify.com/album/4RTdgBL3as6hOL0Hhp0znA"
+      },
+      "artists": [
+        {
+          "name": "anam\u0113",
+          "url": "https://open.spotify.com/artist/3sZvCZHU2V2idOYyUl3fBi"
+        },
+        {
+          "name": "Elvira Alfaro",
+          "url": "https://open.spotify.com/artist/2X935u573aID4nnG97RwE9"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186634,
+      "name": "You Are Home",
+      "url": "https://open.spotify.com/track/3lfBpdt3j8wvI7bFsKwJ85"
+    },
+    {
+      "album": {
         "name": "You Feel Like More",
         "url": "https://open.spotify.com/album/2W1F1ZfyTRg75A4zdFBpho"
       },

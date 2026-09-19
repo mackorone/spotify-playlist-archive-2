@@ -9,7 +9,7 @@
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [](https://open.spotify.com/track/61nQbNGkwc4D4HdTevywf2) | [](https://open.spotify.com/artist/0LyfQWJT6nXafLPZqxe9Of) | [](https://open.spotify.com/album/3IFIP1xxQgVqwwOhvsjxOn) | 0:00 | 2023-12-04 | 2024-01-27 |
-| [001](https://open.spotify.com/track/6BTCpYcmwGBk4BVgdxQ5ZA) | [Suorcristona](https://open.spotify.com/artist/0Bqog93ANuhgpTLGIzcwza) | [selecta 002](https://open.spotify.com/album/07pr8juqXraD4u2baLrXEE) | 4:33 | 2025-05-13 |  |
+| [001](https://open.spotify.com/track/6BTCpYcmwGBk4BVgdxQ5ZA) | [Maqo](https://open.spotify.com/artist/0Bqog93ANuhgpTLGIzcwza) | [selecta 002](https://open.spotify.com/album/07pr8juqXraD4u2baLrXEE) | 4:33 | 2025-05-13 |  |
 | [10:35](https://open.spotify.com/track/6BePGk3eCan4FqaW2X8Qy3) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [10:35](https://open.spotify.com/album/77wWx9sOCJiy0wcn0P44NO) | 2:52 | 2022-11-11 | 2023-12-05 |
 | [2 People](https://open.spotify.com/track/0AiqTeoOFBmoQ3KF0Tq62B) | [ALTA](https://open.spotify.com/artist/0PkXdpzJOcWmCvp4aqRsA5) | [2 People](https://open.spotify.com/album/56jX2KOYclnrIZBkGnKx0n) | 2:36 | 2025-05-13 |  |
 | [Admit to Love](https://open.spotify.com/track/6sw17Uso3eldlcNdHdeK5m) | [Maximum Style](https://open.spotify.com/artist/51lNVWFPUYieQWHQ81V8k6), [JB Rose](https://open.spotify.com/artist/3q5mJxqVbeYy2xn1BUMR88) | [Reinforced Presents: Maximum Style & JB Rose \- Keep the Fire](https://open.spotify.com/album/30rqoaNf63IygyPhbkuFAy) | 4:21 | 2025-05-13 |  |

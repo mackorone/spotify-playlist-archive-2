@@ -1,12 +1,12 @@
 {
   "description": "This is Crazy Town. The essential tracks, all in one playlist.",
-  "num_followers": 7687,
+  "num_followers": 7690,
   "original_name": "This Is Crazy Town",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAADfccwpz4YWpySflFTgmHQw",
+  "snapshot_id": "aqstgAAAAACZ6d+cC0p6dhhZcVn04NWo",
   "tracks": [
     {
       "added_at": null,
@@ -227,22 +227,30 @@
     {
       "added_at": null,
       "album": {
-        "name": "Faded",
-        "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
+        "name": "APOCALIPS",
+        "url": "https://open.spotify.com/album/5OMpybxIvoGyyFHj9hCTof"
       },
       "artists": [
+        {
+          "name": "Silos",
+          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
+        },
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "We Are PIGS",
-          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
+          "name": "Judge & Jury",
+          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
+        },
+        {
+          "name": "Ray Garrison",
+          "url": "https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64"
         }
       ],
-      "duration_ms": 202197,
-      "name": "Faded",
-      "url": "https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs"
+      "duration_ms": 222573,
+      "name": "Lighthouse",
+      "url": "https://open.spotify.com/track/5lwvkxtVrTn0RRAFaK2CL7"
     },
     {
       "added_at": null,
@@ -303,30 +311,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "APOCALIPS",
-        "url": "https://open.spotify.com/album/5OMpybxIvoGyyFHj9hCTof"
+        "name": "Faded",
+        "url": "https://open.spotify.com/album/5CNmKW0EcmR0AaXc2gsKcR"
       },
       "artists": [
-        {
-          "name": "Silos",
-          "url": "https://open.spotify.com/artist/4qKGqODmx9zKc4zCvsr6d9"
-        },
         {
           "name": "Crazy Town",
           "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
         },
         {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        },
-        {
-          "name": "Ray Garrison",
-          "url": "https://open.spotify.com/artist/5fGAVtBGeVBBMSmQCF9Q64"
+          "name": "We Are PIGS",
+          "url": "https://open.spotify.com/artist/0QRmv4wNihLdpSIjRxFFrz"
         }
       ],
-      "duration_ms": 222573,
-      "name": "Lighthouse",
-      "url": "https://open.spotify.com/track/5lwvkxtVrTn0RRAFaK2CL7"
+      "duration_ms": 202197,
+      "name": "Faded",
+      "url": "https://open.spotify.com/track/71KMQ6BAt98pc2WdOd46gs"
     },
     {
       "added_at": null,
@@ -547,6 +547,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 234022,
+      "name": "99 Bottles",
+      "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Drowning",
         "url": "https://open.spotify.com/album/0XmL70HMqx3x1BezPYxogJ"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 158693,
       "name": "Deja Vu",
       "url": "https://open.spotify.com/track/1R5VItfeA25A8TeUDb5QZY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 181909,
-      "name": "Trigger Happy",
-      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
     },
     {
       "added_at": null,
@@ -615,6 +615,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Flirting With Disaster",
+        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
+      },
+      "artists": [
+        {
+          "name": "Crazy Town",
+          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
+        }
+      ],
+      "duration_ms": 181909,
+      "name": "Trigger Happy",
+      "url": "https://open.spotify.com/track/5cpCqwZTCBJtqoRVFDCMjb"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "darkhorse",
         "url": "https://open.spotify.com/album/6sVanbHiwxboqqELYWIk3b"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 262666,
       "name": "Candy Coated",
       "url": "https://open.spotify.com/track/1JNXJxxJ4iqTenRgN082lf"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Flirting With Disaster",
-        "url": "https://open.spotify.com/album/7BnOxkZFFS8gT83TTmLhcC"
-      },
-      "artists": [
-        {
-          "name": "Crazy Town",
-          "url": "https://open.spotify.com/artist/4iSKnRZAxkmqNok6tv10Se"
-        }
-      ],
-      "duration_ms": 234022,
-      "name": "99 Bottles",
-      "url": "https://open.spotify.com/track/2ZQdyy7u6pCzX3C3xbcCDD"
     },
     {
       "added_at": null,

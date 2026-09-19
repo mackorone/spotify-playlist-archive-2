@@ -2,9 +2,9 @@
 
 ### [Infinite Indie Folk](https://open.spotify.com/playlist/37i9dQZF1DX2taNm7KfjOX)
 
-> Repeat\-free hours of new and beloved indie folk\. Cover: Gia Margaret
+> Repeat\-free hours of new and beloved indie folk\. Cover: Babehoven
 
-773 songs - 2 day 0 hr 7 min
+775 songs - 2 day 0 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -70,6 +70,7 @@
 | [Bed Song 1](https://open.spotify.com/track/5XnQnpRRXZQbJ2PcvvuWp2) | [Tasha](https://open.spotify.com/artist/4ZbFpxbORhzU78ve8e62Ej) | [Bed Song 1](https://open.spotify.com/album/1vpdtDIoL0jW47H7gYfp9n) | 3:59 | 2021-11-19 | 2022-07-29 |
 | [Before the Fall](https://open.spotify.com/track/4zDgW6uebdnhvGnZsAicHa) | [afternoon bike ride](https://open.spotify.com/artist/1iXLcpr2SlUwrU2oCP8nI9), [Ryan Hemsworth](https://open.spotify.com/artist/2CgysNw5B7rFNRtRjQbPZ9) | [Before the Fall](https://open.spotify.com/album/7GvIlBDCCgy1xnjpQCLzkY) | 2:59 | 2021-10-22 | 2022-01-15 |
 | [Belfast Song](https://open.spotify.com/track/4gJb1BBWsaVOUtStGvAfWl) | [Jealous of the Birds](https://open.spotify.com/artist/3S8P24WjZtVNaPLeXjaCJm) | [Belfast Song](https://open.spotify.com/album/73TQtEbV8FZpUeMSrIadUv) | 3:46 | 2022-01-14 | 2022-07-25 |
+| [Believer](https://open.spotify.com/track/7EBQhd1vZz6O5RiuK0abZ9) | [Angela Autumn](https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ) | [Believer](https://open.spotify.com/album/19VsLR7idZdpFkpmwBG0aC) | 3:53 | 2026-09-18 |  |
 | [Bereft of the Myth](https://open.spotify.com/track/3TmV1nkm4IhIdKDhAWdHCM) | [Thad Kopec](https://open.spotify.com/artist/3o1tKzbhMLOZzGlkeLz3No), [Josh Gilligan](https://open.spotify.com/artist/46g5hcuu0pLv0KYtk3m899), [Allison Young](https://open.spotify.com/artist/1Irw7KGshB5ZOMQJryKzU3) | [Bereft of the Myth](https://open.spotify.com/album/5vzJXLbZ37zHO2dTb00Mx0) | 2:54 | 2021-10-22 | 2022-06-05 |
 | [Berlin](https://open.spotify.com/track/1dgCF73ruK4qTXrx0TZ0j7) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [Berlin](https://open.spotify.com/album/5AFR0ia3oPGsmYNK6fxZNu) | 3:39 | 2021-10-22 | 2022-07-29 |
 | [Berlin](https://open.spotify.com/track/7tbR2WSnuTUOGgkUQiAupD) | [Fenne Lily](https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext) | [BREACH](https://open.spotify.com/album/0KsNopmZLaB71o6i2nw95I) | 3:39 | 2022-06-24 | 2024-04-19 |
@@ -140,7 +141,7 @@
 | [Civilian](https://open.spotify.com/track/7630alXL5HfQAHQhBam5pJ) | [Wye Oak](https://open.spotify.com/artist/5SjNVG3L9mgWQPsfp1sFDB) | [Civilian](https://open.spotify.com/album/2IWn2PFFPhYexWP8fBDNp9) | 3:40 | 2021-10-22 | 2022-07-29 |
 | [Co\-Pathetic](https://open.spotify.com/track/6eI1uc8HMy4SYp133fF94C) | [Novo Amor](https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi) | [Collapse List](https://open.spotify.com/album/1hh3GhyscEuCplQQL31RtB) | 3:55 | 2024-04-05 |  |
 | [Cold Hands](https://open.spotify.com/track/2ZaTomBYLVmHjC3SCfjfl6) | [Momo Boyd](https://open.spotify.com/artist/5gqxLVfjWfNZ6dsKL05NKd), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Miss Michigan](https://open.spotify.com/album/403xK3xBydTLfaBxctsZ2X) | 3:24 | 2026-05-01 |  |
-| [Colors](https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Colors](https://open.spotify.com/album/0VfWB085G8pwOy6kpUhd0F) | 1:56 | 2022-01-14 |  |
+| [Colors](https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou) | [Runnner](https://open.spotify.com/artist/7adlRX57hqe6Pc4YHrSGG0), [Sun June](https://open.spotify.com/artist/0UIQXpn5oXhmpgbUDFzaLb) | [Colors](https://open.spotify.com/album/0VfWB085G8pwOy6kpUhd0F) | 1:56 | 2022-01-14 | 2026-09-19 |
 | [colour in life](https://open.spotify.com/track/6MKw0vVRAtO5gs8G96IkQZ) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [colour in life](https://open.spotify.com/album/1NqI2jWZ4Mbi9vFHlxiz2A) | 4:48 | 2023-04-21 |  |
 | [Complex](https://open.spotify.com/track/0mMLaYnvYOMMHxgqU0DxX0) | [Tristen](https://open.spotify.com/artist/136eH4t69aKT2UuS36z3Qo) | [Complex](https://open.spotify.com/album/0Cc8YFUkcxQXuDOO1CfSO8) | 3:48 | 2021-10-22 | 2022-07-29 |
 | [complex \(demo\)](https://open.spotify.com/track/1ovZe7upcqycTuPFfOg6kB) | [Katie Gregson\-MacLeod](https://open.spotify.com/artist/2xCYQunn7ZXK6qOwXWPvcF) | [complex \(demo\)](https://open.spotify.com/album/4iHBCJPZUha2xs84jNZ4jc) | 4:16 | 2022-08-26 | 2023-09-23 |
@@ -270,7 +271,7 @@
 | [Go, Try, Fall](https://open.spotify.com/track/3guPptXi3aQLsvqQ2n7lB0) | [Kim Churchill](https://open.spotify.com/artist/0ZmJRBCKYicwq9n4FjZpho) | [Dawn Sounds](https://open.spotify.com/album/7ALdGmLbeUMefFYnSbSuo2) | 3:19 | 2024-04-05 | 2025-02-08 |
 | [Goat](https://open.spotify.com/track/0I74VCDu3RbCMuyToTUtzl) | [French For Rabbits](https://open.spotify.com/artist/0g6VRF5TU1BM5FvK0yKyS2) | [Spirits](https://open.spotify.com/album/5DuLQc0FCBPVfEec1Go2ey) | 3:48 | 2022-04-13 | 2022-04-21 |
 | [God Above](https://open.spotify.com/track/0dxOa53QwjVqb4FPtQMflQ) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/7asv9hl6KprOE0AR0kubiL) | 3:26 | 2023-04-07 | 2023-06-15 |
-| [God Above](https://open.spotify.com/track/5F8DvLya3QPC25ioAyvR26) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh) | 3:26 | 2024-04-05 |  |
+| [God Above](https://open.spotify.com/track/5F8DvLya3QPC25ioAyvR26) | [Billie Marten](https://open.spotify.com/artist/02YLJJnWC7YQVixkjEBRn7) | [Drop Cherries](https://open.spotify.com/album/76Hc9p3kIBOnEqdsQsabPh) | 3:26 | 2024-04-05 | 2026-09-19 |
 | [God Knows Why](https://open.spotify.com/track/5Wkp4d0wzwIjymQdvN3dP2) | [Jenny O.](https://open.spotify.com/artist/6zVybwDdah9DCynv4QOhU0) | [God Knows Why](https://open.spotify.com/album/2zrSZmfHNTgufupIQvfeTt) | 3:01 | 2021-10-22 | 2022-07-29 |
 | [Good Game](https://open.spotify.com/track/1uC6yl3BVOOyieOooYDeq7) | [Clover County](https://open.spotify.com/artist/1vOabSI7N1elDhNGoirgU2) | [Good Game](https://open.spotify.com/album/3hAi8jMZcfpvmqnbV1yvNx) | 3:20 | 2025-09-22 | 2025-11-09 |
 | [Good Thing](https://open.spotify.com/track/1avgH7udg2X4mx82V1ChDC) | [Maple Glider](https://open.spotify.com/artist/1Y3IqLN3JkfppIbJG2IWHk) | [To Enjoy is the Only Thing](https://open.spotify.com/album/0TyGoqeYSQepO17jg08VvK) | 4:12 | 2023-09-15 | 2024-04-19 |
@@ -721,6 +722,7 @@
 | [Wasted](https://open.spotify.com/track/5MnLof1o5Wu4hX5zWgMjZY) | [Tomberlin](https://open.spotify.com/artist/0jzaoSt5gOC04OWBqN78VS) | [Projections](https://open.spotify.com/album/020I1K8GAKCLhKG9fk8MIS) | 2:29 | 2022-06-24 | 2024-04-19 |
 | [Watchman](https://open.spotify.com/track/4oKf0G986QhGLG8I9dpqP0) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/4IVf6mYykPiEoqT099AXsX) | 3:18 | 2023-08-18 | 2024-09-27 |
 | [Water Flowing Downward](https://open.spotify.com/track/7nvxj8fbIpGurKhR3AflFh) | [Andrea von Kampen](https://open.spotify.com/artist/6ps9u0MZquDDBReh8XuBeY) | [Water Flowing Downward](https://open.spotify.com/album/4SMyRbk8s86UtDANoXI0xV) | 3:25 | 2021-10-22 | 2022-07-29 |
+| [Wave Has a Place](https://open.spotify.com/track/6zu2CSLcjJ15uumyXddXTg) | [Babehoven](https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70) | [Wave Has a Place](https://open.spotify.com/album/2zTrF75HZXccghZCO2V2pW) | 2:09 | 2026-09-18 |  |
 | [Way Home](https://open.spotify.com/track/73vAefAUkiyoPunmOdx5cu) | [Elgin](https://open.spotify.com/artist/20W2gIlZtawVw7VOkFgFbX) | [Way Home \- Single](https://open.spotify.com/album/5Zw8w3h4hdWJGDh9IAtadZ) | 3:09 | 2022-04-13 | 2022-04-20 |
 | [We Go Way Back](https://open.spotify.com/track/0BCWfP8NXjwmINTW1MyMu1) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [The Great Divide](https://open.spotify.com/album/2fnkyn9EybagIoFJ7a13oz) | 4:02 | 2026-05-01 |  |
 | [What A Day \- Edit](https://open.spotify.com/track/3MW8spctuyf70mNAWhDlBv) | [Ben Howard](https://open.spotify.com/artist/5schNIzWdI9gJ1QRK8SBnc) | [Collections From The Whiteout](https://open.spotify.com/album/09P40BHcaue9iF4QasXMTK) | 4:17 | 2022-06-24 | 2024-04-19 |

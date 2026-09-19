@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,917 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,918 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,11 +45,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 35 | [Inside Me](https://open.spotify.com/track/7nVjMtrSXHHbFuCyYkBedC) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:22 |
 | 36 | [Reclaim All Of Your Time \(feat\. Valerie June and Wynonna\)](https://open.spotify.com/track/6VMrXWENo5E7PbIb2cVGfH) | [The War And Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Wynonna](https://open.spotify.com/artist/4yiXkMbxDIZ3jgEG89NSC1) | [The Story of Michael and Tanya](https://open.spotify.com/album/4DsL4fp1EBMXavK10WxBkl) | 4:08 |
 | 37 | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w) | 3:02 |
-| 38 | [Fallin'](https://open.spotify.com/track/6MDmdCyYOIxgwRrohXy1CI) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:18 |
+| 38 | [I'll Fly Away](https://open.spotify.com/track/0ilZ7oUP9WaySwnJASgZQs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Brighter Blue](https://open.spotify.com/album/6yI3LmZnE098Pxfa102pIS) | 3:08 |
 | 39 | [Changed \(Feat\. The Blind Boys Of Alabama\)](https://open.spotify.com/track/6YVZvK9SVUQSJg3RB2Cjkf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [The Blind Boys Of Alabama](https://open.spotify.com/artist/5TVL4FXEntBYZb3ujyt6fH) | [Owls, Omens, and Oracles](https://open.spotify.com/album/5K6SF5pgdnfHRnuC4gaC0Q) | 2:05 |
-| 40 | [Tyrannosaur](https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Tyrannosaur](https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB) | 3:19 |
+| 40 | [Fallin'](https://open.spotify.com/track/6MDmdCyYOIxgwRrohXy1CI) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:18 |
 | 41 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 |
-| 42 | [I'll Fly Away](https://open.spotify.com/track/0ilZ7oUP9WaySwnJASgZQs) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Brighter Blue](https://open.spotify.com/album/6yI3LmZnE098Pxfa102pIS) | 3:08 |
+| 42 | [Tyrannosaur](https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Tyrannosaur](https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB) | 3:19 |
 | 43 | [Don't Start \(feat\. Valerie June\)](https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 3:03 |
 | 44 | [Cry Baby \- feat\. Valerie June](https://open.spotify.com/track/10TS4rn0t7GRGEB3gGLjUv) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Armageddon In A Summer Dress](https://open.spotify.com/album/4QHHLKn8d51lY9i6OiOohV) | 3:14 |
 | 45 | [Friendship \[Feat\. Carla Thomas, Stax Music Academy\]](https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [Friendship \[Feat\. Carla Thomas and Stax Music Academy\]](https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3) | 3:39 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 49 | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov) | 3:49 |
 | 50 | [Within You \- Moon And Stars / Acoustic](https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 4:02 |
 
-Snapshot ID: `aqiKgAAAAABMHkDwNjSx5vR3DCUBK7CP`
+Snapshot ID: `aqstgAAAAADxqirdjr76JPlSqto9TUkN`

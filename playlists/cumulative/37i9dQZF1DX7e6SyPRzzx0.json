@@ -609,6 +609,24 @@
     },
     {
       "album": {
+        "name": "COCOON",
+        "url": "https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 118095,
+      "name": "COCOON",
+      "url": "https://open.spotify.com/track/0YgLjBYLRynYgsAip8bPwu"
+    },
+    {
+      "album": {
         "name": "Demon Heart Radio",
         "url": "https://open.spotify.com/album/2TUhJtMwtQE4fs1lxit9UB"
       },
@@ -918,6 +936,24 @@
       "duration_ms": 128795,
       "name": "E30",
       "url": "https://open.spotify.com/track/2ysvfpW8UlDz19JDDPu4sQ"
+    },
+    {
+      "album": {
+        "name": "COCOON",
+        "url": "https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151593,
+      "name": "EARN\u00cbD IT",
+      "url": "https://open.spotify.com/track/0F0uSTQGmuF1JxmEtbZFxw"
     },
     {
       "album": {
@@ -1818,7 +1854,7 @@
       ],
       "date_added": "2025-07-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 168549,
       "name": "IM YEAT",
       "url": "https://open.spotify.com/track/5mEsgjX62uA42G3ooMubCC"
@@ -2648,6 +2684,36 @@
       "duration_ms": 146004,
       "name": "NASTY",
       "url": "https://open.spotify.com/track/4fuZ6arVI8LI91ZAE0PIcC"
+    },
+    {
+      "album": {
+        "name": "Never Tell",
+        "url": "https://open.spotify.com/album/3QXwzjiIJJSrys2gmRd14t"
+      },
+      "artists": [
+        {
+          "name": "Narco Juliet",
+          "url": "https://open.spotify.com/artist/6BzV00UB67RkdQEdg2AGkT"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/6NuphuJjIbOHlwGOtligTb"
+        },
+        {
+          "name": "Miri Ben-Ari",
+          "url": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx"
+        },
+        {
+          "name": "SUMMER ALONE",
+          "url": "https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196631,
+      "name": "Never Tell",
+      "url": "https://open.spotify.com/track/5uzRXTJF2a5dsvj0OY7nYz"
     },
     {
       "album": {
@@ -3600,7 +3666,7 @@
       ],
       "date_added": "2026-06-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 125348,
       "name": "SRT",
       "url": "https://open.spotify.com/track/7ddW8gnstiZuBxSdFancSP"
@@ -4372,7 +4438,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 175000,
       "name": "WOL",
       "url": "https://open.spotify.com/track/6MDT4Aw4OjPbRFdvgwt4Ud"

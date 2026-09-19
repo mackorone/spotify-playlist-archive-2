@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 
 > New music off the beaten track\. Cover: Sophia Stel
 
-[Spotify](https://open.spotify.com/user/spotify) - 439,915 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 439,881 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX07Bg0Q5GozA.md) - [plain]
 | 74 | [Bésala Mucho](https://open.spotify.com/track/2MYCuBzahZPmZFd0nfMz2z) | [Tamara Flores](https://open.spotify.com/artist/1n1ShmhkecqcWxNexfFbuN), [Tourist](https://open.spotify.com/artist/2ABBMkcUeM9hdpimo86mo6) | [Bésala Mucho](https://open.spotify.com/album/0MY1915W2VBlRsZCRVsZyr) | 2:47 |
 | 75 | [almost enough](https://open.spotify.com/track/4NhNLr3EIXW8TZ2G2m9Wzt) | [Josi Miller](https://open.spotify.com/artist/4xII91OL7Sf5ppZ5tBtLga), [Mulay](https://open.spotify.com/artist/6hxUwSTKTLQoKGmKHLle54) | [how to break your heart](https://open.spotify.com/album/1RVzFXzp4mYxJn4FsmhMsP) | 3:16 |
 
-Snapshot ID: `AAAAAKACjklYV0wNwZ3c4ypMmoclsgoy`
+Snapshot ID: `AAAAAC24h/EgndLNFtcJ5Qr/PQCvMuAP`

@@ -1,12 +1,12 @@
 {
   "description": "Cl\u00e1sicos de la bachata. Timeless bachata hits. Cover: Aventura",
-  "num_followers": 770637,
+  "num_followers": 770680,
   "original_name": "Bachata Classics",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAI+cSVpmd/kD9ybVrN4yS6EEHIO5",
+  "snapshot_id": "AAAAAKIj2woW0RQvsU+SvluYN7jw/ZXM",
   "tracks": [
     {
       "added_at": "2024-06-04 19:13:44",
@@ -363,8 +363,8 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "The Last",
-        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
+        "name": "God's Project",
+        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
       },
       "artists": [
         {
@@ -372,9 +372,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 238720,
-      "name": "El Malo",
-      "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
+      "duration_ms": 263346,
+      "name": "Un Beso",
+      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -523,22 +523,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Haciendo Historia",
-        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
-      },
-      "artists": [
-        {
-          "name": "Xtreme",
-          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
-        }
-      ],
-      "duration_ms": 174573,
-      "name": "Shorty, Shorty",
-      "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Hoja en Blanco",
         "url": "https://open.spotify.com/album/4aqcDA0Q2UEPInj5a89Cjr"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 283560,
       "name": "No Ha Sido Facil",
       "url": "https://open.spotify.com/track/5Xg9feC7RNaUO5x3Ns0yyE"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Haciendo Historia",
+        "url": "https://open.spotify.com/album/0VLSRZj2zucgdtve2EvH4D"
+      },
+      "artists": [
+        {
+          "name": "Xtreme",
+          "url": "https://open.spotify.com/artist/47bVt95bvBMpmJFWoyhH0C"
+        }
+      ],
+      "duration_ms": 174573,
+      "name": "Shorty, Shorty",
+      "url": "https://open.spotify.com/track/30N3gwqiuFlHa7FBCiK1Nl"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "De Rodillas Te Pido",
-        "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel Del Amargue",
-          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
-        }
-      ],
-      "duration_ms": 233320,
-      "name": "De Rodillas Te Pido",
-      "url": "https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Confesiones",
         "url": "https://open.spotify.com/album/4QVEewz5D2YmstuFp83v0e"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 259959,
       "name": "Te Quiero Igual Que Ayer - Bachata",
       "url": "https://open.spotify.com/track/1YrZktczkzn59XaWXMCYY2"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "De Rodillas Te Pido",
+        "url": "https://open.spotify.com/album/67LRI6OGZ15nlOn7HOqpyM"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel Del Amargue",
+          "url": "https://open.spotify.com/artist/0tJDMMp9vT1q6zrPih0yFQ"
+        }
+      ],
+      "duration_ms": 233320,
+      "name": "De Rodillas Te Pido",
+      "url": "https://open.spotify.com/track/66E9D8ihbcTs0qr98oVobO"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1211,6 +1211,22 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
+        "name": "Edici\u00f3n De Lujo",
+        "url": "https://open.spotify.com/album/1HqqPsEcFEVzHCs2rVaOG5"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "duration_ms": 270576,
+      "name": "Donde Estan Esos Amigos",
+      "url": "https://open.spotify.com/track/2tTd0gQzJBkAMfFPRKregm"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
         "name": "Bachata Rosa",
         "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
@@ -1227,18 +1243,18 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Bachateando 2",
-        "url": "https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr"
+        "name": "Exitos Y Mas",
+        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
       },
       "artists": [
         {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+          "name": "Monchy & Alexandra",
+          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
         }
       ],
-      "duration_ms": 250106,
-      "name": "Estoy Perdido",
-      "url": "https://open.spotify.com/track/2ZWOEMmcN5aerFmasiewTF"
+      "duration_ms": 246746,
+      "name": "Dos Locos",
+      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1263,22 +1279,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Exitos Y Mas",
-        "url": "https://open.spotify.com/album/6uW6SpZHEJAgu91uiBzdM1"
-      },
-      "artists": [
-        {
-          "name": "Monchy & Alexandra",
-          "url": "https://open.spotify.com/artist/3rs3EOlJ8jyPpdGiQ9Mhub"
-        }
-      ],
-      "duration_ms": 246746,
-      "name": "Dos Locos",
-      "url": "https://open.spotify.com/track/1ePEbbeWx3scydfir7HBcq"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Los 12 Exitos De Kiko Rodriguez",
         "url": "https://open.spotify.com/album/5MEzNKw4IyHA4zbXXh2Vgn"
       },
@@ -1291,6 +1291,22 @@
       "duration_ms": 252557,
       "name": "Hoy Te Vi Pasar",
       "url": "https://open.spotify.com/track/0PG9RK1V62OsPRTmwKq566"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "Bachateando 2",
+        "url": "https://open.spotify.com/album/3LHAUPocU5MvzVczvyhzEr"
+      },
+      "artists": [
+        {
+          "name": "El Chaval de la Bachata",
+          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
+        }
+      ],
+      "duration_ms": 250106,
+      "name": "Estoy Perdido",
+      "url": "https://open.spotify.com/track/2ZWOEMmcN5aerFmasiewTF"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1343,22 +1359,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "Edici\u00f3n De Lujo",
-        "url": "https://open.spotify.com/album/1HqqPsEcFEVzHCs2rVaOG5"
-      },
-      "artists": [
-        {
-          "name": "El Chaval de la Bachata",
-          "url": "https://open.spotify.com/artist/4RnIr0AAau1SBJMbjJ9poC"
-        }
-      ],
-      "duration_ms": 270576,
-      "name": "Donde Estan Esos Amigos",
-      "url": "https://open.spotify.com/track/2tTd0gQzJBkAMfFPRKregm"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Pura Bachata",
         "url": "https://open.spotify.com/album/5Ay43wmi8TkeMPIgF3jUIp"
       },
@@ -1371,22 +1371,6 @@
       "duration_ms": 184579,
       "name": "No la Quiero Ver Con Otro",
       "url": "https://open.spotify.com/track/4IFtTcUDafDN2ZjlH3rISG"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
-        "name": "Bachata Rosa",
-        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
-      },
-      "artists": [
-        {
-          "name": "Juan Luis Guerra 4.40",
-          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
-        }
-      ],
-      "duration_ms": 266320,
-      "name": "Estrellitas y Duendes",
-      "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1407,18 +1391,18 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+        "name": "Bachata Rosa",
+        "url": "https://open.spotify.com/album/1cLBlQINfW73CMZhoNAbw6"
       },
       "artists": [
         {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+          "name": "Juan Luis Guerra 4.40",
+          "url": "https://open.spotify.com/artist/3nlpTZci9O5W8RsNoNH559"
         }
       ],
-      "duration_ms": 234760,
-      "name": "Hilito",
-      "url": "https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz"
+      "duration_ms": 266320,
+      "name": "Estrellitas y Duendes",
+      "url": "https://open.spotify.com/track/0bv67cnSWqwoWtKGkKdDHu"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1439,8 +1423,24 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "God's Project",
-        "url": "https://open.spotify.com/album/3dCEXNx36W29EYCMUAx5p5"
+        "name": "F\u00f3rmula, Vol. 2 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/17HsiXfqKUPoTP6Y5ebs1L"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 234760,
+      "name": "Hilito",
+      "url": "https://open.spotify.com/track/6CKlQHQIxhWtq7MnEJ6QCz"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "The Last",
+        "url": "https://open.spotify.com/album/57tmzh0hsnWU8znnvEWJbe"
       },
       "artists": [
         {
@@ -1448,9 +1448,9 @@
           "url": "https://open.spotify.com/artist/1qto4hHid1P71emI6Fd8xi"
         }
       ],
-      "duration_ms": 263346,
-      "name": "Un Beso",
-      "url": "https://open.spotify.com/track/1SaEt8dwTuLDzenUu5BqI6"
+      "duration_ms": 238720,
+      "name": "El Malo",
+      "url": "https://open.spotify.com/track/217bRMES4HVbPdUe8l8ECN"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
-        "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
-      },
-      "artists": [
-        {
-          "name": "Romeo Santos",
-          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
-        }
-      ],
-      "duration_ms": 239026,
-      "name": "La Diabla",
-      "url": "https://open.spotify.com/track/252UPuQsncbBFhTrx4Ytcc"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
         "name": "Mas Bachata",
         "url": "https://open.spotify.com/album/7rlK9OfT89C1v8FCu7J6mW"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 235560,
       "name": "Cuando El Amor Se Va",
       "url": "https://open.spotify.com/track/4zTcZab4flOF6NuR6s8A8H"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
+        "name": "F\u00f3rmula Vol. 1 (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/6a3RDPcFamZvFCi8VeXWkK"
+      },
+      "artists": [
+        {
+          "name": "Romeo Santos",
+          "url": "https://open.spotify.com/artist/5lwmRuXgjX8xIwlnauTZIP"
+        }
+      ],
+      "duration_ms": 239026,
+      "name": "La Diabla",
+      "url": "https://open.spotify.com/track/252UPuQsncbBFhTrx4Ytcc"
     },
     {
       "added_at": "2024-06-04 19:13:44",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2024-06-04 19:13:44",
       "album": {
+        "name": "Dobletazo",
+        "url": "https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy"
+      },
+      "artists": [
+        {
+          "name": "Teodoro Reyes",
+          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
+        }
+      ],
+      "duration_ms": 179680,
+      "name": "No Le Pare",
+      "url": "https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u"
+    },
+    {
+      "added_at": "2024-06-04 19:13:44",
+      "album": {
         "name": "Golden",
         "url": "https://open.spotify.com/album/6bm9EpUNvQ9xMglBJGRmgS"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 198332,
       "name": "Sobredosis (feat. Ozuna)",
       "url": "https://open.spotify.com/track/1WbXIpiGBJkCiv3hn40iPB"
-    },
-    {
-      "added_at": "2024-06-04 19:13:44",
-      "album": {
-        "name": "Dobletazo",
-        "url": "https://open.spotify.com/album/346bnpF1LN8opnZxH8tALy"
-      },
-      "artists": [
-        {
-          "name": "Teodoro Reyes",
-          "url": "https://open.spotify.com/artist/2ElpWA67jmhM6LrDav4Jcy"
-        }
-      ],
-      "duration_ms": 179680,
-      "name": "No Le Pare",
-      "url": "https://open.spotify.com/track/1zHtVDuBMEhmiJoZKV2E9u"
     },
     {
       "added_at": "2024-06-04 19:13:44",

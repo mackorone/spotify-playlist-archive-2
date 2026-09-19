@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8N7D35YSFq.md) - [plain]
 
 > Sophisticated palates only\. Curated by: Claressa Shields
 
-[Spotify](https://open.spotify.com/user/spotify) - 695 likes - 53 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 713 likes - 53 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,4 +62,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc8N7D35YSFq.md) - [plain]
 | 52 | [Sunshine](https://open.spotify.com/track/0NbzLcQ5pXAu71lH7Xmdoe) | [Babyface](https://open.spotify.com/artist/3aVoqlJOYx31lH1gibGDt3) | [Tender Lover](https://open.spotify.com/album/51fAXJ5bMn7DRSunXQ6PMb) | 5:11 |
 | 53 | [SUM TO HATE ON](https://open.spotify.com/track/01kWYHc8Y9Aw3byAlTjunA) | [Moneybagg Yo](https://open.spotify.com/artist/3tJoFztHeIJkJWMrx0td2f) | [SPEAK NOW OR...](https://open.spotify.com/album/3JfTxMny1oIZDmYcBnoHWT) | 2:38 |
 
-Snapshot ID: `AAAAABl924+W4YKvtJ3YBuqYy50WBPGw`
+Snapshot ID: `AAAAABLp2DPasH7mk//OYhkUR7lc6dlj`

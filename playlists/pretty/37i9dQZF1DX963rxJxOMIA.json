@@ -1,13 +1,37 @@
 {
-  "description": "Fino y elegante como Ryan Castro y Feid. ",
-  "num_followers": 223120,
+  "description": "Fino y elegante como Feid. ",
+  "num_followers": 223143,
   "original_name": "FINO",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFq1zlurBPYiPPG74k+6L4+7XFI8",
+  "snapshot_id": "AAAAALLwfCXSU5ln5jKWtlafoCKQM5jE",
   "tracks": [
+    {
+      "added_at": "2026-09-18 04:59:36",
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Divino",
+          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
+        },
+        {
+          "name": "Baby Ranks",
+          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
+        }
+      ],
+      "duration_ms": 208168,
+      "name": "SE PUSO FEO",
+      "url": "https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y"
+    },
     {
       "added_at": "2026-08-07 04:59:13",
       "album": {
@@ -567,34 +591,6 @@
     {
       "added_at": "2026-09-11 04:59:20",
       "album": {
-        "name": "MALOS Y CUEROS",
-        "url": "https://open.spotify.com/album/5H8nuEVle7DGq6tQtUVj9d"
-      },
-      "artists": [
-        {
-          "name": "Mr Plata",
-          "url": "https://open.spotify.com/artist/0UWiPOyp26dwNCEKRwo7qO"
-        },
-        {
-          "name": "Conep",
-          "url": "https://open.spotify.com/artist/5kCv5opFav2P7nPl8FiEQx"
-        },
-        {
-          "name": "Jaime El King",
-          "url": "https://open.spotify.com/artist/7xiOYD4GFS278j40P4ZB8K"
-        },
-        {
-          "name": "Omarion King Beat",
-          "url": "https://open.spotify.com/artist/1oAlzZnNbtVFo6tzeUA281"
-        }
-      ],
-      "duration_ms": 180824,
-      "name": "MALOS Y CUEROS",
-      "url": "https://open.spotify.com/track/2rPqLg8A2nswqPScK4pi9s"
-    },
-    {
-      "added_at": "2026-09-11 04:59:20",
-      "album": {
         "name": "Callaita Nunca",
         "url": "https://open.spotify.com/album/3YOR5sMAJNkkR43ZCN2TFd"
       },
@@ -861,30 +857,6 @@
       "url": "https://open.spotify.com/track/6XSqqQIy7Lm7SnwxS4NrGx"
     },
     {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "DEPORTIVO",
-        "url": "https://open.spotify.com/album/4WDkA9vfa56hODrhY0LAhs"
-      },
-      "artists": [
-        {
-          "name": "Blessd",
-          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        },
-        {
-          "name": "Ovy On The Drums",
-          "url": "https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA"
-        }
-      ],
-      "duration_ms": 218701,
-      "name": "DEPORTIVO",
-      "url": "https://open.spotify.com/track/0fKK51bU6lcCCwdNnv64t3"
-    },
-    {
       "added_at": "2026-03-26 18:21:05",
       "album": {
         "name": "Comerte a Besos (Remix)",
@@ -955,26 +927,6 @@
       "duration_ms": 203877,
       "name": "OJITOS ROJOS - REMIX",
       "url": "https://open.spotify.com/track/5mzRxAOdqDjzpKUvicd28J"
-    },
-    {
-      "added_at": "2026-06-18 18:58:57",
-      "album": {
-        "name": "Nos Comemos Vivos",
-        "url": "https://open.spotify.com/album/5aBWDVvyEWx7XFz7Isvgww"
-      },
-      "artists": [
-        {
-          "name": "Maluma",
-          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
-        },
-        {
-          "name": "Chencho Corleone",
-          "url": "https://open.spotify.com/artist/37230BxxYs9ksS7OkZw3IU"
-        }
-      ],
-      "duration_ms": 225365,
-      "name": "Nos Comemos Vivos",
-      "url": "https://open.spotify.com/track/3SlKme42qm1vWrkl3BrZmm"
     },
     {
       "added_at": "2026-06-18 18:58:57",

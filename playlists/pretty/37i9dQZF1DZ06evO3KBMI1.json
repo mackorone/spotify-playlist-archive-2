@@ -1,12 +1,12 @@
 {
   "description": "This is UVERworld. The essential tracks, all in one playlist.",
-  "num_followers": 75155,
+  "num_followers": 75157,
   "original_name": "This Is UVERworld",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAACWPg6KuKv/KfT64CPIjapV",
+  "snapshot_id": "aqstgAAAAABc7txfJKv4Hy4AOrA4dSEa",
   "tracks": [
     {
       "added_at": null,
@@ -271,6 +271,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "THE ONE",
+        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 258933,
+      "name": "7th Trigger",
+      "url": "https://open.spotify.com/track/3ALiXA2sdQBuHotnGkEAoV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eye's Sentry",
         "url": "https://open.spotify.com/album/014ME8UQqhxH1tTWMue8dp"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 265040,
       "name": "IMPACT",
       "url": "https://open.spotify.com/track/5lwgvPvJy36aZRsqeOtm7C"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "THE ONE",
-        "url": "https://open.spotify.com/album/5TOpz67nIEIMwm5XM3Uskf"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 258933,
-      "name": "7th Trigger",
-      "url": "https://open.spotify.com/track/3ALiXA2sdQBuHotnGkEAoV"
     },
     {
       "added_at": null,
@@ -499,8 +499,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "7\uff54\uff48 Trigger",
-        "url": "https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz"
+        "name": "30",
+        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
       },
       "artists": [
         {
@@ -508,9 +508,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 275306,
-      "name": "AWAYOKUBA-\u65ac\u308b",
-      "url": "https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f"
+      "duration_ms": 305320,
+      "name": "EN",
+      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "30",
-        "url": "https://open.spotify.com/album/3AWTTsNwOcoRXH5l2VDFg7"
+        "name": "7\uff54\uff48 Trigger",
+        "url": "https://open.spotify.com/album/2y1EdY2dKT6w0nVGt9uVtz"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 305320,
-      "name": "EN",
-      "url": "https://open.spotify.com/track/4uJWArBtdW2vclttyV2eCB"
+      "duration_ms": 275306,
+      "name": "AWAYOKUBA-\u65ac\u308b",
+      "url": "https://open.spotify.com/track/7rOGRAUI5YauKjCA0KIC0f"
     },
     {
       "added_at": null,
@@ -723,22 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ENIGMASIS",
-        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
-      },
-      "artists": [
-        {
-          "name": "UVERworld",
-          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
-        }
-      ],
-      "duration_ms": 260077,
-      "name": "VICTOSPIN",
-      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "\u6765\u9ce5\u6c5f",
         "url": "https://open.spotify.com/album/6ZFcRyPSEjIISFDg38kfyB"
       },
@@ -763,8 +747,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "EVER",
-        "url": "https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb"
+        "name": "ENIGMASIS",
+        "url": "https://open.spotify.com/album/78cmjYT0DSyCyuNNzED1tT"
       },
       "artists": [
         {
@@ -772,9 +756,9 @@
           "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
         }
       ],
-      "duration_ms": 213533,
-      "name": "ZERO BREAKOUT POINT",
-      "url": "https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW"
+      "duration_ms": 260077,
+      "name": "VICTOSPIN",
+      "url": "https://open.spotify.com/track/27BZgUvxWTBoiOXBoAxNn3"
     },
     {
       "added_at": null,
@@ -791,6 +775,22 @@
       "duration_ms": 248400,
       "name": "Bye-Bye to you",
       "url": "https://open.spotify.com/track/1YC7xtKxgK0w1ZCtVXuvzl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "EVER",
+        "url": "https://open.spotify.com/album/6YM8mtP6K9lGvhwEGu34Wb"
+      },
+      "artists": [
+        {
+          "name": "UVERworld",
+          "url": "https://open.spotify.com/artist/6m14xgA0m3w92UM7ujJgky"
+        }
+      ],
+      "duration_ms": 213533,
+      "name": "ZERO BREAKOUT POINT",
+      "url": "https://open.spotify.com/track/7rVdWPnRGuZpd8RIx1IsXW"
     },
     {
       "added_at": null,

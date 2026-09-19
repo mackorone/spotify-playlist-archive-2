@@ -1,12 +1,12 @@
 {
   "description": "\u043d\u043e\u0432\u0438\u043d\u043a\u0438 \u0443\u043a\u0440\u0430\u0457\u043d\u0441\u044c\u043a\u043e\u0433\u043e \u0430\u043d\u0434\u0435\u0440\u0491\u0440\u0430\u0443\u043d\u0434\u0443. \u043e\u0431\u043a\u043b\u0430\u0434\u0438\u043d\u043a\u0430: Lyuda Bielousova (LB)",
-  "num_followers": 40473,
+  "num_followers": 40522,
   "original_name": "\u0456\u043d\u0434\u0456",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOUt/hwhcvDmLhytGyUkoBD7cMMH",
+  "snapshot_id": "AAAAAEo/MWGZztTvIc8yYudcLpUYb43n",
   "tracks": [
     {
       "added_at": "2026-09-17 21:00:27",
@@ -147,6 +147,26 @@
     {
       "added_at": "2026-09-17 21:00:27",
       "album": {
+        "name": "\u041d\u0430 \u043a\u043e\u043b\u0456\u043d\u0430\u0445",
+        "url": "https://open.spotify.com/album/6aWS4u9M1vB2mi2fVUL8O2"
+      },
+      "artists": [
+        {
+          "name": "Anna Simon",
+          "url": "https://open.spotify.com/artist/3BaDyTLdemndgvWMJiXdlY"
+        },
+        {
+          "name": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u0417\u0456\u0440\u043e\u043a",
+          "url": "https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84"
+        }
+      ],
+      "duration_ms": 148032,
+      "name": "\u041d\u0430 \u043a\u043e\u043b\u0456\u043d\u0430\u0445",
+      "url": "https://open.spotify.com/track/5byZLysvtE2ZAfseMqJSPs"
+    },
+    {
+      "added_at": "2026-09-17 21:00:27",
+      "album": {
         "name": "\u042f \u0441\u043f\u0430\u043b\u044e \u0442\u0432\u0456\u0439 \u0434\u0456\u043c",
         "url": "https://open.spotify.com/album/6ODemFVYRVBUBhNMAFPFe7"
       },
@@ -188,9 +208,29 @@
           "url": "https://open.spotify.com/artist/75hPP2pTme0pcRcSAqWRfT"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 195789,
+      "name": "\u043c\u0435\u0440\u0437\u043d\u0443",
       "url": "https://open.spotify.com/track/4gOE14XQFFZK4Nh5Dw8ZDz"
+    },
+    {
+      "added_at": "2026-09-17 21:00:27",
+      "album": {
+        "name": "\u0422\u0430\u043a \u0411\u0443\u043b\u043e \u0417\u0430\u0432\u0436\u0434\u0438",
+        "url": "https://open.spotify.com/album/2lr9ycgmOEh6tw1y0y4b9W"
+      },
+      "artists": [
+        {
+          "name": "DYKYI",
+          "url": "https://open.spotify.com/artist/4MQqUxGDXVC2RVzYAy0OQ0"
+        },
+        {
+          "name": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u0417\u0456\u0440\u043e\u043a",
+          "url": "https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84"
+        }
+      ],
+      "duration_ms": 143200,
+      "name": "\u0422\u0430\u043a \u0411\u0443\u043b\u043e \u0417\u0430\u0432\u0436\u0434\u0438",
+      "url": "https://open.spotify.com/track/5ZBadCS1QjdFRDzWdI90MH"
     },
     {
       "added_at": "2026-09-17 21:00:27",
@@ -275,6 +315,26 @@
       "duration_ms": 182194,
       "name": "\u0422\u0432\u0456\u0440 \u043f\u0440\u043e \u043b\u0456\u0442\u043e",
       "url": "https://open.spotify.com/track/4vIn4HnMmpT9IJYe44C5Ic"
+    },
+    {
+      "added_at": "2026-09-17 21:00:27",
+      "album": {
+        "name": "\u0412\u0456\u044f\u043c\u0438",
+        "url": "https://open.spotify.com/album/24e16wfRwqddwCwU9Mt8PD"
+      },
+      "artists": [
+        {
+          "name": "Nas\u00f9",
+          "url": "https://open.spotify.com/artist/4nTaBp6sSDtN96YuVxsGFV"
+        },
+        {
+          "name": "\u0424\u0430\u0431\u0440\u0438\u043a\u0430 \u0417\u0456\u0440\u043e\u043a",
+          "url": "https://open.spotify.com/artist/0y4n8SgvVOPp74lxOCky84"
+        }
+      ],
+      "duration_ms": 156480,
+      "name": "\u0412\u0456\u044f\u043c\u0438",
+      "url": "https://open.spotify.com/track/3hMDkE7NQhMo6reqGQdJ0N"
     },
     {
       "added_at": "2026-09-17 21:00:27",

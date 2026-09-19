@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-17",
-  "description": "Home is where the main stage is \ud83d\udc99 featuring Alesso",
+  "description": "Home is where the main stage is \u2764\ufe0f\u200d\ud83d\udd25 featuring HAL\u014c",
   "name": "EDM 2026",
   "tracks": [
     {
@@ -5312,7 +5312,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 180000,
       "name": "Endless Sunrise",
       "url": "https://open.spotify.com/track/6nzoNKM2y0pRkUgYRsy6UK"
@@ -7758,7 +7758,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 180849,
       "name": "Gravity (feat. SACHA)",
       "url": "https://open.spotify.com/track/05vUCrcaRvSjLzb0WbmVDk"
@@ -8166,7 +8166,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 149774,
       "name": "Heaven (feat. Yousra)",
       "url": "https://open.spotify.com/track/2NPOfAcuPVBilgRETr0qJq"
@@ -11391,6 +11391,36 @@
     },
     {
       "album": {
+        "name": "Live Again",
+        "url": "https://open.spotify.com/album/7irXcUZhy8nyX0YKQbagpv"
+      },
+      "artists": [
+        {
+          "name": "HAL\u014c",
+          "url": "https://open.spotify.com/artist/2CHhgdnkUPWHyFseMue70n"
+        },
+        {
+          "name": "Third Party",
+          "url": "https://open.spotify.com/artist/2J80qXI4NHKpq5RT3xUF7V"
+        },
+        {
+          "name": "DubVision",
+          "url": "https://open.spotify.com/artist/3XINWZaloea97SIRiyTJxX"
+        },
+        {
+          "name": "Matisse & Sadko",
+          "url": "https://open.spotify.com/artist/2QMCcKIPHnjQaPPgoEst88"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214696,
+      "name": "Live Again",
+      "url": "https://open.spotify.com/track/6pnYBrWkRnrlxPw55BDKC1"
+    },
+    {
+      "album": {
         "name": "Live And Die (feat. Sophie Simmons)",
         "url": "https://open.spotify.com/album/3CSYACo4ZoOGR9u8HLdmMs"
       },
@@ -11716,7 +11746,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 138672,
       "name": "Lost (ft. Capri Everitt)",
       "url": "https://open.spotify.com/track/4wKG0sUZxC9m0lsnZMcjKS"
@@ -11907,6 +11937,36 @@
     },
     {
       "album": {
+        "name": "Love Me Again",
+        "url": "https://open.spotify.com/album/3pmq8saXKW47PbcAGvBQNA"
+      },
+      "artists": [
+        {
+          "name": "Matt Pridgyn",
+          "url": "https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu"
+        },
+        {
+          "name": "AURALIZE",
+          "url": "https://open.spotify.com/artist/7aEgiw47d1LpJXF3wVl7sH"
+        },
+        {
+          "name": "Max Robinson",
+          "url": "https://open.spotify.com/artist/6vB5aktp1Q3664BHNasLlx"
+        },
+        {
+          "name": "Lexi Scatena",
+          "url": "https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195000,
+      "name": "Love Me Again",
+      "url": "https://open.spotify.com/track/537GgjNn5YFi3OmjSKjBcq"
+    },
+    {
+      "album": {
         "name": "Love Me Again (Again) (DubVision & Third Party remix)",
         "url": "https://open.spotify.com/album/4iRauOp7fiaVlqKygiOxoL"
       },
@@ -11966,6 +12026,24 @@
       "duration_ms": 211423,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/66RxR6rg3OoS9eZJzlXon3"
+    },
+    {
+      "album": {
+        "name": "Love To Forget",
+        "url": "https://open.spotify.com/album/0Dv5EF9qtyUl8PAEgl7aKW"
+      },
+      "artists": [
+        {
+          "name": "ARTY",
+          "url": "https://open.spotify.com/artist/1rSGNXhhYuWoq9BEz5DZGO"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181875,
+      "name": "Love To Forget",
+      "url": "https://open.spotify.com/track/1ReHikh8XCINUyyYZybTYe"
     },
     {
       "album": {
@@ -12692,6 +12770,28 @@
       "duration_ms": 200000,
       "name": "Miss You",
       "url": "https://open.spotify.com/track/2lxoIZS8tpFwbiJyrDYguI"
+    },
+    {
+      "album": {
+        "name": "Missing Piece",
+        "url": "https://open.spotify.com/album/3ISKoozRNGwImVBOrOYw6R"
+      },
+      "artists": [
+        {
+          "name": "Frank Walker",
+          "url": "https://open.spotify.com/artist/6rcE30MaP92XafelMNZ2Sq"
+        },
+        {
+          "name": "Alexander Stewart",
+          "url": "https://open.spotify.com/artist/0znpFLuaey34oJTE1jHSnT"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168750,
+      "name": "Missing Piece",
+      "url": "https://open.spotify.com/track/0cnx25C8BdsEEumqvzXjAF"
     },
     {
       "album": {
@@ -20879,6 +20979,32 @@
     },
     {
       "album": {
+        "name": "Turn Up The Speakers (Julian Jordan Remix)",
+        "url": "https://open.spotify.com/album/3ls2ibRNHUJwcwQLkGYWFk"
+      },
+      "artists": [
+        {
+          "name": "AFROJACK",
+          "url": "https://open.spotify.com/artist/4D75GcNG95ebPtNvoNVXhz"
+        },
+        {
+          "name": "Martin Garrix",
+          "url": "https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ"
+        },
+        {
+          "name": "Julian Jordan",
+          "url": "https://open.spotify.com/artist/2vUCVkeZjzDcaoX4gagHdV"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156489,
+      "name": "Turn Up The Speakers - Julian Jordan Remix",
+      "url": "https://open.spotify.com/track/023qV94Ht3gvzt3EKyO1qM"
+    },
+    {
+      "album": {
         "name": "Twisted",
         "url": "https://open.spotify.com/album/41n9tQvEH5vhv5ZcG7ckQp"
       },
@@ -21240,7 +21366,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 191250,
       "name": "Versions Of Me",
       "url": "https://open.spotify.com/track/0JOQP4LlNj1PehUqiowXGf"
@@ -22838,7 +22964,7 @@
       ],
       "date_added": "2025-09-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 227735,
       "name": "\u2060\u2060Butterflies",
       "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"

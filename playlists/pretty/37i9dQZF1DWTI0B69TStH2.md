@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 
 > Najciekawsze muzyczne odkrycia od niezależnych polskich artystów\. Cover:  <a href="spotify:artist:39XQyulUHjrvqGQ1bo5rtF">Pełnia</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 31,588 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 31,592 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTI0B69TStH2.md) - [plain]
 | 49 | [Letni film](https://open.spotify.com/track/7jf98oX41YnhjndheFmc16) | [Krystian Embradora](https://open.spotify.com/artist/2qc8UnBYc6e5uBRUXfTh1Z) | [Letni film](https://open.spotify.com/album/1hoKhQ3odz5FZbbe4vdwym) | 2:27 |
 | 50 | [Zostawiam](https://open.spotify.com/track/5NwuChRS3XXxxCj9Agc1zU) | [Weronika Juszczak](https://open.spotify.com/artist/2nMfo5WgsomaC0Zhnjk5jS) | [Zostawiam](https://open.spotify.com/album/5jbshjYelXWW1pEpHyrcal) | 2:46 |
 
-Snapshot ID: `AAAAAHBiO0m2qged8y30I5WgoKLgKc0e`
+Snapshot ID: `AAAAAAaE9tweGxBkIpXq1FB5o279k5l7`

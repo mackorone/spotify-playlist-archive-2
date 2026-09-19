@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-09-18",
-  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Lucas Gael en cover ",
+  "description": "aqu\u00ed est\u00e1 la nueva ola \ud83c\udf0a  Babas Tutsipop en cover ",
   "name": "neo m\u00e9xico ",
   "tracks": [
     {
@@ -3028,6 +3028,24 @@
       "duration_ms": 271378,
       "name": "Desvelado",
       "url": "https://open.spotify.com/track/4dluwDiqHyMalOIRNwae2S"
+    },
+    {
+      "album": {
+        "name": "detr\u00e1s d ti",
+        "url": "https://open.spotify.com/album/2uDPohcguI5fbO3tkHeKrm"
+      },
+      "artists": [
+        {
+          "name": "JOZZEE",
+          "url": "https://open.spotify.com/artist/77752A6Aw4gR5GQXEzlm8F"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190305,
+      "name": "detr\u00e1s d ti",
+      "url": "https://open.spotify.com/track/3KKaqVHL8Qtnobuh8llytJ"
     },
     {
       "album": {
@@ -6441,6 +6459,24 @@
     },
     {
       "album": {
+        "name": "los putos robots",
+        "url": "https://open.spotify.com/album/4VDVTz2f5kPvJYUOR8iZ0U"
+      },
+      "artists": [
+        {
+          "name": "babas tutsipop",
+          "url": "https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207676,
+      "name": "los putos robots",
+      "url": "https://open.spotify.com/track/1QQK4kthVUCmo190CrqjqX"
+    },
+    {
+      "album": {
         "name": "hoy les digo que",
         "url": "https://open.spotify.com/album/6ArPxheUgUkE5lfXli0vxA"
       },
@@ -8140,7 +8176,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 152170,
       "name": "No Se Si Es Amor",
       "url": "https://open.spotify.com/track/1C57mFhSPwsyzJAlRVspVW"
@@ -10955,6 +10991,28 @@
     },
     {
       "album": {
+        "name": "so\u00f1\u00e9 la respuesta pero no recuerdo (RADAR M\u00e9xico)",
+        "url": "https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn"
+      },
+      "artists": [
+        {
+          "name": "iza tkm",
+          "url": "https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3"
+        },
+        {
+          "name": "Zenei",
+          "url": "https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189047,
+      "name": "so\u00f1\u00e9 la respuesta pero no recuerdo - RADAR M\u00e9xico",
+      "url": "https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT"
+    },
+    {
+      "album": {
         "name": "SPEED.",
         "url": "https://open.spotify.com/album/6eGlyrMWckHwO69SIRZMWW"
       },
@@ -11592,7 +11650,7 @@
       ],
       "date_added": "2026-05-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 245669,
       "name": "Todav\u00eda No",
       "url": "https://open.spotify.com/track/43QyjSix5vl6eoSLyDBbiq"
@@ -11774,7 +11832,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 164181,
       "name": "Tormenta Tropical",
       "url": "https://open.spotify.com/track/1trZxt1SZKrsRUEOd4uOlJ"

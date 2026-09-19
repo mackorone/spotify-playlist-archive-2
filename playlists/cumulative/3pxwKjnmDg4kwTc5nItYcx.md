@@ -4,7 +4,7 @@
 
 > Down\-tempo and easy listening music\. Cover: Maisie Peters
 
-915 songs - 2 day 1 hr 14 min
+916 songs - 2 day 1 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -838,6 +838,7 @@
 | [TRAINWRECK](https://open.spotify.com/track/5j8USqbwYjEa0pP8lgphzy) | [Anne\-Marie](https://open.spotify.com/artist/1zNqDE7qDGCsyzJwohVaoX) | [TRAINWRECK](https://open.spotify.com/album/4oTGRL1a4DbCYR0Fl37dzW) | 3:03 | 2023-07-07 | 2025-08-27 |
 | [Trapped In L.A.](https://open.spotify.com/track/2RVOWW1qslpLW57CHoQ6dq) | [Oliver Cronin](https://open.spotify.com/artist/1dfo9BgmIfeKcAvKieKqiG) | [Trapped In L.A.](https://open.spotify.com/album/3x53wtMGKU425IaCbQgaq1) | 2:08 | 2022-07-22 | 2025-08-27 |
 | [Trigger](https://open.spotify.com/track/5PtWJLo7A2G5ZROZJxLXSY) | [Seori](https://open.spotify.com/artist/2bWTIIQP9zaVc55RaMGu7e) | [Trigger](https://open.spotify.com/album/1w7t4Q5OfS3HA0nPirbgde) | 3:20 | 2020-12-18 | 2025-07-17 |
+| [trivia's over, there's a gas leak in the kitchen](https://open.spotify.com/track/4qU4QbdvBwsHl8fl7y92ah) | [Lily Wallace](https://open.spotify.com/artist/7CWnS4iuMP7xrJECYPec0d) | [trivia's over, there's a gas leak in the kitchen](https://open.spotify.com/album/3ecurF3kkVzy4FldZySKXu) | 3:02 | 2026-09-18 |  |
 | [Turn The Light](https://open.spotify.com/track/6vw4YLRXNvtFxA2yxVrR6H) | [Karen O](https://open.spotify.com/artist/6emHCSoB4tJxTVXakbrpPz), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Lux Prima](https://open.spotify.com/album/1kgurOfUl0Qu20MDK46xur) | 3:19 | 2019-08-27\* | 2019-11-11 |
 | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/track/1K6s5g4URy2UfS4HNBPhGY) | [Janelle Monáe](https://open.spotify.com/artist/6ueGR6SWhUJfvEhqkvMsVs) | [Turntables \(from the Amazon Original Movie "All In: The Fight for Democracy"\)](https://open.spotify.com/album/6rVBwEvvvWDf5flpBu1yHq) | 2:43 | 2020-09-11 | 2021-05-12 |
 | [Twice](https://open.spotify.com/track/2UHnJzIiyNqPTufzxHdTQx) | [Jake Scott](https://open.spotify.com/artist/0DxPHf2flBAcV2SnZPg3SV) | [Lavender](https://open.spotify.com/album/11v89Gklx5GvGK6zfhj5jA) | 2:22 | 2023-11-10 | 2025-08-27 |

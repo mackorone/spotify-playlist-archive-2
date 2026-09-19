@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 
 > Praise and Worship your way with the best South African Gospel music\.  Cover: Dumi Mkokstad
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,650 likes - 100 songs - 11 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,736 likes - 100 songs - 11 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBH5YfEiy7g.md) - [plain]
 | 99 | [Ngihambise Kahle](https://open.spotify.com/track/6NZDB7MU7bNB37VUGWiLTg) | [Njabulo Masinga](https://open.spotify.com/artist/3Igz2e5CEXqo4l77TfX8Z3), [Mphostoli We Keyboard](https://open.spotify.com/artist/1lgM1mjTHzMVjWZv08fTIN) | [Ngihambise Kahle](https://open.spotify.com/album/1coVHsiPPaoa6FPWZIPEcL) | 5:06 |
 | 100 | [Ufanelwe](https://open.spotify.com/track/0lO2SyYqT3mkg1KQrREZ7u) | [Brenden Praise](https://open.spotify.com/artist/3jzpHftM6t86BxqayyUWiU), [Free 2 Wrshp](https://open.spotify.com/artist/6xu5vAyJJMPc6u2XdxOuAt) | [The Gift, Vol.2](https://open.spotify.com/album/06MaQU5ZxlypE9GKd5Ft7s) | 2:55 |
 
-Snapshot ID: `AAAAAHJNUPJN93Tk74NXB2dUtoEKDfXx`
+Snapshot ID: `AAAAAN6mCS4aLCb4bSqrlZTJ/817PGJr`

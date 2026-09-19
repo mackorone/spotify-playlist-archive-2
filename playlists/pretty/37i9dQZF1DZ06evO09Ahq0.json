@@ -1,12 +1,12 @@
 {
   "description": "This is Avenged Sevenfold. The essential tracks, all in one playlist.",
-  "num_followers": 557729,
+  "num_followers": 557823,
   "original_name": "This Is Avenged Sevenfold",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAABpIWCLzie5MmbynXyhuYVa",
+  "snapshot_id": "aqstgAAAAACHE+RDp++sQq7eLC1ebwvL",
   "tracks": [
     {
       "added_at": null,
@@ -523,8 +523,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "City of Evil",
-        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
+        "name": "The Stage",
+        "url": "https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd"
       },
       "artists": [
         {
@@ -532,9 +532,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 351533,
-      "name": "Trashed and Scattered",
-      "url": "https://open.spotify.com/track/01CYr3t0hedD915PmI5l4D"
+      "duration_ms": 512024,
+      "name": "The Stage",
+      "url": "https://open.spotify.com/track/3jo1u5KsNTqW07fhlr1jCf"
     },
     {
       "added_at": null,
@@ -555,8 +555,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Stage",
-        "url": "https://open.spotify.com/album/0jwnYwJz6XHNrVAYEclQPd"
+        "name": "City of Evil",
+        "url": "https://open.spotify.com/album/55tK4Ab7XHTOKkw0xDz3AA"
       },
       "artists": [
         {
@@ -564,9 +564,9 @@
           "url": "https://open.spotify.com/artist/0nmQIMXWTXfhgOBdNzhGOs"
         }
       ],
-      "duration_ms": 512024,
-      "name": "The Stage",
-      "url": "https://open.spotify.com/track/3jo1u5KsNTqW07fhlr1jCf"
+      "duration_ms": 351533,
+      "name": "Trashed and Scattered",
+      "url": "https://open.spotify.com/track/01CYr3t0hedD915PmI5l4D"
     },
     {
       "added_at": null,

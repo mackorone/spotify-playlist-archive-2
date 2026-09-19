@@ -1,12 +1,12 @@
 {
   "description": "New music from ROS\u00c9, MILEY, Sarah Suhairi. ChronicalZ, no na and many more!",
-  "num_followers": 75656,
+  "num_followers": 75815,
   "original_name": "New Music Friday Malaysia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHfRXofFYYcDWx2No/DNP084ldw2",
+  "snapshot_id": "AAAAAJFw/nP67U4O9QUMvFq+NBNUzp80",
   "tracks": [
     {
       "added_at": "2026-09-17 23:30:19",
@@ -75,6 +75,26 @@
       "duration_ms": 180000,
       "name": "RHYNO (from GTAVI: The Album)",
       "url": "https://open.spotify.com/track/2QrLrUqdSg5njDVEqq5QFp"
+    },
+    {
+      "added_at": "2026-09-18 04:03:34",
+      "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
     },
     {
       "added_at": "2026-09-17 16:00:20",
@@ -639,6 +659,22 @@
     {
       "added_at": "2026-09-17 16:00:20",
       "album": {
+        "name": "\u82e5\u7121\u4f60 (\u5f71\u96c6\u300a\u63a5\u62db\u5427\uff01\u88fd\u4f5c\u4eba\u300b\u55ae\u5143\u66f2)",
+        "url": "https://open.spotify.com/album/2PY43aRxFA6duuLTBsO5R4"
+      },
+      "artists": [
+        {
+          "name": "Ricky Hsiao",
+          "url": "https://open.spotify.com/artist/0E6oEhZZtQvj811iXQFLrB"
+        }
+      ],
+      "duration_ms": 280384,
+      "name": "\u82e5\u7121\u4f60 - \u5f71\u96c6\u300a\u63a5\u62db\u5427\uff01\u88fd\u4f5c\u4eba\u300b\u55ae\u5143\u66f2",
+      "url": "https://open.spotify.com/track/3nCLZCw3cnr5wWbiVpFxr4"
+    },
+    {
+      "added_at": "2026-09-17 16:00:20",
+      "album": {
         "name": "After Everything - HBO\u539f\u5275\u5f71\u96c6\u300a\u4f86\uff01\u91d1\u4f86\u865f\uff01\u300b\u63d2\u66f2",
         "url": "https://open.spotify.com/album/1AbpDQYgf3b9vCFKvOYZ2f"
       },
@@ -733,6 +769,26 @@
       "url": "https://open.spotify.com/track/48xY7Jn018AjLntqEaQCJB"
     },
     {
+      "added_at": "2026-09-18 04:03:34",
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
+    },
+    {
       "added_at": "2026-09-17 16:00:20",
       "album": {
         "name": "Peduli Kata Orang",
@@ -801,6 +857,22 @@
       "url": "https://open.spotify.com/track/0QFU3g2kLZ5LrnvRSGUyKY"
     },
     {
+      "added_at": "2026-09-17 23:55:02",
+      "album": {
+        "name": "Kembali Pulang",
+        "url": "https://open.spotify.com/album/2E8FEcwcQdNNeercCwB1YT"
+      },
+      "artists": [
+        {
+          "name": "Ariyo Wahab",
+          "url": "https://open.spotify.com/artist/4eqKmDfuX9hX0g08p1GYw9"
+        }
+      ],
+      "duration_ms": 257385,
+      "name": "Kembali Pulang",
+      "url": "https://open.spotify.com/track/3z641g8UTPxjH2NHYnq7Y3"
+    },
+    {
       "added_at": "2026-09-17 16:00:20",
       "album": {
         "name": "Hiraeth",
@@ -819,22 +891,6 @@
       "duration_ms": 236249,
       "name": "Hiraeth",
       "url": "https://open.spotify.com/track/5ROmPA7Ehr0QwQWBpFsIGq"
-    },
-    {
-      "added_at": "2026-09-17 23:55:02",
-      "album": {
-        "name": "Kembali Pulang",
-        "url": "https://open.spotify.com/album/2E8FEcwcQdNNeercCwB1YT"
-      },
-      "artists": [
-        {
-          "name": "Ariyo Wahab",
-          "url": "https://open.spotify.com/artist/4eqKmDfuX9hX0g08p1GYw9"
-        }
-      ],
-      "duration_ms": 257385,
-      "name": "Kembali Pulang",
-      "url": "https://open.spotify.com/track/3z641g8UTPxjH2NHYnq7Y3"
     },
     {
       "added_at": "2026-09-17 16:00:20",
@@ -972,8 +1028,8 @@
           "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 17",
+      "duration_ms": 258083,
+      "name": "Autobahn",
       "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV"
     },
     {
@@ -1007,6 +1063,26 @@
       "duration_ms": 150928,
       "name": "2LOUD",
       "url": "https://open.spotify.com/track/5SoG7BQ42MMksYEfaeeVgE"
+    },
+    {
+      "added_at": "2026-09-18 04:03:34",
+      "album": {
+        "name": "ENOuGH",
+        "url": "https://open.spotify.com/album/6NNgbHl1bfglbnPKeX5aSJ"
+      },
+      "artists": [
+        {
+          "name": "HONGJOONG",
+          "url": "https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx"
+        },
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 143005,
+      "name": "ENOuGH",
+      "url": "https://open.spotify.com/track/7MYgrDGoz1NlwTdBU9sXAg"
     },
     {
       "added_at": "2026-09-17 16:00:20",
@@ -1116,8 +1192,8 @@
           "url": "https://open.spotify.com/artist/6ojkoqqD7ClYPzRlHVBt0O"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 1",
+      "duration_ms": 184500,
+      "name": "I Wanna Dance With You",
       "url": "https://open.spotify.com/track/7zrk7BGZDf6G4I6wv06xQC"
     },
     {
@@ -1496,9 +1572,25 @@
           "url": "https://open.spotify.com/artist/3lzTKwFsOqxtp5cLJ2qbSD"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 193973,
+      "name": "Leave You",
       "url": "https://open.spotify.com/track/3OopdCgZYh1N0idjbXs18b"
+    },
+    {
+      "added_at": "2026-09-18 23:50:17",
+      "album": {
+        "name": "i love u",
+        "url": "https://open.spotify.com/album/6UlNuUeJ0j05dkPs1Hpdf4"
+      },
+      "artists": [
+        {
+          "name": "The Volunteers",
+          "url": "https://open.spotify.com/artist/2jLHrOkh1M5rLJgnrgfQf1"
+        }
+      ],
+      "duration_ms": 258445,
+      "name": "White Truck",
+      "url": "https://open.spotify.com/track/68jsFvAvHOH1VrzSzFuD6h"
     },
     {
       "added_at": "2026-09-17 16:00:20",
@@ -1531,6 +1623,34 @@
       "duration_ms": 149313,
       "name": "ROCK RIGHT NOW",
       "url": "https://open.spotify.com/track/4u9VJCExbgtESITph6xw8N"
+    },
+    {
+      "added_at": "2026-09-17 16:00:20",
+      "album": {
+        "name": "DARA",
+        "url": "https://open.spotify.com/album/5nR3NBfCdmqjZWP1VncJN0"
+      },
+      "artists": [
+        {
+          "name": "lIlBOI",
+          "url": "https://open.spotify.com/artist/25wMXkplvEHJpJHX8A6Ved"
+        },
+        {
+          "name": "Woodie Gochild",
+          "url": "https://open.spotify.com/artist/6iLGJqxVgxxWsJe5bW4dxt"
+        },
+        {
+          "name": "pH-1",
+          "url": "https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W"
+        },
+        {
+          "name": "BIG Naughty",
+          "url": "https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal"
+        }
+      ],
+      "duration_ms": 258858,
+      "name": "DARA",
+      "url": "https://open.spotify.com/track/4rdvgBW9K5sxwmffE0VRwo"
     },
     {
       "added_at": "2026-09-17 16:00:20",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 
 > Summer 2026 Beach Lounge Music, Ibiza, sunset vibes, Background Music, Pool Lounge, Hotel Lounge, Tropical chill house,Beach Party\. For submissions: j\-dosch@freenet.de
 
-[j\-dosch](https://open.spotify.com/user/j-dosch) - 137,648 likes - 236 songs - 10 hr 13 min
+[j\-dosch](https://open.spotify.com/user/j-dosch) - 137,725 likes - 237 songs - 10 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -244,5 +244,6 @@ pretty - [cumulative](/playlists/cumulative/7dDJX06UClvROSRLl7vtNx.md) - [plain]
 | 234 | [Long Night](https://open.spotify.com/track/4dXWQ5ND3H6EKhdaB5vHmY) | [Sainte Barbe](https://open.spotify.com/artist/4zuQKega38PckB0BN20OGJ), [Jan Aygün](https://open.spotify.com/artist/2wM1D4UgaScEg2LkYHm1Oe) | [Wherever I Roam](https://open.spotify.com/album/38DIyr3PYlMEHoqMdOtavi) | 2:24 |
 | 235 | [Show Me How](https://open.spotify.com/track/1Dh3bwCPqlAdgALAP5mUB5) | [Calm Springs](https://open.spotify.com/artist/1pd4wbq23IikAfw2CYSRTb), [Mallou](https://open.spotify.com/artist/0shRX1S8qo6p32ErP9OWwP), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX) | [Show Me How](https://open.spotify.com/album/4tRhcvod59P4Wt7Fv7HSsz) | 3:16 |
 | 236 | [oceanside](https://open.spotify.com/track/4OYaj9oxYWgXI4hNTaTEBb) | [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2), [Obren](https://open.spotify.com/artist/5fIoCFV71SATmK78w7MlyB) | [oceanside](https://open.spotify.com/album/4qirkYK6AfX1Fiub7GNw8t) | 3:02 |
+| 237 | [Endless Beach](https://open.spotify.com/track/0zU11XHZAcNsVNYthX9eZO) | [Fex](https://open.spotify.com/artist/5R6neU5Q3eyHGXwDT6ZlMM), [Spijk](https://open.spotify.com/artist/3KXJ7gaMIWeUQb3gY24idX), [outset island](https://open.spotify.com/artist/1Yq11FlV5GeYdKzHutWv3X) | [Endless Beach](https://open.spotify.com/album/0KOyPPY7SJTmU4p7J9FEAK) | 2:37 |
 
-Snapshot ID: `AABWEn6+O9afDKQnjNzqIO3/3p05vc6I`
+Snapshot ID: `AABWE1enrXBqcnEmLX5v+alctJgWhrqD`

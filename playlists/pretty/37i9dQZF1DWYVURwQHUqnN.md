@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 
 > Photo : Timal
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,154,698 likes - 59 songs - 2 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,154,631 likes - 59 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -68,4 +68,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYVURwQHUqnN.md) - [plain]
 | 58 | [ONE MORE TIME](https://open.spotify.com/track/42OPNneDjwPmBsm0Et8vaC) | [Rambo goyard](https://open.spotify.com/artist/0RRp1XbMoTmW8zSWC1synA) | [S.O.S \(Save Our Summer\)](https://open.spotify.com/album/2Eu5TBvImBDuslBP3KYoeE) | 2:44 |
 | 59 | [C'est décidé](https://open.spotify.com/track/3r0watwAijJbGumJLxeaQ6) | [Emkal](https://open.spotify.com/artist/4ZPLdCBeYJBAjsLTWRcZEs) | [C'est décidé](https://open.spotify.com/album/5yEDKL7G4Uqg7wfxEcNds8) | 2:49 |
 
-Snapshot ID: `AAAAAPB8IA5Muz5kpGo1jS4XYjylN9pz`
+Snapshot ID: `AAAAAMttkfn6I1hgpUpnLdwiQFOOZ7i7`

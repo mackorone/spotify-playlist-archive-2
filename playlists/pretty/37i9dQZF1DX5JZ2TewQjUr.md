@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 
 > 香港獨立樂隊及音樂人新浪潮集合晒喺度！記得聽真啲！Cover: KA LAI
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,655 likes - 100 songs - 5 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,665 likes - 100 songs - 5 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5JZ2TewQjUr.md) - [plain]
 | 99 | [Love Me You Do](https://open.spotify.com/track/2csVPQvnGuR5KYWhoxta8w) | [quentinn®](https://open.spotify.com/artist/0CYWyysXnCqIJXXNqhPmpX), [Le Shing](https://open.spotify.com/artist/3pD1EyHbEmPbGXMiLgpda2) | [Love Me You Do](https://open.spotify.com/album/1zTHpt1wq8fJxXdSXGpM6E) | 2:30 |
 | 100 | [大亂鬥生存守則](https://open.spotify.com/track/108vPqGjLYFtxqPHQL2Ydx) | [Hedgehog](https://open.spotify.com/artist/1rDjU7YKKDhieHkjaJNbEO) | [大亂鬥生存守則](https://open.spotify.com/album/7oARYVLZ10iYf6pYSMwGW0) | 2:31 |
 
-Snapshot ID: `AAAAAIXMx63mPEEeyuN/LF9HhDSIAtIx`
+Snapshot ID: `AAAAABYnfF3HU7iUm5657Pd/dvEuoU2n`

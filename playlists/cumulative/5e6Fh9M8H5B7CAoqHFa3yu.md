@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,565 songs - 6 day 6 hr 19 min
+2,566 songs - 6 day 6 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -690,7 +690,7 @@
 | [Ethiopian Serenade](https://open.spotify.com/track/3GQEsHrbSIjjRkres0B2Dy) | [Ras Tamano](https://open.spotify.com/artist/6AzPKf5UTTpMnbgtKyWya8), [Goja Bongos](https://open.spotify.com/artist/7FU0l5HaLimkfIQZAjI8EB) | [Nyahbinghi I\-lodica](https://open.spotify.com/album/3KoPRZazTGn88Ee9nIZFYC) | 4:12 | 2024-03-25 |  |
 | [Eu Confesso](https://open.spotify.com/track/2JN9RaAhfUwuoRcEBedbUo) | [AlonUshi](https://open.spotify.com/artist/5ff5myNBPYGziyBDXwsEAp) | [Eu Confesso](https://open.spotify.com/album/3r8W5VCdCfjAAHPqVkagqv) | 3:10 | 2025-11-24 |  |
 | [Eu Encontrei o Meu Amado](https://open.spotify.com/track/2kbnUCwz6AuDJWzpaWU4AB) | [Coral Gospel Vozes do Reino](https://open.spotify.com/artist/3gagHz1qMqB585kOByz8b3) | [Eu Encontrei o Meu Amado](https://open.spotify.com/album/4SdYNqafdrHadxG3l9okCi) | 2:35 | 2026-06-08 |  |
-| [Eu não vou recuar](https://open.spotify.com/track/76UgJ2XRcLyrdpVqEdjF8Y) | [Bossa de Valores](https://open.spotify.com/artist/19vd7nCwwKyTXgKek1jXKV) | [Mentiras e Clichês](https://open.spotify.com/album/0vutxwSLdsysrh8NgnuxZX) | 3:24 | 2026-09-04 |  |
+| [Eu não vou recuar](https://open.spotify.com/track/76UgJ2XRcLyrdpVqEdjF8Y) | [Bossa de Valores](https://open.spotify.com/artist/19vd7nCwwKyTXgKek1jXKV) | [Mentiras e Clichês](https://open.spotify.com/album/0vutxwSLdsysrh8NgnuxZX) | 3:24 | 2026-09-04 | 2026-09-19 |
 | [Evergreen](https://open.spotify.com/track/0LBEOeof0S5JA9ELSvc5C0) | [Cole Dine](https://open.spotify.com/artist/3aa40HerOqJBvwU4YcYeEL) | [Evergreen](https://open.spotify.com/album/4wtQiS8HQpQDXf3Ot0ydJG) | 4:35 | 2025-11-05 |  |
 | [Every Little Thing \(feat\. Irfane and Teki Latex\)](https://open.spotify.com/track/2ExQbV5IFG5ur4KnDIjIZn) | [Para One](https://open.spotify.com/artist/5MRONaryo2z75lLiuJ0NWJ), [Irfane](https://open.spotify.com/artist/3nqQeOUvDPTu4vtYtPfBjX), [Teki Latex](https://open.spotify.com/artist/1hJv8PCKb3M0PSHQ9UxgCa) | [Passion](https://open.spotify.com/album/7m9hiaOiKQFcjGS0r60oWw) | 4:09 | 2025-05-28 |  |
 | [Everything Everywhere](https://open.spotify.com/track/1ktcfP4MInTWqfoepu0wW8) | [St\. Kio](https://open.spotify.com/artist/44tH5nFTBxBPR1Dxuu17a0) | [Everything Everywhere](https://open.spotify.com/album/6YNwZKzx3IxE35nl8TTyPF) | 2:46 | 2025-06-30 |  |
@@ -2084,6 +2084,7 @@
 | [Sueňos](https://open.spotify.com/track/4oHuaoF6L4Ya42NVKiGgsj) | [Munay Ki Dub](https://open.spotify.com/artist/2AhLMWSB5ljBDOSpz1RvzE) | [Sueňos](https://open.spotify.com/album/65etujVdTNuGmXe6F7VrsO) | 5:13 | 2024-03-17 |  |
 | [Sugar](https://open.spotify.com/track/0muGUh8IlNxu6uiYzon870) | [Harmon](https://open.spotify.com/artist/5tBAhHbRM5eqxs963VJ4rC), [0 Zero](https://open.spotify.com/artist/7sKtPpxCBiKUfe3LDydaxZ), [Leo cont](https://open.spotify.com/artist/0UByIf7UhdjJKWl4CGm8eI), [Kongo](https://open.spotify.com/artist/5BZIja2U8chUx5Txh1SJZD), [Travis](https://open.spotify.com/artist/7kZvC6IAN4NPYhGqoQd95K), [Cesi kont](https://open.spotify.com/artist/2OR5Fqoo8nSTPUOuOoQj55), [Dante](https://open.spotify.com/artist/2Ge4iFPaB02diUSh3FJy1r) | [Harmon](https://open.spotify.com/album/3mnNx8oxfH9IOpXbjyuigF) | 2:42 | 2025-10-17 |  |
 | [Summer Drift](https://open.spotify.com/track/2RU3H8DMErDTsXemUa5iey) | [Cflow](https://open.spotify.com/artist/12p5MtJNJ2E9AtLouRQxQF) | [Summer Drift](https://open.spotify.com/album/0wNmJmaeyZspiO7u1XjD4d) | 4:25 | 2026-08-18 |  |
+| [Summer Nights](https://open.spotify.com/track/7FBdQeCOVJi465fK6Y2uNe) | [50 Ways](https://open.spotify.com/artist/6lIRNVXjOm2XC5TGXMcZV6) | [Summer Nights](https://open.spotify.com/album/6t2hGIJgcrJzhHAgOfdf9m) | 3:25 | 2026-09-18 |  |
 | [Summer Rain](https://open.spotify.com/track/6KdmlljQVKULvy3GQmZRCH) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Summer Rain](https://open.spotify.com/album/1iQUHaUbjh5cVtAHf0lz5e) | 1:50 | 2026-02-05 |  |
 | [SUMMERTIME](https://open.spotify.com/track/085CtRz2vrCJnU622dRzWb) | [DONTListen](https://open.spotify.com/artist/6it7KWGoNjdIR2AOTzqMGW) | [SUMMERTIME](https://open.spotify.com/album/74xHUDyXEjognp7jcTHbW5) | 3:20 | 2025-03-13 |  |
 | [Summertime](https://open.spotify.com/track/1ZFp8VqkVqtoDyHN2DqG8U) | [Teezee](https://open.spotify.com/artist/7tOHddgqzhOY9lDz3NfL9D) | [Summertime](https://open.spotify.com/album/5lvXKEIhhOFJdskGf6BlEf) | 4:47 | 2026-02-05 |  |

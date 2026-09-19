@@ -4,7 +4,7 @@
 
 > Die Playlist, die dich fühlt\. Cover: Paula Hartmann
 
-3,722 songs - 7 day 4 hr 54 min
+3,722 songs - 7 day 4 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3219,7 +3219,6 @@
 | [Tourrettes](https://open.spotify.com/track/5jADtrXb3KgF9zqt4tuZqO) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Tourrettes](https://open.spotify.com/album/1idtQekpXjddMFkPnjKyhk) | 2:48 | 2023-09-14 | 2023-09-22 |
 | [toxic energy \(with The Used\)](https://open.spotify.com/track/4DKSPhmxEn5gp9uPAMosVQ) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM), [The Used](https://open.spotify.com/artist/55VydwMyCuGcavwPuhutPL) | [toxic energy](https://open.spotify.com/album/1m2hH5sMp7nZjmpQAYXhQI) | 3:11 | 2022-08-05 | 2022-08-12 |
 | [Track 10](https://open.spotify.com/track/4t9PBD27dndlf6YMBK2ROc) | [Charli xcx](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Pop 2](https://open.spotify.com/album/2HIwUmdxEl7SeWa1ndH5wC) | 5:26 | 2025-04-17 | 2025-05-20 |
-| [Track 2](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 0:00 | 2026-09-17 |  |
 | [TRACKIES](https://open.spotify.com/track/7H3DGTl4bKZAwxyhE5AflC) | [6PM RECORDS](https://open.spotify.com/artist/3PeXrPTDFpmBfdfBR8nDAj), [reezy](https://open.spotify.com/artist/1ul8iLt2WnFe2UIyovjg7q), [Stickle](https://open.spotify.com/artist/5K8xEsO2oPspkkkdpTBQWo) | [TRACKIES](https://open.spotify.com/album/1CtEOyob5EJTJN4HjLNFne) | 2:00 | 2023-08-24 | 2023-09-01 |
 | [Tracksuit Velours](https://open.spotify.com/track/7zOsUnRGpQBAWNPLdYa0fE) | [Nina Chuba](https://open.spotify.com/artist/2kS9NyuATpYwjeB93h24H5) | [Tracksuit Velours](https://open.spotify.com/album/4JUe83xyCwP4TIiYBFu2Wc) | 2:30 | 2022-06-16 | 2022-09-02 |
 | [Trance \(Walk It Down\)](https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trance \(Walk It Down\)](https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40) | 2:41 | 2026-08-20 |  |
@@ -3352,6 +3351,7 @@
 | [Vergessen](https://open.spotify.com/track/4m4hXm2iOa5fNIEpvIiXye) | [Rowli](https://open.spotify.com/artist/062qvlhIYOrATqRTHet3D3) | [Vergessen](https://open.spotify.com/album/7xVirb7FLEN5J9RXzOYuhm) | 2:23 | 2024-05-16 | 2024-08-23 |
 | [Vergessen Hast](https://open.spotify.com/track/2Zl3Na2VlELqB5f5HMBDVs) | [DONDON](https://open.spotify.com/artist/7BaSOOhWzKYXrLxYoBvMax), [Edo Saiya](https://open.spotify.com/artist/0PVPI2jOWDJtWpOxrXnT6F) | [Vergessen Hast](https://open.spotify.com/album/3gkHadZPjM25PfG0XG1j5S) | 2:58 | 2024-10-10 | 2024-10-25 |
 | [Vergessen was du bist](https://open.spotify.com/track/3ZRJLZNkEx7YR9DVuIBYsv) | [DONDON](https://open.spotify.com/artist/7BaSOOhWzKYXrLxYoBvMax), [Rrotzer](https://open.spotify.com/artist/6a3Hepy65IU5aex19pUwjd) | [Vergessen was du bist](https://open.spotify.com/album/1LCOTS7pcDe7TMBTP2nmC8) | 2:41 | 2023-01-05 | 2023-02-10 |
+| [vergötter mich \(mit bürgermeisterin von wien\)](https://open.spotify.com/track/4bMPMbobqUqDf99x2CQhNg) | [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [verifiziert](https://open.spotify.com/artist/1SF4jakSq8kI38MYjFdaJG) | [harte mackerinnen ep](https://open.spotify.com/album/4VodSIlJvAw3EcrKg8PgVC) | 2:41 | 2026-09-17 |  |
 | [Verknallen \(mit Chapo102\)](https://open.spotify.com/track/1KpNgmkmEVNetub7W13AJj) | [Ritter Lean](https://open.spotify.com/artist/2IiYcx1PUPlEFbW54buLBt), [Chapo102](https://open.spotify.com/artist/36caCzfSrrL7a8Mvd1SuRr) | [Verknallen \(mit Chapo102\)](https://open.spotify.com/album/3CkavsknXY4VdS0yPUr2Vq) | 2:26 | 2025-01-16 | 2025-05-23 |
 | [VERLAUFEN](https://open.spotify.com/track/6WstkKG56p4zoz5FxtDmyT) | [Dasco](https://open.spotify.com/artist/2NAAImPzFXVBqOEx8Ntzcd) | [VERLAUFEN](https://open.spotify.com/album/2WXTsykqT2scYJVpQGBPu1) | 2:41 | 2022-07-28 | 2022-08-09 |
 | [Verlaufen](https://open.spotify.com/track/2qAeSyDs5NqHWOi0HwyVZU) | [Lucifer Xo](https://open.spotify.com/artist/3xE1nb6rpQwzHfvNZIn5tb), [REEZA](https://open.spotify.com/artist/3Mfatql1PMmQrdB37eXO5e) | [Verlaufen](https://open.spotify.com/album/1vNU4gkZc7JMnvyO8OJMBQ) | 2:56 | 2024-04-04 | 2024-05-24 |

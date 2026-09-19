@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 
 > गाँव\-घर की शादियों का असली संगीत 'भोजपुरी विवाह गीत'.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,555 likes - 50 songs - 4 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,554 likes - 50 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 24 | [Banal Rahe Amar Suhag](https://open.spotify.com/track/0SyhsuQ8PGJRt52qFV4oTK) | [Alka Singh Pahadiya](https://open.spotify.com/artist/7AwxuWU9ebCFwBl7cltEPH) | [Banal Rahe Amar Suhag](https://open.spotify.com/album/1nWL4bSG5mk2Ut8eSAbGrh) | 4:28 |
 | 25 | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/track/51x8NJOUidVvDbCLNZ7AgN) | [Sakshi Singh](https://open.spotify.com/artist/0UJWFdORLnHitbhhps6TKX) | [Aaju Mithila Nagariya Nihal Sakhiya](https://open.spotify.com/album/6aqVG83R2RghR1RlyJP3om) | 3:54 |
 | 26 | [Doli Leke Aihein Dulhiniya](https://open.spotify.com/track/58rf0fEiolEKlQjUnSWGT5) | [Alka Singh](https://open.spotify.com/artist/7rOPbV4rxVRfNvwrfeEKU7) | [Dulha Hindustani \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/5d8ugrxneHuJBxahIBEA8P) | 3:41 |
-| 27 | [Suna Ho Paahun \(Lava Chhitaai\)](https://open.spotify.com/track/3bvjW7Cdx4plONJLiDpcfK) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Shubh Vivah](https://open.spotify.com/album/06jcgv8eOu0PzIwJhUOJJe) | 4:09 |
+| 27 | [Saanwar \- Sawar Suratiya Tohaar Dulha](https://open.spotify.com/track/5oXdYgaXizNKsLoATHxnPq) | [Sharda Sinha](https://open.spotify.com/artist/0us5gjkn3JwkrYuvCK6gJ2) | [Dulhin](https://open.spotify.com/album/6NM2PNbNHlENPjstKMqZHP) | 8:30 |
 | 28 | [Vivah Geet \(From "Hawa Mein Udta Jaye Mera Lal Dupatta Malmal Ka"\)](https://open.spotify.com/track/3CR3vrJDFpikRoEitIxOCB) | [Indu Sonali](https://open.spotify.com/artist/0PTzUYVfb8g1RhML4H0sho) | [Bhojpuri Vivah Geet](https://open.spotify.com/album/1Wi0n2gC2filR7gxvsRlBV) | 15:17 |
 | 29 | [Senurwa Singar Hokhela](https://open.spotify.com/track/4Jb0GGYQfpTEV788TibfET) | [Ankush Raja](https://open.spotify.com/artist/4vctPMlkya4meCAAKBHqmu) | [Senurwa Singar Hokhela](https://open.spotify.com/album/2Uv0m4e5AlAZH5TZnvoDy5) | 3:40 |
 | 30 | [Aaja Balam Leke Doli](https://open.spotify.com/track/6sUq0TupQApUTQySwfBWR2) | [Kalpana Patowary](https://open.spotify.com/artist/1RMmK2dEtVEbhSV7qvSXJ1) | [Mahua Tapke Chunariya Mein](https://open.spotify.com/album/2VWRUMn67nilfhkyIu02nQ) | 7:29 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KKclrVPfDr.md) - [plain]
 | 49 | [Mangal Gariya He](https://open.spotify.com/track/4ThM0yxqeDrWK0RBMfwg64) | [Adarsh Aadee](https://open.spotify.com/artist/0vZTfW7WeDGzgeim5bDJKt) | [Mangal Gariya He](https://open.spotify.com/album/74IL4qtE7Zo3qn6CRQqpdy) | 5:55 |
 | 50 | [Doliya Kahar](https://open.spotify.com/track/1z2zRkwyPCKB0bBAR2dlLw) | [Vertika Shukla](https://open.spotify.com/artist/65ty5KnrRZ9OPxI86Tomss) | [Doliya Kahar](https://open.spotify.com/album/2g0vIAmEnvoCAJDuSuJrsi) | 4:07 |
 
-Snapshot ID: `AAAAAEoSTPstsZ/6j1F9vrKjQ69kkMGX`
+Snapshot ID: `AAAAAO0ZOzkmWSP0t+YLZlrQ4Wr1pGn0`

@@ -960,7 +960,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 189279,
       "name": "A touch of breeze",
       "url": "https://open.spotify.com/track/2TLs12hBiOrB7XwZIxpqgQ"
@@ -1158,7 +1158,7 @@
       ],
       "date_added": "2025-03-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 228201,
       "name": "Across The Way",
       "url": "https://open.spotify.com/track/0EhctTHXX6MRtNHHurF4Ay"
@@ -1626,7 +1626,7 @@
       ],
       "date_added": "2024-03-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 220650,
       "name": "All The Sunsets",
       "url": "https://open.spotify.com/track/0cI9MAnRKv5R2AVWmQl4Tg"
@@ -7943,6 +7943,24 @@
     },
     {
       "album": {
+        "name": "Gl\u00e4nta",
+        "url": "https://open.spotify.com/album/6Eamp4F5dxp5fj8Ey4c1aj"
+      },
+      "artists": [
+        {
+          "name": "Greydon Park Band",
+          "url": "https://open.spotify.com/artist/6pZIC4vzuNxdwy8hJSq29S"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195251,
+      "name": "Gl\u00e4nta",
+      "url": "https://open.spotify.com/track/6kj0DVybNKiTAAUgpI9Z7H"
+    },
+    {
+      "album": {
         "name": "God Bless The Child",
         "url": "https://open.spotify.com/album/3QiXg44gYchM0zVHw4JgVz"
       },
@@ -8620,7 +8638,7 @@
       ],
       "date_added": "2025-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 244120,
       "name": "Holding a moment",
       "url": "https://open.spotify.com/track/0s03POMpbhDKboD5UQqKBf"
@@ -13894,7 +13912,7 @@
       ],
       "date_added": "2024-10-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 196165,
       "name": "Midtown Reflections",
       "url": "https://open.spotify.com/track/3dki4IphVNqa52qQ34bXNX"
@@ -22272,7 +22290,7 @@
       ],
       "date_added": "2024-12-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 188000,
       "name": "Time Will Tell",
       "url": "https://open.spotify.com/track/0LCuIYTGRhY1naHm3zVjxY"

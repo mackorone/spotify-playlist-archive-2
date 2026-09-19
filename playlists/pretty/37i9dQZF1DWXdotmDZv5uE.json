@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 131382,
+  "num_followers": 131371,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMtcoRRi4vlUTNbfgSksGA5JaGJq",
+  "snapshot_id": "AAAAAHmP7HCNY78LuUY2csk9CmVzaXS1",
   "tracks": [
     {
       "added_at": "2026-06-08 22:39:48",
@@ -75,46 +75,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Debo Entender",
-        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
-      },
-      "artists": [
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        },
-        {
-          "name": "Neto Pe\u00f1a",
-          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
-        },
-        {
-          "name": "Yoss Bones",
-          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
-        }
-      ],
-      "duration_ms": 238419,
-      "name": "Debo Entender",
-      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
-        "name": "Sue\u00f1os L\u00edquidos",
-        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
-      },
-      "artists": [
-        {
-          "name": "Man\u00e1",
-          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
-        }
-      ],
-      "duration_ms": 310813,
-      "name": "Clavado en Un Bar",
-      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Por Mi M\u00e9xico (Remix)",
         "url": "https://open.spotify.com/album/3p22kEU3PqsIrYWJpa9Bko"
       },
@@ -147,6 +107,46 @@
       "duration_ms": 405000,
       "name": "Por Mi M\u00e9xico (Remix)",
       "url": "https://open.spotify.com/track/2m3Fqmw1mfs39KklPmjq79"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Sue\u00f1os L\u00edquidos",
+        "url": "https://open.spotify.com/album/7ydFJUb1tmZPd6p4xIe10V"
+      },
+      "artists": [
+        {
+          "name": "Man\u00e1",
+          "url": "https://open.spotify.com/artist/7okwEbXzyT2VffBmyQBWLz"
+        }
+      ],
+      "duration_ms": 310813,
+      "name": "Clavado en Un Bar",
+      "url": "https://open.spotify.com/track/78DVpEWwmJFC25KGz8fJuE"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Debo Entender",
+        "url": "https://open.spotify.com/album/1U4AU6ken2YH258a4lZyd8"
+      },
+      "artists": [
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
+        },
+        {
+          "name": "Neto Pe\u00f1a",
+          "url": "https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI"
+        },
+        {
+          "name": "Yoss Bones",
+          "url": "https://open.spotify.com/artist/0SmgVe3giVHaJjGmIz8xA4"
+        }
+      ],
+      "duration_ms": 238419,
+      "name": "Debo Entender",
+      "url": "https://open.spotify.com/track/55mzJ0LftLnef8sxAjrMkU"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Rock En Espa\u00f1ol - Lo Mejor De Cuca",
-        "url": "https://open.spotify.com/album/08zGkegYfFHnM4trm489QN"
-      },
-      "artists": [
-        {
-          "name": "Cuca",
-          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
-        }
-      ],
-      "duration_ms": 225773,
-      "name": "Todo Con Exceso",
-      "url": "https://open.spotify.com/track/7GoWrG8SMUgNQOK5P7gyFX"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Explotar",
         "url": "https://open.spotify.com/album/5jLGn7aHYTJm18dyDbj3hL"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 187040,
       "name": "Tecalitl\u00e1n",
       "url": "https://open.spotify.com/track/1HNSDDyd03NzyopKAMjkU0"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "Rock En Espa\u00f1ol - Lo Mejor De Cuca",
+        "url": "https://open.spotify.com/album/08zGkegYfFHnM4trm489QN"
+      },
+      "artists": [
+        {
+          "name": "Cuca",
+          "url": "https://open.spotify.com/artist/14xs9RNQa8MHRS7YU8Bzfk"
+        }
+      ],
+      "duration_ms": 225773,
+      "name": "Todo Con Exceso",
+      "url": "https://open.spotify.com/track/7GoWrG8SMUgNQOK5P7gyFX"
     },
     {
       "added_at": "2026-06-08 22:39:48",

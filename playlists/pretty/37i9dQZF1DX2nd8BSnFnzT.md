@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 
 > Lançamentos 100% rock brasileiro\. Foto: Pitty
 
-[Spotify](https://open.spotify.com/user/spotify) - 470,960 likes - 55 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 471,082 likes - 55 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2nd8BSnFnzT.md) - [plain]
 | 54 | [Dispara](https://open.spotify.com/track/2P5FdfGXE9ADHzfBUGQ0M0) | [Viralata](https://open.spotify.com/artist/4nzGWvAnomcGsvVhNyZ0xn), [QuatroK](https://open.spotify.com/artist/1JHtQRVTjep7gP7AT6gQ1n) | [Dispara](https://open.spotify.com/album/7dklXVW4rVuMNIZ7RBNcIb) | 3:50 |
 | 55 | [o que você quiser](https://open.spotify.com/track/35NplPnYaCevijnRs2bmik) | [Dado Villa\-Lobos](https://open.spotify.com/artist/5hmsETFK65bzCg0ORAboDr) | [o que você quiser](https://open.spotify.com/album/6np4eVJ5I9pzNHYN6ywEkX) | 3:15 |
 
-Snapshot ID: `AAAAAClrFXMdjT2H/CuuJS9rM5AAofDn`
+Snapshot ID: `AAAAAKLzZVSl8BJ154T5X6Ieou8jmSq5`

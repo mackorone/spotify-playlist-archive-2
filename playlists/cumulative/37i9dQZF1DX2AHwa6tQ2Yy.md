@@ -4,7 +4,7 @@
 
 > Try a little tenderness\. Cover: TEEKS
 
-414 songs - 1 day 1 hr 35 min
+414 songs - 1 day 1 hr 39 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -280,6 +280,7 @@
 | [Pictures](https://open.spotify.com/track/5GcvMgyFOsYePFR2jM8OOV) | [AACACIA](https://open.spotify.com/artist/3asBhUZPp0r1Hzw2DlT4My) | [Pictures](https://open.spotify.com/album/2wGZQdBRhuJJUd6WmNMCQW) | 3:21 | 2022-06-02 | 2022-07-29 |
 | [Pictures of You](https://open.spotify.com/track/0dpusM1gM6ULx0QvjJctbT) | [Drugdealer](https://open.spotify.com/artist/0tMnuEXTeJeHbslcV8OybJ), [Kate Bollinger](https://open.spotify.com/artist/4eArh1v6UwBbKkjdgHCned) | [Hiding in Plain Sight](https://open.spotify.com/album/3tNWFiq09LavrJA0s108QE) | 3:09 | 2025-07-11 |  |
 | [Pieces](https://open.spotify.com/track/0yKfO5xFUkSG7JmyPcwtAP) | [Yazmin Lacey](https://open.spotify.com/artist/2datC2OML2YxykP6vnDRmg) | [Pieces](https://open.spotify.com/album/4bRhptKi6B8B0A2ssBiPyA) | 5:52 | 2022-09-08 | 2023-04-20 |
+| [Place of Two](https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Frozen Flashes](https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8) | 4:06 | 2026-09-18 |  |
 | [Please Don't Go](https://open.spotify.com/track/7js5qnk3hGWb20H263sXWZ) | [Liliana](https://open.spotify.com/artist/1iRSAN1d2YuiQaOHvLMhwF), [Cam Noble](https://open.spotify.com/artist/0K2qWy2QmgaBlExB67u6oV) | [Please Don't Go](https://open.spotify.com/album/3hqERMu6KirdARs43Kr6JT) | 2:08 | 2022-06-02 | 2025-07-11 |
 | [Pleasure Boy](https://open.spotify.com/track/6D3XgKK1nqJykoZ5UDcPVp) | [ELIZA](https://open.spotify.com/artist/0PgYKqH7ohfAm9LFgWjpl8) | [The Darkening Green](https://open.spotify.com/album/5BCATz23LefUwvG94a5Swr) | 3:54 | 2026-03-05 | 2026-04-24 |
 | [Possibilities](https://open.spotify.com/track/70HjnCqSksQAQt9Udsb1st) | [Shuko](https://open.spotify.com/artist/1mOiWC7OH9ANUtt3vd0A10), [Laureen Mobo](https://open.spotify.com/artist/0BHWAPogicvHzBxbEAo8cU), [La Reezy](https://open.spotify.com/artist/2uVTJrWgoWoJmImS2I0KVE) | [Possibilities](https://open.spotify.com/album/66UYpIBgewhI93UtX5OIBI) | 3:07 | 2026-07-23 | 2026-08-14 |
@@ -382,7 +383,6 @@
 | [TMF](https://open.spotify.com/track/67OrF48gkNByr9HpRtSOSD) | [Saint Harison](https://open.spotify.com/artist/16AILHA3N2C3ngRuR2FdfH) | [TMF](https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt) | 3:31 | 2023-03-23 | 2025-07-11 |
 | [To Some Degree \(feat\. Michael Kiwanuka\)](https://open.spotify.com/track/6Ru5eANwKCdITFc3wvURBO) | [Daniele Luppi](https://open.spotify.com/artist/1TY8JzETLheB4vm5QblKsF), [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [To Some Degree](https://open.spotify.com/album/4tp9V7Xe6QYptqZhCIsakO) | 3:01 | 2026-08-27 | 2026-09-18 |
 | [Today I Miss You](https://open.spotify.com/track/5qdMBYgZdicuxs6U18Co5g) | [Kartik Kuna](https://open.spotify.com/artist/5kA8bovz1xGeNSZ2pjc2du) | [Today I Miss You](https://open.spotify.com/album/6uVKYrOVYus9zSS7yjcQRp) | 3:48 | 2022-08-25 | 2022-09-19 |
-| [Track 8](https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Frozen Flashes](https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8) | 0:00 | 2026-09-18 |  |
 | [Transatlantic Flight](https://open.spotify.com/track/0UMBDzlMhyz3N1hd8mBemt) | [Leif Vollebekk](https://open.spotify.com/artist/3jzXlBF2157k4exx7idecs) | [New Ways](https://open.spotify.com/album/20svKqJRQv9sxYZQ7JGdct) | 6:49 | 2022-06-02 | 2024-06-05 |
 | [TRAVELIN'](https://open.spotify.com/track/6WtFDxNz4x99GCvHeSx13q) | [\(\(\( O \)\)\)](https://open.spotify.com/artist/5rBFU1rhgs1nNghopuj9k8) | [TRAVELIN'](https://open.spotify.com/album/2y0dyhEYehIoXnEkXLuD7y) | 3:37 | 2023-08-31 | 2024-05-10 |
 | [Treasure](https://open.spotify.com/track/6CCUuocwVsVDAhBco7zKJF) | [TAM](https://open.spotify.com/artist/6ChGP2ZHIS0mAWSZspWUZS) | [Treasure](https://open.spotify.com/album/5XF3yEAqhkWP7zw4y0wkKi) | 2:52 | 2022-08-18 | 2022-09-09 |

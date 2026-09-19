@@ -4,7 +4,7 @@
 
 > Piano music for fall vibes and autumnal moods.
 
-561 songs - 1 day 0 hr 23 min
+566 songs - 1 day 0 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -158,7 +158,9 @@
 | [Forever](https://open.spotify.com/track/0PDPU0FvLXuOWRHN0uOV7t) | [Muriel Bardsley](https://open.spotify.com/artist/1Lzqsd4iWBfVbx2AiRP3xu) | [Forever](https://open.spotify.com/album/5JWJdnDPsOuf5aPWpqHIom) | 2:58 | 2023-03-10 | 2024-10-16 |
 | [Forevermore](https://open.spotify.com/track/3Na1QdVT2YRBw9S8RikZzo) | [Vaughn Harrison](https://open.spotify.com/artist/6q83QeDrspxDVTOmYMAxS8) | [Forevermore](https://open.spotify.com/album/3Iw5GGcBOH38MN5KwB98p4) | 2:25 | 2023-09-26 |  |
 | [Forgive Us](https://open.spotify.com/track/7pIprvHSIi4bZiFGc6xf5p) | [Signe Bratlie](https://open.spotify.com/artist/61VEtQG9UwPF5V01eRmZWi) | [Forgive Us](https://open.spotify.com/album/2g5Cpml6zGcLEEZweDWEc5) | 3:32 | 2023-03-10 | 2024-04-10 |
+| [Forgotten Dreams](https://open.spotify.com/track/2QJzMjMBREUHQpX3t0VzTZ) | [Anselm Grey](https://open.spotify.com/artist/2I4PIUpe16abRASGdiUai6) | [Forgotten Dreams](https://open.spotify.com/album/6cOqLxWJgaTudS1RtCsoRp) | 2:17 | 2026-09-18 |  |
 | [Fóra](https://open.spotify.com/track/6ZpsiNnK2yPcigPrtScGHG) | [Eu Nice](https://open.spotify.com/artist/75N5zJx3aWG7AwsJmb08sK) | [Fóra](https://open.spotify.com/album/5fsRgzEKg3LSht3LtDXJWI) | 2:14 | 2023-03-10 | 2023-09-28 |
+| [Free Spirit](https://open.spotify.com/track/2dEccAScbDDWh3cqfpy6tz) | [Thiago Izan](https://open.spotify.com/artist/0Q0myhwEBVvGaX7xTOpAyt) | [Free Spirit](https://open.spotify.com/album/6JAtzQkIz9U7H7sMIztDCs) | 2:45 | 2026-09-18 |  |
 | [From a Distance](https://open.spotify.com/track/7DSAwNkmall9lAltVsoWFw) | [Mindy Thurma](https://open.spotify.com/artist/6EGDXCYZx9z4BxMPCvU7ui) | [From a Distance](https://open.spotify.com/album/7joeG2oftim1xUZGqznAxa) | 2:27 | 2025-08-05 |  |
 | [Frühling](https://open.spotify.com/track/7ErgLiOGpIPutE9A7jXmEf) | [Auguste Blanc](https://open.spotify.com/artist/5nVYmZntdGuW8hqgifpxMe) | [Frühling](https://open.spotify.com/album/6XqCHvckzJbuOj22CTkcAb) | 2:19 | 2023-03-10 |  |
 | [Funiculaire](https://open.spotify.com/track/3PWqflZ9qblrg35dSnjOgQ) | [Justine Nova](https://open.spotify.com/artist/0Y1bmDsIuIU9QJqlcoy8o6) | [Funiculaire](https://open.spotify.com/album/4aX83tv3HrXYAhkuHZj44i) | 2:50 | 2023-03-10 | 2024-10-02 |
@@ -384,6 +386,7 @@
 | [Pécs](https://open.spotify.com/track/5V38Yb2mGq3AgKwh5WA49i) | [Pataki Gisella](https://open.spotify.com/artist/7ylwShecuuRLzZP81XRqzC) | [Pécs](https://open.spotify.com/album/6V5jrMp0lHNVOqmspzTaOg) | 2:03 | 2023-03-10 |  |
 | [Qui n’avance pas, recule](https://open.spotify.com/track/1YaEv0xPN2bAKWKZiNuDb8) | [Élise Aucoin](https://open.spotify.com/artist/5cJiC80CILVJGun9PVO1mX) | [Qui n’avance pas, recule](https://open.spotify.com/album/5vpl1HMLV5c5bYhy4sbIhU) | 2:20 | 2023-03-10 | 2024-03-26 |
 | [Qui vivra verra](https://open.spotify.com/track/2jOawh03Qd5vi7sFRsvXRd) | [Michael Brogadaccio](https://open.spotify.com/artist/6ZqnKTqzs5B9g2K68OCKVo) | [Qui vivra verra](https://open.spotify.com/album/6950UP041DVdTcDYmBOhKd) | 2:13 | 2023-03-10 | 2024-04-04 |
+| [Quiescence](https://open.spotify.com/track/3TVJ6saUoVBh9Ltrob3qzy) | [Gabriela Ohm](https://open.spotify.com/artist/3UvBxuvjgjOfzdIM84Pm2g) | [Quiescence](https://open.spotify.com/album/5WUcVO8qaropiO4GrClY5Z) | 2:21 | 2026-09-18 |  |
 | [Quiet Steps](https://open.spotify.com/track/7hYeMmEdabacQXrhNvnJJK) | [Mírabilis](https://open.spotify.com/artist/11nkqtBGx6kKdNeaT2hQYD) | [Quiet Steps](https://open.spotify.com/album/5MvMdWhiBnZj815YxnQvqP) | 2:46 | 2025-11-05 |  |
 | [Quieta](https://open.spotify.com/track/7krJMuarlF8bRWtSynEsTY) | [Gioia Moreschi](https://open.spotify.com/artist/1of4wsX19bjyw0CH1g5miH) | [Quieta](https://open.spotify.com/album/6qtAC4ioQYFYJdrcmEahQk) | 2:43 | 2023-03-10 | 2024-04-10 |
 | [Raconteur](https://open.spotify.com/track/6a2LtHG5EH3GSjkkFVFFNK) | [Dean Demir](https://open.spotify.com/artist/434a1xYHmz2z0QvE2jYzmX) | [Raconteur](https://open.spotify.com/album/10dbGhnBgOPijndMSd2f2T) | 1:47 | 2023-03-10 | 2023-10-11 |
@@ -451,6 +454,7 @@
 | [Stay The Night](https://open.spotify.com/track/5GuS3tJuRwbdNObPdCEVfI) | [Comet Blue](https://open.spotify.com/artist/27DGFhdWUeudNFbPJROkWF) | [Stay The Night](https://open.spotify.com/album/4vYZPIYks7WPspZHdcwvdG) | 2:02 | 2023-03-10 | 2024-04-10 |
 | [Still Learning](https://open.spotify.com/track/26w3iwMrx0lGz6z0GxRrag) | [Adrián Úlfur](https://open.spotify.com/artist/6Ei452Lp70QGEgTKGcAqUw) | [Still Learning](https://open.spotify.com/album/1Mffxx3WlFQtHRdWQWBG2F) | 2:22 | 2025-08-05 |  |
 | [Still Water](https://open.spotify.com/track/63KkU73FviWsVToFs1LYRI) | [Dexter Osborne](https://open.spotify.com/artist/2qw3ztTjf7LHNKoTNvij4q) | [Still Water](https://open.spotify.com/album/0mgSTKjCwRcraBkXmIBteu) | 2:45 | 2023-03-10 | 2024-10-22 |
+| [Stillfield](https://open.spotify.com/track/11712jV6lIVq0GtsYzAr9w) | [Erastox](https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd) | [Stillfield](https://open.spotify.com/album/5ANQcPCYcmAPBI9RSNYdyi) | 2:13 | 2026-09-18 |  |
 | [stronger together](https://open.spotify.com/track/0dHaNi8L1XuvDKxx1V7DFB) | [Hugo Vanbrooke](https://open.spotify.com/artist/603KQbHhLmVWbfPS6b35nH) | [stronger together](https://open.spotify.com/album/4cZONgeWlwzM2AXEWij9ai) | 2:21 | 2023-03-10 | 2024-04-04 |
 | [Sunday Walk](https://open.spotify.com/track/16weBcKoT5JR4PjgFywQPO) | [Adam Gallo](https://open.spotify.com/artist/48kyKKrYpWSiNSEyGXmCfo) | [Sunday Walk](https://open.spotify.com/album/1BYrkKeypnXI3MzODZaSZC) | 2:22 | 2023-03-10 | 2025-08-13 |
 | [Sunset Reverie](https://open.spotify.com/track/4WGJn1hvlk6Gq8dBeiAPQx) | [Maryam Lowell](https://open.spotify.com/artist/2ALs4HgT2kgE6ktEh1XBXP) | [Sunset Reverie](https://open.spotify.com/album/4Pk1jFOvYug2gsIt27KY46) | 2:49 | 2026-08-14 |  |
@@ -525,6 +529,7 @@
 | [Vento leggero](https://open.spotify.com/track/6ksVNrLijeVZjx4zmWKzQQ) | [Aglisia](https://open.spotify.com/artist/1wkWfJO2iWD4TL4tCag8Sh) | [Vento leggero](https://open.spotify.com/album/36CdDJmXetrsM84GKsQGwB) | 3:00 | 2023-03-10 | 2026-07-25 |
 | [Views Of Nature](https://open.spotify.com/track/6QjDVuX5ufvEQZfo5gmBKi) | [Tiphaine Calvet](https://open.spotify.com/artist/1242qzkR8hc2Hv5AdHpiIU) | [Views Of Nature](https://open.spotify.com/album/5Xb5hY2GNbjDB6RGVD64kl) | 2:18 | 2023-03-10 | 2025-08-13 |
 | [Viklau](https://open.spotify.com/track/4CFzH8jRqwNIYIRBv8Bkwk) | [Raukar](https://open.spotify.com/artist/3gsSGPxBGQvwSMtMkMoTbE) | [Viklau](https://open.spotify.com/album/03g3D3FtbDm3NEiskGfoSM) | 2:30 | 2023-03-10 | 2024-04-04 |
+| [Visiones](https://open.spotify.com/track/3MJJGq9EcoX3OqDfOA0C7E) | [Simon Strella](https://open.spotify.com/artist/0oUJgwFn9WchGSTdT7ODyZ) | [Visiones](https://open.spotify.com/album/63c6gZWl5THt3BEpssdrKV) | 2:39 | 2026-09-18 |  |
 | [Vole Vers Moi](https://open.spotify.com/track/76tMNpO6rHIMyKu9s4aY55) | [Ferdinand Lapointe](https://open.spotify.com/artist/6MkcHOmde3eMbEykQff35Y) | [Vole Vers Moi](https://open.spotify.com/album/5regfEMlH6n002DCCKrN1H) | 2:38 | 2023-03-10 | 2025-08-13 |
 | [Volga](https://open.spotify.com/track/5GVo7iQPoQUDOX1xUadS1p) | [Ivan Vladusic](https://open.spotify.com/artist/6RIbBV3sHhVlLi2mPPMjbN) | [Volga](https://open.spotify.com/album/4E7hFmTDF1eyBIxdXyREiF) | 2:49 | 2023-03-10 |  |
 | [Voyage mélatonine](https://open.spotify.com/track/1qzF59VZ86OUV11slBwY7J) | [Jordane Tumarinson](https://open.spotify.com/artist/3MmklYESte8IJHUjXEqypw) | [Voyage mélatonine](https://open.spotify.com/album/29ZPBMyCGtYyqXEwiqHj6t) | 2:10 | 2023-03-10 | 2024-03-26 |

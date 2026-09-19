@@ -1,29 +1,13 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 1002398,
+  "num_followers": 1002525,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAC89xaMYXU937JSiQx/xb+L",
+  "snapshot_id": "aqstgAAAAAAN+GbJHcUzCPjiZiM/e1r8",
   "tracks": [
-    {
-      "added_at": null,
-      "album": {
-        "name": "Butterflies",
-        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 193965,
-      "name": "Butterflies",
-      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
-    },
     {
       "added_at": null,
       "album": {
@@ -139,6 +123,22 @@
       "duration_ms": 208080,
       "name": "Weekend (feat. Miguel)",
       "url": "https://open.spotify.com/track/6GnhWMhgJb7uyiiPEiEkDA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Butterflies",
+        "url": "https://open.spotify.com/album/6WxOLlIblUtwDp03fLZBmW"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 193965,
+      "name": "Butterflies",
+      "url": "https://open.spotify.com/track/3lF4ZPLhWIfbiR2G74PGdn"
     },
     {
       "added_at": null,
@@ -259,8 +259,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Watching Movies with the Sound Off",
-        "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
+        "name": "Macadelic",
+        "url": "https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1"
       },
       "artists": [
         {
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 259143,
-      "name": "Objects in the Mirror",
-      "url": "https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr"
+      "duration_ms": 185779,
+      "name": "Thoughts from a Balcony",
+      "url": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
     },
     {
       "added_at": null,
@@ -291,8 +291,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Macadelic",
-        "url": "https://open.spotify.com/album/5uLB6ONw5NOYUNaKlnH7S1"
+        "name": "Watching Movies with the Sound Off",
+        "url": "https://open.spotify.com/album/4iwdNpYgW4MwnJ3q1JZ88U"
       },
       "artists": [
         {
@@ -300,9 +300,9 @@
           "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
         }
       ],
-      "duration_ms": 185779,
-      "name": "Thoughts from a Balcony",
-      "url": "https://open.spotify.com/track/32PXNAUnXYTot2E1qYsTPX"
+      "duration_ms": 259143,
+      "name": "Objects in the Mirror",
+      "url": "https://open.spotify.com/track/4zlfuYV39hjCa5RbgdhVCr"
     },
     {
       "added_at": null,
@@ -843,22 +843,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Buttons",
-        "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 228440,
-      "name": "Buttons",
-      "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Faces",
         "url": "https://open.spotify.com/album/5SKnXCvB4fcGSZu32o3LRY"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 153881,
       "name": "Rain (feat. Vince Staples)",
       "url": "https://open.spotify.com/track/5P4Dow1Jc2NhkknIuPi5Nd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Buttons",
+        "url": "https://open.spotify.com/album/7GrWzoQHbx463gP1E6HFSp"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 228440,
+      "name": "Buttons",
+      "url": "https://open.spotify.com/track/0ZBchpb4CLk5Qqu3895Etp"
     }
   ],
   "unique_name": "This Is Mac Miller",

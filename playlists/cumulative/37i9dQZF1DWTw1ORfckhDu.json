@@ -8515,6 +8515,28 @@
     },
     {
       "album": {
+        "name": "Kaikki Kunnos",
+        "url": "https://open.spotify.com/album/5abijySksPUxJduZAfjEOn"
+      },
+      "artists": [
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        },
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160350,
+      "name": "Kaikki Kunnos",
+      "url": "https://open.spotify.com/track/3lFVihVnqjVOTABmwtnpLs"
+    },
+    {
+      "album": {
         "name": "Kaikki Menee",
         "url": "https://open.spotify.com/album/2UDaUocpTLbju2vmnrBKFs"
       },

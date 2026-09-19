@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-01",
-  "description": "I couldn't help but fall in love again",
+  "description": "It's Meg Ryan season \ud83c\udf42. Cover: When Harry Met Sally",
   "name": "Romcom",
   "tracks": [
     {
@@ -592,7 +592,7 @@
       ],
       "date_added": "2026-03-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 154448,
       "name": "Dinner Party",
       "url": "https://open.spotify.com/track/1EpOBcogQexzXarRTUDlDH"
@@ -1076,7 +1076,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 158200,
       "name": "I Only Want To Be With You",
       "url": "https://open.spotify.com/track/31A3oqQxDLdG9HRx45z62d"
@@ -1238,7 +1238,7 @@
       ],
       "date_added": "2023-09-20",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-28",
+      "date_removed": null,
       "duration_ms": 158226,
       "name": "It Had to Be You (Big Band and Vocals)",
       "url": "https://open.spotify.com/track/58Znl2X9CgsghGUZrkEUr4"
@@ -1624,6 +1624,24 @@
       "duration_ms": 204280,
       "name": "Now I'm In It - Bonus Track",
       "url": "https://open.spotify.com/track/5T8OICEqdqbx8Uz7L5abkH"
+    },
+    {
+      "album": {
+        "name": "Do That Again",
+        "url": "https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219427,
+      "name": "Obsessica",
+      "url": "https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS"
     },
     {
       "album": {

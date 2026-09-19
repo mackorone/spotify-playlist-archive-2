@@ -4,7 +4,7 @@
 
 > Your family can visit all of the animals at the zoo with this fun playlist.
 
-145 songs - 5 hr 7 min
+146 songs - 5 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -96,7 +96,7 @@
 | [Koala](https://open.spotify.com/track/4ePcUtcqfml4OjjA9zHJZS) | [Sumo's World](https://open.spotify.com/artist/19t24iRGa9FboZk5jE6eHq) | [Koala](https://open.spotify.com/album/3tYTzaB6iZN4SsxQAhKnRF) | 2:15 | 2025-06-13 |  |
 | [Leapfrog](https://open.spotify.com/track/4QMVkanQKAjI3tOPsmFD3H) | [Super Simple Songs](https://open.spotify.com/artist/7CdGfkCRgPhElnqy3HPJ4a) | [Leapfrog](https://open.spotify.com/album/0BnVf9zQwzGPsSAzhDKXgY) | 3:40 | 2025-03-14 |  |
 | [Lil' red Rooster](https://open.spotify.com/track/2kqx7Js7xvJNFHABI75LRS) | [Lucky Diaz and the Family Jam Band](https://open.spotify.com/artist/5rsiLbN9VsVXTfgpSGf6po) | [A Potluck](https://open.spotify.com/album/4uBGyDlwFP7tlfLma1DDJk) | 2:49 | 2022-02-01 |  |
-| [Little Sharks](https://open.spotify.com/track/4CXd8asKpF6SGH3qImlZfa) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:44 | 2022-02-01 |  |
+| [Little Sharks](https://open.spotify.com/track/4CXd8asKpF6SGH3qImlZfa) | [Bounce Patrol](https://open.spotify.com/artist/1S9SPfRo9eyxOcyfUGC2Tm) | [Dance Party!](https://open.spotify.com/album/304rgWamJDyKqMD8wDkgUf) | 2:44 | 2022-02-01 | 2026-09-19 |
 | [Mary Had A Little Lamb](https://open.spotify.com/track/0Z96UW7qNqYHaCATMM4jxw) | [Mellodees](https://open.spotify.com/artist/03H3gcpif0GufJE8ybbcpn) | [Kids Songs & Medlees Vol 1](https://open.spotify.com/album/5R4CEWCMgHHEaRkQEiaiRz) | 1:52 | 2022-02-01 |  |
 | [Moles, Hounds, Bears, Bees and Hares](https://open.spotify.com/track/4NbOutBgrVh1rSHfTSYICQ) | [They Might Be Giants](https://open.spotify.com/artist/6zB02lwP6L6ZH32nggQiJT) | [Why?](https://open.spotify.com/album/1UBoqT1cDpYCTyihYnMp5q) | 2:06 | 2022-02-01 |  |
 | [Moles, Hounds, Bears, Bees and Hares](https://open.spotify.com/track/1OKkJX79kSL5RYB0A0c5zi) | [They Might Be Giants \(For Kids\)](https://open.spotify.com/artist/18ZrIxk5cW5C0MEeTeQx7O) | [Why?](https://open.spotify.com/album/0aVBughGBxf0tHkUXg0cwK) | 2:06 | 2022-07-25 | 2024-04-19 |
@@ -125,6 +125,7 @@
 | [Sound Like an Elephant](https://open.spotify.com/track/390cQIHKe5Ufro9sM3TTQ3) | [Juice Box Heroes](https://open.spotify.com/artist/59jD6ZyWCyKIXj7wbUMgZs) | [Loose Tooth](https://open.spotify.com/album/7f8UTUkpTGEZmlYOZLUGk7) | 2:47 | 2022-02-01 | 2026-09-05 |
 | [Spider Monkey](https://open.spotify.com/track/4j5i8MslfFh9gNjniurF34) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0GJyeC8pHZiH1dXQlf3ceh) | 1:02 | 2022-02-01 |  |
 | [Spider Monkey](https://open.spotify.com/track/4mtAzWPx9X4Jm5M2G9GjXM) | [StoryBots](https://open.spotify.com/artist/6N6lLMxDF4as6slJ878Rgg) | [StoryBots Animals](https://open.spotify.com/album/0OdtbuR79Jy940iJuFCKf7) | 1:02 | 2022-07-25 | 2024-04-19 |
+| [Ten Little Monkeys](https://open.spotify.com/track/4NkocnkD7Y6CsLeljnQuWk) | [The Wiggles](https://open.spotify.com/artist/2JY5qzEozvTdogkDTkkOMf) | [Ten Little Monkeys](https://open.spotify.com/album/59ohmDx5eCMOzpgUj9gXpy) | 2:45 | 2026-09-18 |  |
 | [The Ant And The Elephant \- Nursery Rhymes](https://open.spotify.com/track/2HRupRvr6BY4wswlwqLnZK) | [LooLoo Kids](https://open.spotify.com/artist/2njkfzRhOJFKLWFTu8FNWx) | [The Ant And The Elephant \- Nursery Rhymes](https://open.spotify.com/album/2BkyBc4e9VebLWYq2c7BXv) | 2:06 | 2024-05-31 |  |
 | [The Busy Beaver Bop](https://open.spotify.com/track/47FgC7YjxcKOiAkDd01lU1) | [Wonderpop](https://open.spotify.com/artist/7iwQIhCOCbBS67PPd6UI9f) | [Volume 1](https://open.spotify.com/album/6bHKc2iHJjQ2KKDtxNlJcC) | 2:29 | 2022-02-01 |  |
 | [The Elephant](https://open.spotify.com/track/7aFRFQA17hIsuQ18y3cfFy) | [Hooray Kids Songs](https://open.spotify.com/artist/5tNlF8VeieGuXQzqzCU2Gd) | [The Elephant](https://open.spotify.com/album/1qBkdeuJDb3D8VVpeMN3PG) | 1:47 | 2024-03-15 |  |

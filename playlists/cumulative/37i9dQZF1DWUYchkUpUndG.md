@@ -4,7 +4,7 @@
 
 > Discover new christian and gospel music\. Cover: Tim Godfrey
 
-9,064 songs - 28 day 10 hr 3 min
+9,065 songs - 28 day 10 hr 11 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2561,6 +2561,7 @@
 | [God Alone](https://open.spotify.com/track/6a8NzydorMVCGuPtpYHu2x) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [Yusuf Fist](https://open.spotify.com/artist/39r5htdRsiGJajqY6je43G), [Peer Pressure Mcs](https://open.spotify.com/artist/4M8NUKJUbmc9y0j0GRJcXS) | [God Alone](https://open.spotify.com/album/1cx10QcKVdRwnTfkwYM4ha) | 3:00 | 2026-05-22 | 2026-06-12 |
 | [God Alone \- Live](https://open.spotify.com/track/3dWxH0XNHZgC4A8Nbz8n12) | [OMASHINES](https://open.spotify.com/artist/2WPK5MznLVJDeI440TE3QM) | [God Alone \(Live\)](https://open.spotify.com/album/36VZypiP0OK3wfvI60Os0f) | 4:20 | 2026-04-17 | 2026-05-01 |
 | [God be praised](https://open.spotify.com/track/0HOEzKXhsaQP570ZPLkBzd) | [Big\_win](https://open.spotify.com/artist/0UfU8L42bpBy3KMCvwckjU), [Zic Music](https://open.spotify.com/artist/4Lhk9QRuOkcVzs140NrOyu) | [God be praised](https://open.spotify.com/album/46ESEQMJl3m8OjgBTeyUjh) | 1:22 | 2025-08-08 | 2025-08-22 |
+| [God Brought Us This Far !](https://open.spotify.com/track/4Mud8gQ3gI7CYHcNn3NaBW) | [Victoria Orenze](https://open.spotify.com/artist/4NS4onS3tvVfCJk2sJ7vso), [Princess Ubabudike](https://open.spotify.com/artist/0rJ1gAFLYevPLRdAy2CyXl) | [Just Believe](https://open.spotify.com/album/6lRddqfhBJ5jtzhctqlaAw) | 7:48 | 2026-09-18 |  |
 | [God Can Be Trusted](https://open.spotify.com/track/5CNicakfagnfTLTLr1Jhnb) | [Sarah Wonders](https://open.spotify.com/artist/2bOXO4BvexpbMOFjEAxddo) | [God Can Be Trusted](https://open.spotify.com/album/60zpP3RZC41VP5Pdk2FeHq) | 4:35 | 2026-09-04 | 2026-09-11 |
 | [God Dey 2](https://open.spotify.com/track/4vsztLGXcb6rntiTMqT0J7) | [Eben](https://open.spotify.com/artist/5vJ3Jo3CZKmiYSUDdm6lpm), [Gospel Force](https://open.spotify.com/artist/00M1UkoSlitGAaMN2ng5kh) | [God Dey 2](https://open.spotify.com/album/5DLvmyPdGCBK9MSTEm0yTR) | 7:12 | 2026-03-27 | 2026-04-10 |
 | [God Did It](https://open.spotify.com/track/7pVIeCpV1hDZ6wTH8u8ii9) | [Limoblaze](https://open.spotify.com/artist/0liXA3xwx6pncxYQA30ahT) | [God Did It](https://open.spotify.com/album/6dRajCOUZ0LMTdmAlRRTbJ) | 2:39 | 2026-01-16 | 2026-01-30 |

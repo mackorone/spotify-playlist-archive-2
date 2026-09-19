@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 
 > The best new music from independent faith\-based artists every Wednesday! Cover: Tianna
 
-[Spotify](https://open.spotify.com/user/spotify) - 61,646 likes - 82 songs - 4 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 61,679 likes - 82 songs - 4 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -91,4 +91,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82qPOvdCxxq.md) - [plain]
 | 81 | [Me Enseñas a Amar](https://open.spotify.com/track/4oIUTjS0XEVgW8P0vJM5Ck) | [Ailén López](https://open.spotify.com/artist/59oYw9CWDCrrPPCfMSpFgV), [Jonatan Narváez](https://open.spotify.com/artist/6zExHD2vcmZruZAiO6YvcY) | [Me Enseñas a Amar](https://open.spotify.com/album/7u1tts7iK8wMtEX60g3p00) | 3:20 |
 | 82 | [Paradise](https://open.spotify.com/track/7C4vjMINogbg9sheE6l9yP) | [Yoni](https://open.spotify.com/artist/3aWA2r7FGNXy0ZIPMxZhtD), [Josh P](https://open.spotify.com/artist/3f03K9zrGM5kfeNwj57OYJ) | [Paradise](https://open.spotify.com/album/6YVXd4xzTlIImOVOmHhciY) | 2:09 |
 
-Snapshot ID: `AAAAAC/sxLEIgIN+WKDSe8vlA3gbJt5c`
+Snapshot ID: `AAAAAGNxySAEGNlLBMmpTH/E4Czw0bkF`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Sep 19th \(Sat\), 20th \(Sun\) @ INSPIRE Arena, Incheon
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,381 likes - 20 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,397 likes - 20 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,4 +29,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 | 19 | [napori](https://open.spotify.com/track/7hDX39mc6Uf6zp8RXYUQ6d) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [strobo](https://open.spotify.com/album/4gsij82NzREEwKhC0dTvHE) | 3:23 |
 | 20 | [そんなbitterな話](https://open.spotify.com/track/4DmmljTCS4ViQRSLCiMnOt) | [Vaundy](https://open.spotify.com/artist/2IUl3m1H1EQ7QfNbNWvgru) | [replica](https://open.spotify.com/album/4LWbfv8uvEF3oz7YBFxmzn) | 4:36 |
 
-Snapshot ID: `AAAAAB4Ew3k4NV6iSrEb3fnGx4llLxSi`
+Snapshot ID: `AAAAACbHpJ1ci8HpuWmEp4I/XYiiQ6tE`

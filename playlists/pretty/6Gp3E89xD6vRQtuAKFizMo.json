@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Steve Aoki\u2019s Dim Mak Records, updated every week!",
-  "num_followers": 43272,
+  "num_followers": 43271,
   "original_name": "DIM MAK: IN ROTATION",
   "owner": {
     "name": "Dim Mak Records",
     "url": "https://open.spotify.com/user/dimmakrecords"
   },
-  "snapshot_id": "AAAa1wpyRoYkPM0adTHpMyM0IXhAcaSz",
+  "snapshot_id": "AAAa2QWDWrJaeMzgE5+SRP2iHt4xkfAQ",
   "tracks": [
+    {
+      "added_at": "2026-09-18 05:55:04",
+      "album": {
+        "name": "I'm About It",
+        "url": "https://open.spotify.com/album/4J2DnDIkzIzFMjeHwMzM9F"
+      },
+      "artists": [
+        {
+          "name": "Beachcrimes",
+          "url": "https://open.spotify.com/artist/5xWycgZa4Oul2kU6o1QVo7"
+        }
+      ],
+      "duration_ms": 130036,
+      "name": "I'm About It",
+      "url": "https://open.spotify.com/track/3FrsCXsEbqu2XVg22oKWCR"
+    },
     {
       "added_at": "2026-09-04 17:48:48",
       "album": {

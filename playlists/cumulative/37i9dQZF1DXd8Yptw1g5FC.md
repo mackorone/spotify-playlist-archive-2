@@ -4,7 +4,7 @@
 
 > Umur Doma ve haftanın en iyi çıkışları!
 
-9,926 songs - 21 day 4 hr 2 min
+9,928 songs - 21 day 4 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1400,6 +1400,7 @@
 | [Bi' Sen Eksiksin](https://open.spotify.com/track/3d2txFMBNzGDgtijG5I6Fe) | [Doğukan Dalgeç](https://open.spotify.com/artist/6TMyVGUsPEmBuHsOiVgZhh) | [Bi' Sen Eksiksin](https://open.spotify.com/album/4yQBwCDVSrrZZ8I24GJnfp) | 3:22 | 2026-09-03 | 2026-09-11 |
 | [Bi' Sözüne Bakar](https://open.spotify.com/track/6jnr84TndhjDVJkH5ARIWU) | [mojave](https://open.spotify.com/artist/0n5xSieOLh8rvV2SxiZE6p) | [Kandırma Kendini](https://open.spotify.com/album/7DOsM34SYrmiYReSmJdGgM) | 3:06 | 2025-05-08 | 2025-05-16 |
 | [Bi' Tek Seni Kaldırmıyor Kafam](https://open.spotify.com/track/2cumKOyGpdykdsXRj5pzTQ) | [Pois](https://open.spotify.com/artist/4L8MaBqZeGyW9ZP7QaH6r8) | [Bi' Tek Seni Kaldırmıyor Kafam](https://open.spotify.com/album/1w2uiKmslTQSKMAdEchkOo) | 2:27 | 2025-09-25 | 2025-10-04 |
+| [Bi' Yer Var](https://open.spotify.com/track/1bzNfOayHUJT8zkltfvw6c) | [Ferman Akgül](https://open.spotify.com/artist/6cBRNsetPDbFYEYfd62XMc) | [Bi' Yer Var](https://open.spotify.com/album/4GjHnPrFnwvcixp4DEGhtt) | 3:04 | 2026-09-18 |  |
 | [Bi' Yere Gider mi Bu Yol](https://open.spotify.com/track/0RipOW3TAZKNODgdtp9LsU) | [Emre Akbay](https://open.spotify.com/artist/2uRkUVohqQRUDARipt4mE0) | [Bi' Yere Gider mi Bu Yol](https://open.spotify.com/album/52ikefDodMcokVJA7VXsBH) | 3:32 | 2025-09-11 | 2025-09-20 |
 | [bi' şans ver](https://open.spotify.com/track/5XAiTHCUzWWQCS6wRwtCXB) | [ilaydá](https://open.spotify.com/artist/1EkNauZuQgPE50N1JJqTy9) | [bi' şans ver](https://open.spotify.com/album/0B0wbGwBtae8VicThYm2yc) | 2:45 | 2026-04-23 | 2026-05-01 |
 | [Bi' Şey Mi Dedin?](https://open.spotify.com/track/4Sn0YqqmO5urI89XjRMFf4) | [Demet Akalın](https://open.spotify.com/artist/1U449OOb70EZlElNjLMwCM) | [Bi' Şey Mi Dedin?](https://open.spotify.com/album/1WYqUROtpwjq0Uy8mpDCIH) | 2:41 | 2026-07-02 | 2026-07-10 |
@@ -6349,6 +6350,7 @@
 | [Not Like That Anymore](https://open.spotify.com/track/6ugu9WpCEHXmns0PiqYTU1) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [Not Like That Anymore](https://open.spotify.com/album/3ff8F0Upi70Lo0i26CYGHn) | 3:22 | 2025-06-19 | 2025-06-27 |
 | [NOT OK](https://open.spotify.com/track/0WvP4Q6ZaNT1tvs8LGrf4f) | [5 Seconds of Summer](https://open.spotify.com/artist/5Rl15oVamLq7FbSb0NNBNy) | [NOT OK](https://open.spotify.com/album/07I0d31GGiQ1uWRCEQdZrm) | 3:26 | 2025-09-25 | 2025-10-04 |
 | [Nothing I Need](https://open.spotify.com/track/2GmkHeyjEPiFvpDXvPNKz4) | [Lord Huron](https://open.spotify.com/artist/6ltzsmQQbmdoHHbLZ4ZN25) | [Nothing I Need](https://open.spotify.com/album/3rjZ98KWpB2yMUuc48qId8) | 3:33 | 2025-03-27 | 2025-04-04 |
+| [Nothing Into Something](https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nothing Into Something](https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH) | 2:21 | 2026-09-17 |  |
 | [Nothing To Say](https://open.spotify.com/track/5EkeyCKqY2VE6JKTSjtXkP) | [Onur Ormen](https://open.spotify.com/artist/45YI93cvo54OYOBHiNI9zL), [Ekin Alkan](https://open.spotify.com/artist/0i4hCPoTk7AFp2i10Qwxud), [Afro Queen](https://open.spotify.com/artist/0iQaClnw8ysyL24QKIeFuT) | [Nothing To Say](https://open.spotify.com/album/2gq2hCYYJ7u9J0IM4ptAR1) | 2:46 | 2025-10-09 | 2025-10-17 |
 | [Notting Hill](https://open.spotify.com/track/30Wb4wrx78MZ8lAXfVb7wk) | [Suki Waterhouse](https://open.spotify.com/artist/5GGJosGMs08YEmKTZJe1fL) | [Loveland](https://open.spotify.com/album/3fnrOzZsn9MnYR5NMVyYv1) | 3:10 | 2026-07-09 | 2026-07-17 |
 | [Noventa \(with J Balvin\)](https://open.spotify.com/track/0QI0JAWUTBJhHq3b4QxeIp) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5) | [Noventa \(with J Balvin\)](https://open.spotify.com/album/3XQBkWFSD3odoEKkMpPrjZ) | 2:26 | 2025-07-03 | 2025-07-11 |
@@ -8050,6 +8052,7 @@
 | [Tane Tane](https://open.spotify.com/track/0vaQeqqDD8f6Bx5IZWg2Ld) | [AYDEED](https://open.spotify.com/artist/0YHObPo0wpyvS1VLHfwuVz) | [\#SOLO](https://open.spotify.com/album/0JZ9dahUOYdeNATgNMLvwS) | 2:40 | 2025-11-13 | 2025-11-21 |
 | [TANIYORLAR İSMİ](https://open.spotify.com/track/1chLrdovCyz1euSshfbFb9) | [Yung Ouzo](https://open.spotify.com/artist/3VooEK5HkkcSc4Tv7FCBzb) | [TANIYORLAR İSMİ](https://open.spotify.com/album/4liNpUIfyijFJW2bQryD15) | 1:23 | 2025-03-13 | 2025-03-21 |
 | [TANK TANK](https://open.spotify.com/track/3IsjT9QiL12hwqFhd5XTJi) | [Batuflex](https://open.spotify.com/artist/15AZJFNrXtIN4Nk8BIOnS2) | [TANK TANK](https://open.spotify.com/album/6kC5tzpLLUrz4ZxcJWIC1f) | 1:47 | 2026-06-04 | 2026-06-12 |
+| [Tanpinar Museum](https://open.spotify.com/track/5Kyr1KYjLY2tq2GmN93Zp7) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Beyond Walls / Istanbul](https://open.spotify.com/album/05D1Ir0QCHnvMSGc2Otz9t) | 4:20 | 2026-09-17 |  |
 | [Tanrı Misafiri](https://open.spotify.com/track/4spDNDGNgYSCnk33iNhn0j) | [Ebru Gündeş](https://open.spotify.com/artist/5AboYJAlMb9FGadTTDKRoN) | [Tanrı Misafiri](https://open.spotify.com/album/1s1zNQla1yiG88a765Xqaa) | 3:43 | 2025-10-16 | 2025-10-24 |
 | [Tanrı Şahidim](https://open.spotify.com/track/05iZG2c93wgIZd3LSr6fl6) | [Bekom](https://open.spotify.com/artist/33KqRi2o4xMGCEGhC2BNBy), [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE) | [Tanrı Şahidim](https://open.spotify.com/album/0wrOprvdXYjaHSsy6GhIvK) | 2:12 | 2026-03-26 | 2026-04-03 |
 | [Tanrı'dan Diledim](https://open.spotify.com/track/0EKaLYsXdhIR9SKq9Fk0KR) | [Volkan Koşar](https://open.spotify.com/artist/1vUqL89uShDw2aH6XjAHvE) | [Tanrı'dan Diledim](https://open.spotify.com/album/6Utl21mCgfQUxbfLsJ7WUV) | 3:30 | 2026-04-02 | 2026-04-10 |
@@ -8300,7 +8303,6 @@
 | [Toydum](https://open.spotify.com/track/6kcwVqUax4S8GJ4FJy2t40) | [Seda Eylül Tansık](https://open.spotify.com/artist/3QoWho8rukGcCzeQEPuZud), [Tan Taşçı](https://open.spotify.com/artist/2rNgr1pkSDfxQTYhqCT45D) | [Toydum](https://open.spotify.com/album/1Py2kc9VYdxVp7WmHodxzq) | 3:40 | 2025-06-12 | 2025-06-20 |
 | [Toz Pembe](https://open.spotify.com/track/24CSPGkF9QB1zW07dgtZhr) | [manifest](https://open.spotify.com/artist/2WjzL05RyqIk5n53sZc9nf) | [Toz Pembe](https://open.spotify.com/album/5n0QmoUBEvSyIjDTwe4670) | 2:40 | 2026-07-02 | 2026-07-10 |
 | [TOZPEMBE](https://open.spotify.com/track/4OgyM015xx4c2NECTQlND2) | [Doğukan Sarıtaş](https://open.spotify.com/artist/530b8gZ5AZjVYeJwQGdSeC) | [TOZPEMBE](https://open.spotify.com/album/6kUsjDLFky1XSIs2PefSyQ) | 2:18 | 2025-10-30 | 2025-11-07 |
-| [Track 4](https://open.spotify.com/track/5Kyr1KYjLY2tq2GmN93Zp7) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Beyond Walls / Istanbul](https://open.spotify.com/album/05D1Ir0QCHnvMSGc2Otz9t) | 0:00 | 2026-09-17 |  |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [Trafo](https://open.spotify.com/track/1UqEriTZm9GOREm4lZUcTF) | [Kamufle](https://open.spotify.com/artist/0JnDkp29FlLpGwsnub400t), [Çağrı Sinci](https://open.spotify.com/artist/32d21ZV2sLX2sGdjefVMJg), [Ali Ece](https://open.spotify.com/artist/2SzYIeKDEwpMoQzKH5InmK) | [Trafo](https://open.spotify.com/album/3fyKbclKoyHYRSGcknCy81) | 3:23 | 2026-06-11 | 2026-06-19 |
 | [Trance \(Walk It Down\)](https://open.spotify.com/track/5ck9rwhmS6seQ4JrJ3SSfw) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5) | [Trance \(Walk It Down\)](https://open.spotify.com/album/2dGQureZSUxAaz2hRPDV40) | 2:41 | 2026-08-13 | 2026-08-21 |

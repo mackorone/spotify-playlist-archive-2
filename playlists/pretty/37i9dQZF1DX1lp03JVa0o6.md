@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 
 > Today's biggest dance hits! Cover: Troye Sivan
 
-[Spotify](https://open.spotify.com/user/spotify) - 450,327 likes - 75 songs - 4 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 450,303 likes - 75 songs - 4 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lp03JVa0o6.md) - [plain]
 | 74 | [Love Is Kind](https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love Is Kind](https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU) | 4:07 |
 | 75 | [Champagne](https://open.spotify.com/track/0mkQ0izYmDZUE5JuAPfmfh) | [POOLCLVB](https://open.spotify.com/artist/2YuGcy0A3VKg9jRbadzoJL), [LUPO.THEBOY](https://open.spotify.com/artist/1syxKeEMdMzXsF2Cq6v62w) | [Champagne](https://open.spotify.com/album/3s8sK4o6jwSbPGtm6mRJ9g) | 3:44 |
 
-Snapshot ID: `AAAAAFQYTVawgHVOkQBhM661Zejahn+c`
+Snapshot ID: `AAAAAHscnC7l5ZONZrNinORZyiTOkoih`

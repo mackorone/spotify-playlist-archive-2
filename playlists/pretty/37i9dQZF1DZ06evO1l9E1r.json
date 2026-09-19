@@ -1,12 +1,12 @@
 {
   "description": "This is Hildur Gu\u00f0nad\u00f3ttir. The essential tracks, all in one playlist.",
-  "num_followers": 3478,
+  "num_followers": 3479,
   "original_name": "This Is Hildur Gu\u00f0nad\u00f3ttir",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAADPOhNvbP1broEgav9+y6dz",
+  "snapshot_id": "aqstgAAAAACs6ki9SDFlDNasR7HPQYsM",
   "tracks": [
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "F\u00f3lk f\u00e6r andlit",
-        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 313150,
-      "name": "F\u00f3lk f\u00e6r andlit",
-      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Gu\u00f0nad\u00f3ttir: Elevation (Version for Orchestra)",
         "url": "https://open.spotify.com/album/3Xh1X8BT1i2wY8gEXPiHQj"
       },
@@ -399,6 +383,22 @@
       "duration_ms": 571120,
       "name": "Elevation (Version for Orchestra)",
       "url": "https://open.spotify.com/track/6h8idRwWVrhIVGoqAnj2pd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F\u00f3lk f\u00e6r andlit",
+        "url": "https://open.spotify.com/album/40ytPe4LS1xYL5G4TLuaWl"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 313150,
+      "name": "F\u00f3lk f\u00e6r andlit",
+      "url": "https://open.spotify.com/track/5dYv0usr2tUu6HufKzcxio"
     },
     {
       "added_at": null,
@@ -687,18 +687,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
+        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        },
+        {
+          "name": "J\u00f3hann J\u00f3hannsson",
+          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 383266,
-      "name": "The Bone Temple",
-      "url": "https://open.spotify.com/track/3RDfAFQg0yoOjIlUx6l95y"
+      "duration_ms": 216706,
+      "name": "Messiah",
+      "url": "https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF"
     },
     {
       "added_at": null,
@@ -712,9 +716,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 184180,
-      "name": "Melody of Not Knowing",
-      "url": "https://open.spotify.com/track/7DBduWe8f8VWxrIPsfYeGC"
+      "duration_ms": 192559,
+      "name": "Over There",
+      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
     },
     {
       "added_at": null,
@@ -787,6 +791,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 383266,
+      "name": "The Bone Temple",
+      "url": "https://open.spotify.com/track/3RDfAFQg0yoOjIlUx6l95y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Where to From",
+        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
+      },
+      "artists": [
+        {
+          "name": "Hildur Gu\u00f0nad\u00f3ttir",
+          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
+        }
+      ],
+      "duration_ms": 184180,
+      "name": "Melody of Not Knowing",
+      "url": "https://open.spotify.com/track/7DBduWe8f8VWxrIPsfYeGC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Without Sinking",
         "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
@@ -811,38 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Where to From",
-        "url": "https://open.spotify.com/album/5apo0PKU6YJutGgAfRjKTa"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 192559,
-      "name": "Over There",
-      "url": "https://open.spotify.com/track/0pGs9W5XnvyF1AdxRpxD90"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
-      },
-      "artists": [
-        {
-          "name": "Hildur Gu\u00f0nad\u00f3ttir",
-          "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        }
-      ],
-      "duration_ms": 195302,
-      "name": "Moon",
-      "url": "https://open.spotify.com/track/7IiCY7BuSZN8p2BxauLjZG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Women Talking (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2szCjAfILlWcqeExhJcMLX"
       },
@@ -859,22 +863,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mary Magdalene (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5WqyklnAAPQqTO7NmX7XD0"
+        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
       },
       "artists": [
         {
           "name": "Hildur Gu\u00f0nad\u00f3ttir",
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
-        },
-        {
-          "name": "J\u00f3hann J\u00f3hannsson",
-          "url": "https://open.spotify.com/artist/3IpQziA6YwD53PQ5xbwgLF"
         }
       ],
-      "duration_ms": 216706,
-      "name": "Messiah",
-      "url": "https://open.spotify.com/track/5wZeVIBFtMbFeD2gScCuxF"
+      "duration_ms": 195302,
+      "name": "Moon",
+      "url": "https://open.spotify.com/track/7IiCY7BuSZN8p2BxauLjZG"
     },
     {
       "added_at": null,
@@ -915,8 +915,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
+        "name": "Without Sinking",
+        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
       },
       "artists": [
         {
@@ -924,9 +924,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 87333,
-      "name": "Bare Bones",
-      "url": "https://open.spotify.com/track/2SeE2w8x2f0KpQNsQpIOpg"
+      "duration_ms": 282732,
+      "name": "Ascent",
+      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
     },
     {
       "added_at": null,
@@ -947,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Without Sinking",
-        "url": "https://open.spotify.com/album/3dhlZW2eiFogQaCNXDaYQQ"
+        "name": "28 Years Later: The Bone Temple (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/5R2yxwksIZvO0H4Pjw3nzy"
       },
       "artists": [
         {
@@ -956,9 +956,9 @@
           "url": "https://open.spotify.com/artist/2lD1D6eEh7xQdBtnl2Ik7Y"
         }
       ],
-      "duration_ms": 282732,
-      "name": "Ascent",
-      "url": "https://open.spotify.com/track/6EDvzKKbYw6eqSQYcWrJI4"
+      "duration_ms": 87333,
+      "name": "Bare Bones",
+      "url": "https://open.spotify.com/track/2SeE2w8x2f0KpQNsQpIOpg"
     },
     {
       "added_at": null,

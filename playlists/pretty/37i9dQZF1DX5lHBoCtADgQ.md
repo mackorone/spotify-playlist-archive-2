@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 
 > Enjoy the folk from Punjab\. Cover: Surinder Kaur
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,411 likes - 50 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,434 likes - 50 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5lHBoCtADgQ.md) - [plain]
 | 49 | [Tumba \- From "Oye Bhole Oye 2"](https://open.spotify.com/track/4CeNeOiRwEmCLhqpbI4LC7) | [Ghaffar Raghi Group](https://open.spotify.com/artist/2Awd2ab1ZKeqyqEbfkesjr), [Jagjeet Sandhu](https://open.spotify.com/artist/5CzdMEOnnrgrcm5p0TOpoW), [Crowny](https://open.spotify.com/artist/1ff7RRGYaqGGsOpUrEm5un) | [Tumba \(From "Oye Bhole Oye 2"\)](https://open.spotify.com/album/35NQ0cze0eagxsZmvIvfo7) | 3:52 |
 | 50 | [Jaago Aaiya](https://open.spotify.com/track/1hZxlzNO0gl0rl300qF7ta) | [Miss Pooja](https://open.spotify.com/artist/0DyXyd0D6fMUsuD6yONANx), [Monewala](https://open.spotify.com/artist/5gwaAQzgAG2J6tg85lWEEe) | [Jaago Aaiya](https://open.spotify.com/album/16frN5B43EYTDx3qby507S) | 4:13 |
 
-Snapshot ID: `AAAAABg2nG8PqfygpyDgp9ZBbNgz2HxI`
+Snapshot ID: `AAAAAA0SzvmUjYRUC7wS90XPCy9pcQFT`

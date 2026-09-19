@@ -4,25 +4,20 @@ pretty - [cumulative](/playlists/cumulative/3PF0U9lqNSODHjJq28lmvA.md) - [plain]
 
 > This playlist highlights new music from independent artists all over the world, distributed by Record Union, updated every Friday 😎
 
-[Record Union](https://open.spotify.com/user/recordunion) - 2,650 likes - 16 songs - 59 min 45 sec
+[Record Union](https://open.spotify.com/user/recordunion) - 2,650 likes - 11 songs - 48 min 55 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [En runda till](https://open.spotify.com/track/63Vt6cNKNZUH1GiN3wqt8v) | [Troublemakers](https://open.spotify.com/artist/1TCOtUmprjwM5jPw5Exicn) | [En runda till](https://open.spotify.com/album/3JluWOmEqkAEGtoKlK1lsz) | 2:27 |
-| 2 | [Inspiration \- Reimagined](https://open.spotify.com/track/0YInaJXbgUsRK4MbH8SVGt) | [loveoleglove](https://open.spotify.com/artist/5M8cwMyfjCKE53X3hdqzB7) | [Inspiration \(Reimagined\)](https://open.spotify.com/album/7zIZZdMpvVPvX0fDNSXgSR) | 5:29 |
-| 3 | [Marias](https://open.spotify.com/track/7FzU1O46cUvVfw5ZYEHa2m) | [Sarahysha](https://open.spotify.com/artist/59xBPauv24zwVxSVnFXi5b) | [SB LAB SP BR](https://open.spotify.com/album/1gUwhIbWfLs9KNGjbhUuWu) | 4:16 |
-| 4 | [Rollercoaster](https://open.spotify.com/track/0igE1V8sPaApHzj9214UPq) | [RLN](https://open.spotify.com/artist/2kyE17EDxSmWGHQcP1X4p9) | [Rollercoaster](https://open.spotify.com/album/6M73t8CmPQLlqvOULx23X8) | 3:01 |
-| 5 | [Touching Fire](https://open.spotify.com/track/56oPIIv6KIQunly2sAoS3E) | [Denny Sandoval](https://open.spotify.com/artist/3EtPD6ch1DkJXYfDbK08lL), [Dennise Gomez](https://open.spotify.com/artist/74IO2sWFG3fSp5V7aDaVfb) | [Touching Fire](https://open.spotify.com/album/4xONMvhTQWgaI0cS7cbTUr) | 3:53 |
-| 6 | [Happy Claire](https://open.spotify.com/track/1kSgIwh17MedEIN9hwBy6i) | [Andre The Sun](https://open.spotify.com/artist/6uXRimFckTsyuyJfH6Kboz) | [Happy Claire](https://open.spotify.com/album/5HswAlam08DFvMwXRrgrYY) | 2:53 |
-| 7 | [Box Full of Flowers](https://open.spotify.com/track/46EBUMI76vJ8jixBykK3bM) | [Not Good Not Bad](https://open.spotify.com/artist/5vru0D3qy9MAFpeAwxG8ui) | [Box Full of Flowers](https://open.spotify.com/album/2ZAd7LdLJ6eUX4VCyZcwfQ) | 3:37 |
-| 8 | [Another Love Song](https://open.spotify.com/track/6v7uaaRkeLDvfIFLkm7ZW8) | [Travelin' Light Band](https://open.spotify.com/artist/2BwlfQnxw2p1tMQFCBQJyT) | [Just A Little Light](https://open.spotify.com/album/6TwM1mtRRHHnszrzH2KQsX) | 4:23 |
-| 9 | [Apologize](https://open.spotify.com/track/5LB80AgHTQT4izBbltEK7Y) | [Lynn](https://open.spotify.com/artist/1GUHB0m4dBshtsVmT3n630) | [Apologize](https://open.spotify.com/album/0mNSKyDvp7LodhxjjaEfH1) | 2:54 |
-| 10 | [Gust of a Wind](https://open.spotify.com/track/2AO0ZvzHiUNCm6NiUfwPVy) | [Björn Tengman](https://open.spotify.com/artist/6riGYJ8t0dmEdJ39hgaT0U) | [Seasons Change](https://open.spotify.com/album/2n1PIswXwnAdFyOMdRxj3L) | 2:10 |
-| 11 | [Book of Love](https://open.spotify.com/track/6wIbC59tS7jjnOmbIr9aVs) | [Why The Hell Knot](https://open.spotify.com/artist/2b5JtPdLt8prXEufNj9aZh) | [Book of Love](https://open.spotify.com/album/54sJtSV7ttuwED65HDpJKn) | 3:26 |
-| 12 | [Mend me](https://open.spotify.com/track/3UivNW3i50NLcfagtxF0Uj) | [Seasonal](https://open.spotify.com/artist/6gQfAHREYa5t3XRhlAlTh4) | [Mend me](https://open.spotify.com/album/0Xt4zfIRD5nrkgyHHthy1H) | 5:48 |
-| 13 | [Min Enda Gud](https://open.spotify.com/track/0s8AleKhrOwcmP7x3ydR51) | [Py Bäckman](https://open.spotify.com/artist/4iYb9WsP5S7klNrPAMgjj3) | [Min Enda Gud](https://open.spotify.com/album/03J5ffKlmXZZd3wpoAMMfD) | 4:09 |
-| 14 | [Sensimillia](https://open.spotify.com/track/56nMQURaKSuhYVfGcYIdON) | [Flacko1](https://open.spotify.com/artist/1YC8O3TVtU1qNjlMYkmOUX) | [Sensimillia](https://open.spotify.com/album/2Lv91R5zqbC6JvuJbp9jve) | 2:52 |
-| 15 | [Summertime in San Diego \- 2026 Remastered](https://open.spotify.com/track/6ufIcZCC0FhV9TBOLVpSno) | [WORLD FORTITUDE PROJECT](https://open.spotify.com/artist/4GLYcLbAMs9LclKRWW5yft) | [SUMMERTIME IN SAN DIEGO \(2026 Remastered\)](https://open.spotify.com/album/2EtHrM6GhbdbQWl7FCVDqx) | 4:04 |
-| 16 | [The dogs are howling](https://open.spotify.com/track/7nMKMk268Ar8putwmalYkt) | [Pothooks & Hangers](https://open.spotify.com/artist/5TtWqtdZfRfSex3z4PWXAZ) | [The dogs are howling](https://open.spotify.com/album/6HhyEsMRsSHEypsuviETgo) | 4:15 |
+| 1 | [This Life](https://open.spotify.com/track/2JuhLjWpYIBYUJsVZIw5Fd) | [SOOTH](https://open.spotify.com/artist/40UUzmCiG8fYTGs8itCcoJ) | [This Life](https://open.spotify.com/album/2hLHmde256SIeTzUv0FrUs) | 3:04 |
+| 2 | [Min spaniel](https://open.spotify.com/track/6Ny8v6nIuakHkCZoxbNG9K) | [Erik Löfmarck](https://open.spotify.com/artist/6yucunkyQD9WOadUmDvAOD) | [Min spaniel](https://open.spotify.com/album/5M4QoChMVMh1NIG9D0oT02) | 3:15 |
+| 3 | [Let It Die](https://open.spotify.com/track/5HoiO6SIw8SwKLL3SWfbh0) | [Absolutely Yours](https://open.spotify.com/artist/7Cm6Z98cAhI70GCdPTEoJu) | [Let It Die](https://open.spotify.com/album/4xDYjABDuNUrAOtOweD5r5) | 3:14 |
+| 4 | [Until It’s Over](https://open.spotify.com/track/47F2e2vhqMQR3MgGWKhzWn) | [JF PUNK](https://open.spotify.com/artist/5Va5Hac9gE20pZ35RNmx4c) | [Loud to Last](https://open.spotify.com/album/64TLr3phZ7n6WU1UQzwGe9) | 3:36 |
+| 5 | [Row](https://open.spotify.com/track/739QcB62pjeN3zOoZBYPEz) | [Malsten](https://open.spotify.com/artist/4DVftI8JqhOqTb7DOMsPNa) | [Row](https://open.spotify.com/album/3zfa3w6hSahtkGHdIXR0p5) | 7:29 |
+| 6 | [Min Pappa](https://open.spotify.com/track/0xGf6FfHFjezrqiIC7Hus3) | [Ulf Krantz](https://open.spotify.com/artist/5XQmWmMR9NHdmYDj5JIR9a) | [Min Pappa](https://open.spotify.com/album/12OTwUsL0BszvoJrcX63yK) | 4:41 |
+| 7 | [Chapter I: The Quiet Collapse](https://open.spotify.com/track/7pvEmf1oQiD5JUxX1qwSNv) | [Shikaka](https://open.spotify.com/artist/7yUZA279bvWY1sqCROVb9Y) | [Chapter I: The Quiet Collapse](https://open.spotify.com/album/1u3OKaNULqzE8gL8gnayGp) | 7:32 |
+| 8 | [Dead City Monkeys](https://open.spotify.com/track/2g8GfWjoa1K5LqgeRU7HWA) | [DeadCityMonkeys](https://open.spotify.com/artist/7xmHTajSoookwtf2x0NOoQ) | [Dead City Monkeys](https://open.spotify.com/album/5aTELpswBgnCIjFT3oLvX7) | 3:53 |
+| 9 | [Lights Above](https://open.spotify.com/track/4KYY91g7RImNah3n2bLjqq) | [Silk Button Butchers](https://open.spotify.com/artist/61bfkB9zBmFzwVvr8wHlbn) | [Lights Above](https://open.spotify.com/album/3Da97WraCgEiMaXMhHBWMK) | 4:24 |
+| 10 | [BUENOS AIRES 2026 \- From "Subway Surfers"](https://open.spotify.com/track/1Vglt25OaeoqtWnmZW9eHD) | [Subway Surfers](https://open.spotify.com/artist/1fqpSvihFqrhpvzrTPrRMQ) | [BUENOS AIRES 2026 \(From "Subway Surfers"\)](https://open.spotify.com/album/1QRhzGBN415fM7Msq1aF5D) | 2:26 |
+| 11 | [Peder Blomqvist](https://open.spotify.com/track/5QiL2994RBrqIEYAQ99N1c) | [Peder Blomqvist](https://open.spotify.com/artist/7zBbaFZFKaioSoQud6YKsi) | [Ge kärleken vingar](https://open.spotify.com/album/5VYr943M5d7qdX3bXaHrP3) | 5:16 |
 
-Snapshot ID: `AAAF/dnOq2VgEDjIYli7jmXWlyy+hi1k`
+Snapshot ID: `AAAF/wul1FBzZCJ/ObleqeoRmxgCy4Qq`

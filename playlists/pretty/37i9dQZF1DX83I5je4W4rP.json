@@ -1,12 +1,12 @@
 {
   "description": "Soak up these laid-back jams. ",
-  "num_followers": 1049199,
+  "num_followers": 1049158,
   "original_name": "Beach Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAG0Si5nzOqiU86IFySVqmLZM4Sfe",
+  "snapshot_id": "AAAAAAB/sq7m0LC0UURLX5kJ0TN57Dzo",
   "tracks": [
     {
       "added_at": "2026-07-17 15:52:29",
@@ -563,6 +563,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "Chapter Of The Forest",
+        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
+      },
+      "artists": [
+        {
+          "name": "Trevor Hall",
+          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
+        }
+      ],
+      "duration_ms": 274632,
+      "name": "Green Mountain State",
+      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Treasure (with Stick Figure)",
         "url": "https://open.spotify.com/album/5xDZR9z2v4V0oLe4DmT2uS"
       },
@@ -579,22 +595,6 @@
       "duration_ms": 202457,
       "name": "Treasure (with Stick Figure)",
       "url": "https://open.spotify.com/track/3fpOS57qm6u5R0Pfi7JkVO"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Chapter Of The Forest",
-        "url": "https://open.spotify.com/album/0Tt5WHP4RdkQemDgD1QItP"
-      },
-      "artists": [
-        {
-          "name": "Trevor Hall",
-          "url": "https://open.spotify.com/artist/3RMHexittaAZkf8zukkZB8"
-        }
-      ],
-      "duration_ms": 274632,
-      "name": "Green Mountain State",
-      "url": "https://open.spotify.com/track/0c7iF5fSBYxCuwsAv2z4iI"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -931,22 +931,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "End of the World (feat. The Movement)",
-        "url": "https://open.spotify.com/album/2LkxZxyQjbfAHRAE2Zi9zw"
+        "name": "Effection",
+        "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
       },
       "artists": [
         {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        },
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
+          "name": "Mihali",
+          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
         }
       ],
-      "duration_ms": 161322,
-      "name": "End of the World (feat. The Movement)",
-      "url": "https://open.spotify.com/track/24JNsqfxVon96kYc44mK70"
+      "duration_ms": 209250,
+      "name": "Digital Heaven",
+      "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -987,34 +983,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Effection",
-        "url": "https://open.spotify.com/album/7DRW2mILmVTbyitwdNBdzU"
+        "name": "End of the World (feat. The Movement)",
+        "url": "https://open.spotify.com/album/2LkxZxyQjbfAHRAE2Zi9zw"
       },
       "artists": [
         {
-          "name": "Mihali",
-          "url": "https://open.spotify.com/artist/1GJKMYNEIsLbRfS3AyS4YV"
-        }
-      ],
-      "duration_ms": 209250,
-      "name": "Digital Heaven",
-      "url": "https://open.spotify.com/track/5V7ge7ltQ3LTUXNNcRVWqw"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Spark Seeker",
-        "url": "https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u"
-      },
-      "artists": [
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        },
         {
-          "name": "Matisyahu",
-          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         }
       ],
-      "duration_ms": 213069,
-      "name": "Sunshine",
-      "url": "https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc"
+      "duration_ms": 161322,
+      "name": "End of the World (feat. The Movement)",
+      "url": "https://open.spotify.com/track/24JNsqfxVon96kYc44mK70"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1035,6 +1019,22 @@
       "duration_ms": 253794,
       "name": "Way of Life (with Slightly Stoopid)",
       "url": "https://open.spotify.com/track/3Ov05KIwJljawDuWbd7oKn"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Spark Seeker",
+        "url": "https://open.spotify.com/album/2dq7y0FKyzr33UBYXZ2g7u"
+      },
+      "artists": [
+        {
+          "name": "Matisyahu",
+          "url": "https://open.spotify.com/artist/5eyMzR1hYiEZtN2c9ly2kw"
+        }
+      ],
+      "duration_ms": 213069,
+      "name": "Sunshine",
+      "url": "https://open.spotify.com/track/1ma4sCjoVMptvilcgJDPGc"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1331,26 +1331,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "First Light",
-        "url": "https://open.spotify.com/album/7dOTvSdY1JYRm9xFn2JBtR"
-      },
-      "artists": [
-        {
-          "name": "Tropidelic",
-          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
-        },
-        {
-          "name": "The Movement",
-          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
-        }
-      ],
-      "duration_ms": 221579,
-      "name": "Signals (with The Movement)",
-      "url": "https://open.spotify.com/track/3MZ9TkiYsHC04grd87lgOv"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Put Down What You Are Carrying (with Brett Dennen)",
         "url": "https://open.spotify.com/album/2lzYJjnD2rPbjMdmBh45KB"
       },
@@ -1371,18 +1351,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Pathways",
-        "url": "https://open.spotify.com/album/42UOYP0oeF3Bb0DwSy1K4N"
+        "name": "First Light",
+        "url": "https://open.spotify.com/album/7dOTvSdY1JYRm9xFn2JBtR"
       },
       "artists": [
         {
-          "name": "Arise Roots",
-          "url": "https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH"
+          "name": "Tropidelic",
+          "url": "https://open.spotify.com/artist/2SGFnb6c73UJd1vT6aGBMl"
+        },
+        {
+          "name": "The Movement",
+          "url": "https://open.spotify.com/artist/1qwdTaVUdjYJLLoxtFmsqr"
         }
       ],
-      "duration_ms": 304192,
-      "name": "If You Let Me",
-      "url": "https://open.spotify.com/track/7FoGBm7WGKpmuL74MB080m"
+      "duration_ms": 221579,
+      "name": "Signals (with The Movement)",
+      "url": "https://open.spotify.com/track/3MZ9TkiYsHC04grd87lgOv"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1399,6 +1383,22 @@
       "duration_ms": 211061,
       "name": "Mexico",
       "url": "https://open.spotify.com/track/7IlH1aO95KHenk0e8kZ6Vc"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Pathways",
+        "url": "https://open.spotify.com/album/42UOYP0oeF3Bb0DwSy1K4N"
+      },
+      "artists": [
+        {
+          "name": "Arise Roots",
+          "url": "https://open.spotify.com/artist/2yPVS2x96IoUdO7t68VUjH"
+        }
+      ],
+      "duration_ms": 304192,
+      "name": "If You Let Me",
+      "url": "https://open.spotify.com/track/7FoGBm7WGKpmuL74MB080m"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Some Say the Ocean",
-        "url": "https://open.spotify.com/album/6AQGebTVJIyQocK20zK6Fd"
-      },
-      "artists": [
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        }
-      ],
-      "duration_ms": 246795,
-      "name": "Some Say the Ocean",
-      "url": "https://open.spotify.com/track/4HjlaIg0PufGB2nDlb8T4d"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Mood Swing",
         "url": "https://open.spotify.com/album/0vu3HrudrHm4M0zMIfAMzY"
       },
@@ -1675,6 +1659,22 @@
       "duration_ms": 206829,
       "name": "Blacklist (with Matisyahu)",
       "url": "https://open.spotify.com/track/0kVOU70xhm28oEWKISQftL"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Some Say the Ocean",
+        "url": "https://open.spotify.com/album/6AQGebTVJIyQocK20zK6Fd"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        }
+      ],
+      "duration_ms": 246795,
+      "name": "Some Say the Ocean",
+      "url": "https://open.spotify.com/track/4HjlaIg0PufGB2nDlb8T4d"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1735,22 +1735,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Some Say the Ocean (Reggae Remix)",
-        "url": "https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju"
-      },
-      "artists": [
-        {
-          "name": "The Hip Abduction",
-          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
-        }
-      ],
-      "duration_ms": 235294,
-      "name": "Some Say the Ocean - Reggae Remix",
-      "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Sunburn (with Tropidelic)",
         "url": "https://open.spotify.com/album/2sN2NookSRzSF05AwPDSEG"
       },
@@ -1767,6 +1751,22 @@
       "duration_ms": 240435,
       "name": "Sunburn (with Tropidelic)",
       "url": "https://open.spotify.com/track/7yBYIzdi8LgDsS0IPHoocx"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Some Say the Ocean (Reggae Remix)",
+        "url": "https://open.spotify.com/album/6TotsVd1L88A9NYkWjfFju"
+      },
+      "artists": [
+        {
+          "name": "The Hip Abduction",
+          "url": "https://open.spotify.com/artist/5V46QXboFTCK5MP40SwVRK"
+        }
+      ],
+      "duration_ms": 235294,
+      "name": "Some Say the Ocean - Reggae Remix",
+      "url": "https://open.spotify.com/track/3oesGsJj1WksLRLhoLVZnh"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1851,6 +1851,30 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "Corona and Lime",
+        "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
+      },
+      "artists": [
+        {
+          "name": "Shwayze",
+          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
+        },
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        }
+      ],
+      "duration_ms": 199600,
+      "name": "Corona and Lime",
+      "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Best Of / 20th Century Masters",
         "url": "https://open.spotify.com/album/1HkG5JC2RNtrBl4Zq97qgA"
       },
@@ -1883,30 +1907,6 @@
       "duration_ms": 220841,
       "name": "Press Remix",
       "url": "https://open.spotify.com/track/5eLpPLRbdtOh7qlCPTaMUS"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Corona and Lime",
-        "url": "https://open.spotify.com/album/0M5MQO3AmOjW8AiHbBa0lH"
-      },
-      "artists": [
-        {
-          "name": "Shwayze",
-          "url": "https://open.spotify.com/artist/6f0hUHWLOCxCSDQMtdVAS7"
-        },
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        }
-      ],
-      "duration_ms": 199600,
-      "name": "Corona and Lime",
-      "url": "https://open.spotify.com/track/4mu0eDIt9weCJ6gG3Lox71"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -1967,6 +1967,26 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "Makai",
+        "url": "https://open.spotify.com/album/4iIZhPokjZV42t4zRl8yo3"
+      },
+      "artists": [
+        {
+          "name": "Pepper",
+          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
+        },
+        {
+          "name": "Edley Shine",
+          "url": "https://open.spotify.com/artist/06JuLnn54mv4EjrICHOHgi"
+        }
+      ],
+      "duration_ms": 269308,
+      "name": "Dancing on the Moon (feat. Edley Shine)",
+      "url": "https://open.spotify.com/track/2dl5nrPMAWkTORDIpyaXLP"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Floating (with Iration & The Elovaters)",
         "url": "https://open.spotify.com/album/4en0kLuoeawmZ9cljwdmPj"
       },
@@ -1987,26 +2007,6 @@
       "duration_ms": 181957,
       "name": "Floating (with Iration & The Elovaters)",
       "url": "https://open.spotify.com/track/4ZArlloxjgaX3vBxYBQVp4"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Makai",
-        "url": "https://open.spotify.com/album/4iIZhPokjZV42t4zRl8yo3"
-      },
-      "artists": [
-        {
-          "name": "Pepper",
-          "url": "https://open.spotify.com/artist/1YK8JdPbiaMSnf4hrlBkGT"
-        },
-        {
-          "name": "Edley Shine",
-          "url": "https://open.spotify.com/artist/06JuLnn54mv4EjrICHOHgi"
-        }
-      ],
-      "duration_ms": 269308,
-      "name": "Dancing on the Moon (feat. Edley Shine)",
-      "url": "https://open.spotify.com/track/2dl5nrPMAWkTORDIpyaXLP"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2055,6 +2055,26 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "Dreamer",
+        "url": "https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5"
+      },
+      "artists": [
+        {
+          "name": "HIRIE",
+          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
+        },
+        {
+          "name": "Slightly Stoopid",
+          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
+        }
+      ],
+      "duration_ms": 143856,
+      "name": "I Like the Way You Roll (feat. Slightly Stoopid)",
+      "url": "https://open.spotify.com/track/2dBQiMLWP9cWCYfwB56YHf"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Yestermorrow",
         "url": "https://open.spotify.com/album/3ZJPrfxfRXqP5UcF3e37pi"
       },
@@ -2095,26 +2115,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Dreamer",
-        "url": "https://open.spotify.com/album/4aEdupGZrAZ3AOtoLIeEr5"
-      },
-      "artists": [
-        {
-          "name": "HIRIE",
-          "url": "https://open.spotify.com/artist/0HYbyzzhI44iTHvYnf1nOs"
-        },
-        {
-          "name": "Slightly Stoopid",
-          "url": "https://open.spotify.com/artist/6MxlVTY6PmY8Nyn16fvxtb"
-        }
-      ],
-      "duration_ms": 143856,
-      "name": "I Like the Way You Roll (feat. Slightly Stoopid)",
-      "url": "https://open.spotify.com/track/2dBQiMLWP9cWCYfwB56YHf"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Tell Me I'm Ok (feat. Jared Watson of Dirty Heads)",
         "url": "https://open.spotify.com/album/592WXDHttlFbqJIpYUbDiK"
       },
@@ -2151,6 +2151,22 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
+        "name": "Endless Summer (Deluxe)",
+        "url": "https://open.spotify.com/album/5fs7OWZ9tOVCiYk1rKf3fv"
+      },
+      "artists": [
+        {
+          "name": "The Elovaters",
+          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
+        }
+      ],
+      "duration_ms": 248317,
+      "name": "Wind On My Back - Endless Summer Edition",
+      "url": "https://open.spotify.com/track/6HQblgVFjC3gIeRmsK1uiX"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
         "name": "Two (with The Hip Abduction)",
         "url": "https://open.spotify.com/album/1aQ2utdXHjEVtHf8C3ff1Z"
       },
@@ -2167,22 +2183,6 @@
       "duration_ms": 213233,
       "name": "Two (with The Hip Abduction)",
       "url": "https://open.spotify.com/track/14Yv4l3SQsgQ1XAcWtP8kw"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
-        "name": "Endless Summer (Deluxe)",
-        "url": "https://open.spotify.com/album/5fs7OWZ9tOVCiYk1rKf3fv"
-      },
-      "artists": [
-        {
-          "name": "The Elovaters",
-          "url": "https://open.spotify.com/artist/2bBTnfGpjGCTRozyAodDa3"
-        }
-      ],
-      "duration_ms": 248317,
-      "name": "Wind On My Back - Endless Summer Edition",
-      "url": "https://open.spotify.com/track/6HQblgVFjC3gIeRmsK1uiX"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2227,6 +2227,26 @@
       "duration_ms": 170348,
       "name": "Slice of Sunshine (with Claire Wright)",
       "url": "https://open.spotify.com/track/6sAf6WUpAcHkqkja62xup4"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "In The LBC (Warren G Remix)",
+        "url": "https://open.spotify.com/album/1blaIeHQWKD8RGYRbOgfRi"
+      },
+      "artists": [
+        {
+          "name": "4th & Orange",
+          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
+        },
+        {
+          "name": "Warren G",
+          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "In The LBC - Warren G Remix",
+      "url": "https://open.spotify.com/track/6kPq6t7eBrc3vmn4TYu76e"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2279,22 +2299,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Barefoot On The Dancefloor",
-        "url": "https://open.spotify.com/album/7AI6eHvi5BfLMG3F42F1Ec"
-      },
-      "artists": [
-        {
-          "name": "Moon Taxi",
-          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
-        }
-      ],
-      "duration_ms": 168650,
-      "name": "Barefoot On The Dancefloor",
-      "url": "https://open.spotify.com/track/66RzQvcgc85TDiMjUrsO2l"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Shwaycation",
         "url": "https://open.spotify.com/album/6UJlSwpYKNIOWwRWIHZopF"
       },
@@ -2311,22 +2315,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "In The LBC (Warren G Remix)",
-        "url": "https://open.spotify.com/album/1blaIeHQWKD8RGYRbOgfRi"
+        "name": "Barefoot On The Dancefloor",
+        "url": "https://open.spotify.com/album/7AI6eHvi5BfLMG3F42F1Ec"
       },
       "artists": [
         {
-          "name": "4th & Orange",
-          "url": "https://open.spotify.com/artist/3ku7StZmU0VzVwq5d9YEXf"
-        },
-        {
-          "name": "Warren G",
-          "url": "https://open.spotify.com/artist/2B4ZHz4QDWJTXPFPgO5peE"
+          "name": "Moon Taxi",
+          "url": "https://open.spotify.com/artist/5DK8eK7fjvRsziXzyr3sFA"
         }
       ],
-      "duration_ms": 195746,
-      "name": "In The LBC - Warren G Remix",
-      "url": "https://open.spotify.com/track/6kPq6t7eBrc3vmn4TYu76e"
+      "duration_ms": 168650,
+      "name": "Barefoot On The Dancefloor",
+      "url": "https://open.spotify.com/track/66RzQvcgc85TDiMjUrsO2l"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2435,22 +2435,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Chestnut Hill",
-        "url": "https://open.spotify.com/album/014DiXDwrBXrLkvpoIrBHS"
-      },
-      "artists": [
-        {
-          "name": "Surfer Girl",
-          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
-        }
-      ],
-      "duration_ms": 175820,
-      "name": "Chestnut Hill",
-      "url": "https://open.spotify.com/track/6Ldq59T2vwWx3MDaYEqv11"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "I OWE THE IRS 60K DOLLARS (DEMOS)",
         "url": "https://open.spotify.com/album/5vZLZlzIIYLoFRTRKHVCod"
       },
@@ -2467,18 +2451,18 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Way Too High for This",
-        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
+        "name": "Chestnut Hill",
+        "url": "https://open.spotify.com/album/014DiXDwrBXrLkvpoIrBHS"
       },
       "artists": [
         {
-          "name": "Kash'd Out",
-          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+          "name": "Surfer Girl",
+          "url": "https://open.spotify.com/artist/4MAUMND3QtgDADiMyBvgbS"
         }
       ],
-      "duration_ms": 227149,
-      "name": "Way Too High for This",
-      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
+      "duration_ms": 175820,
+      "name": "Chestnut Hill",
+      "url": "https://open.spotify.com/track/6Ldq59T2vwWx3MDaYEqv11"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2503,6 +2487,22 @@
       "duration_ms": 125880,
       "name": "Sunshine State of Mind (with Shwayze & sammy rash)",
       "url": "https://open.spotify.com/track/0aUAIqpOHwdUvf6jLvjCjl"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Way Too High for This",
+        "url": "https://open.spotify.com/album/2HIRmyasZR788WZoG0q3Mk"
+      },
+      "artists": [
+        {
+          "name": "Kash'd Out",
+          "url": "https://open.spotify.com/artist/7hZ19Z3zttnwEmwx43fivm"
+        }
+      ],
+      "duration_ms": 227149,
+      "name": "Way Too High for This",
+      "url": "https://open.spotify.com/track/4vAubtm8X6m87tvfvIYrz2"
     },
     {
       "added_at": "2026-07-17 15:52:29",
@@ -2635,26 +2635,6 @@
     {
       "added_at": "2026-07-17 15:52:29",
       "album": {
-        "name": "Catch My Wave",
-        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
-      },
-      "artists": [
-        {
-          "name": "Cisco Adler",
-          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
-        },
-        {
-          "name": "Iration",
-          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
-        }
-      ],
-      "duration_ms": 194386,
-      "name": "Catch My Wave",
-      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
-    },
-    {
-      "added_at": "2026-07-17 15:52:29",
-      "album": {
         "name": "Forward I Will Go",
         "url": "https://open.spotify.com/album/56tMQe3320UxHWkAJdYcNt"
       },
@@ -2671,6 +2651,26 @@
       "duration_ms": 179732,
       "name": "Forward I Will Go",
       "url": "https://open.spotify.com/track/4KrOo78db1JDkVVdVSL0ou"
+    },
+    {
+      "added_at": "2026-07-17 15:52:29",
+      "album": {
+        "name": "Catch My Wave",
+        "url": "https://open.spotify.com/album/6QSZi8vL18DTDQvP3pXrgo"
+      },
+      "artists": [
+        {
+          "name": "Cisco Adler",
+          "url": "https://open.spotify.com/artist/23apFYuBTpFemqLDn8ViLW"
+        },
+        {
+          "name": "Iration",
+          "url": "https://open.spotify.com/artist/0q9lPhJHW5R9J7RXIJRbTk"
+        }
+      ],
+      "duration_ms": 194386,
+      "name": "Catch My Wave",
+      "url": "https://open.spotify.com/track/7k94tKY98gAeq1sTvPPRWW"
     },
     {
       "added_at": "2026-07-17 15:52:29",

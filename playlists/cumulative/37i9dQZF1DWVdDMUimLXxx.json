@@ -1023,6 +1023,24 @@
     },
     {
       "album": {
+        "name": "Nucleus",
+        "url": "https://open.spotify.com/album/6c1OyqBb61Q7fkJe52Ntfz"
+      },
+      "artists": [
+        {
+          "name": "Hampus Naeselius",
+          "url": "https://open.spotify.com/artist/1M3REpihyqFCmBRC9sMzp5"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210875,
+      "name": "Nucleus",
+      "url": "https://open.spotify.com/track/5fCnEBvX1NQbYfmLVqC1Rp"
+    },
+    {
+      "album": {
         "name": "Highland Hymn",
         "url": "https://open.spotify.com/album/6zmxkrUeUrSVtDMqggKDRb"
       },

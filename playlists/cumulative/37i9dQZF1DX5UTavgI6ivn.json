@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-01-13",
-  "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: Luister La Voz y Manuel Turizo\n",
+  "description": "Made pa' perrear, pa' cantar y pa' brindar. Made pa' ac\u00e1 y pa' all\u00e1. Made in Colombia. Foto: Maluma y Shakira\n",
   "name": "Made in Colombia",
   "tracks": [
     {
@@ -454,6 +454,28 @@
       "duration_ms": 187045,
       "name": "Adonay",
       "url": "https://open.spotify.com/track/0iJNLXHRF5egPjYb7vuNIS"
+    },
+    {
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
       "album": {
@@ -918,6 +940,28 @@
       "duration_ms": 242546,
       "name": "Aurora - Remix",
       "url": "https://open.spotify.com/track/7nHtmtk2wtQoRTBA8tEMWy"
+    },
+    {
+      "album": {
+        "name": "Aviona",
+        "url": "https://open.spotify.com/album/0OuOxijE7o3dXj1cTAYdsv"
+      },
+      "artists": [
+        {
+          "name": "Juan Duque",
+          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+        },
+        {
+          "name": "DFZM",
+          "url": "https://open.spotify.com/artist/6ndLrsgT3MV5CNxIrW71fw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151016,
+      "name": "Aviona",
+      "url": "https://open.spotify.com/track/32nZKAfw3w29hqZDZYlM9T"
     },
     {
       "album": {
@@ -2110,6 +2154,24 @@
       "duration_ms": 189208,
       "name": "Como Si Nada",
       "url": "https://open.spotify.com/track/6fxct5RZKGNgRMcXULezMW"
+    },
+    {
+      "album": {
+        "name": "COMPA COLETO (uy_como)",
+        "url": "https://open.spotify.com/album/3B6XXYP4ZsUus3dWtjvcch"
+      },
+      "artists": [
+        {
+          "name": "ARIA VEGA",
+          "url": "https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200653,
+      "name": "COMPA COLETO (uy_como)",
+      "url": "https://open.spotify.com/track/5bZBRfGoUy5rizZGyjj6NR"
     },
     {
       "album": {
@@ -4469,6 +4531,32 @@
     },
     {
       "album": {
+        "name": "GALACTICOS",
+        "url": "https://open.spotify.com/album/7t4LzFoWtMFyPj6SiReWoU"
+      },
+      "artists": [
+        {
+          "name": "El Goldo",
+          "url": "https://open.spotify.com/artist/2Uz6P0j7gDmtKVIFbPrOvt"
+        },
+        {
+          "name": "Bigg Danny",
+          "url": "https://open.spotify.com/artist/0Rau977tAQyDpdkK7LMWqI"
+        },
+        {
+          "name": "El Americano 4KT",
+          "url": "https://open.spotify.com/artist/7JGdIwHe5RyFZvLEuRdR7N"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139805,
+      "name": "GALACTICOS",
+      "url": "https://open.spotify.com/track/2d2jqLlDPOx4z1Ff1tlM2E"
+    },
+    {
+      "album": {
         "name": "EL TRAP DE KOLOMBIA",
         "url": "https://open.spotify.com/album/6md4LMWhSDKqVXhkXKGzmU"
       },
@@ -4568,6 +4656,44 @@
       "duration_ms": 235880,
       "name": "Ganas Locas",
       "url": "https://open.spotify.com/track/0rS9kk4bI8tM044NB1Oh0b"
+    },
+    {
+      "album": {
+        "name": "GANAS REMIXXX (feat. De La Rose, Blessd)",
+        "url": "https://open.spotify.com/album/5j9jw0AIRC6f0NjJWRdDMi"
+      },
+      "artists": [
+        {
+          "name": "Kris R.",
+          "url": "https://open.spotify.com/artist/3i6lAgVHplDXb6zrjIeBeK"
+        },
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Clarent",
+          "url": "https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY"
+        },
+        {
+          "name": "Luar La L",
+          "url": "https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY"
+        },
+        {
+          "name": "Blessd",
+          "url": "https://open.spotify.com/artist/1TA5sGRlKUJXBN4ZyJuDIX"
+        },
+        {
+          "name": "De La Rose",
+          "url": "https://open.spotify.com/artist/54seKvtsZauR1iauN0ptpo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 481955,
+      "name": "GANAS REMIXXX (feat. De La Rose, Blessd)",
+      "url": "https://open.spotify.com/track/55knkuzL7hByREAumJcj3q"
     },
     {
       "album": {
@@ -4748,7 +4874,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 152000,
       "name": "Griselda",
       "url": "https://open.spotify.com/track/3fzvYTofpMbOVEv7EC0gZX"
@@ -5584,7 +5710,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-28",
+      "date_removed": null,
       "duration_ms": 218755,
       "name": "La Mar\u00eda",
       "url": "https://open.spotify.com/track/2dbbYIXYJQzJoUoOl6i0LY"
@@ -9022,7 +9148,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 202803,
       "name": "Pico Y Chao (W Sound 08)",
       "url": "https://open.spotify.com/track/73PS9sOst7Jwxn95n0AlBS"
@@ -9374,7 +9500,7 @@
       ],
       "date_added": "2026-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 186666,
       "name": "PROV\u00d3CATE",
       "url": "https://open.spotify.com/track/0dpV9WOqhZJqoFQDD9d9Eu"
@@ -9498,7 +9624,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 169266,
       "name": "Que vuelta vox",
       "url": "https://open.spotify.com/track/50QNXm5mb1sUNhI4iTSzl9"
@@ -10120,6 +10246,32 @@
       "duration_ms": 225373,
       "name": "SE ME OLVIDA",
       "url": "https://open.spotify.com/track/2gmd7lY3QSzLh0xIY4cRvi"
+    },
+    {
+      "album": {
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        },
+        {
+          "name": "Divino",
+          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
+        },
+        {
+          "name": "Baby Ranks",
+          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208168,
+      "name": "SE PUSO FEO",
+      "url": "https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y"
     },
     {
       "album": {
@@ -11010,7 +11162,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 194685,
       "name": "SUPERSTAR",
       "url": "https://open.spotify.com/track/7rbUoVsxRtX2t5nzXhJcX0"
@@ -11634,7 +11786,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 138994,
       "name": "TOTOTO (+4)",
       "url": "https://open.spotify.com/track/6M10I5lksIvZG7a87D5Qhm"
@@ -11784,7 +11936,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 235714,
       "name": "Tu recuerdo",
       "url": "https://open.spotify.com/track/1RqUyxhNCRqfXOzA2Z2NEf"

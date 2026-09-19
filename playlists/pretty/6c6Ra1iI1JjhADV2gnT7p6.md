@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,574 likes - 1,793 songs - 4 day 3 hr 59 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,581 likes - 1,793 songs - 4 day 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -281,12 +281,12 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 271 | [All alone on heaven's floor](https://open.spotify.com/track/5eTd1vcWWqYkRP76JopriN) | [O Slow](https://open.spotify.com/artist/0ijd9yK1L498sGUvOmv4KA) | [Antenna](https://open.spotify.com/album/6w6MOXDyTOEjXYheasQk5v) | 3:29 |
 | 272 | [Facing the Past \(with you\)](https://open.spotify.com/track/3E056hiQbuvO8VFUc3bPIl) | [Nicole Canaan](https://open.spotify.com/artist/7fkYG097ZRJfUekUFiu1Vm) | [Leashing the Light](https://open.spotify.com/album/3DgqlrHM7pemm1Giu5Ezmu) | 5:22 |
 | 273 | [White Castle sad](https://open.spotify.com/track/1Ix8KERIcrLvdznqcVyHIE) | [Asher White](https://open.spotify.com/artist/1TQhvHMVoECTNs3Xxo3RMv) | [Love Aggregates](https://open.spotify.com/album/2JcmT7hj1Lh40IRtGu8ux5) | 3:06 |
-| 274 | [Triptych](https://open.spotify.com/track/4INzIcbv0s3PDbSZspDLZe) | [Goldmyth](https://open.spotify.com/artist/56SWqcV7Loc9Ec2TUynAnz) | [Triptych](https://open.spotify.com/album/3tYmhDT7fnav7e1zMVnahN) | 3:43 |
-| 275 | [the boss is on fire](https://open.spotify.com/track/4jsdLJLFTDygSn8D6SQyt7) | [Chris Chu](https://open.spotify.com/artist/4kn7yhFpa2vRugcctK05mM), [POP ETC](https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL) | [99¢ dreams / god in the basket](https://open.spotify.com/album/703BT2reqpF5ISjSy00uGf) | 3:31 |
-| 276 | [Promises](https://open.spotify.com/track/1Oq36cQyUQhCr3STINcygK) | [Lake Dreamland](https://open.spotify.com/artist/54WPyTRKp8R7IUTTVtw6cH) | [Promises](https://open.spotify.com/album/0S8ILdfFqKqqf303u9nMw2) | 5:50 |
-| 277 | [Gold Dust Redux](https://open.spotify.com/track/5WWxtxgJz6aADScC7CaIPU) | [JJ Niceley](https://open.spotify.com/artist/4fi8Pw3tEuTIeUZjUqw9Sy) | [Mystical Country](https://open.spotify.com/album/64tyE8ZIEnKQmu2GDU6lWL) | 3:28 |
-| 278 | [Record Baby](https://open.spotify.com/track/26N9c5xSPPkR8i4g9ksjCS) | [Megasound](https://open.spotify.com/artist/5ReQfFpFV17lXutVutOvJr), [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6), [Party Nails](https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4) | [Megasound](https://open.spotify.com/album/2CKWf1uPg4nBtizV1UOCxY) | 3:04 |
-| 279 | [The Shape of Things](https://open.spotify.com/track/36CCFTQK3dZRNAdPujPq2O) | [Devereux Scales](https://open.spotify.com/artist/2f6eUsroySvBVIIgApvvwe) | [The Shape of Things](https://open.spotify.com/album/7JYoeRAht9KqVTuJgMp4tp) | 4:55 |
+| 274 | [the boss is on fire](https://open.spotify.com/track/4jsdLJLFTDygSn8D6SQyt7) | [Chris Chu](https://open.spotify.com/artist/4kn7yhFpa2vRugcctK05mM), [POP ETC](https://open.spotify.com/artist/6gUiIIPmV6OXjHcvv1KCuL) | [99¢ dreams / god in the basket](https://open.spotify.com/album/703BT2reqpF5ISjSy00uGf) | 3:31 |
+| 275 | [The Shape of Things](https://open.spotify.com/track/36CCFTQK3dZRNAdPujPq2O) | [Devereux Scales](https://open.spotify.com/artist/2f6eUsroySvBVIIgApvvwe) | [The Shape of Things](https://open.spotify.com/album/7JYoeRAht9KqVTuJgMp4tp) | 4:55 |
+| 276 | [Triptych](https://open.spotify.com/track/4INzIcbv0s3PDbSZspDLZe) | [Goldmyth](https://open.spotify.com/artist/56SWqcV7Loc9Ec2TUynAnz) | [Triptych](https://open.spotify.com/album/3tYmhDT7fnav7e1zMVnahN) | 3:43 |
+| 277 | [Promises](https://open.spotify.com/track/1Oq36cQyUQhCr3STINcygK) | [Lake Dreamland](https://open.spotify.com/artist/54WPyTRKp8R7IUTTVtw6cH) | [Promises](https://open.spotify.com/album/0S8ILdfFqKqqf303u9nMw2) | 5:50 |
+| 278 | [Gold Dust Redux](https://open.spotify.com/track/5WWxtxgJz6aADScC7CaIPU) | [JJ Niceley](https://open.spotify.com/artist/4fi8Pw3tEuTIeUZjUqw9Sy) | [Mystical Country](https://open.spotify.com/album/64tyE8ZIEnKQmu2GDU6lWL) | 3:28 |
+| 279 | [Record Baby](https://open.spotify.com/track/26N9c5xSPPkR8i4g9ksjCS) | [Megasound](https://open.spotify.com/artist/5ReQfFpFV17lXutVutOvJr), [Bad Bad Hats](https://open.spotify.com/artist/2bstapBmz5M83elQvPnwp6), [Party Nails](https://open.spotify.com/artist/1PkfHC4LBy4o9UNU2k1yw4) | [Megasound](https://open.spotify.com/album/2CKWf1uPg4nBtizV1UOCxY) | 3:04 |
 | 280 | [Blue](https://open.spotify.com/track/0lBPzQpR7JUjj9gvhOq4Kk) | [Lone Aires](https://open.spotify.com/artist/2FEOMYlsXOwVMtYfQWsXgM) | [Blue](https://open.spotify.com/album/0mhipfXu263jty9w8WtH4H) | 3:26 |
 | 281 | [A Friend In Need](https://open.spotify.com/track/7B3mxCGUx4yvIQD4KKJfJC) | [Andrew Kamen](https://open.spotify.com/artist/2lfHp2l2V3e1OmZGZzLabi) | [Nostalgia](https://open.spotify.com/album/6zMPBKV0ypDn7pE4nJ2YKU) | 1:55 |
 | 282 | [I Want To Join The Fall](https://open.spotify.com/track/4cUBgZvk4j0XbW8YOA0dtv) | [Flywheel](https://open.spotify.com/artist/4gWXZThxdgNMmpbPx3rDXX) | [I Want To Join The Fall](https://open.spotify.com/album/1BXzQwNblthh77fNjKifVJ) | 3:23 |
@@ -590,7 +590,7 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 580 | [Dance Dance Dance \(跳舞跳舞跳舞\)](https://open.spotify.com/track/3Ct3ro3LnsTHjeRVPNSG5s) | [Chinese American Bear](https://open.spotify.com/artist/6WIb9mpc6lyBzAjTeGWvEh) | [Dance Dance Dance \(跳舞跳舞跳舞\)](https://open.spotify.com/album/1bbJm1WV1sk3oD3XEt28So) | 3:28 |
 | 581 | [Sour](https://open.spotify.com/track/4rLgFAQsMy7iFAE9h6ZMIn) | [Desperately Seeking Suki](https://open.spotify.com/artist/4OzI34zWtvhlL40Fj8GNqM) | [Nevermind](https://open.spotify.com/album/4kZGnxUMZ1uuCVBi4oZG4P) | 2:44 |
 | 582 | [Basic Witch](https://open.spotify.com/track/1txeADekVn17TGBITlfysG) | [Death Valley Girls](https://open.spotify.com/artist/0EvAIYxDOmvxkCv35jfmS9) | [Basic Witch](https://open.spotify.com/album/1vSclX1bRPoJPUaag0Hh5s) | 3:09 |
-| 583 | [tiger](https://open.spotify.com/track/4T59b9ejRga4Vfcy8vBvXP) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [tiger](https://open.spotify.com/album/3JE7EDeqevTNUbNdKDqbCn) | 3:37 |
+| 583 | [tiger](https://open.spotify.com/track/4T59b9ejRga4Vfcy8vBvXP) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [tiger](https://open.spotify.com/album/3JE7EDeqevTNUbNdKDqbCn) | 3:37 |
 | 584 | [The Lord God Bird](https://open.spotify.com/track/6uvHuXQqiixn2fPKa15fHT) | [Coach Kit](https://open.spotify.com/artist/0arm3LZulm5N0xeidcdvWQ) | [The Lord God Bird](https://open.spotify.com/album/0oLMhqi3AiJjb8xLfPulQ8) | 3:25 |
 | 585 | [Got U On My Mind](https://open.spotify.com/track/42FQRd6n42Z5MO7HUIrYLn) | [Melicious](https://open.spotify.com/artist/62uR1xRDa5dv0KmWMgEQvH) | [Got U On My Mind](https://open.spotify.com/album/5SKdL6ISlTlBvhVYDWBdu0) | 2:13 |
 | 586 | [Love on Earth](https://open.spotify.com/track/1qI6WXvz6qPenrhvrRhYi0) | [Cosmo Gold](https://open.spotify.com/artist/43SEQUssV6gkBYyqv5We6J) | [Love on Earth](https://open.spotify.com/album/4q5c2SsfFLzRywwsF7veiQ) | 2:07 |
@@ -1802,4 +1802,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 1792 | [Lifeloose](https://open.spotify.com/track/3zUJcgFg0tspBiRlVRijv6) | [Lifeloose](https://open.spotify.com/artist/0vaeDzewhDalyyjU2dzgMG) | [Lifeloose](https://open.spotify.com/album/6vViE9AAjxWXb3CRyvtANS) | 3:16 |
 | 1793 | [Everything But Myself](https://open.spotify.com/track/671cWwKtIvaTlk6XlwUGa5) | [Immaterialize](https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by), [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [Everything But Myself](https://open.spotify.com/album/2RPM6F6EljolsGoV1fPR17) | 4:00 |
 
-Snapshot ID: `AABbJfHFRbMj1bbue0Gada5nyg68rqaM`
+Snapshot ID: `AABbJ4ysVx6ZBRhILWQlR/gLlK/9Q7qP`

@@ -1,13 +1,37 @@
 {
   "description": "Jazz, but make it funky. Cover: Skinny Hightower",
-  "num_followers": 422110,
+  "num_followers": 422152,
   "original_name": "Jazz-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAqidCdgQEJInbIpRWresou6Alde",
+  "snapshot_id": "AAAAANsGtGJ16eX/lmbOQxRvL6GpOwA3",
   "tracks": [
+    {
+      "added_at": "2026-09-18 04:00:57",
+      "album": {
+        "name": "Carter's Boogaloo",
+        "url": "https://open.spotify.com/album/12KNDnrTFY1soo4kY0lUm5"
+      },
+      "artists": [
+        {
+          "name": "Redtenbacher's Funkestra",
+          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
+        },
+        {
+          "name": "Carter Arrington",
+          "url": "https://open.spotify.com/artist/33QeDPfeSWWQSZmbUC15Ly"
+        },
+        {
+          "name": "Nigel Price",
+          "url": "https://open.spotify.com/artist/4rkjXYN63ih8p2sfS6By5z"
+        }
+      ],
+      "duration_ms": 356297,
+      "name": "Carter's Boogaloo",
+      "url": "https://open.spotify.com/track/7MfWFfodAL0NXjLZCOAqVr"
+    },
     {
       "added_at": "2026-09-04 04:00:26",
       "album": {
@@ -731,26 +755,6 @@
       "duration_ms": 438793,
       "name": "Why",
       "url": "https://open.spotify.com/track/7tlyMqKsd5fbx0zzovhPxM"
-    },
-    {
-      "added_at": "2024-05-24 04:00:00",
-      "album": {
-        "name": "Live Your Best Dream",
-        "url": "https://open.spotify.com/album/3hIu9BJQTZAtWlYNdJwXDn"
-      },
-      "artists": [
-        {
-          "name": "Redtenbacher's Funkestra",
-          "url": "https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA"
-        },
-        {
-          "name": "Carter Arrington",
-          "url": "https://open.spotify.com/artist/33QeDPfeSWWQSZmbUC15Ly"
-        }
-      ],
-      "duration_ms": 280560,
-      "name": "Live Your Best Dream",
-      "url": "https://open.spotify.com/track/57Nud2GW7rZK6IGDqwOQuA"
     },
     {
       "added_at": "2024-05-24 04:00:00",

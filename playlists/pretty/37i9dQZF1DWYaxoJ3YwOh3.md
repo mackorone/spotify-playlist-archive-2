@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 
 > Enchanting vibes, to help you find a relaxing moment of wellness.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,033 likes - 100 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,087 likes - 100 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYaxoJ3YwOh3.md) - [plain]
 | 99 | [Stream of Soft Winds](https://open.spotify.com/track/38oXfFW9CKJUZJE5oZNaTh) | [Calm Sūtra](https://open.spotify.com/artist/17iuV6cWs8vvEHlD41aFu6) | [Stream of Soft Winds](https://open.spotify.com/album/1Ag4ODCZEn2hsaWs8nCfXL) | 2:42 |
 | 100 | [Double Horizons](https://open.spotify.com/track/1DwvLv2ri6jasV9nZ0bpb3) | [Gidde](https://open.spotify.com/artist/5DwyCd0VM31aNwkklawG0l) | [Double Horizons](https://open.spotify.com/album/6Ba5vyGVEhNu0zur5l9jlX) | 2:50 |
 
-Snapshot ID: `AAAAAKJ7bWcIZ6edDkEFqNTSdnMRhccL`
+Snapshot ID: `AAAAAMurULeVxSERJNSwpeHt9g6wwe6t`

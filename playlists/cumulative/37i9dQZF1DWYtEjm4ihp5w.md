@@ -4,7 +4,7 @@
 
 > Cover: ElGrandeToto
 
-555 songs - 1 day 4 hr 43 min
+556 songs - 1 day 4 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -514,7 +514,7 @@
 | [Uzi](https://open.spotify.com/track/6FErwXfXiw17nstW4jB3Iq) | [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS) | [Uzi](https://open.spotify.com/album/6PxNmbCPWua17T2TJpJcBk) | 3:30 | 2025-12-19 | 2026-02-04 |
 | [Valluminati](https://open.spotify.com/track/7MVXEImcCVGCPhfqiTVSdn) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX) | [Valluminati](https://open.spotify.com/album/6elabSMRw648ju19QYg55P) | 2:20 | 2025-10-23 | 2025-12-11 |
 | [Vendetta](https://open.spotify.com/track/6XfQQBnqyVSPlEbi2seiRX) | [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc) | [Vendetta](https://open.spotify.com/album/5tsxi7fSM7cMsdGoqsKfao) | 2:23 | 2024-11-13 | 2025-01-30 |
-| [VFC](https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [VFC](https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim) | 3:29 | 2025-08-08 |  |
+| [VFC](https://open.spotify.com/track/2DnJBydEt9oiXmavnLqIka) | [Fat Mizzo](https://open.spotify.com/artist/4sGgnHfL5rjJqK5WxQl9bU) | [VFC](https://open.spotify.com/album/4qfeUdzNGUE6CcyQksttim) | 3:29 | 2025-08-08 | 2026-09-19 |
 | [violet](https://open.spotify.com/track/2e8xfkiNnTxWeUcuM37nco) | [Valerieblud](https://open.spotify.com/artist/2sAr8PmoTckWWSYzAEf5nX), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [violet](https://open.spotify.com/album/598wiKlgE2ZgHMOhV9uMRe) | 2:16 | 2025-07-16 | 2026-06-14 |
 | [VIRA \- SLABA](https://open.spotify.com/track/4G1hlwJvJJSClVL5LhROPi) | [ViraCocha](https://open.spotify.com/artist/3mBAoEIAN6UdI3VMA1rltv) | [VIRA \- SLABA](https://open.spotify.com/album/6jaow6TMiPpepI5hNq0OGb) | 2:48 | 2024-06-18 | 2024-11-13 |
 | [VISA](https://open.spotify.com/track/4oajGi0Wd33IL0LzjiU6Si) | [Flooky](https://open.spotify.com/artist/38BO2UlKSNaziEGLPIIkAc) | [VISA](https://open.spotify.com/album/3wxWPfLUzoFHLOTaMadDly) | 2:04 | 2023-08-23 | 2024-05-18 |
@@ -525,6 +525,7 @@
 | [WA3RA](https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [WA3RA](https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8) | 2:21 | 2026-08-31 |  |
 | [Wad Al Makhazin](https://open.spotify.com/track/5FyrOaDON6T8au7Xv8M5lr) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6), [Ramoon](https://open.spotify.com/artist/7sxSSGqEv1mo7yXBqfX0Ja) | [101](https://open.spotify.com/album/3QxLyfb46BXa27Y0GjwS5C) | 2:51 | 2025-07-06 | 2026-02-09 |
 | [WALLAHI](https://open.spotify.com/track/6qUFq3ngBLDBb2fTFug7bb) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [BLÉDARD \(Deluxe\)](https://open.spotify.com/album/1t0XKmyNXVbWkg0gNptaHd) | 2:32 | 2025-06-13 | 2026-04-20 |
+| [WALO WALO](https://open.spotify.com/track/2QLoTIh5d3mWAiAnvg9Yw8) | [Izi](https://open.spotify.com/artist/2XpZQtDxSrLnxHBcVNfE8q), [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [WALO WALO](https://open.spotify.com/album/6fQKD1OxSCNbcYkY6avdin) | 3:11 | 2026-09-18 |  |
 | [Wassup Fam](https://open.spotify.com/track/0JSvcJVpHFAUCgArLgsjS4) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [GHETTO STAR](https://open.spotify.com/album/0E99Ila5PQrvnwiyTGBERQ) | 2:57 | 2023-05-25 | 2023-08-13 |
 | [Wassup Fam](https://open.spotify.com/track/0aOGcylPs9MtS21nfhTDJj) | [Demon324](https://open.spotify.com/artist/4wbeaTvUNEa4WUdiF9iWom), [Dollypran](https://open.spotify.com/artist/16S0vhZYtrfR4kksycV4NS), [Abduh](https://open.spotify.com/artist/3Urq8zrlV3dLnLnL40xqWk) | [Wassup Fam](https://open.spotify.com/album/4gSUb0XWeu3v0zd2NJSzjO) | 2:57 | 2023-06-22 | 2023-06-29 |
 | [Wayli](https://open.spotify.com/track/0cPYsatszcbMWoFWo5LHiZ) | [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Wayli](https://open.spotify.com/album/4AlWJRJ8Up3nw0N1ChRvwD) | 4:19 | 2024-10-09 | 2024-11-03 |

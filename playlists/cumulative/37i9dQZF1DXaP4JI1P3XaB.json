@@ -99,6 +99,28 @@
     },
     {
       "album": {
+        "name": "All the light in the world",
+        "url": "https://open.spotify.com/album/311O4B2qhreCB5nUp49SFP"
+      },
+      "artists": [
+        {
+          "name": "Colin Stetson",
+          "url": "https://open.spotify.com/artist/4G6HhUUQ1LgyYnA2WJppf8"
+        },
+        {
+          "name": "Br\u00ecghde Chaimbeul",
+          "url": "https://open.spotify.com/artist/7AzZeX7Q9ziRE6mILhQZ8W"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 293026,
+      "name": "All the light in the world",
+      "url": "https://open.spotify.com/track/2SWSeh3IMDLBb4fQaKtN61"
+    },
+    {
+      "album": {
         "name": "Crescendo",
         "url": "https://open.spotify.com/album/3Qp69sEkyySqYARGu6xMcX"
       },
@@ -572,7 +594,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 501573,
       "name": "Falling and Fragmentation",
       "url": "https://open.spotify.com/track/5uE7CpImPBnxvseuMcFEHh"
@@ -681,6 +703,28 @@
     },
     {
       "album": {
+        "name": "I Was Not Sleeping",
+        "url": "https://open.spotify.com/album/0RL4c6eMUpjjqUvWdMtBec"
+      },
+      "artists": [
+        {
+          "name": "Danalogue",
+          "url": "https://open.spotify.com/artist/6lhPEH73wnzXY8agYbpdPu"
+        },
+        {
+          "name": "Alabaster DePlume",
+          "url": "https://open.spotify.com/artist/3LfKt6bEMIfFIEryeai8Mm"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242296,
+      "name": "Guest",
+      "url": "https://open.spotify.com/track/1Wt6rf6tGjoHUfpVOPwOzG"
+    },
+    {
+      "album": {
         "name": "VS.",
         "url": "https://open.spotify.com/album/1kpRXxbunFUJU5GZkRqYEG"
       },
@@ -696,7 +740,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 408106,
       "name": "Hangzhou Flower Garden",
       "url": "https://open.spotify.com/track/0pKlK8Xm9bxFd5jP5Z9Urm"
@@ -1027,6 +1071,28 @@
     },
     {
       "album": {
+        "name": "No Such Thing",
+        "url": "https://open.spotify.com/album/2dUPQfOFrIpDMaWIdEz8L5"
+      },
+      "artists": [
+        {
+          "name": "Deniz Cuylan",
+          "url": "https://open.spotify.com/artist/7b9GgoTytN5lMnZoQFFuRY"
+        },
+        {
+          "name": "Felbm",
+          "url": "https://open.spotify.com/artist/2kjrM4RpZVRBHy3hjgJCr7"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230855,
+      "name": "No Such Thing",
+      "url": "https://open.spotify.com/track/3djalDl19r0uL22mWLqh5k"
+    },
+    {
+      "album": {
         "name": "Nocturne - New Recording",
         "url": "https://open.spotify.com/album/3ubWJpP2KOf2HG3zXmCJe8"
       },
@@ -1096,7 +1162,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 464697,
       "name": "Off Piste",
       "url": "https://open.spotify.com/track/3iwI1obKrkkfeBNl3bqt3T"
@@ -1166,7 +1232,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 260395,
       "name": "Peace",
       "url": "https://open.spotify.com/track/6l5YOAgwknzbzvsk2QA9j4"
@@ -1574,6 +1640,24 @@
       "duration_ms": 319200,
       "name": "Tremors in the Static",
       "url": "https://open.spotify.com/track/6fLsZVxw4hOS0DAxXi4eBq"
+    },
+    {
+      "album": {
+        "name": "Home Decor",
+        "url": "https://open.spotify.com/album/5yCrGXBLlepFym3OpHiVYR"
+      },
+      "artists": [
+        {
+          "name": "Danny Scott Lane",
+          "url": "https://open.spotify.com/artist/13gK1kWk5T8jg3cLIMPAQP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189600,
+      "name": "Twin Bed",
+      "url": "https://open.spotify.com/track/6h8BILd9Bv6QWHp791EmBS"
     },
     {
       "album": {

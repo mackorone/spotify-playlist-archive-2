@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 
 > African Praise music taking you all the way up!
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,742 likes - 125 songs - 8 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,752 likes - 125 songs - 8 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT8bff1BCeZx.md) - [plain]
 | 124 | [Promises](https://open.spotify.com/track/4Q6nJI4EWgreJiMmRIinky) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC) | [Promises](https://open.spotify.com/album/3sOlsUQdc0pjldeZERnZIQ) | 2:31 |
 | 125 | [Living Testimony](https://open.spotify.com/track/4MUFtHDXygq00ub4IoZRYr) | [Sini Dagana](https://open.spotify.com/artist/4Qe3zkPW4YTQrde2Ef0dJb) | [Living Testimony](https://open.spotify.com/album/4xvX7Go0agh42DAZxhkKKS) | 5:20 |
 
-Snapshot ID: `AAAAABxKlgeeVWmAK+T15uugEY8XNTWY`
+Snapshot ID: `AAAAAL5ZY+L0IJk7CD3+IxfIU9bVUeFq`

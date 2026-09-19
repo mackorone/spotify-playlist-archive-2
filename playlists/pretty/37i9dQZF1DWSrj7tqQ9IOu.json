@@ -1,12 +1,12 @@
 {
   "description": "Les meilleurs sons du mois s\u00e9lectionn\u00e9s par les \u00e9ditos de Spotify. Photo : Haute & Freddy",
-  "num_followers": 401506,
+  "num_followers": 401535,
   "original_name": "Coups de c\u0153ur de l'\u00e9quipe \u00e9ditoriale : Ao\u00fbt 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFlRTZc5G9bMCGq1v4FnczzEU4jg",
+  "snapshot_id": "AAAAAJglUDstnqw6+j7z0Xbiy1uP8vFv",
   "tracks": [
     {
       "added_at": "2026-08-31 22:00:22",
@@ -199,6 +199,26 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
+        "name": "Traces (feat. SDM)",
+        "url": "https://open.spotify.com/album/4k0zDBe3eVPcN1ZQM368OP"
+      },
+      "artists": [
+        {
+          "name": "Grand Corps Malade",
+          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
+        },
+        {
+          "name": "SDM",
+          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
+        }
+      ],
+      "duration_ms": 194919,
+      "name": "Traces (feat. SDM)",
+      "url": "https://open.spotify.com/track/5vAzHFS0RL5lVEeuPD1om9"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
         "name": "Before The World Blows",
         "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
@@ -231,26 +251,6 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "Traces (feat. SDM)",
-        "url": "https://open.spotify.com/album/4k0zDBe3eVPcN1ZQM368OP"
-      },
-      "artists": [
-        {
-          "name": "Grand Corps Malade",
-          "url": "https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM"
-        },
-        {
-          "name": "SDM",
-          "url": "https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB"
-        }
-      ],
-      "duration_ms": 194919,
-      "name": "Traces (feat. SDM)",
-      "url": "https://open.spotify.com/track/5vAzHFS0RL5lVEeuPD1om9"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
         "name": "ON MY BIRTHDAY",
         "url": "https://open.spotify.com/album/2VPFXrVDrzxxcLaIP2Gpvf"
       },
@@ -267,22 +267,6 @@
     {
       "added_at": "2026-08-31 22:00:22",
       "album": {
-        "name": "Bye Bye .",
-        "url": "https://open.spotify.com/album/2tVjW0aNtReqROYYZOfD1S"
-      },
-      "artists": [
-        {
-          "name": "fakemink",
-          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
-        }
-      ],
-      "duration_ms": 166111,
-      "name": "Bye Bye .",
-      "url": "https://open.spotify.com/track/4cN6PYebLHK61j2J7pvKcD"
-    },
-    {
-      "added_at": "2026-08-31 22:00:22",
-      "album": {
         "name": "Lean On",
         "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
       },
@@ -295,6 +279,22 @@
       "duration_ms": 205000,
       "name": "Lean On",
       "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
+    },
+    {
+      "added_at": "2026-08-31 22:00:22",
+      "album": {
+        "name": "Bye Bye .",
+        "url": "https://open.spotify.com/album/2tVjW0aNtReqROYYZOfD1S"
+      },
+      "artists": [
+        {
+          "name": "fakemink",
+          "url": "https://open.spotify.com/artist/0qc4BFxcwRFZfevTck4fOi"
+        }
+      ],
+      "duration_ms": 166111,
+      "name": "Bye Bye .",
+      "url": "https://open.spotify.com/track/4cN6PYebLHK61j2J7pvKcD"
     },
     {
       "added_at": "2026-08-31 22:00:22",

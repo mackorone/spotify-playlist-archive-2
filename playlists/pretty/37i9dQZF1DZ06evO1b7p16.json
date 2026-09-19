@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAAZErjGuqjr/bJ2J3fK0olP",
+  "snapshot_id": "aqstgAAAAAC9OrEmkmzYKK76JB7XDa6E",
   "tracks": [
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bullet With Butterfly Wings",
-        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
-      },
-      "artists": [
-        {
-          "name": "Taking Back Sunday",
-          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
-        }
-      ],
-      "duration_ms": 272093,
-      "name": "Bullet With Butterfly Wings",
-      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Transformers: Revenge Of The Fallen The Album",
         "url": "https://open.spotify.com/album/1fqibtpI0bwD73uQGeEnhn"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 168360,
       "name": "Capital M-E",
       "url": "https://open.spotify.com/track/1VppmZKCjqa8qqkdHV76Iu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bullet With Butterfly Wings",
+        "url": "https://open.spotify.com/album/1ZEg013HK19x0U7IUYT5aG"
+      },
+      "artists": [
+        {
+          "name": "Taking Back Sunday",
+          "url": "https://open.spotify.com/artist/24XtlMhEMNdi822vi0MhY1"
+        }
+      ],
+      "duration_ms": 272093,
+      "name": "Bullet With Butterfly Wings",
+      "url": "https://open.spotify.com/track/6B6d64PpWBT6tLfxT0eMhE"
     },
     {
       "added_at": null,

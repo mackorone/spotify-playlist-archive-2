@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 
 > Le meilleur des hits avec Adèle Castillon
 
-[Spotify](https://open.spotify.com/user/spotify) - 437,188 likes - 50 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 437,233 likes - 50 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbS5WTN5nKF7.md) - [plain]
 | 49 | [Who Will You Follow](https://open.spotify.com/track/67NmwGEh64DsdfFg5q7ONX) | [Evanescence](https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c) | [Sanctuary](https://open.spotify.com/album/5yUYipjU1lsVEFkH5SURdv) | 3:55 |
 | 50 | [Picasso](https://open.spotify.com/track/2A1wTYEJZkvph9zbDla67R) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Karma](https://open.spotify.com/album/1cOIpFhvmwtWvG2tuC47Ha) | 2:43 |
 
-Snapshot ID: `AAAAAAWgyvyBtoYPJnx6SioitUVyur8G`
+Snapshot ID: `AAAAALmzm6RBV0fnjr7pUAnOwiFuY9hU`

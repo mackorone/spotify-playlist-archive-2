@@ -4,7 +4,7 @@
 
 > kun det nyeste danske rap 👀  1WAY på cover!!
 
-622 songs - 1 day 2 hr 30 min
+622 songs - 1 day 2 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [02:34](https://open.spotify.com/track/73OdVr9HsrpRpbdXvqxHYm) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [02:34](https://open.spotify.com/album/0BbICx4813rb9ZUpKP29Eg) | 2:57 | 2025-04-17 | 2025-10-03 |
 | [10 Dage](https://open.spotify.com/track/39t0uVgHWyL8SW5At2yiYF) | [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [Calirose](https://open.spotify.com/album/34JHALTKLW2kiyCpJOtOsO) | 3:42 | 2025-09-25 | 2026-04-10 |
 | [10/10](https://open.spotify.com/track/58Jj3c8s3JHbHw424dK2bv) | [Lord Siva](https://open.spotify.com/artist/5SwsSD9zyWaWeVyK9qIW9l) | [Blåregn / 10/10](https://open.spotify.com/album/6BPaKbKBo3mbcgsNl1o3mh) | 2:18 | 2024-05-23 | 2024-06-22 |
+| [10/5](https://open.spotify.com/track/0VlWAuVyELrgYOxUfVF4Ng) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Benny Jamz](https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 2:37 | 2026-09-17 |  |
 | [12 Dage](https://open.spotify.com/track/4SFx0z3e0MHU5RL6aA26SS) | [Kundo](https://open.spotify.com/artist/2GGL93jyTZ4X7uidHSJhIr) | [12 Dage](https://open.spotify.com/album/2SegepYWdJtTAgHPVU20H0) | 2:33 | 2026-06-11 |  |
 | [17\. Januar](https://open.spotify.com/track/1hzblUB7PFLOdm4YKnkoVL) | [MAS](https://open.spotify.com/artist/3Tg0bQKDqc4ONwmKywDq72), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [500Tanker](https://open.spotify.com/album/151Snp4n9x06Mlsmno4PsU) | 3:20 | 2024-12-05 | 2025-04-18 |
 | [2 Kanoner](https://open.spotify.com/track/0cqiuOOf7cZvp3dTq1AQmA) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [2 Kanoner](https://open.spotify.com/album/3OJwewaRbFMwueVlJpfssy) | 2:40 | 2024-04-18 | 2024-05-03 |
@@ -114,6 +115,7 @@
 | [CARTIER LINSER](https://open.spotify.com/track/32gKenhuc62phw2Uyxyinl) | [ICEKIID](https://open.spotify.com/artist/3RYYha3CC7js2PHbcBHewt) | [AFRO DANSKER II](https://open.spotify.com/album/5MmOH7BCOPYClCydMLGqWW) | 2:26 | 2024-04-25 | 2025-01-10 |
 | [Casablanca](https://open.spotify.com/track/6RhsEGklWBop341obhrBge) | [ZUUZ](https://open.spotify.com/artist/0sgVdVG2hRMx0wAkH023cx) | [Casablanca](https://open.spotify.com/album/0OtdCJ3w2ExSin2HkSKsav) | 2:12 | 2025-10-02 | 2026-04-10 |
 | [Cash Out](https://open.spotify.com/track/1VZnv0F4z84RGtA8gC2xM2) | [LAY](https://open.spotify.com/artist/1n8Fd2279g0K5EPnxPc7J0) | [Alene I Verden](https://open.spotify.com/album/0bIGBegMuy631r4JQJ14VW) | 2:43 | 2025-06-05 | 2025-06-27 |
+| [Casio](https://open.spotify.com/track/1Yc2Z8NQZvpOd0mMzvrSiI) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Noah Carter](https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 3:02 | 2026-09-17 |  |
 | [Casual Weeknd](https://open.spotify.com/track/0Y21CcOTYfJAcdJdo5tbPA) | [Xabski](https://open.spotify.com/artist/4gf1mGm7j8ELBFpR5CF1YF) | [Casual Weeknd](https://open.spotify.com/album/3OfA5IKvyEfAqo6U5TVq6Z) | 2:16 | 2025-05-29 | 2025-07-04 |
 | [CATCH UP \(Offical soundtrack of Hood\)](https://open.spotify.com/track/3gt7WTgGThtJDeWTHPD4hg) | [Branco](https://open.spotify.com/artist/1YwMnnHvnG64fJxYSVwmN6), [A36](https://open.spotify.com/artist/4QcudLddRQCbX8wrs6i2Gt) | [CATCH UP \(Offical soundtrack of Hood\)](https://open.spotify.com/album/1HHCAqYPy7SyPPVDPCpIUX) | 1:56 | 2025-09-04 | 2025-09-19 |
 | [CHAMPIONS LEAGUE](https://open.spotify.com/track/45YtsGktecYqg2o9yeFJ5o) | [Merro8](https://open.spotify.com/artist/5LcNaarbF34TMSkVLE7YQc) | [OCHO](https://open.spotify.com/album/7bSS66ds9pxf2To3wbRpMl) | 1:45 | 2024-05-02 | 2025-01-10 |
@@ -555,8 +557,6 @@
 | [Topfart](https://open.spotify.com/track/2EbLz05DxMmuiEQv7zgNrY) | [Eezy](https://open.spotify.com/artist/7wlIkhhCpEiTUjBQtxrowe) | [Topfart](https://open.spotify.com/album/2acA3wjr4eYsfX7WCWEXF6) | 2:34 | 2024-02-22 | 2024-04-05 |
 | [Topform \(feat\. Lamin\)](https://open.spotify.com/track/53HToqrRc4NB5CBOUJjSWH) | [KESI](https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE), [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP) | [TILLYKKE](https://open.spotify.com/album/4bJGHh9r2ssr5vt6y2OZLg) | 2:21 | 2023-09-21 | 2024-09-13 |
 | [Topskud](https://open.spotify.com/track/2yXRAzgIXzLwKCoyP0kEwG) | [Tjabo](https://open.spotify.com/artist/4a8fAlcwVh5WQM19I6tZpU), [BONFI](https://open.spotify.com/artist/3rDUvh74JdHkHrgV7xyEia) | [Tjabo](https://open.spotify.com/album/5m7m3rfPyB3FBYuedwOMgW) | 2:11 | 2026-08-07 | 2026-09-04 |
-| [Track 10](https://open.spotify.com/track/1Yc2Z8NQZvpOd0mMzvrSiI) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 0:00 | 2026-09-17 |  |
-| [Track 8](https://open.spotify.com/track/0VlWAuVyELrgYOxUfVF4Ng) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 0:00 | 2026-09-17 |  |
 | [TRACKSUIT](https://open.spotify.com/track/2GPVSfBMy7WD6AZc8I99KE) | [Oskar Witt](https://open.spotify.com/artist/7pgsrrUoGrlw9qNtJsk4c4) | [TRACKSUIT](https://open.spotify.com/album/0HxUpNDh9DhsxeMJyRCeZJ) | 2:15 | 2025-12-04 | 2026-01-02 |
 | [Tro På Det](https://open.spotify.com/track/1ZatLEMZsAslxDA5zw3S6V) | [Lamin](https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP), [Ukendt Kunstner](https://open.spotify.com/artist/1d5Y2zrhRQ6R0plv652L67) | [SkyLL](https://open.spotify.com/album/71TLoF8RqN7XCrHQbsLj6x) | 2:58 | 2024-09-19 | 2026-04-10 |
 | [Tropical \(feat\. Gilli\)](https://open.spotify.com/track/52raIkLsg4Qhfb80DqzitG) | [Thor Farlov](https://open.spotify.com/artist/0YF2oUwHHPo0VTGuqgYG0X), [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq) | [Tropical \(feat\. Gilli\)](https://open.spotify.com/album/1BiMjrMjAmDcXQh06wAKLH) | 2:11 | 2025-07-31 | 2025-09-26 |

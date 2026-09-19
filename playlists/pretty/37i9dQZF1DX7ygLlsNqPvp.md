@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 
 > The most intense local drill music firing up the continent\. Cover:  Black Sherif
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,603 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,633 likes - 50 songs - 2 hr 30 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7ygLlsNqPvp.md) - [plain]
 | 49 | [Akata Nante3](https://open.spotify.com/track/1mDLimtdFvd0JvImqPdQAK) | [King Balance](https://open.spotify.com/artist/0Kwx2ykCZkVldf9ULc4s8X), [KWESI AMEWUGA](https://open.spotify.com/artist/2CdvQgo8DCIOyScP9GDkDA), [Droplord SAS](https://open.spotify.com/artist/5tGScSAi5e4P3KCgnZt2zV) | [Akata Nante3](https://open.spotify.com/album/658OIf0j5dsgfnD2PRPnwq) | 2:51 |
 | 50 | [We Go](https://open.spotify.com/track/7y5fQjHVccTNRHnWiWUhwT) | [Kuami Eugene](https://open.spotify.com/artist/0GGKrcPOlBkmBzQDf2Ogkl) | [We Go](https://open.spotify.com/album/1HDGklOmSeGoVIVO4MQ8Ba) | 2:53 |
 
-Snapshot ID: `AAAAAKyzVYsSD013lpPqdkgJFb8vFU4F`
+Snapshot ID: `AAAAAFsubIotoGkVPmJj0moyDttkYrCX`

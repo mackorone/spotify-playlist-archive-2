@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAB1+++G18Z19nT4wpXjwbQM",
+  "snapshot_id": "aqstgAAAAADADMUhU2TdMNC974c65NdV",
   "tracks": [
     {
       "added_at": null,
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 186447,
-      "name": "EVERYONEISTHESAME",
-      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
+      "duration_ms": 228670,
+      "name": "Where is the Sun",
+      "url": "https://open.spotify.com/track/2uJPnVIAWKnkECOhS4wbH5"
     },
     {
       "added_at": null,
@@ -324,9 +324,9 @@
           "url": "https://open.spotify.com/artist/1TglzqikfCCHG4pXOlKR6Y"
         }
       ],
-      "duration_ms": 206216,
-      "name": "Trance",
-      "url": "https://open.spotify.com/track/6DNie5ZJ0q8TS51tBmBavY"
+      "duration_ms": 186447,
+      "name": "EVERYONEISTHESAME",
+      "url": "https://open.spotify.com/track/12svdsIFudWZFmgzSMmXxi"
     }
   ],
   "unique_name": "This Is Salt Creek",

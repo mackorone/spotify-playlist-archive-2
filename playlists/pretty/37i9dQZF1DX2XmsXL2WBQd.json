@@ -1,12 +1,12 @@
 {
   "description": "Anthems from the early days of recorded rap music.",
-  "num_followers": 456483,
+  "num_followers": 456535,
   "original_name": "I Love My '80s Hip-Hop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOtCmj268uBf8WyCyyfndlkgZBl8",
+  "snapshot_id": "AAAAAFeL8bBhYNvV3eLgjQeXLF9QeJxC",
   "tracks": [
     {
       "added_at": "2024-06-28 10:06:16",
@@ -1135,18 +1135,22 @@
     {
       "added_at": "2024-06-28 10:06:16",
       "album": {
-        "name": "Paul's Boutique",
-        "url": "https://open.spotify.com/album/4DfmPm17Nz6a60BlEpGGKU"
+        "name": "Planet Rock",
+        "url": "https://open.spotify.com/album/1uN3SzldnRO8CrsVN0lh2O"
       },
       "artists": [
         {
-          "name": "Beastie Boys",
-          "url": "https://open.spotify.com/artist/03r4iKL2g2442PT9n2UKsx"
+          "name": "Afrika Bambaataa",
+          "url": "https://open.spotify.com/artist/7cg61q8kK8jlFi8TKKw70p"
+        },
+        {
+          "name": "The Soulsonic Force",
+          "url": "https://open.spotify.com/artist/4zdcKwAK7lkYxgER54yfcP"
         }
       ],
-      "duration_ms": 199533,
-      "name": "Shake Your Rump",
-      "url": "https://open.spotify.com/track/4RvprQhj7Ov1SFQ3HfO7FH"
+      "duration_ms": 319960,
+      "name": "Planet Rock",
+      "url": "https://open.spotify.com/track/3uy0jtkM8QYVTsBazkli1x"
     }
   ],
   "unique_name": "I Love My '80s Hip-Hop",

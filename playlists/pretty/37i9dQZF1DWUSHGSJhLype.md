@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 
 > aqui tem feijoada hot dog com purê sushi moqueca açaí cm peixe frito mta coisa / Foto: Grelo
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,982 likes - 60 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 763,062 likes - 60 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,7 +36,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 26 | [Raparigas](https://open.spotify.com/track/5puMdJT0vTBEnn0k0Cnah4) | [Filho do Piseiro](https://open.spotify.com/artist/4vZcLTSiYdIBUFYtaps1uW) | [Só Poesias No Médio Grave \(Vol.1\)](https://open.spotify.com/album/5tY1spD2VSjVodP2V8FZSS) | 2:16 |
 | 27 | [Hipnotiza](https://open.spotify.com/track/55PclCORPD6GpFEUva4MOX) | [Diggo](https://open.spotify.com/artist/05OVRDpkoBtLlLOOsieTiu), [Léo Santana](https://open.spotify.com/artist/7KVJCU4z5L4EUHILL8aMxR) | [Hipnotiza](https://open.spotify.com/album/5STRX5pctUIuJJZ4eVFSNS) | 2:04 |
 | 28 | [Me Apaixonei Nessa Morena](https://open.spotify.com/track/7xcDd2JxnJtO87QQr8uY0O) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU), [Mc Tato](https://open.spotify.com/artist/7lc98VPDdogFv3eLfCX7sq), [Gabb MC](https://open.spotify.com/artist/5qyPbwqvOEp7FvR1EeTQQ2) | [Me Apaixonei Nessa Morena](https://open.spotify.com/album/1a7oLVsqFB25CEvqn3sZyU) | 2:51 |
-| 29 | [Aquele Lugar \- Ao Vivo](https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy) | 2:47 |
+| 29 | [Tarde Demais / Mágica / Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6ES4FEVuh4Fpj67wrFF8VC) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/3BWsyPjsCct9aqTtuu09dS) | 4:26 |
 | 30 | [Última Noite \- Solo](https://open.spotify.com/track/2Doe6AaIpyDy4JvFTsxSDn) | [Léo Foguete](https://open.spotify.com/artist/1DuBkL1pAgaZQHXKPiVr08), [Acertei](https://open.spotify.com/artist/1zzQeAzbxN9ctihMrpTo3H) | [Última Noite \(Solo\)](https://open.spotify.com/album/1kvxwru59TxOAvrRUIPTG5) | 2:34 |
 | 31 | [Já Que Me Ensinou a Beber](https://open.spotify.com/track/6nWPzkaAjRdjAGSFhpGc3O) | [Os Barões Da Pisadinha](https://open.spotify.com/artist/5Lv2GUVwqmQBPwrTrxucE5) | [Batom de Ouro](https://open.spotify.com/album/7nvdFAVwTz9D2ioC8polNu) | 2:38 |
 | 32 | [GOSTOSIN](https://open.spotify.com/track/2s4nhrlWTnmzSnGFH5pyAM) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Felipe Amorim](https://open.spotify.com/artist/3CIIaeZuFYrAD6PRVyuO4U), [HITMAKER](https://open.spotify.com/artist/0Otd1ReHJtVAzwAuRj09Zg) | [Ensaios Da Anitta](https://open.spotify.com/album/6EkCnMeO4zOURLKlTKbl39) | 2:09 |
@@ -66,7 +66,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUSHGSJhLype.md) - [plain]
 | 56 | [Até Quando \- Ao Vivo](https://open.spotify.com/track/1XVbPUw5TejRT1IZHd7bOh) | [Natanzinho Lima](https://open.spotify.com/artist/0Il5vC8lqunSFNav4mMLxU) | [Na Liga em Sampa \(Ao Vivo\)](https://open.spotify.com/album/1RmjfeUd6VTJNB4PJr2v3I) | 3:08 |
 | 57 | [Posso Até Não Te Dar Flores](https://open.spotify.com/track/4G7bbgD2DHORU4frrWoCXp) | [DJ Japa NK](https://open.spotify.com/artist/1bpnl8qbR9GxmiNlkEufW6), [MC Meno K](https://open.spotify.com/artist/1CbQrKvCpEnekM3QMGJtXK), [MC Ryan SP](https://open.spotify.com/artist/75i9GaW2MJUgt4BkdUnuUY), [Mc Jacaré](https://open.spotify.com/artist/6qrqAYlS6lUj2BVXax7SZW), [DJ DAVI DOGDOG](https://open.spotify.com/artist/5ffbqOCrcxCejQ7oqfWXm9) | [Posso Até Não Te Dar Flores](https://open.spotify.com/album/460wiqQRw27a2OHTCegXKF) | 2:38 |
 | 58 | [Tubarões \- Ao Vivo](https://open.spotify.com/track/6Emsu0BaMpG0ilZCRT8KHZ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Diego](https://open.spotify.com/artist/7LhZFr6gyaW6KzVCMr40M8), [Victor Hugo](https://open.spotify.com/artist/2l49kVAvFQsuOM2SGsq0Pz) | [Tubarões \(Ao Vivo\)](https://open.spotify.com/album/3bkQySbqPTpts4A2bGFCAB) | 2:42 |
-| 59 | [Tarde Demais / Mágica / Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6ES4FEVuh4Fpj67wrFF8VC) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/3BWsyPjsCct9aqTtuu09dS) | 4:26 |
+| 59 | [Aquele Lugar \- Ao Vivo](https://open.spotify.com/track/0pGsxpkJC9IwK93fmqEYXn) | [Grupo Menos É Mais](https://open.spotify.com/artist/6vTqEFbTtTRJsuIpzZgjxi) | [MOLHO \(Ao Vivo\)](https://open.spotify.com/album/4oMmPinXoUPTK2snpCWxAy) | 2:47 |
 | 60 | [Disneylândia](https://open.spotify.com/track/42bT00XQO5QlRo5HJQsGYn) | [DG e Batidão Stronda](https://open.spotify.com/artist/7gIeuq2qBfYhO1budb6TSQ), [Pedrinho Z](https://open.spotify.com/artist/6OjuHxyurXJxa4ogYWl5Br), [DLIMA7](https://open.spotify.com/artist/29u3JaZVRn9ICRK7M82Ynr) | [Disneylândia](https://open.spotify.com/album/3oXIKToc0OlL6E8JTcFgT7) | 1:56 |
 
-Snapshot ID: `AAAAAIo3IqiEUoTcSD8jalD8jXrC8J0H`
+Snapshot ID: `AAAAAMgwhhrcYpyDzhb99zc7DwgSvchX`

@@ -1,12 +1,12 @@
 {
   "description": "Fresh & new Christmas songs para los d\u00edas festivos. Cover: Camilo & Evaluna Montaner",
-  "num_followers": 268324,
+  "num_followers": 268274,
   "original_name": "Feliz Navidad",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABFI/7z8Vh6RH/RqWSTb3FZhWpgG",
+  "snapshot_id": "AAAAAEvRByY8jYIIzxfobumTpgvTjpBX",
   "tracks": [
     {
       "added_at": "2026-08-28 04:02:14",
@@ -387,6 +387,22 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
+        "name": "Toxic Christmas",
+        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        }
+      ],
+      "duration_ms": 199546,
+      "name": "Toxic Christmas",
+      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
         "name": "Se Acerca Navidad",
         "url": "https://open.spotify.com/album/3ZE9lMRkHFM2RnjzSyxe5C"
       },
@@ -411,22 +427,6 @@
       "duration_ms": 196166,
       "name": "Se Acerca Navidad",
       "url": "https://open.spotify.com/track/3RBTdjq25TnsJRIpkZxMkw"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "Toxic Christmas",
-        "url": "https://open.spotify.com/album/2MlzzwIgcXCSdENIrErvgD"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        }
-      ],
-      "duration_ms": 199546,
-      "name": "Toxic Christmas",
-      "url": "https://open.spotify.com/track/1hOWbWdAfANHLUMuRP182E"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -583,22 +583,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Gracias",
-        "url": "https://open.spotify.com/album/35D3oPRezyNeU9ion9E40U"
-      },
-      "artists": [
-        {
-          "name": "Moa Rivera",
-          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
-        }
-      ],
-      "duration_ms": 204172,
-      "name": "Gracias",
-      "url": "https://open.spotify.com/track/6JEM41cUizPxyKVgQLIc6z"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "Navidad Melanc\u00f3lica",
         "url": "https://open.spotify.com/album/6hLO1ANHWXJJq7mdSH8CLV"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 197697,
       "name": "Naci\u00f3 la Luz",
       "url": "https://open.spotify.com/track/1U377FOgdZVOUftTD6UoWx"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Gracias",
+        "url": "https://open.spotify.com/album/35D3oPRezyNeU9ion9E40U"
+      },
+      "artists": [
+        {
+          "name": "Moa Rivera",
+          "url": "https://open.spotify.com/artist/3SVGxBlWR0Cnamj9e2Ybmz"
+        }
+      ],
+      "duration_ms": 204172,
+      "name": "Gracias",
+      "url": "https://open.spotify.com/track/6JEM41cUizPxyKVgQLIc6z"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -671,6 +671,22 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
+        "name": "SANTA",
+        "url": "https://open.spotify.com/album/77cjih204WgiFVdQFRIdsA"
+      },
+      "artists": [
+        {
+          "name": "Thalia",
+          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+        }
+      ],
+      "duration_ms": 210533,
+      "name": "SANTA - Tengo Un Crush Contigo",
+      "url": "https://open.spotify.com/track/1grwk2p5zMi6WLzJdO0Som"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
         "name": "Feliz Navidad",
         "url": "https://open.spotify.com/album/1JdKVf1S2PIYe1kESEwumd"
       },
@@ -687,18 +703,26 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "SANTA",
-        "url": "https://open.spotify.com/album/77cjih204WgiFVdQFRIdsA"
+        "name": "Estefan Family Christmas",
+        "url": "https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk"
       },
       "artists": [
         {
-          "name": "Thalia",
-          "url": "https://open.spotify.com/artist/23wEWD21D4TPYiJugoXmYb"
+          "name": "Gloria Estefan",
+          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
+        },
+        {
+          "name": "Emily Estefan",
+          "url": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
+        },
+        {
+          "name": "Sasha Estefan-Coppola",
+          "url": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
         }
       ],
-      "duration_ms": 210533,
-      "name": "SANTA - Tengo Un Crush Contigo",
-      "url": "https://open.spotify.com/track/1grwk2p5zMi6WLzJdO0Som"
+      "duration_ms": 243666,
+      "name": "Doy Gracias Por Ti",
+      "url": "https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -751,30 +775,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Estefan Family Christmas",
-        "url": "https://open.spotify.com/album/49b2hgZIN5fqQrswcuVyNk"
-      },
-      "artists": [
-        {
-          "name": "Gloria Estefan",
-          "url": "https://open.spotify.com/artist/5IFCkqu9J6xdWeYMk5I889"
-        },
-        {
-          "name": "Emily Estefan",
-          "url": "https://open.spotify.com/artist/4Lsvn2Czg57zGPvQ7pR0ya"
-        },
-        {
-          "name": "Sasha Estefan-Coppola",
-          "url": "https://open.spotify.com/artist/6l7jIxHLw66B0NAK5VcdoN"
-        }
-      ],
-      "duration_ms": 243666,
-      "name": "Doy Gracias Por Ti",
-      "url": "https://open.spotify.com/track/2ZPAfGIvoOpPi3ozCqVg0L"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "Te Deseo Muy Felices Fiestas (Have Yourself a Merry Little Christmas)",
         "url": "https://open.spotify.com/album/5jGysGd2338AcYE2ia0JHC"
       },
@@ -787,6 +787,26 @@
       "duration_ms": 237869,
       "name": "Te Deseo Muy Felices Fiestas - Have Yourself a Merry Little Christmas",
       "url": "https://open.spotify.com/track/4A1hU6E70LLwHowQH8CEyv"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Navidad Contigo",
+        "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
+      },
+      "artists": [
+        {
+          "name": "Ana Mena",
+          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
+        },
+        {
+          "name": "Jean & Alex",
+          "url": "https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V"
+        }
+      ],
+      "duration_ms": 188520,
+      "name": "Navidad Contigo",
+      "url": "https://open.spotify.com/track/481jZRK94eCVslwavhdY8n"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -819,26 +839,6 @@
       "duration_ms": 202846,
       "name": "Alegr\u00eda",
       "url": "https://open.spotify.com/track/26wgGNbiKfdOmlbFxcjN8q"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "Navidad Contigo",
-        "url": "https://open.spotify.com/album/3VlditEUUTeSXRw4r3RFGn"
-      },
-      "artists": [
-        {
-          "name": "Ana Mena",
-          "url": "https://open.spotify.com/artist/6k8mwkKJKKjBILo7ypBspl"
-        },
-        {
-          "name": "Jean & Alex",
-          "url": "https://open.spotify.com/artist/2yq1SMEHxxNNXKf8Dx3S4V"
-        }
-      ],
-      "duration_ms": 188520,
-      "name": "Navidad Contigo",
-      "url": "https://open.spotify.com/track/481jZRK94eCVslwavhdY8n"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1131,42 +1131,6 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "mi \u00fanico deseo",
-        "url": "https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92"
-      },
-      "artists": [
-        {
-          "name": "Nashy-Nashai",
-          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
-        },
-        {
-          "name": "NEON16",
-          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
-        }
-      ],
-      "duration_ms": 186947,
-      "name": "mi \u00fanico deseo",
-      "url": "https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
-        "name": "Mu\u00f1eco de Nieve",
-        "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
-      },
-      "artists": [
-        {
-          "name": "Blas Cant\u00f3",
-          "url": "https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46"
-        }
-      ],
-      "duration_ms": 170856,
-      "name": "Mu\u00f1eco de Nieve",
-      "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
-    },
-    {
-      "added_at": "2026-08-28 04:02:14",
-      "album": {
         "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
         "url": "https://open.spotify.com/album/1Z8NCuH0GmRWEfxbWrZQLW"
       },
@@ -1211,6 +1175,42 @@
       "duration_ms": 125066,
       "name": "Lista De Regalos (Feat. Nab\u00e1lez, Majo Aguilar, Banda Fortuna, Jary Franco, F\u00e1tima Campo, Ricardo Murillo)",
       "url": "https://open.spotify.com/track/7ElLuzVUuPMV0urEfAPBit"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "mi \u00fanico deseo",
+        "url": "https://open.spotify.com/album/6USiBPFQmZydXaPPaLzH92"
+      },
+      "artists": [
+        {
+          "name": "Nashy-Nashai",
+          "url": "https://open.spotify.com/artist/5YlkgaxxGe3pAePsBBA4vx"
+        },
+        {
+          "name": "NEON16",
+          "url": "https://open.spotify.com/artist/7HacB3OpkiYI4VFwbvBLD8"
+        }
+      ],
+      "duration_ms": 186947,
+      "name": "mi \u00fanico deseo",
+      "url": "https://open.spotify.com/track/4HHBSCjY9BYUF8HFGxnXGE"
+    },
+    {
+      "added_at": "2026-08-28 04:02:14",
+      "album": {
+        "name": "Mu\u00f1eco de Nieve",
+        "url": "https://open.spotify.com/album/1GBNPYgW4A9ZjDP3vPIWsQ"
+      },
+      "artists": [
+        {
+          "name": "Blas Cant\u00f3",
+          "url": "https://open.spotify.com/artist/3IJtdFn9IKbFvNvZqOJA46"
+        }
+      ],
+      "duration_ms": 170856,
+      "name": "Mu\u00f1eco de Nieve",
+      "url": "https://open.spotify.com/track/0XRktjuig0lpTs5xxSyloV"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1295,18 +1295,18 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "A\u00f1o Nuevo, Misma Soledad (Live)",
-        "url": "https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh"
+        "name": "Una Navidad Sin Nieve",
+        "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
       },
       "artists": [
         {
-          "name": "Raquel Sof\u00eda",
-          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
+          "name": "Denise Rosenthal",
+          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
         }
       ],
-      "duration_ms": 213547,
-      "name": "A\u00f1o Nuevo, Misma Soledad - Live",
-      "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
+      "duration_ms": 162346,
+      "name": "Una Navidad Sin Nieve",
+      "url": "https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA"
     },
     {
       "added_at": "2026-08-28 04:02:14",
@@ -1327,34 +1327,38 @@
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Una Navidad Sin Nieve",
-        "url": "https://open.spotify.com/album/54ylQUQYODLfUCIZ782l7G"
+        "name": "A\u00f1o Nuevo, Misma Soledad (Live)",
+        "url": "https://open.spotify.com/album/13AXkIfAZacRwtCIKOsPgh"
       },
       "artists": [
         {
-          "name": "Denise Rosenthal",
-          "url": "https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62"
+          "name": "Raquel Sof\u00eda",
+          "url": "https://open.spotify.com/artist/0J9JLJmiTXJFvvyHS3Qzn4"
         }
       ],
-      "duration_ms": 162346,
-      "name": "Una Navidad Sin Nieve",
-      "url": "https://open.spotify.com/track/44icGG2nMxjtgEkwcPKglA"
+      "duration_ms": 213547,
+      "name": "A\u00f1o Nuevo, Misma Soledad - Live",
+      "url": "https://open.spotify.com/track/2LXfbLpehJxGdI3N0Vs5cu"
     },
     {
       "added_at": "2026-08-28 04:02:14",
       "album": {
-        "name": "Love & Christmas",
-        "url": "https://open.spotify.com/album/0xxMYzTP9WOD4PJnAM7wZn"
+        "name": "Villancicos",
+        "url": "https://open.spotify.com/album/0plHwd26dot1EiYNqE1imb"
       },
       "artists": [
         {
-          "name": "Jos\u00e9 Feliciano",
-          "url": "https://open.spotify.com/artist/7K78lVZ8XzkjfRSI7570FF"
+          "name": "Bacilos",
+          "url": "https://open.spotify.com/artist/1mux8L6xg2Cmrc7k0wQczl"
+        },
+        {
+          "name": "MON SIERRA",
+          "url": "https://open.spotify.com/artist/07AkiNkIfcD9XqqmqakiCK"
         }
       ],
-      "duration_ms": 255125,
-      "name": "Human Nature - En Espa\u00f1ol",
-      "url": "https://open.spotify.com/track/0c7y9AizJYJ9TexbdHb4XB"
+      "duration_ms": 260143,
+      "name": "El Tamborilero",
+      "url": "https://open.spotify.com/track/5MfxwmRXFzGsvn2yR0HI9v"
     }
   ],
   "unique_name": "Feliz Navidad",

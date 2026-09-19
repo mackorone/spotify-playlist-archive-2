@@ -1,12 +1,12 @@
 {
   "description": "This is Tyga. The essential tracks, all in one playlist.",
-  "num_followers": 229286,
+  "num_followers": 229283,
   "original_name": "This Is Tyga",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAB3UAuaBoWiF9xtWIYTM9TS",
+  "snapshot_id": "aqstgAAAAAAoz6kF/Bexmiht9u+Z/DSv",
   "tracks": [
     {
       "added_at": null,
@@ -99,26 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fan of A Fan The Album (Expanded Edition)",
-        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
-      },
-      "artists": [
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 225226,
-      "name": "Ayo",
-      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Westside Whimsy",
         "url": "https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK"
       },
@@ -135,6 +115,26 @@
       "duration_ms": 211264,
       "name": "Like, Whatever (feat. Tyga)",
       "url": "https://open.spotify.com/track/3Fqvyd1aC7UrXIrN9MWVEb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fan of A Fan The Album (Expanded Edition)",
+        "url": "https://open.spotify.com/album/4neocSMt40stXKK2B8Sy2G"
+      },
+      "artists": [
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/7bXgB6jMjp9ATFy66eO08Z"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 225226,
+      "name": "Ayo",
+      "url": "https://open.spotify.com/track/0k6DnZMLoEUH8NGD5zh2SE"
     },
     {
       "added_at": null,
@@ -527,26 +527,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GAVE U RACKS",
-        "url": "https://open.spotify.com/album/4SLvX8SIf7hkx5kYAj8Ph0"
-      },
-      "artists": [
-        {
-          "name": "$TARFACE",
-          "url": "https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 199757,
-      "name": "GAVE U RACKS",
-      "url": "https://open.spotify.com/track/4vyJJrWfIrIy7VCFceAML4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CiCi",
         "url": "https://open.spotify.com/album/1UsR5de4sGUhjQ8cU3JypJ"
       },
@@ -563,6 +543,26 @@
       "duration_ms": 143037,
       "name": "Dance With Me",
       "url": "https://open.spotify.com/track/4dZbiGtVeD9S2DmwM3Jzxg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "GAVE U RACKS",
+        "url": "https://open.spotify.com/album/4SLvX8SIf7hkx5kYAj8Ph0"
+      },
+      "artists": [
+        {
+          "name": "$TARFACE",
+          "url": "https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 199757,
+      "name": "GAVE U RACKS",
+      "url": "https://open.spotify.com/track/4vyJJrWfIrIy7VCFceAML4"
     },
     {
       "added_at": null,
@@ -751,26 +751,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "$TARFACE",
-        "url": "https://open.spotify.com/album/6sP5Exlpl3wK4nWnvwksQ4"
-      },
-      "artists": [
-        {
-          "name": "$TARFACE",
-          "url": "https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 243920,
-      "name": "FREEZING",
-      "url": "https://open.spotify.com/track/6Fg6C4t18lGnDggkDUljlA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Legendary (Deluxe Edition)",
         "url": "https://open.spotify.com/album/1dDfjR6KqXwa6I8XmPXnxr"
       },
@@ -811,22 +791,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "California (from Songland) (feat. Tyga)",
-        "url": "https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf"
+        "name": "$TARFACE",
+        "url": "https://open.spotify.com/album/6sP5Exlpl3wK4nWnvwksQ4"
       },
       "artists": [
         {
-          "name": "USHER",
-          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+          "name": "$TARFACE",
+          "url": "https://open.spotify.com/artist/1aAFxL6yILr1przXto9eyl"
         },
         {
           "name": "Tyga",
           "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
         }
       ],
-      "duration_ms": 175179,
-      "name": "California (from Songland) (feat. Tyga)",
-      "url": "https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp"
+      "duration_ms": 243920,
+      "name": "FREEZING",
+      "url": "https://open.spotify.com/track/6Fg6C4t18lGnDggkDUljlA"
     },
     {
       "added_at": null,
@@ -871,6 +851,26 @@
       "duration_ms": 221493,
       "name": "Switch Lanes",
       "url": "https://open.spotify.com/track/1GMDpf82TUwTVBPYiu0dmR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "California (from Songland) (feat. Tyga)",
+        "url": "https://open.spotify.com/album/2sFKXPYFWzNr3LGz9CaPzf"
+      },
+      "artists": [
+        {
+          "name": "USHER",
+          "url": "https://open.spotify.com/artist/23zg3TcAtWQy7J6upgbUnj"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 175179,
+      "name": "California (from Songland) (feat. Tyga)",
+      "url": "https://open.spotify.com/track/0TLnTwqXslKsovat4bz0jp"
     },
     {
       "added_at": null,
@@ -975,6 +975,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "ALPHA",
+        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
+      },
+      "artists": [
+        {
+          "name": "Shenseea",
+          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 145813,
+      "name": "Blessed (with Tyga)",
+      "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Documentary III",
         "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
       },
@@ -995,26 +1015,6 @@
       "duration_ms": 230160,
       "name": "In The Way",
       "url": "https://open.spotify.com/track/1n2BgOnlFIO1Ih8lNyNHR6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "ALPHA",
-        "url": "https://open.spotify.com/album/2UA2lqBPIhOFnvHszOVIaq"
-      },
-      "artists": [
-        {
-          "name": "Shenseea",
-          "url": "https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 145813,
-      "name": "Blessed (with Tyga)",
-      "url": "https://open.spotify.com/track/3eKLbe124mzIRFPuwCnJAD"
     },
     {
       "added_at": null,
@@ -1047,6 +1047,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Low Key (feat. Tyga)",
+        "url": "https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH"
+      },
+      "artists": [
+        {
+          "name": "Ally Brooke",
+          "url": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
+        },
+        {
+          "name": "Tyga",
+          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
+        }
+      ],
+      "duration_ms": 201385,
+      "name": "Low Key (feat. Tyga)",
+      "url": "https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRANSLATION",
         "url": "https://open.spotify.com/album/0uxvuY8Ek2ojzHrWTg2PDc"
       },
@@ -1067,26 +1087,6 @@
       "duration_ms": 234374,
       "name": "VIDA LOCA",
       "url": "https://open.spotify.com/track/6c6Pr4ALb2SD7j7UnS5YDE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Low Key (feat. Tyga)",
-        "url": "https://open.spotify.com/album/5Wba3IvT61Jz2kZDVKbrxH"
-      },
-      "artists": [
-        {
-          "name": "Ally Brooke",
-          "url": "https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk"
-        },
-        {
-          "name": "Tyga",
-          "url": "https://open.spotify.com/artist/5LHRHt1k9lMyONurDHEdrp"
-        }
-      ],
-      "duration_ms": 201385,
-      "name": "Low Key (feat. Tyga)",
-      "url": "https://open.spotify.com/track/7xhvCzIguRfyfQyGrnWuVn"
     }
   ],
   "unique_name": "This Is Tyga",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Curol
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,172,601 likes - 80 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,172,530 likes - 80 songs - 4 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 13 | [In The Dark](https://open.spotify.com/track/5SlgO3tndAkHsew4j09cbE) | [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [In The Dark](https://open.spotify.com/album/0BWHItIN8Po4HdmjTgRJpu) | 2:37 |
 | 14 | [Open The Club](https://open.spotify.com/track/6Vc5Hg7DH5CWkn7qFTUuVB) | [GIU](https://open.spotify.com/artist/5fI3Jx53nUWNtVWpZc4nze) | [Open The Club](https://open.spotify.com/album/3KKG2KQwaIWXrrg03iMWhv) | 2:59 |
 | 15 | [Beatzinho de Bandido](https://open.spotify.com/track/35nEJJMKB3W30qVF4g7hE1) | [DOBÊ](https://open.spotify.com/artist/5EdI5k1CIveXTaJxtkmnVv), [Mc Th](https://open.spotify.com/artist/0bg3fNpRQgZTCAg3Bseyly) | [Beatzinho de Bandido](https://open.spotify.com/album/5cT7b1GLTuQbRCCK9xYGP9) | 2:29 |
-| 16 | [Follow \- Zerb Remix](https://open.spotify.com/track/4YxWfrWHm82jBpPOgyHMkD) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Follow \(Zerb Remix\)](https://open.spotify.com/album/78cdvoyxXFsrOCsuuN8DRB) | 4:48 |
+| 16 | [Follow \- Zerb Remix](https://open.spotify.com/track/4YxWfrWHm82jBpPOgyHMkD) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Follow \(Zerb Remix\)](https://open.spotify.com/album/78cdvoyxXFsrOCsuuN8DRB) | 4:03 |
 | 17 | [For Real](https://open.spotify.com/track/1CiTlOwShN6Rfee93dxayL) | [Brisotti](https://open.spotify.com/artist/3L0kwteWrevLGtjvQVYLcl) | [For Real](https://open.spotify.com/album/3I8XCtQQlAysyh08GlIQGs) | 3:30 |
 | 18 | [M A M I](https://open.spotify.com/track/4kNKhrMcTemETjYXtvVYiM) | [Groove Delight](https://open.spotify.com/artist/1DX1cbeKQkRJClf4TMmXIn) | [M A M I](https://open.spotify.com/album/0vzPOMvyveOXKIbCZ2lBoz) | 3:10 |
 | 19 | [Whisper \(unfazed Remix\)](https://open.spotify.com/track/67Fn6QWbnQqdaiQXUljNuy) | [Joel Corry](https://open.spotify.com/artist/6DgP9otnZw5z6daOntINxp), [unfazed](https://open.spotify.com/artist/6Wum1TGlR5ndmClcDmHeg0) | [Whisper \(unfazed Remix\)](https://open.spotify.com/album/4YvykhnCTNBXUWAz7CHe48) | 2:50 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPK7HyVedIT.md) - [plain]
 | 79 | [Flex](https://open.spotify.com/track/1TtkiapicAnn1NxK2aARnp) | [Viot](https://open.spotify.com/artist/7fld8KFMgCmJlsVOJ1oo4M) | [Flex/Cardio](https://open.spotify.com/album/3575akg0Xr8XWOz2L83hR2) | 3:24 |
 | 80 | [O DJ Te Convoca](https://open.spotify.com/track/72YWCeiJ2AD7GGX2aAStLr) | [Jaca Beats](https://open.spotify.com/artist/0JjiErN6IoSLDRsoSCAUBD) | [O DJ Te Convoca](https://open.spotify.com/album/5kELhdKyNdX06S5o7fSC7V) | 3:02 |
 
-Snapshot ID: `AAAAAFz6olmIyZIcGmns63KEDWiRiGYw`
+Snapshot ID: `AAAAAPzBUpE1yhwYvNvPjMIywJ1T4z7h`

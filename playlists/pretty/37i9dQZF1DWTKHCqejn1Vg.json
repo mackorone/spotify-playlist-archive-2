@@ -1,12 +1,12 @@
 {
   "description": "\uc0ac\ub791\uc774 \ub354\uc6b1 \ub728\uac81\uac8c \uc11e\uc77c \ub54c.",
-  "num_followers": 34704,
+  "num_followers": 34705,
   "original_name": "\uc139\uc2dc & \ub85c\ub9e8\ud2f1 (K-Sexy & Romantic Songs)",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFS2iiGHyz2UNsaHf2wGyoDBBKr8",
+  "snapshot_id": "AAAAACtT6mA/zVju+xtNkDw3vUGJr5OK",
   "tracks": [
     {
       "added_at": "2026-09-03 07:18:48",
@@ -467,22 +467,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "Take Me",
-        "url": "https://open.spotify.com/album/7Cr3sCsROrVfclDb7d9z5z"
-      },
-      "artists": [
-        {
-          "name": "Miso",
-          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
-        }
-      ],
-      "duration_ms": 257647,
-      "name": "Take Me",
-      "url": "https://open.spotify.com/track/7tIJDktakabGoHjwTTa35W"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "Show Me The Money 9 Episode 3",
         "url": "https://open.spotify.com/album/1FFLLpkDzRG59I1S6s7vGt"
       },
@@ -495,6 +479,22 @@
       "duration_ms": 205999,
       "name": "Infrared Camera",
       "url": "https://open.spotify.com/track/0YRuXgAFpfsIx8GgsJBJu3"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "Take Me",
+        "url": "https://open.spotify.com/album/7Cr3sCsROrVfclDb7d9z5z"
+      },
+      "artists": [
+        {
+          "name": "Miso",
+          "url": "https://open.spotify.com/artist/04xEkodoWyFji8icX911jM"
+        }
+      ],
+      "duration_ms": 257647,
+      "name": "Take Me",
+      "url": "https://open.spotify.com/track/7tIJDktakabGoHjwTTa35W"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -619,22 +619,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "KEUNG",
-        "url": "https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc"
-      },
-      "artists": [
-        {
-          "name": "C JAMM",
-          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
-        }
-      ],
-      "duration_ms": 191667,
-      "name": "Leave",
-      "url": "https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "want YOU",
         "url": "https://open.spotify.com/album/5RwgOfzXDZePkwPRPHXnp1"
       },
@@ -647,6 +631,22 @@
       "duration_ms": 154803,
       "name": "want YOU",
       "url": "https://open.spotify.com/track/2KViIi8kIhz56yL1qIUI1w"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "KEUNG",
+        "url": "https://open.spotify.com/album/27DBdAQYbalG0di7blGfDc"
+      },
+      "artists": [
+        {
+          "name": "C JAMM",
+          "url": "https://open.spotify.com/artist/2ZT3bnHPOdErwCLdP5aHqR"
+        }
+      ],
+      "duration_ms": 191667,
+      "name": "Leave",
+      "url": "https://open.spotify.com/track/2JBNZs63jcrod7xJ8anwcA"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -851,26 +851,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "B side",
-        "url": "https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz"
-      },
-      "artists": [
-        {
-          "name": "youra",
-          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
-        },
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 197750,
-      "name": "Flicker (Feat. Car, the garden)",
-      "url": "https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "ROOM SERVICE",
         "url": "https://open.spotify.com/album/1GbGtBHI4yiKprKQq81El0"
       },
@@ -895,34 +875,22 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "i said it",
-        "url": "https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN"
+        "name": "B side",
+        "url": "https://open.spotify.com/album/7sEUUITszL8AQptgMEUrkz"
       },
       "artists": [
         {
-          "name": "Jiselle",
-          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
-        }
-      ],
-      "duration_ms": 147000,
-      "name": "i said it",
-      "url": "https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
-        "name": "OVERDRIVE",
-        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
-      },
-      "artists": [
+          "name": "youra",
+          "url": "https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V"
+        },
         {
-          "name": "I.M",
-          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
         }
       ],
-      "duration_ms": 184266,
-      "name": "Habit",
-      "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
+      "duration_ms": 197750,
+      "name": "Flicker (Feat. Car, the garden)",
+      "url": "https://open.spotify.com/track/1llrs3s4loOC4eMaV1yc1x"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -943,6 +911,38 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
+        "name": "OVERDRIVE",
+        "url": "https://open.spotify.com/album/0IypTpMarJExzpoVXFPmW1"
+      },
+      "artists": [
+        {
+          "name": "I.M",
+          "url": "https://open.spotify.com/artist/49tkHHS0mXwa5eLYvyvKyd"
+        }
+      ],
+      "duration_ms": 184266,
+      "name": "Habit",
+      "url": "https://open.spotify.com/track/1RQqbSlookHZBgm5Cf3Sg4"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "i said it",
+        "url": "https://open.spotify.com/album/4Bwf79TKUV0FYcc9e9A3GN"
+      },
+      "artists": [
+        {
+          "name": "Jiselle",
+          "url": "https://open.spotify.com/artist/6tjbcCaexKI8esvvEZPVnt"
+        }
+      ],
+      "duration_ms": 147000,
+      "name": "i said it",
+      "url": "https://open.spotify.com/track/26a0JIitgz3Ut1CNnf2HgW"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
         "name": "AFTER UPSET",
         "url": "https://open.spotify.com/album/3hv9aXwK1pz50JrCXZqiVh"
       },
@@ -955,6 +955,22 @@
       "duration_ms": 129000,
       "name": "muah",
       "url": "https://open.spotify.com/track/0AHhkuNuqjFPzMfi72JIxr"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "There And Back Again",
+        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
+      },
+      "artists": [
+        {
+          "name": "Eric Nam",
+          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
+        }
+      ],
+      "duration_ms": 196986,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
     },
     {
       "added_at": "2026-09-03 07:18:48",
@@ -979,22 +995,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "There And Back Again",
-        "url": "https://open.spotify.com/album/643X6WW2ijEwMLaNjp1dk1"
-      },
-      "artists": [
-        {
-          "name": "Eric Nam",
-          "url": "https://open.spotify.com/artist/2FLqlgckDKdmpBrvLAT5BM"
-        }
-      ],
-      "duration_ms": 196986,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/3vsfL1GdEMvoUs59KERxPx"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "LOG",
         "url": "https://open.spotify.com/album/43gRZhkhNa92R9NHvTIPgo"
       },
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-09-03 07:18:48",
       "album": {
-        "name": "TOUCHIN'",
-        "url": "https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke"
-      },
-      "artists": [
-        {
-          "name": "KANGDANIEL",
-          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
-        }
-      ],
-      "duration_ms": 185760,
-      "name": "TOUCHIN'",
-      "url": "https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe"
-    },
-    {
-      "added_at": "2026-09-03 07:18:48",
-      "album": {
         "name": "Archive 1: [Road Runner]",
         "url": "https://open.spotify.com/album/7vD1S5S2T4qHQzAAmZaSwl"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 187680,
       "name": "Inside",
       "url": "https://open.spotify.com/track/2DQExJcuyW8ZuDIcOBx0EG"
+    },
+    {
+      "added_at": "2026-09-03 07:18:48",
+      "album": {
+        "name": "TOUCHIN'",
+        "url": "https://open.spotify.com/album/08FjoakLYgsyA4NzfVPWke"
+      },
+      "artists": [
+        {
+          "name": "KANGDANIEL",
+          "url": "https://open.spotify.com/artist/5vGoWnZO65NBgiZYBmi3iW"
+        }
+      ],
+      "duration_ms": 185760,
+      "name": "TOUCHIN'",
+      "url": "https://open.spotify.com/track/4N5jdijK8DSBbBd4A30DUe"
     },
     {
       "added_at": "2026-09-03 07:18:48",

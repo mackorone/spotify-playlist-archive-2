@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIX11fykfK86c>R.E.M.</a>, <a href=spotify:playlist:37i9dQZF1EIUutZ8JokfM0>Katy Perry</a>, <a href=spotify:playlist:37i9dQZF1EIXDaYK299f9T>Cigarettes After Sex</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a>, <a href=spotify:playlist:37i9dQZF1EIZCxFUJomB5x>SIENNA SPIRO</a>, <a href=spotify:playlist:37i9dQZF1EIWSrcRlZfmEg>The Long Faces</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Losing My Religion](https://open.spotify.com/track/31AOj9sFz2gM0O3hMARRBx) | [R.E.M.](https://open.spotify.com/artist/4KWTAlx2RvbpseOGMEmROg) | [Out Of Time \(25th Anniversary Edition\)](https://open.spotify.com/album/6yEuIwTQpciH1qtj7mP5GK) | 4:28 |
-| 2 | [The One That Got Away](https://open.spotify.com/track/2009X8GyWTqyxIdzAEYW6N) | [Katy Perry](https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X) | [Teenage Dream](https://open.spotify.com/album/2UG6T6f0Qc9SaBCIcaviLM) | 3:47 |
-| 3 | [Apocalypse](https://open.spotify.com/track/1oAwsWBovWRIp7qLMGPIet) | [Cigarettes After Sex](https://open.spotify.com/artist/1QAJqy2dA3ihHBFIHRphZj) | [Cigarettes After Sex](https://open.spotify.com/album/5chTLnnxlxQVAgEv6YbEBe) | 4:50 |
+| 1 | [Self Aware](https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT) | [Temper City](https://open.spotify.com/artist/5mHUmlJWkcoOk1NbjfrXWz) | [Self Aware](https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M) | 3:00 |
+| 2 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
+| 3 | [Jane!](https://open.spotify.com/track/0IjdXwCEhZR7JIwq6Za8j5) | [The Long Faces](https://open.spotify.com/artist/1DhiWyne1hHwVHTti49o40) | [Jane!](https://open.spotify.com/album/03HZu3A0gz8fPjrGfDKAsu) | 3:06 |
 | 4 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 |
 | 5 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |
 | 6 | [Wish \- Audiomack Trap Symphony Version](https://open.spotify.com/track/3STIi4I7eGMJJJhGRIfVli) | [Trippie Redd](https://open.spotify.com/artist/6Xgp2XMz1fhVYe7i6yNAax), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Wish \(Audiomack Trap Symphony Version\)](https://open.spotify.com/album/2nnbbGH98X1gyvbCaCmz3a) | 3:00 |
@@ -53,10 +53,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 43 | [WHO I AM](https://open.spotify.com/track/06rpIOxnQoXUAcJHBV0u3k) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [WHO I AM](https://open.spotify.com/album/025DsQ1VwWqpqavTpyXnkd) | 2:30 |
 | 44 | [Uncomparable](https://open.spotify.com/track/5GToLrexykJHVIedB2W5QT) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Uncomparable](https://open.spotify.com/album/1UHjX5iIanOMTSYu9YE8vl) | 1:45 |
 | 45 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
-| 46 | [WITHOUT YOU](https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:41 |
-| 47 | [Forever Pt 2](https://open.spotify.com/track/3cKVNQhEJp4STGjP9lFiFT) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Forever Pt 2](https://open.spotify.com/album/5eGUQ1IFjXcZ6oJvopDigO) | 2:48 |
+| 46 | [Forever Pt 2](https://open.spotify.com/track/3cKVNQhEJp4STGjP9lFiFT) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Forever Pt 2](https://open.spotify.com/album/5eGUQ1IFjXcZ6oJvopDigO) | 2:48 |
+| 47 | [WITHOUT YOU](https://open.spotify.com/track/1KMkcUvF7m3SDChDOa7i5L) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [F\*CK LOVE 3+: OVER YOU](https://open.spotify.com/album/576UTio7xgY7YUxrHMzxeI) | 2:41 |
 | 48 | [they'll post it online](https://open.spotify.com/track/6yZzK6O3NRSv5TxcQMFmX3) | [overtonight](https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs) | [it's over tonight.](https://open.spotify.com/album/2wVlRXuhfGaHp4vBskI9MG) | 1:30 |
 | 49 | [Roto](https://open.spotify.com/track/3YIU0OFB9ejJxu3eWgb7sU) | [3AM](https://open.spotify.com/artist/1LU7BxbUvvuA4eNDdEO22D) | [Roto](https://open.spotify.com/album/7tepmOQT0a7CUE5TpLJzpf) | 3:12 |
 | 50 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 |
 
-Snapshot ID: `AAAAAC+ZJLhph9DgaptbBnnG4fOaEsMI`
+Snapshot ID: `AAAAABdGcRNZCKy3sCOmZyX+mYEGx9CW`

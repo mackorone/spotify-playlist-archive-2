@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 
 > rolitas perras pa' agarrar cura.
 
-[Spotify](https://open.spotify.com/user/spotify) - 132,555 likes - 78 songs - 4 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 132,573 likes - 78 songs - 4 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,4 +87,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZjpQgC7Wtwz.md) - [plain]
 | 77 | [Recorriendo La Sierra](https://open.spotify.com/track/7vRfTKrkeAtqdF0vHcAhrh) | [Los Norteños De Cosala](https://open.spotify.com/artist/2CM1HLA6vmph9mqtMhFC7g) | [20 Exitos Puros Corridos](https://open.spotify.com/album/3qtc7l9HmA81FSC4DyRnAE) | 3:38 |
 | 78 | [Rosa Rosita](https://open.spotify.com/track/2hpqsqou6JUenpVHHCZsyi) | [Los Tres Mendoza](https://open.spotify.com/artist/5Ihzx2NafZh3IfIWrvakpW) | [Un Sueño Hecho Realidad](https://open.spotify.com/album/6dvw2yoDvVBYTtoxqAfXG9) | 2:20 |
 
-Snapshot ID: `AAAAACm1Z5XX47R0F7nU6RO6pbfAtmlm`
+Snapshot ID: `AAAAAIavmtc74PZYd9AC4BisVLliokH3`

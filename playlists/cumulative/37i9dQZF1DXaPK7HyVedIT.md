@@ -4,7 +4,7 @@
 
 > Eletrônico do momento para curtir onde estiver\. Foto: Curol
 
-1,064 songs - 2 day 10 hr 46 min
+1,064 songs - 2 day 10 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -356,7 +356,7 @@
 | [Fly Away](https://open.spotify.com/track/7gQzv8EeV2LKGoF6dGtL3P) | [Barja](https://open.spotify.com/artist/5uBR08vndaYNR50ZqRWthK) | [Fly Away](https://open.spotify.com/album/3kn9zwMVOE1Ighr5ZvN5mo) | 5:40 | 2023-10-13 | 2024-02-24 |
 | [Flying With Gods](https://open.spotify.com/track/4c6MFuZAHvnCKA7kXAt0B3) | [BLANCAh](https://open.spotify.com/artist/2UlGQzanOYozGMseJ8qBRz) | [Flying With Gods](https://open.spotify.com/album/0n9wUeRkXRBAyqZAezmXSH) | 6:34 | 2023-12-01 | 2024-03-02 |
 | [Focus \(Double MZK Remix\)](https://open.spotify.com/track/1EKXeIujIqra3DJhx3qqRT) | [Vitor Bueno](https://open.spotify.com/artist/5iI1l0DvdS2382GUHF4bsi), [Double MZK](https://open.spotify.com/artist/6xacomOfO7szsy6qZanBtI) | [Focus \(Double MZK Remix\)](https://open.spotify.com/album/0qo4zOP29YgQAWvbkP18RW) | 2:21 | 2023-07-21 | 2023-09-16 |
-| [Follow \- Zerb Remix](https://open.spotify.com/track/4YxWfrWHm82jBpPOgyHMkD) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Follow \(Zerb Remix\)](https://open.spotify.com/album/78cdvoyxXFsrOCsuuN8DRB) | 4:48 | 2026-09-18 |  |
+| [Follow \- Zerb Remix](https://open.spotify.com/track/4YxWfrWHm82jBpPOgyHMkD) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Zerb](https://open.spotify.com/artist/6mDl7lQiLxT0iQ8LYhAlWy), [Bonn](https://open.spotify.com/artist/7Io0XduXk7aOHFHA7sLru2) | [Follow \(Zerb Remix\)](https://open.spotify.com/album/78cdvoyxXFsrOCsuuN8DRB) | 4:03 | 2026-09-18 |  |
 | [Follow The Road](https://open.spotify.com/track/7rjJ2JrXVsqGGNyDlf952w) | [FEZZO](https://open.spotify.com/artist/2tEWqiatl7q8hW7xyMwrtB), [Kosmo Kint](https://open.spotify.com/artist/5xPHGeNecDlCoEezCF2bWn) | [Follow The Road](https://open.spotify.com/album/1fmixx2VvowVayf8KEtOQx) | 2:58 | 2026-08-21 |  |
 | [Follower](https://open.spotify.com/track/6a0ZPLfCfFMf62JVrlnBW2) | [BRN](https://open.spotify.com/artist/3yujwOo5L5DZDOcGj8K9fj), [Buogo](https://open.spotify.com/artist/5qrsD24E1W2h3LrmvuVu2q) | [Follower](https://open.spotify.com/album/5pqKQdkbhAzNH1VJvzO5t1) | 2:45 | 2026-08-07 |  |
 | [For](https://open.spotify.com/track/7FRc45XQCIZvXT1XziyWdG) | [Greggio](https://open.spotify.com/artist/5q0CEw8Nj1l5fR83EHRLR3), [Zuffo](https://open.spotify.com/artist/1WlcGAUEsCmdO4D15TR6wv) | [For](https://open.spotify.com/album/5hQPiyYmBNgH4hoosbqezG) | 3:03 | 2024-12-13 | 2025-04-05 |

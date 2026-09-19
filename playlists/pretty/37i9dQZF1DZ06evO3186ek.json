@@ -1,12 +1,12 @@
 {
   "description": "This is Maverick City Music. The essential tracks, all in one playlist.",
-  "num_followers": 166508,
+  "num_followers": 166516,
   "original_name": "This Is Maverick City Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAB2tAwsHKtultyoV4K65rJh",
+  "snapshot_id": "aqstgAAAAAAtQLMICOINQ2Ur1Tcl0la2",
   "tracks": [
     {
       "added_at": null,
@@ -439,8 +439,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Holy",
-        "url": "https://open.spotify.com/album/5VsYk0Btufb1Bdn0OKTUsD"
+        "name": "Maverick City, Vol. 2",
+        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
       },
       "artists": [
         {
@@ -448,17 +448,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Dante Bowe",
-          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
-        },
-        {
-          "name": "Grace Idowu",
-          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
+          "name": "Steffany Gretzinger",
+          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
         }
       ],
-      "duration_ms": 380453,
-      "name": "Holy",
-      "url": "https://open.spotify.com/track/7yb3aJG4qnzXy6PWkg3Dyt"
+      "duration_ms": 732553,
+      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
+      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
     },
     {
       "added_at": null,
@@ -491,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Maverick City, Vol. 2",
-        "url": "https://open.spotify.com/album/5knnLqGsFigRxNqFsj3XN1"
+        "name": "Holy",
+        "url": "https://open.spotify.com/album/5VsYk0Btufb1Bdn0OKTUsD"
       },
       "artists": [
         {
@@ -500,13 +496,17 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Steffany Gretzinger",
-          "url": "https://open.spotify.com/artist/2akNRvGNB400IDDUMr1PHW"
+          "name": "Dante Bowe",
+          "url": "https://open.spotify.com/artist/60JjUCBeLsuJ95WFvqFiFz"
+        },
+        {
+          "name": "Grace Idowu",
+          "url": "https://open.spotify.com/artist/77XL22LWpJkV8djPjCNoNH"
         }
       ],
-      "duration_ms": 732553,
-      "name": "Refiner (feat. Steffany Gretzinger, Chandler Moore)",
-      "url": "https://open.spotify.com/track/0exdT4GjJ8NmKzyMgenTWa"
+      "duration_ms": 380453,
+      "name": "Holy",
+      "url": "https://open.spotify.com/track/7yb3aJG4qnzXy6PWkg3Dyt"
     },
     {
       "added_at": null,
@@ -912,13 +912,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "KJ Scriven",
-          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
         }
       ],
-      "duration_ms": 542193,
-      "name": "Man of Your Word (feat. KJ Scriven, Chandler Moore)",
-      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
+      "duration_ms": 766715,
+      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
+      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
     },
     {
       "added_at": null,
@@ -1004,13 +1004,13 @@
           "url": "https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV"
         },
         {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+          "name": "KJ Scriven",
+          "url": "https://open.spotify.com/artist/7z6VyUifcnT3j1q6i9UZLC"
         }
       ],
-      "duration_ms": 766715,
-      "name": "Have My Heart (feat. Chris Brown, Chandler Moore)",
-      "url": "https://open.spotify.com/track/6vpqd2PVdRja9di26vmCAa"
+      "duration_ms": 542193,
+      "name": "Man of Your Word (feat. KJ Scriven, Chandler Moore)",
+      "url": "https://open.spotify.com/track/6TigGiyqHr7Dy1CaCeKhdP"
     },
     {
       "added_at": null,

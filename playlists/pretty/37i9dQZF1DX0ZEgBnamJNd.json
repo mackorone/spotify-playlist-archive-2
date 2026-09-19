@@ -1,12 +1,12 @@
 {
   "description": "Allerbeste songs uit de 60's. Cover: Shocking Blue",
-  "num_followers": 55601,
+  "num_followers": 55612,
   "original_name": "60's Allerbeste",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMKQ6DR2Ad4aWmff76LtTAlEQVR+",
+  "snapshot_id": "AAAAAGkksoTIM2uUXI7O1YBYIk0IyWT7",
   "tracks": [
     {
       "added_at": "2020-04-20 05:39:13",
@@ -1607,18 +1607,22 @@
     {
       "added_at": "2020-04-20 05:39:13",
       "album": {
-        "name": "The Foundations",
-        "url": "https://open.spotify.com/album/3j1kw5l2mEeKCUuXXwjhWp"
+        "name": "The Essential Van Morrison",
+        "url": "https://open.spotify.com/album/0RXzDyBEGd2EGQTmv8cxQa"
       },
       "artists": [
         {
-          "name": "The Foundations",
-          "url": "https://open.spotify.com/artist/4GITZM5LCR2KcdlgEOrNLD"
+          "name": "Them",
+          "url": "https://open.spotify.com/artist/5BaHqGtf6UAZnHfqdPaTDA"
+        },
+        {
+          "name": "Van Morrison",
+          "url": "https://open.spotify.com/artist/44NX2ffIYHr6D4n7RaZF7A"
         }
       ],
-      "duration_ms": 177533,
-      "name": "Build Me Up Buttercup",
-      "url": "https://open.spotify.com/track/6sPOmDulFtLzfX25zICNrC"
+      "duration_ms": 156800,
+      "name": "Gloria (feat. Van Morrison) - Stereo Version",
+      "url": "https://open.spotify.com/track/1DKyFVzIh1oa1fFnEmTkIl"
     }
   ],
   "unique_name": "60's Allerbeste",

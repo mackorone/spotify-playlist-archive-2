@@ -1,12 +1,12 @@
 {
   "description": "\u4e16\u754c\u4e2d\u306e\u30ed\u30c3\u30af\u30b7\u30fc\u30f3\u3092\u5f69\u308b\u8a71\u984c\u66f2\u3092\u30c1\u30a7\u30c3\u30af\u3002Cover: beabadoobee",
-  "num_followers": 260339,
+  "num_followers": 260346,
   "original_name": "Rock The World",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANTkeWIAWJ5Sd0qM1ESQ4Z4GWao/",
+  "snapshot_id": "AAAAAMdDxtdRc8RhZtFrXHbQLtHvKflI",
   "tracks": [
     {
       "added_at": "2026-09-17 15:49:05",
@@ -275,22 +275,6 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "Marianne",
-        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 225645,
-      "name": "Marianne",
-      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
-    },
-    {
-      "added_at": "2026-09-17 15:49:05",
-      "album": {
         "name": "PRESSURE",
         "url": "https://open.spotify.com/album/4vIzHHL3D8TacHTRQzYIYe"
       },
@@ -303,6 +287,22 @@
       "duration_ms": 163874,
       "name": "In My Room",
       "url": "https://open.spotify.com/track/2Ui2JtVjnbHZuExldryCOA"
+    },
+    {
+      "added_at": "2026-09-17 15:49:05",
+      "album": {
+        "name": "Marianne",
+        "url": "https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9"
+      },
+      "artists": [
+        {
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
+        }
+      ],
+      "duration_ms": 225645,
+      "name": "Marianne",
+      "url": "https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB"
     },
     {
       "added_at": "2026-09-17 15:49:05",
@@ -615,6 +615,22 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
+        "name": "Mourning",
+        "url": "https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 256024,
+      "name": "Mourning",
+      "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF"
+    },
+    {
+      "added_at": "2026-09-17 15:49:05",
+      "album": {
         "name": "FIX UR FACE (with Fred Durst)",
         "url": "https://open.spotify.com/album/5V2DOzyXq1zx7yRgebZZIv"
       },
@@ -635,22 +651,6 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "Lost Boys",
-        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
-      },
-      "artists": [
-        {
-          "name": "Phoebe Bridgers",
-          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
-        }
-      ],
-      "duration_ms": 254614,
-      "name": "Lost Boys",
-      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
-    },
-    {
-      "added_at": "2026-09-17 15:49:05",
-      "album": {
         "name": "Insignificant Other",
         "url": "https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib"
       },
@@ -667,18 +667,34 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "Mourning",
-        "url": "https://open.spotify.com/album/1zdTP19mzuyL0N8GdBuU6o"
+        "name": "Lost Boys",
+        "url": "https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP"
       },
       "artists": [
         {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
         }
       ],
-      "duration_ms": 256024,
-      "name": "Mourning",
-      "url": "https://open.spotify.com/track/5zwngdtBYzTqYJT9gXxAdF"
+      "duration_ms": 254614,
+      "name": "Lost Boys",
+      "url": "https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI"
+    },
+    {
+      "added_at": "2026-09-17 15:49:05",
+      "album": {
+        "name": "My Whole World",
+        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
+      },
+      "artists": [
+        {
+          "name": "Kings of Leon",
+          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
+        }
+      ],
+      "duration_ms": 247694,
+      "name": "My Whole World",
+      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
     },
     {
       "added_at": "2026-09-17 15:49:05",
@@ -735,22 +751,6 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "My Whole World",
-        "url": "https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe"
-      },
-      "artists": [
-        {
-          "name": "Kings of Leon",
-          "url": "https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx"
-        }
-      ],
-      "duration_ms": 247694,
-      "name": "My Whole World",
-      "url": "https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3"
-    },
-    {
-      "added_at": "2026-09-17 15:49:05",
-      "album": {
         "name": "Rattle The Cage",
         "url": "https://open.spotify.com/album/5hbtrsOIA000ijlL7vzGdU"
       },
@@ -787,18 +787,18 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "Never Have I Ever",
-        "url": "https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z"
+        "name": "Dying In Reverse",
+        "url": "https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx"
       },
       "artists": [
         {
-          "name": "Rainbow Kitten Surprise",
-          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
+          "name": "Cage The Elephant",
+          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
         }
       ],
-      "duration_ms": 174834,
-      "name": "Never Have I Ever",
-      "url": "https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh"
+      "duration_ms": 234276,
+      "name": "Dying In Reverse",
+      "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
     },
     {
       "added_at": "2026-09-17 15:49:05",
@@ -839,18 +839,18 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "Dying In Reverse",
-        "url": "https://open.spotify.com/album/3QPekCydM2vbzf47Fuzbfx"
+        "name": "Never Have I Ever",
+        "url": "https://open.spotify.com/album/5c64n4bmCFpdsvenhcWp5z"
       },
       "artists": [
         {
-          "name": "Cage The Elephant",
-          "url": "https://open.spotify.com/artist/26T3LtbuGT1Fu9m0eRq5X3"
+          "name": "Rainbow Kitten Surprise",
+          "url": "https://open.spotify.com/artist/4hz8tIajF2INpgM0qzPJz2"
         }
       ],
-      "duration_ms": 234276,
-      "name": "Dying In Reverse",
-      "url": "https://open.spotify.com/track/4iej0znQnZAym0PgU7PICD"
+      "duration_ms": 174834,
+      "name": "Never Have I Ever",
+      "url": "https://open.spotify.com/track/2Ojr742JINM4QEOk7vQGEh"
     },
     {
       "added_at": "2026-09-17 15:49:05",
@@ -871,6 +871,22 @@
       "duration_ms": 253520,
       "name": "SEEIN\u2019 STARS: ELTON JOHN VERSION",
       "url": "https://open.spotify.com/track/3lCQJyHHzQNVkFptuEioPx"
+    },
+    {
+      "added_at": "2026-09-17 15:49:05",
+      "album": {
+        "name": "A Different Kind of Happiness",
+        "url": "https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 246899,
+      "name": "A Different Kind of Happiness",
+      "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
     },
     {
       "added_at": "2026-09-17 15:49:05",
@@ -907,22 +923,6 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "Baby Kool (Evelyn)",
-        "url": "https://open.spotify.com/album/5FiEKdAi2sTPyyLAB3B4JJ"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 224199,
-      "name": "Baby Kool (Evelyn)",
-      "url": "https://open.spotify.com/track/2uPY68Mxt9CqEc7i3o4BTy"
-    },
-    {
-      "added_at": "2026-09-17 15:49:05",
-      "album": {
         "name": "SS26",
         "url": "https://open.spotify.com/album/0eJukoGOrXKU8PQ0F7l4ze"
       },
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
+        "name": "Baby Kool (Evelyn)",
+        "url": "https://open.spotify.com/album/5FiEKdAi2sTPyyLAB3B4JJ"
+      },
+      "artists": [
+        {
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+        }
+      ],
+      "duration_ms": 224199,
+      "name": "Baby Kool (Evelyn)",
+      "url": "https://open.spotify.com/track/2uPY68Mxt9CqEc7i3o4BTy"
+    },
+    {
+      "added_at": "2026-09-17 15:49:05",
+      "album": {
         "name": "Weezer",
         "url": "https://open.spotify.com/album/4X3LhfPfmdcMQblc5k11WC"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 166955,
       "name": "Cicada",
       "url": "https://open.spotify.com/track/6BlEdTeWLngROHBvh1rWaJ"
-    },
-    {
-      "added_at": "2026-09-17 15:49:05",
-      "album": {
-        "name": "A Different Kind of Happiness",
-        "url": "https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP"
-      },
-      "artists": [
-        {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
-        }
-      ],
-      "duration_ms": 246899,
-      "name": "A Different Kind of Happiness",
-      "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
     },
     {
       "added_at": "2026-09-17 15:49:05",
@@ -1051,38 +1051,6 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "Ten Over Ten",
-        "url": "https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za"
-      },
-      "artists": [
-        {
-          "name": "Royal Blood",
-          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
-        }
-      ],
-      "duration_ms": 197323,
-      "name": "Ten Over Ten",
-      "url": "https://open.spotify.com/track/2iXoZ4qfHQ4zfXpLo5RH0m"
-    },
-    {
-      "added_at": "2026-09-17 15:49:05",
-      "album": {
-        "name": "TANZNEID",
-        "url": "https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q"
-      },
-      "artists": [
-        {
-          "name": "Electric Callboy",
-          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
-        }
-      ],
-      "duration_ms": 187642,
-      "name": "Heartclub",
-      "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR"
-    },
-    {
-      "added_at": "2026-09-17 15:49:05",
-      "album": {
         "name": "Evolution",
         "url": "https://open.spotify.com/album/10reOzyrRiJQehulKminkn"
       },
@@ -1115,6 +1083,38 @@
       "duration_ms": 281358,
       "name": "I Want To Believe (feat. Dayseeker)",
       "url": "https://open.spotify.com/track/0sM2Wl82HBAM0QsNyA0H8s"
+    },
+    {
+      "added_at": "2026-09-17 15:49:05",
+      "album": {
+        "name": "Ten Over Ten",
+        "url": "https://open.spotify.com/album/2bKHlLmzDVv2Yn3cB1o9za"
+      },
+      "artists": [
+        {
+          "name": "Royal Blood",
+          "url": "https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15"
+        }
+      ],
+      "duration_ms": 197323,
+      "name": "Ten Over Ten",
+      "url": "https://open.spotify.com/track/2iXoZ4qfHQ4zfXpLo5RH0m"
+    },
+    {
+      "added_at": "2026-09-17 15:49:05",
+      "album": {
+        "name": "TANZNEID",
+        "url": "https://open.spotify.com/album/4rpZ2o8pnwhR3MxkcQ3F5Q"
+      },
+      "artists": [
+        {
+          "name": "Electric Callboy",
+          "url": "https://open.spotify.com/artist/1WNoKxsp715jez1Td4vthc"
+        }
+      ],
+      "duration_ms": 187642,
+      "name": "Heartclub",
+      "url": "https://open.spotify.com/track/6fPSg0YuQCE9blVpANajuR"
     },
     {
       "added_at": "2026-09-17 15:49:05",
@@ -1203,18 +1203,18 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "skinny dip",
-        "url": "https://open.spotify.com/album/0vaVjzaKrZtdBVJdAJk2jn"
+        "name": "If Not Now, When",
+        "url": "https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6"
       },
       "artists": [
         {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+          "name": "Imminence",
+          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
         }
       ],
-      "duration_ms": 192439,
-      "name": "skinny dip",
-      "url": "https://open.spotify.com/track/3GR1J0gHGBN4jX2auDDE2j"
+      "duration_ms": 237384,
+      "name": "If Not Now, When",
+      "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
     },
     {
       "added_at": "2026-09-17 15:49:05",
@@ -1235,18 +1235,18 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "If Not Now, When",
-        "url": "https://open.spotify.com/album/7GRsZT1o71GjMtbBNfOpB6"
+        "name": "skinny dip",
+        "url": "https://open.spotify.com/album/0vaVjzaKrZtdBVJdAJk2jn"
       },
       "artists": [
         {
-          "name": "Imminence",
-          "url": "https://open.spotify.com/artist/7rqJQQxuUOCk052MK5kLsH"
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
         }
       ],
-      "duration_ms": 237384,
-      "name": "If Not Now, When",
-      "url": "https://open.spotify.com/track/1wVwPtygptewuftXzfsBYc"
+      "duration_ms": 192439,
+      "name": "skinny dip",
+      "url": "https://open.spotify.com/track/3GR1J0gHGBN4jX2auDDE2j"
     },
     {
       "added_at": "2026-09-17 15:49:05",
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "superprism",
-        "url": "https://open.spotify.com/album/5ah7EoUrvLmAubA9K9zQIE"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 201692,
-      "name": "superprism",
-      "url": "https://open.spotify.com/track/76XWO9QoZDT9BOjSKsFvJz"
-    },
-    {
-      "added_at": "2026-09-17 15:49:05",
-      "album": {
         "name": "Kerosene",
         "url": "https://open.spotify.com/album/65GiY2SnJWKtFIGyFDKSDm"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 206000,
       "name": "Kerosene",
       "url": "https://open.spotify.com/track/2xixXiLYi3FsNF0m9vEV2G"
+    },
+    {
+      "added_at": "2026-09-17 15:49:05",
+      "album": {
+        "name": "superprism",
+        "url": "https://open.spotify.com/album/5ah7EoUrvLmAubA9K9zQIE"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 201692,
+      "name": "superprism",
+      "url": "https://open.spotify.com/track/76XWO9QoZDT9BOjSKsFvJz"
     },
     {
       "added_at": "2026-09-17 15:49:05",
@@ -1459,6 +1459,22 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
+        "name": "THANK GOD IT'S ALMOST MONDAY",
+        "url": "https://open.spotify.com/album/6Kbrdx4BGQ41cmkJZw1yBM"
+      },
+      "artists": [
+        {
+          "name": "almost monday",
+          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
+        }
+      ],
+      "duration_ms": 214461,
+      "name": "french kids",
+      "url": "https://open.spotify.com/track/3rDsK4LPkbISdXr7gBCkor"
+    },
+    {
+      "added_at": "2026-09-17 15:49:05",
+      "album": {
         "name": "Zero Day",
         "url": "https://open.spotify.com/album/2026dnWlENNtXR8ze8vWDV"
       },
@@ -1523,22 +1539,6 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "THANK GOD IT'S ALMOST MONDAY",
-        "url": "https://open.spotify.com/album/6Kbrdx4BGQ41cmkJZw1yBM"
-      },
-      "artists": [
-        {
-          "name": "almost monday",
-          "url": "https://open.spotify.com/artist/42FzVuyJH8YbkhzWSR2n8E"
-        }
-      ],
-      "duration_ms": 214461,
-      "name": "french kids",
-      "url": "https://open.spotify.com/track/3rDsK4LPkbISdXr7gBCkor"
-    },
-    {
-      "added_at": "2026-09-17 15:49:05",
-      "album": {
         "name": "Modern Life Is Lonely",
         "url": "https://open.spotify.com/album/2WLm37rfHtwRJ9VGMFp7uA"
       },
@@ -1587,22 +1587,6 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "Godspeed!",
-        "url": "https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz"
-      },
-      "artists": [
-        {
-          "name": "HYUKOH",
-          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
-        }
-      ],
-      "duration_ms": 286120,
-      "name": "Godspeed!",
-      "url": "https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job"
-    },
-    {
-      "added_at": "2026-09-17 15:49:05",
-      "album": {
         "name": "Something To Consume",
         "url": "https://open.spotify.com/album/0FdOJumn3KGRDwCoLTt8CY"
       },
@@ -1615,6 +1599,22 @@
       "duration_ms": 160163,
       "name": "Throw Yourself to the Sword",
       "url": "https://open.spotify.com/track/1T4TSL2UaYjauerxFyPal0"
+    },
+    {
+      "added_at": "2026-09-17 15:49:05",
+      "album": {
+        "name": "Godspeed!",
+        "url": "https://open.spotify.com/album/1hLx4lbtbE7QgAbUxJSdHz"
+      },
+      "artists": [
+        {
+          "name": "HYUKOH",
+          "url": "https://open.spotify.com/artist/57okaLdCtv3nVBSn5otJkp"
+        }
+      ],
+      "duration_ms": 286120,
+      "name": "Godspeed!",
+      "url": "https://open.spotify.com/track/4PgHTCD1Qgs3i45JSr0Job"
     },
     {
       "added_at": "2026-09-17 15:49:05",
@@ -1699,18 +1699,18 @@
     {
       "added_at": "2026-09-17 15:49:05",
       "album": {
-        "name": "The Hardest Thing",
-        "url": "https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi"
+        "name": "Fear The Beast",
+        "url": "https://open.spotify.com/album/6tbTWQqmbA4aYsrwyuAmA4"
       },
       "artists": [
         {
-          "name": "Julia Jacklin",
-          "url": "https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g"
+          "name": "Beast In Black",
+          "url": "https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH"
         }
       ],
-      "duration_ms": 201992,
-      "name": "The Hardest Thing",
-      "url": "https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD"
+      "duration_ms": 224684,
+      "name": "Fear The Beast",
+      "url": "https://open.spotify.com/track/0lVky9O0vQXsq4R7nP3cB1"
     }
   ],
   "unique_name": "Rock The World",

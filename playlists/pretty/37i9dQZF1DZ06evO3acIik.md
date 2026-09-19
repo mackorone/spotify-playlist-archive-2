@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 
 > This is Montell Fish\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,912 likes - 50 songs - 2 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,909 likes - 50 songs - 2 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 21 | [Exscape](https://open.spotify.com/track/2hybPIpFIDRa8XEY5D4VE2) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Her Love Still Haunts Me Like a Ghost](https://open.spotify.com/album/2WSzjPtCHRBV3zz2NeYksT) | 2:22 |
 | 22 | [Fallin Out of Love With You](https://open.spotify.com/track/4TiiNnlxF2Kr1IXe9ngpM0) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [JAMIE](https://open.spotify.com/album/6FSEqIn7lAhwyy0neZmb0D) | 1:50 |
 | 23 | [Call U Tomorrow](https://open.spotify.com/track/5gMizoAVFqD4Kop30HUye7) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Call U Tomorrow](https://open.spotify.com/album/1weDKYVBXXt0RnzdtGHBCX) | 3:06 |
-| 24 | [i cant tell \(love my money\)](https://open.spotify.com/track/1vlsRbS3ZEGLgX6sxpHnrS) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/1zZ4iplHe7z3ONNPnVYkVD) | 2:43 |
-| 25 | [Wonderful God](https://open.spotify.com/track/5j8MZ7TfLqBMfkZLUDE9UL) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Bedroom Gospel](https://open.spotify.com/album/32j8bm1yPKT5Ge05KwcIqt) | 3:47 |
+| 24 | [Wonderful God](https://open.spotify.com/track/5j8MZ7TfLqBMfkZLUDE9UL) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Jonathan Ogden](https://open.spotify.com/artist/2Q1d40J0u4IWGg4oZNPBZ7) | [Bedroom Gospel](https://open.spotify.com/album/32j8bm1yPKT5Ge05KwcIqt) | 3:47 |
+| 25 | [i cant tell \(love my money\)](https://open.spotify.com/track/1vlsRbS3ZEGLgX6sxpHnrS) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw) | [i cant tell \(love my money\)](https://open.spotify.com/album/1zZ4iplHe7z3ONNPnVYkVD) | 2:43 |
 | 26 | [Hollow Lover](https://open.spotify.com/track/4IGKuHwRCzLU72OcKVewrA) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Hollow Lover](https://open.spotify.com/album/7hKTlT6GObMqemap6iBa5Q) | 3:07 |
 | 27 | [Bodies](https://open.spotify.com/track/21yc8LrPyJ8v52s4PC1hUC) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Days Are Getting Shorter](https://open.spotify.com/album/4GYPiYB5ZXwHS3EVHv23lb) | 0:56 |
 | 28 | [Is it a Crime?](https://open.spotify.com/track/7dr1xuaEhYlykaoGNP10a3) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [CHARLOTTE](https://open.spotify.com/album/1iD7bcaFPggIu4hS9yxPN0) | 3:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3acIik.md) - [plain]
 | 49 | [Stay Patient.](https://open.spotify.com/track/7uvbamNsiIOUsw2QJf1BQ1) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [Stay Patient.](https://open.spotify.com/album/2XhxedyLppu92AMi3038ES) | 3:20 |
 | 50 | [Only Death Can Separate Us](https://open.spotify.com/track/6wLP6lDOoap3D3T2Tjkt8u) | [dj gummy bear](https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw), [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [The Spirit Still Remains \(Purgatory\)](https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP) | 2:26 |
 
-Snapshot ID: `aqiKgAAAAADXhlwp9ynVIPEwTe9dbgYf`
+Snapshot ID: `aqstgAAAAACYdanMO6SJ1jlja2vIJFUc`

@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-508 songs - 1 day 5 hr 24 min
+509 songs - 1 day 5 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -17,7 +17,7 @@
 | [A Lot](https://open.spotify.com/track/0ZyU0bHh1UsZz9MUzSth8g) | [Loni Lila](https://open.spotify.com/artist/4mVVCZXncoiQapqEdPFFAy), [Konsum](https://open.spotify.com/artist/6Dw2VAyo0stjSYKTVDzLVD), [YÜÜP](https://open.spotify.com/artist/5Sl0lYEFxFwXKIfJa1Iglj) | [A Lot](https://open.spotify.com/album/5LLIXRhHSDFLhS72dP4Hbp) | 3:24 | 2026-06-06 | 2026-08-18 |
 | [A Million Miles Away](https://open.spotify.com/track/4rU2hKYGURP7h18SYQ0Nzf) | [Whisky Sugar](https://open.spotify.com/artist/6OqFOZbNzmvC2BodLx9Iw6) | [A Million Miles Away](https://open.spotify.com/album/5NNokKgXWExS1Pu54fIJ6G) | 7:12 | 2026-08-03 |  |
 | [a place](https://open.spotify.com/track/0B10EkMCSLvpyLffiuRPMt) | [Tex M](https://open.spotify.com/artist/2UdABJUkfJ2hQEERZhhkUq) | [Not All Eyes Are Green](https://open.spotify.com/album/5uIS1c0hRQZY3H8eIHNCrJ) | 1:47 | 2026-02-25 | 2026-04-16 |
-| [A Punch to the Face](https://open.spotify.com/track/1GskPjnCByUjvZSBW9YTlj) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [A Punch to the Face](https://open.spotify.com/album/1qgC0hvX8UQHX2HxE4Fqw2) | 2:37 | 2026-07-22 |  |
+| [A Punch to the Face](https://open.spotify.com/track/1GskPjnCByUjvZSBW9YTlj) | [MOON EATER](https://open.spotify.com/artist/6ba0LW5CuxxNNn3Il6MkgB) | [A Punch to the Face](https://open.spotify.com/album/1qgC0hvX8UQHX2HxE4Fqw2) | 2:37 | 2026-07-22 | 2026-09-19 |
 | [A Street](https://open.spotify.com/track/3z9yp7Rf4hHccBKJ15QXuF) | [Forget Me Not](https://open.spotify.com/artist/6LO7ktGmsVjiuIyJ7PinHk) | [A Street](https://open.spotify.com/album/4sIoa5yZuLQJufrMtCCLZe) | 2:45 | 2026-04-18 | 2026-07-01 |
 | [A Westerner Walks Into a Bar](https://open.spotify.com/track/4IlGkkdxTr3K5lLTaCp24c) | [Seb Lowe](https://open.spotify.com/artist/3ebD7fhAtxAuVaIxi1T2BJ) | [A Westerner Walks Into a Bar](https://open.spotify.com/album/7tXNOVaRneDR2voDiiO8B7) | 3:31 | 2025-11-19 | 2026-01-17 |
 | [Alaska](https://open.spotify.com/track/3WukgJpmcq8yXrzTF3KkQq) | [Lusha](https://open.spotify.com/artist/0KroU4cOMO64mhVM1jJgjz) | [Alaska](https://open.spotify.com/album/5kBzzVfbKOAgvgMKHoAT3S) | 3:16 | 2026-05-10 | 2026-07-24 |
@@ -33,6 +33,7 @@
 | [Anomaly](https://open.spotify.com/track/7drs4QP73WLeLRe00hPmlJ) | [Rainwash](https://open.spotify.com/artist/44bqJF9nEFQ1sIpjLbDr74) | [Anomaly](https://open.spotify.com/album/6TSi9Zguy9CLPSLyr2T0tx) | 3:06 | 2026-04-24 | 2026-07-02 |
 | [Anxiety](https://open.spotify.com/track/2r2UYTxeSHutVFcH7KO5mA) | [Lauren Minear](https://open.spotify.com/artist/5nnohGTyoGL4ZCcudNki7A) | [Boxing Day \(Deluxe\)](https://open.spotify.com/album/09jVFVWEuvz7mq4GSvgi2h) | 2:56 | 2026-03-04 | 2026-04-16 |
 | [anything today](https://open.spotify.com/track/6YU0mkaUWzKEV9ORBgo5aJ) | [tina.](https://open.spotify.com/artist/07BwCkEmgUdl0iuWfVq4mC) | [anything today](https://open.spotify.com/album/4ahnAkh7sNMFjmWjYvNAFG) | 3:32 | 2026-03-21 | 2026-04-21 |
+| [Anywhere But Here](https://open.spotify.com/track/4n6MX5GjbqiGRbFTm2vGjp) | [Tilde](https://open.spotify.com/artist/4Vm7RaGmSZfsTd21X0BKb1) | [Little Girl Blue](https://open.spotify.com/album/2GvIwgBTNZraojkluG97PF) | 4:58 | 2026-09-18 |  |
 | [ardmore](https://open.spotify.com/track/1rme3Dy8URWfvRuaWHdkYk) | [Annie Elise](https://open.spotify.com/artist/00HR7TZT9GZx2syCaWkeZq) | [magic](https://open.spotify.com/album/6MDT90yu8HK3pt6f9GSpnJ) | 2:36 | 2026-08-17 |  |
 | [ashes \(roses and petals\)](https://open.spotify.com/track/2xhHd50zQcD59LDICweKHs) | [hxtedbyforce!](https://open.spotify.com/artist/6LurtON7FdurBR7OGsgtJb) | [ashes \(roses and petals\)](https://open.spotify.com/album/6F8LIZcCN1ogGPQuOJbHtj) | 2:16 | 2026-05-26 | 2026-07-24 |
 | [Ask Me Why](https://open.spotify.com/track/0FXqsSgfEQhk3gsLs8FKyL) | [Elandra](https://open.spotify.com/artist/7v6meC75PAbtwyenxZnZaK) | [Ask Me Why](https://open.spotify.com/album/1A6vohn8A6e7Gn8mN5Ob0H) | 3:32 | 2025-11-15 | 2026-01-17 |
@@ -107,7 +108,7 @@
 | [De Costa a Costa](https://open.spotify.com/track/4mmNt648AwIq9FkI5c6gVL) | [Microfunk Band](https://open.spotify.com/artist/4BEoveed0d10Qd1Cf4EcoR) | [De Costa a Costa](https://open.spotify.com/album/58YBu5f6ErbSiJf8xuojxc) | 4:38 | 2026-03-04 | 2026-04-16 |
 | [Dead in a Ditch \(Reloaded\)](https://open.spotify.com/track/3wjMvlboeH5EQofd0XNfWL) | [Tiny Banshee](https://open.spotify.com/artist/4TjpNiCPSovZ6SSIYrQeoN) | [Small\. Loud\. and Haunted.](https://open.spotify.com/album/5NTWQ6aTCeWkG7OzNiU2gb) | 2:23 | 2025-11-01 | 2026-01-17 |
 | [dealihea](https://open.spotify.com/track/4OIkCRqHqvEjR6CrWifwOZ) | [low\-key](https://open.spotify.com/artist/3o3u93T1lwwuCWE4ib3yKF) | [cases](https://open.spotify.com/album/4XyxycEfY5tF8VissqvHd9) | 5:33 | 2026-04-02 | 2026-05-14 |
-| [deceived](https://open.spotify.com/track/5wYc5u1J7qUjmwLiHJRGZG) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [deceived](https://open.spotify.com/album/4RntmhyWWyLjAWdfOI3Fth) | 2:24 | 2026-07-23 |  |
+| [deceived](https://open.spotify.com/track/5wYc5u1J7qUjmwLiHJRGZG) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [deceived](https://open.spotify.com/album/4RntmhyWWyLjAWdfOI3Fth) | 2:24 | 2026-07-23 | 2026-09-19 |
 | [Deep in the Misery](https://open.spotify.com/track/3ewW2BuO8DxWLZfxiFQvdx) | [Indigo](https://open.spotify.com/artist/2T0y5xRUmcjFn8oXD3iRsu) | [Deep in the Misery](https://open.spotify.com/album/2jgh1drEJVXCTD5lDxszxn) | 3:32 | 2026-03-02 | 2026-04-16 |
 | [Delighted](https://open.spotify.com/track/5tjcDtOijDGnJuny9xT1Du) | [sharpened knives](https://open.spotify.com/artist/4CNxLphbFJg9tc9QXH7y2V) | [Wishes You'd Never Said](https://open.spotify.com/album/61hjvBA69NNQWdsgyZ96Z8) | 2:00 | 2026-01-11 | 2026-02-20 |
 | [Demons Move In Shadows](https://open.spotify.com/track/4zqdjaBlB7Ob2bo1MiAPXu) | [Numsig](https://open.spotify.com/artist/1Ws1YsRvDtL3gqKgrbY0Ju) | [Demons Move In Shadows](https://open.spotify.com/album/4E41VvlBG39lwOv13sCdPw) | 3:01 | 2025-10-24 | 2025-12-02 |
@@ -378,7 +379,7 @@
 | [Semi\-Virgin](https://open.spotify.com/track/2wiP9NxvKyFU3og9Ort1Bo) | [Jules Martinez](https://open.spotify.com/artist/4hn3AObsESMShZlS90Mt56) | [Raw And Older](https://open.spotify.com/album/0FStAceqeIATLvl6egELud) | 3:12 | 2026-02-14 | 2026-04-02 |
 | [Serene](https://open.spotify.com/track/2n3tPMnCBMR7d1uZxrUtqT) | [Redam](https://open.spotify.com/artist/0KfO6Tzsb8sOkQ84khWyrd) | [Serene](https://open.spotify.com/album/4HyhWK0yZzMSiL1d0GNSfQ) | 3:23 | 2025-11-11 | 2026-01-17 |
 | [Sevacabar](https://open.spotify.com/track/59uzj20MpOXj6B5dNoDS8P) | [Boris Vian](https://open.spotify.com/artist/539tqg3ZD8rczM6eTXYFy8) | [Sevacabar](https://open.spotify.com/album/7nGg22E4Ui2IydfmdrsNNm) | 2:50 | 2026-03-21 | 2026-04-21 |
-| [Shadow Spun](https://open.spotify.com/track/0HHqWEbz06O9f0WVhQWfEH) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Shadow Spun](https://open.spotify.com/album/2YV7pbZSFmQoNB9wlGS8YQ) | 4:14 | 2026-07-22 |  |
+| [Shadow Spun](https://open.spotify.com/track/0HHqWEbz06O9f0WVhQWfEH) | [Patch Habits](https://open.spotify.com/artist/1BONbFNsdNqafUlqv9xVkZ) | [Shadow Spun](https://open.spotify.com/album/2YV7pbZSFmQoNB9wlGS8YQ) | 4:14 | 2026-07-22 | 2026-09-19 |
 | [Shadows on the floor](https://open.spotify.com/track/5527T3ToohQ1PYWneOj7lF) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Shadows on the floor](https://open.spotify.com/album/4ACvbc2kkeyXHb1QC1pK56) | 3:28 | 2026-01-12 | 2026-02-20 |
 | [She's Like The Sea](https://open.spotify.com/track/0B0HKK954dM1diGqHqmdKa) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [Nervous Systems](https://open.spotify.com/album/4w1MzmNEvgMWzLApXX3eml) | 4:03 | 2026-07-30 |  |
 | [Shoot For Stars](https://open.spotify.com/track/6tchwVTKe8GxhWJdSVBPwA) | [Norma Siggs & The Numettes](https://open.spotify.com/artist/02dI7i7CLTR8LPwTXHw72G) | [A Wall Of Numsig](https://open.spotify.com/album/7xjSF0Ja2REUo95IZAV8sc) | 3:18 | 2025-10-24 | 2025-12-12 |

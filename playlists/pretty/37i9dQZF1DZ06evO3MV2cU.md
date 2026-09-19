@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 
 > This is Chris Tomlin\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,533 likes - 50 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,534 likes - 50 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,8 +26,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 16 | [I Will Follow](https://open.spotify.com/track/6kpAhNL6CYs3NSbFs3tHwf) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [And If Our God Is For Us...](https://open.spotify.com/album/2xwFfH8fO1MRmWZbNKZVqt) | 3:40 |
 | 17 | [How Great Is Our God](https://open.spotify.com/track/0R34dLuWSMDYnOg50L5qqL) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 5:49 |
 | 18 | [You Are My King \(Amazing Love\) \- Spotify Singles](https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [You Are My King \(Amazing Love\) \[Spotify Singles\]](https://open.spotify.com/album/7h8KQPYyfseCnFQJJm7BGl) | 4:14 |
-| 19 | [Indescribable](https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 3:57 |
-| 20 | [Thank You Lord \(feat\. Thomas Rhett & Florida Georgia Line\)](https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:48 |
+| 19 | [Thank You Lord \(feat\. Thomas Rhett & Florida Georgia Line\)](https://open.spotify.com/track/1k9dLBzwep1k1eGP0Ec8ZK) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8), [Florida Georgia Line](https://open.spotify.com/artist/3b8QkneNDz4JHKKKlLgYZg) | [Chris Tomlin & Friends](https://open.spotify.com/album/1tk6wHfQdW92NyYa9YKnfP) | 2:48 |
+| 20 | [Indescribable](https://open.spotify.com/track/0M1ujzJ1RTvLt13C4GsnaT) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Arriving](https://open.spotify.com/album/4cCT11g6AEsDrDkyAome9f) | 3:57 |
 | 21 | [Amazing Grace \(My Chains Are Gone\)](https://open.spotify.com/track/7HB2ekhcwwsyZ9Vta4s7LP) | [The Maker & The Instrument](https://open.spotify.com/artist/0HQiwspXm03L5BmzTgK1hV), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Instrumental Songs Of Worship](https://open.spotify.com/album/3DzhS9CumbDVCkB7WYvtEX) | 4:58 |
 | 22 | [Home](https://open.spotify.com/track/2aMb1asq5acm7cDYlFsYhY) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Never Lose Sight \(Deluxe Edition\)](https://open.spotify.com/album/7BK26n0Gkw7bvAlAUdU53F) | 3:39 |
 | 23 | [The Cross](https://open.spotify.com/track/3BYjy9SgiD9BbBPdhOfRg5) | [Anne Wilson](https://open.spotify.com/artist/75JvBeqW4BJ4xgnbMAq6MN), [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [REBEL](https://open.spotify.com/album/0sJhrYC1988r2NNxsmzk3V) | 3:41 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3MV2cU.md) - [plain]
 | 49 | [Help My Unbelief \- Acoustic](https://open.spotify.com/track/2NHRSVGALcjEfEIV9X0yRt) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Help My Unbelief](https://open.spotify.com/album/0IFLYIJTTtebsHLeSrEtKQ) | 3:26 |
 | 50 | [Jesus Loves Me](https://open.spotify.com/track/1uYzjO9kztEi2KVSS5rDgE) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [Love Ran Red](https://open.spotify.com/album/1I5FTCyGotvADiEmqPeWjY) | 3:31 |
 
-Snapshot ID: `aqncAAAAAABZvpqh5KcemRkusX7r92x/`
+Snapshot ID: `aqstgAAAAABOEnPEuYtYgXZgYCCNafsY`

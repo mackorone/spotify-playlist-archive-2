@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Los grandes temas del Pop Urbano, eso es Popet\u00f3n! Foto: Manuel Turizo.",
-  "num_followers": 626386,
+  "num_followers": 626376,
   "original_name": "Popet\u00f3n",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPcAAPtiIf2YZRjQ/KfUSK8zR03G",
+  "snapshot_id": "AAAAAJ75pai3Qqj7gwUg42TWKzaajn2N",
   "tracks": [
     {
       "added_at": "2026-04-10 04:59:29",
@@ -45,6 +45,30 @@
       "url": "https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM"
     },
     {
+      "added_at": "2026-09-18 04:59:28",
+      "album": {
+        "name": "Segunda Cita",
+        "url": "https://open.spotify.com/album/7nhWuuDKZNuXOHucKvXlm2"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        },
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Gangsta",
+          "url": "https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3"
+        }
+      ],
+      "duration_ms": 170013,
+      "name": "Segunda Cita",
+      "url": "https://open.spotify.com/track/0M4EZodLBU7pomErJ9hD5W"
+    },
+    {
       "added_at": "2026-05-01 04:59:46",
       "album": {
         "name": "Encubiertos",
@@ -65,24 +89,20 @@
       "url": "https://open.spotify.com/track/3AShwV9UQ0K0xXB83zAwZi"
     },
     {
-      "added_at": "2026-03-13 04:59:25",
+      "added_at": "2026-09-18 04:59:28",
       "album": {
-        "name": "TRESCENDER",
-        "url": "https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc"
+        "name": "PA TI <3",
+        "url": "https://open.spotify.com/album/39sk0PBz8zYj7V0bBHpXKo"
       },
       "artists": [
         {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        },
-        {
-          "name": "Juan Duque",
-          "url": "https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6"
+          "name": "Ela Conem",
+          "url": "https://open.spotify.com/artist/6j3TVnrOKJQYWcX5YKLMkV"
         }
       ],
-      "duration_ms": 161030,
-      "name": "Regalito",
-      "url": "https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK"
+      "duration_ms": 138556,
+      "name": "PA TI <3",
+      "url": "https://open.spotify.com/track/35EqUnbJ0rCZZCWrQdYo1d"
     },
     {
       "added_at": "2026-06-05 04:59:04",

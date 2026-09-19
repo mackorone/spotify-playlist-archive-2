@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Repeat-free hours of new and beloved indie folk. Cover: Gia Margaret",
+  "description": "Repeat-free hours of new and beloved indie folk. Cover: Babehoven",
   "name": "Infinite Indie Folk",
   "tracks": [
     {
@@ -1158,6 +1158,24 @@
       "duration_ms": 226080,
       "name": "Belfast Song",
       "url": "https://open.spotify.com/track/4gJb1BBWsaVOUtStGvAfWl"
+    },
+    {
+      "album": {
+        "name": "Believer",
+        "url": "https://open.spotify.com/album/19VsLR7idZdpFkpmwBG0aC"
+      },
+      "artists": [
+        {
+          "name": "Angela Autumn",
+          "url": "https://open.spotify.com/artist/2gyodrfLfK8xF0sSaxBZXQ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233522,
+      "name": "Believer",
+      "url": "https://open.spotify.com/track/7EBQhd1vZz6O5RiuK0abZ9"
     },
     {
       "album": {
@@ -2476,7 +2494,7 @@
       ],
       "date_added": "2022-01-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 116794,
       "name": "Colors",
       "url": "https://open.spotify.com/track/5t1h9peb8agz2mxvXtSlou"
@@ -4936,7 +4954,7 @@
       ],
       "date_added": "2024-04-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 206103,
       "name": "God Above",
       "url": "https://open.spotify.com/track/5F8DvLya3QPC25ioAyvR26"
@@ -13364,6 +13382,24 @@
       "duration_ms": 205626,
       "name": "Water Flowing Downward",
       "url": "https://open.spotify.com/track/7nvxj8fbIpGurKhR3AflFh"
+    },
+    {
+      "album": {
+        "name": "Wave Has a Place",
+        "url": "https://open.spotify.com/album/2zTrF75HZXccghZCO2V2pW"
+      },
+      "artists": [
+        {
+          "name": "Babehoven",
+          "url": "https://open.spotify.com/artist/3Yjr5lVbAr2Fe7Lmpwja70"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 129840,
+      "name": "Wave Has a Place",
+      "url": "https://open.spotify.com/track/6zu2CSLcjJ15uumyXddXTg"
     },
     {
       "album": {

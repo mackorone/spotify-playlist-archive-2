@@ -1,12 +1,12 @@
 {
   "description": "Celebrating 10 Years of Deadbeats. <a href=\"https://shop.deadbeats.com\">Shop the collection now</a>",
-  "num_followers": 62379,
+  "num_followers": 62382,
   "original_name": "Zeds Dead's Deadbeats",
   "owner": {
     "name": "Zeds Dead",
     "url": "https://open.spotify.com/user/zedsdeadofficial"
   },
-  "snapshot_id": "AAAXoXY41KFYivS3uRNoAjq1XLUPvAMb",
+  "snapshot_id": "AAAXoozLdeEl1tYZ0nTi9vVjzxJljkAa",
   "tracks": [
     {
       "added_at": "2026-09-14 16:01:41",
@@ -463,6 +463,26 @@
       "duration_ms": 215000,
       "name": "Fly Around The World",
       "url": "https://open.spotify.com/track/2cixPuobPuptDpMAJE4OmD"
+    },
+    {
+      "added_at": "2026-09-18 12:53:23",
+      "album": {
+        "name": "14ZERO V2",
+        "url": "https://open.spotify.com/album/2IRS9qLBd27Wp824FxnZqw"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "duration_ms": 252002,
+      "name": "Get Dark",
+      "url": "https://open.spotify.com/track/0iWMV1PjHlhClsvdGyuQvS"
     }
   ],
   "unique_name": "Zeds Dead's Deadbeats",

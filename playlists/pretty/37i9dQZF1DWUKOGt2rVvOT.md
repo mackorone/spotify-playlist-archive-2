@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 新歌不只用聽的，還要用看的！最新華語 MV 一次收好，現在就看起來！Cover: LAWA
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,472 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,477 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 | 49 | [100 Degrees](https://open.spotify.com/track/01bjgHUeiU87H8SOvoLB73) | [Karencici](https://open.spotify.com/artist/6v6qfXRvTRGGsmGfDvtMIK) | [100 Degrees](https://open.spotify.com/album/5gOtkYrLpwEvTRGDi0gcct) | 2:32 |
 | 50 | [三秒一生 \- 國語版](https://open.spotify.com/track/3NHwxTGQoweXVhcjQWRcco) | [Kelly Chen](https://open.spotify.com/artist/7KyaSSJ8uTv7Unev4z2Qc7) | [三秒一生](https://open.spotify.com/album/02mEibnrWcZczSrhRorn0j) | 3:11 |
 
-Snapshot ID: `AAAAAOxKejZiGDhPkkXfrrFikgMZWPqQ`
+Snapshot ID: `AAAAADidsvwMnwQgM03jtlCuyBjOQWUm`

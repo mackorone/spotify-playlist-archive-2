@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXRO8Hsxc4q.md) - [plain]
 
 > Create new habits in the new year with gentle Ambient meditations.
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,442 likes - 135 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,543 likes - 135 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -144,4 +144,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXRO8Hsxc4q.md) - [plain]
 | 134 | [Elfic Mantra](https://open.spotify.com/track/089t8knhOvdhOaMphM09Ch) | [Solstice Soundwave](https://open.spotify.com/artist/3Cd3adDx2xIATvRvypEoGG) | [Elfic Mantra](https://open.spotify.com/album/5YzrnkkE3mbDTmtYcXKusG) | 3:18 |
 | 135 | [Significance](https://open.spotify.com/track/5GMHaE1YHEU3my5xZBNduE) | [Chasing Storms](https://open.spotify.com/artist/12Gz0AKNrCzOwYPuURs7ux) | [Significance](https://open.spotify.com/album/273lakU830IgJxsqvZye6d) | 2:34 |
 
-Snapshot ID: `AAAAAO8mUHn7e5G52AaX40roNzm+G8hj`
+Snapshot ID: `AAAAAE/xTiFQH2aKSpyFsLwZPVP+zfGN`

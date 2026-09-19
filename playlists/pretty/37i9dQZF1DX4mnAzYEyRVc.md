@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 
 > The world series of Ska\. Cover: Massendefekt
 
-[Spotify](https://open.spotify.com/user/spotify) - 73,045 likes - 100 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 73,066 likes - 100 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -75,8 +75,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 65 | [Sally Brown](https://open.spotify.com/track/73wJGxCSk85BfOri5XfKv8) | [Laurel Aitken](https://open.spotify.com/artist/30vvi2orcocejP6c3nKcEA) | [The Story So Far...](https://open.spotify.com/album/2zFiJYNXXIZy73w60kNmEg) | 4:29 |
 | 66 | [Raise A Glass \(feat\. Dicky Barrett of The Defiant & The Mighty Mighty Bosstones\)](https://open.spotify.com/track/65PmhK4bAAqQm7LYovOM5X) | [sullvn](https://open.spotify.com/artist/3nk8Lqle6dNU5yUt2pBSv5), [The Defiant](https://open.spotify.com/artist/3ZOWMKJrIPUg2gEhcO2pdM), [The Mighty Mighty Bosstones](https://open.spotify.com/artist/5uYXMC13cIUulobh204QuK), [Dicky Barrett](https://open.spotify.com/artist/55crJE3YMmgdAS6AxQQfLW) | [Raise A Glass \(feat\. Dicky Barrett of The Defiant & The Mighty Mighty Bosstones\)](https://open.spotify.com/album/1urJBgoe0uuLb6sjL5l32C) | 3:39 |
 | 67 | [2\-Tone Army](https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw) | [The Toasters](https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj) | [Hard Band For Dead](https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj) | 3:19 |
-| 68 | [In 80 Tagen um die Welt \- Birthday Rerecordings '24](https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW) | [Broilers](https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J) | [Jolly Good Fellas \- Best of Broilers 1994\-2024](https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv) | 3:22 |
-| 69 | [Feel It](https://open.spotify.com/track/5w67R0ltLrS5MNjydxteUw) | [Skarra Mucci](https://open.spotify.com/artist/7kV4pmJgdYg4Cn9ZK98Fky), [Manudigital](https://open.spotify.com/artist/1EPdzkPNE9fwx1qhN4mUrH), [Queen Omega](https://open.spotify.com/artist/0NZQTozgPtlt5iN3hmANhy) | [Feel It](https://open.spotify.com/album/7HtUqG6QaSsbYJMd8nNpxk) | 2:51 |
+| 68 | [Feel It](https://open.spotify.com/track/5w67R0ltLrS5MNjydxteUw) | [Skarra Mucci](https://open.spotify.com/artist/7kV4pmJgdYg4Cn9ZK98Fky), [Manudigital](https://open.spotify.com/artist/1EPdzkPNE9fwx1qhN4mUrH), [Queen Omega](https://open.spotify.com/artist/0NZQTozgPtlt5iN3hmANhy) | [Feel It](https://open.spotify.com/album/7HtUqG6QaSsbYJMd8nNpxk) | 2:51 |
+| 69 | [In 80 Tagen um die Welt \- Birthday Rerecordings '24](https://open.spotify.com/track/4JABU1W26SfKdMloYWs1TW) | [Broilers](https://open.spotify.com/artist/2C7RDMSpyGZFyoSnvOeU4J) | [Jolly Good Fellas \- Best of Broilers 1994\-2024](https://open.spotify.com/album/6QGv5jv9VH7oRFF5is69mv) | 3:22 |
 | 70 | [El Mosquito](https://open.spotify.com/track/2DpPpBLc78ISzNRqPr1PGn) | [Los Estramboticos](https://open.spotify.com/artist/53nmySG01mYmqoUx3fKymx), [La Mosca](https://open.spotify.com/artist/60nua3AsVSfADZtg5Hdz3W) | [El Mosquito](https://open.spotify.com/album/4Zf5JQu1tL0LQfVqZavjIr) | 3:08 |
 | 71 | [Lo Que Tú Me Das \- Gracias](https://open.spotify.com/track/7eOuceG9xpLU9dJaGsiOB4) | [Inspector](https://open.spotify.com/artist/4OiCK9NnTWhakDIG57uBUA) | [Canciones De Amor, Y Un Remedio Pa'l Corazón](https://open.spotify.com/album/59aqYCsY4I4agvkqqo41ha) | 3:02 |
 | 72 | [Paz y Baile](https://open.spotify.com/track/2eSYkbxRBkfJTm8ILlnB9P) | [Roco Pachukote](https://open.spotify.com/artist/2ODbtFkjehgsWGLhybegVA), [Flavio Cianciarulo](https://open.spotify.com/artist/07blDpyF58EXFIgZtIS3H3) | [Paz y Baile](https://open.spotify.com/album/3QInNg3IGdnIn8NaSwuUOr) | 3:38 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mnAzYEyRVc.md) - [plain]
 | 99 | [Die in Denver](https://open.spotify.com/track/4A04Sd7GfZ2rrrOK0BX6lw) | [Catbite](https://open.spotify.com/artist/5ZymRXV10TmuDovZVrx2RP) | [Die in Denver](https://open.spotify.com/album/1E4Srp7xDtym6hn5PywVqn) | 2:44 |
 | 100 | [風に戦ぐブルーズ \- feat.TAKUMA \(10\-FEET\)](https://open.spotify.com/track/1bst6b0Ax3XzPECji6z5Fq) | [Tokyo Ska Paradise Orchestra](https://open.spotify.com/artist/0UZq6vAHrwGgctvxTzzxYm) | [風に戦ぐブルーズ \[feat.TAKUMA \(10\-FEET\)\]](https://open.spotify.com/album/6rtIq83ix9y8z2AeQhAoOh) | 5:03 |
 
-Snapshot ID: `AAAAAHUibHZDk8NEH2D6UWuxCP80k4NY`
+Snapshot ID: `AAAAAMDVNHdOeQybaDfehTjNp2rJk/MM`

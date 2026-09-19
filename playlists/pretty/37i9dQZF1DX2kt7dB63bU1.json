@@ -1,13 +1,61 @@
 {
   "description": "Jazz voices of today. Cover: Gabrielle Cavassa",
-  "num_followers": 174027,
+  "num_followers": 174079,
   "original_name": "Vocal Jazz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAO0NJBYohuBCuv6hoNGVyP0ih/Qn",
+  "snapshot_id": "AAAAAIa1882XMrYy+WwEJ+CyLB2vTPGb",
   "tracks": [
+    {
+      "added_at": "2026-09-18 04:00:45",
+      "album": {
+        "name": "Seth MacFarlane Sings The Muppets",
+        "url": "https://open.spotify.com/album/22MkbD6WyB4VLSHhCfHOb0"
+      },
+      "artists": [
+        {
+          "name": "Seth MacFarlane",
+          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
+        }
+      ],
+      "duration_ms": 178168,
+      "name": "Right Where I Belong",
+      "url": "https://open.spotify.com/track/0HOFJm1h2FVwbsAw3br7dQ"
+    },
+    {
+      "added_at": "2026-09-18 04:00:45",
+      "album": {
+        "name": "At Last",
+        "url": "https://open.spotify.com/album/4JmunSVZjllauUkJO9abyi"
+      },
+      "artists": [
+        {
+          "name": "Eva Cassidy",
+          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
+        }
+      ],
+      "duration_ms": 186680,
+      "name": "At Last",
+      "url": "https://open.spotify.com/track/5pc0LjdOAAFvUEwcNhlBoh"
+    },
+    {
+      "added_at": "2026-09-18 04:00:45",
+      "album": {
+        "name": "Too Close For Running",
+        "url": "https://open.spotify.com/album/5rkPZZREcGzY34cLajIzcg"
+      },
+      "artists": [
+        {
+          "name": "aron!",
+          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
+        }
+      ],
+      "duration_ms": 172440,
+      "name": "Tandem Bike",
+      "url": "https://open.spotify.com/track/6NUrORpYDdSFLYk96VrQlr"
+    },
     {
       "added_at": "2026-09-11 04:00:21",
       "album": {
@@ -123,22 +171,6 @@
       "duration_ms": 170866,
       "name": "Love Letters",
       "url": "https://open.spotify.com/track/43L5ohb6cKJBpNCK7ZjiN6"
-    },
-    {
-      "added_at": "2026-08-14 04:00:26",
-      "album": {
-        "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-        "url": "https://open.spotify.com/album/6dYaa17hczyvHqu7pawtAh"
-      },
-      "artists": [
-        {
-          "name": "Eva Cassidy",
-          "url": "https://open.spotify.com/artist/6fNmOWQzfOVyHLQ2UqUQew"
-        }
-      ],
-      "duration_ms": 159426,
-      "name": "It Don't Mean A Thing (If It Ain't Got That Swing)",
-      "url": "https://open.spotify.com/track/7mTGyO47jbuPpHOE2mSYiH"
     },
     {
       "added_at": "2026-08-07 04:00:20",
@@ -387,22 +419,6 @@
       "duration_ms": 203053,
       "name": "Looking at You",
       "url": "https://open.spotify.com/track/3HXzORnZNKQhTVh7lzYSLF"
-    },
-    {
-      "added_at": "2026-06-12 04:00:19",
-      "album": {
-        "name": "Shiny Stockings",
-        "url": "https://open.spotify.com/album/7uLkCFhxXT6373P8pulfLC"
-      },
-      "artists": [
-        {
-          "name": "aron!",
-          "url": "https://open.spotify.com/artist/5rCTkyHZUIUcPwKwIz8YOg"
-        }
-      ],
-      "duration_ms": 180736,
-      "name": "Shiny Stockings",
-      "url": "https://open.spotify.com/track/6zAjGOsOHaM36lqI2z3xKU"
     },
     {
       "added_at": "2026-06-12 04:00:19",
@@ -1287,22 +1303,6 @@
       "duration_ms": 309666,
       "name": "All or Nothing at All",
       "url": "https://open.spotify.com/track/0JQtOJkm9JJH7psMoYJpjI"
-    },
-    {
-      "added_at": "2025-05-16 04:00:22",
-      "album": {
-        "name": "Give Me The Simple Life",
-        "url": "https://open.spotify.com/album/1PewQFhopMX5lb0mDQmZox"
-      },
-      "artists": [
-        {
-          "name": "Seth MacFarlane",
-          "url": "https://open.spotify.com/artist/79D4dipwR6scV8AN3dm7gW"
-        }
-      ],
-      "duration_ms": 151854,
-      "name": "Give Me The Simple Life",
-      "url": "https://open.spotify.com/track/4XCqphsGzjEDkGrlygO5cm"
     },
     {
       "added_at": "2025-05-02 04:00:17",

@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-600 songs - 1 day 12 hr 22 min
+601 songs - 1 day 12 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -254,6 +254,7 @@
 | [Incenso](https://open.spotify.com/track/4A7fsdfluCm9lIWeeipaVI) | [Rota de Pedestre](https://open.spotify.com/artist/71Ci4K0dc7xkAryKA5EXP7), [Artur Wais](https://open.spotify.com/artist/184Ys0QKQNoWGyYysbmevt) | [Nós Nessa Cidade](https://open.spotify.com/album/4imeUCQvR7QFx3e7k6FD4V) | 3:36 | 2023-01-10 |  |
 | [Infinite \#23](https://open.spotify.com/track/6CxKptiTnVUBEX5MkfGMBB) | [23 And Beyond The Infinite](https://open.spotify.com/artist/2nFL6h2Km7gLJumEEOaDLW) | [Lumen Del Mundo](https://open.spotify.com/album/4S2EiOj8ZQfU0ytNo7RN8H) | 2:58 | 2023-04-24 |  |
 | [Infinite Minds](https://open.spotify.com/track/1fLue3grrbZFo2XFdg9P6R) | [Don Cadora](https://open.spotify.com/artist/2LScDcFeTeafGBbdFbV9E3) | [Infinite Minds](https://open.spotify.com/album/2xn5FMRafrCOTr0AJjwHVc) | 5:04 | 2025-01-07 |  |
+| [Inflictor](https://open.spotify.com/track/6hMjrIUiej8Jz0D3mJ63Zw) | [Worldview](https://open.spotify.com/artist/53AOSoE3dHnIV5IO2F1A0J) | [Inflictor](https://open.spotify.com/album/593StCh46ilmoJGWfRdt6p) | 3:46 | 2026-09-19 |  |
 | [Ingrata](https://open.spotify.com/track/6NZcnUhdTs6zE8ECBy1QZS) | [Lúcida](https://open.spotify.com/artist/5F2c8Hti3B0lxy7UDDZDCE) | [Homónimo](https://open.spotify.com/album/0VsshIJiVioik5t4nLl3Pd) | 3:04 | 2024-12-26 |  |
 | [Inventaire à la pervers](https://open.spotify.com/track/33fwN8P6w5esrEM7xcTimT) | [tasH](https://open.spotify.com/artist/7kF6Cba1h7aAEdokHzSIx1) | [Entre\-deux\-guerres](https://open.spotify.com/album/1uucWHy2tRZ2xQreSJ3Tu5) | 2:48 | 2025-03-16 |  |
 | [Invisible](https://open.spotify.com/track/304USNiQjRvfgCw9eVcsmD) | [Eton Mess](https://open.spotify.com/artist/5Oy0lVKo8ShUaIH7EgXytd) | [Invisible](https://open.spotify.com/album/6DNqjhkfq19twr1hAfazKf) | 2:37 | 2025-02-03 |  |

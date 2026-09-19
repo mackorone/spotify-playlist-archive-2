@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 
 > asia menor en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 113,872 likes - 52 songs - 3 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 113,871 likes - 52 songs - 3 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,4 +61,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVxoleDT3ILq.md) - [plain]
 | 51 | [CARAMELO SALADO](https://open.spotify.com/track/2nUPu4oONnkYWxbd2ykR9C) | [pau](https://open.spotify.com/artist/3K8xLmnOqUqGGaLzL0DvL3), [Bronko Yotte](https://open.spotify.com/artist/6l78ydrIl7eG2kPTwGXaz7) | [RIQUÍSIMO](https://open.spotify.com/album/16Lz1ETvXoXUE0VtAUkWwV) | 3:30 |
 | 52 | [Pichanga](https://open.spotify.com/track/5ViKYOAEJNFu63wda0BGsu) | [Angelo Pierattini](https://open.spotify.com/artist/4IyZZfTjtcbbJfe8gvN1Pf), [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Pichanga](https://open.spotify.com/album/2rLbN0B0Hsp4v7VxM7hgpb) | 2:33 |
 
-Snapshot ID: `AAAAAL701693Ub7JpXnRuoIXzpm1LtJ+`
+Snapshot ID: `AAAAAAuuBstU9PggheBx2RIreC91HN68`

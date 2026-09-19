@@ -1,12 +1,12 @@
 {
   "description": "New makes old. Cover: Paige Plaisance",
-  "num_followers": 315762,
+  "num_followers": 315770,
   "original_name": "Vintage Vibes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANYZo2lUW7Lglh4a3orDwkY9sX2e",
+  "snapshot_id": "AAAAABIP4R4GDan18euI4lFe6s4gMwtj",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:25",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "You and I",
-        "url": "https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 169278,
-      "name": "You and I",
-      "url": "https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Love You To Death",
         "url": "https://open.spotify.com/album/5tOcCToOYUOqXMst37Dkpp"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 204461,
       "name": "Love You To Death",
       "url": "https://open.spotify.com/track/5dLMxhgU5uKhx8AweN7UAk"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "You and I",
+        "url": "https://open.spotify.com/album/5ILxuigcogkefZqzMuHU2t"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 169278,
+      "name": "You and I",
+      "url": "https://open.spotify.com/track/3veAtMxHWM7SbZOXfJ142t"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -591,22 +591,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Jeremiah / Why\u2019d Ya Do It",
-        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
-      },
-      "artists": [
-        {
-          "name": "Sierra Ferrell",
-          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
-        }
-      ],
-      "duration_ms": 184558,
-      "name": "Jeremiah",
-      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "You Make Sense To Me",
         "url": "https://open.spotify.com/album/4WpCPGJZZfQACuLkCxtfAn"
       },
@@ -623,18 +607,34 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Hamilton Honey: Part 1",
-        "url": "https://open.spotify.com/album/5Nhe3xMXb4tSLGzRHNrAOC"
+        "name": "Jeremiah / Why\u2019d Ya Do It",
+        "url": "https://open.spotify.com/album/0AaN7st0yKbhu2QcamRXxJ"
       },
       "artists": [
         {
-          "name": "Presley Haile",
-          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
+          "name": "Sierra Ferrell",
+          "url": "https://open.spotify.com/artist/3oVcF3VdpMuvMvLLyHPT4t"
         }
       ],
-      "duration_ms": 180501,
-      "name": "Don't be so hard",
-      "url": "https://open.spotify.com/track/4DSOQUiX3PwyoXOKAvySm1"
+      "duration_ms": 184558,
+      "name": "Jeremiah",
+      "url": "https://open.spotify.com/track/6DVPXh16r4Bl1V1SINfFeB"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Country Is Dead",
+        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Tod",
+          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+        }
+      ],
+      "duration_ms": 216800,
+      "name": "Turn This Thing Around",
+      "url": "https://open.spotify.com/track/1vJSVNznOVvvpEDkfSS9Wc"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -655,18 +655,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Country Is Dead",
-        "url": "https://open.spotify.com/album/6t4rT7Qbt37ywsB3BUXHsN"
+        "name": "Hamilton Honey: Part 1",
+        "url": "https://open.spotify.com/album/5Nhe3xMXb4tSLGzRHNrAOC"
       },
       "artists": [
         {
-          "name": "Benjamin Tod",
-          "url": "https://open.spotify.com/artist/30hVqCpEQ8gBRdNvgWMr20"
+          "name": "Presley Haile",
+          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
         }
       ],
-      "duration_ms": 216800,
-      "name": "Turn This Thing Around",
-      "url": "https://open.spotify.com/track/1vJSVNznOVvvpEDkfSS9Wc"
+      "duration_ms": 180501,
+      "name": "Don't be so hard",
+      "url": "https://open.spotify.com/track/4DSOQUiX3PwyoXOKAvySm1"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Honest Life",
-        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
-      },
-      "artists": [
-        {
-          "name": "Courtney Marie Andrews",
-          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
-        }
-      ],
-      "duration_ms": 239600,
-      "name": "Table for One",
-      "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Trophy",
         "url": "https://open.spotify.com/album/2Kz9ZpZpEZRvdBhdxcR45v"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 228962,
       "name": "I Feel Like Hank Williams Tonight",
       "url": "https://open.spotify.com/track/56XOeHY9T4Mm686OttTeh5"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Honest Life",
+        "url": "https://open.spotify.com/album/6goc3U627Ejf2pPYoUH7se"
+      },
+      "artists": [
+        {
+          "name": "Courtney Marie Andrews",
+          "url": "https://open.spotify.com/artist/1EI0B66miJj5Fl408B7E9H"
+        }
+      ],
+      "duration_ms": 239600,
+      "name": "Table for One",
+      "url": "https://open.spotify.com/track/6P0g1sD9ewKm7TGonXX2v4"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -971,22 +971,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Rule 62",
-        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
-      },
-      "artists": [
-        {
-          "name": "Whitney Rose",
-          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
-        }
-      ],
-      "duration_ms": 250080,
-      "name": "You Don't Scare Me",
-      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "With Me in the Summer",
         "url": "https://open.spotify.com/album/1d6S1Z19Ia7xJkVd6ZoOlk"
       },
@@ -999,6 +983,22 @@
       "duration_ms": 189871,
       "name": "Still Miss the Way",
       "url": "https://open.spotify.com/track/0y7ARFCXEDZpAOQDD2lmH0"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Rule 62",
+        "url": "https://open.spotify.com/album/2gnifAAMU2Q7A2ZtqNIlAf"
+      },
+      "artists": [
+        {
+          "name": "Whitney Rose",
+          "url": "https://open.spotify.com/artist/1kltSDXx78MGhHmxbe35tx"
+        }
+      ],
+      "duration_ms": 250080,
+      "name": "You Don't Scare Me",
+      "url": "https://open.spotify.com/track/6gNeydQ1T8JfthxH1PtuxM"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1183,22 +1183,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Listening to the Music",
-        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
-      },
-      "artists": [
-        {
-          "name": "Zephaniah OHora",
-          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
-        }
-      ],
-      "duration_ms": 190035,
-      "name": "Black & Blue",
-      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "Cinema",
         "url": "https://open.spotify.com/album/7M4kkfCNjKeppGpX2nKW9w"
       },
@@ -1215,18 +1199,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Livin\u2019 In Shame",
-        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
+        "name": "Listening to the Music",
+        "url": "https://open.spotify.com/album/13VYDl6nj8dGQgyWiZPOJO"
       },
       "artists": [
         {
-          "name": "Emily Nenni",
-          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
+          "name": "Zephaniah OHora",
+          "url": "https://open.spotify.com/artist/6kWzLAW2ZUuy22mLrdwZSY"
         }
       ],
-      "duration_ms": 145253,
-      "name": "Livin\u2019 In Shame",
-      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
+      "duration_ms": 190035,
+      "name": "Black & Blue",
+      "url": "https://open.spotify.com/track/529y37n9VZXubT1KlWM78i"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1247,6 +1231,22 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
+        "name": "Runnin'",
+        "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
+      },
+      "artists": [
+        {
+          "name": "Leah Blevins",
+          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+        }
+      ],
+      "duration_ms": 237786,
+      "name": "Runnin'",
+      "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
         "name": "Ramblin' Soul",
         "url": "https://open.spotify.com/album/0lkkaseHHUBnHQMf4GDfvA"
       },
@@ -1263,18 +1263,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Runnin'",
-        "url": "https://open.spotify.com/album/0qcRycVTiFPrDF2DKQdRCv"
+        "name": "Livin\u2019 In Shame",
+        "url": "https://open.spotify.com/album/5SXqk3bj9zjPI0YLoZAr3f"
       },
       "artists": [
         {
-          "name": "Leah Blevins",
-          "url": "https://open.spotify.com/artist/1cpkiJukYGm0dr7Fm9HpNW"
+          "name": "Emily Nenni",
+          "url": "https://open.spotify.com/artist/63BuZ8jcRTEc8SLZdGlXQy"
         }
       ],
-      "duration_ms": 237786,
-      "name": "Runnin'",
-      "url": "https://open.spotify.com/track/2EM8Ann4TIcFjnVtNpkT8D"
+      "duration_ms": 145253,
+      "name": "Livin\u2019 In Shame",
+      "url": "https://open.spotify.com/track/1bJKcn4D6ElJPGGBZVXi4X"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1327,18 +1327,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Linger On",
-        "url": "https://open.spotify.com/album/4WxphCLSF3ZgIgCRYsAKuD"
+        "name": "Love All Night (Work All Day)",
+        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
       },
       "artists": [
         {
-          "name": "credits",
-          "url": "https://open.spotify.com/artist/4X5WAbZMXzUSWOJIfGbA4U"
+          "name": "Yola",
+          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
         }
       ],
-      "duration_ms": 189862,
-      "name": "Linger On",
-      "url": "https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k"
+      "duration_ms": 213204,
+      "name": "Love All Night (Work All Day)",
+      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1363,18 +1363,18 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Love All Night (Work All Day)",
-        "url": "https://open.spotify.com/album/6SXHPZkTKbbp5N7ZtMTzEt"
+        "name": "Linger On",
+        "url": "https://open.spotify.com/album/4WxphCLSF3ZgIgCRYsAKuD"
       },
       "artists": [
         {
-          "name": "Yola",
-          "url": "https://open.spotify.com/artist/2gqMBdyddvN82dzZt4ZF14"
+          "name": "credits",
+          "url": "https://open.spotify.com/artist/4X5WAbZMXzUSWOJIfGbA4U"
         }
       ],
-      "duration_ms": 213204,
-      "name": "Love All Night (Work All Day)",
-      "url": "https://open.spotify.com/track/54NrYs3mPFTgYQEYEr0sqT"
+      "duration_ms": 189862,
+      "name": "Linger On",
+      "url": "https://open.spotify.com/track/1pnZYuIvsYzibsJ9sCy22k"
     },
     {
       "added_at": "2026-09-11 04:01:25",
@@ -1535,22 +1535,6 @@
     {
       "added_at": "2026-09-11 04:01:25",
       "album": {
-        "name": "Lone Star",
-        "url": "https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe"
-      },
-      "artists": [
-        {
-          "name": "Cactus Lee",
-          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
-        }
-      ],
-      "duration_ms": 335846,
-      "name": "Lone Star",
-      "url": "https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg"
-    },
-    {
-      "added_at": "2026-09-11 04:01:25",
-      "album": {
         "name": "southwest serenade",
         "url": "https://open.spotify.com/album/2JE0tvCz2i37PZIQhJqIdY"
       },
@@ -1563,6 +1547,22 @@
       "duration_ms": 106250,
       "name": "southwest serenade",
       "url": "https://open.spotify.com/track/1E5QGnoIIwLprR6zOFWkCO"
+    },
+    {
+      "added_at": "2026-09-11 04:01:25",
+      "album": {
+        "name": "Lone Star",
+        "url": "https://open.spotify.com/album/347MekIQGAWp7mqyhiRNUe"
+      },
+      "artists": [
+        {
+          "name": "Cactus Lee",
+          "url": "https://open.spotify.com/artist/6eAIPGye8l6QohTSNNVUD4"
+        }
+      ],
+      "duration_ms": 335846,
+      "name": "Lone Star",
+      "url": "https://open.spotify.com/track/2bAgoYfWqEUIMeNPLvwtfg"
     },
     {
       "added_at": "2026-09-11 04:01:25",

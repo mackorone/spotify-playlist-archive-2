@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-08-09",
-  "description": "Agarren su pareja que es momento de mover ese botecito. Bronco en portada \ud83e\udd20",
+  "description": "Agarren su pareja que es momento de mover ese botecito. Marco Maroquin en portada \ud83e\udd20",
   "name": "Cumbia Norte\u00f1a",
   "tracks": [
     {
@@ -749,6 +749,24 @@
     },
     {
       "album": {
+        "name": "Live Session, Vol. 2 (En Vivo)",
+        "url": "https://open.spotify.com/album/3Q9TiCMQhHhPShDQ7kvNRm"
+      },
+      "artists": [
+        {
+          "name": "Marco Marroquin",
+          "url": "https://open.spotify.com/artist/1HvIYWtS5X45onioOfaSCB"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145978,
+      "name": "Con Pedazos De Vida - En Vivo",
+      "url": "https://open.spotify.com/track/12PyvbMhTaEa1TwObEWlpa"
+    },
+    {
+      "album": {
         "name": "Confidencial",
         "url": "https://open.spotify.com/album/3Dv9lxsXG7vrlNrOVLvNgB"
       },
@@ -1409,6 +1427,24 @@
     },
     {
       "album": {
+        "name": "DESDE EL WESTERN CLUB VOLUMEN 4",
+        "url": "https://open.spotify.com/album/7MAgdNwz54nmwx76Yn4k6X"
+      },
+      "artists": [
+        {
+          "name": "Sangre X Sangre",
+          "url": "https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175384,
+      "name": "ERES UN ENCANTO",
+      "url": "https://open.spotify.com/track/0uz4zuXRKmu1dqP5fpeAUp"
+    },
+    {
+      "album": {
         "name": "VOLVER A LA CUMBIA PARTE III LADO B (EN VIVO)",
         "url": "https://open.spotify.com/album/0DphpBA0Z4gIfyMoMqSJ7A"
       },
@@ -1503,6 +1539,28 @@
     },
     {
       "album": {
+        "name": "Hay Alguien Aqu\u00ed",
+        "url": "https://open.spotify.com/album/48JlsRxVwdRwcpkqB1X8HY"
+      },
+      "artists": [
+        {
+          "name": "Los Buitres De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/535ap2f16rTOKTMPTkvbGB"
+        },
+        {
+          "name": "Los Nuevos Rebeldes",
+          "url": "https://open.spotify.com/artist/3OFZZxPrO2uYjDVglqTwEr"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 155659,
+      "name": "Hay Alguien Aqu\u00ed",
+      "url": "https://open.spotify.com/track/26rZ8ODunIqbNALB3Lpb1F"
+    },
+    {
+      "album": {
         "name": "Historias de Amor",
         "url": "https://open.spotify.com/album/6JRyu67LNMlSqQecsDiRuA"
       },
@@ -1558,7 +1616,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 193788,
       "name": "IMPOSIBLE",
       "url": "https://open.spotify.com/track/1Rq1DowZWneBBEfqMJPFm6"
@@ -1612,7 +1670,7 @@
       ],
       "date_added": "2024-12-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 197416,
       "name": "Kh\u00e9? - En Vivo",
       "url": "https://open.spotify.com/track/5zHqAZs7o12EZVBT5vlNXA"
@@ -2278,7 +2336,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 184157,
       "name": "Mirada",
       "url": "https://open.spotify.com/track/0vRQTZIMrcHKZbjerLRCtz"
@@ -2902,6 +2960,24 @@
       "duration_ms": 249445,
       "name": "Se Te Mira Bien",
       "url": "https://open.spotify.com/track/1OSsxjL8UtnDLBDbVXEqjU"
+    },
+    {
+      "album": {
+        "name": "Sentimientos Encontrados",
+        "url": "https://open.spotify.com/album/7CgWCLgEl0Ht01YQhorgpL"
+      },
+      "artists": [
+        {
+          "name": "Bohemio",
+          "url": "https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177341,
+      "name": "Sentimientos Encontrados",
+      "url": "https://open.spotify.com/track/08l9mnamQ2yL1K0D2nC7NJ"
     },
     {
       "album": {

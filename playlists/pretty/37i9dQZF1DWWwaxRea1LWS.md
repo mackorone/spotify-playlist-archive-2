@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 
 > \#SpotifyTBT goes post\-grunge as Silver Side Up turns 25\. Cover: Nickelback
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,262,806 likes - 30 songs - 1 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,262,670 likes - 30 songs - 1 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,4 +39,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWwaxRea1LWS.md) - [plain]
 | 29 | [Never Too Late](https://open.spotify.com/track/0p1E3mQ8j5L1AMGuvGoYRR) | [Three Days Grace](https://open.spotify.com/artist/2xiIXseIJcq3nG7C8fHeBj) | [One\-X \(20th Anniversary Edition\)](https://open.spotify.com/album/7K8oIX4HQzK1WIrXoGOMpP) | 3:29 |
 | 30 | [Control](https://open.spotify.com/track/575Sz3R4xOhueUstPObylF) | [Puddle Of Mudd](https://open.spotify.com/artist/3dXaa6jwM7B52GZpaJEIr5) | [Come Clean](https://open.spotify.com/album/4oWz3E9jTrBe9sVkiX2sJ5) | 3:50 |
 
-Snapshot ID: `AAAAAKYNCayoBNqvRGcm6AyQQozykMaH`
+Snapshot ID: `AAAAAP2HL2LSNqG23coUgmHD7j677DvW`

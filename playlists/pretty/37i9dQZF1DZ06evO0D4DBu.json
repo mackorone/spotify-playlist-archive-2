@@ -1,12 +1,12 @@
 {
   "description": "This is Chance the Rapper. The essential tracks, all in one playlist.",
-  "num_followers": 210708,
+  "num_followers": 210704,
   "original_name": "This Is Chance the Rapper",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAAD7z69vJQoCgmUyoBFVufJ1",
+  "snapshot_id": "aqstgAAAAAAyUcsw/VKtVnLLK1KxOs+z",
   "tracks": [
     {
       "added_at": null,
@@ -639,6 +639,58 @@
     {
       "added_at": null,
       "album": {
+        "name": "This Unruly Mess I've Made",
+        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
+      },
+      "artists": [
+        {
+          "name": "Macklemore & Ryan Lewis",
+          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
+        },
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Ryan Lewis",
+          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
+        },
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 232000,
+      "name": "Need To Know (feat. Chance The Rapper)",
+      "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coloring Book",
+        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jeremih",
+          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
+        },
+        {
+          "name": "Francis and the Lights",
+          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
+        }
+      ],
+      "duration_ms": 290316,
+      "name": "Summer Friends (feat. Jeremih & Francis & The Lights)",
+      "url": "https://open.spotify.com/track/2fl0B0OaXjWbjHCQFx2O8W"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "CATCH",
         "url": "https://open.spotify.com/album/50EKsOTP0hqXaVoITqhgsi"
       },
@@ -671,46 +723,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Coloring Book",
-        "url": "https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Jeremih",
-          "url": "https://open.spotify.com/artist/3KV3p5EY4AvKxOlhGHORLg"
-        },
-        {
-          "name": "Francis and the Lights",
-          "url": "https://open.spotify.com/artist/23EA28263XvtIrXuySX6oI"
-        }
-      ],
-      "duration_ms": 290316,
-      "name": "Summer Friends (feat. Jeremih & Francis & The Lights)",
-      "url": "https://open.spotify.com/track/2fl0B0OaXjWbjHCQFx2O8W"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stars Out",
-        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 107462,
-      "name": "Stars Out",
-      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Acid Rap",
         "url": "https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid"
       },
@@ -731,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Stars Out",
+        "url": "https://open.spotify.com/album/1uo4iofp5IAGr2GKVhvc2H"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 107462,
+      "name": "Stars Out",
+      "url": "https://open.spotify.com/track/1mTHqHDmUHhAKmO9mRur4z"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -747,34 +775,6 @@
       "duration_ms": 179368,
       "name": "Ride (feat. Do or Die)",
       "url": "https://open.spotify.com/track/7M6yyDtLr2UvdSfpM30oDe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "This Unruly Mess I've Made",
-        "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
-      },
-      "artists": [
-        {
-          "name": "Macklemore & Ryan Lewis",
-          "url": "https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC"
-        },
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Ryan Lewis",
-          "url": "https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp"
-        },
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 232000,
-      "name": "Need To Know (feat. Chance The Rapper)",
-      "url": "https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs"
     },
     {
       "added_at": null,
@@ -835,6 +835,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "I Might Need Security",
+        "url": "https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        }
+      ],
+      "duration_ms": 240640,
+      "name": "I Might Need Security",
+      "url": "https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "STAR LINE",
         "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
       },
@@ -855,22 +871,6 @@
       "duration_ms": 267692,
       "name": "Tree (feat. Lil Wayne & Smino)",
       "url": "https://open.spotify.com/track/58nLLDEP28jLGbqbGZD7OB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "I Might Need Security",
-        "url": "https://open.spotify.com/album/5pQOfgCqpu4RrJAfQToFa8"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        }
-      ],
-      "duration_ms": 240640,
-      "name": "I Might Need Security",
-      "url": "https://open.spotify.com/track/3EApebexZ7YqDIqw2EMTDh"
     },
     {
       "added_at": null,
@@ -911,26 +911,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "BabyChiefDoit",
-          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
-        }
-      ],
-      "duration_ms": 172309,
-      "name": "Drapetomania (feat. BabyChiefDoit)",
-      "url": "https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wraith",
         "url": "https://open.spotify.com/album/1hXe7FuboEW7ZfbCxX9g6M"
       },
@@ -951,6 +931,26 @@
       "duration_ms": 147692,
       "name": "Wraith",
       "url": "https://open.spotify.com/track/73mjPiWQcaOQdfzXvNt1IT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "BabyChiefDoit",
+          "url": "https://open.spotify.com/artist/1J1pGfTqp5ReVIX8Z1Wzsg"
+        }
+      ],
+      "duration_ms": 172309,
+      "name": "Drapetomania (feat. BabyChiefDoit)",
+      "url": "https://open.spotify.com/track/7lx69Bf8P4NeKhmZKbtNC0"
     },
     {
       "added_at": null,
@@ -995,26 +995,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
-      },
-      "artists": [
-        {
-          "name": "Chance the Rapper",
-          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
-        },
-        {
-          "name": "Jamila Woods",
-          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
-        }
-      ],
-      "duration_ms": 293050,
-      "name": "No More Old Men (feat. Jamila Woods)",
-      "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Just Getting Started",
         "url": "https://open.spotify.com/album/29CRmHA3hsGk1nwoRnjbxC"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 199431,
       "name": "Still Get Chanel (feat. Chance The Rapper)",
       "url": "https://open.spotify.com/track/3CwLcNeac7m8ideW4m7AC6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "STAR LINE",
+        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+      },
+      "artists": [
+        {
+          "name": "Chance the Rapper",
+          "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
+        },
+        {
+          "name": "Jamila Woods",
+          "url": "https://open.spotify.com/artist/4UodukR17NIQfNu5uaqm9B"
+        }
+      ],
+      "duration_ms": 293050,
+      "name": "No More Old Men (feat. Jamila Woods)",
+      "url": "https://open.spotify.com/track/6LZLbkN28UIxUK5Q8sSta4"
     },
     {
       "added_at": null,
@@ -1075,8 +1075,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "STAR LINE",
-        "url": "https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h"
+        "name": "10 Day",
+        "url": "https://open.spotify.com/album/71BfvzpZmuVgW6zdQ93bin"
       },
       "artists": [
         {
@@ -1084,9 +1084,9 @@
           "url": "https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf"
         }
       ],
-      "duration_ms": 223746,
-      "name": "Star Side Intro",
-      "url": "https://open.spotify.com/track/0YiizfHPZxx0LfUQsEzsDo"
+      "duration_ms": 128571,
+      "name": "14,400 Minutes",
+      "url": "https://open.spotify.com/track/2C4qO9u7TFMm4gt5MReyAD"
     }
   ],
   "unique_name": "This Is Chance the Rapper",

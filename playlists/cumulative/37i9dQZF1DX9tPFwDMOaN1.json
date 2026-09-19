@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "The new & hottest K-Pop is here! (Cover: LISA)",
+  "description": "The new & hottest K-Pop is here! (Cover: ROS\u00c9)",
   "name": "K-Pop ON! (\uc628)",
   "tracks": [
     {
@@ -10501,6 +10501,24 @@
     },
     {
       "album": {
+        "name": "new trick",
+        "url": "https://open.spotify.com/album/4HrG5QKffOfqTOoaSnAcq3"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182582,
+      "name": "new trick",
+      "url": "https://open.spotify.com/track/20QSTolol0EyLCVoOmGgAs"
+    },
+    {
+      "album": {
         "name": "New Woman (feat. ROSAL\u00cdA)",
         "url": "https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch"
       },
@@ -15763,6 +15781,24 @@
     },
     {
       "album": {
+        "name": "Unknown Planet",
+        "url": "https://open.spotify.com/album/3EfalQgCGR2bh5tkZdZTTR"
+      },
+      "artists": [
+        {
+          "name": "IU",
+          "url": "https://open.spotify.com/artist/3HqSLMAZ3g3d5poNaI7GOU"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Unknown Planet",
+      "url": "https://open.spotify.com/track/02KRPJcx4TJFLCXt9qwEUE"
+    },
+    {
+      "album": {
         "name": "BORN TO BE",
         "url": "https://open.spotify.com/album/5ivYXhv1TJHN4xik0kKvlC"
       },
@@ -15962,7 +15998,7 @@
       ],
       "date_added": "2026-06-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 198761,
       "name": "VIRAL",
       "url": "https://open.spotify.com/track/0NqmROY1BA3g9A7ZqF8D6O"

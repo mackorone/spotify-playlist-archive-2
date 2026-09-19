@@ -2781,6 +2781,36 @@
     },
     {
       "album": {
+        "name": "Sextan Bucket",
+        "url": "https://open.spotify.com/album/31JfQ2JfmnjID4AmmErkA8"
+      },
+      "artists": [
+        {
+          "name": "Monty Alexander",
+          "url": "https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh"
+        },
+        {
+          "name": "Luke Sellick",
+          "url": "https://open.spotify.com/artist/4JmBOPedbbGZPb4hwcQy1S"
+        },
+        {
+          "name": "Jason Brown",
+          "url": "https://open.spotify.com/artist/0WSt6xUyHBsceCqUgcZTiv"
+        },
+        {
+          "name": "Bobby Thomas Jr.",
+          "url": "https://open.spotify.com/artist/1LBIHUhctWa6uNPFRdxPkt"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190000,
+      "name": "Sextan Bucket",
+      "url": "https://open.spotify.com/track/5WKEoxwAqPPSQvkttcvjOx"
+    },
+    {
+      "album": {
         "name": "Singin' a Melody",
         "url": "https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG"
       },
@@ -3500,7 +3530,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 307586,
       "name": "There Arno Answers",
       "url": "https://open.spotify.com/track/6PP2GqKolbQr2b6k7Rsd8X"

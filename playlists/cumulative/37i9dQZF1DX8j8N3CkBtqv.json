@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-05-19",
-  "description": "Naye Indie gaano ka khazana, featuring Janisht Joshi, Bharg, NAALAYAK, Anand Bhaskar Collective and other exciting artists.\n",
+  "description": "Naye Indie gaano ka khazana, featuring Indian Ocean, Utsavi Jha, Daira and other exciting artists.\n",
   "name": "Naya Indiestan",
   "tracks": [
     {
@@ -2510,7 +2510,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 168571,
       "name": "Awaaz Hai",
       "url": "https://open.spotify.com/track/0xP7R3H2nFLyYwxwEpwefd"
@@ -5124,6 +5124,24 @@
       "duration_ms": 186533,
       "name": "Blush",
       "url": "https://open.spotify.com/track/56Rdvp163gJ4Bn9v1UqMC2"
+    },
+    {
+      "album": {
+        "name": "Bol Ari",
+        "url": "https://open.spotify.com/album/5jSHaaC8pCDzRdXcMGRgEZ"
+      },
+      "artists": [
+        {
+          "name": "Indian Ocean",
+          "url": "https://open.spotify.com/artist/0Xbdgzdm7k9BJ5gUgmAkpy"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 385846,
+      "name": "Bol Ari",
+      "url": "https://open.spotify.com/track/3ZHVmmcmGdsreproQsqEKp"
     },
     {
       "album": {
@@ -11189,6 +11207,24 @@
     },
     {
       "album": {
+        "name": "Hum aur Woh",
+        "url": "https://open.spotify.com/album/6eciZrnVAqzYaeCecziQqG"
+      },
+      "artists": [
+        {
+          "name": "Daira",
+          "url": "https://open.spotify.com/artist/5zve5gonOuNzWd2yKZJiJO"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 277173,
+      "name": "Hum aur Woh",
+      "url": "https://open.spotify.com/track/2YdvkTU9FN136OsQ6D9nnp"
+    },
+    {
+      "album": {
         "name": "Hum Dono",
         "url": "https://open.spotify.com/album/7q4obwIi8vpbp415mNOwic"
       },
@@ -12092,7 +12128,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 236842,
       "name": "Ittefaq",
       "url": "https://open.spotify.com/track/4u7kaFGotOloy6iu6QHpMG"
@@ -12384,6 +12420,24 @@
       "duration_ms": 171174,
       "name": "Jaan Leva",
       "url": "https://open.spotify.com/track/6iDQhXuHUAlbf2M9fklZJm"
+    },
+    {
+      "album": {
+        "name": "Jaan lutaaun",
+        "url": "https://open.spotify.com/album/7zRTeFOgQlGQNK5xBTXBIS"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253913,
+      "name": "Jaan lutaaun",
+      "url": "https://open.spotify.com/track/1AN89gHhSIhIROl06qodK5"
     },
     {
       "album": {
@@ -14769,6 +14823,32 @@
     },
     {
       "album": {
+        "name": "Karaan Tainu Pyar",
+        "url": "https://open.spotify.com/album/0pLDXGP62LEvUiO0iebWiP"
+      },
+      "artists": [
+        {
+          "name": "Saahiil Syndicate",
+          "url": "https://open.spotify.com/artist/1fqIdBmicuSrwOkxpxwyug"
+        },
+        {
+          "name": "Arjit Srivastava",
+          "url": "https://open.spotify.com/artist/1F3D5Gc6MToIAQoFOtYKkz"
+        },
+        {
+          "name": "Akarshit",
+          "url": "https://open.spotify.com/artist/07xkHRmslprK6AAOjeGvZh"
+        }
+      ],
+      "date_added": "2026-09-11",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 141574,
+      "name": "Karaan Tainu Pyar",
+      "url": "https://open.spotify.com/track/4GLzrQK4nRbsklqRgQRfto"
+    },
+    {
+      "album": {
         "name": "Karam",
         "url": "https://open.spotify.com/album/7GsjuBSVSXwaznRfd1wtBw"
       },
@@ -16526,10 +16606,6 @@
         {
           "name": "TUSHAR JOSHI",
           "url": "https://open.spotify.com/artist/324yz9K4ufBcGkcgUhTiHH"
-        },
-        {
-          "name": "Prateeksha Srivastava",
-          "url": "https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT"
         }
       ],
       "date_added": "2026-07-31",
@@ -16914,6 +16990,24 @@
       "duration_ms": 113076,
       "name": "Kuch Toh Hai Baat",
       "url": "https://open.spotify.com/track/1yWVEpoyEvr32KAQbkWJXG"
+    },
+    {
+      "album": {
+        "name": "Kuch Toh Hai Yahan",
+        "url": "https://open.spotify.com/album/0msPrwR0zs2nsv8I1B4SuB"
+      },
+      "artists": [
+        {
+          "name": "OutStation",
+          "url": "https://open.spotify.com/artist/1mPbly9dEPJVrAGPkkgAgH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173000,
+      "name": "Kuch Toh Hai Yahan",
+      "url": "https://open.spotify.com/track/6Lfn1GiEJZB4XSvDpRpbWV"
     },
     {
       "album": {
@@ -18676,7 +18770,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 148163,
       "name": "Makaan Maalkin",
       "url": "https://open.spotify.com/track/3FKJkWYPJLw1h0x1Uhl9BE"
@@ -23483,6 +23577,28 @@
     },
     {
       "album": {
+        "name": "Pyaariye",
+        "url": "https://open.spotify.com/album/73POiKO7fX4eA0UjuVfWpO"
+      },
+      "artists": [
+        {
+          "name": "abhii",
+          "url": "https://open.spotify.com/artist/32mzdjLFFFILBACaPK4ukU"
+        },
+        {
+          "name": "Vagish",
+          "url": "https://open.spotify.com/artist/50WxrZvt7bdXQLYnnUGhOv"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226000,
+      "name": "Pyaariye",
+      "url": "https://open.spotify.com/track/3u60XLQN1wpJVpRsOPHPzU"
+    },
+    {
+      "album": {
         "name": "Pyar Ki Si",
         "url": "https://open.spotify.com/album/17LToUy05sTUGLABuQm2XA"
       },
@@ -28020,7 +28136,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 276405,
       "name": "summerlovin",
       "url": "https://open.spotify.com/track/1py8E9GjG57eGeCOSt3IWP"
@@ -30986,7 +31102,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 143513,
       "name": "TU TU TU TU TU",
       "url": "https://open.spotify.com/track/14WPWMa9RVLe5nGiEzOkoo"
@@ -32978,7 +33094,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 238882,
       "name": "Yun",
       "url": "https://open.spotify.com/track/3xbvpP9fQiu3YQdTn1JMe7"

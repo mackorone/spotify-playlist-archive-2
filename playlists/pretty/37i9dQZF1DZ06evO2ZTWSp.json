@@ -1,12 +1,12 @@
 {
   "description": "This is Lizzo. The essential tracks, all in one playlist.",
-  "num_followers": 474862,
+  "num_followers": 474846,
   "original_name": "This Is Lizzo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAACObn2B7ZyLZ870zGMb7ctK",
+  "snapshot_id": "aqstgAAAAAAHebsZ5vjyigq0W0HDoGZj",
   "tracks": [
     {
       "added_at": null,
@@ -271,18 +271,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Barbie The Album",
-        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        },
+        {
+          "name": "Missy Elliott",
+          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 143833,
-      "name": "Pink",
-      "url": "https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1"
+      "duration_ms": 175342,
+      "name": "Tempo (feat. Missy Elliott)",
+      "url": "https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6"
     },
     {
       "added_at": null,
@@ -307,22 +311,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+        "name": "Barbie The Album",
+        "url": "https://open.spotify.com/album/0BaIaHcyBXuOWeM4Aas4EW"
       },
       "artists": [
         {
           "name": "Lizzo",
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        },
-        {
-          "name": "Missy Elliott",
-          "url": "https://open.spotify.com/artist/2wIVse2owClT7go1WT98tk"
         }
       ],
-      "duration_ms": 175342,
-      "name": "Tempo (feat. Missy Elliott)",
-      "url": "https://open.spotify.com/track/6nBQFAIVFmAx2oZ8p6lUg6"
+      "duration_ms": 143833,
+      "name": "Pink",
+      "url": "https://open.spotify.com/track/2YXGbxICUdOUJe9OPlicy1"
     },
     {
       "added_at": null,
@@ -343,6 +343,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cuz I Love You",
+        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 179978,
+      "name": "Cuz I Love You",
+      "url": "https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BITCH",
         "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
       },
@@ -359,22 +375,6 @@
       "duration_ms": 170760,
       "name": "Sexy Ladies (feat. UCB (Uncalled 4 Band))",
       "url": "https://open.spotify.com/track/17B5RP7gA5HKmpgWFjE2y2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cuz I Love You",
-        "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 179978,
-      "name": "Cuz I Love You",
-      "url": "https://open.spotify.com/track/6YdQgWSpsxhVeX6Xmv3IFJ"
     },
     {
       "added_at": null,
@@ -415,22 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 208312,
-      "name": "Don\u2019t Make Me Love U",
-      "url": "https://open.spotify.com/track/7ISr8TkvybzZcEE5vYIORI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 184857,
       "name": "Like a Girl",
       "url": "https://open.spotify.com/track/5I7sGubUsKo4mVJpBoSVUr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 208312,
+      "name": "Don\u2019t Make Me Love U",
+      "url": "https://open.spotify.com/track/7ISr8TkvybzZcEE5vYIORI"
     },
     {
       "added_at": null,
@@ -479,22 +479,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 198644,
-      "name": "Goodmorning!",
-      "url": "https://open.spotify.com/track/0wPrPcpFhTMcE6wYHY6aVi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -507,6 +491,22 @@
       "duration_ms": 175234,
       "name": "Soulmate",
       "url": "https://open.spotify.com/track/6h2wpo2pshM8QnAvRySEO0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 198644,
+      "name": "Goodmorning!",
+      "url": "https://open.spotify.com/track/0wPrPcpFhTMcE6wYHY6aVi"
     },
     {
       "added_at": null,
@@ -547,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 163390,
-      "name": "BITCH",
-      "url": "https://open.spotify.com/track/5Ob6j3t91qixhs7Fhzs0to"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cuz I Love You",
         "url": "https://open.spotify.com/album/6dFFcYQ8VhifgdKgYY5LYL"
       },
@@ -583,6 +567,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 163390,
+      "name": "BITCH",
+      "url": "https://open.spotify.com/track/5Ob6j3t91qixhs7Fhzs0to"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Special",
         "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
       },
@@ -595,6 +595,22 @@
       "duration_ms": 165689,
       "name": "The Sign",
       "url": "https://open.spotify.com/track/7GSwmKxanoWEdpurOCldDe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stayin' Alive (from Happy Death Day 2U)",
+        "url": "https://open.spotify.com/album/272z7QfS5G7vsodGkl5ZmL"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 197428,
+      "name": "Stayin' Alive (from Happy Death Day 2U)",
+      "url": "https://open.spotify.com/track/2tZWKgDClGMoxqiU5FxYI0"
     },
     {
       "added_at": null,
@@ -627,22 +643,6 @@
       "duration_ms": 174156,
       "name": "Happy 2 Be",
       "url": "https://open.spotify.com/track/3IPnp0aifOAcZg2irtekhq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stayin' Alive (from Happy Death Day 2U)",
-        "url": "https://open.spotify.com/album/272z7QfS5G7vsodGkl5ZmL"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 197428,
-      "name": "Stayin' Alive (from Happy Death Day 2U)",
-      "url": "https://open.spotify.com/track/2tZWKgDClGMoxqiU5FxYI0"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BITCH",
-        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 167193,
-      "name": "She Stole My Man",
-      "url": "https://open.spotify.com/track/2rO9FMoLlTZROoHrxmB2WG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "MY FACE HURTS FROM SMILING",
         "url": "https://open.spotify.com/album/4DzGpfwSY0GIGECJpR6lkk"
       },
@@ -723,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Special",
-        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+        "name": "BITCH",
+        "url": "https://open.spotify.com/album/2wPyRw9iR2TQQgc8c5NCUk"
       },
       "artists": [
         {
@@ -732,9 +716,9 @@
           "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
         }
       ],
-      "duration_ms": 187544,
-      "name": "Birthday Girl",
-      "url": "https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g"
+      "duration_ms": 167193,
+      "name": "She Stole My Man",
+      "url": "https://open.spotify.com/track/2rO9FMoLlTZROoHrxmB2WG"
     },
     {
       "added_at": null,
@@ -759,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Special",
+        "url": "https://open.spotify.com/album/1NgFBv1PxMG1zhFDW1OrRr"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 187544,
+      "name": "Birthday Girl",
+      "url": "https://open.spotify.com/track/7IoLdpqB5igE13t12SKV8g"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cuz I Love You (Super Deluxe)",
         "url": "https://open.spotify.com/album/7hBV0wo7cDHZQLYnuOJ312"
       },
@@ -771,6 +771,22 @@
       "duration_ms": 133058,
       "name": "Better in Color",
       "url": "https://open.spotify.com/track/0bt3YJTupDqdTKpnFFgs7f"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Coconut Oil",
+        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 204392,
+      "name": "Scuse Me",
+      "url": "https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X"
     },
     {
       "added_at": null,
@@ -791,22 +807,6 @@
       "duration_ms": 162560,
       "name": "STILL CANT FUH (FEAT. DOJA CAT)",
       "url": "https://open.spotify.com/track/64WutS3mx1cgLmkWl5EZJK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coconut Oil",
-        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 204392,
-      "name": "Scuse Me",
-      "url": "https://open.spotify.com/track/26Q7f4tUntDtlL4EyZz65X"
     },
     {
       "added_at": null,
@@ -847,6 +847,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Coconut Oil",
+        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
+      },
+      "artists": [
+        {
+          "name": "Lizzo",
+          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
+        }
+      ],
+      "duration_ms": 177841,
+      "name": "Worship",
+      "url": "https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let 'em Say",
         "url": "https://open.spotify.com/album/2NV6a02l650uM2IxqyMJsp"
       },
@@ -863,22 +879,6 @@
       "duration_ms": 200578,
       "name": "Let 'em Say",
       "url": "https://open.spotify.com/track/6Ndj40A1dST0cNepDboAKJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Coconut Oil",
-        "url": "https://open.spotify.com/album/5RVuRq4HKlj8LkapG1Tcrv"
-      },
-      "artists": [
-        {
-          "name": "Lizzo",
-          "url": "https://open.spotify.com/artist/56oDRnqbIiwx4mymNEv7dS"
-        }
-      ],
-      "duration_ms": 177841,
-      "name": "Worship",
-      "url": "https://open.spotify.com/track/5D9Nw6HyFH0k40X8RxHfD6"
     }
   ],
   "unique_name": "This Is Lizzo",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Maluma con Shakira, Feid, Rels B, Miley Cyrus y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 413,573 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,374 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 79 | [Algo Inesperado](https://open.spotify.com/track/2VCKbcZIXJ99qY1anobrQu) | [For Your Information](https://open.spotify.com/artist/4RUCfsKZRI6fbG14biFCQ9) | [Y Todo Este Futuro](https://open.spotify.com/album/3B657fzKkqcKX7l3yR0wQ2) | 2:27 |
 | 80 | [Copenhagen](https://open.spotify.com/track/7slWyXCqYjStw4zapVAZL0) | [Just Penelope](https://open.spotify.com/artist/2z8TqZbO16nv50m8PPPl9g) | [Copenhagen](https://open.spotify.com/album/1ZjbIGDluq6907nWxWqj4g) | 2:47 |
 
-Snapshot ID: `AAAAACYMiIIMDTQ3j96CL3UTr1kFPodp`
+Snapshot ID: `AAAAAJsTRXdXpVY+GgzrxwCnbUc2CbEB`

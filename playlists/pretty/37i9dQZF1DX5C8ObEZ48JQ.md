@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 
 > The best new independent African artists  Cover:  <a href="https://open.spotify.com/artist/7pJgT4zdoIemiYQjpD8QFw?si=faac016da8a1436c">Vuyina</a>\. Artwork: Isu Kim.
 
-[Spotify](https://open.spotify.com/user/spotify) - 27,305 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 27,409 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5C8ObEZ48JQ.md) - [plain]
 | 49 | [Nipende](https://open.spotify.com/track/1E7zvR5rjAQ8iXUzusdjZl) | [Zaituni](https://open.spotify.com/artist/3HDy7kXvN8bcez9yh6wu3R) | [Labor Of Love](https://open.spotify.com/album/3qpsd3313heP97lFUi5klk) | 5:15 |
 | 50 | [Kunsi](https://open.spotify.com/track/1xzH5d9JY29iODeluAJI3c) | [Vyroota](https://open.spotify.com/artist/2b5YPqWMEx2WyASIUvVn9R) | [Kunsi](https://open.spotify.com/album/1vLg88ntF2JvhGajvYGJEx) | 3:16 |
 
-Snapshot ID: `AAAAAFFTNJbrfqmT+PKUg6nnGMsCYlog`
+Snapshot ID: `AAAAAIQSnVIOPphy7sb/UdVh3pldJnhc`

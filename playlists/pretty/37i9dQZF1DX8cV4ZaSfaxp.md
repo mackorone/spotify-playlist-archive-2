@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 
 > 찬란하고도 아련한 느낌을 간직한 한국 시티팝을 즐겨보세요\. \(A dazzling but very sad feeling\. Enjoy the city pop music of Korean singers.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,282 likes - 100 songs - 5 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,288 likes - 100 songs - 5 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,8 +92,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 82 | [Missing Call \(Feat\. SURAN\)](https://open.spotify.com/track/57uO71CRdz5Nt9wCtdsHEf) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO), [SURAN](https://open.spotify.com/artist/1mORehSVEd7lcaT2d7Sl2K) | [PANORAMA](https://open.spotify.com/album/5yU677I5zwrEbAfJUNQbyI) | 4:16 |
 | 83 | [THIS CITY](https://open.spotify.com/track/1SwSXX7JBvB25ZzJUqvVR8) | [ROCOBERRY](https://open.spotify.com/artist/0Mt9IxntWHsf793bLZhQ9P) | [THIS CITY](https://open.spotify.com/album/7JH8wNVrPGvlU6Pbos34Hu) | 3:14 |
 | 84 | [Like Heaven \(Feat\. Paul Blanco\)](https://open.spotify.com/track/5VqfYiw615GoTJpkvzWPYm) | [KWON EUNBI](https://open.spotify.com/artist/0qr7Rhj0yU7BPySYecNUlm), [Paul Blanco](https://open.spotify.com/artist/2fiGm496AG7ePURQiSSJIw) | [Like Heaven](https://open.spotify.com/album/0yMqyNHhziFPZGLXo6StNi) | 3:29 |
-| 85 | [I want to be closer to you](https://open.spotify.com/track/1WfxhZEtlQ9J0B4325cBsF) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Time\-Lapse](https://open.spotify.com/album/6qqlPpYvObYNofsPxve7cT) | 3:28 |
-| 86 | [I want to know](https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Law and The City, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst) | 3:32 |
+| 85 | [I want to know](https://open.spotify.com/track/0vjWarDW8PUdmhGyNczSdq) | [youra](https://open.spotify.com/artist/5q9adPv91NFr8q2ZcKmX0V) | [Law and The City, Pt\. 4 \(Original Soundtrack\)](https://open.spotify.com/album/1LlsIpWpTwPRq5PvEDXPst) | 3:32 |
+| 86 | [I want to be closer to you](https://open.spotify.com/track/1WfxhZEtlQ9J0B4325cBsF) | [YUKIKA](https://open.spotify.com/artist/4RfI1z9u2xIc5Qnqac4JbO) | [Time\-Lapse](https://open.spotify.com/album/6qqlPpYvObYNofsPxve7cT) | 3:28 |
 | 87 | [Ondo \(with LeeHi\)](https://open.spotify.com/track/4FODqQZ3lvhqmSWAKXPjhY) | [Bronze](https://open.spotify.com/artist/4YJiSEvipvRRttmmpvT3U7), [LEEHI](https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu) | [Skyline](https://open.spotify.com/album/3SjIA2SL9WUDf8skobvjwE) | 4:03 |
 | 88 | [Cherry Blossom](https://open.spotify.com/track/1nwQsE8hXTrrjjnTviT2qn) | [Rainbow note](https://open.spotify.com/artist/5qgNxAqFqHpGVqZQHvrm17) | [Rainbow note](https://open.spotify.com/album/2pOvHZiXW7mYbeQaDRrZgp) | 3:39 |
 | 89 | [It\`s Been A While \(Maxim City Summer Life c.f\)](https://open.spotify.com/track/6bsLkQX7R4JZdROpG9EmVl) | [Kim Hyun Chul](https://open.spotify.com/artist/39Jf69SNjTiIQfCQyLh4Gb) | [The Line](https://open.spotify.com/album/2Tx44eXDJWizJFcVXceY29) | 3:23 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8cV4ZaSfaxp.md) - [plain]
 | 99 | [Just The Two of Us \(feat\. Jinbo\)](https://open.spotify.com/track/6HyBiexwqyNzDAJ72azjKo) | [nokdu](https://open.spotify.com/artist/3tJf4CNWLW1ubPxCte1g5D), [JINBO the SuperFreak](https://open.spotify.com/artist/4PlxqkEk6seCManiTAPTWb) | [nokdu ep vol.1](https://open.spotify.com/album/3och4aanc6KOIxOva0Pi3v) | 3:39 |
 | 100 | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/track/3uIZ7nuzrccIBlLQB45p2a) | [Space Cowboy](https://open.spotify.com/artist/6zVZaYShKYDoZRXKTEDIk7), [OOHYO](https://open.spotify.com/artist/50Zu2bK9y5UAtD0jcqk5VX) | [Afterlife \(Feat\. OOHYO\)](https://open.spotify.com/album/3yAwMfJl4iH3zmq2HC4d3C) | 4:30 |
 
-Snapshot ID: `AAAAAN/UEyn3h/1PWgU+pwXmySwFST1i`
+Snapshot ID: `AAAAANmi0OjGStYf6wCmnowsyeiI2t5M`

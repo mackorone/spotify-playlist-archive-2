@@ -1,12 +1,12 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 200836,
+  "num_followers": 200817,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAF5+LVffLJGPsxowckuYiJv+KXHj",
+  "snapshot_id": "AAAAACXswHNtsa8cKlskUFwIezR7HvaX",
   "tracks": [
     {
       "added_at": "2025-09-18 22:01:59",
@@ -355,6 +355,22 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
+        "name": "Javhe Karma",
+        "url": "https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1"
+      },
+      "artists": [
+        {
+          "name": "Kilcrops",
+          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
+        }
+      ],
+      "duration_ms": 460813,
+      "name": "Infiel a Dos Mentiras \"Vida\"",
+      "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
         "name": "De La Tierra",
         "url": "https://open.spotify.com/album/77haZO4gSHSHWhjjdFg56k"
       },
@@ -371,18 +387,18 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Javhe Karma",
-        "url": "https://open.spotify.com/album/0yKtlTkM61fYXqKXybXVK1"
+        "name": "Blood-Rooted",
+        "url": "https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG"
       },
       "artists": [
         {
-          "name": "Kilcrops",
-          "url": "https://open.spotify.com/artist/35RQXAyUyPsRRcank3cohw"
+          "name": "Sepultura",
+          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
         }
       ],
-      "duration_ms": 460813,
-      "name": "Infiel a Dos Mentiras \"Vida\"",
-      "url": "https://open.spotify.com/track/7mNdPmUqNmp7JqHQUBJPBa"
+      "duration_ms": 107693,
+      "name": "Policia",
+      "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -403,22 +419,6 @@
       "duration_ms": 198893,
       "name": "Pueblos erguidos",
       "url": "https://open.spotify.com/track/7fpEq4VraGYZZWXfWLk3sP"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
-        "name": "Blood-Rooted",
-        "url": "https://open.spotify.com/album/1FS91DJzXoWcl8p6AK0CYG"
-      },
-      "artists": [
-        {
-          "name": "Sepultura",
-          "url": "https://open.spotify.com/artist/6JW8wliOEwaDZ231ZY7cf4"
-        }
-      ],
-      "duration_ms": 107693,
-      "name": "Policia",
-      "url": "https://open.spotify.com/track/56EDO4Z7CDAbFRHYRjZOmd"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -647,18 +647,18 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Llora Chiapas",
-        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
+        "name": "Legiones",
+        "url": "https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf"
       },
       "artists": [
         {
-          "name": "Leprosy",
-          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
+          "name": "Serpentor",
+          "url": "https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM"
         }
       ],
-      "duration_ms": 312447,
-      "name": "Residentes Olvidados",
-      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
+      "duration_ms": 374026,
+      "name": "Reinar\u00e1 el Caos",
+      "url": "https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -679,18 +679,18 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Legiones",
-        "url": "https://open.spotify.com/album/5Ytr8u4scs1gTzPdZ2ABOf"
+        "name": "Llora Chiapas",
+        "url": "https://open.spotify.com/album/36qF2Whdrufy2jQwiQ2GBL"
       },
       "artists": [
         {
-          "name": "Serpentor",
-          "url": "https://open.spotify.com/artist/09Z8ZKx0g9HCsO9BiaYMwM"
+          "name": "Leprosy",
+          "url": "https://open.spotify.com/artist/01U6wng00lcRJt0j2W0O3x"
         }
       ],
-      "duration_ms": 374026,
-      "name": "Reinar\u00e1 el Caos",
-      "url": "https://open.spotify.com/track/1XDlBd1YCUkQOsoNhA3C5z"
+      "duration_ms": 312447,
+      "name": "Residentes Olvidados",
+      "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -743,22 +743,6 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Earthliens",
-        "url": "https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l"
-      },
-      "artists": [
-        {
-          "name": "Perpetual Warfare",
-          "url": "https://open.spotify.com/artist/3nDZ96c0eP5xULoXG5VKwG"
-        }
-      ],
-      "duration_ms": 250362,
-      "name": "Las Venas Abiertas...",
-      "url": "https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
         "name": "Privaci\u00f3n Ileg\u00edtima de la Libertad",
         "url": "https://open.spotify.com/album/3T1bucft30F8GeAa9mlECc"
       },
@@ -771,6 +755,22 @@
       "duration_ms": 288440,
       "name": "Privaci\u00f3n Ileg\u00edtima de la Libertad",
       "url": "https://open.spotify.com/track/1KpwCqOkdPfI3iXtqOHtHE"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
+        "name": "Earthliens",
+        "url": "https://open.spotify.com/album/5tyMcEgeoKK0USWlBAjg3l"
+      },
+      "artists": [
+        {
+          "name": "Perpetual Warfare",
+          "url": "https://open.spotify.com/artist/3nDZ96c0eP5xULoXG5VKwG"
+        }
+      ],
+      "duration_ms": 250362,
+      "name": "Las Venas Abiertas...",
+      "url": "https://open.spotify.com/track/26e1lqciRLcyXPzYvxOgfy"
     },
     {
       "added_at": "2025-09-18 22:01:59",

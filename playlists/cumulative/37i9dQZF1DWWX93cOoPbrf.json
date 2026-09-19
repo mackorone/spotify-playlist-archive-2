@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-07-24",
-  "description": "Lo m\u00e1s fresco de los corridones. Marca MP en portada.",
+  "description": "Lo m\u00e1s fresco de los corridones. Equipo HC en portada.",
   "name": "Corridos 2026",
   "tracks": [
     {
@@ -1573,6 +1573,28 @@
     },
     {
       "album": {
+        "name": "Algobierno",
+        "url": "https://open.spotify.com/album/64nRIBsaqpvORMq4MWwMMx"
+      },
+      "artists": [
+        {
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "Beto Vega",
+          "url": "https://open.spotify.com/artist/4sB1zr9B9t2OgQtdejswak"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124243,
+      "name": "Algobierno",
+      "url": "https://open.spotify.com/track/0sgSnxmU3knTyciXomcyjG"
+    },
+    {
+      "album": {
         "name": "Como en los Viejos Tiempos",
         "url": "https://open.spotify.com/album/7kfuZtaN9zvpFhIIMZLvgI"
       },
@@ -3034,7 +3056,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 126111,
       "name": "Bahamas",
       "url": "https://open.spotify.com/track/65aTjJqIZsPlbzJiNeKH9Q"
@@ -4882,7 +4904,7 @@
       ],
       "date_added": "2026-05-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 159119,
       "name": "CHAKA",
       "url": "https://open.spotify.com/track/2wTWVd1YHRR5IM7pPvpUjS"
@@ -6331,6 +6353,24 @@
     },
     {
       "album": {
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138972,
+      "name": "CR7",
+      "url": "https://open.spotify.com/track/2aeeDXCFgsCdyehJ1n1zWs"
+    },
+    {
+      "album": {
         "name": "Creci\u00f3 La Cuenta",
         "url": "https://open.spotify.com/album/2KK6p9x9C1XbwDrQQXdSZh"
       },
@@ -7122,6 +7162,24 @@
       "duration_ms": 148999,
       "name": "De Mexico Para El Mundo",
       "url": "https://open.spotify.com/track/2icmqXxY4Zo5MvgiIeHZ5O"
+    },
+    {
+      "album": {
+        "name": "De M\u00e9xico Soy",
+        "url": "https://open.spotify.com/album/3TlUK5ukcTDdHXan3QEIQp"
+      },
+      "artists": [
+        {
+          "name": "Los Tucanes De Tijuana",
+          "url": "https://open.spotify.com/artist/014WIDx7H4BRCHB1faiisK"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162112,
+      "name": "De M\u00e9xico Soy",
+      "url": "https://open.spotify.com/track/6DGPN25C9jioipnxlahZ3J"
     },
     {
       "album": {
@@ -9680,6 +9738,24 @@
       "duration_ms": 155162,
       "name": "El Caminito",
       "url": "https://open.spotify.com/track/4lHWPXVlSkcah5YpBrjNaR"
+    },
+    {
+      "album": {
+        "name": "El Campe\u00f3n",
+        "url": "https://open.spotify.com/album/1iL4dwstqIiUD9ettABQMw"
+      },
+      "artists": [
+        {
+          "name": "Chay\u00edn Rubio",
+          "url": "https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187428,
+      "name": "El Campe\u00f3n",
+      "url": "https://open.spotify.com/track/6bxe75QM4hqfgqBywxlsqB"
     },
     {
       "album": {
@@ -13100,6 +13176,24 @@
       "duration_ms": 242785,
       "name": "El JR 01",
       "url": "https://open.spotify.com/track/1x7nf9SeVawE0wEl6oayFV"
+    },
+    {
+      "album": {
+        "name": "El Juego De La Vida",
+        "url": "https://open.spotify.com/album/6sp2AU6KZxWqpINnipLnc1"
+      },
+      "artists": [
+        {
+          "name": "Pantera De Culiacan Sinaloa",
+          "url": "https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175802,
+      "name": "El Juego de la Vida",
+      "url": "https://open.spotify.com/track/4NyG5IPOHTS0wrEkivQbP0"
     },
     {
       "album": {
@@ -17965,6 +18059,24 @@
     },
     {
       "album": {
+        "name": "Faltaba Fe",
+        "url": "https://open.spotify.com/album/7iaRcI3nN3VWZVtcn700h5"
+      },
+      "artists": [
+        {
+          "name": "Equipo HC",
+          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169386,
+      "name": "Faltaba Fe",
+      "url": "https://open.spotify.com/track/2otuxWCtbaoZns3f00itTQ"
+    },
+    {
+      "album": {
         "name": "No Fue Suerte",
         "url": "https://open.spotify.com/album/0xUggoHx4p14LrfP3UDIuM"
       },
@@ -21052,7 +21164,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 171743,
       "name": "Jolly Rancher \u201cLos de la Casa\u201d (En Vivo)",
       "url": "https://open.spotify.com/track/66cxP4XwyVS4KjPVLFc5UH"
@@ -24768,7 +24880,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 162661,
       "name": "Le Quitaron la Vida a mi Padre",
       "url": "https://open.spotify.com/track/10OOyfqXFCf3mfbYHx1Cpv"
@@ -26760,7 +26872,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 134581,
       "name": "Maldito el Hombre",
       "url": "https://open.spotify.com/track/7hslTSzvoa1Zs0S0jjtd5E"
@@ -27138,6 +27250,28 @@
       "duration_ms": 166096,
       "name": "Mayo Para El Mundo (En Vivo)",
       "url": "https://open.spotify.com/track/4IjVu3RGh8aPGHSnpupsoS"
+    },
+    {
+      "album": {
+        "name": "MAYWEATHER",
+        "url": "https://open.spotify.com/album/4BR5QwDg9QpvphsKzlTB5y"
+      },
+      "artists": [
+        {
+          "name": "Diferente Nivel",
+          "url": "https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0"
+        },
+        {
+          "name": "Angel Cervantes",
+          "url": "https://open.spotify.com/artist/3cbOif2nNznwEiNw9Ty8NJ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169450,
+      "name": "MAYWEATHER",
+      "url": "https://open.spotify.com/track/4X7qQsHKMJiO1e3DVYluXF"
     },
     {
       "album": {
@@ -30932,7 +31066,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 151337,
       "name": "Papi Crueldad",
       "url": "https://open.spotify.com/track/5rtiKVuwzkZIeRraVZyXKe"
@@ -32602,7 +32736,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 205757,
       "name": "PUM PUM PAS",
       "url": "https://open.spotify.com/track/4xU68ycsR9eazGoDNyNoW4"
@@ -33189,6 +33323,24 @@
     },
     {
       "album": {
+        "name": "Qui\u00e9n Lo Dir\u00eda",
+        "url": "https://open.spotify.com/album/1do2Fl4RFNtPmJFDDMRUGC"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Palafox",
+          "url": "https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170677,
+      "name": "Qui\u00e9n Lo Dir\u00eda",
+      "url": "https://open.spotify.com/track/5eGs9zZsl3PeIqxoSmj9Zb"
+    },
+    {
+      "album": {
         "name": "Qu\u00e9 Mal",
         "url": "https://open.spotify.com/album/3EgvCPSyqvNhmzivVf8P4A"
       },
@@ -33510,6 +33662,28 @@
       "duration_ms": 210000,
       "name": "Refuego por Culiacan",
       "url": "https://open.spotify.com/track/5KvVBN8WLI8RRy4iryZnMg"
+    },
+    {
+      "album": {
+        "name": "REPUBE",
+        "url": "https://open.spotify.com/album/7rdKAuWyT4ErSXUffEiNVw"
+      },
+      "artists": [
+        {
+          "name": "M\u00e1xima Ventaja",
+          "url": "https://open.spotify.com/artist/5I8HriBeRyNsjTLSHsok0N"
+        },
+        {
+          "name": "Victor Cibrian",
+          "url": "https://open.spotify.com/artist/1iXdpCz3AeLEAvzqeNodt8"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182173,
+      "name": "REPUBE",
+      "url": "https://open.spotify.com/track/7wQ6dQFeRyr2n86zmPnFII"
     },
     {
       "album": {
@@ -36196,7 +36370,7 @@
       ],
       "date_added": "2026-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 180834,
       "name": "Sue\u00f1os Grandes",
       "url": "https://open.spotify.com/track/4TgHSi6hGefmtVa2dvZR0J"
@@ -37632,7 +37806,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 155131,
       "name": "Un Corridazo",
       "url": "https://open.spotify.com/track/6VIX6Tu8pnrZurbOnpLj2x"

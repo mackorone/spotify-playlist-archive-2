@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 
 > warm indie dance vibes 🌞 the music you need at golden hour
 
-[Spotify](https://open.spotify.com/user/spotify) - 703,325 likes - 100 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 703,313 likes - 100 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,7 +46,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 36 | [Supercolor \(feat\. CECI\)](https://open.spotify.com/track/5MivC2zico0hz5JFvZK9lz) | [Fabich](https://open.spotify.com/artist/1mwP5J1kB8clYx0SoNL0uh), [CECI](https://open.spotify.com/artist/5EyGexfSUi8oGjOmZSD5HG) | [The Cocktail Hour](https://open.spotify.com/album/0eGzoGDUX6ZSQhuY8DT7Ct) | 3:31 |
 | 37 | [Make Me Feel Better \- 2025 Edit](https://open.spotify.com/track/0GqZ3deuRcromFjc404K4M) | [Alex Adair](https://open.spotify.com/artist/1mrrvBvbrm28iYaPlJ9mG5) | [Make Me Feel Better \(2025 Edit\)](https://open.spotify.com/album/1w9U8eM9PXqN3DPgiS2NiE) | 2:27 |
 | 38 | [Orange Wine](https://open.spotify.com/track/7gZWypmpJYDJB7DV8p0Vjk) | [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb), [Lynden](https://open.spotify.com/artist/5q6iGOspbddquMKyvxKQYv) | [Orange Wine](https://open.spotify.com/album/2AGeeGiuL9Sxs3ZWpnq9o1) | 3:10 |
-| 39 | [Type of Girl](https://open.spotify.com/track/4rzB3e4GvQUO5quMCKySp4) | [Teilz](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [Type of Girl](https://open.spotify.com/album/4HGw9M865EeOCeRUWnKeJd) | 4:16 |
+| 39 | [Type of Girl](https://open.spotify.com/track/4rzB3e4GvQUO5quMCKySp4) | [TEILZ](https://open.spotify.com/artist/5FXeiHtcyalHwoeViwaEno) | [Type of Girl](https://open.spotify.com/album/4HGw9M865EeOCeRUWnKeJd) | 4:16 |
 | 40 | [Falling Again](https://open.spotify.com/track/1KOKSXOF3t21CKCR3DeEkR) | [3kelves](https://open.spotify.com/artist/4lmkcVpiNTAilHY9AGjKJH) | [Falling Again](https://open.spotify.com/album/4adnBo43aGOYUjnHHVzI8G) | 2:20 |
 | 41 | [Show the Way](https://open.spotify.com/track/6TTzOzCtZlUXhouvx2mlgy) | [Gerry Read](https://open.spotify.com/artist/5FIfw6s4iYUFu6tA3iIIOQ) | [Show the Way](https://open.spotify.com/album/0dTnSpQjXjwBLOsLfVBV8J) | 4:21 |
 | 42 | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/track/2dbnNetIFWLA7q7Fb9QcVk) | [Girls of the Internet](https://open.spotify.com/artist/5tGmvKTFVL9bGZTxtvopHE), [shiv](https://open.spotify.com/artist/5rxxzsO9zojzg0FfWVmIv7) | [Never Ever Ever \(feat\. shiv\)](https://open.spotify.com/album/31lcP0CvJaiFST2fvuyuOH) | 3:09 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUE76cNNotSg.md) - [plain]
 | 99 | [Pacific Ave](https://open.spotify.com/track/0b08c1WpRJotjRI9mLLH1I) | [Pearl & The Oysters](https://open.spotify.com/artist/7ovvjgqrTeuMxbzIykUqDs) | [Coast 2 Coast](https://open.spotify.com/album/6y5kCZvxD1Oq5M385icFT9) | 3:22 |
 | 100 | [Free \- Single Version](https://open.spotify.com/track/26ka7pzhIonUoQFYjB6PbG) | [Parcels](https://open.spotify.com/artist/3oKRxpszQKUjjaHz388fVA) | [Day/Night](https://open.spotify.com/album/2FJj7NVoRCAwjFus0O1BXd) | 3:39 |
 
-Snapshot ID: `AAAAAHadXtiiSaAlzcckpY1LRMqfVykp`
+Snapshot ID: `AAAAAB/iGT8+RY3JE6mvvAt77KxS6682`

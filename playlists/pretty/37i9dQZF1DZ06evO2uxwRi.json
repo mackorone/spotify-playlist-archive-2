@@ -1,12 +1,12 @@
 {
   "description": "This is New Found Glory. The essential tracks, all in one playlist.",
-  "num_followers": 44086,
+  "num_followers": 44089,
   "original_name": "This Is New Found Glory",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAACBhlGwvebSYIp4+LxEeMJa",
+  "snapshot_id": "aqstgAAAAADxzlT8DfQFbLSnFC0AW9GA",
   "tracks": [
     {
       "added_at": null,
@@ -260,9 +260,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 231240,
-      "name": "Failure's Not Flattering",
-      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
+      "duration_ms": 182066,
+      "name": "Truth Of My Youth",
+      "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
     },
     {
       "added_at": null,
@@ -328,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 182066,
-      "name": "Truth Of My Youth",
-      "url": "https://open.spotify.com/track/62I2QLmIk1heWZAXo548Ga"
+      "duration_ms": 231240,
+      "name": "Failure's Not Flattering",
+      "url": "https://open.spotify.com/track/5SCgfgCHD7UnhS7mWemshR"
     },
     {
       "added_at": null,
@@ -707,8 +707,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radiosurgery (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
+        "name": "New Found Glory",
+        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
       },
       "artists": [
         {
@@ -716,9 +716,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 122582,
-      "name": "Blitzkrieg Bop",
-      "url": "https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P"
+      "duration_ms": 172266,
+      "name": "Sucker",
+      "url": "https://open.spotify.com/track/2WS6N3g451413Qz9Fx5mQK"
     },
     {
       "added_at": null,
@@ -739,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "New Found Glory",
-        "url": "https://open.spotify.com/album/4lrBF0IWC9wZiF6btB68ua"
+        "name": "Radiosurgery (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7KshkjWC3BH1zzc8xJdEpp"
       },
       "artists": [
         {
@@ -748,9 +748,9 @@
           "url": "https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce"
         }
       ],
-      "duration_ms": 172266,
-      "name": "Sucker",
-      "url": "https://open.spotify.com/track/2WS6N3g451413Qz9Fx5mQK"
+      "duration_ms": 122582,
+      "name": "Blitzkrieg Bop",
+      "url": "https://open.spotify.com/track/1Oh3Qebn8nkZa0jCvC1B6P"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@
 
 > only the best tech house &amp; house music
 
-2,500 songs - 5 day 20 hr 35 min
+2,501 songs - 5 day 20 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -135,6 +135,7 @@
 | [Back Again](https://open.spotify.com/track/6TySyad9aOP0uDkBET5CDt) | [BURNR](https://open.spotify.com/artist/7bi8ABpXgK2DpE5nRaWdZ5) | [Back Again](https://open.spotify.com/album/3ize34DP1QxPABL4Avoodd) | 3:47 | 2024-07-07 | 2024-07-27 |
 | [Back It Up](https://open.spotify.com/track/5bdKaYnig6IqBsQQqBUjHm) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc) | [Back It Up](https://open.spotify.com/album/3zmA0CrYMwFY92X9DkK2fY) | 2:36 | 2025-03-21 | 2025-05-03 |
 | [Back It Up \- James Poole Remix](https://open.spotify.com/track/2JYK8txfzXg5OPGhsHK7ug) | [Josh Baker](https://open.spotify.com/artist/4zf8Awb8y1X9qwL4oiVRd6), [Omar+](https://open.spotify.com/artist/06HO1b1nd4kQzRakdZBTSc), [James Poole](https://open.spotify.com/artist/14jYWAqwskpQJI3Uzg8XdT) | [Back It Up \(James Poole Remix\)](https://open.spotify.com/album/7JPX0nXOndmitCeKPVpreZ) | 2:42 | 2025-05-30 | 2025-08-02 |
+| [Back Of The Club](https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE) | [Cloonee](https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR) | [Back Of The Club](https://open.spotify.com/album/1nt8qzP1zihkI8IPAFZl3M) | 2:51 | 2026-09-18 |  |
 | [Back Once Again \- Original Mix](https://open.spotify.com/track/1RuDzBhdUKTWxy3rtDySi4) | [Kohmi](https://open.spotify.com/artist/6NhJ3byRXx7HJzpryxi8w7) | [Back Once Again](https://open.spotify.com/album/5NAxUaUf8fLUOSK56DsY9E) | 4:00 | 2022-11-11 | 2022-11-19 |
 | [Back Room](https://open.spotify.com/track/4FBQrJOZoZHAZpUemTSnde) | [FOVOS](https://open.spotify.com/artist/1ccmwHm4DPRPR12TZVWdu8), [Dissolut](https://open.spotify.com/artist/00qEejZyY0fO6WFTRtuCVO) | [Back Room](https://open.spotify.com/album/779eU0pmBcfnKgVi8KHYZl) | 2:50 | 2022-08-05 | 2022-09-03 |
 | [Back Room](https://open.spotify.com/track/3Tb9hYVJVEgbriZqU0JKJt) | [RAFA MOON](https://open.spotify.com/artist/4KNx3tce4EeLLjuYbNi9LD) | [Welcome](https://open.spotify.com/album/13elfZOEM1WNulyWofALHI) | 4:41 | 2023-11-14 | 2023-11-18 |

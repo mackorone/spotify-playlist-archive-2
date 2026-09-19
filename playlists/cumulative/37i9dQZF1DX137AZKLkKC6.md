@@ -4,7 +4,7 @@
 
 > Las grandes del Despecho y el Género Popular\. Con Nico Hernández en portada.
 
-347 songs - 17 hr 49 min
+348 songs - 17 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -229,6 +229,7 @@
 | [Ni Tengo Ni Necesito](https://open.spotify.com/track/2TV5peMu6MRFONxHHE9ZrV) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Ni Tengo Ni Necesito](https://open.spotify.com/album/3y0wLmxhOrDjmSw0LUUVEi) | 3:21 | 2022-08-12 |  |
 | [ni tú ni yo](https://open.spotify.com/track/0kH1Bp0VeWqBenyfzV0alC) | [Elsa y Elmar](https://open.spotify.com/artist/5nKGeITSNCVP76muyOlszy) | [ni tú ni yo](https://open.spotify.com/album/54QpV1YNnLRak4dzeas1ZB) | 2:55 | 2023-11-10 | 2024-01-26 |
 | [No Copio de Nada](https://open.spotify.com/track/7GUU8AOCa3lTVSNlLlsVW0) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv), [King Daga](https://open.spotify.com/artist/1F1Ldin7CSAXrPvhZnEJn3), [JHONA](https://open.spotify.com/artist/4iF9IJDzc3ikrG2OiJfrwT) | [No Copio de Nada](https://open.spotify.com/album/6i0OPQJveV0dkMlOb3jQWF) | 2:47 | 2023-04-14 | 2023-04-29 |
+| [No Creo En Tus Caricias](https://open.spotify.com/track/3AAr7wzPs0yakVQoxYKw6g) | [Grupo Triunfadores](https://open.spotify.com/artist/74TcxUH2X0cCpOD1uMWzWQ) | [Grupo Triunfadores Canta Dueto Revelación](https://open.spotify.com/album/1dtEzGa9qylaoyTgYOINFV) | 3:17 | 2026-09-18 |  |
 | [No Duele Tu Olvido](https://open.spotify.com/track/4k1Fa69L8ink1epcYhljZj) | [Jhonny Rivera](https://open.spotify.com/artist/5TDSNRe3rVLJhxjIhxfcUx), [Luisito Muñoz](https://open.spotify.com/artist/0ajy8rupiCOgvmsOtaG83P) | [No Duele Tu Olvido](https://open.spotify.com/album/0JwGg9qvr6LAsIlnm7FVmv) | 2:50 | 2023-03-17 | 2023-05-13 |
 | [No Me 100to Bien](https://open.spotify.com/track/4ojX5C1upQBxlVLvZt8AgD) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [No Me 100to Bien](https://open.spotify.com/album/3FYnU0zDcAikblh1uTYQ95) | 3:22 | 2024-07-05 | 2024-08-31 |
 | [No Me Digas Que No \- Remix](https://open.spotify.com/track/06yVKqQFFuvq9Zqnmcsb7a) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe) | [No Me Digas Que No \(Remix\)](https://open.spotify.com/album/1OdRfo9yfhQYmMnsFMaFHt) | 3:17 | 2023-09-29 |  |
@@ -290,7 +291,7 @@
 | [Se Acabó](https://open.spotify.com/track/2T6BBNQW4t81x2ddqWrGzs) | [Yeison Jimenez](https://open.spotify.com/artist/3SEztK9fNxg81qZ8qETGNT) | [Se Acabó](https://open.spotify.com/album/51DJQhb22aSZFsz6tTBY23) | 2:46 | 2025-07-18 |  |
 | [Se Me Olvidó](https://open.spotify.com/track/5Xitt5a5uLQ1QtYdFxmi9e) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Se Me Olvidó](https://open.spotify.com/album/09WScwK7HlzuM0dXAdXaMy) | 2:39 | 2022-08-12 |  |
 | [Se Me Va La Vida](https://open.spotify.com/track/0HkQBh6OMP3UajE2xP66Eo) | [Lukas Bloom](https://open.spotify.com/artist/4F0AboKMXsJaZXtzTTAuvX) | [Se Me Va La Vida](https://open.spotify.com/album/3lA4BMOGbeLkEIKwd4sPij) | 2:43 | 2023-06-23 | 2023-07-15 |
-| [Se Nos Murio El Amor](https://open.spotify.com/track/4LyHx80mrDxGJvdL2Hr8gl) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv) | [Se Nos Murio El Amor](https://open.spotify.com/album/6AZaomFFB9T8uUMBYEoTMD) | 3:34 | 2026-09-11 |  |
+| [Se Nos Murio El Amor](https://open.spotify.com/track/4LyHx80mrDxGJvdL2Hr8gl) | [Giovanny Ayala](https://open.spotify.com/artist/1UVPfNPbTcrDocjT0O5jcv) | [Se Nos Murio El Amor](https://open.spotify.com/album/6AZaomFFB9T8uUMBYEoTMD) | 3:34 | 2026-09-11 | 2026-09-19 |
 | [Se Te Nota](https://open.spotify.com/track/74jl7R6kG4lfiHY85ay9O1) | [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [Se Te Nota](https://open.spotify.com/album/6tlScITlYfHc5raKEydO1F) | 3:05 | 2022-08-12 |  |
 | [Si Dios Perdona](https://open.spotify.com/track/1RtvzGGRmDnATLCd3HrTFT) | [Juliana](https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng) | [Si Dios Perdona](https://open.spotify.com/album/70fClqkoidHfZivofJHZmc) | 3:00 | 2023-09-15 | 2023-12-02 |
 | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/track/3F0M7Ug02v7jsA0WTooFHz) | [Adriana Bottina](https://open.spotify.com/artist/3CBKZfqKn3KtCO4uQXhMHO) | [Si Me Vas Abandonar \(Norteño\)](https://open.spotify.com/album/1IIkANQG0n9nmNBpeF3huX) | 2:59 | 2023-09-29 | 2023-11-05 |

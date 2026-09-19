@@ -1,12 +1,12 @@
 {
   "description": "good vibes, all the time",
-  "num_followers": 455377,
+  "num_followers": 455422,
   "original_name": "good energy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHDoKAxUBEKfEyGeMOrdrkP+SGzK",
+  "snapshot_id": "AAAAAMslZarmqYmcHd86ChfQrDM3P//X",
   "tracks": [
     {
       "added_at": "2026-06-18 20:32:33",
@@ -459,22 +459,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "High Hopes 3000",
-        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
-      },
-      "artists": [
-        {
-          "name": "ROLE MODEL",
-          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
-        }
-      ],
-      "duration_ms": 245755,
-      "name": "High Hopes 3000",
-      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "The Rise and Fall of a Midwest Princess",
         "url": "https://open.spotify.com/album/0EiI8ylL0FmWWpgHVTsZjZ"
       },
@@ -487,6 +471,22 @@
       "duration_ms": 184841,
       "name": "HOT TO GO!",
       "url": "https://open.spotify.com/track/4xdBrk0nFZaP54vvZj0yx7"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "High Hopes 3000",
+        "url": "https://open.spotify.com/album/1wNw84HV2GGAhuf6ROgRgu"
+      },
+      "artists": [
+        {
+          "name": "ROLE MODEL",
+          "url": "https://open.spotify.com/artist/1dy5WNgIKQU6ezkpZs4y8z"
+        }
+      ],
+      "duration_ms": 245755,
+      "name": "High Hopes 3000",
+      "url": "https://open.spotify.com/track/1dKUibfoGwiApjEYJhB9R2"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -895,22 +895,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Good Vibrations",
-        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
-      },
-      "artists": [
-        {
-          "name": "Nectar Woode",
-          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
-        }
-      ],
-      "duration_ms": 229444,
-      "name": "Good Vibrations",
-      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "I\u2019m your girl right?",
         "url": "https://open.spotify.com/album/5zYYpY4O9KUtwnHx3jcNAX"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 169059,
       "name": "I\u2019m your girl right?",
       "url": "https://open.spotify.com/track/6rYyqOyyw9bgugmqUaoehR"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Good Vibrations",
+        "url": "https://open.spotify.com/album/6OsiBdHNt2qPmSY06HYQYF"
+      },
+      "artists": [
+        {
+          "name": "Nectar Woode",
+          "url": "https://open.spotify.com/artist/6XwbawUNwNcZ7OXtvMVyKK"
+        }
+      ],
+      "duration_ms": 229444,
+      "name": "Good Vibrations",
+      "url": "https://open.spotify.com/track/3b1LOYktJgqGoy3QMyhOCk"
     },
     {
       "added_at": "2026-08-14 15:37:09",
@@ -991,22 +991,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "Backseat",
-        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 383400,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "Lights Burn Dimmer",
         "url": "https://open.spotify.com/album/0OrWX0oW2b94MfnA1dSeov"
       },
@@ -1023,6 +1007,22 @@
       "duration_ms": 260879,
       "name": "Lights Burn Dimmer",
       "url": "https://open.spotify.com/track/0ABgQEAsfdvwtOyCe113lt"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "Backseat",
+        "url": "https://open.spotify.com/album/4SnYbgZqKOxc2eCRdMS3xu"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7yT4NJt5rgmVoMJMGPULcj"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1343,22 +1343,6 @@
     {
       "added_at": "2026-06-18 20:32:33",
       "album": {
-        "name": "300 dreams",
-        "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
-      },
-      "artists": [
-        {
-          "name": "After",
-          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
-        }
-      ],
-      "duration_ms": 188575,
-      "name": "300 dreams",
-      "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
-    },
-    {
-      "added_at": "2026-06-18 20:32:33",
-      "album": {
         "name": "The Afterparty",
         "url": "https://open.spotify.com/album/3eqH5aQKPKLKD1kFNBczwl"
       },
@@ -1371,6 +1355,22 @@
       "duration_ms": 181550,
       "name": "Lucky Again",
       "url": "https://open.spotify.com/track/2MdZ3S4bMOqBRPvY2hlGNZ"
+    },
+    {
+      "added_at": "2026-06-18 20:32:33",
+      "album": {
+        "name": "300 dreams",
+        "url": "https://open.spotify.com/album/3IgDyLUkygCEyfG7CsZyzB"
+      },
+      "artists": [
+        {
+          "name": "After",
+          "url": "https://open.spotify.com/artist/7KfMR05zRrWyhQimnYa8li"
+        }
+      ],
+      "duration_ms": 188575,
+      "name": "300 dreams",
+      "url": "https://open.spotify.com/track/3gkVuPHTyp4rHH5YrczzOL"
     },
     {
       "added_at": "2026-06-18 20:32:33",
@@ -1553,22 +1553,6 @@
       "url": "https://open.spotify.com/track/0gQpTmVvkNauZzh5YSIrHY"
     },
     {
-      "added_at": "2026-08-14 15:37:09",
-      "album": {
-        "name": "She\u2019s the Best",
-        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
-      },
-      "artists": [
-        {
-          "name": "Troye Sivan",
-          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
-        }
-      ],
-      "duration_ms": 254026,
-      "name": "She\u2019s the Best",
-      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
-    },
-    {
       "added_at": "2026-06-18 20:32:33",
       "album": {
         "name": "a girl like me",
@@ -1599,6 +1583,22 @@
       "duration_ms": 134117,
       "name": "LEGACY",
       "url": "https://open.spotify.com/track/4ZjAfdKKRfibE5gVDkDCWs"
+    },
+    {
+      "added_at": "2026-08-14 15:37:09",
+      "album": {
+        "name": "She\u2019s the Best",
+        "url": "https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "duration_ms": 254026,
+      "name": "She\u2019s the Best",
+      "url": "https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O"
     },
     {
       "added_at": "2026-06-18 20:32:33",

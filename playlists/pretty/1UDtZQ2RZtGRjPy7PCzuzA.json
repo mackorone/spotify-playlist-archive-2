@@ -3,10 +3,10 @@
   "num_followers": 3,
   "original_name": "\ud806\udcf2\ud835\udcf3",
   "owner": {
-    "name": "lia\ud83c\udf6d",
+    "name": "\ud835\udcbf\ud835\udcca\ud835\udcc1\ud835\udcbe",
     "url": "https://open.spotify.com/user/312yejiy4j6if5jxguepsue756fu"
   },
-  "snapshot_id": "AAANKEW5s9OdWDk9rzNFHh1aGSbVpunx",
+  "snapshot_id": "AAANNcsPpCn3JI/5Jcym2G+OU/E9lo4T",
   "tracks": [
     {
       "added_at": "2026-08-15 08:53:39",
@@ -27003,6 +27003,222 @@
       "duration_ms": 261360,
       "name": "You're Not Good Enough",
       "url": "https://open.spotify.com/track/7vcNp4cj4uF4AyX5aKY4Ps"
+    },
+    {
+      "added_at": "2026-09-18 05:03:29",
+      "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
+    },
+    {
+      "added_at": "2026-09-18 10:17:31",
+      "album": {
+        "name": "PICK UP",
+        "url": "https://open.spotify.com/album/5ISHoGmszZO5dwiIzYFzmX"
+      },
+      "artists": [
+        {
+          "name": "zachdoa",
+          "url": "https://open.spotify.com/artist/6NE750JMOmsY57WeUHjHes"
+        }
+      ],
+      "duration_ms": 131941,
+      "name": "PICK UP",
+      "url": "https://open.spotify.com/track/25edMffSHEeWLwPkyqVdkX"
+    },
+    {
+      "added_at": "2026-09-18 10:24:46",
+      "album": {
+        "name": "unlearning you",
+        "url": "https://open.spotify.com/album/6FpOqgBHMr8KuAYUJKMQak"
+      },
+      "artists": [
+        {
+          "name": "Crying City",
+          "url": "https://open.spotify.com/artist/324QqTOkQyG8CUlphElsdD"
+        }
+      ],
+      "duration_ms": 195864,
+      "name": "unlearning you",
+      "url": "https://open.spotify.com/track/1yCBTTm2QzU5eIsGUxlKEh"
+    },
+    {
+      "added_at": "2026-09-18 10:31:12",
+      "album": {
+        "name": "All I Want Is You",
+        "url": "https://open.spotify.com/album/493HYe7N5pleudEZRyhE7R"
+      },
+      "artists": [
+        {
+          "name": "Miguel",
+          "url": "https://open.spotify.com/artist/360IAlyVv4PCEVjgyMZrxK"
+        },
+        {
+          "name": "J. Cole",
+          "url": "https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5"
+        }
+      ],
+      "duration_ms": 297506,
+      "name": "All I Want Is You (feat. J. Cole)",
+      "url": "https://open.spotify.com/track/5VA4Ispp52EA1sOqzMz3Av"
+    },
+    {
+      "added_at": "2026-09-18 10:36:36",
+      "album": {
+        "name": "Ivory",
+        "url": "https://open.spotify.com/album/5z7TD11Qh81Gbf52hd5zAv"
+      },
+      "artists": [
+        {
+          "name": "Omar Apollo",
+          "url": "https://open.spotify.com/artist/5FxD8fkQZ6KcsSYupDVoSO"
+        }
+      ],
+      "duration_ms": 216680,
+      "name": "Evergreen (You Didn\u2019t Deserve Me At All)",
+      "url": "https://open.spotify.com/track/2TktkzfozZifbQhXjT6I33"
+    },
+    {
+      "added_at": "2026-09-18 10:39:25",
+      "album": {
+        "name": "La Historia Contin\u00faa...Parte IV",
+        "url": "https://open.spotify.com/album/6ziRoYI3rWu4TOAUeIJuNO"
+      },
+      "artists": [
+        {
+          "name": "Marco Antonio Sol\u00eds",
+          "url": "https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd"
+        }
+      ],
+      "duration_ms": 286973,
+      "name": "Si No Te Hubieras Ido",
+      "url": "https://open.spotify.com/track/3l1ZanpJ3jFQZMqATizqfE"
+    },
+    {
+      "added_at": "2026-09-18 10:46:27",
+      "album": {
+        "name": "Chip Chrome & The Mono-Tones",
+        "url": "https://open.spotify.com/album/4uNgt1uQs6wZRm4giB3shX"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 234093,
+      "name": "Pretty Boy",
+      "url": "https://open.spotify.com/track/7IL8PSVwLOJxqYne6azxQv"
+    },
+    {
+      "added_at": "2026-09-18 10:50:58",
+      "album": {
+        "name": "(((((ultraSOUND)))))",
+        "url": "https://open.spotify.com/album/1xsGQbqvVDIq3sCJDUzQZv"
+      },
+      "artists": [
+        {
+          "name": "The Neighbourhood",
+          "url": "https://open.spotify.com/artist/77SW9BnxLY8rJ0RciFqkHh"
+        }
+      ],
+      "duration_ms": 200280,
+      "name": "Lovebomb",
+      "url": "https://open.spotify.com/track/6SOJwznM9EuhsspI20Xk0Z"
+    },
+    {
+      "added_at": "2026-09-18 10:54:57",
+      "album": {
+        "name": "Eyes Open",
+        "url": "https://open.spotify.com/album/3k7bXPw2u0C0SBKPMsgMS3"
+      },
+      "artists": [
+        {
+          "name": "Snow Patrol",
+          "url": "https://open.spotify.com/artist/3rIZMv9rysU7JkLzEaC5Jp"
+        }
+      ],
+      "duration_ms": 267960,
+      "name": "Chasing Cars",
+      "url": "https://open.spotify.com/track/5hnyJvgoWiQUYZttV4wXy6"
+    },
+    {
+      "added_at": "2026-09-18 11:01:34",
+      "album": {
+        "name": "Fisherman's Blues",
+        "url": "https://open.spotify.com/album/0lIGBQj12ehBETiO01zUZx"
+      },
+      "artists": [
+        {
+          "name": "The Waterboys",
+          "url": "https://open.spotify.com/artist/5TnuP42pw475UrjjeabtwZ"
+        }
+      ],
+      "duration_ms": 421933,
+      "name": "We Will Not Be Lovers - 2006 Remaster",
+      "url": "https://open.spotify.com/track/5HcSxmtgf66je7TNKO1rR9"
+    },
+    {
+      "added_at": "2026-09-19 02:01:46",
+      "album": {
+        "name": "The Smiths",
+        "url": "https://open.spotify.com/album/6cI1XoZsOhkyrCwtuI70CN"
+      },
+      "artists": [
+        {
+          "name": "The Smiths",
+          "url": "https://open.spotify.com/artist/3yY2gUcIsjMr8hjo51PoJ8"
+        }
+      ],
+      "duration_ms": 223253,
+      "name": "Pretty Girls Make Graves - 2011 Remaster",
+      "url": "https://open.spotify.com/track/3wUMcPzXcmaeW8QxTdyXQO"
+    },
+    {
+      "added_at": "2026-09-19 02:24:15",
+      "album": {
+        "name": "SATURATION",
+        "url": "https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "STAR",
+      "url": "https://open.spotify.com/track/1xfFPJdRjgDAaMcDgbXwyh"
+    },
+    {
+      "added_at": "2026-09-19 02:24:29",
+      "album": {
+        "name": "SATURATION",
+        "url": "https://open.spotify.com/album/67smHJOf5YlFwad6dAlppm"
+      },
+      "artists": [
+        {
+          "name": "BROCKHAMPTON",
+          "url": "https://open.spotify.com/artist/1Bl6wpkWCQ4KVgnASpvzzA"
+        }
+      ],
+      "duration_ms": 278125,
+      "name": "BOYS",
+      "url": "https://open.spotify.com/track/1H3GqbebLfBjqY8rW9oVyq"
     }
   ],
   "unique_name": "\ud806\udcf2\ud835\udcf3",

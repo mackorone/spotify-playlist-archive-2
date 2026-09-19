@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 
 > Heavy beats for midnight drifting in Tokyo.
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,685 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,688 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -50,8 +50,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 40 | [RAKURAI](https://open.spotify.com/track/1w062ZFlKViaWMFkbxJRF3) | [ACE COOL](https://open.spotify.com/artist/10a2cJsUTQchTROyBwH14G) | [GUNJO](https://open.spotify.com/album/4B1SD47qfhR8pDJIPd97V6) | 2:44 |
 | 41 | [Hot Rodder](https://open.spotify.com/track/31vWGyuri51ShwvgZ801WD) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [Oddy lozy](https://open.spotify.com/artist/3SKBpwpCn3P3xCPxVhw3eb) | [Hot Rodder](https://open.spotify.com/album/4SiEuOz8dE9Padpu7Woq85) | 2:57 |
 | 42 | [BRAND NEW](https://open.spotify.com/track/1d4bUyO0JCNvuwaycbYUG8) | [₩](https://open.spotify.com/artist/5QkamTXwLqr5Ja8RCiu3XF), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [YamieZimmer](https://open.spotify.com/artist/7aqyXIegZ72uUh7d1AXR3z) | [BRAND NEW](https://open.spotify.com/album/5JYgaLjiX0ozaQctcGsf5A) | 2:50 |
-| 43 | [My Fan](https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:45 |
-| 44 | [For Real \(feat\. Fuji Taito & SIMON\)](https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8) | 3:17 |
+| 43 | [For Real \(feat\. Fuji Taito & SIMON\)](https://open.spotify.com/track/2zxHqRUVGPbngtOWdzwqSE) | [T\-STONE](https://open.spotify.com/artist/0xINjQE0NF8VH20g1CKg9D), [Fuji Taito](https://open.spotify.com/artist/2OaVFBtZot8aFcdKYwE39f), [SIMON](https://open.spotify.com/artist/6CcuEcSETRxpybrEt14OSx) | [Type 1 Diabetes](https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8) | 3:17 |
+| 44 | [My Fan](https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX) | [Litty](https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0), [310babii](https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p) | [Get Litty?](https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g) | 2:45 |
 | 45 | [Don't](https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM) | [MFS](https://open.spotify.com/artist/09JmqY14D3mV8CglLRQLWd) | [Don't](https://open.spotify.com/album/7AIF17humOKTJLYA3g7x0h) | 3:02 |
 | 46 | [TOKYO 卍 REVENGERS \(feat\. GNB AAlucarD & HAKU FiFTY\)](https://open.spotify.com/track/2aSDjN9urt9z3og8yCnhKC) | [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8), [GNB AAlucarD](https://open.spotify.com/artist/1xfVkn8HjymKn0leFMPWxK), [HAKU FiFTY](https://open.spotify.com/artist/6fJgIprinfVAfMtLuF1OX8) | [TOKYO 卍 REVENGERS \(feat\. GNB AAlucarD & HAKU FiFTY\)](https://open.spotify.com/album/4EMt8yLn821Oo8l0SwBvkl) | 2:33 |
 | 47 | [Sightseeing](https://open.spotify.com/track/5oSs5VhEdfF51dclcnxxq7) | [Ralph](https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0) | [Sightseeing](https://open.spotify.com/album/1wd7y9qh1gjk2S0yHZ0oBt) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYfVJ5emu90I.md) - [plain]
 | 49 | [Very Very Rare](https://open.spotify.com/track/6bJZtj9x7G9VNVB2VslkQJ) | [Kohjiya](https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK), [lj](https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez) | [New Stars Swag](https://open.spotify.com/album/78MusSj7gCs8daCm2CRfS1) | 3:16 |
 | 50 | [Rainy Day](https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM) | [D3adStock](https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd) | [Rainy Day](https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9) | 1:50 |
 
-Snapshot ID: `AAAAALU2vOu+SHAv2EqRnSzPtJrOn5VE`
+Snapshot ID: `AAAAAL8FaHc3c+HtPLA9IUlQM6LLtDNp`

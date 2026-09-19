@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 
 > Music that's hard to define, but easy to love\. Cover: Wasia Project
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,147 likes - 75 songs - 4 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,109 likes - 75 songs - 4 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5WTH49Vcnqp.md) - [plain]
 | 74 | [Joe Drives Again](https://open.spotify.com/track/6ePnlprG50uQkYp5GTzVdY) | [Car Seat Headrest](https://open.spotify.com/artist/5PbpKlxQE0Ktl5lcNABoFf) | [Teen of Denial: Joe’s Story](https://open.spotify.com/album/4lIrDPBBYbYiYWM4qExb1T) | 4:06 |
 | 75 | [Gohan](https://open.spotify.com/track/0vldtnMOCaS8t7DjrJ6Kdc) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Nothing Grows Here](https://open.spotify.com/album/591ZKpCHUHUup3sDhzdrDn) | 3:01 |
 
-Snapshot ID: `AAAAABHqZEPMNfg4Gb0ue2ziU8k2kjkL`
+Snapshot ID: `AAAAAP68RafWFfZFpZISugNkslZMpL6j`

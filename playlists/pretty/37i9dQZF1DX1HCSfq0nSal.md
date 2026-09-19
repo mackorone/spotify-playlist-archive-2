@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 
 > Si está pegao, está aquí\. Feat\. Omar Courtz, Clarent
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,488,617 likes - 40 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,488,616 likes - 40 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1HCSfq0nSal.md) - [plain]
 | 39 | [666](https://open.spotify.com/track/5DSlJ0cO7WlcJcSK82yn20) | [Yan Block](https://open.spotify.com/artist/6TKygPpVT29oGUogu4J9Ec), [Cris MJ](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE), [Panda Black](https://open.spotify.com/artist/1QcutbFtA6u8A2ZFTZuLSL) | [666](https://open.spotify.com/album/4P89Sy36vHWynHr8PPc4LL) | 2:20 |
 | 40 | [TU DÚO FAVORITO](https://open.spotify.com/track/2PgzfI3gOPNZqC2hzI2KnK) | [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk), [SAIKO](https://open.spotify.com/artist/2O8vbr4RYPpk6MRA4fio7u) | [EL VENDEDOR DE ROSAS](https://open.spotify.com/album/0BfyrvKdq69jR1HuHEn6cR) | 2:51 |
 
-Snapshot ID: `AAAAAM7aguv82mCVeRlVtqnjtjGmG4uR`
+Snapshot ID: `AAAAAOpRXc49ULEl+pb9spdcWcidAotk`

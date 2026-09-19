@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dtnl6.md) - [plain]
 
 > This is Gregory Alan Isakov\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 83,421 likes - 38 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 83,454 likes - 38 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Sweet Heat Lightning](https://open.spotify.com/track/7gSZkeBr9Koc9Rfm3pp769) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM) | 4:46 |
-| 2 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 |
-| 3 | [San Luis](https://open.spotify.com/track/0mnWNvwXRNu82bpfi2rsuz) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 4:32 |
+| 2 | [San Luis](https://open.spotify.com/track/0mnWNvwXRNu82bpfi2rsuz) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 4:32 |
+| 3 | [Big Black Car](https://open.spotify.com/track/3Kj2EWpIBnvETsYq4cq0IH) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:37 |
 | 4 | [Amsterdam](https://open.spotify.com/track/7iQmjnDXYngWGsbjVnDc1U) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:18 |
 | 5 | [The Stable Song](https://open.spotify.com/track/3G9ETaH55bMQx8hwNhAgbU) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 6:00 |
 | 6 | [Before the Sun](https://open.spotify.com/track/78HuLtyQOVbjlCBdScBnNq) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM) | 2:48 |
@@ -24,13 +24,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dtnl6.md) - [plain]
 | 14 | [That Moon Song](https://open.spotify.com/track/3lw0CSMQ88LcN0ZMP6DlWi) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:34 |
 | 15 | [The Fall](https://open.spotify.com/track/4a6XLiY6PQmsUufWTDgrXc) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM) | 3:27 |
 | 16 | [Suitcase Full of Sparks](https://open.spotify.com/track/6qfg00bGlM1dQJwq08lZGi) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:56 |
-| 17 | [Coyote \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/795nt0TKDtjIe0o0f1eMx5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:12 |
+| 17 | [Chemicals](https://open.spotify.com/track/0YcQucJYUkh2BHIQMI7CmE) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 3:19 |
 | 18 | [Dandelion Wine](https://open.spotify.com/track/5AeoHJUx0PJXAzN425xryh) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 3:04 |
-| 19 | [Chemicals](https://open.spotify.com/track/0YcQucJYUkh2BHIQMI7CmE) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 3:19 |
+| 19 | [Coyote \(feat\. Gregory Alan Isakov\)](https://open.spotify.com/track/795nt0TKDtjIe0o0f1eMx5) | [Kacey Musgraves](https://open.spotify.com/artist/70kkdajctXSbqSMJbQO424), [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Middle of Nowhere](https://open.spotify.com/album/1quFS6EneVBW7PTbipPlNg) | 3:12 |
 | 20 | [Salt And The Sea](https://open.spotify.com/track/6n2aRBhuQX54nQChcYYLmT) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Salt And The Sea](https://open.spotify.com/album/1ksJBCHOs130iPjAPz7yTz) | 4:22 |
-| 21 | [Fade Into You](https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Fade Into You](https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV) | 4:29 |
+| 21 | [Southern Star](https://open.spotify.com/track/3mKVJRnHIK6y97At1clkMI) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 2:19 |
 | 22 | [Words](https://open.spotify.com/track/01Dc5vTMc9axpkvDUy0yiD) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 4:01 |
-| 23 | [Southern Star](https://open.spotify.com/track/3mKVJRnHIK6y97At1clkMI) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Evening Machines](https://open.spotify.com/album/5crQRFrJqnyEIT8c4JnP6j) | 2:19 |
+| 23 | [Fade Into You](https://open.spotify.com/track/37kGpZDrqQekpIQswHYHw6) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt), [Sylvan Esso](https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv) | [Fade Into You](https://open.spotify.com/album/1hBXcVtSiaYkflIiqjQfAV) | 4:29 |
 | 24 | [All Shades of Blue](https://open.spotify.com/track/1xhgkhzFBEg7n1SrUgmSmU) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [The Weatherman](https://open.spotify.com/album/3IcfYXw7lTtLfG5XWLlSZi) | 3:33 |
 | 25 | [Appaloosa Bones](https://open.spotify.com/track/5oWey6pj5PX80AFVuNWBrS) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [Appaloosa Bones](https://open.spotify.com/album/73VuXbDamMLEdq8Yzd79dM) | 3:59 |
 | 26 | [Virginia May](https://open.spotify.com/track/435XaJ1Mqo5Pd7AwRE7nrF) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [This Empty Northern Hemisphere](https://open.spotify.com/album/06UoTVgpPiGnRPGjowrG3g) | 2:58 |
@@ -47,4 +47,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3dtnl6.md) - [plain]
 | 37 | [All There Is](https://open.spotify.com/track/6hN8XWJEnsCSBZJ4v8Ckdq) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 2:22 |
 | 38 | [Black & Blue](https://open.spotify.com/track/76r1FmtRgDKkiZ6Uru459R) | [Gregory Alan Isakov](https://open.spotify.com/artist/5sXaGoRLSpd7VeyZrLkKwt) | [That Sea, The Gambler](https://open.spotify.com/album/7ecZGh7SICLEkqqkBNXfvE) | 3:48 |
 
-Snapshot ID: `aqncAAAAAAC+tgzEFLyONu2iMfN+ZiMz`
+Snapshot ID: `aqstgAAAAADrfx4PW7VElFnHGNXmf91R`

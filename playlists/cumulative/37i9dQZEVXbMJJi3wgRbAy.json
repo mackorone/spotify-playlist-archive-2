@@ -1197,6 +1197,24 @@
     },
     {
       "album": {
+        "name": "Primera Clase",
+        "url": "https://open.spotify.com/album/4y6zoCBNhCAxB1QUAxXfqL"
+      },
+      "artists": [
+        {
+          "name": "LA NUEVA ESCUELA",
+          "url": "https://open.spotify.com/artist/5TeBsszZQTyqBX4eDHdtNx"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170411,
+      "name": "After",
+      "url": "https://open.spotify.com/track/1lT6k1KNFqeYeWHNgl4VHI"
+    },
+    {
+      "album": {
         "name": "5202",
         "url": "https://open.spotify.com/album/7GK7b47WfktjsrNmjvua00"
       },
@@ -4804,7 +4822,7 @@
       ],
       "date_added": "2025-06-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-03",
+      "date_removed": null,
       "duration_ms": 125906,
       "name": "Carita Triste",
       "url": "https://open.spotify.com/track/7cncPk3pgG1lNTUIiKxGev"
@@ -9036,7 +9054,7 @@
       ],
       "date_added": "2026-07-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 235626,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/614NVFo5csQqRnryl4jXs2"
@@ -9058,7 +9076,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-05",
+      "date_removed": null,
       "duration_ms": 239293,
       "name": "El Tel\u00e9fono",
       "url": "https://open.spotify.com/track/1sbiqeh3fCNwebhohDRXAp"
@@ -14846,7 +14864,7 @@
       ],
       "date_added": "2025-10-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 153000,
       "name": "Loco Enamorado I Variet\u00e9 #4",
       "url": "https://open.spotify.com/track/0UaxhDrvCVcCWCqYQUeeFF"
@@ -20052,7 +20070,7 @@
       ],
       "date_added": "2026-01-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 256555,
       "name": "Pasos Al Costado",
       "url": "https://open.spotify.com/track/7upAH0ezzsThyvr33YKn4u"
@@ -29815,6 +29833,24 @@
     },
     {
       "album": {
+        "name": "Volver a Vernos",
+        "url": "https://open.spotify.com/album/6LLbNMHSiWdZxFSUEkayGn"
+      },
+      "artists": [
+        {
+          "name": "Mat\u00edas Valdez",
+          "url": "https://open.spotify.com/artist/6SGCqG5HEr5gFZR9ct8wID"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171957,
+      "name": "Volver a Vernos",
+      "url": "https://open.spotify.com/track/6FzRjE65s7jGPVnLbx5FSr"
+    },
+    {
+      "album": {
         "name": "Volver\u00e1s",
         "url": "https://open.spotify.com/album/4zDvQLv32xqntajlKKkdj9"
       },
@@ -31016,7 +31052,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 375381,
       "name": "YOGURCITO REMIX (feat. Kris R., ROA)",
       "url": "https://open.spotify.com/track/3jqk4fue7CILssCv8UpJe0"

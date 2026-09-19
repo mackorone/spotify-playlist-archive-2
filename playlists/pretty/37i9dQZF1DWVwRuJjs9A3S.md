@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Tove Styrke
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,603 likes - 201 songs - 11 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,604 likes - 201 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,7 +19,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 9 | [Bubble Treasure](https://open.spotify.com/track/3rSIlr1dFubbFvuFs8HqMo) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Bubble Treasure](https://open.spotify.com/album/2Np10xTQlbyO23QDEMaZzk) | 2:35 |
 | 10 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
 | 11 | [florence!](https://open.spotify.com/track/7jFWU55jgxeRBTsBwJ6ceR) | [Venus Anon](https://open.spotify.com/artist/7ku2IztgbUo8QcB87vKqRg) | [florence!](https://open.spotify.com/album/5Zi7euiLw3Crixy2VTX8jl) | 2:45 |
-| 12 | [Track 7](https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [It's Only Heaven](https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ) | 0:00 |
+| 12 | [A Time A Place](https://open.spotify.com/track/1azZ3646tSl9yfkksD4GgI) | [Morabeza Tobacco](https://open.spotify.com/artist/0zce27eTR25aKpjQ7CvOA7) | [It's Only Heaven](https://open.spotify.com/album/6hTovvj1wgOpcY6fZlobeQ) | 2:38 |
 | 13 | [The Kid With the Crown](https://open.spotify.com/track/6kBDO64MhuMjmEOAaqXeLA) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [The Kid With the Crown](https://open.spotify.com/album/39y5OKR1BBjPzqSvkcYBpa) | 4:14 |
 | 14 | [twenty seven](https://open.spotify.com/track/4ruvhx0R0gfFPRLtb19TEV) | [de clair.](https://open.spotify.com/artist/0XcoKb34hnRUc4u9agLp6o), [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1) | [twenty seven](https://open.spotify.com/album/69t0cZjRTfycxXH5FwnpZG) | 4:03 |
 | 15 | [I Can’t Wait](https://open.spotify.com/track/5s50vIGQHK8FG8LfSdHC5q) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Weekend](https://open.spotify.com/album/2NSzwyYvQvdOQAoEjrlw9c) | 3:37 |
@@ -210,4 +210,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 | 200 | [Joke About Divorce](https://open.spotify.com/track/4TNo1JuR3EsmGIhyCtjweO) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Joke About Divorce](https://open.spotify.com/album/35gxqXq1tL2Qw8Y7jp8NVl) | 4:15 |
 | 201 | [Händer](https://open.spotify.com/track/4YqxiA5nPFNevQQ72Y5D9d) | [Valter Nilsson](https://open.spotify.com/artist/2MFXMIAlMW2pAyybxRNMln) | [Högsbo Riviera](https://open.spotify.com/album/2aBTX786uODU6398tiT9F9) | 4:25 |
 
-Snapshot ID: `AAAAAAyCoKaftJVMrUPDtuFNua3ifL3j`
+Snapshot ID: `AAAAAHQ9JOkBYxkJs4mXCRmiKEdgPNyi`

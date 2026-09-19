@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 
 > Tämän hetken kovimmat suomihitit.
 
-[Spotify](https://open.spotify.com/user/spotify) - 131,836 likes - 99 songs - 4 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 131,825 likes - 99 songs - 4 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUvzPS8uIABd.md) - [plain]
 | 98 | [Adam & Steve](https://open.spotify.com/track/7m8pM10w9qD5y3JoPeNNeB) | [Erika Vikman](https://open.spotify.com/artist/6JVB6uiYxpF2K1PGsPRpWR) | [Adam & Steve](https://open.spotify.com/album/4fZRW3osgW79uGrmvifqeA) | 2:50 |
 | 99 | [Pokaali](https://open.spotify.com/track/2OYNF3qYJmr2LBLTvPCCvR) | [Pihlaja](https://open.spotify.com/artist/5XOFNBUv0d2HrBVyTcWCKi) | [Pokaali](https://open.spotify.com/album/2jGLJVeqQ46IhSvb3Ilw40) | 3:07 |
 
-Snapshot ID: `AAAAACszSq1ZLfLNcD+Z22fldaxnKjTE`
+Snapshot ID: `AAAAAEQZMwdPSoXtQZWUYj2+vfiugQ7l`

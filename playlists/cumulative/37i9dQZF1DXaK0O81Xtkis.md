@@ -2,9 +2,9 @@
 
 ### [soda](https://open.spotify.com/playlist/37i9dQZF1DXaK0O81Xtkis)
 
-> a little indie, a little pop, soda featuring Jack Gray
+> a little indie, a little pop, soda featuring Henry Morris
 
-1,669 songs - 3 day 11 hr 24 min
+1,674 songs - 3 day 11 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,6 +112,7 @@
 | [Attention](https://open.spotify.com/track/3BUdokVE5IgrAmwCz5D3et) | [Kevian Kraemer](https://open.spotify.com/artist/4YuuDwJsOgciB2sYUvmo4a) | [Seventeen](https://open.spotify.com/album/5hJM5UqLfZlZjgvDdO8d0i) | 2:41 | 2024-03-29 | 2024-06-01 |
 | [auburn](https://open.spotify.com/track/5qrQjoSDDIfxmjARLMPPyE) | [livingthing](https://open.spotify.com/artist/4DSxrJMbWwzezTooMm0ZTt) | [auburn](https://open.spotify.com/album/5LNGGpT0RdYuTK7GU41oqn) | 3:29 | 2026-03-16 | 2026-05-30 |
 | [Australia](https://open.spotify.com/track/0qiHOHIkb4UEoxpKq6WhVZ) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [DRUMMER](https://open.spotify.com/album/09YYQq1yP55sRzmWosI10f) | 3:49 | 2023-09-22 | 2023-11-25 |
+| [Average Joe](https://open.spotify.com/track/7rC6j8fRo2Sov5GX099XVv) | [Moody Joody](https://open.spotify.com/artist/0ndpuECxVStTsHhzq4Euxz) | [Average Joe](https://open.spotify.com/album/5kf0iKNBmGaXsjOp7QTaBU) | 3:12 | 2026-09-18 |  |
 | [B.I.L.L.S.](https://open.spotify.com/track/7xISBLSpkANttnZx8krkq6) | [Towa Bird](https://open.spotify.com/artist/1Yq3rS7K1SQKqjMOHXpqqt) | [B.I.L.L.S.](https://open.spotify.com/album/5xAgSGlXlXM31KGUe5g4I5) | 2:14 | 2024-02-23 | 2024-03-30 |
 | [Baby Benzing](https://open.spotify.com/track/422nNdTyp1em6ZsctFoc2B) | [Eli Smart](https://open.spotify.com/artist/20ZPpiSCh8TSt6Vq07zrcb) | [Aloha Soul 1](https://open.spotify.com/album/5sBtr4v8F3m4P1c06LAEc6) | 2:40 | 2023-01-20 | 2023-03-25 |
 | [Baby Blue](https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls) | [Cody Simpson](https://open.spotify.com/artist/79Xp2rRN7wdsaTJgttdX3K) | [Baby Blue / When It Comes To Loving You](https://open.spotify.com/album/4d0QJmAw0Yjs6soAwmVyHm) | 2:51 | 2026-03-27 | 2026-06-27 |
@@ -151,6 +152,7 @@
 | [Best Imposter](https://open.spotify.com/track/4P1jAyChjeXdPbj5BDw6fI) | [Hey Violet](https://open.spotify.com/artist/4JNfz6aO9ZFz0gp5GY88am) | [Best Imposter](https://open.spotify.com/album/4t1mS6c0iepFdit4iRM2Tp) | 3:07 | 2024-04-19 | 2024-05-11 |
 | [Better Off](https://open.spotify.com/track/3H4fIfIbtXv0DKCLgl5cgI) | [Peach Luffe](https://open.spotify.com/artist/6KvuacOcxH22xWgQTAwxui) | [Better Off](https://open.spotify.com/album/57fPsISPRRdVmc57pYWY96) | 2:52 | 2024-11-08 | 2025-01-25 |
 | [Better Off](https://open.spotify.com/track/2iCsXjpsS5aqMMQHGzmjpl) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [Better Off](https://open.spotify.com/album/0Hy3la1RSQycsZSQdjlrDS) | 2:24 | 2025-01-31 | 2025-04-12 |
+| [Better Than Me](https://open.spotify.com/track/0pnZM8ZxMwssPMcHT6H1XG) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [Better Than Me](https://open.spotify.com/album/2PvMXEMt84EKlIA1RMmLFz) | 2:55 | 2026-09-18 |  |
 | [Better Than Real Life](https://open.spotify.com/track/2M6cDSP1uMGkSQsl9KqRPw) | [courtship.](https://open.spotify.com/artist/2OK16hAFRHoJiFZKeZe8A8) | [Better Than Real Life](https://open.spotify.com/album/2l8ZSXbZTA2x6rnlkhcCng) | 2:13 | 2022-06-03 | 2022-07-02 |
 | [Betty](https://open.spotify.com/track/2kb638zLMKUHOx4rhd4ttD) | [AJR](https://open.spotify.com/artist/6s22t5Y3prQHyaHWUN1R1C) | [Betty](https://open.spotify.com/album/1WbPmLKZwkfrT1tPfTFNku) | 2:43 | 2025-07-11 | 2025-09-21 |
 | [Big City Thing](https://open.spotify.com/track/3OOAv73AZwwCnAW7VGHbZd) | [The Scarlet Opera](https://open.spotify.com/artist/331esE1oEqzbQQGZPJ4Yix) | [Big City Thing](https://open.spotify.com/album/4qhwIb8uXcg7M7Dz7Kn0Rn) | 3:23 | 2023-01-20 | 2023-03-25 |
@@ -332,6 +334,7 @@
 | [Crash](https://open.spotify.com/track/5cdJiIDHw2FwVblQYT7fN0) | [Faime](https://open.spotify.com/artist/6bNCZ9mUA7Qpg8Vu6WGox4) | [Crash](https://open.spotify.com/album/5MYFBgOf8RoVql9hXoVHfa) | 2:38 | 2022-07-22 | 2022-08-27 |
 | [Crash Test Dummy](https://open.spotify.com/track/4yLQiDZk5bd51r99U1HRcX) | [Allison Ponthier](https://open.spotify.com/artist/37zdNthUsPowEeNJDeCCYx) | [Breaking the Fourth Wall](https://open.spotify.com/album/2aE5o9vthBfZ7wsqNk7mxR) | 3:49 | 2024-05-03 | 2024-07-19 |
 | [crashing down](https://open.spotify.com/track/120gZpbcyjQZ7KNKJxZXnx) | [Arlie](https://open.spotify.com/artist/6Bllzm0olEwqGwPujaLiuA) | [crashing down](https://open.spotify.com/album/4JHJFHkQfDDimJ8TJamEXf) | 2:19 | 2021-12-17 | 2022-02-26 |
+| [Crawling Back To You](https://open.spotify.com/track/2E55dUwvxdSkrqhgLgL6SC) | [Henry Morris](https://open.spotify.com/artist/1SgGcKiYCO55coa8sdiamq) | [Crawling Back To You](https://open.spotify.com/album/6tWyemLPfJD9PBsv6xJsnE) | 2:55 | 2026-09-18 |  |
 | [Creatures in Heaven](https://open.spotify.com/track/1e7EdcxkUPFZWfuY4VI3rh) | [Glass Animals](https://open.spotify.com/artist/4yvcSjfu4PC0CYQyLy4wSq) | [Creatures In Heaven](https://open.spotify.com/album/6l3Qxnvv49CGolilrSvsd3) | 3:41 | 2024-04-05 | 2024-07-06 |
 | [Cross Bridges](https://open.spotify.com/track/1lPZNd1xq4kSClrag6Q8Nx) | [june](https://open.spotify.com/artist/4HPbe1kKBultculBbxH66X) | [Cross Bridges](https://open.spotify.com/album/5hgKC38tzWh22EV98HN3Nc) | 2:57 | 2024-01-26 | 2024-02-17 |
 | [Cross Your Mind](https://open.spotify.com/track/5E4dFNH0sBnSnIybnKui0S) | [DOUBLECAMP](https://open.spotify.com/artist/6IvIbSOsPLkPS4N1MO4Fdy) | [Cross Your Mind](https://open.spotify.com/album/2T6k6o12ud6iyjYNNhOSPz) | 2:34 | 2024-07-05 | 2024-08-17 |
@@ -473,6 +476,7 @@
 | [EVERYTHING IS QUIET](https://open.spotify.com/track/3lGQcPU2upIFPRSPbFP6zU) | [Braden Bales](https://open.spotify.com/artist/3Ru5n2T3JIrjnSZhf2rinv) | [EVERYTHING IS QUIET](https://open.spotify.com/album/12IcWhbAubyOHnXlowiGGc) | 2:53 | 2024-05-24 | 2024-07-16 |
 | [Everything We Used To Do](https://open.spotify.com/track/0jLBXHKeU5VXYIvHIwOjcQ) | [Post Sex Nachos](https://open.spotify.com/artist/3BRSFkEbxBXsZASWPOMOuP) | [Booster Pack](https://open.spotify.com/album/6jUcgtpKSSAaltoe8wBkVM) | 3:35 | 2025-12-19 | 2026-03-07 |
 | [EVERYTHING YOU WANTED](https://open.spotify.com/track/2gvdqsxVtVayLEclQIFDRk) | [KAIRO](https://open.spotify.com/artist/74fcIBekHLf4hucCT3My0v) | [EVERYTHING YOU WANTED\*ALL I EVER WANTED](https://open.spotify.com/album/5sP9gedfCsXH9VvjbzHbYh) | 2:52 | 2024-11-08 | 2024-11-16 |
+| [Everything's the same](https://open.spotify.com/track/0JR7Pjg8QzNbZ4b4FEYxtX) | [MICO](https://open.spotify.com/artist/0wajW5BBnk40YAhJdTkrrG) | [Everything's the same](https://open.spotify.com/album/0c3fqqv3MGSb0vN8ckYHp0) | 2:52 | 2026-09-18 |  |
 | [Expiration Date](https://open.spotify.com/track/4gSeTIoKhkvGoebMtohlNC) | [NERIAH](https://open.spotify.com/artist/1dUrqVHcv2FCXxlIqzIbiG) | [Expiration Date](https://open.spotify.com/album/0qQxB4grsHTtUYCYlpUCFp) | 3:18 | 2022-09-16 | 2023-02-11 |
 | [Eyes On You](https://open.spotify.com/track/6qItx3M2IZbXBKRnptbnHM) | [Nicky Youre](https://open.spotify.com/artist/7qmpXeNz2ojlMl2EEfkeLs) | [Eyes On You](https://open.spotify.com/album/2vwW8EzZGZaAFfZ2HYL1hE) | 2:57 | 2022-11-18 | 2023-03-25 |
 | [f\*\*k it, i'm the man](https://open.spotify.com/track/3Jq0vjC96tJlUVAdKfMajk) | [SEB](https://open.spotify.com/artist/7oPxPZSk7y5q0fhzpmX5Gi) | [f\*\*k it, i'm the man](https://open.spotify.com/album/3lT6pYJ3y8YcpMKGHQjdsj) | 2:30 | 2022-02-18 | 2022-04-16 |
@@ -691,6 +695,7 @@
 | [How To Live](https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [How To Live](https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH) | 4:00 | 2025-08-01 | 2025-11-26 |
 | [how well do you know your feelings?](https://open.spotify.com/track/7JltgRakwAMnHkyNs9U6bz) | [Alice Merton](https://open.spotify.com/artist/7f0OLhGgBMX9fUjm1dcPip) | [Heron](https://open.spotify.com/album/75FDoESZuozw9thPEuevA0) | 2:59 | 2024-04-12 | 2024-06-01 |
 | [Hug Yourself](https://open.spotify.com/track/0wxptU4oakoC1OfPWcqgDc) | [KAMRAD](https://open.spotify.com/artist/6zcWVbyNT0z94MBffsTJGP) | [trying not to panic](https://open.spotify.com/album/1bwJUNxQpND3xqgvUzWNz4) | 2:54 | 2026-01-23 | 2026-04-04 |
+| [human nature](https://open.spotify.com/track/1yTBVn8vCTDps5lh1VjgrR) | [Thomas Day](https://open.spotify.com/artist/5TwUXL3I6RaLckHy8le2Hq) | [human nature](https://open.spotify.com/album/0WEiLAjjiwYpCdGSR3cAsR) | 2:29 | 2026-09-18 |  |
 | [Hummingbird](https://open.spotify.com/track/6DXCdk7JVkB7PsjmhRkJEe) | [Colony House](https://open.spotify.com/artist/6R664N4cEza3eORSqKSgO4) | [Hummingbird](https://open.spotify.com/album/0LoVo5gwblY0FCEnsbLXzb) | 3:30 | 2026-01-16 | 2026-03-21 |
 | [Hurricane](https://open.spotify.com/track/6fMZJZqhauwGrwobkPZVJ7) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Hurricane](https://open.spotify.com/album/0nhR7pihu2lJDAvVfXqBcH) | 3:01 | 2022-03-04 | 2022-05-07 |
 | [Hurt My Feelings](https://open.spotify.com/track/5VuJUyQa6doN53RMjjNo65) | [Hastings](https://open.spotify.com/artist/0cMrisD7Y14WMODerxofNO) | [Hurt My Feelings](https://open.spotify.com/album/5FRAelEQwWoSJgZ6liCJzs) | 2:56 | 2022-06-10 | 2022-08-06 |

@@ -4,7 +4,7 @@
 
 > The best new electronic music\. Cover: Moonbootica
 
-7,608 songs - 25 day 13 hr 41 min
+7,608 songs - 25 day 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4259,6 +4259,7 @@
 | [Midnight Love](https://open.spotify.com/track/4E35AXJQeFfG2IZVReJ71G) | [Cody Currie](https://open.spotify.com/artist/0ymdoOsfzRbCoAMfJPpsEx) | [Midnight Love](https://open.spotify.com/album/0OynO6qSGuvZSr2puWRHKv) | 3:58 | 2026-05-07 | 2026-05-22 |
 | [Midnight Ride \(feat\. Robert Owens\) \- Edit](https://open.spotify.com/track/0jwxH5tgK1LNvFVR4ZVqjb) | [Alinka](https://open.spotify.com/artist/3qBqW8kIRZbPxbSgAyP7ls), [Robert Owens](https://open.spotify.com/artist/407nV5hO7mZap3UJdpTr4t) | [Midnight Ride](https://open.spotify.com/album/709wOwF53N1Z55OsZZJDAa) | 4:07 | 2022-04-14 | 2022-04-29 |
 | [Midnight Sky, Pt\. II](https://open.spotify.com/track/3q69fZ63R5n1bJ04DWId14) | [Petit Biscuit](https://open.spotify.com/artist/6gK1Uct5FEdaUWRWpU4Cl2) | [Movement](https://open.spotify.com/album/7qlKLenLUmKX3RvooLdg8G) | 2:58 | 2026-05-28 | 2026-06-12 |
+| [Miguel](https://open.spotify.com/track/2vqpDKEnWE3Q5rT3cHMUll) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Miguel EP](https://open.spotify.com/album/7GRY5QjDtmz4MPfcFZz9s9) | 3:29 | 2026-09-17 |  |
 | [Mike Kills Werner](https://open.spotify.com/track/5yhlfOeFHp7168Bn4pAmV5) | [Julian Wassermann](https://open.spotify.com/artist/6QXqARXg4hZ3oAUitm2gU0) | [Slippin Jimmy](https://open.spotify.com/album/51ambUlaATKokmKAoGdUpY) | 6:48 | 2022-10-13 | 2022-11-04 |
 | [Milkshake](https://open.spotify.com/track/0sa9eAhDFupUOAxtGuwQZn) | [Lexer](https://open.spotify.com/artist/2vDXLZ9mI3CdTPPIzFUKlY) | [Milkshake](https://open.spotify.com/album/4zSFzfRjEhNQv30O5en6rw) | 6:54 | 2023-04-20 | 2023-05-12 |
 | [Milkshake 20 \- Alex Wann Remix](https://open.spotify.com/track/39jBAaaSlgM9UdZBSKDd6F) | [Kelis](https://open.spotify.com/artist/0IF46mUS8NXjgHabxk2MCM), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [Milkshake 20 \(Alex Wann Remix\)](https://open.spotify.com/album/4B5VkayNwax1Z2ZDThsNt9) | 2:56 | 2023-09-15 | 2023-10-06 |
@@ -5499,6 +5500,7 @@
 | [Rigor](https://open.spotify.com/track/1eQbOWSsul9lHNs3celmLx) | [Trikk](https://open.spotify.com/artist/4wPR8PhvdOB0vksHMUWDZY) | [Rigor](https://open.spotify.com/album/1lI99eFZWdWi1PuAlp2OrY) | 4:23 | 2024-04-04 | 2024-04-26 |
 | [Ring Cycle \- Radio\-Edit](https://open.spotify.com/track/1CWc5WBQk2qGxxyWHmMBIj) | [Jil Tanner](https://open.spotify.com/artist/6S9C7LP9TXbeJhoV18RmEK), [VEENMOL](https://open.spotify.com/artist/6GRjb9Ki4EMI6WxeWbvBCa) | [Ring Cycle \(Radio\-Edit\)](https://open.spotify.com/album/1rwkCSImcFqi7K03Veex1p) | 5:10 | 2024-08-08 | 2024-08-30 |
 | [rio](https://open.spotify.com/track/6TnpH7XFHjhu5TQXlVs7SC) | [MXGPU](https://open.spotify.com/artist/7LHpDayfzUPdd5DGAJIrko), [Moullinex](https://open.spotify.com/artist/1XFbnj1jNNzzyg46ni3dnr), [GPU Panic](https://open.spotify.com/artist/1kClYC29n6M4YTALilSyY3) | [rio](https://open.spotify.com/album/2VIomeHBDQlFEwi6cey2rI) | 5:47 | 2026-06-11 | 2026-06-26 |
+| [RIO](https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Pele De Mar](https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6) | 5:50 | 2026-09-17 |  |
 | [Riot](https://open.spotify.com/track/5SP8e2d99MyqtVx9wPHgnR) | [Ellen Allien](https://open.spotify.com/artist/5lsC3H1vh9YSRQckyGv0Up) | [Riot](https://open.spotify.com/album/3zqvht3mWwHSc0sSY0JFpb) | 2:39 | 2026-06-05 | 2026-06-26 |
 | [Rise](https://open.spotify.com/track/5uQsfPXwSUa13nJECido8L) | [Martin Waslewski](https://open.spotify.com/artist/3qk4AowZhFKoYHocPk6l06) | [Rise](https://open.spotify.com/album/2v3uqhcAvNDZbFSQdtaMbV) | 5:11 | 2023-08-17 | 2023-09-01 |
 | [rise](https://open.spotify.com/track/6lPupLVOuRd3w31xqN8YxQ) | [Mura Masa](https://open.spotify.com/artist/5Q81rlcTFh3k6DQJXPdsot), [NADIAH](https://open.spotify.com/artist/1xMTtv502Ls5oN1xMEJele) | [rise / gimme](https://open.spotify.com/album/5Pft1X1BQUYtldphJ1QDNx) | 4:01 | 2023-10-12 | 2023-11-03 |
@@ -6850,8 +6852,6 @@
 | [TR Smooth](https://open.spotify.com/track/6NV9a8WK4MvuJZg6VSu2KD) | [Tiga](https://open.spotify.com/artist/5l9wiTZVfqQTfMDOt0HtwC), [Hudson Mohawke](https://open.spotify.com/artist/6olWbKW2VLhFCHfOi0iEDb) | [L'Ecstasy](https://open.spotify.com/album/5gHsDs3ofg8qejWBcIGtJv) | 3:42 | 2023-12-01 | 2023-12-15 |
 | [Traces](https://open.spotify.com/track/13wSFbVCKZEWteQbaGq6Se) | [Korolova](https://open.spotify.com/artist/0I6oCyQQ1Q50q97y9B9gAx), [Jonas Saalbach](https://open.spotify.com/artist/1bLLaWOLavY2Tthjoz19mA), [SBSTN](https://open.spotify.com/artist/1NC5UXrIWNEj6zQ46obvkq) | [Traces](https://open.spotify.com/album/3lQuVODMH0jhrC8X5zKlyY) | 4:39 | 2023-05-25 | 2023-06-16 |
 | [Tracid](https://open.spotify.com/track/3YTvtOAHQADgCvn2XVEzPp) | [Kai Tracid](https://open.spotify.com/artist/0frSMmZSEdr8pVRi8PBSwF) | [Tracid](https://open.spotify.com/album/6tC9bQAD7NgOFQPtK8cna2) | 6:55 | 2023-08-25 | 2023-09-15 |
-| [Track 1](https://open.spotify.com/track/2vqpDKEnWE3Q5rT3cHMUll) | [Bonafique](https://open.spotify.com/artist/4iYZQBR8znMgLUEM949803) | [Miguel EP](https://open.spotify.com/album/7GRY5QjDtmz4MPfcFZz9s9) | 0:00 | 2026-09-17 |  |
-| [Track 1](https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4) | [ØTTA](https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG) | [Pele De Mar](https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6) | 0:00 | 2026-09-17 |  |
 | [Track Your Steps](https://open.spotify.com/track/0uojm86o10peXMlThzQOZG) | [Alyssa & Gia](https://open.spotify.com/artist/5w3B8Yivj5m2bgDixId20g) | [Track Your Steps](https://open.spotify.com/album/4Eq9q4Ib6WClxr44or8fHQ) | 3:10 | 2024-08-29 | 2024-09-20 |
 | [Tradesman](https://open.spotify.com/track/6hPzftly26k15FIqmjHnSG) | [Ramsey Neville](https://open.spotify.com/artist/1Y8pFAVjIzar47RDW7dBew) | [The Polygon](https://open.spotify.com/album/4xDIihZGD1rDKOermEgwsU) | 6:16 | 2023-03-02 | 2023-03-25 |
 | [Traffik](https://open.spotify.com/track/4GqYKYWyOdr89O5loSz7wQ) | [UVITA](https://open.spotify.com/artist/4lAkDxZ9sgjZD3mDPRgM4B), [Twiins](https://open.spotify.com/artist/1TcSU2JWmiIxrJbii3m3E7), [Motip White](https://open.spotify.com/artist/15dJhuFBU2E0JB874wGanT) | [Traffik](https://open.spotify.com/album/1aez6AJVJ4sV6mNjGd961k) | 5:41 | 2026-01-29 | 2026-02-20 |

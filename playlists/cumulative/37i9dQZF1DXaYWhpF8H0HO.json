@@ -3181,28 +3181,6 @@
     },
     {
       "album": {
-        "name": "Jangan",
-        "url": "https://open.spotify.com/album/26LTDa5V2stOLtl1BCSbP9"
-      },
-      "artists": [
-        {
-          "name": "Soulfood",
-          "url": "https://open.spotify.com/artist/4pPPCYQD20lPFRNBH8f5Eo"
-        },
-        {
-          "name": "Jascha Ririhena",
-          "url": "https://open.spotify.com/artist/1k6MajoWOgLgeZQLFs40Li"
-        }
-      ],
-      "date_added": "2026-08-07",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 180000,
-      "name": "Don't",
-      "url": "https://open.spotify.com/track/42S9Rc1AolKbJK2TIWk0Ez"
-    },
-    {
-      "album": {
         "name": "White Couch In The House",
         "url": "https://open.spotify.com/album/3cTiczSilNcUyTHop73Kss"
       },
@@ -6704,6 +6682,28 @@
       "duration_ms": 232000,
       "name": "I\u2019LL BE YOUR PAIN",
       "url": "https://open.spotify.com/track/4muyJ5JfkGoc7CPjuYf8y1"
+    },
+    {
+      "album": {
+        "name": "Jangan",
+        "url": "https://open.spotify.com/album/26LTDa5V2stOLtl1BCSbP9"
+      },
+      "artists": [
+        {
+          "name": "Soulfood",
+          "url": "https://open.spotify.com/artist/4pPPCYQD20lPFRNBH8f5Eo"
+        },
+        {
+          "name": "Jascha Ririhena",
+          "url": "https://open.spotify.com/artist/1k6MajoWOgLgeZQLFs40Li"
+        }
+      ],
+      "date_added": "2026-08-07",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180000,
+      "name": "Jangan",
+      "url": "https://open.spotify.com/track/42S9Rc1AolKbJK2TIWk0Ez"
     },
     {
       "album": {

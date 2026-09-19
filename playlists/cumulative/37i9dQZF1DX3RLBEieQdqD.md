@@ -2,9 +2,9 @@
 
 ### [Ranchenato](https://open.spotify.com/playlist/37i9dQZF1DX3RLBEieQdqD)
 
-> ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Jessi Uribe, Eden Muñoz
+> ¡Popular, Mariachi, Vallenato y más pa' sentarse a beber! Foto: Joaquin Guiller
 
-256 songs - 14 hr 31 min
+258 songs - 14 hr 37 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -198,6 +198,7 @@
 | [Olvídala](https://open.spotify.com/track/7qi8GownCCQrzrTaweqIKD) | [Nico Hernández](https://open.spotify.com/artist/3aiVpKhE6bg52ZvxMDmlip), [Kristian Camilo](https://open.spotify.com/artist/29alevf05AZMzkRCRCqxvw) | [Por Siempre \(Deluxe\)](https://open.spotify.com/album/3kjDLcklVkTozCf4miWmRD) | 4:50 | 2022-10-14 | 2022-12-14 |
 | [Pa Qué Me Estas Llamando](https://open.spotify.com/track/7yieL1HfxV1fAtTTWLzTVB) | [Joaquin Guiller](https://open.spotify.com/artist/2AHbxv3jnfIDz6BmPn979c) | [Pa Qué Me Estas Llamando](https://open.spotify.com/album/14lrwg4Vmh0dtAQPtoYKz0) | 2:49 | 2024-08-16 | 2024-09-21 |
 | [Pa' los Gustos los Colores](https://open.spotify.com/track/2i1j9aCllzObqtQspBLTPg) | [Juancho De La Espriella](https://open.spotify.com/artist/2jyCUmtPh36YRwhuhxzUZ3), [Los de Juancho](https://open.spotify.com/artist/0siN6HqX23qhrmnGZZvJLi) | [Pa' los Gustos los Colores](https://open.spotify.com/album/4BcN3Bnt4jc6jWCKAPdgPO) | 3:11 | 2023-02-03 | 2023-10-21 |
+| [Pa' Que No Me Anden Contando \- Remix](https://open.spotify.com/track/5FjpV47OZnzaU85s0KToQS) | [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS), [Juan Pablo Marquez](https://open.spotify.com/artist/6vQ0XC3lBnVgYUzUzDv990), [Voz De Mando](https://open.spotify.com/artist/5sLCZx5RvQ1Cv6kguDLCLx) | [Pa' Que No Me Anden Contando \(Remix\)](https://open.spotify.com/album/08kLAE1CtYDg0EklM8LhwW) | 2:44 | 2026-09-18 |  |
 | [Parchaito](https://open.spotify.com/track/0zLwep7GCH62x7LUrOtyQT) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [The Stallionz](https://open.spotify.com/artist/4ukBKliKfm0Uxnws7yCr24) | [Descriterio](https://open.spotify.com/album/66Zehfpwnmx03XcjZmtm6p) | 2:23 | 2025-05-30 | 2026-02-21 |
 | [Pedazo De Carne](https://open.spotify.com/track/4hdRY3ZWM8EjRfPhT3qaS0) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Inolvidable](https://open.spotify.com/album/4ftGvsn2yNHdvBKhSTKuSq) | 2:51 | 2024-05-17 | 2024-07-27 |
 | [POR MI BIEN Y X TU BIEN](https://open.spotify.com/track/1ixIQXRPH0ZjrCcq13DIl1) | [Maisak](https://open.spotify.com/artist/6B1hSmaLdOvChinK2Z7gfi) | [POR MI BIEN Y X TU BIEN](https://open.spotify.com/album/72i69AiCrCe9e6PBh8zyoL) | 3:32 | 2025-06-06 | 2025-08-16 |
@@ -213,6 +214,7 @@
 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/4lc3SmNj0FBtPGygUfeGc4) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/0NTVddhlKzjxGdCAdWR80h) | 3:17 | 2022-08-18 | 2024-01-05 |
 | [Qué Mal Te Ves Sin Mí](https://open.spotify.com/track/1gthSsDhrDJ1MvAa8Vc71I) | [Espinoza Paz](https://open.spotify.com/artist/01rgao9OzfBm2BOHWJpi1Y) | [No Pongan Esas Canciones](https://open.spotify.com/album/1kXg9vlPq2LBFtgrO4pbEk) | 3:19 | 2023-12-08 | 2024-04-19 |
 | [REGALADA $ALES CARA \- Remix](https://open.spotify.com/track/1HVl85DZpMA6u3jyFPNlWN) | [Ciro Quiñonez](https://open.spotify.com/artist/5xaXYXef87CBDufNh0kHnK), [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Pipe Bueno](https://open.spotify.com/artist/4RXxwBtdt6k1YNyyAyiOng), [Jessi Uribe](https://open.spotify.com/artist/3SN7I8KV2qBwTCZ4aNDcbS) | [REGALADA $ALES CARA \(Remix\)](https://open.spotify.com/album/1p3k0cIW6rYOpcWSwCnEEy) | 4:13 | 2024-05-21 |  |
+| [Sabor a Tequila](https://open.spotify.com/track/2Yf4vYhuvTeoV2AaisltKc) | [Luis Alfonso](https://open.spotify.com/artist/0GchaVw5KfSVEm0xl0OXEe), [Xavi](https://open.spotify.com/artist/3Me35AWHCGqW4sZ7bWWJt1), [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Sabor a Tequila](https://open.spotify.com/album/1GVyTNO2C4Xd4qwBNe0iaX) | 3:22 | 2026-09-18 |  |
 | [Salud por Él](https://open.spotify.com/track/0RcDaioRDGeIXNzMGle1Jx) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Salud por Él](https://open.spotify.com/album/1GOljII4jHDsLbYmAkypyo) | 3:46 | 2024-03-29 |  |
 | [Salud Por Él](https://open.spotify.com/track/41Ix7ovR9I9fXcEy8hDcOj) | [Paola Jara](https://open.spotify.com/artist/6y4IOQcDIDg6I1OEKf2oJk) | [Prohibido, Salud Por Él Y Más Éxitos](https://open.spotify.com/album/73ibYU5GkSI4s9r7gLbtPb) | 3:46 | 2022-08-18 | 2024-04-19 |
 | [Se Me Olvidó](https://open.spotify.com/track/5Xitt5a5uLQ1QtYdFxmi9e) | [Christian Nodal](https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP) | [Se Me Olvidó](https://open.spotify.com/album/09WScwK7HlzuM0dXAdXaMy) | 2:39 | 2022-08-18 | 2025-05-31 |

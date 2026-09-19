@@ -251,6 +251,32 @@
     },
     {
       "album": {
+        "name": "3CORE",
+        "url": "https://open.spotify.com/album/3BOsf6qIqt5H8jJ2IQvNXo"
+      },
+      "artists": [
+        {
+          "name": "CRRDR",
+          "url": "https://open.spotify.com/artist/5K3Cj0EgqQKp4apSdW2D6I"
+        },
+        {
+          "name": "Freebot",
+          "url": "https://open.spotify.com/artist/1ID8wBJ6PWBtuuERZxavHd"
+        },
+        {
+          "name": "Jo\u00e3o L\u00e1grima de Ouro",
+          "url": "https://open.spotify.com/artist/5bmcpwBSIz0TdjLVafaaWJ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231724,
+      "name": "3CORE",
+      "url": "https://open.spotify.com/track/3rL8G2PhfWixppqcVDSvth"
+    },
+    {
+      "album": {
         "name": "4 A.M",
         "url": "https://open.spotify.com/album/6NiNKdrtmVL8esBrXOBQlN"
       },
@@ -3211,6 +3237,28 @@
     },
     {
       "album": {
+        "name": "Broken Jazz",
+        "url": "https://open.spotify.com/album/6hCzUwLQGD2Z6sxGEz8AYv"
+      },
+      "artists": [
+        {
+          "name": "Takuya Nakamura",
+          "url": "https://open.spotify.com/artist/2dsG3u5vUZSGpQGEsq1unH"
+        },
+        {
+          "name": "Tim Reaper",
+          "url": "https://open.spotify.com/artist/03KZUWKQujlCcgEdcrkvWd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 263740,
+      "name": "Broken Jazz",
+      "url": "https://open.spotify.com/track/0CWSzMoWIwmQCkMSnzvTzv"
+    },
+    {
+      "album": {
         "name": "Broody",
         "url": "https://open.spotify.com/album/6zbYMivXExIPJVsTcjo4yx"
       },
@@ -5398,7 +5446,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 185915,
       "name": "Deeper",
       "url": "https://open.spotify.com/track/3AMiyQcA4FFSzZEdFEYOK0"
@@ -5888,6 +5936,24 @@
       "duration_ms": 405076,
       "name": "Don't Stop The Fight",
       "url": "https://open.spotify.com/track/6QzcQLJoW7qYXzI0SeW6Ha"
+    },
+    {
+      "album": {
+        "name": "Don't Talk To Me While I'm Dancing",
+        "url": "https://open.spotify.com/album/7x7Np0ojc346DZfjqB5i04"
+      },
+      "artists": [
+        {
+          "name": "Associanu",
+          "url": "https://open.spotify.com/artist/17b9Hqjx88eMFbBawb6Z1U"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 372606,
+      "name": "Don't Talk To Me While I'm Dancing",
+      "url": "https://open.spotify.com/track/3Lq5jP5npSlguL6JnkFZW9"
     },
     {
       "album": {
@@ -8914,7 +8980,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 202000,
       "name": "Guestlist",
       "url": "https://open.spotify.com/track/2nyuc8Ic9LbpnZB7DDE40O"
@@ -10530,6 +10596,24 @@
       "duration_ms": 353060,
       "name": "In The Mood For Love",
       "url": "https://open.spotify.com/track/1SJUDmxkiTQgLg1JgBOc75"
+    },
+    {
+      "album": {
+        "name": "In-Ear-Mix",
+        "url": "https://open.spotify.com/album/6qepJbWesHbVR96u4TUJBC"
+      },
+      "artists": [
+        {
+          "name": "Ayce Bio",
+          "url": "https://open.spotify.com/artist/1JJZyzSriYDxn3vp8piOWI"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231428,
+      "name": "In-Ear-Mix",
+      "url": "https://open.spotify.com/track/6AazaZzUSUNF4udJncnAbF"
     },
     {
       "album": {
@@ -13964,7 +14048,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 339009,
       "name": "Odd Sympathy",
       "url": "https://open.spotify.com/track/525ZgRrCdTjiaCHRFO3q4x"
@@ -16575,6 +16659,24 @@
     },
     {
       "album": {
+        "name": "Pele De Mar",
+        "url": "https://open.spotify.com/album/10Ku0XMlzaVzJVitqlbob6"
+      },
+      "artists": [
+        {
+          "name": "\u00d8TTA",
+          "url": "https://open.spotify.com/artist/13Mv9xsTvpgUxCdth9MWnG"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 350913,
+      "name": "RIO",
+      "url": "https://open.spotify.com/track/4EOnj6LXgMc7COSjh0bJq4"
+    },
+    {
+      "album": {
         "name": "Road Rage",
         "url": "https://open.spotify.com/album/2Uv5EuiuAwmttoAlF7UW6m"
       },
@@ -16779,6 +16881,32 @@
     },
     {
       "album": {
+        "name": "Niche Flex EP",
+        "url": "https://open.spotify.com/album/7aCKzsRIGIlWfrMEyD2M2b"
+      },
+      "artists": [
+        {
+          "name": "Sam Binga",
+          "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205104,
+      "name": "Run It Up",
+      "url": "https://open.spotify.com/track/0FeIdgocbmdrBHse3iWxGx"
+    },
+    {
+      "album": {
         "name": "Sugar Honey Iced Tea!",
         "url": "https://open.spotify.com/album/71hzJFdi64i7BcgfRfRkoy"
       },
@@ -16972,7 +17100,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 292448,
       "name": "Scanline",
       "url": "https://open.spotify.com/track/02EbDzufBOHaP26WFfx8B4"
@@ -17412,7 +17540,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 270067,
       "name": "shish.Haft",
       "url": "https://open.spotify.com/track/03dtSdscY9rA09UD097Y4V"
@@ -18338,7 +18466,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 207999,
       "name": "SQZME",
       "url": "https://open.spotify.com/track/4bCVm1YfSMPysLN7axPAtW"

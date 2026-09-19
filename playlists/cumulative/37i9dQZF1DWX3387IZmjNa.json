@@ -1279,6 +1279,24 @@
     },
     {
       "album": {
+        "name": "I Quit Rap",
+        "url": "https://open.spotify.com/album/7I9ZdeXGuh2ttPzhbjbf6n"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177714,
+      "name": "Anemia Lover",
+      "url": "https://open.spotify.com/track/5sItNh9MZhbszuGIQaTR6j"
+    },
+    {
+      "album": {
         "name": "Angles (feat. Chris Brown)",
         "url": "https://open.spotify.com/album/1j97eqxFc3mF43hZ60NmnS"
       },
@@ -3270,7 +3288,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 100512,
       "name": "Como La Flor",
       "url": "https://open.spotify.com/track/4Ae8YmchI8erlYzqBwBtvl"
@@ -5748,7 +5766,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 204000,
       "name": "Get Low With Me",
       "url": "https://open.spotify.com/track/2TjhQDIOOEuhuAQaN0VCpd"
@@ -7220,7 +7238,7 @@
       ],
       "date_added": "2024-11-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 176000,
       "name": "I LUV HER (wth T-Pain)",
       "url": "https://open.spotify.com/track/1GpDcABDptCpIOALmD2S5f"
@@ -8462,7 +8480,7 @@
       ],
       "date_added": "2024-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 183990,
       "name": "L o s e M y M i n d",
       "url": "https://open.spotify.com/track/7nnSTOoBWl2ctLxoqgCZoq"
@@ -9296,6 +9314,24 @@
       "duration_ms": 169624,
       "name": "LOVE DRIVE",
       "url": "https://open.spotify.com/track/7znCtzoSpw3w7ceFwtWAT7"
+    },
+    {
+      "album": {
+        "name": "I Quit Rap",
+        "url": "https://open.spotify.com/album/7I9ZdeXGuh2ttPzhbjbf6n"
+      },
+      "artists": [
+        {
+          "name": "Hunxho",
+          "url": "https://open.spotify.com/artist/508weSx4HBumrGggFmc7br"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199746,
+      "name": "Love In Magic City",
+      "url": "https://open.spotify.com/track/4UGylVtfum31A0xDtTNd1R"
     },
     {
       "album": {
@@ -10778,6 +10814,28 @@
       "duration_ms": 157544,
       "name": "Need Your Love",
       "url": "https://open.spotify.com/track/3lNsKF8LK9yaED4Y7vZuTo"
+    },
+    {
+      "album": {
+        "name": "No Rest for The Wicked",
+        "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        },
+        {
+          "name": "JMSN",
+          "url": "https://open.spotify.com/artist/0rBqWViEFYIIW5X49IfRl3"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188883,
+      "name": "Need Your Love (feat. JMSN)",
+      "url": "https://open.spotify.com/track/0XZOXaYQfJj0nMF0DQPL5Q"
     },
     {
       "album": {
@@ -12374,6 +12432,28 @@
       "duration_ms": 218783,
       "name": "Pretty Brown (feat. Lil Baby & Rylo Rodriguez)",
       "url": "https://open.spotify.com/track/2okwe0FT7oR150QcIWde38"
+    },
+    {
+      "album": {
+        "name": "Pretty Issue",
+        "url": "https://open.spotify.com/album/4X9WJSGvdHex8mZclU2a9c"
+      },
+      "artists": [
+        {
+          "name": "Fresco Trey",
+          "url": "https://open.spotify.com/artist/6HgEIsWCHekTTfnbOGJa3g"
+        },
+        {
+          "name": "JinoDaDon",
+          "url": "https://open.spotify.com/artist/2slNcxLjYDEKvvOJN12yt9"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147692,
+      "name": "Pretty Issue",
+      "url": "https://open.spotify.com/track/3Ti4fab92q74SQX7R9cU8V"
     },
     {
       "album": {
@@ -16308,7 +16388,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 182500,
       "name": "Toy",
       "url": "https://open.spotify.com/track/7iboYwZFdr22Li27LxjLUa"
@@ -17564,6 +17644,28 @@
       "duration_ms": 175489,
       "name": "WHAT YOU NEED",
       "url": "https://open.spotify.com/track/1rmnTmLl06RQLJmEpe36ve"
+    },
+    {
+      "album": {
+        "name": "I'm Not Ok But... (Deluxe Version)",
+        "url": "https://open.spotify.com/album/1rIRxUTIWyqiRq2O12YgEv"
+      },
+      "artists": [
+        {
+          "name": "Derez De\u2019Shon",
+          "url": "https://open.spotify.com/artist/1C5vXvYnmVVTKw4GVCKGzM"
+        },
+        {
+          "name": "Fetty Wap",
+          "url": "https://open.spotify.com/artist/6PXS4YHDkKvl1wkIl4V8DL"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173332,
+      "name": "What You On (Remix)",
+      "url": "https://open.spotify.com/track/26U9PA7x5UD5Nbs1JIntU3"
     },
     {
       "album": {

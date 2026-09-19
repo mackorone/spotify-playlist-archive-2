@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 
 > With Pastel Ghost, Phantogram, Mareux and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,511 likes - 50 songs - 3 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,530 likes - 50 songs - 3 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1E4vLyj0srrBvo.md) - [plain]
 | 49 | [Alice](https://open.spotify.com/track/6h4yONyGIFXYhrvEX6jVeb) | [Pogo](https://open.spotify.com/artist/1ng3xz2dyz57Z1WpnzM2G7) | [Wonderland](https://open.spotify.com/album/5FwNan9THWocf69tJEsXUv) | 2:44 |
 | 50 | [Brokendate](https://open.spotify.com/track/0XcY2bB4lectIINykHYYDa) | [Com Truise](https://open.spotify.com/artist/2wouN3QXejYa5tKetYdcVX) | [Galactic Melt](https://open.spotify.com/album/1PSr89gL5T8Ki87t4V5BGZ) | 5:08 |
 
-Snapshot ID: `AAAAAL51t45PTgB74bhn6X58dDnY/jHm`
+Snapshot ID: `AAAAAN08SOerEwYkvapHCcpIJ37ooC/y`

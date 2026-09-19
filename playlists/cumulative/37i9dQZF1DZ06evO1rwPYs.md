@@ -4,7 +4,7 @@
 
 > This is Celia Cruz\. The essential tracks, all in one playlist.
 
-168 songs - 10 hr 54 min
+169 songs - 11 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -18,7 +18,8 @@
 | [Azúcar Negra](https://open.spotify.com/track/6KVHqj1QJNzDyeomTdUhsw) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [La Vida Es Un Carnaval \(Baile Total\)](https://open.spotify.com/album/2wJymzOZZUBrE0cKzQsvgI) | 3:07 | 2021-12-28 |  |
 | [Azúcar, Azúcar](https://open.spotify.com/track/23aUOBa50xrh8pwjPEljNo) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Etc\. Etc\. Etc.](https://open.spotify.com/album/4P5wdlbrcKgZ2oM9n6JGmv) | 3:00 | 2021-12-28 |  |
 | [Bajo la Luna \- Remastered 2012](https://open.spotify.com/track/0v7WSTmUCNqnCKIQm3d9Hk) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [La Orquesta Gloria Matancera](https://open.spotify.com/artist/033f6Mcs7lx7eGPGqLVAm8) | [Serie Cuba Libre: Celia Vive, Vol\. 1 \(Remastered 2012\)](https://open.spotify.com/album/4FLgubgexzl0cYHzKJviP3) | 2:26 | 2023-01-15 | 2024-11-12 |
-| [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 | 2021-12-28 |  |
+| [Bamboléo](https://open.spotify.com/track/4Gu8MRCmbJbX2sGueXipVg) | [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bamboléo](https://open.spotify.com/album/10FXtMH6uOwaTMFs9bpmY2) | 5:27 | 2021-12-28 | 2026-09-19 |
+| [Bamboléo \- Remastered 2025](https://open.spotify.com/track/5JHRM5anrrnCnLAIrcgCrn) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U), [Fania All Stars](https://open.spotify.com/artist/1OdyhpUABf8avaZ9r8nI1u) | [The Queen Of Salsa \(Remastered 2025\)](https://open.spotify.com/album/0dgFgOU1v9fqUZBIEcse7g) | 5:26 | 2026-09-19 |  |
 | [Bemba Colorá](https://open.spotify.com/track/6Accdr7Gaply5Ottq7ZmKV) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Viva la Reina de la Salsa](https://open.spotify.com/album/5sj5rxV32E8izCz99fNFLU) | 3:31 | 2025-03-31 | 2026-02-22 |
 | [Bemba Colorá](https://open.spotify.com/track/6vWPBJvH1NdMvjsXWTDtjh) | [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Son con Guaguancó](https://open.spotify.com/album/2j9JHp4omrgcgXsWLoMG2J) | 3:31 | 2021-12-28 | 2025-03-31 |
 | [Bemba Colorá \- En Vivo](https://open.spotify.com/track/0tktyvtoWegrOb9fivSEXq) | [Lucrecia](https://open.spotify.com/artist/2lylnjEoxCfNCh8LU6BQ14), [Celia Cruz](https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U) | [Bemba Colorá \(En Vivo\)](https://open.spotify.com/album/120BxgsyWV5HCOyhgaTOrf) | 4:03 | 2025-11-01 | 2025-11-29 |

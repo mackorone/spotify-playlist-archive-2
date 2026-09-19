@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "Spiritbox are on top of today's best Metal playlist.",
+  "description": "Anthrax are on top of today's best Metal playlist.",
   "name": "Kickass Metal",
   "tracks": [
     {
@@ -1525,6 +1525,24 @@
     },
     {
       "album": {
+        "name": "Arch of the Sky",
+        "url": "https://open.spotify.com/album/5E6vD691GoT9FiOBNDtpLa"
+      },
+      "artists": [
+        {
+          "name": "Insomnium",
+          "url": "https://open.spotify.com/artist/3uIgLG971oRM5fe6v8lvQS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 375186,
+      "name": "Arch of the Sky",
+      "url": "https://open.spotify.com/track/3DKsTUnDggVCg1swPYZ76q"
+    },
+    {
+      "album": {
         "name": "Bloom In Heaven",
         "url": "https://open.spotify.com/album/3f895XnoWWhMeM31qE3qS0"
       },
@@ -1652,6 +1670,24 @@
       "duration_ms": 247572,
       "name": "Ashes of a New Dawn",
       "url": "https://open.spotify.com/track/0306HvCbbpEpIdUxSdLAFu"
+    },
+    {
+      "album": {
+        "name": "At My Worst",
+        "url": "https://open.spotify.com/album/6KVbiYizZt0zso0y52yIug"
+      },
+      "artists": [
+        {
+          "name": "Downswing",
+          "url": "https://open.spotify.com/artist/7G66JwRjTXSaNXwlnbuYZo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 178252,
+      "name": "At My Worst",
+      "url": "https://open.spotify.com/track/5r2o9tvg0iGQDBPKXJb2Rg"
     },
     {
       "album": {
@@ -2630,6 +2666,24 @@
       "duration_ms": 274320,
       "name": "Bleeders",
       "url": "https://open.spotify.com/track/3KprCokhFBVLLGyQVu5XaN"
+    },
+    {
+      "album": {
+        "name": "Bleeding Heart",
+        "url": "https://open.spotify.com/album/02TN5COA7e3uh96dRwLPBr"
+      },
+      "artists": [
+        {
+          "name": "Vana",
+          "url": "https://open.spotify.com/artist/6o2D1YBpFJDDaMwZYGyW3T"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212038,
+      "name": "Bleeding Heart",
+      "url": "https://open.spotify.com/track/1WXuljOQWtK6rKRNM4SlEk"
     },
     {
       "album": {
@@ -5625,6 +5679,24 @@
     },
     {
       "album": {
+        "name": "Dead Inside Of Me",
+        "url": "https://open.spotify.com/album/3wXT1Tf8fCwKnQGiYNlUlm"
+      },
+      "artists": [
+        {
+          "name": "Trivium",
+          "url": "https://open.spotify.com/artist/278ZYwGhdK6QTzE3MFePnP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 241453,
+      "name": "Dead Inside Of Me",
+      "url": "https://open.spotify.com/track/4JdrQ06kBNP10EMxS7E6Fh"
+    },
+    {
+      "album": {
         "name": "Dead Reckoning",
         "url": "https://open.spotify.com/album/1b5aY62FMsQFQWzxVW7tcE"
       },
@@ -6262,6 +6334,24 @@
       "duration_ms": 158999,
       "name": "Devil Left Me On Read",
       "url": "https://open.spotify.com/track/2VWkJzH8TTZ2D0MI50iaBx"
+    },
+    {
+      "album": {
+        "name": "Devil's Due",
+        "url": "https://open.spotify.com/album/50qMVeRuzxBeeEgkNbilGC"
+      },
+      "artists": [
+        {
+          "name": "Mirrors",
+          "url": "https://open.spotify.com/artist/1bVZhrnnRNPi98wcJQT8YD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217262,
+      "name": "Devil's Due",
+      "url": "https://open.spotify.com/track/3984xbAylp3MLTSxRMTMlm"
     },
     {
       "album": {
@@ -7937,6 +8027,24 @@
     },
     {
       "album": {
+        "name": "Cursum Perficio",
+        "url": "https://open.spotify.com/album/5zN9Dr7gpSnbX0mBLVkE68"
+      },
+      "artists": [
+        {
+          "name": "Anthrax",
+          "url": "https://open.spotify.com/artist/3JysSUOyfVs1UQ0UaESheP"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 276841,
+      "name": "Everybody's Got A Plan",
+      "url": "https://open.spotify.com/track/0OkiPwtCVtbhpSZj7CaGCe"
+    },
+    {
+      "album": {
         "name": "Everybody's Got A Plan",
         "url": "https://open.spotify.com/album/7gVzzbL5oZj1VBWaJtqWxC"
       },
@@ -7948,7 +8056,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 276841,
       "name": "Everybody's Got A Plan",
       "url": "https://open.spotify.com/track/1xi9AEvw9E1dlfi8KFR75k"
@@ -11008,7 +11116,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 217500,
       "name": "How to Be Lonely",
       "url": "https://open.spotify.com/track/0i4QCUTSFuwZnIrdYi3U21"
@@ -11160,6 +11268,28 @@
       "duration_ms": 99373,
       "name": "Hurrikan",
       "url": "https://open.spotify.com/track/4uBXb5llcXoL231RHUv8JD"
+    },
+    {
+      "album": {
+        "name": "Hurt Me",
+        "url": "https://open.spotify.com/album/0y80H0RPAi5wYeWTCEClaG"
+      },
+      "artists": [
+        {
+          "name": "CABAL",
+          "url": "https://open.spotify.com/artist/2bfK6ltXa60B2egnErJvlO"
+        },
+        {
+          "name": "Employed To Serve",
+          "url": "https://open.spotify.com/artist/58d50jBQXhOetEGuSBgu64"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193948,
+      "name": "Hurt Me",
+      "url": "https://open.spotify.com/track/0piwNOZM7foP78JqzrkqL9"
     },
     {
       "album": {
@@ -11809,6 +11939,36 @@
     },
     {
       "album": {
+        "name": "If The Sun Burns Out Tonight",
+        "url": "https://open.spotify.com/album/30wcEnAwWs8vMajB23SPx5"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226403,
+      "name": "If The Sun Burns Out Tonight",
+      "url": "https://open.spotify.com/track/6XZ5emkGiXmX3T77PhIKam"
+    },
+    {
+      "album": {
         "name": "Dear Monsters",
         "url": "https://open.spotify.com/album/4yXFKYXTfZ92kX1ucyIh1o"
       },
@@ -12168,7 +12328,7 @@
       ],
       "date_added": "2026-04-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 282138,
       "name": "In Your Name",
       "url": "https://open.spotify.com/track/5MC8y7w5E0DUEqii0sP4Fm"
@@ -12676,6 +12836,32 @@
       "duration_ms": 309000,
       "name": "Jim Jones - Cowards, Pt. 2",
       "url": "https://open.spotify.com/track/0l2J2Ix63Iz7AwuCEebCiE"
+    },
+    {
+      "album": {
+        "name": "Joseph",
+        "url": "https://open.spotify.com/album/3KIlhMEiSYNn8VD7e6yglU"
+      },
+      "artists": [
+        {
+          "name": "Falling In Reverse",
+          "url": "https://open.spotify.com/artist/2CmaKO2zEGJ1NWpS1yfVGz"
+        },
+        {
+          "name": "Corey Taylor",
+          "url": "https://open.spotify.com/artist/0nhDd1RWjZ6SDV1Vg1Ku2Q"
+        },
+        {
+          "name": "Serj Tankian",
+          "url": "https://open.spotify.com/artist/0BEI7i5sgUuivcfwXLzFmM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249359,
+      "name": "Joseph",
+      "url": "https://open.spotify.com/track/1BdI8NEvZx61tnkbuAxC5x"
     },
     {
       "album": {
@@ -14078,6 +14264,24 @@
       "duration_ms": 216116,
       "name": "M.O.N.S.T.E.R",
       "url": "https://open.spotify.com/track/4LGn1Irqotkdak6ZoRuTHt"
+    },
+    {
+      "album": {
+        "name": "Machine",
+        "url": "https://open.spotify.com/album/1YSWmWb80zzj9Sp9ZEvyoD"
+      },
+      "artists": [
+        {
+          "name": "Architects",
+          "url": "https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240494,
+      "name": "Machine",
+      "url": "https://open.spotify.com/track/4OZsL523QNwRZMgJGwC2Lq"
     },
     {
       "album": {
@@ -16863,6 +17067,24 @@
     },
     {
       "album": {
+        "name": "p a r a d 0 x 1 c",
+        "url": "https://open.spotify.com/album/0EzE4JLC743EsO8BMHbect"
+      },
+      "artists": [
+        {
+          "name": "STARSET",
+          "url": "https://open.spotify.com/artist/0kD8IT1CzF7js2XKM9lLLa"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 310608,
+      "name": "p a r a d 0 x 1 c",
+      "url": "https://open.spotify.com/track/2U7yZeqVPkPxEc354Tfg3G"
+    },
+    {
+      "album": {
         "name": "Pain Remains I: Dancing Like Flames",
         "url": "https://open.spotify.com/album/2HRhcuqmyel4Zn92eeE3Cg"
       },
@@ -16932,6 +17154,24 @@
       "duration_ms": 220000,
       "name": "Pale Moonlight",
       "url": "https://open.spotify.com/track/1IQA1li1Io3D5WY6RNekD6"
+    },
+    {
+      "album": {
+        "name": "Pangs of Conscience",
+        "url": "https://open.spotify.com/album/4XrsSsrkMkkYLzbvvnxxrr"
+      },
+      "artists": [
+        {
+          "name": "200 Stab Wounds",
+          "url": "https://open.spotify.com/artist/6DH6xC3RoN7L7sGlJ60LKv"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 287332,
+      "name": "Pangs of Conscience",
+      "url": "https://open.spotify.com/track/5pD2JxlCEtcNV9cKJijmwr"
     },
     {
       "album": {
@@ -19374,7 +19614,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 262125,
       "name": "Seeing Red",
       "url": "https://open.spotify.com/track/4RCsxImpbVG07SZls4KShV"
@@ -22219,6 +22459,28 @@
     },
     {
       "album": {
+        "name": "Templars (feat. Pop Evil)",
+        "url": "https://open.spotify.com/album/7FdChgOT89etcBVl6sMaNV"
+      },
+      "artists": [
+        {
+          "name": "Sabaton",
+          "url": "https://open.spotify.com/artist/3o2dn2O0FCVsWDFSh8qxgG"
+        },
+        {
+          "name": "Pop Evil",
+          "url": "https://open.spotify.com/artist/1pRaG81GsVtaTBuVSpldt2"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 203160,
+      "name": "Templars (feat. Pop Evil)",
+      "url": "https://open.spotify.com/track/58gNJGAe1LBN8735E0OWwd"
+    },
+    {
+      "album": {
         "name": "Servant Of The Mind (Deluxe)",
         "url": "https://open.spotify.com/album/1ujOfCZxF2d2R5oOfJbxnP"
       },
@@ -24099,6 +24361,24 @@
     },
     {
       "album": {
+        "name": "Does Heaven Ever Mourn For Me",
+        "url": "https://open.spotify.com/album/3xsXZziFbYhdjgqklWcn7T"
+      },
+      "artists": [
+        {
+          "name": "Like Moths To Flames",
+          "url": "https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193500,
+      "name": "Tie the Ivy Through My Ribcage",
+      "url": "https://open.spotify.com/track/4U7kgwMO35nNjvjae86cHR"
+    },
+    {
+      "album": {
         "name": "Tight Rope XX",
         "url": "https://open.spotify.com/album/7l8G0xgVOBgfYTYDrqmL4D"
       },
@@ -24598,6 +24878,24 @@
       "duration_ms": 235800,
       "name": "Twilight Cabaret",
       "url": "https://open.spotify.com/track/5SMh3O6GhEN31zwLfiqTqK"
+    },
+    {
+      "album": {
+        "name": "Twin Tyrants",
+        "url": "https://open.spotify.com/album/5kzqvlMFKXan91DfMOQ9Df"
+      },
+      "artists": [
+        {
+          "name": "Vulvodynia",
+          "url": "https://open.spotify.com/artist/3Gqp4F4hxnfH2txPKU5J2J"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197444,
+      "name": "Twin Tyrants",
+      "url": "https://open.spotify.com/track/7qFcD2a6MaWTtsaPhVeqyJ"
     },
     {
       "album": {
@@ -26512,7 +26810,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 178500,
       "name": "Where the Quiet Devours Me Whole",
       "url": "https://open.spotify.com/track/0WvR4onzFu05Lr1XLWxkON"

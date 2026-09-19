@@ -1,12 +1,12 @@
 {
   "description": "This is MC Dricka. The essential tracks, all in one playlist.",
-  "num_followers": 35403,
+  "num_followers": 35400,
   "original_name": "This Is MC Dricka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAACWeCdW0Nq9EmFAZN8NfWhy",
+  "snapshot_id": "aqstgAAAAAB4lXKPZqsg6ruVLa+Oef7F",
   "tracks": [
     {
       "added_at": null,
@@ -111,6 +111,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Toma Golpe da Decidida",
+        "url": "https://open.spotify.com/album/78phm0rgTeEIsdM4UXpz2p"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 79772,
+      "name": "Toma Golpe da Decidida",
+      "url": "https://open.spotify.com/track/36IEUfH2qO4XUN4idus2fj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
         "url": "https://open.spotify.com/album/7gYPTOcgOCGrtl2t4mkwIs"
       },
@@ -147,22 +163,6 @@
       "duration_ms": 367499,
       "name": "Medley Canoa - Putaria no Escuro / Menina do Job / Escada do Pr\u00e9dio / Mal Caminho / Pede Que eu Te Dou",
       "url": "https://open.spotify.com/track/3J9pByZf567U83gNmzDfD1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Toma Golpe da Decidida",
-        "url": "https://open.spotify.com/album/78phm0rgTeEIsdM4UXpz2p"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 79772,
-      "name": "Toma Golpe da Decidida",
-      "url": "https://open.spotify.com/track/36IEUfH2qO4XUN4idus2fj"
     },
     {
       "added_at": null,
@@ -675,34 +675,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Medley Rel\u00edquia 2",
-        "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
-      },
-      "artists": [
-        {
-          "name": "TOMAS",
-          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
-        },
-        {
-          "name": "Damaso",
-          "url": "https://open.spotify.com/artist/5N9xloYZmBK8pothoBbHxr"
-        },
-        {
-          "name": "Hoopex",
-          "url": "https://open.spotify.com/artist/0692erAXv6WTr3XgCwpI43"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 136356,
-      "name": "Medley Rel\u00edquia 2",
-      "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "180",
         "url": "https://open.spotify.com/album/48vC9rPy4uCnQRwAeqFJdo"
       },
@@ -739,6 +711,34 @@
       "duration_ms": 358950,
       "name": "180",
       "url": "https://open.spotify.com/track/3hWLK4ew0rGtaFdjwcq1u4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Medley Rel\u00edquia 2",
+        "url": "https://open.spotify.com/album/0heTfetNgUuzklmSPUMHpt"
+      },
+      "artists": [
+        {
+          "name": "TOMAS",
+          "url": "https://open.spotify.com/artist/5TL5gz3Q8oX0m9hNt2Jq7g"
+        },
+        {
+          "name": "Damaso",
+          "url": "https://open.spotify.com/artist/5N9xloYZmBK8pothoBbHxr"
+        },
+        {
+          "name": "Hoopex",
+          "url": "https://open.spotify.com/artist/0692erAXv6WTr3XgCwpI43"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 136356,
+      "name": "Medley Rel\u00edquia 2",
+      "url": "https://open.spotify.com/track/7pqZny7fKRqHp6wEW3ZqH2"
     },
     {
       "added_at": null,
@@ -847,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CARO Vapor II - qual a forma de pagamento ?",
+        "url": "https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ"
+      },
+      "artists": [
+        {
+          "name": "Don L",
+          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 183147,
+      "name": "melhor Vida",
+      "url": "https://open.spotify.com/track/0pwMzENrZz6twPDVFVhpta"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Bate Com Vontade (Remix)",
         "url": "https://open.spotify.com/album/4hyMT2c8TG3k2V8HvbI51J"
       },
@@ -867,26 +887,6 @@
       "duration_ms": 144915,
       "name": "Bate Com Vontade - Remix",
       "url": "https://open.spotify.com/track/4yuWrOG61DjnsvGZptm1RS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CARO Vapor II - qual a forma de pagamento ?",
-        "url": "https://open.spotify.com/album/4b8qEsqVND9sgoSFhPUELJ"
-      },
-      "artists": [
-        {
-          "name": "Don L",
-          "url": "https://open.spotify.com/artist/6U98XWjrUPnPtPBjEprDmu"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        }
-      ],
-      "duration_ms": 183147,
-      "name": "melhor Vida",
-      "url": "https://open.spotify.com/track/0pwMzENrZz6twPDVFVhpta"
     },
     {
       "added_at": null,
@@ -1115,6 +1115,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "De 38 Carregado",
+        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+      },
+      "artists": [
+        {
+          "name": "Dj Ray Lais",
+          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        }
+      ],
+      "duration_ms": 155145,
+      "name": "De 38 Carregado",
+      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Catucad\u00e3o",
         "url": "https://open.spotify.com/album/16TTVpfAEGzxNghkq34qNt"
       },
@@ -1143,22 +1163,50 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 38 Carregado",
-        "url": "https://open.spotify.com/album/6uxHlMlE8nGh1dsDnkonse"
+        "name": "Soca a Theca",
+        "url": "https://open.spotify.com/album/6YlLWlW8lc9zCjYcfsthtu"
       },
       "artists": [
         {
-          "name": "Dj Ray Lais",
-          "url": "https://open.spotify.com/artist/5flE9YN7Yo4B9ZN0nUfTZK"
+          "name": "cjnobeat",
+          "url": "https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM"
+        },
+        {
+          "name": "DJ SARAIVA",
+          "url": "https://open.spotify.com/artist/4Aoxy1nwdFyKi955UJB6YZ"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
         },
         {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
         }
       ],
-      "duration_ms": 155145,
-      "name": "De 38 Carregado",
-      "url": "https://open.spotify.com/track/6BfoE1BkJKPEVYFGYm6g95"
+      "duration_ms": 128922,
+      "name": "Soca a Theca",
+      "url": "https://open.spotify.com/track/32PD9udK9GyCedzoJBECns"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sentando no Pula Pula",
+        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
+      },
+      "artists": [
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Mc Nem Jm",
+          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
+        }
+      ],
+      "duration_ms": 174962,
+      "name": "Sentando no Pula Pula",
+      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
     },
     {
       "added_at": null,
@@ -1183,26 +1231,6 @@
       "duration_ms": 139826,
       "name": "Casal Mandrake",
       "url": "https://open.spotify.com/track/5x6P0oWuUOHwKNPlDMm5vM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sentando no Pula Pula",
-        "url": "https://open.spotify.com/album/2B0DpXxVV6jHVxkDOHNqSB"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "Mc Nem Jm",
-          "url": "https://open.spotify.com/artist/2jUhhMRf5b01kLXKMC3ESs"
-        }
-      ],
-      "duration_ms": 174962,
-      "name": "Sentando no Pula Pula",
-      "url": "https://open.spotify.com/track/0wKhtUFFLf4b8DIZg4MNzX"
     },
     {
       "added_at": null,
@@ -1247,30 +1275,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Soca a Theca",
-        "url": "https://open.spotify.com/album/6YlLWlW8lc9zCjYcfsthtu"
+        "name": "Como Acredito No Amor",
+        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
       },
       "artists": [
         {
-          "name": "cjnobeat",
-          "url": "https://open.spotify.com/artist/4fKJ81BAFxuwAFUI3B1BXM"
-        },
-        {
-          "name": "DJ SARAIVA",
-          "url": "https://open.spotify.com/artist/4Aoxy1nwdFyKi955UJB6YZ"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "DJBHBHDJ",
+          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
         }
       ],
-      "duration_ms": 128922,
-      "name": "Soca a Theca",
-      "url": "https://open.spotify.com/track/32PD9udK9GyCedzoJBECns"
+      "duration_ms": 103384,
+      "name": "Como Acredito No Amor",
+      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
     },
     {
       "added_at": null,
@@ -1295,26 +1315,6 @@
       "duration_ms": 131081,
       "name": "Eu N\u00e3o Sou Dif\u00edcil",
       "url": "https://open.spotify.com/track/688RlI3w1TOy4Ib1oZNOw8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Como Acredito No Amor",
-        "url": "https://open.spotify.com/album/57NXaLzvMs55pZikaSBOvt"
-      },
-      "artists": [
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "DJBHBHDJ",
-          "url": "https://open.spotify.com/artist/7INZ7w7XryKByx9Aw8g5W0"
-        }
-      ],
-      "duration_ms": 103384,
-      "name": "Como Acredito No Amor",
-      "url": "https://open.spotify.com/track/1uACZ4YdY5Z3oMVrDRzD1T"
     },
     {
       "added_at": null,
@@ -1371,30 +1371,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mixtape Cult, Vol. 2: O Undr",
-        "url": "https://open.spotify.com/album/14E4XfxJN8SU4UOXKoyh8w"
-      },
-      "artists": [
-        {
-          "name": "GP DA ZL",
-          "url": "https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3"
-        },
-        {
-          "name": "MC Dricka",
-          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
-        },
-        {
-          "name": "CACAU CHUU",
-          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
-        }
-      ],
-      "duration_ms": 118153,
-      "name": "Decupagem em L\u00e1 Menor",
-      "url": "https://open.spotify.com/track/1Dpkx5H5PPbNkJrQqXHU5Y"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
         "url": "https://open.spotify.com/album/1ebEq4DVbEkoTd2W6QtO80"
       },
@@ -1419,6 +1395,30 @@
       "duration_ms": 137272,
       "name": "Vou Raspar Seu Bigodin / Tacar Fogo",
       "url": "https://open.spotify.com/track/7AvdfMZU32zM9Yi8ykXM6i"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mixtape Cult, Vol. 2: O Undr",
+        "url": "https://open.spotify.com/album/14E4XfxJN8SU4UOXKoyh8w"
+      },
+      "artists": [
+        {
+          "name": "GP DA ZL",
+          "url": "https://open.spotify.com/artist/6ln5KMY2ugao3BVvJgzhq3"
+        },
+        {
+          "name": "MC Dricka",
+          "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "CACAU CHUU",
+          "url": "https://open.spotify.com/artist/6jlrg5vTnraLDDXILE77BE"
+        }
+      ],
+      "duration_ms": 118153,
+      "name": "Decupagem em L\u00e1 Menor",
+      "url": "https://open.spotify.com/track/1Dpkx5H5PPbNkJrQqXHU5Y"
     },
     {
       "added_at": null,
@@ -1451,22 +1451,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "De 38 Carregado Arrochadeira",
-        "url": "https://open.spotify.com/album/6BoJVDTGo92gkDN0R91vM0"
+        "name": "Fala Mal de Mim",
+        "url": "https://open.spotify.com/album/7lTM5Wy0qg7xLAjIbLxOs5"
       },
       "artists": [
         {
-          "name": "Dj Kevin Armstrong",
-          "url": "https://open.spotify.com/artist/0RZudE84DAw3sGrpLNAnDX"
+          "name": "Junim Dantes",
+          "url": "https://open.spotify.com/artist/1l2nfwDjukUdCoVPW2ujFy"
         },
         {
           "name": "MC Dricka",
           "url": "https://open.spotify.com/artist/4d175LvxCzxt5vHbJyv49q"
+        },
+        {
+          "name": "Secret Dj",
+          "url": "https://open.spotify.com/artist/3pkNymZBuSzs0MLLC1odR3"
         }
       ],
-      "duration_ms": 108387,
-      "name": "De 38 Carregado Arrochadeira",
-      "url": "https://open.spotify.com/track/6ycgY0YG0eQRjWhvleoGlw"
+      "duration_ms": 190038,
+      "name": "Fala Mal de Mim",
+      "url": "https://open.spotify.com/track/5Gcx3VInqp6tm3dMeS2Unm"
     }
   ],
   "unique_name": "This Is MC Dricka",

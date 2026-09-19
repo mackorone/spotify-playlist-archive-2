@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 
 > A new world of alternative noise\. Cover: Public Figures
 
-[Spotify](https://open.spotify.com/user/spotify) - 15,984 likes - 75 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 15,999 likes - 75 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3SHrJsyCVuc.md) - [plain]
 | 74 | [Dior](https://open.spotify.com/track/3qvJiQOb5Qa0jO7MdLoBp3) | [feeble little horse](https://open.spotify.com/artist/2GJa7lPCjAB1rKXptXrfy8) | [bitknot](https://open.spotify.com/album/5wpfyoOxAVSVtzszRHVcIZ) | 3:32 |
 | 75 | [Heresy \- Nine Inch Noize Version](https://open.spotify.com/track/4paDQCBB9KvSFlvMWUclFV) | [Nine Inch Nails](https://open.spotify.com/artist/0X380XXQSNBYuleKzav5UO), [Boys Noize](https://open.spotify.com/artist/62k5LKMhymqlDNo2DWOvvv) | [Nine Inch Noize](https://open.spotify.com/album/7lcpCG4RBy3njzxHXlhOnp) | 3:57 |
 
-Snapshot ID: `AAAAAGEJj1g4pZg2PmAV9PJ7GqHL8adl`
+Snapshot ID: `AAAAADjmqpjtTbgWVXyMR2LBuxlH1Z0u`

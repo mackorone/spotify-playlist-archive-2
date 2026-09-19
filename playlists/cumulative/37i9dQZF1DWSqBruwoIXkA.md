@@ -2,9 +2,9 @@
 
 ### [sad hour](https://open.spotify.com/playlist/37i9dQZF1DWSqBruwoIXkA)
 
-> heartbreak feels good in a place like sad hour, with Sarah Lola
+> heartbreak feels good in a place like sad hour, with Hailey Picardi
 
-1,099 songs - 2 day 12 hr 32 min
+1,101 songs - 2 day 12 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,7 +35,7 @@
 | [a little hope never hurt](https://open.spotify.com/track/6WsRXTqNCcY6xplZdac3wB) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [a little hope never hurt](https://open.spotify.com/album/41e2z36Vmlzd4bTmmkXIY7) | 2:30 | 2022-07-01 | 2022-08-24 |
 | [A PERFECT WORLD](https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J) | [A PERFECT WORLD](https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4) | 3:07 | 2025-11-21 | 2026-07-22 |
 | [A Tree Falls](https://open.spotify.com/track/5PofUbJQ2EZcsjXqzKMLxv) | [Annika Bennett](https://open.spotify.com/artist/6p6WfcngzvbVPbmV9HMb5l) | [A Tree Falls](https://open.spotify.com/album/7oqXzoFOo6w5mUCFKPV6Gn) | 3:13 | 2024-08-02 | 2024-08-24 |
-| [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-10-26 |  |
+| [About You](https://open.spotify.com/track/1fDFHXcykq4iw8Gg7s5hG9) | [The 1975](https://open.spotify.com/artist/3mIj9lX2MWuHmhNCA7LSCW) | [Being Funny In A Foreign Language](https://open.spotify.com/album/6dVCpQ7oGJD1oYs2fv1t5M) | 5:26 | 2022-10-26 | 2026-09-19 |
 | [afraid of heights](https://open.spotify.com/track/1NBH8vdNQ2qG7U8VMntBLg) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [afraid of heights](https://open.spotify.com/album/5x6BZ6XJ2YVcwE6l26yy6p) | 2:34 | 2023-09-08 | 2023-09-16 |
 | [After Dark](https://open.spotify.com/track/26b2184K8AbuALqmkfznSl) | [Noah Rinker](https://open.spotify.com/artist/7Iz5t3KpNWPtB2uB2YyeN6) | [After Dark](https://open.spotify.com/album/6JyxbY1JEmqBkLdxr1UdxY) | 3:28 | 2024-06-08 | 2024-06-29 |
 | [airplane thoughts](https://open.spotify.com/track/6LyNmMNe5Xomr3MFL6dS7n) | [dhruv](https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb) | [airplane thoughts](https://open.spotify.com/album/3k8juVCkkKg3IG8gNOttWH) | 3:30 | 2022-01-07 | 2022-03-23 |
@@ -194,6 +194,7 @@
 | [Cool](https://open.spotify.com/track/256nKlwQdp2GE6DYGvTDoG) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [The Secret of Us \(Deluxe\)](https://open.spotify.com/album/0hBRqPYPXhr1RkTDG3n4Mk) | 3:49 | 2024-12-13 | 2025-08-30 |
 | [could cry just thinkin about you \- Full Version](https://open.spotify.com/track/3H7oAhHxkEkSf9iomv2mbG) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [could cry just thinkin about you \(Full Version\)](https://open.spotify.com/album/1Bpk6tZBLbgouOaYryoKyH) | 2:38 | 2021-12-17 | 2022-10-22 |
 | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/track/1t2MQpMDtJT5VL2tAPHrGN) | [Kelsea Ballerini](https://open.spotify.com/artist/3RqBeV12Tt7A8xH3zBDDUF), [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Cowboys Cry Too \(with Noah Kahan\)](https://open.spotify.com/album/4csGSJBfWDrWklYInvXzhU) | 3:50 | 2024-06-28 | 2025-03-26 |
+| [Crash and Burn](https://open.spotify.com/track/2JV9GMdRcS8DkpqT3ujFEd) | [Devon Gabriella](https://open.spotify.com/artist/1rfIKfqoygAsxTWBdzVO2i) | [Crash and Burn](https://open.spotify.com/album/15Orxn2VLctafcWH3P9Fvp) | 2:46 | 2026-09-18 |  |
 | [Crazier Things](https://open.spotify.com/track/2ptqYXyQ1QdArGjbrTzBaU) | [Chelsea Cutler](https://open.spotify.com/artist/5JMLG56F1X5mFmWNmS0iAp) | [How To Be Human](https://open.spotify.com/album/2oOAjpOoHkiOjFGsf2sION) | 5:04 | 2021-12-17 | 2022-03-26 |
 | [Crocodiles](https://open.spotify.com/track/03pMITmL4qouGlrfTAhX9W) | [Cian Ducrot](https://open.spotify.com/artist/49jTY62Cpw3RYo4dLuG43W) | [Crocodiles](https://open.spotify.com/album/6cLS5tRoyiw8U6lH1Zc4UX) | 4:00 | 2021-12-17 | 2022-03-26 |
 | [Cry Over Boys](https://open.spotify.com/track/1d9Ve8caYURgqYEVuEHMww) | [Alexander 23](https://open.spotify.com/artist/6sFHvCyqklnJpXC9Nh1aag) | [Oh No, Not Again! \- EP](https://open.spotify.com/album/3Z87Kdyjc5IC7BidBOFnUd) | 2:50 | 2021-12-17 | 2022-10-15 |
@@ -459,7 +460,7 @@
 | [I Hate Boston](https://open.spotify.com/track/5862ZA0ML6YODkxQF5UkgR) | [Reneé Rapp](https://open.spotify.com/artist/2hUYKu1x0UZQXvzCmggvSn) | [Snow Angel](https://open.spotify.com/album/3RqO05jxT9YYgNtMdQmo8Z) | 2:54 | 2023-08-18 | 2023-09-16 |
 | [I Hate The Beatles](https://open.spotify.com/track/6fPC2bl2J0s2WG4adY2HaJ) | [Sofía Valdés](https://open.spotify.com/artist/0caswMNVJ7vPNC1Z7NOeCT) | [I Hate The Beatles](https://open.spotify.com/album/7u506EjfG4xdfO9EdzrqDQ) | 3:05 | 2022-03-11 | 2022-03-17 |
 | [I Hope You Know](https://open.spotify.com/track/7gHVneUdwNT64NMOmoQPbj) | [Sofia Carson](https://open.spotify.com/artist/7bp2lSdh12wcA8LyB1srfJ) | [I Hope You Know](https://open.spotify.com/album/7jWSCcIR5PEUKCIrkePSmo) | 3:19 | 2024-01-26 | 2024-04-27 |
-| [I Just Need A Little Time](https://open.spotify.com/track/7wpsdiScen2LRNP55GCTVZ) | [Tyler James Bellinger](https://open.spotify.com/artist/6ZuXJQZ4dNselMcRMUvUYs) | [I Just Need A Little Time](https://open.spotify.com/album/1Ijq3WzqKvQ86W9wtIVYrB) | 4:38 | 2026-08-04 |  |
+| [I Just Need A Little Time](https://open.spotify.com/track/7wpsdiScen2LRNP55GCTVZ) | [Tyler James Bellinger](https://open.spotify.com/artist/6ZuXJQZ4dNselMcRMUvUYs) | [I Just Need A Little Time](https://open.spotify.com/album/1Ijq3WzqKvQ86W9wtIVYrB) | 4:38 | 2026-08-04 | 2026-09-19 |
 | [I Just Wanna Feel Your Love Again](https://open.spotify.com/track/4JOjqoaUEMZ0SOAzaKUwDj) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2) | [I Just Wanna Feel Your Love Again](https://open.spotify.com/album/2wjAr1uxq8uRJaRfu2rDh7) | 4:01 | 2023-09-22 | 2024-02-17 |
 | [I know it won't work](https://open.spotify.com/track/33uKUpu9ZXsHhcxRLoxnWI) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance \(Deluxe\)](https://open.spotify.com/album/78YYcghEDz2dHRx0EcDGXZ) | 4:05 | 2023-06-16 | 2024-04-19 |
 | [I know it won't work](https://open.spotify.com/track/3weQKQG9ZuqgYAZVswovYS) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [Good Riddance](https://open.spotify.com/album/1KR6xkLa2lvdvCABYlk7OO) | 4:05 | 2023-02-24 | 2025-05-10 |
@@ -621,6 +622,7 @@
 | [Lose You To Love Me](https://open.spotify.com/track/1HfMVBKM75vxSfsQ5VefZ5) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Lose You To Love Me](https://open.spotify.com/album/3tBkjgxDqAwss76O1YHsSY) | 3:26 | 2021-12-17 |  |
 | [Lose You To Love Me](https://open.spotify.com/track/4l0Mvzj72xxOpRrp6h8nHi) | [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx) | [Rare](https://open.spotify.com/album/3YPFaTR7WMi1Hd4NVKdCJx) | 3:26 | 2022-07-22 | 2024-04-19 |
 | [Loser](https://open.spotify.com/track/2xDqbLFSfHDlfpeUmJ4RwQ) | [Sky McCreery](https://open.spotify.com/artist/1LvKB5b2uYh3adUcl1pRPh) | [Loser](https://open.spotify.com/album/2gsPik2x7iO7kNb8vxHnRk) | 2:06 | 2022-03-18 | 2022-03-23 |
+| [losing u](https://open.spotify.com/track/4kWYvtYR6PbayxGHJ6Lfts) | [Hailey Picardi](https://open.spotify.com/artist/1DmaV9kf0Na68JAi0NylBI) | [losing u](https://open.spotify.com/album/2MbVZKCZDqI4bnnivcxI3W) | 3:52 | 2026-09-18 |  |
 | [Losing You](https://open.spotify.com/track/7nMjj2KzTdrv3DhKrFecjP) | [Mark Dohner](https://open.spotify.com/artist/0oeLTriLBq9avDlMepaN3i) | [Losing You](https://open.spotify.com/album/3dgdaTLgQIFeb1HU3xX4p0) | 3:07 | 2021-12-24 | 2022-01-10 |
 | [Lost & Found](https://open.spotify.com/track/2DjZwbUsZeLL7qzyej7K0V) | [Darren Kiely](https://open.spotify.com/artist/15Cdd3Wai5nQZATxnbEtK9) | [Lost & Found](https://open.spotify.com/album/4DiQ4IeyIWXdexDkikRTRJ) | 4:09 | 2023-10-20 | 2023-11-26 |
 | [Loud](https://open.spotify.com/track/3bUpRf4GN6SV6ejgQ4IQxT) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 3:04 | 2025-09-29 |  |

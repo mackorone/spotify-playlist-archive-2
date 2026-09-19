@@ -4,7 +4,7 @@
 
 > This is zebrahead\. The essential tracks, all in one playlist.
 
-109 songs - 5 hr 45 min
+110 songs - 5 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Falling Apart](https://open.spotify.com/track/1SMMq7Zupw6IHw7Hvy4xb0) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 3:09 | 2023-06-22 |  |
 | [Falling Apart](https://open.spotify.com/track/5bsJbow5ouEx8bHJRr54Ky) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg) | 3:09 | 2022-09-16 | 2023-06-23 |
 | [Feel This Way](https://open.spotify.com/track/2GtvF6M8PbpuWRvfdq5BK3) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:44 | 2022-09-16 | 2022-12-13 |
-| [Get Back](https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:31 | 2022-09-16 | 2026-09-05 |
+| [Get Back](https://open.spotify.com/track/4VJE2QEGdEYa1I6sqbqC0r) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Waste Of Mind](https://open.spotify.com/album/7bYhJeHWcA2fQcrdLEI5gJ) | 3:31 | 2022-09-16 |  |
 | [Happy Endings at the Movies](https://open.spotify.com/track/6MGfWN6hKL4zFFb2Dxaym1) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Happy Endings at the Movies](https://open.spotify.com/album/1FJYkfVIxJ9zNAL9Fbz9LO) | 2:55 | 2026-07-17 | 2026-08-13 |
 | [Happy Endings at the Movies](https://open.spotify.com/track/6clbsmaqUNDrpFn6N7udKn) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Happy Endings at the Movies](https://open.spotify.com/album/7HvWN7RtKQSB3FgcIV8kwZ) | 2:55 | 2026-08-13 |  |
 | [Headrush](https://open.spotify.com/track/1xtw6F4uIepvoH1TUAJaWB) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:43 | 2022-09-16 | 2026-09-03 |
@@ -85,7 +85,7 @@
 | [Pulling Teeth](https://open.spotify.com/track/3a69nodIxOdzXjkdM3Eul4) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Pulling Teeth](https://open.spotify.com/album/64jWfAfHPQJoPV97K8VCA2) | 3:13 | 2024-08-02 | 2026-02-25 |
 | [Pulling Teeth](https://open.spotify.com/track/1ZFqHKSXzQtyI5hs8WYDnD) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 3:13 | 2026-09-03 |  |
 | [Puppet Stringers](https://open.spotify.com/track/4LW2otQQtTwdzuQ4nZPbhN) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Puppet Stringers](https://open.spotify.com/album/23gzdvkfw6DHXhNU2FK1XZ) | 2:49 | 2024-11-15 | 2026-09-05 |
-| [Puppet Stringers](https://open.spotify.com/track/4fBFlRX8rbyuPWPSHByTos) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:49 | 2026-09-05 |  |
+| [Puppet Stringers](https://open.spotify.com/track/4fBFlRX8rbyuPWPSHByTos) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 2:49 | 2026-09-05 | 2026-09-19 |
 | [Rated "U" For Ugly](https://open.spotify.com/track/0eThYQbMcIbjO09j77VwBR) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Broadcast to the World](https://open.spotify.com/album/0mXXYSxmO3mHdTBrlgOFmZ) | 3:01 | 2022-09-16 |  |
 | [Rescue Me](https://open.spotify.com/track/0ZJyEBDBgRFeYQrE1S5QQf) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/6oOFU7EywhY265eUwhvzAu) | 3:19 | 2023-06-23 |  |
 | [Rescue Me](https://open.spotify.com/track/7vJziOrwBGtGshVapxEE9x) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [MFZB](https://open.spotify.com/album/0RvGrZn83zvUjARVbbiFDg) | 3:19 | 2022-09-16 | 2023-06-24 |
@@ -95,7 +95,8 @@
 | [Save Your Breath](https://open.spotify.com/track/64OwpIMMH02irxg0Vm3xNA) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 3:10 | 2023-09-15 |  |
 | [Sink Like a Stone](https://open.spotify.com/track/4w72ND8UIg5fHkm9vHxRTE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Sink Like a Stone](https://open.spotify.com/album/3aYMLtjPL8YWhD2acG4VHc) | 3:07 | 2024-10-11 |  |
 | [Sirens](https://open.spotify.com/track/7wCMcW4idLlNjh5DY2WqhF) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Call Your Friends](https://open.spotify.com/album/6812xPomMsIkc9V0jg5hqs) | 3:26 | 2022-09-16 |  |
-| [Smoke Signals from My Couch](https://open.spotify.com/track/1dP8TNNzaK2CxQbCIZaEwD) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Smoke Signals from My Couch](https://open.spotify.com/album/2TEGE4JfaDEY68YVBxk8dY) | 3:10 | 2026-04-26 |  |
+| [Smoke Signals from My Couch](https://open.spotify.com/track/1dP8TNNzaK2CxQbCIZaEwD) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Smoke Signals from My Couch](https://open.spotify.com/album/2TEGE4JfaDEY68YVBxk8dY) | 3:10 | 2026-04-26 | 2026-09-19 |
+| [Smoke Signals from My Couch](https://open.spotify.com/track/6UJnGHx1JGBdlmAIxcQrfz) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [I.O.](https://open.spotify.com/album/059h1HnTSyCYYkylgJ1rJy) | 3:10 | 2026-09-19 |  |
 | [So What](https://open.spotify.com/track/0RJHFMSXfSbic7O7SRsGgG) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Walk the Plank](https://open.spotify.com/album/17f45rWtD5IzrdSew0ZvDi) | 2:56 | 2022-09-16 |  |
 | [Survivor](https://open.spotify.com/track/105NwLq2B5gFMc2BQVHI8d) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Panty Raid \(Bonus Edition\)](https://open.spotify.com/album/0ZzaGzOqEkl2eavzn5y5UK) | 3:25 | 2022-09-16 |  |
 | [The Juggernauts](https://open.spotify.com/track/4ZTjAr4g4qKliDJ2SitZ5K) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Phoenix](https://open.spotify.com/album/2HdAxjR3RwHCYRAbBtZYxP) | 3:59 | 2022-09-16 |  |

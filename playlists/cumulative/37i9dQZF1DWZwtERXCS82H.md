@@ -4,7 +4,7 @@
 
 > Calm and quiet piano music for reading.
 
-913 songs - 1 day 15 hr 24 min
+915 songs - 1 day 15 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -35,6 +35,7 @@
 | [After Everything](https://open.spotify.com/track/5ysSZFdbEH1dZWemGixdYG) | [Solvaen](https://open.spotify.com/artist/3MnAxd630Net7OBynwqSP2) | [After Everything](https://open.spotify.com/album/6oNmwowB6pCsNpkkg3Md7N) | 2:46 | 2026-05-15 |  |
 | [After the Frost](https://open.spotify.com/track/0lDQpkH7iyZrUcUFta70MC) | [Shea Ada](https://open.spotify.com/artist/4RrALCcSGLAsv2VXK2gbp2) | [After the Frost](https://open.spotify.com/album/421vVDfZQ3ZQ0rc09re3TJ) | 2:56 | 2026-05-22 |  |
 | [After You](https://open.spotify.com/track/5q2e0d0VSn56TotgKbQvaW) | [Bodi Lukasz](https://open.spotify.com/artist/6FhL947nyB3vI5QUecgylC) | [After You](https://open.spotify.com/album/073NqGkD4cWeDwWlREHGv1) | 2:53 | 2026-05-08 |  |
+| [Ahead](https://open.spotify.com/track/7CXle5jJAdlIdXwoRwiMUk) | [Thomas Perceval](https://open.spotify.com/artist/42lfxltT65SVNLR6kypDU5) | [Ahead](https://open.spotify.com/album/6UzTzDaf7voAotFU3Yxi4r) | 2:16 | 2026-09-18 |  |
 | [Airborne](https://open.spotify.com/track/2MdnNxK70QIHwW999cttyQ) | [Maria Novotna](https://open.spotify.com/artist/3Bg7pjZM9srpKAJj1qlgU6) | [Airborne](https://open.spotify.com/album/7tmews40tmF8GyBOqzCpYC) | 2:41 | 2022-04-15 | 2022-04-23 |
 | [Aislingeach](https://open.spotify.com/track/45YmYHJG9AoFEg6X2xvmTV) | [Chloe Doyle](https://open.spotify.com/artist/1R7kaqI3qO4ep8YdYsFL3r) | [Aislingeach](https://open.spotify.com/album/1OkHickHsYjJvqrprMhxAr) | 2:01 | 2022-04-15 | 2024-04-04 |
 | [Al buio con te](https://open.spotify.com/track/2xU7HfHYdDO8T4TVRJwvHJ) | [Nicola Conti](https://open.spotify.com/artist/6vfIB4LyqkmDQevucWiiif) | [Al buio con te](https://open.spotify.com/album/6emKARrpD8jsPvjXkZdQOs) | 2:16 | 2022-10-14 | 2024-11-20 |
@@ -197,6 +198,7 @@
 | [durch Nacht und Nebel](https://open.spotify.com/track/6ceKCk7fknQhCvYWtwAmlP) | [Arndt Goudier](https://open.spotify.com/artist/0adSRv2wPNTotg3FojDkzJ) | [Valle Halle](https://open.spotify.com/album/7sTnfKi8ZaEaG9LQRz1tFT) | 3:03 | 2022-04-15 | 2022-06-08 |
 | [Dusk](https://open.spotify.com/track/2jsQkKbjbA9miTDtV7obIh) | [Aron Edwards](https://open.spotify.com/artist/3HVOv7Lm5kDzwbpGibjL4W) | [Dusk](https://open.spotify.com/album/07Yw3BguFmrDGZbuRMpSlC) | 3:35 | 2023-08-07 | 2025-06-11 |
 | [Dusk to dawn](https://open.spotify.com/track/130InHyyoQxDbRgScp4i6O) | [Miriam Raye](https://open.spotify.com/artist/3zpg5vjPLd2G5hQGaCuTS2) | [Scenery](https://open.spotify.com/album/6zs3f5KpHjW6yvVN5xQ0Bc) | 2:34 | 2022-04-15 | 2022-12-24 |
+| [Each Evening](https://open.spotify.com/track/6i3W2ouWdpjLX5USNhh9fe) | [Lennon McKenna](https://open.spotify.com/artist/2KjmqKmCUGWfdb8ikZ5d2i) | [Each Evening](https://open.spotify.com/album/0DmC0GMqmikCyd8st3bZHn) | 2:19 | 2026-09-18 |  |
 | [Early Memories](https://open.spotify.com/track/0yAgdDXxal3Em3W4X1bkGq) | [Anna Landström](https://open.spotify.com/artist/6CLuGSdrVoVKbBkuwjNXOw) | [Early Memories](https://open.spotify.com/album/0jFxPV4j7bMwugDCJsMt7g) | 2:33 | 2022-04-15 | 2024-03-19 |
 | [Early Morning](https://open.spotify.com/track/5iB8faGsvwZpLm3RIeQO3B) | [Lorraine J\. Kovach](https://open.spotify.com/artist/3H92L5ns19ZFEIcvVj2KhY) | [Early Morning](https://open.spotify.com/album/7viQj7LLIp5cqQTcVXYj7t) | 2:06 | 2022-04-22 | 2024-10-09 |
 | [Echoes](https://open.spotify.com/track/2FOlLBy4G6UKrSNgHrestM) | [Crimson Memoirs](https://open.spotify.com/artist/1jPw7hSDKuDDUqZE3DZYLF) | [Echoes](https://open.spotify.com/album/6gLOeTm93OHXZHFPHtsYJ5) | 2:00 | 2023-06-19 | 2025-06-05 |

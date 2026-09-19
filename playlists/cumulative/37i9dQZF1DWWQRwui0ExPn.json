@@ -54789,6 +54789,24 @@
     },
     {
       "album": {
+        "name": "halation",
+        "url": "https://open.spotify.com/album/77tWPQAWZSLg4cTQr4w1ux"
+      },
+      "artists": [
+        {
+          "name": "Mondo Loops",
+          "url": "https://open.spotify.com/artist/1XFN3VcuKr4tsTtQlRiTgK"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "halation",
+      "url": "https://open.spotify.com/track/1Js9cTByK8nBEcAoJpnugM"
+    },
+    {
+      "album": {
         "name": "Half Awake",
         "url": "https://open.spotify.com/album/2gkpxbBNtFPOQImPM2oclu"
       },
@@ -56378,7 +56396,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 144000,
       "name": "Heartbeat",
       "url": "https://open.spotify.com/track/45Rs3Os2SaOFEQKDcmmQBp"
@@ -77384,7 +77402,7 @@
       ],
       "date_added": "2025-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 149000,
       "name": "Low",
       "url": "https://open.spotify.com/track/6GHgn25eOOYaEX8lzMXvcI"
@@ -87232,6 +87250,24 @@
       "duration_ms": 136357,
       "name": "Moving Day",
       "url": "https://open.spotify.com/track/2F8OkL2J78kiRbEOpriTiz"
+    },
+    {
+      "album": {
+        "name": "Moving In",
+        "url": "https://open.spotify.com/album/07j9OaQLCIWhndGcYVTOGZ"
+      },
+      "artists": [
+        {
+          "name": "Dosi",
+          "url": "https://open.spotify.com/artist/5p2HHGakKOJCICf9fnfnQ9"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146666,
+      "name": "Moving In",
+      "url": "https://open.spotify.com/track/2KienAfLxRzyZnYpdI6mv1"
     },
     {
       "album": {
@@ -109717,6 +109753,24 @@
     },
     {
       "album": {
+        "name": "Robin",
+        "url": "https://open.spotify.com/album/6D3p9YoUNQNDvnYFSkKCb5"
+      },
+      "artists": [
+        {
+          "name": "Plaxon",
+          "url": "https://open.spotify.com/artist/5rRInZb0tVQj0SuiTC5tIM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 130819,
+      "name": "Robin",
+      "url": "https://open.spotify.com/track/5bBzYZ5n15wINaBmD28M8X"
+    },
+    {
+      "album": {
         "name": "robot walk",
         "url": "https://open.spotify.com/album/77tXiF4qylzt6otAOiTKSd"
       },
@@ -114714,6 +114768,24 @@
       "duration_ms": 107647,
       "name": "sheesh bloke",
       "url": "https://open.spotify.com/track/2DvtuX7pLLwe5RWuqecuCX"
+    },
+    {
+      "album": {
+        "name": "Shelter",
+        "url": "https://open.spotify.com/album/6qxc4s28scA5W6kL0FIg3E"
+      },
+      "artists": [
+        {
+          "name": "Floating Basket",
+          "url": "https://open.spotify.com/artist/2IzEDl5pSEGreH32EGY5hc"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147000,
+      "name": "Shelter",
+      "url": "https://open.spotify.com/track/0hXawbgaDuD2ANxbH6tsl2"
     },
     {
       "album": {
@@ -124734,6 +124806,24 @@
       "duration_ms": 158812,
       "name": "Stop the Rain",
       "url": "https://open.spotify.com/track/5pQGPs6O6DscXEGpmAEzMI"
+    },
+    {
+      "album": {
+        "name": "stopmotion",
+        "url": "https://open.spotify.com/album/1tb7gd2mCNz8iYW1JL36E1"
+      },
+      "artists": [
+        {
+          "name": "wuy-wuy",
+          "url": "https://open.spotify.com/artist/3qJVo0hjr6qiCkTI3LCA4h"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144750,
+      "name": "stopmotion",
+      "url": "https://open.spotify.com/track/1GErEOl5hPy0b2nsAr1x3k"
     },
     {
       "album": {
@@ -150286,6 +150376,24 @@
       "duration_ms": 156040,
       "name": "World\u2019s End",
       "url": "https://open.spotify.com/track/3vdpuNfchEDUQNOdtPB0FS"
+    },
+    {
+      "album": {
+        "name": "wornout",
+        "url": "https://open.spotify.com/album/7Ais4rGB6OALQ40vD1ZlpM"
+      },
+      "artists": [
+        {
+          "name": "Mellow Moose",
+          "url": "https://open.spotify.com/artist/4xZn8EEsnsQr0wQ6j6ysJR"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137142,
+      "name": "wornout",
+      "url": "https://open.spotify.com/track/0xhRQNyWJTkmwt2r2KpnZl"
     },
     {
       "album": {

@@ -6287,6 +6287,28 @@
     },
     {
       "album": {
+        "name": "Punjab",
+        "url": "https://open.spotify.com/album/32sC4Ebg2FhHZGEDbEUgXp"
+      },
+      "artists": [
+        {
+          "name": "Bobby Sandhu",
+          "url": "https://open.spotify.com/artist/6dGJfSrWE2z9oBj7wZXG5q"
+        },
+        {
+          "name": "Ary B",
+          "url": "https://open.spotify.com/artist/2Q0gszM51Kkyhwjs8BTkKa"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 152727,
+      "name": "Punjab",
+      "url": "https://open.spotify.com/track/0oxsoUGV7bBNGmU7PsL4bt"
+    },
+    {
+      "album": {
         "name": "Punjabi Kompa",
         "url": "https://open.spotify.com/album/38K1o8yxmy7ZnHr4wJaYH3"
       },
@@ -7686,7 +7708,7 @@
       ],
       "date_added": "2026-07-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 206000,
       "name": "Top Tier Gabbru",
       "url": "https://open.spotify.com/track/4G9sE1KgkZxs2IfQbE7GTy"

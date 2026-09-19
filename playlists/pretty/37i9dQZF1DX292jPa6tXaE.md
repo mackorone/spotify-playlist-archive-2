@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 
 > Discover the future of Punjabi Pop! Cover: Manna Singh
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,737 likes - 50 songs - 2 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,797 likes - 50 songs - 2 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 2 | [Pagal](https://open.spotify.com/track/2HVf0eziDUJjm2DcGmBZP3) | [Leo Rana](https://open.spotify.com/artist/3tAjZSorMLv8rskQQy0DLu), [Legacy](https://open.spotify.com/artist/7DngHhdutSXfKWLa34MngI) | [Pagal](https://open.spotify.com/album/4KTdsfxqU6a8pe1g4dqFDe) | 2:15 |
 | 3 | [Meri Ashique](https://open.spotify.com/track/5nI8bRAHU0BUQvubxcsPnB) | [Lovkirat](https://open.spotify.com/artist/6s6Jd98Ae1dheI7cotGo0o), [MNY.](https://open.spotify.com/artist/1UtSYCO5safii2akIVHpk6), [PROFESSOR](https://open.spotify.com/artist/5GVZfwhrOmIg19diWxfarN) | [Supernova](https://open.spotify.com/album/00ElO5W0Hvy38s9TBpJk0O) | 2:36 |
 | 4 | [Trust](https://open.spotify.com/track/4bGsVhd6CodNmlzAjiLSw3) | [KayVee Universe](https://open.spotify.com/artist/6Lxjw9kRoecQhVdJbznpVK), [Mohabbat](https://open.spotify.com/artist/760BxfXBEcLlBNzOi8XHrL) | [Trust](https://open.spotify.com/album/1TF8M5x9e9z8rOehFEjyx7) | 2:45 |
-| 5 | [Jindiye](https://open.spotify.com/track/2gjPGsQ74xkHVUnvHBuLJi) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN) | [Jindiye](https://open.spotify.com/album/0xkFmUdZ6jBC98r9ZeY7A9) | 2:51 |
+| 5 | [Jindiye](https://open.spotify.com/track/2gjPGsQ74xkHVUnvHBuLJi) | [Simar Sethi](https://open.spotify.com/artist/16oBN2vPJych5RW6qJg8XI), [Saga Sounds](https://open.spotify.com/artist/6JqjmhYjFskJtqjvruCxKN), [Ammy Muzic](https://open.spotify.com/artist/5WqWEezIlvPxUGkMQ7z5Wz) | [Jindiye](https://open.spotify.com/album/0xkFmUdZ6jBC98r9ZeY7A9) | 2:51 |
 | 6 | [Udeek](https://open.spotify.com/track/4MpuhO02qJeigrUI2Dk7E0) | [Shilpa Joshi](https://open.spotify.com/artist/74NeWcjFVZyQFkAVDCQj3x), [Oye Kunaal](https://open.spotify.com/artist/7hf2qsbeILq7EBHCqWlO26) | [Udeek](https://open.spotify.com/album/4qgRlhPYHGsxs9HrYZJlWA) | 2:42 |
 | 7 | [Handsome Don](https://open.spotify.com/track/6V5KsJtvv495dTMY4rwD9V) | [Khadak Singh](https://open.spotify.com/artist/6u8dtdN8dK5hjTkkfw4ysc), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [Handsome Don](https://open.spotify.com/album/2ekLQ2NJ0RZKqvagzrOnY3) | 3:26 |
 | 8 | [Naam](https://open.spotify.com/track/6fUHlejDQ3RtuoW3TWJeaA) | [Sembhy K](https://open.spotify.com/artist/58P1REavgwGHXITn2j4MGo), [Pardeep Malak](https://open.spotify.com/artist/2adVNkNRt1fiCW4vIeK2NO) | [Naam](https://open.spotify.com/album/08AsSgwHajbzE9zxBD5qLc) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX292jPa6tXaE.md) - [plain]
 | 49 | [Gaddi Te Goli](https://open.spotify.com/track/3d9WYDiNjM8EWItgYIuSLq) | [Parmveer](https://open.spotify.com/artist/0oWwmKSDELUs3M2glkw0H0), [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79) | [Off the Charts](https://open.spotify.com/album/7wdlhI3JXSDdAX268lDEc5) | 2:49 |
 | 50 | [Adah](https://open.spotify.com/track/6cl8D61sAvoU2p5vOWhOoL) | [Channa Ghuman](https://open.spotify.com/artist/7lFKOUokk8aL5qHxjNaJCt), [Jantt Pannu](https://open.spotify.com/artist/1pt2gaonreRQc5YUd0Txhg) | [Adah](https://open.spotify.com/album/67wmoSzxpCPyJm2i3VCfoI) | 2:49 |
 
-Snapshot ID: `AAAAAKw800od5ucLwCRgsDqscxdi1d2b`
+Snapshot ID: `AAAAAPUPhW0DGVJc/9nnJlnAfNi4ubWZ`

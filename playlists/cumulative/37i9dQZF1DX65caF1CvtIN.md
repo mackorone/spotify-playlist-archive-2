@@ -4,7 +4,7 @@
 
 > Quiet piano for hope and acceptance in times of hardship.
 
-288 songs - 12 hr 39 min
+290 songs - 12 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -120,6 +120,7 @@
 | [Hues](https://open.spotify.com/track/69liE6Bhwv1vDcUyYuLlTn) | [Winston Church](https://open.spotify.com/artist/24pJOJuI2ICg2109beeDdi), [Dave Lewis](https://open.spotify.com/artist/11oTVF7PmAEYQKcD4HdBQ3) | [Hues](https://open.spotify.com/album/1TEVz8WnwhUyBB2KaJCoEH) | 2:45 | 2022-08-03 | 2024-09-03 |
 | [Hvile](https://open.spotify.com/track/1kahBtroEDGLOvzu1PeM64) | [Frode Gjermundsen](https://open.spotify.com/artist/2jlnldHu77IxBD89N5cepZ) | [Hvile](https://open.spotify.com/album/5M9hyQ6AucPX7XGP9Y13fV) | 2:31 | 2022-08-03 | 2024-08-20 |
 | [I Don't Belong Here](https://open.spotify.com/track/7ybM9pHxEFFnqUo9WPpgV1) | [Vuelto Ciego](https://open.spotify.com/artist/2aGcZFlseymIvZzsg8H4yl) | [I Don't Belong Here](https://open.spotify.com/album/3dBWDCzAoabtTyNdqXn6Qg) | 2:30 | 2022-08-26 | 2026-05-09 |
+| [I Will Be There](https://open.spotify.com/track/2Mcl0BAqLfzIE3DKkVPh7L) | [XY Axis](https://open.spotify.com/artist/4CMKdXXiXli9kQn5yVXRkz) | [I Will Be There](https://open.spotify.com/album/4sDdURTfPP2hDqqug8HcB6) | 2:18 | 2026-09-18 |  |
 | [If Only I Could Stop the Clock](https://open.spotify.com/track/2Ey5klJpXYZj8Ci9thENWA) | [Maarten Schellekens](https://open.spotify.com/artist/35HKcY4o7vVi5rzJ0gPxis) | [If Only I Could Stop the Clock](https://open.spotify.com/album/5MPk2CIBjpHTo4VKeLCfEE) | 2:31 | 2023-01-26 | 2023-04-20 |
 | [Illuminate The Night](https://open.spotify.com/track/4xwD2O3xL0aMEI2jfw7mb8) | [Antoine Di Luzio](https://open.spotify.com/artist/0nvI5DwMokXVsbHH7sBuwv) | [Illuminate The Night](https://open.spotify.com/album/2fbtqkEVf615YZStDOMGdw) | 2:07 | 2023-08-01 | 2025-01-15 |
 | [Impressions](https://open.spotify.com/track/2IxfYyUQFZWoopvcfOmKnV) | [Joseph Vaux](https://open.spotify.com/artist/3xeLXw1KYDFIZlod0XGHr1) | [Impressions](https://open.spotify.com/album/319m1F9IJTZ6ups51e1m4N) | 2:43 | 2022-08-03 | 2022-09-13 |
@@ -155,6 +156,7 @@
 | [Luminous](https://open.spotify.com/track/3RO7kRSyGR1WD6vWOI73r9) | [Moldoveanu](https://open.spotify.com/artist/4eyw3Zvban1yje7bF3ha4O) | [Luminous](https://open.spotify.com/album/4KlbOlpYsuVCX4GBsp0BCE) | 2:05 | 2023-09-26 |  |
 | [lumière](https://open.spotify.com/track/4YLdPo9Jxg4dy5FxL0OFHI) | [Ethan Élgar](https://open.spotify.com/artist/1LXDaNnoNOqOQwoPDViJRQ) | [lumière](https://open.spotify.com/album/6yNck5Uo4TI3oWz9A87xtx) | 2:34 | 2025-04-23 |  |
 | [Lumière du Matin](https://open.spotify.com/track/0QVowuvdlITX199RTJnxeR) | [Teide](https://open.spotify.com/artist/31JZooajAUmQZAX2j6fPZ5) | [Lumière du Matin](https://open.spotify.com/album/4QKzhpZ1YAhVtWoZwrofTY) | 3:23 | 2022-08-26 | 2026-05-09 |
+| [Lush Moments](https://open.spotify.com/track/1w2qcmXzP2hXRbHSxTSlPZ) | [Loumi Des Moines](https://open.spotify.com/artist/5R719xRQhw9JLnHFM3dC1G) | [Lush Moments](https://open.spotify.com/album/4B6sLcZQ22Cql1Pvh35jXX) | 2:35 | 2026-09-18 |  |
 | [L’herbe verte](https://open.spotify.com/track/1Pjy5zOeaXPieqUfiSdGEb) | [Marceau Sartre](https://open.spotify.com/artist/3WUn0TYXefhcLNOs4BMW6l) | [L’herbe verte](https://open.spotify.com/album/5rPSm5zRMNh2iDrcWY0QAI) | 2:21 | 2022-08-03 | 2022-12-07 |
 | [March 17 \(went for a walk\)](https://open.spotify.com/track/6P6qsAmo6bUJQGdBQyNuMa) | [Ava Cohen](https://open.spotify.com/artist/0uCO8KkZMwQTXzi53QARiC) | [March 17 \(went for a walk\)](https://open.spotify.com/album/0cmy8NwKx5s7wuRRsmwRtz) | 3:05 | 2022-08-03 | 2025-01-22 |
 | [Maurice](https://open.spotify.com/track/7l92bhAAWWCnRrbmekFSor) | [Oscar Sergel](https://open.spotify.com/artist/0di12xR3Qca66XeRGBn1z8) | [Maurice](https://open.spotify.com/album/6bSnjwj5vMGVwxfjOJkBt3) | 2:47 | 2022-08-03 | 2023-06-21 |

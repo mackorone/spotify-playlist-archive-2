@@ -1,12 +1,12 @@
 {
   "description": "The best of today's funk. Cover: Devon Gilfillian",
-  "num_followers": 356948,
+  "num_followers": 356960,
   "original_name": "Nu-Funk",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB2fkD2+UOoX76cc8RypxUkpxBsL",
+  "snapshot_id": "AAAAAJztkKoHj0xPqPNqv/MAh26FWU6i",
   "tracks": [
     {
       "added_at": "2026-09-11 04:00:22",
@@ -39,6 +39,26 @@
       "duration_ms": 220000,
       "name": "Skint - Radio Edit",
       "url": "https://open.spotify.com/track/4EmA3T6B8L4Jehr1iK2JkR"
+    },
+    {
+      "added_at": "2026-09-18 04:02:22",
+      "album": {
+        "name": "Midas Touch",
+        "url": "https://open.spotify.com/album/59SurwzOxCIJhMzDVcCGvJ"
+      },
+      "artists": [
+        {
+          "name": "Jarrod Lawson",
+          "url": "https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f"
+        },
+        {
+          "name": "Swatkins",
+          "url": "https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP"
+        }
+      ],
+      "duration_ms": 180000,
+      "name": "Midas Touch",
+      "url": "https://open.spotify.com/track/038D4db0mzjZpmiR9VnKLa"
     },
     {
       "added_at": "2026-06-26 04:01:47",
@@ -1783,26 +1803,6 @@
       "duration_ms": 214226,
       "name": "Lost And Found",
       "url": "https://open.spotify.com/track/29Ll2LiajriSkFHX3SIgK2"
-    },
-    {
-      "added_at": "2024-01-12 05:01:00",
-      "album": {
-        "name": "Jump",
-        "url": "https://open.spotify.com/album/1MKC1CSocKPwh4nf1WbWIo"
-      },
-      "artists": [
-        {
-          "name": "Tommy Love",
-          "url": "https://open.spotify.com/artist/1OJevp7blr19zF2ka2rEVT"
-        },
-        {
-          "name": "Manny Laurenko",
-          "url": "https://open.spotify.com/artist/6gpLXhxeNFNiz38dyNqJ1C"
-        }
-      ],
-      "duration_ms": 145859,
-      "name": "Jump",
-      "url": "https://open.spotify.com/track/2BO6E4fhgNbS2VdrYJdAkq"
     },
     {
       "added_at": "2024-03-15 04:01:00",

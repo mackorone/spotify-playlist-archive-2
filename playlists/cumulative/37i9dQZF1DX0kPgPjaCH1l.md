@@ -2,9 +2,9 @@
 
 ### [afro adura ](https://open.spotify.com/playlist/37i9dQZF1DX0kPgPjaCH1l)
 
-> Baba God, run am 🙏\. <br/>Cover:  Abefe
+> Baba God, run am 🙏\. <br/>Cover:  Kizz Daniel, Krizbeatz & Young Jonn
 
-184 songs - 8 hr 38 min
+185 songs - 8 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,7 +46,7 @@
 | [By Now](https://open.spotify.com/track/5tIzKTv21iOdpfrpcMIwx7) | [Evado](https://open.spotify.com/artist/3Fxgn8HF9tsKFtHaOVBqIt) | [Promise Land](https://open.spotify.com/album/0CKK7uPuk1wpASaq123WXV) | 3:31 | 2026-04-20 |  |
 | [Can't Breathe](https://open.spotify.com/track/1edi2KPh2oghMy8ExJiFBN) | [Llona](https://open.spotify.com/artist/3hz0ZIs5SlEnlK0ML7FmNc) | [Homeless](https://open.spotify.com/album/3FKJJUAE8VhRVFvrRPQuaP) | 2:22 | 2025-06-20 | 2026-02-13 |
 | [Cana](https://open.spotify.com/track/652eb66Jp9rLJ3erEwaCio) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [NAHAMciaga](https://open.spotify.com/album/25W5Z67RX9uv82fijyx9Yk) | 2:20 | 2026-01-14 | 2026-02-07 |
-| [Casablanca](https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Casablanca](https://open.spotify.com/album/1PrAQba9MMtVlUGtjxnf1b) | 2:43 | 2025-06-20 |  |
+| [Casablanca](https://open.spotify.com/track/7BOgyrWA7OURpdJ9YksRFR) | [Shoday](https://open.spotify.com/artist/23R4AtMwVv0pbJYB1joioW), [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Casablanca](https://open.spotify.com/album/1PrAQba9MMtVlUGtjxnf1b) | 2:43 | 2025-06-20 | 2026-09-19 |
 | [Chance](https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM) | [Ema Onigah](https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD) | [ITEM VII](https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD) | 2:43 | 2026-05-08 |  |
 | [Chokehold](https://open.spotify.com/track/1TjEMCS5Swwh5uPBsLszKh) | [Rhythm Vault](https://open.spotify.com/artist/3l3a3qtkbnMKKVXyZIXeSS), [T.I BLAZE](https://open.spotify.com/artist/1FIsnQiSPsuqA38z48irJC) | [Chokehold](https://open.spotify.com/album/6FkqVMy5DhIhsgE3z7Kz76) | 2:34 | 2026-08-28 |  |
 | [Closure](https://open.spotify.com/track/3ur4xNci4Jk5d2nNcMW8nr) | [Priesst](https://open.spotify.com/artist/4Z3LLYwCpB9OKKaSttnapP) | [Closure](https://open.spotify.com/album/0ZIBldCBiuFLx1WKUpneQU) | 2:04 | 2026-09-11 |  |
@@ -136,6 +136,7 @@
 | [Only God](https://open.spotify.com/track/2hl9HqcOsnosvepwql12un) | [Victor AD](https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N), [Timaya](https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC) | [Only God](https://open.spotify.com/album/5msES2AJgY40wJpt6g61c5) | 3:12 | 2026-05-08 |  |
 | [Orin Halleluyah](https://open.spotify.com/track/4tsuoqyKW9Ra1pRaUUy2ox) | [Kashy](https://open.spotify.com/artist/0DYnwgN5Jo8G58o26XIfK6), [Zinoleesky](https://open.spotify.com/artist/6Kp3KWPiVgi33DkJqo9T4g) | [Kashamadupe](https://open.spotify.com/album/1gpTlRqHbK7VW6E4atLb6D) | 2:28 | 2025-06-20 |  |
 | [Orindowo](https://open.spotify.com/track/4ytHRcSgxIyC6xwUsKzA6D) | [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN), [Naira Marley](https://open.spotify.com/artist/5DfaMudUwkoz6TAPYifqkJ) | [Orindowo](https://open.spotify.com/album/5M3NG4sis4WH64CY10CkRE) | 2:47 | 2026-07-31 |  |
+| [Owo Oluwa \(feat\. Young Jonn, Krizbeatz & Wave Choir\)](https://open.spotify.com/track/1l1y5S87c7TB1SQeqYPXQ8) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Wave Choir](https://open.spotify.com/artist/6CKSrDs4vniJIYpAUgWLaO) | [Owo Oluwa \(feat\. Young Jonn, Krizbeatz & Wave Choir\)](https://open.spotify.com/album/63TbRZjT5dtOWaK7ASJ5ql) | 2:57 | 2026-09-18 |  |
 | [Pami](https://open.spotify.com/track/5HKje6lrhbvyyeVfZqWGlU) | [Balloranking](https://open.spotify.com/artist/0GCgnG9YEbz5i9ASbvZNTP), [BhadBoi OML](https://open.spotify.com/artist/7gCoPolzUpHjzOhp22ihoN) | [Baby Thug](https://open.spotify.com/album/1ZH9KYQn8yCLh4FBlkGNw1) | 2:56 | 2026-07-17 |  |
 | [Panic](https://open.spotify.com/track/0syyMKF0pQ8psk6aPNTh7N) | [Ayo Maff](https://open.spotify.com/artist/4kuHnKdDObYPKYPcyJC4f6) | [Panic](https://open.spotify.com/album/2gKeZUFIit84esbIFAxbUv) | 2:32 | 2025-06-20 | 2026-04-24 |
 | [Pay Day](https://open.spotify.com/track/02QF3XXoiEUcczZo47JpEJ) | [Zlatan](https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep) | [Symbol of Hope](https://open.spotify.com/album/27V1Jv5291nkV7CVFvQSwK) | 2:11 | 2025-10-17 | 2026-08-07 |

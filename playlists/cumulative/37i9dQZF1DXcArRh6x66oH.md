@@ -2,9 +2,9 @@
 
 ### [homegrown](https://open.spotify.com/playlist/37i9dQZF1DXcArRh6x66oH)
 
-> roots run deep with Corey Kent
+> roots run deep with Stephen Wilson Jr.
 
-500 songs - 1 day 6 hr 1 min
+501 songs - 1 day 6 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -98,6 +98,7 @@
 | [Cowpoke](https://open.spotify.com/track/1FJDhcC36CbA16lMIxgT1F) | [Colter Wall](https://open.spotify.com/artist/3xYXYzm9H3RzyQgBrYwIcx) | [Western Swing & Waltzes and Other Punchy Songs](https://open.spotify.com/album/1RbJr45fQ7wvjfT2poSHwI) | 3:12 | 2023-02-24 | 2024-05-25 |
 | [Cry Of The Wolves](https://open.spotify.com/track/3MYbVlYRwYfm57adWtfhSY) | [Chad Jenks](https://open.spotify.com/artist/1m2b2N60MX3fGo9mJ3nKf4) | [Cry Of The Wolves](https://open.spotify.com/album/4PJirZt51JJa71EpOHe0bt) | 3:54 | 2024-01-31 |  |
 | [Cry of the Wolves](https://open.spotify.com/track/3ozcFCqokQP1H7hMgiAckf) | [Javin Ross](https://open.spotify.com/artist/7zqTJ5GwVpV4FgpT1cIKaf), [Chad Jenks](https://open.spotify.com/artist/1m2b2N60MX3fGo9mJ3nKf4) | [Cry of the Wolves](https://open.spotify.com/album/4kNaQPzvE2JmGvYCRHvBY3) | 3:55 | 2026-06-26 | 2026-06-27 |
+| [Cørnerman](https://open.spotify.com/track/0TuXbHxORpTdkD1b1r6FL2) | [Stephen Wilson Jr.](https://open.spotify.com/artist/4DSDa4HvAWqvb3dMHUOAfd) | [Cørnerman](https://open.spotify.com/album/6vqI6qSNLRQxkR0d3klzTa) | 4:47 | 2026-09-18 |  |
 | [Damn Good Taste in Whiskey](https://open.spotify.com/track/0faTtq6Ns4srJ1m1yb0EaN) | [Hudson Westbrook](https://open.spotify.com/artist/0C4gtx1iHMfuaQ73GKWvtZ) | [Damn Good Taste in Whiskey](https://open.spotify.com/album/7tWxnF5wnDCMjJksACHgIz) | 2:55 | 2025-07-25 |  |
 | [Damn Near Normal](https://open.spotify.com/track/56eB13MUQGCQhsKn8tNP9x) | [Koe Wetzel](https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ) | [Damn Near Normal](https://open.spotify.com/album/3lhyhLiN82xxpLH85BCGz7) | 3:44 | 2024-03-29 |  |
 | [Dancing in the Sky](https://open.spotify.com/track/1M0POGmdV86bx026Ky2ip8) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [Dancing in the Sky](https://open.spotify.com/album/7yesav1UJgVC74RFifnzM9) | 3:06 | 2023-06-02 | 2024-08-29 |

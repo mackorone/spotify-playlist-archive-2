@@ -1,12 +1,12 @@
 {
   "description": "All Coke Studio Pakistan tracks in one place. ",
-  "num_followers": 135852,
+  "num_followers": 135860,
   "original_name": "This Is Coke Studio",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADRWoC1nPP7JlZNkH+1xWxLs4ge9",
+  "snapshot_id": "AAAAAAA1jxrHyg7cZuPisruS/K8FBCp6",
   "tracks": [
     {
       "added_at": "2026-09-04 07:12:11",
@@ -1511,6 +1511,22 @@
     {
       "added_at": "2026-09-04 07:12:11",
       "album": {
+        "name": "Coke Studio Season 10: Episode 5",
+        "url": "https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0"
+      },
+      "artists": [
+        {
+          "name": "Rahat Fateh Ali Khan",
+          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
+        }
+      ],
+      "duration_ms": 537324,
+      "name": "Rangrez",
+      "url": "https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK"
+    },
+    {
+      "added_at": "2026-09-04 07:12:11",
+      "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
@@ -1527,22 +1543,6 @@
       "duration_ms": 438117,
       "name": "Aj Latha Naeeo",
       "url": "https://open.spotify.com/track/0dZMZYmfbmtl6D6GCUmAhp"
-    },
-    {
-      "added_at": "2026-09-04 07:12:11",
-      "album": {
-        "name": "Coke Studio Season 10: Episode 5",
-        "url": "https://open.spotify.com/album/4izJPNm3wIRssSy6DyxAx0"
-      },
-      "artists": [
-        {
-          "name": "Rahat Fateh Ali Khan",
-          "url": "https://open.spotify.com/artist/3OLGltG8UPIea8sA4w0yg0"
-        }
-      ],
-      "duration_ms": 537324,
-      "name": "Rangrez",
-      "url": "https://open.spotify.com/track/0H4PTVPxjECFxFNCXp8UIK"
     },
     {
       "added_at": "2026-09-04 07:12:11",
@@ -1703,26 +1703,6 @@
     {
       "added_at": "2026-09-04 07:12:11",
       "album": {
-        "name": "Coke Studio Sessions: Season 2",
-        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
-      },
-      "artists": [
-        {
-          "name": "Saieen Zahoor",
-          "url": "https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q"
-        },
-        {
-          "name": "Rohail Hyatt",
-          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
-        }
-      ],
-      "duration_ms": 397500,
-      "name": "Toomba",
-      "url": "https://open.spotify.com/track/3Ucs8oliAXL7Lqmc9TRlUs"
-    },
-    {
-      "added_at": "2026-09-04 07:12:11",
-      "album": {
         "name": "Coke Studio Season 10: Episode 4",
         "url": "https://open.spotify.com/album/47IayN7LlLIu6A2RuzhbrX"
       },
@@ -1755,6 +1735,26 @@
       "duration_ms": 408525,
       "name": "Lai Beqadaraan Naal Yaari",
       "url": "https://open.spotify.com/track/0ro6SFrYsMWnLaI9vBjhra"
+    },
+    {
+      "added_at": "2026-09-04 07:12:11",
+      "album": {
+        "name": "Coke Studio Sessions: Season 2",
+        "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
+      },
+      "artists": [
+        {
+          "name": "Saieen Zahoor",
+          "url": "https://open.spotify.com/artist/3qicDXfpXrkSeFOJfHjG9q"
+        },
+        {
+          "name": "Rohail Hyatt",
+          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+        }
+      ],
+      "duration_ms": 397500,
+      "name": "Toomba",
+      "url": "https://open.spotify.com/track/3Ucs8oliAXL7Lqmc9TRlUs"
     },
     {
       "added_at": "2026-09-04 07:12:11",
@@ -2263,22 +2263,6 @@
     {
       "added_at": "2026-09-04 07:12:11",
       "album": {
-        "name": "Coke Studio Season 7",
-        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
-      },
-      "artists": [
-        {
-          "name": "Jawad Ahmad",
-          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
-        }
-      ],
-      "duration_ms": 333713,
-      "name": "Mitti da Pehlwan",
-      "url": "https://open.spotify.com/track/0pk5DWubSTHJHAOAObtVlX"
-    },
-    {
-      "added_at": "2026-09-04 07:12:11",
-      "album": {
         "name": "Coke Studio Sessions: Season 2",
         "url": "https://open.spotify.com/album/1W9cr6LNkNTfX5YKBOGFMu"
       },
@@ -2295,6 +2279,22 @@
       "duration_ms": 604065,
       "name": "Aj Latha Naeeo (Extended Version) [Bonus Track]",
       "url": "https://open.spotify.com/track/7r1aid07OpKUkUd5Zy2tID"
+    },
+    {
+      "added_at": "2026-09-04 07:12:11",
+      "album": {
+        "name": "Coke Studio Season 7",
+        "url": "https://open.spotify.com/album/5elvcVsva6W0tlh6cq9gyv"
+      },
+      "artists": [
+        {
+          "name": "Jawad Ahmad",
+          "url": "https://open.spotify.com/artist/2gXOOKY8mmJG6iwHrTq9gp"
+        }
+      ],
+      "duration_ms": 333713,
+      "name": "Mitti da Pehlwan",
+      "url": "https://open.spotify.com/track/0pk5DWubSTHJHAOAObtVlX"
     },
     {
       "added_at": "2026-09-04 07:12:11",
@@ -2659,22 +2659,6 @@
     {
       "added_at": "2026-09-04 07:12:11",
       "album": {
-        "name": "Chal Raha Hoon",
-        "url": "https://open.spotify.com/album/22SZPhsA9mEJo2MB6qShUh"
-      },
-      "artists": [
-        {
-          "name": "Umair Jaswal",
-          "url": "https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u"
-        }
-      ],
-      "duration_ms": 322443,
-      "name": "Chal Raha Hoon",
-      "url": "https://open.spotify.com/track/3SygqndXLpTR4k27cT7bME"
-    },
-    {
-      "added_at": "2026-09-04 07:12:11",
-      "album": {
         "name": "Adam (feat. Humnawa)",
         "url": "https://open.spotify.com/album/2deIHXwcBLdZYMfUD6PoVs"
       },
@@ -2695,6 +2679,22 @@
       "duration_ms": 715984,
       "name": "Adam (feat. Humnawa)",
       "url": "https://open.spotify.com/track/6IlgL3ebWCHoYiTqYqkpBB"
+    },
+    {
+      "added_at": "2026-09-04 07:12:11",
+      "album": {
+        "name": "Chal Raha Hoon",
+        "url": "https://open.spotify.com/album/22SZPhsA9mEJo2MB6qShUh"
+      },
+      "artists": [
+        {
+          "name": "Umair Jaswal",
+          "url": "https://open.spotify.com/artist/4eGTCbD3UlgIF479AuXp5u"
+        }
+      ],
+      "duration_ms": 322443,
+      "name": "Chal Raha Hoon",
+      "url": "https://open.spotify.com/track/3SygqndXLpTR4k27cT7bME"
     },
     {
       "added_at": "2026-09-04 07:12:11",
@@ -2943,22 +2943,18 @@
     {
       "added_at": "2026-09-04 07:12:11",
       "album": {
-        "name": "Coke Studio Sessions : Season 5",
-        "url": "https://open.spotify.com/album/2Nvdh0qGvH4nufpFi0DmeK"
+        "name": "Mram Mram",
+        "url": "https://open.spotify.com/album/4o2kldNwnCbsA1m3XtALUV"
       },
       "artists": [
         {
-          "name": "Meesha Shafi",
-          "url": "https://open.spotify.com/artist/6gWwKC0laX7pTPjNgrwvQR"
-        },
-        {
-          "name": "Rohail Hyatt",
-          "url": "https://open.spotify.com/artist/2coWJ1vqnp7z8eh0Vd5gPl"
+          "name": "Shamali Afghan",
+          "url": "https://open.spotify.com/artist/15zWEwiqpzUOjDXG5Ay1pD"
         }
       ],
-      "duration_ms": 406746,
-      "name": "Dasht-E-Tanhai",
-      "url": "https://open.spotify.com/track/2QACCmKVClu32zGri1hEGj"
+      "duration_ms": 404163,
+      "name": "Mram Mram",
+      "url": "https://open.spotify.com/track/6OZYd4D0MLxci7Uq5z7ipN"
     }
   ],
   "unique_name": "This Is Coke Studio",

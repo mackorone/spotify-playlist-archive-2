@@ -4,7 +4,7 @@
 
 > Pop you need to hear! Cover: Ashe
 
-1,015 songs - 2 day 6 hr 5 min
+1,016 songs - 2 day 6 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [Lady Lady](https://open.spotify.com/track/1XwbJNPOcLuSRTQNR9zz4r) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Lady Lady](https://open.spotify.com/album/0PuPRPQjPQWu542pZIlN39) | 3:29 | 2025-07-10 | 2025-08-15 |
 | [Last Heartbreak Song \(feat\. Giveon\)](https://open.spotify.com/track/1A1ifX8sWzelNpkL5PxcHT) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Giveon](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [The Year I Turned 21](https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms) | 2:29 | 2024-06-28 | 2024-07-20 |
 | [last night's mascara](https://open.spotify.com/track/2lqoRoUIVwJZrDzmNOTQZP) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [last night's mascara](https://open.spotify.com/album/603gGKsBlrCJf6WIHbpsDk) | 2:57 | 2024-11-11 | 2025-05-02 |
+| [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Grand Theft Auto VI](https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1) | [Last Thing You Need \(from GTAVI: The Album\)](https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls) | 3:16 | 2026-09-18 |  |
 | [Late to the Party](https://open.spotify.com/track/2Ks2VjMJthZ5sW7K7LljKS) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Late to the Party](https://open.spotify.com/album/0J7ZYI4k5S2uw7MW1BEtXN) | 3:12 | 2025-02-21 | 2025-03-21 |
 | [Lavender](https://open.spotify.com/track/2oLdcgV9mi8acMszmVZnYS) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [Lavender](https://open.spotify.com/album/0D02okGg2jKsdeDX3Gqhe8) | 3:06 | 2025-09-11 | 2025-10-18 |
 | [Leak It](https://open.spotify.com/track/4dVFXgnyD7eF61QUrh1UoZ) | [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Leak It](https://open.spotify.com/album/3TV3QP4ZguG7zaqXSk1Y5K) | 3:03 | 2026-03-20 |  |
@@ -868,7 +869,7 @@
 | [Tears](https://open.spotify.com/track/42VUCXerQ5qTr4Qp6PhKo4) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Man’s Best Friend](https://open.spotify.com/album/1aqg30bNvLSWgShZgX4oop) | 2:40 | 2025-08-28 | 2026-02-27 |
 | [Tears For Fun](https://open.spotify.com/track/2cmxKeY72HeimX9tcm57Ru) | [Griff](https://open.spotify.com/artist/5RJFJWYgtgWktosLrUDzff) | [Vertigo](https://open.spotify.com/album/3VA9PnquCzG4E2GHgBzFQE) | 3:16 | 2024-07-12 | 2024-11-12 |
 | [ten years time](https://open.spotify.com/track/2OupMbGCv1k6UDN0ay6sdt) | [Henry Moodie](https://open.spotify.com/artist/7hr9W3IjXcm3UlLY7guLk5) | [mood swings](https://open.spotify.com/album/2jvTYHZayLQaa6ZPz5qqJe) | 2:10 | 2025-11-14 | 2026-01-03 |
-| [That Ain’t You](https://open.spotify.com/track/4gPnKC5eNWa3pjMocIPeL7) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [That Ain't You](https://open.spotify.com/album/5FZhFZbwHtgh1VdseQPD3Q) | 2:36 | 2026-08-13 |  |
+| [That Ain’t You](https://open.spotify.com/track/4gPnKC5eNWa3pjMocIPeL7) | [Mulaa Joans](https://open.spotify.com/artist/2bas662BATSVlnZULsRIXs) | [That Ain't You](https://open.spotify.com/album/5FZhFZbwHtgh1VdseQPD3Q) | 2:36 | 2026-08-13 | 2026-09-19 |
 | [That Could Be Me](https://open.spotify.com/track/6f8IO8eT70DlP1JsN2bjcm) | [Alessi Rose](https://open.spotify.com/artist/6QXtidyXX0uGggafrYdktx) | [That Could Be Me](https://open.spotify.com/album/2zzGDctvygFHOKpEQBS3MN) | 3:17 | 2025-06-20 | 2025-07-11 |
 | [THAT GIRL](https://open.spotify.com/track/7vn1jku0IydU4cVGm5C9lF) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [A\*POP](https://open.spotify.com/album/09JgaY8X1pjMhllG2HSdiF) | 2:56 | 2026-07-23 |  |
 | [That Girl \(feat\. Saweetie\)](https://open.spotify.com/track/0gYIDOQkA4DZQw3wboBiuP) | [Paul Russell](https://open.spotify.com/artist/4zoRNhOhsGX3w8yBAnFSQ8), [Saweetie](https://open.spotify.com/artist/6cK3NBO6uP7hh0oyuVELFl) | [That Girl \(feat\. Saweetie\)](https://open.spotify.com/album/109kFKSHQurf4h5JZWgCLk) | 2:27 | 2025-05-08 | 2025-05-17 |

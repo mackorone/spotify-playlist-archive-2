@@ -21395,6 +21395,24 @@
     },
     {
       "album": {
+        "name": "People 2 Dance",
+        "url": "https://open.spotify.com/album/6NDgRLdKfmxdgbvNGNxpPw"
+      },
+      "artists": [
+        {
+          "name": "FLETCH",
+          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219732,
+      "name": "People 2 Dance",
+      "url": "https://open.spotify.com/track/1YwMy0WJxhByh2AlWin53z"
+    },
+    {
+      "album": {
         "name": "People Ain't Dancing (feat. Kah-Lo)",
         "url": "https://open.spotify.com/album/0AsTTy2s5hEPOasYtQKCQR"
       },
@@ -28882,24 +28900,6 @@
       "duration_ms": 164244,
       "name": "Toxic",
       "url": "https://open.spotify.com/track/6bavRPbVF9voNZ4r6hTgVO"
-    },
-    {
-      "album": {
-        "name": "People 2 Dance",
-        "url": "https://open.spotify.com/album/6NDgRLdKfmxdgbvNGNxpPw"
-      },
-      "artists": [
-        {
-          "name": "FLETCH",
-          "url": "https://open.spotify.com/artist/5HkPQOedMse24M2meekew4"
-        }
-      ],
-      "date_added": "2026-09-17",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 0,
-      "name": "Track 1",
-      "url": "https://open.spotify.com/track/1YwMy0WJxhByh2AlWin53z"
     },
     {
       "album": {

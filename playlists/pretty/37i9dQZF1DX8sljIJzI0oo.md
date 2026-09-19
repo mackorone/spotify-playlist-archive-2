@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 
 > Dalex is bringing the heat this week\. Tap in every Thursday for a refresh  <a href="https://asheardonfuego.substack.com/p/issue\-001\-introducing\-as\-heard\-on?r=8i1o2e&utm\_campaign=post&utm\_medium=web">\(and subscribe to our substack!\)</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,904,790 likes - 45 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,904,679 likes - 45 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,4 +54,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8sljIJzI0oo.md) - [plain]
 | 44 | [HVRACAN](https://open.spotify.com/track/6oEYzZvJ3pSD1shRCjqB2Z) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Dei V](https://open.spotify.com/artist/2YRyPiW98bpkARAS4B3OQP), [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP) | [HVRACAN](https://open.spotify.com/album/6T4dIY0EFEUfOXiuL7ZpNh) | 3:05 |
 | 45 | [BnB](https://open.spotify.com/track/6iWg7wVBXWwQYlVqp4UKPh) | [Young Miko](https://open.spotify.com/artist/3qsKSpcV3ncke3hw52JSMB), [Clarent](https://open.spotify.com/artist/78F6Xkd46aMHkr4AP60TXY) | [Do Not Disturb: Late Checkout](https://open.spotify.com/album/2h5VwiZ1SsUrPd04Zfd1jO) | 2:37 |
 
-Snapshot ID: `AAAAADHygpUNVATle/gsCbNmltl5z12q`
+Snapshot ID: `AAAAAF4G9A9BBnf9hwEpI1N4he1m66K9`

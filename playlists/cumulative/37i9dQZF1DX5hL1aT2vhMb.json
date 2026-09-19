@@ -149,6 +149,28 @@
     },
     {
       "album": {
+        "name": "Ohe: 3 Piano Pieces, Op. 4: No. 1, Melody in F Major",
+        "url": "https://open.spotify.com/album/5D1obIxEJTyptll31vZOzY"
+      },
+      "artists": [
+        {
+          "name": "Adele aus der Ohe",
+          "url": "https://open.spotify.com/artist/35JMG1f1sxBPg8CA9gkIeb"
+        },
+        {
+          "name": "Susan Tomes",
+          "url": "https://open.spotify.com/artist/3OP4EwLAnli8pp9rvEossC"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145666,
+      "name": "3 Piano Pieces, Op. 4: No. 1, Melody in F Major",
+      "url": "https://open.spotify.com/track/5MkH3fpzmBwzX7rGTHWa8V"
+    },
+    {
+      "album": {
         "name": "Altstaedt, Nicolas - French Cello Sonatas",
         "url": "https://open.spotify.com/album/53JzBLhG5laCLndqWOC2at"
       },

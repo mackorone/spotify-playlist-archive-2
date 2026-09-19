@@ -2,9 +2,9 @@
 
 ### [Indie Andinos](https://open.spotify.com/playlist/37i9dQZF1DX9xyAZr9s5Pd)
 
-> ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Nezzah
+> ¡Estos son los nombres de mujeres que amplifican el sonido indie de los Andes! Foto: Lolabúm
 
-165 songs - 9 hr 20 min
+166 songs - 9 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -38,6 +38,7 @@
 | [Cientochenta](https://open.spotify.com/track/6uXjVXPRSVyLSRg4as73QJ) | [Lunalé](https://open.spotify.com/artist/19JUD3vdAL8B0G7hpxQHuu) | [Algo Hermoso Termina](https://open.spotify.com/album/5SCuA150dDqy1sOUOysBK5) | 3:35 | 2026-03-18 | 2026-03-27 |
 | [Ciudad Espanto](https://open.spotify.com/track/1LaVxGRKECxCucel5Gs8tt) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki) | [Muchachito Roto](https://open.spotify.com/album/59EbB1Kyy8ThhlY9QJFPev) | 3:13 | 2023-09-22 | 2026-05-02 |
 | [Claroscuro](https://open.spotify.com/track/5p5AhrRFj9HUaxqDXDL5rh) | [La Banda del Bisonte](https://open.spotify.com/artist/363z8t8XMXCozcLQorLiPD) | [Claroscuro](https://open.spotify.com/album/7yfdxsGFK68Q5P2kGaqK3Y) | 3:04 | 2023-09-22 | 2023-10-21 |
+| [Como un Phantasma](https://open.spotify.com/track/2a0xb85fH3BaXGeAExHVWa) | [Lolabúm](https://open.spotify.com/artist/1Smk5600sBY0IosFDG2zki) | [SE BUSCA PHANTASMA DE BUENA PRESENCIA PARA PUESTO A TIEMPO COMPLETO EN LATINOAMÉRICA](https://open.spotify.com/album/0cq7YyR30yITxB5gfs9EDd) | 2:47 | 2026-09-18 |  |
 | [coral](https://open.spotify.com/track/3UOo8zf78epJdsoFo50AOF) | [raquel](https://open.spotify.com/artist/5kbQRJ14wqLdFlnphxZlEB) | [coral](https://open.spotify.com/album/78K4xSAjShKybDLVkkWH6J) | 3:47 | 2023-09-22 | 2024-08-24 |
 | [Corolla 94](https://open.spotify.com/track/1HUzDAJRiiyk35cSnPXPUG) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/6tbVFYIDmco4NiEMxWEYsp) | 3:21 | 2023-09-22 |  |
 | [Corolla 94](https://open.spotify.com/track/2n9rhvlYHPaMEFOmw5Y1QX) | [Simon Grossmann](https://open.spotify.com/artist/6t38N9HASTn9ca0PIxfReQ) | [Corolla 94](https://open.spotify.com/album/0ntx5OUeKXWlmEiXHh7jXN) | 3:21 | 2023-10-20 | 2024-04-19 |

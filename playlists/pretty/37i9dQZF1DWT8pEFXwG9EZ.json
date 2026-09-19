@@ -1,12 +1,12 @@
 {
   "description": "Jazz soundtracks and Jazz songs from the movies.",
-  "num_followers": 194962,
+  "num_followers": 194998,
   "original_name": "Jazz Soundtracks",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJ33m8oJo1y878v9nuBX5PXnYU4C",
+  "snapshot_id": "AAAAAFOg99SU4HGlBQ/cvhJu2QuP4TvZ",
   "tracks": [
     {
       "added_at": "2025-12-11 09:06:36",
@@ -759,6 +759,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "Soul (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
+      },
+      "artists": [
+        {
+          "name": "Jon Batiste",
+          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
+        }
+      ],
+      "duration_ms": 120306,
+      "name": "Born to Play",
+      "url": "https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Dug Days (Original Soundtrack)",
         "url": "https://open.spotify.com/album/6fEXaQ4sDE9L9pSsixUPQM"
       },
@@ -775,22 +791,6 @@
       "duration_ms": 52640,
       "name": "Opening (Spirit of Adventure)",
       "url": "https://open.spotify.com/track/5oYUpqagyuDKyv4CAYOqzR"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Soul (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
-      },
-      "artists": [
-        {
-          "name": "Jon Batiste",
-          "url": "https://open.spotify.com/artist/0eRbECAGCLLiTyVXPBRexU"
-        }
-      ],
-      "duration_ms": 120306,
-      "name": "Born to Play",
-      "url": "https://open.spotify.com/track/4BmuAIPAsCiS2NhqT0gSfL"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -851,38 +851,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "Daily Battles (From Motherless Brooklyn: Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6EqM2rlOCixg83ma0o4uDB"
-      },
-      "artists": [
-        {
-          "name": "Wynton Marsalis",
-          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
-        },
-        {
-          "name": "Isaiah J. Thompson",
-          "url": "https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9"
-        },
-        {
-          "name": "Jerry Weldon",
-          "url": "https://open.spotify.com/artist/04x8WUfUIXvBy0I8UmvO9U"
-        },
-        {
-          "name": "Joe Farnsworth",
-          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
-        },
-        {
-          "name": "Russell Hall",
-          "url": "https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT"
-        }
-      ],
-      "duration_ms": 204064,
-      "name": "Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement",
-      "url": "https://open.spotify.com/track/6c9Z0OpPG69o6ULaiYpMu2"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "Soul (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/2ffRAIZdlGEwnYE5ytIw88"
       },
@@ -895,6 +863,38 @@
       "duration_ms": 111266,
       "name": "Bigger Than Us",
       "url": "https://open.spotify.com/track/50Ewq4wyDlTfbrmnfbOB9k"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Daily Battles (From Motherless Brooklyn: Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6EqM2rlOCixg83ma0o4uDB"
+      },
+      "artists": [
+        {
+          "name": "Wynton Marsalis",
+          "url": "https://open.spotify.com/artist/375zxMmh2cSgUzFFnva0O7"
+        },
+        {
+          "name": "Jerry Weldon",
+          "url": "https://open.spotify.com/artist/04x8WUfUIXvBy0I8UmvO9U"
+        },
+        {
+          "name": "Joe Farnsworth",
+          "url": "https://open.spotify.com/artist/42ICgxJl0MTeVV8IeFGuP4"
+        },
+        {
+          "name": "Isaiah J. Thompson",
+          "url": "https://open.spotify.com/artist/0P56i1KRTfv8CWGuPBjJD9"
+        },
+        {
+          "name": "Russell Hall",
+          "url": "https://open.spotify.com/artist/2IZLjkTpDvr514Y8RBrpQT"
+        }
+      ],
+      "duration_ms": 204064,
+      "name": "Daily Battles (feat. Joe Farnsworth, Russell Hall, Isaiah J. Thompson & Jerry Weldon) - Jazz Arrangement",
+      "url": "https://open.spotify.com/track/6c9Z0OpPG69o6ULaiYpMu2"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
-        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
-      },
-      "artists": [
-        {
-          "name": "Nino Rota",
-          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
-        }
-      ],
-      "duration_ms": 344226,
-      "name": "Blues / La Dolce Vita Dei Nobili",
-      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
         "name": "Manhattan: Original Motion Picture Soundtrack",
         "url": "https://open.spotify.com/album/71aKU2RUyaBJLslyH0WEAA"
       },
@@ -1239,6 +1223,22 @@
     {
       "added_at": "2025-12-11 09:06:36",
       "album": {
+        "name": "La Dolce Vita (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/3P5PfBUzns5mWcz25C6OkB"
+      },
+      "artists": [
+        {
+          "name": "Nino Rota",
+          "url": "https://open.spotify.com/artist/0RYyGExpy57GLGa1GtFoVo"
+        }
+      ],
+      "duration_ms": 344226,
+      "name": "Blues / La Dolce Vita Dei Nobili",
+      "url": "https://open.spotify.com/track/4dAgq2HqkS12HnPvudkDPW"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
         "name": "Vicky Cristina Barcelona (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0vAlihPeKjQZ4NMJHHwiXY"
       },
@@ -1259,6 +1259,26 @@
       "duration_ms": 269146,
       "name": "Your Shining Eyes",
       "url": "https://open.spotify.com/track/7so6CTV7PdQfYzx0Mc1eea"
+    },
+    {
+      "added_at": "2025-12-11 09:06:36",
+      "album": {
+        "name": "Sylvie's Love (Amazon Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj"
+      },
+      "artists": [
+        {
+          "name": "Fabrice Lecomte",
+          "url": "https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp"
+        },
+        {
+          "name": "C\u00e9cile McLorin Salvant",
+          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
+        }
+      ],
+      "duration_ms": 119986,
+      "name": "B.-Loved (feat. C\u00e9cile McLorin Salvant) - French Version",
+      "url": "https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6"
     },
     {
       "added_at": "2025-12-11 09:06:36",
@@ -1291,26 +1311,6 @@
       "duration_ms": 155840,
       "name": "From Russia with Love - Single Version",
       "url": "https://open.spotify.com/track/0WBIlfElfs2GCpE4kxEZDt"
-    },
-    {
-      "added_at": "2025-12-11 09:06:36",
-      "album": {
-        "name": "Sylvie's Love (Amazon Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/6RCViO44ZdN4fB9BlV7oIj"
-      },
-      "artists": [
-        {
-          "name": "Fabrice Lecomte",
-          "url": "https://open.spotify.com/artist/4Zwc7SIlqqKGlQzswhzjXp"
-        },
-        {
-          "name": "C\u00e9cile McLorin Salvant",
-          "url": "https://open.spotify.com/artist/6PkSULcbxFKkxdgrmPGAvn"
-        }
-      ],
-      "duration_ms": 119986,
-      "name": "B.-Loved (feat. C\u00e9cile McLorin Salvant) - French Version",
-      "url": "https://open.spotify.com/track/5td1HlRkYwRwtfutbhjDp6"
     },
     {
       "added_at": "2025-12-11 09:06:36",

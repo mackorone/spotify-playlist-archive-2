@@ -1090,7 +1090,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 184552,
       "name": "Burnout",
       "url": "https://open.spotify.com/track/3mXXmH1CPPOyyvjfKaNr8K"
@@ -1242,7 +1242,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 301120,
       "name": "Claws In Me",
       "url": "https://open.spotify.com/track/3L0RFVB7Xq8Yp7ZGlaou7f"
@@ -2067,6 +2067,24 @@
     },
     {
       "album": {
+        "name": "Folded Moon",
+        "url": "https://open.spotify.com/album/5LOvzbUmSKuRwNutKCI1g7"
+      },
+      "artists": [
+        {
+          "name": "Presley Haile",
+          "url": "https://open.spotify.com/artist/7ns8HLT4c0KMeGqbk24CiH"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 204287,
+      "name": "Folded Moon",
+      "url": "https://open.spotify.com/track/1hxrVOqXmnrlbPzkUD9mBt"
+    },
+    {
+      "album": {
         "name": "American Rough",
         "url": "https://open.spotify.com/album/73tORXhtrDbgxpUnB3LGtD"
       },
@@ -2684,7 +2702,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 199884,
       "name": "Goodbye to All That",
       "url": "https://open.spotify.com/track/7rvykT4YaOkRwCg0ciXvtJ"
@@ -3195,6 +3213,24 @@
     },
     {
       "album": {
+        "name": "Hoover",
+        "url": "https://open.spotify.com/album/6C2expdQyV1Jt7Kqa4CkGm"
+      },
+      "artists": [
+        {
+          "name": "Kohanna",
+          "url": "https://open.spotify.com/artist/5AEz99UuyZGQ21VPXrH3sy"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162133,
+      "name": "Hoover",
+      "url": "https://open.spotify.com/track/75vnAL0aKuNFzs3ZQl0Pww"
+    },
+    {
+      "album": {
         "name": "How To Make A Cowboy",
         "url": "https://open.spotify.com/album/4x6KlybMIeAVflLNpDSbOB"
       },
@@ -3228,6 +3264,24 @@
       "duration_ms": 248961,
       "name": "Human",
       "url": "https://open.spotify.com/track/0QRAEHSbKFHELqFFxevgYE"
+    },
+    {
+      "album": {
+        "name": "Humble Mama",
+        "url": "https://open.spotify.com/album/1MywGiTtlzsesh6hd23JNk"
+      },
+      "artists": [
+        {
+          "name": "The Wildwoods",
+          "url": "https://open.spotify.com/artist/2wPWBhOid8BNr5lgEf8GKe"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 238364,
+      "name": "Humble Mama",
+      "url": "https://open.spotify.com/track/7ixc7bdE6pmZoeUZpAagN8"
     },
     {
       "album": {
@@ -3993,6 +4047,24 @@
     },
     {
       "album": {
+        "name": "Last Goodbye",
+        "url": "https://open.spotify.com/album/2rFiRDUSBOtvQJShQvsHCA"
+      },
+      "artists": [
+        {
+          "name": "Kady Zadora",
+          "url": "https://open.spotify.com/artist/3e5ErlzlEHeOEHgAH0Oeew"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207636,
+      "name": "Last Goodbye",
+      "url": "https://open.spotify.com/track/3tNeMydlCpIrKN9kG2veEV"
+    },
+    {
+      "album": {
         "name": "Later On",
         "url": "https://open.spotify.com/album/25hEJX6XH4IAGp9CHfipj9"
       },
@@ -4226,7 +4298,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 273241,
       "name": "Little Boxes",
       "url": "https://open.spotify.com/track/7chSr6q1DmIJUGwi0O4h5L"
@@ -5379,6 +5451,28 @@
     },
     {
       "album": {
+        "name": "Fools for the Fleeting",
+        "url": "https://open.spotify.com/album/6mefUGVpBqgVT5TZ40svKN"
+      },
+      "artists": [
+        {
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
+        },
+        {
+          "name": "Sierra Hull",
+          "url": "https://open.spotify.com/artist/0JGGxsAD1Eg4X9AcKNcxEB"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250660,
+      "name": "Orion's Belt [feat. Sierra Hull]",
+      "url": "https://open.spotify.com/track/3SEXONDU1d1y2YbxuWJ3Zm"
+    },
+    {
+      "album": {
         "name": "Ouachita Woods",
         "url": "https://open.spotify.com/album/1Z5hNOQBUwlVCPUikDTRdO"
       },
@@ -5762,7 +5856,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 232853,
       "name": "Pulverize",
       "url": "https://open.spotify.com/track/0XHLZNivQ9KbQ4RsdjESx9"
@@ -7967,6 +8061,24 @@
     },
     {
       "album": {
+        "name": "When The River Runs Dry",
+        "url": "https://open.spotify.com/album/3H1zyVPVwIAQgDZdYJoEgn"
+      },
+      "artists": [
+        {
+          "name": "Jack Blocker",
+          "url": "https://open.spotify.com/artist/2JW9eW6831ZTp8CRk2KgP7"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168512,
+      "name": "When The River Runs Dry",
+      "url": "https://open.spotify.com/track/23WvtsduDwoOjLwc7EjFhg"
+    },
+    {
+      "album": {
         "name": "When The Scaffolds Fall",
         "url": "https://open.spotify.com/album/1jRoMdCiUUwM3FLaaMLfrH"
       },
@@ -8130,7 +8242,7 @@
       ],
       "date_added": "2026-05-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 156350,
       "name": "Wisteria",
       "url": "https://open.spotify.com/track/47tfKmQsZug1v7Ct4IuK1j"

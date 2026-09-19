@@ -1961,6 +1961,24 @@
     },
     {
       "album": {
+        "name": "Amore Che Dorme",
+        "url": "https://open.spotify.com/album/533mo56JrgGffRRUuIscNZ"
+      },
+      "artists": [
+        {
+          "name": "Lucio Francesco",
+          "url": "https://open.spotify.com/artist/6SmEyMlUWcw5nzD9YmCCRN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171649,
+      "name": "Amore Che Dorme",
+      "url": "https://open.spotify.com/track/4n3mW552498cUsxepuvUsy"
+    },
+    {
+      "album": {
         "name": "Amorous Rebound",
         "url": "https://open.spotify.com/album/4nXeZ1J8OUhb7vo4fh2zYE"
       },
@@ -27058,6 +27076,24 @@
       "duration_ms": 193155,
       "name": "Steady, Unchanging",
       "url": "https://open.spotify.com/track/75MYEyOHa4z18rfhYdRCrM"
+    },
+    {
+      "album": {
+        "name": "Stella",
+        "url": "https://open.spotify.com/album/6ZQ94asbaQK903MA5zcdaT"
+      },
+      "artists": [
+        {
+          "name": "Pontiver Bogross",
+          "url": "https://open.spotify.com/artist/3dlALRQ5FDfoMDLFkzwhcw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122512,
+      "name": "Stella",
+      "url": "https://open.spotify.com/track/5SMglHDlRKwj9SpGXBejJM"
     },
     {
       "album": {

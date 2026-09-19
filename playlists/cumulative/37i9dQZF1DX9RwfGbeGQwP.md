@@ -4,7 +4,7 @@
 
 > chill beats for cool coffeehouse vibes.
 
-1,616 songs - 2 day 12 hr 41 min
+1,617 songs - 2 day 12 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1333,6 +1333,7 @@
 | [Stressofobia](https://open.spotify.com/track/2lqELlcM5vOPypzwVwGU9B) | [Jimp Dino](https://open.spotify.com/artist/1FWBtnVOD7fmzw3CG2gMUF) | [Stressofobia](https://open.spotify.com/album/0oyfLqemDqa3uXK2RqeuUu) | 2:33 | 2023-07-13 | 2025-10-22 |
 | [strolling](https://open.spotify.com/track/1d4ZvL8uuUPTEAnocC3zEa) | [!nvite](https://open.spotify.com/artist/6KJtK1U4TEYXQgg65JYAJI) | [strolling](https://open.spotify.com/album/6AxCT4NDfeK3WCzmQnZ2fF) | 2:18 | 2022-01-27 | 2022-12-17 |
 | [Strummer Boy](https://open.spotify.com/track/6iEEf0a4KOHbOsbJ4TslLY) | [Dusty Decks](https://open.spotify.com/artist/5mWkhlLhHU9FKT8vU8lBIR) | [RPM](https://open.spotify.com/album/5hjHCgWQ6ETLC2W97a9iDk) | 2:09 | 2022-08-19 | 2023-12-15 |
+| [Study](https://open.spotify.com/track/1RrKZ1fVGGHO9be3P1ZAMD) | [Majid Unpeek](https://open.spotify.com/artist/66CDrkdfDIbvnyCVAFUSUK), [Lola](https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT) | [Study](https://open.spotify.com/album/0gLXwdxnEolfEkOfwcpJEA) | 2:59 | 2026-09-18 |  |
 | [Stuff & Things](https://open.spotify.com/track/42rqLOwurypDgWLrEd5EZS) | [Thursdayevening](https://open.spotify.com/artist/2W1v4GawU3sb1lCYOhCeWO), [Casual Chill](https://open.spotify.com/artist/2NDHujf9zYxhdC7RxXt4Jq) | [Stuff & Things](https://open.spotify.com/album/6TtXTseVtXPOaNxAoOMAvE) | 1:54 | 2022-09-02 | 2023-01-20 |
 | [Stumbles](https://open.spotify.com/track/6SYNj1IwlExnuGnpbCfOUZ) | [Son Of Arn](https://open.spotify.com/artist/725aXOndVSiKmldfKJ6Rnr) | [Stumbles](https://open.spotify.com/album/2u98fLwBQfGhOysO60dls5) | 1:44 | 2022-01-27 | 2022-04-08 |
 | [Suave Park](https://open.spotify.com/track/2npdD0HQaiAgneU6uilsx5) | [Noflik](https://open.spotify.com/artist/4adNSdgdmFQ1vVIebJxwVt), [.multibeat](https://open.spotify.com/artist/4QQM0xwh18KQeE0CrnSqyj) | [Suave Park / Mikasa](https://open.spotify.com/album/3IQJ2h5ZjKdeDhxowpu3wf) | 1:46 | 2022-01-27 | 2022-09-03 |

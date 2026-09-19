@@ -1,12 +1,12 @@
 {
   "description": "La playlist del jazz italiano, passato e presente. Cover: Carolina Bubbico",
-  "num_followers": 35073,
+  "num_followers": 35076,
   "original_name": "Jazz Italia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIFJMKBs3xM6ko6pQz+bJok91QqV",
+  "snapshot_id": "AAAAAFkChqL/a+wuTd6BkRy4slSORL12",
   "tracks": [
     {
       "added_at": "2026-08-04 12:28:31",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
-        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
-      },
-      "artists": [
-        {
-          "name": "Riz Ortolani",
-          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Appuntamento al mare - Remastered 2022",
-      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "Sogni",
         "url": "https://open.spotify.com/album/6lJgCTjg837PfMyZfVaOi4"
       },
@@ -879,18 +863,18 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Funambola",
-        "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
+        "name": "Le ore nude (Original Motion Picture Soundtrack / Remastered 2022)",
+        "url": "https://open.spotify.com/album/0bds6CIDJWikmmwJYC7ONe"
       },
       "artists": [
         {
-          "name": "Patrizia Laquidara",
-          "url": "https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9"
+          "name": "Riz Ortolani",
+          "url": "https://open.spotify.com/artist/5D3YOC6ffqe2wDikuU9ljG"
         }
       ],
-      "duration_ms": 233160,
-      "name": "Ziza",
-      "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
+      "duration_ms": 150000,
+      "name": "Appuntamento al mare - Remastered 2022",
+      "url": "https://open.spotify.com/track/1cXpSckmX6kpwwxOaQ61UC"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -927,22 +911,18 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Plexus Plexus",
-        "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
+        "name": "Funambola",
+        "url": "https://open.spotify.com/album/08xjdXUMNo6eXeh45j99xp"
       },
       "artists": [
         {
-          "name": "Web Web",
-          "url": "https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF"
-        },
-        {
-          "name": "Roberto Di Gioia",
-          "url": "https://open.spotify.com/artist/5F8dVL7FhAh8jPAMz7d2DR"
+          "name": "Patrizia Laquidara",
+          "url": "https://open.spotify.com/artist/4KlpFEaCAxO1NYQPFqsQp9"
         }
       ],
-      "duration_ms": 186107,
-      "name": "Bird\u00b4s Lament",
-      "url": "https://open.spotify.com/track/2JNfB0GUiq2lnhurSqPdrb"
+      "duration_ms": 233160,
+      "name": "Ziza",
+      "url": "https://open.spotify.com/track/6WdTIDGuebUIlkQsWPJZpr"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -959,6 +939,26 @@
       "duration_ms": 218533,
       "name": "Kids are electric",
       "url": "https://open.spotify.com/track/056cAK9yCGO0dH8qSyzwa9"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Plexus Plexus",
+        "url": "https://open.spotify.com/album/0Ft57BsIB0sN2BeIlUtXoV"
+      },
+      "artists": [
+        {
+          "name": "Web Web",
+          "url": "https://open.spotify.com/artist/4EmIrTN6q1uhLRL8hmhuHF"
+        },
+        {
+          "name": "Roberto Di Gioia",
+          "url": "https://open.spotify.com/artist/5F8dVL7FhAh8jPAMz7d2DR"
+        }
+      ],
+      "duration_ms": 186107,
+      "name": "Bird\u00b4s Lament",
+      "url": "https://open.spotify.com/track/2JNfB0GUiq2lnhurSqPdrb"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1099,6 +1099,26 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
+        "name": "Quando le canzoni finiscono",
+        "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
+      },
+      "artists": [
+        {
+          "name": "Carlo Corallo",
+          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
+        },
+        {
+          "name": "Funk Shui Project",
+          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
+        }
+      ],
+      "duration_ms": 238043,
+      "name": "Un giardino",
+      "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
         "name": "Baccanalia",
         "url": "https://open.spotify.com/album/1vZN5RZS4DXB5idYXNw7yd"
       },
@@ -1143,26 +1163,6 @@
       "duration_ms": 125572,
       "name": "Bighellonando",
       "url": "https://open.spotify.com/track/45XyiT4BoN2BglFr5dbEsH"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
-        "name": "Quando le canzoni finiscono",
-        "url": "https://open.spotify.com/album/0pbaxeBm7EGjfBiiuD0LyE"
-      },
-      "artists": [
-        {
-          "name": "Carlo Corallo",
-          "url": "https://open.spotify.com/artist/5qkSgK2UUXXa0DDBks4vqt"
-        },
-        {
-          "name": "Funk Shui Project",
-          "url": "https://open.spotify.com/artist/38HGRU8SzSmL41dQT8Dh7E"
-        }
-      ],
-      "duration_ms": 238043,
-      "name": "Un giardino",
-      "url": "https://open.spotify.com/track/1xXKvZSKZGcBR4jNOvirl6"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1407,22 +1407,6 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Porta Pia",
-        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
-      },
-      "artists": [
-        {
-          "name": "Coca Puma",
-          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
-        }
-      ],
-      "duration_ms": 175458,
-      "name": "Porta Pia",
-      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
-    },
-    {
-      "added_at": "2026-08-04 12:28:31",
-      "album": {
         "name": "MADRE",
         "url": "https://open.spotify.com/album/4yfpNgINggMNX8KJqooGZ3"
       },
@@ -1443,6 +1427,22 @@
       "duration_ms": 245500,
       "name": "CAOS ARM\u00d2NICO (feat. Clap! Clap!)",
       "url": "https://open.spotify.com/track/0fIaouH60PJ35OBZIF3tTh"
+    },
+    {
+      "added_at": "2026-08-04 12:28:31",
+      "album": {
+        "name": "Porta Pia",
+        "url": "https://open.spotify.com/album/27ewyS8tUv5mc6VtkB206d"
+      },
+      "artists": [
+        {
+          "name": "Coca Puma",
+          "url": "https://open.spotify.com/artist/1ByonnOisC5Owt0tfsyzGc"
+        }
+      ],
+      "duration_ms": 175458,
+      "name": "Porta Pia",
+      "url": "https://open.spotify.com/track/3odWDhS8Pk3yIqti833UQb"
     },
     {
       "added_at": "2026-08-04 12:28:31",
@@ -1919,26 +1919,18 @@
     {
       "added_at": "2026-08-04 12:28:31",
       "album": {
-        "name": "Trama Latina",
-        "url": "https://open.spotify.com/album/6yPxl2kSktRRwdsHGP52pY"
+        "name": "Jazz Carnival",
+        "url": "https://open.spotify.com/album/6qeRZWcX3ZBIbG06naVZUS"
       },
       "artists": [
         {
-          "name": "Paolo Fresu",
-          "url": "https://open.spotify.com/artist/2qW0CNnmvdEQwiabdareHi"
-        },
-        {
-          "name": "David Linx",
-          "url": "https://open.spotify.com/artist/2k1nZ9A4l6tQLfrVABHwcL"
-        },
-        {
-          "name": "Gustavo Beytelmann",
-          "url": "https://open.spotify.com/artist/2PH8EDFFaImOaGSe0yXVVu"
+          "name": "Calibro 35",
+          "url": "https://open.spotify.com/artist/7ueDbhgpZaiUxEbiHnwezi"
         }
       ],
-      "duration_ms": 370960,
-      "name": "chiquil\u00edn de bach\u00edn",
-      "url": "https://open.spotify.com/track/482bT2u015ShiWjWuxtwkN"
+      "duration_ms": 226693,
+      "name": "Jazz Carnival",
+      "url": "https://open.spotify.com/track/4bTSotryWXXOQw55gXDAyA"
     }
   ],
   "unique_name": "Jazz Italia",

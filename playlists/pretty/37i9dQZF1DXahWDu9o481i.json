@@ -1,12 +1,12 @@
 {
   "description": "The best new songs of the month, handpicked by Spotify editors. Cover: KAROL G, rusowsky, Judeline.",
-  "num_followers": 115843,
+  "num_followers": 116791,
   "original_name": "Editors' Picks: Best Songs of August",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALk5tVDsgqBc+3kFyQ52NMJoQ9s2",
+  "snapshot_id": "AAAAAKOYdnqkdPE7YDfIXW7F5wRRG+5H",
   "tracks": [
     {
       "added_at": "2026-09-01 04:00:27",
@@ -447,6 +447,22 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
+        "name": "Lean On",
+        "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
+      },
+      "artists": [
+        {
+          "name": "Miles Caton",
+          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
+        }
+      ],
+      "duration_ms": 205000,
+      "name": "Lean On",
+      "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
         "name": "Try and Fail (feat. SoFaygo)",
         "url": "https://open.spotify.com/album/4TJnMKR81EbrOExdDsQo6I"
       },
@@ -467,18 +483,18 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
-        "name": "Lean On",
-        "url": "https://open.spotify.com/album/2fwaT1UC0w3cBcU1moVKCu"
+        "name": "Gentlewoman",
+        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
       },
       "artists": [
         {
-          "name": "Miles Caton",
-          "url": "https://open.spotify.com/artist/0EEwD5PTnNLxUfAS22mErL"
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
         }
       ],
-      "duration_ms": 205000,
-      "name": "Lean On",
-      "url": "https://open.spotify.com/track/5giXlS3Ke9jWkZBt5ODMND"
+      "duration_ms": 220986,
+      "name": "Let Me Cry",
+      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -495,22 +511,6 @@
       "duration_ms": 167152,
       "name": "Want For Nothing",
       "url": "https://open.spotify.com/track/5pIWnSAzQuBUnJcXjL4auI"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
-        "name": "Gentlewoman",
-        "url": "https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 220986,
-      "name": "Let Me Cry",
-      "url": "https://open.spotify.com/track/6BZM0xXwmgqBTCbtUib7sU"
     },
     {
       "added_at": "2026-09-01 04:00:27",
@@ -547,6 +547,22 @@
     {
       "added_at": "2026-09-01 04:00:27",
       "album": {
+        "name": "the cops are coming",
+        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
+      },
+      "artists": [
+        {
+          "name": "Junior Mesa",
+          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
+        }
+      ],
+      "duration_ms": 193615,
+      "name": "the cops are coming",
+      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
+    },
+    {
+      "added_at": "2026-09-01 04:00:27",
+      "album": {
         "name": "Mi Carpe Diem",
         "url": "https://open.spotify.com/album/5xNpY6LGUqNbluWuLJRNSl"
       },
@@ -563,22 +579,6 @@
       "duration_ms": 204508,
       "name": "Ponte a Pensar",
       "url": "https://open.spotify.com/track/3ty3o40yxItfYoAcrT69GT"
-    },
-    {
-      "added_at": "2026-09-01 04:00:27",
-      "album": {
-        "name": "the cops are coming",
-        "url": "https://open.spotify.com/album/5wUffq0JTUaffR3AjUXHEm"
-      },
-      "artists": [
-        {
-          "name": "Junior Mesa",
-          "url": "https://open.spotify.com/artist/0tqSrr7nI6j3yOlMZJGCUX"
-        }
-      ],
-      "duration_ms": 193615,
-      "name": "the cops are coming",
-      "url": "https://open.spotify.com/track/1BlZIQiHakd1k4YmKsymZt"
     },
     {
       "added_at": "2026-09-01 04:00:27",

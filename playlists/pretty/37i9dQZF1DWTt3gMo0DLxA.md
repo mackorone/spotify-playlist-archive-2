@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 
 > Trending songs from Tollywood! <br/>Cover: The Paradise
 
-[Spotify](https://open.spotify.com/user/spotify) - 660,557 likes - 50 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 661,192 likes - 50 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTt3gMo0DLxA.md) - [plain]
 | 49 | [Jaya Mangalam \(From "Lenin"\)](https://open.spotify.com/track/19pjfPfmHB6H1NyBEVUdOd) | [S.P\. Charan](https://open.spotify.com/artist/1BIAyVQxDuYrMqZ8H1Faja), [Kumara Vagdevi](https://open.spotify.com/artist/2DZUQkCCjquQ830riDtzFu), [Vijaya Lakshmi](https://open.spotify.com/artist/21tEGk5FMTStfyeJEeVSTM), [Thaman S](https://open.spotify.com/artist/2FgHPfRprDaylrSRVf1UlN), [Ramajogayya Sastry](https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W) | [Jaya Mangalam \(From "Lenin"\)](https://open.spotify.com/album/214iEM1yTq9JPTZ1FIh0hQ) | 3:27 |
 | 50 | [Tella Cheera Tella Raika](https://open.spotify.com/track/0rgcUdrr6NTkU5nwbcfe31) | [Kalyan Keys](https://open.spotify.com/artist/5Mw67hZobK1bXgPK31v2tN), [Kongari Krishna](https://open.spotify.com/artist/0NSVbazAWZ2CA3oIVSvuLR), [Mallamma Singer](https://open.spotify.com/artist/7rjSL2TqwaSJVGjgZShhXe), [Akki Cherry](https://open.spotify.com/artist/2ZatMvqyVxskQGQibNx81E), [Priya Hasini Goud](https://open.spotify.com/artist/3dHZm4Sdz0SZlPjo2AzsSG) | [Tella Cheera Tella Raika](https://open.spotify.com/album/2XhlKeDDnyodqE4GMxVcNz) | 3:41 |
 
-Snapshot ID: `AAAAAHPDPYNeUKA2Cp1wvfMwPO9ReVhJ`
+Snapshot ID: `AAAAABqXWEbvvPO17Bfp9/DleUfMLlKB`

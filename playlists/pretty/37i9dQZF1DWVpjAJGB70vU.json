@@ -1,12 +1,12 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2263241,
+  "num_followers": 2263680,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB+tXsGvBQ8Jwb7IBQpcEPemp1dL",
+  "snapshot_id": "AAAAAL7zLdDwINJEImCP7FKjK9Bkwfw5",
   "tracks": [
     {
       "added_at": "2026-02-11 22:52:29",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Not A Moment Too Soon",
-        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
-      },
-      "artists": [
-        {
-          "name": "Tim McGraw",
-          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
-        }
-      ],
-      "duration_ms": 178866,
-      "name": "Down On The Farm",
-      "url": "https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "This Time",
         "url": "https://open.spotify.com/album/1LjKIkzKmvRTfURcwcTr50"
       },
@@ -811,18 +795,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Hard Workin' Man",
-        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
+        "name": "Not A Moment Too Soon",
+        "url": "https://open.spotify.com/album/18eJ4H4smFp29lRMsLygUc"
       },
       "artists": [
         {
-          "name": "Brooks & Dunn",
-          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+          "name": "Tim McGraw",
+          "url": "https://open.spotify.com/artist/6roFdX1y5BYSbp60OTJWMd"
         }
       ],
-      "duration_ms": 178493,
-      "name": "Hard Workin' Man",
-      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
+      "duration_ms": 178866,
+      "name": "Down On The Farm",
+      "url": "https://open.spotify.com/track/65N3RYCN1DgfY0Zcv5k9kr"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -839,6 +823,22 @@
       "duration_ms": 228173,
       "name": "Paint Me A Birmingham",
       "url": "https://open.spotify.com/track/7cxOL3nvmqd6w811wOlWT1"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Hard Workin' Man",
+        "url": "https://open.spotify.com/album/7pvtnidoCEO4BQlhIjNY7y"
+      },
+      "artists": [
+        {
+          "name": "Brooks & Dunn",
+          "url": "https://open.spotify.com/artist/0XKOBt59crntr7HQXXO8Yz"
+        }
+      ],
+      "duration_ms": 178493,
+      "name": "Hard Workin' Man",
+      "url": "https://open.spotify.com/track/51uGoXB3PbXLyeH0aPGo7H"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -939,26 +939,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Honky Tonk Angels",
-        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
+        "name": "It's All About to Change",
+        "url": "https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW"
       },
       "artists": [
         {
-          "name": "Dolly Parton",
-          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
-        },
-        {
-          "name": "Tammy Wynette",
-          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
-        },
-        {
-          "name": "Loretta Lynn",
-          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 171133,
-      "name": "It Wasn't God Who Made Honky Tonk Angels",
-      "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
+      "duration_ms": 152333,
+      "name": "Here's a Quarter (Call Someone Who Cares)",
+      "url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -983,18 +975,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "It's All About to Change",
-        "url": "https://open.spotify.com/album/3RBu5X7JheOzf1qtDVPkoW"
+        "name": "I Still Believe In You",
+        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Vince Gill",
+          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
         }
       ],
-      "duration_ms": 152333,
-      "name": "Here's a Quarter (Call Someone Who Cares)",
-      "url": "https://open.spotify.com/track/6BTCpaBTxlqGMOl0P6hvvX"
+      "duration_ms": 224800,
+      "name": "Don't Let Our Love Start Slippin' Away",
+      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1015,18 +1007,26 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "I Still Believe In You",
-        "url": "https://open.spotify.com/album/6sp6iOY2DhnS0UAUbdZMfS"
+        "name": "Honky Tonk Angels",
+        "url": "https://open.spotify.com/album/03vHLq8Zn6OMO2yaScSR8w"
       },
       "artists": [
         {
-          "name": "Vince Gill",
-          "url": "https://open.spotify.com/artist/3IhWQSrLj8EJjdvjFTpCyo"
+          "name": "Dolly Parton",
+          "url": "https://open.spotify.com/artist/32vWCbZh0xZ4o9gkz4PsEU"
+        },
+        {
+          "name": "Tammy Wynette",
+          "url": "https://open.spotify.com/artist/1LFKKuzn302wp15dYH28id"
+        },
+        {
+          "name": "Loretta Lynn",
+          "url": "https://open.spotify.com/artist/1FE0rls8gfQT3laAeRYNgl"
         }
       ],
-      "duration_ms": 224800,
-      "name": "Don't Let Our Love Start Slippin' Away",
-      "url": "https://open.spotify.com/track/2G6pvEfrwrJZS6NgqS3DqX"
+      "duration_ms": 171133,
+      "name": "It Wasn't God Who Made Honky Tonk Angels",
+      "url": "https://open.spotify.com/track/0zUXyDr4tSc7iSfdX7Zjtd"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1063,22 +1063,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "I'm From The Country",
-        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
-      },
-      "artists": [
-        {
-          "name": "Tracy Byrd",
-          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
-        }
-      ],
-      "duration_ms": 213973,
-      "name": "I'm From The Country - Single Version",
-      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "The Very Best of Travis Tritt",
         "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
       },
@@ -1091,6 +1075,22 @@
       "duration_ms": 213706,
       "name": "Take It Easy - 2006 Remaster",
       "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "I'm From The Country",
+        "url": "https://open.spotify.com/album/1dWB676MYae7xa9lLTe7lS"
+      },
+      "artists": [
+        {
+          "name": "Tracy Byrd",
+          "url": "https://open.spotify.com/artist/0xxJO75NeIAF5jYruLYIDT"
+        }
+      ],
+      "duration_ms": 213973,
+      "name": "I'm From The Country - Single Version",
+      "url": "https://open.spotify.com/track/5Lwc3DTWzX6JaW2x2PZezt"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1143,22 +1143,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Past The Point Of Rescue",
-        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
-      },
-      "artists": [
-        {
-          "name": "Hal Ketchum",
-          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
-        }
-      ],
-      "duration_ms": 177986,
-      "name": "Small Town Saturday Night",
-      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "T-R-O-U-B-L-E",
         "url": "https://open.spotify.com/album/1D6c3hHvx5NIfbhuX5VL0D"
       },
@@ -1171,6 +1155,22 @@
       "duration_ms": 180160,
       "name": "T-R-O-U-B-L-E",
       "url": "https://open.spotify.com/track/5YY64mW5PL5waJKUsIJIQt"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Past The Point Of Rescue",
+        "url": "https://open.spotify.com/album/1brBaxqOD8xGebXZF8ISfE"
+      },
+      "artists": [
+        {
+          "name": "Hal Ketchum",
+          "url": "https://open.spotify.com/artist/6Pys4xsyQVA5ZjkN2Ka2S7"
+        }
+      ],
+      "duration_ms": 177986,
+      "name": "Small Town Saturday Night",
+      "url": "https://open.spotify.com/track/7uLQTOxQ3nwwoHuxwt2AHJ"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Dream Walkin'",
-        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
-      },
-      "artists": [
-        {
-          "name": "Toby Keith",
-          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
-        }
-      ],
-      "duration_ms": 237160,
-      "name": "Dream Walkin'",
-      "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Dreamin' Out Loud",
         "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 242266,
       "name": "(This Ain't) No Thinkin' Thing",
       "url": "https://open.spotify.com/track/44YTMbU3aqvE7q09rjyUb3"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Dream Walkin'",
+        "url": "https://open.spotify.com/album/53C4nq7ZQT5bKeclRCfafR"
+      },
+      "artists": [
+        {
+          "name": "Toby Keith",
+          "url": "https://open.spotify.com/artist/2bA6fzP0lMAQ4kz6CF61w8"
+        }
+      ],
+      "duration_ms": 237160,
+      "name": "Dream Walkin'",
+      "url": "https://open.spotify.com/track/2N4Lw4tS3KBx0PMJ7ZJXiy"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Michael Peterson",
-        "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
-      },
-      "artists": [
-        {
-          "name": "Michael Peterson",
-          "url": "https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Drink, Swear, Steal & Lie",
-      "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Dreamin' Out Loud",
         "url": "https://open.spotify.com/album/1CBlavGzMBYjukEGkRtaFc"
       },
@@ -1939,6 +1923,22 @@
       "duration_ms": 188240,
       "name": "I Left Something Turned On At Home",
       "url": "https://open.spotify.com/track/1CxG3QsfkmcUYlxWwvOtz5"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Michael Peterson",
+        "url": "https://open.spotify.com/album/6SYfJ8JLGIP87pOiH9FMpC"
+      },
+      "artists": [
+        {
+          "name": "Michael Peterson",
+          "url": "https://open.spotify.com/artist/5SOL8Hz0JUmgBWHggBQ5Kz"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Drink, Swear, Steal & Lie",
+      "url": "https://open.spotify.com/track/3ZdAwMX7Lku81KGiqsjDeA"
     },
     {
       "added_at": "2026-02-11 22:52:29",

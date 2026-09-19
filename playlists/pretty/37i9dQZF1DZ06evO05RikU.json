@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAADkWUIL+yCbYXcGAIbMwWPI",
+  "snapshot_id": "aqstgAAAAABhZTsYTbs+ZdZBUr0D0q5J",
   "tracks": [
     {
       "added_at": null,
@@ -127,6 +127,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Sigo a Lo M\u00edo",
+        "url": "https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ"
+      },
+      "artists": [
+        {
+          "name": "Abraham Mateo",
+          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 198053,
+      "name": "\u00bfQu\u00e9 Ha Pasao'?",
+      "url": "https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Final Minutes",
         "url": "https://open.spotify.com/album/4BQki3gnvnzI2mTWWrmIbo"
       },
@@ -147,26 +167,6 @@
       "duration_ms": 195148,
       "name": "Final Minutes",
       "url": "https://open.spotify.com/track/6jTyOuZb23nhz43kwJHp4Q"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Sigo a Lo M\u00edo",
-        "url": "https://open.spotify.com/album/7mRlOJYRk9u7I8MteTkfzZ"
-      },
-      "artists": [
-        {
-          "name": "Abraham Mateo",
-          "url": "https://open.spotify.com/artist/2bxxlINUlcMQQb39K7IopR"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 198053,
-      "name": "\u00bfQu\u00e9 Ha Pasao'?",
-      "url": "https://open.spotify.com/track/5fxnoiUBJ5DMAQEYb2uFOr"
     },
     {
       "added_at": null,
@@ -211,6 +211,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IDGAF ERA (postdata)",
+        "url": "https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 161826,
+      "name": "Lo Bueno y Lo Malo",
+      "url": "https://open.spotify.com/track/1pOmmOjExecXVlLvg2iC6P"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MILAMORES",
         "url": "https://open.spotify.com/album/4pmn5TLgmxzsmX5OS7pOri"
       },
@@ -227,22 +243,6 @@
       "duration_ms": 166081,
       "name": "COBARDE",
       "url": "https://open.spotify.com/track/0R2cYqQ0pwNJ3Ii1kzj0kF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IDGAF ERA (postdata)",
-        "url": "https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 161826,
-      "name": "Lo Bueno y Lo Malo",
-      "url": "https://open.spotify.com/track/1pOmmOjExecXVlLvg2iC6P"
     },
     {
       "added_at": null,
@@ -287,6 +287,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "IDGAF ERA (postdata)",
+        "url": "https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8"
+      },
+      "artists": [
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 144720,
+      "name": "Yo Tambi\u00e9n",
+      "url": "https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "IDGAF ERA",
         "url": "https://open.spotify.com/album/045qBqjV98Y6TlpCx0hq3V"
       },
@@ -303,22 +319,6 @@
       "duration_ms": 170081,
       "name": "Saberte Querer",
       "url": "https://open.spotify.com/track/3L7wOKpveQxiCDlp5rpkeN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "IDGAF ERA (postdata)",
-        "url": "https://open.spotify.com/album/26TRZwSMrhMrTC3WkD6qM8"
-      },
-      "artists": [
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 144720,
-      "name": "Yo Tambi\u00e9n",
-      "url": "https://open.spotify.com/track/05ome1JpawDHUZ1VJeix8e"
     },
     {
       "added_at": null,
@@ -559,30 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whoppa (feat. Sofia Reyes and Farina)",
-        "url": "https://open.spotify.com/album/4mpHXNkpedPXUkpBgFzZOp"
-      },
-      "artists": [
-        {
-          "name": "Tinie Tempah",
-          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "FARIANA",
-          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
-        }
-      ],
-      "duration_ms": 217315,
-      "name": "Whoppa (feat. Sofia Reyes and Farina)",
-      "url": "https://open.spotify.com/track/55BKv7jjl2JKL85vbBRnIS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Esa Parte de M\u00ed",
         "url": "https://open.spotify.com/album/1fzcF6XsOj2O9UfxJm0LZd"
       },
@@ -603,6 +579,30 @@
       "duration_ms": 215200,
       "name": "Esa Parte de M\u00ed",
       "url": "https://open.spotify.com/track/5zE2XYc6zON8lIYgDi6ZvP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Whoppa (feat. Sofia Reyes and Farina)",
+        "url": "https://open.spotify.com/album/4mpHXNkpedPXUkpBgFzZOp"
+      },
+      "artists": [
+        {
+          "name": "Tinie Tempah",
+          "url": "https://open.spotify.com/artist/0Tob4H0FLtEONHU1MjpUEp"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "FARIANA",
+          "url": "https://open.spotify.com/artist/7cYik4OyfBXYV5Z2TI7p90"
+        }
+      ],
+      "duration_ms": 217315,
+      "name": "Whoppa (feat. Sofia Reyes and Farina)",
+      "url": "https://open.spotify.com/track/55BKv7jjl2JKL85vbBRnIS"
     },
     {
       "added_at": null,
@@ -826,11 +826,15 @@
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 128669,
-      "name": "De To'",
-      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
+      "duration_ms": 147482,
+      "name": "U\u00f1as Afiladas",
+      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
     },
     {
       "added_at": null,
@@ -902,15 +906,11 @@
         {
           "name": "Sof\u00eda Reyes",
           "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
         }
       ],
-      "duration_ms": 147482,
-      "name": "U\u00f1as Afiladas",
-      "url": "https://open.spotify.com/track/3lQhZXwbJmu5s2tp9LHKzT"
+      "duration_ms": 128669,
+      "name": "De To'",
+      "url": "https://open.spotify.com/track/6DqcnWUGHiPYXPmlfiyAKu"
     },
     {
       "added_at": null,
@@ -1027,26 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sped Up Songs Vol. 1",
-        "url": "https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L"
-      },
-      "artists": [
-        {
-          "name": "High and Low HITS",
-          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
-        },
-        {
-          "name": "Sof\u00eda Reyes",
-          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
-        }
-      ],
-      "duration_ms": 170765,
-      "name": "1, 2, 3 - Sped Up",
-      "url": "https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "coRaZ\u00d3n fR\u00edO",
         "url": "https://open.spotify.com/album/1BOeRBIyle4Z12OTGe6zHn"
       },
@@ -1063,6 +1043,26 @@
       "duration_ms": 204633,
       "name": "coRaZ\u00d3n fR\u00edO",
       "url": "https://open.spotify.com/track/63cNIqiYClDvGsvyxaAfA3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sped Up Songs Vol. 1",
+        "url": "https://open.spotify.com/album/0aWkwVZqDzu02AIUhdqX7L"
+      },
+      "artists": [
+        {
+          "name": "High and Low HITS",
+          "url": "https://open.spotify.com/artist/5Yx5W4EetQuOwbvHrCFL9Y"
+        },
+        {
+          "name": "Sof\u00eda Reyes",
+          "url": "https://open.spotify.com/artist/0haZhu4fFKt0Ag94kZDiz2"
+        }
+      ],
+      "duration_ms": 170765,
+      "name": "1, 2, 3 - Sped Up",
+      "url": "https://open.spotify.com/track/2RJnhDvc6Z4xwMX6hhkeRX"
     },
     {
       "added_at": null,

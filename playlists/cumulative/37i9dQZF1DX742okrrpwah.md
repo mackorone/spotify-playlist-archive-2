@@ -4,7 +4,7 @@
 
 > Miley Cyrus, GIMS, Louane, Djadja & Dinaz, HUGEL x Neton Vega et Maluma x Shakira au top des nouveautés de la semaine !
 
-10,979 songs - 23 day 15 hr 40 min
+10,979 songs - 23 day 15 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -740,6 +740,7 @@
 | [Aura \(feat\. Bryson Tiller\)](https://open.spotify.com/track/00pby5wNQrSReTNF1sv1SI) | [Ama](https://open.spotify.com/artist/2tAqnHDAgnGtjnlzyoa38L), [Bryson Tiller](https://open.spotify.com/artist/2EMAnMvWE2eb56ToJVfCWs) | [AMA](https://open.spotify.com/album/6p11S4bs4hMNeT0Z976udB) | 4:00 | 2026-06-18 | 2026-06-26 |
 | [Aussi simple que toi](https://open.spotify.com/track/1i4vvuR8zdHunRRPpv06sR) | [Lenaïg](https://open.spotify.com/artist/7LBRgobZF7IvkSKljcuGDb) | [Aussi simple que toi](https://open.spotify.com/album/02jmgGQEDT0qHOV9oRMxbr) | 2:38 | 2025-08-21 | 2025-08-29 |
 | [Autisme](https://open.spotify.com/track/2LDmzuSF1E6EeUiHBrj7OK) | [Bolivard](https://open.spotify.com/artist/4I9Jjqu3WodJ5v8VOoeWyE) | [Autisme](https://open.spotify.com/album/0MKIA5SiY1FzMZuYDoJ9Mz) | 2:00 | 2026-03-19 | 2026-03-27 |
+| [Autobahn](https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 4:18 | 2026-09-17 |  |
 | [Autodéfense](https://open.spotify.com/track/2D7IEFxCt1DU1mac0K8yEL) | [Camille Yembe](https://open.spotify.com/artist/1SRVawVdGv7lue3kE6Ajl9), [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf) | [Jeune & Laide](https://open.spotify.com/album/3oavlb7bKt7NljH3CL5uTZ) | 2:40 | 2026-05-21 | 2026-05-29 |
 | [Automatic](https://open.spotify.com/track/0PEcIO2gpBApHbsVSlRaPh) | [Jessie Ware](https://open.spotify.com/artist/5Mq7iqCWBzofK39FBqblNc) | [Automatic](https://open.spotify.com/album/43UHKjoE3zZjtiD9nmIt0A) | 2:57 | 2026-03-26 | 2026-04-03 |
 | [Automatic](https://open.spotify.com/track/4SNHeDCR40LwXL16BfzmpX) | [Roosevelt](https://open.spotify.com/artist/4AQrqVz6BYwy29iMxcGtx7) | [Automatic](https://open.spotify.com/album/5vADgMWFWWTBPwexXjBEAi) | 3:39 | 2024-05-23 | 2024-06-01 |
@@ -2447,7 +2448,7 @@
 | [Diamond](https://open.spotify.com/track/5EOhI3uwuyUnGshN7CsRqI) | [Tom Grennan](https://open.spotify.com/artist/5SHxzwjek1Pipl1Yk11UHv) | [Everywhere I Went, Led Me to Where I Didn't Want to Be](https://open.spotify.com/album/11MZEo3reiFQw3T43pkbFM) | 3:30 | 2025-08-14 | 2025-08-22 |
 | [Diamond Heart](https://open.spotify.com/track/5XoKMYd0KgE4rcdb4o0ZfO) | [BENNETT](https://open.spotify.com/artist/1r43wW70tnGUauQYvY5w48), [Timmy Trumpet](https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ) | [Diamond Heart](https://open.spotify.com/album/1KLI9C1c6EHMs2dJXDXK3W) | 2:32 | 2025-02-20 | 2025-03-01 |
 | [Diamonds](https://open.spotify.com/track/4l1lNsZQGiq597PgORdJgM) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Welcome to the Mood](https://open.spotify.com/album/3UtLsPn5V412E1SeqzFOP2) | 3:21 | 2025-09-11 | 2025-09-19 |
-| [DIAMONDS](https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:38 | 2026-09-17 |  |
+| [Diamonds](https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:38 | 2026-09-17 |  |
 | [Diamonds](https://open.spotify.com/track/4UjFP3NSvSb9YoH2AgsmQb) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Diamonds](https://open.spotify.com/album/2dkedP4DgTqckyI0vcvsQz) | 2:45 | 2026-02-12 | 2026-02-20 |
 | [Diana \(with Hamza\)](https://open.spotify.com/track/2c3MBL8fpnhzBGHFJWQ8yU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [Diana \(with Hamza\)](https://open.spotify.com/album/3A3EDLMrcdMWWsv2AcGgEf) | 4:09 | 2024-11-14 | 2024-11-22 |
 | [Diapason](https://open.spotify.com/track/1dBIUdxZnd3ula7ajkegSt) | [2L](https://open.spotify.com/artist/2N6RfSP8wXKS6cTraTbqKj) | [Aria](https://open.spotify.com/album/7eyBsX2SGwVPl4ch6GX0xq) | 2:52 | 2026-02-19 | 2026-02-27 |
@@ -5662,6 +5663,7 @@
 | [LONDON ST TROPEZ](https://open.spotify.com/track/6kyi8X8pjlkMROgFNb3ttA) | [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [DOM PERIGNON CRYING \(Bonus\)](https://open.spotify.com/album/6DLCUye2fATmgvFgDcAr73) | 3:32 | 2025-12-11 | 2025-12-19 |
 | [London Summers](https://open.spotify.com/track/1vCnTZE7PVUakwkqCnIhrn) | [Odeal](https://open.spotify.com/artist/2BPwxhCvvcb8xDl8GWIjbh) | [London Summers](https://open.spotify.com/album/6L0fjCZSfZxhavSOOh4ohF) | 3:37 | 2025-05-29 | 2025-06-06 |
 | [Londres en Mars\_freestyle 2025](https://open.spotify.com/track/05pGpNnBnOwIAeF4zaGEd2) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Londres en Mars\_freestyle 2025](https://open.spotify.com/album/2w09jg3MswZxYhs5v8xjB3) | 3:28 | 2025-05-08 | 2025-05-16 |
+| [Lonely](https://open.spotify.com/track/4QV90sdysX82x6GyFX2URa) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [POST GLOOM](https://open.spotify.com/album/3C5V7kQaYRWbFanQCEHiTd) | 4:55 | 2026-09-17 |  |
 | [Lonely](https://open.spotify.com/track/2hCM8z2UlTDQV9yXjga8Ox) | [Fcukers](https://open.spotify.com/artist/3UtzOHYm3lQALkKzVD4wyO) | [Ö](https://open.spotify.com/album/4RrsgnUbZIFTw42Apa8lXO) | 2:58 | 2026-03-26 | 2026-04-03 |
 | [Lonely Fight](https://open.spotify.com/track/2K5UBMkyxh4NuATA6JrMhD) | [Mk.gee](https://open.spotify.com/artist/7tr9pbgNEKtG0GQTKe08Tz) | [Lonely Fight](https://open.spotify.com/album/4tXUFRTPU3KhSBhAYwzWCW) | 3:49 | 2024-08-22 | 2024-08-30 |
 | [Lonely in the Future](https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv) | [The Strokes](https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V) | [Reality Awaits](https://open.spotify.com/album/6x0nmCMjHeuN3rYBmI5Bor) | 3:20 | 2026-07-23 | 2026-07-31 |
@@ -9968,8 +9970,6 @@
 | [TP sur TP](https://open.spotify.com/track/5pEftKLE1dyuOLTewNQZeX) | [Jul](https://open.spotify.com/artist/3IW7ScrzXmPvZhB27hmfgy) | [TP sur TP](https://open.spotify.com/album/0QVdVUGfsa967bG0cU6Xfo) | 3:06 | 2025-12-04 | 2025-12-12 |
 | [traces \(feat\. Molina\)](https://open.spotify.com/track/2g3v3n7VuqYTeNjDrNssCa) | [Coals](https://open.spotify.com/artist/6epDO0nPVXpbXBUt4Otiik), [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF) | [traces \(feat\. Molina\)](https://open.spotify.com/album/2eKN8dh9befE2ztXZU4jqV) | 3:07 | 2026-05-28 | 2026-06-05 |
 | [Traces \(feat\. SDM\)](https://open.spotify.com/track/5vAzHFS0RL5lVEeuPD1om9) | [Grand Corps Malade](https://open.spotify.com/artist/3PsyPWjsftbfeXGorZv4AM), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Traces \(feat\. SDM\)](https://open.spotify.com/album/4k0zDBe3eVPcN1ZQM368OP) | 3:14 | 2026-08-28 | 2026-09-04 |
-| [Track 17](https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 0:00 | 2026-09-17 |  |
-| [Track 5](https://open.spotify.com/track/4QV90sdysX82x6GyFX2URa) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [POST GLOOM](https://open.spotify.com/album/3C5V7kQaYRWbFanQCEHiTd) | 0:00 | 2026-09-17 |  |
 | [Track Team](https://open.spotify.com/track/4DXaHQVSIEn6TzCvTOKJP8) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [Track Team](https://open.spotify.com/album/5OjS6NVhELa2DEJPenjsVL) | 3:25 | 2026-07-09 | 2026-07-17 |
 | [Trade Places](https://open.spotify.com/track/3yBI1IVune0k7Tsmcy8BVh) | [Jack Harlow](https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ) | [Monica](https://open.spotify.com/album/4TcxLc5EAuqIgYxXMD3ZES) | 3:02 | 2026-03-12 | 2026-03-20 |
 | [TRAHISON POUR DU PAPERS](https://open.spotify.com/track/386lC3S1fta3sRqXai233D) | [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [THUG CEREMONY](https://open.spotify.com/album/7HXLcrvfG2UXJcZFLdKfB5) | 2:29 | 2026-01-15 | 2026-01-23 |

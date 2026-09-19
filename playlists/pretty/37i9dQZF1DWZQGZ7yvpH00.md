@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 
 > guitarras agüitadas pa' cantarle al amor y al desamor 💔🙁 RIA & Jasiel Nuñez en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 973,243 likes - 76 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 973,198 likes - 76 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZQGZ7yvpH00.md) - [plain]
 | 75 | [No Te Pido Mucho](https://open.spotify.com/track/3HEkUA58ydMr4nWxe3KPQo) | [Linea Personal](https://open.spotify.com/artist/5Bb18koIu6bYuvZWzYKkLJ) | [No Te Pido Mucho](https://open.spotify.com/album/4FZyG6QEWIcdaBh2SrPaaX) | 3:50 |
 | 76 | [MI CUERNO](https://open.spotify.com/track/7uudc322twEMQnJiFL1KNL) | [Distinto](https://open.spotify.com/artist/5CiNuMeCD53LOJd4M2HDBz), [Yng H](https://open.spotify.com/artist/73fECKkmLG1JhM4FeWmOib), [KVYN](https://open.spotify.com/artist/1xznCruZ0AWbDzsPXTX3d6) | [MI CUERNO](https://open.spotify.com/album/21GlXlFLPqtfNaBjQi0gAk) | 3:40 |
 
-Snapshot ID: `AAAAAE0GDKtTgKGXK8i6pP1YJX2vJ1bK`
+Snapshot ID: `AAAAAI3HpiKalk54qUwr1bADqr5thCt/`

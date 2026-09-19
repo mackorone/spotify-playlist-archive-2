@@ -1,12 +1,12 @@
 {
   "description": "Sofia the First: Royal Magic is now available to watch on Disney Jr. and Disney+!",
-  "num_followers": 60666,
+  "num_followers": 60673,
   "original_name": "Disney Junior Music",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGSuFsiriX7RwUWkYk9o7jhMMBH3",
+  "snapshot_id": "AAAAAGFrJ1+nDrlbaJ1aSdBDTYcu/y+Q",
   "tracks": [
     {
       "added_at": "2026-08-28 19:39:28",
@@ -2651,6 +2651,34 @@
       "duration_ms": 163840,
       "name": "Make Them Proud",
       "url": "https://open.spotify.com/track/11gTqbjA70dOFUwUEmv03n"
+    },
+    {
+      "added_at": "2026-09-18 04:00:44",
+      "album": {
+        "name": "Disney Jr. Music: Ozzy Fox",
+        "url": "https://open.spotify.com/album/4KYVNrgVnfGiZwLlanHBFL"
+      },
+      "artists": [
+        {
+          "name": "Disney Junior",
+          "url": "https://open.spotify.com/artist/2mo58TszPz2XVmsp1IZt0H"
+        },
+        {
+          "name": "Ozzy Fox",
+          "url": "https://open.spotify.com/artist/1YzwZ87k1mqvNAhrCtSO1i"
+        },
+        {
+          "name": "Mama Fox",
+          "url": "https://open.spotify.com/artist/1oTEIpktT99xzq5awLGKiN"
+        },
+        {
+          "name": "Papa Fox",
+          "url": "https://open.spotify.com/artist/7mUmhKMIqiZwOS1kEZjUlU"
+        }
+      ],
+      "duration_ms": 119127,
+      "name": "I'll Come Back to You",
+      "url": "https://open.spotify.com/track/44urtUma795UpdADt2MLU5"
     },
     {
       "added_at": "2026-05-29 13:00:03",

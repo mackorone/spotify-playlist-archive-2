@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ゲシュタルト乙女 Gestalt Girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,472 likes - 99 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,492 likes - 99 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 | 98 | [火星](https://open.spotify.com/track/3oDP1uwuP3u2l0s63j5idI) | [Pona](https://open.spotify.com/artist/3LLJ4NH4YVYFc5xGueTYxv) | [火星](https://open.spotify.com/album/0FWlTUUDyCEkRzpE9OKm8J) | 5:02 |
 | 99 | […counting stars, sometimes for hours, sometimes in passing](https://open.spotify.com/track/0ETHNFu1tTdU01tCYR9pMX) | [flip\-flops](https://open.spotify.com/artist/0kIWft47tbC7DorFdGEDWz) | […counting stars, sometimes for hours, sometimes in passing](https://open.spotify.com/album/5eowXqDKcmwLK0sp9L2Eqk) | 3:43 |
 
-Snapshot ID: `AAAAADoS2h08ziJhXRp8r1Pju7pB2T+D`
+Snapshot ID: `AAAAAHf6Uutix5ylrCvy80xFyUfncLhF`

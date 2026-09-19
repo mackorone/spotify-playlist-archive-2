@@ -2,9 +2,9 @@
 
 ### [Hot Hits Indonesia](https://open.spotify.com/playlist/37i9dQZF1DXa2EiKmMLhFD)
 
-> Hits terpanas dari LISA, Tulus, eńau, Ari Lesmana, Olivia Rodrigo, serta artis terfavorit Anda dari dalam negeri dan mancanegara.
+> Hits terpanas dari ROSÉ, Tulus, eńau, Ari Lesmana, Olivia Rodrigo, serta artis terfavorit Anda dari dalam negeri dan mancanegara.
 
-406 songs - 1 day 1 hr 7 min
+407 songs - 1 day 1 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Akhir Tak Bahagia](https://open.spotify.com/track/304FEq5eVvrxur9KdHhC5I) | [Misellia](https://open.spotify.com/artist/5IjwAAk3njAeiFY1InInsn) | [Penyendiri](https://open.spotify.com/album/70JRb7Z5FHl8lcyUXmNFHc) | 3:03 | 2024-04-08 | 2025-01-18 |
 | [Aku Dah Lupa](https://open.spotify.com/track/3wHU5wfyf0uw6TpiE98Jxn) | [MikkyZia](https://open.spotify.com/artist/2XGXsUKlvlFdk5LYXWTnE3) | [Aku Dah Lupa](https://open.spotify.com/album/4Yf4HKfuUQgLC3yyCGCz0W) | 3:02 | 2025-03-16 | 2025-10-07 |
 | [Aku Yang Jatuh Cinta](https://open.spotify.com/track/2JqsSFo6HqOxnmxBtHfNY6) | [Dudy Oris](https://open.spotify.com/artist/6YPfs6tdZXvnlzgZNU3SYT) | [Aku Yang Jatuh Cinta](https://open.spotify.com/album/3JyJQxbVR1nCUdNn1aXYTX) | 3:16 | 2024-05-23 | 2025-03-22 |
-| [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 | 2025-10-06 |  |
+| [Alamak](https://open.spotify.com/track/1vkwlZncsYqFukl2Q7M6Fe) | [Rizky Febian](https://open.spotify.com/artist/28DdkLhrzQNizZ0ExQpyku), [Adrian Khalif](https://open.spotify.com/artist/6X28gNASnalAWseUA8uI4X) | [Alamak](https://open.spotify.com/album/5oUWkx2j4lVO8u7kM3XnJT) | 3:29 | 2025-10-06 | 2026-09-19 |
 | [Always](https://open.spotify.com/track/2LlOeW5rVcvl3QcPNPcDus) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA) | [NEVER ENOUGH](https://open.spotify.com/album/7ivbFszr1TbVadj89BIy1y) | 3:45 | 2023-04-20 | 2024-02-21 |
 | [American Girls](https://open.spotify.com/track/7gtG45ieyQzKtNKobfLd49) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 3:33 | 2026-03-05 | 2026-05-15 |
 | [Angels Like You](https://open.spotify.com/track/1daDRI9ahBonbWD8YcxOIB) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Plastic Hearts](https://open.spotify.com/album/5BRhg6NSEZOj0BR6Iz56fR) | 3:16 | 2023-03-30 | 2024-02-21 |
@@ -227,6 +227,7 @@
 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/3Q6DjwdB1gfLJMq1xkGov9) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/11lUbzZyDxoBy4yJYASpQy) | 4:34 | 2023-11-25 | 2024-01-26 |
 | [Nemen \- Hiphop Dangdut Version](https://open.spotify.com/track/6UoW3rtYmYB6DE5xzNors8) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen \(Hiphop Dangdut Version\)](https://open.spotify.com/album/7MpDfyRq8fXGiIQi2ownvc) | 4:34 | 2023-09-01 | 2023-12-03 |
 | [Nemen HipHop Dangdut Version](https://open.spotify.com/track/0x1pt89JYeC7MPZ2JsFCZS) | [NDX A.K.A.](https://open.spotify.com/artist/1IDBhlpDyKr53UKKxXRHXD) | [Nemen HipHop Dangdut Version](https://open.spotify.com/album/0xd3JAsG3sUFwWqSgeaZT3) | 4:34 | 2023-06-15 | 2023-09-07 |
+| [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 | 2026-09-18 |  |
 | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/track/7ov3TDp5D00Rnu5R1viX4w) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [New Woman \(feat\. ROSALÍA\)](https://open.spotify.com/album/2ha4ucrONN0cihLMkP02Ch) | 2:59 | 2024-08-16 | 2024-09-14 |
 | [Ngapain Repot](https://open.spotify.com/track/7EJn4U6IySwLSfLZX07muY) | [Toton Caribo](https://open.spotify.com/artist/0v1axjG0KwIz3aciZffFMu), [Wizz Baker](https://open.spotify.com/artist/4PUHVTv6waMpd1JUP7G6n2), [Fresly Nikijuluw](https://open.spotify.com/artist/27CTGmSgvs2cUMSErJ1Thc) | [Ngapain Repot](https://open.spotify.com/album/0hEt3PH6b53bkKUcjG09Ee) | 4:14 | 2025-07-04 | 2026-04-11 |
 | [Nina](https://open.spotify.com/track/1zFaLYA10ImwEejge3F5nm) | [.Feast](https://open.spotify.com/artist/7Gy1PxqrgsiqWF6JNYPHeB) | [Nina](https://open.spotify.com/album/2LVn7NDGoMSmFCkLqRK2o4) | 4:37 | 2024-09-24 |  |

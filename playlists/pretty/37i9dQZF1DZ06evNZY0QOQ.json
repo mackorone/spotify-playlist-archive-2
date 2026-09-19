@@ -1,12 +1,12 @@
 {
   "description": "This is CKay. The essential tracks, all in one playlist.",
-  "num_followers": 24701,
+  "num_followers": 24706,
   "original_name": "This Is CKay",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAABixq5cymSmQJkPxd1rrFJt",
+  "snapshot_id": "aqstgAAAAADwUT5zctwn51apouTZR5X9",
   "tracks": [
     {
       "added_at": null,
@@ -283,22 +283,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "E CLEAR",
-        "url": "https://open.spotify.com/album/4t2mGEpHQDrrSfUNiqdSKm"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 164210,
-      "name": "E CLEAR",
-      "url": "https://open.spotify.com/track/1D2K8VnbpswyKR401j2fl1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BADAMINTON",
         "url": "https://open.spotify.com/album/7x77oJz7ECvknq4S9kISNl"
       },
@@ -311,6 +295,22 @@
       "duration_ms": 127384,
       "name": "BADAMINTON",
       "url": "https://open.spotify.com/track/7tlmvrVlRrLw0m02LPfqTe"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "E CLEAR",
+        "url": "https://open.spotify.com/album/4t2mGEpHQDrrSfUNiqdSKm"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 164210,
+      "name": "E CLEAR",
+      "url": "https://open.spotify.com/track/1D2K8VnbpswyKR401j2fl1"
     },
     {
       "added_at": null,
@@ -411,26 +411,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "King Promise",
-          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
-        }
-      ],
-      "duration_ms": 165600,
-      "name": "ZERO",
-      "url": "https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sad Romance",
         "url": "https://open.spotify.com/album/0Tm2AxwlhkZ234TRIe7IoY"
       },
@@ -455,6 +435,26 @@
       "duration_ms": 305941,
       "name": "WATAWI (feat. Davido, Focalistic & Abidoza)",
       "url": "https://open.spotify.com/track/0mGcsaIOK2wL7ECV3BN5XD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "King Promise",
+          "url": "https://open.spotify.com/artist/4tIKaxUmpXzshok2yCnwdf"
+        }
+      ],
+      "duration_ms": 165600,
+      "name": "ZERO",
+      "url": "https://open.spotify.com/track/0A0guIoWqPINmiLwWu2Phg"
     },
     {
       "added_at": null,
@@ -495,22 +495,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 178181,
-      "name": "NDA",
-      "url": "https://open.spotify.com/track/4UijNUSyQ3b7XehryTR7jf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 211293,
       "name": "dtf",
       "url": "https://open.spotify.com/track/4RAuM2qWLBDrNtzfz3bBKs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 178181,
+      "name": "NDA",
+      "url": "https://open.spotify.com/track/4UijNUSyQ3b7XehryTR7jf"
     },
     {
       "added_at": null,
@@ -563,26 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Phyno",
-          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
-        }
-      ],
-      "duration_ms": 203894,
-      "name": "PARA",
-      "url": "https://open.spotify.com/track/10pjc5OzTnqCwzVQLuDtqi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "love nwantiti x dumebi (Mid\u00e9 Naike Remix)",
         "url": "https://open.spotify.com/album/7AzISzDV84yvlneRn6OL3j"
       },
@@ -603,6 +583,26 @@
       "duration_ms": 194181,
       "name": "love nwantiti x dumebi - Mid\u00e9 Naike Remix",
       "url": "https://open.spotify.com/track/5h3lq0x9KKwYhPcWAUVdOj"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Phyno",
+          "url": "https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl"
+        }
+      ],
+      "duration_ms": 203894,
+      "name": "PARA",
+      "url": "https://open.spotify.com/track/10pjc5OzTnqCwzVQLuDtqi"
     },
     {
       "added_at": null,
@@ -643,22 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 142500,
-      "name": "RABA",
-      "url": "https://open.spotify.com/track/1bhywSiaWYWRJR9gIhFaHv"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CKay The Second",
         "url": "https://open.spotify.com/album/3TDqyvMmWlK34WpAxwG6hf"
       },
@@ -675,6 +659,22 @@
       "duration_ms": 238515,
       "name": "nothing spoil",
       "url": "https://open.spotify.com/track/2E8pricPqOChg1bWIf6fLS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 142500,
+      "name": "RABA",
+      "url": "https://open.spotify.com/track/1bhywSiaWYWRJR9gIhFaHv"
     },
     {
       "added_at": null,
@@ -715,26 +715,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "BANGER BOY",
-        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        },
-        {
-          "name": "Maleek Berry",
-          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
-        }
-      ],
-      "duration_ms": 151698,
-      "name": "SEXY",
-      "url": "https://open.spotify.com/track/6pLBB7DYuYBDu2cVVDz3AL"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "CKay The First",
         "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
       },
@@ -751,6 +731,26 @@
       "duration_ms": 172653,
       "name": "oliver kahn (feat. Boj)",
       "url": "https://open.spotify.com/track/3eUi4fK8AxqpuAt086XBUv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "BANGER BOY",
+        "url": "https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        },
+        {
+          "name": "Maleek Berry",
+          "url": "https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg"
+        }
+      ],
+      "duration_ms": 151698,
+      "name": "SEXY",
+      "url": "https://open.spotify.com/track/6pLBB7DYuYBDu2cVVDz3AL"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "CKay The First",
+        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
+      },
+      "artists": [
+        {
+          "name": "CKay",
+          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
+        }
+      ],
+      "duration_ms": 159813,
+      "name": "kalakuta",
+      "url": "https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Black Panther: Wakanda Forever - Music From and Inspired By",
         "url": "https://open.spotify.com/album/06RK0wX4GqHcxBtHlVoGH5"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 188920,
       "name": "Anya Mmiri",
       "url": "https://open.spotify.com/track/4m8YqoUZLToSUjpNmb7m5X"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CKay The First",
-        "url": "https://open.spotify.com/album/6lheAtw3IcJvflIhLbykih"
-      },
-      "artists": [
-        {
-          "name": "CKay",
-          "url": "https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz"
-        }
-      ],
-      "duration_ms": 159813,
-      "name": "kalakuta",
-      "url": "https://open.spotify.com/track/0X5yARwJLSCTFhuJTSXvFU"
     },
     {
       "added_at": null,

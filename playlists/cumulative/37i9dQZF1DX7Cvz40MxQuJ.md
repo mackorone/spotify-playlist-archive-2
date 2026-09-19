@@ -4,7 +4,7 @@
 
 > it’s giving medieval castlecore✨🥀
 
-89 songs - 4 hr 47 min
+90 songs - 4 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -89,6 +89,7 @@
 | [The Fairy Round \(Galliard\)](https://open.spotify.com/track/217B2aNAKMidvy7RDSfMaA) | [Anthony Holborne](https://open.spotify.com/artist/5wBrgZigt8RFVrcARWc9bD), [Lutz Kirchhof](https://open.spotify.com/artist/22dMjgcNzSEmrWEtU8JBVH) | [Lute Music for Witches and Alchemists](https://open.spotify.com/album/3PdQWrrT44V9EoZjhccESU) | 3:24 | 2025-01-10 |  |
 | [The Nightfall Citadel](https://open.spotify.com/track/0lmbC4IW75xO161eVAyzyC) | [Sylvian Alisa](https://open.spotify.com/artist/2x3TxesKK8BtAPERBn86HW) | [The Nightfall Citadel](https://open.spotify.com/album/0s7OB5TiEWL4FJVvEEfk1A) | 3:57 | 2025-02-24 | 2026-04-21 |
 | [The Old Bachelor, Z\. 607: Hornpipe](https://open.spotify.com/track/1ItE3sIOKKw9EctYXs1Ook) | [Henry Purcell](https://open.spotify.com/artist/3tMLo1k3iUo82coMLWXzxq), [Les Musiciens De Saint\-Julien](https://open.spotify.com/artist/3BOobwybtBO4mg4PDHRL5Q), [François Lazarevitch](https://open.spotify.com/artist/1w0VWTx6MNhPyOiUdqlEwm) | [Purcell: Songs & Dances](https://open.spotify.com/album/1t1qYcX0EJkhIFEXjUV5JK) | 2:16 | 2025-01-10 |  |
+| [The Parting Glass \(Arr\. Huws for Harp\)](https://open.spotify.com/track/4Si1jKkStIBF2tBX1uRd2i) | [Alis Huws](https://open.spotify.com/artist/2j7K232K5qH6xEr8OsmK1S) | [The Parting Glass \(Arr\. Huws for Harp\)](https://open.spotify.com/album/3qjj8sLPmY4Ul35AW4WD8d) | 2:23 | 2026-09-18 |  |
 | [Theme from "The Last of Us" \(Transcr\. Trifonov for Piano\)](https://open.spotify.com/track/0vmsddNToA3Q7m5BQF6DVX) | [Gustavo Santaolalla](https://open.spotify.com/artist/4W3fa7tiXGVXl3KilbACqt), [Daniil Trifonov](https://open.spotify.com/artist/1fUhTALoWXPL6PZSkKImY9) | [Santaolalla: Theme from "The Last of Us" \(Transcr\. Trifonov for Piano\)](https://open.spotify.com/album/3pfA3PO1UEEyMxO9YVB0gn) | 3:39 | 2026-07-31 |  |
 | [Trio in E\-Flat Major: II\. Andantino](https://open.spotify.com/track/3XmGnDuVbLeqlkaj4LfEeK) | [Bernhard Joachim Hagen](https://open.spotify.com/artist/4C5ayULfDjchGDFpclI1bx), [Miguel Rincón](https://open.spotify.com/artist/3ulEUUEBKMeONSMaZwXthb), [Il Pomo D'oro](https://open.spotify.com/artist/5a3D9f58cCv9klOc1cAG9z) | [Hagen: Trio in E\-Flat Major: II\. Andantino](https://open.spotify.com/album/7mHmOgpxipnC6B6OA062sM) | 4:09 | 2025-03-21 |  |
 | [Trio Sonata in B minor for 2 Violins and Continuo, Op\. 1/11 , RV 79: 4\. Gavotta \(Presto\)](https://open.spotify.com/track/2rDfXeP12L6j0mHzwYbQsW) | [Antonio Vivaldi](https://open.spotify.com/artist/2QOIawHpSlOwXDvSqQ9YJR), [Salvatore Accardo](https://open.spotify.com/artist/4J806QjdyKrK4guMFMRzKc), [Franco Gulli](https://open.spotify.com/artist/37crzqlMU7x1sZk631tAmO), [Rohan De Saram](https://open.spotify.com/artist/1gJTdgLCmVRR10pFHUxY1I), [Bruno Canino](https://open.spotify.com/artist/6mxKqEHPXH9qUGaFLFnkfR) | [Baroque Dance](https://open.spotify.com/album/55cs1VtJkHiHxuVk4RcPBh) | 1:21 | 2025-01-10 |  |

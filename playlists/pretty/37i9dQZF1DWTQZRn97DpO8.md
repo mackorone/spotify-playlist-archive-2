@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 
 > 🍯🍯🍯<br/>Photo : Anaïs Cardot
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,385 likes - 50 songs - 2 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,356 likes - 50 songs - 2 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 3 | [Douter](https://open.spotify.com/track/5fpLrRSDJ42NhWy47dOG6K) | [Wamen](https://open.spotify.com/artist/3IrNp8pf0ugwmIEiGJCRse) | [Douter](https://open.spotify.com/album/4pyppyNOXJ5iKmT9g9vnTI) | 2:47 |
 | 4 | [Juliette + Roméo](https://open.spotify.com/track/76bIquLytt10pGhlygRqjC) | [Ruthee](https://open.spotify.com/artist/43Lkhar9oQ9sIpFXzwhe0T) | [Juliette + Roméo](https://open.spotify.com/album/1PjYU7nNGG5eZ0phJQiwSq) | 2:33 |
 | 5 | [INTUITION](https://open.spotify.com/track/5BoIGwh0ZRKnayGvo0HA2D) | [Jahïem Solo](https://open.spotify.com/artist/5XN9cJro2ndaoRsUaS7huS), [Joe Mambo](https://open.spotify.com/artist/09swwlqrjYXfuZlrsrbNKD), [ROMderful](https://open.spotify.com/artist/3Aum3IcJEKuGsWVPBZnvyU) | [INTUITION](https://open.spotify.com/album/0oCiYki0bGhzpQG3YeOioz) | 2:24 |
-| 6 | [OAMPD](https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl) | [JEUDI](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [OAMPD](https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl) | 2:00 |
+| 6 | [OAMPD](https://open.spotify.com/track/47aEofUzey1BNJ1rvkWrxl) | [JADE](https://open.spotify.com/artist/1O6n6qqb7yPzzMeBq7Ytwl) | [OAMPD](https://open.spotify.com/album/20vW9zgw5DdNuPfOynKXPl) | 2:00 |
 | 7 | [NANANERE](https://open.spotify.com/track/3lDx7CLOfzWjZsWIAfxtOT) | [BINO\*](https://open.spotify.com/artist/5tbe22xZ7VzSgXAFQhoWiC) | [4PLAY](https://open.spotify.com/album/5v9GjkbqWTjqleEeHmGcQD) | 2:35 |
 | 8 | [Vibe](https://open.spotify.com/track/5IoX2lKGCIwqEKIQHzTEkf) | [Jäde](https://open.spotify.com/artist/52CEzAtIDEJInO8yL0blFB) | [Sexe & the city](https://open.spotify.com/album/3X8Oq3CzTAy1BSHp8nSZvS) | 2:07 |
 | 9 | [Ride](https://open.spotify.com/track/5PunI80ZT61r1ZhOYsWagm) | [Lestin](https://open.spotify.com/artist/3dARbB5oGnzJMklK69pwxh) | [Studio Session](https://open.spotify.com/album/2XzlS0seDpzYCgbvGhIGda) | 2:25 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTQZRn97DpO8.md) - [plain]
 | 49 | [Changer](https://open.spotify.com/track/4DxrLnzLmGNVh5yPc28HZg) | [Haz.r](https://open.spotify.com/artist/27v9yUSHN9y7rMbX92unra) | [Soleil Nomade](https://open.spotify.com/album/0YZV68wXuCTYihBpUBRrRh) | 2:53 |
 | 50 | [Plus besoin de faire semblant.](https://open.spotify.com/track/26yZ6r1bN4IKtqiqBPaYBX) | [Ninha](https://open.spotify.com/artist/5Kgu7ezxEReIInR1o0PVy2) | [Plus besoin de faire semblant.](https://open.spotify.com/album/6YdwlxH92Sg5jasJeXTdRa) | 2:54 |
 
-Snapshot ID: `AAAAAC6duu3fGdkkaeyY5xSCvwKkSW/z`
+Snapshot ID: `AAAAAGnYEXz3rfSZryaEpkzrdzzAWr/+`

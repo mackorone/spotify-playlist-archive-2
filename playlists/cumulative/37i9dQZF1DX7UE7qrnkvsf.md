@@ -4,7 +4,7 @@
 
 > Jazz that captures the essence of autumn.
 
-612 songs - 1 day 14 hr 26 min
+614 songs - 1 day 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -242,6 +242,7 @@
 | [I Promise to Love](https://open.spotify.com/track/19LMucy1MN241ShsoCUKia) | [Gillian Spencer Trio](https://open.spotify.com/artist/4NopJ2j5J608OXktrn5IAM) | [I Promise to Love](https://open.spotify.com/album/44tqKaAh69xrdFN9s2TCl4) | 2:52 | 2022-08-30 | 2025-09-12 |
 | [I Saw The Sun](https://open.spotify.com/track/3CpRRIHLxKHSBSvnCgGeD1) | [Nick Osman Trio](https://open.spotify.com/artist/2Al01GKqZ47q0irdqBXMQr) | [I Saw The Sun](https://open.spotify.com/album/78uwjFsCIcHxqxxOWmx8kM) | 4:20 | 2022-11-24 | 2025-09-12 |
 | [I Should Care](https://open.spotify.com/track/0Fuv0sclTFK36rSTMhklUi) | [Bill Parker](https://open.spotify.com/artist/58mMPpww20oJW8J0UZ3frj) | [I Should Care](https://open.spotify.com/album/3FHi9xLPL0jYEcz1c6it1A) | 2:54 | 2022-10-27 | 2026-03-18 |
+| [I still doubt it](https://open.spotify.com/track/29z4NUw0E4mjC4OmlOLgzD) | [Jenny Jones](https://open.spotify.com/artist/4EDpGeRNin742qDkiwBE1X) | [I still doubt it](https://open.spotify.com/album/51X1XLJJyT3anz8IsFO8xe) | 3:04 | 2026-09-18 |  |
 | [I Still See You In My Dreams](https://open.spotify.com/track/0zBUB6TUdZNOeWrQphEP6J) | [Japari Park](https://open.spotify.com/artist/5waLCZV0AzAqjHOln3XZMW) | [I Still See You In My Dreams](https://open.spotify.com/album/37NCgGDRaxH8E7N4pxunDM) | 3:17 | 2022-09-29 | 2023-10-20 |
 | [I Still Think of Us](https://open.spotify.com/track/6NGBhgNVFaqrzGgZH0h9pl) | [Karl\-Erik Trio](https://open.spotify.com/artist/6Q43Skxi3s0lux1BZuTZnv) | [I Still Think of Us](https://open.spotify.com/album/2Ai8VIfhKppeHjAoiUfQmw) | 2:59 | 2022-11-10 | 2024-10-15 |
 | [I Will Wait For You](https://open.spotify.com/track/6oKlgwa71syBWyiFyGdmkR) | [Piper Williamson](https://open.spotify.com/artist/5ahbWWBc8VL95P5BG7Miai) | [Eternal Maze](https://open.spotify.com/album/4C3TtqzLArtYY9CuFGmeWV) | 3:59 | 2022-10-06 | 2025-10-01 |
@@ -298,7 +299,7 @@
 | [Last Train](https://open.spotify.com/track/5lHrND462cXqX61b8pCCxx) | [The Low Light Trio](https://open.spotify.com/artist/5WdixIK85kM8klaN4qpQfT) | [Last Train](https://open.spotify.com/album/68SD0G8vUSfrfbDG7s2vFx) | 3:21 | 2025-11-25 |  |
 | [Late Night Walk](https://open.spotify.com/track/2uSdRkfWEUU7kE9sDceU70) | [Henry Lindon](https://open.spotify.com/artist/6YFu93nQbZx5Nrt6Qjfj90) | [Late Night Walk](https://open.spotify.com/album/1IoNZGBuzPT37zMyRUHk1g) | 3:47 | 2021-12-07 | 2022-09-07 |
 | [Late Night Waltz](https://open.spotify.com/track/0OUDCEDG4JQb4CnC9I67Qe) | [London Dunes](https://open.spotify.com/artist/2e5RWs7GvOoAmhDClXsI0t) | [Late Night Waltz](https://open.spotify.com/album/1GQKoxlCGfmH0Ume4YzHU5) | 4:33 | 2024-01-12 | 2025-10-01 |
-| [Late Nocturne](https://open.spotify.com/track/3aIvfacaZq4AUlXcebMnrp) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Late Nocturne](https://open.spotify.com/album/6LJBIF7JqtPzQFAgVN6bTK) | 3:55 | 2024-02-09 |  |
+| [Late Nocturne](https://open.spotify.com/track/3aIvfacaZq4AUlXcebMnrp) | [Ted Ross Quartet](https://open.spotify.com/artist/7A9b9YHKBRXfL43ICJhYUr) | [Late Nocturne](https://open.spotify.com/album/6LJBIF7JqtPzQFAgVN6bTK) | 3:55 | 2024-02-09 | 2026-09-19 |
 | [Later And Later](https://open.spotify.com/track/2odZfZZd36vPy5nfuaLCmw) | [Nouvelle Marée](https://open.spotify.com/artist/53xh7BAl56yKW1LrqaLqdq) | [Later And Later](https://open.spotify.com/album/1jfvvjvxU4HCh2UCTAt7i8) | 6:48 | 2023-12-08 | 2024-09-14 |
 | [Laura](https://open.spotify.com/track/5c6uQOFSUzRGOiEVdDB6Zx) | [Saginaw Society](https://open.spotify.com/artist/6DZHD4qSGUFPJVZZARcJDY) | [Laura](https://open.spotify.com/album/53Vz2jcWzo7abWsSzjBWrj) | 4:04 | 2022-08-30 | 2023-06-02 |
 | [Lemon Tart](https://open.spotify.com/track/1cPvmbaYDC33sTkNlfTuIB) | [LaSalle Street Trio](https://open.spotify.com/artist/0lEDIqg3LH3JQ9YoFMJAIn) | [Lemon Tart](https://open.spotify.com/album/6zS3RKFsnWW7oIpYMGL1XW) | 3:31 | 2023-05-11 |  |
@@ -485,6 +486,7 @@
 | [Stanky](https://open.spotify.com/track/2fZvSxMaDTKykeycbVY8LQ) | [The Unraveled](https://open.spotify.com/artist/4SPuV07nPCwIxcCRxYJQn9) | [Stanky](https://open.spotify.com/album/6LRdjfgM0f7RZeGXUwGJRT) | 3:12 | 2021-12-07 | 2022-08-18 |
 | [Stardust](https://open.spotify.com/track/2KfxK9sO9xnjeFxizuXljy) | [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [See You At The Fair](https://open.spotify.com/album/1jMKRKYJTWspPOKBmjfUsq) | 2:26 | 2021-12-07 | 2025-09-12 |
 | [Stars](https://open.spotify.com/track/5LFU23eUcfpYJmtUZ7RxdS) | [Trio Del Norte](https://open.spotify.com/artist/6P9V4I7JlXTWt4llgXpiPO) | [River of Dreams](https://open.spotify.com/album/7IID5V4pzViAAal8scWxWA) | 8:01 | 2022-10-13 | 2023-10-13 |
+| [Stay a little longer](https://open.spotify.com/track/0emDa50ODJgLqy4l0h6hc4) | [Kingsley Thomas](https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t) | [Stay a little longer](https://open.spotify.com/album/2BOjiIkqNaeTyRuIQS5o3M) | 3:22 | 2026-09-18 |  |
 | [Stay Around](https://open.spotify.com/track/5Ccyefda1pTeRCAg2kUIbX) | [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a) | [Stay Around](https://open.spotify.com/album/0gJttdGylOHGnQce4AQTlz) | 5:43 | 2021-12-07 | 2022-07-29 |
 | [Stay Around](https://open.spotify.com/track/2n5K7rSaUuj2KNzQjESGg6) | [Portraits in Jazz](https://open.spotify.com/artist/7c7414LKkYnuDPlkrwDg9a), [Claus Waidtløw](https://open.spotify.com/artist/3dz5vxw8WxPgcbD2HIVN5D), [Nikolaj Hess](https://open.spotify.com/artist/3j1aerNPNVeAjD4GgI3xJQ) | [Sunday](https://open.spotify.com/album/1bKp1d91vHHm0HAcmqCXMC) | 5:43 | 2022-06-10 | 2022-08-18 |
 | [Stella By Starlight](https://open.spotify.com/track/22nFrPhzV9b5yzK8GFBbEG) | [Drew Milner](https://open.spotify.com/artist/0OtsXpbZBM7OkX8FiDhpS5) | [Stella By Starlight](https://open.spotify.com/album/1xuGElIWx3CqL6TMaWij8U) | 2:45 | 2023-11-17 |  |
@@ -568,7 +570,7 @@
 | [Vine Street](https://open.spotify.com/track/4W4PZdDzTUa06u4iXCKRxI) | [Soft Brush Touches](https://open.spotify.com/artist/7LMuoHwZv9P0PPSO1DWaLZ) | [Vine Street](https://open.spotify.com/album/01zZ8pxxgCzAG2ETwIojD1) | 2:26 | 2022-12-01 | 2026-03-18 |
 | [Virgo \- Remastered 2004](https://open.spotify.com/track/1ylwBTCAZ1WlvvMnWm6U3c) | [Wayne Shorter](https://open.spotify.com/artist/0ZqhrTXYPA9DZR527ZnFdO), [Lee Morgan](https://open.spotify.com/artist/38C3okxv3fyyOIQUVPCdGX), [Reginald Workman](https://open.spotify.com/artist/0oYdxgeUsbFXRBFEGwtUSZ), [Elvin Jones](https://open.spotify.com/artist/4dUMhhUjQ2YcNTvab29hYF) | [Night Dreamer](https://open.spotify.com/album/2lcz9fPwBhtESyIFVGKvq6) | 7:06 | 2021-12-07 | 2022-01-08 |
 | [Walk Away](https://open.spotify.com/track/3GusQLpr2foU14c82En19S) | [The City of Birches](https://open.spotify.com/artist/6fGGglYJY8D22eJtcjgg8S) | [Walk Away](https://open.spotify.com/album/6X70Wc5iw2UvF2unoNb43G) | 3:56 | 2023-11-17 | 2024-10-08 |
-| [Walking talking fields](https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Walking talking fields](https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr) | 3:54 | 2023-09-29 |  |
+| [Walking talking fields](https://open.spotify.com/track/2sMyolj16yyMfF5TDs2Xs8) | [Rossdale Junction](https://open.spotify.com/artist/07lLIhOAtuwjGaZ0goh3iO) | [Walking talking fields](https://open.spotify.com/album/1PWAJ2s1OLsjPBA8ZieZvr) | 3:54 | 2023-09-29 | 2026-09-19 |
 | [Wallflower](https://open.spotify.com/track/5UmbhPeNquH5OmwJ8oGuAP) | [Isac Solo Trio](https://open.spotify.com/artist/0PQJ8CW64ZpCQTXIWvpkUN) | [Wallflower](https://open.spotify.com/album/3tzw5TaV9l6hhMczQiTSPK) | 3:40 | 2023-09-29 | 2026-03-18 |
 | [Waltz For Ola](https://open.spotify.com/track/01Lv5YnZl96AjZju2KWu63) | [Kristian Hart Trio](https://open.spotify.com/artist/6qAas9yPupFktSVPPYebnU) | [When We Were Young](https://open.spotify.com/album/06zd6KljxtUR3E9o7QPPXn) | 2:14 | 2022-11-10 | 2025-10-01 |
 | [Wanderer](https://open.spotify.com/track/3OmfaRWLdT1itOR1B9o5hH) | [Lotus Trio](https://open.spotify.com/artist/7ankqZz0A6N1GIVmwJmLsz) | [Wanderer](https://open.spotify.com/album/0oKlBmIeoGk6AcrieTkQ7s) | 3:19 | 2025-10-07 |  |

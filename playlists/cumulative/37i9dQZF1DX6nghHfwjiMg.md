@@ -4,7 +4,7 @@
 
 > Artistas para descubrir 📸 Maia Reficco
 
-336 songs - 17 hr 19 min
+337 songs - 17 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -133,6 +133,7 @@
 | [Ganas \- Spotify Singles](https://open.spotify.com/track/57i3tg8kJYRL13vZqoq0kC) | [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Spotify Singles](https://open.spotify.com/album/2M8YCuo32nPRMyIXdq6aCX) | 4:37 | 2022-12-22 | 2024-05-08 |
 | [Genio del Abasto](https://open.spotify.com/track/0kjrG36QkUzHmJHJ5Db6M9) | [Camionero](https://open.spotify.com/artist/6mwXlhRao6ThMMjARoOTIc) | [Club Camionero](https://open.spotify.com/album/19MHzE83J3kPtnYoP2ph61) | 5:08 | 2026-04-14 | 2026-07-24 |
 | [Gira \(El Mundo Gira\)](https://open.spotify.com/track/4Z6CKsJqAKsRi8UFQYaXM7) | [Denise Rosenthal](https://open.spotify.com/artist/73SBwOgH6mrS09OyFHdR62) | [Gira \(El Mundo Gira\)](https://open.spotify.com/album/5pqwiGyCURr9bzYQyC6JfQ) | 2:39 | 2021-11-11 | 2022-08-27 |
+| [GIRL DINNER](https://open.spotify.com/track/3Qr8G2MfUcWBWMbmLR0Y4V) | [MAG](https://open.spotify.com/artist/4btSpSQaEy7tSM9zfJk8Iz) | [cuando esté rota las pelotas no diré nada pero habrá señales!!>:\)](https://open.spotify.com/album/0Iuv2wkenRIgYtQLaSrdi5) | 2:43 | 2026-09-18 |  |
 | [Gris](https://open.spotify.com/track/54TITTIjdmIbHH0eZM0uRi) | [Magnolia Nojutsu](https://open.spotify.com/artist/7xZnQkIOFUIhG4tnGIOY92), [Charlie Guns](https://open.spotify.com/artist/1svCFZxt0Qei4VMSkelVBa) | [Gris](https://open.spotify.com/album/2JepnySF2k8h15YQ9wPA3h) | 3:26 | 2021-11-11 | 2023-06-02 |
 | [GUARACHA](https://open.spotify.com/track/4tuROO3SXDAlA7bbKXB0Vm) | [LOUTA](https://open.spotify.com/artist/5l4GdLELvdnXZVT5g947i3) | [GUARACHA](https://open.spotify.com/album/2tpbzolBdNXm5WVM1RQRxy) | 2:37 | 2022-06-01 | 2023-06-02 |
 | [Hace Rato](https://open.spotify.com/track/5MLM8Bnonrc3HlZ7OBU09C) | [Sael](https://open.spotify.com/artist/6Itjwvv5YmsC8ZcI5N4Jux) | [Hace Rato](https://open.spotify.com/album/4hf7pMuHc0qnA5mWpten3n) | 3:42 | 2021-11-11 | 2022-07-29 |

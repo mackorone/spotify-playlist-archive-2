@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 
 > A new take on a classic sound\. Cover: The Womack Sisters
 
-[Spotify](https://open.spotify.com/user/spotify) - 405,319 likes - 99 songs - 5 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 405,378 likes - 99 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Don't Let Me Down](https://open.spotify.com/track/4akuf0PPq62BsriUW7m2rJ) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Don't Let Me Down](https://open.spotify.com/album/6N7cSa014rQVqnRtd497o3) | 3:22 |
-| 2 | [God of You](https://open.spotify.com/track/6O9V8wvuDf5JiniQ6YGov5) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [God of You](https://open.spotify.com/album/7MnJtgiY24chh2SztvAU4l) | 3:40 |
-| 3 | [Song Of You](https://open.spotify.com/track/5s2qlmLKRIymjggsMeQI7H) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Song Of You](https://open.spotify.com/album/0oO65X3lkJTkASBFe5zJfl) | 2:49 |
-| 4 | [Monster](https://open.spotify.com/track/6tzbQbRtXWqwqkB0U8cm6v) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [Monster](https://open.spotify.com/album/1vNUWfYp45LE3wXi0zxLvi) | 3:39 |
-| 5 | [Rock Your Baby](https://open.spotify.com/track/0LrsR74qQuD4V7IojAvK0m) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Rock Your Baby](https://open.spotify.com/album/28nLfpXbzJt4lWPH24ZVlc) | 3:22 |
-| 6 | [B\-Side](https://open.spotify.com/track/4aJxB28TaJFnGQTQ76kbJo) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [The Cure](https://open.spotify.com/album/2Us044j2qG1iqbjnBNH6eR) | 3:52 |
-| 7 | [One Man’s Trash \(Is Another Man’s Treasure\)](https://open.spotify.com/track/5zrKi3K4zVq3hivIlxEwRe) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Getting There](https://open.spotify.com/album/0EqVfbxkWrQpSO7jJJ1n9D) | 4:20 |
-| 8 | [Paint The Picture](https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Paint The Picture](https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe) | 3:15 |
-| 9 | [258366](https://open.spotify.com/track/3JAE90gTtwRbM1jFNdGayh) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [258366](https://open.spotify.com/album/5So0wjjztZHOeV0nKnpcDA) | 3:19 |
+| 1 | [Late Bloomer](https://open.spotify.com/track/1CbjA7ApNZ6H70K4A53tBK) | [James Tutson](https://open.spotify.com/artist/7p5i6PwXVeJ4kOlpe7mVjs) | [Late Bloomer](https://open.spotify.com/album/4mwPqkVG6UByPnxdUVmRtx) | 3:16 |
+| 2 | [Don't Let Me Down](https://open.spotify.com/track/4akuf0PPq62BsriUW7m2rJ) | [The Olympians](https://open.spotify.com/artist/0ZPqGxW2iwZz7vGJWzuTUi), [Lee Fields](https://open.spotify.com/artist/3MAzDpqE01xyUmzNsc0Ee0) | [Don't Let Me Down](https://open.spotify.com/album/6N7cSa014rQVqnRtd497o3) | 3:22 |
+| 3 | [God of You](https://open.spotify.com/track/6O9V8wvuDf5JiniQ6YGov5) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [God of You](https://open.spotify.com/album/7MnJtgiY24chh2SztvAU4l) | 3:40 |
+| 4 | [Song Of You](https://open.spotify.com/track/5s2qlmLKRIymjggsMeQI7H) | [The California Honeydrops](https://open.spotify.com/artist/21t0aavYGSGFkYYFhu6urk) | [Song Of You](https://open.spotify.com/album/0oO65X3lkJTkASBFe5zJfl) | 2:49 |
+| 5 | [Monster](https://open.spotify.com/track/6tzbQbRtXWqwqkB0U8cm6v) | [The Womack Sisters](https://open.spotify.com/artist/6BjLHAiun9TeqC55KB3L6s) | [Monster](https://open.spotify.com/album/1vNUWfYp45LE3wXi0zxLvi) | 3:39 |
+| 6 | [Rock Your Baby](https://open.spotify.com/track/0LrsR74qQuD4V7IojAvK0m) | [Eddie 9V](https://open.spotify.com/artist/2GHXeEEol7BPT31flS6O1B) | [Rock Your Baby](https://open.spotify.com/album/28nLfpXbzJt4lWPH24ZVlc) | 3:22 |
+| 7 | [B\-Side](https://open.spotify.com/track/4aJxB28TaJFnGQTQ76kbJo) | [Honeybear, the Band](https://open.spotify.com/artist/1t3BkCQTMTGykNPpmj7drk) | [The Cure](https://open.spotify.com/album/2Us044j2qG1iqbjnBNH6eR) | 3:52 |
+| 8 | [One Man’s Trash \(Is Another Man’s Treasure\)](https://open.spotify.com/track/5zrKi3K4zVq3hivIlxEwRe) | [Eli "Paperboy" Reed](https://open.spotify.com/artist/37D1QyrEFNkcv0f62xo46x), [Swamp Dogg](https://open.spotify.com/artist/6ZEUa75BqZkvpjhuVzCsdX) | [Getting There](https://open.spotify.com/album/0EqVfbxkWrQpSO7jJJ1n9D) | 4:20 |
+| 9 | [Paint The Picture](https://open.spotify.com/track/4Mr1kvqFKseh4iKiB5GoYx) | [Aaron Frazer](https://open.spotify.com/artist/4dwDVC6lrMINxVBxETE1AB) | [Paint The Picture](https://open.spotify.com/album/2mIgyg5OiYlHAJ0IWKZnJe) | 3:15 |
 | 10 | [Don't Forget Me Love](https://open.spotify.com/track/5w6D9LGVGO28IZNgWlnzct) | [Thee Heart Tones](https://open.spotify.com/artist/1TSEWPOtBfCelJqufaJvvZ) | [Don't Forget Me Love b/w Sing Your Song](https://open.spotify.com/album/11ObGaJpyisLzOdTKkbM8M) | 2:56 |
 | 11 | [One and the Same](https://open.spotify.com/track/6OKtJlCD9Ox6BiXN0xaMfY) | [Thee Sacred Souls](https://open.spotify.com/artist/0oK5D6uPhGu4Jk2dbZfodU), [Victor Axelrod](https://open.spotify.com/artist/2biUp9VdsGaM1dL1kjLLUy) | [One and the Same](https://open.spotify.com/album/6RvgpXA6LKZoToLxrlTylh) | 3:43 |
 | 12 | [How Lonely Is Lonely](https://open.spotify.com/track/2xRFQskIigKmmYlXm7cjc3) | [Thee Sinseers](https://open.spotify.com/artist/5unhEp2PoIxAgEFNEyYdJS), [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [There She Goes](https://open.spotify.com/album/7p8b2CqEXLdqcI37YKX9Fm) | 3:30 |
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT7oUl2XAhgF.md) - [plain]
 | 98 | [Sugar Me Up](https://open.spotify.com/track/1YqUNzEPnosiA2Ihoxjwyc) | [Allie Dunn](https://open.spotify.com/artist/1lx72xxuyFIbssxER4orMy) | [Sugar Me Up](https://open.spotify.com/album/0ofXi4jRJmecdN01cdaW9o) | 4:13 |
 | 99 | [Bad Advice \- The Pool Sessions](https://open.spotify.com/track/7bUOeVzQrTBCE3ZMOGQz49) | [Kat Eaton](https://open.spotify.com/artist/72bPcEPylDgn0WHybYqI7P) | [Bad Advice \(The Pool Sessions\)](https://open.spotify.com/album/0XGFkBW7khe0G9uHcFLScZ) | 3:28 |
 
-Snapshot ID: `AAAAANsDR6ldoa0xAuNdUIcv3YqEmtwf`
+Snapshot ID: `AAAAACFRpQR5FgEz4Dr46F+kO355GzVC`

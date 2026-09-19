@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Erivo. The essential tracks, all in one playlist.",
-  "num_followers": 11633,
+  "num_followers": 11630,
   "original_name": "This Is Cynthia Erivo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAADCqkypX6nbGvGq/WNBuiE7",
+  "snapshot_id": "aqstgAAAAAD1pW5hSjIUMaHBO031b7RN",
   "tracks": [
     {
       "added_at": null,
@@ -236,29 +236,13 @@
       },
       "artists": [
         {
-          "name": "Jonathan Bailey",
-          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        },
-        {
-          "name": "Ethan Slater",
-          "url": "https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K"
-        },
-        {
-          "name": "Marissa Bode",
-          "url": "https://open.spotify.com/artist/6uGIoRQUqP4ncxyg6HksA1"
-        },
-        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 587364,
-      "name": "Dancing Through Life",
-      "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
+      "duration_ms": 237043,
+      "name": "I\u2019m Not That Girl",
+      "url": "https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX"
     },
     {
       "added_at": null,
@@ -328,13 +312,29 @@
       },
       "artists": [
         {
+          "name": "Jonathan Bailey",
+          "url": "https://open.spotify.com/artist/2Je7IdIHe8UvZbLXdapQ26"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        },
+        {
+          "name": "Ethan Slater",
+          "url": "https://open.spotify.com/artist/0yF5IqIHlPDti2mfZtHe3K"
+        },
+        {
+          "name": "Marissa Bode",
+          "url": "https://open.spotify.com/artist/6uGIoRQUqP4ncxyg6HksA1"
+        },
+        {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 237043,
-      "name": "I\u2019m Not That Girl",
-      "url": "https://open.spotify.com/track/2tWioTW2rs0CXf1dTXlRrX"
+      "duration_ms": 587364,
+      "name": "Dancing Through Life",
+      "url": "https://open.spotify.com/track/6qo8v2y2MHUSPLs7VBc6cG"
     },
     {
       "added_at": null,
@@ -351,26 +351,6 @@
       "duration_ms": 231233,
       "name": "No Place Like Home",
       "url": "https://open.spotify.com/track/4ksMhBwCDJJEaAbuQKYXJz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "It Would Be",
-        "url": "https://open.spotify.com/album/5axtvktcltQMAFIoo2cxe8"
-      },
-      "artists": [
-        {
-          "name": "Laura Mvula",
-          "url": "https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT"
-        },
-        {
-          "name": "Cynthia Erivo",
-          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
-        }
-      ],
-      "duration_ms": 226840,
-      "name": "It Would Be",
-      "url": "https://open.spotify.com/track/7FOHuxnnNpNoB0t8BhTV0I"
     },
     {
       "added_at": null,
@@ -403,6 +383,26 @@
       "duration_ms": 279628,
       "name": "A Wicked Good Finale (feat. Ariana Grande & Cynthia Erivo)",
       "url": "https://open.spotify.com/track/0hGrcAapSjvygI4SayBccd"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "It Would Be",
+        "url": "https://open.spotify.com/album/5axtvktcltQMAFIoo2cxe8"
+      },
+      "artists": [
+        {
+          "name": "Laura Mvula",
+          "url": "https://open.spotify.com/artist/0Dy94lW3txJhWQHqNXP1BT"
+        },
+        {
+          "name": "Cynthia Erivo",
+          "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
+        }
+      ],
+      "duration_ms": 226840,
+      "name": "It Would Be",
+      "url": "https://open.spotify.com/track/7FOHuxnnNpNoB0t8BhTV0I"
     },
     {
       "added_at": null,
@@ -627,22 +627,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Night Blooms",
-        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
+        "name": "Bobby Tarantino III",
+        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
       },
       "artists": [
         {
-          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
-          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
+          "name": "Logic",
+          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 190026,
-      "name": "If I Only Had A Brain",
-      "url": "https://open.spotify.com/track/0ObnAd04cMcuwMfD1RSFNn"
+      "duration_ms": 140370,
+      "name": "Inside (feat. Cynthia Erivo)",
+      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
     },
     {
       "added_at": null,
@@ -679,22 +679,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bobby Tarantino III",
-        "url": "https://open.spotify.com/album/5gJDUpoOlZxxgk2SDsTa6h"
+        "name": "Night Blooms",
+        "url": "https://open.spotify.com/album/1qpXwBpRsBLCCewgR5cByU"
       },
       "artists": [
         {
-          "name": "Logic",
-          "url": "https://open.spotify.com/artist/4xRYI6VqpkE3UwrDrAZL8L"
+          "name": "Jeff Goldblum & The Mildred Snitzer Orchestra",
+          "url": "https://open.spotify.com/artist/7lbrnX0ng1Il12RdEU1Ohu"
         },
         {
           "name": "Cynthia Erivo",
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 140370,
-      "name": "Inside (feat. Cynthia Erivo)",
-      "url": "https://open.spotify.com/track/4FC0MkDV5elZUcHDXZm1nj"
+      "duration_ms": 190026,
+      "name": "If I Only Had A Brain",
+      "url": "https://open.spotify.com/track/0ObnAd04cMcuwMfD1RSFNn"
     },
     {
       "added_at": null,
@@ -728,9 +728,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 317650,
-      "name": "Brick By Brick",
-      "url": "https://open.spotify.com/track/7GCqcEKkKh0UscZHU3NoDF"
+      "duration_ms": 207500,
+      "name": "Worst Of Me",
+      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
     },
     {
       "added_at": null,
@@ -804,9 +804,9 @@
           "url": "https://open.spotify.com/artist/46UMQ0cW8ToR8egkBRwAxZ"
         }
       ],
-      "duration_ms": 207500,
-      "name": "Worst Of Me",
-      "url": "https://open.spotify.com/track/3eHHJqCt5LNTvvmPCCvLuB"
+      "duration_ms": 317650,
+      "name": "Brick By Brick",
+      "url": "https://open.spotify.com/track/7GCqcEKkKh0UscZHU3NoDF"
     },
     {
       "added_at": null,

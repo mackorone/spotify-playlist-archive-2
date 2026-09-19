@@ -4,7 +4,7 @@
 
 > Warm and cozy jazz vibes to get you in a positive mood.
 
-206 songs - 14 hr 0 min
+207 songs - 14 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -152,6 +152,7 @@
 | [Room 608 \- Remastered](https://open.spotify.com/track/7HjUmooZ5Mk8HcDkuWyD50) | [Horace Silver](https://open.spotify.com/artist/5ZATfKurLqflrBhv2FLht5) | [Horace Silver And The Jazz Messengers](https://open.spotify.com/album/6ChBNNT405wL5eQz8be9Q9) | 5:22 | 2021-12-16 | 2026-02-21 |
 | [See See Rider](https://open.spotify.com/track/5NltGjgbV9hy4HMCS9CYoy) | [Ernestine Anderson](https://open.spotify.com/artist/7yNele4jnVhZJ2GE7Kg25T) | [My Kinda Swing](https://open.spotify.com/album/1LJPmxO2eGpzZGrr12LEIa) | 3:02 | 2021-12-16 |  |
 | [September In The Rain](https://open.spotify.com/track/3B1p5fP7kwsWb7WnazHDrS) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa), [Benny Benack III](https://open.spotify.com/artist/4qinsDOSZCJRirJq6Pm8SG) | [September in the Rain](https://open.spotify.com/album/6d8P2kjdu2ZttekvM8yTBX) | 4:08 | 2023-09-06 |  |
+| [Sextan Bucket](https://open.spotify.com/track/5WKEoxwAqPPSQvkttcvjOx) | [Monty Alexander](https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh), [Luke Sellick](https://open.spotify.com/artist/4JmBOPedbbGZPb4hwcQy1S), [Jason Brown](https://open.spotify.com/artist/0WSt6xUyHBsceCqUgcZTiv), [Bobby Thomas Jr.](https://open.spotify.com/artist/1LBIHUhctWa6uNPFRdxPkt) | [Sextan Bucket](https://open.spotify.com/album/31JfQ2JfmnjID4AmmErkA8) | 3:10 | 2026-09-18 |  |
 | [Singin' a Melody](https://open.spotify.com/track/60WNBop8SdFIZZ8PZABZNq) | [Paul Callander](https://open.spotify.com/artist/7DxH2g9FfTI6C7CXBTZNtq) | [Singin' a Melody](https://open.spotify.com/album/1A6JA1ogqLpX4HlV9APXKG) | 3:44 | 2022-06-28 |  |
 | [Skamento](https://open.spotify.com/track/2oQNyvZn0oDSWn73zf7FJ7) | [Monty Alexander](https://open.spotify.com/artist/30V1rKijENF5MFcGidInfh), [Luke Sellick](https://open.spotify.com/artist/4JmBOPedbbGZPb4hwcQy1S), [Jason Brown](https://open.spotify.com/artist/0WSt6xUyHBsceCqUgcZTiv), [Bobby Thomas Jr.](https://open.spotify.com/artist/1LBIHUhctWa6uNPFRdxPkt) | [Skamento](https://open.spotify.com/album/71uoYHx7cGdN8XHAvElVg5) | 4:24 | 2026-07-10 |  |
 | [Sleepin' Bee \- Live](https://open.spotify.com/track/2JHZAzNRrbZb2XV7UoJy8t) | [Keith Jarrett](https://open.spotify.com/artist/0F3Aew9DSd6fb6192K1K0Y), [Gary Peacock](https://open.spotify.com/artist/2k1Qcdf3sOJYCNZEPus58Y), [Jack DeJohnette](https://open.spotify.com/artist/7rDjbKTLlpNYJRWMm7QVxU) | [Yesterdays](https://open.spotify.com/album/4HNQ9h9ghVcRdSmewhQWaX) | 8:17 | 2024-03-19 | 2025-12-18 |
@@ -188,7 +189,7 @@
 | [The Way You Look Tonight](https://open.spotify.com/track/4jCoxXaEKeTWkQ7HL1d5de) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Two Of A Mind](https://open.spotify.com/album/0LAzSbiU7gVXh7uyvmXhTn) | 7:21 | 2022-06-28 | 2022-11-09 |
 | [The Way You Look Tonight \- 2003 Remastered](https://open.spotify.com/track/7yYgBAj3yaMdTgq7fIvDlQ) | [Paul Desmond](https://open.spotify.com/artist/68l2i6GeNtwQlhKS59u5bu), [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [The Complete RCA Victor Recordings](https://open.spotify.com/album/0ax9jxqZER7j03vyCGFM3X) | 7:19 | 2021-12-16 | 2022-07-29 |
 | [Thedia](https://open.spotify.com/track/1BOH3GRgTRZz7NITH4oEIG) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy) | [Thedia](https://open.spotify.com/album/5ccRhv2mXCgIgHY8RLWxQo) | 5:03 | 2023-10-25 |  |
-| [There Arno Answers](https://open.spotify.com/track/6PP2GqKolbQr2b6k7Rsd8X) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy), [Chris Hazelton](https://open.spotify.com/artist/4Uv6hrIClSOvSx1lEXQ2eB) | [There Arno Answers](https://open.spotify.com/album/5DCd9EdELNB0JofPKGnN2p) | 5:07 | 2026-07-10 |  |
+| [There Arno Answers](https://open.spotify.com/track/6PP2GqKolbQr2b6k7Rsd8X) | [Cory Weeds](https://open.spotify.com/artist/0YB9WHBn7xTEQsvcFZRUdy), [Chris Hazelton](https://open.spotify.com/artist/4Uv6hrIClSOvSx1lEXQ2eB) | [There Arno Answers](https://open.spotify.com/album/5DCd9EdELNB0JofPKGnN2p) | 5:07 | 2026-07-10 | 2026-09-19 |
 | [These Are The Days](https://open.spotify.com/track/1eWgwHZXvYG6Odpx7QwJmT) | [Jamie Cullum](https://open.spotify.com/artist/3XxxEq6BREC57nCWXbQZ7o) | [Twentysomething](https://open.spotify.com/album/6FbhvZweI6o9Szb2j9ls9o) | 3:21 | 2021-12-16 | 2022-11-24 |
 | [They Can't Take That Away From Me](https://open.spotify.com/track/66aidOEPunzwQGOKqds2PR) | [Margaret Whiting](https://open.spotify.com/artist/5ZGDxHhju6eE8ja4IyGe87) | [Past Midnight](https://open.spotify.com/album/4FRqvcDBUuoiS2RHHPqspr) | 2:52 | 2022-05-25 |  |
 | [They Say It's Spring](https://open.spotify.com/track/26HrzzmXbYEK6ImWVAd11A) | [Naama](https://open.spotify.com/artist/1m4JqvlkZXqZxFZjWaY1jg) | [They Say It's Spring](https://open.spotify.com/album/26t0RAPIJ1p8bq7l0IbSnQ) | 3:20 | 2026-05-22 |  |

@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: beabadoobee
 
-2,316 songs - 5 day 15 hr 6 min
+2,317 songs - 5 day 15 hr 10 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -704,6 +704,7 @@
 | [Favourite](https://open.spotify.com/track/7oG9qhZ0UaQEoUGJJVXh1U) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Favourite](https://open.spotify.com/album/2bPJfnWkyJKG4gCajBXASQ) | 4:16 | 2024-06-20 | 2026-03-13 |
 | [Favourite Place](https://open.spotify.com/track/3pX2YrDEPnWxytza7plHSw) | [The Terrys](https://open.spotify.com/artist/4quStFmDD9EH5uSJQz4oLS) | [Favourite Place](https://open.spotify.com/album/4I44AdfyHOwXvjlAYvoSl9) | 2:53 | 2024-01-04 | 2024-01-12 |
 | [Favourite Toy](https://open.spotify.com/track/7LwtKDNVK0s08ZoNkqlCzP) | [Jazmin Bean](https://open.spotify.com/artist/6blEmsLU25ewy8hHtgZaSL) | [Favourite Toy](https://open.spotify.com/album/6BkAzEqhZ7E9R6QfBJnjha) | 3:01 | 2023-08-10 | 2023-08-18 |
+| [Fear The Beast](https://open.spotify.com/track/0lVky9O0vQXsq4R7nP3cB1) | [Beast In Black](https://open.spotify.com/artist/0rEuaTPLMhlViNCJrg3NEH) | [Fear The Beast](https://open.spotify.com/album/6tbTWQqmbA4aYsrwyuAmA4) | 3:44 | 2026-09-17 |  |
 | [Feather](https://open.spotify.com/track/4HqJBwbL1IKs2oueLRTf4d) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Whyte](https://open.spotify.com/artist/7EEDX8dHGLFMAE2AJ29ZAC) | [WORLD](https://open.spotify.com/album/3Fv32HrpkGIRiNeClZqJ9z) | 3:51 | 2024-04-18 | 2024-06-21 |
 | [Feather](https://open.spotify.com/track/5Cq0AqbX6OcD9EWfTzxC86) | [Elephant Gym](https://open.spotify.com/artist/2rqNUPgkBgbhcRabUQ5C9g), [Whyte](https://open.spotify.com/artist/7EEDX8dHGLFMAE2AJ29ZAC) | [World](https://open.spotify.com/album/75pDhSjbAaNzRkCPpHDKB1) | 3:51 | 2024-04-04 | 2024-04-19 |
 | [February Sky](https://open.spotify.com/track/5MwtA7nicSHA0JAL8DwSuv) | [Ringo Starr](https://open.spotify.com/artist/6DbJi8AcN5ANdtvJcwBSw8) | [February Sky](https://open.spotify.com/album/0dr6d4tl4PRIAP2PqnCWCJ) | 3:18 | 2024-04-11 | 2024-04-19 |
@@ -1973,7 +1974,7 @@
 | [The Goldmine](https://open.spotify.com/track/6jySeYVTWo7S9HE1A9q7ju) | [GLIM SPANKY](https://open.spotify.com/artist/4sWyw0OrBKwmiaPOAuTuig) | [The Goldmine](https://open.spotify.com/album/3bFJ75u5NpQsqi4HtxVHmQ) | 3:32 | 2023-11-16 | 2023-11-24 |
 | [The Guest](https://open.spotify.com/track/0sK1ET6VbYeGZnbpCudlIA) | [Mary Timony](https://open.spotify.com/artist/1FFaHFtnhdnHuY0xGZcnD1) | [The Guest](https://open.spotify.com/album/4Uf7DE1G3Uj3ISQQl2nUFA) | 3:53 | 2024-01-04 | 2024-01-12 |
 | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/track/50BLjPGDh9DjVp4qwwyG6d) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Sparks](https://open.spotify.com/artist/7pwjGKaqnfkvS7eQbHaqyH) | [The Happy Dictator \(feat\. Sparks\)](https://open.spotify.com/album/28hPpJ5zrajpudLVXzvEZF) | 4:44 | 2025-09-11 | 2026-03-13 |
-| [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 | 2026-09-11 |  |
+| [The Hardest Thing](https://open.spotify.com/track/5ScaryMl0YslsJnBAb9CpD) | [Julia Jacklin](https://open.spotify.com/artist/12fRkVfO2fUsz1QHgDAG3g) | [The Hardest Thing](https://open.spotify.com/album/7LOVR9BqnzBE3fXoeq9XUi) | 3:21 | 2026-09-11 | 2026-09-19 |
 | [The Hives Forever Forever The Hives](https://open.spotify.com/track/2jfiQnjMbn7tnvcNiJIml2) | [The Hives](https://open.spotify.com/artist/4DToQR3aKrHQSSRzSz8Nzt) | [The Hives Forever Forever The Hives](https://open.spotify.com/album/4dhvyOGnFrrfCIYoENyUiL) | 3:03 | 2025-08-14 | 2025-08-29 |
 | [The Indigo Streak](https://open.spotify.com/track/57bBIId9EiuZEMzNA54bKk) | [Greta Van Fleet](https://open.spotify.com/artist/4NpFxQe2UvRCAjto3JqlSl) | [Starcatcher](https://open.spotify.com/album/7i1NJXQNNFZPyjE0W3GPgE) | 4:04 | 2023-07-20 | 2023-07-28 |
 | [The Joke](https://open.spotify.com/track/2rJXSza2JQaOajEZBUhQbJ) | [Coheed and Cambria](https://open.spotify.com/artist/3utxjLheHaVEd9bPjQRsy8) | [The Joke / Deranged](https://open.spotify.com/album/2zIIGIQOM1dMgI066dwBTB) | 3:57 | 2024-05-09 | 2024-05-19 |

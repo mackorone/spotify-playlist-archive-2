@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 
 > Ultimo in cover + le migliori nuove uscite 🇮🇹 e 🌎!
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,297 likes - 99 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,307 likes - 99 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,4 +108,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6K3mlB5G3WG.md) - [plain]
 | 98 | [L'ORIGINE DEL TUO DISORDINE](https://open.spotify.com/track/6cTFtN0X6zbH9NY6GcT9IU) | [Distemah](https://open.spotify.com/artist/1Jjk9plzVKCCPjqmipNIuK) | [L'ORIGINE DEL TUO DISORDINE](https://open.spotify.com/album/7mvqQSynjiYeMf5S1Nhuam) | 2:30 |
 | 99 | [Se Soltanto Fosse Vero E Non Soltanto Un Desiderio](https://open.spotify.com/track/7MZiwzc6fijcPk3YEi0Xbe) | [Destro](https://open.spotify.com/artist/6yKsozMFOdRQFgaMw7BXsT) | [Se Soltanto Fosse Vero E Non Soltanto Un Desiderio](https://open.spotify.com/album/3rYZms4L2PY1B1Jckukw03) | 3:17 |
 
-Snapshot ID: `AAAAACjjK+nJ9V07LtJtDvDS4VPJCnQB`
+Snapshot ID: `AAAAADxYNcD8lamphEksHf9FXX+sxJeK`

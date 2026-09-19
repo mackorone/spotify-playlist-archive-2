@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/4RSQdk2ty0YkO97WejZkdJ">Michael Pollack</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-582 songs - 1 day 8 hr 1 min
+583 songs - 1 day 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -518,7 +518,8 @@
 | [Terrified](https://open.spotify.com/track/0tCD4um9Mbqli92icIS3Jo) | [Terror Jr](https://open.spotify.com/artist/5QatamYwvUTOmMHW6WA0AG) | [Unfortunately, Terror Jr](https://open.spotify.com/album/6b2KfLOzzs3nOKKaPbi47J) | 2:58 | 2022-12-15 |  |
 | [Thank U](https://open.spotify.com/track/2FqZjsvLrqiQF5CpCOSY7i) | [U\-KNOW](https://open.spotify.com/artist/4lqxrwkJ16gYkKNumLA3SL) | [NOIR \- The 2nd Mini Album](https://open.spotify.com/album/1mxgEueuASm9eoOZdYOoHZ) | 3:10 | 2025-01-15 | 2025-04-12 |
 | [Thanks to U](https://open.spotify.com/track/0fJwGPIvrNpl02dk3lrwx4) | [Vog](https://open.spotify.com/artist/5ukt8aeApkMyluGHRS7oqy) | [Thanks to U](https://open.spotify.com/album/7L1WhX14BK3JG07HDRKTc9) | 4:57 | 2023-12-13 | 2025-06-28 |
-| [That Way](https://open.spotify.com/track/2Pv93rSb7vy3yVOWkLQ7h4) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:56 | 2026-08-16 |  |
+| [That Way](https://open.spotify.com/track/2Pv93rSb7vy3yVOWkLQ7h4) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6) | 2:56 | 2026-08-16 | 2026-09-19 |
+| [That Way](https://open.spotify.com/track/5JyfNKZoaNEQPzv4s3TiD3) | [KATSEYE](https://open.spotify.com/artist/3c0gDdb9lhnHGFtP4prQpn) | [WILD](https://open.spotify.com/album/0IrlcFg11YDDvyCWU43tsw) | 2:56 | 2026-09-18 |  |
 | [That's The Kind Of Woman](https://open.spotify.com/track/3LS7eIJfb4eajXcqbnlN2b) | [Julia Michaels](https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m) | [Not In Chronological Order](https://open.spotify.com/album/0tDLeJartXoM4ACuUx2MOu) | 2:14 | 2021-12-27 |  |
 | [That's What I Get](https://open.spotify.com/track/0koOtMGSYQSbaUpSCoL9Kh) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [WILD CHILD](https://open.spotify.com/album/0BA7J5iUJHMnKrCga3m5pR) | 2:30 | 2024-08-25 |  |
 | [That's What I Get](https://open.spotify.com/track/1JXoYzZXVW7H829mHfiWRm) | [charlieonnafriday](https://open.spotify.com/artist/1hmTCch4tWOJmdqkf8nSRA) | [That's What I Get](https://open.spotify.com/album/2ot1e7ExW9qF6G82rIJc1f) | 2:30 | 2023-02-10 | 2024-08-26 |

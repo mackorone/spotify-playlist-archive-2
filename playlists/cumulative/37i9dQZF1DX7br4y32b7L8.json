@@ -137,6 +137,32 @@
     },
     {
       "album": {
+        "name": "100 Tranen",
+        "url": "https://open.spotify.com/album/15wwwOopO0kOZrgHNwOX7F"
+      },
+      "artists": [
+        {
+          "name": "Qlas",
+          "url": "https://open.spotify.com/artist/4bB3nz947QqaXQ5DZFcZgS"
+        },
+        {
+          "name": "Antoon",
+          "url": "https://open.spotify.com/artist/5sBoNBXFMzoZjgHLbQueeG"
+        },
+        {
+          "name": "Boef",
+          "url": "https://open.spotify.com/artist/0Jsk5iYMr5aNjHury7blm1"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156800,
+      "name": "100 Tranen",
+      "url": "https://open.spotify.com/track/6FaX2maP1l59M01SomlB5M"
+    },
+    {
+      "album": {
         "name": "The World Of CH!PZ (Deluxe version)",
         "url": "https://open.spotify.com/album/3fuyXU6qRuSyC8yK3cMu83"
       },
@@ -8826,7 +8852,7 @@
       ],
       "date_added": "2025-12-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 118309,
       "name": "LEKKERDING",
       "url": "https://open.spotify.com/track/522Qx5uJaUzkLuYp7wTB5u"
@@ -8848,7 +8874,7 @@
       ],
       "date_added": "2026-05-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 129111,
       "name": "Lemonade",
       "url": "https://open.spotify.com/track/5vEmp91Mv1X3ZW2AnpxpC3"
@@ -8994,6 +9020,24 @@
       "duration_ms": 171692,
       "name": "Lijntje",
       "url": "https://open.spotify.com/track/1q7xYZc69cGcUa3eqwf7tt"
+    },
+    {
+      "album": {
+        "name": "Likkie Likkie",
+        "url": "https://open.spotify.com/album/4KEpk6bIGB88xWWPUDnhDo"
+      },
+      "artists": [
+        {
+          "name": "Timothy",
+          "url": "https://open.spotify.com/artist/6v5JdXLpMDlN4PY3kdRQAS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151546,
+      "name": "Likkie Likkie",
+      "url": "https://open.spotify.com/track/5OA9135TYIuPvonDP6L52U"
     },
     {
       "album": {

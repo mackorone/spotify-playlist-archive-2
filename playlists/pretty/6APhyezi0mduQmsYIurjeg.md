@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 606 songs - 1 day 12 hr 45 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 1,278 likes - 607 songs - 1 day 12 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -614,5 +614,6 @@ pretty - [cumulative](/playlists/cumulative/6APhyezi0mduQmsYIurjeg.md) - [plain]
 | 604 | [HIT AND RUN](https://open.spotify.com/track/2k20nDGUIxuR4L6VBdwcz9) | [CMAGIC5](https://open.spotify.com/artist/26QWf3ULVKyi7g32NR3fGs) | [HIT AND RUN](https://open.spotify.com/album/1h6QJarobaw3y0HNmYNC96) | 2:39 |
 | 605 | [Hell Yeah! \- Live](https://open.spotify.com/track/20nc8GukCpUXya4TtHigcH) | [First Date Fuckers](https://open.spotify.com/artist/4UCxI5qHOs4Gi8xyfDDlVd) | [LIVE IN LONDON](https://open.spotify.com/album/4TjxfhIrZog2yGEeU8rAsg) | 3:52 |
 | 606 | [Bad Medicine](https://open.spotify.com/track/5Cpj9SqRd6tON7qOQIYQhy) | [The Fuzes](https://open.spotify.com/artist/2FTrpNcKeBFvF9iKZa5kEA) | [Bad Medicine](https://open.spotify.com/album/418PEdXOglBn0sDniDXMdf) | 2:16 |
+| 607 | [Inflictor](https://open.spotify.com/track/6hMjrIUiej8Jz0D3mJ63Zw) | [Worldview](https://open.spotify.com/artist/53AOSoE3dHnIV5IO2F1A0J) | [Inflictor](https://open.spotify.com/album/593StCh46ilmoJGWfRdt6p) | 3:46 |
 
-Snapshot ID: `AAAC9DgNLUpYP28ddwB0GKoO+wXC3Z4S`
+Snapshot ID: `AAAC9a4yj7e4yX0jG96h53mbKY+z7Ro2`

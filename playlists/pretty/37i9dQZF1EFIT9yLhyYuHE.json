@@ -6,10 +6,54 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AcclJgAAAABJG8QJ7KwhCo55yPLvIzdB",
+  "snapshot_id": "AccqxgAAAABM+jj3A3A7W29PfkPCghBJ",
   "tracks": [
     {
-      "added_at": "2026-09-17 03:50:08",
+      "added_at": "2026-09-18 03:50:09",
+      "album": {
+        "name": "Wounded",
+        "url": "https://open.spotify.com/album/7xZ0s3f04T77DRVHJFtfjP"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Cara Mel\u00edn",
+          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+        }
+      ],
+      "duration_ms": 191718,
+      "name": "Wounded",
+      "url": "https://open.spotify.com/track/3NQ2JBHK5OAzblu8z5KUVj"
+    },
+    {
+      "added_at": "2026-09-18 03:50:09",
+      "album": {
+        "name": "ASOT 896 - A State Of Trance Episode 896 (A State Of Trance Year Mix 2018)",
+        "url": "https://open.spotify.com/album/2RiBmpeDMBrpo4v8Tghdlz"
+      },
+      "artists": [
+        {
+          "name": "Ferry Corsten",
+          "url": "https://open.spotify.com/artist/2ohlvFf9PBsDELdRstPtlP"
+        },
+        {
+          "name": "Dim3nsion",
+          "url": "https://open.spotify.com/artist/7vEd9uAqFgC4p4EOXiFuQL"
+        }
+      ],
+      "duration_ms": 103386,
+      "name": "Safe With Me (Mixed)",
+      "url": "https://open.spotify.com/track/2KabfQFahsge3F2pmLNFnC"
+    },
+    {
+      "added_at": "2026-09-18 03:50:09",
       "album": {
         "name": "Love After Love",
         "url": "https://open.spotify.com/album/1zpqtg4zGSAK4vCrzZcbmg"
@@ -33,7 +77,7 @@
       "url": "https://open.spotify.com/track/4tOYaHjIW3sb6mPt7fIA4H"
     },
     {
-      "added_at": "2026-09-17 03:50:08",
+      "added_at": "2026-09-18 03:50:09",
       "album": {
         "name": "Love On Repeat",
         "url": "https://open.spotify.com/album/2S15a8eML7xeXgMvaDXzMd"
@@ -53,7 +97,27 @@
       "url": "https://open.spotify.com/track/0NHdtnwg1K4QOazIZKH8DT"
     },
     {
-      "added_at": "2026-09-17 03:50:08",
+      "added_at": "2026-09-18 03:50:09",
+      "album": {
+        "name": "Deeper (feat. Cara Mel\u00edn)",
+        "url": "https://open.spotify.com/album/5JKSPeEoNxUEe6XHYVs6XB"
+      },
+      "artists": [
+        {
+          "name": "Rowen Reecks",
+          "url": "https://open.spotify.com/artist/7MW3lTs9G10C55or1KZrwQ"
+        },
+        {
+          "name": "Cara Mel\u00edn",
+          "url": "https://open.spotify.com/artist/4jPA6KrvGWwAnWwCAo3gk8"
+        }
+      ],
+      "duration_ms": 179016,
+      "name": "Deeper (feat. Cara Mel\u00edn)",
+      "url": "https://open.spotify.com/track/5xRZl63xK3jOFmR417Mk5v"
+    },
+    {
+      "added_at": "2026-09-18 03:50:09",
       "album": {
         "name": "Free",
         "url": "https://open.spotify.com/album/4cHYUcFMJlapi74Qk5cYdF"
@@ -73,7 +137,7 @@
       "url": "https://open.spotify.com/track/0l5T7ZRb3JR77r7mT3v3lO"
     },
     {
-      "added_at": "2026-09-17 03:50:08",
+      "added_at": "2026-09-18 03:50:09",
       "album": {
         "name": "One Life",
         "url": "https://open.spotify.com/album/6yVtJqVevwUOlZSA7FxTlG"
@@ -89,7 +153,23 @@
       "url": "https://open.spotify.com/track/4jX9g4ulmQaHtQUYv6FIEH"
     },
     {
-      "added_at": "2026-09-17 03:50:08",
+      "added_at": "2026-09-18 03:50:09",
+      "album": {
+        "name": "Esta Noche",
+        "url": "https://open.spotify.com/album/1wO5BYi995trUEdWvfSk61"
+      },
+      "artists": [
+        {
+          "name": "Denise Faro",
+          "url": "https://open.spotify.com/artist/2FtfhftN2XCuRFblobGGDX"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "Esta Noche",
+      "url": "https://open.spotify.com/track/67v9RxHvSKpuKAMiayfXYP"
+    },
+    {
+      "added_at": "2026-09-18 03:50:09",
       "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/7vmXsXELhHmhrVYiONd3db"

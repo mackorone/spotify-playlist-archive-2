@@ -1,12 +1,12 @@
 {
   "description": "Chill out to the sweetest soul songs.",
-  "num_followers": 1418298,
+  "num_followers": 1418339,
   "original_name": "Sweet Soul Chillout",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAID1BkuBbjdh9tMBGH1SPL/IP9VP",
+  "snapshot_id": "AAAAAHrmXup3LYpYzc+RFQpLxX/xshQ4",
   "tracks": [
     {
       "added_at": "2024-06-24 11:23:29",
@@ -827,22 +827,6 @@
     {
       "added_at": "2024-06-24 11:23:29",
       "album": {
-        "name": "Love Songs",
-        "url": "https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy"
-      },
-      "artists": [
-        {
-          "name": "Al Jarreau",
-          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
-        }
-      ],
-      "duration_ms": 226066,
-      "name": "We're in This Love Together",
-      "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"
-    },
-    {
-      "added_at": "2024-06-24 11:23:29",
-      "album": {
         "name": "Risqu\u00e9",
         "url": "https://open.spotify.com/album/1UFBJkKiBe3Lzjr307UhuU"
       },
@@ -855,6 +839,22 @@
       "duration_ms": 364853,
       "name": "A Warm Summer Night",
       "url": "https://open.spotify.com/track/55CJVnRVa2fHlwyKBVPJbZ"
+    },
+    {
+      "added_at": "2024-06-24 11:23:29",
+      "album": {
+        "name": "Love Songs",
+        "url": "https://open.spotify.com/album/29owfLOkZWFaUJwCG7Kzxy"
+      },
+      "artists": [
+        {
+          "name": "Al Jarreau",
+          "url": "https://open.spotify.com/artist/3YR92OLKlvkK5oKNekSqXe"
+        }
+      ],
+      "duration_ms": 226066,
+      "name": "We're in This Love Together",
+      "url": "https://open.spotify.com/track/5gdM3wtGyBAaoUWoLWcAoX"
     },
     {
       "added_at": "2024-06-24 11:23:29",

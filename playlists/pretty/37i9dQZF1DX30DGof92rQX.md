@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 
 > Latest Pakistani pop releases\. Like this? Listen to the Pop hits in <a href="https://open.spotify.com/playlist/37i9dQZF1DWZj47aylvVUN?si=3569b01a867d4b2b"> Pakistani Pop</a>\. Cover \- Samar Jafri
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,091 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,172 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,10 +17,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 7 | [head over heels](https://open.spotify.com/track/1VxgzwIoRxjqwUaQRSsO1F) | [JANI](https://open.spotify.com/artist/63L8XYlQRWRGlg1d4ujXDc), [Rithmetic](https://open.spotify.com/artist/3cX78aMow7ykBLA6cTnB3a) | [head over heels](https://open.spotify.com/album/6KxnfBrY7lxJWsyMu9qZMN) | 2:50 |
 | 8 | [Walk With Me](https://open.spotify.com/track/13GDGTKPooiJ3DxTFTgyp4) | [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF), [Faisal Kapadia](https://open.spotify.com/artist/5sJRjMmbbpbEZCtkiZYPCR) | [Trouble Won't Last](https://open.spotify.com/album/5Ths7W13OZuUtpj4fTBgfC) | 4:24 |
 | 9 | [Khayaal](https://open.spotify.com/track/772wevNT7Kft3Bn7iBEuOK) | [Ali Mustafa](https://open.spotify.com/artist/7m3Ku1spjnnSy81lVQM0oN), [Daud Raheel](https://open.spotify.com/artist/6NPzI9FlO53oaQmk6Yn2SG), [Jibran Raheel](https://open.spotify.com/artist/5Ziai02jpq91fjNgV6mF9k) | [Khayaal](https://open.spotify.com/album/0VXSJsAas10oeP2HUNefXT) | 2:35 |
-| 10 | [Bedardi Ishq](https://open.spotify.com/track/2w8ODO7SulehbpTniL3Xkl) | [Ritik Sharma](https://open.spotify.com/artist/1SuZ3nXBxnLqscv7N6EIpU), [Musawir Khan](https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH) | [Bedardi Ishq](https://open.spotify.com/album/5ZB5DbnZ2Xqkv2IIIVVYwA) | 3:21 |
+| 10 | [Bedardi Ishq](https://open.spotify.com/track/2w8ODO7SulehbpTniL3Xkl) | [Ritik Sharma](https://open.spotify.com/artist/2NjvSekTiu1z12VH8k85xC), [Musawir Khan](https://open.spotify.com/artist/2NBIny5IPKXQYH3YQNtTVH) | [Bedardi Ishq](https://open.spotify.com/album/5ZB5DbnZ2Xqkv2IIIVVYwA) | 3:21 |
 | 11 | [Sajjan Dildara](https://open.spotify.com/track/4k47mZm7LETG4PviJDWZuU) | [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS) | [Sajjan Dildara](https://open.spotify.com/album/3IBQ7hPmMeGKI4uZuS3fkK) | 2:48 |
 | 12 | [Intuition](https://open.spotify.com/track/7xTA1svbgYNMyM28jVT2Dn) | [Alistair Alvin](https://open.spotify.com/artist/6oVcou7NADA31wfWBtZchF) | [Intuition](https://open.spotify.com/album/7CL1moBgTVJ3D8MdArpdwV) | 2:52 |
-| 13 | [Rangeen \| Coke Studio Nu.Wav](https://open.spotify.com/track/7cO7GWk6vUGNcAUXMJ2Bdj) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Rangeen \| Coke Studio Nu.Wav](https://open.spotify.com/album/4aLu7Zndj5FQRV1Oh62Tgy) | 3:41 |
+| 13 | [Rangeen \| Coke Studio Nu.WAV](https://open.spotify.com/track/7cO7GWk6vUGNcAUXMJ2Bdj) | [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V), [Izzchughtai](https://open.spotify.com/artist/211ei6ZiUeBMIXUZGBaJ4S), [Umair](https://open.spotify.com/artist/1n6pjRJkTY5v8RtUCAv5pi) | [Rangeen \| Coke Studio Nu.WAV](https://open.spotify.com/album/4aLu7Zndj5FQRV1Oh62Tgy) | 3:41 |
 | 14 | [Hanju](https://open.spotify.com/track/4bEpeJmBVhAi1tywfKvoQF) | [Falak Shabbir](https://open.spotify.com/artist/0kmtdziYTHrKtoHlGElunM) | [Hanju](https://open.spotify.com/album/0jBqhIHx7IBaWuBMHAkDTr) | 3:02 |
 | 15 | [baemisaal](https://open.spotify.com/track/6cV4rfQ8QgecYBlqWxGyTl) | [Marshall Ahmad](https://open.spotify.com/artist/3c7YStlXDTZyJjiIcsJDJP), [Shahmeer Raza Khan](https://open.spotify.com/artist/6j3aIgBaZMbcAJuTjGhhoK), [Hasan Raheem](https://open.spotify.com/artist/6gIqKYKRmltKfkTnxhMv8V) | [MADEMEN](https://open.spotify.com/album/1buzyatn8w2Ceek5r2Ds6W) | 2:49 |
 | 16 | [Ajnabi](https://open.spotify.com/track/6mXF2Nfk7rjhwO63b2YyhQ) | [Rafae Bokhari](https://open.spotify.com/artist/1zNTZaTb1hfkZCynCw6kUq) | [Ajnabi](https://open.spotify.com/album/4F0Py1Mp1nycYC2zYXRll2) | 4:03 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX30DGof92rQX.md) - [plain]
 | 99 | [Masroof](https://open.spotify.com/track/1ATbcSuUGJJT4VQxyAfHBT) | [Bilal Khan](https://open.spotify.com/artist/1I7amt4dHcNJtj7e3rURhI) | [Masroof](https://open.spotify.com/album/7Ez1v31IhI1gTMkESeNIZR) | 3:13 |
 | 100 | [Obsession](https://open.spotify.com/track/1C0mUAZHUlVJRiaxacutsS) | [Hamzay](https://open.spotify.com/artist/3jZgv3hijK101spub7clyS), [Mehmood J](https://open.spotify.com/artist/4dDplWRph6eniqpE1VIwYF), [DeryAala](https://open.spotify.com/artist/2I5pgCixkzLJj8jb2R0hvt), [HASEEB](https://open.spotify.com/artist/6VTBfUo6LQmVKxat82WXNA) | [Obsession](https://open.spotify.com/album/5rDImXmnS3Wb7FETBEEeeJ) | 3:40 |
 
-Snapshot ID: `AAAAAEIUjauEWGIWUxsAzvSU8DCXYabn`
+Snapshot ID: `AAAAAEUiwWs2tHPfdnU03zaufXrUh9O6`

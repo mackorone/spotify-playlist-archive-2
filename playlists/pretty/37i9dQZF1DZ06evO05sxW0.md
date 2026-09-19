@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05sxW0.md) - [plain]
 
 > This is Bikini Kill\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,578 likes - 32 songs - 1 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,584 likes - 32 songs - 1 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,11 +15,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05sxW0.md) - [plain]
 | 5 | [Feels Blind](https://open.spotify.com/track/4iYOZJecMwcK1bh7D9a1nB) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Kill Rock Stars](https://open.spotify.com/album/2e22AyUWBTo2jzZTd6NERs) | 3:36 |
 | 6 | [Double Dare Ya](https://open.spotify.com/track/2tRI6j8RxFwrxoRKs7dnV8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:40 |
 | 7 | [New Radio](https://open.spotify.com/track/4DgsvJNNGvV5WPQ40qR3R8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 1:33 |
-| 8 | [Reject All American](https://open.spotify.com/track/3CBlSKo7SDAvNMfweRnkVy) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 2:30 |
+| 8 | [Capri Pants](https://open.spotify.com/track/5KXxHxosFRnlNGq36qPzA2) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 1:40 |
 | 9 | [Magnet](https://open.spotify.com/track/660s5fvZVVupYoxBPzS9Ze) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Pussy Whipped](https://open.spotify.com/album/4rCgFExY3JIJdFij2kwB1w) | 1:26 |
 | 10 | [White Boy](https://open.spotify.com/track/2z5LG9pXrouLrzhdhqrVwl) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:26 |
 | 11 | [I Like Fucking](https://open.spotify.com/track/2Uw9ZuFXoZgeohnv4zFOq8) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 2:16 |
-| 12 | [Capri Pants](https://open.spotify.com/track/5KXxHxosFRnlNGq36qPzA2) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 1:40 |
+| 12 | [Reject All American](https://open.spotify.com/track/3CBlSKo7SDAvNMfweRnkVy) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Reject All American](https://open.spotify.com/album/2FQqJCzYzA2Lmtb5XpEMon) | 2:30 |
 | 13 | [Blood One](https://open.spotify.com/track/3L0chLc9b4GvsLg59nHTIL) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Pussy Whipped](https://open.spotify.com/album/4rCgFExY3JIJdFij2kwB1w) | 1:44 |
 | 14 | [Suck My Left One](https://open.spotify.com/track/4IQY0TThr7YebYWf2X07xC) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The First Two Records](https://open.spotify.com/album/6U4EMkDA3CZarmG5t3Bqze) | 2:24 |
 | 15 | [Strawberry Julius](https://open.spotify.com/track/4uHk44o05dcewS9AqQZxrt) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [The Singles](https://open.spotify.com/album/6kwyhuzuCrz4N4vMhZ9Deb) | 2:17 |
@@ -41,4 +41,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO05sxW0.md) - [plain]
 | 31 | [Just Once](https://open.spotify.com/track/1sGHJSgeRVGlsWMW3H0bak) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:35 |
 | 32 | [Ocean Song](https://open.spotify.com/track/2fM9MUueSFsILkptHaiE9N) | [Bikini Kill](https://open.spotify.com/artist/0gvHPdYxlU94W7V5MSIlFe) | [Revolution Girl Style Now](https://open.spotify.com/album/1ovByadNR5ynugbrKlr1m3) | 3:29 |
 
-Snapshot ID: `aqncAAAAAADdsOEuURlfUzjGQhy5I+Kv`
+Snapshot ID: `aqstgAAAAAD06MsIkohwOudAqRS4tZtk`

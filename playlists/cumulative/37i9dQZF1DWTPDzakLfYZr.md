@@ -4,7 +4,7 @@
 
 > ¡Los grandes temas del Pop Urbano, eso es Popetón! Foto: Manuel Turizo.
 
-405 songs - 21 hr 12 min
+407 songs - 21 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -304,6 +304,7 @@
 | [Ojitos Lindos](https://open.spotify.com/track/3k3NWokhRRkEPhCzPmV8TW) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X), [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:18 | 2022-06-24 |  |
 | [Pa Que](https://open.spotify.com/track/1Xeocn50sUEglN2083ISju) | [Silvestre Dangond](https://open.spotify.com/artist/3OcvS8PzSGYMBvLdzY6g3e) | [Pa Que](https://open.spotify.com/album/1P1yzzemBtMqCRT9qKON0f) | 3:15 | 2022-08-12 | 2022-08-27 |
 | [Pa que ya no estés triste](https://open.spotify.com/track/4Foho0RcX50Fqg9wgdiQBQ) | [BROKIX](https://open.spotify.com/artist/5yo2KNGw3Z6a9n0Xiswb50), [The Rudeboyz](https://open.spotify.com/artist/7ciBW1p3KBsYIkFk4UmwS8) | [Pa que ya no estés triste](https://open.spotify.com/album/1HzgN9B54LNZgdGqFE9wHR) | 3:05 | 2025-10-17 | 2026-03-14 |
+| [PA TI <3](https://open.spotify.com/track/35EqUnbJ0rCZZCWrQdYo1d) | [Ela Conem](https://open.spotify.com/artist/6j3TVnrOKJQYWcX5YKLMkV) | [PA TI <3](https://open.spotify.com/album/39sk0PBz8zYj7V0bBHpXKo) | 2:18 | 2026-09-18 |  |
 | [Pa' Después](https://open.spotify.com/track/5EP6bveKDMhRPUETmrslfc) | [Alejandro González](https://open.spotify.com/artist/2SzdXGFgRUgygnqrqmsW9W) | [Pa' Después](https://open.spotify.com/album/6JlrpC0BIdrgfAB9xLHsSk) | 2:45 | 2022-04-08 | 2022-04-29 |
 | [Pa' Que Mentir](https://open.spotify.com/track/17IvEb4XLzkRv4nDE3jGod) | [Twister el Rey](https://open.spotify.com/artist/3iekLDuN7jHoZh3t5dxfpx) | [Pa' Que Mentir](https://open.spotify.com/album/02wYKE1Pp56UxfvYa5efIx) | 3:33 | 2023-02-03 | 2023-02-25 |
 | [Pa' Terapia](https://open.spotify.com/track/06NiUeFCTNIZDlg2daoF8M) | [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [Pa' Terapia](https://open.spotify.com/album/0Xv4XKcJ18nioqXnNA0sbd) | 2:36 | 2023-11-24 | 2024-05-11 |
@@ -337,7 +338,7 @@
 | [Qué Más Pues?](https://open.spotify.com/track/6hf0RpxTbOprT5nnwzkk8e) | [J Balvin](https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Qué Más Pues?](https://open.spotify.com/album/53ul5SFjVUQCotbJhjCkkK) | 3:37 | 2021-12-10 |  |
 | [Rayos, Besos, Fallos](https://open.spotify.com/track/0FrXpDbnUJlRBQBgAZtwpG) | [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Rayos, Besos, Fallos](https://open.spotify.com/album/3WKuSgBB4A9w3HRO8Ct3tU) | 2:33 | 2023-04-21 | 2023-05-20 |
 | [Recordar](https://open.spotify.com/track/5OqHiduQCQDsOA2SB5CQJJ) | [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [Recordar](https://open.spotify.com/album/7pk9Y44tyVZVJud0fhB9R1) | 3:52 | 2022-03-04 | 2022-03-26 |
-| [Regalito](https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [TRESCENDER](https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc) | 2:41 | 2026-03-13 |  |
+| [Regalito](https://open.spotify.com/track/0cQtGUyt8edxSRLHGxSGOK) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Juan Duque](https://open.spotify.com/artist/49ggXUsjVHl7BwwaiPUCn6) | [TRESCENDER](https://open.spotify.com/album/2uq6IbfhiXV8uak3zpHgjc) | 2:41 | 2026-03-13 | 2026-09-19 |
 | [Repítelo](https://open.spotify.com/track/5IDjFFu1TMknvgKVAQ1CRX) | [Nicole Favre](https://open.spotify.com/artist/6CxqJ4K3JEBR1fz2lQJNN1), [Joey Montana](https://open.spotify.com/artist/3ATyg4fGC9F8trfb0GRWmX) | [Repítelo](https://open.spotify.com/album/1DNsExIHCqxBbQci0Qc5h3) | 3:21 | 2022-03-04 | 2022-03-26 |
 | [Ritmo](https://open.spotify.com/track/1RJcWggyL9PTVVZLqOsBzZ) | [elkno](https://open.spotify.com/artist/7Hk8R7m0IdaLY5Hy70BhIq), [Jøtta](https://open.spotify.com/artist/2wnVvfvSkFJbtOinte4sC3) | [Ritmo](https://open.spotify.com/album/3XhdXzqFTyggqsDaeqI3X7) | 2:30 | 2026-05-29 |  |
 | [Rompecabezas](https://open.spotify.com/track/1wtEo5LAk0Hm405a26DaND) | [Gusi](https://open.spotify.com/artist/7GMRarEViKQmiTUMFZtrfe) | [Rompecabezas](https://open.spotify.com/album/5p788bFZwrslgTpb6AUT4M) | 3:02 | 2022-09-02 | 2022-10-15 |
@@ -349,6 +350,7 @@
 | [SAKE](https://open.spotify.com/track/6pTrZlAnsU3YRw2EIFy9kA) | [ARIA VEGA](https://open.spotify.com/artist/3e9aKKEgSOjIQS9gv2Nr1X) | [SAKE](https://open.spotify.com/album/2VZ95yDQ0btfdXf9TNvbdy) | 2:27 | 2023-03-10 | 2023-04-15 |
 | [Salvavidas](https://open.spotify.com/track/5VQyB3R9Q6anjtf23J2TK7) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Ñejo](https://open.spotify.com/artist/2OHKEe204spO7G7NcbeO2o) | [Salvavidas](https://open.spotify.com/album/5OGm96jxCkZDkQoKWJcfiK) | 3:22 | 2022-03-25 | 2022-07-16 |
 | [Santo](https://open.spotify.com/track/2M6IDHdaSAyt7FcJcptHjj) | [Christina Aguilera](https://open.spotify.com/artist/1l7ZsJRRS8wlW3WfJfPfNS), [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY) | [Santo](https://open.spotify.com/album/4M6KWDyo4wi2wY9rxpV9RC) | 3:03 | 2022-01-21 | 2022-02-12 |
+| [Segunda Cita](https://open.spotify.com/track/0M4EZodLBU7pomErJ9hD5W) | [Piso 21](https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd), [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow), [Gangsta](https://open.spotify.com/artist/5ayJu41CsIbLfnMldF6bj3) | [Segunda Cita](https://open.spotify.com/album/7nhWuuDKZNuXOHucKvXlm2) | 2:50 | 2026-09-18 |  |
 | [SEJODIOTO](https://open.spotify.com/track/704LUEih663hiE3CnyUrFW) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [SEJODIOTO](https://open.spotify.com/album/3NRAio2j75NpNvs8KcIgtc) | 3:01 | 2021-12-10 | 2023-04-15 |
 | [Será](https://open.spotify.com/track/2DElz2QWtR8ME3VTXsOlWN) | [Llane](https://open.spotify.com/artist/7A02nc5WKMBLqSKXxGZ4o8), [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Será](https://open.spotify.com/album/0uLEkoSJkTWfAaVnEGlbja) | 3:02 | 2021-12-10 |  |
 | [Si Me Dices Que Sí](https://open.spotify.com/track/56Ta1O7Jxxpjnc6cWdDKUo) | [Reik](https://open.spotify.com/artist/0vR2qb8m9WHeZ5ByCbimq2), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [Si Me Dices Que Sí](https://open.spotify.com/album/2U2tXCZs8j0H4NEvhfe4zV) | 3:31 | 2021-12-10 | 2023-02-04 |

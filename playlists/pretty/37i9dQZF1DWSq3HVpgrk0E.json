@@ -1,12 +1,12 @@
 {
   "description": "The whole truth. Cover: Rick Ross",
-  "num_followers": 269990,
+  "num_followers": 269975,
   "original_name": "No Cap",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAP9lMjp8slNYmBYWCEtYOr4qUXHh",
+  "snapshot_id": "AAAAAIsmh4z4skUDEaZjdOSYVX+zC4a1",
   "tracks": [
     {
       "added_at": "2026-07-16 23:00:27",
@@ -823,26 +823,18 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
-        "name": "One of Them",
-        "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
+        "name": "Don't Be Dumb",
+        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
       },
       "artists": [
         {
-          "name": "DJ Khaled",
-          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
-        },
-        {
-          "name": "Future",
-          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
-        },
-        {
-          "name": "Lil Baby",
-          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
+          "name": "A$AP Rocky",
+          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
         }
       ],
-      "duration_ms": 204377,
-      "name": "One of Them (with Future & Lil Baby)",
-      "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
+      "duration_ms": 171845,
+      "name": "ORDER OF PROTECTION",
+      "url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
     },
     {
       "added_at": "2026-07-16 23:00:27",
@@ -867,18 +859,26 @@
     {
       "added_at": "2026-07-16 23:00:27",
       "album": {
-        "name": "Don't Be Dumb",
-        "url": "https://open.spotify.com/album/4itKk52E9ZCdWUQcFAkud9"
+        "name": "One of Them",
+        "url": "https://open.spotify.com/album/7yHjH5MTdtXNeIcQWVq0LQ"
       },
       "artists": [
         {
-          "name": "A$AP Rocky",
-          "url": "https://open.spotify.com/artist/13ubrt8QOOCPljQ2FL1Kca"
+          "name": "DJ Khaled",
+          "url": "https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP"
+        },
+        {
+          "name": "Future",
+          "url": "https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i"
+        },
+        {
+          "name": "Lil Baby",
+          "url": "https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK"
         }
       ],
-      "duration_ms": 171845,
-      "name": "ORDER OF PROTECTION",
-      "url": "https://open.spotify.com/track/1jux3g1YXNub0NkYbLTLIp"
+      "duration_ms": 204377,
+      "name": "One of Them (with Future & Lil Baby)",
+      "url": "https://open.spotify.com/track/64QhStjcTHwvY7QCkFfT0M"
     },
     {
       "added_at": "2026-07-16 23:00:27",

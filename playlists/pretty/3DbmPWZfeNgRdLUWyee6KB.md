@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new independent songs\. New tracks every month.
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 98 songs - 5 hr 55 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 101 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -106,5 +106,8 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 96 | [Butterfly](https://open.spotify.com/track/3NGqGe0rcYbvagYVH2zyIJ) | [Rachael Rose](https://open.spotify.com/artist/2UH0bcPtxKFvqBLKfqYGJu) | [Butterfly](https://open.spotify.com/album/6ylQ8vosTCGTCxWlDvv6wB) | 2:51 |
 | 97 | [Rosé](https://open.spotify.com/track/7FVL6OGxwNrEWAZMlry7Qa) | [Angel Dz](https://open.spotify.com/artist/1agldgGiabw5qDe00nkdTh) | [Rosé](https://open.spotify.com/album/7GNeA3TTAKnDXtFIPXiyRO) | 2:50 |
 | 98 | [Too Cool for School](https://open.spotify.com/track/0pNkLrlQToWlowezDBIFLL) | [The Peripheries](https://open.spotify.com/artist/75Zpo5vckxRLMw4b9O0pHt) | [Too Cool for School](https://open.spotify.com/album/0M1ZtEOAcNkMSbn7ToU46r) | 3:53 |
+| 99 | [Hello](https://open.spotify.com/track/6jlYvHtAqczyut8taxFsbB) | [Masked Family](https://open.spotify.com/artist/2v3CYqA4SYszVxUQ4uh4BK) | [Luna Crystal Blue](https://open.spotify.com/album/2aAh6nzbJcmxdf0uWO6ze5) | 2:35 |
+| 100 | [Sadé Blade](https://open.spotify.com/track/6nFN1ewrrDbOyrWZ0me3jT) | [Citrus pop](https://open.spotify.com/artist/0EREt3VQhcJR27KlQIGOQ9) | [Sadé Blade](https://open.spotify.com/album/0F5nPvnRleywtSvOcbkjkT) | 2:20 |
+| 101 | [What About Now](https://open.spotify.com/track/0Fk4WKxOlbysiPIVARm0Lu) | [Gemma Cox](https://open.spotify.com/artist/5UHDRNiF6EMuzrtSq7tbXF) | [What About Now](https://open.spotify.com/album/4myIM1idgTbgMWXLChmzd6) | 3:34 |
 
-Snapshot ID: `AAAX/6zxZUCWuuDf+HpJc5zjLNHMrECD`
+Snapshot ID: `AAAYArXT+Vuc4fdvPhcwj+h8CNYtdNz+`

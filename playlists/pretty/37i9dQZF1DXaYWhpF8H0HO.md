@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 
 > Talenta tanah air yang dapat menyeberang lintas negara\. Cover: The Midnight Darlings
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,846 likes - 98 songs - 5 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,870 likes - 98 songs - 5 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 23 | [Background Character](https://open.spotify.com/track/5gRDEnGcUKTiju3DV7hPOf) | [Chris Andrian Yang](https://open.spotify.com/artist/74DSMvAfXpnN3c1KCfvFwQ) | [Background Character](https://open.spotify.com/album/6Wxf10EZwyYyfsnyjoVt6K) | 3:22 |
 | 24 | [Forevermine](https://open.spotify.com/track/0jLrKtnBL9lzcWA5M0tO9A) | [Allan Andersn](https://open.spotify.com/artist/4zcXAnIxQ6UDXSu8qDZbsk), [Rimar](https://open.spotify.com/artist/5P8zPeJpGvHclaIk8nKoGx) | [Forevermine](https://open.spotify.com/album/7yGzAyT2Rs0JK0HiNFuUqX) | 4:19 |
 | 25 | [Building](https://open.spotify.com/track/3KeW6p83GJwuNUfegAGH1m) | [Atlesta](https://open.spotify.com/artist/60bdlCy6b211wIIrNKUWjU) | [Building](https://open.spotify.com/album/6TziaCeqD9bpWb2GlyULmW) | 3:58 |
-| 26 | [Don't](https://open.spotify.com/track/42S9Rc1AolKbJK2TIWk0Ez) | [Soulfood](https://open.spotify.com/artist/4pPPCYQD20lPFRNBH8f5Eo), [Jascha Ririhena](https://open.spotify.com/artist/1k6MajoWOgLgeZQLFs40Li) | [Jangan](https://open.spotify.com/album/26LTDa5V2stOLtl1BCSbP9) | 3:00 |
+| 26 | [Jangan](https://open.spotify.com/track/42S9Rc1AolKbJK2TIWk0Ez) | [Soulfood](https://open.spotify.com/artist/4pPPCYQD20lPFRNBH8f5Eo), [Jascha Ririhena](https://open.spotify.com/artist/1k6MajoWOgLgeZQLFs40Li) | [Jangan](https://open.spotify.com/album/26LTDa5V2stOLtl1BCSbP9) | 3:00 |
 | 27 | [GIMME A MINUTE](https://open.spotify.com/track/5VDv5g24IXbSY96LIsAKzk) | [Kid JD](https://open.spotify.com/artist/0Ax8zT8qDMtFidjrEGUYld), [GunZ](https://open.spotify.com/artist/1TU6sLpWMQEHUhIgFJVVVl) | [GODFIDENCE](https://open.spotify.com/album/050M1V5t6ZXiuEUjg6Q9fj) | 3:37 |
 | 28 | [honk!](https://open.spotify.com/track/462r5jEYbiNo6sqwCcRqhU) | [no na](https://open.spotify.com/artist/25ZVvmN0Tm9Os5K42swK8b) | [honk!](https://open.spotify.com/album/5PHqwsXzGYEwCia6TeT8Oc) | 2:15 |
 | 29 | [Don't You Dare Touch My Kerupuk](https://open.spotify.com/track/1KsBkw5IczLePdkVnzg7HU) | [Adhitia Sofyan](https://open.spotify.com/artist/3UlOKNAlGyi7POSE9kyhfR) | [Don't You Dare Touch My Kerupuk](https://open.spotify.com/album/1VuEjrUcSt1Mjk6kNrzdHP) | 3:52 |
@@ -107,4 +107,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaYWhpF8H0HO.md) - [plain]
 | 97 | [Trouble](https://open.spotify.com/track/4U3n5CavIdChnVZj6uG26e) | [Amanda Caesa](https://open.spotify.com/artist/6Vcmx2wpCJzynUTes1ZGP1) | [Trouble](https://open.spotify.com/album/1PG0y6QaKNceo26VsK4ffT) | 2:12 |
 | 98 | [Bae Bong Bong](https://open.spotify.com/track/62O3o65tOMEiMk7yDOIrDt) | [Tatiana](https://open.spotify.com/artist/516KmuU4W8i5m4eL06CfBH) | [Bae Bong Bong](https://open.spotify.com/album/1aF8NhjH7kkjfiDFYkGMWR) | 2:34 |
 
-Snapshot ID: `AAAAAImY06WncFV3A79h0NF2ocJcSaC6`
+Snapshot ID: `AAAAAKxFnXqQpwm+WTyfqgbs3MrXUM2I`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 
 > The hottest tracks trending in Pakistan 🔥 Cover: Hania Aamir
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,660 likes - 80 songs - 4 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,865 likes - 80 songs - 4 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BmpQ9HroVZ.md) - [plain]
 | 79 | [Kath Lagda](https://open.spotify.com/track/3zoM4v1qTX94ZqfPYRReJh) | [Navaan Sandhu](https://open.spotify.com/artist/6PdJJhJWHFRtoERTQ8JGq1), [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb), [Sanya Dandona](https://open.spotify.com/artist/5Y88j1QhlpI0iUp0uMrXip), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Bipolar](https://open.spotify.com/album/6IZrIfElEDQWpR9B6yYjhp) | 5:12 |
 | 80 | [EX\-FILES](https://open.spotify.com/track/4pFgcMU0LSo73Df61Cge6U) | [Baggh\-e SMG](https://open.spotify.com/artist/4eu7AyzvnafwOygTQlfAMu), [BIG KAY SMG](https://open.spotify.com/artist/0z4Mzficie9vUzDmz4Hy9G), [Farmaan SMG](https://open.spotify.com/artist/3yXzSYXBOTZ0m1QAfjlzKK) | [EX\-FILES](https://open.spotify.com/album/5rjkff9QkvjWVJ6MVQCF8U) | 3:16 |
 
-Snapshot ID: `AAAAAAnn5x/ySale2DRL3azdIhth0XJA`
+Snapshot ID: `AAAAAD+VrBLt2T53/ard6oLHr4/B8Asm`

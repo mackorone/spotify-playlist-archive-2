@@ -4,7 +4,7 @@
 
 > The best of today's funk\. Cover: Devon Gilfillian
 
-516 songs - 1 day 6 hr 6 min
+517 songs - 1 day 6 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -251,7 +251,7 @@
 | [JIGGLE](https://open.spotify.com/track/3fGwrMBynPk7SVy60Bh6eK) | [G Bliz](https://open.spotify.com/artist/1UQLXNyzX8QA44VUrpZQyt) | [JIGGLE](https://open.spotify.com/album/1hUVGn4nNmBbgzGpSK67jw) | 2:15 | 2023-04-14 | 2023-09-09 |
 | [Joy](https://open.spotify.com/track/2QsaiGin4KWiDxYbZa1c5H) | [Davie](https://open.spotify.com/artist/3LtkIxt8EHLpuXMOpFYZ06) | [Joy](https://open.spotify.com/album/2dzk3NhUU2M264ZFvtL9DO) | 2:57 | 2022-02-11 | 2022-02-24 |
 | [July](https://open.spotify.com/track/0foMdHRYktOIfkmQ4LNcWq) | [Supathick](https://open.spotify.com/artist/7u3lpTH7O6aQKXW5q9PJjU), [Adrian Dzvuke](https://open.spotify.com/artist/3fgolNSZnidBlbm5dFi4go), [Keely Brittain](https://open.spotify.com/artist/5z6zW8pjPelSSC0MG9D81a) | [July](https://open.spotify.com/album/6z83JU2h8enmkQd1KhAvl6) | 3:18 | 2021-03-19 | 2022-07-30 |
-| [Jump](https://open.spotify.com/track/2BO6E4fhgNbS2VdrYJdAkq) | [Tommy Love](https://open.spotify.com/artist/1OJevp7blr19zF2ka2rEVT), [Manny Laurenko](https://open.spotify.com/artist/6gpLXhxeNFNiz38dyNqJ1C) | [Jump](https://open.spotify.com/album/1MKC1CSocKPwh4nf1WbWIo) | 2:25 | 2024-01-12 |  |
+| [Jump](https://open.spotify.com/track/2BO6E4fhgNbS2VdrYJdAkq) | [Tommy Love](https://open.spotify.com/artist/1OJevp7blr19zF2ka2rEVT), [Manny Laurenko](https://open.spotify.com/artist/6gpLXhxeNFNiz38dyNqJ1C) | [Jump](https://open.spotify.com/album/1MKC1CSocKPwh4nf1WbWIo) | 2:25 | 2024-01-12 | 2026-09-19 |
 | [Just Gettin' Started](https://open.spotify.com/track/0oPSbRhNh9a0xSJjYQfxmO) | [Jackie's Boy](https://open.spotify.com/artist/5IWhRKmW8IDdeJfrx4Kl0E), [CeCe Peniston](https://open.spotify.com/artist/5UoVLCWzOKMIJ9iioof9OD), [Nmbrnd](https://open.spotify.com/artist/6ODBcU4YfZpBSYM7T59gJx) | [The Black Chapter, Vol\. 1](https://open.spotify.com/album/1JcVhExuDUNVFrvPJr2bRU) | 3:01 | 2020-11-20 | 2022-04-09 |
 | [Just Imagine](https://open.spotify.com/track/0uD6yDPOKCmcV7yYPlkCLG) | [Gabe Costa](https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR), [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [Giovanni Ghioldi](https://open.spotify.com/artist/4shS3E4SYPpSHf76AiBNK8) | [Just Imagine](https://open.spotify.com/album/6fRqErW9pUNqsPhZEHpfFe) | 2:31 | 2024-06-07 | 2026-09-12 |
 | [Just One Of Those Days](https://open.spotify.com/track/7Cj3KziZ8nuZpM1LD56fgL) | [Sam Greenfield](https://open.spotify.com/artist/03ZdbEBsbFHG3uJC6gYiOY) | [Just One Of Those Days](https://open.spotify.com/album/1MAYtAvrKCnbnK5GWKQyfb) | 3:22 | 2022-02-07 | 2023-09-23 |
@@ -308,6 +308,7 @@
 | [Mass Appeal](https://open.spotify.com/track/1o8M06Dkv4z2n2AOG1jMLM) | [Daron.](https://open.spotify.com/artist/1VjgVjThC1RxttpTp9kT0i) | [Mass Appeal](https://open.spotify.com/album/4qFW7nJYWxpSjgcipscqv7) | 2:57 | 2021-06-18 | 2022-01-29 |
 | [Maybe You´re the One](https://open.spotify.com/track/3mDWp7MEpIouGgskiiqITA) | [Cool Million](https://open.spotify.com/artist/40pKzFK6Z2CnPOaaMqC7lG), [Susanne Ørum](https://open.spotify.com/artist/2pA0uUUengpSBIefFLlwag) | [Maybe You´re The One](https://open.spotify.com/album/6E8LtIJ6vpnMlNKWxucLew) | 3:40 | 2022-11-18 | 2023-10-07 |
 | [Medal](https://open.spotify.com/track/32aHFEYSwrNaAjqrKNhHm9) | [Emily King](https://open.spotify.com/artist/6jlWj6y00bMQt8XoKuCjyZ) | [Medal](https://open.spotify.com/album/55FViyWmX5GZuJL8HmrIDE) | 3:16 | 2023-03-03 | 2025-03-29 |
+| [Midas Touch](https://open.spotify.com/track/038D4db0mzjZpmiR9VnKLa) | [Jarrod Lawson](https://open.spotify.com/artist/4iWcAreTBOIi9hUBa1TM2f), [Swatkins](https://open.spotify.com/artist/0HnF3y5xRlNr6eGQmFZgjP) | [Midas Touch](https://open.spotify.com/album/59SurwzOxCIJhMzDVcCGvJ) | 3:00 | 2026-09-18 |  |
 | [Misbehavin](https://open.spotify.com/track/5UUri9iMQ2azakPfszxSmI) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc), [C.J\. Robertson](https://open.spotify.com/artist/34uwNRMPQrWJwdgZdRYYO2) | [Misbehavin](https://open.spotify.com/album/3E6enR1PQzg6wQjFEioHKS) | 3:02 | 2021-04-23 | 2022-06-18 |
 | [Mixer](https://open.spotify.com/track/0fZaiLx3nhwBKWMNXgbM15) | [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Mixer \(Acoustic\)](https://open.spotify.com/album/5KP3FrGCzQUttYU3A8IIWV) | 3:12 | 2020-11-20 | 2022-04-09 |
 | [MOJO](https://open.spotify.com/track/5rFT5IF7vo6R8XgZuUNnOh) | [Nic Hanson](https://open.spotify.com/artist/1NrFTpkB0RvbVLYl0p5Xvc) | [MOJO](https://open.spotify.com/album/1FXvCtQ6mSlUBFqHBkI7QL) | 3:20 | 2026-08-28 |  |

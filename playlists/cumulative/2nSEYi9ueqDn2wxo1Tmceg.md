@@ -2,7 +2,7 @@
 
 ### [Domino Sound System](https://open.spotify.com/playlist/2nSEYi9ueqDn2wxo1Tmceg)
 
-> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Georgia</a>
+> Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Fat Dog</a>
 
 1,725 songs - 4 day 20 hr 54 min
 

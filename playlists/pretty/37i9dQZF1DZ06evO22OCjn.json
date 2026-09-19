@@ -1,12 +1,12 @@
 {
   "description": "This is Burna Boy. The essential tracks, all in one playlist.",
-  "num_followers": 348056,
+  "num_followers": 348116,
   "original_name": "This Is Burna Boy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAAAQlKCGvkdRoA6JKff/LUrp",
+  "snapshot_id": "aqstgAAAAAB7koU9kcK6iHAYKrx5omYH",
   "tracks": [
     {
       "added_at": null,
@@ -435,22 +435,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Twice As Tall",
-        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
-      },
-      "artists": [
-        {
-          "name": "Burna Boy",
-          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
-        }
-      ],
-      "duration_ms": 200413,
-      "name": "Way Too Big",
-      "url": "https://open.spotify.com/track/3bOBWIdkRyN9yaGJ7uSOTf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Want It All",
         "url": "https://open.spotify.com/album/6ggFYFT8Jiq3qw43SqYHQj"
       },
@@ -467,6 +451,22 @@
       "duration_ms": 232500,
       "name": "Want It All",
       "url": "https://open.spotify.com/track/0tHvVjzxytG1BzfAJTJPtX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Twice As Tall",
+        "url": "https://open.spotify.com/album/2pANu4qucnliJuRR94eZSV"
+      },
+      "artists": [
+        {
+          "name": "Burna Boy",
+          "url": "https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa"
+        }
+      ],
+      "duration_ms": 200413,
+      "name": "Way Too Big",
+      "url": "https://open.spotify.com/track/3bOBWIdkRyN9yaGJ7uSOTf"
     },
     {
       "added_at": null,

@@ -1,12 +1,12 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 121859,
+  "num_followers": 121915,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPH8855gWL67/uT+vBFVLRu0kBKA",
+  "snapshot_id": "AAAAAMJsdSUL8pF+HJ8q+2U6bl6Jk8CL",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:26",
@@ -489,28 +489,28 @@
       "url": "https://open.spotify.com/track/1P9ZF3ZxRWNTDgJkZOgkI9"
     },
     {
-      "added_at": "2026-09-11 04:01:26",
+      "added_at": "2026-09-18 04:02:19",
       "album": {
-        "name": "Delirando",
-        "url": "https://open.spotify.com/album/5rpIArxqU0mIe7h9pbP9cP"
+        "name": "Marcinha",
+        "url": "https://open.spotify.com/album/6oUEZgPvZh8ch99jW7m2ED"
       },
       "artists": [
         {
-          "name": "Sinego",
-          "url": "https://open.spotify.com/artist/3UlAQex8nw3vquHcmY8fpb"
+          "name": "Ben Carter",
+          "url": "https://open.spotify.com/artist/0np5AJMWd97z8q9qnyoliF"
         },
         {
-          "name": "Xinobi",
-          "url": "https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m"
+          "name": "SIR\u00d8B",
+          "url": "https://open.spotify.com/artist/3eRjrNBzuLjEvQ8SHTKIvl"
         },
         {
-          "name": "Ang\u00e9lica Garcia",
-          "url": "https://open.spotify.com/artist/2rjGbM0H8EUQzTVx6BgUlG"
+          "name": "Sasha Wrist",
+          "url": "https://open.spotify.com/artist/3h4yzDa8Uj4ZplkApbgFAD"
         }
       ],
-      "duration_ms": 341000,
-      "name": "Delirando",
-      "url": "https://open.spotify.com/track/1aYt9J6gJAMGTaiceHtzmG"
+      "duration_ms": 168119,
+      "name": "Marcinha",
+      "url": "https://open.spotify.com/track/5mh6LDJf0PJcVhCYnE5eK0"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1073,20 +1073,24 @@
       "url": "https://open.spotify.com/track/6vsKOJPjdxlYgRs8McgtCQ"
     },
     {
-      "added_at": "2026-09-11 04:01:26",
+      "added_at": "2026-09-18 04:02:19",
       "album": {
-        "name": "Ti Vedo",
-        "url": "https://open.spotify.com/album/3M7UzO6NVE4iVgfltY77rE"
+        "name": "Pegada Marginal",
+        "url": "https://open.spotify.com/album/2a8k3SZqXiLO7gJQxxnKiy"
       },
       "artists": [
         {
-          "name": "LUCA SKETTI",
-          "url": "https://open.spotify.com/artist/1FYwl8FVnopCOyNjiekzNq"
+          "name": "Ede",
+          "url": "https://open.spotify.com/artist/7mxkWNWc7ceydKrZmVQmKK"
+        },
+        {
+          "name": "MANQO",
+          "url": "https://open.spotify.com/artist/5RkXCaTig73NAHGMmDgyoQ"
         }
       ],
-      "duration_ms": 146250,
-      "name": "Ti Vedo",
-      "url": "https://open.spotify.com/track/3evz2s34Jww0c79lTV43on"
+      "duration_ms": 184235,
+      "name": "Pegada Marginal",
+      "url": "https://open.spotify.com/track/218wR8sVS30eoDT6X8yACW"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1111,6 +1115,38 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
+        "name": "Ti Vedo",
+        "url": "https://open.spotify.com/album/3M7UzO6NVE4iVgfltY77rE"
+      },
+      "artists": [
+        {
+          "name": "LUCA SKETTI",
+          "url": "https://open.spotify.com/artist/1FYwl8FVnopCOyNjiekzNq"
+        }
+      ],
+      "duration_ms": 146250,
+      "name": "Ti Vedo",
+      "url": "https://open.spotify.com/track/3evz2s34Jww0c79lTV43on"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
+        "name": "No Me Mires M\u00e1s",
+        "url": "https://open.spotify.com/album/1Uuo8SstbdehX1umlem7ZJ"
+      },
+      "artists": [
+        {
+          "name": "Roberto Surace",
+          "url": "https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "No Me Mires M\u00e1s",
+      "url": "https://open.spotify.com/track/4dURWnDKDK9UqX19qnv9v7"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
         "name": "Baiana",
         "url": "https://open.spotify.com/album/2s8PZkaN35LVwWMoUVEExE"
       },
@@ -1131,22 +1167,6 @@
       "duration_ms": 116250,
       "name": "Baiana",
       "url": "https://open.spotify.com/track/0xEbe8QpLVSBX6E0wxeS5l"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
-        "name": "No Me Mires M\u00e1s",
-        "url": "https://open.spotify.com/album/1Uuo8SstbdehX1umlem7ZJ"
-      },
-      "artists": [
-        {
-          "name": "Roberto Surace",
-          "url": "https://open.spotify.com/artist/4Peqx8CmkLiHHRCfm3HR7G"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "No Me Mires M\u00e1s",
-      "url": "https://open.spotify.com/track/4dURWnDKDK9UqX19qnv9v7"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1503,22 +1523,6 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
-        "name": "Reflection",
-        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
-      },
-      "artists": [
-        {
-          "name": "Riordan",
-          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
-        }
-      ],
-      "duration_ms": 187200,
-      "name": "Reflection",
-      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
         "name": "Marrakesh",
         "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
       },
@@ -1531,6 +1535,22 @@
       "duration_ms": 142258,
       "name": "Marrakesh",
       "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
+        "name": "Reflection",
+        "url": "https://open.spotify.com/album/17ma8BN1PDsiJaOBz6DlKh"
+      },
+      "artists": [
+        {
+          "name": "Riordan",
+          "url": "https://open.spotify.com/artist/68rU1sdZ0HjxjEC5YnSmao"
+        }
+      ],
+      "duration_ms": 187200,
+      "name": "Reflection",
+      "url": "https://open.spotify.com/track/5T10GMsxlnyizGo6RL5fvI"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1603,26 +1623,6 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
-        "name": "Cuando Te Veo",
-        "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
-      },
-      "artists": [
-        {
-          "name": "Sistek",
-          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 223731,
-      "name": "Cuando Te Veo",
-      "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
         "name": "Ando High",
         "url": "https://open.spotify.com/album/3NebZzG6xjkmLE0wDiSbXH"
       },
@@ -1639,6 +1639,26 @@
       "duration_ms": 165875,
       "name": "Ando High",
       "url": "https://open.spotify.com/track/0wIZzK1cWw1CzYGxN1Og8m"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
+        "name": "Cuando Te Veo",
+        "url": "https://open.spotify.com/album/5v4xJxxhOVXof3Qtk8Vh0e"
+      },
+      "artists": [
+        {
+          "name": "Sistek",
+          "url": "https://open.spotify.com/artist/7AfIBbjDpPR6FlLWLsAcHu"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 223731,
+      "name": "Cuando Te Veo",
+      "url": "https://open.spotify.com/track/1Pv8HWSBMiKmeRWnq1ZzeH"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1979,22 +1999,6 @@
       "duration_ms": 180000,
       "name": "Matadora - Radio Edit",
       "url": "https://open.spotify.com/track/0kIIoDPOIges2ZRGZIc6YC"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
-        "name": "Mi Gentee EP",
-        "url": "https://open.spotify.com/album/6RStukcwjW3DzS9eR9BJKG"
-      },
-      "artists": [
-        {
-          "name": "Chinonegro",
-          "url": "https://open.spotify.com/artist/22aMI6KbqOX9MdtGK58fyY"
-        }
-      ],
-      "duration_ms": 208782,
-      "name": "Mi Gentee",
-      "url": "https://open.spotify.com/track/4LLkiwgCnowzc4vosFDJGQ"
     }
   ],
   "unique_name": "Latin House",

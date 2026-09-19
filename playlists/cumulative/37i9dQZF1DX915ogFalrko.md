@@ -4,7 +4,7 @@
 
 > La playlist à la cool pour accompagner votre dîner !
 
-270 songs - 15 hr 45 min
+272 songs - 15 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -49,7 +49,7 @@
 | [Clueless \(feat\. Aly & AJ\)](https://open.spotify.com/track/2MPzUXWuyMkO8UwSRSIRsl) | [Beach Bunny](https://open.spotify.com/artist/2vnB6tuQMaQpORiRdvXF9H), [Aly & AJ](https://open.spotify.com/artist/5wugb0kaq0J6nyQ5Xgd17i) | [Tunnel Vision](https://open.spotify.com/album/38DX6jJd8fkTr2wwM2ECdL) | 3:28 | 2026-04-30 | 2026-06-17 |
 | [Cold Little Heart \- Radio Edit](https://open.spotify.com/track/7KX65PC1UZuImsUInThbav) | [Michael Kiwanuka](https://open.spotify.com/artist/0bzfPKdbXL5ezYW2z3UGQj) | [Cold Little Heart \(Radio Edit\)](https://open.spotify.com/album/55A6d8TOuiAs6zDiKj2c3A) | 3:30 | 2025-07-18 |  |
 | [Come and Get Your Love](https://open.spotify.com/track/23hrvdvkIi1X1voQG2bJH9) | [Redbone](https://open.spotify.com/artist/0w7HLMvZOHatWVbAKee1zF) | [Wovoka](https://open.spotify.com/album/7HNboS0n64gNVx0rV3qT6a) | 5:00 | 2025-07-18 |  |
-| [Compaction](https://open.spotify.com/track/54TEGRwMxlpMitjPwNZutV) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [To the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/3EUf9rA4SLOYKWpR4i9dgO) | 2:54 | 2026-07-23 |  |
+| [Compaction](https://open.spotify.com/track/54TEGRwMxlpMitjPwNZutV) | [Cults](https://open.spotify.com/artist/3Oim8XBPbznAa8Jj8QzNc8) | [To the Ghosts \(Deluxe Edition\)](https://open.spotify.com/album/3EUf9rA4SLOYKWpR4i9dgO) | 2:54 | 2026-07-23 | 2026-09-19 |
 | [couleur menthe à l'eau](https://open.spotify.com/track/2jAifF3EKOi3uI628cmKC0) | [Isaac Delusion](https://open.spotify.com/artist/2HGAZDmVV3GAH4XFAZdvSG) | [uplifters](https://open.spotify.com/album/0afPcz0gfOOyLB3yffX7m9) | 3:32 | 2025-07-18 |  |
 | [Creator](https://open.spotify.com/track/1ArcaROoVptChgQuUbsttl) | [Electric Guest](https://open.spotify.com/artist/7sgWBYtJpblXpJl2lU5WVs) | [10K](https://open.spotify.com/album/212Kb9Hs920AxlxhAo7wAV) | 3:14 | 2025-10-10 | 2025-12-09 |
 | [Crush](https://open.spotify.com/track/4e63OHfw9CGC6WLXMvNHWJ) | [Indigo De Souza](https://open.spotify.com/artist/3ir2pF2mkiEWqyPenKTh5e) | [Precipice](https://open.spotify.com/album/7vVrYkdm0bPgguWN8rQu8x) | 2:31 | 2025-07-25 | 2025-08-02 |
@@ -102,6 +102,7 @@
 | [Hopes](https://open.spotify.com/track/4VpZuQybRG17RNjhgVbym7) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Hopes](https://open.spotify.com/album/7DwxsnVF7eErIgNNxLiT7H) | 2:44 | 2025-08-21 | 2026-08-01 |
 | [Hotel](https://open.spotify.com/track/6GidQ1dZ3fn05tTDHu47In) | [Chezile](https://open.spotify.com/artist/1EmdfupUQDpXOcb4Nj2mBH) | [Alē](https://open.spotify.com/album/7LnzOfYsMn2euc6xuZoQup) | 2:27 | 2025-07-18 | 2025-08-02 |
 | [How To Live](https://open.spotify.com/track/25ywKtUww26ABFd0tiGt9D) | [Del Water Gap](https://open.spotify.com/artist/0xPoVNPnxIIUS1vrxAYV00) | [How To Live](https://open.spotify.com/album/0YrhLhmdGAgsHizxY1BRlH) | 4:00 | 2025-08-01 | 2026-01-24 |
+| [Husband](https://open.spotify.com/track/1cCSwhGE10BeDaze8r7HOD) | [Blossoms](https://open.spotify.com/artist/22RISwgVJyZu9lpqAcv1F5) | [Husband](https://open.spotify.com/album/2ynVj3JyhimFKz40GVQ3Xo) | 3:56 | 2026-09-17 |  |
 | [I Only Have Eyes for You](https://open.spotify.com/track/2oSMcZnGARuxk10qd6AXrT) | [The Flamingos](https://open.spotify.com/artist/6iygtKnPG7TRvDaTYcLOd6) | [Flamingo Serenades / Flamingo Favorites](https://open.spotify.com/album/2blBb1v0ylNOrzStHBhK48) | 3:18 | 2026-07-02 |  |
 | [I Wish I Didn’t Waste Your Time](https://open.spotify.com/track/0f7sFuSS6GiZEnNA9AHMsJ) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Children of the Baked Potato](https://open.spotify.com/album/3FwCRzcwO2Yv1mVjZtM9In) | 2:49 | 2025-09-18 | 2025-10-17 |
 | [I Wonder](https://open.spotify.com/track/2zrtp9krR2IyT9mi2PaIBC) | [Rodríguez](https://open.spotify.com/artist/5PrHzxc3kFm4hIrGNmelpX) | [Cold Fact](https://open.spotify.com/album/3q90UAYeHLvAtnowiQlmgp) | 2:34 | 2025-07-18 |  |
@@ -266,10 +267,11 @@
 | [Where To Start](https://open.spotify.com/track/2bhfHrX4IJzF62XKzqZpPX) | [Lou Doillon](https://open.spotify.com/artist/05TeWWFqSVEUurt1lVhh4q) | [Lay Low](https://open.spotify.com/album/06TZNVLfMrf0vtk0WsYwj4) | 2:46 | 2025-07-18 |  |
 | [who’s your boyfriend](https://open.spotify.com/track/2TugrDKkd55mfVOMVZsfO8) | [Royel Otis](https://open.spotify.com/artist/5b5bt4mZQpJMoCRbiQ7diH) | [hickey](https://open.spotify.com/album/4sKaRStL8BDpRkNss42nhX) | 2:53 | 2025-08-21 |  |
 | [Why Why Why Why Why](https://open.spotify.com/track/4zwq3QUKgMNk0NSLl7fpbP) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [5](https://open.spotify.com/album/57EkTny9UjqpLhFzMO4Hdb) | 3:58 | 2025-07-18 |  |
-| [Wild Romance](https://open.spotify.com/track/0JMpMJszhmHuBCvdnYt6tq) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Wild Romance](https://open.spotify.com/album/5Loewzrsr9zGKzQrLKuLFr) | 2:43 | 2026-07-23 |  |
+| [Wild Romance](https://open.spotify.com/track/0JMpMJszhmHuBCvdnYt6tq) | [Tahiti 80](https://open.spotify.com/artist/7N2ukNg3vSS0LE1xqSaO2j) | [Wild Romance](https://open.spotify.com/album/5Loewzrsr9zGKzQrLKuLFr) | 2:43 | 2026-07-23 | 2026-09-19 |
 | [Wildfires](https://open.spotify.com/track/4Tzw9IdZbVyzmpWrvsGaNX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [Untitled \(Black Is\)](https://open.spotify.com/album/0GPmuVuCdC5hCsiuy1wXle) | 3:26 | 2025-07-18 |  |
 | [willow](https://open.spotify.com/track/5DVPSIVpyp8D80XsgRkmjN) | [she's green](https://open.spotify.com/artist/42IX4MHpnREqy3N7HugkLY) | [willow](https://open.spotify.com/album/34H26omESs9CrxasleR1Cy) | 2:35 | 2025-07-25 | 2026-07-25 |
 | [Wind Says Low](https://open.spotify.com/track/4kKyZT2eiGWjcp5bqenDXv) | [Broken Back](https://open.spotify.com/artist/4nx8ehrFiCOmWgebUKshDV) | [Wind Says Low](https://open.spotify.com/album/3oUFqERiot1k7yXiv3GiL0) | 2:48 | 2026-01-30 | 2026-07-11 |
+| [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 | 2026-09-17 |  |
 | [Written into Changes](https://open.spotify.com/track/0JmWTXLKNep8x1uza83tpE) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz) | [Written into Changes](https://open.spotify.com/album/5xPMAEdxZtr25QazgO024g) | 3:17 | 2026-02-19 | 2026-04-03 |
 | [Yellow Brick Road](https://open.spotify.com/track/3pEOD1EmWMAPRDmBxg299G) | [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [Yellow Brick Road](https://open.spotify.com/album/23AaCgxiZqSapLnnIvmW3K) | 2:32 | 2025-07-18 |  |
 | [Yes I'm Changing](https://open.spotify.com/track/0xtIp0lgccN85GfGOekS5L) | [Tame Impala](https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb) | [Currents](https://open.spotify.com/album/79dL7FLiJFOO0EoehUHQBv) | 4:30 | 2025-07-18 |  |

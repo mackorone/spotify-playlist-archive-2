@@ -4,7 +4,7 @@
 
 > 
 
-585 songs - 1 day 13 hr 37 min
+587 songs - 1 day 13 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -97,6 +97,7 @@
 | [CAPTAIN KERNEL](https://open.spotify.com/track/3qgdg6mAzmI6Lx2hseDSel) | [Flying Lotus](https://open.spotify.com/artist/29XOeO6KIWxGthejQqn793) | [BIG MAMA](https://open.spotify.com/album/4SmsosLwKd9CML2ekO2wnS) | 3:04 | 2026-03-06 |  |
 | [Career Climbing](https://open.spotify.com/track/5bkxmQ4Im03LVDQsX78gdZ) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Yume](https://open.spotify.com/album/1jwaDkTXk5HQOcWCmFFXZX) | 3:25 | 2025-11-05 |  |
 | [career day \- Exaktly remix](https://open.spotify.com/track/0tl8pZGQFLfc55G19RHk03) | [Yaya Bey](https://open.spotify.com/artist/6tpaMMCs8X6o8j9H5OmWmT), [Exaktly](https://open.spotify.com/artist/1MRB7UrVK6DvvefA7pAqS8) | [career day \(Exaktly remix\)](https://open.spotify.com/album/17FRYdAB2RID2osUWZRroU) | 4:21 | 2024-08-07 | 2024-10-10 |
+| [Carols of My Mind](https://open.spotify.com/track/3yxBQDZmxlWe8ZIiMgQ5fN) | [Elliott Skinner](https://open.spotify.com/artist/0wccm4Qe9ErYas4CRed0yJ), [Victoria Canal](https://open.spotify.com/artist/2nE9x2JhbyjBVCaSnUGX3G), [Radamiz](https://open.spotify.com/artist/56UwW3oPU8t6IPhyiS1dju) | [How Far We’ve Come](https://open.spotify.com/album/5w6FgFIXI41Rw9Mg9YNKL6) | 2:59 | 2026-09-18 |  |
 | [Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/track/1qrIziSX4GwjlUMfmMhO3x) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [About To Begin / Cars Pass By Like Childhood Sweethearts](https://open.spotify.com/album/0SQV9DefT0wIBz9aCYehmu) | 3:05 | 2025-05-22 | 2025-11-07 |
 | [Cash](https://open.spotify.com/track/3aHiz7IyBKr9vNynIQJykZ) | [Mindchatter](https://open.spotify.com/artist/1He0ZKninbT4FMEV9hUZKn), [Emmit Fenn](https://open.spotify.com/artist/3VVLqeEqQQqTgT8YhfY9Z6) | [Cash](https://open.spotify.com/album/5C7l2U2lJrjLSMg8p13J14) | 2:42 | 2023-12-11 | 2023-12-20 |
 | [Caught Up In The Fire](https://open.spotify.com/track/1cskXAWztObojI6r2j60Al) | [Ben Böhmer](https://open.spotify.com/artist/5tDjiBYUsTqzd0RkTZxK7u), [JONAH](https://open.spotify.com/artist/3Rmw0IldYoch0L6XmTjQO4) | [Caught Up In The Fire](https://open.spotify.com/album/6stjuO04Rw5O2xqog9u8dA) | 3:43 | 2025-11-17 | 2026-02-18 |
@@ -456,6 +457,7 @@
 | [Shadow Dance](https://open.spotify.com/track/38XjbDDpMxZTzmA7eCbgaM) | [Kuedo](https://open.spotify.com/artist/1SYQUJukd40ps4z6RT77rC) | [Shadow Dance](https://open.spotify.com/album/6WOWUHCLX8C2tQYJwpc0p4) | 3:59 | 2022-07-21 | 2022-08-02 |
 | [Shaking Things Up](https://open.spotify.com/track/0FoCv0glfiTP2lmEcdreAu) | [nimino](https://open.spotify.com/artist/5x0R3zoC09GMiRJomoexLV) | [Shaking Things Up](https://open.spotify.com/album/4w5K1o40LvlRVUMXR6nU5A) | 3:36 | 2025-01-24 | 2025-04-01 |
 | [She Knows Too Much](https://open.spotify.com/track/7c5JxJWGMJqG0IYABA04WS) | [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U) | [She Knows Too Much](https://open.spotify.com/album/2WMCxpz3fhohhgz2BCZxmZ) | 3:33 | 2026-02-17 |  |
+| [Sheets](https://open.spotify.com/track/4Xkx6QPBxipcGEgsHDtPSB) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH), [Rainy Miller](https://open.spotify.com/artist/53LAWIqLkYE3N2UFod80A3) | [Radical Frame](https://open.spotify.com/album/4bvfwACExnuV8cVqmTvneG) | 16:24 | 2026-09-18 |  |
 | [Si Te Portas Bonito](https://open.spotify.com/track/0W4522kMykidUIBpOoI8oP) | [Sofia Kourtesis](https://open.spotify.com/artist/7wXTWO45lqpUejDkike0Gf) | [Si Te Portas Bonito](https://open.spotify.com/album/2O1INg3ragKUjPmQ5jMPQy) | 5:01 | 2023-07-28 | 2023-11-04 |
 | [Sign \(Revision\)](https://open.spotify.com/track/5O8T8WO7p1Fx6CM1lT1s7J) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k), [Nohr](https://open.spotify.com/artist/5ksOqe4QEaUjadayPHNX82) | [Sign \(Revision\)](https://open.spotify.com/album/2TkQVRexDHiRU7YPCHqKt1) | 3:06 | 2026-01-29 | 2026-04-04 |
 | [Silverlight](https://open.spotify.com/track/1R8qJRSmyAbEew2mtPQFJo) | [Rules](https://open.spotify.com/artist/3CYrfsHEf7AZRlKUvzTnpA) | [Silverlight](https://open.spotify.com/album/5vpDjbRlku61UAeFzqm09E) | 3:20 | 2025-11-07 | 2026-04-04 |

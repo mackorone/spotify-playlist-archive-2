@@ -1,12 +1,12 @@
 {
   "description": "Lo mejor de los '70. Foto: Ismael Rivera",
-  "num_followers": 248159,
+  "num_followers": 248213,
   "original_name": "Salsa: Los '70",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMYZVTPexKK4rfTKr4HTl8O3w+02",
+  "snapshot_id": "AAAAAEiAl3vS0AAQyZGwmq4YD/PsiUBp",
   "tracks": [
     {
       "added_at": "2024-09-24 20:30:16",
@@ -127,6 +127,22 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
+        "name": "Una Dimension De Exitos",
+        "url": "https://open.spotify.com/album/6cEzcbjpmhMhkuO22YNOOD"
+      },
+      "artists": [
+        {
+          "name": "La Dimensi\u00f3n Latina",
+          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
+        }
+      ],
+      "duration_ms": 231944,
+      "name": "Sigue Tu Camino",
+      "url": "https://open.spotify.com/track/6K60uL5wHxDSqKgzScPzAn"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
         "name": "Celia y Johnny",
         "url": "https://open.spotify.com/album/3ETmy7JfoqlvAwVg1sopmg"
       },
@@ -143,22 +159,6 @@
       "duration_ms": 291946,
       "name": "Quimbara",
       "url": "https://open.spotify.com/track/3GDna1GrUkkjZTaoysolGQ"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
-        "name": "Una Dimension De Exitos",
-        "url": "https://open.spotify.com/album/6cEzcbjpmhMhkuO22YNOOD"
-      },
-      "artists": [
-        {
-          "name": "La Dimensi\u00f3n Latina",
-          "url": "https://open.spotify.com/artist/5wb8MfrYdUEBSg71SKD0A5"
-        }
-      ],
-      "duration_ms": 231944,
-      "name": "Sigue Tu Camino",
-      "url": "https://open.spotify.com/track/6K60uL5wHxDSqKgzScPzAn"
     },
     {
       "added_at": "2024-09-24 20:30:16",
@@ -355,22 +355,6 @@
     {
       "added_at": "2024-09-24 20:30:16",
       "album": {
-        "name": "Salsas Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP"
-      },
-      "artists": [
-        {
-          "name": "Cuco Valoy",
-          "url": "https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE"
-        }
-      ],
-      "duration_ms": 260075,
-      "name": "Juliana",
-      "url": "https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz"
-    },
-    {
-      "added_at": "2024-09-24 20:30:16",
-      "album": {
         "name": "Sabor",
         "url": "https://open.spotify.com/album/62j3BsaN0cXPxbvOwvwlhH"
       },
@@ -383,6 +367,22 @@
       "duration_ms": 255586,
       "name": "Lejos De Ti",
       "url": "https://open.spotify.com/track/1u3myea0ndESXsA2OifxCQ"
+    },
+    {
+      "added_at": "2024-09-24 20:30:16",
+      "album": {
+        "name": "Salsas Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/5TZ0b6WVre1uW94NxmI4WP"
+      },
+      "artists": [
+        {
+          "name": "Cuco Valoy",
+          "url": "https://open.spotify.com/artist/0RdKPjwSwfx6jqqdgkyGmE"
+        }
+      ],
+      "duration_ms": 260075,
+      "name": "Juliana",
+      "url": "https://open.spotify.com/track/4HORNZa8fdeg2pjJBm51Zz"
     },
     {
       "added_at": "2024-09-24 20:30:16",

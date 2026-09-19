@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 
 > De nieuwste Hollands & Volkspop\. Cover: LA$$A, Lange Frans & Wesly Bronkhorst
 
-[Spotify](https://open.spotify.com/user/spotify) - 156,798 likes - 100 songs - 4 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,806 likes - 100 songs - 4 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3fVDvRBemdr.md) - [plain]
 | 99 | [Knipperlicht](https://open.spotify.com/track/59Qfe03ojYDt8nhdBNDurQ) | [Danny Froger](https://open.spotify.com/artist/1T6iHaohBe7N71F1jk0XSy), [Mikki van Wijk](https://open.spotify.com/artist/3IyRx9pTYYkwVOzwg1M8wW) | [Knipperlicht](https://open.spotify.com/album/57XzIIzXiVkd752eZj2LIS) | 2:36 |
 | 100 | [Een Dag In Een Nacht](https://open.spotify.com/track/1R9FQAlJmJCNeflQjuGVbs) | [Guus Doggen](https://open.spotify.com/artist/5EOFZMTcOOtNcSZdJMOkYJ) | [Een Dag In Een Nacht](https://open.spotify.com/album/7l7jdbpvS53HPJWPAVdRrK) | 2:35 |
 
-Snapshot ID: `AAAAAJQ9DrhYSye6rjDUaMRpn1dHhNnd`
+Snapshot ID: `AAAAANqRl0dmeFDXuCu7H1AKwVaq5yhl`

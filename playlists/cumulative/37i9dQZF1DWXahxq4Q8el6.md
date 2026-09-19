@@ -4,7 +4,7 @@
 
 > Uplifting scores and soundtracks to make your heart happy.
 
-96 songs - 5 hr 28 min
+97 songs - 5 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -42,6 +42,7 @@
 | [Hollow in the Ferns \(From "Far from the Madding Crowd" Soundtrack\)](https://open.spotify.com/track/7ChcR1Vdev6qnpcELoU5tI) | [Craig Armstrong](https://open.spotify.com/artist/526q7RxT5KA1VGeQ5GMSHO) | [Far from the Madding Crowd \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4J9mOsvXXsEy7ocReEwBBP) | 3:38 | 2021-01-29 |  |
 | [Hope \(From "A Hidden Life" Soundtrack\)](https://open.spotify.com/track/0ByRFYqhIaKQqWXShfoOTw) | [James Newton Howard](https://open.spotify.com/artist/2M4eNCvV3CJUswavkhAQg2), [James Ehnes](https://open.spotify.com/artist/0b7df8SeNFCgnJj5Wjg5c8), [Andrew Armstrong](https://open.spotify.com/artist/3pi9i7KYNops33AeHXFGMz) | [A Hidden Life \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1JyFpFS3gUIS5F5NCZRsk7) | 2:30 | 2021-01-29 |  |
 | [I'm Forrest..\. Forrest Gump](https://open.spotify.com/track/1ijrMIqQvZNsnoqGukPzFD) | [Alan Silvestri](https://open.spotify.com/artist/0Xk15jHKly4c3AhPr5vjoA) | [Forrest Gump \- Original Motion Picture Score](https://open.spotify.com/album/1Fw951OcmbeCmVnnNcRYrp) | 2:39 | 2021-01-29 |  |
+| [Il postino: Titoli](https://open.spotify.com/track/4uwlw4Us5NTUBIdpPu1jp3) | [Luis Bacalov](https://open.spotify.com/artist/4iy3JrFlBLHPvXqN1OcQS1), [Renaud Capuçon](https://open.spotify.com/artist/6ttz1LgWFVgRiNDOjtDb2L), [Stéphane Denève](https://open.spotify.com/artist/7FPSLDmxB1UckL2c2NN1kb), [Brussels Philharmonic](https://open.spotify.com/artist/5Rg1unDkJrxrTV08BKoFrP) | [Bacalov: Il postino](https://open.spotify.com/album/3aDvJC3QsKj5Y07yKFu02a) | 4:12 | 2026-09-18 |  |
 | [June's Theme](https://open.spotify.com/track/1YWciNl9oINxKCtMue0h0b) | [Ben Harlan](https://open.spotify.com/artist/0BRIlyj3o0fI17juH0fcUt) | [Goodbye June \(Soundtrack from the Netflix Film\)](https://open.spotify.com/album/7rHo57cTI9eMxUhZyvl863) | 2:33 | 2025-12-23 |  |
 | [Leaping Penguins](https://open.spotify.com/track/2aNbmkcEn5i29PSbWjjxB0) | [George Fenton](https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [Frozen Planet \(Soundtrack from the TV series\)](https://open.spotify.com/album/02bMvrs1MgBGhtAc311yzW) | 1:28 | 2022-07-13 | 2022-12-04 |
 | [Leaping Penguins](https://open.spotify.com/track/4axwWfy5bqOQeZ0adeJ6XU) | [George Fenton](https://open.spotify.com/artist/0NdNx5JwLDvas2LsMVTSyQ), [BBC Concert Orchestra](https://open.spotify.com/artist/3dIPaddbWppnquuPkcYVDg) | [Frozen Planet \(Soundtrack from the TV series\)](https://open.spotify.com/album/3A4JADKRXmANcPAPB8UHwn) | 1:28 | 2021-01-29 |  |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: rusowsky, KAROL G, Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,948 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,913 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 49 | [no tiene sentido](https://open.spotify.com/track/1HEwEN64NjgTaHmo7LfkX8) | [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [BORONDO](https://open.spotify.com/album/4xMNn5AFdmBIYiXRbt5YH4) | 2:38 |
 | 50 | [NOSTALGiA & VERANO](https://open.spotify.com/track/3RWTyqadYWqOqKXPrERNTE) | [Baby Loud](https://open.spotify.com/artist/6VSlGCOiyCqCRfFsThtvA7) | [NOSTALGiA & VERANO](https://open.spotify.com/album/5rRRxWmuiEEfj4nm2HzCdC) | 3:05 |
 
-Snapshot ID: `AAAAAK+96le++ShX6Rb4exeGNU4AhGi4`
+Snapshot ID: `AAAAAF0qnHZHPLVJQMCr9buMUu3X+P+3`

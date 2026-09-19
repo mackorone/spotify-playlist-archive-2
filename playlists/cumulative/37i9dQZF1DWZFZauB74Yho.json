@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-07-02",
-  "description": "The latest releases from bluegrass and string bands alike. Cover: Two Runner",
+  "description": "The latest releases from bluegrass and string bands alike. Cover: Jake Blount",
   "name": "New Grass",
   "tracks": [
     {
@@ -74,7 +74,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 191536,
       "name": "A Beautiful Life",
       "url": "https://open.spotify.com/track/6ESClaoG4oKNoCe94wz9Tm"
@@ -727,6 +727,24 @@
     },
     {
       "album": {
+        "name": "Better Way",
+        "url": "https://open.spotify.com/album/5QftB1DgiWcrANK5h9SLOJ"
+      },
+      "artists": [
+        {
+          "name": "The Creekers",
+          "url": "https://open.spotify.com/artist/2Ee2dvrxHJvnpWgaqC5T0i"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226108,
+      "name": "Better Way",
+      "url": "https://open.spotify.com/track/6XErs5DE9VHzlNBng2mdVr"
+    },
+    {
+      "album": {
         "name": "Between the Two of Us",
         "url": "https://open.spotify.com/album/4BvBXlDoMUUdGckyx5hQhr"
       },
@@ -742,6 +760,24 @@
       "duration_ms": 236000,
       "name": "Between the Two of Us",
       "url": "https://open.spotify.com/track/4pS7ad7B02becjE3TjNjSJ"
+    },
+    {
+      "album": {
+        "name": "Single-Footing Horse",
+        "url": "https://open.spotify.com/album/08vbQMAcXmDOs04QLGMl4G"
+      },
+      "artists": [
+        {
+          "name": "Jake Blount",
+          "url": "https://open.spotify.com/artist/63yfJDmaBbifNzvWUUdpv1"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208844,
+      "name": "Biddy",
+      "url": "https://open.spotify.com/track/0XQWFRy9ruVgNviHrsUJBp"
     },
     {
       "album": {
@@ -4127,6 +4163,24 @@
     },
     {
       "album": {
+        "name": "Hit the Nail on the Head",
+        "url": "https://open.spotify.com/album/05XnW3YgEbMHpJbv9i71Or"
+      },
+      "artists": [
+        {
+          "name": "Lonesome River Band",
+          "url": "https://open.spotify.com/artist/0wcvmmlzeqzW318K6lsynU"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179000,
+      "name": "Hit the Nail on the Head",
+      "url": "https://open.spotify.com/track/039WHRpbWKW5TJjWJaioVu"
+    },
+    {
+      "album": {
         "name": "Holdin' On, Holdin' Out",
         "url": "https://open.spotify.com/album/0VQfMEFRUdU2h6bSkBS4lV"
       },
@@ -5825,6 +5879,28 @@
     },
     {
       "album": {
+        "name": "Little Sadie",
+        "url": "https://open.spotify.com/album/4xTviiXogDYYVWRHQtQYgr"
+      },
+      "artists": [
+        {
+          "name": "Johanna Wacker",
+          "url": "https://open.spotify.com/artist/5woN9C1Shm6Q4xmgOhuH2c"
+        },
+        {
+          "name": "Arthur Terembula",
+          "url": "https://open.spotify.com/artist/3CBd6nKugojJJ7OAfiGs60"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184239,
+      "name": "Little Sadie",
+      "url": "https://open.spotify.com/track/6LyNo4XsjrrDrHsNnchM3T"
+    },
+    {
+      "album": {
         "name": "Lo, How a Rose E'er Blooming",
         "url": "https://open.spotify.com/album/5IzsTo7WDIkgsjJbPio2Bu"
       },
@@ -7094,6 +7170,28 @@
       "duration_ms": 187092,
       "name": "One White Line At A Time",
       "url": "https://open.spotify.com/track/4ODmbC99RAJl33VRCPf5Hk"
+    },
+    {
+      "album": {
+        "name": "Other Side of Austin",
+        "url": "https://open.spotify.com/album/0ViGwUIWZfwLO0SWApkE1r"
+      },
+      "artists": [
+        {
+          "name": "Luke Levenson",
+          "url": "https://open.spotify.com/artist/0pKtFEz6xH7d3HPZVDQsyN"
+        },
+        {
+          "name": "Morgan Lee Powers",
+          "url": "https://open.spotify.com/artist/5glSpWWl0M7LJksjAKBMoZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199899,
+      "name": "Other Side of Austin",
+      "url": "https://open.spotify.com/track/2ibuVUJ6LakIuQdW4qsIc6"
     },
     {
       "album": {
@@ -8672,7 +8770,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 193146,
       "name": "Silver Wave",
       "url": "https://open.spotify.com/track/5dsWR4AuIjIVi5DWj7slaB"
@@ -9446,7 +9544,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 263020,
       "name": "The Darker Side Of Me",
       "url": "https://open.spotify.com/track/2ELvyBdtsFUntm965s7v83"
@@ -9604,7 +9702,7 @@
       ],
       "date_added": "2026-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 329106,
       "name": "The Lie",
       "url": "https://open.spotify.com/track/1UzulUqcpOkCydTkWieCVl"
@@ -9880,7 +9978,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 177000,
       "name": "There Where the River Rolls Around",
       "url": "https://open.spotify.com/track/6ixvHkr0Lol7KxYH57u2mm"
@@ -10616,7 +10714,7 @@
       ],
       "date_added": "2026-01-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 177038,
       "name": "Wanderin' Alone",
       "url": "https://open.spotify.com/track/0uOJn9i0fbIScaJydmkXY0"
@@ -10934,6 +11032,32 @@
       "duration_ms": 253482,
       "name": "Whiskey Drinking Man (Single Version) [Live]",
       "url": "https://open.spotify.com/track/5jnBy8HmRXrG3PttGsFJm9"
+    },
+    {
+      "album": {
+        "name": "Whiskey Train (with Ronnie McCoury)",
+        "url": "https://open.spotify.com/album/5qmAIrgbGPZ3q7K3QPLkbZ"
+      },
+      "artists": [
+        {
+          "name": "Railroad Earth",
+          "url": "https://open.spotify.com/artist/6ijT84fUReKCGYV3MjhB2y"
+        },
+        {
+          "name": "Ronnie McCoury",
+          "url": "https://open.spotify.com/artist/4xLzU33GmHeP6nGcYEIKdh"
+        },
+        {
+          "name": "The Travelin' McCourys",
+          "url": "https://open.spotify.com/artist/68EkPt5iRraARf9QgW093I"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243207,
+      "name": "Whiskey Train (with Ronnie McCoury)",
+      "url": "https://open.spotify.com/track/6CDWvVwxhzcmRw9Mu2Ktl7"
     },
     {
       "album": {

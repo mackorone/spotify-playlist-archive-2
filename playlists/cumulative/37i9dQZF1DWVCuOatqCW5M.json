@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-30",
-  "description": "Latest music from Prateeksha Srivastava, Jubin Nautiyal, Neeti Mohan and more.",
+  "description": "Latest music from Kushagra, Shekhar Ravjiani, Priya Saraiya, Asees Kaur and more.",
   "name": "New Music Friday I-Pop ",
   "tracks": [
     {
@@ -834,7 +834,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 193103,
       "name": "Aakhri Saans",
       "url": "https://open.spotify.com/track/1bZXjQGEB9Vvgf3U604H7b"
@@ -18489,6 +18489,28 @@
     },
     {
       "album": {
+        "name": "Jiyara",
+        "url": "https://open.spotify.com/album/2a3XGuHHVE4XszjFI7Qxgw"
+      },
+      "artists": [
+        {
+          "name": "Kushagra",
+          "url": "https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6"
+        },
+        {
+          "name": "Vampire",
+          "url": "https://open.spotify.com/artist/5xDnoGOwMyDn1smvCS5fqa"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165000,
+      "name": "Jiyara",
+      "url": "https://open.spotify.com/track/56qV2PcQkOp6wdBw2b5vDE"
+    },
+    {
+      "album": {
         "name": "Jo Haal Dil Ka",
         "url": "https://open.spotify.com/album/0DzqKy7zDaNJDVWOirShMg"
       },
@@ -32337,6 +32359,32 @@
     },
     {
       "album": {
+        "name": "Russ Jana",
+        "url": "https://open.spotify.com/album/7sc0SXsHpZpIzZvk340nt4"
+      },
+      "artists": [
+        {
+          "name": "Shekhar Ravjiani",
+          "url": "https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw"
+        },
+        {
+          "name": "Priya Saraiya",
+          "url": "https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss"
+        },
+        {
+          "name": "Asees Kaur",
+          "url": "https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208714,
+      "name": "Russ Jana",
+      "url": "https://open.spotify.com/track/6wMUmcgKpf36YJqyrFXK80"
+    },
+    {
+      "album": {
         "name": "Saadgi",
         "url": "https://open.spotify.com/album/0exm7XO6qOjaoMe1t0QW8v"
       },
@@ -32680,7 +32728,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 185052,
       "name": "Saath",
       "url": "https://open.spotify.com/track/7iYTsZuUo1gFMjs0gV8SMA"

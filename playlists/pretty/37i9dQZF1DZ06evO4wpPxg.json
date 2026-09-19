@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqiKgAAAAABjAkemzW9zaHWtOox5v7V7",
+  "snapshot_id": "aqstgAAAAAAOn7dgQfAW1mgy+fU2eioX",
   "tracks": [
     {
       "added_at": null,
@@ -303,22 +303,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Early Recordings Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 180560,
-      "name": "I Saw The Light",
-      "url": "https://open.spotify.com/track/71NqbkntAkVQVQ1tWKRuFT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "At Home and Church, 1962 - 1967",
         "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
       },
@@ -328,25 +312,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 171293,
-      "name": "Two Step Candyman",
-      "url": "https://open.spotify.com/track/2TdngC43Kzf0Z2toVu3adP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Harlem Street Singer",
-        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 189333,
-      "name": "Twelve Gates To The City",
-      "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
+      "duration_ms": 116173,
+      "name": "Sally, Where'd You Get Your Liquor From",
+      "url": "https://open.spotify.com/track/28TV9KnXnoxaABtzIAUChb"
     },
     {
       "added_at": null,
@@ -367,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Complete Early Recordings Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
+        "name": "Harlem Street Singer",
+        "url": "https://open.spotify.com/album/6LIeJyolQce8lDtRHpQBbr"
       },
       "artists": [
         {
@@ -376,25 +344,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 198626,
-      "name": "The Great Change In Me",
-      "url": "https://open.spotify.com/track/20UOUpuO0wcF9ftS9JUJyz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At Home and Church, 1962 - 1967",
-        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 116173,
-      "name": "Sally, Where'd You Get Your Liquor From",
-      "url": "https://open.spotify.com/track/28TV9KnXnoxaABtzIAUChb"
+      "duration_ms": 189333,
+      "name": "Twelve Gates To The City",
+      "url": "https://open.spotify.com/track/1ayfBCPk1WtaelzZWGyYti"
     },
     {
       "added_at": null,
@@ -408,15 +360,15 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 253200,
-      "name": "Mister Jim (Walkin' Dog Blues) - Instrumental",
-      "url": "https://open.spotify.com/track/7y1rfJduBCRDaaeJ3El2pL"
+      "duration_ms": 160266,
+      "name": "The Boy Was Kissing The Girl (And Playing Guitar At The Same Time) - Instrumental",
+      "url": "https://open.spotify.com/track/6qFJtlL73HIEh0maFhyQ6Z"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Rev. Blind Gary Davis 1935 - 1949",
-        "url": "https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2"
+        "name": "The Complete Early Recordings Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
       },
       "artists": [
         {
@@ -424,25 +376,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 183902,
-      "name": "Lord, I Wish I Could See",
-      "url": "https://open.spotify.com/track/6KX8xLpTnIIfa4D5mB9zxS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Worried Blues",
-        "url": "https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 341426,
-      "name": "Lo, I'll Be with You Always",
-      "url": "https://open.spotify.com/track/1iYzz9zvrjYXA4UyKEioeM"
+      "duration_ms": 180560,
+      "name": "I Saw The Light",
+      "url": "https://open.spotify.com/track/71NqbkntAkVQVQ1tWKRuFT"
     },
     {
       "added_at": null,
@@ -463,6 +399,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Demons & Angels - the Music of Rev. Gary Davis",
+        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 276362,
+      "name": "Oh Glory, How Happy I Am",
+      "url": "https://open.spotify.com/track/30BoxMAKNWj0szlFeFhvXv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Guitar And Banjo Of Reverend Gary Davis",
         "url": "https://open.spotify.com/album/53QsjgEDlXH9TwIamS0xGJ"
       },
@@ -472,9 +424,41 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 160266,
-      "name": "The Boy Was Kissing The Girl (And Playing Guitar At The Same Time) - Instrumental",
-      "url": "https://open.spotify.com/track/6qFJtlL73HIEh0maFhyQ6Z"
+      "duration_ms": 253200,
+      "name": "Mister Jim (Walkin' Dog Blues) - Instrumental",
+      "url": "https://open.spotify.com/track/7y1rfJduBCRDaaeJ3El2pL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Worried Blues",
+        "url": "https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 341426,
+      "name": "Lo, I'll Be with You Always",
+      "url": "https://open.spotify.com/track/1iYzz9zvrjYXA4UyKEioeM"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Have A Little Faith",
+        "url": "https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 274866,
+      "name": "I'll Fly Away",
+      "url": "https://open.spotify.com/track/5UIN6xZdZQ4S99OPeHc0Nn"
     },
     {
       "added_at": null,
@@ -504,15 +488,15 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 171000,
-      "name": "I'm Throwin' Up My Hand",
-      "url": "https://open.spotify.com/track/7Kf9LfrFRYdrgciYP5Yogb"
+      "duration_ms": 198626,
+      "name": "The Great Change In Me",
+      "url": "https://open.spotify.com/track/20UOUpuO0wcF9ftS9JUJyz"
     },
     {
       "added_at": null,
       "album": {
-        "name": "The Sun of Our Life",
-        "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
+        "name": "At Home and Church, 1962 - 1967",
+        "url": "https://open.spotify.com/album/7soKwEe8T3oGaA0k59LzFU"
       },
       "artists": [
         {
@@ -520,57 +504,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 156266,
-      "name": "West Coast Blues (Blind Blake)",
-      "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Bluegrass Banjo",
-        "url": "https://open.spotify.com/album/1kwYXtYRXrZNLZxs5oX3bx"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 219333,
-      "name": "Get Along Cindy",
-      "url": "https://open.spotify.com/track/7ufbjod7bg6PK168Cy9OQK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Demons & Angels - the Music of Rev. Gary Davis",
-        "url": "https://open.spotify.com/album/5uMHd9vl0MbLLW0dSeoiox"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 276362,
-      "name": "Oh Glory, How Happy I Am",
-      "url": "https://open.spotify.com/track/30BoxMAKNWj0szlFeFhvXv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Complete Early Recordings Of Reverend Gary Davis",
-        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 161360,
-      "name": "Meet Me At The Station",
-      "url": "https://open.spotify.com/track/7L9PoUci31JqwPrwlKxMyA"
+      "duration_ms": 171293,
+      "name": "Two Step Candyman",
+      "url": "https://open.spotify.com/track/2TdngC43Kzf0Z2toVu3adP"
     },
     {
       "added_at": null,
@@ -591,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK"
+        "name": "The Sun of Our Life",
+        "url": "https://open.spotify.com/album/7hkJw6i6XwChUUCWlJVYtR"
       },
       "artists": [
         {
@@ -600,9 +536,25 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 274866,
-      "name": "I'll Fly Away",
-      "url": "https://open.spotify.com/track/5UIN6xZdZQ4S99OPeHc0Nn"
+      "duration_ms": 156266,
+      "name": "West Coast Blues (Blind Blake)",
+      "url": "https://open.spotify.com/track/43IBl2Kq835k1iknfUqbvU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Complete Early Recordings Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "I'm Throwin' Up My Hand",
+      "url": "https://open.spotify.com/track/7Kf9LfrFRYdrgciYP5Yogb"
     },
     {
       "added_at": null,
@@ -619,6 +571,38 @@
       "duration_ms": 144133,
       "name": "Give Me a Heart to Love",
       "url": "https://open.spotify.com/track/5dGPjdbXzYKKm3nOWBqgOc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rev. Blind Gary Davis 1935 - 1949",
+        "url": "https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 183902,
+      "name": "Lord, I Wish I Could See",
+      "url": "https://open.spotify.com/track/6KX8xLpTnIIfa4D5mB9zxS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bluegrass Banjo",
+        "url": "https://open.spotify.com/album/1kwYXtYRXrZNLZxs5oX3bx"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 219333,
+      "name": "Get Along Cindy",
+      "url": "https://open.spotify.com/track/7ufbjod7bg6PK168Cy9OQK"
     },
     {
       "added_at": null,
@@ -648,25 +632,9 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 212426,
-      "name": "Mountain Jack",
-      "url": "https://open.spotify.com/track/1L65pHJZuG3K4giGhhZmNm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Say No To The Devil",
-        "url": "https://open.spotify.com/album/0AuRiSze92kbZpRF2cIuwe"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 264373,
-      "name": "Time Is Drawing Near",
-      "url": "https://open.spotify.com/track/64QZaHgNuMUgM60qsIwc5g"
+      "duration_ms": 189106,
+      "name": "I Didn't Want to Join the Band",
+      "url": "https://open.spotify.com/track/73Mf4S7v0C9Ck7JZHPDcQz"
     },
     {
       "added_at": null,
@@ -703,6 +671,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Complete Early Recordings Of Reverend Gary Davis",
+        "url": "https://open.spotify.com/album/07iVLo7HJnTG7NllteS0FA"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 161360,
+      "name": "Meet Me At The Station",
+      "url": "https://open.spotify.com/track/7L9PoUci31JqwPrwlKxMyA"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pure Religion and Bad Company",
         "url": "https://open.spotify.com/album/0JS2Vbmp36RbIDQ0KkFWxg"
       },
@@ -715,22 +699,6 @@
       "duration_ms": 234293,
       "name": "Bad Company",
       "url": "https://open.spotify.com/track/646Yt78fgHq9FC6J9V57Ph"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "At Newport",
-        "url": "https://open.spotify.com/album/0hzGNlXzRtBOgcDaaricsc"
-      },
-      "artists": [
-        {
-          "name": "Rev. Gary Davis",
-          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
-        }
-      ],
-      "duration_ms": 217840,
-      "name": "I've Done All My Singing For My Lord",
-      "url": "https://open.spotify.com/track/3vD8qerHxe21LWAW2vXo24"
     },
     {
       "added_at": null,
@@ -751,8 +719,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Have A Little Faith",
-        "url": "https://open.spotify.com/album/0hy4BlhOVL04C5h3Rj6hHK"
+        "name": "Worried Blues",
+        "url": "https://open.spotify.com/album/7CQunRo99uLi7XYbCtooHz"
       },
       "artists": [
         {
@@ -760,9 +728,25 @@
           "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
         }
       ],
-      "duration_ms": 199160,
-      "name": "You Got To Move",
-      "url": "https://open.spotify.com/track/2LJwLyGJKoqkLhsen51Yqp"
+      "duration_ms": 230826,
+      "name": "Mornin' Train",
+      "url": "https://open.spotify.com/track/7GjgmGyUHn1GiLLGkYKwuO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Rev. Blind Gary Davis 1935 - 1949",
+        "url": "https://open.spotify.com/album/6d9OIAdRyHLbwwblrIplW2"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 169691,
+      "name": "I'm Throwin' Up My Hands",
+      "url": "https://open.spotify.com/track/7axxUk7tja37WN85wD9Y0b"
     },
     {
       "added_at": null,
@@ -779,6 +763,22 @@
       "duration_ms": 286666,
       "name": "Moon Goes Down",
       "url": "https://open.spotify.com/track/1YztbRfyrwv1o07T4dnCwp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live and Kickin'",
+        "url": "https://open.spotify.com/album/3AFJAp5xnLiMPBuncEdU79"
+      },
+      "artists": [
+        {
+          "name": "Rev. Gary Davis",
+          "url": "https://open.spotify.com/artist/7DtrCdyysCDj5BlVKcassv"
+        }
+      ],
+      "duration_ms": 314200,
+      "name": "How Much We Can Bear - Live",
+      "url": "https://open.spotify.com/track/2JaZmjYuKNH5Csf5pIuaE3"
     },
     {
       "added_at": null,

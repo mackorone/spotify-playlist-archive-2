@@ -2501,6 +2501,24 @@
     },
     {
       "album": {
+        "name": "amber",
+        "url": "https://open.spotify.com/album/79ZIW7PNFYr0YPW8B97ScM"
+      },
+      "artists": [
+        {
+          "name": "Maxx",
+          "url": "https://open.spotify.com/artist/058CZbsaJmJbRQvDRAAErr"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175000,
+      "name": "amber",
+      "url": "https://open.spotify.com/track/0ZFYibnb5tlvtkPyT5dtGY"
+    },
+    {
+      "album": {
         "name": "myndstream Collection, Vol. 1",
         "url": "https://open.spotify.com/album/7CyB8IxxGAXQYFZZomxxfx"
       },
@@ -3200,7 +3218,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 138000,
       "name": "Arrival",
       "url": "https://open.spotify.com/track/0gOYHbmWgfJDsWY6H7MJgC"
@@ -5004,7 +5022,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 318009,
       "name": "Bird's Eye",
       "url": "https://open.spotify.com/track/6TQ3NtTlkAcAStLEfTarrZ"
@@ -6366,7 +6384,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 683141,
       "name": "Canto Solo",
       "url": "https://open.spotify.com/track/54jfKURsR06QUOHaGUsuIk"
@@ -6428,7 +6446,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 243929,
       "name": "Caracol",
       "url": "https://open.spotify.com/track/4dNuvs0z50wMKxlLqhDp5G"
@@ -7398,7 +7416,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 296000,
       "name": "Circle 72 (Summer Hum)",
       "url": "https://open.spotify.com/track/4GaMNPn6H4UtLFxHuyeBI8"
@@ -8389,6 +8407,28 @@
     },
     {
       "album": {
+        "name": "12 Conversations",
+        "url": "https://open.spotify.com/album/6Q6jtfzYCMmUz3h8xBo3Tm"
+      },
+      "artists": [
+        {
+          "name": "Alva Noto",
+          "url": "https://open.spotify.com/artist/1zrqDVuh55auIRthalFdXp"
+        },
+        {
+          "name": "Ryuichi Sakamoto",
+          "url": "https://open.spotify.com/artist/1tcgfoMTT1szjUeaikxRjA"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 410393,
+      "name": "Conversation 1",
+      "url": "https://open.spotify.com/track/0bMixpUhrbM5gLI1QBwBDm"
+    },
+    {
+      "album": {
         "name": "Conversation 3",
         "url": "https://open.spotify.com/album/2k5HAjy3uCMwKkWWs5nu9Z"
       },
@@ -8692,10 +8732,32 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 259993,
       "name": "Cycle",
       "url": "https://open.spotify.com/track/1qhIERppXUhvu9FxJgbqk9"
+    },
+    {
+      "album": {
+        "name": "Revolutions",
+        "url": "https://open.spotify.com/album/5IUomUzzSUDTKnr1fHvu1v"
+      },
+      "artists": [
+        {
+          "name": "Domy Castellano",
+          "url": "https://open.spotify.com/artist/2bwGHLbsqHoMmpMcp01WnO"
+        },
+        {
+          "name": "Raphah",
+          "url": "https://open.spotify.com/artist/4LO3xGuIhjAzgRVSNOdqIL"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212373,
+      "name": "Cycles of Light",
+      "url": "https://open.spotify.com/track/2wH04DD36lbeltqqkBNTpm"
     },
     {
       "album": {
@@ -9062,6 +9124,24 @@
       "duration_ms": 240850,
       "name": "Dawn of Awakening",
       "url": "https://open.spotify.com/track/2XIJbFw1hdpJv5Cpad4WPl"
+    },
+    {
+      "album": {
+        "name": "Growing",
+        "url": "https://open.spotify.com/album/0XKwTG7VH3CH5Jl4Pqvn5b"
+      },
+      "artists": [
+        {
+          "name": "Wreath",
+          "url": "https://open.spotify.com/artist/3x9rlymTBij2DrVsEst9JX"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176718,
+      "name": "Dawn Walk",
+      "url": "https://open.spotify.com/track/0yULw67uxPHEozwIoW18hg"
     },
     {
       "album": {
@@ -12198,7 +12278,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 251176,
       "name": "Everything That Remains",
       "url": "https://open.spotify.com/track/6XYEBFUyj01gpjCtj5ZIrg"
@@ -13066,7 +13146,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 126276,
       "name": "float",
       "url": "https://open.spotify.com/track/0ZJmYqQYvB6E39fhFoRaUX"
@@ -17109,6 +17189,24 @@
     },
     {
       "album": {
+        "name": "I'm Writing a New Song Every Month from One Birthday til the Next: September",
+        "url": "https://open.spotify.com/album/1TvJvMqe4R2qT1Mch6LP0M"
+      },
+      "artists": [
+        {
+          "name": "Dylan Henner",
+          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217731,
+      "name": "I'm Writing a New Song Every Month from One Birthday til the Next: September",
+      "url": "https://open.spotify.com/track/6JTR8aXjnTBzEyXZI3b3Wx"
+    },
+    {
+      "album": {
         "name": "SUNDAYS",
         "url": "https://open.spotify.com/album/58R38dTFySIe8wW1NfU96K"
       },
@@ -17306,6 +17404,28 @@
       "duration_ms": 292000,
       "name": "If you love solitude, you don\u2019t love freedom",
       "url": "https://open.spotify.com/track/68ehun5XeirwMPnwTSyefV"
+    },
+    {
+      "album": {
+        "name": "The Sky Was Out of Tune",
+        "url": "https://open.spotify.com/album/6rUJLZ2ogkTyoHVsfC2z00"
+      },
+      "artists": [
+        {
+          "name": "Anushka Chkheidze",
+          "url": "https://open.spotify.com/artist/67m6HVMSpQbjioHGsdmXWs"
+        },
+        {
+          "name": "Robert Lippok",
+          "url": "https://open.spotify.com/artist/4EyeZbKRJj7sOA0R2AfdKF"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188269,
+      "name": "II",
+      "url": "https://open.spotify.com/track/5FFbaC1w8TyjreQwc3RGqe"
     },
     {
       "album": {
@@ -17644,7 +17764,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 158608,
       "name": "in the distance",
       "url": "https://open.spotify.com/track/123sdAsOfIzxTuMk5UWjtf"
@@ -19498,7 +19618,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 181857,
       "name": "lamenta (transition vaya v)",
       "url": "https://open.spotify.com/track/6ueMM7fXWoyl9PuUYVIh1i"
@@ -19600,7 +19720,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 261400,
       "name": "Landscape #14",
       "url": "https://open.spotify.com/track/2jDDszlB9fmMM2kNLmxfzR"
@@ -21185,6 +21305,24 @@
     },
     {
       "album": {
+        "name": "LUMEN VITAE",
+        "url": "https://open.spotify.com/album/4q3BBWcADXPBh5bCx1ef2H"
+      },
+      "artists": [
+        {
+          "name": "I.P.U",
+          "url": "https://open.spotify.com/artist/3I1SIa0FykFwmby0dic6kD"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149546,
+      "name": "LUMEN VITAE",
+      "url": "https://open.spotify.com/track/4MeGnL213h17UL3FOM44lu"
+    },
+    {
+      "album": {
         "name": "Luminal",
         "url": "https://open.spotify.com/album/3ItdFSJyglno2X3FvmKnCq"
       },
@@ -21600,6 +21738,24 @@
       "duration_ms": 105299,
       "name": "Mandeville",
       "url": "https://open.spotify.com/track/1Y5pSStG7rTChlIxvJQevE"
+    },
+    {
+      "album": {
+        "name": "Pozo de Agua",
+        "url": "https://open.spotify.com/album/6vMtJp5d41Gi2ApvUHhX7j"
+      },
+      "artists": [
+        {
+          "name": "Le Motel",
+          "url": "https://open.spotify.com/artist/4LLrhUqUv2Mi1NhHz0pjXd"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 196800,
+      "name": "Mangrove",
+      "url": "https://open.spotify.com/track/1y328nE75zjvhLFYlXILHz"
     },
     {
       "album": {
@@ -24821,6 +24977,28 @@
     },
     {
       "album": {
+        "name": "Ocean Arrivals",
+        "url": "https://open.spotify.com/album/7mHsPbpFfTBRHD7RlglEEg"
+      },
+      "artists": [
+        {
+          "name": "Sonant",
+          "url": "https://open.spotify.com/artist/75zYVoafqQWY1dV4NA2ppY"
+        },
+        {
+          "name": "Chris Bartels",
+          "url": "https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 124697,
+      "name": "Ocean Arrivals",
+      "url": "https://open.spotify.com/track/470HMPJ8Rdx1tqr5drrM2r"
+    },
+    {
+      "album": {
         "name": "Oceano Efervescente",
         "url": "https://open.spotify.com/album/6luHfKVr7cbXwJwFlnnI9v"
       },
@@ -24836,7 +25014,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 213333,
       "name": "Oceano Efervescente",
       "url": "https://open.spotify.com/track/4FqB6pnziCRrzeVqh7osFq"
@@ -25140,7 +25318,7 @@
       ],
       "date_added": "2026-08-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 346231,
       "name": "On s'est perdu de vue",
       "url": "https://open.spotify.com/track/20WucIJ2iVdruGQU0CvZNN"
@@ -31806,7 +31984,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 179420,
       "name": "sitting circle",
       "url": "https://open.spotify.com/track/6UQaumDk0eKi9hlyfXmCoa"
@@ -34245,6 +34423,28 @@
     },
     {
       "album": {
+        "name": "sweetheart",
+        "url": "https://open.spotify.com/album/3WOfo6lvFLH7sDy6Ewv9zm"
+      },
+      "artists": [
+        {
+          "name": "Jadu Jadu",
+          "url": "https://open.spotify.com/artist/2Oe3qtPntosByl21BCcUSc"
+        },
+        {
+          "name": "hnylmn",
+          "url": "https://open.spotify.com/artist/6Lz6Y1m8SGfRHXkNq7d5AZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 81750,
+      "name": "sweetheart",
+      "url": "https://open.spotify.com/track/2hffoHZMSYOjMWWsMjXHEa"
+    },
+    {
+      "album": {
         "name": "Aftersun (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/4wD76tshsvfxKYizJ7LsGa"
       },
@@ -34590,6 +34790,24 @@
       "duration_ms": 185500,
       "name": "Tapir",
       "url": "https://open.spotify.com/track/20MXBhQSpsngsyWdn7lwjF"
+    },
+    {
+      "album": {
+        "name": "tea at appian creek",
+        "url": "https://open.spotify.com/album/6vHBfUO0YfYao1R1xkWDTE"
+      },
+      "artists": [
+        {
+          "name": "marine eyes",
+          "url": "https://open.spotify.com/artist/7uNO2rLT4u4sgkGmkZxq25"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 219450,
+      "name": "tea at appian creek",
+      "url": "https://open.spotify.com/track/6ucqxSMgh4pMBmsH8lCmQ9"
     },
     {
       "album": {
@@ -37871,6 +38089,24 @@
     },
     {
       "album": {
+        "name": "Motorcycles and Cherry Wind / Under the Canopy",
+        "url": "https://open.spotify.com/album/0mse61ZgIxbXnjE7BAMCbN"
+      },
+      "artists": [
+        {
+          "name": "Isik Kural",
+          "url": "https://open.spotify.com/artist/11GeSCHSovaw6Y9u4BFvVZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232000,
+      "name": "Under the Canopy",
+      "url": "https://open.spotify.com/track/6PbzGfFkQqp80BdOKYpMjl"
+    },
+    {
+      "album": {
         "name": "Under the Ice",
         "url": "https://open.spotify.com/album/2b2TdnIWMCLlhjFGFZZ3Oe"
       },
@@ -38495,6 +38731,24 @@
     },
     {
       "album": {
+        "name": "Vanguard",
+        "url": "https://open.spotify.com/album/3qZaC4kNYWg69Xz8TyAO1J"
+      },
+      "artists": [
+        {
+          "name": "George Ian Hewitt",
+          "url": "https://open.spotify.com/artist/2mcQtO7Xg2GvUi8d3QViAg"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165329,
+      "name": "Vanguard",
+      "url": "https://open.spotify.com/track/4RRk6OzWTk7WGcaHILSAiI"
+    },
+    {
+      "album": {
         "name": "vapor",
         "url": "https://open.spotify.com/album/4KOxt1ef5AjaopmBZ8cqeZ"
       },
@@ -38702,6 +38956,32 @@
       "duration_ms": 408678,
       "name": "Verona Walls",
       "url": "https://open.spotify.com/track/5vV1qY2d15FbX1xwUaxIM3"
+    },
+    {
+      "album": {
+        "name": "Vertu",
+        "url": "https://open.spotify.com/album/20tKLYjRn6CwkirRdQhp79"
+      },
+      "artists": [
+        {
+          "name": "Chris Bartels",
+          "url": "https://open.spotify.com/artist/4RVdMNwTuWJAPTYpzBri7K"
+        },
+        {
+          "name": "Brique a Braq",
+          "url": "https://open.spotify.com/artist/5SkCoDbdYJn9RkWHTa1CUF"
+        },
+        {
+          "name": "Elskavon",
+          "url": "https://open.spotify.com/artist/5vDfVxwAH8ANpuIKKxfOeq"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220665,
+      "name": "Vertu",
+      "url": "https://open.spotify.com/track/18J56UHyy92fn1QjNp9WsN"
     },
     {
       "album": {

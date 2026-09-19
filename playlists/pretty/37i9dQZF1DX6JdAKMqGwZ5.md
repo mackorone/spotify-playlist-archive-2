@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 
 > Descubre los temas emergentes del mundo indie\. Foto: 1111.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,458 likes - 120 songs - 6 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,450 likes - 120 songs - 6 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6JdAKMqGwZ5.md) - [plain]
 | 119 | [Plantas y Barro](https://open.spotify.com/track/6ustzGBhuVPvdMj0TofSiM) | [El Último Vecino](https://open.spotify.com/artist/7pMvkMVRImOSDAicV69zAX) | [Plantas y Barro](https://open.spotify.com/album/1I7hWm9BrKJrFjPpGHTFlH) | 3:18 |
 | 120 | [Dins aquests dies](https://open.spotify.com/track/12XdcOvQ15bEjK6VWE0wKb) | [Joan Miquel Oliver](https://open.spotify.com/artist/6zXhOyC07G4spYTHFLm7oo), [Miquel Serra](https://open.spotify.com/artist/0xUNARNv5PfWqCuu8TJGug) | [Roïssos](https://open.spotify.com/album/0L2DqfZ4sdsXhr0DyxwHO5) | 2:38 |
 
-Snapshot ID: `AAAAANQrfSn8LrvDWR2PtB1XLu3qbgVi`
+Snapshot ID: `AAAAACG1Lo/W2pIQO+e5GCQSTvD5D9Y8`

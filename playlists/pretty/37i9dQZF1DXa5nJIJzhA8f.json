@@ -1,12 +1,12 @@
 {
   "description": "Meticulously selected by Spotify music experts.",
-  "num_followers": 96946,
+  "num_followers": 96935,
   "original_name": "Editors' Picks: Best Songs of 2025",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALQXYhHAr1w75q2la20itCe49b08",
+  "snapshot_id": "AAAAAAsYuTIryxx/aWxfXCyBv44dtcAx",
   "tracks": [
     {
       "added_at": "2026-02-04 14:24:46",
@@ -683,6 +683,22 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
+        "name": "Tsunami Sea",
+        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
+      },
+      "artists": [
+        {
+          "name": "Spiritbox",
+          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
+        }
+      ],
+      "duration_ms": 243522,
+      "name": "Keep Sweet",
+      "url": "https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
         "name": "Moon",
         "url": "https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 317000,
       "name": "Moon (Feat. Bon Iver)",
       "url": "https://open.spotify.com/track/2RBvwQI858xReQpWSRO866"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
-        "name": "Tsunami Sea",
-        "url": "https://open.spotify.com/album/79sg58t1vRpcxudpP9uPtg"
-      },
-      "artists": [
-        {
-          "name": "Spiritbox",
-          "url": "https://open.spotify.com/artist/4MzJMcHQBl9SIYSjwWn8QW"
-        }
-      ],
-      "duration_ms": 243522,
-      "name": "Keep Sweet",
-      "url": "https://open.spotify.com/track/0Sd7nAZakCLRPxAqfiFd9m"
     },
     {
       "added_at": "2026-02-04 14:24:46",
@@ -1223,22 +1223,6 @@
     {
       "added_at": "2026-02-04 14:24:46",
       "album": {
-        "name": "choke enough",
-        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
-      },
-      "artists": [
-        {
-          "name": "Oklou",
-          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
-        }
-      ],
-      "duration_ms": 198587,
-      "name": "blade bird",
-      "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
-    },
-    {
-      "added_at": "2026-02-04 14:24:46",
-      "album": {
         "name": "LIVE-ACTION",
         "url": "https://open.spotify.com/album/6KpA380vLBVA6d6lYebIk3"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 202270,
       "name": "UNDEFEATED",
       "url": "https://open.spotify.com/track/5fwKEMTyS0FqLk7KVdGQwl"
+    },
+    {
+      "added_at": "2026-02-04 14:24:46",
+      "album": {
+        "name": "choke enough",
+        "url": "https://open.spotify.com/album/58PwJKq5KH2MjVt2Ih4nEt"
+      },
+      "artists": [
+        {
+          "name": "Oklou",
+          "url": "https://open.spotify.com/artist/6fFcUOFcbjeIuEomuUthkw"
+        }
+      ],
+      "duration_ms": 198587,
+      "name": "blade bird",
+      "url": "https://open.spotify.com/track/45LwOlqL3HOEQkPjjHpu7U"
     },
     {
       "added_at": "2026-02-04 14:24:46",

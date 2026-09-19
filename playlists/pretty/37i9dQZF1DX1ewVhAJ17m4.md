@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 
 > All the best new songs from the pop punk scene\. Cover: WATERPARKS
 
-[Spotify](https://open.spotify.com/user/spotify) - 604,438 likes - 100 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 604,433 likes - 100 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,13 +41,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 31 | [SUPERMAN](https://open.spotify.com/track/4UM8YF7PvhdAs94bsxxJM7) | [South Arcade](https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF) | [SUPERMAN](https://open.spotify.com/album/0Xp8U8KDNMYUREYFtS3sCy) | 3:24 |
 | 32 | [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/track/3fHEfRMc4AbKCENtLnbkse) | [Hot Mulligan](https://open.spotify.com/artist/1lKZzN2d4IqiEYxyECIEHI) | [I Don’t Think It’s the Right Time for Emojis](https://open.spotify.com/album/6UTpeoExGxb3SK82OsDOXV) | 2:12 |
 | 33 | [Emily](https://open.spotify.com/track/7rT2Y4ax4Wm7PulKRe8juC) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Much To Say](https://open.spotify.com/album/0BHG5a6UgUxxOFX9Dh51kc) | 2:35 |
-| 34 | [Run Your Mouth](https://open.spotify.com/track/51RQPNS0oOD0aWyjs7L5s3) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Run Your Mouth](https://open.spotify.com/album/1UNCJRUv1EaH5UyrFwp3lV) | 2:45 |
-| 35 | [Wrist](https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Wrist](https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD) | 3:22 |
+| 34 | [Wrist](https://open.spotify.com/track/0I9mjpJTNxth8Sm6r3XUlz) | [Like Roses](https://open.spotify.com/artist/2LbjkSCAPUYlxcZWsNQvcI) | [Wrist](https://open.spotify.com/album/1wfVkl1Bi6SsOzP7nDM3nD) | 3:22 |
+| 35 | [Run Your Mouth](https://open.spotify.com/track/51RQPNS0oOD0aWyjs7L5s3) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Run Your Mouth](https://open.spotify.com/album/1UNCJRUv1EaH5UyrFwp3lV) | 2:45 |
 | 36 | [Nothing Changes](https://open.spotify.com/track/3lZaRkDVeEHYEDkrWsr1uN) | [Simple Plan](https://open.spotify.com/artist/2p4FqHnazRucYQHyDCdBrJ) | [The Kids In The Crowd \- Music From The Documentary Soundtrack](https://open.spotify.com/album/5VRxr2rH1AMR0k57mF1wAO) | 3:14 |
 | 37 | [Is This What I’m Made Of](https://open.spotify.com/track/7HEfIJthGxKtM7espJqtIF) | [Games We Play](https://open.spotify.com/artist/4yP4eYthbuCNIcoQtqwj40) | [Is This What I’m Made Of](https://open.spotify.com/album/3Q9younKbwLWzsGLjYBZ6R) | 2:58 |
 | 38 | [Dead Roses](https://open.spotify.com/track/2g40e446rKf2qd8ZE2StSJ) | [Broadside](https://open.spotify.com/artist/7EGdqeEDe7WMqOVyDFUYyo) | [Nowhere, At Last](https://open.spotify.com/album/5qXIdDehwNNmZs6OoTGT9E) | 3:29 |
-| 39 | [Butterfly Effect](https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Butterfly Effect](https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L) | 2:56 |
-| 40 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
+| 39 | [Therapy](https://open.spotify.com/track/5pH35HHDgaJY4XgdWJI7GI) | [As December Falls](https://open.spotify.com/artist/7Atp614yT56v9XrlqZryzX) | [Therapy](https://open.spotify.com/album/24kJcNFxQsyQP5DoUxZS2G) | 2:42 |
+| 40 | [Butterfly Effect](https://open.spotify.com/track/0LlYTDPa9zOcmbxbQadKG4) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Butterfly Effect](https://open.spotify.com/album/5jW6VyljLO6aTkOp9cAP4L) | 2:56 |
 | 41 | [Where I Lay](https://open.spotify.com/track/24Qin8f6WgJZG9TnS93G3J) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Where I Lay](https://open.spotify.com/album/7FKhST9uk8FRl4yVnVH6Fh) | 3:36 |
 | 42 | [Twice](https://open.spotify.com/track/3mnNND0bmyEBM8p46WBKAO) | [Arrows in Action](https://open.spotify.com/artist/467o5z7PYxbXFAGA0mvhAQ) | [I Think I've Heard This Before](https://open.spotify.com/album/6433M5vCem4FivY3cbPtUv) | 2:32 |
 | 43 | [Evil Is Contagious](https://open.spotify.com/track/2B1d9bRfVu4uc8hhKzuyAO) | [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H), [Reel Big Fish](https://open.spotify.com/artist/3bXhZFreBJF4QDUUiMmtZW) | [Evil Is Contagious](https://open.spotify.com/album/42S1PHOH7Ha9JweYNiCeFJ) | 3:16 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 64 | [So Happy](https://open.spotify.com/track/2wjhT6w7H9Myc7oT3A5Wnj) | [Daisy Grenade](https://open.spotify.com/artist/3Pj6dfWTnH3sYHctX0EZMH) | [So Happy](https://open.spotify.com/album/5hR4oE1YAVdj8QzfaLQpCp) | 2:53 |
 | 65 | [Oh No!](https://open.spotify.com/track/0yV2fqp1VpVsPJc54LX92R) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [Oh No!](https://open.spotify.com/album/1VQTxITRTWerCVUOORuMPi) | 3:13 |
 | 66 | [Under My Sweater](https://open.spotify.com/track/4UEJAEpEXaTvP8mu6JDeRn) | [Mayday Parade](https://open.spotify.com/artist/3WfJ1OtrWI7RViX9DMyEGy) | [Sad](https://open.spotify.com/album/7AglGpevhw3sJGjgYKVgW9) | 3:38 |
-| 67 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 |
-| 68 | [Give or Take](https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Give or Take](https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu) | 3:23 |
+| 67 | [Give or Take](https://open.spotify.com/track/1WqcU47Rm0e94bWzltV4vl) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Give or Take](https://open.spotify.com/album/3OC3EE2AUL6cu81szg0rQu) | 3:23 |
+| 68 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 |
 | 69 | [Free Yourself](https://open.spotify.com/track/4lG3ZYEFlJBJJWwgp7yL7y) | [Karen Dió](https://open.spotify.com/artist/5VVMZArxuM1mO8Qny95inw) | [Free Yourself](https://open.spotify.com/album/2J0fSkRV4YP3NbYcXBEVu8) | 2:25 |
 | 70 | [FAKE FEELINGS](https://open.spotify.com/track/5VvE6jfg00Mt17bGDTKVP5) | [all in ur head](https://open.spotify.com/artist/4N6UmTDmrZtbku2ZfdfIDd) | [FAKE FEELINGS](https://open.spotify.com/album/0Z87ON0ERp62oEq898whkF) | 3:05 |
-| 71 | [A Love Song](https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:24 |
-| 72 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |
-| 73 | [Oxy Moron](https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Oxy Moron](https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6) | 4:06 |
-| 74 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
+| 71 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |
+| 72 | [Oxy Moron](https://open.spotify.com/track/3JTy5HftSASB9yTXwoRTAn) | [Cartel](https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk) | [Oxy Moron](https://open.spotify.com/album/3lVC4YhcGK3nmktbvCTts6) | 4:06 |
+| 73 | [don't light the match \(dyed black 2010\)](https://open.spotify.com/track/0OnWQpgyVsnvD94o4xYwIT) | [The Maine](https://open.spotify.com/artist/4o0pNHbyj36LPvukNqEug0) | [dyed \(2008 \- 2023\)](https://open.spotify.com/album/3mwkjwYp6MuffrJOVgJNxI) | 3:00 |
+| 74 | [A Love Song](https://open.spotify.com/track/0MSHBj5G4rgkTWkaMpNdJ1) | [New Found Glory](https://open.spotify.com/artist/4ghjRm4M2vChDfTUycx0Ce) | [Listen Up!](https://open.spotify.com/album/3iEjqVnUrmjX4skfejAyHi) | 3:24 |
 | 75 | [That's So True](https://open.spotify.com/track/5YiqjmyBru1v8lj2Am5feH) | [Jack The Underdog](https://open.spotify.com/artist/5SAYvojx5xHsRISXBOZz0A) | [That's So True](https://open.spotify.com/album/3FvX4IEMpHelqrHziNfqj4) | 2:47 |
 | 76 | [All In](https://open.spotify.com/track/4WITjHzYfcwafn02StU5VA) | [Good Terms](https://open.spotify.com/artist/6L1oTvVHQOHmsmoVewQpuB) | [Burnout \(Deluxe\)](https://open.spotify.com/album/3LmX1xv47y93fNKCV6nnD7) | 3:36 |
 | 77 | [X’s For Eyes](https://open.spotify.com/track/4GnsLk2c2JkEHgwySSDDCw) | [The Red Jumpsuit Apparatus](https://open.spotify.com/artist/1SImpQO0GbjRgvlwCcCtFo) | [X's For Eyes](https://open.spotify.com/album/20pilw56xRzAbYGt3Sjfyt) | 2:56 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1ewVhAJ17m4.md) - [plain]
 | 97 | [Enchanted](https://open.spotify.com/track/77DzxGgjkYSKfBkx6bfyON) | [For When You Can't Breathe](https://open.spotify.com/artist/0dsmktuBoYwdNHvyhrbQ2J), [Lil Used](https://open.spotify.com/artist/5Y22XMM6JdOn9Saxox9uHw) | [Enchanted](https://open.spotify.com/album/2En35JTlQ54QTwpRrp7xTP) | 5:39 |
 | 98 | [All or Nothing](https://open.spotify.com/track/10A8idGyFoxYjRHlL08UGP) | [RODERIK](https://open.spotify.com/artist/6ZWEU3cIwl4EdCVRaeLtZS) | [All or Nothing](https://open.spotify.com/album/24DUTjkvAU6WUd7vnxrPAk) | 3:05 |
 | 99 | [One Zero Zero](https://open.spotify.com/track/2NgTc6FOEMUyUvF07cVL7A) | [MxPx](https://open.spotify.com/artist/1cSpfa4Un4NCOzeOKgGtG9) | [One Zero Zero](https://open.spotify.com/album/3Axov8lonkei7AEE7Ww0rv) | 2:46 |
-| 100 | [Not The Doctor \- 'Mile End Kicks' \- Music Inspired by the Motion Picture](https://open.spotify.com/track/49uuAUIKXWeG4e8xStGKEB) | [Taylor Acorn](https://open.spotify.com/artist/1A0WloDoRE88uUwo3wensY), [Sumerian Pictures](https://open.spotify.com/artist/1RfDFXf0bswV2Ck1gVzNHW) | [Not The Doctor \('Mile End Kicks' \- Music Inspired by the Motion Picture\)](https://open.spotify.com/album/4W622Tk0Epvc3bSZXtPN42) | 3:42 |
+| 100 | [WASTED](https://open.spotify.com/track/75khcRmE8VydTcmT7DIqHm) | [Pushing Veronica](https://open.spotify.com/artist/0Yr3vObyGg2Nssr9gvwV40) | [WASTED](https://open.spotify.com/album/2h54quPcr7rPumZ4dbwB4G) | 2:57 |
 
-Snapshot ID: `AAAAAPY5KsbF0eKU7oPyPw3VTAW5/JcK`
+Snapshot ID: `AAAAAAmvRkb8qDub6Bd+ZfsIQsyGyt+c`

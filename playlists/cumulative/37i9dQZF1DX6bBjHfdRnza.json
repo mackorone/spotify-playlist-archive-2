@@ -2136,7 +2136,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 191484,
       "name": "All Good",
       "url": "https://open.spotify.com/track/3Mvx9wNXSzt0n6TEkpUpEv"
@@ -9264,7 +9264,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 155492,
       "name": "Buggy",
       "url": "https://open.spotify.com/track/5HzP8YYL1893UOmIrrD6FV"
@@ -21265,6 +21265,24 @@
     },
     {
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/2jY6eYuoOyrEwU9yDHLpsv"
+      },
+      "artists": [
+        {
+          "name": "V. Christie",
+          "url": "https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 216040,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/3lL5wyXmzyU3aXSs4ndFwK"
+    },
+    {
+      "album": {
         "name": "MD003",
         "url": "https://open.spotify.com/album/6niCfSR4atooRJaHo1RBJ9"
       },
@@ -28275,6 +28293,24 @@
     },
     {
       "album": {
+        "name": "HOLD IT DOWN",
+        "url": "https://open.spotify.com/album/4WnYUzZTqAFrgILt5f3PuN"
+      },
+      "artists": [
+        {
+          "name": "Khamsin",
+          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220250,
+      "name": "HOLD IT DOWN",
+      "url": "https://open.spotify.com/track/1kVJOGzaO7kqiXaq8yp9WP"
+    },
+    {
+      "album": {
         "name": "Hold Me",
         "url": "https://open.spotify.com/album/4N5IWtgq34vNQ7kkifSo4H"
       },
@@ -35127,6 +35163,24 @@
     },
     {
       "album": {
+        "name": "LET ME IN",
+        "url": "https://open.spotify.com/album/5mBzRZ2vR4tYc3bnGkjJOZ"
+      },
+      "artists": [
+        {
+          "name": "Pixie Lane",
+          "url": "https://open.spotify.com/artist/3Br6ncRU4z030LyHPpfflF"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209777,
+      "name": "LET ME IN",
+      "url": "https://open.spotify.com/track/29yce0XPCBsgvOQRLn8cnK"
+    },
+    {
+      "album": {
         "name": "Let Me Tell U",
         "url": "https://open.spotify.com/album/60AbEqiRHvFazQoCOWZaS0"
       },
@@ -41788,6 +41842,24 @@
       "duration_ms": 236336,
       "name": "MYSM",
       "url": "https://open.spotify.com/track/6W33jxmOkSBPQYprghE5Ba"
+    },
+    {
+      "album": {
+        "name": "M\u00e1s O Menos",
+        "url": "https://open.spotify.com/album/7sGSkSFmci8w4uY7VQJRYJ"
+      },
+      "artists": [
+        {
+          "name": "Cole Terrazas",
+          "url": "https://open.spotify.com/artist/5kSrrZnNYneJtk28xLuj7n"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 343722,
+      "name": "M\u00e1s O Menos",
+      "url": "https://open.spotify.com/track/31i74Bl85V9ggbqgi5jWAk"
     },
     {
       "album": {
@@ -48907,6 +48979,24 @@
     },
     {
       "album": {
+        "name": "Punch You",
+        "url": "https://open.spotify.com/album/64L1jISmOrDtmN2760WYJK"
+      },
+      "artists": [
+        {
+          "name": "PATCHWRK",
+          "url": "https://open.spotify.com/artist/41c9OuzcvzQelrjiBFOl6G"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154960,
+      "name": "Punch You",
+      "url": "https://open.spotify.com/track/4gfZSdldsUYlnJ4a3I2osa"
+    },
+    {
+      "album": {
         "name": "PUPPY",
         "url": "https://open.spotify.com/album/1EOeaa9aBWzPxb53QsxJgd"
       },
@@ -49774,6 +49864,24 @@
       "duration_ms": 215655,
       "name": "Reciprocity",
       "url": "https://open.spotify.com/track/3ktwMryvjlvl89LTTY6Vuq"
+    },
+    {
+      "album": {
+        "name": "Recoil",
+        "url": "https://open.spotify.com/album/3xr4tzHm4qtcSePpzxepaZ"
+      },
+      "artists": [
+        {
+          "name": "MAFF (BR)",
+          "url": "https://open.spotify.com/artist/4Nqe6amF9yjamDN2tnjrwT"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148837,
+      "name": "Recoil - Radio Edit",
+      "url": "https://open.spotify.com/track/1OoxghVJA3YkWvrH7f1jBn"
     },
     {
       "album": {
@@ -50814,6 +50922,24 @@
       "duration_ms": 202048,
       "name": "ROCK N ROLL",
       "url": "https://open.spotify.com/track/4fSK64STGlvWp4huwv0Kfo"
+    },
+    {
+      "album": {
+        "name": "ROCK THE DISCO",
+        "url": "https://open.spotify.com/album/1x9bdn2Rjr5Y7d62C5N1zG"
+      },
+      "artists": [
+        {
+          "name": "PAULY!",
+          "url": "https://open.spotify.com/artist/48fT8l5w6DNra9lwmMgCdk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181818,
+      "name": "ROCK THE DISCO",
+      "url": "https://open.spotify.com/track/5DkQxWX81nR4TtMOzW3o24"
     },
     {
       "album": {
@@ -61260,7 +61386,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 232835,
       "name": "This Feeling",
       "url": "https://open.spotify.com/track/5NMBo5BHUqt6zi0553GQ1p"
@@ -63832,7 +63958,7 @@
       ],
       "date_added": "2026-08-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 301714,
       "name": "Under Pressure",
       "url": "https://open.spotify.com/track/0Jra4cr982ZhkhFrbZQeBX"
@@ -65380,6 +65506,24 @@
       "duration_ms": 121852,
       "name": "Waiting For You",
       "url": "https://open.spotify.com/track/0lMUbzV4YXwe0ut5Xd8Ojf"
+    },
+    {
+      "album": {
+        "name": "LOST DISC",
+        "url": "https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218651,
+      "name": "WAITING FOR YOU",
+      "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
     },
     {
       "album": {
@@ -68540,6 +68684,24 @@
       "duration_ms": 157826,
       "name": "Y U DO IT LIKE DAT",
       "url": "https://open.spotify.com/track/7B6Hg4pLKWbvHgkivAeLjU"
+    },
+    {
+      "album": {
+        "name": "YAAA!!!",
+        "url": "https://open.spotify.com/album/4L2GPeIbO96czj0QJm0DbE"
+      },
+      "artists": [
+        {
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183131,
+      "name": "YAAA!!!",
+      "url": "https://open.spotify.com/track/3zyKPdknVPhtZDj9shmexP"
     },
     {
       "album": {

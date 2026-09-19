@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Coco Elise
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,454 likes - 91 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,486 likes - 91 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,4 +100,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 | 90 | [good and bad](https://open.spotify.com/track/6WUEmA64al3W96gO853HQA) | [Gash](https://open.spotify.com/artist/1uiSPRIJiY4WSAqEeVS9jX) | [good and bad](https://open.spotify.com/album/1qkGUEHkUBJByyj5NU6iTQ) | 1:35 |
 | 91 | [Cristalina](https://open.spotify.com/track/4jvCmbHuee4RMHlii4SU6M) | [Cherry Chola](https://open.spotify.com/artist/6NXpBkPBwe9xbTHSwOuquz), [Chico Sonido](https://open.spotify.com/artist/6ERvvCWVTxrN4VRhnBktTS) | [Cristalina](https://open.spotify.com/album/6kyl37QBe1FC2KU8GT17ck) | 2:53 |
 
-Snapshot ID: `AAAAAFvluCEjwuXn2HI9AXnHeh8AnN4R`
+Snapshot ID: `AAAAAMd04tM0xexlRXDe7hUOO2eVZd6D`

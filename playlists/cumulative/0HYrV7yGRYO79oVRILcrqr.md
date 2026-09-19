@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-750 songs - 1 day 22 hr 45 min
+755 songs - 1 day 23 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -163,6 +163,7 @@
 | [Derinden](https://open.spotify.com/track/0vyrR0lIMW3Kwa9h8BMSgv) | [Smile Dawn](https://open.spotify.com/artist/6AyJiWjRpLlU9bqvkRJaHG) | [Derinden](https://open.spotify.com/album/5fwIEgnXEy3taaBzGYKYbL) | 4:05 | 2025-11-03 | 2025-12-17 |
 | [Desastre](https://open.spotify.com/track/5kREwbnFgF4JT0gvZBzDmM) | [young llop.mp3](https://open.spotify.com/artist/1alG0IPqW3stdy2R7Sc7bK) | [Desastre](https://open.spotify.com/album/3Tx7kwS4LYWTtO71spYXIa) | 2:12 | 2026-06-06 | 2026-06-18 |
 | [Desperate Love](https://open.spotify.com/track/4aulyKvga3asNzCNW0zWe6) | [Rick S\. Rose](https://open.spotify.com/artist/3qwZmQIimE8XsMzfsQVjKO) | [Desperate Love](https://open.spotify.com/album/7rVuju4acx7WthJiMxx6bK) | 2:56 | 2025-09-21 |  |
+| [Devil in your Eyes](https://open.spotify.com/track/6nRgzrlhyd2yBp2T3OItgp) | [Elizabeth](https://open.spotify.com/artist/0tgidGFMzSBoxZI87spcTW), [SinCrawler](https://open.spotify.com/artist/2aGUDAsWVwhbc8bnqNx5Ho) | [Devil in your Eyes](https://open.spotify.com/album/4OWRSANXAH393AN761G6YQ) | 4:23 | 2026-09-18 |  |
 | [Devil's Music](https://open.spotify.com/track/18zTYNeX6enZeyYWrA45a3) | [Sloppy Joe's](https://open.spotify.com/artist/4hlgTRrWdANjE7noHSfG72) | [Devil's Music](https://open.spotify.com/album/6QPTbxlERZmz0ENwBjVzwb) | 4:46 | 2026-03-11 | 2026-04-21 |
 | [Die Zeit, die uns bleibt](https://open.spotify.com/track/6z1iaDb6x0eFQwvW2jph8e) | [Christaris](https://open.spotify.com/artist/65bycLZE7csn1qM95wLuCa) | [Blick nach vorn](https://open.spotify.com/album/3xIXeh22qBPOJZJL1lXXA0) | 3:24 | 2025-10-28 | 2025-12-17 |
 | [Dime](https://open.spotify.com/track/3SZ6y7If8OhjTKfEkfFjbv) | [Jacohard](https://open.spotify.com/artist/45nuUPQYKnVDrW6KyCfUtq) | [No Hay Un Lugar a la Vista](https://open.spotify.com/album/2m0JDTrXLnMxq6FP2q8o8l) | 5:09 | 2026-06-06 | 2026-06-18 |
@@ -309,6 +310,7 @@
 | [I Think They Call This Love](https://open.spotify.com/track/6YHGbYKvy86vX2AQgFkEHj) | [Luke Buwalda](https://open.spotify.com/artist/2tttx8FVZKPHl7WbnXHOAJ) | [I Think They Call This Love](https://open.spotify.com/album/7CD8kGEMKuOvoSkZSVVyNj) | 3:11 | 2025-12-26 | 2026-03-18 |
 | [I Want You](https://open.spotify.com/track/6LvHkTsHjLcunW7v2PuWzQ) | [Vic Polsom](https://open.spotify.com/artist/2FTkR9fGunEdYPeqNo19CN) | [Rise Up](https://open.spotify.com/album/5VydD9TvVBxsJsnaHmaXCm) | 2:46 | 2025-10-22 | 2025-11-28 |
 | [I want you in my fantasy](https://open.spotify.com/track/76vbSnNWSPebkTZfu9mXHD) | [Father 2 Son](https://open.spotify.com/artist/5yWnhjsEZd6oAmi80xpYv7) | [I want you in my fantasy](https://open.spotify.com/album/72KSP78EfHFKHe2KXg120d) | 3:54 | 2026-09-13 |  |
+| [I'm Bored x](https://open.spotify.com/track/1fRonpKCl5SRNccAHOEvl0) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [I'm Bored x](https://open.spotify.com/album/6pPoIqEGFHEEu0FGE23UWz) | 4:08 | 2026-09-18 |  |
 | [I'm Gonna Live](https://open.spotify.com/track/4uYt7IA77IDaBuNRjRefIX) | [Stu White](https://open.spotify.com/artist/78mGyhocNcni5BF0U7qyPQ) | [I'm Gonna Live](https://open.spotify.com/album/3vLxSsCmYV4ndoklyWM7qP) | 3:40 | 2026-08-16 |  |
 | [I'm In Love With The Way \(You Breathe My Name\)](https://open.spotify.com/track/2BKkiZsIn81BlnNSIm2NEb) | [Paper Satellite](https://open.spotify.com/artist/4nfaau5xtDWVVwCTxkjZrN) | [Turbulence](https://open.spotify.com/album/42b2E8vOKrh5XBI8rGG1Fz) | 5:48 | 2026-07-13 | 2026-08-01 |
 | [I'm Nowhere](https://open.spotify.com/track/64xdIDgCW0RbO6Rldrygaa) | [Steven Luke](https://open.spotify.com/artist/0qobGcpriZgcybhS24cc8f) | [I'm Nowhere](https://open.spotify.com/album/2eSNKPsgDjNj79AjRwDBJ1) | 3:21 | 2026-09-07 |  |
@@ -348,6 +350,7 @@
 | [Kisses](https://open.spotify.com/track/7yekcYsbROJemwVjh5eiDR) | [Mr\. Rockstar](https://open.spotify.com/artist/61mgfJoftSgMGoXk8QxIID) | [Kisses](https://open.spotify.com/album/1t5GteEQQwjeFQxCS6TG2M) | 3:40 | 2025-11-10 | 2025-12-17 |
 | [Kneel Before the Light \(Humilitas\)](https://open.spotify.com/track/2SUzUZ3o1wmwUmeUW8RuaE) | [Hasamura](https://open.spotify.com/artist/1bbe83p1En6vfNkPTvTErG) | [Soulwave](https://open.spotify.com/album/4CblvjKa4GZ2ZBhKShQ2Vb) | 4:52 | 2026-07-26 | 2026-08-15 |
 | [Knottamun](https://open.spotify.com/track/4cj2mmO3p7ai4wqntGHkLL) | [DriftKin](https://open.spotify.com/artist/2ckHeRf1toBEDN7mos54nm) | [Knottamun](https://open.spotify.com/album/7gEP4C4P6qQ4TWXc1JPk5G) | 3:04 | 2026-08-29 |  |
+| [Kryptonite](https://open.spotify.com/track/51FvtQMsWXSDS7bmnOqDcD) | [Mama Said](https://open.spotify.com/artist/3222eI74JYYnvhm4zhTu3V) | [Kryptonite](https://open.spotify.com/album/2Ttr0fh2gvZQuurlb5Nav6) | 3:07 | 2026-09-18 |  |
 | [L'ora della verità](https://open.spotify.com/track/3aDQeYFC5nETqDr6c3dIC1) | [Loryheart](https://open.spotify.com/artist/7nEVWdmA3rTNUtKI4abDsa) | [Inquietudini](https://open.spotify.com/album/1Xsfu4dN4W5IGGB6TPxKiY) | 3:47 | 2026-08-13 |  |
 | [La ballata del bidet](https://open.spotify.com/track/5hLErCYuvSDufhTwqwgH4Z) | [Pra de la fam](https://open.spotify.com/artist/6k2bdPqQ5t0CqUhssS2uKR) | [i limoni](https://open.spotify.com/album/39OzdBUVtyOrrXINCFQE8W) | 5:05 | 2025-09-29 | 2025-12-17 |
 | [La buena estrella](https://open.spotify.com/track/0Ss2sEPUTuebKRm3ar3ow1) | [Raúl Cabo](https://open.spotify.com/artist/5A0xF7wdd6jdeirVtqjvF2) | [La buena estrella](https://open.spotify.com/album/3daVrAsJMotf1Yst8qGRC2) | 4:02 | 2026-06-16 | 2026-06-25 |
@@ -513,6 +516,7 @@
 | [Prisoner Of My Fate](https://open.spotify.com/track/3OeuBRruLfv1PlOjjrOnz0) | [Vintage Paradise](https://open.spotify.com/artist/4aPEpe1W2otfbb8HX82LN9) | [Prisoner Of My Fate](https://open.spotify.com/album/4aDtoicAYNPQ9QLmZLU21z) | 6:00 | 2025-10-14 | 2025-11-28 |
 | [Promise of salvation](https://open.spotify.com/track/7ovWStycwZ5tOZrPn3A7Lm) | [Suraj Synthesist](https://open.spotify.com/artist/6kEAlt8l3zvFrxfHhRJfaK) | [Consume this album...\(Before the ban\)](https://open.spotify.com/album/6CabXiXT7t5cqCekHJabzY) | 2:18 | 2025-10-30 | 2025-12-17 |
 | [Promised Land](https://open.spotify.com/track/3eeh6151GMJl3e3p2bDj92) | [Lynn & the RattleShakes](https://open.spotify.com/artist/3yuH7WWS68ifccDhyciUig) | [Beyond Rock 'n Roll](https://open.spotify.com/album/0Un0czCnEtRu0OitxZcwdg) | 4:06 | 2026-05-19 | 2026-06-18 |
+| [Przestań scrollowac dziecinko](https://open.spotify.com/track/5WxhDNH6E40qhcCVn2k6gG) | [Rdza duszy](https://open.spotify.com/artist/2l4c3tamlv3jprRQwoyqbJ) | [Przestań scrollowac dziecinko](https://open.spotify.com/album/5ELFcpNuXmhfaaCbXUAY2u) | 5:44 | 2026-09-18 |  |
 | [Psychic Trick](https://open.spotify.com/track/57lfDQFRaKL2qcgvcTrQUo) | [Rodrigo Goularttz](https://open.spotify.com/artist/2JS4q2grljmkeCpYYT8QQd) | [<3 questions for love](https://open.spotify.com/album/7leCtjCfegncMZCNNkDeE2) | 3:39 | 2026-05-17 | 2026-05-26 |
 | [Punch the Clown](https://open.spotify.com/track/2T8etM0uAXR8w4LI2iBmGg) | [Captain Side Eye](https://open.spotify.com/artist/7qL4bGEDia5B9f5zlYdQrr) | [Punch the Clown](https://open.spotify.com/album/16tI9R9L3aJyHYksO5A0vF) | 3:28 | 2026-08-05 |  |
 | [Punk Parrot](https://open.spotify.com/track/4CaImsMJmEbKg2ikcgyAJU) | [Echo Boulevard](https://open.spotify.com/artist/1gALePO988dZS6ODOta7q4) | [Punk Parrot](https://open.spotify.com/album/5LPgfFFpDiisyYSb4FpnqV) | 3:03 | 2026-07-07 |  |
@@ -645,6 +649,7 @@
 | [That's the Story of My Life](https://open.spotify.com/track/4Hy90CTI3ZGt6z6yvAtdGC) | [Exzenya](https://open.spotify.com/artist/5xpe1fPWU3vzvhx9iJcUc0) | [That's the Story of My Life](https://open.spotify.com/album/0i7NwC632Q4RF36P2xXJLh) | 4:12 | 2026-06-01 | 2026-06-18 |
 | [The Best of Me Belongs to You](https://open.spotify.com/track/311iEqzTpmxHiuyTBiv0hq) | [Lucas Orione](https://open.spotify.com/artist/3zMzklK5gKCsSKLvgDxZee) | [The Best of Me Belongs to You](https://open.spotify.com/album/2ZnfjQwHVqvdzQALylLElI) | 3:42 | 2026-04-02 | 2026-04-21 |
 | [The Bond](https://open.spotify.com/track/5WYkSDKAz2B8NA182Di5Go) | [Evon Rose](https://open.spotify.com/artist/3DyWzJwbk4fijpMYOrc7R5) | [The Bond](https://open.spotify.com/album/7Kp7wrTCNan7B0ZW6DjZSR) | 3:29 | 2025-10-04 | 2025-12-17 |
+| [The Current](https://open.spotify.com/track/1I48cT7zjIcAbz2FJmnbyf) | [Ugochill](https://open.spotify.com/artist/1kOGUspiJr2BQ7HMDQdTRw) | [The Current](https://open.spotify.com/album/2cO1HjYSTNbwbc65fLAnza) | 4:13 | 2026-09-18 |  |
 | [The Day Before](https://open.spotify.com/track/7yLWTEsJPfXNHst3iDxH0O) | [David van der Ploeg](https://open.spotify.com/artist/6EeouqO5ERRV1HVYfPDOyY) | [The Day Before](https://open.spotify.com/album/5J7VKSO9BJ26nCAOJL2xkP) | 4:04 | 2026-09-07 |  |
 | [The Death of Venus](https://open.spotify.com/track/6ahpQjmfYTfTE3YVJnivsN) | [The Sway](https://open.spotify.com/artist/6cabGpsisry0tJA3maWIo9) | [Going Blind](https://open.spotify.com/album/6BGcpr68cgLxod7vrRmkeR) | 6:39 | 2026-06-27 |  |
 | [The Endless Line](https://open.spotify.com/track/4vH4XT4cbZbzPsagst504L) | [The Rabbit Council](https://open.spotify.com/artist/1nSm3sva0zgXWbnUjsu5nf) | [The Endless Line](https://open.spotify.com/album/0dPp4UDPvoi9FmbpN7jKup) | 2:28 | 2025-11-20 | 2025-12-17 |

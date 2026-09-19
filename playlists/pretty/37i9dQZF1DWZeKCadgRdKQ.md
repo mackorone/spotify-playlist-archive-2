@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 
 > Keep calm and focus with ambient electric guitar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 4,997,274 likes - 250 songs - 9 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 4,997,536 likes - 250 songs - 9 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -259,4 +259,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZeKCadgRdKQ.md) - [plain]
 | 249 | [Lifted](https://open.spotify.com/track/4tEdMG485b8naFRVOasiKD) | [From Somewhere Quiet](https://open.spotify.com/artist/7rwEdsO6VoIZMiaI1uvZBQ) | [Lifted](https://open.spotify.com/album/67DIiGJPzKG3HdqPPhm3B6) | 2:07 |
 | 250 | [Darker](https://open.spotify.com/track/092DLaLs5wYSKgbvdcsa13) | [Echo Dunes](https://open.spotify.com/artist/50Ezs7XNWax4alIPBDUeg1) | [Darker](https://open.spotify.com/album/5PW6HuCP8f10mFdiCeQGu6) | 2:14 |
 
-Snapshot ID: `AAAAAD1fryGW9w8zhb9cmFMqU5MZ+ElE`
+Snapshot ID: `AAAAAIwf7LCYGGHUIRVnMwcLo7f3rK8T`

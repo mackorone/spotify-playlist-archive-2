@@ -4,7 +4,7 @@
 
 > New pop releases from the UK & Ireland 🌟 cover: Say Now
 
-1,425 songs - 3 day 1 hr 27 min
+1,425 songs - 3 day 1 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -592,6 +592,7 @@
 | [Hits Like This \(feat\. Sam Fischer\)](https://open.spotify.com/track/5f21lXEbRDLpty0X4hDSDJ) | [Issac Frank](https://open.spotify.com/artist/5WO9zC3eugins48Y4ERwAj), [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [Hits Like This \(feat\. Sam Fischer\)](https://open.spotify.com/album/1HaQQSWT3dV14GUs9PNmXV) | 2:37 | 2026-06-26 | 2026-07-31 |
 | [Hold Up](https://open.spotify.com/track/5jIPK0iZ3wzCHWsEze021Z) | [Sasha Keable](https://open.spotify.com/artist/7MxGWmiAbqjNOGmj23wbWf) | [Hold Up](https://open.spotify.com/album/6Wjf1qyWX7TZfsmcjo5Qab) | 2:28 | 2024-06-04 | 2024-08-31 |
 | [Holding You](https://open.spotify.com/track/4KRgeJYNTtXS4tqzZdVGYR) | [Will Bryant](https://open.spotify.com/artist/2uJRUFEELBSNirlF7oFHea) | [Can We Stop Just For A Second](https://open.spotify.com/album/5xg5q1u59wi9ut0JC5nCKB) | 3:36 | 2024-12-13 | 2025-02-21 |
+| [HOLE IN MY HEART](https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [THE SUN FROM BOTH SIDES](https://open.spotify.com/album/4sQGptlAPSLA8MN4NP45bv) | 3:13 | 2026-09-17 |  |
 | [Holiday Blues](https://open.spotify.com/track/5IT9R1iTJvl0N3kWSWmBA7) | [Poppy Freeley](https://open.spotify.com/artist/3GJZ85O0PBa9Z01lv8ftMy) | [Holiday Blues](https://open.spotify.com/album/51sC7Wqr61fGhgwsyLe0RG) | 3:42 | 2026-04-03 | 2026-05-01 |
 | [Holiday Song](https://open.spotify.com/track/4MVVgMXCGofoegZyc9BxUW) | [Caity Baser](https://open.spotify.com/artist/7dJCdUO0l0K2WXzrzjYpmC) | [Holiday Song](https://open.spotify.com/album/3Zq0YnagOHR68KSq2pQ7Kr) | 2:33 | 2026-05-07 | 2026-06-12 |
 | [holy water](https://open.spotify.com/track/2a24jamhuwKpLZY7gH3w5v) | [Harvey Brittain](https://open.spotify.com/artist/2xrhDfConcV9D7c1tUqueP) | [holy water](https://open.spotify.com/album/0kooE3G371fP6mB3ugbj98) | 2:58 | 2025-10-23 | 2025-12-05 |
@@ -1326,7 +1327,6 @@
 | [Touch You](https://open.spotify.com/track/1yHA6PUuNPGxlNIy7gQ6bH) | [Georgie & Joe](https://open.spotify.com/artist/4Uee7Zpi0edS5rCn8fKbtH) | [What I made with Joe](https://open.spotify.com/album/2D1gXzXVm3wbcjf3sEQjwV) | 2:53 | 2025-05-22 | 2025-06-27 |
 | [Touching Toes](https://open.spotify.com/track/5qnVigvU1R795fr1HOSXzY) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Touching Toes](https://open.spotify.com/album/0D0xkZxhnjgjCmewvAXG3E) | 2:12 | 2024-11-15 | 2025-02-07 |
 | [traces](https://open.spotify.com/track/3Jwty961fAsNPRzX3O2GPi) | [TYLER LEWIS](https://open.spotify.com/artist/6GYUZI5gXIfKpZ3xJtTv7p) | [traces](https://open.spotify.com/album/6LMSl2csKzVIpHUFOZBX1f) | 3:25 | 2025-06-26 | 2025-07-25 |
-| [Track 5](https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd) | [Alex Apolline](https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU) | [THE SUN FROM BOTH SIDES](https://open.spotify.com/album/4sQGptlAPSLA8MN4NP45bv) | 0:00 | 2026-09-17 |  |
 | [trespass coat](https://open.spotify.com/track/3k7xPFq7aSnzdRP97poVrU) | [Niko B](https://open.spotify.com/artist/3GViqleny7XZGug7Ym2Fjk), [dexter in the newsagent](https://open.spotify.com/artist/3bAdh9KH0kxlwrfz7Uh5Aa) | [trespass coat](https://open.spotify.com/album/7vYuuDbmApHB4WfktjqYp1) | 3:27 | 2024-06-04 | 2024-08-31 |
 | [tried everything](https://open.spotify.com/track/2Rw7rfyamcD0pHfhuHTgZp) | [ISABELLA](https://open.spotify.com/artist/5A4DUMbVKNqflzW5Dpa43Q), [Izzi De\-Rosa](https://open.spotify.com/artist/3Z6QJOLlIS8vdKV4f3jc6g) | [tried everything](https://open.spotify.com/album/5sHPvxkTibczgvQVMEqV57) | 2:42 | 2026-04-30 | 2026-06-19 |
 | [Trophy](https://open.spotify.com/track/54r9LQzaIxObTwYrD6u5pk) | [Benjamin Steer](https://open.spotify.com/artist/3AsjkwNrs6gHBh3tYXxiNH) | [Trophy](https://open.spotify.com/album/768Zf5FplAHg9Izsq1KB9Z) | 3:08 | 2026-01-02 | 2026-02-13 |

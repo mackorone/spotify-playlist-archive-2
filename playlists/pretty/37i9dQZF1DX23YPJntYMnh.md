@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 
 > Funk\. But heavier\. Cover: Red Hot Chili Peppers
 
-[Spotify](https://open.spotify.com/user/spotify) - 472,811 likes - 100 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 472,797 likes - 100 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [The Jokes On You](https://open.spotify.com/track/301qRmALgPe2NZur3lRkPA) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Jokes On You](https://open.spotify.com/album/6B4QyvP8Bbq122hleD2QQm) | 2:42 |
+| 1 | [Swamp](https://open.spotify.com/track/4zuBxr90H3TtaTYyek9j4R) | [High Fade](https://open.spotify.com/artist/7aRGzyzEWC50FDDzdNFMtF) | [Twice As Nice](https://open.spotify.com/album/0RGN2AnG2NPajc9vNCzQYE) | 3:16 |
 | 2 | [ELECTRIC CAR](https://open.spotify.com/track/6p3tSAq6u71YgvlBeLQaWB) | [Sam Pounds](https://open.spotify.com/artist/1XoE8WpGuDGZ0SY1piWND1), [Mr\. Talkbox](https://open.spotify.com/artist/3ZGbMG70LcEEo7SBIE3jMH), [Charlie Bereal](https://open.spotify.com/artist/2uMEr7c0zWQrtoAzebTMsa) | [MOTIVES](https://open.spotify.com/album/09BBUL2bTQhYexSTh6IZ9P) | 3:05 |
 | 3 | [Thatch](https://open.spotify.com/track/33uwLfWs1uu8oj5ercdX99) | [Goose](https://open.spotify.com/artist/5tkITWzssc9z9hu7ZEOCXz) | [Thatch](https://open.spotify.com/album/1Ln1otwRV5Cw4E8y7kxgWI) | 6:40 |
 | 4 | [TK421](https://open.spotify.com/track/58d6jpiFmElbSX36MnnGFO) | [Lenny Kravitz](https://open.spotify.com/artist/5gznATMVO85ZcLTkE9ULU7) | [TK421](https://open.spotify.com/album/7IncAEknANwQthqiwWySBP) | 3:15 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX23YPJntYMnh.md) - [plain]
 | 99 | [The Rougarou](https://open.spotify.com/track/6Y0E6cel8EllxaxIpCjjih) | [Mashup & Cozy Condition](https://open.spotify.com/artist/4Xgz0ZH1mIhD1E5wSjrj1V) | [The Rougarou](https://open.spotify.com/album/7zFE0ofJbtgK3vzBhAmQMA) | 3:17 |
 | 100 | [Clap For The Killers](https://open.spotify.com/track/1LHvNi1ji3OU26lHASBzaz) | [Street Sweeper Social Club](https://open.spotify.com/artist/1YghQU3PwfnDu94PRfE4pv) | [Street Sweeper Social Club](https://open.spotify.com/album/62R1tsiIXUb9Iq6MuRoaMp) | 3:55 |
 
-Snapshot ID: `AAAAAArnsim2xsGlD6VWDhBlJr5Qem9i`
+Snapshot ID: `AAAAAPmqkDMhmN1RcVOKN7SsyzUPkIkn`

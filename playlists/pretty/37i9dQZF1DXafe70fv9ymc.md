@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 
 > NSFW
 
-[Spotify](https://open.spotify.com/user/spotify) - 12,524 likes - 90 songs - 4 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 12,536 likes - 90 songs - 4 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,4 +99,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXafe70fv9ymc.md) - [plain]
 | 89 | [Imizamo](https://open.spotify.com/track/23SYKzG7Z963VQAP4hgdQR) | [Thando Zide](https://open.spotify.com/artist/4szs3im3aqSWr8MbdoW1W2) | [Ku Ngawe](https://open.spotify.com/album/3K64olURGsTLjRR04jZwWU) | 2:53 |
 | 90 | [SEXY](https://open.spotify.com/track/6pLBB7DYuYBDu2cVVDz3AL) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [Maleek Berry](https://open.spotify.com/artist/520qA5VGL9iI0SbmEnTVNg) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:31 |
 
-Snapshot ID: `AAAAACpaza9fs4Gx6pnd6Z0lFrx+h3gm`
+Snapshot ID: `AAAAAGcWOtvPOpuoTy2szmZUw1SAdIP+`

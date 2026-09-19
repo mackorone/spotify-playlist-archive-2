@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 
 > 兩人成組、三人成團，硬地主流都在台灣開花！風格豐富力量大！Cover: Soul Sorry
 
-[Spotify](https://open.spotify.com/user/spotify) - 20,287 likes - 76 songs - 5 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 20,286 likes - 76 songs - 5 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 6 | [偶像包袱](https://open.spotify.com/track/64bPgDsKxXfS3CVkwJQMIq) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [偶像包袱](https://open.spotify.com/album/3lOtu3IhDrGVrQ3k0Navwr) | 3:57 |
 | 7 | [Dear You](https://open.spotify.com/track/07NaJZYKx75dRni6h3IDhD) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [Dear You](https://open.spotify.com/album/4Zt64q7lZcQFZwkcWnrWZp) | 4:02 |
 | 8 | [100 秒的紅燈](https://open.spotify.com/track/0NJh6C9p5trVG3R0S5UlMV) | [普通隊長](https://open.spotify.com/artist/5qJoZTy9eeE8I3U87jtHXo) | [100 秒的紅燈](https://open.spotify.com/album/2FkIYUkkY4MyfOoz90hVb7) | 2:54 |
-| 9 | [命盤](https://open.spotify.com/track/7pj3Y9AthzXugrA4aLSqsH) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [命盤](https://open.spotify.com/album/5MxrQp3LYMxmkB0SpCwx3h) | 5:49 |
+| 9 | [命盤](https://open.spotify.com/track/7pj3Y9AthzXugrA4aLSqsH) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [命盤](https://open.spotify.com/album/5MxrQp3LYMxmkB0SpCwx3h) | 5:50 |
 | 10 | [快樂的人在路上走](https://open.spotify.com/track/1S6cZ6doTDPVn7sM1WMGhv) | [無妄合作社](https://open.spotify.com/artist/6py5j29igdKEvG75sZpTbW) | [快樂的人在路上走](https://open.spotify.com/album/14cpCcipl8z8kYQeb5vTAp) | 3:29 |
 | 11 | [我們擁有一扇門嗎 \(The moon\)](https://open.spotify.com/track/3xtGNtuQHUHZzVeT1u2cQo) | [房東的貓](https://open.spotify.com/artist/6oxtUCWftDouZzeso3oXcF) | [不擅生長的樹 \(Isness\)](https://open.spotify.com/album/0kn4pO4cNinQflBVYP7Ncu) | 3:25 |
 | 12 | [我討厭你](https://open.spotify.com/track/2J2lvKl9D6axFb0Eq9TCal) | [Soph T.](https://open.spotify.com/artist/2lP0iXobpSDobEhi2eI4eP), [Good Band](https://open.spotify.com/artist/4xlAHgZnzzPHtoKnev0gwJ) | [我討厭你](https://open.spotify.com/album/6kw02Umlwacgmxdv0SuBOg) | 3:22 |
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 14 | [蝴蝶](https://open.spotify.com/track/0u9VdaUZbMmhDTaUshhcaR) | [動物園釘子戶](https://open.spotify.com/artist/4wsvUkStMsVqj9xJHqsR58) | [蝴蝶](https://open.spotify.com/album/1nwn7Pqg6Ox2ltNpAnGxzL) | 4:31 |
 | 15 | [他們說我瘋了](https://open.spotify.com/track/31ej9Olae5cBISHETzBmvA) | [碎星樂隊](https://open.spotify.com/artist/0WROAErJTir5F0nQawBprp) | [碎星](https://open.spotify.com/album/4Cv0pfWdyo9prCVkFMAQM7) | 3:46 |
 | 16 | [沒有人像我一樣 \(影集《欠妳的那場婚禮》主題曲\)](https://open.spotify.com/track/5ZIAawvVz8fr74vIk8wX6l) | [Cosmos People](https://open.spotify.com/artist/0tNjyz75Px29Yuf1sjs25G) | [沒有人像我一樣](https://open.spotify.com/album/0w9hmnyO60we8SitkSA1Le) | 4:06 |
-| 17 | [泥巴](https://open.spotify.com/track/0uVpZr8Avb49a9O4nHP8r7) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [泥巴](https://open.spotify.com/album/0IhBRuqNwNXkMXPbLYwH1G) | 3:27 |
+| 17 | [泥巴](https://open.spotify.com/track/0uVpZr8Avb49a9O4nHP8r7) | [溫室雜草](https://open.spotify.com/artist/6DZ6tvZTWTDO1vEBvUYfbP) | [泥巴](https://open.spotify.com/album/0IhBRuqNwNXkMXPbLYwH1G) | 3:20 |
 | 18 | [Super Shine](https://open.spotify.com/track/3RF64EPmi4SjigN9aa9Vk3) | [核果人NUTS](https://open.spotify.com/artist/0eYN1dX9ZuhqO3vEqaNPRG) | [NEONUTS](https://open.spotify.com/album/1rhlPU6f6KwmE9CDQGwrmD) | 4:21 |
 | 19 | [我咧等](https://open.spotify.com/track/3hxJzgcW9OvVd3zkfZ981F) | [Shallow Levée](https://open.spotify.com/artist/6xDRh6bnmn1CQhRUntBka9) | [沈默的鉅作](https://open.spotify.com/album/03EoCbW2Hhj6XAUV9Otnii) | 3:51 |
 | 20 | [叢林法則](https://open.spotify.com/track/0cvIaoXOEbf8bWZPKIbVJe) | [薄荷綠工廠](https://open.spotify.com/artist/6OXUfXUbNk2uFeRXAjtbhY) | [叢林法則](https://open.spotify.com/album/61Am3xM2iTA6NGdmFlINGb) | 2:53 |
@@ -85,4 +85,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4VlHAN7dSCG.md) - [plain]
 | 75 | [不是因為天氣晴朗才愛你](https://open.spotify.com/track/2VEt42QSQxILgEf9B50xxm) | [理想混蛋](https://open.spotify.com/artist/0Awqm7GXGiBp8fJNGvywra) | [不是因為天氣晴朗才愛你](https://open.spotify.com/album/6JuW0a9a9irzx0QkYC9eLI) | 4:00 |
 | 76 | [晚安台灣](https://open.spotify.com/track/5KPsY3b1af7O6v1vFeYx7d) | [Fire EX.](https://open.spotify.com/artist/7qBIgabdHdcr6NLujDxWAU) | [進擊下半場](https://open.spotify.com/album/2PkESw7qmj3Vc4X2R4KSPy) | 3:35 |
 
-Snapshot ID: `AAAAAFmKCJ+0kIl1k9JJyyBPUfuNNjFh`
+Snapshot ID: `AAAAAKVKf1hC0EhyWPihwLwNZzqCFPNA`

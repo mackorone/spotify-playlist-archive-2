@@ -4,7 +4,7 @@
 
 > Top country hits you know and love! Cover: Morgan Wallen
 
-609 songs - 1 day 8 hr 56 min
+610 songs - 1 day 9 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -80,7 +80,7 @@
 | [Brown Eyes Baby](https://open.spotify.com/track/5JLf54f83nJrxD4IhFaLl7) | [Keith Urban](https://open.spotify.com/artist/0u2FHSq3ln94y5Q57xazwf) | [Brown Eyes Baby](https://open.spotify.com/album/16epea6WNW5vPhusDbw3xp) | 3:44 | 2022-08-12 | 2024-03-02 |
 | [Brunette](https://open.spotify.com/track/21T9HvQ0KUWFDum6P1Qc7i) | [Tucker Wetmore](https://open.spotify.com/artist/4sCKpwwEsgReZxjtKFm2A0) | [What Not To](https://open.spotify.com/album/7IEXNrjznoPOllZ2TusbIl) | 2:19 | 2026-07-10 |  |
 | [Bulletproof](https://open.spotify.com/track/6VpH2prT3NGiK5pnpG2L3J) | [Nate Smith](https://open.spotify.com/artist/4NYMUsIcUUsBHbV9DICa5x) | [Bulletproof](https://open.spotify.com/album/3ooWwlDKWfaVMx9kumptgg) | 3:03 | 2024-03-08 | 2025-03-08 |
-| [Bullets & Blades \(feat\. Kehlani\)](https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 3:15 | 2026-08-14 |  |
+| [Bullets & Blades \(feat\. Kehlani\)](https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 3:15 | 2026-08-14 | 2026-09-19 |
 | [Burn It Down](https://open.spotify.com/track/09hVlIVHtEE1nLUv6YGZiW) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Never Enough](https://open.spotify.com/album/4i3ay5RKpdmJok8zazCdlf) | 3:53 | 2025-02-28 |  |
 | [Burn It Down \- Radio Edit](https://open.spotify.com/track/4bARASJEokNacSYtEhoNBp) | [Parker McCollum](https://open.spotify.com/artist/0Z8XVUAOBPM4x12wKnFHEQ) | [Burn It Down \(Radio Edit\)](https://open.spotify.com/album/113muW4YS82jqoS39y5Jgl) | 3:36 | 2024-03-08 | 2024-08-22 |
 | [Burns Like Her](https://open.spotify.com/track/5XT8mK0cvCkx6Sx7Z7igmI) | [Randall King](https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh) | [Burns Like Her](https://open.spotify.com/album/2CPlLg16DpbTEawZ0iEgPM) | 3:53 | 2024-05-31 | 2024-08-03 |
@@ -575,6 +575,7 @@
 | [What My World Spins Around](https://open.spotify.com/track/6HBRLaSQ7NB8MNlaqzYen1) | [Jordan Davis](https://open.spotify.com/artist/77kULmXAQ6vWer7IIHdGzI) | [What My World Spins Around](https://open.spotify.com/album/4oTrQ9TmOapgT6uI8W6wsS) | 3:06 | 2022-06-06 | 2025-03-01 |
 | [Where It Ends](https://open.spotify.com/track/0wXThIDxO3YRJCpPgnmbkw) | [Bailey Zimmerman](https://open.spotify.com/artist/3win9vGIxFfBRag9S63wwf) | [Religiously\. The Album.](https://open.spotify.com/album/19DGbjQW4oJmS1TLmr7OH3) | 2:59 | 2024-03-08 | 2026-03-14 |
 | [Where the Wild Things Are](https://open.spotify.com/track/0eBFgRxyVSeuT4iyrbukdn) | [Luke Combs](https://open.spotify.com/artist/718COspgdWOnwOFpJHRZHS) | [Gettin' Old](https://open.spotify.com/album/5Uly85dJHHDfHQCsyUQ8gw) | 3:59 | 2024-02-02 |  |
+| [Where We Go](https://open.spotify.com/track/1aHAmd4iXRRkXIrTJwKncm) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Thomas Rhett](https://open.spotify.com/artist/6x2LnllRG5uGarZMsD4iO8) | [Where We Go](https://open.spotify.com/album/6NtERYanUda0B8Oh1LI1LE) | 3:16 | 2026-09-18 |  |
 | [While You're Gone](https://open.spotify.com/track/6bL7MlyOebDrTSRpEv7UBw) | [Drew Parker](https://open.spotify.com/artist/04roC3Teouu613zLDKvHpQ) | [While You're Gone EP](https://open.spotify.com/album/6wYjrbqFMqoVNpswx4W6q2) | 3:46 | 2021-12-28 | 2022-02-08 |
 | [Whiskey And Rain](https://open.spotify.com/track/1tf4Bfk8JIKryLpWYRvyiI) | [Michael Ray](https://open.spotify.com/artist/6ghiFYcwn2Vzl6K50U0UPz) | [Whiskey And Rain](https://open.spotify.com/album/08lBvRZr4DpqiOYe4r2JAn) | 3:26 | 2021-12-28 | 2022-02-08 |
 | [Whiskey Blues](https://open.spotify.com/track/0mVYqxsm3ReFqAuxG9Orrk) | [Tanner Adell](https://open.spotify.com/artist/5xKVALj2MSqOHmQhburCM8) | [Whiskey Blues](https://open.spotify.com/album/1IVFS4seiBjdVOKd2Fyu2Y) | 2:13 | 2024-10-04 | 2024-10-28 |

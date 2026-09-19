@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,956 likes - 215 songs - 11 hr 30 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,957 likes - 222 songs - 11 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -223,5 +223,12 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 213 | [Cherish the Day](https://open.spotify.com/track/63xUpIAXVJVwp9dnvL1Z4j) | [Fret Salad](https://open.spotify.com/artist/62loXA4WFS6NRXk6LwU0F7) | [Cherish the Day](https://open.spotify.com/album/4zukdejN15gPm86yt7PTCg) | 4:27 |
 | 214 | [Hello](https://open.spotify.com/track/6jlYvHtAqczyut8taxFsbB) | [Masked Family](https://open.spotify.com/artist/2v3CYqA4SYszVxUQ4uh4BK) | [Luna Crystal Blue](https://open.spotify.com/album/2aAh6nzbJcmxdf0uWO6ze5) | 2:35 |
 | 215 | [Reach to Your Heart](https://open.spotify.com/track/54cSL1PkDvHVrXMxs4kx33) | [Waydee](https://open.spotify.com/artist/3sdHmVZJJO81zPPBc3s06g) | [Reach to Your Heart](https://open.spotify.com/album/7t0YFmzxa5mktwNegWgfJb) | 2:56 |
+| 216 | [Wherever You Go](https://open.spotify.com/track/6xHNaaViyXBZX9VSe6YrCb) | [Peter Eidler](https://open.spotify.com/artist/1VrLbPbBrZnVDEBzcCb4mW) | [Wherever You Go](https://open.spotify.com/album/2FHzc1xcZ4Zkwj6Dti7m7G) | 3:13 |
+| 217 | [Fireplace\(s\)](https://open.spotify.com/track/3gDr1UkSmUd0RxptxsIwEc) | [Christien](https://open.spotify.com/artist/57PjjATXH3rAHAKI5uOeti) | [Fireplace\(s\)](https://open.spotify.com/album/2LiBUXPaHABZn7obIrhCxd) | 3:32 |
+| 218 | [Fading Scars](https://open.spotify.com/track/7GUyb6skjbAP6vwh9ldHSF) | [Dr.PRPL](https://open.spotify.com/artist/0jaoyjrgPB1zAsAWJnh1xU) | [Fading Scars](https://open.spotify.com/album/6xvSb1BmBByClVVn8F6Tas) | 2:55 |
+| 219 | [ONE NIGHT](https://open.spotify.com/track/0cPRxZ9XCGM7bODhzjGm5U) | [Mila Sidhu](https://open.spotify.com/artist/20oJy3JgS9UN5oX9Muirwk) | [ONE NIGHT](https://open.spotify.com/album/3wP8WoILgAwCDSimx0DoHn) | 2:48 |
+| 220 | [Weird Kid](https://open.spotify.com/track/0HhB3hE6mDONsIkyMuES7Y) | [Mr.Moss](https://open.spotify.com/artist/0GLPfmHCGujAHpsDt5xQkT) | [Bad Reputation Club](https://open.spotify.com/album/4qvyIn8IpmMSRy5ggqv8oI) | 2:25 |
+| 221 | [Iwalani Carry Me Home](https://open.spotify.com/track/5X2BeyxKPRLMLTlnuMfXgW) | [Paul Venus](https://open.spotify.com/artist/6IehkTvusmKLGdSFiHGLad) | [Iwalani Carry Me Home](https://open.spotify.com/album/40zaS74sGoBfwBksBt4Ekd) | 3:39 |
+| 222 | [Four Corners \- Hum Mix](https://open.spotify.com/track/6kfzYygkugPXgpsUMfZwpn) | [Alarra](https://open.spotify.com/artist/1uB5IUoXKeqajxhQ6cOxUH), [Brother Hum](https://open.spotify.com/artist/5oqtRvSoNrLfsiPY4RKmKz) | [Four Corners](https://open.spotify.com/album/5ZYdJwrlnxejOC393lUQ7B) | 3:41 |
 
-Snapshot ID: `AAA8aIws+9rpd/wm44xe5gMOqPtHetWI`
+Snapshot ID: `AAA8b3uZ8XooH1pVPDhkUwVE8U/YAWDO`

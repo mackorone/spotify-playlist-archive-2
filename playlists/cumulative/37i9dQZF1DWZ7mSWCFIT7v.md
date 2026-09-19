@@ -4,7 +4,7 @@
 
 > time\-stretching granular synthesis
 
-632 songs - 2 day 2 hr 36 min
+634 songs - 2 day 2 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -56,7 +56,7 @@
 | [Arthur](https://open.spotify.com/track/7AFNqxLKcSL0LpNpOgmhKt) | [Bjørn Torske](https://open.spotify.com/artist/4mD9kXHOs76Ld1m2Vfyi68), [Prins Thomas](https://open.spotify.com/artist/4rsEVNO1tGTY0beCnsnHi6) | [Square One](https://open.spotify.com/album/2m4Et0BnKCV3SoJCeJVmSZ) | 7:05 | 2021-10-06 | 2024-04-19 |
 | [Artificial Authentic](https://open.spotify.com/track/1Enw5MZBUVnrTzbzwBbpSF) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Artificial Authentic](https://open.spotify.com/album/1hNq0oYtTHuTotskwcBFq1) | 3:35 | 2021-10-06 | 2025-07-17 |
 | [As X Is Y](https://open.spotify.com/track/3YYrDHL8ZTxBoNE7MqyN34) | [Seefeel](https://open.spotify.com/artist/0jyH4jtanxaysaxwDVhR6f) | [Squared Roots](https://open.spotify.com/album/0K99K3KPnFsllSBd9D3sw4) | 7:08 | 2025-01-07 | 2025-09-20 |
-| [Ascension.png](https://open.spotify.com/track/3HcJRxgltYkPo3M1jhryCC) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ascension.png](https://open.spotify.com/album/6leH5SGo1FQlJCWy7jsIyz) | 5:12 | 2025-10-21 |  |
+| [Ascension.png](https://open.spotify.com/track/3HcJRxgltYkPo3M1jhryCC) | [Lone](https://open.spotify.com/artist/5wZOrGWdg4hq7KIRMupJdI) | [Ascension.png](https://open.spotify.com/album/6leH5SGo1FQlJCWy7jsIyz) | 5:12 | 2025-10-21 | 2026-09-19 |
 | [Attende](https://open.spotify.com/track/3YGYDn8htVD9CtTW4AmlRm) | [Pjusk](https://open.spotify.com/artist/1iqn4OAlsj7UVYzIfNGctq), [Tortusa](https://open.spotify.com/artist/5V9GUZs0R81FpHxKoY1gfo) | [Sakne Verda](https://open.spotify.com/album/36ruLBsItthE59Qe6tptau) | 5:16 | 2021-10-06 | 2025-07-17 |
 | [Aubades](https://open.spotify.com/track/0g0qLH5j3rPgmlkBik4E12) | [rAHHH](https://open.spotify.com/artist/1Y6WK1BxA34xgovJAKPYki) | [Blinking/Aubades](https://open.spotify.com/album/0EqUoT7hlOpNjUiEfabM7U) | 3:40 | 2021-10-06 | 2025-07-17 |
 | [Aural Drift \- T.Raumschmiere Remix](https://open.spotify.com/track/5f9weZ5oyuZRKA1riM5vpu) | [Martin Merz](https://open.spotify.com/artist/0lIOPkFJhKVldKHdz9zsTb), [T.Raumschmiere](https://open.spotify.com/artist/58ZRFHI9f72MNGA77F6OCA) | [Aural Drift \(T.Raumschmiere Remix\)](https://open.spotify.com/album/1txyyFVgTh2zuMAObmT8W7) | 5:47 | 2022-02-16 | 2025-07-17 |
@@ -215,7 +215,7 @@
 | [Flicker](https://open.spotify.com/track/4OlmBjwcjlj5swE6Q1RIEQ) | [Batu](https://open.spotify.com/artist/4WmdmK9wvEhtRChA2ko9Sr), [Donato Dozzy](https://open.spotify.com/artist/2LmP2eHIAmprDBQfi4jiBC) | [Exhale](https://open.spotify.com/album/22jowoaOweuYui1WgFZvvB) | 6:03 | 2026-07-03 |  |
 | [Flickering Shadows](https://open.spotify.com/track/7p184ALKyLhtJb8IhmX8qy) | [Laughing Ears](https://open.spotify.com/artist/459p6MR7jigJ8AuqdSYMoj) | [Blood](https://open.spotify.com/album/4ONOBiVS1bbOzYo05uVgT8) | 4:39 | 2021-10-06 | 2025-07-17 |
 | [FlimFlam](https://open.spotify.com/track/4QAiJBmaGVQ7n6eo3fSWH0) | [Michael Peter Olsen](https://open.spotify.com/artist/2wQfvRS5zm8G5xvZVxfFXO), [I Am Robot And Proud](https://open.spotify.com/artist/78Td89Pkz5ApoiIolOTyYA) | [FlimFlam](https://open.spotify.com/album/00lTgznpnHiEYA9xEY9nHD) | 3:11 | 2021-10-06 | 2025-07-17 |
-| [flow, out](https://open.spotify.com/track/3s7hc0XqsNWTfaAYD0Xbdf) | [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [IN TALES BETWEEN](https://open.spotify.com/album/0oM6Fr3h4DcMlUlTebLHv1) | 4:57 | 2026-07-17 |  |
+| [flow, out](https://open.spotify.com/track/3s7hc0XqsNWTfaAYD0Xbdf) | [LUXE](https://open.spotify.com/artist/4Hholv5F2ei5wt2sRUne7S) | [IN TALES BETWEEN](https://open.spotify.com/album/0oM6Fr3h4DcMlUlTebLHv1) | 4:57 | 2026-07-17 | 2026-09-19 |
 | [Fluo](https://open.spotify.com/track/4WMYjriobgGjisDIdKAfzA) | [Beatrice Dillon](https://open.spotify.com/artist/14H1XUmtWYzRHCQDkoee97), [Call Super](https://open.spotify.com/artist/1FVo44KTXqxo3JxXADWTd9) | [Inkjet / Fluo](https://open.spotify.com/album/6aTmhZUr5AXOr1FmKRumHl) | 8:22 | 2021-10-06 | 2025-07-17 |
 | [Fly In Amber](https://open.spotify.com/track/54SfhFjcoqB5dwXVuIfbOi) | [Cousin](https://open.spotify.com/artist/3riNyLWUNSai045asUQE3Q), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Fly In Amber](https://open.spotify.com/album/2AxIuysrol1DlsjFyY5OPL) | 6:40 | 2025-11-07 | 2026-04-22 |
 | [Fly radio](https://open.spotify.com/track/5uIG2YlinVJWNPuKTIeWGx) | [Michael Mills](https://open.spotify.com/artist/0Jh4pnOiWjf6s6KsV2mLTV) | [Fly radio](https://open.spotify.com/album/6pOJdm1TdXuJWV0u3Nbrmd) | 2:35 | 2026-01-23 | 2026-06-13 |
@@ -367,6 +367,7 @@
 | [No One Knows \- Mount XLR Remix](https://open.spotify.com/track/0YIdpQJvaY1AMhd9kQMxMp) | [Swoush](https://open.spotify.com/artist/2eFQDzvOlswU3yO7GTcoEm), [Mount XLR](https://open.spotify.com/artist/7EwMRcLv8TJpfEsGDc5JwJ) | [2FEET//IN \(Remixes\)](https://open.spotify.com/album/6A1svxcwCADA9iIQ1IR6da) | 4:18 | 2026-04-03 |  |
 | [No Pills U](https://open.spotify.com/track/7qqXGvIXJeQopPy8wAq2X2) | [Clark](https://open.spotify.com/artist/6kic5bCjlohhDn9KzXbOta) | [Steep Stims](https://open.spotify.com/album/0zL30K7hlasu2LygmuK5EA) | 2:13 | 2025-11-07 | 2026-08-22 |
 | [Noise and Chaos](https://open.spotify.com/track/4Mj4o0nMhfznMyz9BqvIja) | [Motoki Hada](https://open.spotify.com/artist/32xdvQZnvp4noPsOArCpAI) | [Noise and Chaos](https://open.spotify.com/album/7uvU39cAr6tYbO72j3EGY9) | 5:46 | 2026-02-27 | 2026-07-11 |
+| [Nokik Messiah](https://open.spotify.com/track/3Z80IyXkWwtw1AQQWLQyjY) | [OR](https://open.spotify.com/artist/0OVGzl7zhsnqmi9wFTHmsA), [John Talabot](https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD) | [Nokik Messiah](https://open.spotify.com/album/5YGfqyMEvnI1LVhe1ZkEdG) | 6:33 | 2026-09-18 |  |
 | [NPCs have feelings too](https://open.spotify.com/track/2NAb2HxL55cZRhATCQLw3t) | [Artur M Puga](https://open.spotify.com/artist/3eBggjM2o4vL4jMyLgElSn) | [weirdbloom](https://open.spotify.com/album/1VTbpHOo6ks1bjUZNwlvaZ) | 4:39 | 2023-03-28 | 2025-06-21 |
 | [NRG Remains](https://open.spotify.com/track/0OsNfb4otfIOdHSUt40ecP) | [Verraco](https://open.spotify.com/artist/4GfEnw0dFSSzB9M65k0dA1) | [Grial](https://open.spotify.com/album/0plvaGqOtMeRPkzUwDgd3X) | 2:56 | 2021-10-06 | 2025-07-17 |
 | [Nutrition](https://open.spotify.com/track/2dT232m3tJqiGxhTQOWlKk) | [Carmen Villain](https://open.spotify.com/artist/4Ps6q34DtWOueT2tJtwE5l) | [Nutrition EP](https://open.spotify.com/album/1bOl840hJ6oAoDWn1qNYgV) | 4:25 | 2024-11-12 | 2025-09-16 |
@@ -621,6 +622,7 @@
 | [Xid](https://open.spotify.com/track/2vD0oQAzIDeOi00a6qhQYD) | [Herva](https://open.spotify.com/artist/0dJeohf66MhZKYXmhzkFT1) | [Seez](https://open.spotify.com/album/1ks8FnIe4D2JDPzMHBPW4k) | 3:41 | 2025-05-30 | 2025-07-17 |
 | [XO 4 \- Wolf 1061c](https://open.spotify.com/track/1BmsXPYs9cJ7jiCywPfPjF) | [GCOM](https://open.spotify.com/artist/515LVYd7UvdvWzYcg5niJI) | [E2\-XO](https://open.spotify.com/album/1ugwG7gGoTefOjLbrPDKMd) | 7:55 | 2022-01-12 | 2025-07-17 |
 | [XPNDR](https://open.spotify.com/track/5WtwS6vUsfOaCcSVztZYnN) | [Michael J\. Blood](https://open.spotify.com/artist/7qshvEatYqNxZt2b52eRDT) | [Spaces In Between](https://open.spotify.com/album/7B3xJoQ8nbAXpPJHXkCfW4) | 5:09 | 2025-03-25 |  |
+| [Y \- RamonPang Remix](https://open.spotify.com/track/1mevmwXKeSb8WzxYvqBCyd) | [Next To Blue](https://open.spotify.com/artist/651bTRrM7AWeYldvSxdHco), [RamonPang](https://open.spotify.com/artist/5rgp60RQWM2lsyrHloYD7D) | [Y EP \(Remixes\)](https://open.spotify.com/album/7wggyx9Q4kzH4KtFRYb1Gg) | 4:39 | 2026-09-18 |  |
 | [you are my shotgun](https://open.spotify.com/track/5wAJjq2ojuw0XYg7DDr8W4) | [Layn Haley](https://open.spotify.com/artist/2kXPUwlhOck4KdJEZLVAuq) | [you are my shotgun](https://open.spotify.com/album/1F8JLVFB6tDHMLH9HJ8577) | 2:51 | 2025-08-27 | 2026-04-18 |
 | [You Take One Dip And Then You End It](https://open.spotify.com/track/6r7fNCQzEn6wlSqJBzHoJH) | [Nathan Micay](https://open.spotify.com/artist/6U7MOIhacysUEnfJ41WfhC) | [You Take One Dip And Then You End It](https://open.spotify.com/album/6i7MCI4D5YSPfHEnjpZ2lH) | 5:01 | 2022-01-21 | 2025-07-17 |
 | [You took me in](https://open.spotify.com/track/4fDkXhzgQlyxw3ZmHivc3F) | [Martinou](https://open.spotify.com/artist/5mxwKKP9qnvmfpuAgoI7kp) | [Linked](https://open.spotify.com/album/4G32kJIxQlduHOsvpijhGL) | 6:10 | 2025-04-11 | 2025-10-25 |

@@ -4,7 +4,7 @@
 
 > 🎧 Focus Pop Study Grooves 🧠\. Unlock peak focus &amp; mental clarity with Chill Pop\. Perfect for ADHD, studying, exams &amp; deep work, providing sustained concentration\. Feat\. Conan Gray, Olivia Rodrigo, beabadoobee &amp; rising indie pop\. Updated weekly\. Follow for a steady stream of focus\-boosting tunes!
 
-418 songs - 22 hr 58 min
+422 songs - 23 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,6 +111,7 @@
 | [EDIE CELINE](https://open.spotify.com/track/6j2SK5z0tnZjfpVxL0oZwM) | [MAX](https://open.spotify.com/artist/1bqxdqvUtPWZri43cKHac8) | [EDIE CELINE](https://open.spotify.com/album/1ZQHz49qJwDG9W7jh9V9dy) | 3:03 | 2023-12-04 | 2024-02-17 |
 | [Electric Feel](https://open.spotify.com/track/4VB66fjenkvNRSAEKs5uLi) | [Holiday87](https://open.spotify.com/artist/6J1tQCbBjDrdDqBYptHqX3), [The Knocks](https://open.spotify.com/artist/2x7EATekOPhFGRx3syMGEC) | [Electric Feel](https://open.spotify.com/album/4OQYt1SWEwXmdSSuU20QGe) | 2:56 | 2026-04-02 | 2026-07-11 |
 | [Elevation](https://open.spotify.com/track/5uwE7RLzB2mbSE3z5GDEA9) | [Saib](https://open.spotify.com/artist/6N4HlHINMvoTyAL0yhBUCk), [Atlantic Chill](https://open.spotify.com/artist/0IgHIEE4S1p89l6xs28SlP) | [Elevation](https://open.spotify.com/album/5b0CljUZdKO42HODyZeWhE) | 3:57 | 2021-12-06 | 2023-08-16 |
+| [End Of Your Love](https://open.spotify.com/track/5pXwBJIXdskly7dogEQUKw) | [Cassandra Coleman](https://open.spotify.com/artist/1O6GvgnaHzgcFlCX6RlhYV) | [End Of Your Love](https://open.spotify.com/album/0boQbM2Y1UuPVNyhDTRvjD) | 4:10 | 2026-09-18 |  |
 | [Enough Is Enough](https://open.spotify.com/track/3BHFResGQiUvbYToUdaDQz) | [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [AUSTIN](https://open.spotify.com/album/6r1lh7fHMB499vGKtIyJLy) | 2:45 | 2023-08-15 | 2023-08-29 |
 | [epiphany](https://open.spotify.com/track/08fa9LFcFBTcilB3iq2e2A) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02) | [folklore](https://open.spotify.com/album/2fenSS68JI1h4Fo296JfGr) | 4:49 | 2023-08-28 | 2024-12-14 |
 | [Eraser](https://open.spotify.com/track/1JNVs1DgzDKcL83wiXjQMv) | [Ricky Montgomery](https://open.spotify.com/artist/0ZUvK7zGdXLd78mQr3t1Tw) | [Eraser](https://open.spotify.com/album/38zJIoiflwVxYFpQX1II64) | 3:03 | 2023-08-15 | 2024-06-15 |
@@ -196,6 +197,7 @@
 | [Landslide](https://open.spotify.com/track/2QQKyvymCY1f21Fa2hrmrk) | [Robinson and The Romantics](https://open.spotify.com/artist/38CvLGTsjtoloDgv3OKQp8) | [Landslide](https://open.spotify.com/album/0nzHv5e8kBjl0S359J2bmr) | 3:55 | 2024-06-28 |  |
 | [Learning Curve](https://open.spotify.com/track/0lYA7tyLikZXufp49tzlZS) | [Lily Williams](https://open.spotify.com/artist/1f2q4venkA2pATVTmWhS6Z) | [Learning Curve](https://open.spotify.com/album/587GrQ5Jqm6crL2Igjn0d3) | 2:41 | 2023-10-21 | 2024-12-14 |
 | [Lejos de Ti](https://open.spotify.com/track/4ZKpTM2wfcj4Mg3vRHH66m) | [The Marías](https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx) | [Lejos de Ti](https://open.spotify.com/album/0Hoxr5rskasCFC4Y2LLCRR) | 2:59 | 2024-04-26 | 2025-01-12 |
+| [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 | 2026-09-18 |  |
 | [Lexicon](https://open.spotify.com/track/0NprRZn1emMhdnHIOdsk0U) | [Vagabon](https://open.spotify.com/artist/17mwzDXKn4ra9cuxXaptwp) | [Sorry I Haven't Called](https://open.spotify.com/album/5kTccsRBDxgf0Wgq4nb9PH) | 2:57 | 2023-09-15 | 2024-06-15 |
 | [lie](https://open.spotify.com/track/3fuy7iXa4vhVLCqDpqcfS6) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [hell is a teenage girl](https://open.spotify.com/album/2xhb39yawrcKkdIPvL2VJ4) | 3:34 | 2023-08-15 | 2025-01-19 |
 | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/track/7CS9hRKJNmBGWUowSjhedb) | [Adam Melchor](https://open.spotify.com/artist/54tv11ndFfiqXiR03PwdlB), [Lennon Stella](https://open.spotify.com/artist/1cZQSpDsxgKIX2yW5OR9Ot) | [Light Year \(feat\. Lennon Stella\)](https://open.spotify.com/album/71mCw8RPo3DOgQ9WtDs7pC) | 3:08 | 2021-12-06 | 2023-08-16 |
@@ -273,6 +275,7 @@
 | [Palm Trees](https://open.spotify.com/track/0TyTbWW4xMI6M1Q5HXs3Fj) | [gnash](https://open.spotify.com/artist/3iri9nBFs9e4wN7PLIetAw) | [Palm Trees](https://open.spotify.com/album/1H4wFGIQ32WkUspkzS9TIp) | 2:47 | 2021-12-06 | 2023-08-16 |
 | [Paper Thin](https://open.spotify.com/track/7kC97zPE0PxrcItXyGdk8P) | [Lianne La Havas](https://open.spotify.com/artist/2RP4pPHTXlQpDnO9LvR7Yt) | [Lianne La Havas](https://open.spotify.com/album/1CqNrKEv2fhF7mudTXrydV) | 4:58 | 2021-12-06 | 2023-08-16 |
 | [PASSENGER PRINCESS](https://open.spotify.com/track/3Md1Rphgz24viHtEVSWWi9) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [PASSENGER PRINCESS](https://open.spotify.com/album/2r00aQwsYDAVak9PWghWnU) | 2:35 | 2024-07-26 | 2024-08-03 |
+| [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 | 2026-09-18 |  |
 | [petals](https://open.spotify.com/track/6OVgl2xsJnvW8asP4EWBL7) | [Juliana Chahayed](https://open.spotify.com/artist/2qvGuhgaubJ02pfiKcJAdR), [Trash Pals](https://open.spotify.com/artist/7bgOuNVmarFOYFfb7LPUxj) | [petals](https://open.spotify.com/album/3EPoC6DmwF4J8Hyk1uHVLL) | 3:24 | 2025-02-14 | 2026-08-01 |
 | [Phoebe Told Me](https://open.spotify.com/track/6DQFgZEqTX5suz4luBta0M) | [Sydney Rose](https://open.spotify.com/artist/5vx4pDmiFDyKMhuOIgpiRv) | [You Never Met Me](https://open.spotify.com/album/4rVsCVbWLQWEUXsOfPRzEg) | 3:56 | 2023-08-28 | 2024-06-15 |
 | [Pictures](https://open.spotify.com/track/1JsNiBwzxX6Zad6W5GP88l) | [Gnarls Barkley](https://open.spotify.com/artist/5SbkVQYYzlw1kte75QIabH), [CeeLo Green](https://open.spotify.com/artist/5nLYd9ST4Cnwy6NHaCxbj8), [Danger Mouse](https://open.spotify.com/artist/2dBj3prW7gP9bCCOIQeDUf) | [Pictures](https://open.spotify.com/album/7eg0DlP83tIeeF2VAjwthu) | 3:56 | 2026-02-27 |  |
@@ -410,6 +413,7 @@
 | [Where Do You Go?](https://open.spotify.com/track/1NbcvJtbdUSiXjwTSoWr3m) | [YDE](https://open.spotify.com/artist/1evuFyLdwoIOIrYxMUfnWW) | [8](https://open.spotify.com/album/1ZIzSuZ5VMrCI4AWvcQrQW) | 2:50 | 2024-10-18 | 2026-07-25 |
 | [Whirlwind](https://open.spotify.com/track/4FdlrVG63Nsx9I7dBtsh6J) | [Sam Ryder](https://open.spotify.com/artist/1rvnJJghrxl1xakJZct08m) | [Whirlwind](https://open.spotify.com/album/419Peyo7a60OWSj0M03YQY) | 3:28 | 2021-12-06 | 2023-08-16 |
 | [White Noise](https://open.spotify.com/track/2xymlcjKK97wANhHfuDacD) | [Unflirt](https://open.spotify.com/artist/19fxSFm3VSC8tg7msuw8zV) | [April's Nectar](https://open.spotify.com/album/30h1sWlNQ99WGVO7na13pv) | 3:15 | 2023-12-04 | 2025-02-18 |
+| [White Teeth](https://open.spotify.com/track/3Gqagi4hGvcHyoWznBi4q3) | [Ryan Beatty](https://open.spotify.com/artist/60NNvDqsif0u40CXMV6jDQ) | [Calico](https://open.spotify.com/album/5OWpskyoZl9UMkHQwgA05O) | 3:58 | 2026-09-18 |  |
 | [Who are you?](https://open.spotify.com/track/4fY3eujPNFdOrrCzVPCsoQ) | [Saga Faye](https://open.spotify.com/artist/3rivgJzm48Cc5SIqls7Mbv) | [Who are you?](https://open.spotify.com/album/0qSnoidTmCP0hQC89oMS7S) | 2:31 | 2025-02-17 |  |
 | [Why It’s Me](https://open.spotify.com/track/5lAbeVyXLLvTJ2emBdYZkF) | [Paige Fish](https://open.spotify.com/artist/10djoaqJLN6H4oORnKJ63P) | [Why It’s Me](https://open.spotify.com/album/6fFQvbElISzfZLDXQzZFg9) | 2:45 | 2026-08-14 |  |
 | [Will You Always Love Her?](https://open.spotify.com/track/3AaT6DOf5An98ZstWmKBbb) | [Bella Poarch](https://open.spotify.com/artist/26cMerAxjx9GedFt0lMDjm) | [Will You Always Love Her?](https://open.spotify.com/album/0jlavK1I1ZewnfYWXbJPNs) | 3:05 | 2025-03-21 |  |

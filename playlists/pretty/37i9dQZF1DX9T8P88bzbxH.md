@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 
 > One night only\. Cover: Firdhaus
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,311 likes - 33 songs - 2 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,310 likes - 33 songs - 2 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,4 +42,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9T8P88bzbxH.md) - [plain]
 | 32 | [差一點](https://open.spotify.com/track/1QwnRiT6r8ZZiEnoUW7S1h) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 4:15 |
 | 33 | [被喜歡真的有那麼重要嗎？](https://open.spotify.com/track/5eMmL4m4VwWYyo5mpYfGPD) | [Firdhaus](https://open.spotify.com/artist/6fOqdhRNsMQqtwRwgo3NUv) | [六一九](https://open.spotify.com/album/0OVpy3ZmPJ7UXZYF53qNQU) | 3:03 |
 
-Snapshot ID: `AAAAAABDDB2PWHX3rZJQZ9TMzlXFBTT2`
+Snapshot ID: `AAAAAJ0IpHFuPmh+zkI4ypydDBJDOw9b`

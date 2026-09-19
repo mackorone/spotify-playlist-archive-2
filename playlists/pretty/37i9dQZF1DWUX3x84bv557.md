@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Isabèl Usher \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a><br/>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,254 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,265 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Uit De Klauwen](https://open.spotify.com/track/4TKSLJ4TnaFcUuLVaDC4fe) | [EMANUEL](https://open.spotify.com/artist/1P8t6HwyHr1RLzWBnxhjCd) | [Uit de Klauwen](https://open.spotify.com/album/65G4v0jCMze8iHyztp4VeQ) | 2:44 |
 | 80 | [Ik ben onzeker](https://open.spotify.com/track/4pgl1lIeawNxMASWpEBulm) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Benjamin / Benoni](https://open.spotify.com/album/6QbXDIUPK8fDULVHmsUiiL) | 3:31 |
 
-Snapshot ID: `AAAAAFRVR5EuqNWVO+Vjo1LFcKa1N2bt`
+Snapshot ID: `AAAAAIpfYvHyXDCtGyb6xu6wgbFcKSsq`

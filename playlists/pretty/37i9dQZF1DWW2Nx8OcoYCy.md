@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 
 > The upcoming artists performing at Jazz Cafe, London\. <a href="https://thejazzcafe.com/whats\-on/?">Discover the lineup.</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 8,915 likes - 77 songs - 5 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 8,919 likes - 77 songs - 5 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -86,4 +86,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW2Nx8OcoYCy.md) - [plain]
 | 76 | [Get in the Zone](https://open.spotify.com/track/5WWe3kCpuXDOwKGMl1AFXV) | [Myles Sanko](https://open.spotify.com/artist/0EeY17gAdOJIBjNrpi6q1G) | [Get in the Zone](https://open.spotify.com/album/0nXu95D7ao8ItfBzIciELm) | 4:13 |
 | 77 | [La Sfinge](https://open.spotify.com/track/46jtebvyFEDcXKfRaBUZD5) | [Tommiboy](https://open.spotify.com/artist/5K0vSysE1uxUrisecZc1oe), [Daniel Monaco](https://open.spotify.com/artist/0XH2zyfKSIvX51AkRD16iC), [DM Disco Band](https://open.spotify.com/artist/7jajBRrmfME7q1w1FZid0D) | [Kapote presents Italomania Vol\. 2](https://open.spotify.com/album/4KN5lYHvmm1tgI1HoPmlZm) | 5:32 |
 
-Snapshot ID: `AAAAAOc84Anw25DDSFz52gWK5OK7e7dL`
+Snapshot ID: `AAAAAIhM9QblBhB4ETVzygDfdtyQBRsb`

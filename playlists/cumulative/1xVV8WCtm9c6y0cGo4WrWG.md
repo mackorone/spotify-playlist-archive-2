@@ -4,7 +4,7 @@
 
 > The newest and best Hip\-Hop updated weekly! Cover: Casper TNG
 
-570 songs - 1 day 5 hr 1 min
+571 songs - 1 day 5 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -315,6 +315,7 @@
 | [Mirroronnabenz \(with BNYX®\)](https://open.spotify.com/track/5Vip1MOeAfQ5weKGYBXpI0) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [BNYX®](https://open.spotify.com/artist/6os1temnovzJIEGRUmn3fG) | [Mirroronnabenz](https://open.spotify.com/album/38mqpaec0dbvLDMiX6Jjox) | 2:22 | 2025-10-17 | 2026-08-22 |
 | [Misfit](https://open.spotify.com/track/45fQJ2FM2yyxgGupZWgW7s) | [Juice WRLD](https://open.spotify.com/artist/4MCBfE4596Uoi2O4DtmEMz) | [The Party Never Ends](https://open.spotify.com/album/7lpVrkFA2XivBC5cis1dil) | 2:39 | 2024-11-29 | 2026-03-21 |
 | [Miss Me](https://open.spotify.com/track/1U4mweNwisxNj23ffuC9gO) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Thank Me Later](https://open.spotify.com/album/6jlrjFR9mJV3jd1IPSplXU) | 5:05 | 2025-06-20 | 2025-07-12 |
+| [MISS MY DAWG \(feat\. Drake\)](https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [COCOON](https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL) | 3:08 | 2026-09-18 |  |
 | [MITSUBISHI / متسوبيشي](https://open.spotify.com/track/5vKPXdlcP46Jaf8Q6X4haV) | [Saint Levant](https://open.spotify.com/artist/5ZZsFnpO7frU8h5xH1wtjT), [Haifa Wehbe](https://open.spotify.com/artist/05ai8foZsZwk0cni0IOuNj) | [MITSUBISHI / متسوبيشي](https://open.spotify.com/album/04QMt1vLtMIvjuqPibU56o) | 2:34 | 2026-07-25 |  |
 | [Mo Bamba](https://open.spotify.com/track/1xzBco0xcoJEDXktl7Jxrr) | [Sheck Wes](https://open.spotify.com/artist/2RDOrhPqAM4jzTRCEb19qX) | [MUDBOY](https://open.spotify.com/album/15Id9Jrqab8IwHFirdrrLp) | 3:03 | 2025-07-04 | 2025-07-12 |
 | [Moment 4 Life](https://open.spotify.com/track/1ia019RqDK2o4QiANR1Dyn) | [Nicki Minaj](https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [Pink Friday](https://open.spotify.com/album/3LJhoYn4nnHmvPRO3ppbsl) | 4:39 | 2025-07-04 | 2025-07-12 |

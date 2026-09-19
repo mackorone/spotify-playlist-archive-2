@@ -1,12 +1,12 @@
 {
   "description": "Desde Juliantla, Guerrero, las inmortales del Rey del Jaripeo.",
-  "num_followers": 197070,
+  "num_followers": 197102,
   "original_name": "Cancionero Joan Sebastian",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALG96ApPfcN4wTCy9kp4DBrtyE4F",
+  "snapshot_id": "AAAAAJ5iKzDwdjfTrIXYOlAVECCduXDx",
   "tracks": [
     {
       "added_at": "2024-07-12 06:00:00",
@@ -295,18 +295,22 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Mexicano Hasta Las Pampas",
-        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
       },
       "artists": [
         {
-          "name": "Diego Verdaguer",
-          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
         }
       ],
-      "duration_ms": 174157,
-      "name": "Voy A Conquistarte",
-      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
+      "duration_ms": 196013,
+      "name": "Desliz",
+      "url": "https://open.spotify.com/track/1i9BszSRSFvCSLO03FdZsM"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -327,22 +331,18 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+        "name": "Mexicano Hasta Las Pampas",
+        "url": "https://open.spotify.com/album/7KIEEuRTgrJIFx6U1e0X3q"
       },
       "artists": [
         {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        },
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+          "name": "Diego Verdaguer",
+          "url": "https://open.spotify.com/artist/2UFqwY8A3PLcx8pAkg9g5P"
         }
       ],
-      "duration_ms": 196013,
-      "name": "Desliz",
-      "url": "https://open.spotify.com/track/1i9BszSRSFvCSLO03FdZsM"
+      "duration_ms": 174157,
+      "name": "Voy A Conquistarte",
+      "url": "https://open.spotify.com/track/3ykJeceAqPKiwnFPpzUNUq"
     },
     {
       "added_at": "2024-07-12 06:00:00",
@@ -383,6 +383,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Caminar Contigo",
+      "url": "https://open.spotify.com/track/0sAalDce9Sub2EFICiJON8"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Emociones",
         "url": "https://open.spotify.com/album/5z8K4uNyhQujbXCf8PkuBq"
       },
@@ -419,26 +439,6 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        },
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Caminar Contigo",
-      "url": "https://open.spotify.com/track/0sAalDce9Sub2EFICiJON8"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
         "name": "Chiquitita",
         "url": "https://open.spotify.com/album/6qzheblXiT9ib7UoMqnuaD"
       },
@@ -471,6 +471,26 @@
     {
       "added_at": "2024-07-12 06:00:00",
       "album": {
+        "name": "Un Lu*Jo",
+        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
+      },
+      "artists": [
+        {
+          "name": "Lucero",
+          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
+        },
+        {
+          "name": "Joan Sebastian",
+          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
+        }
+      ],
+      "duration_ms": 199573,
+      "name": "Esc\u00e1ndalo Social",
+      "url": "https://open.spotify.com/track/0AYYjkTEMtPFLrQ7YrzcWC"
+    },
+    {
+      "added_at": "2024-07-12 06:00:00",
+      "album": {
         "name": "Nuestras Favoritas De Joan Sebastian",
         "url": "https://open.spotify.com/album/3zhM6eE3OigmLxaBS1C8zT"
       },
@@ -499,26 +519,6 @@
       "duration_ms": 215000,
       "name": "Bandida",
       "url": "https://open.spotify.com/track/4Yf3iauY3ZGTaWlJibNVFG"
-    },
-    {
-      "added_at": "2024-07-12 06:00:00",
-      "album": {
-        "name": "Un Lu*Jo",
-        "url": "https://open.spotify.com/album/7AHCphIjbCH7kEV3VQJe0q"
-      },
-      "artists": [
-        {
-          "name": "Lucero",
-          "url": "https://open.spotify.com/artist/3SNKhPPfra7g7Crq1QA330"
-        },
-        {
-          "name": "Joan Sebastian",
-          "url": "https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1"
-        }
-      ],
-      "duration_ms": 199573,
-      "name": "Esc\u00e1ndalo Social",
-      "url": "https://open.spotify.com/track/0AYYjkTEMtPFLrQ7YrzcWC"
     },
     {
       "added_at": "2024-07-12 06:00:00",

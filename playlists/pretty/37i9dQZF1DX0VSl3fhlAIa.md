@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 
 > Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.
 
-[Spotify](https://open.spotify.com/user/spotify) - 10,081 likes - 50 songs - 3 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 10,105 likes - 50 songs - 3 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0VSl3fhlAIa.md) - [plain]
 | 42 | [no pride](https://open.spotify.com/track/1Wy8HDBwISAY6l97Pm1I9X) | [Sincere](https://open.spotify.com/artist/3ucekCZdcSOBgiLZ37nKyn) | [When was that](https://open.spotify.com/album/3ZQiUTHlL1t3v4tPoQ52PB) | 2:46 |
 | 43 | [B & C](https://open.spotify.com/track/7zzJVfJqdB2mjNCXRyNCvT) | [Hikaru Utada](https://open.spotify.com/artist/7lbSsjYACZHn1MSDXPxNF2) | [Movin' on without you](https://open.spotify.com/album/5WjRwt4fHDlU9EzxhowFkS) | 4:19 |
 | 44 | [Anytime](https://open.spotify.com/track/4Yplq7B18jCFSyIHGDnbEq) | [Crystal Kay](https://open.spotify.com/artist/3yzQHdj9G34CVZ5rVUDrOM) | [ALL YOURS](https://open.spotify.com/album/5caA9xJnnyArusGKB0GsbP) | 4:40 |
-| 45 | [Chosen One](https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Chosen One](https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31) | 2:31 |
-| 46 | [GET UP!](https://open.spotify.com/track/6BNAZp8Q2EcAQioytug0mg) | [SOULHEAD](https://open.spotify.com/artist/23XPnlp8nAIDjGf7S9ap3I) | [BRAIDED](https://open.spotify.com/album/1JybQHCd0xADI7rG8QlqgH) | 4:14 |
+| 45 | [GET UP!](https://open.spotify.com/track/6BNAZp8Q2EcAQioytug0mg) | [SOULHEAD](https://open.spotify.com/artist/23XPnlp8nAIDjGf7S9ap3I) | [BRAIDED](https://open.spotify.com/album/1JybQHCd0xADI7rG8QlqgH) | 4:14 |
+| 46 | [Chosen One](https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB) | [aimi](https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7) | [Chosen One](https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31) | 2:31 |
 | 47 | [Changes](https://open.spotify.com/track/7FkCColdGXYdkLZf7HbjK5) | [Nao Yoshioka](https://open.spotify.com/artist/4YPiq62lEVjRdzhSlNto08), [Devin Morrison](https://open.spotify.com/artist/4AgZVM5339ZoMyg38nYyYW) | [Changes](https://open.spotify.com/album/5qHPDhMOkATOEzV2JSG20B) | 4:24 |
 | 48 | [BED \(DOUBLES\)](https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR) | [Double](https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq) | [Crystal](https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc) | 5:21 |
 | 49 | [LET'S GO!](https://open.spotify.com/track/2yS62ySi7e53qMzJ32ClQH) | [Original Love](https://open.spotify.com/artist/76QaFuQNldIJkAkDmaMAck) | [Sunny Side Of Original Love](https://open.spotify.com/album/1tXNcSMy345oksuxlQppRH) | 6:07 |
 | 50 | [Rock the Boat](https://open.spotify.com/track/13rd7wgmULlHg0EuTwOiTc) | [TOSHIKI HAYASHI\(%C\)](https://open.spotify.com/artist/2BSv9udyrO0Mm0ckZAkQSI), [Lil Summer](https://open.spotify.com/artist/2ZcEafNbbvNXalNGKnHRCX) | [Rock the Boat](https://open.spotify.com/album/6Rr6bZEFB4VZDedY7jLVrR) | 4:28 |
 
-Snapshot ID: `AAAAAGIfyIbXmsZlgs2fxfYA7ecJ9EEc`
+Snapshot ID: `AAAAAHU4HWUZaVlNf5+qTIglSPKmI0R4`

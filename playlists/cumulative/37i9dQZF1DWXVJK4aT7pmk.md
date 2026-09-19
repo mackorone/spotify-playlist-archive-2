@@ -2,9 +2,9 @@
 
 ### [Hot Hits Punjabi](https://open.spotify.com/playlist/37i9dQZF1DWXVJK4aT7pmk)
 
-> Catch the hottest Punjabi tracks\. Cover: SMG
+> Catch the hottest Punjabi tracks\. Cover: AP Dhillon
 
-230 songs - 11 hr 42 min
+231 songs - 11 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -128,6 +128,7 @@
 | [Life for Hip\-Hop](https://open.spotify.com/track/3ZbYWJ1B5Fp7ZRCGKGepgZ) | [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt), [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5) | [Young G.O.A.T](https://open.spotify.com/album/4Qhs9M8b7MafoxTPhfG6Hq) | 2:53 | 2025-02-28 | 2025-07-19 |
 | [Lock](https://open.spotify.com/track/6MOzgX8Rj8TpWhG7bd4ZWp) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [The Kidd](https://open.spotify.com/artist/1yLUeehqCm7X7QLRuUfZ1A) | [Lock](https://open.spotify.com/album/26w8VWnNdWUcF5rRZc2rrZ) | 2:55 | 2025-01-31 | 2025-11-15 |
 | [Lor Lor](https://open.spotify.com/track/0UVcAOt6NMxYQ24zD66XKk) | [Jassie Gill](https://open.spotify.com/artist/3xZnxcyeC0vVaJvEA9VqrA), [Kartik Dev](https://open.spotify.com/artist/3RP5G139xbMICwhskoljmz), [Gaurav Dev](https://open.spotify.com/artist/68Cqe4YTtQpcuyKLktPxr9) | [Lor Lor](https://open.spotify.com/album/4zqRJG3ls1lWXULHc712bw) | 2:59 | 2025-05-09 |  |
+| [Love Like This](https://open.spotify.com/track/5bC481ZHpapTgZUWPfIX0k) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Simar](https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf), [Satta](https://open.spotify.com/artist/1PPJOqgRkoDM4UVrH5W2vj) | [I'm an Artist Bro](https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE) | 2:50 | 2026-09-18 |  |
 | [Low Fade](https://open.spotify.com/track/4CZl2BQkGPIFK99cf6jTAz) | [Karan Aujla](https://open.spotify.com/artist/6DARBhWbfcS9E4yJzcliqQ), [Mxrci](https://open.spotify.com/artist/5Us2dsq4VHlfLbKOrskg7K) | [Low Fade](https://open.spotify.com/album/4OMBxFEkBo4MHCTTRP90Jf) | 2:55 | 2026-07-10 |  |
 | [Lutt Le Gaya](https://open.spotify.com/track/5pKQlv0gppPe6PYKqCPpvD) | [Shashwat Sachdev](https://open.spotify.com/artist/465OXuCU8YZNmVG1leLwQ9), [Simran Choudhary](https://open.spotify.com/artist/1eQsrFTW5NHQs1X7B0mImu) | [Dhurandhar \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/6E3Ds14TPBbZKTUGprotN6) | 4:13 | 2026-01-09 |  |
 | [Main Hi Kyon](https://open.spotify.com/track/2Cpjt0KPjtyfp8z96Iz3NS) | [Wazir Patar](https://open.spotify.com/artist/3bCfmBmsKvp4UXialp6xNZ), [Basant Kur](https://open.spotify.com/artist/3G2Xtfb5jyShZFe4Xz67y7) | [Main Hi Kyon](https://open.spotify.com/album/1MBWAEMYBtEPgLtSZIKDjP) | 2:33 | 2025-03-14 | 2026-04-04 |
@@ -150,7 +151,7 @@
 | [Naam Sunuga](https://open.spotify.com/track/2DnRbGR0JIKLERKI8IGcoL) | [Khan Bhaini](https://open.spotify.com/artist/2qqPV8ZkTpVdwfMOKSsb8N) | [Naam Sunuga](https://open.spotify.com/album/290dKL08Ilt2QtRIeb4q6e) | 3:27 | 2024-01-04 | 2024-03-01 |
 | [Nachdi To'n](https://open.spotify.com/track/7Gm3V7q7zm5byzS0QQ8VHn) | [HUSTINDER](https://open.spotify.com/artist/2f3dFiQ7uWMFKrbxK8LbkX), [Desi Crew](https://open.spotify.com/artist/6lMIhndzcevFkVWSJnXPt2), [Mandeep Maavi](https://open.spotify.com/artist/0nMjrfJdkdeEdNHDU72Rn1) | [Young Once](https://open.spotify.com/album/1Zf3YnrtFPy2hodXEBdRaS) | 3:03 | 2024-01-04 | 2024-07-03 |
 | [Naina \(From "Crew"\)](https://open.spotify.com/track/1eZefeDb8uOsjvcbl1fJrG) | [Diljit Dosanjh](https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR), [Badshah](https://open.spotify.com/artist/0y59o4v8uw5crbN9M3JiL1), [Raj Ranjodh](https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF) | [Naina \(From "Crew"\)](https://open.spotify.com/album/4mGz0G0d2mqGmaFc67MEEm) | 3:00 | 2024-11-29 | 2025-11-08 |
-| [Narak \(From "Ishqnama"\)](https://open.spotify.com/track/41iHpO5NlVSNXFRcybGQJB) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Narak \(From "Ishqnama"\)](https://open.spotify.com/album/27FwpaLB6zaZuf7KBhTf69) | 4:14 | 2026-08-14 |  |
+| [Narak \(From "Ishqnama"\)](https://open.spotify.com/track/41iHpO5NlVSNXFRcybGQJB) | [B Praak](https://open.spotify.com/artist/56SjZARoEvag3RoKWIb16j), [Jaani](https://open.spotify.com/artist/5gZhfbckaWo89OzDSk3gdT), [Jyotica Tangri](https://open.spotify.com/artist/5wQDQFm7Ku8WWGi5xqJ9lp) | [Narak \(From "Ishqnama"\)](https://open.spotify.com/album/27FwpaLB6zaZuf7KBhTf69) | 4:14 | 2026-08-14 | 2026-09-19 |
 | [Nazare](https://open.spotify.com/track/4y6I1Jm5Vh0QKh454bOz4i) | [Gur Sidhu](https://open.spotify.com/artist/0QntOArZgiNHoemAzwJPu5), [Kaptaan](https://open.spotify.com/artist/0F4kRjMBP6NrjpEBEoL0Xb), [Cheema Y](https://open.spotify.com/artist/0uOUeC51AxGnP6hB8gurwt) | [Bonafide](https://open.spotify.com/album/2wOy3GGZN8Z13kgwoYlqSk) | 2:45 | 2026-02-27 | 2026-06-06 |
 | [Never Fold](https://open.spotify.com/track/3JkVYvxNoGf2HCWJo61462) | [Sidhu Moose Wala](https://open.spotify.com/artist/4PULA4EFzYTrxYvOVlwpiQ), [Sunny Malton](https://open.spotify.com/artist/2ScEhgArBEdKyU4vNHSyiY), [SOE](https://open.spotify.com/artist/503jMzlAxbEpfltywmU45E) | [No Name](https://open.spotify.com/album/57SIarHHgfby4AvV6ftCB5) | 3:03 | 2024-01-04 | 2024-07-19 |
 | [No Love](https://open.spotify.com/track/6A2ZwOsMeomTIVhLvfXngC) | [lusttqwe](https://open.spotify.com/artist/1ppoDV6LO37SPuHEK2FAyR), [jesp](https://open.spotify.com/artist/4A6FNKLHprsYDzim1SQAOJ), [bexter](https://open.spotify.com/artist/2nb1xGx7gKOs9Yu5g1sJ8n) | [No Love](https://open.spotify.com/album/6qrdcQLLTx6zzvtNpGkPru) | 2:49 | 2024-01-04 | 2024-01-24 |

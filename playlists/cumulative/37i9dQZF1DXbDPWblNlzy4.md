@@ -4,7 +4,7 @@
 
 > Los éxitos más POPulares en español los encuentras aquí\. Foto: Camilo
 
-603 songs - 1 day 7 hr 22 min
+605 songs - 1 day 7 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -136,6 +136,7 @@
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-03-24 | 2024-05-18 |
 | [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 | 2023-03-17 | 2023-04-15 |
 | [Cosas de Enamorao \- Salud mi Reina](https://open.spotify.com/track/5REuVEc3Mo3aIHn8QYSrxk) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Cosas de Enamorao \(Salud mi Reina\)](https://open.spotify.com/album/7lqgz12x7nS4jrGJQChDX8) | 2:39 | 2025-11-14 | 2026-01-31 |
+| [COSAS DEL AMOR \(feat\. KICKBOMBO\)](https://open.spotify.com/track/4QShpVwkoUtMT2OLEYE4zD) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo), [KICKBOMBO](https://open.spotify.com/artist/7A2htSu45kogVfNBMD4Xgh) | [COSAS DEL AMOR \(feat\. KICKBOMBO\)](https://open.spotify.com/album/5LvOJA5uFl6cHNae6clPg6) | 2:23 | 2026-09-18 |  |
 | [CUANDO HABLES CON ÉL](https://open.spotify.com/track/3HwOh611McmotNJOLEb66y) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:05 | 2025-05-30 | 2026-01-31 |
 | [Cuando La Noche Está Fría](https://open.spotify.com/track/3r3DLqM43NMEYhWYL15uOt) | [Yera](https://open.spotify.com/artist/1vrahybrKylgwkjhbmOz94), [Irepelusa](https://open.spotify.com/artist/3KaNWDYObY73SDpcZBRzuw) | [Cuando La Noche Está Fría](https://open.spotify.com/album/4T7Q0lmKcx7dHtiUAozZtA) | 2:43 | 2023-03-24 | 2023-07-22 |
 | [Cuando Será](https://open.spotify.com/track/5UWfxgqEHjkJPrYKpO20jy) | [Annasofia](https://open.spotify.com/artist/37GbbR22KbzWN5Wfb9djSo) | [Cuando Será](https://open.spotify.com/album/2QxzI2B1jLILTDC4yPtpaG) | 2:38 | 2025-11-13 | 2026-01-31 |
@@ -446,6 +447,7 @@
 | [Pasaporte](https://open.spotify.com/track/3LkVlYZK41uDwBHX26m8mi) | [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Mr\. Naisgai](https://open.spotify.com/artist/37BIBvfliXJpSgn10yQUJM) | [Pasaporte](https://open.spotify.com/album/6jGjJCN5uEufVPfbbdjVbf) | 4:26 | 2024-09-27 | 2024-11-16 |
 | [Patadas de Ahogado](https://open.spotify.com/track/4WefXOf8I4gMjdj2kBJgkl) | [LATIN MAFIA](https://open.spotify.com/artist/6XTGKOV9jceQ6f67lnhpbF), [HUMBE](https://open.spotify.com/artist/1b7AEdUSudOQoZF5ebUxCL) | [Patadas de Ahogado](https://open.spotify.com/album/418IgoKv4nyde6c9YCDYDj) | 3:44 | 2023-11-24 | 2026-04-22 |
 | [Pa’ Qué Volviste?](https://open.spotify.com/track/0CgLpsgOmE0h1M7ILiwAnV) | [ELENA ROSE](https://open.spotify.com/artist/0zO8yNnw5GQgutcIyXfGBY), [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [Pa’ Qué Volviste?](https://open.spotify.com/album/4XaqqBH97CiSaqizhTViur) | 3:12 | 2024-11-22 |  |
+| [Peleamos?](https://open.spotify.com/track/3W8nigIQWuv90NlMsNuuyp) | [Pavlo](https://open.spotify.com/artist/5HkbqKHZAvQjhjkhYm6mp2) | [Peleamos?](https://open.spotify.com/album/33dpCLknPuzjUENlY6Kp4b) | 2:18 | 2026-09-18 |  |
 | [pelinegra](https://open.spotify.com/track/1L2cHRExPDjaUpMaHa4j5x) | [Joaquina](https://open.spotify.com/artist/081F5qgtVMfcHZKDY1IEa0) | [pelinegra](https://open.spotify.com/album/0t0PGwqz6FYhyRDBVoFsnA) | 3:31 | 2026-01-16 | 2026-01-31 |
 | [PENÉLOPE](https://open.spotify.com/track/3wetETkA76tOFOeUujaq1N) | [Nicolle Jadad](https://open.spotify.com/artist/6WKvXvkXVojnonsPLmzSUP) | [MIS PLANTAS MUERTAS](https://open.spotify.com/album/480v7YXnoev8J08UBgA1vs) | 2:41 | 2024-09-20 | 2024-09-27 |
 | [Pero Casi](https://open.spotify.com/track/2JAWMgpYUYcQmFcohfh4YO) | [Maca & Gero](https://open.spotify.com/artist/6u8guISpLd1Al1exxE6BtV) | [uno más uno](https://open.spotify.com/album/2ANolCrget4jdExU7MQJMH) | 2:59 | 2025-05-30 | 2026-01-31 |

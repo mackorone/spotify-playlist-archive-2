@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 
 > Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: La Bruja de Texcoco
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,067,352 likes - 50 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,067,290 likes - 50 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3LyU0mhfqgP.md) - [plain]
 | 49 | [DNH](https://open.spotify.com/track/1PGde5PALlkGdlPizKNDLo) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [DNH](https://open.spotify.com/album/3tUeyucSQP4QdGyf02wKDN) | 2:27 |
 | 50 | [sunrise rocket](https://open.spotify.com/track/0tEt8CPH0NK10SqS00krls) | [MisiiN](https://open.spotify.com/artist/1AWaERDm3O1qwyVa3NpmXC) | [sunrise rocket](https://open.spotify.com/album/0nefnCe52X4GOpIqNFtAeW) | 2:45 |
 
-Snapshot ID: `AAAAAE67Et5TdRHk0zbZ69YXIyF06Lvw`
+Snapshot ID: `AAAAAADnesI49eqFjEEQKLWV0qpexzTz`

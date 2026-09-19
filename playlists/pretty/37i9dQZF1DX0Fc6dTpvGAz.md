@@ -4,9 +4,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Fc6dTpvGAz.md) - [plain]
 
 > Grotesquely thrilling fiction.
 
-[Spotify](https://open.spotify.com/user/spotify) - 566 likes - 0 song - 0 sec
+[Spotify](https://open.spotify.com/user/spotify) - 567 likes - 0 song - 0 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 
-Snapshot ID: `AAAAAB4WS2SQLMCBXuew1esE21Xc1FQk`
+Snapshot ID: `AAAAAHX2OFxwFd1Mp7a0HHb9KLmcyfM1`

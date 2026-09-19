@@ -4,7 +4,7 @@
 
 > This is Larkin Poe\. The essential tracks, all in one playlist.
 
-220 songs - 12 hr 58 min
+221 songs - 13 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -103,6 +103,7 @@
 | [God Moves On The Water](https://open.spotify.com/track/6WO209fUKXVhYhUwlJxp9w) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/50aq2p3SeGo4aKtihf81Wf) | 2:44 | 2025-04-20 | 2026-08-27 |
 | [God Moves On The Water](https://open.spotify.com/track/7nn5dN7SAEsHkxITB9Kki6) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Self Made Man](https://open.spotify.com/album/4jwVtyG5s22UpGqKOZishP) | 2:44 | 2022-08-05 | 2023-03-21 |
 | [God's Gonna Cut You Down \- From 'Queen of the Ring \- Music From The Motion Picture'](https://open.spotify.com/track/2POvvcjEVwCmxb6cVrRUfs) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Aaron Gilhuis](https://open.spotify.com/artist/5LjsXQ0ex7k6vGw5J1zNRG), [Queen of the Ring](https://open.spotify.com/artist/4mH2ZqJf7W6srzzaMdrJDn) | [God's Gonna Cut You Down \(From 'Queen of the Ring \- Music From The Motion Picture'\)](https://open.spotify.com/album/70DyKgYERaRL0Ja1gnT5oB) | 3:52 | 2025-03-15 |  |
+| [Good And Gone](https://open.spotify.com/track/2g5ZVpI67niq6dTSXjqpGa) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/6zAalDHGqtEJZK8M8rI9ak) | 2:35 | 2026-09-19 |  |
 | [Hard Time Killing Floor Blues](https://open.spotify.com/track/1AuhOJ7slCC49R7eWsNITV) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/3WV0ARVjtlpqJWZHsXVhWs) | 3:13 | 2023-06-17 | 2026-04-15 |
 | [Hard Time Killing Floor Blues](https://open.spotify.com/track/1zhltGZlmgZ2MAs5DZQD2q) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:13 | 2022-08-05 | 2023-06-18 |
 | [Hard Time Killing Floor Blues](https://open.spotify.com/track/6FjaLHVl7eL1N9pL942g4P) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:13 | 2024-02-12 |  |
@@ -113,7 +114,7 @@
 | [Honey Honey](https://open.spotify.com/track/2rtAiRiVR7flLVl1SDnNEF) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/4XflGGrR7ASWoMNVfy7txI) | 3:29 | 2022-08-05 | 2023-06-18 |
 | [Honey Honey](https://open.spotify.com/track/6lH0490xa4CKhavDK3eHVI) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Venom & Faith](https://open.spotify.com/album/72ANHSCf2fE8hgOuSStJUF) | 3:29 | 2023-06-17 | 2025-01-07 |
 | [I Belong to Love](https://open.spotify.com/track/7HPmVh2X2DWWyNUQJbszzN) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm), [Thom Hell](https://open.spotify.com/artist/3KwfPMspVY0W2KRZLJqfWW) | [The Sound of the Ocean Sound](https://open.spotify.com/album/1R7itsLluYqsOGTDVVEeaV) | 4:23 | 2022-08-05 | 2022-11-12 |
-| [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6lmtoNV7S2U8ETrDgjWZaq) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Dirt Does Dylan](https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T) | 4:47 | 2025-09-02 |  |
+| [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6lmtoNV7S2U8ETrDgjWZaq) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Dirt Does Dylan](https://open.spotify.com/album/4F0CjdewrCbNZ5k13SOs3T) | 4:47 | 2025-09-02 | 2026-09-19 |
 | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/track/6w6ZTXBkcf4JurAR0ruRU5) | [Nitty Gritty Dirt Band](https://open.spotify.com/artist/7y70dch6JuuuNnwlsOQvwW), [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [I Shall Be Released \(feat\. Larkin Poe\)](https://open.spotify.com/album/21WX3fvuUwoP0k7GQo5NAo) | 4:47 | 2022-08-05 | 2024-10-30 |
 | [If God Is a Woman](https://open.spotify.com/track/0u5MLiarQBMVQ01986KqsC) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [Bloom](https://open.spotify.com/album/4mOnUAViaWVgbJJB8syth2) | 3:25 | 2025-05-14 | 2026-07-14 |
 | [If God Is a Woman](https://open.spotify.com/track/2knn8RrwyObnPvpNQ7jdCW) | [Larkin Poe](https://open.spotify.com/artist/7d10VF1J4LqW7vrpPOngzm) | [If God Is A Woman](https://open.spotify.com/album/42Dy2REVSOkDuFzuaF0b9s) | 3:25 | 2024-09-22 | 2024-10-20 |

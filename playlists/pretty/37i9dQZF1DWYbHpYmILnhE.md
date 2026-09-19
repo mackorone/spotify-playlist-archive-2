@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 
 > Drilling through Naij\. Cover: Aguero Banks
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,647 likes - 60 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,703 likes - 60 songs - 2 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYbHpYmILnhE.md) - [plain]
 | 59 | [Parawa](https://open.spotify.com/track/1i8T8D9NwQs9voHdXeia2j) | [Deejay J Masta](https://open.spotify.com/artist/4vB3II8IEaXjcokKgxaH5p) | [Parawa](https://open.spotify.com/album/2BXIR73TInabV4iZvaAtbV) | 2:33 |
 | 60 | [I Know Now](https://open.spotify.com/track/2vadpVdsxOlx6t8xhxaxZQ) | [Dremo](https://open.spotify.com/artist/47fErV0VDIx6PmuhtWGTYu), [Teni](https://open.spotify.com/artist/3ukrG1BmfEiuo0KDj8YTTS) | [I Know Now](https://open.spotify.com/album/2gv9ZwiCEHWnuSHf2gzs4P) | 2:54 |
 
-Snapshot ID: `AAAAAGG1aaIq15DFZGjEgrHtI+Dn7lb9`
+Snapshot ID: `AAAAABbodzLj/OLXF8EOI/IORw7muA1+`

@@ -3593,6 +3593,32 @@
     },
     {
       "album": {
+        "name": "Chase The Feeling (feat. ALEXX)",
+        "url": "https://open.spotify.com/album/6yh6I4g8c6QYATbQJIe6VC"
+      },
+      "artists": [
+        {
+          "name": "Timmy Trumpet",
+          "url": "https://open.spotify.com/artist/0CbeG1224FS58EUx4tPevZ"
+        },
+        {
+          "name": "Alle Farben",
+          "url": "https://open.spotify.com/artist/61ipISvUVa5LkJlKZnm3Oo"
+        },
+        {
+          "name": "ALEXX",
+          "url": "https://open.spotify.com/artist/5uKJESYpkn1kFR72Sj0UWC"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149538,
+      "name": "Chase The Feeling (feat. ALEXX)",
+      "url": "https://open.spotify.com/track/0e5Af4sM86p0CD3KpZAEY2"
+    },
+    {
+      "album": {
         "name": "Cheri Cheri Lady",
         "url": "https://open.spotify.com/album/6Ac00kZahMad0jo3MJIffH"
       },
@@ -5856,6 +5882,24 @@
       "duration_ms": 140625,
       "name": "Elevate Your Love",
       "url": "https://open.spotify.com/track/6GiZMMByquYTUYtsVsoVD4"
+    },
+    {
+      "album": {
+        "name": "Whole Again",
+        "url": "https://open.spotify.com/album/4T6WGOKNC5P8euk1cbiqJs"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144620,
+      "name": "Empathy",
+      "url": "https://open.spotify.com/track/5B8D0hoLbPlf5cO9N1OluW"
     },
     {
       "album": {
@@ -19275,6 +19319,24 @@
     },
     {
       "album": {
+        "name": "So Incredible (Remix)",
+        "url": "https://open.spotify.com/album/2K7r7mT6pbFM4EbYR7XFzx"
+      },
+      "artists": [
+        {
+          "name": "Lies Zhara",
+          "url": "https://open.spotify.com/artist/6lepB2hdHmFWYsZEDqP4l5"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117570,
+      "name": "So Incredible (Remix)",
+      "url": "https://open.spotify.com/track/5o9IvdwmVGFqhiWCP67qy2"
+    },
+    {
+      "album": {
         "name": "Sol d'en Serra",
         "url": "https://open.spotify.com/album/5n3CyJCFiIE6J3dc7iA39p"
       },
@@ -24118,6 +24180,24 @@
       "duration_ms": 153230,
       "name": "Who's Playing",
       "url": "https://open.spotify.com/track/1ELgCSMAtSPlzp1V82xW5h"
+    },
+    {
+      "album": {
+        "name": "Whole Again",
+        "url": "https://open.spotify.com/album/4T6WGOKNC5P8euk1cbiqJs"
+      },
+      "artists": [
+        {
+          "name": "Lavern",
+          "url": "https://open.spotify.com/artist/03y4yOxhLk6MDJ1bV424uO"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Whole Again",
+      "url": "https://open.spotify.com/track/1WGPOivrkVZPQTYS7yagu0"
     },
     {
       "album": {

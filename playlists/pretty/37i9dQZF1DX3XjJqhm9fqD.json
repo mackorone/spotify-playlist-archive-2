@@ -1,12 +1,12 @@
 {
   "description": "Celebrating Haitian music. Cover: Na\u00efka",
-  "num_followers": 102937,
+  "num_followers": 102949,
   "original_name": "Haitian Heat",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAALgywarWoLJD4uBSTQ19evm8UPTM",
+  "snapshot_id": "AAAAAFSB+fJ+hUilhBiWM/ozqFdJnvwY",
   "tracks": [
     {
       "added_at": "2026-02-20 05:00:30",
@@ -535,26 +535,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Ti Sesi Ti Sela",
-        "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
-      },
-      "artists": [
-        {
-          "name": "BMIXX",
-          "url": "https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM"
-        },
-        {
-          "name": "Afriken An",
-          "url": "https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4"
-        }
-      ],
-      "duration_ms": 173113,
-      "name": "Ti Sesi Ti Sela",
-      "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Apre bal la",
         "url": "https://open.spotify.com/album/6tKM3AGZ4C2xTMCrb9bqKd"
       },
@@ -571,6 +551,26 @@
       "duration_ms": 237362,
       "name": "Apre bal la",
       "url": "https://open.spotify.com/track/5g2YrEmC7vv8PFnAeXHRnq"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Ti Sesi Ti Sela",
+        "url": "https://open.spotify.com/album/4a7DeEW9nCWLILamEdTqGz"
+      },
+      "artists": [
+        {
+          "name": "BMIXX",
+          "url": "https://open.spotify.com/artist/1BbNMdaFQJCrLwiAr1tIoM"
+        },
+        {
+          "name": "Afriken An",
+          "url": "https://open.spotify.com/artist/6XqngTGdAlZYgQVcw5Hrr4"
+        }
+      ],
+      "duration_ms": 173113,
+      "name": "Ti Sesi Ti Sela",
+      "url": "https://open.spotify.com/track/06NjTzaYnc94mMl6hMuVAt"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -875,26 +875,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Bwa Kale",
-        "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
-      },
-      "artists": [
-        {
-          "name": "Tony Mix",
-          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
-        },
-        {
-          "name": "T-Babas",
-          "url": "https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb"
-        }
-      ],
-      "duration_ms": 185965,
-      "name": "Bwa Kale",
-      "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "HoneyComb",
         "url": "https://open.spotify.com/album/4qIvyWgbTjjEd32vwBycHM"
       },
@@ -915,6 +895,26 @@
       "duration_ms": 139752,
       "name": "HoneyComb",
       "url": "https://open.spotify.com/track/79cOrbvS7AQTKda6v0MZFP"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Bwa Kale",
+        "url": "https://open.spotify.com/album/6b19TYPqXNs3f4tKCSs6iU"
+      },
+      "artists": [
+        {
+          "name": "Tony Mix",
+          "url": "https://open.spotify.com/artist/3JUJlrHmHxgtat8uJSUXjo"
+        },
+        {
+          "name": "T-Babas",
+          "url": "https://open.spotify.com/artist/4IeZGmKfm9Fqdtv1J2Kjjb"
+        }
+      ],
+      "duration_ms": 185965,
+      "name": "Bwa Kale",
+      "url": "https://open.spotify.com/track/6ITGK0FRfpKpjn3XjdUUs1"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1043,22 +1043,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "The Very Best",
-        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
-      },
-      "artists": [
-        {
-          "name": "Emeline Michel",
-          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
-        }
-      ],
-      "duration_ms": 291120,
-      "name": "A.k.i.ko.",
-      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Cashapp Cashapp Zelle",
         "url": "https://open.spotify.com/album/7dcwRgnRPQQo65y30WEdQo"
       },
@@ -1071,6 +1055,22 @@
       "duration_ms": 61368,
       "name": "Cashapp Cashapp Zelle",
       "url": "https://open.spotify.com/track/6joLh6fVXL9vYwnUZosrnu"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "The Very Best",
+        "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
+      },
+      "artists": [
+        {
+          "name": "Emeline Michel",
+          "url": "https://open.spotify.com/artist/6X9CKvyHWJhuugO6cB1M5r"
+        }
+      ],
+      "duration_ms": 291120,
+      "name": "A.k.i.ko.",
+      "url": "https://open.spotify.com/track/2OoiMQ6sbn2eCBPqt7Jtwu"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1123,6 +1123,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "Lakou",
+        "url": "https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3"
+      },
+      "artists": [
+        {
+          "name": "Tafa Mi-Soleil",
+          "url": "https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt"
+        }
+      ],
+      "duration_ms": 192941,
+      "name": "Lakou",
+      "url": "https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "The Very Best",
         "url": "https://open.spotify.com/album/3Wz1o0EMOKmw2BIwx37Yvb"
       },
@@ -1139,18 +1155,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Lakou",
-        "url": "https://open.spotify.com/album/1w7m6nmtjzjxosVE6Ti4X3"
+        "name": "Ogou (Pran Ka Mwen)",
+        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
       },
       "artists": [
         {
-          "name": "Tafa Mi-Soleil",
-          "url": "https://open.spotify.com/artist/3h3TxwZymEYltwa8mLqyZt"
+          "name": "Lakou Mizik",
+          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
+        },
+        {
+          "name": "Joseph Ray",
+          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
         }
       ],
-      "duration_ms": 192941,
-      "name": "Lakou",
-      "url": "https://open.spotify.com/track/6WISq0K95jxkhHu6oKHbng"
+      "duration_ms": 296666,
+      "name": "Ogou (Pran Ka Mwen)",
+      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1179,26 +1199,6 @@
       "duration_ms": 209777,
       "name": "Manyen'l",
       "url": "https://open.spotify.com/track/2avp7IL8rkllPcyRcnCJPY"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
-        "name": "Ogou (Pran Ka Mwen)",
-        "url": "https://open.spotify.com/album/0pcQNg6r5x7FInniNRjP6y"
-      },
-      "artists": [
-        {
-          "name": "Lakou Mizik",
-          "url": "https://open.spotify.com/artist/2AzO6D2TXB9qEqL6UfUU8r"
-        },
-        {
-          "name": "Joseph Ray",
-          "url": "https://open.spotify.com/artist/4O2IFXgH0FqMSHU4pzpqQX"
-        }
-      ],
-      "duration_ms": 296666,
-      "name": "Ogou (Pran Ka Mwen)",
-      "url": "https://open.spotify.com/track/24w5p9O076nNIdVRkRwhhj"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1559,26 +1559,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "PA KRIYE",
-        "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
-      },
-      "artists": [
-        {
-          "name": "Paul Beaubrun",
-          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
-        },
-        {
-          "name": "Anie Alerte",
-          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
-        }
-      ],
-      "duration_ms": 215172,
-      "name": "PA KRIYE",
-      "url": "https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "HaitiaNola",
         "url": "https://open.spotify.com/album/6qyni7DUo0TiA0a7c25i0z"
       },
@@ -1607,6 +1587,26 @@
       "duration_ms": 182490,
       "name": "Iko Krey\u00f2l",
       "url": "https://open.spotify.com/track/03CJWFdzzudh5nGiMQNmgs"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "PA KRIYE",
+        "url": "https://open.spotify.com/album/1uxHKLlWx6hWZg98egbpUC"
+      },
+      "artists": [
+        {
+          "name": "Paul Beaubrun",
+          "url": "https://open.spotify.com/artist/06xdTtDBuCvqiWx0wvAmwg"
+        },
+        {
+          "name": "Anie Alerte",
+          "url": "https://open.spotify.com/artist/2Qw1eM052uiH5CrtKgfcvf"
+        }
+      ],
+      "duration_ms": 215172,
+      "name": "PA KRIYE",
+      "url": "https://open.spotify.com/track/3IaZadd1lX4iyAcTdPnLDl"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1707,22 +1707,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Worth It",
-        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
-      },
-      "artists": [
-        {
-          "name": "Tadia",
-          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
-        }
-      ],
-      "duration_ms": 158663,
-      "name": "Worth It",
-      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "No Regrets",
         "url": "https://open.spotify.com/album/5cM1tIA8mn3e4EV7FkdBoD"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 173025,
       "name": "No Regrets",
       "url": "https://open.spotify.com/track/1bHB640sZKz0NAhmTVLRB2"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
+        "name": "Worth It",
+        "url": "https://open.spotify.com/album/4vAtGDq9hmY0Bhr3mKpikD"
+      },
+      "artists": [
+        {
+          "name": "Tadia",
+          "url": "https://open.spotify.com/artist/3Zv8NBwNoq4Gatgjvwl8I6"
+        }
+      ],
+      "duration_ms": 158663,
+      "name": "Worth It",
+      "url": "https://open.spotify.com/track/2JuHUDQH485DV7C5gl9TBg"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1775,26 +1775,6 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "Sol\u00e8y Midi",
-        "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
-      },
-      "artists": [
-        {
-          "name": "Talie",
-          "url": "https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6"
-        },
-        {
-          "name": "David Chavannes",
-          "url": "https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc"
-        }
-      ],
-      "duration_ms": 229205,
-      "name": "Sol\u00e8y Midi",
-      "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
-    },
-    {
-      "added_at": "2025-07-25 04:00:50",
-      "album": {
         "name": "Flavors",
         "url": "https://open.spotify.com/album/7gbA1mYGhf6KSQiatLhVxo"
       },
@@ -1815,22 +1795,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "U.F.O.",
-        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
+        "name": "Sol\u00e8y Midi",
+        "url": "https://open.spotify.com/album/5TLXCx8PFQwyaoc8LhnqlF"
       },
       "artists": [
         {
-          "name": "Freedom",
-          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
+          "name": "Talie",
+          "url": "https://open.spotify.com/artist/1005EO3lZm6PtyflJuB5k6"
         },
         {
-          "name": "Steves J. Bryan",
-          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+          "name": "David Chavannes",
+          "url": "https://open.spotify.com/artist/7uvV6jZpaQUFDhQD5aNjHc"
         }
       ],
-      "duration_ms": 210857,
-      "name": "U.F.O.",
-      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
+      "duration_ms": 229205,
+      "name": "Sol\u00e8y Midi",
+      "url": "https://open.spotify.com/track/25Vevbcv3QfVgwbdqiGSMW"
     },
     {
       "added_at": "2025-07-25 04:00:50",
@@ -1859,6 +1839,26 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
+        "name": "U.F.O.",
+        "url": "https://open.spotify.com/album/53soDtHypog8Dy2SByOsBu"
+      },
+      "artists": [
+        {
+          "name": "Freedom",
+          "url": "https://open.spotify.com/artist/7wpsk4526acaJ40FRkn7Nd"
+        },
+        {
+          "name": "Steves J. Bryan",
+          "url": "https://open.spotify.com/artist/0msMKt1MqNAHSRHPDXdZ1E"
+        }
+      ],
+      "duration_ms": 210857,
+      "name": "U.F.O.",
+      "url": "https://open.spotify.com/track/4Uhue4LwvocPIXjknChxBc"
+    },
+    {
+      "added_at": "2025-07-25 04:00:50",
+      "album": {
         "name": "Fete Nap Fete Ti Babas (Live)",
         "url": "https://open.spotify.com/album/4NxnJQPNAXRHl72HFIyNml"
       },
@@ -1875,22 +1875,22 @@
     {
       "added_at": "2025-07-25 04:00:50",
       "album": {
-        "name": "DILEMMA",
-        "url": "https://open.spotify.com/album/7asSYtN8VUWMJiBK6tCw4H"
+        "name": "Stupid Love",
+        "url": "https://open.spotify.com/album/2aoXCzIhcDxTqIOLMsAry0"
       },
       "artists": [
         {
-          "name": "Dave Casseus",
-          "url": "https://open.spotify.com/artist/6M0ExvsS8reHN5VKnqy1Eu"
+          "name": "J. Sevad",
+          "url": "https://open.spotify.com/artist/4mQltLM1nVbyd6pFZQpTh3"
         },
         {
-          "name": "Phanuel",
-          "url": "https://open.spotify.com/artist/25wDxLvG5zX7B00AR6mhA4"
+          "name": "BlecksFlex",
+          "url": "https://open.spotify.com/artist/1SNw0zDkQlw3cqLdRJIzal"
         }
       ],
-      "duration_ms": 148650,
-      "name": "DILEMMA",
-      "url": "https://open.spotify.com/track/66hJl21lRutbfOCcELoS1R"
+      "duration_ms": 164607,
+      "name": "Stupid Love",
+      "url": "https://open.spotify.com/track/117rvx2RMaHQLolRRI5gex"
     }
   ],
   "unique_name": "Haitian Heat",

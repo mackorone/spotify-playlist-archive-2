@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 
 > All the new indie tracks worth knowing about\. Cover: Slow Pulp
 
-[Spotify](https://open.spotify.com/user/spotify) - 77,223 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 77,238 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXuD9SwnM4ac.md) - [plain]
 | 99 | [FU : ILY](https://open.spotify.com/track/6bJYxgGcvR9tqpGQLApNO0) | [the sound chalk makes](https://open.spotify.com/artist/4uiFRdH1ESOicHwBuTbsY5) | [FU : ILY](https://open.spotify.com/album/0s5WRpopYusuMFTmedJMIN) | 2:29 |
 | 100 | [Windows](https://open.spotify.com/track/4VdbjQigFukJA2ccXurthd) | [DMA'S](https://open.spotify.com/artist/1iUTUix5kea176M0uJTsh4) | [Windows](https://open.spotify.com/album/5WXs3gKH5ZjIBAryUs7qMn) | 2:50 |
 
-Snapshot ID: `AAAAABRVwmIx6jwWUJXFojUk+v+a15ck`
+Snapshot ID: `AAAAAAAsTRCRuthotDMZwAkqmkZWTFer`

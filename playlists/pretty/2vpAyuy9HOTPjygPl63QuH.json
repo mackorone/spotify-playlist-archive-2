@@ -1,12 +1,12 @@
 {
   "description": "only the best tech house &amp; house music",
-  "num_followers": 16221,
+  "num_followers": 16220,
   "original_name": "tech house heaters",
   "owner": {
     "name": "tech house heaters",
     "url": "https://open.spotify.com/user/gl9sml84khuto2ag30n4ijsmv"
   },
-  "snapshot_id": "AAAomqBBlLhtjVG2hFyfmt7Pk7xvUE9j",
+  "snapshot_id": "AAAom2VgGZ/PxkBr3m/ZevgbAu67JXmj",
   "tracks": [
     {
       "added_at": "2026-09-13 23:02:45",
@@ -439,6 +439,22 @@
       "duration_ms": 184615,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/1byzNphM9BQUAX0Qzjk14D"
+    },
+    {
+      "added_at": "2026-09-18 06:38:17",
+      "album": {
+        "name": "Back Of The Club",
+        "url": "https://open.spotify.com/album/1nt8qzP1zihkI8IPAFZl3M"
+      },
+      "artists": [
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        }
+      ],
+      "duration_ms": 171350,
+      "name": "Back Of The Club",
+      "url": "https://open.spotify.com/track/2Ie88Tx1XaF90bbBNoBffE"
     }
   ],
   "unique_name": "tech house heaters",

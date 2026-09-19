@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 
 > Unwind and restore with the sounds of the Flute, from Indian maestros & modern geniuses\. Cover : Shriram Sampath
 
-[Spotify](https://open.spotify.com/user/spotify) - 21,805 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 21,811 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,16 +37,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 27 | [Viloma](https://open.spotify.com/track/4az3kWGP1I7Jp8kyrP6H39) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Bamboo Flute Music for Pranayama](https://open.spotify.com/album/3wSY15N8WtCDYuLBCAzsDN) | 4:41 |
 | 28 | [Relaxing Native Flute](https://open.spotify.com/track/47tBhzrgzEpKKHbPBeAYVr) | [Meditation Waves](https://open.spotify.com/artist/68Yiv3GKHZdgjlnjPU2Ccw) | [Healing Native Flute Meditation Songs](https://open.spotify.com/album/1inj4Jlc8iow4WVhR0WeB8) | 4:19 |
 | 29 | [Peaceful Escape \(Raga Bhimpalasi\)](https://open.spotify.com/track/1iOJROLXHdQM4eOyFutqKw) | [G.S\. Sachdev](https://open.spotify.com/artist/6jGk8eDMQBWb1IjNLI51Yz) | [Whisper](https://open.spotify.com/album/5JbHzXUfSQuVXabVdaEuNr) | 5:03 |
-| 30 | [Noble Courtship](https://open.spotify.com/track/1V8W6vKHeGDPRfrZwfqDDA) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Noble Courtship](https://open.spotify.com/album/335EBUdXTN0I03fNwNldDB) | 3:19 |
-| 31 | [The Ice Altar at 432 Hz](https://open.spotify.com/track/1TjqRmnci7VwcdtIKEqouo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Reiki Healing Music \- at 432 Hz](https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT) | 9:21 |
+| 30 | [The Ice Altar at 432 Hz](https://open.spotify.com/track/1TjqRmnci7VwcdtIKEqouo) | [Hariprasad Chaurasia](https://open.spotify.com/artist/7CozfB3IEACZpAelpwkUon) | [Reiki Healing Music \- at 432 Hz](https://open.spotify.com/album/7rLbPLK82F44CHtVwhV5uT) | 9:21 |
+| 31 | [Noble Courtship](https://open.spotify.com/track/1V8W6vKHeGDPRfrZwfqDDA) | [Panini Sanyal](https://open.spotify.com/artist/3c6F8fssjJRlXWzYdFAnE2) | [Noble Courtship](https://open.spotify.com/album/335EBUdXTN0I03fNwNldDB) | 3:19 |
 | 32 | [Har Kisi Ko Nahi Milta](https://open.spotify.com/track/5W6WulSb6HrJgwVmaFDpfj) | [Purbayan Chatterjee](https://open.spotify.com/artist/7cOq32s7XaaDAgYnMp7aPW) | [Har Kisi Ko Nahi Milta \- Sentiments Of Love \(Instrumental\)](https://open.spotify.com/album/22kDYgl6ffaKP1bmiZeUJc) | 3:15 |
 | 33 | [Heaven](https://open.spotify.com/track/2aNISqHFs3s2JXf2b6buIb) | [Talvin Singh](https://open.spotify.com/artist/30Y7JOpiNgAGEhnkYPdI1P), [Rakesh Chaurasia](https://open.spotify.com/artist/10LLaI6A4jACT6M5ddEEFg) | [Vira](https://open.spotify.com/album/25FqK9OvigzpudKNfrRkZO) | 5:28 |
 | 34 | [Krishna Bansuri](https://open.spotify.com/track/4rFZgG0MTumGJBadcF66G6) | [Subham jossi](https://open.spotify.com/artist/2AyLAsSZ03yoOx92gMD30U), [Jeetu Bhowmik](https://open.spotify.com/artist/0cvOk0AMDkgfNwDMjEWiAV) | [Krishna Bansuri](https://open.spotify.com/album/1rA8kzZkghg5OI4AzwCQ4j) | 1:31 |
 | 35 | [Venu](https://open.spotify.com/track/1jTpn2kEJNkajWSx7zng9x) | [H S Venugopal](https://open.spotify.com/artist/5G06dFniw81EaR7vZrs5Cx), [Sandeep Chowta](https://open.spotify.com/artist/4eqUmWQwI1nm86edvyGsXy), [Shashank Jodidar](https://open.spotify.com/artist/26VFhqyzYKDMH5Eqiipo9L) | [Venu](https://open.spotify.com/album/3pfkWvBU3Y1EAUl4WMpu3c) | 3:26 |
 | 36 | [Flute Puriya Dhanashri](https://open.spotify.com/track/25m6wScMul9ga6xH7eo9Md) | [Bapu Padmanabha](https://open.spotify.com/artist/5Sf70jLYRR15STASRqsC3x) | [Relaxing Ragas, Vol\. 5](https://open.spotify.com/album/5lSKOHtzMpxfh1nVr53dGI) | 2:08 |
 | 37 | [Foreign Mists](https://open.spotify.com/track/020AoP6FK7YgDMMj3JFOtJ) | [Aman Nandi](https://open.spotify.com/artist/6xc1xUCBEBFTkpn6czPe10) | [Foreign Mists](https://open.spotify.com/album/6EY0XdNwe6Br36lkhg7lKc) | 4:38 |
-| 38 | [Annapurna \(Hindustani Bansuri\) \[Live\]](https://open.spotify.com/track/2kpkGEpXCwvDXFJBnYHSrm) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Nada Aradhana: An Offering of Sounds, Vol\. 3 \(Live\)](https://open.spotify.com/album/36w1DR4UGdXss7AgJLMeb4) | 10:20 |
-| 39 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 |
+| 38 | [Dance with the Gods](https://open.spotify.com/track/2CbuXkrjjd5SlbleoqUKhB) | [Mystic Flute](https://open.spotify.com/artist/6M39PKc1oDclJBcQVpOgyc) | [Vaayu \- Elemental Indian Bamboo Flute](https://open.spotify.com/album/7cNbb370gpMoNVvgKgTOJ7) | 10:59 |
+| 39 | [Annapurna \(Hindustani Bansuri\) \[Live\]](https://open.spotify.com/track/2kpkGEpXCwvDXFJBnYHSrm) | [Sounds of Isha](https://open.spotify.com/artist/07dLDdQaGtCzRksu1phXbG) | [Nada Aradhana: An Offering of Sounds, Vol\. 3 \(Live\)](https://open.spotify.com/album/36w1DR4UGdXss7AgJLMeb4) | 10:20 |
 | 40 | [Just Such Beauty](https://open.spotify.com/track/11XUNxCy1Ry7lAPMCMHsZW) | [Paul Adams](https://open.spotify.com/artist/5qEDGvC2RIXBDMQ9vRjgp5), [Pravin Godkhindi](https://open.spotify.com/artist/5zsiGj3C1bfEBeWtq0ryPe), [Elizabeth Geyer](https://open.spotify.com/artist/1NfXeYNUy4x1LF6AYfqLRM) | [Imaginings](https://open.spotify.com/album/0bSGln3ne5RW6ri7ScrAYD) | 4:58 |
 | 41 | [Pyar Mein Kabhi Kabhi \- Unwind Instrumental](https://open.spotify.com/track/3MFpFBCBzQMhA9yTdQq8q4) | [Shriram Sampath](https://open.spotify.com/artist/5fwYdPdoS5guRhZ1X0wXQb) | [Soulful Indian Flute Instrumentals](https://open.spotify.com/album/4GfgmRpUSyBlomg4N8oUQy) | 3:37 |
 | 42 | [Taaja Shaanti](https://open.spotify.com/track/1ilZEo94ZDPvU7Yj1tocRO) | [Vinod Kusari](https://open.spotify.com/artist/4xt7e7m4JRwjSZ0CUdjUAZ) | [Taaja Shaanti](https://open.spotify.com/album/5f81aZDQK5PHGOt7Mi4Iwm) | 4:22 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4x2OUqt1eGO.md) - [plain]
 | 74 | [Gokul Streets \- Original Mix](https://open.spotify.com/track/5cP04kLMxkCy9tAJ3q8fzp) | [Rupak Mukherjee](https://open.spotify.com/artist/7wbEfkEn8mdeWJqMdjTP5M) | [Classical Melodies of Flute and Tabla](https://open.spotify.com/album/2O3fQR25SIk7vYla9dlchz) | 1:53 |
 | 75 | [Raag Megh](https://open.spotify.com/track/673opWGY1zqKXIVv1y2aAB) | [Traditional](https://open.spotify.com/artist/1U5zgr455OGyIkLNXvDdrf), [Suchismita](https://open.spotify.com/artist/228XjAjxsgRuOwO0zaZHcT), [Debopriya Chatterjee](https://open.spotify.com/artist/4tR5TyljrXvbbKY14uwB2v) | [Ananta\-The Wonder of the Indian Flute](https://open.spotify.com/album/6QwWZtgUoNYhPpi1sNpspn) | 8:55 |
 
-Snapshot ID: `AAAAABTgueDJ5g54SZXA/aeu8TvgCLfJ`
+Snapshot ID: `AAAAADFmmqQrxWE2kH03Rl0WBubue8ZM`

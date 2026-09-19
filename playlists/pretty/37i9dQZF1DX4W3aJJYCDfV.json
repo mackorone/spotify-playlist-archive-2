@@ -1,12 +1,12 @@
 {
   "description": "Brand new music from beabadoobee, Miley Cyrus, Skepta, Troye Sivan and more! ",
-  "num_followers": 1036759,
+  "num_followers": 1037570,
   "original_name": "New Music Friday UK & Ireland",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANCsyh1Syk+2FkLIfBpYBsmEg0dV",
+  "snapshot_id": "AAAAAOe0PpRNDvGqNxNAoA0rgzltj4vI",
   "tracks": [
     {
       "added_at": "2026-09-17 23:00:46",
@@ -176,9 +176,57 @@
           "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 3",
+      "duration_ms": 218651,
+      "name": "WAITING FOR YOU",
       "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
+    },
+    {
+      "added_at": "2026-09-18 08:55:43",
+      "album": {
+        "name": "If The Sun Burns Out Tonight",
+        "url": "https://open.spotify.com/album/30wcEnAwWs8vMajB23SPx5"
+      },
+      "artists": [
+        {
+          "name": "VALORANT",
+          "url": "https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t"
+        },
+        {
+          "name": "Grabbitz",
+          "url": "https://open.spotify.com/artist/4fv1OFJywZ7DHCz3mVQQ45"
+        },
+        {
+          "name": "Oli Sykes",
+          "url": "https://open.spotify.com/artist/1UXEXWWOTTZNlyFapwHDbW"
+        },
+        {
+          "name": "Courtney LaPlante",
+          "url": "https://open.spotify.com/artist/1g9j6GF1jyjrhixt3Vurzs"
+        }
+      ],
+      "duration_ms": 226403,
+      "name": "If The Sun Burns Out Tonight",
+      "url": "https://open.spotify.com/track/6XZ5emkGiXmX3T77PhIKam"
+    },
+    {
+      "added_at": "2026-09-18 08:33:19",
+      "album": {
+        "name": "COCOON",
+        "url": "https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL"
+      },
+      "artists": [
+        {
+          "name": "Yeat",
+          "url": "https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 188503,
+      "name": "MISS MY DAWG (feat. Drake)",
+      "url": "https://open.spotify.com/track/0r1Az9a4ReL7dpBvtHjq5A"
     },
     {
       "added_at": "2026-09-17 23:00:46",
@@ -293,6 +341,26 @@
       "url": "https://open.spotify.com/track/62hqNk13CuFLOpCw1cPMAF"
     },
     {
+      "added_at": "2026-09-18 08:33:19",
+      "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/6sMIP5Lvb3Is5dwkzOawtm"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 151072,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/4CrnExkcZkg6Aek113hAWl"
+    },
+    {
       "added_at": "2026-09-17 23:00:46",
       "album": {
         "name": "ESTRUS",
@@ -307,6 +375,26 @@
       "duration_ms": 131744,
       "name": "source of life",
       "url": "https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV"
+    },
+    {
+      "added_at": "2026-09-17 23:00:46",
+      "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
     },
     {
       "added_at": "2026-09-17 23:00:46",
@@ -492,8 +580,8 @@
           "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 17",
+      "duration_ms": 258083,
+      "name": "Autobahn",
       "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV"
     },
     {
@@ -765,7 +853,7 @@
         }
       ],
       "duration_ms": 158589,
-      "name": "DIAMONDS",
+      "name": "Diamonds",
       "url": "https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR"
     },
     {
@@ -1324,8 +1412,8 @@
           "url": "https://open.spotify.com/artist/12Yeojvul63OHxXXI6Z5x7"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 283986,
+      "name": "Lighthouse",
       "url": "https://open.spotify.com/track/6senQEPnnwnuKAYKNCVZhw"
     },
     {
@@ -1504,8 +1592,8 @@
           "url": "https://open.spotify.com/artist/5hgZ7PGI0EM2UfiWAIKdFc"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 11",
+      "duration_ms": 218285,
+      "name": "Superstar",
       "url": "https://open.spotify.com/track/2QAZr7zRiKZufk0SWAEYev"
     },
     {
@@ -1518,10 +1606,18 @@
         {
           "name": "Sam Binga",
           "url": "https://open.spotify.com/artist/2oyU4eToyQkxAFjkB3blsi"
+        },
+        {
+          "name": "Machinedrum",
+          "url": "https://open.spotify.com/artist/06xa1OLBsMQJFXcl2tQkH4"
+        },
+        {
+          "name": "Cesco",
+          "url": "https://open.spotify.com/artist/7Gg3X2b5ljrhVGXDAwcrq3"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 2",
+      "duration_ms": 205104,
+      "name": "Run It Up",
       "url": "https://open.spotify.com/track/0FeIdgocbmdrBHse3iWxGx"
     },
     {
@@ -1536,8 +1632,8 @@
           "url": "https://open.spotify.com/artist/45daMU0LyV9jLb0e8gbKvU"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 193635,
+      "name": "HOLE IN MY HEART",
       "url": "https://open.spotify.com/track/2sEQW09iEvYUu8WdnBZzSd"
     },
     {

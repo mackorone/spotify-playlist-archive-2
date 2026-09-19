@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 
 > Miley Cyrus, GIMS, Louane, Djadja & Dinaz, HUGEL x Neton Vega et Maluma x Shakira au top des nouveautés de la semaine !
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,590 likes - 100 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 415,078 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,7 +57,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 47 | [Astronaught](https://open.spotify.com/track/1pnkha1hAbEinnneiO6ICF) | [Matt Sassari](https://open.spotify.com/artist/21dVknSLCsK37cWozWDZZS), [Mont Rouge](https://open.spotify.com/artist/29Spoit35xez115MTLfMB4) | [Astronaught](https://open.spotify.com/album/13mgYrLZkjdswhFO6HAAp0) | 3:01 |
 | 48 | [le président s'en balek](https://open.spotify.com/track/4kC7UHxeSCEtPjY2e0NQ9T) | [Zonmai](https://open.spotify.com/artist/690TcJftS8JgJI5iEsYEcU), [arøne](https://open.spotify.com/artist/4azuvIO6w5uQmthX95jfL8) | [le président s'en balek](https://open.spotify.com/album/0Rde6pK3VtiSoaiaMkPBd8) | 3:04 |
 | 49 | [IMALI](https://open.spotify.com/track/1oicIebTkNeZDtn3ZZ9OyO) | [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [JAZZWRLD](https://open.spotify.com/artist/3idyOn3lhSxgV2qdDQNfhz), [Thukuthela](https://open.spotify.com/artist/4yNx0crmKm3VRGTjWR1L3n) | [IMALI](https://open.spotify.com/album/7M9OXjoJAndqYGSt4ShqwJ) | 4:43 |
-| 50 | [Track 17](https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 0:00 |
+| 50 | [Autobahn](https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV) | [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J) | [Detour \(Rare N' Deluxe\)](https://open.spotify.com/album/5z3r0mH5guiXBrN8z3iEWh) | 4:18 |
 | 51 | [Cool You Down \(feat\. Sia\)](https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV) | [Chaka Khan](https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT), [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN) | [Chakzilla](https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF) | 3:30 |
 | 52 | [Dreadful Time](https://open.spotify.com/track/4tRgZGJ9My1TlV7XLxGIOw) | [Jahneration](https://open.spotify.com/artist/5bOhzprOaEJCn7YKslBolr) | [Dreadful Time](https://open.spotify.com/album/1uzC0D5OjBbqYSddcxtFbe) | 3:15 |
 | 53 | [Miracle](https://open.spotify.com/track/4MqnoDLDaYFZL9JxtCKiJT) | [Tonique & Man](https://open.spotify.com/artist/42vNl6qfOzdJe4oiTPONpq), [Jean Tonique](https://open.spotify.com/artist/6BVLQfvzlvlNZ43WjbFgbI), [Mi Man](https://open.spotify.com/artist/2Jj0VBATkPlLpZ37IxUiA7) | [Miracle](https://open.spotify.com/album/2nBJ4KPNSVr6FYLdExRoAA) | 3:15 |
@@ -81,7 +81,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 71 | [Bad](https://open.spotify.com/track/31F6qHhydlh0c7lHs4DmQe) | [Kima](https://open.spotify.com/artist/0hp836fJ9Dleva1XuehHiS), [X\-Man](https://open.spotify.com/artist/4VYr2jD1AzhmEyT2L8xTg4) | [Bad](https://open.spotify.com/album/2hvDcEaSZpbkQuA4djiLcu) | 2:22 |
 | 72 | [Take Our Time](https://open.spotify.com/track/35ESi5vxKuXZu29EH1mFdI) | [Oden & Fatzo](https://open.spotify.com/artist/2YEnrpAWWaNRFumgde1lLH), [Astels](https://open.spotify.com/artist/4azViUTvRLgNwb3GmtZvii) | [Take Our Time](https://open.spotify.com/album/278jI8aJg1hoU9guHMgFQP) | 2:59 |
 | 73 | [Sortilèges](https://open.spotify.com/track/3x4dGL6rGFbgsSyPUX4jx8) | [Zaoui](https://open.spotify.com/artist/5nrmuhl0AXvSLeoZgB3Tmr) | [Karaté Cœur](https://open.spotify.com/album/3Xb1FVGER8V42o5NuV4Qey) | 2:53 |
-| 74 | [Track 5](https://open.spotify.com/track/4QV90sdysX82x6GyFX2URa) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [POST GLOOM](https://open.spotify.com/album/3C5V7kQaYRWbFanQCEHiTd) | 0:00 |
+| 74 | [Lonely](https://open.spotify.com/track/4QV90sdysX82x6GyFX2URa) | [BLOW](https://open.spotify.com/artist/39HLbTdg48gwqAIa1CA266) | [POST GLOOM](https://open.spotify.com/album/3C5V7kQaYRWbFanQCEHiTd) | 4:55 |
 | 75 | [Don Junio](https://open.spotify.com/track/7mR7mFAXJRQeR1M1pWVgsy) | [D Juno](https://open.spotify.com/artist/47NPZW7ZtxGEY1P8Pa4AzY) | [Don Junio](https://open.spotify.com/album/1WogymgPlxAnUleQFmEJyV) | 3:06 |
 | 76 | [Someday](https://open.spotify.com/track/5L8rxFzRbcFshJ0e8pmAIB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Someday](https://open.spotify.com/album/6eVxuJTo3x3Fa9BmsPMMEt) | 3:02 |
 | 77 | [time & space](https://open.spotify.com/track/2Rhv1aM1kUHvkFLHeCHwXL) | [Mathieu Koss](https://open.spotify.com/artist/4W6fwRbqEy1dfEoE6OCyZu) | [Mathieu Koss \- time & space](https://open.spotify.com/album/2WddcesY043vpIH2copCvC) | 2:59 |
@@ -102,11 +102,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX742okrrpwah.md) - [plain]
 | 92 | [Cardiaque](https://open.spotify.com/track/4saPGHe9NZJkZLbcVT2rLI) | [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [Cardiaque](https://open.spotify.com/album/0o20BCyoXKGLKlR0LvO83U) | 3:08 |
 | 93 | [Googoo Gaga](https://open.spotify.com/track/39ZeNweIWO4XcNPY0nmImS) | [Charlotte Adigéry](https://open.spotify.com/artist/0h1gX589xBKUCijeC8Bewy), [Bolis Pupul](https://open.spotify.com/artist/0dSnTqwXok006MwsjjlzUl), [Charlotte Adigéry & Bolis Pupul](https://open.spotify.com/artist/47eFeXYThmTYYbOSuQIS2x) | [Googoo Gaga](https://open.spotify.com/album/4I5vkWWnFX4Z3KmBX1MQS4) | 5:05 |
 | 94 | [Le monde ne tourne pas rond](https://open.spotify.com/track/5EuVCfMYvZR15XHPq1LtTt) | [Dinaa](https://open.spotify.com/artist/0shR2PS00avJ6Wp3npUBwS) | [Le monde ne tourne pas rond](https://open.spotify.com/album/6zDWvufmQNmctqjqLCrSTO) | 3:31 |
-| 95 | [DIAMONDS](https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:38 |
+| 95 | [Diamonds](https://open.spotify.com/track/45xtVdVTQtIISLQgHiP8CR) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [SWAGUU](https://open.spotify.com/album/5TWK8IJLfQ7cxGm5g6WYtr) | 2:38 |
 | 96 | [Bleu](https://open.spotify.com/track/3p3p280VblPo3mSWzBIKul) | [Lescop](https://open.spotify.com/artist/2KlDlqEMf0YyYW8rBKUx6W), [Flora Fishbach](https://open.spotify.com/artist/6smOYrOT8fGSn5lDC86Jjb) | [Bleu](https://open.spotify.com/album/4PTAa2VBkoNDtgmrC38jPS) | 2:44 |
 | 97 | [Plein Soleil](https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Plein Soleil](https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h) | 3:25 |
 | 98 | [Loin le mal](https://open.spotify.com/track/7KHhSplvmiC6OJvYfjekgc) | [Pauline Croze](https://open.spotify.com/artist/0jaaOnUYwYBQeUTH0sZVe1) | [Loin le mal](https://open.spotify.com/album/1EeZjeSoendlQu0DaiTKUB) | 3:19 |
 | 99 | [Learning By The Morning](https://open.spotify.com/track/1k2XPQ8AZcQtLsT4wiiIlf) | [India Shan](https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8) | [Learning By The Morning](https://open.spotify.com/album/4pxgX6fkvQcNT03ZMsGSc6) | 2:42 |
 | 100 | [too late](https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu) | [Juney Boy](https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq) | [too late](https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ) | 3:10 |
 
-Snapshot ID: `AAAAANdsHODNDH0ZKUCf+w8b5AS6LqjO`
+Snapshot ID: `AAAAAHZEeijBR3F0+yQTVAElgt9qdCg9`

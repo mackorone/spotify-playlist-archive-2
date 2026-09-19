@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 
 > Racikan akustik dalam secangkir kopi.
 
-[Spotify](https://open.spotify.com/user/spotify) - 556,495 likes - 75 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 556,477 likes - 75 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTDjtvOmdzrF.md) - [plain]
 | 74 | [Manot](https://open.spotify.com/track/15HmzLQkPN4S6j1lvXYUJp) | [Gildcoustic](https://open.spotify.com/artist/2SivWeAIGXKPlaW2YdxKZU) | [Manot](https://open.spotify.com/album/2O5X9w2clxTTzqWbHDM28E) | 5:48 |
 | 75 | [Ilmu Padi \- Acoustic Version](https://open.spotify.com/track/6zlS5eEAMAw8URlrIRugHQ) | [Didik Budi](https://open.spotify.com/artist/4sy1TsEotKwjBHrQGPIwzZ), [Sadewok](https://open.spotify.com/artist/2Y62Y7xOCtcI57gEbnD7DR) | [Ilmu Padi \(Acoustic Version\)](https://open.spotify.com/album/6x9v5H5basSUZJZsOL2gFe) | 4:37 |
 
-Snapshot ID: `AAAAAJL2rftaNYFo5LrDl+PxtB4opOTx`
+Snapshot ID: `AAAAALmH3bYa77kf36hRQ5n2vcuMjKgQ`

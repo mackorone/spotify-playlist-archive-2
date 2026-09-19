@@ -1,12 +1,12 @@
 {
   "description": "Blissful indie for dreamers.",
-  "num_followers": 322252,
+  "num_followers": 322251,
   "original_name": "Dreampop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAMdTp9u8Nq5Ecuj6o5EGeuu/+uBc",
+  "snapshot_id": "AAAAACcE8oWG7k4ctP+aax3Y9O8rF624",
   "tracks": [
     {
       "added_at": "2025-05-01 21:52:32",
@@ -339,22 +339,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Coping Habits",
-        "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
-      },
-      "artists": [
-        {
-          "name": "Beach Vacation",
-          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
-        }
-      ],
-      "duration_ms": 159863,
-      "name": "Up Late",
-      "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "DJ-Kicks: Logic1000",
         "url": "https://open.spotify.com/album/6TTv31Q89IYhRzxTVrENNx"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 169997,
       "name": "Lurk - Mixed",
       "url": "https://open.spotify.com/track/064kl8lbsGVBN07jKkl014"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Coping Habits",
+        "url": "https://open.spotify.com/album/2dha3JRdwEHp4eaVPoUHxp"
+      },
+      "artists": [
+        {
+          "name": "Beach Vacation",
+          "url": "https://open.spotify.com/artist/5r5uCVk3IIzm2jdfGDpl8C"
+        }
+      ],
+      "duration_ms": 159863,
+      "name": "Up Late",
+      "url": "https://open.spotify.com/track/1orDT3tSQjSx6W7UqMLliR"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -739,22 +739,6 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
-        "name": "Falling Apart Without You",
-        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
-      },
-      "artists": [
-        {
-          "name": "quickly, quickly",
-          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
-        }
-      ],
-      "duration_ms": 203625,
-      "name": "Falling Apart Without You",
-      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
         "name": "baby's out of luck again",
         "url": "https://open.spotify.com/album/2iIFClmEgZcnxsq7F95NUs"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 149443,
       "name": "baby\u2019s out of luck again",
       "url": "https://open.spotify.com/track/2vvwLTYoHLSVqNslT91zgU"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
+        "name": "Falling Apart Without You",
+        "url": "https://open.spotify.com/album/2ab1JYYysapgQgPeBPHoJr"
+      },
+      "artists": [
+        {
+          "name": "quickly, quickly",
+          "url": "https://open.spotify.com/artist/5XTn5Az9AcSKu0oaauC5ES"
+        }
+      ],
+      "duration_ms": 203625,
+      "name": "Falling Apart Without You",
+      "url": "https://open.spotify.com/track/10ANYWmxWwURWwjPqCUGo8"
     },
     {
       "added_at": "2025-05-01 21:52:32",
@@ -935,6 +935,22 @@
     {
       "added_at": "2025-05-01 21:52:32",
       "album": {
+        "name": "baby\u2019s out of luck again",
+        "url": "https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX"
+      },
+      "artists": [
+        {
+          "name": "april june",
+          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
+        }
+      ],
+      "duration_ms": 185365,
+      "name": "carry you on my broken wings",
+      "url": "https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0"
+    },
+    {
+      "added_at": "2025-05-01 21:52:32",
+      "album": {
         "name": "Memoria",
         "url": "https://open.spotify.com/album/7w5COkBSsfMksBbXnDVog2"
       },
@@ -967,22 +983,6 @@
       "duration_ms": 215000,
       "name": "Contently Miserable",
       "url": "https://open.spotify.com/track/4UqLN94XkgbFuOaYchpBTW"
-    },
-    {
-      "added_at": "2025-05-01 21:52:32",
-      "album": {
-        "name": "baby\u2019s out of luck again",
-        "url": "https://open.spotify.com/album/6rtwbvMGAcxOZqQQkOmhxX"
-      },
-      "artists": [
-        {
-          "name": "april june",
-          "url": "https://open.spotify.com/artist/4WreACyfQITcXGx86xxYkG"
-        }
-      ],
-      "duration_ms": 185365,
-      "name": "carry you on my broken wings",
-      "url": "https://open.spotify.com/track/2fik8AgFo86vliFEKcB0a0"
     },
     {
       "added_at": "2025-05-01 21:52:32",

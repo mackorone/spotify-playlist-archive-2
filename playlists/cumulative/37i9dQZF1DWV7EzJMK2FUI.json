@@ -7610,7 +7610,7 @@
       ],
       "date_added": "2025-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 184316,
       "name": "Emeralds",
       "url": "https://open.spotify.com/track/2Oottz1nS02NqaTNmfg3jl"
@@ -10268,7 +10268,7 @@
       ],
       "date_added": "2026-07-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 220615,
       "name": "Halfway To Light",
       "url": "https://open.spotify.com/track/6BngJIrjrdnk6EEc0lPkBn"
@@ -23439,6 +23439,24 @@
     },
     {
       "album": {
+        "name": "Since That Moment",
+        "url": "https://open.spotify.com/album/3fF4dPyPTq3jBOiPbLz3pG"
+      },
+      "artists": [
+        {
+          "name": "Buddy Kearnan Quartet",
+          "url": "https://open.spotify.com/artist/57hqtVa5J3AcFvY29aFAQG"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179094,
+      "name": "Since That Moment",
+      "url": "https://open.spotify.com/track/6xCfLqFgLYkdeLfQeKu0tr"
+    },
+    {
+      "album": {
         "name": "Since You Left Me",
         "url": "https://open.spotify.com/album/02KZPHcpyozGVMKjVV2Wso"
       },
@@ -25038,6 +25056,24 @@
       "duration_ms": 194704,
       "name": "State Of Reverie",
       "url": "https://open.spotify.com/track/12oPfo4JKn8WdVNEe4Xp1i"
+    },
+    {
+      "album": {
+        "name": "Stay a little longer",
+        "url": "https://open.spotify.com/album/2BOjiIkqNaeTyRuIQS5o3M"
+      },
+      "artists": [
+        {
+          "name": "Kingsley Thomas",
+          "url": "https://open.spotify.com/artist/754IxKxKlDAQO5YATUAd6t"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202846,
+      "name": "Stay a little longer",
+      "url": "https://open.spotify.com/track/0emDa50ODJgLqy4l0h6hc4"
     },
     {
       "album": {

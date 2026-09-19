@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-10-28",
-  "description": "Proudly Kenyan gems made for the entire family. Cover: Onyach Pala",
+  "description": "Proudly Kenyan gems made for the entire family. Cover: Ila Nia & We Are Nubia",
   "name": "Made In Kenya",
   "tracks": [
     {
@@ -658,7 +658,7 @@
       ],
       "date_added": "2026-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 155579,
       "name": "Bei Ya Leo",
       "url": "https://open.spotify.com/track/7b5fEvPKD9hilBSBHQXPYR"
@@ -1754,7 +1754,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 181224,
       "name": "For Tonight",
       "url": "https://open.spotify.com/track/2S2mm8y3cCTNvnGSkTmNul"
@@ -2013,6 +2013,24 @@
     },
     {
       "album": {
+        "name": "Go Baby Go",
+        "url": "https://open.spotify.com/album/6JINw1UknmyzN37eQG1DTB"
+      },
+      "artists": [
+        {
+          "name": "Miss Kamweru",
+          "url": "https://open.spotify.com/artist/7bhv4dzPZ4ukV1fCBJNeUQ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 221938,
+      "name": "Go Baby Go",
+      "url": "https://open.spotify.com/track/10uxewpjOIT7dXeIDmKozZ"
+    },
+    {
+      "album": {
         "name": "Golden Sun",
         "url": "https://open.spotify.com/album/4hAWv2LULhjHdP0BLSNeNO"
       },
@@ -2210,6 +2228,28 @@
       "duration_ms": 271063,
       "name": "Hao ama Mimi",
       "url": "https://open.spotify.com/track/14UK5uc3IxzywFIM5KssBB"
+    },
+    {
+      "album": {
+        "name": "Healer",
+        "url": "https://open.spotify.com/album/5jXUCN23b2kr4SAl7vTegF"
+      },
+      "artists": [
+        {
+          "name": "Ila Nia",
+          "url": "https://open.spotify.com/artist/2BlTufGgupqEM4ITQAJhAp"
+        },
+        {
+          "name": "We are Nubia",
+          "url": "https://open.spotify.com/artist/1zmGZWvguA8ei851WP7hSN"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235200,
+      "name": "Healer",
+      "url": "https://open.spotify.com/track/2wRrrlLs4fncP1TzVjt2Gt"
     },
     {
       "album": {
@@ -3636,7 +3676,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 187344,
       "name": "Mon Bebe",
       "url": "https://open.spotify.com/track/1vmlAOkpXxfclPeg0pdgdn"
@@ -5894,6 +5934,24 @@
       "duration_ms": 190312,
       "name": "Sway",
       "url": "https://open.spotify.com/track/4FhJEUaMwfzY010aLZAnIn"
+    },
+    {
+      "album": {
+        "name": "Idk Her Yet",
+        "url": "https://open.spotify.com/album/2NmYPGkvmNDtRY4ScBlIgD"
+      },
+      "artists": [
+        {
+          "name": "Brandy Maina",
+          "url": "https://open.spotify.com/artist/7miUm4PxOWQDIPIcqKDfT4"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170869,
+      "name": "Switch Up",
+      "url": "https://open.spotify.com/track/6IdkjGcdvEse4UOVBQq73m"
     },
     {
       "album": {

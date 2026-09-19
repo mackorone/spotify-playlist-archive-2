@@ -1,12 +1,12 @@
 {
-  "description": "Brand new music from Troye Sivan, Miley Cyrus, Dominic Fike, Emma Ogier, beabadoobee, Travis Scott + more ",
-  "num_followers": 459402,
+  "description": "Brand new music from Troye Sivan, Miley Cyrus, Dominic Fike, Emma Ogier, beabadoobee, Travis Scott + more",
+  "num_followers": 459664,
   "original_name": "New Music Friday AU & NZ",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOKaeUIc0MazSMwsx3N7I/tCnZxu",
+  "snapshot_id": "AAAAAAT57bcXVd76qEQ2VT/zj7Oi0dZY",
   "tracks": [
     {
       "added_at": "2026-09-17 23:01:02",
@@ -171,6 +171,26 @@
       "duration_ms": 146746,
       "name": "Gettin\u2019 Down",
       "url": "https://open.spotify.com/track/04BBZ3w0c3DnmX5pnFppOe"
+    },
+    {
+      "added_at": "2026-09-18 04:01:07",
+      "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
     },
     {
       "added_at": "2026-09-17 14:00:40",
@@ -560,8 +580,8 @@
           "url": "https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 17",
+      "duration_ms": 258083,
+      "name": "Autobahn",
       "url": "https://open.spotify.com/track/5qpqDZNQIvu6W2uOhIwmPV"
     },
     {
@@ -676,25 +696,9 @@
           "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 321777,
+      "name": "Hypoxia",
       "url": "https://open.spotify.com/track/2pmmcSLH66QJ20E6Fn6E7r"
-    },
-    {
-      "added_at": "2026-09-17 23:01:02",
-      "album": {
-        "name": "Anything",
-        "url": "https://open.spotify.com/album/1sRbYl9xd7f3aaQe8PoTKd"
-      },
-      "artists": [
-        {
-          "name": "Midnight Til Morning",
-          "url": "https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd"
-        }
-      ],
-      "duration_ms": 192606,
-      "name": "Anything",
-      "url": "https://open.spotify.com/track/2c4cvczE7sJHcVLmEfVhyo"
     },
     {
       "added_at": "2026-09-17 14:00:40",
@@ -1009,6 +1013,22 @@
       "url": "https://open.spotify.com/track/1tKDCRCf59eXJhcP3gkIGj"
     },
     {
+      "added_at": "2026-09-18 04:01:07",
+      "album": {
+        "name": "No Rest for The Wicked",
+        "url": "https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL"
+      },
+      "artists": [
+        {
+          "name": "AZ Chike",
+          "url": "https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw"
+        }
+      ],
+      "duration_ms": 143450,
+      "name": "Negative",
+      "url": "https://open.spotify.com/track/0RDb7mW6zljLNIzWwPbso9"
+    },
+    {
       "added_at": "2026-09-17 14:00:40",
       "album": {
         "name": "Ride Lonesome",
@@ -1296,8 +1316,8 @@
           "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 8",
+      "duration_ms": 246957,
+      "name": "Place of Two",
       "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
     },
     {
@@ -1580,8 +1600,8 @@
           "url": "https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU"
         }
       ],
-      "duration_ms": 0,
-      "name": "Track 5",
+      "duration_ms": 213450,
+      "name": "seven days a week",
       "url": "https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU"
     },
     {

@@ -1,12 +1,12 @@
 {
   "description": "\u05ea\u05d7\u05e0\u05ea \u05d4\u05e8\u05d3\u05d9\u05d5 \u05d4\u05e4\u05e8\u05d8\u05d9\u05ea \u05e9\u05dc\u05da. \u05e9\u05d9\u05e8\u05d9\u05dd \u05d9\u05e4\u05d9\u05dd \u05de\u05d9\u05e9\u05e8\u05d0\u05dc \u05d5\u05d4\u05e2\u05d5\u05dc\u05dd. \u05e7\u05d0\u05d1\u05e8: \u05e4\u05d5\u05dc \u05d8\u05e8\u05d0\u05e0\u05e7",
-  "num_followers": 25733,
+  "num_followers": 25732,
   "original_name": "\u05e8\u05d3\u05d9\u05d5 \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJooA+Kluu7R5w8394bTbepJLAx+",
+  "snapshot_id": "AAAAAHQTDlzQgi683l6rVWF8VrCgZr3S",
   "tracks": [
     {
       "added_at": "2026-09-03 16:15:07",
@@ -1159,22 +1159,6 @@
     {
       "added_at": "2026-09-03 16:15:07",
       "album": {
-        "name": "\u05d0\u05d7\u05ea \u05de\u05de\u05d9\u05dc\u05d9\u05d5\u05df",
-        "url": "https://open.spotify.com/album/2LFWvIFP6k3YWjhgkiaVgo"
-      },
-      "artists": [
-        {
-          "name": "\u05e8\u05d5\u05df \u05d7\u05d9\u05d5\u05df",
-          "url": "https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H"
-        }
-      ],
-      "duration_ms": 201142,
-      "name": "\u05d0\u05d7\u05ea \u05de\u05de\u05d9\u05dc\u05d9\u05d5\u05df",
-      "url": "https://open.spotify.com/track/7kFo0ivGlvuzIWmODfmrjF"
-    },
-    {
-      "added_at": "2026-09-03 16:15:07",
-      "album": {
         "name": "\u05d0\u05e6\u05dc\u05e0\u05d5 \u05d6\u05d4 \u05db\u05db\u05d4",
         "url": "https://open.spotify.com/album/3VtgH4Wr3CDgIl4zKdF4ew"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 213707,
       "name": "\u05d0\u05e6\u05dc\u05e0\u05d5 \u05d6\u05d4 \u05db\u05db\u05d4",
       "url": "https://open.spotify.com/track/3q7lIfOj1j5HyVFlVr0vFj"
+    },
+    {
+      "added_at": "2026-09-03 16:15:07",
+      "album": {
+        "name": "\u05d0\u05d7\u05ea \u05de\u05de\u05d9\u05dc\u05d9\u05d5\u05df",
+        "url": "https://open.spotify.com/album/2LFWvIFP6k3YWjhgkiaVgo"
+      },
+      "artists": [
+        {
+          "name": "\u05e8\u05d5\u05df \u05d7\u05d9\u05d5\u05df",
+          "url": "https://open.spotify.com/artist/6ca0SCH3NvU9lEQKW7RM1H"
+        }
+      ],
+      "duration_ms": 201142,
+      "name": "\u05d0\u05d7\u05ea \u05de\u05de\u05d9\u05dc\u05d9\u05d5\u05df",
+      "url": "https://open.spotify.com/track/7kFo0ivGlvuzIWmODfmrjF"
     },
     {
       "added_at": "2026-09-03 16:15:07",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-09-03 16:15:07",
       "album": {
+        "name": "\u05e1\u05d5\u05d3 \u05d4\u05e0\u05e2\u05d5\u05e8\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/5a7PsyCayvzgpsgfS614Ay"
+      },
+      "artists": [
+        {
+          "name": "young buta",
+          "url": "https://open.spotify.com/artist/7eDcihyzgwCbWXFRJFc0MB"
+        }
+      ],
+      "duration_ms": 183529,
+      "name": "\u05e1\u05d5\u05d3 \u05d4\u05e0\u05e2\u05d5\u05e8\u05d9\u05dd",
+      "url": "https://open.spotify.com/track/3IGeTg6zodZUVUNHp7bfmk"
+    },
+    {
+      "added_at": "2026-09-03 16:15:07",
+      "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/1s99Lonpnx1JtrAfCZEc9p"
       },
@@ -1431,22 +1447,6 @@
       "duration_ms": 207804,
       "name": "SAD GENERATION, HAPPY PICTURES (feat. Flyana Boss)",
       "url": "https://open.spotify.com/track/68XUfHBL2g8FTcXiCS76Gn"
-    },
-    {
-      "added_at": "2026-09-03 16:15:07",
-      "album": {
-        "name": "\u05e1\u05d5\u05d3 \u05d4\u05e0\u05e2\u05d5\u05e8\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/5a7PsyCayvzgpsgfS614Ay"
-      },
-      "artists": [
-        {
-          "name": "young buta",
-          "url": "https://open.spotify.com/artist/7eDcihyzgwCbWXFRJFc0MB"
-        }
-      ],
-      "duration_ms": 183529,
-      "name": "\u05e1\u05d5\u05d3 \u05d4\u05e0\u05e2\u05d5\u05e8\u05d9\u05dd",
-      "url": "https://open.spotify.com/track/3IGeTg6zodZUVUNHp7bfmk"
     },
     {
       "added_at": "2026-09-03 16:15:07",

@@ -1,12 +1,12 @@
 {
   "description": "The sound of the underground. Cover: Architects",
-  "num_followers": 488400,
+  "num_followers": 488349,
   "original_name": "The Pit",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAA3VmIC7GoKZ6+a7HM63cQHlClL7",
+  "snapshot_id": "AAAAACeWJhyaGEo/JvWvMluD5/VpBKaQ",
   "tracks": [
     {
       "added_at": "2026-09-18 00:00:11",
@@ -427,8 +427,8 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
-        "name": "Sweet Dreams",
-        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
+        "name": "Landfall",
+        "url": "https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE"
       },
       "artists": [
         {
@@ -436,9 +436,9 @@
           "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
         }
       ],
-      "duration_ms": 187460,
-      "name": "Sweet Dreams",
-      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
+      "duration_ms": 222418,
+      "name": "Landfall",
+      "url": "https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd"
     },
     {
       "added_at": "2026-09-18 00:00:11",
@@ -507,8 +507,8 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
-        "name": "Landfall",
-        "url": "https://open.spotify.com/album/4m7ho0oxRsgEnqMFPBIHdE"
+        "name": "Sweet Dreams",
+        "url": "https://open.spotify.com/album/34OnONyHRuXR8rZOd9wg4D"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6"
         }
       ],
-      "duration_ms": 222418,
-      "name": "Landfall",
-      "url": "https://open.spotify.com/track/4mMItGEzQyEX7kZ6q2uUYd"
+      "duration_ms": 187460,
+      "name": "Sweet Dreams",
+      "url": "https://open.spotify.com/track/4QNZw2JBmrL4FSVIqvgNpd"
     },
     {
       "added_at": "2026-09-18 00:00:11",
@@ -735,6 +735,22 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
+        "name": "From A Distance",
+        "url": "https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG"
+      },
+      "artists": [
+        {
+          "name": "156/Silence",
+          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+        }
+      ],
+      "duration_ms": 203314,
+      "name": "Swept From Under (Call of the Void)",
+      "url": "https://open.spotify.com/track/6qOSf7vfYCwcQfeqI5QPgX"
+    },
+    {
+      "added_at": "2026-09-18 00:00:11",
+      "album": {
         "name": "Live by the Sword",
         "url": "https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2"
       },
@@ -763,22 +779,6 @@
       "duration_ms": 178500,
       "name": "Where the Quiet Devours Me Whole",
       "url": "https://open.spotify.com/track/0WvR4onzFu05Lr1XLWxkON"
-    },
-    {
-      "added_at": "2026-09-18 00:00:11",
-      "album": {
-        "name": "Far",
-        "url": "https://open.spotify.com/album/0ER0N9enALbr72SfW154lP"
-      },
-      "artists": [
-        {
-          "name": "SAVE US",
-          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
-        }
-      ],
-      "duration_ms": 208615,
-      "name": "Far",
-      "url": "https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs"
     },
     {
       "added_at": "2026-09-18 00:00:11",
@@ -815,18 +815,18 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
-        "name": "From A Distance",
-        "url": "https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG"
+        "name": "Far",
+        "url": "https://open.spotify.com/album/0ER0N9enALbr72SfW154lP"
       },
       "artists": [
         {
-          "name": "156/Silence",
-          "url": "https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9"
+          "name": "SAVE US",
+          "url": "https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1"
         }
       ],
-      "duration_ms": 203314,
-      "name": "Swept From Under (Call of the Void)",
-      "url": "https://open.spotify.com/track/6qOSf7vfYCwcQfeqI5QPgX"
+      "duration_ms": 208615,
+      "name": "Far",
+      "url": "https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs"
     },
     {
       "added_at": "2026-09-18 00:00:11",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
-        "name": "Free",
-        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 188062,
-      "name": "Free",
-      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
-    },
-    {
-      "added_at": "2026-09-18 00:00:11",
-      "album": {
         "name": "Song Of The Swamp",
         "url": "https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 198118,
       "name": "Song Of The Swamp",
       "url": "https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4"
+    },
+    {
+      "added_at": "2026-09-18 00:00:11",
+      "album": {
+        "name": "Free",
+        "url": "https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 188062,
+      "name": "Free",
+      "url": "https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj"
     },
     {
       "added_at": "2026-09-18 00:00:11",
@@ -927,22 +927,6 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
-        "name": "Pure Ecstasy",
-        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
-      },
-      "artists": [
-        {
-          "name": "Beartooth",
-          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
-        }
-      ],
-      "duration_ms": 185425,
-      "name": "Pure Ecstasy",
-      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
-    },
-    {
-      "added_at": "2026-09-18 00:00:11",
-      "album": {
         "name": "Lay Cold",
         "url": "https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx"
       },
@@ -955,6 +939,22 @@
       "duration_ms": 220705,
       "name": "Lay Cold",
       "url": "https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O"
+    },
+    {
+      "added_at": "2026-09-18 00:00:11",
+      "album": {
+        "name": "Pure Ecstasy",
+        "url": "https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3"
+      },
+      "artists": [
+        {
+          "name": "Beartooth",
+          "url": "https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL"
+        }
+      ],
+      "duration_ms": 185425,
+      "name": "Pure Ecstasy",
+      "url": "https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP"
     },
     {
       "added_at": "2026-09-18 00:00:11",
@@ -1007,22 +1007,6 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
-        "name": "Yearning: The unbeautiful after",
-        "url": "https://open.spotify.com/album/2sgTIoC2YpHbhTYIhyYKB3"
-      },
-      "artists": [
-        {
-          "name": "Boundaries",
-          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
-        }
-      ],
-      "duration_ms": 229106,
-      "name": "Yearning: The unbeautiful after",
-      "url": "https://open.spotify.com/track/5Z34ZOQA4SDscsUJq9whTj"
-    },
-    {
-      "added_at": "2026-09-18 00:00:11",
-      "album": {
         "name": "NOISE",
         "url": "https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj"
       },
@@ -1035,6 +1019,22 @@
       "duration_ms": 162760,
       "name": "NOISE",
       "url": "https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC"
+    },
+    {
+      "added_at": "2026-09-18 00:00:11",
+      "album": {
+        "name": "Yearning: The unbeautiful after",
+        "url": "https://open.spotify.com/album/2sgTIoC2YpHbhTYIhyYKB3"
+      },
+      "artists": [
+        {
+          "name": "Boundaries",
+          "url": "https://open.spotify.com/artist/7a29ko2je7GUMrbmwn4t3I"
+        }
+      ],
+      "duration_ms": 229106,
+      "name": "Yearning: The unbeautiful after",
+      "url": "https://open.spotify.com/track/5Z34ZOQA4SDscsUJq9whTj"
     },
     {
       "added_at": "2026-09-18 00:00:11",
@@ -1119,22 +1119,6 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
-        "name": "Death Threat",
-        "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
-      },
-      "artists": [
-        {
-          "name": "Miss May I",
-          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
-        }
-      ],
-      "duration_ms": 182293,
-      "name": "Death Threat",
-      "url": "https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC"
-    },
-    {
-      "added_at": "2026-09-18 00:00:11",
-      "album": {
         "name": "Growing Different Limbs",
         "url": "https://open.spotify.com/album/7i41p72B1O46TVAit3eZB0"
       },
@@ -1155,6 +1139,22 @@
       "duration_ms": 200287,
       "name": "Growing Different Limbs",
       "url": "https://open.spotify.com/track/2Kh9Wt5b0rMjTfX0JSARGA"
+    },
+    {
+      "added_at": "2026-09-18 00:00:11",
+      "album": {
+        "name": "Death Threat",
+        "url": "https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ"
+      },
+      "artists": [
+        {
+          "name": "Miss May I",
+          "url": "https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237"
+        }
+      ],
+      "duration_ms": 182293,
+      "name": "Death Threat",
+      "url": "https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC"
     },
     {
       "added_at": "2026-09-18 00:00:11",
@@ -1207,6 +1207,22 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
+        "name": "Pins",
+        "url": "https://open.spotify.com/album/6NIiDsz5t6nWiBTL8Z0KEu"
+      },
+      "artists": [
+        {
+          "name": "Gurriers",
+          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+        }
+      ],
+      "duration_ms": 241254,
+      "name": "Pins",
+      "url": "https://open.spotify.com/track/5NAA0Wl9d91UtSSuhdF6dK"
+    },
+    {
+      "added_at": "2026-09-18 00:00:11",
+      "album": {
         "name": "Sanctuary",
         "url": "https://open.spotify.com/album/472qdwRDfEiZY3qSNZYqXQ"
       },
@@ -1243,22 +1259,6 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
-        "name": "EX-HUMANITY",
-        "url": "https://open.spotify.com/album/0rSHodibKZyxaUEiFxJ8YC"
-      },
-      "artists": [
-        {
-          "name": "coldrain",
-          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "EX-HUMANITY",
-      "url": "https://open.spotify.com/track/6kvmx5uFkWDuEf8cAYJkcJ"
-    },
-    {
-      "added_at": "2026-09-18 00:00:11",
-      "album": {
         "name": "Chosen Hell",
         "url": "https://open.spotify.com/album/5Rf79vAFPsJgSqmZnxWHV7"
       },
@@ -1275,34 +1275,18 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
-        "name": "Pins",
-        "url": "https://open.spotify.com/album/6NIiDsz5t6nWiBTL8Z0KEu"
+        "name": "EX-HUMANITY",
+        "url": "https://open.spotify.com/album/0rSHodibKZyxaUEiFxJ8YC"
       },
       "artists": [
         {
-          "name": "Gurriers",
-          "url": "https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5"
+          "name": "coldrain",
+          "url": "https://open.spotify.com/artist/4pCVGaLWxDe4d8bsjsnmUM"
         }
       ],
-      "duration_ms": 241254,
-      "name": "Pins",
-      "url": "https://open.spotify.com/track/5NAA0Wl9d91UtSSuhdF6dK"
-    },
-    {
-      "added_at": "2026-09-18 00:00:11",
-      "album": {
-        "name": "SWALLOW",
-        "url": "https://open.spotify.com/album/5EpAybJJ0kQgwGbqPGv38p"
-      },
-      "artists": [
-        {
-          "name": "R\u00d8RY",
-          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
-        }
-      ],
-      "duration_ms": 209422,
-      "name": "SWALLOW",
-      "url": "https://open.spotify.com/track/7zbGyhYLWxgpiWyGqdNWUI"
+      "duration_ms": 192000,
+      "name": "EX-HUMANITY",
+      "url": "https://open.spotify.com/track/6kvmx5uFkWDuEf8cAYJkcJ"
     },
     {
       "added_at": "2026-09-18 00:00:11",
@@ -1319,6 +1303,22 @@
       "duration_ms": 173437,
       "name": "Bruised",
       "url": "https://open.spotify.com/track/1EvYAo0qfXX8ug2tnzsRmO"
+    },
+    {
+      "added_at": "2026-09-18 00:00:11",
+      "album": {
+        "name": "SWALLOW",
+        "url": "https://open.spotify.com/album/5EpAybJJ0kQgwGbqPGv38p"
+      },
+      "artists": [
+        {
+          "name": "R\u00d8RY",
+          "url": "https://open.spotify.com/artist/7axZFTseO96HmG1u4ABDAI"
+        }
+      ],
+      "duration_ms": 209422,
+      "name": "SWALLOW",
+      "url": "https://open.spotify.com/track/7zbGyhYLWxgpiWyGqdNWUI"
     },
     {
       "added_at": "2026-09-18 00:00:11",
@@ -1419,6 +1419,22 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
+        "name": "Injury Episode",
+        "url": "https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2"
+      },
+      "artists": [
+        {
+          "name": "Static Dress",
+          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
+        }
+      ],
+      "duration_ms": 263921,
+      "name": "dull blade disguise",
+      "url": "https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL"
+    },
+    {
+      "added_at": "2026-09-18 00:00:11",
+      "album": {
         "name": "dissolution",
         "url": "https://open.spotify.com/album/18pPzxeQhRThpbtj3ydM2m"
       },
@@ -1435,22 +1451,6 @@
       "duration_ms": 220057,
       "name": "reveries feat. Caskets",
       "url": "https://open.spotify.com/track/4QT1Xn41ijrhoxHaPaCXft"
-    },
-    {
-      "added_at": "2026-09-18 00:00:11",
-      "album": {
-        "name": "Injury Episode",
-        "url": "https://open.spotify.com/album/0nZNn9KNOqjQ45hMK4a2X2"
-      },
-      "artists": [
-        {
-          "name": "Static Dress",
-          "url": "https://open.spotify.com/artist/1Lqdsv7Ff4GNq9PM3Yd0vi"
-        }
-      ],
-      "duration_ms": 263921,
-      "name": "dull blade disguise",
-      "url": "https://open.spotify.com/track/2O8SjoHVVfVvDLLpwrXAhL"
     },
     {
       "added_at": "2026-09-18 00:00:11",
@@ -1575,6 +1575,22 @@
     {
       "added_at": "2026-09-18 00:00:11",
       "album": {
+        "name": "MISSING",
+        "url": "https://open.spotify.com/album/2UWQDA2qWX7liC1h0HqNvN"
+      },
+      "artists": [
+        {
+          "name": "October Ends",
+          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
+        }
+      ],
+      "duration_ms": 150967,
+      "name": "MISSING",
+      "url": "https://open.spotify.com/track/2doVEgUhYXZbNw6u8J1f9m"
+    },
+    {
+      "added_at": "2026-09-18 00:00:11",
+      "album": {
         "name": "blueprints",
         "url": "https://open.spotify.com/album/4hmI2HMwNymNWg7wUAlaUx"
       },
@@ -1603,22 +1619,6 @@
       "duration_ms": 186666,
       "name": "Like You",
       "url": "https://open.spotify.com/track/3QFVFxNgz4JZse0FnhFoeG"
-    },
-    {
-      "added_at": "2026-09-18 00:00:11",
-      "album": {
-        "name": "MISSING",
-        "url": "https://open.spotify.com/album/2UWQDA2qWX7liC1h0HqNvN"
-      },
-      "artists": [
-        {
-          "name": "October Ends",
-          "url": "https://open.spotify.com/artist/4j7vAPWYV5yRdX8CnSq0Jc"
-        }
-      ],
-      "duration_ms": 150967,
-      "name": "MISSING",
-      "url": "https://open.spotify.com/track/2doVEgUhYXZbNw6u8J1f9m"
     },
     {
       "added_at": "2026-09-18 00:00:11",

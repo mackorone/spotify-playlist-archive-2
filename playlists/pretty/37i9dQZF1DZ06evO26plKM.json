@@ -1,12 +1,12 @@
 {
   "description": "This is Glen Hansard. The essential tracks, all in one playlist.",
-  "num_followers": 33804,
+  "num_followers": 33809,
   "original_name": "This Is Glen Hansard",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqncAAAAAACzAthDWzEcUy87+XMTXMFP",
+  "snapshot_id": "aqstgAAAAAAseFR961Mj2Rbi2ONKdN0v",
   "tracks": [
     {
       "added_at": null,
@@ -191,26 +191,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Flag Day (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
+        "name": "Strict Joy (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX"
       },
       "artists": [
         {
-          "name": "Olivia Vedder",
-          "url": "https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E"
-        },
-        {
-          "name": "Eddie Vedder",
-          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
         },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
         }
       ],
-      "duration_ms": 213733,
-      "name": "There's A Girl",
-      "url": "https://open.spotify.com/track/0BaKCPtWMPK3UMsf3YMnTY"
+      "duration_ms": 287186,
+      "name": "Low Rising",
+      "url": "https://open.spotify.com/track/4TXEO5x60Xl3i85UOpr059"
     },
     {
       "added_at": null,
@@ -263,26 +263,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Strict Joy (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/7iqI8yPfkZSzDXYrwXgWvX"
+        "name": "Flag Day (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/6y8qx4wS06EbInD9x8q5Xx"
       },
       "artists": [
         {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+          "name": "Olivia Vedder",
+          "url": "https://open.spotify.com/artist/1cALtYxOIn4uWAfNdwcP4E"
+        },
+        {
+          "name": "Eddie Vedder",
+          "url": "https://open.spotify.com/artist/0mXTJETA4XUa12MmmXxZJh"
         },
         {
           "name": "Glen Hansard",
           "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
         }
       ],
-      "duration_ms": 287186,
-      "name": "Low Rising",
-      "url": "https://open.spotify.com/track/4TXEO5x60Xl3i85UOpr059"
+      "duration_ms": 213733,
+      "name": "There's A Girl",
+      "url": "https://open.spotify.com/track/0BaKCPtWMPK3UMsf3YMnTY"
     },
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Drive All Night",
+        "url": "https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 134022,
+      "name": "Step out of the Shadows",
+      "url": "https://open.spotify.com/track/4Ez56zhSkr9tgusv4EHDWk"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Cost",
         "url": "https://open.spotify.com/album/27hjUL4KLOUjA0mhswsWuH"
       },
@@ -503,22 +519,6 @@
       "duration_ms": 255993,
       "name": "What Happens When The Heart Just Stops (Funkhaus Version)",
       "url": "https://open.spotify.com/track/40gjFISWufq2pDTgRjeu1z"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Drive All Night",
-        "url": "https://open.spotify.com/album/5MqCESCpPOV6kvh2m6qM9z"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 134022,
-      "name": "Step out of the Shadows",
-      "url": "https://open.spotify.com/track/4Ez56zhSkr9tgusv4EHDWk"
     },
     {
       "added_at": null,
@@ -563,22 +563,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
-        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
-      },
-      "artists": [
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        }
-      ],
-      "duration_ms": 189599,
-      "name": "Just to Be the One (Funkhaus Version)",
-      "url": "https://open.spotify.com/track/5TMQ0HAtRAZGPmwrCgzi0e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Don\u2019t Settle (Vol. 1 - Transmissions East)",
         "url": "https://open.spotify.com/album/1turbfBjdvisgkk6XLfKB1"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 380095,
       "name": "Fitzcarraldo (Funkhaus Version)",
       "url": "https://open.spotify.com/track/5bgNDhKnTLFedQFTClTMx7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Don\u2019t Settle (Vol. 2 - Transmissions West)",
+        "url": "https://open.spotify.com/album/3l2wMz89yZGgpAssgxf4z9"
+      },
+      "artists": [
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        }
+      ],
+      "duration_ms": 189599,
+      "name": "Just to Be the One (Funkhaus Version)",
+      "url": "https://open.spotify.com/track/5TMQ0HAtRAZGPmwrCgzi0e"
     },
     {
       "added_at": null,
@@ -615,30 +615,6 @@
       "duration_ms": 231546,
       "name": "Stuck In Reverse",
       "url": "https://open.spotify.com/track/2rQVHibsV25SwAOLhdNUUp"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Swell Season",
-        "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
-      },
-      "artists": [
-        {
-          "name": "The Swell Season",
-          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
-        },
-        {
-          "name": "Glen Hansard",
-          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
-        },
-        {
-          "name": "Mark\u00e9ta Irglov\u00e1",
-          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
-        }
-      ],
-      "duration_ms": 218960,
-      "name": "Sleeping",
-      "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
     },
     {
       "added_at": null,
@@ -723,6 +699,30 @@
       "duration_ms": 354107,
       "name": "The Weight - Live",
       "url": "https://open.spotify.com/track/03qSYwxRCavJccioep27Sx"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Swell Season",
+        "url": "https://open.spotify.com/album/21FlPPRXTywONIRkB4g6Mb"
+      },
+      "artists": [
+        {
+          "name": "The Swell Season",
+          "url": "https://open.spotify.com/artist/2buJppisWV2GWWBWgkK074"
+        },
+        {
+          "name": "Glen Hansard",
+          "url": "https://open.spotify.com/artist/3Caot8EtHX6wLpNF2wRzS0"
+        },
+        {
+          "name": "Mark\u00e9ta Irglov\u00e1",
+          "url": "https://open.spotify.com/artist/4SklVMGMsWTq7cJd9MixUx"
+        }
+      ],
+      "duration_ms": 218960,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/6ctbCp3KtBLpHVNZgjBU3i"
     },
     {
       "added_at": null,

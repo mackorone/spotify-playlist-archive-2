@@ -329,6 +329,24 @@
     },
     {
       "album": {
+        "name": "At Rest",
+        "url": "https://open.spotify.com/album/2srYAaDy9XqK2Go6nUmzC4"
+      },
+      "artists": [
+        {
+          "name": "Waylen Orson",
+          "url": "https://open.spotify.com/artist/0MiPwC4KkJlyM17wLHZViw"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 138607,
+      "name": "At Rest",
+      "url": "https://open.spotify.com/track/3Cyslf8Sbb2MhISVhfI9Pw"
+    },
+    {
+      "album": {
         "name": "Autumn Sky",
         "url": "https://open.spotify.com/album/4M3iJjlUckhmZi2HZLfWAT"
       },
@@ -2667,6 +2685,24 @@
     },
     {
       "album": {
+        "name": "She Did It",
+        "url": "https://open.spotify.com/album/5gm0MYy73r2OBcI2EBpiwu"
+      },
+      "artists": [
+        {
+          "name": "Christopher T. Gaius",
+          "url": "https://open.spotify.com/artist/47NWKPZdH6is4KvirYJbxk"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156497,
+      "name": "She Did It",
+      "url": "https://open.spotify.com/track/2l2NVF3lHBlatAtyoF6g08"
+    },
+    {
+      "album": {
         "name": "Silence",
         "url": "https://open.spotify.com/album/6FKCRBpmy5c8ejELaFfFt5"
       },
@@ -3132,6 +3168,24 @@
       "duration_ms": 151041,
       "name": "teunok",
       "url": "https://open.spotify.com/track/382bYUbYKAIfyhZ0CQ9gek"
+    },
+    {
+      "album": {
+        "name": "The Early Hours",
+        "url": "https://open.spotify.com/album/66PNTiEQXMD89klGdQnKmf"
+      },
+      "artists": [
+        {
+          "name": "Soren Cudero",
+          "url": "https://open.spotify.com/artist/0tx1OsY5NW97YUXLoxroYf"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139108,
+      "name": "The Early Hours",
+      "url": "https://open.spotify.com/track/2QOiRXpVyZ3fN5267IPkJ4"
     },
     {
       "album": {

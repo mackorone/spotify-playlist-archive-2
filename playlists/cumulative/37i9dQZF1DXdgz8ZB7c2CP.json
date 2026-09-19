@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2021-12-21",
-  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83d\udd4a\ufe0f featuring Atura ",
+  "description": "A sprinkle of bass, warm vocal drizzle, and dreamy <a href=\"spotify:genre:edm_dance\">dance music</a> \ud83d\udd4a\ufe0f featuring Pocket ",
   "name": "creamy",
   "tracks": [
     {
@@ -1040,7 +1040,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 197647,
       "name": "All U Need",
       "url": "https://open.spotify.com/track/06jG428QHOmaW4K3HaLddV"
@@ -2054,7 +2054,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 155543,
       "name": "be with me",
       "url": "https://open.spotify.com/track/13iSspPHQg1cDyUl55ItRg"
@@ -3302,7 +3302,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 151527,
       "name": "brand new",
       "url": "https://open.spotify.com/track/0vKpX321FoA6ureQDC2gzw"
@@ -8870,7 +8870,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 188769,
       "name": "fast lane",
       "url": "https://open.spotify.com/track/6Ve4d45O3jQpGvnTcStJpQ"
@@ -10591,6 +10591,28 @@
     },
     {
       "album": {
+        "name": "14ZERO V2",
+        "url": "https://open.spotify.com/album/2IRS9qLBd27Wp824FxnZqw"
+      },
+      "artists": [
+        {
+          "name": "Zero",
+          "url": "https://open.spotify.com/artist/6ocDQwCTkVro3cmejcF1DH"
+        },
+        {
+          "name": "Killa P",
+          "url": "https://open.spotify.com/artist/0yZqTQF0ULKX2gFE6fBHXZ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 252002,
+      "name": "Get Dark",
+      "url": "https://open.spotify.com/track/0iWMV1PjHlhClsvdGyuQvS"
+    },
+    {
+      "album": {
         "name": "Highlight",
         "url": "https://open.spotify.com/album/4kHyNDHonchA7wACkVJEq7"
       },
@@ -12281,6 +12303,24 @@
     },
     {
       "album": {
+        "name": "HOLD IT DOWN",
+        "url": "https://open.spotify.com/album/4WnYUzZTqAFrgILt5f3PuN"
+      },
+      "artists": [
+        {
+          "name": "Khamsin",
+          "url": "https://open.spotify.com/artist/3SArT8JtWehqNmycXIZren"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220250,
+      "name": "HOLD IT DOWN",
+      "url": "https://open.spotify.com/track/1kVJOGzaO7kqiXaq8yp9WP"
+    },
+    {
+      "album": {
         "name": "HOLD ON",
         "url": "https://open.spotify.com/album/31LgGgmQPWJXXhNN64L59H"
       },
@@ -13208,6 +13248,24 @@
       "duration_ms": 156279,
       "name": "i have an idea ?<\u201d",
       "url": "https://open.spotify.com/track/26Ef2ViT9DGYExw3NL6EnX"
+    },
+    {
+      "album": {
+        "name": "i keep falling in love",
+        "url": "https://open.spotify.com/album/6qngY4agNcz8iS1QcBd4oz"
+      },
+      "artists": [
+        {
+          "name": "Tiiva",
+          "url": "https://open.spotify.com/artist/7xPH48skEkdWGdzNzZwVKF"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175853,
+      "name": "i keep falling in love",
+      "url": "https://open.spotify.com/track/25I2tic3WctcHpKcHd9QPz"
     },
     {
       "album": {
@@ -14726,6 +14784,24 @@
       "duration_ms": 236800,
       "name": "IYKYK",
       "url": "https://open.spotify.com/track/2VfsWUM63pXOHrPwHqrIfC"
+    },
+    {
+      "album": {
+        "name": "I\u2019ll Be Waiting",
+        "url": "https://open.spotify.com/album/52CXSYMdQjqw2XQ99kEqup"
+      },
+      "artists": [
+        {
+          "name": "REMNANT.exe",
+          "url": "https://open.spotify.com/artist/46q8Ul5r65jpuyZ8LwWPN3"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214598,
+      "name": "I\u2019ll Be Waiting",
+      "url": "https://open.spotify.com/track/7K7dgSpbORdK0LphOr0uTj"
     },
     {
       "album": {
@@ -20968,7 +21044,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 180437,
       "name": "Pressure",
       "url": "https://open.spotify.com/track/4ikdOTIV0RlhbSkJFBx2mE"
@@ -26320,7 +26396,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 147428,
       "name": "SYRINX",
       "url": "https://open.spotify.com/track/0pg7eUl5LaCOXN3F5jdF18"
@@ -29326,7 +29402,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 161363,
       "name": "Visions",
       "url": "https://open.spotify.com/track/7jMHu4cwTP8iCmmNvQnqOG"
@@ -29698,6 +29774,24 @@
       "duration_ms": 173582,
       "name": "Waiting 4 U (Feat. Natalie Jane)",
       "url": "https://open.spotify.com/track/5Vojou9RHWw8neHwu9opT2"
+    },
+    {
+      "album": {
+        "name": "LOST DISC",
+        "url": "https://open.spotify.com/album/2fUEFmoQHme0Lx9Fg3My5A"
+      },
+      "artists": [
+        {
+          "name": "Pocket",
+          "url": "https://open.spotify.com/artist/2VizsdU66dsMBEg8h4Vkzo"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218651,
+      "name": "WAITING FOR YOU",
+      "url": "https://open.spotify.com/track/5f46ap2zTMcPKquPczX1SE"
     },
     {
       "album": {
@@ -31125,6 +31219,28 @@
     },
     {
       "album": {
+        "name": "will u show up?",
+        "url": "https://open.spotify.com/album/2WWzq5pObXEVjIIPjc59c7"
+      },
+      "artists": [
+        {
+          "name": "efan",
+          "url": "https://open.spotify.com/artist/6JSLs55qHQEcyp0uFGDmAT"
+        },
+        {
+          "name": "Hans Glader",
+          "url": "https://open.spotify.com/artist/2xncrpOGGRImOgiWmbAPZG"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250000,
+      "name": "will u show up?",
+      "url": "https://open.spotify.com/track/2Pp6YIeEgQVn3XWutDptxU"
+    },
+    {
+      "album": {
         "name": "Windhorse",
         "url": "https://open.spotify.com/album/4sz5jike641ayFQ12d1wRu"
       },
@@ -31490,6 +31606,24 @@
       "duration_ms": 183165,
       "name": "YA BODY",
       "url": "https://open.spotify.com/track/07jKK0hViPo33S5Y35QyvB"
+    },
+    {
+      "album": {
+        "name": "YAAA!!!",
+        "url": "https://open.spotify.com/album/4L2GPeIbO96czj0QJm0DbE"
+      },
+      "artists": [
+        {
+          "name": "MAPLO",
+          "url": "https://open.spotify.com/artist/4ReKvZvnXDdrRuMSMeiThI"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183131,
+      "name": "YAAA!!!",
+      "url": "https://open.spotify.com/track/3zyKPdknVPhtZDj9shmexP"
     },
     {
       "album": {

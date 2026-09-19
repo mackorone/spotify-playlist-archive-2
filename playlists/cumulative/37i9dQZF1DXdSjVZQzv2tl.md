@@ -2,9 +2,9 @@
 
 ### [Esquenta Sertanejo](https://open.spotify.com/playlist/37i9dQZF1DXdSjVZQzv2tl)
 
-> O melhor do sertanejo em uma só playlist! Foto: Countrybeat, Mari Fernandez
+> O melhor do sertanejo em uma só playlist! Foto: João Gustavo e Murilo, Grelo
 
-424 songs - 19 hr 53 min
+425 songs - 19 hr 56 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -311,6 +311,7 @@
 | [Peça Íntima](https://open.spotify.com/track/5rHhO6SBSzo3E9m3KHyCtt) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz), [Ana Castela](https://open.spotify.com/artist/2CKOmarVWvWqkNWUatHCex) | [Peça Íntima](https://open.spotify.com/album/1Tf3Ooizx4fstK5vp6rtfF) | 2:49 | 2024-10-18 | 2025-07-19 |
 | [Pino da Granada \(Ao Vivo em Rio Preto\)](https://open.spotify.com/track/0MKd4uZd8Ag8qyReZBTarP) | [Murilo Huff](https://open.spotify.com/artist/3hq7WoPJsrRP0KMSLhUgRz) | [Pino da Granada \(Ao Vivo em Rio Preto\)](https://open.spotify.com/album/60SAVsrvuAcIBAyqNxPOLP) | 3:05 | 2022-06-03 | 2023-02-11 |
 | [Pirulito Vermelho](https://open.spotify.com/track/1Z3QqD45wKKN6fUKBXSvcZ) | [Diego & Victor Hugo](https://open.spotify.com/artist/3k68C6mNMJL6OaAdWeW2ZF), [Luan Pereira](https://open.spotify.com/artist/5kVgcCdPbeUwxBqWxi2Ktl) | [Pirulito Vermelho](https://open.spotify.com/album/6QyoTHLRSr8Z8EkvpQXBQX) | 2:32 | 2023-06-30 | 2023-12-30 |
+| [Plano C \- Ao Vivo](https://open.spotify.com/track/6xQwzsTwW0GFeYfADodNsc) | [Zé Neto & Cristiano](https://open.spotify.com/artist/487N2T9nIPEHrlTZLL3SQs) | [Vocês & Deus \(Ao Vivo no Rio de Janeiro\)](https://open.spotify.com/album/7fF43JKZ1MTkFiWRzrkzcn) | 2:54 | 2026-09-18 |  |
 | [Poder de Mentir \- Ao Vivo](https://open.spotify.com/track/5qMyN3dzXKb5P1MiKyqupZ) | [Fred & Fabrício](https://open.spotify.com/artist/37eYuWTOZtUG8PgFOsj9h8), [Traia Véia](https://open.spotify.com/artist/0FMBXfGasuAjdpsCs7zgju) | [Poder de Mentir \(Ao Vivo\)](https://open.spotify.com/album/3MAVXfXLm0xCp3crn02FnY) | 2:47 | 2024-07-12 | 2025-06-21 |
 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/4U8jlVWLJ4DZ2MpvV81hIb) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo \(Ao Vivo\)](https://open.spotify.com/album/5cvRAkiIj3vlPZRXvRvHxk) | 2:42 | 2024-02-09 | 2024-04-19 |
 | [Poeirão \- Ao Vivo](https://open.spotify.com/track/5ZkwwBa9DlwuUFbXwrLeXF) | [Guilherme & Benuto](https://open.spotify.com/artist/6m6e7D2TnV0aYMllFFwMxu) | [Deu Rolo de Novo, Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/7B0EpsE17BgPH8zVUjjpNx) | 2:42 | 2023-11-10 | 2024-09-20 |

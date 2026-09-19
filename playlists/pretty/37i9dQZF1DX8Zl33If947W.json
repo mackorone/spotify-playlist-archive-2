@@ -1,12 +1,12 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 211411,
+  "num_followers": 211454,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAVBkeWXjjLta9bh90JgyH6cDWv9",
+  "snapshot_id": "AAAAAMcfdXgvVJy6lZwiSZ7aVH8b+EZx",
   "tracks": [
     {
       "added_at": "2026-03-26 08:28:03",
@@ -319,22 +319,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Kraniche (plus Track by Track)",
-        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
-      },
-      "artists": [
-        {
-          "name": "Bosse",
-          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
-        }
-      ],
-      "duration_ms": 233760,
-      "name": "Sch\u00f6nste Zeit",
-      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "Keine Homies",
         "url": "https://open.spotify.com/album/0zrF3gikDWhyetVFGqL8Du"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 122241,
       "name": "Keine Homies",
       "url": "https://open.spotify.com/track/1ct7Hx3FQMfym8cHIk4hrd"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Kraniche (plus Track by Track)",
+        "url": "https://open.spotify.com/album/0GcBLR01Qh0fbETseeF3UP"
+      },
+      "artists": [
+        {
+          "name": "Bosse",
+          "url": "https://open.spotify.com/artist/2e4uIDIIBXR0MmZe0AJGhR"
+        }
+      ],
+      "duration_ms": 233760,
+      "name": "Sch\u00f6nste Zeit",
+      "url": "https://open.spotify.com/track/3z4ePZgAz36X90QSBT7dm1"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -387,22 +387,6 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Herzensmensch",
-        "url": "https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi"
-      },
-      "artists": [
-        {
-          "name": "Montez",
-          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
-        }
-      ],
-      "duration_ms": 160405,
-      "name": "Herzensmensch",
-      "url": "https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
         "name": "XOXO",
         "url": "https://open.spotify.com/album/7rql1BBqLNMfOX27mEvxUv"
       },
@@ -435,6 +419,22 @@
       "duration_ms": 186666,
       "name": "Gr\u00f6\u00dfer als Liebe",
       "url": "https://open.spotify.com/track/6xPHZX2KN3tY2gW0LWvrBl"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
+        "name": "Herzensmensch",
+        "url": "https://open.spotify.com/album/0TfmkzOkLCBvsDWKbDiVAi"
+      },
+      "artists": [
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "duration_ms": 160405,
+      "name": "Herzensmensch",
+      "url": "https://open.spotify.com/track/7HBzNwzwnKLVF1GtcjnA2C"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -991,22 +991,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "paris syndrom (dach session)",
-        "url": "https://open.spotify.com/album/5FXulrsss6KsfQ7izfaTdP"
+        "name": "Blaue Augen",
+        "url": "https://open.spotify.com/album/5YDM82AhvE4m0tppu7XQHc"
       },
       "artists": [
         {
-          "name": "Blumengarten",
-          "url": "https://open.spotify.com/artist/5j3YjOV8eusoDutC6yPjhS"
-        },
-        {
-          "name": "Paula Hartmann",
-          "url": "https://open.spotify.com/artist/3Fl31gc0mEUC2H0JWL1vic"
+          "name": "JEREMIAS",
+          "url": "https://open.spotify.com/artist/011bJBtG8SdkBqBiSpBllF"
         }
       ],
-      "duration_ms": 170658,
-      "name": "paris syndrom - dach session",
-      "url": "https://open.spotify.com/track/4cvfB6n4wfSXIvND88VRc1"
+      "duration_ms": 167873,
+      "name": "Blaue Augen",
+      "url": "https://open.spotify.com/track/045Qp5DqFXTqUuMMBR81iS"
     }
   ],
   "unique_name": "Liebeslieder",

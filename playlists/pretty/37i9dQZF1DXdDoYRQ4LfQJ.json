@@ -1,12 +1,12 @@
 {
   "description": "Bien Chaka con Grupo Ajedrez & the hottest Corridos in the U.S.",
-  "num_followers": 345873,
+  "num_followers": 345895,
   "original_name": "Bien Chaka",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIQD02DrPq0k5hpCO6Q++SLQeCjq",
+  "snapshot_id": "AAAAAPLbjoQupwhHB1w6iyf1Mn5Ifq/S",
   "tracks": [
     {
       "added_at": "2026-08-28 04:47:24",
@@ -503,22 +503,18 @@
     {
       "added_at": "2026-08-28 04:47:24",
       "album": {
-        "name": "El Mayor de los Ranas",
-        "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
+        "name": "Noches Sin Fin",
+        "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
       },
       "artists": [
         {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        },
-        {
-          "name": "JR Torres",
-          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
+          "name": "Herencia De Grandes",
+          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
         }
       ],
-      "duration_ms": 172059,
-      "name": "El Mayor de los Ranas",
-      "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
+      "duration_ms": 168229,
+      "name": "Cambio Mi Suerte",
+      "url": "https://open.spotify.com/track/6ZdbHIohiiimLHC5ZSDWDb"
     },
     {
       "added_at": "2026-08-28 04:47:24",
@@ -539,18 +535,22 @@
     {
       "added_at": "2026-08-28 04:47:24",
       "album": {
-        "name": "Noches Sin Fin",
-        "url": "https://open.spotify.com/album/465rqQUVN9J9KTCphdfAKM"
+        "name": "El Mayor de los Ranas",
+        "url": "https://open.spotify.com/album/6Q3K1pFpo5jX2AYrWs9q4h"
       },
       "artists": [
         {
-          "name": "Herencia De Grandes",
-          "url": "https://open.spotify.com/artist/0ocHleb3SllGNQQcDH35Xz"
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
+        },
+        {
+          "name": "JR Torres",
+          "url": "https://open.spotify.com/artist/38Bf9u0Tg0JOEcjxzqSuAj"
         }
       ],
-      "duration_ms": 168229,
-      "name": "Cambio Mi Suerte",
-      "url": "https://open.spotify.com/track/6ZdbHIohiiimLHC5ZSDWDb"
+      "duration_ms": 172059,
+      "name": "El Mayor de los Ranas",
+      "url": "https://open.spotify.com/track/5E3T0hZ77NXXUtXJocRIOc"
     },
     {
       "added_at": "2026-08-28 04:47:24",
@@ -719,22 +719,22 @@
     {
       "added_at": "2026-08-28 04:47:24",
       "album": {
-        "name": "ROSONES",
-        "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
+        "name": "El Mayor de los Ranas (En Vivo)",
+        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
       },
       "artists": [
         {
-          "name": "Jorsshh",
-          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+          "name": "Grupo Marca Registrada",
+          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
         },
         {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+          "name": "Victor Valverde",
+          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
         }
       ],
-      "duration_ms": 178079,
-      "name": "ROSONES",
-      "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
+      "duration_ms": 174037,
+      "name": "El Mayor de los Ranas - En Vivo",
+      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
     },
     {
       "added_at": "2026-08-28 04:47:24",
@@ -759,6 +759,26 @@
     {
       "added_at": "2026-08-28 04:47:24",
       "album": {
+        "name": "ROSONES",
+        "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
+      },
+      "artists": [
+        {
+          "name": "Jorsshh",
+          "url": "https://open.spotify.com/artist/3HJq88k0us5XSJ4tD3J8RG"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 178079,
+      "name": "ROSONES",
+      "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
+    },
+    {
+      "added_at": "2026-08-28 04:47:24",
+      "album": {
         "name": "PUES QUE LE HAGO ?",
         "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
       },
@@ -771,26 +791,6 @@
       "duration_ms": 141607,
       "name": "PUES QUE LE HAGO ?",
       "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
-    },
-    {
-      "added_at": "2026-08-28 04:47:24",
-      "album": {
-        "name": "El Mayor de los Ranas (En Vivo)",
-        "url": "https://open.spotify.com/album/0jPsXfPTGGqzLS1ETChzf7"
-      },
-      "artists": [
-        {
-          "name": "Grupo Marca Registrada",
-          "url": "https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC"
-        },
-        {
-          "name": "Victor Valverde",
-          "url": "https://open.spotify.com/artist/20nJFshDG1OYH7Qp9K0TXf"
-        }
-      ],
-      "duration_ms": 174037,
-      "name": "El Mayor de los Ranas - En Vivo",
-      "url": "https://open.spotify.com/track/7mEPibyVIOAjjHcSD0K0vn"
     },
     {
       "added_at": "2026-08-28 04:47:24",
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-08-28 04:47:24",
       "album": {
-        "name": "Changuito Me Apodaron",
-        "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
-      },
-      "artists": [
-        {
-          "name": "Grupo Feroz",
-          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
-        }
-      ],
-      "duration_ms": 163350,
-      "name": "Changuito Me Apodaron",
-      "url": "https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9"
-    },
-    {
-      "added_at": "2026-08-28 04:47:24",
-      "album": {
         "name": "Ni Hoy Ni Manana",
         "url": "https://open.spotify.com/album/7jyBbVcnqfV8vtmyyPJarL"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 237826,
       "name": "La Ultima Sombra",
       "url": "https://open.spotify.com/track/6Z5k18VPZu4b1IaIQmbecn"
+    },
+    {
+      "added_at": "2026-08-28 04:47:24",
+      "album": {
+        "name": "Changuito Me Apodaron",
+        "url": "https://open.spotify.com/album/1CMvKp1MBcw2f07BlXMIZu"
+      },
+      "artists": [
+        {
+          "name": "Grupo Feroz",
+          "url": "https://open.spotify.com/artist/3ZZ34mIzBjDmgfyGcU9D4r"
+        }
+      ],
+      "duration_ms": 163350,
+      "name": "Changuito Me Apodaron",
+      "url": "https://open.spotify.com/track/0v8cA0p513Il0GvPeNVuk9"
     },
     {
       "added_at": "2026-08-28 04:47:24",
@@ -1071,6 +1071,22 @@
     {
       "added_at": "2026-08-28 04:47:24",
       "album": {
+        "name": "Arriba la Barbiza",
+        "url": "https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 169496,
+      "name": "Arriba la Barbiza",
+      "url": "https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf"
+    },
+    {
+      "added_at": "2026-08-28 04:47:24",
+      "album": {
         "name": "El Chore",
         "url": "https://open.spotify.com/album/4yyQAqJj38f5DD7BhZhCuh"
       },
@@ -1087,22 +1103,6 @@
       "duration_ms": 170259,
       "name": "El Chore",
       "url": "https://open.spotify.com/track/2k35RlqbpIPZPAOjzME0ZL"
-    },
-    {
-      "added_at": "2026-08-28 04:47:24",
-      "album": {
-        "name": "Arriba la Barbiza",
-        "url": "https://open.spotify.com/album/6kux9mkqScfGYMlVXbGCIR"
-      },
-      "artists": [
-        {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
-        }
-      ],
-      "duration_ms": 169496,
-      "name": "Arriba la Barbiza",
-      "url": "https://open.spotify.com/track/0grL3xfACE1ls8YcHU4wvf"
     },
     {
       "added_at": "2026-08-28 04:47:24",
@@ -1239,26 +1239,6 @@
     {
       "added_at": "2026-08-28 04:47:24",
       "album": {
-        "name": "La Cherokee",
-        "url": "https://open.spotify.com/album/1KoUyx6tosCXD7qidBRXae"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 175980,
-      "name": "La Cherokee",
-      "url": "https://open.spotify.com/track/286FxdzLxQJPzLDH6QQd5K"
-    },
-    {
-      "added_at": "2026-08-28 04:47:24",
-      "album": {
         "name": "F\u00e1cil no Fue",
         "url": "https://open.spotify.com/album/7iDmmYU7GgNkR7AmVlSIZ7"
       },
@@ -1275,6 +1255,26 @@
       "duration_ms": 162013,
       "name": "Pura Adrenalina",
       "url": "https://open.spotify.com/track/5Ho2PsKBXFpSjRBrnDwF3N"
+    },
+    {
+      "added_at": "2026-08-28 04:47:24",
+      "album": {
+        "name": "La Cherokee",
+        "url": "https://open.spotify.com/album/1KoUyx6tosCXD7qidBRXae"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 175980,
+      "name": "La Cherokee",
+      "url": "https://open.spotify.com/track/286FxdzLxQJPzLDH6QQd5K"
     },
     {
       "added_at": "2026-08-28 04:47:24",
@@ -1567,6 +1567,22 @@
     {
       "added_at": "2026-08-28 04:47:24",
       "album": {
+        "name": "Voy Enfierrado",
+        "url": "https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB"
+      },
+      "artists": [
+        {
+          "name": "Clave Especial",
+          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
+        }
+      ],
+      "duration_ms": 147500,
+      "name": "Voy Enfierrado",
+      "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
+    },
+    {
+      "added_at": "2026-08-28 04:47:24",
+      "album": {
         "name": "Mi Vida Mi Muerte",
         "url": "https://open.spotify.com/album/338NDGMHtB4t5mp8RhMnh3"
       },
@@ -1583,22 +1599,6 @@
       "duration_ms": 171322,
       "name": "CDN",
       "url": "https://open.spotify.com/track/7bD15mHXz7Ws9pMzHOqtkp"
-    },
-    {
-      "added_at": "2026-08-28 04:47:24",
-      "album": {
-        "name": "Voy Enfierrado",
-        "url": "https://open.spotify.com/album/6gFwSuvC9NfquGCjxAC5UB"
-      },
-      "artists": [
-        {
-          "name": "Clave Especial",
-          "url": "https://open.spotify.com/artist/0NlNru2YcUz6RbnpYGQz26"
-        }
-      ],
-      "duration_ms": 147500,
-      "name": "Voy Enfierrado",
-      "url": "https://open.spotify.com/track/39uJGraTSq4lC6UGfCLGm2"
     },
     {
       "added_at": "2026-08-28 04:47:24",
@@ -1623,6 +1623,22 @@
     {
       "added_at": "2026-08-28 04:47:24",
       "album": {
+        "name": "El Chaval\u00f3n",
+        "url": "https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq"
+      },
+      "artists": [
+        {
+          "name": "LOS DOS DE TAMAULIPAS",
+          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+        }
+      ],
+      "duration_ms": 174754,
+      "name": "El Chaval\u00f3n",
+      "url": "https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu"
+    },
+    {
+      "added_at": "2026-08-28 04:47:24",
+      "album": {
         "name": "Chiclona",
         "url": "https://open.spotify.com/album/5M4EVI6HzUPtzVtCLGqtB3"
       },
@@ -1639,18 +1655,18 @@
     {
       "added_at": "2026-08-28 04:47:24",
       "album": {
-        "name": "El Chaval\u00f3n",
-        "url": "https://open.spotify.com/album/0jAjnsWB9EOcFL7Cq5ykpq"
+        "name": "Dinero No Tenia (En Vivo)",
+        "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
       },
       "artists": [
         {
-          "name": "LOS DOS DE TAMAULIPAS",
-          "url": "https://open.spotify.com/artist/77Zc5MMUIMJriEDAcaDspi"
+          "name": "Codiciado",
+          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
         }
       ],
-      "duration_ms": 174754,
-      "name": "El Chaval\u00f3n",
-      "url": "https://open.spotify.com/track/7uBePvu0TAwsdX2POckybu"
+      "duration_ms": 208107,
+      "name": "Dinero No Tenia - En Vivo",
+      "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
     },
     {
       "added_at": "2026-08-28 04:47:24",
@@ -1691,22 +1707,6 @@
       "duration_ms": 156040,
       "name": "Poco A Poco",
       "url": "https://open.spotify.com/track/4loIMejzvt11s97SGVEat8"
-    },
-    {
-      "added_at": "2026-08-28 04:47:24",
-      "album": {
-        "name": "Dinero No Tenia (En Vivo)",
-        "url": "https://open.spotify.com/album/4I4HdAzHO28j18IibnON3F"
-      },
-      "artists": [
-        {
-          "name": "Codiciado",
-          "url": "https://open.spotify.com/artist/0IoWUuXfqpkfpxBRzthHU4"
-        }
-      ],
-      "duration_ms": 208107,
-      "name": "Dinero No Tenia - En Vivo",
-      "url": "https://open.spotify.com/track/78ZsL4i0PT5SjnB3WeXGj9"
     },
     {
       "added_at": "2026-08-28 04:47:24",

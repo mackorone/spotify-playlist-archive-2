@@ -5623,6 +5623,28 @@
     },
     {
       "album": {
+        "name": "Only I Know What You Said",
+        "url": "https://open.spotify.com/album/5jYVJ3rfmzith6mAL6OQKO"
+      },
+      "artists": [
+        {
+          "name": "Nick Warren",
+          "url": "https://open.spotify.com/artist/7aY9PtsNws5AdwbdktfbaN"
+        },
+        {
+          "name": "Emi Galvan",
+          "url": "https://open.spotify.com/artist/5A4rzeZ3KXx7VYvcna6awj"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 445355,
+      "name": "Only I Know What You Said - Emi Galvan Remix",
+      "url": "https://open.spotify.com/track/5WtcoyNndsQMaiLz9mwdK3"
+    },
+    {
+      "album": {
         "name": "South Strangers, Vol. 4",
         "url": "https://open.spotify.com/album/7zJzOCEZMLa0mulGfWH01y"
       },

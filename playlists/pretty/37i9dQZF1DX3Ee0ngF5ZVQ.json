@@ -1,12 +1,12 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 399208,
+  "num_followers": 399180,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANaZV4h/1LAPkqulisNUxfmT4gUQ",
+  "snapshot_id": "AAAAACBMLkgO545IExdZZVlMWzZKPTg/",
   "tracks": [
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Coulda Been Love",
-        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
-      },
-      "artists": [
-        {
-          "name": "Randall King",
-          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
-        }
-      ],
-      "duration_ms": 172866,
-      "name": "Coulda Been Love",
-      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "My Love",
         "url": "https://open.spotify.com/album/5VOaO6GlmbM6GcPrjl97HQ"
       },
@@ -1111,6 +1095,22 @@
       "duration_ms": 241523,
       "name": "My Love",
       "url": "https://open.spotify.com/track/7KbBJ6PLkFnfO8GQu1R0il"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Coulda Been Love",
+        "url": "https://open.spotify.com/album/2SicSV8AnsmIXZk6NmL8G6"
+      },
+      "artists": [
+        {
+          "name": "Randall King",
+          "url": "https://open.spotify.com/artist/4Uux6BdaCNrVFQ0bqGRtfh"
+        }
+      ],
+      "duration_ms": 172866,
+      "name": "Coulda Been Love",
+      "url": "https://open.spotify.com/track/2K7kaSsyzMKLvXH5MnOgFp"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1143,22 +1143,6 @@
       "duration_ms": 219026,
       "name": "Three Drinks Behind",
       "url": "https://open.spotify.com/track/2GW22U7NhyDSauwKcWyixN"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
-        "name": "Fan of You",
-        "url": "https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv"
-      },
-      "artists": [
-        {
-          "name": "Josh Abbott Band",
-          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
-        }
-      ],
-      "duration_ms": 221816,
-      "name": "Fan of You",
-      "url": "https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1199,6 +1183,22 @@
       "duration_ms": 296875,
       "name": "Wildfire",
       "url": "https://open.spotify.com/track/2z8n9qmI7YDfO2IA7dssja"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Fan of You",
+        "url": "https://open.spotify.com/album/2EKBJst1lNOakc8jbaSBEv"
+      },
+      "artists": [
+        {
+          "name": "Josh Abbott Band",
+          "url": "https://open.spotify.com/artist/2EJ5MRZCzpHSSNNEpTx9Kb"
+        }
+      ],
+      "duration_ms": 221816,
+      "name": "Fan of You",
+      "url": "https://open.spotify.com/track/2fqB6LSwNdGV1JQC3f8esT"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1475,6 +1475,26 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
+        "name": "Never Again One More Time",
+        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
+      },
+      "artists": [
+        {
+          "name": "Walker Montgomery",
+          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
+        },
+        {
+          "name": "Randy Rogers",
+          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
+        }
+      ],
+      "duration_ms": 178284,
+      "name": "Never Again One More Time",
+      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
         "name": "Kick A Little",
         "url": "https://open.spotify.com/album/4ge2mkLRHL3eVxABHU9hEb"
       },
@@ -1495,26 +1515,6 @@
       "duration_ms": 227175,
       "name": "Kick A Little",
       "url": "https://open.spotify.com/track/7JVAxrtctxKu5GpmlCCyGL"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
-        "name": "Never Again One More Time",
-        "url": "https://open.spotify.com/album/2NjoWn7E4p0OrXEKM9uYQR"
-      },
-      "artists": [
-        {
-          "name": "Walker Montgomery",
-          "url": "https://open.spotify.com/artist/5vAB5nEXC8gfRxudmFF9jl"
-        },
-        {
-          "name": "Randy Rogers",
-          "url": "https://open.spotify.com/artist/0Um9Obps5KGnNcqAHfXdBv"
-        }
-      ],
-      "duration_ms": 178284,
-      "name": "Never Again One More Time",
-      "url": "https://open.spotify.com/track/1DwzS0qMVhAVfxvGRfoN2j"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1607,6 +1607,22 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
+        "name": "Green in Colorado",
+        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
+      },
+      "artists": [
+        {
+          "name": "Casey Donahew",
+          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+        }
+      ],
+      "duration_ms": 196833,
+      "name": "Green in Colorado",
+      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
         "name": "Another Man",
         "url": "https://open.spotify.com/album/65YJysIIuFqJN6irbIxJxv"
       },
@@ -1623,18 +1639,18 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Green in Colorado",
-        "url": "https://open.spotify.com/album/3jVMdIwYlmM4MOXPEyuYn2"
+        "name": "Honky Tonk in Heaven",
+        "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
       },
       "artists": [
         {
-          "name": "Casey Donahew",
-          "url": "https://open.spotify.com/artist/4bbloxL2d1IeYwuT2eIgib"
+          "name": "Kin Faux",
+          "url": "https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu"
         }
       ],
-      "duration_ms": 196833,
-      "name": "Green in Colorado",
-      "url": "https://open.spotify.com/track/4XQiKmSR8fgFVFmFEkiiDV"
+      "duration_ms": 167520,
+      "name": "Wild Horses",
+      "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1675,38 +1691,6 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Honky Tonk in Heaven",
-        "url": "https://open.spotify.com/album/2tTuVmz1S6wfK6mu07F5UP"
-      },
-      "artists": [
-        {
-          "name": "Kin Faux",
-          "url": "https://open.spotify.com/artist/5bbkKY1uKarzJOS1CMsfQu"
-        }
-      ],
-      "duration_ms": 167520,
-      "name": "Wild Horses",
-      "url": "https://open.spotify.com/track/0fC6Zc3DJtwyH58eCXox3v"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
-        "name": "Hunt You Down",
-        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
-      },
-      "artists": [
-        {
-          "name": "Kaitlin Butts",
-          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
-        }
-      ],
-      "duration_ms": 204000,
-      "name": "Hunt You Down",
-      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
-    },
-    {
-      "added_at": "2026-08-07 04:01:44",
-      "album": {
         "name": "Running out of Time",
         "url": "https://open.spotify.com/album/43tiHHwZStRZcQJmm6ohVf"
       },
@@ -1731,6 +1715,22 @@
       "duration_ms": 217899,
       "name": "Running out of Time",
       "url": "https://open.spotify.com/track/66Xb15mkqTgCu06aGUmgOu"
+    },
+    {
+      "added_at": "2026-08-07 04:01:44",
+      "album": {
+        "name": "Hunt You Down",
+        "url": "https://open.spotify.com/album/3ZmBeTs68BAwCeUOknXaQ7"
+      },
+      "artists": [
+        {
+          "name": "Kaitlin Butts",
+          "url": "https://open.spotify.com/artist/6QmSTo72BYMATkQVOV1axD"
+        }
+      ],
+      "duration_ms": 204000,
+      "name": "Hunt You Down",
+      "url": "https://open.spotify.com/track/6ANjnskHNgakdZnhWO6nob"
     }
   ],
   "unique_name": "Texas Country Now",

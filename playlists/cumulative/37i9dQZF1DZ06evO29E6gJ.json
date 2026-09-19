@@ -160,7 +160,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 176979,
       "name": "Aun Se Acuerda De Mi",
       "url": "https://open.spotify.com/track/49T6YipGo56UIb6rRNZANQ"
@@ -1416,10 +1416,28 @@
       ],
       "date_added": "2025-04-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-19",
       "duration_ms": 197041,
       "name": "Mi Destino Fue Quererte",
       "url": "https://open.spotify.com/track/7x32CubDcgMfgemGbEw58j"
+    },
+    {
+      "album": {
+        "name": "A\u00f1oranza Norte\u00f1a",
+        "url": "https://open.spotify.com/album/36EZFM4cbNaCHS7ZWAvR3t"
+      },
+      "artists": [
+        {
+          "name": "Los Alegres De Teran",
+          "url": "https://open.spotify.com/artist/3HxZx0W1g7n9DGdCFFHcRZ"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185693,
+      "name": "Mi Destino Fu\u00e9 Quererte",
+      "url": "https://open.spotify.com/track/36ZvQNbCNgOqtcUtEt9Wdb"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 
 > Blissful soundscapes from the best Ambient artists right now, to transport you to that feel good place 🌤️
 
-[Spotify](https://open.spotify.com/user/spotify) - 296,966 likes - 110 songs - 7 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 296,985 likes - 110 songs - 7 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -119,4 +119,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVTkoPB1rnwz.md) - [plain]
 | 109 | [Green Lane](https://open.spotify.com/track/2IuF5WeOCUy4iTkxjsZHwW) | [Jonny Nash](https://open.spotify.com/artist/4VnaEWTHIwbqbDCwNPpfde) | [Green Lane](https://open.spotify.com/album/54GK11ZT8B08WR9FSHSsBD) | 2:28 |
 | 110 | [Sun Tickles](https://open.spotify.com/track/7qhjO48EeSm9ecDfDt2LIp) | [Salamanda](https://open.spotify.com/artist/2ABEVwxsESCBsCBjN6qFru) | [In Parallel](https://open.spotify.com/album/2jBM6bkH5S0Nbp60LHrOsr) | 4:31 |
 
-Snapshot ID: `AAAAAKJfpJ7xf04z0FEX1xFfezTKaFdu`
+Snapshot ID: `AAAAAL/d2E6oTdwEqswQObfKSItYg6R0`

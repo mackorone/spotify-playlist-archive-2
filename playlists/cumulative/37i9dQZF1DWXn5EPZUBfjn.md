@@ -4,7 +4,7 @@
 
 > Hip\-hop hits only\. Music videos only available on Premium.
 
-66 songs - 3 hr 43 min
+67 songs - 3 hr 47 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -46,6 +46,7 @@
 | [Paint The Town Red](https://open.spotify.com/track/6FZSpeskRlhogcrGqPA76w) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Paint The Town Red](https://open.spotify.com/album/2YllXSbf2UqKcQ3LGiUUIk) | 4:55 | 2025-12-09 |  |
 | [Pardon Me](https://open.spotify.com/track/3Gc86rk4uOa6263vdxMxhT) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i), [Mike WiLL Made\-It](https://open.spotify.com/artist/0NWbwDZY1VkRqFafuQm6wk) | [Pardon Me](https://open.spotify.com/album/5MWJ2bnY7FWVIUYoCS5X25) | 3:04 | 2025-12-09 |  |
 | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/track/5rFb63vP8ftwxVBBoomh4o) | [Young Nudy](https://open.spotify.com/artist/5yPzzu25VzEk8qrGTLIrE1), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ), [Sexyy Red](https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A) | [Peaches & Eggplants \(feat\. Latto & Sexyy Red\)](https://open.spotify.com/album/7rEM3N9B7RX6ESWUqkCzZI) | 3:44 | 2025-12-09 |  |
+| [Piece Of Your Love](https://open.spotify.com/track/2hlmmhPIYS8XkRxq2Que6U) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z) | [Piece Of Your Love](https://open.spotify.com/album/2WVU7GV8n6u7Vub8fCSynY) | 3:45 | 2026-09-18 |  |
 | [POP DAT THANG](https://open.spotify.com/track/0kav2DxndmxlsiT3pqXZjG) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [POP DAT THANG](https://open.spotify.com/album/4coCUxqLrNyiAfm38MjF2d) | 2:18 | 2026-04-14 |  |
 | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/track/0WbcKUAQS6B9sNEkD4IYhR) | [Rod Wave](https://open.spotify.com/artist/45TgXXqMDdF8BkjA83OM7z), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [Rags2Riches 2 \(feat\. Lil Baby\)](https://open.spotify.com/album/488pZDqs0wI32NhlWXciQg) | 4:13 | 2025-12-09 |  |
 | [Raindance \(feat\. Tems\)](https://open.spotify.com/track/3oTuTpF1F3A7rEC6RKsMRz) | [Dave](https://open.spotify.com/artist/6Ip8FS7vWT1uKkJSweANQK), [Tems](https://open.spotify.com/artist/687cZJR45JO7jhk1LHIbgq) | [The Boy Who Played the Harp](https://open.spotify.com/album/24f1GFXCkViGoRpmGqlSSl) | 3:39 | 2026-04-14 |  |

@@ -6,7 +6,7 @@
     "name": "Monnison",
     "url": "https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss"
   },
-  "snapshot_id": "AAAX/6zxZUCWuuDf+HpJc5zjLNHMrECD",
+  "snapshot_id": "AAAYArXT+Vuc4fdvPhcwj+h8CNYtdNz+",
   "tracks": [
     {
       "added_at": "2026-09-17 20:51:32",
@@ -1631,6 +1631,54 @@
       "duration_ms": 233528,
       "name": "Too Cool for School",
       "url": "https://open.spotify.com/track/0pNkLrlQToWlowezDBIFLL"
+    },
+    {
+      "added_at": "2026-09-18 07:48:15",
+      "album": {
+        "name": "Luna Crystal Blue",
+        "url": "https://open.spotify.com/album/2aAh6nzbJcmxdf0uWO6ze5"
+      },
+      "artists": [
+        {
+          "name": "Masked Family",
+          "url": "https://open.spotify.com/artist/2v3CYqA4SYszVxUQ4uh4BK"
+        }
+      ],
+      "duration_ms": 155880,
+      "name": "Hello",
+      "url": "https://open.spotify.com/track/6jlYvHtAqczyut8taxFsbB"
+    },
+    {
+      "added_at": "2026-09-18 07:48:17",
+      "album": {
+        "name": "Sad\u00e9 Blade",
+        "url": "https://open.spotify.com/album/0F5nPvnRleywtSvOcbkjkT"
+      },
+      "artists": [
+        {
+          "name": "Citrus pop",
+          "url": "https://open.spotify.com/artist/0EREt3VQhcJR27KlQIGOQ9"
+        }
+      ],
+      "duration_ms": 140068,
+      "name": "Sad\u00e9 Blade",
+      "url": "https://open.spotify.com/track/6nFN1ewrrDbOyrWZ0me3jT"
+    },
+    {
+      "added_at": "2026-09-18 07:48:23",
+      "album": {
+        "name": "What About Now",
+        "url": "https://open.spotify.com/album/4myIM1idgTbgMWXLChmzd6"
+      },
+      "artists": [
+        {
+          "name": "Gemma Cox",
+          "url": "https://open.spotify.com/artist/5UHDRNiF6EMuzrtSq7tbXF"
+        }
+      ],
+      "duration_ms": 214393,
+      "name": "What About Now",
+      "url": "https://open.spotify.com/track/0Fk4WKxOlbysiPIVARm0Lu"
     }
   ],
   "unique_name": "New Indie Music",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 
 > Let's fall into the K\-인디 tracks from Korea's thriving indie scene\. \(Cover: The Volunteers\)  \(최신곡을 포함한 국내 인디곡들을 만나보세요!\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 518,341 likes - 51 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 518,332 likes - 51 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -60,4 +60,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdTb8AG95jne.md) - [plain]
 | 50 | [Come to me](https://open.spotify.com/track/51AT2GdTdgyEG0D1w4AO2j) | [Park Chan Young](https://open.spotify.com/artist/4lqCOKaW6ZcRwDL6yEJJo9) | [Gaze](https://open.spotify.com/album/7op95Ju7RNmMABUncVzglj) | 3:03 |
 | 51 | [Violet](https://open.spotify.com/track/7L84lVh5grXqZqm89UO4fa) | [DORI](https://open.spotify.com/artist/5n32uEk7HdSYRqZbiSyj13) | [Violet](https://open.spotify.com/album/3PXpdozwDXn1QzL8XwQas0) | 3:11 |
 
-Snapshot ID: `AAAAACruR7WVKSXcjd/s9cfhZFprnMgT`
+Snapshot ID: `AAAAACrxQ/eBnD579CivyhMXzJl2TQqO`

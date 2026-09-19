@@ -4,7 +4,7 @@
 
 > This is Raveena\. The essential tracks, all in one playlist.
 
-67 songs - 3 hr 57 min
+68 songs - 4 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,6 +12,7 @@
 | [Afternoon Tea with the Auroras \(Interlude\)](https://open.spotify.com/track/0qB0x66qsoE7Ja4iZpDzcR) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 0:35 | 2025-03-06 | 2026-04-18 |
 | [Baby Mama](https://open.spotify.com/track/1zegJDoCVOHIgQmGGSZriW) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain](https://open.spotify.com/album/4vbhdsO89cvNkFlHoQ9D9p) | 3:53 | 2024-06-17 |  |
 | [Baby Mama](https://open.spotify.com/track/3eEnjCOIKOV4nBpcG8aixD) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Where the Butterflies Go in the Rain \(Deluxe\)](https://open.spotify.com/album/46niQnejkKyyKyFIt8isDA) | 3:53 | 2025-03-18 | 2025-09-22 |
+| [Blissed Out](https://open.spotify.com/track/1v3fjHaMNoXYMntxhpUIcF) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Blissed Out](https://open.spotify.com/album/3NDxs3nvQvDUlm8YcFDTbd) | 3:58 | 2026-09-19 |  |
 | [Bloom \(feat\. Raveena\)](https://open.spotify.com/track/5dwzLRsxlFK7RhULlsSROb) | [Prateek Kuhad](https://open.spotify.com/artist/0tC995Rfn9k2l7nqgCZsV7), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [The Way That Lovers Do \(Deluxe\)](https://open.spotify.com/album/6C2VRR7GTljLTkakd8EZ1N) | 3:41 | 2023-05-20 |  |
 | [Blunt Talk \(feat\. Nacho Picasso & Raveena\)](https://open.spotify.com/track/4ZNM7r3IbFeJLGouDG79ze) | [Brothers From Another](https://open.spotify.com/artist/7EBy1PkMgjQ9H5qroSGC8P), [Nacho Picasso](https://open.spotify.com/artist/5oib7h2INOpWPRLaSQxdY0), [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [This Summer](https://open.spotify.com/album/3ETbunFdPVpvzcyuRG1zO8) | 3:58 | 2023-11-10 | 2024-06-17 |
 | [Close 2 U](https://open.spotify.com/track/7rgvhF2a3WjRkRtx2lndyc) | [Raveena](https://open.spotify.com/artist/2kQnsbKnIiMahOetwlfcaS) | [Moonstone EP](https://open.spotify.com/album/0YdgyT5LFI48qP4bo6Rd74) | 3:59 | 2023-05-02 |  |

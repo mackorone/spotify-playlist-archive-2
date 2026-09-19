@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 
 > Hottest indie sounds from Asia\. Cover: HUGEN \(Japan\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,871 likes - 100 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,882 likes - 100 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXQXM7agvwjO.md) - [plain]
 | 99 | [Always Been Friends](https://open.spotify.com/track/4mOK3rmh5504AJjfw7SznD) | [Patinda](https://open.spotify.com/artist/0phlhzC4Oi9uh5yJCFQtdH) | [Always Been Friends](https://open.spotify.com/album/43NgCDl95R5m5E9cxoRhnQ) | 3:04 |
 | 100 | [moody](https://open.spotify.com/track/2L1W7BoVajQJxiuNmhGOlD) | [Thịnh Suy](https://open.spotify.com/artist/2xK6qcvfXuFFbU0NL95aeo) | [moody](https://open.spotify.com/album/3pt1EcqfVLgp2aI8sbfgOr) | 2:36 |
 
-Snapshot ID: `AAAAAP387EotVWEhxIOREL8SJmCyxr7E`
+Snapshot ID: `AAAAACZ3JLKsZXGNb9n/MpZfYLL6nYYi`
