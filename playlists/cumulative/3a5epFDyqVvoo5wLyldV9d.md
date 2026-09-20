@@ -4,7 +4,7 @@
 
 > 
 
-924 songs - 3 day 0 hr 31 min
+925 songs - 3 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -438,6 +438,7 @@
 | [Little Sunflower](https://open.spotify.com/track/3A6e928yOFJ0MhlG7xrFDW) | [Dorothy Ashby](https://open.spotify.com/artist/0dAZ2slrElfR0Y5flcoSPt) | [Afro\-Harping](https://open.spotify.com/album/1XEPKavl3nlI2qVt8HuA5n) | 3:45 | 2020-12-14 |  |
 | [Llorando \(Crying\) \- Original Motion Picture Soundtrack](https://open.spotify.com/track/17ClJ1OdG6O7pceGRx2nQL) | [Rebekah Del Rio](https://open.spotify.com/artist/4MmPhSWzK6ksBGuUNLqSQc) | [Mulholland Drive \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qNp6CS2TGgILNtajSeGwC) | 3:33 | 2026-09-13 |  |
 | [Loa Loa](https://open.spotify.com/track/7sfsyQg9AZfbnAnhkiP7rN) | [Nouvelle Vague](https://open.spotify.com/artist/6N0eg8e2YrVbJaV6K6F3A8) | [Let's Get Together](https://open.spotify.com/album/3lCaOK7i3Nh4qOoc8tChFS) | 5:54 | 2023-07-17 |  |
+| [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 | 2026-09-19 |  |
 | [Loco](https://open.spotify.com/track/5sR8QlZ63YSyrbOIUdqHFt) | [Héctor Lavoe](https://open.spotify.com/artist/7opp16lU7VM3l2WBdGMYHP) | [Strikes Back](https://open.spotify.com/album/7Md5THG87FW26Tqf0siYWP) | 5:25 | 2022-01-06 |  |
 | [Lokognolo](https://open.spotify.com/track/1kGgfMfE884VVKc1q4sa4t) | [Bebe Manga](https://open.spotify.com/artist/1memK9vKb8XlJ57toAUkMV) | [Ami / Oyomiya](https://open.spotify.com/album/5PwKWho58El5sWnSU4T1vH) | 4:23 | 2024-01-25 |  |
 | [Lotus 72 D](https://open.spotify.com/track/25JrVa0pOZhb4WvuCK1JVk) | [Zé Roberto](https://open.spotify.com/artist/18pOC3dikx4dLs5znHrZJZ) | [Lotus 72 D](https://open.spotify.com/album/5WSJRs0TjAxxljSfLQZ2ai) | 3:12 | 2020-11-24 |  |

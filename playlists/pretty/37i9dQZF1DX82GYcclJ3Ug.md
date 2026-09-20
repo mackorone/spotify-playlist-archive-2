@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX82GYcclJ3Ug.md) - [plain]
 
 > No rules\. No boundaries\. The best new alternative tracks\. Cover: The Bends
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,231,959 likes - 155 songs - 8 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,231,964 likes - 155 songs - 8 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

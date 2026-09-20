@@ -1,12 +1,12 @@
 {
   "description": "This is Bob Marley & The Wailers. The essential tracks, all in one playlist.",
-  "num_followers": 2073487,
+  "num_followers": 2073484,
   "original_name": "This Is Bob Marley & The Wailers",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqstgAAAAAC2jBd1jsRgSNTwEJrdl1sk",
+  "snapshot_id": "aqx/AAAAAACkBn+gadxmKss9CKJKMkV9",
   "tracks": [
     {
       "added_at": null,
@@ -23,6 +23,26 @@
       "duration_ms": 248556,
       "name": "Trenchtown Rock - Live At The Hammersmith Odeon, London, UK - June, 1976",
       "url": "https://open.spotify.com/track/2tDAKitkEAzVCmiFRGYEj9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who The Cap Fit (Salaam Remi Remix)",
+        "url": "https://open.spotify.com/album/1BmFRxLAVmJiAXTWJ1E4l1"
+      },
+      "artists": [
+        {
+          "name": "Bob Marley & The Wailers",
+          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
+        },
+        {
+          "name": "Salaam Remi",
+          "url": "https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN"
+        }
+      ],
+      "duration_ms": 277818,
+      "name": "Who The Cap Fit - Salaam Remi Remix",
+      "url": "https://open.spotify.com/track/50oa8fpOHwZQ3usLSh3DUO"
     },
     {
       "added_at": null,
@@ -635,22 +655,6 @@
       "duration_ms": 188026,
       "name": "So Much Things To Say",
       "url": "https://open.spotify.com/track/2ULRNZ4FbMQj4FVpFkUmNM"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Rastaman Vibration",
-        "url": "https://open.spotify.com/album/6Gdf5vvFmoEwcsEV61tXiT"
-      },
-      "artists": [
-        {
-          "name": "Bob Marley & The Wailers",
-          "url": "https://open.spotify.com/artist/2QsynagSdAqZj3U9HgDzjD"
-        }
-      ],
-      "duration_ms": 283066,
-      "name": "Who The Cap Fit",
-      "url": "https://open.spotify.com/track/2cYAd7BJIOj4Y0pU5Pyesc"
     },
     {
       "added_at": null,

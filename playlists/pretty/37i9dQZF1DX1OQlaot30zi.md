@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 
 > Sempre aggiornata 😈 Con nuovi brani di Khodi e Flaco, 22simba, Palazzi d'Oriente con Massimo Pericolo, Young Hash e tanti altri
 
-[Spotify](https://open.spotify.com/user/spotify) - 56,145 likes - 85 songs - 3 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 56,150 likes - 85 songs - 3 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -30,7 +30,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1OQlaot30zi.md) - [plain]
 | 20 | [Normale](https://open.spotify.com/track/3tj4GAxiQes5FJpLuaLRhW) | [8blevrai](https://open.spotify.com/artist/0JTyCMDiDRxnkcDYhcB93D) | [Normale](https://open.spotify.com/album/3Z2sukcWDfPwxvPUHbcgAW) | 2:41 |
 | 21 | [Intro \- Pazienza](https://open.spotify.com/track/3B3LKAMVOyNSEedCZ5oMBX) | [SABRI DERO](https://open.spotify.com/artist/6WdkL2tDPviFRoZxZjmUME) | [Intro \- Pazienza](https://open.spotify.com/album/4KvXvNMcYHxcsJ3zj3U9K2) | 2:04 |
 | 22 | [Music](https://open.spotify.com/track/3kSI40mmgcm2vmummQnMGo) | [JayBee Vibes](https://open.spotify.com/artist/4TslEBXhLma8JY9A6HeD50), [Mistaman](https://open.spotify.com/artist/58NmlBgLNN4d5gMVfnZT3Q), [Frank Siciliano](https://open.spotify.com/artist/139jT21pngPk9iHp4dlno3) | [Music](https://open.spotify.com/album/6EvtpKRTdPbCiH9wAwRS9z) | 2:05 |
-| 23 | [Cronokillaz](https://open.spotify.com/track/2DwqLyYHC2yijGGy2kdvNU) | [Suarez](https://open.spotify.com/artist/4RQg3XS9n0arqNyqIIjIFI), [Danno](https://open.spotify.com/artist/6KlsX5XebNQOfcSSQ45lqN) | [PILLS](https://open.spotify.com/album/4mPhjlUETarovKFt4jZLQu) | 4:57 |
+| 23 | [Cronokillaz](https://open.spotify.com/track/2DwqLyYHC2yijGGy2kdvNU) | [Suarez](https://open.spotify.com/artist/4RQg3XS9n0arqNyqIIjIFI), [Danno](https://open.spotify.com/artist/1p3PtfvP25EJoUawmfPvUQ) | [PILLS](https://open.spotify.com/album/4mPhjlUETarovKFt4jZLQu) | 4:57 |
 | 24 | [Urgenza!](https://open.spotify.com/track/2VHcvZJGfw9G7ZfCLGwPgz) | [DJ Fede](https://open.spotify.com/artist/7Jvp6QTJqEQqdRXP389Pm8), [Cricca Dei Balordi](https://open.spotify.com/artist/2ABQVj6lXu0Zf7rxC3vrAN), [Dj Zeta](https://open.spotify.com/artist/0igQlEtSvEt9px4qy91gSU) | [Urgenza!](https://open.spotify.com/album/4Xbiz5t3329EKeL5Lm6czp) | 2:58 |
 | 25 | [kris e noelle](https://open.spotify.com/track/1PTDEMOoWvnM1PmKexuJjc) | [Narcolessia](https://open.spotify.com/artist/1haMWb1Zbd8XYPfLJOCEmS) | [kris e noelle](https://open.spotify.com/album/2moSGJAMm74jEZSS4YlF5v) | 1:44 |
 | 26 | [ROMA ODIA](https://open.spotify.com/track/5IBKvmU2PDIqkOLMiyhfZ8) | [polemica](https://open.spotify.com/artist/43hzLhwtbiqp35sdVTMpqE), [kasp](https://open.spotify.com/artist/048NuaV1oQuPYY6sgEcsDG) | [ROMA ODIA](https://open.spotify.com/album/1Sz8KSjp6WewAPAhVx4hcM) | 2:37 |

@@ -1,12 +1,12 @@
 {
   "description": "Best blends of Electronic music across Africa. Cover: Big Nyagz & Tina Ardor",
-  "num_followers": 11974,
+  "num_followers": 11982,
   "original_name": "Oontz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAKaWKcwQR465lT9G9dbDVq3Hu2Lf",
+  "snapshot_id": "AAAAAKkxERpI1t1H4p3djzeCrd2PDFEs",
   "tracks": [
     {
       "added_at": "2026-09-11 00:59:21",
@@ -215,6 +215,26 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
+        "name": "Rundo Wiya (Reconstructed)",
+        "url": "https://open.spotify.com/album/0xJLIU6EpHAoG1yKwaHSf6"
+      },
+      "artists": [
+        {
+          "name": "bahkin",
+          "url": "https://open.spotify.com/artist/2pWUpdZQ5MnDrEpTa72988"
+        },
+        {
+          "name": "Oduh Orlando",
+          "url": "https://open.spotify.com/artist/6Fq61ssDD8RBbBDSg6aHt9"
+        }
+      ],
+      "duration_ms": 189677,
+      "name": "Rundo Wiya (Reconstructed)",
+      "url": "https://open.spotify.com/track/4YDZHuMG5Tee1EJudOrbh6"
+    },
+    {
+      "added_at": "2026-09-11 00:59:21",
+      "album": {
         "name": "I WON'T LET YOU GO",
         "url": "https://open.spotify.com/album/1aVxK0Q8eQKGXB37owdbBY"
       },
@@ -239,26 +259,6 @@
       "duration_ms": 121034,
       "name": "I WON'T LET YOU GO",
       "url": "https://open.spotify.com/track/1BwEuOtGXWWRdzP0nmLuRk"
-    },
-    {
-      "added_at": "2026-09-11 00:59:21",
-      "album": {
-        "name": "Rundo Wiya (Reconstructed)",
-        "url": "https://open.spotify.com/album/0xJLIU6EpHAoG1yKwaHSf6"
-      },
-      "artists": [
-        {
-          "name": "bahkin",
-          "url": "https://open.spotify.com/artist/2pWUpdZQ5MnDrEpTa72988"
-        },
-        {
-          "name": "Oduh Orlando",
-          "url": "https://open.spotify.com/artist/6Fq61ssDD8RBbBDSg6aHt9"
-        }
-      ],
-      "duration_ms": 189677,
-      "name": "Rundo Wiya (Reconstructed)",
-      "url": "https://open.spotify.com/track/4YDZHuMG5Tee1EJudOrbh6"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -339,30 +339,6 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
-        "name": "CLOSE",
-        "url": "https://open.spotify.com/album/0Rs5cWNh3a0rDO9awmYfG0"
-      },
-      "artists": [
-        {
-          "name": "Palm Brothers",
-          "url": "https://open.spotify.com/artist/3UZp3SJMqLmvdbYXv2vYoq"
-        },
-        {
-          "name": "Selfmode",
-          "url": "https://open.spotify.com/artist/12AEq0j5KPcuypzbbSJicX"
-        },
-        {
-          "name": "Am\u00e8",
-          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
-        }
-      ],
-      "duration_ms": 123000,
-      "name": "CLOSE",
-      "url": "https://open.spotify.com/track/1kXgeD352yqLhIiiQw3YQz"
-    },
-    {
-      "added_at": "2026-09-11 00:59:21",
-      "album": {
         "name": "starry eyes",
         "url": "https://open.spotify.com/album/0tuz8EWdPCBjUBMgPuZZtk"
       },
@@ -383,6 +359,30 @@
       "duration_ms": 184000,
       "name": "starry eyes",
       "url": "https://open.spotify.com/track/0LiCuKbMYM2pF00U502RH7"
+    },
+    {
+      "added_at": "2026-09-11 00:59:21",
+      "album": {
+        "name": "CLOSE",
+        "url": "https://open.spotify.com/album/0Rs5cWNh3a0rDO9awmYfG0"
+      },
+      "artists": [
+        {
+          "name": "Palm Brothers",
+          "url": "https://open.spotify.com/artist/3UZp3SJMqLmvdbYXv2vYoq"
+        },
+        {
+          "name": "Selfmode",
+          "url": "https://open.spotify.com/artist/12AEq0j5KPcuypzbbSJicX"
+        },
+        {
+          "name": "Am\u00e8",
+          "url": "https://open.spotify.com/artist/4ZDy00OJc2hPCB4D5hrvFD"
+        }
+      ],
+      "duration_ms": 123000,
+      "name": "CLOSE",
+      "url": "https://open.spotify.com/track/1kXgeD352yqLhIiiQw3YQz"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -751,26 +751,6 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
-        "name": "Electric Love EP",
-        "url": "https://open.spotify.com/album/50DUc3EsXB3Cz3X1jwjS63"
-      },
-      "artists": [
-        {
-          "name": "Aiwaska",
-          "url": "https://open.spotify.com/artist/3VqggSPrC7SFYDSd6DN6DN"
-        },
-        {
-          "name": "Starving Yet Full",
-          "url": "https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a"
-        }
-      ],
-      "duration_ms": 202000,
-      "name": "Electric Love",
-      "url": "https://open.spotify.com/track/5nVEPDyYsz8dkOil8nSICd"
-    },
-    {
-      "added_at": "2026-09-11 00:59:21",
-      "album": {
         "name": "Closer",
         "url": "https://open.spotify.com/album/78fVXahvUO9sKQqsptYthB"
       },
@@ -791,6 +771,26 @@
       "duration_ms": 155409,
       "name": "Closer",
       "url": "https://open.spotify.com/track/4Pqume6IMFJO51bv9v3Joz"
+    },
+    {
+      "added_at": "2026-09-11 00:59:21",
+      "album": {
+        "name": "Electric Love EP",
+        "url": "https://open.spotify.com/album/50DUc3EsXB3Cz3X1jwjS63"
+      },
+      "artists": [
+        {
+          "name": "Aiwaska",
+          "url": "https://open.spotify.com/artist/3VqggSPrC7SFYDSd6DN6DN"
+        },
+        {
+          "name": "Starving Yet Full",
+          "url": "https://open.spotify.com/artist/49ukBTxilLygQEjsB6Gd1a"
+        }
+      ],
+      "duration_ms": 202000,
+      "name": "Electric Love",
+      "url": "https://open.spotify.com/track/5nVEPDyYsz8dkOil8nSICd"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -879,30 +879,6 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
-        "name": "Osele La",
-        "url": "https://open.spotify.com/album/4kOyH9HCPtcx2OGtBimOio"
-      },
-      "artists": [
-        {
-          "name": "Koceila Chougar",
-          "url": "https://open.spotify.com/artist/6HjDnaMCDzaWLyQ9aVWeg7"
-        },
-        {
-          "name": "CHUMA",
-          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
-        },
-        {
-          "name": "DJ Kabila",
-          "url": "https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K"
-        }
-      ],
-      "duration_ms": 352062,
-      "name": "Osele La",
-      "url": "https://open.spotify.com/track/3BzrmtpBgP2W8WQv6c3V00"
-    },
-    {
-      "added_at": "2026-09-11 00:59:21",
-      "album": {
         "name": "Nishike (Alex Esser Remix)",
         "url": "https://open.spotify.com/album/0tqGvQps3gDsoe2PC7SgYZ"
       },
@@ -923,6 +899,30 @@
       "duration_ms": 381639,
       "name": "Nishike - Alex Esser Remix",
       "url": "https://open.spotify.com/track/1a6jMlkL9mK76FagJfPtuw"
+    },
+    {
+      "added_at": "2026-09-11 00:59:21",
+      "album": {
+        "name": "Osele La",
+        "url": "https://open.spotify.com/album/4kOyH9HCPtcx2OGtBimOio"
+      },
+      "artists": [
+        {
+          "name": "Koceila Chougar",
+          "url": "https://open.spotify.com/artist/6HjDnaMCDzaWLyQ9aVWeg7"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+        },
+        {
+          "name": "DJ Kabila",
+          "url": "https://open.spotify.com/artist/7iweQ4hUpLLRpSyQmY2J2K"
+        }
+      ],
+      "duration_ms": 352062,
+      "name": "Osele La",
+      "url": "https://open.spotify.com/track/3BzrmtpBgP2W8WQv6c3V00"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -979,26 +979,42 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
-        "name": "Moloko",
-        "url": "https://open.spotify.com/album/5GkKg65bjYUr6H3QraR06l"
+        "name": "Hinya",
+        "url": "https://open.spotify.com/album/3MSlg3XEQ7SqngUj8ydFFj"
       },
       "artists": [
         {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+          "name": "Darque",
+          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
         },
         {
-          "name": "Koceila Chougar",
-          "url": "https://open.spotify.com/artist/6HjDnaMCDzaWLyQ9aVWeg7"
-        },
-        {
-          "name": "Bijoy",
-          "url": "https://open.spotify.com/artist/64hO4ng44CisYirBSB64za"
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
         }
       ],
-      "duration_ms": 325750,
-      "name": "Moloko",
-      "url": "https://open.spotify.com/track/3L4ROVuQkz2qu69iUZzVDM"
+      "duration_ms": 269000,
+      "name": "Hinya",
+      "url": "https://open.spotify.com/track/2upEeHi6BpNzyv3mlszrgP"
+    },
+    {
+      "added_at": "2026-09-11 00:59:21",
+      "album": {
+        "name": "Dondosa",
+        "url": "https://open.spotify.com/album/2uD6MN8CkZ3a3kMWBqeAqN"
+      },
+      "artists": [
+        {
+          "name": "DJ Gibbzy",
+          "url": "https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB"
+        },
+        {
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+        }
+      ],
+      "duration_ms": 289875,
+      "name": "Dondosa",
+      "url": "https://open.spotify.com/track/40t35iaCINkLwmrAXquv0D"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -1027,22 +1043,26 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
-        "name": "Hinya",
-        "url": "https://open.spotify.com/album/3MSlg3XEQ7SqngUj8ydFFj"
+        "name": "Moloko",
+        "url": "https://open.spotify.com/album/5GkKg65bjYUr6H3QraR06l"
       },
       "artists": [
         {
-          "name": "Darque",
-          "url": "https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105"
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
         },
         {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
+          "name": "Koceila Chougar",
+          "url": "https://open.spotify.com/artist/6HjDnaMCDzaWLyQ9aVWeg7"
+        },
+        {
+          "name": "Bijoy",
+          "url": "https://open.spotify.com/artist/64hO4ng44CisYirBSB64za"
         }
       ],
-      "duration_ms": 269000,
-      "name": "Hinya",
-      "url": "https://open.spotify.com/track/2upEeHi6BpNzyv3mlszrgP"
+      "duration_ms": 325750,
+      "name": "Moloko",
+      "url": "https://open.spotify.com/track/3L4ROVuQkz2qu69iUZzVDM"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -1071,6 +1091,30 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
+        "name": "Rattlesnake",
+        "url": "https://open.spotify.com/album/3u0ukS6I1XMlwLxUBlf6VV"
+      },
+      "artists": [
+        {
+          "name": "Aahil",
+          "url": "https://open.spotify.com/artist/7p8qDVof1pxZoldqfG3Se3"
+        },
+        {
+          "name": "Dylan-S",
+          "url": "https://open.spotify.com/artist/176vNYtXl88Q9b3N683c6O"
+        },
+        {
+          "name": "Cordoban",
+          "url": "https://open.spotify.com/artist/3IcPBOoE1lbDlX8Uh5yoqH"
+        }
+      ],
+      "duration_ms": 246100,
+      "name": "Rattlesnake",
+      "url": "https://open.spotify.com/track/5j7Y6BNujbpkmsCdRT4Q6n"
+    },
+    {
+      "added_at": "2026-09-11 00:59:21",
+      "album": {
         "name": "DAWA (REMIX)",
         "url": "https://open.spotify.com/album/15wlcM2Hl8Pf8jReqmK1yt"
       },
@@ -1091,6 +1135,26 @@
       "duration_ms": 236065,
       "name": "DAWA - REMIX",
       "url": "https://open.spotify.com/track/3r0n4hAR2n8GYTn63NCt7J"
+    },
+    {
+      "added_at": "2026-09-11 00:59:21",
+      "album": {
+        "name": "Hewa",
+        "url": "https://open.spotify.com/album/37VkK6pODbojC0gyi5At0S"
+      },
+      "artists": [
+        {
+          "name": "Sohno",
+          "url": "https://open.spotify.com/artist/16gx3wfHLBqAFtI4NjtiZP"
+        },
+        {
+          "name": "Idd Aziz",
+          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
+        }
+      ],
+      "duration_ms": 193170,
+      "name": "Hewa",
+      "url": "https://open.spotify.com/track/6QRS2DLiuCgmP2mLaXpVRB"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -1119,50 +1183,6 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
-        "name": "Rattlesnake",
-        "url": "https://open.spotify.com/album/3u0ukS6I1XMlwLxUBlf6VV"
-      },
-      "artists": [
-        {
-          "name": "Aahil",
-          "url": "https://open.spotify.com/artist/7p8qDVof1pxZoldqfG3Se3"
-        },
-        {
-          "name": "Dylan-S",
-          "url": "https://open.spotify.com/artist/176vNYtXl88Q9b3N683c6O"
-        },
-        {
-          "name": "Cordoban",
-          "url": "https://open.spotify.com/artist/3IcPBOoE1lbDlX8Uh5yoqH"
-        }
-      ],
-      "duration_ms": 246100,
-      "name": "Rattlesnake",
-      "url": "https://open.spotify.com/track/5j7Y6BNujbpkmsCdRT4Q6n"
-    },
-    {
-      "added_at": "2026-09-11 00:59:21",
-      "album": {
-        "name": "Dondosa",
-        "url": "https://open.spotify.com/album/2uD6MN8CkZ3a3kMWBqeAqN"
-      },
-      "artists": [
-        {
-          "name": "DJ Gibbzy",
-          "url": "https://open.spotify.com/artist/4z7q6esJcWzVOjVZvP9ZtB"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        }
-      ],
-      "duration_ms": 289875,
-      "name": "Dondosa",
-      "url": "https://open.spotify.com/track/40t35iaCINkLwmrAXquv0D"
-    },
-    {
-      "added_at": "2026-09-11 00:59:21",
-      "album": {
         "name": "Balenciaga",
         "url": "https://open.spotify.com/album/3gAEPGooWV087H3Ji9IK3a"
       },
@@ -1183,26 +1203,6 @@
       "duration_ms": 396000,
       "name": "Balenciaga",
       "url": "https://open.spotify.com/track/3QZwPykNkT6MQQci6CAj24"
-    },
-    {
-      "added_at": "2026-09-11 00:59:21",
-      "album": {
-        "name": "Hewa",
-        "url": "https://open.spotify.com/album/37VkK6pODbojC0gyi5At0S"
-      },
-      "artists": [
-        {
-          "name": "Sohno",
-          "url": "https://open.spotify.com/artist/16gx3wfHLBqAFtI4NjtiZP"
-        },
-        {
-          "name": "Idd Aziz",
-          "url": "https://open.spotify.com/artist/0LC3HTEh3afI3UfpmSdShk"
-        }
-      ],
-      "duration_ms": 193170,
-      "name": "Hewa",
-      "url": "https://open.spotify.com/track/6QRS2DLiuCgmP2mLaXpVRB"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -1379,6 +1379,26 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
+        "name": "Can't Stop",
+        "url": "https://open.spotify.com/album/2lrJe9G7mim9vUDj75aIuP"
+      },
+      "artists": [
+        {
+          "name": "Alex Twin",
+          "url": "https://open.spotify.com/artist/3YzcwG8LdA8qHUFZmpSqIS"
+        },
+        {
+          "name": "Dairo",
+          "url": "https://open.spotify.com/artist/2vdaUz7go86rM6uPV7EpDC"
+        }
+      ],
+      "duration_ms": 193863,
+      "name": "Can't Stop",
+      "url": "https://open.spotify.com/track/7tozDPUM72bn5mgCtHquKK"
+    },
+    {
+      "added_at": "2026-09-11 00:59:21",
+      "album": {
         "name": "Nishike (Dandara Remix)",
         "url": "https://open.spotify.com/album/3Bl8FCDUNwyLV7kiiAJyHH"
       },
@@ -1399,26 +1419,6 @@
       "duration_ms": 324000,
       "name": "Nishike - Dandara Remix",
       "url": "https://open.spotify.com/track/13MRWh5A5PgcGzaMDCiVEC"
-    },
-    {
-      "added_at": "2026-09-11 00:59:21",
-      "album": {
-        "name": "Can't Stop",
-        "url": "https://open.spotify.com/album/2lrJe9G7mim9vUDj75aIuP"
-      },
-      "artists": [
-        {
-          "name": "Alex Twin",
-          "url": "https://open.spotify.com/artist/3YzcwG8LdA8qHUFZmpSqIS"
-        },
-        {
-          "name": "Dairo",
-          "url": "https://open.spotify.com/artist/2vdaUz7go86rM6uPV7EpDC"
-        }
-      ],
-      "duration_ms": 193863,
-      "name": "Can't Stop",
-      "url": "https://open.spotify.com/track/7tozDPUM72bn5mgCtHquKK"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -1475,26 +1475,6 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
-        "name": "PILIPILI",
-        "url": "https://open.spotify.com/album/6PrhVGGZFCNwQ1wv8nEdMP"
-      },
-      "artists": [
-        {
-          "name": "Tina Ardor",
-          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
-        },
-        {
-          "name": "Hendrick Sam",
-          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
-        }
-      ],
-      "duration_ms": 321391,
-      "name": "Pilipili",
-      "url": "https://open.spotify.com/track/65w3FtXtziGjst2FoNaUpg"
-    },
-    {
-      "added_at": "2026-09-11 00:59:21",
-      "album": {
         "name": "Naipata (432 Hz)",
         "url": "https://open.spotify.com/album/5Lj83S3sQyx74t3qiKSmSK"
       },
@@ -1539,6 +1519,26 @@
       "duration_ms": 142000,
       "name": "Please",
       "url": "https://open.spotify.com/track/25Sl4iKGi1dtuQkfNPCfa8"
+    },
+    {
+      "added_at": "2026-09-11 00:59:21",
+      "album": {
+        "name": "PILIPILI",
+        "url": "https://open.spotify.com/album/6PrhVGGZFCNwQ1wv8nEdMP"
+      },
+      "artists": [
+        {
+          "name": "Tina Ardor",
+          "url": "https://open.spotify.com/artist/6PfUzWVHGENDyfBVEYNIZD"
+        },
+        {
+          "name": "Hendrick Sam",
+          "url": "https://open.spotify.com/artist/3JCq2a0rntSwS9gtnhfNO9"
+        }
+      ],
+      "duration_ms": 321391,
+      "name": "Pilipili",
+      "url": "https://open.spotify.com/track/65w3FtXtziGjst2FoNaUpg"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -1739,6 +1739,34 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
+        "name": "Kesho Tamu (Rameff Original Remix)",
+        "url": "https://open.spotify.com/album/27J66HrCJkI4YwcchlZs0t"
+      },
+      "artists": [
+        {
+          "name": "TALULAH",
+          "url": "https://open.spotify.com/artist/1K8uicuoMqnSpi6TXUZboZ"
+        },
+        {
+          "name": "Cafe De Anatolia",
+          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
+        },
+        {
+          "name": "RAMEFF",
+          "url": "https://open.spotify.com/artist/0DWY0d4hBQovhQ9hMc41tv"
+        },
+        {
+          "name": "CHUMA",
+          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+        }
+      ],
+      "duration_ms": 295161,
+      "name": "Kesho Tamu - Rameff Original Remix",
+      "url": "https://open.spotify.com/track/1Fkuw99wHMgc86LHOHKrG8"
+    },
+    {
+      "added_at": "2026-09-11 00:59:21",
+      "album": {
         "name": "Mbali",
         "url": "https://open.spotify.com/album/3XXFxvRyB0YJI4sAKwLrhM"
       },
@@ -1755,26 +1783,6 @@
       "duration_ms": 240000,
       "name": "Mbali - Radio Edit",
       "url": "https://open.spotify.com/track/6H7Idb6FZCqTTAUIPJcRwE"
-    },
-    {
-      "added_at": "2026-09-11 00:59:21",
-      "album": {
-        "name": "Giza",
-        "url": "https://open.spotify.com/album/4AUtp39A3ghxTjyfJvaWpf"
-      },
-      "artists": [
-        {
-          "name": "VG",
-          "url": "https://open.spotify.com/artist/6VtVUN99fMMMR60NUOOFkd"
-        },
-        {
-          "name": "Nes Mburu",
-          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
-        }
-      ],
-      "duration_ms": 381639,
-      "name": "Giza",
-      "url": "https://open.spotify.com/track/6D55YglkaOhDTgTcF2zOzL"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -1807,30 +1815,22 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
-        "name": "Kesho Tamu (Rameff Original Remix)",
-        "url": "https://open.spotify.com/album/27J66HrCJkI4YwcchlZs0t"
+        "name": "Giza",
+        "url": "https://open.spotify.com/album/4AUtp39A3ghxTjyfJvaWpf"
       },
       "artists": [
         {
-          "name": "TALULAH",
-          "url": "https://open.spotify.com/artist/1K8uicuoMqnSpi6TXUZboZ"
+          "name": "VG",
+          "url": "https://open.spotify.com/artist/6VtVUN99fMMMR60NUOOFkd"
         },
         {
-          "name": "Cafe De Anatolia",
-          "url": "https://open.spotify.com/artist/2sSSGlRMfz4ZEcw4rw0m0v"
-        },
-        {
-          "name": "RAMEFF",
-          "url": "https://open.spotify.com/artist/0DWY0d4hBQovhQ9hMc41tv"
-        },
-        {
-          "name": "CHUMA",
-          "url": "https://open.spotify.com/artist/2cyxYStUJ7WELIWGNf7TKs"
+          "name": "Nes Mburu",
+          "url": "https://open.spotify.com/artist/4eSWV55CmWTtNPVsNEp9dd"
         }
       ],
-      "duration_ms": 295161,
-      "name": "Kesho Tamu - Rameff Original Remix",
-      "url": "https://open.spotify.com/track/1Fkuw99wHMgc86LHOHKrG8"
+      "duration_ms": 381639,
+      "name": "Giza",
+      "url": "https://open.spotify.com/track/6D55YglkaOhDTgTcF2zOzL"
     },
     {
       "added_at": "2026-09-11 00:59:21",
@@ -2139,30 +2139,6 @@
     {
       "added_at": "2026-09-11 00:59:21",
       "album": {
-        "name": "Canto",
-        "url": "https://open.spotify.com/album/4Pt9pz83V9giJ5K0qn0EkY"
-      },
-      "artists": [
-        {
-          "name": "Dual Beat",
-          "url": "https://open.spotify.com/artist/0MPPw4tjpM25hY0X5aGktZ"
-        },
-        {
-          "name": "Kieloh",
-          "url": "https://open.spotify.com/artist/33dffHQPA91Q0T0lkyG781"
-        },
-        {
-          "name": "Tito Monako",
-          "url": "https://open.spotify.com/artist/0QjXhvnUioV2bhmMRcOvPE"
-        }
-      ],
-      "duration_ms": 220487,
-      "name": "Canto",
-      "url": "https://open.spotify.com/track/46a4Q7RoRXwfUm7ee4Rh6F"
-    },
-    {
-      "added_at": "2026-09-11 00:59:21",
-      "album": {
         "name": "Asubuhi (Remixes)",
         "url": "https://open.spotify.com/album/2h2SI7dFlCUQwazGFQVCto"
       },
@@ -2207,6 +2183,30 @@
       "duration_ms": 272000,
       "name": "Chokoza",
       "url": "https://open.spotify.com/track/5Q5QqI5QKvofmHXn27NUYn"
+    },
+    {
+      "added_at": "2026-09-11 00:59:21",
+      "album": {
+        "name": "Canto",
+        "url": "https://open.spotify.com/album/4Pt9pz83V9giJ5K0qn0EkY"
+      },
+      "artists": [
+        {
+          "name": "Dual Beat",
+          "url": "https://open.spotify.com/artist/0MPPw4tjpM25hY0X5aGktZ"
+        },
+        {
+          "name": "Kieloh",
+          "url": "https://open.spotify.com/artist/33dffHQPA91Q0T0lkyG781"
+        },
+        {
+          "name": "Tito Monako",
+          "url": "https://open.spotify.com/artist/0QjXhvnUioV2bhmMRcOvPE"
+        }
+      ],
+      "duration_ms": 220487,
+      "name": "Canto",
+      "url": "https://open.spotify.com/track/46a4Q7RoRXwfUm7ee4Rh6F"
     },
     {
       "added_at": "2026-09-11 00:59:21",

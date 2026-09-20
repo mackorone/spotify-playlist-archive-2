@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 
 > 洋楽を中心に今週の新曲をチェック。ROSÉ, Dominic Fike, Miley, Travis Scott, Tove Lo and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,481 likes - 88 songs - 4 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,527 likes - 88 songs - 4 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 69 | [Met my match](https://open.spotify.com/track/6DgMjSTiKodctEfV68Azlf) | [Say Now](https://open.spotify.com/artist/1p6HheoJqfYMiMC62yQIWn) | [Met my match](https://open.spotify.com/album/4i2wPc2Q3tnFNzHrxz3XkO) | 2:45 |
 | 70 | [Yearning](https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Yearning](https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq) | 2:53 |
 | 71 | [ENOuGH](https://open.spotify.com/track/5u0P9lZspLPRwjd7X1NiY9) | [HONGJOONG](https://open.spotify.com/artist/3MZLSgcd5kOdhrZasDMecx), [Bazzi](https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl) | [ENOuGH](https://open.spotify.com/album/1E2ABDhLPdNQ0HZkErCshU) | 2:23 |
-| 72 | [Innocent Smile](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
+| 72 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 73 | [stabilizer](https://open.spotify.com/track/4w7d9o1bp3F2JSt8pcL9LC) | [Kianna](https://open.spotify.com/artist/2wM6DAxlafPtmscHoisdUl) | [Instinct](https://open.spotify.com/album/6YI3T1Fp18q8b7s7QM9pGs) | 1:32 |
 | 74 | [Error](https://open.spotify.com/track/0RrwVrlkomHDZDkCbaGMNu) | [MANON](https://open.spotify.com/artist/5RtQtz37rszKUaMg1GeUl3) | [Error](https://open.spotify.com/album/143dM0ClGJbBCPtIL4vvzp) | 2:32 |
 | 75 | [Learning By The Morning](https://open.spotify.com/track/1k2XPQ8AZcQtLsT4wiiIlf) | [India Shan](https://open.spotify.com/artist/5U7ed4eqjReC376kSJKfs8) | [Learning By The Morning](https://open.spotify.com/album/4pxgX6fkvQcNT03ZMsGSc6) | 2:42 |
@@ -87,7 +87,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc57cuGAMEkA.md) - [plain]
 | 77 | [Everyone \- ft SEES00000](https://open.spotify.com/track/7cBBbJy5xDzgllQYG6lUjQ) | [Jacques Greene](https://open.spotify.com/artist/0ygIgsjUzKivFgxgjQ9iV9), [SEES00000](https://open.spotify.com/artist/6w3jNIUXSNbtWXNnAiBK45) | [Everyone \(ft SEES00000\)](https://open.spotify.com/album/1D1FaFLjYIIHOrSS9fM5lW) | 3:53 |
 | 78 | [Silhouette](https://open.spotify.com/track/4rFhYeUPNbz32mWQBAmuVL) | [Stones Taro](https://open.spotify.com/artist/2lVqmVhV77js7wdmzUVdyB) | [Silhouette](https://open.spotify.com/album/2CnCifZMQG82YIR3jiw4FZ) | 5:12 |
 | 79 | [WE ALL](https://open.spotify.com/track/6HIleOC769QgceR8LDnTLM) | [JUBEE](https://open.spotify.com/artist/3NyJkvXLy5dg73SrT0ykba), [Masato Hayashi](https://open.spotify.com/artist/5j7m1n3HAdmbJoYMizwzk2) | [WE ALL](https://open.spotify.com/album/0CV0TNekCSBIh8BEuq686T) | 3:49 |
-| 80 | [ARATAMENA!](https://open.spotify.com/track/4jZnGMlxXXimSpnfAfx5eJ) | [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [ARATAMENA!](https://open.spotify.com/album/2EEh8P4rhfJfQhiDrsgX9P) | 2:46 |
+| 80 | [ARATAMENA! \(feat\. Yvng Patra\)](https://open.spotify.com/track/4jZnGMlxXXimSpnfAfx5eJ) | [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [ARATAMENA! \(feat\. Yvng Patra\)](https://open.spotify.com/album/2EEh8P4rhfJfQhiDrsgX9P) | 2:46 |
 | 81 | [俺の周り](https://open.spotify.com/track/3QU1GK49FmYkd1H9iB4mXg) | [Worldwide Skippa](https://open.spotify.com/artist/4jZVxu1P8ZnhEBdAAIyL2z) | [Skipping Tape Vol.5](https://open.spotify.com/album/4TX7b48kgCLWtrVfYKl7Co) | 3:39 |
 | 82 | [MUJER](https://open.spotify.com/track/3UnR5KeYbW8kCLc2jvTkfE) | [Mira Paula](https://open.spotify.com/artist/3TfdBFGkVIzaah1oktPRUy), [Natalia Lacunza](https://open.spotify.com/artist/3Zs59sqZJ6fWQqWbRC8bOP) | [MUJER](https://open.spotify.com/album/1oMPMh7snZQZPsghvZBvSt) | 3:30 |
 | 83 | [Hammock Portal](https://open.spotify.com/track/4d9R8yY8kkDoD5T5SJ1Ur5) | [Bibio](https://open.spotify.com/artist/0qzzGu8qpbXYpzgV52wOFT), [Dorian Concept](https://open.spotify.com/artist/2sriRQRt36DnfHtD68zZlj) | [Hammock Portal](https://open.spotify.com/album/423V2qCqNdxiFTnYOcV28i) | 4:23 |

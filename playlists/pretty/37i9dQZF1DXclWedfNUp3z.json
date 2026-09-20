@@ -1,6 +1,6 @@
 {
   "description": "Mellow vibrations for green leaves, green thumbs and green ears.",
-  "num_followers": 282022,
+  "num_followers": 282061,
   "original_name": "Music for Plants",
   "owner": {
     "name": "Spotify",
@@ -843,22 +843,6 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Subtle Vertigo",
-        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
-      },
-      "artists": [
-        {
-          "name": "Scott Gilmore",
-          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
-        }
-      ],
-      "duration_ms": 226965,
-      "name": "Europe",
-      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
         "name": "Music for Growing Plants",
         "url": "https://open.spotify.com/album/3QsGjN0ERhyBi1IxXpNxhM"
       },
@@ -871,6 +855,22 @@
       "duration_ms": 364133,
       "name": "Beginning, Becoming",
       "url": "https://open.spotify.com/track/3qhG4d1DcIqxxmdqXGBHu9"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
+        "name": "Subtle Vertigo",
+        "url": "https://open.spotify.com/album/5Q0m6tA2OUCmhhTYAwZimH"
+      },
+      "artists": [
+        {
+          "name": "Scott Gilmore",
+          "url": "https://open.spotify.com/artist/4VC1j6E8YdBgmSGCWYWtVN"
+        }
+      ],
+      "duration_ms": 226965,
+      "name": "Europe",
+      "url": "https://open.spotify.com/track/0ZgzWONBEjH6pWQMR3Fkpq"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
+        "name": "Good Places",
+        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
+      },
+      "artists": [
+        {
+          "name": "RUMTUM",
+          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
+        }
+      ],
+      "duration_ms": 266526,
+      "name": "Good Places",
+      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
         "name": "Kof\u016b",
         "url": "https://open.spotify.com/album/6CcyLV6tFcSu4pBGoGdk8s"
       },
@@ -1235,22 +1251,6 @@
       "duration_ms": 279935,
       "name": "searching",
       "url": "https://open.spotify.com/track/7JI8f3m5ur75iRRWZpj8sm"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
-        "name": "Good Places",
-        "url": "https://open.spotify.com/album/6HaJzUt3sFd53OmlzOT2P8"
-      },
-      "artists": [
-        {
-          "name": "RUMTUM",
-          "url": "https://open.spotify.com/artist/6RnzEFYNyKinHv6r86yeBI"
-        }
-      ],
-      "duration_ms": 266526,
-      "name": "Good Places",
-      "url": "https://open.spotify.com/track/1Apv5AFp7kIsRwKJYCCY2g"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1419,22 +1419,6 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Yo Soy",
-        "url": "https://open.spotify.com/album/747s4RXgjofySu3dDtvfdn"
-      },
-      "artists": [
-        {
-          "name": "Carope",
-          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
-        }
-      ],
-      "duration_ms": 444800,
-      "name": "Yo Soy - (Versi\u00f3n Instrumental)",
-      "url": "https://open.spotify.com/track/6ysjsGCJYUsGSXN6F47jbV"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
         "name": "Articulation",
         "url": "https://open.spotify.com/album/6gcAUc2LUZfbHwZZJLgvtm"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 219820,
       "name": "Melodica",
       "url": "https://open.spotify.com/track/77m3CO9cDi94PkxKF3X4wg"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
+        "name": "Yo Soy",
+        "url": "https://open.spotify.com/album/747s4RXgjofySu3dDtvfdn"
+      },
+      "artists": [
+        {
+          "name": "Carope",
+          "url": "https://open.spotify.com/artist/4TCGau2PjdwNpyEOPVtdPs"
+        }
+      ],
+      "duration_ms": 444800,
+      "name": "Yo Soy - (Versi\u00f3n Instrumental)",
+      "url": "https://open.spotify.com/track/6ysjsGCJYUsGSXN6F47jbV"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1527,22 +1527,6 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Jardin au fou",
-        "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
-      },
-      "artists": [
-        {
-          "name": "Roedelius",
-          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
-        }
-      ],
-      "duration_ms": 268400,
-      "name": "Le jardin",
-      "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
         "name": "Aether",
         "url": "https://open.spotify.com/album/3j9CUqBHIVr3vX17MjGvl0"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 260250,
       "name": "Time Dilation",
       "url": "https://open.spotify.com/track/3W5cNo9ITRF4w6tage4yGf"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
+        "name": "Jardin au fou",
+        "url": "https://open.spotify.com/album/7eQ5WjiXia8SrVxyeBLUVV"
+      },
+      "artists": [
+        {
+          "name": "Roedelius",
+          "url": "https://open.spotify.com/artist/7v5E9zviGMsOGHRdMVmhDc"
+        }
+      ],
+      "duration_ms": 268400,
+      "name": "Le jardin",
+      "url": "https://open.spotify.com/track/5kaqycPUjIi1PdZWlhfWsD"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1591,6 +1591,22 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
+        "name": "FOREVERANDEVERNOMORE",
+        "url": "https://open.spotify.com/album/1fsGRseH9xCUSiO1MDSB7W"
+      },
+      "artists": [
+        {
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        }
+      ],
+      "duration_ms": 501453,
+      "name": "Making Gardens Out of Silence",
+      "url": "https://open.spotify.com/track/1WqVCOMjOOWjamob3A2DsK"
+    },
+    {
+      "added_at": "2026-08-28 18:52:17",
+      "album": {
         "name": "R\u00e9gate",
         "url": "https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk"
       },
@@ -1607,26 +1623,6 @@
       "duration_ms": 284415,
       "name": "R\u00e9gate",
       "url": "https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u"
-    },
-    {
-      "added_at": "2026-08-28 18:52:17",
-      "album": {
-        "name": "Bloom: Living World - Single",
-        "url": "https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu"
-      },
-      "artists": [
-        {
-          "name": "Brian Eno",
-          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
-        },
-        {
-          "name": "Peter Chilvers",
-          "url": "https://open.spotify.com/artist/0auwXR5S4lEwKxpKqSZgbe"
-        }
-      ],
-      "duration_ms": 334205,
-      "name": "Bloom: Small World",
-      "url": "https://open.spotify.com/track/6lbaoGKwwS0BZsihiJMkA6"
     },
     {
       "added_at": "2026-08-28 18:52:17",
@@ -1679,18 +1675,22 @@
     {
       "added_at": "2026-08-28 18:52:17",
       "album": {
-        "name": "Whispering Ln",
-        "url": "https://open.spotify.com/album/1f7GOOEzx2OfD2TLT2n951"
+        "name": "Bloom: Living World - Single",
+        "url": "https://open.spotify.com/album/5QcW7havC8qGEKfD2nBtJu"
       },
       "artists": [
         {
-          "name": "Volodja Brodsky",
-          "url": "https://open.spotify.com/artist/3j7qT7OdjOJBQTkJS5jwtd"
+          "name": "Brian Eno",
+          "url": "https://open.spotify.com/artist/7MSUfLeTdDEoZiJPDSBXgi"
+        },
+        {
+          "name": "Peter Chilvers",
+          "url": "https://open.spotify.com/artist/0auwXR5S4lEwKxpKqSZgbe"
         }
       ],
-      "duration_ms": 320044,
-      "name": "Moonlit Whispers",
-      "url": "https://open.spotify.com/track/4lxrnbNCqFxywcO2hC5pbD"
+      "duration_ms": 334205,
+      "name": "Bloom: Small World",
+      "url": "https://open.spotify.com/track/6lbaoGKwwS0BZsihiJMkA6"
     }
   ],
   "unique_name": "Music for Plants",

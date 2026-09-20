@@ -1,6 +1,6 @@
 {
   "description": "\uc5f0\uc778\uc5d0\uac8c \uc804\ud558\ub294 \ub178\ub7ab\ub9d0\uacfc \ub2ec\ub2ec\ud55c \uc2dc\uac04\uc744 \ud568\uaed8\ud558\uc138\uc694.",
-  "num_followers": 21083,
+  "num_followers": 21091,
   "original_name": "\uc0ac\ub791\uc774\ub780 \ub2e8\uc5b4\ub85c \ubd80\uc871\ud558\uae30\uc5d0 (K-Pop Love Songs)",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "We'll shine brighter than any other stars (From \"soundtrack#1\" [Original Soundtrack])",
-        "url": "https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv"
-      },
-      "artists": [
-        {
-          "name": "LEEHI",
-          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
-        }
-      ],
-      "duration_ms": 229466,
-      "name": "We'll shine brighter than any other stars",
-      "url": "https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "LOVE & HATE",
         "url": "https://open.spotify.com/album/60zMaSh93HpKs9ii52V0wJ"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 164253,
       "name": "Don't wanna leave tonight",
       "url": "https://open.spotify.com/track/4TZYF2Ul2fPNVp0I5wqTZz"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "We'll shine brighter than any other stars (From \"soundtrack#1\" [Original Soundtrack])",
+        "url": "https://open.spotify.com/album/6EwCSLyDftnUuKmaSoo6Hv"
+      },
+      "artists": [
+        {
+          "name": "LEEHI",
+          "url": "https://open.spotify.com/artist/7cVZApDoQZpS447nHTsNqu"
+        }
+      ],
+      "duration_ms": 229466,
+      "name": "We'll shine brighter than any other stars",
+      "url": "https://open.spotify.com/track/5psoGr4LFHqFCJnyo4pVaN"
     },
     {
       "added_at": "2026-06-25 15:51:09",
@@ -863,22 +863,6 @@
     {
       "added_at": "2026-06-25 15:51:09",
       "album": {
-        "name": "Could it be like this",
-        "url": "https://open.spotify.com/album/2Z2XT84FiYo3uAkXcWaOme"
-      },
-      "artists": [
-        {
-          "name": "doyouka",
-          "url": "https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB"
-        }
-      ],
-      "duration_ms": 221000,
-      "name": "Could it be like this",
-      "url": "https://open.spotify.com/track/4raLqtvtshnCle1JqDowMo"
-    },
-    {
-      "added_at": "2026-06-25 15:51:09",
-      "album": {
         "name": "Love Condition (Original Soundtrack from Even If This Love Disappears Tonight)",
         "url": "https://open.spotify.com/album/1gmhYJRiDv9QBJhYcUMbS6"
       },
@@ -891,6 +875,22 @@
       "duration_ms": 272000,
       "name": "Love Condition",
       "url": "https://open.spotify.com/track/6kUhDtV7NM7JSZYl6xV5HI"
+    },
+    {
+      "added_at": "2026-06-25 15:51:09",
+      "album": {
+        "name": "Could it be like this",
+        "url": "https://open.spotify.com/album/2Z2XT84FiYo3uAkXcWaOme"
+      },
+      "artists": [
+        {
+          "name": "doyouka",
+          "url": "https://open.spotify.com/artist/3Q7TyEIDVLFWfIYfARE9FB"
+        }
+      ],
+      "duration_ms": 221000,
+      "name": "Could it be like this",
+      "url": "https://open.spotify.com/track/4raLqtvtshnCle1JqDowMo"
     },
     {
       "added_at": "2026-06-25 15:51:09",

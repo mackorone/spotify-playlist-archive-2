@@ -4,7 +4,7 @@
 
 > This is Yuki Hayashi\. The essential tracks, all in one playlist.
 
-224 songs - 10 hr 24 min
+225 songs - 10 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -51,7 +51,8 @@
 | [Growing Anxiety](https://open.spotify.com/track/2h638uBW9ku6mnYTGwb43j) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:36 | 2025-02-07 | 2025-02-08 |
 | [HERO A](https://open.spotify.com/track/6LoC0DAzeIET4iA9gXG2Ly) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』オリジナル・サウンドトラック](https://open.spotify.com/album/173zS6O8pRYiAU3UJUzg2S) | 3:15 | 2022-12-23 |  |
 | [Hero too](https://open.spotify.com/track/0VPkaJMRQIhYWXiE1LqaCK) | [KYOKA JIRO Starring Chrissy Costanza](https://open.spotify.com/artist/3KKbJAgAcYQBsOBA1sEHVO), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [TVアニメ『僕のヒーローアカデミア』4th オリジナルサウンドトラック](https://open.spotify.com/album/3fP7fyirRDwFu9NhR4GSnE) | 4:18 | 2022-12-23 |  |
-| [Hero too \- 10th Anniversary ver.](https://open.spotify.com/track/1c2J3qi8nNMESczQBepiKv) | [ERI Starring Myka Morton](https://open.spotify.com/artist/5P9iQ7U9WY9MjMNaf92eZl), [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Hero too \(10th Anniversary ver.\)](https://open.spotify.com/album/59uyUhxt6cEFJdVv8aM1zD) | 4:15 | 2026-08-08 |  |
+| [Hero too \- 10th Anniversary ver.](https://open.spotify.com/track/1c2J3qi8nNMESczQBepiKv) | [ERI Starring Myka Morton](https://open.spotify.com/artist/5P9iQ7U9WY9MjMNaf92eZl), [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Hero too \(10th Anniversary ver.\)](https://open.spotify.com/album/59uyUhxt6cEFJdVv8aM1zD) | 4:15 | 2026-08-08 | 2026-09-20 |
+| [Hero too \- 10th Anniversary ver.](https://open.spotify.com/track/6nwGSSYaAL44y0XUGNZy9e) | [ERI Starring Myka Morton](https://open.spotify.com/artist/5P9iQ7U9WY9MjMNaf92eZl), [照井順政](https://open.spotify.com/artist/1ACBFDo26YToaKa2AhEJGX), [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Hero too \(10th Anniversary ver.\)](https://open.spotify.com/album/7iAayvRvcOUT4mingDtce1) | 4:15 | 2026-09-20 |  |
 | [Hope for Clear Skies](https://open.spotify.com/track/2Fr8POhGLOHBICP3EmfiUO) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [Insomniacs After School Original Soundtrack](https://open.spotify.com/album/2Z4gLsWMcTQhdnx1Wa4n5o) | 1:41 | 2023-07-23 | 2023-07-31 |
 | [I'll be your hero](https://open.spotify.com/track/7Ex5OWpR7dFfoTVWau789a) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | ["My Hero Academia" Soundtrack Selection 2019 \- 2021](https://open.spotify.com/album/1a4tvtDdCiWYvfz2WjsTWi) | 2:59 | 2025-07-02 | 2026-09-19 |
 | [I'm Sorry for Everything I've done](https://open.spotify.com/track/2zIQJsE1KrqlHWG0EVbEMT) | [Yuki Hayashi](https://open.spotify.com/artist/3oGVQWQy7lgTMuTnKUZZNZ) | [My Hero Academia \(Soundtrack Selection 2021\-2023\)](https://open.spotify.com/album/5XPc4gj58otHYi0utXMLHO) | 2:34 | 2023-03-19 |  |

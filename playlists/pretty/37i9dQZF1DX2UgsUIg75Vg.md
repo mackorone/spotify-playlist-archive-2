@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 
 > Chill r&b\. Cover: Victoria Monét
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,368,559 likes - 250 songs - 13 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,368,481 likes - 250 songs - 13 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,7 +24,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2UgsUIg75Vg.md) - [plain]
 | 14 | [They Ain't You \- feat\. Thundercat](https://open.spotify.com/track/1ReeEHQXLjHWYLQ4b9cSca) | [Erykah Badu](https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu), [Thundercat](https://open.spotify.com/artist/4frXpPxQQZwbCu3eTGnZEw) | [Before The World Blows](https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI) | 4:49 |
 | 15 | [what u want](https://open.spotify.com/track/68icwERFCZaV107eHjqt77) | [nomi.](https://open.spotify.com/artist/2scpaVg6mZa6OmhTqHRvo4) | [what u want](https://open.spotify.com/album/1612UsrmvEmTZjKSYtJblo) | 2:45 |
 | 16 | [Yearning](https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Yearning](https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq) | 2:53 |
-| 17 | [Pieces \(feat\. Lucky Daye\)](https://open.spotify.com/track/71xigYhF7fHi2GEiwwMeo6) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Pieces \(Remix\)](https://open.spotify.com/album/5wsKCPX3VqZKXzvVUaVbzZ) | 3:06 |
+| 17 | [Pieces \(+ Lucky Daye\)](https://open.spotify.com/track/71xigYhF7fHi2GEiwwMeo6) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Pieces](https://open.spotify.com/album/5wsKCPX3VqZKXzvVUaVbzZ) | 3:06 |
 | 18 | [Sentimental Love](https://open.spotify.com/track/3LKqrPI3rAv2fGJOIMHIws) | [Cleo Sol](https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq) | [Gentlewoman](https://open.spotify.com/album/3zjcu4Ejw43pByGix5kUSU) | 4:17 |
 | 19 | [Silly Me with Storm Ford](https://open.spotify.com/track/6emvr4vNOck2zPPup4XjHj) | [Ash Levi](https://open.spotify.com/artist/39ih1P31MkyoZE8lStQbZ3), [Storm Ford](https://open.spotify.com/artist/0On2yf7ZQXFJJ4CbZoYty2) | [Vinyls and Ashtrays: Disc One](https://open.spotify.com/album/30li85r7czC1gkR46Asr9X) | 2:39 |
 | 20 | [Ceiling \(Freestyle\)](https://open.spotify.com/track/26r52zLg6ltidZwQ7EQ0wM) | [Jhené Aiko](https://open.spotify.com/artist/5ZS223C6JyBfXasXxrRqOk) | [Westside Whimsy](https://open.spotify.com/album/3MG7Ev1JFfrwXKNCMxD5IK) | 3:27 |

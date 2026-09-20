@@ -147,6 +147,24 @@
     },
     {
       "album": {
+        "name": "Advance",
+        "url": "https://open.spotify.com/album/01nJqm7zhHdkuZc19VxNpv"
+      },
+      "artists": [
+        {
+          "name": "Cl4pers",
+          "url": "https://open.spotify.com/artist/7J2iS8AJGjC7om2vgBXdDJ"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 110243,
+      "name": "Advance",
+      "url": "https://open.spotify.com/track/5s0cZYHGaWUEhn6mF4BEjC"
+    },
+    {
+      "album": {
         "name": "Big Ah Kidz",
         "url": "https://open.spotify.com/album/0S6JdLMY0py4wBLkKfZfLO"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2025-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 157355,
       "name": "Bad Boy (with Young Thug)",
       "url": "https://open.spotify.com/track/43CIWpJaJHRcI4mUSjqgc2"
@@ -938,6 +956,24 @@
       "duration_ms": 95847,
       "name": "Chaser",
       "url": "https://open.spotify.com/track/36A5aim4D1Fo2vblwFssH9"
+    },
+    {
+      "album": {
+        "name": "SCARRED BY STRESS",
+        "url": "https://open.spotify.com/album/4nMk29PCJj4197AWNghmgW"
+      },
+      "artists": [
+        {
+          "name": "35iveee",
+          "url": "https://open.spotify.com/artist/2MYhZqXJT7GPzLHE6DupID"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151370,
+      "name": "Cheerios",
+      "url": "https://open.spotify.com/track/5Q6E3ps0PQPJWKbje8xNsg"
     },
     {
       "album": {
@@ -1820,7 +1856,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 111274,
       "name": "Fendi",
       "url": "https://open.spotify.com/track/1JytmNVqkgc2PoJAwOlDYA"
@@ -2764,7 +2800,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 143775,
       "name": "Intervals",
       "url": "https://open.spotify.com/track/7q90Gh6UiDVpC2ZGHdaxa9"
@@ -3414,7 +3450,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 121095,
       "name": "mindless behavior",
       "url": "https://open.spotify.com/track/7w2QqwYY9YsQ3JBrHNjqdM"
@@ -3772,7 +3808,7 @@
       ],
       "date_added": "2025-12-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 160000,
       "name": "No Blickout",
       "url": "https://open.spotify.com/track/0OrIm11rR74jKvimJXvxAg"
@@ -4330,7 +4366,7 @@
       ],
       "date_added": "2026-01-15",
       "date_added_asterisk": false,
-      "date_removed": "2026-03-28",
+      "date_removed": null,
       "duration_ms": 151062,
       "name": "pull off",
       "url": "https://open.spotify.com/track/4pOLfBnRTOI9bqsL3PNVle"
@@ -5130,7 +5166,7 @@
       ],
       "date_added": "2026-03-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 156815,
       "name": "Straight Forward",
       "url": "https://open.spotify.com/track/5QFebQipvG6fMprVVWlmvo"
@@ -6106,7 +6142,7 @@
       ],
       "date_added": "2025-11-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-14",
+      "date_removed": null,
       "duration_ms": 165575,
       "name": "Voices In My Head",
       "url": "https://open.spotify.com/track/6ZWgyxB0rdb1vur4J2hSCQ"

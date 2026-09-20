@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 640 likes - 259 songs - 13 hr 54 min
+[RADIO PLUG PRO](https://open.spotify.com/user/31j62y3lgk2wiycoov2nuie5hp3e) - 641 likes - 260 songs - 13 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -267,5 +267,6 @@ pretty - [cumulative](/playlists/cumulative/1sxp36xhSTsWgyoJTwHYTS.md) - [plain]
 | 257 | [WANNA](https://open.spotify.com/track/7eSvpLKccnLXZaUILgNqMJ) | [Bello](https://open.spotify.com/artist/4mWgQMhFbTAyRtjyOFmm50) | [WANNA](https://open.spotify.com/album/4lQQJFqFkBn0De6Hepdl9l) | 1:55 |
 | 258 | [Génies scientifique](https://open.spotify.com/track/6PzkOPBnlFRDAoOhIlYeF7) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x) | [Génies scientifique](https://open.spotify.com/album/2exEwBS6coFrHQ77YNA4my) | 3:07 |
 | 259 | [mademoiselle laure](https://open.spotify.com/track/1y9Jv6jp1fucNXYtlYhEXr) | [laurēm](https://open.spotify.com/artist/0bUuJyeXDY266ily5TLek6) | [mademoiselle laure](https://open.spotify.com/album/58ukECXLDXmAqcYdpjT6YE) | 6:11 |
+| 260 | [Solitude connectée](https://open.spotify.com/track/3J2o5tps0Ngst3K0C2syl9) | [Djeïkeï](https://open.spotify.com/artist/7iLafw9GtisYxELUXgUP4Q) | [Solitude connectée](https://open.spotify.com/album/63PR5fliqR9pEJHK96a4S5) | 3:45 |
 
-Snapshot ID: `AAABLZIfATFa245/x1Tz64Zmt/fzU83W`
+Snapshot ID: `AAABLq7DIAzlH+4QyHTGv+A9e5RK2BCx`

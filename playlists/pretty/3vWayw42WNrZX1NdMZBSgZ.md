@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 
 > The perfect mix of current Latin Pop hits! Enjoy Shakira, TINI, Camilo, Milo J, Emilia, Manuel Turizo, Maluma, Rauw Alejandro, Mon Laferte and more!!! Cover: Camilo
 
-[Filtr Latino](https://open.spotify.com/user/toplatino) - 50,873 likes - 120 songs - 6 hr 21 min
+[Filtr Latino](https://open.spotify.com/user/toplatino) - 50,865 likes - 120 songs - 6 hr 21 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/3vWayw42WNrZX1NdMZBSgZ.md) - [plain]
 | 43 | [PUMAS](https://open.spotify.com/track/5Iu46UfunYa0I5CFGAW59y) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz), [Milo j](https://open.spotify.com/artist/19HM5j0ULGSmEoRcrSe5x3) | [TURR4ZO](https://open.spotify.com/album/5nUfysd9pD76m2nxU0qHmU) | 3:28 |
 | 44 | [Te hacen falta dos](https://open.spotify.com/track/3Oohz3N32glZTOz0nuxGMD) | [Manuel Turizo](https://open.spotify.com/artist/0tmwSHipWxN12fsoLcFU3B) | [Apambichao](https://open.spotify.com/album/0DOZOtgMZm8GvvFJFZ6vvT) | 2:41 |
 | 45 | [@EVEREST](https://open.spotify.com/track/4IES6uQhwuNyHGL2SUuPfx) | [DOME](https://open.spotify.com/artist/2FU49QY6B4RA6orPrbC8P5) | [@EVEREST](https://open.spotify.com/album/6v1GNmOG4ZjoVHtdYW7X4S) | 2:36 |
-| 46 | [Down \- LIVE](https://open.spotify.com/track/6ds0E4SYOLJsny6380w4Tw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Down \(LIVE\)](https://open.spotify.com/album/3XhH79aHZefQNrdo95sSx4) | 3:16 |
+| 46 | [Down \- live](https://open.spotify.com/track/6ds0E4SYOLJsny6380w4Tw) | [TINI](https://open.spotify.com/artist/7vXDAI8JwjW531ouMGbfcp) | [Down \(live\)](https://open.spotify.com/album/3XhH79aHZefQNrdo95sSx4) | 3:16 |
 | 47 | [Reliquia](https://open.spotify.com/track/4ORvXsPK9AJmDzm36BYcdy) | [ROSALÍA](https://open.spotify.com/artist/7ltDVBr6mKbRvohxheJ9h1) | [LUX](https://open.spotify.com/album/3SUEJULSGgBDG1j4GQhfYY) | 3:50 |
 | 48 | [Mi Gran Amor](https://open.spotify.com/track/6qxUTLRfdxcSy7mHnjNoj0) | [Santana](https://open.spotify.com/artist/6GI52t8N5F02MxU0g5U69P), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Mi Gran Amor](https://open.spotify.com/album/0O9T3rjNYjnrcsoOMXyE1Z) | 3:37 |
 | 49 | [Enemigos](https://open.spotify.com/track/3xmVgE8I6lDQEP2qRaLoG2) | [Ozuna](https://open.spotify.com/artist/1i8SpTcr7yvPOmcqrbnVXY), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7), [Ovy On The Drums](https://open.spotify.com/artist/3m5qlPf2OkihLz3dRYnkPA) | [Enemigos](https://open.spotify.com/album/1UJYyBWoX6DERETNC7OOC1) | 3:21 |

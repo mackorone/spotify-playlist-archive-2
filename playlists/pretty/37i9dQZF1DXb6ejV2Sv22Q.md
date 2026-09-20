@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXb6ejV2Sv22Q.md) - [plain]
 
 > aquí está la nueva ola 🌊  Babas Tutsipop en cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 137,224 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 137,220 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [los putos robots](https://open.spotify.com/track/1QQK4kthVUCmo190CrqjqX) | [babas tutsipop](https://open.spotify.com/artist/0AkKSLTBRMdJBQU3olOlMv) | [los putos robots](https://open.spotify.com/album/4VDVTz2f5kPvJYUOR8iZ0U) | 3:27 |
 | 2 | [detrás d ti](https://open.spotify.com/track/3KKaqVHL8Qtnobuh8llytJ) | [JOZZEE](https://open.spotify.com/artist/77752A6Aw4gR5GQXEzlm8F) | [detrás d ti](https://open.spotify.com/album/2uDPohcguI5fbO3tkHeKrm) | 3:10 |
-| 3 | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [Zenei](https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u) | [soñé la respuesta pero no recuerdo \(RADAR México\)](https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn) | 3:09 |
+| 3 | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [Zenei](https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u) | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn) | 3:09 |
 | 4 | [BRISA.](https://open.spotify.com/track/08BOIM9Wxae7opSnJPL7fP) | [Lucas Gael](https://open.spotify.com/artist/27H7D7CnN2Ef5Pra7wjsSB), [Bratty](https://open.spotify.com/artist/0UTzLuwz9RvFOCnwAZjUxn) | [\#CARTASYBORRONES](https://open.spotify.com/album/2eJIiRdUlixhPBJRO0vcSu) | 2:41 |
 | 5 | [MK ULTRA](https://open.spotify.com/track/26Dm8lQH8EI2QM08lzEFYe) | [Malcriada](https://open.spotify.com/artist/2ZUqAIo5iiRcSaq7TQBW5C) | [TEORÍA DE CONSPIRACIÓN](https://open.spotify.com/album/3MT1JUhjHYo9gnGWKpWoMZ) | 2:14 |
 | 6 | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/track/4u8PaWURDwqWl8rMLSLD2P) | [Mi Compa el Chino](https://open.spotify.com/artist/2DdimmphdLA00UsduU3SX4), [luvKMI](https://open.spotify.com/artist/0sGcc9qLxvEQtkw0BO4PNO) | [PARAMICORAZON: \- RADAR México](https://open.spotify.com/album/5zEbCC4o0oDXJZHS3f12QI) | 2:54 |

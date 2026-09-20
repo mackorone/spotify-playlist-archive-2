@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 
 > The best independent music in a post\-genre world
 
-[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,521 likes - 90 songs - 4 hr 45 min
+[Ditto Music](https://open.spotify.com/user/dittomusic) - 52,526 likes - 90 songs - 4 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -62,7 +62,7 @@ pretty - [cumulative](/playlists/cumulative/6ZWbm0tcNxeVmHdssy03yN.md) - [plain]
 | 52 | [Touching the Sky](https://open.spotify.com/track/7LxCi6rquyJho19plDd16y) | [Overnight](https://open.spotify.com/artist/2Va6echlXJZ0p1onSoyqye) | [Don't Think Twice](https://open.spotify.com/album/3KzsYgKVAfLjxixk5TkwKv) | 2:37 |
 | 53 | [GOOD LIFE feat\. bella amor](https://open.spotify.com/track/1zcs7bOG8FdWExOgx2RJrN) | [Phil and The Blanks](https://open.spotify.com/artist/4O27wEUWcbnKzL1Nn4EJhL), [bella amor](https://open.spotify.com/artist/0YHLS3lTpmblVqI74qAz6M) | [GOOD LIFE feat\. bella amor](https://open.spotify.com/album/76KHAcbhITXO0GA0JO0zbf) | 2:44 |
 | 54 | [One Foot Loose](https://open.spotify.com/track/4JVkWcpj5lYrFBxHhOyY1s) | [DJ Name](https://open.spotify.com/artist/19Z4nNqAp1QUs5uZTenKfC) | [One Foot Loose](https://open.spotify.com/album/3Npl7aUjPLcYmX6hbZpgGl) | 6:09 |
-| 55 | [Nicki Minaj](https://open.spotify.com/track/4fnFxvgnr2IU2YuWno85Cr) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Devv Tenkay](https://open.spotify.com/artist/38CU6rSZVy1JlTD7UKNUk5), [T.y](https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB) | [Nicki Minaj](https://open.spotify.com/album/76iot9qUFaPXyKD9SktwAN) | 2:36 |
+| 55 | [NICKI MINAJ](https://open.spotify.com/track/4fnFxvgnr2IU2YuWno85Cr) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Devv Tenkay](https://open.spotify.com/artist/38CU6rSZVy1JlTD7UKNUk5), [T.y](https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB) | [NICKI MINAJ](https://open.spotify.com/album/76iot9qUFaPXyKD9SktwAN) | 2:36 |
 | 56 | [Come Undone](https://open.spotify.com/track/4Z9XM44Xme65DqvN7pnioI) | [Youngr](https://open.spotify.com/artist/5TrkbV9x6OdTBlzWPJeBz5) | [Come Undone](https://open.spotify.com/album/0LZMmjInf6wHV1T8M9YNgZ) | 3:32 |
 | 57 | [What U Need](https://open.spotify.com/track/0QPTbN7pEoV44fdRhrDfBp) | [Dizzee Rascal](https://open.spotify.com/artist/0gusqTJKxtU1UTmNRMHZcv) | [What U Need](https://open.spotify.com/album/5opMegHPg0ZOeidEbGngm3) | 2:32 |
 | 58 | [Spider\-Man](https://open.spotify.com/track/1D3oOPCVW4ARsWz76sJpVA) | [Frankie Stew and Harvey Gunn](https://open.spotify.com/artist/1jVvXqdwDHekLwFBamrcUx) | [Spider\-Man](https://open.spotify.com/album/7pUWKKKzqy7B7Dd3WIWXot) | 2:56 |

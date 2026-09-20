@@ -1,6 +1,6 @@
 {
   "description": "\u0639\u064a\u0634 \u0623\u062c\u0645\u0644 \u062d\u0627\u0644\u0629 \u062d\u0628 \ud83e\udef6\u2764\ufe0f\n ",
-  "num_followers": 205512,
+  "num_followers": 205540,
   "original_name": "\u062d\u0628 \u0648\u063a\u0631\u0627\u0645",
   "owner": {
     "name": "Spotify",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "\u0623\u064a\u0627\u0645\u064a",
-        "url": "https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY"
-      },
-      "artists": [
-        {
-          "name": "Amr Mostafa",
-          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
-        }
-      ],
-      "duration_ms": 233221,
-      "name": "\u0644\u0645\u0633\u062a\u0643",
-      "url": "https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
         "name": "Bi Saraha",
         "url": "https://open.spotify.com/album/3q4jN4ZH36O9VdVD1iwZ3E"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 205333,
       "name": "Aamel Nasini",
       "url": "https://open.spotify.com/track/7qBENtVsjHWpkCNKTTGyJN"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "\u0623\u064a\u0627\u0645\u064a",
+        "url": "https://open.spotify.com/album/7oLkw8eFG4CWj0t7EFRAGY"
+      },
+      "artists": [
+        {
+          "name": "Amr Mostafa",
+          "url": "https://open.spotify.com/artist/6YZXwVnjrIIz9SlBd8l2Cg"
+        }
+      ],
+      "duration_ms": 233221,
+      "name": "\u0644\u0645\u0633\u062a\u0643",
+      "url": "https://open.spotify.com/track/4Wq3uwziBYLuc609Xzf8eS"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1057,6 +1057,22 @@
       "url": "https://open.spotify.com/track/1Fl7yznakyun2ywTDPuiCu"
     },
     {
+      "added_at": "2026-09-17 15:04:32",
+      "album": {
+        "name": "Gawezohany Delwaaty!",
+        "url": "https://open.spotify.com/album/3BSWDsbM2j5A5uzJzNiRRx"
+      },
+      "artists": [
+        {
+          "name": "HADY MOAMER",
+          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
+        }
+      ],
+      "duration_ms": 184830,
+      "name": "Gawezohany Delwaaty!",
+      "url": "https://open.spotify.com/track/7BfuVwoMjLpwjz9MRCEeIe"
+    },
+    {
       "added_at": "2026-06-17 12:04:55",
       "album": {
         "name": "Ghoroub",
@@ -1087,22 +1103,6 @@
       "duration_ms": 211875,
       "name": "Ya Leil Ya Ein",
       "url": "https://open.spotify.com/track/2SXXbIKHfFL4WcmzLkDrMn"
-    },
-    {
-      "added_at": "2026-09-17 15:04:32",
-      "album": {
-        "name": "Gawezohany Delwaaty!",
-        "url": "https://open.spotify.com/album/3BSWDsbM2j5A5uzJzNiRRx"
-      },
-      "artists": [
-        {
-          "name": "HADY MOAMER",
-          "url": "https://open.spotify.com/artist/0jPg8Ugy7n2JrD9jBaBptD"
-        }
-      ],
-      "duration_ms": 184830,
-      "name": "Gawezohany Delwaaty!",
-      "url": "https://open.spotify.com/track/7BfuVwoMjLpwjz9MRCEeIe"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2026-06-17 12:04:55",
       "album": {
-        "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
-        "url": "https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl"
-      },
-      "artists": [
-        {
-          "name": "Mohamed Hamaki",
-          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
-        }
-      ],
-      "duration_ms": 178751,
-      "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
-      "url": "https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt"
-    },
-    {
-      "added_at": "2026-06-17 12:04:55",
-      "album": {
         "name": "Kol Sana Wenta Tayeb",
         "url": "https://open.spotify.com/album/3VUbM9nuE2cSRN5DS0CuZy"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 241781,
       "name": "Kol Sana Wenta Tayeb",
       "url": "https://open.spotify.com/track/3LVbXJEWPs6gvIMMLU5aWw"
+    },
+    {
+      "added_at": "2026-06-17 12:04:55",
+      "album": {
+        "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
+        "url": "https://open.spotify.com/album/5Bojtv4l3gbG6ZsZ6WbDNl"
+      },
+      "artists": [
+        {
+          "name": "Mohamed Hamaki",
+          "url": "https://open.spotify.com/artist/6bb9VI1PpPTEmdgcgjTppX"
+        }
+      ],
+      "duration_ms": 178751,
+      "name": "\u062f\u0647 \u0642\u0644\u0628\u064a \u062f\u0647",
+      "url": "https://open.spotify.com/track/4r7wv4TkFq2yu2R3B294Gt"
     },
     {
       "added_at": "2026-06-17 12:04:55",
@@ -1273,22 +1273,6 @@
       "url": "https://open.spotify.com/track/3J2v3X92FYxq5vCK9gs7oq"
     },
     {
-      "added_at": "2026-09-03 14:50:01",
-      "album": {
-        "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
-        "url": "https://open.spotify.com/album/6Q6ucbijAN1s3FPZ2Z3AN7"
-      },
-      "artists": [
-        {
-          "name": "Latifa",
-          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
-        }
-      ],
-      "duration_ms": 217078,
-      "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
-      "url": "https://open.spotify.com/track/6cf3F66Q2Y5Sty4BVElQoc"
-    },
-    {
       "added_at": "2026-06-17 12:04:55",
       "album": {
         "name": "Ma Kefaya",
@@ -1303,6 +1287,22 @@
       "duration_ms": 200566,
       "name": "Ma Kefaya",
       "url": "https://open.spotify.com/track/51eHTyTmu39neRSUbUltmn"
+    },
+    {
+      "added_at": "2026-09-03 14:50:01",
+      "album": {
+        "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
+        "url": "https://open.spotify.com/album/6Q6ucbijAN1s3FPZ2Z3AN7"
+      },
+      "artists": [
+        {
+          "name": "Latifa",
+          "url": "https://open.spotify.com/artist/1PuTOfIYIEdoxKNnXJAPZe"
+        }
+      ],
+      "duration_ms": 217078,
+      "name": "\u0634\u0628\u0647\u064a \u0628\u0627\u0644\u0645\u0644\u064a",
+      "url": "https://open.spotify.com/track/6cf3F66Q2Y5Sty4BVElQoc"
     },
     {
       "added_at": "2026-06-17 12:04:55",

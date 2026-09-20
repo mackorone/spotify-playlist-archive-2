@@ -4,7 +4,7 @@
 
 > The home of Canadian country music\. Cover: James Barker Band
 
-841 songs - 1 day 21 hr 6 min
+842 songs - 1 day 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -306,6 +306,7 @@
 | [Highway Money](https://open.spotify.com/track/5IKPVFGPc3HWsdiKpue6zi) | [Josh Stumpf](https://open.spotify.com/artist/3KtMd5CrHVTQd4g3Yq8Btj) | [Highway Money](https://open.spotify.com/album/1zqElmiMKrhEZ9OLRC9tJa) | 3:17 | 2025-07-11 | 2025-09-20 |
 | [Hold Me](https://open.spotify.com/track/3LAPsp68xanrLI05uK1n6B) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ) | [Hold Me](https://open.spotify.com/album/6fcjeLOJxPSGBRBz0QzFwk) | 2:33 | 2026-07-17 |  |
 | [Hold On Goodbye](https://open.spotify.com/track/5UwLJ9EwsTyH57T9DSaJEH) | [Kyle McKearney](https://open.spotify.com/artist/7sAGzb8R5byxD1U13npShz) | [Hold On Goodbye](https://open.spotify.com/album/2UAR2r2Go9VKUbW5qeiNxI) | 3:47 | 2024-10-04 | 2024-10-19 |
+| [HOLD YA TO IT](https://open.spotify.com/track/2GPqJ7sK3AJjJjMGmpQSq9) | [Alli Walker](https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj) | [PRETTY ROUGH: VOL\. 1](https://open.spotify.com/album/1EjgiEc20E5cJc1F4cFaP1) | 3:15 | 2026-09-18 |  |
 | [Hollow](https://open.spotify.com/track/5MSPozbZ7TQSNIBsd4qjlt) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Cameron Whitcomb](https://open.spotify.com/artist/6dhXvR5MsnlwYguRuqoapR) | [Hollow](https://open.spotify.com/album/4lZQjjnhdmMoaEW6A9SJBJ) | 3:15 | 2026-08-28 |  |
 | [home](https://open.spotify.com/track/3lcr1wXj1KnNZkYsC8TGZX) | [Adrian Mitchell](https://open.spotify.com/artist/7I6ztG3iIJOwFB6mOi9T8y) | [home](https://open.spotify.com/album/6VXPLxdhroqko7xNzjOAib) | 2:45 | 2024-11-22 | 2025-02-01 |
 | [Home](https://open.spotify.com/track/0Eiif2eLqWumvKSDejgT8F) | [Tyler Lorette](https://open.spotify.com/artist/5AJ5mQlyss1SLspTXxo424) | [Home](https://open.spotify.com/album/5Xu5rgwyVaz4obywN3bZqj) | 3:11 | 2025-01-17 | 2025-04-19 |

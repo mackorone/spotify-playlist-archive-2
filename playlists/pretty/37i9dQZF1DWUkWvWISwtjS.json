@@ -1,6 +1,6 @@
 {
   "description": "Coloque a bota e o ch\u00e1peu que hoje o trabalho vai render!",
-  "num_followers": 421784,
+  "num_followers": 421680,
   "original_name": "Sertanejo no Trabalho",
   "owner": {
     "name": "Spotify",
@@ -847,22 +847,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Pegada Que Desgrama",
-        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
-      },
-      "artists": [
-        {
-          "name": "Naiara Azevedo",
-          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
-        }
-      ],
-      "duration_ms": 182368,
-      "name": "Pegada Que Desgrama",
-      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Simone & Simaria (Ao Vivo)",
         "url": "https://open.spotify.com/album/3bPPe3v10wYVuUw10f8uUM"
       },
@@ -875,6 +859,22 @@
       "duration_ms": 190619,
       "name": "Duvido Voc\u00ea N\u00e3o Tomar Uma - Ao Vivo",
       "url": "https://open.spotify.com/track/43SZcLQB8jtHMuDVDHTV5S"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Pegada Que Desgrama",
+        "url": "https://open.spotify.com/album/220NbAbuobNt9ccRGNV0An"
+      },
+      "artists": [
+        {
+          "name": "Naiara Azevedo",
+          "url": "https://open.spotify.com/artist/0jD7VeE1m2SdHbOWeCtB9l"
+        }
+      ],
+      "duration_ms": 182368,
+      "name": "Pegada Que Desgrama",
+      "url": "https://open.spotify.com/track/2gl2F5Z6ReNVh0wcyPLCKA"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1023,26 +1023,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "C\u00ea Acredita",
-        "url": "https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY"
-      },
-      "artists": [
-        {
-          "name": "Jo\u00e3o Neto & Frederico",
-          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
-        },
-        {
-          "name": "MC Kevinho",
-          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
-        }
-      ],
-      "duration_ms": 170517,
-      "name": "C\u00ea Acredita",
-      "url": "https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Aqui e Agora, Vol.1 (Ao Vivo)",
         "url": "https://open.spotify.com/album/40T4QuY2o5FmisyJf3AlEf"
       },
@@ -1059,6 +1039,26 @@
       "duration_ms": 183695,
       "name": "S\u00f3 de Sacanagem - Ao Vivo",
       "url": "https://open.spotify.com/track/40zJaB3z53PGaxIkYyieBP"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "C\u00ea Acredita",
+        "url": "https://open.spotify.com/album/5WePCCEsG1GwFRbnGISXrY"
+      },
+      "artists": [
+        {
+          "name": "Jo\u00e3o Neto & Frederico",
+          "url": "https://open.spotify.com/artist/2FrLTuXGuFDzQsjKidB03W"
+        },
+        {
+          "name": "MC Kevinho",
+          "url": "https://open.spotify.com/artist/1mXAhKnZEdF6rotyyd4GBi"
+        }
+      ],
+      "duration_ms": 170517,
+      "name": "C\u00ea Acredita",
+      "url": "https://open.spotify.com/track/4sVkydp30HWLjOvF2ILbGy"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1223,6 +1223,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Nosso cupido foi Deus",
+        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
+      },
+      "artists": [
+        {
+          "name": "Paula Mattos",
+          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
+        }
+      ],
+      "duration_ms": 186276,
+      "name": "Nosso cupido foi Deus",
+      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
         "url": "https://open.spotify.com/album/3bj35fk8CPlghdLVOiDZnF"
       },
@@ -1239,22 +1255,6 @@
       "duration_ms": 170517,
       "name": "Oi Nego (N\u00e3o Vai Dar Parte 3)",
       "url": "https://open.spotify.com/track/5M78WUOq5AjcDfLoj9yi6a"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Nosso cupido foi Deus",
-        "url": "https://open.spotify.com/album/4NdRHk0mCKC0ncMp25ACVH"
-      },
-      "artists": [
-        {
-          "name": "Paula Mattos",
-          "url": "https://open.spotify.com/artist/03lJxNYml1ArLjcZLxfIvz"
-        }
-      ],
-      "duration_ms": 186276,
-      "name": "Nosso cupido foi Deus",
-      "url": "https://open.spotify.com/track/7DK52ZiA1fAJJUr26p9R7X"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1483,6 +1483,22 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
+        "name": "Agora \u00c9 Que S\u00e3o Elas 2 (Ao Vivo | Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4"
+      },
+      "artists": [
+        {
+          "name": "Maiara & Maraisa",
+          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+        }
+      ],
+      "duration_ms": 211456,
+      "name": "Quem Foi Que Soprou - Ao Vivo | Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5GiGLOHzFcYiy3qIZKr7EL"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
         "name": "Diego & Victor Hugo Ao Vivo em Bras\u00edlia",
         "url": "https://open.spotify.com/album/6PlcH8kJmbJIagbWVuqHz7"
       },
@@ -1503,18 +1519,18 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Agora \u00c9 Que S\u00e3o Elas 2 (Ao Vivo | Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/2NLcvAUpdh2P3iIZxiEbs4"
+        "name": "Das Rep\u00fablicas Para O Brasil (Ao Vivo Em Goi\u00e2nia / 2019)",
+        "url": "https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB"
       },
       "artists": [
         {
-          "name": "Maiara & Maraisa",
-          "url": "https://open.spotify.com/artist/59jlthNnbmim5l9tmNA7se"
+          "name": "Pedro Paulo & Alex",
+          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
         }
       ],
-      "duration_ms": 211456,
-      "name": "Quem Foi Que Soprou - Ao Vivo | Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5GiGLOHzFcYiy3qIZKr7EL"
+      "duration_ms": 152778,
+      "name": "Sofrendo Ao Quadrado - Ao Vivo Em Goi\u00e2nia / 2019",
+      "url": "https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1531,22 +1547,6 @@
       "duration_ms": 177144,
       "name": "Pronta pra Trair",
       "url": "https://open.spotify.com/track/3IdXfXbXcbEe3LP9ClIZw8"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
-        "name": "Das Rep\u00fablicas Para O Brasil (Ao Vivo Em Goi\u00e2nia / 2019)",
-        "url": "https://open.spotify.com/album/7m3G0HZwZSYyqNEvUkHihB"
-      },
-      "artists": [
-        {
-          "name": "Pedro Paulo & Alex",
-          "url": "https://open.spotify.com/artist/5zpNiDA9xLFWQfPCJOQNGN"
-        }
-      ],
-      "duration_ms": 152778,
-      "name": "Sofrendo Ao Quadrado - Ao Vivo Em Goi\u00e2nia / 2019",
-      "url": "https://open.spotify.com/track/2oEiP9LTNw1xMc0AhpJfSL"
     },
     {
       "added_at": "2026-01-16 03:03:24",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-01-16 03:03:24",
       "album": {
-        "name": "Alguns Defeitos",
-        "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
-      },
-      "artists": [
-        {
-          "name": "Juan Marcus & Vin\u00edcius",
-          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
-        }
-      ],
-      "duration_ms": 185659,
-      "name": "Alguns Defeitos",
-      "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
-    },
-    {
-      "added_at": "2026-01-16 03:03:24",
-      "album": {
         "name": "Compartilhando M\u00e1goa",
         "url": "https://open.spotify.com/album/1MUtaCm5QQgf1vDx846Sji"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 170038,
       "name": "Compartilhando M\u00e1goa",
       "url": "https://open.spotify.com/track/3M6QJpWhM9NPcBwxTRKLlH"
+    },
+    {
+      "added_at": "2026-01-16 03:03:24",
+      "album": {
+        "name": "Alguns Defeitos",
+        "url": "https://open.spotify.com/album/55bLrQZIshSyN5C9x1CQsh"
+      },
+      "artists": [
+        {
+          "name": "Juan Marcus & Vin\u00edcius",
+          "url": "https://open.spotify.com/artist/0GVW2S0kS9yOIEo93ZCNLW"
+        }
+      ],
+      "duration_ms": 185659,
+      "name": "Alguns Defeitos",
+      "url": "https://open.spotify.com/track/2Bl3dk6diYybHz4qhJ3w68"
     },
     {
       "added_at": "2026-01-16 03:03:24",

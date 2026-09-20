@@ -1,12 +1,12 @@
 {
   "description": "Today\u2019s pop, plugged into the culture w/ Miley",
-  "num_followers": 538389,
+  "num_followers": 538281,
   "original_name": "Pop All Day",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAJcSpHqnuxjEM6bx7z70sTldcHhS",
+  "snapshot_id": "AAAAAD//Tm8/guCzIt8w/a1CSSH5kL7O",
   "tracks": [
     {
       "added_at": "2026-09-18 04:03:40",
@@ -583,6 +583,26 @@
       "duration_ms": 124094,
       "name": "RIP",
       "url": "https://open.spotify.com/track/1rCkTwS3byV6VIzFa4it5f"
+    },
+    {
+      "added_at": "2026-09-19 04:53:26",
+      "album": {
+        "name": "Main Thang",
+        "url": "https://open.spotify.com/album/7rZaYybjFdnOrnuFbWYTxt"
+      },
+      "artists": [
+        {
+          "name": "Pr$hA",
+          "url": "https://open.spotify.com/artist/6ZDD906SlfqMxFyVZf88tt"
+        },
+        {
+          "name": "PayFre$ho",
+          "url": "https://open.spotify.com/artist/19hea8d6T3J9n1Q94FTtHK"
+        }
+      ],
+      "duration_ms": 164548,
+      "name": "Main Thang",
+      "url": "https://open.spotify.com/track/1teebUL6uh13s0KAhCaor6"
     },
     {
       "added_at": "2026-09-18 04:03:40",

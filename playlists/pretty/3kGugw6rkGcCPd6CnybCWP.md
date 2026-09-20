@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 
 > Celebrating individuality within independent music
 
-[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,161 likes - 64 songs - 3 hr 40 min
+[The Mushy Pea](https://open.spotify.com/user/1139243362) - 1,161 likes - 65 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,5 +72,6 @@ pretty - [cumulative](/playlists/cumulative/3kGugw6rkGcCPd6CnybCWP.md) - [plain]
 | 62 | [Who am I?](https://open.spotify.com/track/20AnxJsqczyZNi9IEqP6N3) | [Giuliana May](https://open.spotify.com/artist/10tQbQdPOA3TwUQzyZl8Cr) | [Who am I?](https://open.spotify.com/album/0LHr1EzCGPpStPJuSdMeiT) | 2:46 |
 | 63 | [good stuff](https://open.spotify.com/track/67gx1BQqHEAKO6uWzS1gjM) | [string lights](https://open.spotify.com/artist/79Hj2tBHt6BqED64XREWoV) | [good stuff](https://open.spotify.com/album/7fLVpjWWhDbB6MNNpng0O0) | 1:10 |
 | 64 | [Anywhere But Here](https://open.spotify.com/track/4n6MX5GjbqiGRbFTm2vGjp) | [Tilde](https://open.spotify.com/artist/4Vm7RaGmSZfsTd21X0BKb1) | [Little Girl Blue](https://open.spotify.com/album/2GvIwgBTNZraojkluG97PF) | 4:58 |
+| 65 | [VHS GIRLS](https://open.spotify.com/track/0rIgbTzvt8vppbALJbqFfB) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [VHS GIRLS](https://open.spotify.com/album/6QdupEpycZ514J6t65vLAS) | 3:32 |
 
-Snapshot ID: `AAAQJKlpVDWpYjmb26vN+prTeIflkmY4`
+Snapshot ID: `AAAQJet9dKXyAxz4B5PwQekt/JiDnCka`

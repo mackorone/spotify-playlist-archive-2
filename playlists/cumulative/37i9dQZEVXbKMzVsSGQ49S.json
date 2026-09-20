@@ -6520,7 +6520,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 210453,
       "name": "Bernskan",
       "url": "https://open.spotify.com/track/42l2RMDpR6dKE8SSUzxdiG"
@@ -11776,7 +11776,7 @@
       ],
       "date_added": "2025-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 238640,
       "name": "Creep",
       "url": "https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r"
@@ -15586,7 +15586,7 @@
       ],
       "date_added": "2026-05-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 151500,
       "name": "Earrings",
       "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
@@ -33238,7 +33238,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2025-05-10",
+      "date_removed": null,
       "duration_ms": 156250,
       "name": "K\u00f3k\u00f3mj\u00f3lk",
       "url": "https://open.spotify.com/track/33RGJpw7j9BaLGNhLGaolR"
@@ -47069,6 +47069,28 @@
     },
     {
       "album": {
+        "name": "P\u00e6lingar",
+        "url": "https://open.spotify.com/album/3wxejbzB2yURaZZ101cJms"
+      },
+      "artists": [
+        {
+          "name": "Ey\u00fe\u00f3r W\u00f6hler",
+          "url": "https://open.spotify.com/artist/3p4wDJw74esi6V7GsAk27b"
+        },
+        {
+          "name": "B-Man",
+          "url": "https://open.spotify.com/artist/7wuew9LorX8wMQzUAIEG4y"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 139626,
+      "name": "P\u00e6lingar",
+      "url": "https://open.spotify.com/track/53IJrWDTBP4c6moQ1PwviL"
+    },
+    {
+      "album": {
         "name": "P\u00fallupp me\u00f0",
         "url": "https://open.spotify.com/album/1V5UVj2YciOOy8wgWZE5zT"
       },
@@ -55460,7 +55482,7 @@
       ],
       "date_added": "2025-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 212655,
       "name": "Sumari\u00f0",
       "url": "https://open.spotify.com/track/0C0KHWR5vwYzDWGv81pfaw"

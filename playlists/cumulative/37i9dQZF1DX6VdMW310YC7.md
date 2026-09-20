@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,929 songs - 5 day 10 hr 54 min
+1,930 songs - 5 day 10 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -290,7 +290,7 @@
 | [Cimmerian](https://open.spotify.com/track/0dmXGQ2zRVOm6N60S0UdHK) | [Lipless](https://open.spotify.com/artist/0XmmX4fE4SiRMu3ICsP5sA), [Blue Noir](https://open.spotify.com/artist/5N4aUAJA011nkAumBGSeAN) | [Wishing Well / Cimmerian](https://open.spotify.com/album/1a0g4P7lv4e9Mw9IjNxNLf) | 3:36 | 2022-02-11 | 2023-09-09 |
 | [Cindy Goes to a Party](https://open.spotify.com/track/4MYK3rV2c8Pg6dh9eLa1rR) | [Closed Paradise](https://open.spotify.com/artist/0YZ8P1HorExdSXoONm7tFB) | [Something Else](https://open.spotify.com/album/39tHyB5rgbkZNBMqfcYqk0) | 5:42 | 2020-03-20 | 2021-12-21 |
 | [Cirrus](https://open.spotify.com/track/2lJ4d8MCT6ZlDRHKJ1br14) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [The North Borders](https://open.spotify.com/album/7sN6lCgPf1rbZYmA3edMKv) | 5:52 | 2020-05-22 | 2020-07-18 |
-| [Civilian World](https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Civilian World](https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH) | 7:36 | 2026-03-13 |  |
+| [Civilian World](https://open.spotify.com/track/0UFSRShQ5xVoojuNbFSD9i) | [Amtrac](https://open.spotify.com/artist/3ifxHfYz2pqHku0bwx8H5J) | [Civilian World](https://open.spotify.com/album/7xxQ6IO8IeqOY7hPxs9cDH) | 7:36 | 2026-03-13 | 2026-09-20 |
 | [Clair de Tulum](https://open.spotify.com/track/3ATqHnrwMf3kAyjEfchWME) | [Classic Unknwn](https://open.spotify.com/artist/1dZll1W7w0FMBahKsYi7F0) | [Arkade Destinations Tulum](https://open.spotify.com/album/3wIq5okaszSGMxYv4zlzyR) | 2:35 | 2020-03-20 | 2022-08-20 |
 | [Clear Mind](https://open.spotify.com/track/5GjPEyBoZHLA4xytXahbAx) | [Ryyta](https://open.spotify.com/artist/6oePW0Lmf0O9f5xUU24O8c) | [Clear Mind](https://open.spotify.com/album/0F0iFf9Y7Xjh1gerGdcECz) | 7:32 | 2020-05-19 | 2020-10-19 |
 | [Clearest Blue \- Gryffin Remix](https://open.spotify.com/track/5JNOYtRd2E9QiwosqMCBmZ) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w), [Gryffin](https://open.spotify.com/artist/2ZRQcIgzPCVaT9XKhXZIzh) | [Every Open Eye \(Extended Edition\)](https://open.spotify.com/album/0ytgAfCjv6U5BMEDrQgCwX) | 4:19 | 2020-05-18 | 2020-07-03 |
@@ -1289,6 +1289,7 @@
 | [Palace Of Time](https://open.spotify.com/track/7xkOtOMV1cJmIE7OXJIdYo) | [Fakear](https://open.spotify.com/artist/4eFImh8D3F15dtZk0JQlpT) | [Palace Of Time](https://open.spotify.com/album/68lR3oUhPa9PEG1dnPEIHr) | 4:26 | 2022-02-11 | 2022-12-29 |
 | [Pale Skin](https://open.spotify.com/track/5nqvTmSm0tQmRndmB4Dn1t) | [Christian Löffler](https://open.spotify.com/artist/3tSvlEzeDnVbQJBTkIA6nO) | [A Forest](https://open.spotify.com/album/7CPhbXAXvokdASYAh0vnpS) | 3:50 | 2020-03-16 | 2021-12-21 |
 | [Palm of My Hand](https://open.spotify.com/track/4SdTlyC3TJfxsNetvoVlum) | [ZHU](https://open.spotify.com/artist/28j8lBWDdDSHSSt5oPlsX2) | [GENERATIONWHY](https://open.spotify.com/album/6Xhb46t8f3z8FkuXQAj4UV) | 6:13 | 2020-05-18 | 2020-07-03 |
+| [Palm Of Your Hands](https://open.spotify.com/track/2tYfPquoioikwqPSIotQAf) | [Adriatique](https://open.spotify.com/artist/02DWGcShQivFepRvGJ7xhB) | [Palm Of Your Hands](https://open.spotify.com/album/1yLtTqA4d5uJroIi4WBRpM) | 3:25 | 2026-09-18 |  |
 | [Palms](https://open.spotify.com/track/1DxdiIZi2cjwz24jeD5iAG) | [Crvvcks](https://open.spotify.com/artist/1coHxhBPteDGeU23Kf1E98) | [Palms](https://open.spotify.com/album/5Vg9jiIWY631aVuRy2GVA9) | 4:15 | 2020-03-18 | 2022-04-20 |
 | [Pangea](https://open.spotify.com/track/3zeST3OUSGo90oZBQzIuNm) | [Rinzen](https://open.spotify.com/artist/0kYFb6blNbeBAHaQqyURgI), [Ae:ther](https://open.spotify.com/artist/2Va4TMOAXwdFAcakAUNSsV) | [Just Noise Pt\. II](https://open.spotify.com/album/6NL7SkrK3auwVEvuISvSaV) | 4:26 | 2026-06-12 |  |
 | [Pangea \(feat\. Nathan Nicholson\)](https://open.spotify.com/track/1w80DqxaVfyjXaIo4nL3wr) | [Mahmut Orhan](https://open.spotify.com/artist/3t8WiyalpvnB9AObcMufiE), [Nathan Nicholson](https://open.spotify.com/artist/4q8SjmBr5X7DUmVvrnNrsd) | [Pangea](https://open.spotify.com/album/4xc2sZ2CFUKNLdhuivcP0o) | 4:01 | 2024-03-22 | 2024-06-01 |

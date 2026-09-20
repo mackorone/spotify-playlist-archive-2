@@ -4,7 +4,7 @@
 
 > Relaxing music with soft nature sounds for meditation, sleep or to just enjoy.
 
-369 songs - 17 hr 12 min
+370 songs - 17 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -159,6 +159,7 @@
 | [Golden Feathers](https://open.spotify.com/track/2oSak1wBwlBR7AGDc0wO3T) | [Luna's Garden](https://open.spotify.com/artist/3zrgUBWKbLbpOkrFqGZMqt) | [Golden Feathers](https://open.spotify.com/album/0rmGK1QUqNxXAPgVZermWj) | 2:47 | 2025-12-03 | 2026-03-21 |
 | [Grave](https://open.spotify.com/track/4GiPnXSuZCJbnxrZBvRW41) | [Rudhek Caren](https://open.spotify.com/artist/1MGdzDdzcoWcMmC7MvjqME) | [Grave](https://open.spotify.com/album/7qj6wjs7Fm5WQjxIE9nN9W) | 2:54 | 2023-03-03 | 2025-06-12 |
 | [Gravity](https://open.spotify.com/track/6SrGcbpvB216sv4XrtL2Pq) | [Solace Sonique](https://open.spotify.com/artist/4DWW3d7aGHHC51MqYUoQZR) | [Gravity](https://open.spotify.com/album/0RfMrZOANCZ6PHqPhXEomx) | 2:14 | 2025-06-11 |  |
+| [Greenwood](https://open.spotify.com/track/1O5uzV1baYBoOsZq1u0akH) | [Hazen Briller](https://open.spotify.com/artist/33sxIMORaQgwJQZiF9UrY2) | [Greenwood](https://open.spotify.com/album/72WtZy642zUAjP0l95KsiB) | 2:37 | 2026-09-09 |  |
 | [Grounding Springs](https://open.spotify.com/track/3srrw4VMffkHy5xyVS0xIK) | [Quiet Point](https://open.spotify.com/artist/4IjFhiHshrelBCY2ACVwhR) | [Grounding Springs](https://open.spotify.com/album/7G5UgVeeGvUCn1fmuMltil) | 2:54 | 2024-05-01 |  |
 | [Guided by water](https://open.spotify.com/track/5l7sHk5p9YnwW8WjdYPz3K) | [Ljusnan](https://open.spotify.com/artist/6kprss883ebiMmbGqz4ZMe) | [Guided by water](https://open.spotify.com/album/6aaiU2um6gI6AoZxo03wxB) | 3:37 | 2026-03-20 |  |
 | [Hands In The Sky](https://open.spotify.com/track/70ObLIVk41IfOm3ijjifgg) | [Deepest Minds](https://open.spotify.com/artist/52ErOF8aEknX03YCwcj6Vp) | [Hands In The Sky](https://open.spotify.com/album/56bBodScnFrZTDX0PfpeHW) | 2:44 | 2024-03-20 |  |
@@ -170,7 +171,7 @@
 | [Hidden Trees](https://open.spotify.com/track/2GLVEiLymzuOsa1aNrR3bk) | [Calmative](https://open.spotify.com/artist/4jdsVahXLyNHILghPDbeQt) | [Hidden Trees](https://open.spotify.com/album/6QIi1rJNZqhG58JorCQNZG) | 2:56 | 2025-12-03 | 2026-09-02 |
 | [Hidden Valley](https://open.spotify.com/track/3Qk1kmwicACrLOwY1wGQKc) | [Liam Armstrong](https://open.spotify.com/artist/3DsYgBfA8QoZTZohcLf1jy) | [Hidden Valley](https://open.spotify.com/album/4Ob4bAUAuYhWCofsKg0vJc) | 2:39 | 2025-06-11 | 2026-03-21 |
 | [Hiking With Friends](https://open.spotify.com/track/7v9Brf9lQzUXaAje1sKJ53) | [Jack Allenson](https://open.spotify.com/artist/3xmdKBMDTE4t48Il54UmBb) | [Hiking With Friends](https://open.spotify.com/album/5cQah2fqRS6p4GyfxhM6se) | 3:54 | 2025-02-21 | 2026-03-21 |
-| [Holding Quiet](https://open.spotify.com/track/7AF3yhWgBhtW8QrvFgp5T0) | [Amadeen](https://open.spotify.com/artist/4dSxhIbiVwIfb0sA1akRN4) | [Holding Quiet](https://open.spotify.com/album/33wgGcXNBZIZwd3a7ElU2Y) | 2:41 | 2025-09-24 |  |
+| [Holding Quiet](https://open.spotify.com/track/7AF3yhWgBhtW8QrvFgp5T0) | [Amadeen](https://open.spotify.com/artist/4dSxhIbiVwIfb0sA1akRN4) | [Holding Quiet](https://open.spotify.com/album/33wgGcXNBZIZwd3a7ElU2Y) | 2:41 | 2025-09-24 | 2026-09-20 |
 | [Hommage à la forêt](https://open.spotify.com/track/4MJISy6vPiD3B8B2kGw0nV) | [David Sato](https://open.spotify.com/artist/0Xp27nG9qE8eLiqvx1UUj5) | [Hommage à la forêt](https://open.spotify.com/album/1kRTXIqYvkAzHGadhysrdZ) | 2:27 | 2023-03-03 | 2025-06-12 |
 | [Honeydew](https://open.spotify.com/track/2upoDYeQM5S91SBC2yAO5K) | [Elois Jacq](https://open.spotify.com/artist/11seAZZohLTcq2V1blAOnN) | [Honeydew](https://open.spotify.com/album/4dFnIRQQqdG81wvwef4P8y) | 2:00 | 2023-03-03 | 2025-06-12 |
 | [Horizon](https://open.spotify.com/track/72g342BdHqVHgitJOVpKyU) | [Flyndon](https://open.spotify.com/artist/7E4blUHUdA8BXReNUeeIKl) | [Horizon](https://open.spotify.com/album/6MiyneDUR4YLTtnuoqcvNy) | 3:00 | 2024-02-06 | 2025-06-12 |

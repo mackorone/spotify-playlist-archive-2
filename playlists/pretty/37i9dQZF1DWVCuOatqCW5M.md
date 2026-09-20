@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVCuOatqCW5M.md) - [plain]
 
 > Latest music from Kushagra, Shekhar Ravjiani, Priya Saraiya, Asees Kaur and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 100,927 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 100,972 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Jiyara](https://open.spotify.com/track/56qV2PcQkOp6wdBw2b5vDE) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Vampire](https://open.spotify.com/artist/5xDnoGOwMyDn1smvCS5fqa) | [Jiyara](https://open.spotify.com/album/2a3XGuHHVE4XszjFI7Qxgw) | 2:45 |
+| 1 | [Jiyara](https://open.spotify.com/track/56qV2PcQkOp6wdBw2b5vDE) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Vampire](https://open.spotify.com/artist/2skUmvAGfu7NfzcxmzYvkv) | [Jiyara](https://open.spotify.com/album/2a3XGuHHVE4XszjFI7Qxgw) | 2:45 |
 | 2 | [Russ Jana](https://open.spotify.com/track/6wMUmcgKpf36YJqyrFXK80) | [Shekhar Ravjiani](https://open.spotify.com/artist/4xd7mLI7urqrxELaXhAvzw), [Priya Saraiya](https://open.spotify.com/artist/6q29t5RuXxlBuqIZsOMQss), [Asees Kaur](https://open.spotify.com/artist/1sVmXkzX2ukc6QvasrDBES) | [Russ Jana](https://open.spotify.com/album/7sc0SXsHpZpIzZvk340nt4) | 3:28 |
 | 3 | [Mulaqatein](https://open.spotify.com/track/2zbpyEEnlgyY1lVWjt1NOM) | [Prateeksha Srivastava](https://open.spotify.com/artist/6Tt4bucXZfk6Vasj3fSaCT), [Akarsh Shetty](https://open.spotify.com/artist/0yq4kbIMvSPpCsscjMnTk0) | [Mulaqatein](https://open.spotify.com/album/0K3Jk7JT08covv7H7axJqZ) | 4:03 |
 | 4 | [Waade Saare](https://open.spotify.com/track/08FVpRamuYXLrh2zcU2ogi) | [Jubin Nautiyal](https://open.spotify.com/artist/1tqysapcCh1lWEAc9dIFpa), [Shubham Srivastava](https://open.spotify.com/artist/2eHR6QIdUx1rIZ2y4EBcjc), [Kaushal Kishore](https://open.spotify.com/artist/2ZbZdSpizGtV1e5lmfWbBg) | [Waade Saare](https://open.spotify.com/album/7FGpdKc4qUCbhmDUbMxJEK) | 4:08 |

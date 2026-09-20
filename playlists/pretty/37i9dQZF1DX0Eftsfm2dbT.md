@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 
 > J\-Hip Hopの最新注目曲をまとめてチェック Cover: ACE COOL \*水曜更新。マイライブラリに保存して毎週チェックしよう
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,828 likes - 100 songs - 4 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,832 likes - 100 songs - 4 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0Eftsfm2dbT.md) - [plain]
 | 24 | [Grip Theory](https://open.spotify.com/track/7g600THk17CZ8f286VSPWm) | [J'Da Skit](https://open.spotify.com/artist/2JoqX2KHh4qjreZpCZHAwL) | [Orphase](https://open.spotify.com/album/1uNIuyH8jdqOWypguEl9d3) | 2:38 |
 | 25 | [Science](https://open.spotify.com/track/7FaUFjP0BxCbwUaAleJGOd) | [Haiiro De Rossi](https://open.spotify.com/artist/7BKPOigBtNtPmk7w3ZuCw0) | [Bedroom Madness](https://open.spotify.com/album/3yEt7McSrmhjNjMGSylmue) | 3:39 |
 | 26 | [Wagamama](https://open.spotify.com/track/0dI0U8TOFOKkLlrwJeCdlL) | [Benjazzy](https://open.spotify.com/artist/491qzCBIds12Ab7kNjlZMb), [Bonbero](https://open.spotify.com/artist/4XOzeKvdkxm12dE22GJrpM) | [B2B](https://open.spotify.com/album/7aueJE4DSLhBilNb9ScCwg) | 2:51 |
-| 27 | [ARATAMENA!](https://open.spotify.com/track/4jZnGMlxXXimSpnfAfx5eJ) | [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [ARATAMENA!](https://open.spotify.com/album/2EEh8P4rhfJfQhiDrsgX9P) | 2:46 |
+| 27 | [ARATAMENA! \(feat\. Yvng Patra\)](https://open.spotify.com/track/4jZnGMlxXXimSpnfAfx5eJ) | [Xansei](https://open.spotify.com/artist/0jHoReQVZQrgyI6E4ZIbOz), [Leon Fanourakis](https://open.spotify.com/artist/7yfnGPsbG9usGg1F5DWK3N), [Yvng Patra](https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8) | [ARATAMENA! \(feat\. Yvng Patra\)](https://open.spotify.com/album/2EEh8P4rhfJfQhiDrsgX9P) | 2:46 |
 | 28 | [BABY \(feat\. IFE\)](https://open.spotify.com/track/2ptuazEzZF8E5U6pfqFNlY) | [Kaneee](https://open.spotify.com/artist/0W87Hy5tKKzDfphqAfbf09), [IFE](https://open.spotify.com/artist/5kOyuyCpavgMRLO2XIDSS5) | [BABY \(feat\. IFE\)](https://open.spotify.com/album/0HcMc4RWq9L5bEjbSJE52M) | 3:21 |
 | 29 | [Drip on my body](https://open.spotify.com/track/3J4miHWJRPrqwIqTNBsZ1k) | [Manaka](https://open.spotify.com/artist/3TUjg4NvsTvKiyRuPdsurN) | [Pretty Machine Gun II](https://open.spotify.com/album/3k822AXXavvXzwJ0X3hiAu) | 2:52 |
 | 30 | [Top Pt.3](https://open.spotify.com/track/5h21LRsItnd1anZWXg4W8Q) | [Tete](https://open.spotify.com/artist/1rkLrKyeAMCNibaEd768uw) | [Top Pt.3](https://open.spotify.com/album/0smsmc7R8pRrytHK1uabCp) | 3:09 |

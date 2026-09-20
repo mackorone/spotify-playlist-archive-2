@@ -394,7 +394,7 @@
       ],
       "date_added": "2022-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 414000,
       "name": "Carola - En Vivo",
       "url": "https://open.spotify.com/track/6syiv4squ2EZgcVgxBnmNc"
@@ -1846,6 +1846,24 @@
     {
       "album": {
         "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/0kmeOghrlnIQiypRaU2iJN"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182866,
+      "name": "No Te Supe Querer",
+      "url": "https://open.spotify.com/track/17ugUn7zxwd2oAvghHWkOZ"
+    },
+    {
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
         "url": "https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl"
       },
       "artists": [
@@ -1904,6 +1922,24 @@
     {
       "album": {
         "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/66LlA9AN6tO3EdzncOu0a4"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170520,
+      "name": "Oh Gran Dios",
+      "url": "https://open.spotify.com/track/0nItDCT8sX7vaLymvb9XvD"
+    },
+    {
+      "album": {
+        "name": "Para Ellas",
         "url": "https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39"
       },
       "artists": [
@@ -1932,7 +1968,7 @@
       ],
       "date_added": "2025-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 170520,
       "name": "Oh Gran Dios",
       "url": "https://open.spotify.com/track/4Qi9mG5VOrr9rcjo8vCVuN"
@@ -2210,6 +2246,24 @@
     {
       "album": {
         "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/0kmeOghrlnIQiypRaU2iJN"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172826,
+      "name": "Recuerdos",
+      "url": "https://open.spotify.com/track/3OOegn34pnO3uTGHQW04uD"
+    },
+    {
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
         "url": "https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF"
       },
       "artists": [
@@ -2238,7 +2292,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 172826,
       "name": "Recuerdos",
       "url": "https://open.spotify.com/track/7vwSOJwTlaUcXdtHr1lQhp"

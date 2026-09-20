@@ -4,12 +4,12 @@
 
 > A hypnotic journey through Melodic Techno\. Photographer: Kevin Mazur via Getty Images
 
-950 songs - 2 day 21 hr 9 min
+951 songs - 2 day 21 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [20ms](https://open.spotify.com/track/2tMJnfs9ZcmNLweduzrvBv) | [Spencer Brown](https://open.spotify.com/artist/4L9PX6lwPWo2NeuXL9kyJK), [Qrion](https://open.spotify.com/artist/0bGDTQ78MVgI5Snqo9KJZw) | [20ms](https://open.spotify.com/album/5qVxSXNw0lk95eOSgLoWjP) | 4:37 | 2023-09-01 | 2023-09-30 |
-| [365](https://open.spotify.com/track/3gL7OwN0YWlodBBgsTlnIX) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [365](https://open.spotify.com/album/7isOH7iTC82sYKBW1lGKSc) | 3:37 | 2025-02-13 |  |
+| [365](https://open.spotify.com/track/3gL7OwN0YWlodBBgsTlnIX) | [TH;EN](https://open.spotify.com/artist/6UbcuFp6HP6InTAbPASxff) | [365](https://open.spotify.com/album/7isOH7iTC82sYKBW1lGKSc) | 3:37 | 2025-02-13 | 2026-09-20 |
 | [44 \(Forget Forever\) \(Mathame Remix\)](https://open.spotify.com/track/3sQFWyTGIe1j4dyIkzKzBO) | [WOOSUNG](https://open.spotify.com/artist/5LHu1iF8m0XtRBEJbbwSoo), [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS) | [4444: Reborn](https://open.spotify.com/album/3hJ5n4LUTznYIsbml5gmXu) | 3:57 | 2025-01-09 | 2025-03-04 |
 | [A Cappella](https://open.spotify.com/track/3INzwnPdpDf7patNCpn6dL) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec) | [A Cappella](https://open.spotify.com/album/1iJ79Xqyq2BTpIQsfvKQiO) | 3:10 | 2024-03-15 | 2024-10-04 |
 | [A Feeling I Miss](https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [A Feeling I Miss](https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq) | 3:21 | 2026-02-06 |  |
@@ -91,6 +91,7 @@
 | [Be Somebody](https://open.spotify.com/track/3M7HvhoFGJghWokTkAGRUJ) | [CHRSTPHR](https://open.spotify.com/artist/6yu6ruPHJXpEtX3eQpZTCz) | [Be Somebody](https://open.spotify.com/album/613zFWp1InooghpidreFn3) | 3:52 | 2024-09-12 | 2024-10-04 |
 | [Be Strong](https://open.spotify.com/track/1rJCBWYDCZNIhk5eeDR4hg) | [Helsloot](https://open.spotify.com/artist/6dC41opH96WjFwWhhAxBsS) | [Be Strong](https://open.spotify.com/album/4ckg7FuJZLZqNgxNuZP4g5) | 3:59 | 2025-07-18 | 2025-09-05 |
 | [Beautiful \(with Joji\)](https://open.spotify.com/track/1vH3BkNnHqOpWA4jsmDEH2) | [Anyma](https://open.spotify.com/artist/4iBwchw0U0GZv5RfVYSMxN), [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [Beautiful \(with Joji\)](https://open.spotify.com/album/2CpahiICjXexEynp7scGe4) | 3:35 | 2026-04-02 | 2026-05-02 |
+| [Beauty In Us](https://open.spotify.com/track/71Blq9QnHZaCsKl2Cugrjf) | [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw), [Miss Monique](https://open.spotify.com/artist/29TpNOsTNYbLb6Xa10H0PR) | [Beauty In Us](https://open.spotify.com/album/5p39MNTTjZm34glv6Bk7E7) | 2:52 | 2026-09-17 |  |
 | [Before My Eyes](https://open.spotify.com/track/52UomKxHMuyhmkjgU82hdS) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Before My Eyes](https://open.spotify.com/album/6zjdCWAStwBTlwQaN3sJbx) | 3:47 | 2025-03-06 | 2025-03-14 |
 | [Before My Eyes \- Club Mix](https://open.spotify.com/track/7cB6udL2tVOJgC16ty7GfZ) | [Goom Gum](https://open.spotify.com/artist/6D36JCiONtO40ykvT5RBec), [Dancing on Lego](https://open.spotify.com/artist/7srXfOyKg6eNopdl2VDyj5) | [Before My Eyes](https://open.spotify.com/album/6zjdCWAStwBTlwQaN3sJbx) | 4:03 | 2025-03-13 | 2026-07-19 |
 | [Beg You](https://open.spotify.com/track/1bhtpg4vd53nh4duQh19rb) | [Eelke Kleijn](https://open.spotify.com/artist/1FY8kqUQKHwjibwLbp5cey), [Layla Benitez](https://open.spotify.com/artist/3StMSo3rzsZBfuGaGLq3IE), [Leo Wood](https://open.spotify.com/artist/58vAPzbpMZAVTHWA1KT68B) | [Beg You](https://open.spotify.com/album/7yfXmXMG09j5gVj5rY2nAp) | 3:33 | 2026-06-25 |  |

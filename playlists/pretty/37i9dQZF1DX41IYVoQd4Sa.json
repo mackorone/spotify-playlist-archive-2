@@ -1,12 +1,12 @@
 {
   "description": "\u05de\u05d0\u05d9\u05e0\u05d3\u05d9 \u05d5\u05e2\u05d3 \u05e8\u05d5\u05e7, \u05e7\u05d1\u05dc\u05d5 \u05d0\u05ea \u05d4\u05e9\u05d9\u05e8\u05d9\u05dd \u05d4\u05d9\u05e4\u05d9\u05dd \u05e9\u05dc \u05d4\u05e1\u05e6\u05e0\u05d4 \u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1\u05d9\u05ea \u05d1\u05d9\u05e9\u05e8\u05d0\u05dc : \u05e2\u05dc\u05de\u05d4 \u05d2\u05d5\u05d1",
-  "num_followers": 34436,
+  "num_followers": 34444,
   "original_name": "\u05d4\u05d0\u05dc\u05d8\u05e8\u05e0\u05d8\u05d9\u05d1 \u05e9\u05dc \u05d9\u05e9\u05e8\u05d0\u05dc",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACEgwQWNidRxqlV2uGaEdT80i0bz",
+  "snapshot_id": "AAAAALxwWNRUXWa/d1phdBuzqdBChjHO",
   "tracks": [
     {
       "added_at": "2026-09-10 21:00:21",
@@ -195,18 +195,18 @@
     {
       "added_at": "2026-09-10 21:00:21",
       "album": {
-        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
-        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
+        "name": "\u05e1\u05d5\u05dc\u05dd \u05d4\u05d0\u05d4\u05d1\u05d4",
+        "url": "https://open.spotify.com/album/4OjjI3VKebRQtjSi72lWk0"
       },
       "artists": [
         {
-          "name": "Eviatar Banai",
-          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
+          "name": "Berry Sakharof",
+          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
         }
       ],
-      "duration_ms": 201004,
-      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
-      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
+      "duration_ms": 256000,
+      "name": "\u05e1\u05d5\u05dc\u05dd \u05d4\u05d0\u05d4\u05d1\u05d4",
+      "url": "https://open.spotify.com/track/3DPI2o6RmT9vpkXTAAI7se"
     },
     {
       "added_at": "2026-09-10 21:00:21",
@@ -227,18 +227,18 @@
     {
       "added_at": "2026-09-10 21:00:21",
       "album": {
-        "name": "\u05e1\u05d5\u05dc\u05dd \u05d4\u05d0\u05d4\u05d1\u05d4",
-        "url": "https://open.spotify.com/album/4OjjI3VKebRQtjSi72lWk0"
+        "name": "\u05e2\u05d5\u05d2\u05df \u05d1\u05de\u05d9\u05dd",
+        "url": "https://open.spotify.com/album/4LewsSqBxIYJ9s3oDCHMcD"
       },
       "artists": [
         {
-          "name": "Berry Sakharof",
-          "url": "https://open.spotify.com/artist/2wp6i8BxLF3UrF1J3LY4WC"
+          "name": "Eviatar Banai",
+          "url": "https://open.spotify.com/artist/3ObnkOSF8KZ9405ZPJtwbB"
         }
       ],
-      "duration_ms": 256000,
-      "name": "\u05e1\u05d5\u05dc\u05dd \u05d4\u05d0\u05d4\u05d1\u05d4",
-      "url": "https://open.spotify.com/track/3DPI2o6RmT9vpkXTAAI7se"
+      "duration_ms": 201004,
+      "name": "\u05d3\u05de\u05d9\u05d5\u05df \u05d7\u05d5\u05e4\u05e9\u05d9",
+      "url": "https://open.spotify.com/track/53vzjmA9qNy7aztCbYUSEG"
     },
     {
       "added_at": "2026-09-10 21:00:21",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-09-10 21:00:21",
       "album": {
+        "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
+        "url": "https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI"
+      },
+      "artists": [
+        {
+          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
+          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
+        }
+      ],
+      "duration_ms": 216000,
+      "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
+      "url": "https://open.spotify.com/track/1d1BNBeoKCGJNg3rHHGcco"
+    },
+    {
+      "added_at": "2026-09-10 21:00:21",
+      "album": {
         "name": "\u05db\u05d0\u05d1 \u05d5\u05d3\u05de\u05e2\u05d5\u05ea 2",
         "url": "https://open.spotify.com/album/5WBWYsMDiN5DrEOHBCUnBA"
       },
@@ -703,22 +719,6 @@
       "duration_ms": 217560,
       "name": "\u05d1\u05d5\u05e7\u05e8 \u05d8\u05d5\u05d1 \u05d9\u05d0 \u05d1\u05e0\u05d9 \u05d6\u05d5\u05e0\u05d5\u05ea",
       "url": "https://open.spotify.com/track/532BS1J4sSrJ7sYlobX020"
-    },
-    {
-      "added_at": "2026-09-10 21:00:21",
-      "album": {
-        "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
-        "url": "https://open.spotify.com/album/4BeqL7VHszyjTMarotAZBI"
-      },
-      "artists": [
-        {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
-        }
-      ],
-      "duration_ms": 216000,
-      "name": "\u05de\u05e8\u05d0\u05d4 \u05dc\u05d9 \u05d0\u05ea \u05d4\u05e9\u05e7\u05d8",
-      "url": "https://open.spotify.com/track/1d1BNBeoKCGJNg3rHHGcco"
     },
     {
       "added_at": "2026-09-10 21:00:21",
@@ -843,18 +843,22 @@
     {
       "added_at": "2026-09-10 21:00:21",
       "album": {
-        "name": "\u05de\u05d9 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05e2\u05d5\u05e9\u05d4 \u05e4\u05d4",
-        "url": "https://open.spotify.com/album/1aIxpfJMLpgiPtnYZibNbt"
+        "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
+        "url": "https://open.spotify.com/album/4zWXDMHrJjzSAyFkl6FV1u"
       },
       "artists": [
         {
-          "name": "\u05d0\u05d1\u05e0\u05e8 \u05d8\u05d5\u05d0\u05d2",
-          "url": "https://open.spotify.com/artist/6O8I8ytHHfWxU2x3yX2p3H"
+          "name": "Karolina",
+          "url": "https://open.spotify.com/artist/1h40NvcAHSbG4O2r3932kB"
+        },
+        {
+          "name": "Uri Brauner Kinrot",
+          "url": "https://open.spotify.com/artist/2QXyIEJXxoYuf8MNZ5M3L9"
         }
       ],
-      "duration_ms": 222000,
-      "name": "\u05de\u05d9 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05de\u05d4 \u05d0\u05e0\u05d9 \u05e2\u05d5\u05e9\u05d4 \u05e4\u05d4",
-      "url": "https://open.spotify.com/track/7IvjKMzyMgfJIEO1cBn2ze"
+      "duration_ms": 210620,
+      "name": "\u05ea\u05e4\u05d9\u05dc\u05d4",
+      "url": "https://open.spotify.com/track/4jQ5ypwCpPiu5oqPHwy2SY"
     },
     {
       "added_at": "2026-09-10 21:00:21",

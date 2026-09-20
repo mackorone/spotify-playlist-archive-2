@@ -4,7 +4,7 @@
 
 > This is Danny Felix\. The essential tracks, all in one playlist.
 
-172 songs - 9 hr 27 min
+173 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -73,7 +73,7 @@
 | [El Rival](https://open.spotify.com/track/1m2ryoXIICvX9pRXNZb3D6) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [El Rival](https://open.spotify.com/album/1MafQQzWNKUr7iTQ7SWE4O) | 3:09 | 2024-12-20 | 2025-04-16 |
 | [El Rival](https://open.spotify.com/track/2IvkCzmXWixXtMA1v8S2eT) | [Julio Chaidez](https://open.spotify.com/artist/0iMKZWAsycF13Uu67duuj7), [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Esta Que Arde la Finikera](https://open.spotify.com/album/7lM5mJprKzHhntpJ5uXB5y) | 3:09 | 2024-12-15 | 2024-12-20 |
 | [EL SUBE Y BAJA \- En Vivo](https://open.spotify.com/track/1x8Fw4vwlxsupmVUDEK6hl) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EL SUBE Y BAJA \(En Vivo\)](https://open.spotify.com/album/6J4oo3VvSrs8OsNwS0Tp9E) | 2:47 | 2025-02-02 | 2025-04-14 |
-| [EL SUBE Y BAJA \- En Vivo](https://open.spotify.com/track/7wxUEERmBnMyjItDbO2Eby) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 2:47 | 2025-04-14 |  |
+| [EL SUBE Y BAJA \- En Vivo](https://open.spotify.com/track/7wxUEERmBnMyjItDbO2Eby) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Desconocidos Del Valle](https://open.spotify.com/artist/0tByJxiEmQmHJgD0Q49q9m) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 2:47 | 2025-04-14 | 2026-09-20 |
 | [El Sueño De Un Marihuano](https://open.spotify.com/track/7ww8HjlWZSG4vwkFSYJwGP) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Cuates de Sinaloa](https://open.spotify.com/artist/6qrWzQSK00anTGkydomNW7) | [El Sueño De Un Marihuano](https://open.spotify.com/album/3poGRaYQ4EUVJ3MWmuF68L) | 3:20 | 2024-01-29 |  |
 | [El Tucanazo \- En Vivo](https://open.spotify.com/track/08EQVtwQGWyXRUNYeXBwMz) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Fiesta Privada Desde El 602 \(En Vivo\)](https://open.spotify.com/album/2BMdhDB0AwzTxRoo8EQ2Te) | 3:10 | 2025-12-21 | 2026-01-18 |
 | [fake](https://open.spotify.com/track/4g42FsFm9WVhl1fReFPxNg) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [amorlove](https://open.spotify.com/album/2fr723OoqF6nYM0ucTIuQ8) | 2:56 | 2024-06-09 | 2024-06-22 |
@@ -142,6 +142,7 @@
 | [POPURRÍ RETRO \- En Vivo](https://open.spotify.com/track/4Qe6D5zMsUnuEFQG1cg8vU) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Conjunto Amenaza](https://open.spotify.com/artist/3uGV2MQUIGC13cRbP6oCJs) | [POPURRÍ RETRO \(En Vivo\)](https://open.spotify.com/album/3vWJhdj4HXVYvCLuVIzWIf) | 5:00 | 2025-02-16 | 2025-08-02 |
 | [POR UNA MUJER BONITA \- En Vivo](https://open.spotify.com/track/7o2EnXIUtVo8lVIDrKXLfd) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Los Mas Sierreños](https://open.spotify.com/artist/5pRtqHfS2cUHCuywRcEXhK) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:05 | 2025-04-16 | 2025-09-22 |
 | [PRC \- En Vivo](https://open.spotify.com/track/56XItKFtHbwf6Eneqkd9oj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Con La Cochi \(En Vivo\)](https://open.spotify.com/album/2WRv6YVcIFXrhVxCLLkpDi) | 3:11 | 2024-03-31 | 2025-09-23 |
+| [QLERO](https://open.spotify.com/track/2dk6XG1rbZVFO6GxJe0Oy8) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe) | [QLERO](https://open.spotify.com/album/6v1xfZjCdOeojj6dtFVgOY) | 2:59 | 2026-09-20 |  |
 | [QUIERO SABER DE TI \- En Vivo](https://open.spotify.com/track/5vWV0zWKlv1ugGn93MOTnH) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Evelyn Ozuna](https://open.spotify.com/artist/3WOxDYEXZgUkddUFOeztYr) | [EN VIVO DESDE EL VALLE](https://open.spotify.com/album/3aAkifKjqkWLM7Tw4Ndq4b) | 4:18 | 2025-11-05 | 2025-12-21 |
 | [QUIÉREME](https://open.spotify.com/track/3ioeNPVBME6ApIPWqnGJcj) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [Y.T.L.S.V.](https://open.spotify.com/album/3fsZw4FkYbALKGWSsHqOcq) | 3:43 | 2024-09-04 | 2025-10-05 |
 | [QUIÉREME](https://open.spotify.com/track/7DXa9fFf0GZmpCfd5X0Rn2) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV) | [QUIÉREME](https://open.spotify.com/album/28FeS8GCbUhRWEuoe5L1Om) | 3:43 | 2024-04-14 | 2024-08-19 |

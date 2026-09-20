@@ -4,7 +4,7 @@
 
 > Today’s pop, plugged into the culture w/ Miley
 
-3,429 songs - 7 day 6 hr 16 min
+3,430 songs - 7 day 6 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1896,6 +1896,7 @@
 | [Magic](https://open.spotify.com/track/4BqJbLFwlBxjCVaa0NFo7x) | [Shawn Hook](https://open.spotify.com/artist/7blkMNJv8n9ceP9zlA4W2U) | [Magic](https://open.spotify.com/album/0ShnxMCNYOs2QKiOCnScBX) | 2:54 | 2024-05-03 | 2024-05-25 |
 | [Magical](https://open.spotify.com/track/20uknEOwx3PpiGL2Es2vCg) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/5LXOgcszGvUkYzYL4v6wYg) | 3:14 | 2023-09-29 | 2024-01-27 |
 | [Magnetic](https://open.spotify.com/track/1aKvZDoLGkNMxoRYgkckZG) | [ILLIT](https://open.spotify.com/artist/36cgvBn0aadzOijnjjwqMN) | [SUPER REAL ME](https://open.spotify.com/album/6irebIc6UO8fN0jl4UlzBS) | 2:40 | 2024-03-29 | 2024-05-25 |
+| [Main Thang](https://open.spotify.com/track/1teebUL6uh13s0KAhCaor6) | [Pr$hA](https://open.spotify.com/artist/6ZDD906SlfqMxFyVZf88tt), [PayFre$ho](https://open.spotify.com/artist/19hea8d6T3J9n1Q94FTtHK) | [Main Thang](https://open.spotify.com/album/7rZaYybjFdnOrnuFbWYTxt) | 2:44 | 2026-09-19 |  |
 | [make a move](https://open.spotify.com/track/5a4vtLAbKiKmJ5Trjs88wF) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [make a move](https://open.spotify.com/album/6Mffoe2CzcWEwkZ1BdzQS5) | 2:33 | 2024-03-15 | 2024-04-06 |
 | [Make A Move](https://open.spotify.com/track/73DmfC0n2mX5lVIc0ytmEy) | [Meghan Trainor](https://open.spotify.com/artist/6JL8zeS1NmiOftqZTRgdTz) | [Timeless \(Deluxe\)](https://open.spotify.com/album/7mePeoRszpMqgvTAc9uRY0) | 2:35 | 2024-08-16 | 2024-10-26 |
 | [make believe](https://open.spotify.com/track/0G4FFtEp1LtyE1D3MS1h2r) | [elijah woods](https://open.spotify.com/artist/3IR6DvP0x2a6oUSist9UMu) | [make believe](https://open.spotify.com/album/3W4InDICGxnOGY0tJTloUC) | 2:59 | 2023-04-28 | 2023-06-10 |

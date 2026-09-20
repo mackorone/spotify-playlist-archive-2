@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 
 > Latin music bangers for your gaming session! Rauw Alejandro on cover
 
-[Spotify](https://open.spotify.com/user/spotify) - 610,154 likes - 150 songs - 8 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 610,164 likes - 150 songs - 8 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -139,8 +139,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX43v1NFXUzji.md) - [plain]
 | 129 | [TÚ ME CALIENTAS](https://open.spotify.com/track/1NhqrRHoj1r4imt9CJ8ZjZ) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4) | [TÚ ME CALIENTAS](https://open.spotify.com/album/4S5WEmQ0MBbyjH0waOrA4B) | 3:08 |
 | 130 | [4x4](https://open.spotify.com/track/1nkrOMcNi5TAwYWDQAOaB3) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ), [Victor Mendivil](https://open.spotify.com/artist/5YqI7p8zYsOpKJtjxYdOce), [Angel Almaguer](https://open.spotify.com/artist/2jF8vkWrLA8GPPwMcnvhSr), [$HUPE](https://open.spotify.com/artist/4fxkIFo9v2qqrrPCkXjNG3) | [4x4](https://open.spotify.com/album/3JdhSWKcys9HBt6ucfmgj7) | 4:48 |
 | 131 | [WORLDWIDE](https://open.spotify.com/track/63mKsLehn8oPlThU69d9qf) | [Bhavi](https://open.spotify.com/artist/7fT2Me47PQ8T7954PKrcwR), [COSMIC KID](https://open.spotify.com/artist/4JuwA35M2yrQkpOSokiH9h) | [WORLDWIDE](https://open.spotify.com/album/3a0titGkLkZSgYcQNAuaYs) | 2:32 |
-| 132 | [CÓMO QUIERES](https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI) | [CÓMO QUIERES](https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r) | 3:12 |
-| 133 | [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 |
+| 132 | [1.ROCHO TURRO \- BONUS TRACK](https://open.spotify.com/track/4GrOlepVlDYzN3p8YaA22V) | [Little Boogie](https://open.spotify.com/artist/51f3tNDq1t3W7OCtokDRb0), [Bebox](https://open.spotify.com/artist/60fauDyOXHxbclrKkyJNGV), [STEREO](https://open.spotify.com/artist/6odI6L61c5EaXZnKWSJ7fj) | [EL QUE COMPRÓ PERDIÓ](https://open.spotify.com/album/2o3J7GZgL53V41Qy9TCsio) | 2:19 |
+| 133 | [CÓMO QUIERES](https://open.spotify.com/track/7jcKEMVoEEpEmVFt4VyrFc) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI) | [CÓMO QUIERES](https://open.spotify.com/album/6xBAOaQTVa58kpSCyBDZ1r) | 3:12 |
 | 134 | [Combo la L](https://open.spotify.com/track/0wAwFw9ni4NSyeUo3Con2o) | [Beny Jr](https://open.spotify.com/artist/22dFwJoRBV51ue5TGnC7Dt), [El Guincho](https://open.spotify.com/artist/1oMiDFyAgmIzw9ZBQYHOJI) | [Combo la L](https://open.spotify.com/album/4GJQ8S2AaEHCA4la6pSPvG) | 2:48 |
 | 135 | [THE ROOF IS ON FIRE](https://open.spotify.com/track/6wZJCPyhix2WOglxGWlIfb) | [Trueno](https://open.spotify.com/artist/2x7PC78TmgqpEIjaGAZ0Oz) | [THE ROOF IS ON FIRE](https://open.spotify.com/album/5Lh6deL25P04PXzmG4UJT4) | 1:52 |
 | 136 | [Don't Know Sh\*t](https://open.spotify.com/track/0HgMqezIRiBgfZRyqnWEpV) | [Kidd Keo](https://open.spotify.com/artist/0VZrPa7mWAYXH4CwmYk8Km), [ElRubiusOMG](https://open.spotify.com/artist/1UgC6NTs8FnPGYXY7XvEId), [Yay](https://open.spotify.com/artist/65UC5VKwU4vBSBSHckQd5l) | [Rockport Espacial 3](https://open.spotify.com/album/3posVHxLgenqbAtJb4q5QI) | 2:18 |

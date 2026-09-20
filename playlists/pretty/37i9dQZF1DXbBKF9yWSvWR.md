@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Ciska Ciska
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,893 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,882 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 13 | [The Sun](https://open.spotify.com/track/3CXadUqQ5eUVbDxtDaidgN) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [The Sun](https://open.spotify.com/album/6siWmmAx2R0xa5Gp1l8lFX) | 3:36 |
 | 14 | [Who's That](https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Who's That](https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH) | 5:14 |
 | 15 | [Make A Living](https://open.spotify.com/track/5F9rXjjmy8zY1VCZgaNZhZ) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Make A Living](https://open.spotify.com/album/4oKXfybVgUOj3zb8acJQAG) | 3:23 |
-| 16 | [Back to Me](https://open.spotify.com/track/41qun4g44RzCovHZUp05zS) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Back to Me](https://open.spotify.com/album/3sN8Sup6iW9tzW1ryrexEN) | 4:20 |
+| 16 | [Back to Me](https://open.spotify.com/track/41qun4g44RzCovHZUp05zS) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Back to Me](https://open.spotify.com/album/3sN8Sup6iW9tzW1ryrexEN) | 4:19 |
 | 17 | [Caravan Dream](https://open.spotify.com/track/6LYvWyx9PVEV5NlP7WgbtN) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Caravan Dreams](https://open.spotify.com/album/2jQISIKsnA833zD0G2xtdE) | 4:05 |
 | 18 | [too late](https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu) | [Juney Boy](https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq) | [too late](https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ) | 3:10 |
 | 19 | [The Meaning of Flowers](https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM) | [Agnes Obel](https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms) | [The Meaning of Flowers](https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB) | 3:54 |

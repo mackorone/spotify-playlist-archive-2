@@ -1,6 +1,6 @@
 {
   "description": "a dose of high-energy alternative songs for your workout.",
-  "num_followers": 607530,
+  "num_followers": 607490,
   "original_name": "Rock Me Up",
   "owner": {
     "name": "Spotify",
@@ -1163,22 +1163,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Burning Down the House",
-        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
-      },
-      "artists": [
-        {
-          "name": "Paramore",
-          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
-        }
-      ],
-      "duration_ms": 218093,
-      "name": "Burning Down the House",
-      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "Open Wide",
         "url": "https://open.spotify.com/album/0BOPVh2yWYPZLXbHRQtib1"
       },
@@ -1191,6 +1175,22 @@
       "duration_ms": 222667,
       "name": "A Question Of You",
       "url": "https://open.spotify.com/track/5cmZ1viuOQc93xV7fYV5SV"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "Burning Down the House",
+        "url": "https://open.spotify.com/album/4zJNGGmaY5E5E5i1t2m2Ek"
+      },
+      "artists": [
+        {
+          "name": "Paramore",
+          "url": "https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF"
+        }
+      ],
+      "duration_ms": 218093,
+      "name": "Burning Down the House",
+      "url": "https://open.spotify.com/track/3pRCHHfwYNVCOjWSrkGNw1"
     },
     {
       "added_at": "2025-03-14 19:47:40",
@@ -1275,22 +1275,6 @@
     {
       "added_at": "2025-03-14 19:47:40",
       "album": {
-        "name": "Back Door",
-        "url": "https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 248616,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap"
-    },
-    {
-      "added_at": "2025-03-14 19:47:40",
-      "album": {
         "name": "All Born Screaming",
         "url": "https://open.spotify.com/album/3nRlJXz5W39luXRto5hc4f"
       },
@@ -1303,6 +1287,22 @@
       "duration_ms": 178722,
       "name": "Big Time Nothing",
       "url": "https://open.spotify.com/track/7F1xUyDoz9vSbwSaCryT5x"
+    },
+    {
+      "added_at": "2025-03-14 19:47:40",
+      "album": {
+        "name": "Back Door",
+        "url": "https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 248616,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap"
     },
     {
       "added_at": "2025-03-14 19:47:40",

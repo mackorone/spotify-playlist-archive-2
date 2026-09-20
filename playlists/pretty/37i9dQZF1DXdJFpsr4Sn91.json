@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59557,
+  "num_followers": 59553,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -79,22 +79,6 @@
     {
       "added_at": "2026-09-17 21:00:19",
       "album": {
-        "name": "Helahoito",
-        "url": "https://open.spotify.com/album/34zM5zslQ2AsWwAhP9rhqV"
-      },
-      "artists": [
-        {
-          "name": "Benjamin",
-          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
-        }
-      ],
-      "duration_ms": 191097,
-      "name": "Helahoito",
-      "url": "https://open.spotify.com/track/6uSuEu5nMDNlEZuZOcGxCQ"
-    },
-    {
-      "added_at": "2026-09-17 21:00:19",
-      "album": {
         "name": "M\u00e4 nautin",
         "url": "https://open.spotify.com/album/6NdaH9R08mFvjSMscSJA0C"
       },
@@ -107,6 +91,22 @@
       "duration_ms": 195997,
       "name": "M\u00e4 nautin",
       "url": "https://open.spotify.com/track/2aDIZo4JlcfE4xzrEUhEzw"
+    },
+    {
+      "added_at": "2026-09-17 21:00:19",
+      "album": {
+        "name": "Helahoito",
+        "url": "https://open.spotify.com/album/34zM5zslQ2AsWwAhP9rhqV"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "duration_ms": 191097,
+      "name": "Helahoito",
+      "url": "https://open.spotify.com/track/6uSuEu5nMDNlEZuZOcGxCQ"
     },
     {
       "added_at": "2026-09-17 21:00:19",
@@ -207,6 +207,22 @@
     {
       "added_at": "2026-09-17 21:00:19",
       "album": {
+        "name": "Holtiton",
+        "url": "https://open.spotify.com/album/0fVcDc4SNUKdwP6mKz0PUl"
+      },
+      "artists": [
+        {
+          "name": "Nenerchy",
+          "url": "https://open.spotify.com/artist/1qQ61UfUcWzv32i0XfTfZy"
+        }
+      ],
+      "duration_ms": 187607,
+      "name": "Holtiton",
+      "url": "https://open.spotify.com/track/3kcU4sBCrp7h5uk79TyNiH"
+    },
+    {
+      "added_at": "2026-09-17 21:00:19",
+      "album": {
         "name": "Annan sut pois (feat. Tomi Saario)",
         "url": "https://open.spotify.com/album/4PgMeqNU555ZVxQMriLaC4"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 172447,
       "name": "Ihmisenpuolikas",
       "url": "https://open.spotify.com/track/5XJOXkXEfDWJUmvrsvFbro"
-    },
-    {
-      "added_at": "2026-09-17 21:00:19",
-      "album": {
-        "name": "Holtiton",
-        "url": "https://open.spotify.com/album/0fVcDc4SNUKdwP6mKz0PUl"
-      },
-      "artists": [
-        {
-          "name": "Nenerchy",
-          "url": "https://open.spotify.com/artist/1qQ61UfUcWzv32i0XfTfZy"
-        }
-      ],
-      "duration_ms": 187607,
-      "name": "Holtiton",
-      "url": "https://open.spotify.com/track/3kcU4sBCrp7h5uk79TyNiH"
     },
     {
       "added_at": "2026-09-17 21:00:19",
@@ -339,22 +339,6 @@
     {
       "added_at": "2026-09-17 21:00:19",
       "album": {
-        "name": "Liian nuorii kuolinilmotuksiin",
-        "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
-      },
-      "artists": [
-        {
-          "name": "Lilja Lund\u00e9n",
-          "url": "https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1"
-        }
-      ],
-      "duration_ms": 187986,
-      "name": "Liian nuorii kuolinilmotuksiin",
-      "url": "https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd"
-    },
-    {
-      "added_at": "2026-09-17 21:00:19",
-      "album": {
         "name": "Hei Supermario (feat. Samuell)",
         "url": "https://open.spotify.com/album/3fyr79gc97RFsMlZnefk6Z"
       },
@@ -371,6 +355,22 @@
       "duration_ms": 114206,
       "name": "Hei Supermario (feat. Samuell)",
       "url": "https://open.spotify.com/track/3QWM72gaz0yoRobb9A014a"
+    },
+    {
+      "added_at": "2026-09-17 21:00:19",
+      "album": {
+        "name": "Liian nuorii kuolinilmotuksiin",
+        "url": "https://open.spotify.com/album/5m6lvgjL8XC0YzsylK4kEJ"
+      },
+      "artists": [
+        {
+          "name": "Lilja Lund\u00e9n",
+          "url": "https://open.spotify.com/artist/0wNcJZGfhunx6ws14pNya1"
+        }
+      ],
+      "duration_ms": 187986,
+      "name": "Liian nuorii kuolinilmotuksiin",
+      "url": "https://open.spotify.com/track/5chWNStxbGubQxGS0ueMtd"
     },
     {
       "added_at": "2026-09-17 21:00:19",
@@ -519,22 +519,6 @@
     {
       "added_at": "2026-09-17 21:00:19",
       "album": {
-        "name": "Vaan yks sin\u00e4",
-        "url": "https://open.spotify.com/album/3SItL7nVnnJwBE2IHdlnEH"
-      },
-      "artists": [
-        {
-          "name": "Diogi",
-          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
-        }
-      ],
-      "duration_ms": 168947,
-      "name": "Vaan yks sin\u00e4",
-      "url": "https://open.spotify.com/track/5Vggd5ZMIRtC7n36f1HuPv"
-    },
-    {
-      "added_at": "2026-09-17 21:00:19",
-      "album": {
         "name": "Ruusunen",
         "url": "https://open.spotify.com/album/6hH5TyKIonQlYPjiijinl9"
       },
@@ -547,6 +531,22 @@
       "duration_ms": 202280,
       "name": "Ruusunen",
       "url": "https://open.spotify.com/track/2tXRHusp7SiSnYTk1Kmbuz"
+    },
+    {
+      "added_at": "2026-09-17 21:00:19",
+      "album": {
+        "name": "Vaan yks sin\u00e4",
+        "url": "https://open.spotify.com/album/3SItL7nVnnJwBE2IHdlnEH"
+      },
+      "artists": [
+        {
+          "name": "Diogi",
+          "url": "https://open.spotify.com/artist/7irUub9i4hf8MO0hwUaxUM"
+        }
+      ],
+      "duration_ms": 168947,
+      "name": "Vaan yks sin\u00e4",
+      "url": "https://open.spotify.com/track/5Vggd5ZMIRtC7n36f1HuPv"
     },
     {
       "added_at": "2026-09-17 21:00:19",
@@ -591,6 +591,22 @@
     {
       "added_at": "2026-09-17 21:00:19",
       "album": {
+        "name": "Huvipuisto",
+        "url": "https://open.spotify.com/album/3ghZuBW3U57EdcmEmM4Mro"
+      },
+      "artists": [
+        {
+          "name": "EEMELI",
+          "url": "https://open.spotify.com/artist/71lHRJ8M9JmE3uZ5ZrTMiL"
+        }
+      ],
+      "duration_ms": 203541,
+      "name": "Huvipuisto",
+      "url": "https://open.spotify.com/track/3hE4jxLr5p29CynrK4zg4F"
+    },
+    {
+      "added_at": "2026-09-17 21:00:19",
+      "album": {
         "name": "Tilulilulauluja",
         "url": "https://open.spotify.com/album/1PonGDfHC7GS5OFkPxOcRP"
       },
@@ -623,18 +639,18 @@
     {
       "added_at": "2026-09-17 21:00:19",
       "album": {
-        "name": "Huvipuisto",
-        "url": "https://open.spotify.com/album/3ghZuBW3U57EdcmEmM4Mro"
+        "name": "Toiveuusintoja",
+        "url": "https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB"
       },
       "artists": [
         {
-          "name": "EEMELI",
-          "url": "https://open.spotify.com/artist/71lHRJ8M9JmE3uZ5ZrTMiL"
+          "name": "Edicti",
+          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
         }
       ],
-      "duration_ms": 203541,
-      "name": "Huvipuisto",
-      "url": "https://open.spotify.com/track/3hE4jxLr5p29CynrK4zg4F"
+      "duration_ms": 172344,
+      "name": "Viimeinen kausi",
+      "url": "https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00"
     },
     {
       "added_at": "2026-09-17 21:00:19",
@@ -727,22 +743,18 @@
     {
       "added_at": "2026-09-17 21:00:19",
       "album": {
-        "name": "The Weight of the World",
-        "url": "https://open.spotify.com/album/5H4WGT38QDnxQH5OSJSHi8"
+        "name": "PLIIS",
+        "url": "https://open.spotify.com/album/2GvtTeluH4jidSOVV8zxQW"
       },
       "artists": [
         {
-          "name": "Erika Sirola",
-          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
-        },
-        {
-          "name": "Murrettumeri",
-          "url": "https://open.spotify.com/artist/7pj9SdwRTID3M56shFkzy1"
+          "name": "SAFIRA",
+          "url": "https://open.spotify.com/artist/4RCgeIzdarhkYPoirlh6YW"
         }
       ],
-      "duration_ms": 247700,
-      "name": "The Weight of the World",
-      "url": "https://open.spotify.com/track/7n61Rue9o6zC0ktHSAErZV"
+      "duration_ms": 133161,
+      "name": "PLIIS",
+      "url": "https://open.spotify.com/track/3WYGtfd7H5vm7W8GoYFohb"
     },
     {
       "added_at": "2026-09-17 21:00:19",
@@ -763,6 +775,26 @@
     {
       "added_at": "2026-09-17 21:00:19",
       "album": {
+        "name": "The Weight of the World",
+        "url": "https://open.spotify.com/album/5H4WGT38QDnxQH5OSJSHi8"
+      },
+      "artists": [
+        {
+          "name": "Erika Sirola",
+          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
+        },
+        {
+          "name": "Murrettumeri",
+          "url": "https://open.spotify.com/artist/7pj9SdwRTID3M56shFkzy1"
+        }
+      ],
+      "duration_ms": 247700,
+      "name": "The Weight of the World",
+      "url": "https://open.spotify.com/track/7n61Rue9o6zC0ktHSAErZV"
+    },
+    {
+      "added_at": "2026-09-17 21:00:19",
+      "album": {
         "name": "Bailebella",
         "url": "https://open.spotify.com/album/2xOkAkqFeS3U7Q62RUzCyu"
       },
@@ -775,22 +807,6 @@
       "duration_ms": 182481,
       "name": "Bailebella",
       "url": "https://open.spotify.com/track/4SteSu1nj6EDKpmfnPWzBb"
-    },
-    {
-      "added_at": "2026-09-17 21:00:19",
-      "album": {
-        "name": "PLIIS",
-        "url": "https://open.spotify.com/album/2GvtTeluH4jidSOVV8zxQW"
-      },
-      "artists": [
-        {
-          "name": "SAFIRA",
-          "url": "https://open.spotify.com/artist/4RCgeIzdarhkYPoirlh6YW"
-        }
-      ],
-      "duration_ms": 133161,
-      "name": "PLIIS",
-      "url": "https://open.spotify.com/track/3WYGtfd7H5vm7W8GoYFohb"
     },
     {
       "added_at": "2026-09-17 21:00:19",
@@ -847,22 +863,6 @@
       "duration_ms": 190026,
       "name": "Kaikki k\u00e4\u00e4ntyy",
       "url": "https://open.spotify.com/track/1CISnkyR74RqSFjayPsvBE"
-    },
-    {
-      "added_at": "2026-09-17 21:00:19",
-      "album": {
-        "name": "toukokuu",
-        "url": "https://open.spotify.com/album/38DmR5zTXO8d0eoODjDx2x"
-      },
-      "artists": [
-        {
-          "name": "fibi",
-          "url": "https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo"
-        }
-      ],
-      "duration_ms": 91500,
-      "name": "toukokuu",
-      "url": "https://open.spotify.com/track/4X0N6E4U47DP4KdYZqhIEY"
     }
   ],
   "unique_name": "Nousussa",

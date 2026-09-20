@@ -1,6 +1,6 @@
 {
   "description": "Nacimos para rodar en el asfalto. ",
-  "num_followers": 215987,
+  "num_followers": 216066,
   "original_name": "Las Choppers",
   "owner": {
     "name": "Spotify",
@@ -855,22 +855,6 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "Back Door",
-        "url": "https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 248616,
-      "name": "Back Door",
-      "url": "https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
         "name": "Automatic Sun",
         "url": "https://open.spotify.com/album/1j7amuuid5B0Hf9I6I1PLZ"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 190859,
       "name": "Automatic Sun",
       "url": "https://open.spotify.com/track/3p8SLhMdp3M5cusqAp6H3L"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
+        "name": "Back Door",
+        "url": "https://open.spotify.com/album/5guxsMehonEQNO93lZW8eJ"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 248616,
+      "name": "Back Door",
+      "url": "https://open.spotify.com/track/1DnLZZYOAtGzjYNKcUu1ap"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -1079,6 +1079,22 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
+        "name": "A Tribute to the Music of Bob Seger",
+        "url": "https://open.spotify.com/album/7iptHw4NqVUSd4XnexhlTU"
+      },
+      "artists": [
+        {
+          "name": "Sam Morrison and Turn The Page",
+          "url": "https://open.spotify.com/artist/7csps3rrXHbv6Xnom2Ntjl"
+        }
+      ],
+      "duration_ms": 190893,
+      "name": "Old Time Rock n\\' Roll",
+      "url": "https://open.spotify.com/track/1MDgKH2MKCcWjV5UUrobHY"
+    },
+    {
+      "added_at": "2026-09-11 06:00:08",
+      "album": {
         "name": "Anything but You",
         "url": "https://open.spotify.com/album/11fElf60VTbmDPs3MMxPa7"
       },
@@ -1095,22 +1111,6 @@
       "duration_ms": 208405,
       "name": "Anything but You",
       "url": "https://open.spotify.com/track/4ZXZEJAJfgeg679dvkQWki"
-    },
-    {
-      "added_at": "2026-09-11 06:00:08",
-      "album": {
-        "name": "A Tribute to the Music of Bob Seger",
-        "url": "https://open.spotify.com/album/7iptHw4NqVUSd4XnexhlTU"
-      },
-      "artists": [
-        {
-          "name": "Sam Morrison and Turn The Page",
-          "url": "https://open.spotify.com/artist/7csps3rrXHbv6Xnom2Ntjl"
-        }
-      ],
-      "duration_ms": 190893,
-      "name": "Old Time Rock n\\' Roll",
-      "url": "https://open.spotify.com/track/1MDgKH2MKCcWjV5UUrobHY"
     },
     {
       "added_at": "2026-09-11 06:00:08",
@@ -1211,18 +1211,18 @@
     {
       "added_at": "2026-09-11 06:00:08",
       "album": {
-        "name": "I Love Rock 'N' Roll (Expanded Edition)",
-        "url": "https://open.spotify.com/album/555qwe1qUgLdee80TZ2CQt"
+        "name": "Walk This Road",
+        "url": "https://open.spotify.com/album/7aPVm5JTgslETzxylWaywk"
       },
       "artists": [
         {
-          "name": "Joan Jett & the Blackhearts",
-          "url": "https://open.spotify.com/artist/1Fmb52lZ6Jv7FMWXXTPO3K"
+          "name": "The Doobie Brothers",
+          "url": "https://open.spotify.com/artist/39T6qqI0jDtSWWioX8eGJz"
         }
       ],
-      "duration_ms": 175173,
-      "name": "I Love Rock 'N Roll",
-      "url": "https://open.spotify.com/track/2Cdvbe2G4hZsnhNMKyGrie"
+      "duration_ms": 230657,
+      "name": "New Orleans",
+      "url": "https://open.spotify.com/track/4wuVgdYCcCEsBQsuC5fIvx"
     }
   ],
   "unique_name": "Las Choppers",

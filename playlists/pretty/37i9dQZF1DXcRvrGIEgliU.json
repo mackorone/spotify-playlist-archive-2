@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 19803,
+  "num_followers": 19823,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "rapunzel",
-        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
-      },
-      "artists": [
-        {
-          "name": "Dhruv",
-          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
-        }
-      ],
-      "duration_ms": 159130,
-      "name": "moonlight",
-      "url": "https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "22",
         "url": "https://open.spotify.com/album/4fAL4TmJZ3gnmfgYyM5vLC"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 142120,
       "name": "22",
       "url": "https://open.spotify.com/track/1QxTmNDHFmgaxgAolqqgAD"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "rapunzel",
+        "url": "https://open.spotify.com/album/305fd6KSKY40Yjgwvm2ck6"
+      },
+      "artists": [
+        {
+          "name": "Dhruv",
+          "url": "https://open.spotify.com/artist/70NcAr4ZtA3FAqU16iQZSb"
+        }
+      ],
+      "duration_ms": 159130,
+      "name": "moonlight",
+      "url": "https://open.spotify.com/track/2Qn6WHJrY5Im82Jux8FboH"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1375,26 +1375,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
-        "url": "https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1"
+        "name": "Bodhiria",
+        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
       },
       "artists": [
         {
-          "name": "Ph\u1ea1m Nguy\u00ean Ng\u1ecdc",
-          "url": "https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK"
-        },
-        {
-          "name": "VAnh",
-          "url": "https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo"
-        },
-        {
-          "name": "BMZ",
-          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
+          "name": "Judeline",
+          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
         }
       ],
-      "duration_ms": 198000,
-      "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
-      "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
+      "duration_ms": 198009,
+      "name": "zarcillos de plata",
+      "url": "https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1415,18 +1407,26 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Bodhiria",
-        "url": "https://open.spotify.com/album/3fVXh36WypsZR2JGathvkq"
+        "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
+        "url": "https://open.spotify.com/album/01q7dE8UcVZpykFNzBnGP1"
       },
       "artists": [
         {
-          "name": "Judeline",
-          "url": "https://open.spotify.com/artist/1H6X7yhnXZg73f9bssaj1Q"
+          "name": "Ph\u1ea1m Nguy\u00ean Ng\u1ecdc",
+          "url": "https://open.spotify.com/artist/2Xlia1jlI7JDki4Xa42uyK"
+        },
+        {
+          "name": "VAnh",
+          "url": "https://open.spotify.com/artist/4QC9UUJeYEo4wnbTvuOHLo"
+        },
+        {
+          "name": "BMZ",
+          "url": "https://open.spotify.com/artist/3euFcFd5Dc7JAz6t7oKg7m"
         }
       ],
-      "duration_ms": 198009,
-      "name": "zarcillos de plata",
-      "url": "https://open.spotify.com/track/2Wvs8qJJKrKGB6uZGMTDZB"
+      "duration_ms": 198000,
+      "name": "Sao Em L\u1ea1i T\u1eaft M\u00e1y?",
+      "url": "https://open.spotify.com/track/3Rf4rNtuMuSQ9mr6hmhIIB"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1675,6 +1675,38 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Come Over And Love Me",
+        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
+      },
+      "artists": [
+        {
+          "name": "Love Spells",
+          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
+        }
+      ],
+      "duration_ms": 161266,
+      "name": "Come Over And Love Me",
+      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Tirando Balas",
+        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
+      },
+      "artists": [
+        {
+          "name": "Samura\u00ef",
+          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
+        }
+      ],
+      "duration_ms": 173748,
+      "name": "Tirando Balas",
+      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Dhak Dhak",
         "url": "https://open.spotify.com/album/1bfaIV1LAAiy22ZGGHzSq2"
       },
@@ -1699,38 +1731,6 @@
       "duration_ms": 202105,
       "name": "Dhak Dhak",
       "url": "https://open.spotify.com/track/7iIEFHrNvn6buQdP9dJY1N"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Tirando Balas",
-        "url": "https://open.spotify.com/album/1LZ1gCEC2vlZa1BwL96S5P"
-      },
-      "artists": [
-        {
-          "name": "Samura\u00ef",
-          "url": "https://open.spotify.com/artist/0BovidHLtM9n55WXWkApK9"
-        }
-      ],
-      "duration_ms": 173748,
-      "name": "Tirando Balas",
-      "url": "https://open.spotify.com/track/15I8CL9krCHIiwZvac61yl"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Come Over And Love Me",
-        "url": "https://open.spotify.com/album/7ippU8a375W82GKPSTk0nM"
-      },
-      "artists": [
-        {
-          "name": "Love Spells",
-          "url": "https://open.spotify.com/artist/5iiqhuffUTPEOjAUDj19IW"
-        }
-      ],
-      "duration_ms": 161266,
-      "name": "Come Over And Love Me",
-      "url": "https://open.spotify.com/track/6MvuLjhCLJYqeV2pgZb5Mo"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1775,22 +1775,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "EXTC",
-        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
-      },
-      "artists": [
-        {
-          "name": "greek",
-          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
-        }
-      ],
-      "duration_ms": 183600,
-      "name": "safety",
-      "url": "https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "I Lied, I'm Sorry",
         "url": "https://open.spotify.com/album/3z1vyZHMIrMnbpTNrVC5K9"
       },
@@ -1807,18 +1791,38 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "U\u00e7urum",
-        "url": "https://open.spotify.com/album/47JLSmtYhFxtF7WEzspRJP"
+        "name": "EXTC",
+        "url": "https://open.spotify.com/album/5U3qHK1s6FljIZNrNCFyk1"
       },
       "artists": [
         {
-          "name": "M Lisa",
-          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+          "name": "greek",
+          "url": "https://open.spotify.com/artist/23FgP9gxRT6QMcRhsV71kY"
         }
       ],
-      "duration_ms": 150000,
-      "name": "U\u00e7urum",
-      "url": "https://open.spotify.com/track/1F9yfzln4nUkB7cU60eOzl"
+      "duration_ms": 183600,
+      "name": "safety",
+      "url": "https://open.spotify.com/track/455NN00cexwUiy0CkRbgqe"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Pound Town - EP",
+        "url": "https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi"
+      },
+      "artists": [
+        {
+          "name": "Sexyy Red",
+          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
+        },
+        {
+          "name": "Tay Keith",
+          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
+        }
+      ],
+      "duration_ms": 129429,
+      "name": "Pound Town",
+      "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1835,6 +1839,22 @@
       "duration_ms": 94085,
       "name": "nine thirty (the glow)",
       "url": "https://open.spotify.com/track/7fOu8YZoZ13Q8H6A2vm8ie"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "U\u00e7urum",
+        "url": "https://open.spotify.com/album/47JLSmtYhFxtF7WEzspRJP"
+      },
+      "artists": [
+        {
+          "name": "M Lisa",
+          "url": "https://open.spotify.com/artist/7CLojerj7StFcAX03tA8Pc"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "U\u00e7urum",
+      "url": "https://open.spotify.com/track/1F9yfzln4nUkB7cU60eOzl"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2035,26 +2055,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Pound Town - EP",
-        "url": "https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi"
-      },
-      "artists": [
-        {
-          "name": "Sexyy Red",
-          "url": "https://open.spotify.com/artist/3DbwFQlvLxRSi2uX8mf81A"
-        },
-        {
-          "name": "Tay Keith",
-          "url": "https://open.spotify.com/artist/5xkFVS6IwwgHEAaRzXc9U3"
-        }
-      ],
-      "duration_ms": 129429,
-      "name": "Pound Town",
-      "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "TMF",
         "url": "https://open.spotify.com/album/0zGLgwn8xSDwNrzc67tEkt"
       },
@@ -2119,22 +2119,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 196352,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "sweetie (feat. Scribz Riley)",
         "url": "https://open.spotify.com/album/6wak6Kb9fHaEkNT4MNRWZI"
       },
@@ -2151,6 +2135,22 @@
       "duration_ms": 177738,
       "name": "sweetie (feat. Scribz Riley)",
       "url": "https://open.spotify.com/track/77iUKhwSNgWFkELiAkW7Rq"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 196352,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH"
     },
     {
       "added_at": "2025-05-19 03:00:14",

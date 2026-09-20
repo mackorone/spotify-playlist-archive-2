@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4MB9zAGi61h.md) - [plain]
 
 > Close Mic, Muted Strings, Cozy Vibes 🍂
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,692 likes - 92 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,711 likes - 92 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

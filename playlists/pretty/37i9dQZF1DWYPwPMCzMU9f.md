@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYPwPMCzMU9f.md) - [plain]
 
 > 💔 tú y yo estábamos viviendo algo bonito y disculpa si es que te vuelvo a insistir 💔 Foto: Luis Alfonso, Silvestre Dangond y Xavi
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,242 likes - 70 songs - 4 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,282 likes - 70 songs - 4 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

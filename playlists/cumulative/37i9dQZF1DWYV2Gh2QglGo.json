@@ -5525,6 +5525,24 @@
     },
     {
       "album": {
+        "name": "PRETTY ROUGH: VOL. 1",
+        "url": "https://open.spotify.com/album/1EjgiEc20E5cJc1F4cFaP1"
+      },
+      "artists": [
+        {
+          "name": "Alli Walker",
+          "url": "https://open.spotify.com/artist/7nspbN0Rr5jTKLOqJoUnPj"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195952,
+      "name": "HOLD YA TO IT",
+      "url": "https://open.spotify.com/track/2GPqJ7sK3AJjJjMGmpQSq9"
+    },
+    {
+      "album": {
         "name": "Hollow",
         "url": "https://open.spotify.com/album/4lZQjjnhdmMoaEW6A9SJBJ"
       },

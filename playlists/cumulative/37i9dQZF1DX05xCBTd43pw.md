@@ -4,7 +4,7 @@
 
 > Aus der Schweiz für dich – musique suisse – musica svizzera 🇨🇭<br/>Cover: Kings Elliot
 
-586 songs - 1 day 6 hr 27 min
+587 songs - 1 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -66,7 +66,7 @@
 | [Blueme](https://open.spotify.com/track/4lvwmEzgSSVSDdZ5IJ9JS6) | [Heimweh](https://open.spotify.com/artist/105zzMv7YWXNlEOan0owJb) | [Blueme](https://open.spotify.com/album/6Jxu6aoNf01lUI1yhFdIaw) | 3:09 | 2025-05-08 | 2025-05-16 |
 | [Body](https://open.spotify.com/track/1ucysYifutlHvdhT3wPH09) | [Monet192](https://open.spotify.com/artist/60uPSVM3svOL8kZ3Wkb3Zw) | [Body](https://open.spotify.com/album/2XFkhBjRO8elEtoZovNbjg) | 2:19 | 2024-06-27 | 2024-10-04 |
 | [BORN BLUE \(THE SONG\)](https://open.spotify.com/track/4UWtyESSkgFuLL7JU6YsdX) | [Kings Elliot](https://open.spotify.com/artist/3iUGCPBBseYhEhwqCG7PNy) | [BORN BLUE \(THE SONG\)](https://open.spotify.com/album/7J3K7vYvEDFCQbhpCXdECr) | 3:30 | 2026-06-25 |  |
-| [Born To Be Blue](https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Born To Be Blue](https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c) | 2:51 | 2025-09-12 |  |
+| [Born To Be Blue](https://open.spotify.com/track/04zo7BvWV2yNzgpRNhgKFw) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [Born To Be Blue](https://open.spotify.com/album/3ZqxWb4ror9WT1QT7GuV8c) | 2:51 | 2025-09-12 | 2026-09-20 |
 | [Born With A Broken Heart](https://open.spotify.com/track/6We5V23tVaQ7axZDfIvz8W) | [Stress](https://open.spotify.com/artist/2piHSX9fKmsCD8tbfX1cJg), [Marc Storace](https://open.spotify.com/artist/3JJ2TxK8vyck6aIzU4XvVM) | [Born With A Broken Heart](https://open.spotify.com/album/2xilCRt00xyTgs3xW8i0Fb) | 3:06 | 2026-03-26 | 2026-08-28 |
 | [Botanical Garden](https://open.spotify.com/track/7bx7MDIg8p098HHmsJebzl) | [Anna Erhard](https://open.spotify.com/artist/11OTiI6xYGpLxS3aoVkI9e) | [Botanical Garden](https://open.spotify.com/album/7bcLaytbnuWJCfqa2JdyBc) | 3:08 | 2024-06-27 | 2024-08-21 |
 | [boum boum barbie](https://open.spotify.com/track/51qU69BObybLoJS2grfKBG) | [Marie Jay](https://open.spotify.com/artist/3EfWdPE7TccXs99V0WuOZY) | [boum boum barbie](https://open.spotify.com/album/1n4g3xXJbgPb9eR0CP9wLP) | 2:24 | 2026-03-05 | 2026-06-19 |
@@ -594,5 +594,6 @@
 | [Zweiazwenzgi](https://open.spotify.com/track/62fsYBNcYg9jGxF4Yk1Iqq) | [Megawatt](https://open.spotify.com/artist/1OXgQIrgvp6L46akQ5lBey) | [Elektrisch](https://open.spotify.com/album/06wUSPaMKIR0Snp3UwaOL8) | 3:26 | 2025-06-26 | 2025-10-03 |
 | [Zweni](https://open.spotify.com/track/5t583ypah1rOexls7zRRVJ) | [Sophie](https://open.spotify.com/artist/3fk0aODXAMActCwbdl2odS), [Pit](https://open.spotify.com/artist/4U4ogvgnnLjJ6z9pgbyPQM) | [M.R.X.](https://open.spotify.com/album/1tDRKqqqOaKDfliDY8pWwn) | 3:03 | 2025-04-24 | 2025-05-02 |
 | [À Deux](https://open.spotify.com/track/4nLzsm83c3LkNJpr7jF7uW) | [Tayron Kwidan's](https://open.spotify.com/artist/1wlqglR1kdPF2T0Rxee11v) | [À Deux](https://open.spotify.com/album/1DMDYEPsE4C2cIviqG7PES) | 2:22 | 2025-05-22 | 2025-06-14 |
+| [☁︎ purple orange sky ☁︎](https://open.spotify.com/track/09LlHp3Wjs5KEWDCuWs1Ns) | [IKAN HYU](https://open.spotify.com/artist/1kcgm5pRULbDb5gs7kDRNK) | [WITHDRAWAL SYMPTOMS](https://open.spotify.com/album/5NNr9nRArk1NzuD8drNsiE) | 3:39 | 2026-09-17 |  |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

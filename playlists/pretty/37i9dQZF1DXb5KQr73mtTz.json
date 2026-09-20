@@ -471,6 +471,42 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
+        "name": "Narcissus",
+        "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
+      },
+      "artists": [
+        {
+          "name": "DAWN \ub358",
+          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
+        },
+        {
+          "name": "10CM",
+          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
+        }
+      ],
+      "duration_ms": 195186,
+      "name": "Star (Feat. 10CM)",
+      "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
+    },
+    {
+      "added_at": "2026-04-29 09:21:42",
+      "album": {
+        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
+        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
+      },
+      "artists": [
+        {
+          "name": "TAEMIN",
+          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
+        }
+      ],
+      "duration_ms": 227360,
+      "name": "Clockwork",
+      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
+    },
+    {
+      "added_at": "2026-04-29 09:21:42",
+      "album": {
         "name": "Phantom Pain",
         "url": "https://open.spotify.com/album/1UHtWE0ml91fMJkFHfsupS"
       },
@@ -495,42 +531,6 @@
       "duration_ms": 195333,
       "name": "Villain",
       "url": "https://open.spotify.com/track/6wiasLz64Eo0qdwOEuuq2Q"
-    },
-    {
-      "added_at": "2026-04-29 09:21:42",
-      "album": {
-        "name": "Never Gonna Dance Again : Act 1 - The 3rd Album",
-        "url": "https://open.spotify.com/album/6YfGgOaUnhs0A9brMqjpHf"
-      },
-      "artists": [
-        {
-          "name": "TAEMIN",
-          "url": "https://open.spotify.com/artist/13rF01aOogvnkuQXOlgTW8"
-        }
-      ],
-      "duration_ms": 227360,
-      "name": "Clockwork",
-      "url": "https://open.spotify.com/track/09SIbdUVr34sBd7Uwwt63J"
-    },
-    {
-      "added_at": "2026-04-29 09:21:42",
-      "album": {
-        "name": "Narcissus",
-        "url": "https://open.spotify.com/album/3fJW2iurWA0QBCMc3qrFwh"
-      },
-      "artists": [
-        {
-          "name": "DAWN \ub358",
-          "url": "https://open.spotify.com/artist/7DxCK6bwfQC3F2ajZ02R2F"
-        },
-        {
-          "name": "10CM",
-          "url": "https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp"
-        }
-      ],
-      "duration_ms": 195186,
-      "name": "Star (Feat. 10CM)",
-      "url": "https://open.spotify.com/track/42LBHPwYS9g5lDbLxk0LCg"
     },
     {
       "added_at": "2026-04-29 09:21:42",
@@ -679,22 +679,6 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
-        "name": "O",
-        "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
-      },
-      "artists": [
-        {
-          "name": "YUJU",
-          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
-        }
-      ],
-      "duration_ms": 217040,
-      "name": "Without U",
-      "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
-    },
-    {
-      "added_at": "2026-04-29 09:21:42",
-      "album": {
         "name": "You Ruined Me",
         "url": "https://open.spotify.com/album/7twWecwz0kjiceI9rLbFzk"
       },
@@ -711,6 +695,22 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
+        "name": "O",
+        "url": "https://open.spotify.com/album/42k8JWt7Czu6cLEevU2bus"
+      },
+      "artists": [
+        {
+          "name": "YUJU",
+          "url": "https://open.spotify.com/artist/7Bu0r4MCDX3sbhcFD5IXyx"
+        }
+      ],
+      "duration_ms": 217040,
+      "name": "Without U",
+      "url": "https://open.spotify.com/track/6uy6OjdR33a74DfkaJ8Ar1"
+    },
+    {
+      "added_at": "2026-04-29 09:21:42",
+      "album": {
         "name": "Would You Marry Me?, Pt. 2 (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5hZd82eDAI9iU8xOrY29Rw"
       },
@@ -723,22 +723,6 @@
       "duration_ms": 205000,
       "name": "I\u2019m Still Into You (Would You Marry Me? : Original Television Soundtrack)",
       "url": "https://open.spotify.com/track/3lDNvWzBnY6U8TkYefo7Zs"
-    },
-    {
-      "added_at": "2026-04-29 09:21:42",
-      "album": {
-        "name": "\uc2ac\ud514\uc774 \ucc3e\uc544\uc640\uc11c \uadf8\ub798 (Sorrow at my door)",
-        "url": "https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe"
-      },
-      "artists": [
-        {
-          "name": "Nam Gyu ri",
-          "url": "https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU"
-        }
-      ],
-      "duration_ms": 202142,
-      "name": "Sorrow at my door(Prod. ROCOBERRY)",
-      "url": "https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN"
     },
     {
       "added_at": "2026-04-29 09:21:42",
@@ -767,18 +751,18 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
-        "name": "Still Here",
-        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
+        "name": "\uc2ac\ud514\uc774 \ucc3e\uc544\uc640\uc11c \uadf8\ub798 (Sorrow at my door)",
+        "url": "https://open.spotify.com/album/52NwC1WFnlSJpOtZ21CnRe"
       },
       "artists": [
         {
-          "name": "ONEWE",
-          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+          "name": "Nam Gyu ri",
+          "url": "https://open.spotify.com/artist/3Fp5JoccjllfLmNNnUuDkU"
         }
       ],
-      "duration_ms": 219746,
-      "name": "Still Here",
-      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
+      "duration_ms": 202142,
+      "name": "Sorrow at my door(Prod. ROCOBERRY)",
+      "url": "https://open.spotify.com/track/28Hik8LLOdidQEfww8zGAN"
     },
     {
       "added_at": "2026-04-29 09:21:42",
@@ -803,6 +787,22 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
+        "name": "Still Here",
+        "url": "https://open.spotify.com/album/1vhPhbQYVSAuDI8ZKsG0VU"
+      },
+      "artists": [
+        {
+          "name": "ONEWE",
+          "url": "https://open.spotify.com/artist/4D9foUQxTrsS0w2BeyCD16"
+        }
+      ],
+      "duration_ms": 219746,
+      "name": "Still Here",
+      "url": "https://open.spotify.com/track/7nVhKlC4JktgjoUXLdhly2"
+    },
+    {
+      "added_at": "2026-04-29 09:21:42",
+      "album": {
         "name": "Unreachable",
         "url": "https://open.spotify.com/album/5Stxf7cgE1761svCkuFFRm"
       },
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-04-29 09:21:42",
       "album": {
-        "name": "Still Thinking of You",
-        "url": "https://open.spotify.com/album/14b8fmAs21v5wumPzoQbga"
-      },
-      "artists": [
-        {
-          "name": "LEE BYEONGCHAN",
-          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
-        }
-      ],
-      "duration_ms": 280000,
-      "name": "Still Thinking of You",
-      "url": "https://open.spotify.com/track/4erPuFgudlE4jrUdjZepcy"
-    },
-    {
-      "added_at": "2026-04-29 09:21:42",
-      "album": {
         "name": "Always You (Original Soundtrack from Recipe for Love, Pt. 6)",
         "url": "https://open.spotify.com/album/6X7eCHmm5pYJbbKn1ETnnP"
       },
@@ -851,6 +835,22 @@
       "duration_ms": 224602,
       "name": "Always You",
       "url": "https://open.spotify.com/track/44YjvQqYO17jk0VeTY1LKe"
+    },
+    {
+      "added_at": "2026-04-29 09:21:42",
+      "album": {
+        "name": "Still Thinking of You",
+        "url": "https://open.spotify.com/album/14b8fmAs21v5wumPzoQbga"
+      },
+      "artists": [
+        {
+          "name": "LEE BYEONGCHAN",
+          "url": "https://open.spotify.com/artist/5KrpBywBTvZAMRyadIYX1s"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Still Thinking of You",
+      "url": "https://open.spotify.com/track/4erPuFgudlE4jrUdjZepcy"
     }
   ],
   "unique_name": "\ub098\uc758 \uc6b0\uc6b8\uc740, (K-Pop Sad Songs)",

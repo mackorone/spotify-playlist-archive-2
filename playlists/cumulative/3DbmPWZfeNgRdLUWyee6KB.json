@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "The best new independent songs. New tracks every month.",
+  "description": "The best new indie music, indie folk &amp; rock discoveries. Fresh songs for your daily chill, focus and road trips. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists. Updated daily with new releases \u2014 hit save to stay tuned!",
   "name": "New Indie Music",
   "tracks": [
     {
@@ -566,7 +566,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 299344,
       "name": "A Grave for Your Grief",
       "url": "https://open.spotify.com/track/3YMBzXhzprcuffAsqsWJh1"
@@ -1082,7 +1082,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 223559,
       "name": "Adonde quiera que voy",
       "url": "https://open.spotify.com/track/2Zm0CSYLIxmgp3qX1siXB5"
@@ -2582,7 +2582,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 226321,
       "name": "Believe What You Like",
       "url": "https://open.spotify.com/track/4rxuvpHj7VrTkjB329rnR6"
@@ -3540,7 +3540,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 181500,
       "name": "California",
       "url": "https://open.spotify.com/track/09OFR9iPwfmurnjRF9fdoK"
@@ -3630,7 +3630,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 249412,
       "name": "camouflaging - demo",
       "url": "https://open.spotify.com/track/6ZN0wjcbOzuG9OBDk63arf"
@@ -4260,7 +4260,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 177751,
       "name": "circles",
       "url": "https://open.spotify.com/track/6AN1RdJk3621MSbxtvGJJG"
@@ -5286,7 +5286,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 250900,
       "name": "Dancing In The Rain",
       "url": "https://open.spotify.com/track/31sR1cj2zUun40FoeJ4TdF"
@@ -6134,7 +6134,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 192801,
       "name": "Don't Grow Sick of Me",
       "url": "https://open.spotify.com/track/0OCiuKDpVghgWWg5r6T5Jt"
@@ -6404,7 +6404,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 162666,
       "name": "Dream Again",
       "url": "https://open.spotify.com/track/4D0P4TCJqjK3hzxwPcu3sB"
@@ -6512,7 +6512,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 180146,
       "name": "DU BIST WILD",
       "url": "https://open.spotify.com/track/2pAAKvqH7VTBde8kQ1UEPH"
@@ -6664,6 +6664,24 @@
       "duration_ms": 238356,
       "name": "E resta qui con me",
       "url": "https://open.spotify.com/track/2nWGzqiNx8ZCbJgeBkKl1u"
+    },
+    {
+      "album": {
+        "name": "Pieno Di Luci E Di Colori",
+        "url": "https://open.spotify.com/album/4CZGmN3nPBpTAlU4oQv5SO"
+      },
+      "artists": [
+        {
+          "name": "Enrchi",
+          "url": "https://open.spotify.com/artist/4BMds5PsgG9TmbEnXjeaGu"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230614,
+      "name": "E' certo che sei tu",
+      "url": "https://open.spotify.com/track/5MAIG3h5lT4rjPm5LXjEAP"
     },
     {
       "album": {
@@ -8242,7 +8260,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 189295,
       "name": "Freefalling",
       "url": "https://open.spotify.com/track/4nzQamGQeOgQXRTQscKALJ"
@@ -9188,7 +9206,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 199199,
       "name": "Happy for a while",
       "url": "https://open.spotify.com/track/57Plzqe9EDEkswEGkWz9Jw"
@@ -10049,6 +10067,24 @@
     },
     {
       "album": {
+        "name": "Hypersonic Missiles",
+        "url": "https://open.spotify.com/album/7FWCgfnTgupXdyBy51ME9m"
+      },
+      "artists": [
+        {
+          "name": "Sam Fender",
+          "url": "https://open.spotify.com/artist/6zlR5ttMfMNmwf2lecU9Cc"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 237986,
+      "name": "Hypersonic Missiles",
+      "url": "https://open.spotify.com/track/6CltzquypraYIlWFp48m1O"
+    },
+    {
+      "album": {
         "name": "H\u00e4ngematte",
         "url": "https://open.spotify.com/album/3RY4slE0DaXLZNsMBEg3GB"
       },
@@ -10638,7 +10674,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 199838,
       "name": "I Want You to Have His Child",
       "url": "https://open.spotify.com/track/43mFN59dUNwEvInNoesgLQ"
@@ -10930,7 +10966,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 322002,
       "name": "Il ritmo della natura",
       "url": "https://open.spotify.com/track/5xOzT3bXDAwkfyBsl9Q781"
@@ -11382,7 +11418,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 200495,
       "name": "Io ti perder\u00f2 - Live 2026",
       "url": "https://open.spotify.com/track/4mRlNi6l2t4TlVGTNwckN9"
@@ -11480,7 +11516,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 249999,
       "name": "It's Not A Love Song",
       "url": "https://open.spotify.com/track/2nYU8y9PJSY6eB2KZvUSUK"
@@ -11876,7 +11912,7 @@
       ],
       "date_added": "2026-08-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 222147,
       "name": "Just Another Sun Going Down",
       "url": "https://open.spotify.com/track/0opwEDW1ipm3aGgCawAyye"
@@ -12074,7 +12110,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 237250,
       "name": "Keep on Dreaming",
       "url": "https://open.spotify.com/track/2WB6zrnwESi9zgtcLlUjn1"
@@ -12312,7 +12348,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 181354,
       "name": "L.O.M.L",
       "url": "https://open.spotify.com/track/6IlOhijUsHBqFw8ZPcAnKV"
@@ -12864,7 +12900,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 267493,
       "name": "Lay Down Your Arms",
       "url": "https://open.spotify.com/track/7nWjyT8LzLPoY5iDZSBzvE"
@@ -13338,7 +13374,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 262137,
       "name": "Liminal",
       "url": "https://open.spotify.com/track/6CJ2xNbKYZlqSXRqsbSYa1"
@@ -13522,7 +13558,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 232920,
       "name": "Long Way Back",
       "url": "https://open.spotify.com/track/5KzTKN4TB4pPsMLQMuzUAr"
@@ -13558,7 +13594,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 274799,
       "name": "Loophole",
       "url": "https://open.spotify.com/track/55MQNMrirlAqMne0FmNiNd"
@@ -15687,6 +15723,24 @@
     },
     {
       "album": {
+        "name": "More Than Shame",
+        "url": "https://open.spotify.com/album/2YxQumNRkmyZBs0OMtuTGM"
+      },
+      "artists": [
+        {
+          "name": "Arbor Rose",
+          "url": "https://open.spotify.com/artist/5xArhGFY5mmdgNX4fdDCpY"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153236,
+      "name": "More Than Shame",
+      "url": "https://open.spotify.com/track/4h3Vdbac3OdgL1Ez8kiJdV"
+    },
+    {
+      "album": {
         "name": "Mother Superior",
         "url": "https://open.spotify.com/album/3gTBEqs8VigsZgnfxAgeQ9"
       },
@@ -15702,6 +15756,24 @@
       "duration_ms": 220000,
       "name": "Mother Superior",
       "url": "https://open.spotify.com/track/2KUgPxQX8Xur7Rm52YtlhQ"
+    },
+    {
+      "album": {
+        "name": "Stranger in the Alps (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/5rcJ5xCMYYLCgGilFDKRZl"
+      },
+      "artists": [
+        {
+          "name": "Phoebe Bridgers",
+          "url": "https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229760,
+      "name": "Motion Sickness",
+      "url": "https://open.spotify.com/track/25Syi9wnfn6ZGAmiOBypPq"
     },
     {
       "album": {
@@ -17564,7 +17636,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 154902,
       "name": "One I Choose",
       "url": "https://open.spotify.com/track/4AviqYGbYeoyrV9fFTMr0j"
@@ -19936,7 +20008,7 @@
       ],
       "date_added": "2026-08-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 259479,
       "name": "Rooh Ka Sakoon",
       "url": "https://open.spotify.com/track/4D1bt4eXcmROAM5D8hWOXN"
@@ -22335,6 +22407,24 @@
     },
     {
       "album": {
+        "name": "Stick Season",
+        "url": "https://open.spotify.com/album/1fMRg0CNLKdnrXD0WPc2Ju"
+      },
+      "artists": [
+        {
+          "name": "Noah Kahan",
+          "url": "https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182346,
+      "name": "Stick Season",
+      "url": "https://open.spotify.com/track/0GNVXNz7Jkicfk2mp5OyG5"
+    },
+    {
+      "album": {
         "name": "Still Chasing",
         "url": "https://open.spotify.com/album/4A3QRcu93yAU2mb8OkQTWW"
       },
@@ -23052,7 +23142,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 172653,
       "name": "Tap Your Toe And Follow Me",
       "url": "https://open.spotify.com/track/4RO7kDpQwMVzjpYmpRZuiu"
@@ -23136,7 +23226,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 123172,
       "name": "TAXI",
       "url": "https://open.spotify.com/track/2OwQ3G2XqOakVEDZ7wF78U"
@@ -23702,7 +23792,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 227000,
       "name": "The Death of Rock & Roll",
       "url": "https://open.spotify.com/track/3UGcLV6On36MbHWAbMM8Ip"
@@ -24134,7 +24224,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 352995,
       "name": "The Junkie",
       "url": "https://open.spotify.com/track/0gcl4atoMxcPJ50DD8RM9D"
@@ -25010,7 +25100,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 284298,
       "name": "Till I Die",
       "url": "https://open.spotify.com/track/5NR5MyDRJjh4SfGe1SIbpe"
@@ -26312,7 +26402,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 215142,
       "name": "Verlorene Freundschaft",
       "url": "https://open.spotify.com/track/720ycQ3qBl0PfRR07nyk2i"
@@ -26420,7 +26510,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 195538,
       "name": "Vitanova",
       "url": "https://open.spotify.com/track/0btWnV5EiS7kzDlDbkgsTH"
@@ -27020,7 +27110,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 202625,
       "name": "Wenn ich nachts nicht schlafen kann",
       "url": "https://open.spotify.com/track/7popSOnP1uS3C7v0ortVPM"
@@ -27114,7 +27204,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 154666,
       "name": "what you want",
       "url": "https://open.spotify.com/track/5iVs4X6pL9FvemLW8qEcFj"
@@ -28498,7 +28588,7 @@
       ],
       "date_added": "2026-08-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 198500,
       "name": "\u0417\u0430\u043a\u0440\u0438\u0442\u0456 \u0434\u0432\u0435\u0440\u0456",
       "url": "https://open.spotify.com/track/6DjzyPuBITliDIBNEW1Rcb"

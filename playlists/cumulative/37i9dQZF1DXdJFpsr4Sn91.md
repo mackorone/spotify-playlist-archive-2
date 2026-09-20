@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,279 songs - 2 day 15 hr 58 min
+1,280 songs - 2 day 16 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1121,7 +1121,7 @@
 | [Too Much](https://open.spotify.com/track/6lKSOnC9iLGDonypMgvGrm) | [Dove Cameron](https://open.spotify.com/artist/2W8yFh0Ga6Yf3jiayVxwkE) | [Too Much](https://open.spotify.com/album/3vOE21VZf6cPqU98By3TOM) | 2:51 | 2025-03-03 | 2025-09-05 |
 | [Totuus sattuu](https://open.spotify.com/track/6wTnsZgua00pdQoYkroEQL) | [Ares](https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9), [pehmoaino](https://open.spotify.com/artist/4Qk8DhjJRW0Dwd039aVOfr) | [Totuus sattuu](https://open.spotify.com/album/3KHJZYkmNJ8DjqrRGgMsJr) | 2:45 | 2025-09-25 | 2026-03-27 |
 | [Tough](https://open.spotify.com/track/22DH8NChecsgPxDjA4pqer) | [Quavo](https://open.spotify.com/artist/0VRj0yCOv2FXJNP47XQnx5), [Lana Del Rey](https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa) | [Tough](https://open.spotify.com/album/58XIBpQOAw7E2qCL1jxWCd) | 3:08 | 2024-07-04 | 2024-08-02 |
-| [toukokuu](https://open.spotify.com/track/4X0N6E4U47DP4KdYZqhIEY) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [toukokuu](https://open.spotify.com/album/38DmR5zTXO8d0eoODjDx2x) | 1:31 | 2026-09-03 |  |
+| [toukokuu](https://open.spotify.com/track/4X0N6E4U47DP4KdYZqhIEY) | [fibi](https://open.spotify.com/artist/3ZzkX4rxGFuxbIaavXhWoo) | [toukokuu](https://open.spotify.com/album/38DmR5zTXO8d0eoODjDx2x) | 1:31 | 2026-09-03 | 2026-09-20 |
 | [toxic till the end](https://open.spotify.com/track/1z5ebC9238uGoBgzYyvGpQ) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [rosie](https://open.spotify.com/album/7kFyd5oyJdVX2pIi6P4iHE) | 2:36 | 2024-12-05 | 2025-02-27 |
 | [TRAFIK!](https://open.spotify.com/track/4VDEbsqJED0VOLm7sF21su) | [Käärijä](https://open.spotify.com/artist/6LkMGN0t3HDNL8hIvma70r), [Joost](https://open.spotify.com/artist/6s5ubAp65wXoTZefE01RNR) | [TRAFIK!](https://open.spotify.com/album/3YWWKOPLvtWtPsoEzqb3mB) | 2:12 | 2024-07-11 | 2024-08-16 |
 | [Tranquilo](https://open.spotify.com/track/4jhpt0feTOokOBHfpDEtCm) | [Evelina](https://open.spotify.com/artist/3KgHd8tKiKYsazNkydQgYM), [Juuna Chill](https://open.spotify.com/artist/5ndSb0dw2ilXbSlUZ7Gm78) | [Tranquilo](https://open.spotify.com/album/6OTS11XRvkTc8eRQQsPzoL) | 3:07 | 2025-06-12 | 2025-08-29 |
@@ -1205,6 +1205,7 @@
 | [Vihaajat vihaa](https://open.spotify.com/track/0eSQ3lbfVY9MgPD7lGsGSq) | [Bee](https://open.spotify.com/artist/4pR2IcLEPu4KFVAmanNG1f) | [Vihaajat vihaa](https://open.spotify.com/album/4oMcUFaqqJHu4mCR0NxHbX) | 2:32 | 2025-05-29 | 2025-09-05 |
 | [Viikatemies \(feat\. costee\)](https://open.spotify.com/track/5EfVIWZF36J5ktLPcOcTSG) | [Heviteemu](https://open.spotify.com/artist/6I99Qbl0RcUqnSxDYw9T7A), [costee](https://open.spotify.com/artist/3I4GcOB25cSJHa9d7Bsgji) | [Viikatemies \(feat\. costee\)](https://open.spotify.com/album/2QnpWEQFnGEIj4C8xpQECH) | 2:44 | 2024-07-18 | 2024-08-30 |
 | [Viikon reissu](https://open.spotify.com/track/2gmwnHv4Sdo4LET8svfuNe) | [Poju](https://open.spotify.com/artist/5z9Z1vlOXGvDLBgKfzdswn), [Domiviio](https://open.spotify.com/artist/7le5WrXoyPeGd2XuuM21cM) | [Viikon reissu](https://open.spotify.com/album/4e31QKIAa6oywy8QIfxTj3) | 3:00 | 2026-02-26 | 2026-03-06 |
+| [Viimeinen kausi](https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00) | [Edicti](https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS) | [Toiveuusintoja](https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB) | 2:52 | 2026-09-17 |  |
 | [Viimeinen kuulutus](https://open.spotify.com/track/1NKyomIMeDReZTpcZhJ0h7) | [Sexmane](https://open.spotify.com/artist/2JSX0lIYekUp6F301cTHkq) | [Viimeinen kuulutus](https://open.spotify.com/album/1PoLEGcjRHGA3hcNBpJEQz) | 3:11 | 2024-12-05 | 2025-01-10 |
 | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/track/6cbIICgbxjXqt90w3xMJrH) | [Jenni Vartiainen](https://open.spotify.com/artist/6PP1ZiMzBbTeRqGvhr3pV9), [Etta](https://open.spotify.com/artist/3Lc2yroP05lRK5z9NtQTkc) | [Viimeinen pisara \(feat\. Etta\)](https://open.spotify.com/album/1ZonF7ec14BnRP96ifuD96) | 2:44 | 2024-07-04 | 2024-10-18 |
 | [Viimeinen tekoni](https://open.spotify.com/track/06G9w3cEqRAHaNhIgnefP3) | [Sara Siipola](https://open.spotify.com/artist/0cv9YYFgE0vLVgTjMrOZup) | [Sanon sen nyt ääneen](https://open.spotify.com/album/3Xd7lz68EkuMkm7uSDjYeb) | 2:39 | 2024-11-07 | 2024-11-29 |

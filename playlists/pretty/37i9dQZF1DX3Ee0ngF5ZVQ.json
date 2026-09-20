@@ -1,6 +1,6 @@
 {
   "description": "New and trending tracks from Texas Country icons and rising stars. Cover: Braxton Keith",
-  "num_followers": 399180,
+  "num_followers": 399158,
   "original_name": "Texas Country Now",
   "owner": {
     "name": "Spotify",
@@ -1115,18 +1115,22 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Hard Land",
-        "url": "https://open.spotify.com/album/3bfLBgtrzDaYpM4uLwfvbK"
+        "name": "Wildfire",
+        "url": "https://open.spotify.com/album/5fSCA9ESxtQPp2njYQlDBp"
       },
       "artists": [
         {
-          "name": "Red Shahan",
-          "url": "https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ"
+          "name": "Michael Martin Murphey",
+          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 227583,
-      "name": "Ghosts of the Panhandle Wind",
-      "url": "https://open.spotify.com/track/04iNvh91y5NoiaaHsfDNuX"
+      "duration_ms": 296875,
+      "name": "Wildfire",
+      "url": "https://open.spotify.com/track/2z8n9qmI7YDfO2IA7dssja"
     },
     {
       "added_at": "2026-08-07 04:01:44",
@@ -1167,22 +1171,18 @@
     {
       "added_at": "2026-08-07 04:01:44",
       "album": {
-        "name": "Wildfire",
-        "url": "https://open.spotify.com/album/5fSCA9ESxtQPp2njYQlDBp"
+        "name": "Hard Land",
+        "url": "https://open.spotify.com/album/3bfLBgtrzDaYpM4uLwfvbK"
       },
       "artists": [
         {
-          "name": "Michael Martin Murphey",
-          "url": "https://open.spotify.com/artist/4jL1usPiGDK8TD46zJP4gu"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Red Shahan",
+          "url": "https://open.spotify.com/artist/5DPP8EALeVGnupgVjlWOwJ"
         }
       ],
-      "duration_ms": 296875,
-      "name": "Wildfire",
-      "url": "https://open.spotify.com/track/2z8n9qmI7YDfO2IA7dssja"
+      "duration_ms": 227583,
+      "name": "Ghosts of the Panhandle Wind",
+      "url": "https://open.spotify.com/track/04iNvh91y5NoiaaHsfDNuX"
     },
     {
       "added_at": "2026-08-07 04:01:44",

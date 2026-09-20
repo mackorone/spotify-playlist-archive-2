@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Carly Rae Jepsen, GTAVI, Yeat & Drake, Miley Cyrus, ROSÉ, beabadoobee, Troye Sivan, Dominic Fike, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 598,052 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 598,030 likes - 100 songs - 5 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 31 | [LITE \(feat\. Belly Gang Kushington\)](https://open.spotify.com/track/03ZmfQWDEIfhoaIUXi5wAq) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Belly Gang Kushington](https://open.spotify.com/artist/7oHPIc7BYAIUhYFF6hSggI) | [LITE \(feat\. Belly Gang Kushington\)](https://open.spotify.com/album/2R1Ux79J3M5N1T8QnPTdf7) | 2:58 |
 | 32 | [Hallucinating](https://open.spotify.com/track/3stwOzw3rk7g8Et43UvIVw) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hallucinating](https://open.spotify.com/album/3VQpTlLYpOhFbtbPSQQuBS) | 2:36 |
 | 33 | [Magicien](https://open.spotify.com/track/4WXuBCdYkeQ9cOS8obAKXL) | [Gabriel Fredette](https://open.spotify.com/artist/11PwmjAI0MyeST8BA7ipB4) | [Magicien](https://open.spotify.com/album/6I3dLq4cdOYaQwUHoDycWq) | 3:28 |
-| 34 | [Innocent Smile](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
+| 34 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 35 | [Red Car](https://open.spotify.com/track/1iZsQ8JtDEjZojlFOBrDRi) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Melodie](https://open.spotify.com/album/3pCuWK1YLBdu96F3wIGqjy) | 3:28 |
 | 36 | [delusional darling \(ft\. Ella Red\)](https://open.spotify.com/track/4PhwBlT0m3gPbp2SQZ9rPI) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0), [Ella Red](https://open.spotify.com/artist/1hH4ajSTZKIBhwRymnZi5R) | [delusional darling \(ft\. Ella Red\)](https://open.spotify.com/album/3feEOM2rh8zbAdM4xB0wE0) | 3:10 |
 | 37 | [Wide Open](https://open.spotify.com/track/1n1bvVbadpuQ2pjTjE4r4Y) | [William Prince](https://open.spotify.com/artist/5GJWwpX2tnOruZviItXvM6) | [Wide Open](https://open.spotify.com/album/205S3gL9ecNDwCS6ZOtEWz) | 5:10 |

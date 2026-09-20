@@ -1,6 +1,6 @@
 {
   "description": "Popronde is een jaarlijks reizend festival in NL met de grootste talenten. Cover: Wilson A.",
-  "num_followers": 2061,
+  "num_followers": 2064,
   "original_name": "Popronde 2026",
   "owner": {
     "name": "Spotify",
@@ -395,6 +395,22 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
+        "name": "Snelle Planga",
+        "url": "https://open.spotify.com/album/1DnQAKM1LkDyrWZAUGwLSQ"
+      },
+      "artists": [
+        {
+          "name": "Trackvogels",
+          "url": "https://open.spotify.com/artist/0wft784NSfDoJMXbm729Tu"
+        }
+      ],
+      "duration_ms": 307414,
+      "name": "Snelle Planga",
+      "url": "https://open.spotify.com/track/5lyCknaiX131J9SFbgLEGB"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
         "name": "Holes",
         "url": "https://open.spotify.com/album/0MzBPDnz6TRkL6TqmD68QS"
       },
@@ -411,18 +427,18 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
-        "name": "Snelle Planga",
-        "url": "https://open.spotify.com/album/1DnQAKM1LkDyrWZAUGwLSQ"
+        "name": "Everything",
+        "url": "https://open.spotify.com/album/4qxywYDuLxKy8UuHsXl8Ha"
       },
       "artists": [
         {
-          "name": "Trackvogels",
-          "url": "https://open.spotify.com/artist/0wft784NSfDoJMXbm729Tu"
+          "name": "Amani",
+          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
         }
       ],
-      "duration_ms": 307414,
-      "name": "Snelle Planga",
-      "url": "https://open.spotify.com/track/5lyCknaiX131J9SFbgLEGB"
+      "duration_ms": 184000,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/0PbA0u7lw4UMwx8zJy25sJ"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -459,18 +475,18 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
-        "name": "Everything",
-        "url": "https://open.spotify.com/album/4qxywYDuLxKy8UuHsXl8Ha"
+        "name": "Into pieces",
+        "url": "https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J"
       },
       "artists": [
         {
-          "name": "Amani",
-          "url": "https://open.spotify.com/artist/1vPf9jEoO5z0WeqfgVB8F3"
+          "name": "Imme",
+          "url": "https://open.spotify.com/artist/4ifBb8XfcOFkRxVe1FwhtV"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/0PbA0u7lw4UMwx8zJy25sJ"
+      "duration_ms": 203190,
+      "name": "Into pieces",
+      "url": "https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -495,22 +511,6 @@
       "duration_ms": 139000,
       "name": "Blijf Daar",
       "url": "https://open.spotify.com/track/6Zmy3HMWmkSHybHJxdaNq3"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
-        "name": "Into pieces",
-        "url": "https://open.spotify.com/album/78K1eel50Zt0YEqLbGM17J"
-      },
-      "artists": [
-        {
-          "name": "Imme",
-          "url": "https://open.spotify.com/artist/4ifBb8XfcOFkRxVe1FwhtV"
-        }
-      ],
-      "duration_ms": 203190,
-      "name": "Into pieces",
-      "url": "https://open.spotify.com/track/1TpKy1lTWddfoiUqx5LYiZ"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -723,18 +723,18 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
-        "name": "Looking At You",
-        "url": "https://open.spotify.com/album/3pV0zX3OgF41eRE3ux9cPj"
+        "name": "Red Car",
+        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
       },
       "artists": [
         {
-          "name": "Loeck",
-          "url": "https://open.spotify.com/artist/2U4Qf4bmyxAdEpgM6m8rRk"
+          "name": "The Hook",
+          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
         }
       ],
-      "duration_ms": 156666,
-      "name": "Looking At You",
-      "url": "https://open.spotify.com/track/34D9Jl0MzsSelHCUoVMoBG"
+      "duration_ms": 149479,
+      "name": "Red Car",
+      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -755,6 +755,22 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
+        "name": "Looking At You",
+        "url": "https://open.spotify.com/album/3pV0zX3OgF41eRE3ux9cPj"
+      },
+      "artists": [
+        {
+          "name": "Loeck",
+          "url": "https://open.spotify.com/artist/2U4Qf4bmyxAdEpgM6m8rRk"
+        }
+      ],
+      "duration_ms": 156666,
+      "name": "Looking At You",
+      "url": "https://open.spotify.com/track/34D9Jl0MzsSelHCUoVMoBG"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
         "name": "TWISTED",
         "url": "https://open.spotify.com/album/5sQyC0NPgDoYpR4XcY5dLZ"
       },
@@ -767,22 +783,6 @@
       "duration_ms": 122000,
       "name": "TWISTED",
       "url": "https://open.spotify.com/track/0rxyllC57EkK6YO8iJAv4O"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
-        "name": "Red Car",
-        "url": "https://open.spotify.com/album/0a2L8sKFL6M1bRMAFUVjRo"
-      },
-      "artists": [
-        {
-          "name": "The Hook",
-          "url": "https://open.spotify.com/artist/66y3ZygySfpK16S3oZvumu"
-        }
-      ],
-      "duration_ms": 149479,
-      "name": "Red Car",
-      "url": "https://open.spotify.com/track/7beZWdJVztwfhrhobHRuYF"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -823,22 +823,6 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
-        "name": "Odesa Twilight Session (live)",
-        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
-      },
-      "artists": [
-        {
-          "name": "INOYSON",
-          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
-        }
-      ],
-      "duration_ms": 190083,
-      "name": "In My Arms - live",
-      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
         "name": "Crane",
         "url": "https://open.spotify.com/album/4TC16w0nLS3pKMJLJ95oQ7"
       },
@@ -855,6 +839,22 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
+        "name": "Odesa Twilight Session (live)",
+        "url": "https://open.spotify.com/album/5xmu7myL5LTNLiSXew1QG2"
+      },
+      "artists": [
+        {
+          "name": "INOYSON",
+          "url": "https://open.spotify.com/artist/5nyFpiqAnifsvfFH199bz5"
+        }
+      ],
+      "duration_ms": 190083,
+      "name": "In My Arms - live",
+      "url": "https://open.spotify.com/track/23Vi9AluCdFYjACTJE4aF5"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
         "name": "Please you",
         "url": "https://open.spotify.com/album/6BWRoWNORPpY8CcSpgfv18"
       },
@@ -867,6 +867,22 @@
       "duration_ms": 242474,
       "name": "Please you",
       "url": "https://open.spotify.com/track/1peAGEGBN18t9MvSy5IfEf"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
+        "name": "Low",
+        "url": "https://open.spotify.com/album/2jnvto8G5FF2mHPkuSBYmo"
+      },
+      "artists": [
+        {
+          "name": "HOOFS",
+          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+        }
+      ],
+      "duration_ms": 135836,
+      "name": "Low",
+      "url": "https://open.spotify.com/track/7AyD9W8RCisCNUJKj14gSH"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -955,22 +971,6 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
-        "name": "Low",
-        "url": "https://open.spotify.com/album/2jnvto8G5FF2mHPkuSBYmo"
-      },
-      "artists": [
-        {
-          "name": "HOOFS",
-          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
-        }
-      ],
-      "duration_ms": 135836,
-      "name": "Low",
-      "url": "https://open.spotify.com/track/7AyD9W8RCisCNUJKj14gSH"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
         "name": "Wistful Way",
         "url": "https://open.spotify.com/album/3490a2LWidSgSyEhqdV1Af"
       },
@@ -983,6 +983,22 @@
       "duration_ms": 223000,
       "name": "The Crow Won't Cry",
       "url": "https://open.spotify.com/track/5V2BQayOMDJ5vrNHVsxdA7"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
+        "name": "ZO MOE",
+        "url": "https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI"
+      },
+      "artists": [
+        {
+          "name": "WABR",
+          "url": "https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx"
+        }
+      ],
+      "duration_ms": 235789,
+      "name": "ZO MOE",
+      "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -1015,22 +1031,6 @@
       "duration_ms": 161226,
       "name": "Vallen",
       "url": "https://open.spotify.com/track/7lInMt0BlRakXJaFCEDCXH"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
-        "name": "ZO MOE",
-        "url": "https://open.spotify.com/album/6XEJsdeFhVE9boZbIKXTpI"
-      },
-      "artists": [
-        {
-          "name": "WABR",
-          "url": "https://open.spotify.com/artist/3oOqFzbLfXGYSCr0nJCtIx"
-        }
-      ],
-      "duration_ms": 235789,
-      "name": "ZO MOE",
-      "url": "https://open.spotify.com/track/48BI01laihNq62N9Z0pPrb"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -1083,22 +1083,6 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
-        "name": "Machine (Radio Edit)",
-        "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
-      },
-      "artists": [
-        {
-          "name": "The Robots Are Coming",
-          "url": "https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i"
-        }
-      ],
-      "duration_ms": 213152,
-      "name": "Machine (Radio Edit)",
-      "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
         "name": "Agony",
         "url": "https://open.spotify.com/album/12p4xTqx8l9wkYQgVFkEJ7"
       },
@@ -1115,18 +1099,18 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
-        "name": "SKIN",
-        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
+        "name": "Machine (Radio Edit)",
+        "url": "https://open.spotify.com/album/30sf8e2RiUehhuLlgkvWP1"
       },
       "artists": [
         {
-          "name": "Anna Joan",
-          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
+          "name": "The Robots Are Coming",
+          "url": "https://open.spotify.com/artist/7DRcEWHm2imGFbL1ADdl2i"
         }
       ],
-      "duration_ms": 149070,
-      "name": "SKIN",
-      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
+      "duration_ms": 213152,
+      "name": "Machine (Radio Edit)",
+      "url": "https://open.spotify.com/track/6NdWQV4xKE0BdOnkbfnnb4"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -1147,18 +1131,18 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
-        "name": "Monster",
-        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
+        "name": "SKIN",
+        "url": "https://open.spotify.com/album/4Xh0HmsYyQN41QfbfMqrnn"
       },
       "artists": [
         {
-          "name": "HOOFS",
-          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+          "name": "Anna Joan",
+          "url": "https://open.spotify.com/artist/5iBu6NZycOXhSNLzBTJY6l"
         }
       ],
-      "duration_ms": 288000,
-      "name": "Out Of Place",
-      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
+      "duration_ms": 149070,
+      "name": "SKIN",
+      "url": "https://open.spotify.com/track/3qsdHJxDcAmKP0WD7U6R0P"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -1175,6 +1159,22 @@
       "duration_ms": 223974,
       "name": "BAD CHI - Single Version",
       "url": "https://open.spotify.com/track/3c8n1eNgqVgzTdBFrhhPEK"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
+        "name": "Monster",
+        "url": "https://open.spotify.com/album/6OzNNmjK69aZyvguGlrgNn"
+      },
+      "artists": [
+        {
+          "name": "HOOFS",
+          "url": "https://open.spotify.com/artist/4QjLwd8IdqEMvKdkoSE5Bp"
+        }
+      ],
+      "duration_ms": 288000,
+      "name": "Out Of Place",
+      "url": "https://open.spotify.com/track/6trGTlW2J9tEr0c71FupAJ"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -1279,6 +1279,38 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
+        "name": "WEET NIET WAT JE ZIET IN MIJ",
+        "url": "https://open.spotify.com/album/6QCoW49AfDKtQsk3A3SjJJ"
+      },
+      "artists": [
+        {
+          "name": "kruzer",
+          "url": "https://open.spotify.com/artist/7t1cc3OFyt4UbJnQNaTAcY"
+        }
+      ],
+      "duration_ms": 169846,
+      "name": "ME HART IS OP",
+      "url": "https://open.spotify.com/track/2HsAFzJtwbG74Up1Empt0W"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
+        "name": "Dust Breeding",
+        "url": "https://open.spotify.com/album/6MPHcDaC0K0gFQ2t1N4mPW"
+      },
+      "artists": [
+        {
+          "name": "aquelarre*",
+          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
+        }
+      ],
+      "duration_ms": 168500,
+      "name": "Dust Breeding",
+      "url": "https://open.spotify.com/track/3JLIg24MIyATnnnD4GZg4P"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
         "name": "\u0130kimiz Bir Fidan\u0131z",
         "url": "https://open.spotify.com/album/6u2vTsJZKwSqvtc1QPJBk5"
       },
@@ -1291,6 +1323,54 @@
       "duration_ms": 194925,
       "name": "\u0130kimiz Bir Fidan\u0131z",
       "url": "https://open.spotify.com/track/1GbgUy28jOenqqC5oFOgXb"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
+        "name": "Still In The Race",
+        "url": "https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj"
+      },
+      "artists": [
+        {
+          "name": "RubinCarter",
+          "url": "https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn"
+        }
+      ],
+      "duration_ms": 163620,
+      "name": "April",
+      "url": "https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
+        "name": "ep1",
+        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
+      },
+      "artists": [
+        {
+          "name": "tenderblom",
+          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "fornow",
+      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
+        "name": "Heart on the line",
+        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
+      },
+      "artists": [
+        {
+          "name": "LAHAYE",
+          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
+        }
+      ],
+      "duration_ms": 215485,
+      "name": "Heart on the line",
+      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -1315,70 +1395,6 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
-        "name": "WEET NIET WAT JE ZIET IN MIJ",
-        "url": "https://open.spotify.com/album/6QCoW49AfDKtQsk3A3SjJJ"
-      },
-      "artists": [
-        {
-          "name": "kruzer",
-          "url": "https://open.spotify.com/artist/7t1cc3OFyt4UbJnQNaTAcY"
-        }
-      ],
-      "duration_ms": 169846,
-      "name": "ME HART IS OP",
-      "url": "https://open.spotify.com/track/2HsAFzJtwbG74Up1Empt0W"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
-        "name": "ep1",
-        "url": "https://open.spotify.com/album/6iBPEwVuaVaFOHMbSSCjq0"
-      },
-      "artists": [
-        {
-          "name": "tenderblom",
-          "url": "https://open.spotify.com/artist/4dMNV1VtL3ST2YgEJhzxKl"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "fornow",
-      "url": "https://open.spotify.com/track/480gKBqtmTwVhwexz1how7"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
-        "name": "Still In The Race",
-        "url": "https://open.spotify.com/album/3om1AQ9TzeEQShMLe5wMEj"
-      },
-      "artists": [
-        {
-          "name": "RubinCarter",
-          "url": "https://open.spotify.com/artist/5WUSDnKoPvMBYVpAbK4nLn"
-        }
-      ],
-      "duration_ms": 163620,
-      "name": "April",
-      "url": "https://open.spotify.com/track/4bejcoOHGSHN9TuvHOQ9vk"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
-        "name": "Heart on the line",
-        "url": "https://open.spotify.com/album/5IvnZ499ApL1dYRQLkc76W"
-      },
-      "artists": [
-        {
-          "name": "LAHAYE",
-          "url": "https://open.spotify.com/artist/2JsVoXX032R5atSaQo23rH"
-        }
-      ],
-      "duration_ms": 215485,
-      "name": "Heart on the line",
-      "url": "https://open.spotify.com/track/0ZnPblbkeUfMFNFx2Juh2E"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
         "name": "dislocated .",
         "url": "https://open.spotify.com/album/1DMOdYyyqKmSOXgGCnzivT"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 255120,
       "name": "ozempic tears",
       "url": "https://open.spotify.com/track/1M7ZH1ENMYja2I40xKDisY"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
-        "name": "Dust Breeding",
-        "url": "https://open.spotify.com/album/6MPHcDaC0K0gFQ2t1N4mPW"
-      },
-      "artists": [
-        {
-          "name": "aquelarre*",
-          "url": "https://open.spotify.com/artist/00u4579gwIGUFUcgyjYGqj"
-        }
-      ],
-      "duration_ms": 168500,
-      "name": "Dust Breeding",
-      "url": "https://open.spotify.com/track/3JLIg24MIyATnnnD4GZg4P"
     },
     {
       "added_at": "2026-09-17 08:43:37",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-09-17 08:43:37",
       "album": {
+        "name": "Lichen",
+        "url": "https://open.spotify.com/album/0siduzTXEmIq6B5vYDCYE2"
+      },
+      "artists": [
+        {
+          "name": "Pensive Vivifier",
+          "url": "https://open.spotify.com/artist/68qapioPBfAt0RNEGEqyqD"
+        }
+      ],
+      "duration_ms": 341478,
+      "name": "Lichen",
+      "url": "https://open.spotify.com/track/4SleJQ3uZgjZCrekY9g9Ih"
+    },
+    {
+      "added_at": "2026-09-17 08:43:37",
+      "album": {
         "name": "A Summer's Dream",
         "url": "https://open.spotify.com/album/3aWmYVq30BGlBSV6IOlRYD"
       },
@@ -1471,22 +1487,6 @@
       "duration_ms": 164897,
       "name": "Moment",
       "url": "https://open.spotify.com/track/0ZBODLiUzv1lYDCxpxCtHH"
-    },
-    {
-      "added_at": "2026-09-17 08:43:37",
-      "album": {
-        "name": "Lichen",
-        "url": "https://open.spotify.com/album/0siduzTXEmIq6B5vYDCYE2"
-      },
-      "artists": [
-        {
-          "name": "Pensive Vivifier",
-          "url": "https://open.spotify.com/artist/68qapioPBfAt0RNEGEqyqD"
-        }
-      ],
-      "duration_ms": 341478,
-      "name": "Lichen",
-      "url": "https://open.spotify.com/track/4SleJQ3uZgjZCrekY9g9Ih"
     },
     {
       "added_at": "2026-09-17 08:43:37",

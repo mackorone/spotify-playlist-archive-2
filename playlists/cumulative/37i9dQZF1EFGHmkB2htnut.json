@@ -462,10 +462,28 @@
       ],
       "date_added": "2025-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 199400,
       "name": "Cry In California",
       "url": "https://open.spotify.com/track/193noKkuF36J9oFYqTg0bM"
+    },
+    {
+      "album": {
+        "name": "Getting By",
+        "url": "https://open.spotify.com/album/3v9Y5lRmYMpJLKToq23mvv"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199400,
+      "name": "Cry In California",
+      "url": "https://open.spotify.com/track/2NdKgUemiEomMDqM5tLlbm"
     },
     {
       "album": {

@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Dudamel. The essential tracks, all in one playlist.",
-  "num_followers": 2228,
+  "num_followers": 2236,
   "original_name": "This Is Gustavo Dudamel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqstgAAAAABQxHfwCpB6zlKndQLdxWAV",
+  "snapshot_id": "aqx/AAAAAAAW0mnSz4q4+DK8iedVsTWp",
   "tracks": [
     {
       "added_at": null,
@@ -628,106 +628,6 @@
       },
       "artists": [
         {
-          "name": "\u00c9douard Lalo",
-          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
-        },
-        {
-          "name": "Mar\u00eda Due\u00f1as",
-          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
-          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 269493,
-      "name": "Symphonie espagnole, Op. 21: II. Scherzando. Allegro molto",
-      "url": "https://open.spotify.com/track/7uPkyT3yEFzgupFM5OpuN7"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mussorgsky: Pictures At An Exhibition",
-        "url": "https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd"
-      },
-      "artists": [
-        {
-          "name": "Modest Mussorgsky",
-          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
-        },
-        {
-          "name": "Wiener Philharmoniker",
-          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 55200,
-      "name": "Pictures at an Exhibition (Orch. Ravel): Promenade II",
-      "url": "https://open.spotify.com/track/7etkHCIevRXLnNIg0bvxKi"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Fiesta",
-        "url": "https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo"
-      },
-      "artists": [
-        {
-          "name": "Arturo M\u00e1rquez",
-          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
-        },
-        {
-          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
-          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 293173,
-      "name": "Conga del Fuego - Live",
-      "url": "https://open.spotify.com/track/0UbyYfjUgbB4baKWTlKTvK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Life is a Dream",
-        "url": "https://open.spotify.com/album/0aROL1KZNoYSp0bipj1QoS"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hopkins",
-          "url": "https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 331133,
-      "name": "Tara",
-      "url": "https://open.spotify.com/track/14bPlplOfHlqQlDNSAIdaD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Homage to Heifetz",
-        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
-      },
-      "artists": [
-        {
           "name": "Erich Wolfgang Korngold",
           "url": "https://open.spotify.com/artist/3UaJz1tq0BBPzJBPgkBarb"
         },
@@ -768,9 +668,9 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 65120,
-      "name": "Pictures at an Exhibition (Orch. Ravel): III. Tuileries Gardens",
-      "url": "https://open.spotify.com/track/5ePWR9SYDsADEMLyAcCcJU"
+      "duration_ms": 55200,
+      "name": "Pictures at an Exhibition (Orch. Ravel): Promenade II",
+      "url": "https://open.spotify.com/track/7etkHCIevRXLnNIg0bvxKi"
     },
     {
       "added_at": null,
@@ -795,6 +695,106 @@
       "duration_ms": 591586,
       "name": "Symphony No. 8 in G Major, Op. 88, B. 163: I. Allegro con brio",
       "url": "https://open.spotify.com/track/3Xg6nZtQsjamXL7vDrdNMl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Life is a Dream",
+        "url": "https://open.spotify.com/album/0aROL1KZNoYSp0bipj1QoS"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hopkins",
+          "url": "https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 331133,
+      "name": "Tara",
+      "url": "https://open.spotify.com/track/14bPlplOfHlqQlDNSAIdaD"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homage to Heifetz",
+        "url": "https://open.spotify.com/album/2G6BxZBQ8C3QA0PqgPdS09"
+      },
+      "artists": [
+        {
+          "name": "\u00c9douard Lalo",
+          "url": "https://open.spotify.com/artist/4kWXpaUAQNnuCcaPiwFYW1"
+        },
+        {
+          "name": "Mar\u00eda Due\u00f1as",
+          "url": "https://open.spotify.com/artist/3tzzRz6WvbIF021Ak4l2PE"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Symphony Orchestra Of Venezuela",
+          "url": "https://open.spotify.com/artist/5p6H6NoqsMesY9ZvMBg1tu"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 269493,
+      "name": "Symphonie espagnole, Op. 21: II. Scherzando. Allegro molto",
+      "url": "https://open.spotify.com/track/7uPkyT3yEFzgupFM5OpuN7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mussorgsky: Pictures At An Exhibition",
+        "url": "https://open.spotify.com/album/1b2aoeaYZZBWmJoavOQhnd"
+      },
+      "artists": [
+        {
+          "name": "Modest Mussorgsky",
+          "url": "https://open.spotify.com/artist/284mnx33IWcymQEpMxyfHl"
+        },
+        {
+          "name": "Wiener Philharmoniker",
+          "url": "https://open.spotify.com/artist/003f4bk13c6Q3gAUXv7dGJ"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 65120,
+      "name": "Pictures at an Exhibition (Orch. Ravel): III. Tuileries Gardens",
+      "url": "https://open.spotify.com/track/5ePWR9SYDsADEMLyAcCcJU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fiesta",
+        "url": "https://open.spotify.com/album/3zmMKlNwdrOXmHVzSkslOo"
+      },
+      "artists": [
+        {
+          "name": "Arturo M\u00e1rquez",
+          "url": "https://open.spotify.com/artist/6R2JGjQ4DM6iCPUAbhjnKZ"
+        },
+        {
+          "name": "Sim\u00f3n Bol\u00edvar Youth Orchestra of Venezuela",
+          "url": "https://open.spotify.com/artist/2U5rLdZ4ARUFcaSYw0shXn"
+        },
+        {
+          "name": "Gustavo Dudamel",
+          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
+        }
+      ],
+      "duration_ms": 293173,
+      "name": "Conga del Fuego - Live",
+      "url": "https://open.spotify.com/track/0UbyYfjUgbB4baKWTlKTvK"
     },
     {
       "added_at": null,

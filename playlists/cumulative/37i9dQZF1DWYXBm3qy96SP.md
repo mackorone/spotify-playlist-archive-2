@@ -4,7 +4,7 @@
 
 > 世界中のロックシーンを彩る話題曲をチェック。Cover: beabadoobee
 
-2,317 songs - 5 day 15 hr 10 min
+2,318 songs - 5 day 15 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1237,6 +1237,7 @@
 | [Lowlife](https://open.spotify.com/track/2kDApipZtTzjwGfKujcg2z) | [YUNGBLUD](https://open.spotify.com/artist/6Ad91Jof8Niiw0lGLLi3NW) | [Lowlife](https://open.spotify.com/album/4MwosQ9tTm95DAaHdoNs5E) | 3:53 | 2023-06-08 | 2024-02-09 |
 | [Lucid Love](https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [⁠Lucid Love](https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH) | 3:30 | 2026-07-03 | 2026-08-07 |
 | [Luckiest Man In The World](https://open.spotify.com/track/0SyEC4n2uU6OrRZRNxaogH) | [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [How To Dismantle An Atomic Bomb \(Re\-Assemble Edition\)](https://open.spotify.com/album/7o3k14ivnyWNPp6LM2NkgV) | 6:12 | 2024-11-22 | 2025-01-10 |
+| [Machine](https://open.spotify.com/track/4OZsL523QNwRZMgJGwC2Lq) | [Architects](https://open.spotify.com/artist/3ZztVuWxHzNpl0THurTFCv) | [Machine](https://open.spotify.com/album/1YSWmWb80zzj9Sp9ZEvyoD) | 4:00 | 2026-09-17 |  |
 | [MAD CONTROL](https://open.spotify.com/track/3mbumdEcCKGj7Ns04bS2U5) | [Baja](https://open.spotify.com/artist/5eNUcwvXeKJcLIrVJQhtp1) | [MAD CONTROL](https://open.spotify.com/album/4GfCf8VSvcXVfgEqoJMN7U) | 3:49 | 2024-08-09 | 2024-09-13 |
 | [Madonna](https://open.spotify.com/track/3FvmEqbtSbggcZUnevF5Ng) | [Kevin Abstract](https://open.spotify.com/artist/07EcmJpfAday8xGkslfanE) | [Madonna](https://open.spotify.com/album/36SBlWuy1LGn4GAOfVeJFb) | 3:03 | 2023-11-02 | 2023-11-10 |
 | [mailman](https://open.spotify.com/track/7idTksaN3JHW4hIxucaUv9) | [Evan Fong](https://open.spotify.com/artist/74pDNLCBUxYeDepGvZP2KP) | [speed](https://open.spotify.com/album/4D2i96fOirLLCHYAbf8lA0) | 3:25 | 2026-05-07 | 2026-07-31 |
@@ -1758,7 +1759,7 @@
 | [Sideways](https://open.spotify.com/track/1lVYnUQjno6unaOAGSsJBS) | [MisterWives](https://open.spotify.com/artist/5ivCbtrcD5N4rD337xIb2z) | [Nosebleeds](https://open.spotify.com/album/7EQ6sixCqVYPCPqARdU1Ct) | 2:44 | 2023-07-13 | 2023-07-21 |
 | [Sighommi](https://open.spotify.com/track/1zz3gyupVHNCZ3tZiboxyg) | [The Smashing Pumpkins](https://open.spotify.com/artist/40Yq4vzPs9VNUrIBG5Jr2i) | [Aghori Mhori Mei](https://open.spotify.com/album/2BoDjxlw4rrLUOaoVtarU1) | 2:54 | 2024-08-01 | 2024-09-27 |
 | [silent stranger](https://open.spotify.com/track/7tBbT0mu8TOhDciTPRsOMq) | [Against The Current](https://open.spotify.com/artist/6yhD1KjhLxIETFF7vIRf8B) | [silent stranger](https://open.spotify.com/album/3yksUh3OSJ0ZiZiZ4pIfuI) | 3:29 | 2023-09-21 | 2023-09-29 |
-| [SILVER APPLE EYES](https://open.spotify.com/track/6IvrPhGXKrr2iWweWJNWeY) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [ACT III](https://open.spotify.com/album/0A3hmEjQhYcG2fZyIBYVVC) | 3:08 | 2026-09-03 |  |
+| [SILVER APPLE EYES](https://open.spotify.com/track/6IvrPhGXKrr2iWweWJNWeY) | [Kasabian](https://open.spotify.com/artist/11wRdbnoYqRddKBrpHt4Ue) | [ACT III](https://open.spotify.com/album/0A3hmEjQhYcG2fZyIBYVVC) | 3:08 | 2026-09-03 | 2026-09-20 |
 | [Simple Life](https://open.spotify.com/track/0YKpU3ENKHEuISIzY2Mddo) | [Girl Scout](https://open.spotify.com/artist/4CbghtwTo6bvxk5QacvRrE) | [Brink](https://open.spotify.com/album/6YWyh2uDVJspFCq32tVPuh) | 3:07 | 2026-03-19 | 2026-04-03 |
 | [Sin City](https://open.spotify.com/track/1bETkJvR6zcQ4C3KK4ePVT) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players \(Trophy Edition\)](https://open.spotify.com/album/4nL9a6F9au7kYG9KuswdNo) | 2:42 | 2024-11-14 | 2025-02-07 |
 | [Sink Like a Stone](https://open.spotify.com/track/4w72ND8UIg5fHkm9vHxRTE) | [zebrahead](https://open.spotify.com/artist/6SiyKSeJo6gcsS2NvuAbsl) | [Sink Like a Stone](https://open.spotify.com/album/3aYMLtjPL8YWhD2acG4VHc) | 3:07 | 2024-10-10 | 2024-11-01 |

@@ -4,7 +4,7 @@
 
 > 썸타고 계신가요? 설레임이 담긴 노래들을 만나보세요\. \(There is something between us\)
 
-370 songs - 20 hr 14 min
+371 songs - 20 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -245,7 +245,7 @@
 | [pounding trembling](https://open.spotify.com/track/1vkrW27KEye650Rf7AZfr0) | [Gawon](https://open.spotify.com/artist/5HlsOSLKz3NaCFAjpizas1) | [pounding trembling](https://open.spotify.com/album/2qFCc7RMflhZJWEjbEhk8d) | 3:00 | 2022-05-11 | 2022-07-27 |
 | [Quest](https://open.spotify.com/track/5G0mUWDldd0QhwB4SkGzFB) | [OH MY GIRL](https://open.spotify.com/artist/2019zR22qK2RBvCqtudBaI) | [Dear OHMYGIRL](https://open.spotify.com/album/2xfmLni05CCgygcNdtPvuN) | 3:28 | 2022-05-11 | 2022-07-27 |
 | [Question Marks \(Feat\. Paul Kim\)](https://open.spotify.com/track/1juxNlpwdGRJ2byuFW7RBC) | [YENA](https://open.spotify.com/artist/49muoiIu4uea4PO8vueUNN), [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [LOVE CATCHER](https://open.spotify.com/album/1IxQnpYIIFY9F2IVVsD27F) | 2:46 | 2026-03-17 |  |
-| [Raindrop](https://open.spotify.com/track/249anPnRxbDIAERScEBEkK) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Raindrop](https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct) | 2:50 | 2026-06-29 |  |
+| [Raindrop](https://open.spotify.com/track/249anPnRxbDIAERScEBEkK) | [HYUN SEO](https://open.spotify.com/artist/5Thqo7OXD8aLIGAn9KLCsl) | [Raindrop](https://open.spotify.com/album/3RmqqwLUcn9q2IDy3HVOct) | 2:50 | 2026-06-29 | 2026-09-20 |
 | [Reaching](https://open.spotify.com/track/3YigBhekrP5JPrU9Ahpr2a) | [MINHYUK \(MONSTA X\)](https://open.spotify.com/artist/1lnrTVtTQtQS77320ZmX5V) | [Reaching](https://open.spotify.com/album/7bnEpJb2YFnRwWZ5fwmgOl) | 3:19 | 2026-06-24 | 2026-08-30 |
 | [Really Like You](https://open.spotify.com/track/0achc2JEdzkJQXRl0LbUox) | [Gyubin](https://open.spotify.com/artist/7nScMbyBG94XsSpe7yrImS) | [Really Like You](https://open.spotify.com/album/0igq7n1dpRcshD0CX0Gtxu) | 2:58 | 2024-03-08 | 2025-11-21 |
 | [RingRing](https://open.spotify.com/track/6eZ1giWyyiyuHxq9KNeMNi) | [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht), [Stella Jang](https://open.spotify.com/artist/2Y9AUayH5pyZpVfkDYDfJV) | [It just happened](https://open.spotify.com/album/5EUfw7eDDUmSqSy0FN0AGh) | 2:50 | 2025-07-29 | 2025-09-19 |
@@ -304,6 +304,7 @@
 | [Tell Me](https://open.spotify.com/track/3r8ySXFh7glcKFij6LUzCz) | [NavyQuokka](https://open.spotify.com/artist/0NboRG7IHfknCcdBSdIrxW) | [Tell Me](https://open.spotify.com/album/0CWiteWy2CGtpJTsHqmhms) | 2:53 | 2025-07-08 | 2026-03-20 |
 | [Tell Me How to Date You \(feat\. Park Han Kyul\)](https://open.spotify.com/track/3xzCvsu9Dtg2KJj25Zq7Te) | [Gilbert](https://open.spotify.com/artist/7HYpsAbttGfuUTmkQXJtsC), [Park Han Kyul](https://open.spotify.com/artist/3lat2ErjBtpkMFnc6veeLa) | [Tell Me How to Date You](https://open.spotify.com/album/5gDB0H17phGRZB4ldgBQxE) | 3:26 | 2022-07-08 | 2022-07-29 |
 | [That 5 Minutes](https://open.spotify.com/track/0QK3S1SpmCTBaMWMm5q91H) | [10CM](https://open.spotify.com/artist/6zn0ihyAApAYV51zpXxdEp) | [That 5 Minutes](https://open.spotify.com/album/09u1pmADUh4G115baFV7Dx) | 3:24 | 2024-03-08 | 2024-04-19 |
+| [The Algebra of Youth](https://open.spotify.com/track/16wD6ziwSh7FDVpmsNdZ1F) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [The Algebra of Youth](https://open.spotify.com/album/6VDyZWKebQB13NpAmRc6jl) | 3:30 | 2026-09-18 |  |
 | [The day](https://open.spotify.com/track/6NaDFc4sAg4vmOA0FUOgtI) | [승희](https://open.spotify.com/artist/12RP2Nj3evGk2hjv6KNx3j) | [After School Lessons for Unripe Apples \(Original Webcomic Soundtrack\) Pt.1](https://open.spotify.com/album/3fwPu7AgHl0Jt06PdYD03c) | 3:16 | 2022-07-04 | 2022-07-28 |
 | [The Moment](https://open.spotify.com/track/6QJWJ6hjq5ESMZtsNLJq1w) | [LILY](https://open.spotify.com/artist/0INVGid5ozT0WUEGa0WYV5), [SULLYOON](https://open.spotify.com/artist/2zThkgO048BYfaNSHQhyTH) | [Love to Hate You, Pt\. 4 \(Original Soundtrack from the Netflix Series\)](https://open.spotify.com/album/7qMURkrL885kAgogHHnSon) | 3:11 | 2023-02-25 | 2024-03-09 |
 | [The moment eyes meet](https://open.spotify.com/track/0gM1bMvFSpfw6y7Zbo2DVG) | [Lee WonSeok](https://open.spotify.com/artist/6hczBkysKbmnU1K1aO5S8Z), [Sunny Hill](https://open.spotify.com/artist/1ePYD8tMMM4Y8gbwi69vaf) | [The moment eyes meet](https://open.spotify.com/album/1BHEqYMB2RO4jKh06PBYpt) | 3:46 | 2026-04-21 | 2026-05-24 |

@@ -1,6 +1,6 @@
 {
   "description": "F\u00fcr ein bisschen mehr Leichtigkeit.",
-  "num_followers": 367700,
+  "num_followers": 367692,
   "original_name": "Feelgood Pop",
   "owner": {
     "name": "Spotify",
@@ -279,6 +279,22 @@
     {
       "added_at": "2026-09-17 22:01:12",
       "album": {
+        "name": "Harry's House",
+        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
+      },
+      "artists": [
+        {
+          "name": "Harry Styles",
+          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
+        }
+      ],
+      "duration_ms": 218577,
+      "name": "Satellite",
+      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
+    },
+    {
+      "added_at": "2026-09-17 22:01:12",
+      "album": {
         "name": "Save My Love",
         "url": "https://open.spotify.com/album/16OQglx2ocK2F03OgmYIxh"
       },
@@ -299,22 +315,6 @@
       "duration_ms": 210404,
       "name": "Save My Love",
       "url": "https://open.spotify.com/track/5ObyGDxNWH0Uuuk3NvC5r8"
-    },
-    {
-      "added_at": "2026-09-17 22:01:12",
-      "album": {
-        "name": "Harry's House",
-        "url": "https://open.spotify.com/album/5r36AJ6VOJtp00oxSkBZ5h"
-      },
-      "artists": [
-        {
-          "name": "Harry Styles",
-          "url": "https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3"
-        }
-      ],
-      "duration_ms": 218577,
-      "name": "Satellite",
-      "url": "https://open.spotify.com/track/0rzaRSujxA0bKyjJl6vHYq"
     },
     {
       "added_at": "2026-09-17 22:01:12",
@@ -675,6 +675,26 @@
     {
       "added_at": "2026-09-17 22:01:12",
       "album": {
+        "name": "Rivers",
+        "url": "https://open.spotify.com/album/1qYx2yFOtb6hdfTthwheuP"
+      },
+      "artists": [
+        {
+          "name": "Rea Garvey",
+          "url": "https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv"
+        },
+        {
+          "name": "Imran",
+          "url": "https://open.spotify.com/artist/19nLGneaqE4WS27uPmhnBv"
+        }
+      ],
+      "duration_ms": 167160,
+      "name": "Rivers",
+      "url": "https://open.spotify.com/track/3SqU1R3tZQl6hXVwDuYkTv"
+    },
+    {
+      "added_at": "2026-09-17 22:01:12",
+      "album": {
         "name": "All I Know So Far",
         "url": "https://open.spotify.com/album/0uVOhoZbkmOIM4kxJFT2IH"
       },
@@ -703,26 +723,6 @@
       "duration_ms": 207113,
       "name": "In N\u00e4chten Wie Diesen",
       "url": "https://open.spotify.com/track/0Pf7l5G7QoZkjlem0pAy28"
-    },
-    {
-      "added_at": "2026-09-17 22:01:12",
-      "album": {
-        "name": "Rivers",
-        "url": "https://open.spotify.com/album/1qYx2yFOtb6hdfTthwheuP"
-      },
-      "artists": [
-        {
-          "name": "Rea Garvey",
-          "url": "https://open.spotify.com/artist/0bmxU94V20pNJ2Vie9kFYv"
-        },
-        {
-          "name": "Imran",
-          "url": "https://open.spotify.com/artist/19nLGneaqE4WS27uPmhnBv"
-        }
-      ],
-      "duration_ms": 167160,
-      "name": "Rivers",
-      "url": "https://open.spotify.com/track/3SqU1R3tZQl6hXVwDuYkTv"
     },
     {
       "added_at": "2026-09-17 22:01:12",
@@ -779,6 +779,22 @@
     {
       "added_at": "2026-09-17 22:01:12",
       "album": {
+        "name": "Sometimes I Love You",
+        "url": "https://open.spotify.com/album/6AWIvvr6r4FqMsckCPtp2V"
+      },
+      "artists": [
+        {
+          "name": "Mistasy",
+          "url": "https://open.spotify.com/artist/2k3Vs5yIBGLfWd68q4YVWz"
+        }
+      ],
+      "duration_ms": 177938,
+      "name": "Sometimes I Love You",
+      "url": "https://open.spotify.com/track/3IxzyR8pkkHdSjpR15Smfc"
+    },
+    {
+      "added_at": "2026-09-17 22:01:12",
+      "album": {
         "name": "Vertigo",
         "url": "https://open.spotify.com/album/5F2svG7QYK2kqhRN5YdQho"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 174915,
       "name": "If Anything's Left",
       "url": "https://open.spotify.com/track/1CViD4tJqNMF4jjgP5Ug62"
-    },
-    {
-      "added_at": "2026-09-17 22:01:12",
-      "album": {
-        "name": "Sometimes I Love You",
-        "url": "https://open.spotify.com/album/6AWIvvr6r4FqMsckCPtp2V"
-      },
-      "artists": [
-        {
-          "name": "Mistasy",
-          "url": "https://open.spotify.com/artist/2k3Vs5yIBGLfWd68q4YVWz"
-        }
-      ],
-      "duration_ms": 177938,
-      "name": "Sometimes I Love You",
-      "url": "https://open.spotify.com/track/3IxzyR8pkkHdSjpR15Smfc"
     },
     {
       "added_at": "2026-09-17 22:01:12",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-09-17 22:01:12",
       "album": {
+        "name": "How Beautiful This Life Is",
+        "url": "https://open.spotify.com/album/2CshB3bOrYGHuXyIu9FsP9"
+      },
+      "artists": [
+        {
+          "name": "Berre",
+          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
+        }
+      ],
+      "duration_ms": 161093,
+      "name": "Yesterday, Today, Tomorrow",
+      "url": "https://open.spotify.com/track/2rz6LNSkIKcG1ulv67HNZZ"
+    },
+    {
+      "added_at": "2026-09-17 22:01:12",
+      "album": {
         "name": "Bring Your Love",
         "url": "https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 222161,
       "name": "Bring Your Love",
       "url": "https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q"
-    },
-    {
-      "added_at": "2026-09-17 22:01:12",
-      "album": {
-        "name": "How Beautiful This Life Is",
-        "url": "https://open.spotify.com/album/2CshB3bOrYGHuXyIu9FsP9"
-      },
-      "artists": [
-        {
-          "name": "Berre",
-          "url": "https://open.spotify.com/artist/1hqxH66i1ZwEBAkzORVRPW"
-        }
-      ],
-      "duration_ms": 161093,
-      "name": "Yesterday, Today, Tomorrow",
-      "url": "https://open.spotify.com/track/2rz6LNSkIKcG1ulv67HNZZ"
     },
     {
       "added_at": "2026-09-17 22:01:12",

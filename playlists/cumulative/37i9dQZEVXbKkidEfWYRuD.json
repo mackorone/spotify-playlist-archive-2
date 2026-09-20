@@ -20410,7 +20410,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/4CeeEOM32jQcH3eN9Q2dGj"
@@ -20428,7 +20428,7 @@
       ],
       "date_added": "2023-06-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 301920,
       "name": "Smells Like Teen Spirit",
       "url": "https://open.spotify.com/track/5ghIJDpPoe3CfHMGu71E6T"
@@ -35929,6 +35929,24 @@
     },
     {
       "album": {
+        "name": "\u041d\u0456\u043c\u0435\u0441\u0438\u043b",
+        "url": "https://open.spotify.com/album/5oh7SSKoxCqq51jiQmnTC2"
+      },
+      "artists": [
+        {
+          "name": "\u0428\u0443\u0433\u0430\u0440",
+          "url": "https://open.spotify.com/artist/5RRa1AAPROhlvdJHweQdWI"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151636,
+      "name": "\u041d\u0456\u043c\u0435\u0441\u0438\u043b",
+      "url": "https://open.spotify.com/track/30sgJs4XDi5W9QuXmVTpwK"
+    },
+    {
+      "album": {
         "name": "\u041d\u0456\u0442\u0440\u043e\u0433\u043b\u0456\u0446\u0435\u0440\u0438\u043d",
         "url": "https://open.spotify.com/album/5nitMTajPTmjkgDb4j8zkR"
       },
@@ -37764,7 +37782,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 143785,
       "name": "\u043f\u043e\u0440\u0435\u0437\u044b \u043d\u0430 \u0440\u0443\u043a\u0430\u0445",
       "url": "https://open.spotify.com/track/0EtY92q4WMdgY4nBQchLPt"

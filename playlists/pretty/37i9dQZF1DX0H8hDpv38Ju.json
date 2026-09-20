@@ -1,6 +1,6 @@
 {
   "description": "Get down and jam out to these throwback '80s R&B and soul tunes!",
-  "num_followers": 874240,
+  "num_followers": 874325,
   "original_name": "\u201980s Jam Session",
   "owner": {
     "name": "Spotify",
@@ -451,6 +451,26 @@
     {
       "added_at": "2021-04-01 19:37:56",
       "album": {
+        "name": "Best Of",
+        "url": "https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H"
+      },
+      "artists": [
+        {
+          "name": "Cherrelle",
+          "url": "https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4"
+        },
+        {
+          "name": "Alexander O'Neal",
+          "url": "https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G"
+        }
+      ],
+      "duration_ms": 521693,
+      "name": "Saturday Love - 12\" Extended Version",
+      "url": "https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg"
+    },
+    {
+      "added_at": "2021-04-01 19:37:56",
+      "album": {
         "name": "Club Classics Vol. One",
         "url": "https://open.spotify.com/album/5VxTLm2IZsDQn3r9eX1qfa"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 279800,
       "name": "Nights Over Egypt",
       "url": "https://open.spotify.com/track/68VCCqeujyd3SqmYAWB0lZ"
-    },
-    {
-      "added_at": "2021-04-01 19:37:56",
-      "album": {
-        "name": "Best Of",
-        "url": "https://open.spotify.com/album/0j5lDdSXw3zuhDXHJVB07H"
-      },
-      "artists": [
-        {
-          "name": "Cherrelle",
-          "url": "https://open.spotify.com/artist/4R2ZUCVWjJs5ef9pjnCVC4"
-        },
-        {
-          "name": "Alexander O'Neal",
-          "url": "https://open.spotify.com/artist/047D9GgqEzyMoULd2oKr7G"
-        }
-      ],
-      "duration_ms": 521693,
-      "name": "Saturday Love - 12\" Extended Version",
-      "url": "https://open.spotify.com/track/5W3Y5I9y5ps6M6rl09e7zg"
     },
     {
       "added_at": "2021-04-01 19:37:56",

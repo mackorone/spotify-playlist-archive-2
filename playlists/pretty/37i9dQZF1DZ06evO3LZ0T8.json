@@ -1,12 +1,12 @@
 {
   "description": "This is SUBSHIFT. The essential tracks, all in one playlist.",
-  "num_followers": 8929,
+  "num_followers": 8931,
   "original_name": "This Is SUBSHIFT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqstgAAAAAAcV3QY2rp5ye6qRty91zfl",
+  "snapshot_id": "aqx/AAAAAADqTbrfxt0/so3shcFWn/Bd",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tap That",
+        "url": "https://open.spotify.com/album/7iLjS24vCdwEHXTENrz9TD"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Tap That",
+      "url": "https://open.spotify.com/track/10Z2ViSDjIXKW5dB1Oog1X"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Vibin\u2019",
         "url": "https://open.spotify.com/album/7nOt5swYPMojLB3Duhm5L7"
       },
@@ -79,22 +95,6 @@
       "duration_ms": 167317,
       "name": "Vibin'",
       "url": "https://open.spotify.com/track/3pEAACkEm1hFQhfnouWa2M"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tap That",
-        "url": "https://open.spotify.com/album/7iLjS24vCdwEHXTENrz9TD"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Tap That",
-      "url": "https://open.spotify.com/track/10Z2ViSDjIXKW5dB1Oog1X"
     },
     {
       "added_at": null,
@@ -215,26 +215,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Freak Out",
-        "url": "https://open.spotify.com/album/62OsTy7hkNuFKAwFR4L7ro"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Silque",
-          "url": "https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW"
-        }
-      ],
-      "duration_ms": 138517,
-      "name": "Freak Out",
-      "url": "https://open.spotify.com/track/42w1i3guWLaz1VeEJUsbL0"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rockin' With",
         "url": "https://open.spotify.com/album/0hE8oNAQqvLNVrXpGAXkmR"
       },
@@ -251,6 +231,26 @@
       "duration_ms": 189097,
       "name": "Rockin' With",
       "url": "https://open.spotify.com/track/0p4fVoWXtS4IINstVnnNr0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Freak Out",
+        "url": "https://open.spotify.com/album/62OsTy7hkNuFKAwFR4L7ro"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Silque",
+          "url": "https://open.spotify.com/artist/78KwNsjhjWzZYejeBTtsNW"
+        }
+      ],
+      "duration_ms": 138517,
+      "name": "Freak Out",
+      "url": "https://open.spotify.com/track/42w1i3guWLaz1VeEJUsbL0"
     },
     {
       "added_at": null,
@@ -379,6 +379,42 @@
     {
       "added_at": null,
       "album": {
+        "name": "Unexpected",
+        "url": "https://open.spotify.com/album/4reugbzJpVWhzSQfeNR7c5"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "Neiv",
+          "url": "https://open.spotify.com/artist/1oW5Knr3xHcZvZpekIYYuh"
+        }
+      ],
+      "duration_ms": 174321,
+      "name": "Unexpected",
+      "url": "https://open.spotify.com/track/1Ab6qXXWkBrXMZj4G90SAP"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Move With Tha",
+        "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 186933,
+      "name": "Move With Tha",
+      "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "More Acid",
         "url": "https://open.spotify.com/album/48691K1R4tQkTXvTXiVQ8H"
       },
@@ -411,42 +447,6 @@
       "duration_ms": 189375,
       "name": "Club 95",
       "url": "https://open.spotify.com/track/2mJPisJh3QMDKFNjPsYR3G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Move With Tha",
-        "url": "https://open.spotify.com/album/35YXlOPsyhZtgcELZcN4nJ"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 186933,
-      "name": "Move With Tha",
-      "url": "https://open.spotify.com/track/5voZGXGTFZBn3nKZ6UJyxK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Unexpected",
-        "url": "https://open.spotify.com/album/4reugbzJpVWhzSQfeNR7c5"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "Neiv",
-          "url": "https://open.spotify.com/artist/1oW5Knr3xHcZvZpekIYYuh"
-        }
-      ],
-      "duration_ms": 174321,
-      "name": "Unexpected",
-      "url": "https://open.spotify.com/track/1Ab6qXXWkBrXMZj4G90SAP"
     },
     {
       "added_at": null,
@@ -523,6 +523,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "After Party",
+        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 216683,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Blink",
         "url": "https://open.spotify.com/album/3K0ZUAJYic8PxlQcyoxqi2"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 169687,
       "name": "Blink",
       "url": "https://open.spotify.com/track/4VkKITpuA7aiGtMWst0hk4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "After Party",
-        "url": "https://open.spotify.com/album/5VSbPVUxGg4iT0mIm4UV5b"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 216683,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/7JIZbrUykuhWue9puIHrcw"
     },
     {
       "added_at": null,
@@ -683,22 +683,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "My Mind / Let Me",
-        "url": "https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        }
-      ],
-      "duration_ms": 188322,
-      "name": "My Mind",
-      "url": "https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bad Decisions",
         "url": "https://open.spotify.com/album/3fTqyh23ImqLSKdBbUkhuM"
       },
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shutdown",
-        "url": "https://open.spotify.com/album/3Wblo1hg81cfadtYE2A582"
+        "name": "My Mind / Let Me",
+        "url": "https://open.spotify.com/album/23IvPVi8dtwCdEyDZNR294"
       },
       "artists": [
         {
@@ -728,9 +712,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 172757,
-      "name": "Shutdown",
-      "url": "https://open.spotify.com/track/7dJt10sVsSo2Uy5afY2P4i"
+      "duration_ms": 188322,
+      "name": "My Mind",
+      "url": "https://open.spotify.com/track/1CN3Ubg7fZzASeUQlwqqPn"
     },
     {
       "added_at": null,
@@ -755,8 +739,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ride Or Die",
-        "url": "https://open.spotify.com/album/18mpXDiJYd7tsbLPpVghKo"
+        "name": "Shutdown",
+        "url": "https://open.spotify.com/album/3Wblo1hg81cfadtYE2A582"
       },
       "artists": [
         {
@@ -764,9 +748,9 @@
           "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
         }
       ],
-      "duration_ms": 188857,
-      "name": "Ride Or Die",
-      "url": "https://open.spotify.com/track/6KMPX9wfNJZnoPJ7KFpA9g"
+      "duration_ms": 172757,
+      "name": "Shutdown",
+      "url": "https://open.spotify.com/track/7dJt10sVsSo2Uy5afY2P4i"
     },
     {
       "added_at": null,
@@ -783,6 +767,22 @@
       "duration_ms": 189697,
       "name": "The Rhythm",
       "url": "https://open.spotify.com/track/6Cx33NW52i3IjTilbqaIR5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ride Or Die",
+        "url": "https://open.spotify.com/album/18mpXDiJYd7tsbLPpVghKo"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 188857,
+      "name": "Ride Or Die",
+      "url": "https://open.spotify.com/track/6KMPX9wfNJZnoPJ7KFpA9g"
     },
     {
       "added_at": null,
@@ -823,26 +823,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "In My Bag",
-        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "owie",
-          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
-        }
-      ],
-      "duration_ms": 184567,
-      "name": "In My Bag",
-      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Raise It Up",
         "url": "https://open.spotify.com/album/5Sujv7LFz0QwXfezfzG6tE"
       },
@@ -867,6 +847,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "In My Bag",
+        "url": "https://open.spotify.com/album/1Y1ebICoBtXERdylqumYf9"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        },
+        {
+          "name": "owie",
+          "url": "https://open.spotify.com/artist/7yLfNXs6ttWSE2csFvRnai"
+        }
+      ],
+      "duration_ms": 184567,
+      "name": "In My Bag",
+      "url": "https://open.spotify.com/track/2TYOcnd7nZcaoyx5CWFuc9"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "I Want",
         "url": "https://open.spotify.com/album/3gLaucz6aCw44XgbEKfNrl"
       },
@@ -883,26 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Don't Sweat It",
-        "url": "https://open.spotify.com/album/64YRQCg7VLOrpwn9ydDPuO"
-      },
-      "artists": [
-        {
-          "name": "SUBSHIFT",
-          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
-        },
-        {
-          "name": "BINGEWATCH",
-          "url": "https://open.spotify.com/artist/46GFgB66csz8utVAK4Z29Z"
-        }
-      ],
-      "duration_ms": 176750,
-      "name": "Don't Sweat It",
-      "url": "https://open.spotify.com/track/07BJUgWZ51mfGuPw3oFQYP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Let Me",
         "url": "https://open.spotify.com/album/5now3yDgsj3mt2p27bUfXU"
       },
@@ -915,6 +895,22 @@
       "duration_ms": 178586,
       "name": "Let Me",
       "url": "https://open.spotify.com/track/3oxviUT5U8KqDcC91Ve5bz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Shake the Bass 4",
+        "url": "https://open.spotify.com/album/1dc8hYIvtlLN7V8RRfBERd"
+      },
+      "artists": [
+        {
+          "name": "SUBSHIFT",
+          "url": "https://open.spotify.com/artist/6oj23vhIuGx4bOqVmQ9oOo"
+        }
+      ],
+      "duration_ms": 183848,
+      "name": "Honey Dip",
+      "url": "https://open.spotify.com/track/0606StM2HkTudakYuVy2rd"
     }
   ],
   "unique_name": "This Is SUBSHIFT",

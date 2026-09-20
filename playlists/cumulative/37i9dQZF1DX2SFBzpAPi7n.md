@@ -4,7 +4,7 @@
 
 > K'ID = Korean ID\. Welcome to the K\-Rock anthem! \(Cover: Dabda\) \(핫한 국내 록 음악을 만나보세요!\)
 
-1,221 songs - 3 day 2 hr 16 min
+1,222 songs - 3 day 2 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -57,6 +57,7 @@
 | [An Ordinary Day](https://open.spotify.com/track/7lTo6C0sGaPdQvS4qAvVzp) | [Weather Boat](https://open.spotify.com/artist/0c5kjsZX8dPw8M1Oepgv4d) | [An Ordinary Day](https://open.spotify.com/album/3T4GnTXcyIHB3syGdr5JIS) | 4:06 | 2022-07-04 | 2022-07-28 |
 | [An Ordinary Day \(haru\)](https://open.spotify.com/track/1SWOMV36fMbpect803gbWV) | [Grizzly](https://open.spotify.com/artist/5Egus6b1x9pYOnqsG7y1f4) | [Flower6.jpg](https://open.spotify.com/album/3gG1cvpghDYMbAClqFM6WU) | 3:10 | 2025-05-15 | 2025-05-17 |
 | [Analogue](https://open.spotify.com/track/0HtmQKd6mUKlUsUgSpM1RJ) | [BUZZ](https://open.spotify.com/artist/4SdXXEHKFa5NSoh10QxeN2) | [The Lost Time](https://open.spotify.com/album/12nDUGuOGoo86f1OrBUMtM) | 3:34 | 2022-04-12 | 2022-07-16 |
+| [Angel](https://open.spotify.com/track/1dOuFZpx2lu0RO1iFhMj9D) | [CHANMIN](https://open.spotify.com/artist/1O1BXOtl5jWeZJIkSwNMBi) | [Angel](https://open.spotify.com/album/0hcWzqGgS45DYvrj4Hu336) | 4:18 | 2026-09-19 |  |
 | [Another Day](https://open.spotify.com/track/6dKQ8gHWUIHOkKPhPYyEk1) | [Park Wan Kyu](https://open.spotify.com/artist/3QUst1HlAmRuM48c5n5HSB), [노바소닉](https://open.spotify.com/artist/2zIq92ejtjxbwJ01a6VKkE) | [Another Day](https://open.spotify.com/album/1OGcVFDHhXEKwktaBaHofl) | 4:11 | 2022-04-22 | 2022-07-29 |
 | [Ant, Go Run](https://open.spotify.com/track/3tbzKxaika0fcyA61YOgH0) | [LUCY](https://open.spotify.com/artist/4eh2JeBpQaScfHKKXZh5vO) | [Stock Struck \(Original Television Soundtrack\), Pt.2](https://open.spotify.com/album/4ZhtmPkIeJdCFMYa6Kd8IU) | 3:00 | 2022-09-05 | 2022-10-01 |
 | [Anthems of Defiance](https://open.spotify.com/track/1IxFHdxSdC5vK1mvxCE0BM) | [LEE SEUNG YOON](https://open.spotify.com/artist/6z4R3mCiiIiLgpicseyNkV) | [YEOK SEONG](https://open.spotify.com/album/02SKwqYSENWwsZIZ9epjES) | 5:06 | 2024-10-24 | 2024-12-19 |
@@ -607,7 +608,7 @@
 | [Love in the Margins](https://open.spotify.com/track/2OmVwpG8LhocNIshacN5IZ) | [JEONG SEWOON](https://open.spotify.com/artist/2l9aF9jOgB7GI1uyNkx836) | [Love in the Margins](https://open.spotify.com/album/7EpWc3KUzkMjB9SiDssnIT) | 2:58 | 2026-03-31 | 2026-04-14 |
 | [Love Is All Around](https://open.spotify.com/track/17KIiHXJ4PRo1s0x5SpHTf) | [Wetter](https://open.spotify.com/artist/02qCfZpNgd0FQ1BFOPaqvq) | [Love Is All Around](https://open.spotify.com/album/5rGj57soCUAuXAdiptCTYl) | 4:25 | 2022-04-22 | 2022-07-29 |
 | [Love is Dangerous](https://open.spotify.com/track/24OvvcCFiI2ah2z5jQsm64) | [Touched](https://open.spotify.com/artist/5jgIm8tZ4hqLeoHTo9wJIV) | [Love is Dangerous](https://open.spotify.com/album/1yk0KslOua9rexBiY9pdJV) | 3:32 | 2022-04-22 | 2022-06-06 |
-| [Love is No Sin](https://open.spotify.com/track/1kpRu51hGlJmBbJoQMchoJ) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [DREAM](https://open.spotify.com/album/1MlNC3YWsy0afgtXfmRXaU) | 3:03 | 2025-10-20 |  |
+| [Love is No Sin](https://open.spotify.com/track/1kpRu51hGlJmBbJoQMchoJ) | [SORAN](https://open.spotify.com/artist/7eZGd0sv1TxpOwzyKc9P4R) | [DREAM](https://open.spotify.com/album/1MlNC3YWsy0afgtXfmRXaU) | 3:03 | 2025-10-20 | 2026-09-20 |
 | [Love Language](https://open.spotify.com/track/6w9SgpKIzB54R2xHml1UPP) | [Kim Min Seok \(MeloMance\)](https://open.spotify.com/artist/3CHn74oCO6xiThDGQcDMeA) | [Can This Love Be Translated? \(Soundtrack from the Netflix Series\)](https://open.spotify.com/album/5Qg2iNuV6zTCGlIYunvvTd) | 3:05 | 2026-01-19 |  |
 | [Love Me or Hate Me](https://open.spotify.com/track/2Qv01mVwY3815XuoXm6Upc) | [Song Soo Woo](https://open.spotify.com/artist/4X7gkJU9fcWMHeUS5BLWsr) | [Love Me or Hate Me](https://open.spotify.com/album/1yNeoN1SL2MCc1fef56l5y) | 2:39 | 2022-04-22 | 2022-07-29 |
 | [Love me or Leave me](https://open.spotify.com/track/4MwsWZDbTS2vUwfiwKW3c1) | [DAY6](https://open.spotify.com/artist/5TnQc2N1iKlFjYD7CPGvFc) | [The Book of Us : The Demon](https://open.spotify.com/album/1h59ktsm36nQJcnporccIt) | 3:42 | 2025-03-17 | 2025-04-12 |

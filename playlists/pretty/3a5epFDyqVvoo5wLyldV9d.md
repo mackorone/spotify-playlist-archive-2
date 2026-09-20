@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 
 > 
 
-[Ryan Gards](https://open.spotify.com/user/1230953186) - 48 likes - 918 songs - 2 day 23 hr 47 min
+[Ryan Gards](https://open.spotify.com/user/1230953186) - 48 likes - 919 songs - 2 day 23 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -926,5 +926,6 @@ pretty - [cumulative](/playlists/cumulative/3a5epFDyqVvoo5wLyldV9d.md) - [plain]
 | 916 | [Haydi Gel Benimle Ol](https://open.spotify.com/track/6ekUWsPDlyooDFSBmXvBIW) | [Sezen Aksu](https://open.spotify.com/artist/64d1rUxfizSAOE9UbMnUZd) | [Sen Ağlama](https://open.spotify.com/album/0qTyJMQhBBb5oeoTr8b8Ra) | 4:31 |
 | 917 | [Şımarık](https://open.spotify.com/track/6vEL7E8TGzrxuxbrgdlkLL) | [Tarkan](https://open.spotify.com/artist/2yMN0IP20GOaN6q0p0zL5k) | [Ölürüm Sana](https://open.spotify.com/album/6ebdbUXZn5AURKeRNXqiay) | 3:55 |
 | 918 | [Llorando \(Crying\) \- Original Motion Picture Soundtrack](https://open.spotify.com/track/17ClJ1OdG6O7pceGRx2nQL) | [Rebekah Del Rio](https://open.spotify.com/artist/4MmPhSWzK6ksBGuUNLqSQc) | [Mulholland Drive \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/3qNp6CS2TGgILNtajSeGwC) | 3:33 |
+| 919 | [Lobo\-hombre en París](https://open.spotify.com/track/3M1H1CWjrSq7nxABHc8EXv) | [La Unión](https://open.spotify.com/artist/2Ax9wZpdlg4r2zkc3pcI8U) | [Grandes Exitos](https://open.spotify.com/album/7bYD4tCxzQOzGZmKBKtT3m) | 3:53 |
 
-Snapshot ID: `AAAEG+TzUEtkwCOVdo47vn5fjV6D0vpJ`
+Snapshot ID: `AAAEHI/vUqfCD7Yu6bQkC0Q4ygC15CNC`

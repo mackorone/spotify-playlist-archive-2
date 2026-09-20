@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 
 > De Argentina para el mundo, los más destacados intérpretes y compositores\. Foto: Escalandrum
 
-[Spotify](https://open.spotify.com/user/spotify) - 34,249 likes - 76 songs - 6 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 34,253 likes - 76 songs - 6 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5dJFQ9iAw5v.md) - [plain]
 | 15 | [Pianistico \(Junto a Lito Vitale\)](https://open.spotify.com/track/1ABl9JwT8wDDu0VkVuQu6v) | [Alejo Leon](https://open.spotify.com/artist/3GUkiSQ2yK6hHubgoLQVmm), [Joana Gieco](https://open.spotify.com/artist/5yFDRiZNBV7oHf4es80nfG), [Lito Vitale](https://open.spotify.com/artist/7lw1BVWquad5hKtDPU26JG) | [Pianistico \(Junto a Lito Vitale\)](https://open.spotify.com/album/4RirLmsbvetn3o23WRSUE4) | 5:44 |
 | 16 | [Una Abeja Durmiente](https://open.spotify.com/track/6wCpCPfH7jPgwYv3srAfMn) | [Baby López Furst](https://open.spotify.com/artist/6gZQ1gJJ069kkcJogwx5l7) | [Jazz Argentino](https://open.spotify.com/album/6t7ajkFism3z8iKREL1Keg) | 5:03 |
 | 17 | [Puertas y Ventanas](https://open.spotify.com/track/2OeTcS3A1g1RsUj1xycs5Y) | [ASH Trio](https://open.spotify.com/artist/1lWRqHdNuzCQUaJdl1HUwm), [Hernan Hecht](https://open.spotify.com/artist/7dl3J3Gs0ryFhyeRDypljB), [Juan Pablo Arredondo](https://open.spotify.com/artist/6qcNKGD04YEUm0JlD9bhQv), [Natalio Sued](https://open.spotify.com/artist/1WqYlCDG2cmVXPZ1CcdMOs) | [Formas](https://open.spotify.com/album/5tpPFkMTHnxQBDay46yEqX) | 4:29 |
-| 18 | [I'm Beginning to See the Light](https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:20 |
-| 19 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 |
+| 18 | [Mi Elemento](https://open.spotify.com/track/6kdT5qRuBmiQDhegDgvkrU) | [Fabio Cadore](https://open.spotify.com/artist/2wG1MDWKCj8pxBuDG6NNbp), [Hernán Jacinto](https://open.spotify.com/artist/3waJSGCslQ87FHecJ3aRpl) | [Acto 2](https://open.spotify.com/album/7xcvIRi7rTn5QSFqsR42HK) | 5:53 |
+| 19 | [I'm Beginning to See the Light](https://open.spotify.com/track/1ybdrVHnZlzmEIbMLBZDsC) | [Ligia Piro](https://open.spotify.com/artist/2qE3UfT4wnrBpmJ2lbtB9q) | [Love](https://open.spotify.com/album/3NKeCyd3Y7VVOdBmoWqX39) | 2:20 |
 | 20 | [Acuático](https://open.spotify.com/track/4gXsislzJBKC3iuX9Dc9e1) | [Escalandrum](https://open.spotify.com/artist/3QZEbpYuO36TVmqHEbxpkZ) | [Studio 2](https://open.spotify.com/album/4uBkzGNVkHVt5GXg12yKLt) | 5:27 |
 | 21 | [NO LA VI VENIR](https://open.spotify.com/track/5preAnxabWbbG7v1hHWiHj) | [Hot Shooters](https://open.spotify.com/artist/2ysnOJKYkI0bYls02QOAAr) | [Boticario de Amor](https://open.spotify.com/album/7fYEXYA5tiXJr5xBaDBolL) | 3:05 |
 | 22 | [There Will Never Be Another You](https://open.spotify.com/track/4KL3VTE99YiRXtnfCouTWD) | [Walter Malosetti](https://open.spotify.com/artist/2UemHWCXZWSkmxElFolmVp) | [All of Me](https://open.spotify.com/album/3mpL1WNuZK9uPnYoLHojkE) | 4:39 |

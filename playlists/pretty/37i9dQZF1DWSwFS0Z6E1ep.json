@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1950s.",
-  "num_followers": 311708,
+  "num_followers": 311770,
   "original_name": "50s Party",
   "owner": {
     "name": "Spotify",
@@ -1611,22 +1611,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ain't That Right / Bring Your Love Back Home",
-        "url": "https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7"
-      },
-      "artists": [
-        {
-          "name": "Eddie Snow",
-          "url": "https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt"
-        }
-      ],
-      "duration_ms": 194000,
-      "name": "Bring Your Love Back Home",
-      "url": "https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "Berry Is On Top",
         "url": "https://open.spotify.com/album/7qIlDCv2QNNtCrauUzPPP2"
       },
@@ -1639,6 +1623,22 @@
       "duration_ms": 144600,
       "name": "Roll Over Beethoven",
       "url": "https://open.spotify.com/track/49vvBOlcnR3X4ArmnZMPL3"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ain't That Right / Bring Your Love Back Home",
+        "url": "https://open.spotify.com/album/6o93gieTy9n75mc0Mhgtw7"
+      },
+      "artists": [
+        {
+          "name": "Eddie Snow",
+          "url": "https://open.spotify.com/artist/1MskZigKUNqWI4ECsbfudt"
+        }
+      ],
+      "duration_ms": 194000,
+      "name": "Bring Your Love Back Home",
+      "url": "https://open.spotify.com/track/6lvzBdCaRm02bNKjpUTZTV"
     },
     {
       "added_at": "2022-06-07 05:25:13",
@@ -1855,22 +1855,6 @@
     {
       "added_at": "2022-06-07 05:25:13",
       "album": {
-        "name": "Ray Charles & Friends",
-        "url": "https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 386560,
-      "name": "What'd I Say",
-      "url": "https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L"
-    },
-    {
-      "added_at": "2022-06-07 05:25:13",
-      "album": {
         "name": "12 Of His Biggest Hits",
         "url": "https://open.spotify.com/album/4URqXxoj7ZPdqxVxVwiHoe"
       },
@@ -1883,6 +1867,22 @@
       "duration_ms": 119360,
       "name": "Summertime Blues",
       "url": "https://open.spotify.com/track/1ZWIQXfAquWtLDK5aOUczS"
+    },
+    {
+      "added_at": "2022-06-07 05:25:13",
+      "album": {
+        "name": "Ray Charles & Friends",
+        "url": "https://open.spotify.com/album/2LxEZ1siN0PWYPz4Y4FlQv"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 386560,
+      "name": "What'd I Say",
+      "url": "https://open.spotify.com/track/21WrPeWVmWWBAx0dXYck9L"
     },
     {
       "added_at": "2022-06-07 05:25:13",

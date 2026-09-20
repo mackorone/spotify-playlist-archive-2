@@ -1,6 +1,6 @@
 {
   "description": "Songs so beautiful, they'll stop you in your tracks.",
-  "num_followers": 2255912,
+  "num_followers": 2255773,
   "original_name": "The Most Beautiful Songs in the World",
   "owner": {
     "name": "Spotify",
@@ -1315,18 +1315,22 @@
     {
       "added_at": "2025-10-17 10:29:03",
       "album": {
-        "name": "It Takes Time",
-        "url": "https://open.spotify.com/album/4Yc4BxP7CnSSyTkT9FMU3U"
+        "name": "Someone Like You 2",
+        "url": "https://open.spotify.com/album/5EpuJ5hQvh2nz1iNRnCtbj"
       },
       "artists": [
         {
-          "name": "Fairhazel",
-          "url": "https://open.spotify.com/artist/0U5fdV8QHxk7Qc82vXWoHn"
+          "name": "Malaki",
+          "url": "https://open.spotify.com/artist/6DWp3hFGq7c3nyQ3AT7RDF"
+        },
+        {
+          "name": "Matthew Harris",
+          "url": "https://open.spotify.com/artist/7CgEbzJc53hDnSinf4oUij"
         }
       ],
-      "duration_ms": 200016,
-      "name": "It Takes Time",
-      "url": "https://open.spotify.com/track/28JzljSIIRvqJNdVNKu9hS"
+      "duration_ms": 185000,
+      "name": "Someone Like You 2",
+      "url": "https://open.spotify.com/track/2ANTihBMOmybgVfolMGbXP"
     }
   ],
   "unique_name": "The Most Beautiful Songs in the World",

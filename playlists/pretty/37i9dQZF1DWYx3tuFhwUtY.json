@@ -1,6 +1,6 @@
 {
   "description": "Buen indie rock para contar historietas...",
-  "num_followers": 129259,
+  "num_followers": 129247,
   "original_name": "Diarios de Bicicleta",
   "owner": {
     "name": "Spotify",
@@ -987,22 +987,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "A Hero's Death",
-        "url": "https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd"
-      },
-      "artists": [
-        {
-          "name": "Fontaines D.C.",
-          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
-        }
-      ],
-      "duration_ms": 233626,
-      "name": "A Lucid Dream",
-      "url": "https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Prisoners",
         "url": "https://open.spotify.com/album/6WeE2ZtxDES1b9FKNQlSx7"
       },
@@ -1019,18 +1003,18 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Strong Feelings",
-        "url": "https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY"
+        "name": "A Hero's Death",
+        "url": "https://open.spotify.com/album/6ARt0EbzNHFKBaie6WrBNd"
       },
       "artists": [
         {
-          "name": "Dry Cleaning",
-          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+          "name": "Fontaines D.C.",
+          "url": "https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6"
         }
       ],
-      "duration_ms": 244533,
-      "name": "Strong Feelings",
-      "url": "https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis"
+      "duration_ms": 233626,
+      "name": "A Lucid Dream",
+      "url": "https://open.spotify.com/track/7egz7bbHGeQP32mcO3DxnI"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1047,6 +1031,22 @@
       "duration_ms": 201192,
       "name": "Salvation",
       "url": "https://open.spotify.com/track/1fwOLfBevvNiMoyTT2zUoh"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Strong Feelings",
+        "url": "https://open.spotify.com/album/0j4bRpHCdbcQrqoeay67iY"
+      },
+      "artists": [
+        {
+          "name": "Dry Cleaning",
+          "url": "https://open.spotify.com/artist/7DlD7rLG9MKuvXtTeACzkO"
+        }
+      ],
+      "duration_ms": 244533,
+      "name": "Strong Feelings",
+      "url": "https://open.spotify.com/track/3xNfIWTsRdYbpEyildEMis"
     },
     {
       "added_at": "2024-07-12 23:20:36",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2024-07-12 23:20:36",
       "album": {
-        "name": "Mrs. Jones' Cookies",
-        "url": "https://open.spotify.com/album/24dI6lq3WUyZWLkf812CAm"
-      },
-      "artists": [
-        {
-          "name": "The Sandwitches",
-          "url": "https://open.spotify.com/artist/5wEILNDofg1v2FSoOsFMyC"
-        }
-      ],
-      "duration_ms": 221900,
-      "name": "Summer of Love",
-      "url": "https://open.spotify.com/track/5CP2t8ob13BZXVXByFazt1"
-    },
-    {
-      "added_at": "2024-07-12 23:20:36",
-      "album": {
         "name": "Nenu",
         "url": "https://open.spotify.com/album/2QOL5sA8SUCrzLVuTZbYgK"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 253809,
       "name": "Nenu",
       "url": "https://open.spotify.com/track/3gZeUWq9SsPO090ti2As1A"
+    },
+    {
+      "added_at": "2024-07-12 23:20:36",
+      "album": {
+        "name": "Mrs. Jones' Cookies",
+        "url": "https://open.spotify.com/album/24dI6lq3WUyZWLkf812CAm"
+      },
+      "artists": [
+        {
+          "name": "The Sandwitches",
+          "url": "https://open.spotify.com/artist/5wEILNDofg1v2FSoOsFMyC"
+        }
+      ],
+      "duration_ms": 221900,
+      "name": "Summer of Love",
+      "url": "https://open.spotify.com/track/5CP2t8ob13BZXVXByFazt1"
     },
     {
       "added_at": "2024-07-12 23:20:36",

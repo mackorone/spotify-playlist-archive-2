@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari no na, ROSÉ, Miley Cyrus, Dominic Fike, Piche Kota, Akbar Chalay, Mingse dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,248 likes - 114 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,225 likes - 114 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,7 +102,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 92 | [Waktu](https://open.spotify.com/track/0xxgBBqvwY3sCdZhoc3Bqc) | [Jangar](https://open.spotify.com/artist/6ZCTwGaqc6FBifBTfEbwwd) | [Waktu](https://open.spotify.com/album/5GIKso1X1Ne9uDYlsKKW9b) | 3:17 |
 | 93 | [ALGOJO](https://open.spotify.com/track/125uLDkArij93uzF2thuN5) | [The Kuda](https://open.spotify.com/artist/1P4BUso5PvIGFsnMfVbw2h) | [ALGOJO](https://open.spotify.com/album/4XQA3fHeczXFQZjdjUceAf) | 2:18 |
 | 94 | [ME against ME](https://open.spotify.com/track/11EYZex9Y3p3N2CgXLtbOc) | [Drewgon](https://open.spotify.com/artist/4GWsaDmURHLEsicjIvzRSI) | [ME against ME](https://open.spotify.com/album/3lpeS8jSHriExqMuIY94D7) | 2:55 |
-| 95 | [GAS](https://open.spotify.com/track/4romMGKzDUkoQdZ8AKhaUw) | [Mungare](https://open.spotify.com/artist/5X2SFAbo3a1bZkCWjlBlhh), [Gideon Beffers](https://open.spotify.com/artist/5clPsfD5UJ8rIYznlqiHDm), [GunZ](https://open.spotify.com/artist/2tItHfRlpIi2EqChSeogSx) | [GAS](https://open.spotify.com/album/7Cnev4uEfwCZYtw3OYJbOn) | 4:20 |
+| 95 | [GAS](https://open.spotify.com/track/4romMGKzDUkoQdZ8AKhaUw) | [Mungare](https://open.spotify.com/artist/5X2SFAbo3a1bZkCWjlBlhh), [Gideon Beffers](https://open.spotify.com/artist/4uGtpFaHbE8vNgOCFB5mvp), [GunZ](https://open.spotify.com/artist/1TU6sLpWMQEHUhIgFJVVVl) | [GAS](https://open.spotify.com/album/7Cnev4uEfwCZYtw3OYJbOn) | 4:20 |
 | 96 | [apalagi yang kau tunggu](https://open.spotify.com/track/7K2BJ7b1zseCPTJWJge2if) | [SlushSoPretty](https://open.spotify.com/artist/4hHleTlwosAC1aDMf09usc) | [apalagi yang kau tunggu](https://open.spotify.com/album/3tuR5qmUtzvK87sge3qsSa) | 2:31 |
 | 97 | [sayang,](https://open.spotify.com/track/4RyxfHvTNDeyNudtA3HFSN) | [satchi!](https://open.spotify.com/artist/6n8ToIdfkcNIjZ7hsHc5I6) | [sayang,](https://open.spotify.com/album/236oqOVSXTU6YLHs8CUaCx) | 3:18 |
 | 98 | [Cinta Dalam Diam](https://open.spotify.com/track/5AcGCn69DxQREaEYAXFzau) | [Latisha Diva](https://open.spotify.com/artist/7yOn5tRmi2Gdebty1xVJrq) | [Cinta Dalam Diam](https://open.spotify.com/album/0QwfMAvzGvP1CYBqqJU937) | 3:31 |

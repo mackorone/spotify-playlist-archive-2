@@ -1,6 +1,6 @@
 {
   "description": "Klassik &amp; Instrumental Soundtrack Konzentration, Entspannen",
-  "num_followers": 33229,
+  "num_followers": 33236,
   "original_name": "Klassische Musik zum Lesen, Lernen & Studieren",
   "owner": {
     "name": "Filtr Germany",
@@ -984,12 +984,12 @@
       },
       "artists": [
         {
-          "name": "Robert Schumann",
-          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
-        },
-        {
           "name": "Florian Christl",
           "url": "https://open.spotify.com/artist/4yanWaefFUJnIUV0aITdvV"
+        },
+        {
+          "name": "Robert Schumann",
+          "url": "https://open.spotify.com/artist/2UqjDAXnDxejEyE0CzfUrZ"
         }
       ],
       "duration_ms": 150648,

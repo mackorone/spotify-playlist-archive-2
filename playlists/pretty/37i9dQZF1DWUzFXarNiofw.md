@@ -4,12 +4,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 
 > The newest r&b drops, every week\. Cover: Josh Levi
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,120,479 likes - 250 songs - 13 hr 14 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,120,491 likes - 250 songs - 13 hr 14 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [HOUSTON \(feat\. TEEZO TOUCHDOWN\)](https://open.spotify.com/track/1gdWMROp3Jb8mK71KqWdYK) | [Josh Levi](https://open.spotify.com/artist/6NvsNA4Ea62yJh7ePTS8gz), [Teezo Touchdown](https://open.spotify.com/artist/0fGcIStdT1OpFFhOC7Wp36) | [HYDRAULIC: FUELED UP](https://open.spotify.com/album/4ivGfQt3Iy0ufQrehkvyzu) | 3:28 |
-| 2 | [Pieces \(feat\. Lucky Daye\)](https://open.spotify.com/track/71xigYhF7fHi2GEiwwMeo6) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Pieces \(Remix\)](https://open.spotify.com/album/5wsKCPX3VqZKXzvVUaVbzZ) | 3:06 |
+| 2 | [Pieces \(+ Lucky Daye\)](https://open.spotify.com/track/71xigYhF7fHi2GEiwwMeo6) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Pieces](https://open.spotify.com/album/5wsKCPX3VqZKXzvVUaVbzZ) | 3:06 |
 | 3 | [Red Eye](https://open.spotify.com/track/3tv3nu2BNrKEbD6JaDDECz) | [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [Static](https://open.spotify.com/album/4PEA7Ywknl77l6WM3DA9bP) | 3:04 |
 | 4 | [Yearning](https://open.spotify.com/track/2N1ppcmn1zJVTooSi27O1p) | [Larissa Lambert](https://open.spotify.com/artist/1tM4ox3QsSpl3R2VwLjJ47) | [Yearning](https://open.spotify.com/album/4uC6aKbXWCvJBG29GVNhDq) | 2:53 |
 | 5 | [Company](https://open.spotify.com/track/1VixD42StOF93a1naJMGnb) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Company](https://open.spotify.com/album/1tHG3rISWudn1FJoDjV56d) | 2:52 |
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUzFXarNiofw.md) - [plain]
 | 27 | [Climb On](https://open.spotify.com/track/1U9KP8p9puUwvuqKobGn7t) | [Hojean](https://open.spotify.com/artist/0ENnerFBtqPaVUcHadXU2w) | [Climb On](https://open.spotify.com/album/0RXnnI7Y0D6BcqmFydEWip) | 3:18 |
 | 28 | [Are You Willing](https://open.spotify.com/track/6my2GkulHxUnSzKZkRv38d) | [Wet](https://open.spotify.com/artist/2i9uaNzfUtuApAjEf1omV8) | [Are You Willing](https://open.spotify.com/album/6STKU0OmvS8oV6N2z3WjBG) | 3:50 |
 | 29 | [Falling Deep](https://open.spotify.com/track/6hdmN3pr5pS9o7KoSVfSF8) | [Daley](https://open.spotify.com/artist/13UXMns4uwUrEpIzY79Qgw) | [Strange Nature](https://open.spotify.com/album/5iqGU5YgjoGqONPqgBxCpl) | 4:19 |
-| 30 | [KEEPMEINMIND \(Live Mix\)](https://open.spotify.com/track/1b6OJgLyGprHlK7KeMXEfI) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [MORE\[LIVE\]](https://open.spotify.com/album/5CBUTrRiWgoW6QQoaLcXH8) | 3:37 |
+| 30 | [KEEPMEINMIND \(Live\)](https://open.spotify.com/track/1b6OJgLyGprHlK7KeMXEfI) | [3ee](https://open.spotify.com/artist/0MOQB6FzT4cx60yzXhtj9h) | [MORE\[LIVE\]](https://open.spotify.com/album/5CBUTrRiWgoW6QQoaLcXH8) | 3:37 |
 | 31 | [Skin & Bones](https://open.spotify.com/track/2yv8cYKk9bJkSUzxSl1CFZ) | [Arlissa](https://open.spotify.com/artist/7wzaSKTsjE9HnuDuZTX452) | [Skin & Bones](https://open.spotify.com/album/0eAhfR5OQLE3TCKWW90tob) | 2:34 |
 | 32 | [Squeeze me?](https://open.spotify.com/track/3ifjAoYtVndT6A2py4Voc5) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Besides you](https://open.spotify.com/album/0P3z4sDLV8mRa3UZVqMVhF) | 2:58 |
 | 33 | [late night](https://open.spotify.com/track/23i10hKRFFtyNN801D2AYz) | [Ray Lozano](https://open.spotify.com/artist/1lqO9zpSZ9iEkgEgJqc443) | [late night](https://open.spotify.com/album/6yqw95xO7ZKfQW5fO58Hlm) | 3:17 |

@@ -1,6 +1,6 @@
 {
   "description": "Uutta musaa tarjoilevat KERZA, ELLIMEI, Nelli Matula... ja moni muu  \ud83c\udfb6",
-  "num_followers": 108493,
+  "num_followers": 108499,
   "original_name": "New Music Friday Suomi",
   "owner": {
     "name": "Spotify",
@@ -266,10 +266,14 @@
         {
           "name": "1.Cuz",
           "url": "https://open.spotify.com/artist/5uvOG0MwnD2ANrxNBUPtNr"
+        },
+        {
+          "name": "01an",
+          "url": "https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY"
         }
       ],
       "duration_ms": 152295,
-      "name": "Public Enemy (feat. 1.Cuz)",
+      "name": "Public Enemy (feat. 1.Cuz & 01an)",
       "url": "https://open.spotify.com/track/3cdGPN9YsDmxUuwhoeQ84A"
     },
     {
@@ -687,7 +691,7 @@
     {
       "added_at": "2026-09-17 21:00:08",
       "album": {
-        "name": "Innocent Smile",
+        "name": "Innocent Smile (feat. Suggs & Chase & Status)",
         "url": "https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq"
       },
       "artists": [
@@ -705,7 +709,7 @@
         }
       ],
       "duration_ms": 160000,
-      "name": "Innocent Smile",
+      "name": "Innocent Smile (feat. Suggs & Chase & Status)",
       "url": "https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f"
     },
     {

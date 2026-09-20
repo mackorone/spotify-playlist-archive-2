@@ -1,6 +1,6 @@
 {
   "description": "The pulse of Latin House \ud83d\udc83\ud83c\udffb\ud83d\udc83\ud83c\udffb featuring Miluhska",
-  "num_followers": 121915,
+  "num_followers": 121986,
   "original_name": "Latin House",
   "owner": {
     "name": "Spotify",
@@ -1503,6 +1503,22 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
+        "name": "Marrakesh",
+        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
+      },
+      "artists": [
+        {
+          "name": "JOHN ELLE",
+          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
+        }
+      ],
+      "duration_ms": 142258,
+      "name": "Marrakesh",
+      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
         "name": "Pegado",
         "url": "https://open.spotify.com/album/1b3JSZK4YWuJDekO8LmMZA"
       },
@@ -1519,22 +1535,6 @@
       "duration_ms": 125000,
       "name": "Pegado",
       "url": "https://open.spotify.com/track/2if67V4tMNmOdmwjQfNahB"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
-        "name": "Marrakesh",
-        "url": "https://open.spotify.com/album/4JFwSZw2uFMTjI7eCtUJ4y"
-      },
-      "artists": [
-        {
-          "name": "JOHN ELLE",
-          "url": "https://open.spotify.com/artist/1aRWWqUGxjgTSGQYHGZbot"
-        }
-      ],
-      "duration_ms": 142258,
-      "name": "Marrakesh",
-      "url": "https://open.spotify.com/track/6RsuW9DXFOVgdoPycLIKqS"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1663,26 +1663,6 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
-        "name": "La Bamba",
-        "url": "https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U"
-      },
-      "artists": [
-        {
-          "name": "MESSINA.",
-          "url": "https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV"
-        },
-        {
-          "name": "Rawling",
-          "url": "https://open.spotify.com/artist/3AlmtSQyTzQH1VxNF0H78J"
-        }
-      ],
-      "duration_ms": 197862,
-      "name": "La Bamba",
-      "url": "https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
         "name": "Coroa",
         "url": "https://open.spotify.com/album/2VyoPPR34XZhvgzEqSVQ6a"
       },
@@ -1699,6 +1679,26 @@
       "duration_ms": 136088,
       "name": "Coroa",
       "url": "https://open.spotify.com/track/7tgVdw3YmgZe2JyFHxpmq3"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
+        "name": "La Bamba",
+        "url": "https://open.spotify.com/album/4srusXLNJAsjUEwWVqqv9U"
+      },
+      "artists": [
+        {
+          "name": "MESSINA.",
+          "url": "https://open.spotify.com/artist/3eK2MnfhA0jYlXwtVZbpzV"
+        },
+        {
+          "name": "Rawling",
+          "url": "https://open.spotify.com/artist/3AlmtSQyTzQH1VxNF0H78J"
+        }
+      ],
+      "duration_ms": 197862,
+      "name": "La Bamba",
+      "url": "https://open.spotify.com/track/7jTUujZyqBr8RqCi8xRLuz"
     },
     {
       "added_at": "2026-09-11 04:01:26",
@@ -1855,6 +1855,22 @@
     {
       "added_at": "2026-09-11 04:01:26",
       "album": {
+        "name": "Delante",
+        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
+      },
+      "artists": [
+        {
+          "name": "Lodgerz",
+          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
+        }
+      ],
+      "duration_ms": 145908,
+      "name": "Delante",
+      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
+    },
+    {
+      "added_at": "2026-09-11 04:01:26",
+      "album": {
         "name": "Morenita",
         "url": "https://open.spotify.com/album/1tVe5NkJfNSwnEArPYH5Yr"
       },
@@ -1875,22 +1891,6 @@
       "duration_ms": 178816,
       "name": "Morenita",
       "url": "https://open.spotify.com/track/76UOMh4rQocYNavvGLgGiw"
-    },
-    {
-      "added_at": "2026-09-11 04:01:26",
-      "album": {
-        "name": "Delante",
-        "url": "https://open.spotify.com/album/5vPtAiKazM8CA6NboCmaag"
-      },
-      "artists": [
-        {
-          "name": "Lodgerz",
-          "url": "https://open.spotify.com/artist/1v6MeV1kAPbXmFeF60LtZE"
-        }
-      ],
-      "duration_ms": 145908,
-      "name": "Delante",
-      "url": "https://open.spotify.com/track/3m0cKFBobiuIuNDzOCQJSN"
     },
     {
       "added_at": "2026-09-11 04:01:26",

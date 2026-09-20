@@ -1,6 +1,6 @@
 {
   "description": "unge kniv \ud83d\udd2a @KlaraVibeke",
-  "num_followers": 47238,
+  "num_followers": 47239,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -747,6 +747,22 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
+        "name": "Sputnik",
+        "url": "https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y"
+      },
+      "artists": [
+        {
+          "name": "Sm\u00f8gm\u00e6nd",
+          "url": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
+        }
+      ],
+      "duration_ms": 149000,
+      "name": "Gemen",
+      "url": "https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
         "name": "Hvis jeg ku'",
         "url": "https://open.spotify.com/album/3kNHoFmsaqrnd0cPtlKM3c"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 229000,
       "name": "Hvis jeg ku'",
       "url": "https://open.spotify.com/track/74eJCVzPl499tMbiD8FpRM"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
-        "name": "Uendelighed",
-        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
-      },
-      "artists": [
-        {
-          "name": "Ella Augusta",
-          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
-        }
-      ],
-      "duration_ms": 173442,
-      "name": "Uendelighed",
-      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2026-09-17 22:02:34",
@@ -795,38 +795,34 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
-        "name": "Sputnik",
-        "url": "https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y"
+        "name": "Uendelighed",
+        "url": "https://open.spotify.com/album/3kBaB5xqZQj2Qtq3WG5HRX"
       },
       "artists": [
         {
-          "name": "Sm\u00f8gm\u00e6nd",
-          "url": "https://open.spotify.com/artist/2PKZDTNUlvKmC8LfisVfXg"
+          "name": "Ella Augusta",
+          "url": "https://open.spotify.com/artist/77Y8znH6FsXmoGzwxbFlOz"
         }
       ],
-      "duration_ms": 149000,
-      "name": "Gemen",
-      "url": "https://open.spotify.com/track/3eGVpwp0OJrFsudx6K6rLr"
+      "duration_ms": 173442,
+      "name": "Uendelighed",
+      "url": "https://open.spotify.com/track/21O5X4CcPTXfeD5CYZJJ7Q"
     },
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
-        "name": "Var det dig, der var derinde?",
-        "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
+        "name": "I'm On It",
+        "url": "https://open.spotify.com/album/02v2Ccm0N5Tzzg9Bk4TIoj"
       },
       "artists": [
         {
-          "name": "Guldimund",
-          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
-        },
-        {
-          "name": "Sarah Wichmann",
-          "url": "https://open.spotify.com/artist/51MYcyx50QTCOVGXeX3cfx"
+          "name": "Von Quar",
+          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
         }
       ],
-      "duration_ms": 255223,
-      "name": "Var det dig, der var derinde?",
-      "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
+      "duration_ms": 187083,
+      "name": "I'm On It",
+      "url": "https://open.spotify.com/track/30ZRH8KqoY6G6nmbMKODl9"
     },
     {
       "added_at": "2026-09-17 22:02:34",
@@ -847,18 +843,22 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
-        "name": "I'm On It",
-        "url": "https://open.spotify.com/album/02v2Ccm0N5Tzzg9Bk4TIoj"
+        "name": "Var det dig, der var derinde?",
+        "url": "https://open.spotify.com/album/4oQX9QIAhLMpqUEBEwomWb"
       },
       "artists": [
         {
-          "name": "Von Quar",
-          "url": "https://open.spotify.com/artist/5B7f5pkLEMpnY20go77xX3"
+          "name": "Guldimund",
+          "url": "https://open.spotify.com/artist/5269oiQ5yjMDcgXoJr6zkw"
+        },
+        {
+          "name": "Sarah Wichmann",
+          "url": "https://open.spotify.com/artist/51MYcyx50QTCOVGXeX3cfx"
         }
       ],
-      "duration_ms": 187083,
-      "name": "I'm On It",
-      "url": "https://open.spotify.com/track/30ZRH8KqoY6G6nmbMKODl9"
+      "duration_ms": 255223,
+      "name": "Var det dig, der var derinde?",
+      "url": "https://open.spotify.com/track/4TxZbbcL8jAqjuonT6CUnJ"
     },
     {
       "added_at": "2026-09-17 22:02:34",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
-        "name": "S\u00e6tter Alt P\u00e5 Spil",
-        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
-      },
-      "artists": [
-        {
-          "name": "Bifald",
-          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
-        }
-      ],
-      "duration_ms": 197589,
-      "name": "S\u00e6tter Alt P\u00e5 Spil",
-      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
         "name": "Jeg h\u00e5ber (feat. Mekdes)",
         "url": "https://open.spotify.com/album/6kIp7hgt0wpyZheKKklQrG"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 168469,
       "name": "Jeg h\u00e5ber (feat. Mekdes)",
       "url": "https://open.spotify.com/track/7grS76cFWGhWDnlkA9DkxO"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
+        "name": "S\u00e6tter Alt P\u00e5 Spil",
+        "url": "https://open.spotify.com/album/6ZnTQdsr38N6WkW7O98ZDA"
+      },
+      "artists": [
+        {
+          "name": "Bifald",
+          "url": "https://open.spotify.com/artist/0digldp7orPQLSfADZojvH"
+        }
+      ],
+      "duration_ms": 197589,
+      "name": "S\u00e6tter Alt P\u00e5 Spil",
+      "url": "https://open.spotify.com/track/3m6Qqi5fgMhlJJyRgeOx1d"
     },
     {
       "added_at": "2026-09-17 22:02:34",
@@ -1003,6 +1003,22 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
+        "name": "S\u00f8mand Af Verden",
+        "url": "https://open.spotify.com/album/4WvHCE652kNavAltBeL97h"
+      },
+      "artists": [
+        {
+          "name": "Matilde Alexandra",
+          "url": "https://open.spotify.com/artist/49EE2hM80yLCDi8FIPBnIR"
+        }
+      ],
+      "duration_ms": 208375,
+      "name": "S\u00f8mand Af Verden",
+      "url": "https://open.spotify.com/track/1K3RT2BaENwRbOd0nKIePw"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
         "name": "LEGION\u00c6R",
         "url": "https://open.spotify.com/album/35fuAHyVFJjsO4jrUsZQ2M"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 171200,
       "name": "Walmart",
       "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
-        "name": "S\u00f8mand Af Verden",
-        "url": "https://open.spotify.com/album/4WvHCE652kNavAltBeL97h"
-      },
-      "artists": [
-        {
-          "name": "Matilde Alexandra",
-          "url": "https://open.spotify.com/artist/49EE2hM80yLCDi8FIPBnIR"
-        }
-      ],
-      "duration_ms": 208375,
-      "name": "S\u00f8mand Af Verden",
-      "url": "https://open.spotify.com/track/1K3RT2BaENwRbOd0nKIePw"
     },
     {
       "added_at": "2026-09-17 22:02:34",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
-        "name": "Whatyoufeellike",
-        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
-      },
-      "artists": [
-        {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
-        }
-      ],
-      "duration_ms": 166209,
-      "name": "Whatyoufeellike",
-      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
         "name": "Pissoir",
         "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
       },
@@ -1135,6 +1119,22 @@
       "duration_ms": 185533,
       "name": "Pissoir",
       "url": "https://open.spotify.com/track/2zd5aojgRe21i2R0kgrpb0"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
+        "name": "Whatyoufeellike",
+        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 166209,
+      "name": "Whatyoufeellike",
+      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
     },
     {
       "added_at": "2026-09-17 22:02:34",

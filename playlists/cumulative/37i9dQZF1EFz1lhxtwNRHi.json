@@ -2387,6 +2387,28 @@
     },
     {
       "album": {
+        "name": "Numb (Teddy Geiger Remix)",
+        "url": "https://open.spotify.com/album/3ECr7MkMKlgYsGEv3oS1zr"
+      },
+      "artists": [
+        {
+          "name": "Sylvan Esso",
+          "url": "https://open.spotify.com/artist/39vA9YljbnOApXKniLWBZv"
+        },
+        {
+          "name": "Teddy Geiger",
+          "url": "https://open.spotify.com/artist/1YIpZOfyHXMUgUaxxxgbaC"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 271051,
+      "name": "Numb - teddy<3 version",
+      "url": "https://open.spotify.com/track/23HTVzgPOyht0nCrZOSrCs"
+    },
+    {
+      "album": {
         "name": "Numb",
         "url": "https://open.spotify.com/album/1Ho3UkeW5DfE812uhE6Q9Q"
       },

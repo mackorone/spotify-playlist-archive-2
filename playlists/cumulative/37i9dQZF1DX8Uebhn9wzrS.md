@@ -4,7 +4,7 @@
 
 > 🎧 hit play, lock in, get stuff done 📚
 
-2,532 songs - 4 day 0 hr 18 min
+2,533 songs - 4 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -385,6 +385,7 @@
 | [Chapman](https://open.spotify.com/track/16N0uGSoGeW41PrPCEnh8T) | [Olivier Abeille](https://open.spotify.com/artist/43d1D4ncfmUYZCkZsxvfEy) | [Chapman](https://open.spotify.com/album/6dP2OierGgAWvXtfjRpWtZ) | 2:09 | 2022-04-15 | 2023-02-14 |
 | [chapter one](https://open.spotify.com/track/3KWCSFlXzN09GtiLCuRBKn) | [Emaso](https://open.spotify.com/artist/5nsxk8zPqHAFqADVsLy45c) | [chapter one](https://open.spotify.com/album/5sa4owS9NBpq0u5xi5Trso) | 1:37 | 2023-08-03 | 2024-05-14 |
 | [Chasette](https://open.spotify.com/track/6YxNZWfsde3p8xYqO5bZsQ) | [Koloso](https://open.spotify.com/artist/5sJTKXv0COjf7x8ucatN55) | [Chasette](https://open.spotify.com/album/2nEtJlvncjBCZpx818evPA) | 3:14 | 2022-04-15 | 2022-06-10 |
+| [Chasing Butterflies](https://open.spotify.com/track/5KLvTBvjn4lVvDIBJNQWtV) | [Zmeyev](https://open.spotify.com/artist/3VXe7BcibISROhxRdPuRNL), [Tah.](https://open.spotify.com/artist/5tbllvHfDoHsDZuTnrs9Pb) | [Chasing Butterflies](https://open.spotify.com/album/2N9XaVgSUq789s05CV8nln) | 2:34 | 2026-09-18 |  |
 | [chasing fireflies](https://open.spotify.com/track/5C5OT1pJ68GAEiytNe4nah) | [filmy](https://open.spotify.com/artist/0YysDEbyI5EtHplEjHsMI4) | [chasing fireflies](https://open.spotify.com/album/3zcrtDDws9dA07WjSvT1Wd) | 2:00 | 2026-01-23 |  |
 | [Cheating Accidentally](https://open.spotify.com/track/3x5U06AxZduhHGtMxR5PVX) | [asanatobi](https://open.spotify.com/artist/6LeJY3URhc2QOx8vPAB2Ou) | [Cheating Accidentally](https://open.spotify.com/album/35mtHWzN4VCTlIFhvTKos3) | 2:03 | 2023-07-13 | 2023-08-18 |
 | [Check\-Out Time](https://open.spotify.com/track/6Q0Pf9BVZxgpebR8q3NS6N) | [Geometrical](https://open.spotify.com/artist/2qBL4kmK6EygqSfEEkMRpq) | [Check\-Out Time](https://open.spotify.com/album/4G799Tgmay9itwQSV3xdTF) | 1:53 | 2023-04-20 | 2025-11-21 |
@@ -1166,7 +1167,7 @@
 | [Last Time](https://open.spotify.com/track/08WUibKNfFF4WfG41D4PtG) | [BIDØ](https://open.spotify.com/artist/7HSBpX7fVOinHb9CNcL6Qe) | [Last Time](https://open.spotify.com/album/2ZE03YO8AarncGggsEqlUM) | 2:23 | 2022-06-10 | 2022-11-19 |
 | [late days](https://open.spotify.com/track/2nOqhb262LVJxEZtvEqqFK) | [olbejom](https://open.spotify.com/artist/6ZVFQS79wada5T9YGOqqfq) | [late days](https://open.spotify.com/album/3nxugzWYnvcC5DTKEMqA47) | 1:41 | 2024-04-12 | 2024-08-22 |
 | [late dusk](https://open.spotify.com/track/35xHtH12lTSko40xnOGI2F) | [Kichiro](https://open.spotify.com/artist/4QDcFcZSlbHAgSXzkRqDjo), [cloud cover](https://open.spotify.com/artist/1y9I7fJdrExfvwiY8SYtB6) | [late dusk](https://open.spotify.com/album/7t3jqx4FpamMRb3asFRHDX) | 1:51 | 2026-02-13 |  |
-| [Late Night](https://open.spotify.com/track/3NqOQ4YLQrLwaJcAMIeYCm) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Late Night](https://open.spotify.com/album/3ejOugPM4HrzfMWs2eifNy) | 2:35 | 2026-09-18 |  |
+| [Late Night](https://open.spotify.com/track/3NqOQ4YLQrLwaJcAMIeYCm) | [Spring Bingo](https://open.spotify.com/artist/6nKx4Rzt8UvlMs3zEiwMif) | [Late Night](https://open.spotify.com/album/3ejOugPM4HrzfMWs2eifNy) | 2:35 | 2026-09-18 | 2026-09-20 |
 | [Late Night Call](https://open.spotify.com/track/4F0rWDhwr8mAImFmCPuBvP) | [rasya](https://open.spotify.com/artist/5AiC0g0himsHrBJgYixuB0) | [Late Night Call](https://open.spotify.com/album/5li4QSdvxWxkes4fRqDR3t) | 2:33 | 2022-04-15 | 2022-06-25 |
 | [Late Night Cruisin'](https://open.spotify.com/track/4CAv2SgblWL9g2bf7Xft0W) | [Bcalm](https://open.spotify.com/artist/7M4y7qvcYja7RcXNCGrjeP), [Banks](https://open.spotify.com/artist/6L9h5cN2DNOoMqFRgIv7uU) | [Late Night Cruisin'](https://open.spotify.com/album/1MF15bUjDTGL2ojqnJKldU) | 1:37 | 2022-04-15 | 2022-08-12 |
 | [late night thoughts](https://open.spotify.com/track/2MxnUB5s8RPbpbnoTZivFs) | [Avenue Arts](https://open.spotify.com/artist/3JBqMhMwu7mQz9onsWHdsl) | [late night thoughts](https://open.spotify.com/album/4xXy2SrN8a7kUW18jlYO2L) | 1:37 | 2026-01-30 | 2026-02-07 |

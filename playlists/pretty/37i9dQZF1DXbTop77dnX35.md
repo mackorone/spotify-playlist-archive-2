@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 
 > New Music from Seyi Vibez, BNXN, Olamide, Clean Bandit, M.anifest, and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 218,413 likes - 56 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 218,551 likes - 56 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,7 +53,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbTop77dnX35.md) - [plain]
 | 43 | [Don't It Feel Right](https://open.spotify.com/track/5rng6TbgMGWtegWqN1TZ4i) | [EASY FREAK](https://open.spotify.com/artist/5X9T1si7pOUmy2IayH147S) | [Don't It Feel Right](https://open.spotify.com/album/1MhMpdN06xUws1L9PaFnf4) | 2:36 |
 | 44 | [eko!](https://open.spotify.com/track/3ic1FCc5XFPOIDRcKsTicH) | [DOGHOUSETV](https://open.spotify.com/artist/1RQJha5uDiBnAgW3s4TLUb) | [WHO LET DA DOGZ OUT](https://open.spotify.com/album/15By133H1vzqDPK3xTMiT5) | 4:33 |
 | 45 | [Sista Bozza](https://open.spotify.com/track/6eNsrWNNqUuFuXe813mDsj) | [DJHarvey](https://open.spotify.com/artist/6mcwg9C1lpmNBXV9pY2leN), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [Reece Madlisa](https://open.spotify.com/artist/6ucYQLJMMVyN1nO4GebaV2), [M00tion](https://open.spotify.com/artist/0hHKCtRNUUbczIb3csIz7j), [Loony Q](https://open.spotify.com/artist/63k6MOZctLy9IFJqdYgKDv), [Ez Maestro](https://open.spotify.com/artist/3IMFYyZbvXrXDCRdrajyT2) | [Sista Bozza](https://open.spotify.com/album/0U1ubSQuUq0mp7uu47OBwn) | 5:31 |
-| 46 | [Innocent Smile](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
+| 46 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 47 | [Osuofia In London](https://open.spotify.com/track/4TGhISkFBVsN8gC6nyab3z) | [Sigag Lauren](https://open.spotify.com/artist/0CYHsfVyqOajHaAn2uqZzA) | [Osuofia In London](https://open.spotify.com/album/5FX8QS2mwwmd3WsZBVqJyo) | 6:03 |
 | 48 | [Something I Need](https://open.spotify.com/track/7CLcUDZNAIEJVmQOFqMON8) | [Offset](https://open.spotify.com/artist/4DdkRBBYG6Yk9Ka8tdJ9BW) | [Something I Need](https://open.spotify.com/album/3fFbtQSZPuTZRTlghImWcQ) | 2:25 |
 | 49 | [Squeeze me?](https://open.spotify.com/track/3ifjAoYtVndT6A2py4Voc5) | [tg.blk](https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm) | [Besides you](https://open.spotify.com/album/0P3z4sDLV8mRa3UZVqMVhF) | 2:58 |

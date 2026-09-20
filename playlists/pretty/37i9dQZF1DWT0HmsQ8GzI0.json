@@ -1,6 +1,6 @@
 {
   "description": "Zen\u00e9k, amik f\u00e9lreugranak a m\u0171faji hat\u00e1rok el\u0151l. Cover: \u0414eva",
-  "num_followers": 16938,
+  "num_followers": 16944,
   "original_name": "Nemazapop",
   "owner": {
     "name": "Spotify",
@@ -18,6 +18,10 @@
         {
           "name": "\u0414eva",
           "url": "https://open.spotify.com/artist/2wfO6DMEhzft4IfwM1YzEQ"
+        },
+        {
+          "name": "Zs\u00e1ger Bal\u00e1zs",
+          "url": "https://open.spotify.com/artist/2RvfJGJt3iaNfLQZssJkD1"
         }
       ],
       "duration_ms": 228571,
@@ -895,26 +899,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "ALL-IN",
-        "url": "https://open.spotify.com/album/5OBtMgai6IIIudhnm0hGBz"
-      },
-      "artists": [
-        {
-          "name": "Duckshell",
-          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
-        },
-        {
-          "name": "V\u00e1rkonyi Csib\u00e9szek",
-          "url": "https://open.spotify.com/artist/1RoqJqUGdtcjnKyGARoWF3"
-        }
-      ],
-      "duration_ms": 218508,
-      "name": "ALL-IN",
-      "url": "https://open.spotify.com/track/2y4F6BLHSKnwfaML1PVWk0"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "Jerik\u00f3",
         "url": "https://open.spotify.com/album/455HvLY620gM3Ia8tO7JR7"
       },
@@ -935,6 +919,26 @@
       "duration_ms": 162000,
       "name": "Jerik\u00f3",
       "url": "https://open.spotify.com/track/2buK5D1SetmgAPAl10tCq3"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "ALL-IN",
+        "url": "https://open.spotify.com/album/5OBtMgai6IIIudhnm0hGBz"
+      },
+      "artists": [
+        {
+          "name": "Duckshell",
+          "url": "https://open.spotify.com/artist/0UwipkMBTtmv6dORNlafC9"
+        },
+        {
+          "name": "V\u00e1rkonyi Csib\u00e9szek",
+          "url": "https://open.spotify.com/artist/1RoqJqUGdtcjnKyGARoWF3"
+        }
+      ],
+      "duration_ms": 218508,
+      "name": "ALL-IN",
+      "url": "https://open.spotify.com/track/2y4F6BLHSKnwfaML1PVWk0"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1107,22 +1111,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "AK\u00c1RKIFIA",
-        "url": "https://open.spotify.com/album/0TvpE8pe9RGmp5hP6S9Nk7"
-      },
-      "artists": [
-        {
-          "name": "Bohemian Betyars",
-          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
-        }
-      ],
-      "duration_ms": 197511,
-      "name": "Ak\u00e1rkifia",
-      "url": "https://open.spotify.com/track/3S1PfBDw6xuePLFD7fH0WD"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "SZ\u00d3LNI KELL",
         "url": "https://open.spotify.com/album/47JjFF1Xmb9vnGFSLbTV1l"
       },
@@ -1135,6 +1123,22 @@
       "duration_ms": 223386,
       "name": "KICSIKE F\u00c9NY",
       "url": "https://open.spotify.com/track/0zSJD8hIVRARlAXr6zLnWb"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "AK\u00c1RKIFIA",
+        "url": "https://open.spotify.com/album/0TvpE8pe9RGmp5hP6S9Nk7"
+      },
+      "artists": [
+        {
+          "name": "Bohemian Betyars",
+          "url": "https://open.spotify.com/artist/2ezYPSKWBfnFTobN9puCow"
+        }
+      ],
+      "duration_ms": 197511,
+      "name": "Ak\u00e1rkifia",
+      "url": "https://open.spotify.com/track/3S1PfBDw6xuePLFD7fH0WD"
     },
     {
       "added_at": "2026-09-18 15:19:05",
@@ -1247,22 +1251,6 @@
     {
       "added_at": "2026-09-18 15:19:05",
       "album": {
-        "name": "Eddig k\u00e9s\u0151n fek\u00fcdtem le",
-        "url": "https://open.spotify.com/album/4UxNUQrYMao52xRB5CbhFE"
-      },
-      "artists": [
-        {
-          "name": "cserihanna",
-          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
-        }
-      ],
-      "duration_ms": 181121,
-      "name": "A nyaral\u00f3 terasz\u00e1n",
-      "url": "https://open.spotify.com/track/3ZWlG6uEp0wZldavExZVWG"
-    },
-    {
-      "added_at": "2026-09-18 15:19:05",
-      "album": {
         "name": "H\u00e9ra",
         "url": "https://open.spotify.com/album/1IEtuvTgixEj2jmiGxOuFc"
       },
@@ -1275,6 +1263,22 @@
       "duration_ms": 206829,
       "name": "4 akkordos sz\u00e1mok",
       "url": "https://open.spotify.com/track/6Phs4DJE9Vb7mMCZnHIH9m"
+    },
+    {
+      "added_at": "2026-09-18 15:19:05",
+      "album": {
+        "name": "Eddig k\u00e9s\u0151n fek\u00fcdtem le",
+        "url": "https://open.spotify.com/album/4UxNUQrYMao52xRB5CbhFE"
+      },
+      "artists": [
+        {
+          "name": "cserihanna",
+          "url": "https://open.spotify.com/artist/7MHRzj7k1gqYcJ2P7V8mwl"
+        }
+      ],
+      "duration_ms": 181121,
+      "name": "A nyaral\u00f3 terasz\u00e1n",
+      "url": "https://open.spotify.com/track/3ZWlG6uEp0wZldavExZVWG"
     },
     {
       "added_at": "2026-09-18 15:19:05",

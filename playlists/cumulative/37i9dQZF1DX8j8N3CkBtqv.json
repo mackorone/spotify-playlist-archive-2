@@ -12054,7 +12054,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 228461,
       "name": "Ishq seekh lo",
       "url": "https://open.spotify.com/track/2pK4TD7tnmBO7c00yoNT94"
@@ -19148,6 +19148,28 @@
       "duration_ms": 231250,
       "name": "Marammatein",
       "url": "https://open.spotify.com/track/5IvcYdbyPCoFocOu5hoZyN"
+    },
+    {
+      "album": {
+        "name": "Margot's Song",
+        "url": "https://open.spotify.com/album/0hbfl3oqslTsvfnNU0It8R"
+      },
+      "artists": [
+        {
+          "name": "Bulli Bainbridge",
+          "url": "https://open.spotify.com/artist/3irO1ys8YPQlLSIihAiuIJ"
+        },
+        {
+          "name": "Ankit Dayal",
+          "url": "https://open.spotify.com/artist/1LYqnlhjJsY9LwtjZ9FG4F"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174688,
+      "name": "Margot's Song",
+      "url": "https://open.spotify.com/track/05xw7nOvQLxC1ROwIlwOO8"
     },
     {
       "album": {

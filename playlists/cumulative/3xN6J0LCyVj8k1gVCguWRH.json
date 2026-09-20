@@ -15988,7 +15988,7 @@
       ],
       "date_added": "2026-08-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 171378,
       "name": "by your side",
       "url": "https://open.spotify.com/track/5q27t4UOADUfqSS7Z03KCB"
@@ -46180,6 +46180,24 @@
       "duration_ms": 230427,
       "name": "Heavy Heart",
       "url": "https://open.spotify.com/track/20KkIFpZP1ca0FdTtiPouR"
+    },
+    {
+      "album": {
+        "name": "Heavy Heart",
+        "url": "https://open.spotify.com/album/4Y1JxXp9GcieT694Vt1oQA"
+      },
+      "artists": [
+        {
+          "name": "Solarrio",
+          "url": "https://open.spotify.com/artist/1GqwMM1E15gniqofxJg1A3"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182490,
+      "name": "Heavy Heart",
+      "url": "https://open.spotify.com/track/0egDrBZyG8uWZSljuTMHOD"
     },
     {
       "album": {
@@ -110559,6 +110577,28 @@
     },
     {
       "album": {
+        "name": "Too Obvious",
+        "url": "https://open.spotify.com/album/6kZOjo05yNng8l0dpSgrr7"
+      },
+      "artists": [
+        {
+          "name": "Malik English",
+          "url": "https://open.spotify.com/artist/3gpBRVLHl7p8aMQ0IWPbjV"
+        },
+        {
+          "name": "SoloWrld",
+          "url": "https://open.spotify.com/artist/0T8Fv2ZQpxL9wMUCNiQ9mh"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132000,
+      "name": "Too Obvious",
+      "url": "https://open.spotify.com/track/6H6UYX9tzbKg6SiPUuHgic"
+    },
+    {
+      "album": {
         "name": "Too Old (For This Shit)",
         "url": "https://open.spotify.com/album/5Xd79YfJVR6rQIhuWHGub8"
       },
@@ -112630,7 +112670,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 230013,
       "name": "Two Oceans",
       "url": "https://open.spotify.com/track/2BL8BdpoDvJsOpAZzctVfP"
@@ -115216,6 +115256,32 @@
       "duration_ms": 171428,
       "name": "Vuddy!",
       "url": "https://open.spotify.com/track/5o5yo0hjla1sjsFJ8Zfaet"
+    },
+    {
+      "album": {
+        "name": "Vud\u00fa",
+        "url": "https://open.spotify.com/album/0J5cD2xPIvPx3Wn8JQRQDJ"
+      },
+      "artists": [
+        {
+          "name": "Ritmo Kingz Beats",
+          "url": "https://open.spotify.com/artist/0vHUsehFohFNcoX6pz6pSd"
+        },
+        {
+          "name": "Fabio",
+          "url": "https://open.spotify.com/artist/5rpP5xNuj3ewPRcmDus0CW"
+        },
+        {
+          "name": "Cardi",
+          "url": "https://open.spotify.com/artist/4cOp7BhxowqCDz3CrIjzbq"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167009,
+      "name": "Vud\u00fa",
+      "url": "https://open.spotify.com/track/5hqecau7EIKETVN9zhZUTh"
     },
     {
       "album": {

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 
 > <a href="spotify:artist:0W8ZVf53GqJkTOPRWQaaBq">CHLOE</a>'s favourite tracks\. Updated regularly\. Curated by CHLOE\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 28,312 likes - 93 songs - 10 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 28,320 likes - 93 songs - 10 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcKtDoRIriX9.md) - [plain]
 | 31 | [Nocturnal Detour](https://open.spotify.com/track/2pRV45NKW4E5F4U2oqDeAH) | [Obergman](https://open.spotify.com/artist/6jE4RO6ChJWFgWQ1MpjowB) | [Nocturnal Detour](https://open.spotify.com/album/76AtpGY7eBlkdct7Dw8O3o) | 4:41 |
 | 32 | [Blufarm](https://open.spotify.com/track/7mJGrVfv6FfAoWLZBSGvEU) | [Swayzak](https://open.spotify.com/artist/4Zd2v5EFS3D9h4CgnEk4qq) | [Route De La Slack \- Remixes and Rarities](https://open.spotify.com/album/5PRXVVOAz8cfanyVO02rQI) | 7:57 |
 | 33 | [La Vita \- HearThuG Remix](https://open.spotify.com/track/0psD3j48ztDMrYoFEwtQEp) | [Deborah Aime La Bagarre](https://open.spotify.com/artist/6jZ18ATjOFUAgDXX3H9x5w), [HearThuG](https://open.spotify.com/artist/6xOK9OmrXWAJhzdO9pRNGN) | [La Vita \(HearThuG Remix\)](https://open.spotify.com/album/3PeI83uZhuDcRjkFR05KF2) | 6:55 |
-| 34 | [Love Is The Dance](https://open.spotify.com/track/1T9Ba7q9aC1LjGzvpVURMl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Is The Dance](https://open.spotify.com/album/6eQYhX0jCvUqez4COgvcmv) | 4:12 |
+| 34 | [Love Is The Dance](https://open.spotify.com/track/1T9Ba7q9aC1LjGzvpVURMl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Is The Dance EP](https://open.spotify.com/album/6eQYhX0jCvUqez4COgvcmv) | 4:14 |
 | 35 | [Everlasting \- Dorisburg Remix](https://open.spotify.com/track/4OKxbmq1GUqeogbPvG52Qo) | [Joel Alter](https://open.spotify.com/artist/0Mcdho0PB8UHaoC1f2lg5b), [Dorisburg](https://open.spotify.com/artist/0OZ1LUrTGxwx0dr71DL7D6) | [Heart \(Remixes\)](https://open.spotify.com/album/5zRYEBvt88XErrpsjC6XX8) | 8:36 |
 | 36 | [We Got Dis](https://open.spotify.com/track/4pyx3dno8GM47dH5tz6pxm) | [Steve O'Sullivan](https://open.spotify.com/artist/0386dG6ipOXlX8ZJD3jMoE) | [Tribal Dubs](https://open.spotify.com/album/2i2d06LJXJ4YgUtVzOzWxT) | 6:44 |
 | 37 | [Orbit 1.4](https://open.spotify.com/track/22c2EhVuPGsLLf76MFelTa) | [Second\-Hand Satellites](https://open.spotify.com/artist/4cnOFgQ9xWLUBpwuNJ1H0w) | [15 Years Fuse](https://open.spotify.com/album/6Ik2NGMSRgVqRG0mFClYpD) | 10:32 |

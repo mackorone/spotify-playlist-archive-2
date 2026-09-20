@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Vamos a bailar con Dios!",
-  "num_followers": 162979,
+  "num_followers": 163035,
   "original_name": "Fiesta Cristiana",
   "owner": {
     "name": "Spotify",
@@ -535,8 +535,8 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "ANTES ERA NADA",
-        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
+        "name": "If You Let Go",
+        "url": "https://open.spotify.com/album/25uX1A4hZ3VZO7dFZUSTpN"
       },
       "artists": [
         {
@@ -544,9 +544,9 @@
           "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
         }
       ],
-      "duration_ms": 154421,
-      "name": "ANTES ERA NADA",
-      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
+      "duration_ms": 156101,
+      "name": "If You Let Go",
+      "url": "https://open.spotify.com/track/6ZG5oKmJewOSOyzrjljTkp"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -607,42 +607,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Bailo Contigo",
-        "url": "https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc"
-      },
-      "artists": [
-        {
-          "name": "Tommy Royale",
-          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
-        },
-        {
-          "name": "Nate Diaz",
-          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
-        }
-      ],
-      "duration_ms": 183389,
-      "name": "Bailo Contigo",
-      "url": "https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "If You Let Go",
-        "url": "https://open.spotify.com/album/25uX1A4hZ3VZO7dFZUSTpN"
-      },
-      "artists": [
-        {
-          "name": "J Arias",
-          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
-        }
-      ],
-      "duration_ms": 156101,
-      "name": "If You Let Go",
-      "url": "https://open.spotify.com/track/6ZG5oKmJewOSOyzrjljTkp"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Celebrar",
         "url": "https://open.spotify.com/album/0laIA6M9k7xz66MxZ5Ljok"
       },
@@ -659,6 +623,42 @@
       "duration_ms": 167176,
       "name": "Celebrar",
       "url": "https://open.spotify.com/track/3oe7RCqP1buAu9JSlX6pD3"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "ANTES ERA NADA",
+        "url": "https://open.spotify.com/album/4iNATMJ7N8yfMlktO9EyxR"
+      },
+      "artists": [
+        {
+          "name": "J Arias",
+          "url": "https://open.spotify.com/artist/12KoDb9Ns560M5AAm6gsym"
+        }
+      ],
+      "duration_ms": 154421,
+      "name": "ANTES ERA NADA",
+      "url": "https://open.spotify.com/track/5pd02zKnN4OU7SnBxiMdgg"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Bailo Contigo",
+        "url": "https://open.spotify.com/album/09cobmNlgg3ZqGmoglSOmc"
+      },
+      "artists": [
+        {
+          "name": "Tommy Royale",
+          "url": "https://open.spotify.com/artist/0gqbW7Uf6BAWiAh5C6jlPs"
+        },
+        {
+          "name": "Nate Diaz",
+          "url": "https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN"
+        }
+      ],
+      "duration_ms": 183389,
+      "name": "Bailo Contigo",
+      "url": "https://open.spotify.com/track/5SUvATXiZk63SMSVCOaYrr"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Para Mi Familia",
+        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
+      },
+      "artists": [
+        {
+          "name": "Andrez Babii",
+          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
+        }
+      ],
+      "duration_ms": 235132,
+      "name": "Para Mi Familia",
+      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Corazon Cerrado",
         "url": "https://open.spotify.com/album/0DQYk5RtJCS1McNRrELY9j"
       },
@@ -743,22 +759,6 @@
       "duration_ms": 188624,
       "name": "Buenas Vibras",
       "url": "https://open.spotify.com/track/72ApGW2XVzlMsL5uXnZeS7"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Para Mi Familia",
-        "url": "https://open.spotify.com/album/2XB5BdIK6HyN5KQRVzwFo1"
-      },
-      "artists": [
-        {
-          "name": "Andrez Babii",
-          "url": "https://open.spotify.com/artist/4DROs1Ye9DiLY3X8L7xvl8"
-        }
-      ],
-      "duration_ms": 235132,
-      "name": "Para Mi Familia",
-      "url": "https://open.spotify.com/track/1qNE7QsxoOwLHKGfHYb8NG"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -999,22 +999,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Tranquilo",
-        "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
-      },
-      "artists": [
-        {
-          "name": "Pedro Morales",
-          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
-        }
-      ],
-      "duration_ms": 186250,
-      "name": "Tranquilo",
-      "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Hombre Nuevo",
         "url": "https://open.spotify.com/album/5fwaqRiuPuWy20W0H8L33G"
       },
@@ -1027,6 +1011,22 @@
       "duration_ms": 178285,
       "name": "Hombre Nuevo",
       "url": "https://open.spotify.com/track/72WPumC5PUtjxDqei587sW"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Tranquilo",
+        "url": "https://open.spotify.com/album/6ceNphEmhj7Imdm8hZegQl"
+      },
+      "artists": [
+        {
+          "name": "Pedro Morales",
+          "url": "https://open.spotify.com/artist/1w8DsbCxxVTd2ostVSHtIR"
+        }
+      ],
+      "duration_ms": 186250,
+      "name": "Tranquilo",
+      "url": "https://open.spotify.com/track/2w1i9baYFSvziTzKAEkTfZ"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1091,6 +1091,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Por \u00c9l",
+        "url": "https://open.spotify.com/album/3DsRMA1y064FYY6NiiPZx5"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        }
+      ],
+      "duration_ms": 160000,
+      "name": "Por \u00c9l",
+      "url": "https://open.spotify.com/track/4byLjSJHwOMjFr6Lv0ZhxA"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "La Depre",
         "url": "https://open.spotify.com/album/0ZY6LS8NRRommQZvMq4gev"
       },
@@ -1103,26 +1119,6 @@
       "duration_ms": 179076,
       "name": "La Depre",
       "url": "https://open.spotify.com/track/686tnScEjw4L8ZP8O0v0sm"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Cubana",
-        "url": "https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        },
-        {
-          "name": "Natan El Profeta",
-          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
-        }
-      ],
-      "duration_ms": 186750,
-      "name": "Cubana",
-      "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1179,6 +1175,26 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Cubana",
+        "url": "https://open.spotify.com/album/5605UFRgEq28zlWSa5Q0K5"
+      },
+      "artists": [
+        {
+          "name": "Jairon High",
+          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
+        },
+        {
+          "name": "Natan El Profeta",
+          "url": "https://open.spotify.com/artist/5UGUivMfBVd8JcBfjnniBf"
+        }
+      ],
+      "duration_ms": 186750,
+      "name": "Cubana",
+      "url": "https://open.spotify.com/track/6LcXSW7D6XH5BzBFeCM9OX"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Oro",
         "url": "https://open.spotify.com/album/3Dvdnm4MB1ZvZwEtRAjpSc"
       },
@@ -1195,22 +1211,6 @@
       "duration_ms": 202500,
       "name": "Oro",
       "url": "https://open.spotify.com/track/0WjfH61yW1TBoFgughJXvX"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Por \u00c9l",
-        "url": "https://open.spotify.com/album/3DsRMA1y064FYY6NiiPZx5"
-      },
-      "artists": [
-        {
-          "name": "Jairon High",
-          "url": "https://open.spotify.com/artist/7uvf9bsJVUHUyiSK0aU42M"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Por \u00c9l",
-      "url": "https://open.spotify.com/track/4byLjSJHwOMjFr6Lv0ZhxA"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1399,6 +1399,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Vers\u00e1til, Vol. 2",
+        "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
+      },
+      "artists": [
+        {
+          "name": "Creyente.7",
+          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
+        }
+      ],
+      "duration_ms": 139500,
+      "name": "Me Voy Con \u00c9l",
+      "url": "https://open.spotify.com/track/4OK40y0JfRG2WLOSvnNX7D"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "EASY (REMIX)",
         "url": "https://open.spotify.com/album/3sw0yFMKkzOiNtT8vpdeQI"
       },
@@ -1423,22 +1439,6 @@
       "duration_ms": 169494,
       "name": "EASY - REMIX",
       "url": "https://open.spotify.com/track/2X3oy7KFbJcaMPl2pT8j9t"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Vers\u00e1til, Vol. 2",
-        "url": "https://open.spotify.com/album/4bw9eGTsSxRwgvDlKsuPbT"
-      },
-      "artists": [
-        {
-          "name": "Creyente.7",
-          "url": "https://open.spotify.com/artist/5MaYKizuZvefKKYa85knBs"
-        }
-      ],
-      "duration_ms": 139500,
-      "name": "Me Voy Con \u00c9l",
-      "url": "https://open.spotify.com/track/4OK40y0JfRG2WLOSvnNX7D"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1747,22 +1747,6 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
-        "name": "Momento",
-        "url": "https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI"
-      },
-      "artists": [
-        {
-          "name": "CRYS",
-          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
-        }
-      ],
-      "duration_ms": 172777,
-      "name": "Momento",
-      "url": "https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
         "name": "Siempre y Nunca",
         "url": "https://open.spotify.com/album/41B7tYKzJYMA04iKKjvN11"
       },
@@ -1779,6 +1763,22 @@
       "duration_ms": 153786,
       "name": "Siempre y Nunca",
       "url": "https://open.spotify.com/track/3Sr8kGXgZWL2XOSE3AI2aG"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
+        "name": "Momento",
+        "url": "https://open.spotify.com/album/0MXnMmef03DLsJBJV160cI"
+      },
+      "artists": [
+        {
+          "name": "CRYS",
+          "url": "https://open.spotify.com/artist/7uZO1ri6Y9Wlv7cDoOOUDI"
+        }
+      ],
+      "duration_ms": 172777,
+      "name": "Momento",
+      "url": "https://open.spotify.com/track/5l8nNc03RhTbSHSrAKwoX3"
     },
     {
       "added_at": "2026-08-01 02:46:09",
@@ -1819,6 +1819,22 @@
     {
       "added_at": "2026-08-01 02:46:09",
       "album": {
+        "name": "Todo Te Lo Debo a T\u00ed",
+        "url": "https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6"
+      },
+      "artists": [
+        {
+          "name": "Benji Rosales",
+          "url": "https://open.spotify.com/artist/7lPKCFrwz7pGGHFturn8b7"
+        }
+      ],
+      "duration_ms": 169624,
+      "name": "Todo Te Lo Debo a T\u00ed",
+      "url": "https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa"
+    },
+    {
+      "added_at": "2026-08-01 02:46:09",
+      "album": {
         "name": "Estar\u00e9",
         "url": "https://open.spotify.com/album/0kiw6GLteyZ6UG6Xfv7z6A"
       },
@@ -1835,22 +1851,6 @@
       "duration_ms": 172800,
       "name": "Estar\u00e9",
       "url": "https://open.spotify.com/track/6kW2XC8ScmC9FRdtfXyEZb"
-    },
-    {
-      "added_at": "2026-08-01 02:46:09",
-      "album": {
-        "name": "Todo Te Lo Debo a T\u00ed",
-        "url": "https://open.spotify.com/album/7EDpwwypsWlh2bxP64SOq6"
-      },
-      "artists": [
-        {
-          "name": "Benji Rosales",
-          "url": "https://open.spotify.com/artist/7lPKCFrwz7pGGHFturn8b7"
-        }
-      ],
-      "duration_ms": 169624,
-      "name": "Todo Te Lo Debo a T\u00ed",
-      "url": "https://open.spotify.com/track/3efRYKgebXZjbuVGJHuiAa"
     }
   ],
   "unique_name": "Fiesta Cristiana",

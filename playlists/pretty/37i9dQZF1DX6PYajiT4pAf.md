@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 
 > Maluma con Shakira, Feid, Rels B, Miley Cyrus y más novedades de la semana.
 
-[Spotify](https://open.spotify.com/user/spotify) - 414,374 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 414,411 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6PYajiT4pAf.md) - [plain]
 | 23 | [quémalo](https://open.spotify.com/track/190fhODebqheJJCtnILbHL) | [Carmen Ferre](https://open.spotify.com/artist/0YQ5lCNqrjymrsqmSn62YV), [Bombai](https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ) | [todo saldrá bien](https://open.spotify.com/album/5hlUNgUgQZd0TPH1KIjX5f) | 2:59 |
 | 24 | [KOMOREBI](https://open.spotify.com/track/6bOPtMD6vNNO9HRZemwQiK) | [J Abecia](https://open.spotify.com/artist/2EaASUee9MEeEnMXGwnSOC) | [KOMOREBI](https://open.spotify.com/album/4ttJFCVnl0kMyC2iVtBgjW) | 2:10 |
 | 25 | [La Macchina](https://open.spotify.com/track/1wdl4jGU57pVxfCYYS61xn) | [Al Safir](https://open.spotify.com/artist/5NzCASNJVvcPW4uGwMRlPl), [Israel B](https://open.spotify.com/artist/16M8fuShcwX8uBDdmFZH9B), [DistrictBeats](https://open.spotify.com/artist/5ozh1mENQbB4whMtYBhKFe) | [La Macchina](https://open.spotify.com/album/5cVm5L68GIHCb8tv3OG5Sv) | 2:53 |
-| 26 | [TE AÑORO](https://open.spotify.com/track/3NA5fbE64m88qT4sewNKZF) | [Cecilio G.](https://open.spotify.com/artist/2Q2fYVYxFSmodq53BFyD6p), [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi) | [GHETTO APOSTOL II](https://open.spotify.com/album/3vWL0y5KJj2uhHg8ohYKUZ) | 2:51 |
+| 26 | [TE AÑORO](https://open.spotify.com/track/3NA5fbE64m88qT4sewNKZF) | [Cecilio G.](https://open.spotify.com/artist/2Q2fYVYxFSmodq53BFyD6p), [Rojuu](https://open.spotify.com/artist/04mTej6RpWzBxGwhfThpIi), [JOHNNYFUU](https://open.spotify.com/artist/4qvOXukEJTWZG6jjlUQFEu), [Dalsy](https://open.spotify.com/artist/3sHxzJm8inywT7UDA41zxP) | [GHETTO APOSTOL II](https://open.spotify.com/album/3vWL0y5KJj2uhHg8ohYKUZ) | 2:51 |
 | 27 | [ENAMORAO DE UNA SICARIA](https://open.spotify.com/track/4k012B6UILHL6gm2EqSTu7) | [Raul Clyde](https://open.spotify.com/artist/2PAyYzUdafG4mFFp6Rynsk) | [ENAMORAO DE UNA SICARIA](https://open.spotify.com/album/3Ncm7dO1yiziwMiIy2NOkd) | 2:38 |
 | 28 | [OJOS DE GATA](https://open.spotify.com/track/0hmTWSs7vMfx89WUXz7fYm) | [Enol](https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O), [Toni Méndez](https://open.spotify.com/artist/7LMhzgN8b4DL5rakmDjm5G) | [OJOS DE GATA](https://open.spotify.com/album/5F2dt2c2b8nc1DmJf2H3e0) | 2:33 |
 | 29 | [RULAYYY](https://open.spotify.com/track/2IINtc0OAUxrAWkkITZGN8) | [David Marley](https://open.spotify.com/artist/09ryxLeU3mzmubZtcyDGdA) | [RULAYYY](https://open.spotify.com/album/1s6lf6Vxll4VsMPyts0B8f) | 2:25 |

@@ -4,7 +4,7 @@
 
 > This is Zolita\. The essential tracks, all in one playlist.
 
-49 songs - 2 hr 26 min
+50 songs - 2 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,8 +13,9 @@
 | [All Over Again](https://open.spotify.com/track/78kaWaza97WrIqCGDs0bYF) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 2:49 | 2026-03-20 |  |
 | [Ashley](https://open.spotify.com/track/5iMUQTIxTGgbVItGIPAWbL) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Ashley](https://open.spotify.com/album/1yPpGluI3skIgOBVxJtXPA) | 2:48 | 2026-03-20 |  |
 | [Bedspell](https://open.spotify.com/track/0486NoRItdcZ1k42ErhWHG) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel](https://open.spotify.com/album/6I71YS1YRE68mrNEM2Z7lO) | 2:49 | 2026-03-20 |  |
-| [Belle's HELL \(Interlude\)](https://open.spotify.com/track/1art06Q1EWEro00cyuaSTg) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 0:56 | 2026-08-30 |  |
-| [Best Ex of Your Life](https://open.spotify.com/track/2RhLKRJJq29Tvecbk63X4K) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Best Ex of Your Life](https://open.spotify.com/album/7HRxfQtn1QyngtjAyFeUzi) | 2:22 | 2026-07-11 |  |
+| [Belle's HELL \(Interlude\)](https://open.spotify.com/track/1art06Q1EWEro00cyuaSTg) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 0:56 | 2026-08-30 | 2026-09-20 |
+| [Best Ex of Your Life](https://open.spotify.com/track/2RhLKRJJq29Tvecbk63X4K) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Best Ex of Your Life](https://open.spotify.com/album/7HRxfQtn1QyngtjAyFeUzi) | 2:22 | 2026-07-11 | 2026-09-20 |
+| [Best Ex of Your Life](https://open.spotify.com/track/4EMm5GKwiqAL09AD67I44C) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/62W8uslGsNVWJzU3c1N8jR) | 2:22 | 2026-09-20 |  |
 | [Black Magic](https://open.spotify.com/track/730cOyBWglmh94hEvmLoJE) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Evil Angel \(Deluxe Edition\)](https://open.spotify.com/album/0n2eTEITSu0EwdkpjtNFBr) | 3:12 | 2026-03-20 |  |
 | [Bloodstream](https://open.spotify.com/track/0oPCvCDccyPM8kXHR2Wnn8) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Queen of Hearts](https://open.spotify.com/album/5uAQzG8eTpqgOLqXqiGoIk) | 3:31 | 2026-03-20 |  |
 | [Bye Bye Baby](https://open.spotify.com/track/4KQishDlTPsAJtih2MeETB) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Bye Bye Baby](https://open.spotify.com/album/7johZg5HaYBD0zl3b6fDMk) | 2:59 | 2026-03-20 |  |

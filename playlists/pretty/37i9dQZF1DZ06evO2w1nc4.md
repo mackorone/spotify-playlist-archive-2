@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 
 > This is Pierce The Veil\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 147,762 likes - 37 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 147,796 likes - 37 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,16 +34,16 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2w1nc4.md) - [plain]
 | 24 | [The Divine Zero](https://open.spotify.com/track/7trZFY6J0ZfnZYUg3NIHot) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Misadventures](https://open.spotify.com/album/4wIX07SiESzMbSLCK3qCWQ) | 4:08 |
 | 25 | [The New National Anthem](https://open.spotify.com/track/0LRrtw1MFASb7tgyHqVXnh) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 3:59 |
 | 26 | [Besitos](https://open.spotify.com/track/163ZkKtGjrCU3GquoCqiZZ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines \(Reissue\)](https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU) | 4:24 |
-| 27 | [Even When I’m Not With You](https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 2:54 |
-| 28 | [Chemical Kids and Mechanical Brides](https://open.spotify.com/track/2k3fs1S5gYqwzN8G2QDXiJ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 3:40 |
+| 27 | [Chemical Kids and Mechanical Brides](https://open.spotify.com/track/2k3fs1S5gYqwzN8G2QDXiJ) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 3:40 |
+| 28 | [Even When I’m Not With You](https://open.spotify.com/track/6yJmxPGazR55GAQdyHPf6q) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life](https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ) | 2:54 |
 | 29 | [Southern Constellations](https://open.spotify.com/track/1ebh1wrBHO5JIRS4i95vR0) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 1:04 |
 | 30 | [Kissing in Cars \(Bonus Track\)](https://open.spotify.com/track/21n769QrJtrmN0pXuBkYOm) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines \(Reissue\)](https://open.spotify.com/album/6F05ZwnERzhfJ7KNVq6fsU) | 4:17 |
-| 31 | [Kiss Me Now](https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life \(Deluxe\)](https://open.spotify.com/album/3pXReKEtUVjzaXLY6nissS) | 4:16 |
-| 32 | [Wonderless](https://open.spotify.com/track/4QCczE24wLpDmPJ3qwwEvC) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 5:41 |
+| 31 | [Wonderless](https://open.spotify.com/track/4QCczE24wLpDmPJ3qwwEvC) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 5:41 |
+| 32 | [Kiss Me Now](https://open.spotify.com/track/6yT9iNKt8fQoYpQkbWc7YR) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [The Jaws Of Life \(Deluxe\)](https://open.spotify.com/album/3pXReKEtUVjzaXLY6nissS) | 4:16 |
 | 33 | [The Boy Who Could Fly](https://open.spotify.com/track/635K4hTo5J8d7q8qhfcTMH) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Selfish Machines](https://open.spotify.com/album/01dcOm8Whefyve6zChrq9Q) | 5:07 |
 | 34 | [Karma Police](https://open.spotify.com/track/2GBeNjgz5HSvBkE7dRryxk) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [Karma Police](https://open.spotify.com/album/0lsE84fafmngJgIwvVcr8S) | 4:28 |
-| 35 | [a kind thing to do \(feat\. Vic Fuentes\)](https://open.spotify.com/track/4NlRBHQFKKgTJiDWG02fIV) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Vic Fuentes](https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 4:07 |
-| 36 | [Drella](https://open.spotify.com/track/2tr3bmoQBQrLHUYxsg8LpF) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 2:56 |
+| 35 | [Drella](https://open.spotify.com/track/2tr3bmoQBQrLHUYxsg8LpF) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 2:56 |
+| 36 | [a kind thing to do \(feat\. Vic Fuentes\)](https://open.spotify.com/track/4NlRBHQFKKgTJiDWG02fIV) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv), [Vic Fuentes](https://open.spotify.com/artist/1cIpVfuKuPdekPuNqj3icx) | [worm food](https://open.spotify.com/album/6esicDmiVKUGrff14ahfrK) | 4:07 |
 | 37 | [Currents Convulsive](https://open.spotify.com/track/55z9JKoPKREhOv1bppouag) | [Pierce The Veil](https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv) | [A Flair For The Dramatic](https://open.spotify.com/album/6LkthUHeWKSJsXhjs7SXFq) | 3:35 |
 
-Snapshot ID: `aqstgAAAAACSL1l0dVqrv5GnhjinpkGO`
+Snapshot ID: `aqx/AAAAAAAFVHDuEkZNX8QNe45OSSn9`

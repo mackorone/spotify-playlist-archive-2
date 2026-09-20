@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Lupita Infante & Chiquis 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,457 likes - 64 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,440 likes - 64 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,7 +55,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 45 | [Dolce](https://open.spotify.com/track/67chrkLbeQZI1rsKrt9AcO) | [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [REYES](https://open.spotify.com/album/66Ozkyc7zMI0EsbYaPC3i8) | 3:04 |
 | 46 | [Al Revés](https://open.spotify.com/track/5nDwxEmqGQRNcIlOw343Ad) | [Pepe Walker](https://open.spotify.com/artist/77R9hp0RJqY3frwTqmQLGZ) | [Al Revés](https://open.spotify.com/album/0zyHusfuKqERuKNvarKN8d) | 3:02 |
 | 47 | [Te Vas Ángel Mío](https://open.spotify.com/track/7KmcTQKVWveNrmkl1w5lAF) | [Cornelio Reyna](https://open.spotify.com/artist/2hbA9AbMYcgXBGgBK6MCfx) | [Iconos Eternos: Cornelio Reyna](https://open.spotify.com/album/3i9F9Y0WoNxiIP4bZC04qI) | 3:30 |
-| 48 | [VIVIR ASI ES MORIR DE AMOR](https://open.spotify.com/track/6YVYCHxh8ci6cttKev6bkw) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [DESDE EL WESTERN CLUB VOLUMEN 4](https://open.spotify.com/album/7MAgdNwz54nmwx76Yn4k6X) | 3:20 |
+| 48 | [VIVIR ASI ES MORIR DE AMOR](https://open.spotify.com/track/6YVYCHxh8ci6cttKev6bkw) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [DESDE EL PATIO WESTERN CLUB VOLUMEN 4](https://open.spotify.com/album/7MAgdNwz54nmwx76Yn4k6X) | 3:20 |
 | 49 | [FLOW ROCKSTAR](https://open.spotify.com/track/03iYAVW5ACzBlLp7TcuIdi) | [Grupo Privado](https://open.spotify.com/artist/4KlSPzyPWa9JKOBsaOMKaA) | [FLOW ROCKSTAR](https://open.spotify.com/album/5yhV4kzTrPhJV4qV2UbOzr) | 2:56 |
 | 50 | [Ay Niña](https://open.spotify.com/track/2jhHSs65tzKfvTqlYmvOKv) | [Los Ejemplares del Rancho](https://open.spotify.com/artist/6kimDIidGkVRPLCAxNVBgY) | [Ay Niña](https://open.spotify.com/album/6yUegE3x0mtMp6xsWbQ9G7) | 2:11 |
 | 51 | [Como la ves](https://open.spotify.com/track/53UcQ1Cjnl6faJdYw035ur) | [Hermanos Vega Jr.](https://open.spotify.com/artist/5AI8Ps93kygPilymCY7Tnm) | [Como la ves](https://open.spotify.com/album/4P31VtkKFRZF1YKgsyd91X) | 2:29 |

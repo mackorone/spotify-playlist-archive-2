@@ -95,6 +95,24 @@
     },
     {
       "album": {
+        "name": "A Kind of Magic (Acoustic)",
+        "url": "https://open.spotify.com/album/1GZVYTu9TmdOYU1V8NEtR8"
+      },
+      "artists": [
+        {
+          "name": "Paul Canning",
+          "url": "https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199492,
+      "name": "A Kind of Magic - Acoustic",
+      "url": "https://open.spotify.com/track/1z1XJNl0Ews2aiZlph0GJW"
+    },
+    {
+      "album": {
         "name": "he said. she said.",
         "url": "https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2"
       },
@@ -6128,7 +6146,7 @@
       ],
       "date_added": "2025-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 193281,
       "name": "You Really Got a Hold on Me",
       "url": "https://open.spotify.com/track/121hZEf0kYraVEb1WceNPQ"

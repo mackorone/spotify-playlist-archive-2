@@ -582,6 +582,24 @@
     {
       "album": {
         "name": "Getting By",
+        "url": "https://open.spotify.com/album/3v9Y5lRmYMpJLKToq23mvv"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182293,
+      "name": "Brown Eyed Baby",
+      "url": "https://open.spotify.com/track/6wS0kjRGuS9BIByT120HkX"
+    },
+    {
+      "album": {
+        "name": "Getting By",
         "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
       },
       "artists": [
@@ -592,7 +610,7 @@
       ],
       "date_added": "2025-06-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 182293,
       "name": "Brown Eyed Baby",
       "url": "https://open.spotify.com/track/7Chkty42FCJeWi4fOKmdmJ"
@@ -2286,7 +2304,7 @@
       ],
       "date_added": "2024-07-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 177181,
       "name": "i drive me mad",
       "url": "https://open.spotify.com/track/74tswKcYGnbqDd9zbPHAgW"
@@ -4594,6 +4612,24 @@
     {
       "album": {
         "name": "What They Say",
+        "url": "https://open.spotify.com/album/5olRXJqVLH3SmjI1AKbHWm"
+      },
+      "artists": [
+        {
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176329,
+      "name": "What They Say",
+      "url": "https://open.spotify.com/track/4gPlr2quUlXXyJb9IBxRkl"
+    },
+    {
+      "album": {
+        "name": "What They Say",
         "url": "https://open.spotify.com/album/6ODwSrvPYR3Y9sSFSzL3t8"
       },
       "artists": [
@@ -4604,7 +4640,7 @@
       ],
       "date_added": "2024-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 176329,
       "name": "What They Say",
       "url": "https://open.spotify.com/track/7aWfmi3wJocJJAvyEkG60Y"

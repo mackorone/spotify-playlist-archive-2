@@ -3029,6 +3029,24 @@
     },
     {
       "album": {
+        "name": "Mana Ko\u015ba / Warmth of Consciousness",
+        "url": "https://open.spotify.com/album/67ICVsuCVaBiWAJllm9wKC"
+      },
+      "artists": [
+        {
+          "name": "RE:LX",
+          "url": "https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191603,
+      "name": "Mana Ko\u015ba / Warmth of Consciousness",
+      "url": "https://open.spotify.com/track/2Nz51JAYGiRDCZAFwzFsHG"
+    },
+    {
+      "album": {
         "name": "Mare Silentis",
         "url": "https://open.spotify.com/album/0wYHh3hPJgZEMnTik87vAR"
       },
@@ -3263,6 +3281,24 @@
     },
     {
       "album": {
+        "name": "Mossfjord",
+        "url": "https://open.spotify.com/album/17uT4BOGbuqwLoxk2sa7wK"
+      },
+      "artists": [
+        {
+          "name": "Willow Woodgrove",
+          "url": "https://open.spotify.com/artist/5r4df4m56U0QWtdYNJiVCP"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 166585,
+      "name": "Mossfjord",
+      "url": "https://open.spotify.com/track/7kHB8ysT1yvcReTuXDwUB9"
+    },
+    {
+      "album": {
         "name": "mOther World",
         "url": "https://open.spotify.com/album/321AxcKuWjreiEDNC1P1un"
       },
@@ -3364,7 +3400,7 @@
       ],
       "date_added": "2022-10-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 159892,
       "name": "Nature of Life",
       "url": "https://open.spotify.com/track/4EaHb0wumMJODjK2vsoqTI"
@@ -3552,7 +3588,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 190666,
       "name": "Oh so Quiet",
       "url": "https://open.spotify.com/track/4VRWsEwCyHInmiS7AV0hn9"

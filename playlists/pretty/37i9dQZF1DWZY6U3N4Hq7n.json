@@ -1,6 +1,6 @@
 {
   "description": "Grab your leg warmers and spandex: let's get physical!",
-  "num_followers": 543787,
+  "num_followers": 543840,
   "original_name": "80s Workout",
   "owner": {
     "name": "Spotify",
@@ -663,22 +663,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Don't Be Cruel",
-        "url": "https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK"
-      },
-      "artists": [
-        {
-          "name": "Bobby Brown",
-          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
-        }
-      ],
-      "duration_ms": 291560,
-      "name": "My Prerogative",
-      "url": "https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Loc-ed After Dark",
         "url": "https://open.spotify.com/album/6xE6A0Vwd2LmopR6Mn8UFG"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 263573,
       "name": "Wild Thing",
       "url": "https://open.spotify.com/track/0gljI0CtjpdZK6ecidfxto"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Don't Be Cruel",
+        "url": "https://open.spotify.com/album/44w4sVYJVQzhH2dN3IwyIK"
+      },
+      "artists": [
+        {
+          "name": "Bobby Brown",
+          "url": "https://open.spotify.com/artist/62sPt3fswraiEPnKQpAbdE"
+        }
+      ],
+      "duration_ms": 291560,
+      "name": "My Prerogative",
+      "url": "https://open.spotify.com/track/0v9kGNjkKdQUdDoBIuiph4"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -875,22 +875,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Beauty And The Beat",
-        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
-      },
-      "artists": [
-        {
-          "name": "The Go-Go's",
-          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
-        }
-      ],
-      "duration_ms": 167960,
-      "name": "Our Lips Are Sealed - Single Version",
-      "url": "https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Strawberry Letter 23: The Very Best Of The Brothers Johnson",
         "url": "https://open.spotify.com/album/4DUmxqvkQn3UJgDLjlYsyX"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 247133,
       "name": "Stomp! - Single Version",
       "url": "https://open.spotify.com/track/3EG65y2LtxWjfydabHdItb"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Beauty And The Beat",
+        "url": "https://open.spotify.com/album/1L4HE00En7eNK74voVZums"
+      },
+      "artists": [
+        {
+          "name": "The Go-Go's",
+          "url": "https://open.spotify.com/artist/2mG8HHQ9S9kcbjcrb5N1FE"
+        }
+      ],
+      "duration_ms": 167960,
+      "name": "Our Lips Are Sealed - Single Version",
+      "url": "https://open.spotify.com/track/1GVnAD8Iz45rux6EC657Yv"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1099,22 +1099,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Michael Jackson's This Is It",
-        "url": "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm"
-      },
-      "artists": [
-        {
-          "name": "Michael Jackson",
-          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
-        }
-      ],
-      "duration_ms": 357493,
-      "name": "Thriller",
-      "url": "https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Children Of Tomorrow",
         "url": "https://open.spotify.com/album/5jEBGG3MJ5gaEteo9EaqiI"
       },
@@ -1131,6 +1115,22 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
+        "name": "Michael Jackson's This Is It",
+        "url": "https://open.spotify.com/album/7pMVCMwGykuEu9rzTHxLCm"
+      },
+      "artists": [
+        {
+          "name": "Michael Jackson",
+          "url": "https://open.spotify.com/artist/3fMbdgg4jU18AjLCKBhRSm"
+        }
+      ],
+      "duration_ms": 357493,
+      "name": "Thriller",
+      "url": "https://open.spotify.com/track/1D9KEXIrlmPUkMTdYzqgX4"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
         "name": "Obsession: The Best Of Animotion",
         "url": "https://open.spotify.com/album/5BG5Z2wbth8YRlOtlrlAFC"
       },
@@ -1143,22 +1143,6 @@
       "duration_ms": 337266,
       "name": "Obsession",
       "url": "https://open.spotify.com/track/3N7GqZMpZJW69Te1bfUTc3"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
-        "name": "Rhythm of Youth",
-        "url": "https://open.spotify.com/album/3kpkQJB2e5R1Ktr8lTs8yf"
-      },
-      "artists": [
-        {
-          "name": "Men Without Hats",
-          "url": "https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq"
-        }
-      ],
-      "duration_ms": 277480,
-      "name": "The Safety Dance",
-      "url": "https://open.spotify.com/track/5ZpDiWqCG93McsnuHu9uCR"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1183,18 +1167,18 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Control",
-        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+        "name": "Rhythm of Youth",
+        "url": "https://open.spotify.com/album/3kpkQJB2e5R1Ktr8lTs8yf"
       },
       "artists": [
         {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+          "name": "Men Without Hats",
+          "url": "https://open.spotify.com/artist/34PLzyi7CdXUekiLHYyqXq"
         }
       ],
-      "duration_ms": 243133,
-      "name": "Nasty",
-      "url": "https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y"
+      "duration_ms": 277480,
+      "name": "The Safety Dance",
+      "url": "https://open.spotify.com/track/5ZpDiWqCG93McsnuHu9uCR"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1211,6 +1195,22 @@
       "duration_ms": 220226,
       "name": "Tell It to My Heart",
       "url": "https://open.spotify.com/track/6jJCk7oHNwyowOUaF3gXEu"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Control",
+        "url": "https://open.spotify.com/album/7GWkceE5McMVfffd1RGL6Y"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 243133,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/07OzC5JlcaDwEkzWmvqp6y"
     },
     {
       "added_at": "2024-03-19 14:45:18",
@@ -1263,22 +1263,6 @@
     {
       "added_at": "2024-03-19 14:45:18",
       "album": {
-        "name": "Rhythm Nation 1814",
-        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
-      },
-      "artists": [
-        {
-          "name": "Janet Jackson",
-          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
-        }
-      ],
-      "duration_ms": 330933,
-      "name": "Rhythm Nation",
-      "url": "https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie"
-    },
-    {
-      "added_at": "2024-03-19 14:45:18",
-      "album": {
         "name": "Out Of The Blue",
         "url": "https://open.spotify.com/album/2I2QfpWLoBCOSG8Qa7xD8b"
       },
@@ -1291,6 +1275,22 @@
       "duration_ms": 233400,
       "name": "Only in My Dreams",
       "url": "https://open.spotify.com/track/03i9ehMBCqbxKw7wwEycFZ"
+    },
+    {
+      "added_at": "2024-03-19 14:45:18",
+      "album": {
+        "name": "Rhythm Nation 1814",
+        "url": "https://open.spotify.com/album/4OD3LU6001esAtFshDX46M"
+      },
+      "artists": [
+        {
+          "name": "Janet Jackson",
+          "url": "https://open.spotify.com/artist/4qwGe91Bz9K2T8jXTZ815W"
+        }
+      ],
+      "duration_ms": 330933,
+      "name": "Rhythm Nation",
+      "url": "https://open.spotify.com/track/4nTYxxF8iWBq54LO3dBUie"
     },
     {
       "added_at": "2024-03-19 14:45:18",

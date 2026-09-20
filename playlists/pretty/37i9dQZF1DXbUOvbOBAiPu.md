@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Miley Cyrus, GIMS, TeddyBear, Djadja & Dinaz, HUGEL x Neton Vega, Maluma x Shakira and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,821 likes - 123 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,838 likes - 123 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -107,7 +107,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 | 97 | [Two Things Can Be True](https://open.spotify.com/track/6heFQ3lxjSyJ7YdQJ4Uz9O) | [Miranda Lambert](https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0) | [Two Things Can Be True](https://open.spotify.com/album/1jLuYCpBpqQDEj3eNs6EN5) | 3:18 |
 | 98 | [Forever](https://open.spotify.com/track/1DAJbUvtSmmLfAXzQvE9PT) | [Montell Fish](https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2), [Vancouver Sleep Clinic](https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB) | [Forever](https://open.spotify.com/album/2ZVj3bdUbAFlbcKMT8mdtD) | 3:11 |
 | 99 | [Ema](https://open.spotify.com/track/79JbnyxG6Bhp1avujXTzGk) | [Romsii](https://open.spotify.com/artist/0ociabAWszA5gHTLfhf4Pw) | [Ema](https://open.spotify.com/album/6N3nyGBGrP6jG592tKYU9Q) | 2:11 |
-| 100 | [Innocent Smile](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
+| 100 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 101 | [Créature](https://open.spotify.com/track/4XD35EnM9VS8uUg1nr8D1q) | [Laurie Darmon](https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U) | [Créature](https://open.spotify.com/album/58jnkrxKnagzRJKXb0iJKY) | 2:29 |
 | 102 | [Flowers](https://open.spotify.com/track/3rpwbUJ68uCIYVCJ0g8YnT) | [Gotts Street Park](https://open.spotify.com/artist/2hwy5DELim1AxB1sHPqn4y), [Pip Millett](https://open.spotify.com/artist/1QfEfvB62EEl4upf2ANKkR) | [Flowers](https://open.spotify.com/album/3wAX2XoQdIO8oDEwakM00J) | 3:25 |
 | 103 | [Owo Oluwa \(feat\. Young Jonn, Krizbeatz & Wave Choir\)](https://open.spotify.com/track/1l1y5S87c7TB1SQeqYPXQ8) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [Young Jonn](https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI), [Krizbeatz](https://open.spotify.com/artist/5ecA37waug3nQ8hqfz6IlT), [Wave Choir](https://open.spotify.com/artist/6CKSrDs4vniJIYpAUgWLaO) | [Owo Oluwa \(feat\. Young Jonn, Krizbeatz & Wave Choir\)](https://open.spotify.com/album/63TbRZjT5dtOWaK7ASJ5ql) | 2:57 |

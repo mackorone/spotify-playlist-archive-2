@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 
 > Lo más fresco de la <a href="spotify:genre:0JQ5DAqbMKFDTEtSaS4R92"> Música Mexicana</a>, las que van pegar\. Raymix en portada 🌹
 
-[Spotify](https://open.spotify.com/user/spotify) - 177,355 likes - 70 songs - 3 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 177,361 likes - 70 songs - 3 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8VlzsR6EEFY.md) - [plain]
 | 2 | [Don Julio](https://open.spotify.com/track/0peBqx4JfplNavU6rmDH7s) | [Asmed](https://open.spotify.com/artist/03LtkSHCEhzQtKTdt7R1Ad), [Moy Bobadilla](https://open.spotify.com/artist/6H8yLg2ml8H94LRjriezMR) | [Don Julio](https://open.spotify.com/album/62IpRGB3quY1GXT2kjt3fF) | 3:25 |
 | 3 | [Mami](https://open.spotify.com/track/3py6ylZiCGaPQa1MWltbTz) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Mami](https://open.spotify.com/album/2qwDdtnfWmVY1DuQ8tSrvp) | 2:24 |
 | 4 | [Sólo Un Día](https://open.spotify.com/track/47GXXBeBf5Sn4URZCrN1t3) | [Cornelio Vega y su Dinastia](https://open.spotify.com/artist/3xNhaqwvNIAP57dWgMTP1d), [La Receta](https://open.spotify.com/artist/3p8PwzenE7ktd4BVFuQzMD) | [Sólo Un Día](https://open.spotify.com/album/1QxspiuEU6PfmiUyboMSPv) | 3:21 |
-| 5 | [UN HOMBRE NORMAL](https://open.spotify.com/track/0VMjyuqjebhfnXL8FUwXqm) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [DESDE EL WESTERN CLUB VOLUMEN 4](https://open.spotify.com/album/7MAgdNwz54nmwx76Yn4k6X) | 3:28 |
+| 5 | [UN HOMBRE NORMAL](https://open.spotify.com/track/0VMjyuqjebhfnXL8FUwXqm) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [DESDE EL PATIO WESTERN CLUB VOLUMEN 4](https://open.spotify.com/album/7MAgdNwz54nmwx76Yn4k6X) | 3:28 |
 | 6 | [Por Amarte Así](https://open.spotify.com/track/3O3bL4mhBEm5oSjT0GRyQ8) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P) | [Natanael Cano, Vol.1](https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN) | 3:22 |
 | 7 | [Y Si Tomo Y Tomo](https://open.spotify.com/track/7z0W6WQMPJx5qQ7P91JdLq) | [Superiores de Nuevo Leon](https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv) | [Entre Copas y Verdades](https://open.spotify.com/album/6uar0qbeXsYa5uCgMMQ6ze) | 3:24 |
 | 8 | [El Terco](https://open.spotify.com/track/5lSFtOj0QXN9OFrOhssiAl) | [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [El Terco](https://open.spotify.com/album/1NqMUNU9QxwLQNFKxeca1g) | 3:42 |

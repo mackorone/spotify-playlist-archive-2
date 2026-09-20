@@ -3479,6 +3479,24 @@
     },
     {
       "album": {
+        "name": "OH NO!! ALL THE BOYS!!",
+        "url": "https://open.spotify.com/album/1CcvgioY3omIjudg8ggWvF"
+      },
+      "artists": [
+        {
+          "name": "MNEK",
+          "url": "https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190235,
+      "name": "OH NO!! ALL THE BOYS!!",
+      "url": "https://open.spotify.com/track/1t11AUjoBZNOALrDXCpvJa"
+    },
+    {
+      "album": {
         "name": "Still Learning",
         "url": "https://open.spotify.com/album/0go1bLt3pqNbRLCOWEYlQh"
       },

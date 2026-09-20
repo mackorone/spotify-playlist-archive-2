@@ -4,14 +4,14 @@
 
 > This is Howlin' Wolf\. The essential tracks, all in one playlist.
 
-145 songs - 7 hr 48 min
+146 songs - 7 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [All in the Mood \(Everybody's in the Mood\)](https://open.spotify.com/track/5T0RKELHLZS8DaHT7qwax9) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Essential Classics, Vol\. 435: Howlin' Wolf](https://open.spotify.com/album/6vuFaQeftqSS8TWli6HGOX) | 2:59 | 2025-01-21 | 2025-01-25 |
 | [All In The Mood \(Everybody's In The Mood\)](https://open.spotify.com/track/7bwTE6zcxNSNPTcNgrv0tR) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Greatest Songs](https://open.spotify.com/album/5C3fhao58c0U8b59cD0PX7) | 2:59 | 2024-01-24 | 2024-07-24 |
 | [All My Life \- Bremen Live March 3rd\. 1964 \- Restauración 2024](https://open.spotify.com/track/639q2BhIjvi2kt2SiVqb7d) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Howlin' Wolf Live March 3rd, 1964 Bremen, Germany \(Restauración 2024\)](https://open.spotify.com/album/0WkbzbNBMXtwQk1OW0O4By) | 4:08 | 2024-07-01 | 2024-11-03 |
-| [All My Life \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 4:09 | 2026-03-07 |  |
+| [All My Life \- Live in Europe 1964 \- 2025 Remaster](https://open.spotify.com/track/1Cir0qnb0sdjzTtzisaGa3) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Live in Europe 1964 \(2025 Remaster\)](https://open.spotify.com/album/5KG3JmXjgdCM6d7YILye05) | 4:09 | 2026-03-07 | 2026-09-20 |
 | [All Night Boogie \(All Night Long\)](https://open.spotify.com/track/6UXUwb2mZK0LFsColT6uup) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:15 | 2022-11-02 | 2024-02-24 |
 | [Baby How Long](https://open.spotify.com/track/7qAUeIKdz6LEdP6K8y2GLo) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:55 | 2022-08-05 | 2026-08-28 |
 | [Baby Workout \- Live](https://open.spotify.com/track/3KzatBx1q40B6HMP3TLyMO) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Shape I'm In \(Live Boston '73\)](https://open.spotify.com/album/7fPdvqtGqGRX2VvDWYcJS3) | 3:03 | 2022-12-09 | 2024-07-02 |
@@ -111,6 +111,7 @@
 | [New Crawlin' King Snake \- Single Version](https://open.spotify.com/track/3rTrYU2iwNv3pnd7u4kfTX) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [His Best, Vol.2](https://open.spotify.com/album/5rL0QUmh9iE6LbR1GEBvvb) | 2:54 | 2026-05-15 |  |
 | [No Place To Go \(You Gonna Wreck My Life\)](https://open.spotify.com/track/6TtZ5COn8TGuCJOHaoh9ey) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [Moanin' In The Moonlight](https://open.spotify.com/album/76MT4lqzC1oSvSYnHHjMam) | 2:58 | 2022-08-22 | 2026-08-28 |
 | [Oh Red](https://open.spotify.com/track/3rWhFabcpnpCF9iSWAZqKo) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4IyU5b7kkJzHQzxHalKSlp) | 2:44 | 2022-08-05 | 2025-08-30 |
+| [Oh Red](https://open.spotify.com/track/4qLpUcsgpPXX4kCge1wGoV) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Memphis Sessions](https://open.spotify.com/album/4SseCrDhnIn2ZbMhPV1A1n) | 2:44 | 2026-09-20 |  |
 | [Ooh Baby \(Hold Me\)](https://open.spotify.com/track/3VdcgPdpmBMk2CEZHIobqN) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:41 | 2022-08-07 | 2024-06-17 |
 | [Ooh, Baby / Wrecking My Love Life \- Medley](https://open.spotify.com/track/0lp6c7BBYNlDVksKGQqy8X) | [Bo Diddley](https://open.spotify.com/artist/2bmixwMZXlkl2sbIbOfviq), [Muddy Waters](https://open.spotify.com/artist/4y6J8jwRAwO4dssiSmN91R), [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Super Super Blues Band](https://open.spotify.com/album/3hYDvg91x5TuC0G7m7Ubyc) | 6:34 | 2022-08-05 |  |
 | [Poor Boy](https://open.spotify.com/track/6UAPJQ5qrM5oRViQCC9sFd) | [Howlin' Wolf](https://open.spotify.com/artist/0Wxy5Qka8BN9crcFkiAxSR) | [The Real Folk Blues](https://open.spotify.com/album/02H7GlBPL5ur7WBXHna8W0) | 2:36 | 2022-08-05 |  |

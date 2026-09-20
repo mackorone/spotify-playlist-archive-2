@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1khK3JafpRo.md) - [plain]
 
 > <a href="spotify:artist:6RsLLSkSTcL4YrvgRcBTQd">Jimi Jules</a>' favorite tracks\. Curated by Jimi Jules\. More track IDs <a href="spotify:genre:track\_id">here</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,997 likes - 67 songs - 6 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,046 likes - 67 songs - 6 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1khK3JafpRo.md) - [plain]
 | 16 | [FANGS](https://open.spotify.com/track/7Ie9d8Ytlxq6ZHWwimm025) | [Navjaxx Beats](https://open.spotify.com/artist/4T6iNz1xFZpX3vknB95yKD) | [FANGS](https://open.spotify.com/album/66Ey2lXN4Vo5SNyFC4Bfzd) | 2:39 |
 | 17 | [Ignition](https://open.spotify.com/track/7zdkHd3pJ1Fo7N3FSiF0gN) | [HAAi](https://open.spotify.com/artist/0pkLgeB9j465x1QB2kRoy4), [Echonomist](https://open.spotify.com/artist/3ujc8l2JVYwGgAPU7KRRl3) | [Ignition](https://open.spotify.com/album/6ho2DcV0aLaAg5CNMJxTsF) | 5:19 |
 | 18 | [OOO Baby \- Om Unit Remix](https://open.spotify.com/track/3ol06QqC8X4Wr3NksJA4kG) | [Mr\. Ho](https://open.spotify.com/artist/44LzZsFXgy7Ft4EsT3WlI8), [Om Unit](https://open.spotify.com/artist/3rblB9Pm51uKd9uYPVPB7B) | [000 Baby \(w/Om Unit Remix\)](https://open.spotify.com/album/4aNORv6az7VvQ8pxfo3rLf) | 6:14 |
-| 19 | [Love Is The Dance](https://open.spotify.com/track/1T9Ba7q9aC1LjGzvpVURMl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Is The Dance](https://open.spotify.com/album/6eQYhX0jCvUqez4COgvcmv) | 4:12 |
+| 19 | [Love Is The Dance](https://open.spotify.com/track/1T9Ba7q9aC1LjGzvpVURMl) | [Âme](https://open.spotify.com/artist/5muFO8VqYRCRW13EkvX564), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Love Is The Dance EP](https://open.spotify.com/album/6eQYhX0jCvUqez4COgvcmv) | 4:14 |
 | 20 | [New Day \- Club Vocal Mix](https://open.spotify.com/track/4sTilZKdZ50w5aSNpQoh54) | [Round Two](https://open.spotify.com/artist/4he15ixNlw68u4LmeKTKEY), [Andy Caine](https://open.spotify.com/artist/0ch3WsezSB3uS12VZDQvJu) | [1993\-99 Main Street Records](https://open.spotify.com/album/5xRtyFjbbzTVAMiIWxUH8A) | 6:52 |
 | 21 | [You Knew](https://open.spotify.com/track/7uWXwKEpD54Fe8W6Xi8Lya) | [Róisín Murphy](https://open.spotify.com/artist/3qwabfaWewpfli7hMNM3O8), [DJ Koze](https://open.spotify.com/artist/1kR99O4MgSTasyeJh8UFCg) | [You Knew](https://open.spotify.com/album/26QAdfI4TGJ3eyOoDfs4sS) | 7:16 |
 | 22 | [Terrified Of Love](https://open.spotify.com/track/27nrwUehIEZ3opRMH7TUls) | [Afriqua](https://open.spotify.com/artist/4x9k6DMgS8vPNv48Yol5Kp) | [Terrified Of Love](https://open.spotify.com/album/3rCXuB5QHc6EtsAl2H3g58) | 5:11 |

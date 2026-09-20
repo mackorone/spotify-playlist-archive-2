@@ -1,6 +1,6 @@
 {
   "description": "De beste nieuwe R&B releases | Cover: Chris Brown",
-  "num_followers": 291725,
+  "num_followers": 291685,
   "original_name": "R&B Magic",
   "owner": {
     "name": "Spotify",
@@ -827,18 +827,22 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "A Mile In My Mind",
-        "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
+        "name": "U Gotta",
+        "url": "https://open.spotify.com/album/30VqT2rbEknTdCZt1n0Rci"
       },
       "artists": [
         {
-          "name": "Ebub\u00e9",
-          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
+          "name": "Dyce",
+          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
+        },
+        {
+          "name": "The Limba",
+          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
         }
       ],
-      "duration_ms": 167195,
-      "name": "A Mile In My Mind",
-      "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
+      "duration_ms": 122880,
+      "name": "U Gotta",
+      "url": "https://open.spotify.com/track/20RR34NvvcSas9GdZUrAhq"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -859,22 +863,18 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "U Gotta",
-        "url": "https://open.spotify.com/album/30VqT2rbEknTdCZt1n0Rci"
+        "name": "A Mile In My Mind",
+        "url": "https://open.spotify.com/album/4x3vraA41P4FIGKwYiAbWF"
       },
       "artists": [
         {
-          "name": "Dyce",
-          "url": "https://open.spotify.com/artist/77s8dtx2Y0GfkwgSJDH7pc"
-        },
-        {
-          "name": "The Limba",
-          "url": "https://open.spotify.com/artist/7LdZqOf4uMeA5vzlI0oza7"
+          "name": "Ebub\u00e9",
+          "url": "https://open.spotify.com/artist/6Op8o8Uebe6lvbXaqmXT5W"
         }
       ],
-      "duration_ms": 122880,
-      "name": "U Gotta",
-      "url": "https://open.spotify.com/track/20RR34NvvcSas9GdZUrAhq"
+      "duration_ms": 167195,
+      "name": "A Mile In My Mind",
+      "url": "https://open.spotify.com/track/4xWpwTyRHboUA6GnVPqltx"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -943,22 +943,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Better Days",
-        "url": "https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1"
-      },
-      "artists": [
-        {
-          "name": "Naomi Sharon",
-          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
-        }
-      ],
-      "duration_ms": 202421,
-      "name": "Better Days",
-      "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "Priceless",
         "url": "https://open.spotify.com/album/0rOB8NbQgAirEY5A2qvf84"
       },
@@ -971,6 +955,22 @@
       "duration_ms": 159986,
       "name": "Priceless",
       "url": "https://open.spotify.com/track/4AQSA9Do6uF4a1XkLNok6d"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Better Days",
+        "url": "https://open.spotify.com/album/1rACb8oIp38Dld8SD1glZ1"
+      },
+      "artists": [
+        {
+          "name": "Naomi Sharon",
+          "url": "https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb"
+        }
+      ],
+      "duration_ms": 202421,
+      "name": "Better Days",
+      "url": "https://open.spotify.com/track/7qB7rGGpRoy8tw9K8tN4k0"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1199,22 +1199,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "Just Like You",
-        "url": "https://open.spotify.com/album/7Aqv6M8ONnqRIjBx99XLoQ"
-      },
-      "artists": [
-        {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
-        }
-      ],
-      "duration_ms": 186293,
-      "name": "Just Like You",
-      "url": "https://open.spotify.com/track/3vUbxLf8vr3KmI5Dqpfzqz"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "So Bad (bonus track)",
         "url": "https://open.spotify.com/album/0FP75BEtvpCPg1OrjnwV92"
       },
@@ -1247,6 +1231,22 @@
       "duration_ms": 216223,
       "name": "10AM",
       "url": "https://open.spotify.com/track/5WYv0entnRyawjX2mJ5QAK"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "Just Like You",
+        "url": "https://open.spotify.com/album/7Aqv6M8ONnqRIjBx99XLoQ"
+      },
+      "artists": [
+        {
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+        }
+      ],
+      "duration_ms": 186293,
+      "name": "Just Like You",
+      "url": "https://open.spotify.com/track/3vUbxLf8vr3KmI5Dqpfzqz"
     },
     {
       "added_at": "2026-06-10 11:59:44",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-06-10 11:59:44",
       "album": {
-        "name": "back 'n forth",
-        "url": "https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED"
-      },
-      "artists": [
-        {
-          "name": "Chuka, The Destroyer",
-          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
-        }
-      ],
-      "duration_ms": 197952,
-      "name": "back 'n forth",
-      "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
-    },
-    {
-      "added_at": "2026-06-10 11:59:44",
-      "album": {
         "name": "nobody has to know (with Ronald Isley)",
         "url": "https://open.spotify.com/album/1dLxVKDkwe9nALHF5ErQEd"
       },
@@ -1347,6 +1331,22 @@
       "duration_ms": 197379,
       "name": "nobody has to know (with Ronald Isley)",
       "url": "https://open.spotify.com/track/3CpYc8sEJUAgusqSZZKzi3"
+    },
+    {
+      "added_at": "2026-06-10 11:59:44",
+      "album": {
+        "name": "back 'n forth",
+        "url": "https://open.spotify.com/album/7yGYzM3gZnrkEJpIsZMmED"
+      },
+      "artists": [
+        {
+          "name": "Chuka, The Destroyer",
+          "url": "https://open.spotify.com/artist/1rmBzSI2l5MUhr4CIHHPys"
+        }
+      ],
+      "duration_ms": 197952,
+      "name": "back 'n forth",
+      "url": "https://open.spotify.com/track/57c824155MOILKW4B9i26h"
     },
     {
       "added_at": "2026-06-10 11:59:44",

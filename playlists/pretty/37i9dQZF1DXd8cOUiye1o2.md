@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 
 > Celebrate the timeless bond of Siya Ram\. 'Jai Jai Ram' from Ramayana is out\. Listen now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,020,287 likes - 75 songs - 4 hr 38 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,020,356 likes - 75 songs - 4 hr 38 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8cOUiye1o2.md) - [plain]
 | 4 | [Aaye Miyan Khat\-Pat \(From "Lust Stories 3"\)](https://open.spotify.com/track/39bbIastYmH17y5FGfjB1d) | [Rekha Bhardwaj](https://open.spotify.com/artist/3cqeO3muWIW5uSmUDNCmyT), [Vishal Bhardwaj](https://open.spotify.com/artist/1JdHoZwkwOmX2Pl2iTwnzc) | [Aaye Miyan Khat\-Pat \(From "Lust Stories 3"\)](https://open.spotify.com/album/4HlXMQ8upHOYvtVUoJv7sh) | 2:47 |
 | 5 | [Chori Chori](https://open.spotify.com/track/2uEVlPLmqXwssBgiFsBNUU) | [POPCORN Inc.](https://open.spotify.com/artist/0gpRn0U1orS4HnTwGkpBLY), [Neeti Mohan](https://open.spotify.com/artist/3ZxZ03fj3tXBZHZWzvaLSM) | [Chori Chori](https://open.spotify.com/album/3KU12REmT7VnMhKepNA8el) | 2:16 |
 | 6 | [Rafta Rafta \(From "Vibe"\)](https://open.spotify.com/track/4WvMSlnTJY1fD3mTYJW0Ir) | [Amit Trivedi](https://open.spotify.com/artist/7HCqGPJcQTyGJ2yqntbuyr), [Aditya Jain](https://open.spotify.com/artist/1dpSiOzlRAcjA6f9pYmLnv), [Akshay Dhawan](https://open.spotify.com/artist/374PAz9FXrqEwGCScq7PbR), [Kumaar](https://open.spotify.com/artist/0m3D4grap8VFSzbJMqgNVk) | [Vibe \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/60Ad3pi0LOpIBiIqMWfy82) | 2:49 |
-| 7 | [Jiyara](https://open.spotify.com/track/56qV2PcQkOp6wdBw2b5vDE) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Vampire](https://open.spotify.com/artist/5xDnoGOwMyDn1smvCS5fqa) | [Jiyara](https://open.spotify.com/album/2a3XGuHHVE4XszjFI7Qxgw) | 2:45 |
+| 7 | [Jiyara](https://open.spotify.com/track/56qV2PcQkOp6wdBw2b5vDE) | [Kushagra](https://open.spotify.com/artist/2IKfr1JgPRXmXKAWwrABc6), [Vampire](https://open.spotify.com/artist/2skUmvAGfu7NfzcxmzYvkv) | [Jiyara](https://open.spotify.com/album/2a3XGuHHVE4XszjFI7Qxgw) | 2:45 |
 | 8 | [Tu Mera Raiyyo \- From "Prem Keetanu"](https://open.spotify.com/track/3lxR1nJ4EffJxSNXpKxpSr) | [Sachet Tandon](https://open.spotify.com/artist/6WOdPJmexxFINcKMkP2jMG), [Parampara Tandon](https://open.spotify.com/artist/1E6arsXf5Fgsnv9YpSzjpE), [Sachet\-Parampara](https://open.spotify.com/artist/1SyKki7JI1AZNKwgNMkn25), [Kunaal Vermaa](https://open.spotify.com/artist/52XgeWw24o4klNdfwvB0Vx) | [Tu Mera Raiyyo \(From "Prem Keetanu"\)](https://open.spotify.com/album/7phDvEhf8iKpNfTjyLLCOK) | 3:09 |
 | 9 | [Vingansa \(From "Drishyam: The Conclusion"\)](https://open.spotify.com/track/1GZU2LObsyEmUCEovzd7J7) | [Ravi Basrur](https://open.spotify.com/artist/2q1LRGJHpFxovU8Tz6OgRn), [Siddharth Basrur](https://open.spotify.com/artist/6PtoffEX0RiktNdmCeuWkl), [Aamil Keeyan Khan](https://open.spotify.com/artist/0sZTLjtoeLphLluBNsTrbF) | [Vingansa \(From "Drishyam: The Conclusion"\)](https://open.spotify.com/album/3cys751SN7AwyoPjedeiRB) | 4:31 |
 | 10 | [Guzarish](https://open.spotify.com/track/45Gi7lLR8VI4hFyPeJpxH3) | [Satinder Sartaaj](https://open.spotify.com/artist/4rgw8A5vcYinpZLDKHrEdV) | [Guzarish](https://open.spotify.com/album/2YeoLVaz3FRi1RvQmyVhMN) | 4:48 |

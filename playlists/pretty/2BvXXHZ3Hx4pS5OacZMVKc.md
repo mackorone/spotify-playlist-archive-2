@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/2BvXXHZ3Hx4pS5OacZMVKc.md) - [plain]
 
 > NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 130,137 likes - 205 songs - 10 hr 12 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 130,136 likes - 205 songs - 10 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [once more](https://open.spotify.com/track/3TVJ1NljaDpiy82pEmiD8f) | [prodBigMike](https://open.spotify.com/artist/7JOwVqYOnGJOHlyCXsbg7X), [Glitch Cat](https://open.spotify.com/artist/3zquCvGjujDQ8U53bH1ngW) | [once more](https://open.spotify.com/album/0PXeIMbaMHUbkSSpeAi9Tw) | 4:44 |
+| 1 | [once more](https://open.spotify.com/track/3TVJ1NljaDpiy82pEmiD8f) | [Glitch Cat](https://open.spotify.com/artist/3zquCvGjujDQ8U53bH1ngW), [prodBigMike](https://open.spotify.com/artist/7JOwVqYOnGJOHlyCXsbg7X) | [once more](https://open.spotify.com/album/0PXeIMbaMHUbkSSpeAi9Tw) | 4:44 |
 | 2 | [Nobody Around](https://open.spotify.com/track/0WGqG0Pg2Cyrj0FWBQS5s5) | [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [Biometrix](https://open.spotify.com/artist/2qZwOcOK5pr8WaNJWvuZd2), [CRVN](https://open.spotify.com/artist/6Lk4en2wu5IjMxZWzJfJ28) | [Nobody Around](https://open.spotify.com/album/0LIVRejBIFEyxlRoJjW2XE) | 3:18 |
 | 3 | [Heaven & Hell](https://open.spotify.com/track/12mUiAGnkttkpoqRrZvjtF) | [Lost Sky](https://open.spotify.com/artist/157L8iTHgbdrKVxdQEXluh), [Chris Linton](https://open.spotify.com/artist/5Wpn7BDRJ8oq7CcF1EufWI) | [Heaven & Hell](https://open.spotify.com/album/5xKDyLDeZi8g3aGYcrfiTr) | 4:08 |
 | 4 | [SUFFOCATE](https://open.spotify.com/track/6RUHWfhCcQih0sF2COlKyl) | [Papa Khan](https://open.spotify.com/artist/7DKYxh9hbhtTdPRSubo2iM) | [SUFFOCATE](https://open.spotify.com/album/3gTj7zWhpgrFO625d1gZ0e) | 3:15 |

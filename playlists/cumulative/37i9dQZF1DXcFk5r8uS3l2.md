@@ -4,7 +4,7 @@
 
 > You've come to the crossroads of soul, folk, and the blues\. Cover: Valerie June
 
-512 songs - 1 day 8 hr 1 min
+513 songs - 1 day 8 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -122,6 +122,7 @@
 | [Down to the River](https://open.spotify.com/track/0tVw6rUAUI0w01PN9FQeyD) | [The War and Treaty](https://open.spotify.com/artist/6HhV0jtMMK5HYnYgG0xgtz) | [Down to the River](https://open.spotify.com/album/3JiILntTtRreadH6W8ftB2) | 3:51 | 2021-12-17 | 2023-01-13 |
 | [Drifting \(feat\. Marcus King\)](https://open.spotify.com/track/1zg7rKOGtM0TAXA4jC8U2Q) | [Alain Apaloo](https://open.spotify.com/artist/3q8l8BcNjXxBaUP204OgX2), [Marcus King](https://open.spotify.com/artist/0FeWKiZSwBRdGzqeCdlH1a) | [Naked](https://open.spotify.com/album/0Skl6by8nLaYc2GnRUqJoa) | 4:15 | 2024-09-13 |  |
 | [Eastham Prison Farm Blues \- Stripped Back](https://open.spotify.com/track/749IyqWQSErX4dT4pmcDOH) | [Liam St\. John](https://open.spotify.com/artist/7sbLMJ3A72T1ZnNUNrxcqx) | [stripped back](https://open.spotify.com/album/2SJZOQy7R0fEgMRtexjZL3) | 3:00 | 2022-06-17 | 2023-02-25 |
+| [El Camino](https://open.spotify.com/track/7fHTwRhv6K9xyi01H92Ts2) | [Seasick Steve](https://open.spotify.com/artist/6OVkHZQP8QoBYqr1ejCGDv), [Ricardo Arjona](https://open.spotify.com/artist/0h1zs4CTlU9D2QtgPxptUD) | [The Last Season of America](https://open.spotify.com/album/5KP5qRIWaVzDdC3tcWvgyv) | 4:20 | 2026-09-18 |  |
 | [Empire State Express](https://open.spotify.com/track/3eT162kkfyBYC5EjmupvSG) | [Son House](https://open.spotify.com/artist/15oeqKO5k5uZ5773tWvpda) | [Empire State Express](https://open.spotify.com/album/2DMWrcLl3inqFygxUFnpkh) | 4:30 | 2022-01-28 | 2023-03-11 |
 | [Empty Me Out](https://open.spotify.com/track/3xEx3xxA06MuO4SGZ4jrkV) | [Liz Vice](https://open.spotify.com/artist/5KYcfVCcUgV4d1KP3Wozyx) | [There's a Light](https://open.spotify.com/album/7kOkk55lZ5AHyiv58OaCJ6) | 4:37 | 2021-12-17 | 2023-09-16 |
 | [Enjoy the Ride](https://open.spotify.com/track/6dqhw83H9eKMb0qTCv17k3) | [Elles Bailey](https://open.spotify.com/artist/4NPMwh3kDwi6uVCNtmeUvU) | [Enjoy the Ride](https://open.spotify.com/album/67A2C0Zy9gvtUPdh6BtJNE) | 3:39 | 2024-04-05 | 2024-05-03 |
@@ -178,7 +179,7 @@
 | [Heaven Knows](https://open.spotify.com/track/6IqUGU2UsJc6ys3veZeAbK) | [Mica Millar](https://open.spotify.com/artist/3u7WZTVUhTgjSKrlqzPfs9) | [Heaven Knows](https://open.spotify.com/album/0YpOrdUp8zE96Z9Xm0gjE8) | 5:23 | 2022-04-29 |  |
 | [Help Me Now](https://open.spotify.com/track/3GBV8M2iOv6T5UD91Lok2y) | [The Stone Foxes](https://open.spotify.com/artist/40N10exWtaCVUtBMftQn3t) | [Help Me Now](https://open.spotify.com/album/2zf92DYqMqjqLeGbaMpxdl) | 3:41 | 2022-10-14 | 2022-10-22 |
 | [Her Song](https://open.spotify.com/track/0zwqiSwBs0pzOsRrwjQedc) | [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Mama Rosa](https://open.spotify.com/album/68lPlEz1PvticlwgS0aznV) | 5:26 | 2023-04-28 | 2026-02-14 |
-| [Hey! You Know You Wanna!](https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk) | [The Delta Bombers](https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz) | [Neon Sounds](https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL) | 4:07 | 2023-04-07 |  |
+| [Hey! You Know You Wanna!](https://open.spotify.com/track/7afo9mIshxqUKPEPALwROk) | [The Delta Bombers](https://open.spotify.com/artist/2QDX87l1pAGzTn0D6tX8fz) | [Neon Sounds](https://open.spotify.com/album/7L8voRP33mE9BUIScs5SIL) | 4:07 | 2023-04-07 | 2026-09-20 |
 | [History Repeats](https://open.spotify.com/track/11rbkohh9XgnWneGQwROb7) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/3eMBjJtKjZrTi0N9mg6IcR) | 3:04 | 2022-05-27 | 2023-03-11 |
 | [History Repeats](https://open.spotify.com/track/7u0FwjCZoc3uZA4OJtlUrB) | [Brittany Howard](https://open.spotify.com/artist/4XquDVA8pkg5Lx91No1JxB) | [Jaime](https://open.spotify.com/album/6fbphjr9j57oxMB2bnhzUf) | 3:04 | 2021-12-17 | 2022-07-27 |
 | [Hit 'Em Back](https://open.spotify.com/track/7vneiArcRtUop1FpF88CFd) | [Shemekia Copeland](https://open.spotify.com/artist/4CNjyWtO59j6Ih6S0n73ee), [Kenny Wayne Shepherd](https://open.spotify.com/artist/1riHqX633Kup3mJAw8WR8p), [Robert Randolph](https://open.spotify.com/artist/0u7gssqdwWaO1aMaSuvXtx), [Tony Coleman](https://open.spotify.com/artist/0QIxudHuVjcWwPZwHXC4l8) | [Hit 'Em Back](https://open.spotify.com/album/1kN8MM4zOwjHKzFw6epZuX) | 4:33 | 2022-01-28 | 2023-02-25 |

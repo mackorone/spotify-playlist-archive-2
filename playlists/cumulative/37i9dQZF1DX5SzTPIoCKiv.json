@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-03-01",
-  "description": "Recent hits from your favorite Christian Contemporary artists.  Cover: Megan Woods",
+  "description": "Recent hits from your favorite Christian Contemporary artists.  Cover: for KING & COUNTRY",
   "name": "Christian Hits",
   "tracks": [
     {
@@ -1450,6 +1450,28 @@
       "duration_ms": 331613,
       "name": "Eye of the Storm (feat. Gabe Real)",
       "url": "https://open.spotify.com/track/6RSBBvhrP0KvkpaUSMPI11"
+    },
+    {
+      "album": {
+        "name": "Eye Of The Storm (A Decade Later)",
+        "url": "https://open.spotify.com/album/6aVGOAhW1mXrtjZwUIXq7S"
+      },
+      "artists": [
+        {
+          "name": "Ryan Stevenson",
+          "url": "https://open.spotify.com/artist/1rxhmvc4pue9A2fEXnLT97"
+        },
+        {
+          "name": "Gabereal",
+          "url": "https://open.spotify.com/artist/7pMRuTQan8Xa2erCF93GR7"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 208043,
+      "name": "Eye Of The Storm - A Decade Later",
+      "url": "https://open.spotify.com/track/53RyR75F4xQaD3K289tsJa"
     },
     {
       "album": {
@@ -5654,7 +5676,7 @@
       ],
       "date_added": "2025-05-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 254443,
       "name": "You Are My King (Amazing Love) - Spotify Singles",
       "url": "https://open.spotify.com/track/4LEGdbJ3sb6P1IAMfOBrEN"

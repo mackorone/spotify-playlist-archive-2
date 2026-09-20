@@ -319,6 +319,28 @@
     },
     {
       "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/26NKb8Yn3s987BKb4AxaJl"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Benny Jamz",
+          "url": "https://open.spotify.com/artist/2eBqkaIfoNsOPCQCQEy5fD"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157780,
+      "name": "10/5",
+      "url": "https://open.spotify.com/track/59pdHO38QvQM8lBy2VmI5V"
+    },
+    {
+      "album": {
         "name": "CSKI VOL. 2",
         "url": "https://open.spotify.com/album/0ssgEUHadlWTWQIGXuWZ5j"
       },
@@ -1838,6 +1860,24 @@
       "duration_ms": 179036,
       "name": "Aldrig Giv Slip (feat. Sivas)",
       "url": "https://open.spotify.com/track/0U7C2kt2ru3iMqLeMzZ69c"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 162307,
+      "name": "Aldrig Igen",
+      "url": "https://open.spotify.com/track/4x1pigklzPX3c0gqVAvvcR"
     },
     {
       "album": {
@@ -4494,7 +4534,7 @@
       ],
       "date_added": "2026-04-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/6QFCMUUq1T2Vf5sFUXcuQ7"
@@ -5268,7 +5308,7 @@
       ],
       "date_added": "2026-04-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -6947,6 +6987,24 @@
     },
     {
       "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143850,
+      "name": "Cabaret",
+      "url": "https://open.spotify.com/track/1NeFZYKJGmUsqBdjoUdH5z"
+    },
+    {
+      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/7nYokidgcvRUWqipPFMBJu"
       },
@@ -7484,6 +7542,28 @@
       "duration_ms": 150406,
       "name": "Casino",
       "url": "https://open.spotify.com/track/7fPuOww6SICrg5iEZ6giBi"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Noah Carter",
+          "url": "https://open.spotify.com/artist/2dfY7zXIP61MKHtD175hFp"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182015,
+      "name": "Casio",
+      "url": "https://open.spotify.com/track/1Yc2Z8NQZvpOd0mMzvrSiI"
     },
     {
       "album": {
@@ -12266,7 +12346,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 186347,
       "name": "Du er min bror!",
       "url": "https://open.spotify.com/track/62lRojjdpj5z2YYGFQDqYq"
@@ -12795,6 +12875,24 @@
     },
     {
       "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164959,
+      "name": "El Corte Ingl\u00e9s",
+      "url": "https://open.spotify.com/track/3b4UwaU7xTdHlF6LB0BwHU"
+    },
+    {
+      "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/4a6NzYL1YHRUgx9e3YZI6I"
       },
@@ -13168,6 +13266,24 @@
       "duration_ms": 165153,
       "name": "En Sammen",
       "url": "https://open.spotify.com/track/0rmjpEVY7Ay6oC2pXykuPW"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142491,
+      "name": "En Som Dig",
+      "url": "https://open.spotify.com/track/4PW3jVAgzsrMOnnU9kv45U"
     },
     {
       "album": {
@@ -14571,6 +14687,28 @@
     },
     {
       "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "D1MA",
+          "url": "https://open.spotify.com/artist/5RaTuqY7SJHvh6MNzMagut"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184451,
+      "name": "Falder Fra M\u00e5nen",
+      "url": "https://open.spotify.com/track/64tZNNBZXN3NXH2ALgePYc"
+    },
+    {
+      "album": {
         "name": "My Blood",
         "url": "https://open.spotify.com/album/76IDokLpzr6w9FNGHD6GdN"
       },
@@ -15272,6 +15410,24 @@
       "duration_ms": 166336,
       "name": "FIFTY",
       "url": "https://open.spotify.com/track/0St57Ts9cUkrHIQUeKYKe8"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144003,
+      "name": "Fina",
+      "url": "https://open.spotify.com/track/1tEGym5lMNVxNswaRDw6hY"
     },
     {
       "album": {
@@ -18932,7 +19088,7 @@
       ],
       "date_added": "2026-08-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 146131,
       "name": "G\u00d8R NOGET",
       "url": "https://open.spotify.com/track/1iEBaWNVcztn9z1JQ1N9ly"
@@ -19104,7 +19260,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 136503,
       "name": "hader ik mig selv sammen med dig",
       "url": "https://open.spotify.com/track/3Jrggxbj3XXCodbGhORmGo"
@@ -19648,7 +19804,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 197949,
       "name": "hate that i made you love me",
       "url": "https://open.spotify.com/track/3iy2QuCtCzpWnR6tia39AB"
@@ -20266,6 +20422,28 @@
       "duration_ms": 179491,
       "name": "Here You Come Again",
       "url": "https://open.spotify.com/track/6H7nDglS6xWpRidbhMwI2L"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Hans Philip",
+          "url": "https://open.spotify.com/artist/6idjJt47PjFydVRrAlNw4C"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134600,
+      "name": "Herinde",
+      "url": "https://open.spotify.com/track/6P0NSsp88qTFhRfOfrhbWd"
     },
     {
       "album": {
@@ -22188,7 +22366,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 178695,
       "name": "Hvis v\u00e6ggene kunne tale",
       "url": "https://open.spotify.com/track/0gGnep1DDoJa74jcYidaY9"
@@ -22250,7 +22428,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 145778,
       "name": "Hvor du er",
       "url": "https://open.spotify.com/track/5WsRf49ETqbpwOTBcufFbQ"
@@ -23867,6 +24045,28 @@
     },
     {
       "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Mille",
+          "url": "https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173547,
+      "name": "Ik Giv Slip",
+      "url": "https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt"
+    },
+    {
+      "album": {
         "name": "30 Somre",
         "url": "https://open.spotify.com/album/1rzS6sG9RAQSmujvgvrcBS"
       },
@@ -25262,7 +25462,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 182835,
       "name": "Jeg Mener Det Stadig (feat. Kind mod Kind)",
       "url": "https://open.spotify.com/track/6nyBmxdOIunGRdn6uTR8EJ"
@@ -26316,7 +26516,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 175562,
       "name": "KBH",
       "url": "https://open.spotify.com/track/5LMvsLJm6cEAxKiUJKPdyS"
@@ -26962,7 +27162,7 @@
       ],
       "date_added": "2026-04-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 157097,
       "name": "Kogeplade",
       "url": "https://open.spotify.com/track/4Uh2jneAmvQUNCChZw1DcF"
@@ -28183,6 +28383,28 @@
     },
     {
       "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "KESI",
+          "url": "https://open.spotify.com/artist/2d7AMvzFwh5wUTuqQl3BAE"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 145060,
+      "name": "Lesgo",
+      "url": "https://open.spotify.com/track/1Uw3zj1lmwnbOb4jfPkog3"
+    },
+    {
+      "album": {
         "name": "Dawn FM",
         "url": "https://open.spotify.com/album/2nLOHgzXzwFEpl62zAgCEC"
       },
@@ -28352,6 +28574,24 @@
       "duration_ms": 148285,
       "name": "Lev Mette",
       "url": "https://open.spotify.com/track/3aCZ0tvIQIdR8sGuxW0gKp"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165533,
+      "name": "Leve Livet",
+      "url": "https://open.spotify.com/track/2IwMd2KAaQKsKDajVa2HOW"
     },
     {
       "album": {
@@ -28970,6 +29210,24 @@
       "duration_ms": 267706,
       "name": "Like That",
       "url": "https://open.spotify.com/track/2tudvzsrR56uom6smgOcSf"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 175473,
+      "name": "Lille Hjerte",
+      "url": "https://open.spotify.com/track/1nLkggtWWFH9JG8RbZurA2"
     },
     {
       "album": {
@@ -32209,6 +32467,24 @@
     },
     {
       "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154708,
+      "name": "Monaco",
+      "url": "https://open.spotify.com/track/6DovbAvXJdoQ4FtAMoY9Gf"
+    },
+    {
+      "album": {
         "name": "LALISA",
         "url": "https://open.spotify.com/album/66OYt73mqan1hWa78BhfPd"
       },
@@ -32650,7 +32926,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 142200,
       "name": "Movin' To The Sun",
       "url": "https://open.spotify.com/track/4vTsKN15Kqo3Geo9r7FhAN"
@@ -40797,6 +41073,28 @@
     },
     {
       "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "Lamin",
+          "url": "https://open.spotify.com/artist/4ZwOlDVAGXQo66ykbLQ8dP"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180690,
+      "name": "Sky Priority",
+      "url": "https://open.spotify.com/track/7ALVWnUAkvbkgefSscEgZE"
+    },
+    {
+      "album": {
         "name": "Honey",
         "url": "https://open.spotify.com/album/3aPakmsCVj19Gz1zoLuYOf"
       },
@@ -41146,7 +41444,7 @@
       ],
       "date_added": "2024-10-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 198388,
       "name": "Smelter Under M\u00e5nen",
       "url": "https://open.spotify.com/track/0nVUuzrVZc5t9S48ifesg6"
@@ -42340,7 +42638,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 242727,
       "name": "sp\u00f8gelse",
       "url": "https://open.spotify.com/track/1n6JDny8iDA8btrO21y53p"
@@ -43174,7 +43472,7 @@
       ],
       "date_added": "2025-05-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 212472,
       "name": "Stolt (feat. Lamin)",
       "url": "https://open.spotify.com/track/1klqiFFmUA44dKHWCX0V5l"
@@ -47334,7 +47632,7 @@
       ],
       "date_added": "2024-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 203500,
       "name": "T\u00e6nker Ik P\u00e5 Andre (feat. URO)",
       "url": "https://open.spotify.com/track/7CW3Tjll8pUMZxsuo8GZgV"
@@ -48126,7 +48424,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 192185,
       "name": "Vagabond",
       "url": "https://open.spotify.com/track/0Gn5ihOi3h3714FvTjvacN"
@@ -48346,6 +48644,28 @@
       "duration_ms": 210732,
       "name": "Ventet Hele Livet",
       "url": "https://open.spotify.com/track/63Os8q7TakFyL4XcPI7BF1"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        },
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171542,
+      "name": "Verden Er Din Freestyle",
+      "url": "https://open.spotify.com/track/28iJRLWuBLtJQdJV0bvlZ9"
     },
     {
       "album": {
@@ -48978,6 +49298,24 @@
       "duration_ms": 158500,
       "name": "Vind & Vejr",
       "url": "https://open.spotify.com/track/7qIQL8M3VhfRAKDD49GERE"
+    },
+    {
+      "album": {
+        "name": "Verden Er Din",
+        "url": "https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx"
+      },
+      "artists": [
+        {
+          "name": "Gilli",
+          "url": "https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 190925,
+      "name": "Vinden Bl\u00e6ser",
+      "url": "https://open.spotify.com/track/6SdESBwEo0JMRXNps3inpH"
     },
     {
       "album": {
@@ -50334,7 +50672,7 @@
       ],
       "date_added": "2026-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 134310,
       "name": "Wide Awake",
       "url": "https://open.spotify.com/track/0FZz13L4T6U9vIVHwUL6Uu"
@@ -51492,6 +51830,24 @@
       "duration_ms": 157021,
       "name": "\u00d8delagt Byen (feat. Augusta Schackinger)",
       "url": "https://open.spotify.com/track/4kjOoHroifGNB1BhQEdyce"
+    },
+    {
+      "album": {
+        "name": "\u00d8delagte Mennesker",
+        "url": "https://open.spotify.com/album/1tBnI6uHosQgf1tloFQp9k"
+      },
+      "artists": [
+        {
+          "name": "Svea S",
+          "url": "https://open.spotify.com/artist/7nCIXUCqZmxntAGJMyls5c"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 149186,
+      "name": "\u00d8delagte Mennesker",
+      "url": "https://open.spotify.com/track/290GmiHv84n3yg8MlYNeWK"
     },
     {
       "album": {

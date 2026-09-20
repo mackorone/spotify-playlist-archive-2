@@ -1934,7 +1934,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 184927,
       "name": "Ain't In LA",
       "url": "https://open.spotify.com/track/6U9VpmP3dEinuezxCJ2Zg9"
@@ -11846,7 +11846,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 170238,
       "name": "En kerro kellek\u00e4\u00e4n",
       "url": "https://open.spotify.com/track/67Hbk4X35OC2kS4g9VUyLO"
@@ -14914,7 +14914,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 120943,
       "name": "Gatsby",
       "url": "https://open.spotify.com/track/5f23q6QE7e3drFMWV3K9sf"
@@ -23795,6 +23795,24 @@
     },
     {
       "album": {
+        "name": "KAIKKI",
+        "url": "https://open.spotify.com/album/4ZzPkcUMsnCH0oqd5Xgv2A"
+      },
+      "artists": [
+        {
+          "name": "ELLIMEI",
+          "url": "https://open.spotify.com/artist/6rPI72mU3VRYb9YCKGi3ra"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181495,
+      "name": "KAIKKI",
+      "url": "https://open.spotify.com/track/5VbbC1x31rg1iNvnPZTtsL"
+    },
+    {
+      "album": {
         "name": "Kaikki hyv\u00e4ks k\u00e4\u00e4ntyy",
         "url": "https://open.spotify.com/album/3RD3lUSFcyq58srZL28cyB"
       },
@@ -23890,6 +23908,28 @@
       "duration_ms": 168379,
       "name": "Kaikki j\u00e4rjestyy",
       "url": "https://open.spotify.com/track/0TMlvSx8j02Vw9feRHvy1v"
+    },
+    {
+      "album": {
+        "name": "Kaikki Kunnos",
+        "url": "https://open.spotify.com/album/5abijySksPUxJduZAfjEOn"
+      },
+      "artists": [
+        {
+          "name": "Sliki",
+          "url": "https://open.spotify.com/artist/0hVN0MWgK3oTTBoqBVSRwt"
+        },
+        {
+          "name": "Korelon",
+          "url": "https://open.spotify.com/artist/1hIZRiy8VLKDzZSk1SyjvP"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160350,
+      "name": "Kaikki Kunnos",
+      "url": "https://open.spotify.com/track/3lFVihVnqjVOTABmwtnpLs"
     },
     {
       "album": {
@@ -29257,6 +29297,28 @@
     },
     {
       "album": {
+        "name": "Lapsuuden sankarille (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/70tTtSfCgcARYVpsJbAFGm"
+      },
+      "artists": [
+        {
+          "name": "Ares",
+          "url": "https://open.spotify.com/artist/1iRlPYW9AnnyLTPfy53Mj9"
+        },
+        {
+          "name": "Jami Faltin",
+          "url": "https://open.spotify.com/artist/7CPIskNnQ0GYgQa3NkcLMf"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 136086,
+      "name": "Lapsuuden sankarille (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/5aJV7YztPPyKCbJHNyVflf"
+    },
+    {
+      "album": {
         "name": "Vanhasta Uuteen",
         "url": "https://open.spotify.com/album/276dY1fRnOuBfSGA5w7Mfb"
       },
@@ -32554,6 +32616,24 @@
       "duration_ms": 174240,
       "name": "maasta taivaaseen",
       "url": "https://open.spotify.com/track/0PWIrADNjGpiXA3EGjIbTW"
+    },
+    {
+      "album": {
+        "name": "MAD MAX",
+        "url": "https://open.spotify.com/album/0X4Owd48YNq7zMngnIkh6d"
+      },
+      "artists": [
+        {
+          "name": "uu$er",
+          "url": "https://open.spotify.com/artist/6gjoxzAPNFDOiBp7UcJTNS"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167445,
+      "name": "MAD MAX",
+      "url": "https://open.spotify.com/track/6bzL0YxrUB7jYCS7HzubdP"
     },
     {
       "album": {
@@ -36523,6 +36603,28 @@
     },
     {
       "album": {
+        "name": "Kersast KERZAKS",
+        "url": "https://open.spotify.com/album/2jIJIq1ETgGiOMBMavBTnb"
+      },
+      "artists": [
+        {
+          "name": "KERZA",
+          "url": "https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr"
+        },
+        {
+          "name": "Cledos",
+          "url": "https://open.spotify.com/artist/0xbbe6a1x6g5eGBQfzjWSe"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165745,
+      "name": "MOB WIFE (feat. Cledos)",
+      "url": "https://open.spotify.com/track/1iV4UhwSQFV9Ib3SQT0jQp"
+    },
+    {
+      "album": {
         "name": "Encore (Deluxe Version)",
         "url": "https://open.spotify.com/album/1kTlYbs28MXw7hwO0NLYif"
       },
@@ -38522,7 +38624,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 193615,
       "name": "M\u00e4",
       "url": "https://open.spotify.com/track/7qGcyaL3aSs8Gzdg2Ii7G3"
@@ -40872,6 +40974,24 @@
       "duration_ms": 200883,
       "name": "Ohikiit\u00e4v\u00e4\u00e4 - Vain el\u00e4m\u00e4\u00e4 - Unohtumaton ilta",
       "url": "https://open.spotify.com/track/78ReaLRl6mimo7am9byrTs"
+    },
+    {
+      "album": {
+        "name": "Ohita intro (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/2vreBBQ37VWHWQkSHI7SYN"
+      },
+      "artists": [
+        {
+          "name": "BESS",
+          "url": "https://open.spotify.com/artist/63RF3q8ejWJup6nAPb3KLw"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177165,
+      "name": "Ohita intro (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/38ds5bJcOUBal6Ewpoiq8z"
     },
     {
       "album": {
@@ -45310,7 +45430,7 @@
       ],
       "date_added": "2026-09-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 151000,
       "name": "Poitsu",
       "url": "https://open.spotify.com/track/01bMjvzaT0hL8MbJ3mYxol"
@@ -45562,6 +45682,24 @@
       "duration_ms": 198000,
       "name": "Poppaan - Remix",
       "url": "https://open.spotify.com/track/4GpomcfWG2ZRs2CqU9W27b"
+    },
+    {
+      "album": {
+        "name": "Popstara (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/2P36k8826xtUAgxEqp89hN"
+      },
+      "artists": [
+        {
+          "name": "Nelli Matula",
+          "url": "https://open.spotify.com/artist/4D8m6VLd1ySVC6A2tzFvrE"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168746,
+      "name": "Popstara - Vain el\u00e4m\u00e4\u00e4 kausi 17",
+      "url": "https://open.spotify.com/track/6oPtzeWfzgBROGq7BOSZTs"
     },
     {
       "album": {
@@ -47720,7 +47858,7 @@
       ],
       "date_added": "2026-02-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 173000,
       "name": "Reissumies",
       "url": "https://open.spotify.com/track/39lVGCV5FERL8pkx2lxCUw"
@@ -58516,7 +58654,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 159451,
       "name": "Toivon sulle pelkk\u00e4\u00e4 hyv\u00e4\u00e4",
       "url": "https://open.spotify.com/track/6sidkK0P59vIqDOV1b02rt"
@@ -58534,7 +58672,7 @@
       ],
       "date_added": "2026-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 163777,
       "name": "Toivottavasti",
       "url": "https://open.spotify.com/track/1TJCHMekCEtSTHJwGy1rBX"
@@ -59462,6 +59600,24 @@
       "duration_ms": 277493,
       "name": "Tulkoon joulu",
       "url": "https://open.spotify.com/track/1TlGXGGjMlV1pQI59Qb6kM"
+    },
+    {
+      "album": {
+        "name": "Tulkoon rakkaus (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+        "url": "https://open.spotify.com/album/3ikkLnQzaY1oTvMm5vf1rs"
+      },
+      "artists": [
+        {
+          "name": "Benjamin",
+          "url": "https://open.spotify.com/artist/5FgAhHocNrSCn7Ox87uyef"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150158,
+      "name": "Tulkoon rakkaus (Vain el\u00e4m\u00e4\u00e4 kausi 17)",
+      "url": "https://open.spotify.com/track/1GiPUlIikoOj6LBNchxgKF"
     },
     {
       "album": {

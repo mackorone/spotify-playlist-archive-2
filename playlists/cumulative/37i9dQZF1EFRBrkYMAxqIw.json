@@ -1029,6 +1029,24 @@
     },
     {
       "album": {
+        "name": "Falling in Love Again",
+        "url": "https://open.spotify.com/album/6OYT46Ua8A3Uhx9iP8ESTc"
+      },
+      "artists": [
+        {
+          "name": "AVA CROWN",
+          "url": "https://open.spotify.com/artist/0jd43OPsT2l0NAXUSBY7xC"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131300,
+      "name": "Falling in Love Again",
+      "url": "https://open.spotify.com/track/3W54mMXgIbJNnHdcjji8n7"
+    },
+    {
+      "album": {
         "name": "Famous for a Day",
         "url": "https://open.spotify.com/album/6GmcBZbFsGYXBEKLYb5o6M"
       },

@@ -1559,6 +1559,24 @@
     },
     {
       "album": {
+        "name": "ClubsRUs",
+        "url": "https://open.spotify.com/album/3Pqmrai7BqQKe3D2JN1rux"
+      },
+      "artists": [
+        {
+          "name": "STMG DemGuyz",
+          "url": "https://open.spotify.com/artist/0jieytrsm8GJJGwTTCAkkq"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 234004,
+      "name": "DomeShuffle",
+      "url": "https://open.spotify.com/track/4HhUPK0aiO7o5CQmkvEg6a"
+    },
+    {
+      "album": {
         "name": "DomeShuffle",
         "url": "https://open.spotify.com/album/36ZiA6JeMcdcuc1uKfrO7m"
       },
@@ -1570,7 +1588,7 @@
       ],
       "date_added": "2025-06-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 234004,
       "name": "DomeShuffle",
       "url": "https://open.spotify.com/track/6PnyMfUwWslSSnup9ug9BO"

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Tr\u00f3pico y vanguardia! Deja que la brisa impulse tu esp\u00edritu.",
-  "num_followers": 17344,
+  "num_followers": 17352,
   "original_name": "Palmera",
   "owner": {
     "name": "Spotify",
@@ -579,26 +579,6 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "Mi Reina",
-        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
-      },
-      "artists": [
-        {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
-        },
-        {
-          "name": "Nanpa B\u00e1sico",
-          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
-        }
-      ],
-      "duration_ms": 183891,
-      "name": "Mi Reina",
-      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
-    },
-    {
-      "added_at": "2026-09-18 04:59:32",
-      "album": {
         "name": "Los Nuevos Reyes",
         "url": "https://open.spotify.com/album/6q7NqAYt7mBBpAdA0lyfAo"
       },
@@ -623,6 +603,26 @@
       "duration_ms": 231100,
       "name": "La Canci\u00f3n De Los Dos",
       "url": "https://open.spotify.com/track/3zVwgwb0Q9ZAoJdp949VXJ"
+    },
+    {
+      "added_at": "2026-09-18 04:59:32",
+      "album": {
+        "name": "Mi Reina",
+        "url": "https://open.spotify.com/album/5XyQiU6uGEXoQqx9fjVXU9"
+      },
+      "artists": [
+        {
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+        },
+        {
+          "name": "Nanpa B\u00e1sico",
+          "url": "https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG"
+        }
+      ],
+      "duration_ms": 183891,
+      "name": "Mi Reina",
+      "url": "https://open.spotify.com/track/2melyaF5DpV1MFCSiZHhNB"
     },
     {
       "added_at": "2026-09-18 04:59:32",
@@ -735,18 +735,18 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "Isla Pa Dos (Wawawao)",
-        "url": "https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh"
+        "name": "AFRO RED 2",
+        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
       },
       "artists": [
         {
-          "name": "Hamilton",
-          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
+          "name": "Barboza",
+          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
         }
       ],
-      "duration_ms": 137691,
-      "name": "Isla Pa Dos (Wawawao)",
-      "url": "https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp"
+      "duration_ms": 143914,
+      "name": "Linda",
+      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
     },
     {
       "added_at": "2026-09-18 04:59:32",
@@ -767,18 +767,18 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
-        "name": "AFRO RED 2",
-        "url": "https://open.spotify.com/album/2hbLXNfQdvgStp3QJN9HNg"
+        "name": "Isla Pa Dos (Wawawao)",
+        "url": "https://open.spotify.com/album/2H5VQ2AyPAAwq2QVLsgLwh"
       },
       "artists": [
         {
-          "name": "Barboza",
-          "url": "https://open.spotify.com/artist/0HN3uHZSS2Bosw1cFImLVG"
+          "name": "Hamilton",
+          "url": "https://open.spotify.com/artist/2Gke7HMz6MgNWSX71pBMyX"
         }
       ],
-      "duration_ms": 143914,
-      "name": "Linda",
-      "url": "https://open.spotify.com/track/77KDRAKMs1dRirOgKOKM9j"
+      "duration_ms": 137691,
+      "name": "Isla Pa Dos (Wawawao)",
+      "url": "https://open.spotify.com/track/2oZMbHvRq7jEpCfupABOlp"
     },
     {
       "added_at": "2026-09-18 04:59:32",
@@ -1135,6 +1135,22 @@
     {
       "added_at": "2026-09-18 04:59:32",
       "album": {
+        "name": "Partycito",
+        "url": "https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk"
+      },
+      "artists": [
+        {
+          "name": "Nohaaddana",
+          "url": "https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA"
+        }
+      ],
+      "duration_ms": 153786,
+      "name": "Partycito",
+      "url": "https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl"
+    },
+    {
+      "added_at": "2026-09-18 04:59:32",
+      "album": {
         "name": "Perdiendo el Control",
         "url": "https://open.spotify.com/album/0zbDlRaEwmFqbarw0ikJ10"
       },
@@ -1167,22 +1183,6 @@
       "duration_ms": 177213,
       "name": "Regalo",
       "url": "https://open.spotify.com/track/3MXOxopceDsYngMsEpYBkN"
-    },
-    {
-      "added_at": "2026-09-18 04:59:32",
-      "album": {
-        "name": "Partycito",
-        "url": "https://open.spotify.com/album/28DHg1LteW1sdOMuJne9kk"
-      },
-      "artists": [
-        {
-          "name": "Nohaaddana",
-          "url": "https://open.spotify.com/artist/2w4vDNeEe7xccBqtBNjPcA"
-        }
-      ],
-      "duration_ms": 153786,
-      "name": "Partycito",
-      "url": "https://open.spotify.com/track/7hJMkJjzw4NcIq3pwmAbZl"
     },
     {
       "added_at": "2026-09-18 04:59:32",

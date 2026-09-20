@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Haute & Freddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,535 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,527 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 32 | [Deixa Eu Dizer](https://open.spotify.com/track/7l3r5RwxpOziX8HXiKbAkI) | [Dubdogz](https://open.spotify.com/artist/4cdyqaBREB68H77QKCrKP1), [Claudya](https://open.spotify.com/artist/1E5pLahwa4lUHQxHFlfkg5) | [Deixa Eu Dizer](https://open.spotify.com/album/7yekeamtQagX1TMgpdJ7u3) | 2:14 |
 | 33 | [I Lied, You Lied](https://open.spotify.com/track/0bDxiYRjox3caOYTlYKgDF) | [Jorja Smith](https://open.spotify.com/artist/1CoZyIx7UvdxT5c8UkMzHd) | [I Lied, You Lied](https://open.spotify.com/album/5QoH6LoBofBaurQ5TK5EYn) | 3:23 |
 | 34 | [Los Angeles](https://open.spotify.com/track/6bS1rp9GfTxDLy4oAiyHle) | [Andéol](https://open.spotify.com/artist/3lWweK5IAJrNMXazhS5oV3) | [Los Angeles](https://open.spotify.com/album/5zQKqBsuShCcKgCMe6gHnW) | 2:54 |
-| 35 | [I Want U](https://open.spotify.com/track/4K5rlQ6RVXRj6YdjnzSdTV) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [I Want U](https://open.spotify.com/album/66zinMdb5QXAXZ15bbzFpB) | 3:33 |
-| 36 | [Oublie\-Moi](https://open.spotify.com/track/7rnsq8BtFBiuELlMWQGlKS) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Oublie\-Moi](https://open.spotify.com/album/3rhRAIOOkEk15CpMQU1CYl) | 2:32 |
+| 35 | [Oublie\-Moi](https://open.spotify.com/track/7rnsq8BtFBiuELlMWQGlKS) | [Ariane Bonzini](https://open.spotify.com/artist/2usVLqamY2IRU9OWILJZWz) | [Oublie\-Moi](https://open.spotify.com/album/3rhRAIOOkEk15CpMQU1CYl) | 2:32 |
+| 36 | [I Want U](https://open.spotify.com/track/4K5rlQ6RVXRj6YdjnzSdTV) | [FKJ](https://open.spotify.com/artist/2FwDTncULUnmANIh7qKa5z), [Eryn Allen Kane](https://open.spotify.com/artist/5xI4mPixKfrCCspATqbpy3) | [I Want U](https://open.spotify.com/album/66zinMdb5QXAXZ15bbzFpB) | 3:33 |
 | 37 | [FUJIYAMA](https://open.spotify.com/track/5Q0KWNxEMQ6NFlWnHgHUUN) | [N3MS](https://open.spotify.com/artist/0bKdSFonchjcyDrS1HNy6J) | [VIVANT](https://open.spotify.com/album/1exJ03PGoiGbmM23YlO9xR) | 2:41 |
 | 38 | [le premier amour de mon premier amour](https://open.spotify.com/track/0aC2QOoK7pcjyXWq76ze8T) | [Morphée](https://open.spotify.com/artist/7mx6ZASfJykUQ0AY7HCiPh) | [le premier amour de mon premier amour](https://open.spotify.com/album/0JofKYbuB3KXDwtTpRN72y) | 2:39 |
 | 39 | [Par le vide](https://open.spotify.com/track/0YrKcqabMzNTl5IHkl2FPc) | [Dynamite Shakers](https://open.spotify.com/artist/0T6jBctjBGXqRmXI2pe0aT) | [Par le vide](https://open.spotify.com/album/3xm3u3jVfJUwSPhxMhkexw) | 3:28 |

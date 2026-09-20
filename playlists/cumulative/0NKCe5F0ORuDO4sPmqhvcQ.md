@@ -4,7 +4,7 @@
 
 > selects from music we've been listening
 
-728 songs - 1 day 16 hr 40 min
+729 songs - 1 day 16 hr 43 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -596,6 +596,7 @@
 | [Stay](https://open.spotify.com/track/1HvHz2LzxoG8FRrbWQaqqg) | [meesh](https://open.spotify.com/artist/6qEfyIMkz6rkRRhmuBTFWI) | [Stay](https://open.spotify.com/album/0BPbKYczJqVdAVZUltYFic) | 3:30 | 2022-04-08 |  |
 | [Stay \(feat\. Lyrah\)](https://open.spotify.com/track/7JCUET0Po7EzBz7PwlQf2J) | [CHROMEBODIES](https://open.spotify.com/artist/5SY7jZZAfGLD3R9FYwoYGI), [Lyrah](https://open.spotify.com/artist/5JyKQ4MQ2HkU1n1BYiKMWW) | [Stay \(feat\. Lyrah\)](https://open.spotify.com/album/3weaHHvf6IcRNNYO9O9Tff) | 2:52 | 2024-02-01 | 2025-06-07 |
 | [Stay \- Slow Magic Remix](https://open.spotify.com/track/7311fH65MZV550TYVwRfFG) | [Said The Sky](https://open.spotify.com/artist/4LZ4De2MoO3lP6QaNCfvcu), [LiL Lotus](https://open.spotify.com/artist/2RJWS2Lmkw2uExDmFMe1Ry), [Slow Magic](https://open.spotify.com/artist/3htNAy3vYWWYV8RZFeyRMT) | [Sentiment \(The Remixes\)](https://open.spotify.com/album/50LvtJUOXQqb4EVM2mij0V) | 3:55 | 2022-07-29 | 2024-08-07 |
+| [Stay With Me](https://open.spotify.com/track/0ce3j6wnI1zasUA65b0YyS) | [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl), [Eda Hinkova](https://open.spotify.com/artist/4doUjy4CUhKC3Hf0lZMTmq) | [Stay With Me](https://open.spotify.com/album/3SBxaJgLTgrhlVsVMXlvQJ) | 2:46 | 2026-09-20 |  |
 | [stereoluv](https://open.spotify.com/track/4uUmk2NZOzNOjKF82dZ4OK) | [Tsu Nami](https://open.spotify.com/artist/3jdMkaMs7875drsoUevvyu) | [stereoluv](https://open.spotify.com/album/6K62oIRD6U3XvfsWMkJTIR) | 4:34 | 2024-12-14 | 2025-09-11 |
 | [Still Friends](https://open.spotify.com/track/2xurXrmbeXZKOiND6YA5cs) | [Nightly Gatherings](https://open.spotify.com/artist/0e7vmFNTfVsnRr3Laaw4FI) | [Still Friends](https://open.spotify.com/album/6vZSPshiv7uf91yIq6hDg7) | 3:22 | 2023-01-29 | 2024-09-07 |
 | [Stop The World](https://open.spotify.com/track/6EMurB3UaCd5ybKwSh8kbI) | [Steve Aoki](https://open.spotify.com/artist/77AiFEVeAVj2ORpC85QVJs), [Marnik](https://open.spotify.com/artist/6S3KljEiIOWoLMUyZrkQUc), [Leony](https://open.spotify.com/artist/2NpPlwwDVYR5dIj0F31EcC) | [Stop The World](https://open.spotify.com/album/6FmaNoRM90E12hgKTt8eU5) | 2:59 | 2022-03-18 | 2022-03-31 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 
 > Tracks popping off in the Afro scene\. Cover: BNXN
 
-[Spotify](https://open.spotify.com/user/spotify) - 194,433 likes - 50 songs - 2 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 194,518 likes - 50 songs - 2 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,7 +42,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6036iaZ2MYP.md) - [plain]
 | 32 | [Malaise](https://open.spotify.com/track/1u80lk7PSZDRo25cQfew2t) | [Bolémvn](https://open.spotify.com/artist/0gGcw3tA1fZoF23qa8KFb7), [Bilouki](https://open.spotify.com/artist/1NB6QyaNXhrDd82y0WyG3I) | [Malaise](https://open.spotify.com/album/3hU2vbR7bG2qpRlPXsib1F) | 2:19 |
 | 33 | [HELLOW](https://open.spotify.com/track/4SflWbTGSxuuZVihqZnoKo) | [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [HELLOW](https://open.spotify.com/album/1f5syRhp4ZgXlfq737m0e2) | 2:20 |
 | 34 | [Embêtée](https://open.spotify.com/track/6ROfu4XzhHBmaxYqjCr8rY) | [Maud Elka](https://open.spotify.com/artist/2U3zSgyMqytkWn9ZmX94ZR) | [Embêtée](https://open.spotify.com/album/6Z7mJy4VsmuIFFOejFzXNs) | 1:52 |
-| 35 | [BACK 2 U](https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [BACK 2 U](https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C) | 2:42 |
+| 35 | [Back 2 U](https://open.spotify.com/track/2lhdZrEfgsTjxqjCRXSer0) | [Seyi Vibez](https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx) | [Back 2 U](https://open.spotify.com/album/6kcf7BlqJJFW62YaOsQ00C) | 2:42 |
 | 36 | [Biberon](https://open.spotify.com/track/5R8Aq8FMvOpwYfJM7m2QJ2) | [Chily](https://open.spotify.com/artist/0mnNM5o7vtxo3ivC7Tmoah), [Mauvais djo](https://open.spotify.com/artist/51OKuyM4BiiYxFm8Mi6fa9) | [Biberon](https://open.spotify.com/album/3sCaCqHePrFjGv0thq30MX) | 3:07 |
 | 37 | [BB Lifestyle](https://open.spotify.com/track/2U6SxKaCtqPV3ppj2EBb2T) | [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [SSSoundGawd](https://open.spotify.com/artist/3rCVow8RScBBIyrdceDOiw) | [BB Lifestyle](https://open.spotify.com/album/5aItozVOGdDVUIYXpyvZxE) | 3:08 |
 | 38 | [QTVOR](https://open.spotify.com/track/6RuzuuTjT01UVpwV6TAJfA) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [Leto](https://open.spotify.com/artist/6HCBnyTBSLdb3TFn2ayulY) | [QTVOR](https://open.spotify.com/album/5I7lOKsCev2Yzbr2YLlFyq) | 2:41 |

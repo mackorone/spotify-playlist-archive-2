@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;1sxp36xhSTsWgyoJTwHYTS
 
-257 songs - 13 hr 46 min
+258 songs - 13 hr 50 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -221,6 +221,7 @@
 | [Si t'es pas là](https://open.spotify.com/track/42zPCJhPE4zcogEaEuVDWJ) | [Kyara](https://open.spotify.com/artist/4WVmhdZJe3NHn0QDxkW3Ff) | [Si t'es pas là](https://open.spotify.com/album/0SZwGINwZeO0AObiDFVV4c) | 3:19 | 2024-02-26 |  |
 | [Sleepy Hollow](https://open.spotify.com/track/75lVyR5Snd1zH8PVhoA2Wy) | [SELKA](https://open.spotify.com/artist/37wnPF622kB2IIa8kmTayV), [Kilua](https://open.spotify.com/artist/6UJGmoyMwhevO9mwG3ytZN) | [SELKOZ](https://open.spotify.com/album/5368tWRSR5o9X1JuI0ZYvm) | 2:37 | 2025-03-08 |  |
 | [So Good](https://open.spotify.com/track/2qvwnQkcBCo9tYFWFnkhvw) | [Bigdata.Playlists](https://open.spotify.com/artist/76OnTty7T3vu590N4RSZ51), [TOM](https://open.spotify.com/artist/19nYaEEatlvfkQGvG7k3zt) | [So Good \- S02 EPISODE 03](https://open.spotify.com/album/5CtvRR0LBhznBITBvGTwUj) | 2:54 | 2024-02-29 |  |
+| [Solitude connectée](https://open.spotify.com/track/3J2o5tps0Ngst3K0C2syl9) | [Djeïkeï](https://open.spotify.com/artist/7iLafw9GtisYxELUXgUP4Q) | [Solitude connectée](https://open.spotify.com/album/63PR5fliqR9pEJHK96a4S5) | 3:45 | 2026-09-19 |  |
 | [Solteiro \(Na Tua Cara\)](https://open.spotify.com/track/21Zg0EGbR6WlNa0kVnq0HF) | [Marcelo Santos](https://open.spotify.com/artist/5DUXqH2QvET0Sutw98BRoZ) | [12:06](https://open.spotify.com/album/0C5Y8NfrqgUD5ayPpyK5a7) | 3:34 | 2023-12-06 |  |
 | [Sonho](https://open.spotify.com/track/4zM7IVu9p7IrB9lGqorlvj) | [Vitor Sousa](https://open.spotify.com/artist/5qLTCcUneNxThFPJMgh3yd) | [Sonho](https://open.spotify.com/album/1Nv4zgfBqTqsoCTIWLBxlT) | 3:00 | 2023-04-21 |  |
 | [Sous pression](https://open.spotify.com/track/28Gi05hzyrlY2AmWCAUuKc) | [Colossale](https://open.spotify.com/artist/1eektsWsMeBWe0icYCQj2x), [Nino Lucania](https://open.spotify.com/artist/29umQsTtyiOuoUFc2A652l) | [Fondation](https://open.spotify.com/album/0h6uFa0RZ1E0qD2SBI7TuL) | 3:41 | 2024-06-26 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is El Potro De Sinaloa. The essential tracks, all in one playlist.",
-  "num_followers": 11040,
+  "num_followers": 11041,
   "original_name": "This Is El Potro De Sinaloa",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqstgAAAAACZyajOYpk6NzzmdMQp/2zS",
+  "snapshot_id": "aqx/AAAAAAAap5SRuylbBUjJZiaaNGAU",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Hombre de Ley",
+        "url": "https://open.spotify.com/album/7ornlEGGKP9dYomBfzUggZ"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        },
+        {
+          "name": "Raul C Arredondo",
+          "url": "https://open.spotify.com/artist/7l6SaZKLeGCLVLqBZ70rvg"
+        }
+      ],
+      "duration_ms": 198832,
+      "name": "Hombre de Ley",
+      "url": "https://open.spotify.com/track/6ktLE4mGNG2qXSwTAut8jL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pa' Destapar La Hielera (En Vivo)",
         "url": "https://open.spotify.com/album/4eQuMUIzfeOCKgH6kEUhQH"
       },
@@ -491,22 +511,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "EL Maz Poderoso",
-        "url": "https://open.spotify.com/album/1rnwwEtCSZQSF0KpyZs1BW"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 187533,
-      "name": "El Poderoso",
-      "url": "https://open.spotify.com/track/3xRtsmxdpwBsczSE7ldylz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cargamento Del Diablo",
         "url": "https://open.spotify.com/album/4yjmCXgeI5q5KjFF1cSKcF"
       },
@@ -523,22 +527,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hombre de Ley",
-        "url": "https://open.spotify.com/album/7ornlEGGKP9dYomBfzUggZ"
+        "name": "EL Maz Poderoso",
+        "url": "https://open.spotify.com/album/1rnwwEtCSZQSF0KpyZs1BW"
       },
       "artists": [
         {
           "name": "El Potro De Sinaloa",
           "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        },
-        {
-          "name": "Raul C Arredondo",
-          "url": "https://open.spotify.com/artist/7l6SaZKLeGCLVLqBZ70rvg"
         }
       ],
-      "duration_ms": 198832,
-      "name": "Hombre de Ley",
-      "url": "https://open.spotify.com/track/6ktLE4mGNG2qXSwTAut8jL"
+      "duration_ms": 187533,
+      "name": "El Poderoso",
+      "url": "https://open.spotify.com/track/3xRtsmxdpwBsczSE7ldylz"
     },
     {
       "added_at": null,
@@ -731,6 +731,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Mi Estilo",
+        "url": "https://open.spotify.com/album/1bFKSkBxBKrejEWcU1wftC"
+      },
+      "artists": [
+        {
+          "name": "El Potro De Sinaloa",
+          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
+        }
+      ],
+      "duration_ms": 186803,
+      "name": "Que No Se Apague la Lumbre",
+      "url": "https://open.spotify.com/track/6k4DozOPe9mZQzs7A9Nv6l"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "En Vivo Con Banda (En Vivo)",
         "url": "https://open.spotify.com/album/2tFAiUCC5siQFRvv3SgI94"
       },
@@ -747,22 +763,6 @@
       "duration_ms": 147330,
       "name": "La Pasadita - En Vivo",
       "url": "https://open.spotify.com/track/4IIa9P1zarxAmUzNOO14aQ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Mi Estilo",
-        "url": "https://open.spotify.com/album/1bFKSkBxBKrejEWcU1wftC"
-      },
-      "artists": [
-        {
-          "name": "El Potro De Sinaloa",
-          "url": "https://open.spotify.com/artist/0ClpuCq8RAV6Np5bVpgfyN"
-        }
-      ],
-      "duration_ms": 186803,
-      "name": "Que No Se Apague la Lumbre",
-      "url": "https://open.spotify.com/track/6k4DozOPe9mZQzs7A9Nv6l"
     },
     {
       "added_at": null,

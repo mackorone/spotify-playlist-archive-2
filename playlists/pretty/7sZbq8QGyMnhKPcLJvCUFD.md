@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 
 > The best NCS songs that are copyright free and safe music for gaming, live streaming, studying\. Official playlist from NoCopyrightSounds\. Cover: Don Diablo
 
-[NCS](https://open.spotify.com/user/nocopyrightsounds) - 705,931 likes - 343 songs - 16 hr 25 min
+[NCS](https://open.spotify.com/user/nocopyrightsounds) - 705,874 likes - 343 songs - 16 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/7sZbq8QGyMnhKPcLJvCUFD.md) - [plain]
 | 5 | [Waiting](https://open.spotify.com/track/1Wn5EmILIwKsyvbwCDTTBx) | [Syn Cole](https://open.spotify.com/artist/6i1GVNJCyyssRwXmnaeEFH), [Kazhi](https://open.spotify.com/artist/5GTYEYJqmYH3VlaRRnkaWj) | [Waiting](https://open.spotify.com/album/3tp1Kc2rSItZsYhfYLxMEg) | 2:47 |
 | 6 | [Glowing](https://open.spotify.com/track/0QiGLkclHzoT8JigHj3GeZ) | [Netrum](https://open.spotify.com/artist/4X76fYx1a6EmEvCqDudesG), [Halvorsen](https://open.spotify.com/artist/4jbh1BeqqFVqqH7GACcWdH) | [Glowing](https://open.spotify.com/album/7FfqnKdoOohpV3WyRDHUfd) | 3:03 |
 | 7 | [NCS Greatest Hits Mashup](https://open.spotify.com/track/5dt0Br8UmB0k7WPxOF39Kt) | [NCS & Friends](https://open.spotify.com/artist/3sHZR8j1gqs1dq8vCGeQwi) | [NCS Greatest Hits Mashup](https://open.spotify.com/album/1br0mq9mceMN7oPyDxqGI0) | 4:57 |
-| 8 | [once more](https://open.spotify.com/track/3TVJ1NljaDpiy82pEmiD8f) | [prodBigMike](https://open.spotify.com/artist/7JOwVqYOnGJOHlyCXsbg7X), [Glitch Cat](https://open.spotify.com/artist/3zquCvGjujDQ8U53bH1ngW) | [once more](https://open.spotify.com/album/0PXeIMbaMHUbkSSpeAi9Tw) | 4:44 |
+| 8 | [once more](https://open.spotify.com/track/3TVJ1NljaDpiy82pEmiD8f) | [Glitch Cat](https://open.spotify.com/artist/3zquCvGjujDQ8U53bH1ngW), [prodBigMike](https://open.spotify.com/artist/7JOwVqYOnGJOHlyCXsbg7X) | [once more](https://open.spotify.com/album/0PXeIMbaMHUbkSSpeAi9Tw) | 4:44 |
 | 9 | [LAST TIME](https://open.spotify.com/track/0QkqW1yKmwCsSdaaI7hbtC) | [Milkoi](https://open.spotify.com/artist/1k5UEOU4igPC0NoHjEekha) | [LAST TIME](https://open.spotify.com/album/0jI3QUzIvuxH2gge3D9qTC) | 2:19 |
 | 10 | [LABELS](https://open.spotify.com/track/10QU20w7EtwdmgWty5ePIq) | [Lynxie](https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C), [Pat](https://open.spotify.com/artist/68WgJ9sAiZP6T6CIL5t5QL) | [LABELS](https://open.spotify.com/album/5fRlErO9wTjsowLapItSS0) | 2:12 |
 | 11 | [Nothing Left To Lose](https://open.spotify.com/track/3Vy1o1wCqE5G2jOHaqitXo) | [Lynxie](https://open.spotify.com/artist/61ixzqjzhlmKPa0vY6bX2C) | [Nothing Left To Lose](https://open.spotify.com/album/1Z4mOBDTjmcnudNIkRvjk1) | 2:43 |

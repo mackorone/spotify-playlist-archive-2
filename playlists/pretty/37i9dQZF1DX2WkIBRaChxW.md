@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 
 > What's happening in r&b, right now – featuring Jhené Aiko.
 
-[Spotify](https://open.spotify.com/user/spotify) - 362,295 likes - 100 songs - 5 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 362,273 likes - 100 songs - 5 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2WkIBRaChxW.md) - [plain]
 | 3 | [Plein Soleil](https://open.spotify.com/track/2jYoHERAJLmbPEzgEq3q81) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Plein Soleil](https://open.spotify.com/album/34syQNcB2yboOXhcPmN78h) | 3:25 |
 | 4 | [WONDERMAN](https://open.spotify.com/track/6vABC09vTTBOXMJRGvfVBt) | [JEDSOUL](https://open.spotify.com/artist/1d31pvQ23phSKJISEqXQLO) | [WONDERMAN](https://open.spotify.com/album/05zjvrwPwTXvfMslUDN2V9) | 4:04 |
 | 5 | [Red Eye](https://open.spotify.com/track/3tv3nu2BNrKEbD6JaDDECz) | [Jaymin](https://open.spotify.com/artist/0E75S8bHq2dxcl9WGQvn94) | [Static](https://open.spotify.com/album/4PEA7Ywknl77l6WM3DA9bP) | 3:04 |
-| 6 | [Pieces \(feat\. Lucky Daye\)](https://open.spotify.com/track/71xigYhF7fHi2GEiwwMeo6) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Pieces \(Remix\)](https://open.spotify.com/album/5wsKCPX3VqZKXzvVUaVbzZ) | 3:06 |
+| 6 | [Pieces \(+ Lucky Daye\)](https://open.spotify.com/track/71xigYhF7fHi2GEiwwMeo6) | [Leven Kali](https://open.spotify.com/artist/5YZ5AExR68U3ZblH6HcO6B), [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J) | [Pieces](https://open.spotify.com/album/5wsKCPX3VqZKXzvVUaVbzZ) | 3:06 |
 | 7 | [Fly U Out](https://open.spotify.com/track/0k9vzmg1t7dRQThq6upkVP) | [Lucky Daye](https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J), [Leon Thomas](https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb) | [Fly U Out](https://open.spotify.com/album/4dCTpzdBEnL30Crvg2bJmI) | 3:14 |
 | 8 | [Cry When I'm Alone](https://open.spotify.com/track/58bq6cxZFEmzL35rW4Ad59) | [JON VINYL](https://open.spotify.com/artist/6PvScqSJuICxvoA3UDYPmu) | [Cry When I'm Alone](https://open.spotify.com/album/3yKLkTQNKi6T6Q6KWpAbXK) | 2:47 |
 | 9 | [Just Us In The Room](https://open.spotify.com/track/5VIyXmWvIgi5QPJ8CKqgKg) | [TOBi](https://open.spotify.com/artist/0P54cVemq1DCHUfUMlWAoN) | [Just Us In The Room](https://open.spotify.com/album/2QtkSbLYwufnr1IeCfszHT) | 2:48 |

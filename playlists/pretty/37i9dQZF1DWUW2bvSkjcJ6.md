@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 
 > Neue Musik von Kontra K, Miley Cyrus, James Arthur, Sido, Shakira & vielen mehr!
 
-[Spotify](https://open.spotify.com/user/spotify) - 933,769 likes - 93 songs - 4 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 933,786 likes - 93 songs - 4 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUW2bvSkjcJ6.md) - [plain]
 | 25 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 |
 | 26 | [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 |
 | 27 | [Das Leben ist ein Arschloch](https://open.spotify.com/track/5GA62KHW9EiCGOCW7BzopV) | [Alexander Eder](https://open.spotify.com/artist/4AlPM4fME9Zlju99rXyaQE) | [Das Leben ist ein Arschloch](https://open.spotify.com/album/7yVMrBKjiJVEyxiLQrQYzx) | 2:28 |
-| 28 | [Innocent Smile](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
+| 28 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 29 | [Off](https://open.spotify.com/track/3Wj2ewc5A5Jy0nAdCwBwss) | [Sosa La M](https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC) | [Off](https://open.spotify.com/album/7l8a3chAnfA9ypZRO1hgIu) | 2:12 |
 | 30 | [No Way I'm Giving Up](https://open.spotify.com/track/35GQvyOFRohoTeb5jmYcZd) | [Neptunica](https://open.spotify.com/artist/5dGsIOepO9ufQlXjW8KrPL) | [No Way I'm Giving Up](https://open.spotify.com/album/09cwqDdGJH7Lwe3cfvjHwJ) | 2:25 |
 | 31 | [29 grad](https://open.spotify.com/track/61YEx2pliYbXovYldVHJPp) | [yung pepp](https://open.spotify.com/artist/60NJxZ8Au9I6O75u7suayR), [Florida Juicy](https://open.spotify.com/artist/3Vx6SzTg6SDWWbwXI3ky1L) | [LAUT SEIN \(IMMER\)](https://open.spotify.com/album/2bFYdtN8AhzRn6qAdZh8ur) | 2:00 |

@@ -377,6 +377,28 @@
     },
     {
       "album": {
+        "name": "Rapido",
+        "url": "https://open.spotify.com/album/4GHjuL2otqfI3tRLk7v5XF"
+      },
+      "artists": [
+        {
+          "name": "Bankzitters",
+          "url": "https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB"
+        },
+        {
+          "name": "Robert van Hemert",
+          "url": "https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167103,
+      "name": "Rapido",
+      "url": "https://open.spotify.com/track/00WZWFbf7B5uGDIdWw5OmE"
+    },
+    {
+      "album": {
         "name": "Slaaptekort",
         "url": "https://open.spotify.com/album/0ij3zgWFzKvI1qxTvg0F3b"
       },

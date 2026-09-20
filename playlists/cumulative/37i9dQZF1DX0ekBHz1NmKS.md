@@ -4,7 +4,7 @@
 
 > En samling av de bästa svenska låtarna just nu.
 
-2,369 songs - 5 day 2 hr 54 min
+2,370 songs - 5 day 2 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -701,6 +701,7 @@
 | [Full på dan](https://open.spotify.com/track/5od9GEWisg8lTv9jmQRz90) | [Annika Norlin](https://open.spotify.com/artist/5BEuyZUof5F3Nu9pjcWwD1), [Jonas Teglund](https://open.spotify.com/artist/6WrDpCXVSYSwaMv3jhgpuT) | [Full på dan](https://open.spotify.com/album/2TqVA9ey7RvSCv8V6uJoeC) | 3:37 | 2024-03-21 | 2024-05-03 |
 | [Fumbling](https://open.spotify.com/track/30gu79HBDubdcbhmUJOjIy) | [Augustine](https://open.spotify.com/artist/1esNGCDFDiy6sKEqPhlLb4) | [Fumbling](https://open.spotify.com/album/1yQnL9bEmohv6UQwiRTBko) | 3:20 | 2025-10-30 | 2026-02-13 |
 | [Funniest Thing](https://open.spotify.com/track/2750HhdibiPb7kY84SEtYX) | [Nomi Tales](https://open.spotify.com/artist/2kHbs6arBtyzIgY5l86m3K) | [Funniest Thing](https://open.spotify.com/album/65Qr7xBuGjO0x1iWicAuze) | 2:54 | 2025-02-06 | 2025-05-23 |
+| [funny feeling](https://open.spotify.com/track/4qvR1iPYj6XZKtJnpcSELd) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [funny feeling](https://open.spotify.com/album/0jDeDHlr4rJduEYTa2zKsI) | 3:14 | 2026-09-17 |  |
 | [Fyllda Av Sommar](https://open.spotify.com/track/71wPC97jGByPg8Nk6zof9S) | [Jonathan Johansson](https://open.spotify.com/artist/3i0VvjFfLzfX8TgDhgNWfe) | [Fyllda Av Sommar](https://open.spotify.com/album/2FtJL13iiO1Q0ScHVGzbo3) | 3:24 | 2025-02-14 | 2025-06-04 |
 | [Färger](https://open.spotify.com/track/3l6vQCLlMS2Ljjf8FlVOZX) | [Clara Klingenström](https://open.spotify.com/artist/3tl4Gc5RItD9lE6MJZGhLg) | [Färger](https://open.spotify.com/album/0EQWkXtKIW6AhxyfXfFJt0) | 3:16 | 2022-03-17 | 2022-07-29 |
 | [FÅ MEN SAMLAD](https://open.spotify.com/track/39HQ4ziCupqVEgxo7w6uDh) | [Hooja](https://open.spotify.com/artist/054fVwphDX8QB8Pm7IjRcL) | [FÅ MEN SAMLAD](https://open.spotify.com/album/2GWJavE5Sx53Z1EG6ZWJFL) | 2:58 | 2025-10-30 | 2026-02-13 |
@@ -1411,7 +1412,7 @@
 | [Moonshine](https://open.spotify.com/track/3r2M7ITabcpBF6ZmaQr5LL) | [Fricky](https://open.spotify.com/artist/4bZ30evEi5vMG1A3xdW8U2) | [Moonshine](https://open.spotify.com/album/1mYP0VnPraUurStDyEyRex) | 3:41 | 2021-12-16 | 2022-02-10 |
 | [Mordbrand](https://open.spotify.com/track/5wcN4IzrDi0vEEAL5etavw) | [Arvid Nero](https://open.spotify.com/artist/3f0ldp5c4bOfR1zVcaFYew) | [Mordbrand](https://open.spotify.com/album/1Qq4f6MVfVz1QG0NSvSB6D) | 3:38 | 2024-06-13 | 2024-08-16 |
 | [More Than Words](https://open.spotify.com/track/6mss39f2NvXx3IshtHqldT) | [Hearts & Colors](https://open.spotify.com/artist/3wjsrpfO6odEphTZWx45RQ) | [More Than Words](https://open.spotify.com/album/2nNSUxI7Loz154Ytgoaq1e) | 2:52 | 2021-12-16 | 2022-04-02 |
-| [More!](https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [More!](https://open.spotify.com/album/0AAhCDNL26bSYXcLnMjcaf) | 2:58 | 2026-09-10 |  |
+| [More!](https://open.spotify.com/track/0Q3xlAwtGbNhqrDvHrozHk) | [Robin Bengtsson](https://open.spotify.com/artist/1CQLPgGkfHrxNMqrXt5oWS) | [More!](https://open.spotify.com/album/0AAhCDNL26bSYXcLnMjcaf) | 2:58 | 2026-09-10 | 2026-09-20 |
 | [Morena](https://open.spotify.com/track/4RsUWrDd0Lxwt3oRehY6FW) | [Sofia Monroy](https://open.spotify.com/artist/3EdzgrCDNF4fwzSBM63Q2o) | [Morena](https://open.spotify.com/album/2Ek5tJoeZq7mqe4eoFuxmD) | 2:36 | 2025-03-28 | 2025-05-04 |
 | [Mormor](https://open.spotify.com/track/4pXXHJv54uiOlcK9XoN9NB) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Mormor](https://open.spotify.com/album/6KhdFdT5IkcD2F5YBA5lVN) | 4:00 | 2023-01-12 | 2023-03-26 |
 | [Mormor](https://open.spotify.com/track/5bBv5AEyN9Fq9tw0dCLdj3) | [Dina Ögon](https://open.spotify.com/artist/55Juru3AZOT8GrCxOaV3EI) | [Oas](https://open.spotify.com/album/4bLJmyoH2k2IQGDas2hd0c) | 4:00 | 2023-04-01 | 2023-10-20 |

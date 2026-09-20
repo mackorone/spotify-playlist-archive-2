@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 
 > Music from "Idle Master SideM"\. アTHE IDOLM@STER™& ©Bandai Namco Entertainment Inc.
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,535 likes - 75 songs - 5 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,539 likes - 75 songs - 5 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,7 +44,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2kf10b2iZ8o.md) - [plain]
 | 34 | [Sunset Colors](https://open.spotify.com/track/7ArxB3a8haA7S1TeVVFdaB) | [High×Joker](https://open.spotify.com/artist/4Qn0EFzGoSFtjE70XmB4Ec) | [THE IDOLM@STER SideM ANIMATION PROJECT 06 Sunset Colors](https://open.spotify.com/album/7s4lwo5mLV47Xd2abyT5yK) | 4:05 |
 | 35 | [スリーブレス](https://open.spotify.com/track/7ifJzLxVhVvLMUMQ0ccASA) | [FRAME](https://open.spotify.com/artist/6rlqCfcfFQ4EQlkqvzGXE0) | [THE IDOLM@STER SideM 5th ANNIVERSARY 04](https://open.spotify.com/album/5Yet8gOB7zDw4ao5hA0WNS) | 4:37 |
 | 36 | [なんどでも笑おう \- SideM Ver.](https://open.spotify.com/track/6pL3zwVUUqewu3r9uakd6H) | [315 STARS](https://open.spotify.com/artist/6Red1AKOrFqOwO9urpYmbO) | [なんどでも笑おう【SideM盤】](https://open.spotify.com/album/4LmkEChhEMiTB9HoSeEwV1) | 5:35 |
-| 37 | [Fine Day！Find Way！](https://open.spotify.com/track/1CLTmRMDS8BVK8rJXmAwZx) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43), [神速一魂](https://open.spotify.com/artist/4XqIzb0wMoHGuRN6c8Slrd), [F\-LAGS](https://open.spotify.com/artist/2hxDG36JKOWI4PrBw8pisz) | [THE IDOLM@STER SideM 5th ANNIVERSARY 02](https://open.spotify.com/album/3yx4QjiiV2HWjiP4FjXp3n) | 4:19 |
+| 37 | [DRAMATIC NONFICTION](https://open.spotify.com/track/2aZIqx5SwoqZJEhhE8ZV8r) | [DRAMATIC STARS](https://open.spotify.com/artist/2CWofGLdKLyd0wUbm5IN43) | [THE IDOLM@STER SideM ST@RTING LINE\-02 DRAMATIC STARS](https://open.spotify.com/album/0dUz5C62qxJ4wy9Ua0IWSE) | 3:51 |
 | 38 | [Yell Song](https://open.spotify.com/track/5qW0XtcObOGqgcnd5BOr3R) | [秋月 涼 \(CV.三瓶由布子\)](https://open.spotify.com/artist/1TwIAjt19YsW6wStKDfzcY) | [THE IDOLM@STER SideM 49 ELEMENTS \-10 F\-LAGS](https://open.spotify.com/album/7Aet8iBpl9L98DW9Xh1gSh) | 4:05 |
 | 39 | [ワンホール＝ワンダーランド！](https://open.spotify.com/track/2cba0vGkdNHnAm7egmIvVi) | [卯月巻緒 \(CV.児玉卓也\)](https://open.spotify.com/artist/33NFAXM9xKkQrPmFvb6omi) | [THE IDOLM@STER SideM ORIGIN@L PIECES 09](https://open.spotify.com/album/07KKDIGOJzAnjiALl1vDap) | 5:03 |
 | 40 | [Determined Soul](https://open.spotify.com/track/4mRkFvR1xxqfrdcs4eeJAJ) | [円城寺道流 \(CV.濱野大輝\)](https://open.spotify.com/artist/0SSbCy2ER4tkPjFrE4LI2R) | [THE IDOLM@STER SideM 49 ELEMENTS \-06 THE 虎牙道](https://open.spotify.com/album/6lx045j0mTaAyCzYyUF8Nz) | 3:34 |

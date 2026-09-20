@@ -4,7 +4,7 @@
 
 > Celebrating individuality within independent music
 
-509 songs - 1 day 5 hr 29 min
+510 songs - 1 day 5 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -472,6 +472,7 @@
 | [Useless](https://open.spotify.com/track/1isdRGP8dqpVLayBrlHXtg) | [strange world's end](https://open.spotify.com/artist/2MCW80Q2JBmvQARxrYI1Tb) | [Useless](https://open.spotify.com/album/5x5DH9RSBhGjkmhgnjr9ob) | 3:57 | 2026-07-15 | 2026-08-18 |
 | [Valley](https://open.spotify.com/track/7q7OzKG9tmTLkIteBE4I45) | [Bad Script](https://open.spotify.com/artist/6z0JS9G1jFH6DgwYsEZK3j), [Eisbaer](https://open.spotify.com/artist/0m7zIZso0fkCszNBALVd3G) | [Blue, Deepest Blue](https://open.spotify.com/album/33pzXi7wLOKUn1Xzn21UOm) | 6:01 | 2026-03-04 | 2026-04-16 |
 | [Velvet Afterglow](https://open.spotify.com/track/6D26KZ42Rxqqs2c8WdTs79) | [The Drixes](https://open.spotify.com/artist/5mUfd0d8uWOXIdmaRC4m0s) | [Velvet Afterglow](https://open.spotify.com/album/4wmAqexRvA4fz4If87IhhZ) | 3:53 | 2026-02-14 | 2026-04-02 |
+| [VHS GIRLS](https://open.spotify.com/track/0rIgbTzvt8vppbALJbqFfB) | [PUNKFICTION](https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC) | [VHS GIRLS](https://open.spotify.com/album/6QdupEpycZ514J6t65vLAS) | 3:32 | 2026-09-19 |  |
 | [Vice](https://open.spotify.com/track/70AH35PzCjRiWEuWdDAaSy) | [heavyskint](https://open.spotify.com/artist/70RKsp6wffaFI7Qfzct3cT) | [Vice](https://open.spotify.com/album/60K5lvn98SnukoHU80m5bl) | 4:34 | 2025-11-02 | 2026-01-15 |
 | [Vintage Heart](https://open.spotify.com/track/5hxPzu5XtGd21tsgwyJ7xs) | [MARIS BEN](https://open.spotify.com/artist/7I3i5jZW1EhGnam7NKyDt2) | [Vintage Heart](https://open.spotify.com/album/58Hm42A2HL02DUe5JGH8IE) | 3:17 | 2026-05-07 | 2026-07-24 |
 | [Vitanova](https://open.spotify.com/track/0btWnV5EiS7kzDlDbkgsTH) | [ANNAPURNA](https://open.spotify.com/artist/024P13nvZpteU80GYonzzQ) | [Vitanova](https://open.spotify.com/album/4Q974cR2eM18ZwOEDFlBDL) | 3:15 | 2026-08-28 |  |

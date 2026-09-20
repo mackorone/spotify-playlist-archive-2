@@ -1,12 +1,12 @@
 {
   "description": "A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music \ud83d\udc9c",
-  "num_followers": 60581,
+  "num_followers": 60584,
   "original_name": "Compact Cassette",
   "owner": {
     "name": "David Dean Burkhart",
     "url": "https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j"
   },
-  "snapshot_id": "AABbJ4ysVx6ZBRhILWQlR/gLlK/9Q7qP",
+  "snapshot_id": "AABbMk3rPNLpkGKTDOQnVWIXTnwyW68v",
   "tracks": [
     {
       "added_at": "2026-09-15 07:13:50",
@@ -135,6 +135,22 @@
       "duration_ms": 198306,
       "name": "Get Out Of My Life",
       "url": "https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE"
+    },
+    {
+      "added_at": "2026-09-15 07:13:50",
+      "album": {
+        "name": "Antenna",
+        "url": "https://open.spotify.com/album/6w6MOXDyTOEjXYheasQk5v"
+      },
+      "artists": [
+        {
+          "name": "O Slow",
+          "url": "https://open.spotify.com/artist/0ijd9yK1L498sGUvOmv4KA"
+        }
+      ],
+      "duration_ms": 193368,
+      "name": "Tonight (HOLD ME)",
+      "url": "https://open.spotify.com/track/74PZYc3hn4Kcdoj8mcTt2H"
     },
     {
       "added_at": "2026-09-15 07:13:50",
@@ -3827,6 +3843,22 @@
     {
       "added_at": "2026-09-15 07:13:50",
       "album": {
+        "name": "Dream for Me",
+        "url": "https://open.spotify.com/album/7BexAR1gg3Cf52ud4OdjBx"
+      },
+      "artists": [
+        {
+          "name": "ANGLES",
+          "url": "https://open.spotify.com/artist/2QJfVOXOXAOXKUFh1DndYO"
+        }
+      ],
+      "duration_ms": 207130,
+      "name": "Sundry",
+      "url": "https://open.spotify.com/track/3WbZ8YqkxXZTmFrUbdf4uk"
+    },
+    {
+      "added_at": "2026-09-15 07:13:50",
+      "album": {
         "name": "I Do",
         "url": "https://open.spotify.com/album/6Uy5eLUXujyyFr3JbJsp2n"
       },
@@ -3843,66 +3875,18 @@
     {
       "added_at": "2026-09-15 07:13:50",
       "album": {
-        "name": "EP3",
-        "url": "https://open.spotify.com/album/2zK2twIQM5kznyWwQGBwoQ"
+        "name": "Perfect Model Of Disaster",
+        "url": "https://open.spotify.com/album/5Gv4fQdTeqB0Esc1HrWaAI"
       },
       "artists": [
         {
-          "name": "Loser Demon",
-          "url": "https://open.spotify.com/artist/1czfkK3HZtDrEtD5OnAYd4"
+          "name": "Ella Jet",
+          "url": "https://open.spotify.com/artist/5Da40BDIjroQTOoo02ev9X"
         }
       ],
-      "duration_ms": 135913,
-      "name": "Expensive Speech",
-      "url": "https://open.spotify.com/track/25TLD1BkrVnMqUhAybteOF"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
-        "name": "EP3",
-        "url": "https://open.spotify.com/album/2zK2twIQM5kznyWwQGBwoQ"
-      },
-      "artists": [
-        {
-          "name": "Loser Demon",
-          "url": "https://open.spotify.com/artist/1czfkK3HZtDrEtD5OnAYd4"
-        }
-      ],
-      "duration_ms": 283195,
-      "name": "The Conveyor",
-      "url": "https://open.spotify.com/track/0NaCM9zvgdZxRYSSMCP40H"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
-        "name": "Party school",
-        "url": "https://open.spotify.com/album/624Jx4Gpwn7f1yyyizuc6t"
-      },
-      "artists": [
-        {
-          "name": "moodlighting",
-          "url": "https://open.spotify.com/artist/2qGwN2jb47P1yqktESNh8e"
-        }
-      ],
-      "duration_ms": 169000,
-      "name": "Hotline B-E-E-F",
-      "url": "https://open.spotify.com/track/0IgdLPF2Z3D3YKIhnUvMG6"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
-        "name": "Party school",
-        "url": "https://open.spotify.com/album/624Jx4Gpwn7f1yyyizuc6t"
-      },
-      "artists": [
-        {
-          "name": "moodlighting",
-          "url": "https://open.spotify.com/artist/2qGwN2jb47P1yqktESNh8e"
-        }
-      ],
-      "duration_ms": 180000,
-      "name": "Kevin knows I'm miserable now",
-      "url": "https://open.spotify.com/track/7dJkXvX7COs5rpvktfJjXi"
+      "duration_ms": 141875,
+      "name": "guess this is goodbye",
+      "url": "https://open.spotify.com/track/7phbOlut1OTXthU5cX2VaT"
     },
     {
       "added_at": "2026-09-15 07:13:50",
@@ -3943,34 +3927,66 @@
     {
       "added_at": "2026-09-15 07:13:50",
       "album": {
-        "name": "Perfect Model Of Disaster",
-        "url": "https://open.spotify.com/album/5Gv4fQdTeqB0Esc1HrWaAI"
+        "name": "Party school",
+        "url": "https://open.spotify.com/album/624Jx4Gpwn7f1yyyizuc6t"
       },
       "artists": [
         {
-          "name": "Ella Jet",
-          "url": "https://open.spotify.com/artist/5Da40BDIjroQTOoo02ev9X"
+          "name": "moodlighting",
+          "url": "https://open.spotify.com/artist/2qGwN2jb47P1yqktESNh8e"
         }
       ],
-      "duration_ms": 141875,
-      "name": "guess this is goodbye",
-      "url": "https://open.spotify.com/track/7phbOlut1OTXthU5cX2VaT"
+      "duration_ms": 180000,
+      "name": "Kevin knows I'm miserable now",
+      "url": "https://open.spotify.com/track/7dJkXvX7COs5rpvktfJjXi"
     },
     {
       "added_at": "2026-09-15 07:13:50",
       "album": {
-        "name": "Dream for Me",
-        "url": "https://open.spotify.com/album/7BexAR1gg3Cf52ud4OdjBx"
+        "name": "EP3",
+        "url": "https://open.spotify.com/album/2zK2twIQM5kznyWwQGBwoQ"
       },
       "artists": [
         {
-          "name": "ANGLES",
-          "url": "https://open.spotify.com/artist/2QJfVOXOXAOXKUFh1DndYO"
+          "name": "Loser Demon",
+          "url": "https://open.spotify.com/artist/1czfkK3HZtDrEtD5OnAYd4"
         }
       ],
-      "duration_ms": 207130,
-      "name": "Sundry",
-      "url": "https://open.spotify.com/track/3WbZ8YqkxXZTmFrUbdf4uk"
+      "duration_ms": 135913,
+      "name": "Expensive Speech",
+      "url": "https://open.spotify.com/track/25TLD1BkrVnMqUhAybteOF"
+    },
+    {
+      "added_at": "2026-09-15 07:13:50",
+      "album": {
+        "name": "Party school",
+        "url": "https://open.spotify.com/album/624Jx4Gpwn7f1yyyizuc6t"
+      },
+      "artists": [
+        {
+          "name": "moodlighting",
+          "url": "https://open.spotify.com/artist/2qGwN2jb47P1yqktESNh8e"
+        }
+      ],
+      "duration_ms": 169000,
+      "name": "Hotline B-E-E-F",
+      "url": "https://open.spotify.com/track/0IgdLPF2Z3D3YKIhnUvMG6"
+    },
+    {
+      "added_at": "2026-09-15 07:13:50",
+      "album": {
+        "name": "EP3",
+        "url": "https://open.spotify.com/album/2zK2twIQM5kznyWwQGBwoQ"
+      },
+      "artists": [
+        {
+          "name": "Loser Demon",
+          "url": "https://open.spotify.com/artist/1czfkK3HZtDrEtD5OnAYd4"
+        }
+      ],
+      "duration_ms": 283195,
+      "name": "The Conveyor",
+      "url": "https://open.spotify.com/track/0NaCM9zvgdZxRYSSMCP40H"
     },
     {
       "added_at": "2026-09-15 07:13:50",
@@ -4131,22 +4147,6 @@
       "duration_ms": 122877,
       "name": "wo sao ni",
       "url": "https://open.spotify.com/track/6mQ9t3pGmAxFyqkMs8qKXp"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
-        "name": "Before Game Changer, I Broke Free from the Chains of the Love Song",
-        "url": "https://open.spotify.com/album/376W5ErCKwzSrMLiLY7W3z"
-      },
-      "artists": [
-        {
-          "name": "plainhead",
-          "url": "https://open.spotify.com/artist/7pc3VOBHqWhvMw5IW3GFPs"
-        }
-      ],
-      "duration_ms": 182819,
-      "name": "My Skull, Your Bones",
-      "url": "https://open.spotify.com/track/3CwcZsnUjQIUmDbLX1BI1k"
     },
     {
       "added_at": "2026-09-15 07:13:50",
@@ -4335,6 +4335,22 @@
     {
       "added_at": "2026-09-15 07:13:50",
       "album": {
+        "name": "Before Game Changer, I Broke Free from the Chains of the Love Song",
+        "url": "https://open.spotify.com/album/376W5ErCKwzSrMLiLY7W3z"
+      },
+      "artists": [
+        {
+          "name": "plainhead",
+          "url": "https://open.spotify.com/artist/7pc3VOBHqWhvMw5IW3GFPs"
+        }
+      ],
+      "duration_ms": 182819,
+      "name": "My Skull, Your Bones",
+      "url": "https://open.spotify.com/track/3CwcZsnUjQIUmDbLX1BI1k"
+    },
+    {
+      "added_at": "2026-09-15 07:13:50",
+      "album": {
         "name": "Nostalgia",
         "url": "https://open.spotify.com/album/6zMPBKV0ypDn7pE4nJ2YKU"
       },
@@ -4443,22 +4459,6 @@
       "duration_ms": 168000,
       "name": "Without me",
       "url": "https://open.spotify.com/track/4MtIIJJTct7sajaYYBvFwL"
-    },
-    {
-      "added_at": "2026-09-15 07:13:50",
-      "album": {
-        "name": "Antenna",
-        "url": "https://open.spotify.com/album/6w6MOXDyTOEjXYheasQk5v"
-      },
-      "artists": [
-        {
-          "name": "O Slow",
-          "url": "https://open.spotify.com/artist/0ijd9yK1L498sGUvOmv4KA"
-        }
-      ],
-      "duration_ms": 193368,
-      "name": "Tonight (HOLD ME)",
-      "url": "https://open.spotify.com/track/74PZYc3hn4Kcdoj8mcTt2H"
     },
     {
       "added_at": "2026-09-15 07:13:50",

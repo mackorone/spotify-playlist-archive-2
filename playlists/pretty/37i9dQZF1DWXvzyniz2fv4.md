@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 
 > Pôr do sol com pé na areia e aquela resenha com violão e muita rima.
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,112 likes - 60 songs - 2 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,103 likes - 60 songs - 2 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXvzyniz2fv4.md) - [plain]
 | 15 | [Tom Cinza](https://open.spotify.com/track/0MXJUujqsue1TZpNsc7lnq) | [Crônicas de um Babaca](https://open.spotify.com/artist/72ee6oTbXukPvwM6BOhVUV), [brandu](https://open.spotify.com/artist/4b60qd5W1wYRQ94acEugv0) | [Tom Cinza](https://open.spotify.com/album/0eLyfqhf9aO3lXXhkmEUb6) | 3:02 |
 | 16 | [O Agora é Nosso](https://open.spotify.com/track/6lFNaYEKcS3KtwKOSWpFuS) | [Kako](https://open.spotify.com/artist/5InVWl8IZB8zFAoNa5roKm) | [OCANV \(Cap\. II\)](https://open.spotify.com/album/4MXCC1YWrntuViiFWApNAc) | 3:49 |
 | 17 | [Até o Final](https://open.spotify.com/track/688hyNXeh5JnbRc7tkxmGw) | [Caio Luccas](https://open.spotify.com/artist/1a3fr7NdeBT4JlGj6YlbDL), [Dallass](https://open.spotify.com/artist/4LAFtDzlQM89xov636hMVv), [Caíque](https://open.spotify.com/artist/47M3rIswjgdqWCiCZc4Wx1), [NADAMAL](https://open.spotify.com/artist/3YVxmhkewoRHu8WFgWlCb7) | [Até o Final](https://open.spotify.com/album/7JkPXfrHRDk8LA4hSeRoZ5) | 2:24 |
-| 18 | [A Casa É Tua](https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q) | [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc) | [A Casa É Tua](https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG) | 3:18 |
-| 19 | [Só Você](https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU) | [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Só Você](https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X) | 2:13 |
+| 18 | [Só Você](https://open.spotify.com/track/5Q9syxX74CVGr7QVD0OjTU) | [DONATTO](https://open.spotify.com/artist/60Weneae5YHv3X6F3pyZkQ) | [Só Você](https://open.spotify.com/album/3YEj5RWK9A7mBr7tAMrw5X) | 2:13 |
+| 19 | [A Casa É Tua](https://open.spotify.com/track/1Tbw36Nl3NzY0xVsokaV1Q) | [Pedro Qualy](https://open.spotify.com/artist/4AfTjKLguMiMYaGIS7sBJp), [CJota](https://open.spotify.com/artist/5qvphJwi72TG198xn5VVYH), [Blood Beatz](https://open.spotify.com/artist/5MGHzEwXZ13izki8gsjrFc) | [A Casa É Tua](https://open.spotify.com/album/5CcBTXf82yYrTeBhPPZfLG) | 3:18 |
 | 20 | [Ver o Mar](https://open.spotify.com/track/1doW8i9pJlLb0wndZtT1RZ) | [UCHA](https://open.spotify.com/artist/589IsjyJaYkZyhNIJRNK3c), [Niina](https://open.spotify.com/artist/45YF7LLMa3GpWSHYifDJDa), [Pk](https://open.spotify.com/artist/5xYkM2vMrE23taj6tl7qkm), [Sonora Sessions](https://open.spotify.com/artist/2SmVpn0TqIghCNuc4lDeqb) | [Ver o Mar](https://open.spotify.com/album/1kNv2xQt9IUQAYYxUyPETs) | 3:07 |
 | 21 | [De Longe\. \- Acústico](https://open.spotify.com/track/1RSdTzKm5vE3ELZPwbTbuQ) | [Haikaiss](https://open.spotify.com/artist/53iGNetIf91uZx4Jb54cgb) | [De Longe\. \(Acústico\)](https://open.spotify.com/album/5NvT1OChf8aYyglBqfsptk) | 3:26 |
 | 22 | [sintetizar](https://open.spotify.com/track/3w6ET1iXZsZYSAjZSBzI1X) | [sazack](https://open.spotify.com/artist/6Xvmre2lrs6Rl0IdJlmVz1), [Enzo Cello](https://open.spotify.com/artist/5d6V3NZSeR7XZmEkf8inaU), [Nolly](https://open.spotify.com/artist/0AyG67rFODHB8963eyG0tT), [Matt](https://open.spotify.com/artist/4l1lw74M2WiTks3caXBtl9) | [cinco noites em sp](https://open.spotify.com/album/0sZO7iuUguHSdaPrGYmKAm) | 2:26 |

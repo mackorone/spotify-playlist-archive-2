@@ -4,7 +4,7 @@
 
 > ¡Aqui están todas las esenciales Tropicales de adoración!
 
-240 songs - 14 hr 30 min
+241 songs - 14 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -19,7 +19,7 @@
 | [Agua Viva](https://open.spotify.com/track/57QsDbFcH7Md73qWnpUeuc) | [Unified Sound](https://open.spotify.com/artist/6Y0QlQ95DbxecMvOq4KhXf), [Abraham Velazquez](https://open.spotify.com/artist/5RFxDCs8wl2GNVve5FemDu) | [Agua Viva](https://open.spotify.com/album/07qYY30VHBfIzrmcPHhinF) | 3:21 | 2025-07-25 |  |
 | [AGUABIBA](https://open.spotify.com/track/6kEFRyxnDJtCFCtMA2BLAY) | [Nate Diaz](https://open.spotify.com/artist/7DhqbylsLWouIf4LYo2XqN) | [AGUABIBA](https://open.spotify.com/album/6mf5ADpzwUHQ9dWSAGW1pd) | 3:00 | 2026-09-14 |  |
 | [Aguacero](https://open.spotify.com/track/6S44kKuIGObYm0jvGpUaQW) | [Barajas](https://open.spotify.com/artist/0oaW8w858ZIyAnhDIskEqw), [GAWVI](https://open.spotify.com/artist/0oPd8f0W82Tgrazx2PYNab) | [LUNARIO](https://open.spotify.com/album/1QEegFpH0aL5mbGSSGEYBC) | 4:27 | 2025-10-24 |  |
-| [Al ritmo del Espíritu de Dios](https://open.spotify.com/track/5ZT3qvf2KcmBrxMbOR0OtA) | [Pablo Cifuentes](https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt) | [Al ritmo del Espíritu de Dios](https://open.spotify.com/album/4hzynhzd2QNuf221J1dKXj) | 3:39 | 2025-07-25 |  |
+| [Al ritmo del Espíritu de Dios](https://open.spotify.com/track/5ZT3qvf2KcmBrxMbOR0OtA) | [Pablo Cifuentes](https://open.spotify.com/artist/0e3gPGSlQZEcsaohevhUMt) | [Al ritmo del Espíritu de Dios](https://open.spotify.com/album/4hzynhzd2QNuf221J1dKXj) | 3:39 | 2025-07-25 | 2026-09-20 |
 | [Al Taller del Maestro](https://open.spotify.com/track/54CynAndjIh7EPZgbtrTDs) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Al Taller Del Maestro](https://open.spotify.com/album/7rHmQdyQkVqyt7w2HmRRM4) | 5:12 | 2020-11-24 | 2022-11-11 |
 | [Al Taller del Maestro](https://open.spotify.com/track/5OX1HvUXMIgUg507al1WbW) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Al Taller del Maestro](https://open.spotify.com/album/5zA0BCRlgbhR7bBbDcrQsi) | 5:12 | 2020-11-24 | 2024-04-19 |
 | [Al Taller del Maestro](https://open.spotify.com/track/7kJa3VuFpzlbzqHh0Jd54L) | [Alex Campos](https://open.spotify.com/artist/6slyJwua5e5GuhuP82sTHR) | [Al Taller del Maestro](https://open.spotify.com/album/4u6CuWNHKdv07TnoTQ2aE1) | 5:12 | 2020-11-24 | 2024-07-19 |
@@ -71,6 +71,7 @@
 | [Dios nos amó](https://open.spotify.com/track/46nG55qxILEKoEigxYOMis) | [Sion Nación Santa](https://open.spotify.com/artist/18n57MJEZA9cqdZVYQr1db) | [Dios nos amó](https://open.spotify.com/album/4LVemL7KUplqZu3QEIJaKK) | 2:31 | 2026-06-26 |  |
 | [Dios Te Bendiga](https://open.spotify.com/track/3Gp0u24pOoYTFkq0bgwmus) | [Willy Rodriguez](https://open.spotify.com/artist/0VBFGsz0HzSy5g5cWdHBYH) | [Dios Te Bendiga](https://open.spotify.com/album/0AT18CmqEiwIfPCMVDECDw) | 3:52 | 2020-11-24 | 2024-04-19 |
 | [Dios Te Bendiga](https://open.spotify.com/track/6waMZni4HkrCDSXmrAhI3N) | [Willy Rodríguez](https://open.spotify.com/artist/1nwqmVoGXHGiQ5oH8uyVZr) | [Dios Te Bendiga](https://open.spotify.com/album/4Em7QdQKljK0UbChRwlAHk) | 3:52 | 2020-11-24 | 2026-04-26 |
+| [Donde Sea](https://open.spotify.com/track/4Kryd7zf5qRwSx8yx3S4O3) | [Yore](https://open.spotify.com/artist/6vBxQQKQFsW9PtLxFUOGPa), [Samuel Troc](https://open.spotify.com/artist/27ulglTuwRXeQsKTNbUVe8) | [Donde Sea](https://open.spotify.com/album/5lIGGVvLnCq4gYu2SupAaM) | 2:33 | 2026-09-19 |  |
 | [Echó A La Mar Los Carros Del Faraón](https://open.spotify.com/track/1jm1I2fv53f1xH3DFTYR2D) | [Altar Vivo](https://open.spotify.com/artist/0KWLKDSGdlJhOfd0Wkb2mr) | [Echó A La Mar Los Carros Del Faraón](https://open.spotify.com/album/5OJF5gjJmi6RhI0YnqQBuU) | 2:19 | 2026-01-23 | 2026-08-10 |
 | [El Culto Está Bueno](https://open.spotify.com/track/6sg6nNjFlr9v1dcRlthbGE) | [Giovanni Rios](https://open.spotify.com/artist/5bJbyAOugvWGdfwZ2Yzptl) | [Historia](https://open.spotify.com/album/2wBNUXXpdNns2ReHXr0Vvx) | 4:35 | 2024-07-19 | 2025-09-27 |
 | [El Gozo que tengo yo](https://open.spotify.com/track/233VjBHAD4cEbofjT7sGOn) | [Unción Tropical](https://open.spotify.com/artist/3njugp9u10UHI45KO2Fxo5) | [Salta en el Río](https://open.spotify.com/album/4fFKMQPNdoy20rmx5jkAwa) | 4:08 | 2024-07-19 | 2026-04-26 |

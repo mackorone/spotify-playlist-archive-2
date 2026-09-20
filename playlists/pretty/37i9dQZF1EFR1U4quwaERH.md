@@ -62,8 +62,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 52 | [Special](https://open.spotify.com/track/7fbTqRCqyNVguCbUDGUGzG) | [Quincy](https://open.spotify.com/artist/19dpHprxtijzCuWbrtmGrL), [Ryan Destiny](https://open.spotify.com/artist/5bKtvYqfmflyEKp2FhPXwf) | [Special](https://open.spotify.com/album/1svkjtosqPMrU78xbCf0MM) | 3:38 |
 | 53 | [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/track/5gliitoCPCUpUxQXII2NvA) | [Nora Fatehi](https://open.spotify.com/artist/76jfMJlfNPQsOBblO0ZaEA), [Shenseea](https://open.spotify.com/artist/1OFOShsIbhy1l5x73yuVyB) | [What Do I Know? \(Just A Girl\) \[feat\. Shenseea\]](https://open.spotify.com/album/17fU8owfXWqY0mlURQoLgE) | 2:29 |
 | 54 | [Enough](https://open.spotify.com/track/69t1HCs16EDsBuso21e2cT) | [Mary J\. Blige](https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr) | [Good Morning Gorgeous](https://open.spotify.com/album/0vUPpxeQjTDxcvV86y6G18) | 3:05 |
-| 55 | [Wasn’t Ready](https://open.spotify.com/track/0fwFnGs8ltloJxUKY0Eh6Y) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:03 |
-| 56 | [Was It Ever Love](https://open.spotify.com/track/2dUWA1UqoapADqbnUkdhRJ) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:14 |
+| 55 | [Was It Ever Love](https://open.spotify.com/track/2dUWA1UqoapADqbnUkdhRJ) | [Naomi Sharon](https://open.spotify.com/artist/27WVFBOddxovimxMmBN4fb) | [No Sleep In Paradise](https://open.spotify.com/album/1P85Y6niCUJ0ZQyIoRMaHg) | 3:14 |
+| 56 | [Wasn’t Ready](https://open.spotify.com/track/0fwFnGs8ltloJxUKY0Eh6Y) | [TNX](https://open.spotify.com/artist/0DRiXmEOc6dJ6Rug3xi4HZ) | [Love Never Dies](https://open.spotify.com/album/0r8x30PzZEBtxJsLpwHHwL) | 3:03 |
 | 57 | [3AM](https://open.spotify.com/track/3gVaJZPl0fLaPeky7mwMlS) | [Honey Bxby](https://open.spotify.com/artist/4a0B39qi5Ks6KCPz0KptTO), [Toosii](https://open.spotify.com/artist/6BH1xcDkwbbyrLMUKECsW1) | [3AM](https://open.spotify.com/album/4kh79ZG95W2tzswDQjh9VR) | 2:25 |
 | 58 | [I Know](https://open.spotify.com/track/3lboRjzlrZ8tFxR0y59Yny) | [KEY](https://open.spotify.com/artist/6XXKPxRX2WWPPtfodzpc2v) | [Pleasure Shop \- The 3rd Mini Album](https://open.spotify.com/album/5yLDGn4Nj4fuqayUZqOp8J) | 3:25 |
 | 59 | [Skeletons](https://open.spotify.com/track/5xlw9nAcMfmGNl26HbClOD) | [BluPrint](https://open.spotify.com/artist/3ufrJzxv3ezPKyauNpxPaZ) | [BluPrint](https://open.spotify.com/album/2WCYdF2ttKW61kTrQwvg64) | 3:45 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 105 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 106 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `AccqxgAAAAC+DNinJ8Qj7BZcgYQgeSrQ`
+Snapshot ID: `AccwZgAAAAAcX5ns2yqyt2ul3GkeJsxy`

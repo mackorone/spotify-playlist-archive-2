@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 
 > De la douceur pour accompagner votre journée\. 🍁
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,513 likes - 100 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,521 likes - 100 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,9 +67,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 57 | [L'île à vingt\-cinq sous](https://open.spotify.com/track/02HOfaxe6KpIqrnLFdHhYc) | [Thierry Larose](https://open.spotify.com/artist/3yg2vJlvkadhe8wLeLlzxt) | [Cantalou](https://open.spotify.com/album/7lwqLBU7E94RuXQGCpiUSd) | 3:35 |
 | 58 | [Tu reviendras](https://open.spotify.com/track/12gXcmZ9t34G00dJ7CpIOV) | [The Franklin Electric](https://open.spotify.com/artist/6LLYwvo2N1nDcUvyw9XPGN) | [Tu reviendras](https://open.spotify.com/album/4wbzD2Rwwpf98OLzBXrzgw) | 2:14 |
 | 59 | [Pleasure](https://open.spotify.com/track/1pJ2Mcvx3RqVuGjxA6uYBL) | [Julyan](https://open.spotify.com/artist/10ifu6MiIcrhdrUEWJsACG) | [Future Lovers](https://open.spotify.com/album/3znvdMuFzXDXqW7Hk2QQWX) | 3:09 |
-| 60 | [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 |
-| 61 | [Dog \(everybody learns\)](https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [Dog \(everybody learns\)](https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP) | 3:13 |
-| 62 | [pas de vagues](https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n) | 3:04 |
+| 60 | [pas de vagues](https://open.spotify.com/track/0y1pVhmNGGcg9UmuFOEPwq) | [Maddie Bay](https://open.spotify.com/artist/5l9YeES7fYai24xXRFeKgd) | [fin pm](https://open.spotify.com/album/0qtv5fblW30hAg2dOgv84n) | 3:04 |
+| 61 | [figure it out](https://open.spotify.com/track/0F9hf8q3JsF3TTqUR1S4dW) | [dee holt](https://open.spotify.com/artist/4PGmuxahHxpeLAGrR6ygKL) | [figure it out](https://open.spotify.com/album/0RHMZ8XKiK0kmYVeT4yInl) | 2:51 |
+| 62 | [Dog \(everybody learns\)](https://open.spotify.com/track/0aQ7qATPeO0gixsNa3hE2Q) | [Avril Jensen](https://open.spotify.com/artist/5V9RpFO4rgqQ1P5ZLbMVqA) | [Dog \(everybody learns\)](https://open.spotify.com/album/0Iv6SYVClQZFosOykS8jhP) | 3:13 |
 | 63 | [TABLE DU FOND](https://open.spotify.com/track/1jadj1wZaSp72gWTkja6Zj) | [Marc\-Antoine Delage](https://open.spotify.com/artist/51ywYwMSUJbdqPOhJieySS) | [TABLE DU FOND](https://open.spotify.com/album/69a7gHfHrsoJZnn1gmNK82) | 2:37 |
 | 64 | [Tu trembleras encore](https://open.spotify.com/track/2lo2Sv1jLOp7aNhGvgt6qQ) | [Maude Audet](https://open.spotify.com/artist/4cevhLjv2nMVIOpUnS23n5) | [Tu ne mourras pas](https://open.spotify.com/album/0EurJWfHMVyIeQ4oEKYeS1) | 3:21 |
 | 65 | [Bigger Pieces](https://open.spotify.com/track/6oSMF3TrouX3TNO6NZbRhG) | [Helena Deland](https://open.spotify.com/artist/0BJeP79i5wKgCqsEEiQ7G0) | [Altogether Unaccompanied, Vol\. V](https://open.spotify.com/album/2SN8wIw7CUrCdY5RNLWQUT) | 5:05 |
@@ -99,14 +99,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcgNXUHsZlwX.md) - [plain]
 | 89 | [Snow Lake](https://open.spotify.com/track/0lULvza49oUyDVfcFTWqYn) | [Daniel Lanois](https://open.spotify.com/artist/5S0AJvE9NB1kGrXRfYh690) | [Belladonna Nocturne](https://open.spotify.com/album/0MKmxWSoSEQoG5VoSyN633) | 1:27 |
 | 90 | [betterside](https://open.spotify.com/track/6Nmsvya50LmZqQCZgZYkyS) | [em & I](https://open.spotify.com/artist/0dgwHMDyg6vFYX4qJ8CmGb) | [betterside](https://open.spotify.com/album/50whUMBlSVu5RbwYKJDB7s) | 2:01 |
 | 91 | [Ariane](https://open.spotify.com/track/2RjHBgGaZmQsHMa5qSay79) | [Lou\-Adriane Cassidy](https://open.spotify.com/artist/1M8BgMq8VcOlovA92xpxKt), [Ariane Roy](https://open.spotify.com/artist/1MDlZmN8IgqV4AYZChlWPM) | [Journal d'un Loup\-Garou](https://open.spotify.com/album/4Pdbon5Z4a3VdJyMgiZyMM) | 3:13 |
-| 92 | [Mercy Street](https://open.spotify.com/track/0XL9JM8tWkiu0XofYYqpmU) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [REPRISES](https://open.spotify.com/album/15JvasDJEX8HHFcTA9b3zT) | 4:22 |
-| 93 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 |
-| 94 | [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 |
+| 92 | [Le goût des mangues](https://open.spotify.com/track/4y73XAWi1oNwHVr8mcgm7D) | [Klô Pelgag](https://open.spotify.com/artist/7vYe47XsRmlUuaA9ZSC9fi) | [Le goût des mangues](https://open.spotify.com/album/312IdNUk3AsO5wS3gKSwEK) | 2:12 |
+| 93 | [Régate](https://open.spotify.com/track/4BBLpqkp9eVQS2Ra5MdI6u) | [Mathieu David Gagnon](https://open.spotify.com/artist/4cGEOcEeLrZdOBxVMugZyR), [Flore Laurentienne](https://open.spotify.com/artist/05ElmDRcpwbAIRmLqRw1Bv) | [Régate](https://open.spotify.com/album/0yoKESYqc1kYjvQULklAUk) | 4:44 |
+| 94 | [Mercy Street](https://open.spotify.com/track/0XL9JM8tWkiu0XofYYqpmU) | [Beyries](https://open.spotify.com/artist/3OiQ1K5uuHHAjM9yd3Y0rn), [Joe Grass](https://open.spotify.com/artist/6WSA0zU18B65jo2QDo58Uv) | [REPRISES](https://open.spotify.com/album/15JvasDJEX8HHFcTA9b3zT) | 4:22 |
 | 95 | [Éthanol](https://open.spotify.com/track/22gFa2IL8z4I6TnSoyGeNe) | [Charlie Juste](https://open.spotify.com/artist/7BoaqqGTdMqAjwzHf3U7Pd) | [Velours et Acide](https://open.spotify.com/album/4WIAf9PKlvUfI0DoSD2Mjy) | 3:35 |
 | 96 | [L'été indien de ta vie](https://open.spotify.com/track/4PTfPO12EmNNR4eXPweff2) | [Étienne Coppée](https://open.spotify.com/artist/5q1Yjaan0oCtdJsZ9pTtjp) | [L'été indien de ta vie](https://open.spotify.com/album/41qVpKMTc00dRH1aLTn5IM) | 3:58 |
 | 97 | [2 goélands](https://open.spotify.com/track/2FQ3gf8fk67DdDgXEdfgmv) | [Marie Céleste](https://open.spotify.com/artist/6CSL6Sb3kje1JRJPFTrPQQ) | [2 goélands](https://open.spotify.com/album/7L12QeyV06gZhadVSI64Zf) | 2:58 |
-| 98 | [SHouLd I sMiLe?](https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz) | [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [sMiLes](https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ) | 2:54 |
-| 99 | [Les vagues](https://open.spotify.com/track/1bahlqlm8z6G0L1fIyQ2w6) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Baignade au centre du fleuve](https://open.spotify.com/album/7t3tXpp9Y7nxRsGV6zPTqr) | 3:55 |
+| 98 | [Les vagues](https://open.spotify.com/track/1bahlqlm8z6G0L1fIyQ2w6) | [Antoine Corriveau](https://open.spotify.com/artist/2tX8NpOL2NjLZ1AqRDxQak) | [Baignade au centre du fleuve](https://open.spotify.com/album/7t3tXpp9Y7nxRsGV6zPTqr) | 3:55 |
+| 99 | [SHouLd I sMiLe?](https://open.spotify.com/track/343Vbk8eNtuA8BHSg3OkVz) | [Jowee Omicil](https://open.spotify.com/artist/0uLoiIx5FHquutLKMM93bY), [Dominique Fils\-Aimé](https://open.spotify.com/artist/10tvYvaoSO32hlvu3NrrPC) | [sMiLes](https://open.spotify.com/album/3i5gmczfdLFefHHOJFzDCJ) | 2:54 |
 | 100 | [Solitudes](https://open.spotify.com/track/7IjR9x7qM8WFVKYXcZX7PR) | [Matt Holubowski](https://open.spotify.com/artist/384YLF1kNQk9Ccl8pn7BSO) | [Solitudes](https://open.spotify.com/album/0q7qInfdzXEaJxQt1YNvvi) | 4:08 |
 
 Snapshot ID: `AAAAAIrvFdjUVbEst34QO90gq1AE2vfa`

@@ -1,6 +1,6 @@
 {
   "description": "Zeit f\u00fcr Kastanienm\u00e4nnchen, Laternenlieder und K\u00fcrbis schnitzen. ",
-  "num_followers": 61947,
+  "num_followers": 61970,
   "original_name": "Familienzeit: Herbst",
   "owner": {
     "name": "Spotify",
@@ -751,6 +751,22 @@
     {
       "added_at": "2026-09-17 22:00:52",
       "album": {
+        "name": "Ab auf die Reise",
+        "url": "https://open.spotify.com/album/6jzvkjk1BmzWrLfmnttUYe"
+      },
+      "artists": [
+        {
+          "name": "Fidibus",
+          "url": "https://open.spotify.com/artist/3CYRhdvIbbOTYYqnQXOZiQ"
+        }
+      ],
+      "duration_ms": 153240,
+      "name": "Herbstwind",
+      "url": "https://open.spotify.com/track/2J5jWCJN3a657QROqTdPSc"
+    },
+    {
+      "added_at": "2026-09-17 22:00:52",
+      "album": {
         "name": "Giraffenaffen 6",
         "url": "https://open.spotify.com/album/4tKopKYEuPMRgidTB1c8RS"
       },
@@ -771,22 +787,6 @@
     {
       "added_at": "2026-09-17 22:00:52",
       "album": {
-        "name": "Ab auf die Reise",
-        "url": "https://open.spotify.com/album/6jzvkjk1BmzWrLfmnttUYe"
-      },
-      "artists": [
-        {
-          "name": "Fidibus",
-          "url": "https://open.spotify.com/artist/3CYRhdvIbbOTYYqnQXOZiQ"
-        }
-      ],
-      "duration_ms": 153240,
-      "name": "Herbstwind",
-      "url": "https://open.spotify.com/track/2J5jWCJN3a657QROqTdPSc"
-    },
-    {
-      "added_at": "2026-09-17 22:00:52",
-      "album": {
         "name": "Kinderlieder f\u00fcr den Herbst - EP",
         "url": "https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo"
       },
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
         }
       ],
-      "duration_ms": 109514,
-      "name": "Der Herbst ist da",
-      "url": "https://open.spotify.com/track/4RNzUmThhz8m9ERjPuUIV6"
+      "duration_ms": 127714,
+      "name": "Herbst",
+      "url": "https://open.spotify.com/track/2aaJ1w7phiLtSXJRseS96K"
     },
     {
       "added_at": "2026-09-17 22:00:52",
@@ -855,6 +855,38 @@
     {
       "added_at": "2026-09-17 22:00:52",
       "album": {
+        "name": "Der Herbst ist cool!",
+        "url": "https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q"
+      },
+      "artists": [
+        {
+          "name": "Familie Sonntag",
+          "url": "https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR"
+        }
+      ],
+      "duration_ms": 206693,
+      "name": "Wunderbar, der Herbst ist da",
+      "url": "https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor"
+    },
+    {
+      "added_at": "2026-09-17 22:00:52",
+      "album": {
+        "name": "Kinderlieder f\u00fcr den Herbst - EP",
+        "url": "https://open.spotify.com/album/5nvuA0ySxLrO6pZtLudSPo"
+      },
+      "artists": [
+        {
+          "name": "LiederTiger",
+          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
+        }
+      ],
+      "duration_ms": 109514,
+      "name": "Der Herbst ist da",
+      "url": "https://open.spotify.com/track/4RNzUmThhz8m9ERjPuUIV6"
+    },
+    {
+      "added_at": "2026-09-17 22:00:52",
+      "album": {
         "name": "Unter meinem Bett 7",
         "url": "https://open.spotify.com/album/5Q8R9IdUfGHGD36XvqkMIy"
       },
@@ -871,38 +903,6 @@
       "duration_ms": 220173,
       "name": "Drachenwind",
       "url": "https://open.spotify.com/track/67vOXepMNB0ZDQlnANzsr5"
-    },
-    {
-      "added_at": "2026-09-17 22:00:52",
-      "album": {
-        "name": "Meine Lieblingskinderlieder f\u00fcr den Herbst",
-        "url": "https://open.spotify.com/album/45vTBMcPkMDB0vJ06PRJxF"
-      },
-      "artists": [
-        {
-          "name": "LiederTiger",
-          "url": "https://open.spotify.com/artist/0IONm6X452z32t8YECr2Zt"
-        }
-      ],
-      "duration_ms": 167704,
-      "name": "Die K\u00fcrbisfamilie",
-      "url": "https://open.spotify.com/track/4U1hPQsPnTePxMcgc0jSP4"
-    },
-    {
-      "added_at": "2026-09-17 22:00:52",
-      "album": {
-        "name": "Der Herbst ist cool!",
-        "url": "https://open.spotify.com/album/5Z1pFR01dBUYVzHUymzF2Q"
-      },
-      "artists": [
-        {
-          "name": "Familie Sonntag",
-          "url": "https://open.spotify.com/artist/34rlWZv8uNVp6YbXJyHLoR"
-        }
-      ],
-      "duration_ms": 206693,
-      "name": "Wunderbar, der Herbst ist da",
-      "url": "https://open.spotify.com/track/4jLyTZ2sNyG3VTGE3CUBor"
     },
     {
       "added_at": "2026-09-17 22:00:52",

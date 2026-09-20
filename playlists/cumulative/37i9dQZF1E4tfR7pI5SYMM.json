@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, David Von Beahm, Roderiko Pop and more",
+  "description": "With MIK's Reaction, Roderiko Pop, David Von Beahm and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -320,7 +320,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-24",
+      "date_removed": null,
       "duration_ms": 200950,
       "name": "Actors",
       "url": "https://open.spotify.com/track/2pynZ1PXTL00ClGi6Vhbps"
@@ -1330,7 +1330,7 @@
       ],
       "date_added": "2026-02-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 240000,
       "name": "Beyond the Mirrors",
       "url": "https://open.spotify.com/track/5kl6kB7l36sDkOfestcW0e"
@@ -2079,6 +2079,24 @@
     },
     {
       "album": {
+        "name": "Casa Roso",
+        "url": "https://open.spotify.com/album/0ry2RbU1naSAJlmU2n2xkn"
+      },
+      "artists": [
+        {
+          "name": "Viva Los Villains",
+          "url": "https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226500,
+      "name": "Casa Roso",
+      "url": "https://open.spotify.com/track/7CZfz8qrIn4saLU03GHhmq"
+    },
+    {
+      "album": {
         "name": "Black Smoke",
         "url": "https://open.spotify.com/album/3XnOuYd6ePzO6Np9r4XLpZ"
       },
@@ -2144,7 +2162,7 @@
       ],
       "date_added": "2026-02-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 255518,
       "name": "Change to Come",
       "url": "https://open.spotify.com/track/6aNZDp42UUWGGJZLVRy4Ja"
@@ -3788,7 +3806,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-13",
+      "date_removed": null,
       "duration_ms": 214000,
       "name": "Dreams Aren't Enough - Live at Paradiso",
       "url": "https://open.spotify.com/track/6zNQZSpxBsTJbBk8kjIBqA"
@@ -5684,7 +5702,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 231232,
       "name": "Fuzz Days",
       "url": "https://open.spotify.com/track/3vGTXbl5WjHG0XH2fZEV60"
@@ -6670,6 +6688,24 @@
       "duration_ms": 249560,
       "name": "Hothouse Flowers",
       "url": "https://open.spotify.com/track/22NbzS5eeEyWilq9HH1DoL"
+    },
+    {
+      "album": {
+        "name": "The best years of our lives",
+        "url": "https://open.spotify.com/album/5MjWYM80Po46wsR3KAYn7y"
+      },
+      "artists": [
+        {
+          "name": "NEWLAND",
+          "url": "https://open.spotify.com/artist/0wd0IMPw9u3JpUoqgbhK7W"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181190,
+      "name": "Hours (Last Waltz)",
+      "url": "https://open.spotify.com/track/3Q2fQ6hwP2E3wTJD6cV8al"
     },
     {
       "album": {
@@ -9838,7 +9874,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 187118,
       "name": "Moscow Idaho - GSCX Version",
       "url": "https://open.spotify.com/track/6f8lwYFmqxYHYhklisBMPl"
@@ -10993,6 +11029,24 @@
     },
     {
       "album": {
+        "name": "Oklahoma Red Dirt Grit",
+        "url": "https://open.spotify.com/album/48YJRq2cGB5IgbZRvwDtvI"
+      },
+      "artists": [
+        {
+          "name": "JoDan Music",
+          "url": "https://open.spotify.com/artist/6m8qSiowfAno1xu27cw65H"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 236138,
+      "name": "Oklahoma Red Dirt Grit",
+      "url": "https://open.spotify.com/track/0HujyqDMtirQMNWkcUKmPz"
+    },
+    {
+      "album": {
         "name": "Hard-Ons/Jerry A",
         "url": "https://open.spotify.com/album/6njrFn3tt4A17FUqGhYzVL"
       },
@@ -11444,7 +11498,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-26",
+      "date_removed": null,
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -13022,7 +13076,7 @@
       ],
       "date_added": "2026-01-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 164829,
       "name": "Shadows of Tomorrow",
       "url": "https://open.spotify.com/track/6QIGBSPAtC2Bg6Ccl72TZy"
@@ -13526,7 +13580,7 @@
       ],
       "date_added": "2026-09-09",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 229908,
       "name": "SOLITUDE",
       "url": "https://open.spotify.com/track/2DHP0zUJf2YqWQWSBG2hpB"
@@ -15116,7 +15170,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 266000,
       "name": "The Labyrinth",
       "url": "https://open.spotify.com/track/0dZXSaT4CAE5oK70gOcIrg"
@@ -15940,6 +15994,24 @@
       "duration_ms": 206083,
       "name": "Time",
       "url": "https://open.spotify.com/track/67dBdEclgI36iWZmd9YjRU"
+    },
+    {
+      "album": {
+        "name": "Time After Time",
+        "url": "https://open.spotify.com/album/2YH5Fe3wFak7TxO6QMgX4x"
+      },
+      "artists": [
+        {
+          "name": "Call Me T",
+          "url": "https://open.spotify.com/artist/23H6nhAuaXfnfLg2JHzXpF"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 188000,
+      "name": "Time After Time",
+      "url": "https://open.spotify.com/track/4wHpvOL7XRllKNxsOCHwH3"
     },
     {
       "album": {
@@ -17092,7 +17164,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 121973,
       "name": "V\u00e6rstev\u00e6nna",
       "url": "https://open.spotify.com/track/4PoNlPin3j1eXYFbJ8P4sV"
@@ -18206,7 +18278,7 @@
       ],
       "date_added": "2026-04-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 190128,
       "name": "Your Voice",
       "url": "https://open.spotify.com/track/5IxEX1Y98L9087btcAQ6n0"

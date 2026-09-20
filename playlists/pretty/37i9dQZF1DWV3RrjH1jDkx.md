@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 
 > Endelig fredag og ny musikk fra Zimmermann, Ingrid Vårvik, ULD og mange fler!! ♥️
 
-[Spotify](https://open.spotify.com/user/spotify) - 204,252 likes - 101 songs - 5 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 204,247 likes - 101 songs - 5 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -26,7 +26,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 16 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 |
 | 17 | [AGUA](https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9) | [Maluma](https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau), [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp) | [AGUA](https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF) | 3:11 |
 | 18 | [Lærte Koden \(feat\. Chirag\)](https://open.spotify.com/track/4NgMeLpOM0tl7oPXRfZffb) | [Tøyen Holding](https://open.spotify.com/artist/1eBRyqqCktp7j1J0O8PFgt), [Chirag](https://open.spotify.com/artist/1Xfv0o1xU7jH7M9QYod7rj) | [Tøyen Holding 4 Ever](https://open.spotify.com/album/6GGaoVuHkjEu30EmCxoQke) | 3:40 |
-| 19 | [Innocent Smile](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
+| 19 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 20 | [Feeling](https://open.spotify.com/track/3lL5wyXmzyU3aXSs4ndFwK) | [V\. Christie](https://open.spotify.com/artist/63sAE1NYTAlj2Oi77mMDmm) | [Feeling](https://open.spotify.com/album/2jY6eYuoOyrEwU9yDHLpsv) | 3:36 |
 | 21 | [PUT IT DOWN](https://open.spotify.com/track/5wcAWDCFimDmXzQVVxeW3U) | [Kaoroo](https://open.spotify.com/artist/3CvCpt8lUeZRf1OnYs252b) | [PUT IT DOWN](https://open.spotify.com/album/1sWB9hWZlQ1XKo8MQEifdJ) | 2:09 |
 | 22 | [How Love’s Supposed to Feel](https://open.spotify.com/track/32dvZRmuTmsIPlAw3bCEAk) | [Kristian Kristensen](https://open.spotify.com/artist/75ZTlOo6olxm9thcXVh6Ta) | [Love Freely](https://open.spotify.com/album/1V0cNxts85DS7hmWmkRnBa) | 4:07 |
@@ -79,7 +79,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWV3RrjH1jDkx.md) - [plain]
 | 69 | [Bubble Treasure](https://open.spotify.com/track/3rSIlr1dFubbFvuFs8HqMo) | [Toxe](https://open.spotify.com/artist/30peMqLlbR5jf0qe1MmLlk) | [Bubble Treasure](https://open.spotify.com/album/2Np10xTQlbyO23QDEMaZzk) | 2:35 |
 | 70 | [Agapi mou](https://open.spotify.com/track/5IpdjcnT6ZstuYawFxpo2U) | [Rebecca Bangfield](https://open.spotify.com/artist/1xPMsPZNvSHAhw5wzYApho) | [Agapi mou](https://open.spotify.com/album/6YE8F4bzE5NK1UAUnWIWDE) | 3:33 |
 | 71 | [Faller For Deg](https://open.spotify.com/track/63FeJ3rmgppDXtibH34dWv) | [SABOTASJE](https://open.spotify.com/artist/3BtajrNDbu4LMX21mhyhJQ), [EMMY](https://open.spotify.com/artist/4rrI3dKjmTOzRZvOwOWOlu) | [Faller For Deg](https://open.spotify.com/album/6Qcu3NUuKOu2sXOtFwfpcz) | 3:00 |
-| 72 | [Gitt For Mye \(feat\. Jonas Benyoub\)](https://open.spotify.com/track/10LOEGzvWvuGiCMDXutb0q) | [M4](https://open.spotify.com/artist/0bqmtof2t8iOEZxZXeqSib), [Spacewave](https://open.spotify.com/artist/03h3gjHBkUp7VK8cAg4Nul), [Jonas Benyoub](https://open.spotify.com/artist/13FLfwjYGlKjGG2bqiRxdU) | [Bak Masken](https://open.spotify.com/album/4x21EyQTGK4fZ1uauTelYY) | 2:57 |
+| 72 | [Gitt For Mye](https://open.spotify.com/track/10LOEGzvWvuGiCMDXutb0q) | [M4](https://open.spotify.com/artist/0bqmtof2t8iOEZxZXeqSib), [Spacewave](https://open.spotify.com/artist/03h3gjHBkUp7VK8cAg4Nul) | [Bak Masken](https://open.spotify.com/album/4x21EyQTGK4fZ1uauTelYY) | 2:55 |
 | 73 | [GARGANTUAN!!](https://open.spotify.com/track/7gCGEmplLzjjV0rG2YbLfZ) | [MNEK](https://open.spotify.com/artist/7uMh23xWiuR7zsNkuNcm2G) | [BULLDOZER!!](https://open.spotify.com/album/0ob10johhogCNiWerZeWkj) | 3:30 |
 | 74 | [Boudica 2027](https://open.spotify.com/track/4HhilYs89njrgoForXazOz) | [Studavigå](https://open.spotify.com/artist/4dReOlQZoHTfnk2608Gwf6) | [Boudica 2027](https://open.spotify.com/album/2PagY3iRoDCq18Ley4eSLP) | 2:11 |
 | 75 | [Ingen Plan B](https://open.spotify.com/track/5u7yK3lgOaumWlmr8zg6fE) | [Blåsemafian](https://open.spotify.com/artist/1RQaTNChwekPJrzDttGzT2), [SkoleJam](https://open.spotify.com/artist/1HOvkO2Gq1UCmgPh6l48JV) | [Ingen Plan B](https://open.spotify.com/album/47tteK7f8DFVc5blkBWoBj) | 3:32 |

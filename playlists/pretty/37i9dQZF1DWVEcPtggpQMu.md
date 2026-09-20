@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVEcPtggpQMu.md) - [plain]
 
 > Only the hottest South African rap\. <br/>Cover: Espiquet
 
-[Spotify](https://open.spotify.com/user/spotify) - 119,493 likes - 100 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 119,518 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Ntshepe](https://open.spotify.com/track/25oFbWJ1CJgni4cwxdlrlO) | [Rush\-Awa](https://open.spotify.com/artist/19EhZztnQppJEafanhneB2), [MashBeatz](https://open.spotify.com/artist/4NJo7JbXHgcLiitBFtWras), [DJ Sliqe](https://open.spotify.com/artist/1q4Av58diNwZtD01vPUoH5), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS), [Cassper Nyovest](https://open.spotify.com/artist/18CJ8k3h2Rggioow01dlwP), [Sjava](https://open.spotify.com/artist/4RfOLIFy2xEmlWzXEVmLJn) | [Ntshepe](https://open.spotify.com/album/0yYmum40cf7H41YxnKTws1) | 5:01 |
 | 2 | [M.O.T.N](https://open.spotify.com/track/5Axtt0pMhaiRJUOZ4XrilB) | [Blue Pappi](https://open.spotify.com/artist/3s08T4PFTVRjVPwgkhNq6D) | [M.O.T.N](https://open.spotify.com/album/2KBkBY31L2HNoCTgTdFJjV) | 3:28 |
-| 3 | [ROLLIN WITH KKM](https://open.spotify.com/track/4ma1SzOrdTuRKFvf6nxxqW) | [Espiquet](https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz), [Hopemasta](https://open.spotify.com/artist/0kQkV3QVVUBH9wBq3KGfWZ), [Mondo Dusk](https://open.spotify.com/artist/2lwEumHi1vmWoPcKJiKNuJ), [SuperCye](https://open.spotify.com/artist/2CpDiyZe7RLNgxRWkHVQYt) | [Good Friday](https://open.spotify.com/album/1GvNC8UJqGzZ83TZf2YXDz) | 2:57 |
+| 3 | [ROLLIN WITH KKM](https://open.spotify.com/track/4ma1SzOrdTuRKFvf6nxxqW) | [Espiquet](https://open.spotify.com/artist/7JnVA6sPhYeTpLoWd5DvTz), [Hopemasta](https://open.spotify.com/artist/4wLFRcNByEpb1Gv9wGMpAR), [Mondo Dusk](https://open.spotify.com/artist/4FjBDxb0p9Qol1Kkrxx01e), [SuperCye](https://open.spotify.com/artist/2CpDiyZe7RLNgxRWkHVQYt) | [Good Friday](https://open.spotify.com/album/1GvNC8UJqGzZ83TZf2YXDz) | 2:57 |
 | 4 | [7Colours](https://open.spotify.com/track/3fk9lFLHsJYD9kJv7ifdO1) | [ZuluMecca](https://open.spotify.com/artist/0NP68X3OIbbv98djUruUKU), [Priddy Ugly](https://open.spotify.com/artist/04bckYvJEXGoKmBWW9leSz), [Loatinover Pounds](https://open.spotify.com/artist/5umZ6PgOsDmgJQFcYmAiNS) | [7Colours](https://open.spotify.com/album/20xuL3D0vXZtucPFmdmp48) | 3:29 |
 | 5 | [LOSE \(feat\. Blxckie\)](https://open.spotify.com/track/2JEruUwIW42mlwiogSfBFF) | [NOTBENJAMIN](https://open.spotify.com/artist/303bUa4VDUe6fAPIM5vzvN), [Blxckie](https://open.spotify.com/artist/4pQcWzOMSmmz5DK6TqO2FL) | [720 & BEYOND](https://open.spotify.com/album/6DQpq7sFjYqKYgeSSg7jSn) | 2:40 |
 | 6 | [Abenam](https://open.spotify.com/track/5erc478EVAkYMaypqGPKuU) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [Orish](https://open.spotify.com/artist/3OyqEFF59dNAYg90KTw2qi) | [uMgaranto II](https://open.spotify.com/album/3MPGQlxeVYWhV3R2tHQYkd) | 2:33 |

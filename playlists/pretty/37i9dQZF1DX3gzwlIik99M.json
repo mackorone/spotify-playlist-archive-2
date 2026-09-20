@@ -1,6 +1,6 @@
 {
   "description": "Metal hecho en Iberoam\u00e9rica. Bandas que ya conoces y que est\u00e1s a punto de conocer. Foto: Sepultura",
-  "num_followers": 200817,
+  "num_followers": 200797,
   "original_name": "Metal del Nuestro",
   "owner": {
     "name": "Spotify",
@@ -663,6 +663,22 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
+        "name": "Satanico-Dramatico",
+        "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
+      },
+      "artists": [
+        {
+          "name": "Dia De Los Muertos",
+          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
+        }
+      ],
+      "duration_ms": 71000,
+      "name": "Sigo Siendo El Rey",
+      "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
+    },
+    {
+      "added_at": "2025-09-18 22:01:59",
+      "album": {
         "name": "Khafra",
         "url": "https://open.spotify.com/album/57ahaslQPdMhhiXqzSVjsO"
       },
@@ -691,22 +707,6 @@
       "duration_ms": 312447,
       "name": "Residentes Olvidados",
       "url": "https://open.spotify.com/track/6XkM2s8SyhPEL2BYpFRh5P"
-    },
-    {
-      "added_at": "2025-09-18 22:01:59",
-      "album": {
-        "name": "Satanico-Dramatico",
-        "url": "https://open.spotify.com/album/2PqCK6IT8XfxqbezpgEmBv"
-      },
-      "artists": [
-        {
-          "name": "Dia De Los Muertos",
-          "url": "https://open.spotify.com/artist/0zfiIAZ9Pe1zyVz0NLshqD"
-        }
-      ],
-      "duration_ms": 71000,
-      "name": "Sigo Siendo El Rey",
-      "url": "https://open.spotify.com/track/1AFJELZeaTThbCeiGdgJhJ"
     },
     {
       "added_at": "2025-09-18 22:01:59",
@@ -807,18 +807,18 @@
     {
       "added_at": "2025-09-18 22:01:59",
       "album": {
-        "name": "Radix Nebul\u00e6",
-        "url": "https://open.spotify.com/album/5mIVWC2ZAcehl7Gv02jXzX"
+        "name": "Deceitful Idols",
+        "url": "https://open.spotify.com/album/4qBeMQFxxHVqL8MThlr0iw"
       },
       "artists": [
         {
-          "name": "SYRACUS\u00c6",
-          "url": "https://open.spotify.com/artist/3s5NSrjy5sXASsWsm55iPy"
+          "name": "Anima Tempo",
+          "url": "https://open.spotify.com/artist/6lBAIZGZ3aHv3eS53wOPF5"
         }
       ],
-      "duration_ms": 241333,
-      "name": "Exoplanets",
-      "url": "https://open.spotify.com/track/0XGjcnZsOeAcNILNBlo27t"
+      "duration_ms": 331013,
+      "name": "Deceitful Idols",
+      "url": "https://open.spotify.com/track/3sday56iSsKePe8emJf9Gz"
     }
   ],
   "unique_name": "Metal del Nuestro",

@@ -82425,6 +82425,24 @@
     },
     {
       "album": {
+        "name": "V\u00f4 de Japa",
+        "url": "https://open.spotify.com/album/1byoXzVxy7BqvmhxUOIizp"
+      },
+      "artists": [
+        {
+          "name": "Pataperros",
+          "url": "https://open.spotify.com/artist/1nDx9sKh2gqaWkmSwUX7jm"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 103426,
+      "name": "V\u00f4 de Japa",
+      "url": "https://open.spotify.com/track/6dq4fEMi8xQM27EIqLYOFJ"
+    },
+    {
+      "album": {
         "name": "W La Libert\u00e0",
         "url": "https://open.spotify.com/album/4U9i957rLYj4UyeJs1YjK4"
       },

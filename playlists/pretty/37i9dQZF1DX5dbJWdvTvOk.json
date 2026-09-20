@@ -1,6 +1,6 @@
 {
   "description": "Canciones instrumentales de guitarra.",
-  "num_followers": 136590,
+  "num_followers": 136589,
   "original_name": "Guitarra Tranquila",
   "owner": {
     "name": "Spotify",
@@ -715,22 +715,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Glimpse",
-        "url": "https://open.spotify.com/album/4ycgH8iKucO8G8BeGxq0CR"
-      },
-      "artists": [
-        {
-          "name": "F. Garling",
-          "url": "https://open.spotify.com/artist/6972NR2aw4LViqsAjMZAhq"
-        }
-      ],
-      "duration_ms": 125125,
-      "name": "Glimpse",
-      "url": "https://open.spotify.com/track/0i6mGt3eqBkVYJ1qfTQOFd"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Lento",
         "url": "https://open.spotify.com/album/7d7LdZLRTgvHEHXTHdFQ88"
       },
@@ -743,6 +727,22 @@
       "duration_ms": 120967,
       "name": "Lento",
       "url": "https://open.spotify.com/track/0gpSLKKUeEeD5QxpxJDrMP"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Glimpse",
+        "url": "https://open.spotify.com/album/4ycgH8iKucO8G8BeGxq0CR"
+      },
+      "artists": [
+        {
+          "name": "F. Garling",
+          "url": "https://open.spotify.com/artist/6972NR2aw4LViqsAjMZAhq"
+        }
+      ],
+      "duration_ms": 125125,
+      "name": "Glimpse",
+      "url": "https://open.spotify.com/track/0i6mGt3eqBkVYJ1qfTQOFd"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -923,22 +923,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Compelling Voice",
-        "url": "https://open.spotify.com/album/4Ieb0qbrj9v18DW9lHlNir"
-      },
-      "artists": [
-        {
-          "name": "Oma Holt",
-          "url": "https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY"
-        }
-      ],
-      "duration_ms": 135948,
-      "name": "Compelling Voice",
-      "url": "https://open.spotify.com/track/26aHSPwNdXTeFe3o9dOFgZ"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Morning flight",
         "url": "https://open.spotify.com/album/7DpdN294vUmSSPI9EEkv3Q"
       },
@@ -951,6 +935,22 @@
       "duration_ms": 138000,
       "name": "Morning flight",
       "url": "https://open.spotify.com/track/6cCJDEcjnMC88bJWpfkGIz"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Compelling Voice",
+        "url": "https://open.spotify.com/album/4Ieb0qbrj9v18DW9lHlNir"
+      },
+      "artists": [
+        {
+          "name": "Oma Holt",
+          "url": "https://open.spotify.com/artist/39DIKdqf5qn0trLhTPBNPY"
+        }
+      ],
+      "duration_ms": 135948,
+      "name": "Compelling Voice",
+      "url": "https://open.spotify.com/track/26aHSPwNdXTeFe3o9dOFgZ"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -1019,22 +1019,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Waiting Depths",
-        "url": "https://open.spotify.com/album/2egvprKnSn8OpCbDq7OUNp"
-      },
-      "artists": [
-        {
-          "name": "Timothy Reiger",
-          "url": "https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3"
-        }
-      ],
-      "duration_ms": 156798,
-      "name": "Waiting Depths",
-      "url": "https://open.spotify.com/track/1yLVHyuohiMwMonGN4CwmA"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Quartzite",
         "url": "https://open.spotify.com/album/2cnYYDd1dtIFhSc0gJUyAi"
       },
@@ -1047,6 +1031,22 @@
       "duration_ms": 125142,
       "name": "Quartzite",
       "url": "https://open.spotify.com/track/7ApVbA2DWxftyUApfSB5Qq"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Waiting Depths",
+        "url": "https://open.spotify.com/album/2egvprKnSn8OpCbDq7OUNp"
+      },
+      "artists": [
+        {
+          "name": "Timothy Reiger",
+          "url": "https://open.spotify.com/artist/2gJCO2wkZJeVALM0a9PpV3"
+        }
+      ],
+      "duration_ms": 156798,
+      "name": "Waiting Depths",
+      "url": "https://open.spotify.com/track/1yLVHyuohiMwMonGN4CwmA"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -2555,22 +2555,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Me And You",
-        "url": "https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu"
-      },
-      "artists": [
-        {
-          "name": "Duncan Bowie",
-          "url": "https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm"
-        }
-      ],
-      "duration_ms": 152576,
-      "name": "Me And You",
-      "url": "https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Kenmore",
         "url": "https://open.spotify.com/album/1mMxcoGF5nnH8dsecanu0B"
       },
@@ -2603,18 +2587,18 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Lima",
-        "url": "https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks"
+        "name": "Me And You",
+        "url": "https://open.spotify.com/album/4IllAL0UmuPn1qGw2fqlBu"
       },
       "artists": [
         {
-          "name": "Kim Rodgers",
-          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
+          "name": "Duncan Bowie",
+          "url": "https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm"
         }
       ],
-      "duration_ms": 182643,
-      "name": "Lima",
-      "url": "https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP"
+      "duration_ms": 152576,
+      "name": "Me And You",
+      "url": "https://open.spotify.com/track/72mj6r1TJ5nVbhFp7l9Ss9"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -2635,18 +2619,18 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Montes Claros",
-        "url": "https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8"
+        "name": "Lima",
+        "url": "https://open.spotify.com/album/2hvzHcFgaOuYrcNtj6Noks"
       },
       "artists": [
         {
-          "name": "Adeben",
-          "url": "https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg"
+          "name": "Kim Rodgers",
+          "url": "https://open.spotify.com/artist/0FCH53d9OEyXLQeWb6ZYrQ"
         }
       ],
-      "duration_ms": 165149,
-      "name": "Montes Claros",
-      "url": "https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi"
+      "duration_ms": 182643,
+      "name": "Lima",
+      "url": "https://open.spotify.com/track/6qph8rFqnbC7bUOfbmkOYP"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -2663,6 +2647,22 @@
       "duration_ms": 156370,
       "name": "Raspberry Flavor",
       "url": "https://open.spotify.com/track/6tF6HFVA95mi7l17KCFAih"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Montes Claros",
+        "url": "https://open.spotify.com/album/4xouEO0NJWhJswiV2Qofy8"
+      },
+      "artists": [
+        {
+          "name": "Adeben",
+          "url": "https://open.spotify.com/artist/5cSY1JVvW3EoDFLfjuEBkg"
+        }
+      ],
+      "duration_ms": 165149,
+      "name": "Montes Claros",
+      "url": "https://open.spotify.com/track/2DwZFuh7xnuEDvNwz4mAMi"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -2987,22 +2987,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Meliora",
-        "url": "https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR"
-      },
-      "artists": [
-        {
-          "name": "Vita Alexander",
-          "url": "https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz"
-        }
-      ],
-      "duration_ms": 141991,
-      "name": "Meliora",
-      "url": "https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Little Brook",
         "url": "https://open.spotify.com/album/4LFmxQ7oxYlsVgITnOa2SX"
       },
@@ -3015,6 +2999,22 @@
       "duration_ms": 142750,
       "name": "Little Brook",
       "url": "https://open.spotify.com/track/7qNq3sxKEdzYWvxLSLkj0J"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Meliora",
+        "url": "https://open.spotify.com/album/0ez2YoSEOUJJOgHDlprSxR"
+      },
+      "artists": [
+        {
+          "name": "Vita Alexander",
+          "url": "https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz"
+        }
+      ],
+      "duration_ms": 141991,
+      "name": "Meliora",
+      "url": "https://open.spotify.com/track/5Rcadz15kuvonMLJ6Oc8OF"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3067,22 +3067,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Think Of Me",
-        "url": "https://open.spotify.com/album/1wqOvsGdOGypGsgiMnb0HO"
-      },
-      "artists": [
-        {
-          "name": "Damien Adams",
-          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
-        }
-      ],
-      "duration_ms": 161951,
-      "name": "Think Of Me",
-      "url": "https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Finally Home",
         "url": "https://open.spotify.com/album/0SV6oxYQCM2AnaAWrPhjpn"
       },
@@ -3095,6 +3079,22 @@
       "duration_ms": 144217,
       "name": "Finally Home",
       "url": "https://open.spotify.com/track/1Qy7Uz4avfS6W295hIV5pH"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Think Of Me",
+        "url": "https://open.spotify.com/album/1wqOvsGdOGypGsgiMnb0HO"
+      },
+      "artists": [
+        {
+          "name": "Damien Adams",
+          "url": "https://open.spotify.com/artist/6owt3MMviloRYiDK8LDNMg"
+        }
+      ],
+      "duration_ms": 161951,
+      "name": "Think Of Me",
+      "url": "https://open.spotify.com/track/68UbEFh8VhJqTUfDeIOvtx"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3163,22 +3163,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "First Summer",
-        "url": "https://open.spotify.com/album/6iPLLciakfCdwUj7KReQZJ"
-      },
-      "artists": [
-        {
-          "name": "Laura Di Vaio",
-          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
-        }
-      ],
-      "duration_ms": 182655,
-      "name": "First Summer",
-      "url": "https://open.spotify.com/track/5CN8PwywMgClQGFVARHVLa"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Pula",
         "url": "https://open.spotify.com/album/2BwpxMCDdu29bukyVGNCwi"
       },
@@ -3191,6 +3175,22 @@
       "duration_ms": 181258,
       "name": "Pula",
       "url": "https://open.spotify.com/track/47vqZMWpeufV6u5XuwebuV"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "First Summer",
+        "url": "https://open.spotify.com/album/6iPLLciakfCdwUj7KReQZJ"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "duration_ms": 182655,
+      "name": "First Summer",
+      "url": "https://open.spotify.com/track/5CN8PwywMgClQGFVARHVLa"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3211,22 +3211,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Now's Not The Time",
-        "url": "https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt"
-      },
-      "artists": [
-        {
-          "name": "Gabriel Sellier",
-          "url": "https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ"
-        }
-      ],
-      "duration_ms": 178611,
-      "name": "Now's Not The Time",
-      "url": "https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Beyond Any Doubt",
         "url": "https://open.spotify.com/album/7fapRWAW0Gi5HWxspy0yC5"
       },
@@ -3239,6 +3223,22 @@
       "duration_ms": 168305,
       "name": "Beyond Any Doubt",
       "url": "https://open.spotify.com/track/0hKUf6QOZ9IPA8tMnghi51"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Now's Not The Time",
+        "url": "https://open.spotify.com/album/1WaKJvnkORcs3oIvRErCBt"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Sellier",
+          "url": "https://open.spotify.com/artist/68bFmMmumjz0ig4CCNeoLZ"
+        }
+      ],
+      "duration_ms": 178611,
+      "name": "Now's Not The Time",
+      "url": "https://open.spotify.com/track/1DC5UfKYnUeMTQaKscS46L"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3387,22 +3387,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Cusco",
-        "url": "https://open.spotify.com/album/0Ukzxi8OgRqJJ1BP0wkTki"
-      },
-      "artists": [
-        {
-          "name": "Ned Regan",
-          "url": "https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y"
-        }
-      ],
-      "duration_ms": 162166,
-      "name": "Cusco",
-      "url": "https://open.spotify.com/track/70t5pC4WbitgORnAfV79Ej"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Poesia",
         "url": "https://open.spotify.com/album/5cOQkSQH87sWJdATlUvvVs"
       },
@@ -3415,22 +3399,6 @@
       "duration_ms": 140130,
       "name": "Poesia",
       "url": "https://open.spotify.com/track/5bhYob3MDA4aVNPxZkUVGi"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
-        "name": "Quality time",
-        "url": "https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4"
-      },
-      "artists": [
-        {
-          "name": "Maria Isabel Ferrer",
-          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
-        }
-      ],
-      "duration_ms": 164347,
-      "name": "Quality time",
-      "url": "https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3451,6 +3419,38 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
+        "name": "Cusco",
+        "url": "https://open.spotify.com/album/0Ukzxi8OgRqJJ1BP0wkTki"
+      },
+      "artists": [
+        {
+          "name": "Ned Regan",
+          "url": "https://open.spotify.com/artist/1WVNg1rcSuKeCaCPGNDO1Y"
+        }
+      ],
+      "duration_ms": 162166,
+      "name": "Cusco",
+      "url": "https://open.spotify.com/track/70t5pC4WbitgORnAfV79Ej"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Quality time",
+        "url": "https://open.spotify.com/album/4vCwxMUz9PNyzGd1NqGtm4"
+      },
+      "artists": [
+        {
+          "name": "Maria Isabel Ferrer",
+          "url": "https://open.spotify.com/artist/2O25jw9AGamJtHPzUnCSz9"
+        }
+      ],
+      "duration_ms": 164347,
+      "name": "Quality time",
+      "url": "https://open.spotify.com/track/6bQX3qvIjRXcOgG6uNBsKX"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
         "name": "For Me & You",
         "url": "https://open.spotify.com/album/2I0en39qwIl6RW1l37H9gJ"
       },
@@ -3467,18 +3467,18 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Nebula's Lullaby",
-        "url": "https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo"
+        "name": "Secret Letters For You",
+        "url": "https://open.spotify.com/album/0LwkZsEqjcn7LA6PxVF5nq"
       },
       "artists": [
         {
-          "name": "Serena Perez",
-          "url": "https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR"
+          "name": "Amalia Booth",
+          "url": "https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP"
         }
       ],
-      "duration_ms": 128104,
-      "name": "Nebula's Lullaby",
-      "url": "https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b"
+      "duration_ms": 153973,
+      "name": "Secret Letters For You",
+      "url": "https://open.spotify.com/track/1dLCaGhrgqqcX4m9g5P4EZ"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3499,18 +3499,18 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Secret Letters For You",
-        "url": "https://open.spotify.com/album/0LwkZsEqjcn7LA6PxVF5nq"
+        "name": "Nebula's Lullaby",
+        "url": "https://open.spotify.com/album/6x9a7Hpb4vgKqTblifErDo"
       },
       "artists": [
         {
-          "name": "Amalia Booth",
-          "url": "https://open.spotify.com/artist/3szEDgli10x7q4mMLCehgP"
+          "name": "Serena Perez",
+          "url": "https://open.spotify.com/artist/2zkK4XfOHnssYBDk6Vp5PR"
         }
       ],
-      "duration_ms": 153973,
-      "name": "Secret Letters For You",
-      "url": "https://open.spotify.com/track/1dLCaGhrgqqcX4m9g5P4EZ"
+      "duration_ms": 128104,
+      "name": "Nebula's Lullaby",
+      "url": "https://open.spotify.com/track/3bpXmth8hxymLN2H457E9b"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3547,22 +3547,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Something For You",
-        "url": "https://open.spotify.com/album/2RZsThQXub83Rxjrxo0qvd"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda Torres",
-          "url": "https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp"
-        }
-      ],
-      "duration_ms": 169053,
-      "name": "Something For You",
-      "url": "https://open.spotify.com/track/6oqZPFJ1LM1hokfEdUBPxp"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Strange Encounter",
         "url": "https://open.spotify.com/album/1gPHMceOELyRK5Sc7sbX4m"
       },
@@ -3595,34 +3579,18 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Maybe Tomorrow It Will Change",
-        "url": "https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c"
+        "name": "Something For You",
+        "url": "https://open.spotify.com/album/2RZsThQXub83Rxjrxo0qvd"
       },
       "artists": [
         {
-          "name": "Alexas Lucio",
-          "url": "https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ"
+          "name": "Esmeralda Torres",
+          "url": "https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp"
         }
       ],
-      "duration_ms": 162725,
-      "name": "Maybe Tomorrow It Will Change",
-      "url": "https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
-        "name": "Up North",
-        "url": "https://open.spotify.com/album/7hbIaioWBfd5ynDdrXzxH1"
-      },
-      "artists": [
-        {
-          "name": "Hannah Westman",
-          "url": "https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS"
-        }
-      ],
-      "duration_ms": 171385,
-      "name": "Up North",
-      "url": "https://open.spotify.com/track/6CGHSZ3uVPuy12IhQIp3ke"
+      "duration_ms": 169053,
+      "name": "Something For You",
+      "url": "https://open.spotify.com/track/6oqZPFJ1LM1hokfEdUBPxp"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3643,22 +3611,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Someday",
-        "url": "https://open.spotify.com/album/6z07JJdKjK6KQTLdc4Abw6"
-      },
-      "artists": [
-        {
-          "name": "Floritatura",
-          "url": "https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc"
-        }
-      ],
-      "duration_ms": 154464,
-      "name": "Someday",
-      "url": "https://open.spotify.com/track/40Prhj76wY4JkKWl130prE"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Isle of Skye",
         "url": "https://open.spotify.com/album/5qbEWj7jgylfziWGTZffD6"
       },
@@ -3675,6 +3627,22 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
+        "name": "Someday",
+        "url": "https://open.spotify.com/album/6z07JJdKjK6KQTLdc4Abw6"
+      },
+      "artists": [
+        {
+          "name": "Floritatura",
+          "url": "https://open.spotify.com/artist/5nLzQ8oEKZ4BK73olozSSc"
+        }
+      ],
+      "duration_ms": 154464,
+      "name": "Someday",
+      "url": "https://open.spotify.com/track/40Prhj76wY4JkKWl130prE"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
         "name": "Whispers of Frost",
         "url": "https://open.spotify.com/album/4hhQxJlnuXEYistyyZpMR6"
       },
@@ -3687,6 +3655,38 @@
       "duration_ms": 192374,
       "name": "Whispers of Frost",
       "url": "https://open.spotify.com/track/3ge3prXMCXsHRa2SfvwA43"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Up North",
+        "url": "https://open.spotify.com/album/7hbIaioWBfd5ynDdrXzxH1"
+      },
+      "artists": [
+        {
+          "name": "Hannah Westman",
+          "url": "https://open.spotify.com/artist/0fRVato4gM8ssGJnXoV6dS"
+        }
+      ],
+      "duration_ms": 171385,
+      "name": "Up North",
+      "url": "https://open.spotify.com/track/6CGHSZ3uVPuy12IhQIp3ke"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Maybe Tomorrow It Will Change",
+        "url": "https://open.spotify.com/album/0GwHdP2HTwPNhgWvTSR24c"
+      },
+      "artists": [
+        {
+          "name": "Alexas Lucio",
+          "url": "https://open.spotify.com/artist/5K78fvhC7TVBC8mcpkMGvQ"
+        }
+      ],
+      "duration_ms": 162725,
+      "name": "Maybe Tomorrow It Will Change",
+      "url": "https://open.spotify.com/track/6olLemdG5vLF9msH832Lg6"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3755,22 +3755,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Horizons",
-        "url": "https://open.spotify.com/album/2Si9bFcCwJOPPxnPDoYetT"
-      },
-      "artists": [
-        {
-          "name": "Phil Stent",
-          "url": "https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G"
-        }
-      ],
-      "duration_ms": 116455,
-      "name": "Horizons",
-      "url": "https://open.spotify.com/track/3blZZtbNZsv7GR1x2PWkYc"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Havana Vieja",
         "url": "https://open.spotify.com/album/4G5bMXtQj8ZR99j6QU1Oqf"
       },
@@ -3783,6 +3767,22 @@
       "duration_ms": 171259,
       "name": "Havana Vieja",
       "url": "https://open.spotify.com/track/5ykTeQ3ky7XyS7js8jqRNW"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Horizons",
+        "url": "https://open.spotify.com/album/2Si9bFcCwJOPPxnPDoYetT"
+      },
+      "artists": [
+        {
+          "name": "Phil Stent",
+          "url": "https://open.spotify.com/artist/1E1Kt5Hh9SbIGSTb8tyU8G"
+        }
+      ],
+      "duration_ms": 116455,
+      "name": "Horizons",
+      "url": "https://open.spotify.com/track/3blZZtbNZsv7GR1x2PWkYc"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3835,22 +3835,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Encounters",
-        "url": "https://open.spotify.com/album/3JNn40KWFz77KtMcs1R2Um"
-      },
-      "artists": [
-        {
-          "name": "Laura Di Vaio",
-          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
-        }
-      ],
-      "duration_ms": 131312,
-      "name": "Encounters",
-      "url": "https://open.spotify.com/track/01zpU0ewFP8tjG1J9We98x"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Bezmocn\u00fd",
         "url": "https://open.spotify.com/album/1ViR3HfRO3uaioYDIJDnsZ"
       },
@@ -3863,6 +3847,22 @@
       "duration_ms": 151833,
       "name": "Bezmocn\u00fd",
       "url": "https://open.spotify.com/track/4VvEgdGaEGLlKEQZM4DK6a"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Encounters",
+        "url": "https://open.spotify.com/album/3JNn40KWFz77KtMcs1R2Um"
+      },
+      "artists": [
+        {
+          "name": "Laura Di Vaio",
+          "url": "https://open.spotify.com/artist/0fsOkzhBJjiWTWcHuuC9O6"
+        }
+      ],
+      "duration_ms": 131312,
+      "name": "Encounters",
+      "url": "https://open.spotify.com/track/01zpU0ewFP8tjG1J9We98x"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3883,22 +3883,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Laguna Blanca",
-        "url": "https://open.spotify.com/album/6jQ90op173u5KInBVXVLCl"
-      },
-      "artists": [
-        {
-          "name": "Diego de Frigiliana",
-          "url": "https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7"
-        }
-      ],
-      "duration_ms": 180624,
-      "name": "Laguna Blanca",
-      "url": "https://open.spotify.com/track/17GnGJcqKS8JzbwDkWUcIh"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "The secret trail",
         "url": "https://open.spotify.com/album/1I8NCIidGKSYOJkPqp9nI6"
       },
@@ -3911,6 +3895,22 @@
       "duration_ms": 189812,
       "name": "The secret trail",
       "url": "https://open.spotify.com/track/1c04luQUt67s15rXVOPD4h"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Laguna Blanca",
+        "url": "https://open.spotify.com/album/6jQ90op173u5KInBVXVLCl"
+      },
+      "artists": [
+        {
+          "name": "Diego de Frigiliana",
+          "url": "https://open.spotify.com/artist/0ZA7bWb2UEatiixLiriYE7"
+        }
+      ],
+      "duration_ms": 180624,
+      "name": "Laguna Blanca",
+      "url": "https://open.spotify.com/track/17GnGJcqKS8JzbwDkWUcIh"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3931,18 +3931,18 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Saudade",
-        "url": "https://open.spotify.com/album/5Zh8cgGWYAc5qRLwTvPXcF"
+        "name": "I Am Her",
+        "url": "https://open.spotify.com/album/276J4hpk1tF9ug5i0pUfRq"
       },
       "artists": [
         {
-          "name": "Duncan Bowie",
-          "url": "https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm"
+          "name": "Ceriumidis",
+          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
         }
       ],
-      "duration_ms": 162715,
-      "name": "Saudade",
-      "url": "https://open.spotify.com/track/5ya9oJXawpEtTT64juebsM"
+      "duration_ms": 161070,
+      "name": "I Am Her",
+      "url": "https://open.spotify.com/track/0MRRy4aiAg2zWcyMjVKMZE"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -3963,6 +3963,22 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
+        "name": "Saudade",
+        "url": "https://open.spotify.com/album/5Zh8cgGWYAc5qRLwTvPXcF"
+      },
+      "artists": [
+        {
+          "name": "Duncan Bowie",
+          "url": "https://open.spotify.com/artist/5q6rc3smUDwHeGbrZqC1mm"
+        }
+      ],
+      "duration_ms": 162715,
+      "name": "Saudade",
+      "url": "https://open.spotify.com/track/5ya9oJXawpEtTT64juebsM"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
         "name": "No Puedo Evitarlo",
         "url": "https://open.spotify.com/album/1i0nstc0LWCSvMCNczk1e6"
       },
@@ -3975,22 +3991,6 @@
       "duration_ms": 157986,
       "name": "No Puedo Evitarlo",
       "url": "https://open.spotify.com/track/1NxCJMENnTIPWQYNx1AdVu"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
-        "name": "I Am Her",
-        "url": "https://open.spotify.com/album/276J4hpk1tF9ug5i0pUfRq"
-      },
-      "artists": [
-        {
-          "name": "Ceriumidis",
-          "url": "https://open.spotify.com/artist/0TQDBKDiAKkrSUASMLOyDQ"
-        }
-      ],
-      "duration_ms": 161070,
-      "name": "I Am Her",
-      "url": "https://open.spotify.com/track/0MRRy4aiAg2zWcyMjVKMZE"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -4011,22 +4011,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Sorrento",
-        "url": "https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr"
-      },
-      "artists": [
-        {
-          "name": "Leandra Costa",
-          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
-        }
-      ],
-      "duration_ms": 139114,
-      "name": "Sorrento",
-      "url": "https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Dreamy Meadows",
         "url": "https://open.spotify.com/album/0xefdrtyuO0gIAPhzePx5c"
       },
@@ -4039,6 +4023,22 @@
       "duration_ms": 151923,
       "name": "Dreamy Meadows",
       "url": "https://open.spotify.com/track/1rUJumpgrhAbL0PfhbTX7z"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Sorrento",
+        "url": "https://open.spotify.com/album/4h28TS4QXiLmaPEzON7Jrr"
+      },
+      "artists": [
+        {
+          "name": "Leandra Costa",
+          "url": "https://open.spotify.com/artist/4pan7mPpKbyrhcNLveAiKr"
+        }
+      ],
+      "duration_ms": 139114,
+      "name": "Sorrento",
+      "url": "https://open.spotify.com/track/2tK0zbhhHsbQIjHSk6XmaF"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -4075,22 +4075,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Stando Solo",
-        "url": "https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1"
-      },
-      "artists": [
-        {
-          "name": "Lennox Lorenzo",
-          "url": "https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM"
-        }
-      ],
-      "duration_ms": 156173,
-      "name": "Stando Solo",
-      "url": "https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "The Hourglass",
         "url": "https://open.spotify.com/album/2JgivIpjbESxpFGEBZrhtK"
       },
@@ -4107,18 +4091,18 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Sighs at Sunrise",
-        "url": "https://open.spotify.com/album/36eNKGSb9Z6hW123nBfyIK"
+        "name": "Stando Solo",
+        "url": "https://open.spotify.com/album/5KXSQosrVZTcDVYf1N78G1"
       },
       "artists": [
         {
-          "name": "Elijah Stone",
-          "url": "https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu"
+          "name": "Lennox Lorenzo",
+          "url": "https://open.spotify.com/artist/6t2AbQr1GudAPoxHZSsOTM"
         }
       ],
-      "duration_ms": 138849,
-      "name": "Sighs at Sunrise",
-      "url": "https://open.spotify.com/track/2OOeFSreST9tlRmhxBchtz"
+      "duration_ms": 156173,
+      "name": "Stando Solo",
+      "url": "https://open.spotify.com/track/2kPLnIedP1tABSr0zwJwL3"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -4151,6 +4135,22 @@
       "duration_ms": 189158,
       "name": "By the Hour",
       "url": "https://open.spotify.com/track/1feJUG6eBlaxsogKjFMKzv"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Sighs at Sunrise",
+        "url": "https://open.spotify.com/album/36eNKGSb9Z6hW123nBfyIK"
+      },
+      "artists": [
+        {
+          "name": "Elijah Stone",
+          "url": "https://open.spotify.com/artist/0Z1kuJ3hjjRHW7h8hwowdu"
+        }
+      ],
+      "duration_ms": 138849,
+      "name": "Sighs at Sunrise",
+      "url": "https://open.spotify.com/track/2OOeFSreST9tlRmhxBchtz"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -4235,22 +4235,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Share her stories",
-        "url": "https://open.spotify.com/album/18tauEkO61p1X265CtryAz"
-      },
-      "artists": [
-        {
-          "name": "Esmeralda Torres",
-          "url": "https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp"
-        }
-      ],
-      "duration_ms": 128807,
-      "name": "Share her stories",
-      "url": "https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Melhor Coisa",
         "url": "https://open.spotify.com/album/4O7k3nDZOsevNAy6cRNegZ"
       },
@@ -4263,6 +4247,22 @@
       "duration_ms": 132864,
       "name": "Melhor Coisa",
       "url": "https://open.spotify.com/track/5DcUfrX3AbVu3pnHLJbwaf"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Share her stories",
+        "url": "https://open.spotify.com/album/18tauEkO61p1X265CtryAz"
+      },
+      "artists": [
+        {
+          "name": "Esmeralda Torres",
+          "url": "https://open.spotify.com/artist/3bT8Meiw5qtuGhtYozTWOp"
+        }
+      ],
+      "duration_ms": 128807,
+      "name": "Share her stories",
+      "url": "https://open.spotify.com/track/38Co6nwfiAJkSLc7rlMaKr"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -4315,22 +4315,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Waimea Falls",
-        "url": "https://open.spotify.com/album/6kDc5lTyqj3ZGm0Wpdjwut"
-      },
-      "artists": [
-        {
-          "name": "Michael Reiss",
-          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
-        }
-      ],
-      "duration_ms": 232129,
-      "name": "Waimea Falls",
-      "url": "https://open.spotify.com/track/6OI4lw9ZxbrEoY5SRJgG0y"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Golden Hour",
         "url": "https://open.spotify.com/album/1vDAQZppgz27QWabAWGxzY"
       },
@@ -4343,6 +4327,22 @@
       "duration_ms": 165319,
       "name": "Golden Hour",
       "url": "https://open.spotify.com/track/0MaJRjqtDMKJ7F2ncrByDK"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Waimea Falls",
+        "url": "https://open.spotify.com/album/6kDc5lTyqj3ZGm0Wpdjwut"
+      },
+      "artists": [
+        {
+          "name": "Michael Reiss",
+          "url": "https://open.spotify.com/artist/0KuRSjM6OFX0mH6GW5Shvy"
+        }
+      ],
+      "duration_ms": 232129,
+      "name": "Waimea Falls",
+      "url": "https://open.spotify.com/track/6OI4lw9ZxbrEoY5SRJgG0y"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -4411,6 +4411,22 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
+        "name": "Montevideo",
+        "url": "https://open.spotify.com/album/0LmadbT5ZbedmXJJF7ynQb"
+      },
+      "artists": [
+        {
+          "name": "Vita Alexander",
+          "url": "https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz"
+        }
+      ],
+      "duration_ms": 168936,
+      "name": "Okinawa",
+      "url": "https://open.spotify.com/track/2gtPInB7GRWpBMClNiU65Z"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
         "name": "Syr Darya",
         "url": "https://open.spotify.com/album/0dhQLVfDkDJekJAK3Tg6QE"
       },
@@ -4443,22 +4459,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "Montevideo",
-        "url": "https://open.spotify.com/album/0LmadbT5ZbedmXJJF7ynQb"
-      },
-      "artists": [
-        {
-          "name": "Vita Alexander",
-          "url": "https://open.spotify.com/artist/02UYAhAK74cyfh0UU0yngz"
-        }
-      ],
-      "duration_ms": 168936,
-      "name": "Okinawa",
-      "url": "https://open.spotify.com/track/2gtPInB7GRWpBMClNiU65Z"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "Sounds of the Horizon",
         "url": "https://open.spotify.com/album/5kcVTnX7OjZC1nY3IL3LAJ"
       },
@@ -4471,6 +4471,22 @@
       "duration_ms": 148986,
       "name": "Sounds of the Horizon",
       "url": "https://open.spotify.com/track/2ZKzQG4TZvMLyXsVebNgW6"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "M\u00eame Dans La Mort",
+        "url": "https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby"
+      },
+      "artists": [
+        {
+          "name": "Jourdain Hume",
+          "url": "https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q"
+        }
+      ],
+      "duration_ms": 136723,
+      "name": "M\u00eame Dans La Mort",
+      "url": "https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -4507,38 +4523,6 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
-        "name": "M\u00eame Dans La Mort",
-        "url": "https://open.spotify.com/album/3RJkaEjjDI6fvQocZnebby"
-      },
-      "artists": [
-        {
-          "name": "Jourdain Hume",
-          "url": "https://open.spotify.com/artist/60PchiK8jssOvwkHk8By6Q"
-        }
-      ],
-      "duration_ms": 136723,
-      "name": "M\u00eame Dans La Mort",
-      "url": "https://open.spotify.com/track/39F5SdQXokv3QJxmLODxfU"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
-        "name": "Repos profond",
-        "url": "https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp"
-      },
-      "artists": [
-        {
-          "name": "Pascal Desprez",
-          "url": "https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW"
-        }
-      ],
-      "duration_ms": 164426,
-      "name": "Repos profond",
-      "url": "https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
         "name": "A Shadow of Something Beautiful (Classical Version)",
         "url": "https://open.spotify.com/album/7bi2mS7BjIfI8F3SgqBJcS"
       },
@@ -4555,6 +4539,22 @@
       "duration_ms": 174469,
       "name": "A Shadow of Something Beautiful (Classical Version)",
       "url": "https://open.spotify.com/track/3JMYAwDpZsms3s9vVPnC7O"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
+        "name": "Repos profond",
+        "url": "https://open.spotify.com/album/5zZlYMoFYienIwLSKEHqUp"
+      },
+      "artists": [
+        {
+          "name": "Pascal Desprez",
+          "url": "https://open.spotify.com/artist/6ejWaGjAI1lJ3PcLJ6c3OW"
+        }
+      ],
+      "duration_ms": 164426,
+      "name": "Repos profond",
+      "url": "https://open.spotify.com/track/0FEsDGbGZ6lYqITAot0zeN"
     },
     {
       "added_at": "2026-03-30 09:01:19",
@@ -4735,6 +4735,22 @@
     {
       "added_at": "2026-03-30 09:01:19",
       "album": {
+        "name": "Hugsanir",
+        "url": "https://open.spotify.com/album/4SaiGm2h3DkUXZUj0hqQrx"
+      },
+      "artists": [
+        {
+          "name": "Aiday Ainur",
+          "url": "https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj"
+        }
+      ],
+      "duration_ms": 192656,
+      "name": "Hugsanir",
+      "url": "https://open.spotify.com/track/7cD1uV5Bzk1TEaPr9mqVt1"
+    },
+    {
+      "added_at": "2026-03-30 09:01:19",
+      "album": {
         "name": "Een droom",
         "url": "https://open.spotify.com/album/6Rb00pg6majXThMxoPEjJA"
       },
@@ -4763,22 +4779,6 @@
       "duration_ms": 145227,
       "name": "Hist\u00f3ria De Vida",
       "url": "https://open.spotify.com/track/5BlHjy2MN5rPqQm89w4Jxd"
-    },
-    {
-      "added_at": "2026-03-30 09:01:19",
-      "album": {
-        "name": "Hugsanir",
-        "url": "https://open.spotify.com/album/4SaiGm2h3DkUXZUj0hqQrx"
-      },
-      "artists": [
-        {
-          "name": "Aiday Ainur",
-          "url": "https://open.spotify.com/artist/5BuB7CRnNJKxzSsu6Mznbj"
-        }
-      ],
-      "duration_ms": 192656,
-      "name": "Hugsanir",
-      "url": "https://open.spotify.com/track/7cD1uV5Bzk1TEaPr9mqVt1"
     },
     {
       "added_at": "2026-03-30 09:01:19",

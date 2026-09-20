@@ -1,13 +1,33 @@
 {
   "description": "This is Montell Fish. The essential tracks, all in one playlist.",
-  "num_followers": 65909,
+  "num_followers": 65907,
   "original_name": "This Is Montell Fish",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqstgAAAAACYdanMO6SJ1jlja2vIJFUc",
+  "snapshot_id": "aqx/AAAAAACHDpBoQmLUB0uzlVuysSET",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2ZVj3bdUbAFlbcKMT8mdtD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 191118,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1DAJbUvtSmmLfAXzQvE9PT"
+    },
     {
       "added_at": null,
       "album": {
@@ -59,18 +79,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Just Wanna Feel Your Love Again",
-        "url": "https://open.spotify.com/album/5hE7ypHSBAaXkG2FtF3tpw"
+        "name": "The Spirit Still Remains (Purgatory)",
+        "url": "https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP"
       },
       "artists": [
+        {
+          "name": "dj gummy bear",
+          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
+        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 241166,
-      "name": "I Just Wanna Feel Your Love Again",
-      "url": "https://open.spotify.com/track/2EZKAd2j1jEZrYN783MXoG"
+      "duration_ms": 140307,
+      "name": "Devotion",
+      "url": "https://open.spotify.com/track/21p9K1RiiIHSvfJeK2wwnF"
     },
     {
       "added_at": null,
@@ -107,22 +131,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Spirit Still Remains (Purgatory)",
-        "url": "https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP"
+        "name": "I Just Wanna Feel Your Love Again",
+        "url": "https://open.spotify.com/album/5hE7ypHSBAaXkG2FtF3tpw"
       },
       "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
         {
           "name": "Montell Fish",
           "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
         }
       ],
-      "duration_ms": 140307,
-      "name": "Devotion",
-      "url": "https://open.spotify.com/track/21p9K1RiiIHSvfJeK2wwnF"
+      "duration_ms": 241166,
+      "name": "I Just Wanna Feel Your Love Again",
+      "url": "https://open.spotify.com/track/2EZKAd2j1jEZrYN783MXoG"
     },
     {
       "added_at": null,
@@ -707,6 +727,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "As We Walk into Forever",
+        "url": "https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Hold",
+      "url": "https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Nights & Days.",
         "url": "https://open.spotify.com/album/72oFlgI3oGni2dWAcr8NPO"
       },
@@ -723,22 +759,6 @@
       "duration_ms": 119156,
       "name": "6:16am",
       "url": "https://open.spotify.com/track/3c5JcBWbG50fU28zAnsHgk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "As We Walk into Forever",
-        "url": "https://open.spotify.com/album/0aPre0n3wWL8Ha8hd7E7YB"
-      },
-      "artists": [
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "Hold",
-      "url": "https://open.spotify.com/track/0trbXeevXt7Zle6TZ0aLni"
     },
     {
       "added_at": null,
@@ -867,26 +887,6 @@
       "duration_ms": 200062,
       "name": "Stay Patient.",
       "url": "https://open.spotify.com/track/7uvbamNsiIOUsw2QJf1BQ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Spirit Still Remains (Purgatory)",
-        "url": "https://open.spotify.com/album/61BbZCf0MW7q0V3wSXbvGP"
-      },
-      "artists": [
-        {
-          "name": "dj gummy bear",
-          "url": "https://open.spotify.com/artist/78ECvrY5jP8mbGU52iyNSw"
-        },
-        {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        }
-      ],
-      "duration_ms": 146000,
-      "name": "Only Death Can Separate Us",
-      "url": "https://open.spotify.com/track/6wLP6lDOoap3D3T2Tjkt8u"
     }
   ],
   "unique_name": "This Is Montell Fish",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 
 > Indie, Pop und Rap mit deutschen Texten\. Cover: Dominik Hartz
 
-[Spotify](https://open.spotify.com/user/spotify) - 460,061 likes - 75 songs - 3 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 460,075 likes - 75 songs - 3 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -54,7 +54,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSFDWzEZlALC.md) - [plain]
 | 44 | [Urlaub auf der Autobahn](https://open.spotify.com/track/5Uo8BNl6iPgkekMp1dEEKX) | [RIAN](https://open.spotify.com/artist/0bqYZDuHYSjfnY8JJutg4f) | [Urlaub auf der Autobahn](https://open.spotify.com/album/2MipsyPiWm2HYechY5yGWj) | 2:02 |
 | 45 | [erzähl mir nichts von liebe](https://open.spotify.com/track/6qHAO1ilxL66iOPEuXkAZL) | [Tiavo](https://open.spotify.com/artist/13XOdftLPuWTn5iH2bUq2B), [Paula Carolina](https://open.spotify.com/artist/2j7Kbyq2wgLpC4tkfcixQZ) | [Hotel Tiavo](https://open.spotify.com/album/70GnJrkPYkbFQb7vHzpQYG) | 3:16 |
 | 46 | [CHERRY COLA](https://open.spotify.com/track/7st0iRApFZ90shWUamOjWt) | [Yasola](https://open.spotify.com/artist/610cASM1i5jxIHEd9XEcLS) | [CHERRY COLA](https://open.spotify.com/album/5TwWNrNhXdTE8EcJqgqYJK) | 2:15 |
-| 47 | [tussis > macker](https://open.spotify.com/track/2WcQomRjWTCIonoSWNaNVC) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [tussis > macker](https://open.spotify.com/album/5l86jPGB4QmojWidLpzAeH) | 2:01 |
+| 47 | [tussis > macker \(mit tussi nr.1\)](https://open.spotify.com/track/2WcQomRjWTCIonoSWNaNVC) | [yola](https://open.spotify.com/artist/6rLUiFCfqWOUPgrfHccwkF), [Dani Lia](https://open.spotify.com/artist/69vud63wR3OkrAPirhsOMC), [Eli Preiss](https://open.spotify.com/artist/7JmNUb5QPlIV4psjRqNsID) | [tussis > macker](https://open.spotify.com/album/5l86jPGB4QmojWidLpzAeH) | 2:01 |
 | 48 | [Lamia](https://open.spotify.com/track/4P6y5weDdwdXOkqD1FDLyT) | [Berq](https://open.spotify.com/artist/0eVixEZVW2PB1UogwTWXc1) | [Lamia](https://open.spotify.com/album/2aFt4GLLecHtEEp0iZDSXZ) | 3:04 |
 | 49 | [Last Man Standing](https://open.spotify.com/track/08kPU1nRw2TFkqxmFFh0IL) | [bac](https://open.spotify.com/artist/1ABhalCH6yn3eS3T46KmvF) | [Last Man Standing](https://open.spotify.com/album/4KT2BedID3WG8MZXobCRAU) | 2:53 |
 | 50 | [Du Hund](https://open.spotify.com/track/3trpTkPtr2UOQQU4T1Nw0a) | [TRÄNEN](https://open.spotify.com/artist/4NKHTY0ghFbhkFwl29BxMD) | [Du Hund](https://open.spotify.com/album/5m5Y5BA33ozxo7kChUQgFe) | 3:29 |

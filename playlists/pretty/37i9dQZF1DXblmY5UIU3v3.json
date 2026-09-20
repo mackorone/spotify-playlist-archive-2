@@ -1,6 +1,6 @@
 {
   "description": "The bass you need for riding low and high.",
-  "num_followers": 514043,
+  "num_followers": 514091,
   "original_name": "DOWN LOW",
   "owner": {
     "name": "Spotify",
@@ -887,26 +887,6 @@
     {
       "added_at": "2025-10-10 04:00:28",
       "album": {
-        "name": "Go Away",
-        "url": "https://open.spotify.com/album/04ATbfkuAkKlxYv9mirGHr"
-      },
-      "artists": [
-        {
-          "name": "Alieff Green",
-          "url": "https://open.spotify.com/artist/75mrERnQpiYVQ0yg7ObPLe"
-        },
-        {
-          "name": "Rio Bakoo",
-          "url": "https://open.spotify.com/artist/0baOAtqOc46DHJmE2v4w1c"
-        }
-      ],
-      "duration_ms": 177715,
-      "name": "Go Away",
-      "url": "https://open.spotify.com/track/1U6rcpjOhEDWTMRMamZkQ1"
-    },
-    {
-      "added_at": "2025-10-10 04:00:28",
-      "album": {
         "name": "Destru\u00eddo (Sped Up)",
         "url": "https://open.spotify.com/album/5Whjt2FXHYtCR8kZOBNHcD"
       },
@@ -927,6 +907,26 @@
       "duration_ms": 71274,
       "name": "Destru\u00eddo - Sped Up",
       "url": "https://open.spotify.com/track/1wCilNbefRGcVKapYltizB"
+    },
+    {
+      "added_at": "2025-10-10 04:00:28",
+      "album": {
+        "name": "Go Away",
+        "url": "https://open.spotify.com/album/04ATbfkuAkKlxYv9mirGHr"
+      },
+      "artists": [
+        {
+          "name": "Alieff Green",
+          "url": "https://open.spotify.com/artist/75mrERnQpiYVQ0yg7ObPLe"
+        },
+        {
+          "name": "Rio Bakoo",
+          "url": "https://open.spotify.com/artist/0baOAtqOc46DHJmE2v4w1c"
+        }
+      ],
+      "duration_ms": 177715,
+      "name": "Go Away",
+      "url": "https://open.spotify.com/track/1U6rcpjOhEDWTMRMamZkQ1"
     },
     {
       "added_at": "2025-10-10 04:00:28",

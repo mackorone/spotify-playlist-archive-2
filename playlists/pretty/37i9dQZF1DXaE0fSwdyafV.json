@@ -1,12 +1,12 @@
 {
   "description": "So mote it be. Cover: Phoebe Bridgers",
-  "num_followers": 157668,
+  "num_followers": 157682,
   "original_name": "Witchy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADo4MA0NY6qIZ7hskW7AgOnDDy7A",
+  "snapshot_id": "AAAAAN3H3e9JTqFzYsqXaJ205xfLwYxV",
   "tracks": [
     {
       "added_at": "2026-09-11 04:01:16",
@@ -351,22 +351,6 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Greatest Hits",
-        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
-      },
-      "artists": [
-        {
-          "name": "Fleetwood Mac",
-          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
-        }
-      ],
-      "duration_ms": 254453,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
         "name": "Hearing Damage",
         "url": "https://open.spotify.com/album/5SCfET4lGs65o4Jgb7hZ2f"
       },
@@ -379,6 +363,22 @@
       "duration_ms": 303360,
       "name": "Hearing Damage",
       "url": "https://open.spotify.com/track/1fTtPH0xGwFOXM5VlkxOX1"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "Greatest Hits",
+        "url": "https://open.spotify.com/album/0LfM3PGkXE6KvJEE1HkOnz"
+      },
+      "artists": [
+        {
+          "name": "Fleetwood Mac",
+          "url": "https://open.spotify.com/artist/08GQAI4eElDnROBrJRGE0X"
+        }
+      ],
+      "duration_ms": 254453,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/1lbXEepatjRVjoG8pZMtdp"
     },
     {
       "added_at": "2026-09-11 04:01:16",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-09-11 04:01:16",
       "album": {
-        "name": "Melodrama",
-        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
-      },
-      "artists": [
-        {
-          "name": "Lorde",
-          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
-        }
-      ],
-      "duration_ms": 216610,
-      "name": "Writer In The Dark",
-      "url": "https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc"
-    },
-    {
-      "added_at": "2026-09-11 04:01:16",
-      "album": {
         "name": "W.I.T.C.H.",
         "url": "https://open.spotify.com/album/3Z8vTrrDg2JbOgtYf82G7b"
       },
@@ -603,6 +587,22 @@
       "duration_ms": 132133,
       "name": "W.I.T.C.H.",
       "url": "https://open.spotify.com/track/5XemvyG79fcKPl5lgbhplq"
+    },
+    {
+      "added_at": "2026-09-11 04:01:16",
+      "album": {
+        "name": "Melodrama",
+        "url": "https://open.spotify.com/album/2B87zXm9bOWvAJdkJBTpzF"
+      },
+      "artists": [
+        {
+          "name": "Lorde",
+          "url": "https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm"
+        }
+      ],
+      "duration_ms": 216610,
+      "name": "Writer In The Dark",
+      "url": "https://open.spotify.com/track/193Dm5SqYy3hTSbuzxbwKc"
     },
     {
       "added_at": "2026-09-11 04:01:16",

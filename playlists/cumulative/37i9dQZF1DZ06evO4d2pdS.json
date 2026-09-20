@@ -927,6 +927,28 @@
     },
     {
       "album": {
+        "name": "MOTION PACK",
+        "url": "https://open.spotify.com/album/1YvvObdtDdAha2JiKuMIc8"
+      },
+      "artists": [
+        {
+          "name": "Lakeyah",
+          "url": "https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7"
+        },
+        {
+          "name": "KenTheMan",
+          "url": "https://open.spotify.com/artist/6o4O5GX5kOWAGXtZUedxo3"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201656,
+      "name": "I'M KNOWIN' (feat. KenTheMan)",
+      "url": "https://open.spotify.com/track/3f72wceJz35zVhehff2reA"
+    },
+    {
+      "album": {
         "name": "In Da Club",
         "url": "https://open.spotify.com/album/3evYwYBBhiBBELqgILVM0G"
       },
@@ -1530,7 +1552,7 @@
       ],
       "date_added": "2025-12-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 148000,
       "name": "special - remix",
       "url": "https://open.spotify.com/track/2KSyX260gogr0jfAupg4OQ"

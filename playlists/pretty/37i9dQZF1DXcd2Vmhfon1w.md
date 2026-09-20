@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 
 > Lo mejor del hip hop español\. Feat\. Natos y Waor, GRECAS
 
-[Spotify](https://open.spotify.com/user/spotify) - 532,258 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 532,283 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcd2Vmhfon1w.md) - [plain]
 | 49 | [MOLTISANTI](https://open.spotify.com/track/7e15rFxEXy02VVHQ7Q1XQO) | [Natos y Waor](https://open.spotify.com/artist/1QJbbsxg2wqidJj51d3otw), [Recycled J](https://open.spotify.com/artist/4bWHA8fMNjzfGPQqnh5D6y), [Hijos de la Ruina](https://open.spotify.com/artist/39pp1wX82VRlVVohxushdp) | [MOLTISANTI](https://open.spotify.com/album/7dMhyVzkdum0qdBKXl2jBp) | 3:50 |
 | 50 | [No Hard Feelings](https://open.spotify.com/track/5AlUy9BAKk0MJNiRIZgAst) | [Sara Socas](https://open.spotify.com/artist/3mJRY2eQ5S0cCsZla7vy0d), [Santa Salut](https://open.spotify.com/artist/75vabMROpVyiTX4wv3iHFH) | [No Hard Feelings](https://open.spotify.com/album/5HFqh7ByxzWqQG41FFg6zj) | 2:29 |
 
-Snapshot ID: `AAAAAAGrQCLKs242QkaQVgLUWRoU+0/P`
+Snapshot ID: `AAAAAMVz8w2vQDCRGFmGviDsDb3didzU`

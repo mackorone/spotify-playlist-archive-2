@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1puyOVU3elVRRIblfAnQ8Q.md) - [plain]
 
 > Celebrating 10 Years of Deadbeats\. <a href="https://shop.deadbeats.com">Shop the collection now</a>
 
-[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,382 likes - 27 songs - 1 hr 31 min
+[Zeds Dead](https://open.spotify.com/user/zedsdeadofficial) - 62,380 likes - 27 songs - 1 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

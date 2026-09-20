@@ -495,6 +495,32 @@
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 204266,
+      "name": "12 Variations for Cello and Piano on \"See the Conquering Hero Comes\", WoO 45: Var. 11. Adagio",
+      "url": "https://open.spotify.com/track/4QEtgJiiBPQeylvEYAmH9A"
+    },
+    {
+      "album": {
+        "name": "\"A Prelude to Longer Evenings: Bach, Mozart & more\"",
+        "url": "https://open.spotify.com/album/4lFPr9gfmJx6XDOfT3Fini"
+      },
+      "artists": [
+        {
+          "name": "Ludwig van Beethoven",
+          "url": "https://open.spotify.com/artist/2wOqMjp9TyABvtHdOSOTUS"
+        },
+        {
+          "name": "Mischa Maisky",
+          "url": "https://open.spotify.com/artist/6rlVhQqS15yJMO4DZqrq6I"
+        },
+        {
+          "name": "Martha Argerich",
+          "url": "https://open.spotify.com/artist/66MvLAvLznk5UOvASVGjk4"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2026-09-20",
       "duration_ms": 46306,
       "name": "12 Variations for Cello and Piano on \"See the Conquering Hero Comes\", WoO 45: Var. 4",
       "url": "https://open.spotify.com/track/0IEjWpQV8BwPzFX07TFMUN"
@@ -3918,6 +3944,28 @@
       "duration_ms": 543173,
       "name": "All Connected",
       "url": "https://open.spotify.com/track/14vUjjPTDybmO5CfKgweW3"
+    },
+    {
+      "album": {
+        "name": "Loose (Deluxe 20th Anniversary Edition)",
+        "url": "https://open.spotify.com/album/0W8jDIstZaShcBkmKOShU4"
+      },
+      "artists": [
+        {
+          "name": "Nelly Furtado",
+          "url": "https://open.spotify.com/artist/2jw70GZXlAI8QzWeY2bgRc"
+        },
+        {
+          "name": "Adam Tendler",
+          "url": "https://open.spotify.com/artist/6vxBMBXy5hzAW7xO8kDTG5"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 444879,
+      "name": "All Good Things (Come To An End) - MIDLIFE Version",
+      "url": "https://open.spotify.com/track/1CciPUKeZZCwXLKCfMurPG"
     },
     {
       "album": {
@@ -8870,7 +8918,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 143750,
       "name": "Black Leather Jacket",
       "url": "https://open.spotify.com/track/5yj8iyep78B8OSrxHXotAY"
@@ -9882,7 +9930,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 187071,
       "name": "Break Out",
       "url": "https://open.spotify.com/track/05rR2TFxYVNvUtN33ZK6FR"
@@ -11938,7 +11986,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 253000,
       "name": "CHAIKA",
       "url": "https://open.spotify.com/track/0GqM4O8rhl69yiQw2pCxAc"
@@ -18842,7 +18890,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 260826,
       "name": "Eight Legs of Thunder",
       "url": "https://open.spotify.com/track/18QvY9nGqiudkGh1JycyLE"
@@ -24810,7 +24858,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 175312,
       "name": "Get Your Groove On",
       "url": "https://open.spotify.com/track/6qBhR8G6Sy4pRejoaXQ626"
@@ -25186,7 +25234,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 471826,
       "name": "Glacier",
       "url": "https://open.spotify.com/track/5VOyBuZp7l591P4WPAa17I"
@@ -29596,7 +29644,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 233813,
       "name": "Humours",
       "url": "https://open.spotify.com/track/3jUGDclkGpBuGHE8GR4UYb"
@@ -33148,7 +33196,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 185386,
       "name": "INOCHI (2026)",
       "url": "https://open.spotify.com/track/0tTgGf4A9c1aOuMiW05shB"
@@ -36222,7 +36270,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 149613,
       "name": "La reina del Inframundo",
       "url": "https://open.spotify.com/track/2nw39JRxfhZYtKVP4taQhd"
@@ -41260,7 +41308,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 441750,
       "name": "Maneater - RITUAL Version",
       "url": "https://open.spotify.com/track/3eahngz9qo82oxYHUdzKop"
@@ -46398,7 +46446,7 @@
     {
       "album": {
         "name": "Pylon",
-        "url": "https://open.spotify.com/album/5CUNbeziis6Q3LWXoqxkDf"
+        "url": "https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z"
       },
       "artists": [
         {
@@ -46413,6 +46461,28 @@
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
       "date_removed": null,
+      "duration_ms": 144316,
+      "name": "Nothing To Prove",
+      "url": "https://open.spotify.com/track/1nxXhsu7dofByVV8BqGleK"
+    },
+    {
+      "album": {
+        "name": "Pylon",
+        "url": "https://open.spotify.com/album/5CUNbeziis6Q3LWXoqxkDf"
+      },
+      "artists": [
+        {
+          "name": "beabadoobee",
+          "url": "https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB"
+        },
+        {
+          "name": "Hayley Williams",
+          "url": "https://open.spotify.com/artist/6Rx1JKzBrSzoKQtmbVmBnM"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": "2026-09-20",
       "duration_ms": 144316,
       "name": "Nothing To Prove",
       "url": "https://open.spotify.com/track/7FZSiz9k2mtwFhWPDFxmgP"
@@ -52496,7 +52566,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 267392,
       "name": "QUI\u00c9N DETIENE ESTE AMOR",
       "url": "https://open.spotify.com/track/0nnODvVKcqenHIfCWjgN3M"
@@ -53944,7 +54014,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 135800,
       "name": "Requiem: VIIb. Libera me: Dies irae",
       "url": "https://open.spotify.com/track/6v0KOcObxVf3CxXJ8S6bBa"
@@ -54756,10 +54826,28 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 211897,
       "name": "Rock You 2 Death",
       "url": "https://open.spotify.com/track/3CzflgqmaXXEKTjjIVhcr7"
+    },
+    {
+      "album": {
+        "name": "Rock You 2 Death",
+        "url": "https://open.spotify.com/album/7KfTCmoMOxfnas74wrcecb"
+      },
+      "artists": [
+        {
+          "name": "Doro",
+          "url": "https://open.spotify.com/artist/5GLeyUhj8B8f5pJxqZllKl"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 211897,
+      "name": "Rock You 2 Death",
+      "url": "https://open.spotify.com/track/4a4J7QZCJJEgUHcmOUNpD3"
     },
     {
       "album": {
@@ -56038,7 +56126,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 265466,
       "name": "Sanctuary (feat. Cl\u00e9mentine Delauney, Ignacia Fern\u00e1ndez)",
       "url": "https://open.spotify.com/track/6IxvI1WO12TJXN7TfCM4VL"
@@ -56474,7 +56562,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 184600,
       "name": "Say Yes",
       "url": "https://open.spotify.com/track/1bopIBCYnfkvWuMXVaaugp"
@@ -60186,7 +60274,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 260230,
       "name": "Something Happens",
       "url": "https://open.spotify.com/track/4IBsqXxOMUjmb3cWH0hV8K"
@@ -63144,7 +63232,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 420533,
       "name": "Swan Lake Suite, Op. 20a: II. Valse",
       "url": "https://open.spotify.com/track/60o4n1pfjmZk5BSzCRtZMk"
@@ -63866,7 +63954,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 87293,
       "name": "Ta Llegando Gente al Baile",
       "url": "https://open.spotify.com/track/6wGUozfWPY1zH8D6nn0obZ"
@@ -65200,7 +65288,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 269936,
       "name": "The Ballad Of Terry Fox",
       "url": "https://open.spotify.com/track/1OvkfOMOTNHsnfgVgGWWbQ"
@@ -67553,6 +67641,24 @@
     },
     {
       "album": {
+        "name": "Babylon Berlin (Original Television Soundtrack, Vol. IV)",
+        "url": "https://open.spotify.com/album/5ItnTGU75QDFR7AhgyPf8t"
+      },
+      "artists": [
+        {
+          "name": "Yello",
+          "url": "https://open.spotify.com/artist/3xgj17ZsWxxU86S4qlWvOi"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 207836,
+      "name": "The Race",
+      "url": "https://open.spotify.com/track/2T6cEzWznwiMvvoZsv8Dda"
+    },
+    {
+      "album": {
         "name": "Diamonds in the Rough '92 '93 Demos",
         "url": "https://open.spotify.com/album/1ExHQ49lLgHhINuLpUxZAl"
       },
@@ -68194,6 +68300,32 @@
       "duration_ms": 359000,
       "name": "The Sleeping Beauty Concert Suite (Arr. Pletnev for Piano): IV. Andante",
       "url": "https://open.spotify.com/track/0vMO8685dz5eX2gOUGs7Hl"
+    },
+    {
+      "album": {
+        "name": "\"Prelude to Autumn: Classical Works\"",
+        "url": "https://open.spotify.com/album/5ozMUMtwuK4sEk2KPZZJMW"
+      },
+      "artists": [
+        {
+          "name": "Pyotr Ilyich Tchaikovsky",
+          "url": "https://open.spotify.com/artist/3MKCzCnpzw3TjUYs2v7vDA"
+        },
+        {
+          "name": "Russian National Orchestra",
+          "url": "https://open.spotify.com/artist/1W3sZMluDmealiI6B5awE9"
+        },
+        {
+          "name": "Mikhail Pletnev",
+          "url": "https://open.spotify.com/artist/2YdRnOqBXCl9g8xCLcGh8C"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 45000,
+      "name": "The Sleeping Beauty, Op. 66, Act II: No. 16, Scene. Allegro agitato",
+      "url": "https://open.spotify.com/track/5iYqvtghRltVAb7OucxlEI"
     },
     {
       "album": {
@@ -71797,6 +71929,24 @@
     },
     {
       "album": {
+        "name": "Arriba en la Cordillera",
+        "url": "https://open.spotify.com/album/0qKkB8oasao1lWN5BT20Pr"
+      },
+      "artists": [
+        {
+          "name": "Patricio Manns",
+          "url": "https://open.spotify.com/artist/0qX7rdOqbH8vUUeXUUsiqf"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176560,
+      "name": "Un Cuarto de Tocopilla - Mataron a mi Morena",
+      "url": "https://open.spotify.com/track/5f2LSs96anrS1kquiYrYcW"
+    },
+    {
+      "album": {
         "name": "Concierto Ac\u00fastico (En Vivo 2014)",
         "url": "https://open.spotify.com/album/2hSZjJ2kcjzIJdGgAWNGEq"
       },
@@ -74037,6 +74187,28 @@
     },
     {
       "album": {
+        "name": "\"Prelude to Autumn: Classical Works\"",
+        "url": "https://open.spotify.com/album/5ozMUMtwuK4sEk2KPZZJMW"
+      },
+      "artists": [
+        {
+          "name": "Fr\u00e9d\u00e9ric Chopin",
+          "url": "https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4"
+        },
+        {
+          "name": "Pavel Kolesnikov",
+          "url": "https://open.spotify.com/artist/0NzCpFJbPBZOQylvKJ25AJ"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 87266,
+      "name": "Waltz No. 16 in A-Flat Major, KK IVa/13",
+      "url": "https://open.spotify.com/track/4DlSuD8AXLcFnHzDpCYE1d"
+    },
+    {
+      "album": {
         "name": "\"Ongaku Kissa\": Classical Listening Room",
         "url": "https://open.spotify.com/album/3XnrYWFDL6AFNFPmPTGoNh"
       },
@@ -74052,7 +74224,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 155866,
       "name": "Waltz No. 19 in A Minor, KK IVb/11",
       "url": "https://open.spotify.com/track/5oOqhC4TUixHoMKsUTAKSY"
@@ -77740,7 +77912,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 300196,
       "name": "Yogis of Ukraine",
       "url": "https://open.spotify.com/track/2OPiQAhshy7hddwm1f2Sb2"
@@ -78810,7 +78982,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 365034,
       "name": "\u0414\u043e\u0436\u0434\u044c \u0434\u043b\u044f \u043d\u0430\u0441",
       "url": "https://open.spotify.com/track/3ejZc1ZBoAzu3YrIk9zIiE"
@@ -78934,6 +79106,24 @@
       "duration_ms": 105125,
       "name": "\u042f\u0415\u0412\u0412\u0420",
       "url": "https://open.spotify.com/track/0S5Wp3jXKPasDKWeLnZ4co"
+    },
+    {
+      "album": {
+        "name": "Dark Asylum",
+        "url": "https://open.spotify.com/album/45lza7L1i8JsoMdsoLqQEv"
+      },
+      "artists": [
+        {
+          "name": "Kamelot",
+          "url": "https://open.spotify.com/artist/7gTbq5nTZGQIUgjEGXQpOS"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 274040,
+      "name": "\u2060Ivy, My Dear",
+      "url": "https://open.spotify.com/track/4BSnEp2YYuAI880DDCHX2k"
     },
     {
       "album": {

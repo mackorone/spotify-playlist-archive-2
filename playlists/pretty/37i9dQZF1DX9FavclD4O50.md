@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 
 > Eerie pieces created by waving hands around Leon Theremin's otherworldly instrument\. Clara Rockmore on cover.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,105 likes - 50 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,107 likes - 50 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,8 +12,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9FavclD4O50.md) - [plain]
 | 2 | [Lunar Rhapsody](https://open.spotify.com/track/1bsxstU5DmtFcBxDfkyNbq) | [Dr\. Samuel J\. Hoffman](https://open.spotify.com/artist/4CcqyDWCT71rXYlV8lG0W2), [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [Music Out Of The Moon: Music Unusual Featuring The Theremin](https://open.spotify.com/album/5GMWZbNXGJSWhFq8661HhO) | 3:05 |
 | 3 | [The Swan](https://open.spotify.com/track/7osEgWW0fkuz4mGYzkRGsN) | [Camille Saint\-Saëns](https://open.spotify.com/artist/436sYg6CZhNefQJogaXeK0), [Clara Rockmore](https://open.spotify.com/artist/68fVdoSpVmeUUnSirEif4Q), [Nadia Reisenberg](https://open.spotify.com/artist/5WKWtfP2aDQAOwAvhxquPR) | [Music In and On The Air](https://open.spotify.com/album/3mOQzPO4HMa1mmQggKdGe1) | 2:58 |
 | 4 | [Lacrimosa](https://open.spotify.com/track/6JOYu6rrJcSMcO4IIdplog) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Discmorphia](https://open.spotify.com/album/1ba187ocIN64czJt2OD5li) | 3:38 |
-| 5 | [A Happy Place](https://open.spotify.com/track/5kQdkVxKCKcDH6yPKXiyTQ) | [Dorit Chrysler](https://open.spotify.com/artist/20rXRDxITRCP0BZVwUYTfV) | [A Happy Place](https://open.spotify.com/album/1DW3ytYb3yN63c9Mmq0pgr) | 2:09 |
-| 6 | [Les Berceaux, Op\. 23 No\. 1 \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/7w2mM8cQGXsMqVaRlrEs4J) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 2:31 |
+| 5 | [Les Berceaux, Op\. 23 No\. 1 \(Arr\. for Theremin and Piano\)](https://open.spotify.com/track/7w2mM8cQGXsMqVaRlrEs4J) | [Carolina Eyck](https://open.spotify.com/artist/5ZrrzzxmMRfGFioCWEfGMI), [Giulietta Koch](https://open.spotify.com/artist/4oPnpmC5oEb8v36lf4Didb) | [Theremin](https://open.spotify.com/album/4FNmgdPScMSs1jx6a64QxY) | 2:31 |
+| 6 | [A Happy Place](https://open.spotify.com/track/5kQdkVxKCKcDH6yPKXiyTQ) | [Dorit Chrysler](https://open.spotify.com/artist/20rXRDxITRCP0BZVwUYTfV) | [A Happy Place](https://open.spotify.com/album/1DW3ytYb3yN63c9Mmq0pgr) | 2:09 |
 | 7 | [Moon Moods](https://open.spotify.com/track/7dEzL6ExaXLQKVibtqjxQY) | [Dr\. Samuel J\. Hoffman](https://open.spotify.com/artist/4CcqyDWCT71rXYlV8lG0W2), [Les Baxter](https://open.spotify.com/artist/35pV6EUbherudlvAftoueR) | [Music Out Of The Moon: Music Unusual Featuring The Theremin](https://open.spotify.com/album/5GMWZbNXGJSWhFq8661HhO) | 2:57 |
 | 8 | [Mysterons Theme](https://open.spotify.com/track/0sliCazBkrrX6OqVkqaW9F) | [Radio Science Orchestra](https://open.spotify.com/artist/68zs0SPQL8kAKrWmiYOaci) | [Mysterons Theme](https://open.spotify.com/album/6Rc5C6X5t1U7zojgkkyVDq) | 2:28 |
 | 9 | [Somewhere over the Rainbow](https://open.spotify.com/track/5TFRWQT4v6LVQluDYoIcpe) | [Armen Ra](https://open.spotify.com/artist/0YHZ5h5Xm50R5bW5ISx08A) | [Theremin Ameriqué: The American Songbook](https://open.spotify.com/album/3iQE5NRJUsS6bd61fg63xY) | 2:43 |

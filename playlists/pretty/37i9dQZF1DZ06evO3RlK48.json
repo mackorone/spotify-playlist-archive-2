@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 18378,
+  "num_followers": 18384,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqstgAAAAAB+LRWqi1UUrKtFhvRl8D9+",
+  "snapshot_id": "aqx/AAAAAACYKRL1wCT4JHIFUBZziR3I",
   "tracks": [
     {
       "added_at": null,
@@ -616,9 +616,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 246601,
-      "name": "Everything",
-      "url": "https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO"
+      "duration_ms": 255507,
+      "name": "Crying On The Bathroom Floor",
+      "url": "https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr"
     },
     {
       "added_at": null,
@@ -632,9 +632,9 @@
           "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
         }
       ],
-      "duration_ms": 255507,
-      "name": "Crying On The Bathroom Floor",
-      "url": "https://open.spotify.com/track/6nVKC0GCQrf9MQSJgYiaEr"
+      "duration_ms": 246601,
+      "name": "Everything",
+      "url": "https://open.spotify.com/track/7amhPuxeGqyhpSuBfkx9lO"
     }
   ],
   "unique_name": "This Is MUNA",

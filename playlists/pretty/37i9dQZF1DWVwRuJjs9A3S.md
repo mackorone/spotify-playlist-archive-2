@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVwRuJjs9A3S.md) - [plain]
 
 > Det senaste och bästa från världen av indie\. Cover: Tove Styrke
 
-[Spotify](https://open.spotify.com/user/spotify) - 48,604 likes - 201 songs - 11 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 48,600 likes - 201 songs - 11 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -104,8 +104,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 94 | [Pearls](https://open.spotify.com/track/6R6ArKEeJaNrFnSCM80KTn) | [SKAAR](https://open.spotify.com/artist/4NwacAakrdNGNinNP54KTQ) | [The Other Side Of Waiting](https://open.spotify.com/album/3TqiXfpJ027fdRQFhEz9rz) | 2:47 |
 | 95 | [Kokain](https://open.spotify.com/track/56QJ0BBPhIGmBIzRX7C9pl) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 2:53 |
 | 96 | [Imposter Syndrome](https://open.spotify.com/track/3wjEFPAe4ofrzlrbPy0WrC) | [Sody](https://open.spotify.com/artist/01y8iBZYk8aeNfPsuTVrAt) | [Star Potential](https://open.spotify.com/album/4yHhW0tJ06QGsIBSpFRchc) | 3:36 |
-| 97 | [Sorry So Sorry](https://open.spotify.com/track/0sQoK8saAalgeoypcoaHXV) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [4th EP Album 'Us in the Summer'](https://open.spotify.com/album/3VQXrqt21tT3CEetwBqWLb) | 2:29 |
-| 98 | [Black Bugatti](https://open.spotify.com/track/26ZQDzHWyLPswpCD9LcDjc) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Dancefloor Erotica](https://open.spotify.com/album/4cqQq02nWguqcZmn137K0V) | 3:28 |
+| 97 | [Black Bugatti](https://open.spotify.com/track/26ZQDzHWyLPswpCD9LcDjc) | [Dagny](https://open.spotify.com/artist/6Paz0vXJJ9bCPf0fEm3qzg) | [Dancefloor Erotica](https://open.spotify.com/album/4cqQq02nWguqcZmn137K0V) | 3:28 |
+| 98 | [Sorry So Sorry](https://open.spotify.com/track/0sQoK8saAalgeoypcoaHXV) | [cignature](https://open.spotify.com/artist/5x9WawpXGR82PWDFk9CKYQ) | [4th EP Album 'Us in the Summer'](https://open.spotify.com/album/3VQXrqt21tT3CEetwBqWLb) | 2:29 |
 | 99 | [How to Break A Heart](https://open.spotify.com/track/76NQyXHQ8nOgWZfIE27yeH) | [Indi Star](https://open.spotify.com/artist/4SVyJmNEqIM2LEOpQeI1N8) | [eMotion Sick](https://open.spotify.com/album/2egqfVCmY9hC2zOMJipEXr) | 2:30 |
 | 100 | [Good Goodbye \(feat\. Arina Luisa\)](https://open.spotify.com/track/6OsM43kmt6IwyxyZ1990Bv) | [Gil Glaze](https://open.spotify.com/artist/6pNzdcgIaKQKsYNS5agP4V), [Arina Luisa](https://open.spotify.com/artist/2ifpJqINxr10dL5D4THsCd) | [Good Goodbye \(feat\. Arina Luisa\)](https://open.spotify.com/album/3Zkz5gI9neiB8si7zXxfmN) | 2:26 |
 | 101 | [Stanna kvar](https://open.spotify.com/track/1jPZKsumGQFoUG2jN4hvmF) | [Kerstin Ljungström](https://open.spotify.com/artist/5OoHiZhOXBrB73x6TixINe), [F.N.Y](https://open.spotify.com/artist/04yNJEB7tEAEie8UWjzTAI) | [Till dig](https://open.spotify.com/album/56XTMdFRw5XKTHJUsEqdT1) | 3:15 |
@@ -127,4 +127,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFFaNIqhJxmrd.md) - [plain]
 | 117 | [Kollektivtrafikens Julnatt \(Midnatt Råder\)](https://open.spotify.com/track/47bzV0ETyGsu3srq4OllwQ) | [Tomtekollektivet](https://open.spotify.com/artist/5azVZddL5SFQ9lZn3zx7ih) | [Kollektivtrafikens julnatt \(Midnatt råder\)](https://open.spotify.com/album/4jvFXKwbay8D5ti6D0yTgQ) | 1:24 |
 | 118 | [kärlek \(is not enough\)](https://open.spotify.com/track/1Oy70R2c04QKHyssE4ZBHj) | [Ariza](https://open.spotify.com/artist/4hfAjEKTAFTmJvGQCGTED5) | [kärlek \(is not enough\)](https://open.spotify.com/album/3BIYIXIDa88Wu6uLhiKzql) | 2:53 |
 
-Snapshot ID: `AccqqAAAAADSrGA3lRTkg40yuDmBRQAf`
+Snapshot ID: `AccwXAAAAABwkwQwJ6f2pthzF3iWXZ66`

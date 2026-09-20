@@ -3677,6 +3677,24 @@
     },
     {
       "album": {
+        "name": "Adrenalin 2.0",
+        "url": "https://open.spotify.com/album/1rSP04qllSL950pM6nE9G7"
+      },
+      "artists": [
+        {
+          "name": "Kontra K",
+          "url": "https://open.spotify.com/artist/4lDiJcOJ2GLCK6p9q5BgfK"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171506,
+      "name": "Adrenalin 2.0",
+      "url": "https://open.spotify.com/track/5QKA5bLgapUv4saAsivuPP"
+    },
+    {
+      "album": {
         "name": "Adrenalina",
         "url": "https://open.spotify.com/album/67bLwGrXGnZrC1YUdsLzle"
       },
@@ -8612,7 +8630,7 @@
       ],
       "date_added": "2025-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 199032,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/7qjZnBKE73H4Oxkopwulqe"
@@ -12306,7 +12324,7 @@
       ],
       "date_added": "2026-09-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 115197,
       "name": "Black Afgano",
       "url": "https://open.spotify.com/track/32Bmxux0EnqKDlJFYYdpbj"
@@ -13462,7 +13480,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
@@ -25076,7 +25094,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -35117,6 +35135,32 @@
     },
     {
       "album": {
+        "name": "Hardtekk Tutorial",
+        "url": "https://open.spotify.com/album/4io0ELeCGNtA9pw1jT8aVi"
+      },
+      "artists": [
+        {
+          "name": "Ski Aggu",
+          "url": "https://open.spotify.com/artist/6CP5wWvO8oIxedESJNCN4H"
+        },
+        {
+          "name": "DJ T\u00d6RKE",
+          "url": "https://open.spotify.com/artist/5gpxWxEen1TWxtw3sDU2do"
+        },
+        {
+          "name": "Mr. Polska",
+          "url": "https://open.spotify.com/artist/1A6HQzOvtGaCYihOuIKjE6"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164819,
+      "name": "Hardtekk Tutorial",
+      "url": "https://open.spotify.com/track/2VtJ8QY3fzrq5tXbqjcnK4"
+    },
+    {
+      "album": {
         "name": "HASENJAGD",
         "url": "https://open.spotify.com/album/7z6XRu94FWJRAsVaFeodgL"
       },
@@ -37334,6 +37378,28 @@
       "duration_ms": 139497,
       "name": "H\u00e4ltst du mit?",
       "url": "https://open.spotify.com/track/7KCWmkELScYBSGqahvJqfu"
+    },
+    {
+      "album": {
+        "name": "H\u00e4nde hoch",
+        "url": "https://open.spotify.com/album/0vl8ilBdBiEWUURZWXR75K"
+      },
+      "artists": [
+        {
+          "name": "YUNG SAINT PAUL",
+          "url": "https://open.spotify.com/artist/7KPX8F8F0fLE0sYMTU4p9R"
+        },
+        {
+          "name": "Bausa",
+          "url": "https://open.spotify.com/artist/13bDjug9N0pyv3ZUINjkDV"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160471,
+      "name": "H\u00e4nde hoch",
+      "url": "https://open.spotify.com/track/1DbSdrVRrcXL8KuXFkw7rZ"
     },
     {
       "album": {
@@ -41554,6 +41620,28 @@
       "duration_ms": 151670,
       "name": "Jeden Tag (feat. CIVO)",
       "url": "https://open.spotify.com/track/5QsEE2GPFHT9Nj7RONKN7r"
+    },
+    {
+      "album": {
+        "name": "Jeden Tag - A COLORS SHOW",
+        "url": "https://open.spotify.com/album/6Enup79Eqcq6kfWVUvpW30"
+      },
+      "artists": [
+        {
+          "name": "THIZZY52",
+          "url": "https://open.spotify.com/artist/1dVKBw8iMPpS1almxwIVI3"
+        },
+        {
+          "name": "COLORS",
+          "url": "https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112144,
+      "name": "Jeden Tag - A COLORS SHOW",
+      "url": "https://open.spotify.com/track/1Hlo1bkcEAlHgA8WvOkqph"
     },
     {
       "album": {
@@ -47144,7 +47232,7 @@
       ],
       "date_added": "2026-05-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 224216,
       "name": "Legendary Lovers",
       "url": "https://open.spotify.com/track/0pOZYYEJawmTAPtkzYKSa2"
@@ -59518,7 +59606,7 @@
       ],
       "date_added": "2024-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 187520,
       "name": "Numb",
       "url": "https://open.spotify.com/track/2nLtzopw4rPReszdYBJU6h"
@@ -60150,6 +60238,24 @@
       "duration_ms": 147372,
       "name": "OEO",
       "url": "https://open.spotify.com/track/5iRaaDJo5uz0ysY02Xedgz"
+    },
+    {
+      "album": {
+        "name": "Off",
+        "url": "https://open.spotify.com/album/7l8a3chAnfA9ypZRO1hgIu"
+      },
+      "artists": [
+        {
+          "name": "Sosa La M",
+          "url": "https://open.spotify.com/artist/6bM6rpwjhvxuKSQ2OJ2eQC"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132666,
+      "name": "Off",
+      "url": "https://open.spotify.com/track/3Wj2ewc5A5Jy0nAdCwBwss"
     },
     {
       "album": {
@@ -61548,7 +61654,7 @@
       ],
       "date_added": "2025-03-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 186964,
       "name": "Ordinary",
       "url": "https://open.spotify.com/track/2RkZ5LkEzeHGRsmDqKwmaJ"
@@ -62504,6 +62610,24 @@
       "duration_ms": 166254,
       "name": "PAPAYA",
       "url": "https://open.spotify.com/track/07Y3QCskHmxIgTobkiBEBr"
+    },
+    {
+      "album": {
+        "name": "Paper",
+        "url": "https://open.spotify.com/album/2pg72JVxSzNhKXthjfsP6W"
+      },
+      "artists": [
+        {
+          "name": "AK AUSSERKONTROLLE",
+          "url": "https://open.spotify.com/artist/07SFzTMeYf5P8Rd32a9Zzw"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157291,
+      "name": "Paper",
+      "url": "https://open.spotify.com/track/4OHZawF8aSfIBErnsh0oJZ"
     },
     {
       "album": {
@@ -75851,6 +75975,28 @@
     },
     {
       "album": {
+        "name": "Stille K\u00e4mpfe",
+        "url": "https://open.spotify.com/album/6i7nTqFylGp2JEqUIHCDxc"
+      },
+      "artists": [
+        {
+          "name": "NESS",
+          "url": "https://open.spotify.com/artist/0860MVRZC3Llgf1mFvnd1R"
+        },
+        {
+          "name": "Montez",
+          "url": "https://open.spotify.com/artist/5ZY4M2aGiTaZQEP6HfqeJc"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 167615,
+      "name": "Stille K\u00e4mpfe",
+      "url": "https://open.spotify.com/track/5bwAUjXCeswq7BD1dX4hqV"
+    },
+    {
+      "album": {
         "name": "Stilles Wasser",
         "url": "https://open.spotify.com/album/2tv3l5YwxyOiMgnC6LVWEv"
       },
@@ -77966,7 +78112,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/2tpfxAXiI52znho4WE3XFA"
@@ -78002,7 +78148,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-12",
+      "date_removed": null,
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/7cgu4JBW3hq1GwTM1ilkKQ"
@@ -79224,7 +79370,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 297090,
       "name": "the cure",
       "url": "https://open.spotify.com/track/55pBIZO1cqoldeqpp5WR7H"
@@ -81826,7 +81972,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 187973,
       "name": "Treat You Better",
       "url": "https://open.spotify.com/track/3QGsuHI8jO1Rx4JWLUh9jd"
@@ -82212,6 +82358,24 @@
       "duration_ms": 308755,
       "name": "TSU",
       "url": "https://open.spotify.com/track/4s7QLoImIwmPi9L6dq1nVW"
+    },
+    {
+      "album": {
+        "name": "TTT",
+        "url": "https://open.spotify.com/album/5MZP9Yn7368Rxg6A9t5iSv"
+      },
+      "artists": [
+        {
+          "name": "LACAZETTE",
+          "url": "https://open.spotify.com/artist/7rBed6Ya7Hwa2fXbh5btJE"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151500,
+      "name": "TTT",
+      "url": "https://open.spotify.com/track/4AiyOygLad3NHGPwQOxY5N"
     },
     {
       "album": {
@@ -84750,7 +84914,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 94615,
       "name": "Vibin",
       "url": "https://open.spotify.com/track/6eMVI1rdG5VBXHovMAbIvs"
@@ -87857,6 +88021,28 @@
     },
     {
       "album": {
+        "name": "GOLDJUNGE",
+        "url": "https://open.spotify.com/album/4kfQeTQrxjlqjBcMIKmBQ5"
+      },
+      "artists": [
+        {
+          "name": "Aymen",
+          "url": "https://open.spotify.com/artist/28TqrmNSPiKo5w3WVb3A3N"
+        },
+        {
+          "name": "CAPO",
+          "url": "https://open.spotify.com/artist/5y9wg9qkGBl0n9v9RzaPKu"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 132571,
+      "name": "Wempe",
+      "url": "https://open.spotify.com/track/33carOizvQbe1sCJrdsL9T"
+    },
+    {
+      "album": {
         "name": "WENDEKiND",
         "url": "https://open.spotify.com/album/0flq7NaPT91qHfPYujM3CD"
       },
@@ -90375,6 +90561,24 @@
     },
     {
       "album": {
+        "name": "WOKE",
+        "url": "https://open.spotify.com/album/55CiMJcX0f7ry0OMs4f818"
+      },
+      "artists": [
+        {
+          "name": "Sido",
+          "url": "https://open.spotify.com/artist/4Yttlv9ndGjCDCVLqM7ACq"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157720,
+      "name": "WOKE",
+      "url": "https://open.spotify.com/track/2rcUsgC2Op6lXRWJqXwUNL"
+    },
+    {
+      "album": {
         "name": "Wolke 4",
         "url": "https://open.spotify.com/album/4ZVi8tzbQDvb49jXMQYEKn"
       },
@@ -90630,7 +90834,7 @@
       ],
       "date_added": "2024-08-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/5qqabIl2vWzo9ApSC317sa"
@@ -90648,7 +90852,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

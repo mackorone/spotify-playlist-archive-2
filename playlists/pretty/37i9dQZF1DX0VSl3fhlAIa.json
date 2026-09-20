@@ -1,6 +1,6 @@
 {
   "description": "Japanese R&B flowing with the graceful smoothness and radiant sheen of a silk kimono.",
-  "num_followers": 10105,
+  "num_followers": 10126,
   "original_name": "Kimono R&B",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-08-30 05:38:40",
       "album": {
+        "name": "Chosen One",
+        "url": "https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31"
+      },
+      "artists": [
+        {
+          "name": "aimi",
+          "url": "https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7"
+        }
+      ],
+      "duration_ms": 151891,
+      "name": "Chosen One",
+      "url": "https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB"
+    },
+    {
+      "added_at": "2026-08-30 05:38:40",
+      "album": {
         "name": "BRAIDED",
         "url": "https://open.spotify.com/album/1JybQHCd0xADI7rG8QlqgH"
       },
@@ -759,18 +775,18 @@
     {
       "added_at": "2026-08-30 05:38:40",
       "album": {
-        "name": "Chosen One",
-        "url": "https://open.spotify.com/album/1zamcgFy1aMew8FQBVUS31"
+        "name": "Crystal",
+        "url": "https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc"
       },
       "artists": [
         {
-          "name": "aimi",
-          "url": "https://open.spotify.com/artist/4YejPGH3QAUl4dj1ZZk6e7"
+          "name": "Double",
+          "url": "https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq"
         }
       ],
-      "duration_ms": 151891,
-      "name": "Chosen One",
-      "url": "https://open.spotify.com/track/4VZJyx96dNBeRAZnUyNfrB"
+      "duration_ms": 321400,
+      "name": "BED (DOUBLES)",
+      "url": "https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR"
     },
     {
       "added_at": "2026-08-30 05:38:40",
@@ -791,22 +807,6 @@
       "duration_ms": 264006,
       "name": "Changes",
       "url": "https://open.spotify.com/track/7FkCColdGXYdkLZf7HbjK5"
-    },
-    {
-      "added_at": "2026-08-30 05:38:40",
-      "album": {
-        "name": "Crystal",
-        "url": "https://open.spotify.com/album/3QFHFLCxtePvkDaObgDCgc"
-      },
-      "artists": [
-        {
-          "name": "Double",
-          "url": "https://open.spotify.com/artist/17R4EPcqqyTa84kesDmNGq"
-        }
-      ],
-      "duration_ms": 321400,
-      "name": "BED (DOUBLES)",
-      "url": "https://open.spotify.com/track/5AhAbUiIlGP6Cp4Lq6rigR"
     },
     {
       "added_at": "2026-08-30 05:38:40",

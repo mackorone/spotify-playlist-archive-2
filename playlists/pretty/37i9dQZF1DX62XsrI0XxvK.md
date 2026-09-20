@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 
 > Irama R&B tanah air yang merasuk jiwa\. Cover: Gavendri
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,631 likes - 100 songs - 5 hr 56 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,633 likes - 100 songs - 5 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX62XsrI0XxvK.md) - [plain]
 | 3 | [FORE 5](https://open.spotify.com/track/64WxX6FZICVtrFEV487lbR) | [Ezra Kunze](https://open.spotify.com/artist/4lzzcddgX9uA1wClALOnVm), [Fathan Maulana](https://open.spotify.com/artist/2pHmELtftQpKpB1SMNpIM4), [Monica Karina](https://open.spotify.com/artist/4uz19Fx4VF6BHhzmTuSCOR) | [TRANSIT](https://open.spotify.com/album/1A0KHF8Acgqer3O2MYyG42) | 3:48 |
 | 4 | [Rayuku](https://open.spotify.com/track/1mIWxi31N9tcTCmpU7otHm) | [REDI](https://open.spotify.com/artist/6acBs6Ak3fqD43AlqZKJmt), [Tarrarin](https://open.spotify.com/artist/0KKh5D2k0gvbsSKwDiR00f) | [Rayuku](https://open.spotify.com/album/72oe6aAqEHXSBhGc1PPUnd) | 3:05 |
 | 5 | [hujan dan petir](https://open.spotify.com/track/0QVF3rDHoCVQx3L0NZrkVT) | [Amabel Odelia](https://open.spotify.com/artist/4PUkvkks3jURfv02pD0FKU) | [hujan dan petir](https://open.spotify.com/album/1qh9vZrV39vl08Ua8pjssf) | 3:36 |
-| 6 | [GAS](https://open.spotify.com/track/4romMGKzDUkoQdZ8AKhaUw) | [Mungare](https://open.spotify.com/artist/5X2SFAbo3a1bZkCWjlBlhh), [Gideon Beffers](https://open.spotify.com/artist/5clPsfD5UJ8rIYznlqiHDm), [GunZ](https://open.spotify.com/artist/2tItHfRlpIi2EqChSeogSx) | [GAS](https://open.spotify.com/album/7Cnev4uEfwCZYtw3OYJbOn) | 4:20 |
+| 6 | [GAS](https://open.spotify.com/track/4romMGKzDUkoQdZ8AKhaUw) | [Mungare](https://open.spotify.com/artist/5X2SFAbo3a1bZkCWjlBlhh), [Gideon Beffers](https://open.spotify.com/artist/4uGtpFaHbE8vNgOCFB5mvp), [GunZ](https://open.spotify.com/artist/1TU6sLpWMQEHUhIgFJVVVl) | [GAS](https://open.spotify.com/album/7Cnev4uEfwCZYtw3OYJbOn) | 4:20 |
 | 7 | [Seng Bale](https://open.spotify.com/track/4pZNrO9IUfK5gqbLFPJFD5) | [Ver](https://open.spotify.com/artist/7AluWoElAgY8ovIcly5hZX), [Glen Sebastian](https://open.spotify.com/artist/2qunaAI3QwX37vYOSzf4Y2) | [Seng Bale](https://open.spotify.com/album/4pZirTkk2clQtU2FtRKnqk) | 3:53 |
 | 8 | [Untuk Apa](https://open.spotify.com/track/3i87OzeSLGTuIagcZBQ1g2) | [Farrel Hilal](https://open.spotify.com/artist/1J8zqQ7mkAaYY9jDBwu0Np) | [Untuk Apa](https://open.spotify.com/album/6kIoOcxerEzMpbA2b7OuLA) | 4:21 |
 | 9 | [No One Else \(Only You\)](https://open.spotify.com/track/4M2Vf0ET3YJ8MWj3PbHTwW) | [Wizzow](https://open.spotify.com/artist/2AtpVBJtiIqNDKGyMJ1Kfq), [Anggun Dae](https://open.spotify.com/artist/59VJhih06fQKi3Sw7ukh9J) | [No One Else \(Only You\)](https://open.spotify.com/album/7y1XDVCyDEIsKPR8Tie2MS) | 3:19 |

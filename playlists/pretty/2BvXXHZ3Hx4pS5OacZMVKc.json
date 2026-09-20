@@ -1,6 +1,6 @@
 {
   "description": "NCS / NoCopyrightSounds royalty free gaming music for YouTube &amp; Twitch Streaming",
-  "num_followers": 130137,
+  "num_followers": 130136,
   "original_name": "Gaming Music 2026",
   "owner": {
     "name": "NCS",
@@ -16,12 +16,12 @@
       },
       "artists": [
         {
-          "name": "prodBigMike",
-          "url": "https://open.spotify.com/artist/7JOwVqYOnGJOHlyCXsbg7X"
-        },
-        {
           "name": "Glitch Cat",
           "url": "https://open.spotify.com/artist/3zquCvGjujDQ8U53bH1ngW"
+        },
+        {
+          "name": "prodBigMike",
+          "url": "https://open.spotify.com/artist/7JOwVqYOnGJOHlyCXsbg7X"
         }
       ],
       "duration_ms": 284307,

@@ -1,6 +1,6 @@
 {
   "description": "La banda sonora de tu orgullo. Foto: Yoly Saa.",
-  "num_followers": 22976,
+  "num_followers": 22979,
   "original_name": "Glow Espa\u00f1a",
   "owner": {
     "name": "Spotify",
@@ -603,22 +603,6 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "Mejor ma\u00f1ana",
-        "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
-      },
-      "artists": [
-        {
-          "name": "Alba Reche",
-          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
-        }
-      ],
-      "duration_ms": 203893,
-      "name": "Mejor ma\u00f1ana",
-      "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
-    },
-    {
-      "added_at": "2026-09-07 22:00:31",
-      "album": {
         "name": "se sube la falda",
         "url": "https://open.spotify.com/album/39yWpCeMmpeaU59KetH1BN"
       },
@@ -635,18 +619,18 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "Agarra mi mano",
-        "url": "https://open.spotify.com/album/1kl8nbAqnfbUrFyxYznSjY"
+        "name": "Mejor ma\u00f1ana",
+        "url": "https://open.spotify.com/album/4Z8kBNb9uF82tZ8lyB3Zne"
       },
       "artists": [
         {
-          "name": "Lucia De la Puerta",
-          "url": "https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa"
+          "name": "Alba Reche",
+          "url": "https://open.spotify.com/artist/4mkCQKEe89EI0kn0Q7tMyK"
         }
       ],
-      "duration_ms": 207310,
-      "name": "Agarra mi mano",
-      "url": "https://open.spotify.com/track/5YE1gftd3Bf8kQSp8eksZm"
+      "duration_ms": 203893,
+      "name": "Mejor ma\u00f1ana",
+      "url": "https://open.spotify.com/track/4t3ygqKQUD3iZvTl9wgkZN"
     },
     {
       "added_at": "2026-09-07 22:00:31",
@@ -671,6 +655,22 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
+        "name": "Agarra mi mano",
+        "url": "https://open.spotify.com/album/1kl8nbAqnfbUrFyxYznSjY"
+      },
+      "artists": [
+        {
+          "name": "Lucia De la Puerta",
+          "url": "https://open.spotify.com/artist/0LELId4nuwKoBlDUkRsuFa"
+        }
+      ],
+      "duration_ms": 207310,
+      "name": "Agarra mi mano",
+      "url": "https://open.spotify.com/track/5YE1gftd3Bf8kQSp8eksZm"
+    },
+    {
+      "added_at": "2026-09-07 22:00:31",
+      "album": {
         "name": "Manual de Belleza",
         "url": "https://open.spotify.com/album/2CgN7GeZdAbOeqsrra7x4b"
       },
@@ -691,8 +691,8 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "OTA",
-        "url": "https://open.spotify.com/album/4sl6H4xJkNuDjFMPeHZVxJ"
+        "name": "Bichifokel",
+        "url": "https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q"
       },
       "artists": [
         {
@@ -700,9 +700,9 @@
           "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 129230,
-      "name": "OTA",
-      "url": "https://open.spotify.com/track/3FjDHcmwRk8gSEfyjwMBnC"
+      "duration_ms": 187091,
+      "name": "Bichifokel",
+      "url": "https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI"
     },
     {
       "added_at": "2026-09-07 22:00:31",
@@ -775,8 +775,8 @@
     {
       "added_at": "2026-09-07 22:00:31",
       "album": {
-        "name": "Bichifokel",
-        "url": "https://open.spotify.com/album/2KK0e8yhpfGi6ABlslC21Q"
+        "name": "OTA",
+        "url": "https://open.spotify.com/album/4sl6H4xJkNuDjFMPeHZVxJ"
       },
       "artists": [
         {
@@ -784,9 +784,9 @@
           "url": "https://open.spotify.com/artist/1pi7nGhOM7PTHR5YEgXVGq"
         }
       ],
-      "duration_ms": 187091,
-      "name": "Bichifokel",
-      "url": "https://open.spotify.com/track/2vm7BVVuxtrEGNa9sV3ceI"
+      "duration_ms": 129230,
+      "name": "OTA",
+      "url": "https://open.spotify.com/track/3FjDHcmwRk8gSEfyjwMBnC"
     },
     {
       "added_at": "2026-09-07 22:00:31",

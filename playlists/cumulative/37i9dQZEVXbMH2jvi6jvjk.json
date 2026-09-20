@@ -29043,6 +29043,40 @@
     },
     {
       "album": {
+        "name": "Katalia",
+        "url": "https://open.spotify.com/album/0AjXkxmKvDB7AW7QwYhbY2"
+      },
+      "artists": [
+        {
+          "name": "Mr JazziQ",
+          "url": "https://open.spotify.com/artist/1nVEvn7RMNxj27rn0WE13E"
+        },
+        {
+          "name": "Thesiix",
+          "url": "https://open.spotify.com/artist/2x7N5NCXREqzVruOl5ooVD"
+        },
+        {
+          "name": "Shazz RSA",
+          "url": "https://open.spotify.com/artist/1b6HUAPSQHR73XcfcVX0aB"
+        },
+        {
+          "name": "Don Deeya",
+          "url": "https://open.spotify.com/artist/1hwmVIeG7usUT8C55hctdm"
+        },
+        {
+          "name": "Magwe ZA",
+          "url": "https://open.spotify.com/artist/4lLXmWtzqElrCJdec2azf8"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 398593,
+      "name": "Katalia",
+      "url": "https://open.spotify.com/track/4PXBuQsoCja8lHc9TOD61R"
+    },
+    {
+      "album": {
         "name": "Ke bona wena fela",
         "url": "https://open.spotify.com/album/1w4dxepjn2tkcTiCjxEVbZ"
       },
@@ -40708,7 +40742,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 373755,
       "name": "Ngyazama (feat. Brodie.Bro & Mdeshkayro)",
       "url": "https://open.spotify.com/track/3FiRqTzG1RZN0A6m7QrzMk"
@@ -40956,7 +40990,7 @@
       ],
       "date_added": "2026-07-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 272000,
       "name": "Ningikhonzele",
       "url": "https://open.spotify.com/track/3FQ35B2LboHaOVqOvvDOjh"
@@ -48178,7 +48212,7 @@
       ],
       "date_added": "2026-06-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 60081,
       "name": "Sample",
       "url": "https://open.spotify.com/track/2qa3X1zH5beq8hx6mVairO"
@@ -50494,7 +50528,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 357336,
       "name": "Sinukelwa yigazi",
       "url": "https://open.spotify.com/track/0Cx6vJyXraIMRoCN0Ah3pr"
@@ -55254,7 +55288,7 @@
       ],
       "date_added": "2025-10-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 346277,
       "name": "Thandolwethu",
       "url": "https://open.spotify.com/track/0aXocmdjaWdkbYZ2ToDpre"

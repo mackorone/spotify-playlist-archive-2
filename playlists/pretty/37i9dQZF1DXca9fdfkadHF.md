@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXca9fdfkadHF.md) - [plain]
 
 > Recordando el inmenso legado de Pedro Suárez\-Vértiz y el 30 aniversario de Póntelo en la Lengua 🕊️
 
-[Spotify](https://open.spotify.com/user/spotify) - 96,568 likes - 60 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 96,587 likes - 60 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

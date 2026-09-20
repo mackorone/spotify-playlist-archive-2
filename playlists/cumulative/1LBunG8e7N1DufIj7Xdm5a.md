@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,785 songs - 10 day 19 hr 0 min
+4,786 songs - 10 day 19 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -4510,6 +4510,7 @@
 | [Vuless Capì 2.0 \- Lortex](https://open.spotify.com/track/00VpjurjDlZX3Ofd5w6TSf) | [ElleErre](https://open.spotify.com/artist/5VTRddwg612kVP9dyxC6J8), [Lord Bart](https://open.spotify.com/artist/0cg4Q5yL6GJ7c58H30Ffw2) | [Vuless Capì 2.0 \(Lortex\)](https://open.spotify.com/album/4h8oJE1c5eLBsbqpSAf0xv) | 3:34 | 2025-06-06 |  |
 | [Vuoto](https://open.spotify.com/track/1WQVsMjTmrmYEJQJtN3GYi) | [ALI](https://open.spotify.com/artist/3DJfqc8zXlT27LYHh7NHtC), [SolGio](https://open.spotify.com/artist/0LsJtu0knw6C3W85OTkEfU) | [Vuoto](https://open.spotify.com/album/7zavfGmiVUYHwRa8SXpCcB) | 3:43 | 2025-06-06 |  |
 | [Vuoto Dentro](https://open.spotify.com/track/7l47RTgKRhhSns5W3SsHSD) | [Dubbio](https://open.spotify.com/artist/4zWlFPsiVAQwP3DRIntjvA) | [Vuoto Dentro](https://open.spotify.com/album/4AMYSTVKbP8z13EAxzvrcr) | 2:57 | 2025-05-28 |  |
+| [Vô de Japa](https://open.spotify.com/track/6dq4fEMi8xQM27EIqLYOFJ) | [Pataperros](https://open.spotify.com/artist/1nDx9sKh2gqaWkmSwUX7jm) | [Vô de Japa](https://open.spotify.com/album/1byoXzVxy7BqvmhxUOIizp) | 1:43 | 2026-09-19 |  |
 | [W La Libertà](https://open.spotify.com/track/4OmJ75VAJ80KphUcsu0Nke) | [Pia Tuccitto](https://open.spotify.com/artist/2sW2bQuHtyveK3Fme2Awim), [Augusta Melisi](https://open.spotify.com/artist/4GUJ4O8OTK8gTm5tEEbWva) | [W La Libertà](https://open.spotify.com/album/4U9i957rLYj4UyeJs1YjK4) | 2:28 | 2025-06-03 |  |
 | [Wait](https://open.spotify.com/track/5IvM45tlTeTYoqijBy5MKu) | [Prince Pe](https://open.spotify.com/artist/6lVwACmv0KZrhjPzJoSblh), [Kulez](https://open.spotify.com/artist/3ZWmPTZc1dNIMYBhT5rrwj) | [Wait](https://open.spotify.com/album/44ms4yQdRFlHdR9Ays6Hcq) | 3:47 | 2025-06-05 |  |
 | [Wait Fa Us](https://open.spotify.com/track/2ifG2nelXORLbdWS2pytb8) | [Yhapojj](https://open.spotify.com/artist/4mAsHgZzoZvU0eMbHOB60X) | [T.L.Y.](https://open.spotify.com/album/5q8Z2TtfzKXqC8FlzUS8c9) | 1:48 | 2025-06-23 |  |

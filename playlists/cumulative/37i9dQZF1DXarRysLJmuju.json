@@ -35913,6 +35913,28 @@
     },
     {
       "album": {
+        "name": "Main Thang",
+        "url": "https://open.spotify.com/album/7rZaYybjFdnOrnuFbWYTxt"
+      },
+      "artists": [
+        {
+          "name": "Pr$hA",
+          "url": "https://open.spotify.com/artist/6ZDD906SlfqMxFyVZf88tt"
+        },
+        {
+          "name": "PayFre$ho",
+          "url": "https://open.spotify.com/artist/19hea8d6T3J9n1Q94FTtHK"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 164548,
+      "name": "Main Thang",
+      "url": "https://open.spotify.com/track/1teebUL6uh13s0KAhCaor6"
+    },
+    {
+      "album": {
         "name": "make a move",
         "url": "https://open.spotify.com/album/6Mffoe2CzcWEwkZ1BdzQS5"
       },

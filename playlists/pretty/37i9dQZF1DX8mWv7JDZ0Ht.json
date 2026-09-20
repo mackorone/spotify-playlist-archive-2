@@ -1,6 +1,6 @@
 {
   "description": "Novidades e hits do pop nacional pra te deixar mais leve. Foto:  Fran Gil",
-  "num_followers": 433325,
+  "num_followers": 433314,
   "original_name": "Pop Leve",
   "owner": {
     "name": "Spotify",
@@ -139,26 +139,6 @@
     {
       "added_at": "2026-09-18 15:31:30",
       "album": {
-        "name": "escapismo",
-        "url": "https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ"
-      },
-      "artists": [
-        {
-          "name": "Gabi Melim",
-          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
-        },
-        {
-          "name": "Lu\u00edsa Sonza",
-          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
-        }
-      ],
-      "duration_ms": 180343,
-      "name": "escapismo",
-      "url": "https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS"
-    },
-    {
-      "added_at": "2026-09-18 15:31:30",
-      "album": {
         "name": "Resposta - Spotify Singles",
         "url": "https://open.spotify.com/album/3FuB4A3sDbyTgzTOtBgEPQ"
       },
@@ -175,6 +155,26 @@
       "duration_ms": 191307,
       "name": "Resposta - Spotify Singles",
       "url": "https://open.spotify.com/track/1JGys240AjaUdd1aoXU64R"
+    },
+    {
+      "added_at": "2026-09-18 15:31:30",
+      "album": {
+        "name": "escapismo",
+        "url": "https://open.spotify.com/album/4GeMvdIy9pvdgujgRmjavJ"
+      },
+      "artists": [
+        {
+          "name": "Gabi Melim",
+          "url": "https://open.spotify.com/artist/4FrPUH8ZkNnw9DPpqts5OM"
+        },
+        {
+          "name": "Lu\u00edsa Sonza",
+          "url": "https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d"
+        }
+      ],
+      "duration_ms": 180343,
+      "name": "escapismo",
+      "url": "https://open.spotify.com/track/5iT4Hmll1xk9eEiGg6zrTS"
     },
     {
       "added_at": "2026-09-18 15:31:30",
@@ -227,6 +227,22 @@
     {
       "added_at": "2026-09-18 15:31:30",
       "album": {
+        "name": "Rosa Maria",
+        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+      },
+      "artists": [
+        {
+          "name": "Ryan Fidelis",
+          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+        }
+      ],
+      "duration_ms": 232390,
+      "name": "Rosa Maria",
+      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
+    },
+    {
+      "added_at": "2026-09-18 15:31:30",
+      "album": {
         "name": "Sozinho e Bem Acompanhado",
         "url": "https://open.spotify.com/album/0kKYzXj3FhrJbSRT6YBZto"
       },
@@ -243,18 +259,22 @@
     {
       "added_at": "2026-09-18 15:31:30",
       "album": {
-        "name": "Rosa Maria",
-        "url": "https://open.spotify.com/album/1j3O7ndLOJazzQmfKh6FdT"
+        "name": "Atemporal - PART II",
+        "url": "https://open.spotify.com/album/7bh7n8MOfnOfSbFcsLdTf6"
       },
       "artists": [
         {
-          "name": "Ryan Fidelis",
-          "url": "https://open.spotify.com/artist/4rkTUIMEwnwtVEXFZDqFjm"
+          "name": "Zeeba",
+          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
+        },
+        {
+          "name": "Hungria",
+          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
         }
       ],
-      "duration_ms": 232390,
-      "name": "Rosa Maria",
-      "url": "https://open.spotify.com/track/2dtqWQf6ye7d1k5bHxjJQI"
+      "duration_ms": 192050,
+      "name": "Coisas da Vida",
+      "url": "https://open.spotify.com/track/6Ur3mHqLvFKMAvQJJaylKh"
     },
     {
       "added_at": "2026-09-18 15:31:30",
@@ -531,6 +551,38 @@
     {
       "added_at": "2026-09-18 15:31:30",
       "album": {
+        "name": "Errado pra mim",
+        "url": "https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe"
+      },
+      "artists": [
+        {
+          "name": "Ananda",
+          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
+        }
+      ],
+      "duration_ms": 151925,
+      "name": "Errado pra mim",
+      "url": "https://open.spotify.com/track/6EAqA71uEIEtt0QfvU8OAQ"
+    },
+    {
+      "added_at": "2026-09-18 15:31:30",
+      "album": {
+        "name": "Quando me ver passar",
+        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+      },
+      "artists": [
+        {
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+        }
+      ],
+      "duration_ms": 134753,
+      "name": "Quando me ver passar",
+      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
+    },
+    {
+      "added_at": "2026-09-18 15:31:30",
+      "album": {
         "name": "Eu s\u00f3 quero um xod\u00f3",
         "url": "https://open.spotify.com/album/2s6qsazRApew3tJUkjoyps"
       },
@@ -555,18 +607,18 @@
     {
       "added_at": "2026-09-18 15:31:30",
       "album": {
-        "name": "Quando me ver passar",
-        "url": "https://open.spotify.com/album/2xUiJzdSoTEB16fD117fR7"
+        "name": "AMARINA Canta Kid Abelha",
+        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
       },
       "artists": [
         {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
+          "name": "AMARINA",
+          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
         }
       ],
-      "duration_ms": 134753,
-      "name": "Quando me ver passar",
-      "url": "https://open.spotify.com/track/2CUIL76u0Nh37k1hcIwC4P"
+      "duration_ms": 227410,
+      "name": "L\u00e1grimas e Chuva",
+      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
     },
     {
       "added_at": "2026-09-18 15:31:30",
@@ -611,18 +663,18 @@
     {
       "added_at": "2026-09-18 15:31:30",
       "album": {
-        "name": "AMARINA Canta Kid Abelha",
-        "url": "https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP"
+        "name": "Noturno",
+        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
       },
       "artists": [
         {
-          "name": "AMARINA",
-          "url": "https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG"
+          "name": "Bryan Behr",
+          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
         }
       ],
-      "duration_ms": 227410,
-      "name": "L\u00e1grimas e Chuva",
-      "url": "https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A"
+      "duration_ms": 148000,
+      "name": "Noturno",
+      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
     },
     {
       "added_at": "2026-09-18 15:31:30",
@@ -643,22 +695,6 @@
     {
       "added_at": "2026-09-18 15:31:30",
       "album": {
-        "name": "Noturno",
-        "url": "https://open.spotify.com/album/4gXC0yDQK58P5Baj1C49PA"
-      },
-      "artists": [
-        {
-          "name": "Bryan Behr",
-          "url": "https://open.spotify.com/artist/1nbIxJpSdhe1dzImxd8WfF"
-        }
-      ],
-      "duration_ms": 148000,
-      "name": "Noturno",
-      "url": "https://open.spotify.com/track/1q5LFR4l4g5RhUI9sP1Zaj"
-    },
-    {
-      "added_at": "2026-09-18 15:31:30",
-      "album": {
         "name": "NOVA: Surpresa",
         "url": "https://open.spotify.com/album/1WfQ7zdLni16pLdaQ6ohqD"
       },
@@ -675,6 +711,22 @@
       "duration_ms": 255333,
       "name": "NOVA: Surpresa",
       "url": "https://open.spotify.com/track/23L47wD7F1BF6JEzF8KiEN"
+    },
+    {
+      "added_at": "2026-09-18 15:31:30",
+      "album": {
+        "name": "Um dia inteiro com voc\u00ea",
+        "url": "https://open.spotify.com/album/2zFDJa2mULHRVSKenbn2Sc"
+      },
+      "artists": [
+        {
+          "name": "Gustavo Fraga",
+          "url": "https://open.spotify.com/artist/265s0ODuxTpHjmxQCwCCo7"
+        }
+      ],
+      "duration_ms": 195789,
+      "name": "Um dia inteiro com voc\u00ea",
+      "url": "https://open.spotify.com/track/0QYm9hnFT4vMhjwlO9jGmh"
     },
     {
       "added_at": "2026-09-18 15:31:30",
@@ -791,18 +843,18 @@
     {
       "added_at": "2026-09-18 15:31:30",
       "album": {
-        "name": "Um dia inteiro com voc\u00ea",
-        "url": "https://open.spotify.com/album/2zFDJa2mULHRVSKenbn2Sc"
+        "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
+        "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
       },
       "artists": [
         {
-          "name": "Gustavo Fraga",
-          "url": "https://open.spotify.com/artist/265s0ODuxTpHjmxQCwCCo7"
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
         }
       ],
-      "duration_ms": 195789,
-      "name": "Um dia inteiro com voc\u00ea",
-      "url": "https://open.spotify.com/track/0QYm9hnFT4vMhjwlO9jGmh"
+      "duration_ms": 211295,
+      "name": "Doente",
+      "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
     },
     {
       "added_at": "2026-09-18 15:31:30",
@@ -819,22 +871,6 @@
       "duration_ms": 181666,
       "name": "Manh\u00e3 de Sol",
       "url": "https://open.spotify.com/track/6IK8FcpWZ1j6VJvAqnjH0g"
-    },
-    {
-      "added_at": "2026-09-18 15:31:30",
-      "album": {
-        "name": "N\u00e3o H\u00e1 Nada Mais Honesto Que Um Sonho",
-        "url": "https://open.spotify.com/album/26qyuO801t5LJ8ApwgpB58"
-      },
-      "artists": [
-        {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
-        }
-      ],
-      "duration_ms": 211295,
-      "name": "Doente",
-      "url": "https://open.spotify.com/track/2oXtA7nfgRgwZOMt3RCu7L"
     },
     {
       "added_at": "2026-09-18 15:31:30",
@@ -899,26 +935,6 @@
     {
       "added_at": "2026-09-18 15:31:30",
       "album": {
-        "name": "Quero Descobrir",
-        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
-      },
-      "artists": [
-        {
-          "name": "Doral",
-          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
-        },
-        {
-          "name": "Reis do Nada",
-          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
-        }
-      ],
-      "duration_ms": 177647,
-      "name": "Quero Descobrir",
-      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
-    },
-    {
-      "added_at": "2026-09-18 15:31:30",
-      "album": {
         "name": "Tudo que deu pra fazer em um ano",
         "url": "https://open.spotify.com/album/5ef1VhRr9OuXuEnqErdp5I"
       },
@@ -935,6 +951,26 @@
       "duration_ms": 131538,
       "name": "Nada vai ser como antes",
       "url": "https://open.spotify.com/track/6EGAre3TGtj7hlhR8C7A1n"
+    },
+    {
+      "added_at": "2026-09-18 15:31:30",
+      "album": {
+        "name": "Quero Descobrir",
+        "url": "https://open.spotify.com/album/5wzKrU0eUxhcdf6nNxtBze"
+      },
+      "artists": [
+        {
+          "name": "Doral",
+          "url": "https://open.spotify.com/artist/3yMvydJf1VUFfuFjdYK3Hp"
+        },
+        {
+          "name": "Reis do Nada",
+          "url": "https://open.spotify.com/artist/53uVJS9yN2F0iVsZU05or3"
+        }
+      ],
+      "duration_ms": 177647,
+      "name": "Quero Descobrir",
+      "url": "https://open.spotify.com/track/2IqfiQXWiJs4uWUO3GGcM0"
     },
     {
       "added_at": "2026-09-18 15:31:30",
@@ -1035,6 +1071,22 @@
     {
       "added_at": "2026-09-18 15:31:30",
       "album": {
+        "name": "Camomila",
+        "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
+      },
+      "artists": [
+        {
+          "name": "Leo Schiappadini",
+          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
+        }
+      ],
+      "duration_ms": 190000,
+      "name": "Camomila",
+      "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
+    },
+    {
+      "added_at": "2026-09-18 15:31:30",
+      "album": {
         "name": "BALAN\u00c7O",
         "url": "https://open.spotify.com/album/4mUyNycfArvCPWL7BG9ijx"
       },
@@ -1051,22 +1103,6 @@
       "duration_ms": 136575,
       "name": "BALAN\u00c7O",
       "url": "https://open.spotify.com/track/0fgyNUpTAtBPMvpxumNrqu"
-    },
-    {
-      "added_at": "2026-09-18 15:31:30",
-      "album": {
-        "name": "Camomila",
-        "url": "https://open.spotify.com/album/2nJ0mtFA55IltDGnAlXhYl"
-      },
-      "artists": [
-        {
-          "name": "Leo Schiappadini",
-          "url": "https://open.spotify.com/artist/0Pexv1Z2KnlQylSyrwlTcr"
-        }
-      ],
-      "duration_ms": 190000,
-      "name": "Camomila",
-      "url": "https://open.spotify.com/track/5ArcYmUZCUH5tVQCNP7IhR"
     },
     {
       "added_at": "2026-09-18 15:31:30",
@@ -1111,6 +1147,26 @@
     {
       "added_at": "2026-09-18 15:31:30",
       "album": {
+        "name": "NORTEAR",
+        "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
+      },
+      "artists": [
+        {
+          "name": "Sophi",
+          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
+        },
+        {
+          "name": "morgana",
+          "url": "https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy"
+        }
+      ],
+      "duration_ms": 218651,
+      "name": "NORTEAR",
+      "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
+    },
+    {
+      "added_at": "2026-09-18 15:31:30",
+      "album": {
         "name": "C\u00e9u Rosa",
         "url": "https://open.spotify.com/album/3MUN2uBzh5zB1REgdFZInK"
       },
@@ -1139,6 +1195,22 @@
       "duration_ms": 189570,
       "name": "A Minha Flor",
       "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
+    },
+    {
+      "added_at": "2026-09-18 15:31:30",
+      "album": {
+        "name": "Cen\u00e1rio a Dois",
+        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
+      },
+      "artists": [
+        {
+          "name": "RAY",
+          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
+        }
+      ],
+      "duration_ms": 221099,
+      "name": "Cen\u00e1rio a Dois",
+      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
     },
     {
       "added_at": "2026-09-18 15:31:30",
@@ -1191,78 +1263,6 @@
       "duration_ms": 145079,
       "name": "P\u00f4r Do Sol Avisa",
       "url": "https://open.spotify.com/track/4SfcwRf4bxWOKACtH4uAz8"
-    },
-    {
-      "added_at": "2026-09-18 15:31:30",
-      "album": {
-        "name": "Cen\u00e1rio a Dois",
-        "url": "https://open.spotify.com/album/34vZmU9FRIXRJqL01Vz2w8"
-      },
-      "artists": [
-        {
-          "name": "RAY",
-          "url": "https://open.spotify.com/artist/4oYYR4eNAYMvum6DfqhHot"
-        }
-      ],
-      "duration_ms": 221099,
-      "name": "Cen\u00e1rio a Dois",
-      "url": "https://open.spotify.com/track/2Xn3GarBXoDiQhK7wm5CPD"
-    },
-    {
-      "added_at": "2026-09-18 15:31:30",
-      "album": {
-        "name": "Atemporal - PART II",
-        "url": "https://open.spotify.com/album/7bh7n8MOfnOfSbFcsLdTf6"
-      },
-      "artists": [
-        {
-          "name": "Zeeba",
-          "url": "https://open.spotify.com/artist/7qPLO2XOUaRrRxkvLZ3AEK"
-        },
-        {
-          "name": "Hungria",
-          "url": "https://open.spotify.com/artist/0vLuOi2k62sHujIfplInlK"
-        }
-      ],
-      "duration_ms": 192050,
-      "name": "Coisas da Vida",
-      "url": "https://open.spotify.com/track/6Ur3mHqLvFKMAvQJJaylKh"
-    },
-    {
-      "added_at": "2026-09-18 15:31:30",
-      "album": {
-        "name": "NORTEAR",
-        "url": "https://open.spotify.com/album/11sBu1W6HvPSC9KrgIQLjq"
-      },
-      "artists": [
-        {
-          "name": "Sophi",
-          "url": "https://open.spotify.com/artist/5pm4O3fcYf0iiV1Bm2QqJn"
-        },
-        {
-          "name": "morgana",
-          "url": "https://open.spotify.com/artist/6G241J0FCXVztwxsIWoUBy"
-        }
-      ],
-      "duration_ms": 218651,
-      "name": "NORTEAR",
-      "url": "https://open.spotify.com/track/2xIOmAZZWIV7JBGqpuuwPN"
-    },
-    {
-      "added_at": "2026-09-18 15:31:30",
-      "album": {
-        "name": "Errado pra mim",
-        "url": "https://open.spotify.com/album/3rDY9tMxjbBtGKQCHfsLEe"
-      },
-      "artists": [
-        {
-          "name": "Ananda",
-          "url": "https://open.spotify.com/artist/2TqXAXuNUnnzzCTuAs5DX5"
-        }
-      ],
-      "duration_ms": 151925,
-      "name": "Errado pra mim",
-      "url": "https://open.spotify.com/track/6EAqA71uEIEtt0QfvU8OAQ"
     }
   ],
   "unique_name": "Pop Leve",

@@ -4,7 +4,7 @@
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-1,101 songs - 2 day 13 hr 38 min
+1,103 songs - 2 day 13 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -297,8 +297,9 @@
 | [From Down Here](https://open.spotify.com/track/7Hg7l5aOygIHuaNDVFp3ox) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [From Down Here](https://open.spotify.com/album/3oyrHxgRO9HNMQx5mdML1u) | 4:01 | 2026-06-09 | 2026-09-11 |
 | [Fusy](https://open.spotify.com/track/1Zd1D4qz0j7MeLGnldflNc) | [Jakub Skorupa](https://open.spotify.com/artist/6T3v6RRLeCWcs4Sb47blaJ), [Dawid Tyszkowski](https://open.spotify.com/artist/2Lp4rVUJ5ZRZfT8wkWF81K) | [Fusy](https://open.spotify.com/album/6cYlOyjd4JkVksN4XL95LI) | 4:08 | 2024-08-23 | 2024-09-28 |
 | [Gdzie jest Frank Ocean?](https://open.spotify.com/track/0Zl4Qc9ykqydUmTvbc145L) | [Frank Leen](https://open.spotify.com/artist/6W1NclX9rP93bkhQEOQtm4) | [Gdzie jest Frank Ocean?](https://open.spotify.com/album/4zjQp7uLgt5DQoIanOrp1v) | 3:31 | 2026-06-26 | 2026-07-18 |
-| [Gdzie mój rytm](https://open.spotify.com/track/0xddyYqqeOepk38EKzPDEJ) | [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M) | [Gdzie mój rytm](https://open.spotify.com/album/0XSSCPXlp3DvP6rKodhz4H) | 2:42 | 2026-09-10 |  |
+| [Gdzie mój rytm](https://open.spotify.com/track/0xddyYqqeOepk38EKzPDEJ) | [Misia Furtak](https://open.spotify.com/artist/1gHY7d1BsJjxJ1VjAnqm5M) | [Gdzie mój rytm](https://open.spotify.com/album/0XSSCPXlp3DvP6rKodhz4H) | 2:42 | 2026-09-10 | 2026-09-20 |
 | [Gecko](https://open.spotify.com/track/1pykMNRzTpl2C7vxfmR1Pc) | [Olga Myko](https://open.spotify.com/artist/2Qs6c7sk2XP8MONg0SjaGm), [Haley Bridge](https://open.spotify.com/artist/26Wvz5jI7hC4OZ59mRIqos) | [How dare you tryna love me?](https://open.spotify.com/album/6XDkigtRmlZV90EjNAq9TW) | 2:46 | 2026-06-09 | 2026-07-19 |
+| [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 | 2026-09-18 |  |
 | [Get Go](https://open.spotify.com/track/223hI1QE2UcD4pZLSFPt01) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [Get Go](https://open.spotify.com/album/2miJHYlhhx2fXpwfqeQiIJ) | 3:22 | 2026-03-13 | 2026-04-27 |
 | [Girl In The Orchestra](https://open.spotify.com/track/12l9XTMK21GZbjszAFlTo2) | [HONNE](https://open.spotify.com/artist/0Vw76uk7P8yVtTClWyOhac) | [Girl In The Orchestra](https://open.spotify.com/album/0Wgw9J708bA5yoIR87bJAC) | 3:12 | 2024-06-28 | 2024-07-12 |
 | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/track/2igNvPf7RLTZG688Mx8GtU) | [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [girl, get up\. \(feat\. SZA\)](https://open.spotify.com/album/0gay0zMUEE8cqgkk7z8nzS) | 3:08 | 2026-01-09 | 2026-03-14 |
@@ -612,7 +613,7 @@
 | [Nie mam się już czego bać](https://open.spotify.com/track/2fwA89EScmFJkVkDSeC2G3) | [Pola Maj](https://open.spotify.com/artist/0B4TTzKvNuF5Jcmbe5uQ1T) | [Nie mam się już czego bać](https://open.spotify.com/album/2JMpOaxEftQzS8okGgDcbo) | 3:18 | 2025-10-23 | 2025-11-08 |
 | [Nie masz sił to płacz](https://open.spotify.com/track/5NIc6PrM1pmEiRCTRdUSgp) | [Daria ze Śląska](https://open.spotify.com/artist/4I27OgvXt7ILLX2AtbQHO2) | [Halo\. Co jest grane?](https://open.spotify.com/album/3erv5YTUmv5AvVTqnJTEjP) | 3:52 | 2026-05-15 | 2026-07-04 |
 | [Nie mogę Cię poznać](https://open.spotify.com/track/68crcVC3Nt2qYM2BAVQVnk) | [Dureń](https://open.spotify.com/artist/2xFCNJxPF8BceY47fJ8DQC) | [Nie mogę Cię poznać](https://open.spotify.com/album/1zGt3uJbYmVqLI52wt5oHZ) | 3:06 | 2025-02-28 | 2025-03-08 |
-| [Nie muszę udawać](https://open.spotify.com/track/0wN4h1bIlVY2a3ID4ty7DM) | [Zuzia Małaj](https://open.spotify.com/artist/0eTrgCpiEtWyaQ5sR73h8L), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ), [Krystian Piotrak](https://open.spotify.com/artist/4kBiE0S3ecFv46gWbLDwjf) | [Nie muszę udawać](https://open.spotify.com/album/7fOwMj9KZEaaq6iAn4MPtW) | 2:26 | 2026-09-10 |  |
+| [Nie muszę udawać](https://open.spotify.com/track/0wN4h1bIlVY2a3ID4ty7DM) | [Zuzia Małaj](https://open.spotify.com/artist/0eTrgCpiEtWyaQ5sR73h8L), [Tabb](https://open.spotify.com/artist/50O2wVTMMBqWDXVl7infgZ), [Krystian Piotrak](https://open.spotify.com/artist/4kBiE0S3ecFv46gWbLDwjf) | [Nie muszę udawać](https://open.spotify.com/album/7fOwMj9KZEaaq6iAn4MPtW) | 2:26 | 2026-09-10 | 2026-09-20 |
 | [Nie powiesz nic?](https://open.spotify.com/track/41aWxp1puhArKUo94ifNpY) | [Kuba Folwarczny](https://open.spotify.com/artist/3jjBSkzY9U2oim8dDan6Il) | [Nie powiesz nic?](https://open.spotify.com/album/4kueE2kccfp0jWcpHEkbpT) | 4:42 | 2026-09-10 | 2026-09-12 |
 | [Nie pozwolę Ci wyjść](https://open.spotify.com/track/1wHhHMk0hutBAULKaC3G3U) | [Maciej Skiba](https://open.spotify.com/artist/0cCuYYHtLT5cQJsdIj04Tq) | [Nie pozwolę Ci wyjść](https://open.spotify.com/album/1ERBMG7BItkG9tFx13JHYd) | 2:41 | 2025-09-19 | 2025-09-27 |
 | [nie płacz dziewczyno](https://open.spotify.com/track/6hlAdgFNqdNpk0dVRdVH9t) | [Wiktoria Zwolińska](https://open.spotify.com/artist/1Dyn3KxMNqGRpIEeXekqhf), [Livka](https://open.spotify.com/artist/0eWYWLizN5us1MOF1rdyh9) | [nie płacz dziewczyno](https://open.spotify.com/album/1wQNTdjwfsNt46uYArglAo) | 2:48 | 2024-11-15 | 2025-01-25 |
@@ -1108,6 +1109,7 @@
 | [Świetnie](https://open.spotify.com/track/2W9yJOkL3YoCS4cyWhw0gG) | [Sonbird](https://open.spotify.com/artist/2zaVOOnzM7kPPCh0BIar3A) | [Świetnie](https://open.spotify.com/album/5qRvGMaZjf20GX4YrzALZh) | 3:20 | 2026-04-24 | 2026-05-01 |
 | [życzenie](https://open.spotify.com/track/3PJ5RijJmk106e25mnO9Bf) | [nath](https://open.spotify.com/artist/2KrBpGpCHHnOWBA4WBWOdd) | [życzenie](https://open.spotify.com/album/7cVVnDc6K2zR7ai2yon3f3) | 4:43 | 2025-09-15 | 2025-09-18 |
 | [⁠Godspeed](https://open.spotify.com/track/33u4P7aW3p8l6M14QvoJvo) | [Tyson Yoshi](https://open.spotify.com/artist/3dayhmhJfL4I8w1PuL9MqQ) | [3rd Rocket 666](https://open.spotify.com/album/04GxVH15zJEDngF4Qf5Wvs) | 4:01 | 2025-03-14 | 2025-03-29 |
+| [⁠Wildfire](https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8) | [Wasia Project](https://open.spotify.com/artist/7poQNrOwZoUcoqihg4Xex0) | [Nocturne](https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC) | 4:56 | 2026-09-18 |  |
 | [👩‍❤️‍👨](https://open.spotify.com/track/4wb0tiHtOUiEqhR4NKwSFp) | [Linia Nocna](https://open.spotify.com/artist/6ASsF4ZKpJlpeRF7HarDfe) | [👩‍❤️‍👨](https://open.spotify.com/album/5s9dplQwHJK8LmzepvzvvK) | 2:27 | 2025-06-09 | 2025-06-21 |
 
 \*This playlist was first scraped on 2024-07-02. Prior content cannot be recovered.

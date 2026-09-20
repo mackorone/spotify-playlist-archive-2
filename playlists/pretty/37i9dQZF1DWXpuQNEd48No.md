@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 
 > Best of Haryanvi Hip\-Hop! Cover: Rawme Hooda & MC SQUARE
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,076 likes - 75 songs - 3 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,112 likes - 75 songs - 3 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,7 +23,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXpuQNEd48No.md) - [plain]
 | 13 | [Still Standing](https://open.spotify.com/track/3JaOlHlcLmYRELnxzyIMYL) | [Tushar Kaushik](https://open.spotify.com/artist/15X6iaWHszKPoHPwoGG0bY) | [Still Standing](https://open.spotify.com/album/4av65ID6niZILF5PyzEEXE) | 2:45 |
 | 14 | [Illusion](https://open.spotify.com/track/1xssFYXbMSDstoyckUKDOV) | [Rawme Hooda](https://open.spotify.com/artist/7B6M2lrsO79XEw8xAbm4OE), [Riyaazi](https://open.spotify.com/artist/5LN6cFuEopifixZsRarBri), [Nishael](https://open.spotify.com/artist/3FDqg0UZYTSVzxDgREFPAX) | [Illusion](https://open.spotify.com/album/1yjPH9YNlv1hrq5NSELfrZ) | 4:13 |
 | 15 | [Do Numbari \- From “Mirzapur The Movie”](https://open.spotify.com/track/7BFjTmlBWID1KyN3XagG9w) | [Dhanda Nyoliwala](https://open.spotify.com/artist/2rN8LHqK4TBI7y3d9POvJb) | [Do Numbari \(From “Mirzapur The Movie”\)](https://open.spotify.com/album/6JxiUgYeFmKTsig5wl4kJE) | 2:43 |
-| 16 | [Paisa Phek](https://open.spotify.com/track/2LzTzRIXMquLVwYP64rGtt) | [Anurag Ranga](https://open.spotify.com/artist/6gK3DtQWcbmcDwIH46HAiK), [Bosco Martis](https://open.spotify.com/artist/5qVpAfbVV2piAEmvBN6lM3) | [Paisa Phek](https://open.spotify.com/album/4n9taA5qyR2AiaIrQcCE3v) | 3:46 |
+| 16 | [Paisa Phek](https://open.spotify.com/track/2LzTzRIXMquLVwYP64rGtt) | [Anurag Ranga](https://open.spotify.com/artist/6gK3DtQWcbmcDwIH46HAiK), [Bosco Martis](https://open.spotify.com/artist/5qVpAfbVV2piAEmvBN6lM3) | [Paisa Phek](https://open.spotify.com/album/4n9taA5qyR2AiaIrQcCE3v) | 3:27 |
 | 17 | [No Guts No Glory](https://open.spotify.com/track/32OvzmMs6oBsa2MDPQw9bH) | [Addy Nagar](https://open.spotify.com/artist/1DctKQQOA4GfV6Pc9WngX5) | [No Guts No Glory](https://open.spotify.com/album/42xj8tt1FmuETtkQS43oCa) | 2:56 |
 | 18 | [Prem Ragni](https://open.spotify.com/track/093LKOhtsJgsVwq1QwBxGe) | [Akash Andaaz](https://open.spotify.com/artist/54eQ83Cj2RBSDZz2rapkl5), [Balram Baisla](https://open.spotify.com/artist/1LEwA0hsFupxLwNt8pPg0s) | [Prem Ragni](https://open.spotify.com/album/2VWV8OgYpgLDBjtBmkahhQ) | 3:05 |
 | 19 | [4WD](https://open.spotify.com/track/2a5ctwK7nTDyOp8it87nxu) | [Khasa Aala Chahar](https://open.spotify.com/artist/3yOHCFUZRsaHUu1yefR8ck), [LXY Music](https://open.spotify.com/artist/6yRhlMazskklTadrT9h6FX), [Izhan Beats](https://open.spotify.com/artist/0xWAgT0VbS2BMOhUuVIT1F) | [4WD](https://open.spotify.com/album/0wkM7Nzi9b3Rx7qh2DMZNR) | 2:58 |

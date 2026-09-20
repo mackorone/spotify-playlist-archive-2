@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd9mvqWzJEWg.md) - [plain]
 
 > From Durban and Cape Town to the globe, yasuka leyonto! Cover: DJKnator
 
-[Spotify](https://open.spotify.com/user/spotify) - 9,004 likes - 55 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 9,041 likes - 55 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Woza Maw'funa](https://open.spotify.com/track/3VQpHgYh16OUl6ZeMWw76m) | [Djknator](https://open.spotify.com/artist/4DRtWdqAIQsyFVRyvSYlLt), [Mastende Landlord](https://open.spotify.com/artist/4J1bQMTuwkRoTGhl6fPGw3), [Afika.ww](https://open.spotify.com/artist/1jHWn710hi7sCLNEqqbA6k), [Priddy Dj](https://open.spotify.com/artist/7uEnsOXPoGT7e9m6kZZH58) | [Woza Maw'funa](https://open.spotify.com/album/2pcbAlYKNlbfZ8SycAUYas) | 4:12 |
+| 1 | [Woza Maw'funa](https://open.spotify.com/track/3VQpHgYh16OUl6ZeMWw76m) | [Djknator](https://open.spotify.com/artist/4DRtWdqAIQsyFVRyvSYlLt), [Mastende Landlord](https://open.spotify.com/artist/4J1bQMTuwkRoTGhl6fPGw3), [Afika.ww](https://open.spotify.com/artist/1jHWn710hi7sCLNEqqbA6k), [Priddy DJ](https://open.spotify.com/artist/1JHoEJ1TOzFqyRRtGMV6ng) | [Woza Maw'funa](https://open.spotify.com/album/2pcbAlYKNlbfZ8SycAUYas) | 4:12 |
 | 2 | [Izinja](https://open.spotify.com/track/0VRSr4SuhNUu2BowM3JmZk) | [Kay Da Neo](https://open.spotify.com/artist/21U1B4hp8J4MoGqi0fkZfu), [Dj Banana](https://open.spotify.com/artist/5LjTsH0rt4J948aDtmgErs), [IRohn Dwgs](https://open.spotify.com/artist/3EMBskBjzvlVBviiLUPv6U) | [izinja](https://open.spotify.com/album/3SYKJSvu5i1rnszWAb4t5h) | 4:57 |
 | 3 | [Gigantic](https://open.spotify.com/track/4uzX3W7hAHqXct4StikfVV) | [Shisa Sterling](https://open.spotify.com/artist/1men7AqmsSnafCJkDKSnKi), [General C'mamane](https://open.spotify.com/artist/2Ox9fpFAMtnOHXcieMxmQe) | [Gigantic](https://open.spotify.com/album/5Ji9gakXofteVyeKMnftKH) | 4:38 |
 | 4 | [Speed Point](https://open.spotify.com/track/0W4MZfj3etsLMR3JAIqqf4) | [Vanger Boyz](https://open.spotify.com/artist/5vj6LEVQMJqSLVHBTIyVOx), [Deejay Morgan](https://open.spotify.com/artist/6H1B4o4Qt709VGBsGQNPvP), [Toolz Umazelaphi](https://open.spotify.com/artist/6iwtuiIqXTyBvP3D1AOzIQ) | [Since 2012](https://open.spotify.com/album/2V5Bxr9y2bTN1eqiALzCEn) | 5:11 |

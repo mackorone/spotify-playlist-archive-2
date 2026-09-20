@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUFAJPVM3HTX.md) - [plain]
 
 > The best new R&B by independent artists and labels\. Cover: <a href="https://open.spotify.com/artist/7JNff2HS8nrk3x0VZ5pT2X?si=f7e145f77b3548ed">LAYA</a>\. Updates every Wednesday.
 
-[Spotify](https://open.spotify.com/user/spotify) - 291,129 likes - 105 songs - 5 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 291,221 likes - 105 songs - 5 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > now all I know is the ending
 
-[Spotify](https://open.spotify.com/user/spotify) - 149,836 likes - 129 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 149,927 likes - 129 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,7 +12,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 | 2 | [just embers now](https://open.spotify.com/track/5odEnVcWzR91r5h0ww62GF) | [Aubory Bugg](https://open.spotify.com/artist/2fRZyxhGkcXXFwe7tGan1U) | [i think i had something once](https://open.spotify.com/album/2DuPrN4ZNbie1EmjJErImG) | 2:53 |
 | 3 | [Always The Same](https://open.spotify.com/track/5RZomQGckBcXSH8lsKBhqD) | [Ruby Plume](https://open.spotify.com/artist/1ng6C9TvJYFLHfyjBjRj84) | [Always The Same](https://open.spotify.com/album/0UQd6myReEV9LZ5NcT1lJW) | 3:21 |
 | 4 | [True Feeling](https://open.spotify.com/track/1vRsN6V8FNUVIsaZBRjIFZ) | [Hans Williams](https://open.spotify.com/artist/3SEkDN2vusR7CIyehzfJaj) | [True Feeling](https://open.spotify.com/album/2ucFfCPEF42yMlLzEwnF8w) | 4:25 |
-| 5 | [Say It](https://open.spotify.com/track/31gyMsBSLitwetPKlcntZv) | [Frankie Venter](https://open.spotify.com/artist/4OpEtCxKCkuq7XqJ18zVYn) | [Say It](https://open.spotify.com/album/5Ing5q75Z5e4uqQNC0yh4Z) | 3:17 |
+| 5 | [say it](https://open.spotify.com/track/31gyMsBSLitwetPKlcntZv) | [Frankie Venter](https://open.spotify.com/artist/4OpEtCxKCkuq7XqJ18zVYn) | [say it](https://open.spotify.com/album/5Ing5q75Z5e4uqQNC0yh4Z) | 3:17 |
 | 6 | [modern age](https://open.spotify.com/track/3tHE9MegiMFMlkLIi5kD5B) | [lighthearted](https://open.spotify.com/artist/6bIM8yCfbkBSVS40TP5gCf) | [modern age](https://open.spotify.com/album/0dvmUfEi9sGQLe3IqH1qcM) | 2:04 |
 | 7 | [Dog's Best Man](https://open.spotify.com/track/2ZrWP6HDMdUhtTxMNgCaM9) | [Sorcha Richardson](https://open.spotify.com/artist/04Zh21lNHZb2MCCcRcN2pc) | [Draw the Outline](https://open.spotify.com/album/0PauJqvrSVUHfzNAYp3lZZ) | 2:24 |
 | 8 | [The Whale](https://open.spotify.com/track/4ovCN0QuNy6Eu670QZ38pd) | [Grumpy](https://open.spotify.com/artist/480FcWBc0dlEZc52noh462), [D.A\. Crimson](https://open.spotify.com/artist/5CbObJeF21ADnTwI5RnvzW) | [The Whale](https://open.spotify.com/album/1ROt8BQL63XpffgUQngj2Z) | 3:25 |

@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-601 songs - 1 day 12 hr 26 min
+602 songs - 1 day 12 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -100,6 +100,7 @@
 | [Conversation](https://open.spotify.com/track/2CnTdiaJ4DZoRUgE2IfCGX) | [Lost Like Lions](https://open.spotify.com/artist/0wg1sFLR3OowB5S1r7OjIV) | [Conversation](https://open.spotify.com/album/5vh7YAjh8BErPIaw6kgkaf) | 2:43 | 2024-11-18 |  |
 | [Crash Test Dummies](https://open.spotify.com/track/2EYInEupTN9SeX6cltm473) | [Fat Fungus](https://open.spotify.com/artist/5JvuLxzIE57fVdo7U29d2D) | [Crash Test Dummies](https://open.spotify.com/album/0mz2yg6rQM8nGbnhwNWY74) | 3:40 | 2024-10-25 |  |
 | [Critics of Neon](https://open.spotify.com/track/5GErt7vpDrfzUjr8FLM0VH) | [Loc Harp](https://open.spotify.com/artist/03NpM6Pz59hIUDTuP587pY) | [Critics of Neon](https://open.spotify.com/album/1L1bxqGy28y3uiBaTBjANa) | 3:19 | 2024-11-18 |  |
+| [Cruisin' The Pike](https://open.spotify.com/track/1giSRFi2qO3IO87tvmPyya) | [Drew Barrett](https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX) | [Cruisin' The Pike](https://open.spotify.com/album/3yTyYRxHm5cFfJYqUhxK36) | 4:39 | 2026-09-19 |  |
 | [Cry Wolf](https://open.spotify.com/track/6EgyAuoalQHZyjCY6opEJP) | [Brandt Carmichael](https://open.spotify.com/artist/65HDAlEXHrIu7e5ago87Ar) | [Cry Wolf](https://open.spotify.com/album/2p5CVu9MnNKhnTzsyPlK1V) | 2:42 | 2024-04-18 |  |
 | [Cáncer](https://open.spotify.com/track/36fLn4nYG2rrROYirs2TW5) | [Nacho Sarmiento](https://open.spotify.com/artist/2r302cqUviplTGkXuBlLmr) | [Cáncer](https://open.spotify.com/album/4M04xsPybORBRpEzJGZAcD) | 4:10 | 2025-04-08 |  |
 | [DADDY ISSUES](https://open.spotify.com/track/5xT7MteIgCTp3sV90i0xRO) | [Lina Cooper](https://open.spotify.com/artist/0YxNJr7YsY95zd86zCjSYH) | [DADDY ISSUES](https://open.spotify.com/album/3B8gr9XOJjTWEFoTq6Ne9L) | 3:19 | 2025-03-29 |  |

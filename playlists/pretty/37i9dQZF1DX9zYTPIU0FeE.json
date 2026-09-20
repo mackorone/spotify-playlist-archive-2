@@ -1,6 +1,6 @@
 {
   "description": "Journey through the sounds of South African Jazz. Cover: Don Laka",
-  "num_followers": 14661,
+  "num_followers": 14664,
   "original_name": "Jazz NEXT",
   "owner": {
     "name": "Spotify",
@@ -247,22 +247,6 @@
     {
       "added_at": "2026-09-10 22:02:18",
       "album": {
-        "name": "geza",
-        "url": "https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi"
-      },
-      "artists": [
-        {
-          "name": "vuyo viwe",
-          "url": "https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj"
-        }
-      ],
-      "duration_ms": 429019,
-      "name": "geza",
-      "url": "https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs"
-    },
-    {
-      "added_at": "2026-09-10 22:02:18",
-      "album": {
         "name": "Nguwe",
         "url": "https://open.spotify.com/album/1lbVmXMwuOaR7IGh4V47cQ"
       },
@@ -275,6 +259,22 @@
       "duration_ms": 309303,
       "name": "Nguwe",
       "url": "https://open.spotify.com/track/0TqxXQxF11lNHNzpzQ8MCZ"
+    },
+    {
+      "added_at": "2026-09-10 22:02:18",
+      "album": {
+        "name": "geza",
+        "url": "https://open.spotify.com/album/35azJIrFdyKbviBqU57vhi"
+      },
+      "artists": [
+        {
+          "name": "vuyo viwe",
+          "url": "https://open.spotify.com/artist/0izMndRrjUpSI7mig8yIBj"
+        }
+      ],
+      "duration_ms": 429019,
+      "name": "geza",
+      "url": "https://open.spotify.com/track/4dD6lOcZUNi4M6yA6iUivs"
     },
     {
       "added_at": "2026-09-10 22:02:18",
@@ -519,6 +519,22 @@
     {
       "added_at": "2026-09-10 22:02:18",
       "album": {
+        "name": "The Seed",
+        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
+      },
+      "artists": [
+        {
+          "name": "Rorisang Sechele",
+          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
+        }
+      ],
+      "duration_ms": 271705,
+      "name": "The Anchor",
+      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
+    },
+    {
+      "added_at": "2026-09-10 22:02:18",
+      "album": {
         "name": "One",
         "url": "https://open.spotify.com/album/7EtFs3HiEq0a0hTd9ClMbx"
       },
@@ -539,22 +555,6 @@
       "duration_ms": 310961,
       "name": "One",
       "url": "https://open.spotify.com/track/4kytiTENCQoF0Rhnqy0PHm"
-    },
-    {
-      "added_at": "2026-09-10 22:02:18",
-      "album": {
-        "name": "The Seed",
-        "url": "https://open.spotify.com/album/0aOrh3PB8Dc41VEcrFxGM8"
-      },
-      "artists": [
-        {
-          "name": "Rorisang Sechele",
-          "url": "https://open.spotify.com/artist/56cA6GXVKFti1Ax2iWZmwU"
-        }
-      ],
-      "duration_ms": 271705,
-      "name": "The Anchor",
-      "url": "https://open.spotify.com/track/5S91DIl4Wy8Bv4gWAAKi89"
     },
     {
       "added_at": "2026-09-10 22:02:18",
@@ -775,6 +775,22 @@
     {
       "added_at": "2026-09-10 22:02:18",
       "album": {
+        "name": "Let The Sky Open Under Your Feet",
+        "url": "https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec"
+      },
+      "artists": [
+        {
+          "name": "Skyjack",
+          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
+        }
+      ],
+      "duration_ms": 395213,
+      "name": "Let The Sky Open Under Your Feet",
+      "url": "https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc"
+    },
+    {
+      "added_at": "2026-09-10 22:02:18",
+      "album": {
         "name": "Tones of Epiphany",
         "url": "https://open.spotify.com/album/3xGxUaz3ASDBegpjbmChea"
       },
@@ -795,18 +811,18 @@
     {
       "added_at": "2026-09-10 22:02:18",
       "album": {
-        "name": "Let The Sky Open Under Your Feet",
-        "url": "https://open.spotify.com/album/5KbTt2xYPBeZXvChMbMwec"
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
       },
       "artists": [
         {
-          "name": "Skyjack",
-          "url": "https://open.spotify.com/artist/6gSBRCbcqIIaD7slbHymwa"
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
         }
       ],
-      "duration_ms": 395213,
-      "name": "Let The Sky Open Under Your Feet",
-      "url": "https://open.spotify.com/track/2Pe4C7EbOhkb2ELEGsLfDc"
+      "duration_ms": 365000,
+      "name": "H.O.P.E",
+      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
     },
     {
       "added_at": "2026-09-10 22:02:18",
@@ -843,22 +859,6 @@
     {
       "added_at": "2026-09-10 22:02:18",
       "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
-      },
-      "artists": [
-        {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
-        }
-      ],
-      "duration_ms": 365000,
-      "name": "H.O.P.E",
-      "url": "https://open.spotify.com/track/0R15zq6ZETyMiu1bG2lf3a"
-    },
-    {
-      "added_at": "2026-09-10 22:02:18",
-      "album": {
         "name": "Modeh Ani",
         "url": "https://open.spotify.com/album/1CqHrW7AbDQhEfhc8JRTDx"
       },
@@ -887,6 +887,22 @@
       "duration_ms": 237516,
       "name": "Baby Ngimanzi Wuthando",
       "url": "https://open.spotify.com/track/5LRPsio6JkXoOXHNCavnvJ"
+    },
+    {
+      "added_at": "2026-09-10 22:02:18",
+      "album": {
+        "name": "H.O.P.E (Holding On to Positive Expectations)",
+        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
+      },
+      "artists": [
+        {
+          "name": "Ofentse Moses Sebula",
+          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
+        }
+      ],
+      "duration_ms": 349750,
+      "name": "Journey of Gratitude",
+      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
     },
     {
       "added_at": "2026-09-10 22:02:18",
@@ -939,22 +955,6 @@
     {
       "added_at": "2026-09-10 22:02:18",
       "album": {
-        "name": "H.O.P.E (Holding On to Positive Expectations)",
-        "url": "https://open.spotify.com/album/0hbHnPzMH1eesjHzByYvSF"
-      },
-      "artists": [
-        {
-          "name": "Ofentse Moses Sebula",
-          "url": "https://open.spotify.com/artist/0raJ8N8Li4aGwfYveT9I2E"
-        }
-      ],
-      "duration_ms": 349750,
-      "name": "Journey of Gratitude",
-      "url": "https://open.spotify.com/track/2kQQl45G0j2dEC7AR6RNuL"
-    },
-    {
-      "added_at": "2026-09-10 22:02:18",
-      "album": {
         "name": "The Y-Factor Project",
         "url": "https://open.spotify.com/album/6RFLbolbRVLiQwcn2yXk5s"
       },
@@ -983,42 +983,6 @@
       "duration_ms": 244800,
       "name": "Doodle Do - Diminished Light",
       "url": "https://open.spotify.com/track/60zHgqXCIlAWf9NtNCmD0s"
-    },
-    {
-      "added_at": "2026-09-10 22:02:18",
-      "album": {
-        "name": "Born Coloured, not Born-Free",
-        "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Jephta",
-          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
-        }
-      ],
-      "duration_ms": 334300,
-      "name": "Gadija (Pt. 1)",
-      "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
-    },
-    {
-      "added_at": "2026-09-10 22:02:18",
-      "album": {
-        "name": "ZINZA",
-        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
-      },
-      "artists": [
-        {
-          "name": "BandaBanda",
-          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
-        },
-        {
-          "name": "Fatoumata Diawara",
-          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
-        }
-      ],
-      "duration_ms": 270120,
-      "name": "Ngeke!",
-      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
     },
     {
       "added_at": "2026-09-10 22:02:18",
@@ -1059,6 +1023,42 @@
       "duration_ms": 393781,
       "name": "Air",
       "url": "https://open.spotify.com/track/7AO25tDOP5b6vphirmFJqk"
+    },
+    {
+      "added_at": "2026-09-10 22:02:18",
+      "album": {
+        "name": "ZINZA",
+        "url": "https://open.spotify.com/album/7zGVonHUJ4gCvcFNrol6qv"
+      },
+      "artists": [
+        {
+          "name": "BandaBanda",
+          "url": "https://open.spotify.com/artist/3OLZRJOs5iUQCJfzhRBT6k"
+        },
+        {
+          "name": "Fatoumata Diawara",
+          "url": "https://open.spotify.com/artist/4G5ZJny3HvX6Il7eHVfnNC"
+        }
+      ],
+      "duration_ms": 270120,
+      "name": "Ngeke!",
+      "url": "https://open.spotify.com/track/0Km8060UTy8Bd2pUnbRanR"
+    },
+    {
+      "added_at": "2026-09-10 22:02:18",
+      "album": {
+        "name": "Born Coloured, not Born-Free",
+        "url": "https://open.spotify.com/album/1Z1dH6IKlrCC8E1BgPUkk4"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Jephta",
+          "url": "https://open.spotify.com/artist/27Mxvuy9HNc3HH4EjeOD9W"
+        }
+      ],
+      "duration_ms": 334300,
+      "name": "Gadija (Pt. 1)",
+      "url": "https://open.spotify.com/track/2HuXZmKzhRcteHyIhNyJVh"
     }
   ],
   "unique_name": "Jazz NEXT",

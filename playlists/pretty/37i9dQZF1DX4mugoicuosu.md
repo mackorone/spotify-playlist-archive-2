@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mugoicuosu.md) - [plain]
 
 > Posłuchaj muzyki z Nowego Rozdania: Rhythm + Flow Polska\. Oglądaj wszystkie odcinki w Netflixie.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,373 likes - 50 songs - 2 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,374 likes - 50 songs - 2 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4mugoicuosu.md) - [plain]
 | 27 | [Chłopaki nie płaczą](https://open.spotify.com/track/46wzUFY34FtyhhqmzdCkgl) | [Bedoes 2115](https://open.spotify.com/artist/0LX2VNf5w4iOHW1yyIqb74), [Kubi Producent](https://open.spotify.com/artist/0WDJa0qnagyOnMaiD26wht), [Taco Hemingway](https://open.spotify.com/artist/7CJgLPEqiIRuneZSolpawQ) | [Kwiat polskiej mlodzieży](https://open.spotify.com/album/2GcEYeOVky0PEEp8vRQeti) | 3:31 |
 | 28 | [Baddie Freestyle \- Nowe Rozdanie \| S1](https://open.spotify.com/track/1zyKb5cOftRBW3G0ZDfDpE) | [Baby V](https://open.spotify.com/artist/0gnNmkzfTegBSI0Y3qrTso), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [Przesłuchania Cz\. I & II \- Nowe Rozdanie \| S1](https://open.spotify.com/album/3HsbMvfHqenfBkQf8aE7gq) | 1:34 |
 | 29 | [Mugshot \- Nowe Rozdanie \| S1](https://open.spotify.com/track/3wShRc84hkPzpBSqBPZBLu) | [KaZeK](https://open.spotify.com/artist/4g9XeYjG7UgCB1l4jqlraV), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [Przesłuchania Cz\. I & II \- Nowe Rozdanie \| S1](https://open.spotify.com/album/3HsbMvfHqenfBkQf8aE7gq) | 1:48 |
-| 30 | [Chcemy być wyżej](https://open.spotify.com/track/1jw293wnk5il632wemiTPJ) | [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot) | [Wojtek Sokół](https://open.spotify.com/album/6tYtJpN483Vm497XgQcKUq) | 3:08 |
+| 30 | [Chcemy być wyżej](https://open.spotify.com/track/1jw293wnk5il632wemiTPJ) | [Sokół](https://open.spotify.com/artist/5Kuxl5ZenCl9fYzmtin6ot), [Zeppy Zep](https://open.spotify.com/artist/2hnyMG1DuXarlHFJDITc3n) | [Wojtek Sokół](https://open.spotify.com/album/6tYtJpN483Vm497XgQcKUq) | 3:08 |
 | 31 | [Podziemie Freestyle \- Nowe Rozdanie \| S1](https://open.spotify.com/track/1ueer07Kly0tnPRlkOGrTM) | [Shelast](https://open.spotify.com/artist/7K7hYrJz4X6lkVPp8kWX7o), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [Przesłuchania Cz\. I & II \- Nowe Rozdanie \| S1](https://open.spotify.com/album/3HsbMvfHqenfBkQf8aE7gq) | 1:43 |
 | 32 | [Bragga \- Nowe Rozdanie \| S1](https://open.spotify.com/track/7FT6XmiKUuWJFm4DCe9eMV) | [Kara](https://open.spotify.com/artist/3BirXmy3kNcWZZkbpjeP2C), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [Przesłuchania Cz\. I & II \- Nowe Rozdanie \| S1](https://open.spotify.com/album/3HsbMvfHqenfBkQf8aE7gq) | 1:44 |
 | 33 | [BOUNCETOYT \- Nowe Rozdanie \| S1](https://open.spotify.com/track/0GrciYnm5l74quDGni9LJb) | [Dżanglu](https://open.spotify.com/artist/4ZYy3V9JdLmmr9Su7FlDlP), [Nowe Rozdanie](https://open.spotify.com/artist/0M7n5Rct99GLcaEoD5wPt8) | [Przesłuchania Cz\. I & II \- Nowe Rozdanie \| S1](https://open.spotify.com/album/3HsbMvfHqenfBkQf8aE7gq) | 2:07 |

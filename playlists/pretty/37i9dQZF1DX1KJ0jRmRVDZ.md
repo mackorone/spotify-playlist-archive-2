@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 
 > インターネットカルチャーから生まれたサウンドの記録。A collection of sounds shaped by internet culture\. <br/>Cover: TOOBOE
 
-[Spotify](https://open.spotify.com/user/spotify) - 120,268 likes - 60 songs - 3 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 120,264 likes - 60 songs - 3 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -58,7 +58,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1KJ0jRmRVDZ.md) - [plain]
 | 48 | [Chemical X](https://open.spotify.com/track/1570AXbyd59dIYzA6S8LtG) | [Yoh kamiyama](https://open.spotify.com/artist/3sIalaTfShc1biZjHCCVkv) | [Chemical X](https://open.spotify.com/album/1mH1V4DnQaOmnia7pWl768) | 2:19 |
 | 49 | [フェイク・フィクション](https://open.spotify.com/track/4AwNJSgXtOPy9qhKulmPj2) | [YANK](https://open.spotify.com/artist/2AF0go9ujPsUZCrVIqkrMq) | [フェイク・フィクション](https://open.spotify.com/album/3mz9VOaQRE8iZY974CAJaG) | 4:02 |
 | 50 | [PLANETS](https://open.spotify.com/track/4dXAx6MlPTqRFC804zZZQ3) | [Ayase](https://open.spotify.com/artist/1S8OQ9SqlLdD9l4paaZMuZ) | [dialogue](https://open.spotify.com/album/0nFxDK8187xYJPMMph6c7y) | 3:04 |
-| 51 | [Honne Hone](https://open.spotify.com/track/75VwX3zRPDIM6X1tQBhwMb) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [Hashimero](https://open.spotify.com/artist/20vmA7VQLggHpR49avTPA9) | [Honne Hone](https://open.spotify.com/album/7gf2EX5gW5RgPWV4LcLsXo) | 2:41 |
+| 51 | [Honne Hone](https://open.spotify.com/track/75VwX3zRPDIM6X1tQBhwMb) | [maeshima soshi](https://open.spotify.com/artist/4O49GHbECmNppFvzK0WZXf), [はしメロ](https://open.spotify.com/artist/20vmA7VQLggHpR49avTPA9) | [Honne Hone](https://open.spotify.com/album/7gf2EX5gW5RgPWV4LcLsXo) | 2:41 |
 | 52 | [satellite](https://open.spotify.com/track/6f2vyljUjS6mUT0EaKLW3X) | [kakizaki yuta](https://open.spotify.com/artist/2hOaj54S74mHupUa8fZ9Em) | [satellite](https://open.spotify.com/album/4Zd4IpKqdyWaG3UAn5fTGh) | 2:22 |
 | 53 | [チョイス](https://open.spotify.com/track/2JRlA3YNghHoLKVEdotV69) | [NAME.O](https://open.spotify.com/artist/3MTuaPQH5wgzIGkPQMBqRL) | [チョイス](https://open.spotify.com/album/4k0crXawaF3i7vKN0eRcMY) | 4:19 |
 | 54 | [COCOON](https://open.spotify.com/track/0zfTJreY2lVJ98Dv3KDXUc) | [Reol](https://open.spotify.com/artist/7rpKUJ0AnklJ8q9nIPVSpZ) | [COCOON](https://open.spotify.com/album/13a3coid2lL3Ke2C3DsjX2) | 3:41 |

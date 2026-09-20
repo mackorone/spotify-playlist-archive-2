@@ -4,14 +4,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 
 > Miero YIC, Krulle, Bakss en meer..
 
-[Spotify](https://open.spotify.com/user/spotify) - 158,367 likes - 70 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 158,361 likes - 70 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Kom Kwijt](https://open.spotify.com/track/1STsYnJrgmFdf94pKI1EAR) | [Miero YIC](https://open.spotify.com/artist/1EV7sNMefC5xUDp0nxxCPQ), [HAYABUSA](https://open.spotify.com/artist/2qWVVGxTmT9ZQG2TXYuiVd) | [Kom Kwijt](https://open.spotify.com/album/3i61rrPBBZfU5Q8OWuNNln) | 2:26 |
 | 2 | [Plug Is Frans](https://open.spotify.com/track/59S8vul4213DZY9GtvsSh6) | [Krulle](https://open.spotify.com/artist/46RCrwnB1Q69JdwTDyI7t0), [Chrisjeboy](https://open.spotify.com/artist/2NFMBayewMhxbcCJUv2Gtk), [Dret](https://open.spotify.com/artist/5a5wAoxsOfJiJISpzFjAvk) | [Plug Is Frans](https://open.spotify.com/album/6P40DAUF6ZWj9Edog7sHGH) | 2:26 |
 | 3 | [Intro](https://open.spotify.com/track/2m7ZjtOppkHNRnb7G3A5VL) | [Bakss](https://open.spotify.com/artist/69i0htO0gHoR8ufAd678CB) | [Intro](https://open.spotify.com/album/4Lu2nG0hs6Py0csv5nK2LJ) | 3:04 |
-| 4 | [La Mafia](https://open.spotify.com/track/4P1tSp9Wr4OidqkDNGBRt8) | [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Gettalot](https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc) | [La Mafia](https://open.spotify.com/album/3aZ3J8YhTgJ5jwAUPLmpUL) | 3:08 |
+| 4 | [La Mafia](https://open.spotify.com/track/4P1tSp9Wr4OidqkDNGBRt8) | [Mardo4k](https://open.spotify.com/artist/6MnRvAN6qNUF4mnlfCh2ZS), [Gettalot](https://open.spotify.com/artist/3Ah2w3vVoguN5RdBDeyXPc), [Trankey](https://open.spotify.com/artist/3ITIuvUv2kMjAWxqW4xofb) | [La Mafia](https://open.spotify.com/album/3aZ3J8YhTgJ5jwAUPLmpUL) | 3:08 |
 | 5 | [Richard](https://open.spotify.com/track/3h4kL7dZVHZyU1Cb4IPQ0j) | [Johnny Sellah](https://open.spotify.com/artist/0INETKNJYPVfrzAnOuo9H4) | [Richard](https://open.spotify.com/album/2UatcdPXHsmDzv46YmNCEV) | 4:15 |
 | 6 | [Nemen Alles Mee](https://open.spotify.com/track/0TZA0Wi611mS8EsKU0rGhS) | [KNALLER](https://open.spotify.com/artist/2ovH0tGdgfnM3OwsuJykd0) | [Nemen Alles Mee](https://open.spotify.com/album/7wqxw3sp3VIxtefKGsgINH) | 2:49 |
 | 7 | [Achtervolging](https://open.spotify.com/track/0dRPP866EKQv0E7NICi3HR) | [Karma K](https://open.spotify.com/artist/0ua6wTu1hZ9yCFbxwPRXII) | [Achtervolging](https://open.spotify.com/album/4QhUXrX60BbcCSgH8zPDtg) | 2:33 |
@@ -38,7 +38,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3TZP21TXsN6.md) - [plain]
 | 28 | [DIXI](https://open.spotify.com/track/0Bkg6kTvoEpEvPXx3wBZAD) | [TOBI](https://open.spotify.com/artist/6T7plMrMcV7crSRxRRB3ZG) | [DIXI](https://open.spotify.com/album/2hSSSQZaJhaYVKNNxFRiKS) | 2:19 |
 | 29 | [No Sleep](https://open.spotify.com/track/5u0CBegNBOFwjBwtqoMJgU) | [A3](https://open.spotify.com/artist/2vqe7PjQMa8qluZUGfWUML) | [No Sleep](https://open.spotify.com/album/6YlREZf2fV3P4BplAysyCX) | 3:18 |
 | 30 | [A.U.B\. \- REMIX](https://open.spotify.com/track/7iyZBfIPkK0oKwzOWf3VqS) | [Adfbigga](https://open.spotify.com/artist/2fmH8PNMuggFPiFQAm5x9l), [Loopey](https://open.spotify.com/artist/0PFINMN0H4OMUvsQuFGFay), [Suilju](https://open.spotify.com/artist/68UTqb5uLKpStTq7jKW54j), [Chrisjeboy](https://open.spotify.com/artist/2NFMBayewMhxbcCJUv2Gtk) | [A.U.B\. \(REMIX\)](https://open.spotify.com/album/523CACEYnibQEKJc2ieHpl) | 2:50 |
-| 31 | [Nicki Minaj](https://open.spotify.com/track/4fnFxvgnr2IU2YuWno85Cr) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Devv Tenkay](https://open.spotify.com/artist/38CU6rSZVy1JlTD7UKNUk5), [T.y](https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB) | [Nicki Minaj](https://open.spotify.com/album/76iot9qUFaPXyKD9SktwAN) | 2:36 |
+| 31 | [NICKI MINAJ](https://open.spotify.com/track/4fnFxvgnr2IU2YuWno85Cr) | [Russ Millions](https://open.spotify.com/artist/3FoFW2AoUGRHBacC6i4x4p), [Devv Tenkay](https://open.spotify.com/artist/38CU6rSZVy1JlTD7UKNUk5), [T.y](https://open.spotify.com/artist/4kZg1xYJZOlOz4ssU4kQmB) | [NICKI MINAJ](https://open.spotify.com/album/76iot9qUFaPXyKD9SktwAN) | 2:36 |
 | 32 | [Offline](https://open.spotify.com/track/47o1tPr03M90YKFO4zCHoM) | [ENDS](https://open.spotify.com/artist/7HerIYLXNuerA6UGWPTzzu), [Willybeatsz](https://open.spotify.com/artist/7EMecPNLqqq9nM13aOd40p) | [Offline](https://open.spotify.com/album/0rCKeKhHd2PxT7t6WskOwB) | 1:55 |
 | 33 | [Clock it](https://open.spotify.com/track/6ePR6FK83GfCMgFCqVWHwN) | [PJ Scoolio](https://open.spotify.com/artist/2EozjqoLUKLQSnVAO90pyg), [D\-opss](https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ) | [Clock it](https://open.spotify.com/album/6E0VmUqC0izxyLYiu558Hi) | 2:06 |
 | 34 | [101 Punchlines](https://open.spotify.com/track/4e772zoq1q2GohZ3hex8jP) | [Yannish](https://open.spotify.com/artist/19nsK6rkGX7Qu6u9Uc3LgQ) | [101 Punchlines](https://open.spotify.com/album/5JxC4T5U7JqozwG3udsWhN) | 1:25 |

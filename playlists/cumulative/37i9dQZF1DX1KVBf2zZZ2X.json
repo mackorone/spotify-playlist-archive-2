@@ -2739,6 +2739,24 @@
     },
     {
       "album": {
+        "name": "Greenwood",
+        "url": "https://open.spotify.com/album/72WtZy642zUAjP0l95KsiB"
+      },
+      "artists": [
+        {
+          "name": "Hazen Briller",
+          "url": "https://open.spotify.com/artist/33sxIMORaQgwJQZiF9UrY2"
+        }
+      ],
+      "date_added": "2026-09-09",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157500,
+      "name": "Greenwood",
+      "url": "https://open.spotify.com/track/1O5uzV1baYBoOsZq1u0akH"
+    },
+    {
+      "album": {
         "name": "Grounding Springs",
         "url": "https://open.spotify.com/album/7G5UgVeeGvUCn1fmuMltil"
       },
@@ -2948,7 +2966,7 @@
       ],
       "date_added": "2025-09-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 161927,
       "name": "Holding Quiet",
       "url": "https://open.spotify.com/track/7AF3yhWgBhtW8QrvFgp5T0"

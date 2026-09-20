@@ -1,6 +1,6 @@
 {
   "description": "Throw your lighters in the air and wave them like you don't care. Cover: Guns N' Roses",
-  "num_followers": 1570384,
+  "num_followers": 1570512,
   "original_name": "Heavy Ballads",
   "owner": {
     "name": "Spotify",
@@ -383,18 +383,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Mane Attraction",
-        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
+        "name": "14 Shades of Grey",
+        "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
       },
       "artists": [
         {
-          "name": "White Lion",
-          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
+          "name": "Staind",
+          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
         }
       ],
-      "duration_ms": 265160,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
+      "duration_ms": 276840,
+      "name": "Zoe Jane",
+      "url": "https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -415,18 +415,18 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "14 Shades of Grey",
-        "url": "https://open.spotify.com/album/6PntFOrFJdHpXE9xzjhkyR"
+        "name": "Mane Attraction",
+        "url": "https://open.spotify.com/album/49q8hRnhM6xM5PD5tQSGxb"
       },
       "artists": [
         {
-          "name": "Staind",
-          "url": "https://open.spotify.com/artist/5KDIH2gF0VpelTqyQS7udb"
+          "name": "White Lion",
+          "url": "https://open.spotify.com/artist/3nLYJvqbEzs5kg2TlprxIG"
         }
       ],
-      "duration_ms": 276840,
-      "name": "Zoe Jane",
-      "url": "https://open.spotify.com/track/6WrOZ59ScdQXE24zcYNyyA"
+      "duration_ms": 265160,
+      "name": "You're All I Need",
+      "url": "https://open.spotify.com/track/4C8qZRxrteBY9F8r2oZrV3"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1235,22 +1235,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Skid Row",
-        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
-      },
-      "artists": [
-        {
-          "name": "Skid Row",
-          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
-        }
-      ],
-      "duration_ms": 229960,
-      "name": "18 and Life",
-      "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Zombie",
         "url": "https://open.spotify.com/album/768Mgdrb3yUmNJ4HW4IJOL"
       },
@@ -1263,6 +1247,22 @@
       "duration_ms": 254805,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/1vNoA9F5ASnlBISFekDmg3"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Skid Row",
+        "url": "https://open.spotify.com/album/0kSTuMp9GpX9pJR45Bksgi"
+      },
+      "artists": [
+        {
+          "name": "Skid Row",
+          "url": "https://open.spotify.com/artist/4opTS86dN9uO313J9CE8xg"
+        }
+      ],
+      "duration_ms": 229960,
+      "name": "18 and Life",
+      "url": "https://open.spotify.com/track/0qgrrDnUUhyxpxbBznUnzg"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Kiss of Death",
-        "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
-      },
-      "artists": [
-        {
-          "name": "Mot\u00f6rhead",
-          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
-        }
-      ],
-      "duration_ms": 261186,
-      "name": "God Was Never on Your Side",
-      "url": "https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Slave to the Grind",
         "url": "https://open.spotify.com/album/0AiXcZbksZoX2pSe2384Z3"
       },
@@ -1439,6 +1423,22 @@
       "duration_ms": 235066,
       "name": "In a Darkened Room",
       "url": "https://open.spotify.com/track/4WwWjFCyvUY2fcx8OULByB"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Kiss of Death",
+        "url": "https://open.spotify.com/album/4syGSCBIzJWYQB15Msvn1y"
+      },
+      "artists": [
+        {
+          "name": "Mot\u00f6rhead",
+          "url": "https://open.spotify.com/artist/1DFr97A9HnbV3SKTJFu62M"
+        }
+      ],
+      "duration_ms": 261186,
+      "name": "God Was Never on Your Side",
+      "url": "https://open.spotify.com/track/3zeQSYzaN9kLVypKWr6yUi"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1523,22 +1523,6 @@
     {
       "added_at": "2026-01-09 05:00:22",
       "album": {
-        "name": "Vault: Def Leppard Greatest Hits (1980\u20131995)",
-        "url": "https://open.spotify.com/album/5TT3zudoEiGFg0uZ8KSZL1"
-      },
-      "artists": [
-        {
-          "name": "Def Leppard",
-          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
-        }
-      ],
-      "duration_ms": 257161,
-      "name": "When Love And Hate Collide",
-      "url": "https://open.spotify.com/track/1ailMHu2DGaPR8kDSJ0XAE"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
         "name": "Worlds Collide",
         "url": "https://open.spotify.com/album/0rr0bj60VA1iBM0T6s34mL"
       },
@@ -1555,6 +1539,22 @@
       "duration_ms": 237920,
       "name": "I Don't Care (feat. Adam Gontier)",
       "url": "https://open.spotify.com/track/7KRnJW2x33Mb84NavoKmbh"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "Vault: Def Leppard Greatest Hits (1980\u20131995)",
+        "url": "https://open.spotify.com/album/5TT3zudoEiGFg0uZ8KSZL1"
+      },
+      "artists": [
+        {
+          "name": "Def Leppard",
+          "url": "https://open.spotify.com/artist/6H1RjVyNruCmrBEWRbD0VZ"
+        }
+      ],
+      "duration_ms": 257161,
+      "name": "When Love And Hate Collide",
+      "url": "https://open.spotify.com/track/1ailMHu2DGaPR8kDSJ0XAE"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1587,6 +1587,22 @@
       "duration_ms": 271173,
       "name": "OHNE DICH",
       "url": "https://open.spotify.com/track/0HFKRJ86CSYRGkbALc6Aen"
+    },
+    {
+      "added_at": "2026-01-09 05:00:22",
+      "album": {
+        "name": "1987 (2007 Remaster)",
+        "url": "https://open.spotify.com/album/5YAaEVUeMvXjI9J0ExHPmw"
+      },
+      "artists": [
+        {
+          "name": "Whitesnake",
+          "url": "https://open.spotify.com/artist/3UbyYnvNIT5DFXU4WgiGpP"
+        }
+      ],
+      "duration_ms": 275760,
+      "name": "Is This Love - 2007 Remastered Version",
+      "url": "https://open.spotify.com/track/5JSMty4xsozv560lo6UxhM"
     },
     {
       "added_at": "2026-01-09 05:00:22",
@@ -1635,22 +1651,6 @@
       "duration_ms": 359997,
       "name": "4000 Rainy Nights - Remastered 2016",
       "url": "https://open.spotify.com/track/5Hcs6SnriDmwf3yUUSMxuZ"
-    },
-    {
-      "added_at": "2026-01-09 05:00:22",
-      "album": {
-        "name": "Girls, Girls, Girls",
-        "url": "https://open.spotify.com/album/0Tnve4bDxyiBCRaj03qO8z"
-      },
-      "artists": [
-        {
-          "name": "M\u00f6tley Cr\u00fce",
-          "url": "https://open.spotify.com/artist/0cc6vw3VN8YlIcvr1v7tBL"
-        }
-      ],
-      "duration_ms": 275466,
-      "name": "You're All I Need",
-      "url": "https://open.spotify.com/track/4n4W0yJsGYXzFwStMYMLxj"
     }
   ],
   "unique_name": "Heavy Ballads",

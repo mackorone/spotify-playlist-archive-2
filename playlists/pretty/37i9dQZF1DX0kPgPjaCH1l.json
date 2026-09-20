@@ -1,6 +1,6 @@
 {
   "description": "Baba God, run am \ud83d\ude4f. \nCover:  Kizz Daniel, Krizbeatz & Young Jonn",
-  "num_followers": 102411,
+  "num_followers": 102497,
   "original_name": "afro adura ",
   "owner": {
     "name": "Spotify",
@@ -211,22 +211,22 @@
     {
       "added_at": "2026-09-18 03:59:13",
       "album": {
-        "name": "Jungle",
-        "url": "https://open.spotify.com/album/2CAzG4F35WKFURnVWvwAlg"
+        "name": "what a feeling",
+        "url": "https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp"
       },
       "artists": [
         {
-          "name": "Delamore",
-          "url": "https://open.spotify.com/artist/7qYJQSvaLyLOFvxGEdjw79"
+          "name": "FOLA",
+          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
         },
         {
-          "name": "Boy Muller",
-          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+          "name": "Bella Shmurda",
+          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
         }
       ],
-      "duration_ms": 169090,
-      "name": "Jungle",
-      "url": "https://open.spotify.com/track/5cSaHJEB56sgxLURr9WFzF"
+      "duration_ms": 159945,
+      "name": "who does that? (feat. Bella Shmurda)",
+      "url": "https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L"
     },
     {
       "added_at": "2026-09-18 03:59:13",
@@ -255,6 +255,26 @@
     {
       "added_at": "2026-09-18 03:59:13",
       "album": {
+        "name": "Jungle",
+        "url": "https://open.spotify.com/album/2CAzG4F35WKFURnVWvwAlg"
+      },
+      "artists": [
+        {
+          "name": "Delamore",
+          "url": "https://open.spotify.com/artist/7qYJQSvaLyLOFvxGEdjw79"
+        },
+        {
+          "name": "Boy Muller",
+          "url": "https://open.spotify.com/artist/0B8MhbUZz93I65AJSnVEUZ"
+        }
+      ],
+      "duration_ms": 169090,
+      "name": "Jungle",
+      "url": "https://open.spotify.com/track/5cSaHJEB56sgxLURr9WFzF"
+    },
+    {
+      "added_at": "2026-09-18 03:59:13",
+      "album": {
         "name": "Timileyin 2.0",
         "url": "https://open.spotify.com/album/6VNmpnogjMbZKJyzuj6c2a"
       },
@@ -275,22 +295,6 @@
     {
       "added_at": "2026-09-18 03:59:13",
       "album": {
-        "name": "Blessed",
-        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
-      },
-      "artists": [
-        {
-          "name": "Mohbad",
-          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
-        }
-      ],
-      "duration_ms": 147796,
-      "name": "Blessing",
-      "url": "https://open.spotify.com/track/0aJa1qkgXRI4CrrRsTekTG"
-    },
-    {
-      "added_at": "2026-09-18 03:59:13",
-      "album": {
         "name": "SHON PE (Count Your Money)",
         "url": "https://open.spotify.com/album/3Y3X4PiLTTskoA58xGoEzk"
       },
@@ -303,6 +307,22 @@
       "duration_ms": 158400,
       "name": "SHON PE (Count Your Money)",
       "url": "https://open.spotify.com/track/5OdN5ofCYSeGbqeYkXhqEN"
+    },
+    {
+      "added_at": "2026-09-18 03:59:13",
+      "album": {
+        "name": "Blessed",
+        "url": "https://open.spotify.com/album/0X0hFVPZ4GfWlY9Gr6tSst"
+      },
+      "artists": [
+        {
+          "name": "Mohbad",
+          "url": "https://open.spotify.com/artist/0a8YNI8VHVPYKIPvCiJDxa"
+        }
+      ],
+      "duration_ms": 147796,
+      "name": "Blessing",
+      "url": "https://open.spotify.com/track/0aJa1qkgXRI4CrrRsTekTG"
     },
     {
       "added_at": "2026-09-18 03:59:13",
@@ -323,26 +343,6 @@
       "duration_ms": 172800,
       "name": "My Light (with Llona)",
       "url": "https://open.spotify.com/track/2Z6jDJCq9y8MxrIvEWfgwL"
-    },
-    {
-      "added_at": "2026-09-18 03:59:13",
-      "album": {
-        "name": "what a feeling",
-        "url": "https://open.spotify.com/album/0NWBna7snlHKH0NJ2f3Skp"
-      },
-      "artists": [
-        {
-          "name": "FOLA",
-          "url": "https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z"
-        },
-        {
-          "name": "Bella Shmurda",
-          "url": "https://open.spotify.com/artist/7kK5badbqOjd8WlT2XWMeM"
-        }
-      ],
-      "duration_ms": 159945,
-      "name": "who does that? (feat. Bella Shmurda)",
-      "url": "https://open.spotify.com/track/3ZR7IlqBPK8TrJyZYfFX9L"
     },
     {
       "added_at": "2026-09-18 03:59:13",
@@ -403,6 +403,26 @@
     {
       "added_at": "2026-09-18 03:59:13",
       "album": {
+        "name": "Instagram",
+        "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
+      },
+      "artists": [
+        {
+          "name": "Muyeez",
+          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 140606,
+      "name": "Instagram",
+      "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
+    },
+    {
+      "added_at": "2026-09-18 03:59:13",
+      "album": {
         "name": "Guide",
         "url": "https://open.spotify.com/album/2SBS6iEht5ZGG7hxyeeK7q"
       },
@@ -423,26 +443,6 @@
       "duration_ms": 127565,
       "name": "Guide",
       "url": "https://open.spotify.com/track/5aylNPDIYwLWGDAnCQpDXE"
-    },
-    {
-      "added_at": "2026-09-18 03:59:13",
-      "album": {
-        "name": "Instagram",
-        "url": "https://open.spotify.com/album/0GyUBLiSgnRIMnV0H6bP8S"
-      },
-      "artists": [
-        {
-          "name": "Muyeez",
-          "url": "https://open.spotify.com/artist/58JKLeDfIeeOYujvF1UMQS"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 140606,
-      "name": "Instagram",
-      "url": "https://open.spotify.com/track/1Ss5QjczHsdYkvNsiBmoqS"
     },
     {
       "added_at": "2026-09-18 03:59:13",
@@ -719,18 +719,18 @@
     {
       "added_at": "2026-09-18 03:59:13",
       "album": {
-        "name": "Abefe (Begged To Be Loved)",
-        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
+        "name": "Resan",
+        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
       },
       "artists": [
         {
-          "name": "Abefe",
-          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
+          "name": "Zlatan",
+          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
         }
       ],
-      "duration_ms": 168896,
-      "name": "Yaweh",
-      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
+      "duration_ms": 198545,
+      "name": "That Guy",
+      "url": "https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o"
     },
     {
       "added_at": "2026-09-18 03:59:13",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-09-18 03:59:13",
       "album": {
-        "name": "Resan",
-        "url": "https://open.spotify.com/album/0UjVcregRqCYPSbSKaCPmd"
+        "name": "Abefe (Begged To Be Loved)",
+        "url": "https://open.spotify.com/album/27J1nzokWAXP8MF5alIPuZ"
       },
       "artists": [
         {
-          "name": "Zlatan",
-          "url": "https://open.spotify.com/artist/4mSWNal2Ixxf1zrXSTLoep"
+          "name": "Abefe",
+          "url": "https://open.spotify.com/artist/3I2EdUYrhKmG2ghjrSPojl"
         }
       ],
-      "duration_ms": 198545,
-      "name": "That Guy",
-      "url": "https://open.spotify.com/track/2fnO0WWQC44sjKwk1Ey68o"
+      "duration_ms": 168896,
+      "name": "Yaweh",
+      "url": "https://open.spotify.com/track/77YhqPRTDbynXrMdyHzdRH"
     },
     {
       "added_at": "2026-09-18 03:59:13",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-09-18 03:59:13",
       "album": {
-        "name": "Business",
-        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
-      },
-      "artists": [
-        {
-          "name": "Mavo",
-          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
-        }
-      ],
-      "duration_ms": 143901,
-      "name": "God's Promise",
-      "url": "https://open.spotify.com/track/5aLkNJK9xVeCL90lRzlZVm"
-    },
-    {
-      "added_at": "2026-09-18 03:59:13",
-      "album": {
         "name": "Barrystar, Vol. 2",
         "url": "https://open.spotify.com/album/2sRMHoYk2tlpv0Dq9DtWcj"
       },
@@ -1195,6 +1179,22 @@
       "duration_ms": 150000,
       "name": "Motide",
       "url": "https://open.spotify.com/track/3FVclanhZBo5V9d5mO8mke"
+    },
+    {
+      "added_at": "2026-09-18 03:59:13",
+      "album": {
+        "name": "Business",
+        "url": "https://open.spotify.com/album/0PFTMjw4ODWOQFOoiiadKI"
+      },
+      "artists": [
+        {
+          "name": "Mavo",
+          "url": "https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9"
+        }
+      ],
+      "duration_ms": 143901,
+      "name": "God's Promise",
+      "url": "https://open.spotify.com/track/5aLkNJK9xVeCL90lRzlZVm"
     },
     {
       "added_at": "2026-09-18 03:59:13",
@@ -1387,22 +1387,18 @@
     {
       "added_at": "2026-09-18 03:59:13",
       "album": {
-        "name": "Only God",
-        "url": "https://open.spotify.com/album/5msES2AJgY40wJpt6g61c5"
+        "name": "ITEM VII",
+        "url": "https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD"
       },
       "artists": [
         {
-          "name": "Victor AD",
-          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
-        },
-        {
-          "name": "Timaya",
-          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
+          "name": "Ema Onigah",
+          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
         }
       ],
-      "duration_ms": 192127,
-      "name": "Only God",
-      "url": "https://open.spotify.com/track/2hl9HqcOsnosvepwql12un"
+      "duration_ms": 163125,
+      "name": "Chance",
+      "url": "https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM"
     },
     {
       "added_at": "2026-09-18 03:59:13",
@@ -1423,18 +1419,22 @@
     {
       "added_at": "2026-09-18 03:59:13",
       "album": {
-        "name": "ITEM VII",
-        "url": "https://open.spotify.com/album/5degYfaTErlrRQWdvEA7UD"
+        "name": "Only God",
+        "url": "https://open.spotify.com/album/5msES2AJgY40wJpt6g61c5"
       },
       "artists": [
         {
-          "name": "Ema Onigah",
-          "url": "https://open.spotify.com/artist/3xl6xQ0sIWIWE6tiUW3hwD"
+          "name": "Victor AD",
+          "url": "https://open.spotify.com/artist/0yUUty3Foto0aVQ0qElM3N"
+        },
+        {
+          "name": "Timaya",
+          "url": "https://open.spotify.com/artist/7gEgjd9W1P1iAD9FbubrqC"
         }
       ],
-      "duration_ms": 163125,
-      "name": "Chance",
-      "url": "https://open.spotify.com/track/4a5X8q7S7aODHRgKI4ExvM"
+      "duration_ms": 192127,
+      "name": "Only God",
+      "url": "https://open.spotify.com/track/2hl9HqcOsnosvepwql12un"
     },
     {
       "added_at": "2026-09-18 03:59:13",

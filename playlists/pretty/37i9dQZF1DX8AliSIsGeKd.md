@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 
 > The best new electronic music\. Cover: Moonbootica
 
-[Spotify](https://open.spotify.com/user/spotify) - 756,843 likes - 90 songs - 5 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 756,942 likes - 90 songs - 5 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,7 +37,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8AliSIsGeKd.md) - [plain]
 | 27 | [Answer Me](https://open.spotify.com/track/0qsQjyWJXyoM8ytkcJvO3X) | [LondonGround](https://open.spotify.com/artist/1KrOwCpc0OZhhJIW3wWgl8) | [Answer The Light EP](https://open.spotify.com/album/2fQEVE5kfrPSJ28OBxCGaT) | 4:56 |
 | 28 | [Can't Stop](https://open.spotify.com/track/3xFmutQDQS1Ywuu3xSPIcz) | [Elroy \(AUS\)](https://open.spotify.com/artist/6DiRok1NmemDiXM5SVIgXp) | [Can't Stop](https://open.spotify.com/album/7cmfeCiX0kasgN1EqGiJMb) | 3:01 |
 | 29 | [Threshold](https://open.spotify.com/track/0uswdcxt2jVM5DGHDhcvtO) | [FJAAK](https://open.spotify.com/artist/4qG1qjeHfkASTdyRGbLWbV) | [FJAAK 015](https://open.spotify.com/album/5yoUmEqbqRAeB7WLtp8HAX) | 5:28 |
-| 30 | [Abschied](https://open.spotify.com/track/34PSrgTdspm34PwdUarZQF) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [Indeed](https://open.spotify.com/album/50J7B7cvXIgmEt4euOX9gw) | 4:24 |
+| 30 | [Indeed Abschied](https://open.spotify.com/track/34PSrgTdspm34PwdUarZQF) | [Alfred Heinrichs](https://open.spotify.com/artist/6kzCLJOC7MU8mAbhIJNpIo) | [Indeed](https://open.spotify.com/album/50J7B7cvXIgmEt4euOX9gw) | 4:24 |
 | 31 | [Women Respond to Bass \- Schwefelgelb Remix](https://open.spotify.com/track/3z4SbuqeA64goUJfxkAxLn) | [Sextile](https://open.spotify.com/artist/4ReoJ2faKfdjI0plizlL56), [Schwefelgelb](https://open.spotify.com/artist/0gvrCzDfdcHWrTOanKBlJL) | [Women Respond to Bass \(Schwefelgelb Remix\)](https://open.spotify.com/album/5PiTS7XjAlfzSdMvcyh3tn) | 3:56 |
 | 32 | [Get Close](https://open.spotify.com/track/7mVuqGo4TVJNKFroaneLA6) | [LOVRA](https://open.spotify.com/artist/4fIPBdK4awAR1W14u3v1J5) | [Get Close](https://open.spotify.com/album/4Y3RAepYnXLWeFADjveC4K) | 2:47 |
 | 33 | [Higher](https://open.spotify.com/track/2tLj6c7eIbhjYzAcXxOtbT) | [Rhode & Brown](https://open.spotify.com/artist/3tA0d4G3jC6CXf6MXEZE5T), [Coeo](https://open.spotify.com/artist/3OoNpyvA82LedOZWG3WE8Z) | [Permanent Vacation XX 2](https://open.spotify.com/album/1fdDoJhCYeRrKIcsXwJR0D) | 6:16 |

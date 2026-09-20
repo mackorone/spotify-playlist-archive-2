@@ -11169,6 +11169,24 @@
     },
     {
       "album": {
+        "name": "Blue Expander",
+        "url": "https://open.spotify.com/album/5jkaYffXO8vj8UtsLRfe5m"
+      },
+      "artists": [
+        {
+          "name": "yerbby",
+          "url": "https://open.spotify.com/artist/7byplsH3a05Rz2CPjwINHF"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249375,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/27Og2UU9etYPewSBZj348w"
+    },
+    {
+      "album": {
         "name": "Blue Hour",
         "url": "https://open.spotify.com/album/3S82XPNylkjvtKMPNy3XHv"
       },
@@ -51167,7 +51185,7 @@
     },
     {
       "album": {
-        "name": "Innocent Smile",
+        "name": "Innocent Smile (feat. Suggs & Chase & Status)",
         "url": "https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq"
       },
       "artists": [
@@ -51188,7 +51206,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 160000,
-      "name": "Innocent Smile",
+      "name": "Innocent Smile (feat. Suggs & Chase & Status)",
       "url": "https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f"
     },
     {
@@ -99188,6 +99206,32 @@
       "duration_ms": 234753,
       "name": "The Right",
       "url": "https://open.spotify.com/track/6Rs9a5wCEYHviyHVIMa0Eb"
+    },
+    {
+      "album": {
+        "name": "The Rush",
+        "url": "https://open.spotify.com/album/4gTYuAcbkMvzCWak45Z2mA"
+      },
+      "artists": [
+        {
+          "name": "Natty Lou",
+          "url": "https://open.spotify.com/artist/01iBGqeIP82ClBsWKXEW1O"
+        },
+        {
+          "name": "Lateral",
+          "url": "https://open.spotify.com/artist/6EsYSMHy341qHnRMUW4GGR"
+        },
+        {
+          "name": "Max Cardona",
+          "url": "https://open.spotify.com/artist/6SDKrEjimkViHAkdp5mrLg"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194103,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/3G4KqWuuGHsLT2WdzvXvVZ"
     },
     {
       "album": {

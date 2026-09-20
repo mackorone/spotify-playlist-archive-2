@@ -1,6 +1,6 @@
 {
   "description": "Lagu-lagu Pop untuk teman bersantai.",
-  "num_followers": 499116,
+  "num_followers": 499114,
   "original_name": "Santai Sejenak",
   "owner": {
     "name": "Spotify",
@@ -547,22 +547,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Keabadian",
-        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
-      },
-      "artists": [
-        {
-          "name": "Reza Artamevia",
-          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
-        }
-      ],
-      "duration_ms": 247666,
-      "name": "Keabadian",
-      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Ego & Fungsi Otak",
         "url": "https://open.spotify.com/album/01PCAiyhBHXTj9KfSigcQz"
       },
@@ -575,6 +559,22 @@
       "duration_ms": 243413,
       "name": "Zona Nyaman (From \"Filosofi Kopi 2: Ben & Jody\")",
       "url": "https://open.spotify.com/track/4lfAvFv8roumWVKXhHF8uN"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Keabadian",
+        "url": "https://open.spotify.com/album/0X3OW0qjBDc3I9I52w6cym"
+      },
+      "artists": [
+        {
+          "name": "Reza Artamevia",
+          "url": "https://open.spotify.com/artist/6ZKqWNmLTzV5kMwIh3VeVF"
+        }
+      ],
+      "duration_ms": 247666,
+      "name": "Keabadian",
+      "url": "https://open.spotify.com/track/4fYaJrhUh3ca4SXcgmOtmn"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -719,22 +719,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Dari Mata",
-        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
-      },
-      "artists": [
-        {
-          "name": "Jaz",
-          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
-        }
-      ],
-      "duration_ms": 223462,
-      "name": "Dari Mata",
-      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Ruang Tunggu",
         "url": "https://open.spotify.com/album/1lp7ziYXZH8Z2r28FiUPWX"
       },
@@ -747,6 +731,22 @@
       "duration_ms": 329865,
       "name": "Di Atas Meja",
       "url": "https://open.spotify.com/track/1MDVXlgY8Of2n2otw57hw0"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
+        "name": "Dari Mata",
+        "url": "https://open.spotify.com/album/40mpmlGhszXzLDZ9qbyAJh"
+      },
+      "artists": [
+        {
+          "name": "Jaz",
+          "url": "https://open.spotify.com/artist/78ED3zmePoZzEzeBUg0evm"
+        }
+      ],
+      "duration_ms": 223462,
+      "name": "Dari Mata",
+      "url": "https://open.spotify.com/track/4xFM9ET7fPtYgbp9QyzrHl"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1015,6 +1015,22 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
+        "name": "Tentang Kamu",
+        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 229840,
+      "name": "Kecewa",
+      "url": "https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
         "name": "Ekspektasi",
         "url": "https://open.spotify.com/album/3MEdsfqraSQMApYPGNYv4M"
       },
@@ -1051,22 +1067,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Tentang Kamu",
-        "url": "https://open.spotify.com/album/2bdQCQ7M7e81laFCbWVng8"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 229840,
-      "name": "Kecewa",
-      "url": "https://open.spotify.com/track/1sDfnkQge4Nmkp8sgLgH1i"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Ello",
         "url": "https://open.spotify.com/album/3drZS8rKcEkKSaxFJ4XA2s"
       },
@@ -1099,18 +1099,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Renung Resah",
-        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
+        "name": "Hit Singles BCL And More",
+        "url": "https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j"
       },
       "artists": [
         {
-          "name": "raissa anggiani",
-          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
         }
       ],
-      "duration_ms": 222000,
-      "name": "Itu Aku",
-      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
+      "duration_ms": 292306,
+      "name": "Karena Kucinta Kau",
+      "url": "https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1131,18 +1131,18 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "Hit Singles BCL And More",
-        "url": "https://open.spotify.com/album/14gSWi2SS7idDqRhGYuv3j"
+        "name": "Renung Resah",
+        "url": "https://open.spotify.com/album/5RmCmfzSDQLUl8YAKO7Akj"
       },
       "artists": [
         {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+          "name": "raissa anggiani",
+          "url": "https://open.spotify.com/artist/11k3Y6uyixbyGfgPl8qZTZ"
         }
       ],
-      "duration_ms": 292306,
-      "name": "Karena Kucinta Kau",
-      "url": "https://open.spotify.com/track/3OO0GMQomNOnhFli960HDz"
+      "duration_ms": 222000,
+      "name": "Itu Aku",
+      "url": "https://open.spotify.com/track/5SicKKsUufuzKZASHO9eDE"
     },
     {
       "added_at": "2026-02-27 14:15:43",
@@ -1183,6 +1183,26 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
+        "name": "It's Me BCL",
+        "url": "https://open.spotify.com/album/3lWkC6kEMXvboWSFEB6D1B"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        },
+        {
+          "name": "Dipha Barus",
+          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
+        }
+      ],
+      "duration_ms": 211965,
+      "name": "Aku Wanita (with Dipha Barus)",
+      "url": "https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
         "name": "Menunggu Kamu - OST Jelita Sejuba",
         "url": "https://open.spotify.com/album/44CfF0k71uyqaIuegQo34v"
       },
@@ -1219,26 +1239,6 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
-        "name": "It's Me BCL",
-        "url": "https://open.spotify.com/album/3lWkC6kEMXvboWSFEB6D1B"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        },
-        {
-          "name": "Dipha Barus",
-          "url": "https://open.spotify.com/artist/0UtZ0DRiE8usRg9GyjCPCr"
-        }
-      ],
-      "duration_ms": 211965,
-      "name": "Aku Wanita (with Dipha Barus)",
-      "url": "https://open.spotify.com/track/3GYxLBhbX1bJH0zoC8zXa7"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
         "name": "Harus Bahagia",
         "url": "https://open.spotify.com/album/5Hb50nIh6byYRzkyTYHxUG"
       },
@@ -1271,6 +1271,22 @@
     {
       "added_at": "2026-02-27 14:15:43",
       "album": {
+        "name": "Cinta Pertama",
+        "url": "https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju"
+      },
+      "artists": [
+        {
+          "name": "Bunga Citra Lestari",
+          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
+        }
+      ],
+      "duration_ms": 262253,
+      "name": "Cinta Pertama (Sunny)",
+      "url": "https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih"
+    },
+    {
+      "added_at": "2026-02-27 14:15:43",
+      "album": {
         "name": "Galih & Ratna (From \"Galih & Ratna\")",
         "url": "https://open.spotify.com/album/6ecF1hIoV21v0hie4icsxl"
       },
@@ -1299,22 +1315,6 @@
       "duration_ms": 241733,
       "name": "KKEB",
       "url": "https://open.spotify.com/track/71NQP11KgFDEJzzrks7wcn"
-    },
-    {
-      "added_at": "2026-02-27 14:15:43",
-      "album": {
-        "name": "Cinta Pertama",
-        "url": "https://open.spotify.com/album/5XZhAtlW5rKTZS2THwL8ju"
-      },
-      "artists": [
-        {
-          "name": "Bunga Citra Lestari",
-          "url": "https://open.spotify.com/artist/30qVSJGhPhrZLKG0H9DMA9"
-        }
-      ],
-      "duration_ms": 262253,
-      "name": "Cinta Pertama (Sunny)",
-      "url": "https://open.spotify.com/track/0E8e3Fy9Rh2C8K9rRnB2ih"
     },
     {
       "added_at": "2026-02-27 14:15:43",

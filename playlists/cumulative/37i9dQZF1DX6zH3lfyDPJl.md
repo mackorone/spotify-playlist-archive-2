@@ -4,7 +4,7 @@
 
 > 센치한 감정을 노래하는 감성적인 곡들과 함께 물 멍에 잠겨보세요.
 
-223 songs - 13 hr 51 min
+224 songs - 13 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,6 +37,7 @@
 | [Beside](https://open.spotify.com/track/11xJzjqdO6as2OEBfn2Fl7) | [SURL](https://open.spotify.com/artist/7owveHzN1hmQuw6Ojg4sI3) | [Beside](https://open.spotify.com/album/6rKWrHmwSip4xYYj6MPLAt) | 3:54 | 2024-08-05 | 2025-04-02 |
 | [Blinded](https://open.spotify.com/track/2bIXRvQccLz5rhW8CkyBWs) | [ALEPH](https://open.spotify.com/artist/2ncTglxMHKmCzBKckfzOEv) | [Blinded](https://open.spotify.com/album/6zE5G60zhdsDy2xqyOVIYv) | 3:45 | 2026-04-09 | 2026-04-23 |
 | [Blue mood](https://open.spotify.com/track/6xGDC4fXG9luyGcEKognnT) | [entoy](https://open.spotify.com/artist/25OMfKk5AnZxUdzwDy3bOj), [suru](https://open.spotify.com/artist/2yXGQV7YrtoaLyJsxTqUNe) | [Lost Mood](https://open.spotify.com/album/0r5N2nH1VGrbYYp5wkERkh) | 2:39 | 2026-06-16 |  |
+| [Blue rain](https://open.spotify.com/track/3R56jKicl9gSzdJxcr4wrd) | [Redoor](https://open.spotify.com/artist/5xhi1KB7WkPiTYb5Fm3YvS) | [My blue wavy room](https://open.spotify.com/album/7BVdZTMTaqFoXbXXlg1DLr) | 3:49 | 2026-09-08 |  |
 | [Boots](https://open.spotify.com/track/7esGow9Wr88olbMx9gBwvh) | [Royal Republic](https://open.spotify.com/artist/0DbbnkFMhhDvinDYIiHhGS) | [LoveCop](https://open.spotify.com/album/57b10oox3EPeH5ErLg6aQZ) | 2:38 | 2024-08-05 | 2025-04-02 |
 | [Break My Heart Again](https://open.spotify.com/track/7zw6nQHTwml1mVuQDf5V6k) | [FINNEAS](https://open.spotify.com/artist/37M5pPGs6V1fchFJSgCguX) | [Blood Harmony \(Deluxe\)](https://open.spotify.com/album/52Kcim8psSCfCJN2kktKDj) | 3:57 | 2025-06-12 |  |
 | [Breakfast](https://open.spotify.com/track/1vbL5qt2ngwEBHATWXb14U) | [off the menu](https://open.spotify.com/artist/6g1CbXF83eU2eSvIUU9COb) | [bright \#8](https://open.spotify.com/album/3x5JPubOZ28pGepd3EKmYW) | 2:58 | 2024-08-05 | 2025-04-02 |
@@ -67,7 +68,7 @@
 | [Echo](https://open.spotify.com/track/6sAbC7IL9cUG4x1S1CORn4) | [Shin Seol Hee](https://open.spotify.com/artist/2IJDF3Fg5VCCynlwWd467a) | [Echo](https://open.spotify.com/album/5NUvmOyxJs12PaJQPXdpin) | 3:15 | 2024-09-04 | 2025-04-02 |
 | [eighteen winter](https://open.spotify.com/track/4DCSmGoAFwHTc522Q0w1KG) | [Soombee](https://open.spotify.com/artist/0hf58f9ipsuEbNZFNHrgga) | [eighteen winter](https://open.spotify.com/album/0z6mqbRgx3LOM7ROyB9q7C) | 3:19 | 2026-02-13 | 2026-03-06 |
 | [Error](https://open.spotify.com/track/3v3ZFFAhWkgRijv5cqfhTb) | [Baek A](https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx) | [Scent](https://open.spotify.com/album/6lbMbeqLAEAZ4sR0OcOY3C) | 3:32 | 2026-01-26 | 2026-02-14 |
-| [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 | 2026-01-26 |  |
+| [Euphoria](https://open.spotify.com/track/1g8wBEgEYyyi8jz7ASQovq) | [Khamari](https://open.spotify.com/artist/6kmDosYCYjFQtywDq0DLPZ) | [To Dry a Tear](https://open.spotify.com/album/30ObM5UE8nSeiMYURlo4id) | 3:29 | 2026-01-26 | 2026-09-20 |
 | [even if fall into a fail](https://open.spotify.com/track/1uTHCZukKvnXHC9TGjhsV0) | [87dance](https://open.spotify.com/artist/1HxfCTl07FhRiJN9jY9kX3) | [COLOR PAPER HOTEL](https://open.spotify.com/album/4oqDAgsdYAQGaZu6QtmHsQ) | 2:27 | 2024-08-05 | 2025-04-02 |
 | [Every Little Thing I Say I Do](https://open.spotify.com/track/3ngjq0C1z1kVYAdBH5114w) | [Dayglow](https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm) | [Every Little Thing I Say I Do](https://open.spotify.com/album/6aYHsDzCmD030bmUaVaKq8) | 3:00 | 2024-08-05 | 2025-04-02 |
 | [Every Time You Leave](https://open.spotify.com/track/06OsVIu4Y5LRO4Sp3d5SLs) | [The Black Keys](https://open.spotify.com/artist/7mnBLXK823vNxN3UWB7Gfz) | [Ohio Players](https://open.spotify.com/album/4Tdem6pnui14BlWLCB4VrI) | 2:57 | 2024-08-05 | 2025-04-02 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 
 > The jam scene is alive and well\. Cover: Kendall Street Company
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,416 likes - 100 songs - 9 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,435 likes - 100 songs - 9 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,7 +56,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSk9DH2Upl3o.md) - [plain]
 | 46 | [Hell Yeah Everyday \(Live from The Compound Long Beach\)](https://open.spotify.com/track/1mRbV4rJY6tZdYF8KAvU6L) | [Manuel the Band](https://open.spotify.com/artist/53QeCVwCAOdxJ3p7BG4ZUn) | [Hell Yeah Everyday \(Live from The Compound Long Beach\)](https://open.spotify.com/album/18E8ovQ9opDnN1wqBIDG8N) | 3:48 |
 | 47 | [Swim](https://open.spotify.com/track/4llsHJDnZvnzi9OLUcPIJV) | [Tand](https://open.spotify.com/artist/6VC6mZuswk6M1p7AJKFdh6) | [Swim](https://open.spotify.com/album/12zUy7CLj75dH3hk8WHXKj) | 7:27 |
 | 48 | [Smoke on the Shoulder](https://open.spotify.com/track/6VhKlQjE2fOgnX1pTdS0Ow) | [Lonesome Ace Stringband](https://open.spotify.com/artist/504JYVhTf3TWNWUEiV5gcb) | [Smoke on the Shoulder](https://open.spotify.com/album/0IqZzNKnF55j1gi0TL9zqi) | 3:36 |
-| 49 | [Walk Around the Moon](https://open.spotify.com/track/7iBUz3MdI11jzHsmuyO0Ou) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/4PN9sGknmzIRLE2pItVS5u) | 4:49 |
+| 49 | [Walk Around The Moon](https://open.spotify.com/track/7iBUz3MdI11jzHsmuyO0Ou) | [Dave Matthews Band](https://open.spotify.com/artist/2TI7qyDE0QfyOlnbtfDo7L) | [Walk Around The Moon](https://open.spotify.com/album/4PN9sGknmzIRLE2pItVS5u) | 4:49 |
 | 50 | [Feel It](https://open.spotify.com/track/2G63qYWsCvGMF8Lm4QBf01) | [The Sun Champs](https://open.spotify.com/artist/2q9oyqpb4XYVqlGXXjbKhZ) | [Feel It](https://open.spotify.com/album/2PU7HeRdXagOWesWbVvXat) | 4:38 |
 | 51 | [Al's Anti\-Gravity Machine](https://open.spotify.com/track/4Jg2oiJRQuzEcSpKqLxYvR) | [Tommy Kaelin](https://open.spotify.com/artist/7xa6AoVY6TOYK7Zbtwch1p) | [Al's Anti\-Gravity Machine](https://open.spotify.com/album/0TN1UurxGH43ylMYPM75go) | 4:27 |
 | 52 | [Soul Sweet Song](https://open.spotify.com/track/6tvXOpoonSGwxM0R4eq8Tj) | [Tedeschi Trucks Band](https://open.spotify.com/artist/2gFsmDBM0hkoZPmrO5EdyO) | [Soul Sweet Song](https://open.spotify.com/album/1zvef1QMx5kNFNKifTTQud) | 3:55 |

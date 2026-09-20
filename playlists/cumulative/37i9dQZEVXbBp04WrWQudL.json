@@ -53,6 +53,46 @@
     },
     {
       "album": {
+        "name": "A Xon De Que",
+        "url": "https://open.spotify.com/album/5eV78UfJJADfu8I2wIYuY9"
+      },
+      "artists": [
+        {
+          "name": "Feid",
+          "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 209675,
+      "name": "A Xon De Que",
+      "url": "https://open.spotify.com/track/1zMQrHPf5QCWp9LW9G8uvN"
+    },
+    {
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/60AV2ZLIzyrlR070nYHMQI"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191850,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/0U3aUEo98sc63ie96yN6vb"
+    },
+    {
+      "album": {
         "name": "Ain't In LA",
         "url": "https://open.spotify.com/album/79Y6nRU3x2vkaSjTfWIUzT"
       },
@@ -220,7 +260,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 202346,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/3gCEBalMhCFY4zWOLhzSWt"
@@ -242,10 +282,28 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 245870,
       "name": "Bad Blood",
       "url": "https://open.spotify.com/track/1XrHykceUFs13WaIOHf2M8"
+    },
+    {
+      "album": {
+        "name": "bad taste",
+        "url": "https://open.spotify.com/album/0eJn20KuZiMqNc4CFaIVkZ"
+      },
+      "artists": [
+        {
+          "name": "Freya Skye",
+          "url": "https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225650,
+      "name": "bad taste",
+      "url": "https://open.spotify.com/track/2iZcfgpMv4F4TWi274xFCw"
     },
     {
       "album": {
@@ -484,7 +542,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 274524,
       "name": "cardigan",
       "url": "https://open.spotify.com/track/2lr8keLO8ErlW9tOQa3ieA"
@@ -856,7 +914,7 @@
       ],
       "date_added": "2026-09-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 259178,
       "name": "Faint - Unshatter Film Soundtrack - Live in S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/3gt6ZtOWG0dykDLSZfuV06"
@@ -1016,6 +1074,24 @@
       "duration_ms": 212522,
       "name": "HEAVEN - Live from Governor's Ball 2026",
       "url": "https://open.spotify.com/track/0LCui1qlGQwOrmmUcoyD34"
+    },
+    {
+      "album": {
+        "name": "Heavy Is the Crown - Unshatter Film Soundtrack (Live in S\u00e3o Paulo)",
+        "url": "https://open.spotify.com/album/4wiy1DWDpV1DUEVUrMTUcy"
+      },
+      "artists": [
+        {
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173802,
+      "name": "Heavy Is the Crown - Unshatter Film Soundtrack - Live in S\u00e3o Paulo",
+      "url": "https://open.spotify.com/track/6mFuP7fdCLuKhWvDBiHYaz"
     },
     {
       "album": {
@@ -1297,6 +1373,24 @@
     },
     {
       "album": {
+        "name": "Let\u2019s Get Married",
+        "url": "https://open.spotify.com/album/1Z3yuKtcV0YIzjaItbMtsQ"
+      },
+      "artists": [
+        {
+          "name": "Miley Cyrus",
+          "url": "https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217194,
+      "name": "Let\u2019s Get Married",
+      "url": "https://open.spotify.com/track/0Deu4mcMzGG37yDf8B4L57"
+    },
+    {
+      "album": {
         "name": "like it was.",
         "url": "https://open.spotify.com/album/3NcqYy9mPsjLx6SjvawBWN"
       },
@@ -1326,7 +1420,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 256589,
       "name": "Look What You Made Me Do",
       "url": "https://open.spotify.com/track/5hhrs6GOThBgCrOtp2rlUG"
@@ -1442,7 +1536,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 254083,
       "name": "Machine",
       "url": "https://open.spotify.com/track/1DMaTwNXjiflO75Tgd80wy"
@@ -1526,7 +1620,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 201850,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/5KM54A1t75yWCZdA9iEb1U"
@@ -1569,6 +1663,24 @@
     },
     {
       "album": {
+        "name": "Me Reh\u00faso",
+        "url": "https://open.spotify.com/album/3v2H0Gu2KxusfMdGnhksRV"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212309,
+      "name": "Me Reh\u00faso",
+      "url": "https://open.spotify.com/track/3ixd3roAc4Zlxejevskffz"
+    },
+    {
+      "album": {
         "name": "Merry Go Round",
         "url": "https://open.spotify.com/album/3xExm6422LDtFkZdkKblyo"
       },
@@ -1580,7 +1692,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 255284,
       "name": "Merry Go Round",
       "url": "https://open.spotify.com/track/6t4JEAfgl8oVJUASyxzptH"
@@ -1598,7 +1710,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 187583,
       "name": "Midnight Sun",
       "url": "https://open.spotify.com/track/6KizolNUQTu8P0wLIhA6GC"
@@ -1616,7 +1728,7 @@
       ],
       "date_added": "2026-09-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 192675,
       "name": "Mono No Aware - Live | Presented by Spotify",
       "url": "https://open.spotify.com/track/4OVcdR8O3sbwUYwJhoNMIo"
@@ -1638,6 +1750,24 @@
       "duration_ms": 274285,
       "name": "Move Like You Do",
       "url": "https://open.spotify.com/track/3mkiclDD4FKpWTAQLDHzBM"
+    },
+    {
+      "album": {
+        "name": "new trick",
+        "url": "https://open.spotify.com/album/5Nt1LI65bO51vqtclf7x3J"
+      },
+      "artists": [
+        {
+          "name": "ROS\u00c9",
+          "url": "https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183210,
+      "name": "new trick",
+      "url": "https://open.spotify.com/track/653kTKuPf10FZu3qSMZ3ZC"
     },
     {
       "album": {
@@ -1670,7 +1800,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 183801,
       "name": "No Me Suman",
       "url": "https://open.spotify.com/track/3Ib6OQS7zUPW0FBmutoo25"
@@ -1808,7 +1938,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 172800,
       "name": "Online",
       "url": "https://open.spotify.com/track/5jVfmvD9Q3U8CCPaltVODA"
@@ -1826,7 +1956,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 277368,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/1BMvI5DMWsAaGtrfNEFQBX"
@@ -1851,6 +1981,28 @@
     },
     {
       "album": {
+        "name": "Pa' Bailar",
+        "url": "https://open.spotify.com/album/42ZqoMkyYzh1V2BwLlkmJy"
+      },
+      "artists": [
+        {
+          "name": "Elvis Crespo",
+          "url": "https://open.spotify.com/artist/1c22GXH30ijlOfXhfLz9Df"
+        },
+        {
+          "name": "Be\u00e9le",
+          "url": "https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161408,
+      "name": "Pa' Bailar",
+      "url": "https://open.spotify.com/track/6TdsrHJVLFBApxontMWJeB"
+    },
+    {
+      "album": {
         "name": "Paroliguelido",
         "url": "https://open.spotify.com/album/1zKozb7rPDpqeIr1LDwaLG"
       },
@@ -1870,6 +2022,24 @@
       "duration_ms": 178740,
       "name": "Paroliguelido",
       "url": "https://open.spotify.com/track/6jIGWLo1zdMsYXPSTOtBgE"
+    },
+    {
+      "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/4TzDPriZT1MzUUZqWLYZ15"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 244210,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/4zXJTqvQof9avJjyLFSRKU"
     },
     {
       "album": {
@@ -2068,7 +2238,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 243034,
       "name": "Shake It Off",
       "url": "https://open.spotify.com/track/17G7Y46fYsHY3r2cqWOZEC"
@@ -2086,7 +2256,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 341290,
       "name": "Sign of the Times",
       "url": "https://open.spotify.com/track/5nAEWzFqGYnlU3UWPPRl0e"
@@ -2140,7 +2310,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 196928,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
@@ -2216,7 +2386,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 243952,
       "name": "Style",
       "url": "https://open.spotify.com/track/0wcvnSPKvF9BzmNsY2Ohze"
@@ -2364,7 +2534,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 119765,
       "name": "Tie Your Mother Down - Live in Budapest",
       "url": "https://open.spotify.com/track/5LHP4a5vFrgiYYSSBK1lJK"
@@ -2404,6 +2574,46 @@
       "duration_ms": 228437,
       "name": "Training Season",
       "url": "https://open.spotify.com/track/708fgISg1S1a6GT2Q3gxIH"
+    },
+    {
+      "album": {
+        "name": "TUTTO",
+        "url": "https://open.spotify.com/album/6DGLUh3SiiqX98eCWKh3wx"
+      },
+      "artists": [
+        {
+          "name": "Ultimo",
+          "url": "https://open.spotify.com/artist/3hN3iJMbbBmqBSAMx5veDa"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210005,
+      "name": "TUTTO",
+      "url": "https://open.spotify.com/track/6rp4BsvgppD3z2EHGMcFqo"
+    },
+    {
+      "album": {
+        "name": "VAMO A VEL",
+        "url": "https://open.spotify.com/album/0t39doVzJDjU5WyQxLnHhj"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 243050,
+      "name": "VAMO A VEL",
+      "url": "https://open.spotify.com/track/0125qUd6QK9Wq7qWtimhYH"
     },
     {
       "album": {
@@ -2494,7 +2704,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 234651,
       "name": "You Belong With Me",
       "url": "https://open.spotify.com/track/3PK7gijh68pEcZO1TEDq2K"

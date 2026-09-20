@@ -1,6 +1,6 @@
 {
   "description": "viral, trend ve y\u00fckselenler. Kapak: Baneva",
-  "num_followers": 588207,
+  "num_followers": 588221,
   "original_name": "trend 2026",
   "owner": {
     "name": "Spotify",
@@ -743,6 +743,22 @@
     {
       "added_at": "2026-09-14 10:00:44",
       "album": {
+        "name": "Geri Ver",
+        "url": "https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw"
+      },
+      "artists": [
+        {
+          "name": "Wegh",
+          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
+        }
+      ],
+      "duration_ms": 169411,
+      "name": "Geri Ver",
+      "url": "https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG"
+    },
+    {
+      "added_at": "2026-09-14 10:00:44",
+      "album": {
         "name": "Seninle Ba\u015flar",
         "url": "https://open.spotify.com/album/0ZsZilQ9p3sThUWyZiMLZl"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 151308,
       "name": "Seninle Ba\u015flar",
       "url": "https://open.spotify.com/track/5lJtI1uJPDrv2x6vhCmml0"
-    },
-    {
-      "added_at": "2026-09-14 10:00:44",
-      "album": {
-        "name": "Geri Ver",
-        "url": "https://open.spotify.com/album/5mFTXf9dPQ6cTxbt7nuHpw"
-      },
-      "artists": [
-        {
-          "name": "Wegh",
-          "url": "https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT"
-        }
-      ],
-      "duration_ms": 169411,
-      "name": "Geri Ver",
-      "url": "https://open.spotify.com/track/6fCS2Zg9OKiWh51TbFFWXG"
     },
     {
       "added_at": "2026-09-14 10:00:44",

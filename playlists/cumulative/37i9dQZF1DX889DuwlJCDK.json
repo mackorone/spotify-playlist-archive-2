@@ -14565,6 +14565,24 @@
     },
     {
       "album": {
+        "name": "Tough Love",
+        "url": "https://open.spotify.com/album/1DS0uFeCXZEauZkNdYtm8o"
+      },
+      "artists": [
+        {
+          "name": "yonige",
+          "url": "https://open.spotify.com/artist/6uovEmc6Z1C1aUvvdKACXQ"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214026,
+      "name": "Tough Love",
+      "url": "https://open.spotify.com/track/6y64BIoQhoo7DaybxPKxir"
+    },
+    {
+      "album": {
         "name": "Sora Ni Kaoru Wa Natsu No Kage",
         "url": "https://open.spotify.com/album/6YsVn5cWsGEU51eWuc9iRo"
       },
@@ -28532,7 +28550,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 280315,
       "name": "\u5c0f\u8aac\u5bb6",
       "url": "https://open.spotify.com/track/4a5uyzbI0Jw6n1nEYvEhmD"

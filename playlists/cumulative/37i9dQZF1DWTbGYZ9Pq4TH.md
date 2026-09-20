@@ -4,7 +4,7 @@
 
 > Le canzoni d'amore italiane più romantiche di sempre ❤️
 
-266 songs - 17 hr 4 min
+267 songs - 17 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -68,6 +68,7 @@
 | [E Ti Vengo A Cercare](https://open.spotify.com/track/4QqvBU7TPHHCFnZpo1WJOr) | [Tiziano Ferro](https://open.spotify.com/artist/11TplWqOPQBTmg2eiSLt1m) | [Accetto Miracoli: L'Esperienza Degli Altri](https://open.spotify.com/album/6SRi5op1x40C5kpqp98YRV) | 3:23 | 2021-09-26 | 2022-07-27 |
 | [E Ti Vengo A Cercare \- Remastered 2008](https://open.spotify.com/track/12SccVj2Jqibxc1zRuUzTC) | [Franco Battiato](https://open.spotify.com/artist/4lianjyuR1tqf6oUX8kjrZ) | [Fisiognomica \(2008 Remastered Edition\)](https://open.spotify.com/album/4sWf0wkRfi49tW4NLxdLj2) | 3:52 | 2021-09-26 |  |
 | [E...](https://open.spotify.com/track/2hfBefasNaEEgnxD4Pdsar) | [Vasco Rossi](https://open.spotify.com/artist/5l4nhyz8876RhgE2d18h65) | [Buoni O Cattivi \(Remastered 2017\)](https://open.spotify.com/album/6qD7I2PTgtLMutPuanRjwL) | 3:29 | 2021-09-26 |  |
+| [En e Xanax](https://open.spotify.com/track/0HkEbFjHSxa4JkmHFsdQRj) | [Samuele Bersani](https://open.spotify.com/artist/5Nydhpz1rcPbgM0fYvLxhz) | [Nuvola Numero Nove](https://open.spotify.com/album/13j2ktAZN4nL6cuZW2j4H3) | 4:33 | 2026-04-21 |  |
 | [Estate](https://open.spotify.com/track/7nd1mwoAAFtJjmjfdyOUwg) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Mentre Tutto Scorre \(Deluxe Version\)](https://open.spotify.com/album/4wPMtE1vSjjAPbNN4mUX86) | 2:58 | 2021-09-26 | 2024-04-19 |
 | [Estate](https://open.spotify.com/track/5PWWPmpN5ZNTck8ccaMmxQ) | [Negramaro](https://open.spotify.com/artist/1X9iZlQXfAAx4Vvmlqeao7) | [Una storia semplice \(Deluxe Edition\)](https://open.spotify.com/album/36FHxTwirWpSCwuXJqaaBo) | 2:59 | 2021-09-26 | 2022-07-29 |
 | [Estate](https://open.spotify.com/track/7AKMq2HTg8FQs9LE0v9uoy) | [Will](https://open.spotify.com/artist/7qIrqNF6i1kRLkGLgGXuZq) | [Estate](https://open.spotify.com/album/5lws5rpO14cspkEls5WGpq) | 3:06 | 2021-09-26 | 2023-03-08 |
@@ -217,7 +218,7 @@
 | [Sei bellissima \- 2016 Remaster](https://open.spotify.com/track/4l0uiCBOrYciJROo2VW6ft) | [Loredana Bertè](https://open.spotify.com/artist/2XpUprTohaksHpVjUtTvlx) | [Normale o Super \(Remastered Version\)](https://open.spotify.com/album/5WSCJ1Bx50jylypTc6Mh7N) | 4:53 | 2021-09-26 | 2022-07-29 |
 | [Sei nell'anima](https://open.spotify.com/track/6shzlUkm7OcnoO4guEiGJ8) | [Gianna Nannini](https://open.spotify.com/artist/0h0p7RkMjCUMdcf0nXmHjX) | [Grazie](https://open.spotify.com/album/2htq51kTRL2dwMxa2mBfJi) | 4:30 | 2021-09-26 | 2026-07-11 |
 | [Sei Un Pensiero Speciale](https://open.spotify.com/track/7ebDvoecu6bw5uMxnxK8qt) | [Eros Ramazzotti](https://open.spotify.com/artist/61J0BktHv7PuP3tjTPYXSX) | [Perfetto](https://open.spotify.com/album/2Pmlb9R3o0c0lLZnEZahD2) | 3:48 | 2021-09-26 | 2022-07-27 |
-| [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5) | 3:07 | 2025-10-03 |  |
+| [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/track/1jRhY5sLzAf3d683tbOVr7) | [Sarah Toscano](https://open.spotify.com/artist/3dsL845RhsJDZPc7BdGsN5), [Mida](https://open.spotify.com/artist/2Pr26KMbfrX8zb8Vk6jFHe) | [Semplicemente \(from the Netflix Series "RIV4LI"\)](https://open.spotify.com/album/4daX0ZBBuoXqr2GIpfe2P5) | 3:07 | 2025-10-03 | 2026-09-20 |
 | [Sempre e per sempre](https://open.spotify.com/track/5K8tLt1YQiLALZGwcErrjH) | [Francesco De Gregori](https://open.spotify.com/artist/16FJYC4FqKhZXiXIzMI4ul) | [Amore nel pomeriggio](https://open.spotify.com/album/7cHl1TaO6qOvyrfoqCofUT) | 3:23 | 2021-09-26 | 2025-04-20 |
 | [Sempre In Due](https://open.spotify.com/track/6ElWuGFrYbsf2mdHWUoGCk) | [Carl Brave x Franco126](https://open.spotify.com/artist/6p2OF8M4ob4KovaU0SUX4b) | [Polaroid 2.0](https://open.spotify.com/album/3RPTwOmoZNB0gNyUKscixz) | 3:10 | 2021-09-26 |  |
 | [Senza farlo apposta](https://open.spotify.com/track/55t2S1tpx1Bj3C5bIEn2BF) | [Shade](https://open.spotify.com/artist/1xqolkIzTFMmqgCuD48WNt), [Federica Carta](https://open.spotify.com/artist/3LEEvToYYJtAYV4lM9fYPE) | [Truman \(Sanremo Edition\)](https://open.spotify.com/album/4Zxjk7Nitaz5NmO4dFFUgW) | 3:35 | 2026-04-21 |  |

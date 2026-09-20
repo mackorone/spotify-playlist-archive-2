@@ -1,12 +1,12 @@
 {
   "description": "New music picks every Friday from your friends at Brownies &amp; Lemonade",
-  "num_followers": 22205,
+  "num_followers": 22208,
   "original_name": "B&L Fresh Batch Friday",
   "owner": {
     "name": "Brownies & Lemonade",
     "url": "https://open.spotify.com/user/browniesandlemonade"
   },
-  "snapshot_id": "AAAKs6XZ/gC4K515za8LbZIi/s/IGmkF",
+  "snapshot_id": "AAAKtzbWIHWJKNP63kVHO8z9B3xRN52/",
   "tracks": [
     {
       "added_at": "2026-09-18 18:37:37",
@@ -243,7 +243,7 @@
     {
       "added_at": "2026-09-18 18:37:37",
       "album": {
-        "name": "Innocent Smile",
+        "name": "Innocent Smile (feat. Suggs & Chase & Status)",
         "url": "https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq"
       },
       "artists": [
@@ -261,7 +261,7 @@
         }
       ],
       "duration_ms": 160000,
-      "name": "Innocent Smile",
+      "name": "Innocent Smile (feat. Suggs & Chase & Status)",
       "url": "https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f"
     },
     {
@@ -553,6 +553,22 @@
       "url": "https://open.spotify.com/track/6nuw2XMb7P232TjAyvg4NY"
     },
     {
+      "added_at": "2026-09-19 05:19:12",
+      "album": {
+        "name": "Blue Expander",
+        "url": "https://open.spotify.com/album/5jkaYffXO8vj8UtsLRfe5m"
+      },
+      "artists": [
+        {
+          "name": "yerbby",
+          "url": "https://open.spotify.com/artist/7byplsH3a05Rz2CPjwINHF"
+        }
+      ],
+      "duration_ms": 249375,
+      "name": "Blue",
+      "url": "https://open.spotify.com/track/27Og2UU9etYPewSBZj348w"
+    },
+    {
       "added_at": "2026-09-18 18:37:37",
       "album": {
         "name": "Tony Montana",
@@ -567,6 +583,30 @@
       "duration_ms": 250810,
       "name": "Tony Montana",
       "url": "https://open.spotify.com/track/0lQbb0GYrapGfD9YPpsa67"
+    },
+    {
+      "added_at": "2026-09-19 17:01:27",
+      "album": {
+        "name": "The Rush",
+        "url": "https://open.spotify.com/album/4gTYuAcbkMvzCWak45Z2mA"
+      },
+      "artists": [
+        {
+          "name": "Natty Lou",
+          "url": "https://open.spotify.com/artist/01iBGqeIP82ClBsWKXEW1O"
+        },
+        {
+          "name": "Lateral",
+          "url": "https://open.spotify.com/artist/6EsYSMHy341qHnRMUW4GGR"
+        },
+        {
+          "name": "Max Cardona",
+          "url": "https://open.spotify.com/artist/6SDKrEjimkViHAkdp5mrLg"
+        }
+      ],
+      "duration_ms": 194103,
+      "name": "The Rush",
+      "url": "https://open.spotify.com/track/3G4KqWuuGHsLT2WdzvXvVZ"
     },
     {
       "added_at": "2026-09-18 18:37:37",

@@ -1,6 +1,6 @@
 {
   "description": "Songs of faith, hope, and the greatest of these, LOVE.",
-  "num_followers": 210176,
+  "num_followers": 210177,
   "original_name": "Higher Love",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Hold Me Close",
-        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
-      },
-      "artists": [
-        {
-          "name": "Aaron Cole",
-          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
-        }
-      ],
-      "duration_ms": 148800,
-      "name": "Hold Me Close",
-      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Love Is A Fight",
         "url": "https://open.spotify.com/album/5ZhvK1Ms5736iNs8cC9Sga"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 213716,
       "name": "Love Is A Fight",
       "url": "https://open.spotify.com/track/5HUl558IsVPiihUQ6jMNoh"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Hold Me Close",
+        "url": "https://open.spotify.com/album/45Plgghf1OZa2gMqh1kUzj"
+      },
+      "artists": [
+        {
+          "name": "Aaron Cole",
+          "url": "https://open.spotify.com/artist/0OQ8y7heASb1vEX5WXvjCr"
+        }
+      ],
+      "duration_ms": 148800,
+      "name": "Hold Me Close",
+      "url": "https://open.spotify.com/track/1XEjjhgrYx2dVpnJV6IwLG"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -739,6 +739,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "I'll Wait",
+        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
+      },
+      "artists": [
+        {
+          "name": "Madison Ryann Ward",
+          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
+        }
+      ],
+      "duration_ms": 231879,
+      "name": "I'll Wait",
+      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Here In Your Arms",
         "url": "https://open.spotify.com/album/07pEzm2jpbU2FHE4Q1i3l7"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 172702,
       "name": "Here In Your Arms",
       "url": "https://open.spotify.com/track/4e8PDVGtTG1uvLOkKDR0gV"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "I'll Wait",
-        "url": "https://open.spotify.com/album/2Mvi0g1n9f8tHaO7oeJfzR"
-      },
-      "artists": [
-        {
-          "name": "Madison Ryann Ward",
-          "url": "https://open.spotify.com/artist/6eAUAR4N9NOpirukqdIzVI"
-        }
-      ],
-      "duration_ms": 231879,
-      "name": "I'll Wait",
-      "url": "https://open.spotify.com/track/4S897uiKljGMaW7jKeRF9I"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -991,26 +991,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Divine Romance (Wedding Version)",
-        "url": "https://open.spotify.com/album/4iu7mcCQ3SehrMlDJlBOML"
-      },
-      "artists": [
-        {
-          "name": "Brian Nhira",
-          "url": "https://open.spotify.com/artist/7D9JzM95gIe11f6L3h1w1L"
-        },
-        {
-          "name": "Gracie Binion",
-          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
-        }
-      ],
-      "duration_ms": 324782,
-      "name": "Divine Romance - Wedding Version",
-      "url": "https://open.spotify.com/track/4Yt5PN919kn34LcG7G1fLU"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "I Love You (Remix)",
         "url": "https://open.spotify.com/album/1VX963HeOs6HHWWm8jwxim"
       },
@@ -1031,6 +1011,26 @@
       "duration_ms": 193170,
       "name": "I Love You (Remix)",
       "url": "https://open.spotify.com/track/0C7KfSMsBddWhnw2gCZLBK"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Divine Romance (Wedding Version)",
+        "url": "https://open.spotify.com/album/4iu7mcCQ3SehrMlDJlBOML"
+      },
+      "artists": [
+        {
+          "name": "Brian Nhira",
+          "url": "https://open.spotify.com/artist/7D9JzM95gIe11f6L3h1w1L"
+        },
+        {
+          "name": "Gracie Binion",
+          "url": "https://open.spotify.com/artist/0ZDuCmctvivaIwQuHrg48n"
+        }
+      ],
+      "duration_ms": 324782,
+      "name": "Divine Romance - Wedding Version",
+      "url": "https://open.spotify.com/track/4Yt5PN919kn34LcG7G1fLU"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1155,22 +1155,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "evergreen love",
-        "url": "https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS"
-      },
-      "artists": [
-        {
-          "name": "Strings & Heart",
-          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
-        }
-      ],
-      "duration_ms": 177804,
-      "name": "evergreen love",
-      "url": "https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "The Magic",
         "url": "https://open.spotify.com/album/3KUvXGaYgZqlFzGlq3Y4os"
       },
@@ -1203,18 +1187,18 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG"
+        "name": "evergreen love",
+        "url": "https://open.spotify.com/album/5qSRcveKFl9iwgxMAYoVKS"
       },
       "artists": [
         {
-          "name": "Vic Lucas",
-          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+          "name": "Strings & Heart",
+          "url": "https://open.spotify.com/artist/5lHDypXbNmHTDoFWpSTqXd"
         }
       ],
-      "duration_ms": 178387,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv"
+      "duration_ms": 177804,
+      "name": "evergreen love",
+      "url": "https://open.spotify.com/track/5uHmaCMrEFNSgUbV4sPJS8"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1247,6 +1231,22 @@
       "duration_ms": 179285,
       "name": "true love",
       "url": "https://open.spotify.com/track/53NBKYQU6gkojWBCYmJcfT"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/063TozOtRM8T8I7fGpLNsG"
+      },
+      "artists": [
+        {
+          "name": "Vic Lucas",
+          "url": "https://open.spotify.com/artist/5XJm3bzY74v1IEmIc6S5jG"
+        }
+      ],
+      "duration_ms": 178387,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/2CrAx85yam4L1C45LImiHv"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Forever With You (Freestyle Session)",
-        "url": "https://open.spotify.com/album/6d3pB44ez3TsJ7ZShjP72R"
-      },
-      "artists": [
-        {
-          "name": "ZOE Music",
-          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
-        }
-      ],
-      "duration_ms": 123386,
-      "name": "Forever With You (Freestyle Session)",
-      "url": "https://open.spotify.com/track/434WFp5IK0hnp2df22hdOv"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "Junto a Ti",
         "url": "https://open.spotify.com/album/2ExKlEtTWeHbcv4uViU6sH"
       },
@@ -1335,6 +1319,22 @@
       "duration_ms": 242759,
       "name": "Always",
       "url": "https://open.spotify.com/track/75SLBVHHOA1nA3h3De0bZx"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
+        "name": "Forever With You (Freestyle Session)",
+        "url": "https://open.spotify.com/album/6d3pB44ez3TsJ7ZShjP72R"
+      },
+      "artists": [
+        {
+          "name": "ZOE Music",
+          "url": "https://open.spotify.com/artist/468p12FvjFTfWvyxLbIL3q"
+        }
+      ],
+      "duration_ms": 123386,
+      "name": "Forever With You (Freestyle Session)",
+      "url": "https://open.spotify.com/track/434WFp5IK0hnp2df22hdOv"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1411,26 +1411,6 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "Tuff Luv",
-        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
-      },
-      "artists": [
-        {
-          "name": "Chris Caro",
-          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
-        },
-        {
-          "name": "Cristine Toca",
-          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
-        }
-      ],
-      "duration_ms": 161020,
-      "name": "Tuff Luv",
-      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
         "name": "All Yours",
         "url": "https://open.spotify.com/album/2TWc9Cf3k6VV7s8wGOjXhk"
       },
@@ -1451,6 +1431,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "My World",
+        "url": "https://open.spotify.com/album/2srlmjB9im0S6bNnJGTZrN"
+      },
+      "artists": [
+        {
+          "name": "KMO Shamaal",
+          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+        }
+      ],
+      "duration_ms": 199846,
+      "name": "My World",
+      "url": "https://open.spotify.com/track/56et7TBBCMKuje6nkI3EsB"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "fall (when we fell in love)",
         "url": "https://open.spotify.com/album/10n7mUKnfNJKUWcm6Bu6jm"
       },
@@ -1467,18 +1463,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
-        "name": "My World",
-        "url": "https://open.spotify.com/album/2srlmjB9im0S6bNnJGTZrN"
+        "name": "Tuff Luv",
+        "url": "https://open.spotify.com/album/0i9HHpmLBm71LfpRwMZinO"
       },
       "artists": [
         {
-          "name": "KMO Shamaal",
-          "url": "https://open.spotify.com/artist/3IZpU8rUESdWsLRyfyHZqF"
+          "name": "Chris Caro",
+          "url": "https://open.spotify.com/artist/2uOE5DW2uxL7dnyKh50s85"
+        },
+        {
+          "name": "Cristine Toca",
+          "url": "https://open.spotify.com/artist/4P2ziuaFZjjq2HMTuuunqX"
         }
       ],
-      "duration_ms": 199846,
-      "name": "My World",
-      "url": "https://open.spotify.com/track/56et7TBBCMKuje6nkI3EsB"
+      "duration_ms": 161020,
+      "name": "Tuff Luv",
+      "url": "https://open.spotify.com/track/09Bmeuu53RarYzRPEHQWlR"
     },
     {
       "added_at": "2026-07-29 15:15:10",
@@ -1531,6 +1531,22 @@
     {
       "added_at": "2026-07-29 15:15:10",
       "album": {
+        "name": "If It Wasn't You",
+        "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
+      },
+      "artists": [
+        {
+          "name": "Airr",
+          "url": "https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz"
+        }
+      ],
+      "duration_ms": 186473,
+      "name": "If It Wasn't You",
+      "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
+    },
+    {
+      "added_at": "2026-07-29 15:15:10",
+      "album": {
         "name": "Good Love (feat. Kim Burrell)",
         "url": "https://open.spotify.com/album/4kMIVmOYqpCXgstb0z1ks7"
       },
@@ -1547,22 +1563,6 @@
       "duration_ms": 248066,
       "name": "Good Love (feat. Kim Burrell)",
       "url": "https://open.spotify.com/track/3uYPITWb2G39R0KY3TpYQz"
-    },
-    {
-      "added_at": "2026-07-29 15:15:10",
-      "album": {
-        "name": "If It Wasn't You",
-        "url": "https://open.spotify.com/album/6Y1mcYfavUoOKSjygq1O4N"
-      },
-      "artists": [
-        {
-          "name": "Airr",
-          "url": "https://open.spotify.com/artist/0DLfOrQvWzfwx0DWmSY8dz"
-        }
-      ],
-      "duration_ms": 186473,
-      "name": "If It Wasn't You",
-      "url": "https://open.spotify.com/track/1a6Se5IcVFKWdqyVayKPRW"
     },
     {
       "added_at": "2026-07-29 15:15:10",

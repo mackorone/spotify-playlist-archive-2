@@ -4,7 +4,7 @@
 
 > Les nouveautés rap franco sans frontières\. Photo: Djadja & Dinaz
 
-772 songs - 1 day 13 hr 2 min
+773 songs - 1 day 13 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -266,6 +266,7 @@
 | [FDT](https://open.spotify.com/track/1bLGJ2sbG6SWDzO3oRePSp) | [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [FDT](https://open.spotify.com/album/620W178thQwaizBX6AV3G9) | 2:02 | 2025-10-24 | 2025-11-15 |
 | [FENG SHUI](https://open.spotify.com/track/5ZHK4qZbm9JR1AZ8FeePna) | [Ziak](https://open.spotify.com/artist/2ubn2zwyYaLdHOCKnTouU2) | [FENG SHUI](https://open.spotify.com/album/3pJk3LGl7GsxDA7KhnUouv) | 2:40 | 2026-06-26 |  |
 | [Filature](https://open.spotify.com/track/5WYQmwTH0OtbOyyFsjUIby) | [Izuku](https://open.spotify.com/artist/07nPO9PmOxJX3XXsCsVVW8) | [Hagra, Vol.1](https://open.spotify.com/album/4D4QUuwxoAe9qYpoqd4Zhn) | 2:25 | 2023-03-03 | 2023-03-18 |
+| [Fille à Papa](https://open.spotify.com/track/2x7ItKbPQXhqXad1SwVnwS) | [Vacra](https://open.spotify.com/artist/5OLkn5GT6EcMuJzjwgvQnu), [La Rvfleuze](https://open.spotify.com/artist/6k9F0oaxCXxbdTFDTdZihN) | [Fille à Papa](https://open.spotify.com/album/6WJKMOUNc5MI0l5CUp5fhl) | 2:49 | 2026-09-18 |  |
 | [Finale \- Nouvelle École](https://open.spotify.com/track/46NCn1HZ054Wy0o6H86teM) | [Dau](https://open.spotify.com/artist/1UMnJFeGreEat6fHl5Ae1L) | [Finale \- Nouvelle École](https://open.spotify.com/album/0di4KeDALleQK2iV3R2YyS) | 3:00 | 2023-06-30 | 2023-11-25 |
 | [Finalement](https://open.spotify.com/track/0Ki0Jp7XVvBGXgjp6SUgp3) | [Bekar](https://open.spotify.com/artist/6wjkiUBMMYSIx5UBTp7eKC), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Plus fort.](https://open.spotify.com/album/6M0h47TYLEpxC8cxC0BsIk) | 3:24 | 2024-04-05 | 2025-05-17 |
 | [Flash](https://open.spotify.com/track/3uARaNkhIsF8o85fRU9fHP) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b), [Georgio](https://open.spotify.com/artist/6Xc0KDqzw5u6EQLgdfeoKO) | [Flash](https://open.spotify.com/album/3o54ejNNHmO9PpsduX1QdW) | 3:47 | 2026-04-17 | 2026-04-25 |
@@ -276,7 +277,7 @@
 | [Flocons](https://open.spotify.com/track/3kqqz3jkiJ267rjulW6Abu) | [Falcko](https://open.spotify.com/artist/0U4UrgHYuU5CiuJoMZf4fl) | [ERYMA](https://open.spotify.com/album/7kOmGPFHH6GMKvLKrFw3O4) | 2:36 | 2025-10-31 | 2026-01-17 |
 | [Flying Blue](https://open.spotify.com/track/7JGEUwyfP2oH2nbMllxeo8) | [La Fouine](https://open.spotify.com/artist/6QS84S3i4gwdEKqWoTtDLd), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [Flying Blue](https://open.spotify.com/album/2n2zlLuUnCKLgjQLPLEsMS) | 2:40 | 2025-10-10 | 2025-12-06 |
 | [Focus](https://open.spotify.com/track/0IhTXHtG1XRlM2kFWBiYxu) | [Bigflo & Oli](https://open.spotify.com/artist/5mmEMfYChd6MImBagU7zCs) | [Focus](https://open.spotify.com/album/0Zu1973ka6igA5uYGiJ81S) | 4:06 | 2026-03-06 | 2026-06-27 |
-| [FOKONKITTELEBANDO \(feat\. Josman\)](https://open.spotify.com/track/2uXytsE3x3BIDHKmGQERNM) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [23 JPT EXTENDO +](https://open.spotify.com/album/3njbmPv3VW1wfBv5MrojCY) | 3:32 | 2026-06-26 |  |
+| [FOKONKITTELEBANDO \(feat\. Josman\)](https://open.spotify.com/track/2uXytsE3x3BIDHKmGQERNM) | [Jolagreen23](https://open.spotify.com/artist/2jZ78PLlC1PuYKQ2bVwRvz), [Josman](https://open.spotify.com/artist/6dbdXbyAWk2qx8Qttw0knR) | [23 JPT EXTENDO +](https://open.spotify.com/album/3njbmPv3VW1wfBv5MrojCY) | 3:32 | 2026-06-26 | 2026-09-20 |
 | [FOLIE](https://open.spotify.com/track/0DT5OCCGLa1aOv9RusHqch) | [SAF](https://open.spotify.com/artist/6Pr9pssRV0tD0jdh2Z84td), [Niska](https://open.spotify.com/artist/7CUFPNi1TU8RowpnFRSsZV) | [LIMITLESS : HORIZON](https://open.spotify.com/album/1msS30ti4CoeOG9KoIGrQe) | 3:03 | 2026-01-23 | 2026-03-21 |
 | [Free un tel](https://open.spotify.com/track/5zfz3YA4if2BCG2UW4jyDk) | [Raccoon](https://open.spotify.com/artist/7nzgBxjw2Co88MGWjMnl4c) | [Porter le coup, oublier\. Porter la marque, se souvenir](https://open.spotify.com/album/47wpyURruMQckYemmj2fb5) | 3:36 | 2025-02-14 | 2025-10-18 |
 | [Freestyle Session \#1](https://open.spotify.com/track/4h54J2q0MEVu7rTSznNNsN) | [Pit Baccardi](https://open.spotify.com/artist/5Gf71JW8QjF77ELQ94JX38) | [Freestyle Session \#1](https://open.spotify.com/album/27r3U0OrfUWBfSEii2w53P) | 2:08 | 2026-07-17 | 2026-08-15 |

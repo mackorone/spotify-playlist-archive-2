@@ -1,12 +1,12 @@
 {
   "description": "This is 3 Doors Down. The essential tracks, all in one playlist.",
-  "num_followers": 182009,
+  "num_followers": 182021,
   "original_name": "This Is 3 Doors Down",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqstgAAAAACUjeSiXFQAp5iOLRzSDClL",
+  "snapshot_id": "aqx/AAAAAADyWS2N8zNuFD6q1whZv+Z2",
   "tracks": [
     {
       "added_at": null,
@@ -419,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Us And The Night",
-        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
+        "name": "The Greatest Hits",
+        "url": "https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR"
       },
       "artists": [
         {
@@ -428,9 +428,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 225760,
-      "name": "Inside Of Me",
-      "url": "https://open.spotify.com/track/7FXXsaAduHbsNewEMImm6G"
+      "duration_ms": 190146,
+      "name": "There's A Life",
+      "url": "https://open.spotify.com/track/3WdKchTlzeAgex3rYa9l9n"
     },
     {
       "added_at": null,
@@ -467,22 +467,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Greatest Hits",
-        "url": "https://open.spotify.com/album/22S5arZONb8LdaURbpzpDR"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 190146,
-      "name": "There's A Life",
-      "url": "https://open.spotify.com/track/3WdKchTlzeAgex3rYa9l9n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Us And The Night",
         "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
       },
@@ -492,9 +476,25 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 167213,
-      "name": "Love Is A Lie",
-      "url": "https://open.spotify.com/track/0jk9W6CRI2Yv0UGzfUEL00"
+      "duration_ms": 225760,
+      "name": "Inside Of Me",
+      "url": "https://open.spotify.com/track/7FXXsaAduHbsNewEMImm6G"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "3 Doors Down",
+        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 227800,
+      "name": "Pages",
+      "url": "https://open.spotify.com/track/2w2xtP7ALshpK7foQnra0q"
     },
     {
       "added_at": null,
@@ -531,8 +531,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "3 Doors Down",
-        "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
+        "name": "Us And The Night",
+        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
       },
       "artists": [
         {
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 227800,
-      "name": "Pages",
-      "url": "https://open.spotify.com/track/2w2xtP7ALshpK7foQnra0q"
+      "duration_ms": 167213,
+      "name": "Love Is A Lie",
+      "url": "https://open.spotify.com/track/0jk9W6CRI2Yv0UGzfUEL00"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
       "duration_ms": 176346,
       "name": "One Light",
       "url": "https://open.spotify.com/track/6sIYRzeM8ke76g4zudDJF1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Us And The Night",
-        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 166813,
-      "name": "The Broken",
-      "url": "https://open.spotify.com/track/3jdo9L1HZ17JJ3TTWq0v6R"
     },
     {
       "added_at": null,
@@ -611,6 +595,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Us And The Night",
+        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 166813,
+      "name": "The Broken",
+      "url": "https://open.spotify.com/track/3jdo9L1HZ17JJ3TTWq0v6R"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Acoustic Back Porch Jam",
         "url": "https://open.spotify.com/album/3jpYIjli4tGKeVlqCl5ipC"
       },
@@ -623,22 +623,6 @@
       "duration_ms": 235280,
       "name": "The Real Life",
       "url": "https://open.spotify.com/track/2eTshd2WZ4m6ta9aO157iF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Us And The Night",
-        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 218146,
-      "name": "Pieces Of Me",
-      "url": "https://open.spotify.com/track/0sRrj1NwBTk8ldxl1lg7NC"
     },
     {
       "added_at": null,
@@ -675,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Us And The Night",
+        "url": "https://open.spotify.com/album/01zrTZowtMtqYutWzzDgds"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 218146,
+      "name": "Pieces Of Me",
+      "url": "https://open.spotify.com/track/0sRrj1NwBTk8ldxl1lg7NC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "3 Doors Down",
         "url": "https://open.spotify.com/album/0e2vlZj9wAALaxr5Bhxvw8"
       },
@@ -687,22 +687,6 @@
       "duration_ms": 256666,
       "name": "When It's Over",
       "url": "https://open.spotify.com/track/5YseXPW7e6yxH30osSScQ1"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Better Life (20th Anniversary / Deluxe)",
-        "url": "https://open.spotify.com/album/2drHOqyJSkIzS3zFUWMjMF"
-      },
-      "artists": [
-        {
-          "name": "3 Doors Down",
-          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
-        }
-      ],
-      "duration_ms": 184840,
-      "name": "Man In My Mind - Escatawpa Sessions",
-      "url": "https://open.spotify.com/track/0yIKS8yoBE67mwyfMm1es4"
     },
     {
       "added_at": null,
@@ -735,6 +719,22 @@
       "duration_ms": 198653,
       "name": "Something In My Mind",
       "url": "https://open.spotify.com/track/4acOcHQYMXidjGbWc3zlVG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Better Life (20th Anniversary / Deluxe)",
+        "url": "https://open.spotify.com/album/2drHOqyJSkIzS3zFUWMjMF"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "duration_ms": 184840,
+      "name": "Man In My Mind - Escatawpa Sessions",
+      "url": "https://open.spotify.com/track/0yIKS8yoBE67mwyfMm1es4"
     },
     {
       "added_at": null,
@@ -780,9 +780,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 348733,
-      "name": "That Smell",
-      "url": "https://open.spotify.com/track/2SPKOzUEeuXlZgUQ1OzEeh"
+      "duration_ms": 185226,
+      "name": "Dead Love - Early Version",
+      "url": "https://open.spotify.com/track/0DaLO1tFuqya69xGEoTEAG"
     },
     {
       "added_at": null,
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
         }
       ],
-      "duration_ms": 185226,
-      "name": "Dead Love - Early Version",
-      "url": "https://open.spotify.com/track/0DaLO1tFuqya69xGEoTEAG"
+      "duration_ms": 348733,
+      "name": "That Smell",
+      "url": "https://open.spotify.com/track/2SPKOzUEeuXlZgUQ1OzEeh"
     }
   ],
   "unique_name": "This Is 3 Doors Down",

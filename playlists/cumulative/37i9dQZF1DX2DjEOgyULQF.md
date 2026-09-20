@@ -4,7 +4,7 @@
 
 > Ambient with the soothing sounds of water, rain and birds.
 
-519 songs - 1 day 0 hr 31 min
+520 songs - 1 day 0 hr 34 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -171,7 +171,7 @@
 | [Floresta Calma](https://open.spotify.com/track/3joKN6kIZ8Xie8Ofsen96L) | [Fernando Alegre](https://open.spotify.com/artist/3dz7P4W10BnNyKKvT8RWWn) | [Floresta Calma](https://open.spotify.com/album/5lfpAeQQ9wPY9pAQv7qk23) | 2:57 | 2025-10-02 | 2026-04-04 |
 | [Flow of Silence](https://open.spotify.com/track/63GiDJoqHGpoqKb9PNMLGG) | [Lake Nebula](https://open.spotify.com/artist/2vrz4UIWYTyVEKZ3DubfRU) | [Flow of Silence](https://open.spotify.com/album/3yEsmW9wEHlnr0MVywqkPj) | 2:50 | 2025-07-22 |  |
 | [Flowing Calm](https://open.spotify.com/track/3FDcmnPJY1V39k54Fy6FxN) | [Joseph Rain](https://open.spotify.com/artist/1YHhB4lSX141uoyd58WoUc) | [Flowing Calm](https://open.spotify.com/album/4JoqWgNsmJ4NUE13A4FDKS) | 2:28 | 2023-08-25 | 2025-10-16 |
-| [Flowing Light](https://open.spotify.com/track/5KxRRZxsMDdm6cLnNDxEe8) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Flowing Light](https://open.spotify.com/album/5jlECX6pdRu4JoT5Pt5ceB) | 2:55 | 2025-09-10 |  |
+| [Flowing Light](https://open.spotify.com/track/5KxRRZxsMDdm6cLnNDxEe8) | [Warmth of Muba](https://open.spotify.com/artist/6o0O9OTZ1InAj3eLSchXwf) | [Flowing Light](https://open.spotify.com/album/5jlECX6pdRu4JoT5Pt5ceB) | 2:55 | 2025-09-10 | 2026-09-20 |
 | [Flowing Sense](https://open.spotify.com/track/0dYizitNwQjtEO1mxHctNE) | [Fleurs de Son](https://open.spotify.com/artist/4vlZU5f5zVuZsVk11MeDd3) | [Flowing Sense](https://open.spotify.com/album/2ZBBDWHayIHpG1GV17YPJR) | 3:12 | 2023-04-28 | 2024-04-02 |
 | [Fluere Ranae](https://open.spotify.com/track/6ZxbHu5i0VEAy4Mied3gBL) | [Drishti](https://open.spotify.com/artist/5veQV3vFfmMaOm0gTkc1N1) | [Fluere Ranae](https://open.spotify.com/album/1nKaP1aHcqJgETJeQ2mV4c) | 2:57 | 2023-06-30 | 2025-10-16 |
 | [Follow the Creek](https://open.spotify.com/track/1MicbuqBTieG0Z2bXhjJZq) | [Credenza](https://open.spotify.com/artist/4ke0i6kG8o2rTxZzoRaoZ5) | [Follow the Creek](https://open.spotify.com/album/651sLcIRdIJLBUuC96Iy4l) | 2:58 | 2023-04-28 | 2024-10-02 |
@@ -507,6 +507,7 @@
 | [When the Sun Rises](https://open.spotify.com/track/1lG31sQzVRzw4TAAmVRVwx) | [Center of Attention](https://open.spotify.com/artist/4xp0qN8C2Og0QbD3GxxfCs) | [Sunrise & Sunset](https://open.spotify.com/album/1JGHeGuPptwTuOFr39itDZ) | 2:46 | 2026-05-27 | 2026-06-27 |
 | [Where I Belong](https://open.spotify.com/track/5eB7WeAkom0NaB4Q5jEfeT) | [Soft Sense](https://open.spotify.com/artist/7g5vOd93ubdidOjRwZm8R3) | [A Free Spirit](https://open.spotify.com/album/25RUQBt47toM0l7s8mvnh5) | 2:51 | 2023-04-28 | 2024-06-04 |
 | [Where The Brooks Meet](https://open.spotify.com/track/5cHqSqKnEgI0cisKbURs9E) | [Elemental Zenith](https://open.spotify.com/artist/0FrO30oOOv1iUUHtQa1Ipo) | [Where The Brooks Meet](https://open.spotify.com/album/0bofFssElhFqHYGa6djOAZ) | 2:48 | 2025-05-21 | 2025-12-07 |
+| [Where the Creek Runs Quiet](https://open.spotify.com/track/4iPP5u2cCNqhApBR8uVXAo) | [It Blooms, Unspoken](https://open.spotify.com/artist/1NuwWx9S8FDMJYBZWHHV1e) | [Where the Creek Runs Quiet](https://open.spotify.com/album/1vSF8rjK8tEr90iHZaMUjU) | 3:39 | 2026-08-19 |  |
 | [Where the Rain Begins to Sing](https://open.spotify.com/track/12Yi9MWiPV33nFiccg7zzI) | [Lush Aura](https://open.spotify.com/artist/0rO9DA4in8mFpPhCTluEMW) | [Where the Rain Begins to Sing](https://open.spotify.com/album/4nA7eft1WMWMBNRqOLJsIR) | 3:20 | 2026-04-03 |  |
 | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/track/5PS3msmNfcvZxAxPRpEIL4) | [Aurelin](https://open.spotify.com/artist/4WxaQLOx5d0XXzj20fTd4X) | [Where the sun goes down \(Nature Edit\)](https://open.spotify.com/album/4T0ggBKzuWQuwDRqwGZGXM) | 3:27 | 2025-09-10 | 2026-04-04 |
 | [Whirling River](https://open.spotify.com/track/6MmRaqMZuFP3IpArpfdWRh) | [For The Lost](https://open.spotify.com/artist/58WBGaTBnBHGIgn19HOnhZ) | [Whirling River](https://open.spotify.com/album/0iMFpO6EJ85zYs7pEe7Xgy) | 2:44 | 2025-10-24 | 2026-05-28 |

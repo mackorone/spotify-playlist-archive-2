@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,851 songs - 10 day 22 hr 25 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,852 songs - 10 day 22 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4859,5 +4859,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4849 | [Let Me See The Fire](https://open.spotify.com/track/2NuKWe5H1xJSsEn3EfSXqx) | [Anyverse](https://open.spotify.com/artist/5n7wwlclR6kAlw5N74NCSg) | [Let Me See The Fire](https://open.spotify.com/album/5sqrxKoR11mfTuEley9Bhy) | 3:12 |
 | 4850 | [The Cobra Has Arrived, Pt\. 2](https://open.spotify.com/track/28onWsoR8929yLq7Npxbd7) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [The Cobra Has Arrived, Pt\. 2](https://open.spotify.com/album/7wL9N0B0ZxJcYNRQh3L6dO) | 3:59 |
 | 4851 | [Personality](https://open.spotify.com/track/4d6opMFuuaU5YjfkSqpYV7) | [Retroviral](https://open.spotify.com/artist/2bemF0p9xqlEuiClwuECVl) | [Personality](https://open.spotify.com/album/3hNiSRcbKZ8y5tkoBKyC5c) | 3:15 |
+| 4852 | [Vô de Japa](https://open.spotify.com/track/6dq4fEMi8xQM27EIqLYOFJ) | [Pataperros](https://open.spotify.com/artist/1nDx9sKh2gqaWkmSwUX7jm) | [Vô de Japa](https://open.spotify.com/album/1byoXzVxy7BqvmhxUOIizp) | 1:43 |
 
-Snapshot ID: `AAAKFyvgVeZKaXr0eFU41OAqd/wgZFtQ`
+Snapshot ID: `AAAKGJeb7mqsjwehJEGvkD1sN5BNXxaF`

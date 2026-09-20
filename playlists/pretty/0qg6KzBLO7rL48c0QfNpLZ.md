@@ -4,15 +4,15 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 
 > The Best Background Winter Chill House Chillout Music to listen to while Work, Chilling, Sleeping, Sleep, Work Focus, Relax, Relaxing Music, Lounge, Home, Bed, Calm Chillout Music, Bedroom 🌃
 
-[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,152 likes - 120 songs - 5 hr 13 min
+[Intact Records](https://open.spotify.com/user/31lz25atk5q6vg7birxgadlagw7q) - 107,145 likes - 120 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Reality](https://open.spotify.com/track/1Mys1gf9SkMBAVGGxpkJ7d) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7), [Janieck](https://open.spotify.com/artist/1bZDq4po4dMIpN74Zendm0) | [Less Is More](https://open.spotify.com/album/5ofMsLtz8HogkhrlTQ1UaG) | 2:39 |
 | 2 | [Come Closer](https://open.spotify.com/track/4FoFi2hgbJiC5wSHcRdyQB) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [Nuage](https://open.spotify.com/artist/69tZ7Y16ExfVLFzXhMYslY), [Luna Serenade](https://open.spotify.com/artist/1GmIz6AGIA1KTzqltGRkJJ) | [Come Closer](https://open.spotify.com/album/5QI2Qd0N66uPA0kgcKOkvA) | 2:00 |
-| 3 | [Talk About It](https://open.spotify.com/track/47aW8MyfXP2Dc7U3axh8Mu) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Talk About It](https://open.spotify.com/album/1nDFDxoIToR3VEtTwJUMzv) | 2:19 |
-| 4 | [Body Lover](https://open.spotify.com/track/1Jy2c9vswvFi3Vr72y89za) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [NASHUP](https://open.spotify.com/artist/39AOKEst7bTMFXv8kaYbdp), [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Body Lover](https://open.spotify.com/album/136yOMPYzyBXxl3ne2cAwx) | 2:27 |
-| 5 | [Stay A Little Longer](https://open.spotify.com/track/08eBCI8hasGMuQ6oPj0FKI) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Stay A Little Longer](https://open.spotify.com/album/5mxG2VhqYrmmkic41pQ1yb) | 2:13 |
+| 3 | [Body Lover](https://open.spotify.com/track/1Jy2c9vswvFi3Vr72y89za) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI), [NASHUP](https://open.spotify.com/artist/39AOKEst7bTMFXv8kaYbdp), [Liz Huett](https://open.spotify.com/artist/4wh5xUIEU8YlGPXZHV6klA) | [Body Lover](https://open.spotify.com/album/136yOMPYzyBXxl3ne2cAwx) | 2:27 |
+| 4 | [Stay A Little Longer](https://open.spotify.com/track/08eBCI8hasGMuQ6oPj0FKI) | [Rolipso](https://open.spotify.com/artist/1EtBmvqGOtWnjDgCUFQRqI) | [Stay A Little Longer](https://open.spotify.com/album/5mxG2VhqYrmmkic41pQ1yb) | 2:13 |
+| 5 | [Talk About It](https://open.spotify.com/track/47aW8MyfXP2Dc7U3axh8Mu) | [SITHEA](https://open.spotify.com/artist/3GfjLgEICYvQCBdjVmZZdu) | [Talk About It](https://open.spotify.com/album/1nDFDxoIToR3VEtTwJUMzv) | 2:19 |
 | 6 | [Waves \- Robin Schulz Radio Edit](https://open.spotify.com/track/1HFfMOxCAT4GAwaPfCdmUs) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT), [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S) | [Waves \(Robin Schulz Radio Edit\)](https://open.spotify.com/album/29RpLEpfNr1mnrnmtbO620) | 3:28 |
 | 7 | [getting in my head](https://open.spotify.com/track/282Pp564PbcKyePaozItgH) | [Drics](https://open.spotify.com/artist/5NlawbBDGkH8W9SblamHZO), [emziii](https://open.spotify.com/artist/6P9QtmAiOBTw9VzKYJkO1t) | [getting in my head](https://open.spotify.com/album/5eZzSkK3MEVf8s16XDwPZD) | 3:13 |
 | 8 | [Dale Más](https://open.spotify.com/track/04NRokm3Djidms5NGFhCAe) | [Amani Amara](https://open.spotify.com/artist/5V0ajF8JrttHDTb65QM21N) | [Dale Más](https://open.spotify.com/album/2RnN3xlHP0ukZm0ecFcAYG) | 2:33 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/0qg6KzBLO7rL48c0QfNpLZ.md) - [plain]
 | 119 | [oceanside](https://open.spotify.com/track/4OYaj9oxYWgXI4hNTaTEBb) | [XYSM](https://open.spotify.com/artist/1LgEmkIWxBhh25V06pRGl2), [Obren](https://open.spotify.com/artist/5fIoCFV71SATmK78w7MlyB) | [oceanside](https://open.spotify.com/album/4qirkYK6AfX1Fiub7GNw8t) | 3:02 |
 | 120 | [Starlight](https://open.spotify.com/track/5kTDyNCjGvKEt2J3oJVOMV) | [Ryamasu](https://open.spotify.com/artist/1OnLmUAkkoKFOAzL8NpWlQ) | [Starlight](https://open.spotify.com/album/6Cca5UjEDne3shjVJegzm2) | 2:34 |
 
-Snapshot ID: `AAAm59rSymi5QWz8M53ekkD4Ugcrmvjh`
+Snapshot ID: `AAAm6/YsJvujaRcnAO9/uqjfLCKanDpX`

@@ -4,7 +4,7 @@
 
 > Driving songs acoustic style! Sit back and enjoy the ride!
 
-339 songs - 17 hr 19 min
+340 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,6 +13,7 @@
 | [...Baby One More Time \- Acoustic](https://open.spotify.com/track/66lXR0yNwRhV3LuxjZ1Y95) | [The Canyon Run](https://open.spotify.com/artist/58ZUxhY97JlL7EXNsoevGZ) | [...Baby One More Time \(Acoustic\)](https://open.spotify.com/album/22ynSBd5mSfHlYTjuThit2) | 2:46 | 2024-09-21 | 2025-02-08 |
 | [1973 \- Acoustic](https://open.spotify.com/track/4DCHszO57DZHgvqalfoITR) | [James Blunt](https://open.spotify.com/artist/7KMqksf0UMdyA0UCf4R3ux) | [All the Lost Souls](https://open.spotify.com/album/3obQJSWpREwvi19TTAvM5v) | 3:29 | 2019-10-13 |  |
 | [2002 \- Acoustic](https://open.spotify.com/track/67hLk2IWPV2kHXlbP8I79Q) | [Amber Leigh Irish](https://open.spotify.com/artist/1uuV1avDy9Eup5gYHXVG05) | [Unplugged Acoustic, Vol\. 2](https://open.spotify.com/album/7bmh7DWf51dbPB5pDVjyIQ) | 2:25 | 2019-10-13 | 2024-07-06 |
+| [A Kind of Magic \- Acoustic](https://open.spotify.com/track/1z1XJNl0Ews2aiZlph0GJW) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [A Kind of Magic \(Acoustic\)](https://open.spotify.com/album/1GZVYTu9TmdOYU1V8NEtR8) | 3:19 | 2026-09-19 |  |
 | [Africa \- Acoustic](https://open.spotify.com/track/2oUb1OhVJ4JusGBn3qqFWU) | [Tyler Ward](https://open.spotify.com/artist/5Hc9oDGvStNGmnj44m8sHg), [Lisa Cimorelli](https://open.spotify.com/artist/3LnKjRAWZqaSyJnHqc05Rq) | [he said\. she said.](https://open.spotify.com/album/2fPoRKXtIhmc70zJlDrTY2) | 3:18 | 2021-08-01 |  |
 | [Against All Odds \- Acoustic](https://open.spotify.com/track/0Y1KPA4rxDDgbupSjHJyGe) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU) | [Against All Odds \(Acoustic\)](https://open.spotify.com/album/1eE0hgn59NGe5auS2kRQO0) | 3:17 | 2025-01-10 |  |
 | [Ain't Nobody \- Acoustic](https://open.spotify.com/track/5WjvEQDGeckLD5BfsE3QnR) | [Kevin Simm](https://open.spotify.com/artist/1CuoMwkIXKILoyW9dIXziU), [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [Ain't Nobody \(Acoustic\)](https://open.spotify.com/album/43zIXrsyryxFsZhrTQooND) | 3:04 | 2023-02-10 | 2023-02-28 |
@@ -338,7 +339,7 @@
 | [You Make My Dreams \(Come True\) \- Acoustic](https://open.spotify.com/track/5eVWuD9WNdT1ucIjoSgzNi) | [Hannah's Yard](https://open.spotify.com/artist/08qkAEn1wetskAwcPrcOPf) | [You Make My Dreams \(Come True\) \[Acoustic\]](https://open.spotify.com/album/5XoPbu9rDKMcqh5CYKm5ZI) | 2:30 | 2024-04-12 | 2024-11-10 |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/31nV3lkDVnJlfHntOkIhpD) | [Alex Francis](https://open.spotify.com/artist/0aJPoUxg99e5iOzIdWxpUa) | [Foundations Acoustic](https://open.spotify.com/album/0uSBXq04gTbVFm1WgFQrei) | 3:25 | 2019-10-13 | 2024-03-04 |
 | [You Make My Dreams \- Acoustic](https://open.spotify.com/track/0u9jiSe6t4MLdkpTvg3Kdv) | [Hailey Gardiner](https://open.spotify.com/artist/77bmDZbZ65uoGKVTIzKcEc) | [You Make My Dreams \(Acoustic\)](https://open.spotify.com/album/3rWfZ8M7iIGKFybwCIXZTk) | 2:34 | 2021-05-28 |  |
-| [You Really Got a Hold on Me](https://open.spotify.com/track/121hZEf0kYraVEb1WceNPQ) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [You Really Got a Hold on Me](https://open.spotify.com/album/7eHvOBfOPxdii3iLE4Ie8h) | 3:13 | 2025-09-05 |  |
+| [You Really Got a Hold on Me](https://open.spotify.com/track/121hZEf0kYraVEb1WceNPQ) | [Paul Canning](https://open.spotify.com/artist/6KJzTOkw6FCQx81JK09TJN) | [You Really Got a Hold on Me](https://open.spotify.com/album/7eHvOBfOPxdii3iLE4Ie8h) | 3:13 | 2025-09-05 | 2026-09-20 |
 | [You Sexy Thing \- Acoustic](https://open.spotify.com/track/5J5M93wt6dvcGgS2R2kmBN) | [Thomas Law](https://open.spotify.com/artist/17oLmcamZOvri63kIr56CO) | [You Sexy Thing \(Acoustic\)](https://open.spotify.com/album/0XJNsp57dBIT3qt6x6024z) | 3:12 | 2024-01-12 |  |
 | [You're Gonna Live Forever in Me](https://open.spotify.com/track/51lPx6ZCSalL2kvSrDUyJc) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [The Search for Everything](https://open.spotify.com/album/0jZFu2tihRJ65iYAo0oOtP) | 3:10 | 2019-10-13 |  |
 | [You're My Best Friend \- Acoustic](https://open.spotify.com/track/4HcNBjBC8a6DVd2pwh0B8R) | [Jae Hall](https://open.spotify.com/artist/1rxN6Kd4PGaLmhhW8ktW3d) | [You're My Best Friend \(Acoustic\)](https://open.spotify.com/album/4HUf5kBKh15Y3LviPVSDX2) | 2:27 | 2022-09-30 | 2023-01-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 
 > The future hits of today\. Up Next: Kaestyle
 
-[Spotify](https://open.spotify.com/user/spotify) - 122,156 likes - 79 songs - 3 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 122,254 likes - 79 songs - 3 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,4 +88,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3Lvxss1qTW2.md) - [plain]
 | 78 | [Perspe](https://open.spotify.com/track/5pVFf9ldLYN9cf7v7Swgax) | [Young Legend](https://open.spotify.com/artist/4xlH0w88CE65Qi7jE0PLYd), [Joeboy](https://open.spotify.com/artist/1XavfPKBpNjkOfxHINlMHF), [Fxrtune](https://open.spotify.com/artist/5FWZoWPhJAzysoaslzFaZF) | [Perspe](https://open.spotify.com/album/39q1Diw7kiA322DpcOLOBF) | 3:21 |
 | 79 | [Not Lacoco \(Scotty’s Interlude\)](https://open.spotify.com/track/1pNytZRpbjHOAhcSnz8d6C) | [Tobby BadAss](https://open.spotify.com/artist/0P8jodpczL0pVKzYMkJKpX), [scottyolorin](https://open.spotify.com/artist/3CyKLwlqtYmQxNt4cWflKx) | [Not Lacoco \(Scotty’s Interlude\)](https://open.spotify.com/album/7kG7P6nRTJp37oiLpbD9Gf) | 1:46 |
 
-Snapshot ID: `AAAAAFNY9Y2T4NpsjTZbjqOp4u2SV1xq`
+Snapshot ID: `AAAAAO7x4bykKtA+ixw65cxA6RiPSuH1`

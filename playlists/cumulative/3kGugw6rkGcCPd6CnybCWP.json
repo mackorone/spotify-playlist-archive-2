@@ -8481,6 +8481,24 @@
     },
     {
       "album": {
+        "name": "VHS GIRLS",
+        "url": "https://open.spotify.com/album/6QdupEpycZ514J6t65vLAS"
+      },
+      "artists": [
+        {
+          "name": "PUNKFICTION",
+          "url": "https://open.spotify.com/artist/5FUO21qLYMS2f5IWHrm7gC"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212727,
+      "name": "VHS GIRLS",
+      "url": "https://open.spotify.com/track/0rIgbTzvt8vppbALJbqFfB"
+    },
+    {
+      "album": {
         "name": "Vice",
         "url": "https://open.spotify.com/album/60K5lvn98SnukoHU80m5bl"
       },

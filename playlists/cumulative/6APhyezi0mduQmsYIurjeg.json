@@ -1685,6 +1685,24 @@
     },
     {
       "album": {
+        "name": "Cruisin' The Pike",
+        "url": "https://open.spotify.com/album/3yTyYRxHm5cFfJYqUhxK36"
+      },
+      "artists": [
+        {
+          "name": "Drew Barrett",
+          "url": "https://open.spotify.com/artist/30zxZ045HNbHxWXE77djbX"
+        }
+      ],
+      "date_added": "2026-09-19",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279826,
+      "name": "Cruisin' The Pike",
+      "url": "https://open.spotify.com/track/1giSRFi2qO3IO87tvmPyya"
+    },
+    {
+      "album": {
         "name": "Cry Wolf",
         "url": "https://open.spotify.com/album/2p5CVu9MnNKhnTzsyPlK1V"
       },

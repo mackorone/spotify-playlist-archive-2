@@ -1,12 +1,12 @@
 {
   "description": "This is Little Jesus. The essential tracks, all in one playlist.",
-  "num_followers": 37483,
+  "num_followers": 37488,
   "original_name": "This Is Little Jesus",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqstgAAAAACn8LvV4pDq66PJbVVqaecF",
+  "snapshot_id": "aqx/AAAAAABCmi134kykdUTN+DJuqTrz",
   "tracks": [
     {
       "added_at": null,
@@ -847,18 +847,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Disco de Oro",
-        "url": "https://open.spotify.com/album/1ywMOLYln5Df2bF70jtydj"
+        "name": "Primavera 2020 (feat. Zoe Gotusso)",
+        "url": "https://open.spotify.com/album/5X9qkepq82FqhDuve2Jmsp"
       },
       "artists": [
         {
           "name": "Little Jesus",
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
+        },
+        {
+          "name": "Zoe Gotusso",
+          "url": "https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS"
         }
       ],
-      "duration_ms": 285440,
-      "name": "Los \u00c1ngeles, California",
-      "url": "https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C"
+      "duration_ms": 289842,
+      "name": "Primavera 2020 (feat. Zoe Gotusso)",
+      "url": "https://open.spotify.com/track/4vCD9Xe8QYIm2Aqp1xGbbP"
     },
     {
       "added_at": null,
@@ -872,9 +876,9 @@
           "url": "https://open.spotify.com/artist/5p1ARDx76hnOXoeigLIKit"
         }
       ],
-      "duration_ms": 94653,
-      "name": "Cine Permanencia Voluntaria",
-      "url": "https://open.spotify.com/track/5gPXLYNb9XRFHgRfcUKiHA"
+      "duration_ms": 285440,
+      "name": "Los \u00c1ngeles, California",
+      "url": "https://open.spotify.com/track/5VYaHqFTsRjvqgaox7Iu6C"
     }
   ],
   "unique_name": "This Is Little Jesus",

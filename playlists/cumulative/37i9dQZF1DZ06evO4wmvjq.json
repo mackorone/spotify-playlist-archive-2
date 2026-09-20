@@ -692,6 +692,28 @@
     {
       "album": {
         "name": "Terry Riley: Autodreamographical Tales",
+        "url": "https://open.spotify.com/album/5LGRUl20oRoOYEV6cZuNBv"
+      },
+      "artists": [
+        {
+          "name": "Terry Riley",
+          "url": "https://open.spotify.com/artist/7DnLQaXsqcYkgm0nyDrB3r"
+        },
+        {
+          "name": "Bang On A Can All-Stars",
+          "url": "https://open.spotify.com/artist/7oWIf1AfunefF3puPqzTkQ"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 696007,
+      "name": "Autodreamographical Tales (Arr. T. Riley for Chamber Ensemble): IX. Cannabis",
+      "url": "https://open.spotify.com/track/0WSGbZ3imw628nFyzK0snH"
+    },
+    {
+      "album": {
+        "name": "Terry Riley: Autodreamographical Tales",
         "url": "https://open.spotify.com/album/3d7wg94HGzNafijKD5bs1g"
       },
       "artists": [
@@ -746,7 +768,7 @@
       ],
       "date_added": "2022-06-03",
       "date_added_asterisk": false,
-      "date_removed": "2026-05-29",
+      "date_removed": null,
       "duration_ms": 293573,
       "name": "Barabas",
       "url": "https://open.spotify.com/track/1lc7hX8e7HtG3yMSTqukkc"
@@ -1808,7 +1830,7 @@
       ],
       "date_added": "2026-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 267093,
       "name": "Folk Song",
       "url": "https://open.spotify.com/track/7AJn9PpxCEqppoaV8OkAle"
@@ -2720,7 +2742,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 276146,
       "name": "Llanto",
       "url": "https://open.spotify.com/track/0SI9mmwFW7NGuF2MCecQsu"
@@ -4262,7 +4284,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 207746,
       "name": "Tango Ladeado",
       "url": "https://open.spotify.com/track/2xes8HOkGMdzjg8dVdoKZV"
@@ -4328,7 +4350,7 @@
       ],
       "date_added": "2024-12-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-20",
       "duration_ms": 561226,
       "name": "The Crucifixion Of My Humble Self",
       "url": "https://open.spotify.com/track/0JsGHAmk4OjhalNLJJTktU"
@@ -5204,7 +5226,7 @@
       ],
       "date_added": "2022-07-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-07-19",
+      "date_removed": null,
       "duration_ms": 132200,
       "name": "Wedding Song",
       "url": "https://open.spotify.com/track/0WYb5eZpTfgU73fCKaiCre"
@@ -5274,7 +5296,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 592026,
       "name": "Zamorra",
       "url": "https://open.spotify.com/track/4ggfct42CRnjSxUZW1xllj"

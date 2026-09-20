@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 
 > Ny fredag, ny musik på New Music Friday bl.a\. fra Gilli, Svea S og  Emme Sehested Høeg✨
 
-[Spotify](https://open.spotify.com/user/spotify) - 129,883 likes - 101 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 129,919 likes - 101 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,7 +39,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 29 | [Smerte Indeni](https://open.spotify.com/track/25meNS9Bngckzmccy58Vu7) | [MANI](https://open.spotify.com/artist/1uQwp8AYTIontS6qgSiZYX) | [Smerte Indeni](https://open.spotify.com/album/751D8oEjKzoK7WpwT73Nzq) | 2:49 |
 | 30 | [f\#\#ked up](https://open.spotify.com/track/506caoF4Hx1vETEvlJvJGJ) | [K4BZ](https://open.spotify.com/artist/2TIlWsBmdZBgR2qstq6NM1) | [f\#\#ked up](https://open.spotify.com/album/1HYRWH6ErnuEkCDe9arA01) | 2:28 |
 | 31 | [A Good Day](https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX) | 2:31 |
-| 32 | [Innocent Smile](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
+| 32 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 33 | [funny feeling](https://open.spotify.com/track/4qvR1iPYj6XZKtJnpcSELd) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [funny feeling](https://open.spotify.com/album/0jDeDHlr4rJduEYTa2zKsI) | 3:14 |
 | 34 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 |
 | 35 | [Blue Light \(feat\. Blood Orange\)](https://open.spotify.com/track/1J8wS07uP0uerunK3vnyRP) | [Empress Of](https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU), [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR) | [Dream House](https://open.spotify.com/album/6axHKsr3XutYidaQ8GtHM6) | 3:08 |
@@ -103,7 +103,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWuIAAkPM0Lu.md) - [plain]
 | 93 | [NEXT CHAPTER](https://open.spotify.com/track/4N46tWZXzoXO5lQTC85agG) | [The Square](https://open.spotify.com/artist/6ANvTGpJ3LJKZAziinXv9C) | [NEXT CHAPTER](https://open.spotify.com/album/64ga2l7wOzL3Rza3sSD2UE) | 3:11 |
 | 94 | [pls don't](https://open.spotify.com/track/72rUI6IZFVra9w66d4txyI) | [Ami Cheon](https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb) | [pls don't](https://open.spotify.com/album/2RxB85rejhTC7UpWigwYFI) | 2:30 |
 | 95 | [She's Holding Every Heartbeat In Her Hand](https://open.spotify.com/track/3XaTCHFHbH3HgEEYp8f26P) | [Marie Fjeldsted](https://open.spotify.com/artist/7KnLpYdNw1AHZPXrDRaFOq) | [She's Holding Every Heartbeat In Her Hand](https://open.spotify.com/album/1dhm5mU3s1Dk5VSrJWIICi) | 3:40 |
-| 96 | [planeta FM](https://open.spotify.com/track/0DO1k9X2jyZfV1UJDD90xd) | [neeva](https://open.spotify.com/artist/7H8fboeb8QPfNgLt72VjzY), [Martin Heitmann](https://open.spotify.com/artist/39oFFf8UXBibvHwlsY2tWC) | [planeta FM](https://open.spotify.com/album/4qVamtvUI8eVAOP74dKt5C) | 2:20 |
+| 96 | [planeta FM](https://open.spotify.com/track/0DO1k9X2jyZfV1UJDD90xd) | [neeva](https://open.spotify.com/artist/7H8fboeb8QPfNgLt72VjzY) | [planeta FM](https://open.spotify.com/album/4qVamtvUI8eVAOP74dKt5C) | 2:20 |
 | 97 | [Not Afraid](https://open.spotify.com/track/4iBb68KD6bL51N0Ku3q72V) | [JJ](https://open.spotify.com/artist/4W9cXg9c6w38cHSUfUWPcP) | [Not Afraid](https://open.spotify.com/album/3iAWKop00Z82XxP3031f5Z) | 2:33 |
 | 98 | [too late](https://open.spotify.com/track/05mx8Fh7aWVMmYIxT9eoBu) | [Juney Boy](https://open.spotify.com/artist/4OwdeZBCSGtdhopP20sGaq) | [too late](https://open.spotify.com/album/6peOnkd4LW2ut1b2xgnAUJ) | 3:10 |
 | 99 | [Cowboystøvler](https://open.spotify.com/track/6AZHgFnkqRsWv3REFAtI88) | [Zophia](https://open.spotify.com/artist/4yt86jZ02K0G830rGIDD3T) | [Cowboystøvler](https://open.spotify.com/album/05axlRZVMsRMWfB3aeV6hb) | 3:04 |

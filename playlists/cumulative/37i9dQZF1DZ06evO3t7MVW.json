@@ -291,6 +291,24 @@
     },
     {
       "album": {
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302000,
+      "name": "Fight the Feeling",
+      "url": "https://open.spotify.com/track/5ZnQmeqBxKPkEeQYcKg87F"
+    },
+    {
+      "album": {
         "name": "Set in Stone",
         "url": "https://open.spotify.com/album/28S63tpbApp3AhWZZYN6l9"
       },
@@ -644,6 +662,24 @@
       "duration_ms": 233810,
       "name": "Livin' Easy",
       "url": "https://open.spotify.com/track/02jGkgEhljd0UC9V0HeV2v"
+    },
+    {
+      "album": {
+        "name": "Smoke Stack",
+        "url": "https://open.spotify.com/album/4Sh9QuGanolIDEonwxiWqs"
+      },
+      "artists": [
+        {
+          "name": "Stick Figure",
+          "url": "https://open.spotify.com/artist/5SXEylV07TC57eanSxxg4R"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 359506,
+      "name": "Livin' It",
+      "url": "https://open.spotify.com/track/0fe0BzO1VQRG8OV4YEecNO"
     },
     {
       "album": {

@@ -1,6 +1,6 @@
 {
   "description": "Laid back cratedigger hip-hop from around the world.",
-  "num_followers": 1592730,
+  "num_followers": 1592822,
   "original_name": "Jazz Rap",
   "owner": {
     "name": "Spotify",
@@ -907,26 +907,6 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
-        "name": "PAELLA!",
-        "url": "https://open.spotify.com/album/748mYgp3r7ovOvtIuZ6NSJ"
-      },
-      "artists": [
-        {
-          "name": "Stoic",
-          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
-        },
-        {
-          "name": "jev.",
-          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
-        }
-      ],
-      "duration_ms": 152142,
-      "name": "PAY NO MIND",
-      "url": "https://open.spotify.com/track/3SFUGati8EkaLj6rO3iXMt"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
         "name": "Summer Drop (feat. Anderson .Paak)",
         "url": "https://open.spotify.com/album/0OKZ5MM08qofVfUlyORPcU"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 168573,
       "name": "Summer Drop (feat. Anderson .Paak)",
       "url": "https://open.spotify.com/track/3z8DyeoD1bZOQtEYyCL2wn"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
+        "name": "PAELLA!",
+        "url": "https://open.spotify.com/album/748mYgp3r7ovOvtIuZ6NSJ"
+      },
+      "artists": [
+        {
+          "name": "Stoic",
+          "url": "https://open.spotify.com/artist/2H02v7YOfOLkXv9udKVE4t"
+        },
+        {
+          "name": "jev.",
+          "url": "https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF"
+        }
+      ],
+      "duration_ms": 152142,
+      "name": "PAY NO MIND",
+      "url": "https://open.spotify.com/track/3SFUGati8EkaLj6rO3iXMt"
     },
     {
       "added_at": "2026-09-18 04:00:49",
@@ -1119,6 +1119,30 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
+        "name": "BusyForYa",
+        "url": "https://open.spotify.com/album/2HVZHeCUroQTUACNbhh7DX"
+      },
+      "artists": [
+        {
+          "name": "Kiefer",
+          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
+        },
+        {
+          "name": "Planet Giza",
+          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
+        },
+        {
+          "name": "Shibo",
+          "url": "https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy"
+        }
+      ],
+      "duration_ms": 214837,
+      "name": "BusyForYa (feat. Planet Giza, Shibo)",
+      "url": "https://open.spotify.com/track/2ETcuQhpS0DmavS5v2fU6O"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
         "name": "Drive Slow",
         "url": "https://open.spotify.com/album/69O3UUTrlNmJYCd9jxJ4cv"
       },
@@ -1151,30 +1175,6 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
-        "name": "BusyForYa",
-        "url": "https://open.spotify.com/album/2HVZHeCUroQTUACNbhh7DX"
-      },
-      "artists": [
-        {
-          "name": "Kiefer",
-          "url": "https://open.spotify.com/artist/5lDtfHPqWN6MG9tFywnW8J"
-        },
-        {
-          "name": "Planet Giza",
-          "url": "https://open.spotify.com/artist/332mFY6yBda91AsIOSKirG"
-        },
-        {
-          "name": "Shibo",
-          "url": "https://open.spotify.com/artist/73BkLU3tOvi55IkQXWGFFy"
-        }
-      ],
-      "duration_ms": 214837,
-      "name": "BusyForYa (feat. Planet Giza, Shibo)",
-      "url": "https://open.spotify.com/track/2ETcuQhpS0DmavS5v2fU6O"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
         "name": "Figure Numatic",
         "url": "https://open.spotify.com/album/6LW9B1vGwnNCXyIoeDSaHt"
       },
@@ -1187,22 +1187,6 @@
       "duration_ms": 370610,
       "name": "Figure Numatic",
       "url": "https://open.spotify.com/track/3cC4TINErPyxCWtSN9w32h"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
-        "name": "RBT",
-        "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
-      },
-      "artists": [
-        {
-          "name": "Freddie Gibbs",
-          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
-        }
-      ],
-      "duration_ms": 147504,
-      "name": "Axxtion",
-      "url": "https://open.spotify.com/track/2Uv3ZRtLNlAGvKPPga3Cru"
     },
     {
       "added_at": "2026-09-18 04:00:49",
@@ -1223,6 +1207,22 @@
       "duration_ms": 131609,
       "name": "MR. ROMANCE",
       "url": "https://open.spotify.com/track/3hYgdrdb8b5BJbHiozjqSo"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
+        "name": "RBT",
+        "url": "https://open.spotify.com/album/7tRd6qHR20ZfJKcGYGXbai"
+      },
+      "artists": [
+        {
+          "name": "Freddie Gibbs",
+          "url": "https://open.spotify.com/artist/0Y4inQK6OespitzD6ijMwb"
+        }
+      ],
+      "duration_ms": 147504,
+      "name": "Axxtion",
+      "url": "https://open.spotify.com/track/2Uv3ZRtLNlAGvKPPga3Cru"
     },
     {
       "added_at": "2026-09-18 04:00:49",
@@ -1267,30 +1267,6 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/0I4rNrQwJ8Ckk5iaShqjx7"
-      },
-      "artists": [
-        {
-          "name": "Paul Wall",
-          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
-        },
-        {
-          "name": "Termanology",
-          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
-        },
-        {
-          "name": "Bun B",
-          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
-        }
-      ],
-      "duration_ms": 236913,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/7xZ4p4vVt6m8pXIYuH0pMv"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
         "name": "POETRY JAM (feat. Foggieraw)",
         "url": "https://open.spotify.com/album/080MkxfDcHTrtEs0JGkb1z"
       },
@@ -1331,6 +1307,30 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/0I4rNrQwJ8Ckk5iaShqjx7"
+      },
+      "artists": [
+        {
+          "name": "Paul Wall",
+          "url": "https://open.spotify.com/artist/0k7Xl1pqI3tu8sSEjo5oEg"
+        },
+        {
+          "name": "Termanology",
+          "url": "https://open.spotify.com/artist/7oF48iRjggIDjtfRcmmMvl"
+        },
+        {
+          "name": "Bun B",
+          "url": "https://open.spotify.com/artist/45a6gCQWq61lIUDmr1tKuO"
+        }
+      ],
+      "duration_ms": 236913,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/7xZ4p4vVt6m8pXIYuH0pMv"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
         "name": "vitamins n minerals",
         "url": "https://open.spotify.com/album/5cg0UpSJLtYi9Ehy49tzy0"
       },
@@ -1359,38 +1359,6 @@
       "duration_ms": 163666,
       "name": "MASQUERADE",
       "url": "https://open.spotify.com/track/4rFOEXj5IdCmvGCQAYBN4V"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
-        "name": "Crumbs",
-        "url": "https://open.spotify.com/album/2MzwwsScAKSXZk1HatdHvv"
-      },
-      "artists": [
-        {
-          "name": "Blu",
-          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
-        },
-        {
-          "name": "Exile",
-          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
-        },
-        {
-          "name": "Blu & Exile",
-          "url": "https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP"
-        },
-        {
-          "name": "Rome Streetz",
-          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
-        },
-        {
-          "name": "ICECOLDBISHOP",
-          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
-        }
-      ],
-      "duration_ms": 219570,
-      "name": "Crumbs",
-      "url": "https://open.spotify.com/track/7KRGzLQ7KSiLP6Ku2BlVYH"
     },
     {
       "added_at": "2026-09-18 04:00:49",
@@ -1435,6 +1403,38 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
+        "name": "Crumbs",
+        "url": "https://open.spotify.com/album/2MzwwsScAKSXZk1HatdHvv"
+      },
+      "artists": [
+        {
+          "name": "Blu",
+          "url": "https://open.spotify.com/artist/1KeJhR0ENFviw187pD4LPT"
+        },
+        {
+          "name": "Exile",
+          "url": "https://open.spotify.com/artist/4r4XYZJUeeKCcrkvi7voDP"
+        },
+        {
+          "name": "Blu & Exile",
+          "url": "https://open.spotify.com/artist/567CChDKZrtF4rnk2r5JeP"
+        },
+        {
+          "name": "Rome Streetz",
+          "url": "https://open.spotify.com/artist/7c0zOr4ffb5eteXrxWt7oB"
+        },
+        {
+          "name": "ICECOLDBISHOP",
+          "url": "https://open.spotify.com/artist/04zbRSHjzlQYvV31SW7qZ4"
+        }
+      ],
+      "duration_ms": 219570,
+      "name": "Crumbs",
+      "url": "https://open.spotify.com/track/7KRGzLQ7KSiLP6Ku2BlVYH"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
         "name": "Carefree",
         "url": "https://open.spotify.com/album/0buv8l9Y9nk9X47Hb5jooA"
       },
@@ -1471,26 +1471,6 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
-        "name": "Piece of Mind",
-        "url": "https://open.spotify.com/album/1nCfFkzf3lCuIrJV1K6HNR"
-      },
-      "artists": [
-        {
-          "name": "Jboogz",
-          "url": "https://open.spotify.com/artist/6qCCbx2dsKhC8ho5M1xcOq"
-        },
-        {
-          "name": "Kai Banks",
-          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
-        }
-      ],
-      "duration_ms": 187267,
-      "name": "Piece of Mind",
-      "url": "https://open.spotify.com/track/4u9cC6bAuMqvyOsLHLJlBy"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
         "name": "It's Nice Outside",
         "url": "https://open.spotify.com/album/74Ovprbg1YGQ9fzhQT089g"
       },
@@ -1515,38 +1495,22 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
-        "name": "WHY EQUALS SELF",
-        "url": "https://open.spotify.com/album/0lFmnxm54U0HeJTbeWm1bN"
+        "name": "Piece of Mind",
+        "url": "https://open.spotify.com/album/1nCfFkzf3lCuIrJV1K6HNR"
       },
       "artists": [
         {
-          "name": "Raz Fresco",
-          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
-        }
-      ],
-      "duration_ms": 242787,
-      "name": "THE LIVING LIGHT",
-      "url": "https://open.spotify.com/track/6YTO8NQvqaTXUOiycutghC"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
-        "name": "Therapy pt. 2 [Feat. Mac Miller]",
-        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
-      },
-      "artists": [
-        {
-          "name": "Robert Glasper",
-          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+          "name": "Jboogz",
+          "url": "https://open.spotify.com/artist/6qCCbx2dsKhC8ho5M1xcOq"
         },
         {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+          "name": "Kai Banks",
+          "url": "https://open.spotify.com/artist/1oshkDo0mvTYNAPKaY9qiP"
         }
       ],
-      "duration_ms": 202225,
-      "name": "Therapy pt. 2 [Feat. Mac Miller]",
-      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+      "duration_ms": 187267,
+      "name": "Piece of Mind",
+      "url": "https://open.spotify.com/track/4u9cC6bAuMqvyOsLHLJlBy"
     },
     {
       "added_at": "2026-09-18 04:00:49",
@@ -1571,6 +1535,42 @@
       "duration_ms": 250450,
       "name": "You Don't Know",
       "url": "https://open.spotify.com/track/6qCPW6pWrUNIESY7fp34D9"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
+        "name": "Therapy pt. 2 [Feat. Mac Miller]",
+        "url": "https://open.spotify.com/album/6oKK0oLdErWSkKIul6PjzF"
+      },
+      "artists": [
+        {
+          "name": "Robert Glasper",
+          "url": "https://open.spotify.com/artist/5cM1PvItlR21WUyBnsdMcn"
+        },
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 202225,
+      "name": "Therapy pt. 2 [Feat. Mac Miller]",
+      "url": "https://open.spotify.com/track/5dNQ0AsPitoIQSRbsXKKwE"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
+        "name": "WHY EQUALS SELF",
+        "url": "https://open.spotify.com/album/0lFmnxm54U0HeJTbeWm1bN"
+      },
+      "artists": [
+        {
+          "name": "Raz Fresco",
+          "url": "https://open.spotify.com/artist/08RVkVEdLLoTgd5YbXHOIC"
+        }
+      ],
+      "duration_ms": 242787,
+      "name": "THE LIVING LIGHT",
+      "url": "https://open.spotify.com/track/6YTO8NQvqaTXUOiycutghC"
     },
     {
       "added_at": "2026-09-18 04:00:49",
@@ -1615,22 +1615,6 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
-        "name": "LiveFromTheBoonies.",
-        "url": "https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6"
-      },
-      "artists": [
-        {
-          "name": "Thelonious",
-          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
-        }
-      ],
-      "duration_ms": 105974,
-      "name": "LiveFromTheBoonies.",
-      "url": "https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
         "name": "The Silhouettes Project",
         "url": "https://open.spotify.com/album/65wZziwWVCSSkYVlfmBodL"
       },
@@ -1659,6 +1643,22 @@
       "duration_ms": 185160,
       "name": "Chase It",
       "url": "https://open.spotify.com/track/3GiZZZXh7iTzmwjVxQVEzC"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
+        "name": "LiveFromTheBoonies.",
+        "url": "https://open.spotify.com/album/27nMoDtvFxiXRfsmYTNLV6"
+      },
+      "artists": [
+        {
+          "name": "Thelonious",
+          "url": "https://open.spotify.com/artist/7oMI2F5UkZ6zozGE7jxRRI"
+        }
+      ],
+      "duration_ms": 105974,
+      "name": "LiveFromTheBoonies.",
+      "url": "https://open.spotify.com/track/7g9XDSFnx3MhBv3mpntGlp"
     },
     {
       "added_at": "2026-09-18 04:00:49",
@@ -1795,22 +1795,6 @@
     {
       "added_at": "2026-09-18 04:00:49",
       "album": {
-        "name": "Clutch My Bag",
-        "url": "https://open.spotify.com/album/4Gu8yikbv2SCxwE7N4miue"
-      },
-      "artists": [
-        {
-          "name": "tg.blk",
-          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
-        }
-      ],
-      "duration_ms": 143649,
-      "name": "Clutch My Bag",
-      "url": "https://open.spotify.com/track/1SWAjSJbvr9yJ6HaKgZjE2"
-    },
-    {
-      "added_at": "2026-09-18 04:00:49",
-      "album": {
         "name": "PRiNCE GEORGE",
         "url": "https://open.spotify.com/album/7KgX5kBpWVvLiYLjSo6po1"
       },
@@ -1847,6 +1831,22 @@
       "duration_ms": 185298,
       "name": "IMMORTAL",
       "url": "https://open.spotify.com/track/6zTl1HyJZfPGzc7jjgcpeq"
+    },
+    {
+      "added_at": "2026-09-18 04:00:49",
+      "album": {
+        "name": "Clutch My Bag",
+        "url": "https://open.spotify.com/album/4Gu8yikbv2SCxwE7N4miue"
+      },
+      "artists": [
+        {
+          "name": "tg.blk",
+          "url": "https://open.spotify.com/artist/24ygMLBnr7isvmgvAx2Phm"
+        }
+      ],
+      "duration_ms": 143649,
+      "name": "Clutch My Bag",
+      "url": "https://open.spotify.com/track/1SWAjSJbvr9yJ6HaKgZjE2"
     },
     {
       "added_at": "2026-09-18 04:00:49",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain]
 
 > Agarren su pareja que es momento de mover ese botecito\. Marco Maroquin en portada 🤠
 
-[Spotify](https://open.spotify.com/user/spotify) - 242,135 likes - 85 songs - 4 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 242,162 likes - 85 songs - 4 hr 32 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -14,7 +14,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7V3ptrxki0a.md) - [plain]
 | 4 | [A Escondidas \- EN VIVO](https://open.spotify.com/track/21i81ayfKHsSI8G0HjW7rJ) | [VOLVER A LA CUMBIA](https://open.spotify.com/artist/01U4MuAcixFeDX4voCEiix), [José Luis Dávila](https://open.spotify.com/artist/6oSjqOL3tpn4cNGiDaO7Gu) | [VOLVER A LA CUMBIA PARTE III LADO B \(EN VIVO\)](https://open.spotify.com/album/0DphpBA0Z4gIfyMoMqSJ7A) | 3:06 |
 | 5 | [Sentimientos Encontrados](https://open.spotify.com/track/08l9mnamQ2yL1K0D2nC7NJ) | [Bohemio](https://open.spotify.com/artist/2mtVUHNMxLAnBFD6wVmdEH) | [Sentimientos Encontrados](https://open.spotify.com/album/7CgWCLgEl0Ht01YQhorgpL) | 2:57 |
 | 6 | [Etapas De Mi Vida \- EN VIVO](https://open.spotify.com/track/5ACTvfDEX2qSqEpOkbs6zl) | [VOLVER A LA CUMBIA](https://open.spotify.com/artist/01U4MuAcixFeDX4voCEiix) | [VOLVER A LA CUMBIA PARTE III LADO B \(EN VIVO\)](https://open.spotify.com/album/0DphpBA0Z4gIfyMoMqSJ7A) | 3:42 |
-| 7 | [ERES UN ENCANTO](https://open.spotify.com/track/0uz4zuXRKmu1dqP5fpeAUp) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [DESDE EL WESTERN CLUB VOLUMEN 4](https://open.spotify.com/album/7MAgdNwz54nmwx76Yn4k6X) | 2:55 |
+| 7 | [ERES UN ENCANTO](https://open.spotify.com/track/0uz4zuXRKmu1dqP5fpeAUp) | [Sangre X Sangre](https://open.spotify.com/artist/4vsYsjLDww5ulHaAH5vrew) | [DESDE EL PATIO WESTERN CLUB VOLUMEN 4](https://open.spotify.com/album/7MAgdNwz54nmwx76Yn4k6X) | 2:55 |
 | 8 | [Desde Que La Vi](https://open.spotify.com/track/7Kp2oe5OI7chP2N5ZEmwdU) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa), [Emmanuel Cortes](https://open.spotify.com/artist/7hDt3OE2ubsKzO9rMYPXox) | [Historias Mal Contadas](https://open.spotify.com/album/2FAIffGJUWJCB2el84y4Rj) | 2:48 |
 | 9 | [Bandidas](https://open.spotify.com/track/3SroxZM38FVMw2G1Ggia2P) | [Grupo Efecto TJ](https://open.spotify.com/artist/6nrrBRDAQY73LoX0kB6tJS) | [Bandidas](https://open.spotify.com/album/2kx9UT2ztkxTbswUi9O3yM) | 2:10 |
 | 10 | [La Ética \- En Vivo](https://open.spotify.com/track/046n3w6lM0WLHK3OagloEU) | [Los Tigrillos](https://open.spotify.com/artist/5kuxm06ltfO1Rj9j5UQewf) | [En Vivo Desde Monterrey, Nuevo León](https://open.spotify.com/album/70o61l2EHww6tbkcTnjaoI) | 2:54 |

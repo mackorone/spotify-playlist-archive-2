@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 
 > Nagrody rozdane! Posłuchaj zwycięzców i  nominowanych utworów w kategorii singiel roku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 11,662 likes - 79 songs - 3 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 11,661 likes - 79 songs - 3 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5hrZWjMzwzr.md) - [plain]
 | 19 | [POKOLOROWANA](https://open.spotify.com/track/6mPLPjlONvnJTPtQo6ia8u) | [Deemz](https://open.spotify.com/artist/3gm9b6AeMf2eGQTLashkDt), [Szpaku](https://open.spotify.com/artist/0Wi2fADbhwXlPUWxBmzo99), [Mata](https://open.spotify.com/artist/0MIG6gMcQTSvFbKvUwK0id) | [POKOLOROWANA](https://open.spotify.com/album/4jt1eGcqa1i36BAlXN8Dm1) | 3:11 |
 | 20 | [Nie bój się bać](https://open.spotify.com/track/2ABVSOvhp1IgaWoCi26sD0) | [PRO8L3M](https://open.spotify.com/artist/7v49oVVUhvIQG5EK0jkcF7), [Anita Lipnicka](https://open.spotify.com/artist/3JIRLDbCJ55I5nevDYiasK), [Luxon](https://open.spotify.com/artist/62Gar1Ac49mJeo3bRuHnkc) | [EX UMBRA AD LIBERTATEM](https://open.spotify.com/album/3H7GVvyXSIQ0juzZG2PV7Q) | 3:35 |
 | 21 | [BIERZ TO NA WOLNO](https://open.spotify.com/track/36WITNXdHFk6LaSeS4fJJp) | [vkie](https://open.spotify.com/artist/3DPog7Ux8hRgsTWdlFDl7v) | [BIERZ TO NA WOLNO](https://open.spotify.com/album/5brKAfr2gB7n3NHEmjLHvK) | 3:33 |
-| 22 | [Wszystkim Czym Chcesz](https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Wszystkim Czym Chcesz](https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a) | 1:14 |
-| 23 | [Sentymenty](https://open.spotify.com/track/4TbDlszXA0QfSHHYVT39xG) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Sentymenty](https://open.spotify.com/album/647wZqwIFPEUxVJh9eNniL) | 2:34 |
+| 22 | [Sentymenty](https://open.spotify.com/track/4TbDlszXA0QfSHHYVT39xG) | [Malik Montana](https://open.spotify.com/artist/1Kjs5u8GQf6zCFdTj6SI9E) | [Sentymenty](https://open.spotify.com/album/647wZqwIFPEUxVJh9eNniL) | 2:34 |
+| 23 | [Wszystkim Czym Chcesz](https://open.spotify.com/track/3piNWwmgQXO4YzamCZQcTh) | [wane](https://open.spotify.com/artist/3KL9m4NwBRDjBEcybcgfyh) | [Wszystkim Czym Chcesz](https://open.spotify.com/album/1kbMxFfZKogWufKQMWhM6a) | 1:14 |
 | 24 | [Lovestory](https://open.spotify.com/track/138nZjrDtHcnJmGjpKgxUV) | [White 2115](https://open.spotify.com/artist/4nPxrGG7k7aEKmNLsfX4cd) | [ROCKST4R DELUXE](https://open.spotify.com/album/0lMLPqfCx8TkueptXjUZUn) | 2:40 |
 | 25 | [Kawior](https://open.spotify.com/track/5U501QvKEdHNON4LGFAhvj) | [Avi](https://open.spotify.com/artist/5NmRijhUHZnaADekOLcOyl), [BL Beatz](https://open.spotify.com/artist/2B3kmkvUmxESyeXpT2OMH6) | [Kawior](https://open.spotify.com/album/1GIZyPMXjFNJK7jkXfyVYo) | 2:37 |
 | 26 | [Bez promo](https://open.spotify.com/track/0CbqbY48Q9lmtsc7q0B15a) | [Młody West](https://open.spotify.com/artist/1bOTP9P3CS97UwhBm2WekK) | [Bez promo](https://open.spotify.com/album/7dYUqIE2T876Rhqz0cCD0Q) | 2:18 |

@@ -839,30 +839,6 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "BRAND NEW",
-        "url": "https://open.spotify.com/album/5JYgaLjiX0ozaQctcGsf5A"
-      },
-      "artists": [
-        {
-          "name": "\u20a9",
-          "url": "https://open.spotify.com/artist/5QkamTXwLqr5Ja8RCiu3XF"
-        },
-        {
-          "name": "Yvng Patra",
-          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
-        },
-        {
-          "name": "YamieZimmer",
-          "url": "https://open.spotify.com/artist/7aqyXIegZ72uUh7d1AXR3z"
-        }
-      ],
-      "duration_ms": 170115,
-      "name": "BRAND NEW",
-      "url": "https://open.spotify.com/track/1d4bUyO0JCNvuwaycbYUG8"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
         "name": "Type 1 Diabetes",
         "url": "https://open.spotify.com/album/5WGu4r5gfIA5sZeVQGSyg8"
       },
@@ -887,22 +863,26 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Get Litty?",
-        "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
+        "name": "BRAND NEW",
+        "url": "https://open.spotify.com/album/5JYgaLjiX0ozaQctcGsf5A"
       },
       "artists": [
         {
-          "name": "Litty",
-          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+          "name": "\u20a9",
+          "url": "https://open.spotify.com/artist/5QkamTXwLqr5Ja8RCiu3XF"
         },
         {
-          "name": "310babii",
-          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+          "name": "Yvng Patra",
+          "url": "https://open.spotify.com/artist/2gkb6UKhXZeuEN5EBQkQv8"
+        },
+        {
+          "name": "YamieZimmer",
+          "url": "https://open.spotify.com/artist/7aqyXIegZ72uUh7d1AXR3z"
         }
       ],
-      "duration_ms": 165000,
-      "name": "My Fan",
-      "url": "https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX"
+      "duration_ms": 170115,
+      "name": "BRAND NEW",
+      "url": "https://open.spotify.com/track/1d4bUyO0JCNvuwaycbYUG8"
     },
     {
       "added_at": "2026-08-19 00:34:26",
@@ -919,6 +899,26 @@
       "duration_ms": 182030,
       "name": "Don't",
       "url": "https://open.spotify.com/track/0SYgPi0sgpjurZ3zc9w7CM"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
+        "name": "Get Litty?",
+        "url": "https://open.spotify.com/album/08SdOsfG9Q7yf7J0eMmi9g"
+      },
+      "artists": [
+        {
+          "name": "Litty",
+          "url": "https://open.spotify.com/artist/7bpKgZBJlORKsMKNMoGwc0"
+        },
+        {
+          "name": "310babii",
+          "url": "https://open.spotify.com/artist/4VCriUU9CsPnUvoAsxVk1p"
+        }
+      ],
+      "duration_ms": 165000,
+      "name": "My Fan",
+      "url": "https://open.spotify.com/track/1OWaO0dAvexjo2HYYCeyiX"
     },
     {
       "added_at": "2026-08-19 00:34:26",
@@ -963,6 +963,26 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
+        "name": "New Stars Swag",
+        "url": "https://open.spotify.com/album/78MusSj7gCs8daCm2CRfS1"
+      },
+      "artists": [
+        {
+          "name": "Kohjiya",
+          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
+        },
+        {
+          "name": "lj",
+          "url": "https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez"
+        }
+      ],
+      "duration_ms": 196680,
+      "name": "Very Very Rare",
+      "url": "https://open.spotify.com/track/6bJZtj9x7G9VNVB2VslkQJ"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
         "name": "DEATH NOTE",
         "url": "https://open.spotify.com/album/173yOrrgkqrUFwte1Pd7VW"
       },
@@ -983,26 +1003,6 @@
       "duration_ms": 174081,
       "name": "DEATH NOTE",
       "url": "https://open.spotify.com/track/2OCQMg5OLGIMEWHHZcHABc"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
-        "name": "New Stars Swag",
-        "url": "https://open.spotify.com/album/78MusSj7gCs8daCm2CRfS1"
-      },
-      "artists": [
-        {
-          "name": "Kohjiya",
-          "url": "https://open.spotify.com/artist/1jn7KGhS5f79E6efpgukdK"
-        },
-        {
-          "name": "lj",
-          "url": "https://open.spotify.com/artist/7bf8nSozw4GvGHRSGJ74ez"
-        }
-      ],
-      "duration_ms": 196680,
-      "name": "Very Very Rare",
-      "url": "https://open.spotify.com/track/6bJZtj9x7G9VNVB2VslkQJ"
     },
     {
       "added_at": "2026-08-19 00:34:26",

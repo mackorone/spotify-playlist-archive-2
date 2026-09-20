@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BigXthaPlug, Yeat, AZ Chike and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,218 likes - 59 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,307 likes - 59 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 8 | [Nothing Into Something](https://open.spotify.com/track/37bpc5BHARugosOjyAqDq2) | [Coi Leray](https://open.spotify.com/artist/6AMd49uBDJfhf30Ak2QR5s), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX) | [Nothing Into Something](https://open.spotify.com/album/0oj1BpdiZzvbBGs8w5QpKH) | 2:21 |
 | 9 | [Down For Real](https://open.spotify.com/track/4CoMmsVSYUvalADtWRwVUh) | [Victor Victor Presents](https://open.spotify.com/artist/6qiKUAYtRUe7XBgIJC0dCs), [A Boogie Wit da Hoodie](https://open.spotify.com/artist/31W5EY0aAly4Qieq6OFu6I) | [Down For Real](https://open.spotify.com/album/3jEtKFCmcATKozJw2PV6iE) | 3:02 |
 | 10 | [Hold Me](https://open.spotify.com/track/0C6EgNTEH6O3JFHZbfAEC7) | [PayGotti](https://open.spotify.com/artist/0LGKNkqCNnflIi35z00rGu) | [Hold Me](https://open.spotify.com/album/09pqOzWi67hyfuJMNAEhFl) | 2:31 |
-| 11 | [Innocent Smile](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
+| 11 | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/track/2vaQLoyoTBiG07lwseHd3f) | [Skepta](https://open.spotify.com/artist/2p1fiYHYiXz9qi0JJyxBzN), [Suggs](https://open.spotify.com/artist/4ybqvfut7DoHdBy2lRbTFC), [Chase & Status](https://open.spotify.com/artist/3jNkaOXasoc7RsxdchvEVq) | [Innocent Smile \(feat\. Suggs & Chase & Status\)](https://open.spotify.com/album/4dpwfuCDm2Lv0AtRAq88aq) | 2:40 |
 | 12 | [ERASE YOUR SOCIAL](https://open.spotify.com/track/6VyuRrtlCvxzL9n4HRlhFi) | [Lucy Bedroque](https://open.spotify.com/artist/2I8H267eH5va9da4vGt38O) | [c](https://open.spotify.com/album/6cwZdsIawCaF4Ukh7KV24l) | 2:30 |
 | 13 | [Grave Shift](https://open.spotify.com/track/709mWTXjjm5O9KrCeTdt0N) | [Lelo](https://open.spotify.com/artist/6RcgNRwyY9YNTXd9luk8JW) | [Grave Shift](https://open.spotify.com/album/5aXELaPel8lejda1VCPeNd) | 1:48 |
 | 14 | [Anemia Lover](https://open.spotify.com/track/5sItNh9MZhbszuGIQaTR6j) | [Hunxho](https://open.spotify.com/artist/508weSx4HBumrGggFmc7br) | [I Quit Rap](https://open.spotify.com/album/7I9ZdeXGuh2ttPzhbjbf6n) | 2:57 |

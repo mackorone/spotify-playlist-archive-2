@@ -1,12 +1,12 @@
 {
   "description": "\u00a1Alista la hielerona que nos vamos pa' las dunas!",
-  "num_followers": 783683,
+  "num_followers": 783905,
   "original_name": "Ruteando",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAHRWTU3OtKvHJW21UySGVXlHis1n",
+  "snapshot_id": "AAAAAJvuPw8FT82TDMOhNbmD0U2gS/RW",
   "tracks": [
     {
       "added_at": "2026-09-11 06:00:30",
@@ -583,6 +583,22 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
+        "name": "PUES QUE LE HAGO ?",
+        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
+      },
+      "artists": [
+        {
+          "name": "Chuyin",
+          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
+        }
+      ],
+      "duration_ms": 141607,
+      "name": "PUES QUE LE HAGO ?",
+      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
+    },
+    {
+      "added_at": "2026-09-11 06:00:30",
+      "album": {
         "name": "ROSONES",
         "url": "https://open.spotify.com/album/7bbz3rXYWKPW2Hq8mTaDen"
       },
@@ -599,22 +615,6 @@
       "duration_ms": 178079,
       "name": "ROSONES",
       "url": "https://open.spotify.com/track/6x59lSlNU7TvsJZy7134uC"
-    },
-    {
-      "added_at": "2026-09-11 06:00:30",
-      "album": {
-        "name": "PUES QUE LE HAGO ?",
-        "url": "https://open.spotify.com/album/0gnl1AOeHUQwaqVexifCGT"
-      },
-      "artists": [
-        {
-          "name": "Chuyin",
-          "url": "https://open.spotify.com/artist/5c8ZR64evQ00Spl73s76fo"
-        }
-      ],
-      "duration_ms": 141607,
-      "name": "PUES QUE LE HAGO ?",
-      "url": "https://open.spotify.com/track/0PA6wI9DZ0bWMaSpXyTrAW"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -651,26 +651,6 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
-        "name": "holanda (Remix)",
-        "url": "https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ"
-      },
-      "artists": [
-        {
-          "name": "EL DE LA TINTA",
-          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
-        },
-        {
-          "name": "Gabito Ballesteros",
-          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
-        }
-      ],
-      "duration_ms": 187386,
-      "name": "holanda - Remix",
-      "url": "https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO"
-    },
-    {
-      "added_at": "2026-09-11 06:00:30",
-      "album": {
         "name": "No Le Aflojo",
         "url": "https://open.spotify.com/album/3VABPNfUfSP5DurV7CUZaH"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 202875,
       "name": "No Le Aflojo",
       "url": "https://open.spotify.com/track/7ifMxHITc3NIipJO4R5NGb"
+    },
+    {
+      "added_at": "2026-09-11 06:00:30",
+      "album": {
+        "name": "holanda (Remix)",
+        "url": "https://open.spotify.com/album/1WJ07xKsqJgU9TDkKSBkMQ"
+      },
+      "artists": [
+        {
+          "name": "EL DE LA TINTA",
+          "url": "https://open.spotify.com/artist/6VNymaTBHnYKnBfST2A5Cv"
+        },
+        {
+          "name": "Gabito Ballesteros",
+          "url": "https://open.spotify.com/artist/6Sbl0NT50roqWvy746MfVf"
+        }
+      ],
+      "duration_ms": 187386,
+      "name": "holanda - Remix",
+      "url": "https://open.spotify.com/track/5ZZT0sywNVtrYhpbVER8lO"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -799,18 +799,22 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
-        "name": "Aprevenido",
-        "url": "https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK"
+        "name": "Natanael Cano, Vol.1",
+        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
       },
       "artists": [
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Crecer German",
+          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
         }
       ],
-      "duration_ms": 169402,
-      "name": "Aprevenido",
-      "url": "https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm"
+      "duration_ms": 166052,
+      "name": "Apelativo",
+      "url": "https://open.spotify.com/track/0TptnLmHfkpcGOqNuzsiPi"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -883,22 +887,18 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
-        "name": "Natanael Cano, Vol.1",
-        "url": "https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN"
+        "name": "Aprevenido",
+        "url": "https://open.spotify.com/album/69d0wnvfwhrMOc1AbdTBeK"
       },
       "artists": [
         {
           "name": "Natanael Cano",
           "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Crecer German",
-          "url": "https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve"
         }
       ],
-      "duration_ms": 166052,
-      "name": "Apelativo",
-      "url": "https://open.spotify.com/track/0TptnLmHfkpcGOqNuzsiPi"
+      "duration_ms": 169402,
+      "name": "Aprevenido",
+      "url": "https://open.spotify.com/track/0grLDu7Ix5QvYfBPJctCpm"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -947,26 +947,6 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
-        "name": "Noche Perfecta",
-        "url": "https://open.spotify.com/album/2wzUhUA9r9XjioenmL9b2C"
-      },
-      "artists": [
-        {
-          "name": "Calle 24",
-          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
-        },
-        {
-          "name": "Fuerza Regida",
-          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
-        }
-      ],
-      "duration_ms": 204321,
-      "name": "Noche Perfecta",
-      "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
-    },
-    {
-      "added_at": "2026-09-11 06:00:30",
-      "album": {
         "name": "Rugrats",
         "url": "https://open.spotify.com/album/6DOhBzQidUt8NmzjGhUYf3"
       },
@@ -1003,6 +983,26 @@
       "duration_ms": 271859,
       "name": "El AV",
       "url": "https://open.spotify.com/track/2xykX6DxmbuYF9ZF7lWK1U"
+    },
+    {
+      "added_at": "2026-09-11 06:00:30",
+      "album": {
+        "name": "Noche Perfecta",
+        "url": "https://open.spotify.com/album/2wzUhUA9r9XjioenmL9b2C"
+      },
+      "artists": [
+        {
+          "name": "Calle 24",
+          "url": "https://open.spotify.com/artist/6dLuQ5qXxIuWc5urxfIiZR"
+        },
+        {
+          "name": "Fuerza Regida",
+          "url": "https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt"
+        }
+      ],
+      "duration_ms": 204321,
+      "name": "Noche Perfecta",
+      "url": "https://open.spotify.com/track/66g9ZeqWCbpcFfv1B2W6of"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -1743,22 +1743,6 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
-        "name": "Rude",
-        "url": "https://open.spotify.com/album/4jMiWN33MIC6xgA3EoRpxh"
-      },
-      "artists": [
-        {
-          "name": "Tombochio",
-          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
-        }
-      ],
-      "duration_ms": 149350,
-      "name": "Rude",
-      "url": "https://open.spotify.com/track/68UQzKNQ61Zc4nLwHRikSX"
-    },
-    {
-      "added_at": "2026-09-11 06:00:30",
-      "album": {
         "name": "Algobierno",
         "url": "https://open.spotify.com/album/64nRIBsaqpvORMq4MWwMMx"
       },
@@ -1775,6 +1759,38 @@
       "duration_ms": 124243,
       "name": "Algobierno",
       "url": "https://open.spotify.com/track/0sgSnxmU3knTyciXomcyjG"
+    },
+    {
+      "added_at": "2026-09-11 06:00:30",
+      "album": {
+        "name": "Rude",
+        "url": "https://open.spotify.com/album/4jMiWN33MIC6xgA3EoRpxh"
+      },
+      "artists": [
+        {
+          "name": "Tombochio",
+          "url": "https://open.spotify.com/artist/76yamFWr2gZGn03EaAbX2r"
+        }
+      ],
+      "duration_ms": 149350,
+      "name": "Rude",
+      "url": "https://open.spotify.com/track/68UQzKNQ61Zc4nLwHRikSX"
+    },
+    {
+      "added_at": "2026-09-11 06:00:30",
+      "album": {
+        "name": "La Medusa",
+        "url": "https://open.spotify.com/album/1pe79esnWfUr9g6oBIhU9C"
+      },
+      "artists": [
+        {
+          "name": "Grupo Aztteca",
+          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
+        }
+      ],
+      "duration_ms": 184853,
+      "name": "La Medusa",
+      "url": "https://open.spotify.com/track/77p4pasz27HeZgFrNxjl3R"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -1807,22 +1823,6 @@
       "duration_ms": 191870,
       "name": "Lunares",
       "url": "https://open.spotify.com/track/4bYTOuAqD3HNelsCEIsmOZ"
-    },
-    {
-      "added_at": "2026-09-11 06:00:30",
-      "album": {
-        "name": "La Medusa",
-        "url": "https://open.spotify.com/album/1pe79esnWfUr9g6oBIhU9C"
-      },
-      "artists": [
-        {
-          "name": "Grupo Aztteca",
-          "url": "https://open.spotify.com/artist/38HFrt2a7X2wCIBJMuVuDS"
-        }
-      ],
-      "duration_ms": 184853,
-      "name": "La Medusa",
-      "url": "https://open.spotify.com/track/77p4pasz27HeZgFrNxjl3R"
     },
     {
       "added_at": "2026-09-11 06:00:30",
@@ -1875,22 +1875,18 @@
     {
       "added_at": "2026-09-11 06:00:30",
       "album": {
-        "name": "INSPIRACI\u00d3N 29: 11",
-        "url": "https://open.spotify.com/album/6iUMIap6e6hG9ttbXUOzoZ"
+        "name": "Me Dicen Pollito",
+        "url": "https://open.spotify.com/album/6WDnOFc2zd7QhjC5PU1Q4l"
       },
       "artists": [
         {
-          "name": "Hector Vargas",
-          "url": "https://open.spotify.com/artist/6kV4bBUVqjAQkAPoAu7oeq"
-        },
-        {
-          "name": "Equipo HC",
-          "url": "https://open.spotify.com/artist/5GcKJIU0Ooezs9A8vDZQiJ"
+          "name": "Ra\u00fal Beltran",
+          "url": "https://open.spotify.com/artist/1XrNDYzPQVM08PdMRn1mvP"
         }
       ],
-      "duration_ms": 149843,
-      "name": "Sin Filtros",
-      "url": "https://open.spotify.com/track/7Ahg6QW4rePDzuvTRXscLt"
+      "duration_ms": 259035,
+      "name": "Me Dicen Pollito",
+      "url": "https://open.spotify.com/track/4YyS1wqUv82TpRFPKfucl0"
     }
   ],
   "unique_name": "Ruteando",

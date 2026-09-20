@@ -1,12 +1,12 @@
 {
   "description": "The NEW radio! Huge playlist to brighten long days, from all genres. Shuffle it! New music added daily :) www.avondalerecords.com",
-  "num_followers": 1885,
+  "num_followers": 1884,
   "original_name": "Spotify Radio",
   "owner": {
     "name": "Avondale Records",
     "url": "https://open.spotify.com/user/317vs7ugwv5emnvlszsut7p7hsxq"
   },
-  "snapshot_id": "AAAX7L4Pfx/AUjBYP0nrvyHE/3eztb6+",
+  "snapshot_id": "AAAX7dkTtjwoZNNu2zCIhsUp7IDJRx7U",
   "tracks": [
     {
       "added_at": "2026-09-17 03:30:12",
@@ -319,7 +319,7 @@
     {
       "added_at": "2026-09-18 06:03:10",
       "album": {
-        "name": "Time to Burn",
+        "name": "time to burn",
         "url": "https://open.spotify.com/album/5fFDmFIcrBXrudfB7IzjzE"
       },
       "artists": [
@@ -329,7 +329,7 @@
         }
       ],
       "duration_ms": 240565,
-      "name": "Time to Burn",
+      "name": "time to burn",
       "url": "https://open.spotify.com/track/3g4JNT1vLhrVG4uaQFZH2Q"
     },
     {
@@ -3435,74 +3435,6 @@
       "duration_ms": 249960,
       "name": "March from Dawn to Dusk",
       "url": "https://open.spotify.com/track/3gO81cXATJDg1JaudaX1Lw"
-    },
-    {
-      "added_at": "2026-08-20 05:03:17",
-      "album": {
-        "name": "hard sell",
-        "url": "https://open.spotify.com/album/7D01AtrOnJjl7XPZIWQgOc"
-      },
-      "artists": [
-        {
-          "name": "discount",
-          "url": "https://open.spotify.com/artist/2FmuytYDU8uDp9TkubycJ1"
-        }
-      ],
-      "duration_ms": 188869,
-      "name": "hard sell",
-      "url": "https://open.spotify.com/track/2uy9wbB2cGOjjtqCqGBkFM"
-    },
-    {
-      "added_at": "2026-08-20 05:05:04",
-      "album": {
-        "name": "Breaking Through",
-        "url": "https://open.spotify.com/album/41U7vbBDLldKiQbwuYLV56"
-      },
-      "artists": [
-        {
-          "name": "Saliva",
-          "url": "https://open.spotify.com/artist/5S6hjAxgxjsLylsTtMIimO"
-        },
-        {
-          "name": "Judge & Jury",
-          "url": "https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB"
-        }
-      ],
-      "duration_ms": 199999,
-      "name": "Breaking Through",
-      "url": "https://open.spotify.com/track/11rh6PP2Qv3IiHI8TKKJ4Y"
-    },
-    {
-      "added_at": "2026-08-20 12:46:47",
-      "album": {
-        "name": "Look at me",
-        "url": "https://open.spotify.com/album/65GQNjC1rd9j7mc4rflmQg"
-      },
-      "artists": [
-        {
-          "name": "LOOSER",
-          "url": "https://open.spotify.com/artist/74MOUfrsLMzoBLl5ssKkGk"
-        }
-      ],
-      "duration_ms": 245760,
-      "name": "Look at me",
-      "url": "https://open.spotify.com/track/59O07Sj5VVQ8SXeuHCltN7"
-    },
-    {
-      "added_at": "2026-08-20 20:39:11",
-      "album": {
-        "name": "Nosso Som",
-        "url": "https://open.spotify.com/album/1uBcW3A9hkM0b4Nf5yd20t"
-      },
-      "artists": [
-        {
-          "name": "banda plano b",
-          "url": "https://open.spotify.com/artist/71Ej1tQMWH7QQNbntcQpUY"
-        }
-      ],
-      "duration_ms": 200410,
-      "name": "Nosso Som",
-      "url": "https://open.spotify.com/track/0uIVysZ0HlAyRWdjGoVY0r"
     },
     {
       "added_at": "2026-08-21 03:03:06",

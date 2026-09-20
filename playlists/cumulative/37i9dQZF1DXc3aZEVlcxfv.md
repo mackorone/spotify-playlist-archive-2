@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-682 songs - 1 day 21 hr 49 min
+683 songs - 1 day 21 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -397,7 +397,7 @@
 | [Love Me Endlessly](https://open.spotify.com/track/5gJ2EAd37L67lCLwMxHP6x) | [Rose Oye](https://open.spotify.com/artist/2WZF7q1UIV9ERGtEoUrhyr) | [Love Me Endlessly](https://open.spotify.com/album/6qnempinCv6qCSselntiJC) | 2:53 | 2026-02-13 | 2026-03-20 |
 | [Loved by You](https://open.spotify.com/track/5NSA2avgm4ObXCUcRksQGK) | [O'Tims](https://open.spotify.com/artist/7hpVW1ZJA24iE7j4PYl7zD) | [Loved by You](https://open.spotify.com/album/41iOYhHoBxpD7Wv7UkfuVu) | 2:33 | 2026-05-08 | 2026-06-19 |
 | [Lovin Me](https://open.spotify.com/track/1QMGcsjPnpGdBOoZOqhjVn) | [nedrich](https://open.spotify.com/artist/4sB1pk30amMaMVQhAkxACL), [yoyo michael](https://open.spotify.com/artist/2UJIApZoVW4enFYjW39Tfv), [Still Blessed Music](https://open.spotify.com/artist/3QLVocBmoPCZGWar970isd) | [Lovin Me](https://open.spotify.com/album/3E87vxwvab2TqEzZ9JWT7W) | 2:59 | 2025-12-05 | 2026-02-27 |
-| [Lovin On Me](https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Lovin On Me](https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt) | 4:08 | 2026-03-06 |  |
+| [Lovin On Me](https://open.spotify.com/track/5xTMeJzzbZUbItv0nAEwHI) | [Neon Adejo](https://open.spotify.com/artist/1Ywypkj7wYHenVdKnsp3Nn) | [Lovin On Me](https://open.spotify.com/album/6dnvtuqs7QEd0mf5vdwNgt) | 4:08 | 2026-03-06 | 2026-09-20 |
 | [LOWKEY](https://open.spotify.com/track/54hrmRT9vulv7CMjSgjgwi) | [SovT Music](https://open.spotify.com/artist/29eB4DKTb6yyUJ0G6vZC6e) | [LOWKEY](https://open.spotify.com/album/1Cn2peeuFGQh6BDXkD5u3f) | 3:11 | 2024-10-25 | 2025-01-31 |
 | [LOYAL](https://open.spotify.com/track/1I79Vh70gIi03MiRTlxGAZ) | [Tio Nason](https://open.spotify.com/artist/44vOrGC9wQuBCQIeBUNc1O) | [LOYAL](https://open.spotify.com/album/6obUWrzn7Ap39jKbhb54kr) | 2:34 | 2025-12-12 | 2026-02-20 |
 | [M'aseda](https://open.spotify.com/track/62lkVLB2bnmY7U7vrKxWE7) | [KOFI OWUSU PEPRAH](https://open.spotify.com/artist/4JSIYTjaWsMFQWvp46CNH1), [Diana Hamilton](https://open.spotify.com/artist/0THfCwaNsNEudsz9MciGdl) | [M'aseda](https://open.spotify.com/album/4HG3GxYJx88N5Ca1FomHLn) | 5:18 | 2025-12-19 | 2026-01-15 |
@@ -472,6 +472,7 @@
 | [Not Alone](https://open.spotify.com/track/27w8i2g7Y45QQtUkamtBOQ) | [Eriko NWA](https://open.spotify.com/artist/2oDD4e0DMShnhGj7EyxoH1), [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9) | [Not Alone](https://open.spotify.com/album/7GqD3r8qXyOxKiTW9cXOWv) | 2:37 | 2025-01-10 | 2025-02-21 |
 | [Not my own](https://open.spotify.com/track/6rmTZDobb0EZa0ewWuU3Ql) | [Kole Light](https://open.spotify.com/artist/7eskjtqf8pezcuh4oCfhui) | [Not my own](https://open.spotify.com/album/3LBwZTHxccCBKPzn4bcZcC) | 2:12 | 2025-10-17 | 2025-11-28 |
 | [Not One](https://open.spotify.com/track/2oy7FQhsjhwdcegJ1dagcA) | [Phrv](https://open.spotify.com/artist/3VDmwdOKUkkNK5hrKv8ucq), [NW.FRGVN](https://open.spotify.com/artist/75hGaBbLe3tUa4CHSEB3mu) | [Not One](https://open.spotify.com/album/1k1PSqQeK7qHKNnlAqLVRG) | 2:29 | 2025-01-17 | 2025-02-28 |
+| [Nothing Spoils in my Hand](https://open.spotify.com/track/2XqCY3rGj9lQtfghvaucTT) | [Tim Godfrey](https://open.spotify.com/artist/509E47UmbRPKWPXOMaieh2) | [Nothing Spoils in my Hand](https://open.spotify.com/album/56Dzq59j8Af14cve3psPXv) | 4:27 | 2026-09-18 |  |
 | [Nothing Without Grace](https://open.spotify.com/track/4jiFnTQdEj3OjGniCkU9IW) | [Tolu Adeagbo](https://open.spotify.com/artist/79LpvL2Wj8VGoTIaoWdAzz), [nina shezz](https://open.spotify.com/artist/3Ikru0a7ptudLEI5kBRdw8) | [Nothing Without Grace](https://open.spotify.com/album/4pc30XvMNL8PmkQXRXeiJg) | 3:14 | 2025-11-07 | 2026-01-16 |
 | [Nothing Without Him](https://open.spotify.com/track/4dlkdZmcHiNQwyg248UXH0) | [Remnant House](https://open.spotify.com/artist/0oCYQlLFMypU2RxjCRvpgR) | [Nothing Without Him](https://open.spotify.com/album/276HdNxLP01NSRsLVgKHaR) | 2:56 | 2026-07-17 |  |
 | [Nothing Without Your Love](https://open.spotify.com/track/1UvDFjrIhiGOZGCjXH8BQi) | [Big Circle Worship](https://open.spotify.com/artist/0atNZQQ1GBucFqhVeqdB8a), [Daniel Oyari](https://open.spotify.com/artist/4Y34UlHMEGxIChmnwR9W7B), [Miracle Osiromhe](https://open.spotify.com/artist/00oZlypByCBgiNGW4MCEpk) | [Nothing Without Your Love](https://open.spotify.com/album/5eFTVw5gQsGJFuTS2LhkUH) | 6:52 | 2024-12-27 | 2025-02-28 |
