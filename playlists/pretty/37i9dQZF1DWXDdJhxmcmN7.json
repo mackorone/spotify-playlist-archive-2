@@ -783,6 +783,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "2 de suadero con todo",
+        "url": "https://open.spotify.com/album/0PCCDz04565lReyRpRgGUI"
+      },
+      "artists": [
+        {
+          "name": "Melody the Basset",
+          "url": "https://open.spotify.com/artist/2UmnfJU8FScnShtNuuhU1k"
+        },
+        {
+          "name": "Multiverso Rec",
+          "url": "https://open.spotify.com/artist/4vfh7YNp9RCsbvotgivvGd"
+        }
+      ],
+      "duration_ms": 278918,
+      "name": "2 de suadero con todo",
+      "url": "https://open.spotify.com/track/4P3TFxyAgji4gBWAGzAR56"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Canciones para Escuchar Frente a la Ventana",
         "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
       },
@@ -803,22 +823,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "2 de suadero con todo",
-        "url": "https://open.spotify.com/album/0PCCDz04565lReyRpRgGUI"
+        "name": "Birria",
+        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
       },
       "artists": [
         {
-          "name": "Melody the Basset",
-          "url": "https://open.spotify.com/artist/2UmnfJU8FScnShtNuuhU1k"
-        },
-        {
-          "name": "Multiverso Rec",
-          "url": "https://open.spotify.com/artist/4vfh7YNp9RCsbvotgivvGd"
+          "name": "Fallen_Kid",
+          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
         }
       ],
-      "duration_ms": 278918,
-      "name": "2 de suadero con todo",
-      "url": "https://open.spotify.com/track/4P3TFxyAgji4gBWAGzAR56"
+      "duration_ms": 119527,
+      "name": "Birria",
+      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -843,22 +859,6 @@
       "duration_ms": 142939,
       "name": "Ukulele en Pantitl\u00e1n",
       "url": "https://open.spotify.com/track/42JzhKGXF2N2mEYkaMsyTu"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Birria",
-        "url": "https://open.spotify.com/album/2sKFNFgM5n3403t7LadLk0"
-      },
-      "artists": [
-        {
-          "name": "Fallen_Kid",
-          "url": "https://open.spotify.com/artist/3XrwWivF42Xahs2QhZhGOy"
-        }
-      ],
-      "duration_ms": 119527,
-      "name": "Birria",
-      "url": "https://open.spotify.com/track/55W0BK2MwTy2PRiByysRTg"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -955,22 +955,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Lofi En La Mamalona",
-        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
+        "name": "Dale Dale",
+        "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
       },
       "artists": [
         {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
         },
         {
-          "name": "Palmasur",
-          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
         }
       ],
-      "duration_ms": 116666,
-      "name": "Lofi En La Mamalona",
-      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
+      "duration_ms": 148000,
+      "name": "Dale Dale",
+      "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -995,22 +995,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Dale Dale",
-        "url": "https://open.spotify.com/album/1lhBqlw0v8TsrjXdKBOC7x"
+        "name": "Lofi En La Mamalona",
+        "url": "https://open.spotify.com/album/41685iR0qvhsPhQZuuNMCL"
       },
       "artists": [
         {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
           "name": "Don Raimundo",
           "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        },
+        {
+          "name": "Palmasur",
+          "url": "https://open.spotify.com/artist/3H1jLGJzOPn3WbEv6fvJ3M"
         }
       ],
-      "duration_ms": 148000,
-      "name": "Dale Dale",
-      "url": "https://open.spotify.com/track/5dzMrLVdPiXKTt6r3MMwnL"
+      "duration_ms": 116666,
+      "name": "Lofi En La Mamalona",
+      "url": "https://open.spotify.com/track/3A9LDHqyjxxeKpR4RXze5n"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1055,6 +1055,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Oda a la Infancia",
+        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
+      },
+      "artists": [
+        {
+          "name": "SpoonBeats",
+          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
+        },
+        {
+          "name": "Don Raimundo",
+          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
+        }
+      ],
+      "duration_ms": 104013,
+      "name": "La Feria",
+      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Atacama",
         "url": "https://open.spotify.com/album/0HnHqxRNRhh80XF1EwXaFz"
       },
@@ -1087,26 +1107,6 @@
       "duration_ms": 107294,
       "name": "All Good in the Hood",
       "url": "https://open.spotify.com/track/6glzOKKrShPuFB8aPWgafO"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Oda a la Infancia",
-        "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
-      },
-      "artists": [
-        {
-          "name": "SpoonBeats",
-          "url": "https://open.spotify.com/artist/4oEls8QwyhaJninX4RFdcl"
-        },
-        {
-          "name": "Don Raimundo",
-          "url": "https://open.spotify.com/artist/2v78MTOEBDrGwmtY7Iw043"
-        }
-      ],
-      "duration_ms": 104013,
-      "name": "La Feria",
-      "url": "https://open.spotify.com/track/4HexzBS7w68RG50gLxfAuJ"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1167,22 +1167,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Dusty Beats 2",
-        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
-      },
-      "artists": [
-        {
-          "name": "RUIDO",
-          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
-        }
-      ],
-      "duration_ms": 65893,
-      "name": "Sonora (Interludio 2)",
-      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "sue\u00f1a lindo, coraz\u00f3n (lofi)",
         "url": "https://open.spotify.com/album/4RR0mVKwgBfLpSKOwfTrPZ"
       },
@@ -1207,22 +1191,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Canciones para Escuchar Frente a la Ventana",
-        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
-      },
-      "artists": [
-        {
-          "name": "Iv\u00e1n Rosa",
-          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
-        }
-      ],
-      "duration_ms": 179000,
-      "name": "22 Hrs.",
-      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "wandering through soft colors",
         "url": "https://open.spotify.com/album/2bDEjpAPGCaghmgZMRHq6T"
       },
@@ -1239,6 +1207,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Canciones para Escuchar Frente a la Ventana",
+        "url": "https://open.spotify.com/album/5v12ASLi4FBNBdTdIzZLmy"
+      },
+      "artists": [
+        {
+          "name": "Iv\u00e1n Rosa",
+          "url": "https://open.spotify.com/artist/7i6BoVBVFvAbmIOT7GDvDF"
+        }
+      ],
+      "duration_ms": 179000,
+      "name": "22 Hrs.",
+      "url": "https://open.spotify.com/track/2IqIhvvNbx4Toteczeyntg"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Summer Purr",
         "url": "https://open.spotify.com/album/4KmajAnFj8mroqnrHjtqxd"
       },
@@ -1251,6 +1235,22 @@
       "duration_ms": 156000,
       "name": "Summer Purr",
       "url": "https://open.spotify.com/track/3fbNT99tPEo28tuR0hlxDK"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
+        "name": "Dusty Beats 2",
+        "url": "https://open.spotify.com/album/1paBvbS3nrcpQpIYP3zySR"
+      },
+      "artists": [
+        {
+          "name": "RUIDO",
+          "url": "https://open.spotify.com/artist/1GMJF1EIGaocbA7lBJkkzr"
+        }
+      ],
+      "duration_ms": 65893,
+      "name": "Sonora (Interludio 2)",
+      "url": "https://open.spotify.com/track/6kaETwpoVM8IqJMscfxPQV"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1303,6 +1303,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Buena Onda",
+        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
+      },
+      "artists": [
+        {
+          "name": "Stereo Fear",
+          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
+        }
+      ],
+      "duration_ms": 140000,
+      "name": "Buena Onda",
+      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Oda a la Infancia",
         "url": "https://open.spotify.com/album/65EeYVK4U9nDCWgvDBBYkz"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 186214,
       "name": "MexFi",
       "url": "https://open.spotify.com/track/6CyAiLN9Oh7dZo1t3sSU3U"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Buena Onda",
-        "url": "https://open.spotify.com/album/4TEvHPFbmROcLhe5qb1OlT"
-      },
-      "artists": [
-        {
-          "name": "Stereo Fear",
-          "url": "https://open.spotify.com/artist/4C3SNUywRgMgWvve6Q7uxM"
-        }
-      ],
-      "duration_ms": 140000,
-      "name": "Buena Onda",
-      "url": "https://open.spotify.com/track/2YEKBRf3fBAJ6QcylJak5M"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1547,6 +1547,30 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Songbird Serenity",
+        "url": "https://open.spotify.com/album/5YfE8lRIAt0X8A7qrkTeYB"
+      },
+      "artists": [
+        {
+          "name": "Alpharene",
+          "url": "https://open.spotify.com/artist/33PxA57FPX8pGz5WcfWE8a"
+        },
+        {
+          "name": "Romega",
+          "url": "https://open.spotify.com/artist/3BRpgHuU3OnFezYg2C8rva"
+        },
+        {
+          "name": "Chill Yume",
+          "url": "https://open.spotify.com/artist/4ZBlnStaBtNzGrqKcIIl7b"
+        }
+      ],
+      "duration_ms": 114500,
+      "name": "Songbird Serenity",
+      "url": "https://open.spotify.com/track/1RDwAD9cyldvgcHn1TvnyK"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "alone alone",
         "url": "https://open.spotify.com/album/2nCUNWm6QmLQqSYX7sTyuO"
       },
@@ -1579,26 +1603,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Songbird Serenity",
-        "url": "https://open.spotify.com/album/5YfE8lRIAt0X8A7qrkTeYB"
+        "name": "22",
+        "url": "https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw"
       },
       "artists": [
         {
-          "name": "Alpharene",
-          "url": "https://open.spotify.com/artist/33PxA57FPX8pGz5WcfWE8a"
-        },
-        {
-          "name": "Romega",
-          "url": "https://open.spotify.com/artist/3BRpgHuU3OnFezYg2C8rva"
-        },
-        {
-          "name": "Chill Yume",
-          "url": "https://open.spotify.com/artist/4ZBlnStaBtNzGrqKcIIl7b"
+          "name": "Gagdropers",
+          "url": "https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf"
         }
       ],
-      "duration_ms": 114500,
-      "name": "Songbird Serenity",
-      "url": "https://open.spotify.com/track/1RDwAD9cyldvgcHn1TvnyK"
+      "duration_ms": 132551,
+      "name": "Arrebol",
+      "url": "https://open.spotify.com/track/3scYlvDZaZRotdhhB3xzGy"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1615,22 +1631,6 @@
       "duration_ms": 95040,
       "name": "Dreaming of summer",
       "url": "https://open.spotify.com/track/12NdC7ZrZqYjCa3HLQh5dX"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "22",
-        "url": "https://open.spotify.com/album/432smEalZgRN6aprIVX6Uw"
-      },
-      "artists": [
-        {
-          "name": "Gagdropers",
-          "url": "https://open.spotify.com/artist/6Wkh2zEO1Z51e6BQrjNZFf"
-        }
-      ],
-      "duration_ms": 132551,
-      "name": "Arrebol",
-      "url": "https://open.spotify.com/track/3scYlvDZaZRotdhhB3xzGy"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "making out",
+        "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
+      },
+      "artists": [
+        {
+          "name": "Fallen Roses",
+          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
+        }
+      ],
+      "duration_ms": 159500,
+      "name": "making out",
+      "url": "https://open.spotify.com/track/3kkcCT7ULEtIyS288mYINQ"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Viscaria Corto",
         "url": "https://open.spotify.com/album/0qQvzPPPt3zSBK2M8vRYJI"
       },
@@ -1715,22 +1731,6 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "making out",
-        "url": "https://open.spotify.com/album/42OHS8tVTTSscJXyH4LrDl"
-      },
-      "artists": [
-        {
-          "name": "Fallen Roses",
-          "url": "https://open.spotify.com/artist/5I6WLC9Auo6aeTRHPQbdOv"
-        }
-      ],
-      "duration_ms": 159500,
-      "name": "making out",
-      "url": "https://open.spotify.com/track/3kkcCT7ULEtIyS288mYINQ"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
         "name": "la zona",
         "url": "https://open.spotify.com/album/6jBSjLRWqsB7v8pHaHGQIx"
       },
@@ -1743,26 +1743,6 @@
       "duration_ms": 124000,
       "name": "la zona",
       "url": "https://open.spotify.com/track/2FDUc0ClW6xxOSsnLkpaFM"
-    },
-    {
-      "added_at": "2026-01-26 05:01:07",
-      "album": {
-        "name": "Ver\u00e3o Sereno",
-        "url": "https://open.spotify.com/album/7LVJXwalP3WB9IrrLFXcVl"
-      },
-      "artists": [
-        {
-          "name": "Solo San",
-          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
-        },
-        {
-          "name": "Omar Ju\u00e1rez",
-          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
-        }
-      ],
-      "duration_ms": 149093,
-      "name": "Ver\u00e3o Sereno",
-      "url": "https://open.spotify.com/track/577kewRtdxMLv7jqULWEox"
     },
     {
       "added_at": "2026-01-26 05:01:07",
@@ -1807,6 +1787,26 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
+        "name": "Ver\u00e3o Sereno",
+        "url": "https://open.spotify.com/album/7LVJXwalP3WB9IrrLFXcVl"
+      },
+      "artists": [
+        {
+          "name": "Solo San",
+          "url": "https://open.spotify.com/artist/6P1mgZSQeztdWbWpJYy718"
+        },
+        {
+          "name": "Omar Ju\u00e1rez",
+          "url": "https://open.spotify.com/artist/1DaaoNqKnehz2quzxkPDm2"
+        }
+      ],
+      "duration_ms": 149093,
+      "name": "Ver\u00e3o Sereno",
+      "url": "https://open.spotify.com/track/577kewRtdxMLv7jqULWEox"
+    },
+    {
+      "added_at": "2026-01-26 05:01:07",
+      "album": {
         "name": "Sunny Day",
         "url": "https://open.spotify.com/album/5v8MUduPnrFiMUIvZyfS1q"
       },
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2026-01-26 05:01:07",
       "album": {
-        "name": "Conchitas",
-        "url": "https://open.spotify.com/album/6uqdZDw04CVlIQVYal9tK5"
+        "name": "she is",
+        "url": "https://open.spotify.com/album/0ot94PEG5wF4dv8gzVgmWg"
       },
       "artists": [
         {
-          "name": "Camosmic",
-          "url": "https://open.spotify.com/artist/4O3l4yOYCNl3qerZFlsbae"
+          "name": "AGM",
+          "url": "https://open.spotify.com/artist/2X0CuLwmbLWRUdBDaQVBgg"
         }
       ],
-      "duration_ms": 149040,
-      "name": "Conchitas",
-      "url": "https://open.spotify.com/track/2aNOrwggEgb6fh7cIq51A7"
+      "duration_ms": 232514,
+      "name": "she is",
+      "url": "https://open.spotify.com/track/7iRk3rXKp9wusvvGmzlSAR"
     }
   ],
   "unique_name": "LoFi mexa",

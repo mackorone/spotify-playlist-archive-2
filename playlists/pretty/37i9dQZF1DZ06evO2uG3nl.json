@@ -1,12 +1,12 @@
 {
   "description": "This is Addison Rae. The essential tracks, all in one playlist.",
-  "num_followers": 12738,
+  "num_followers": 12743,
   "original_name": "This Is Addison Rae",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAACmuO2Hu9we0XhBqOPKLj7G",
+  "snapshot_id": "aq3QgAAAAAAmAP3UyT1wzbW2/xTYDC2P",
   "tracks": [
     {
       "added_at": null,
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 198172,
-      "name": "High Fashion",
-      "url": "https://open.spotify.com/track/7KwPWmB1gA9zRubseJ7OB2"
+      "duration_ms": 152495,
+      "name": "New York",
+      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
     },
     {
       "added_at": null,
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/4gvjmrtzydbMpyJaXUtwvP"
         }
       ],
-      "duration_ms": 152495,
-      "name": "New York",
-      "url": "https://open.spotify.com/track/0Q9kIg9o8w1XKepXWmDUmT"
+      "duration_ms": 198172,
+      "name": "High Fashion",
+      "url": "https://open.spotify.com/track/7KwPWmB1gA9zRubseJ7OB2"
     }
   ],
   "unique_name": "This Is Addison Rae",

@@ -1,6 +1,6 @@
 {
   "description": "Groovy sounds from around the world.",
-  "num_followers": 887522,
+  "num_followers": 887600,
   "original_name": "Global Groove",
   "owner": {
     "name": "Spotify",
@@ -555,18 +555,18 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "The Rabbit That Hunts Tigers",
-        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
+        "name": "Soleil Kr\u00e9yol",
+        "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
       },
       "artists": [
         {
-          "name": "Yin Yin",
-          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
+          "name": "David Walters",
+          "url": "https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7"
         }
       ],
-      "duration_ms": 159443,
-      "name": "Pingpxng",
-      "url": "https://open.spotify.com/track/5uaHxu2wJ4YRk37bHWtbTX"
+      "duration_ms": 301653,
+      "name": "Kry\u00e9 Mwen",
+      "url": "https://open.spotify.com/track/5lvKr1Tlivc0synzzGHjZ3"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -587,18 +587,18 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "Soleil Kr\u00e9yol",
-        "url": "https://open.spotify.com/album/7DbNMvgyppGTky16qCWyah"
+        "name": "The Rabbit That Hunts Tigers",
+        "url": "https://open.spotify.com/album/4jH5VMBiLa3LqYASv9QQWK"
       },
       "artists": [
         {
-          "name": "David Walters",
-          "url": "https://open.spotify.com/artist/2ewpXb8jCBlsBscjDCcAG7"
+          "name": "Yin Yin",
+          "url": "https://open.spotify.com/artist/2sLMYvxNmHIYNx6re1WUM2"
         }
       ],
-      "duration_ms": 301653,
-      "name": "Kry\u00e9 Mwen",
-      "url": "https://open.spotify.com/track/5lvKr1Tlivc0synzzGHjZ3"
+      "duration_ms": 159443,
+      "name": "Pingpxng",
+      "url": "https://open.spotify.com/track/5uaHxu2wJ4YRk37bHWtbTX"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -1419,30 +1419,6 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "Charanga",
-        "url": "https://open.spotify.com/album/0GRIwTPZZAH3iibc3Yb7oe"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        },
-        {
-          "name": "Les Poppys",
-          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
-        },
-        {
-          "name": "Isaac et Nora",
-          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
-        }
-      ],
-      "duration_ms": 266820,
-      "name": "Charanga",
-      "url": "https://open.spotify.com/track/7CxwPOWDUC26Ia1odk1Mdj"
-    },
-    {
-      "added_at": "2026-09-18 00:00:13",
-      "album": {
         "name": "Suco de Sol",
         "url": "https://open.spotify.com/album/6i0GabOxJdPoUrtUQGKGDh"
       },
@@ -1463,6 +1439,30 @@
       "duration_ms": 228000,
       "name": "Suco de Sol",
       "url": "https://open.spotify.com/track/3h7A9Ei5Qk07femqoyW6lw"
+    },
+    {
+      "added_at": "2026-09-18 00:00:13",
+      "album": {
+        "name": "Charanga",
+        "url": "https://open.spotify.com/album/0GRIwTPZZAH3iibc3Yb7oe"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        },
+        {
+          "name": "Les Poppys",
+          "url": "https://open.spotify.com/artist/0YIBkkq5ML1WP0jtkrKiIC"
+        },
+        {
+          "name": "Isaac et Nora",
+          "url": "https://open.spotify.com/artist/0RtgAasyC15Sf1DXhtORls"
+        }
+      ],
+      "duration_ms": 266820,
+      "name": "Charanga",
+      "url": "https://open.spotify.com/track/7CxwPOWDUC26Ia1odk1Mdj"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "Miniatures de auto rhythm",
-        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
-      },
-      "artists": [
-        {
-          "name": "Domenique Dumont",
-          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
-        }
-      ],
-      "duration_ms": 143617,
-      "name": "Faux savage",
-      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
-    },
-    {
-      "added_at": "2026-09-18 00:00:13",
-      "album": {
         "name": "you loved me like a fool",
         "url": "https://open.spotify.com/album/7KQlh5j0jNYc44xwUGbOBJ"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 214638,
       "name": "you loved me like a fool",
       "url": "https://open.spotify.com/track/63XHC6Djfms8EIj0sYn74n"
+    },
+    {
+      "added_at": "2026-09-18 00:00:13",
+      "album": {
+        "name": "Miniatures de auto rhythm",
+        "url": "https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn"
+      },
+      "artists": [
+        {
+          "name": "Domenique Dumont",
+          "url": "https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf"
+        }
+      ],
+      "duration_ms": 143617,
+      "name": "Faux savage",
+      "url": "https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -1683,22 +1683,6 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "Bem Querer",
-        "url": "https://open.spotify.com/album/7K0snFwXckNidBggEm6HZa"
-      },
-      "artists": [
-        {
-          "name": "Curi\u00f3 Curi\u00f3",
-          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
-        }
-      ],
-      "duration_ms": 221672,
-      "name": "Bem Querer",
-      "url": "https://open.spotify.com/track/1Fuxx2SM49Br613ri3I0h6"
-    },
-    {
-      "added_at": "2026-09-18 00:00:13",
-      "album": {
         "name": "Koin\u00e8",
         "url": "https://open.spotify.com/album/6PRXnH6Her6u85OU7j0GyN"
       },
@@ -1715,6 +1699,22 @@
       "duration_ms": 231500,
       "name": "Mario",
       "url": "https://open.spotify.com/track/1EvKBtW2AE4vh6gkL0cw11"
+    },
+    {
+      "added_at": "2026-09-18 00:00:13",
+      "album": {
+        "name": "Bem Querer",
+        "url": "https://open.spotify.com/album/7K0snFwXckNidBggEm6HZa"
+      },
+      "artists": [
+        {
+          "name": "Curi\u00f3 Curi\u00f3",
+          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
+        }
+      ],
+      "duration_ms": 221672,
+      "name": "Bem Querer",
+      "url": "https://open.spotify.com/track/1Fuxx2SM49Br613ri3I0h6"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -1771,22 +1771,6 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "Road Of The Lonely Ones",
-        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
-      },
-      "artists": [
-        {
-          "name": "Madlib",
-          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
-        }
-      ],
-      "duration_ms": 218466,
-      "name": "Road Of The Lonely Ones",
-      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
-    },
-    {
-      "added_at": "2026-09-18 00:00:13",
-      "album": {
         "name": "Mama",
         "url": "https://open.spotify.com/album/1ZvCj7rr10to6fz4dzGCgv"
       },
@@ -1811,6 +1795,22 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
+        "name": "Road Of The Lonely Ones",
+        "url": "https://open.spotify.com/album/28MiwOX8Od693aOkUnEgsf"
+      },
+      "artists": [
+        {
+          "name": "Madlib",
+          "url": "https://open.spotify.com/artist/5LhTec3c7dcqBvpLRWbMcf"
+        }
+      ],
+      "duration_ms": 218466,
+      "name": "Road Of The Lonely Ones",
+      "url": "https://open.spotify.com/track/4VaICpePVA67Wqvv8SryFr"
+    },
+    {
+      "added_at": "2026-09-18 00:00:13",
+      "album": {
         "name": "The Return of\u2026",
         "url": "https://open.spotify.com/album/5cAjRyb94Tzoqk25z9nSvA"
       },
@@ -1823,26 +1823,6 @@
       "duration_ms": 224882,
       "name": "Sunset Sound",
       "url": "https://open.spotify.com/track/7c1pACjA4ahceDSuGEJspA"
-    },
-    {
-      "added_at": "2026-09-18 00:00:13",
-      "album": {
-        "name": "Moonshake",
-        "url": "https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA"
-      },
-      "artists": [
-        {
-          "name": "Marcello Cassanelli",
-          "url": "https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm"
-        },
-        {
-          "name": "Gabe Costa",
-          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
-        }
-      ],
-      "duration_ms": 154445,
-      "name": "Moonshake",
-      "url": "https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -1879,6 +1859,26 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
+        "name": "Moonshake",
+        "url": "https://open.spotify.com/album/5t6furplfi3sWXxezzQtQA"
+      },
+      "artists": [
+        {
+          "name": "Marcello Cassanelli",
+          "url": "https://open.spotify.com/artist/2Y2ZlBMCoDBEumOLdAbGcm"
+        },
+        {
+          "name": "Gabe Costa",
+          "url": "https://open.spotify.com/artist/6LMyfO4lGSYAkJg3Yc06ZR"
+        }
+      ],
+      "duration_ms": 154445,
+      "name": "Moonshake",
+      "url": "https://open.spotify.com/track/6JmjLIr94qWA1rKOXdJgDL"
+    },
+    {
+      "added_at": "2026-09-18 00:00:13",
+      "album": {
         "name": "Perak",
         "url": "https://open.spotify.com/album/5FdHePoYyJiUsjG0ownNbb"
       },
@@ -1911,22 +1911,6 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "Menina Passarinho",
-        "url": "https://open.spotify.com/album/5KIVi8OLNVpmDkaRvCEDHm"
-      },
-      "artists": [
-        {
-          "name": "Curi\u00f3 Curi\u00f3",
-          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
-        }
-      ],
-      "duration_ms": 229436,
-      "name": "Menina Passarinho",
-      "url": "https://open.spotify.com/track/04k3l4ziEySpRlfKcnjmBA"
-    },
-    {
-      "added_at": "2026-09-18 00:00:13",
-      "album": {
         "name": "Existe Uma Voz",
         "url": "https://open.spotify.com/album/3IxCKH95VNnV1nToX3Gwer"
       },
@@ -1955,6 +1939,22 @@
       "duration_ms": 357480,
       "name": "Yabaal",
       "url": "https://open.spotify.com/track/0IPAr9x0VOpCnk2hNuk5aO"
+    },
+    {
+      "added_at": "2026-09-18 00:00:13",
+      "album": {
+        "name": "Menina Passarinho",
+        "url": "https://open.spotify.com/album/5KIVi8OLNVpmDkaRvCEDHm"
+      },
+      "artists": [
+        {
+          "name": "Curi\u00f3 Curi\u00f3",
+          "url": "https://open.spotify.com/artist/1P0sVOquxHdvSDKpUnHl0a"
+        }
+      ],
+      "duration_ms": 229436,
+      "name": "Menina Passarinho",
+      "url": "https://open.spotify.com/track/04k3l4ziEySpRlfKcnjmBA"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -2083,22 +2083,6 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "Ritmo",
-        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
-      },
-      "artists": [
-        {
-          "name": "VHOOR",
-          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
-        }
-      ],
-      "duration_ms": 202104,
-      "name": "Verde",
-      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
-    },
-    {
-      "added_at": "2026-09-18 00:00:13",
-      "album": {
         "name": "Puro Mambo",
         "url": "https://open.spotify.com/album/3To831Y2DDdp42fp2mDmnm"
       },
@@ -2111,6 +2095,22 @@
       "duration_ms": 169117,
       "name": "Puro Mambo",
       "url": "https://open.spotify.com/track/6Z9U6Xk4kQtziCcdEZfUzw"
+    },
+    {
+      "added_at": "2026-09-18 00:00:13",
+      "album": {
+        "name": "Ritmo",
+        "url": "https://open.spotify.com/album/00QDIAtrKiS45HPy6w2tLB"
+      },
+      "artists": [
+        {
+          "name": "VHOOR",
+          "url": "https://open.spotify.com/artist/0aEDa47F4RWuk4Udm0SEoH"
+        }
+      ],
+      "duration_ms": 202104,
+      "name": "Verde",
+      "url": "https://open.spotify.com/track/6sqG1sGiZ5xy58TDkeo9rS"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -2295,6 +2295,22 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
+        "name": "Darker Than Blue",
+        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
+      },
+      "artists": [
+        {
+          "name": "Devon Russell",
+          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
+        }
+      ],
+      "duration_ms": 235706,
+      "name": "Move on Up",
+      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
+    },
+    {
+      "added_at": "2026-09-18 00:00:13",
+      "album": {
         "name": "KB's Mixtape No. 2",
         "url": "https://open.spotify.com/album/4Kf6c23vulrmowV1rj3iHP"
       },
@@ -2307,22 +2323,6 @@
       "duration_ms": 304333,
       "name": "Juicy Fruit",
       "url": "https://open.spotify.com/track/2K7h1g3vxQZEFPisYq0Qlv"
-    },
-    {
-      "added_at": "2026-09-18 00:00:13",
-      "album": {
-        "name": "Bassa Bassa",
-        "url": "https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj"
-      },
-      "artists": [
-        {
-          "name": "Jembaa Groove",
-          "url": "https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs"
-        }
-      ],
-      "duration_ms": 301647,
-      "name": "Bassa Bassa",
-      "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -2343,18 +2343,18 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "Darker Than Blue",
-        "url": "https://open.spotify.com/album/3AHvkBPz12A5UAcDHfFvn7"
+        "name": "Bassa Bassa",
+        "url": "https://open.spotify.com/album/78FjPsVAJjOaOU8Po4wlKj"
       },
       "artists": [
         {
-          "name": "Devon Russell",
-          "url": "https://open.spotify.com/artist/5qpAbHQfFzjfDhHRTTMwkz"
+          "name": "Jembaa Groove",
+          "url": "https://open.spotify.com/artist/2eI6PFBggdyKUDG93qJQGs"
         }
       ],
-      "duration_ms": 235706,
-      "name": "Move on Up",
-      "url": "https://open.spotify.com/track/3LIy6dd3MYDjtS2AuIWB9h"
+      "duration_ms": 301647,
+      "name": "Bassa Bassa",
+      "url": "https://open.spotify.com/track/17kvxe79U3z1JFbQVKOWTI"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -2383,22 +2383,6 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "Fully Loaded",
-        "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
-      },
-      "artists": [
-        {
-          "name": "Magnum",
-          "url": "https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP"
-        }
-      ],
-      "duration_ms": 350600,
-      "name": "Evolution",
-      "url": "https://open.spotify.com/track/60lRT01X553ode0LvndRf0"
-    },
-    {
-      "added_at": "2026-09-18 00:00:13",
-      "album": {
         "name": "Back To Bahia",
         "url": "https://open.spotify.com/album/7EtY3NqhDQ4XAqZg5l06Zd"
       },
@@ -2411,6 +2395,22 @@
       "duration_ms": 326986,
       "name": "Entardecer",
       "url": "https://open.spotify.com/track/2E3J6m0Q4uyKC2eMVonWfC"
+    },
+    {
+      "added_at": "2026-09-18 00:00:13",
+      "album": {
+        "name": "Fully Loaded",
+        "url": "https://open.spotify.com/album/5JdrXJhIxq21tkQTTf8BoV"
+      },
+      "artists": [
+        {
+          "name": "Magnum",
+          "url": "https://open.spotify.com/artist/3NCYHagstCfaXKU2WoAAXP"
+        }
+      ],
+      "duration_ms": 350600,
+      "name": "Evolution",
+      "url": "https://open.spotify.com/track/60lRT01X553ode0LvndRf0"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -2447,22 +2447,6 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "Encontrar",
-        "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
-      },
-      "artists": [
-        {
-          "name": "DJ Raff",
-          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
-        }
-      ],
-      "duration_ms": 353109,
-      "name": "Somos",
-      "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
-    },
-    {
-      "added_at": "2026-09-18 00:00:13",
-      "album": {
         "name": "Water of Life",
         "url": "https://open.spotify.com/album/5yEGMv9neQw6QaCgKa8NgZ"
       },
@@ -2483,18 +2467,18 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
-        "name": "Claude Fontaine",
-        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+        "name": "Encontrar",
+        "url": "https://open.spotify.com/album/07rglBX8NImD5GFtEusVFs"
       },
       "artists": [
         {
-          "name": "Claude Fontaine",
-          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+          "name": "DJ Raff",
+          "url": "https://open.spotify.com/artist/1yBSX25jjXRF6KqAKGygy2"
         }
       ],
-      "duration_ms": 246386,
-      "name": "Play by Play",
-      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
+      "duration_ms": 353109,
+      "name": "Somos",
+      "url": "https://open.spotify.com/track/6IUKavHeCTT13k7zS1KKCH"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -2511,6 +2495,22 @@
       "duration_ms": 461120,
       "name": "Take Me Back",
       "url": "https://open.spotify.com/track/65NPCgLdUS0cb0w6ZiEt8d"
+    },
+    {
+      "added_at": "2026-09-18 00:00:13",
+      "album": {
+        "name": "Claude Fontaine",
+        "url": "https://open.spotify.com/album/0N3jnwoj19u35NojyETlk7"
+      },
+      "artists": [
+        {
+          "name": "Claude Fontaine",
+          "url": "https://open.spotify.com/artist/34Ri1nJORbduGK8LLHz61Y"
+        }
+      ],
+      "duration_ms": 246386,
+      "name": "Play by Play",
+      "url": "https://open.spotify.com/track/3fgD4imzFk4b5PfixFqLBF"
     },
     {
       "added_at": "2026-09-18 00:00:13",
@@ -2587,6 +2587,26 @@
     {
       "added_at": "2026-09-18 00:00:13",
       "album": {
+        "name": "Apiafo",
+        "url": "https://open.spotify.com/album/1KYJPtlKlYQiZ6TZzLkRbn"
+      },
+      "artists": [
+        {
+          "name": "Vaudou Game",
+          "url": "https://open.spotify.com/artist/7MEH1SUDgj0NU6gDjDXokz"
+        },
+        {
+          "name": "Roger Damawuzan",
+          "url": "https://open.spotify.com/artist/6EP95HIx4uVmzGq7YMG0tv"
+        }
+      ],
+      "duration_ms": 213373,
+      "name": "Pas Contente",
+      "url": "https://open.spotify.com/track/2Pb7Z8lrgBN8sMNNGEPBWx"
+    },
+    {
+      "added_at": "2026-09-18 00:00:13",
+      "album": {
         "name": "I Wanna Sleep In Your Arms / What's a Girl To Do",
         "url": "https://open.spotify.com/album/3KgSMLE6uMBDuNTjOwjDoA"
       },
@@ -2599,26 +2619,6 @@
       "duration_ms": 227780,
       "name": "I Wanna Sleep In Your Arms",
       "url": "https://open.spotify.com/track/7M3sfWCuoSQqmkLxM9CJc0"
-    },
-    {
-      "added_at": "2026-09-18 00:00:13",
-      "album": {
-        "name": "Hafa",
-        "url": "https://open.spotify.com/album/2kv0GcPQvtQgDnUpTmlDSI"
-      },
-      "artists": [
-        {
-          "name": "iZem",
-          "url": "https://open.spotify.com/artist/2dJpwMtmOBr9ad4D7vRf2r"
-        },
-        {
-          "name": "Nina Miranda",
-          "url": "https://open.spotify.com/artist/3AXxvXhECGeTQCUU0Lj3ln"
-        }
-      ],
-      "duration_ms": 249982,
-      "name": "Agua Viva",
-      "url": "https://open.spotify.com/track/5qQviPvlrLAezMa8EzmZev"
     },
     {
       "added_at": "2026-09-18 00:00:13",

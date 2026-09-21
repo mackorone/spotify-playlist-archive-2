@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 
 > Bathe in forest sounds and reconnect to nature, with the Japanese practice of shinrin yoku.
 
-[Spotify](https://open.spotify.com/user/spotify) - 482,562 likes - 160 songs - 7 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 483,218 likes - 160 songs - 7 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -169,4 +169,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaPleDxjpDoo.md) - [plain]
 | 159 | [Peacefully Floating](https://open.spotify.com/track/6EmfQGQ8osa2Qsomej3zv0) | [Collected Dreams](https://open.spotify.com/artist/663shNr1wUnWbD1TQ5v8Sx) | [Peacefully Floating](https://open.spotify.com/album/4LcZdO9XmLlsKkFA1ScT4w) | 3:00 |
 | 160 | [Where Moss Grows](https://open.spotify.com/track/7rXCdLIPi6Z6exgXgwxc2S) | [Silentia Natura](https://open.spotify.com/artist/66451HoublFc32cocZpJjd) | [Where Moss Grows](https://open.spotify.com/album/6ls5GZnmGr9llc2on67DHb) | 2:47 |
 
-Snapshot ID: `AAAAAPEPcRLDd+mxYhwt6OOemRpEIkcE`
+Snapshot ID: `AAAAABYKv6vy79PbitJgXtKsbbvcpaiv`

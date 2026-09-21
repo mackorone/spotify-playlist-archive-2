@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2020-10-13",
-  "description": "Future K-Pop hits! (Cover: SOYEON)",
+  "description": "Future K-Pop hits! (Cover: CLOSE YOUR EYES)",
   "name": "K-Pop Rising",
   "tracks": [
     {
@@ -1942,7 +1942,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 196361,
       "name": "BAD (Steve Aoki Ver.)",
       "url": "https://open.spotify.com/track/1Wucg5F2sgxH5G1UtMNkR6"
@@ -6752,6 +6752,24 @@
       "duration_ms": 181173,
       "name": "DADADA",
       "url": "https://open.spotify.com/track/7M3uNP8R8pedoK11D2K1iI"
+    },
+    {
+      "album": {
+        "name": "DADDY",
+        "url": "https://open.spotify.com/album/1wHCS61gObQcmYhiv3eLHz"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 165283,
+      "name": "DADDY",
+      "url": "https://open.spotify.com/track/55hvAlWKNC9FJ1QUkaheWR"
     },
     {
       "album": {
@@ -21607,6 +21625,24 @@
     },
     {
       "album": {
+        "name": "Open Your Eyes",
+        "url": "https://open.spotify.com/album/1Mx5r7RLYkLnhZQN4mCaI7"
+      },
+      "artists": [
+        {
+          "name": "CLOSE YOUR EYES",
+          "url": "https://open.spotify.com/artist/1gyIB8QvgXCZsEghjwTDL5"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179240,
+      "name": "Open Your Eyes",
+      "url": "https://open.spotify.com/track/1JvRDITxJfdNXCZPm9RcXW"
+    },
+    {
+      "album": {
         "name": "THE FIRST STEP : CHAPTER THREE",
         "url": "https://open.spotify.com/album/3dfrKjXXIsZ8ftwen5v40w"
       },
@@ -22152,7 +22188,7 @@
       ],
       "date_added": "2026-07-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 148000,
       "name": "Perfect Target",
       "url": "https://open.spotify.com/track/0vVHDvDfYYVIz264bFoN9e"

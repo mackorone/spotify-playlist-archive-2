@@ -2883,6 +2883,24 @@
     },
     {
       "album": {
+        "name": "Se Parece Al Pai",
+        "url": "https://open.spotify.com/album/5PF36AR7ijuX8dW2Zh2ibW"
+      },
+      "artists": [
+        {
+          "name": "Guaynaa",
+          "url": "https://open.spotify.com/artist/0BqURncJM5B1BBu7UM51eq"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 226042,
+      "name": "Se Parece Al Pai",
+      "url": "https://open.spotify.com/track/5Vgs8VL8bmRxsHLPgXLN6V"
+    },
+    {
+      "album": {
         "name": "Perfecto",
         "url": "https://open.spotify.com/album/3Pe7We0e6yWS59uuL3aJH4"
       },

@@ -1,12 +1,12 @@
 {
   "description": "The best new tracks in metal, hard rock, and all things heavy. Cover: Vana",
-  "num_followers": 803730,
+  "num_followers": 803970,
   "original_name": "All New Metal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAEguwKS9rh8IiZNsbF2a4ropwNk5",
+  "snapshot_id": "AAAAAOSgrYnM64UmFL7t9e00TbhY4yto",
   "tracks": [
     {
       "added_at": "2026-09-18 04:01:03",
@@ -939,6 +939,22 @@
       "duration_ms": 180013,
       "name": "Drain Me",
       "url": "https://open.spotify.com/track/5xKyxMJXyz7wr4ewQ6Mb1e"
+    },
+    {
+      "added_at": "2026-09-21 02:35:24",
+      "album": {
+        "name": "Ready For The Grave",
+        "url": "https://open.spotify.com/album/2AC6SWE8SyxMB7RldZIyBD"
+      },
+      "artists": [
+        {
+          "name": "Early Moods",
+          "url": "https://open.spotify.com/artist/4x8y8i7a2jC5QVtNGTRn9i"
+        }
+      ],
+      "duration_ms": 246400,
+      "name": "The Prowler",
+      "url": "https://open.spotify.com/track/4YP3E9yUCUiYpnGBn6gYCn"
     },
     {
       "added_at": "2026-09-18 04:01:03",

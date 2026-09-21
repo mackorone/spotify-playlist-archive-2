@@ -1,13 +1,41 @@
 {
   "description": "This is Ken Carson. The essential tracks, all in one playlist.",
-  "num_followers": 47425,
+  "num_followers": 47422,
   "original_name": "This Is Ken Carson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAAC5OYUElk+T4d651nqqL4Sg",
+  "snapshot_id": "aq3QgAAAAAAPk9UcXtRu2i8iQzobIv/0",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "Never Tell",
+        "url": "https://open.spotify.com/album/3QXwzjiIJJSrys2gmRd14t"
+      },
+      "artists": [
+        {
+          "name": "Narco Juliet",
+          "url": "https://open.spotify.com/artist/6BzV00UB67RkdQEdg2AGkT"
+        },
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/6NuphuJjIbOHlwGOtligTb"
+        },
+        {
+          "name": "Miri Ben-Ari",
+          "url": "https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx"
+        },
+        {
+          "name": "SUMMER ALONE",
+          "url": "https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek"
+        }
+      ],
+      "duration_ms": 196631,
+      "name": "Never Tell",
+      "url": "https://open.spotify.com/track/5uzRXTJF2a5dsvj0OY7nYz"
+    },
     {
       "added_at": null,
       "album": {
@@ -79,6 +107,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 150401,
+      "name": "Fighting My Demons",
+      "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "xperiment - cartunez",
         "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
       },
@@ -99,22 +143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 150401,
-      "name": "Fighting My Demons",
-      "url": "https://open.spotify.com/track/2c7sRekhMGlj7u1WIIzoQu"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "xperiment",
         "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
       },
@@ -122,11 +150,15 @@
         {
           "name": "Ken Carson",
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        },
+        {
+          "name": "Lil Uzi Vert",
+          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
         }
       ],
-      "duration_ms": 133395,
-      "name": "possession",
-      "url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
+      "duration_ms": 233335,
+      "name": "ghost (with Lil Uzi Vert)",
+      "url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
     },
     {
       "added_at": null,
@@ -163,6 +195,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 148760,
+      "name": "i need u",
+      "url": "https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "xperiment",
+        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
+      },
+      "artists": [
+        {
+          "name": "Ken Carson",
+          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
+        }
+      ],
+      "duration_ms": 133395,
+      "name": "possession",
+      "url": "https://open.spotify.com/track/7fqzm05AMU8nxELARCtGZr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "xperiment - cartunez",
         "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
       },
@@ -179,42 +243,6 @@
       "duration_ms": 160000,
       "name": "roxy reynolds (with Destroy Lonely)",
       "url": "https://open.spotify.com/track/2Wc9hiOkdfsqRssISuG1Gw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "xperiment",
-        "url": "https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        },
-        {
-          "name": "Lil Uzi Vert",
-          "url": "https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz"
-        }
-      ],
-      "duration_ms": 233335,
-      "name": "ghost (with Lil Uzi Vert)",
-      "url": "https://open.spotify.com/track/5l2JiMegRp9HTtnlVDDdJb"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
-      },
-      "artists": [
-        {
-          "name": "Ken Carson",
-          "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
-        }
-      ],
-      "duration_ms": 148760,
-      "name": "i need u",
-      "url": "https://open.spotify.com/track/3YBU7JlsPHIXhEuc7OXrIT"
     },
     {
       "added_at": null,
@@ -239,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "xperiment - cartunez",
-        "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
+        "name": "A Great Chaos",
+        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
       },
       "artists": [
         {
@@ -248,9 +276,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 148000,
-      "name": "scrape",
-      "url": "https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC"
+      "duration_ms": 149892,
+      "name": "Succubus",
+      "url": "https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV"
     },
     {
       "added_at": null,
@@ -275,8 +303,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A Great Chaos",
-        "url": "https://open.spotify.com/album/0HS8aknH0JQdMIiBVhyOCW"
+        "name": "xperiment - cartunez",
+        "url": "https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7"
       },
       "artists": [
         {
@@ -284,9 +312,9 @@
           "url": "https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX"
         }
       ],
-      "duration_ms": 149892,
-      "name": "Succubus",
-      "url": "https://open.spotify.com/track/2pcv4nUQqaZnJk1kYvCfXV"
+      "duration_ms": 148000,
+      "name": "scrape",
+      "url": "https://open.spotify.com/track/3eUOjBibvnzlUtOEoQ4PwC"
     },
     {
       "added_at": null,

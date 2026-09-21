@@ -4,7 +4,7 @@
 
 > The best new tracks in metal, hard rock, and all things heavy\. Cover: Vana
 
-12,526 songs - 34 day 13 hr 31 min
+12,527 songs - 34 day 13 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -10760,6 +10760,7 @@
 | [The Propaganda Machine](https://open.spotify.com/track/6PIVnSNTAXNEF4AJoaHkL0) | [Demonstealer](https://open.spotify.com/artist/7A6AxHa4xv84XTYZVnVxUd), [Anabelle Iratni](https://open.spotify.com/artist/44hl46lOwYwNLIQHUJhj7f), [Ken Bedene](https://open.spotify.com/artist/20lnQx4UGY6vmkJL8hAV0H), [Stian Gundersen](https://open.spotify.com/artist/21hbtsySyHvyWcLz0bpQWc) | [The Propaganda Machine](https://open.spotify.com/album/6Mqek10yZxDQafaW97iX7f) | 3:20 | 2023-03-10 | 2023-03-18 |
 | [The Prophet](https://open.spotify.com/track/7hbyBiX9EMUHFwDywq5xbn) | [Chaosbay](https://open.spotify.com/artist/7GNTvmIi6DDF2XDJKYKoUk) | [Boxes](https://open.spotify.com/album/2WpKNIxZkJGUyJuKsYD306) | 4:16 | 2022-01-14 | 2022-02-11 |
 | [The Prophets and Doom](https://open.spotify.com/track/66fnVLmFtoCSAyHApc7H6f) | [The Hope Conspiracy](https://open.spotify.com/artist/0EE0FUSX633ANADunRfZ9d) | [Tools of Oppression/Rule by Deception](https://open.spotify.com/album/2Y56ReIba9GSXFIIMGCrw9) | 3:05 | 2024-05-31 | 2024-06-08 |
+| [The Prowler](https://open.spotify.com/track/4YP3E9yUCUiYpnGBn6gYCn) | [Early Moods](https://open.spotify.com/artist/4x8y8i7a2jC5QVtNGTRn9i) | [Ready For The Grave](https://open.spotify.com/album/2AC6SWE8SyxMB7RldZIyBD) | 4:06 | 2026-09-21 |  |
 | [THE PURGE](https://open.spotify.com/track/42eexWfJFK34GC9c46fpLx) | [In This Moment](https://open.spotify.com/artist/6tbLPxj1uQ6vsRQZI2YFCT) | [THE PURGE](https://open.spotify.com/album/3UMpuZ3u2g5NOgHzzZnwrn) | 3:59 | 2023-07-21 | 2023-07-29 |
 | [The Purge](https://open.spotify.com/track/4QfvQL8RkLigBU3phdrGmE) | [Prospective](https://open.spotify.com/artist/0HV13XD3wrHiWmP0vnLeuS) | [The Purge](https://open.spotify.com/album/0dM6iaqQYrVftwXL3C5nOt) | 3:07 | 2025-06-27 | 2025-07-11 |
 | [The Pyre](https://open.spotify.com/track/1QPzDg5WQN90mpE32nIyr5) | [A Swarm Of The Sun](https://open.spotify.com/artist/0WYYIH0BaJCvkYFIO5AVTN) | [The Pyre](https://open.spotify.com/album/5sGI2AS7F4DH5N24RiYr5q) | 18:16 | 2024-08-09 | 2024-08-17 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX89gE5WsUQqU.md) - [plain]
 
 > 9월 10\-13일, \[SPOTIFY HOUSE 서울\] 라인업 아티스트들의 셋리스트로 뜨거웠던 무대의 여운을 다시 느껴보세요!
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,452 likes - 140 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,453 likes - 140 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -39841,6 +39841,24 @@
     },
     {
       "album": {
+        "name": "Shine Your Light",
+        "url": "https://open.spotify.com/album/5Hg07qsAbxSvi0oiOMrJpw"
+      },
+      "artists": [
+        {
+          "name": "Tiny Rock Star Kids",
+          "url": "https://open.spotify.com/artist/20gSn3431k1lhQLMHgWfsO"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 195560,
+      "name": "Shine Your Light",
+      "url": "https://open.spotify.com/track/5vBTfGSVuiHyGjPCH21yZC"
+    },
+    {
+      "album": {
         "name": "Shipwreck",
         "url": "https://open.spotify.com/album/6AlUStpu1jaarNt1yb6CUi"
       },

@@ -1,6 +1,6 @@
 {
   "description": "deep dark ambient and half-remembered hypnagogic soundscapes. ",
-  "num_followers": 201268,
+  "num_followers": 201328,
   "original_name": "hauntology",
   "owner": {
     "name": "Spotify",
@@ -591,22 +591,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "th1 [evnslower]",
-        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
-      },
-      "artists": [
-        {
-          "name": "Aphex Twin",
-          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
-        }
-      ],
-      "duration_ms": 668246,
-      "name": "th1 [evnslower]",
-      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Unexplained",
         "url": "https://open.spotify.com/album/5CYVndFVBDUo22RBVUXxAn"
       },
@@ -627,6 +611,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "th1 [evnslower]",
+        "url": "https://open.spotify.com/album/4YrOrQxWlHQxwvkW0GvEu4"
+      },
+      "artists": [
+        {
+          "name": "Aphex Twin",
+          "url": "https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG"
+        }
+      ],
+      "duration_ms": 668246,
+      "name": "th1 [evnslower]",
+      "url": "https://open.spotify.com/track/1LtfK8H5kL6ZsMd2JWC2KG"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "Musick To Play In The Dark",
         "url": "https://open.spotify.com/album/6qS0pSqK662v2SqooTNDeK"
       },
@@ -643,22 +643,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "If The Car Beside You Moves Ahead",
-        "url": "https://open.spotify.com/album/6TpkO9AVIqPXXBLR58fEGs"
-      },
-      "artists": [
-        {
-          "name": "James Blake",
-          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
-        }
-      ],
-      "duration_ms": 262602,
-      "name": "If The Car Beside You Moves Ahead",
-      "url": "https://open.spotify.com/track/3YKAaNsQ9i5oiSPeDw5PxV"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "D.O.A. the Third and Final Report of Throbbing Gristle (Remastered)",
         "url": "https://open.spotify.com/album/5yj769ALl6uKp6ZIJO0BQM"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 249023,
       "name": "Hamburger Lady",
       "url": "https://open.spotify.com/track/1opJnFer19nDXPpAw3PK9S"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "If The Car Beside You Moves Ahead",
+        "url": "https://open.spotify.com/album/6TpkO9AVIqPXXBLR58fEGs"
+      },
+      "artists": [
+        {
+          "name": "James Blake",
+          "url": "https://open.spotify.com/artist/53KwLdlmrlCelAZMaLVZqU"
+        }
+      ],
+      "duration_ms": 262602,
+      "name": "If The Car Beside You Moves Ahead",
+      "url": "https://open.spotify.com/track/3YKAaNsQ9i5oiSPeDw5PxV"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -827,18 +827,18 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Micropop",
-        "url": "https://open.spotify.com/album/1yY9R0IjLXGhf3aPb6Y63k"
+        "name": "Tomb of Horror",
+        "url": "https://open.spotify.com/album/7cajy0AbLQGbq3FalQszIr"
       },
       "artists": [
         {
-          "name": "Jack Stauber's Micropop",
-          "url": "https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC"
+          "name": "Slasher Dave",
+          "url": "https://open.spotify.com/artist/65PBVU3exQq9I0dKWaF8Zp"
         }
       ],
-      "duration_ms": 31408,
-      "name": "Eyelash",
-      "url": "https://open.spotify.com/track/6fmhQDBrLGb4qVirehoBsy"
+      "duration_ms": 241621,
+      "name": "Half Past Midnight",
+      "url": "https://open.spotify.com/track/45EE6D3Gtx4laQpUaz7Omz"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -859,6 +859,22 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
+        "name": "Micropop",
+        "url": "https://open.spotify.com/album/1yY9R0IjLXGhf3aPb6Y63k"
+      },
+      "artists": [
+        {
+          "name": "Jack Stauber's Micropop",
+          "url": "https://open.spotify.com/artist/1yNIb413Bmfs2ZBVuPp9kC"
+        }
+      ],
+      "duration_ms": 31408,
+      "name": "Eyelash",
+      "url": "https://open.spotify.com/track/6fmhQDBrLGb4qVirehoBsy"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
         "name": "Geleit ins Totenreich",
         "url": "https://open.spotify.com/album/1g1Ypo2vDKKKpot1swTIyK"
       },
@@ -871,22 +887,6 @@
       "duration_ms": 200493,
       "name": "Ivory Tower II",
       "url": "https://open.spotify.com/track/76V1HKK8ZP7rHa2zpmXxUG"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
-        "name": "Tomb of Horror",
-        "url": "https://open.spotify.com/album/7cajy0AbLQGbq3FalQszIr"
-      },
-      "artists": [
-        {
-          "name": "Slasher Dave",
-          "url": "https://open.spotify.com/artist/65PBVU3exQq9I0dKWaF8Zp"
-        }
-      ],
-      "duration_ms": 241621,
-      "name": "Half Past Midnight",
-      "url": "https://open.spotify.com/track/45EE6D3Gtx4laQpUaz7Omz"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -939,22 +939,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Philosopher of the Needle",
-        "url": "https://open.spotify.com/album/5ZJwYKO7dhtXzWKDOQt9NO"
-      },
-      "artists": [
-        {
-          "name": "Fester Witch",
-          "url": "https://open.spotify.com/artist/7rhKsvlBd9QyxwArqghxdD"
-        }
-      ],
-      "duration_ms": 207445,
-      "name": "Intro Into Madness",
-      "url": "https://open.spotify.com/track/5j2te5IJgCmU8DxGroOrzg"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Virgins",
         "url": "https://open.spotify.com/album/3GzIvKYXNOBViT8TveArjx"
       },
@@ -967,6 +951,22 @@
       "duration_ms": 173503,
       "name": "Prism",
       "url": "https://open.spotify.com/track/3BCSPiSfeDxnVsBclfcnki"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Philosopher of the Needle",
+        "url": "https://open.spotify.com/album/5ZJwYKO7dhtXzWKDOQt9NO"
+      },
+      "artists": [
+        {
+          "name": "Fester Witch",
+          "url": "https://open.spotify.com/artist/7rhKsvlBd9QyxwArqghxdD"
+        }
+      ],
+      "duration_ms": 207445,
+      "name": "Intro Into Madness",
+      "url": "https://open.spotify.com/track/5j2te5IJgCmU8DxGroOrzg"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1035,22 +1035,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
-      },
-      "artists": [
-        {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
-        }
-      ],
-      "duration_ms": 207866,
-      "name": "Sundial",
-      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "RR7349",
         "url": "https://open.spotify.com/album/5ZfCxFwJOctlZ9Pgk4wtPX"
       },
@@ -1063,6 +1047,22 @@
       "duration_ms": 248717,
       "name": "Wardenclyffe",
       "url": "https://open.spotify.com/track/1ZmjZingCSnHbkH0vlxIxk"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+      },
+      "artists": [
+        {
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
+        }
+      ],
+      "duration_ms": 207866,
+      "name": "Sundial",
+      "url": "https://open.spotify.com/track/6RuZpxDrZ5xGMRQB0Eodp4"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1331,22 +1331,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Other Channels",
-        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
-      },
-      "artists": [
-        {
-          "name": "The Advisory Circle",
-          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
-        }
-      ],
-      "duration_ms": 176973,
-      "name": "Mogadon Coffee Morning",
-      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "The Endless Echo",
         "url": "https://open.spotify.com/album/0XAjiCwyC9ykPOn8k8Gy18"
       },
@@ -1359,6 +1343,22 @@
       "duration_ms": 272173,
       "name": "Decision Point",
       "url": "https://open.spotify.com/track/1WnTdKCaXBWVGppcN8xttt"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Other Channels",
+        "url": "https://open.spotify.com/album/5e8pjxQuuRyMf6FjjaQT3D"
+      },
+      "artists": [
+        {
+          "name": "The Advisory Circle",
+          "url": "https://open.spotify.com/artist/6W0YlZ9EupJ8kSsW97KG6S"
+        }
+      ],
+      "duration_ms": 176973,
+      "name": "Mogadon Coffee Morning",
+      "url": "https://open.spotify.com/track/4qM00ki1r0Y94lqUkuedia"
     },
     {
       "added_at": "2025-11-14 17:00:34",
@@ -1555,22 +1555,6 @@
     {
       "added_at": "2025-11-14 17:00:34",
       "album": {
-        "name": "Director",
-        "url": "https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL"
-      },
-      "artists": [
-        {
-          "name": "Chrome Canyon",
-          "url": "https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T"
-        }
-      ],
-      "duration_ms": 129953,
-      "name": "Broken Theme",
-      "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
-    },
-    {
-      "added_at": "2025-11-14 17:00:34",
-      "album": {
         "name": "Moogies Bloogies",
         "url": "https://open.spotify.com/album/6m37XcSc4ltBFthDtMkMZ6"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 144689,
       "name": "Moogies Bloogies",
       "url": "https://open.spotify.com/track/6gaWoxdfAfB2yQKKBQeQ59"
+    },
+    {
+      "added_at": "2025-11-14 17:00:34",
+      "album": {
+        "name": "Director",
+        "url": "https://open.spotify.com/album/41KJ1g4Ig3qowHZYB8IwxL"
+      },
+      "artists": [
+        {
+          "name": "Chrome Canyon",
+          "url": "https://open.spotify.com/artist/4AqiYN2GsRkmrQ7nAYrx1T"
+        }
+      ],
+      "duration_ms": 129953,
+      "name": "Broken Theme",
+      "url": "https://open.spotify.com/track/2yPwst86GlebGzgaO78CjQ"
     },
     {
       "added_at": "2025-11-14 17:00:34",

@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-185 songs - 9 hr 27 min
+186 songs - 9 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -25,7 +25,8 @@
 | [ayome:\(](https://open.spotify.com/track/0IuAORGq91sGW9JukxTwMc) | [Ryan Castro](https://open.spotify.com/artist/7j6DKwmjbxvpQO8h914uEz), [The Prodigiez](https://open.spotify.com/artist/0ITff7REwQrTAlu9HsiWQT) | [SENDÉ](https://open.spotify.com/album/31y7z1FuIhCugObdlkkN0c) | 2:07 | 2025-11-07 |  |
 | [Baby \(with Lunay\)](https://open.spotify.com/track/6ugjN0o83xmdkU0wePmFfw) | [YOVNGCHIMI](https://open.spotify.com/artist/4aSlfXDn9R60UlbZEboBUy), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [WLGS](https://open.spotify.com/album/3qbKnuefZWSTgmQxlvDKVb) | 2:56 | 2025-11-07 |  |
 | [Back for More \(with Anitta\)](https://open.spotify.com/track/6uTPA1xlcsk6dbchB2dhzl) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Back for More \(with Anitta\)](https://open.spotify.com/album/5zhfCotijpaEJfQNVAC8mV) | 2:11 | 2025-11-07 |  |
-| [BbY WOW](https://open.spotify.com/track/4LxvLjzwTX3gLSlWfDOq26) | [Infound](https://open.spotify.com/artist/4afypHPOzDGPUgFb5NUvR0) | [BbY WOW](https://open.spotify.com/album/1xUMnBY6y9Cr03ifTEeLLv) | 2:02 | 2026-09-18 |  |
+| [Bby Wow](https://open.spotify.com/track/3Spvhpwuve2sQVtNMwZKSU) | [Facu Sanchez](https://open.spotify.com/artist/06ZoIY0fIJCba5QICxblJG) | [Bby Wow](https://open.spotify.com/album/6OXQ6XF2mBdL7gyg9wHh94) | 2:15 | 2026-09-20 |  |
+| [BbY WOW](https://open.spotify.com/track/4LxvLjzwTX3gLSlWfDOq26) | [Infound](https://open.spotify.com/artist/4afypHPOzDGPUgFb5NUvR0) | [BbY WOW](https://open.spotify.com/album/1xUMnBY6y9Cr03ifTEeLLv) | 2:02 | 2026-09-18 | 2026-09-21 |
 | [Bebé no cambies tú](https://open.spotify.com/track/26OpmSF2NBuNokJhqrbQnE) | [Carín León](https://open.spotify.com/artist/66ihevNkSYNzRAl44dx6jJ) | [Boca Chueca, Vol\. 1](https://open.spotify.com/album/5wkYyTtAUS2Wi6pHYpdsSU) | 2:51 | 2025-11-07 |  |
 | [Besito De 3](https://open.spotify.com/track/18EYvHAcjYa6M06nwRmk2a) | [Venesti](https://open.spotify.com/artist/50oHbeWPotfWlzdi4bojSU) | [De La Nada](https://open.spotify.com/album/4jKwM7c7M4nVravIlgM7im) | 2:08 | 2025-11-07 |  |
 | [Bloqueau](https://open.spotify.com/track/6qbGnfhExKzOlAXW2PszfO) | [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz) | [EL SOBREVIVIENTE WWW](https://open.spotify.com/album/1GczTJTAoJSPILp7gEMEfS) | 3:18 | 2026-01-24 |  |

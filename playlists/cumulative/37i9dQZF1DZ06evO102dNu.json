@@ -207,6 +207,24 @@
     },
     {
       "album": {
+        "name": "Come Fly With Me / Luck Be A Lady (Live)",
+        "url": "https://open.spotify.com/album/1qJAEXQIoGiToxYEIx1udq"
+      },
+      "artists": [
+        {
+          "name": "Frank Sinatra",
+          "url": "https://open.spotify.com/artist/1Mxqyy3pSjf8kZZL4QVxS0"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225400,
+      "name": "Come Fly With Me - Live At The Sands, Las Vegas, NV / January 29, 1966 / First Show",
+      "url": "https://open.spotify.com/track/0VX3eEGof7eeoGVQ6MqmDt"
+    },
+    {
+      "album": {
         "name": "Come Fly With Me (Expanded Edition)",
         "url": "https://open.spotify.com/album/66v9QmjAj0Wwhh2OpbU4BE"
       },
@@ -218,7 +236,7 @@
       ],
       "date_added": "2024-11-30",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 199093,
       "name": "Come Fly With Me - Remastered 1998",
       "url": "https://open.spotify.com/track/4hHbeIIKO5Y5uLyIEbY9Gn"

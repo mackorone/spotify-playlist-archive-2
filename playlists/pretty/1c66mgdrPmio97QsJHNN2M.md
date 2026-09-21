@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,960 likes - 216 songs - 11 hr 32 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,962 likes - 217 songs - 11 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -224,5 +224,6 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 214 | [WARNING](https://open.spotify.com/track/1XAymPdjKe5BhcRblNExsX) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [WARNING](https://open.spotify.com/album/3pwrFb9IheebnknYXKNxCI) | 3:05 |
 | 215 | [Letter to God](https://open.spotify.com/track/6dwHAKKtoPSWj5im7ojzIu) | [Dhixxo](https://open.spotify.com/artist/2OhHSxyxyIwjDNk5H8983a) | [Letter to God](https://open.spotify.com/album/0iGnnNCm6feL9XtxO5sVZx) | 2:21 |
 | 216 | [Forgotten Feelings](https://open.spotify.com/track/5ttaFygpb9JDeAJDOEbSON) | [O.a.G.](https://open.spotify.com/artist/6bTy0eTAe3oX7kxsErjfvN) | [Forgotten Feelings](https://open.spotify.com/album/6PeqD7wdIYkjaItFA6dIhe) | 3:35 |
+| 217 | [Shine Your Light](https://open.spotify.com/track/5vBTfGSVuiHyGjPCH21yZC) | [Tiny Rock Star Kids](https://open.spotify.com/artist/20gSn3431k1lhQLMHgWfsO) | [Shine Your Light](https://open.spotify.com/album/5Hg07qsAbxSvi0oiOMrJpw) | 3:15 |
 
-Snapshot ID: `AAA8d5aDv0rXg3CsOgQWjYGE9ifQY+Wq`
+Snapshot ID: `AAA8eEbX9rOH2SJERTFnt8ScsvKvpHuH`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7XU62MBK0OR.md) - [plain]
 
 > The official Bluey Playtime Playlist! Fun, feel\-good songs for every game, adventure and dance mode moment.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,552 likes - 30 songs - 1 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,937 likes - 30 songs - 1 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

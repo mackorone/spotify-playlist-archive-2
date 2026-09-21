@@ -1,13 +1,33 @@
 {
   "description": "FurryRadio.com, furry music for furs, by furs.",
-  "num_followers": 1227,
+  "num_followers": 1228,
   "original_name": "FURRY RADIO",
   "owner": {
     "name": "Zunkz",
     "url": "https://open.spotify.com/user/21ojyqenqyu63axkiblipyqya"
   },
-  "snapshot_id": "AAAFzKFu2WWVK7TyGFAjgUn/0wXUK84D",
+  "snapshot_id": "AAAFz/W+3Abhvh0nZZzw06eO4EL4X/tu",
   "tracks": [
+    {
+      "added_at": "2026-09-20 15:32:43",
+      "album": {
+        "name": "SOUNDBLAST EP",
+        "url": "https://open.spotify.com/album/0clDQUmIQ3Em3I0mGt9M3M"
+      },
+      "artists": [
+        {
+          "name": "MrKoolTrix",
+          "url": "https://open.spotify.com/artist/1FwT1hBOkIAfg3fXFo0J3x"
+        },
+        {
+          "name": "Niic",
+          "url": "https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM"
+        }
+      ],
+      "duration_ms": 290571,
+      "name": "Sign My Heart Away",
+      "url": "https://open.spotify.com/track/68r6xq0n43NJBXSDjhugs2"
+    },
     {
       "added_at": "2026-09-17 16:20:11",
       "album": {

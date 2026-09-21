@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 
 > bailando en el antro con Marcos Villalobos y Martinwhite hasta el amanecer
 
-[Spotify](https://open.spotify.com/user/spotify) - 24,740 likes - 80 songs - 3 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 24,739 likes - 80 songs - 3 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 45 | [bellaka](https://open.spotify.com/track/3SXcjqgF74D9saMLxD9GGC) | [EMJAY](https://open.spotify.com/artist/5TtCVmeuicGu9EIwiFQcyn) | [Confesiones de las que me voy a arrepentir](https://open.spotify.com/album/5OFNXI0QU9h4LTj9FIlTqE) | 2:40 |
 | 46 | [Loco Contigo](https://open.spotify.com/track/1jStUvWUJi2tSbWzZ2IjcS) | [DENNIS](https://open.spotify.com/artist/6xlRSRMLgZbsSNd0BMobwy), [L7NNON](https://open.spotify.com/artist/0JjPiLQNgAFaEkwoy56B1C), [Beéle](https://open.spotify.com/artist/7a0XAaPaK2aDSqa8p3QnC7) | [Loco Contigo](https://open.spotify.com/album/6K1zeBOnzT2Yl20rY0vVvp) | 2:48 |
 | 47 | [Millonari](https://open.spotify.com/track/4bUZERmbU1gjvQlGv5JKSb) | [Fito Silva](https://open.spotify.com/artist/4tHa8OTperDggyxlVjnB64), [Cachirula](https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G), [LOOJAN](https://open.spotify.com/artist/7lXN2zsTNeVB1MM7rIrWnI) | [Millonari](https://open.spotify.com/album/6A7j3iU4dHUmnLeRANOpio) | 2:36 |
-| 48 | [betty boop](https://open.spotify.com/track/6BPb0paX49gCXAO0BPytiL) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [Lidanza](https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y) | [betty boop](https://open.spotify.com/album/3IBmnh1aOLBHUfwHfuHrLt) | 2:36 |
-| 49 | [AMNESIA](https://open.spotify.com/track/1ymc98fp75ggtCsQ74uYoT) | [Félix Vestre](https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [ITALO MIXTAPE VOL\. 3](https://open.spotify.com/album/2LHWy7BA83xWm1kePTdiMK) | 2:47 |
+| 48 | [AMNESIA](https://open.spotify.com/track/1ymc98fp75ggtCsQ74uYoT) | [Félix Vestre](https://open.spotify.com/artist/5G6MDceucqUd5LBH2wOlpb), [Slow Jamz](https://open.spotify.com/artist/5OxY89csMbfechtyR7EX4o) | [ITALO MIXTAPE VOL\. 3](https://open.spotify.com/album/2LHWy7BA83xWm1kePTdiMK) | 2:47 |
+| 49 | [betty boop](https://open.spotify.com/track/6BPb0paX49gCXAO0BPytiL) | [STRANGEHUMAN](https://open.spotify.com/artist/0MlQeZCQnaFSGv9gRiE1rD), [Lidanza](https://open.spotify.com/artist/5DQI4y2nm1O1MKtVZFL61y) | [betty boop](https://open.spotify.com/album/3IBmnh1aOLBHUfwHfuHrLt) | 2:36 |
 | 50 | [OBVIAMENTE!](https://open.spotify.com/track/1w53VeDC57O0jNw7Hfb9Q7) | [RIXXIA](https://open.spotify.com/artist/3hYqpAsKi9wuhkkFNwdihn), [Maria Daniela Y Su Sonido Lasser](https://open.spotify.com/artist/077cgSU8i5wTnz5lZGQ7z4) | [NO LO ENtENDERÍAS!](https://open.spotify.com/album/3LFli0vb9jOAyL3cxknDak) | 2:28 |
 | 51 | [LA CONOCÍ EN UN pERREO](https://open.spotify.com/track/5uS0SFEc5fGcHAfqqXCWCE) | [Neisan](https://open.spotify.com/artist/0WwYuArR76kC6JxhmwzRNG) | [LA CONOCÍ EN UN pERREO](https://open.spotify.com/album/2gp9sDhMjTK2zZiWnga0zE) | 2:48 |
 | 52 | [Niña Bien \(SLS\-007\)](https://open.spotify.com/track/7yt5TPj7jGPs09iITMzAuw) | [Sheeno](https://open.spotify.com/artist/6f6NTISF0XjjlUxEmdXizO), [Grupo Marca Registrada](https://open.spotify.com/artist/1gW6pz5n1aK249L0GvfQCC) | [Niña Bien \(SLS\-007\)](https://open.spotify.com/album/7dKqAaRmVVghVq4iqSOnYa) | 2:13 |
@@ -86,7 +86,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUdsUUs0FzN4.md) - [plain]
 | 76 | [Mirando La Luna](https://open.spotify.com/track/15yszUKTD6eJGFIEvDR6m5) | [Karlo](https://open.spotify.com/artist/4XAeQuunl5LfJ0T0oldlnL), [Seven Kayne](https://open.spotify.com/artist/4C29ETLBPmYKYwtJUepbJz) | [Mirando La Luna](https://open.spotify.com/album/34gFohcqtnjgqRdOgQ2htm) | 3:31 |
 | 77 | [NÃO TEM FIN \(garota fav\)](https://open.spotify.com/track/7DPnyFu4HRTC2KkAYV6KH1) | [TAICHU](https://open.spotify.com/artist/3ou3XMRNmyDSy6gnC1bSgN) | [HOTCORE](https://open.spotify.com/album/74nnCDVDlxRljxy32H3YXB) | 2:43 |
 | 78 | [ENTE VIRTUAL](https://open.spotify.com/track/3C03edn86LdGuAMO3bIDqr) | [Chzter](https://open.spotify.com/artist/5aIzq2RvChAJtWFwOBNxDj), [Tzunami](https://open.spotify.com/artist/2cBbmcVOi87IB5bpl05Hv8), [Doony Graff](https://open.spotify.com/artist/07yMfbKCotpnWFjCkxPYt0) | [ENTE VIRTUAL](https://open.spotify.com/album/0b99jXx0r365IFJFdsaf6I) | 2:09 |
-| 79 | [Shippeo](https://open.spotify.com/track/0Fpf1FiEbWfr8rPWmibpLE) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Shippeo](https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp) | 2:35 |
-| 80 | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP) | [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j) | 2:27 |
+| 79 | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/track/6XIe5UZSwsdgtuSTLuWlBP) | [VV Brujo](https://open.spotify.com/artist/3tshgsRowrEseqRaguXfZR), [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3) | [No puedo estar aquí \(feat\. iza tkm\)](https://open.spotify.com/album/5ZLQVx0ai0on6tKN7FMv6j) | 2:27 |
+| 80 | [Shippeo](https://open.spotify.com/track/0Fpf1FiEbWfr8rPWmibpLE) | [Lalo Ebratt](https://open.spotify.com/artist/1GAymyGBvB4gQy5Z5LZ1Wj) | [Shippeo](https://open.spotify.com/album/4DhwrVu3V0UOIZKWCW10pp) | 2:35 |
 
 Snapshot ID: `AAAAAHZiNJHCEKqJ28YOQOiO5d0GsQaI`

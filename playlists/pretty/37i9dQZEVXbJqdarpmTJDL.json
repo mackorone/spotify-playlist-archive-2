@@ -1,31 +1,15 @@
 {
   "description": "Your daily update of the most played tracks right now - Greece.",
-  "num_followers": 147892,
+  "num_followers": 147959,
   "original_name": "Top 50 - Greece",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "MkIEAAAAAAAAAAAAAAAAAAAAAAAAAGVu",
+  "snapshot_id": "MkNVgAAAAAAAAAAAAAAAAAAAAAAAAGVu",
   "tracks": [
     {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "Pablona",
-        "url": "https://open.spotify.com/album/3ROXcwiopPy86F6moFhvvM"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        }
-      ],
-      "duration_ms": 171866,
-      "name": "Pablona",
-      "url": "https://open.spotify.com/track/1V01boZorT3QjQEa0xVUnT"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Agapo Simeni",
         "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
@@ -41,7 +25,23 @@
       "url": "https://open.spotify.com/track/4URIs3gEDgakPiGq8bhe1G"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "Pablona",
+        "url": "https://open.spotify.com/album/3ROXcwiopPy86F6moFhvvM"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        }
+      ],
+      "duration_ms": 171866,
+      "name": "Pablona",
+      "url": "https://open.spotify.com/track/1V01boZorT3QjQEa0xVUnT"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Agapo Simeni",
         "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
@@ -57,23 +57,7 @@
       "url": "https://open.spotify.com/track/62sRtKxGqaK0Nxy4LlWO47"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "Me Ta Matia Na To Les",
-        "url": "https://open.spotify.com/album/2TSaSEJmIObkh3gF7y1M8t"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 223906,
-      "name": "Aniko Se Mena",
-      "url": "https://open.spotify.com/track/2LC4MTEaG75Gz4HDT568C2"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Agapo Simeni",
         "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
@@ -89,27 +73,23 @@
       "url": "https://open.spotify.com/track/1ANPH4P1vGm6ACBtlXjMXv"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
-        "name": "Metallo",
-        "url": "https://open.spotify.com/album/3EvE2PyxJvpHnSkPx3DEQh"
+        "name": "Me Ta Matia Na To Les",
+        "url": "https://open.spotify.com/album/2TSaSEJmIObkh3gF7y1M8t"
       },
       "artists": [
         {
-          "name": "Sadam",
-          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
-        },
-        {
-          "name": "Dof Twogee",
-          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 196250,
-      "name": "Metallo",
-      "url": "https://open.spotify.com/track/0BpWJbKD6OmAXO9tEpcJm0"
+      "duration_ms": 223906,
+      "name": "Aniko Se Mena",
+      "url": "https://open.spotify.com/track/2LC4MTEaG75Gz4HDT568C2"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Romeo II",
         "url": "https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e"
@@ -129,7 +109,7 @@
       "url": "https://open.spotify.com/track/7h1NvRW2thbYlh0esXXORO"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
         "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
@@ -145,55 +125,27 @@
       "url": "https://open.spotify.com/track/33RFyLDmblI628Ny8qP8uq"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
-        "name": "I TRIED",
-        "url": "https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH"
+        "name": "Metallo",
+        "url": "https://open.spotify.com/album/3EvE2PyxJvpHnSkPx3DEQh"
       },
       "artists": [
         {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        }
-      ],
-      "duration_ms": 206769,
-      "name": "ORES",
-      "url": "https://open.spotify.com/track/4rXI3GKWppbWrlBckmSkFR"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
-        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
-      },
-      "artists": [
+          "name": "Sadam",
+          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
+        },
         {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+          "name": "Dof Twogee",
+          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
         }
       ],
-      "duration_ms": 253226,
-      "name": "Lipi Pali O Theos",
-      "url": "https://open.spotify.com/track/03W4etIBU1AlHxKEAdQkrO"
+      "duration_ms": 196250,
+      "name": "Metallo",
+      "url": "https://open.spotify.com/track/0BpWJbKD6OmAXO9tEpcJm0"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "Na Pernas",
-        "url": "https://open.spotify.com/album/5olEGV4JhNsWwvTzRbjHWS"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 261474,
-      "name": "Na Pernas",
-      "url": "https://open.spotify.com/track/4k4vVNDi90EXY62xvQLnq0"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "KONTAKIES",
         "url": "https://open.spotify.com/album/47NFudVv92RtY7SSgSDzEo"
@@ -209,10 +161,10 @@
       "url": "https://open.spotify.com/track/0oguLG6sMAtzEEzdZU8MoS"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
-        "name": "Agapo Simeni",
-        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
+        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
       },
       "artists": [
         {
@@ -220,40 +172,60 @@
           "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 269768,
-      "name": "Ena Thavma",
-      "url": "https://open.spotify.com/track/4oMBRSkdtjd5lZHi4zYvkp"
+      "duration_ms": 253226,
+      "name": "Lipi Pali O Theos",
+      "url": "https://open.spotify.com/track/03W4etIBU1AlHxKEAdQkrO"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
-        "name": "MASERATI",
-        "url": "https://open.spotify.com/album/3dAo7vfqWZB4F8apmxL2Jd"
+        "name": "Na Pernas",
+        "url": "https://open.spotify.com/album/5olEGV4JhNsWwvTzRbjHWS"
       },
       "artists": [
         {
-          "name": "DIFF",
-          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
-        },
-        {
-          "name": "2shots",
-          "url": "https://open.spotify.com/artist/0ZRgNmKNkngvESBVUqkICS"
-        },
-        {
-          "name": "Tr4cer",
-          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
-        },
-        {
-          "name": "Spize",
-          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 211789,
-      "name": "MASERATI",
-      "url": "https://open.spotify.com/track/4bnfWdcWyp5CEVnCg4jVxQ"
+      "duration_ms": 261474,
+      "name": "Na Pernas",
+      "url": "https://open.spotify.com/track/4k4vVNDi90EXY62xvQLnq0"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "I TRIED",
+        "url": "https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH"
+      },
+      "artists": [
+        {
+          "name": "Saske",
+          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
+        }
+      ],
+      "duration_ms": 206769,
+      "name": "ORES",
+      "url": "https://open.spotify.com/track/4rXI3GKWppbWrlBckmSkFR"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "ALL EYES ON ME",
+        "url": "https://open.spotify.com/album/4t9kZCsiJFmc30ppH7AtDC"
+      },
+      "artists": [
+        {
+          "name": "Kidd",
+          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
+        }
+      ],
+      "duration_ms": 141597,
+      "name": "ALL EYES ON ME",
+      "url": "https://open.spotify.com/track/4B9ea9mEIpJFGu9EM9OT6r"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
         "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
@@ -269,7 +241,23 @@
       "url": "https://open.spotify.com/track/0j7zV0njYYnzBGSZHcFCib"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 269768,
+      "name": "Ena Thavma",
+      "url": "https://open.spotify.com/track/4oMBRSkdtjd5lZHi4zYvkp"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
         "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
@@ -280,12 +268,12 @@
           "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 280360,
-      "name": "Apopse Tha Se Oneireuto",
-      "url": "https://open.spotify.com/track/4zELnzUP8uL9fNVRKmVoqW"
+      "duration_ms": 281443,
+      "name": "Diskola Feggaria",
+      "url": "https://open.spotify.com/track/3yKWUJSbDaJrgJWSu0ebAs"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "10 (PART 2)",
         "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
@@ -309,7 +297,7 @@
       "url": "https://open.spotify.com/track/3DqnrR1bD21LufNyXJLIsz"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
         "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
@@ -320,12 +308,48 @@
           "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 281443,
-      "name": "Diskola Feggaria",
-      "url": "https://open.spotify.com/track/3yKWUJSbDaJrgJWSu0ebAs"
+      "duration_ms": 280360,
+      "name": "Apopse Tha Se Oneireuto",
+      "url": "https://open.spotify.com/track/4zELnzUP8uL9fNVRKmVoqW"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "Romeo II",
+        "url": "https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e"
+      },
+      "artists": [
+        {
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+        },
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        }
+      ],
+      "duration_ms": 152100,
+      "name": "Katsiki",
+      "url": "https://open.spotify.com/track/1POfjcYxV9wQOErI1F8pkm"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
+        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 224760,
+      "name": "Kalos Sas Vrika",
+      "url": "https://open.spotify.com/track/1sYjOirECizcC30XWxmESF"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Mou Leipeis",
         "url": "https://open.spotify.com/album/0XdNttHRfSX645o1hivDcX"
@@ -341,7 +365,7 @@
       "url": "https://open.spotify.com/track/3pm4f3A7SUyBllj2LvvGZ2"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "RICH BEFORE DEATH",
         "url": "https://open.spotify.com/album/3VA73ZIe1fZsf3CXyVIvdN"
@@ -369,23 +393,7 @@
       "url": "https://open.spotify.com/track/0yOqiWYx9xb1DY4cRrzPX9"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
-        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 224760,
-      "name": "Kalos Sas Vrika",
-      "url": "https://open.spotify.com/track/1sYjOirECizcC30XWxmESF"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Romeo II",
         "url": "https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e"
@@ -396,36 +404,16 @@
           "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
         },
         {
-          "name": "RACK",
-          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+          "name": "Noizy",
+          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
         }
       ],
-      "duration_ms": 152100,
-      "name": "Katsiki",
-      "url": "https://open.spotify.com/track/1POfjcYxV9wQOErI1F8pkm"
+      "duration_ms": 159600,
+      "name": "Adam & Eve",
+      "url": "https://open.spotify.com/track/2lPnrDuvJUaMObjsISbGLz"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "Savvato",
-        "url": "https://open.spotify.com/album/4AVjT04M3gD4bpF4NRQbQd"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        },
-        {
-          "name": "Foivos",
-          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
-        }
-      ],
-      "duration_ms": 279133,
-      "name": "San Imouna Paidi",
-      "url": "https://open.spotify.com/track/2tNtc5xcZiQhGiy8dZBUzI"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Love, Rack.",
         "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
@@ -449,27 +437,7 @@
       "url": "https://open.spotify.com/track/1Dw8iGfsiO1GhA3zMmLrkA"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "Romeo II",
-        "url": "https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e"
-      },
-      "artists": [
-        {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
-        },
-        {
-          "name": "Noizy",
-          "url": "https://open.spotify.com/artist/2SabhGDiBSyaM6QSuBUVqB"
-        }
-      ],
-      "duration_ms": 159600,
-      "name": "Adam & Eve",
-      "url": "https://open.spotify.com/track/2lPnrDuvJUaMObjsISbGLz"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "VEGANZE",
         "url": "https://open.spotify.com/album/3gCixeUQEUORowiAA5zVqp"
@@ -493,7 +461,27 @@
       "url": "https://open.spotify.com/track/1m79Th6iG6CQDEym2EZFOo"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "Savvato",
+        "url": "https://open.spotify.com/album/4AVjT04M3gD4bpF4NRQbQd"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        },
+        {
+          "name": "Foivos",
+          "url": "https://open.spotify.com/artist/3ppjSilJ2mCYvCq2iiU1Vn"
+        }
+      ],
+      "duration_ms": 279133,
+      "name": "San Imouna Paidi",
+      "url": "https://open.spotify.com/track/2tNtc5xcZiQhGiy8dZBUzI"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "SNIK X TRANNOS",
         "url": "https://open.spotify.com/album/7xe9ZWRqgcJW2cXoImcKZl"
@@ -513,23 +501,7 @@
       "url": "https://open.spotify.com/track/5XM5BN2S3HLTaK4wvC7RZe"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "10 (PART 2)",
-        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        }
-      ],
-      "duration_ms": 196540,
-      "name": "VACE ZELA",
-      "url": "https://open.spotify.com/track/5h9COSkzE50NuqfLlYOaWg"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "10 (PART 2)",
         "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
@@ -549,23 +521,71 @@
       "url": "https://open.spotify.com/track/7H1UWowk8Dd2DLu0oAQEX1"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
-        "name": "Romeo II",
-        "url": "https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e"
+        "name": "10 (PART 2)",
+        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
       },
       "artists": [
         {
-          "name": "Light",
-          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
         }
       ],
-      "duration_ms": 156000,
-      "name": "Idi Amin",
-      "url": "https://open.spotify.com/track/2HxQy2utAbJHfS5xBXBvsD"
+      "duration_ms": 196540,
+      "name": "VACE ZELA",
+      "url": "https://open.spotify.com/track/5h9COSkzE50NuqfLlYOaWg"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "APROVEITAR",
+        "url": "https://open.spotify.com/album/0tyHixYvJo5yJehmmrXLRn"
+      },
+      "artists": [
+        {
+          "name": "SNIK",
+          "url": "https://open.spotify.com/artist/6wN4QyhoM6fN49kEB25rnl"
+        },
+        {
+          "name": "MC Menor JP",
+          "url": "https://open.spotify.com/artist/7mnSf7ctK2nPCEI781P1wU"
+        },
+        {
+          "name": "VISIONARE",
+          "url": "https://open.spotify.com/artist/1crOVABMVKHRzLkHZZ1zUD"
+        },
+        {
+          "name": "Finesse",
+          "url": "https://open.spotify.com/artist/3GWuJyC9r6Ug0F6jeLzTpY"
+        }
+      ],
+      "duration_ms": 156992,
+      "name": "APROVEITAR",
+      "url": "https://open.spotify.com/track/59M9N7qMNKo95G22Wb3Rly"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "The Duets",
+        "url": "https://open.spotify.com/album/670ix1c6rtyaqRjUdRUQLK"
+      },
+      "artists": [
+        {
+          "name": "Goin' Through",
+          "url": "https://open.spotify.com/artist/5QAp0ErwctTK9NhY9F0TuU"
+        },
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 259160,
+      "name": "Thelo Na Gyriso (feat. Giorgos Mazonakis)",
+      "url": "https://open.spotify.com/track/1qeTn4M8h8IJpyVz9mfJDK"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Ta Kalitera",
         "url": "https://open.spotify.com/album/4fKpKe1WA0jInmJrXL2JnG"
@@ -581,7 +601,7 @@
       "url": "https://open.spotify.com/track/3a6AfLaxOJB6hb6ev0fJpm"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "maZW Akoma (Ola Mou Ta Thelo)",
         "url": "https://open.spotify.com/album/3mLP9WM6GglShWbaMbYsPS"
@@ -597,7 +617,7 @@
       "url": "https://open.spotify.com/track/49OvjhB5rxkF7KzfTEk9ri"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "10 (PART 2)",
         "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
@@ -621,7 +641,7 @@
       "url": "https://open.spotify.com/track/63mi2Pc1CeDGjNWUn7Rn1h"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "10 (PART 2)",
         "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
@@ -645,127 +665,23 @@
       "url": "https://open.spotify.com/track/3VafqbZuWdp6W7UribBHyb"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
-        "name": "The Duets",
-        "url": "https://open.spotify.com/album/670ix1c6rtyaqRjUdRUQLK"
+        "name": "Romeo II",
+        "url": "https://open.spotify.com/album/2xKaXgSdyDa8ruGuPN0Y3e"
       },
       "artists": [
         {
-          "name": "Goin' Through",
-          "url": "https://open.spotify.com/artist/5QAp0ErwctTK9NhY9F0TuU"
-        },
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+          "name": "Light",
+          "url": "https://open.spotify.com/artist/1UdbiTrv73Dp7F0s3OHmn2"
         }
       ],
-      "duration_ms": 259160,
-      "name": "Thelo Na Gyriso (feat. Giorgos Mazonakis)",
-      "url": "https://open.spotify.com/track/1qeTn4M8h8IJpyVz9mfJDK"
+      "duration_ms": 156000,
+      "name": "Idi Amin",
+      "url": "https://open.spotify.com/track/2HxQy2utAbJHfS5xBXBvsD"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "ALL EYES ON ME",
-        "url": "https://open.spotify.com/album/4t9kZCsiJFmc30ppH7AtDC"
-      },
-      "artists": [
-        {
-          "name": "Kidd",
-          "url": "https://open.spotify.com/artist/1RqOmrtivmvKrfBO81j1ou"
-        }
-      ],
-      "duration_ms": 141597,
-      "name": "ALL EYES ON ME",
-      "url": "https://open.spotify.com/track/4B9ea9mEIpJFGu9EM9OT6r"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "To Paraxeno Me Mena",
-        "url": "https://open.spotify.com/album/5WTfJJrkGpfNC84T9ioBvf"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 281729,
-      "name": "To Paraxeno Me Mena",
-      "url": "https://open.spotify.com/track/3WHP5PEzWjuZXoR8LK1eZi"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "Epiptoseis",
-        "url": "https://open.spotify.com/album/50c14vft7AEMFS3I9AcHPu"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 196778,
-      "name": "Epiptoseis",
-      "url": "https://open.spotify.com/track/6dvpB2MjuzciJGECODPQdP"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "Agapo Simeni",
-        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 217280,
-      "name": "Tosa Vradia",
-      "url": "https://open.spotify.com/track/2coEFYixErCzfLBZlJgkvC"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "Agapo Simeni",
-        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
-      },
-      "artists": [
-        {
-          "name": "Giorgos Mazonakis",
-          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
-        }
-      ],
-      "duration_ms": 237816,
-      "name": "Dianikterevo",
-      "url": "https://open.spotify.com/track/6Dit1erL7lMDu8Y2E8aUnR"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "10 (PART 2)",
-        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
-      },
-      "artists": [
-        {
-          "name": "TOQUEL",
-          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
-        },
-        {
-          "name": "ObieDaz",
-          "url": "https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP"
-        }
-      ],
-      "duration_ms": 146400,
-      "name": "A$$AP",
-      "url": "https://open.spotify.com/track/7v1BQ1smP2OnG8HpaLzKkg"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "10",
         "url": "https://open.spotify.com/album/2Gp2xWRr2pRQYGG6Zc91S0"
@@ -789,10 +705,38 @@
       "url": "https://open.spotify.com/track/1fVMxUXpzDQCBxmdn0GClq"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
-        "name": "Ta Isia Anapoda",
-        "url": "https://open.spotify.com/album/7jmBZ2HsLdfSmVbAufYtDE"
+        "name": "MASERATI",
+        "url": "https://open.spotify.com/album/3dAo7vfqWZB4F8apmxL2Jd"
+      },
+      "artists": [
+        {
+          "name": "DIFF",
+          "url": "https://open.spotify.com/artist/4rtNK25TiSGNcibilGWcQK"
+        },
+        {
+          "name": "2shots",
+          "url": "https://open.spotify.com/artist/0ZRgNmKNkngvESBVUqkICS"
+        },
+        {
+          "name": "Tr4cer",
+          "url": "https://open.spotify.com/artist/1pujt2kEecz5ystwtZxJ0w"
+        },
+        {
+          "name": "Spize",
+          "url": "https://open.spotify.com/artist/35k7GJlhaFK7qHpOJ1JWbm"
+        }
+      ],
+      "duration_ms": 211789,
+      "name": "MASERATI",
+      "url": "https://open.spotify.com/track/4bnfWdcWyp5CEVnCg4jVxQ"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
       },
       "artists": [
         {
@@ -800,15 +744,15 @@
           "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 261328,
-      "name": "Stigmes Pou De S'eho (Duvar)",
-      "url": "https://open.spotify.com/track/7miJgzcdCPfS7OZTx4LIPX"
+      "duration_ms": 217280,
+      "name": "Tosa Vradia",
+      "url": "https://open.spotify.com/track/2coEFYixErCzfLBZlJgkvC"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
-        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
-        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
+        "name": "Agapo Simeni",
+        "url": "https://open.spotify.com/album/0pFh70IQ3015QiJ83vU49E"
       },
       "artists": [
         {
@@ -816,12 +760,64 @@
           "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 268120,
-      "name": "Ela Na Deis",
-      "url": "https://open.spotify.com/track/2fRrLeMXfMqmoHBTTXNJsX"
+      "duration_ms": 237816,
+      "name": "Dianikterevo",
+      "url": "https://open.spotify.com/track/6Dit1erL7lMDu8Y2E8aUnR"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "To Paraxeno Me Mena",
+        "url": "https://open.spotify.com/album/5WTfJJrkGpfNC84T9ioBvf"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 281729,
+      "name": "To Paraxeno Me Mena",
+      "url": "https://open.spotify.com/track/3WHP5PEzWjuZXoR8LK1eZi"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "Epiptoseis",
+        "url": "https://open.spotify.com/album/50c14vft7AEMFS3I9AcHPu"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 196778,
+      "name": "Epiptoseis",
+      "url": "https://open.spotify.com/track/6dvpB2MjuzciJGECODPQdP"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "10 (PART 2)",
+        "url": "https://open.spotify.com/album/0GBxMmpAJjIoOVc4KsSY7X"
+      },
+      "artists": [
+        {
+          "name": "TOQUEL",
+          "url": "https://open.spotify.com/artist/7AWAljMatr7bxddF4kWzXG"
+        },
+        {
+          "name": "ObieDaz",
+          "url": "https://open.spotify.com/artist/08GTkgJXi9tedLqjbLDLCP"
+        }
+      ],
+      "duration_ms": 146400,
+      "name": "A$$AP",
+      "url": "https://open.spotify.com/track/7v1BQ1smP2OnG8HpaLzKkg"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "Love, Rack.",
         "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
@@ -845,38 +841,10 @@
       "url": "https://open.spotify.com/track/6tPJmvHpENCJTsp6zA13vT"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
-        "name": "SKGOTHAM",
-        "url": "https://open.spotify.com/album/0FrsHsbVy6Dl8GcB7pwicj"
-      },
-      "artists": [
-        {
-          "name": "Tsaki",
-          "url": "https://open.spotify.com/artist/2S6IpjPbMmKLJMhUJCIFMB"
-        },
-        {
-          "name": "Sadam",
-          "url": "https://open.spotify.com/artist/5svarA8QyRUWetgH9ZouQq"
-        },
-        {
-          "name": "Dof Twogee",
-          "url": "https://open.spotify.com/artist/1OJxI4NQfY6osMvhfRMMEX"
-        },
-        {
-          "name": "Base",
-          "url": "https://open.spotify.com/artist/2wrnsrP6Do5BeOHINeeyWL"
-        }
-      ],
-      "duration_ms": 200333,
-      "name": "AYTO ME TON SADAM",
-      "url": "https://open.spotify.com/track/7aLH0PAEjMkNwEaoJV9xhm"
-    },
-    {
-      "added_at": "2026-09-19 13:34:12",
-      "album": {
-        "name": "Mou Leipeis",
-        "url": "https://open.spotify.com/album/0XdNttHRfSX645o1hivDcX"
+        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
+        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
       },
       "artists": [
         {
@@ -884,12 +852,28 @@
           "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 214066,
-      "name": "Fevgo Gia Mena",
-      "url": "https://open.spotify.com/track/05vT4vR55Z3ToRQJf3KYCn"
+      "duration_ms": 268120,
+      "name": "Ela Na Deis",
+      "url": "https://open.spotify.com/track/2fRrLeMXfMqmoHBTTXNJsX"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "Ta Isia Anapoda",
+        "url": "https://open.spotify.com/album/7jmBZ2HsLdfSmVbAufYtDE"
+      },
+      "artists": [
+        {
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
+        }
+      ],
+      "duration_ms": 261328,
+      "name": "Stigmes Pou De S'eho (Duvar)",
+      "url": "https://open.spotify.com/track/7miJgzcdCPfS7OZTx4LIPX"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
       "album": {
         "name": "I TRIED",
         "url": "https://open.spotify.com/album/6QjDV61w6mj0M8qqQqOJfH"
@@ -909,48 +893,64 @@
       "url": "https://open.spotify.com/track/5pq1eF1UTIXzUHjDVbv32f"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
-        "name": "Xeno Nisi",
-        "url": "https://open.spotify.com/album/4kgB71eDE1trY21XdcARR5"
+        "name": "Mou Leipeis",
+        "url": "https://open.spotify.com/album/0XdNttHRfSX645o1hivDcX"
       },
       "artists": [
         {
-          "name": "JOJO",
-          "url": "https://open.spotify.com/artist/7y3Vc1nVxf9MK2BXv5G3ul"
-        },
-        {
-          "name": "Saske",
-          "url": "https://open.spotify.com/artist/1LxWE4LOhnqeaAx2tVUK6p"
-        },
-        {
-          "name": "Oge",
-          "url": "https://open.spotify.com/artist/5NFeyNwaFGFHFycOg6zvs9"
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 169523,
-      "name": "Xeno Nisi",
-      "url": "https://open.spotify.com/track/7yzcbzhDUt0MACVK6uEz6f"
+      "duration_ms": 214066,
+      "name": "Fevgo Gia Mena",
+      "url": "https://open.spotify.com/track/05vT4vR55Z3ToRQJf3KYCn"
     },
     {
-      "added_at": "2026-09-19 13:34:12",
+      "added_at": "2026-09-20 13:52:20",
       "album": {
-        "name": "CRETA",
-        "url": "https://open.spotify.com/album/4T9u56ShMRuyIAfeX5j7OJ"
+        "name": "Me Lene Giorgo, 20 Xronia Giorgos Mazonakis (2002-2013)",
+        "url": "https://open.spotify.com/album/4eksvrTCLm08Z9rJljxzBP"
       },
       "artists": [
         {
-          "name": "Likeboss",
-          "url": "https://open.spotify.com/artist/5gw7flNXQt0oQ5taY1as73"
-        },
-        {
-          "name": "Paris Kalpos",
-          "url": "https://open.spotify.com/artist/63z0gOosInxV2a7J8UPDzM"
+          "name": "Giorgos Mazonakis",
+          "url": "https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK"
         }
       ],
-      "duration_ms": 135272,
-      "name": "CRETA",
-      "url": "https://open.spotify.com/track/5nj63xdbymspnKmHC5isVZ"
+      "duration_ms": 320586,
+      "name": "To Gucci Forema",
+      "url": "https://open.spotify.com/track/4lCRX28Mg4THeZ70wyqi2U"
+    },
+    {
+      "added_at": "2026-09-20 13:52:20",
+      "album": {
+        "name": "Love, Rack.",
+        "url": "https://open.spotify.com/album/71OmR1jsVbmkUt0LGhZFdu"
+      },
+      "artists": [
+        {
+          "name": "RACK",
+          "url": "https://open.spotify.com/artist/6YYOTK6Qyv6PuFipPxCCoe"
+        },
+        {
+          "name": "LILA",
+          "url": "https://open.spotify.com/artist/69EosSfMcqIxCMw7VeVPVC"
+        },
+        {
+          "name": "Beyond",
+          "url": "https://open.spotify.com/artist/7KcIok6StqYSedgtjmtsqP"
+        },
+        {
+          "name": "Sin Laurent",
+          "url": "https://open.spotify.com/artist/6OBgaDVTONTa4rkGpE7sVE"
+        }
+      ],
+      "duration_ms": 169485,
+      "name": "THALASSA AKRIVI",
+      "url": "https://open.spotify.com/track/4acmCWFp0K23UfX89ZqxR6"
     }
   ],
   "unique_name": "Top 50 - Greece",

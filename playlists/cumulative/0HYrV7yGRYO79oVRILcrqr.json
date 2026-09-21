@@ -723,6 +723,24 @@
     },
     {
       "album": {
+        "name": "And I",
+        "url": "https://open.spotify.com/album/3TMufmZ9VQZbJf5oTyNsdC"
+      },
+      "artists": [
+        {
+          "name": "Ramblings of Mad Men",
+          "url": "https://open.spotify.com/artist/75HRhhpgS05x2R6YVGihyv"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281421,
+      "name": "And I",
+      "url": "https://open.spotify.com/track/5voWbOW9uiUxyY8Dc5SzPk"
+    },
+    {
+      "album": {
         "name": "Melodia: Ch.5-6",
         "url": "https://open.spotify.com/album/2hQrBV27jVEfYnFkAaGLiO"
       },

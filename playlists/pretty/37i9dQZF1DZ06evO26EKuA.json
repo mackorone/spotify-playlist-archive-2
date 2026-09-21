@@ -1,12 +1,12 @@
 {
   "description": "This is Valent\u00edn Elizalde. The essential tracks, all in one playlist.",
-  "num_followers": 477633,
+  "num_followers": 477672,
   "original_name": "This Is Valent\u00edn Elizalde",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAADBmHMg7S04tAX4F07X8JTx",
+  "snapshot_id": "aq3QgAAAAAA7eLaElcgbp2hba2Q87lbP",
   "tracks": [
     {
       "added_at": null,
@@ -448,9 +448,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 169600,
-      "name": "Ni Dada La Quiero",
-      "url": "https://open.spotify.com/track/7rBuDjBKbF7Ld0FEbepGy4"
+      "duration_ms": 179000,
+      "name": "La Playa",
+      "url": "https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ"
     },
     {
       "added_at": null,
@@ -471,22 +471,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos Entre Amigos",
-        "url": "https://open.spotify.com/album/5agaJQWKkXpk8wESkYJPeo"
-      },
-      "artists": [
-        {
-          "name": "Valent\u00edn Elizalde",
-          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
-        }
-      ],
-      "duration_ms": 173680,
-      "name": "118 Balazos",
-      "url": "https://open.spotify.com/track/58J0a3eXA1BtCODfBVwOIe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sin Censura Su \u00daltimo Concierto (En Vivo Desde Los Angeles CA, 2006 / Componente 2)",
         "url": "https://open.spotify.com/album/509Khys7Q3ZDhPuGaDL11p"
       },
@@ -503,6 +487,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Corridos Entre Amigos",
+        "url": "https://open.spotify.com/album/5agaJQWKkXpk8wESkYJPeo"
+      },
+      "artists": [
+        {
+          "name": "Valent\u00edn Elizalde",
+          "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
+        }
+      ],
+      "duration_ms": 173680,
+      "name": "118 Balazos",
+      "url": "https://open.spotify.com/track/58J0a3eXA1BtCODfBVwOIe"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Regresan Los Mafiosos",
         "url": "https://open.spotify.com/album/6t1A1wEKK74pqQkS06OTzY"
       },
@@ -512,9 +512,9 @@
           "url": "https://open.spotify.com/artist/3CAhiUHkUYT1mFtVHM9SHA"
         }
       ],
-      "duration_ms": 179000,
-      "name": "La Playa",
-      "url": "https://open.spotify.com/track/4I2uRBguWbYidzYUdTjKxZ"
+      "duration_ms": 169600,
+      "name": "Ni Dada La Quiero",
+      "url": "https://open.spotify.com/track/7rBuDjBKbF7Ld0FEbepGy4"
     },
     {
       "added_at": null,

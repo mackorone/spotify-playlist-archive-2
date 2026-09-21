@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 
 > Give thanks to the Lord, in all circumstances, with these songs about being grateful.
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,669 likes - 100 songs - 7 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,713 likes - 100 songs - 7 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -73,8 +73,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6afkUGYYDyK.md) - [plain]
 | 63 | [Give Thanks \- Live](https://open.spotify.com/track/3mgMFa0mfIkjZipKJjOOyz) | [Hannah Hobbs](https://open.spotify.com/artist/4goNjt1yECtAvQw8Br9SKX) | [Give Thanks \(Live\)](https://open.spotify.com/album/21stsYT26Dm4qlPYy10Q83) | 4:14 |
 | 64 | [Thank You Lord \(He Did It All\) \(feat\. John P\. Kee\) \- Live](https://open.spotify.com/track/0fmQv7QDcVU8zsfmCL8uj6) | [The New Life Community Choir](https://open.spotify.com/artist/1I7iiuI5AMSMCwKp8dOCXY), [John P\. Kee](https://open.spotify.com/artist/3WVgChZY3rEyeHd3aljzNl) | [Strength \(feat\. John P\. Kee\)](https://open.spotify.com/album/0VwV87060gmBGwitNcyaGT) | 5:14 |
 | 65 | [At This Table](https://open.spotify.com/track/60TpgJ947vNb9A1UGQWkNm) | [Selah](https://open.spotify.com/artist/5dZiRoY9Vpp6qrxqXNRwPE) | [At This Table](https://open.spotify.com/album/3x5gkpYT2I80yewupH8FP6) | 3:59 |
-| 66 | [Thankful](https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Thankful](https://open.spotify.com/album/1u46x7OT5i10TzU83ec0lh) | 2:44 |
-| 67 | [Thank You](https://open.spotify.com/track/2YSFG4eMG4W1bPlsQ13wB1) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Thank You](https://open.spotify.com/album/6hYNb0Bu73paVyrGwhJmGM) | 3:51 |
+| 66 | [Thank You](https://open.spotify.com/track/2YSFG4eMG4W1bPlsQ13wB1) | [Rachael Nemiroff](https://open.spotify.com/artist/4w2fF5b9OiQBhh6Z34rL8t) | [Thank You](https://open.spotify.com/album/6hYNb0Bu73paVyrGwhJmGM) | 3:51 |
+| 67 | [Thankful](https://open.spotify.com/track/0QJnoEolnrjOTgnkxqFYX7) | [Noël Mio](https://open.spotify.com/artist/7JzZd8sCTmIpJW62zNS0ta) | [Thankful](https://open.spotify.com/album/1u46x7OT5i10TzU83ec0lh) | 2:44 |
 | 68 | [Stand In Awe \- Live](https://open.spotify.com/track/5LVVufavpKNI6AjvTnU8XR) | [Paul Baloche](https://open.spotify.com/artist/1jH3GuQCPI87UrS0hcScHr), [Matthew Harris](https://open.spotify.com/artist/24UGiLnPAOZVxfHE3B31MN) | [Yes, We Believe \(Live\)](https://open.spotify.com/album/2ep9ouSatrcBrwtb2XYbl6) | 6:18 |
 | 69 | [Steadfast Love \- Live](https://open.spotify.com/track/2TMVO0RgGLIyWCVo9vRSiQ) | [Lindy Cofer](https://open.spotify.com/artist/643zIYUXOTyNvxKia2i27I), [Circuit Rider Music](https://open.spotify.com/artist/3Et8YPXNSHCS54UK1Z0v6D), [Alvin Muthoka](https://open.spotify.com/artist/5S9ffQu8Q9w0jc1da9KkA0) | [Steadfast Love \(Live\)](https://open.spotify.com/album/5kuVApIeXUgvb3RFaQZ51p) | 9:16 |
 | 70 | [So Much \- MultiTracks Session](https://open.spotify.com/track/5WeGtzWzGwdMIIGL3n50Pg) | [Life.Church Worship](https://open.spotify.com/artist/4txutWV4bAiqr9ZIyZH8zS) | [So Much \(MultiTracks Session\)](https://open.spotify.com/album/7Gut2BBkOjBJDDYaNEgFy4) | 5:27 |

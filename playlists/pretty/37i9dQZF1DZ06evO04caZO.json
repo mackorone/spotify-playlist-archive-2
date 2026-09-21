@@ -1,12 +1,12 @@
 {
   "description": "This is The Strokes. The essential tracks, all in one playlist.",
-  "num_followers": 504310,
+  "num_followers": 504392,
   "original_name": "This Is The Strokes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAACiU64yLq1TYg5K/9RR/lMG",
+  "snapshot_id": "aq3QgAAAAABkTIytV56+VGSyTVNCO9Y5",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 303053,
-      "name": "Dine N'Dash",
-      "url": "https://open.spotify.com/track/22a006OJm48zH87SkPpSVx"
+      "duration_ms": 200186,
+      "name": "Lonely in the Future",
+      "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/0epOFNiUfyON9EYx7Tpr6V"
         }
       ],
-      "duration_ms": 200186,
-      "name": "Lonely in the Future",
-      "url": "https://open.spotify.com/track/5gBMUQu2FVV1OYu92hbJjv"
+      "duration_ms": 303053,
+      "name": "Dine N'Dash",
+      "url": "https://open.spotify.com/track/22a006OJm48zH87SkPpSVx"
     },
     {
       "added_at": null,

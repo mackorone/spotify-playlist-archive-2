@@ -4,7 +4,7 @@
 
 > If you're blessed!
 
-683 songs - 1 day 21 hr 54 min
+684 songs - 1 day 21 hr 57 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -289,6 +289,7 @@
 | [how can it be?](https://open.spotify.com/track/4LGVb3Rhr5zQGtH3xWwjzm) | [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [how can it be?](https://open.spotify.com/album/3BHP9ySnmW6KI75vNfehtM) | 3:49 | 2026-08-28 |  |
 | [How Love Is Done](https://open.spotify.com/track/5eIEpqK3gqaDNEvxEJC96W) | [Omojo](https://open.spotify.com/artist/4RCjw7JlxYqW7jUHCO4QgC), [Nashbi](https://open.spotify.com/artist/73mUf7Xm41sGYVWOMSt9qZ) | [How Love Is Done](https://open.spotify.com/album/7mXpmhWRAwTBjVim6OnfFS) | 3:12 | 2025-05-30 | 2025-06-20 |
 | [I am blessed](https://open.spotify.com/track/1QYpJIF5WBn4lmdK1wkcAV) | [Temple](https://open.spotify.com/artist/6qicD8blmXzFzYEgGYfYfa) | [I am blessed](https://open.spotify.com/album/0RcyUlcMRtm06uXuMR2ZDF) | 4:06 | 2025-02-28 | 2025-04-18 |
+| [I Am Blessed \- Amapiano](https://open.spotify.com/track/4DleBkMi8V323WLZE9KQt3) | [Pastor Courage](https://open.spotify.com/artist/2nV5a438DY93kAsO6EdWWf) | [Gata 2 \(Gospel According to Amapiano\)](https://open.spotify.com/album/7f3AFQFqN86wyR3wW057Rp) | 3:09 | 2026-09-11 |  |
 | [I Am Healed](https://open.spotify.com/track/7xNavX0iq7HrY01nHXXNH9) | [Circanineti](https://open.spotify.com/artist/32MTX0JRGzSVe8CM158bEn), [Chloe Higgs](https://open.spotify.com/artist/7HJuXEaNmpjsSAYK0pW4wq) | [I Am Healed](https://open.spotify.com/album/09Crr0hMx0Eo0j0yAK7zpr) | 3:12 | 2024-11-08 | 2025-02-28 |
 | [I Belong To You](https://open.spotify.com/track/0HYbFSop3uvZQgXknmUZN8) | [Precious Agwi](https://open.spotify.com/artist/2s5IEEAXFndM37MpDXY9Wh) | [I Belong To You](https://open.spotify.com/album/7JE5drBI1kooLs1BB9meYN) | 5:22 | 2024-11-29 | 2025-03-21 |
 | [I Carry Fire](https://open.spotify.com/track/3OqtPMbBFOs3kxCzsG3lYL) | [Celestine Donkor](https://open.spotify.com/artist/7eEbZowRaxxKXr3aIA9YDc) | [I Carry Fire](https://open.spotify.com/album/0B3pl5ySe3L4oMakIWcclc) | 6:11 | 2025-09-26 | 2025-11-14 |
@@ -635,7 +636,7 @@
 | [Waye Wie](https://open.spotify.com/track/4DrSBRKmxe4YFtDxUy43tk) | [Neqta](https://open.spotify.com/artist/3LWdiar2WAr8sbYuiYkmSr) | [Waye Wie](https://open.spotify.com/album/4naM400a3AmRS7q7XUyiiA) | 1:49 | 2025-03-21 | 2025-06-06 |
 | [We Outside](https://open.spotify.com/track/3uGMVZsnoP9UZliJ2kDwtf) | [Gaise Baba](https://open.spotify.com/artist/5pFY8yo0PDefGs7laYnNwo) | [We Outside](https://open.spotify.com/album/4RmmwLWxkxihUhOFlFJQ0h) | 2:47 | 2025-08-01 | 2025-08-08 |
 | [WE REMEMBER](https://open.spotify.com/track/3BwzpHvznNV7mZfH4StzF0) | [HHPG](https://open.spotify.com/artist/2aoTlgNAkhR2yHzNvfC1pM), [Sinmidele](https://open.spotify.com/artist/0xmUZqkqmJfezc0fzyfboj) | [WE REMEMBER](https://open.spotify.com/album/6VGZEmaQYGgT5kzjVjLw6B) | 8:34 | 2025-12-05 | 2026-01-16 |
-| [We Worship You](https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [We Worship You](https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c) | 8:17 | 2026-06-12 |  |
+| [We Worship You](https://open.spotify.com/track/37ewmOinmfco7aCr3bve3r) | [Mera Owili](https://open.spotify.com/artist/6ViX2ccBiy3D2ZZ6u58PmV), [SteveHills](https://open.spotify.com/artist/6EaWQoRFKjzdn9YzlDO89M) | [We Worship You](https://open.spotify.com/album/761nroFet61Jlnvs5FAx8c) | 8:17 | 2026-06-12 | 2026-09-21 |
 | [Welenga](https://open.spotify.com/track/5F8HUZCYpoDYGaHs76jU7r) | [Beracah](https://open.spotify.com/artist/6863qPyEB0LcFIWU2juD5i) | [Welenga](https://open.spotify.com/album/5gmXcBiqXutVCSJKqiGlZJ) | 3:15 | 2024-09-27 | 2025-02-07 |
 | [What A Beautiful Name](https://open.spotify.com/track/5XCtjnFMKtCT7ycDwV3Kdh) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24), [Brooke Ligertwood](https://open.spotify.com/artist/7iETGaxJ4crz3qaljDPCKC) | [What A Beautiful Name](https://open.spotify.com/album/5tYHku7MpOJjUecn5Ape0O) | 4:00 | 2024-10-04 |  |
 | [What a Friend](https://open.spotify.com/track/25Tb8E2kjW27ryWghggfDm) | [LAMB CULTURE.](https://open.spotify.com/artist/7ekDyLis0zh78DffR8wjW9), [Jenge](https://open.spotify.com/artist/7u3MaCiypw3nu7mhEvFtdT) | [What a Friend](https://open.spotify.com/album/6mnMbRsGMAH4nzecSQvU6Q) | 2:15 | 2026-01-09 | 2026-02-27 |

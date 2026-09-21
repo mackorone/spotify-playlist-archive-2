@@ -1,6 +1,6 @@
 {
   "description": "2026 yaz\u0131n\u0131n \u015fark\u0131lar\u0131. Kapak: manifest x Ajda Pekkan",
-  "num_followers": 293085,
+  "num_followers": 293113,
   "original_name": "Yaz Hitleri 2026",
   "owner": {
     "name": "Spotify",
@@ -447,22 +447,6 @@
     {
       "added_at": "2026-09-09 11:06:16",
       "album": {
-        "name": "Diva",
-        "url": "https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu"
-      },
-      "artists": [
-        {
-          "name": "Burak Bulut",
-          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
-        }
-      ],
-      "duration_ms": 127000,
-      "name": "Diva",
-      "url": "https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V"
-    },
-    {
-      "added_at": "2026-09-09 11:06:16",
-      "album": {
         "name": "Virt\u00fc\u00f6z",
         "url": "https://open.spotify.com/album/2FClckZh5zvtW9vjKbc5bZ"
       },
@@ -475,6 +459,22 @@
       "duration_ms": 158774,
       "name": "git",
       "url": "https://open.spotify.com/track/1RwVkonL4anIGeNZo0OPp1"
+    },
+    {
+      "added_at": "2026-09-09 11:06:16",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/63f5i1UUGrTPlWeavOC1Uu"
+      },
+      "artists": [
+        {
+          "name": "Burak Bulut",
+          "url": "https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz"
+        }
+      ],
+      "duration_ms": 127000,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/2LNuau7YQkCajkG38uql0V"
     },
     {
       "added_at": "2026-09-09 11:06:16",

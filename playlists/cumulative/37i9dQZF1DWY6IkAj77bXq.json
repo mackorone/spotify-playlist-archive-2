@@ -4434,7 +4434,7 @@
       ],
       "date_added": "2022-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 157800,
       "name": "Seneca Rise",
       "url": "https://open.spotify.com/track/6YHg42gULO5UiwXS2QJAmt"
@@ -5194,6 +5194,24 @@
       "duration_ms": 185626,
       "name": "Structure",
       "url": "https://open.spotify.com/track/4mxKceI65QluBw8XSJpXiN"
+    },
+    {
+      "album": {
+        "name": "Subtle Elation",
+        "url": "https://open.spotify.com/album/1ZidxawJhWVanlxmPSX14D"
+      },
+      "artists": [
+        {
+          "name": "Now & Anatma",
+          "url": "https://open.spotify.com/artist/6RJUE6sgw2xb5nVYXhKxE9"
+        }
+      ],
+      "date_added": "2026-09-14",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177142,
+      "name": "Subtle Elation",
+      "url": "https://open.spotify.com/track/1AZts1XYKBl2czdqzk8bgk"
     },
     {
       "album": {

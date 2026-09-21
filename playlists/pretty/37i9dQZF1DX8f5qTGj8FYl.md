@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8f5qTGj8FYl.md) - [plain]
 
 > When the funk is too funky for words to keep up\. Cover: Cory Wong
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,509 likes - 150 songs - 10 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,529 likes - 150 songs - 10 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [Valk](https://open.spotify.com/track/1luuVnbf5YOFdXXELkWM6j) | [Vulfmon](https://open.spotify.com/artist/6pGuw52TrX5SZPdQSxAvgW) | [Valk](https://open.spotify.com/album/4i6qtifueainK5xqaiZAPM) | 2:49 |
 | 2 | [Rain Man](https://open.spotify.com/track/5ptjyu9U6GLHiSBhav57fg) | [CAZAYOUX](https://open.spotify.com/artist/5sRAaGdTzuhQkFYk6Uw8rS) | [Rain Man](https://open.spotify.com/album/1vQK1NNUmG0OcBQY8ikHzJ) | 4:26 |
-| 3 | [Dopus no\. 1](https://open.spotify.com/track/2uBbWlPLVLVhqLfuEbMNy3) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Dopus no\. 1](https://open.spotify.com/album/0uK7KYfZUAEm535F4SKx9l) | 4:15 |
+| 3 | [Dopus no\. 1](https://open.spotify.com/track/2uBbWlPLVLVhqLfuEbMNy3) | [True Loves](https://open.spotify.com/artist/1IlKHxSbOJDx10sotxhk4Z), [Jimmy James](https://open.spotify.com/artist/4MpCHcOqKRsSXGiYuGR9JY), [Nigel Hall](https://open.spotify.com/artist/04HwdlOSZ8Rnmp4D3vyjI2) | [Dopus no\. 1](https://open.spotify.com/album/0uK7KYfZUAEm535F4SKx9l) | 4:15 |
 | 4 | [Code 12 \(Vinyl Cut\) \- Masterlink Sessions](https://open.spotify.com/track/1D5PyI6R5KhemFCHw6DPsd) | [Redtenbacher's Funkestra](https://open.spotify.com/artist/1oYScdotTIXO74h10l8ISA), [Horn House](https://open.spotify.com/artist/5HMo9VXm5R91AzkQBqNrlu), [Mike Outram](https://open.spotify.com/artist/65UOBIN0iLgW703kmjXMYQ), [Tony Remy](https://open.spotify.com/artist/4ZPe9yodynCxVDpH4uExp0) | [Code 12 \(Vinyl Cut\) \[Masterlink Sessions\]](https://open.spotify.com/album/27xzfAs442iCF36O7mwiqV) | 3:52 |
 | 5 | [Primetime](https://open.spotify.com/track/31qT9EJDYWpSy9WhjmtbCm) | [The Colleagues](https://open.spotify.com/artist/2KbzrjTYlv08KyvcblE8nT) | [Primetime](https://open.spotify.com/album/6vbLnyyh7oIms54Qnl1CvV) | 2:59 |
 | 6 | [Starship Syncopation](https://open.spotify.com/track/0p1Mp6sT4Nzq3DWnZPvqs8) | [Cory Wong](https://open.spotify.com/artist/6xt9sJmmyYwWkJv8A6ssiU), [Metropole Orkest](https://open.spotify.com/artist/7JYdpWAsiqzrmMB3qxkEbI), [Jules Buckley](https://open.spotify.com/artist/5gGbAKDXhDoBXIJe8SuBvX) | [Starship Syncopation](https://open.spotify.com/album/4pg7Me8QZeJoW2qvcLiwSN) | 3:50 |

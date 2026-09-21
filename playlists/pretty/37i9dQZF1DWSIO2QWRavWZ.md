@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSIO2QWRavWZ.md) - [plain]
 
 > New music from your favorite women\.  Cover: GAWD
 
-[Spotify](https://open.spotify.com/user/spotify) - 233,213 likes - 175 songs - 9 hr 17 min
+[Spotify](https://open.spotify.com/user/spotify) - 233,210 likes - 175 songs - 9 hr 17 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,852 songs - 10 day 22 hr 27 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,853 songs - 10 day 22 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4860,5 +4860,6 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4850 | [The Cobra Has Arrived, Pt\. 2](https://open.spotify.com/track/28onWsoR8929yLq7Npxbd7) | [Cobra queen](https://open.spotify.com/artist/12Tv2ExqmgbVkXDhV8Hwlc) | [The Cobra Has Arrived, Pt\. 2](https://open.spotify.com/album/7wL9N0B0ZxJcYNRQh3L6dO) | 3:59 |
 | 4851 | [Personality](https://open.spotify.com/track/4d6opMFuuaU5YjfkSqpYV7) | [Retroviral](https://open.spotify.com/artist/2bemF0p9xqlEuiClwuECVl) | [Personality](https://open.spotify.com/album/3hNiSRcbKZ8y5tkoBKyC5c) | 3:15 |
 | 4852 | [Vô de Japa](https://open.spotify.com/track/6dq4fEMi8xQM27EIqLYOFJ) | [Pataperros](https://open.spotify.com/artist/1nDx9sKh2gqaWkmSwUX7jm) | [Vô de Japa](https://open.spotify.com/album/1byoXzVxy7BqvmhxUOIizp) | 1:43 |
+| 4853 | [I Don't Wanna](https://open.spotify.com/track/68HJ0xRRiP5lmfvpP83GF4) | [The Spent Priests](https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV) | [I Don't Wanna](https://open.spotify.com/album/4K2AA3lxoriLp75m4o9d5I) | 2:41 |
 
-Snapshot ID: `AAAKGJeb7mqsjwehJEGvkD1sN5BNXxaF`
+Snapshot ID: `AAAKGQa2CZllcOWvFl9s1r+EtTAAgp/u`

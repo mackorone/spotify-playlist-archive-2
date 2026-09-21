@@ -4,7 +4,7 @@
 
 > Submit your song: https:&\#x2F;&\#x2F;dailyplaylists.com&\#x2F;playlists&\#x2F;6APhyezi0mduQmsYIurjeg
 
-602 songs - 1 day 12 hr 30 min
+603 songs - 1 day 12 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -370,6 +370,7 @@
 | [Nutshell](https://open.spotify.com/track/3LF6H0kgMEBlLwxcURmmX6) | [Starfsh](https://open.spotify.com/artist/0i8fjbjJ3wek1a601PeV8g), [Nikki Manos](https://open.spotify.com/artist/277PrHYGwOzkNgxDgsfEA6) | [Nutshell](https://open.spotify.com/album/7jOqOgVXhUH1uw0zyYnykG) | 4:10 | 2024-07-11 |  |
 | [Nuvens](https://open.spotify.com/track/2JxjXp07kpFEzUoOCJoDJ0) | [Felipe Roth](https://open.spotify.com/artist/4fLMGUYffJu0m5W20zKMqh) | [Nuvens](https://open.spotify.com/album/3C1HY9c0kkV56ByTlKf3Wq) | 2:59 | 2025-03-31 |  |
 | [Náufrago en el Mar](https://open.spotify.com/track/5Q73dKAkaDlvsaSWz1XAtE) | [Carlos frias & Circulo Social](https://open.spotify.com/artist/685vc5M8paQhjzonRPcea7), [Genilda Arvelo](https://open.spotify.com/artist/5czB8ftMpapBRL5hSL9kTN) | [Aprendiz de Poeta](https://open.spotify.com/album/05Xbp1Ln8yK7NGTHIKRAmr) | 5:36 | 2025-03-31 |  |
+| [Não Venha Sem Avisar](https://open.spotify.com/track/3HXJlragpVyaqhoAjtWwoJ) | [Thiago Martins](https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof) | [Não Venha Sem Avisar](https://open.spotify.com/album/2EUidS1qnhNkBZzAvPTPgs) | 2:51 | 2026-09-20 |  |
 | [O Meri Jana](https://open.spotify.com/track/6JtzlQ3kRkfelRKK4NzpCk) | [sarkar\_1](https://open.spotify.com/artist/56k4VzCqc8VAxYH8F7Y4l5) | [O Meri Jana](https://open.spotify.com/album/5iknZYO2dtkvJAThkiYmVY) | 3:46 | 2026-06-07 |  |
 | [O Porquê da Gente](https://open.spotify.com/track/2yIyOZl5bB3kegbd6956l2) | [Tonni Moraes](https://open.spotify.com/artist/33la62weFFmj1cr8J1yuFb) | [O Porquê da Gente](https://open.spotify.com/album/0F6WDXwR0QGoRrZQtdwtqW) | 3:54 | 2025-11-03 |  |
 | [O Tanto Que Eu Vi](https://open.spotify.com/track/3KA0P8blih3jzimdZqrI0j) | [Thiago Martins](https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof) | [O Tanto Que Eu Vi](https://open.spotify.com/album/1aUb5WUyk5oVNwzj9i8fNr) | 4:09 | 2026-05-14 |  |

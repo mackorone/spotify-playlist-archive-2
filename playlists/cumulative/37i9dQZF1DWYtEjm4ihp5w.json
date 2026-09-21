@@ -6230,7 +6230,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 179250,
       "name": "MATHASEBNICH",
       "url": "https://open.spotify.com/track/6S3Em8Eur7daa5QTSh06Xf"
@@ -7770,6 +7770,28 @@
       "duration_ms": 191057,
       "name": "PREMIER LEAGUE",
       "url": "https://open.spotify.com/track/5QMyKyYGzwjcjZ0bZHOdQP"
+    },
+    {
+      "album": {
+        "name": "A MAN WITH A GUN",
+        "url": "https://open.spotify.com/album/1fPQXsgkWCQIvcLMgOeztV"
+      },
+      "artists": [
+        {
+          "name": "Tchubi",
+          "url": "https://open.spotify.com/artist/4ouJcIm4Q12DGd0FpPSXO1"
+        },
+        {
+          "name": "Hoba Hoba Spirit",
+          "url": "https://open.spotify.com/artist/2aZPgvcYQD2z4NIoO8x8Gi"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217000,
+      "name": "PRINCES DE LA VILLE",
+      "url": "https://open.spotify.com/track/04oqFPC9D6wBX00Mm2ozR4"
     },
     {
       "album": {

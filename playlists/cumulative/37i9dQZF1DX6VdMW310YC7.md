@@ -4,7 +4,7 @@
 
 > Softer kinda <a href="spotify:genre:edm\_dance">dance</a>.
 
-1,930 songs - 5 day 10 hr 58 min
+1,931 songs - 5 day 11 hr 1 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -364,7 +364,7 @@
 | [Dead End Thrills](https://open.spotify.com/track/2Xmit6pfemEgNkcV9okUzH) | [Cubicolor](https://open.spotify.com/artist/4nMIbZxtt1kWqUZ8VNKvjU) | [Brainsugar](https://open.spotify.com/album/2kywoxchFPj8Xa5odjG4GV) | 4:28 | 2020-05-23 | 2020-07-03 |
 | [Deadstream \(Rostam Version\) \[feat\. Charli XCX\]](https://open.spotify.com/track/1Zeu77nt6pniRJ1eWZYMkJ) | [Jim\-E Stack](https://open.spotify.com/artist/4GmataFSHOSQWxuuUX57Bh), [Charli XCX](https://open.spotify.com/artist/25uiPmTg16RbhZWAqwLBy5) | [Deadstream \(Rostam Version\) \[feat\. Charli XCX\]](https://open.spotify.com/album/5PSDGMf7lrY58jrQjPkiMG) | 3:16 | 2020-05-22 | 2020-07-03 |
 | [Deep Blue](https://open.spotify.com/track/7h46FIb7QrsLuhfGmmK0jW) | [Alex Lustig](https://open.spotify.com/artist/5oLxJrktO7kOEJANS6nkZB) | [Wave005](https://open.spotify.com/album/493PElg9mW5MoF3elK9iaC) | 2:22 | 2020-08-06 | 2020-10-09 |
-| [Deep Blue](https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Deep Blue](https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe) | 3:52 | 2026-05-08 |  |
+| [Deep Blue](https://open.spotify.com/track/48QoZYDwQ01gABLI1uPubK) | [Tobias Bergson](https://open.spotify.com/artist/0OaBO8SytZzvzAO3NOWiv3) | [Deep Blue](https://open.spotify.com/album/2rwtT33vmqR6TNvIFH7ARe) | 3:52 | 2026-05-08 | 2026-09-21 |
 | [Deep Congo \- Original Mix](https://open.spotify.com/track/3fVE0KhW3QP5J3HKbD5j29) | [Lee Foss](https://open.spotify.com/artist/44T94QQEc60Jf7kqGY6Rip) | [Deep Congo](https://open.spotify.com/album/6F5qy7qskbnsWW0XimIg4S) | 5:56 | 2020-05-22 | 2020-07-03 |
 | [Deep Of The Night](https://open.spotify.com/track/6CFrKYk3a0A8qa9knsRhaS) | [GoldFish](https://open.spotify.com/artist/0uRdK8gy7fXJGRywrlmPM7), [Diamond Thug](https://open.spotify.com/artist/4mXcRr0lognLc6xSb1vUTX) | [Deep Of The Night](https://open.spotify.com/album/5pqSzYaGL8sxMzP2RKHlHp) | 3:21 | 2020-05-18 | 2020-07-03 |
 | [Deja](https://open.spotify.com/track/70um118ETgSKTghQNF9iEC) | [Bomba Estéreo](https://open.spotify.com/artist/5n9bMYfz9qss2VOW89EVs2) | [Agua](https://open.spotify.com/album/37RnWMoZSgAtUKLmeslblE) | 3:50 | 2021-02-17 | 2021-09-04 |
@@ -439,6 +439,7 @@
 | [edges](https://open.spotify.com/track/3Y0GPlTTGhUvkX9gLbeB3F) | [mölly](https://open.spotify.com/artist/6Xu5UlsnkfZs7hVBR9Gmxq), [FARLEY](https://open.spotify.com/artist/7uYA1SvZLemlrGJxyqdf4O) | [edges](https://open.spotify.com/album/5DsdSbCVFUJdT5I61zZB4g) | 3:42 | 2026-05-29 | 2026-08-18 |
 | [Egypt](https://open.spotify.com/track/6fXMWTckEitvM78hW5PilD) | [Diamans](https://open.spotify.com/artist/76tvOhyl5wZuIAvNNzm8Se) | [Egypt](https://open.spotify.com/album/4RGqIg01HZeuerR3ABzMcV) | 3:51 | 2020-03-20 | 2021-07-28 |
 | [Electric Soul](https://open.spotify.com/track/2DDgjp1fChi6UvQzNxtgUw) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc) | [Somewhere In Between](https://open.spotify.com/album/1SyEXGFsWxnHjD1UsdACMk) | 2:52 | 2026-03-20 |  |
+| [Electric Soul \- YOTTO Remix](https://open.spotify.com/track/1zKN0MrtvBzpgOEOS8M6Jf) | [Forester](https://open.spotify.com/artist/3d13oWvwmjcodRr3NzdArc), [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo) | [Electric Soul \(YOTTO Remix\)](https://open.spotify.com/album/6Yih2X7fM2oyY2WEfxG6Hs) | 3:46 | 2026-09-18 |  |
 | [Elements](https://open.spotify.com/track/41pjnlX05tPEa2pOTq0fq0) | [TWO LANES](https://open.spotify.com/artist/7mnuMLgvXdCWzyB4sQCG7k) | [Duality](https://open.spotify.com/album/5u2Swap7EZneoTUSuMPOEO) | 6:15 | 2024-04-05 | 2024-04-19 |
 | [Elenore](https://open.spotify.com/track/5duIvffaGWg0bJAT9czEuZ) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY) | [Forever, Now](https://open.spotify.com/album/5hYLl3dR0mtRpFgOoUl6zE) | 4:34 | 2023-02-24 | 2024-02-17 |
 | [Elenore \- Sonnee Remix](https://open.spotify.com/track/5lvYn1cD6rUHkZCSRDuwwp) | [Sultan + Shepard](https://open.spotify.com/artist/14Tg9FvbNismPR1PJHxRau), [Andrew Belle](https://open.spotify.com/artist/3UAk61T8PItbpgEi9u7ofY), [Sonnee](https://open.spotify.com/artist/2QmItUyhRFr5NBHFTVOBxr) | [Elenore \(Sonnee Remix\)](https://open.spotify.com/album/2TiXMwd38pdddcopaSBT4P) | 3:50 | 2023-05-26 | 2023-07-09 |

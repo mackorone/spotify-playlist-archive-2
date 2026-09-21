@@ -142,7 +142,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 193853,
       "name": "BAD BOYZ -\u60aa\u6f22\u5974\u7b49 Underground-",
       "url": "https://open.spotify.com/track/4mo7Icur4vDvZrDmEHwfss"
@@ -232,7 +232,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 241133,
       "name": "Better Dayz",
       "url": "https://open.spotify.com/track/5EGuPxc7UwMrMUQYXvnqzs"
@@ -525,6 +525,24 @@
     },
     {
       "album": {
+        "name": "Paradox Live 3rd album \"ANTHEM\"",
+        "url": "https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD"
+      },
+      "artists": [
+        {
+          "name": "1Nm8",
+          "url": "https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 202320,
+      "name": "EGOlution",
+      "url": "https://open.spotify.com/track/4sCjnIyFZ9EOSnRUlzmrE2"
+    },
+    {
+      "album": {
         "name": "Paradox Live Stage Battle \"PRIDE\"",
         "url": "https://open.spotify.com/album/33w2rf2DVw9eZhBlswP4q2"
       },
@@ -558,7 +576,7 @@
       ],
       "date_added": "2022-03-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 234584,
       "name": "EMPEROR - WE ON FIRE!! - - feat. \u5016\u7530\u4f86\u672a",
       "url": "https://open.spotify.com/track/6Ih3BC1tbYyNqrebW6z8GN"
@@ -938,6 +956,24 @@
       "duration_ms": 220591,
       "name": "MAGIC CARPET",
       "url": "https://open.spotify.com/track/7kznGbmLRWbEjPmNdUxpcO"
+    },
+    {
+      "album": {
+        "name": "Paradox Live covers \u201cPROPS\u201d",
+        "url": "https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2"
+      },
+      "artists": [
+        {
+          "name": "cozmez",
+          "url": "https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn"
+        }
+      ],
+      "date_added": "2026-09-15",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206429,
+      "name": "Mainstream",
+      "url": "https://open.spotify.com/track/4fTxxeetlTqcbqP44AtpgW"
     },
     {
       "album": {
@@ -3186,7 +3222,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 232672,
       "name": "\u042fesonance",
       "url": "https://open.spotify.com/track/5fxY8RGA1HVss4W2MRExks"

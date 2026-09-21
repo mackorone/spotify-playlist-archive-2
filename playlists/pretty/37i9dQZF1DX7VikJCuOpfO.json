@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGHLhAWGvhYc1MvTnJTP+4X2lNjC",
+  "snapshot_id": "AAAAAApMtZjtize2DezVZpl0FvBQfF8f",
   "tracks": [
     {
       "added_at": "2026-09-11 05:19:39",
@@ -195,8 +195,8 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Bandera Blanca",
-        "url": "https://open.spotify.com/album/1fh2WpHqtGZRKui9aj5LI0"
+        "name": "Un Vals",
+        "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
       },
       "artists": [
         {
@@ -204,9 +204,9 @@
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 214233,
-      "name": "Una Mujer Como la Suya",
-      "url": "https://open.spotify.com/track/1hGC0iYUrO6gvkRUogGCwH"
+      "duration_ms": 189791,
+      "name": "Un Vals",
+      "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -279,8 +279,8 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Un Vals",
-        "url": "https://open.spotify.com/album/5K0BYODFTljTcOLGOwBZJX"
+        "name": "Bandera Blanca",
+        "url": "https://open.spotify.com/album/1fh2WpHqtGZRKui9aj5LI0"
       },
       "artists": [
         {
@@ -288,9 +288,9 @@
           "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         }
       ],
-      "duration_ms": 189791,
-      "name": "Un Vals",
-      "url": "https://open.spotify.com/track/1ojcw1w3auGuo2JwVvm8u5"
+      "duration_ms": 214233,
+      "name": "Una Mujer Como la Suya",
+      "url": "https://open.spotify.com/track/1hGC0iYUrO6gvkRUogGCwH"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
+        "name": "Ahora Si Quieres Querer",
+        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
+      },
+      "artists": [
+        {
+          "name": "Irany",
+          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
+        }
+      ],
+      "duration_ms": 173391,
+      "name": "Ahora Si Quieres Querer",
+      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
         "name": "Cuando Llegue el D\u00eda",
         "url": "https://open.spotify.com/album/2J5YCv5iMrMXc9R47o92HC"
       },
@@ -727,22 +743,6 @@
       "duration_ms": 238200,
       "name": "Cuando Llegue el D\u00eda",
       "url": "https://open.spotify.com/track/5O60WjoCD5egvktd0FK283"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
-        "name": "Ahora Si Quieres Querer",
-        "url": "https://open.spotify.com/album/3aIjThnbR5oNGF5D4NTC4n"
-      },
-      "artists": [
-        {
-          "name": "Irany",
-          "url": "https://open.spotify.com/artist/49wdJm96LMyfZh8V5YMEPF"
-        }
-      ],
-      "duration_ms": 173391,
-      "name": "Ahora Si Quieres Querer",
-      "url": "https://open.spotify.com/track/0haMBSPDto02z8WdvKerW6"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -1107,22 +1107,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "La Noche de Mi Mal (Versi\u00f3n Mariachi)",
-        "url": "https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO"
-      },
-      "artists": [
-        {
-          "name": "Kaylanie Barrera",
-          "url": "https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN"
-        }
-      ],
-      "duration_ms": 240864,
-      "name": "La Noche de Mi Mal",
-      "url": "https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "El Target",
         "url": "https://open.spotify.com/album/0jVQrG7MOjYvKP77Bgp5RQ"
       },
@@ -1139,6 +1123,22 @@
       "duration_ms": 165693,
       "name": "El Target",
       "url": "https://open.spotify.com/track/6RBuiU0CCxBEMCwTT2LsqL"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "La Noche de Mi Mal (Versi\u00f3n Mariachi)",
+        "url": "https://open.spotify.com/album/0ZbRQiYvzz50QfD0YwOyxO"
+      },
+      "artists": [
+        {
+          "name": "Kaylanie Barrera",
+          "url": "https://open.spotify.com/artist/2j3qEhbr3yzytI7ozGIHWN"
+        }
+      ],
+      "duration_ms": 240864,
+      "name": "La Noche de Mi Mal",
+      "url": "https://open.spotify.com/track/1Nu2dm44T3NoGBiAdioDKD"
     },
     {
       "added_at": "2026-09-04 15:23:08",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2026-09-04 15:23:08",
       "album": {
-        "name": "Antes",
-        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
-      },
-      "artists": [
-        {
-          "name": "Marco Torres",
-          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
-        }
-      ],
-      "duration_ms": 184167,
-      "name": "Antes",
-      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
-    },
-    {
-      "added_at": "2026-09-04 15:23:08",
-      "album": {
         "name": "Me Gustas",
         "url": "https://open.spotify.com/album/6cYMpnl0sZOgF1XmjhzYwy"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 168622,
       "name": "Me Gustas",
       "url": "https://open.spotify.com/track/5KpvlmpZ3UjGeIsNOvosiW"
+    },
+    {
+      "added_at": "2026-09-04 15:23:08",
+      "album": {
+        "name": "Antes",
+        "url": "https://open.spotify.com/album/2KwDc1W3vu3mXC9x8Pun2i"
+      },
+      "artists": [
+        {
+          "name": "Marco Torres",
+          "url": "https://open.spotify.com/artist/6MBN1HxRdb0f4WorVxJF5H"
+        }
+      ],
+      "duration_ms": 184167,
+      "name": "Antes",
+      "url": "https://open.spotify.com/track/0t9cMv6daD2yN3QwOyQYux"
     },
     {
       "added_at": "2026-09-04 15:23:08",

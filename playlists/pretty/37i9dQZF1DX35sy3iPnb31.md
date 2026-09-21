@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 
 > The best Canadian songs of the month, handpicked by Spotify Canada editors\. Cover: BAMBII
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,670 likes - 50 songs - 2 hr 28 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,675 likes - 50 songs - 2 hr 28 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX35sy3iPnb31.md) - [plain]
 | 24 | [Devotion](https://open.spotify.com/track/6fCBYfnfa2e2SllY8mJSGe) | [Ghostly Kisses](https://open.spotify.com/artist/7EkzQPP0cgt2qCnXUg6PHj) | [Across the Pond](https://open.spotify.com/album/3jZ0wob2gDlB1NvxORTkbz) | 3:16 |
 | 25 | [Été à Montréal](https://open.spotify.com/track/3fG437ZqIWMFgPZjysVdxe) | [Ash](https://open.spotify.com/artist/4nkuNzBcYGlNmAqFWbHLqS) | [Été à Montréal](https://open.spotify.com/album/65XouOCdpWdWj78nnB4BV4) | 5:27 |
 | 26 | [Why Does the Moon](https://open.spotify.com/track/1XKHTxAHMDmJBpDWgRSk2c) | [Jess Moskaluke](https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et) | [Why Does the Moon](https://open.spotify.com/album/1GHWkKhoL4E3zmm626abzC) | 3:12 |
-| 27 | [aries baby](https://open.spotify.com/track/2nHotWvTAWEpSYzv7s0Bk9) | [Ami Cheon](https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb) | [aries baby](https://open.spotify.com/album/4vS61q0dNLJXi72MhlgU54) | 2:32 |
-| 28 | [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 |
+| 27 | [half smile](https://open.spotify.com/track/0TpdlGxaVraIe1dDXdFehk) | [Hockitay](https://open.spotify.com/artist/7bOmAhV9TyYNu90JKLiVGI) | [half smile](https://open.spotify.com/album/5G1gVUZZilR2abtg15VI6A) | 3:48 |
+| 28 | [aries baby](https://open.spotify.com/track/2nHotWvTAWEpSYzv7s0Bk9) | [Ami Cheon](https://open.spotify.com/artist/4fIRV4mZdzChf9duFt1KCb) | [aries baby](https://open.spotify.com/album/4vS61q0dNLJXi72MhlgU54) | 2:32 |
 | 29 | [Let It Die](https://open.spotify.com/track/3KV99XGW5xzq8wO0lbzbRO) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Yzabo](https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP) | [Let It Die](https://open.spotify.com/album/1S4qisFcpxXZwMH8cZZz9t) | 3:55 |
 | 30 | [Another Life](https://open.spotify.com/track/0e2LldrTup4Mw01aFolhgp) | [Jon Bryant](https://open.spotify.com/artist/2gzH4rGNFJeNg13yv2uI4L) | [Another Life](https://open.spotify.com/album/5IjXFTsyhZlequxisljKhi) | 3:46 |
 | 31 | [Here & Now](https://open.spotify.com/track/2wKWrbIoKxMIFiD4HOgfo9) | [Perfect Person](https://open.spotify.com/artist/2GObAMII1pHqdP7JmJ4uaZ), [Holostar](https://open.spotify.com/artist/5gWquiuT3fPa76GxQlDT0k) | [Some Kind Of Life](https://open.spotify.com/album/7tns2iVsn2p6SSp3M0Ecv3) | 3:16 |

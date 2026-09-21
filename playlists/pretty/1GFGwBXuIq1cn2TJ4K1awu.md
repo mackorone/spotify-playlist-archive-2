@@ -4,20 +4,20 @@ pretty - [cumulative](/playlists/cumulative/1GFGwBXuIq1cn2TJ4K1awu.md) - [plain]
 
 > Updated every Sunday\. Ten songs plus a bonus\. Enjoy.
 
-[royva06](https://open.spotify.com/user/royva06) - 37 likes - 11 songs - 47 min 16 sec
+[royva06](https://open.spotify.com/user/royva06) - 37 likes - 11 songs - 42 min 20 sec
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Thinkin Bout You](https://open.spotify.com/track/4lXjz5k4Rij3LTj6O0mgOO) | [Flea](https://open.spotify.com/artist/0Xl5J6iOgiQHFqgri7TF8j) | [Honora](https://open.spotify.com/album/4RsSlnwkUAvEtg0Tk86HnM) | 4:10 |
-| 2 | [Love Takes Miles](https://open.spotify.com/track/2zf1izCOz2F22PF27uhxRF) | [Cameron Winter](https://open.spotify.com/artist/0kGweFvHWUfh6oLnookVeO) | [Heavy Metal](https://open.spotify.com/album/7mOrnQqDad3RgYQsJGaaqk) | 3:18 |
-| 3 | [Yamaha](https://open.spotify.com/track/6qR5YGunNSASaabs4kJB9V) | [Dijon](https://open.spotify.com/artist/0knGpCTbmG4ctl1wzYRZs4) | [Baby](https://open.spotify.com/album/3hKlec1wgYVJcI0YvwCFJB) | 4:28 |
-| 4 | [Decks Dark](https://open.spotify.com/track/4mRSbPLnOm54ttkTYvxxSY) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [A Moon Shaped Pool](https://open.spotify.com/album/2ix8vWvvSp2Yo7rKMiWpkg) | 4:41 |
-| 5 | [You Don't Know](https://open.spotify.com/track/1kdw97N9WifR4gZij4YBbH) | [Florry](https://open.spotify.com/artist/5b1DzFl2lTpE9v5fjAZ9kn) | [Sounds Like...](https://open.spotify.com/album/54WXEOsnZYULedb3Gz7fnr) | 7:51 |
-| 6 | [Undefined](https://open.spotify.com/track/7IrJ2dWZXz0wcSzHWNKTW5) | [youbet](https://open.spotify.com/artist/6KVAGRLT6LHvatyFDZr1aI) | [youbet](https://open.spotify.com/album/2ugIuBNRKDaj2HHTAk4grQ) | 3:17 |
-| 7 | [Waterfall](https://open.spotify.com/track/70FnVusX11aKdvzSVQ78zV) | [Gum Country](https://open.spotify.com/artist/5cuiPxODY1T2shZRYQFv4G) | [Somewhere](https://open.spotify.com/album/4pe9puCv4owFeSB6S2V2UT) | 4:56 |
-| 8 | [I'm On My Way](https://open.spotify.com/track/5DMhIWmZ7brg697vkvtku4) | [Heather The Jerk](https://open.spotify.com/artist/0KpbuVPXeEMm247r2wpjXr) | [Scroll If You Love Devil](https://open.spotify.com/album/7bLygTS469P3JwuqTIYckw) | 2:22 |
-| 9 | [Survivor](https://open.spotify.com/track/2Mpj1Ul5OFPyyP4wB62Rvi) | [Destiny's Child](https://open.spotify.com/artist/1Y8cdNmUJH7yBTd9yOvr5i) | [Survivor](https://open.spotify.com/album/2HcjLD0ButtKsQYqzoyOx9) | 4:14 |
-| 10 | [Subways](https://open.spotify.com/track/1ZxakFiRaOFj6CDarCxozU) | [The Avalanches](https://open.spotify.com/artist/3C8RpaI3Go0yFF9whvKoED) | [Wildflower](https://open.spotify.com/album/0j0djiGxLnBiW7meVc2PER) | 3:10 |
-| 11 | [Someone Like You](https://open.spotify.com/track/1zwMYTA5nlNjZxYrvBB2pV) | [Adele](https://open.spotify.com/artist/4dpARuHxo51G3z768sgnrY) | [21](https://open.spotify.com/album/0Lg1uZvI312TPqxNWShFXL) | 4:45 |
+| 1 | [So Easy \(To Fall In Love\)](https://open.spotify.com/track/6sGIMrtIzQjdzNndVxe397) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [The Art of Loving](https://open.spotify.com/album/0l8zYqoUeBYg47Gmevq9HZ) | 2:49 |
+| 2 | [Solid Grease](https://open.spotify.com/track/4KL2LvMU6ebkXUcitOCNXc) | [This Is The Kit](https://open.spotify.com/artist/0ZUyFEafMwocvApBjTXvdo) | [Moonshine Freeze](https://open.spotify.com/album/0ekbANyejam0fKM6fDtdZT) | 3:48 |
+| 3 | [I Wish It Would Rain](https://open.spotify.com/track/7yxkUamfdRreQ2UWuJgz7f) | [The Temptations](https://open.spotify.com/artist/3RwQ26hR2tJtA8F9p2n7jG) | [Four Brothers \(Music From The Original Motion Picture\)](https://open.spotify.com/album/77Au7fzif5P8A95XSjDTL2) | 2:45 |
+| 4 | [It Will Rain](https://open.spotify.com/track/0RUGuh2uSNFJpGMSsD1F5C) | [Bruno Mars](https://open.spotify.com/artist/0du5cEVh5yTK9QJze8zA0C) | [The Twilight Saga: Breaking Dawn \- Part 1 \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/1iGIqDBXm5HpTqHCvdc4QP) | 4:17 |
+| 5 | [Beadie](https://open.spotify.com/track/2TNslJOA7PiSMibQn5ZJk0) | [Sluice](https://open.spotify.com/artist/2G2lzG0hD7813EiPyiCC4j) | [Companion](https://open.spotify.com/album/7tIAKXEuqT5IGs8HZXb0cz) | 4:00 |
+| 6 | [Mexicola](https://open.spotify.com/track/4NK1A89eLfNQPCoOLxLCSl) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Queens of the Stone Age](https://open.spotify.com/album/0PSTqZ8cInMb1Wr68Uqdwp) | 4:55 |
+| 7 | [I'll Get There](https://open.spotify.com/track/4MXxd2JFZgUs1MhS4AAZQb) | [All](https://open.spotify.com/artist/4UWlpzLFbNdlaRXuZeTPlH) | [Mass Nerder](https://open.spotify.com/album/2tYhYWn0cbm9uIGMmNf7LQ) | 2:23 |
+| 8 | [Paradise By the Dashboard Light](https://open.spotify.com/track/2g7gviEeJr6pyxO7G35EWQ) | [Meat Loaf](https://open.spotify.com/artist/7dnB1wSxbYa8CejeVg98hz) | [Bat Out Of Hell](https://open.spotify.com/album/6mvI80w5r78niBmwtu7RF9) | 8:29 |
+| 9 | [Tell Him](https://open.spotify.com/track/0VZtkNntW57HvblvTBlABe) | [Patti Drew](https://open.spotify.com/artist/6CADfReW3qshQNGQ4yPf6c) | [Workin' On A Groovy Thing....The Best Of](https://open.spotify.com/album/0KFewH4mFw54lLLoP3lsRb) | 2:31 |
+| 10 | [Bye Bye Bye](https://open.spotify.com/track/62bOmKYxYg7dhrC6gH9vFn) | [\*NSYNC](https://open.spotify.com/artist/6Ff53KvcvAj5U7Z1vojB5o) | [No Strings Attached](https://open.spotify.com/album/20RMokVwJ2wjQ0s8FOdOFC) | 3:20 |
+| 11 | [Fight To Live](https://open.spotify.com/track/2nU4VND7sfHwzweYzCSMoI) | [The Bouncing Souls](https://open.spotify.com/artist/3mvTAjG7rcyk7DQzLwauzV) | [Hopeless Romantic](https://open.spotify.com/album/56CbFyDsG65LI1Eoh7hsOT) | 2:57 |
 
-Snapshot ID: `AAAMMw6T3pNig7W+aSmpMfi0BUG8pJLc`
+Snapshot ID: `AAAMSaGRM5yzZwI5XP20Hi46ouvlkU8A`

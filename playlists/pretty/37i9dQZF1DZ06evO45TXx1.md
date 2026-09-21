@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 
 > This is Mc Luanna\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,245 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,250 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO45TXx1.md) - [plain]
 | 49 | [Rude](https://open.spotify.com/track/3SNjK2Lcy8CaPnWwXZ9Py7) | [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6), [Vitin.wav](https://open.spotify.com/artist/4dVWrqP3FM2o5Bcocsrvwp), [Dagrace](https://open.spotify.com/artist/5RWAfDPfPQklvfe40tNxWT) | [44](https://open.spotify.com/album/1fPfNznpz4W17li7aAGBna) | 2:43 |
 | 50 | [Sucessagem](https://open.spotify.com/track/41Ju0wSEJXmA8KGYygwifb) | [Mulambo](https://open.spotify.com/artist/0AVKo8nQspPrPLJ9obwrqu), [ykymani](https://open.spotify.com/artist/2ckSzsg1PTecGyFiHsoKNY), [Mc Luanna](https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6) | [Sucessagem](https://open.spotify.com/album/5PFd9qeZkm2U9DjHxWNb7F) | 2:27 |
 
-Snapshot ID: `aqx/AAAAAAClDRRsG2sYhh//uZ9GYGSV`
+Snapshot ID: `aq3QgAAAAAC4bs36be3q6OK9fRcrM4lB`

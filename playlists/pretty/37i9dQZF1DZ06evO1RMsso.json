@@ -1,12 +1,12 @@
 {
   "description": "This is John Williams. The essential tracks, all in one playlist.",
-  "num_followers": 233194,
+  "num_followers": 233204,
   "original_name": "This Is John Williams",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAABMXLlW0G5/ShGGt0tEiH39",
+  "snapshot_id": "aq3QgAAAAADnFwiZt6hm/PDENfTxcFM7",
   "tracks": [
     {
       "added_at": null,
@@ -643,26 +643,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
-        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
-      },
-      "artists": [
-        {
-          "name": "John Williams",
-          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
-        },
-        {
-          "name": "London Symphony Orchestra",
-          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
-        }
-      ],
-      "duration_ms": 346933,
-      "name": "Star Wars (Main Theme)",
-      "url": "https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Silver Violin",
         "url": "https://open.spotify.com/album/47VlUP2jxeitw3MaAtIPQn"
       },
@@ -687,6 +667,26 @@
       "duration_ms": 228946,
       "name": "Main Theme (From \"Schindler's List\")",
       "url": "https://open.spotify.com/track/6uDHjpkyezYfIlSwW6HfkG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Star Wars: The Empire Strikes Back (Original Motion Picture Soundtrack)",
+        "url": "https://open.spotify.com/album/44TnXcUjTIHPBBROepl99a"
+      },
+      "artists": [
+        {
+          "name": "John Williams",
+          "url": "https://open.spotify.com/artist/3dRfiJ2650SZu6GbydcHNb"
+        },
+        {
+          "name": "London Symphony Orchestra",
+          "url": "https://open.spotify.com/artist/5yxyJsFanEAuwSM5kOuZKc"
+        }
+      ],
+      "duration_ms": 346933,
+      "name": "Star Wars (Main Theme)",
+      "url": "https://open.spotify.com/track/7a9UUo3zfID7Ik2fTQjRLi"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVp4cWdnm5ws.md) - [plain]
 
 > Introducing RADAR Philippines Cast of 2026\. Cover: fitterkarma
 
-[Spotify](https://open.spotify.com/user/spotify) - 135,773 likes - 56 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 135,781 likes - 56 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

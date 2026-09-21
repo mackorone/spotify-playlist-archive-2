@@ -1,12 +1,12 @@
 {
   "description": "This is Violent Soho. The essential tracks, all in one playlist.",
-  "num_followers": 7168,
+  "num_followers": 7175,
   "original_name": "This Is Violent Soho",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAADLft3aGzQk9DuVNdgJ/OV1",
+  "snapshot_id": "aq3QgAAAAAC64S+U1PRIsJcsH4ig1+ba",
   "tracks": [
     {
       "added_at": null,
@@ -599,6 +599,22 @@
       "duration_ms": 181333,
       "name": "Paper Plane",
       "url": "https://open.spotify.com/track/3j0rJCwtLGdK136n7d92p7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Violent Soho (Australia Version)",
+        "url": "https://open.spotify.com/album/6JekHcc4LeZNIYLanvjWW2"
+      },
+      "artists": [
+        {
+          "name": "Violent Soho",
+          "url": "https://open.spotify.com/artist/2N2EFVDEbp2JB8ulEUVIxp"
+        }
+      ],
+      "duration_ms": 180613,
+      "name": "Outsider",
+      "url": "https://open.spotify.com/track/1AsYwPPbpqv5o4M2C3n3kK"
     }
   ],
   "unique_name": "This Is Violent Soho",

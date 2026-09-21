@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 
 > All of your favourites, new favourites, live favourites and unearthed soon to be favourites\.  <a href="https://www.umusic.ca/collections/rediscover">here</a>
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,531 likes - 415 songs - 1 day 3 hr 51 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 3,529 likes - 415 songs - 1 day 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,7 +13,7 @@ pretty - [cumulative](/playlists/cumulative/1wkT3U3e6gnsgvi0dqMCEE.md) - [plain]
 | 3 | [Hard Luck Woman \- Outtake](https://open.spotify.com/track/104gOf7mPTkf9cCH4vDzIF) | [KISS](https://open.spotify.com/artist/07XSN3sPlIlB2L2XNcTwJw) | [Hard Luck Woman \(Outtake\)](https://open.spotify.com/album/1QTB19waB3UfK4x5MG9Sql) | 3:46 |
 | 4 | [Parade Of Loons](https://open.spotify.com/track/4d26ASDWApFAknkgKppZbk) | [Tom Petty and the Heartbreakers](https://open.spotify.com/artist/4tX2TplrkIP4v05BNC903e) | [Parade Of Loons](https://open.spotify.com/album/0KK6yCEZxgq41fQibK2MQH) | 3:03 |
 | 5 | [Red Eye To Memphis](https://open.spotify.com/track/5BSSzjYNoVADzCc6pLweIn) | [Bob Seger](https://open.spotify.com/artist/485uL27bPomh29R4JmQehQ) | [Face The Promise \(Expanded Edition\)](https://open.spotify.com/album/0D0izf9iXE3pphBaGtUjMw) | 3:07 |
-| 6 | [Drown Soda \- Live At Brixton Academy,1995](https://open.spotify.com/track/5H5BQYIIKbvyY8FprP2p9j) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Teenage Whore](https://open.spotify.com/album/6XXhkGbSwa7PYItDBfSFJO) | 4:49 |
+| 6 | [Drown Soda](https://open.spotify.com/track/5H5BQYIIKbvyY8FprP2p9j) | [Hole](https://open.spotify.com/artist/5SHQUMAmEK5KmuSb0aDvsn) | [Teenage Whore](https://open.spotify.com/album/6XXhkGbSwa7PYItDBfSFJO) | 4:49 |
 | 7 | [All My Life \- Channel Tres Remix](https://open.spotify.com/track/0TgLFlVroT5JBtzPYq3qZT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [All My Life \(Channel Tres Remix\)](https://open.spotify.com/album/50y7CGtM5ZI3OwmwME9vBb) | 4:40 |
 | 8 | [Ahead By A Century \- Live July 22 \- August 20, 2016](https://open.spotify.com/track/51nPNBWBfConxNUyGYplu2) | [The Tragically Hip](https://open.spotify.com/artist/0YMeriqrS3zgsX24nfY0F0) | [Ahead By A Century \(Live July 22 \- August 20, 2016\)](https://open.spotify.com/album/3ArppNtTxIGWQrdcc0lq0i) | 7:11 |
 | 9 | [Day Tripper \(Songwriting Work Tape\)](https://open.spotify.com/track/5bEuCG8Ih4tOIfMNO3enQo) | [The Beatles](https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2) | [Day Tripper \(Songwriting Work Tape\)](https://open.spotify.com/album/0tg8bWIXHgk8XL6arW9Y2v) | 2:19 |

@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-757 songs - 1 day 23 hr 14 min
+758 songs - 1 day 23 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,6 +47,7 @@
 | [Americana Coast](https://open.spotify.com/track/6BpQBUwter4qGrZ4iYgRbf) | [Bill Filipiak](https://open.spotify.com/artist/2xdtTND1CviwJbO8j2wvpM) | [Americana Coast](https://open.spotify.com/album/4xfZpPgxxxWPxOQjeR1x5Q) | 3:03 | 2025-09-28 | 2025-12-17 |
 | [Amor à beira\-mar](https://open.spotify.com/track/4Wt6Rqu8Jignaau0U6MGth) | [Zeo Hettes](https://open.spotify.com/artist/5sgQCBSCf5KzI2AN5Iupot) | [Amor à beira\-mar](https://open.spotify.com/album/0YKJeiPBR2EzGcabyZz0U7) | 2:56 | 2026-09-06 | 2026-09-20 |
 | [Anaconda](https://open.spotify.com/track/6uF9EXY8NveGo9gvIFLxT5) | [Viva Los Villains](https://open.spotify.com/artist/0gU9Wj53y2a5ufEPhdhnJJ) | [Viva Los Villains](https://open.spotify.com/album/2Dui44Gfszog7oXQwhDocC) | 4:10 | 2026-01-25 | 2026-04-21 |
+| [And I](https://open.spotify.com/track/5voWbOW9uiUxyY8Dc5SzPk) | [Ramblings of Mad Men](https://open.spotify.com/artist/75HRhhpgS05x2R6YVGihyv) | [And I](https://open.spotify.com/album/3TMufmZ9VQZbJf5oTyNsdC) | 4:41 | 2026-09-20 |  |
 | [And so It Goes](https://open.spotify.com/track/63Se5wwHJtZyr4aEb3WZn2) | [Erik Knear](https://open.spotify.com/artist/4cqX5xi0OBk2rvpwhq8gLV) | [Melodia: Ch.5\-6](https://open.spotify.com/album/2hQrBV27jVEfYnFkAaGLiO) | 3:38 | 2025-12-31 | 2026-03-18 |
 | [Andando Sin Prisa](https://open.spotify.com/track/7F14FNeb1lWPxNHXTkJvjk) | [El Sueño de Vákner](https://open.spotify.com/artist/7fWvpRmhgfH4IJpeXain5l) | [Andando Sin Prisa](https://open.spotify.com/album/5RCbfhmxo8NhkWQJZsIApe) | 4:28 | 2026-04-05 | 2026-04-21 |
 | [Angel Can You Hear Me](https://open.spotify.com/track/7zC97ICTUUdzfDRvlbtu6Y) | [Sam Wilson](https://open.spotify.com/artist/2HLoEJMRPOYaumUCslXOIW) | [Optimist](https://open.spotify.com/album/5A5PiRlBXDmIr7XhXoEBln) | 3:32 | 2025-09-03 | 2026-07-12 |

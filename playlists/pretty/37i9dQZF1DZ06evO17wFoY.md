@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 
 > This is Lang Lang\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 30,137 likes - 50 songs - 3 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 30,140 likes - 50 songs - 3 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -43,8 +43,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 33 | [Romance "O pourquoi donc" in E Minor, S\. 169](https://open.spotify.com/track/4wKGetA5crT9tZhjqTLTka) | [Franz Liszt](https://open.spotify.com/artist/1385hLNbrnbCJGokfH2ac2), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Liszt \- My Piano Hero](https://open.spotify.com/album/39Hh5k01di42nUCLn8Wxqu) | 3:05 |
 | 34 | [Pavane, Op\. 50 \(Version for Piano\)](https://open.spotify.com/track/349KIIngrzk0ObXRz3pqlG) | [Gabriel Fauré](https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Saint\-Saëns](https://open.spotify.com/album/3923ndf9zKgvppYaawmuIO) | 6:12 |
 | 35 | [ICARUS \(Version for Piano 4 Hands\)](https://open.spotify.com/track/2Ebny6CAm0KH0YvWvLQBNz) | [Tony Ann](https://open.spotify.com/artist/6Y1uosuiV7bpiOuCUgibsN), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Ann: ICARUS \(Version for Piano 4 Hands\)](https://open.spotify.com/album/70wHjMEcYKBwNTufddc69I) | 3:18 |
-| 36 | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [We Don’t Talk About Bruno \(From "Encanto"\)](https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB) | 4:04 |
-| 37 | [Nocturne in E\-Flat Major, Op\. 55, No\. 2](https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 6:06 |
+| 36 | [Nocturne in E\-Flat Major, Op\. 55, No\. 2](https://open.spotify.com/track/1QBaOzhMlaWx9zQZIEmJFx) | [Frédéric Chopin](https://open.spotify.com/artist/7y97mc3bZRFXzT2szRM4L4), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Lang Lang: The Chopin Album](https://open.spotify.com/album/0ylbO515jtrovpxr1drKdF) | 6:06 |
+| 37 | [We Don’t Talk About Bruno \- From "Encanto"](https://open.spotify.com/track/5F264i1Fu4MWmrPmcZJHFy) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [We Don’t Talk About Bruno \(From "Encanto"\)](https://open.spotify.com/album/03ZQmULANLj7M3HitSmKlB) | 4:04 |
 | 38 | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \- From "The Little Mermaid" \(Feat\. Cocomi\)](https://open.spotify.com/track/1EjWb7pZLbBGOXNRcNOcip) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Cocomi](https://open.spotify.com/artist/76LVGyW3On02K0by9U8YwV) | [Part of Your World \(Arr\. Hamilton for Piano & Flute\) \[From "The Little Mermaid" \(Feat\. Cocomi\)\]](https://open.spotify.com/album/6NOC4ZGRz0xRs7NSSTMxVF) | 5:44 |
 | 39 | [Hunting Cantata, BWV 208: No\. 9\. Sheep May Safely Graze \(Transc\. Duck for 4 Hands\)](https://open.spotify.com/track/6XMIUEpp8McfEetWKMuuyQ) | [Johann Sebastian Bach](https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4), [Gina Alice](https://open.spotify.com/artist/2h8Yy5xhlNbJsekoeiPhbb) | [Bach: Goldberg Variations \(Extended Edt.\)](https://open.spotify.com/album/3syYFlKHyCm7zb4otxwD95) | 4:50 |
 | 40 | [To Zanarkand \(From "Final Fantasy X"\)](https://open.spotify.com/track/1k1zai8aT3y6BSlxAxQMTF) | [Nobuo Uematsu](https://open.spotify.com/artist/3V79CTgRnsDdJSTqKitROv), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book 2](https://open.spotify.com/album/0FOJ6DuCnJJFrchU8xT8Vx) | 2:50 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO17wFoY.md) - [plain]
 | 49 | [Rainbow Connection \- From "The Muppet Movie"](https://open.spotify.com/track/2zDcsFEQTjCTxl4Efod6Ml) | [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Rainbow Connection \(From "The Muppet Movie"\)](https://open.spotify.com/album/3LU9IHeZtf8OknOkm0tkXv) | 4:10 |
 | 50 | [The Maiden's Prayer, Op\. 4](https://open.spotify.com/track/2UcElfPTg3OhgksZILHrfT) | [Tekla Bądarzewska\-Baranowska](https://open.spotify.com/artist/6k5QMNAiFtCQHbLJrgivjG), [Lang Lang](https://open.spotify.com/artist/1YZhNFBxkEB5UKTgMDvot4) | [Piano Book \(Deluxe Edition\)](https://open.spotify.com/album/1XORY4rQNhqkZxTze6Px90) | 4:26 |
 
-Snapshot ID: `aqx/AAAAAABaW3/ybA5OsnGCTKagdPcd`
+Snapshot ID: `aq3QgAAAAAALjrN8Z+WBqkMUdH3dKpIA`

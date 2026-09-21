@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,786 songs - 10 day 19 hr 2 min
+4,787 songs - 10 day 19 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1974,6 +1974,7 @@
 | [I Choose to Live](https://open.spotify.com/track/4hFfzteMtbt3HtWft1pZ50) | [The Seadix](https://open.spotify.com/artist/5q5xX0d07ULjV8NKTGXLrB) | [I Choose to Live](https://open.spotify.com/album/0cdulu3FpKkcN5oBYftA1s) | 3:48 | 2025-03-20 |  |
 | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/track/4EjpTKFTO6MaCK0Lx5Y1hq) | [9lives](https://open.spotify.com/artist/2MQN1o9W3ULxdT38vj8g4Q), [Kanii](https://open.spotify.com/artist/1S82w4yw9TYIHZ889mPPaW), [Anycia](https://open.spotify.com/artist/4bOqkIGQCcuZgjfDxNuX1I) | [I DID IT \(w/ Kanii & Anycia\)](https://open.spotify.com/album/36C2ZuAPEWKfTps7yIG1oB) | 2:39 | 2025-07-28 |  |
 | [I Don't Belong Here](https://open.spotify.com/track/3yuhoF0xO4cxMyCjO0FHvs) | [Mr\. ES DE](https://open.spotify.com/artist/4Z5lr0Gnbgvi2k1knMvc7P) | [I Don't Belong Here](https://open.spotify.com/album/6HGpw7lAuWDwKWFjqYGW9p) | 2:22 | 2026-02-13 |  |
+| [I Don't Wanna](https://open.spotify.com/track/68HJ0xRRiP5lmfvpP83GF4) | [The Spent Priests](https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV) | [I Don't Wanna](https://open.spotify.com/album/4K2AA3lxoriLp75m4o9d5I) | 2:41 | 2026-09-20 |  |
 | [I Enjoy](https://open.spotify.com/track/5dBI4K5goclLzsV7mu7mUw) | [Nyakstar](https://open.spotify.com/artist/4sIGvBMOHQSdtFKsE8JAIT) | [I Enjoy](https://open.spotify.com/album/7DEcbvAc0faCvQrM6n8bVD) | 2:30 | 2025-06-11 |  |
 | [I Fear Alone](https://open.spotify.com/track/5SA7OQX7g9dRQlmZfMYrzu) | [Kerem Berk](https://open.spotify.com/artist/54oQs8WbSCHvoqZ2mlVL0C) | [I Fear Alone](https://open.spotify.com/album/1hiUOjMAVXRkQv6EinfkT1) | 2:50 | 2026-07-10 |  |
 | [I Feel Good](https://open.spotify.com/track/7c4xH2X2ht6LN26G7TRa3S) | [Brian Grey](https://open.spotify.com/artist/3pPN42kSubPiCcWQfuCHF2) | [I Feel Good](https://open.spotify.com/album/4g9E1R8MCCsiisYAjQ7t4q) | 2:43 | 2026-01-08 |  |

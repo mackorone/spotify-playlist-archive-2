@@ -8989,6 +8989,28 @@
     },
     {
       "album": {
+        "name": "SOUNDBLAST EP",
+        "url": "https://open.spotify.com/album/0clDQUmIQ3Em3I0mGt9M3M"
+      },
+      "artists": [
+        {
+          "name": "MrKoolTrix",
+          "url": "https://open.spotify.com/artist/1FwT1hBOkIAfg3fXFo0J3x"
+        },
+        {
+          "name": "Niic",
+          "url": "https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 290571,
+      "name": "Sign My Heart Away",
+      "url": "https://open.spotify.com/track/68r6xq0n43NJBXSDjhugs2"
+    },
+    {
+      "album": {
         "name": "Ponies At Dawn Fusion",
         "url": "https://open.spotify.com/album/4OGFquHWqzLZIAonNWdDwh"
       },

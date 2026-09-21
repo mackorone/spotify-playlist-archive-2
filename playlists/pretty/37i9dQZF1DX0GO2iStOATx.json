@@ -1,12 +1,12 @@
 {
   "description": "Punjabi aa gaye oye!",
-  "num_followers": 237495,
+  "num_followers": 237555,
   "original_name": "This Is Diljit Dosanjh",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAADd8EXV30wj1wIhLRtb1Os+eoFQb",
+  "snapshot_id": "AAAAAN76M3RB9BYMrz6mJ+oOofT9ymsG",
   "tracks": [
     {
       "added_at": "2026-09-11 10:46:59",
@@ -223,8 +223,8 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
-        "name": "Water",
-        "url": "https://open.spotify.com/album/28hNsbbvkDlH26ep3bZeWE"
+        "name": "I'm an Artist Bro",
+        "url": "https://open.spotify.com/album/4ARSnCAzktqCDEKuBUBgdE"
       },
       "artists": [
         {
@@ -232,17 +232,17 @@
           "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
         },
         {
-          "name": "MixSingh",
-          "url": "https://open.spotify.com/artist/05dG9pMLRWenxzvSmefE6U"
+          "name": "Simar",
+          "url": "https://open.spotify.com/artist/5neDijXb4H6iIlJJVB1uyf"
         },
         {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+          "name": "Satta",
+          "url": "https://open.spotify.com/artist/1PPJOqgRkoDM4UVrH5W2vj"
         }
       ],
-      "duration_ms": 196800,
-      "name": "Water",
-      "url": "https://open.spotify.com/track/25jtUwCQfXwnxENh8Bvoj4"
+      "duration_ms": 170666,
+      "name": "Love Like This",
+      "url": "https://open.spotify.com/track/5bC481ZHpapTgZUWPfIX0k"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -651,6 +651,46 @@
     {
       "added_at": "2026-09-11 10:46:59",
       "album": {
+        "name": "Saanvle (feat. Raj Ranjodh)",
+        "url": "https://open.spotify.com/album/4bU263ULrrVYSP2J7Vp97X"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "Raj Ranjodh",
+          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
+        }
+      ],
+      "duration_ms": 208333,
+      "name": "Saanvle (feat. Raj Ranjodh)",
+      "url": "https://open.spotify.com/track/7EP2pUtxJeEEqN0V7hLjNg"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
+        "name": "Ghost",
+        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        },
+        {
+          "name": "thiarajxtt",
+          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
+        }
+      ],
+      "duration_ms": 148619,
+      "name": "Icon",
+      "url": "https://open.spotify.com/track/4OmhUrKAKTBxdvscSfx1gp"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
         "name": "Ghost",
         "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
       },
@@ -712,65 +752,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 148619,
-      "name": "Icon",
-      "url": "https://open.spotify.com/track/4OmhUrKAKTBxdvscSfx1gp"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
-        "name": "Saanvle (feat. Raj Ranjodh)",
-        "url": "https://open.spotify.com/album/4bU263ULrrVYSP2J7Vp97X"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "Raj Ranjodh",
-          "url": "https://open.spotify.com/artist/183DgO92lAqgpVVNKI7ZKF"
-        }
-      ],
-      "duration_ms": 208333,
-      "name": "Saanvle (feat. Raj Ranjodh)",
-      "url": "https://open.spotify.com/track/7EP2pUtxJeEEqN0V7hLjNg"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
-        "name": "Ghost",
-        "url": "https://open.spotify.com/album/1d1FYLFpu2NITI6ilVaHDd"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        },
-        {
-          "name": "thiarajxtt",
-          "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
-        }
-      ],
       "duration_ms": 36966,
       "name": "Enlightenment",
       "url": "https://open.spotify.com/track/2eMyIBkiRlPYWNBBAGEZEx"
-    },
-    {
-      "added_at": "2026-09-11 10:46:59",
-      "album": {
-        "name": "Roar",
-        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
-      },
-      "artists": [
-        {
-          "name": "Diljit Dosanjh",
-          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
-        }
-      ],
-      "duration_ms": 161061,
-      "name": "Sahnewal",
-      "url": "https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -791,6 +775,22 @@
       "duration_ms": 148158,
       "name": "Cry Later",
       "url": "https://open.spotify.com/track/72ztIrIf22Mf9hDqr8xaYo"
+    },
+    {
+      "added_at": "2026-09-11 10:46:59",
+      "album": {
+        "name": "Roar",
+        "url": "https://open.spotify.com/album/1pcsPt7079EJi5u9OzHYqa"
+      },
+      "artists": [
+        {
+          "name": "Diljit Dosanjh",
+          "url": "https://open.spotify.com/artist/2FKWNmZWDBZR4dE5KX4plR"
+        }
+      ],
+      "duration_ms": 161061,
+      "name": "Sahnewal",
+      "url": "https://open.spotify.com/track/5mis73YN8K7yqFLZrJandE"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -952,9 +952,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 180698,
-      "name": "Kehkashan",
-      "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
+      "duration_ms": 137395,
+      "name": "Whatcha Doin'",
+      "url": "https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin"
     },
     {
       "added_at": "2026-09-11 10:46:59",
@@ -972,9 +972,9 @@
           "url": "https://open.spotify.com/artist/54BjV0qctcWp8xOip7uaJD"
         }
       ],
-      "duration_ms": 137395,
-      "name": "Whatcha Doin'",
-      "url": "https://open.spotify.com/track/3O4pPBep2Rzn6KS2iqdrin"
+      "duration_ms": 180698,
+      "name": "Kehkashan",
+      "url": "https://open.spotify.com/track/2NTtfjk6ShR9uQcKJh1yX9"
     }
   ],
   "unique_name": "This Is Diljit Dosanjh",

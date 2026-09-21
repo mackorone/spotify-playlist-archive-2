@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,891 songs - 6 day 8 hr 38 min
+2,892 songs - 6 day 8 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -2154,6 +2154,7 @@
 | [Shepherd of Shepherds](https://open.spotify.com/track/2bF0RmJ02sBUN071VzRzuq) | [Even the Stones](https://open.spotify.com/artist/61fz1O255Ugkef2PIhI2gB) | [The Light We Follow](https://open.spotify.com/album/2Gu41B1tuwYhXmjeE2pHl4) | 4:37 | 2025-12-08 | 2026-01-15 |
 | [Sherbertland](https://open.spotify.com/track/1kwb46coeelRPgk0GD4F9l) | [A VIOLET IN YOUTH](https://open.spotify.com/artist/3Gqlvwb5U3hbST19eSdJqB) | [AVIY](https://open.spotify.com/album/6gn1IBT8ILZUy7KRDcyAXc) | 4:35 | 2026-01-25 | 2026-02-26 |
 | [Shine On](https://open.spotify.com/track/0qXC3o4BrP3BqhzeKUnW23) | [Lucigenic](https://open.spotify.com/artist/1lVDqniuDCvT75gxpbaoaJ) | [Shine On](https://open.spotify.com/album/4Sh0BtIeH17hFy2Y8IRVMY) | 4:19 | 2026-01-02 | 2026-02-03 |
+| [Shine Your Light](https://open.spotify.com/track/5vBTfGSVuiHyGjPCH21yZC) | [Tiny Rock Star Kids](https://open.spotify.com/artist/20gSn3431k1lhQLMHgWfsO) | [Shine Your Light](https://open.spotify.com/album/5Hg07qsAbxSvi0oiOMrJpw) | 3:15 | 2026-09-20 |  |
 | [Shipwreck](https://open.spotify.com/track/0IQSAjyhwSk9xrwlwDFOvM) | [Half Open Tales](https://open.spotify.com/artist/4K53wLhKH9D0BOiwDDW7bO) | [Shipwreck](https://open.spotify.com/album/6AlUStpu1jaarNt1yb6CUi) | 3:12 | 2026-06-11 | 2026-07-13 |
 | [Shivers](https://open.spotify.com/track/4Fe7pPqB4PODLP3r7TjTGd) | [Chloé Caroline](https://open.spotify.com/artist/4XVGlRSNTpzNRW63mIFJ8l) | [Shivers](https://open.spotify.com/album/7GeYtGCp3ZwveeLpHTWEST) | 3:29 | 2026-07-01 | 2026-08-05 |
 | [Shockwave](https://open.spotify.com/track/4zWRdirRDv4yvu0Gw4J4PB) | [Anything's Possible](https://open.spotify.com/artist/3OkhoxcppuzK4bJswS2aZX) | [Hello Everyone, How Are You?](https://open.spotify.com/album/09JQAkeCBSkbroiQIFjw3K) | 3:58 | 2026-01-23 | 2026-07-28 |

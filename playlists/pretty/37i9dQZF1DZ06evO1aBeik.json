@@ -1,12 +1,12 @@
 {
   "description": "This is Post Malone. The essential tracks, all in one playlist.",
-  "num_followers": 2804071,
+  "num_followers": 2804013,
   "original_name": "This Is Post Malone",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAAD7jFWun4nH/u3g0nkFnaET",
+  "snapshot_id": "aq3QgAAAAAC8YiZfaXyZ1EI9OzCeKpQu",
   "tracks": [
     {
       "added_at": null,
@@ -814,11 +814,15 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
+        },
+        {
+          "name": "Larry June",
+          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         }
       ],
-      "duration_ms": 144360,
-      "name": "Git Wit U",
-      "url": "https://open.spotify.com/track/5c9Uyjh4J1tgMpvPc6dRHx"
+      "duration_ms": 271573,
+      "name": "Never Understand",
+      "url": "https://open.spotify.com/track/5m2bi24Cc5ABIC14HFJmrs"
     },
     {
       "added_at": null,
@@ -886,15 +890,11 @@
         {
           "name": "Post Malone",
           "url": "https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60"
-        },
-        {
-          "name": "Larry June",
-          "url": "https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl"
         }
       ],
-      "duration_ms": 271573,
-      "name": "Never Understand",
-      "url": "https://open.spotify.com/track/5m2bi24Cc5ABIC14HFJmrs"
+      "duration_ms": 144360,
+      "name": "Git Wit U",
+      "url": "https://open.spotify.com/track/5c9Uyjh4J1tgMpvPc6dRHx"
     },
     {
       "added_at": null,

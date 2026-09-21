@@ -6,8 +6,32 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALQ7Jh/VlCECHF8ng1rUHKZG0dJ61V",
+  "snapshot_id": "AAALShZmn01i5cTnF+vGRb2zQhCiojBE",
   "tracks": [
+    {
+      "added_at": "2026-09-20 13:23:29",
+      "album": {
+        "name": "Sweet Lullabies",
+        "url": "https://open.spotify.com/album/2pSGR0hbEJ3NU6PDcGoRIH"
+      },
+      "artists": [
+        {
+          "name": "Sw33t Tea",
+          "url": "https://open.spotify.com/artist/0VIRme1Ou51Ja9BKAbXRIj"
+        },
+        {
+          "name": "Brandon Wolf Hill",
+          "url": "https://open.spotify.com/artist/7EYYR9anlJRktScur5Jbsd"
+        },
+        {
+          "name": "Sam Spah",
+          "url": "https://open.spotify.com/artist/27K6xUNvwRtArV6AvngeVC"
+        }
+      ],
+      "duration_ms": 158440,
+      "name": "Sweet Lullabies",
+      "url": "https://open.spotify.com/track/4UR50vuN8TOdyXGguSUUgy"
+    },
     {
       "added_at": "2022-08-16 09:32:19",
       "album": {
@@ -44699,6 +44723,38 @@
       "duration_ms": 205121,
       "name": "Summer Nights",
       "url": "https://open.spotify.com/track/7FBdQeCOVJi465fK6Y2uNe"
+    },
+    {
+      "added_at": "2026-09-20 11:04:42",
+      "album": {
+        "name": "\u0422\u0438 \u043e\u0434\u043d\u0430",
+        "url": "https://open.spotify.com/album/0ZankfEUuI9HX0DlAiMM7w"
+      },
+      "artists": [
+        {
+          "name": "\u0412\u043b\u0430\u0434 \u0417\u0430\u0439\u0446\u0435\u0432",
+          "url": "https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h"
+        }
+      ],
+      "duration_ms": 217092,
+      "name": "\u0422\u0438 \u043e\u0434\u043d\u0430",
+      "url": "https://open.spotify.com/track/1TTAOvapubQP7UrD5aoFtd"
+    },
+    {
+      "added_at": "2026-09-20 16:49:40",
+      "album": {
+        "name": "Lappeenrannassa",
+        "url": "https://open.spotify.com/album/2FLEpk7AtlJcAcPBBrM6Ow"
+      },
+      "artists": [
+        {
+          "name": "Muupe B. Horto",
+          "url": "https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa"
+        }
+      ],
+      "duration_ms": 122640,
+      "name": "Kiitos Ja N\u00e4kemiin",
+      "url": "https://open.spotify.com/track/53fQ93YMUdK4uc5TP6CdiX"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

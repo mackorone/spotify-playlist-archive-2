@@ -22195,6 +22195,24 @@
     },
     {
       "album": {
+        "name": "Lappeenrannassa",
+        "url": "https://open.spotify.com/album/2FLEpk7AtlJcAcPBBrM6Ow"
+      },
+      "artists": [
+        {
+          "name": "Muupe B. Horto",
+          "url": "https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 122640,
+      "name": "Kiitos Ja N\u00e4kemiin",
+      "url": "https://open.spotify.com/track/53fQ93YMUdK4uc5TP6CdiX"
+    },
+    {
+      "album": {
         "name": "Kindest Thing",
         "url": "https://open.spotify.com/album/4qAHhJN0GEVaNUeRZPVYq3"
       },
@@ -39923,6 +39941,32 @@
     },
     {
       "album": {
+        "name": "Sweet Lullabies",
+        "url": "https://open.spotify.com/album/2pSGR0hbEJ3NU6PDcGoRIH"
+      },
+      "artists": [
+        {
+          "name": "Sw33t Tea",
+          "url": "https://open.spotify.com/artist/0VIRme1Ou51Ja9BKAbXRIj"
+        },
+        {
+          "name": "Brandon Wolf Hill",
+          "url": "https://open.spotify.com/artist/7EYYR9anlJRktScur5Jbsd"
+        },
+        {
+          "name": "Sam Spah",
+          "url": "https://open.spotify.com/artist/27K6xUNvwRtArV6AvngeVC"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 158440,
+      "name": "Sweet Lullabies",
+      "url": "https://open.spotify.com/track/4UR50vuN8TOdyXGguSUUgy"
+    },
+    {
+      "album": {
         "name": "Sweeter than Sugar",
         "url": "https://open.spotify.com/album/69k9HVL64ONQ6tC7spzlqi"
       },
@@ -48132,6 +48176,24 @@
       "duration_ms": 157697,
       "name": "\u0421\u0442\u0438\u0445\u0438 \u0443\u0441\u044b\u043f\u0430\u043d\u044b \u0437\u043e\u043b\u043e\u0439",
       "url": "https://open.spotify.com/track/5lKLESXe57MOnrruGp509e"
+    },
+    {
+      "album": {
+        "name": "\u0422\u0438 \u043e\u0434\u043d\u0430",
+        "url": "https://open.spotify.com/album/0ZankfEUuI9HX0DlAiMM7w"
+      },
+      "artists": [
+        {
+          "name": "\u0412\u043b\u0430\u0434 \u0417\u0430\u0439\u0446\u0435\u0432",
+          "url": "https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217092,
+      "name": "\u0422\u0438 \u043e\u0434\u043d\u0430",
+      "url": "https://open.spotify.com/track/1TTAOvapubQP7UrD5aoFtd"
     },
     {
       "album": {

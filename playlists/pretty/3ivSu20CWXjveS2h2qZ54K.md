@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 
 > Las mejores novedades de cada viernes, seleccionadas por la redacción de JENESAISPOP
 
-[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,926 likes - 92 songs - 5 hr 16 min
+[Jenesaispop](https://open.spotify.com/user/jenesaispop) - 6,926 likes - 93 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,5 +100,6 @@ pretty - [cumulative](/playlists/cumulative/3ivSu20CWXjveS2h2qZ54K.md) - [plain]
 | 90 | [Calm](https://open.spotify.com/track/5Z3CFErjZYVNQaE0KKi6pd) | [Caroline Rose](https://open.spotify.com/artist/06W84OT2eFUNVwG85UsxJw) | [Calm](https://open.spotify.com/album/4KgHvvtfb8DxKJxV36gNXb) | 3:14 |
 | 91 | [Cosmo](https://open.spotify.com/track/53LCxaIGdppdYfRfdsdQwn) | [Actress](https://open.spotify.com/artist/3bg5rmICvmA8dmYVAdKGYH) | [Radical Frame](https://open.spotify.com/album/4bvfwACExnuV8cVqmTvneG) | 2:31 |
 | 92 | [Anvil](https://open.spotify.com/track/6yZ1ma0MqAP1R8V1kECc7K) | [Emma Ruth Rundle](https://open.spotify.com/artist/34gLicNdz493863yZTanvC) | [These Killing Times](https://open.spotify.com/album/2qTYkMZ8qtOcyEgD5LTawC) | 5:22 |
+| 93 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 |
 
-Snapshot ID: `AADrNu/PlF5h3jbhsjwejnyEpv+Obqjz`
+Snapshot ID: `AADrN+ssrcn+vauR+Qs1Ln8/izjXH4g2`

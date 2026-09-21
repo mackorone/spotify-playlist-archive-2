@@ -7135,6 +7135,28 @@
     },
     {
       "album": {
+        "name": "MIXTAPE (001)",
+        "url": "https://open.spotify.com/album/4f9nEXldg0Q5WY33QRN7RX"
+      },
+      "artists": [
+        {
+          "name": "mynameisfide",
+          "url": "https://open.spotify.com/artist/0iDEef1IW8GY5CjkrZxQXp"
+        },
+        {
+          "name": "Arupo",
+          "url": "https://open.spotify.com/artist/0DrznF1eEXvOhm2uZ4bXyc"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137000,
+      "name": "apagon (miercoles)",
+      "url": "https://open.spotify.com/track/3mddwCpS3qQSPkVBKh1nYL"
+    },
+    {
+      "album": {
         "name": "Apareciste",
         "url": "https://open.spotify.com/album/5mWqJlgW9XFPZU4AG2WxVc"
       },
@@ -23398,7 +23420,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 170377,
       "name": "Creepin At My Window",
       "url": "https://open.spotify.com/track/2WXbnxUAyRROexxM5H06GU"
@@ -27136,6 +27158,24 @@
       "duration_ms": 240285,
       "name": "Dimensionality",
       "url": "https://open.spotify.com/track/0gtKPzI9PTsV4Ss6ln02BA"
+    },
+    {
+      "album": {
+        "name": "Bonnie and Clyde",
+        "url": "https://open.spotify.com/album/7Efl5b0EmV93u9k1WeBo2G"
+      },
+      "artists": [
+        {
+          "name": "SaretzkyGallery",
+          "url": "https://open.spotify.com/artist/6lIlcJHsEuR3mUDssKRPu6"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 321240,
+      "name": "Dinosaur Blues",
+      "url": "https://open.spotify.com/track/6iCxcGxKqXO3nsu9qC6RcR"
     },
     {
       "album": {
@@ -65182,7 +65222,7 @@
       ],
       "date_added": "2024-06-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 216009,
       "name": "Love Story",
       "url": "https://open.spotify.com/track/30uFI1KICQnH4N7wv0UQIh"
@@ -91127,6 +91167,24 @@
     },
     {
       "album": {
+        "name": "Same Train",
+        "url": "https://open.spotify.com/album/4dntdgAScxEYy00uXNYQsY"
+      },
+      "artists": [
+        {
+          "name": "Sue Ray",
+          "url": "https://open.spotify.com/artist/0X5AzsfEoqLOqtWczOKE3B"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 232760,
+      "name": "Same Train",
+      "url": "https://open.spotify.com/track/5zkfweSEqiARpZ4eIMnd4N"
+    },
+    {
+      "album": {
         "name": "Sample",
         "url": "https://open.spotify.com/album/7lSHOFSp9AJxOsO4ZrcI0t"
       },
@@ -92958,6 +93016,24 @@
       "duration_ms": 244183,
       "name": "September",
       "url": "https://open.spotify.com/track/7n40YhDRGRow6PgquDAWRm"
+    },
+    {
+      "album": {
+        "name": "September Night",
+        "url": "https://open.spotify.com/album/1HEtdCsasPweeLYZwiX7sO"
+      },
+      "artists": [
+        {
+          "name": "Max Rose",
+          "url": "https://open.spotify.com/artist/5UJEMlPdNJYwIeWj6n0e2b"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160276,
+      "name": "September Night",
+      "url": "https://open.spotify.com/track/6lk2PuidQAiwiVfb4G0QMb"
     },
     {
       "album": {
@@ -105957,6 +106033,24 @@
     },
     {
       "album": {
+        "name": "The Company I Keep",
+        "url": "https://open.spotify.com/album/0qUZ9P7tqCSJNklevgUCMI"
+      },
+      "artists": [
+        {
+          "name": "John Haywood",
+          "url": "https://open.spotify.com/artist/5yQUEBrCLsgRvH8ceG7TTM"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218174,
+      "name": "The Company I Keep",
+      "url": "https://open.spotify.com/track/2CHOEHU3zkZ2oPYGyyGEj3"
+    },
+    {
+      "album": {
         "name": "The Cure",
         "url": "https://open.spotify.com/album/38qkz7KdPXntMxHpsQQI6U"
       },
@@ -106646,6 +106740,24 @@
       "duration_ms": 196595,
       "name": "The Last Word",
       "url": "https://open.spotify.com/track/7zFaOiJj5igKMWoZw0Rh33"
+    },
+    {
+      "album": {
+        "name": "Arcade",
+        "url": "https://open.spotify.com/album/0m1hk2vhKnNzomKy6TQBvi"
+      },
+      "artists": [
+        {
+          "name": "Arnie Flo",
+          "url": "https://open.spotify.com/artist/64Kz1WVJ7ZM68BW1Ue5KR1"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121263,
+      "name": "The Lights",
+      "url": "https://open.spotify.com/track/069ugYXOPPDIsL5IcZRqQW"
     },
     {
       "album": {
@@ -118297,6 +118409,24 @@
     },
     {
       "album": {
+        "name": "What the Fudd?",
+        "url": "https://open.spotify.com/album/54PWAFmpsuG68Owp6GLGXZ"
+      },
+      "artists": [
+        {
+          "name": "Judd Mellon and the Cantaloupes",
+          "url": "https://open.spotify.com/artist/4WLO1tdXRrhfjDjZMsYB5S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 286480,
+      "name": "What the Fudd?",
+      "url": "https://open.spotify.com/track/5LCPHnAIoxc0Os4erxSgy7"
+    },
+    {
+      "album": {
         "name": "What They Know",
         "url": "https://open.spotify.com/album/6obrNW9eNKYynEOw12ZurX"
       },
@@ -118348,6 +118478,24 @@
       "duration_ms": 209286,
       "name": "What Was That",
       "url": "https://open.spotify.com/track/2jNyiavSywmA472t2m6ZBz"
+    },
+    {
+      "album": {
+        "name": "What Will I Do",
+        "url": "https://open.spotify.com/album/73hHaFwADfXCoEIuExuAol"
+      },
+      "artists": [
+        {
+          "name": "Emily McLoud",
+          "url": "https://open.spotify.com/artist/51F5xANuZ6phsIvT8tAdYa"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 168271,
+      "name": "What Will I Do",
+      "url": "https://open.spotify.com/track/4Hw6L4yWjgPfQR6g3hKNn0"
     },
     {
       "album": {

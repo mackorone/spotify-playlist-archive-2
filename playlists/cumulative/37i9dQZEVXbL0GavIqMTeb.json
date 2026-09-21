@@ -5808,7 +5808,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 112373,
       "name": "Chicha de Curacav\u00ed",
       "url": "https://open.spotify.com/track/7Ds48ZCIjmcWWuCeqoDOOO"
@@ -8096,7 +8096,7 @@
       ],
       "date_added": "2026-06-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 276000,
       "name": "De Lejitos - Remix",
       "url": "https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo"
@@ -8914,7 +8914,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 246428,
       "name": "Dichavate",
       "url": "https://open.spotify.com/track/6Ab2trdJulkRRhaJ9zVGQa"
@@ -10194,7 +10194,7 @@
       ],
       "date_added": "2021-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 113400,
       "name": "El Costillar",
       "url": "https://open.spotify.com/track/6iFPOUYTO1HUs3sDGBjM7Y"
@@ -10606,7 +10606,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 131586,
       "name": "El Sol Y La Luna",
       "url": "https://open.spotify.com/track/4CWHhniBTu0AfxnUuJvAIs"
@@ -16111,6 +16111,24 @@
     },
     {
       "album": {
+        "name": "Imperio de la Cumbia",
+        "url": "https://open.spotify.com/album/1kqgUvarUhcaekac3a877D"
+      },
+      "artists": [
+        {
+          "name": "Peregrinos del Amor",
+          "url": "https://open.spotify.com/artist/5xuReDWUr32LPHVtCXE6gM"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 288857,
+      "name": "La Carretera 1",
+      "url": "https://open.spotify.com/track/36vgcsCHl6tHC3xSeKxKPu"
+    },
+    {
+      "album": {
         "name": "Cuecas Pa'l Dieciocho - Independence Day Folk Dance - For Export",
         "url": "https://open.spotify.com/album/612WCjoAGaBQa3RWxhFDzz"
       },
@@ -16140,7 +16158,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 117539,
       "name": "La Consentida",
       "url": "https://open.spotify.com/track/5nuQq6DjzmD4h3t7Zy3lvL"
@@ -17354,7 +17372,7 @@
       ],
       "date_added": "2026-06-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 159840,
       "name": "Las mas bonitas son p#tas",
       "url": "https://open.spotify.com/track/4vJaNTSA8fYLLLSauHmkLe"
@@ -18906,7 +18924,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 111160,
       "name": "Los Vecinos Wenos Pal Vino",
       "url": "https://open.spotify.com/track/03G7thzibYmq6m1PCnlSam"
@@ -20622,7 +20640,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 463253,
       "name": "Medley: Te Miro la Cara y Me da Sed / Ta' Bailando una Morena / El Sombrero de Paja",
       "url": "https://open.spotify.com/track/4lto75edRQ57XKhdsV7MEJ"
@@ -21476,7 +21494,7 @@
       ],
       "date_added": "2026-07-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 160987,
       "name": "MILLONETA",
       "url": "https://open.spotify.com/track/2DNN1f2MOdTYWY1GnST9kr"
@@ -23232,7 +23250,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 158859,
       "name": "No Me Suman",
       "url": "https://open.spotify.com/track/23M9h0b9WvF3NC9ZgT0qB4"
@@ -26638,7 +26656,7 @@
       ],
       "date_added": "2026-04-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 152307,
       "name": "POLLYPOCKET",
       "url": "https://open.spotify.com/track/0zGd3VAcooAZEKbSu5LETG"
@@ -27582,7 +27600,7 @@
       ],
       "date_added": "2026-05-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 172072,
       "name": "Q Hubo Amor (Medell\u00edn)",
       "url": "https://open.spotify.com/track/0HHRmqcKYBUAsMXgXdvxx8"
@@ -30948,7 +30966,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 146854,
       "name": "Si T\u00fa Me Amaras",
       "url": "https://open.spotify.com/track/7Lh0m1fbaJwUQ1dd2ep5Vp"
@@ -30970,6 +30988,24 @@
       "duration_ms": 202333,
       "name": "Si T\u00fa Me Quisieras",
       "url": "https://open.spotify.com/track/7EySX8ldJHoeWjJhJyZ8Tq"
+    },
+    {
+      "album": {
+        "name": "Perfume De Cumbia",
+        "url": "https://open.spotify.com/album/0NQV1IrZHzey6XqYs3Iyie"
+      },
+      "artists": [
+        {
+          "name": "La Rosa",
+          "url": "https://open.spotify.com/artist/2ygN6IDI4WyTRlIk2czz6i"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210600,
+      "name": "Si yo fuera \u00e9l",
+      "url": "https://open.spotify.com/track/2UFGsOAjNrQSoZwh5gZJs0"
     },
     {
       "album": {
@@ -32982,7 +33018,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 116280,
       "name": "Te Miro la Cara y Me Da Sed",
       "url": "https://open.spotify.com/track/5pWnpW5bi7gLf3GHMn8zXb"
@@ -36272,7 +36308,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 103167,
       "name": "Viva Chile, Viva Chile",
       "url": "https://open.spotify.com/track/67aWLsa6obUFI3rXfdyzzj"

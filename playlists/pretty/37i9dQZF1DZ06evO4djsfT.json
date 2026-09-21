@@ -1,12 +1,12 @@
 {
   "description": "This is KB. The essential tracks, all in one playlist.",
-  "num_followers": 29110,
+  "num_followers": 29111,
   "original_name": "This Is KB",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAACK+VY8cQReMhHe0WT6QzOu",
+  "snapshot_id": "aq3QgAAAAAAFFMcvk3S9nrvn39nV2Qmr",
   "tracks": [
     {
       "added_at": null,
@@ -431,22 +431,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "His Glory Alone",
-        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
+        "name": "ANGEL ARMIES",
+        "url": "https://open.spotify.com/album/4Oz3HNbR1036fe7ErFLcy4"
       },
       "artists": [
         {
-          "name": "KB",
-          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+          "name": "gio.",
+          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
         },
         {
-          "name": "Bizzle",
-          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
+          "name": "Dell Mac",
+          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
+        },
+        {
+          "name": "KB",
+          "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
         }
       ],
-      "duration_ms": 259328,
-      "name": "Let It Reign (feat. Bizzle)",
-      "url": "https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah"
+      "duration_ms": 192000,
+      "name": "ANGEL ARMIES",
+      "url": "https://open.spotify.com/track/3dJZ5Mhu7gMMbwBnWNQ7p6"
     },
     {
       "added_at": null,
@@ -471,26 +475,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "ANGEL ARMIES",
-        "url": "https://open.spotify.com/album/4Oz3HNbR1036fe7ErFLcy4"
+        "name": "His Glory Alone",
+        "url": "https://open.spotify.com/album/6MnWWXrO1wvrzmGZ7iG1Sj"
       },
       "artists": [
         {
-          "name": "gio.",
-          "url": "https://open.spotify.com/artist/5GevjOibFX6uwZ1mTYfhbn"
-        },
-        {
-          "name": "Dell Mac",
-          "url": "https://open.spotify.com/artist/1EswPCHgI3tydeJlDVMEFl"
-        },
-        {
           "name": "KB",
           "url": "https://open.spotify.com/artist/77IKXFvO7SpWrq8hflrUXc"
+        },
+        {
+          "name": "Bizzle",
+          "url": "https://open.spotify.com/artist/0P8V2XSw1mIo8739T1qjzr"
         }
       ],
-      "duration_ms": 192000,
-      "name": "ANGEL ARMIES",
-      "url": "https://open.spotify.com/track/3dJZ5Mhu7gMMbwBnWNQ7p6"
+      "duration_ms": 259328,
+      "name": "Let It Reign (feat. Bizzle)",
+      "url": "https://open.spotify.com/track/51ibczFjbaSrxynt6yKKah"
     },
     {
       "added_at": null,

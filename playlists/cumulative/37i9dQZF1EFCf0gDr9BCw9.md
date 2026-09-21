@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/5fDwKN0rk0zEGCIvuj9XFs">Billy Strayhorn</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-289 songs - 21 hr 14 min
+290 songs - 21 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,7 +61,8 @@
 | [Chalmeau](https://open.spotify.com/track/3KftqPtAFIUDyJsZ6KQJMD) | [Harry Carney](https://open.spotify.com/artist/28fgw4cYFSCSciUyDqnbXN), [Ben Webster](https://open.spotify.com/artist/34W7ZCX0LZeJd8q6boKGOk) | [Music For Loving](https://open.spotify.com/album/1feZuoiJrSbos4LfhUIZF0) | 3:38 | 2022-09-08 |  |
 | [Charpoy](https://open.spotify.com/track/4lZsHmKzHztc3Q4uTkHqTZ) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [And His Mother Called Him Bill](https://open.spotify.com/album/1VFa3WWYDJJCmEIwU4Ee2g) | 3:07 | 2024-10-17 |  |
 | [Chelsea Bridge](https://open.spotify.com/track/6X1TBqc2CG7HEHsNFOlazB) | [Gerry Mulligan](https://open.spotify.com/artist/6l40OFJhuTbHQ9V12evc9K) | [Gerry Mulligan Meets Ben Webster](https://open.spotify.com/album/0kFQ4gfEAniyQ2E169YMXE) | 7:22 | 2022-09-08 | 2023-09-26 |
-| [Circle \- Exodus Album Version](https://open.spotify.com/track/4JZ9Pc0QK921qM5g5Aexeg) | [Plus One](https://open.spotify.com/artist/5TMRulP603VraQhrFUUKnR) | [Exodus](https://open.spotify.com/album/156VxyrWt0Y50ypQYm8HCd) | 3:26 | 2022-09-08 |  |
+| [Circle \- Exodus Album Version](https://open.spotify.com/track/4DgMfLbigiPbAxtub20Smf) | [Plus One](https://open.spotify.com/artist/5TMRulP603VraQhrFUUKnR) | [Exodus](https://open.spotify.com/album/4v4oeunPSsUkicfmSjJd6f) | 3:26 | 2026-09-20 |  |
+| [Circle \- Exodus Album Version](https://open.spotify.com/track/4JZ9Pc0QK921qM5g5Aexeg) | [Plus One](https://open.spotify.com/artist/5TMRulP603VraQhrFUUKnR) | [Exodus](https://open.spotify.com/album/156VxyrWt0Y50ypQYm8HCd) | 3:26 | 2022-09-08 | 2026-09-21 |
 | [Circle of Fourths](https://open.spotify.com/track/3gYdEuSW3WulxmjkJoCnXK) | [Duke Ellington](https://open.spotify.com/artist/4F7Q5NV6h5TSwCainz8S5A) | [Such Sweet Thunder \(Expanded Edition\)](https://open.spotify.com/album/2atnsiXP0oFjUE7SGFdzNA) | 1:44 | 2022-09-08 |  |
 | [Clementine](https://open.spotify.com/track/1DkbJhQlmCvXe4ieTwecEC) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/3YelTkVhlEXydToO9cCDjS) | 2:23 | 2022-10-18 | 2022-12-26 |
 | [Clementine](https://open.spotify.com/track/5OVFmjIZkM2EBjW8T0v0V7) | [Billy Strayhorn](https://open.spotify.com/artist/6RbBDzGJqAROG0LP9TrXfW) | [Lush Life](https://open.spotify.com/album/43x4d2Sq1mUl2X5VBWa0Ve) | 2:23 | 2022-09-08 | 2022-10-19 |

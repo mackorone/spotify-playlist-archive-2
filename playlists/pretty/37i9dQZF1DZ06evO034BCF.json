@@ -1,12 +1,12 @@
 {
   "description": "This is Gustavo Dudamel. The essential tracks, all in one playlist.",
-  "num_followers": 2236,
+  "num_followers": 2244,
   "original_name": "This Is Gustavo Dudamel",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAAAW0mnSz4q4+DK8iedVsTWp",
+  "snapshot_id": "aq3QgAAAAACiPJTCiH/N4ipxXuf4P60h",
   "tracks": [
     {
       "added_at": null,
@@ -180,8 +180,16 @@
           "url": "https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p"
         },
         {
-          "name": "Sergio Tiempo",
-          "url": "https://open.spotify.com/artist/7kIK193iuLPugEvQGoirww"
+          "name": "Gregorio Nieto",
+          "url": "https://open.spotify.com/artist/2pWETDhFJlOUsmU9s8829M"
+        },
+        {
+          "name": "The Bach Choir",
+          "url": "https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM"
+        },
+        {
+          "name": "The Boy Choristers of Winchester Cathedral",
+          "url": "https://open.spotify.com/artist/1aPbjvNpEWshO8HV7WOWGq"
         },
         {
           "name": "Philharmonia Orchestra",
@@ -192,9 +200,9 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 431306,
-      "name": "Farewell My Love",
-      "url": "https://open.spotify.com/track/2mmpGyrbEq4NQx61p4kvy1"
+      "duration_ms": 337413,
+      "name": "My Fatherland",
+      "url": "https://open.spotify.com/track/1SZmCwyjY8sEd7jYXke9gn"
     },
     {
       "added_at": null,
@@ -288,16 +296,8 @@
           "url": "https://open.spotify.com/artist/1rV5NNLfWbeGqkDHqpkL5p"
         },
         {
-          "name": "Gregorio Nieto",
-          "url": "https://open.spotify.com/artist/2pWETDhFJlOUsmU9s8829M"
-        },
-        {
-          "name": "The Bach Choir",
-          "url": "https://open.spotify.com/artist/7aBHoHldT814X9KS3cXIoM"
-        },
-        {
-          "name": "The Boy Choristers of Winchester Cathedral",
-          "url": "https://open.spotify.com/artist/1aPbjvNpEWshO8HV7WOWGq"
+          "name": "Sergio Tiempo",
+          "url": "https://open.spotify.com/artist/7kIK193iuLPugEvQGoirww"
         },
         {
           "name": "Philharmonia Orchestra",
@@ -308,9 +308,9 @@
           "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
         }
       ],
-      "duration_ms": 337413,
-      "name": "My Fatherland",
-      "url": "https://open.spotify.com/track/1SZmCwyjY8sEd7jYXke9gn"
+      "duration_ms": 431306,
+      "name": "Farewell My Love",
+      "url": "https://open.spotify.com/track/2mmpGyrbEq4NQx61p4kvy1"
     },
     {
       "added_at": null,
@@ -947,30 +947,6 @@
       "duration_ms": 514573,
       "name": "Symphonie espagnole, Op. 21: V. Rondo. Allegro",
       "url": "https://open.spotify.com/track/4I7I8TH5BoVgdcrsLE5Adu"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Dvo\u0159\u00e1k: Symphonies Nos. 7-9",
-        "url": "https://open.spotify.com/album/6b7rzLJNjDot2WLtTyFQwt"
-      },
-      "artists": [
-        {
-          "name": "Anton\u00edn Dvo\u0159\u00e1k",
-          "url": "https://open.spotify.com/artist/6n7nd5iceYpXVwcx8VPpxF"
-        },
-        {
-          "name": "Los Angeles Philharmonic",
-          "url": "https://open.spotify.com/artist/6yeL5iw4hXNZtd8T7FOoFU"
-        },
-        {
-          "name": "Gustavo Dudamel",
-          "url": "https://open.spotify.com/artist/0cxXnDhpgxcMMkKddhORHY"
-        }
-      ],
-      "duration_ms": 707000,
-      "name": "Symphony No. 9 in E Minor, Op. 95, B. 178, \"From the New World\": II. Largo",
-      "url": "https://open.spotify.com/track/51mXEQIsErrBPKyWiEpWqn"
     }
   ],
   "unique_name": "This Is Gustavo Dudamel",

@@ -1,12 +1,12 @@
 {
   "description": "This is Rochelle Jordan. The essential tracks, all in one playlist.",
-  "num_followers": 1803,
+  "num_followers": 1809,
   "original_name": "This Is Rochelle Jordan",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAABKxAndj3P40e08kiPOj+Z7",
+  "snapshot_id": "aq3QgAAAAADwsy1Ajg2xX8nSo7lprECo",
   "tracks": [
     {
       "added_at": null,
@@ -87,22 +87,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Didn't Mean To Turn You On (with Rochelle Jordan)",
-        "url": "https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE"
+        "name": "Play With The Changes",
+        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
       },
       "artists": [
-        {
-          "name": "Mariah Carey",
-          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
-        },
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 240000,
-      "name": "Didn't Mean To Turn You On - with Rochelle Jordan",
-      "url": "https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5"
+      "duration_ms": 318917,
+      "name": "Dancing Elephants",
+      "url": "https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu"
     },
     {
       "added_at": null,
@@ -123,18 +119,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Play With The Changes",
-        "url": "https://open.spotify.com/album/7DF9gG0kP3noP30oOkErQW"
+        "name": "Didn't Mean To Turn You On (with Rochelle Jordan)",
+        "url": "https://open.spotify.com/album/33Mfzj0B0jfExUap38bJYE"
       },
       "artists": [
+        {
+          "name": "Mariah Carey",
+          "url": "https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ"
+        },
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 318917,
-      "name": "Dancing Elephants",
-      "url": "https://open.spotify.com/track/0HiS65pePN8wDgCR6iypZu"
+      "duration_ms": 240000,
+      "name": "Didn't Mean To Turn You On - with Rochelle Jordan",
+      "url": "https://open.spotify.com/track/569BvEAwdBNy9Ro0DtWWR5"
     },
     {
       "added_at": null,
@@ -263,22 +263,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "I'm Your Muse (Ron Trent Remix)",
-        "url": "https://open.spotify.com/album/2Sb9r7GIuHmpKQFhhgR3MF"
+        "name": "1021",
+        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
       },
       "artists": [
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "Ron Trent",
-          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
         }
       ],
-      "duration_ms": 476763,
-      "name": "I'm Your Muse - Ron Trent Remix",
-      "url": "https://open.spotify.com/track/1Ibi14wy23kq9YxWu5BOUn"
+      "duration_ms": 214746,
+      "name": "Ease Your Mind",
+      "url": "https://open.spotify.com/track/6TSLDMY1tljUJPPiPKAZPz"
     },
     {
       "added_at": null,
@@ -315,6 +311,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "I'm Your Muse (Ron Trent Remix)",
+        "url": "https://open.spotify.com/album/2Sb9r7GIuHmpKQFhhgR3MF"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Ron Trent",
+          "url": "https://open.spotify.com/artist/0TOZ0i0BHZJYKK2rvoRD2d"
+        }
+      ],
+      "duration_ms": 476763,
+      "name": "I'm Your Muse - Ron Trent Remix",
+      "url": "https://open.spotify.com/track/1Ibi14wy23kq9YxWu5BOUn"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1021",
         "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
       },
@@ -324,29 +340,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 214746,
-      "name": "Ease Your Mind",
-      "url": "https://open.spotify.com/track/6TSLDMY1tljUJPPiPKAZPz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Around (Shanti Celeste Remix)",
-        "url": "https://open.spotify.com/album/4dDEMNSFNSbRaxM78VQGOB"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        },
-        {
-          "name": "Shanti Celeste",
-          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
-        }
-      ],
-      "duration_ms": 390426,
-      "name": "Around - Shanti Celeste Remix",
-      "url": "https://open.spotify.com/track/4ZdbTHeya4bV0fAPi36lm0"
+      "duration_ms": 207906,
+      "name": "Back in the Day",
+      "url": "https://open.spotify.com/track/2sy9xj6yM79lyJaihqX9PB"
     },
     {
       "added_at": null,
@@ -383,6 +379,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Around (Shanti Celeste Remix)",
+        "url": "https://open.spotify.com/album/4dDEMNSFNSbRaxM78VQGOB"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        },
+        {
+          "name": "Shanti Celeste",
+          "url": "https://open.spotify.com/artist/3CkM2290WOa2ESzhlu5mzM"
+        }
+      ],
+      "duration_ms": 390426,
+      "name": "Around - Shanti Celeste Remix",
+      "url": "https://open.spotify.com/track/4ZdbTHeya4bV0fAPi36lm0"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1021",
         "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
       },
@@ -392,25 +408,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 207906,
-      "name": "Back in the Day",
-      "url": "https://open.spotify.com/track/2sy9xj6yM79lyJaihqX9PB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 226299,
-      "name": "Take Time",
-      "url": "https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv"
+      "duration_ms": 199986,
+      "name": "There You Go",
+      "url": "https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 226299,
+      "name": "Take Time",
+      "url": "https://open.spotify.com/track/2aq9cIGfOVTB2a1DcWhzKv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "1021",
         "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
       },
@@ -456,29 +472,9 @@
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 199986,
-      "name": "There You Go",
-      "url": "https://open.spotify.com/track/17ppGQtgavljJG2BmX3KDZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "never worry",
-        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
-      },
-      "artists": [
-        {
-          "name": "Snakehips",
-          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
-        },
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 186123,
-      "name": "Sumthin Crazy (with Rochelle Jordan)",
-      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
+      "duration_ms": 187840,
+      "name": "401",
+      "url": "https://open.spotify.com/track/43X9h7tRxERIYgztKjHU6k"
     },
     {
       "added_at": null,
@@ -499,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "1021",
-        "url": "https://open.spotify.com/album/478zqPLfhIqeaB91EEnHLa"
+        "name": "never worry",
+        "url": "https://open.spotify.com/album/1ZXC6ylnVeo9H0jAu5ri4r"
       },
       "artists": [
+        {
+          "name": "Snakehips",
+          "url": "https://open.spotify.com/artist/2FwJwEswyIUAljqgjNSHgP"
+        },
         {
           "name": "Rochelle Jordan",
           "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
         }
       ],
-      "duration_ms": 187840,
-      "name": "401",
-      "url": "https://open.spotify.com/track/43X9h7tRxERIYgztKjHU6k"
+      "duration_ms": 186123,
+      "name": "Sumthin Crazy (with Rochelle Jordan)",
+      "url": "https://open.spotify.com/track/7ebsbZwgXRvssvuleJ3Ucl"
     },
     {
       "added_at": null,
@@ -591,22 +591,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Origins",
-        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
-      },
-      "artists": [
-        {
-          "name": "Rochelle Jordan",
-          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
-        }
-      ],
-      "duration_ms": 156239,
-      "name": "No Love",
-      "url": "https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "DREAMZ COME TRUE",
         "url": "https://open.spotify.com/album/5RNcA6ZV7lznodJcCEhfWA"
       },
@@ -623,6 +607,22 @@
       "duration_ms": 224027,
       "name": "DREAMZ COME TRUE",
       "url": "https://open.spotify.com/track/3YLRi0SXcPwB6c2Dy3gmey"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Origins",
+        "url": "https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97"
+      },
+      "artists": [
+        {
+          "name": "Rochelle Jordan",
+          "url": "https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3"
+        }
+      ],
+      "duration_ms": 156239,
+      "name": "No Love",
+      "url": "https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 
 > Monster Hiphop anthems to unlock your day\. Tracks from Quavo, NAV, Nasty C, Nemzzz, ODUMODUBLVCK and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,205 likes - 55 songs - 2 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,271 likes - 55 songs - 2 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,4 +64,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6tw5tib6ZrB.md) - [plain]
 | 54 | [Run It Up](https://open.spotify.com/track/1E8hZPslSSHbFwHuGNziVA) | [V.I.C](https://open.spotify.com/artist/5fCJ5gYcUcJeDkrsCevigg) | [Industry Games](https://open.spotify.com/album/03p8bG8I1dHwbQwf1MpJgF) | 2:22 |
 | 55 | [Which One \(feat\. Central Cee\)](https://open.spotify.com/track/5FMyXeZ0reYloRTiCkPprT) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4), [Central Cee](https://open.spotify.com/artist/5H4yInM5zmHqpKIoMNAx4r) | [Which One](https://open.spotify.com/album/4TWJJZmgYm6tE6PzqpluQ0) | 2:49 |
 
-Snapshot ID: `AAAAAAh5toBaoEasLGWKGercAjAcudLu`
+Snapshot ID: `AAAAACzBUUAU2Ujh7mE6CzFxfWL1UM/4`

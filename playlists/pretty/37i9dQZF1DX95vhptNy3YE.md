@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 
 > Ryan Fidelis e mais artistas da cultura preta brasileira, puxando o bonde pra geral ganhar o mundão.
 
-[Spotify](https://open.spotify.com/user/spotify) - 443,073 likes - 50 songs - 2 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 443,040 likes - 50 songs - 2 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX95vhptNy3YE.md) - [plain]
 | 19 | [Eu Sei Bem](https://open.spotify.com/track/3DWVL0m6uvSt6nxOYJUnY0) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [A Cara do Enquadro](https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn) | 2:33 |
 | 20 | [QUASE QUE FALEI TE AMO](https://open.spotify.com/track/0TA12jLkmAdhkUa9Vz84jq) | [Aka Rasta](https://open.spotify.com/artist/1beK7BpUs2hTagfzLUb1HB) | [QUASE QUE FALEI TE AMO](https://open.spotify.com/album/0sab48jAA6ZhMxFSbaoPBw) | 2:46 |
 | 21 | [Gin Com Suco De Laranja](https://open.spotify.com/track/5SUAeZK4t0cgV4xf7ZK6QM) | [Ebony](https://open.spotify.com/artist/1UBSRfDGNkhpTWQeMyCwHb) | [KM2](https://open.spotify.com/album/5o7rJ8g9O5ltC3QJeTfvjD) | 2:42 |
-| 22 | [Pente 270!](https://open.spotify.com/track/2j7pQPTsRj2k3XFU6Vkb8g) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [DOIS Quebrada Inteligente](https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY) | 3:41 |
-| 23 | [É Demais](https://open.spotify.com/track/1KpEmpouOXgxavYYmYtXaZ) | [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [É Demais](https://open.spotify.com/album/3w0QlSP1zXOfnWItpSyTb6) | 3:17 |
+| 22 | [É Demais](https://open.spotify.com/track/1KpEmpouOXgxavYYmYtXaZ) | [Renan Oliveira](https://open.spotify.com/artist/19u9kLKs9e7GebW6GmhtVm) | [É Demais](https://open.spotify.com/album/3w0QlSP1zXOfnWItpSyTb6) | 3:17 |
+| 23 | [Pente 270!](https://open.spotify.com/track/2j7pQPTsRj2k3XFU6Vkb8g) | [Kyan](https://open.spotify.com/artist/05qCf6M7E7AxizHVmrcPqh), [Mu540](https://open.spotify.com/artist/13yQqjPy4Esq0Ru3R1fipU), [Veigh](https://open.spotify.com/artist/4YqwRbMLqGHRHLS1w2ZKse) | [DOIS Quebrada Inteligente](https://open.spotify.com/album/00pkLBvnhBT2avjAwmcSwY) | 3:41 |
 | 24 | [Cartas na Mesa \(Bônus\)](https://open.spotify.com/track/4hhGrj4he07eGG6VI1SEhS) | [KayBlack](https://open.spotify.com/artist/2h5Ha0ZiMFmOQD3iYcSXsy), [Wall Hein](https://open.spotify.com/artist/5wEgjH2s4SAiffRmzkBqHB) | [A Cara do Enquadro](https://open.spotify.com/album/37Ofg8E2cjJL5B4yrrmRjn) | 2:25 |
 | 25 | [BRENDA](https://open.spotify.com/track/4M45L0XC2m2UDbKxCZY7IN) | [Alee](https://open.spotify.com/artist/6rk6Izp6o42fUdE0jRqAP4), [Klisman](https://open.spotify.com/artist/1lpgPh5SV2b2aKmss0AhlY), [DougBeats](https://open.spotify.com/artist/3HyxA4BGfaxNsT9aFf9D5w) | [SPAM](https://open.spotify.com/album/2jiU7JZpfeB1ywY7cGTo59) | 2:49 |
 | 26 | [Number One](https://open.spotify.com/track/72han37EfWVjoOVJbHKdfe) | [Duquesa](https://open.spotify.com/artist/1JlC6XG7lkwT6GzgQB9xOx), [Leys](https://open.spotify.com/artist/5QNv7hSi3Ba7DV4li83jFG), [Go Dassisti](https://open.spotify.com/artist/6dHnnLJitCxdFTt9QmSQ8G) | [SIX.](https://open.spotify.com/album/0ulBRtM6uEMBKFbq1NI9mr) | 2:32 |

@@ -1,6 +1,6 @@
 {
   "description": "mykonos season is here.",
-  "num_followers": 219744,
+  "num_followers": 219805,
   "original_name": "Mykonos Calling",
   "owner": {
     "name": "Spotify",
@@ -859,8 +859,8 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Twenty One",
-        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
+        "name": "una noche con hugel",
+        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
       },
       "artists": [
         {
@@ -868,21 +868,17 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+          "name": "Alleh",
+          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
         },
         {
-          "name": "French Montana",
-          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
-        },
-        {
-          "name": "Aidan Martin",
-          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
+          "name": "Yorghaki",
+          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
         }
       ],
-      "duration_ms": 147269,
-      "name": "Shine",
-      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
+      "duration_ms": 191475,
+      "name": "una noche con hugel",
+      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -967,8 +963,8 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "una noche con hugel",
-        "url": "https://open.spotify.com/album/2TWRbmPRKGGp3iiREkKyjT"
+        "name": "Twenty One",
+        "url": "https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG"
       },
       "artists": [
         {
@@ -976,17 +972,21 @@
           "url": "https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By"
         },
         {
-          "name": "Alleh",
-          "url": "https://open.spotify.com/artist/3DeOmVSmpv7WknXoo1OS8p"
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
         },
         {
-          "name": "Yorghaki",
-          "url": "https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1"
+          "name": "French Montana",
+          "url": "https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv"
+        },
+        {
+          "name": "Aidan Martin",
+          "url": "https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb"
         }
       ],
-      "duration_ms": 191475,
-      "name": "una noche con hugel",
-      "url": "https://open.spotify.com/track/2iamvJ8dFSfapKYEtEYFun"
+      "duration_ms": 147269,
+      "name": "Shine",
+      "url": "https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -1807,6 +1807,26 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
+        "name": "Wana",
+        "url": "https://open.spotify.com/album/1eGaxjPeAZ9aJRJ3BhABPa"
+      },
+      "artists": [
+        {
+          "name": "Omiki",
+          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
+        },
+        {
+          "name": "Vegas (Brazil)",
+          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
+        }
+      ],
+      "duration_ms": 239999,
+      "name": "Wana",
+      "url": "https://open.spotify.com/track/4V8gWHn9fu1NXXZKcQ0gnp"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
         "name": "Magic In The Air",
         "url": "https://open.spotify.com/album/6xqtYll27YUCy4amaLlByu"
       },
@@ -1827,26 +1847,6 @@
       "duration_ms": 167804,
       "name": "Magic In The Air",
       "url": "https://open.spotify.com/track/29CvrDmscTVF9tD5Pyd8hQ"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
-        "name": "Wana",
-        "url": "https://open.spotify.com/album/1eGaxjPeAZ9aJRJ3BhABPa"
-      },
-      "artists": [
-        {
-          "name": "Omiki",
-          "url": "https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f"
-        },
-        {
-          "name": "Vegas (Brazil)",
-          "url": "https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z"
-        }
-      ],
-      "duration_ms": 239999,
-      "name": "Wana",
-      "url": "https://open.spotify.com/track/4V8gWHn9fu1NXXZKcQ0gnp"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -2023,30 +2023,6 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Late at Night",
-        "url": "https://open.spotify.com/album/1h2GZPLWCaqfvwSYQz6QoE"
-      },
-      "artists": [
-        {
-          "name": "Mind Against",
-          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
-        },
-        {
-          "name": "HUMAN404",
-          "url": "https://open.spotify.com/artist/1I0I7n9gKqj3W7lQCka883"
-        },
-        {
-          "name": "Anakim",
-          "url": "https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ"
-        }
-      ],
-      "duration_ms": 205581,
-      "name": "Late at Night",
-      "url": "https://open.spotify.com/track/0I5kavrL6aUxqMVYdtrReQ"
-    },
-    {
-      "added_at": "2026-08-27 21:01:11",
-      "album": {
         "name": "Hot Sauce",
         "url": "https://open.spotify.com/album/00neYxTPTssvxMgKtWVofX"
       },
@@ -2067,6 +2043,30 @@
       "duration_ms": 137699,
       "name": "Hot Sauce",
       "url": "https://open.spotify.com/track/4NQfTDDQ6NshgWnGz3YZeF"
+    },
+    {
+      "added_at": "2026-08-27 21:01:11",
+      "album": {
+        "name": "Late at Night",
+        "url": "https://open.spotify.com/album/1h2GZPLWCaqfvwSYQz6QoE"
+      },
+      "artists": [
+        {
+          "name": "Mind Against",
+          "url": "https://open.spotify.com/artist/48LWLoeY0dhwaiX1FRsn72"
+        },
+        {
+          "name": "HUMAN404",
+          "url": "https://open.spotify.com/artist/1I0I7n9gKqj3W7lQCka883"
+        },
+        {
+          "name": "Anakim",
+          "url": "https://open.spotify.com/artist/5Fkwv4f0Cec48ywsb8DnwJ"
+        }
+      ],
+      "duration_ms": 205581,
+      "name": "Late at Night",
+      "url": "https://open.spotify.com/track/0I5kavrL6aUxqMVYdtrReQ"
     },
     {
       "added_at": "2026-08-27 21:01:11",
@@ -2159,26 +2159,22 @@
     {
       "added_at": "2026-08-27 21:01:11",
       "album": {
-        "name": "Fell In Luv (Black Circle Remix)",
-        "url": "https://open.spotify.com/album/5mSTBF7H7F6qYO5GdPkU0E"
+        "name": "Wait For You",
+        "url": "https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt"
       },
       "artists": [
         {
-          "name": "Carlita",
-          "url": "https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8"
+          "name": "AM\u00c9M\u00c9",
+          "url": "https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO"
         },
         {
-          "name": "Calussa",
-          "url": "https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW"
-        },
-        {
-          "name": "Black Circle",
-          "url": "https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M"
+          "name": "Franc Fala",
+          "url": "https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB"
         }
       ],
-      "duration_ms": 261106,
-      "name": "Fell In Luv - Black Circle Remix",
-      "url": "https://open.spotify.com/track/7eRsnszGZ5V170AbcpDQNa"
+      "duration_ms": 176528,
+      "name": "Wait For You",
+      "url": "https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX"
     }
   ],
   "unique_name": "Mykonos Calling",

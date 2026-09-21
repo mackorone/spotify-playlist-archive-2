@@ -35769,6 +35769,24 @@
     },
     {
       "album": {
+        "name": "Kudi Schoolan",
+        "url": "https://open.spotify.com/album/5mBLpDqkquPzSLUFaQfTFQ"
+      },
+      "artists": [
+        {
+          "name": "Azam Ali",
+          "url": "https://open.spotify.com/artist/5FjTtbpfWj8SBN3SGjkY0W"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 262199,
+      "name": "Kudi Schoolan",
+      "url": "https://open.spotify.com/track/3n1KTQycRCjMlqWqnX2Du6"
+    },
+    {
+      "album": {
         "name": "Live in San Francisco 1977, Vol. 1 (HQ Remastered)",
         "url": "https://open.spotify.com/album/2uk1qcgOFqNsNbF2z9tQ2F"
       },
@@ -40596,7 +40614,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 395691,
       "name": "Lut Ke Sada Ghar",
       "url": "https://open.spotify.com/track/1MFQhVaElC6wKG04DOoL7P"
@@ -61580,7 +61598,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 238853,
       "name": "Standing On Higher Ground / Losing Proposition - Vocal Experiments",
       "url": "https://open.spotify.com/track/2zOyhFxXmzzqG8A7V0R9u8"
@@ -63232,7 +63250,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 420533,
       "name": "Swan Lake Suite, Op. 20a: II. Valse",
       "url": "https://open.spotify.com/track/60o4n1pfjmZk5BSzCRtZMk"
@@ -63954,7 +63972,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 87293,
       "name": "Ta Llegando Gente al Baile",
       "url": "https://open.spotify.com/track/6wGUozfWPY1zH8D6nn0obZ"
@@ -68322,7 +68340,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 45000,
       "name": "The Sleeping Beauty, Op. 66, Act II: No. 16, Scene. Allegro agitato",
       "url": "https://open.spotify.com/track/5iYqvtghRltVAb7OucxlEI"
@@ -70456,7 +70474,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 253400,
       "name": "Too Late - Eric Woolfson Rough Guide Vocal",
       "url": "https://open.spotify.com/track/2XPAhHvhrXXuzcFdjdvIpi"
@@ -71940,7 +71958,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 176560,
       "name": "Un Cuarto de Tocopilla - Mataron a mi Morena",
       "url": "https://open.spotify.com/track/5f2LSs96anrS1kquiYrYcW"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 
 > Women at full volume! Cover: badmómzjay
 
-[Spotify](https://open.spotify.com/user/spotify) - 51,265 likes - 50 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 51,257 likes - 50 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 14 | [Sterne unterm Dach](https://open.spotify.com/track/6ZKazOSqSZPdehgn4UYxBz) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [badmómz.](https://open.spotify.com/album/5sGUW7aY98OedUfAmFKzDz) | 3:05 |
 | 15 | [2MG](https://open.spotify.com/track/3fIY3qPEfdvUiD35HPbOtq) | [Rubi](https://open.spotify.com/artist/0VlrorDSkEbLK1D6VvMgd2) | [2MG](https://open.spotify.com/album/1ys73AgZ6s1RpWDNkDdFo0) | 2:07 |
 | 16 | [CHAYAS LIEBEN TRAP](https://open.spotify.com/track/6v5giipQNFNfgpoevePRyH) | [Wa22ermann](https://open.spotify.com/artist/6WJVluElmUFNEsOl7TPX8X), [OG LU](https://open.spotify.com/artist/6PHq9kP7J6k8Ot7MuKVx0W) | [CHAYAS LIEBEN TRAP](https://open.spotify.com/album/4B7xRCqzgI325YCOZ4DBC2) | 2:25 |
-| 17 | [Ich hoffe du hast Angst](https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Ich hoffe du hast Angst](https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860) | 2:30 |
-| 18 | [kahs là bas](https://open.spotify.com/track/3ms0V1rdiqSIByWSyqAOPy) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [emmamaelo](https://open.spotify.com/artist/22rNY5viAKySIkxhN8xBjR), [nebou](https://open.spotify.com/artist/02hm9wskKc1kHkGkn2ssge) | [kahs là bas](https://open.spotify.com/album/5VQLy5fYagt9jsKXYcb8Q0) | 2:10 |
+| 17 | [kahs là bas](https://open.spotify.com/track/3ms0V1rdiqSIByWSyqAOPy) | [bangerfabrique](https://open.spotify.com/artist/5fM7Hc1hTUtQbbeT5VgRHn), [emmamaelo](https://open.spotify.com/artist/22rNY5viAKySIkxhN8xBjR), [nebou](https://open.spotify.com/artist/02hm9wskKc1kHkGkn2ssge) | [kahs là bas](https://open.spotify.com/album/5VQLy5fYagt9jsKXYcb8Q0) | 2:10 |
+| 18 | [Ich hoffe du hast Angst](https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf) | [SOFFIE](https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj) | [Ich hoffe du hast Angst](https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860) | 2:30 |
 | 19 | [dummes klavier](https://open.spotify.com/track/6prZ5pA4NAtnVjCbFZOjef) | [Ella Stern](https://open.spotify.com/artist/4JqjErIJOUuM9VSJdSsmxd) | [dummes klavier](https://open.spotify.com/album/3RRq7FqNVKTblgANV4Ugp4) | 3:19 |
 | 20 | [mr\. rush](https://open.spotify.com/track/5p2FXRstR6VDUHIANeGk0E) | [lovehead](https://open.spotify.com/artist/66RYRcCpcfJqF3TwqCbUce) | [mr\. rush](https://open.spotify.com/album/3CSkqYcMJ0IkWbw5VGMip3) | 2:24 |
 | 21 | [Annabella](https://open.spotify.com/track/3g2jh2Aw3c5w4rRVqseJUL) | [Laura Larsson](https://open.spotify.com/artist/3RvyFTiAMR4tM5lE5TUYcV), [Dilla](https://open.spotify.com/artist/17l4XlVVWNktDeJDigQ3HJ) | [Annabella](https://open.spotify.com/album/6ShzR8LBOnDP0okRrwFOPq) | 2:26 |
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVA5o3WHL2eG.md) - [plain]
 | 29 | [MANGO STICKY](https://open.spotify.com/track/0vGVmBNoa6njbKZikFqLXn) | [Tara Emely](https://open.spotify.com/artist/3fAr7wQCxsBoMJXNq1IzuW) | [MANGO STICKY](https://open.spotify.com/album/4zxqMioxbCnSuKUNKtGycP) | 2:06 |
 | 30 | [Keine Tränen](https://open.spotify.com/track/0TExrpemmt9Yt9GkOTzwJf) | [badmómzjay](https://open.spotify.com/artist/7oWrEQO1d3klp0Qrfh7a5h) | [Survival Mode](https://open.spotify.com/album/7hCDEPx9vObaxVQi8UJQx0) | 2:11 |
 | 31 | [Blow Sum More](https://open.spotify.com/track/7G9dl9K9KfN2W6ygwEeBtL) | [Miss Marla](https://open.spotify.com/artist/3MtJzCQCzp6r1oEqAifuDJ) | [Blow Sum More](https://open.spotify.com/album/1R0KCsLVFFmork5VL9bpq2) | 2:13 |
-| 32 | [CHROME H<3RTS](https://open.spotify.com/track/4N9yrcEtcYE00hniOHxRRh) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [CHROME H<3RTS](https://open.spotify.com/album/3TMHxqr3cVOlj28hIFSOBi) | 2:30 |
-| 33 | [Little Silver](https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Little Silver](https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN) | 3:26 |
+| 32 | [Little Silver](https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t) | [Beaks](https://open.spotify.com/artist/5kO3K7cwt3Jq24Pb0km9PC) | [Little Silver](https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN) | 3:26 |
+| 33 | [CHROME H<3RTS](https://open.spotify.com/track/4N9yrcEtcYE00hniOHxRRh) | [tosha](https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ) | [CHROME H<3RTS](https://open.spotify.com/album/3TMHxqr3cVOlj28hIFSOBi) | 2:30 |
 | 34 | [chameleon](https://open.spotify.com/track/6CHBHzPUxiFKcHNmWrpe1n) | [Malou Lovis](https://open.spotify.com/artist/1jWd866YZ4Wi0Vuuw9kt6U) | [chameleon](https://open.spotify.com/album/5jzR0Rqvd7IZp6XWVKWipm) | 2:48 |
 | 35 | [Kiba Korn](https://open.spotify.com/track/4jYvCzNbgjqghznsjK2WRn) | [Amélia](https://open.spotify.com/artist/54FK3m7jbipAgbP1gx8fUa) | [Kiba Korn](https://open.spotify.com/album/5SlBstPOeZt5GWG0eCzv4I) | 2:08 |
 | 36 | [TEST](https://open.spotify.com/track/4ae7Cl6HR4399LBTeH9Cut) | [YENVI](https://open.spotify.com/artist/3yuhldgkcSu5a0deshgF7a) | [TEST](https://open.spotify.com/album/6mwljQUSczSJzEa64V4v84) | 2:41 |

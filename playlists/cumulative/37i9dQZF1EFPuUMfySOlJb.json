@@ -595,6 +595,24 @@
     },
     {
       "album": {
+        "name": "Running Out of Words",
+        "url": "https://open.spotify.com/album/0TR5RkJgWXBIiVWrbLq9hf"
+      },
+      "artists": [
+        {
+          "name": "CMTEN",
+          "url": "https://open.spotify.com/artist/3ReVTyprRfKmKquryr9UeA"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157777,
+      "name": "Running Out of Words",
+      "url": "https://open.spotify.com/track/6nQylwTGCALvewI9YMZQuG"
+    },
+    {
+      "album": {
         "name": "Public Housing, Pt. 2",
         "url": "https://open.spotify.com/album/6HgjCMe3yei1aus3qyUDSI"
       },

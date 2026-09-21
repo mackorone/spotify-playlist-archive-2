@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Los \u00e9xitos de banda que necesitas! Banda Clave de Oro de Christian Rojas  \ud83d\udcf8",
-  "num_followers": 1296551,
+  "num_followers": 1296526,
   "original_name": "Banda 2026",
   "owner": {
     "name": "Spotify",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-09-18 07:59:10",
       "album": {
-        "name": "Tequila y Guaro",
-        "url": "https://open.spotify.com/album/0PCb1JN1VGKyc3n4bis4Bh"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 182306,
-      "name": "Todo Que Ver",
-      "url": "https://open.spotify.com/track/3xJvrne8wyeyPcKqoITnwf"
-    },
-    {
-      "added_at": "2026-09-18 07:59:10",
-      "album": {
         "name": "No Se Diga M\u00e1s",
         "url": "https://open.spotify.com/album/2LOimJUAs5PORnQDAEaHwJ"
       },
@@ -723,6 +707,22 @@
       "duration_ms": 198548,
       "name": "No Se Diga M\u00e1s",
       "url": "https://open.spotify.com/track/6bYFtMOVwHuOF4Ob9atXS9"
+    },
+    {
+      "added_at": "2026-09-18 07:59:10",
+      "album": {
+        "name": "Tequila y Guaro",
+        "url": "https://open.spotify.com/album/0PCb1JN1VGKyc3n4bis4Bh"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 182306,
+      "name": "Todo Que Ver",
+      "url": "https://open.spotify.com/track/3xJvrne8wyeyPcKqoITnwf"
     },
     {
       "added_at": "2026-09-18 07:59:10",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-09-18 07:59:10",
       "album": {
-        "name": "Vete, Vete",
-        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
-      },
-      "artists": [
-        {
-          "name": "Luis Angel \"El Flaco\"",
-          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
-        }
-      ],
-      "duration_ms": 218426,
-      "name": "Vete, Vete",
-      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
-    },
-    {
-      "added_at": "2026-09-18 07:59:10",
-      "album": {
         "name": "Me Vas a Perder",
         "url": "https://open.spotify.com/album/0vACdcHGc44sRBaEHIyNs7"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 151168,
       "name": "Me Vas a Perder",
       "url": "https://open.spotify.com/track/3hHZcXWBWl5tHu9aQirvVP"
+    },
+    {
+      "added_at": "2026-09-18 07:59:10",
+      "album": {
+        "name": "Vete, Vete",
+        "url": "https://open.spotify.com/album/3tIgpQhuvu6vrFPmbrxDcy"
+      },
+      "artists": [
+        {
+          "name": "Luis Angel \"El Flaco\"",
+          "url": "https://open.spotify.com/artist/4kJ2OBSNasUA4yOT5NCfCl"
+        }
+      ],
+      "duration_ms": 218426,
+      "name": "Vete, Vete",
+      "url": "https://open.spotify.com/track/59lVzZjnJQ1CvYI26WDeY4"
     },
     {
       "added_at": "2026-09-18 07:59:10",
@@ -979,22 +979,6 @@
     {
       "added_at": "2026-09-18 07:59:10",
       "album": {
-        "name": "Solo Yo y Mi Almohada",
-        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
-      },
-      "artists": [
-        {
-          "name": "Banda Todo Terreno",
-          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
-        }
-      ],
-      "duration_ms": 215609,
-      "name": "Solo Yo y Mi Almohada",
-      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
-    },
-    {
-      "added_at": "2026-09-18 07:59:10",
-      "album": {
         "name": "Lo Pongo En Tus Manos",
         "url": "https://open.spotify.com/album/4NBmgO6hYiOcBKmiZyaYWy"
       },
@@ -1011,6 +995,38 @@
       "duration_ms": 194291,
       "name": "Lo Pongo En Tus Manos",
       "url": "https://open.spotify.com/track/56HD6F1ISgG4wJ2bFxPVyx"
+    },
+    {
+      "added_at": "2026-09-18 07:59:10",
+      "album": {
+        "name": "Solo Yo y Mi Almohada",
+        "url": "https://open.spotify.com/album/3Ns9jk8os0Sf4XrwECQ42W"
+      },
+      "artists": [
+        {
+          "name": "Banda Todo Terreno",
+          "url": "https://open.spotify.com/artist/1azvhWE6OhbViAvkFT0oaX"
+        }
+      ],
+      "duration_ms": 215609,
+      "name": "Solo Yo y Mi Almohada",
+      "url": "https://open.spotify.com/track/5UZlsZOIJdYUOqP45hl36V"
+    },
+    {
+      "added_at": "2026-09-18 07:59:10",
+      "album": {
+        "name": "Las Reglas Del Juego",
+        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
+      },
+      "artists": [
+        {
+          "name": "Cuarto de Milla",
+          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
+        }
+      ],
+      "duration_ms": 171886,
+      "name": "Quisiera Rozar Tu Piel",
+      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
     },
     {
       "added_at": "2026-09-18 07:59:10",
@@ -1047,22 +1063,6 @@
     {
       "added_at": "2026-09-18 07:59:10",
       "album": {
-        "name": "Las Reglas Del Juego",
-        "url": "https://open.spotify.com/album/3lXwM79sfzjdqGZhhHLoiQ"
-      },
-      "artists": [
-        {
-          "name": "Cuarto de Milla",
-          "url": "https://open.spotify.com/artist/5yambtXlsDmaV304q7CRIe"
-        }
-      ],
-      "duration_ms": 171886,
-      "name": "Quisiera Rozar Tu Piel",
-      "url": "https://open.spotify.com/track/6CfW6eeZUnAvEOdbmAuH8e"
-    },
-    {
-      "added_at": "2026-09-18 07:59:10",
-      "album": {
         "name": "El Rey Del Despecho 2.0",
         "url": "https://open.spotify.com/album/2HYCvRRXrXbNqYWZB8aWK9"
       },
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-18 07:59:10",
       "album": {
-        "name": "No Me Conoces A\u00fan",
-        "url": "https://open.spotify.com/album/7zEcwf1KZ1PgNreQi3Lmgd"
-      },
-      "artists": [
-        {
-          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
-          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
-        }
-      ],
-      "duration_ms": 195319,
-      "name": "No Me Conoces A\u00fan",
-      "url": "https://open.spotify.com/track/126zmqC9Bu58MV8JVbQlSs"
-    },
-    {
-      "added_at": "2026-09-18 07:59:10",
-      "album": {
         "name": "Sones Y Caballos (En Vivo)",
         "url": "https://open.spotify.com/album/4IaBBesdQqQlel5hGHGz8j"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 202199,
       "name": "Los Amores De Julia - En Vivo",
       "url": "https://open.spotify.com/track/1WfsEweuDGT4bp7H4LlC6n"
+    },
+    {
+      "added_at": "2026-09-18 07:59:10",
+      "album": {
+        "name": "No Me Conoces A\u00fan",
+        "url": "https://open.spotify.com/album/7zEcwf1KZ1PgNreQi3Lmgd"
+      },
+      "artists": [
+        {
+          "name": "La Original Banda El Lim\u00f3n de Salvador Liz\u00e1rraga",
+          "url": "https://open.spotify.com/artist/2ghByd8ucnRTWceSAnAZ0G"
+        }
+      ],
+      "duration_ms": 195319,
+      "name": "No Me Conoces A\u00fan",
+      "url": "https://open.spotify.com/track/126zmqC9Bu58MV8JVbQlSs"
     },
     {
       "added_at": "2026-09-18 07:59:10",
@@ -1179,6 +1179,22 @@
     {
       "added_at": "2026-09-18 07:59:10",
       "album": {
+        "name": "No He Avanzado Nada",
+        "url": "https://open.spotify.com/album/2TaJFiCbaNeiacoOlARY6T"
+      },
+      "artists": [
+        {
+          "name": "Banda Clave de Oro de Christian Rojas",
+          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+        }
+      ],
+      "duration_ms": 160605,
+      "name": "No He Avanzado Nada",
+      "url": "https://open.spotify.com/track/5JEEsiLIp24mi3MubrY6D4"
+    },
+    {
+      "added_at": "2026-09-18 07:59:10",
+      "album": {
         "name": "Y Sigues Siendo T\u00fa",
         "url": "https://open.spotify.com/album/6BLpmYtWTS9IdxVTsFQZdd"
       },
@@ -1191,26 +1207,6 @@
       "duration_ms": 162911,
       "name": "Y Sigues Siendo T\u00fa",
       "url": "https://open.spotify.com/track/2csn0HOElqpk8gc8mhtGeN"
-    },
-    {
-      "added_at": "2026-09-18 07:59:10",
-      "album": {
-        "name": "\u00bfC\u00f3mo Se Te Ocurre?",
-        "url": "https://open.spotify.com/album/2DesGVtJPsyBhk2fhk8Ich"
-      },
-      "artists": [
-        {
-          "name": "El Juanma",
-          "url": "https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF"
-        },
-        {
-          "name": "Julio Preciado",
-          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
-        }
-      ],
-      "duration_ms": 219922,
-      "name": "\u00bfC\u00f3mo Se Te Ocurre?",
-      "url": "https://open.spotify.com/track/0DFEiu7V6q0Z4mYAOtkN8v"
     },
     {
       "added_at": "2026-09-18 07:59:10",
@@ -1231,18 +1227,22 @@
     {
       "added_at": "2026-09-18 07:59:10",
       "album": {
-        "name": "No He Avanzado Nada",
-        "url": "https://open.spotify.com/album/2TaJFiCbaNeiacoOlARY6T"
+        "name": "\u00bfC\u00f3mo Se Te Ocurre?",
+        "url": "https://open.spotify.com/album/2DesGVtJPsyBhk2fhk8Ich"
       },
       "artists": [
         {
-          "name": "Banda Clave de Oro de Christian Rojas",
-          "url": "https://open.spotify.com/artist/6bm1UoKkIt1nyd4oBr0I0J"
+          "name": "El Juanma",
+          "url": "https://open.spotify.com/artist/4mYfTrMp1a4DnyrxGnUZRF"
+        },
+        {
+          "name": "Julio Preciado",
+          "url": "https://open.spotify.com/artist/0YHkeVGRdH0t8skdMxpqp3"
         }
       ],
-      "duration_ms": 160605,
-      "name": "No He Avanzado Nada",
-      "url": "https://open.spotify.com/track/5JEEsiLIp24mi3MubrY6D4"
+      "duration_ms": 219922,
+      "name": "\u00bfC\u00f3mo Se Te Ocurre?",
+      "url": "https://open.spotify.com/track/0DFEiu7V6q0Z4mYAOtkN8v"
     },
     {
       "added_at": "2026-09-18 07:59:10",
@@ -1475,22 +1475,6 @@
     {
       "added_at": "2026-09-18 07:59:10",
       "album": {
-        "name": "Ebrio de amor",
-        "url": "https://open.spotify.com/album/4M0fBBh1dNCWKbSZjDyYbV"
-      },
-      "artists": [
-        {
-          "name": "Los Valedores de la Sierra",
-          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
-        }
-      ],
-      "duration_ms": 188500,
-      "name": "Ebrio de amor",
-      "url": "https://open.spotify.com/track/04Q8hRhYtjz2JFBaggHbS0"
-    },
-    {
-      "added_at": "2026-09-18 07:59:10",
-      "album": {
         "name": "Contigo Aprend\u00ed a Amar",
         "url": "https://open.spotify.com/album/1JIZYSrr38pQrEDKmpoBkX"
       },
@@ -1503,6 +1487,22 @@
       "duration_ms": 267401,
       "name": "Contigo Aprend\u00ed a Amar",
       "url": "https://open.spotify.com/track/3tfbkz9kRr6rAeRPcNMniB"
+    },
+    {
+      "added_at": "2026-09-18 07:59:10",
+      "album": {
+        "name": "Ebrio de amor",
+        "url": "https://open.spotify.com/album/4M0fBBh1dNCWKbSZjDyYbV"
+      },
+      "artists": [
+        {
+          "name": "Los Valedores de la Sierra",
+          "url": "https://open.spotify.com/artist/78gn565x9ST44fKZEuOTJy"
+        }
+      ],
+      "duration_ms": 188500,
+      "name": "Ebrio de amor",
+      "url": "https://open.spotify.com/track/04Q8hRhYtjz2JFBaggHbS0"
     },
     {
       "added_at": "2026-09-18 07:59:10",

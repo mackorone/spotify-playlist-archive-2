@@ -4,7 +4,7 @@
 
 > Hypnotic melodic and afro <a href="spotify:genre:house">house</a> to light up the night.
 
-1,194 songs - 4 day 0 hr 18 min
+1,195 songs - 4 day 0 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -504,6 +504,7 @@
 | [It's You \- Alex Wann Remix](https://open.spotify.com/track/4gLGlik36Iy5yWS78NszV1) | [FCL](https://open.spotify.com/artist/5P1m0YM0AYTKGI5ugWfQwe), [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT) | [It’s You \(Alex Wann Remix\)](https://open.spotify.com/album/4RVlszrpBpxLlzdu29sWiN) | 3:51 | 2024-11-01 | 2024-12-10 |
 | [Jackie B](https://open.spotify.com/track/6AriBfTagIjKVUov3WEwOa) | [&friends](https://open.spotify.com/artist/0Z7zcsIphrPDnfZj9Ppqw0), [JOSEPH \(CH\)](https://open.spotify.com/artist/2ulSvfleM8jFR2YwauHjN0), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Jackie B](https://open.spotify.com/album/6bl2DvR8JpxauHqG7PjOmg) | 3:37 | 2025-05-16 | 2026-05-30 |
 | [Jama](https://open.spotify.com/track/0qrFuzJksG1vm1u67m7IM2) | [Lian Gold](https://open.spotify.com/artist/5NgAdRVBzrOLKRQ8RRvBx4), [Erika Krall](https://open.spotify.com/artist/1mFosR8GfDea3Vvdfcz48W) | [Jama](https://open.spotify.com/album/20hK6YrkLQdgzl6V50k9As) | 6:14 | 2022-04-08 | 2022-07-22 |
+| [Jamaica](https://open.spotify.com/track/5IaQmV2dOmzLbUDQ6RUdmR) | [Xinobi](https://open.spotify.com/artist/1w7cucUEPR1Yq9g03g6T8m), [ELIF](https://open.spotify.com/artist/1yatuhSYBeceXdDRg67hrm) | [Jamaica](https://open.spotify.com/album/61xq2YuN8yxOYsIIIQNKtA) | 3:30 | 2026-09-18 |  |
 | [Jameela](https://open.spotify.com/track/73ACKQUKfq1iz7cAgPCUim) | [BLR](https://open.spotify.com/artist/6eZxwKfQWK4d5sLOlauR1Y) | [Jameela](https://open.spotify.com/album/0f4XzO7YPKUZtfLHj4BK4f) | 3:09 | 2022-05-20 | 2022-07-03 |
 | [JAZZ IN THE AIR](https://open.spotify.com/track/0xBsZ8t2cgo2dSE2Xim3xO) | [Juls](https://open.spotify.com/artist/7BIkk865pwBrSZetA8Izic) | [JAZZ IN THE AIR](https://open.spotify.com/album/3hSDnCURfeICFh2Q1by74E) | 5:03 | 2025-03-28 | 2025-09-13 |
 | [Je t'attends](https://open.spotify.com/track/70rsrMZ6vCKv4rpT4kHm9l) | [Charles Aznavour](https://open.spotify.com/artist/2hgP9Ap2tc10R5jrQaEpMT), [Shahin Shantiaei](https://open.spotify.com/artist/2uMU6guzncNxQIWf2ROaHL) | [Je t'attends](https://open.spotify.com/album/75lBb0SaANAjcQqdChQJEE) | 3:20 | 2025-05-02 | 2026-03-14 |
@@ -1189,7 +1190,7 @@
 | [You Are](https://open.spotify.com/track/7ivcxtK1L1Y1j50x9yUWIR) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J) | [You Are](https://open.spotify.com/album/3Mlmg99htNwRiVf6yDAspJ) | 3:59 | 2025-06-13 | 2025-12-13 |
 | [You Belong To No\-One \- Tripolism Remix](https://open.spotify.com/track/4CyCAxTyrTDtzzrBZdjveC) | [WhoMadeWho](https://open.spotify.com/artist/50Lr1puweM1hFsF1LpIZLM), [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp) | [Kiss & Forget Remixes](https://open.spotify.com/album/6EEn6shLUPyB81mp89ZTwQ) | 6:33 | 2024-12-13 | 2025-02-09 |
 | [You Know](https://open.spotify.com/track/2VGn8OmbvdSarXJV0PBauj) | [Benji \(UK\)](https://open.spotify.com/artist/2rktaPoxmpCqSnjH8sG9Dq), [Julio Ade](https://open.spotify.com/artist/0aBK6w9ueJgetANKMYQvrd) | [You Know](https://open.spotify.com/album/787Fe2sF7ApgAtMfu7O30C) | 3:37 | 2024-11-08 | 2025-02-15 |
-| [you love me](https://open.spotify.com/track/1tD762Wdgt43yznHd2I4ST) | [millforlife](https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [you love me](https://open.spotify.com/album/0SnOkgG5O4elTdlvY68K0O) | 2:10 | 2026-08-21 |  |
+| [you love me](https://open.spotify.com/track/1tD762Wdgt43yznHd2I4ST) | [millforlife](https://open.spotify.com/artist/4zZJUnvsHN6zlCINxMor36), [Eneli](https://open.spotify.com/artist/77xr1BNiH6bg7sV7ufnFhe) | [you love me](https://open.spotify.com/album/0SnOkgG5O4elTdlvY68K0O) | 2:10 | 2026-08-21 | 2026-09-21 |
 | [You're Light](https://open.spotify.com/track/2EjX7Bo4oDXcB4F1hXRV4w) | [Sun\-El Musician](https://open.spotify.com/artist/0W8WpLB5WoXLgiA193LXk6), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq), [Karyendasoul](https://open.spotify.com/artist/2eSj64hhMVJPYbjpli6k4p) | [You're Light](https://open.spotify.com/album/2qxVBdSbQ66nnsZTpduPjr) | 5:57 | 2025-04-04 | 2025-04-26 |
 | [You're Not Alone](https://open.spotify.com/track/0WTtGE4UaKUDpAE4aouoa8) | [andhim](https://open.spotify.com/artist/6XJeFzmI6vrWyHcdB7EImP) | [You're Not Alone](https://open.spotify.com/album/2lhXVnPLcvmPhexeNmV37m) | 3:34 | 2024-03-01 | 2024-08-28 |
 | [You're Not Alone](https://open.spotify.com/track/19GkT8wYkfB3Gw9CokBCIV) | [MoBlack](https://open.spotify.com/artist/6Je4hal6B5wiRd46aeswrs), [Agoria](https://open.spotify.com/artist/4lu50np3LdTkRL09T7x8UP), [Simone Santagati](https://open.spotify.com/artist/4kucxpxFKtEXH98xR8GCPH), [Blasé](https://open.spotify.com/artist/4PqSBgXKxQuqclKpwB6iuc) | [You're Not Alone](https://open.spotify.com/album/0x1Tv2lL1eUoM6MWXz41do) | 4:56 | 2026-05-22 |  |

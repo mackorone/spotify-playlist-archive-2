@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXRPjCBAuFj3.md) - [plain]
 
 > Dieci anni di Santeria 🐎🐎🐎
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,230 likes - 109 songs - 5 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,227 likes - 109 songs - 5 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

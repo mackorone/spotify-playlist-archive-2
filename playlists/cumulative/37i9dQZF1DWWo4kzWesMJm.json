@@ -566,7 +566,7 @@
       ],
       "date_added": "2024-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 188173,
       "name": "Dis-moi encore que tu m'aimes",
       "url": "https://open.spotify.com/track/7vyAq4J0ca56TYWQMN727O"
@@ -1722,6 +1722,24 @@
       "duration_ms": 196693,
       "name": "Les choses qu'on fait",
       "url": "https://open.spotify.com/track/240tflmnpjIPLhT60svcaw"
+    },
+    {
+      "album": {
+        "name": "The No Comprendo",
+        "url": "https://open.spotify.com/album/3VnFLQ6pO9MSvVeKv5DHjY"
+      },
+      "artists": [
+        {
+          "name": "Les Rita Mitsouko",
+          "url": "https://open.spotify.com/artist/7CdlYgtOoxBtNjuDeIxSPM"
+        }
+      ],
+      "date_added": "2026-04-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240440,
+      "name": "Les histoires d'a",
+      "url": "https://open.spotify.com/track/3mmy0hmZ2xLV7EOdrUA8Ai"
     },
     {
       "album": {

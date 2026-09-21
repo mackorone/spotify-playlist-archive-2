@@ -2960,7 +2960,7 @@
       ],
       "date_added": "2025-07-12",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 137299,
       "name": "I NEED THAT",
       "url": "https://open.spotify.com/track/6iNN3A4TUf8mRNXg8Wv3hw"
@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": "2026-06-19",
+      "date_removed": null,
       "duration_ms": 202757,
       "name": "MARTYR (MARTYR)",
       "url": "https://open.spotify.com/track/3jRoQo8sAABg45bCIO9SuB"
@@ -4642,7 +4642,7 @@
       ],
       "date_added": "2025-01-28",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 123245,
       "name": "One Day You'll Die (I do not like this)",
       "url": "https://open.spotify.com/track/7wuwuepA7yWz9lKBUle8xE"
@@ -4960,7 +4960,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 225316,
       "name": "Perfectionist - Original Vocal Synth Demo",
       "url": "https://open.spotify.com/track/7ePsIvQgc985dEeh14doCF"
@@ -5470,7 +5470,7 @@
       ],
       "date_added": "2025-02-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 223198,
       "name": "Rest of my Life - DEMO",
       "url": "https://open.spotify.com/track/5WfIDdVeIcOL3gLIXI6PC9"
@@ -5532,7 +5532,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 194693,
       "name": "rose tints",
       "url": "https://open.spotify.com/track/5PcC91JT46zbmpSXO4htwO"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 131378,
       "name": "superposition",
       "url": "https://open.spotify.com/track/0foq1CuScisKw9QXmktboo"
@@ -6230,7 +6230,7 @@
       ],
       "date_added": "2026-03-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 203624,
       "name": "The Last One Left",
       "url": "https://open.spotify.com/track/6vCoPOCloqfrlUV9R0yYSH"
@@ -6512,10 +6512,32 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 142179,
       "name": "UR BF'S A LIAR",
       "url": "https://open.spotify.com/track/5juJttHBTnFVs2MreJGsz0"
+    },
+    {
+      "album": {
+        "name": "Ur not an icon!",
+        "url": "https://open.spotify.com/album/4QVa6m9hkg0RXMWd6A7eID"
+      },
+      "artists": [
+        {
+          "name": "$vonan",
+          "url": "https://open.spotify.com/artist/5ASC6jjLzgkG01iN0EBsiW"
+        },
+        {
+          "name": "STYXVII",
+          "url": "https://open.spotify.com/artist/6GLOrqLFhWmv13y61JRXjU"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 108000,
+      "name": "Ur not an icon!",
+      "url": "https://open.spotify.com/track/5uireLNJSDWOd7EcXOSUst"
     },
     {
       "album": {

@@ -4,7 +4,7 @@
 
 > Brand new music from Troye Sivan, Miley Cyrus, Dominic Fike, Emma Ogier, beabadoobee, Travis Scott + more
 
-14,689 songs - 33 day 8 hr 50 min
+14,690 songs - 33 day 8 hr 53 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [A Feeling I Miss](https://open.spotify.com/track/58kSdDfQVV2Pbupz7EYpkJ) | [Cassian](https://open.spotify.com/artist/1ChtRJ3f4rbv4vtz87i6CD), [Matt Ryder](https://open.spotify.com/artist/0hySaVBazHTHIRvnsxGvHx) | [A Feeling I Miss](https://open.spotify.com/album/62vGqBRWJcUF2rnBOH24Bq) | 3:21 | 2025-10-30 | 2025-11-07 |
 | [A Fragile Thing](https://open.spotify.com/track/17k0Dwj1nr2VnES26230lJ) | [The Cure](https://open.spotify.com/artist/7bu3H8JO7d0UbMoVzbo70s) | [A Fragile Thing](https://open.spotify.com/album/0AWjjB8tla6JjP2XQzKS9l) | 4:43 | 2024-10-11 | 2024-10-18 |
 | [A Gap In The Clouds](https://open.spotify.com/track/3LdFp2xxHGgxWPxiVXBGUw) | [CHIKA](https://open.spotify.com/artist/6UtYvUtXnmg5EtllDFlWp8) | [A Gap In The Clouds](https://open.spotify.com/album/4Af0aUL3G2UJXZOZnCf6DM) | 3:33 | 2026-05-21 | 2026-05-29 |
+| [A Good Day](https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX) | 2:31 | 2026-09-21 |  |
 | [A Good Man](https://open.spotify.com/track/3S08QyYjkQyLwZgAt1g8aG) | [Darcie Haven](https://open.spotify.com/artist/4z5Ea2f21AVA18kbjWp0Ni) | [A Good Man](https://open.spotify.com/album/1kbLdp1RGa9FjSHXpmy9Z8) | 3:43 | 2025-07-18 | 2025-07-25 |
 | [A GRADE](https://open.spotify.com/track/1uByr4XXKnYb7PX2FTFKbw) | [Shadow](https://open.spotify.com/artist/0X8YsieGthCs1x2oIoDf0X) | [A GRADE](https://open.spotify.com/album/7xwGcK2cSHn1vU04NrQOj8) | 3:38 | 2024-06-27 | 2024-07-05 |
 | [A Heart Doesn't Hurt Itself](https://open.spotify.com/track/1N4pzCqYLJpeqhB4BLFrqk) | [Sam Fischer](https://open.spotify.com/artist/6L1XC7NrmgWRlwAeLJvVtA) | [A Heart Doesn't Hurt Itself](https://open.spotify.com/album/5TuTiHg5WAxfrXcQ14IVmR) | 3:18 | 2026-05-07 | 2026-05-15 |

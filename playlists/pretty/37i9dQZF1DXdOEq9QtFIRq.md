@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdOEq9QtFIRq.md) - [plain]
 
 > One of rock & metal's biggest festivals is almost here! Press play on  <a href="https://louderthanlifefestival.com/">Louder Than Life's</a> incredible lineup of artists.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308 likes - 195 songs - 12 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,454 likes - 195 songs - 12 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

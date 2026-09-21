@@ -1,12 +1,12 @@
 {
   "description": "This is Macklemore. The essential tracks, all in one playlist.",
-  "num_followers": 207425,
+  "num_followers": 207910,
   "original_name": "This Is Macklemore",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAACI8fHnwugP06DELP3HA3Ix",
+  "snapshot_id": "aq3QgAAAAADaVirWQyArKH9jCdIn+VE4",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "fucked up",
+        "url": "https://open.spotify.com/album/7121xvYFDW2K9p6IhiUqxs"
+      },
+      "artists": [
+        {
+          "name": "Macklemore",
+          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        }
+      ],
+      "duration_ms": 219357,
+      "name": "fucked up",
+      "url": "https://open.spotify.com/track/7iZwny5Hp9zUObbcDsGHzT"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "This Unruly Mess I've Made",
         "url": "https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4"
       },
@@ -499,26 +515,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "GEMINI",
-        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
-      },
-      "artists": [
-        {
-          "name": "Macklemore",
-          "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
-        },
-        {
-          "name": "Eric Nally",
-          "url": "https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn"
-        }
-      ],
-      "duration_ms": 214720,
-      "name": "Ain't Gonna Die Tonight (feat. Eric Nally)",
-      "url": "https://open.spotify.com/track/1FgmP7AOTcn7MGYmImj0kn"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BEN",
         "url": "https://open.spotify.com/album/6K5RX7xasf8WdeQjapsThS"
       },
@@ -539,18 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "fucked up",
-        "url": "https://open.spotify.com/album/7121xvYFDW2K9p6IhiUqxs"
+        "name": "GEMINI",
+        "url": "https://open.spotify.com/album/72qA6s4fjF8Y2VX1UDMfp2"
       },
       "artists": [
         {
           "name": "Macklemore",
           "url": "https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY"
+        },
+        {
+          "name": "Eric Nally",
+          "url": "https://open.spotify.com/artist/3NoeRIxHApi6qe4yan2Vnn"
         }
       ],
-      "duration_ms": 219357,
-      "name": "fucked up",
-      "url": "https://open.spotify.com/track/7iZwny5Hp9zUObbcDsGHzT"
+      "duration_ms": 214720,
+      "name": "Ain't Gonna Die Tonight (feat. Eric Nally)",
+      "url": "https://open.spotify.com/track/1FgmP7AOTcn7MGYmImj0kn"
     },
     {
       "added_at": null,

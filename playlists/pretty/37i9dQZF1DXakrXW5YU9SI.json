@@ -1,6 +1,6 @@
 {
   "description": "Gotowi na pumpkin spice latte? \ud83c\udf42\ud83c\udf83\u2615",
-  "num_followers": 342306,
+  "num_followers": 342390,
   "original_name": "Jesienny chill",
   "owner": {
     "name": "Spotify",
@@ -531,6 +531,26 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
         "name": "Stygnie lato",
         "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
       },
@@ -543,26 +563,6 @@
       "duration_ms": 181846,
       "name": "Stygnie lato",
       "url": "https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
-        "name": "P\u00f3\u017aniej Ci opowiem",
-        "url": "https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh"
-      },
-      "artists": [
-        {
-          "name": "Dawid Kwiatkowski",
-          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
-        },
-        {
-          "name": "Margaret",
-          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
-        }
-      ],
-      "duration_ms": 185346,
-      "name": "P\u00f3\u017aniej Ci opowiem",
-      "url": "https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -583,22 +583,22 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "GET EVEN",
-        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+        "name": "P\u00f3\u017aniej Ci opowiem",
+        "url": "https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh"
       },
       "artists": [
         {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+          "name": "Dawid Kwiatkowski",
+          "url": "https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC"
         },
         {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+          "name": "Margaret",
+          "url": "https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ"
         }
       ],
-      "duration_ms": 168986,
-      "name": "GET EVEN (feat. GIVEON)",
-      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
+      "duration_ms": 185346,
+      "name": "P\u00f3\u017aniej Ci opowiem",
+      "url": "https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -771,22 +771,6 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "Je t\u2019aime",
-        "url": "https://open.spotify.com/album/5xkAfTuVQ8SbDZpeWAQy4B"
-      },
-      "artists": [
-        {
-          "name": "Tymek",
-          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
-        }
-      ],
-      "duration_ms": 176157,
-      "name": "Je t\u2019aime",
-      "url": "https://open.spotify.com/track/1n7laOrsIo8kwmJRJSdrZk"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
         "name": "Nocturne",
         "url": "https://open.spotify.com/album/3BhBjyJdYkJXBiAJeBV8bC"
       },
@@ -799,6 +783,22 @@
       "duration_ms": 296285,
       "name": "\u2060Wildfire",
       "url": "https://open.spotify.com/track/3V7Hl03AvjE96bo66GRwK8"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
+        "name": "Je t\u2019aime",
+        "url": "https://open.spotify.com/album/5xkAfTuVQ8SbDZpeWAQy4B"
+      },
+      "artists": [
+        {
+          "name": "Tymek",
+          "url": "https://open.spotify.com/artist/1silJqJQfrrZNFvWWjAyhh"
+        }
+      ],
+      "duration_ms": 176157,
+      "name": "Je t\u2019aime",
+      "url": "https://open.spotify.com/track/1n7laOrsIo8kwmJRJSdrZk"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -859,6 +859,26 @@
       "duration_ms": 152727,
       "name": "OPIUM",
       "url": "https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
+        "name": "Ja-Amosia",
+        "url": "https://open.spotify.com/album/20bnR0GO0ur1vUnUZ8SOoW"
+      },
+      "artists": [
+        {
+          "name": "ShataQS",
+          "url": "https://open.spotify.com/artist/5xlqfXGTn6kq5lRVh3bRN4"
+        },
+        {
+          "name": "Leszek Mo\u017cd\u017cer",
+          "url": "https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G"
+        }
+      ],
+      "duration_ms": 258456,
+      "name": "Ja-Amosia",
+      "url": "https://open.spotify.com/track/4lCVXrW0aACVkMvKwCUZRM"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -931,26 +951,6 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "Ja-Amosia",
-        "url": "https://open.spotify.com/album/20bnR0GO0ur1vUnUZ8SOoW"
-      },
-      "artists": [
-        {
-          "name": "ShataQS",
-          "url": "https://open.spotify.com/artist/5xlqfXGTn6kq5lRVh3bRN4"
-        },
-        {
-          "name": "Leszek Mo\u017cd\u017cer",
-          "url": "https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G"
-        }
-      ],
-      "duration_ms": 258456,
-      "name": "Ja-Amosia",
-      "url": "https://open.spotify.com/track/4lCVXrW0aACVkMvKwCUZRM"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
         "name": "Moment",
         "url": "https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb"
       },
@@ -967,22 +967,6 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "szpila",
-        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
-      },
-      "artists": [
-        {
-          "name": "nat cichocka",
-          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
-        }
-      ],
-      "duration_ms": 181694,
-      "name": "czekaj!",
-      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
         "name": "Kafejka na Ochocie",
         "url": "https://open.spotify.com/album/2y0uN5WzehFRH3GkUlf3iD"
       },
@@ -995,6 +979,22 @@
       "duration_ms": 190500,
       "name": "Kafejka na Ochocie",
       "url": "https://open.spotify.com/track/2huAJcqnLg4SC4jvHKKohG"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
+        "name": "szpila",
+        "url": "https://open.spotify.com/album/5utgJSuXnm92HO31Axhqos"
+      },
+      "artists": [
+        {
+          "name": "nat cichocka",
+          "url": "https://open.spotify.com/artist/5EAjCeLqtw5GFkmqFQy9al"
+        }
+      ],
+      "duration_ms": 181694,
+      "name": "czekaj!",
+      "url": "https://open.spotify.com/track/2uBuDTn4r5qmSYvAklWx5X"
     },
     {
       "added_at": "2026-09-18 07:26:29",

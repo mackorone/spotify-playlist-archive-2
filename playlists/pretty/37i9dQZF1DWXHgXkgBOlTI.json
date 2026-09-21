@@ -1,6 +1,6 @@
 {
   "description": "\u30b8\u30e3\u30ba\u3092\u57fa\u8abf\u306b\u30ed\u30c3\u30af\u3084\u30e9\u30c6\u30f3\u97f3\u697d\u3001\u96fb\u5b50\u97f3\u697d\u3001\u6642\u306b\u306f\u30af\u30e9\u30b7\u30c3\u30af\u306a\u3069\u3092\u878d\u5408\u3055\u305b\u305f\u300c\u30b8\u30e3\u30ba\u30d5\u30e5\u30fc\u30b8\u30e7\u30f3\u300d\u3092\u727d\u5f15\u3059\u308b\u65e5\u672c\u306e\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u3092\u7279\u96c6\u3002cover: SALVALAI",
-  "num_followers": 33364,
+  "num_followers": 33369,
   "original_name": "Jazz Fusion Japan",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
+        "name": "Susanna",
+        "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
+      },
+      "artists": [
+        {
+          "name": "Kan Sano",
+          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
+        }
+      ],
+      "duration_ms": 195106,
+      "name": "On My Way Home",
+      "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
+    },
+    {
+      "added_at": "2026-09-15 15:00:16",
+      "album": {
         "name": "SNEAKPEAK feat. Shing02",
         "url": "https://open.spotify.com/album/4T8yFAKBzi7HfUCpaph1sC"
       },
@@ -551,22 +567,6 @@
       "duration_ms": 219076,
       "name": "SNEAKPEAK feat. Shing02",
       "url": "https://open.spotify.com/track/38T3zfs1KtdNCbRPCRjC9H"
-    },
-    {
-      "added_at": "2026-09-15 15:00:16",
-      "album": {
-        "name": "Susanna",
-        "url": "https://open.spotify.com/album/5v4vMuGxzlM24kZUrSTdBF"
-      },
-      "artists": [
-        {
-          "name": "Kan Sano",
-          "url": "https://open.spotify.com/artist/5b3ZFm6P1lpZIASMDnBDs9"
-        }
-      ],
-      "duration_ms": 195106,
-      "name": "On My Way Home",
-      "url": "https://open.spotify.com/track/1Cpa7bqFRqG5YHQz98X8yx"
     },
     {
       "added_at": "2026-09-15 15:00:16",
@@ -803,22 +803,6 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
-        "name": "Frontiers",
-        "url": "https://open.spotify.com/album/6OUrBuWxY1NtCu2VmUD1RK"
-      },
-      "artists": [
-        {
-          "name": "DEZOLVE",
-          "url": "https://open.spotify.com/artist/69bAmAy4oS266wXyJiColS"
-        }
-      ],
-      "duration_ms": 308200,
-      "name": "Frontiers",
-      "url": "https://open.spotify.com/track/0pGMeaqavka50SO0yorIqV"
-    },
-    {
-      "added_at": "2026-09-15 15:00:16",
-      "album": {
         "name": "\u4e5d\u6708\u306e\u7a7a -KUGATSU NO SOLA-",
         "url": "https://open.spotify.com/album/6roaJKXBTODhmG7GcrSRdC"
       },
@@ -835,18 +819,34 @@
     {
       "added_at": "2026-09-15 15:00:16",
       "album": {
-        "name": "Tangerine Peel Jam",
-        "url": "https://open.spotify.com/album/6bcPexgm2Lg4ANfbkIq5bv"
+        "name": "Frontiers",
+        "url": "https://open.spotify.com/album/6OUrBuWxY1NtCu2VmUD1RK"
       },
       "artists": [
         {
-          "name": "Ear Candy Jazz Factory",
-          "url": "https://open.spotify.com/artist/6fJoQGB0VmdUHup8pB7ple"
+          "name": "DEZOLVE",
+          "url": "https://open.spotify.com/artist/69bAmAy4oS266wXyJiColS"
         }
       ],
-      "duration_ms": 275000,
-      "name": "Tailwind",
-      "url": "https://open.spotify.com/track/3LRBVr8xp1ouOhbJ18n4NY"
+      "duration_ms": 308200,
+      "name": "Frontiers",
+      "url": "https://open.spotify.com/track/0pGMeaqavka50SO0yorIqV"
+    },
+    {
+      "added_at": "2026-09-15 15:00:16",
+      "album": {
+        "name": "\u30a2\u30a4\u30eb",
+        "url": "https://open.spotify.com/album/33jrZWD12HJIHMpmnqmipP"
+      },
+      "artists": [
+        {
+          "name": "haruka nakamura",
+          "url": "https://open.spotify.com/artist/52R2tXlJMDDDYcpBSnn3k4"
+        }
+      ],
+      "duration_ms": 245500,
+      "name": "\u54c0\u3057\u3044\u4e88\u611f / \u30ea\u30ea\u30a6\u30e0",
+      "url": "https://open.spotify.com/track/4wHitaztudi6P05MUvFfpE"
     }
   ],
   "unique_name": "Jazz Fusion Japan",

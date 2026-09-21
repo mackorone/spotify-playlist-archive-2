@@ -2293,6 +2293,32 @@
     },
     {
       "album": {
+        "name": "Fresh Finds Hits",
+        "url": "https://open.spotify.com/album/2gtSd14b8h4A6M0llkdG87"
+      },
+      "artists": [
+        {
+          "name": "Issam Alnajjar",
+          "url": "https://open.spotify.com/artist/6dO0RkhFhjMwLtLQqNgL8r"
+        },
+        {
+          "name": "Alok",
+          "url": "https://open.spotify.com/artist/0NGAZxHanS9e0iNHpR8f2W"
+        },
+        {
+          "name": "Danna Paola",
+          "url": "https://open.spotify.com/artist/5xSx2FM8mQnrfgM1QsHniB"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197550,
+      "name": "Si Tu Vuelas - Hadal Ahbek [Alok Remix]",
+      "url": "https://open.spotify.com/track/5I9V9CKa0czqhqiySv8L0S"
+    },
+    {
+      "album": {
         "name": "BAREE?",
         "url": "https://open.spotify.com/album/1gZW7IiLxwvWx0VAR9HK3X"
       },

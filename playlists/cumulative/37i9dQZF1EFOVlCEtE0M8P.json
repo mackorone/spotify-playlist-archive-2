@@ -477,6 +477,24 @@
     },
     {
       "album": {
+        "name": "Observing Chaos",
+        "url": "https://open.spotify.com/album/2PDL5zrh8O9xF8ukEfltam"
+      },
+      "artists": [
+        {
+          "name": "GAYLE",
+          "url": "https://open.spotify.com/artist/2VSHKHBTiXWplO8lxcnUC9"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 134533,
+      "name": "bite the bullet",
+      "url": "https://open.spotify.com/track/19c0Cp5gIaUttRU7MAvByJ"
+    },
+    {
+      "album": {
         "name": "bite the bullet",
         "url": "https://open.spotify.com/album/4hwA1AqKKOZakN6BerVdo6"
       },
@@ -488,7 +506,7 @@
       ],
       "date_added": "2026-08-29",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 134533,
       "name": "bite the bullet",
       "url": "https://open.spotify.com/track/3k4CtUyfaSlBftplzCrkro"

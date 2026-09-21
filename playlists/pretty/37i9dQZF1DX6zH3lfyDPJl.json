@@ -1,6 +1,6 @@
 {
   "description": "\uc13c\uce58\ud55c \uac10\uc815\uc744 \ub178\ub798\ud558\ub294 \uac10\uc131\uc801\uc778 \uace1\ub4e4\uacfc \ud568\uaed8 \ubb3c \uba4d\uc5d0 \uc7a0\uaca8\ubcf4\uc138\uc694.",
-  "num_followers": 13524,
+  "num_followers": 13537,
   "original_name": "\ubb3c \uba4d",
   "owner": {
     "name": "Spotify",
@@ -623,22 +623,6 @@
     {
       "added_at": "2026-09-08 13:24:58",
       "album": {
-        "name": "Closely Far Away",
-        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
-      },
-      "artists": [
-        {
-          "name": "Car, the garden",
-          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
-        }
-      ],
-      "duration_ms": 194546,
-      "name": "Closely Far Away",
-      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
-    },
-    {
-      "added_at": "2026-09-08 13:24:58",
-      "album": {
         "name": "dosii",
         "url": "https://open.spotify.com/album/0nrhKqYSxc2gwoMFzTckU6"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 231709,
       "name": "lovememore.",
       "url": "https://open.spotify.com/track/0P9XwjnnIPQFTwdqvu01Mf"
+    },
+    {
+      "added_at": "2026-09-08 13:24:58",
+      "album": {
+        "name": "Closely Far Away",
+        "url": "https://open.spotify.com/album/6q9YOWpWu7QA3MeHbpIoLC"
+      },
+      "artists": [
+        {
+          "name": "Car, the garden",
+          "url": "https://open.spotify.com/artist/7c1HgFDe8ogy5NOZ1ANCJQ"
+        }
+      ],
+      "duration_ms": 194546,
+      "name": "Closely Far Away",
+      "url": "https://open.spotify.com/track/7wLJ4xzxNss5abZ1kXs242"
     },
     {
       "added_at": "2026-09-08 13:24:58",
@@ -739,22 +739,6 @@
     {
       "added_at": "2026-09-08 13:24:58",
       "album": {
-        "name": "Perfect Crown OST Part.8",
-        "url": "https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9"
-      },
-      "artists": [
-        {
-          "name": "hrtz.wav",
-          "url": "https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "You Keep Me Here",
-      "url": "https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM"
-    },
-    {
-      "added_at": "2026-09-08 13:24:58",
-      "album": {
         "name": "Ambitions",
         "url": "https://open.spotify.com/album/0p1YL9nzIuKTonZH6Gq58i"
       },
@@ -767,6 +751,22 @@
       "duration_ms": 218053,
       "name": "Taking Off",
       "url": "https://open.spotify.com/track/6rH7DwITrq2MhxSSuL91r9"
+    },
+    {
+      "added_at": "2026-09-08 13:24:58",
+      "album": {
+        "name": "Perfect Crown OST Part.8",
+        "url": "https://open.spotify.com/album/4SrWORwSxnQDx7g6luKMt9"
+      },
+      "artists": [
+        {
+          "name": "hrtz.wav",
+          "url": "https://open.spotify.com/artist/4xCz4boMkoSCzVWULUNeVg"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "You Keep Me Here",
+      "url": "https://open.spotify.com/track/2a686rjbxnMQPFgXjhBxXM"
     },
     {
       "added_at": "2026-09-08 13:24:58",

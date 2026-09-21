@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 
 > NEW  POPULAR MUSIC BY  INDIE AND ESTABLISHED ARTISTS .\. Free submission  \- 1 week on the list  NO EXPLICITS \- NO RAP Active supporters who play and share the list will get more time  \-so please play and share \- Thank you &lt;3  https:&\#x2F;&\#x2F;www.instagram.com&\#x2F;enilsounds&\#x2F;
 
-[enilsounds](https://open.spotify.com/user/enilsounds) - 2,022 likes - 91 songs - 5 hr 12 min
+[enilsounds](https://open.spotify.com/user/enilsounds) - 2,024 likes - 95 songs - 5 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -99,5 +99,9 @@ pretty - [cumulative](/playlists/cumulative/1Dz1enrHJyUrLyxdqr1SPg.md) - [plain]
 | 89 | [Heroes Get Hurt](https://open.spotify.com/track/6b7WpA3GgmjyNoKcIdUSfk) | [David Bluefield](https://open.spotify.com/artist/0irPPvv6YVj3bqFuQ4Yix0), [Terry Lupton](https://open.spotify.com/artist/5AnahQXYD6pptWAhpsuU9i) | [Heroes Get Hurt](https://open.spotify.com/album/3UxqFJUxb39E7sSFR4K9Kl) | 3:42 |
 | 90 | [Forever](https://open.spotify.com/track/6uMJNnzsWizuk6RNjOPeIG) | [WAS Music](https://open.spotify.com/artist/3IqAQfmvqry08s3o5YVYew), [Gaz Twist](https://open.spotify.com/artist/52MTNuYffSQRjZcZ7KiSam) | [Carpe Diem](https://open.spotify.com/album/5pVHrBjnuOWKXshWKJaVil) | 4:04 |
 | 91 | [Welcome To The Show](https://open.spotify.com/track/5qddgMqAL4NQga5zns6Ghw) | [Bunyin Yang](https://open.spotify.com/artist/1q4yy3y1W2Y39daS8HXY9o) | [The Power Of Being Human](https://open.spotify.com/album/1cG7DmZBRyr4lZFrqeRw9G) | 5:40 |
+| 92 | [Girls and the Curse](https://open.spotify.com/track/0eO1FG7sNpB9PSHShDlQZG) | [Dear, The Bunny Dead](https://open.spotify.com/artist/6YNljbUij8I9XvdUTI8Yni) | [Vamp](https://open.spotify.com/album/1lqwTD9P2wD59ZMDClayzL) | 2:09 |
+| 93 | [Crying \(In September\)](https://open.spotify.com/track/6DhVlfBpDjqnGQHx2LhxK2) | [Roses!Hands!](https://open.spotify.com/artist/2IIPLXX4gc8oKR37sOsa9o), [DJ Rozwell](https://open.spotify.com/artist/5ETn9pXrEi2upRr6P87jew) | [MMXXII](https://open.spotify.com/album/6vRRH7PlhC05goJHMlpwGN) | 3:37 |
+| 94 | [Sound In My Head](https://open.spotify.com/track/2lV3asnM691mdX5c2DqInZ) | [Wainscott](https://open.spotify.com/artist/0fbKtHid63OlqrX6GpSCyJ), [Ian Campbell](https://open.spotify.com/artist/7AZVAu6NJQP6QHSDrvn2Kb) | [Sound In My Head](https://open.spotify.com/album/4QQAG28GPxZucLN2IfTNUU) | 3:11 |
+| 95 | [I'm Bored x](https://open.spotify.com/track/1fRonpKCl5SRNccAHOEvl0) | [Andrew Wilson](https://open.spotify.com/artist/7nJeosmDpSeqMG1gjzuRLk), [Kellin Quinn](https://open.spotify.com/artist/3M9XAM57a4qFz3v6Lq27t2) | [I'm Bored x](https://open.spotify.com/album/6pPoIqEGFHEEu0FGE23UWz) | 4:08 |
 
-Snapshot ID: `AABj0bJS8TSVsx8mwjxm5PsCEXKOnvg5`
+Snapshot ID: `AABj1Ssdj56MPTeZ+pruYc9pd2Wntzjv`

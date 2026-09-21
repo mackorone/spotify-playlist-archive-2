@@ -1,12 +1,12 @@
 {
   "description": "This is Ghost. The essential tracks, all in one playlist.",
-  "num_followers": 481434,
+  "num_followers": 481470,
   "original_name": "This Is Ghost",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAACxm+r6k2kg4SL2fhag3FQv",
+  "snapshot_id": "aq3QgAAAAAAfgEApfuDDnwLR1JHqanqQ",
   "tracks": [
     {
       "added_at": null,
@@ -76,7 +76,7 @@
       "added_at": null,
       "album": {
         "name": "Prequelle",
-        "url": "https://open.spotify.com/album/6128JCa2uBqHWia5AzJOKV"
+        "url": "https://open.spotify.com/album/1KMfjy6MmPorahRjxhTnxm"
       },
       "artists": [
         {
@@ -86,7 +86,7 @@
       ],
       "duration_ms": 219720,
       "name": "Dance Macabre",
-      "url": "https://open.spotify.com/track/4pIKFpwflOdhYNIRmPTj3E"
+      "url": "https://open.spotify.com/track/1E2WTcYLP1dFe1tiGDwRmT"
     },
     {
       "added_at": null,
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 249146,
-      "name": "Per Aspera Ad Inferi",
-      "url": "https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS"
+      "duration_ms": 102426,
+      "name": "Infestissumam",
+      "url": "https://open.spotify.com/track/7BwScOUaIcnABifoNlK9e9"
     },
     {
       "added_at": null,
@@ -648,9 +648,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 247373,
-      "name": "Mummy Dust",
-      "url": "https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x"
+      "duration_ms": 242640,
+      "name": "From The Pinnacle To The Pit",
+      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
     },
     {
       "added_at": null,
@@ -664,9 +664,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 102426,
-      "name": "Infestissumam",
-      "url": "https://open.spotify.com/track/7BwScOUaIcnABifoNlK9e9"
+      "duration_ms": 249146,
+      "name": "Per Aspera Ad Inferi",
+      "url": "https://open.spotify.com/track/7H32Smt3EiKgjMAGzhFRHS"
     },
     {
       "added_at": null,
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/1Qp56T7n950O3EGMsSl81D"
         }
       ],
-      "duration_ms": 242640,
-      "name": "From The Pinnacle To The Pit",
-      "url": "https://open.spotify.com/track/2J5aJp4HQxcMuxZ6HVM4GC"
+      "duration_ms": 247373,
+      "name": "Mummy Dust",
+      "url": "https://open.spotify.com/track/3OF5mCJ8aRRIzyE49c9x6x"
     },
     {
       "added_at": null,

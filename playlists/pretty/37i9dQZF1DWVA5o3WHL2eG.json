@@ -1,6 +1,6 @@
 {
   "description": "Women at full volume! Cover: badm\u00f3mzjay",
-  "num_followers": 51265,
+  "num_followers": 51257,
   "original_name": "EQUAL GSA",
   "owner": {
     "name": "Spotify",
@@ -279,22 +279,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "Ich hoffe du hast Angst",
-        "url": "https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860"
-      },
-      "artists": [
-        {
-          "name": "SOFFIE",
-          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
-        }
-      ],
-      "duration_ms": 150822,
-      "name": "Ich hoffe du hast Angst",
-      "url": "https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "kahs l\u00e0 bas",
         "url": "https://open.spotify.com/album/5VQLy5fYagt9jsKXYcb8Q0"
       },
@@ -315,6 +299,22 @@
       "duration_ms": 130331,
       "name": "kahs l\u00e0 bas",
       "url": "https://open.spotify.com/track/3ms0V1rdiqSIByWSyqAOPy"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "Ich hoffe du hast Angst",
+        "url": "https://open.spotify.com/album/3MUamS6lb1jayhwGNOT860"
+      },
+      "artists": [
+        {
+          "name": "SOFFIE",
+          "url": "https://open.spotify.com/artist/4zdZ6gGi9gBJZmCNun0Jhj"
+        }
+      ],
+      "duration_ms": 150822,
+      "name": "Ich hoffe du hast Angst",
+      "url": "https://open.spotify.com/track/574X9vJBqho3mxTU7mOlNf"
     },
     {
       "added_at": "2026-09-01 22:00:08",
@@ -531,22 +531,6 @@
     {
       "added_at": "2026-09-01 22:00:08",
       "album": {
-        "name": "CHROME H<3RTS",
-        "url": "https://open.spotify.com/album/3TMHxqr3cVOlj28hIFSOBi"
-      },
-      "artists": [
-        {
-          "name": "tosha",
-          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
-        }
-      ],
-      "duration_ms": 150193,
-      "name": "CHROME H<3RTS",
-      "url": "https://open.spotify.com/track/4N9yrcEtcYE00hniOHxRRh"
-    },
-    {
-      "added_at": "2026-09-01 22:00:08",
-      "album": {
         "name": "Little Silver",
         "url": "https://open.spotify.com/album/1wAVX0w8C159TNaoV5cnTN"
       },
@@ -559,6 +543,22 @@
       "duration_ms": 206315,
       "name": "Little Silver",
       "url": "https://open.spotify.com/track/0MFIfAM4UCbG133OeToJ5t"
+    },
+    {
+      "added_at": "2026-09-01 22:00:08",
+      "album": {
+        "name": "CHROME H<3RTS",
+        "url": "https://open.spotify.com/album/3TMHxqr3cVOlj28hIFSOBi"
+      },
+      "artists": [
+        {
+          "name": "tosha",
+          "url": "https://open.spotify.com/artist/5jkiK9die380dtxct1EnEQ"
+        }
+      ],
+      "duration_ms": 150193,
+      "name": "CHROME H<3RTS",
+      "url": "https://open.spotify.com/track/4N9yrcEtcYE00hniOHxRRh"
     },
     {
       "added_at": "2026-09-01 22:00:08",

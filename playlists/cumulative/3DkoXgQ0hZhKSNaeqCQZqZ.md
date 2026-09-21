@@ -4,7 +4,7 @@
 
 > FurryRadio.com, furry music for furs, by furs.
 
-597 songs - 1 day 7 hr 48 min
+598 songs - 1 day 7 hr 52 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -466,6 +466,7 @@
 | [Shoot Me If You Can](https://open.spotify.com/track/2UkXYrNzmb1edRsMezsu1s) | [Kookie](https://open.spotify.com/artist/4lXLshdg09Wxh0oPdSNNwW) | [Shoot Me If You Can](https://open.spotify.com/album/3oEi6itGs4mFe5Op0QnTPz) | 3:25 | 2025-10-29 |  |
 | [should've died years ago](https://open.spotify.com/track/7ePJ6BcAdvmgHmP1s3aSyy) | [Flxffy\_](https://open.spotify.com/artist/6IMOszBMoTJWk1TUPTJlGD) | [should've died years ago](https://open.spotify.com/album/5sEnRmxYndenRP1yd6djsh) | 2:51 | 2026-04-15 |  |
 | [Side Effects](https://open.spotify.com/track/3BCBxtROaMqaFXBPNdrFiA) | [fearozzles](https://open.spotify.com/artist/4XgmepqLvHMHSFgHbTKWns), [fauxx](https://open.spotify.com/artist/4smmSBpafc7gjOz5qIB8mU) | [Side Effects](https://open.spotify.com/album/45Ix4hesCtMI2Hg1u457TW) | 2:20 | 2024-10-21 | 2026-03-01 |
+| [Sign My Heart Away](https://open.spotify.com/track/68r6xq0n43NJBXSDjhugs2) | [MrKoolTrix](https://open.spotify.com/artist/1FwT1hBOkIAfg3fXFo0J3x), [Niic](https://open.spotify.com/artist/45VASQ5Pl3K8uSuUh9wooM) | [SOUNDBLAST EP](https://open.spotify.com/album/0clDQUmIQ3Em3I0mGt9M3M) | 4:50 | 2026-09-20 |  |
 | [Silhouette](https://open.spotify.com/track/0fC9GePxGbjfuOuGJLcLlh) | [GrieferPig](https://open.spotify.com/artist/7DmWu55IMdbyjRKmhsgTA6), [Trey Husk](https://open.spotify.com/artist/557mWkaCfEfpnEGuNSlG2d), [Metajoker](https://open.spotify.com/artist/2fkfwkrtCqUBWuYOdg2iFO) | [Ponies At Dawn Fusion](https://open.spotify.com/album/4OGFquHWqzLZIAonNWdDwh) | 3:25 | 2026-01-17 |  |
 | [Silly Plans \~ Revisit](https://open.spotify.com/track/5vP1NGTKuXXaEpU6pDdFrx) | [YonKaGor](https://open.spotify.com/artist/2M1EOE4J6tnaLCfMhE3eFq) | [Silly Plans \~ Revisit](https://open.spotify.com/album/2Ef4YpCkxaLfkC3kE12yZt) | 2:36 | 2023-12-05 |  |
 | [skeleton](https://open.spotify.com/track/5CpFnf53jOpKvPiOxse77C) | [snazzyvaka](https://open.spotify.com/artist/3hHniqLXSqhRZeR3xUvlr2) | [skeleton](https://open.spotify.com/album/5wgc9OU0XuIYtRJAiRJRS2) | 2:32 | 2026-01-24 |  |

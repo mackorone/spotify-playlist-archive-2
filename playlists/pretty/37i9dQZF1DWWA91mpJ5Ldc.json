@@ -1,6 +1,6 @@
 {
   "description": "'t\u00e1 na rua? traz salsinha?' (eternamente)",
-  "num_followers": 137214,
+  "num_followers": 137215,
   "original_name": "Cozinhando a Ceia",
   "owner": {
     "name": "Spotify",
@@ -699,6 +699,26 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "Faz Uma Loucura Por Mim",
+        "url": "https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM"
+      },
+      "artists": [
+        {
+          "name": "Mal\u00eda",
+          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
+        },
+        {
+          "name": "Alcione",
+          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
+        }
+      ],
+      "duration_ms": 215889,
+      "name": "Faz Uma Loucura Por Mim",
+      "url": "https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "T\u00c1 FELIZ?!",
         "url": "https://open.spotify.com/album/6DIrxGW8DPl58CSIpygxjg"
       },
@@ -719,26 +739,6 @@
       "duration_ms": 191093,
       "name": "SAMBA DE CRIA",
       "url": "https://open.spotify.com/track/7sXea0Z2jwhTGlRXWe2znZ"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "Faz Uma Loucura Por Mim",
-        "url": "https://open.spotify.com/album/22ZmM0XxUnccC6DfY9NsbM"
-      },
-      "artists": [
-        {
-          "name": "Mal\u00eda",
-          "url": "https://open.spotify.com/artist/06Ta0NqRjBW6qubwdyeb9u"
-        },
-        {
-          "name": "Alcione",
-          "url": "https://open.spotify.com/artist/0hPar6ePAELiu9rYMdvMEo"
-        }
-      ],
-      "duration_ms": 215889,
-      "name": "Faz Uma Loucura Por Mim",
-      "url": "https://open.spotify.com/track/7DGGJgwLu2mUX3oRYPDkWL"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -787,6 +787,22 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
+        "name": "AFIM",
+        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
+      },
+      "artists": [
+        {
+          "name": "Z\u00e9 Ibarra",
+          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+        }
+      ],
+      "duration_ms": 206312,
+      "name": "Hexagrama 28",
+      "url": "https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN"
+    },
+    {
+      "added_at": "2025-12-05 19:00:22",
+      "album": {
         "name": "Abrigo",
         "url": "https://open.spotify.com/album/23PdmCyFeFSdD6sEtCdaPs"
       },
@@ -803,18 +819,18 @@
     {
       "added_at": "2025-12-05 19:00:22",
       "album": {
-        "name": "AFIM",
-        "url": "https://open.spotify.com/album/1LJrM0eFBcInguPLI28Ui7"
+        "name": "A Dan\u00e7a do Mundo",
+        "url": "https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE"
       },
       "artists": [
         {
-          "name": "Z\u00e9 Ibarra",
-          "url": "https://open.spotify.com/artist/52GmrK0buOOvHo7Kk20O4U"
+          "name": "Leo Middea",
+          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
         }
       ],
-      "duration_ms": 206312,
-      "name": "Hexagrama 28",
-      "url": "https://open.spotify.com/track/4LMgK06OzzLvEN4ar4OYeN"
+      "duration_ms": 202209,
+      "name": "Tibeth\u00e2nica",
+      "url": "https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC"
     },
     {
       "added_at": "2025-12-05 19:00:22",
@@ -835,22 +851,6 @@
       "duration_ms": 200000,
       "name": "Samurai",
       "url": "https://open.spotify.com/track/0YmkiwhBMbAyrRVUxKT6Zg"
-    },
-    {
-      "added_at": "2025-12-05 19:00:22",
-      "album": {
-        "name": "A Dan\u00e7a do Mundo",
-        "url": "https://open.spotify.com/album/0uMHpVW9LO4OL6b6ZHbhgE"
-      },
-      "artists": [
-        {
-          "name": "Leo Middea",
-          "url": "https://open.spotify.com/artist/0axa4ZdiQG1tafIU0u5SYG"
-        }
-      ],
-      "duration_ms": 202209,
-      "name": "Tibeth\u00e2nica",
-      "url": "https://open.spotify.com/track/57xQH9sXTDnbVOrcFksMIC"
     },
     {
       "added_at": "2025-12-05 19:00:22",

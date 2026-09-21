@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,566 songs - 6 day 6 hr 22 min
+2,569 songs - 6 day 6 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1175,6 +1175,7 @@
 | [Kick the Brakes off \(Now We're Rollin'\)](https://open.spotify.com/track/5xLzOesLZtjVCRxl2idsAG) | [Mat Partridge](https://open.spotify.com/artist/4PFTJXMdTx6k7qPUVfv6jy) | [Parts Per Million](https://open.spotify.com/album/47REl1ObbB95GBWz5CoQOk) | 4:59 | 2026-06-04 |  |
 | [Kids On Fast\-Forward](https://open.spotify.com/track/0NGK0ahfImvD9RSoQtKIg9) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Kids On Fast\-Forward](https://open.spotify.com/album/30w4d4Gv93dtP53186lz9A) | 2:41 | 2026-05-24 |  |
 | [Kids On Fast\-Forward](https://open.spotify.com/track/0jMY3G8clCjyx96tkQX1yC) | [Potao](https://open.spotify.com/artist/5GD2Wl5un0dmmR10arYp5P) | [Space is waiting](https://open.spotify.com/album/6bXj35VTwniDyFcdDkwDPO) | 2:41 | 2026-05-22 |  |
+| [Kiitos Ja Näkemiin](https://open.spotify.com/track/53fQ93YMUdK4uc5TP6CdiX) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Lappeenrannassa](https://open.spotify.com/album/2FLEpk7AtlJcAcPBBrM6Ow) | 2:02 | 2026-09-20 |  |
 | [Kindest Thing](https://open.spotify.com/track/6zlmNOc2Dw5hqvfoNC2JrS) | [Blue Scarr](https://open.spotify.com/artist/1gTOD1oLGnXEK81NvlQWSi), [Ava Breeze](https://open.spotify.com/artist/0SqTm0vETKvufHb2sUmGcQ) | [Kindest Thing](https://open.spotify.com/album/4qAHhJN0GEVaNUeRZPVYq3) | 2:45 | 2025-06-29 |  |
 | [King](https://open.spotify.com/track/3uRwRYQivxq32dAccCisVE) | [The Dubbstyle](https://open.spotify.com/artist/2EhzGQxSHKOjcrOSieAF0g) | [Slow](https://open.spotify.com/album/7kQA4WVRe18dEdsLSD14la) | 4:45 | 2024-03-10 |  |
 | [King Love Dub](https://open.spotify.com/track/3XrUEju5EfvfDgr8aXZqkO) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [King Love Dub Sessions](https://open.spotify.com/album/6eOZY5jTwk9FQxUdWTBRRZ) | 6:23 | 2024-05-04 |  |
@@ -2109,6 +2110,7 @@
 | [Suspiro](https://open.spotify.com/track/0XQqupee8Qw7YYnEa7Ahk1) | [Alisone](https://open.spotify.com/artist/4jREeAP6ogIlfy7c2ME4Y5) | [Esfera](https://open.spotify.com/album/4tOgRDthKfbLEK1PkLIt9R) | 2:17 | 2026-03-15 |  |
 | [Svaha Sunday \- Svaha Sound System Remix](https://open.spotify.com/track/5ccw9MO4Km5yhfkNyHoNIN) | [Mexican Stepper](https://open.spotify.com/artist/0LkpURD28re1NOBsAWSZQq), [Svaha Sound System](https://open.spotify.com/artist/1CWjJe72Yym8pyZLxEyRCw) | [The Mad Sunday](https://open.spotify.com/album/22xvWyrGCj7bk8GTA5buRd) | 5:59 | 2024-05-01 |  |
 | [Sweat Anthem](https://open.spotify.com/track/65zuFPckng3AYC5HmM00Gv) | [Fit with Luana](https://open.spotify.com/artist/0FJHi0Z34sZvHetSXPr5uw) | [Sweat Anthem](https://open.spotify.com/album/3lbZ6TXYg2BzPjVSNkBYyg) | 2:12 | 2024-12-25 |  |
+| [Sweet Lullabies](https://open.spotify.com/track/4UR50vuN8TOdyXGguSUUgy) | [Sw33t Tea](https://open.spotify.com/artist/0VIRme1Ou51Ja9BKAbXRIj), [Brandon Wolf Hill](https://open.spotify.com/artist/7EYYR9anlJRktScur5Jbsd), [Sam Spah](https://open.spotify.com/artist/27K6xUNvwRtArV6AvngeVC) | [Sweet Lullabies](https://open.spotify.com/album/2pSGR0hbEJ3NU6PDcGoRIH) | 2:38 | 2026-09-20 |  |
 | [Sweeter than Sugar](https://open.spotify.com/track/2Tyexd1I6X9NIFQP6TeOqX) | [Skydi vibes](https://open.spotify.com/artist/61YtYVSqzhbGsPcVCWIg8m) | [Sweeter than Sugar](https://open.spotify.com/album/69k9HVL64ONQ6tC7spzlqi) | 2:00 | 2025-11-11 |  |
 | [Sweetest Dub](https://open.spotify.com/track/7LiAoKpTyGHa5QRTljsuUX) | [Muflon Dub Soundsystem](https://open.spotify.com/artist/2Ezu1DrYA7N80DduUwUnE1) | [King Love Dub Sessions](https://open.spotify.com/album/6eOZY5jTwk9FQxUdWTBRRZ) | 4:06 | 2024-05-04 |  |
 | [SweetWater 420](https://open.spotify.com/track/30i6fYmlGeo0LSlzh8e8qq) | [The Mark & Freddy Band](https://open.spotify.com/artist/0rIAA5cJZz5kRQP1poSzno) | [FIRST](https://open.spotify.com/album/4FtDkB5eblzfzYj5Dh50dK) | 3:08 | 2025-12-01 |  |
@@ -2549,6 +2551,7 @@
 | [Рыжая девочка\-осень](https://open.spotify.com/track/4H7o6gTT8S1PoK5xsHAWCR) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Рыжая девочка\-осень](https://open.spotify.com/album/4K91LPYMgFjWnGBalCGnRO) | 2:23 | 2025-06-30 |  |
 | [Сказка, милая сказка](https://open.spotify.com/track/43bdnp7HlUWMWZRg6j0A4s) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Сказка, милая сказка](https://open.spotify.com/album/1hbYA2nWzZL8IgiqE9uVpv) | 4:31 | 2025-05-09 |  |
 | [Стихи усыпаны золой](https://open.spotify.com/track/5lKLESXe57MOnrruGp509e) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Стихи усыпаны золой](https://open.spotify.com/album/5R6LA8nzq4jZsMsWAK53TG) | 2:37 | 2026-01-17 |  |
+| [Ти одна](https://open.spotify.com/track/1TTAOvapubQP7UrD5aoFtd) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Ти одна](https://open.spotify.com/album/0ZankfEUuI9HX0DlAiMM7w) | 3:37 | 2026-09-20 |  |
 | [Три времени](https://open.spotify.com/track/7uJSMGXHy4d9JKcbCBNVLI) | [Krutogolov Soundworks](https://open.spotify.com/artist/2It9qSHSBf9doBLFZAJ3sQ) | [Три времени](https://open.spotify.com/album/5FOXkye7HfRkpq25km6a5C) | 4:54 | 2025-08-13 |  |
 | [Хорошие всё люди](https://open.spotify.com/track/3rhtHtJJhEv59cFXru3yFp) | [the poet must die](https://open.spotify.com/artist/2D0En2asmzvF1FGNiXEGqf) | [Хорошие всё люди](https://open.spotify.com/album/4w2zx1lJYBAwqFa2Qoo9zZ) | 1:02 | 2026-06-23 |  |
 | [Хрипят моторы](https://open.spotify.com/track/2V9Vb562pyNLwQJiyGny55) | [Kutas](https://open.spotify.com/artist/1lXEd5AIXUzVKsW3jusPDq) | [Космос](https://open.spotify.com/album/2jcE7I4Mqs4iGeY9PL3yRZ) | 4:00 | 2025-10-07 |  |

@@ -6681,6 +6681,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Venha Sem Avisar",
+        "url": "https://open.spotify.com/album/2EUidS1qnhNkBZzAvPTPgs"
+      },
+      "artists": [
+        {
+          "name": "Thiago Martins",
+          "url": "https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171388,
+      "name": "N\u00e3o Venha Sem Avisar",
+      "url": "https://open.spotify.com/track/3HXJlragpVyaqhoAjtWwoJ"
+    },
+    {
+      "album": {
         "name": "O Meri Jana",
         "url": "https://open.spotify.com/album/5iknZYO2dtkvJAThkiYmVY"
       },

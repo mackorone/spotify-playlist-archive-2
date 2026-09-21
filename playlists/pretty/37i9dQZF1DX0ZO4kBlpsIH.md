@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 
 > A taste of French café culture ☕️ jazz for slow mornings, sunny terraces, and long afternoons.
 
-[Spotify](https://open.spotify.com/user/spotify) - 476,711 likes - 57 songs - 2 hr 36 min
+[Spotify](https://open.spotify.com/user/spotify) - 476,900 likes - 57 songs - 2 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -66,4 +66,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ZO4kBlpsIH.md) - [plain]
 | 56 | [Valse du chignon](https://open.spotify.com/track/6oBgyC4xuXj8XLr6S5WojN) | [Léandre Porcher Orchestra](https://open.spotify.com/artist/4ohj4TI0oVXXRZR21JghI7) | [Valse du chignon](https://open.spotify.com/album/3HlMzsJ7YS9Gt0hX0l9TVC) | 2:06 |
 | 57 | [Montagne Ste Genevieve](https://open.spotify.com/track/4idHXZqvu37IDsiHTZDrLC) | [Stephane Wrembel](https://open.spotify.com/artist/6YSLrvLUuyNoaL8Wuk6sZm) | [Introducing Stephane Wrembel](https://open.spotify.com/album/4sz3Jgvhv7jAzxwQRxtGZD) | 2:10 |
 
-Snapshot ID: `AAAAAPLFjNXmO4/cIlt7UEcvGQMEoyas`
+Snapshot ID: `AAAAAKAtqR2Gp7g4Ry7CUlyFZCv+xuao`

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1M\u00fasica que representa a Cuba! Cover: Wampi",
-  "num_followers": 168291,
+  "num_followers": 168308,
   "original_name": "Hecho en Cuba",
   "owner": {
     "name": "Spotify",
@@ -371,6 +371,26 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
+        "name": "H\u00e1blame de Miami",
+        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        },
+        {
+          "name": "Maffio",
+          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
+        }
+      ],
+      "duration_ms": 158773,
+      "name": "H\u00e1blame de Miami",
+      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
+    },
+    {
+      "added_at": "2026-09-11 04:01:34",
+      "album": {
         "name": "EL PROBLEMA SOY YO",
         "url": "https://open.spotify.com/album/41QxG4croIE1tKMHx58bfW"
       },
@@ -395,26 +415,6 @@
       "duration_ms": 211490,
       "name": "EL PROBLEMA SOY YO",
       "url": "https://open.spotify.com/track/4sQTbV2DblGqo0vKuiaUZz"
-    },
-    {
-      "added_at": "2026-09-11 04:01:34",
-      "album": {
-        "name": "H\u00e1blame de Miami",
-        "url": "https://open.spotify.com/album/4yHi7BzkWVcF7SOIAGhJHE"
-      },
-      "artists": [
-        {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
-        },
-        {
-          "name": "Maffio",
-          "url": "https://open.spotify.com/artist/5RzT7CM6Ot0sh0EHefMicV"
-        }
-      ],
-      "duration_ms": 158773,
-      "name": "H\u00e1blame de Miami",
-      "url": "https://open.spotify.com/track/1dYV5vIMPKqkGKgxlZ5CL0"
     },
     {
       "added_at": "2026-09-11 04:01:34",
@@ -539,34 +539,6 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
-        "name": "Vibras",
-        "url": "https://open.spotify.com/album/1BWYew8QB2zdGHXdCt7bXu"
-      },
-      "artists": [
-        {
-          "name": "Akoy",
-          "url": "https://open.spotify.com/artist/4Q2X9b6vlgRq04Lp3Leykw"
-        },
-        {
-          "name": "Dale Pututi & Nesty",
-          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
-        },
-        {
-          "name": "Dale Pututi",
-          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
-        },
-        {
-          "name": "Nesty",
-          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
-        }
-      ],
-      "duration_ms": 194036,
-      "name": "Vibras",
-      "url": "https://open.spotify.com/track/6KCvGJbPW4stj6p2PFt5aj"
-    },
-    {
-      "added_at": "2026-09-11 04:01:34",
-      "album": {
         "name": "Taxi Rutero",
         "url": "https://open.spotify.com/album/10Kjb9SrS23ELP1Lvyf0jZ"
       },
@@ -595,6 +567,34 @@
       "duration_ms": 192941,
       "name": "Taxi Rutero",
       "url": "https://open.spotify.com/track/5oHyyhoSSwYdDlrzWzCZfP"
+    },
+    {
+      "added_at": "2026-09-11 04:01:34",
+      "album": {
+        "name": "Vibras",
+        "url": "https://open.spotify.com/album/1BWYew8QB2zdGHXdCt7bXu"
+      },
+      "artists": [
+        {
+          "name": "Akoy",
+          "url": "https://open.spotify.com/artist/4Q2X9b6vlgRq04Lp3Leykw"
+        },
+        {
+          "name": "Dale Pututi & Nesty",
+          "url": "https://open.spotify.com/artist/2RAbA5yism1Fw9Cl4bxDDP"
+        },
+        {
+          "name": "Dale Pututi",
+          "url": "https://open.spotify.com/artist/0qgEwzU6TJsJF0L7iyYY8z"
+        },
+        {
+          "name": "Nesty",
+          "url": "https://open.spotify.com/artist/5ea5Ly7r7aR3kaQQteUDmg"
+        }
+      ],
+      "duration_ms": 194036,
+      "name": "Vibras",
+      "url": "https://open.spotify.com/track/6KCvGJbPW4stj6p2PFt5aj"
     },
     {
       "added_at": "2026-09-11 04:01:34",
@@ -703,26 +703,6 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
-        "name": "UN TIEMPO",
-        "url": "https://open.spotify.com/album/629OQNREnZdJKsPtbvp0CI"
-      },
-      "artists": [
-        {
-          "name": "Yorshi & Yosan",
-          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
-        },
-        {
-          "name": "Charaway",
-          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
-        }
-      ],
-      "duration_ms": 178909,
-      "name": "UN TIEMPO",
-      "url": "https://open.spotify.com/track/6RhoTSeKVDKan32JCh80fV"
-    },
-    {
-      "added_at": "2026-09-11 04:01:34",
-      "album": {
         "name": "E-Charla",
         "url": "https://open.spotify.com/album/2mDJ4ckYrPXq8leJmFqDHp"
       },
@@ -751,6 +731,22 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
+        "name": "Demasiado",
+        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
+      },
+      "artists": [
+        {
+          "name": "Gente De Zona",
+          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+        }
+      ],
+      "duration_ms": 157974,
+      "name": "After Party",
+      "url": "https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U"
+    },
+    {
+      "added_at": "2026-09-11 04:01:34",
+      "album": {
         "name": "Invicto",
         "url": "https://open.spotify.com/album/2oygVM25oyhOD01iz2xDzh"
       },
@@ -767,18 +763,22 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
-        "name": "Demasiado",
-        "url": "https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj"
+        "name": "UN TIEMPO",
+        "url": "https://open.spotify.com/album/629OQNREnZdJKsPtbvp0CI"
       },
       "artists": [
         {
-          "name": "Gente De Zona",
-          "url": "https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL"
+          "name": "Yorshi & Yosan",
+          "url": "https://open.spotify.com/artist/6P1Br4Y7er2VNYiozFC1GO"
+        },
+        {
+          "name": "Charaway",
+          "url": "https://open.spotify.com/artist/2vjXRf6qBN4ckt5Tbt4lvy"
         }
       ],
-      "duration_ms": 157974,
-      "name": "After Party",
-      "url": "https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U"
+      "duration_ms": 178909,
+      "name": "UN TIEMPO",
+      "url": "https://open.spotify.com/track/6RhoTSeKVDKan32JCh80fV"
     },
     {
       "added_at": "2026-09-11 04:01:34",
@@ -1083,6 +1083,22 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
+        "name": "La Chiva",
+        "url": "https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct"
+      },
+      "artists": [
+        {
+          "name": "Ronkalunga",
+          "url": "https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC"
+        }
+      ],
+      "duration_ms": 250456,
+      "name": "El Millonario",
+      "url": "https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R"
+    },
+    {
+      "added_at": "2026-09-11 04:01:34",
+      "album": {
         "name": "A Veces",
         "url": "https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT"
       },
@@ -1099,22 +1115,6 @@
       "duration_ms": 181521,
       "name": "A Veces",
       "url": "https://open.spotify.com/track/6cXQX7pRILTVVamY7CJIVi"
-    },
-    {
-      "added_at": "2026-09-11 04:01:34",
-      "album": {
-        "name": "La Chiva",
-        "url": "https://open.spotify.com/album/15LGO0weK6qGrhSAAdt7Ct"
-      },
-      "artists": [
-        {
-          "name": "Ronkalunga",
-          "url": "https://open.spotify.com/artist/5SmPM5iZnmOGwkepCkEukC"
-        }
-      ],
-      "duration_ms": 250456,
-      "name": "El Millonario",
-      "url": "https://open.spotify.com/track/2NlpcZgmPZMnyJqlcwBz3R"
     },
     {
       "added_at": "2026-09-11 04:01:34",
@@ -1143,18 +1143,18 @@
     {
       "added_at": "2026-09-11 04:01:34",
       "album": {
-        "name": "El de Pi",
-        "url": "https://open.spotify.com/album/33DrhmxhAI9WShK28kXB9H"
+        "name": "Abr\u00e1zame Muy Fuerte",
+        "url": "https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu"
       },
       "artists": [
         {
-          "name": "El Chulo",
-          "url": "https://open.spotify.com/artist/7kj75f6jra7M10czBhd0Gt"
+          "name": "Wow Popy",
+          "url": "https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv"
         }
       ],
-      "duration_ms": 196472,
-      "name": "El de Pi",
-      "url": "https://open.spotify.com/track/4yAy8MUMIx030A5nS7XHDG"
+      "duration_ms": 219333,
+      "name": "Abr\u00e1zame Muy Fuerte - Prod. by Dj Cham",
+      "url": "https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG"
     },
     {
       "added_at": "2026-09-11 04:01:34",

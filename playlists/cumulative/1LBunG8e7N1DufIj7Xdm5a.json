@@ -36009,6 +36009,24 @@
     },
     {
       "album": {
+        "name": "I Don't Wanna",
+        "url": "https://open.spotify.com/album/4K2AA3lxoriLp75m4o9d5I"
+      },
+      "artists": [
+        {
+          "name": "The Spent Priests",
+          "url": "https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161745,
+      "name": "I Don't Wanna",
+      "url": "https://open.spotify.com/track/68HJ0xRRiP5lmfvpP83GF4"
+    },
+    {
+      "album": {
         "name": "I Enjoy",
         "url": "https://open.spotify.com/album/7DEcbvAc0faCvQrM6n8bVD"
       },

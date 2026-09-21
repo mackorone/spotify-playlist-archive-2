@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: SOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,728 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,735 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 23 | [Sientelo \- Sota & Circadian Remix](https://open.spotify.com/track/2G1ePysdwwjtoxB0qSacjd) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Camo & Krooked](https://open.spotify.com/artist/2N8IPNZTiNo3nj4mreOlHU), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Circadian](https://open.spotify.com/artist/1YrGu3E2y8jG5JJFlDEWFE) | [Sientelo \(Sota & Circadian Remix\)](https://open.spotify.com/album/3nRCHcfRdwHgKkYyYYYj4h) | 3:57 |
 | 24 | [Holy Moly \- VIP](https://open.spotify.com/track/2lR38u65dPKs0ZJ3BHVoz6) | [Document One](https://open.spotify.com/artist/70E0CLEf2H8hCo06gHJ7tu) | [Holy Moly \(VIP\)](https://open.spotify.com/album/1IRwkwVuNeReBF1E9ANuxJ) | 4:13 |
 | 25 | [Round + Round](https://open.spotify.com/track/5EMKhf5HieDSJHbVuaucd4) | [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP), [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Mila Falls](https://open.spotify.com/artist/5m1yocXnIqkhC8dyQQd6Ve) | [Round + Round](https://open.spotify.com/album/7gc1xnYMRQAuyc9Gnq2mr9) | 2:38 |
-| 26 | [On The Gas](https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [On The Gas](https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO) | 2:58 |
-| 27 | [Yapa Yapa \(Shut It Pls\) \- Serum Remix](https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO), [Dr Ofori](https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Yapa Yapa \(Shut It Pls\) \[Serum Remix\]](https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs) | 3:18 |
+| 26 | [Yapa Yapa \(Shut It Pls\) \- Serum Remix](https://open.spotify.com/track/2eUomHlhqjWsSEJiYS9dJk) | [Badger](https://open.spotify.com/artist/4mnrcwjD8rgFeOzvXmkcw3), [Big Shaq](https://open.spotify.com/artist/7mnAzEmgquhrVtGob81SmO), [Dr Ofori](https://open.spotify.com/artist/4jsOeCZLQG1ygXCF2pMqvp), [Serum](https://open.spotify.com/artist/1OeYjH80o59axC1PYRV97m) | [Yapa Yapa \(Shut It Pls\) \[Serum Remix\]](https://open.spotify.com/album/3nxtYIeazKAFjJncFCPrAs) | 3:18 |
+| 27 | [On The Gas](https://open.spotify.com/track/2WEgrGbwVSxwph9tYKoVUr) | [MANIA](https://open.spotify.com/artist/5YBOXdKLNBdfGKGnQEYn3c) | [On The Gas](https://open.spotify.com/album/6BclAY5tQsJealVwApgrUO) | 2:58 |
 | 28 | [Feel The Pulse](https://open.spotify.com/track/6l0VAs8qEzsGh1mqusoQQx) | [Mozey](https://open.spotify.com/artist/1h8wkWuZQKyDiwbLogtoL0) | [Feel The Pulse](https://open.spotify.com/album/11EmKfSdfbhFslAWgr9EAQ) | 3:20 |
 | 29 | [Do You](https://open.spotify.com/track/3yoykYiHLZk6fc0jN6rz9q) | [Upgrade \(UK\)](https://open.spotify.com/artist/1j95lMtVC9QwnVbifoVy60), [Basstripper](https://open.spotify.com/artist/1tSiIyp5dxfbEaS0nZGMEl) | [Do You](https://open.spotify.com/album/1IC8acDFeKsGmfhwiFsk64) | 3:42 |
 | 30 | [OH YEAH](https://open.spotify.com/track/6rLnHm0RX103kSIcmcC5qN) | [Killer Hertz](https://open.spotify.com/artist/3ZP1ehx2m4N4ne5pwR70ih), [Macky Gee](https://open.spotify.com/artist/5EDztvTkyoKtK0ZdEdhOFx), [Virus Syndicate](https://open.spotify.com/artist/0NV5eY4Jzg4ldg2ikGnV4n) | [OH YEAH](https://open.spotify.com/album/5EIY9fUDOnTPZeZaDoObYP) | 3:47 |
@@ -58,10 +58,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 48 | [Sticks & Stones](https://open.spotify.com/track/3QTI12GOy7qzizzwOb9Oi1) | [Primate](https://open.spotify.com/artist/37C3qTCakuZc3EjTari9lU) | [Sticks & Stones](https://open.spotify.com/album/7LXcPDrT8Ldx3L1OqPjljq) | 3:53 |
 | 49 | [Dopamine Hits](https://open.spotify.com/track/2QNhQiUiQcqjqv1AXYDCBZ) | [Mefjus](https://open.spotify.com/artist/54qqaSH6byJIb8eFWxe3Pj), [Maksim MC](https://open.spotify.com/artist/6iwQ21ctUhnKozPAQx6zyC) | [Dopamine Hits](https://open.spotify.com/album/0repDZaNnjgoPqa38JDjST) | 3:09 |
 | 50 | [Feel My Love](https://open.spotify.com/track/2xhNvPgzIDEmrfHtzx5kbl) | [Eskei83](https://open.spotify.com/artist/2mwfx4gHhYVlrKjhEM5Q3R) | [Feel My Love](https://open.spotify.com/album/4DguMe5dhEUfqWCBmZ5Zus) | 3:44 |
-| 51 | [Good Vibrations](https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Good Vibrations](https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA) | 3:00 |
-| 52 | [RUN](https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [RUN](https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN) | 3:00 |
-| 53 | [Let Me Down](https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Let Me Down](https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD) | 3:12 |
-| 54 | [Go Hard](https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ) | [T\-Lex](https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL) | [Go Hard / Wednesday](https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB) | 4:27 |
+| 51 | [Go Hard](https://open.spotify.com/track/5wzjPaLjmAshBs0oT4SOaQ) | [T\-Lex](https://open.spotify.com/artist/3diWJAdGxsO9OT4cRe0khL) | [Go Hard / Wednesday](https://open.spotify.com/album/6E3kaGfskdiO3Z6N08RDVB) | 4:27 |
+| 52 | [Let Me Down](https://open.spotify.com/track/22ODhRNhJ48mbz0a7Ylqw5) | [Grafix](https://open.spotify.com/artist/27YdXZOMLqvxI2pB5GyqyY), [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Let Me Down](https://open.spotify.com/album/5RNHB1KgP1wZbIHImr3VGD) | 3:12 |
+| 53 | [RUN](https://open.spotify.com/track/49bPzRToh1kiYGWUJLYhd2) | [ÆON:MODE](https://open.spotify.com/artist/41ouHqoKXNijIMFsQTmFQV) | [RUN](https://open.spotify.com/album/4JBGhW2NrfdnQvdA2wqXXN) | 3:00 |
+| 54 | [Good Vibrations](https://open.spotify.com/track/273AH2WWSbxI1Je7j3Mqz6) | [Blossom](https://open.spotify.com/artist/0FhgVFxDmcXH3blEWtt13V) | [Good Vibrations](https://open.spotify.com/album/3FiFg9HODL0wB96ORI5XbA) | 3:00 |
 | 55 | [Violence](https://open.spotify.com/track/0U4qvX9sqWki2Zxr3oL2Zz) | [Murdock](https://open.spotify.com/artist/501MfkAIop4dRLvOqjlMHl), [Maëlie](https://open.spotify.com/artist/0X5iBtXZZhEEXjIvnpsdY4) | [Violence](https://open.spotify.com/album/2lLOq3l8TyB3Nzfqm0SmzB) | 2:41 |
 
 Snapshot ID: `AAAAAIc6j4q5lkq0T89yZx0zkYf5uu8K`

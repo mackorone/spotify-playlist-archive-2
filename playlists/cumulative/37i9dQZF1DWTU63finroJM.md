@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Maia Reficco
 
-2,480 songs - 5 day 13 hr 13 min
+2,481 songs - 5 day 13 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1639,7 +1639,7 @@
 | [Quiéreme Así](https://open.spotify.com/track/19CSJpQj9eit5CX5m5L5nr) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:08 | 2025-09-09 | 2025-10-02 |
 | [Qué Bonita](https://open.spotify.com/track/1dTiGeFvkufOuEQtAKeK4z) | [Cano](https://open.spotify.com/artist/60ZOYUFnCYEeKYsxgvPxOS) | [Qué Bonita](https://open.spotify.com/album/59ZCwSFvBxgZfPx1QSuuCW) | 2:47 | 2025-09-09 | 2025-10-02 |
 | [Qué Más Da](https://open.spotify.com/track/14WCJzq5yQhdtDrcGm2WcZ) | [Leon Leiden](https://open.spotify.com/artist/1h3ucVy2E3Feh5LGO7agfW), [David Rees](https://open.spotify.com/artist/2CQHyfluB4mliyv193Qn2L) | [Qué Más Da](https://open.spotify.com/album/3GEkEU52GYJsCPXm4UFpUi) | 3:15 | 2022-04-07 | 2022-04-20 |
-| [QUÉ NOS PASÓ?](https://open.spotify.com/track/6nWrPaHLvdqIYeqPvydLFu) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [QUÉ NOS PASÓ?](https://open.spotify.com/album/0WswLK7Vb1ceeDjNhtdZAC) | 2:08 | 2026-09-18 |  |
+| [QUÉ NOS PASÓ?](https://open.spotify.com/track/6nWrPaHLvdqIYeqPvydLFu) | [TOBIKA](https://open.spotify.com/artist/2aJA34lnMLsr3deynZN9I5) | [QUÉ NOS PASÓ?](https://open.spotify.com/album/0WswLK7Vb1ceeDjNhtdZAC) | 2:08 | 2026-09-18 | 2026-09-21 |
 | [Químico](https://open.spotify.com/track/0xJodMjaPnEjGm8dDix9oc) | [SOULFIA](https://open.spotify.com/artist/1Q9Sx5tOmwems0qwLJZ5Cy) | [Químico](https://open.spotify.com/album/5Rf4NA823SjUQRrmGcFmaZ) | 3:19 | 2022-03-24 | 2022-04-09 |
 | [R.L.M](https://open.spotify.com/track/7xrp1M7PQfRh5fsT8dOGnj) | [MRCY](https://open.spotify.com/artist/4fHvJqxNjCIVcJekRTHoVh) | [R.L.M](https://open.spotify.com/album/5jk1ZbZsxdmcKNFKmDO2nF) | 3:45 | 2024-04-12 | 2024-05-11 |
 | [Raahein](https://open.spotify.com/track/7CHGpAMZ4RuPXaZ0C811Ur) | [Shadow and Light](https://open.spotify.com/artist/6BG3rlgfBM8V8JStjm7IFa) | [Raahein](https://open.spotify.com/album/0C4I8cU0oiUgDjjtWzX9SX) | 4:37 | 2022-03-24 | 2022-04-10 |
@@ -1837,6 +1837,7 @@
 | [SOTTOVUOTO](https://open.spotify.com/track/199Svha19bRqiXZZmjELF6) | [Caffellatte](https://open.spotify.com/artist/7xmNRoYqVgsIiyIwRxrlay) | [SOTTOVUOTO](https://open.spotify.com/album/4rlD5BCaW8ZybnIcxsrOx1) | 3:23 | 2022-03-24 | 2022-04-17 |
 | [SOUL](https://open.spotify.com/track/6AzLKOoOuDELNmLFW9LUQi) | [Jeune Lion](https://open.spotify.com/artist/4tTvRdLVGAsJyk9lEEx3Xb) | [HIGHLY SPIRITUAL](https://open.spotify.com/album/1CwzOslLfNRXhVX84btF7B) | 2:44 | 2024-04-19 | 2024-08-31 |
 | [Soweto](https://open.spotify.com/track/7p85HOOjg1q3lqKovxeiOC) | [Victony](https://open.spotify.com/artist/1E5hfn5BduN2nnoZCJmUVG), [Tempoe](https://open.spotify.com/artist/1X7glgDhqNq1qn0Qv9g3K4) | [Outlaw](https://open.spotify.com/album/2k9UloVzoBNJtCY1TvxTNj) | 2:28 | 2025-09-09 | 2025-10-02 |
+| [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/track/36VBCbNjmbQbdYWZrqJCFT) | [iza tkm](https://open.spotify.com/artist/0m7MzTCPnBRGBUngaA7Jj3), [Zenei](https://open.spotify.com/artist/0BSgbcq8IZrLbHFWUnGz6u) | [soñé la respuesta pero no recuerdo \- RADAR México](https://open.spotify.com/album/1BrxxWa0vt457lQmNoeidn) | 3:09 | 2026-09-18 |  |
 | [SPACESHIP](https://open.spotify.com/track/1pV9OnvnLtLyy4EFSUdM2d) | [WurtS](https://open.spotify.com/artist/6oued35Hkg7GIEXqVfBrQK) | [Talking Box \(Dirty Pop Remix\) / SPACESHIP](https://open.spotify.com/album/0cQWPaUqLIG3bj44qArE7q) | 4:02 | 2022-04-07 | 2023-04-18 |
 | [SPARK](https://open.spotify.com/track/5e2IYEzhOAkeMzFP63ud41) | [A.C.E](https://open.spotify.com/artist/25KT93FeotUTHC1dbLasxi) | [Light on Me \(Original Television Soundtrack\) Pt\. 1](https://open.spotify.com/album/5JUCKtIymV3OGqZImVCcX6) | 3:47 | 2022-02-03 | 2022-03-18 |
 | [Speechless](https://open.spotify.com/track/7IR6eTDsqLvKPv0gCf7baZ) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Roses](https://open.spotify.com/album/51oLr3DGob1mhKVtDfDYq4) | 3:22 | 2024-03-17 | 2024-04-06 |

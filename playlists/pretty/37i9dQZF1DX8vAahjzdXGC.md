@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari no na, ROSÉ, Miley Cyrus, Dominic Fike, Piche Kota, Akbar Chalay, Mingse dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,225 likes - 114 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,177 likes - 114 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

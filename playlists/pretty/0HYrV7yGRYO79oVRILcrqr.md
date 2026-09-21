@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,902 likes - 100 songs - 6 hr 31 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,902 likes - 101 songs - 6 hr 36 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -108,5 +108,6 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 98 | [Devil in your Eyes](https://open.spotify.com/track/6nRgzrlhyd2yBp2T3OItgp) | [Elizabeth](https://open.spotify.com/artist/0tgidGFMzSBoxZI87spcTW), [SinCrawler](https://open.spotify.com/artist/2aGUDAsWVwhbc8bnqNx5Ho) | [Devil in your Eyes](https://open.spotify.com/album/4OWRSANXAH393AN761G6YQ) | 4:23 |
 | 99 | [How I Roll](https://open.spotify.com/track/32paNGShaeE7O5USN1pC4M) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [How I Roll](https://open.spotify.com/album/03LIKVBmtQtxm2u0wxO35n) | 3:41 |
 | 100 | [WARNING](https://open.spotify.com/track/1XAymPdjKe5BhcRblNExsX) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [WARNING](https://open.spotify.com/album/3pwrFb9IheebnknYXKNxCI) | 3:05 |
+| 101 | [And I](https://open.spotify.com/track/5voWbOW9uiUxyY8Dc5SzPk) | [Ramblings of Mad Men](https://open.spotify.com/artist/75HRhhpgS05x2R6YVGihyv) | [And I](https://open.spotify.com/album/3TMufmZ9VQZbJf5oTyNsdC) | 4:41 |
 
-Snapshot ID: `AAAMkf4yrAvO8FBFCVsJumZ9QFZuhqRy`
+Snapshot ID: `AAAMkij0m/sP8XoH8Pagxo/h+o665Ej6`

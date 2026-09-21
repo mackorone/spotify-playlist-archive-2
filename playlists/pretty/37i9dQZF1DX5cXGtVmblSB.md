@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 
 > Soft music to calm down cats, kittens and their humans.
 
-[Spotify](https://open.spotify.com/user/spotify) - 171,403 likes - 253 songs - 11 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 171,551 likes - 253 songs - 11 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -262,4 +262,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5cXGtVmblSB.md) - [plain]
 | 252 | [Drifting Off](https://open.spotify.com/track/3h6Vsk0vcAyThKVtxZV9FN) | [Awex White](https://open.spotify.com/artist/7b2kh3GmjuTNQfevsLjeiT) | [Drifting Off](https://open.spotify.com/album/0qwKY37EcH9KvHChwVazQN) | 2:46 |
 | 253 | [528hz Love Frequency](https://open.spotify.com/track/7mxLKVzvBUb0K6W8wKwBcx) | [Solfeggio Medicine Frequencies](https://open.spotify.com/artist/7rOJtiSbZS98NSFDP1kKnV) | [Solfeggio Medicine Frecuencies Vol\. 1](https://open.spotify.com/album/7hNbEpRZcaTHj38NHxqXiz) | 3:46 |
 
-Snapshot ID: `AAAAAKxEY9YU2zdi4PctIjnLD9ZPxpHd`
+Snapshot ID: `AAAAAAdXjiBWQUekVRrzfHg8PBwCdoIH`

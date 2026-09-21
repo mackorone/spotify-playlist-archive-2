@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3svMrp8RwsOrJ2NaPbK3x9">Carole King</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-538 songs - 1 day 2 hr 46 min
+539 songs - 1 day 2 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -326,7 +326,8 @@
 | [One Was Johnny](https://open.spotify.com/track/0c8SIKptqeB9qNC4g9c0jj) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Really Rosie](https://open.spotify.com/album/2fknQru3D4hvsU7BDfgbSd) | 2:08 | 2025-05-31 |  |
 | [One Wonderful Night](https://open.spotify.com/track/1FZjBGVuG9lE71ai4HzCyw) | [Dum Doobie Doobie Band](https://open.spotify.com/artist/4DDNzHva9SgZpOvol4ka09) | [One Wonderful Night](https://open.spotify.com/album/4uIhihVXEUEUdSIddTPN1C) | 2:31 | 2025-09-10 |  |
 | [Only Love Is Real](https://open.spotify.com/track/1nxgnG63hvc87iBLEvCuHS) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Thoroughbred](https://open.spotify.com/album/6n61GdcPqMQRkKYii9am8K) | 3:32 | 2023-12-30 |  |
-| [Orange Colored Sky \(2002 \- Remaster\)](https://open.spotify.com/track/0ZLk8B1vrz0DMomtbcVZuw) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [For Sentimental Reasons](https://open.spotify.com/album/0pnYReWt5KR8S6272Eyls6) | 2:30 | 2026-08-18 |  |
+| [Orange Colored Sky \(2002 \- Remaster\)](https://open.spotify.com/track/0ZLk8B1vrz0DMomtbcVZuw) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [For Sentimental Reasons](https://open.spotify.com/album/0pnYReWt5KR8S6272Eyls6) | 2:30 | 2026-08-18 | 2026-09-21 |
+| [Orange Colored Sky \- As Heard on “Fallout” \(Series\)](https://open.spotify.com/track/4EkXYOn919yjhjAnoYbHPD) | [Nat King Cole](https://open.spotify.com/artist/7v4imS0moSyGdXyLgVTIV7) | [Nat King Cole for Fall: Autumn Leaves](https://open.spotify.com/album/3CXjKI1anvTh1Fk633ltt1) | 2:32 | 2026-09-20 |  |
 | [Out in the Cold](https://open.spotify.com/track/0mgRHRnVctNI7KhXSnoRMn) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Out In the Cold](https://open.spotify.com/album/2ggh6pNMFI6yQHF0yfKJ91) | 2:44 | 2024-09-25 |  |
 | [Out In The Cold](https://open.spotify.com/track/0y0ZXqWt6IejweVMxKsR2W) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Tapestry](https://open.spotify.com/album/4FqgAwMHP0Nquc87MvR0wS) | 2:45 | 2023-12-30 | 2024-09-26 |
 | [Passing of the Days](https://open.spotify.com/track/4XQhy7sba25JLSSqp5Eqfg) | [Carole King](https://open.spotify.com/artist/319yZVtYM9MBGqmSQnMyY6) | [Touch the Sky](https://open.spotify.com/album/4zWaxKSpJTVw8J6qsRi4es) | 2:52 | 2023-12-30 |  |

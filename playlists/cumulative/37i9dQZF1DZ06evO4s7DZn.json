@@ -617,6 +617,24 @@
     },
     {
       "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/0kmeOghrlnIQiypRaU2iJN"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 137493,
+      "name": "De Que Me Sirve",
+      "url": "https://open.spotify.com/track/2kEQmkg3oQToNocePk2ZOc"
+    },
+    {
+      "album": {
         "name": "De Punta a Punta",
         "url": "https://open.spotify.com/album/46DnLQAff2uArOWpr0fRl9"
       },
@@ -880,7 +898,7 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 217186,
       "name": "Hoja en Blanco",
       "url": "https://open.spotify.com/track/4CcmnS70Yfcs5jm8J6OOWN"
@@ -902,6 +920,24 @@
       "duration_ms": 217186,
       "name": "Hoja en Blanco",
       "url": "https://open.spotify.com/track/4uOfm8oGMeY0oagM3IHZGI"
+    },
+    {
+      "album": {
+        "name": "Para Ellas",
+        "url": "https://open.spotify.com/album/66LlA9AN6tO3EdzncOu0a4"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 217186,
+      "name": "Hoja en Blanco",
+      "url": "https://open.spotify.com/track/7lzNri1p5NeHZvcnxEQa06"
     },
     {
       "album": {
@@ -1856,7 +1892,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 182866,
       "name": "No Te Supe Querer",
       "url": "https://open.spotify.com/track/17ugUn7zxwd2oAvghHWkOZ"
@@ -2382,10 +2418,28 @@
       ],
       "date_added": "2025-04-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 161960,
       "name": "Sue\u00f1o Realidad",
       "url": "https://open.spotify.com/track/4V8lravwS9cuoqueL1NBqG"
+    },
+    {
+      "album": {
+        "name": "Y Todav\u00eda Hay Amor",
+        "url": "https://open.spotify.com/album/0kmeOghrlnIQiypRaU2iJN"
+      },
+      "artists": [
+        {
+          "name": "Banda Rafaga",
+          "url": "https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 161960,
+      "name": "Sue\u00f1o Realidad",
+      "url": "https://open.spotify.com/track/5364gAbprFWMcFgPRr44zU"
     },
     {
       "album": {

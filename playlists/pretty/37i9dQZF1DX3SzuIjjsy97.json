@@ -1,6 +1,6 @@
 {
   "description": "The best hits from the biggest shows.",
-  "num_followers": 407032,
+  "num_followers": 407028,
   "original_name": "Hits From The Musicals",
   "owner": {
     "name": "Spotify",
@@ -1203,6 +1203,22 @@
     {
       "added_at": "2026-07-29 10:41:14",
       "album": {
+        "name": "Matilda the Musical (Original London Cast Recording)",
+        "url": "https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU"
+      },
+      "artists": [
+        {
+          "name": "Matilda the Musical Original Cast",
+          "url": "https://open.spotify.com/artist/7paFidVdtsmKlLtHiLZu41"
+        }
+      ],
+      "duration_ms": 152506,
+      "name": "Revolting Children",
+      "url": "https://open.spotify.com/track/5jb55O3h5dfOK4YMUbTb1Y"
+    },
+    {
+      "added_at": "2026-07-29 10:41:14",
+      "album": {
         "name": "Breaking Free",
         "url": "https://open.spotify.com/album/6q0I6xK4VkMPGELXVAxuMO"
       },
@@ -1223,22 +1239,6 @@
       "duration_ms": 209360,
       "name": "Breaking Free",
       "url": "https://open.spotify.com/track/4itkS9rw2pjr9PqnOOhxpb"
-    },
-    {
-      "added_at": "2026-07-29 10:41:14",
-      "album": {
-        "name": "Matilda the Musical (Original London Cast Recording)",
-        "url": "https://open.spotify.com/album/4TMFJM8OsgA2RwwYySNhmU"
-      },
-      "artists": [
-        {
-          "name": "Matilda the Musical Original Cast",
-          "url": "https://open.spotify.com/artist/7paFidVdtsmKlLtHiLZu41"
-        }
-      ],
-      "duration_ms": 152506,
-      "name": "Revolting Children",
-      "url": "https://open.spotify.com/track/5jb55O3h5dfOK4YMUbTb1Y"
     }
   ],
   "unique_name": "Hits From The Musicals",

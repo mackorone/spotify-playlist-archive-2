@@ -1,6 +1,6 @@
 {
   "description": "Classic Country from the Legends of the 1940's. Where Hillbilly, Texas Swing and Bluegrass came together. Cover: Ernest Tubb",
-  "num_followers": 149617,
+  "num_followers": 149616,
   "original_name": "40s Country",
   "owner": {
     "name": "Spotify",
@@ -495,22 +495,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Classic Western Swing",
-        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
-      },
-      "artists": [
-        {
-          "name": "Bob Wills & His Texas Playboys",
-          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
-        }
-      ],
-      "duration_ms": 140866,
-      "name": "Stay a Little Longer",
-      "url": "https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -523,6 +507,22 @@
       "duration_ms": 161120,
       "name": "Texarkana Baby",
       "url": "https://open.spotify.com/track/4OTNxudT8w2o3ZnO4EWJoc"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "Classic Western Swing",
+        "url": "https://open.spotify.com/album/0kA18wsVKRmpMdRcQj4gqX"
+      },
+      "artists": [
+        {
+          "name": "Bob Wills & His Texas Playboys",
+          "url": "https://open.spotify.com/artist/0VyOgubdcDnrJ0AWL2TRDN"
+        }
+      ],
+      "duration_ms": 140866,
+      "name": "Stay a Little Longer",
+      "url": "https://open.spotify.com/track/3T9kdYeXp2E242GvF1ZB9m"
     },
     {
       "added_at": "2026-02-11 22:46:25",
@@ -575,22 +575,6 @@
     {
       "added_at": "2026-02-11 22:46:25",
       "album": {
-        "name": "Guitar Legend: The RCA Years",
-        "url": "https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0"
-      },
-      "artists": [
-        {
-          "name": "Chet Atkins & His Colorado Mountain Boys",
-          "url": "https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1"
-        }
-      ],
-      "duration_ms": 152893,
-      "name": "Canned Heat - Buddha Remastered - 2000",
-      "url": "https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE"
-    },
-    {
-      "added_at": "2026-02-11 22:46:25",
-      "album": {
         "name": "Complete Original #1 Hits",
         "url": "https://open.spotify.com/album/75c9McNmncNJTLaLTbFEHU"
       },
@@ -619,6 +603,22 @@
       "duration_ms": 156373,
       "name": "New San Antonio Rose",
       "url": "https://open.spotify.com/track/0ENjQO4pgtxXRFEPS3GXUv"
+    },
+    {
+      "added_at": "2026-02-11 22:46:25",
+      "album": {
+        "name": "Guitar Legend: The RCA Years",
+        "url": "https://open.spotify.com/album/0ulLNifT0Lvwf8jCSHEIS0"
+      },
+      "artists": [
+        {
+          "name": "Chet Atkins & His Colorado Mountain Boys",
+          "url": "https://open.spotify.com/artist/3AraZqCe00xoEnx2JOBbq1"
+        }
+      ],
+      "duration_ms": 152893,
+      "name": "Canned Heat - Buddha Remastered - 2000",
+      "url": "https://open.spotify.com/track/0OzRwhv4HwIlMTabLvt0bE"
     },
     {
       "added_at": "2026-02-11 22:46:25",

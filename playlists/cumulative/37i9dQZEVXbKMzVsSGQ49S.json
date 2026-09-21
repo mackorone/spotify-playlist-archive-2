@@ -5861,6 +5861,24 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/4Ngse6ZeCqOvSSJnW9Cl2d"
+      },
+      "artists": [
+        {
+          "name": "Quarashi",
+          "url": "https://open.spotify.com/artist/23usj4WXxVWSxiffMuCkxM"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199180,
+      "name": "Baseline",
+      "url": "https://open.spotify.com/track/0dcdstW9jrYULldykCqfyh"
+    },
+    {
+      "album": {
         "name": "Bassi Maraj",
         "url": "https://open.spotify.com/album/2J9T2cIXGQKn7NgaUBdfuh"
       },
@@ -6924,7 +6942,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 293802,
       "name": "Billie Jean",
       "url": "https://open.spotify.com/track/7J1uxwnxfQLu4APicE5Rnj"
@@ -10590,7 +10608,7 @@
       ],
       "date_added": "2026-05-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
@@ -13632,7 +13650,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 217008,
       "name": "Die On This Hill",
       "url": "https://open.spotify.com/track/7gkZNvBHfI30qG7hA0eopT"
@@ -18510,7 +18528,7 @@
       ],
       "date_added": "2025-10-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 295600,
       "name": "Fade Into You",
       "url": "https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK"
@@ -30500,7 +30518,7 @@
       ],
       "date_added": "2025-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 289533,
       "name": "Iris",
       "url": "https://open.spotify.com/track/6Qyc6fS4DsZjB2mRW9DsQs"
@@ -33238,7 +33256,7 @@
       ],
       "date_added": "2025-04-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 156250,
       "name": "K\u00f3k\u00f3mj\u00f3lk",
       "url": "https://open.spotify.com/track/33RGJpw7j9BaLGNhLGaolR"
@@ -35728,7 +35746,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 223069,
       "name": "Loser",
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
@@ -38255,6 +38273,28 @@
     },
     {
       "album": {
+        "name": "Anthology",
+        "url": "https://open.spotify.com/album/4Ngse6ZeCqOvSSJnW9Cl2d"
+      },
+      "artists": [
+        {
+          "name": "Quarashi",
+          "url": "https://open.spotify.com/artist/23usj4WXxVWSxiffMuCkxM"
+        },
+        {
+          "name": "Opee",
+          "url": "https://open.spotify.com/artist/2cDX3y4WY7PdYwh8Imm0r5"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223840,
+      "name": "Mess it Up",
+      "url": "https://open.spotify.com/track/12TJbnea7pb2AzwkpQZSkm"
+    },
+    {
+      "album": {
         "name": "This Wasn't Meant For You Anyway",
         "url": "https://open.spotify.com/album/3uTpTaMOynCYKV5AtgeO2U"
       },
@@ -39898,6 +39938,24 @@
       "duration_ms": 155000,
       "name": "Mr. Eclectic",
       "url": "https://open.spotify.com/track/4cZnOey9w6yxegFIzE982M"
+    },
+    {
+      "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/1ueG5W67ybLgnKWtEvtNYe"
+      },
+      "artists": [
+        {
+          "name": "Quarashi",
+          "url": "https://open.spotify.com/artist/23usj4WXxVWSxiffMuCkxM"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 250496,
+      "name": "Mr. Jinx",
+      "url": "https://open.spotify.com/track/5IHlCRyoTYLBkCNeiCMvz7"
     },
     {
       "album": {
@@ -46832,7 +46890,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 156190,
       "name": "PUNGUR \u00c1 KL\u00daBBNUM",
       "url": "https://open.spotify.com/track/28WlDK7i8Z7TyTNbYM1gCU"
@@ -46868,7 +46926,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 219924,
       "name": "Pure",
       "url": "https://open.spotify.com/track/31IKMjvv6Oskp4hjGVeYsT"
@@ -54349,6 +54407,24 @@
     },
     {
       "album": {
+        "name": "Jinx",
+        "url": "https://open.spotify.com/album/1ueG5W67ybLgnKWtEvtNYe"
+      },
+      "artists": [
+        {
+          "name": "Quarashi",
+          "url": "https://open.spotify.com/artist/23usj4WXxVWSxiffMuCkxM"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205217,
+      "name": "Stick 'Em Up",
+      "url": "https://open.spotify.com/track/4NhimjCujmelb9pPUrHd2X"
+    },
+    {
+      "album": {
         "name": "Stick Season",
         "url": "https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz"
       },
@@ -54890,6 +54966,24 @@
       "duration_ms": 213363,
       "name": "Stumblin' In",
       "url": "https://open.spotify.com/track/0h3Xy4V4apMraB5NuM8U7Z"
+    },
+    {
+      "album": {
+        "name": "Guerilla Disco",
+        "url": "https://open.spotify.com/album/4VrjJmJf3cxeRtL2nKmA9d"
+      },
+      "artists": [
+        {
+          "name": "Quarashi",
+          "url": "https://open.spotify.com/artist/23usj4WXxVWSxiffMuCkxM"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206100,
+      "name": "Stun Gun",
+      "url": "https://open.spotify.com/track/26p4FSGXqf8ZXBkkJyujtV"
     },
     {
       "album": {

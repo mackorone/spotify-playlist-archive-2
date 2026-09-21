@@ -387,6 +387,24 @@
     },
     {
       "album": {
+        "name": "Bby Wow",
+        "url": "https://open.spotify.com/album/6OXQ6XF2mBdL7gyg9wHh94"
+      },
+      "artists": [
+        {
+          "name": "Facu Sanchez",
+          "url": "https://open.spotify.com/artist/06ZoIY0fIJCba5QICxblJG"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 135569,
+      "name": "Bby Wow",
+      "url": "https://open.spotify.com/track/3Spvhpwuve2sQVtNMwZKSU"
+    },
+    {
+      "album": {
         "name": "BbY WOW",
         "url": "https://open.spotify.com/album/1xUMnBY6y9Cr03ifTEeLLv"
       },
@@ -398,7 +416,7 @@
       ],
       "date_added": "2026-09-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 122000,
       "name": "BbY WOW",
       "url": "https://open.spotify.com/track/4LxvLjzwTX3gLSlWfDOq26"

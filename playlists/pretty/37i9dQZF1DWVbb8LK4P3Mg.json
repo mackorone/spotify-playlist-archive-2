@@ -1,6 +1,6 @@
 {
   "description": "Enjoy the wonderful holiday season with K-Pop! (Cover: DAY6(\ub370\uc774\uc2dd\uc2a4))",
-  "num_followers": 151637,
+  "num_followers": 151632,
   "original_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",
   "owner": {
     "name": "Spotify",
@@ -559,22 +559,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Wish to Wish",
-        "url": "https://open.spotify.com/album/6DmYT4XWlTpyQqKD7Z3rkx"
-      },
-      "artists": [
-        {
-          "name": "YOONA",
-          "url": "https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk"
-        }
-      ],
-      "duration_ms": 217000,
-      "name": "Wish to Wish",
-      "url": "https://open.spotify.com/track/6h49pP33Is5rIPyn70nKzt"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Ex-Mas",
         "url": "https://open.spotify.com/album/1SdCbiVhmFkKbkNXpaVWe5"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 216564,
       "name": "Ex-Mas",
       "url": "https://open.spotify.com/track/4OPHXmAsFf5BcMhUSITwm1"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Wish to Wish",
+        "url": "https://open.spotify.com/album/6DmYT4XWlTpyQqKD7Z3rkx"
+      },
+      "artists": [
+        {
+          "name": "YOONA",
+          "url": "https://open.spotify.com/artist/6LCX99hubn8CejiUtMCyyk"
+        }
+      ],
+      "duration_ms": 217000,
+      "name": "Wish to Wish",
+      "url": "https://open.spotify.com/track/6h49pP33Is5rIPyn70nKzt"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1011,22 +1011,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Love Again",
-        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
-      },
-      "artists": [
-        {
-          "name": "John Park",
-          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
-        }
-      ],
-      "duration_ms": 179653,
-      "name": "Love Again",
-      "url": "https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "White Christmas",
         "url": "https://open.spotify.com/album/7FOruuAoRntAE1TmGzukOQ"
       },
@@ -1039,6 +1023,22 @@
       "duration_ms": 193728,
       "name": "White Christmas",
       "url": "https://open.spotify.com/track/0y8c42IjxOGn8O87ZNxZMZ"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Love Again",
+        "url": "https://open.spotify.com/album/5xv97ixnkOlPfPKpIoyBSO"
+      },
+      "artists": [
+        {
+          "name": "John Park",
+          "url": "https://open.spotify.com/artist/4mbvd7ZJ2goftjy1L33LiB"
+        }
+      ],
+      "duration_ms": 179653,
+      "name": "Love Again",
+      "url": "https://open.spotify.com/track/04Du5TkwT3to8Tjp1cDrO1"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "KIIRASMAS",
-        "url": "https://open.spotify.com/album/59Bz9tbhqzqj5IgQP0x5kV"
-      },
-      "artists": [
-        {
-          "name": "KIIRAS",
-          "url": "https://open.spotify.com/artist/21reDxe0sRtmiUmBIfffaZ"
-        }
-      ],
-      "duration_ms": 213000,
-      "name": "KIIRASMAS",
-      "url": "https://open.spotify.com/track/4ZS0ihT9lEzL4MKjDip7N5"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Christmas Dance",
         "url": "https://open.spotify.com/album/4D7wSlC3TgPptQwEb9t5XP"
       },
@@ -1103,6 +1087,22 @@
       "duration_ms": 244173,
       "name": "Christmas Dance",
       "url": "https://open.spotify.com/track/5Fr2nTvU0OdhMUohTNXlA4"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "KIIRASMAS",
+        "url": "https://open.spotify.com/album/59Bz9tbhqzqj5IgQP0x5kV"
+      },
+      "artists": [
+        {
+          "name": "KIIRAS",
+          "url": "https://open.spotify.com/artist/21reDxe0sRtmiUmBIfffaZ"
+        }
+      ],
+      "duration_ms": 213000,
+      "name": "KIIRASMAS",
+      "url": "https://open.spotify.com/track/4ZS0ihT9lEzL4MKjDip7N5"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1543,22 +1543,6 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
-        "name": "Home Alone",
-        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
-      },
-      "artists": [
-        {
-          "name": "cylinder",
-          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
-        }
-      ],
-      "duration_ms": 190973,
-      "name": "Winter Theater",
-      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
         "name": "Mr. Santa",
         "url": "https://open.spotify.com/album/1ZJDN26GeLf0BznSW8VBe5"
       },
@@ -1571,6 +1555,22 @@
       "duration_ms": 199266,
       "name": "Mr. Santa",
       "url": "https://open.spotify.com/track/5sKVq8eZao43FmumueYClP"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
+        "name": "Home Alone",
+        "url": "https://open.spotify.com/album/0bMqLF8krN1CGAdm6L9GbA"
+      },
+      "artists": [
+        {
+          "name": "cylinder",
+          "url": "https://open.spotify.com/artist/4ydjJObKbtpABiTRVFh2mx"
+        }
+      ],
+      "duration_ms": 190973,
+      "name": "Winter Theater",
+      "url": "https://open.spotify.com/track/60nU1fMu2yelgc1TN83Eop"
     },
     {
       "added_at": "2026-01-20 05:01:24",
@@ -1791,6 +1791,22 @@
     {
       "added_at": "2026-01-20 05:01:24",
       "album": {
+        "name": "Heart of Christmas",
+        "url": "https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P"
+      },
+      "artists": [
+        {
+          "name": "SAAY",
+          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
+        }
+      ],
+      "duration_ms": 211000,
+      "name": "Heart of Christmas",
+      "url": "https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a"
+    },
+    {
+      "added_at": "2026-01-20 05:01:24",
+      "album": {
         "name": "\uc608\uc068 \uac00\ub4dd\ud55c Eve",
         "url": "https://open.spotify.com/album/1TPvE61epVsbkvDYACjXXo"
       },
@@ -1823,22 +1839,6 @@
       "duration_ms": 197480,
       "name": "Santa For You",
       "url": "https://open.spotify.com/track/5cobUAr9sTFH1zJ51r7D76"
-    },
-    {
-      "added_at": "2026-01-20 05:01:24",
-      "album": {
-        "name": "Heart of Christmas",
-        "url": "https://open.spotify.com/album/3sxmlVVLg13aeHgF7my55P"
-      },
-      "artists": [
-        {
-          "name": "SAAY",
-          "url": "https://open.spotify.com/artist/2pvCf5g7XBReiPIvcq7W18"
-        }
-      ],
-      "duration_ms": 211000,
-      "name": "Heart of Christmas",
-      "url": "https://open.spotify.com/track/3WTzne8ZV3nZmaf3gDsq6a"
     }
   ],
   "unique_name": "Christmas K-Pop (\ud06c\ub9ac\uc2a4\ub9c8\uc2a4 \ucf00\uc774\ud31d)",

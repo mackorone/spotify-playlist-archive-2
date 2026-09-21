@@ -4,7 +4,7 @@
 
 > This is EST Gee\. The essential tracks, all in one playlist.
 
-187 songs - 8 hr 16 min
+188 songs - 8 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -108,6 +108,7 @@
 | [Nathaniel Forest](https://open.spotify.com/track/0bTFIUkaBaAQhfnpSSfzTo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Ion Feel Nun](https://open.spotify.com/album/5pn7HHtN1bupnOMXtWs0LL) | 1:56 | 2026-03-08 | 2026-04-21 |
 | [NEVER MADE STATEMENTS](https://open.spotify.com/track/21UCPgtPVNKShxcDxg1uaK) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [BIGGER THAN THE DEVIL](https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE) | 2:21 | 2026-09-14 | 2026-09-15 |
 | [NEVER NEED \(feat\. Selfpaid Savage\)](https://open.spotify.com/track/5zXRj09yjA9iRz0VH5OQKw) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [Selfpaid Savage](https://open.spotify.com/artist/28GRwxrB26GDq4SmyHduqo) | [NEVER NEED \(feat\. Selfpaid Savage\)](https://open.spotify.com/album/0hzjM23HhN6oUdJiqsQo3b) | 2:52 | 2024-08-18 | 2025-01-27 |
+| [Niggas Win](https://open.spotify.com/track/0NOkPlPKrAvfg5b2hiX8Cw) | [Tsu Surf](https://open.spotify.com/artist/6tYVXU1sKSsk6SIdkfIWGu), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [REAL INSIDE COLD OUTSIDE](https://open.spotify.com/album/4GgpQcfbyYZvPaSoDlXQXV) | 2:56 | 2026-09-21 |  |
 | [No Fakin \(with EST Gee\)](https://open.spotify.com/track/7pneXkALm3yPh5juOMlsbC) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Part 3](https://open.spotify.com/album/2wboAwulksF118O1TkNeBc) | 2:35 | 2026-01-25 |  |
 | [NOT ME](https://open.spotify.com/track/5SZ4q71Sfy2GbrqMoglJr1) | [Mozzy](https://open.spotify.com/artist/4AA474G2hRfrHyGrfyDseO), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [NOT A CHANCE IN HELL](https://open.spotify.com/album/3bJvXyBbNAh6kT5MnQ6iCS) | 2:35 | 2026-02-23 | 2026-04-30 |
 | [Not Opps \(feat\. EST Gee\)](https://open.spotify.com/track/2C2LbwwnbtWuK396MKRERV) | [PGF Nuk](https://open.spotify.com/artist/0PUh7TSiwhSf0xL0b6SLXH), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Switch Music](https://open.spotify.com/album/3m5015yxQTaCo83w7AQwA7) | 2:54 | 2022-10-28 | 2022-12-03 |
@@ -171,7 +172,7 @@
 | [The Streets](https://open.spotify.com/track/0xPmveE21wGQuSdn37iUEo) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/3syLZZbG83gE5Jb8zUycBR) | 3:00 | 2024-11-29 | 2024-12-27 |
 | [The Streets](https://open.spotify.com/track/51d7KKWvsuw44mTsghBCMB) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [The Streets](https://open.spotify.com/album/58mHMtgKlzQRnpcW3u06Wn) | 3:00 | 2024-12-27 | 2025-02-05 |
 | [The Streets](https://open.spotify.com/track/6Y4tU3DeeWzGa0eXpkVhKp) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [I Aint Feeling You](https://open.spotify.com/album/2qBkwnQ9M3pwuQWJXDiaGa) | 3:00 | 2025-02-05 | 2025-02-07 |
-| [THUG CLUB](https://open.spotify.com/track/4r4gzZPBiISYG3go1kuS8v) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [THUG CLUB](https://open.spotify.com/album/0E5OJv9IwZ7bFdpsWmnZY2) | 2:16 | 2025-11-23 |  |
+| [THUG CLUB](https://open.spotify.com/track/4r4gzZPBiISYG3go1kuS8v) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [THUG CLUB](https://open.spotify.com/album/0E5OJv9IwZ7bFdpsWmnZY2) | 2:16 | 2025-11-23 | 2026-09-21 |
 | [Thump Shit](https://open.spotify.com/track/4XAQVDjEXZriZR9pe2tdQQ) | [42 Dugg](https://open.spotify.com/artist/45gHcnDnMC15sgx3VL7ROG), [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [Thump Shit](https://open.spotify.com/album/7vDFwwEDt6ftQ0P7izyxAk) | 3:46 | 2022-10-28 |  |
 | [TOAST](https://open.spotify.com/track/5PkN8WUr8NIivKX6uNo61r) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj) | [EL TORO 2](https://open.spotify.com/album/1hkONxY47acT0rAdOlwhjs) | 3:30 | 2023-08-25 | 2023-09-19 |
 | [TRANQUILIZER \(feat\. YFN Lucci & \. SKRT\)](https://open.spotify.com/track/45VmoozdduwbmYZ9ft9UEO) | [EST Gee](https://open.spotify.com/artist/4FlG0V0jhLO4qGpayFOphj), [YFN Lucci](https://open.spotify.com/artist/5Berubt6ysOy2LCMyqhmXP), [\. SKRT](https://open.spotify.com/artist/6rIKLls6jB4KrKvPMCUXUq) | [BIGGER THAN THE DEVIL](https://open.spotify.com/album/2vKNBGUmM8uHe9GfrlV4mE) | 2:23 | 2026-09-14 | 2026-09-16 |

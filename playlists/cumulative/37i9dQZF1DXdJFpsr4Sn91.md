@@ -4,7 +4,7 @@
 
 > Nousussa olevat hitit\. 🌪️
 
-1,280 songs - 2 day 16 hr 1 min
+1,281 songs - 2 day 16 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -479,7 +479,7 @@
 | [Kadut tietää](https://open.spotify.com/track/6g9WHMklrI0JxjtM9STpcU) | [KERZA](https://open.spotify.com/artist/5aF5rqONOxygQlthvJ5Wjr) | [Kadut tietää](https://open.spotify.com/album/5aCCTiK8VYwDnw27BnurKp) | 2:29 | 2025-09-18 | 2025-09-26 |
 | [Kahden kodin välissä](https://open.spotify.com/track/0WmEqqcDxWSuwAVCQXcNpw) | [Dilemma](https://open.spotify.com/artist/6d2cna6ab3mL140jbRNXqV) | [Kahden kodin välissä](https://open.spotify.com/album/4VlMThUaPVmk7gyuuUMWh6) | 3:06 | 2024-11-21 | 2024-12-06 |
 | [Kaiken arvoinen](https://open.spotify.com/track/04ItU6vyhnq8QHKIrYqDR1) | [Behm](https://open.spotify.com/artist/3bAa4FKwIgwWYHdaUJicmE) | [Kaiken arvoinen](https://open.spotify.com/album/6EElBgZ03JW114cldLHg5L) | 3:54 | 2025-04-10 | 2026-04-24 |
-| [Kaikki kääntyy](https://open.spotify.com/track/1CISnkyR74RqSFjayPsvBE) | [HYRYSYSY](https://open.spotify.com/artist/4iV4diBjgL2goSde1Vz00H), [Orvokki](https://open.spotify.com/artist/2hIwNfBlBynlhicFEDBk7e), [mc vatkain](https://open.spotify.com/artist/3S5Upi9G1QoUGz4T6qp0qP) | [Kaikki kääntyy](https://open.spotify.com/album/2VBHyZRJQwZP0rlaWSE5PB) | 3:10 | 2026-09-03 |  |
+| [Kaikki kääntyy](https://open.spotify.com/track/1CISnkyR74RqSFjayPsvBE) | [HYRYSYSY](https://open.spotify.com/artist/4iV4diBjgL2goSde1Vz00H), [Orvokki](https://open.spotify.com/artist/2hIwNfBlBynlhicFEDBk7e), [mc vatkain](https://open.spotify.com/artist/3S5Upi9G1QoUGz4T6qp0qP) | [Kaikki kääntyy](https://open.spotify.com/album/2VBHyZRJQwZP0rlaWSE5PB) | 3:10 | 2026-09-03 | 2026-09-21 |
 | [Kaikki mun kaverit](https://open.spotify.com/track/7bqrkNjtpGJslg62RISG56) | [Monako](https://open.spotify.com/artist/4VIgevXul8tn6ygEcbS4PY) | [Kaikki mun kaverit](https://open.spotify.com/album/6Y8z5Ep3WJo5hB6lYLZOUA) | 2:18 | 2024-07-02 | 2024-07-12 |
 | [Kaikki päättyy kyyneliin](https://open.spotify.com/track/2Mmbr6ghVhs16JmvzP6TDa) | [Haloo Helsinki!](https://open.spotify.com/artist/0JTMRuiDzOCjWuYtWMgv2s) | [Kaikki päättyy kyyneliin](https://open.spotify.com/album/3KoPQWKU2tvrkT52RMW500) | 4:35 | 2024-11-21 | 2025-01-10 |
 | [Kaikki päättyy meihin](https://open.spotify.com/track/65VzI0NJAl7icEP2kUikvQ) | [VIIVI](https://open.spotify.com/artist/3OrwN1mr1zEbdm0OqnPphh) | [Kaikki päättyy meihin](https://open.spotify.com/album/05WXs6ariojObbFucrzg69) | 2:52 | 2026-03-19 | 2026-09-04 |
@@ -834,6 +834,7 @@
 | [Pikajunat](https://open.spotify.com/track/2HXTtO4jFgDn72kSRL1cll) | [SANNI](https://open.spotify.com/artist/7meg3neLTT2WR1LDjL8jze) | [Pikajunat](https://open.spotify.com/album/4oTP2YGdTCO1UKzMTNfPnZ) | 3:09 | 2024-07-02 | 2024-09-20 |
 | [Pikkukaupungin Kuumin Kissa](https://open.spotify.com/track/10tacfDhlu9hUsqQFo2Hye) | [Pasi ja Anssi](https://open.spotify.com/artist/5Ptz1xkszwS7JBksmx8gMt) | [Pikkukaupungin Kuumin Kissa](https://open.spotify.com/album/7GdSS3aHG4MUqo7Hw0ITfm) | 3:32 | 2024-10-17 | 2024-11-08 |
 | [Pikkusisko](https://open.spotify.com/track/7bvo1ROEUrrwtYZnVJOyHz) | [Terri](https://open.spotify.com/artist/5lYrbWszwF34AWJYUKJ13v) | [Pikkusisko](https://open.spotify.com/album/4F7gPB4xLod9E90EVbHvSf) | 2:28 | 2026-09-10 | 2026-09-18 |
+| [Pilvenpiirtäjät](https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag) | [Ruletti](https://open.spotify.com/artist/4gwwt7saKvdjebQgIHRyaC), [Melissa](https://open.spotify.com/artist/2Ad6Z1GThSF2pyR0A4HKLn) | [Pilvenpiirtäjät](https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk) | 3:33 | 2026-09-17 |  |
 | [Pilvenreunalla](https://open.spotify.com/track/5itWbddHkpblXEXMgIMI5z) | [Kasmir](https://open.spotify.com/artist/2O6Va98fudK0E8rtu7Nm2Z) | [Pilvenreunalla](https://open.spotify.com/album/1gIho4udxCgJcnDVGuSMJv) | 3:31 | 2024-09-12 | 2024-10-04 |
 | [Pimeään](https://open.spotify.com/track/5muiXER1adsb94Qb2o3Z0f) | [SINI YASEMIN](https://open.spotify.com/artist/4DpQueNEIhOottP5j70XqR) | [Pimeään](https://open.spotify.com/album/7pwKzcqSfAkTxbAbIvJilI) | 3:26 | 2025-09-18 | 2025-11-21 |
 | [Piranha \(feat\. Averagekidluke\)](https://open.spotify.com/track/1A6RgcdbYVEbuvSzSdB1vV) | [Costi](https://open.spotify.com/artist/5BTRN678gL6XT4kv3TBopQ), [Averagekidluke](https://open.spotify.com/artist/6lFrRAoT64zvrLiL1edMhk) | [Klondike](https://open.spotify.com/album/7a4fLkQ68c5gT72gQOPlBl) | 2:31 | 2025-04-03 | 2025-05-30 |

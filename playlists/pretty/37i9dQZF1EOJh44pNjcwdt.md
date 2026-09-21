@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOJh44pNjcwdt.md) - [plain]
 
 > Dig deeper into some of your top artists of 2020 with a mix of talk and music.
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 19 songs - 6 hr 56 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,7 +25,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EOJh44pNjcwdt.md) - [plain]
 | 15 | [Chanel](https://open.spotify.com/track/6Nle9hKrkL1wQpwNfEkxjh) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [Chanel](https://open.spotify.com/album/6OGzmhzHcjf0uN9j7dYvZH) | 3:30 |
 | 16 | [S3E1 \- Frank Ocean: A Man of Art and Mystery](https://open.spotify.com/episode/13qF2rux7ahDDtfz1kfCkN) | [Dissect](https://open.spotify.com/show/2b025hq3gJ17tQdxS3aV43) | [Dissect](https://open.spotify.com/album/2b025hq3gJ17tQdxS3aV43) | 38:58 |
 | 17 | [Man On The Moon](https://open.spotify.com/track/78T9DulqSBWqkaxczcGBfk) | [Kid Cudi](https://open.spotify.com/artist/0fA0VVWsXO9YnASrzqfmYu) | [Man On The Moon: The End Of Day \(Deluxe\)](https://open.spotify.com/album/2S8AWAM0nxyFy66YnUfIs3) | 3:30 |
-| 18 | [EP 95 \- Freddie Gibbs \(Rapper/Business Man\) + Coming at Livingston aka Akademiks, Building A Luxury Brand, Kid Cudi's Upcoming Podcast & more](https://open.spotify.com/episode/4nzWFaurAf1DAQnKevBkB0) | [Cold As Ice with Ben Baller & JimmyBoi](https://open.spotify.com/show/6aNdkbamyMBZH0WbzhO0Kg) | [Cold As Ice with Ben Baller & JimmyBoi](https://open.spotify.com/album/6aNdkbamyMBZH0WbzhO0Kg) | 34:58 |
+| 18 | [EP 95 \- Freddie Gibbs \(Rapper/Business Man\) + Coming at Livingston aka Akademiks, Building A Luxury Brand, Kid Cudi's Upcoming Podcast & more](https://open.spotify.com/episode/4nzWFaurAf1DAQnKevBkB0) | [Cold As Ice with Ben Baller & JimmyBoi](https://open.spotify.com/show/6aNdkbamyMBZH0WbzhO0Kg) | [Cold As Ice with Ben Baller & JimmyBoi](https://open.spotify.com/album/6aNdkbamyMBZH0WbzhO0Kg) | 1:07:13 |
 | 19 | [WAKE UP](https://open.spotify.com/track/20MuVazoNMv6xjKPnRFOxG) | [Travis Scott](https://open.spotify.com/artist/0Y5tJX1MQlPlqiwlOH1tJY) | [ASTROWORLD](https://open.spotify.com/album/41GuZcammIkupMPKH2OJ6I) | 3:51 |
 
 Snapshot ID: `AZiNdQAAAABbyXi/haX9i94lGiqflVrN`

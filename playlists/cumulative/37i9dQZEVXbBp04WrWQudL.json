@@ -140,7 +140,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 895050,
       "name": "All Too Well: The Short Film",
       "url": "https://open.spotify.com/track/6dZaVpt2kaAwXaPTo7goG7"
@@ -260,7 +260,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 202346,
       "name": "back to friends",
       "url": "https://open.spotify.com/track/3gCEBalMhCFY4zWOLhzSWt"
@@ -300,7 +300,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 225650,
       "name": "bad taste",
       "url": "https://open.spotify.com/track/2iZcfgpMv4F4TWi274xFCw"
@@ -336,7 +336,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 298602,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/0ObFg0ZQ3QgZ1AbJKtZZy9"
@@ -502,7 +502,7 @@
       ],
       "date_added": "2026-09-06",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 161702,
       "name": "Cadeira Cativa - Ao Vivo",
       "url": "https://open.spotify.com/track/1RWNER261dOJN0u2sp7nVF"
@@ -622,6 +622,28 @@
       "duration_ms": 306022,
       "name": "Cold Heart - Live From Dodger Stadium, USA / 2022",
       "url": "https://open.spotify.com/track/3C1MTklpqwf3kXjo7Ba7cU"
+    },
+    {
+      "album": {
+        "name": "Corpo Nu (Ao Vivo)",
+        "url": "https://open.spotify.com/album/5CtcWymLux2A0CmDhwH4vo"
+      },
+      "artists": [
+        {
+          "name": "Panda",
+          "url": "https://open.spotify.com/artist/5qIpstBGrGteJZg1xIvbiz"
+        },
+        {
+          "name": "MJ Records",
+          "url": "https://open.spotify.com/artist/0oAZhL6hFrM3YRr6QzjlOf"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 205930,
+      "name": "Corpo Nu - Ao Vivo",
+      "url": "https://open.spotify.com/track/0LqySb9wEDMX4Oa0Z5X54w"
     },
     {
       "album": {
@@ -747,6 +769,24 @@
     },
     {
       "album": {
+        "name": "Die On This Hill (Live) | Presented by Spotify",
+        "url": "https://open.spotify.com/album/38ytqfNJ9QkcP3ZSPzaCTJ"
+      },
+      "artists": [
+        {
+          "name": "SIENNA SPIRO",
+          "url": "https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233675,
+      "name": "Die On This Hill (Live) | Presented by Spotify",
+      "url": "https://open.spotify.com/track/4kHwhIGe7Olzqu1ejo0xHg"
+    },
+    {
+      "album": {
         "name": "Die With A Smile",
         "url": "https://open.spotify.com/album/27THCDYBxFzA9R1Ku7TfIJ"
       },
@@ -823,6 +863,42 @@
     },
     {
       "album": {
+        "name": "E A\u00ed Tempo",
+        "url": "https://open.spotify.com/album/5vzBT6qXDMxqnrywSdwIpe"
+      },
+      "artists": [
+        {
+          "name": "Chit\u00e3ozinho & Xoror\u00f3",
+          "url": "https://open.spotify.com/artist/7gfkYbxpguEc9bm6m8TpAr"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199324,
+      "name": "E A\u00ed Tempo",
+      "url": "https://open.spotify.com/track/5iVvBRhx0gHgAVRk2eAQaK"
+    },
+    {
+      "album": {
+        "name": "El Hombre Que Yo Amo | Noches de Latinaje",
+        "url": "https://open.spotify.com/album/6e82QSaCnzksZdjn2PxC6W"
+      },
+      "artists": [
+        {
+          "name": "Cazzu",
+          "url": "https://open.spotify.com/artist/6w3SkAHYPsQ1bxV7VDlG5y"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220485,
+      "name": "El Hombre Que Yo Amo | Noches de Latinaje",
+      "url": "https://open.spotify.com/track/6cBR9nuVWBMVqRsZOpmu5R"
+    },
+    {
+      "album": {
         "name": "El Sombrero y La Camisa",
         "url": "https://open.spotify.com/album/3lCInN94foFb4exRsXNKop"
       },
@@ -878,7 +954,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 157205,
       "name": "Eu Te Seguro - Ao Vivo",
       "url": "https://open.spotify.com/track/5yRYvaNlNqACRtwbh2ISit"
@@ -972,7 +1048,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 293376,
       "name": "Gabriela",
       "url": "https://open.spotify.com/track/5x2kR0EpPMXF2C8EnPR7kU"
@@ -1034,7 +1110,7 @@
       ],
       "date_added": "2026-09-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 215416,
       "name": "God Is A Weapon",
       "url": "https://open.spotify.com/track/5v6Vg2AmwuqagPgWdl6TRb"
@@ -1088,7 +1164,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 173802,
       "name": "Heavy Is the Crown - Unshatter Film Soundtrack - Live in S\u00e3o Paulo",
       "url": "https://open.spotify.com/track/6mFuP7fdCLuKhWvDBiHYaz"
@@ -1278,7 +1354,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 215616,
       "name": "Iris",
       "url": "https://open.spotify.com/track/3ODLb2WTwadkfL3vPWy55q"
@@ -1518,7 +1594,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 201514,
       "name": "Lush Life",
       "url": "https://open.spotify.com/track/5VcRLtOGzG3YVFhntoJ57E"
@@ -1620,7 +1696,7 @@
       ],
       "date_added": "2026-09-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 201850,
       "name": "Man I Need",
       "url": "https://open.spotify.com/track/5KM54A1t75yWCZdA9iEb1U"
@@ -1956,7 +2032,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 277368,
       "name": "Orbiter",
       "url": "https://open.spotify.com/track/1BMvI5DMWsAaGtrfNEFQBX"
@@ -1996,7 +2072,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 161408,
       "name": "Pa' Bailar",
       "url": "https://open.spotify.com/track/6TdsrHJVLFBApxontMWJeB"
@@ -2036,7 +2112,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 244210,
       "name": "Party",
       "url": "https://open.spotify.com/track/4zXJTqvQof9avJjyLFSRKU"
@@ -2090,7 +2166,7 @@
       ],
       "date_added": "2026-09-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-15",
+      "date_removed": null,
       "duration_ms": 149418,
       "name": "Postinho de Gasolina",
       "url": "https://open.spotify.com/track/6UZq14fcGEzuMvnryb02He"
@@ -2281,6 +2357,24 @@
     },
     {
       "album": {
+        "name": "Small Town",
+        "url": "https://open.spotify.com/album/6mrbA3NgqD7EFE72Msjjyp"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186794,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/2JeHeYLij5us2NILMwuq7F"
+    },
+    {
+      "album": {
         "name": "Smooth Criminal",
         "url": "https://open.spotify.com/album/6HllSbh2yFTzs0xmQpq6RF"
       },
@@ -2310,7 +2404,7 @@
       ],
       "date_added": "2026-09-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 196928,
       "name": "So Easy (To Fall In Love)",
       "url": "https://open.spotify.com/track/3YjIBOS1cdMpr5vyKMIxUJ"
@@ -2350,7 +2444,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 226943,
       "name": "Still",
       "url": "https://open.spotify.com/track/0CGGe0SkjsOAUYGuq3Dj7Y"
@@ -2368,7 +2462,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 216925,
       "name": "stupid song",
       "url": "https://open.spotify.com/track/4g9I4CSbPn5XREMrr0TNyF"
@@ -2552,7 +2646,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 138521,
       "name": "Touch",
       "url": "https://open.spotify.com/track/15dlnZCOoJgNh6C2kIe3z4"
@@ -2588,7 +2682,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 210005,
       "name": "TUTTO",
       "url": "https://open.spotify.com/track/6rp4BsvgppD3z2EHGMcFqo"

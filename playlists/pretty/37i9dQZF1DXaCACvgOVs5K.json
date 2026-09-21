@@ -1,6 +1,6 @@
 {
   "description": "Get ready for Ibiza season 2026. See you on the dancefloor.",
-  "num_followers": 912657,
+  "num_followers": 912773,
   "original_name": "Ibiza 2026",
   "owner": {
     "name": "Spotify",
@@ -715,6 +715,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "Ain't With That (Late Night Callin')",
+        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
+      },
+      "artists": [
+        {
+          "name": "Julian Fijma",
+          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+        }
+      ],
+      "duration_ms": 207272,
+      "name": "Ain't With That (Late Night Callin')",
+      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "HOTS 4 U",
         "url": "https://open.spotify.com/album/3zib9bQNuFbaBs1hsOAfY9"
       },
@@ -735,18 +751,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Ain't With That (Late Night Callin')",
-        "url": "https://open.spotify.com/album/1ADJNvsMekByZTH7ZcP0uh"
+        "name": "Feel This Grip (feat. Baby Tate)",
+        "url": "https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ"
       },
       "artists": [
         {
-          "name": "Julian Fijma",
-          "url": "https://open.spotify.com/artist/3KEvY1XBn7ZqQcHhUoGeqy"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
+        },
+        {
+          "name": "Baby Tate",
+          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
         }
       ],
-      "duration_ms": 207272,
-      "name": "Ain't With That (Late Night Callin')",
-      "url": "https://open.spotify.com/track/6P7sJUzkFeLq9VOqJQSBFH"
+      "duration_ms": 193846,
+      "name": "Feel This Grip (feat. Baby Tate)",
+      "url": "https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -783,26 +803,6 @@
       "duration_ms": 180000,
       "name": "Unique Moment",
       "url": "https://open.spotify.com/track/2fJFjRgFpfdkbSoyRKUuf7"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Feel This Grip (feat. Baby Tate)",
-        "url": "https://open.spotify.com/album/6btYsWCF3TsiS5lWSDGMVJ"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        },
-        {
-          "name": "Baby Tate",
-          "url": "https://open.spotify.com/artist/3IJ21966TwNZI24MwZHMu4"
-        }
-      ],
-      "duration_ms": 193846,
-      "name": "Feel This Grip (feat. Baby Tate)",
-      "url": "https://open.spotify.com/track/5zdjPqrvUVkF242fY5ZE7Q"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1079,6 +1079,26 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "She Can Love U",
+        "url": "https://open.spotify.com/album/30EuKKA5oKVRhbOpdCkxw2"
+      },
+      "artists": [
+        {
+          "name": "Rafael",
+          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
+        },
+        {
+          "name": "Toni B",
+          "url": "https://open.spotify.com/artist/3qWTx02uCfYKSvb2JToFZt"
+        }
+      ],
+      "duration_ms": 221280,
+      "name": "She Can Love U",
+      "url": "https://open.spotify.com/track/0lJhaNv0sqOCqIs5HFbkbu"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Love\u2019s Theme",
         "url": "https://open.spotify.com/album/54dHG76eeEkiTcHZxqXqch"
       },
@@ -1115,26 +1135,6 @@
       "duration_ms": 223384,
       "name": "Gets Like That - Jamie Jones Remix",
       "url": "https://open.spotify.com/track/0axzZ7BBLs8n6XXkheqX3W"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "She Can Love U",
-        "url": "https://open.spotify.com/album/30EuKKA5oKVRhbOpdCkxw2"
-      },
-      "artists": [
-        {
-          "name": "Rafael",
-          "url": "https://open.spotify.com/artist/3DHC2ZUVADRKLSmqPcqvc6"
-        },
-        {
-          "name": "Toni B",
-          "url": "https://open.spotify.com/artist/3qWTx02uCfYKSvb2JToFZt"
-        }
-      ],
-      "duration_ms": 221280,
-      "name": "She Can Love U",
-      "url": "https://open.spotify.com/track/0lJhaNv0sqOCqIs5HFbkbu"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1227,6 +1227,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "Misery",
+        "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
+      },
+      "artists": [
+        {
+          "name": "Rossi.",
+          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+        }
+      ],
+      "duration_ms": 195572,
+      "name": "Misery",
+      "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Lemme Dance",
         "url": "https://open.spotify.com/album/2IvjKUmTfaFsM0RU1bCxPF"
       },
@@ -1267,18 +1283,18 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Misery",
-        "url": "https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM"
+        "name": "Lets Get High",
+        "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
       },
       "artists": [
         {
-          "name": "Rossi.",
-          "url": "https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf"
+          "name": "Michael Bibi",
+          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
         }
       ],
-      "duration_ms": 195572,
-      "name": "Misery",
-      "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
+      "duration_ms": 203114,
+      "name": "Lets Get High",
+      "url": "https://open.spotify.com/track/2QhWUUeC1C53aycexa4M1u"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1299,22 +1315,6 @@
       "duration_ms": 187087,
       "name": "Patchwork",
       "url": "https://open.spotify.com/track/3BxWLwl3xcFAN0Hk5X13JD"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Lets Get High",
-        "url": "https://open.spotify.com/album/6qQZNrcx4UiexydAqe1jXV"
-      },
-      "artists": [
-        {
-          "name": "Michael Bibi",
-          "url": "https://open.spotify.com/artist/4cvdQRyHmkSQSakUrW2oxv"
-        }
-      ],
-      "duration_ms": 203114,
-      "name": "Lets Get High",
-      "url": "https://open.spotify.com/track/2QhWUUeC1C53aycexa4M1u"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1415,6 +1415,26 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "We Are",
+        "url": "https://open.spotify.com/album/5sKUassx36dd58XdIp7GEP"
+      },
+      "artists": [
+        {
+          "name": "Adam Ten",
+          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
+        },
+        {
+          "name": "Dodi",
+          "url": "https://open.spotify.com/artist/4EnqNMAlxI4dewzlGdBCTE"
+        }
+      ],
+      "duration_ms": 213809,
+      "name": "We Are",
+      "url": "https://open.spotify.com/track/1VRtFiC2jmfXzhbjA1PDZW"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Sun Goes Down",
         "url": "https://open.spotify.com/album/7ieJv1Atprqvc1UQb58j6l"
       },
@@ -1435,26 +1455,6 @@
       "duration_ms": 189374,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/1MGf9t1hGyC99eSLbHXFtY"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "We Are",
-        "url": "https://open.spotify.com/album/5sKUassx36dd58XdIp7GEP"
-      },
-      "artists": [
-        {
-          "name": "Adam Ten",
-          "url": "https://open.spotify.com/artist/05tmGPn4fFdVpnsMt0YW5S"
-        },
-        {
-          "name": "Dodi",
-          "url": "https://open.spotify.com/artist/4EnqNMAlxI4dewzlGdBCTE"
-        }
-      ],
-      "duration_ms": 213809,
-      "name": "We Are",
-      "url": "https://open.spotify.com/track/1VRtFiC2jmfXzhbjA1PDZW"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1571,22 +1571,6 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Wow",
-        "url": "https://open.spotify.com/album/2ngwtq1gQQSfkWe7z4QKad"
-      },
-      "artists": [
-        {
-          "name": "Hot Since 82",
-          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
-        }
-      ],
-      "duration_ms": 172258,
-      "name": "Wow - Edit",
-      "url": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
         "name": "Sing It Back",
         "url": "https://open.spotify.com/album/3n5saDIM60fJfhIeZmWZqx"
       },
@@ -1603,18 +1587,18 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "In Da Jungle",
-        "url": "https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz"
+        "name": "Wow",
+        "url": "https://open.spotify.com/album/2ngwtq1gQQSfkWe7z4QKad"
       },
       "artists": [
         {
-          "name": "BLOND:ISH",
-          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+          "name": "Hot Since 82",
+          "url": "https://open.spotify.com/artist/1tRBmMtER4fGrzrt8O9VpS"
         }
       ],
-      "duration_ms": 164275,
-      "name": "In Da Jungle",
-      "url": "https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY"
+      "duration_ms": 172258,
+      "name": "Wow - Edit",
+      "url": "https://open.spotify.com/track/0Fs4F8Biqm6x8SRiMd7Og4"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1631,6 +1615,22 @@
       "duration_ms": 160029,
       "name": "Girl On The Beat",
       "url": "https://open.spotify.com/track/30Cr5u6vEcZiNe8dU6WsxF"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
+        "name": "In Da Jungle",
+        "url": "https://open.spotify.com/album/6dplcmwBqhMrO1dKJw1qyz"
+      },
+      "artists": [
+        {
+          "name": "BLOND:ISH",
+          "url": "https://open.spotify.com/artist/6zsJjoCtL1WByG0VsuFWzR"
+        }
+      ],
+      "duration_ms": 164275,
+      "name": "In Da Jungle",
+      "url": "https://open.spotify.com/track/1Dya7Lh8cLYg6t1q100xpY"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1667,6 +1667,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "And When Love Speaks",
+        "url": "https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb"
+      },
+      "artists": [
+        {
+          "name": "Soul Wun",
+          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+        }
+      ],
+      "duration_ms": 212177,
+      "name": "And When Love Speaks",
+      "url": "https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "Even Angels Ghost",
         "url": "https://open.spotify.com/album/6ptOCnDXGsj3cw1D87e5MS"
       },
@@ -1687,18 +1703,18 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "And When Love Speaks",
-        "url": "https://open.spotify.com/album/1LKSNPCS33NRVUZEPtnqOb"
+        "name": "Insane",
+        "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
       },
       "artists": [
         {
-          "name": "Soul Wun",
-          "url": "https://open.spotify.com/artist/1p8OhmCL3zTXnRRG9z97Fp"
+          "name": "Shermanology",
+          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
         }
       ],
-      "duration_ms": 212177,
-      "name": "And When Love Speaks",
-      "url": "https://open.spotify.com/track/20AN9eYlcCAT8EemxP48H2"
+      "duration_ms": 224911,
+      "name": "Insane",
+      "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1715,22 +1731,6 @@
       "duration_ms": 245571,
       "name": "Bad Bara",
       "url": "https://open.spotify.com/track/4NVV7bdI8LYB2PG2uqrxu6"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "Insane",
-        "url": "https://open.spotify.com/album/1nLo5LHl02hV58v4PZhyQp"
-      },
-      "artists": [
-        {
-          "name": "Shermanology",
-          "url": "https://open.spotify.com/artist/4Siyzg8kWayQfPQsPSl6JI"
-        }
-      ],
-      "duration_ms": 224911,
-      "name": "Insane",
-      "url": "https://open.spotify.com/track/07ke5nx6iwoBo2ERqCK1Xl"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1771,6 +1771,22 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
+        "name": "The Montana Girl",
+        "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
+      },
+      "artists": [
+        {
+          "name": "Kyle Walker",
+          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
+        }
+      ],
+      "duration_ms": 221538,
+      "name": "The Montana Girl",
+      "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
+    },
+    {
+      "added_at": "2026-09-14 18:38:46",
+      "album": {
         "name": "So High",
         "url": "https://open.spotify.com/album/2dEVOImH3Yr77PpLmf0tcW"
       },
@@ -1791,22 +1807,6 @@
       "duration_ms": 186720,
       "name": "So High",
       "url": "https://open.spotify.com/track/0S88gKHROhGvwPY9gtbCN2"
-    },
-    {
-      "added_at": "2026-09-14 18:38:46",
-      "album": {
-        "name": "The Montana Girl",
-        "url": "https://open.spotify.com/album/5rgDnaJlLiiGIcjja0eoE8"
-      },
-      "artists": [
-        {
-          "name": "Kyle Walker",
-          "url": "https://open.spotify.com/artist/4kB1srfgZ4eok7CmDqyOJP"
-        }
-      ],
-      "duration_ms": 221538,
-      "name": "The Montana Girl",
-      "url": "https://open.spotify.com/track/1ivmytPrFuESg6gevnKCnU"
     },
     {
       "added_at": "2026-09-14 18:38:46",
@@ -1935,18 +1935,30 @@
     {
       "added_at": "2026-09-14 18:38:46",
       "album": {
-        "name": "Superstitious",
-        "url": "https://open.spotify.com/album/4OFWmT2MVOf56J4u4WMe1b"
+        "name": "Fold",
+        "url": "https://open.spotify.com/album/3c3SAUJ4LrCHGvAOySzfW1"
       },
       "artists": [
         {
-          "name": "Ronnie Spiteri",
-          "url": "https://open.spotify.com/artist/7tH1Y2LeCe2LUxvru8y7Df"
+          "name": "Jump Source",
+          "url": "https://open.spotify.com/artist/6fUBDklw2cffzrVU4phRKc"
+        },
+        {
+          "name": "Patrick Holland",
+          "url": "https://open.spotify.com/artist/0dns940bo2pILe1Flk0WH3"
+        },
+        {
+          "name": "Priori",
+          "url": "https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1"
+        },
+        {
+          "name": "BEA1991",
+          "url": "https://open.spotify.com/artist/6F93aFbWjhUtjRKXYmtr1Z"
         }
       ],
-      "duration_ms": 192383,
-      "name": "Superstitious",
-      "url": "https://open.spotify.com/track/7iwxJiYZb6KCcE4dq4bGI2"
+      "duration_ms": 357466,
+      "name": "Endlessly (feat. BEA1991)",
+      "url": "https://open.spotify.com/track/7ugmWtCmv1AlUFhtb69m3v"
     }
   ],
   "unique_name": "Ibiza 2026",

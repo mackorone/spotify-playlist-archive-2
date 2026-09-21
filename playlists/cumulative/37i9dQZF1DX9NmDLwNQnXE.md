@@ -4,7 +4,7 @@
 
 > Relax to the sound of a storm setting in.
 
-469 songs - 21 hr 6 min
+470 songs - 21 hr 9 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -83,6 +83,7 @@
 | [Dripping Rain](https://open.spotify.com/track/0Of6J0VrkGeNm8YRpTYby9) | [Golden Drops](https://open.spotify.com/artist/75zbTyxmkNUkQuygPB6fUQ) | [Dripping Rain](https://open.spotify.com/album/2B2IvBr9t2Qy0w5fjall3b) | 2:39 | 2021-11-10 |  |
 | [Dripping Thunder](https://open.spotify.com/track/20ztc7ZeHo8GqxxlMuZ2YW) | [Samplestar](https://open.spotify.com/artist/0eG97LRAmRBrC7qbEhx2Qs) | [Go With the Flow](https://open.spotify.com/album/2H6hIc7f3jv2IcwdRyqmj3) | 2:34 | 2023-02-13 |  |
 | [Drizzling Down](https://open.spotify.com/track/4scLidW4WSD9JbaRc9CspV) | [The Rain Crew](https://open.spotify.com/artist/0YtEZ0PyTeyY3bit3tlhPG) | [Magic Sky](https://open.spotify.com/album/3NL617iuOV8yw2boaIDbLN) | 2:17 | 2021-11-10 |  |
+| [Drizzling Thunder](https://open.spotify.com/track/1a6Ivy6j7XcMxMxzVFEzZT) | [The Sound Of Thunder](https://open.spotify.com/artist/1px8jMPOnlvPZPT1yYpKbX) | [Drizzling Thunder](https://open.spotify.com/album/6lmtUQzGxtR0jkVfO55dKK) | 3:09 | 2026-04-01 |  |
 | [Drop from the cloud](https://open.spotify.com/track/7ANIqzLUgOlYvDjsMFi5Qu) | [Skyyy](https://open.spotify.com/artist/1d1rh6BlGzeXaj67hVeDXe) | [Droplet](https://open.spotify.com/album/34d9oMxfXLOAcvo3PH5PxW) | 3:32 | 2021-11-10 | 2023-02-14 |
 | [Drops And Thunder](https://open.spotify.com/track/00ChJJWChWCHfHDOnsnWvv) | [Amida Nature Sounds](https://open.spotify.com/artist/6ouSV6Bg58MfXLmO7daZiK) | [Drops And Thunder](https://open.spotify.com/album/76jXwUgn06OiCEwod0lZvd) | 2:02 | 2021-11-10 |  |
 | [Dublin Thunder](https://open.spotify.com/track/025BmVuqtXMCRUeOcJNE5c) | [Beautiful Plan](https://open.spotify.com/artist/4buWqHXcMl0BIfyK9COt4G) | [I Sleep to the Sound of Thunder](https://open.spotify.com/album/5vyfwkmvayrb7GNDP86Up9) | 3:24 | 2021-11-10 |  |
@@ -168,7 +169,7 @@
 | [Light Crispy Rain](https://open.spotify.com/track/1F4kF3E6bFPJAuXjzWk9rl) | [Concrete Showers](https://open.spotify.com/artist/5YQhqhDsViXtCSsVxVYuuM) | [As Good As It Gets](https://open.spotify.com/album/2kKu6IrZjzphXAB19qUoOr) | 2:10 | 2021-11-10 |  |
 | [Light Rain \- Distant Thunder](https://open.spotify.com/track/3Cs5FEzThXXBVwavjW2DaX) | [Weather Pass](https://open.spotify.com/artist/2H3oeCocy2EKakpX7Es1T5) | [Storms](https://open.spotify.com/album/359lCAN0rNlyvJ39Chab0Y) | 2:58 | 2021-11-10 | 2023-02-14 |
 | [Light Rain and Thunder](https://open.spotify.com/track/3rsXIGQjD96knIRVdayTBe) | [Mindful Measures](https://open.spotify.com/artist/4DYgl2qzOphoG3p9gZNluF) | [Resting \(Rain and Rivers\)](https://open.spotify.com/album/0cFuXOpJc5jFYnKJVIHfbW) | 3:08 | 2021-11-10 |  |
-| [Light Rain Passing Thunder](https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain Passing Thunder](https://open.spotify.com/album/4U6EdYlsg5cP85xBk7uBdM) | 3:13 | 2023-02-13 |  |
+| [Light Rain Passing Thunder](https://open.spotify.com/track/5HRrUoj7oj7foIL10JVMu7) | [Scandinavian Rain](https://open.spotify.com/artist/1GRz0YQpzcADR8ZTDo5bkd) | [Light Rain Passing Thunder](https://open.spotify.com/album/4U6EdYlsg5cP85xBk7uBdM) | 3:13 | 2023-02-13 | 2026-09-21 |
 | [Light Rain, Distant Thunder](https://open.spotify.com/track/2Y6IUM9tZQC1S4mdCcLd1u) | [Cloudside](https://open.spotify.com/artist/4GE1zB3rkqszl1JOenyAOj) | [Light Rain, Distant Thunder](https://open.spotify.com/album/4esVhcHC79nvFH0EuJByrw) | 2:10 | 2026-04-01 |  |
 | [Light Thunder](https://open.spotify.com/track/4FhNfshbuUPgY5ckqdgvYG) | [Euaxation](https://open.spotify.com/artist/1DthR3wwpDfHLnqfFqiAJK) | [Latent Heat](https://open.spotify.com/album/6DoMdu0QC5znGu4jG2BvVp) | 2:39 | 2021-11-10 |  |
 | [Light Up The Sky](https://open.spotify.com/track/7bnY0z3DPNHk3gfhLvAuvx) | [BLITZ](https://open.spotify.com/artist/0Mh5A7teUHad8RrOy9TvkH) | [Lightning In the Sky](https://open.spotify.com/album/76XtY4E8aszFjzA6jRySU5) | 3:28 | 2021-11-10 | 2024-03-09 |

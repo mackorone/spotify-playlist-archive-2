@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 
 > Rock with a drop\. Cover: HVDES \\m/
 
-[Spotify](https://open.spotify.com/user/spotify) - 357,769 likes - 125 songs - 6 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 357,820 likes - 125 songs - 6 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTfrr8pte1rT.md) - [plain]
 | 78 | [The Death of Peace of Mind](https://open.spotify.com/track/0RdjR5hi21VHLkbWCcs5Lb) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [The Death of Peace of Mind](https://open.spotify.com/album/270jnkgTvKVheWZo2tuwq9) | 4:01 |
 | 79 | [Industrial Strain](https://open.spotify.com/track/3H1Er6tmf4akNcWW0iIRaj) | [Koven](https://open.spotify.com/artist/3UCbp6D1lvILlxRJT9LnFa) | [Higher Ground \(Part 1\)](https://open.spotify.com/album/0ZYsPQxRA80y5bEwlLQWmz) | 3:46 |
 | 80 | [Unbound](https://open.spotify.com/track/5pUO56AVaHEO685BLIBsVt) | [Excision](https://open.spotify.com/artist/5FKchcZpQOkqFvXBj1aCvb), [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [Unbound](https://open.spotify.com/album/1kyiRmLqB55GTGA0fPqlyi) | 3:47 |
-| 81 | [Badland Bandits](https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Badland Bandits](https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh) | 4:21 |
-| 82 | [Hole](https://open.spotify.com/track/0AEIeS5gS15ET3iy8jW6QY) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Rou Reynolds](https://open.spotify.com/artist/39sN02pcMOMbe3kVNajete), [Filthy Pig](https://open.spotify.com/artist/1MWTVItNj9UyL7AouAUONF), [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Hole](https://open.spotify.com/album/04qteXG2NESXxT2sykzNz8) | 3:32 |
+| 81 | [Hole](https://open.spotify.com/track/0AEIeS5gS15ET3iy8jW6QY) | [Metrik](https://open.spotify.com/artist/2NCEtX40i9lLNpTg2X5583), [Rou Reynolds](https://open.spotify.com/artist/39sN02pcMOMbe3kVNajete), [Filthy Pig](https://open.spotify.com/artist/1MWTVItNj9UyL7AouAUONF), [Enter Shikari](https://open.spotify.com/artist/31jvzuB4ikftPQZJwrYfCF) | [Hole](https://open.spotify.com/album/04qteXG2NESXxT2sykzNz8) | 3:32 |
+| 82 | [Badland Bandits](https://open.spotify.com/track/4yAYXJ4Xq47szb3p6q4wdl) | [Gramatik](https://open.spotify.com/artist/179BpmLkQCRIoU68Co80f5), [Stehreo](https://open.spotify.com/artist/6qhjbzRuF6DGatHeFiDAS9) | [Badland Bandits](https://open.spotify.com/album/5M32ufmTZqvJ3O056Yu8Fh) | 4:21 |
 | 83 | [HEADLOCK](https://open.spotify.com/track/6lnuGOIpbDljQaP9YxADOG) | [Sullivan King](https://open.spotify.com/artist/1CXuuw8HJhyN80HlNzvL1e) | [HEADLOCK](https://open.spotify.com/album/2BbKEEnpv0xKn7tGkQYD5u) | 3:20 |
 | 84 | [You Call Me Reckless](https://open.spotify.com/track/0GRhBpD36Iu7ur3fUUJgzN) | [F.O.O.L](https://open.spotify.com/artist/1ldNdtZX38LAsOk0ciLvb2), [Essenger](https://open.spotify.com/artist/3vc0JWD1Nj1VLrgJ1x3cjE), [Life Awaits](https://open.spotify.com/artist/61FJIdjxf5xm2SExhEBRzm), [VALORANT](https://open.spotify.com/artist/3wrFoI9EVjWg6m8xXeWr5t) | [You Call Me Reckless](https://open.spotify.com/album/77GBZv45BvxMeDEPaJgGX0) | 3:15 |
 | 85 | [Heaven](https://open.spotify.com/track/4FHSM9uehI2DtSWtzYORNV) | [Blanke](https://open.spotify.com/artist/59Yq0xrABEihHANsfo9QMT), [Rival](https://open.spotify.com/artist/4u1nYxjl132D6rcMeYQ6Zz), [KC](https://open.spotify.com/artist/0HnFImXmf8r1qmmyFwDXMt) | [Heaven](https://open.spotify.com/album/4VfzR6UsiKL9lC8fMSTRul) | 4:12 |

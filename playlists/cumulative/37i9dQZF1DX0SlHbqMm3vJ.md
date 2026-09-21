@@ -4,7 +4,7 @@
 
 > Sweet afro melodies\. Cover: Kaestyle
 
-1,049 songs - 2 day 2 hr 47 min
+1,050 songs - 2 day 2 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -37,7 +37,7 @@
 | [Abeke](https://open.spotify.com/track/1rOcCMymtbyZBsbO6ADHtg) | [Godwin](https://open.spotify.com/artist/2mzRsCFnmBdMKFgSCVqE3Y), [KITSCHKRIEG](https://open.spotify.com/artist/5tHiL8SKSaZGMBUPIiSmX4) | [Abeke](https://open.spotify.com/album/1ixs4iAmZOhqTu6ZK3VrFv) | 4:07 | 2024-07-05 | 2024-10-18 |
 | [Aben Woha](https://open.spotify.com/track/6s5lxd4GY2oD4pc6DyFcjw) | [Essilfie](https://open.spotify.com/artist/16ouaa6tZ9jk1hm82V2HaA), [Cici Yeboah](https://open.spotify.com/artist/42BdLr2baIh7zRnOZPUnfo) | [Tori's Lounge](https://open.spotify.com/album/2bAzheXuEsDOWH4JXZFh4O) | 2:41 | 2022-02-17 | 2022-02-28 |
 | [About Us \(with Qing Madi\)](https://open.spotify.com/track/4azm407NNKTVQpXFTk3v0h) | [255](https://open.spotify.com/artist/7dNuDxuZN795qebo6RlTwK), [Qing Madi](https://open.spotify.com/artist/0ZvsEkINadmEV4qzS4ollh) | [About Us \(with Qing Madi\)](https://open.spotify.com/album/11TkaFcpWOGGf2rYuXbspT) | 2:57 | 2025-10-10 | 2026-02-06 |
-| [Adaeze](https://open.spotify.com/track/4dMP8nk9hEmfU9Qzb1KQ20) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Where Did Love Go?](https://open.spotify.com/album/5xWSSeDji25D0lKQS66JyS) | 2:34 | 2026-07-17 |  |
+| [Adaeze](https://open.spotify.com/track/4dMP8nk9hEmfU9Qzb1KQ20) | [Tekno](https://open.spotify.com/artist/6IhG3Yxm3UW98jhyBvrIut) | [Where Did Love Go?](https://open.spotify.com/album/5xWSSeDji25D0lKQS66JyS) | 2:34 | 2026-07-17 | 2026-09-21 |
 | [Adamma, Asanwa, Asampete](https://open.spotify.com/track/6aQKRinH6dP5nU3mZdQMYB) | [Ric Hassani](https://open.spotify.com/artist/5twTCOm58CXYCqCny4gYcQ), [Phyno](https://open.spotify.com/artist/6acbdy69rtlv8m9EW31MYl) | [Lagos Lover Boy](https://open.spotify.com/album/7C3bmmUT99wEnbrtSJjC4e) | 3:55 | 2025-06-13 | 2025-06-24 |
 | [Adanna](https://open.spotify.com/track/1VjHpdJOpEh9WljnOtJ4pz) | [taves](https://open.spotify.com/artist/0wrGpASMlUo7TK5v61ArjA), [Hyce](https://open.spotify.com/artist/1KQuzZH1ix85vt0n3iiRTA), [Brown Joel](https://open.spotify.com/artist/2A9kNdL3S9DKEIjhZJZZfM), [BoyPee](https://open.spotify.com/artist/1zjv7k3fmK1MJIA2CdaCAh) | [Adanna](https://open.spotify.com/album/46vIukeJcCS4O9nPtLq95a) | 3:36 | 2024-11-15 | 2025-02-20 |
 | [ADDICTED \(feat\. The Cavemen.\)](https://open.spotify.com/track/3GiwhPBfi4zqKl1qDPBy1i) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz), [The Cavemen.](https://open.spotify.com/artist/1cnBVQulaNSvbind6A0dVD) | [EMOTIONS](https://open.spotify.com/album/2YmoOH3tCkDVnmBsBrFpLI) | 3:52 | 2024-10-18 | 2026-07-24 |
@@ -831,6 +831,7 @@
 | [Serial Kisser](https://open.spotify.com/track/6xpOCLTrc9IEuwPuFuGO6F) | [Rukmani](https://open.spotify.com/artist/4lz2CgyavcVw3XfnvID7FV), [Boj](https://open.spotify.com/artist/4qYpTEJThZ8FC8KzyFrSWW) | [HIH & Serial Kisser](https://open.spotify.com/album/2L8m2nH21rqTK30vMUyGfA) | 3:01 | 2026-05-25 | 2026-06-12 |
 | [Sex on the Beach](https://open.spotify.com/track/1Sf8Ze5NuNkqbO8QtkpFzd) | [Tay Iwar](https://open.spotify.com/artist/0iqznAW9pzZ7KOjx8aCMWo) | [Sex on the Beach](https://open.spotify.com/album/3A7E83wdmhD0rW9vHknShB) | 2:51 | 2025-12-12 | 2026-02-20 |
 | [SHABA](https://open.spotify.com/track/3Mkn6UjdPtKdySe78jVfxg) | [SPINALL](https://open.spotify.com/artist/2NtQA3PY9chI8l65ejZLTP), [Mavo](https://open.spotify.com/artist/1VBjib1ykqXxss9Tw5YuR9), [DETO BLACK](https://open.spotify.com/artist/2Hgj50QKDLwDTRjb42hRIT) | [SHABA](https://open.spotify.com/album/1yQJjYlbpPEsepf57EsyHA) | 2:01 | 2026-04-17 |  |
+| [SHAKE](https://open.spotify.com/track/6B47HeuNN6VsA0rydmv5eB) | [Lil Qhuid](https://open.spotify.com/artist/1BLlvXV8nOlu9QpAYqDWLP), [Mack H.D](https://open.spotify.com/artist/0IUp0l21VlpoOz8525KfAJ) | [SHAKE](https://open.spotify.com/album/5vrsNwdVATedaTRMuXvaLL) | 2:49 | 2026-09-11 |  |
 | [Shake](https://open.spotify.com/track/05jS4QBADuGQGhIeFU3lvr) | [WurlD](https://open.spotify.com/artist/5x2vmU3Hj2Y66luW7c7vIn) | [Shake](https://open.spotify.com/album/6Q9sLgVbERTVicVjMkt7jn) | 3:34 | 2023-11-10 | 2024-02-03 |
 | [Sharp Attack](https://open.spotify.com/track/2W45RFSn0zM0eH0GFHimHS) | [Ninety](https://open.spotify.com/artist/221i8CC98rJBZAaMM9sGLK) | [Sharp Attack](https://open.spotify.com/album/0SjvPXWpMpndsohnyiS5n0) | 2:43 | 2023-09-08 | 2023-12-02 |
 | [She Knows](https://open.spotify.com/track/2BhfY4dhveCwOkr4pUbSvo) | [HarrySong](https://open.spotify.com/artist/3hflm7FUsWEKbI0fRnaW20), [Fireboy DML](https://open.spotify.com/artist/75VKfyoBlkmrJFDqo1o2VY), [Olamide](https://open.spotify.com/artist/4ovtyvs7j1jSmwhkBGHqSr) | [She Knows](https://open.spotify.com/album/6NnBWm7RUGtAFfVwiLhW40) | 3:18 | 2021-12-09 | 2022-03-11 |

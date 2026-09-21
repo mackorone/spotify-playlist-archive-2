@@ -2,9 +2,9 @@
 
 ### [K\-R&B Now](https://open.spotify.com/playlist/37i9dQZF1DX089MWxS7QW5)
 
-> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: george\)
+> 한국 R&B\. The new & fresh K\-R&B is here\. \(Cover: ORORA\)
 
-666 songs - 1 day 11 hr 37 min
+668 songs - 1 day 11 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13,7 +13,7 @@
 | [100th](https://open.spotify.com/track/3gjAdooisgtbRWjte2k80t) | [Minsu](https://open.spotify.com/artist/1o13ZguNtAOcOe1k0chkta) | [100th](https://open.spotify.com/album/7thXuFWxXkNrYx6jL0RIPX) | 4:13 | 2023-12-18 | 2024-04-19 |
 | [12:30 AM \(Feat\. CHEEZE\)](https://open.spotify.com/track/68aR2iFKyhVbPzUHeFkXC6) | [K.vsh](https://open.spotify.com/artist/0GVLMUDDJxgVWTpHcVFA2z), [CHEEZE](https://open.spotify.com/artist/6NdzNrBP8Jbhzp6h7yojht) | [Open Ending](https://open.spotify.com/album/04kK84kVwcaCsgbWApQq3N) | 3:57 | 2022-05-28 | 2022-06-10 |
 | [17](https://open.spotify.com/track/14MlkpwxVaIgzezt6Yi7Q3) | [CRYBABY](https://open.spotify.com/artist/5L0fM0LEXIPjky4i5FMTcd) | [17](https://open.spotify.com/album/52WFtZNiJmDRxWHzEYYYnP) | 2:59 | 2023-07-07 | 2023-10-17 |
-| [1972](https://open.spotify.com/track/3raQ7DNJmAqc7UsRYEsOir) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [1972](https://open.spotify.com/album/0KGYduvgnJpyuBwjEmIyZr) | 2:27 | 2026-03-20 |  |
+| [1972](https://open.spotify.com/track/3raQ7DNJmAqc7UsRYEsOir) | [siso](https://open.spotify.com/artist/7gOrmPLQui1ifo6sevPIry) | [1972](https://open.spotify.com/album/0KGYduvgnJpyuBwjEmIyZr) | 2:27 | 2026-03-20 | 2026-09-21 |
 | [1993](https://open.spotify.com/track/5OFXhFNNw608Y64izmaNcj) | [Naul](https://open.spotify.com/artist/22oiFjlZPKJ1XphV2et1u1) | [Soul Pop City](https://open.spotify.com/album/1ivOqUQNxIf2HD7oBFCv3K) | 4:41 | 2024-06-04 | 2024-08-22 |
 | [2 Minutes](https://open.spotify.com/track/7BwBnCJJDbslpSPKENzYmo) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [2 Minutes](https://open.spotify.com/album/1p6vQUoFIkcMUjULC5SXXz) | 2:00 | 2024-05-27 | 2024-08-22 |
 | [25 \- A COLORS SHOW](https://open.spotify.com/track/1szML6Onangw2A3ppLq1ac) | [oceanfromtheblue](https://open.spotify.com/artist/76eIrOIqck4yuOhrYZGx3a) | [25 \- A COLORS SHOW](https://open.spotify.com/album/5qi1T2mLicHngZ0rHxeNsC) | 2:46 | 2024-02-06 | 2024-06-06 |
@@ -205,7 +205,7 @@
 | [faraway](https://open.spotify.com/track/6MysgWeikCdIVrDhPVSCZU) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH) | [faraway](https://open.spotify.com/album/13csUC6m7mKJpmyfWG8bz8) | 3:49 | 2022-10-28 | 2023-07-08 |
 | [FAVORITE](https://open.spotify.com/track/4sSo8hmQ1g7qt1iE1uMRDr) | [HUNJIYA](https://open.spotify.com/artist/3BX7RIMRQexSiSSshJFPzC) | [KHAMAI](https://open.spotify.com/album/0vnfG9S9NskFX5FPP1SxHR) | 3:07 | 2022-07-27 | 2023-01-14 |
 | [Fear Can′t Kill You](https://open.spotify.com/track/5AiO9KXoy1NW6Oz4GKXq8N) | [Seo actor](https://open.spotify.com/artist/0Xdas0Cm8xqrnjUKIb6aLF) | [Fear Can′t Kill You](https://open.spotify.com/album/34iZBj4EwAiY3wYibRwDAR) | 2:26 | 2025-02-14 | 2025-06-03 |
-| [Feel It Too](https://open.spotify.com/track/7pa2CHENwzDO82W1UDpiJp) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Feel It Too](https://open.spotify.com/album/7kOL9ST8z2JlVIOVKCs3hB) | 3:18 | 2026-04-13 |  |
+| [Feel It Too](https://open.spotify.com/track/7pa2CHENwzDO82W1UDpiJp) | [Min Jiwoon](https://open.spotify.com/artist/5kgihglqsCaqCbtsJ0ef6v) | [Feel It Too](https://open.spotify.com/album/7kOL9ST8z2JlVIOVKCs3hB) | 3:18 | 2026-04-13 | 2026-09-21 |
 | [Feeling You](https://open.spotify.com/track/5wvADQcJzUbNE1s1SnKTC3) | [muhpy](https://open.spotify.com/artist/1Frp4xDTDbK5zPvabWGah4) | [Feeling You](https://open.spotify.com/album/0l1XFnHjuGUgWQd3ELfi6c) | 2:45 | 2025-01-18 | 2025-04-18 |
 | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/track/14UVhlg2jUPo64sTfNBKTo) | [OoOo](https://open.spotify.com/artist/3g1lnUW8xnEPCO60kORskb), [Jimmy Brown](https://open.spotify.com/artist/5YPCpDIPOY4WqY9Bqdw4Uc) | [FETISH \(feat\. Jimmy Brown\)](https://open.spotify.com/album/5QrmhLK3bHHl6y6lRh94n4) | 2:34 | 2024-11-29 | 2025-04-10 |
 | [Fever](https://open.spotify.com/track/5nDSIB3JHYgCvZQSG1JwrV) | [Jooyoung](https://open.spotify.com/artist/1vct46rBqLNRbE9wCibXUH), [Kaash Paige](https://open.spotify.com/artist/0f2YkMXwFNJNSX7MymevKE) | [Sphere](https://open.spotify.com/album/4e9WFFgUKF98b0JKokADNX) | 3:00 | 2024-01-26 | 2024-05-28 |
@@ -243,6 +243,7 @@
 | [grow up](https://open.spotify.com/track/3Ne50Te8Umxvxw5Di8j9Pu) | [ido](https://open.spotify.com/artist/1fZXr8ghnoNg29NRz0bJTJ) | [grow up](https://open.spotify.com/album/4XIm6FAUJEcN1RpYA3ql26) | 3:03 | 2024-08-10 | 2024-09-25 |
 | [Hachiko \(Feat\. Sion, Yescoba, Dayoung Ahn\)](https://open.spotify.com/track/4MrCH9VqTyEKmeXQ7m6Geh) | [BIG Naughty](https://open.spotify.com/artist/7cEaNXXTHx3LokbjUUyHal), [Sion](https://open.spotify.com/artist/2dEBKqLtvdFTnPcwpWEw0r), [Yescoba](https://open.spotify.com/artist/5FifK2T7KEKatsWO6WxkS6), [Dayoung Ahn](https://open.spotify.com/artist/1NkurDnX4s44yi7n57Mooz) | [NANGMAN](https://open.spotify.com/album/2hBJR1SQ4cGDjGTCY6eV8m) | 6:10 | 2022-06-18 | 2022-10-05 |
 | [Half Asleep \(feat\. Peakboy, hiko\)](https://open.spotify.com/track/29iOBbi03iM3MmTvnz2h57) | [Otis Lim](https://open.spotify.com/artist/5RnIypllxbDHaeYKljksJ3), [Peakboy](https://open.spotify.com/artist/08LjovlGCVPQpTm9Olc45l), [hiko](https://open.spotify.com/artist/4lt8MuZF8WWqDkoYgRULIM) | [Playground](https://open.spotify.com/album/1sMyjHp8vwijM0eVq4H0ej) | 3:25 | 2024-04-30 | 2024-08-11 |
+| [hamster wheel](https://open.spotify.com/track/0YAGYWY8I7Fa5P4ezujroO) | [Kimmuse](https://open.spotify.com/artist/6qfCoY8Md1jcT1vBQwsmHN) | [hamster wheel](https://open.spotify.com/album/6eDBJswzAS09PHpKovcLGJ) | 2:49 | 2026-09-21 |  |
 | [Hand](https://open.spotify.com/track/5Apwi7i7yPRP6LXVinpjuN) | [OWALLOIL](https://open.spotify.com/artist/59THIwTnvgT7SeGFzocky2) | [Hand〈Sanullim's 50th anniversary collaboration album〉](https://open.spotify.com/album/1wxEWZ9ARGDnEWyfGv42tn) | 3:52 | 2023-10-20 | 2024-03-09 |
 | [Hangang](https://open.spotify.com/track/5pp2avKhaaAYKrDJpoTD6e) | [Saebyuk](https://open.spotify.com/artist/3bwmvr8GLrXXyxFtbLTyuV) | [Hangang](https://open.spotify.com/album/6ooXFjQ7yNU66cYeGSBv1r) | 3:13 | 2022-05-28 | 2022-06-10 |
 | [Hangang Gongwon](https://open.spotify.com/track/58DPUgbOVwsLfAOs2oQBk9) | [BIBI](https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9) | [Hongdae R&B](https://open.spotify.com/album/7v7uC2wkD1Jh95G9Y5gbJb) | 3:58 | 2023-09-08 | 2023-11-29 |
@@ -435,6 +436,7 @@
 | [One More Time](https://open.spotify.com/track/0EjyI90qLsPr9CXO1kyjJQ) | [Paul Kim](https://open.spotify.com/artist/4qRXrzUmdy3p33lgvJEzdv) | [Star](https://open.spotify.com/album/2ZEpVzbFGcMGBXuYRdYVE7) | 4:04 | 2022-06-18 | 2022-10-05 |
 | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/track/6MmTxJOXZW3OKgQZ7a7nkn) | [Ryeojin](https://open.spotify.com/artist/54HLAGvxNZ89emaGdlf6Tr), [h3hyeon](https://open.spotify.com/artist/2VjfPlcTFJhQSe8ALJJ1dz) | [One\-way Love \(Feat\. h3hyeon\)](https://open.spotify.com/album/3xWjFuxEduU4dC5pFDKPvX) | 2:36 | 2026-01-22 | 2026-06-25 |
 | [Orange Clouds \(feat\. JUNNY\)](https://open.spotify.com/track/05FOn52HhxW7HsWUx0b0Lp) | [Moon Sujin](https://open.spotify.com/artist/36MQil20hjOpG5f52NQ4du), [JUNNY](https://open.spotify.com/artist/0lgENJQUkqkDbpsTYEayOr) | [Orange Clouds](https://open.spotify.com/album/5aU6IDEb4SFEokay09FxXD) | 2:26 | 2024-08-21 | 2024-12-03 |
+| [Orchid](https://open.spotify.com/track/69ihiVDYXUUv2KcxaoCYRd) | [ORORA](https://open.spotify.com/artist/11x44zHKHZ8Yyg6qTzuUoE) | [On My Way \(Extended\)](https://open.spotify.com/album/3AbYTzPegsKTsOgPwvqvYW) | 3:43 | 2026-09-21 |  |
 | [Ordinary](https://open.spotify.com/track/7eNqw8m9YmTgcKLeJU8WQr) | [Bas Bao](https://open.spotify.com/artist/0hKuWSrSFMRRNAh6t8wGXT), [That](https://open.spotify.com/artist/0XWHgRkMLtPTmrumiHhvTL) | [Ordinary](https://open.spotify.com/album/1TexFuMSAaTiaxUqKxZBo6) | 3:27 | 2023-10-20 | 2024-01-09 |
 | [ORDINARY LOVESONG.](https://open.spotify.com/track/2RgUMNjkAkqqe9lrRTrNZ7) | [B JYUN.](https://open.spotify.com/artist/5PwuVLkbZ6WNRzX046RGi1), [offtheneve](https://open.spotify.com/artist/5m2RRNUDdsjVPgJRAo0O5D) | [LOVE SONG BUNDLE.](https://open.spotify.com/album/6JragXEObROPfpe6bjFZaD) | 3:37 | 2026-02-23 | 2026-06-25 |
 | [ore ore](https://open.spotify.com/track/2hPvWV02856ZW1LSWbOycO) | [SOLE](https://open.spotify.com/artist/6naXFodImN2DwRmKCQHAUt) | [imagine club](https://open.spotify.com/album/1Fhu3FJHqttNA1d6e7VXxC) | 3:31 | 2022-09-17 | 2023-02-15 |

@@ -78,7 +78,7 @@
       ],
       "date_added": "2022-05-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-08-07",
+      "date_removed": null,
       "duration_ms": 116573,
       "name": "Action Replay",
       "url": "https://open.spotify.com/track/5So0Gqy5hxb82PuNzFBn6o"
@@ -1030,7 +1030,7 @@
       ],
       "date_added": "2022-06-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 158400,
       "name": "Delivery Date",
       "url": "https://open.spotify.com/track/1EPiKxltYOTINNNqmvNOw0"
@@ -1082,6 +1082,24 @@
       "duration_ms": 161612,
       "name": "Dossier",
       "url": "https://open.spotify.com/track/56dgpEZPKvNet9934593ub"
+    },
+    {
+      "album": {
+        "name": "Kpm 1000 Series: The Sound of \"Pop\"",
+        "url": "https://open.spotify.com/album/7B1AlrjKEfJYHYkL7r202j"
+      },
+      "artists": [
+        {
+          "name": "Alan Hawkshaw",
+          "url": "https://open.spotify.com/artist/4xJbCqwNfYlbl8v026L24T"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181053,
+      "name": "Drive On",
+      "url": "https://open.spotify.com/track/7M9b2EG5VFVb3gNaplNy2O"
     },
     {
       "album": {
@@ -3580,7 +3598,7 @@
       ],
       "date_added": "2022-06-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 181666,
       "name": "The Hawk Shuffle",
       "url": "https://open.spotify.com/track/67zZDu1rnFAQdp1zyryQWQ"

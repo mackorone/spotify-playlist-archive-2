@@ -4,7 +4,7 @@
 
 > Discover the best in new music from Aotearoa\. Cover: L.A.B.
 
-369 songs - 21 hr 11 min
+370 songs - 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,7 +110,7 @@
 | [Endlessly](https://open.spotify.com/track/2CyfQZebCmtHWEacUX3Bxp) | [SIX60](https://open.spotify.com/artist/1caoBfXJrbKCwIaTzGkyHn) | [Right Here Right Now](https://open.spotify.com/album/6csIU1XcyHCNHorQkDE83W) | 3:23 | 2026-02-12 |  |
 | [English Boy](https://open.spotify.com/track/5yUqq4zRde80gTdorwhJ67) | [PARK RD](https://open.spotify.com/artist/4L8LRW0t3vEMaBdqvFwNQo) | [English Boy](https://open.spotify.com/album/1SAdTzSO67ccsq0V1urqBf) | 3:01 | 2024-12-05 | 2025-01-31 |
 | [Escape From Planet Earth](https://open.spotify.com/track/6bMrpe8vPc5c5sPP0OPIVN) | [Bic Runga](https://open.spotify.com/artist/3R8AurcQVHkialifehVKXV) | [Red Sunset](https://open.spotify.com/album/1QSBbWG8CAH4aWOA3d7FHK) | 2:40 | 2026-02-12 | 2026-03-27 |
-| [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 | 2026-03-26 |  |
+| [Even In The Quiet](https://open.spotify.com/track/5ZIYdecFkCGyT6Tbyk7rAq) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Even In The Quiet](https://open.spotify.com/album/2gvO56GUca2zlnDP6sb7XM) | 3:32 | 2026-03-26 | 2026-09-21 |
 | [Every Drop](https://open.spotify.com/track/4OLXa4APPfBYiOg2bVLjkq) | [Josh Wawa](https://open.spotify.com/artist/1oMTlALW2sKMJfvcbahRUz) | [Every Drop](https://open.spotify.com/album/3EmDnBg1u0pVaWoQRPL8kA) | 4:04 | 2024-12-19 | 2025-01-10 |
 | [Eyes On Me](https://open.spotify.com/track/1mECl3Zcm5Yp0APfuW5qfi) | [Rova](https://open.spotify.com/artist/1uv53JWHsAxxRygGZMsguH) | [Eyes On Me](https://open.spotify.com/album/5oStuVQ3cIli57rHOqi42c) | 3:43 | 2024-05-20 | 2024-11-08 |
 | [Faery King](https://open.spotify.com/track/3jMJ7s8FQupDa1oRpaQsCc) | [Kiki Rockwell](https://open.spotify.com/artist/5HuKMWteBRI09tWyKeQE1F) | [Eldest Daughter Of An Eldest Daughter](https://open.spotify.com/album/4a5uJvHjC5NrORjUrtCV55) | 4:26 | 2024-10-18 |  |
@@ -221,6 +221,7 @@
 | [Metal](https://open.spotify.com/track/6KF6TkyYpEWKg6BZ3OYJz7) | [The Beths](https://open.spotify.com/artist/7DjwIxbe8kpw4pqnzAMoin) | [Metal](https://open.spotify.com/album/4xjNfpHmPjhl2coRgNWvOz) | 4:43 | 2025-05-01 | 2026-09-17 |
 | [MI6](https://open.spotify.com/track/02BSEBESskfRqcXF2l6p8Q) | [WHO SHOT SCOTT](https://open.spotify.com/artist/4INpCNtJho77CQ6ZOfk5lP) | [BRAIN \(SIDE A\)](https://open.spotify.com/album/4sCfUtLgXkHO7flH2ePDl9) | 2:39 | 2024-05-20 | 2024-10-25 |
 | [Might As Well Be Watching](https://open.spotify.com/track/5SfNS3bx82rXYXHtH5FNE9) | [Serebii](https://open.spotify.com/artist/7JKAIlZcxCK8hSIHiSp4ms) | [Might As Well Be Watching](https://open.spotify.com/album/4U9loPOJifAA6qjM4JpwYR) | 3:23 | 2024-10-24 | 2025-04-27 |
+| [Mighty Tree](https://open.spotify.com/track/6x8Z5vWm5VRUGFgXsR36CY) | [Louis Baker](https://open.spotify.com/artist/6cKB91cRebrHboAUTx5uUy) | [Mighty Tree](https://open.spotify.com/album/4NrWYYcNk1DlaZMiDJiq2c) | 5:11 | 2026-09-17 |  |
 | [Millions](https://open.spotify.com/track/1OiEaDZf2xda14zWlkXinE) | [Mountain Boy](https://open.spotify.com/artist/3qEnPaVdXvWJz4JZfRdqw7) | [The Days](https://open.spotify.com/album/3Orb30lEud5jYVlIjdtWfd) | 3:10 | 2024-05-20 | 2024-08-16 |
 | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/track/4gVsKMMK0f8dweHL7Vm9HC) | [Blood Orange](https://open.spotify.com/artist/6LEeAFiJF8OuPx747e1wxR), [Caroline Polachek](https://open.spotify.com/artist/4Ge8xMJNwt6EEXOzVXju9a), [Lorde](https://open.spotify.com/artist/163tK9Wjr9P9DmM0AVK7lm), [Mustafa](https://open.spotify.com/artist/1zkKkDDra0jlsiJYz57P3P) | [Mind Loaded \(feat\. Caroline Polachek, Lorde & Mustafa\)](https://open.spotify.com/album/7eD4M0bxUGIFRCi0wWhkbt) | 3:37 | 2025-07-17 | 2026-03-27 |
 | [Miss You All The Time](https://open.spotify.com/track/2Z47P8OrffWIO5BKWrIlou) | [Foley](https://open.spotify.com/artist/776HGV4QHksTaUaawD9DnE) | [Miss You All The Time](https://open.spotify.com/album/36u6nqSNbq4ZeH10s6lBgl) | 3:00 | 2024-05-20 | 2024-11-08 |

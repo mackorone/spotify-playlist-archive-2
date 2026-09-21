@@ -1,6 +1,6 @@
 {
   "description": "La playlist id\u00e9ale pour se d\u00e9tendre en musique.",
-  "num_followers": 1071040,
+  "num_followers": 1070999,
   "original_name": "Au calme",
   "owner": {
     "name": "Spotify",
@@ -331,6 +331,22 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 305875,
+      "name": "Over country",
+      "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
         "name": "The Universe Smiles Upon You ii",
         "url": "https://open.spotify.com/album/45ZWDMMVK0N0Hd2p7fLTCB"
       },
@@ -443,22 +459,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "Angel",
-        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 305875,
-      "name": "Over country",
-      "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "doing my best",
         "url": "https://open.spotify.com/album/1igte7adJCqP9ayDlbBCdC"
       },
@@ -491,22 +491,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "Californication (Deluxe Edition)",
-        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
-      },
-      "artists": [
-        {
-          "name": "Red Hot Chili Peppers",
-          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
-        }
-      ],
-      "duration_ms": 204973,
-      "name": "Road Trippin'",
-      "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "Blood",
         "url": "https://open.spotify.com/album/1Fh5Y8ldo4PIW8Ija51BRK"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 278200,
       "name": "Green & Gold",
       "url": "https://open.spotify.com/track/4HCcvFdHfwR2u3WPPPVRv6"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "Californication (Deluxe Edition)",
+        "url": "https://open.spotify.com/album/2Y9IRtehByVkegoD7TcLfi"
+      },
+      "artists": [
+        {
+          "name": "Red Hot Chili Peppers",
+          "url": "https://open.spotify.com/artist/0L8ExT028jH3ddEcZwqJJ5"
+        }
+      ],
+      "duration_ms": 204973,
+      "name": "Road Trippin'",
+      "url": "https://open.spotify.com/track/1XxCiPw07rd1ytYnE7SoJI"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -767,6 +767,42 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
+        "name": "The Meaning of Flowers",
+        "url": "https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB"
+      },
+      "artists": [
+        {
+          "name": "Agnes Obel",
+          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
+        }
+      ],
+      "duration_ms": 234644,
+      "name": "The Meaning of Flowers",
+      "url": "https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "Forever",
+        "url": "https://open.spotify.com/album/2ZVj3bdUbAFlbcKMT8mdtD"
+      },
+      "artists": [
+        {
+          "name": "Montell Fish",
+          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
+        },
+        {
+          "name": "Vancouver Sleep Clinic",
+          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+        }
+      ],
+      "duration_ms": 191118,
+      "name": "Forever",
+      "url": "https://open.spotify.com/track/1DAJbUvtSmmLfAXzQvE9PT"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
         "name": "tired eyes",
         "url": "https://open.spotify.com/album/7l7cGeNEJWgprS1d5if5DW"
       },
@@ -847,6 +883,22 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
+        "name": "Les jolies choses",
+        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
+      },
+      "artists": [
+        {
+          "name": "Polo & Pan",
+          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
+        }
+      ],
+      "duration_ms": 222373,
+      "name": "Les jolies choses",
+      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
         "name": "Sahar",
         "url": "https://open.spotify.com/album/2MsR68gI6TNZSztsRYgs6p"
       },
@@ -863,22 +915,6 @@
       "duration_ms": 263653,
       "name": "Sunflower",
       "url": "https://open.spotify.com/track/6g7cJdDNjCDgqcpVGLzYhh"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
-        "name": "Les jolies choses",
-        "url": "https://open.spotify.com/album/57xYVd9eZHdrETN1HlLkPI"
-      },
-      "artists": [
-        {
-          "name": "Polo & Pan",
-          "url": "https://open.spotify.com/artist/45yEuthJ9yq1rNXAOpBnqM"
-        }
-      ],
-      "duration_ms": 222373,
-      "name": "Les jolies choses",
-      "url": "https://open.spotify.com/track/03WMhty0KQ2ppU30LiyKy4"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -919,22 +955,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "The Meaning of Flowers",
-        "url": "https://open.spotify.com/album/3FsljVr8Le5JiorxIQs3fB"
-      },
-      "artists": [
-        {
-          "name": "Agnes Obel",
-          "url": "https://open.spotify.com/artist/1rKrEdI6GKirxWHxIUPYms"
-        }
-      ],
-      "duration_ms": 234644,
-      "name": "The Meaning of Flowers",
-      "url": "https://open.spotify.com/track/1xK0dhLmMpUlmLE2qRIPpM"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "\u00c0 TOUS LES B\u00c2TARDS",
         "url": "https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY"
       },
@@ -971,22 +991,18 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "Forever",
-        "url": "https://open.spotify.com/album/2ZVj3bdUbAFlbcKMT8mdtD"
+        "name": "One in a Million",
+        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
       },
       "artists": [
         {
-          "name": "Montell Fish",
-          "url": "https://open.spotify.com/artist/5nvWOyAkfNgVLKESq4fOj2"
-        },
-        {
-          "name": "Vancouver Sleep Clinic",
-          "url": "https://open.spotify.com/artist/77BznF1Dr1k5KyEZ6Nn3jB"
+          "name": "LEISURE",
+          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
         }
       ],
-      "duration_ms": 191118,
-      "name": "Forever",
-      "url": "https://open.spotify.com/track/1DAJbUvtSmmLfAXzQvE9PT"
+      "duration_ms": 257400,
+      "name": "One in a Million",
+      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -1007,22 +1023,6 @@
       "duration_ms": 234454,
       "name": "Gordon in the Willows",
       "url": "https://open.spotify.com/track/5s4K20MHbY6jkjL1ISNDtq"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
-        "name": "One in a Million",
-        "url": "https://open.spotify.com/album/3uHNY879SWHenRphH1Zpbd"
-      },
-      "artists": [
-        {
-          "name": "LEISURE",
-          "url": "https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R"
-        }
-      ],
-      "duration_ms": 257400,
-      "name": "One in a Million",
-      "url": "https://open.spotify.com/track/1LjBIsVA2ZXWPRfAngNXEQ"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -1087,6 +1087,26 @@
       "duration_ms": 244200,
       "name": "I Won't Let You Down",
       "url": "https://open.spotify.com/track/32L9L0Hg4skEWlog49n1a3"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "nicotine",
+        "url": "https://open.spotify.com/album/7CPreu4yLanbK0BZrJRFoe"
+      },
+      "artists": [
+        {
+          "name": "Winter",
+          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
+        },
+        {
+          "name": "Eyedress",
+          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
+        }
+      ],
+      "duration_ms": 198120,
+      "name": "nicotine",
+      "url": "https://open.spotify.com/track/2DDqh8VKrNHo1xtzdydLfA"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -1163,26 +1183,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "nicotine",
-        "url": "https://open.spotify.com/album/7CPreu4yLanbK0BZrJRFoe"
-      },
-      "artists": [
-        {
-          "name": "Winter",
-          "url": "https://open.spotify.com/artist/4Eun8YBC7P0psGdIf0GRtl"
-        },
-        {
-          "name": "Eyedress",
-          "url": "https://open.spotify.com/artist/3XxNRirzbjfLdDli06zMaB"
-        }
-      ],
-      "duration_ms": 198120,
-      "name": "nicotine",
-      "url": "https://open.spotify.com/track/2DDqh8VKrNHo1xtzdydLfA"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "Beautiful Thingz",
         "url": "https://open.spotify.com/album/0FUZCikaqg8mlA4MvRcPCZ"
       },
@@ -1231,22 +1231,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "Rupture (Version acoustique)",
-        "url": "https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun"
-      },
-      "artists": [
-        {
-          "name": "Laurie Darmon",
-          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
-        }
-      ],
-      "duration_ms": 150896,
-      "name": "Rupture (Version acoustique)",
-      "url": "https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "Le temps passe etc.",
         "url": "https://open.spotify.com/album/5irCRXypXa8gOqN2pFeU8g"
       },
@@ -1259,6 +1243,22 @@
       "duration_ms": 192943,
       "name": "Le temps passe",
       "url": "https://open.spotify.com/track/3tTnW4npe4uYwLRaOGkrdU"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "Rupture (Version acoustique)",
+        "url": "https://open.spotify.com/album/5A0Mz9kzwjm0eMnPINChun"
+      },
+      "artists": [
+        {
+          "name": "Laurie Darmon",
+          "url": "https://open.spotify.com/artist/7hhIUoiI41fPdE0hEcpr2U"
+        }
+      ],
+      "duration_ms": 150896,
+      "name": "Rupture (Version acoustique)",
+      "url": "https://open.spotify.com/track/2leECNnP3di7pzp8BIzdIh"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -1383,6 +1383,22 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
+        "name": "For Better and For Worse",
+        "url": "https://open.spotify.com/album/2xeCYK4beWrE6uPOLW9e3F"
+      },
+      "artists": [
+        {
+          "name": "Poppy Fus\u00e9e",
+          "url": "https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT"
+        }
+      ],
+      "duration_ms": 212221,
+      "name": "For Better and For Worse",
+      "url": "https://open.spotify.com/track/3ankwuUT4iWTFhGEyC0k9Y"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
         "name": "SOLAR STEREO",
         "url": "https://open.spotify.com/album/63CNNQAFo5dLHPV70fU1ed"
       },
@@ -1399,18 +1415,18 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "For Better and For Worse",
-        "url": "https://open.spotify.com/album/2xeCYK4beWrE6uPOLW9e3F"
+        "name": "Oser",
+        "url": "https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC"
       },
       "artists": [
         {
-          "name": "Poppy Fus\u00e9e",
-          "url": "https://open.spotify.com/artist/5IFUbcd4w9UlVpsMNfY4FT"
+          "name": "Ys\u00e9",
+          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
         }
       ],
-      "duration_ms": 212221,
-      "name": "For Better and For Worse",
-      "url": "https://open.spotify.com/track/3ankwuUT4iWTFhGEyC0k9Y"
+      "duration_ms": 202226,
+      "name": "Ose",
+      "url": "https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -1431,22 +1447,6 @@
       "duration_ms": 199833,
       "name": "Paris-Madrid",
       "url": "https://open.spotify.com/track/0GMy6l9kM3Ll0ZMmnGjqFR"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
-        "name": "Oser",
-        "url": "https://open.spotify.com/album/4ka5WRIIMtnDGSSoUAoNHC"
-      },
-      "artists": [
-        {
-          "name": "Ys\u00e9",
-          "url": "https://open.spotify.com/artist/5rbd3UDWIlTwn6ezggjxUw"
-        }
-      ],
-      "duration_ms": 202226,
-      "name": "Ose",
-      "url": "https://open.spotify.com/track/5QnYsX5buzmH9GuZ92hzhx"
     },
     {
       "added_at": "2026-09-17 22:00:30",
@@ -1547,22 +1547,6 @@
     {
       "added_at": "2026-09-17 22:00:30",
       "album": {
-        "name": "Lua Ki Di Nos",
-        "url": "https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm"
-      },
-      "artists": [
-        {
-          "name": "Jos\u00e9 Carlos Schwarz & Le Cobiana Djazz",
-          "url": "https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO"
-        }
-      ],
-      "duration_ms": 271391,
-      "name": "Mindjeris De Panu Pretu",
-      "url": "https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC"
-    },
-    {
-      "added_at": "2026-09-17 22:00:30",
-      "album": {
         "name": "If Only",
         "url": "https://open.spotify.com/album/7d05HveiLG4742vBLElcSE"
       },
@@ -1575,6 +1559,22 @@
       "duration_ms": 186869,
       "name": "If Only",
       "url": "https://open.spotify.com/track/5R0H0SoA4ZMGhdOfZTFjHR"
+    },
+    {
+      "added_at": "2026-09-17 22:00:30",
+      "album": {
+        "name": "Lua Ki Di Nos",
+        "url": "https://open.spotify.com/album/0eFyMfysvibs0VBZbla8lm"
+      },
+      "artists": [
+        {
+          "name": "Jos\u00e9 Carlos Schwarz & Le Cobiana Djazz",
+          "url": "https://open.spotify.com/artist/2qSxbFBqHXTtYYHuCf6WPO"
+        }
+      ],
+      "duration_ms": 271391,
+      "name": "Mindjeris De Panu Pretu",
+      "url": "https://open.spotify.com/track/3HNoSnEbANwYxnEJhLCjJC"
     },
     {
       "added_at": "2026-09-17 22:00:30",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0rsqS3HgjHgpjcvfZX8OmF.md) - [plain]
 
 > The best and latest rock and alternative\. Cover:  Bleeker
 
-[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,437 likes - 102 songs - 6 hr 10 min
+[uDiscover Canada](https://open.spotify.com/user/digsterca) - 9,436 likes - 102 songs - 6 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

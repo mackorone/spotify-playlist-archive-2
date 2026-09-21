@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Umur Doma ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,263 likes - 145 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,272 likes - 145 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

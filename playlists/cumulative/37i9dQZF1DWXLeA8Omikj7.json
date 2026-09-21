@@ -9032,7 +9032,7 @@
       ],
       "date_added": "2019-06-19",
       "date_added_asterisk": true,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 220425,
       "name": "Hope",
       "url": "https://open.spotify.com/track/5B83lmCIpUZbp3llYUN3Mg"
@@ -13658,6 +13658,28 @@
       "duration_ms": 243299,
       "name": "Nocturne - Frederic Robinson Remix",
       "url": "https://open.spotify.com/track/0QvohxRXfJAuCWNnaBk2N1"
+    },
+    {
+      "album": {
+        "name": "Nokik Messiah",
+        "url": "https://open.spotify.com/album/5YGfqyMEvnI1LVhe1ZkEdG"
+      },
+      "artists": [
+        {
+          "name": "OR",
+          "url": "https://open.spotify.com/artist/0OVGzl7zhsnqmi9wFTHmsA"
+        },
+        {
+          "name": "John Talabot",
+          "url": "https://open.spotify.com/artist/1YvN5uOGQkHVUUlZUcnotD"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 393163,
+      "name": "Nokik Messiah",
+      "url": "https://open.spotify.com/track/3Z80IyXkWwtw1AQQWLQyjY"
     },
     {
       "album": {

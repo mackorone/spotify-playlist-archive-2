@@ -7874,7 +7874,7 @@
       ],
       "date_added": "2025-05-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 237338,
       "name": "Tensoon",
       "url": "https://open.spotify.com/track/6owwP7F0J5AjtYwMplYsMR"
@@ -8148,6 +8148,28 @@
       "duration_ms": 161828,
       "name": "think about u",
       "url": "https://open.spotify.com/track/28WgWRhOApboNjM7s5Hl3h"
+    },
+    {
+      "album": {
+        "name": "think about you",
+        "url": "https://open.spotify.com/album/71ivYTmevXYJsCLcoFIxoD"
+      },
+      "artists": [
+        {
+          "name": "Cepaque",
+          "url": "https://open.spotify.com/artist/57YkypoehOhGYrxAS1QAhc"
+        },
+        {
+          "name": "SoLow",
+          "url": "https://open.spotify.com/artist/3l2gXSj6vB1lvMsrAEG7WU"
+        }
+      ],
+      "date_added": "2026-09-10",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160061,
+      "name": "think about you",
+      "url": "https://open.spotify.com/track/4CqNwzL5J0IYeh0HWhq9mA"
     },
     {
       "album": {

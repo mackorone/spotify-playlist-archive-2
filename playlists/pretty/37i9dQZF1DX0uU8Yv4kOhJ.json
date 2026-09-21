@@ -1,6 +1,6 @@
 {
   "description": "Concentrate con el aire de la cordillera de los Andes.",
-  "num_followers": 135316,
+  "num_followers": 135323,
   "original_name": "Entre los Andes",
   "owner": {
     "name": "Spotify",
@@ -79,18 +79,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Lo Mejor de Savia Andina (M\u00fasica Boliviana)",
-        "url": "https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9"
+        "name": "Flutes Indiennes",
+        "url": "https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF"
       },
       "artists": [
         {
-          "name": "Savia Andina",
-          "url": "https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru"
+          "name": "Los Incas",
+          "url": "https://open.spotify.com/artist/0FuVBvRYAU8R2GEyErL64H"
         }
       ],
-      "duration_ms": 214906,
-      "name": "Boquer\u00f3n Abandonado",
-      "url": "https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf"
+      "duration_ms": 125346,
+      "name": "Recuerdos de Calahuayo (Peru)",
+      "url": "https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -115,18 +115,18 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Flutes Indiennes",
-        "url": "https://open.spotify.com/album/7IIjmyVhX56PG8S1U77PJF"
+        "name": "Lo Mejor de Savia Andina (M\u00fasica Boliviana)",
+        "url": "https://open.spotify.com/album/3TThUIkeWMC62bZdIdYeV9"
       },
       "artists": [
         {
-          "name": "Los Incas",
-          "url": "https://open.spotify.com/artist/0FuVBvRYAU8R2GEyErL64H"
+          "name": "Savia Andina",
+          "url": "https://open.spotify.com/artist/0hkFv9719WLJ2uupZTn0ru"
         }
       ],
-      "duration_ms": 125346,
-      "name": "Recuerdos de Calahuayo (Peru)",
-      "url": "https://open.spotify.com/track/2uLEA60TbLj16qPQF1P9Fq"
+      "duration_ms": 214906,
+      "name": "Boquer\u00f3n Abandonado",
+      "url": "https://open.spotify.com/track/0ECth7Ix1HakMkZVOWDALf"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -291,38 +291,6 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "No Vuelvo a Amar (Bolivia y Su Folklore)",
-        "url": "https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY"
-      },
-      "artists": [
-        {
-          "name": "Proyecci\u00f3n",
-          "url": "https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8"
-        },
-        {
-          "name": "Yuri Ortu\u00f1o Le\u00f3n",
-          "url": "https://open.spotify.com/artist/1Tez0X3Wh9zSosZpCyoeLw"
-        },
-        {
-          "name": "Rafael Arias Paz",
-          "url": "https://open.spotify.com/artist/6byGBND3MbJ7xGjDwU0LaZ"
-        },
-        {
-          "name": "Orlando Jim\u00e9nez",
-          "url": "https://open.spotify.com/artist/09rYyheZjqeOn8sXUfk8Yh"
-        },
-        {
-          "name": "Ra\u00fal Muriel",
-          "url": "https://open.spotify.com/artist/2sHM5euYwk4aMqhiT8MZCM"
-        }
-      ],
-      "duration_ms": 162168,
-      "name": "Sajsahuaman",
-      "url": "https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
         "name": "Musica De Bolivia",
         "url": "https://open.spotify.com/album/1zQG76RRmnIW2CjZPc8lMC"
       },
@@ -351,6 +319,38 @@
       "duration_ms": 182293,
       "name": "Munaspaqa Suyaykuway",
       "url": "https://open.spotify.com/track/0RiWhE2d4F8QMKcorZsDh9"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
+        "name": "No Vuelvo a Amar (Bolivia y Su Folklore)",
+        "url": "https://open.spotify.com/album/0HHmdi8uP0V82pxE8leycY"
+      },
+      "artists": [
+        {
+          "name": "Proyecci\u00f3n",
+          "url": "https://open.spotify.com/artist/119DPASXtwEkIiAoRSOUR8"
+        },
+        {
+          "name": "Yuri Ortu\u00f1o Le\u00f3n",
+          "url": "https://open.spotify.com/artist/1Tez0X3Wh9zSosZpCyoeLw"
+        },
+        {
+          "name": "Rafael Arias Paz",
+          "url": "https://open.spotify.com/artist/6byGBND3MbJ7xGjDwU0LaZ"
+        },
+        {
+          "name": "Orlando Jim\u00e9nez",
+          "url": "https://open.spotify.com/artist/09rYyheZjqeOn8sXUfk8Yh"
+        },
+        {
+          "name": "Ra\u00fal Muriel",
+          "url": "https://open.spotify.com/artist/2sHM5euYwk4aMqhiT8MZCM"
+        }
+      ],
+      "duration_ms": 162168,
+      "name": "Sajsahuaman",
+      "url": "https://open.spotify.com/track/4kRLMCyV87XE573Iocaqpp"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -403,8 +403,8 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Pu\u00f1ales",
-        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
+        "name": "Alma m\u00eda",
+        "url": "https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ"
       },
       "artists": [
         {
@@ -412,9 +412,9 @@
           "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
         }
       ],
-      "duration_ms": 170037,
-      "name": "Pu\u00f1ales",
-      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
+      "duration_ms": 192827,
+      "name": "Alma m\u00eda",
+      "url": "https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -483,8 +483,8 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
-        "name": "Alma m\u00eda",
-        "url": "https://open.spotify.com/album/74EbdS6zuGWYOSV1EVqYJZ"
+        "name": "Pu\u00f1ales",
+        "url": "https://open.spotify.com/album/0cSX0iOE7K7oMx5SscLH3m"
       },
       "artists": [
         {
@@ -492,9 +492,9 @@
           "url": "https://open.spotify.com/artist/1jiEzyMQwfYcQtp19fwOTZ"
         }
       ],
-      "duration_ms": 192827,
-      "name": "Alma m\u00eda",
-      "url": "https://open.spotify.com/track/4zwnhH4aFWiXGzUBInMrK1"
+      "duration_ms": 170037,
+      "name": "Pu\u00f1ales",
+      "url": "https://open.spotify.com/track/3BwmTfERJwWMUvG5apznGa"
     },
     {
       "added_at": "2023-09-29 18:58:26",
@@ -723,6 +723,22 @@
     {
       "added_at": "2023-09-29 18:58:26",
       "album": {
+        "name": "Altamar",
+        "url": "https://open.spotify.com/album/4hrSQysDtVOtq4dIcA89mN"
+      },
+      "artists": [
+        {
+          "name": "Vilamarea",
+          "url": "https://open.spotify.com/artist/1ukqoFpz3SsT5ex3qr5CmZ"
+        }
+      ],
+      "duration_ms": 289186,
+      "name": "Altamar",
+      "url": "https://open.spotify.com/track/0hQ1YDgcYE0J2cypCoIPmj"
+    },
+    {
+      "added_at": "2023-09-29 18:58:26",
+      "album": {
         "name": "6",
         "url": "https://open.spotify.com/album/5T31xBzocjWeu9JDn4Sinj"
       },
@@ -839,22 +855,6 @@
       "duration_ms": 218752,
       "name": "Gemas",
       "url": "https://open.spotify.com/track/67mgOypSh1Xf9VxbLmSfvH"
-    },
-    {
-      "added_at": "2023-09-29 18:58:26",
-      "album": {
-        "name": "Kintsugi",
-        "url": "https://open.spotify.com/album/6CBtxsXQQKQO5jiCpysjMw"
-      },
-      "artists": [
-        {
-          "name": "Pamela Rodriguez",
-          "url": "https://open.spotify.com/artist/0xSlY9GBehjuViqWE1KrMC"
-        }
-      ],
-      "duration_ms": 211491,
-      "name": "Kintsugi",
-      "url": "https://open.spotify.com/track/2kJSKfA6jrrXxqmDZoWLvt"
     }
   ],
   "unique_name": "Entre los Andes",

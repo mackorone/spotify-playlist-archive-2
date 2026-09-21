@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: The Womack Sisters",
-  "num_followers": 1007564,
+  "num_followers": 1007552,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -877,6 +877,22 @@
       "url": "https://open.spotify.com/track/1el1feH98jWUrPpYmu5jN8"
     },
     {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Comin' From Where I'm From",
+        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
+      },
+      "artists": [
+        {
+          "name": "Anthony Hamilton",
+          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
+        }
+      ],
+      "duration_ms": 246773,
+      "name": "Charlene",
+      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
+    },
+    {
       "added_at": "2025-12-12 05:00:38",
       "album": {
         "name": "Summer In December",
@@ -899,22 +915,6 @@
       "duration_ms": 187285,
       "name": "Summer In December",
       "url": "https://open.spotify.com/track/29VTfTnGA0ZW5GbRn1WwVe"
-    },
-    {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Comin' From Where I'm From",
-        "url": "https://open.spotify.com/album/0qN4uk3SGen6vUOjImJ6em"
-      },
-      "artists": [
-        {
-          "name": "Anthony Hamilton",
-          "url": "https://open.spotify.com/artist/2DzRMyWgjuMbYvt5BLbpCo"
-        }
-      ],
-      "duration_ms": 246773,
-      "name": "Charlene",
-      "url": "https://open.spotify.com/track/0xiuSFBOEHWaJ6rSuUbJWc"
     },
     {
       "added_at": "2025-04-21 15:39:41",
@@ -1241,6 +1241,22 @@
       "url": "https://open.spotify.com/track/14VwBAL1qSlG4ovOSYUQF4"
     },
     {
+      "added_at": "2025-03-07 06:27:51",
+      "album": {
+        "name": "Entries",
+        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
+      },
+      "artists": [
+        {
+          "name": "Mack Keane",
+          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
+        }
+      ],
+      "duration_ms": 177573,
+      "name": "Out My Hair",
+      "url": "https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva"
+    },
+    {
       "added_at": "2025-06-27 04:00:46",
       "album": {
         "name": "Flowers",
@@ -1259,22 +1275,6 @@
       "duration_ms": 271573,
       "name": "Really Wanna Be With You",
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
-    },
-    {
-      "added_at": "2025-03-07 06:27:51",
-      "album": {
-        "name": "Entries",
-        "url": "https://open.spotify.com/album/7K9Ac7CpqW0GWCvoNvdMjx"
-      },
-      "artists": [
-        {
-          "name": "Mack Keane",
-          "url": "https://open.spotify.com/artist/7fNI5DhplKeFCErRvzRCVO"
-        }
-      ],
-      "duration_ms": 177573,
-      "name": "Out My Hair",
-      "url": "https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva"
     },
     {
       "added_at": "2025-12-05 07:56:11",
@@ -1685,24 +1685,20 @@
       "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
     },
     {
-      "added_at": "2026-03-20 23:51:54",
+      "added_at": "2025-03-07 06:27:51",
       "album": {
-        "name": "Move",
-        "url": "https://open.spotify.com/album/1BCPjUqJvqEOkF5b7hKULR"
+        "name": "The Hash Brown Demos",
+        "url": "https://open.spotify.com/album/2R6pJlvxvvnUHlqvF5d5Fg"
       },
       "artists": [
         {
-          "name": "Tank and The Bangas",
-          "url": "https://open.spotify.com/artist/5cAtakaadWHJLxmGKrKcX7"
-        },
-        {
-          "name": "Lucky Daye",
-          "url": "https://open.spotify.com/artist/5Vuvs6Py2JRU7WiFDVsI7J"
+          "name": "Aaron Childs",
+          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
         }
       ],
-      "duration_ms": 172933,
-      "name": "Move (feat. Lucky Daye)",
-      "url": "https://open.spotify.com/track/2TkUALJxL9NGx38AIGGquG"
+      "duration_ms": 119791,
+      "name": "Hash Browns",
+      "url": "https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7"
     }
   ],
   "unique_name": "Soulful Day",

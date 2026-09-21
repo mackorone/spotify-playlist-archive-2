@@ -4,7 +4,7 @@
 
 > The perfectly brewed cup, the perfect songs to match\. Your happy place is right here.
 
-498 songs - 1 day 6 hr 14 min
+501 songs - 1 day 6 hr 24 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -143,7 +143,7 @@
 | [Feel It All \(Willow's Song\)](https://open.spotify.com/track/3dX9bqoYbTZkoPK8ngw3rB) | [Brook St](https://open.spotify.com/artist/0XWlE5RXufPoqsxJgzrrfZ) | [Feel It All \(Willow's Song\)](https://open.spotify.com/album/4InqVLJwYKo5wMnaXggF6Z) | 2:59 | 2025-05-05 | 2026-06-02 |
 | [Fine \(feat\. Paul Kelly\)](https://open.spotify.com/track/6MQ2BFdh2Rtn6uYX4NWffi) | [Meg Washington](https://open.spotify.com/artist/5AHMfr68CzfjKxMU7MQAeZ), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Fine \(feat\. Paul Kelly\)](https://open.spotify.com/album/1ZmehdFS3WXShPPt2WMztb) | 4:22 | 2025-08-11 |  |
 | [Fireball Whiskey](https://open.spotify.com/track/4G2EXo1ZY5ql0XcViRrXF6) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Fireball Whiskey](https://open.spotify.com/album/54He2QNHwh79iYkkgAfQTO) | 3:29 | 2023-09-22 | 2024-02-17 |
-| [First Breath](https://open.spotify.com/track/318w7tTXrLWyNBFokyumUh) | [Tully John & Liza\-Jane](https://open.spotify.com/artist/1hENmUFTXkckLPb7sF16nV) | [First Breath](https://open.spotify.com/album/5BM8EIcNMdIpzd5of7jR7Q) | 6:11 | 2024-10-21 |  |
+| [First Breath](https://open.spotify.com/track/318w7tTXrLWyNBFokyumUh) | [Tully John & Liza\-Jane](https://open.spotify.com/artist/1hENmUFTXkckLPb7sF16nV) | [First Breath](https://open.spotify.com/album/5BM8EIcNMdIpzd5of7jR7Q) | 6:11 | 2024-10-21 | 2026-09-21 |
 | [Fleeting](https://open.spotify.com/track/14Dbj4bqFTu3AfIACMaf4V) | [Heath Lancaster](https://open.spotify.com/artist/68TOnnspagXYYpJH35qMeU) | [Fleeting](https://open.spotify.com/album/6rPPRIOeC5Jfw7Mxx5rKf6) | 2:53 | 2025-08-25 |  |
 | [Flicker](https://open.spotify.com/track/6IKIBXhk00Fjw3FnThgcLB) | [Jack Botts](https://open.spotify.com/artist/4VeyhwBUfsaWMkQ2Ld8QNl) | [Flicker](https://open.spotify.com/album/2b1jvG1C9t49L6toD1k9RX) | 3:14 | 2025-04-22 |  |
 | [Follow](https://open.spotify.com/track/47NgbR06AR35k3toFdfbdJ) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Follow](https://open.spotify.com/album/67nebtIbhaxi5rOqfA6mSM) | 4:26 | 2025-08-11 |  |
@@ -194,6 +194,7 @@
 | [Hold Your Hair](https://open.spotify.com/track/3JPvjupgTUmtJiNL5WJrQw) | [Timothy Nelson](https://open.spotify.com/artist/4TpiiLJXJUpNjdBYvZB3vq) | [Hold Your Hair](https://open.spotify.com/album/1VcTJTrnbPrDnEFQfqOoer) | 3:02 | 2024-08-26 | 2026-06-02 |
 | [Holding on to You](https://open.spotify.com/track/05hZle1qjV2Hu10Y85fhbv) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Holding on to You](https://open.spotify.com/album/2aog2gZCOAc2tZGFtrVSAE) | 3:33 | 2022-03-25 | 2022-07-29 |
 | [Holding on to You](https://open.spotify.com/track/2XbGCUjNjQgJPMO1QbMp5a) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [hemispheres](https://open.spotify.com/album/7xRQ2OolSyln0FHE6sPAJC) | 3:33 | 2022-06-17 | 2022-10-11 |
+| [Holy Water](https://open.spotify.com/track/5ZgSjcbX3EPbYszNBPvUHz) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Holy Water](https://open.spotify.com/album/7nhmuSa4VnloZWAQhKCmtn) | 4:24 | 2026-09-20 |  |
 | [Home In Sight](https://open.spotify.com/track/6HLCqZoCfqwsRHF3oyFiKr) | [Dustin Tebbutt](https://open.spotify.com/artist/0z9hynUsIjf0ddI4uHqPWX) | [Home In Sight](https://open.spotify.com/album/0HP1O8L1X6qfbqmyypB7hE) | 3:17 | 2024-11-04 |  |
 | [Home To Me](https://open.spotify.com/track/2CQeLwGc9a6ns2QZO3l5Pw) | [Pete Murray](https://open.spotify.com/artist/1qAMxE8YRo3KREMiKiyUkV) | [Home To Me](https://open.spotify.com/album/7HD0Q0832lldGZStiz2emp) | 3:06 | 2025-06-16 |  |
 | [Homecoming Queen](https://open.spotify.com/track/28grzRrS5csyaI4uK98IX0) | [Thelma Plum](https://open.spotify.com/artist/0C6qzW0Am8OVyHSoT57fnC) | [Better in Blak](https://open.spotify.com/album/0QuumkXPKBWR7wOKUfqQ34) | 3:51 | 2022-03-25 | 2024-04-03 |
@@ -364,6 +365,7 @@
 | [Sing Again](https://open.spotify.com/track/1bBMw1189Tzc5ZvnSKoTjB) | [Bjéar](https://open.spotify.com/artist/0xIsWKGGU3QjOvNp3l4jmo) | [Sing Again](https://open.spotify.com/album/08kkoRvQj3GGTfvoemqscd) | 3:03 | 2025-12-01 | 2026-04-21 |
 | [Sing You Over](https://open.spotify.com/track/2Y8AaP02pXtMQv2lEYVU5q) | [Emma Donovan](https://open.spotify.com/artist/1zq7VkmDHaXYNCqnNeJvLs), [Paul Kelly](https://open.spotify.com/artist/0SNWoGaDlrCompmg9rXeNq) | [Til My Song Is Done](https://open.spotify.com/album/4ehpNVjWt1whzayDrZrbDc) | 4:27 | 2024-04-18 | 2024-09-10 |
 | [Siren](https://open.spotify.com/track/0qNtQH5ocN5Md4DoqVU0JS) | [Andy Golledge](https://open.spotify.com/artist/74S6Bn5KTUQMqlVOVlTVxh) | [Young, Dumb & Wild](https://open.spotify.com/album/2EoVN0G04GgBVH1s1bXsPR) | 5:16 | 2024-04-18 | 2025-04-08 |
+| [Sleeping on the Drive Home](https://open.spotify.com/track/2mF218nFwslVPJILDBWLyB) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Sleeping on the Drive Home](https://open.spotify.com/album/4ltm59CGDx8APujNPcXJkf) | 2:37 | 2026-09-20 |  |
 | [Slow Dance](https://open.spotify.com/track/19FN9XMzoNaieMssN8UZYT) | [Dusty Boots](https://open.spotify.com/artist/4f7aac6rSCC2VopLH049zY) | [Slow Dance](https://open.spotify.com/album/5eiPx3v6B68i0ftfdpey9v) | 3:48 | 2025-02-25 |  |
 | [Slow Down](https://open.spotify.com/track/7g2trGGJHZA2nuoe4FECXI) | [Tom Young](https://open.spotify.com/artist/1gfNCdLAafJ4qClUVMsnYI) | [Slow Down/Brother Pt\. 2](https://open.spotify.com/album/6hKSCcjNNIPVJLdp0cNiVa) | 3:37 | 2024-03-07 | 2024-06-19 |
 | [Small Enough](https://open.spotify.com/track/6tdjd2bhX43k5svZfymkDR) | [Tiny Habits](https://open.spotify.com/artist/2QYdqWGgRorVkA8cJMMdrn) | [Small Enough](https://open.spotify.com/album/7lQGdUNm0dB2u5d1oD7Os9) | 3:32 | 2024-02-16 | 2024-05-17 |
@@ -372,6 +374,7 @@
 | [Smokescreen \(Shadow King\)](https://open.spotify.com/track/5fzy0HA5eA78owy1Tk0Fo7) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [Smokescreen \(Shadow King\)](https://open.spotify.com/album/7o9byyS21lszKBYZ3X0h4U) | 3:29 | 2024-08-26 | 2025-09-23 |
 | [Solitaire \(for Madi\)](https://open.spotify.com/track/4ctqa7c5W5pUzfSWa9vAAN) | [Ben Abraham](https://open.spotify.com/artist/3FfbgiZhcCkoiI7IzOwXlI) | [Portraits](https://open.spotify.com/album/1I7eDiRLvNzAWqgMl1Wux3) | 2:44 | 2026-05-18 |  |
 | [Some Things Distinct & Some Things Whole](https://open.spotify.com/track/35yUrXoiylgFOca4BZzV7E) | [Hayden Calnin](https://open.spotify.com/artist/19OAtq7pNHnBRKJORFeahx) | [Some Things Distinct & Some Things Whole](https://open.spotify.com/album/02n2TUl1uJvtVb16eup0jS) | 3:55 | 2025-06-16 | 2025-09-09 |
+| [Someday](https://open.spotify.com/track/5L8rxFzRbcFshJ0e8pmAIB) | [JP Saxe](https://open.spotify.com/artist/66W9LaWS0DPdL7Sz8iYGYe) | [Someday](https://open.spotify.com/album/6eVxuJTo3x3Fa9BmsPMMEt) | 3:02 | 2026-09-20 |  |
 | [Something in the Room She Moves](https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 6:18 | 2024-03-21 | 2024-06-27 |
 | [Soon](https://open.spotify.com/track/18uI37pTOz9tfk3U4jB8ci) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/2ALvcYeRWEyQ5CMh0OtMcY) | 3:43 | 2022-06-17 | 2023-09-23 |
 | [Soon](https://open.spotify.com/track/3izeCMlmVjsqXIBFsviH5S) | [Angie McMahon](https://open.spotify.com/artist/574ERIqzZ5yZU9JhIf3Ysf) | [Salt](https://open.spotify.com/album/1Vf4te9cU9xMI0NEHdZIau) | 3:43 | 2022-03-25 | 2022-07-29 |
@@ -498,12 +501,12 @@
 | [Worst Enemy](https://open.spotify.com/track/69cxJ0icjfraIvM5OF5jEc) | [Hein Cooper](https://open.spotify.com/artist/75Cb1lVnzQa6mPaJA16Ho0) | [Worst Enemy](https://open.spotify.com/album/7jZKMhMO2DUDIu12QpG6Yo) | 3:25 | 2024-04-11 | 2024-09-03 |
 | [Wristwatch](https://open.spotify.com/track/7JOD18T9PdxSSOhuxPt1N6) | [Husky](https://open.spotify.com/artist/47nuMLurQsLP1gLK7gJtis) | [Wristwatch](https://open.spotify.com/album/0uf7iKIwg6gLgsI4Tm8ZLf) | 3:59 | 2022-03-25 | 2023-05-10 |
 | [You & We](https://open.spotify.com/track/5MD0n5OdhzQE8TGbGO0n7c) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Against The Dying Of The Light](https://open.spotify.com/album/46XdK0AK5PmeummJN5fB6W) | 4:28 | 2026-04-08 |  |
-| [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 | 2024-09-22 |  |
+| [You \(feat\. Hermanos Gutiérrez\)](https://open.spotify.com/track/3r14cTnRNBAXpYfRorUFa7) | [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV), [Hermanos Gutiérrez](https://open.spotify.com/artist/73mSg0dykFyhvU96tb5xQV) | [You](https://open.spotify.com/album/6S6kcUY7R7rzpxzcIMUzMd) | 3:26 | 2024-09-22 | 2026-09-21 |
 | [You Don't Lie](https://open.spotify.com/track/6xN2yS7wTE2e96QhzdcE3m) | [BEXY](https://open.spotify.com/artist/4TQghEqEIHPNw2xDSSqnpP) | [You Don't Lie](https://open.spotify.com/album/4O3lQgL9djTK1aEVzXLvwS) | 3:41 | 2022-03-25 | 2024-03-01 |
 | [You Don’t](https://open.spotify.com/track/4wxBy0t4F83qVAiHahe6kW) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [You Don’t](https://open.spotify.com/album/35cLRFjBHzSSAEKyacty64) | 3:43 | 2024-04-18 | 2024-12-10 |
 | [You Lucky One](https://open.spotify.com/track/4hLJcpz3p66r7HkpmpE43l) | [Villagers](https://open.spotify.com/artist/2m1l9MLSslzup4vvokKgvQ) | [You Lucky One](https://open.spotify.com/album/6y56Tcg6amPU1fPnf4ndbF) | 4:54 | 2024-03-14 | 2024-05-24 |
 | [You Make Me So Mad \- B\-Side](https://open.spotify.com/track/2ysZa18IyDW6q9uT2T7OLI) | [Gabriella Cohen](https://open.spotify.com/artist/1akKMgG2tm6Wgx83VmBSMy) | [You Make Me So Mad \(B\-Side\)](https://open.spotify.com/album/5tfzid1KYeJ8REiwkRiGLF) | 4:05 | 2024-04-02 | 2024-07-13 |
-| [You Were There](https://open.spotify.com/track/5UT4Kb2glnF5IS7rEu48wN) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Whenever I Go](https://open.spotify.com/album/7sX23NUtAyg82G2H7hX91R) | 2:50 | 2026-02-23 |  |
+| [You Were There](https://open.spotify.com/track/5UT4Kb2glnF5IS7rEu48wN) | [Garrett Kato](https://open.spotify.com/artist/4S3VOqqGguEZu3vbJMig4t) | [Whenever I Go](https://open.spotify.com/album/7sX23NUtAyg82G2H7hX91R) | 2:50 | 2026-02-23 | 2026-09-21 |
 | [You're Somebody Else](https://open.spotify.com/track/0pdKRp2sUthTPe7RLWpPqQ) | [flora cash](https://open.spotify.com/artist/6GpcBKNmZDIrRzYkPJu7Wd) | [You're Somebody Else](https://open.spotify.com/album/5BuS8meOLEcgGpdPPZfSgC) | 3:38 | 2022-03-25 | 2024-05-24 |
 | [Young & Green](https://open.spotify.com/track/5XV0jYzNnJDnmL2jn8R8Ek) | [Joely](https://open.spotify.com/artist/7mYSAs4oBqRlShTTVkNnxg) | [Young & Green](https://open.spotify.com/album/68ksDVafcSKhaKllSXXBAf) | 4:00 | 2026-02-23 |  |
 

@@ -1,6 +1,6 @@
 {
   "description": "\u00a1Ay Jalisco no te rajes! As\u00ed suena la Perla de Occidente.",
-  "num_followers": 131353,
+  "num_followers": 131347,
   "original_name": "Coraz\u00f3n Tapat\u00edo",
   "owner": {
     "name": "Spotify",
@@ -831,22 +831,18 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Lumbares",
-        "url": "https://open.spotify.com/album/50uTJZJwNQtZURKqy0Tqwx"
+        "name": "Electrodom\u00e9stico",
+        "url": "https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp"
       },
       "artists": [
         {
-          "name": "Sabino",
-          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
-        },
-        {
-          "name": "Bandalos Chinos",
-          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
+          "name": "Telefunka",
+          "url": "https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm"
         }
       ],
-      "duration_ms": 202542,
-      "name": "Lumbares",
-      "url": "https://open.spotify.com/track/4tmysdLhoRXXi7jfq7Ke7i"
+      "duration_ms": 274440,
+      "name": "Zenit",
+      "url": "https://open.spotify.com/track/0xPSN1e1sH9hALJBN7TnBi"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -867,18 +863,22 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "Electrodom\u00e9stico",
-        "url": "https://open.spotify.com/album/05sgvH47IC8I8ok8ZQXUtp"
+        "name": "Lumbares",
+        "url": "https://open.spotify.com/album/50uTJZJwNQtZURKqy0Tqwx"
       },
       "artists": [
         {
-          "name": "Telefunka",
-          "url": "https://open.spotify.com/artist/1bXOJUefXiubpe3686KYFm"
+          "name": "Sabino",
+          "url": "https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy"
+        },
+        {
+          "name": "Bandalos Chinos",
+          "url": "https://open.spotify.com/artist/0wn2qDKzeFlhjRUtJAwJjp"
         }
       ],
-      "duration_ms": 274440,
-      "name": "Zenit",
-      "url": "https://open.spotify.com/track/0xPSN1e1sH9hALJBN7TnBi"
+      "duration_ms": 202542,
+      "name": "Lumbares",
+      "url": "https://open.spotify.com/track/4tmysdLhoRXXi7jfq7Ke7i"
     },
     {
       "added_at": "2026-06-08 22:39:48",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-06-08 22:39:48",
       "album": {
-        "name": "M\u00fasica de America",
-        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
-      },
-      "artists": [
-        {
-          "name": "Mariachi Vargas De Tecalitl\u00e1n",
-          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
-        }
-      ],
-      "duration_ms": 187040,
-      "name": "Tecalitl\u00e1n",
-      "url": "https://open.spotify.com/track/1HNSDDyd03NzyopKAMjkU0"
-    },
-    {
-      "added_at": "2026-06-08 22:39:48",
-      "album": {
         "name": "Rock En Espa\u00f1ol - Lo Mejor De Cuca",
         "url": "https://open.spotify.com/album/08zGkegYfFHnM4trm489QN"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 225773,
       "name": "Todo Con Exceso",
       "url": "https://open.spotify.com/track/7GoWrG8SMUgNQOK5P7gyFX"
+    },
+    {
+      "added_at": "2026-06-08 22:39:48",
+      "album": {
+        "name": "M\u00fasica de America",
+        "url": "https://open.spotify.com/album/3NoSCNr4O7hKlpibE7HiRR"
+      },
+      "artists": [
+        {
+          "name": "Mariachi Vargas De Tecalitl\u00e1n",
+          "url": "https://open.spotify.com/artist/0JTujDbHVqhWAGl06aaW78"
+        }
+      ],
+      "duration_ms": 187040,
+      "name": "Tecalitl\u00e1n",
+      "url": "https://open.spotify.com/track/1HNSDDyd03NzyopKAMjkU0"
     },
     {
       "added_at": "2026-06-08 22:39:48",

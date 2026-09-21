@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd0uyASpbU8w.md) - [plain]
 
 > New music from Zwide, Miley Cyrus, Digital Maskandi, Fireboy DML with JAZZWRLD & Thukutela, TEEKS and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 191,422 likes - 83 songs - 5 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 191,455 likes - 83 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

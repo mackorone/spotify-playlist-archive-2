@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 
 > Música que te hará suspirar como en aquellos años dorados\. Los Panchos en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 371,732 likes - 100 songs - 4 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 371,765 likes - 100 songs - 4 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 13 | [Toda Una Vida](https://open.spotify.com/track/1ter8c0ngrbC23lfKLrCan) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Boleros De Los Panchos, Vol\. 2](https://open.spotify.com/album/1ubW9KMjzTp6Hyz9VTeniU) | 2:40 |
 | 14 | [Embrujo](https://open.spotify.com/track/32xpnvh67XUNcjh0iW0dj6) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Consentida Y Otros Exitos](https://open.spotify.com/album/6TaghakmbT1QLgzoatmg4Y) | 3:11 |
 | 15 | [Cerca del Mar](https://open.spotify.com/track/0GJ21yUwVykIrHfCzkcXDv) | [Los Dandys](https://open.spotify.com/artist/1orbu8WOc4EtKxQsfNNEZK) | [Coleccion Original](https://open.spotify.com/album/0OwOpYYCXo04N5VMQEaXuJ) | 2:55 |
-| 16 | [Loca Pasión](https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ) | [Los Jaibos](https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey) | [Loca Pasión](https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh) | 2:51 |
-| 17 | [La Copa Rota](https://open.spotify.com/track/0RGST5XWJhxHAsUnbbsq3p) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E) | 2:56 |
+| 16 | [La Copa Rota](https://open.spotify.com/track/0RGST5XWJhxHAsUnbbsq3p) | [Alci Acosta](https://open.spotify.com/artist/3CoaObestry7i9joSvJ2hK) | [30 Mejores: Alci Acosta](https://open.spotify.com/album/1NdnBLYZy9ZtgzPbyxdM5E) | 2:56 |
+| 17 | [Loca Pasión](https://open.spotify.com/track/2b1gRJ1CUtNN3TGThFo1GJ) | [Los Jaibos](https://open.spotify.com/artist/02zZvwbbma78yTdQ1p2tey) | [Loca Pasión](https://open.spotify.com/album/4WVQo2AHNUJ9L0qUfYosjh) | 2:51 |
 | 18 | [Contigo \- Tema Remasterizado](https://open.spotify.com/track/6qvpcGNIOMkim3TZqvGhC6) | [Los Panchos](https://open.spotify.com/artist/3Ker27Wbb9OcUHGs54JIAz) | [Leyendas Solamente Los Mejores](https://open.spotify.com/album/4R4CFtjXHrWFLKYaMs05lC) | 2:51 |
 | 19 | [Usted](https://open.spotify.com/track/1Wt3vmlSvvdyjeizfXsyrg) | [Los Tres Diamantes](https://open.spotify.com/artist/1xw1uyV0tzUHU2d850PAH1) | [Usted](https://open.spotify.com/album/7fTMdHlOrYglm01YcdOMig) | 3:16 |
 | 20 | [Amor Perdido](https://open.spotify.com/track/2KwLC9vs5lZa8NDZUkMlem) | [Maria Luisa Landin](https://open.spotify.com/artist/6xwRfnFKMKRoHL8LuLNBpf) | [Orquideas Vocales](https://open.spotify.com/album/6D7ViPhYqbcigiIgF3c5fK) | 3:15 |
@@ -105,8 +105,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2QXdeI8K6lP.md) - [plain]
 | 95 | [Voy Gritando Por La Calle](https://open.spotify.com/track/1N8bDOEWUwfZZ9X2GbwGI3) | [Hermanos Martinez Gil](https://open.spotify.com/artist/28L8txPUafzgMa9HllGtlv) | [Tríos Del Mundo : 40 Éxitos](https://open.spotify.com/album/4qDMttlrhBPyHKgHgyBHwg) | 2:52 |
 | 96 | [Europa \- Mariachi Bolero Cover](https://open.spotify.com/track/1NZCXBfmaaLbRllblMJZwG) | [Byron Brizz](https://open.spotify.com/artist/0PGmoSulvyPVKHDWyyMClJ) | [Mi Corazón](https://open.spotify.com/album/5gtBGtcKdMmJNNrVAMoLrI) | 2:57 |
 | 97 | [Como Las Olas](https://open.spotify.com/track/6p9wx5wdrm8a3xNp2kuxJY) | [Antonio Garcia Isaac](https://open.spotify.com/artist/7IH9NOjltyAfO5HsuAt9W3), [Roberto Aguilar](https://open.spotify.com/artist/454zFQhX3rYP52yNgyJWCV), [Felipe Gutierrez](https://open.spotify.com/artist/5X4o2CQ9BuNOpWss1sYI4c) | [Trios](https://open.spotify.com/album/5uJX8PvDhVkPlUhfbMr4XT) | 2:51 |
-| 98 | [Mil Violines](https://open.spotify.com/track/3t0WdkqETzUtNKDhwWvY3Q) | [Trío Divina Ilusión](https://open.spotify.com/artist/27iQEbqpjdY8TGV1zaXEa8) | [50 Exitos del Fonógrafo y Sus Recuerdos](https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs) | 3:16 |
-| 99 | [Son De La Loma](https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC) | [Trio Caribe](https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX) | [15 Canciones Inolvidables Con el Trío Caribe](https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS) | 2:45 |
+| 98 | [Son De La Loma](https://open.spotify.com/track/1umrO9ESPYuR784cEcBozC) | [Trio Caribe](https://open.spotify.com/artist/4EgqvMFFAoQ88bgyO8QwBX) | [15 Canciones Inolvidables Con el Trío Caribe](https://open.spotify.com/album/3wjm1KZHtMY7rP7GSMssoS) | 2:45 |
+| 99 | [Mil Violines](https://open.spotify.com/track/3t0WdkqETzUtNKDhwWvY3Q) | [Trío Divina Ilusión](https://open.spotify.com/artist/27iQEbqpjdY8TGV1zaXEa8) | [50 Exitos del Fonógrafo y Sus Recuerdos](https://open.spotify.com/album/4H24ZDNXB6gqEzV028vtFs) | 3:16 |
 | 100 | [No Me Quieras Tanto \(Bolero\)](https://open.spotify.com/track/427gTQ1L5cTv9OtKNC13aE) | [Hernando Avilés](https://open.spotify.com/artist/1qIqCjFr9BRIsxiKPWWHeV), [Los Tres Reyes](https://open.spotify.com/artist/6QZS9lcGeckgZNy0PN7R7u) | [Una Copa Más](https://open.spotify.com/album/51If9keVmTRGDzOZ6npnky) | 2:58 |
 
 Snapshot ID: `AAAAAPuvwoS2S2/GJhLe3v5EIi5SFUoW`

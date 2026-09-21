@@ -2052,7 +2052,7 @@
       ],
       "date_added": "2021-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 201866,
       "name": "Rainy Day Song",
       "url": "https://open.spotify.com/track/0Wn5iTOKfn86p7LKLMKeA4"
@@ -2678,6 +2678,24 @@
       "duration_ms": 152480,
       "name": "The Dress Looks Nice on You",
       "url": "https://open.spotify.com/track/74DrpM6tAWvcMu6Uxko9xb"
+    },
+    {
+      "album": {
+        "name": "Scavenger's Instinct",
+        "url": "https://open.spotify.com/album/76xXK6vt7zqqvxTF4ADx9v"
+      },
+      "artists": [
+        {
+          "name": "jed and the valentine",
+          "url": "https://open.spotify.com/artist/7H4OVhyKr2lE5XWyLJa6Gs"
+        }
+      ],
+      "date_added": "2026-09-18",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210513,
+      "name": "The Forgiving Tree",
+      "url": "https://open.spotify.com/track/0wnQoR7QyTrfy7LwyO03fT"
     },
     {
       "album": {

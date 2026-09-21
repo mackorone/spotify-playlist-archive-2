@@ -2924,7 +2924,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 149934,
       "name": "Battleground",
       "url": "https://open.spotify.com/track/1py6E8WMoKcoYhUD1wcqWn"
@@ -8472,7 +8472,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 155873,
       "name": "Dashboard",
       "url": "https://open.spotify.com/track/5isAlYnKSzHCJXpi5dC2I4"
@@ -9506,7 +9506,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 254906,
       "name": "Disco Brawl",
       "url": "https://open.spotify.com/track/2FQoq4k4jetvgGjettxjrG"
@@ -15173,6 +15173,28 @@
     },
     {
       "album": {
+        "name": "Growing Up",
+        "url": "https://open.spotify.com/album/70TwQ2MHvpxw5POIn67l8N"
+      },
+      "artists": [
+        {
+          "name": "Feather",
+          "url": "https://open.spotify.com/artist/0ouPTYWjHfprRwZH76ivWi"
+        },
+        {
+          "name": "Bo Weber",
+          "url": "https://open.spotify.com/artist/1NzEiFsh3CMVDNjahLbv78"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214588,
+      "name": "Growing Up",
+      "url": "https://open.spotify.com/track/0SFYFAAkzjKXYhi0EjPn4g"
+    },
+    {
+      "album": {
         "name": "Grown Up",
         "url": "https://open.spotify.com/album/3jDQljn8CzAVOMZVdc7dlh"
       },
@@ -16720,7 +16742,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 200694,
       "name": "How 'Bout That",
       "url": "https://open.spotify.com/track/4ztat06aJ5UIE1TbEfpaiT"
@@ -21364,7 +21386,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 156000,
       "name": "Lost in you",
       "url": "https://open.spotify.com/track/71qWqk3oJK9bUH2WGDy0At"
@@ -22070,7 +22092,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 249960,
       "name": "March from Dawn to Dusk",
       "url": "https://open.spotify.com/track/3gO81cXATJDg1JaudaX1Lw"
@@ -23942,6 +23964,24 @@
       "duration_ms": 164279,
       "name": "Nastasia",
       "url": "https://open.spotify.com/track/3bHOcdI7MAPBLkRg5uRQSH"
+    },
+    {
+      "album": {
+        "name": "Nasty",
+        "url": "https://open.spotify.com/album/0wRJVSBhE5c07BUVZfIv54"
+      },
+      "artists": [
+        {
+          "name": "Beverage of the Wise",
+          "url": "https://open.spotify.com/artist/6mqyEcGoC8Ha5OP0YTwiL8"
+        }
+      ],
+      "date_added": "2026-09-20",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 281081,
+      "name": "Nasty",
+      "url": "https://open.spotify.com/track/0gkH4bLRGWq2xTWCeQ786o"
     },
     {
       "album": {
@@ -27828,7 +27868,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 265679,
       "name": "Pretty Hate",
       "url": "https://open.spotify.com/track/4Eyi5Y1AMrVlQYcBDhN0XW"
@@ -29848,7 +29888,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 199862,
       "name": "Same Story",
       "url": "https://open.spotify.com/track/3UXT3RSObuFUtTzMXp4rP4"
@@ -31910,7 +31950,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 216016,
       "name": "Slipping",
       "url": "https://open.spotify.com/track/7KxpUh8fkifsppmGXQW3Ae"
@@ -33748,7 +33788,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 202838,
       "name": "Stormchaser",
       "url": "https://open.spotify.com/track/3eq2ey23j8ktMHJOConETO"

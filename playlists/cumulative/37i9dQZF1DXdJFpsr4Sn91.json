@@ -9206,7 +9206,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-21",
       "duration_ms": 190026,
       "name": "Kaikki k\u00e4\u00e4ntyy",
       "url": "https://open.spotify.com/track/1CISnkyR74RqSFjayPsvBE"
@@ -16138,6 +16138,28 @@
       "duration_ms": 148857,
       "name": "Pikkusisko",
       "url": "https://open.spotify.com/track/7bvo1ROEUrrwtYZnVJOyHz"
+    },
+    {
+      "album": {
+        "name": "Pilvenpiirt\u00e4j\u00e4t",
+        "url": "https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk"
+      },
+      "artists": [
+        {
+          "name": "Ruletti",
+          "url": "https://open.spotify.com/artist/4gwwt7saKvdjebQgIHRyaC"
+        },
+        {
+          "name": "Melissa",
+          "url": "https://open.spotify.com/artist/2Ad6Z1GThSF2pyR0A4HKLn"
+        }
+      ],
+      "date_added": "2026-09-17",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213934,
+      "name": "Pilvenpiirt\u00e4j\u00e4t",
+      "url": "https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag"
     },
     {
       "album": {

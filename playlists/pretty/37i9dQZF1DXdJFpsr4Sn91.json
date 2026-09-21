@@ -1,6 +1,6 @@
 {
   "description": "Nousussa olevat hitit. \ud83c\udf2a\ufe0f ",
-  "num_followers": 59553,
+  "num_followers": 59550,
   "original_name": "Nousussa",
   "owner": {
     "name": "Spotify",
@@ -535,6 +535,22 @@
     {
       "added_at": "2026-09-17 21:00:19",
       "album": {
+        "name": "Toiveuusintoja",
+        "url": "https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB"
+      },
+      "artists": [
+        {
+          "name": "Edicti",
+          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
+        }
+      ],
+      "duration_ms": 172344,
+      "name": "Viimeinen kausi",
+      "url": "https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00"
+    },
+    {
+      "added_at": "2026-09-17 21:00:19",
+      "album": {
         "name": "Vaan yks sin\u00e4",
         "url": "https://open.spotify.com/album/3SItL7nVnnJwBE2IHdlnEH"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 205346,
       "name": "Et\u00e4rakastaa",
       "url": "https://open.spotify.com/track/52ZKKXMog4cw5wgGpXKyJa"
-    },
-    {
-      "added_at": "2026-09-17 21:00:19",
-      "album": {
-        "name": "Toiveuusintoja",
-        "url": "https://open.spotify.com/album/5KzDCx4IE2Sp6a8IrKg3vB"
-      },
-      "artists": [
-        {
-          "name": "Edicti",
-          "url": "https://open.spotify.com/artist/5sYAbWJ14L78hv98klUjqS"
-        }
-      ],
-      "duration_ms": 172344,
-      "name": "Viimeinen kausi",
-      "url": "https://open.spotify.com/track/3ZqhLmHpZVi4SVd2dvjL00"
     },
     {
       "added_at": "2026-09-17 21:00:19",
@@ -775,26 +775,6 @@
     {
       "added_at": "2026-09-17 21:00:19",
       "album": {
-        "name": "The Weight of the World",
-        "url": "https://open.spotify.com/album/5H4WGT38QDnxQH5OSJSHi8"
-      },
-      "artists": [
-        {
-          "name": "Erika Sirola",
-          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
-        },
-        {
-          "name": "Murrettumeri",
-          "url": "https://open.spotify.com/artist/7pj9SdwRTID3M56shFkzy1"
-        }
-      ],
-      "duration_ms": 247700,
-      "name": "The Weight of the World",
-      "url": "https://open.spotify.com/track/7n61Rue9o6zC0ktHSAErZV"
-    },
-    {
-      "added_at": "2026-09-17 21:00:19",
-      "album": {
         "name": "Bailebella",
         "url": "https://open.spotify.com/album/2xOkAkqFeS3U7Q62RUzCyu"
       },
@@ -827,6 +807,46 @@
     {
       "added_at": "2026-09-17 21:00:19",
       "album": {
+        "name": "The Weight of the World",
+        "url": "https://open.spotify.com/album/5H4WGT38QDnxQH5OSJSHi8"
+      },
+      "artists": [
+        {
+          "name": "Erika Sirola",
+          "url": "https://open.spotify.com/artist/1OHw2r7Diz2rc9JktaFV6N"
+        },
+        {
+          "name": "Murrettumeri",
+          "url": "https://open.spotify.com/artist/7pj9SdwRTID3M56shFkzy1"
+        }
+      ],
+      "duration_ms": 247700,
+      "name": "The Weight of the World",
+      "url": "https://open.spotify.com/track/7n61Rue9o6zC0ktHSAErZV"
+    },
+    {
+      "added_at": "2026-09-17 21:00:19",
+      "album": {
+        "name": "Pilvenpiirt\u00e4j\u00e4t",
+        "url": "https://open.spotify.com/album/5sWMhpLwiIa2mnzEGRv9bk"
+      },
+      "artists": [
+        {
+          "name": "Ruletti",
+          "url": "https://open.spotify.com/artist/4gwwt7saKvdjebQgIHRyaC"
+        },
+        {
+          "name": "Melissa",
+          "url": "https://open.spotify.com/artist/2Ad6Z1GThSF2pyR0A4HKLn"
+        }
+      ],
+      "duration_ms": 213934,
+      "name": "Pilvenpiirt\u00e4j\u00e4t",
+      "url": "https://open.spotify.com/track/73I9BEWL543fECv8svC4Ag"
+    },
+    {
+      "added_at": "2026-09-17 21:00:19",
+      "album": {
         "name": "DM",
         "url": "https://open.spotify.com/album/0aiIlgIS4A7nb90GVERKwo"
       },
@@ -839,30 +859,6 @@
       "duration_ms": 196779,
       "name": "DM",
       "url": "https://open.spotify.com/track/1PJoJPFAgO9W0xfCpxaG3D"
-    },
-    {
-      "added_at": "2026-09-17 21:00:19",
-      "album": {
-        "name": "Kaikki k\u00e4\u00e4ntyy",
-        "url": "https://open.spotify.com/album/2VBHyZRJQwZP0rlaWSE5PB"
-      },
-      "artists": [
-        {
-          "name": "HYRYSYSY",
-          "url": "https://open.spotify.com/artist/4iV4diBjgL2goSde1Vz00H"
-        },
-        {
-          "name": "Orvokki",
-          "url": "https://open.spotify.com/artist/2hIwNfBlBynlhicFEDBk7e"
-        },
-        {
-          "name": "mc vatkain",
-          "url": "https://open.spotify.com/artist/3S5Upi9G1QoUGz4T6qp0qP"
-        }
-      ],
-      "duration_ms": 190026,
-      "name": "Kaikki k\u00e4\u00e4ntyy",
-      "url": "https://open.spotify.com/track/1CISnkyR74RqSFjayPsvBE"
     }
   ],
   "unique_name": "Nousussa",

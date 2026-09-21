@@ -4,7 +4,7 @@
 
 > mykonos season is here.
 
-120 songs - 6 hr 48 min
+121 songs - 6 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -40,7 +40,7 @@
 | [Famax](https://open.spotify.com/track/2xpeEb2moFy7dRinc7tUnz) | [RAFFA GUIDO](https://open.spotify.com/artist/5zvKbKHQcyZFvTYADnEkTQ) | [Famax](https://open.spotify.com/album/0rVRPH9VaGAMVDVK3cLwkQ) | 5:35 | 2026-08-02 |  |
 | [Feel](https://open.spotify.com/track/4g4Qv1Ya8Yw4lrjSt1LlBJ) | [LP Giobbi](https://open.spotify.com/artist/3oKnyRhYWzNsTiss5n4Z1J), [Jacob Banks](https://open.spotify.com/artist/0AepkoQhYvkjEzzwIcGxdV) | [Dotr](https://open.spotify.com/album/4XyaObpQDL61LtLerqAeHx) | 3:39 | 2026-08-02 |  |
 | [Feel Alive](https://open.spotify.com/track/7yL7PZWz44aqp4p3w0hU4O) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [ØSHER](https://open.spotify.com/artist/5OmX3jeOx2EpkjEabKB8ao), [Ovadia](https://open.spotify.com/artist/4si1CRQee3VJsckWrIkO7y) | [NEWORLD II](https://open.spotify.com/album/3MsGUzi6KydfvhUYVZBQhK) | 2:42 | 2026-08-02 |  |
-| [Fell In Luv \- Black Circle Remix](https://open.spotify.com/track/7eRsnszGZ5V170AbcpDQNa) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Fell In Luv \(Black Circle Remix\)](https://open.spotify.com/album/5mSTBF7H7F6qYO5GdPkU0E) | 4:21 | 2026-08-27 |  |
+| [Fell In Luv \- Black Circle Remix](https://open.spotify.com/track/7eRsnszGZ5V170AbcpDQNa) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [Calussa](https://open.spotify.com/artist/0BlAuudg3BELkqP2nONKSW), [Black Circle](https://open.spotify.com/artist/3f9ttFig9YeqVKerYRPX1M) | [Fell In Luv \(Black Circle Remix\)](https://open.spotify.com/album/5mSTBF7H7F6qYO5GdPkU0E) | 4:21 | 2026-08-27 | 2026-09-21 |
 | [Fire Fire](https://open.spotify.com/track/35dt2bP4CcBzepyufQbvYZ) | [Shimza](https://open.spotify.com/artist/0WHbjg8hVel1R9kq5794HX), [AR/CO](https://open.spotify.com/artist/7mGI9Sd66FqHjIkwzkgbG7), [Kasango](https://open.spotify.com/artist/3jteNJj8zf2v4qYMGDXa8r) | [Fire Fire](https://open.spotify.com/album/7rIqdKsiVJ2ZAHtxFJm6jf) | 2:30 | 2026-08-02 |  |
 | [Forever](https://open.spotify.com/track/32GOfiLnbER2VOOxJkg29P) | [ZULAN](https://open.spotify.com/artist/2Yz9F5lQVc0p6SDxkw2BvF) | [Forever](https://open.spotify.com/album/7cXPqivcSwwoWsx29zT6lq) | 2:39 | 2026-08-02 |  |
 | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/track/0WS1qLcXKsCGt5e3dqq30S) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [Diplo](https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX), [Malou](https://open.spotify.com/artist/5mU7ohKXRejACFS8eZIixp), [Yuna](https://open.spotify.com/artist/3kHVioJpVxlazAAKQ64pC1) | [Forever \(feat\. Malou & Yuna\)](https://open.spotify.com/album/4nXpTQXjFGtB5n3vC76IBR) | 2:20 | 2026-08-02 |  |
@@ -120,6 +120,7 @@
 | [Vertigo](https://open.spotify.com/track/0HB4odbGJbgR0ffA4rJoxS) | [ANOTR](https://open.spotify.com/artist/4p5WgeiPSPpqPDs7T6OkWf), [Abel Balder](https://open.spotify.com/artist/0jqbEIAvdjUOi5Za48pzQG) | [The Reset](https://open.spotify.com/album/3fML4TbrK7NADHtkf4RmTo) | 4:16 | 2026-08-02 |  |
 | [WACUKA](https://open.spotify.com/track/75n9WHWZAzhB59xSjIHly4) | [AVAION](https://open.spotify.com/artist/5oJvmyeWzyeahRtjup3Oys), [Sofiya Nzau](https://open.spotify.com/artist/5Y2FS5YbGf7yRDumzD5nY3) | [WACUKA](https://open.spotify.com/album/4kPcAubNH1FbdaFkoEsALw) | 3:10 | 2026-08-02 |  |
 | [WAIT](https://open.spotify.com/track/168hqyHROCB8lISUF270KI) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [Massano](https://open.spotify.com/artist/6htWLP8aiuf19FYMA4VQAZ) | [WAIT](https://open.spotify.com/album/74L5f2CPiWlbqnGzWteTNY) | 2:48 | 2026-08-02 | 2026-08-11 |
+| [Wait For You](https://open.spotify.com/track/6T6NIXPtD786quBOycpUTX) | [AMÉMÉ](https://open.spotify.com/artist/1txb9Qg5lJ3KATxPcIYyvO), [Franc Fala](https://open.spotify.com/artist/0FSasrFTs0AQBrJkcFE6vB) | [Wait For You](https://open.spotify.com/album/2qXBfrxliz2Ilz9ThDRQDt) | 2:56 | 2026-08-27 |  |
 | [Wana](https://open.spotify.com/track/4V8gWHn9fu1NXXZKcQ0gnp) | [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Wana](https://open.spotify.com/album/1eGaxjPeAZ9aJRJ3BhABPa) | 3:59 | 2026-08-02 |  |
 | [What I Want Is You](https://open.spotify.com/track/6xd0z1HL0AYozX9g5SSSIs) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fireball](https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg) | [What I Want Is You](https://open.spotify.com/album/7EpmxmQ5BnYxB4rsADiA2O) | 2:22 | 2026-08-02 |  |
 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 | 2026-08-02 |  |

@@ -1,12 +1,12 @@
 {
   "description": "This is Los Enanitos Verdes. The essential tracks, all in one playlist.",
-  "num_followers": 213626,
+  "num_followers": 213640,
   "original_name": "This Is Los Enanitos Verdes",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aqx/AAAAAADg2PEEm06IBIS/KBxltuMM",
+  "snapshot_id": "aq3QgAAAAABHRwB5qUoTTzewgtRndzbF",
   "tracks": [
     {
       "added_at": null,
@@ -303,26 +303,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "EV+",
-        "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
+        "name": "Igual Que Ayer",
+        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
       },
       "artists": [
         {
           "name": "Los Enanitos Verdes",
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        },
-        {
-          "name": "Los \u00c1ngeles Azules",
-          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
-        },
-        {
-          "name": "Luck Ra",
-          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 185969,
-      "name": "Lamento Boliviano",
-      "url": "https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo"
+      "duration_ms": 174753,
+      "name": "Amigos",
+      "url": "https://open.spotify.com/track/5DR3IljhfLepLpWYjK1s6G"
     },
     {
       "added_at": null,
@@ -359,18 +351,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Igual Que Ayer",
-        "url": "https://open.spotify.com/album/5L7tBkravu3KFBQlry16Jp"
+        "name": "EV+",
+        "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
       },
       "artists": [
         {
           "name": "Los Enanitos Verdes",
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        },
+        {
+          "name": "Los \u00c1ngeles Azules",
+          "url": "https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW"
+        },
+        {
+          "name": "Luck Ra",
+          "url": "https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk"
         }
       ],
-      "duration_ms": 174753,
-      "name": "Amigos",
-      "url": "https://open.spotify.com/track/5DR3IljhfLepLpWYjK1s6G"
+      "duration_ms": 185969,
+      "name": "Lamento Boliviano",
+      "url": "https://open.spotify.com/track/659ULDrXBQCJpoctMocXCo"
     },
     {
       "added_at": null,
@@ -407,6 +407,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 177600,
+      "name": "Conciencia Contrareloj",
+      "url": "https://open.spotify.com/track/20wnIqbVCfOya9kSO6Jy4T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
       },
@@ -423,22 +439,6 @@
       "duration_ms": 325986,
       "name": "Luz de D\u00eda (En Vivo)",
       "url": "https://open.spotify.com/track/6mCnpTHThZ0Rtmn69FKjd5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contrareloj",
-        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 177600,
-      "name": "Conciencia Contrareloj",
-      "url": "https://open.spotify.com/track/20wnIqbVCfOya9kSO6Jy4T"
     },
     {
       "added_at": null,
@@ -475,6 +475,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 271640,
+      "name": "Solo Dame Otra Oportunidad",
+      "url": "https://open.spotify.com/track/1WFKutKqa4c2TeXWyQrbn4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
       },
@@ -491,22 +507,6 @@
       "duration_ms": 388000,
       "name": "Lamento Boliviano (En Vivo)",
       "url": "https://open.spotify.com/track/2EXI9HTEQxGdaEcVChE0DK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contrareloj",
-        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 271640,
-      "name": "Solo Dame Otra Oportunidad",
-      "url": "https://open.spotify.com/track/1WFKutKqa4c2TeXWyQrbn4"
     },
     {
       "added_at": null,
@@ -543,6 +543,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Contrareloj",
+        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 150106,
+      "name": "Simulacro de Tensi\u00f3n",
+      "url": "https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 225786,
       "name": "Mariposas (En Vivo)",
       "url": "https://open.spotify.com/track/7vDsHQklTOmEgDyMb1C81K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Contrareloj",
-        "url": "https://open.spotify.com/album/3e86fuFCEkoo3c2BESiLvd"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 150106,
-      "name": "Simulacro de Tensi\u00f3n",
-      "url": "https://open.spotify.com/track/1232N6tG7EIceHRyAAKZWH"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nectar",
+        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 279400,
+      "name": "Cordillera",
+      "url": "https://open.spotify.com/track/4UgV2sXC5suZR0kZ0xNLIH"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 258200,
       "name": "Tu C\u00e1rcel (En Vivo)",
       "url": "https://open.spotify.com/track/2JrRZqY5NoEVvkRgwz3TRO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nectar",
-        "url": "https://open.spotify.com/album/6g9Bcwy0fBb5kgnfQQrvV0"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 279400,
-      "name": "Cordillera",
-      "url": "https://open.spotify.com/track/4UgV2sXC5suZR0kZ0xNLIH"
     },
     {
       "added_at": null,
@@ -679,6 +679,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Habitaciones Extra\u00f1as",
+        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 219826,
+      "name": "Sumar Tiempo No Es Sumar Amor",
+      "url": "https://open.spotify.com/track/3adDQeAS2SPWMLmD3nz00N"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 298520,
       "name": "Mi Primer D\u00eda Sin Ti (En Vivo)",
       "url": "https://open.spotify.com/track/7MTuVOR52Y3B06fmLdNTmP"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Habitaciones Extra\u00f1as",
-        "url": "https://open.spotify.com/album/4pHPwY4AEiTfdjViVFTiK2"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        }
-      ],
-      "duration_ms": 219826,
-      "name": "Sumar Tiempo No Es Sumar Amor",
-      "url": "https://open.spotify.com/track/3adDQeAS2SPWMLmD3nz00N"
     },
     {
       "added_at": null,
@@ -747,6 +747,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Habia Una Vez",
+        "url": "https://open.spotify.com/album/0RNFQJ1icfb2w2JKFKWe3C"
+      },
+      "artists": [
+        {
+          "name": "Los Enanitos Verdes",
+          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        }
+      ],
+      "duration_ms": 200040,
+      "name": "T\u00edpico Domingo",
+      "url": "https://open.spotify.com/track/5jNN6EfGEzoyAJUh5TdDfV"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Huevos Revueltos (En Vivo)",
         "url": "https://open.spotify.com/album/5TzKiFldM8bjWQEroSrrAm"
       },
@@ -767,18 +783,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Habia Una Vez",
-        "url": "https://open.spotify.com/album/0RNFQJ1icfb2w2JKFKWe3C"
+        "name": "EV+",
+        "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
       },
       "artists": [
         {
           "name": "Los Enanitos Verdes",
           "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
+        },
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
         }
       ],
-      "duration_ms": 200040,
-      "name": "T\u00edpico Domingo",
-      "url": "https://open.spotify.com/track/5jNN6EfGEzoyAJUh5TdDfV"
+      "duration_ms": 260967,
+      "name": "Por el Resto de Tus D\u00edas",
+      "url": "https://open.spotify.com/track/5rdHg2px3yuSOFd9r6bGxQ"
     },
     {
       "added_at": null,
@@ -799,26 +819,6 @@
       "duration_ms": 301333,
       "name": "Ingrata (feat. Los Enanitos Verdes)",
       "url": "https://open.spotify.com/track/2N9jetcWOeeqQZMiWmIAPI"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "EV+",
-        "url": "https://open.spotify.com/album/1tlDSVwY9Ss6XegiLmB7tJ"
-      },
-      "artists": [
-        {
-          "name": "Los Enanitos Verdes",
-          "url": "https://open.spotify.com/artist/4TK1gDgb7QKoPFlzRrBRgR"
-        },
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 260967,
-      "name": "Por el Resto de Tus D\u00edas",
-      "url": "https://open.spotify.com/track/5rdHg2px3yuSOFd9r6bGxQ"
     },
     {
       "added_at": null,

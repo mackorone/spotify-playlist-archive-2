@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 
 > Le rap québécois, servi tout frais tout chaud\. Photo: Shreez, Tizzo, Salgrimo, Le Ice, Peeda, Soft, YoAlain!, Chiko
 
-[Spotify](https://open.spotify.com/user/spotify) - 89,612 likes - 75 songs - 3 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 89,607 likes - 75 songs - 3 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,11 +41,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 31 | [Backstage](https://open.spotify.com/track/20Wh8z88uZ2WdySpKxQrl5) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc), [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo) | [Berger](https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg) | 3:15 |
 | 32 | [Paparazzi](https://open.spotify.com/track/5hmxAHWDIaZJ3iuLsk5NY7) | [Lost](https://open.spotify.com/artist/5Pd7zqwUqC1INMJAT2Df7b) | [GAMAN](https://open.spotify.com/album/2dNduGPJJ9GznAhKrtASEe) | 2:59 |
 | 33 | [Signe \(avec Statzz\)](https://open.spotify.com/track/2lOmRntQlKRhYfVj5FHyQ3) | [Loud](https://open.spotify.com/artist/5DXzQwj6Kgr5kBjVlYdSHo), [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Douze sur douze](https://open.spotify.com/album/1JrHSwOmjfgTETzZvFIgPR) | 2:20 |
-| 34 | [A La Base](https://open.spotify.com/track/5erzrQzrIwK95QElCVoAvB) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [A La Base](https://open.spotify.com/album/2NMkjnOy51mypDJcdnSZU8) | 2:24 |
-| 35 | [MON TOUR](https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [MON TOUR](https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG) | 2:31 |
-| 36 | [Right Now](https://open.spotify.com/track/13ZDPX0CkpCH80uFkykwwQ) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Berger](https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg) | 2:06 |
-| 37 | [MADURO](https://open.spotify.com/track/35RHNKHvAkBM7ZTZfH6cgL) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [MADURO](https://open.spotify.com/album/35PNhr8jU5kNHpRog1zhXD) | 2:51 |
-| 38 | [SAY LESS](https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [SAY LESS](https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv) | 3:15 |
+| 34 | [SAY LESS](https://open.spotify.com/track/24CVunHHpqyv9d5mOzQzUC) | [Nyota Parker](https://open.spotify.com/artist/3IcRyro18wY1bmtyQpDLgl) | [SAY LESS](https://open.spotify.com/album/4xOoQvIveUgnlQinSnzuWv) | 3:15 |
+| 35 | [A La Base](https://open.spotify.com/track/5erzrQzrIwK95QElCVoAvB) | [Mk.official](https://open.spotify.com/artist/7HtuJMPqa880l1kMWmROGU) | [A La Base](https://open.spotify.com/album/2NMkjnOy51mypDJcdnSZU8) | 2:24 |
+| 36 | [MON TOUR](https://open.spotify.com/track/4xnCYX1Uiv6qoowXCoppSP) | [TJ DTS](https://open.spotify.com/artist/5uns9i1LQsh6mxqXq1QeAe) | [MON TOUR](https://open.spotify.com/album/3mDkD5VasLOLpuMS9MdWtG) | 2:31 |
+| 37 | [Right Now](https://open.spotify.com/track/13ZDPX0CkpCH80uFkykwwQ) | [Aswell](https://open.spotify.com/artist/7ircrxU9ilF88T3dfIP6yc) | [Berger](https://open.spotify.com/album/3UDzR0OtJrtctfvP77XTAg) | 2:06 |
+| 38 | [MADURO](https://open.spotify.com/track/35RHNKHvAkBM7ZTZfH6cgL) | [Zinera](https://open.spotify.com/artist/5wrFfjvRhrVdGQlaVr0Svn) | [MADURO](https://open.spotify.com/album/35PNhr8jU5kNHpRog1zhXD) | 2:51 |
 | 39 | [Gangsta](https://open.spotify.com/track/4zJeDPdrQpvKrErjbxAkq7) | [5sang14](https://open.spotify.com/artist/6XM5SrUaWM5XJwV55eHW2s) | [SNAKEYEZ](https://open.spotify.com/album/6CAneTQlP4JM3kzk9RyBqC) | 2:32 |
 | 40 | [MURDA](https://open.spotify.com/track/0eZGhUhnRq73yTWM5se93o) | [Jimmy Cena](https://open.spotify.com/artist/3ersXzETV8IbKPBKjjQ5AX), [St\-Saoul](https://open.spotify.com/artist/3FiLC4bXGyrzdtdqDJPmZZ), [Buckshot](https://open.spotify.com/artist/5Fc4E9FtAoP4UHXWh6oLpS) | [MURDA](https://open.spotify.com/album/4NYWFEH98bEma6JlTPgpww) | 3:50 |
 | 41 | [Soul pleureur](https://open.spotify.com/track/1DKgD6CCYoDdmqvUsveE8X) | [Dubmatique](https://open.spotify.com/artist/4uIMmnG9v9BVqSJbwhieny) | [La force de comprendre](https://open.spotify.com/album/1UxOD6dIiK68AlaBJgEuve) | 3:56 |
@@ -68,8 +68,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTZeTXqKTge4.md) - [plain]
 | 58 | [Le cœur à la bonne place](https://open.spotify.com/track/6ZNpcOR6olDX8ruuR1hBII) | [Souldia](https://open.spotify.com/artist/6ekcMUMZoiX2HBbQGZgNh1), [Blynk](https://open.spotify.com/artist/5QudGDXQi1yGCjENRjMNeQ) | [Le cœur à la bonne place](https://open.spotify.com/album/69ZYia8iytJHvAOGO13UYP) | 3:32 |
 | 59 | [Cayo Perico](https://open.spotify.com/track/33qbNBTRNuR6cbhRI1B6hU) | [kinji00](https://open.spotify.com/artist/19GYu85T8PlAbWVKKSDWFF), [lb66](https://open.spotify.com/artist/0eGp44DBSa5def9WREuZ8A) | [À la prochaine fois](https://open.spotify.com/album/44bE7T6TOQJtZrQxBGimPn) | 2:30 |
 | 60 | [SOLO SOLO](https://open.spotify.com/track/6wSuxoPuQrCfSnCWlIdCmp) | [KDS Requinzer](https://open.spotify.com/artist/6ig5quIM4AJ5GRzccMh5r3) | [SOLO SOLO](https://open.spotify.com/album/3OfkKZ4yEkGXT0T2seeOiq) | 2:32 |
-| 61 | [Wrong](https://open.spotify.com/track/3o9ivo0oqcgxN53kfOSSFq) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Wrong](https://open.spotify.com/album/22CdeTyceXXAhCcbWCg7Bj) | 3:03 |
-| 62 | [Fascinant](https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS) | 3:30 |
+| 61 | [Fascinant](https://open.spotify.com/track/095MgE6prClcNYhjBmIIlT) | [Fléau Dicaprio](https://open.spotify.com/artist/7eECqg50qMODvvrHySfQAZ) | [Big Wop \- Mile\-End sur la map](https://open.spotify.com/album/4sOGzpMFd8ICEDRRED2GIS) | 3:30 |
+| 62 | [Wrong](https://open.spotify.com/track/3o9ivo0oqcgxN53kfOSSFq) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [Wrong](https://open.spotify.com/album/22CdeTyceXXAhCcbWCg7Bj) | 3:03 |
 | 63 | [Helen Quelle Heure](https://open.spotify.com/track/2OKLiEIW4hZPaNpb6kMtdL) | [elpy!](https://open.spotify.com/artist/0Gmf9HWQAcCy6iZdJlRF1m), [SMS](https://open.spotify.com/artist/4j63HnohVGYEDn2K8HmhcW) | [Helen Quelle Heure](https://open.spotify.com/album/2bBxBySTKaJMF69AZiHfE2) | 2:05 |
 | 64 | [Bye Bye](https://open.spotify.com/track/1ppKGaddAQIZuYOx1YDvn6) | [Statzz](https://open.spotify.com/artist/3HhrftnwBRRopMc07FopkK) | [Bye Bye](https://open.spotify.com/album/38lhD7UTPAqxVHeX4BIpVm) | 2:03 |
 | 65 | [Teke Fren](https://open.spotify.com/track/0BZyCAlmZGBIRGzr2ycYdg) | [Poirier](https://open.spotify.com/artist/5IpvS5ea4bymk3HpP1jVU4), [Waahli](https://open.spotify.com/artist/5aQDfvrtT8G6p69ZmhQhzI) | [Teke Fren](https://open.spotify.com/album/1oMd1B2TZySGPDQyqetPc7) | 2:57 |
