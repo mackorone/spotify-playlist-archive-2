@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/34oJLNndIw47tWcHNncXRR">Omer Fedi</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-165 songs - 7 hr 47 min
+166 songs - 7 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -54,6 +54,7 @@
 | [drunk face](https://open.spotify.com/track/3k0YJnqMKRZb8swo86vCkq) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX) | [Tickets To My Downfall](https://open.spotify.com/album/57lgFncHBYu5E3igZnuCJK) | 2:23 | 2026-01-14 |  |
 | [Easy Lover](https://open.spotify.com/track/2OBzYCYMNsD6yhBZZSs0xg) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 3:06 | 2026-01-14 |  |
 | [Empty \(feat\. Swae Lee\)](https://open.spotify.com/track/2U5yyG20dxfpFDjq7otXIY) | [24kGoldn](https://open.spotify.com/artist/6fWVd57NKTalqvmjRd2t8Z), [Swae Lee](https://open.spotify.com/artist/1zNqQNIdeOUZHb8zbZRFMX) | [El Dorado](https://open.spotify.com/album/0M0Zxu7KVzFZZ8q4z2i4gi) | 2:43 | 2026-01-14 |  |
+| [fake love don't last \(feat\. iann dior\)](https://open.spotify.com/track/4UHyrGQCHu0Orh2utUxbNY) | [mgk](https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX), [iann dior](https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS) | [mainstream sellout](https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc) | 2:23 | 2026-09-21 |  |
 | [FAST](https://open.spotify.com/track/5fRyoUp0UOyt9OZqwao7tp) | [Arizona Zervas](https://open.spotify.com/artist/0vRvGUQVUjytro0xpb26bs) | [FAST](https://open.spotify.com/album/1ZWTlivbZSFkmow0ho97xf) | 3:14 | 2026-01-14 |  |
 | [Feel The Same](https://open.spotify.com/track/63g7NDleXanRh8ez3DPXKV) | [Miles Wesley](https://open.spotify.com/artist/4WhfepOctZk2kVISWeeNo3) | [Feel The Same](https://open.spotify.com/album/3Qut4cW4hwcIrVZTjwgJ1u) | 2:43 | 2026-01-14 |  |
 | [Feels Like](https://open.spotify.com/track/35IcAVSMsU9qzHfpPbvC8A) | [Gracie Abrams](https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5) | [This Is What It Feels Like](https://open.spotify.com/album/7l2g05NyprwonSFIs2y8at) | 2:32 | 2026-01-14 |  |

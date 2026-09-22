@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 
 > Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bruna Foss
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,004 likes - 55 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,010 likes - 55 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,8 +21,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 11 | [Improvável](https://open.spotify.com/track/0XwEszywPr2yHuJB0pTxnY) | [Pe Lu](https://open.spotify.com/artist/4ngRN8F4JgsyWOGiaW5WvD), [Roberta Campos](https://open.spotify.com/artist/5CC2At3k0Xnyc5s9yHdyax) | [Improvável](https://open.spotify.com/album/6kkj8J3XRedTgUw3c02AVp) | 2:56 |
 | 12 | [Só Eu Sei](https://open.spotify.com/track/46lPJNd7iWe0fJ5ZGULaIk) | [Capital Inicial](https://open.spotify.com/artist/4Z0yuwHVJBROVZqFpTIr0d) | [Sonora](https://open.spotify.com/album/7uJxmC5sFUXrC4o8YVoSqj) | 3:33 |
 | 13 | [Ontem](https://open.spotify.com/track/0aq7xZ7JUOuOeHJaIPTpI3) | [Jovem Dionisio](https://open.spotify.com/artist/4m5LghDfOKFZNEBZ0GO1OQ) | [Migalhas](https://open.spotify.com/album/6fQCzPUP45tyjMbwzcOlKJ) | 3:26 |
-| 14 | [Causas Naturais](https://open.spotify.com/track/3B8vuwgs2jyjiBFQe2WB9X) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Causas Naturais](https://open.spotify.com/album/041plE9wBqtZyzh3pxqEal) | 2:45 |
-| 15 | [Sonho Real](https://open.spotify.com/track/014b1uSr2h35A5jqMfpGfs) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Sonho Real, Raio de Sol](https://open.spotify.com/album/3kG1CJ42pOnL15mokG3IJb) | 3:47 |
+| 14 | [Sonho Real](https://open.spotify.com/track/014b1uSr2h35A5jqMfpGfs) | [Maglore](https://open.spotify.com/artist/24me6m3bV7l2rnUwaXV0Tj) | [Sonho Real, Raio de Sol](https://open.spotify.com/album/3kG1CJ42pOnL15mokG3IJb) | 3:47 |
+| 15 | [Causas Naturais](https://open.spotify.com/track/3B8vuwgs2jyjiBFQe2WB9X) | [Colomy](https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp) | [Causas Naturais](https://open.spotify.com/album/041plE9wBqtZyzh3pxqEal) | 2:45 |
 | 16 | [Anjo de Papel](https://open.spotify.com/track/4IWq7dAMdbLAjWPAAPrW5X) | [Varanda](https://open.spotify.com/artist/3bqBbsUzLiW1KwwPAMY2uk) | [Anjo de Papel](https://open.spotify.com/album/0gbWq0EYkoBXZZL1bvGGL3) | 3:17 |
 | 17 | [Marvin \- Microfonado](https://open.spotify.com/track/56IzuFMzZfr343rQyvFdpW) | [Titãs](https://open.spotify.com/artist/2euX7vCVnJy3TVEGfc0RCl), [Vitor Kley](https://open.spotify.com/artist/4FGcERJWMg8ENOLixwF71U) | [Marvin \(Microfonado\)](https://open.spotify.com/album/3AlCkEugY2m9apDEJZJS9j) | 3:39 |
 | 18 | [Tudo Agora](https://open.spotify.com/track/0l8pT5SeKajbPoWsIHPpAF) | [Samuel Rosa](https://open.spotify.com/artist/4fp0N4WchcumIW5HNGpPwa), [DUDA BEAT](https://open.spotify.com/artist/2QLSJqqGIstNbO6nYRR16o) | [Tudo Agora](https://open.spotify.com/album/7anK66Wh4q8e7W8PgFOwKo) | 4:09 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4vCk1GJH7zl.md) - [plain]
 | 48 | [Feedback \- Ao Vivo](https://open.spotify.com/track/0952QhP5pydDsBxgIxvZFg) | [Nasi](https://open.spotify.com/artist/7HJkYWzMCiXIJEHserfc0Z) | [Solo Ma Non Troppo](https://open.spotify.com/album/4biydG5xVHKEYFCySAtrjV) | 3:32 |
 | 49 | [Douraddo](https://open.spotify.com/track/75jOQ3d6y36N09fpnUSQR7) | [Soprü](https://open.spotify.com/artist/2e8dBCjQCLAqXAQwt89fi9) | [Douraddo](https://open.spotify.com/album/3m89RKjTjqZv4XzxaGaXDC) | 2:41 |
 | 50 | [Mais Nada](https://open.spotify.com/track/5iLAvmP1hn9ewmEqcyvgn0) | [Raphael Ota](https://open.spotify.com/artist/71pX95QqMGfZ2D5P81nW0Q), [Peu Del Rey](https://open.spotify.com/artist/56ffksUZDcDGHGx5s3Lnwx) | [Mais Nada](https://open.spotify.com/album/0wPxGvqmgbf4Tj3ItD353N) | 3:13 |
-| 51 | [Pelas Ruas das Américas](https://open.spotify.com/track/6kkG5STTzm0bR8UIOFGvxt) | [Outros Bárbaros](https://open.spotify.com/artist/38Hqlf0T70y7rcU9uyWduT) | [Pelas Ruas das Américas](https://open.spotify.com/album/2Rl5oR4X2M60Cj811IEC0R) | 3:51 |
-| 52 | [Prisão das Ruas \- Ao Vivo](https://open.spotify.com/track/5WiDk2Pe2Oj8x6woFwS6VF) | [Edgard Scandurra](https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF) | [Prisão das Ruas \(Ao Vivo\)](https://open.spotify.com/album/7KpmuoHTaT6qNYTv3zxzKh) | 3:34 |
+| 51 | [Prisão das Ruas \- Ao Vivo](https://open.spotify.com/track/5WiDk2Pe2Oj8x6woFwS6VF) | [Edgard Scandurra](https://open.spotify.com/artist/3vtWRZWIVKm71NMsOudVaF) | [Prisão das Ruas \(Ao Vivo\)](https://open.spotify.com/album/7KpmuoHTaT6qNYTv3zxzKh) | 3:34 |
+| 52 | [Pelas Ruas das Américas](https://open.spotify.com/track/6kkG5STTzm0bR8UIOFGvxt) | [Outros Bárbaros](https://open.spotify.com/artist/38Hqlf0T70y7rcU9uyWduT) | [Pelas Ruas das Américas](https://open.spotify.com/album/2Rl5oR4X2M60Cj811IEC0R) | 3:51 |
 | 53 | [Coming Home](https://open.spotify.com/track/13kBXnr6HGyXQMA4pb7Q7T) | [Twilight Aura](https://open.spotify.com/artist/1xo1rupmkgRiqborQShT30), [Daísa Munhoz](https://open.spotify.com/artist/4c9Fry8ueZr78paHWdEF0y), [Fabio Caldeira](https://open.spotify.com/artist/4pyFz0gJQlmVrlpQyo1J3T), [Marcel Ribas](https://open.spotify.com/artist/6z7ABRk5aFU97bOo9XuKCf) | [Believe](https://open.spotify.com/album/2BisEk7N65mjARu5LGS35W) | 4:03 |
 | 54 | [Na Sua Estante \- Ao Vivo](https://open.spotify.com/track/4GifjoggvmG2sYEGE2PsIu) | [Pitty](https://open.spotify.com/artist/2dmQ0vMD3THLMcz7DsvfaT), [Nando Reis](https://open.spotify.com/artist/7n1XMwvxPf10t4OX6h6Ufy) | [PITTYNANDO – As Suas, As Minhas e As Nossas \(Ao Vivo\)](https://open.spotify.com/album/5GXMquIjfejiBifabM0Tny) | 5:22 |
 | 55 | [Stonehenge \- Live](https://open.spotify.com/track/6BcpYt1509EnqN4TR9CVzw) | [Fresno](https://open.spotify.com/artist/2sFXe6NbmT3k7Qy4N8fE7f) | [Quarto dos Livros \(20 Anos\) \[Live\]](https://open.spotify.com/album/4XQComL0rKCH9NwRf75xH6) | 4:12 |

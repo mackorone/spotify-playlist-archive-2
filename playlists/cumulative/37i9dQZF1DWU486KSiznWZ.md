@@ -2,9 +2,9 @@
 
 ### [Hits خليجي](https://open.spotify.com/playlist/37i9dQZF1DWU486KSiznWZ)
 
-> نخبة الأغاني الخليجية\. الغلاف: ماجد المهندس
+> نخبة الأغاني الخليجية\. الغلاف:  عبدالمجيد عبدالله
 
-239 songs - 17 hr 16 min
+240 songs - 17 hr 20 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -24,7 +24,7 @@
 | [Akhathet Be Khtrek](https://open.spotify.com/track/4RyoGSA84YpvYm09iTR8P0) | [Moath Bugnah](https://open.spotify.com/artist/3I6QxuzNU6qhadzhuePFqF) | [Akhathet Be Khtrek](https://open.spotify.com/album/3k7N7Q8eetRAOQRtDrSImy) | 3:40 | 2023-04-20 | 2026-02-17 |
 | [Akher Dewa](https://open.spotify.com/track/5va2QPTuewBSnuelOg5KNr) | [Sultan Khalifa](https://open.spotify.com/artist/0CdLlvZEodX7fm7ujXI7HB) | [Akher Dewa](https://open.spotify.com/album/6JM8uw45QxwGoG9g3I5szu) | 4:56 | 2024-05-22 | 2024-07-05 |
 | [Al Aajab Fi Al Hawa](https://open.spotify.com/track/0zfS7Bbn6YilaptU6fb3r1) | [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Aajab Fi Al Hawa](https://open.spotify.com/album/3lZfmx2Wp1GpolaXboUYZw) | 5:23 | 2024-04-18 | 2024-09-06 |
-| [Al Enaq Al Akheer](https://open.spotify.com/track/4GzJjtpF6AOGkZzmPHqCDc) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Al Enaq Al Akheer \- Part 1](https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm) | 9:49 | 2025-01-23 |  |
+| [Al Enaq Al Akheer](https://open.spotify.com/track/4GzJjtpF6AOGkZzmPHqCDc) | [Ahlam](https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd) | [Al Enaq Al Akheer \- Part 1](https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm) | 9:49 | 2025-01-23 | 2026-09-22 |
 | [Al Hob Al Abadi](https://open.spotify.com/track/6vkY5teXdfYxRaxEcQh48d) | [Majid Almohandis](https://open.spotify.com/artist/2YquYFTCdzTnrcxZzzrNbj), [Assala Nasri](https://open.spotify.com/artist/6MQnUjIjnIOfHDFzqBJOAl) | [Al Hob Al Abadi](https://open.spotify.com/album/5VICXQWh9ziCz38ABNiFms) | 4:37 | 2024-04-18 | 2024-11-12 |
 | [Al Madina](https://open.spotify.com/track/4IXFCKbDeVXSEoNOMDxrFU) | [Mohammed Abdu](https://open.spotify.com/artist/3byKtMzSP9AhdnWbWz7geB) | [Mohammed Abdo 2024](https://open.spotify.com/album/0CgRFv0sKpaGZxa6Jh10DO) | 4:20 | 2024-11-11 | 2024-11-19 |
 | [Al Oyoun Al Sod](https://open.spotify.com/track/7Kz1cLU2WGD3w5ARYrxsNq) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Al Oyoun Al Sod](https://open.spotify.com/album/2oCpnaO5W8B36lHGcmZM8X) | 5:08 | 2023-02-14 | 2024-10-16 |
@@ -40,6 +40,7 @@
 | [Alnoon Wama Yalamoon](https://open.spotify.com/track/7p7dbDDQlz9pmiVeyZFOGi) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Tetr Mosalsal Alnoon Wama Yalamoon](https://open.spotify.com/album/6Ei1CYvfA6SPfCP0LEFDvl) | 2:49 | 2023-05-08 | 2023-07-28 |
 | [Alsaa Kam](https://open.spotify.com/track/0XK1Pijju1M9oGvw1GG1cf) | [Oumaima Taleb](https://open.spotify.com/artist/0SGQMQQEypFWC2f4ei4nZe) | [Alsaa Kam](https://open.spotify.com/album/1UM0MyiJRdPqVgDuRKlRCb) | 3:57 | 2024-11-28 | 2025-07-01 |
 | [Ana Akbar Men Kalam Ely](https://open.spotify.com/track/0XLP04Gnei7eCA33w2czkN) | [Fouad Abdulwahed](https://open.spotify.com/artist/22xlzInkcr2Suc3hx7YSyg) | [Ana Akbar Men Kalam Ely](https://open.spotify.com/album/0yvVg9Nvu8of38AXaexOBD) | 6:10 | 2024-10-15 | 2025-07-01 |
+| [Ana Yendm Alaye](https://open.spotify.com/track/7d3lbR11DDE7AhjuRm89qV) | [Abdul Majeed Abdullah](https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F) | [Abdul Majeed Abdullah 2026](https://open.spotify.com/album/5953e42Lj8BQHyeWqaGAPS) | 3:51 | 2026-09-21 |  |
 | [Anazer Al Shobak](https://open.spotify.com/track/2TknqlPsUyLXkljtqw3LYW) | [Aseel Hameem](https://open.spotify.com/artist/10bqdRYq6Ha83UeU77iXAo) | [Anazer Al Shobak](https://open.spotify.com/album/62v0FmhF6h77bAoQUBrMmP) | 4:18 | 2024-07-04 |  |
 | [Asaal El Najma](https://open.spotify.com/track/0brYzmKMkq8NGF7Y1W2VQ1) | [Khaled Abdul Rahman](https://open.spotify.com/artist/6X5jPcdNTzdvOnOGhLTXyX) | [Asaal El Najma](https://open.spotify.com/album/5J6mbficCluwFxHcCvXNu9) | 4:10 | 2024-11-18 | 2025-10-08 |
 | [Ashan Al Eshrah \(6\)](https://open.spotify.com/track/0Qw2eL45SZkglxhnb1R0m9) | [Ayed](https://open.spotify.com/artist/6U4hHMBYGDF1f98bGjxC8U) | [Kol El Khata](https://open.spotify.com/album/4nKtbyAZFU6hu8lZAztO7c) | 4:37 | 2022-10-04 | 2023-10-12 |

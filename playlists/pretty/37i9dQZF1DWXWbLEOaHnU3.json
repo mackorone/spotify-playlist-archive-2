@@ -1,6 +1,6 @@
 {
   "description": "Lose yourself in the cosmic spheres of Psytrance.",
-  "num_followers": 604222,
+  "num_followers": 604256,
   "original_name": "Psytrance Supernova",
   "owner": {
     "name": "Spotify",
@@ -507,6 +507,26 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
+        "name": "Remixes",
+        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+      },
+      "artists": [
+        {
+          "name": "Astrix",
+          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
+        },
+        {
+          "name": "Darma",
+          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
+        }
+      ],
+      "duration_ms": 488275,
+      "name": "Poison - Darma Remix",
+      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
+    },
+    {
+      "added_at": "2026-07-17 04:01:12",
+      "album": {
         "name": "Sympathize",
         "url": "https://open.spotify.com/album/4xzuhuNKGITX36QYB09tlk"
       },
@@ -531,22 +551,18 @@
     {
       "added_at": "2026-07-17 04:01:12",
       "album": {
-        "name": "Remixes",
-        "url": "https://open.spotify.com/album/7cYQFSGIwxwOTeq3o5Iq16"
+        "name": "Lux",
+        "url": "https://open.spotify.com/album/1IR4rXoYwtNwTrk4wwZSdH"
       },
       "artists": [
         {
-          "name": "Astrix",
-          "url": "https://open.spotify.com/artist/3dUltShd2gJQc98Kc7Syit"
-        },
-        {
-          "name": "Darma",
-          "url": "https://open.spotify.com/artist/4UUnQ0W7V2WZkt8iuouvBi"
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
         }
       ],
-      "duration_ms": 488275,
-      "name": "Poison - Darma Remix",
-      "url": "https://open.spotify.com/track/2fS24UOnvWXqzD2eJ8qifH"
+      "duration_ms": 330206,
+      "name": "Lux",
+      "url": "https://open.spotify.com/track/5bRtT4sRcHJHFGNirZid9n"
     },
     {
       "added_at": "2026-07-17 04:01:12",
@@ -571,22 +587,6 @@
       "duration_ms": 269424,
       "name": "Pressure - Indira Paganotto Remix",
       "url": "https://open.spotify.com/track/0CesUDLx0Oj2J19HVbQOnd"
-    },
-    {
-      "added_at": "2026-07-17 04:01:12",
-      "album": {
-        "name": "Lux",
-        "url": "https://open.spotify.com/album/1IR4rXoYwtNwTrk4wwZSdH"
-      },
-      "artists": [
-        {
-          "name": "Giorgia Angiuli",
-          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
-        }
-      ],
-      "duration_ms": 330206,
-      "name": "Lux",
-      "url": "https://open.spotify.com/track/5bRtT4sRcHJHFGNirZid9n"
     },
     {
       "added_at": "2026-07-17 04:01:12",

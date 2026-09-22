@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 
 > This is Labrinth\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 157,835 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 157,842 likes - 50 songs - 2 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1hiJc4.md) - [plain]
 | 45 | [WHEN YOU WALK IN](https://open.spotify.com/track/11S7IRv6Zg29ChhhGZPuCg) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT II](https://open.spotify.com/album/6sTGPeQccQvmDiOIxJLZyD) | 2:28 |
 | 46 | [Like A Movie](https://open.spotify.com/track/1VnN9uzaSsw2kA6JOWpMUE) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0FSsRH1jeZqKbGcHwq3UO0) | 2:20 |
 | 47 | [Debris](https://open.spotify.com/track/1tNCeieDWM4H5miALnbTbb) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [COSMIC OPERA ACT I](https://open.spotify.com/album/3vSeUipyxX4zU6gEl4f1iC) | 2:55 |
-| 48 | [What Would You Want Me To Be](https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 0:53 |
+| 48 | [Accepted By The Crew](https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7), [Alex Baranowski](https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ) | [The Kitchen \(Score from the Netflix Film\)](https://open.spotify.com/album/67JwhnzZp9DLFIHfsfK6Uf) | 1:42 |
 | 49 | [Oblivion \(feat\. Labrinth\)](https://open.spotify.com/track/5DWZX4piXraq1IOr2a4sBL) | [Sia](https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN), [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Music \(Songs From And Inspired By The Motion Picture\)](https://open.spotify.com/album/7nA0EdSRuxzUqkA7kMSer7) | 4:14 |
 | 50 | [Sexy MF](https://open.spotify.com/track/497zOKCyTyQONJJnlHgsLp) | [Labrinth](https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7) | [Imagination & the Misfit Kid](https://open.spotify.com/album/0zjbNtfnMLmt2q50E3wDx8) | 2:58 |
 
-Snapshot ID: `aq3QgAAAAAD97Kal5E6tV+Y3AzpWVYbE`
+Snapshot ID: `aq8iAAAAAADG2KHNBwFPY9/PRKF7H4NJ`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 
 > Our favourite electronic songs from around the world this year\. Cover: KI/KI
 
-[Spotify](https://open.spotify.com/user/spotify) - 78,590 likes - 75 songs - 5 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 78,593 likes - 75 songs - 5 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,8 +57,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXdXliePGSvEb.md) - [plain]
 | 47 | [E After Next](https://open.spotify.com/track/1yb4K5pUkIfRZIw32ZaTvx) | [Avalon Emerson](https://open.spotify.com/artist/4yrO1N273PlTaixa4BNwBz), [Moby](https://open.spotify.com/artist/3OsRAKCvk37zwYcnzRf5XF) | [E After Next](https://open.spotify.com/album/1YNNaOiibKxllupH7pcEyU) | 3:59 |
 | 48 | [Feel It For You](https://open.spotify.com/track/76vnxLIS70EvlISthDydnE) | [PARISI](https://open.spotify.com/artist/1UJfZU4rQx3bJ3tGypRuAT) | [Feel It For You](https://open.spotify.com/album/5JsQ0nnJ1jzG6QsjZyIh0F) | 3:31 |
 | 49 | [132 TECHNO](https://open.spotify.com/track/13thxVYAfM7IGa4HLWGjI1) | [Kelly Lee Owens](https://open.spotify.com/artist/5eitAUlYmlha3LLWg7aBn5) | [132 TECHNO](https://open.spotify.com/album/0aXbjkmx97z1wdTCbf79WY) | 5:34 |
-| 50 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
-| 51 | [Groove On](https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Groove On](https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ) | 3:29 |
+| 50 | [Groove On](https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH) | [Tripolism](https://open.spotify.com/artist/18JlbX3l0yzlwdnQVJrLsp), [Avangart Tabldot](https://open.spotify.com/artist/0lX6dTDSYPoxf5OBZgJaZX) | [Groove On](https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ) | 3:29 |
+| 51 | [Manía](https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg) | [Pangaea](https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE), [Jazz Alonso](https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY) | [Manía](https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy) | 2:51 |
 | 52 | [TANK IT](https://open.spotify.com/track/4ubO4kObhIGP6kHN1QPE3r) | [Sentimento](https://open.spotify.com/artist/3jCZxcHy73RLlHU5WWZDqa) | [TANK IT](https://open.spotify.com/album/081KqR46idkIxhnf5TgQLD) | 2:37 |
 | 53 | [Bailarina](https://open.spotify.com/track/0bjU18qoUNAJbZm9zz2OeX) | [DJ Gigola](https://open.spotify.com/artist/7feJmqQ32fTIPKBmPXwHXf) | [Bigroom Sensual II](https://open.spotify.com/album/2x2mFRvZa0njVoPaWE2BTK) | 4:05 |
 | 54 | [Ghost Orchid](https://open.spotify.com/track/69XAj1JQEIsziJbLR8B7AD) | [Nick León](https://open.spotify.com/artist/3qOGTt4eTeEkCn3efhAGu2), [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [A Tropical Entropy](https://open.spotify.com/album/2nzRzw1h5j5Kr6QTjlR3es) | 4:08 |

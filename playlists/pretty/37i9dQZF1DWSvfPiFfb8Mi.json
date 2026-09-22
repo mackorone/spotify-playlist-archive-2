@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:0JQ5DAqbMKFwT0m6BbKvGP\">Disco</a>, house, funk and soul for the good times.",
-  "num_followers": 789607,
+  "num_followers": 789629,
   "original_name": "Poolside Disco",
   "owner": {
     "name": "Spotify",
@@ -63,26 +63,6 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
-        "name": "Lose My Mind",
-        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
-      },
-      "artists": [
-        {
-          "name": "Jamie Jones",
-          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
-        },
-        {
-          "name": "Constance Power",
-          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
-        }
-      ],
-      "duration_ms": 181935,
-      "name": "Lose My Mind",
-      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
         "name": "Murder On The Dancefloor (PNAU Remix)",
         "url": "https://open.spotify.com/album/02oNjidORbldUslV7kMWAZ"
       },
@@ -99,6 +79,26 @@
       "duration_ms": 260006,
       "name": "Murder On The Dancefloor - PNAU Remix",
       "url": "https://open.spotify.com/track/2Rhh3ZhukJfTKoBVzIYTaf"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
+        "name": "Lose My Mind",
+        "url": "https://open.spotify.com/album/4lSzteItXYPqDJNTMOVnX6"
+      },
+      "artists": [
+        {
+          "name": "Jamie Jones",
+          "url": "https://open.spotify.com/artist/4admDxmnri5Zco0xYrJ0ji"
+        },
+        {
+          "name": "Constance Power",
+          "url": "https://open.spotify.com/artist/4RB2kk5dmocmMiHFBlmOEt"
+        }
+      ],
+      "duration_ms": 181935,
+      "name": "Lose My Mind",
+      "url": "https://open.spotify.com/track/5cJZzpcqdwkUvD2f88wcgS"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
+        "name": "tomorrow never comes",
+        "url": "https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "duration_ms": 200655,
+      "name": "what i feel",
+      "url": "https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
         "name": "Getting There From Here (with Todd Edwards)",
         "url": "https://open.spotify.com/album/4q3H03gfjuu77rjquLZCQy"
       },
@@ -699,22 +715,6 @@
       "duration_ms": 248666,
       "name": "Getting There From Here (with Todd Edwards)",
       "url": "https://open.spotify.com/track/2iNsXxaoNuVieLZgbep8bW"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
-        "name": "tomorrow never comes",
-        "url": "https://open.spotify.com/album/56gzHHGgjlbVo0okgZ3kNT"
-      },
-      "artists": [
-        {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
-        }
-      ],
-      "duration_ms": 200655,
-      "name": "what i feel",
-      "url": "https://open.spotify.com/track/0c27JOBxFuSPHqbT3d2BC9"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -767,6 +767,22 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
+        "name": "u can get it",
+        "url": "https://open.spotify.com/album/75Na6z7eq9oeAB44g6fSE8"
+      },
+      "artists": [
+        {
+          "name": "Soul Legend",
+          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
+        }
+      ],
+      "duration_ms": 174545,
+      "name": "u can get it",
+      "url": "https://open.spotify.com/track/3TgBBgdNupVOVKDVskdO0f"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
         "name": "22:22",
         "url": "https://open.spotify.com/album/6753teQnmjiQTbYlJMajYo"
       },
@@ -783,22 +799,6 @@
       "duration_ms": 275493,
       "name": "Petite Etoile",
       "url": "https://open.spotify.com/track/0y0k5s6TpzkTmNxx0r5HDP"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
-        "name": "u can get it",
-        "url": "https://open.spotify.com/album/75Na6z7eq9oeAB44g6fSE8"
-      },
-      "artists": [
-        {
-          "name": "Soul Legend",
-          "url": "https://open.spotify.com/artist/55KBAeJzZBcJ5AhPW5OOpy"
-        }
-      ],
-      "duration_ms": 174545,
-      "name": "u can get it",
-      "url": "https://open.spotify.com/track/3TgBBgdNupVOVKDVskdO0f"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -1111,22 +1111,6 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
-        "name": "Curious Subject",
-        "url": "https://open.spotify.com/album/5tBsx7LYJk6sj86XS2qAlV"
-      },
-      "artists": [
-        {
-          "name": "Chaka Khan",
-          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
-        }
-      ],
-      "duration_ms": 233693,
-      "name": "Curious Subject",
-      "url": "https://open.spotify.com/track/7iXdPnb4EnRwaJiABTQXV4"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
         "name": "Self Control",
         "url": "https://open.spotify.com/album/3vpqwBpHTyoAxx9576yUCj"
       },
@@ -1143,6 +1127,22 @@
       "duration_ms": 186000,
       "name": "Self Control",
       "url": "https://open.spotify.com/track/40Ae5zby2T2LEnWmRSEUhN"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
+        "name": "Curious Subject",
+        "url": "https://open.spotify.com/album/5tBsx7LYJk6sj86XS2qAlV"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        }
+      ],
+      "duration_ms": 233693,
+      "name": "Curious Subject",
+      "url": "https://open.spotify.com/track/7iXdPnb4EnRwaJiABTQXV4"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -1171,26 +1171,6 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
-        "name": "Promises",
-        "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
-      },
-      "artists": [
-        {
-          "name": "WEISS",
-          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
-        },
-        {
-          "name": "Louise Marshall",
-          "url": "https://open.spotify.com/artist/4CyLG34nLgjnptiPPPB7y4"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "Promises",
-      "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
         "name": "Alsace",
         "url": "https://open.spotify.com/album/16a4NKzpvWlgEvwafPXwtS"
       },
@@ -1207,18 +1187,22 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
-        "name": "Feelin' It",
-        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
+        "name": "Promises",
+        "url": "https://open.spotify.com/album/1YE8noC2hgjITjnAx9NU2V"
       },
       "artists": [
         {
-          "name": "Tim Sanders",
-          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
+          "name": "WEISS",
+          "url": "https://open.spotify.com/artist/0FBRY66KVaAiddGVefikLB"
+        },
+        {
+          "name": "Louise Marshall",
+          "url": "https://open.spotify.com/artist/4CyLG34nLgjnptiPPPB7y4"
         }
       ],
-      "duration_ms": 201600,
-      "name": "Feelin' It",
-      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
+      "duration_ms": 166875,
+      "name": "Promises",
+      "url": "https://open.spotify.com/track/62SVe5NdccvqrGPHXV8Vsi"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -1243,22 +1227,18 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
-        "name": "Turn Back Time",
-        "url": "https://open.spotify.com/album/5XSLcgf6JSnl5DIkAR5cAR"
+        "name": "Feelin' It",
+        "url": "https://open.spotify.com/album/299IjiwxpF8g7fBj5kIWd2"
       },
       "artists": [
         {
-          "name": "George Reid",
-          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
-        },
-        {
-          "name": "AlunaGeorge",
-          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
+          "name": "Tim Sanders",
+          "url": "https://open.spotify.com/artist/1E3ho9kLdNdFz1L1JISV82"
         }
       ],
-      "duration_ms": 204230,
-      "name": "Turn Back Time",
-      "url": "https://open.spotify.com/track/442bwi2jfJTT739AT4Hfde"
+      "duration_ms": 201600,
+      "name": "Feelin' It",
+      "url": "https://open.spotify.com/track/3ns0eSpXpwOeA7rf2M6DUS"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -1279,18 +1259,22 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
-        "name": "To Survive",
-        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+        "name": "Turn Back Time",
+        "url": "https://open.spotify.com/album/5XSLcgf6JSnl5DIkAR5cAR"
       },
       "artists": [
         {
-          "name": "Bondax",
-          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+          "name": "George Reid",
+          "url": "https://open.spotify.com/artist/4AhAa3kyJe8OVyN1mxEB6o"
+        },
+        {
+          "name": "AlunaGeorge",
+          "url": "https://open.spotify.com/artist/2VAnyOxzJuSAj7XIuEOT38"
         }
       ],
-      "duration_ms": 238316,
-      "name": "To Survive",
-      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+      "duration_ms": 204230,
+      "name": "Turn Back Time",
+      "url": "https://open.spotify.com/track/442bwi2jfJTT739AT4Hfde"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -1335,6 +1319,22 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
+        "name": "To Survive",
+        "url": "https://open.spotify.com/album/1hzD3roirpvq1c2dW5so89"
+      },
+      "artists": [
+        {
+          "name": "Bondax",
+          "url": "https://open.spotify.com/artist/4qobOrZpdUri80gScwsHfs"
+        }
+      ],
+      "duration_ms": 238316,
+      "name": "To Survive",
+      "url": "https://open.spotify.com/track/6cxlGc6CDSMsYBM2GlX05U"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
         "name": "The Bay (Purple Disco Machine Remix)",
         "url": "https://open.spotify.com/album/57AazaHQG8HBbpVXAjIX7Q"
       },
@@ -1351,26 +1351,6 @@
       "duration_ms": 223824,
       "name": "The Bay - Purple Disco Machine Edit",
       "url": "https://open.spotify.com/track/20yAG2AZyb8zneVpOib7Vm"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
-        "name": "Hold On",
-        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
-      },
-      "artists": [
-        {
-          "name": "Nic Fanciulli",
-          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
-        },
-        {
-          "name": "Marc E. Bassy",
-          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
-        }
-      ],
-      "duration_ms": 179408,
-      "name": "Hold On",
-      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -1395,6 +1375,26 @@
       "duration_ms": 201496,
       "name": "Whisper",
       "url": "https://open.spotify.com/track/0TwPs9I8w7YvxvGAsdhON5"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
+        "name": "Hold On",
+        "url": "https://open.spotify.com/album/2ZOXO6vMwH3mS8sXfxdUkd"
+      },
+      "artists": [
+        {
+          "name": "Nic Fanciulli",
+          "url": "https://open.spotify.com/artist/7btR5VXutQv39SDEzcfXEk"
+        },
+        {
+          "name": "Marc E. Bassy",
+          "url": "https://open.spotify.com/artist/3tQx1LPXbsYjE9VwN1Peaa"
+        }
+      ],
+      "duration_ms": 179408,
+      "name": "Hold On",
+      "url": "https://open.spotify.com/track/2pKo1bX8wqacRFuaPLQ5Pw"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -1491,26 +1491,6 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
-        "name": "Girl",
-        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
-      },
-      "artists": [
-        {
-          "name": "Dam Swindle",
-          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
-        },
-        {
-          "name": "Faye Meana",
-          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
-        }
-      ],
-      "duration_ms": 204366,
-      "name": "Girl",
-      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
         "name": "Disco Nap",
         "url": "https://open.spotify.com/album/5JKmDfJ8DFs5l3jqFyUOX7"
       },
@@ -1527,6 +1507,26 @@
       "duration_ms": 193226,
       "name": "Disco Nap",
       "url": "https://open.spotify.com/track/3o7jpoacI4FX1SlSdsOT2g"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
+        "name": "Girl",
+        "url": "https://open.spotify.com/album/4IvMviHwBSrZ8yRf1DMIEa"
+      },
+      "artists": [
+        {
+          "name": "Dam Swindle",
+          "url": "https://open.spotify.com/artist/6hJtgCB3L5cnJSND7sp6GU"
+        },
+        {
+          "name": "Faye Meana",
+          "url": "https://open.spotify.com/artist/0IYLHzQ2biFwd5DNJUZ5yP"
+        }
+      ],
+      "duration_ms": 204366,
+      "name": "Girl",
+      "url": "https://open.spotify.com/track/2n9p4ri8vpgioUfGDrzkM8"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
+        "name": "Real Cultural Shit",
+        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
+      },
+      "artists": [
+        {
+          "name": "Channel Tres",
+          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
+        }
+      ],
+      "duration_ms": 243759,
+      "name": "All My Friends",
+      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
         "name": "All This Love",
         "url": "https://open.spotify.com/album/353L5BWNL1PQaHeF6gTkBb"
       },
@@ -1611,22 +1627,6 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
-        "name": "Real Cultural Shit",
-        "url": "https://open.spotify.com/album/4M0PUnWTYYea4Eomsg14D0"
-      },
-      "artists": [
-        {
-          "name": "Channel Tres",
-          "url": "https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp"
-        }
-      ],
-      "duration_ms": 243759,
-      "name": "All My Friends",
-      "url": "https://open.spotify.com/track/7Cgxt0jumHS0Z5B9xmStnS"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
         "name": "Not Enough",
         "url": "https://open.spotify.com/album/3TvwA3K80Jm1ONRCfdSrDg"
       },
@@ -1647,26 +1647,6 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
-        "name": "Waiting So Long",
-        "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
-      },
-      "artists": [
-        {
-          "name": "Daphni",
-          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
-        },
-        {
-          "name": "Caribou",
-          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
-        }
-      ],
-      "duration_ms": 234140,
-      "name": "Waiting So Long",
-      "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
         "name": "Won't Let U Down",
         "url": "https://open.spotify.com/album/3wCvTUaQH5q0Muh5xLTOdC"
       },
@@ -1683,6 +1663,26 @@
       "duration_ms": 251725,
       "name": "Won't Let U Down",
       "url": "https://open.spotify.com/track/26p0MOzovqgqMAPVAH6Lx6"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
+        "name": "Waiting So Long",
+        "url": "https://open.spotify.com/album/4EQteLPHt5FDzqbStNWw2h"
+      },
+      "artists": [
+        {
+          "name": "Daphni",
+          "url": "https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9"
+        },
+        {
+          "name": "Caribou",
+          "url": "https://open.spotify.com/artist/4aEnNH9PuU1HF3TsZTru54"
+        }
+      ],
+      "duration_ms": 234140,
+      "name": "Waiting So Long",
+      "url": "https://open.spotify.com/track/7AVLgpaYZMSwyOLXATjET8"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -1907,6 +1907,26 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
+        "name": "Gotta Be",
+        "url": "https://open.spotify.com/album/0pWZ6tl5NxBHWIGNffjG0T"
+      },
+      "artists": [
+        {
+          "name": "Cedric Gervais",
+          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
+        },
+        {
+          "name": "Carla Monroe",
+          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
+        }
+      ],
+      "duration_ms": 202380,
+      "name": "Gotta Be",
+      "url": "https://open.spotify.com/track/4xMKaAg2LUNaGo8y5JGI2W"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
         "name": "Lift Off",
         "url": "https://open.spotify.com/album/6yE8MgmmLOSmPWF2tNf2Xa"
       },
@@ -1947,26 +1967,6 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
-        "name": "Gotta Be",
-        "url": "https://open.spotify.com/album/0pWZ6tl5NxBHWIGNffjG0T"
-      },
-      "artists": [
-        {
-          "name": "Cedric Gervais",
-          "url": "https://open.spotify.com/artist/4Wjf8diP59VmPG7fi4y724"
-        },
-        {
-          "name": "Carla Monroe",
-          "url": "https://open.spotify.com/artist/4S9LNSZusH3XflT3g32bqB"
-        }
-      ],
-      "duration_ms": 202380,
-      "name": "Gotta Be",
-      "url": "https://open.spotify.com/track/4xMKaAg2LUNaGo8y5JGI2W"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
         "name": "Inferno (No. 1)",
         "url": "https://open.spotify.com/album/3mNy09ndnknuV2bBxno7IG"
       },
@@ -1991,6 +1991,22 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
+        "name": "Time To Move",
+        "url": "https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu"
+      },
+      "artists": [
+        {
+          "name": "Tony Romera",
+          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
+        }
+      ],
+      "duration_ms": 191484,
+      "name": "Time To Move",
+      "url": "https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
         "name": "Unconditional feat. Rationale (Girls of the Internet Remix)",
         "url": "https://open.spotify.com/album/3gUYvadzKc0kkqhVVr7wpF"
       },
@@ -2011,22 +2027,6 @@
       "duration_ms": 230064,
       "name": "Unconditional feat. Rationale - Girls of the Internet Remix",
       "url": "https://open.spotify.com/track/6ela7oGjcs7g9C7RmzgJu9"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
-        "name": "Time To Move",
-        "url": "https://open.spotify.com/album/5egmcXngQYxEeLSgqvYYbu"
-      },
-      "artists": [
-        {
-          "name": "Tony Romera",
-          "url": "https://open.spotify.com/artist/7GQsOji7pfixzkLt63awo5"
-        }
-      ],
-      "duration_ms": 191484,
-      "name": "Time To Move",
-      "url": "https://open.spotify.com/track/7Jx9lbS4f4uUfHtDJLjRQz"
     },
     {
       "added_at": "2026-09-18 04:02:32",
@@ -2107,6 +2107,26 @@
     {
       "added_at": "2026-09-18 04:02:32",
       "album": {
+        "name": "Let It Go, Baby",
+        "url": "https://open.spotify.com/album/4HI1lOIgwvh4dfaP2Qt4eZ"
+      },
+      "artists": [
+        {
+          "name": "A/S/L",
+          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
+        },
+        {
+          "name": "Caius",
+          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
+        }
+      ],
+      "duration_ms": 149374,
+      "name": "Let It Go, Baby",
+      "url": "https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL"
+    },
+    {
+      "added_at": "2026-09-18 04:02:32",
+      "album": {
         "name": "Velvet Seas Remixed",
         "url": "https://open.spotify.com/album/6nvCRrz1vIjUYkFRo2TdiO"
       },
@@ -2127,26 +2147,6 @@
       "duration_ms": 260602,
       "name": "Velvet Seas - Ray Mang Remix Short",
       "url": "https://open.spotify.com/track/6EHU5HEN4XZ3Z9M77AN0Px"
-    },
-    {
-      "added_at": "2026-09-18 04:02:32",
-      "album": {
-        "name": "Let It Go, Baby",
-        "url": "https://open.spotify.com/album/4HI1lOIgwvh4dfaP2Qt4eZ"
-      },
-      "artists": [
-        {
-          "name": "A/S/L",
-          "url": "https://open.spotify.com/artist/2BX74Qt23X4mO6oAK28KBh"
-        },
-        {
-          "name": "Caius",
-          "url": "https://open.spotify.com/artist/4IQxLwHL2e8JRPQ1kbMuwi"
-        }
-      ],
-      "duration_ms": 149374,
-      "name": "Let It Go, Baby",
-      "url": "https://open.spotify.com/track/26PMn3tJlBnnDsSwKn4QIL"
     },
     {
       "added_at": "2026-09-18 04:02:32",

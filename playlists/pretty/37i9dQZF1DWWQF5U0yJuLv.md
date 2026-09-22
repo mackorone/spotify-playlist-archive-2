@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 
 > Glitch and giggle with these whimsically warped bouncy bops 🤖
 
-[Spotify](https://open.spotify.com/user/spotify) - 65,186 likes - 150 songs - 11 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 65,214 likes - 150 songs - 11 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 15 | [Age of Phase](https://open.spotify.com/track/0xIo8d1CLxARzQhaZwJ1RM) | [Bonobo](https://open.spotify.com/artist/0cmWgDlu9CwTgxPhf403hb) | [Fragments](https://open.spotify.com/album/4KjbNbnTnJ97kZgQkOHr6v) | 5:42 |
 | 16 | [Fingerbib](https://open.spotify.com/track/2hcywxHZcxmX27lX5qm8MT) | [Aphex Twin](https://open.spotify.com/artist/6kBDZFXuLrZgHnvmPu9NsG) | [Richard D\. James Album](https://open.spotify.com/album/77Lae5VorRCNpgZFMW8yRO) | 3:48 |
 | 17 | [Parallel 6](https://open.spotify.com/track/3rI6J22xq3t8RDpxIOBo1C) | [Four Tet](https://open.spotify.com/artist/7Eu1txygG6nJttLHbZdQOh) | [Parallel](https://open.spotify.com/album/1xrXrgQDQzTlGrDYhX8ikT) | 5:06 |
-| 18 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
-| 19 | [Brace Yourself Jason](https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 6:22 |
+| 18 | [Brace Yourself Jason](https://open.spotify.com/track/4Z8jptUDjJDuxBf0pSOvSi) | [µ\-Ziq](https://open.spotify.com/artist/7AiamoV760pPGGM5PbOC6X) | [Lunatic Harness](https://open.spotify.com/album/5Rc5G86a4zX96HlyHYeGsX) | 6:22 |
+| 19 | [Resynthesis 3D \(Binaural Version \- Headphones Only\)](https://open.spotify.com/track/1c7inucFjGndMO3QTsl0lg) | [Max Cooper](https://open.spotify.com/artist/0WSSKmoRbxqLf3MnXInQ2J) | [3D Reworks 001](https://open.spotify.com/album/15PC8OBWZycbckdl1VOYle) | 4:56 |
 | 20 | [Volver \- Oboe Remix](https://open.spotify.com/track/0LB9eAqowGmeZlML4nbzuh) | [Hidrogenesse](https://open.spotify.com/artist/2vJ1aFdCPa1wYLqrlTvKuY) | [Volver](https://open.spotify.com/album/0fkdChNifpc3QI6UyXCDpo) | 3:41 |
 | 21 | [Aminals](https://open.spotify.com/track/2sNkvl4WwkVeJGyg4maxEp) | [Baths](https://open.spotify.com/artist/5zS8r5hRRk1jzD41yYS1NO) | [Cerulean](https://open.spotify.com/album/1jjUFDODxguSdb2hZLF2au) | 3:18 |
 | 22 | [Faux savage](https://open.spotify.com/track/7KvVIORJJStrkmynVw2Y8r) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [Miniatures de auto rhythm](https://open.spotify.com/album/4FzlCyvEDrvU8pHmgCUKkn) | 2:23 |
@@ -74,14 +74,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWQF5U0yJuLv.md) - [plain]
 | 64 | [Mahi Mahi](https://open.spotify.com/track/2NUTRCnkJOycn9NR81MeZU) | [Moonfish](https://open.spotify.com/artist/5sk1WHyEFppVeVrnR6n44T), [Maria Chiara Argirò](https://open.spotify.com/artist/2uz9ERD3U5c4F2CZDS0mzb), [Riccardo Chiaberta](https://open.spotify.com/artist/5VR6i2FLaAb6IXYXzFz9C1) | [Mahi Mahi](https://open.spotify.com/album/01NhlAP50bCVa1jcPcibEC) | 3:16 |
 | 65 | [Kompod](https://open.spotify.com/track/2mVKgtDpXmtrx2mBePRwLc) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Iaora Tahiti](https://open.spotify.com/album/1SyTP3tlVWLNc7FPUaEQii) | 4:10 |
 | 66 | [Familiar Flavours](https://open.spotify.com/track/5DahiVparbFG67nqloWPSL) | [700 Feel](https://open.spotify.com/artist/4dyipJdNkRIUS9DrMohalV) | [Familiar Flavours](https://open.spotify.com/album/2OJCNJVU3nDjLVV5PzZRCU) | 4:20 |
-| 67 | [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 |
-| 68 | [Honsu](https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Candid](https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8) | 5:48 |
+| 67 | [Honsu](https://open.spotify.com/track/3JVOhIX4w5B1pxQWRuQ9Ay) | [Polygonia](https://open.spotify.com/artist/1bvMkEwyURFPl2eDGZieUm), [Simon Popp](https://open.spotify.com/artist/3g6w2ATRPWhtFCUtkDIdcp) | [Candid](https://open.spotify.com/album/2dZ4PzloNP6kuApH6WRdK8) | 5:48 |
+| 68 | [Mechanical Advantage](https://open.spotify.com/track/6zTO0Y58ZBd1ZMjH0EIX1X) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Existenzmaximum \- EP](https://open.spotify.com/album/3NWkkkqOSXEr0w7VS8oLyl) | 2:01 |
 | 69 | [After Gold](https://open.spotify.com/track/3Nr62FFbrwPRAAmKoLbR7a) | [Kelpe](https://open.spotify.com/artist/6D5qrT7NQXcdvFTtCJNszl) | [Cambio Wechsel](https://open.spotify.com/album/2a5VqPCZr3SFu2aUdQseP2) | 6:30 |
 | 70 | [Night And Day](https://open.spotify.com/track/7hflY8LpoAi4bUF7hBOWSX) | [Raymond Scott](https://open.spotify.com/artist/31DffUzogcRBJT3Andaqtt) | [Manhattan Research, Inc.](https://open.spotify.com/album/7ctcZZGbNxjwHb46pMRZ7D) | 1:45 |
 | 71 | [Delia Derbyshire](https://open.spotify.com/track/5z7m0r7VqF45d6ZqQ7WBL4) | [King Of Woolworths](https://open.spotify.com/artist/4aeNorERmnd7xuHWBJvsTd) | [L'illustration Musicale](https://open.spotify.com/album/6caV1YMVhGYooSA5G94ys1) | 6:10 |
-| 72 | [Tanz Mit Mir](https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Tanz Mit Mir](https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn) | 5:43 |
-| 73 | [Off\-Piste](https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Onism](https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0) | 4:36 |
-| 74 | [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 |
+| 72 | [to all the plants i loved](https://open.spotify.com/track/6lvQXM7GBbnuFMQwEIHCDX) | [s e r é n a t e](https://open.spotify.com/artist/6Mrjj6yM6eFCKfQtHxzeUq) | [caso de estudio](https://open.spotify.com/album/7k3qFMpJYBXVg4x634Aopp) | 3:45 |
+| 73 | [Tanz Mit Mir](https://open.spotify.com/track/1FBJbDjXg2rfih1ITZoqUP) | [Datassette](https://open.spotify.com/artist/5bTaUOrBY8IWCwW12jCU5U) | [Tanz Mit Mir](https://open.spotify.com/album/4vNzlHsH4NHckL127Tu6tn) | 5:43 |
+| 74 | [Off\-Piste](https://open.spotify.com/track/3Du0PkY1azjluiVSb9U5Ru) | [Photay](https://open.spotify.com/artist/1MSxOmIt7uYgvPydd1tU8F) | [Onism](https://open.spotify.com/album/6lw2Nl3pITEMMuhVFMWKj0) | 4:36 |
 | 75 | [Sui Shop](https://open.spotify.com/track/5LWSgShNUgKx8qSafzP7Hz) | [Mouse On Mars](https://open.spotify.com/artist/4ZgIWfyg9BkcqnJJ2xVR3f) | [Autoditacker](https://open.spotify.com/album/5P9DDpnB41FCcYQG3YkqQl) | 5:12 |
 | 76 | [Tomorrow](https://open.spotify.com/track/1lu4JpljcLFa6dRfkcRHsa) | [Murcof](https://open.spotify.com/artist/0liG9qD19eWrt5Ur4cnsYd) | [Twin Color \(Extended Play No\. 1\)](https://open.spotify.com/album/0fqGDzapdDVhkYbCD38se3) | 6:29 |
 | 77 | [Warm Electronics Box](https://open.spotify.com/track/4DGStMzbYCCuNy5GoPfUCC) | [RX\-101](https://open.spotify.com/artist/1nxxFDcQjl85Vn3PSZs651) | [Dopamine](https://open.spotify.com/album/32dttKpIJvL2ndTAUSyQui) | 5:49 |

@@ -1,8 +1,8 @@
 [pretty](/playlists/pretty/37i9dQZF1DWYP6zmGbwfYH.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DWYP6zmGbwfYH) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DWYP6zmGbwfYH)
 
-### [Canciones para lavar la camiseta](https://open.spotify.com/playlist/37i9dQZF1DWYP6zmGbwfYH)
+### [Canciones para lavar](https://open.spotify.com/playlist/37i9dQZF1DWYP6zmGbwfYH)
 
-> ¡Aceptémoslo! Esa camiseta ya apesta y tienes poco tiempo para que se seque.
+> Tallando, bailando y cantando.
 
 365 songs - 21 hr 32 min
 

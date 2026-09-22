@@ -1,12 +1,12 @@
 {
   "description": "This is Maren Morris. The essential tracks, all in one playlist.",
-  "num_followers": 75877,
+  "num_followers": 75875,
   "original_name": "This Is Maren Morris",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABoreqE/TlMjVGC/MNHnpp0",
+  "snapshot_id": "aq8iAAAAAABlD1JTbRCGRS7Ki0enYRzS",
   "tracks": [
     {
       "added_at": null,
@@ -795,18 +795,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "GIRL",
-        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
+        "name": "Highway Queen (feat. Maren Morris)",
+        "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
       },
       "artists": [
+        {
+          "name": "Mt. Joy",
+          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
+        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 187638,
-      "name": "The Feels",
-      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
+      "duration_ms": 211485,
+      "name": "Highway Queen (feat. Maren Morris)",
+      "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
     },
     {
       "added_at": null,
@@ -827,22 +831,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scissors",
-        "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
+        "name": "GIRL",
+        "url": "https://open.spotify.com/album/3XpxioqzCTiqOSuHTXuaGf"
       },
       "artists": [
-        {
-          "name": "Julia Michaels",
-          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
-        },
         {
           "name": "Maren Morris",
           "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
         }
       ],
-      "duration_ms": 145622,
-      "name": "Scissors",
-      "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
+      "duration_ms": 187638,
+      "name": "The Feels",
+      "url": "https://open.spotify.com/track/4c10Mtlt9dPeKvP61sicAs"
     },
     {
       "added_at": null,
@@ -879,6 +879,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Scissors",
+        "url": "https://open.spotify.com/album/4xcHcXY1WvL6MaSpEsBICL"
+      },
+      "artists": [
+        {
+          "name": "Julia Michaels",
+          "url": "https://open.spotify.com/artist/0ZED1XzwlLHW4ZaG4lOT6m"
+        },
+        {
+          "name": "Maren Morris",
+          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
+        }
+      ],
+      "duration_ms": 145622,
+      "name": "Scissors",
+      "url": "https://open.spotify.com/track/3JNgfzJac40BSzCc3H0e1i"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "D R E A M S I C L E",
         "url": "https://open.spotify.com/album/5joLpod4NFAHs4p1ORo8g2"
       },
@@ -895,26 +915,6 @@
       "duration_ms": 128160,
       "name": "cut! (feat. Julia Michaels)",
       "url": "https://open.spotify.com/track/4kRlL390PfYKVAirO1ZUhZ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Highway Queen (feat. Maren Morris)",
-        "url": "https://open.spotify.com/album/6UzzFc365CidnoOcEfs3qb"
-      },
-      "artists": [
-        {
-          "name": "Mt. Joy",
-          "url": "https://open.spotify.com/artist/69tiO1fG8VWduDl3ji2qhI"
-        },
-        {
-          "name": "Maren Morris",
-          "url": "https://open.spotify.com/artist/6WY7D3jk8zTrHtmkqqo5GI"
-        }
-      ],
-      "duration_ms": 211485,
-      "name": "Highway Queen (feat. Maren Morris)",
-      "url": "https://open.spotify.com/track/4KjOZ6Ny13zPbBFH7Od8bt"
     },
     {
       "added_at": null,

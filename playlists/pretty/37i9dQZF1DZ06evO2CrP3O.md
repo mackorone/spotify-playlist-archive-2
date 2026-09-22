@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 
 > This is Blondie\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 143,422 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 143,429 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CrP3O.md) - [plain]
 | 49 | [One Way Or Another \- Live](https://open.spotify.com/track/3l0VXECEIHBasR2gYKezNO) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB) | [Live](https://open.spotify.com/album/6c3BB1ehH8VjFTj0lDXLoz) | 3:38 |
 | 50 | [No Exit \- feat\. Coolio](https://open.spotify.com/track/16tZD5aSFYCIkjyKMoatrp) | [Blondie](https://open.spotify.com/artist/4tpUmLEVLCGFr93o8hFFIB), [Coolio](https://open.spotify.com/artist/3y24n3XhZ96wgwRXjvS17T) | [No Exit](https://open.spotify.com/album/5S2GbGAovtosBWJfQNJBD4) | 4:19 |
 
-Snapshot ID: `aq3QgAAAAACnfr7w1/toudapuVQkKkNq`
+Snapshot ID: `aq8iAAAAAABVwFfAp0NoERbV/DhX6rLm`

@@ -1,12 +1,12 @@
 {
   "description": "This is Akon. The essential tracks, all in one playlist.",
-  "num_followers": 347069,
+  "num_followers": 347098,
   "original_name": "This Is Akon",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAA3604v5GMC9qDwpKEWPasY",
+  "snapshot_id": "aq8iAAAAAACMh033tqzkY4fPqb1/E0jM",
   "tracks": [
     {
       "added_at": null,
@@ -268,9 +268,9 @@
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 235306,
-      "name": "Ghetto",
-      "url": "https://open.spotify.com/track/09JkIMWSVYi143LoWnY1fa"
+      "duration_ms": 235066,
+      "name": "Locked Up",
+      "url": "https://open.spotify.com/track/48EQasc6XD0pOQtkIOWqOC"
     },
     {
       "added_at": null,
@@ -336,9 +336,9 @@
           "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
         }
       ],
-      "duration_ms": 235066,
-      "name": "Locked Up",
-      "url": "https://open.spotify.com/track/48EQasc6XD0pOQtkIOWqOC"
+      "duration_ms": 235306,
+      "name": "Ghetto",
+      "url": "https://open.spotify.com/track/09JkIMWSVYi143LoWnY1fa"
     },
     {
       "added_at": null,
@@ -695,34 +695,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HONEY",
-        "url": "https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN"
-      },
-      "artists": [
-        {
-          "name": "Levi",
-          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Roy Woods",
-          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
-        },
-        {
-          "name": "Halle Abadi",
-          "url": "https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW"
-        }
-      ],
-      "duration_ms": 162750,
-      "name": "HONEY",
-      "url": "https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Dangerous",
         "url": "https://open.spotify.com/album/09hwTvcIp4AK8nKDDHZppF"
       },
@@ -763,6 +735,34 @@
       "duration_ms": 235120,
       "name": "Kush - Main",
       "url": "https://open.spotify.com/track/1U8Ho1nOzKXYDvfigOuHG4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HONEY",
+        "url": "https://open.spotify.com/album/2PCSMP8JYKfYvBv2AZ4SaN"
+      },
+      "artists": [
+        {
+          "name": "Levi",
+          "url": "https://open.spotify.com/artist/1M4OBXDWyLtubqa3SBLxwC"
+        },
+        {
+          "name": "Akon",
+          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
+        },
+        {
+          "name": "Roy Woods",
+          "url": "https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM"
+        },
+        {
+          "name": "Halle Abadi",
+          "url": "https://open.spotify.com/artist/7mA4vx3PZgpnmvmvYblrTW"
+        }
+      ],
+      "duration_ms": 162750,
+      "name": "HONEY",
+      "url": "https://open.spotify.com/track/0UbTNEp33rfhRrMgON4Jr3"
     },
     {
       "added_at": null,

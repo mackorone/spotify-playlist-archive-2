@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 
 > All the New Joints featuring BigXthaPlug, Yeat, AZ Chike and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 393,353 likes - 59 songs - 2 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 393,417 likes - 59 songs - 2 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -35,7 +35,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4SrOBCjlfVi.md) - [plain]
 | 25 | [I'm Good](https://open.spotify.com/track/7306lGgwtFFpubz8PN4Z0G) | [Rakim](https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE), [Kurupt](https://open.spotify.com/artist/6NyJIFHAePjHR1pFxwisqz), [Masta Killa](https://open.spotify.com/artist/0ME1RawvWt3qOJnYnxVqeh) | [DPG WU\-TANG, WU\-TANG DPG \-THE GODBODY LP\-](https://open.spotify.com/album/2KovdnHtmmm4JrAmln3Yqp) | 5:15 |
 | 26 | [WIRED \(feat\. Renji\)](https://open.spotify.com/track/1SDTdgLYd4s2Mju7LZ4Htb) | [CasFlow](https://open.spotify.com/artist/3MvhTtYlSSPd6xi5ZWBIRo), [Oren Major](https://open.spotify.com/artist/2GVJFlxLNa8dojyGoDANMS), [Enphamus](https://open.spotify.com/artist/1YuG9W2X7E1yLwM0qDeGUb), [Ace Hood](https://open.spotify.com/artist/31HjiqargV4NAw4GZqUale), [Renji](https://open.spotify.com/artist/2mEh1t3vzLmYOj9sEaeqz4) | [WIRED \(feat\. Renji\)](https://open.spotify.com/album/5nY2wu0hkjVim8Jf4cr5Gf) | 3:25 |
 | 27 | [LIFE](https://open.spotify.com/track/5BrduhEFRULhUw1YorXoJW) | [Traffic](https://open.spotify.com/artist/5z4GIgsp4Ex4mTJBaIcRG2), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Saint Pat Beatz](https://open.spotify.com/artist/6tU9QPA8WWVqRyTSeD8KkS), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [LIFE](https://open.spotify.com/album/6c6Yu97fDseg3vAuhnsF4W) | 4:00 |
-| 28 | [Never Tell](https://open.spotify.com/track/5uzRXTJF2a5dsvj0OY7nYz) | [Narco Juliet](https://open.spotify.com/artist/6BzV00UB67RkdQEdg2AGkT), [Ken Carson](https://open.spotify.com/artist/6NuphuJjIbOHlwGOtligTb), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx), [SUMMER ALONE](https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek) | [Never Tell](https://open.spotify.com/album/3QXwzjiIJJSrys2gmRd14t) | 3:16 |
+| 28 | [Never Tell](https://open.spotify.com/track/5uzRXTJF2a5dsvj0OY7nYz) | [Narco Juliet](https://open.spotify.com/artist/6BzV00UB67RkdQEdg2AGkT), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx), [SUMMER ALONE](https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek) | [Never Tell](https://open.spotify.com/album/3QXwzjiIJJSrys2gmRd14t) | 3:16 |
 | 29 | [LIKE ME](https://open.spotify.com/track/5BntdOP4LcX8BUCzGjqPu5) | [Lil Eazzyy](https://open.spotify.com/artist/0rpUnzu4JIoRkKkGvdcm7b) | [LIKE ME](https://open.spotify.com/album/3ifsdfcHnEGXeuV8KiyW5V) | 2:01 |
 | 30 | [Where I Been](https://open.spotify.com/track/3gWPEFzEHHwvPTJikdGgVa) | [Yella Beezy](https://open.spotify.com/artist/7kwCkEJ384PWm0UQW3hxjS) | [Where I Been](https://open.spotify.com/album/0nK7OVTBG8GmmSiY9wMesR) | 3:01 |
 | 31 | [oregon](https://open.spotify.com/track/5qhQxCGNZJSxxQzIbY53Z9) | [TopOppGen](https://open.spotify.com/artist/0TZD5e7AMfl6KIOoBrAoye) | [oregon](https://open.spotify.com/album/6bzYaro2osu4ufJ8LXYcHO) | 2:05 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 
 > Tu banda sonora de este verano\. Foto: rusowsky, KAROL G, Judeline.
 
-[Spotify](https://open.spotify.com/user/spotify) - 762,821 likes - 50 songs - 2 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 762,778 likes - 50 songs - 2 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,7 +18,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9gKTxAbfFfX.md) - [plain]
 | 8 | [MARBELLA NIGHTS](https://open.spotify.com/track/4SMRlez6IzFd96LAsegLkM) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51) | [MARBELLA NIGHTS](https://open.spotify.com/album/6qUg3c6l37bFClwblfcYXq) | 2:51 |
 | 9 | [UNA NA MAS](https://open.spotify.com/track/1VQl8TsBw2XMhhgdA3WuFk) | [Myke Towers](https://open.spotify.com/artist/7iK8PXO48WeuP03g8YR51W) | [UNA NA MAS](https://open.spotify.com/album/4KsLRrdsmskz2N1nlFrACQ) | 3:16 |
 | 10 | [De Lejitos \- Remix](https://open.spotify.com/track/5dgREmLlxVJn6h8U0CofEo) | [Jay Wheeler](https://open.spotify.com/artist/2cPqdH7XMvwaBJEVjheH8g), [Omar Courtz](https://open.spotify.com/artist/3E12tRURRvPfHz0hAMCFYc) | [La Voz Favorita](https://open.spotify.com/album/1g4gOThJ1Go0FCkj8gLgWQ) | 4:36 |
-| 11 | [No te vistas](https://open.spotify.com/track/2iuxAZMqdNOFYS0LAkdJbU) | [K\-Narias](https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [No te vistas](https://open.spotify.com/album/5372YG5MZLGEEqzuKHELXT) | 3:09 |
+| 11 | [NO TE VISTAS](https://open.spotify.com/track/2iuxAZMqdNOFYS0LAkdJbU) | [K\-Narias](https://open.spotify.com/artist/6bwz9tsKnEgaWbwGobFWQR), [Lucho RK](https://open.spotify.com/artist/1y6tVxTqgNfqxTayfohSKJ), [Juacko](https://open.spotify.com/artist/0LLnP7NEsEQ1pSCfsuYURr) | [NO TE VISTAS](https://open.spotify.com/album/5372YG5MZLGEEqzuKHELXT) | 3:09 |
 | 12 | [Rayos de Sol \(feat\. Jose De Rico\) \- Remix](https://open.spotify.com/track/5mTdH9qtGmem11SmHYjBuS) | [Henry Mendez](https://open.spotify.com/artist/4mnY9Vvz3GXQIyHljvWnY1), [Juan Magán](https://open.spotify.com/artist/1ackd5XprZEkH3McKbQD51), [Chino & Nacho](https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [José de Rico](https://open.spotify.com/artist/2ny2IhV61AbrsaWpjvGM7m) | [Rayos de Sol \(feat\. Jose De Rico\) \[Remix\]](https://open.spotify.com/album/72GhozLLOSZssWN4JUUYiy) | 2:53 |
 | 13 | [malibU](https://open.spotify.com/track/4uulymZhmebsjKedRaJ1gQ) | [rusowsky](https://open.spotify.com/artist/1XEVu7gdRFfzEFqsPrancH) | [DAISY](https://open.spotify.com/album/0o1RGF3A02UN1aVAX1SLuQ) | 3:35 |
 | 14 | [NO LE DIGO QUE NO](https://open.spotify.com/track/5NOVfpl0Xm8D6vIl0sKJeL) | [Los Buyer](https://open.spotify.com/artist/3xl8Gk7AszFwtV0BMW0Q0J), [Pikeras](https://open.spotify.com/artist/3Rk6ZWHH97W7zdoehmzt5G) | [NO LE DIGO QUE NO](https://open.spotify.com/album/0olpYQpV0MSYXhvFj2DDLn) | 2:25 |

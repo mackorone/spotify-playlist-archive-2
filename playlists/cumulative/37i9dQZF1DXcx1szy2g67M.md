@@ -4,7 +4,7 @@
 
 > Kom maar op met de indian summer 2026!
 
-971 songs - 2 day 0 hr 58 min
+972 songs - 2 day 1 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -747,6 +747,7 @@
 | [She](https://open.spotify.com/track/4nidpqxJxWkpI1J1cQYIjX) | [MICHA](https://open.spotify.com/artist/7a5xPqxWpIHk4tcdv7bDc6) | [She](https://open.spotify.com/album/5ctwYNecOlD65X81p0RHhl) | 3:09 | 2026-01-22 | 2026-06-02 |
 | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN) | [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE), [Zara Larsson](https://open.spotify.com/artist/1Xylc3o4UrD53lo9CvFvVg) | [SHE DID IT AGAIN \(feat\. Zara Larsson\)](https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B) | 3:33 | 2026-05-04 | 2026-09-11 |
 | [She Knows \- with Akon](https://open.spotify.com/track/3zkb0907pOJqU7m3Qh5hB7) | [Dimitri Vegas & Like Mike](https://open.spotify.com/artist/73jBynjsVtofjRpdpRAJGk), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Akon](https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV) | [She Knows \(with Akon\)](https://open.spotify.com/album/0pj4zHdT9FsFOkpA9Qic4F) | 2:15 | 2023-07-20 | 2023-10-01 |
+| [Shine](https://open.spotify.com/track/5VhHd1NH4lxUGddilFQBmY) | [HUGEL](https://open.spotify.com/artist/5PlfkPxwCpRRWQJBxCa0By), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [French Montana](https://open.spotify.com/artist/6vXTefBL93Dj5IqAWq6OTv), [Aidan Martin](https://open.spotify.com/artist/3JKrNnhjEv9h3fyKhQpylb) | [Twenty One](https://open.spotify.com/album/2DqYYMyMxHuU8ckewgpPXG) | 2:27 | 2026-09-21 |  |
 | [Show Me Love \(with Tyla\)](https://open.spotify.com/track/22YkP95GjCfXkWKyU5k1zZ) | [WizTheMc](https://open.spotify.com/artist/3ebS2RuCq8QeLyndUDmgB5), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [Tyla](https://open.spotify.com/artist/3SozjO3Lat463tQICI9LcE) | [Show Me Love \(with Tyla\)](https://open.spotify.com/album/2JJn1NNlaGZ0iWtjVep9Ti) | 2:56 | 2025-04-24 | 2026-02-17 |
 | [Si Antes Te Hubiera Conocido](https://open.spotify.com/track/6WatFBLVB0x077xWeoVc2k) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Si Antes Te Hubiera Conocido](https://open.spotify.com/album/5ylbxH7EqpsmHZCRuiYewS) | 3:15 | 2024-06-24 | 2025-09-21 |
 | [Si No Estás](https://open.spotify.com/track/2HafqoJbgXdtjwCOvNEF14) | [iñigo quintero](https://open.spotify.com/artist/0jbo7KFNMiIkfBR6ih0yhm) | [Si No Estás](https://open.spotify.com/album/66k6EGkPtYoN44anGIsEPW) | 3:04 | 2023-10-12 | 2024-05-03 |
@@ -766,7 +767,7 @@
 | [Slow Low](https://open.spotify.com/track/4MQXkF0FjdlqEHy73IZfoO) | [Jason Derulo](https://open.spotify.com/artist/07YZf4WDAMNwqr4jfgOZ8y) | [Slow Low](https://open.spotify.com/album/7sjRFU0NZtRbPwAPDlvu8x) | 3:04 | 2023-08-01 | 2023-11-11 |
 | [Slow Motion](https://open.spotify.com/track/2xijXb00w9o7Ol04MPCL6c) | [Marshmello](https://open.spotify.com/artist/64KEffDW9EtZ1y2vBYgq8T), [Jonas Brothers](https://open.spotify.com/artist/7gOdHgIoIKoe4i9Tta6qdD) | [Slow Motion](https://open.spotify.com/album/6AigIAiWriqJI4dgWjwFqf) | 2:31 | 2025-01-24 | 2025-08-15 |
 | [Sluit Me In Je Armen](https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE) | [Sluit Me In Je Armen](https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW) | 2:43 | 2026-02-19 |  |
-| [SMAAKT NAAR WATER](https://open.spotify.com/track/40b6xJ99S7rTBKBOleYU4B) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [DJ ROFFA \(LIVE @ FLEX FM\)](https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh) | 2:24 | 2026-08-20 |  |
+| [SMAAKT NAAR WATER](https://open.spotify.com/track/40b6xJ99S7rTBKBOleYU4B) | [Ronnie Flex](https://open.spotify.com/artist/5eir5zFJpES4j7gsymbVyl), [Lil Kleine](https://open.spotify.com/artist/3AlRiyjMywTVNzTcHbf9QT) | [DJ ROFFA \(LIVE @ FLEX FM\)](https://open.spotify.com/album/5CKa57PQ9rT4aGR0OCGuyh) | 2:24 | 2026-08-20 | 2026-09-22 |
 | [Smile](https://open.spotify.com/track/28JoWqu4PGPPv3mQQgdvHY) | [Nick Schilder](https://open.spotify.com/artist/4pbY2GIsT2jDoVxKqNQcpu), [Bryan V](https://open.spotify.com/artist/0UKwof7pq8Tz02TEnvcWJE) | [Smile](https://open.spotify.com/album/60gnI4jnB6o2qkkiG0JMVi) | 3:01 | 2026-09-17 |  |
 | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/track/73SGUxXPloaU5CfeKkJf5D) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [Carolina Liar](https://open.spotify.com/artist/0OuSnRyi1OkLPkR4AqzJwi) | [Smile \(feat\. Carolina Liar\)](https://open.spotify.com/album/5MwREpSNM3JMxAq8xqe3im) | 3:12 | 2024-08-01 | 2025-03-21 |
 | [SMOKE THE PAIN AWAY](https://open.spotify.com/track/7abZdMxSDfDDf7HKB8Ae8r) | [Calvin Harris](https://open.spotify.com/artist/7CajNmpbOovFoOoasH2HaY) | [SMOKE THE PAIN AWAY](https://open.spotify.com/album/50OtQfrt3bjHLjnQMMT5KP) | 2:42 | 2025-03-20 | 2025-08-07 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 
 > Loud, proud, and free to be\. Bops on repeat from LGBTQIA+ artists only\. Cover: Orville Peck
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,521 likes - 50 songs - 2 hr 39 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,525 likes - 50 songs - 2 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVfhphOFdiHz.md) - [plain]
 | 32 | [PINK CIGARETTE](https://open.spotify.com/track/0ik0aySMmki8Zo1NgDKoDG) | [EARTH TO EMILY](https://open.spotify.com/artist/29becY8WA0wuCwIpFMIyk2) | [PINK CIGARETTE](https://open.spotify.com/album/6nckbrAZpoWlKXFwGNtVVh) | 2:42 |
 | 33 | [F\*\*k the DJ](https://open.spotify.com/track/7haEOYPwSnePvGhYUfVJsj) | [Eli](https://open.spotify.com/artist/0phkgcpVchB7IJFJ7KcSP1) | [Stage Girl \(Not A Dream Anymore\)](https://open.spotify.com/album/0hPLxwcufIj2AKy0a3uilI) | 2:57 |
 | 34 | [Wet Cement](https://open.spotify.com/track/4oCI3xehRbCppofgCyDjPD) | [The Aces](https://open.spotify.com/artist/2AmfMGi3WZMxqFDHissIAe) | [Wet Cement](https://open.spotify.com/album/15Ui4kmZ2qZSseuoAqfmgn) | 2:47 |
-| 35 | [Speakerphone](https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Speakerphone](https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay) | 2:41 |
-| 36 | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/track/3D4ItrtxpWCVlZFmcpyelp) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/album/265to6mkmBL7nhTav1Kvqd) | 2:29 |
+| 35 | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/track/3D4ItrtxpWCVlZFmcpyelp) | [Scene Queen](https://open.spotify.com/artist/6WandyxeDxlcOTwxtnTKP4), [TX2](https://open.spotify.com/artist/1QQ0zBYrjIUnXvHf5iiV5H) | [Drop Dead Gorgeous \(feat\. TX2\)](https://open.spotify.com/album/265to6mkmBL7nhTav1Kvqd) | 2:29 |
+| 36 | [Speakerphone](https://open.spotify.com/track/4IfS1NOpuyygRwoPzjbRyT) | [Rebecca Black](https://open.spotify.com/artist/3Vl9fyKMIdLMswk8ai3mm9) | [Speakerphone](https://open.spotify.com/album/0hdrI88v9WhReATAnqZ3ay) | 2:41 |
 | 37 | [collide](https://open.spotify.com/track/0A8g9LveqMvaf0In4AVRnm) | [Hayley Kiyoko](https://open.spotify.com/artist/3LjhVl7GzYsza1biQjTpaN), [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [collide](https://open.spotify.com/album/6Bx0PwEOgOrfo7BaSTq6V0) | 3:43 |
 | 38 | [LIL SOMETHIN LIKE](https://open.spotify.com/track/3kuCjj6J9R8SB5Ogdivjzj) | [Lily Rose](https://open.spotify.com/artist/3lkwNhvm2fbh4q8CIe47n3) | [LIL SOMETHIN LIKE](https://open.spotify.com/album/54pkbBc7GdYwAGIk2Zerqe) | 2:58 |
 | 39 | [Hell's Belles](https://open.spotify.com/track/4Ni3RfbRDVzC6KWxzcWPLi) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [Hell's Belles](https://open.spotify.com/album/18OF7zAz0K20cklvIZXAWD) | 3:06 |

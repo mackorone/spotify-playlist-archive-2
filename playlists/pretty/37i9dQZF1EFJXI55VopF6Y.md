@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 27 | [Heaven](https://open.spotify.com/track/3Wqossbsoiwknv6unRnPlK) | [Mnelia](https://open.spotify.com/artist/4DDsQzXhKIC2F70cjMP7ec) | [Heaven](https://open.spotify.com/album/1WUmhAZpjr4WS7QwHfiyco) | 2:32 |
 | 28 | [Flicker](https://open.spotify.com/track/1zl0VGUES7bvE9mha2L2K2) | [Donna Missal](https://open.spotify.com/artist/4QFHHdZkeqmneDQqKIjAN8) | [Revel](https://open.spotify.com/album/6T2vXhcPF7ZFxJl5rSlelZ) | 3:17 |
 | 29 | [Dance All Night](https://open.spotify.com/track/7Krdp9RzlsUtsRxs7Y5wQP) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:55 |
-| 30 | [Tack vare dig](https://open.spotify.com/track/2EiimE1BrzD7MWqjrFBSvD) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 2:47 |
-| 31 | [Bittersweet Escape](https://open.spotify.com/track/7m048jBthqhBF62d67E1kM) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Bittersweet Escape](https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed) | 2:47 |
+| 30 | [Bittersweet Escape](https://open.spotify.com/track/7m048jBthqhBF62d67E1kM) | [Grace Carter](https://open.spotify.com/artist/2LuHL7im4aCEmfOlD4rxBC) | [Bittersweet Escape](https://open.spotify.com/album/5FzOA3oAxjHzoLxo4SC6Ed) | 2:47 |
+| 31 | [Tack vare dig](https://open.spotify.com/track/2EiimE1BrzD7MWqjrFBSvD) | [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Strawberry Blonde](https://open.spotify.com/album/4PIjW5Rjso48AHzoRsZ5Qk) | 2:47 |
 | 32 | [ZÉRO PAR MOIS](https://open.spotify.com/track/2vD8xEcrat0PirO5gAN5kZ) | [Robin](https://open.spotify.com/artist/4rBM6zAvArcI0zse5kUVJD), [M\. Pokora](https://open.spotify.com/artist/6euPnGzBlDysAC5ecVguNZ) | [POUR DE VRAI](https://open.spotify.com/album/2V7lA7Qs930nCdSLJ0UaC5) | 2:21 |
 | 33 | [Fever Dream](https://open.spotify.com/track/6ZPcEEhfDasdcmFxCFiF4J) | [Elevator Boys](https://open.spotify.com/artist/2fcSjd0fxqJQ1IM2hjYPud) | [Fever Dream](https://open.spotify.com/album/4sCuBaFd5Y1lJmGyafqhF2) | 2:26 |
 | 34 | [Dive](https://open.spotify.com/track/6QziVTOnpWNHVpgCOPsABH) | [Julie Bergan](https://open.spotify.com/artist/2Tg0aF5cbZktYFzgR1iAKv) | [Euronites](https://open.spotify.com/album/4AWaV9nH0uOfhl4hqB2fsZ) | 2:41 |
@@ -73,4 +73,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFJXI55VopF6Y.md) - [plain]
 | 63 | [bad bitch in love](https://open.spotify.com/track/5sa0E3yJBobRTGCyYqrb6U) | [Elle Darlington](https://open.spotify.com/artist/4jASzso2t2zBFIcOZE8O7x) | [bad bitch in love](https://open.spotify.com/album/00Y6uQdwKVMqlgXHGQqz3G) | 2:41 |
 | 64 | [Perfect Christmas](https://open.spotify.com/track/75jANPKh2bVuW0lHXw270M) | [Rose Rae](https://open.spotify.com/artist/3UiC3OoSjGLnaBsSMoVeWE) | [24 Songs of Christmas](https://open.spotify.com/album/5DUzxLyznbSzGmtq7hEEkI) | 2:41 |
 
-Snapshot ID: `Acc2BgAAAAArIizU/A/FSc+3FSocJqZc`
+Snapshot ID: `Acc7nAAAAAAYZjiOGyntTkGL50ya+iP3`

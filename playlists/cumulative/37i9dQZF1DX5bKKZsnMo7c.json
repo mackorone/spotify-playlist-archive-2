@@ -914,7 +914,7 @@
       ],
       "date_added": "2026-07-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 49345,
       "name": "Bangladesh",
       "url": "https://open.spotify.com/track/0i9OExe67MrZuKuPbr3v2A"
@@ -3258,7 +3258,7 @@
       ],
       "date_added": "2026-02-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 242674,
       "name": "fairest fruit",
       "url": "https://open.spotify.com/track/4eTLw4k738PaAaHz81XXC6"
@@ -4966,7 +4966,7 @@
       ],
       "date_added": "2026-02-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 154244,
       "name": "I Lit The Fire",
       "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
@@ -6382,6 +6382,24 @@
       "duration_ms": 236527,
       "name": "LSD (Love, Sex & Diamonds)",
       "url": "https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG"
+    },
+    {
+      "album": {
+        "name": "Lucky You're A Star",
+        "url": "https://open.spotify.com/album/4bxmtYbz2ncL7LG09boZAx"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212075,
+      "name": "Lucky You're A Star",
+      "url": "https://open.spotify.com/track/6ohOpO4diHtaf0EPtBpzFg"
     },
     {
       "album": {
@@ -10622,6 +10640,24 @@
       "duration_ms": 186000,
       "name": "Typical Me",
       "url": "https://open.spotify.com/track/7qHwYBcgT5UFchyGXFyifq"
+    },
+    {
+      "album": {
+        "name": "f u jonathan",
+        "url": "https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg"
+      },
+      "artists": [
+        {
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 157055,
+      "name": "u made a smart girl dumb!!",
+      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
     },
     {
       "album": {

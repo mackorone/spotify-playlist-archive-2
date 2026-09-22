@@ -4,7 +4,7 @@
 
 > Get cozy met deze playlist vol herfst hits! Met muziek van Sienna Spiro , Ilse DeLange,  Noah Kahan en meer...
 
-438 songs - 23 hr 59 min
+439 songs - 1 day 0 hr 3 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,7 +396,7 @@
 | [Tonight](https://open.spotify.com/track/3v2dHPoXhfVVZ6HQBfjQOh) | [Son Mieux](https://open.spotify.com/artist/1BCBAzjX8J0qpvNTPRDCLc) | [Tonight](https://open.spotify.com/album/6z8SVwxBPHJMEI6jv95m8X) | 4:32 | 2025-09-22 | 2026-03-25 |
 | [Too Far](https://open.spotify.com/track/6JbakVstWcT88jIg5kUyXg) | [remme](https://open.spotify.com/artist/2yqHVMUJy2Wxl7HVsp4Se5) | [Too Far](https://open.spotify.com/album/7yjifx3MT8tVacaPBd7rY4) | 3:00 | 2025-11-21 | 2026-02-03 |
 | [Tornado](https://open.spotify.com/track/5c2ns82nxF2pg59M5DkuSM) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Tornado](https://open.spotify.com/album/2zQhdFu3XNlJe6hvZwKQ6U) | 2:54 | 2026-06-12 | 2026-09-10 |
-| [Tot Sluit](https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu) | [Tot Sluit](https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg) | 2:22 | 2026-08-21 | 2026-09-10 |
+| [Tot Sluit](https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU) | [Nachtdienst](https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw), [Amelie](https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu) | [Tot Sluit](https://open.spotify.com/album/3ofGWWX6sA0lzGhoIJa0Kg) | 2:22 | 2026-08-21 |  |
 | [Toveren](https://open.spotify.com/track/0cvdKcx2P7hi508TQGgfHe) | [Herman van Veen](https://open.spotify.com/artist/5jWFYMXC1s1pj0u22ps4Sh), [Zoë Tauran](https://open.spotify.com/artist/5fg02ZNJViLdPyxJnRdcsi) | [Toveren](https://open.spotify.com/album/3Rsdgs47XvTFYO5hS86J5Z) | 2:58 | 2025-09-26 | 2026-02-03 |
 | [Turnstile](https://open.spotify.com/track/4qoeKDSw3siIY9ZjCvbmFj) | [Dermot Kennedy](https://open.spotify.com/artist/5KNNVgR6LBIABRIomyCwKJ) | [The Weight of the Woods](https://open.spotify.com/album/75pxFt8fBxAZaSII4Ur6Dd) | 3:50 | 2026-04-03 | 2026-06-12 |
 | [twilight zone](https://open.spotify.com/track/1UrwJzlNC2oaTlxj1OZmcu) | [Ariana Grande](https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR) | [eternal sunshine deluxe: brighter days ahead](https://open.spotify.com/album/6kXXIMyzRgQeai4A0DsXOn) | 3:18 | 2026-01-23 | 2026-04-11 |
@@ -418,6 +418,7 @@
 | [Weathervane](https://open.spotify.com/track/0vxNNwfm6zj8ISkCi6INFR) | [Hunter Metts](https://open.spotify.com/artist/1nQp0Yk9yxk2PJsXOtMR14) | [Weathervane](https://open.spotify.com/album/1ldMfY7Pe1ap39wvPtpo25) | 3:44 | 2025-09-22 | 2025-11-18 |
 | [Weer Een Dagje Ouder](https://open.spotify.com/track/7zAYKczeN7LibBSPX48qrW) | [Trobi](https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR), [FLEMMING](https://open.spotify.com/artist/0YLlTW9rW7ZCy2cA2u3RYk), [Snelle](https://open.spotify.com/artist/3E31HqA00iCX9nRhesw6LD) | [Samen Is Leuker Dan Alleen](https://open.spotify.com/album/48Y7pJ00km4Md3neQJM9Tf) | 2:43 | 2026-04-18 | 2026-09-10 |
 | [Wendo](https://open.spotify.com/track/1VfedtroIqHdCFk8uovKm8) | [Sonan](https://open.spotify.com/artist/5qfTG0UpxeQQHzGJ3oCvSb) | [Wendo](https://open.spotify.com/album/1JaPWmGF9oT4CLS6XbeKMf) | 3:01 | 2026-08-07 | 2026-08-28 |
+| [Wereld Zonder Jou](https://open.spotify.com/track/1f4VAmKMduljFaWtRGGweZ) | [Marco Borsato](https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD), [Trijntje Oosterhuis](https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb) | [De Waarheid](https://open.spotify.com/album/0tsLLrRYEzdpphF6QSFhBT) | 3:55 | 2026-09-21 |  |
 | [What a Woman](https://open.spotify.com/track/7yCngOJnTDXHuabhS74XR3) | [Davina Michelle](https://open.spotify.com/artist/6OG9fZ1LKXyL0hShRmmnq1) | [What a Woman](https://open.spotify.com/album/3zJWDcRieFRKO76KegbEfu) | 3:33 | 2025-10-15 | 2026-04-11 |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/04emojnbYkrRmv5qtJcgVP) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/5IZ8sY5FjtL9hloXpv0XbD) | 3:04 | 2026-01-23 | 2026-03-25 |
 | [What I Want \(feat\. Tate McRae\)](https://open.spotify.com/track/48NthgcgfoRrWT8LtgW28A) | [Morgan Wallen](https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM), [Tate McRae](https://open.spotify.com/artist/45dkTj5sMRSjrmBSBeiHym) | [I’m The Problem](https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF) | 3:04 | 2025-07-17 | 2026-06-12 |

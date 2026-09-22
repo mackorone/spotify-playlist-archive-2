@@ -1,6 +1,6 @@
 {
   "description": "Our favourite electronic songs from around the world this year. Cover: KI/KI",
-  "num_followers": 78590,
+  "num_followers": 78593,
   "original_name": "Editors' picks: Best Electronic Songs of 2025",
   "owner": {
     "name": "Spotify",
@@ -883,26 +883,6 @@
     {
       "added_at": "2025-12-03 12:15:55",
       "album": {
-        "name": "Man\u00eda",
-        "url": "https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy"
-      },
-      "artists": [
-        {
-          "name": "Pangaea",
-          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
-        },
-        {
-          "name": "Jazz Alonso",
-          "url": "https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY"
-        }
-      ],
-      "duration_ms": 171112,
-      "name": "Man\u00eda",
-      "url": "https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg"
-    },
-    {
-      "added_at": "2025-12-03 12:15:55",
-      "album": {
         "name": "Groove On",
         "url": "https://open.spotify.com/album/3gcuJIU2Tw2SrMkjCgzqWZ"
       },
@@ -919,6 +899,26 @@
       "duration_ms": 209920,
       "name": "Groove On",
       "url": "https://open.spotify.com/track/0iCRScqAaVd4VZlXpJLtHH"
+    },
+    {
+      "added_at": "2025-12-03 12:15:55",
+      "album": {
+        "name": "Man\u00eda",
+        "url": "https://open.spotify.com/album/6Q7DhlfnFSV2LM4J2hvHMy"
+      },
+      "artists": [
+        {
+          "name": "Pangaea",
+          "url": "https://open.spotify.com/artist/08Z0yhWGksNk3wceqlCeGE"
+        },
+        {
+          "name": "Jazz Alonso",
+          "url": "https://open.spotify.com/artist/7eSY3eOVSH5SLYU0BV9sCY"
+        }
+      ],
+      "duration_ms": 171112,
+      "name": "Man\u00eda",
+      "url": "https://open.spotify.com/track/79aIchpmJXJPDx9J68r3Hg"
     },
     {
       "added_at": "2025-12-03 12:15:55",

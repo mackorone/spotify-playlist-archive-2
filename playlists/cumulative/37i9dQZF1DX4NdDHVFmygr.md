@@ -2,9 +2,9 @@
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: Mirv48
+> Les hits marocains du moment\. Cover: Draganov, TIF
 
-542 songs - 1 day 4 hr 45 min
+543 songs - 1 day 4 hr 48 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -109,6 +109,7 @@
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/2Vr7Qvt5a9f6W9m6ifke4K) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/2NmB4LzQtfkv88hY595YtL) | 3:36 | 2022-08-05 | 2023-10-19 |
 | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/track/3SP3LyZWPJt4yqMHGIDR9D) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Comforter \(feat\. Ayra Starr\)](https://open.spotify.com/album/0GoERzVw0Qt6sQL2e19NdD) | 3:36 | 2022-07-06 | 2022-08-06 |
 | [Corazon](https://open.spotify.com/track/4p7xoPQH7WpffmIEm5artb) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Corazon](https://open.spotify.com/album/4fdpS6Q0wfscKoVy42UcND) | 3:08 | 2024-04-08 | 2024-07-03 |
+| [Couci Couca](https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [UFUL](https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3) | 3:05 | 2026-09-21 |  |
 | [Courir](https://open.spotify.com/track/5ayUHqkpxxyBOWelJjnaTD) | [Don Bigg](https://open.spotify.com/artist/4h4gnapBHEWZMVzjeZ2Ywl) | [٤in \(Act 2\)](https://open.spotify.com/album/6ftqq8qDocyfFPhLCmX0o1) | 3:28 | 2022-11-08 | 2022-11-11 |
 | [Crushi](https://open.spotify.com/track/1o6J9yEGafI0rbKfksplwF) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6) | [Crushi](https://open.spotify.com/album/1JO7MjScs6ZjUad2lBzKgA) | 3:02 | 2022-07-11 | 2023-04-29 |
 | [Daba Daba](https://open.spotify.com/track/15fXeiSQQLMVoHngb3zmOo) | [RYM](https://open.spotify.com/artist/2vC9iXUwT0wCCbsz4jBiOc), [Kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [Daba Daba](https://open.spotify.com/album/2Imksx0mXReQkBWlhifU5s) | 2:42 | 2024-07-08 | 2024-08-29 |
@@ -168,7 +169,7 @@
 | [Gana \(feat\. Hatim Ammor\)](https://open.spotify.com/track/25iWrs0J2F9hqUJV8tnNxP) | [DYSTINCT](https://open.spotify.com/artist/1cKyknhftNKXCjMBd2hDrG), [Hatim Ammor](https://open.spotify.com/artist/32CwjdHMHSpEkC3UAyIwPp) | [LAYALI](https://open.spotify.com/album/6pgfUVqynLc5hZ0HyozHKp) | 2:12 | 2023-06-10 | 2023-07-30 |
 | [Gata Only](https://open.spotify.com/track/6XjDF6nds4DE2BBbagZol6) | [FloyyMenor](https://open.spotify.com/artist/7CvTknweLr9feJtRGrpDBy), [Cris Mj](https://open.spotify.com/artist/1Yj5Xey7kTwvZla8sqdsdE) | [Gata Only](https://open.spotify.com/album/5tSQtQGkrCJx3hoQxmLgfM) | 3:42 | 2024-05-25 | 2024-08-29 |
 | [Gaw El Banat](https://open.spotify.com/track/3x99yBuNKv4WwPU7EDqcUH) | [Mohamed Ramadan](https://open.spotify.com/artist/4CflzQprp6nZxKiv0t78tH), [RedOne](https://open.spotify.com/artist/6O9WquDfQTxGRZqZUXVEQx), [Nouamane Belaiachi](https://open.spotify.com/artist/25eYSizNX4BK5ZtqAq8pE8) | [Gaw El Banat](https://open.spotify.com/album/6xsOTVxrDrOYYCW3CSQXTx) | 3:49 | 2021-12-25 | 2022-03-15 |
-| [GENDARMIA](https://open.spotify.com/track/0Ue7OnQYG5r3S8Q3o0HF2L) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ), [Sofia Marikh](https://open.spotify.com/artist/0WxY1I56V69ZoSGFNmn77d) | [GENDARMIA](https://open.spotify.com/album/1DNqeO3UCKB4ly2mtvQHtR) | 4:23 | 2026-05-28 |  |
+| [GENDARMIA](https://open.spotify.com/track/0Ue7OnQYG5r3S8Q3o0HF2L) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ), [Sofia Marikh](https://open.spotify.com/artist/0WxY1I56V69ZoSGFNmn77d) | [GENDARMIA](https://open.spotify.com/album/1DNqeO3UCKB4ly2mtvQHtR) | 4:23 | 2026-05-28 | 2026-09-22 |
 | [Genkidama](https://open.spotify.com/track/0rf6OSXX9BXO3NhOh3usht) | [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [Genkidama](https://open.spotify.com/album/3Yv0GD4GkCgvsiuhQOgFde) | 2:31 | 2025-12-10 | 2025-12-26 |
 | [Ghadi Jay](https://open.spotify.com/track/0B222iHrASMQ4vElXboQbf) | [Echbiy](https://open.spotify.com/artist/6BwGFQFM6wA6vPgjjFo34K) | [Ghadi Jay](https://open.spotify.com/album/3FTpE6cFgZvOxjE4tujDIr) | 3:15 | 2021-12-25 | 2022-06-07 |
 | [GHALAT](https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [FALLEN ANGEL](https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4) | 2:44 | 2026-05-09 |  |

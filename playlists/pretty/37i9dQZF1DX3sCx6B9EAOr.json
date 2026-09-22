@@ -1,6 +1,6 @@
 {
   "description": "\uc2dc\uc6d0\ud55c \uad6d\ub0b4\uc74c\uc545\ub4e4\uacfc \ub4dc\ub77c\uc774\ube59\uc744 \uc990\uaca8\ubcf4\uc138\uc694! (Tap your feet to the K-Pop beats on your way through the driving moments.)",
-  "num_followers": 119845,
+  "num_followers": 119846,
   "original_name": "\ub4dc\ub77c\uc774\ube59 \ub304\uc2a4+ (K-Pop Dance Driving)",
   "owner": {
     "name": "Spotify",
@@ -907,22 +907,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Eyes Wide Open",
-        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
-      },
-      "artists": [
-        {
-          "name": "TWICE",
-          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
-        }
-      ],
-      "duration_ms": 205493,
-      "name": "I CAN'T STOP ME",
-      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "Lose Yourself",
         "url": "https://open.spotify.com/album/4eguh1dJUXRh0IMiLKRwab"
       },
@@ -935,6 +919,22 @@
       "duration_ms": 131786,
       "name": "Igloo",
       "url": "https://open.spotify.com/track/2DbDefRFJ5YOfXCKOeCJJh"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "Eyes Wide Open",
+        "url": "https://open.spotify.com/album/33jypnU7WULxPaVrjj4RXH"
+      },
+      "artists": [
+        {
+          "name": "TWICE",
+          "url": "https://open.spotify.com/artist/7n2Ycct7Beij7Dj7meI4X0"
+        }
+      ],
+      "duration_ms": 205493,
+      "name": "I CAN'T STOP ME",
+      "url": "https://open.spotify.com/track/37ZtpRBkHcaq6hHy0X98zn"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "One - Spotify Singles",
-        "url": "https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj"
+        "name": "Ode to Love - The 1st Album",
+        "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
       },
       "artists": [
         {
-          "name": "DxS",
-          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
+          "name": "NCT WISH",
+          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
         }
       ],
-      "duration_ms": 165000,
-      "name": "One - Spotify Singles",
-      "url": "https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf"
+      "duration_ms": 191000,
+      "name": "Ode to Love",
+      "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1619,34 +1619,18 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Ode to Love - The 1st Album",
-        "url": "https://open.spotify.com/album/2OYOvhfBYA43XD7nd366iX"
+        "name": "One - Spotify Singles",
+        "url": "https://open.spotify.com/album/7LdNmWfbwzpVSbsjzK0wWj"
       },
       "artists": [
         {
-          "name": "NCT WISH",
-          "url": "https://open.spotify.com/artist/4FqmqIspLaUGtxAFFLsZxc"
+          "name": "DxS",
+          "url": "https://open.spotify.com/artist/4wBjmEkWhY4T22q00CiF5V"
         }
       ],
-      "duration_ms": 191000,
-      "name": "Ode to Love",
-      "url": "https://open.spotify.com/track/08aIVRb9ucpxKdAJb50HAx"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
-        "name": "Sequence 01: Curiosity",
-        "url": "https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD"
-      },
-      "artists": [
-        {
-          "name": "AND2BLE",
-          "url": "https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF"
-        }
-      ],
-      "duration_ms": 178000,
-      "name": "Curious",
-      "url": "https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ"
+      "duration_ms": 165000,
+      "name": "One - Spotify Singles",
+      "url": "https://open.spotify.com/track/6xOoHI8ap5SFkDiBLb3ucf"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1663,6 +1647,22 @@
       "duration_ms": 171000,
       "name": "Ice Cream",
       "url": "https://open.spotify.com/track/5JJl9DV0DAg5ekxnBSqZyO"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "Sequence 01: Curiosity",
+        "url": "https://open.spotify.com/album/5fCZmHJgVkaNIf2ZcmlmzD"
+      },
+      "artists": [
+        {
+          "name": "AND2BLE",
+          "url": "https://open.spotify.com/artist/3vAHTO5HJ4FmzrLmVbOKRF"
+        }
+      ],
+      "duration_ms": 178000,
+      "name": "Curious",
+      "url": "https://open.spotify.com/track/3rg00htlOp0UuBZcAMGkwJ"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1883,22 +1883,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "WhyKiiiKiii",
-        "url": "https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6"
-      },
-      "artists": [
-        {
-          "name": "KiiiKiii",
-          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
-        }
-      ],
-      "duration_ms": 166149,
-      "name": "Candy Pink Magic Hole Flip Phone",
-      "url": "https://open.spotify.com/track/5ImBkrqjl1xCxJK7yNDOsq"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "Ascend-",
         "url": "https://open.spotify.com/album/1BQQZejhtOdOJbIOVrmCUL"
       },
@@ -1927,6 +1911,22 @@
       "duration_ms": 150000,
       "name": "Busy Boy",
       "url": "https://open.spotify.com/track/6ufVsXMC1fAePZa5ZRMKdO"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "WhyKiiiKiii",
+        "url": "https://open.spotify.com/album/5k18hWGQBeS8a0CchCJrf6"
+      },
+      "artists": [
+        {
+          "name": "KiiiKiii",
+          "url": "https://open.spotify.com/artist/63sat2XSMKdwKfqspmYQKP"
+        }
+      ],
+      "duration_ms": 166149,
+      "name": "Candy Pink Magic Hole Flip Phone",
+      "url": "https://open.spotify.com/track/5ImBkrqjl1xCxJK7yNDOsq"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -1963,22 +1963,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "AIR",
-        "url": "https://open.spotify.com/album/6sJnzoRI9pXUo0gZxIviUS"
-      },
-      "artists": [
-        {
-          "name": "YEJI",
-          "url": "https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m"
-        }
-      ],
-      "duration_ms": 194800,
-      "name": "Air",
-      "url": "https://open.spotify.com/track/6HSns0qPQQfgekCrBF0Dkf"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "YOUTH IN THE SHADE",
         "url": "https://open.spotify.com/album/7fV7RChHagCcKRnAaDRXuX"
       },
@@ -1991,6 +1975,22 @@
       "duration_ms": 180988,
       "name": "In Bloom",
       "url": "https://open.spotify.com/track/3F4lHPNHlvr3RpO4tpVOIs"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "AIR",
+        "url": "https://open.spotify.com/album/6sJnzoRI9pXUo0gZxIviUS"
+      },
+      "artists": [
+        {
+          "name": "YEJI",
+          "url": "https://open.spotify.com/artist/3skli1w2n0nOZ4qkDbvV2m"
+        }
+      ],
+      "duration_ms": 194800,
+      "name": "Air",
+      "url": "https://open.spotify.com/track/6HSns0qPQQfgekCrBF0Dkf"
     },
     {
       "added_at": "2026-08-27 04:18:30",
@@ -2171,22 +2171,6 @@
     {
       "added_at": "2026-08-27 04:18:30",
       "album": {
-        "name": "Key Beats",
-        "url": "https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK"
-      },
-      "artists": [
-        {
-          "name": "Keyveatz",
-          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
-        }
-      ],
-      "duration_ms": 130000,
-      "name": "Key Beats",
-      "url": "https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI"
-    },
-    {
-      "added_at": "2026-08-27 04:18:30",
-      "album": {
         "name": "DANCING ALONE",
         "url": "https://open.spotify.com/album/1Ql33tND0vujOBXqvVtzau"
       },
@@ -2199,6 +2183,22 @@
       "duration_ms": 198876,
       "name": "DANCING ALONE",
       "url": "https://open.spotify.com/track/6vN4qMlor4D2U7a7BzSQI5"
+    },
+    {
+      "added_at": "2026-08-27 04:18:30",
+      "album": {
+        "name": "Key Beats",
+        "url": "https://open.spotify.com/album/0kBBaam9McJndyPBpfkWOK"
+      },
+      "artists": [
+        {
+          "name": "Keyveatz",
+          "url": "https://open.spotify.com/artist/6f8BfBKDA1P0yLj6uAmLLF"
+        }
+      ],
+      "duration_ms": 130000,
+      "name": "Key Beats",
+      "url": "https://open.spotify.com/track/78LggIu7ieohPUuP91SmBI"
     },
     {
       "added_at": "2026-08-27 04:18:30",

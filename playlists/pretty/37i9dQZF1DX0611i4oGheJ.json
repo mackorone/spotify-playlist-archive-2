@@ -1,6 +1,6 @@
 {
   "description": "Sweet gems to help you slow down and savor your day.",
-  "num_followers": 542025,
+  "num_followers": 542095,
   "original_name": "Soft & Slow",
   "owner": {
     "name": "Spotify",
@@ -707,6 +707,22 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
+        "name": "Spotify Singles",
+        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+      },
+      "artists": [
+        {
+          "name": "Ray LaMontagne",
+          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+        }
+      ],
+      "duration_ms": 307534,
+      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
+      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+    },
+    {
+      "added_at": "2026-09-18 04:00:55",
+      "album": {
         "name": "Party of One (feat. Sam Smith)",
         "url": "https://open.spotify.com/album/4W61XWkIAxG9kVVp6FbZ47"
       },
@@ -727,18 +743,18 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
-        "name": "Spotify Singles",
-        "url": "https://open.spotify.com/album/79Eaui1AldvjTjHIY7V6vu"
+        "name": "The Order Of Time",
+        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
       },
       "artists": [
         {
-          "name": "Ray LaMontagne",
-          "url": "https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj"
+          "name": "Valerie June",
+          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
         }
       ],
-      "duration_ms": 307534,
-      "name": "Such A Simple Thing - Recorded at Sound Stage Studios Nashville",
-      "url": "https://open.spotify.com/track/1xYMyM7MxFi4OuzDA2op9Q"
+      "duration_ms": 218640,
+      "name": "Astral Plane",
+      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
     },
     {
       "added_at": "2026-09-18 04:00:55",
@@ -759,22 +775,6 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
-        "name": "The Order Of Time",
-        "url": "https://open.spotify.com/album/4TVWSt83FpSfocgA3omB0k"
-      },
-      "artists": [
-        {
-          "name": "Valerie June",
-          "url": "https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM"
-        }
-      ],
-      "duration_ms": 218640,
-      "name": "Astral Plane",
-      "url": "https://open.spotify.com/track/1ISGSSgVnZhyiOGSI8itNa"
-    },
-    {
-      "added_at": "2026-09-18 04:00:55",
-      "album": {
         "name": "Dreamcatcher",
         "url": "https://open.spotify.com/album/60JNdhZYnjqjq8AhVW9nYb"
       },
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
-        "name": "My Arms Were Always Around You",
-        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
-      },
-      "artists": [
-        {
-          "name": "Peter Bradley Adams",
-          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
-        }
-      ],
-      "duration_ms": 200800,
-      "name": "My Arms Were Always Around You",
-      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
-    },
-    {
-      "added_at": "2026-09-18 04:00:55",
-      "album": {
         "name": "Just Like That...",
         "url": "https://open.spotify.com/album/5urpeKkrqE82otTOfs8OFd"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 305160,
       "name": "Just Like That",
       "url": "https://open.spotify.com/track/4yYi79a3MEQ0pCRCvuxcuU"
+    },
+    {
+      "added_at": "2026-09-18 04:00:55",
+      "album": {
+        "name": "My Arms Were Always Around You",
+        "url": "https://open.spotify.com/album/52s6f0gzHwR6MpgCMCtFQc"
+      },
+      "artists": [
+        {
+          "name": "Peter Bradley Adams",
+          "url": "https://open.spotify.com/artist/0CdbG1eHVjqjkQsGoH2u1V"
+        }
+      ],
+      "duration_ms": 200800,
+      "name": "My Arms Were Always Around You",
+      "url": "https://open.spotify.com/track/02a2RQEICEzbdPPYh0aLnJ"
     },
     {
       "added_at": "2026-09-18 04:00:55",
@@ -859,26 +859,6 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
-        "name": "Loved By You",
-        "url": "https://open.spotify.com/album/7MhufBtdJednkSpwropIDs"
-      },
-      "artists": [
-        {
-          "name": "Portair",
-          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
-        },
-        {
-          "name": "Joy Williams",
-          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
-        }
-      ],
-      "duration_ms": 196730,
-      "name": "Loved By You",
-      "url": "https://open.spotify.com/track/04Z33OTaMmg1tm0mNgiDlK"
-    },
-    {
-      "added_at": "2026-09-18 04:00:55",
-      "album": {
         "name": "Nosebleed",
         "url": "https://open.spotify.com/album/54fmXoeCAfwCZWuYJH8nnh"
       },
@@ -895,6 +875,26 @@
       "duration_ms": 287999,
       "name": "Nosebleed",
       "url": "https://open.spotify.com/track/0RY78qw6AAQZC3QpPeAD9O"
+    },
+    {
+      "added_at": "2026-09-18 04:00:55",
+      "album": {
+        "name": "Loved By You",
+        "url": "https://open.spotify.com/album/7MhufBtdJednkSpwropIDs"
+      },
+      "artists": [
+        {
+          "name": "Portair",
+          "url": "https://open.spotify.com/artist/5eNDu0xRakAeO0Za8pRIuG"
+        },
+        {
+          "name": "Joy Williams",
+          "url": "https://open.spotify.com/artist/4TCXgdDPm10ensLNCVnIYa"
+        }
+      ],
+      "duration_ms": 196730,
+      "name": "Loved By You",
+      "url": "https://open.spotify.com/track/04Z33OTaMmg1tm0mNgiDlK"
     },
     {
       "added_at": "2026-09-18 04:00:55",
@@ -1195,22 +1195,6 @@
     {
       "added_at": "2026-09-18 04:00:55",
       "album": {
-        "name": "Soho House Valet",
-        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
-      },
-      "artists": [
-        {
-          "name": "Gatlin",
-          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
-        }
-      ],
-      "duration_ms": 242223,
-      "name": "Soho House Valet",
-      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
-    },
-    {
-      "added_at": "2026-09-18 04:00:55",
-      "album": {
         "name": "Made Of Stars",
         "url": "https://open.spotify.com/album/7HGw7ZZAQmx8CghF9J7iBG"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 209163,
       "name": "Mean Guy",
       "url": "https://open.spotify.com/track/5Fc6q5ERGF8mOFuPrHoqqZ"
+    },
+    {
+      "added_at": "2026-09-18 04:00:55",
+      "album": {
+        "name": "Soho House Valet",
+        "url": "https://open.spotify.com/album/4neyiUJ2i3oNELG9kBcBCa"
+      },
+      "artists": [
+        {
+          "name": "Gatlin",
+          "url": "https://open.spotify.com/artist/1KGcdM5KxCVydaHe29QAj9"
+        }
+      ],
+      "duration_ms": 242223,
+      "name": "Soho House Valet",
+      "url": "https://open.spotify.com/track/46fAoFbdamHOXfj56G73GP"
     },
     {
       "added_at": "2026-09-18 04:00:55",

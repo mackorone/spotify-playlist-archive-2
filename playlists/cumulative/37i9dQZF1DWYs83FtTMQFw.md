@@ -4,7 +4,7 @@
 
 > The hottest tracks of today ft\. Don Toliver, Lil Baby, Drake and more.
 
-1,834 songs - 3 day 21 hr 13 min
+1,835 songs - 3 day 21 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,7 +65,8 @@
 | [@ my worst](https://open.spotify.com/track/0mHGftgYtmpH4y17T3VZ2E) | [blackbear](https://open.spotify.com/artist/2cFrymmkijnjDg9SS92EPM) | [@ my worst](https://open.spotify.com/album/6nai5PN6n6imja0Bg8n3OW) | 3:11 | 2021-08-07 | 2021-10-14 |
 | [\[Admire Her\] \(with Gunna\)](https://open.spotify.com/track/4wJKTG3bAleqUXmylh83Id) | [Bas](https://open.spotify.com/artist/70gP6Ry4Uo0Yx6uzPIdaiJ), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [\[BUMP\] Pick Me Up](https://open.spotify.com/album/6zRk8SdWozgrlByoZJkCjM) | 2:37 | 2022-04-15 | 2022-11-05 |
 | [A Cold Sunday](https://open.spotify.com/track/1Y1jtaZOJYgXBl7lKdLc9o) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [A Cold Sunday](https://open.spotify.com/album/4peDphjWdwzhrTEnQbfZ4G) | 1:47 | 2024-02-16 | 2024-03-16 |
-| [A Good Day](https://open.spotify.com/track/4CrnExkcZkg6Aek113hAWl) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6sMIP5Lvb3Is5dwkzOawtm) | 2:31 | 2026-09-18 |  |
+| [A Good Day](https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX) | 2:31 | 2026-09-21 |  |
+| [A Good Day](https://open.spotify.com/track/4CrnExkcZkg6Aek113hAWl) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6sMIP5Lvb3Is5dwkzOawtm) | 2:31 | 2026-09-18 | 2026-09-22 |
 | [a m a r i](https://open.spotify.com/track/2cnKST6T9qUo2i907lm8zX) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Off\-Season](https://open.spotify.com/album/4JAvwK4APPArjIsOdGoJXX) | 2:28 | 2021-05-15 | 2021-09-18 |
 | [A N X I E T Y \(feat\. Doechii\)](https://open.spotify.com/track/3FjK86616FbluOfTxNK2gY) | [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB) | [Boy Meets World](https://open.spotify.com/album/2Qq4N5lYtsZspF2QFLKcbY) | 2:28 | 2023-09-19 | 2024-04-13 |
 | [A Place Where Love Goes](https://open.spotify.com/track/0oVBkJA2wrSqrwz3eJ6c85) | [Childish Gambino](https://open.spotify.com/artist/73sIBHcqh3Z3NyqHKZ7FOL) | [Bando Stone and The New World](https://open.spotify.com/album/4yUqNSK6jMi7Y6eWl03U5r) | 2:43 | 2024-07-19 | 2024-08-10 |

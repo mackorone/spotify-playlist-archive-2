@@ -1,12 +1,12 @@
 {
   "description": "Dramatic, theatrical pop: Grace Power it's your moment!",
-  "num_followers": 567958,
+  "num_followers": 567929,
   "original_name": "Limelight",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAL6K9+wRVBF+O2jb8QBaX8osDRbo",
+  "snapshot_id": "AAAAAGpYU1ecAKNkmtIdLLRlinPWyJ4W",
   "tracks": [
     {
       "added_at": "2026-09-18 04:00:36",
@@ -157,20 +157,20 @@
       "url": "https://open.spotify.com/track/4zb9HntzQrJZzljjGSLCM2"
     },
     {
-      "added_at": "2026-07-24 04:02:21",
+      "added_at": "2026-09-21 16:30:54",
       "album": {
-        "name": "Pre-Raphaelite",
-        "url": "https://open.spotify.com/album/4ecmqq3oqOh1y1qS7sn8px"
+        "name": "f u jonathan",
+        "url": "https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg"
       },
       "artists": [
         {
-          "name": "Paris Paloma",
-          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+          "name": "panicbaby",
+          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
         }
       ],
-      "duration_ms": 262794,
-      "name": "Pre-Raphaelite",
-      "url": "https://open.spotify.com/track/29c7ide0e4bt5a0csdPOPU"
+      "duration_ms": 157055,
+      "name": "u made a smart girl dumb!!",
+      "url": "https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH"
     },
     {
       "added_at": "2026-04-03 04:01:43",
@@ -187,6 +187,22 @@
       "duration_ms": 184788,
       "name": "Night at the Opera",
       "url": "https://open.spotify.com/track/4ikhbKiw9pKYkWitSR7M7u"
+    },
+    {
+      "added_at": "2026-07-24 04:02:21",
+      "album": {
+        "name": "Pre-Raphaelite",
+        "url": "https://open.spotify.com/album/4ecmqq3oqOh1y1qS7sn8px"
+      },
+      "artists": [
+        {
+          "name": "Paris Paloma",
+          "url": "https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp"
+        }
+      ],
+      "duration_ms": 262794,
+      "name": "Pre-Raphaelite",
+      "url": "https://open.spotify.com/track/29c7ide0e4bt5a0csdPOPU"
     },
     {
       "added_at": "2026-09-18 04:12:39",
@@ -221,22 +237,6 @@
       "url": "https://open.spotify.com/track/1QjeA7Z2gKJunEY3rDp2bt"
     },
     {
-      "added_at": "2026-08-22 01:41:56",
-      "album": {
-        "name": "Orion (Original Soundtrack)",
-        "url": "https://open.spotify.com/album/53JPasi27ftf9I3E83m8xa"
-      },
-      "artists": [
-        {
-          "name": "Karin Ann",
-          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
-        }
-      ],
-      "duration_ms": 152352,
-      "name": "born to be",
-      "url": "https://open.spotify.com/track/4Etdr5XcKHRPQ1zy0x4f2K"
-    },
-    {
       "added_at": "2026-07-31 04:00:20",
       "album": {
         "name": "Puppet Show",
@@ -251,6 +251,38 @@
       "duration_ms": 182665,
       "name": "Puppet Show",
       "url": "https://open.spotify.com/track/3sXZgxkAkqbTYDZbBGr94W"
+    },
+    {
+      "added_at": "2026-09-21 16:30:54",
+      "album": {
+        "name": "Lucky You're A Star",
+        "url": "https://open.spotify.com/album/4bxmtYbz2ncL7LG09boZAx"
+      },
+      "artists": [
+        {
+          "name": "Valencia Grace",
+          "url": "https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A"
+        }
+      ],
+      "duration_ms": 212075,
+      "name": "Lucky You're A Star",
+      "url": "https://open.spotify.com/track/6ohOpO4diHtaf0EPtBpzFg"
+    },
+    {
+      "added_at": "2026-08-22 01:41:56",
+      "album": {
+        "name": "Orion (Original Soundtrack)",
+        "url": "https://open.spotify.com/album/53JPasi27ftf9I3E83m8xa"
+      },
+      "artists": [
+        {
+          "name": "Karin Ann",
+          "url": "https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ"
+        }
+      ],
+      "duration_ms": 152352,
+      "name": "born to be",
+      "url": "https://open.spotify.com/track/4Etdr5XcKHRPQ1zy0x4f2K"
     },
     {
       "added_at": "2026-07-20 18:13:27",
@@ -515,22 +547,6 @@
       "duration_ms": 185000,
       "name": "Fallen Angel",
       "url": "https://open.spotify.com/track/194Q4Tsfip4DMYa8ZuS7Oc"
-    },
-    {
-      "added_at": "2026-07-20 18:13:27",
-      "album": {
-        "name": "Season 3",
-        "url": "https://open.spotify.com/album/6dcUN4U2uhwnrl1hPII9Qe"
-      },
-      "artists": [
-        {
-          "name": "Ian McConnell",
-          "url": "https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1"
-        }
-      ],
-      "duration_ms": 49345,
-      "name": "Bangladesh",
-      "url": "https://open.spotify.com/track/0i9OExe67MrZuKuPbr3v2A"
     },
     {
       "added_at": "2026-06-09 19:57:42",
@@ -807,22 +823,6 @@
     {
       "added_at": "2026-02-27 05:00:49",
       "album": {
-        "name": "fairest fruit",
-        "url": "https://open.spotify.com/album/7EYeVtJIk3E8gQGDWs4E0s"
-      },
-      "artists": [
-        {
-          "name": "Stateira",
-          "url": "https://open.spotify.com/artist/5kS1vwsmrRriPqB1OLOTUZ"
-        }
-      ],
-      "duration_ms": 242674,
-      "name": "fairest fruit",
-      "url": "https://open.spotify.com/track/4eTLw4k738PaAaHz81XXC6"
-    },
-    {
-      "added_at": "2026-02-27 05:00:49",
-      "album": {
         "name": "DISNEY PRINCESS",
         "url": "https://open.spotify.com/album/65M9cSEwKpKqkZRiMCrX2H"
       },
@@ -963,22 +963,6 @@
       "duration_ms": 197043,
       "name": "YDH",
       "url": "https://open.spotify.com/track/1binvmf6h0SUuvcWkQDYsr"
-    },
-    {
-      "added_at": "2026-02-20 05:00:36",
-      "album": {
-        "name": "I Lit The Fire",
-        "url": "https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C"
-      },
-      "artists": [
-        {
-          "name": "Sara Beth",
-          "url": "https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r"
-        }
-      ],
-      "duration_ms": 154244,
-      "name": "I Lit The Fire",
-      "url": "https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1"
     },
     {
       "added_at": "2026-02-02 19:17:29",

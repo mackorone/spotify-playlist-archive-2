@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Luanna. The essential tracks, all in one playlist.",
-  "num_followers": 16250,
+  "num_followers": 16253,
   "original_name": "This Is Mc Luanna",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAC4bs36be3q6OK9fRcrM4lB",
+  "snapshot_id": "aq8iAAAAAACabudo0niBnxMVnXneBRvO",
   "tracks": [
     {
       "added_at": null,
@@ -212,13 +212,13 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "IKNOWFELIPE",
-          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
+          "name": "Mello Santana",
+          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
         }
       ],
-      "duration_ms": 150886,
-      "name": "Esconde Sua Namorada",
-      "url": "https://open.spotify.com/track/2ui9JDYf2oaTfkah3F4QWS"
+      "duration_ms": 141038,
+      "name": "M",
+      "url": "https://open.spotify.com/track/3ujdHeCvEH4dtkhHSwSQeo"
     },
     {
       "added_at": null,
@@ -324,13 +324,13 @@
           "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
         },
         {
-          "name": "Mello Santana",
-          "url": "https://open.spotify.com/artist/02J1zj1QPj7nlJiKGX6wgY"
+          "name": "IKNOWFELIPE",
+          "url": "https://open.spotify.com/artist/5xzQYtT0fWhece4hSaf1Pk"
         }
       ],
-      "duration_ms": 141038,
-      "name": "M",
-      "url": "https://open.spotify.com/track/3ujdHeCvEH4dtkhHSwSQeo"
+      "duration_ms": 150886,
+      "name": "Esconde Sua Namorada",
+      "url": "https://open.spotify.com/track/2ui9JDYf2oaTfkah3F4QWS"
     },
     {
       "added_at": null,
@@ -1207,30 +1207,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NO PRIMEIRO ENCONTRO",
-        "url": "https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ"
-      },
-      "artists": [
-        {
-          "name": "Mc Luanna",
-          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
-        },
-        {
-          "name": "Mc Laranjinha",
-          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
-        },
-        {
-          "name": "Dj Chadin do C",
-          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
-        }
-      ],
-      "duration_ms": 147692,
-      "name": "NO PRIMEIRO ENCONTRO",
-      "url": "https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "BANDIDA",
         "url": "https://open.spotify.com/album/3m1DbiSNjFobDOf9bX67mj"
       },
@@ -1275,6 +1251,30 @@
       "duration_ms": 163846,
       "name": "Rude",
       "url": "https://open.spotify.com/track/3SNjK2Lcy8CaPnWwXZ9Py7"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "NO PRIMEIRO ENCONTRO",
+        "url": "https://open.spotify.com/album/6HFwrm0TlWUehB6u8dVNdQ"
+      },
+      "artists": [
+        {
+          "name": "Mc Luanna",
+          "url": "https://open.spotify.com/artist/6VpdTQWCRE01WVoEuby2a6"
+        },
+        {
+          "name": "Mc Laranjinha",
+          "url": "https://open.spotify.com/artist/1JJq541frMPfUIQiUoVrnp"
+        },
+        {
+          "name": "Dj Chadin do C",
+          "url": "https://open.spotify.com/artist/1vzbmGlmb0yoO6drUgxm5C"
+        }
+      ],
+      "duration_ms": 147692,
+      "name": "NO PRIMEIRO ENCONTRO",
+      "url": "https://open.spotify.com/track/1lS6UNDx1Mw1qw8eUFRJ8H"
     },
     {
       "added_at": null,

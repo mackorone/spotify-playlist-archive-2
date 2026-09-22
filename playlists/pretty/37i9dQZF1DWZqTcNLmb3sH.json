@@ -1,12 +1,12 @@
 {
   "description": "Check out the latest hits from Sandalwood!\nCover : Bail",
-  "num_followers": 74727,
+  "num_followers": 74753,
   "original_name": "Latest Kannada",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAClHmKBARI2QGTuY5pwt9uGBaT2",
+  "snapshot_id": "AAAAANtIwEBMgdikW2L/hAexN1Zj7BHy",
   "tracks": [
     {
       "added_at": "2026-09-11 07:16:07",
@@ -35,6 +35,30 @@
       "duration_ms": 243545,
       "name": "Cheluve Kele Cheluve (From \"Bail\")",
       "url": "https://open.spotify.com/track/3D6ovUAxltuQbWTBaWoksg"
+    },
+    {
+      "added_at": "2026-09-21 06:31:22",
+      "album": {
+        "name": "Amma Na Haadu (From \"Lakshmi Puthra\")",
+        "url": "https://open.spotify.com/album/7yV9bZLlNGLZcKqQtsdLju"
+      },
+      "artists": [
+        {
+          "name": "Arjun Janya",
+          "url": "https://open.spotify.com/artist/3IX32wm6CoEIYovZ0VcjBJ"
+        },
+        {
+          "name": "A.P. Arjun",
+          "url": "https://open.spotify.com/artist/1WmSed4rURzSyxwiETfssP"
+        },
+        {
+          "name": "Sid Sriram",
+          "url": "https://open.spotify.com/artist/7qjJw7ZM2ekDSahLXPjIlN"
+        }
+      ],
+      "duration_ms": 262500,
+      "name": "Amma Na Haadu (From \"Lakshmi Puthra\")",
+      "url": "https://open.spotify.com/track/6ARQEMYAyDyh3zG4unC0Ak"
     },
     {
       "added_at": "2026-08-07 06:53:06",
@@ -197,6 +221,34 @@
       "url": "https://open.spotify.com/track/0quNrvYt0PTPMXiZJH9x86"
     },
     {
+      "added_at": "2026-09-21 06:31:22",
+      "album": {
+        "name": "Hulimari Hulimari (From \"Toss\")",
+        "url": "https://open.spotify.com/album/1NJfvX4BVqCKudQbDUkJuO"
+      },
+      "artists": [
+        {
+          "name": "Kadri Manikanth",
+          "url": "https://open.spotify.com/artist/0CTZkrzz9PYo5m9MvTymA0"
+        },
+        {
+          "name": "V Nagendra Prasad",
+          "url": "https://open.spotify.com/artist/0BLgMgfFCQWmye32Yrt6UU"
+        },
+        {
+          "name": "Divya Kumar",
+          "url": "https://open.spotify.com/artist/0NErdIJtuKBjtxKmlqaWdj"
+        },
+        {
+          "name": "Aishwarya Rangarajan",
+          "url": "https://open.spotify.com/artist/3qVTevOjwQnsH1AcCsp0jO"
+        }
+      ],
+      "duration_ms": 222242,
+      "name": "Hulimari Hulimari (From \"Toss\")",
+      "url": "https://open.spotify.com/track/4CZc7VSMPyivMFHee6h8yy"
+    },
+    {
       "added_at": "2026-09-11 07:16:07",
       "album": {
         "name": "Betona Betona (From \"Common Man\")",
@@ -273,6 +325,30 @@
       "url": "https://open.spotify.com/track/3AULsVItJdXnbJ6mIwZKb8"
     },
     {
+      "added_at": "2026-09-21 06:31:22",
+      "album": {
+        "name": "Kannalle Benkiaithe (From \"Bentlee\")",
+        "url": "https://open.spotify.com/album/2toEQk62o3ATREBIf8gpnq"
+      },
+      "artists": [
+        {
+          "name": "Pancham Jeeva",
+          "url": "https://open.spotify.com/artist/3Aw8pGLgK0Mjl5gh2S7F6s"
+        },
+        {
+          "name": "Judah Sandhy",
+          "url": "https://open.spotify.com/artist/4penrzAbWok4rhnaZuwF9V"
+        },
+        {
+          "name": "Chethan Kumar",
+          "url": "https://open.spotify.com/artist/3zMAaXwoMBtxeIzUQjiXcy"
+        }
+      ],
+      "duration_ms": 201582,
+      "name": "Kannalle Benkiaithe (From \"Bentlee\")",
+      "url": "https://open.spotify.com/track/4rABvdJlUAlGefYYw8ohQi"
+    },
+    {
       "added_at": "2026-09-18 06:10:38",
       "album": {
         "name": "Hey Radhe Hey Radhe (From \"Manikanta\")",
@@ -295,6 +371,26 @@
       "duration_ms": 245151,
       "name": "Hey Radhe Hey Radhe (From \"Manikanta\")",
       "url": "https://open.spotify.com/track/20hIRjY9AX27d5bqlfIZTM"
+    },
+    {
+      "added_at": "2026-09-21 06:31:22",
+      "album": {
+        "name": "Namak Haram (From \"CityLights\")",
+        "url": "https://open.spotify.com/album/25AIP1t4XCnRiQdJM43vOz"
+      },
+      "artists": [
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        },
+        {
+          "name": "Nagarjun Sharma",
+          "url": "https://open.spotify.com/artist/0uXY8mYhnn5FqdsmxYbKbk"
+        }
+      ],
+      "duration_ms": 113166,
+      "name": "Namak Haram (From \"CityLights\")",
+      "url": "https://open.spotify.com/track/5rt4dyImGtMQXWVlL14sxn"
     },
     {
       "added_at": "2026-09-16 08:44:14",
@@ -399,6 +495,30 @@
       "duration_ms": 150876,
       "name": "Mr Jack Title Track (From \"Mr Jack\")",
       "url": "https://open.spotify.com/track/2AVPA6AuwggQaadGiW6rTh"
+    },
+    {
+      "added_at": "2026-09-21 06:31:22",
+      "album": {
+        "name": "Suva Baa Chenna (From \"CityLights\")",
+        "url": "https://open.spotify.com/album/4MNHA1sHw7CQ9PLLnlpJAq"
+      },
+      "artists": [
+        {
+          "name": "Charanraj MR",
+          "url": "https://open.spotify.com/artist/002yVW3Yn595KWy74buQ1k"
+        },
+        {
+          "name": "Janapada Sahithya",
+          "url": "https://open.spotify.com/artist/71GfAcOLP1cWloHIEtAYN7"
+        },
+        {
+          "name": "Malavalli M. Mahadeva Swamy",
+          "url": "https://open.spotify.com/artist/4bkFghEfIMyObFy003QAUF"
+        }
+      ],
+      "duration_ms": 162000,
+      "name": "Suva Baa Chenna (From \"CityLights\")",
+      "url": "https://open.spotify.com/track/6xQAgqEy4ldG5jGzYQvE1f"
     },
     {
       "added_at": "2026-09-11 08:22:32",
@@ -2289,66 +2409,6 @@
       "url": "https://open.spotify.com/track/1gfbRYuRfRyDH8ye3o1F3I"
     },
     {
-      "added_at": "2026-07-06 07:00:22",
-      "album": {
-        "name": "O Belake (From \"Mother Promise\")",
-        "url": "https://open.spotify.com/album/5W9SmIEv0ChmZpHcqlPPBe"
-      },
-      "artists": [
-        {
-          "name": "Navaneeth Sham",
-          "url": "https://open.spotify.com/artist/7o9uqL4spl1juQLR9jij8S"
-        },
-        {
-          "name": "Daali Dhananjaya",
-          "url": "https://open.spotify.com/artist/5mMIF7hi9U0WgMjhqHE0eQ"
-        },
-        {
-          "name": "Danvi Ashwin",
-          "url": "https://open.spotify.com/artist/4fKJF9hJTp4rjzjR60H7oQ"
-        },
-        {
-          "name": "Medha Bharadwaj",
-          "url": "https://open.spotify.com/artist/1W2fpHhpgOpa4eVNyDfCsc"
-        },
-        {
-          "name": "Bhanushree Datta Kumar",
-          "url": "https://open.spotify.com/artist/2J3DPUwBGI7NENkqWb0nVN"
-        },
-        {
-          "name": "Svojas Gautam",
-          "url": "https://open.spotify.com/artist/6hmpxWj2l3YIrXMCExumKS"
-        }
-      ],
-      "duration_ms": 189652,
-      "name": "O Belake (From \"Mother Promise\")",
-      "url": "https://open.spotify.com/track/4ijPstGquVbxTKvslqkmqt"
-    },
-    {
-      "added_at": "2026-07-06 07:00:22",
-      "album": {
-        "name": "Naam Hai Iska JOLLY (From \"Jolly\")",
-        "url": "https://open.spotify.com/album/5n335mqdiFzjeYy5zvtCkO"
-      },
-      "artists": [
-        {
-          "name": "Tarush",
-          "url": "https://open.spotify.com/artist/5Hft45F4zFi88xVTA2Br0z"
-        },
-        {
-          "name": "Nithinraj",
-          "url": "https://open.spotify.com/artist/0xvqqVk5dCqvUAOwB0bSuD"
-        },
-        {
-          "name": "Shashank Sheshagiri",
-          "url": "https://open.spotify.com/artist/4VbeDQpfiX1x8FFDuxmrXy"
-        }
-      ],
-      "duration_ms": 186130,
-      "name": "Naam Hai Iska JOLLY (From \"Jolly\")",
-      "url": "https://open.spotify.com/track/5rYYdzIeYSsAQMVxveQhCB"
-    },
-    {
       "added_at": "2026-07-03 16:54:26",
       "album": {
         "name": "Ladies & Ladies (From \"Toxic - Kannada\")",
@@ -2363,30 +2423,6 @@
       "duration_ms": 84363,
       "name": "Ladies & Ladies - From \"Toxic - Kannada\"",
       "url": "https://open.spotify.com/track/7kSB1aWQibLFoaouIlHIza"
-    },
-    {
-      "added_at": "2026-07-03 16:54:26",
-      "album": {
-        "name": "Hutti Banda Hulibeeranaagi (From \"Hulibeera\")",
-        "url": "https://open.spotify.com/album/7aQMtPcsd25rQIwHBMt85X"
-      },
-      "artists": [
-        {
-          "name": "Sangeetha Katti",
-          "url": "https://open.spotify.com/artist/20K7c4KKuOy98zaujRNNTg"
-        },
-        {
-          "name": "Veer Samarth",
-          "url": "https://open.spotify.com/artist/4y7yOpyqmE7aXMngtperyb"
-        },
-        {
-          "name": "Shivu Bhergi",
-          "url": "https://open.spotify.com/artist/41pdNa7aFPAwxchRhL4z8Z"
-        }
-      ],
-      "duration_ms": 238736,
-      "name": "Hutti Banda Hulibeeranaagi (From \"Hulibeera\")",
-      "url": "https://open.spotify.com/track/2CsBS4Ra9Sy70GZJrgbMC8"
     }
   ],
   "unique_name": "Latest Kannada",

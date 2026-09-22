@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 
 > This is Rochelle Jordan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,809 likes - 36 songs - 2 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,812 likes - 36 songs - 2 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2cN38f.md) - [plain]
 | 31 | [Losing](https://open.spotify.com/track/2nZALEvdQ3n3tIP84kneP3) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Pressure](https://open.spotify.com/album/2eo6WfC2A5ePHLpNQN7dRB) | 3:30 |
 | 32 | [Raven \- TYGAPAW Remix feat\. Rochelle Jordan](https://open.spotify.com/track/7fvqv5Ou098lxPlVGrwuAG) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [TYGAPAW](https://open.spotify.com/artist/2PyscWeidzp9QnSWc5QMBq), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [RAVE:N, The Remixes](https://open.spotify.com/album/6UDDsErmUUyEwQ4Oxs8INi) | 4:26 |
 | 33 | [Slow](https://open.spotify.com/track/19F8OeoZrLMg1O2X3KwyE4) | [Cyril Hahn](https://open.spotify.com/artist/4EFMHRFpgrpfp0AVEBp4m2), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Voices](https://open.spotify.com/album/06rUXmPBsO3uXbfYGHcmcm) | 3:42 |
-| 34 | [DREAMZ COME TRUE](https://open.spotify.com/track/3YLRi0SXcPwB6c2Dy3gmey) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [DREAMZ COME TRUE](https://open.spotify.com/album/5RNcA6ZV7lznodJcCEhfWA) | 3:44 |
-| 35 | [No Love](https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 2:36 |
+| 34 | [No Love](https://open.spotify.com/track/6APJFsK62jequAeWUiVP4S) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Origins](https://open.spotify.com/album/1CbmaTrSl8NJFQyOj6Ws97) | 2:36 |
+| 35 | [DREAMZ COME TRUE](https://open.spotify.com/track/3YLRi0SXcPwB6c2Dy3gmey) | [JIMMY EDGAR](https://open.spotify.com/artist/3qIRQKST5KCIIKWgmPTY2M), [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [DREAMZ COME TRUE](https://open.spotify.com/album/5RNcA6ZV7lznodJcCEhfWA) | 3:44 |
 | 36 | [Crave](https://open.spotify.com/track/7oYiep2CEMcE5NvkwjAzuP) | [Rochelle Jordan](https://open.spotify.com/artist/3MM3uKNdJbvefUael12dl3) | [Through The Wall](https://open.spotify.com/album/1vTquD47VNHtfuc5tVLI98) | 3:27 |
 
-Snapshot ID: `aq3QgAAAAADwsy1Ajg2xX8nSo7lprECo`
+Snapshot ID: `aq8iAAAAAAA9GNv8pUFmpb6A4Zp4dC08`

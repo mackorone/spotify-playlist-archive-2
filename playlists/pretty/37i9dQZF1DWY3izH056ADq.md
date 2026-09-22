@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 
 > Enjoy music From "Paradox Live"! ©Paradox Live2023
 
-[Spotify](https://open.spotify.com/user/spotify) - 43,089 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 43,084 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,17 +32,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWY3izH056ADq.md) - [plain]
 | 22 | [edN](https://open.spotify.com/track/4oGINy3fZWYNoUZSPaGoJR) | [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live \-Road to Legend\- Round1 “FATE"](https://open.spotify.com/album/3InCCQOBaZ2Xe70LeaLyOf) | 3:56 |
 | 23 | [ギラギラCANDY NIGHT](https://open.spotify.com/track/3ARfJSBeTcwEe3vDwxy1CH) | [アン・フォークナー](https://open.spotify.com/artist/69FKx8Ee2gvs68j2bqh0QM), [翠石依織](https://open.spotify.com/artist/4QehghJ7APvk7yrN0YQo5Z), [雅邦善](https://open.spotify.com/artist/5VBOz8EhAcIpiw1Eyw4B78), [伊藤紗月](https://open.spotify.com/artist/4bdhyD5JaQnFzsYay9XKnV) | [Paradox Live Shuffle Team Show \(Vol.1\)](https://open.spotify.com/album/1j9xsbEpvMvcYEBOsDB9Bm) | 3:51 |
 | 24 | [S.W.A.G.](https://open.spotify.com/track/1zXouHes5cmxiDoJfhuGrJ) | [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live \-Road to Legend\- FINAL"REVOLUTION"](https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA) | 3:24 |
-| 25 | [Two Crowns](https://open.spotify.com/track/3zexZYulEPhRXeyUjF8Kq2) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live \-Road to Legend\- FINAL"REVOLUTION"](https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA) | 3:14 |
+| 25 | [Mainstream](https://open.spotify.com/track/4fTxxeetlTqcbqP44AtpgW) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 3:26 |
 | 26 | [BE A STAR](https://open.spotify.com/track/1Wp8xRAX9eE9k2j2OuG2px) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live \-Road to Legend\- Round1 “RAGE"](https://open.spotify.com/album/1Wgf5u72mNvYRsPuYacFBp) | 3:12 |
 | 27 | [Do as I say](https://open.spotify.com/track/1LZTrDkC2D2VdnFZacIMyf) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live Opening Show\-Road to Legend\-](https://open.spotify.com/album/4W6oeLcRlI6LUDRUkxHwPs) | 3:02 |
 | 28 | [ファンファーレ \-CLIP.CLIP CLOP!!\-](https://open.spotify.com/track/5asaH19Jw3Z2PgziRGnnJp) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live \-Battle of Unity\-](https://open.spotify.com/album/6bITKXIZeYm6C9UKgd7giw) | 3:23 |
 | 29 | [カタルシス](https://open.spotify.com/track/1p2JlehLqhUTd8WXiOI2wA) | [獄Luck](https://open.spotify.com/artist/4R8xW1XYMELnIUPXjKsJwA) | [Paradox Live 3rd album "ANTHEM"](https://open.spotify.com/album/73Hnzxkzqk4xyiWlzI58RD) | 3:30 |
-| 30 | [Day to day](https://open.spotify.com/track/4tvalIFTQxvZU65ZKatSqH) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live \-Battle of Unity\-](https://open.spotify.com/album/6bITKXIZeYm6C9UKgd7giw) | 3:23 |
+| 30 | [Two Crowns](https://open.spotify.com/track/3zexZYulEPhRXeyUjF8Kq2) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live \-Road to Legend\- FINAL"REVOLUTION"](https://open.spotify.com/album/28kU1S60PMk2PTrbWyR7gA) | 3:14 |
 | 31 | [Endless Dream](https://open.spotify.com/track/0nd2vulAlXnULt6RLfpImm) | [VISTY](https://open.spotify.com/artist/1owUp8KymexV2zFYxUZ2oF) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 3:48 |
 | 32 | [ビーチサイドZOO](https://open.spotify.com/track/19qYkTWLZEV8VCZEL5EVGK) | [team Summer](https://open.spotify.com/artist/0n0NYX7hN26kMCBFjaqI7l) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 4:10 |
 | 33 | [BAD BOYZ \-悪漢奴等 Underground\-](https://open.spotify.com/track/4mo7Icur4vDvZrDmEHwfss) | [悪漢奴等](https://open.spotify.com/artist/72Ozt64MM4zCH8IFFoFsyC) | [Paradox Live Opening Show](https://open.spotify.com/album/6fKbSZBTnEwPvnCrqOcwLs) | 3:13 |
 | 34 | [Grace И Guilt](https://open.spotify.com/track/1eW3q29gURRKBqA9a2WTAw) | [1Nm8](https://open.spotify.com/artist/5Jo3dt6niM5mWM4udNPafs) | [Paradox Live \-Battle of Unity\- Round3 “FUTURE”](https://open.spotify.com/album/1MxL6gUA0dG5XbJuz4h4QR) | 3:24 |
-| 35 | [Mainstream](https://open.spotify.com/track/4fTxxeetlTqcbqP44AtpgW) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live covers “PROPS”](https://open.spotify.com/album/1nFRd1TMMe5g4eUSb4ScI2) | 3:26 |
+| 35 | [Day to day](https://open.spotify.com/track/4tvalIFTQxvZU65ZKatSqH) | [cozmez](https://open.spotify.com/artist/0HLLtp14pveBWVAnD7UVPn) | [Paradox Live \-Battle of Unity\-](https://open.spotify.com/album/6bITKXIZeYm6C9UKgd7giw) | 3:23 |
 | 36 | [Nobody But Me](https://open.spotify.com/track/1z66lEenIxfivIqx3jwVXP) | [AMPRULE](https://open.spotify.com/artist/1cO53m1IwwUVEJu68wlPj0) | [Paradox Live \- Road to Legend \- Consolation Match"SHOWDOWN"](https://open.spotify.com/album/3h3UOObSClYPHL4vVkuLPx) | 3:45 |
 | 37 | [Back In The Day](https://open.spotify.com/track/7oYDm9ZIqVBVeWUYP7xeGu) | [武雷管](https://open.spotify.com/artist/28Y1K6WVGuV4SqbjRxcOTC) | [Paradox Live \-Battle of Unity\- 武雷管 "ZERO"](https://open.spotify.com/album/7cGu9zlFI8dQ3fx9x6LvRv) | 3:39 |
 | 38 | [Halloween](https://open.spotify.com/track/4xoOTv2ksKmwWh7TttWtQy) | [team Autumn](https://open.spotify.com/artist/1qZuBsvj2WNcQOWEgwQFVL) | [Paradox Live Seasonal Show](https://open.spotify.com/album/5aFRKQGeWqOhz9DHxW0926) | 3:34 |

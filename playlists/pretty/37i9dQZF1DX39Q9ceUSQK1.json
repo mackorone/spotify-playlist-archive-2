@@ -1,12 +1,12 @@
 {
   "description": "Nieuwe alternative & rock releases. Cover: Moss",
-  "num_followers": 59032,
+  "num_followers": 59037,
   "original_name": "New Alternative",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAB3qGQBgEEI/YVlt4hCOyVsF73Pa",
+  "snapshot_id": "AAAAANTI7SpExI1KEPERzEZCrbVc5wuR",
   "tracks": [
     {
       "added_at": "2026-09-18 14:01:42",
@@ -27,22 +27,18 @@
     {
       "added_at": "2026-09-18 14:01:42",
       "album": {
-        "name": "Pure Honesty",
-        "url": "https://open.spotify.com/album/0ifhkgei44CrT1ZzH731ol"
+        "name": "A Different Kind of Happiness",
+        "url": "https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP"
       },
       "artists": [
         {
-          "name": "Portland",
-          "url": "https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn"
-        },
-        {
-          "name": "Rosie Stuart",
-          "url": "https://open.spotify.com/artist/1AqfgDZnbgqJDNI8Odsq9m"
+          "name": "Nothing But Thieves",
+          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
         }
       ],
-      "duration_ms": 208011,
-      "name": "Pure Honesty",
-      "url": "https://open.spotify.com/track/18bVmSSmQjy2h7DuW9pJ2W"
+      "duration_ms": 246899,
+      "name": "A Different Kind of Happiness",
+      "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
     },
     {
       "added_at": "2026-09-18 14:01:42",
@@ -79,34 +75,70 @@
     {
       "added_at": "2026-09-18 14:01:42",
       "album": {
-        "name": "Ride Lonesome",
-        "url": "https://open.spotify.com/album/6gP36h0Cv8vTiBmdbHO3qI"
+        "name": "Seriously",
+        "url": "https://open.spotify.com/album/6rE9QBWb6TtCjz13ipuwVv"
       },
       "artists": [
         {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+          "name": "Editors",
+          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
         }
       ],
-      "duration_ms": 219029,
-      "name": "Run Away",
-      "url": "https://open.spotify.com/track/4djHuoHnH3bEKf5tbviToI"
+      "duration_ms": 249975,
+      "name": "Seriously",
+      "url": "https://open.spotify.com/track/3dZTrUqLpivFUkSuIpSoyb"
     },
     {
       "added_at": "2026-09-18 14:01:42",
       "album": {
-        "name": "A Different Kind of Happiness",
-        "url": "https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP"
+        "name": "Simple Pleasures",
+        "url": "https://open.spotify.com/album/1YAHNLFNRpKTg7BchT8crJ"
       },
       "artists": [
         {
-          "name": "Nothing But Thieves",
-          "url": "https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp"
+          "name": "Warhaus",
+          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
         }
       ],
-      "duration_ms": 246899,
-      "name": "A Different Kind of Happiness",
-      "url": "https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA"
+      "duration_ms": 232454,
+      "name": "Simple Pleasures",
+      "url": "https://open.spotify.com/track/2WrxJ6w8SWXFtCRs14cpso"
+    },
+    {
+      "added_at": "2026-09-18 14:01:42",
+      "album": {
+        "name": "Cowboy Sinatra_",
+        "url": "https://open.spotify.com/album/43XI5ywnMJ77CCi5gjVdif"
+      },
+      "artists": [
+        {
+          "name": "Magazines",
+          "url": "https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz"
+        }
+      ],
+      "duration_ms": 178708,
+      "name": "Cowboy Sinatra_",
+      "url": "https://open.spotify.com/track/7vDhn70WbYtahStdOAyGAJ"
+    },
+    {
+      "added_at": "2026-09-18 14:01:42",
+      "album": {
+        "name": "Pure Honesty",
+        "url": "https://open.spotify.com/album/0ifhkgei44CrT1ZzH731ol"
+      },
+      "artists": [
+        {
+          "name": "Portland",
+          "url": "https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn"
+        },
+        {
+          "name": "Rosie Stuart",
+          "url": "https://open.spotify.com/artist/1AqfgDZnbgqJDNI8Odsq9m"
+        }
+      ],
+      "duration_ms": 208011,
+      "name": "Pure Honesty",
+      "url": "https://open.spotify.com/track/18bVmSSmQjy2h7DuW9pJ2W"
     },
     {
       "added_at": "2026-09-18 14:01:42",
@@ -123,6 +155,22 @@
       "duration_ms": 199479,
       "name": "Swallow The Bomb",
       "url": "https://open.spotify.com/track/6fi18o5Jp6dAIcXPlgzhWF"
+    },
+    {
+      "added_at": "2026-09-18 14:01:42",
+      "album": {
+        "name": "Ride Lonesome",
+        "url": "https://open.spotify.com/album/6gP36h0Cv8vTiBmdbHO3qI"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 219029,
+      "name": "Run Away",
+      "url": "https://open.spotify.com/track/4djHuoHnH3bEKf5tbviToI"
     },
     {
       "added_at": "2026-09-18 14:01:42",
@@ -159,50 +207,34 @@
     {
       "added_at": "2026-09-18 14:01:42",
       "album": {
-        "name": "Simple Pleasures",
-        "url": "https://open.spotify.com/album/1YAHNLFNRpKTg7BchT8crJ"
+        "name": "Niemand is Niemand",
+        "url": "https://open.spotify.com/album/0XsiHlbeCbDO27CSWam6j2"
       },
       "artists": [
         {
-          "name": "Warhaus",
-          "url": "https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m"
+          "name": "Jacht",
+          "url": "https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO"
         }
       ],
-      "duration_ms": 232454,
-      "name": "Simple Pleasures",
-      "url": "https://open.spotify.com/track/2WrxJ6w8SWXFtCRs14cpso"
+      "duration_ms": 137287,
+      "name": "Niemand is Niemand",
+      "url": "https://open.spotify.com/track/7IBd6evqgcAyWi4u9cmOm6"
     },
     {
       "added_at": "2026-09-18 14:01:42",
       "album": {
-        "name": "Seriously",
-        "url": "https://open.spotify.com/album/6rE9QBWb6TtCjz13ipuwVv"
+        "name": "Insignificant Other",
+        "url": "https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib"
       },
       "artists": [
         {
-          "name": "Editors",
-          "url": "https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI"
+          "name": "Queens of the Stone Age",
+          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
         }
       ],
-      "duration_ms": 249975,
-      "name": "Seriously",
-      "url": "https://open.spotify.com/track/3dZTrUqLpivFUkSuIpSoyb"
-    },
-    {
-      "added_at": "2026-09-18 14:01:42",
-      "album": {
-        "name": "Cowboy Sinatra_",
-        "url": "https://open.spotify.com/album/43XI5ywnMJ77CCi5gjVdif"
-      },
-      "artists": [
-        {
-          "name": "Magazines",
-          "url": "https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz"
-        }
-      ],
-      "duration_ms": 178708,
-      "name": "Cowboy Sinatra_",
-      "url": "https://open.spotify.com/track/7vDhn70WbYtahStdOAyGAJ"
+      "duration_ms": 353666,
+      "name": "Insignificant Other",
+      "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
     },
     {
       "added_at": "2026-09-18 14:01:42",
@@ -239,22 +271,6 @@
     {
       "added_at": "2026-09-18 14:01:42",
       "album": {
-        "name": "Insignificant Other",
-        "url": "https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib"
-      },
-      "artists": [
-        {
-          "name": "Queens of the Stone Age",
-          "url": "https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn"
-        }
-      ],
-      "duration_ms": 353666,
-      "name": "Insignificant Other",
-      "url": "https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE"
-    },
-    {
-      "added_at": "2026-09-18 14:01:42",
-      "album": {
         "name": "Who's That",
         "url": "https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH"
       },
@@ -283,22 +299,6 @@
       "duration_ms": 242242,
       "name": "STUNNER",
       "url": "https://open.spotify.com/track/2X7Pi01fFrlsDXTTvlpJwD"
-    },
-    {
-      "added_at": "2026-09-18 14:01:42",
-      "album": {
-        "name": "Niemand is Niemand",
-        "url": "https://open.spotify.com/album/0XsiHlbeCbDO27CSWam6j2"
-      },
-      "artists": [
-        {
-          "name": "Jacht",
-          "url": "https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO"
-        }
-      ],
-      "duration_ms": 137287,
-      "name": "Niemand is Niemand",
-      "url": "https://open.spotify.com/track/7IBd6evqgcAyWi4u9cmOm6"
     },
     {
       "added_at": "2026-09-18 14:01:42",

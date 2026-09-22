@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 
 > This is Roy Ayers\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,750 likes - 50 songs - 3 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,749 likes - 50 songs - 3 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO43lj9b.md) - [plain]
 | 42 | [Poo Poo La La](https://open.spotify.com/track/2oadlkk3BsJyYhqcTU2NCz) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [In The Dark \(Expanded Edition\)](https://open.spotify.com/album/7374P9KcnkgNpxAmNEu5VF) | 6:30 |
 | 43 | [Dangerous Vibes \(Emmaculate Remix / Edit\)](https://open.spotify.com/track/3amaan7P8O6DbkuFsgjbB9) | [Ferry Ultra](https://open.spotify.com/artist/5kbLZCVZhJQ6ARWIZdtfTD), [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Emmaculate](https://open.spotify.com/artist/773IYSUSNH4RFefjVVogGB) | [Dangerous Vibes](https://open.spotify.com/album/3mrQgvpm6JWpXkUL60AW0W) | 3:25 |
 | 44 | [Soulful and Unique](https://open.spotify.com/track/6eA9vRrNPGGPMszrBcOn3a) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Adrian Younge](https://open.spotify.com/artist/4aMeIY7MkJoZg7O91cmDDd), [Ali Shaheed Muhammad](https://open.spotify.com/artist/6adBZwsyxZuWDoty0Tg0lt) | [Roy Ayers JID002](https://open.spotify.com/album/2rJ5B26dQwgxrjgg7WCE1G) | 3:00 |
-| 45 | [Holiday](https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Terri Wells](https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 7:07 |
-| 46 | [For Real](https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:50 |
-| 47 | [Oh What A Lonely Feeling \- Delfonic Rework](https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Roy Ayers Delfonic Reworked \#1](https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy) | 5:50 |
-| 48 | [The Boogie Back](https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Change Up The Groove](https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M) | 4:40 |
-| 49 | [Ain't No Sunshine](https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 6:20 |
+| 45 | [Oh What A Lonely Feeling \- Delfonic Rework](https://open.spotify.com/track/2YsACErCqxeNdWiU1MdKN6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Delfonic](https://open.spotify.com/artist/58TCXxlvoKiZrNowJsfGKP), [Merry Clayton](https://open.spotify.com/artist/71cyZ6pH0KrM2MdtO8RGmy) | [Roy Ayers Delfonic Reworked \#1](https://open.spotify.com/album/1wbV73tH1qCoWODy2hHiFy) | 5:50 |
+| 46 | [Holiday](https://open.spotify.com/track/3u8ykV0rczcfG93y0Evcl7) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj), [Terri Wells](https://open.spotify.com/artist/6YBiK4t0ZuN8ACjIfByjqJ) | [Virgin Ubiquity II](https://open.spotify.com/album/4Lbywk6u8hq5gFgJq7KBS6) | 7:07 |
+| 47 | [Ain't No Sunshine](https://open.spotify.com/track/3K4oV3E9NVN4NZBVnWBPRI) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Red, Black & Green](https://open.spotify.com/album/0OXHKJ6A4ZemuooqJjegPQ) | 6:20 |
+| 48 | [For Real](https://open.spotify.com/track/5H18pyi8z7yBX7ZUgaqspB) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Evolution: The Polydor Anthology](https://open.spotify.com/album/1rA1iPf6VWrHLRUNse6i3l) | 3:50 |
+| 49 | [The Boogie Back](https://open.spotify.com/track/6IST9f4O5DtXuxal7RM7A3) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Change Up The Groove](https://open.spotify.com/album/2odkikUoXGKyYYi5rcY79M) | 4:40 |
 | 50 | [Escape](https://open.spotify.com/track/4QiC3Z8hibUBRh1JrGxTk6) | [Roy Ayers](https://open.spotify.com/artist/6R9Mv0bgGE4Tqxna1q5Mrj) | [Coffy](https://open.spotify.com/album/6foq731YxdBce7fq3Qx3fA) | 2:18 |
 
-Snapshot ID: `aq3QgAAAAAA7INIAkvgWxYMxlGXBRbVK`
+Snapshot ID: `aq8iAAAAAABtAra0aWWjShHdyHtucHhq`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 
 > Beste Nederlandstalige songs uit de 60's! Cover: Boudewijn de Groot
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,513 likes - 90 songs - 4 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,518 likes - 90 songs - 4 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -19,8 +19,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 9 | [Eenzaam Zonder Jou](https://open.spotify.com/track/7LGNLoTk2YjtEdgoRELelP) | [Will Tura](https://open.spotify.com/artist/4HS0xcnX3oDHfCLJpHlUT8) | [The Real..\. Will Tura](https://open.spotify.com/album/1ePKQbue1TcYAXS396gBq6) | 2:28 |
 | 10 | [Sammy](https://open.spotify.com/track/2yeViE7XgsOare6ypIIXsB) | [Ramses Shaffy](https://open.spotify.com/artist/38qd50i3qMDHvWL1Mo0lk4) | [Ramses Shaffy \- Laat Me](https://open.spotify.com/album/68G1Wx6lZkRrw4Tn8W8Y73) | 2:14 |
 | 11 | [Het Land Van Maas En Waal](https://open.spotify.com/track/2nk4SnUS6xe1iB5SeIBbgo) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:58 |
-| 12 | [Op Een Mooie Pinksterdag](https://open.spotify.com/track/7JQszt5pkJe43vlr0MUtLJ) | [Andre Van Den Heuvel](https://open.spotify.com/artist/761xE3Wn7hz2BXKeKxccx2), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:25 |
-| 13 | [Kom van dat dak af](https://open.spotify.com/track/4I07xdkqgw91HqlP4t5h9B) | [Peter Koelewijn en Zijn Rockets](https://open.spotify.com/artist/4inB4rmxwWnwbszg23w4yj) | [Favorieten van Toen](https://open.spotify.com/album/3cFCIbnr6p0ITYXEmsA2Y1) | 2:39 |
+| 12 | [Kom van dat dak af](https://open.spotify.com/track/4I07xdkqgw91HqlP4t5h9B) | [Peter Koelewijn en Zijn Rockets](https://open.spotify.com/artist/4inB4rmxwWnwbszg23w4yj) | [Favorieten van Toen](https://open.spotify.com/album/3cFCIbnr6p0ITYXEmsA2Y1) | 2:39 |
+| 13 | [Op Een Mooie Pinksterdag](https://open.spotify.com/track/7JQszt5pkJe43vlr0MUtLJ) | [Andre Van Den Heuvel](https://open.spotify.com/artist/761xE3Wn7hz2BXKeKxccx2), [Leen Jongewaard](https://open.spotify.com/artist/4vXx2olYpSrm2B1jLm4p10) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:25 |
 | 14 | [Mijn Vlakke Land](https://open.spotify.com/track/1UlztlUKod6mibYwJEWbsp) | [Jacques Brel](https://open.spotify.com/artist/4RN2vlFWepLa46qQIU2PHs) | [De Vertedering \- De 60 Mooiste Luisterliedjes](https://open.spotify.com/album/7wychIhuEA1yc9YClKzR17) | 2:52 |
 | 15 | [Ik Heb Geen Zin Om Op Te Staan](https://open.spotify.com/track/4i0HqFY1cggDYuzts5I4bL) | [Het](https://open.spotify.com/artist/1niMQvL46zqZ7kHrfqFZNA) | [Die Goeie Ouwe Tijd 2 \- Top 100](https://open.spotify.com/album/5v4ZgunI2ScuGPuTOv90xK) | 3:07 |
 | 16 | [Verdronken Vlinder](https://open.spotify.com/track/7IEaiB0xfLdXzwHCG39cj5) | [Boudewijn de Groot](https://open.spotify.com/artist/3h6rezLYXc5QU08SCKZtyO) | [Het Beste Van Boudewijn De Groot](https://open.spotify.com/album/3jQCW6iuKAnDYZN9j67eiD) | 2:24 |
@@ -38,8 +38,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX27pyaOBBFp6.md) - [plain]
 | 28 | [Zai Zai Zai](https://open.spotify.com/track/2RJb5Fm0dre38McoUXLACa) | [Ben Cramer](https://open.spotify.com/artist/6ZGYLlgUagyNo2UXDTHU1U) | [Zai Zai Zai](https://open.spotify.com/album/6RXvitAivy3iW8ebDORM2t) | 3:05 |
 | 29 | [Ik Kan Geen Kikker Van De Kant Afduwen](https://open.spotify.com/track/3UzgV7RakYC3cwMa1zcCeJ) | [Lowland Trio](https://open.spotify.com/artist/0UWgpDfVMPO1mVVcYdIy48) | [Lowland Trio](https://open.spotify.com/album/5cuRfpQZqI2F6cahasPgwE) | 3:23 |
 | 30 | [Soerabaja](https://open.spotify.com/track/6WgIBSj3JIImcRurWWt63T) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [Warm Is De Liefde \- 50 Gouden Herinneringen](https://open.spotify.com/album/4UiNhbNhYlkznyjr85N7im) | 2:28 |
-| 31 | [De Wandelclub](https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H) | [Jasperina de Jong](https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:30 |
-| 32 | [De Wereld Is Leeg Zonder Jou](https://open.spotify.com/track/3GWOmCm7y2lobaykZbkjpm) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Corry](https://open.spotify.com/album/7HN3yPzTLfJhGf8Ek67H4i) | 2:53 |
+| 31 | [De Wereld Is Leeg Zonder Jou](https://open.spotify.com/track/3GWOmCm7y2lobaykZbkjpm) | [Corry Konings](https://open.spotify.com/artist/3pqfZ3xfayx6qJWcsVcXnS) | [Corry](https://open.spotify.com/album/7HN3yPzTLfJhGf8Ek67H4i) | 2:53 |
+| 32 | [De Wandelclub](https://open.spotify.com/track/2Uyu9r8dY1MIhG76fubp0H) | [Jasperina de Jong](https://open.spotify.com/artist/3ll4qAeqLNOB6U3FSPwyJX) | [Die Goeie Ouwe Tijd Top 100](https://open.spotify.com/album/39BzI7vL8N9czgVxsstZO3) | 3:30 |
 | 33 | [Middellandse Zee](https://open.spotify.com/track/5VJZNUSVtEntXztFaJWcZt) | [Anita Berry](https://open.spotify.com/artist/2Lrqb1RPGQ8vXNVTL65uL0) | [Middellandse Zee](https://open.spotify.com/album/1yLrPvd8Y5bV2pHkKxjgZz) | 3:08 |
 | 34 | [Waarom Heb Jij Me Laten Staan?](https://open.spotify.com/track/5LjIT56CJ7NeH5k3cC5j71) | [De Heikrekels](https://open.spotify.com/artist/3GOkYicm1xxsurU3bGY5JR) | [Het Beste van De Heikrekels \- Instrumentaal](https://open.spotify.com/album/6FDILW7wS2fySJcupx92JG) | 3:12 |
 | 35 | [Paradiso](https://open.spotify.com/track/37Yccv8dpwJKc0wYCDRBuM) | [Anneke Gronloh](https://open.spotify.com/artist/29Chv9G8hshAc8E2fL9R9Y) | [De Regenboog Serie: Anneke Grönloh](https://open.spotify.com/album/4roRCYfTzJwP7dzOCPddx9) | 2:40 |

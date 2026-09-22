@@ -1,6 +1,6 @@
 {
   "description": "Deutschsprachige Liebeslieder, die mitten ins Herz gehen \u2665\ufe0f",
-  "num_followers": 211562,
+  "num_followers": 211613,
   "original_name": "Liebeslieder",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,22 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
+        "name": "Nur ein bisschen",
+        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
+      },
+      "artists": [
+        {
+          "name": "Mayberg",
+          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+        }
+      ],
+      "duration_ms": 161956,
+      "name": "Nur ein bisschen",
+      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
+    },
+    {
+      "added_at": "2026-03-26 08:28:03",
+      "album": {
         "name": "Liege wieder wach",
         "url": "https://open.spotify.com/album/2rwuHAmXq1BgYGvcQT6rXb"
       },
@@ -687,18 +703,18 @@
     {
       "added_at": "2026-03-26 08:28:03",
       "album": {
-        "name": "Nur ein bisschen",
-        "url": "https://open.spotify.com/album/13OccRuEeFjL86D833ZDyA"
+        "name": "Es ist Abend und wir sitzen bei mir",
+        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
       },
       "artists": [
         {
-          "name": "Mayberg",
-          "url": "https://open.spotify.com/artist/0lNJF6sbrXXPubqKkkyK23"
+          "name": "AnnenMayKantereit",
+          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
         }
       ],
-      "duration_ms": 161956,
-      "name": "Nur ein bisschen",
-      "url": "https://open.spotify.com/track/2NTCi4wGypj56t843jb3Mt"
+      "duration_ms": 180186,
+      "name": "Katharina",
+      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
     },
     {
       "added_at": "2026-03-26 08:28:03",
@@ -719,22 +735,6 @@
       "duration_ms": 135096,
       "name": "Morgen",
       "url": "https://open.spotify.com/track/53x25WE2X6nOsHJ23mu1gv"
-    },
-    {
-      "added_at": "2026-03-26 08:28:03",
-      "album": {
-        "name": "Es ist Abend und wir sitzen bei mir",
-        "url": "https://open.spotify.com/album/0GyLgE1cRLcOUfsnhRplXI"
-      },
-      "artists": [
-        {
-          "name": "AnnenMayKantereit",
-          "url": "https://open.spotify.com/artist/23xqmJEN3oVxwzqtNIyR5m"
-        }
-      ],
-      "duration_ms": 180186,
-      "name": "Katharina",
-      "url": "https://open.spotify.com/track/6bimAQjh6FP1vZOXHrvs4j"
     },
     {
       "added_at": "2026-03-26 08:28:03",

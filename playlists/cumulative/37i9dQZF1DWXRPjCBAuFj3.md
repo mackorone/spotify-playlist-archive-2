@@ -2,9 +2,9 @@
 
 ### [Tendenze Rap 2026](https://open.spotify.com/playlist/37i9dQZF1DWXRPjCBAuFj3)
 
-> Dieci anni di Santeria 🐎🐎🐎
+> lontano lontano lontano 🐎🐎🐎 Sfera in cover
 
-1,098 songs - 2 day 8 hr 15 min
+1,100 songs - 2 day 8 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -582,6 +582,7 @@
 | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/track/5vhrsx08dHh2QcVh1Rsiwt) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER), [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [LONDON \(feat\. J\. Cole\)](https://open.spotify.com/album/5rIHQjM7xy35RYx9E3XaqS) | 4:10 | 2022-05-13 | 2022-10-08 |
 | [Lonely \(with Lil Wayne\)](https://open.spotify.com/track/6pmNoWKk0r6zfIjWneJRxR) | [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Lonely \(with Lil Wayne\)](https://open.spotify.com/album/6PwnWA19E1JThqWMdRrj6l) | 2:34 | 2022-05-10 | 2022-09-09 |
 | [Long Story Short \(with Lil Wayne\)](https://open.spotify.com/track/2jmdxJ60YfV3fVemuLz7pD) | [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865) | [Long Story Short](https://open.spotify.com/album/5Nzk5vGBrgjl9Ll8vk8m2q) | 3:30 | 2023-11-10 | 2024-06-21 |
+| [Lontano](https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Lontano](https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h) | 3:49 | 2026-09-21 |  |
 | [Loquito \(with Celine G\)](https://open.spotify.com/track/12X6Xp0LYHgEFOnofZcGCn) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Cookin Soul](https://open.spotify.com/artist/06s35sbFfZJUEwFjAaZfiW), [Celine G](https://open.spotify.com/artist/7ztO12lZMunK43UpFs0VM3) | [FASTLIFE 5 : Audio Luxury](https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T) | 2:50 | 2026-01-16 | 2026-03-27 |
 | [Love](https://open.spotify.com/track/5zgOQGcG0oTDUQVc45q1BY) | [kouz1](https://open.spotify.com/artist/3siTsIx6IEreSUva7pVnZ8) | [AFROBOY](https://open.spotify.com/album/1kjMaJivlo6PglDSbF9gK1) | 3:11 | 2023-02-09 | 2023-08-19 |
 | [Love & War](https://open.spotify.com/track/1WGmhglF1ghRiHsx4YUq86) | [Kodak Black](https://open.spotify.com/artist/46SHBwWsqBkxI7EeeBEQG7) | [Love & War](https://open.spotify.com/album/720wVklJFHQgiLQuPpdCla) | 3:59 | 2022-05-10 | 2022-07-29 |
@@ -776,6 +777,7 @@
 | [Poetic Justice](https://open.spotify.com/track/3MLOAIJNWWS8FQpvdaiKR7) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [good kid, m.A.A.d city \(Deluxe\)](https://open.spotify.com/album/748dZDqSZy6aPXKcI9H80u) | 5:00 | 2024-04-26 | 2024-05-22 |
 | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/track/69ZBK01gsgWUnA55BEaAPu) | [FendiDa Rappa](https://open.spotify.com/artist/7oXyXDUyxRjYXWC5L5EuGy), [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Point Me 2 \(with Cardi B\)](https://open.spotify.com/album/5My6f8l17o6nvsTDT8Qd2l) | 3:45 | 2023-07-07 | 2023-08-19 |
 | [Poland](https://open.spotify.com/track/74loibzxXRL875X20kenvk) | [Lil Yachty](https://open.spotify.com/artist/6icQOAFXDZKsumw3YXyusw) | [Poland](https://open.spotify.com/album/5LZiWbqOpj6g8uxSHch12S) | 1:23 | 2022-10-14 | 2023-08-19 |
+| [Pookie \(feat\. Capo Plaza\) \- Remix](https://open.spotify.com/track/1MtmXPxXP4ntSjfF5xnOyM) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [Pookie \(feat\. Capo Plaza\) \[Remix\]](https://open.spotify.com/album/75Y58W3tVyLOv1gOMXoNdq) | 3:08 | 2026-09-21 |  |
 | [POPO](https://open.spotify.com/track/0sMCcICKRGJ8Td75nZloeU) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [POPO](https://open.spotify.com/album/18Cf3fPeZ5mRYI8ihYBhqo) | 3:11 | 2024-02-02 | 2024-08-02 |
 | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/track/6EDO9iiTtwNv6waLwa1UUq) | [DJ Khaled](https://open.spotify.com/artist/0QHgL1lAIqAw0HtD7YldmP), [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [POPSTAR \(feat\. Drake\)](https://open.spotify.com/album/5nNtpPsSUgb9Hlb3dF1gXa) | 3:20 | 2022-05-10 | 2023-04-27 |
 | [Portofino \(feat\. Baby Gang\)](https://open.spotify.com/track/7t9kge4zBxwwYLNjIeS1wo) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Higashi](https://open.spotify.com/artist/1eBPcZCSWh1EAv0aOXusye), [Chahid](https://open.spotify.com/artist/6EBuwu67SbT5U1Gns5bvCb), [Baby Gang](https://open.spotify.com/artist/3LvwPiJQJ0da0GurKMToV0) | [Cipriani](https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu) | 2:02 | 2026-02-23 |  |

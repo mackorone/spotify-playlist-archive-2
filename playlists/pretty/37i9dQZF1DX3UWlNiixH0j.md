@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3UWlNiixH0j.md) - [plain]
 
 > 日本のインディー・サウンドを特集。The freshest indie sounds from Japan\. cover: ゲシュタルト乙女 Gestalt Girl
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,506 likes - 99 songs - 6 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,522 likes - 99 songs - 6 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

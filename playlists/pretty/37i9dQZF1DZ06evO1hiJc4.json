@@ -1,12 +1,12 @@
 {
   "description": "This is Labrinth. The essential tracks, all in one playlist.",
-  "num_followers": 157835,
+  "num_followers": 157842,
   "original_name": "This Is Labrinth",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAD97Kal5E6tV+Y3AzpWVYbE",
+  "snapshot_id": "aq8iAAAAAADG2KHNBwFPY9/PRKF7H4NJ",
   "tracks": [
     {
       "added_at": null,
@@ -922,11 +922,15 @@
         {
           "name": "Labrinth",
           "url": "https://open.spotify.com/artist/2feDdbD5araYcm6JhFHHw7"
+        },
+        {
+          "name": "Alex Baranowski",
+          "url": "https://open.spotify.com/artist/25ZtHjSjM5LJckzidujhoQ"
         }
       ],
-      "duration_ms": 53353,
-      "name": "What Would You Want Me To Be",
-      "url": "https://open.spotify.com/track/5qdma4cGhLzg5fkX57dnmH"
+      "duration_ms": 102603,
+      "name": "Accepted By The Crew",
+      "url": "https://open.spotify.com/track/20pJfe2XnmhYQWlKUlamHh"
     },
     {
       "added_at": null,

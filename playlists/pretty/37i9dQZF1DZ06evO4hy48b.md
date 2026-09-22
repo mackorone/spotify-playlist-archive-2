@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 
 > This is Aitana\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 248,819 likes - 42 songs - 2 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 248,883 likes - 42 songs - 2 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -51,4 +51,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO4hy48b.md) - [plain]
 | 41 | [La Canción Que No Quiero Cantarte](https://open.spotify.com/track/5PHEToa3yWlCiagig8MFE9) | [Amaia](https://open.spotify.com/artist/1WLEfsQjvgtFSGkrHonzFX), [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25) | [Cuando No Sé Quién Soy](https://open.spotify.com/album/28Et1GjQGMGNY9oQNDVkGF) | 2:48 |
 | 42 | [TRANKIS](https://open.spotify.com/track/1wNDU9iweBU4ZZpWBUW9O5) | [Aitana](https://open.spotify.com/artist/7eLcDZDYHXZCebtQmVFL25), [Barry B](https://open.spotify.com/artist/1jRwxa8eTgXDOhOlbRFFFy) | [CUARTO AZUL](https://open.spotify.com/album/1lKquzZlhL5AWMHTeGej4M) | 3:18 |
 
-Snapshot ID: `aq3QgAAAAADmN2IhgHwDsQi9ms481xxU`
+Snapshot ID: `aq8iAAAAAABVkhE29tWy0sSvKTcbemRR`

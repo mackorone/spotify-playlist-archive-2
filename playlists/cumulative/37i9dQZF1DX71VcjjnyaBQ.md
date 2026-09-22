@@ -2,9 +2,9 @@
 
 ### [Good Morning Jazz](https://open.spotify.com/playlist/37i9dQZF1DX71VcjjnyaBQ)
 
-> Jazz for breakfast to start your day right.
+> Soft jazz for slow mornings, first coffee, and the quiet before the day starts.
 
-269 songs - 22 hr 59 min
+270 songs - 23 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -16,7 +16,7 @@
 | [A.M\. Hours](https://open.spotify.com/track/4pQaJHrYyFIWNxpNyU9BXW) | [Rudy Royston](https://open.spotify.com/artist/0ILg6S11FRLlqKHKOfTJyY) | [A.M\. Hours](https://open.spotify.com/album/2HzQX5wSRWkQUpvjHeJiJ9) | 4:18 | 2024-03-29 | 2026-05-23 |
 | [Abiyoyo](https://open.spotify.com/track/4uu7myvstHcybO1E2SJOi5) | [Johnathan Blake](https://open.spotify.com/artist/5FzOdzC3xUlGuFNNOQ4Xms) | [Homeward Bound](https://open.spotify.com/album/567r4Wqu7u5g1G7Jj3qpBj) | 3:24 | 2021-12-21 |  |
 | [Alfie](https://open.spotify.com/track/1HaqueKZTTNz41osWY2Cey) | [Richard Baratta](https://open.spotify.com/artist/1LxHsIFW4ovnm2kDljMQ6X) | [Alfie](https://open.spotify.com/album/2SdXGtsLhoUQA9QEq8DQ0o) | 6:37 | 2022-02-10 |  |
-| [All of the Sun](https://open.spotify.com/track/1zdPIpzhWLiXI6OYok4kEx) | [Ola Åkerman](https://open.spotify.com/artist/4xSDpqru7PNSifJZNSctYd), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [All of the Sun](https://open.spotify.com/album/3GCfATaAMWtUTJww65AhlU) | 5:01 | 2025-07-07 |  |
+| [All of the Sun](https://open.spotify.com/track/1zdPIpzhWLiXI6OYok4kEx) | [Ola Åkerman](https://open.spotify.com/artist/4xSDpqru7PNSifJZNSctYd), [Anders Mogensen](https://open.spotify.com/artist/6WPu073KUfyLXE41VEW9Ik) | [All of the Sun](https://open.spotify.com/album/3GCfATaAMWtUTJww65AhlU) | 5:01 | 2025-07-07 | 2026-09-22 |
 | [Amelia](https://open.spotify.com/track/7MfOcicIHjkkm1NPaQDx64) | [Wolfgang Muthspiel](https://open.spotify.com/artist/7a7Vs88vzOcmHh4GOpUEJJ), [Scott Colley](https://open.spotify.com/artist/7AxNB7slEfo3WsWmZf4TSs), [Brian Blade](https://open.spotify.com/artist/0nXwIc4NAbu2K881ealRDu) | [Amelia](https://open.spotify.com/album/12RPTPkpm9bA9LvN8BOSW3) | 7:02 | 2023-08-08 |  |
 | [An Ever Changing View](https://open.spotify.com/track/7oOdeQyktbC4mCnuSYTFDk) | [Matthew Halsall](https://open.spotify.com/artist/0Cioop2zjxXxtcPUme7R46) | [An Ever Changing View](https://open.spotify.com/album/2mDAsYdtmCGxxcYRFkTit0) | 6:32 | 2023-09-08 | 2025-06-14 |
 | [Anthem](https://open.spotify.com/track/49GkEXzeU30nUaEussqtUi) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:16 | 2022-04-28 | 2025-11-22 |
@@ -101,6 +101,7 @@
 | [Glade](https://open.spotify.com/track/3KGpKf2fo1UM661ptimvoD) | [Fergus McCreadie](https://open.spotify.com/artist/5Yb1aFMX9xNtjFVDSdt2ZL) | [Forest Floor](https://open.spotify.com/album/7obbpxRcY0VOg5M7fzXwUi) | 5:42 | 2022-04-07 |  |
 | [Going Home](https://open.spotify.com/track/10csxHiNeiIya5IRKop4Pa) | [Arne Torvik Trio](https://open.spotify.com/artist/7wIjlaL576ezBXdBuC3rGZ), [Bjørnar Kaldefoss Tveite](https://open.spotify.com/artist/6UlcsS6DYRuJmx1keoSc66), [Øystein Aarnes Vik](https://open.spotify.com/artist/4j7webqY2iLUDsHzMjgd9u) | [Going Home](https://open.spotify.com/album/7auXfJEUlOjhquq5JAFaq8) | 4:43 | 2024-01-17 |  |
 | [Going Up](https://open.spotify.com/track/6bDFg4xR80Z2WfBZ69hYYP) | [Snorre Kirk](https://open.spotify.com/artist/1QgZiL5uQ3WN1sMkmbVaGM), [Stephen Riley](https://open.spotify.com/artist/6r96KF2Ucx8cUwBvgnxRYD) | [Going Up](https://open.spotify.com/album/6sKgPcsj3CUM4MVC2qtmst) | 4:35 | 2021-12-21 |  |
+| [Grand Street](https://open.spotify.com/track/2NxHjUNJbp9udozC5zCUxy) | [Joshua Redman](https://open.spotify.com/artist/3uaHfXYx9Fh4HjqMbrWn5S), [Peter Bernstein](https://open.spotify.com/artist/5vCIoZWrnWUkjCKmtaADQc), [Christian McBride](https://open.spotify.com/artist/5ACxPOI9gR3l0cyy2dvkHv), [Marcus Gilmore](https://open.spotify.com/artist/1caVPl46Ta6C8DYns5AAuo) | [Grand Street](https://open.spotify.com/album/6TIjvKJlXCo4mJUYJRUdJV) | 3:44 | 2026-09-21 |  |
 | [Grinde](https://open.spotify.com/track/2ldhlejPCYY1Ey1QKNlxnz) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST) | [You Had Me at Goodbye](https://open.spotify.com/album/6OxXYgY6ayT3FSuR2VqZdW) | 5:04 | 2022-01-07 |  |
 | [Have a Day](https://open.spotify.com/track/0TAQObwgBL0r6wuINDs0cY) | [Musicmusicmusic](https://open.spotify.com/artist/5mtFvnvImn9y9m8MaVxTZ8) | [Have a Day](https://open.spotify.com/album/0SBtKGwM2gnuKoZFaHIf9k) | 6:23 | 2022-04-22 | 2025-11-22 |
 | [High Falls](https://open.spotify.com/track/6hDUg71r8K79MszcoK5DUo) | [Jerome Sabbagh](https://open.spotify.com/artist/5QyGCDcadoRovdmVqEu8JT), [Ben Monder](https://open.spotify.com/artist/2CH9bD5RtnDcm9O23JByN7), [Joe Martin](https://open.spotify.com/artist/5o11IsGu9crJBiLe37pNWW), [Nasheet Waits](https://open.spotify.com/artist/5fhkjcgOAjl6gQGsQOcP46) | [High Falls](https://open.spotify.com/album/5faqJBw7J049fWvDqTcf0c) | 5:57 | 2025-06-13 | 2025-07-19 |

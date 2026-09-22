@@ -4,7 +4,7 @@
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-758 songs - 1 day 23 hr 18 min
+762 songs - 1 day 23 hr 33 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -114,6 +114,7 @@
 | [Caught in the Stillness](https://open.spotify.com/track/2tDI6WG6dRN7dzIgUpT3B3) | [The Hollow Frays](https://open.spotify.com/artist/4p9MmGhxHuh8SEcsOTiU9L) | [Caught in the Stillness](https://open.spotify.com/album/0UQ0WNh2D6S0InS8ETa4v7) | 3:26 | 2026-03-01 | 2026-03-18 |
 | [Chain of Tears](https://open.spotify.com/track/08SiekDZZVLFZOuXH6hyjb) | [NEBO](https://open.spotify.com/artist/1xa8wXy8Vr8bNIZBXC5MzW) | [Metaphysical Machines](https://open.spotify.com/album/72ySfGq5j24M8HZe9JvSNq) | 4:33 | 2026-03-15 |  |
 | [Change](https://open.spotify.com/track/4R2lNQAf735RGb9Q1ujGj5) | [Claudia Ferri](https://open.spotify.com/artist/1AuF1gQexqDz6ccd06Mge0) | [Change](https://open.spotify.com/album/3IY95C3MaVS42sm8FXxGYj) | 2:48 | 2026-07-25 | 2026-08-15 |
+| [Change It](https://open.spotify.com/track/35zASnos8CRA1WkVHdY0us) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT), [Brei Carter](https://open.spotify.com/artist/1ODtqEHcWPmq8LlAOWAu7i), [Megan Urby](https://open.spotify.com/artist/0DpGBXTwcqB2PfuF1lQFuo), [Leif Shively Band](https://open.spotify.com/artist/78WGTxMhFRCPmZsaV02Fc8) | [Change It](https://open.spotify.com/album/5OyqYRNiss4SlC9qQMLYCq) | 3:26 | 2026-09-21 |  |
 | [Chasing Yesterday](https://open.spotify.com/track/3pke4JWohWzavXdgJe0wR4) | [FuzzBeat](https://open.spotify.com/artist/3tlQEPigCWjJl4mCY97UYV) | [Chasing Yesterday](https://open.spotify.com/album/2bZ7Mt7GGbp1cB0K355wDw) | 3:20 | 2025-12-31 | 2026-03-18 |
 | [Cheese Is Illegal](https://open.spotify.com/track/5mSj7KV5jbZlZXuoHtMfV6) | [Neofors](https://open.spotify.com/artist/7HoKutGLhVfmBPfZe3gsPl) | [Cosmic Bingo](https://open.spotify.com/album/0a1rW4YNunla4OAVRxGUY1) | 3:20 | 2026-05-19 | 2026-06-25 |
 | [Cherry Vice](https://open.spotify.com/track/4w8KqyKtWt2qEWYBaVeg6a) | [Dizzy Daffodils](https://open.spotify.com/artist/1d6SQiQelLAdAjeiKX9CTm) | [Cherry Vice](https://open.spotify.com/album/2GwrxKasqTphRbauTYFc3h) | 4:18 | 2026-05-21 | 2026-06-18 |
@@ -200,6 +201,7 @@
 | [El Homo Clickens](https://open.spotify.com/track/49Oc3I1yEyTz3l25jPeCKy) | [KekoYoma](https://open.spotify.com/artist/7GldhIgOZLcj8PlZltwg1V) | [El Homo Clickens](https://open.spotify.com/album/5bdDEmbCYtXo3HznVvwOIL) | 3:33 | 2026-06-10 | 2026-06-25 |
 | [El Rock No Esta En Tu Ropa](https://open.spotify.com/track/3DGdbW7SbmdwT9P3tLfhAb) | [Todo Podrido](https://open.spotify.com/artist/4jVIYvQsjLqSJgR9ePsJRQ) | [Encantados](https://open.spotify.com/album/6vGyGiCIjk9FecwFAfXmhp) | 2:54 | 2025-09-29 | 2025-12-17 |
 | [Electric Haze](https://open.spotify.com/track/1YRywRERxc1HIFZzOrlmQB) | [Flamebearer](https://open.spotify.com/artist/4bRBQal2LOKIOvoZTUOjdq) | [Igniter](https://open.spotify.com/album/7IMnCssvOu9qp3rRhw23Vy) | 4:56 | 2026-09-02 | 2026-09-20 |
+| [Electric Man](https://open.spotify.com/track/7LZJg1Fp65cIGGffXk1Tdp) | [Dagga Rocks](https://open.spotify.com/artist/0ecQj5R7x9OcjxJfZxtum6) | [Electric Man](https://open.spotify.com/album/0X21UCO3pbocXs6kZ01aFg) | 4:21 | 2026-09-21 |  |
 | [Em Meio ao Caos](https://open.spotify.com/track/6zsMTcx0wMe6qRvKw9IJGT) | [Sergio Sampaio](https://open.spotify.com/artist/7GpP0myxq1RPbCFNFefMuo) | [Em Meio ao Caos](https://open.spotify.com/album/2OFUSAfeqtlraXQF8h2vsC) | 3:44 | 2026-09-06 | 2026-09-20 |
 | [Empiezo a Creer](https://open.spotify.com/track/1lzwwRYzUb3BotVYxuoQ2z) | [Coto privado](https://open.spotify.com/artist/1TmFxjLLIPQFgmha4yIXh8) | [Escrito en el Lavabo](https://open.spotify.com/album/6khlI7NYlitPiEALNeqoVE) | 4:34 | 2025-10-29 | 2025-12-17 |
 | [Empty Rooms](https://open.spotify.com/track/6qfsVMk4hXxG8UmM2ROAYe) | [Ritmo Quantico](https://open.spotify.com/artist/1gnTu7US1LD0M1AXrGefBB) | [Empty Rooms](https://open.spotify.com/album/16ct0XLkheDyM0vjZ2Mi9C) | 4:01 | 2025-09-30 | 2025-12-17 |
@@ -469,6 +471,7 @@
 | [Nuove Rotte](https://open.spotify.com/track/59nbSqtxgppRtUVa65xwHk) | [Lorenzo Colucci](https://open.spotify.com/artist/4BRWgyOnIuVwX5T3yEpE6c) | [Nuove Rotte](https://open.spotify.com/album/3bMnU5S6r8mhq7Rt9sXkcd) | 3:15 | 2026-05-03 | 2026-05-26 |
 | [Nuvens](https://open.spotify.com/track/0SejuWnZQoAT88poImtMiy) | [Felipe Roth](https://open.spotify.com/artist/4fLMGUYffJu0m5W20zKMqh) | [Vida na Estrada](https://open.spotify.com/album/4XfA2gMTG2IXlpXaVhjsYn) | 2:59 | 2025-10-09 | 2025-11-28 |
 | [NYC](https://open.spotify.com/track/1XV6HbFuk6d2e5WnOEnSPo) | [House of Light](https://open.spotify.com/artist/0FaJUAl3mBp7WR82pF7WHp) | [21st Century Prayer](https://open.spotify.com/album/0YaMrVDCvO6AZDmHFGSRSk) | 3:32 | 2025-10-07 | 2025-11-28 |
+| [Não Venha Sem Avisar](https://open.spotify.com/track/3HXJlragpVyaqhoAjtWwoJ) | [Thiago Martins](https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof) | [Não Venha Sem Avisar](https://open.spotify.com/album/2EUidS1qnhNkBZzAvPTPgs) | 2:51 | 2026-09-21 |  |
 | [Ocean Life](https://open.spotify.com/track/7bvXe56Ce0h4gtiU0xWzuM) | [Still Crash](https://open.spotify.com/artist/4nxuNWss1Y7gLSIn4I2mNu) | [The Alchemindmistyc](https://open.spotify.com/album/21DJLojbuDUBIGslS0yIIc) | 7:00 | 2025-10-18 | 2025-11-28 |
 | [Often](https://open.spotify.com/track/1KuCYrJ2QqdjOhaKsRGUvW) | [I](https://open.spotify.com/artist/1vKrAakgKMEH5ZinLdmmYR) | [Often](https://open.spotify.com/album/2x2nmJBlTRBbpa3ic52cR0) | 3:46 | 2026-02-22 | 2026-07-12 |
 | [Oh Come On!](https://open.spotify.com/track/2eao3HIlNiWH47YXbUDbYO) | [Your Friend Death](https://open.spotify.com/artist/2wFQuwL5t22Xi117f8nzRx) | [Oh Come On!](https://open.spotify.com/album/2HGuF5sdOMdRCGnd2EJCWB) | 3:07 | 2026-06-05 | 2026-06-18 |
@@ -551,6 +554,7 @@
 | [Rock N Roll From Tennessee](https://open.spotify.com/track/0U4A63dSoHUsX852Akvxki) | [The Red Light](https://open.spotify.com/artist/60BwxiCPsunxkkYMXZGCAu) | [Stories From The Working Class](https://open.spotify.com/album/0uROJoEp9NJ0YdzbQfpyRd) | 3:34 | 2026-03-01 | 2026-03-18 |
 | [RockPaperScissors](https://open.spotify.com/track/2xOQmufJ8gzlaUtKZfiCm7) | [Jonathan Turk](https://open.spotify.com/artist/3QgYeMYR3iXjFOLewqhpBo) | [RockPaperScissors](https://open.spotify.com/album/4wSVvEGJ0OhDG4MUOtFLH6) | 3:25 | 2026-05-07 | 2026-05-26 |
 | [Rollin' + Twistin'](https://open.spotify.com/track/2CCdd0Lo1B5BY8N2ctOFNQ) | [Gypsy Cowboys](https://open.spotify.com/artist/4myRhM03KuiFw1dOSSkAdM) | [Rollin' + Twistin'](https://open.spotify.com/album/5zMH9tVYPrNuer03CoUjit) | 3:24 | 2026-01-03 | 2026-07-12 |
+| [RORSCHACH \(Album Edit\)](https://open.spotify.com/track/2kkEMle30gPNJhGDZJ1Vb0) | [Cameron Ravenhill](https://open.spotify.com/artist/6GStRwlHVeTkevfVsq3BUE) | [GROWING PAINS](https://open.spotify.com/album/5HBooct6GfHTclXwSw9FnO) | 4:00 | 2026-09-21 |  |
 | [Rossa Luna](https://open.spotify.com/track/3wnGCihTWncCJkn0awDes3) | [Hari the Cosmic Cowboy](https://open.spotify.com/artist/5rYjmE5aHWuEzdBi4Afb7m) | [Rossa Luna](https://open.spotify.com/album/2763zkWD7SCAnmFH8pIhjQ) | 3:57 | 2026-07-08 | 2026-08-01 |
 | [Rota Psicodélica](https://open.spotify.com/track/2yxf0RiYiEDvUODDEDzQID) | [Folk Soundtrack Band](https://open.spotify.com/artist/7msqMHsbi7Yvpy3gRfp31l), [Beto Carrara](https://open.spotify.com/artist/7A7ioygw9Zh8vJsOpSdlmW) | [Rota Psicodélica](https://open.spotify.com/album/0o84VkYn8mGiIxBUKnsUE2) | 2:52 | 2026-03-16 | 2026-04-21 |
 | [Route 66 Storm](https://open.spotify.com/track/0SnrPl7CYenERPqiU2QXXp) | [J\. Lee Bone](https://open.spotify.com/artist/6gGiDRa5txAU73w00S1zXs) | [Route 66 Storm](https://open.spotify.com/album/2nIrZBoaiNbRvY4lI2WmIJ) | 3:34 | 2026-03-05 | 2026-03-18 |

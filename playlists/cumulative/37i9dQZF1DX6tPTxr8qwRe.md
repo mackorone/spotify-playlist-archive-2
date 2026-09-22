@@ -4,7 +4,7 @@
 
 > sweet\. sharp\. unbothered \- VANITY on the cover
 
-1,148 songs - 2 day 5 hr 11 min
+1,150 songs - 2 day 5 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -48,7 +48,7 @@
 | [Allergic](https://open.spotify.com/track/28CBk22DxTyK3uJt80fZTj) | [HAVEN](https://open.spotify.com/artist/6xd3ACm5Dgf2Znj8abDUrd) | [Allergic](https://open.spotify.com/album/2ci6xkWQQXTaCEk5FMYV0g) | 2:24 | 2022-02-04 | 2022-07-02 |
 | [almost 20](https://open.spotify.com/track/7qalncJL3kgrFl3puKub1n) | [Karin Ann](https://open.spotify.com/artist/7t7hXBcoQ0dywVEXB0TOYZ) | [side effects of being human](https://open.spotify.com/album/6oJSaG6vnE04zA86rkTAm8) | 2:12 | 2022-02-25 | 2022-03-18 |
 | [amen](https://open.spotify.com/track/3FBQlqvYsxDlR9IBiRmB1v) | [Cloudy June](https://open.spotify.com/artist/5sBBS3CQNPDzmuTJjYwnpa) | [amen](https://open.spotify.com/album/5pzvKgJcfuJoppf2J59qSy) | 2:17 | 2025-08-01 | 2025-09-21 |
-| [American Apparel](https://open.spotify.com/track/1k9D2S8JBdGxrOe3UYNLCI) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA), [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [American Apparel](https://open.spotify.com/album/1PkDBmpEGEshxH1oteOZLy) | 2:16 | 2026-05-01 |  |
+| [American Apparel](https://open.spotify.com/track/1k9D2S8JBdGxrOe3UYNLCI) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA), [Baby Nova](https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf) | [American Apparel](https://open.spotify.com/album/1PkDBmpEGEshxH1oteOZLy) | 2:16 | 2026-05-01 | 2026-09-22 |
 | [American Dream](https://open.spotify.com/track/4rjx6v5WkdRFe2QwxFAoS8) | [Chandler Leighton](https://open.spotify.com/artist/5zUeHMatct7zGjyIji9T4C) | [American Dream](https://open.spotify.com/album/4q0OJVTYATqeedtb1ESQvZ) | 3:03 | 2023-09-01 | 2024-01-05 |
 | [AMERICAN GIRL](https://open.spotify.com/track/7CaVwjjBhkLp3c0scMKdPj) | [Tiffany Day](https://open.spotify.com/artist/5D5Qbe1lf3aMnLsPSzXItu) | [AMERICAN GIRL](https://open.spotify.com/album/5WK8EB5SH5cvQG4RKtcyev) | 2:56 | 2025-09-22 | 2026-03-28 |
 | [AMERICAN HORROR SHOW](https://open.spotify.com/track/38RLObegC9ggpKPRVQDc1g) | [SNOW WIFE](https://open.spotify.com/artist/7CV3dQkhJB2dEqb85ICD33) | [AMERICAN HORROR SHOW](https://open.spotify.com/album/5JyHQrBtMytztLaqG8czrG) | 2:29 | 2023-06-30 | 2024-04-27 |
@@ -192,11 +192,13 @@
 | [Catch Me If You Can](https://open.spotify.com/track/3avxoezewxXsotmpqVbDtV) | [Just For Fun](https://open.spotify.com/artist/5jCHlaCfuvJlyn5a4yap3t) | [Catch Me If You Can](https://open.spotify.com/album/5cTD9rYrL6H4PKh3fvHdTm) | 2:37 | 2025-07-18 | 2025-11-08 |
 | [Celebrity Skin](https://open.spotify.com/track/66bLKGXOk3kPWWHP7Tbrki) | [Doja Cat](https://open.spotify.com/artist/5cj0lLjcoR7YOSnhnX0Po5) | [Celebrity Skin](https://open.spotify.com/album/2y8KeBe1RXU46rnl4lpzHl) | 2:39 | 2022-02-25 | 2022-05-28 |
 | [changes](https://open.spotify.com/track/3fuaISGMWzSNjkcdeUJUb9) | [AUDREY NUNA](https://open.spotify.com/artist/0Wwji82sLA0Hcvtuak3omb) | [a liquid breakfast DELUXE](https://open.spotify.com/album/6LDit3vNb3nWRCNza4IfHj) | 2:04 | 2022-01-28 | 2022-02-19 |
+| [Changing Times](https://open.spotify.com/track/6Oxpm6WGkdWHrojl3NmJqj) | [Lenii](https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94) | [Changing Times](https://open.spotify.com/album/5ktczUr70zlsrwPYOaoa1Z) | 3:39 | 2026-09-21 |  |
 | [Charisma](https://open.spotify.com/track/2mtBjvQzQHtknKFQKTbCbX) | [Jann](https://open.spotify.com/artist/61mjebytLODtxAOS9ULCmb) | [Charisma](https://open.spotify.com/album/2TcKAlzwi9pSGMpVOIXho4) | 2:57 | 2023-12-08 | 2024-02-24 |
 | [Chasm](https://open.spotify.com/track/3B2zZpNfRY47H0eyVBFlPn) | [Brye](https://open.spotify.com/artist/6Z5uMO0V6jlOuZ7LUDrSsC) | [Chasm](https://open.spotify.com/album/3J5RD4gtqmlIYptWCyi4hg) | 3:03 | 2024-07-26 | 2024-11-12 |
 | [Cheap Cherry Bubblegum](https://open.spotify.com/track/68CZHScUMvCAIpyfOFkqWu) | [Jessica Doolan](https://open.spotify.com/artist/5oq3FJxK1ZwmaSJsz0jcwW) | [Cheap Cherry Bubblegum](https://open.spotify.com/album/3SsXl2bAwXABX1pbIrNd1G) | 2:47 | 2024-11-15 | 2025-04-12 |
 | [Checkered Vans](https://open.spotify.com/track/2L6OCsfX3WT1Vt7Pc5ID0b) | [Mckenna Grace](https://open.spotify.com/artist/1ZjXhESKpjsv31L7ykuJBE) | [Checkered Vans](https://open.spotify.com/album/23ebC7TSnXeAh3tt21tIap) | 3:18 | 2023-02-10 | 2023-03-04 |
 | [Cheerleader](https://open.spotify.com/track/4Bgh6Uv9851EcAMH8IRirR) | [Ashnikko](https://open.spotify.com/artist/3PyJHH2wyfQK3WZrk9rpmP) | [Cheerleader](https://open.spotify.com/album/02TKqxmoLu0YMByukgmtlH) | 2:12 | 2023-07-28 | 2024-01-05 |
+| [CHEERLEADER](https://open.spotify.com/track/5Jtt9ek05ptNlGI0n2Qhty) | [Ella Collier](https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ) | [DANGEROUS](https://open.spotify.com/album/04EZYdfe0BcthNa5agSelM) | 3:12 | 2026-09-21 |  |
 | [Cherry Picking](https://open.spotify.com/track/53XLxGfbbHqFC7U6h21raj) | [poutyface](https://open.spotify.com/artist/0H44O4IYqpTOGx4c5nV37f) | [Cherry Picking](https://open.spotify.com/album/285nPVh4Kx9Iwe2qRkO7F8) | 2:30 | 2022-03-04 | 2022-05-28 |
 | [Chocolate](https://open.spotify.com/track/7tLC5vaAL5GcyTDHeNHMpg) | [Featurette](https://open.spotify.com/artist/53LcgV1grfplFF71oaW3E2) | [Chocolate](https://open.spotify.com/album/5M5MseaP4OPbERX4VORT9D) | 2:48 | 2024-07-26 | 2024-09-07 |
 | [CHOKE](https://open.spotify.com/track/79Su9VyzxvgDUwqcSATn8O) | [emlyn](https://open.spotify.com/artist/1qMJAm3nqZq6AsqeaAk2m1) | [CHOKE](https://open.spotify.com/album/6F9PXpFXHnlLmhR2c0yReW) | 2:10 | 2024-10-25 | 2025-04-12 |
@@ -800,7 +802,7 @@
 | [pretty little thing](https://open.spotify.com/track/3X4JzWg9iUK5hYMysb53cu) | [KINGS](https://open.spotify.com/artist/6YQuBpbzdPGNFnyADC9QC3) | [pretty little thing](https://open.spotify.com/album/2KR8YSHpIenuVjxiP8BlUL) | 2:08 | 2025-05-02 | 2025-10-18 |
 | [pretty little wreck](https://open.spotify.com/track/5E20wifIo9SPgYSFiboExO) | [LØLØ](https://open.spotify.com/artist/5MjcGshMggPgIHinIUDaX0) | [pretty little wreck](https://open.spotify.com/album/7y25EesHbjD552Aquq2Vtf) | 1:58 | 2026-08-14 |  |
 | [pretty poison](https://open.spotify.com/track/1a6SSxTLJK6AT9eTd8K6ao) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [pretty poison](https://open.spotify.com/album/4TrwWZCvhaw07kchbcba0S) | 2:17 | 2021-09-10 | 2022-02-19 |
-| [PRICE TAG](https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PRICE TAG](https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui) | 3:10 | 2026-05-01 |  |
+| [PRICE TAG](https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PRICE TAG](https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui) | 3:10 | 2026-05-01 | 2026-09-22 |
 | [Problems](https://open.spotify.com/track/0zPQx8X0MqfilG0dZIRXkN) | [Jake Daniels](https://open.spotify.com/artist/3AYZMgvmzNKc3cGmJUSITh) | [Problems](https://open.spotify.com/album/7ARGpnH0DV4qXGSzC08Rf2) | 2:50 | 2022-08-12 | 2023-02-04 |
 | [PSYCHO](https://open.spotify.com/track/4mzarp4qJVXipOOpzs5MB5) | [Sara James](https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV) | [PSYCHO](https://open.spotify.com/album/6d4okERqK0BiadzjBBOsEL) | 3:06 | 2024-10-11 | 2025-01-25 |
 | [PSYCHO FREAK](https://open.spotify.com/track/5BH7kDLK881aVA6FiYLvzY) | [Cailin Russo](https://open.spotify.com/artist/2org0PubBAxTvjVvLo9PJ0) | [PSYCHO FREAK](https://open.spotify.com/album/4VXl7eff0Zu9XfN7Q9hEdZ) | 2:45 | 2023-01-13 | 2023-04-01 |

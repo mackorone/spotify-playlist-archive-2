@@ -4,7 +4,7 @@
 
 > Les nouveautés rap franco sans frontières\. Photo: Djadja & Dinaz
 
-773 songs - 1 day 13 hr 4 min
+774 songs - 1 day 13 hr 7 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -112,7 +112,7 @@
 | [BLICK](https://open.spotify.com/track/1CqfEGarqDPhWUKft6Gy9z) | [Hamza](https://open.spotify.com/artist/5gs4Sm2WQUkcGeikMcVHbh) | [PUBLIC ENEMY](https://open.spotify.com/album/3YMJMEiT7hO0ggUXoxPVA4) | 1:55 | 2026-06-05 |  |
 | [BLICKY](https://open.spotify.com/track/4iE2KfYQE5Wn6bhkb1XgWi) | [Ino Casablanca](https://open.spotify.com/artist/5blvB6N3OACeH0gJL9BRqf), [LinLin](https://open.spotify.com/artist/1D7nUBd4i2mrVpmLQmHI0n) | [EXTASIA](https://open.spotify.com/album/46Kr05vkVqq1vFI7rh7WtX) | 2:54 | 2025-10-10 | 2025-12-06 |
 | [Blood](https://open.spotify.com/track/6YQog39dMS4eoKFVB9LetC) | [DawaMafia](https://open.spotify.com/artist/5yhoElw9gCKKsOAK1mmgHJ) | [LIEN200](https://open.spotify.com/album/7sz6ul97G5XJhzU51h4QCW) | 2:22 | 2025-12-26 | 2026-02-14 |
-| [Blood](https://open.spotify.com/track/5snMfEYZCwQBGsqlpB6cis) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [Blood](https://open.spotify.com/album/2jk1Dj2vqDnYXkNTS2qU0S) | 2:40 | 2026-07-24 |  |
+| [Blood](https://open.spotify.com/track/5snMfEYZCwQBGsqlpB6cis) | [ZEG P](https://open.spotify.com/artist/1rpxM2mBJnWdfPeieLDYOc), [Timar](https://open.spotify.com/artist/4BUeuxQIWI69tEYuvzbv6D) | [Blood](https://open.spotify.com/album/2jk1Dj2vqDnYXkNTS2qU0S) | 2:40 | 2026-07-24 | 2026-09-22 |
 | [BLOQUÉ](https://open.spotify.com/track/4eGoCBOGEAQty5nfWRC0VD) | [GIMS](https://open.spotify.com/artist/0GOx72r5AAEKRGQFn3xqXK), [L2B](https://open.spotify.com/artist/4hYxvgmTzS29XAXlo5adgM) | [BLOQUÉ](https://open.spotify.com/album/5HZSEWInouI6tWp1C3ousL) | 3:21 | 2025-11-07 |  |
 | [Blue story \(feat\. Lil Baby\)](https://open.spotify.com/track/3t6CmLKKMFxclNBzvJd51t) | [Ninho](https://open.spotify.com/artist/6Te49r3A6f5BiIgBRxH7FH), [Lil Baby](https://open.spotify.com/artist/5f7VJjfbwm532GiveGC0ZK) | [NI](https://open.spotify.com/album/6sY6EuHMdhyD4dgZsYcKad) | 4:18 | 2023-07-07 | 2024-06-29 |
 | [BODIES \(feat\. Damso\)](https://open.spotify.com/track/1vhGzynTAXJ0MD0gkXPxzX) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [BODIES \(feat\. Damso\)](https://open.spotify.com/album/61G5Kmh73wP41ZN0sBdlBB) | 2:46 | 2023-03-03 | 2023-05-20 |
@@ -561,6 +561,7 @@
 | [PAS LE CHOIX](https://open.spotify.com/track/4xyT5W6hSwIYzdP8FAS4HH) | [R2](https://open.spotify.com/artist/2D8Vb8JwQhndC6H6heA1kD) | [PAS LE CHOIX](https://open.spotify.com/album/3s9fg9EqFaoHaWx64KXZCV) | 1:30 | 2025-11-21 | 2026-02-28 |
 | [PAS LES COUILLES](https://open.spotify.com/track/43wWsvU0v8Ijl1cEFtqZnl) | [James Loup](https://open.spotify.com/artist/0cfORxfgSqEtrXE59wVSfE) | [AVEC TOUT LE RESPECT](https://open.spotify.com/album/5OqktAqR8ecIornz8xFqLA) | 2:06 | 2025-12-05 | 2026-02-14 |
 | [Pas solo](https://open.spotify.com/track/5N3lIBZ88nTuerAuBgMK5u) | [Gradur](https://open.spotify.com/artist/2tcoLkA9Hexz70Kuc1NTUl), [SDM](https://open.spotify.com/artist/0LKAV3zJ8a8AIGnyc5OvfB) | [Pas solo](https://open.spotify.com/album/1Up5VOa7KYBOdMUherbXj4) | 2:41 | 2026-01-30 | 2026-07-04 |
+| [PASADENA](https://open.spotify.com/track/0tMrzFkVagrVZ5b6zAidIy) | [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx), [SativaMusic](https://open.spotify.com/artist/6p46LxMXeRu3FRYN4tK5Lv) | [PASADENA](https://open.spotify.com/album/5VqUIAfpED1w5lmy98VowY) | 2:58 | 2026-09-18 |  |
 | [Patek Philippe \(feat\. Lazza\)](https://open.spotify.com/track/6sukW44PrvVzeko9KZlqen) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA), [Lazza](https://open.spotify.com/artist/0jdNdfi4vAuVi7a6cPDFBM) | [Cipriani](https://open.spotify.com/album/5BFYPyRtiUcs5iIQ6zKmdu) | 3:36 | 2026-02-06 | 2026-03-07 |
 | [PAY NOW](https://open.spotify.com/track/2aBkxq5Sa43dHNQcpd47EX) | [Lacrim](https://open.spotify.com/artist/7DUTsWY3RBd64vh8UtgtYA) | [PAY NOW](https://open.spotify.com/album/1erYkeHhbuMp58oQui2fEK) | 2:05 | 2026-05-08 | 2026-06-27 |
 | [Pearl Harbor](https://open.spotify.com/track/3pQ1sYnHaq2T45ewKCYaPx) | [Dr\. Stein](https://open.spotify.com/artist/2VJPQYs4oCE20tmtcXcVuR), [Morti Viventear](https://open.spotify.com/artist/4WpUPbjurKtaHMKhWfPCao), [Morse Attack](https://open.spotify.com/artist/3df04x2HEXQjXoSgefDtpd) | [OPÉRATION: FLIP LE PACK](https://open.spotify.com/album/2OSoYQ4daYMaBJSihJPJmD) | 3:08 | 2025-12-05 | 2026-02-28 |

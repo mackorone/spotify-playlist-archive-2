@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 
 > Det bästa från svensk & internationell pop.
 
-[Spotify](https://open.spotify.com/user/spotify) - 174,289 likes - 131 songs - 6 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 174,290 likes - 131 songs - 6 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,21 +13,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 3 | [Let’s Get Married](https://open.spotify.com/track/3Ln4JSpTO4Zc7oRinGsp4k) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/6x7zk5GeCgqRn0Yujq135L) | 3:36 |
 | 4 | [funny feeling](https://open.spotify.com/track/4qvR1iPYj6XZKtJnpcSELd) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [funny feeling](https://open.spotify.com/album/0jDeDHlr4rJduEYTa2zKsI) | 3:14 |
 | 5 | [HULK](https://open.spotify.com/track/2VxAelqw7mN2YZ1Xjj41D0) | [FELICIA](https://open.spotify.com/artist/5KR7k79pkoPeGdMcv4DLOa) | [HULK](https://open.spotify.com/album/5ozaJIBFtRRY2OljD9EG0X) | 2:39 |
-| 6 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 |
-| 7 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 |
+| 6 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
+| 7 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
 | 8 | [Faller](https://open.spotify.com/track/5QSFJovHVBauZUTzFsf6cl) | [LKN](https://open.spotify.com/artist/5qme2V66XYweKPSNn2W1Ud) | [Faller](https://open.spotify.com/album/7E4aogr7aSg0nE87521M1W) | 3:28 |
 | 9 | [Gul & Blå](https://open.spotify.com/track/7LvWt2SYsaj6p3e1ebSZzV) | [Simon Superti](https://open.spotify.com/artist/6NEj7qdWpQXSeiST36X7ES), [Alba August](https://open.spotify.com/artist/0254wvnQss59PncB9qm8qp) | [Gul & Blå](https://open.spotify.com/album/4hJ8rC0GSt9kDREUjoTany) | 3:53 |
-| 10 | [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 |
+| 10 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |
 | 11 | [Azalea](https://open.spotify.com/track/0Dkp8CfJx2xSEaIuX8F2hx) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Azalea](https://open.spotify.com/album/1eTgGT1hadTFKHsAIF2g7W) | 3:25 |
-| 12 | [bad taste](https://open.spotify.com/track/3TDVbddsKv0TrYdnLdrZZs) | [Freya Skye](https://open.spotify.com/artist/2puBSdvuiPd5L4ENw6mxsn) | [bad taste](https://open.spotify.com/album/4w1gQavyvVaZmHcUuuKxJL) | 2:50 |
-| 13 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
-| 14 | [Vem du än är](https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P) | [Keisha](https://open.spotify.com/artist/1U6mH5zLiBo4aNy7QiyGLm) | [Vem du än är](https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF) | 2:55 |
-| 15 | [Daisies](https://open.spotify.com/track/1xg5ku2x0XxEdTcVLmqHl0) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Daisies](https://open.spotify.com/album/6S9vjdttva5EL2otf9xZiu) | 2:40 |
-| 16 | [Highway to Heaven](https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Highway to Heaven](https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr) | 3:06 |
-| 17 | [are we on a break](https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 3:13 |
-| 18 | [Ta din tid](https://open.spotify.com/track/7I9SdEiOGYA43CkD3GMdW0) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Ta din tid](https://open.spotify.com/album/6kkxMkX5NRa9q9EKZA6vRH) | 3:16 |
-| 19 | [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 |
-| 20 | [to love and to lose](https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [to love and to lose](https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3) | 3:01 |
+| 12 | [Vem du än är](https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P) | [Keisha](https://open.spotify.com/artist/1U6mH5zLiBo4aNy7QiyGLm) | [Vem du än är](https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF) | 2:55 |
+| 13 | [Party](https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [Party](https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ) | 3:21 |
+| 14 | [Highway to Heaven](https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Highway to Heaven](https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr) | 3:06 |
+| 15 | [are we on a break](https://open.spotify.com/track/0hVOaQJ9anyS9jylMcqg9s) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 3:13 |
+| 16 | [to love and to lose](https://open.spotify.com/track/25KmVoAJzApNxuj6CDDwR5) | [Dylan](https://open.spotify.com/artist/4LOM7NzyrZvlGSYPFDsnTk) | [to love and to lose](https://open.spotify.com/album/6Q2Udysxg0bNVYU7lWxLo3) | 3:01 |
+| 17 | [new trick](https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO) | [ROSÉ](https://open.spotify.com/artist/3eVa5w3URK5duf6eyVDbu9) | [new trick](https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw) | 3:02 |
+| 18 | [Daisies](https://open.spotify.com/track/1xg5ku2x0XxEdTcVLmqHl0) | [LOVA](https://open.spotify.com/artist/1l2NYhptmHjo64MDOcej1x) | [Daisies](https://open.spotify.com/album/6S9vjdttva5EL2otf9xZiu) | 2:40 |
+| 19 | [Ta din tid](https://open.spotify.com/track/7I9SdEiOGYA43CkD3GMdW0) | [noll2](https://open.spotify.com/artist/6goq2OWu3ncHBnpFtCZGHR) | [Ta din tid](https://open.spotify.com/album/6kkxMkX5NRa9q9EKZA6vRH) | 3:16 |
+| 20 | [Bass Persuades](https://open.spotify.com/track/2FZcjBYK4dTt48q94pJbJD) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6) | [Bass Persuades](https://open.spotify.com/album/2ISe213QZCTwp18P7jvgC3) | 3:22 |
 | 21 | [Change](https://open.spotify.com/track/0kAhizRC73T35mgJH4sBwN) | [RIVER](https://open.spotify.com/artist/4RVtMjhWZC6B9k6PvqorqV) | [Change](https://open.spotify.com/album/7C3PfzA33m5Cj87TkLfMgi) | 3:00 |
 | 22 | [Älska mig igen](https://open.spotify.com/track/3vZe9mFRTooLwHdzlnUN8Q) | [Vince Wavy](https://open.spotify.com/artist/1SqKGJizWclJMBj6HETaTW) | [Älska mig igen](https://open.spotify.com/album/4hSg7az1IEmugSmqQBDcpk) | 2:44 |
 | 23 | [Spelar ingen roll](https://open.spotify.com/track/7dFXWf9HmHs1gwJtEPR6AT) | [LOVIS](https://open.spotify.com/artist/0Ly8O2BUeRbCPapPyb1hBy) | [Spelar ingen roll](https://open.spotify.com/album/5MVCHhQDS4pQf7DMCJu3Lb) | 3:05 |
@@ -140,4 +140,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7FV7CCq9byu.md) - [plain]
 | 130 | [the bridge](https://open.spotify.com/track/4Og22Djtd18AVqNgijpLsX) | [Kelela](https://open.spotify.com/artist/1U0sIzpRtDkvu1hXXzxh60), [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [the bridge](https://open.spotify.com/album/0CtYbcn4v2m9OYRwLSUq4Z) | 3:53 |
 | 131 | [being alive](https://open.spotify.com/track/0HpfpgmT2m3E0bcGkuVcVY) | [mimi bay](https://open.spotify.com/artist/7BhFHZkSEe09pVDQZC6kVf) | [being alive](https://open.spotify.com/album/3qmNSIjIhVx9jBnzgpP64R) | 3:54 |
 
-Snapshot ID: `AAAAADIjDhDAhG9BlRdKIoYkVAjnyCug`
+Snapshot ID: `AAAAAHYt7a4bSnDeH6yDtPwWgNmPl0xS`

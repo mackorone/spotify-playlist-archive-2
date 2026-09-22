@@ -1520,7 +1520,7 @@
       ],
       "date_added": "2026-03-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 188111,
       "name": "Amaro",
       "url": "https://open.spotify.com/track/7ju5clDlfi2w1Busf1TjJT"
@@ -14420,6 +14420,24 @@
       "duration_ms": 187282,
       "name": "I'm Sorry (ft. Lous and The Yakuza)",
       "url": "https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3"
+    },
+    {
+      "album": {
+        "name": "I'm Writing a New Song Every Month from One Birthday til the Next: August",
+        "url": "https://open.spotify.com/album/5dVQO5WFvxItwEOFGK8pTR"
+      },
+      "artists": [
+        {
+          "name": "Dylan Henner",
+          "url": "https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 220000,
+      "name": "I'm Writing a New Song Every Month from One Birthday til the Next: August",
+      "url": "https://open.spotify.com/track/4p9jsPvuvW8MpkE9p2LVBD"
     },
     {
       "album": {

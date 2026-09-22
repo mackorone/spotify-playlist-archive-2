@@ -1,12 +1,12 @@
 {
   "description": "This is Alfredo Olivas. The essential tracks, all in one playlist.",
-  "num_followers": 1099480,
+  "num_followers": 1099571,
   "original_name": "This Is Alfredo Olivas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAACUN6/7djymqKIL7I4O1Tfl",
+  "snapshot_id": "aq8iAAAAAADEgqdrCTR6CTPKMGjZ90qt",
   "tracks": [
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "\"V1V0\"",
-        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
-      },
-      "artists": [
-        {
-          "name": "Alfredo Olivas",
-          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
-        }
-      ],
-      "duration_ms": 218411,
-      "name": "De Sobremanera",
-      "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Pelea De Mi Vida",
         "url": "https://open.spotify.com/album/2F1giYx2i71R3AYOdVVZom"
       },
@@ -515,6 +499,22 @@
       "duration_ms": 183509,
       "name": "La Pelea De Mi Vida",
       "url": "https://open.spotify.com/track/4wFdorG5cMrkTAghmuFYH6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\"V1V0\"",
+        "url": "https://open.spotify.com/album/20kVQXyFb1SnWdCxBI9jht"
+      },
+      "artists": [
+        {
+          "name": "Alfredo Olivas",
+          "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
+        }
+      ],
+      "duration_ms": 218411,
+      "name": "De Sobremanera",
+      "url": "https://open.spotify.com/track/3MVLAi81gIo1nSvfincYFk"
     },
     {
       "added_at": null,
@@ -535,22 +535,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u00bfQui\u00e9n + Como Yo?",
-        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
+        "name": "En Vivo",
+        "url": "https://open.spotify.com/album/5sv3ywwb2iCoI6n8UD4ZRX"
       },
       "artists": [
         {
-          "name": "Christian Nodal",
-          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
+          "name": "Tito Torbellino",
+          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
         },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 159111,
-      "name": "Se Vienen D\u00edas Tristes",
-      "url": "https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB"
+      "duration_ms": 251746,
+      "name": "Comando X - En Vivo",
+      "url": "https://open.spotify.com/track/2j2MJGkoAwPKssQMRQplPD"
     },
     {
       "added_at": null,
@@ -575,22 +575,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo",
-        "url": "https://open.spotify.com/album/5sv3ywwb2iCoI6n8UD4ZRX"
+        "name": "\u00bfQui\u00e9n + Como Yo?",
+        "url": "https://open.spotify.com/album/0k8MDpK0kbBXTb5DcLhded"
       },
       "artists": [
         {
-          "name": "Tito Torbellino",
-          "url": "https://open.spotify.com/artist/0c2yelD6HE33WZYXbn8CEJ"
+          "name": "Christian Nodal",
+          "url": "https://open.spotify.com/artist/0XwVARXT135rw8lyw1EeWP"
         },
         {
           "name": "Alfredo Olivas",
           "url": "https://open.spotify.com/artist/5xYNmNkaWRqu3e5F4UXME8"
         }
       ],
-      "duration_ms": 251746,
-      "name": "Comando X - En Vivo",
-      "url": "https://open.spotify.com/track/2j2MJGkoAwPKssQMRQplPD"
+      "duration_ms": 159111,
+      "name": "Se Vienen D\u00edas Tristes",
+      "url": "https://open.spotify.com/track/4wDqICPvF45vx9utsNg4FB"
     },
     {
       "added_at": null,

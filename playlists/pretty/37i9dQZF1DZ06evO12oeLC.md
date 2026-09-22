@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 
 > This is Yseult\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 17,903 likes - 50 songs - 2 hr 57 min
+[Spotify](https://open.spotify.com/user/spotify) - 17,904 likes - 50 songs - 2 hr 57 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 6 | [Alibi Pt\. 2 \(with Anitta, Pabllo Vittar & Yseult\)](https://open.spotify.com/track/14ALB7xDkt5blJWUTQj4e6) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Alibi Pt\. 2 \(with Anitta, Pabllo Vittar & Yseult\)](https://open.spotify.com/album/68KhQJFTOVcrGovzksAsWm) | 2:56 |
 | 7 | [Pause](https://open.spotify.com/track/57TwkG6mUvWDZsEqARyeI2) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:05 |
 | 8 | [Un autre monde \- Souvenirs d'été](https://open.spotify.com/track/70g4w4evL3sFYzRZv2lfXg) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Un autre monde \- Souvenirs d'été](https://open.spotify.com/album/4HFu2CSI1n0vAiKdhbHDGX) | 3:58 |
-| 9 | [Now or Never](https://open.spotify.com/track/3u73shxxJd0Pi4LorTQ5IJ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Now or Never](https://open.spotify.com/album/6UHZoiw2Dx5nJuxHzXNZDW) | 2:34 |
-| 10 | [BAD BOY](https://open.spotify.com/track/2gJuY2L6eCxAfIXdXAWtm5) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BAD BOY](https://open.spotify.com/album/1ooVF2ZgjNBCHiIgHCIRh4) | 4:34 |
+| 9 | [BAD BOY](https://open.spotify.com/track/2gJuY2L6eCxAfIXdXAWtm5) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BAD BOY](https://open.spotify.com/album/1ooVF2ZgjNBCHiIgHCIRh4) | 4:34 |
+| 10 | [Now or Never](https://open.spotify.com/track/3u73shxxJd0Pi4LorTQ5IJ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Now or Never](https://open.spotify.com/album/6UHZoiw2Dx5nJuxHzXNZDW) | 2:34 |
 | 11 | [Kiss](https://open.spotify.com/track/3yds1YFMJkj93vdCJuxsJS) | [Eddy de Pretto](https://open.spotify.com/artist/7rFugkk9ZvVB1zXHg8h0rj), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [À TOUS LES BÂTARDS](https://open.spotify.com/album/4RDBA4Eb8n6KDYzX3wBEeY) | 3:14 |
 | 12 | [Freak](https://open.spotify.com/track/26ivjFyAPRjNnhhZ1IbeAQ) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [JT](https://open.spotify.com/artist/39af15p0feaAOdL9DTRj3m) | [Freak](https://open.spotify.com/album/5xbEWVYh6xBdMyOxqOkqD9) | 3:59 |
 | 13 | [Nudes](https://open.spotify.com/track/2m5xfxB2MuEEDEAsunQxJb) | [Claire Laffut](https://open.spotify.com/artist/69zVBf7wk5vKWsTF7zE5CC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Nudes](https://open.spotify.com/album/17pL16UfqKUlIoZHMRW5h3) | 3:18 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 15 | [I LOVE YOU](https://open.spotify.com/track/1VbxvZ4Rv8Xw9Hvcp1iGRp) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [I LOVE YOU](https://open.spotify.com/album/3SJhcGgcwKvJlw2epL7123) | 3:39 |
 | 16 | [BITCH YOU COULD NEVER](https://open.spotify.com/track/5zQlCwM9crafkj3Al40Ptd) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [MENTAL](https://open.spotify.com/album/2YYhXELGahnGRjZinTCHYg) | 2:28 |
 | 17 | [PERDUE](https://open.spotify.com/track/2DlyVL2X7vRpdJmGgaaSvC) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [PERDUE](https://open.spotify.com/album/4Ufzf9AJAMF9jspkO09dRk) | 5:17 |
-| 18 | [CATCHEUR](https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 2:39 |
-| 19 | [Move \(feat\. Yseult\)](https://open.spotify.com/track/0kjVi4ts5drXg6GEN7tMfu) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:41 |
+| 18 | [Move \(feat\. Yseult\)](https://open.spotify.com/track/0kjVi4ts5drXg6GEN7tMfu) | [BANKS](https://open.spotify.com/artist/2xe8IXgCTpwHE3eA9hTs4n), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Off With Her Head](https://open.spotify.com/album/0KLWUjARA0kqAtVN83d8I8) | 2:41 |
+| 19 | [CATCHEUR](https://open.spotify.com/track/6VvBt3sdZEPnJppHV6ZIT5) | [disiz](https://open.spotify.com/artist/7rz6ZZErn5YFDteXKhyf3g), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [L’Amour](https://open.spotify.com/album/447oYDEOpoTAmbgDKIhkZ6) | 2:39 |
 | 20 | [Heart Of Glass](https://open.spotify.com/track/0tDPlvgAIkH0AydVq67v4p) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [Heart Of Glass](https://open.spotify.com/album/6RY3XViPC0YObUvX4Y0GyH) | 3:15 |
 | 21 | [SEXE](https://open.spotify.com/track/4qGD9cOlMERj0pKETRMiuF) | [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [BRUT](https://open.spotify.com/album/71OaHl1RWXB6P82B6xFK44) | 6:55 |
 | 22 | [Alibi Pt\. 3 \(with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult\)](https://open.spotify.com/track/6hMU7eUsEX5HWVRLTIGw6Y) | [Sevdaliza](https://open.spotify.com/artist/5MraexJKZDrQYzS98kNwie), [Jonita Gandhi](https://open.spotify.com/artist/00sCATpEvwH48ays7PlQFU), [Rusha & Blizza](https://open.spotify.com/artist/2HrvJh5lOdSH1DLlWCAtJI), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX), [Pabllo Vittar](https://open.spotify.com/artist/6tzRZ39aZlNqlUzQlkuhDV) | [Alibi Pt\. 3 \(with Jonita Gandhi, Rusha & Blizza, Pabllo Vittar & Yseult\)](https://open.spotify.com/album/1Ha2M1Be1iDXtWOfAPBxhp) | 3:07 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO12oeLC.md) - [plain]
 | 49 | [Blue](https://open.spotify.com/track/6T7NNeIXazB8t2fJVh8scc) | [S.Pri Noir](https://open.spotify.com/artist/5olcgTzelGdyP1rHRLyWgs), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [La Cour des Miracles](https://open.spotify.com/album/50UvC6kz29l4oPJowv1Pql) | 3:16 |
 | 50 | [LVMH](https://open.spotify.com/track/3JZPeai9xfulG2stdSvpIG) | [Le Juiice](https://open.spotify.com/artist/67MIpliQaIhUN1WLSkYEqC), [Yseult](https://open.spotify.com/artist/1QsdzIKkTT5gDFj8GB1cIX) | [NOUS ART : Masterpiece](https://open.spotify.com/album/0a2XyKU93jIJAhFz9oZDDe) | 3:34 |
 
-Snapshot ID: `aq3QgAAAAABRQydCDI6Ej4QDIOJnxnnd`
+Snapshot ID: `aq8iAAAAAAD9TCF5wPFqMQ3l0SKLumN/`

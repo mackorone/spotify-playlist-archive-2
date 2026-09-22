@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 
 > Las grandes canciones escritas por El Buki.
 
-[Spotify](https://open.spotify.com/user/spotify) - 313,322 likes - 125 songs - 7 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 313,398 likes - 125 songs - 7 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -67,12 +67,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWl8jvdRonp8.md) - [plain]
 | 57 | [La Venia Bendita](https://open.spotify.com/track/5kcDCLD72xY7kcQrew1ePd) | [Ezequiel Peña](https://open.spotify.com/artist/4rWWouSk4D5OSFFFo2bmty) | [Mis Dos Vicios](https://open.spotify.com/album/482qMIYNe7bTRZ5fxI678e) | 3:05 |
 | 58 | [Si Te Pudiera Mentir](https://open.spotify.com/track/6QS4U3vPuZbORCJSMYdea3) | [Tito Nieves](https://open.spotify.com/artist/4vOycwLXdkMMzpZW04VW5m) | [Canciones Clásicas De Marco Antonio Solís](https://open.spotify.com/album/3gMKLskyMNfM8M4SzhWSaV) | 4:09 |
 | 59 | [Hasta Cuando](https://open.spotify.com/track/1nUDI438ltnFLqFVIrhIUf) | [Beatriz Adriana](https://open.spotify.com/artist/20DKdVZd4yxzm472iHRXzQ) | [La Mas Completa Coleccion \(Disco 1\)](https://open.spotify.com/album/4yODt1oF4zoyhu0FiagLtF) | 3:24 |
-| 60 | [Se Va Muriendo Mí Alma](https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh) | [María Sorté](https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy) | [Te Voy a Hacer Feliz](https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X) | 4:20 |
-| 61 | [Sin Él](https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Por Eso...Gracias](https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a) | 3:30 |
+| 60 | [Sin Él](https://open.spotify.com/track/58QwiUXiVnFtH1582jV2CM) | [Pandora](https://open.spotify.com/artist/44nb9BaqV2jVvxKCaXHwlP) | [Por Eso...Gracias](https://open.spotify.com/album/7Lghu5Zrr9HtzUzVVPwQ3a) | 3:30 |
+| 61 | [Se Va Muriendo Mí Alma](https://open.spotify.com/track/0zUR5D0kbWcKoFjLMZNiJh) | [María Sorté](https://open.spotify.com/artist/0xHfw9K3Pqj4uYhsI1Wjyy) | [Te Voy a Hacer Feliz](https://open.spotify.com/album/1FKGQIrj8dwQTYchaKCq3X) | 4:20 |
 | 62 | [Tu Ingratitud](https://open.spotify.com/track/7EHEduL9N9JbZVuV9jK4kn) | [Jovanny Cadena Y Su Estilo Privado](https://open.spotify.com/artist/0aaYORc6Zmp1SCXhRRDwNW) | [Hombre Talentoso](https://open.spotify.com/album/3xXj7LepyJcGq2VpVAS0af) | 3:33 |
 | 63 | [Antes De Que Te Vayas](https://open.spotify.com/track/41uS4bw8JlCC69YuFlXFQH) | [Grupo Yndio](https://open.spotify.com/artist/2ExqFhtOJ3rXrYJkBMqAxD) | [Mano A Mano Volumen 2](https://open.spotify.com/album/711RytcGqUZWMK90seBzdV) | 3:21 |
-| 64 | [Mi Fantasía](https://open.spotify.com/track/2fH7AMRWzhUuWoUgheULIw) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:16 |
-| 65 | [Y Ahora Te Vas](https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:54 |
+| 64 | [Y Ahora Te Vas](https://open.spotify.com/track/396g7zTRCn3HzZ3vK434Xe) | [Victor Garcia](https://open.spotify.com/artist/4GZOqR1Cx6YeBN2Lmv0B1e) | [Victor García](https://open.spotify.com/album/7f2HP5bNAaD5avrcW4qdV1) | 3:54 |
+| 65 | [Mi Fantasía](https://open.spotify.com/track/2fH7AMRWzhUuWoUgheULIw) | [Los Auténticos Decadentes](https://open.spotify.com/artist/3HrbmsYpKjWH1lzhad7alj) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:16 |
 | 66 | [Nada Es Igual](https://open.spotify.com/track/3FPyEh683Et820zkVWHBoB) | [Intocable](https://open.spotify.com/artist/108moq3rq6bm1M4Ypz0J02) | [Crossroads: Cruce De Caminos](https://open.spotify.com/album/7EFhuR6QqqpZdllkobOCGf) | 3:06 |
 | 67 | [Invéntame](https://open.spotify.com/track/1yTl2UvjZFPUVE8ugKQdOY) | [Mon Laferte](https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr) | [Todos Somos MAS](https://open.spotify.com/album/3knZmdcAnj0bluvoyR3P20) | 3:25 |
 | 68 | [Pero Te Vas A Arrepentir](https://open.spotify.com/track/7EMsb3h7OaPZ44lwqRCgaq) | [Los Yonic's](https://open.spotify.com/artist/1z8Z3JjXWNa7xbeXcyFZMt), [Marco Antonio Solís](https://open.spotify.com/artist/3tJnB0s6c3oXPq1SCCavnd) | [Íconos 25 Éxitos](https://open.spotify.com/album/6pgeDuCc02j6JhZi9dYyEv) | 3:56 |

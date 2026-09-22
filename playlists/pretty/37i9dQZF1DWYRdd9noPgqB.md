@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 
 > La playlist qui fait du bien ☀️
 
-[Spotify](https://open.spotify.com/user/spotify) - 298,307 likes - 70 songs - 3 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 298,291 likes - 70 songs - 3 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 22 | [how do you dance?](https://open.spotify.com/track/3TFCPkwhrH1E47OoJuN4hP) | [yung kai](https://open.spotify.com/artist/6zO1dZ40fTZ5hY9NnnRJSk) | [stay with the ocean, i'll find you](https://open.spotify.com/album/0brUx2wHWvdatPXvctPYg5) | 3:21 |
 | 23 | [Easy To Love](https://open.spotify.com/track/2qod3v3MbuBamYUZebS88U) | [Jordan Rakei](https://open.spotify.com/artist/24icoQNJSEWNu3XvqKBR68), [Tom McFarland](https://open.spotify.com/artist/2Lk6Kznui3rNEKOhjGtwM7) | [Easy To Love](https://open.spotify.com/album/5dsGIAbn6byAl76d7O8F0S) | 3:19 |
 | 24 | [Echo From The Flames](https://open.spotify.com/track/6aqNOnHzXhnDVCY7pDZBD7) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Full Circle](https://open.spotify.com/album/3y9ho86K2n12FPdMV4pU7U) | 4:11 |
-| 25 | [satellite](https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [satellite](https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX) | 3:13 |
-| 26 | [Carousel](https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Everything Glows](https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr) | 3:36 |
+| 25 | [Carousel](https://open.spotify.com/track/3qOSdvMy3dwvwWWpQDAfpa) | [Cannons](https://open.spotify.com/artist/7FtCyCJCJaxabYO7Uyda5B) | [Everything Glows](https://open.spotify.com/album/2gwbSfYj2HTUWVU6iBwgXr) | 3:36 |
+| 26 | [satellite](https://open.spotify.com/track/3aGgVGFttTUFYEYwAXZae3) | [grentperez](https://open.spotify.com/artist/73BLwSX6gsNeVzS7DgI4xe) | [satellite](https://open.spotify.com/album/3AWFn6RSIc9wS8CAcfgVIX) | 3:13 |
 | 27 | [Miyazaki](https://open.spotify.com/track/4VdqXAgfC79LeweD9qVgVZ) | [Paris Paloma](https://open.spotify.com/artist/2EXpthNgSeTDeX8nGwxppp) | [Miyazaki](https://open.spotify.com/album/1UOlu9Gxe7HFYg3Ifsolp9) | 3:24 |
 | 28 | [Walk Walk Walk](https://open.spotify.com/track/38Uu9WTMaVKOGW6LXxt6rK) | [Good Neighbours](https://open.spotify.com/artist/52N3KGrTWDRhdQJrgBTofE) | [Blue Sky Mentality](https://open.spotify.com/album/0FOIHe5RLulAgBq3HMV4wd) | 2:56 |
 | 29 | [Let It All Out](https://open.spotify.com/track/34h31lc2V4xXgOITPZyZ5F) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Let It All Out](https://open.spotify.com/album/0uGBqR4LqfpnuuybjZ5MNb) | 4:13 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYRdd9noPgqB.md) - [plain]
 | 48 | [Home](https://open.spotify.com/track/28LN7UaMESB80svwZttTYF) | [LEISURE](https://open.spotify.com/artist/7b04D0yLktCUpvxQBhmG7R) | [Home](https://open.spotify.com/album/2nqJmQUSGDS1aBoVYWX5hN) | 3:11 |
 | 49 | [Whether I Win or Lose](https://open.spotify.com/track/7icgSLNDP90O7g7PwTpX6d) | [Saults](https://open.spotify.com/artist/0v3GJQVtEdCbwnKpCUwOE8) | [Whether I Win or Lose](https://open.spotify.com/album/6qFJGE4q3yu20PrJu4cTpr) | 4:02 |
 | 50 | [Delusional](https://open.spotify.com/track/4YV1PTqHU45t70PJZSlqom) | [Courrier Sud](https://open.spotify.com/artist/2qR0Z9tF5eXGAyZFWQWtOm), [Kazy Lambist](https://open.spotify.com/artist/41Ue54Vb6iWx2dcdRCM6oH) | [Delusional](https://open.spotify.com/album/1RnkE63I6UR3FUTue5OG0a) | 3:34 |
-| 51 | [Fucked Up](https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Fucked Up](https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ) | 3:17 |
-| 52 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 |
+| 51 | [Hair Down](https://open.spotify.com/track/2tP73L31LHxJAZs3L8HMnp) | [Samm Henshaw](https://open.spotify.com/artist/1Q2mS59tFYLm2KGFoCgWN4) | [Hair Down](https://open.spotify.com/album/63k0s6k9wWu2QMutLrocu4) | 3:11 |
+| 52 | [Fucked Up](https://open.spotify.com/track/7pAvvhOV8QN34jMl4jnisj) | [Reverend And The Makers](https://open.spotify.com/artist/14GEKKALFIO2oB9IdGXg2e), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Fucked Up](https://open.spotify.com/album/1N5sezYxUOFRCPibUnR9aQ) | 3:17 |
 | 53 | [Malibu](https://open.spotify.com/track/4PzjQpUlb2uPlsB6U1MgHr) | [MONTMARTRE](https://open.spotify.com/artist/4n3V7bHjjPqb11n7d0WAVo), [Side One](https://open.spotify.com/artist/02Ni6QKLqoq8wfx846M2GZ) | [Malibu](https://open.spotify.com/album/1qnAHpyTVSkXo8Oh57Appo) | 2:52 |
 | 54 | [Promises](https://open.spotify.com/track/3rMpx4dIw5OeouWZsc2Ql5) | [Marie Sarah](https://open.spotify.com/artist/6eKmkdJGSByhfNDciam6bC) | [Promises](https://open.spotify.com/album/5p7wQPXWtiOBVUb6X8BwBA) | 3:16 |
 | 55 | [Wild Guess](https://open.spotify.com/track/3yEBtdO34T5kdnabqZJawn) | [Ruel](https://open.spotify.com/artist/5xkAtLTf309LAGZTbvULBn) | [Wild Guess](https://open.spotify.com/album/1gfZZDAAhIEZInvGnmkdlU) | 2:46 |

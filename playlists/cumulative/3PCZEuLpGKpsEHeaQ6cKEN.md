@@ -4,7 +4,7 @@
 
 > The tracks we love, work on and enjoy every hour of the day \| Including trance, house, techno, dance, Afro house, melodic techno \| Tracks from Armin van Buuren, ARTY, D.O.D, Loud Luxury, Brando and more! \| Updated weekly on Friday \|
 
-1,892 songs - 4 day 4 hr 14 min
+1,893 songs - 4 day 4 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1696,6 +1696,7 @@
 | [To The Light](https://open.spotify.com/track/73IQDyJLNCQ6YsLMTUIt7H) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU) | [To The Light](https://open.spotify.com/album/2rGp9FQxzSJfB9JTA87fnV) | 4:21 | 2022-06-09 | 2022-10-21 |
 | [To The Light](https://open.spotify.com/track/0CmajvgCrFK5dD0yn0a9x3) | [Lufthaus](https://open.spotify.com/artist/0zlMouo6dENL2tsOY9JssU), [Robbie Williams](https://open.spotify.com/artist/2HcwFjNelS49kFbfvMxQYw) | [Soul Seekers](https://open.spotify.com/album/0w3cHPzFHsKTeYFZMgXZNS) | 4:21 | 2022-10-20 | 2022-12-02 |
 | [To The Sun](https://open.spotify.com/track/0D4FgJNbKv34ru9sfM4O26) | [The Hitmen](https://open.spotify.com/artist/44de5I8rbCwTAjBF1xYv75), [Crooked Bangs](https://open.spotify.com/artist/4gkZO2kbnE03K8xGmZ2DJu) | [To The Sun](https://open.spotify.com/album/2hJFARaXaTvURrbVJNMrjc) | 3:00 | 2023-01-13 | 2023-02-24 |
+| [Toca's Miracle](https://open.spotify.com/track/2dff2oZ433Dtyn8Pbq2YSZ) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Pete Tong](https://open.spotify.com/artist/6n1t55WMsSIUFHrAL4mUsB), [Poppy Baskcomb](https://open.spotify.com/artist/4STmXOXUF3UieHU46NWLVt) | [Toca's Miracle](https://open.spotify.com/album/1cmkL8WLHiRlehlvG4L2FD) | 3:15 | 2026-09-21 |  |
 | [Tocando El Sol](https://open.spotify.com/track/35owcKBe4QmnJirBikwvUD) | [Armin van Buuren](https://open.spotify.com/artist/0SfsnGyD8FpIN4U4WCkBZ5), [Azteck](https://open.spotify.com/artist/13NpuESz6tlK819yBs0PuS) | [Tocando El Sol](https://open.spotify.com/album/3wnBV8czggs8nlnfxOmqNm) | 2:44 | 2022-11-10 | 2023-01-13 |
 | [Together](https://open.spotify.com/track/05CtJ85i7N17zfg62oyAhd) | [Tiscore](https://open.spotify.com/artist/2tOS3f6iaWspDI0WUowsZI), [89ers](https://open.spotify.com/artist/2zBsLiCiCXB9EmLfHSplIs) | [Together](https://open.spotify.com/album/6lzqfnt7PPylJRcGCVTKU9) | 2:31 | 2024-11-13 | 2025-04-18 |
 | [Tokyo](https://open.spotify.com/track/3lCIcU6bHi5Yya1Ey5npdJ) | [KIMMIC](https://open.spotify.com/artist/203PtVTnerRs5Vey1UyQgN), [MIMI](https://open.spotify.com/artist/2CVsdM6ChnaL6fO64E3a5n) | [Tokyo](https://open.spotify.com/album/6P3ClrdsEcLsgkg7In975b) | 2:25 | 2024-07-04 | 2024-10-19 |

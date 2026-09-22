@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 
 > Oblique: Angular\. Asymmetrical\. Experimental.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,117 likes - 100 songs - 6 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,121 likes - 100 songs - 6 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,12 +24,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 14 | [To Unknownia](https://open.spotify.com/track/4SKo17IGPoHGhCqT1rxYv9) | [Domenique Dumont](https://open.spotify.com/artist/6kNluNBHa4sh5BKIvyiDgf) | [To Unknownia](https://open.spotify.com/album/55ScptS5oIVplKya1URUXP) | 4:03 |
 | 15 | [Beetlebugs](https://open.spotify.com/track/3nBBFysco3704yXmEhntVl) | [Nick Leng](https://open.spotify.com/artist/2fR4D8OveDTHMvCvm7paAO) | [Beetlebugs](https://open.spotify.com/album/3B9cbAEBw8RUdxk9lvFXaG) | 3:42 |
 | 16 | [Crushxd](https://open.spotify.com/track/42xwqRK62PxAEUh4N3kVpf) | [Crumb](https://open.spotify.com/artist/4kSGbjWGxTchKpIxXPJv0B) | [AMAMA](https://open.spotify.com/album/6V4aP2jvCLc1McVX6HPmdo) | 3:06 |
-| 17 | [Wish You Well](https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 2:46 |
+| 17 | [Up and Up](https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Agitprop Alterna](https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C) | 5:14 |
 | 18 | [Sad Makeup](https://open.spotify.com/track/74eE402hFv13hLBw5iPQds) | [Yukimi](https://open.spotify.com/artist/2T87tqNRh6ZRDPw0qj2ZGo), [Little Dragon](https://open.spotify.com/artist/6Tyzp9KzpiZ04DABQoedps) | [Sad Makeup](https://open.spotify.com/album/3JoOdAaR90CSTlTJS6yp4X) | 3:50 |
 | 19 | [Garter Snake](https://open.spotify.com/track/546luzeHBxdcU8YZmOs6ph) | [Macie Stewart](https://open.spotify.com/artist/4bAFS16s5qBFYuOM4gQ5Xv) | [Mouth Full of Glass](https://open.spotify.com/album/5h35IQUAVzF6dEMEGGagvq) | 3:35 |
 | 20 | [Don't Get Me Started](https://open.spotify.com/track/7i5M9mb2gF9VvuNSlUsAaz) | [The Smile](https://open.spotify.com/artist/6styCzc1Ej4NxISL0LiigM) | [Don't Get Me Started](https://open.spotify.com/album/477uxPlEAq7OPmwF4zS1Wi) | 5:55 |
 | 21 | [Something in the Room She Moves](https://open.spotify.com/track/4q1wNhAe6axDOjReaCmOA3) | [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [Something in the Room She Moves](https://open.spotify.com/album/0SVglM3r51P5teNFrQ9WOE) | 6:18 |
-| 22 | [Up and Up](https://open.spotify.com/track/5DICKyBTFX6rzXTRrZH6iz) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Agitprop Alterna](https://open.spotify.com/album/56o75WZe4MrgNj1wL0769C) | 5:14 |
+| 22 | [Wish You Well](https://open.spotify.com/track/03TWR8Pj2dYpXiCbhuncQb) | [Peel Dream Magazine](https://open.spotify.com/artist/0Un1afF0WG8Eh94e1NqOEd) | [Rose Main Reading Room](https://open.spotify.com/album/1m7kJbZRrcxbMtWUOPqGVE) | 2:46 |
 | 23 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 |
 | 24 | [I WANT TO BE BETTER](https://open.spotify.com/track/6qDUtM6TrV0IFg3nMmXeIQ) | [Ela Minus](https://open.spotify.com/artist/4rdJkXHNrMgowlwUdQAg8T) | [DÍA](https://open.spotify.com/album/39g8mTcJfSFimjIqtMxGJB) | 3:23 |
 | 25 | [Organs](https://open.spotify.com/track/6HcEgKWXGnsXTKLFYozdOO) | [Molina](https://open.spotify.com/artist/0pxhu7zSqPjBTUWMl6piHF), [ML Buch](https://open.spotify.com/artist/3NsSv8HchEwfa7bGkjb4ZC) | [Organs](https://open.spotify.com/album/76u3zEekWcNipqChvHjTkc) | 4:47 |
@@ -86,8 +86,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWv8B5EWK7bn.md) - [plain]
 | 76 | [Lovegaze](https://open.spotify.com/track/0Yeom3AwrwRsGKxzup2OjZ) | [Nailah Hunter](https://open.spotify.com/artist/6j9xL4IBj8sZNjRiQhx8oF) | [Lovegaze](https://open.spotify.com/album/5wZ1zvJhdu078W27V9mr5U) | 4:51 |
 | 77 | [Space Jumps](https://open.spotify.com/track/4o7FggT3N6nFRfks48BTGS) | [Memory Of Jane](https://open.spotify.com/artist/4sU782GTDIMkKacoc4EuxM) | [Space Jumps](https://open.spotify.com/album/25px9ivu1nlZUNk5LhKmeM) | 3:31 |
 | 78 | [Itchy](https://open.spotify.com/track/7gLNxGyUmJWxjDTkZKOvQZ) | [Leatherette](https://open.spotify.com/artist/4nAQf14Uz5C0uSACkrNwIW) | [Itchy](https://open.spotify.com/album/1ND77RmeJxHFW7J4imS0MI) | 3:12 |
-| 79 | [Sur la terre](https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Sur La Terre](https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk) | 3:16 |
-| 80 | [love is not the poison](https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [love is not the poison](https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s) | 5:18 |
+| 79 | [love is not the poison](https://open.spotify.com/track/030g6jETCVW8ax0ws9hk4x) | [Astoria](https://open.spotify.com/artist/01NYTXYJrUpWAzdp1AjPp6) | [love is not the poison](https://open.spotify.com/album/0uX7knjn5E5BFaimIbGG2s) | 5:18 |
+| 80 | [Sur la terre](https://open.spotify.com/track/2A3NYCyctcRnCCy3UwngoH) | [Petite Amie](https://open.spotify.com/artist/79C3hxvHZM7O041gO8YQmw) | [Sur La Terre](https://open.spotify.com/album/1jFrxgWjWDPXyPfWAc6Qbk) | 3:16 |
 | 81 | [Dog's Life](https://open.spotify.com/track/2W7rrKEKlBGGYcYmTBHLCY) | [plantoid](https://open.spotify.com/artist/1vrdaOj47E8sKFcc1Ekoxd) | [Dog's Life](https://open.spotify.com/album/5gYTOwpIA1xyeS4olKWPPX) | 3:57 |
 | 82 | [Heat!](https://open.spotify.com/track/068k9XLkeTBRsgRppNoGOG) | [Me Lost Me](https://open.spotify.com/artist/0B2o0hnGZALnMYau8xQmQO) | [RPG](https://open.spotify.com/album/38eDGa0vn6Vta7fRYRlF15) | 3:47 |
 | 83 | [Island Family \- uh Remix](https://open.spotify.com/track/6OpTAE9fOLxYzQMMSWyo0s) | [Pictish Trail](https://open.spotify.com/artist/2H5FmmxEe60Tl6PZyfa95F), [uh](https://open.spotify.com/artist/4n7lSZu4GHj14pk4kPbPTu) | [Island Family \(Deluxe Edition\)](https://open.spotify.com/album/2qbNe41za0YkFfAebWLXkc) | 4:29 |

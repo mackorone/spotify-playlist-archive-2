@@ -1,12 +1,12 @@
 {
   "description": "You know em, you love em, these are indie pop hits. Cover: Malcolm Todd",
-  "num_followers": 259222,
+  "num_followers": 259286,
   "original_name": "Indie Pop Hits",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAAfXQe28JIf+j3ulIH+ALUB+dhKM",
+  "snapshot_id": "AAAAAHP0JW6vR4jflsgMiJsFu0cBj13E",
   "tracks": [
     {
       "added_at": "2026-08-22 01:48:42",
@@ -201,6 +201,22 @@
       "url": "https://open.spotify.com/track/3SKH53SPQbEnZR4cJPVaz2"
     },
     {
+      "added_at": "2026-09-21 19:08:16",
+      "album": {
+        "name": "Sweet Boy",
+        "url": "https://open.spotify.com/album/2jX6yKrWw9bY7JAYHhhtqZ"
+      },
+      "artists": [
+        {
+          "name": "Malcolm Todd",
+          "url": "https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "Earrings",
+      "url": "https://open.spotify.com/track/0eAuGrXyGFYwur9ARUe7LJ"
+    },
+    {
       "added_at": "2026-08-22 01:48:42",
       "album": {
         "name": "So Cold",
@@ -299,6 +315,22 @@
       "duration_ms": 153846,
       "name": "Anti-Superstar",
       "url": "https://open.spotify.com/track/4dxPEAvyLwARiIyfka6kha"
+    },
+    {
+      "added_at": "2026-09-21 19:08:16",
+      "album": {
+        "name": "Delete Ya",
+        "url": "https://open.spotify.com/album/3UJpgWYwRE9ctZEBmHZeVK"
+      },
+      "artists": [
+        {
+          "name": "Djo",
+          "url": "https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm"
+        }
+      ],
+      "duration_ms": 203349,
+      "name": "Delete Ya",
+      "url": "https://open.spotify.com/track/03y6MsaseYEO7DfwqsgcAI"
     },
     {
       "added_at": "2026-08-22 01:48:42",
@@ -2019,38 +2051,6 @@
       "duration_ms": 310597,
       "name": "You",
       "url": "https://open.spotify.com/track/5qcwzdhDQjHjmu12gOLjY0"
-    },
-    {
-      "added_at": "2026-08-22 01:48:42",
-      "album": {
-        "name": "When U Loved Me",
-        "url": "https://open.spotify.com/album/6ob1fJyKwsUIIoyjz8PL0w"
-      },
-      "artists": [
-        {
-          "name": "Hether",
-          "url": "https://open.spotify.com/artist/5O35zGUolf87RATk2NgSD3"
-        }
-      ],
-      "duration_ms": 191146,
-      "name": "When U Loved Me",
-      "url": "https://open.spotify.com/track/7pADtei8K3suMQlLBxR4iw"
-    },
-    {
-      "added_at": "2026-08-22 01:48:42",
-      "album": {
-        "name": "Chinese New Year",
-        "url": "https://open.spotify.com/album/4x41gTsgkdYoEZvBPPeVhi"
-      },
-      "artists": [
-        {
-          "name": "SALES",
-          "url": "https://open.spotify.com/artist/6vVztIuqdDHvYWxOEXCzjN"
-        }
-      ],
-      "duration_ms": 160000,
-      "name": "Chinese New Year",
-      "url": "https://open.spotify.com/track/0SIAFU49FFHwR3QnT5Jx0k"
     }
   ],
   "unique_name": "Indie Pop Hits",

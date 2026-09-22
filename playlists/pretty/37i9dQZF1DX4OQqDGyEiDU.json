@@ -1,6 +1,6 @@
 {
   "description": "Explore the current wave of VOCALOID culture. Cover: DECO*27",
-  "num_followers": 121295,
+  "num_followers": 121297,
   "original_name": "VOCALOID now",
   "owner": {
     "name": "Spotify",
@@ -679,6 +679,22 @@
     {
       "added_at": "2026-09-01 15:00:11",
       "album": {
+        "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
+        "url": "https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn"
+      },
+      "artists": [
+        {
+          "name": "Yoshida Yasei",
+          "url": "https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5"
+        }
+      ],
+      "duration_ms": 138533,
+      "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
+      "url": "https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp"
+    },
+    {
+      "added_at": "2026-09-01 15:00:11",
+      "album": {
         "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
         "url": "https://open.spotify.com/album/5zeEMdy7T7nNZ5iu866WP0"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 235096,
       "name": "\u52a3\u7b49\u4e0a\u7b49 feat. \u93e1\u97f3\u30ea\u30f3\u30fb\u30ec\u30f3",
       "url": "https://open.spotify.com/track/367IrkRR4wk5WtSL41rONn"
-    },
-    {
-      "added_at": "2026-09-01 15:00:11",
-      "album": {
-        "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
-        "url": "https://open.spotify.com/album/0mE0cdQT55qeKHNuXy1iGn"
-      },
-      "artists": [
-        {
-          "name": "Yoshida Yasei",
-          "url": "https://open.spotify.com/artist/2beGqnoMiYHPQJSES6M8A5"
-        }
-      ],
-      "duration_ms": 138533,
-      "name": "\u30aa\u30fc\u30d0\u30fc\u30e9\u30a4\u30c9",
-      "url": "https://open.spotify.com/track/6HznFPNdvbxgzm5jJyNlwp"
     },
     {
       "added_at": "2026-09-01 15:00:11",

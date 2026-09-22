@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 
 > mykonos season is here.
 
-[Spotify](https://open.spotify.com/user/spotify) - 219,805 likes - 100 songs - 5 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 219,828 likes - 100 songs - 5 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWW5Jdaphc81Z.md) - [plain]
 | 77 | [Last Dance](https://open.spotify.com/track/0LSktlTAWO96fPG41WLj0N) | [JUNO \(DE\)](https://open.spotify.com/artist/6H0Lbuc95DxzpDkKdwnYQ3) | [Last Dance](https://open.spotify.com/album/7j2HGezyOEGdQ7HTVVbm7A) | 4:33 |
 | 78 | [when the party's over](https://open.spotify.com/track/18FFF8WK84eJXvg1xlXJjV) | [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi), [FOLA](https://open.spotify.com/artist/0FK1hXdXst70HD11n5J26z) | [when the party's over](https://open.spotify.com/album/75mltEWsKzhP0XZQdDiqN5) | 3:04 |
 | 79 | [Kimbara](https://open.spotify.com/track/3iHrGCUXfZ4BoOy615Ydbk) | [Barry Can't Swim](https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl) | [Kimbara](https://open.spotify.com/album/2lrh7eGF5BhF70i5VPJ3Nu) | 3:09 |
-| 80 | [What I Want Is You](https://open.spotify.com/track/6xd0z1HL0AYozX9g5SSSIs) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fireball](https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg) | [What I Want Is You](https://open.spotify.com/album/7EpmxmQ5BnYxB4rsADiA2O) | 2:22 |
-| 81 | [Lo Que Tú Sientes](https://open.spotify.com/track/1h1ahCwofW0gBDHXrONOkY) | [A\-Clark](https://open.spotify.com/artist/5zwkmbdSZp79iOJBwTwgYI), [VINNY](https://open.spotify.com/artist/0r5M9jCT1IXSYq9LJjrnyZ) | [Lo Que Tú Sientes](https://open.spotify.com/album/0rOGG6s0sQBSvZETLEjihg) | 3:26 |
+| 80 | [Lo Que Tú Sientes](https://open.spotify.com/track/1h1ahCwofW0gBDHXrONOkY) | [A\-Clark](https://open.spotify.com/artist/5zwkmbdSZp79iOJBwTwgYI), [VINNY](https://open.spotify.com/artist/0r5M9jCT1IXSYq9LJjrnyZ) | [Lo Que Tú Sientes](https://open.spotify.com/album/0rOGG6s0sQBSvZETLEjihg) | 3:26 |
+| 81 | [What I Want Is You](https://open.spotify.com/track/6xd0z1HL0AYozX9g5SSSIs) | [Bob Sinclar](https://open.spotify.com/artist/5YFS41yoX0YuFY39fq21oN), [Fireball](https://open.spotify.com/artist/1n77te1QseHYMIVyEtTfpg) | [What I Want Is You](https://open.spotify.com/album/7EpmxmQ5BnYxB4rsADiA2O) | 2:22 |
 | 82 | [Murda](https://open.spotify.com/track/4u4wMk7GgiKCkT1uoaVl0t) | [Argy](https://open.spotify.com/artist/1NaQOKgddaJipUtmptb7GI), [7 SKIES](https://open.spotify.com/artist/2mmqhYDTD0weseyXUf1QJ5) | [Murda](https://open.spotify.com/album/3q7EokQfEq60HDp7E6UQr5) | 2:54 |
 | 83 | [Moon](https://open.spotify.com/track/3WUpAOAJVMxwJgIywyDWog) | [Alex Wann](https://open.spotify.com/artist/6PTNNcLg90Kkl89JcEwKhT), [Malachiii](https://open.spotify.com/artist/37lTKHi901VnwngQ7C8noT), [bees & honey](https://open.spotify.com/artist/2OFij1ppCwYFCOTq7vzafi) | [Moon](https://open.spotify.com/album/1Gs4CfY1YfYLYolnyCd4lX) | 3:22 |
 | 84 | [Wana](https://open.spotify.com/track/4V8gWHn9fu1NXXZKcQ0gnp) | [Omiki](https://open.spotify.com/artist/7pHwBqsYULdAdHgSwf1q9f), [Vegas \(Brazil\)](https://open.spotify.com/artist/5xk7F7RlG0tk0rsGmjFB7z) | [Wana](https://open.spotify.com/album/1eGaxjPeAZ9aJRJ3BhABPa) | 3:59 |

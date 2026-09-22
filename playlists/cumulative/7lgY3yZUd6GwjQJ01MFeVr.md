@@ -4,7 +4,7 @@
 
 > Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson
 
-324 songs - 17 hr 20 min
+325 songs - 17 hr 23 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -238,6 +238,7 @@
 | [Restless Mind \(feat\. Avery Anna\)](https://open.spotify.com/track/3HxEGE7XpzqTVHEui3IMyb) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a), [Avery Anna](https://open.spotify.com/artist/5rjz63sgMaAUAyBMyCUK5D) | [Restless Mind](https://open.spotify.com/album/3Dx1IXTwJVIMkEzVMSSSrp) | 3:40 | 2024-11-02 |  |
 | [Ride The River](https://open.spotify.com/track/2EsMBsv3uFaUEF8fCOLMoA) | [Shawnee Kish](https://open.spotify.com/artist/67KtTWjRTAU9ZkjRFnaffZ) | [Ride The River](https://open.spotify.com/album/4sy5R6NhnHxH5rVFHKAyod) | 3:09 | 2026-08-21 |  |
 | [River Washed Hair](https://open.spotify.com/track/76O7oz3bvW0WCBqXs9Tkuf) | [Zach Bryan](https://open.spotify.com/artist/40ZNYROS4zLfyyBSs2PGe2) | [Streets of London](https://open.spotify.com/album/0kUGW2gfvAtD4yNmylxsLF) | 4:21 | 2025-07-05 | 2026-01-15 |
+| [Run Out Of Road](https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI) | [Orville Peck](https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo) | [Mule](https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo) | 2:59 | 2026-09-21 |  |
 | [Run Your Mouth](https://open.spotify.com/track/5btUPeXrdG4Es05Q1p5aaT) | [Gavin Adcock](https://open.spotify.com/artist/5jG6uRqinuI83luutMpW6y) | [Actin’ Up Again](https://open.spotify.com/album/38lhl3KvL1dTQPUAcPlJWq) | 2:40 | 2024-08-10 | 2025-09-13 |
 | [S.O.B.](https://open.spotify.com/track/3h65hnA2SkIeOK3aVyUIe7) | [Sam Barber](https://open.spotify.com/artist/08GfvCW09pv2QP4y9sle2a) | [S.O.B.](https://open.spotify.com/album/1ueSCQNbsw3cZ0sV97Qrka) | 3:03 | 2024-02-09 | 2024-03-16 |
 | [Saltwater Cinderella](https://open.spotify.com/track/6ukdlzjSgvwpirC5HE9ZUW) | [Chase Matthew](https://open.spotify.com/artist/7HTLVyjNf0VRxfIgNcfRRH) | [Saltwater Cinderella](https://open.spotify.com/album/1JHqBa0fAJjpBt6xOVg4sZ) | 3:05 | 2024-06-21 | 2025-05-06 |

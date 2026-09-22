@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 
 > Wekelijkse update met de beste Indie releases\. Cover: Ciska Ciska
 
-[Spotify](https://open.spotify.com/user/spotify) - 103,878 likes - 100 songs - 5 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 103,871 likes - 100 songs - 5 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,15 +13,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 3 | [I Wish I Never Met You](https://open.spotify.com/track/0DZrttPj3g3XEyiTTRnLZd) | [néomí](https://open.spotify.com/artist/7bfwKXhmR1JF1PiBzaxY2b) | [Crunchy, Sad and Strangely Happy](https://open.spotify.com/album/5H8PXFJLDgF5rWvQyiLbyx) | 3:44 |
 | 4 | [Geen Rem](https://open.spotify.com/track/1EZTLVCni1vFwydultwvoX) | [Froukje](https://open.spotify.com/artist/0uBVyPbLZRDNEBiA4fZUlp) | [Geen Rem](https://open.spotify.com/album/4s55OHqLbK4xEl8PeW8dff) | 3:03 |
 | 5 | [My Blessing & My Curse](https://open.spotify.com/track/3XFnGVGvZ1Wxy3YRJwJ4hB) | [CHARLOT](https://open.spotify.com/artist/4jwyHfEELByxcUm6JEP5yC) | [My Blessing & My Curse](https://open.spotify.com/album/1Jb8eJc2SPqK50QFLYtt8E) | 2:51 |
-| 6 | [Higher](https://open.spotify.com/track/23YHFy3aUoyc4imtGgPY9Z) | [Jespfur](https://open.spotify.com/artist/7uPZzaOXKtwltRGEgeQN0r) | [Higher](https://open.spotify.com/album/21fNxP69AUkNk8x4JXimvd) | 3:25 |
-| 7 | [The Kid With the Crown](https://open.spotify.com/track/67mmg6cNrlhAzJVQpP7NYc) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [The Singer in My Band](https://open.spotify.com/album/24cxezS5U9YTFapgKpYG16) | 4:14 |
-| 8 | [We Doen Alsof](https://open.spotify.com/track/54JVTO9jnEayXd0DZgaut0) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [We Doen Alsof](https://open.spotify.com/album/59pkwsQ2UfKwtR5o9TPeNW) | 3:30 |
-| 9 | [No Thank You, I Love You, Goodbye](https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Thank You, I Love You, Goodbye](https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj) | 2:59 |
-| 10 | [And Then I Woke Up](https://open.spotify.com/track/2mrOZHjVK645tRXNUJxcTI) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [And Then I Woke Up](https://open.spotify.com/album/3coDLWeDJYp3m5iyh6rEFK) | 5:50 |
-| 11 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
-| 12 | [Sleepless Dream](https://open.spotify.com/track/2FfNTLtBLYQ91faLchKmlr) | [Elis Floreen](https://open.spotify.com/artist/299Jzr4T2YvOOue2DiJ0AL) | [The House](https://open.spotify.com/album/20JwXguQZQ56bQYkY0B6zE) | 4:05 |
-| 13 | [The Sun](https://open.spotify.com/track/3CXadUqQ5eUVbDxtDaidgN) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [The Sun](https://open.spotify.com/album/6siWmmAx2R0xa5Gp1l8lFX) | 3:36 |
-| 14 | [Who's That](https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Who's That](https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH) | 5:14 |
+| 6 | [Who's That](https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Who's That](https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH) | 5:14 |
+| 7 | [Higher](https://open.spotify.com/track/23YHFy3aUoyc4imtGgPY9Z) | [Jespfur](https://open.spotify.com/artist/7uPZzaOXKtwltRGEgeQN0r) | [Higher](https://open.spotify.com/album/21fNxP69AUkNk8x4JXimvd) | 3:25 |
+| 8 | [The Kid With the Crown](https://open.spotify.com/track/67mmg6cNrlhAzJVQpP7NYc) | [This Is Lorelei](https://open.spotify.com/artist/0GmYGGZZIU8vHbI0bAXZun) | [The Singer in My Band](https://open.spotify.com/album/24cxezS5U9YTFapgKpYG16) | 4:14 |
+| 9 | [We Doen Alsof](https://open.spotify.com/track/54JVTO9jnEayXd0DZgaut0) | [Wende](https://open.spotify.com/artist/3SCB3V2d5Loauz5tfo6Y5G) | [We Doen Alsof](https://open.spotify.com/album/59pkwsQ2UfKwtR5o9TPeNW) | 3:30 |
+| 10 | [No Thank You, I Love You, Goodbye](https://open.spotify.com/track/068okUVy4duZQXGEIQbn4g) | [Lucy Dacus](https://open.spotify.com/artist/07D1Bjaof0NFlU32KXiqUP) | [No Thank You, I Love You, Goodbye](https://open.spotify.com/album/7fcQkW0AShSOGLl1gKYpRj) | 2:59 |
+| 11 | [And Then I Woke Up](https://open.spotify.com/track/2mrOZHjVK645tRXNUJxcTI) | [Dressed Like Boys](https://open.spotify.com/artist/5qQLp6Xal6S6KXEHgvxmvp) | [And Then I Woke Up](https://open.spotify.com/album/3coDLWeDJYp3m5iyh6rEFK) | 5:50 |
+| 12 | [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 |
+| 13 | [Sleepless Dream](https://open.spotify.com/track/2FfNTLtBLYQ91faLchKmlr) | [Elis Floreen](https://open.spotify.com/artist/299Jzr4T2YvOOue2DiJ0AL) | [The House](https://open.spotify.com/album/20JwXguQZQ56bQYkY0B6zE) | 4:05 |
+| 14 | [The Sun](https://open.spotify.com/track/3CXadUqQ5eUVbDxtDaidgN) | [Galine](https://open.spotify.com/artist/1DFbUtrAHgEHrZOnptv03D) | [The Sun](https://open.spotify.com/album/6siWmmAx2R0xa5Gp1l8lFX) | 3:36 |
 | 15 | [Make A Living](https://open.spotify.com/track/5F9rXjjmy8zY1VCZgaNZhZ) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Make A Living](https://open.spotify.com/album/4oKXfybVgUOj3zb8acJQAG) | 3:23 |
 | 16 | [Back to Me](https://open.spotify.com/track/41qun4g44RzCovHZUp05zS) | [Iris Jean](https://open.spotify.com/artist/4wBfIhE83uioUEtqPGznwu) | [Back to Me](https://open.spotify.com/album/3sN8Sup6iW9tzW1ryrexEN) | 4:19 |
 | 17 | [Caravan Dream](https://open.spotify.com/track/6LYvWyx9PVEV5NlP7WgbtN) | [Michael Prins](https://open.spotify.com/artist/02uBraNVAgl8ue5bG8B87m) | [Caravan Dreams](https://open.spotify.com/album/2jQISIKsnA833zD0G2xtdE) | 4:05 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbBKF9yWSvWR.md) - [plain]
 | 99 | [Deep End](https://open.spotify.com/track/2IcSuogCYSlvO7S9gG4eBo) | [Julia Wolf](https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ) | [Deep End](https://open.spotify.com/album/7szpMHMU4ZOz5bkttY9spE) | 2:49 |
 | 100 | [Guardian](https://open.spotify.com/track/7G5HqMfPuRLvoTVfBg6FPu) | [Morpheus](https://open.spotify.com/artist/3lhGgCyHKc8VFqfn33X7VX) | [Guardian](https://open.spotify.com/album/7cd7roz7SRwSDhvS7Q3pwC) | 3:36 |
 
-Snapshot ID: `AAAAAAQak7vpPPe9j5ImP6B7e99Q/ikc`
+Snapshot ID: `AAAAAEQYQhYMiHuPckyVjk93t6xPYkOt`

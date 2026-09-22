@@ -4,7 +4,7 @@
 
 > albums i plan to listen to eventually
 
-1,226 songs - 3 day 7 hr 24 min
+1,227 songs - 3 day 7 hr 29 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -521,6 +521,7 @@
 | [In the Flesh?](https://open.spotify.com/track/24YmWQgunJGAU8El3ndkyn) | [Pink Floyd](https://open.spotify.com/artist/0k17h0D3J5VfsdmQ1iZtE9) | [The Wall](https://open.spotify.com/album/5Dbax7G8SWrP9xyzkOvy2F) | 3:18 | 2024-01-15 |  |
 | [In The Garden](https://open.spotify.com/track/3Qg3xUxxGLJEDEOFf4c0NA) | [Adam Goldstone](https://open.spotify.com/artist/11nDj0FhwWDHH2RpehfKG0), [Ceybil Jefferies](https://open.spotify.com/artist/4mcL7JonbvEoIj9rnwUOEy) | [Lower East Side Stories](https://open.spotify.com/album/6vewM0elb03oSUN1ZyNN7u) | 5:48 | 2025-06-22 |  |
 | [In the Morning](https://open.spotify.com/track/0zlqp4qK2WxjC1J6ExWPlt) | [Built To Spill](https://open.spotify.com/artist/3kbBWco9PZ5eSQsNScwG6U) | [There's Nothing Wrong With Love](https://open.spotify.com/album/6ShLKGsrQk9OHXmEBrXJhd) | 2:37 | 2022-09-20 | 2026-01-15 |
+| [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 | 2026-09-21 |  |
 | [Inclination Compass \(Tenderness\)](https://open.spotify.com/track/74QKZtja1eXqpVg0fS3A2u) | [Sampha](https://open.spotify.com/artist/2WoVwexZuODvclzULjPQtm) | [Lahai](https://open.spotify.com/album/5GuWww4OaildzkmTTlfMN3) | 3:08 | 2023-11-16 | 2024-01-21 |
 | [Interpret Sabotage](https://open.spotify.com/track/04HcLAYZ3YJ73oOZvjqBcM) | [Black Milk](https://open.spotify.com/artist/77zgRkcehIGCAtROXkXkb3), [Mel](https://open.spotify.com/artist/1yHQHPrgaF1Oe8LuYgBW8a) | [No Poison No Paradise](https://open.spotify.com/album/4GqT8uQCQRSs3Xt7wQ0u13) | 3:29 | 2026-01-20 |  |
 | [Into the Deep Time \(One Sun\)](https://open.spotify.com/track/0lw2mLzNcwftfTvDojdySG) | [Candy Claws](https://open.spotify.com/artist/34Xay0uKsALHCrn5LkrYeh) | [Ceres & Calypso in the Deep Time](https://open.spotify.com/album/5KkGAZrad4N4rc5FriwgzU) | 3:01 | 2023-05-02 |  |

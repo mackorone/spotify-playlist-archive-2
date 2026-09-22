@@ -4,7 +4,7 @@
 
 > Ideale muziek voor de werkdag
 
-675 songs - 1 day 14 hr 18 min
+676 songs - 1 day 14 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -22,7 +22,7 @@
 | [All The Ways To Say Goodbye](https://open.spotify.com/track/2z641vWISZBjlkCMfkYVW6) | [Mitch James](https://open.spotify.com/artist/65oocmSeB6z75kHwrZo1le) | [Mitch James \- Deluxe Edition](https://open.spotify.com/album/2uyhLTwc2V8KeSgysLtXTf) | 3:05 | 2023-02-23 | 2024-07-27 |
 | [Always Remember Us This Way](https://open.spotify.com/track/2rbDhOo9Fh61Bbu23T2qCk) | [Lady Gaga](https://open.spotify.com/artist/1HY2Jd0NmPuamShAr6KMms) | [A Star Is Born Soundtrack \(Without Dialogue\)](https://open.spotify.com/album/3edjzMAVB9RYRd4UcZBchx) | 3:30 | 2023-04-06 | 2025-05-22 |
 | [American Town](https://open.spotify.com/track/19eUFBAnHBuTz6TCJXhu7h) | [Ed Sheeran](https://open.spotify.com/artist/6eUKZXaKkcviH0Ku9w2n3V) | [Autumn Variations](https://open.spotify.com/album/4JBIPXbjtBx7keWjTnGYeJ) | 3:17 | 2024-03-26 |  |
-| [And So I Grow](https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [And So I Grow](https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy) | 3:38 | 2023-12-28 |  |
+| [And So I Grow](https://open.spotify.com/track/6ODXo2jtBLbsVlnDFIVglV) | [Eva Valery](https://open.spotify.com/artist/0K95TlYJ2SvJbL3CZ3ui3p) | [And So I Grow](https://open.spotify.com/album/47dKXU9d4G8QbfcfKS8aHy) | 3:38 | 2023-12-28 | 2026-09-22 |
 | [Another Day](https://open.spotify.com/track/19fXG7QBtxMBEDM4zGfahj) | [Bertolf](https://open.spotify.com/artist/6cs3EabebGIu559XRIpQty) | [For Life](https://open.spotify.com/album/4HeApjft3eRBID1XjF5QSs) | 3:52 | 2023-02-23 | 2023-04-26 |
 | [Another Day](https://open.spotify.com/track/4sClnnhC23yXMFMvE7lhc0) | [Lorrèn](https://open.spotify.com/artist/6VL1YDd4vftDH5vkCbufxG) | [Another Day](https://open.spotify.com/album/5IdiLQkgPHbTl5ukYAYhXg) | 2:48 | 2024-02-29 |  |
 | [Anxious](https://open.spotify.com/track/0bqwsQAkGaO0jzfzgI5iLV) | [Dennis Lloyd](https://open.spotify.com/artist/3EOEK57CV77D4ovYVcmiyt) | [Anxious](https://open.spotify.com/album/7zdqBNL7UW6ez29rMY0NJ0) | 2:56 | 2024-07-05 | 2024-08-30 |
@@ -440,6 +440,7 @@
 | [Parallel Lines](https://open.spotify.com/track/2h9k3txmnkPpDzMhgohEZO) | [Cocoon](https://open.spotify.com/artist/15h5B5quwDm2C1rhbtvUPD) | [What We Leave Behind](https://open.spotify.com/album/5glE2xnhRJnkan4lHWgXJt) | 2:42 | 2025-04-28 |  |
 | [Peace Of Mind](https://open.spotify.com/track/4GN9HHx7V3SLFGkq4Tsfd8) | [JPL](https://open.spotify.com/artist/7u5SiDcWwtLRKN1RBcwW0G), [Co van Griensven](https://open.spotify.com/artist/4Uht571CVC4WW5PupN2oNR), [Tora](https://open.spotify.com/artist/7KGI0OwY8iAL5rI5p47YyK) | [Peace Of Mind](https://open.spotify.com/album/2xCQBiWwjJldOwA3o0AojN) | 3:08 | 2023-02-23 | 2025-06-21 |
 | [Pennies From Heaven](https://open.spotify.com/track/3lctgxC0qiFwW20NCQn8Oe) | [Josh Island](https://open.spotify.com/artist/5VJxJ1utvXvjDV14FzaeN4) | [Pennies From Heaven](https://open.spotify.com/album/0FJpIBzbo2EQGGCqUFQMx2) | 4:15 | 2023-02-23 |  |
+| [Perfect Man](https://open.spotify.com/track/6Gf8utzDFG6eImqetkF0Px) | [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump) | [Perfect Man](https://open.spotify.com/album/1Oa19Clqi3niOnlDvz0v2F) | 3:33 | 2026-09-21 |  |
 | [Perfect timing](https://open.spotify.com/track/15Obnb8DCcSeLJeiTPlko0) | [Helen](https://open.spotify.com/artist/2z2l9z2yioLWSoCECNIyEl) | [Perfect timing](https://open.spotify.com/album/3polefX1SBxQITeLo2Dwc0) | 3:02 | 2023-02-23 | 2024-04-19 |
 | [Places To Go](https://open.spotify.com/track/2kIMDGHkZPCwK0MD2IlXzR) | [Anouk](https://open.spotify.com/artist/6ltVunYjAAD70YtVO6rxvX) | [Paradise And Back Again](https://open.spotify.com/album/1taypDxNMQORzlU7YfZlk1) | 3:46 | 2023-02-23 | 2026-07-02 |
 | [Plage](https://open.spotify.com/track/3WU1BGMLe9Tg2QuVmRPpw6) | [Crystal Fighters](https://open.spotify.com/artist/75EZuo5MHV2572NRpMWotC) | [Star of Love \(+ acoustic version\)](https://open.spotify.com/album/5z6klKjs2g01A8z5sHljhQ) | 3:50 | 2026-04-16 |  |

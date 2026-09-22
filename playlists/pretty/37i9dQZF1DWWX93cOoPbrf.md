@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 
 > Lo más fresco de los corridones\. Equipo HC en portada.
 
-[Spotify](https://open.spotify.com/user/spotify) - 987,839 likes - 100 songs - 4 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 987,823 likes - 100 songs - 4 hr 52 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,7 +20,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWX93cOoPbrf.md) - [plain]
 | 10 | [Supersnake](https://open.spotify.com/track/5lqUcqnZ6hXUnXTo5jVuH0) | [El Padrinito Toys](https://open.spotify.com/artist/04mzq9GH08zOBRdV2gzmXm), [Clemente y su Elexion Privada](https://open.spotify.com/artist/0SjOPw3wYrdgkBYivPTdV7) | [Supersnake](https://open.spotify.com/album/3nkt00vw3D63iJl8gvqr1I) | 2:04 |
 | 11 | [Fino](https://open.spotify.com/track/5bMcrPmz2hxyUpZzUiNych) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Fino](https://open.spotify.com/album/1Yk23LsU2ZPNScnJo2R9bn) | 2:40 |
 | 12 | [La Lista](https://open.spotify.com/track/21HFonaVz6ErwhLCDxXpyM) | [Superiores de Nuevo Leon](https://open.spotify.com/artist/2SET3aaOFm3cLiDGw3xyPv), [El Fantasma](https://open.spotify.com/artist/0my6Pg4I28dVcZLSpAkqhv) | [La Lista](https://open.spotify.com/album/36yVFGoStjA1ZBdPV1cJFE) | 3:06 |
-| 13 | [El Juego de la Vida](https://open.spotify.com/track/4NyG5IPOHTS0wrEkivQbP0) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [El Juego De La Vida](https://open.spotify.com/album/6sp2AU6KZxWqpINnipLnc1) | 2:55 |
+| 13 | [El Juego De La Vida](https://open.spotify.com/track/4NyG5IPOHTS0wrEkivQbP0) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [El Juego De La Vida](https://open.spotify.com/album/6sp2AU6KZxWqpINnipLnc1) | 2:55 |
 | 14 | [Quién Lo Diría](https://open.spotify.com/track/5eGs9zZsl3PeIqxoSmj9Zb) | [Gustavo Palafox](https://open.spotify.com/artist/4sFGEHs1ufSWEmfpTDm3DM) | [Quién Lo Diría](https://open.spotify.com/album/1do2Fl4RFNtPmJFDDMRUGC) | 2:50 |
 | 15 | [El Campeón](https://open.spotify.com/track/6bxe75QM4hqfgqBywxlsqB) | [Chayín Rubio](https://open.spotify.com/artist/6dZF1SMkMqrSFJKp0mhk4B) | [El Campeón](https://open.spotify.com/album/1iL4dwstqIiUD9ettABQMw) | 3:07 |
 | 16 | [Apelativo](https://open.spotify.com/track/0TptnLmHfkpcGOqNuzsiPi) | [Natanael Cano](https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P), [Crecer German](https://open.spotify.com/artist/6JBGaRYIWS7fzKP0qGgZve) | [Natanael Cano, Vol.1](https://open.spotify.com/album/5LfkNiWQJAV4dpUeBxxoMN) | 2:46 |

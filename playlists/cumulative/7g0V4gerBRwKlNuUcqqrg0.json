@@ -3687,6 +3687,28 @@
     },
     {
       "album": {
+        "name": "De Waarheid",
+        "url": "https://open.spotify.com/album/0tsLLrRYEzdpphF6QSFhBT"
+      },
+      "artists": [
+        {
+          "name": "Marco Borsato",
+          "url": "https://open.spotify.com/artist/3D2GUXbtlL3r2d5HJEnsFD"
+        },
+        {
+          "name": "Trijntje Oosterhuis",
+          "url": "https://open.spotify.com/artist/7nJtdgCxkhZFvFMPTsHavb"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235933,
+      "name": "Wereld Zonder Jou",
+      "url": "https://open.spotify.com/track/1f4VAmKMduljFaWtRGGweZ"
+    },
+    {
+      "album": {
         "name": "I\u2019m The Problem",
         "url": "https://open.spotify.com/album/1o844O5I0qVpZKiePtIGcF"
       },

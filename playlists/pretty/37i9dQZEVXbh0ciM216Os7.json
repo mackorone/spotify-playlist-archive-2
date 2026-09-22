@@ -22,31 +22,15 @@
         {
           "name": "JA\u0178-Z",
           "url": "https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB"
+        },
+        {
+          "name": "Rakim",
+          "url": "https://open.spotify.com/artist/3PyWEKLWI0vHPmoNrIX0QE"
         }
       ],
       "duration_ms": 69900,
       "name": "God Speak - Interlude",
       "url": "https://open.spotify.com/track/2Ukq3hEVucKT3vk1zH3WPi"
-    },
-    {
-      "added_at": "2026-09-18 04:00:00",
-      "album": {
-        "name": "A Good Day",
-        "url": "https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX"
-      },
-      "artists": [
-        {
-          "name": "Anderson .Paak",
-          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
-        },
-        {
-          "name": "Cordae",
-          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
-        }
-      ],
-      "duration_ms": 151072,
-      "name": "A Good Day",
-      "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -67,6 +51,26 @@
       "duration_ms": 174638,
       "name": "The World Is Ours",
       "url": "https://open.spotify.com/track/7fNKmovV27B2bUg80GhdL4"
+    },
+    {
+      "added_at": "2026-09-18 04:00:00",
+      "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "duration_ms": 151072,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -95,6 +99,30 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
+        "name": "Matter of Time",
+        "url": "https://open.spotify.com/album/1AVzRsJoy9Ja8DtAHIF0ao"
+      },
+      "artists": [
+        {
+          "name": "Stylistic Murder",
+          "url": "https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s"
+        },
+        {
+          "name": "Cam One",
+          "url": "https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF"
+        },
+        {
+          "name": "Oddisee",
+          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
+        }
+      ],
+      "duration_ms": 111000,
+      "name": "Matter of Time",
+      "url": "https://open.spotify.com/track/1VQV6szwtMlOX0EPLQz0HJ"
+    },
+    {
+      "added_at": "2026-09-18 04:00:00",
+      "album": {
         "name": "Compassion",
         "url": "https://open.spotify.com/album/655tfMuWbx5lzrx6gLxUQZ"
       },
@@ -119,30 +147,6 @@
       "duration_ms": 285122,
       "name": "Compassion (feat. Flying Lotus, Immanuel Wilkins, David Virelles)",
       "url": "https://open.spotify.com/track/0HnzJayzmv01DGyBV1J8na"
-    },
-    {
-      "added_at": "2026-09-18 04:00:00",
-      "album": {
-        "name": "Matter of Time",
-        "url": "https://open.spotify.com/album/1AVzRsJoy9Ja8DtAHIF0ao"
-      },
-      "artists": [
-        {
-          "name": "Stylistic Murder",
-          "url": "https://open.spotify.com/artist/6ekz7uTvUiWjvBnOPgle6s"
-        },
-        {
-          "name": "Cam One",
-          "url": "https://open.spotify.com/artist/5S3HP2cefCXttuDtnDlWMF"
-        },
-        {
-          "name": "Oddisee",
-          "url": "https://open.spotify.com/artist/72tRiBHei5G9M8it4h4sfC"
-        }
-      ],
-      "duration_ms": 111000,
-      "name": "Matter of Time",
-      "url": "https://open.spotify.com/track/1VQV6szwtMlOX0EPLQz0HJ"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -179,6 +183,26 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
+        "name": "Movements",
+        "url": "https://open.spotify.com/album/6CEgNom7Vnf68GFeb87XBa"
+      },
+      "artists": [
+        {
+          "name": "Aron",
+          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
+        },
+        {
+          "name": "Cory Henry",
+          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
+        }
+      ],
+      "duration_ms": 248000,
+      "name": "Movements",
+      "url": "https://open.spotify.com/track/4KaZ8RtH1wGQdrB87D2wVK"
+    },
+    {
+      "added_at": "2026-09-18 04:00:00",
+      "album": {
         "name": "Complicated (with Tropidelic & Wax)",
         "url": "https://open.spotify.com/album/6NbjFjAaytpWAxZnmXauIN"
       },
@@ -199,26 +223,6 @@
       "duration_ms": 219200,
       "name": "Complicated (with Tropidelic & Wax)",
       "url": "https://open.spotify.com/track/6Iph1eRoFtHPRz0KQpid9k"
-    },
-    {
-      "added_at": "2026-09-18 04:00:00",
-      "album": {
-        "name": "Movements",
-        "url": "https://open.spotify.com/album/6CEgNom7Vnf68GFeb87XBa"
-      },
-      "artists": [
-        {
-          "name": "Aron",
-          "url": "https://open.spotify.com/artist/3ik0tThzh3jWDLIYezRXMr"
-        },
-        {
-          "name": "Cory Henry",
-          "url": "https://open.spotify.com/artist/21SOnTj5ECwVXeBUTRcP3s"
-        }
-      ],
-      "duration_ms": 248000,
-      "name": "Movements",
-      "url": "https://open.spotify.com/track/4KaZ8RtH1wGQdrB87D2wVK"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -244,9 +248,9 @@
           "url": "https://open.spotify.com/artist/0aoA1OWyDRcpf0u6zh7bsw"
         }
       ],
-      "duration_ms": 367066,
-      "name": "Cello Concerto No. 1: Movement III",
-      "url": "https://open.spotify.com/track/72pb2QwnhlGaj6PqrajLCv"
+      "duration_ms": 247000,
+      "name": "Naqoyqatsi: Primacy Of Number",
+      "url": "https://open.spotify.com/track/4PmZkJnEmV2LH53PdxEr4v"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -647,26 +651,22 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
-        "name": "Before The World Blows",
-        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
+        "name": "SO GOOD",
+        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
       },
       "artists": [
         {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+          "name": "Shay Lia",
+          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
         },
         {
-          "name": "The Alchemist",
-          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
-        },
-        {
-          "name": "Earl Sweatshirt",
-          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
+          "name": "KAYTRANADA",
+          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
         }
       ],
-      "duration_ms": 195074,
-      "name": "I Know That Man - feat. Earl Sweatshirt",
-      "url": "https://open.spotify.com/track/3ezhIhKEsgVddmp2ed703g"
+      "duration_ms": 222316,
+      "name": "SO GOOD",
+      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
     },
     {
       "added_at": "2026-09-18 04:00:00",
@@ -687,22 +687,26 @@
     {
       "added_at": "2026-09-18 04:00:00",
       "album": {
-        "name": "SO GOOD",
-        "url": "https://open.spotify.com/album/3jfOX0uhKuklZSMlYgDtrl"
+        "name": "Before The World Blows",
+        "url": "https://open.spotify.com/album/6eKe5wqXAHA1LLnIwGuaSI"
       },
       "artists": [
         {
-          "name": "Shay Lia",
-          "url": "https://open.spotify.com/artist/3sJQwG0SsGRyv5C5kh4o9a"
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
         },
         {
-          "name": "KAYTRANADA",
-          "url": "https://open.spotify.com/artist/6qgnBH6iDM91ipVXv28OMu"
+          "name": "The Alchemist",
+          "url": "https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu"
+        },
+        {
+          "name": "Earl Sweatshirt",
+          "url": "https://open.spotify.com/artist/3A5tHz1SfngyOZM2gItYKu"
         }
       ],
-      "duration_ms": 222316,
-      "name": "SO GOOD",
-      "url": "https://open.spotify.com/track/08CMPHgVZWm0NNBw0uoCP7"
+      "duration_ms": 195074,
+      "name": "I Know That Man - feat. Earl Sweatshirt",
+      "url": "https://open.spotify.com/track/3ezhIhKEsgVddmp2ed703g"
     },
     {
       "added_at": "2026-09-18 04:00:00",

@@ -2,9 +2,9 @@
 
 ### [EQUAL US](https://open.spotify.com/playlist/37i9dQZF1DWU86q8CK6tXo)
 
-> Listen to women at full volume\. Cover: Willow Avalon
+> Listen to women at full volume\. Cover: Josie Edwards
 
-2,312 songs - 5 day 4 hr 51 min
+2,313 songs - 5 day 4 hr 55 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -389,6 +389,7 @@
 | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/track/08APpCYHGsbJ2N9jhRgLQY) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [Chase It \(Mmm Da Da Da\)](https://open.spotify.com/album/7LWwnuLW7GNZ8qdw4yPKzN) | 2:34 | 2024-06-01 | 2024-08-02 |
 | [Chasing Tornadoes](https://open.spotify.com/track/6zZVxqTT1eDCcE0APUatbx) | [MacKenzie Porter](https://open.spotify.com/artist/6nXco5Q3cJJ0ZutnBOsSpq) | [Chasing Tornadoes](https://open.spotify.com/album/3xXBDDcDpK2OPwM5P0ogap) | 2:57 | 2023-06-07 | 2023-07-06 |
 | [Check Out](https://open.spotify.com/track/2n6qz4opcJlHsEpI8030YM) | [J\. Worra](https://open.spotify.com/artist/4q0N3EI67tVnAeeaXbNQIj), [Leo Stannard](https://open.spotify.com/artist/37fzXndf2fxVrk7qarhyo0) | [Check Out](https://open.spotify.com/album/1i9flcfwW08i5ynf4YZHsb) | 2:54 | 2022-02-02 | 2022-03-09 |
+| [Chemical Light](https://open.spotify.com/track/3PpTiirc8IzcjqEwDyaBZK) | [Josie Edwards](https://open.spotify.com/artist/70876OxjZoMWimkWA2Iduq) | [Greetings From Bleak St.](https://open.spotify.com/album/5y5tKFo4rsbw6cNpgFTvS1) | 3:46 | 2026-09-21 |  |
 | [Chemical Reaction](https://open.spotify.com/track/7AAcT7MunkAjHyk9Abg774) | [Debbii Dawson](https://open.spotify.com/artist/21YCHE0ZFflbHVTsyrCpgh) | [Chemical Reaction](https://open.spotify.com/album/5aCO10dxpRi1HiMtSyMaDC) | 3:18 | 2025-06-04 | 2025-08-05 |
 | [Chemistry](https://open.spotify.com/track/0VySCkMP67vSTy9IrzbvHE) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Chemistry](https://open.spotify.com/album/5L6B0gqE9CCOWwq783IaNZ) | 4:44 | 2025-04-22 | 2025-05-28 |
 | [Chevy Impala](https://open.spotify.com/track/6pIkPj4S6RwrbwKKrl02S5) | [Lolo Zouaï](https://open.spotify.com/artist/2qDIR2WlcW3llkGqJWg9VJ) | [High Highs to Low Lows](https://open.spotify.com/album/1zYV9ByVJ4JURQ1f2q9Rnf) | 3:21 | 2022-09-07 | 2022-10-06 |
@@ -635,7 +636,7 @@
 | [Escapism.](https://open.spotify.com/track/2VOZniNxFIDl8ydLltrMNb) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2), [070 Shake](https://open.spotify.com/artist/12Zk1DFhCbHY6v3xep2ZjI) | [Escapism.](https://open.spotify.com/album/4parxQfGC25WtlVVAm5S9q) | 4:32 | 2026-03-19 | 2026-04-01 |
 | [Espejo](https://open.spotify.com/track/5bvIt09E0tg9YKlcncjacf) | [Greeicy](https://open.spotify.com/artist/5dbaLmK5SHLLg8Z4CcTJpX) | [Espejo](https://open.spotify.com/album/3FMvXzHpimh12Hzcx36eqW) | 2:38 | 2023-11-08 | 2023-11-30 |
 | [Espresso](https://open.spotify.com/track/2qSkIjg1o9h3YT9RAgYN75) | [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Espresso](https://open.spotify.com/album/5quMTd5zeI9yW5UDua8wS4) | 2:55 | 2024-06-01 | 2024-08-02 |
-| [Ethereal Redneck Shit](https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Ethereal Redneck Shit](https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D) | 3:53 | 2026-07-01 |  |
+| [Ethereal Redneck Shit](https://open.spotify.com/track/26hb88vHXkt8QapTw2HTF3) | [Laci Kaye Booth](https://open.spotify.com/artist/6Gd7wERviclMCCWOG8qVR4) | [Ethereal Redneck Shit](https://open.spotify.com/album/6NNAqxMqcVvsw7L7PwTV1D) | 3:53 | 2026-07-01 | 2026-09-22 |
 | [ever fallen?](https://open.spotify.com/track/2sGCU9QbPOaHkavcFJdtCu) | [Kate Peytavin](https://open.spotify.com/artist/6PnD7O3Er35tK4TeFyndOS) | [ever fallen?](https://open.spotify.com/album/76MqqEKkr3PqvDuZv5BlVo) | 2:48 | 2023-01-04 | 2023-02-02 |
 | [Every Girl You've Ever Loved \(feat\. Naomi Campbell\)](https://open.spotify.com/track/22WFoPT9VIJlZ0VcJVkCpm) | [Miley Cyrus](https://open.spotify.com/artist/5YGY8feqx7naU7z4HrwZM6), [Naomi Campbell](https://open.spotify.com/artist/4IKQKM9T5OIshijgLD8ZyK) | [Something Beautiful](https://open.spotify.com/album/7h7smPzBYx8LOLI3ncM3vQ) | 5:18 | 2025-06-04 | 2025-08-05 |
 | [Every Night After](https://open.spotify.com/track/3cNfaHSdApqVYi2Q0JOtOD) | [Jean Deaux](https://open.spotify.com/artist/4JqpJeNOhP6bAkolNMLwFg) | [Every Night After](https://open.spotify.com/album/64a5rhV0A6YQJON5o41cUi) | 2:49 | 2022-01-05 | 2022-02-03 |

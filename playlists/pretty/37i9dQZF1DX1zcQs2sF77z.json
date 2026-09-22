@@ -1,6 +1,6 @@
 {
   "description": "La playlist des plus grands hits Electro & Dance.",
-  "num_followers": 300353,
+  "num_followers": 300400,
   "original_name": "Dancefloor Classics",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,22 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
+        "name": "The Immaculate Collection",
+        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
+      },
+      "artists": [
+        {
+          "name": "Madonna",
+          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
+        }
+      ],
+      "duration_ms": 317080,
+      "name": "Vogue",
+      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
         "name": "Don't You Worry Child",
         "url": "https://open.spotify.com/album/3RKhRsifs4RWrqvWV1YpPY"
       },
@@ -383,22 +399,6 @@
       "duration_ms": 212862,
       "name": "Don't You Worry Child - Radio Edit",
       "url": "https://open.spotify.com/track/2V65y3PX4DkRhy1djlxd9p"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
-        "name": "The Immaculate Collection",
-        "url": "https://open.spotify.com/album/5MzwGwnO9gkh0z6Nl4FF8h"
-      },
-      "artists": [
-        {
-          "name": "Madonna",
-          "url": "https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW"
-        }
-      ],
-      "duration_ms": 317080,
-      "name": "Vogue",
-      "url": "https://open.spotify.com/track/7j5TIXPi0cCbSSqItmbyZy"
     },
     {
       "added_at": "2025-12-19 16:17:24",
@@ -695,6 +695,22 @@
     {
       "added_at": "2025-12-19 16:17:24",
       "album": {
+        "name": "Saturday Night Single",
+        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
+      },
+      "artists": [
+        {
+          "name": "Whigfield",
+          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
+        }
+      ],
+      "duration_ms": 247405,
+      "name": "Saturday Night - Radio Mix",
+      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
+    },
+    {
+      "added_at": "2025-12-19 16:17:24",
+      "album": {
         "name": "Wounded Rhymes",
         "url": "https://open.spotify.com/album/2eEnzl61veDi3zQylslIap"
       },
@@ -711,22 +727,6 @@
       "duration_ms": 279635,
       "name": "I Follow Rivers - The Magician Remix",
       "url": "https://open.spotify.com/track/6UAgnw2w3AVwLg1p7sE7v4"
-    },
-    {
-      "added_at": "2025-12-19 16:17:24",
-      "album": {
-        "name": "Saturday Night Single",
-        "url": "https://open.spotify.com/album/2svgyeZtPdcWOq5Hmj5uud"
-      },
-      "artists": [
-        {
-          "name": "Whigfield",
-          "url": "https://open.spotify.com/artist/0lHoDF96DNKSIcIpcOfMnq"
-        }
-      ],
-      "duration_ms": 247405,
-      "name": "Saturday Night - Radio Mix",
-      "url": "https://open.spotify.com/track/59VRFpPnC8pOhIH2WCWXF9"
     },
     {
       "added_at": "2025-12-19 16:17:24",

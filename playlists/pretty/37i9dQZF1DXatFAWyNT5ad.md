@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 
 > Let's mix it.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,487 likes - 150 songs - 7 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,491 likes - 150 songs - 7 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -71,13 +71,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 61 | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ) | 2:57 |
 | 62 | [29](https://open.spotify.com/track/3gXWe15nwrjfhjYQ5RqLx7) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [29](https://open.spotify.com/album/4SCO1XGo1Lv43OighlwqsL) | 2:43 |
 | 63 | [Anything But Me](https://open.spotify.com/track/0MtRE3z0MqQp9ZgYVW9s8u) | [MUNA](https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn) | [MUNA](https://open.spotify.com/album/4ndTvTrNwgUfRw4g1R2B4l) | 3:33 |
-| 64 | [Poison Apple Baby](https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Poison Apple Baby](https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx) | 3:17 |
-| 65 | [Known You Always](https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray Is Back](https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq) | 3:19 |
+| 64 | [Known You Always](https://open.spotify.com/track/51AGU6apDBbI0fCfzsPbkh) | [The Fray](https://open.spotify.com/artist/0zOcE3mg9nS6l3yxt1Y0bK) | [The Fray Is Back](https://open.spotify.com/album/3YQ639IRsD9CTztmDYWASq) | 3:19 |
+| 65 | [Poison Apple Baby](https://open.spotify.com/track/3kTSXwNlNZNbEG5VmzH0wB) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Poison Apple Baby](https://open.spotify.com/album/6Egtw4WQkI5khzldGxrnCx) | 3:17 |
 | 66 | [sail away](https://open.spotify.com/track/6G8xvLFNkXy3HM5EbQI6c8) | [lovelytheband](https://open.spotify.com/artist/4KJ6jujcNPzOyhdNoiNftp) | [sail away](https://open.spotify.com/album/6JFD9WU1ZSYZOJlDpRtZ71) | 2:59 |
 | 67 | [Not The 1975](https://open.spotify.com/track/2U0Zowgw2tgJXu5K56i4Q4) | [Knox](https://open.spotify.com/artist/61S5H9Lxn1PDUvu1TV0kCX) | [I'm So Good At Being Alone?](https://open.spotify.com/album/3USnuRvSzhPtYAYoz0xgvN) | 3:18 |
 | 68 | [Loser](https://open.spotify.com/track/1GAIibUEoZjvG4QsrabVWc) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD) | [Loser](https://open.spotify.com/album/05FrlFmadVg3IuRnYp3Of5) | 2:13 |
-| 69 | [Risk](https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Risk](https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH) | 2:59 |
-| 70 | [Vicious](https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [Vicious](https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7) | 3:27 |
+| 69 | [Vicious](https://open.spotify.com/track/2EwnRHPoqt7ofZYl9jgVLY) | [Bohnes](https://open.spotify.com/artist/4aN7T7NNFFMRJgVbRPne8q) | [Vicious](https://open.spotify.com/album/1Yg1708otT3hsWtAprglw7) | 3:27 |
+| 70 | [Risk](https://open.spotify.com/track/54q1XgXR2y7JMRBEzTxA4l) | [Honey Revenge](https://open.spotify.com/artist/1DHMgO3IIYSYPJ6CFyDYnK) | [Risk](https://open.spotify.com/album/2MhsKJ1ZkRWbRkUrx0eWyH) | 2:59 |
 | 71 | [Say My Name](https://open.spotify.com/track/2P1kNZVpnEuVBnkeozS1iU) | [Cassyette](https://open.spotify.com/artist/3X8VK5wNpLQCVEo4sWBH2A) | [This World Fucking Sucks](https://open.spotify.com/album/2PqUPBcCT4mR9CTZXEmg1B) | 2:42 |
 | 72 | [Over](https://open.spotify.com/track/56kItkqB3oSsLrXK4p3ja4) | [CHVRCHES](https://open.spotify.com/artist/3CjlHNtplJyTf9npxaPl5w) | [Over](https://open.spotify.com/album/3qCe36870O2BtTW8t7X7LE) | 3:37 |
 | 73 | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/track/3zPGZBbZEGqu7eY7R0NkqI) | [girl in red](https://open.spotify.com/artist/3uwAm6vQy7kWPS2bciKWx9), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [You Need Me Now? \(feat\. Sabrina Carpenter\)](https://open.spotify.com/album/26H0jinpdi0RSrZq90fNMF) | 3:06 |
@@ -94,8 +94,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 84 | [Oh No :: He Said What?](https://open.spotify.com/track/7Gk8icymiW50sDfFbWLoVG) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [Oh No :: He Said What?](https://open.spotify.com/album/4kT2KzTC4GE1AEqAQx5BnO) | 3:48 |
 | 85 | [The Weather](https://open.spotify.com/track/4vggwi9dH7e9pGFIgKqzQS) | [All Time Low](https://open.spotify.com/artist/46gyXjRIvN1NL1eCB8GBxo) | [The Weather](https://open.spotify.com/album/2Av6fhlES4W5HZw9ZmGtS9) | 2:51 |
 | 86 | [Strangers](https://open.spotify.com/track/5pOnmZnc4FsF9e04Etv5X3) | [RIELL](https://open.spotify.com/artist/0xD6n0wj7aqV5g5LcRNBUd) | [Strangers](https://open.spotify.com/album/0RapZmQPdoPuqODNb03SaX) | 2:51 |
-| 87 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 |
-| 88 | [JUMP!](https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [JUMP!](https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD) | 3:14 |
+| 87 | [JUMP!](https://open.spotify.com/track/3XfqHrrVnG4BI2XAOaYiim) | [Only The Poets](https://open.spotify.com/artist/3Z40kLBFU7C8532e2YLE9t) | [JUMP!](https://open.spotify.com/album/6IJQx7e2CdRtZ4VN5QvoSD) | 3:14 |
+| 88 | [Takes One To Know One](https://open.spotify.com/track/7Jc79lucvYoqo3YA44EG8f) | [The Beaches](https://open.spotify.com/artist/6ws5XBA70XgeBpnLZhQBoy) | [Takes One To Know One](https://open.spotify.com/album/0vVu40KngnoIprNWsy7Chv) | 2:47 |
 | 89 | [Over You](https://open.spotify.com/track/2ANcnQVK8L23fpyvwd021a) | [Landon Barker](https://open.spotify.com/artist/7tWnepocfeqynsYC75hWoF) | [Over You](https://open.spotify.com/album/2R5WaXG1YcFHhRdFNoS4U4) | 2:50 |
 | 90 | [BANG BANG!](https://open.spotify.com/track/2YiQL9Aa4PmGF8oMFADzzA) | [Nessa Barrett](https://open.spotify.com/artist/7pwufEBGfggjoI8twqlsmQ) | [BANG BANG!](https://open.spotify.com/album/4YmjnqegnwZ18ruZjdJsIH) | 2:16 |
 | 91 | [UNSTOPPABLE](https://open.spotify.com/track/2bPZTakU4YDTYtfM895oFx) | [Red Leather](https://open.spotify.com/artist/2qltFRTCjw1j67Da9FR8F1) | [RENO \(ALL IN\)](https://open.spotify.com/album/6xx3OFM5pcN9orjxumOoKG) | 2:41 |
@@ -117,12 +117,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXatFAWyNT5ad.md) - [plain]
 | 107 | [Another High](https://open.spotify.com/track/2q5ByXv4sljfsPL3XvglUm) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Kissing Death](https://open.spotify.com/album/06BiMFYYLl0cQnJDRSXmtD) | 2:48 |
 | 108 | [Everknown](https://open.spotify.com/track/00YQhkHze8n5oLQdCQdZ4V) | [NEEDTOBREATHE](https://open.spotify.com/artist/610EjgFatGvVPtib97jQ8G) | [Everknown](https://open.spotify.com/album/1Y7aDjyMGak66mefhptdXx) | 4:25 |
 | 109 | [Eras Of Us](https://open.spotify.com/track/3rhwM4lLOCrtx1Sk62QjKi) | [FLETCHER](https://open.spotify.com/artist/5qa31A9HySw3T7MKWI9bGg) | [Eras Of Us](https://open.spotify.com/album/1pDZPFcXoRyVxRsIgziIVX) | 2:48 |
-| 110 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 |
+| 110 | [DUMB](https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [DUMB](https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD) | 3:25 |
 | 111 | [Under the Influence\(r\)](https://open.spotify.com/track/1noQAliwpHxGOv0jfq9UTH) | [The Summer Set](https://open.spotify.com/artist/0pwyD6DhbFWn8uVSz2Fr0w) | [Under the Influence\(r\)](https://open.spotify.com/album/1RuSt8pKCKEOsFxuj24ToK) | 3:15 |
 | 112 | [LIFEBLOOD](https://open.spotify.com/track/1UCIAHa0RAVGY8sOyM6lma) | [VOILÀ](https://open.spotify.com/artist/6NnBBumbcMYsaPTHFhPtXD) | [LIFEBLOOD](https://open.spotify.com/album/3kPyvyNnnP6HA7H4raJmzE) | 4:15 |
 | 113 | [YOU NEEDED A HIT//](https://open.spotify.com/track/5DbBHcdkzRe1HnA132Dp0z) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [YOU NEEDED A HIT//](https://open.spotify.com/album/16Cce1oSCslSILGQCToU0C) | 2:00 |
 | 114 | [Be Your Man](https://open.spotify.com/track/0vUGBxV9t1nNkmdWYDhHOH) | [G Flip](https://open.spotify.com/artist/4SdIXLzfabqU61iK7SnKAU) | [Be Your Man](https://open.spotify.com/album/2FPHRWP6rXfchwyAZCJjAu) | 3:32 |
-| 115 | [DUMB](https://open.spotify.com/track/2Yj6AZv4L4mwbq6ghLjIHm) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [DUMB](https://open.spotify.com/album/1MaFdxIKzqXy265q2Od2YD) | 3:25 |
+| 115 | [BETTER](https://open.spotify.com/track/1Je9meCzTUNxJ8t2tG6x2E) | [People R Ugly](https://open.spotify.com/artist/1kXY7pco0sC6GEgJW9xxyI) | [BETTER](https://open.spotify.com/album/7knkjF5GXG1IkTniG5o7Qy) | 2:35 |
 | 116 | [Don't Get Me Wrong](https://open.spotify.com/track/386DEQx94L5LVXKw4HtSdN) | [Matchbox Twenty](https://open.spotify.com/artist/3Ngh2zDBRPEriyxQDAMKd1) | [Don't Get Me Wrong](https://open.spotify.com/album/4uPRhzjEpqcKAHCFMW3YSm) | 2:53 |
 | 117 | [Communicating](https://open.spotify.com/track/0sLPIQKoiRMzy8DycnMjB1) | [Bad Suns](https://open.spotify.com/artist/0YhUSm86okLWldQVwJkLlP) | [Communicating](https://open.spotify.com/album/5H1cgSVYz8sTHlNVO1jx2t) | 3:08 |
 | 118 | [Through The Landslide](https://open.spotify.com/track/0DxV45nzqlQZjMzbHGdz1Q) | [Grayscale](https://open.spotify.com/artist/6Xq9CIMYWK4RCrMVtfEOM0) | [The Hart](https://open.spotify.com/album/1Z6lchat5qLy21WkX31mr4) | 3:40 |

@@ -1,6 +1,6 @@
 {
   "description": "Get your creative juices flowing with these classical and instrumental masterpieces.",
-  "num_followers": 223656,
+  "num_followers": 223672,
   "original_name": "Creative Focus",
   "owner": {
     "name": "Spotify",
@@ -591,26 +591,6 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
-        "name": "Gjeilo: Winter Light",
-        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
-      },
-      "artists": [
-        {
-          "name": "Ola Gjeilo",
-          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
-        },
-        {
-          "name": "Roberto Sorrentino",
-          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
-        }
-      ],
-      "duration_ms": 170080,
-      "name": "Winter Light",
-      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
-    },
-    {
-      "added_at": "2026-09-04 04:00:54",
-      "album": {
         "name": "Lake Reflections - Music for Flute & Harp",
         "url": "https://open.spotify.com/album/0bvSoJHPw1wfCLd2u4L5VV"
       },
@@ -631,6 +611,26 @@
       "duration_ms": 150415,
       "name": "Schwanenlied",
       "url": "https://open.spotify.com/track/58I1vBvQyCzucuxkMl9Pwc"
+    },
+    {
+      "added_at": "2026-09-04 04:00:54",
+      "album": {
+        "name": "Gjeilo: Winter Light",
+        "url": "https://open.spotify.com/album/4cRiFYfwKFLTdMMdDCv2bR"
+      },
+      "artists": [
+        {
+          "name": "Ola Gjeilo",
+          "url": "https://open.spotify.com/artist/29lbSb4ujaVH5pHnQjFT0G"
+        },
+        {
+          "name": "Roberto Sorrentino",
+          "url": "https://open.spotify.com/artist/0qMo8J1UbKsYkjFjS2PwRH"
+        }
+      ],
+      "duration_ms": 170080,
+      "name": "Winter Light",
+      "url": "https://open.spotify.com/track/0Ko2qQT3o92wj6wVFckr6J"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -815,22 +815,6 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
-        "name": "Harpa Sessions",
-        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
-      },
-      "artists": [
-        {
-          "name": "Gabr\u00edel \u00d3lafs",
-          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
-        }
-      ],
-      "duration_ms": 166250,
-      "name": "Memory - Harpa Sessions",
-      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
-    },
-    {
-      "added_at": "2026-09-04 04:00:54",
-      "album": {
         "name": "Chopin: 12 \u00c9tudes, Op. 10: No. 3 in E Major \"Tristesse\"",
         "url": "https://open.spotify.com/album/33Hnjlzbi2IYumkQ3oVdFo"
       },
@@ -851,22 +835,18 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
-        "name": "I. Allegro moderato",
-        "url": "https://open.spotify.com/album/51i7eo6ivT0dQxYx6eHsVx"
+        "name": "Harpa Sessions",
+        "url": "https://open.spotify.com/album/3Zqumgj3y0lStaZNyZJgCk"
       },
       "artists": [
         {
-          "name": "Baldassare Galuppi",
-          "url": "https://open.spotify.com/artist/65fAk5vQnO9gmOCk2wPkuT"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+          "name": "Gabr\u00edel \u00d3lafs",
+          "url": "https://open.spotify.com/artist/1vYrIm6O7VtBGszIWe75mB"
         }
       ],
-      "duration_ms": 130748,
-      "name": "Passatempo al cembalo, Sonata No. 3 in C Minor: I. Allegro moderato",
-      "url": "https://open.spotify.com/track/3R3d9GdiGr5hYHTIwKaVjw"
+      "duration_ms": 166250,
+      "name": "Memory - Harpa Sessions",
+      "url": "https://open.spotify.com/track/5IdvZgQokqrRjdBZnXwpaM"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -883,6 +863,26 @@
       "duration_ms": 174466,
       "name": "Herr Jesu Christ, mein's Lebens Licht, Chorale Setting for 4 Voices, BWV 335 (Arr. by Chad Lawson for Piano)",
       "url": "https://open.spotify.com/track/5u8ZJK0O0mFp6ae2zcFElR"
+    },
+    {
+      "added_at": "2026-09-04 04:00:54",
+      "album": {
+        "name": "I. Allegro moderato",
+        "url": "https://open.spotify.com/album/51i7eo6ivT0dQxYx6eHsVx"
+      },
+      "artists": [
+        {
+          "name": "Baldassare Galuppi",
+          "url": "https://open.spotify.com/artist/65fAk5vQnO9gmOCk2wPkuT"
+        },
+        {
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
+        }
+      ],
+      "duration_ms": 130748,
+      "name": "Passatempo al cembalo, Sonata No. 3 in C Minor: I. Allegro moderato",
+      "url": "https://open.spotify.com/track/3R3d9GdiGr5hYHTIwKaVjw"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -1159,6 +1159,30 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
+        "name": "Sinfonie Napolitane",
+        "url": "https://open.spotify.com/album/76c3khwtHNzubPiSN5RSkp"
+      },
+      "artists": [
+        {
+          "name": "Giovanni Battista Pergolesi",
+          "url": "https://open.spotify.com/artist/08ewVs9B2qQZ2Gy3xfTFyo"
+        },
+        {
+          "name": "Orchestra da Camera di Napoli",
+          "url": "https://open.spotify.com/artist/3Xvs8dfAyr88DYUupSLITc"
+        },
+        {
+          "name": "Enzo Amato",
+          "url": "https://open.spotify.com/artist/4hqWKF9i5qQvlPA3UpuTIN"
+        }
+      ],
+      "duration_ms": 147120,
+      "name": "Lo frate 'nnamorato: II. Andante",
+      "url": "https://open.spotify.com/track/6xhVf7SgpsCDV0im95XTe3"
+    },
+    {
+      "added_at": "2026-09-04 04:00:54",
+      "album": {
         "name": "Echoes",
         "url": "https://open.spotify.com/album/09TIZ4XM46PFxq133GoFMq"
       },
@@ -1187,30 +1211,6 @@
       "duration_ms": 147264,
       "name": "Echoes",
       "url": "https://open.spotify.com/track/3mKYC2wJ8TOMqbCJYNunr2"
-    },
-    {
-      "added_at": "2026-09-04 04:00:54",
-      "album": {
-        "name": "Sinfonie Napolitane",
-        "url": "https://open.spotify.com/album/76c3khwtHNzubPiSN5RSkp"
-      },
-      "artists": [
-        {
-          "name": "Giovanni Battista Pergolesi",
-          "url": "https://open.spotify.com/artist/08ewVs9B2qQZ2Gy3xfTFyo"
-        },
-        {
-          "name": "Orchestra da Camera di Napoli",
-          "url": "https://open.spotify.com/artist/3Xvs8dfAyr88DYUupSLITc"
-        },
-        {
-          "name": "Enzo Amato",
-          "url": "https://open.spotify.com/artist/4hqWKF9i5qQvlPA3UpuTIN"
-        }
-      ],
-      "duration_ms": 147120,
-      "name": "Lo frate 'nnamorato: II. Andante",
-      "url": "https://open.spotify.com/track/6xhVf7SgpsCDV0im95XTe3"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -1299,6 +1299,30 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
+        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
+        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+      },
+      "artists": [
+        {
+          "name": "Gabriel Faur\u00e9",
+          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+        },
+        {
+          "name": "Jean-Claude Vanden Eynden",
+          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
+        },
+        {
+          "name": "Pierre-Alain Volondat",
+          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+        }
+      ],
+      "duration_ms": 153640,
+      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
+      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
+    },
+    {
+      "added_at": "2026-09-04 04:00:54",
+      "album": {
         "name": "Around The World",
         "url": "https://open.spotify.com/album/6a5OK0q8lpZW1hQgJn9fCm"
       },
@@ -1323,26 +1347,22 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
-        "name": "Musique fran\u00e7aise pour deux pianos et piano \u00e0 quatre mains: Debussy, Faur\u00e9, Milhaud & Ravel",
-        "url": "https://open.spotify.com/album/0Q7atevAbLVN5ddczyOXxf"
+        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
       },
       "artists": [
         {
-          "name": "Gabriel Faur\u00e9",
-          "url": "https://open.spotify.com/artist/2gClsBep1tt1rv1CN210SO"
+          "name": "George Frideric Handel",
+          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
         },
         {
-          "name": "Jean-Claude Vanden Eynden",
-          "url": "https://open.spotify.com/artist/2vmsTRj0IgajXmCE8G5ALg"
-        },
-        {
-          "name": "Pierre-Alain Volondat",
-          "url": "https://open.spotify.com/artist/07ocrn91p26FT9D2A3G8Rn"
+          "name": "Martin Stadtfeld",
+          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
         }
       ],
-      "duration_ms": 153640,
-      "name": "\u00ab Dolly \u00bb, 6 pi\u00e8ces pour piano \u00e0 4 mains, Op. 56: Berceuse",
-      "url": "https://open.spotify.com/track/3y8JVnoRGwFypqrr7pyn6C"
+      "duration_ms": 71262,
+      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
+      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -1371,26 +1391,6 @@
       "duration_ms": 182000,
       "name": "Etude No. 6 (Arr. for Cello Solo and Orchestra by O. Jockel)",
       "url": "https://open.spotify.com/track/6hINBNGWOSTjVCTDUi1RC4"
-    },
-    {
-      "added_at": "2026-09-04 04:00:54",
-      "album": {
-        "name": "H\u00e4ndel: Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-        "url": "https://open.spotify.com/album/4apxJCjtmQUME6ljfVg2iK"
-      },
-      "artists": [
-        {
-          "name": "George Frideric Handel",
-          "url": "https://open.spotify.com/artist/1QL7yTHrdahRMpvNtn6rI2"
-        },
-        {
-          "name": "Martin Stadtfeld",
-          "url": "https://open.spotify.com/artist/2Habwewg0ZpMr2YWSTANE9"
-        }
-      ],
-      "duration_ms": 71262,
-      "name": "Sarabande Piano Meditation (After Sarabande from Suite in D Minor, HWV 437)",
-      "url": "https://open.spotify.com/track/3ep7uabl9lyY5A6JpdgAtl"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -1471,30 +1471,6 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
-        "name": "Glassworks: I. Opening (Arr. for Ensemble by Ang\u00e8le Dubeau and Fran\u00e7ois Valli\u00e8res)",
-        "url": "https://open.spotify.com/album/3NYi6pcxNtjPslQOqlT9HM"
-      },
-      "artists": [
-        {
-          "name": "Philip Glass",
-          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
-        },
-        {
-          "name": "Ang\u00e8le Dubeau",
-          "url": "https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq"
-        },
-        {
-          "name": "La Piet\u00e0",
-          "url": "https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj"
-        }
-      ],
-      "duration_ms": 456586,
-      "name": "Glassworks: I. Opening (Arr. for Ensemble by Ang\u00e8le Dubeau and Fran\u00e7ois Valli\u00e8res)",
-      "url": "https://open.spotify.com/track/555HfevWXA1wFKLNCcCExq"
-    },
-    {
-      "added_at": "2026-09-04 04:00:54",
-      "album": {
         "name": "Sibelius: Violin Concerto; Prokofiev: Violin Concerto No. 1",
         "url": "https://open.spotify.com/album/0fJXrHy6ehWMoxSlHuguF2"
       },
@@ -1515,6 +1491,30 @@
       "duration_ms": 47760,
       "name": "Water Drops, JS 216",
       "url": "https://open.spotify.com/track/0Lmnw6Rc0lCMup7rQ2nRMY"
+    },
+    {
+      "added_at": "2026-09-04 04:00:54",
+      "album": {
+        "name": "Glassworks: I. Opening (Arr. for Ensemble by Ang\u00e8le Dubeau and Fran\u00e7ois Valli\u00e8res)",
+        "url": "https://open.spotify.com/album/3NYi6pcxNtjPslQOqlT9HM"
+      },
+      "artists": [
+        {
+          "name": "Philip Glass",
+          "url": "https://open.spotify.com/artist/69lxxQvsfAIoQbB20bEPFC"
+        },
+        {
+          "name": "Ang\u00e8le Dubeau",
+          "url": "https://open.spotify.com/artist/3aKoUd44IrrqOa6Rzn9Ybq"
+        },
+        {
+          "name": "La Piet\u00e0",
+          "url": "https://open.spotify.com/artist/3ZiiIxwcdE60xHzCQ35ewj"
+        }
+      ],
+      "duration_ms": 456586,
+      "name": "Glassworks: I. Opening (Arr. for Ensemble by Ang\u00e8le Dubeau and Fran\u00e7ois Valli\u00e8res)",
+      "url": "https://open.spotify.com/track/555HfevWXA1wFKLNCcCExq"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -1639,30 +1639,6 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
-        "name": "Suk: Fantasy - Schubert: Rondo - Mendelssohn: Violin Concerto in D minor",
-        "url": "https://open.spotify.com/album/1TZim7ezJVGyJAlLN9TiY5"
-      },
-      "artists": [
-        {
-          "name": "Felix Mendelssohn",
-          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
-        },
-        {
-          "name": "Czech Philharmonic Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
-        },
-        {
-          "name": "Jan Mr\u00e1\u010dek",
-          "url": "https://open.spotify.com/artist/5Zg8xN1m1QhbC8y3HMQ5du"
-        }
-      ],
-      "duration_ms": 455266,
-      "name": "Violin Concerto in D Minor, MWV O 3: II. Andante",
-      "url": "https://open.spotify.com/track/2CSiPU14mBoP6TdyEWBKYH"
-    },
-    {
-      "added_at": "2026-09-04 04:00:54",
-      "album": {
         "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
         "url": "https://open.spotify.com/album/3IabT6Sk0Bmg0ELcLxQ0fS"
       },
@@ -1683,6 +1659,30 @@
       "duration_ms": 138040,
       "name": "Canon in D Variation (From Canon in D Major, P. 37/T. 337, Arr. for Piano and Violin by Svetoslav Karparov)",
       "url": "https://open.spotify.com/track/20w3NJjTyToeNiwTXtpgY1"
+    },
+    {
+      "added_at": "2026-09-04 04:00:54",
+      "album": {
+        "name": "Suk: Fantasy - Schubert: Rondo - Mendelssohn: Violin Concerto in D minor",
+        "url": "https://open.spotify.com/album/1TZim7ezJVGyJAlLN9TiY5"
+      },
+      "artists": [
+        {
+          "name": "Felix Mendelssohn",
+          "url": "https://open.spotify.com/artist/6MF58APd3YV72Ln2eVg710"
+        },
+        {
+          "name": "Czech Philharmonic Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/15TbaQl7va7MrUviXt4l7M"
+        },
+        {
+          "name": "Jan Mr\u00e1\u010dek",
+          "url": "https://open.spotify.com/artist/5Zg8xN1m1QhbC8y3HMQ5du"
+        }
+      ],
+      "duration_ms": 455266,
+      "name": "Violin Concerto in D Minor, MWV O 3: II. Andante",
+      "url": "https://open.spotify.com/track/2CSiPU14mBoP6TdyEWBKYH"
     },
     {
       "added_at": "2026-09-04 04:00:54",
@@ -2319,26 +2319,6 @@
     {
       "added_at": "2026-09-04 04:00:54",
       "album": {
-        "name": "Beeftink: Frequency",
-        "url": "https://open.spotify.com/album/7ALl8ZD017wmVyQSuOhdbQ"
-      },
-      "artists": [
-        {
-          "name": "Herman Beeftink",
-          "url": "https://open.spotify.com/artist/2FS7z1DsLrJIlEAbTMOOuG"
-        },
-        {
-          "name": "Emissary Quartet",
-          "url": "https://open.spotify.com/artist/35pqsv6kqCKUshiLlrZuhe"
-        }
-      ],
-      "duration_ms": 378040,
-      "name": "Frequency",
-      "url": "https://open.spotify.com/track/7EDCHN0RxNGUyAyTZiTSxA"
-    },
-    {
-      "added_at": "2026-09-04 04:00:54",
-      "album": {
         "name": "Klassieke Muziek voor Zondagochtend",
         "url": "https://open.spotify.com/album/3dL5xXrW6tsjQNH6rml5Rn"
       },
@@ -2355,6 +2335,26 @@
       "duration_ms": 96786,
       "name": "Valses Po\u00e9ticos H. 147, DLR 7:8: No. 1: Mel\u00f3dico",
       "url": "https://open.spotify.com/track/1UT4F8DOvzM616ZTOm1z6s"
+    },
+    {
+      "added_at": "2026-09-04 04:00:54",
+      "album": {
+        "name": "Beeftink: Frequency",
+        "url": "https://open.spotify.com/album/7ALl8ZD017wmVyQSuOhdbQ"
+      },
+      "artists": [
+        {
+          "name": "Herman Beeftink",
+          "url": "https://open.spotify.com/artist/2FS7z1DsLrJIlEAbTMOOuG"
+        },
+        {
+          "name": "Emissary Quartet",
+          "url": "https://open.spotify.com/artist/35pqsv6kqCKUshiLlrZuhe"
+        }
+      ],
+      "duration_ms": 378040,
+      "name": "Frequency",
+      "url": "https://open.spotify.com/track/7EDCHN0RxNGUyAyTZiTSxA"
     },
     {
       "added_at": "2026-09-04 04:00:54",

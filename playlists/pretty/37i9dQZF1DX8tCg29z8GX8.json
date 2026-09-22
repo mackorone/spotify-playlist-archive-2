@@ -1,6 +1,6 @@
 {
   "description": "mate- Bus stop!",
-  "num_followers": 21810,
+  "num_followers": 21823,
   "original_name": "Troski Rhythms",
   "owner": {
     "name": "Spotify",
@@ -335,18 +335,18 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+        "name": "Gen Z",
+        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
       },
       "artists": [
         {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
         }
       ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+      "duration_ms": 145555,
+      "name": "Gen Z",
+      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -367,6 +367,22 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+    },
+    {
+      "added_at": "2026-09-11 00:01:44",
+      "album": {
         "name": "Puul",
         "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
       },
@@ -379,22 +395,6 @@
       "duration_ms": 172486,
       "name": "Puul",
       "url": "https://open.spotify.com/track/5JGGx9Lv5VqXSGsuiOtIfZ"
-    },
-    {
-      "added_at": "2026-09-11 00:01:44",
-      "album": {
-        "name": "Gen Z",
-        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 145555,
-      "name": "Gen Z",
-      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -755,22 +755,6 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
-        "name": "The Interface (Shatta Music Genre)",
-        "url": "https://open.spotify.com/album/6m4SzULX5PaOIw6zQKmyFl"
-      },
-      "artists": [
-        {
-          "name": "Shatta Wale",
-          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
-        }
-      ],
-      "duration_ms": 151288,
-      "name": "Yawa Ni (shatta music)",
-      "url": "https://open.spotify.com/track/7IveKHTxWlPKm3TJOBqo27"
-    },
-    {
-      "added_at": "2026-09-11 00:01:44",
-      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
       },
@@ -787,6 +771,22 @@
       "duration_ms": 143119,
       "name": "IDK (with Sarkodie)",
       "url": "https://open.spotify.com/track/1GHsOfL6Sx8NxKHSEbpVpr"
+    },
+    {
+      "added_at": "2026-09-11 00:01:44",
+      "album": {
+        "name": "The Interface (Shatta Music Genre)",
+        "url": "https://open.spotify.com/album/6m4SzULX5PaOIw6zQKmyFl"
+      },
+      "artists": [
+        {
+          "name": "Shatta Wale",
+          "url": "https://open.spotify.com/artist/42q0rYXtR561ypg1Fcw1PI"
+        }
+      ],
+      "duration_ms": 151288,
+      "name": "Yawa Ni (shatta music)",
+      "url": "https://open.spotify.com/track/7IveKHTxWlPKm3TJOBqo27"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -851,6 +851,22 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
+        "name": "Their Back",
+        "url": "https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6"
+      },
+      "artists": [
+        {
+          "name": "Medikal",
+          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
+        }
+      ],
+      "duration_ms": 161320,
+      "name": "Their Back",
+      "url": "https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf"
+    },
+    {
+      "added_at": "2026-09-11 00:01:44",
+      "album": {
         "name": "VOICE OF THE CROWN (African Dancehall)",
         "url": "https://open.spotify.com/album/0Aq2tzc8YQrh4WICENVYq5"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 167067,
       "name": "EASY",
       "url": "https://open.spotify.com/track/0zGx4JuFITnZggFoEWuXUh"
-    },
-    {
-      "added_at": "2026-09-11 00:01:44",
-      "album": {
-        "name": "Their Back",
-        "url": "https://open.spotify.com/album/0P7Uw0YVBINiCs68fJ5ax6"
-      },
-      "artists": [
-        {
-          "name": "Medikal",
-          "url": "https://open.spotify.com/artist/0pPz4oYqGp2Co2Sx7ORiYL"
-        }
-      ],
-      "duration_ms": 161320,
-      "name": "Their Back",
-      "url": "https://open.spotify.com/track/7naxFaRA0NQUTOGaSSKqQf"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -955,6 +955,22 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
+        "name": "Catching Glory",
+        "url": "https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E"
+      },
+      "artists": [
+        {
+          "name": "Lalid",
+          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
+        }
+      ],
+      "duration_ms": 106997,
+      "name": "Catching Glory",
+      "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
+    },
+    {
+      "added_at": "2026-09-11 00:01:44",
+      "album": {
         "name": "BALENCIAGA II",
         "url": "https://open.spotify.com/album/4ZDzI9tLDiRfd2zL5XmQug"
       },
@@ -983,22 +999,6 @@
       "duration_ms": 301530,
       "name": "BALENCIAGA II",
       "url": "https://open.spotify.com/track/1NPH6x3Pb3ByklHyaA5MGV"
-    },
-    {
-      "added_at": "2026-09-11 00:01:44",
-      "album": {
-        "name": "Catching Glory",
-        "url": "https://open.spotify.com/album/3HESFwZUTupThlVV2z1v6E"
-      },
-      "artists": [
-        {
-          "name": "Lalid",
-          "url": "https://open.spotify.com/artist/18eUnEkhFO7mnMNDURU1UV"
-        }
-      ],
-      "duration_ms": 106997,
-      "name": "Catching Glory",
-      "url": "https://open.spotify.com/track/7aTLWKCUqDv6BPPdkww0x8"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
-        "name": "CAME OF AGE",
-        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
-      },
-      "artists": [
-        {
-          "name": "O'Kenneth",
-          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
-        }
-      ],
-      "duration_ms": 143592,
-      "name": "MENTUMI NKA",
-      "url": "https://open.spotify.com/track/347kmwy6oj6or4Nmo0Ao3v"
-    },
-    {
-      "added_at": "2026-09-11 00:01:44",
-      "album": {
         "name": "Perfect Combi & Naana",
         "url": "https://open.spotify.com/album/6nFn6Yq8eq2UYaU0Lkteiv"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 181063,
       "name": "Perfect Combi",
       "url": "https://open.spotify.com/track/1rHPk2p3MQTh2wloo3P9zE"
+    },
+    {
+      "added_at": "2026-09-11 00:01:44",
+      "album": {
+        "name": "CAME OF AGE",
+        "url": "https://open.spotify.com/album/1WEt6ZRsPzCTQqmRGgaRID"
+      },
+      "artists": [
+        {
+          "name": "O'Kenneth",
+          "url": "https://open.spotify.com/artist/3EyOT8FSuINDoWYHfm8TIM"
+        }
+      ],
+      "duration_ms": 143592,
+      "name": "MENTUMI NKA",
+      "url": "https://open.spotify.com/track/347kmwy6oj6or4Nmo0Ao3v"
     },
     {
       "added_at": "2026-09-11 00:01:44",
@@ -1131,22 +1131,6 @@
     {
       "added_at": "2026-09-11 00:01:44",
       "album": {
-        "name": "TREASURE",
-        "url": "https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 132000,
-      "name": "TREASURE",
-      "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
-    },
-    {
-      "added_at": "2026-09-11 00:01:44",
-      "album": {
         "name": "Where Do We Go From Here",
         "url": "https://open.spotify.com/album/0amZp5xPOzIaq0LqhhP5xD"
       },
@@ -1159,6 +1143,22 @@
       "duration_ms": 157388,
       "name": "Lord Knows",
       "url": "https://open.spotify.com/track/50WatJSHFkVXWYt1yHyJVw"
+    },
+    {
+      "added_at": "2026-09-11 00:01:44",
+      "album": {
+        "name": "TREASURE",
+        "url": "https://open.spotify.com/album/496b5N0z6i4Z2il9yd1qnT"
+      },
+      "artists": [
+        {
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "TREASURE",
+      "url": "https://open.spotify.com/track/3arRudOsaktr2TIHIBrrPW"
     },
     {
       "added_at": "2026-09-11 00:01:44",

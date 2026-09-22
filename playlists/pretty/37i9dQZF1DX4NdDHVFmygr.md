@@ -2,27 +2,27 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 
 ### [Hit Maghribi](https://open.spotify.com/playlist/37i9dQZF1DX4NdDHVFmygr)
 
-> Les hits marocains du moment\. Cover: Mirv48
+> Les hits marocains du moment\. Cover: Draganov, TIF
 
-[Spotify](https://open.spotify.com/user/spotify) - 152,796 likes - 50 songs - 2 hr 32 min
+[Spotify](https://open.spotify.com/user/spotify) - 153,007 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [WA3RA](https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [WA3RA](https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8) | 2:21 |
-| 2 | [TITIZ A KHAY](https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [TITIZ A KHAY](https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb) | 3:09 |
-| 3 | [SATA 9TTALA](https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:33 |
-| 4 | [PILLAVE](https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [PILLAVE](https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6) | 2:33 |
-| 5 | [LAMARA](https://open.spotify.com/track/2L3tTR70X3MTvBbU3Mcor6) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [LAMARA](https://open.spotify.com/album/2kWkiUrRJmA6ovFfiOCeGG) | 2:59 |
+| 1 | [KILOWAT](https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:44 |
+| 2 | [WA3RA](https://open.spotify.com/track/11MYMwWGKHlq1SSnKB6mQY) | [Mirv48](https://open.spotify.com/artist/2ORmu3PJ825VSiXknGy6Ma) | [WA3RA](https://open.spotify.com/album/19yoWQ361CpjXcqwJCdFC8) | 2:21 |
+| 3 | [LAMARA](https://open.spotify.com/track/2L3tTR70X3MTvBbU3Mcor6) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Inkonnu](https://open.spotify.com/artist/7ggM69yllqpMykcU8Tror4) | [LAMARA](https://open.spotify.com/album/2kWkiUrRJmA6ovFfiOCeGG) | 2:59 |
+| 4 | [GHALAT](https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [FALLEN ANGEL](https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4) | 2:44 |
+| 5 | [Couci Couca](https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [TIF](https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH) | [UFUL](https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3) | 3:05 |
 | 6 | [ZOMBIE](https://open.spotify.com/track/4YpKnKyw5tg3t2lezIEp3P) | [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [ZOMBIE](https://open.spotify.com/album/2M5qbTJoasDJgZpOW7fvXa) | 2:58 |
-| 7 | [DEMMI MARROKI](https://open.spotify.com/track/5hXEWgtPJU7Mb4Pxyy1I78) | [Bayadis](https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [DEMMI MARROKI](https://open.spotify.com/album/4AFycsh0gHON9Z6tZztAUp) | 3:31 |
-| 8 | [AGOGO](https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AGOGO](https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl) | 3:07 |
-| 9 | [Cheraniya](https://open.spotify.com/track/3EwiqimqS7nPvWExYo3jx1) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Cheraniya](https://open.spotify.com/album/2C0dO2uVSXLigLwcdxOErk) | 2:50 |
-| 10 | [Chlahbiya](https://open.spotify.com/track/30U031LnjvezZQZu9eSexR) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Chlahbiya](https://open.spotify.com/album/0YXWg7nVytp6QE9yjKJU4S) | 3:14 |
-| 11 | [KILOWAT](https://open.spotify.com/track/5m5HDOt6RIKVsBGAm2uyN0) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 2:44 |
-| 12 | [GHALAT](https://open.spotify.com/track/7JKvIKNiyaBlG1pLTuVZPd) | [Najm](https://open.spotify.com/artist/06zZhrjGip0peNfom4XCYI), [ElGrandeToto](https://open.spotify.com/artist/4BFLElxtBEdsdwGA1kHTsx) | [FALLEN ANGEL](https://open.spotify.com/album/6YMzwkmTlrYa6nNBhJQ8b4) | 2:44 |
-| 13 | [LALLAMOULATI](https://open.spotify.com/track/4POLmYRdKueIekaWLPZsEu) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [LALLAMOULATI](https://open.spotify.com/album/0FvCxvIwXzYXOwkxOThhkx) | 3:11 |
-| 14 | [GENDARMIA](https://open.spotify.com/track/0Ue7OnQYG5r3S8Q3o0HF2L) | [Lartiste](https://open.spotify.com/artist/6HhnhnxLsowYuuejvku0Bz), [Benny Adam](https://open.spotify.com/artist/31Gbv2WFzy6QX0X6DkGiHA), [Maestro](https://open.spotify.com/artist/3AedzP6n5KkqwyseKI5XOF), [Ayoub Anbaoui](https://open.spotify.com/artist/2XgBaGUId4RuYzvXYEKikZ), [Sofia Marikh](https://open.spotify.com/artist/0WxY1I56V69ZoSGFNmn77d) | [GENDARMIA](https://open.spotify.com/album/1DNqeO3UCKB4ly2mtvQHtR) | 4:23 |
-| 15 | [Dorororo](https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Dorororo](https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br) | 2:44 |
+| 7 | [PILLAVE](https://open.spotify.com/track/6oAXsyL0b1vm5G43jcfNa6) | [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [PILLAVE](https://open.spotify.com/album/0MXsE7FbxHDgzAeqfglpe6) | 2:33 |
+| 8 | [SATA 9TTALA](https://open.spotify.com/track/2CxG2gBTQog41ZLJuFj5jo) | [Stormy](https://open.spotify.com/artist/5Do9u0GoN4gFn6Nk8NGDhh), [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [DESPERADO](https://open.spotify.com/album/3Fhd5mu9DDnph1m4j9Hioo) | 3:33 |
+| 9 | [AGOGO](https://open.spotify.com/track/3JoLDRWBBqGpGgOurrya6q) | [7ari](https://open.spotify.com/artist/292jMVlKq180yzi8WRaVU6) | [AGOGO](https://open.spotify.com/album/6pI6IwMoJ22KvSHLJ1Qwzl) | 3:07 |
+| 10 | [DEMMI MARROKI](https://open.spotify.com/track/5hXEWgtPJU7Mb4Pxyy1I78) | [Bayadis](https://open.spotify.com/artist/3wH1WgRZB3Ld4EEriSqRfU), [3robi](https://open.spotify.com/artist/51MxI9mWmRMPLK9eNlyQ7o), [Tawsen](https://open.spotify.com/artist/76wDwepIombkHCdm0kas1h) | [DEMMI MARROKI](https://open.spotify.com/album/4AFycsh0gHON9Z6tZztAUp) | 3:31 |
+| 11 | [Cheraniya](https://open.spotify.com/track/3EwiqimqS7nPvWExYo3jx1) | [Douaa Lahyaoui](https://open.spotify.com/artist/3kd62SrugthLOzen7XmzG6) | [Cheraniya](https://open.spotify.com/album/2C0dO2uVSXLigLwcdxOErk) | 2:50 |
+| 12 | [LALLAMOULATI](https://open.spotify.com/track/4POLmYRdKueIekaWLPZsEu) | [Dizzy DROS](https://open.spotify.com/artist/5eA2wbwYcQ2iOJ3uc8byIh), [Nada](https://open.spotify.com/artist/4SQSwL1HBTwXTLM7F1fj3G) | [LALLAMOULATI](https://open.spotify.com/album/0FvCxvIwXzYXOwkxOThhkx) | 3:11 |
+| 13 | [Chlahbiya](https://open.spotify.com/track/30U031LnjvezZQZu9eSexR) | [Mounim Slimani](https://open.spotify.com/artist/2UaKdyrJWdpkRl9KbwcN38) | [Chlahbiya](https://open.spotify.com/album/0YXWg7nVytp6QE9yjKJU4S) | 3:14 |
+| 14 | [Dorororo](https://open.spotify.com/track/526tgI4eIwuJWoZj5GrD0e) | [Gustavo 51](https://open.spotify.com/artist/2rHNFU9YnHNRjqpcT6VxPY) | [Dorororo](https://open.spotify.com/album/4Bk1C7LOBtWUTXnnwFx3Br) | 2:44 |
+| 15 | [TITIZ A KHAY](https://open.spotify.com/track/16xiB5rTkzezSxtLqawm1W) | [Zouhair Bahaoui](https://open.spotify.com/artist/0CaWnepnGfVPs8uNwOzav6), [LAZARO](https://open.spotify.com/artist/471CLfthkGwHrnegKOcTbx) | [TITIZ A KHAY](https://open.spotify.com/album/2CpnN1D3TyHLnQJqut6TFb) | 3:09 |
 | 16 | [Tach](https://open.spotify.com/track/3rV8MANOSXW2BnskGzpggB) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ) | [Tach](https://open.spotify.com/album/2ZMe4OmL7R51leJ0RswRSl) | 3:25 |
 | 17 | [KALIMAT](https://open.spotify.com/track/1JxvJa1Eu2NUM8DChk79lp) | [Manal](https://open.spotify.com/artist/7yK3vix9XmeNwPDmjGs78F) | [KALIMAT](https://open.spotify.com/album/4m1HeXVka3qZXRiEz792br) | 3:12 |
 | 18 | [Manzakine](https://open.spotify.com/track/1ExnYU3XbOW7mEIfaNeKX0) | [Draganov](https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ), [Hajib](https://open.spotify.com/artist/4AJJyl9SLTjnRqzCGf0t6W) | [MANZAKINE x FIDÈLE](https://open.spotify.com/album/0hTLU8ZZhkjnXC1hPRawDm) | 2:57 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4NdDHVFmygr.md) - [plain]
 | 49 | [El Hlawa](https://open.spotify.com/track/6GO2By21Bc9nWETXxhCHvN) | [Bayzii](https://open.spotify.com/artist/248jAcp7aN3rtO4Kq5rUsU) | [El Hlawa](https://open.spotify.com/album/3nzMdlYU0HMchzRzajMAtH) | 3:12 |
 | 50 | [Amnésie](https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2) | [ZAKLOOW](https://open.spotify.com/artist/1YXtbOgnaz82aSuMnWSukx), [Tagne](https://open.spotify.com/artist/3977Z9BZCFbJQYwdIdVwgc), [Shaw](https://open.spotify.com/artist/22XDOoz1O9YU6Ekq5FEcK1) | [SYMPHONY IX](https://open.spotify.com/album/4OvkJaCZiDU2MNTYxu91RG) | 2:44 |
 
-Snapshot ID: `AAAAADADx1nQH0jtLlLqlghdRxuaac97`
+Snapshot ID: `AAAAAMd0jXximFShNZ8Q1+wpIxIClIuB`

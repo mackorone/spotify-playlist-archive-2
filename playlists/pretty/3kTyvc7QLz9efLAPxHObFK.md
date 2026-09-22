@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 
 > 
 
-[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,188 songs - 6 day 20 hr 2 min
+[Jesseka](https://open.spotify.com/user/5lq67nr0vc0gixnu4gjw2cxx6) - 19 likes - 3,190 songs - 6 day 20 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -3196,5 +3196,7 @@ pretty - [cumulative](/playlists/cumulative/3kTyvc7QLz9efLAPxHObFK.md) - [plain]
 | 3186 | [Rhythm Is My Key](https://open.spotify.com/track/0wtYlgL4dbZi2417Z9dDS9) | [Samuel Moriero](https://open.spotify.com/artist/1c0DczTIcjLtkHHWNuXxdI), [Vortek's](https://open.spotify.com/artist/6Ztv937rk7iQxBObBW9ye0) | [Rhythm Is My Key](https://open.spotify.com/album/62LfdzsLsc2wF7CT3evGtB) | 3:30 |
 | 3187 | [Ascension](https://open.spotify.com/track/4yspSVpO5IpEBTsMyDqUde) | [Krysis](https://open.spotify.com/artist/6hABDXl01y3emJbOCigCVG), [J\-Stranger](https://open.spotify.com/artist/5mOeIIdBZC9D0A7m1qDl73) | [Ascension](https://open.spotify.com/album/6zE8IU8B9qTBzNoAVoolwW) | 3:21 |
 | 3188 | [Let You Go](https://open.spotify.com/track/4Im2UkS32aOdleo2rPGRSI) | [Deadly Guns](https://open.spotify.com/artist/1RsU9zuGACUb1NGShiFpcP) | [Let You Go](https://open.spotify.com/album/55grqWLVREV5VoPPDC4hM6) | 2:30 |
+| 3189 | [Just The Way You Are](https://open.spotify.com/track/6Q40wOVD1CN9th89QbXGOJ) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [Just The Way You Are](https://open.spotify.com/album/1uDbB7gK6vw2XlRYjYrVms) | 1:52 |
+| 3190 | [Concrete Break](https://open.spotify.com/track/3xMCvWASoA5StWbvtqZjFN) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Concrete Break](https://open.spotify.com/album/0FP5xcqdxPwjeiukBcjS1R) | 3:06 |
 
-Snapshot ID: `AAAM3T4w4x2BkReP2BEyIBhQgz4ULsmt`
+Snapshot ID: `AAAM35xYy7f0R9fqTRX58MI+44vPzJ5N`

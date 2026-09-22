@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 
 > The best new indie music, indie folk &amp; rock discoveries\. Fresh songs for your daily chill, focus and road trips\. Featuring Noah Kahan, Phoebe Bridgers, Sam Fender and top emerging indie artists\. Updated daily with new releases — hit save to stay tuned!
 
-[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,333 likes - 71 songs - 4 hr 12 min
+[Monnison](https://open.spotify.com/user/7c37cevjdgq8d2gvhiqat37ss) - 1,332 likes - 78 songs - 4 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -79,5 +79,12 @@ pretty - [cumulative](/playlists/cumulative/3DbmPWZfeNgRdLUWyee6KB.md) - [plain]
 | 69 | [Sadé Blade](https://open.spotify.com/track/6nFN1ewrrDbOyrWZ0me3jT) | [Citrus pop](https://open.spotify.com/artist/0EREt3VQhcJR27KlQIGOQ9) | [Sadé Blade](https://open.spotify.com/album/0F5nPvnRleywtSvOcbkjkT) | 2:20 |
 | 70 | [What About Now](https://open.spotify.com/track/0Fk4WKxOlbysiPIVARm0Lu) | [Gemma Cox](https://open.spotify.com/artist/5UHDRNiF6EMuzrtSq7tbXF) | [What About Now](https://open.spotify.com/album/4myIM1idgTbgMWXLChmzd6) | 3:34 |
 | 71 | [E' certo che sei tu](https://open.spotify.com/track/5MAIG3h5lT4rjPm5LXjEAP) | [Enrchi](https://open.spotify.com/artist/4BMds5PsgG9TmbEnXjeaGu) | [Pieno Di Luci E Di Colori](https://open.spotify.com/album/4CZGmN3nPBpTAlU4oQv5SO) | 3:50 |
+| 72 | [You're Not Listening](https://open.spotify.com/track/4p3QyVpciaBN8Jd9CkspTh) | [Mister Chorister](https://open.spotify.com/artist/2gj1byWvrljHj1FWzSWXUd) | [You're Not Listening](https://open.spotify.com/album/1IuKFd4hXYmP8BOqQJWczc) | 3:38 |
+| 73 | [Yağmura Tutuldum](https://open.spotify.com/track/4JfwRUCk8uisoHLBfVDkCs) | [Burçak Erakalın](https://open.spotify.com/artist/3imZvC32TSoGtkP2XlTAnI) | [Yağmura Tutuldum](https://open.spotify.com/album/64MvEWVgw4PNK9WEO1RfH9) | 3:19 |
+| 74 | [Blood in my eyes](https://open.spotify.com/track/0dUWzsKHWQw0wZvhThpVpy) | [Lucia Longhi](https://open.spotify.com/artist/0NkaQYJrOuGSeE6HFjBiqx) | [Blood in my eyes](https://open.spotify.com/album/0LtcnheJT6OKHjCmWuZuOs) | 4:02 |
+| 75 | [days like this](https://open.spotify.com/track/26XminzCDpGt5DUHEGZSMA) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [lindsay elizabeth](https://open.spotify.com/artist/0Xkg8TCB0Xfqypnz559jat) | [days like this](https://open.spotify.com/album/4fxU7HuDwMiVlbHPL9afNU) | 2:20 |
+| 76 | [Desillusions](https://open.spotify.com/track/2ZsWrZhKC6xRdlfm4Yx9Rj) | [Eric Hartereau](https://open.spotify.com/artist/05AKy1V7dOPuFuzLZHRtu7) | [Accroche toi](https://open.spotify.com/album/16ppv7cPXmMdz8lB9hPKYg) | 3:33 |
+| 77 | [I Feel Alone](https://open.spotify.com/track/6sNzk4tIoaJc6NtcKwLC5d) | [Jared Burris](https://open.spotify.com/artist/1E5h6hhhvLosMZ2rOELTiJ) | [I Feel Alone](https://open.spotify.com/album/4kO5uEKSrbnrlhNafiqxFO) | 3:55 |
+| 78 | [Alma](https://open.spotify.com/track/5DP2ZkFiT0vX7lAm79K4Gy) | [João Nuno Teixeira](https://open.spotify.com/artist/3QLiFtyjhKwaqe9ReItJ3c) | [Alma](https://open.spotify.com/album/6TRs3FnmLxtYYinz68XOr6) | 3:55 |
 
-Snapshot ID: `AAAYM2anE6LI1iQnsDvEpW6RYjCFrcYg`
+Snapshot ID: `AAAYOnNyMt7RqvFqKJfY7aN73gKGJXPi`

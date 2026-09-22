@@ -1,6 +1,6 @@
 {
   "description": "Kings Of Leon en portada.",
-  "num_followers": 679039,
+  "num_followers": 678972,
   "original_name": "el indie no es un g\u00e9nero ",
   "owner": {
     "name": "Spotify",
@@ -419,22 +419,6 @@
     {
       "added_at": "2026-09-11 06:00:11",
       "album": {
-        "name": "Ugly things",
-        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
-      },
-      "artists": [
-        {
-          "name": "Lizzy McAlpine",
-          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
-        }
-      ],
-      "duration_ms": 209924,
-      "name": "Ugly things",
-      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
-    },
-    {
-      "added_at": "2026-09-11 06:00:11",
-      "album": {
         "name": "Let's Go Back",
         "url": "https://open.spotify.com/album/7CRD6yQGeaAmA5AVXluBul"
       },
@@ -447,6 +431,22 @@
       "duration_ms": 169651,
       "name": "Let's Go Back",
       "url": "https://open.spotify.com/track/3fvZo45Y28ly1QBo05pujJ"
+    },
+    {
+      "added_at": "2026-09-11 06:00:11",
+      "album": {
+        "name": "Ugly things",
+        "url": "https://open.spotify.com/album/4RAKLQJYLEDwVK1EnsBLEv"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "duration_ms": 209924,
+      "name": "Ugly things",
+      "url": "https://open.spotify.com/track/0ANotAkjPrCjfbdqwqSaSK"
     },
     {
       "added_at": "2026-09-11 06:00:11",

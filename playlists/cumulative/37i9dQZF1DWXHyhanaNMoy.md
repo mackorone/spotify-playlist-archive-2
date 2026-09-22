@@ -4,7 +4,7 @@
 
 > Motion & good vibes! Cover: Rema
 
-1,864 songs - 3 day 10 hr 19 min
+1,865 songs - 3 day 10 hr 21 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -406,7 +406,7 @@
 | [Cooking With Kya](https://open.spotify.com/track/611Qb10r4UuFacAHn7nnCW) | [Issairo](https://open.spotify.com/artist/5plDUJR66Vb8TYzXu9L1YV), [Kalibwoy](https://open.spotify.com/artist/3xhksfxjNLUAyxUdijvk4x) | [Cooking With Kya](https://open.spotify.com/album/0OgjrPx9xeSTZB1v7Gvl9L) | 2:30 | 2025-04-03 | 2025-04-25 |
 | [Coqueta](https://open.spotify.com/track/7IMJvDgfzpqUMcgeGb8EAk) | [Jones Suave](https://open.spotify.com/artist/0lui1pVpLAap3nxrMXmFwo), [Badboygoodvibes](https://open.spotify.com/artist/1HIMRZqxPjlZLjzuWt3lR3), [El Lider](https://open.spotify.com/artist/4e2q8btT3KY7t4txFTgSTh) | [Coqueta](https://open.spotify.com/album/3oTihYYr0UWfCdBYjTwhVi) | 2:30 | 2025-07-03 | 2025-07-18 |
 | [Corna](https://open.spotify.com/track/05otJSIoIulb1FMMTYNQ9L) | [Giniio](https://open.spotify.com/artist/1iSUoJSoYDqjIO5P1CdPfM) | [Corna](https://open.spotify.com/album/1wXOyOTNp6icN62acnmTa3) | 2:35 | 2025-11-27 | 2026-01-23 |
-| [Costa](https://open.spotify.com/track/0jaS6wxthlnHkkHXfHq9w9) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Costa](https://open.spotify.com/album/1mT6lw7FeTgYztmPUVfqup) | 3:14 | 2026-09-17 |  |
+| [Costa](https://open.spotify.com/track/0jaS6wxthlnHkkHXfHq9w9) | [2mochh](https://open.spotify.com/artist/0Rco3YiEW2pB9JGHeVhLJk), [Bryan Mg](https://open.spotify.com/artist/1PyToLP6F2rzV0ZSR71lgl) | [Costa](https://open.spotify.com/album/1mT6lw7FeTgYztmPUVfqup) | 3:14 | 2026-09-17 | 2026-09-22 |
 | [Coucou](https://open.spotify.com/track/2SihVopuJ1Bs5gPKuFfvkg) | [LA MAIN SUR LE COEUR](https://open.spotify.com/artist/1FDWrio927Urs33O7dkhef), [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg) | [Coucou](https://open.spotify.com/album/6RWZB3cgbF3OEQvPd4K4rj) | 2:13 | 2024-10-24 | 2024-11-15 |
 | [Cough \(Odo\)](https://open.spotify.com/track/0u2A4QNAMUyfQbgfVR3HvK) | [Kizz Daniel](https://open.spotify.com/artist/1X6cBGnXpEpN7CmflLKmLV), [EMPIRE](https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD) | [Cough \(Odo\)](https://open.spotify.com/album/3j33Z0rLryDGCZFRhppoZq) | 2:56 | 2022-11-18 | 2023-04-07 |
 | [COUPE](https://open.spotify.com/track/4JeAs684oKNPTe4zOiOP2P) | [OCS](https://open.spotify.com/artist/6eFyS3cm4ANCbAuxQNl7ap), [Burleson](https://open.spotify.com/artist/2LrUyWIbWXIs6rruqS8rw8), [Bailey KBC](https://open.spotify.com/artist/3Cf9anMB3CrNzdcOgeLVC4), [JANE](https://open.spotify.com/artist/4ElOcm04vCIg9rGUWsJ9qe), [TJWAVE](https://open.spotify.com/artist/2N42z0vPgDduoGlO4opnmV) | [COUPE](https://open.spotify.com/album/12FvmyX5gaQ2zgqmscQV1k) | 1:52 | 2026-06-25 |  |
@@ -1127,6 +1127,7 @@
 | [Mozer Is Nijba](https://open.spotify.com/track/3GUs0BS7fxbSOZHez5ow9O) | [Keess](https://open.spotify.com/artist/6Dhjz5IwumzpmeyPCT0jBp), [ValsBezig](https://open.spotify.com/artist/4tGJvDWhLFxzKRi94gc4a4), [D\-opss](https://open.spotify.com/artist/3ZDMIHGxzbwFWWhSMBKSHJ) | [Mozer Is Nijba](https://open.spotify.com/album/0MsLTaEtDN9U6Hhm5bdGui) | 2:25 | 2023-07-06 | 2023-07-28 |
 | [Moët, Vodka, Henny](https://open.spotify.com/track/2WPrtBzxEFywU09psLTrbp) | [Gio](https://open.spotify.com/artist/6EYEbuEhF2WMVU47iUJNBS), [Keizer](https://open.spotify.com/artist/2CiOpBO55td0YHJVZYT2KW) | [Moët, Vodka, Henny](https://open.spotify.com/album/2cgDQCOCGSiDpkx83OTddV) | 2:07 | 2023-06-01 | 2023-06-06 |
 | [Mr Lover](https://open.spotify.com/track/3eFcKC5LPq4jgyPa9xh4ak) | [Fido](https://open.spotify.com/artist/5HmfRnwYc5vNyWxRfP9U74) | [Mr Lover](https://open.spotify.com/album/3EwlDCtp5B6A5SVtaemftK) | 2:16 | 2024-11-14 | 2025-01-07 |
+| [Ms\. Paper \(feat\. Theodora\)](https://open.spotify.com/track/0e6cXkbHc57qMSN3DwmfSI) | [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq), [Theodora](https://open.spotify.com/artist/3PpJbrAbphauEun8Xf9tD2) | [Starrgirl](https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma) | 2:48 | 2026-09-21 |  |
 | [Mucho Dinero](https://open.spotify.com/track/1C5AvHJ00GEPhoI10TbMVY) | [Miggs De Bruijn](https://open.spotify.com/artist/0Z4fLy8J9Xe2r9kw6zkLFx), [Dario Santana](https://open.spotify.com/artist/0y14WanKsCSjfqVk18HoFk) | [Mucho Dinero](https://open.spotify.com/album/0dqkgqi9bj5cvbCd0muYMi) | 2:56 | 2023-09-21 | 2023-10-06 |
 | [MUKUCHU](https://open.spotify.com/track/7gZzzsMe0SFyXSIslFwkzu) | [Yacn](https://open.spotify.com/artist/1GJs903cqCxvcxyLoKTeDH), [Bartofso](https://open.spotify.com/artist/5EBNHekbDwV3Q9POxvSMBI) | [MUKUCHU](https://open.spotify.com/album/1davpmN1l93Uij1h63ulsC) | 2:36 | 2025-08-28 | 2025-09-19 |
 | [Mulala](https://open.spotify.com/track/5WrVGLYy0YNDijnCStN2CH) | [Sabri](https://open.spotify.com/artist/1BcQY5zmqzlHgEYIXwOopx), [Reboir](https://open.spotify.com/artist/0l6ghsW3fNY4iMtwgFq4i1) | [Mulala](https://open.spotify.com/album/1IvhCuXq0CkOPbgr8BOvaH) | 2:22 | 2023-06-29 | 2023-08-16 |

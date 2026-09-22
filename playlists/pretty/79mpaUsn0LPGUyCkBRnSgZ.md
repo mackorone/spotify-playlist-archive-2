@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 
 > albums i plan to listen to eventually
 
-[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 772 songs - 2 day 1 hr 58 min
+[Zack Amiton](https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt) - 0 likes - 773 songs - 2 day 2 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -780,5 +780,6 @@ pretty - [cumulative](/playlists/cumulative/79mpaUsn0LPGUyCkBRnSgZ.md) - [plain]
 | 770 | [睡蓮](https://open.spotify.com/track/6cX1oU47IhYnHhraczdskK) | [Yasuaki Shimizu](https://open.spotify.com/artist/0Q14t6kRnPv4av49Rz5o6e) | [案山子](https://open.spotify.com/album/7LfndVfgDfB9e7BwHPDuOT) | 4:34 |
 | 771 | [Hanging Out With a Blueberry Pop](https://open.spotify.com/track/4RB8o4DYcSCai4dVUAzTP0) | [Croz Boyce](https://open.spotify.com/artist/5lpU5YJ5sJEHDcA8Z7HXJ6), [Avey Tare](https://open.spotify.com/artist/0yJolfjqzHfNbr9IoBSndu), [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m) | [Croz Boyce](https://open.spotify.com/album/1DqAB49q6QhkUxs2qguMBj) | 4:59 |
 | 772 | [Oracle Road](https://open.spotify.com/track/4vMFEE1IsOBV4Ct4RNizS7) | [Geologist](https://open.spotify.com/artist/1OU3T32kZ15hIAUwqAjd2m) | [Can I Get A Pack Of Camel Lights?](https://open.spotify.com/album/1gBYIHCA0Hdn8BFCTK5TgV) | 5:23 |
+| 773 | [In the Stone](https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT) | [Earth, Wind & Fire](https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg) | [I Am](https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt) | 4:48 |
 
-Snapshot ID: `AAAJsRLqAYU6VFQp9sadoAfdBH9kA1DH`
+Snapshot ID: `AAAJspkYPhpI/9joxohpGIf/9tuNTHi7`

@@ -1,6 +1,6 @@
 {
   "description": "Enjoy music from \"\nUmamusume: Pretty Derby! \u00a9 Cygames, Inc.",
-  "num_followers": 65002,
+  "num_followers": 65019,
   "original_name": "Umamusume: Pretty Derby",
   "owner": {
     "name": "Spotify",
@@ -567,18 +567,22 @@
     {
       "added_at": "2026-09-08 16:35:28",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 23",
-        "url": "https://open.spotify.com/album/7vrw9FVJm5hnwp7hokXDUG"
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 35",
+        "url": "https://open.spotify.com/album/12oWEbGLTyngd6boOaXckp"
       },
       "artists": [
         {
-          "name": "\u30a8\u30b9\u30dd\u30ef\u30fc\u30eb\u30b7\u30c1\u30fc (CV. \u4e9c\u54b2\u82b1)",
-          "url": "https://open.spotify.com/artist/7DAA6ZOmkL5LpGxXuF2vjK"
+          "name": "\u30b7\u30f3\u30b3\u30a6\u30a6\u30a4\u30f3\u30c7\u30a3 (CV. \u9ad8\u7530\u6182\u5e0c)",
+          "url": "https://open.spotify.com/artist/3l279W1o3rlpjlNByYdRJh"
+        },
+        {
+          "name": "\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc",
+          "url": "https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd"
         }
       ],
-      "duration_ms": 143533,
-      "name": "\u30d4\u30e8\u3063\u30d4\u30e8\u306b\u3057\u3066\u3084\u3093\u3088\u30c3\uff01",
-      "url": "https://open.spotify.com/track/67Eu9NqZW7MJEaSLKvx4pG"
+      "duration_ms": 203932,
+      "name": "CAN'T STOP \u30ef\u30eb\u4e0a\u7b49\uff01",
+      "url": "https://open.spotify.com/track/39lXNj5mKm3pe0r8yi2g0t"
     },
     {
       "added_at": "2026-09-08 16:35:28",
@@ -675,22 +679,18 @@
     {
       "added_at": "2026-09-08 16:35:28",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 35",
-        "url": "https://open.spotify.com/album/12oWEbGLTyngd6boOaXckp"
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 23",
+        "url": "https://open.spotify.com/album/7vrw9FVJm5hnwp7hokXDUG"
       },
       "artists": [
         {
-          "name": "\u30b7\u30f3\u30b3\u30a6\u30a6\u30a4\u30f3\u30c7\u30a3 (CV. \u9ad8\u7530\u6182\u5e0c)",
-          "url": "https://open.spotify.com/artist/3l279W1o3rlpjlNByYdRJh"
-        },
-        {
-          "name": "\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc",
-          "url": "https://open.spotify.com/artist/5pTLke5Yq8nN4yaPxLPzGd"
+          "name": "\u30a8\u30b9\u30dd\u30ef\u30fc\u30eb\u30b7\u30c1\u30fc (CV. \u4e9c\u54b2\u82b1)",
+          "url": "https://open.spotify.com/artist/7DAA6ZOmkL5LpGxXuF2vjK"
         }
       ],
-      "duration_ms": 203932,
-      "name": "CAN'T STOP \u30ef\u30eb\u4e0a\u7b49\uff01",
-      "url": "https://open.spotify.com/track/39lXNj5mKm3pe0r8yi2g0t"
+      "duration_ms": 143533,
+      "name": "\u30d4\u30e8\u3063\u30d4\u30e8\u306b\u3057\u3066\u3084\u3093\u3088\u30c3\uff01",
+      "url": "https://open.spotify.com/track/67Eu9NqZW7MJEaSLKvx4pG"
     },
     {
       "added_at": "2026-09-08 16:35:28",
@@ -855,38 +855,6 @@
     {
       "added_at": "2026-09-08 16:35:28",
       "album": {
-        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
-        "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
-      },
-      "artists": [
-        {
-          "name": "\u30a8\u30a2\u30b0\u30eb\u30fc\u30f4 (CV. \u9752\u6728\u7460\u7483\u5b50)",
-          "url": "https://open.spotify.com/artist/5nKLtpb9d7l5i097fKZYnO"
-        },
-        {
-          "name": "\u30ab\u30ef\u30ab\u30df\u30d7\u30ea\u30f3\u30bb\u30b9 (CV. \u9ad8\u6a4b\u82b1\u6797)",
-          "url": "https://open.spotify.com/artist/4ho6YVpUllDLsb3UoK5kyI"
-        },
-        {
-          "name": "\u30b9\u30a4\u30fc\u30d7\u30c8\u30a6\u30b7\u30e7\u30a6 (CV. \u6749\u6d66\u3057\u304a\u308a)",
-          "url": "https://open.spotify.com/artist/4TOXoeRQAb3mg05ZVVlz98"
-        },
-        {
-          "name": "\u30cb\u30b7\u30ce\u30d5\u30e9\u30ef\u30fc (CV. \u6cb3\u4e95\u6674\u83dc)",
-          "url": "https://open.spotify.com/artist/4MGldw1KFcgtUeK1eP3XLR"
-        },
-        {
-          "name": "\u30e1\u30b8\u30ed\u30c9\u30fc\u30d9\u30eb (CV. \u4e45\u4fdd\u7530\u3072\u304b\u308a)",
-          "url": "https://open.spotify.com/artist/24noUo4DlVnbOHdAOg7eXc"
-        }
-      ],
-      "duration_ms": 250493,
-      "name": "\u5f69 Phantasia",
-      "url": "https://open.spotify.com/track/5jQe1D7i1LeuQrswdHJGSG"
-    },
-    {
-      "added_at": "2026-09-08 16:35:28",
-      "album": {
         "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 01",
         "url": "https://open.spotify.com/album/4JMtKXFI7ExDM6gzYxdwxH"
       },
@@ -927,6 +895,38 @@
       "duration_ms": 224666,
       "name": "\u672c\u80fd\u30b9\u30d4\u30fc\u30c9",
       "url": "https://open.spotify.com/track/73cEilZ9po5jqiQk6ICPNX"
+    },
+    {
+      "added_at": "2026-09-08 16:35:28",
+      "album": {
+        "name": "\u300e\u30a6\u30de\u5a18 \u30d7\u30ea\u30c6\u30a3\u30fc\u30c0\u30fc\u30d3\u30fc\u300fWINNING LIVE 02",
+        "url": "https://open.spotify.com/album/7vuyl4G8HAAul1jzeKfUNs"
+      },
+      "artists": [
+        {
+          "name": "\u30a8\u30a2\u30b0\u30eb\u30fc\u30f4 (CV. \u9752\u6728\u7460\u7483\u5b50)",
+          "url": "https://open.spotify.com/artist/5nKLtpb9d7l5i097fKZYnO"
+        },
+        {
+          "name": "\u30ab\u30ef\u30ab\u30df\u30d7\u30ea\u30f3\u30bb\u30b9 (CV. \u9ad8\u6a4b\u82b1\u6797)",
+          "url": "https://open.spotify.com/artist/4ho6YVpUllDLsb3UoK5kyI"
+        },
+        {
+          "name": "\u30b9\u30a4\u30fc\u30d7\u30c8\u30a6\u30b7\u30e7\u30a6 (CV. \u6749\u6d66\u3057\u304a\u308a)",
+          "url": "https://open.spotify.com/artist/4TOXoeRQAb3mg05ZVVlz98"
+        },
+        {
+          "name": "\u30cb\u30b7\u30ce\u30d5\u30e9\u30ef\u30fc (CV. \u6cb3\u4e95\u6674\u83dc)",
+          "url": "https://open.spotify.com/artist/4MGldw1KFcgtUeK1eP3XLR"
+        },
+        {
+          "name": "\u30e1\u30b8\u30ed\u30c9\u30fc\u30d9\u30eb (CV. \u4e45\u4fdd\u7530\u3072\u304b\u308a)",
+          "url": "https://open.spotify.com/artist/24noUo4DlVnbOHdAOg7eXc"
+        }
+      ],
+      "duration_ms": 250493,
+      "name": "\u5f69 Phantasia",
+      "url": "https://open.spotify.com/track/5jQe1D7i1LeuQrswdHJGSG"
     },
     {
       "added_at": "2026-09-08 16:35:28",

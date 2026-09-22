@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9YuquEmVMFY.md) - [plain]
 
 > Sep 19th \(Sat\), 20th \(Sun\) @ INSPIRE Arena, Incheon
 
-[Spotify](https://open.spotify.com/user/spotify) - 41,459 likes - 20 songs - 1 hr 18 min
+[Spotify](https://open.spotify.com/user/spotify) - 41,488 likes - 20 songs - 1 hr 18 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

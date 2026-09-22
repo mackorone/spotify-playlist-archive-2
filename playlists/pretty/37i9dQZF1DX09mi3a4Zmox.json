@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica para enamorarse.",
-  "num_followers": 3797868,
+  "num_followers": 3797516,
   "original_name": "Baladas Rom\u00e1nticas",
   "owner": {
     "name": "Spotify",
@@ -319,22 +319,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
-        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
-      },
-      "artists": [
-        {
-          "name": "Jesse & Joy",
-          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
-        }
-      ],
-      "duration_ms": 288893,
-      "name": "\u00a1Corre!",
-      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "Tanto (Edici\u00f3n Premium)",
         "url": "https://open.spotify.com/album/7kA3hvV7UjgnA5uiUBxwlN"
       },
@@ -351,6 +335,22 @@
       "duration_ms": 233895,
       "name": "D\u00f3nde est\u00e1 el amor (feat. Jesse & Joy)",
       "url": "https://open.spotify.com/track/0CjaLvAqN97KPVWgOJ1vbD"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "\u00bfCon Qui\u00e9n Se Queda El Perro?",
+        "url": "https://open.spotify.com/album/5koG6JeFEwcINyN1QuXyiq"
+      },
+      "artists": [
+        {
+          "name": "Jesse & Joy",
+          "url": "https://open.spotify.com/artist/1mX1TWKpNxDSAH16LgDfiR"
+        }
+      ],
+      "duration_ms": 288893,
+      "name": "\u00a1Corre!",
+      "url": "https://open.spotify.com/track/5kIcrM3QVD4BQPFMszQnU1"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1423,6 +1423,22 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
+        "name": "Rom\u00e1ntico Desliz",
+        "url": "https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt"
+      },
+      "artists": [
+        {
+          "name": "Aleks Syntek",
+          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
+        }
+      ],
+      "duration_ms": 217426,
+      "name": "Corazones Invencibles",
+      "url": "https://open.spotify.com/track/1vrq0gc8U6kxkNNnD79gEp"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
         "name": "Dicen",
         "url": "https://open.spotify.com/album/4H1sa79MAZ1neRpTKa5Idz"
       },
@@ -1467,22 +1483,6 @@
       "duration_ms": 288600,
       "name": "Como Yo Te Amo",
       "url": "https://open.spotify.com/track/2WGYmstMZN1Kbz2sKiguFB"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
-        "name": "Rom\u00e1ntico Desliz",
-        "url": "https://open.spotify.com/album/6UlH9VLq1S6TJtY0xojINt"
-      },
-      "artists": [
-        {
-          "name": "Aleks Syntek",
-          "url": "https://open.spotify.com/artist/0r8toju2ecKaVtItkzAnNi"
-        }
-      ],
-      "duration_ms": 217426,
-      "name": "Corazones Invencibles",
-      "url": "https://open.spotify.com/track/1vrq0gc8U6kxkNNnD79gEp"
     },
     {
       "added_at": "2025-12-05 05:00:17",
@@ -1659,22 +1659,6 @@
     {
       "added_at": "2025-12-05 05:00:17",
       "album": {
-        "name": "La vida es",
-        "url": "https://open.spotify.com/album/27oOsrkjlJBqWjHxokkazD"
-      },
-      "artists": [
-        {
-          "name": "Alexander Acha",
-          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
-        }
-      ],
-      "duration_ms": 195746,
-      "name": "Amiga",
-      "url": "https://open.spotify.com/track/5GxyKXhr5OyFJqoM4Vs5Vh"
-    },
-    {
-      "added_at": "2025-12-05 05:00:17",
-      "album": {
         "name": "De Pel\u00edcula",
         "url": "https://open.spotify.com/album/1m9gX7fweiWCg91tQ9tCz9"
       },
@@ -1687,6 +1671,22 @@
       "duration_ms": 224333,
       "name": "No Quer\u00edas Lastimarme",
       "url": "https://open.spotify.com/track/3Mebiofe2IvOakAD792K3j"
+    },
+    {
+      "added_at": "2025-12-05 05:00:17",
+      "album": {
+        "name": "La vida es",
+        "url": "https://open.spotify.com/album/27oOsrkjlJBqWjHxokkazD"
+      },
+      "artists": [
+        {
+          "name": "Alexander Acha",
+          "url": "https://open.spotify.com/artist/3JkgQ8Jjwt2mkeOsg5yhqh"
+        }
+      ],
+      "duration_ms": 195746,
+      "name": "Amiga",
+      "url": "https://open.spotify.com/track/5GxyKXhr5OyFJqoM4Vs5Vh"
     },
     {
       "added_at": "2025-12-05 05:00:17",

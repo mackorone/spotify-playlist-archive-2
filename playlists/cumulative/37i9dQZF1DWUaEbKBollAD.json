@@ -969,6 +969,28 @@
     },
     {
       "album": {
+        "name": "Frequency of Light",
+        "url": "https://open.spotify.com/album/49iJ3zTVYH9Q8bCV5PVcAV"
+      },
+      "artists": [
+        {
+          "name": "Annie Hill",
+          "url": "https://open.spotify.com/artist/2B6pK7a0cAqCTMIqOSEP5o"
+        },
+        {
+          "name": "Giorgia Angiuli",
+          "url": "https://open.spotify.com/artist/4iHnLagnnmgiIwMSm1wuTq"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 326221,
+      "name": "Euphoria",
+      "url": "https://open.spotify.com/track/6ZWYz03Cuv1KYV3V4e3eGI"
+    },
+    {
+      "album": {
         "name": "Various Artist, Vol. 6 - 4 Years",
         "url": "https://open.spotify.com/album/6zKrUCc1yKmlLtEiexsq2A"
       },
@@ -1191,6 +1213,24 @@
     },
     {
       "album": {
+        "name": "Frequency of Light",
+        "url": "https://open.spotify.com/album/49iJ3zTVYH9Q8bCV5PVcAV"
+      },
+      "artists": [
+        {
+          "name": "Annie Hill",
+          "url": "https://open.spotify.com/artist/2B6pK7a0cAqCTMIqOSEP5o"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 353243,
+      "name": "Frequency of Light",
+      "url": "https://open.spotify.com/track/0W6f2rnY5ni0hhv6j6Ek1G"
+    },
+    {
+      "album": {
         "name": "Silence EP",
         "url": "https://open.spotify.com/album/1yEygTNMJpqohn7MATAnSc"
       },
@@ -1404,7 +1444,7 @@
       ],
       "date_added": "2026-06-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 214400,
       "name": "Himalayan Bounce",
       "url": "https://open.spotify.com/track/67OeTJLt0tetwk5JA66CwA"
@@ -1670,6 +1710,24 @@
       "duration_ms": 203738,
       "name": "Intuition",
       "url": "https://open.spotify.com/track/6nP0K210TKE3VtjkngS0ks"
+    },
+    {
+      "album": {
+        "name": "I Was Laid-Back A Sinner Of Sorts EP",
+        "url": "https://open.spotify.com/album/2IXM3WGkhhpqtR0ugHwPVx"
+      },
+      "artists": [
+        {
+          "name": "Under Black Helmet",
+          "url": "https://open.spotify.com/artist/4O6AfaKMmSDfqMN9yNBzmN"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 365435,
+      "name": "Jagged",
+      "url": "https://open.spotify.com/track/5DX65uqCMWTzEdlvUfkioW"
     },
     {
       "album": {
@@ -2812,7 +2870,7 @@
       ],
       "date_added": "2026-05-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 146351,
       "name": "Sanamos Bailando",
       "url": "https://open.spotify.com/track/2b6Wc3BLe0pkYnDJb4aUcX"
@@ -3026,7 +3084,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 253161,
       "name": "So Alive - VIP",
       "url": "https://open.spotify.com/track/4ujGSBsaRjYUybB1dMX0MK"

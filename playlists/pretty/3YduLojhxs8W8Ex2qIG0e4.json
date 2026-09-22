@@ -1,12 +1,12 @@
 {
   "description": "the best &amp; new indie rock. all the belowed tracks &amp; artists",
-  "num_followers": 1954,
+  "num_followers": 1955,
   "original_name": "ALTERNATIVE ROCK - THE MIX",
   "owner": {
     "name": "Salon Blanc",
     "url": "https://open.spotify.com/user/1125193345"
   },
-  "snapshot_id": "AAAJpsEXKe6Xr53ita8KICtBRTKcnJqy",
+  "snapshot_id": "AAAJqT/PoYR1XyNhjO6EVzT3BRuu8qJk",
   "tracks": [
     {
       "added_at": "2025-12-05 06:07:41",
@@ -123,6 +123,42 @@
       "duration_ms": 197000,
       "name": "Completely Justified",
       "url": "https://open.spotify.com/track/1UuBAnA5UL9nbascLsY3Hy"
+    },
+    {
+      "added_at": "2026-09-21 05:55:57",
+      "album": {
+        "name": "You\u00b4re Still Raising Me",
+        "url": "https://open.spotify.com/album/2tPWzSuJJiYbgSLK4Duzu8"
+      },
+      "artists": [
+        {
+          "name": "Donna Martin Graduates",
+          "url": "https://open.spotify.com/artist/647162B5EXRPXNNVffPt1C"
+        },
+        {
+          "name": "Burnt Log",
+          "url": "https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC"
+        }
+      ],
+      "duration_ms": 249666,
+      "name": "You\u00b4re Still Raising Me",
+      "url": "https://open.spotify.com/track/43FdTfz44Q8QkTR7XhpoFn"
+    },
+    {
+      "added_at": "2026-09-21 05:54:51",
+      "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/1SnyFAQDJpiM6CLCoZRz9W"
+      },
+      "artists": [
+        {
+          "name": "QRU",
+          "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
+        }
+      ],
+      "duration_ms": 257032,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/4r5fn2oVjZ56MnXszYHe8R"
     },
     {
       "added_at": "2025-10-09 06:30:20",

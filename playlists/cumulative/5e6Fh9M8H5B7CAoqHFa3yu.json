@@ -1977,6 +1977,24 @@
     },
     {
       "album": {
+        "name": "Alles Okay",
+        "url": "https://open.spotify.com/album/3E7Opp5ENpxtjyJbBsEOVp"
+      },
+      "artists": [
+        {
+          "name": "Jamin",
+          "url": "https://open.spotify.com/artist/2ENKqKJLJHCtan7k5y7s69"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146470,
+      "name": "Alles Okay",
+      "url": "https://open.spotify.com/track/04WUfyc04zu4Jvn39b0OUZ"
+    },
+    {
+      "album": {
         "name": "Almighty Thunder",
         "url": "https://open.spotify.com/album/2ajdSwm0kLmcQ0n4f1haA7"
       },
@@ -22519,6 +22537,24 @@
     },
     {
       "album": {
+        "name": "Kopf aus, Herz an",
+        "url": "https://open.spotify.com/album/5nnFUHq6srcKC86jXRm6Zm"
+      },
+      "artists": [
+        {
+          "name": "Claudius Mach",
+          "url": "https://open.spotify.com/artist/0pwgyvU4c9jWbzHuP0yPUY"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 248450,
+      "name": "Kopf aus, Herz an",
+      "url": "https://open.spotify.com/track/7qVf3mM1KTblvIvBHH5x4K"
+    },
+    {
+      "album": {
         "name": "Kosaca",
         "url": "https://open.spotify.com/album/1aXT1CwSCzqqsBIo7YqHpM"
       },
@@ -35840,8 +35876,16 @@
           "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
         },
         {
+          "name": "Jos\u00e9 Sechi.",
+          "url": "https://open.spotify.com/artist/7iIoRgouvtDqZ8BplUUShj"
+        },
+        {
           "name": "001 BEST",
           "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        },
+        {
+          "name": "Meditherranea & Prova MI & Jos\u00e9 Sechi. & 001 BEST",
+          "url": "https://open.spotify.com/artist/6zNtfoNKlu5QCWehjOth3a"
         }
       ],
       "date_added": "2026-07-09",
@@ -41084,6 +41128,24 @@
       "duration_ms": 328933,
       "name": "The Alien",
       "url": "https://open.spotify.com/track/5eKfpH2dQ7FltCqb7LWEGJ"
+    },
+    {
+      "album": {
+        "name": "The Venosa Session",
+        "url": "https://open.spotify.com/album/5zQmf6E0PQ5Ln7hPOUZUkT"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Liccardo",
+          "url": "https://open.spotify.com/artist/256CcBQU76vRqixx59jpgN"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 227440,
+      "name": "The Big House",
+      "url": "https://open.spotify.com/track/1horHByM1axyVe7mQmgI9I"
     },
     {
       "album": {

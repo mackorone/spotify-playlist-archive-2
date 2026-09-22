@@ -1,12 +1,12 @@
 {
   "description": "This is Maria Callas. The essential tracks, all in one playlist.",
-  "num_followers": 40945,
+  "num_followers": 40951,
   "original_name": "This Is Maria Callas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAB8om1GiT6QmBgRUQpEUA5e",
+  "snapshot_id": "aq8iAAAAAAAw4+N02pMVm2sf/Oj7bNFk",
   "tracks": [
     {
       "added_at": null,
@@ -903,34 +903,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas sings Operatic Arias by Puccini - Callas Remastered",
-        "url": "https://open.spotify.com/album/7l9aRLHFrTictdjkTbtpQs"
-      },
-      "artists": [
-        {
-          "name": "Giacomo Puccini",
-          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        },
-        {
-          "name": "Philharmonia Orchestra",
-          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
-        }
-      ],
-      "duration_ms": 149413,
-      "name": "Puccini: Turandot, Act 1: \"Signore, ascolta!\" (Li\u00f9)",
-      "url": "https://open.spotify.com/track/6Xv8wvEqDlSMxMVbvRJHsx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Verdi: La traviata (1953 - Santini) - Callas Remastered",
         "url": "https://open.spotify.com/album/0XEU6Bq6CdJTr20bLkypBL"
       },
@@ -963,6 +935,34 @@
       "duration_ms": 191653,
       "name": "Verdi: La traviata, Act 1: Brindisi. \"Libiamo ne'lieti calici\" (Alfredo, Violetta, Coro)",
       "url": "https://open.spotify.com/track/1scwKuZNknbnI6zC13Omd0"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas sings Operatic Arias by Puccini - Callas Remastered",
+        "url": "https://open.spotify.com/album/7l9aRLHFrTictdjkTbtpQs"
+      },
+      "artists": [
+        {
+          "name": "Giacomo Puccini",
+          "url": "https://open.spotify.com/artist/0OzxPXyowUEQ532c9AmHUR"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        },
+        {
+          "name": "Philharmonia Orchestra",
+          "url": "https://open.spotify.com/artist/09KZU0NsS7jRa5p0SflmGY"
+        }
+      ],
+      "duration_ms": 149413,
+      "name": "Puccini: Turandot, Act 1: \"Signore, ascolta!\" (Li\u00f9)",
+      "url": "https://open.spotify.com/track/6Xv8wvEqDlSMxMVbvRJHsx"
     },
     {
       "added_at": null,
@@ -1035,6 +1035,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Maria Callas",
+        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
+      },
+      "artists": [
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
+        },
+        {
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
+        }
+      ],
+      "duration_ms": 349666,
+      "name": "La Sonnambula (1997 Digital Remaster): Compagne, temiri amici ....Come per me sereno",
+      "url": "https://open.spotify.com/track/6X0pfR9SGilsf76eerqTys"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Verdi: Il trovatore",
         "url": "https://open.spotify.com/album/48eWgnNGxUo5NIg4Y7bSsc"
       },
@@ -1059,30 +1083,6 @@
       "duration_ms": 213880,
       "name": "Verdi: Il trovatore, Act 1: \"Tacea la notte placida\" (Leonora)",
       "url": "https://open.spotify.com/track/0knATV5PNjw2KacFgMwmwy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Maria Callas",
-        "url": "https://open.spotify.com/album/11qRGKgmRJSEUG2sC4lFG2"
-      },
-      "artists": [
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 349666,
-      "name": "La Sonnambula (1997 Digital Remaster): Compagne, temiri amici ....Come per me sereno",
-      "url": "https://open.spotify.com/track/6X0pfR9SGilsf76eerqTys"
     },
     {
       "added_at": null,
@@ -1143,34 +1143,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Verdi: La Forza del Destino",
-        "url": "https://open.spotify.com/album/15KycRrr0NG2Msri0rTYSh"
-      },
-      "artists": [
-        {
-          "name": "Giuseppe Verdi",
-          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
-        },
-        {
-          "name": "Maria Callas",
-          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
-        },
-        {
-          "name": "Orchestra Del Teatro Alla Scala, Milano",
-          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
-        },
-        {
-          "name": "Tullio Serafin",
-          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
-        }
-      ],
-      "duration_ms": 387666,
-      "name": "Verdi: La forza del destino, Act 4 Scene 6: No. 17, Melodia, \"Pace, pace, mio Dio!\" (Leonora)",
-      "url": "https://open.spotify.com/track/1pd4fb1aKETKvAqz4brguX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pure - Maria Callas",
         "url": "https://open.spotify.com/album/0uloEl7atU9mPvHlgzuDtO"
       },
@@ -1199,10 +1171,14 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Callas, une invitation \u00e0 l'Op\u00e9ra",
-        "url": "https://open.spotify.com/album/6Hh8uWQx5MwJYEdbx55x6l"
+        "name": "Verdi: La Forza del Destino",
+        "url": "https://open.spotify.com/album/15KycRrr0NG2Msri0rTYSh"
       },
       "artists": [
+        {
+          "name": "Giuseppe Verdi",
+          "url": "https://open.spotify.com/artist/1JOQXgYdQV2yfrhewqx96o"
+        },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
@@ -1216,9 +1192,9 @@
           "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
         }
       ],
-      "duration_ms": 348693,
-      "name": "Norma, Act I Scene 1: \"Casta Diva\"",
-      "url": "https://open.spotify.com/track/1GjCs7OawOfSyjRIw2U7WI"
+      "duration_ms": 387666,
+      "name": "Verdi: La forza del destino, Act 4 Scene 6: No. 17, Melodia, \"Pace, pace, mio Dio!\" (Leonora)",
+      "url": "https://open.spotify.com/track/1pd4fb1aKETKvAqz4brguX"
     },
     {
       "added_at": null,
@@ -1247,30 +1223,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Callas sings Mozart, Beethoven & Weber Arias - Callas Remastered",
-        "url": "https://open.spotify.com/album/7Kpum94RVHagxaAk40wmGh"
+        "name": "La Callas, une invitation \u00e0 l'Op\u00e9ra",
+        "url": "https://open.spotify.com/album/6Hh8uWQx5MwJYEdbx55x6l"
       },
       "artists": [
-        {
-          "name": "Wolfgang Amadeus Mozart",
-          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
-        },
         {
           "name": "Maria Callas",
           "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
         },
         {
-          "name": "Nicola Rescigno",
-          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+          "name": "Orchestra Del Teatro Alla Scala, Milano",
+          "url": "https://open.spotify.com/artist/7JdPe4gzrYmbcko3FTav57"
         },
         {
-          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
-          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+          "name": "Tullio Serafin",
+          "url": "https://open.spotify.com/artist/3UYZxxxrntUxxEeRycqHvq"
         }
       ],
-      "duration_ms": 191746,
-      "name": "Mozart: Don Giovanni, K. 527, Act 1: \"Or sai chi l'onore\" (Donna Anna)",
-      "url": "https://open.spotify.com/track/4idwfVaBLsBBpywCzD70bn"
+      "duration_ms": 348693,
+      "name": "Norma, Act I Scene 1: \"Casta Diva\"",
+      "url": "https://open.spotify.com/track/1GjCs7OawOfSyjRIw2U7WI"
     },
     {
       "added_at": null,
@@ -1303,6 +1275,34 @@
       "duration_ms": 242586,
       "name": "Verdi: La traviata, Act 1: \"Sempre libera\" (Violetta, Alfredo)",
       "url": "https://open.spotify.com/track/5HpUbFkCXLFQM28hxoXnBn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Callas sings Mozart, Beethoven & Weber Arias - Callas Remastered",
+        "url": "https://open.spotify.com/album/7Kpum94RVHagxaAk40wmGh"
+      },
+      "artists": [
+        {
+          "name": "Wolfgang Amadeus Mozart",
+          "url": "https://open.spotify.com/artist/4NJhFmfw43RLBLjQvxDuRS"
+        },
+        {
+          "name": "Maria Callas",
+          "url": "https://open.spotify.com/artist/0bjdfjE8XbLa2Odstu6E1E"
+        },
+        {
+          "name": "Nicola Rescigno",
+          "url": "https://open.spotify.com/artist/0q361GTlmwBoXupFQc0T8v"
+        },
+        {
+          "name": "Orchestre De La Soci\u00e9t\u00e9 Des Concerts Du Conservatoire",
+          "url": "https://open.spotify.com/artist/2jR0NsaJWwUmIxtEAJKCNP"
+        }
+      ],
+      "duration_ms": 191746,
+      "name": "Mozart: Don Giovanni, K. 527, Act 1: \"Or sai chi l'onore\" (Donna Anna)",
+      "url": "https://open.spotify.com/track/4idwfVaBLsBBpywCzD70bn"
     },
     {
       "added_at": null,

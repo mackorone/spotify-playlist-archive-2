@@ -3726,7 +3726,7 @@
       ],
       "date_added": "2026-06-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 155374,
       "name": "Een Dag In Een Nacht",
       "url": "https://open.spotify.com/track/1R9FQAlJmJCNeflQjuGVbs"
@@ -14466,6 +14466,24 @@
       "duration_ms": 196616,
       "name": "Winnend lot",
       "url": "https://open.spotify.com/track/7qj8pQVtTDuSQtEM4OdOYR"
+    },
+    {
+      "album": {
+        "name": "Wondervrouw",
+        "url": "https://open.spotify.com/album/1Y1eGUaLIMsbUPETi40uPc"
+      },
+      "artists": [
+        {
+          "name": "Bas Brummelhaus",
+          "url": "https://open.spotify.com/artist/0sKYGBquJbumfbangdCk41"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174310,
+      "name": "Wondervrouw",
+      "url": "https://open.spotify.com/track/1Sllt0lz7ZmokRcSyJrNve"
     },
     {
       "album": {

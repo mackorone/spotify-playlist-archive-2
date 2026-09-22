@@ -1,12 +1,12 @@
 {
   "description": "This is Nicki Minaj. The essential tracks, all in one playlist.",
-  "num_followers": 885778,
+  "num_followers": 885781,
   "original_name": "This Is Nicki Minaj",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAAerl3qDj/VO8c7ak71a7un",
+  "snapshot_id": "aq8iAAAAAACBoAVE7Qc9wbNLjAraniuY",
   "tracks": [
     {
       "added_at": null,
@@ -487,6 +487,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "2012 (It Ain't The End)",
+        "url": "https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr"
+      },
+      "artists": [
+        {
+          "name": "Jay Sean",
+          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 222200,
+      "name": "2012 (It Ain't The End)",
+      "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Barbie World (with Aqua) [From Barbie The Album]",
         "url": "https://open.spotify.com/album/5CM66hwjlbZ06LhONWXOAs"
       },
@@ -507,26 +527,6 @@
       "duration_ms": 109750,
       "name": "Barbie World (with Aqua) [From Barbie The Album]",
       "url": "https://open.spotify.com/track/741UUVE2kuITl0c6zuqqbO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "2012 (It Ain't The End)",
-        "url": "https://open.spotify.com/album/6Yu5seu8YlZCOCF0qYVoIr"
-      },
-      "artists": [
-        {
-          "name": "Jay Sean",
-          "url": "https://open.spotify.com/artist/4pADjHPWyrlAF0FA7joK2H"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 222200,
-      "name": "2012 (It Ain't The End)",
-      "url": "https://open.spotify.com/track/1ERCOXHQcoLSTlgmNTlcrR"
     },
     {
       "added_at": null,
@@ -739,6 +739,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Queen",
+        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
+      },
+      "artists": [
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        },
+        {
+          "name": "Ariana Grande",
+          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
+        }
+      ],
+      "duration_ms": 189533,
+      "name": "Bed (feat. Ariana Grande)",
+      "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "beerbongs & bentleys",
         "url": "https://open.spotify.com/album/6trNtQUgC8cgbWcqoMYkOR"
       },
@@ -775,26 +795,6 @@
       "duration_ms": 229720,
       "name": "Woman Like Me (feat. Nicki Minaj)",
       "url": "https://open.spotify.com/track/222B3aljXx6fFwKmFjuBED"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Queen",
-        "url": "https://open.spotify.com/album/2acDkDTWdNFie1HjcFa4Ny"
-      },
-      "artists": [
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        },
-        {
-          "name": "Ariana Grande",
-          "url": "https://open.spotify.com/artist/66CXWjxzNUsdJxJ2JdwvnR"
-        }
-      ],
-      "duration_ms": 189533,
-      "name": "Bed (feat. Ariana Grande)",
-      "url": "https://open.spotify.com/track/3L4GsGLgxpHieVQH86H8bv"
     },
     {
       "added_at": null,
@@ -959,26 +959,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Witness (Deluxe)",
-        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
-      },
-      "artists": [
-        {
-          "name": "Katy Perry",
-          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
-        },
-        {
-          "name": "Nicki Minaj",
-          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
-        }
-      ],
-      "duration_ms": 242520,
-      "name": "Swish Swish",
-      "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pink Friday ... Roman Reloaded (Deluxe)",
         "url": "https://open.spotify.com/album/6fABwONLawdFjkDpLx41j8"
       },
@@ -995,6 +975,26 @@
       "duration_ms": 265333,
       "name": "Right By My Side",
       "url": "https://open.spotify.com/track/2bgW1SJqUjIkWcbxTPTIdy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Witness (Deluxe)",
+        "url": "https://open.spotify.com/album/0UlbGi4oAth8s6rwaGSU8Z"
+      },
+      "artists": [
+        {
+          "name": "Katy Perry",
+          "url": "https://open.spotify.com/artist/6jJ0s89eD6GaHleKKya26X"
+        },
+        {
+          "name": "Nicki Minaj",
+          "url": "https://open.spotify.com/artist/0hCNtLu0JehylgoiP8L4Gh"
+        }
+      ],
+      "duration_ms": 242520,
+      "name": "Swish Swish",
+      "url": "https://open.spotify.com/track/3OtMnyUaiipcAT23A8liyi"
     },
     {
       "added_at": null,

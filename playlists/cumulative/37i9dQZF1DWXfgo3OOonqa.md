@@ -4,7 +4,7 @@
 
 > håll det 100.
 
-2,435 songs - 4 day 7 hr 21 min
+2,436 songs - 4 day 7 hr 22 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1108,7 +1108,7 @@
 | [Jag & Du](https://open.spotify.com/track/5TWaVJ43j0saiCIrlYJdPe) | [ROMANOS](https://open.spotify.com/artist/5GT8ltnqVPe7Zf8Ynrb5mV), [Y4ska](https://open.spotify.com/artist/6E4YKq2KF72sNDThe2TaE8), [Montana](https://open.spotify.com/artist/2RmwY9PuyhQF6SrNAZJwQG) | [Jag & Du](https://open.spotify.com/album/2fYj014bCxVfVQmSf6nPUE) | 2:09 | 2026-04-02 | 2026-07-31 |
 | [Jag Antar](https://open.spotify.com/track/3ODGkTNHaprWShP9J4zdEX) | [Elias Abbas](https://open.spotify.com/artist/4QvI3PrYRXq9A2UbeQAKH6) | [Jag Antar](https://open.spotify.com/album/6qqwuJu7WmMUvfW0tzVgdi) | 2:52 | 2022-03-19 | 2022-04-29 |
 | [JAG E VAN](https://open.spotify.com/track/6swIyUMh44LJpjIHscChgG) | [Revilo](https://open.spotify.com/artist/5dbZrhH9p0IwNpJjSsv7Ms) | [JAG E VAN](https://open.spotify.com/album/5HQFNN8t56NAm30i8b1n35) | 2:18 | 2024-05-30 | 2024-09-27 |
-| [JAG HATAR DIG](https://open.spotify.com/track/62XzH7SfzK5YjxMG9qM6EP) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [JAG HATAR DIG](https://open.spotify.com/album/2U7cuWijumKUNP5BPuGji4) | 1:58 | 2026-06-25 |  |
+| [JAG HATAR DIG](https://open.spotify.com/track/62XzH7SfzK5YjxMG9qM6EP) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [JAG HATAR DIG](https://open.spotify.com/album/2U7cuWijumKUNP5BPuGji4) | 1:58 | 2026-06-25 | 2026-09-22 |
 | [Jag hörej](https://open.spotify.com/track/3rd81DcFcJgIc3AH6kRTCF) | [Lee Bloccboy](https://open.spotify.com/artist/2bclmMgssdBFMBzHa64tnw) | [Produkten av min ort](https://open.spotify.com/album/1j3TZBq7SRhuRyVoiFILl2) | 2:28 | 2023-07-13 | 2023-08-11 |
 | [Jag måste gå vidare](https://open.spotify.com/track/4xI1hEnomlZ5KR7uDNslNH) | [Dilly D](https://open.spotify.com/artist/4dpsCdvMMSKcvNref2AMCZ), [MPL](https://open.spotify.com/artist/5UoVu1GLlLIrD1sNod6xsm) | [Jag måste gå vidare](https://open.spotify.com/album/4Be5PVxo28CGh0crWJscCG) | 2:32 | 2025-03-20 | 2025-06-06 |
 | [Jag Ser](https://open.spotify.com/track/4WVnmY9eSn1u12ozgKTQVZ) | [Moewgli](https://open.spotify.com/artist/2QQcLziAzX1VdysI6Mvsl0) | [Jag Ser](https://open.spotify.com/album/1oZPx1IthX5PdLnaRBEZma) | 2:31 | 2021-12-16 | 2022-01-28 |
@@ -2277,6 +2277,7 @@
 | [VARJE GÅNG](https://open.spotify.com/track/6BlwJ1dLkFauf7BiyrTHKQ) | [Aleksej](https://open.spotify.com/artist/3EQED8IPx0z2uR0H28Sc5J), [Nordik Beatz](https://open.spotify.com/artist/5tUMfmPXYszsVvtXHnITtD) | [VARJE GÅNG](https://open.spotify.com/album/44EkVJdUhDbRgF0zlXCsIs) | 1:50 | 2023-05-04 | 2023-05-26 |
 | [Vart Du Än Går](https://open.spotify.com/track/6m7kCRnpgOtCMT3HEeX8g8) | [Capo 13](https://open.spotify.com/artist/0b8LFvQiGggvDGMiOqtrQI) | [Vart Du Än Går](https://open.spotify.com/album/4WwHyFvo0TfH72AhrFumSi) | 2:40 | 2023-07-06 | 2023-07-20 |
 | [VART SKA VI?](https://open.spotify.com/track/2aNb5z6abPZflm5xd3ZaYo) | [ATTI](https://open.spotify.com/artist/1Goz3lvDEpt5s0Y6mB6O8f) | [VART SKA VI?](https://open.spotify.com/album/44Z1dCJvHQtVIq6CYEwo73) | 2:01 | 2025-01-23 | 2025-04-11 |
+| [Vart Vi Står](https://open.spotify.com/track/27opnUt9HKQjJ1theDetLt) | [Le Bandit](https://open.spotify.com/artist/2TZHEsA6cWPgEVUsrEt4IQ) | [Vart Vi Står](https://open.spotify.com/album/2gzxIX85hjlYwQjA5YWWLA) | 1:57 | 2026-09-21 |  |
 | [VCB B23](https://open.spotify.com/track/7yGIE3MGVqnWOrghqWWuW6) | [23](https://open.spotify.com/artist/2Dor6diK1zw9BEluKBOdoA), [01an](https://open.spotify.com/artist/74e6I2mEw224Rzo1VadSMY), [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [TJUGI23](https://open.spotify.com/album/5J8dRxQwNyJdrvNlNY6NMg) | 2:21 | 2023-03-16 | 2023-03-31 |
 | [VCFlow](https://open.spotify.com/track/00rbTsnO3TzW6nOa1Ka9Od) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [VCFlow](https://open.spotify.com/album/1NZqbv9DLeea5t7gQCXP2q) | 3:02 | 2022-01-25 | 2022-03-25 |
 | [Vcflow2](https://open.spotify.com/track/09WFWi9nnZwP8jTLmFOgCA) | [VC Barre](https://open.spotify.com/artist/5QcMPl2wzC4KqivjfcyBIU) | [Young&Strapped](https://open.spotify.com/album/5jQeVs9qODgBoddT5zsowp) | 2:51 | 2022-06-01 | 2022-06-03 |

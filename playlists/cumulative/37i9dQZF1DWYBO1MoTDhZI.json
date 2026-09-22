@@ -309,6 +309,28 @@
     },
     {
       "album": {
+        "name": "A Good Day",
+        "url": "https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX"
+      },
+      "artists": [
+        {
+          "name": "Anderson .Paak",
+          "url": "https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa"
+        },
+        {
+          "name": "Cordae",
+          "url": "https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151072,
+      "name": "A Good Day",
+      "url": "https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ"
+    },
+    {
+      "album": {
         "name": "A-O-K",
         "url": "https://open.spotify.com/album/6MGSAlP80JS800sXlYroNG"
       },
@@ -534,7 +556,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 277000,
       "name": "Alexandria",
       "url": "https://open.spotify.com/track/2WmWpdjuLPxjZ02jZ187qY"
@@ -1048,7 +1070,7 @@
       ],
       "date_added": "2025-05-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 220838,
       "name": "Assumptions",
       "url": "https://open.spotify.com/track/2vTmp13DDKIRWTHPRYNfEh"
@@ -1616,7 +1638,7 @@
       ],
       "date_added": "2026-04-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 227986,
       "name": "Beauty And A Beat",
       "url": "https://open.spotify.com/track/190jyVPHYjAqEaOGmMzdyk"
@@ -2886,7 +2908,7 @@
       ],
       "date_added": "2026-08-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 179945,
       "name": "Can't Fit In",
       "url": "https://open.spotify.com/track/2AYqs8XQ5fGMJZlAlunvRX"
@@ -3446,7 +3468,7 @@
       ],
       "date_added": "2023-03-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 215280,
       "name": "Circles",
       "url": "https://open.spotify.com/track/21jGcNKet2qwijlDFuPiPb"
@@ -3903,6 +3925,32 @@
     },
     {
       "album": {
+        "name": "Company",
+        "url": "https://open.spotify.com/album/1tHG3rISWudn1FJoDjV56d"
+      },
+      "artists": [
+        {
+          "name": "Clean Bandit",
+          "url": "https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM"
+        },
+        {
+          "name": "Chl\u00f6e",
+          "url": "https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR"
+        },
+        {
+          "name": "OMAH LAY",
+          "url": "https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172877,
+      "name": "Company",
+      "url": "https://open.spotify.com/track/1VixD42StOF93a1naJMGnb"
+    },
+    {
+      "album": {
         "name": "Conversation",
         "url": "https://open.spotify.com/album/0OJjgbzuaOF0f2U7vdriTK"
       },
@@ -3990,6 +4038,28 @@
       "duration_ms": 273556,
       "name": "Cool When I'm with You",
       "url": "https://open.spotify.com/track/2GwzFVMIgdeTseR9S4ZcLL"
+    },
+    {
+      "album": {
+        "name": "Chakzilla",
+        "url": "https://open.spotify.com/album/0dQyfJN05ICpQfK9dvKRRF"
+      },
+      "artists": [
+        {
+          "name": "Chaka Khan",
+          "url": "https://open.spotify.com/artist/6mQfAAqZGBzIfrmlZCeaYT"
+        },
+        {
+          "name": "Sia",
+          "url": "https://open.spotify.com/artist/5WUlDfRSoLAfcVSX1WnrxN"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 210426,
+      "name": "Cool You Down (feat. Sia)",
+      "url": "https://open.spotify.com/track/1zXyCObXWABxy8cBY0NQvV"
     },
     {
       "album": {
@@ -4510,7 +4580,7 @@
       ],
       "date_added": "2025-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 244999,
       "name": "DARE (feat. Shaun Ryder & Roses Gabor)",
       "url": "https://open.spotify.com/track/4Hff1IjRbLGeLgFgxvHflk"
@@ -5804,7 +5874,7 @@
       ],
       "date_added": "2024-10-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 87000,
       "name": "Evergreen",
       "url": "https://open.spotify.com/track/6me7F0aaZjwDo6RJ5MrfBD"
@@ -6332,6 +6402,28 @@
       "duration_ms": 198800,
       "name": "Feet Don't Fail Me Now",
       "url": "https://open.spotify.com/track/1GVkrFVc94CTjm9bdSmGjp"
+    },
+    {
+      "album": {
+        "name": "Feet Don't Fail Me Now (Part 2)",
+        "url": "https://open.spotify.com/album/5rq7GrviWeiO176U26pDvS"
+      },
+      "artists": [
+        {
+          "name": "Joy Crookes",
+          "url": "https://open.spotify.com/artist/5XMyhVhi5ZN2pi0Qwi1zXS"
+        },
+        {
+          "name": "Ravyn Lenae",
+          "url": "https://open.spotify.com/artist/5RTLRtXjbXI2lSXc6jxlAz"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 199044,
+      "name": "Feet Don't Fail Me Now - Part 2",
+      "url": "https://open.spotify.com/track/0BMtk8UjLE6GhQiBlsBzQx"
     },
     {
       "album": {
@@ -7542,7 +7634,7 @@
       ],
       "date_added": "2026-01-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 246036,
       "name": "Good Things Will Come After the Pressure",
       "url": "https://open.spotify.com/track/1Q3UUPU4Pl4zVsmIDsQxDU"
@@ -10165,6 +10257,24 @@
     },
     {
       "album": {
+        "name": "Give Me All Your Love",
+        "url": "https://open.spotify.com/album/55LA79YNZWAfxpDGla4jcN"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 189780,
+      "name": "Julia",
+      "url": "https://open.spotify.com/track/52SEKitSUJiIDw0sWzkvGy"
+    },
+    {
+      "album": {
         "name": "Jump",
         "url": "https://open.spotify.com/album/4xbpCWaXMdAaDvEKAi02PX"
       },
@@ -12130,7 +12240,7 @@
       ],
       "date_added": "2026-06-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 161384,
       "name": "Lucky Again - The Magician Remix",
       "url": "https://open.spotify.com/track/0SCeDWOdoMryrHo1XesIOM"
@@ -12544,6 +12654,24 @@
       "duration_ms": 162680,
       "name": "Meet Me At Our Spot",
       "url": "https://open.spotify.com/track/07MDkzWARZaLEdKxo6yArG"
+    },
+    {
+      "album": {
+        "name": "Melancholic Beach Town",
+        "url": "https://open.spotify.com/album/3Et2Wr15aQlTP5DNTsjRRO"
+      },
+      "artists": [
+        {
+          "name": "Pool Girl",
+          "url": "https://open.spotify.com/artist/7t7suXYznGBtoP2uCT0Wv2"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 218693,
+      "name": "Melancholic Beach Town",
+      "url": "https://open.spotify.com/track/56z5pldx12o3RB6puF9inR"
     },
     {
       "album": {
@@ -13424,6 +13552,40 @@
       "duration_ms": 162093,
       "name": "Natural",
       "url": "https://open.spotify.com/track/4Jlo0XmE2MeNcep7aRc5LC"
+    },
+    {
+      "album": {
+        "name": "Need You",
+        "url": "https://open.spotify.com/album/3pGQTcMqZ0ZTHNLr0knMpL"
+      },
+      "artists": [
+        {
+          "name": "Nyla Symone",
+          "url": "https://open.spotify.com/artist/6xDY1JCEFAt0CaMjuOjooi"
+        },
+        {
+          "name": "Reuben Vincent",
+          "url": "https://open.spotify.com/artist/50sU8LMWPibBo24HD8EmvJ"
+        },
+        {
+          "name": "SWAVAY",
+          "url": "https://open.spotify.com/artist/29gIYsdyccGoUc6qgkZeTK"
+        },
+        {
+          "name": "Ben Reilly",
+          "url": "https://open.spotify.com/artist/4lrP5UPxljRj14uzlXgZgv"
+        },
+        {
+          "name": "Honor Roll",
+          "url": "https://open.spotify.com/artist/1ZDgFAx9zmilOjVf9LpBcZ"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197527,
+      "name": "Need You",
+      "url": "https://open.spotify.com/track/70r2s5E9B3ZNH6d6enXGLY"
     },
     {
       "album": {
@@ -14689,6 +14851,24 @@
     },
     {
       "album": {
+        "name": "Party",
+        "url": "https://open.spotify.com/album/674Qcc5Gc2YpyGE7oDMpiQ"
+      },
+      "artists": [
+        {
+          "name": "Troye Sivan",
+          "url": "https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 201331,
+      "name": "Party",
+      "url": "https://open.spotify.com/track/0zbf6dj8GkCdYRRRph7ELk"
+    },
+    {
+      "album": {
         "name": "Pasadena",
         "url": "https://open.spotify.com/album/0zmWwqe1hamqWmBwdnaw3C"
       },
@@ -14736,10 +14916,28 @@
       ],
       "date_added": "2023-08-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 298940,
       "name": "Passionfruit",
       "url": "https://open.spotify.com/track/5mCPDVBb16L4XQwDdbRUpz"
+    },
+    {
+      "album": {
+        "name": "passionfruit",
+        "url": "https://open.spotify.com/album/7f5KedTmvadduiNc03bc6D"
+      },
+      "artists": [
+        {
+          "name": "the booyah! kids",
+          "url": "https://open.spotify.com/artist/0ypSujQpBRgRAeOS7YzhnP"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194609,
+      "name": "passionfruit",
+      "url": "https://open.spotify.com/track/2AQtqHBl8vVm1h3cXc0VqJ"
     },
     {
       "album": {
@@ -18143,6 +18341,24 @@
     },
     {
       "album": {
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+      },
+      "artists": [
+        {
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246761,
+      "name": "Summer Sweat",
+      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
+    },
+    {
+      "album": {
         "name": "Summer Vibe",
         "url": "https://open.spotify.com/album/3f0W0a3YNaHEjxaMZ73dOO"
       },
@@ -18506,7 +18722,7 @@
       ],
       "date_added": "2021-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 163025,
       "name": "Sunroof",
       "url": "https://open.spotify.com/track/3RfTeIrWS8LNrfHYwechtt"
@@ -20672,6 +20888,24 @@
       "duration_ms": 229360,
       "name": "Virtual Insanity - Remastered 2006",
       "url": "https://open.spotify.com/track/2hNaljpWGHzwcIvkPIHMk7"
+    },
+    {
+      "album": {
+        "name": "Eva Eva Eva",
+        "url": "https://open.spotify.com/album/0hWRLE6pFBfSYcblVhwjKP"
+      },
+      "artists": [
+        {
+          "name": "Eva Eva Eva",
+          "url": "https://open.spotify.com/artist/6EQNQjeMslKvAI1NvxB7qw"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 242825,
+      "name": "Vivo Sarai (Staying Alive)",
+      "url": "https://open.spotify.com/track/2StLwKcI9wreel3XEzljbl"
     },
     {
       "album": {

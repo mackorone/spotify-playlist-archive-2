@@ -1,6 +1,6 @@
 {
   "description": "Channel some chilled-out back yard vibes.",
-  "num_followers": 1947606,
+  "num_followers": 1947413,
   "original_name": "Chill Folk",
   "owner": {
     "name": "Spotify",
@@ -423,18 +423,18 @@
     {
       "added_at": "2026-09-18 04:00:56",
       "album": {
-        "name": "The Future",
-        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
+        "name": "Earthstar Mountain",
+        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
       },
       "artists": [
         {
-          "name": "Nathaniel Rateliff & The Night Sweats",
-          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
+          "name": "Hannah Cohen",
+          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
         }
       ],
-      "duration_ms": 279186,
-      "name": "Face Down In The Moment",
-      "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
+      "duration_ms": 246761,
+      "name": "Summer Sweat",
+      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
     },
     {
       "added_at": "2026-09-18 04:00:56",
@@ -459,18 +459,18 @@
     {
       "added_at": "2026-09-18 04:00:56",
       "album": {
-        "name": "Earthstar Mountain",
-        "url": "https://open.spotify.com/album/2aS0NR1iVCRE2DEr197fe2"
+        "name": "The Future",
+        "url": "https://open.spotify.com/album/48KAdMIRvmqIq7py0qw3rh"
       },
       "artists": [
         {
-          "name": "Hannah Cohen",
-          "url": "https://open.spotify.com/artist/7ovXNdlB2DNSC16TbKgros"
+          "name": "Nathaniel Rateliff & The Night Sweats",
+          "url": "https://open.spotify.com/artist/02seUFsFQP7TH4hLrTj77o"
         }
       ],
-      "duration_ms": 246761,
-      "name": "Summer Sweat",
-      "url": "https://open.spotify.com/track/22Owv4nARWNLMrMOARWzo7"
+      "duration_ms": 279186,
+      "name": "Face Down In The Moment",
+      "url": "https://open.spotify.com/track/5yTpyXVKcB20zOGXU1ffgf"
     },
     {
       "added_at": "2026-09-18 04:00:56",
@@ -711,6 +711,22 @@
     {
       "added_at": "2026-09-18 04:00:56",
       "album": {
+        "name": "Hey Big Dipper",
+        "url": "https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe"
+      },
+      "artists": [
+        {
+          "name": "Humbird",
+          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
+        }
+      ],
+      "duration_ms": 186806,
+      "name": "Hey Big Dipper",
+      "url": "https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF"
+    },
+    {
+      "added_at": "2026-09-18 04:00:56",
+      "album": {
         "name": "(watch my moves)",
         "url": "https://open.spotify.com/album/0iUKX7bSb68dbhM7sfcNwo"
       },
@@ -723,22 +739,6 @@
       "duration_ms": 332533,
       "name": "Mount Airy Hill (Way Gone)",
       "url": "https://open.spotify.com/track/5tJR6RjWugeOXA97HROWEt"
-    },
-    {
-      "added_at": "2026-09-18 04:00:56",
-      "album": {
-        "name": "Pale Blue Eyes",
-        "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
-      },
-      "artists": [
-        {
-          "name": "Sydney Ross Mitchell",
-          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
-        }
-      ],
-      "duration_ms": 213147,
-      "name": "Pale Blue Eyes",
-      "url": "https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29"
     },
     {
       "added_at": "2026-09-18 04:00:56",
@@ -759,6 +759,22 @@
     {
       "added_at": "2026-09-18 04:00:56",
       "album": {
+        "name": "Pale Blue Eyes",
+        "url": "https://open.spotify.com/album/1TXPiNt8GDt6UCXI7kT0yk"
+      },
+      "artists": [
+        {
+          "name": "Sydney Ross Mitchell",
+          "url": "https://open.spotify.com/artist/6ehbjKYJwaDdHpiw52vdGr"
+        }
+      ],
+      "duration_ms": 213147,
+      "name": "Pale Blue Eyes",
+      "url": "https://open.spotify.com/track/4TvmANoYjSYuYk6oXkiG29"
+    },
+    {
+      "added_at": "2026-09-18 04:00:56",
+      "album": {
         "name": "In My Life",
         "url": "https://open.spotify.com/album/3tgVhn9aidAfQvITwCZvhM"
       },
@@ -771,22 +787,6 @@
       "duration_ms": 176320,
       "name": "In My Life",
       "url": "https://open.spotify.com/track/2kgnKo9QCHpohSPxkDStLy"
-    },
-    {
-      "added_at": "2026-09-18 04:00:56",
-      "album": {
-        "name": "Hey Big Dipper",
-        "url": "https://open.spotify.com/album/4gbeN5NrOQolhM9q2vXxpe"
-      },
-      "artists": [
-        {
-          "name": "Humbird",
-          "url": "https://open.spotify.com/artist/0RLSq3hJOLcEezH3rTpnsB"
-        }
-      ],
-      "duration_ms": 186806,
-      "name": "Hey Big Dipper",
-      "url": "https://open.spotify.com/track/4OndTyKZQ63aJBFureswdF"
     },
     {
       "added_at": "2026-09-18 04:00:56",
@@ -875,6 +875,22 @@
     {
       "added_at": "2026-09-18 04:00:56",
       "album": {
+        "name": "Back on the Road",
+        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
+      },
+      "artists": [
+        {
+          "name": "Half Moon Run",
+          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
+        }
+      ],
+      "duration_ms": 144901,
+      "name": "Back on the Road",
+      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
+    },
+    {
+      "added_at": "2026-09-18 04:00:56",
+      "album": {
         "name": "Weathervanes",
         "url": "https://open.spotify.com/album/2gL0IM5SYhCxJebPaKdDkx"
       },
@@ -891,22 +907,6 @@
       "duration_ms": 250574,
       "name": "Strawberry Woman",
       "url": "https://open.spotify.com/track/4ABeiTbfMPzISpIeehvxRg"
-    },
-    {
-      "added_at": "2026-09-18 04:00:56",
-      "album": {
-        "name": "Back on the Road",
-        "url": "https://open.spotify.com/album/5yzWuLgd5HDeqhXHxVb2Kj"
-      },
-      "artists": [
-        {
-          "name": "Half Moon Run",
-          "url": "https://open.spotify.com/artist/3ceQN2NVlLg1hgTzljDE4n"
-        }
-      ],
-      "duration_ms": 144901,
-      "name": "Back on the Road",
-      "url": "https://open.spotify.com/track/3iGrd3ze293iLtxeuNFCSq"
     },
     {
       "added_at": "2026-09-18 04:00:56",
@@ -1291,22 +1291,6 @@
     {
       "added_at": "2026-09-18 04:00:56",
       "album": {
-        "name": "Idyllwild",
-        "url": "https://open.spotify.com/album/7w0MODSRs0cGGW4GeHDwEr"
-      },
-      "artists": [
-        {
-          "name": "Pete Yorn",
-          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
-        }
-      ],
-      "duration_ms": 191559,
-      "name": "Idyllwild",
-      "url": "https://open.spotify.com/track/4hPX6P3gx2SqT9Gj6kxGKU"
-    },
-    {
-      "added_at": "2026-09-18 04:00:56",
-      "album": {
         "name": "Queen of Spades",
         "url": "https://open.spotify.com/album/4BFarbaoASbZRQIILdDow5"
       },
@@ -1319,6 +1303,22 @@
       "duration_ms": 220600,
       "name": "Queen of Spades",
       "url": "https://open.spotify.com/track/21dHyWwvMyddQhlbBmZGyl"
+    },
+    {
+      "added_at": "2026-09-18 04:00:56",
+      "album": {
+        "name": "Idyllwild",
+        "url": "https://open.spotify.com/album/7w0MODSRs0cGGW4GeHDwEr"
+      },
+      "artists": [
+        {
+          "name": "Pete Yorn",
+          "url": "https://open.spotify.com/artist/5l2EAkfckNPYZbEDbQtEkO"
+        }
+      ],
+      "duration_ms": 191559,
+      "name": "Idyllwild",
+      "url": "https://open.spotify.com/track/4hPX6P3gx2SqT9Gj6kxGKU"
     },
     {
       "added_at": "2026-09-18 04:00:56",

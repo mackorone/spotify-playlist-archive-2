@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 354 likes - 2,638 songs - 6 day 10 hr 29 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 355 likes - 2,641 songs - 6 day 10 hr 39 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -2458,7 +2458,7 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2448 | [Teduh Dan Tenang](https://open.spotify.com/track/1W96wy1a5FNdPWG4dX941s) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Teduh Dan Tenang](https://open.spotify.com/album/4ifPGeFhtCLFK5CXSktaTj) | 4:28 |
 | 2449 | [Sinkopasi Rasa](https://open.spotify.com/track/0nziPGJge4BDTwyNDjhW0B) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Sinkopasi Rasa](https://open.spotify.com/album/1zmhCdv90zxAd0fEXvZRLz) | 2:25 |
 | 2450 | [Menjadi Utuh](https://open.spotify.com/track/5vcOa8lzcPBO2KQ74AQdtl) | [DODIE ISMAIL](https://open.spotify.com/artist/5nXchA4MXmyF1KYDiaMW5r) | [Menjadi Utuh](https://open.spotify.com/album/2jynPXHatxWoOARNGRcYGf) | 4:13 |
-| 2451 | [Sardinia](https://open.spotify.com/track/5cLDgmrRqxhW27wKEf30G9) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Sardinia](https://open.spotify.com/album/6kNKTlgBDM7FWeTUtDnNM9) | 2:47 |
+| 2451 | [Sardinia](https://open.spotify.com/track/5cLDgmrRqxhW27wKEf30G9) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [José Sechi.](https://open.spotify.com/artist/7iIoRgouvtDqZ8BplUUShj), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn), [Meditherranea & Prova MI & José Sechi\. & 001 BEST](https://open.spotify.com/artist/6zNtfoNKlu5QCWehjOth3a) | [Sardinia](https://open.spotify.com/album/6kNKTlgBDM7FWeTUtDnNM9) | 2:47 |
 | 2452 | [Blu Cobalto](https://open.spotify.com/track/3EuICfEHF0XSk2QKzXHbxg) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/5K5ARVaWTrVKw7yEKvcCpt) | 3:09 |
 | 2453 | [Segreti di Miele](https://open.spotify.com/track/0DsXkCyT6k1PoOBaSXTGIq) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/5K5ARVaWTrVKw7yEKvcCpt) | 2:04 |
 | 2454 | [Duna Surf](https://open.spotify.com/track/07unJbxGo2TlbT6IgoYKOe) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Del Vento e Del Mare](https://open.spotify.com/album/5K5ARVaWTrVKw7yEKvcCpt) | 3:16 |
@@ -2646,5 +2646,8 @@ pretty - [cumulative](/playlists/cumulative/5e6Fh9M8H5B7CAoqHFa3yu.md) - [plain]
 | 2636 | [Summer Nights](https://open.spotify.com/track/7FBdQeCOVJi465fK6Y2uNe) | [50 Ways](https://open.spotify.com/artist/6lIRNVXjOm2XC5TGXMcZV6) | [Summer Nights](https://open.spotify.com/album/6t2hGIJgcrJzhHAgOfdf9m) | 3:25 |
 | 2637 | [Ти одна](https://open.spotify.com/track/1TTAOvapubQP7UrD5aoFtd) | [Влад Зайцев](https://open.spotify.com/artist/0ePuvKWeXbAlYFxvakdJ6h) | [Ти одна](https://open.spotify.com/album/0ZankfEUuI9HX0DlAiMM7w) | 3:37 |
 | 2638 | [Kiitos Ja Näkemiin](https://open.spotify.com/track/53fQ93YMUdK4uc5TP6CdiX) | [Muupe B\. Horto](https://open.spotify.com/artist/6Dq8fIdjjfW20AXixOxyKa) | [Lappeenrannassa](https://open.spotify.com/album/2FLEpk7AtlJcAcPBBrM6Ow) | 2:02 |
+| 2639 | [The Big House](https://open.spotify.com/track/1horHByM1axyVe7mQmgI9I) | [Alessandro Liccardo](https://open.spotify.com/artist/256CcBQU76vRqixx59jpgN) | [The Venosa Session](https://open.spotify.com/album/5zQmf6E0PQ5Ln7hPOUZUkT) | 3:47 |
+| 2640 | [Kopf aus, Herz an](https://open.spotify.com/track/7qVf3mM1KTblvIvBHH5x4K) | [Claudius Mach](https://open.spotify.com/artist/0pwgyvU4c9jWbzHuP0yPUY) | [Kopf aus, Herz an](https://open.spotify.com/album/5nnFUHq6srcKC86jXRm6Zm) | 4:08 |
+| 2641 | [Alles Okay](https://open.spotify.com/track/04WUfyc04zu4Jvn39b0OUZ) | [Jamin](https://open.spotify.com/artist/2ENKqKJLJHCtan7k5y7s69) | [Alles Okay](https://open.spotify.com/album/3E7Opp5ENpxtjyJbBsEOVp) | 2:26 |
 
-Snapshot ID: `AAALShZmn01i5cTnF+vGRb2zQhCiojBE`
+Snapshot ID: `AAALTQRa+GJht6juJKQ4mb5Hv3c6Fwwv`

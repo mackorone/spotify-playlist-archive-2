@@ -1,6 +1,6 @@
 {
   "description": "90's & 00's party jams with Aaliyah, Justin Timberlake, Destiny's Child and Usher.",
-  "num_followers": 317301,
+  "num_followers": 317483,
   "original_name": "R&B Classics Party",
   "owner": {
     "name": "Spotify",
@@ -1835,6 +1835,22 @@
     {
       "added_at": "2024-07-15 07:37:26",
       "album": {
+        "name": "Ideal",
+        "url": "https://open.spotify.com/album/0sCYqD1xXtAvHiYETuTP0K"
+      },
+      "artists": [
+        {
+          "name": "Ideal",
+          "url": "https://open.spotify.com/artist/2bK1rpFhmGkImiZNuUyHVT"
+        }
+      ],
+      "duration_ms": 228159,
+      "name": "Whatever - Radio Edit",
+      "url": "https://open.spotify.com/track/3tHAB8FI4rfULUHHG1d2Ct"
+    },
+    {
+      "added_at": "2024-07-15 07:37:26",
+      "album": {
         "name": "Almost Famous",
         "url": "https://open.spotify.com/album/6rqhiXmQNt6YmuavJhCVNv"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 212276,
       "name": "Never Leave You (Uh Oooh, Uh Oooh) - Uh Oooh Remix",
       "url": "https://open.spotify.com/track/7h4T9TmS2uxOHYGOrc6wSM"
-    },
-    {
-      "added_at": "2024-07-15 07:37:26",
-      "album": {
-        "name": "Ideal",
-        "url": "https://open.spotify.com/album/0sCYqD1xXtAvHiYETuTP0K"
-      },
-      "artists": [
-        {
-          "name": "Ideal",
-          "url": "https://open.spotify.com/artist/2bK1rpFhmGkImiZNuUyHVT"
-        }
-      ],
-      "duration_ms": 228159,
-      "name": "Whatever - Radio Edit",
-      "url": "https://open.spotify.com/track/3tHAB8FI4rfULUHHG1d2Ct"
     },
     {
       "added_at": "2024-07-15 07:37:26",

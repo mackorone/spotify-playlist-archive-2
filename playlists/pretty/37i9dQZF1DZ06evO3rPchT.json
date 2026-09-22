@@ -1,12 +1,12 @@
 {
   "description": "This is HARDY. The essential tracks, all in one playlist.",
-  "num_followers": 88610,
+  "num_followers": 88624,
   "original_name": "This Is HARDY",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAAyEjDr7ZVjZHTHFTBbtalv",
+  "snapshot_id": "aq8iAAAAAABk29TxOMVOlG41qEaxjXv2",
   "tracks": [
     {
       "added_at": null,
@@ -235,8 +235,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
       },
       "artists": [
         {
@@ -244,9 +244,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 235360,
-      "name": "UNAPOLOGETICALLY COUNTRY AS HELL",
-      "url": "https://open.spotify.com/track/7fkAb0kXW8636FD1Mwz4MY"
+      "duration_ms": 221795,
+      "name": "JIM BOB",
+      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
     },
     {
       "added_at": null,
@@ -267,8 +267,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
       "artists": [
         {
@@ -276,9 +276,9 @@
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 221795,
-      "name": "JIM BOB",
-      "url": "https://open.spotify.com/track/47YDyBZP1GyFZxzYbV3xcj"
+      "duration_ms": 235360,
+      "name": "UNAPOLOGETICALLY COUNTRY AS HELL",
+      "url": "https://open.spotify.com/track/7fkAb0kXW8636FD1Mwz4MY"
     },
     {
       "added_at": null,
@@ -299,18 +299,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "A ROCK",
-        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
+        "name": "One Thing At A Time",
+        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
       },
       "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 193901,
-      "name": "BOOTS",
-      "url": "https://open.spotify.com/track/0u9zevC5U0KfmXCJveb1WJ"
+      "duration_ms": 195326,
+      "name": "In The Bible",
+      "url": "https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV"
     },
     {
       "added_at": null,
@@ -331,22 +335,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "One Thing At A Time",
-        "url": "https://open.spotify.com/album/0rnd3h2dc82L4gTjW6Vfoq"
+        "name": "A ROCK",
+        "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
       "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
         {
           "name": "HARDY",
           "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
         }
       ],
-      "duration_ms": 195326,
-      "name": "In The Bible",
-      "url": "https://open.spotify.com/track/12yrm2FnFI9uaGrIaiAtvV"
+      "duration_ms": 193901,
+      "name": "BOOTS",
+      "url": "https://open.spotify.com/track/0u9zevC5U0KfmXCJveb1WJ"
     },
     {
       "added_at": null,
@@ -431,22 +431,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Quit!!",
-        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 194341,
-      "name": "ROCKSTAR",
-      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "A ROCK",
         "url": "https://open.spotify.com/album/6UlHZq45Z2Wlea0A0wcg8y"
       },
@@ -459,6 +443,22 @@
       "duration_ms": 218718,
       "name": "TRUCK",
       "url": "https://open.spotify.com/track/4e65NJs3JpNvrdjcNBL3s5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Quit!!",
+        "url": "https://open.spotify.com/album/0zzZdwpH6br3OJ6po0nu8e"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 194341,
+      "name": "ROCKSTAR",
+      "url": "https://open.spotify.com/track/5NKPbcHaLSl4K3lJCo4pJr"
     },
     {
       "added_at": null,
@@ -703,22 +703,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 222793,
-      "name": "4X4",
-      "url": "https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "s\u00f8n of dad (deluxe)",
         "url": "https://open.spotify.com/album/3iTz4Hhtzy2o7O6U9n2JXe"
       },
@@ -735,6 +719,22 @@
       "duration_ms": 272712,
       "name": "Father\u2019s S\u00f8n - Acoustic",
       "url": "https://open.spotify.com/track/3ZMIozrnoYr0wrHpBpM9aX"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 222793,
+      "name": "4X4",
+      "url": "https://open.spotify.com/track/1WIeoKa9OpHSFSj0pwnRzE"
     },
     {
       "added_at": null,
@@ -771,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THIS OLE BOY",
-        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
-      },
-      "artists": [
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        }
-      ],
-      "duration_ms": 203674,
-      "name": "THROWBACK",
-      "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 185813,
       "name": "Boy From The South (HARDY feat. Cole Swindell, Dustin Lynch)",
       "url": "https://open.spotify.com/track/2ILsP5u4fRCAb9oIyxJ1Wl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THIS OLE BOY",
+        "url": "https://open.spotify.com/album/38vgQsKhjrL03jYImW84ic"
+      },
+      "artists": [
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        }
+      ],
+      "duration_ms": 203674,
+      "name": "THROWBACK",
+      "url": "https://open.spotify.com/track/0nuoH38JAOGnaG63WTe5Cz"
     },
     {
       "added_at": null,
@@ -847,34 +847,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "HIXTAPE: Vol. 2",
-        "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
-      },
-      "artists": [
-        {
-          "name": "HIXTAPE",
-          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
-        },
-        {
-          "name": "HARDY",
-          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
-        },
-        {
-          "name": "Travis Denning",
-          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
-        },
-        {
-          "name": "Josh Thompson",
-          "url": "https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io"
-        }
-      ],
-      "duration_ms": 189336,
-      "name": "Beer With My Buddies (feat. HARDY, Josh Thompson & Travis Denning)",
-      "url": "https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "HIXTAPE: Vol. 1",
         "url": "https://open.spotify.com/album/4sQGLSnIbYXHipTFyxPsMs"
       },
@@ -899,6 +871,34 @@
       "duration_ms": 197173,
       "name": "Something A Lil' Stronger (HARDY feat. Mitchell Tenpenny, Jon Langston)",
       "url": "https://open.spotify.com/track/4OEJLmKZYopHZIJ121oWLv"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIXTAPE: Vol. 2",
+        "url": "https://open.spotify.com/album/2xCINfSz32yE1z6IFqwGPj"
+      },
+      "artists": [
+        {
+          "name": "HIXTAPE",
+          "url": "https://open.spotify.com/artist/4Y8LpEiP4uKTP02lSYEWJV"
+        },
+        {
+          "name": "HARDY",
+          "url": "https://open.spotify.com/artist/5QNm7E7RU2m64l6Gliu8Oy"
+        },
+        {
+          "name": "Travis Denning",
+          "url": "https://open.spotify.com/artist/6CegFHnUqJcOBipgphZ2CJ"
+        },
+        {
+          "name": "Josh Thompson",
+          "url": "https://open.spotify.com/artist/4BuyNtIXCdb4fHesOdR3io"
+        }
+      ],
+      "duration_ms": 189336,
+      "name": "Beer With My Buddies (feat. HARDY, Josh Thompson & Travis Denning)",
+      "url": "https://open.spotify.com/track/0Hqzm7rSNkjNed9a0xRFUc"
     },
     {
       "added_at": null,

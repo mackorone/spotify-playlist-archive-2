@@ -1,6 +1,6 @@
 {
   "description": "The best new and classic South African Rock. Cover: Laudo",
-  "num_followers": 28571,
+  "num_followers": 28574,
   "original_name": "SA Rock ",
   "owner": {
     "name": "Spotify",
@@ -627,6 +627,22 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
+        "name": "As Jy Met Vuur Speel Sal Jy Brand",
+        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
+      },
+      "artists": [
+        {
+          "name": "Fokofpolisiekar",
+          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
+        }
+      ],
+      "duration_ms": 159253,
+      "name": "Hemel Op Die Platteland",
+      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
+    },
+    {
+      "added_at": "2026-08-27 22:01:29",
+      "album": {
         "name": "My Huis",
         "url": "https://open.spotify.com/album/4LFMmXfu0M8LakG0Rxrvad"
       },
@@ -643,22 +659,6 @@
       "duration_ms": 210092,
       "name": "My Huis",
       "url": "https://open.spotify.com/track/4J7eWAverusqBod1ECoqFc"
-    },
-    {
-      "added_at": "2026-08-27 22:01:29",
-      "album": {
-        "name": "As Jy Met Vuur Speel Sal Jy Brand",
-        "url": "https://open.spotify.com/album/5gSfDHZrqgG02WCE30NRvM"
-      },
-      "artists": [
-        {
-          "name": "Fokofpolisiekar",
-          "url": "https://open.spotify.com/artist/7JL8PgOQe05PjPZtwBfR8x"
-        }
-      ],
-      "duration_ms": 159253,
-      "name": "Hemel Op Die Platteland",
-      "url": "https://open.spotify.com/track/5I3Az6oo2LaU1P8yvRk22d"
     },
     {
       "added_at": "2026-08-27 22:01:29",
@@ -739,18 +739,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Change",
-        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
+        "name": "Lego",
+        "url": "https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1"
       },
       "artists": [
         {
-          "name": "GRANGE",
-          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
+          "name": "Sonder Onderbroeke",
+          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
         }
       ],
-      "duration_ms": 239258,
-      "name": "Change",
-      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
+      "duration_ms": 151329,
+      "name": "Lego",
+      "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
     },
     {
       "added_at": "2026-09-17 22:02:32",
@@ -771,18 +771,18 @@
     {
       "added_at": "2026-08-27 22:01:29",
       "album": {
-        "name": "Lego",
-        "url": "https://open.spotify.com/album/4l1TvdGZXxYmCOHJyhgCf1"
+        "name": "Change",
+        "url": "https://open.spotify.com/album/3RFMCxQUQxxL3lydudnfah"
       },
       "artists": [
         {
-          "name": "Sonder Onderbroeke",
-          "url": "https://open.spotify.com/artist/3KKSiu6TyRnyTue7MDKvrx"
+          "name": "GRANGE",
+          "url": "https://open.spotify.com/artist/3E82Y3u4xMJqadI1AkzvSb"
         }
       ],
-      "duration_ms": 151329,
-      "name": "Lego",
-      "url": "https://open.spotify.com/track/7nyB4Ld3JW9cTC0zv3v3nJ"
+      "duration_ms": 239258,
+      "name": "Change",
+      "url": "https://open.spotify.com/track/6C4VkYbuUh13rTCrnrYfyv"
     },
     {
       "added_at": "2026-09-17 22:02:32",

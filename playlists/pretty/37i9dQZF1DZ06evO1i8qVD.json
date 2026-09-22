@@ -1,12 +1,12 @@
 {
   "description": "This is Buddy Guy. The essential tracks, all in one playlist.",
-  "num_followers": 39474,
+  "num_followers": 39477,
   "original_name": "This Is Buddy Guy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAD4PnmHvbZooG0H7eGZipGR",
+  "snapshot_id": "aq8iAAAAAAD69u0YUHR1xqO6OJF7GpFv",
   "tracks": [
     {
       "added_at": null,
@@ -415,6 +415,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ain't Done With The Blues",
+        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 228167,
+      "name": "Been There Done That",
+      "url": "https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sinners (Original Motion Picture Soundtrack)",
         "url": "https://open.spotify.com/album/0zjAqh1Fr7XQWy1SlzGhMn"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 69733,
       "name": "Travelin'",
       "url": "https://open.spotify.com/track/0DFc5GuX8VG95HBbzebVby"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Ain't Done With The Blues",
-        "url": "https://open.spotify.com/album/2MIp3zMbggiFAgOOLUgU50"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 228167,
-      "name": "Been There Done That",
-      "url": "https://open.spotify.com/track/58fNv64oeBSZdAsYipR5pj"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Damn Right, I've Got The Blues",
-        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
-      },
-      "artists": [
-        {
-          "name": "Buddy Guy",
-          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
-        }
-      ],
-      "duration_ms": 241413,
-      "name": "Let Me Love You Baby",
-      "url": "https://open.spotify.com/track/75PUrwtQEarrbg4JQ2VDMr"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rhythm & Blues",
         "url": "https://open.spotify.com/album/5IyOwYWSw2m1mwD4OEpFeM"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 314026,
       "name": "The Devil's Daughter",
       "url": "https://open.spotify.com/track/2DgqYxUQw3YODAgaqmS6SJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Damn Right, I've Got The Blues",
+        "url": "https://open.spotify.com/album/7IxnFL0kaVSqs9iy9qSqPj"
+      },
+      "artists": [
+        {
+          "name": "Buddy Guy",
+          "url": "https://open.spotify.com/artist/2gCsNOpiBaMNh20jQ5prf0"
+        }
+      ],
+      "duration_ms": 241413,
+      "name": "Let Me Love You Baby",
+      "url": "https://open.spotify.com/track/75PUrwtQEarrbg4JQ2VDMr"
     },
     {
       "added_at": null,

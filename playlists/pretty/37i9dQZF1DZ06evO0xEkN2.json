@@ -1,12 +1,12 @@
 {
   "description": "This is Panteon Rococo. The essential tracks, all in one playlist.",
-  "num_followers": 241936,
+  "num_followers": 241959,
   "original_name": "This Is Panteon Rococo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAB8p5Mke/x8KWhtqBZnUMQK",
+  "snapshot_id": "aq8iAAAAAABgL2AED4Uq+ywROhstO3YC",
   "tracks": [
     {
       "added_at": null,
@@ -503,22 +503,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "A la Izquierda de la Tierra",
-        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 227520,
-      "name": "Borracho Drunk Steady Beer",
-      "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Rigo Es Amor",
         "url": "https://open.spotify.com/album/4nbp0G88SZuGOUCgVYHw26"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 195226,
       "name": "Lamento De Amor",
       "url": "https://open.spotify.com/track/2gNb1tTjQmPase1ZhrS83L"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "A la Izquierda de la Tierra",
+        "url": "https://open.spotify.com/album/4H2Qf4zgMbm6np5JU3z9Qd"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 227520,
+      "name": "Borracho Drunk Steady Beer",
+      "url": "https://open.spotify.com/track/2zl3Y1AorHtOI8KNbTT1DA"
     },
     {
       "added_at": null,
@@ -779,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Sonoro",
-        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
-      },
-      "artists": [
-        {
-          "name": "Panteon Rococo",
-          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
-        }
-      ],
-      "duration_ms": 184585,
-      "name": "Rojo",
-      "url": "https://open.spotify.com/track/7fhElVS29SBlYWftDgwXdx"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Un Canto por M\u00e9xico, Vol. 1",
         "url": "https://open.spotify.com/album/6yDcHjoEqNkkl9UC6KSlFE"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 321120,
       "name": "Un Derecho de Nacimiento",
       "url": "https://open.spotify.com/track/5iRyYvj7aDYImzxBTDeN3J"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Sonoro",
+        "url": "https://open.spotify.com/album/2Vks2U7oTqxnhPa1D7Arez"
+      },
+      "artists": [
+        {
+          "name": "Panteon Rococo",
+          "url": "https://open.spotify.com/artist/11mqrDSFRRz8g0Wb3syJj5"
+        }
+      ],
+      "duration_ms": 184585,
+      "name": "Rojo",
+      "url": "https://open.spotify.com/track/7fhElVS29SBlYWftDgwXdx"
     },
     {
       "added_at": null,

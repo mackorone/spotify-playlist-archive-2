@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 
 > Get into the mood with beautiful collections of Jazz Pop tunes\. Cover: Laufey
 
-[Spotify](https://open.spotify.com/user/spotify) - 203,678 likes - 100 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 203,728 likes - 100 songs - 6 hr 23 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -72,9 +72,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 62 | [Let's Go to Bed](https://open.spotify.com/track/5IOpRI9B5AdsM27NRoxFBN) | [Apollinare Rossi](https://open.spotify.com/artist/48eBlQXonG4CHpDSshfblU), [Jules Renauld](https://open.spotify.com/artist/1Y9ahZoSEtmas0uiZLNFbM) | [Collusion](https://open.spotify.com/album/06hyQYD4HmLpKPhtG0BaJD) | 4:27 |
 | 63 | [Chamomile Tea](https://open.spotify.com/track/60DjNIdGJqoutA2cAPECME) | [Andrew Farstar](https://open.spotify.com/artist/4VNIES74VX9mO2lcX0F29z) | [Chamomile Tea](https://open.spotify.com/album/3Td5khYAnUf2qrCsIJVbsr) | 4:12 |
 | 64 | [River](https://open.spotify.com/track/57cy5aqH3hqdeYWZpstmaj) | [Lyambiko](https://open.spotify.com/artist/6ffhnheAv6MHO3B0ybBpnK) | [River](https://open.spotify.com/album/4bVk8bkgZx4JQwZzWAslTq) | 2:57 |
-| 65 | [Okay Far Away](https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 3:31 |
-| 66 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 |
-| 67 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
+| 65 | [Humphrey and me](https://open.spotify.com/track/4XhWfCz8BTkVJSMKigd9Yj) | [Claes Janson](https://open.spotify.com/artist/0E2Jf1UHMqdQDdH12mc712) | [Humphrey and Me](https://open.spotify.com/album/6l7bnqZr0KQ5y5P4T17rmL) | 4:27 |
+| 66 | [Love is Easy](https://open.spotify.com/track/6jDuNVLVqJ3MQREMcqVuOI) | [Emma Nabarro\-Steel](https://open.spotify.com/artist/5FpFEkqGfW3o1aiGZ3Fo0q) | [Softly Loudly](https://open.spotify.com/album/6o1RyiUTwXsjy4m538872B) | 3:55 |
+| 67 | [Okay Far Away](https://open.spotify.com/track/71pCUljdEvSTyXAshOr04o) | [Alan Hsiao](https://open.spotify.com/artist/1eMnPWHlHkgdpcfc7RJOwG) | [Little Songs](https://open.spotify.com/album/6F9lolDvmsdb9j8eCk2bNC) | 3:31 |
 | 68 | [Baby, It's Cold Outside](https://open.spotify.com/track/0B3lVXeu3W5JrjI8hS4cZe) | [JP Maurice](https://open.spotify.com/artist/05ambhctJK0e4o4OtxHsTt), [Pyper Geddes](https://open.spotify.com/artist/7Bfhcpf9ajhLnwmHT2z1TQ) | [Baby, It's Cold Outside](https://open.spotify.com/album/6NHoiZIcnSvbWY2PKyJcvg) | 3:08 |
 | 69 | [Loneliness](https://open.spotify.com/track/32OA13wgTrofFyy79cYtyy) | [Lady Linn](https://open.spotify.com/artist/7lG8Ngp13005VC7O8dD7QL) | [Loneliness](https://open.spotify.com/album/2vPNtFnHCKBRIsGPlZL9cd) | 3:05 |
 | 70 | [Hope](https://open.spotify.com/track/4f07IekrS5YArBirP3QPoa) | [Simone Kopmajer](https://open.spotify.com/artist/7cylWVUnKfaVT2vpkNoRWB) | [Hope](https://open.spotify.com/album/4cas4ZXJwEuit9sjL34yHb) | 4:03 |
@@ -101,9 +101,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTsUzn4pp2rW.md) - [plain]
 | 91 | [Sleepy Time](https://open.spotify.com/track/0ZPGsmxhoJ04ZpTYc8AsPr) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Sleepy Time](https://open.spotify.com/album/2lEpDZQZa6jFb016hgwasV) | 2:38 |
 | 92 | [There is a place](https://open.spotify.com/track/5hGtLvLqN33BWKzNtEguUB) | [Ellen Andrea Wang](https://open.spotify.com/artist/3EpohDnrFdsgQj03BOsPUf) | [There is a place](https://open.spotify.com/album/1GQuklEK5WQisonLLQJjqG) | 4:07 |
 | 93 | [Before I Do](https://open.spotify.com/track/2oSH6sOAP0YOq6qMuO0ZMK) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:18 |
-| 94 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
-| 95 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
-| 96 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
+| 94 | [If I'd Had Your Heart](https://open.spotify.com/track/2fVdaV8noj9GhCpXTxVm2c) | [Untitled Band](https://open.spotify.com/artist/4gfu5YxjKlaDWdnJ7VAM1I) | [Reverie](https://open.spotify.com/album/1yiHIdrp16UXHGjwbbCmxJ) | 3:49 |
+| 95 | [Catwoman](https://open.spotify.com/track/1pu7UTT1w7DjazO2in03EE) | [Stephanie Domet](https://open.spotify.com/artist/03vbrO2FBrwjmzWk9ukzSZ) | [Catwoman](https://open.spotify.com/album/1F3oZyWkL83S4CjBvVMhWj) | 3:31 |
+| 96 | [It's Complicated](https://open.spotify.com/track/7s2Y7jBaXuAEy8iGkaFGS2) | [Andy Jordan](https://open.spotify.com/artist/2vRJ5UH6nfm83H1stvQbCj) | [It's Complicated](https://open.spotify.com/album/7rIEAwoVxuIs8iXJMfuA80) | 3:28 |
 | 97 | [Your Hands](https://open.spotify.com/track/0wPGEY8OnnC8VXXAqitxVc) | [Karen Rosenberg](https://open.spotify.com/artist/7oJ7DWbjYx4lzl9ysPfQ77) | [Same Soul](https://open.spotify.com/album/2jHSlpoC38GtuXY3xwLRng) | 4:53 |
 | 98 | [The Birds and the Bees](https://open.spotify.com/track/5skQwY8m3gZ1LUg0ZXlpgb) | [Barbra Lica](https://open.spotify.com/artist/1LWWCHWErOO9KZfcwrmS9D) | [You're Fine](https://open.spotify.com/album/7AnOsuntfZx3d3Vrnt2z3B) | 3:50 |
 | 99 | [Take Me Off to Dreamland](https://open.spotify.com/track/1oMnqVt779JEPlsLPZyql7) | [Imajjine](https://open.spotify.com/artist/2VU83NBXbWqEuBZVI52YtL) | [Take Me Off to Dreamland](https://open.spotify.com/album/0EmfCjSWHg8evy7OS31JGC) | 4:48 |

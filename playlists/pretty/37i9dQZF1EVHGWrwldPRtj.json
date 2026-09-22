@@ -1,5 +1,5 @@
 {
-  "description": "<a href=spotify:playlist:37i9dQZF1EIVOlGHvpBwBH>Tyler, The Creator</a>, <a href=spotify:playlist:37i9dQZF1EIZlNy1eYPptu>Shawn Mendes</a>, <a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a> and more",
+  "description": "<a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a>, <a href=spotify:playlist:37i9dQZF1EIVOlGHvpBwBH>Tyler, The Creator</a> and more",
   "num_followers": 0,
   "original_name": "Chill Mix",
   "owner": {
@@ -8,6 +8,38 @@
   },
   "snapshot_id": "AAAAAGTRyIE1LM80QU7AnT34qeety+GJ",
   "tracks": [
+    {
+      "added_at": null,
+      "album": {
+        "name": "HIT ME HARD AND SOFT",
+        "url": "https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n"
+      },
+      "artists": [
+        {
+          "name": "Billie Eilish",
+          "url": "https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH"
+        }
+      ],
+      "duration_ms": 210373,
+      "name": "BIRDS OF A FEATHER",
+      "url": "https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "AM",
+        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
+      },
+      "artists": [
+        {
+          "name": "Arctic Monkeys",
+          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
+        }
+      ],
+      "duration_ms": 183956,
+      "name": "I Wanna Be Yours",
+      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
+    },
     {
       "added_at": null,
       "album": {
@@ -27,22 +59,6 @@
       "duration_ms": 180386,
       "name": "See You Again (feat. Kali Uchis)",
       "url": "https://open.spotify.com/track/7KA4W4McWYRpgf0fWsJZWB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Illuminate (Deluxe)",
-        "url": "https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq"
-      },
-      "artists": [
-        {
-          "name": "Shawn Mendes",
-          "url": "https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr"
-        }
-      ],
-      "duration_ms": 199440,
-      "name": "There's Nothing Holdin' Me Back",
-      "url": "https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml"
     },
     {
       "added_at": null,
@@ -619,22 +635,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "AM",
-        "url": "https://open.spotify.com/album/78bpIziExqiI9qztvNFlQu"
-      },
-      "artists": [
-        {
-          "name": "Arctic Monkeys",
-          "url": "https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH"
-        }
-      ],
-      "duration_ms": 183956,
-      "name": "I Wanna Be Yours",
-      "url": "https://open.spotify.com/track/5XeFesFbtLpXzIVDNQP22n"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Invitation to Her's",
         "url": "https://open.spotify.com/album/3w5PWzbOdhuHd2oTynfBJw"
       },
@@ -647,22 +647,6 @@
       "duration_ms": 211165,
       "name": "Harvey",
       "url": "https://open.spotify.com/track/1zFbBrZmJr1Z49HYe84dBg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "On & Off",
-        "url": "https://open.spotify.com/album/7gdxewOIoSvBVLUi7omJMp"
-      },
-      "artists": [
-        {
-          "name": "marQ",
-          "url": "https://open.spotify.com/artist/0qrESwlBOjY46UxJrhsRbC"
-        }
-      ],
-      "duration_ms": 146437,
-      "name": "On & Off",
-      "url": "https://open.spotify.com/track/22Hss9mYx32zL6UHhl0kYq"
     },
     {
       "added_at": null,
@@ -683,6 +667,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "On & Off",
+        "url": "https://open.spotify.com/album/7gdxewOIoSvBVLUi7omJMp"
+      },
+      "artists": [
+        {
+          "name": "marQ",
+          "url": "https://open.spotify.com/artist/0qrESwlBOjY46UxJrhsRbC"
+        }
+      ],
+      "duration_ms": 146437,
+      "name": "On & Off",
+      "url": "https://open.spotify.com/track/22Hss9mYx32zL6UHhl0kYq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "HEAVEN SENT ME",
         "url": "https://open.spotify.com/album/0IJxIySqYXoJuOgBJ38ZZW"
       },
@@ -695,6 +695,22 @@
       "duration_ms": 158804,
       "name": "TELL 'EM YOU'RE MINE",
       "url": "https://open.spotify.com/track/1hCUD7CftOpP6GaelGoOkr"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "OK Computer",
+        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
+      },
+      "artists": [
+        {
+          "name": "Radiohead",
+          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
+        }
+      ],
+      "duration_ms": 229120,
+      "name": "No Surprises",
+      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
       "added_at": null,
@@ -743,22 +759,6 @@
       "duration_ms": 113385,
       "name": "distance",
       "url": "https://open.spotify.com/track/2stuYeS9icwoQf79tUmnv8"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "OK Computer",
-        "url": "https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE"
-      },
-      "artists": [
-        {
-          "name": "Radiohead",
-          "url": "https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb"
-        }
-      ],
-      "duration_ms": 229120,
-      "name": "No Surprises",
-      "url": "https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB"
     },
     {
       "added_at": null,

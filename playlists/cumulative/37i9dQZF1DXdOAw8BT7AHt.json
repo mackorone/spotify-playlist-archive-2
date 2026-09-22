@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-15",
-  "description": "The best of every corner of modern punk rock. Cover: Spanish Love Songs",
+  "description": "The best of every corner of modern punk rock. Cover: NOBRO",
   "name": "Today's Punk",
   "tracks": [
     {
@@ -1253,6 +1253,24 @@
     },
     {
       "album": {
+        "name": "Bang Bang Bang",
+        "url": "https://open.spotify.com/album/2OQAMmezHYf03fpDoJngrN"
+      },
+      "artists": [
+        {
+          "name": "Lambrini Girls",
+          "url": "https://open.spotify.com/artist/6VR4TJ20WGiho2xZWMuuWb"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 142221,
+      "name": "Bang Bang Bang",
+      "url": "https://open.spotify.com/track/6fhNTP2BZzR3wri0qh1iKx"
+    },
+    {
+      "album": {
         "name": "Barely Here",
         "url": "https://open.spotify.com/album/7wRLUzbIKo1teiHHukMg2U"
       },
@@ -1834,6 +1852,24 @@
       "duration_ms": 242230,
       "name": "Blood",
       "url": "https://open.spotify.com/track/547YHEDFzD5h3hlJSrJAR8"
+    },
+    {
+      "album": {
+        "name": "GOTTA GET OUT",
+        "url": "https://open.spotify.com/album/3mzfWcRxRWAstm92UwJ9td"
+      },
+      "artists": [
+        {
+          "name": "The Linda Lindas",
+          "url": "https://open.spotify.com/artist/13dTrWNNrnZ3AkgNyQNKP5"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 109196,
+      "name": "Blood On Our Hands",
+      "url": "https://open.spotify.com/track/3TyK9vL66f6Wluwxq4s3xA"
     },
     {
       "album": {
@@ -2984,7 +3020,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 189677,
       "name": "Closer",
       "url": "https://open.spotify.com/track/0OgIjOcARxnYgm5iL5P6AA"
@@ -3100,6 +3136,28 @@
       "duration_ms": 300785,
       "name": "CONSTANT TENSION",
       "url": "https://open.spotify.com/track/1kg6BZB8zpWDJTgSbCEItf"
+    },
+    {
+      "album": {
+        "name": "Learning How to Cope",
+        "url": "https://open.spotify.com/album/2kdhwBHFuPRgwToDMAqQNU"
+      },
+      "artists": [
+        {
+          "name": "Cartel",
+          "url": "https://open.spotify.com/artist/6wQMF27xWhSyJFnO9L5mQk"
+        },
+        {
+          "name": "Dashboard Confessional",
+          "url": "https://open.spotify.com/artist/4ERtgeBbWRkFzIz6LaFCeY"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 225000,
+      "name": "Constants",
+      "url": "https://open.spotify.com/track/70hL1x11AQc6HdHgOkouim"
     },
     {
       "album": {
@@ -4084,7 +4142,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 241999,
       "name": "Don't Move",
       "url": "https://open.spotify.com/track/3cXCctsuwJnTvJXNZ8Pv8K"
@@ -5058,7 +5116,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 151580,
       "name": "Figurine",
       "url": "https://open.spotify.com/track/49inhdvKjcenjjTdLVMdW9"
@@ -5650,6 +5708,24 @@
       "duration_ms": 205854,
       "name": "Girl God Gun",
       "url": "https://open.spotify.com/track/2gGwnLDwSxsi0zbkwEKSI6"
+    },
+    {
+      "album": {
+        "name": "Girls Like Us",
+        "url": "https://open.spotify.com/album/6QTOMTau9o8DUwu1EtnLt3"
+      },
+      "artists": [
+        {
+          "name": "NOBRO",
+          "url": "https://open.spotify.com/artist/5Tomvwat8AxMGd2ewkDNPs"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186219,
+      "name": "Girls Like Us",
+      "url": "https://open.spotify.com/track/0rm5ZOsXMSULEYSc97Mb8h"
     },
     {
       "album": {
@@ -6296,7 +6372,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 190000,
       "name": "Hard Call",
       "url": "https://open.spotify.com/track/1S84RaWPLv9RR89kKqCez1"
@@ -7046,7 +7122,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 145800,
       "name": "I Wanna Be Sedated",
       "url": "https://open.spotify.com/track/6nTnjjkXY4UfqnU9bWpvIN"
@@ -7368,7 +7444,7 @@
       ],
       "date_added": "2026-08-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 122561,
       "name": "INTERSTATE LOVE AFFAIR",
       "url": "https://open.spotify.com/track/3T9QXFLmXaBr3A98Kj7G8n"
@@ -8392,7 +8468,7 @@
       ],
       "date_added": "2026-06-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 205853,
       "name": "Long Tooth (feat. Brooklyn Doran)",
       "url": "https://open.spotify.com/track/6HTAqQPGlhDbvvUa7bU1oA"
@@ -10947,6 +11023,24 @@
     },
     {
       "album": {
+        "name": "OUR DREAM IS NOT DEAD",
+        "url": "https://open.spotify.com/album/097STLITPhLapoVt2BlkDI"
+      },
+      "artists": [
+        {
+          "name": "Dizzy Sunfist",
+          "url": "https://open.spotify.com/artist/66TdubACxGacvormjPazAk"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131705,
+      "name": "Punk Rock Princess (Fat Wreck Version)",
+      "url": "https://open.spotify.com/track/0kI5vnraVSMP0kKyBFVZ2W"
+    },
+    {
+      "album": {
         "name": "Punk's Dead",
         "url": "https://open.spotify.com/album/7rhKQg4KTvDZZguZEX3YA9"
       },
@@ -11659,6 +11753,24 @@
     },
     {
       "album": {
+        "name": "Secret Weapon",
+        "url": "https://open.spotify.com/album/2aBfMRt4VzSIEUhMLkRd2b"
+      },
+      "artists": [
+        {
+          "name": "Anxious",
+          "url": "https://open.spotify.com/artist/4uOeSBqJoBz5OrxrsrTboH"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172999,
+      "name": "Secret Weapon",
+      "url": "https://open.spotify.com/track/2AZ2g4WyPEndkpx13dVf3X"
+    },
+    {
+      "album": {
         "name": "Self-determined",
         "url": "https://open.spotify.com/album/6KGuKs29bBrtAipiL8uxXF"
       },
@@ -12142,6 +12254,24 @@
       "duration_ms": 215735,
       "name": "Silver Sun",
       "url": "https://open.spotify.com/track/7g2paPF2JQLYBuEwLswKkH"
+    },
+    {
+      "album": {
+        "name": "SINCERELY YOURS",
+        "url": "https://open.spotify.com/album/5pIU4tpMRvWsDMbnIAOcHo"
+      },
+      "artists": [
+        {
+          "name": "Haywire 617",
+          "url": "https://open.spotify.com/artist/5lU30M9td0FUDVSTCucwnu"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143952,
+      "name": "SINCERELY YOURS",
+      "url": "https://open.spotify.com/track/2y8aupZKIMIsyk63YEH2vf"
     },
     {
       "album": {

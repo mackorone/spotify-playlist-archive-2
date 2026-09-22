@@ -4,7 +4,7 @@
 
 > Chill acoustic, mellow pop and singer\-songwriter music for focus, relaxation, studying and working\. Coffee house vibes and calm background music for a cozy café or lounge mood \|\| Rustige achtergrond afspeellijst voor ontspanning, studeren en werken, met ontspannen muziek voor een koffie tent sfeer.
 
-596 songs - 1 day 9 hr 16 min
+599 songs - 1 day 9 hr 27 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -396,6 +396,7 @@
 | [Ordinary](https://open.spotify.com/track/6qqrTXSdwiJaq8SO0X2lSe) | [Alex Warren](https://open.spotify.com/artist/0fTSzq9jAh4c36UVb4V7CB) | [Ordinary](https://open.spotify.com/album/6xomx5ekO7qHDvDh57rZ5S) | 3:06 | 2025-07-18 | 2025-09-13 |
 | [Ordinary People](https://open.spotify.com/track/2ZA4uMlSZjaoWGFqP1tsLI) | [John Legend](https://open.spotify.com/artist/5y2Xq6xcjJb2jVM54GHK3t) | [Get Lifted](https://open.spotify.com/album/4W6kVnBPgcW8zDYXbRHh2J) | 4:41 | 2026-02-19 | 2026-09-10 |
 | [Original](https://open.spotify.com/track/0yKsZ7zzBGlqcMGsYLHPnJ) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Original](https://open.spotify.com/album/4D1YMmnqNvTbECWBuQYnBb) | 3:15 | 2025-07-18 |  |
+| [Over country](https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n) | [Lizzy McAlpine](https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS) | [Angel](https://open.spotify.com/album/6mQC4efviywahzfwgLvye0) | 5:05 | 2026-09-21 |  |
 | [Overthinking](https://open.spotify.com/track/4tMVjTs8Y9C1bi2AGoO8Gk) | [Rikas](https://open.spotify.com/artist/3OWO2LOPTl1u6XvJHkwHmd) | [Overthinking](https://open.spotify.com/album/76Mk1uTeXf0gQHgOQQrCDB) | 2:29 | 2026-02-19 |  |
 | [Owe To You \- A COLORS SHOW](https://open.spotify.com/track/3CkJ5kQNtNlgiQMhIqWufA) | [Khalid](https://open.spotify.com/artist/6LuN9FCkKOj5PcnpouEgny) | [Owe To You \- A COLORS SHOW](https://open.spotify.com/album/06IwA9kDQ5U0VrKJ7xn372) | 3:54 | 2025-07-18 | 2026-06-26 |
 | [Paint By Numbers](https://open.spotify.com/track/56k68P3bFQvnKw89hizJFZ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 2:27 | 2026-03-06 |  |
@@ -468,6 +469,7 @@
 | [Slow Dancing in a Burning Room](https://open.spotify.com/track/2jdAk8ATWIL3dwT47XpRfu) | [John Mayer](https://open.spotify.com/artist/0hEurMDQu99nJRq8pTxO14) | [Continuum](https://open.spotify.com/album/1Xsprdt1q9rOzTic7b9zYM) | 4:01 | 2025-07-18 |  |
 | [Slow Tonight](https://open.spotify.com/track/2H3L0xj5L4OlYFlRjhJQN5) | [Tom Misch](https://open.spotify.com/artist/1uiEZYehlNivdK3iQyAbye) | [Slow Tonight](https://open.spotify.com/album/0dShMq1RPDfB7BSS7O3xRc) | 3:12 | 2026-02-27 |  |
 | [Small Talk](https://open.spotify.com/track/2ehzhXmoLovjPCP07o8bZm) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [How To Be Human](https://open.spotify.com/album/5l7VNmhvyYndw2XNxH9GFe) | 3:26 | 2025-10-31 |  |
+| [Small Town](https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN) | [Dominic Fike](https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs) | [Small Town](https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2) | 2:49 | 2026-09-21 |  |
 | [Smile](https://open.spotify.com/track/38iWC4j7s4JsVfPR9fZLOk) | [Kevin Olusola](https://open.spotify.com/artist/4RPUSziPHrjcBUEfIUcb2I) | [Smile & Smile \(Instrumental Version\)](https://open.spotify.com/album/1JP7DmMzxOjggMMvCQnTkn) | 3:37 | 2025-07-18 | 2025-10-28 |
 | [SNAP](https://open.spotify.com/track/76OGwb5RA9h4FxQPT33ekc) | [Rosa Linn](https://open.spotify.com/artist/46xBNx0j6cwY6sD9LgMTm1) | [SNAP](https://open.spotify.com/album/4fb1QzgTJpTk9TBjFzjmlR) | 2:59 | 2025-07-18 | 2026-02-13 |
 | [Snow White](https://open.spotify.com/track/3dpnWSlmWe7i5U1xxxCSUN) | [Laufey](https://open.spotify.com/artist/7gW0r5CkdEUMm42w9XpyZO) | [Snow White](https://open.spotify.com/album/488ewItrKZCwV9k2JqvnKL) | 3:13 | 2025-08-08 | 2025-08-23 |
@@ -489,6 +491,7 @@
 | [Step Into Your Power](https://open.spotify.com/track/2oPAI4WeahurexOE60325q) | [Ray LaMontagne](https://open.spotify.com/artist/6DoH7ywD5BcQvjloe9OcIj) | [Step Into Your Power](https://open.spotify.com/album/5cyefZyfqbaGOBTylIjLHJ) | 3:28 | 2026-02-19 |  |
 | [Stick Season](https://open.spotify.com/track/0mflMxspEfB0VbI1kyLiAv) | [Noah Kahan](https://open.spotify.com/artist/2RQXRUsr4IW1f3mKyKsy4B) | [Stick Season](https://open.spotify.com/album/50ZenUP4O2Q5eCy2NRNvuz) | 3:02 | 2025-07-18 | 2025-08-23 |
 | [Still Crying](https://open.spotify.com/track/4HUcERrYOgYrSNo37IPpZp) | [Sara Bareilles](https://open.spotify.com/artist/2Sqr0DXoaYABbjBo9HaMkM) | [Still Crying](https://open.spotify.com/album/6g2qQ9NGGQd0jMq242JXFU) | 4:09 | 2026-07-31 | 2026-08-28 |
+| [Stitch or Gantu](https://open.spotify.com/track/3tt296QleD9BM59VWBPRq2) | [Carbonara Collective](https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6), [ZYHH](https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO) | [Stitch or Gantu](https://open.spotify.com/album/08b5A9eIWVojq1GQATB6cl) | 2:30 | 2026-09-21 |  |
 | [STRANGERS](https://open.spotify.com/track/7jF5V0KISfBLyVO5eF4D1w) | [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [BELOVED](https://open.spotify.com/album/7pcBXbl1g198PNAxt44bHQ) | 3:33 | 2025-09-05 | 2025-09-20 |
 | [Strangers](https://open.spotify.com/track/2bZfHxeozGcn9ZehRNESbX) | [Guy Sebastian](https://open.spotify.com/artist/5PjekOABtfU2Kwo0AHVmci) | [100 Times Around the Sun](https://open.spotify.com/album/0jBrdQ1CTtlG2oenpcT1by) | 3:05 | 2025-08-08 |  |
 | [Stronger](https://open.spotify.com/track/5TCXwc0Lop2zMUgc9pH90e) | [JACOTÉNE](https://open.spotify.com/artist/1vPK0KqkfnZzdpKDC2l3rd) | [Stronger](https://open.spotify.com/album/7ldW76HlTD9C08DKKB3Cga) | 2:49 | 2025-07-18 |  |

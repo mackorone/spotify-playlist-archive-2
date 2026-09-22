@@ -4,7 +4,7 @@
 
 > The latest in hip\-hop, refreshed weekly\. Cover: TOBi
 
-5,484 songs - 10 day 20 hr 6 min
+5,484 songs - 10 day 20 hr 5 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3007,7 +3007,7 @@
 | [MON LOVE OHO \(feat\. Tion Wayne & Benzz\) \[UK Remix\]](https://open.spotify.com/track/3tTKVl6AmP9Qv26fUVZvN1) | [Liamsi](https://open.spotify.com/artist/3W0nbFHGRWfrVNVAsZN6rw), [Tion Wayne](https://open.spotify.com/artist/7b79bQFziJFedJb75k6hFt), [Benzz](https://open.spotify.com/artist/2GYIFLUsVVHPPUzOfJndRh) | [MON LOVE OHO \(feat\. Tion Wayne & Benzz\) \[UK Remix\]](https://open.spotify.com/album/3gi5IRjVUEym18DHKgdmgl) | 2:18 | 2023-06-02 | 2023-06-10 |
 | [Mona Lisa \(feat\. Dess Dior\)](https://open.spotify.com/track/0scvePadrWWKptnSlHrRqG) | [LG Malique](https://open.spotify.com/artist/3AVhTymLXfDZtJ7EJybv4p), [Dess Dior](https://open.spotify.com/artist/1RnSjp7u3KIyEJbRiQLs9O) | [Mona Lisa \(feat\. Dess Dior\)](https://open.spotify.com/album/7siy79PkAD9PwucUiqbIEE) | 2:55 | 2026-04-24 | 2026-05-02 |
 | [MONACO](https://open.spotify.com/track/4MjDJD8cW7iVeWInc2Bdyj) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [nadie sabe lo que va a pasar mañana](https://open.spotify.com/album/4FftCsAcXXD1nFO9RFUNFO) | 4:27 | 2023-10-13 | 2023-11-11 |
-| [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 4:45 | 2026-09-18 |  |
+| [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 3:45 | 2026-09-18 |  |
 | [MONEY](https://open.spotify.com/track/3oyH68MiHqRl3YE9LBS1ZX) | [Charmaine](https://open.spotify.com/artist/5cie6OioF2WHr2KflhcQGT) | [MONEY](https://open.spotify.com/album/4NbOWmaG4n3mXaznMx9GCM) | 2:01 | 2025-03-07 | 2025-03-15 |
 | [Money](https://open.spotify.com/track/1zD5mv3Ffk6CjojO0ZF6rO) | [DillanPonders](https://open.spotify.com/artist/1TlmLsx42aT281z8NWrKef), [BVB](https://open.spotify.com/artist/7azVk8ZXv1yB4rOmPMZvUD) | [Money](https://open.spotify.com/album/69WfC1Yc5I8ITC9gmnNnPO) | 2:54 | 2023-03-03 | 2023-03-11 |
 | [Money](https://open.spotify.com/track/3OMZYyePjXvyoYapvXha5j) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [Money](https://open.spotify.com/album/6KKUeARPA9fr5i2NVJftJY) | 2:17 | 2025-03-21 | 2025-04-05 |

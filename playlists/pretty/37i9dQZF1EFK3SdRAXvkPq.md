@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/09d3mIGxzTl2sLatLvhXAh">Rios</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 271 likes - 177 songs - 9 hr 2 min
+[Spotify](https://open.spotify.com/user/spotify) - 272 likes - 177 songs - 9 hr 2 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 34 | [Cuando Me Muera Te Olvido](https://open.spotify.com/track/0x0Egm8IgaRNCfNKqkJrPt) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla) | [Tropicoqueta](https://open.spotify.com/album/0yY0fT7zibMEffhBJD9Nab) | 2:34 |
 | 35 | [Todavía](https://open.spotify.com/track/3G0KI415vuf6TJ2YWA73S3) | [Tainy](https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB), [Wisin & Yandel](https://open.spotify.com/artist/1wZtkThiXbVNtj6hee6dz9) | [DATA](https://open.spotify.com/album/2X6WyzpxY70eUn3lnewB7d) | 3:23 |
 | 36 | [Relaciones](https://open.spotify.com/track/2TL9UACmry1qTiurBc2PjV) | [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE) | [Relaciones](https://open.spotify.com/album/1zzTbQ8f5t1WO3NnTgAwzu) | 3:26 |
-| 37 | [No Te Quieren Conmigo \- Remix](https://open.spotify.com/track/3XhOu0IolGPGcz6VbxEQSk) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [No Te Quieren Conmigo \(Remix\) \(Gaby Music, Anuel AA, Luar LA L\)](https://open.spotify.com/album/1x93pMZOGUQpYudoU2h40Z) | 5:28 |
-| 38 | [Después de ti](https://open.spotify.com/track/1XUEx6XLSmuPx9hqYARlrd) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 4:28 |
+| 37 | [Después de ti](https://open.spotify.com/track/1XUEx6XLSmuPx9hqYARlrd) | [KAROL G](https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla), [Greg Gonzalez](https://open.spotify.com/artist/3X80qrZudFnWfRlNg7uIDU) | [NO ME ARREPIENTO DE SENTIR TANTO](https://open.spotify.com/album/7a0lnWtCz0eW15WsWu3dHQ) | 4:28 |
+| 38 | [No Te Quieren Conmigo \- Remix](https://open.spotify.com/track/3XhOu0IolGPGcz6VbxEQSk) | [Gaby Music](https://open.spotify.com/artist/1r3tpVQ08jFAA2P4xzV5o4), [Anuel AA](https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66), [Luar La L](https://open.spotify.com/artist/4axKuDPr6WKcDCyh8vueTY), [Lunay](https://open.spotify.com/artist/47MpMsUfWtgyIIBEFOr4FE), [Bryant Myers](https://open.spotify.com/artist/6w9ToX5slZ4uIdmD17hJ3c) | [No Te Quieren Conmigo \(Remix\) \(Gaby Music, Anuel AA, Luar LA L\)](https://open.spotify.com/album/1x93pMZOGUQpYudoU2h40Z) | 5:28 |
 | 39 | [Hoy no me siento bien](https://open.spotify.com/track/5Ubw8xWS1mbEGKFPhhquoJ) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [¿Y ahora qué +?](https://open.spotify.com/album/2oBvsAEB09BYyv3Dnzn2Lb) | 2:33 |
 | 40 | [NEGRO MATE](https://open.spotify.com/track/2OsclrHyXnqYmKm6ji1vij) | [Micro TDH](https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow) | [NUEVE](https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R) | 2:51 |
 | 41 | [NUNCA LA OLVIDÉ](https://open.spotify.com/track/73y7RIbg70KCgtW6vbVKSC) | [Grupo Frontera](https://open.spotify.com/artist/6XkjpgcEsYab502Vr1bBeW) | [JUGANDO A QUE NO PASA NADA](https://open.spotify.com/album/5UeZ5HFbQAsSev59aKCWKq) | 2:43 |
@@ -186,4 +186,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFK3SdRAXvkPq.md) - [plain]
 | 176 | [Estrella Fugaz](https://open.spotify.com/track/4N0P7wQbTHpoZF69UYpr3V) | [Bryanne](https://open.spotify.com/artist/6R3sSAOL4rej4pFAAyMzWB) | [Estrella Fugaz](https://open.spotify.com/album/3lLj8bufRO2G5MtiFT5MNw) | 3:25 |
 | 177 | [Bby Wow](https://open.spotify.com/track/3Spvhpwuve2sQVtNMwZKSU) | [Facu Sanchez](https://open.spotify.com/artist/06ZoIY0fIJCba5QICxblJG) | [Bby Wow](https://open.spotify.com/album/6OXQ6XF2mBdL7gyg9wHh94) | 2:15 |
 
-Snapshot ID: `Acc2BgAAAAA+4prlMKM5v9A9QqAkMvQC`
+Snapshot ID: `Acc7nAAAAAACIMnRbFgizEMOuAi8epKY`

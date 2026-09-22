@@ -1,6 +1,6 @@
 {
   "description": "Unique covers by your favorite country artists. Cover: Keith Urban",
-  "num_followers": 136874,
+  "num_followers": 136876,
   "original_name": "Country Covers",
   "owner": {
     "name": "Spotify",
@@ -121,7 +121,7 @@
         }
       ],
       "duration_ms": 260842,
-      "name": "Name (Talco Tapes Version)",
+      "name": "Name - Talco Tapes Version",
       "url": "https://open.spotify.com/track/3I4rccIyS6egS7rDC2ZoQk"
     },
     {
@@ -551,22 +551,18 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "Here For The Party (feat. Ella Langley)",
-        "url": "https://open.spotify.com/album/6hvlH4suNoYwtph63T1CjY"
+        "name": "The Very Best of Travis Tritt",
+        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
       },
       "artists": [
         {
-          "name": "Gretchen Wilson",
-          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
-        },
-        {
-          "name": "Ella Langley",
-          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 210148,
-      "name": "Here For The Party (feat. Ella Langley)",
-      "url": "https://open.spotify.com/track/3BSnorURw8w3Or1mUk6uQY"
+      "duration_ms": 213706,
+      "name": "Take It Easy - 2006 Remaster",
+      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -603,18 +599,22 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
-        "name": "The Very Best of Travis Tritt",
-        "url": "https://open.spotify.com/album/5ZJ2KF1mLhoWzFhwnzgLXx"
+        "name": "Here For The Party (feat. Ella Langley)",
+        "url": "https://open.spotify.com/album/6hvlH4suNoYwtph63T1CjY"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Gretchen Wilson",
+          "url": "https://open.spotify.com/artist/0IdYRFTswLdsGwSnzOaGNF"
+        },
+        {
+          "name": "Ella Langley",
+          "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
         }
       ],
-      "duration_ms": 213706,
-      "name": "Take It Easy - 2006 Remaster",
-      "url": "https://open.spotify.com/track/1UEKaf3j6eXeNbySz761lc"
+      "duration_ms": 210148,
+      "name": "Here For The Party (feat. Ella Langley)",
+      "url": "https://open.spotify.com/track/3BSnorURw8w3Or1mUk6uQY"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
+        "name": "Jersey Giant",
+        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
+      },
+      "artists": [
+        {
+          "name": "Elle King",
+          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
+        }
+      ],
+      "duration_ms": 266320,
+      "name": "Jersey Giant",
+      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
         "name": "Time After Time",
         "url": "https://open.spotify.com/album/4a9cTvd7HAAzG0Yb1lPMnN"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 219345,
       "name": "Time After Time",
       "url": "https://open.spotify.com/track/3vVLYlJejwXv6EeYElTf88"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "Jersey Giant",
-        "url": "https://open.spotify.com/album/6g0TVq73ck6OaG5hOEmeFO"
-      },
-      "artists": [
-        {
-          "name": "Elle King",
-          "url": "https://open.spotify.com/artist/3bhu7P5PfngueRHiB9hjcx"
-        }
-      ],
-      "duration_ms": 266320,
-      "name": "Jersey Giant",
-      "url": "https://open.spotify.com/track/1tyw50Pcn8A5X17Ojus9cr"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1599,6 +1599,22 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
+        "name": "If You Want Love",
+        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
+      },
+      "artists": [
+        {
+          "name": "Jon Langston",
+          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
+        }
+      ],
+      "duration_ms": 204760,
+      "name": "If You Want Love",
+      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
         "name": "HIXTAPE: Vol. 3: DIFFTAPE",
         "url": "https://open.spotify.com/album/4zdLttjbtQN3KWbeBEXL1O"
       },
@@ -1623,22 +1639,6 @@
       "duration_ms": 224456,
       "name": "Ships That Don\u2019t Come In",
       "url": "https://open.spotify.com/track/6wNtSoSzerVOo8fGKRLN7Q"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "If You Want Love",
-        "url": "https://open.spotify.com/album/16For5G0QIZlxb8Yphrbe0"
-      },
-      "artists": [
-        {
-          "name": "Jon Langston",
-          "url": "https://open.spotify.com/artist/4BANbHDs1IluagTx5eRW2P"
-        }
-      ],
-      "duration_ms": 204760,
-      "name": "If You Want Love",
-      "url": "https://open.spotify.com/track/7pIE9aENmQqoy8yWUr0oiz"
     },
     {
       "added_at": "2026-08-28 04:02:08",
@@ -1747,6 +1747,22 @@
     {
       "added_at": "2026-08-28 04:02:08",
       "album": {
+        "name": "Fame Is A Gun",
+        "url": "https://open.spotify.com/album/2tVIPtGNg9l31BI3DcLVtb"
+      },
+      "artists": [
+        {
+          "name": "Carter Faith",
+          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
+        }
+      ],
+      "duration_ms": 240456,
+      "name": "Fame Is A Gun",
+      "url": "https://open.spotify.com/track/5yWWa7xMrXjB7kw5u7xLat"
+    },
+    {
+      "added_at": "2026-08-28 04:02:08",
+      "album": {
         "name": "A Tribute To The Judds",
         "url": "https://open.spotify.com/album/6aj3JYiBuWaJrlDSKBFmaG"
       },
@@ -1763,22 +1779,6 @@
       "duration_ms": 197637,
       "name": "Mama He\u2019s Crazy",
       "url": "https://open.spotify.com/track/59zetnsJmBcm8I3OOEK6fE"
-    },
-    {
-      "added_at": "2026-08-28 04:02:08",
-      "album": {
-        "name": "Fame Is A Gun",
-        "url": "https://open.spotify.com/album/2tVIPtGNg9l31BI3DcLVtb"
-      },
-      "artists": [
-        {
-          "name": "Carter Faith",
-          "url": "https://open.spotify.com/artist/4X5CTYQmx1NNyz9S1IpNko"
-        }
-      ],
-      "duration_ms": 240456,
-      "name": "Fame Is A Gun",
-      "url": "https://open.spotify.com/track/5yWWa7xMrXjB7kw5u7xLat"
     }
   ],
   "unique_name": "Country Covers",

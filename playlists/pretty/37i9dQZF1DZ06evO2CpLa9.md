@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 
 > This is Santa Fe Klan\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 569,450 likes - 50 songs - 3 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 569,445 likes - 50 songs - 3 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2CpLa9.md) - [plain]
 | 45 | [Mi Religión](https://open.spotify.com/track/3eWUn60vLUf5ibODEpSxat) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [Bendecido](https://open.spotify.com/album/5t6smstXej1mG4yeh2Rgn0) | 3:20 |
 | 46 | [30 DÍAS](https://open.spotify.com/track/06MQn3HC4hzNpvkgSUHVmi) | [Los Primos del Este](https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [AMOR DE SUBIDA](https://open.spotify.com/album/7qNfws1fbFNw2zkWrjC4BF) | 2:56 |
 | 47 | [Camina Sola](https://open.spotify.com/track/1wmcdpR6xizYnjgw0lC3tv) | [Nanpa Básico](https://open.spotify.com/artist/1cUpGtXcSQsovNYEZOQgOG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [HECHO M13RD4](https://open.spotify.com/album/6sJJd1j1ekg8p8grveeydi) | 3:33 |
-| 48 | [ESCÁPATE](https://open.spotify.com/track/3mZ4DzjjzyH4hAsR6dVFKE) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/5pVXuqex89FgjmWbRD6l1B) | 3:00 |
-| 49 | [Infiel](https://open.spotify.com/track/6Xe4tOzSRB49ZRqQBOANpY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [Infiel](https://open.spotify.com/album/5Mcv3YAgglaokdbwvC1PsS) | 3:42 |
+| 48 | [Infiel](https://open.spotify.com/track/6Xe4tOzSRB49ZRqQBOANpY) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Afaz Natural](https://open.spotify.com/artist/6wcHZUQ0rNcvv35os6xUQA) | [Infiel](https://open.spotify.com/album/5Mcv3YAgglaokdbwvC1PsS) | 3:42 |
+| 49 | [ESCÁPATE](https://open.spotify.com/track/3mZ4DzjjzyH4hAsR6dVFKE) | [JC Reyes](https://open.spotify.com/artist/0FwnPHExlRRxEZPLAi5tmG), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp) | [VIVIR PA' QUEDARSE](https://open.spotify.com/album/5pVXuqex89FgjmWbRD6l1B) | 3:00 |
 | 50 | [GU3RR4](https://open.spotify.com/track/0WsKujvQEuGm6UibuvAZvL) | [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Zimple](https://open.spotify.com/artist/0l1OSQn6GtjfEE1Cb8LE1t) | [GU3RR4](https://open.spotify.com/album/1n3vxK8VjeQzGgC6hjDW1r) | 5:45 |
 
-Snapshot ID: `aq3QgAAAAADRPpZ6gwnlpCscs4SycLGl`
+Snapshot ID: `aq8iAAAAAAA9ur52AzEOZ5zIWCnKBAW8`

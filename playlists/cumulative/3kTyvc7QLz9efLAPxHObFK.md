@@ -4,7 +4,7 @@
 
 > 
 
-3,196 songs - 6 day 20 hr 30 min
+3,198 songs - 6 day 20 hr 35 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -548,6 +548,7 @@
 | [COME WITH ME](https://open.spotify.com/track/3RlhZf7ZUSRfWZEaY5vgDv) | [Dead X](https://open.spotify.com/artist/1viO40zvthKBg0VNEnJoma) | [COME WITH ME](https://open.spotify.com/album/3DhwCHHmokAF5E3k313URg) | 3:01 | 2024-12-16 |  |
 | [Comet Coaster \- Extended Mix](https://open.spotify.com/track/1ZWINc39g6XHZXB3MlSlz6) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr), [aran](https://open.spotify.com/artist/4FvSs32NRc6sS3V8ylZrzq) | [Shinonome](https://open.spotify.com/album/4PJUeaC2rUe8eEC8ZCWo9p) | 4:03 | 2024-05-03 |  |
 | [Conclude](https://open.spotify.com/track/6Skfk9u5YKKn7sQds3anwx) | [DJ Noriken](https://open.spotify.com/artist/0Vpv5NQP45aoAwj2XvWowr) | [Hardcore Syndrome 3](https://open.spotify.com/album/0VEmvSB6UQZZmQ3U4dUHVh) | 5:10 | 2024-05-03 |  |
+| [Concrete Break](https://open.spotify.com/track/3xMCvWASoA5StWbvtqZjFN) | [D\-Fence](https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv), [Furyan](https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ) | [Concrete Break](https://open.spotify.com/album/0FP5xcqdxPwjeiukBcjS1R) | 3:06 | 2026-09-21 |  |
 | [Conflict](https://open.spotify.com/track/3YO9kZ4zQlGx8SeTtvIX3E) | [Dr\. Peacock](https://open.spotify.com/artist/4RbUYWWjEBb4umwqakOEd3), [DETHVEDA](https://open.spotify.com/artist/2t0Y72oxF6uiqcgVjG8zAK) | [Medication Time](https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T) | 2:58 | 2022-11-06 |  |
 | [CONSCIOUSNESS](https://open.spotify.com/track/3m3hCcs4xbVKcv6A2YJyEf) | [Revelation](https://open.spotify.com/artist/4xSp6WltH5N47OrAu4pjKw), [Collusion](https://open.spotify.com/artist/2YmjCQbg95CCYiC28uBOLW) | [CONSCIOUSNESS](https://open.spotify.com/album/1TFrI8VyNqCQHVqGAfYqqE) | 2:25 | 2024-12-19 |  |
 | [Constellations](https://open.spotify.com/track/62w23cRG1W6nfpp1WtpKiq) | [Enegizer](https://open.spotify.com/artist/5zuXgXGkhkWBwrpkvfvJt6) | [Constellations](https://open.spotify.com/album/6odBC9AffL3qkoswkxBgD5) | 4:54 | 2022-11-06 |  |
@@ -1526,6 +1527,7 @@
 | [Just Keep Watching](https://open.spotify.com/track/1t4evECYqLGS1i9fAig1az) | [Refold](https://open.spotify.com/artist/02oOp0dwF69I6v2scWE7uY), [Eternal Records](https://open.spotify.com/artist/18Ye7CcEFN7DXDXElQs57x) | [Just Keep Watching](https://open.spotify.com/album/3qH5G8S7apaLrs2bxKof05) | 2:16 | 2026-07-16 |  |
 | [Just Like That](https://open.spotify.com/track/4yl2UHm8MGcG6TVN2p30py) | [Noise Of Aggression](https://open.spotify.com/artist/3IUHsnxMykEgZX9K1v94F1), [Violent Suspect](https://open.spotify.com/artist/2n8PKKbm89aTbUsWfuc8mB) | [Just Like That](https://open.spotify.com/album/7AmVc7GZMhmpRfLUt3GE5M) | 2:47 | 2026-01-23 |  |
 | [Just Pretend](https://open.spotify.com/track/15nZMHZYSpIXPuVUkNi5vS) | [Namara](https://open.spotify.com/artist/50PTSnRJgyVGs9O6Kj9Jd1) | [Just Pretend](https://open.spotify.com/album/3EZ6fYTm5UfMnIhxZXg08M) | 3:28 | 2025-02-13 |  |
+| [Just The Way You Are](https://open.spotify.com/track/6Q40wOVD1CN9th89QbXGOJ) | [Mish](https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b) | [Just The Way You Are](https://open.spotify.com/album/1uDbB7gK6vw2XlRYjYrVms) | 1:52 | 2026-09-21 |  |
 | [JÄGERMEISTER \- 300 dB Edit](https://open.spotify.com/track/43vVYiRe3jl7z9BmD1TQON) | [Luca\-Dante Spadafora](https://open.spotify.com/artist/6k9e4mFFVtEAAhGdvJBtqB), [Noiseflow](https://open.spotify.com/artist/7fJ280aOmeo3dA2KHeVxP3) | [JÄGERMEISTER \(300 dB Edit\)](https://open.spotify.com/album/4qR0vbodb3F5GaDJEoQT9F) | 2:23 | 2024-12-28 |  |
 | [K.O\. B!TCH](https://open.spotify.com/track/2aVtq4R8NMKQEcf011TYWv) | [Wrong Sequence](https://open.spotify.com/artist/600ZzvXe79KqVNCVrCG53W), [Hollow](https://open.spotify.com/artist/39z1fY2k7pqtv63oZUIO1M) | [Bring The Madness](https://open.spotify.com/album/19gjcwnhZ1y6EIMUOQVZfM) | 2:52 | 2026-05-29 |  |
 | [KAGAYAKI \(feat\. KASANE TETO\)](https://open.spotify.com/track/5OGA7eIw4H9byl7klaJlDm) | [RiraN](https://open.spotify.com/artist/4TNYuh9JZdMQgkrLl6d5U2), [Kasane Teto](https://open.spotify.com/artist/4JX0GdKx8EduY2Ck7qac4H) | [HYVE Vol.6](https://open.spotify.com/album/1kGVSnLGKBJulowrtK6C41) | 3:21 | 2026-05-22 |  |

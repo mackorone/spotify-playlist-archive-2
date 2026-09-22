@@ -4,7 +4,7 @@
 
 > Solo beat e rime avvolgenti\. Cover: Marracash
 
-385 songs - 19 hr 34 min
+386 songs - 19 hr 38 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -202,6 +202,7 @@
 | [Lo So Che](https://open.spotify.com/track/3w73qvCSGWPCx7w1UMIh6e) | [Capo Plaza](https://open.spotify.com/artist/5SulO4l40qDuV9zUGLZx7n) | [FERITE \(Deluxe Edition\)](https://open.spotify.com/album/7g7002AcxLMerhLQEA8naR) | 3:01 | 2025-02-07 |  |
 | [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 | 2022-12-05 | 2023-09-22 |
 | [LOCO](https://open.spotify.com/track/3lN2jXIlpMJETk3zzFkoAy) | [Salmo](https://open.spotify.com/artist/3hBQ4zniNdQf1cqqo6hzuW), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Sixpm](https://open.spotify.com/artist/1DqxHZcNsyQouEIgARx6Zx) | [BLOCCO 181 – ORIGINAL SOUNDTRACK](https://open.spotify.com/album/7jfOGP1vsNecfYTcwN3AyH) | 2:17 | 2022-05-31 | 2022-06-20 |
+| [Lontano](https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Lontano](https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h) | 3:49 | 2026-09-21 |  |
 | [LONTANO \- carlito's way](https://open.spotify.com/track/2t1dculU2L9HxEIzB00Xpk) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:46 | 2023-05-18 | 2023-06-16 |
 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 | 2023-01-13 | 2023-03-18 |
 | [Lunarossa \(feat\. Mahmood\)](https://open.spotify.com/track/1AtoFMtluLDiW0nZd7skxp) | [Neffa](https://open.spotify.com/artist/54dqxLAclwu0QSaTwCyCaF), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Canerandagio](https://open.spotify.com/album/2nztSMDXANujzSN1P8utVR) | 2:58 | 2025-08-28 | 2025-09-05 |

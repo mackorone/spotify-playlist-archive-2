@@ -1,12 +1,12 @@
 {
   "description": "This is Craig David. The essential tracks, all in one playlist.",
-  "num_followers": 104472,
+  "num_followers": 104473,
   "original_name": "This Is Craig David",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABu2aSprQmocsLuAZrhMmpz",
+  "snapshot_id": "aq8iAAAAAACtVdV8XYOm5FeMJs75YkFW",
   "tracks": [
     {
       "added_at": null,
@@ -539,6 +539,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Story Goes...",
+        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 259640,
+      "name": "Hypnotic",
+      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Woman Trouble",
         "url": "https://open.spotify.com/album/703bvqPWD8igZVVGjQqorA"
       },
@@ -559,22 +575,6 @@
       "duration_ms": 241293,
       "name": "Woman Trouble (Radio Edit)",
       "url": "https://open.spotify.com/track/1UlLKAabZd9egWzloUE4Yk"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Story Goes...",
-        "url": "https://open.spotify.com/album/3tzENLaGyi3Jrb5AaoKrGG"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 259640,
-      "name": "Hypnotic",
-      "url": "https://open.spotify.com/track/74tHCnEw90OJQl1LpAddm8"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Following My Intuition (Expanded Edition)",
+        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
+      },
+      "artists": [
+        {
+          "name": "Craig David",
+          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
+        }
+      ],
+      "duration_ms": 194520,
+      "name": "One More Time",
+      "url": "https://open.spotify.com/track/5fm1g5y5KoxxAcoqvm7FDK"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Ishq Hai (This is Love) [From \"Mismatched, Season 3\"]",
         "url": "https://open.spotify.com/album/24zM8Ez9aPPiDScXVXSH5K"
       },
@@ -939,22 +955,6 @@
       "duration_ms": 146001,
       "name": "Ishq Hai (This is Love) - From \"Mismatched, Season 3\"",
       "url": "https://open.spotify.com/track/53PHY7P6XrgX6YdPxJAhvO"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Following My Intuition (Expanded Edition)",
-        "url": "https://open.spotify.com/album/0Vop2iSyeir0QntOrgamFN"
-      },
-      "artists": [
-        {
-          "name": "Craig David",
-          "url": "https://open.spotify.com/artist/2JyWXPbkqI5ZJa3gwqVa0c"
-        }
-      ],
-      "duration_ms": 194520,
-      "name": "One More Time",
-      "url": "https://open.spotify.com/track/5fm1g5y5KoxxAcoqvm7FDK"
     }
   ],
   "unique_name": "This Is Craig David",

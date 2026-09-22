@@ -12709,6 +12709,32 @@
     },
     {
       "album": {
+        "name": "RITMADA QUE VICIA",
+        "url": "https://open.spotify.com/album/4Et6ERPT90p1UN9kpS4jJ4"
+      },
+      "artists": [
+        {
+          "name": "caio-chan",
+          "url": "https://open.spotify.com/artist/17pcUKUmXbsjefjeB2TFeV"
+        },
+        {
+          "name": "UNDERKAME",
+          "url": "https://open.spotify.com/artist/6p7ik9CdZm5TIjSYj7kU9e"
+        },
+        {
+          "name": "C.X.W",
+          "url": "https://open.spotify.com/artist/6CQrQixUJ5bBj8RBPyiiWm"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 99288,
+      "name": "RITMADA QUE VICIA",
+      "url": "https://open.spotify.com/track/6eADbwVSH7H6WM0SKxnq3g"
+    },
+    {
+      "album": {
         "name": "RITMO DE DRIFT",
         "url": "https://open.spotify.com/album/0oKr8AwPdHRuNfZJrmZ2ir"
       },

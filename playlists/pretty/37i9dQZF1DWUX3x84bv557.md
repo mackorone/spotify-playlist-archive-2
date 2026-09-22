@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 
 > Frisse Nederlandse pop\. Cover: Isabèl Usher \(<a href="spotify:playlist:37i9dQZF1DXaxwXKCsImRe">Spotify RADAR</a><br/>\-artiest\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 246,241 likes - 80 songs - 3 hr 43 min
+[Spotify](https://open.spotify.com/user/spotify) - 246,239 likes - 80 songs - 3 hr 43 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -12,14 +12,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 2 | [Rapido](https://open.spotify.com/track/00WZWFbf7B5uGDIdWw5OmE) | [Bankzitters](https://open.spotify.com/artist/1g9nyCbUH0kbNgXAsw7tUB), [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Rapido](https://open.spotify.com/album/4GHjuL2otqfI3tRLk7v5XF) | 2:47 |
 | 3 | [wat doe je nou](https://open.spotify.com/track/4APCqMbu2MQ25XSudrmBpN) | [Babet](https://open.spotify.com/artist/2Zx5UnYsOJTrLB7EerhsJh) | [wat doe je nou](https://open.spotify.com/album/3p4PTUDXpRhoVSsy0Rsl1n) | 2:48 |
 | 4 | [Dat Ze Van Hem Houdt](https://open.spotify.com/track/7bqWezmwsEJdUqy326SM83) | [Zoë Livay](https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Zoë Livay\)](https://open.spotify.com/album/4hp8Ylt5gjrnn7JMrQIb4F) | 3:05 |
-| 5 | [Sorry \(Dat Ik Je Zag\)](https://open.spotify.com/track/1JwEmKZ9Db1S0cx7WYxQLD) | [Mus Damé](https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R) | [Onvoltooid Verleden Tijd](https://open.spotify.com/album/31kHEBCaHPmgFliKQJG8gi) | 2:29 |
-| 6 | [Verlangen](https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/6CJ85JVYkQcQJQXP8EDlR4) | 3:33 |
-| 7 | [Tijdloos](https://open.spotify.com/track/0Ysk4TbZJFfWXIVvd5i50v) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Tijdloos](https://open.spotify.com/album/38DV3zup4lGvFmvOqhMyQc) | 3:21 |
-| 8 | [Omdat ik zo van je hou](https://open.spotify.com/track/5M91R6rXlIDrUQvOn0IZJm) | [Gordon](https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2), [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F) | [Omdat ik zo van je hou](https://open.spotify.com/album/5pmTMVBQPx2ylzuzXSLxo1) | 2:58 |
-| 9 | [Antigua](https://open.spotify.com/track/5SPwur8pz3BzHdZkORn4t1) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Alles in het klein](https://open.spotify.com/album/54pxDN7MVEV1pqglRRG9nj) | 2:56 |
-| 10 | [Parachute](https://open.spotify.com/track/6ipQbyshG2EiqlR11pbYLR) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Parachute](https://open.spotify.com/album/0p8HRk8YftL51GFU0DvVbz) | 3:26 |
-| 11 | [Hij Geeft Alleen Om Mij](https://open.spotify.com/track/1Cs2ymdVvKUtfBtXRWU30A) | [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D) | [Hij Geeft Alleen Om Mij](https://open.spotify.com/album/5cyUHAY4WpHdHMt2PMfIvX) | 2:11 |
-| 12 | [Ons Liedje](https://open.spotify.com/track/3ZswpOEGoY6DTGwpR0pfrc) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Ons Liedje](https://open.spotify.com/album/3y91aOkt9yqjvxJKdSoe4U) | 3:02 |
+| 5 | [Ons Liedje](https://open.spotify.com/track/3ZswpOEGoY6DTGwpR0pfrc) | [De Troubadours](https://open.spotify.com/artist/5l378viimrYiecbgbs1nVq) | [Ons Liedje](https://open.spotify.com/album/3y91aOkt9yqjvxJKdSoe4U) | 3:02 |
+| 6 | [Omdat ik zo van je hou](https://open.spotify.com/track/5M91R6rXlIDrUQvOn0IZJm) | [Gordon](https://open.spotify.com/artist/2lzeV1nxm8MB7z85L53JV2), [Lisa Rose](https://open.spotify.com/artist/6Yd501ivYxC2FYhPiiWr6F) | [Omdat ik zo van je hou](https://open.spotify.com/album/5pmTMVBQPx2ylzuzXSLxo1) | 2:58 |
+| 7 | [Sorry \(Dat Ik Je Zag\)](https://open.spotify.com/track/1JwEmKZ9Db1S0cx7WYxQLD) | [Mus Damé](https://open.spotify.com/artist/4McLyEMhQWDiDFhO6X2m3R) | [Onvoltooid Verleden Tijd](https://open.spotify.com/album/31kHEBCaHPmgFliKQJG8gi) | 2:29 |
+| 8 | [Verlangen](https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV) | [Yves Berendse](https://open.spotify.com/artist/7wGBPJk6sHwRCozFfhU09F), [Beste Zangers](https://open.spotify.com/artist/5tOJq6eS9TQEya6rxFvfEa) | [Beste Zangers 2026 \(Yves Berendse\)](https://open.spotify.com/album/6CJ85JVYkQcQJQXP8EDlR4) | 3:33 |
+| 9 | [Tijdloos](https://open.spotify.com/track/0Ysk4TbZJFfWXIVvd5i50v) | [Danique](https://open.spotify.com/artist/6ihYEkLlAWkafYVAvEkMd0) | [Tijdloos](https://open.spotify.com/album/38DV3zup4lGvFmvOqhMyQc) | 3:21 |
+| 10 | [Antigua](https://open.spotify.com/track/5SPwur8pz3BzHdZkORn4t1) | [Ben Forte](https://open.spotify.com/artist/0W1IlzwhrQJcdagiDZhrz7) | [Alles in het klein](https://open.spotify.com/album/54pxDN7MVEV1pqglRRG9nj) | 2:56 |
+| 11 | [Parachute](https://open.spotify.com/track/6ipQbyshG2EiqlR11pbYLR) | [Bente](https://open.spotify.com/artist/4U9nsRTH2mr9L4UXEWqG5e) | [Parachute](https://open.spotify.com/album/0p8HRk8YftL51GFU0DvVbz) | 3:26 |
+| 12 | [Hij Geeft Alleen Om Mij](https://open.spotify.com/track/1Cs2ymdVvKUtfBtXRWU30A) | [Jopke](https://open.spotify.com/artist/2JA0qfHxIxKrjOj1YCuh9D) | [Hij Geeft Alleen Om Mij](https://open.spotify.com/album/5cyUHAY4WpHdHMt2PMfIvX) | 2:11 |
 | 13 | [BOEM!](https://open.spotify.com/track/3YQlQ6dVswVuOGtVxNMGU3) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9), [Russo](https://open.spotify.com/artist/2rYWceJ64fH5hw2XkXR7ee) | [BOEM!](https://open.spotify.com/album/5Vwt8ws6fUX8C6Ba9DPSbo) | 2:24 |
 | 14 | [Je weet dat ik zo ben](https://open.spotify.com/track/5mxKs4CgMOMTgt91hzIs8a) | [LOE.](https://open.spotify.com/artist/1eDoSNvWLwNIhkw3oIml2R) | [Je weet dat ik zo ben](https://open.spotify.com/album/5ig2lcjH8ttYtY89MFpxJr) | 3:02 |
 | 15 | [Glow\-Up Era](https://open.spotify.com/track/0ZdEd7Tgtfqa5wPgRi4kaN) | [Juwls](https://open.spotify.com/artist/67cmXGFZvxiqudiEBJnr75) | [Glow\-Up Era](https://open.spotify.com/album/7qZOZWRrUvB8Cd2UgdPwOx) | 2:16 |
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUX3x84bv557.md) - [plain]
 | 79 | [Uit De Klauwen](https://open.spotify.com/track/4TKSLJ4TnaFcUuLVaDC4fe) | [EMANUEL](https://open.spotify.com/artist/1P8t6HwyHr1RLzWBnxhjCd) | [Uit de Klauwen](https://open.spotify.com/album/65G4v0jCMze8iHyztp4VeQ) | 2:44 |
 | 80 | [Ik ben onzeker](https://open.spotify.com/track/4pgl1lIeawNxMASWpEBulm) | [Benjamin](https://open.spotify.com/artist/4bbWyNlf0IomlOPHEYba2d) | [Benjamin / Benoni](https://open.spotify.com/album/6QbXDIUPK8fDULVHmsUiiL) | 3:31 |
 
-Snapshot ID: `AAAAAIpfYvHyXDCtGyb6xu6wgbFcKSsq`
+Snapshot ID: `AAAAAG4YzsGhAkyl5yxVHAzyMX7D9WHA`

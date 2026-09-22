@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3crNbt46mRU.md) - [plain]
 
 > This week's top new releases, including Kontra K, Shakira, GIMS, Travis Scott, EAZ, Miley Cyrus & many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 54,517 likes - 97 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 54,511 likes - 97 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

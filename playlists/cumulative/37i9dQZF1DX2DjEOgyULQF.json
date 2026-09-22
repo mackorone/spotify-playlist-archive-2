@@ -2353,6 +2353,24 @@
     },
     {
       "album": {
+        "name": "Endless Nature",
+        "url": "https://open.spotify.com/album/7forSW6p7jot8KoBZDoQHO"
+      },
+      "artists": [
+        {
+          "name": "Sacred Dreams",
+          "url": "https://open.spotify.com/artist/1fe7qfllL2e55Iyv4Ur5tc"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 144077,
+      "name": "Endless Nature",
+      "url": "https://open.spotify.com/track/05DNdMmrmzuJdQPXya716E"
+    },
+    {
+      "album": {
         "name": "Endless Nights",
         "url": "https://open.spotify.com/album/74Idklak1pC21HpDPPcDBC"
       },
@@ -4870,7 +4888,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 159000,
       "name": "Lumenfall",
       "url": "https://open.spotify.com/track/1RKYSkXDcG2xrvTVTl0jP5"
@@ -6663,6 +6681,24 @@
     },
     {
       "album": {
+        "name": "River Essence",
+        "url": "https://open.spotify.com/album/1WujHhY8Cu2ML4zCes2vhK"
+      },
+      "artists": [
+        {
+          "name": "John Ocean",
+          "url": "https://open.spotify.com/artist/0UWgEdhywZEON8EtIBYGoL"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150747,
+      "name": "River Essence",
+      "url": "https://open.spotify.com/track/1tW3xopLtJrMxf7K8qcjAA"
+    },
+    {
+      "album": {
         "name": "Robin Choir",
         "url": "https://open.spotify.com/album/15yfgasrD61BQmsYx3gaez"
       },
@@ -7178,7 +7214,7 @@
       ],
       "date_added": "2026-04-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 172825,
       "name": "Skylit Plains",
       "url": "https://open.spotify.com/track/0OjJS4XbfIoinFh4s9VkQr"

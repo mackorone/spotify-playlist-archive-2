@@ -4,7 +4,7 @@
 
 > The very best in Scandifolk \- from Icelandic blues rock to Norwegicana.
 
-437 songs - 1 day 2 hr 13 min
+438 songs - 1 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -61,6 +61,7 @@
 | [Better Than Gold \- Live](https://open.spotify.com/track/75rKtYA2EhYSfVHty8C50Z) | [Darling West](https://open.spotify.com/artist/0mKLP9jGn5eAZDlaq7UYQY) | [Better Than Gold \(Live\)](https://open.spotify.com/album/65sHTY5qAGfbLLYQBZ9dep) | 4:00 | 2021-12-02 | 2022-07-29 |
 | [Big Bad Good](https://open.spotify.com/track/3KmLD1pdsVYGBO56FckkgJ) | [My Bubba](https://open.spotify.com/artist/09VsCALGBjeVE3pq9k085d) | [Big Bad Good](https://open.spotify.com/album/38N3wbSL5ERtnegxWGIzvu) | 3:41 | 2021-12-02 | 2022-07-27 |
 | [Birthday](https://open.spotify.com/track/2yhPIn9HwI88aw4H7ZFrw0) | [Siv Jakobsen](https://open.spotify.com/artist/0vWslArrZa7drINEUobJZl) | [Birthday](https://open.spotify.com/album/1Glahl7MCjz4HFgurt3GCP) | 4:07 | 2022-06-09 | 2022-07-29 |
+| [Bless the Telephone \- Spotify Singles](https://open.spotify.com/track/61OLbx1bhsaYJAlkpxb2Xj) | [Winnie Raeder](https://open.spotify.com/artist/1QnifH4HAt0yWP9A9IcoMK) | [Bless the Telephone \- Spotify Singles](https://open.spotify.com/album/4xBa5tQ9IJNWVoq482z3c2) | 2:18 | 2026-09-21 |  |
 | [Bloodshed](https://open.spotify.com/track/3S7y6iLyXfLZjRzyHvqB4x) | [Simen Mitlid](https://open.spotify.com/artist/3AE2EXc8hnJxb0AoGf3i2A) | [Bloodshed](https://open.spotify.com/album/2DjLVPwQLO6RqxQebJpZX3) | 3:35 | 2024-04-18 | 2024-07-27 |
 | [Bloom](https://open.spotify.com/track/4MTWIFU8gPl2gGcximDHp0) | [Alexander Grandjean](https://open.spotify.com/artist/4ltZplYXzDwJi1uFva2PEp) | [Bloom](https://open.spotify.com/album/59C2lGdk4mSKHV3zlrLOk4) | 3:41 | 2024-04-18 | 2025-05-09 |
 | [blue jean](https://open.spotify.com/track/5UfP6kSzcJE9kFJlBEHU2o) | [Hazlett](https://open.spotify.com/artist/1zO3MgzmcwZLLNUQqeU2XH) | [blue jean](https://open.spotify.com/album/7LE4h29Y0CQDbrxIpAUIfR) | 4:36 | 2025-04-03 |  |
@@ -321,7 +322,7 @@
 | [Soldier Song](https://open.spotify.com/track/7cpq6ovqtMDVjUWw52aIYp) | [Elias Rønnenfelt](https://open.spotify.com/artist/1sMYEFib6APIW3JjkY8pYS), [Joanne Robertson](https://open.spotify.com/artist/4MdQ9btIlh6rzIMA19tu3L) | [Soldier Song](https://open.spotify.com/album/2eQmUvFYpkN2sIdgxOvalF) | 3:32 | 2024-10-10 | 2024-12-07 |
 | [Solfager og Ormekongen](https://open.spotify.com/track/72xkiSQyAbHlaGHBYrlwLI) | [Gåte](https://open.spotify.com/artist/3YxkGgMvqCQA75aFpy6524) | [Solfager og Ormekongen](https://open.spotify.com/album/1CcblCunCvgfhSb7B3E1fS) | 4:53 | 2021-12-02 | 2022-07-28 |
 | [Solringen \- First Flight of the White Raven LIVE](https://open.spotify.com/track/0fIy0hd1teqHnUZyt0o7os) | [Wardruna](https://open.spotify.com/artist/0NJ6wlOAsAJ1PN4VRdTPKA) | [Solringen \(First Flight of the White Raven LIVE\)](https://open.spotify.com/album/6onBcLQqwIoGL81fFAwI82) | 4:45 | 2022-01-20 | 2022-07-21 |
-| [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 | 2022-09-29 |  |
+| [Something Good](https://open.spotify.com/track/4MIpMHjGu9tBoK065wTu6R) | [Tuvaband](https://open.spotify.com/artist/1PELQpIrHccFmlReFjINVT) | [Something Good](https://open.spotify.com/album/6pYjJFbYrjgxPc6O6ke14G) | 3:45 | 2022-09-29 | 2026-09-22 |
 | [Spor i sand](https://open.spotify.com/track/7qGuTkxiZ3Uxtr4aI8bxmE) | [Moddi](https://open.spotify.com/artist/65ltPnFGbTfv1sFjVOZBMM) | [Bråtebrann \(Vinyl Edition\)](https://open.spotify.com/album/6LAlzrbGc9DCpnKHRDWN1F) | 4:48 | 2023-04-13 | 2023-05-16 |
 | [Starting Again](https://open.spotify.com/track/7BnzDWMDn1lV25kTTEefNz) | [Rebekka Lundstrøm](https://open.spotify.com/artist/3gVauPfgPGg6uKuR6dOMui) | [Starting Again](https://open.spotify.com/album/5IrLKl3WwY03Kmzar5n9Ds) | 4:36 | 2022-03-24 | 2022-07-19 |
 | [Stay Alive \- From "The Secret Life of Walter Mitty" Soundtrack](https://open.spotify.com/track/0ZNYGrmcehorhh9JOeg5Iv) | [José González](https://open.spotify.com/artist/6xrCU6zdcSTsG2hLrojpmI) | [Stay Alive \(From The Secret Life Of Walter Mitty\)](https://open.spotify.com/album/1bOzvOad5Oirmr1ewGlnKs) | 4:26 | 2021-12-02 |  |

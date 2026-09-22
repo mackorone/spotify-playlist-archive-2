@@ -1,12 +1,12 @@
 {
   "description": "This is Kehlani. The essential tracks, all in one playlist.",
-  "num_followers": 338459,
+  "num_followers": 338485,
   "original_name": "This Is Kehlani",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAADwEmRib6YrNy64y1kfzsBg",
+  "snapshot_id": "aq8iAAAAAADDOKgqwgBdKzeVvgnwgYpy",
   "tracks": [
     {
       "added_at": null,
@@ -67,22 +67,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "CRASH",
-        "url": "https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32"
-      },
-      "artists": [
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 202414,
-      "name": "After Hours",
-      "url": "https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Suicide Squad: The Album",
         "url": "https://open.spotify.com/album/5rOHrnrRomvSJhQLGVtfJ8"
       },
@@ -95,6 +79,22 @@
       "duration_ms": 177028,
       "name": "Gangsta",
       "url": "https://open.spotify.com/track/1W7zkKgRv9mrLbfdQ8XyH3"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "CRASH",
+        "url": "https://open.spotify.com/album/2MRNLEYm9SB0HBrJEU8L32"
+      },
+      "artists": [
+        {
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
+        }
+      ],
+      "duration_ms": 202414,
+      "name": "After Hours",
+      "url": "https://open.spotify.com/track/4ChomJf8z16E6Zw4EoioYY"
     },
     {
       "added_at": null,

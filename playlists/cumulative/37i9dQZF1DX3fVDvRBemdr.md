@@ -4,7 +4,7 @@
 
 > De nieuwste Hollands & Volkspop\. Cover: LA$$A, Lange Frans & Wesly Bronkhorst
 
-804 songs - 1 day 14 hr 25 min
+805 songs - 1 day 14 hr 28 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -205,7 +205,7 @@
 | [Echte Liefde Is Te Koop](https://open.spotify.com/track/7tW2Md8xOwnKPIYhCqPiU4) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop](https://open.spotify.com/album/5FdoE9L40YPXKy7co8DDbR) | 2:32 | 2025-03-20 | 2025-06-13 |
 | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/track/5lTy97S8T5KglpeEKpCuKE) | [Samuel Welten](https://open.spotify.com/artist/3smrOozTm8zGvRfrcIyRg9) | [Echte Liefde Is Te Koop \- Spotify Singles](https://open.spotify.com/album/64rWacyCKAYaSne3DqIUS9) | 2:58 | 2025-12-11 | 2026-03-27 |
 | [Een B&B Vol Liefde](https://open.spotify.com/track/4DKXbqXBOQwUrshlRmjStP) | [Roy Donders](https://open.spotify.com/artist/4UuqYrvax6M2JXhQ3lwB1L) | [Een B&B Vol Liefde](https://open.spotify.com/album/1ufnGNT0WdaU3qC1VKcBjS) | 3:03 | 2025-01-16 | 2025-02-08 |
-| [Een Dag In Een Nacht](https://open.spotify.com/track/1R9FQAlJmJCNeflQjuGVbs) | [Guus Doggen](https://open.spotify.com/artist/5EOFZMTcOOtNcSZdJMOkYJ) | [Een Dag In Een Nacht](https://open.spotify.com/album/7l7jdbpvS53HPJWPAVdRrK) | 2:35 | 2026-06-04 |  |
+| [Een Dag In Een Nacht](https://open.spotify.com/track/1R9FQAlJmJCNeflQjuGVbs) | [Guus Doggen](https://open.spotify.com/artist/5EOFZMTcOOtNcSZdJMOkYJ) | [Een Dag In Een Nacht](https://open.spotify.com/album/7l7jdbpvS53HPJWPAVdRrK) | 2:35 | 2026-06-04 | 2026-09-22 |
 | [Een Dag Niet Gelachen](https://open.spotify.com/track/3f9ox3NTcvBctWb0VyPRdA) | [Chris Bauer](https://open.spotify.com/artist/6vx4nxbeAGrQPKHzurW1pi) | [Een Dag Niet Gelachen](https://open.spotify.com/album/4rSAI90WhB1jvUv0xkAOMa) | 2:24 | 2025-12-04 | 2026-03-27 |
 | [Een Druppeltje Geluk](https://open.spotify.com/track/4Kp5K5QOiaQTXAkYHVlgnn) | [Stef Ekkel](https://open.spotify.com/artist/1cUsaZWQDILKpljyM7FWXm) | [Een Druppeltje Geluk](https://open.spotify.com/album/1Gyh2UyLO4xNOwjKxtAiJ7) | 3:17 | 2025-01-10 | 2025-04-04 |
 | [Een Hemels Feest](https://open.spotify.com/track/1rcNMAQ6BVcXi3YhGNXbfJ) | [Edwin Van Der Toolen](https://open.spotify.com/artist/30V9SaUhU48JzEtGT7x8eI) | [Een Hemels Feest](https://open.spotify.com/album/2L3IbhLTe5lfCCFS0BMJBi) | 2:58 | 2024-11-04 | 2025-02-28 |
@@ -776,6 +776,7 @@
 | [Wijnen, wijnen, wijnen](https://open.spotify.com/track/030kBX05FaihQuIxFQDJLY) | [Jorieke Sterken](https://open.spotify.com/artist/4apAHs1Q11wGqsPDVg5MRb) | [Wijnen, wijnen, wijnen](https://open.spotify.com/album/7MEbdDEf1jsW8XcVpm26Se) | 3:20 | 2025-09-18 | 2025-10-17 |
 | [Wil Jij Met Mij](https://open.spotify.com/track/10oUZFUA6nN6cKKA7gbmZ6) | [Sam Vanvelthoven](https://open.spotify.com/artist/2Mze1uCoA2mhf5yGoCBO64) | [Wil Jij Met Mij](https://open.spotify.com/album/4VTw1x4eC8wWEKdqP8pgaN) | 3:01 | 2025-04-17 | 2025-08-08 |
 | [Winnend lot](https://open.spotify.com/track/7qj8pQVtTDuSQtEM4OdOYR) | [Rutger van Barneveld](https://open.spotify.com/artist/5N0fvYueADU53qanvPfmV7) | [Winnend Lot](https://open.spotify.com/album/4OnHe0UHInw6bOItoQFe2w) | 3:16 | 2024-09-05 | 2025-01-11 |
+| [Wondervrouw](https://open.spotify.com/track/1Sllt0lz7ZmokRcSyJrNve) | [Bas Brummelhaus](https://open.spotify.com/artist/0sKYGBquJbumfbangdCk41) | [Wondervrouw](https://open.spotify.com/album/1Y1eGUaLIMsbUPETi40uPc) | 2:54 | 2026-09-21 |  |
 | [Woning op 4 wielen](https://open.spotify.com/track/44BwGogCykeeWqEkg17yBb) | [Fetty](https://open.spotify.com/artist/553VSxbzZS8p7TSUhEbZuU) | [Woning op 4 wielen](https://open.spotify.com/album/69OihRCvram0U9so6kjWzH) | 2:47 | 2025-06-19 | 2025-08-15 |
 | [Word Nou Niet Verliefd](https://open.spotify.com/track/1ZpATRatNBgDJbRRFVTiJI) | [Henk Damen](https://open.spotify.com/artist/2ZUBS5L3nTT2H3ck5EEEDW) | [Word Nou Niet Verliefd](https://open.spotify.com/album/6cSjWRts5xNQwZDj3dsYZ0) | 2:51 | 2026-05-07 | 2026-08-28 |
 | [Zandloopster](https://open.spotify.com/track/4ltDygbHH5SfnRsfmuDLRl) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Zandloopster](https://open.spotify.com/album/2IWE3ybPLZULmw341hKBDw) | 2:22 | 2026-06-04 |  |

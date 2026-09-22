@@ -1,6 +1,6 @@
 {
   "description": "<a href=\"spotify:genre:edm_dance\">Dance</a> hits from the 90s and 00s!",
-  "num_followers": 1810750,
+  "num_followers": 1810881,
   "original_name": "Dance Classics",
   "owner": {
     "name": "Spotify",
@@ -307,22 +307,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Pure... 90s Dance Party",
-        "url": "https://open.spotify.com/album/03awYMGLQWIlD1VyDwq1HF"
-      },
-      "artists": [
-        {
-          "name": "Faithless",
-          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
-        }
-      ],
-      "duration_ms": 215093,
-      "name": "Insomnia - Radio Edit",
-      "url": "https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Castles In The Sky",
         "url": "https://open.spotify.com/album/4P5BZKgDIxksZu7Px0OhHL"
       },
@@ -339,6 +323,22 @@
       "duration_ms": 227133,
       "name": "Castles In The Sky - Radio Mix",
       "url": "https://open.spotify.com/track/3KhoIbIPMmoGthbBAPxgOK"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Pure... 90s Dance Party",
+        "url": "https://open.spotify.com/album/03awYMGLQWIlD1VyDwq1HF"
+      },
+      "artists": [
+        {
+          "name": "Faithless",
+          "url": "https://open.spotify.com/artist/5T4UKHhr4HGIC0VzdZQtAE"
+        }
+      ],
+      "duration_ms": 215093,
+      "name": "Insomnia - Radio Edit",
+      "url": "https://open.spotify.com/track/3dX6WDwnHwYzB5t754oB4T"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -859,6 +859,26 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
+        "name": "75, Brazil Street",
+        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
+      },
+      "artists": [
+        {
+          "name": "Nicola Fasano",
+          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
+        },
+        {
+          "name": "Pat-Rich",
+          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
+        }
+      ],
+      "duration_ms": 187402,
+      "name": "75, Brazil Street (Radio Mix)",
+      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
         "name": "Don't Stop!",
         "url": "https://open.spotify.com/album/2lN1TfOytRsnosYBm70kZ6"
       },
@@ -891,26 +911,6 @@
       "duration_ms": 438013,
       "name": "Body Language",
       "url": "https://open.spotify.com/track/5koBIzuWS86S2IR36yt2LW"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
-        "name": "75, Brazil Street",
-        "url": "https://open.spotify.com/album/4AzBPG8ewbsvNaUyvu2pHb"
-      },
-      "artists": [
-        {
-          "name": "Nicola Fasano",
-          "url": "https://open.spotify.com/artist/0AJ9YvsEOnAqMB9Q15TfYQ"
-        },
-        {
-          "name": "Pat-Rich",
-          "url": "https://open.spotify.com/artist/3GYnrA1B2exmHVA6690CX9"
-        }
-      ],
-      "duration_ms": 187402,
-      "name": "75, Brazil Street (Radio Mix)",
-      "url": "https://open.spotify.com/track/2RSxUNaF8EZI3B7guqXAPk"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1347,22 +1347,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "Come into My Life (10th Anniversary)",
-        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
-      },
-      "artists": [
-        {
-          "name": "Gala",
-          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
-        }
-      ],
-      "duration_ms": 213305,
-      "name": "Freed from Desire",
-      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Show Me Love (feat. Robin S)",
         "url": "https://open.spotify.com/album/32SxAN231WZpNVzHaFZ9O2"
       },
@@ -1383,6 +1367,22 @@
       "duration_ms": 185613,
       "name": "Show Me Love (feat. Robin S) - Radio Edit",
       "url": "https://open.spotify.com/track/5Nzph7bpgv2GNh2DcVX29T"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "Come into My Life (10th Anniversary)",
+        "url": "https://open.spotify.com/album/4EMKH4lI4pyUYxCsPl4cag"
+      },
+      "artists": [
+        {
+          "name": "Gala",
+          "url": "https://open.spotify.com/artist/3OqTvcWgb0xaainosGVvuZ"
+        }
+      ],
+      "duration_ms": 213305,
+      "name": "Freed from Desire",
+      "url": "https://open.spotify.com/track/5n56ImOTTDbUORTq3Eyong"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1540,9 +1540,29 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 177026,
-      "name": "Traffic - Radio Edit",
-      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
+      "duration_ms": 443426,
+      "name": "Adagio For Strings",
+      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+    },
+    {
+      "added_at": "2024-07-12 15:40:20",
+      "album": {
+        "name": "The Longest Road",
+        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
+      },
+      "artists": [
+        {
+          "name": "Morgan Page",
+          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
+        },
+        {
+          "name": "Lissie",
+          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
+        }
+      ],
+      "duration_ms": 239213,
+      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
+      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
     },
     {
       "added_at": "2024-07-12 15:40:20",
@@ -1595,26 +1615,6 @@
     {
       "added_at": "2024-07-12 15:40:20",
       "album": {
-        "name": "The Longest Road",
-        "url": "https://open.spotify.com/album/3gAWkt3YKBDuaGWZdV46bt"
-      },
-      "artists": [
-        {
-          "name": "Morgan Page",
-          "url": "https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b"
-        },
-        {
-          "name": "Lissie",
-          "url": "https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt"
-        }
-      ],
-      "duration_ms": 239213,
-      "name": "The Longest Road (feat. Lissie) - Deadmau5 Remix Edit",
-      "url": "https://open.spotify.com/track/0cP5GxZrtKCRQu7cbOqsBe"
-    },
-    {
-      "added_at": "2024-07-12 15:40:20",
-      "album": {
         "name": "Just Be",
         "url": "https://open.spotify.com/album/3YhbbbrDETVSpF6zJFh5TA"
       },
@@ -1624,9 +1624,9 @@
           "url": "https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z"
         }
       ],
-      "duration_ms": 443426,
-      "name": "Adagio For Strings",
-      "url": "https://open.spotify.com/track/6a7mLvgueio7SuHgcacywb"
+      "duration_ms": 177026,
+      "name": "Traffic - Radio Edit",
+      "url": "https://open.spotify.com/track/6pqFWRuybCtxerWC7B4RgF"
     },
     {
       "added_at": "2024-07-12 15:40:20",

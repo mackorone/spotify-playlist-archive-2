@@ -2,9 +2,9 @@
 
 ### [Novità Rap Italiano](https://open.spotify.com/playlist/37i9dQZF1DX1OQlaot30zi)
 
-> Sempre aggiornata 😈 Con nuovi brani di Khodi e Flaco, 22simba, Palazzi d'Oriente con Massimo Pericolo, Young Hash e tanti altri
+> Sempre aggiornata 😈 Con nuovi brani di Sfera Ebbasta, Sayf, Khodi e Flaco, 22simba e tanti altri.
 
-7,766 songs - 14 day 6 hr 5 min
+7,768 songs - 14 day 6 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -3839,6 +3839,7 @@
 | [Lontani](https://open.spotify.com/track/4xllbRPobp54hJuhcftlL9) | [Andrès Las](https://open.spotify.com/artist/5yxzT7i5hJK48tqWWfU3iO), [Dalu](https://open.spotify.com/artist/4oIQqm101EnDn0FjhreaIi) | [Lontani](https://open.spotify.com/album/7pAVtSQzm80sDgAGXXHZ8H) | 2:49 | 2024-12-19 | 2025-01-24 |
 | [LONTANI](https://open.spotify.com/track/3D3AM0Kw4Fu2eWqzRswKf5) | [Gigen](https://open.spotify.com/artist/60GHlFUzCHDzOUMXZCnOT2), [ALEX MERCY](https://open.spotify.com/artist/4Fz6lrej7gOb85oQhEbF09) | [LONTANI](https://open.spotify.com/album/1MlgtomMGhvDTCJLh4QHfH) | 2:51 | 2024-02-29 | 2024-03-08 |
 | [Lontani Da Casa](https://open.spotify.com/track/1ecHuHtxAB94K9R9DOnElp) | [TRC](https://open.spotify.com/artist/5DB3toEwvOwRexy5lDhjZo), [Jerry Sampi](https://open.spotify.com/artist/3TkjmmfqgXSeqkAeHRSLwM), [Zayre](https://open.spotify.com/artist/6I3qqyBWKsB1lTc9el9TLr) | [Lontani Da Casa](https://open.spotify.com/album/2P6beUc3tIHzHN7MEnfQqy) | 3:44 | 2022-06-16 | 2022-06-24 |
+| [Lontano](https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Lontano](https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h) | 3:49 | 2026-09-21 |  |
 | [Lontano \(feat\. bnkr44\)](https://open.spotify.com/track/4glV7yEkQD2QhP1xZiavsX) | [18K](https://open.spotify.com/artist/5PVCzkHVhVLRLadPdJUdXB), [bnkr44](https://open.spotify.com/artist/1lwGYDWoXC7E5wDNYZBurw) | [Lontano \(feat\. bnkr44\)](https://open.spotify.com/album/2guF4dj1vcCmcLLZ1L3MuM) | 3:06 | 2024-11-22 | 2024-12-13 |
 | [LONTANO \- carlito's way](https://open.spotify.com/track/2t1dculU2L9HxEIzB00Xpk) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:46 | 2023-05-18 | 2023-06-09 |
 | [Lontano da Milano](https://open.spotify.com/track/3NAAJMIcZXBjZ13bvNdIie) | [VillaBanks](https://open.spotify.com/artist/3ASAxVN1hNoYfoMcIkzZWL) | [Quanto Manca 2](https://open.spotify.com/album/5vK6nVwBoqLgsFDBABEeTG) | 2:00 | 2025-01-10 | 2025-01-31 |
@@ -7045,6 +7046,7 @@
 | [TOP GUN](https://open.spotify.com/track/67hW8Vfynr74S3NqWIlg9Z) | [Coco93](https://open.spotify.com/artist/37eCNK8NWywqpPMGPBDKvf), [Keyone](https://open.spotify.com/artist/2TkKn78OSOnL27lul8B6Kx) | [TOP GUN](https://open.spotify.com/album/5X3sQZCpuVOEGJglQhrOi4) | 2:23 | 2025-04-10 | 2025-05-02 |
 | [TOP MODEL \(HEY MAMBO!\)](https://open.spotify.com/track/1YvfAyh0iuMaQoOLgaPLYZ) | [MamboLosco](https://open.spotify.com/artist/4BFn4jmfqSNaHtPWHTcy41) | [YACHT CLUB](https://open.spotify.com/album/3pDBHEcKJYylqjOvRlP2yU) | 2:34 | 2026-07-16 | 2026-08-07 |
 | [TOP NOTCH](https://open.spotify.com/track/5AbwCVu8Mf94hnfN0j2LOl) | [Dero](https://open.spotify.com/artist/6AaSvEonOqhrYZLFPmqX1I), [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Stylo G](https://open.spotify.com/artist/7qPISKHhhKDLZTmYcX7bWd) | [TOP NOTCH](https://open.spotify.com/album/1UQd3Ra9IOT4nLWGae4zfx) | 2:23 | 2023-08-31 | 2023-09-29 |
+| [TOP OF THE POPS \(Red Bull 64 Bars\)](https://open.spotify.com/track/5OAQg4LJJ2kFWsNdkOeKO2) | [Sayf](https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB), [Dibla](https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu), [Jiz](https://open.spotify.com/artist/38CThoTDmXugNnfonW466d) | [TOP OF THE POPS \(Red Bull 64 Bars\)](https://open.spotify.com/album/68kUOOPBwN7IP9KeoVCMdA) | 3:14 | 2026-09-21 |  |
 | [TOP QUALITA'](https://open.spotify.com/track/14iQ81034vQXcEFewMGoVV) | [Ceejay](https://open.spotify.com/artist/6eg2wRWO2S05u2gJjSKaxm) | [TOP QUALITA'](https://open.spotify.com/album/12WwsEKJJmvyjHw8vyEkqA) | 2:22 | 2026-02-20 | 2026-03-20 |
 | [TOP SECRET \(feat\. Papa V\)](https://open.spotify.com/track/3moH6gwEN3x5CxJRNffvPn) | [Low\-Red](https://open.spotify.com/artist/6iE4D1r501drzd1fyM6z9N), [Papa V](https://open.spotify.com/artist/0vAALEhfbmllIOX1t7k5KU), [ilovethisbeat](https://open.spotify.com/artist/4KXuowxUNZQRZC5CoY1Z2P), [Pherro](https://open.spotify.com/artist/0GxUrQrSthXbfwGGw9QKDh) | [THE BIGGEST SBLAO](https://open.spotify.com/album/7CgOXOllcrg4B889ovCsPp) | 3:00 | 2024-09-12 | 2024-10-11 |
 | [TOPI NELLE TRAPPOLE FREESTYLE](https://open.spotify.com/track/44e1s8gNmlCxQ1KoNhVM1h) | [Delaruà](https://open.spotify.com/artist/0inlLzcyWLbJbPZuMzfTPt), [Ago](https://open.spotify.com/artist/6glXq3t35awYBHo1b96imY) | [TOPI NELLE TRAPPOLE FREESTYLE](https://open.spotify.com/album/1Sum5H06Jpu2PpsiNgwETV) | 1:38 | 2024-07-26 | 2024-09-06 |

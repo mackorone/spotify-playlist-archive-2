@@ -4,7 +4,7 @@
 
 > Resonancias luminiscentes para llenar de paz tu alma.
 
-329 songs - 16 hr 7 min
+331 songs - 16 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -165,7 +165,7 @@
 | [Light & Hope](https://open.spotify.com/track/1t7aHJdENKDjZxyrCRMeQV) | [Crystalsong](https://open.spotify.com/artist/2SdRLr197dzDytBbZe5RZA) | [Light & Hope](https://open.spotify.com/album/4AIfq4wzDvO0JVlManPpxT) | 2:47 | 2022-07-05 | 2025-11-06 |
 | [Light From Within](https://open.spotify.com/track/2U9GA6WsVGUf1i3bnZVLE7) | [Erastox](https://open.spotify.com/artist/3zPEKgYbraip77EsVefCbd) | [Light From Within](https://open.spotify.com/album/0SuSHZGd091t2p0JwOXQtK) | 3:18 | 2025-01-14 |  |
 | [lights](https://open.spotify.com/track/0jUDyVPlv8eWJ86dC4sLqz) | [Mountain Explorer](https://open.spotify.com/artist/0ZRFQvqH13ouWGPIR0ulSF) | [lights](https://open.spotify.com/album/62nUEsKB9oBtGyNokjC3WB) | 2:20 | 2025-05-14 | 2026-02-12 |
-| [Lights on Water](https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Lights on Water](https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp) | 3:37 | 2022-07-05 |  |
+| [Lights on Water](https://open.spotify.com/track/6J0uBGMNk7kjRKVmxh6iJE) | [Astral Wonder](https://open.spotify.com/artist/24JkKS4b8yp9usUXPL0I3G) | [Lights on Water](https://open.spotify.com/album/0TR96hLQ5YvKTdgZY7ffhp) | 3:37 | 2022-07-05 | 2026-09-22 |
 | [Linearity](https://open.spotify.com/track/0Ci8JFzz4gsoDRY7aUau5o) | [Hypertime](https://open.spotify.com/artist/2h8Lzun0E6Ei7JeGW6Hlcc) | [Linearity](https://open.spotify.com/album/0pgMpYSMvMZtoLDl9EWeHW) | 3:11 | 2022-07-05 | 2022-11-12 |
 | [Livity](https://open.spotify.com/track/6K1Y957kZJmLYRvSBjmeuW) | [Indigenouz](https://open.spotify.com/artist/2BKdtzY8ha7NXneCvO52f7) | [Livity](https://open.spotify.com/album/2niIaa7s1BUp3xq4DvR7N4) | 2:43 | 2026-09-14 |  |
 | [Lost City](https://open.spotify.com/track/06Abg0WqRt5zIeYX3d73qB) | [Wicker Whales](https://open.spotify.com/artist/5uRVmIgosxKIgvH3YUMoou) | [Lost City](https://open.spotify.com/album/7fS8P6tpiMkEB97ANGOdG2) | 2:35 | 2024-08-28 | 2025-01-15 |
@@ -173,6 +173,7 @@
 | [Love](https://open.spotify.com/track/1XZhYDzpkGogafOyTDhZtn) | [Yorokobi](https://open.spotify.com/artist/2NJ8Ef2N0AYoDBiSTDXpHC) | [Love](https://open.spotify.com/album/589ZsN7OR27RrA5q3ltkyv) | 2:06 | 2022-07-05 | 2024-06-11 |
 | [Loveliness](https://open.spotify.com/track/2743TnEHSd1VI9Dwrzut7k) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/3IZIg6JCUU2i9KTiRE5CYy) | 2:40 | 2022-07-19 | 2022-07-25 |
 | [Loveliness](https://open.spotify.com/track/3dKprU1S9gkO3AlCKnjNyt) | [Gentle Dreams](https://open.spotify.com/artist/57Ou0NcsDXfjiznEPmZfaC) | [Loveliness](https://open.spotify.com/album/4SYjccDi2Vcm3XMUk65cNP) | 2:40 | 2022-11-11 | 2024-04-19 |
+| [Low Tide Dream](https://open.spotify.com/track/22N63RKO6y2rUFOZchTXGM) | [cairn](https://open.spotify.com/artist/28ALaEjtETDJWpEggGZdOp) | [Low Tide Dream](https://open.spotify.com/album/5J6h61tPtvUJC8038BXk4R) | 3:01 | 2026-09-14 |  |
 | [Lumen](https://open.spotify.com/track/482J65aOwVVsf01c7ktAvM) | [Abe Hathot](https://open.spotify.com/artist/40tqIiKClGVYgzgxL4YoQw) | [Lumen](https://open.spotify.com/album/025PjPtslp6pG3gm40PJ8n) | 2:56 | 2026-02-11 |  |
 | [Lysekil](https://open.spotify.com/track/3ebnip37XXVpR1nGsG9in8) | [Liva](https://open.spotify.com/artist/3OUnfI9kqulSplNuBsIf1p) | [Lysekil](https://open.spotify.com/album/3dydgFWdBBzacCf4OoNr9T) | 2:42 | 2025-01-14 | 2025-02-17 |
 | [Maitrī / Loving\-Kindness](https://open.spotify.com/track/3fxhUzK3MnVxAuLweBht7Z) | [RE:LX](https://open.spotify.com/artist/58iF9cZ4AQvPmZgkhTa92u) | [Prabhāta Dhara / Morning Flow](https://open.spotify.com/album/2sPa9bingfnxan7LKLOivy) | 3:24 | 2025-03-19 |  |
@@ -243,7 +244,7 @@
 | [Restful Whispers](https://open.spotify.com/track/6C5c20UUEJhT8tFhY3kDPe) | [Joa Abbot](https://open.spotify.com/artist/5YyUtmkNPxBBPJLJDAXFxk) | [Restful Whispers](https://open.spotify.com/album/4dh8iE6t0QwHO1uAhPkmHG) | 3:38 | 2024-04-29 | 2026-02-27 |
 | [Restoration](https://open.spotify.com/track/0YTADQHqg5hMmY34d5WUfG) | [myndstream](https://open.spotify.com/artist/4XeAwrDuVTNPa9WzLAerm3) | [Restoration](https://open.spotify.com/album/63mFaMYI2MjMn08yo21sDo) | 3:07 | 2025-05-14 |  |
 | [Rituals](https://open.spotify.com/track/5dBXoX0Gnj7hkVYyGMPdes) | [Nairuz](https://open.spotify.com/artist/5Rl9GnnclvARcDxCUMO02Y) | [Ritual](https://open.spotify.com/album/2dYmh6Rzv5G3UtS7WLAQBD) | 3:49 | 2022-07-05 | 2025-07-25 |
-| [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 | 2023-02-17 |  |
+| [Rymdresa](https://open.spotify.com/track/1xbfnRa7qVtoLWqr0xDljM) | [Juni Ros](https://open.spotify.com/artist/0lYxaLB1G0DginH83Meiw9) | [Rymdresa](https://open.spotify.com/album/2pg1D1oF92V1a8sJXZFBad) | 2:34 | 2023-02-17 | 2026-09-22 |
 | [Sammram](https://open.spotify.com/track/0bhnoSlNuYDk7c0HSdh821) | [Ikupu Ume](https://open.spotify.com/artist/3jKOrP3N4xtMAgfet68LDP) | [Sammram](https://open.spotify.com/album/7q6yAn5U88BS9PoLGHjPLz) | 3:26 | 2023-01-10 | 2026-07-04 |
 | [Sandman's Lullaby](https://open.spotify.com/track/5Fsbc5Kpa2rk3nWlVFh4JG) | [Phylloscopus humei](https://open.spotify.com/artist/0fTIoPPUI4uc1vmicKfoqS) | [Sandman's Lullaby](https://open.spotify.com/album/4PLjfZjlu6r1tiLURK3eFu) | 2:28 | 2024-12-11 | 2026-07-03 |
 | [Sandy Foam](https://open.spotify.com/track/3eifjD5zwsrWjKkphFcr5i) | [xerLK](https://open.spotify.com/artist/5UI7y2lrDYhqcM7sdbTbQ9) | [Sandy Foam](https://open.spotify.com/album/47x7s8rWew3mkOc8xgzuIB) | 2:25 | 2022-07-19 | 2022-11-12 |
@@ -276,6 +277,7 @@
 | [Sleepy Eyes](https://open.spotify.com/track/6yh2v1ESQ0gOqU8d1Cyexm) | [Golden Slumber](https://open.spotify.com/artist/1x02xJIKGceDvDd4yugtQj) | [Sleepy Eyes](https://open.spotify.com/album/5XDgcCLTTeLRtQiC0H6ooQ) | 3:44 | 2023-08-25 | 2024-08-29 |
 | [Slow Falling of Light](https://open.spotify.com/track/2cmZz0u7VhVFVGiaNsPbL7) | [Through Quiet Tides](https://open.spotify.com/artist/2eHOuxkLbI8rJGWwAN41Gi) | [Slow Falling of Light](https://open.spotify.com/album/713In70uLYleJ6Te91PM7w) | 3:05 | 2025-12-02 |  |
 | [Slowly Flying](https://open.spotify.com/track/13SRYtw5x5Z4OpFUYY4C1k) | [BlunD](https://open.spotify.com/artist/4Dc1j8HIqC0y6uSG8Gnk1T) | [Simple Soul](https://open.spotify.com/album/2RDfxKIgM9olAczjQK5Yku) | 3:34 | 2022-07-05 | 2025-01-15 |
+| [Soft Descent](https://open.spotify.com/track/11DYJMOrKnJbsWu8vJBXKL) | [Daly Lowe](https://open.spotify.com/artist/1DERRyxDextHQUIp33LiOQ) | [Soft Descent](https://open.spotify.com/album/3tpNAMFr8m2KyYGVbgrmhu) | 2:57 | 2026-09-14 |  |
 | [Soft Glow \(432Hz\)](https://open.spotify.com/track/1N3zuxOnvLbCDfDvrsv3ST) | [Atmosfeel](https://open.spotify.com/artist/04MoCfKDs263ULEoka1Gyy) | [Soft Glow \(432Hz\)](https://open.spotify.com/album/3AQhmItCysLebW9yMCxgz0) | 2:58 | 2025-07-24 |  |
 | [Soft Meadow](https://open.spotify.com/track/02fRLzB7HZHr7UzG5lCia9) | [Aloen](https://open.spotify.com/artist/0jYDs1TAciKohAd5YkQFXJ) | [Soft Meadow](https://open.spotify.com/album/2GS48Tn9Wtbytl8hcGGXT8) | 3:13 | 2022-07-19 | 2026-09-14 |
 | [Soft Meadow](https://open.spotify.com/track/0Y4S0WFDJQdIV8VveeRdKF) | [Escape Gravity](https://open.spotify.com/artist/2CVd5odoymaLOr5rMix7js) | [Soft Meadow](https://open.spotify.com/album/5lJOCP12LEhMcGPkUsuK4C) | 2:59 | 2023-10-04 | 2024-04-15 |

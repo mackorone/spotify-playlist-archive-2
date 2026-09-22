@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 
 > Hot Hits – största och bästa hitsen just nu!
 
-[Spotify](https://open.spotify.com/user/spotify) - 842,921 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 842,863 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -13,10 +13,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 3 | [Vem du än är](https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P) | [Keisha](https://open.spotify.com/artist/1U6mH5zLiBo4aNy7QiyGLm) | [Vem du än är](https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF) | 2:55 |
 | 4 | [Azalea](https://open.spotify.com/track/0Dkp8CfJx2xSEaIuX8F2hx) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO) | [Azalea](https://open.spotify.com/album/1eTgGT1hadTFKHsAIF2g7W) | 3:25 |
 | 5 | [Highway to Heaven](https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm) | [Lovet](https://open.spotify.com/artist/2kSCHFK5uErN4BO7IkTrHK) | [Highway to Heaven](https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr) | 3:06 |
-| 6 | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP) | 2:22 |
+| 6 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
 | 7 | [waste my time](https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy) | [Benjamin Ingrosso](https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5) | [waste my time](https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI) | 3:32 |
-| 8 | [Boston](https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Boston](https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2) | 2:50 |
-| 9 | [Tänk om](https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tänk om](https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db) | 2:50 |
+| 8 | [Tänk om](https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0) | [Victor Leksell](https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY) | [Tänk om](https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db) | 2:50 |
+| 9 | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz) | [Malik Dalasi](https://open.spotify.com/artist/1n3grwmOigAA2UYtlF91gc), [Molly Sandén](https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Tomma glas \(feat\. Molly Sandén & Dante\)](https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP) | 2:22 |
 | 10 | [Dai Dai](https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL) | [Shakira](https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp), [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Dai Dai](https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8) | 3:43 |
 | 11 | [Great Expectation](https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe) | [SIENNA SPIRO](https://open.spotify.com/artist/02gSuSAWEdWa5UOvqzjX6v) | [Visitor](https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF) | 2:53 |
 | 12 | [Fel på dig](https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0) | [Bolaget](https://open.spotify.com/artist/55ZGFvikpNjQHvtTWS5aZF), [Dante](https://open.spotify.com/artist/7HxyLgEfLQQnzrgMvUGVI5) | [Fel på dig](https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA) | 2:34 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMYgB8TqtmR.md) - [plain]
 | 49 | [DtMF](https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:57 |
 | 50 | [Man I Need](https://open.spotify.com/track/1qbmS6ep2hbBRaEZFpn7BX) | [Olivia Dean](https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW) | [Man I Need](https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a) | 3:04 |
 
-Snapshot ID: `AAAAAON3mF4uND0lSNW7YSjBZF1GywKL`
+Snapshot ID: `AAAAAMoWgooYi8h331+wfQJSIWmLda06`

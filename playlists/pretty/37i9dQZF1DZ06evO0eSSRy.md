@@ -33,4 +33,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0eSSRy.md) - [plain]
 | 23 | [Start out with Differences](https://open.spotify.com/track/036ME3TU5NT3XCLdYxpGMA) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Semi Finalists](https://open.spotify.com/album/16RZf3BVDPmN4drdjiaxXY) | 3:49 |
 | 24 | [Mike + Susan](https://open.spotify.com/track/14iRhVzDOc9EKuRIbzsczQ) | [PÆRISH](https://open.spotify.com/artist/0waXk4SsKZBRCf7kiwi6uL) | [Fixed It All](https://open.spotify.com/album/5GVTqRW3SJkS0oCU0YREVG) | 4:01 |
 
-Snapshot ID: `aq3QgAAAAABOwkFZX6ll1sKKGSsTas+X`
+Snapshot ID: `aq8iAAAAAAB4dyXY29+loH7tNWzTzEhI`

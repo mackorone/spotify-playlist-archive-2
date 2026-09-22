@@ -1,6 +1,6 @@
 {
   "description": "Soul to brighten up your day. Cover: The Womack Sisters",
-  "num_followers": 1007552,
+  "num_followers": 1007541,
   "original_name": "Soulful Day",
   "owner": {
     "name": "Spotify",
@@ -1257,6 +1257,22 @@
       "url": "https://open.spotify.com/track/2zh7joC2PCjzcLHv4EXTva"
     },
     {
+      "added_at": "2025-12-05 07:56:11",
+      "album": {
+        "name": "Silver Lining",
+        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
+      },
+      "artists": [
+        {
+          "name": "Adi Oasis",
+          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
+        }
+      ],
+      "duration_ms": 219862,
+      "name": "Stuck In My Head",
+      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
+    },
+    {
       "added_at": "2025-06-27 04:00:46",
       "album": {
         "name": "Flowers",
@@ -1275,22 +1291,6 @@
       "duration_ms": 271573,
       "name": "Really Wanna Be With You",
       "url": "https://open.spotify.com/track/2YxrLqrR7crzcQCuX08P5q"
-    },
-    {
-      "added_at": "2025-12-05 07:56:11",
-      "album": {
-        "name": "Silver Lining",
-        "url": "https://open.spotify.com/album/0U1L0ymBennSrZ1LZdJPSP"
-      },
-      "artists": [
-        {
-          "name": "Adi Oasis",
-          "url": "https://open.spotify.com/artist/5RRfTrwXUGYiBB0DMV4hyh"
-        }
-      ],
-      "duration_ms": 219862,
-      "name": "Stuck In My Head",
-      "url": "https://open.spotify.com/track/2XFW2M843o9gr7O5YQJnDp"
     },
     {
       "added_at": "2026-06-19 08:55:53",
@@ -1349,22 +1349,6 @@
       "url": "https://open.spotify.com/track/0Gs5zsjp7Rp2i41yMgNxCf"
     },
     {
-      "added_at": "2024-03-08 13:51:25",
-      "album": {
-        "name": "Avery*Sunshine",
-        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
-      },
-      "artists": [
-        {
-          "name": "Avery*Sunshine",
-          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
-        }
-      ],
-      "duration_ms": 194333,
-      "name": "I Got Sunshine",
-      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
-    },
-    {
       "added_at": "2026-04-24 04:33:57",
       "album": {
         "name": "Chase Your Tail",
@@ -1379,6 +1363,22 @@
       "duration_ms": 193915,
       "name": "Chase Your Tail",
       "url": "https://open.spotify.com/track/21QZn1gYqOE7HG3s6LHaxF"
+    },
+    {
+      "added_at": "2024-03-08 13:51:25",
+      "album": {
+        "name": "Avery*Sunshine",
+        "url": "https://open.spotify.com/album/3MqlTEkRsAntG8xBSeNcuB"
+      },
+      "artists": [
+        {
+          "name": "Avery*Sunshine",
+          "url": "https://open.spotify.com/artist/4yMxdaUoKCalQPX9BMeeFf"
+        }
+      ],
+      "duration_ms": 194333,
+      "name": "I Got Sunshine",
+      "url": "https://open.spotify.com/track/1UXQhuCOj5ksuFbceRAdPo"
     },
     {
       "added_at": "2024-03-08 13:51:25",
@@ -1649,6 +1649,22 @@
       "url": "https://open.spotify.com/track/7tWfPoTJQu7QzbQmy3omtL"
     },
     {
+      "added_at": "2025-03-07 06:27:51",
+      "album": {
+        "name": "The Hash Brown Demos",
+        "url": "https://open.spotify.com/album/2R6pJlvxvvnUHlqvF5d5Fg"
+      },
+      "artists": [
+        {
+          "name": "Aaron Childs",
+          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
+        }
+      ],
+      "duration_ms": 119791,
+      "name": "Hash Browns",
+      "url": "https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7"
+    },
+    {
       "added_at": "2025-09-12 19:19:09",
       "album": {
         "name": "Silver Lining",
@@ -1683,22 +1699,6 @@
       "duration_ms": 212116,
       "name": "Take You There",
       "url": "https://open.spotify.com/track/3hIKghnuBBkLkeLDz63MLa"
-    },
-    {
-      "added_at": "2025-03-07 06:27:51",
-      "album": {
-        "name": "The Hash Brown Demos",
-        "url": "https://open.spotify.com/album/2R6pJlvxvvnUHlqvF5d5Fg"
-      },
-      "artists": [
-        {
-          "name": "Aaron Childs",
-          "url": "https://open.spotify.com/artist/2iAyNq1LgQlXcmtM7SzkdV"
-        }
-      ],
-      "duration_ms": 119791,
-      "name": "Hash Browns",
-      "url": "https://open.spotify.com/track/3EcFVXOhKYKwGswzeWPGo7"
     }
   ],
   "unique_name": "Soulful Day",

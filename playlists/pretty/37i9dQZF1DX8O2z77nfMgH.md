@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 
 > Lo nuevo de toda Iberoamérica\. Foto: Feid
 
-[Spotify](https://open.spotify.com/user/spotify) - 829,874 likes - 60 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 829,769 likes - 60 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,7 +33,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8O2z77nfMgH.md) - [plain]
 | 23 | [BIRKIN](https://open.spotify.com/track/5aZAMeBKlU7zuuoWd9v1UQ) | [Zulia](https://open.spotify.com/artist/5m5MnSiB5nnLBZCU8Gcggp) | [BIRKIN](https://open.spotify.com/album/7whZGOX7HNmCDlaUVT0uUG) | 2:06 |
 | 24 | [tripeando](https://open.spotify.com/track/48FTlrg6MiXfvpMDppE3li) | [Lismar](https://open.spotify.com/artist/2JAxtl8czMHyssC2W7b8jy) | [flore\-ser](https://open.spotify.com/album/16oDTM88nXJfd0rQzol3Ax) | 2:23 |
 | 25 | [ADICTOS AL SEX](https://open.spotify.com/track/51qzaU3YCray0DKWAaiShU) | [Jencko el Shinobi](https://open.spotify.com/artist/0AiOQ82ODy99sd6kJ15Cmf), [Mamx](https://open.spotify.com/artist/2s2vf7HUnfrciHagiyRX50) | [ADICTOS AL SEX](https://open.spotify.com/album/22goyQ95Idf6LMR8BIVwaG) | 2:22 |
-| 26 | [Como Te Olvido](https://open.spotify.com/track/2DzLUxQ1QB30GSQBYa1zIT) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Como Te Olvido](https://open.spotify.com/album/2RMo1JLJ9Kr1twPWbqzfBJ) | 3:27 |
+| 26 | [¿Cómo Te Olvido?](https://open.spotify.com/track/2DzLUxQ1QB30GSQBYa1zIT) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [¿Cómo Te Olvido?](https://open.spotify.com/album/2RMo1JLJ9Kr1twPWbqzfBJ) | 3:28 |
 | 27 | [Sábado de Noche](https://open.spotify.com/track/2BioSFp1kZ9uOIxOiveghK) | [Esau Ortiz](https://open.spotify.com/artist/6VcsqZOR5AtEOGeAtmutCZ), [ELMANU GOMEZ](https://open.spotify.com/artist/42njeO6C8HEoG3u118kMOS), [Joel De La P](https://open.spotify.com/artist/4qDRNT8ldCfCjSp9lBzYC5), [Luis R Conriquez](https://open.spotify.com/artist/0pePYDrJGk8gqMRbXrLJC8) | [Sábado de Noche](https://open.spotify.com/album/4mZU1LZTaHFA4wv8P8F8vB) | 2:45 |
 | 28 | [Un último beso](https://open.spotify.com/track/1DPac3MGXF6PljsQy0KNpp) | [Sebastian Llosa](https://open.spotify.com/artist/10vr6MNGdriyVivl7Ls8Xx) | [Un último beso](https://open.spotify.com/album/43VX0twuD2oBjvvEov05aN) | 3:08 |
 | 29 | [FELIX](https://open.spotify.com/track/3q8A5lJEhxdfDQfNMz4Hfg) | [DISHYPE](https://open.spotify.com/artist/2cVtX6cwi2dGV4WZDwU39q) | [FELIX](https://open.spotify.com/album/6q96lzU4n7UXqFGSroB8sm) | 2:49 |

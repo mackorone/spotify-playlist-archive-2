@@ -1,6 +1,6 @@
 {
   "description": "Muito romance, groove suave e R&B feitos no Brasil. ",
-  "num_followers": 73400,
+  "num_followers": 73408,
   "original_name": "su\u00edte.",
   "owner": {
     "name": "Spotify",
@@ -71,26 +71,6 @@
     {
       "added_at": "2026-09-18 03:03:04",
       "album": {
-        "name": "rara e Brasileira",
-        "url": "https://open.spotify.com/album/5ABMtrkmhOF0GiZjKaJIcr"
-      },
-      "artists": [
-        {
-          "name": "Nina",
-          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
-        },
-        {
-          "name": "Machadez",
-          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
-        }
-      ],
-      "duration_ms": 223676,
-      "name": "sinais",
-      "url": "https://open.spotify.com/track/75YxsDYdCVXE8bYQtGFtJd"
-    },
-    {
-      "added_at": "2026-09-18 03:03:04",
-      "album": {
         "name": "Rei das Ruas",
         "url": "https://open.spotify.com/album/54XF5DS1sE5qVguIX4cBhi"
       },
@@ -107,6 +87,26 @@
       "duration_ms": 255685,
       "name": "It's Fine (Luz)",
       "url": "https://open.spotify.com/track/3G7A6TA86EkdNMo0LsGRHQ"
+    },
+    {
+      "added_at": "2026-09-18 03:03:04",
+      "album": {
+        "name": "rara e Brasileira",
+        "url": "https://open.spotify.com/album/5ABMtrkmhOF0GiZjKaJIcr"
+      },
+      "artists": [
+        {
+          "name": "Nina",
+          "url": "https://open.spotify.com/artist/7fA6EAOeE7G5HmvBgbwND5"
+        },
+        {
+          "name": "Machadez",
+          "url": "https://open.spotify.com/artist/1CbWrXtZpVnkN8cstE2VL2"
+        }
+      ],
+      "duration_ms": 223676,
+      "name": "sinais",
+      "url": "https://open.spotify.com/track/75YxsDYdCVXE8bYQtGFtJd"
     },
     {
       "added_at": "2026-09-18 03:03:04",
@@ -315,18 +315,18 @@
     {
       "added_at": "2026-09-18 03:03:04",
       "album": {
-        "name": "Castigo",
-        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
+        "name": "Novela",
+        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
       },
       "artists": [
         {
-          "name": "Cryzin",
-          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
+          "name": "Agnes Nunes",
+          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
         }
       ],
-      "duration_ms": 145185,
-      "name": "Castigo",
-      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
+      "duration_ms": 198101,
+      "name": "Aprendi a Viver S\u00f3",
+      "url": "https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy"
     },
     {
       "added_at": "2026-09-18 03:03:04",
@@ -351,18 +351,18 @@
     {
       "added_at": "2026-09-18 03:03:04",
       "album": {
-        "name": "Novela",
-        "url": "https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx"
+        "name": "Castigo",
+        "url": "https://open.spotify.com/album/02Ry1jkrrFAHXwtK70g0DO"
       },
       "artists": [
         {
-          "name": "Agnes Nunes",
-          "url": "https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw"
+          "name": "Cryzin",
+          "url": "https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH"
         }
       ],
-      "duration_ms": 198101,
-      "name": "Aprendi a Viver S\u00f3",
-      "url": "https://open.spotify.com/track/1WbHIZnVa64bB3Tkt0vLxy"
+      "duration_ms": 145185,
+      "name": "Castigo",
+      "url": "https://open.spotify.com/track/7zYNzITyQ41bb17sN1lafK"
     },
     {
       "added_at": "2026-09-18 03:03:04",
@@ -747,6 +747,26 @@
     {
       "added_at": "2026-09-18 03:03:04",
       "album": {
+        "name": "(Des)conectar",
+        "url": "https://open.spotify.com/album/57phCII157BEvM0camoMvd"
+      },
+      "artists": [
+        {
+          "name": "LAN",
+          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
+        },
+        {
+          "name": "Beb\u00e9",
+          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
+        }
+      ],
+      "duration_ms": 200217,
+      "name": "(Des)conectar",
+      "url": "https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31"
+    },
+    {
+      "added_at": "2026-09-18 03:03:04",
+      "album": {
         "name": "Mais Prazer",
         "url": "https://open.spotify.com/album/7s7ygL3e8FaDH7A1z4vB90"
       },
@@ -779,26 +799,6 @@
       "duration_ms": 172653,
       "name": "Tudo o Que Sou",
       "url": "https://open.spotify.com/track/0pc7uFEfMbjbU8KIQdTfU0"
-    },
-    {
-      "added_at": "2026-09-18 03:03:04",
-      "album": {
-        "name": "(Des)conectar",
-        "url": "https://open.spotify.com/album/57phCII157BEvM0camoMvd"
-      },
-      "artists": [
-        {
-          "name": "LAN",
-          "url": "https://open.spotify.com/artist/0ASWGhrmkvvEO5dOj0Cj5o"
-        },
-        {
-          "name": "Beb\u00e9",
-          "url": "https://open.spotify.com/artist/3u7JauDo3fDN6HBNtRTAFu"
-        }
-      ],
-      "duration_ms": 200217,
-      "name": "(Des)conectar",
-      "url": "https://open.spotify.com/track/5TxpANIiDUqlJamIHZcO31"
     },
     {
       "added_at": "2026-09-18 03:03:04",

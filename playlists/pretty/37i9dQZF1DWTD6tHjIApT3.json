@@ -1,6 +1,6 @@
 {
   "description": "\u65e5\u672c\u306e\u5973\u6027\u30a2\u30fc\u30c6\u30a3\u30b9\u30c8\u306e\u6b4c\u3092\u7279\u96c6\u3002A Collection of Songs by Japanese Women Vocalists.  cover: Chilli Beans.",
-  "num_followers": 138894,
+  "num_followers": 138901,
   "original_name": "Women's Voice",
   "owner": {
     "name": "Spotify",
@@ -571,22 +571,6 @@
     {
       "added_at": "2026-09-15 15:00:23",
       "album": {
-        "name": "The Story of Us",
-        "url": "https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV"
-      },
-      "artists": [
-        {
-          "name": "milet",
-          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
-        }
-      ],
-      "duration_ms": 267133,
-      "name": "The Story of Us",
-      "url": "https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq"
-    },
-    {
-      "added_at": "2026-09-15 15:00:23",
-      "album": {
         "name": "MISMATCH",
         "url": "https://open.spotify.com/album/4p5geEZVzAnALRrj44ssGZ"
       },
@@ -599,6 +583,22 @@
       "duration_ms": 193638,
       "name": "MISMATCH",
       "url": "https://open.spotify.com/track/6Du72Nsm3osfaoKxp0QDQ2"
+    },
+    {
+      "added_at": "2026-09-15 15:00:23",
+      "album": {
+        "name": "The Story of Us",
+        "url": "https://open.spotify.com/album/2MTlaXlJD4aTeh1XaAeqzV"
+      },
+      "artists": [
+        {
+          "name": "milet",
+          "url": "https://open.spotify.com/artist/45ft4DyTCEJfQwTBHXpdhM"
+        }
+      ],
+      "duration_ms": 267133,
+      "name": "The Story of Us",
+      "url": "https://open.spotify.com/track/3cchjsY4n2pxyv0qYqMTGq"
     },
     {
       "added_at": "2026-09-15 15:00:23",
@@ -699,22 +699,6 @@
     {
       "added_at": "2026-09-15 15:00:23",
       "album": {
-        "name": "\u6771\u4eac",
-        "url": "https://open.spotify.com/album/22uUjNDqFYV6lcBH5JPyE0"
-      },
-      "artists": [
-        {
-          "name": "\u3075\u307f\u306e",
-          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
-        }
-      ],
-      "duration_ms": 276053,
-      "name": "\u6771\u4eac",
-      "url": "https://open.spotify.com/track/6Tn7NuAV0n4oFoyyoHv6EG"
-    },
-    {
-      "added_at": "2026-09-15 15:00:23",
-      "album": {
         "name": "Dogs",
         "url": "https://open.spotify.com/album/5GBbfSqRtmtx3vqCm75uuC"
       },
@@ -727,6 +711,22 @@
       "duration_ms": 296912,
       "name": "Dogs",
       "url": "https://open.spotify.com/track/0etXcXbnJcj6xrZIWrgDnv"
+    },
+    {
+      "added_at": "2026-09-15 15:00:23",
+      "album": {
+        "name": "\u6771\u4eac",
+        "url": "https://open.spotify.com/album/22uUjNDqFYV6lcBH5JPyE0"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
+        }
+      ],
+      "duration_ms": 276053,
+      "name": "\u6771\u4eac",
+      "url": "https://open.spotify.com/track/6Tn7NuAV0n4oFoyyoHv6EG"
     },
     {
       "added_at": "2026-09-15 15:00:23",
@@ -779,22 +779,6 @@
     {
       "added_at": "2026-09-15 15:00:23",
       "album": {
-        "name": "favorite song",
-        "url": "https://open.spotify.com/album/2Xf4q86Yo6rSRA1w8lS6nH"
-      },
-      "artists": [
-        {
-          "name": "\u3075\u307f\u306e",
-          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
-        }
-      ],
-      "duration_ms": 201000,
-      "name": "favorite song",
-      "url": "https://open.spotify.com/track/4QH4KTgj0wYHDj5fTMCRmN"
-    },
-    {
-      "added_at": "2026-09-15 15:00:23",
-      "album": {
         "name": "\u88f8",
         "url": "https://open.spotify.com/album/1p22fJ5uoVoKfy0NDTWGqA"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 197000,
       "name": "\u88f8",
       "url": "https://open.spotify.com/track/4xhKllSdr9knDCIaCpwHnA"
+    },
+    {
+      "added_at": "2026-09-15 15:00:23",
+      "album": {
+        "name": "favorite song",
+        "url": "https://open.spotify.com/album/2Xf4q86Yo6rSRA1w8lS6nH"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
+        }
+      ],
+      "duration_ms": 201000,
+      "name": "favorite song",
+      "url": "https://open.spotify.com/track/4QH4KTgj0wYHDj5fTMCRmN"
     },
     {
       "added_at": "2026-09-15 15:00:23",
@@ -891,22 +891,6 @@
     {
       "added_at": "2026-09-15 15:00:23",
       "album": {
-        "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
-        "url": "https://open.spotify.com/album/262lizNS5FxoWK1QFsGQGz"
-      },
-      "artists": [
-        {
-          "name": "\u3075\u307f\u306e",
-          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
-        }
-      ],
-      "duration_ms": 271733,
-      "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
-      "url": "https://open.spotify.com/track/3eh3LNQK84ZkwINGLotAON"
-    },
-    {
-      "added_at": "2026-09-15 15:00:23",
-      "album": {
         "name": "LOVE BEAT",
         "url": "https://open.spotify.com/album/1QICMvQde0IakCpcfVhlbz"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 219186,
       "name": "LOVE BEAT",
       "url": "https://open.spotify.com/track/0RthaAjblef55kS5EoipNJ"
+    },
+    {
+      "added_at": "2026-09-15 15:00:23",
+      "album": {
+        "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
+        "url": "https://open.spotify.com/album/262lizNS5FxoWK1QFsGQGz"
+      },
+      "artists": [
+        {
+          "name": "\u3075\u307f\u306e",
+          "url": "https://open.spotify.com/artist/5aCs1cmbReUSJ4K9SuOYCx"
+        }
+      ],
+      "duration_ms": 271733,
+      "name": "\u3088\u304f\u3042\u308b\u306f\u306a\u3057",
+      "url": "https://open.spotify.com/track/3eh3LNQK84ZkwINGLotAON"
     },
     {
       "added_at": "2026-09-15 15:00:23",
@@ -1103,6 +1103,22 @@
     {
       "added_at": "2026-09-15 15:00:23",
       "album": {
+        "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (Spotify BLUE? It's Okay Ver.)",
+        "url": "https://open.spotify.com/album/1mWiuwhV5RBXLPCAHyq3LA"
+      },
+      "artists": [
+        {
+          "name": "\u306b\u3057\u306a",
+          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+        }
+      ],
+      "duration_ms": 328000,
+      "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b - Spotify BLUE? It's Okay Ver.",
+      "url": "https://open.spotify.com/track/21F8twSEPo58JWpRqUZH9v"
+    },
+    {
+      "added_at": "2026-09-15 15:00:23",
+      "album": {
         "name": "1000x1000",
         "url": "https://open.spotify.com/album/1GQoYBhC33gObis0VwYJOU"
       },
@@ -1151,22 +1167,6 @@
     {
       "added_at": "2026-09-15 15:00:23",
       "album": {
-        "name": "\u7fe0\u8272\u306b\u8d08\u308b",
-        "url": "https://open.spotify.com/album/0nin4jnECyXBVEYztBA7S3"
-      },
-      "artists": [
-        {
-          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
-          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
-        }
-      ],
-      "duration_ms": 208693,
-      "name": "\u6b8b\u9177\u306b\u306a\u308a\u307e\u3059\u3088\u3046\u306b",
-      "url": "https://open.spotify.com/track/7wOydiUwoKbAybdgLyjJlw"
-    },
-    {
-      "added_at": "2026-09-15 15:00:23",
-      "album": {
         "name": "\u98a8\u306b\u4e57\u308b",
         "url": "https://open.spotify.com/album/3SAOqFr1FNxtHm3yNoKWKt"
       },
@@ -1183,18 +1183,18 @@
     {
       "added_at": "2026-09-15 15:00:23",
       "album": {
-        "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b (Spotify BLUE? It's Okay Ver.)",
-        "url": "https://open.spotify.com/album/1mWiuwhV5RBXLPCAHyq3LA"
+        "name": "\u7fe0\u8272\u306b\u8d08\u308b",
+        "url": "https://open.spotify.com/album/0nin4jnECyXBVEYztBA7S3"
       },
       "artists": [
         {
-          "name": "\u306b\u3057\u306a",
-          "url": "https://open.spotify.com/artist/2aoUBwmHWln0JSEZbi9E70"
+          "name": "\u300e\u30e6\u30a4\u30ab\u300f",
+          "url": "https://open.spotify.com/artist/2EqaSEa0WkE59Aca9iXSYj"
         }
       ],
-      "duration_ms": 328000,
-      "name": "\u305d\u3057\u3066\u50d5\u306f\u9014\u65b9\u306b\u66ae\u308c\u308b - Spotify BLUE? It's Okay Ver.",
-      "url": "https://open.spotify.com/track/21F8twSEPo58JWpRqUZH9v"
+      "duration_ms": 208693,
+      "name": "\u6b8b\u9177\u306b\u306a\u308a\u307e\u3059\u3088\u3046\u306b",
+      "url": "https://open.spotify.com/track/7wOydiUwoKbAybdgLyjJlw"
     },
     {
       "added_at": "2026-09-15 15:00:23",
@@ -1315,22 +1315,6 @@
     {
       "added_at": "2026-09-15 15:00:23",
       "album": {
-        "name": "dedede",
-        "url": "https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI"
-      },
-      "artists": [
-        {
-          "name": "Haku.",
-          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
-        }
-      ],
-      "duration_ms": 175247,
-      "name": "dedede",
-      "url": "https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB"
-    },
-    {
-      "added_at": "2026-09-15 15:00:23",
-      "album": {
         "name": "\u30e1\u30f3\u30bf\u30eb\u30ec\u30f3\u30bf\u30eb",
         "url": "https://open.spotify.com/album/48VLTTkyHcbwfvyR0B74gB"
       },
@@ -1363,6 +1347,22 @@
     {
       "added_at": "2026-09-15 15:00:23",
       "album": {
+        "name": "dedede",
+        "url": "https://open.spotify.com/album/1milw7dUgsSddL6wCxRQEI"
+      },
+      "artists": [
+        {
+          "name": "Haku.",
+          "url": "https://open.spotify.com/artist/5qJEtz7aC2nwA9LsjfkGVM"
+        }
+      ],
+      "duration_ms": 175247,
+      "name": "dedede",
+      "url": "https://open.spotify.com/track/6AXRnD6llYIIzhnvKAgIVB"
+    },
+    {
+      "added_at": "2026-09-15 15:00:23",
+      "album": {
         "name": "\u30de\u30a4\u30aa\u30fc\u30c0\u30fc",
         "url": "https://open.spotify.com/album/1r71UAmUUwTDy9tVmuv3p2"
       },
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-09-15 15:00:23",
       "album": {
-        "name": "PLAY",
-        "url": "https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un"
-      },
-      "artists": [
-        {
-          "name": "MISAMO",
-          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
-        }
-      ],
-      "duration_ms": 206493,
-      "name": "Not a Goodbye",
-      "url": "https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E"
-    },
-    {
-      "added_at": "2026-09-15 15:00:23",
-      "album": {
         "name": "\u304a\u59eb\u69d8\u306b\u306f\u306a\u308c\u306a\u3044",
         "url": "https://open.spotify.com/album/7k6CVndNeJFm3imC3vEDhT"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 223641,
       "name": "\u304a\u59eb\u69d8\u306b\u306f\u306a\u308c\u306a\u3044",
       "url": "https://open.spotify.com/track/4zRDU4Hp53z8d1ZiRFxbZt"
+    },
+    {
+      "added_at": "2026-09-15 15:00:23",
+      "album": {
+        "name": "PLAY",
+        "url": "https://open.spotify.com/album/2Y6S52I2kx6FLvaOkZK7un"
+      },
+      "artists": [
+        {
+          "name": "MISAMO",
+          "url": "https://open.spotify.com/artist/0IwZVmMMGE7nNXS7vN9SIo"
+        }
+      ],
+      "duration_ms": 206493,
+      "name": "Not a Goodbye",
+      "url": "https://open.spotify.com/track/4s91z1CjRTXnehoFfmIA4E"
     },
     {
       "added_at": "2026-09-15 15:00:23",
@@ -1459,22 +1459,6 @@
     {
       "added_at": "2026-09-15 15:00:23",
       "album": {
-        "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
-        "url": "https://open.spotify.com/album/51lx693BwIUDAM5O8tEA3A"
-      },
-      "artists": [
-        {
-          "name": "Kana Nishino",
-          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
-        }
-      ],
-      "duration_ms": 246026,
-      "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
-      "url": "https://open.spotify.com/track/3ZL91WJItZxbl230ZEfzCn"
-    },
-    {
-      "added_at": "2026-09-15 15:00:23",
-      "album": {
         "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
         "url": "https://open.spotify.com/album/38Keiou5ICfLBAdz69A3jU"
       },
@@ -1487,6 +1471,22 @@
       "duration_ms": 259771,
       "name": "\u79c1\u304c\u9078\u3093\u3060\u3082\u306e",
       "url": "https://open.spotify.com/track/0pKUmPHhQTGUb2JY99bkEX"
+    },
+    {
+      "added_at": "2026-09-15 15:00:23",
+      "album": {
+        "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
+        "url": "https://open.spotify.com/album/51lx693BwIUDAM5O8tEA3A"
+      },
+      "artists": [
+        {
+          "name": "Kana Nishino",
+          "url": "https://open.spotify.com/artist/4DDoAL8n6ob19r3jOZEbJI"
+        }
+      ],
+      "duration_ms": 246026,
+      "name": "\u3075\u305f\u308a\u3067\u3044\u3088\u3046",
+      "url": "https://open.spotify.com/track/3ZL91WJItZxbl230ZEfzCn"
     },
     {
       "added_at": "2026-09-15 15:00:23",

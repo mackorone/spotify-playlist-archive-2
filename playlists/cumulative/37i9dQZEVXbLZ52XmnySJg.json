@@ -1629,6 +1629,28 @@
     },
     {
       "album": {
+        "name": "Alfaaz",
+        "url": "https://open.spotify.com/album/41jcM2Nk286Rghi16VGTax"
+      },
+      "artists": [
+        {
+          "name": "Hamza Malik",
+          "url": "https://open.spotify.com/artist/1GE8jiWTAhX18vP7Wqxig9"
+        },
+        {
+          "name": "Zain Zohaib",
+          "url": "https://open.spotify.com/artist/0M4wzwZKh9SSHkOXYNvQlP"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184373,
+      "name": "Alfaaz",
+      "url": "https://open.spotify.com/track/0tW2gwaRzFQQrgr2UCO56G"
+    },
+    {
+      "album": {
         "name": "ARIRANG",
         "url": "https://open.spotify.com/album/3ukkRHDHbN8tNRPKsGZR1h"
       },
@@ -9786,7 +9808,7 @@
       ],
       "date_added": "2026-08-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 247816,
       "name": "Hangova",
       "url": "https://open.spotify.com/track/1W8MIxJT69pJTJpAbmIBGM"
@@ -17864,7 +17886,7 @@
       ],
       "date_added": "2025-09-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 280161,
       "name": "Mast Magan (From \"2 States)",
       "url": "https://open.spotify.com/track/5bVmOD7UKfP2iLFUGMtdnS"
@@ -21474,7 +21496,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-19",
+      "date_removed": null,
       "duration_ms": 284843,
       "name": "Parvati",
       "url": "https://open.spotify.com/track/1Z3QzpDrOqINSkmJODoGnd"
@@ -21492,7 +21514,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 284843,
       "name": "Parvati",
       "url": "https://open.spotify.com/track/3GRpsROvrR081e7j0SBv2b"
@@ -22918,7 +22940,7 @@
       ],
       "date_added": "2026-08-09",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 131250,
       "name": "Raga of Revenge",
       "url": "https://open.spotify.com/track/6bbJpVAKx6JPAKaMFmaxvC"

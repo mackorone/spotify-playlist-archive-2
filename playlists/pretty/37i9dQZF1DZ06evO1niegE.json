@@ -1,12 +1,12 @@
 {
   "description": "This is RENEE. The essential tracks, all in one playlist.",
-  "num_followers": 9326,
+  "num_followers": 9329,
   "original_name": "This Is RENEE",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABd/e/NjSlYbtp7MC+IMZfJ",
+  "snapshot_id": "aq8iAAAAAAAfzb2dRIPEyRBhFcIpksGx",
   "tracks": [
     {
       "added_at": null,
@@ -63,6 +63,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Acaba Aqu\u00ed",
+        "url": "https://open.spotify.com/album/5ehg9gtQkJ7c2XWbbLbADj"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 198987,
+      "name": "No Acaba Aqu\u00ed",
+      "url": "https://open.spotify.com/track/7flYEgZTehOZSxqW10Cq0K"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Enferma Despedida",
         "url": "https://open.spotify.com/album/0ZlbvOSPxMkOHxAOEN0lZ2"
       },
@@ -83,22 +99,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "NMDQH",
-        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 181080,
-      "name": "Playlist",
-      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "R",
         "url": "https://open.spotify.com/album/4OBFNwkfAQtAdkO35DxYnR"
       },
@@ -115,8 +115,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Acaba Aqu\u00ed",
-        "url": "https://open.spotify.com/album/5ehg9gtQkJ7c2XWbbLbADj"
+        "name": "NMDQH",
+        "url": "https://open.spotify.com/album/7KYZNT0JZ9weEI9MOb8a7x"
       },
       "artists": [
         {
@@ -124,9 +124,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 198987,
-      "name": "No Acaba Aqu\u00ed",
-      "url": "https://open.spotify.com/track/7flYEgZTehOZSxqW10Cq0K"
+      "duration_ms": 181080,
+      "name": "Playlist",
+      "url": "https://open.spotify.com/track/3KPJ4CtYpCRWt69gYaeQaH"
     },
     {
       "added_at": null,
@@ -180,9 +180,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 168426,
-      "name": "El Disfraz",
-      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
+      "duration_ms": 134026,
+      "name": "Mientras La Ciudad Descansa",
+      "url": "https://open.spotify.com/track/5Vj0xk5PiVmBOPVzubzPjn"
     },
     {
       "added_at": null,
@@ -248,9 +248,9 @@
           "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
         }
       ],
-      "duration_ms": 134026,
-      "name": "Mientras La Ciudad Descansa",
-      "url": "https://open.spotify.com/track/5Vj0xk5PiVmBOPVzubzPjn"
+      "duration_ms": 168426,
+      "name": "El Disfraz",
+      "url": "https://open.spotify.com/track/7iwrVm4GME5VrJM5Xkjpj9"
     },
     {
       "added_at": null,
@@ -487,22 +487,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 238600,
-      "name": "Viaje Al Amanecer",
-      "url": "https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ENTREPUERTAS",
         "url": "https://open.spotify.com/album/6gzZCotIV1zg5nDS7A3dOm"
       },
@@ -519,6 +503,22 @@
       "duration_ms": 167832,
       "name": "Indiferentes",
       "url": "https://open.spotify.com/track/6j43RXvbTO5PES3JZxPlGF"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 238600,
+      "name": "Viaje Al Amanecer",
+      "url": "https://open.spotify.com/track/7HGp5Q22HESHrgu7beOD38"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 276200,
-      "name": "Como Quisiera",
-      "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Bichota \u2013 Spotify Singles",
         "url": "https://open.spotify.com/album/5FdT0wz3QPts6r1aJoWDgq"
       },
@@ -591,6 +575,22 @@
       "duration_ms": 157666,
       "name": "Bichota - Spotify Singles",
       "url": "https://open.spotify.com/track/7tlPDub0mJRBkGA2VdTSAS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 276200,
+      "name": "Como Quisiera",
+      "url": "https://open.spotify.com/track/0nqi4NBtXkPbV7AwQzLpJE"
     },
     {
       "added_at": null,
@@ -631,22 +631,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 219760,
-      "name": "Cohete",
-      "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Imperfecto",
         "url": "https://open.spotify.com/album/5ldOIiMp33j3EbswWK0Ipv"
       },
@@ -667,6 +651,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 219760,
+      "name": "Cohete",
+      "url": "https://open.spotify.com/track/6eVNeNkfbEbcwwi8IuYt35"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "mucho texto",
         "url": "https://open.spotify.com/album/5yL8fe4bb8GLP3lCUHmWba"
       },
@@ -679,6 +679,26 @@
       "duration_ms": 201453,
       "name": "mucho texto",
       "url": "https://open.spotify.com/track/52bveGvtg6PtlEVxtxH5T4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MET\u00c1STASIS",
+        "url": "https://open.spotify.com/album/1GdrKufEtiNcSvcVYwn6i0"
+      },
+      "artists": [
+        {
+          "name": "Paco Miranda",
+          "url": "https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo"
+        },
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 216637,
+      "name": "DESPEDIDA",
+      "url": "https://open.spotify.com/track/1OZLPVkCHAtOMk8K3xwyf5"
     },
     {
       "added_at": null,
@@ -711,26 +731,6 @@
       "duration_ms": 234253,
       "name": "Vivir En Silencio",
       "url": "https://open.spotify.com/track/1sOMXJwAWXmZ2pWrSoYfwt"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MET\u00c1STASIS",
-        "url": "https://open.spotify.com/album/1GdrKufEtiNcSvcVYwn6i0"
-      },
-      "artists": [
-        {
-          "name": "Paco Miranda",
-          "url": "https://open.spotify.com/artist/4ZzZixQllksRxAY79YoLOo"
-        },
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 216637,
-      "name": "DESPEDIDA",
-      "url": "https://open.spotify.com/track/1OZLPVkCHAtOMk8K3xwyf5"
     },
     {
       "added_at": null,
@@ -775,22 +775,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 290040,
-      "name": "La Buena Lecci\u00f3n",
-      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "M\u00cdO",
         "url": "https://open.spotify.com/album/11rPbUpu1jCyf674N8Nkdk"
       },
@@ -807,6 +791,22 @@
       "duration_ms": 217232,
       "name": "M\u00cdO",
       "url": "https://open.spotify.com/track/5zoOsXcKzGKyfqKgxbJYI4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 290040,
+      "name": "La Buena Lecci\u00f3n",
+      "url": "https://open.spotify.com/track/6kKmJ38xO1j0YoSLqg4e1r"
     },
     {
       "added_at": null,
@@ -851,22 +851,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Breve Espacio",
-        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
-      },
-      "artists": [
-        {
-          "name": "RENEE",
-          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
-        }
-      ],
-      "duration_ms": 226586,
-      "name": "Esper\u00e1ndote",
-      "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "AHORA O NUNCA",
         "url": "https://open.spotify.com/album/1nDeZFMZNqKmUZmjzT9AKn"
       },
@@ -883,6 +867,22 @@
       "duration_ms": 156448,
       "name": "AHORA O NUNCA",
       "url": "https://open.spotify.com/track/1XYiRky7xG3HRAks3edgco"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Breve Espacio",
+        "url": "https://open.spotify.com/album/5vFD7c9Bg99gIX4MaKR3bw"
+      },
+      "artists": [
+        {
+          "name": "RENEE",
+          "url": "https://open.spotify.com/artist/2pbO2XyPJGWz2s0OZeD4pR"
+        }
+      ],
+      "duration_ms": 226586,
+      "name": "Esper\u00e1ndote",
+      "url": "https://open.spotify.com/track/39nSeEjpm1bIMM275pSaef"
     },
     {
       "added_at": null,

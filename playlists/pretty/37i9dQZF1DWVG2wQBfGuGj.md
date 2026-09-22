@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVG2wQBfGuGj.md) - [plain]
 
 > Chillout house grooves and dreamy covers, all summer long.
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,691 likes - 155 songs - 6 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,872 likes - 155 songs - 6 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

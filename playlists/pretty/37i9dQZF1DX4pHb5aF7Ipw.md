@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4pHb5aF7Ipw.md) - [plain]
 
 > Fresh Punjabi Hip\-Hop Tracks by GAGG E, Karam Brar,  NIJJAR and more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 52,546 likes - 75 songs - 3 hr 22 min
+[Spotify](https://open.spotify.com/user/spotify) - 52,558 likes - 75 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [No Mercy](https://open.spotify.com/track/6QzdXqWAbY00xpK0UVe7Yi) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Jot](https://open.spotify.com/artist/4ixBvN4kyEzwKf4Qr8pfkl) | [No Mercy](https://open.spotify.com/album/6lHpBoruPhNMyl6nXjiiBK) | 2:39 |
+| 1 | [No Mercy](https://open.spotify.com/track/6QzdXqWAbY00xpK0UVe7Yi) | [Karam Brar](https://open.spotify.com/artist/0XgLBVrCtSZJPvb0s33e79), [Jot](https://open.spotify.com/artist/4ixBvN4kyEzwKf4Qr8pfkl), [Wootz music](https://open.spotify.com/artist/5LjWEMKA6fBoDosDmenxMe) | [No Mercy](https://open.spotify.com/album/6lHpBoruPhNMyl6nXjiiBK) | 2:39 |
 | 2 | [G Who](https://open.spotify.com/track/7J9tw4E4ZKcX0AvhTOtqfk) | [NIJJAR](https://open.spotify.com/artist/4tnu4MuDLf51KcBOYvaB5W), [Jazz Dee](https://open.spotify.com/artist/18244MIsK1vlIWrr9gG2i3) | [Autobiography](https://open.spotify.com/album/49kI8wLqF1S7EKpl4t2Cfn) | 2:57 |
 | 3 | [Mood Enhancer](https://open.spotify.com/track/1V7HGufjEBgAybJOHzOjwk) | [GAGG E](https://open.spotify.com/artist/1bLhM3jn76Q9wKJSF23x8R), [RXTRO](https://open.spotify.com/artist/7lGDbXQAFrqSli1Xg28orT) | [Mood Enhancer](https://open.spotify.com/album/47ujvD0FXKjQB2yupMg5EH) | 4:00 |
 | 4 | [Money Verse](https://open.spotify.com/track/5X5E9BQ5DJg96uCEmehrUj) | [Taabir Aulakh](https://open.spotify.com/artist/1LxRy5PBBXvfn7dOPm6Sdb), [Trxppy](https://open.spotify.com/artist/69klT1vBrFrVOy4zPBYjwJ) | [Money Verse](https://open.spotify.com/album/1c1P4QsCVIJkmRGxHYPV6u) | 2:08 |

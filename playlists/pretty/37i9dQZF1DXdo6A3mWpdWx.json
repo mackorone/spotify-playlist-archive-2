@@ -1,6 +1,6 @@
 {
   "description": "The biggest party hits of the 1990s. Cover: Aqua.",
-  "num_followers": 1480122,
+  "num_followers": 1480489,
   "original_name": "90s Party",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Movin' Melodies",
-        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
-      },
-      "artists": [
-        {
-          "name": "ATB",
-          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
-        }
-      ],
-      "duration_ms": 193880,
-      "name": "9Pm (Till I Come)",
-      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Scatman's World",
         "url": "https://open.spotify.com/album/2MRWFajfjxfLAF3wwmdv5j"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 215973,
       "name": "Scatman (ski-ba-bop-ba-dop-bop)",
       "url": "https://open.spotify.com/track/623rRTKwGmgjH6sjE9uWLh"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Movin' Melodies",
+        "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
+      },
+      "artists": [
+        {
+          "name": "ATB",
+          "url": "https://open.spotify.com/artist/7jZM5w05mGhw6wTB1okhD9"
+        }
+      ],
+      "duration_ms": 193880,
+      "name": "9Pm (Till I Come)",
+      "url": "https://open.spotify.com/track/1CgbwsrNDlFrRuk2ebQ7zr"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1119,6 +1119,22 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
+        "name": "Dreams",
+        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
+      },
+      "artists": [
+        {
+          "name": "2 Brothers On The 4th Floor",
+          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
+        }
+      ],
+      "duration_ms": 264000,
+      "name": "Dreams (Will Come Alive)",
+      "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
         "name": "You Don't Know Me (feat. Duane Harden)",
         "url": "https://open.spotify.com/album/62vJ3t4nZ50SigVCT6TUwb"
       },
@@ -1135,22 +1151,6 @@
       "duration_ms": 242333,
       "name": "You Don't Know Me (feat. Duane Harden) - Radio Edit",
       "url": "https://open.spotify.com/track/7BpyfQEmvi0sUmOq29plEE"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
-        "name": "Dreams",
-        "url": "https://open.spotify.com/album/3us11hQQJX1JXSIOz98bGG"
-      },
-      "artists": [
-        {
-          "name": "2 Brothers On The 4th Floor",
-          "url": "https://open.spotify.com/artist/5wsBGjgRsASMggXLPF7pYm"
-        }
-      ],
-      "duration_ms": 264000,
-      "name": "Dreams (Will Come Alive)",
-      "url": "https://open.spotify.com/track/4Fqm5rqB0WMx0hPOwgRjFr"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -1815,22 +1815,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Funky Divas",
-        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
-      },
-      "artists": [
-        {
-          "name": "En Vogue",
-          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
-        }
-      ],
-      "duration_ms": 281613,
-      "name": "My Lovin' (You're Never Gonna Get It)",
-      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Movin' Melodies",
         "url": "https://open.spotify.com/album/4DfD9bqzlfSbEf5kWgufPk"
       },
@@ -1843,6 +1827,22 @@
       "duration_ms": 221160,
       "name": "Don't Stop",
       "url": "https://open.spotify.com/track/0ygoI3HcoGScxt879A23Uk"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Funky Divas",
+        "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
+      },
+      "artists": [
+        {
+          "name": "En Vogue",
+          "url": "https://open.spotify.com/artist/5fikk4h5qbEebqK2Fc6e48"
+        }
+      ],
+      "duration_ms": 281613,
+      "name": "My Lovin' (You're Never Gonna Get It)",
+      "url": "https://open.spotify.com/track/3R97rNX7JnmshCWBwOSFet"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2095,22 +2095,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "Dreamland",
-        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
-      },
-      "artists": [
-        {
-          "name": "Black Box",
-          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
-        }
-      ],
-      "duration_ms": 247001,
-      "name": "Everybody Everybody",
-      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Aquarium (Special Edition)",
         "url": "https://open.spotify.com/album/3hHmYc6mrl6NkmRW1ZwYvm"
       },
@@ -2123,6 +2107,22 @@
       "duration_ms": 225933,
       "name": "Roses Are Red - Original Version",
       "url": "https://open.spotify.com/track/0tIqERCyX2ogv5Yn00kswb"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "Dreamland",
+        "url": "https://open.spotify.com/album/6r4vIr4aUsK00mGHDiQkrl"
+      },
+      "artists": [
+        {
+          "name": "Black Box",
+          "url": "https://open.spotify.com/artist/6tsRo8ErXzpHk3tQeH6GBW"
+        }
+      ],
+      "duration_ms": 247001,
+      "name": "Everybody Everybody",
+      "url": "https://open.spotify.com/track/6wBMTv8yTiNh50fqTkT0JC"
     },
     {
       "added_at": "2024-07-12 16:20:49",
@@ -2311,22 +2311,6 @@
     {
       "added_at": "2024-07-12 16:20:49",
       "album": {
-        "name": "There Is a Party",
-        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
-      },
-      "artists": [
-        {
-          "name": "DJ BoBo",
-          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
-        }
-      ],
-      "duration_ms": 269706,
-      "name": "Love Is All Around",
-      "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
-    },
-    {
-      "added_at": "2024-07-12 16:20:49",
-      "album": {
         "name": "Funky Divas",
         "url": "https://open.spotify.com/album/7d2qNq4zap02SoWdvr0caA"
       },
@@ -2339,6 +2323,22 @@
       "duration_ms": 293106,
       "name": "Free Your Mind",
       "url": "https://open.spotify.com/track/2vG1yrWSMiL6egg6w4e9ma"
+    },
+    {
+      "added_at": "2024-07-12 16:20:49",
+      "album": {
+        "name": "There Is a Party",
+        "url": "https://open.spotify.com/album/4pjPDN9F3qcR4Mug9VAPii"
+      },
+      "artists": [
+        {
+          "name": "DJ BoBo",
+          "url": "https://open.spotify.com/artist/14dmbYen0AciYxu5n4Fkpd"
+        }
+      ],
+      "duration_ms": 269706,
+      "name": "Love Is All Around",
+      "url": "https://open.spotify.com/track/0juz4iKEbAAKHfPzqgixRK"
     },
     {
       "added_at": "2024-07-12 16:20:49",

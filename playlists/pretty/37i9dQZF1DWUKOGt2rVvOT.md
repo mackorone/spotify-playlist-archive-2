@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWUKOGt2rVvOT.md) - [plain]
 
 > 新歌不只用聽的，還要用看的！最新華語 MV 一次收好，現在就看起來！Cover: LAWA
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,465 likes - 50 songs - 3 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,457 likes - 50 songs - 3 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

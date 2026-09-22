@@ -1,6 +1,6 @@
 {
   "description": "unge kniv \ud83d\udd2a @KlaraVibeke",
-  "num_followers": 47238,
+  "num_followers": 47234,
   "original_name": "ung kniv ",
   "owner": {
     "name": "Spotify",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
-        "name": "Sweetheart",
-        "url": "https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz"
-      },
-      "artists": [
-        {
-          "name": "Lea Romea",
-          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
-        }
-      ],
-      "duration_ms": 168000,
-      "name": "Bider Det I Mig",
-      "url": "https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
         "name": "Kun for os",
         "url": "https://open.spotify.com/album/6tq7x47PXllukmG8wbn5lc"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 200674,
       "name": "Kun for os",
       "url": "https://open.spotify.com/track/2POXxsTEbwKN6aC8o6UzMX"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
+        "name": "Sweetheart",
+        "url": "https://open.spotify.com/album/4WxyYrADTCr2OOuzX9AURz"
+      },
+      "artists": [
+        {
+          "name": "Lea Romea",
+          "url": "https://open.spotify.com/artist/6wmoRZXV3XJDZkZryNV8Yb"
+        }
+      ],
+      "duration_ms": 168000,
+      "name": "Bider Det I Mig",
+      "url": "https://open.spotify.com/track/1Dq0FH27wkPeddOo3N57Pc"
     },
     {
       "added_at": "2026-09-17 22:02:34",
@@ -727,26 +727,6 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
-        "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
-        "url": "https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad"
-      },
-      "artists": [
-        {
-          "name": "USSEL",
-          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
-        },
-        {
-          "name": "Mathias Ranch",
-          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
-        }
-      ],
-      "duration_ms": 221687,
-      "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
-      "url": "https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
         "name": "Sputnik",
         "url": "https://open.spotify.com/album/32aWhztP2dSscc7RbQSE5Y"
       },
@@ -775,6 +755,26 @@
       "duration_ms": 187422,
       "name": "Det sker alt for tit",
       "url": "https://open.spotify.com/track/4NJHLdpTZprYzzBl1INEGi"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
+        "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
+        "url": "https://open.spotify.com/album/5NW9UGa5mJSusgy8cPuAad"
+      },
+      "artists": [
+        {
+          "name": "USSEL",
+          "url": "https://open.spotify.com/artist/13wADF4gMaMun7o6VzOzZp"
+        },
+        {
+          "name": "Mathias Ranch",
+          "url": "https://open.spotify.com/artist/1mWocDhzyzvNZJD0T2poQ8"
+        }
+      ],
+      "duration_ms": 221687,
+      "name": "Provinsb\u00f8rn (feat. Mathias Ranch)",
+      "url": "https://open.spotify.com/track/1Hqecy8J7ZLdjNiTBeBp92"
     },
     {
       "added_at": "2026-09-17 22:02:34",
@@ -863,6 +863,22 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
+        "name": "August",
+        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
+      },
+      "artists": [
+        {
+          "name": "August H\u00f8yen",
+          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
+        }
+      ],
+      "duration_ms": 195988,
+      "name": "Hvad Med Mig",
+      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
         "name": "H\u00f8j P\u00e5 Livet",
         "url": "https://open.spotify.com/album/1Ggt1HjgSTmk2udoeFsnYa"
       },
@@ -879,22 +895,6 @@
       "duration_ms": 219062,
       "name": "H\u00f8j P\u00e5 Livet",
       "url": "https://open.spotify.com/track/4xCCiECABvVCXE0UZb0k9t"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
-        "name": "August",
-        "url": "https://open.spotify.com/album/3pPCyjrhrxAO7PC4JI2STb"
-      },
-      "artists": [
-        {
-          "name": "August H\u00f8yen",
-          "url": "https://open.spotify.com/artist/3nvGdNkcrq1IYHgJBw28Nm"
-        }
-      ],
-      "duration_ms": 195988,
-      "name": "Hvad Med Mig",
-      "url": "https://open.spotify.com/track/7vdrHqdOQ7TuZSngyiIiTx"
     },
     {
       "added_at": "2026-09-17 22:02:34",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
+        "name": "Whatyoufeellike",
+        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 166209,
+      "name": "Whatyoufeellike",
+      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
         "name": "LEGION\u00c6R",
         "url": "https://open.spotify.com/album/35fuAHyVFJjsO4jrUsZQ2M"
       },
@@ -1039,22 +1055,6 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
-        "name": "Walmart",
-        "url": "https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz"
-      },
-      "artists": [
-        {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
-        }
-      ],
-      "duration_ms": 171200,
-      "name": "Walmart",
-      "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
         "name": "Barn Af Venedig",
         "url": "https://open.spotify.com/album/7md2UVqllUni4xa7373rXi"
       },
@@ -1067,22 +1067,6 @@
       "duration_ms": 239000,
       "name": "Barn Af Venedig",
       "url": "https://open.spotify.com/track/69xPESR9jpHettUzmQiWYE"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
-        "name": "Venter Jo Bare",
-        "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
-      },
-      "artists": [
-        {
-          "name": "Barselona",
-          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
-        }
-      ],
-      "duration_ms": 200164,
-      "name": "Venter Jo Bare",
-      "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
     },
     {
       "added_at": "2026-09-17 22:02:34",
@@ -1107,6 +1091,38 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
+        "name": "Venter Jo Bare",
+        "url": "https://open.spotify.com/album/7lrnQyioFl5ZAUauLNpCCg"
+      },
+      "artists": [
+        {
+          "name": "Barselona",
+          "url": "https://open.spotify.com/artist/2wdsck730u8ZhDA7eVHw7m"
+        }
+      ],
+      "duration_ms": 200164,
+      "name": "Venter Jo Bare",
+      "url": "https://open.spotify.com/track/7j64Ql2GSIRekgOF02WIda"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
+        "name": "Walmart",
+        "url": "https://open.spotify.com/album/6MOODniNUgSGdiguTezSAz"
+      },
+      "artists": [
+        {
+          "name": "miaw",
+          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
+        }
+      ],
+      "duration_ms": 171200,
+      "name": "Walmart",
+      "url": "https://open.spotify.com/track/3pC89hDuU1GZbZD13KbfPY"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
         "name": "Pissoir",
         "url": "https://open.spotify.com/album/44yvHIEEJXArf5hWPlea4E"
       },
@@ -1123,22 +1139,6 @@
     {
       "added_at": "2026-09-17 22:02:34",
       "album": {
-        "name": "Whatyoufeellike",
-        "url": "https://open.spotify.com/album/6vn3QLWQdh13uvUBIRBHJM"
-      },
-      "artists": [
-        {
-          "name": "miaw",
-          "url": "https://open.spotify.com/artist/5KW0bWRTHpvoJbpgCCbSt8"
-        }
-      ],
-      "duration_ms": 166209,
-      "name": "Whatyoufeellike",
-      "url": "https://open.spotify.com/track/2iUlEbV2lhKq3CvDjqCZXt"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
         "name": "Going about my day",
         "url": "https://open.spotify.com/album/1vXJSMCiSd14fGi6rIJQMV"
       },
@@ -1151,6 +1151,22 @@
       "duration_ms": 357000,
       "name": "Going about my day",
       "url": "https://open.spotify.com/track/1l7oi3FZ8KaFtxDMDyuj14"
+    },
+    {
+      "added_at": "2026-09-17 22:02:34",
+      "album": {
+        "name": "Your Boy Is Sick",
+        "url": "https://open.spotify.com/album/2HZ1OiS2BOZHrn3uoGG4qd"
+      },
+      "artists": [
+        {
+          "name": "GUZO",
+          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
+        }
+      ],
+      "duration_ms": 177404,
+      "name": "Your Boy Is Sick",
+      "url": "https://open.spotify.com/track/1JCDFIDxhAJmzbKoK2Xxdy"
     },
     {
       "added_at": "2026-09-17 22:02:34",
@@ -1175,22 +1191,6 @@
       "duration_ms": 183788,
       "name": "Blue Flame",
       "url": "https://open.spotify.com/track/5R9utrfWW0T6GqAe3koh3o"
-    },
-    {
-      "added_at": "2026-09-17 22:02:34",
-      "album": {
-        "name": "Your Boy Is Sick",
-        "url": "https://open.spotify.com/album/2HZ1OiS2BOZHrn3uoGG4qd"
-      },
-      "artists": [
-        {
-          "name": "GUZO",
-          "url": "https://open.spotify.com/artist/5kYNsgbRhmiRs9FZxwaFwV"
-        }
-      ],
-      "duration_ms": 177404,
-      "name": "Your Boy Is Sick",
-      "url": "https://open.spotify.com/track/1JCDFIDxhAJmzbKoK2Xxdy"
     },
     {
       "added_at": "2026-09-17 22:02:34",

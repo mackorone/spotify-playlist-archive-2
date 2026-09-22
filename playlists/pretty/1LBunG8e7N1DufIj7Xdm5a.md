@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 
 > playlist spotify free
 
-[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,853 songs - 10 day 22 hr 29 min
+[Cristian Nevola](https://open.spotify.com/user/1188041238) - 286 likes - 4,855 songs - 10 day 22 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -4861,5 +4861,7 @@ pretty - [cumulative](/playlists/cumulative/1LBunG8e7N1DufIj7Xdm5a.md) - [plain]
 | 4851 | [Personality](https://open.spotify.com/track/4d6opMFuuaU5YjfkSqpYV7) | [Retroviral](https://open.spotify.com/artist/2bemF0p9xqlEuiClwuECVl) | [Personality](https://open.spotify.com/album/3hNiSRcbKZ8y5tkoBKyC5c) | 3:15 |
 | 4852 | [Vô de Japa](https://open.spotify.com/track/6dq4fEMi8xQM27EIqLYOFJ) | [Pataperros](https://open.spotify.com/artist/1nDx9sKh2gqaWkmSwUX7jm) | [Vô de Japa](https://open.spotify.com/album/1byoXzVxy7BqvmhxUOIizp) | 1:43 |
 | 4853 | [I Don't Wanna](https://open.spotify.com/track/68HJ0xRRiP5lmfvpP83GF4) | [The Spent Priests](https://open.spotify.com/artist/2gl2xRe5bzXRRluzAT1CdV) | [I Don't Wanna](https://open.spotify.com/album/4K2AA3lxoriLp75m4o9d5I) | 2:41 |
+| 4854 | [Screen](https://open.spotify.com/track/4EhKad8chQTN4Zv4qCtezw) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Screen](https://open.spotify.com/album/1SkEaZVIL9la1xOctdrvsH) | 4:54 |
+| 4855 | [Diva](https://open.spotify.com/track/3hIZPGjs9TryQuYdKhWEQo) | [Dubba](https://open.spotify.com/artist/1uGBqCecbXldhYptbL4HC5) | [Diva](https://open.spotify.com/album/5gMLNzsHMNdNMkPqoMGhz1) | 2:57 |
 
-Snapshot ID: `AAAKGQa2CZllcOWvFl9s1r+EtTAAgp/u`
+Snapshot ID: `AAAKG1wK2SDZ5vnqLG0Q8vD/HJ09y3lP`

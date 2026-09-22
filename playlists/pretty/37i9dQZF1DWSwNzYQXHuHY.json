@@ -1,6 +1,6 @@
 {
   "description": "\uc378\ud0c0\uace0 \uacc4\uc2e0\uac00\uc694? \uc124\ub808\uc784\uc774 \ub2f4\uae34 \ub178\ub798\ub4e4\uc744 \ub9cc\ub098\ubcf4\uc138\uc694. (There is something between us)",
-  "num_followers": 12910,
+  "num_followers": 12914,
   "original_name": "\uc378 !",
   "owner": {
     "name": "Spotify",
@@ -495,6 +495,22 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
+        "name": "MUSEUM",
+        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
+      },
+      "artists": [
+        {
+          "name": "OWIS",
+          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
+        }
+      ],
+      "duration_ms": 200822,
+      "name": "juicy",
+      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
         "name": "Love(Prod.Rocoberry)",
         "url": "https://open.spotify.com/album/4Tm14DlyrWRL4OVwp8YrAH"
       },
@@ -511,22 +527,6 @@
       "duration_ms": 220626,
       "name": "Love(Prod.Rocoberry)",
       "url": "https://open.spotify.com/track/29O4t4CViDRSDwiutvsOLS"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
-        "name": "MUSEUM",
-        "url": "https://open.spotify.com/album/7fBDwY8yeff98Qzycso6pC"
-      },
-      "artists": [
-        {
-          "name": "OWIS",
-          "url": "https://open.spotify.com/artist/6XX2VhfOTqYDIvNjkEHqe8"
-        }
-      ],
-      "duration_ms": 200822,
-      "name": "juicy",
-      "url": "https://open.spotify.com/track/7CZlQzwfuBgKvhkejwEEoy"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -835,6 +835,22 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
+        "name": "The Algebra of Youth",
+        "url": "https://open.spotify.com/album/6VDyZWKebQB13NpAmRc6jl"
+      },
+      "artists": [
+        {
+          "name": "Baek A",
+          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
+        }
+      ],
+      "duration_ms": 210000,
+      "name": "The Algebra of Youth",
+      "url": "https://open.spotify.com/track/16wD6ziwSh7FDVpmsNdZ1F"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
         "name": "\uc774\ub7f0 \ub0b4 \ub9d8 (\ub300\ucda9 \ucea0\ud37c\uc2a4\ub85c\ub9e8\uc2a4\uc784 X HAAN & Chan)",
         "url": "https://open.spotify.com/album/2Jd6eiWAuP2yLZIKLCS9h5"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 205050,
       "name": "\uc774\ub7f0 \ub0b4 \ub9d8",
       "url": "https://open.spotify.com/track/7x8WaMdxlDA4tcUbVhca1d"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
-        "name": "The Algebra of Youth",
-        "url": "https://open.spotify.com/album/6VDyZWKebQB13NpAmRc6jl"
-      },
-      "artists": [
-        {
-          "name": "Baek A",
-          "url": "https://open.spotify.com/artist/5rHUhS9Ya0S63WI9LFmCSx"
-        }
-      ],
-      "duration_ms": 210000,
-      "name": "The Algebra of Youth",
-      "url": "https://open.spotify.com/track/16wD6ziwSh7FDVpmsNdZ1F"
     }
   ],
   "unique_name": "\uc378 !",

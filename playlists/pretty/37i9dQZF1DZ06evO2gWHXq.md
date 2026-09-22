@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 
 > This is MC Davo\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,616 likes - 50 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,628 likes - 50 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,9 +18,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 8 | [Ella Es Una Amenaza](https://open.spotify.com/track/1lhlIrjvx7855s8JXZg5pF) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:25 |
 | 9 | [Adiós](https://open.spotify.com/track/5Axt9lZg5tqQir8U12ocQU) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis](https://open.spotify.com/album/5lcnpD0QZeTjxvf6o3X50p) | 3:21 |
 | 10 | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/track/1rdkLyIU3b9LTX1a6RrP5M) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [Eirian Music](https://open.spotify.com/artist/4hMiTS2vx4r1mJbR4VUzn4), [Los Golpes](https://open.spotify.com/artist/7vyUXV67P88Hxq4Q5cpC1j) | [Sigo Esperando Que Vuelvas \(feat\. Los Golpes\)](https://open.spotify.com/album/58a7npneCuVfs5wqIT64TY) | 3:16 |
-| 11 | [No Llegaré \(Remix\)](https://open.spotify.com/track/5Fhf4Iwal5MMHXH4TiOiEQ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Zornoza](https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Llegaré \(Remix\)](https://open.spotify.com/album/1CG4wdJZhVv51VsRujmDnV) | 4:15 |
+| 11 | [Debes de saber](https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:00 |
 | 12 | [Mis Defectos](https://open.spotify.com/track/3DSMLWrSbDTQj6k6ZAhJvv) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Psicosis 2](https://open.spotify.com/album/26oLxndnV80RQoaFokDTCO) | 3:00 |
-| 13 | [Debes de saber](https://open.spotify.com/track/06T04xn5eDNWfzblgZ88P8) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [El Dominio](https://open.spotify.com/album/7jTLGDd1AzKIFHCP4dbvNG) | 3:00 |
+| 13 | [No Llegaré \(Remix\)](https://open.spotify.com/track/5Fhf4Iwal5MMHXH4TiOiEQ) | [Neto Peña](https://open.spotify.com/artist/0U5RYP2HMdGv2GhicLhkOI), [Zornoza](https://open.spotify.com/artist/7duoO1s42va1lka5TikCfu), [Zxmyr](https://open.spotify.com/artist/7IUaYyqcGB3aU2Tm4s5JY8), [Santa Fe Klan](https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Gera MX](https://open.spotify.com/artist/2hejA1Dkf8v8R0koF44FvW) | [No Llegaré \(Remix\)](https://open.spotify.com/album/1CG4wdJZhVv51VsRujmDnV) | 4:15 |
 | 14 | [Round 2](https://open.spotify.com/track/3CVEOynsYT7V9lrNFPaZ8Y) | [C\-Kan](https://open.spotify.com/artist/1QhaqxeqF9sipS2gwbEKpu), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [Round 2 \(feat\. MC Davo\) \- Single](https://open.spotify.com/album/6gEG4NR9X1VbaSv0lz5ETB) | 3:21 |
 | 15 | [TRAPPERZ A Mafia Da Sicilia \(feat\. Fuego\)](https://open.spotify.com/track/1KfIZjptrvN6jUpUzzRYiD) | [Felp 22](https://open.spotify.com/artist/56IPf5d631ccKOTmo8RFHK), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Fuego](https://open.spotify.com/artist/7wU2WGCJ8HxkekHHE2QLul) | [TRAPPERZ A Mafia Da Sicilia \(feat\. Fuego\)](https://open.spotify.com/album/6yhlebu0jF2fxxdfk1oDon) | 5:02 |
 | 16 | [Ay Amor](https://open.spotify.com/track/6ok8RAvW1sPRIGkLN8iP3N) | [Los Ángeles Azules](https://open.spotify.com/artist/0ZCO8oVkMj897cKgFH7fRW), [Ana Torroja](https://open.spotify.com/artist/5YekZn3GGnPIURNA6RG124), [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I) | [De Plaza en Plaza](https://open.spotify.com/album/1j1nVyoW6gnZaj8ucEQl3o) | 3:42 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2gWHXq.md) - [plain]
 | 49 | [Toda la noche \(feat\. Darkiel\)](https://open.spotify.com/track/4V0UkMx8kDgAwJBwhPjJ5N) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Darkiel](https://open.spotify.com/artist/4z19QMyPVRwbd4Fs2LisBa) | [Las 2 Caras](https://open.spotify.com/album/7M04t4xMjE20Hv65mLUVlK) | 3:15 |
 | 50 | [El Ciego Y La Sorda](https://open.spotify.com/track/5Gmw8NXSc2ZlwNjctMCoUS) | [MC Davo](https://open.spotify.com/artist/3TGeuw7OmACouH5JAKkX7I), [Sabino](https://open.spotify.com/artist/0zgFL90nGTrH2iOMD8Vysy) | [El Ciego Y La Sorda](https://open.spotify.com/album/39ZxtXEAVaime1bFdmpQ5h) | 3:10 |
 
-Snapshot ID: `aq3QgAAAAACIXncXn/3VU6nPLe68Hcql`
+Snapshot ID: `aq8iAAAAAADdbQopDtDC8r6xZLXqpU/G`

@@ -4,7 +4,7 @@
 
 > Your guide to R&B in Canada, with Kalisway from Toronto, ON.
 
-1,781 songs - 3 day 20 hr 18 min
+1,781 songs - 3 day 20 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -975,7 +975,7 @@
 | [Mon Aura](https://open.spotify.com/track/08mPDKpDc0Si2jGw8pMjUY) | [Mecca of Stank](https://open.spotify.com/artist/7IhF8c7PdWTObgQWyH48Nz), [KLo E](https://open.spotify.com/artist/6sD8xYpgXpEsftGymdETQU) | [Mon Aura](https://open.spotify.com/album/4vP0R9pgditMVbL1nS14Xn) | 6:02 | 2023-12-15 | 2024-01-13 |
 | [Mona Lisa Smile](https://open.spotify.com/track/0sjhlV2MhCYGtPlYhuplD6) | [Melanie Fiona](https://open.spotify.com/artist/4O2YL4ygn6eTBC0w1hyWUM) | [Mona Lisa Smile](https://open.spotify.com/album/1uHymd2eSx7ch8RDKBAzIC) | 3:35 | 2025-02-07 | 2025-04-05 |
 | [Monday Jam](https://open.spotify.com/track/6In43tVda7PQtRSGJap2oK) | [pHoenix Pagliacci](https://open.spotify.com/artist/3106IO9oh4MsfSwdRTKZlE) | [Monday Jam](https://open.spotify.com/album/10PydhEob2LEeY1dZyMNW9) | 2:29 | 2025-09-19 | 2025-12-20 |
-| [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 4:45 | 2026-09-18 |  |
+| [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 3:45 | 2026-09-18 |  |
 | [Moon \(Feat\. Bon Iver\)](https://open.spotify.com/track/2RBvwQI858xReQpWSRO866) | [Daniel Caesar](https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [Moon](https://open.spotify.com/album/5JmdJRK0AJrApYsXrYVKAo) | 5:17 | 2025-09-26 | 2025-11-01 |
 | [Moonlight Radiator](https://open.spotify.com/track/0CwN3EOEdSEDZA1lzSLxoE) | [Justin Nozuka](https://open.spotify.com/artist/1uquUYtkdKei0zuhBY9P0t), [Elijah Fox](https://open.spotify.com/artist/4Rus30xX4FOv2cyeFI79Qh) | [Moonlight Radiator](https://open.spotify.com/album/5tm63owEoHaUrk1jBzzMku) | 3:47 | 2025-06-27 | 2025-09-20 |
 | [MORAL](https://open.spotify.com/track/4FVeq46pcFppDtiMd8GReE) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/7eMOW9nITxzhIs7RUzv26H) | 2:45 | 2023-10-06 | 2023-10-21 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 
 > Relaxe com grandes hits da música nacional em versões acústicas.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,487,886 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,487,792 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -70,8 +70,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7nC9vdKqBZ5.md) - [plain]
 | 60 | [Gostosin \(Acoustic\)](https://open.spotify.com/track/7zUSQpCMIWnoyFEZktrE6x) | [João Mar](https://open.spotify.com/artist/2NV1SEgX1h3DIADJjzRrQy), [Ventura](https://open.spotify.com/artist/0awYrHoDgY7bTDlAb3wGuF) | [Gostosin \(Acoustic\)](https://open.spotify.com/album/5Y9ZE9LqRP3idUKiygwgSy) | 3:00 |
 | 61 | [Quem Sabe](https://open.spotify.com/track/4EhMEPnreQE7o1sA47eVXB) | [Julies](https://open.spotify.com/artist/6yDip7RMWxdC6beg5POUvN), [Sofia Gayoso](https://open.spotify.com/artist/1z52rWwye0jbrcEsSXKGJG) | [Quem Sabe](https://open.spotify.com/album/52Zx3yPSSNwEuFBR45BFhc) | 2:53 |
 | 62 | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/track/1wMoz6YOoZjHZCDL9Ssx1b) | [Wilson Sideral](https://open.spotify.com/artist/43NwJ02BY0AU2fHjlSKLQO), [Rogerio Flausino](https://open.spotify.com/artist/5kRbLxZb1mTjdi1xEHynwZ) | [Essas Canções de Amor \(Não Reclamo\)](https://open.spotify.com/album/4Gk5jm37gE3gNkg7ZA71JQ) | 4:19 |
-| 63 | [Cigana \(Maia Sessions\)](https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Maia Sessions](https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS) | 2:17 |
-| 64 | [Lágrimas e Chuva](https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [AMARINA Canta Kid Abelha](https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP) | 3:47 |
+| 63 | [Lágrimas e Chuva](https://open.spotify.com/track/5nZ8tWzucUEgElfP919F3A) | [AMARINA](https://open.spotify.com/artist/51NkA7l8OQvbk3p40xzdYG) | [AMARINA Canta Kid Abelha](https://open.spotify.com/album/4iuSPxyDs724tP27eWWrEP) | 3:47 |
+| 64 | [Cigana \(Maia Sessions\)](https://open.spotify.com/track/4dzw5gijTCD6kQNLJP3fQH) | [Maia](https://open.spotify.com/artist/0ekfGWBjfg2WG6AHI4WXtM), [Malibu](https://open.spotify.com/artist/0PMk31f9Log4ixwUUY40p6) | [Maia Sessions](https://open.spotify.com/album/3024KSsAnstAOJNtGL85OS) | 2:17 |
 | 65 | [Outra Vida](https://open.spotify.com/track/5y53mloVN0UCz9nnvCpes0) | [Geovanna Jainy](https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj) | [Outra Vida](https://open.spotify.com/album/12wdWIai1Ipd1tiFPaQYOQ) | 3:04 |
 | 66 | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/track/3ZmFpBrLBQHvEld0zBLm6F) | [Bianca](https://open.spotify.com/artist/7Jb6GR4PIxHSkDJK8MWuVg) | [Tudo no Sigilo \(Acústico\)](https://open.spotify.com/album/38SclQmVsJwMGtheoJEfUr) | 2:49 |
 | 67 | [beira \- PP sessions \- Ao Vivo](https://open.spotify.com/track/7xu6LZ1vFB70tghBsl4zkk) | [GUPE](https://open.spotify.com/artist/0P3XVLx4HRUXxNlkrXjKix), [Patching Plants](https://open.spotify.com/artist/3KIYwLfNLtgjMHg35fEho3) | [GUPE \- PP sessions \(Ao Vivo\)](https://open.spotify.com/album/1YAmF5rNBo5zaB0NYinl5K) | 3:42 |

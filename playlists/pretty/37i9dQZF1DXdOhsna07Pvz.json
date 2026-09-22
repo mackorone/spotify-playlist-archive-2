@@ -1,6 +1,6 @@
 {
   "description": "O balan\u00e7o \u00e9 certo: a sua festa de brasilidades t\u00e1 aqui!",
-  "num_followers": 117971,
+  "num_followers": 117997,
   "original_name": "Baile Maravilha",
   "owner": {
     "name": "Spotify",
@@ -511,22 +511,6 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
-        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
-      },
-      "artists": [
-        {
-          "name": "Os Tinco\u00e3s",
-          "url": "https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7"
-        }
-      ],
-      "duration_ms": 191560,
-      "name": "Deixa A Gira Girar",
-      "url": "https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
         "name": "Bom Demais",
         "url": "https://open.spotify.com/album/1LGy5dn6nMFpiqG3mJlfoz"
       },
@@ -539,6 +523,22 @@
       "duration_ms": 239026,
       "name": "Ara Ketu Bom Demais",
       "url": "https://open.spotify.com/track/2pgP6IT08m0Uw9cEMZM7A6"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Welcome To The ORISHAS HOMELAND - In The Rhythm Of Nature And Faith",
+        "url": "https://open.spotify.com/album/5by1fUQXK4X0FvCJPavM7q"
+      },
+      "artists": [
+        {
+          "name": "Os Tinco\u00e3s",
+          "url": "https://open.spotify.com/artist/2rnJUBfFhgXBrywGEQ8zC7"
+        }
+      ],
+      "duration_ms": 191560,
+      "name": "Deixa A Gira Girar",
+      "url": "https://open.spotify.com/track/3BD2hlwoExMUXUpxcYxaWx"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -659,8 +659,8 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Focus On...500 Years Of Brazil",
-        "url": "https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0"
+        "name": "Gal Tropical",
+        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
       },
       "artists": [
         {
@@ -668,9 +668,9 @@
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 168400,
-      "name": "Brasil",
-      "url": "https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282"
+      "duration_ms": 226000,
+      "name": "Meu Nome \u00c9 Gal",
+      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -739,8 +739,8 @@
     {
       "added_at": "2025-10-04 00:28:31",
       "album": {
-        "name": "Gal Tropical",
-        "url": "https://open.spotify.com/album/1Vjf7xPNvBhqKnAR4rAXR2"
+        "name": "Focus On...500 Years Of Brazil",
+        "url": "https://open.spotify.com/album/04srNdaNXy47P5bcocHGA0"
       },
       "artists": [
         {
@@ -748,9 +748,25 @@
           "url": "https://open.spotify.com/artist/1b8kpp4DUwt1hWaxTiWQhD"
         }
       ],
-      "duration_ms": 226000,
-      "name": "Meu Nome \u00c9 Gal",
-      "url": "https://open.spotify.com/track/7bABDpHPCPc55rCBnjmljA"
+      "duration_ms": 168400,
+      "name": "Brasil",
+      "url": "https://open.spotify.com/track/76JWrb06MR9QfWKpp1F282"
+    },
+    {
+      "added_at": "2025-10-04 00:28:31",
+      "album": {
+        "name": "Mais Que Um Momento",
+        "url": "https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq"
+      },
+      "artists": [
+        {
+          "name": "Em\u00edlio Santiago",
+          "url": "https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt"
+        }
+      ],
+      "duration_ms": 252147,
+      "name": "O Amigo De Nova York",
+      "url": "https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb"
     },
     {
       "added_at": "2025-10-04 00:28:31",
@@ -771,22 +787,6 @@
       "duration_ms": 237426,
       "name": "Cabe\u00e7a de N\u00eago",
       "url": "https://open.spotify.com/track/0yhXCGfLaFycBWrgLK5ZpO"
-    },
-    {
-      "added_at": "2025-10-04 00:28:31",
-      "album": {
-        "name": "Mais Que Um Momento",
-        "url": "https://open.spotify.com/album/3ZiJqSVnlkiWIHcAJy4yvq"
-      },
-      "artists": [
-        {
-          "name": "Em\u00edlio Santiago",
-          "url": "https://open.spotify.com/artist/6quVEYAfHqHwpp8JujXBHt"
-        }
-      ],
-      "duration_ms": 252147,
-      "name": "O Amigo De Nova York",
-      "url": "https://open.spotify.com/track/5aVEnXYAtrxGdbJP8N2mHb"
     },
     {
       "added_at": "2025-10-04 00:28:31",

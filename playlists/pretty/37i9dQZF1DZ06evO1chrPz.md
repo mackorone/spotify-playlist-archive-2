@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 
 > This is Bethel Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 208,555 likes - 50 songs - 5 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,556 likes - 50 songs - 5 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 24 | [For the One \(Instrumental\)](https://open.spotify.com/track/023cGgIWTxiecyhr4hV6WW) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [After All These Years](https://open.spotify.com/album/5gQXbANgL26uyI9X9A46Ft) | 4:01 |
 | 25 | [Reckless Love](https://open.spotify.com/track/3UwwW9Ymz3xob5SxHx4uLO) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Peace](https://open.spotify.com/album/0fmHDS2IKGrGRZTTQOMOtE) | 5:39 |
 | 26 | [Egypt \(Live\)](https://open.spotify.com/track/2OoaLn8pQfXWjjImmZwp8w) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 6:22 |
-| 27 | [God I Look to You](https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 7:32 |
-| 28 | [Lion and the Lamb \(Live\)](https://open.spotify.com/track/6UQdeF568sZx5is0l1gxHy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 4:40 |
+| 27 | [Lion and the Lamb \(Live\)](https://open.spotify.com/track/6UQdeF568sZx5is0l1gxHy) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Leeland](https://open.spotify.com/artist/6j1fmLreVuAay7k6Gudfa2) | [Have It All \(Live\)](https://open.spotify.com/album/0SJHpd8spsBBvI9N6B2cqS) | 4:40 |
+| 28 | [God I Look to You](https://open.spotify.com/track/4WfjgumRvSWeQNpHZZAI2u) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Jenn Johnson](https://open.spotify.com/artist/0cuW2lF0YWb9VUyHOnvnsO) | [Be Lifted High](https://open.spotify.com/album/7K79tHGWXANnjr9X5mwGb9) | 7:32 |
 | 29 | [Do It Again](https://open.spotify.com/track/56EmrYQfXnDxoeS0RbRNRv) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Genesis](https://open.spotify.com/album/6i1NqxIGiZ5PmI4LAXDF4H) | 5:38 |
 | 30 | [Reign Above It All \(Live\)](https://open.spotify.com/track/6tV85GbrePXSeMFenLmUDa) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Paul McClure](https://open.spotify.com/artist/7Dl8usoHibuYnDVT5PRVnz) | [Revival's In The Air \(Live\)](https://open.spotify.com/album/4WkiqAKSiWoP4dMWP7ejt9) | 5:47 |
 | 31 | [Luminosity](https://open.spotify.com/track/34yggSxAScYbY0cAKjh4G6) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO) | [Without Words: Synesthesia](https://open.spotify.com/album/0O7oDrkgr0TWlyChIOosiG) | 4:08 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1chrPz.md) - [plain]
 | 49 | [Reason To Praise \(Live\)](https://open.spotify.com/track/4Z9hkzTYQnKYljePcQsXUf) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Cory Asbury](https://open.spotify.com/artist/2gXmjQIxCO8lMnSncluZaU), [Naomi Raine](https://open.spotify.com/artist/4rc8nzClXj7sUjvsHVg6AD) | [Homecoming \(Live\)](https://open.spotify.com/album/4RROYQpwPTYq9yJVWxYDxz) | 8:30 |
 | 50 | [How Great Thou Art \- Live](https://open.spotify.com/track/2Qie9Sz3nvgRWmqqKAolDE) | [Bethel Music](https://open.spotify.com/artist/26T4yOaOoFJvUvxR87Y9HO), [Garett & Kate](https://open.spotify.com/artist/0XGtfaGeQDd2jje9soKMPM) | [How Great Thou Art \(Live\)](https://open.spotify.com/album/2sMovJU5DW6HqGjeqfHCzo) | 8:29 |
 
-Snapshot ID: `aq3QgAAAAACGC4XTJ7+ft5GcpgyQZf6L`
+Snapshot ID: `aq8iAAAAAADjf5OtxS395tS2AfmeFIby`

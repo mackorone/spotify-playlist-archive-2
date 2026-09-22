@@ -1,12 +1,12 @@
 {
   "description": "This is Los Hijos De Garcia. The essential tracks, all in one playlist.",
-  "num_followers": 6313,
+  "num_followers": 6315,
   "original_name": "This Is Los Hijos De Garcia",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAA/Pj6rn12uObKJbpK1jXaV",
+  "snapshot_id": "aq8iAAAAAADAh/WShhT2FGN5A+OdVtlx",
   "tracks": [
     {
       "added_at": null,
@@ -299,6 +299,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Lujos De La Vida",
+        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 213024,
+      "name": "El Tuna",
+      "url": "https://open.spotify.com/track/2FhDsHZwgCILLXbpIHOget"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "BAJITA LA TENAZA",
         "url": "https://open.spotify.com/album/4snGTYPRvhdBiu7O1qXYXd"
       },
@@ -315,22 +331,6 @@
       "duration_ms": 198598,
       "name": "EL CRESTA",
       "url": "https://open.spotify.com/track/3BWOcwBVUbAz32DaYCj1ek"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Lujos De La Vida",
-        "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 213024,
-      "name": "El Tuna",
-      "url": "https://open.spotify.com/track/2FhDsHZwgCILLXbpIHOget"
     },
     {
       "added_at": null,
@@ -375,22 +375,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 177493,
-      "name": "Bohemio de Afici\u00f3n - En Vivo",
-      "url": "https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos De La Vida",
         "url": "https://open.spotify.com/album/34jGvDlmBDPgWwsokNQt2f"
       },
@@ -407,8 +391,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Querian Facil",
-        "url": "https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY"
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
       },
       "artists": [
         {
@@ -416,9 +400,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 225593,
-      "name": "La Querian Facil",
-      "url": "https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6"
+      "duration_ms": 177493,
+      "name": "Bohemio de Afici\u00f3n - En Vivo",
+      "url": "https://open.spotify.com/track/4i0SFmcMd79sCXfnuFKqlf"
     },
     {
       "added_at": null,
@@ -439,6 +423,22 @@
       "duration_ms": 166562,
       "name": "Seguimos de Pie",
       "url": "https://open.spotify.com/track/5uFNS0ukB8nH4IhkfMFb57"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Querian Facil",
+        "url": "https://open.spotify.com/album/4tp7hs9DwBnKmFtrTUjflY"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 225593,
+      "name": "La Querian Facil",
+      "url": "https://open.spotify.com/track/4JlwxYmewZay9BAbLsBHK6"
     },
     {
       "added_at": null,
@@ -483,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 2",
-        "url": "https://open.spotify.com/album/6ZRu67zVL7LPmNxQeKziTb"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 162688,
-      "name": "Calorcito En California",
-      "url": "https://open.spotify.com/track/1ScDrnhZg0oEgWWMdiq8so"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Loco Malandro",
         "url": "https://open.spotify.com/album/5hnWuPTXV0JeAVWjqkdgZQ"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 170842,
       "name": "De Botas O Gabanas",
       "url": "https://open.spotify.com/track/7gt6tXgzx8zvVepdf7Kmp4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 2",
+        "url": "https://open.spotify.com/album/6ZRu67zVL7LPmNxQeKziTb"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 162688,
+      "name": "Calorcito En California",
+      "url": "https://open.spotify.com/track/1ScDrnhZg0oEgWWMdiq8so"
     },
     {
       "added_at": null,
@@ -631,8 +631,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "48th Piso",
-        "url": "https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj"
+        "name": "Nuestro Estilo",
+        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
       },
       "artists": [
         {
@@ -640,9 +640,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 122047,
-      "name": "48th Piso",
-      "url": "https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH"
+      "duration_ms": 216448,
+      "name": "Mundo Desgraciado",
+      "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
     },
     {
       "added_at": null,
@@ -663,8 +663,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestro Estilo",
-        "url": "https://open.spotify.com/album/6rGQO5ibbf2JhX4N6BmL5r"
+        "name": "48th Piso",
+        "url": "https://open.spotify.com/album/2BCVLLW454geMDr78qVkHj"
       },
       "artists": [
         {
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 216448,
-      "name": "Mundo Desgraciado",
-      "url": "https://open.spotify.com/track/3hiximGfpxNy8fgsbWm4hm"
+      "duration_ms": 122047,
+      "name": "48th Piso",
+      "url": "https://open.spotify.com/track/083KIBwzpA3SRjO3HyxFbH"
     },
     {
       "added_at": null,
@@ -727,22 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 1",
-        "url": "https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 173354,
-      "name": "El De La Codeina",
-      "url": "https://open.spotify.com/track/6vJ7oKNUELxzWx2tZHCgNe"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Lujos y Libras",
         "url": "https://open.spotify.com/album/76hHnxL9jGOpddvX4Gor2R"
       },
@@ -755,6 +739,22 @@
       "duration_ms": 189789,
       "name": "Cuando Me Muera",
       "url": "https://open.spotify.com/track/3F9Xch0uZUTA30K7MFkh2F"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "J\u00e1lese Carnal",
+        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 156928,
+      "name": "El Cimarron",
+      "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
     },
     {
       "added_at": null,
@@ -779,8 +779,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "J\u00e1lese Carnal",
-        "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
+        "name": "En Vivo Desde Almanza Friesians Ranch, Vol. 1",
+        "url": "https://open.spotify.com/album/7d0oBxthOSCSsLWjnUHzLf"
       },
       "artists": [
         {
@@ -788,25 +788,9 @@
           "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
         }
       ],
-      "duration_ms": 156928,
-      "name": "El Cimarron",
-      "url": "https://open.spotify.com/track/3mBI9q2AWvbEEGLnxjmdBg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "En Vivo Con Tololoche",
-        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 226986,
-      "name": "Mi Gusto Es - En Vivo",
-      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
+      "duration_ms": 173354,
+      "name": "El De La Codeina",
+      "url": "https://open.spotify.com/track/6vJ7oKNUELxzWx2tZHCgNe"
     },
     {
       "added_at": null,
@@ -831,22 +815,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Desde La 48",
-        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
-      },
-      "artists": [
-        {
-          "name": "Los Hijos De Garcia",
-          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
-        }
-      ],
-      "duration_ms": 176953,
-      "name": "Cuando Me Faltaban",
-      "url": "https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "J\u00e1lese Carnal",
         "url": "https://open.spotify.com/album/0JCLMPYNI2uUuEcniID1iD"
       },
@@ -863,6 +831,38 @@
       "duration_ms": 189248,
       "name": "Power",
       "url": "https://open.spotify.com/track/6JMhI5fci25xMZU0QuqNfU"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Desde La 48",
+        "url": "https://open.spotify.com/album/5i8wSDSUoEBSEd9r18e4LD"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 176953,
+      "name": "Cuando Me Faltaban",
+      "url": "https://open.spotify.com/track/3XVCdhJp0j1Xpl6En6WOwp"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "En Vivo Con Tololoche",
+        "url": "https://open.spotify.com/album/69vJhO6TLEYq4w0p8s2ny9"
+      },
+      "artists": [
+        {
+          "name": "Los Hijos De Garcia",
+          "url": "https://open.spotify.com/artist/3Aw1WaC6Xm8cOOppvXcnfa"
+        }
+      ],
+      "duration_ms": 226986,
+      "name": "Mi Gusto Es - En Vivo",
+      "url": "https://open.spotify.com/track/2W0MHFzXz5lEqqH2OJXgqV"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 
 > The best of current & contemporary Reggae\.  Cover: Kelissa
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,094,249 likes - 70 songs - 4 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,094,198 likes - 70 songs - 4 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 15 | [In Bloom \(feat\. Lila Iké\)](https://open.spotify.com/track/3WwXaLYKNx0qJqyjnzDadx) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [In Search Of Lost Time](https://open.spotify.com/album/3kF6kDaK450bGM7rgOTVgW) | 3:47 |
 | 16 | [Rebel Time](https://open.spotify.com/track/7tnoa5R79Bl3qa39yQSW5Q) | [Sean Paul](https://open.spotify.com/artist/3Isy6kedDrgPYoTS1dazA9), [Beres Hammond](https://open.spotify.com/artist/2ruMkdO4e1tJWDHsYSEtxr) | [Rebel Time](https://open.spotify.com/album/0rrzx2Xg5leF42e0I7oCu7) | 4:01 |
 | 17 | [Where I'm Coming From](https://open.spotify.com/track/2jQENRPVxXb8TcTAXW6wpQ) | [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [The ExPerience](https://open.spotify.com/album/3fijbBVRaz2CUyoWAV1ZlK) | 4:03 |
-| 18 | [FIYAH](https://open.spotify.com/track/1C5e6MyQXLY5npQiE1FRbl) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [FIYAH](https://open.spotify.com/album/2E1UGRJKwUyZxyn4Szf8mm) | 3:12 |
-| 19 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 |
+| 18 | [Sweet Love](https://open.spotify.com/track/2Hj6NXHSAf2Iuhgme1jQto) | [Burna Boy](https://open.spotify.com/artist/3wcj11K77LjEY1PkEazffa) | [Sweet Love](https://open.spotify.com/album/2MRt8KcILMU2PUuAzBpKwU) | 3:32 |
+| 19 | [FIYAH](https://open.spotify.com/track/1C5e6MyQXLY5npQiE1FRbl) | [YG Marley](https://open.spotify.com/artist/0n4Fao9kbjgM76RmVlfSwr) | [FIYAH](https://open.spotify.com/album/2E1UGRJKwUyZxyn4Szf8mm) | 3:12 |
 | 20 | [BIG 45](https://open.spotify.com/track/4DspPUPn1uLYAEJSBfvPar) | [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr) | [BIG 45](https://open.spotify.com/album/60SiKHElErD0EPxgU53Qjg) | 3:44 |
 | 21 | [Vibe \(feat\. Popcaan\)](https://open.spotify.com/track/4VFk3eto9JaRlOQokHWZZB) | [Skip Marley](https://open.spotify.com/artist/4ryoUS0W8qXokfMxrlJt6O), [Popcaan](https://open.spotify.com/artist/62DmErcU7dqZbJaDqwsqzR) | [Vibe](https://open.spotify.com/album/4vY5bGXeYLqW2gQqADFMty) | 3:15 |
 | 22 | [A Thousand Times](https://open.spotify.com/track/05DVJrR6du2E1iU0p6izrC) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57), [Collie Buddz](https://open.spotify.com/artist/5Ayl2bJtN5mdCsxZoxs9n1) | [A Thousand Times](https://open.spotify.com/album/1Ggg9w76ZhbqGlflz7PzR5) | 3:17 |
@@ -37,8 +37,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 27 | [Never Leave](https://open.spotify.com/track/6d5E28VYwyws9CY00lwxfq) | [WSTRN](https://open.spotify.com/artist/5nSAh3wlH7VaqpnkiMjzDs), [Lila Iké](https://open.spotify.com/artist/0uAUrmEQbwcDFzg0v7VicO) | [Never Leave](https://open.spotify.com/album/1uHkmdfOvhr3Jj7mdLIIkp) | 3:16 |
 | 28 | [The Kalling](https://open.spotify.com/track/7sWHIFWauKqIXFPvVA4UTa) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH), [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Protoje](https://open.spotify.com/artist/7BGR8y1VZAWK2oR4zD9COr), [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1) | [The Kalling](https://open.spotify.com/album/2IL0ko13l6DhK4gUebZXd9) | 3:33 |
 | 29 | [Diamonds and Gold](https://open.spotify.com/track/2XMeQMiOJgKRoWcC3CHFtJ) | [Marlon Asher](https://open.spotify.com/artist/4DeCJnS3fuqohKk4FCVl0y), [Tarrus Riley](https://open.spotify.com/artist/4frHO7KPcfMjhnVdIMJ98c), [Capleton](https://open.spotify.com/artist/21J3YJTyq1biE3SvSNjzuf) | [Diamonds and Gold](https://open.spotify.com/album/15muGQPID5opsEsRptvSDz) | 3:47 |
-| 30 | [Love That Don't Change](https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Zion I Kings](https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj) | [Love That Don't Change](https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe) | 3:16 |
-| 31 | [Cool Down](https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Cool Down](https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93) | 4:02 |
+| 30 | [Cool Down](https://open.spotify.com/track/7ktaE00AVIPqSNkyQ4GVEe) | [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Cool Down](https://open.spotify.com/album/4AGbPjkx87jkHek4TEoE93) | 4:02 |
+| 31 | [Love That Don't Change](https://open.spotify.com/track/5Grg0T6Warm8nAXeD1LE5d) | [Jesse Royal](https://open.spotify.com/artist/4aXUVIuNCDbLoRAYfuVDi1), [Zion I Kings](https://open.spotify.com/artist/3fvdJGrr5hUYtqoYJkhvCj) | [Love That Don't Change](https://open.spotify.com/album/63kwJPFzIUVO0uulgw7tFe) | 3:16 |
 | 32 | [Let's Make Up](https://open.spotify.com/track/0vXUQKUSOItuBwnRU6FsW2) | [Bitty McLean](https://open.spotify.com/artist/2t3eEaWiT5weaCJIh6aRv2), [Sly & Robbie](https://open.spotify.com/artist/6jJG408jz8VayohX86nuTt) | [Forward](https://open.spotify.com/album/1AIRz1KsEzGjh55J81z03F) | 4:51 |
 | 33 | [Nice Up The Dance](https://open.spotify.com/track/2KR1FKbtBscgImHlKdoVyj) | [Kabaka Pyramid](https://open.spotify.com/artist/10p1CDVyRIkR2ybAu7SbVH) | [Nice Up The Dance](https://open.spotify.com/album/42MgLUbnXdROVjTGeChKQZ) | 3:32 |
 | 34 | [Wisemen](https://open.spotify.com/track/2u3aTF3PxyJt7XQ5w0z04t) | [Damian Marley](https://open.spotify.com/artist/3QJzdZJYIAcoET1GcfpNGi) | [Wisemen](https://open.spotify.com/album/4IgOYbYLa7t750vdIx2QRZ) | 3:48 |
@@ -77,6 +77,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7GUbRHVEX42.md) - [plain]
 | 67 | [40 Days & 40 Nights \(Pt\. 2\)](https://open.spotify.com/track/1vhfL29bRXSpZcA0rBkiES) | [Stephen Marley](https://open.spotify.com/artist/0CIwCGmQMqHqiblnZlFia1), [Salaam Remi](https://open.spotify.com/artist/0rlS0SzVFk8BoiAW0fGBbN) | [Set up Shop, Vol\. 4](https://open.spotify.com/album/5HRCRgKHqMjnnWmE3VisB0) | 2:56 |
 | 68 | [Fill My Cup](https://open.spotify.com/track/58PFZiGVblDkRgiFbsCXTm) | [Iotosh](https://open.spotify.com/artist/5IzolPBJ2JFhc2NeNA8Log) | [Fill My Cup](https://open.spotify.com/album/5GjpNkfPldpQpyqH8UgOrE) | 3:22 |
 | 69 | [Born A Rebel](https://open.spotify.com/track/3d53gVUXptSl1R9oOwohp6) | [Lion D](https://open.spotify.com/artist/6dV7tQuFIXDX8nbGkWCSnz), [Bizzarri](https://open.spotify.com/artist/6u2JGZYGitPzTfCRjnAAie) | [Born A Rebel](https://open.spotify.com/album/62RIMe1gQ87UWX70jqYtsY) | 3:37 |
-| 70 | [Refund](https://open.spotify.com/track/6s872MNfACS2J05Q1MEIuq) | [Through The Roots](https://open.spotify.com/artist/3kXFPAfFzG0LrudmtGM6Yc), [Busy Signal](https://open.spotify.com/artist/4RfTXjK9aiiIKDaKUHpL57) | [Refund](https://open.spotify.com/album/1ypi1cqSZXVQvC0emvumqp) | 3:24 |
+| 70 | [Take Her Love](https://open.spotify.com/track/6Rbw6xdVOHZCdiforE08HE) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg) | [HunnyMoon Mountain](https://open.spotify.com/album/2rVpyULucip4FgLYR2rw26) | 3:35 |
 
 Snapshot ID: `AAAAAECpKNjmCZD6IfPcT61QJ2RaVXfD`

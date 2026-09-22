@@ -1,12 +1,12 @@
 {
   "description": "forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify",
-  "num_followers": 354,
+  "num_followers": 355,
   "original_name": "forever young Playlist Spotify",
   "owner": {
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAALShZmn01i5cTnF+vGRb2zQhCiojBE",
+  "snapshot_id": "AAALTQRa+GJht6juJKQ4mb5Hv3c6Fwwv",
   "tracks": [
     {
       "added_at": "2026-09-20 13:23:29",
@@ -41668,8 +41668,16 @@
           "url": "https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb"
         },
         {
+          "name": "Jos\u00e9 Sechi.",
+          "url": "https://open.spotify.com/artist/7iIoRgouvtDqZ8BplUUShj"
+        },
+        {
           "name": "001 BEST",
           "url": "https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn"
+        },
+        {
+          "name": "Meditherranea & Prova MI & Jos\u00e9 Sechi. & 001 BEST",
+          "url": "https://open.spotify.com/artist/6zNtfoNKlu5QCWehjOth3a"
         }
       ],
       "duration_ms": 167705,
@@ -44755,6 +44763,54 @@
       "duration_ms": 122640,
       "name": "Kiitos Ja N\u00e4kemiin",
       "url": "https://open.spotify.com/track/53fQ93YMUdK4uc5TP6CdiX"
+    },
+    {
+      "added_at": "2026-09-21 08:17:59",
+      "album": {
+        "name": "The Venosa Session",
+        "url": "https://open.spotify.com/album/5zQmf6E0PQ5Ln7hPOUZUkT"
+      },
+      "artists": [
+        {
+          "name": "Alessandro Liccardo",
+          "url": "https://open.spotify.com/artist/256CcBQU76vRqixx59jpgN"
+        }
+      ],
+      "duration_ms": 227440,
+      "name": "The Big House",
+      "url": "https://open.spotify.com/track/1horHByM1axyVe7mQmgI9I"
+    },
+    {
+      "added_at": "2026-09-21 20:22:15",
+      "album": {
+        "name": "Kopf aus, Herz an",
+        "url": "https://open.spotify.com/album/5nnFUHq6srcKC86jXRm6Zm"
+      },
+      "artists": [
+        {
+          "name": "Claudius Mach",
+          "url": "https://open.spotify.com/artist/0pwgyvU4c9jWbzHuP0yPUY"
+        }
+      ],
+      "duration_ms": 248450,
+      "name": "Kopf aus, Herz an",
+      "url": "https://open.spotify.com/track/7qVf3mM1KTblvIvBHH5x4K"
+    },
+    {
+      "added_at": "2026-09-21 20:22:21",
+      "album": {
+        "name": "Alles Okay",
+        "url": "https://open.spotify.com/album/3E7Opp5ENpxtjyJbBsEOVp"
+      },
+      "artists": [
+        {
+          "name": "Jamin",
+          "url": "https://open.spotify.com/artist/2ENKqKJLJHCtan7k5y7s69"
+        }
+      ],
+      "duration_ms": 146470,
+      "name": "Alles Okay",
+      "url": "https://open.spotify.com/track/04WUfyc04zu4Jvn39b0OUZ"
     }
   ],
   "unique_name": "forever young Playlist Spotify",

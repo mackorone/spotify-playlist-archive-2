@@ -1,12 +1,12 @@
 {
   "description": "This is Django Reinhardt. The essential tracks, all in one playlist.",
-  "num_followers": 36875,
+  "num_followers": 36883,
   "original_name": "This Is Django Reinhardt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAC93UdEptuPJZNpSW2wXj2C",
+  "snapshot_id": "aq8iAAAAAADxBUJzKmfFPIb7Xp2GvAXA",
   "tracks": [
     {
       "added_at": null,
@@ -323,6 +323,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "l'inoubliable",
+        "url": "https://open.spotify.com/album/3yG7WbpgWrgPTg6zZV7amc"
+      },
+      "artists": [
+        {
+          "name": "Django Reinhardt",
+          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
+        }
+      ],
+      "duration_ms": 194640,
+      "name": "Georgia on My Mind",
+      "url": "https://open.spotify.com/track/0mKssLelwP7ymDV7HQLYlm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Electric Django: Radio Recordings 1947",
         "url": "https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY"
       },
@@ -355,22 +371,6 @@
       "duration_ms": 185482,
       "name": "September Song",
       "url": "https://open.spotify.com/track/4RIkHEEZVjjLpLQ4kGqNEN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "l'inoubliable",
-        "url": "https://open.spotify.com/album/3yG7WbpgWrgPTg6zZV7amc"
-      },
-      "artists": [
-        {
-          "name": "Django Reinhardt",
-          "url": "https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx"
-        }
-      ],
-      "duration_ms": 194640,
-      "name": "Georgia on My Mind",
-      "url": "https://open.spotify.com/track/0mKssLelwP7ymDV7HQLYlm"
     },
     {
       "added_at": null,

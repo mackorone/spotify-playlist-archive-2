@@ -1,6 +1,6 @@
 {
   "description": "Raise a voice and testify the goodness of God.  Cover: Joepraize",
-  "num_followers": 61254,
+  "num_followers": 61284,
   "original_name": "Testify",
   "owner": {
     "name": "Spotify",
@@ -965,6 +965,22 @@
       "url": "https://open.spotify.com/track/0nFJXe8v5S5J6Jihb33RkN"
     },
     {
+      "added_at": "2023-12-15 00:01:00",
+      "album": {
+        "name": "SATISFIED",
+        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 300878,
+      "name": "Obinasom",
+      "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
+    },
+    {
       "added_at": "2023-12-29 00:01:00",
       "album": {
         "name": "The Maverick Way Complete",
@@ -987,22 +1003,6 @@
       "duration_ms": 498332,
       "name": "For My Good (feat. Todd Galberth, Chandler Moore )",
       "url": "https://open.spotify.com/track/6QBOGJN18Sait5GtGJrW6k"
-    },
-    {
-      "added_at": "2023-12-15 00:01:00",
-      "album": {
-        "name": "SATISFIED",
-        "url": "https://open.spotify.com/album/3CZq06hpGQ6cIUIUnPHhaU"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 300878,
-      "name": "Obinasom",
-      "url": "https://open.spotify.com/track/0zffPG1MN1yCiWkJBM4zjC"
     }
   ],
   "unique_name": "Testify",

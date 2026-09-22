@@ -1,6 +1,6 @@
 {
   "description": "Fijn voor thuis of op werk. Helemaal van eigen bodem \ud83c\uddf3\ud83c\uddf1",
-  "num_followers": 81494,
+  "num_followers": 81562,
   "original_name": "Helemaal NL",
   "owner": {
     "name": "Spotify",
@@ -8,22 +8,6 @@
   },
   "snapshot_id": "AAAAAKQ4Mq9N5yUZMOv/3pl9Kh+0iNrl",
   "tracks": [
-    {
-      "added_at": "2026-09-17 22:02:12",
-      "album": {
-        "name": "Sluit Me In Je Armen",
-        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
-      },
-      "artists": [
-        {
-          "name": "Zo\u00eb Livay",
-          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
-        }
-      ],
-      "duration_ms": 163976,
-      "name": "Sluit Me In Je Armen",
-      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
-    },
     {
       "added_at": "2026-09-17 22:02:12",
       "album": {
@@ -43,6 +27,22 @@
       "duration_ms": 213674,
       "name": "Verlangen",
       "url": "https://open.spotify.com/track/6MW23WuGP4AYIrKn2vA7oV"
+    },
+    {
+      "added_at": "2026-09-17 22:02:12",
+      "album": {
+        "name": "Sluit Me In Je Armen",
+        "url": "https://open.spotify.com/album/0dmNOTJAS3XLdvQyVJpYaW"
+      },
+      "artists": [
+        {
+          "name": "Zo\u00eb Livay",
+          "url": "https://open.spotify.com/artist/2avtvk1ZeiEf3wZ8dE8JfE"
+        }
+      ],
+      "duration_ms": 163976,
+      "name": "Sluit Me In Je Armen",
+      "url": "https://open.spotify.com/track/3hDonrNsWXsXegk5y67wKs"
     },
     {
       "added_at": "2026-09-17 22:02:12",
@@ -691,22 +691,6 @@
     {
       "added_at": "2026-09-17 22:02:12",
       "album": {
-        "name": "Alles Wat Ik Zoek (Radio Edit)",
-        "url": "https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt"
-      },
-      "artists": [
-        {
-          "name": "Hiigo",
-          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
-        }
-      ],
-      "duration_ms": 168871,
-      "name": "Alles Wat Ik Zoek - Radio Edit",
-      "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
-    },
-    {
-      "added_at": "2026-09-17 22:02:12",
-      "album": {
         "name": "Half Open",
         "url": "https://open.spotify.com/album/2jpBFxyKm365TUV0z3XAEc"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 149470,
       "name": "Half Open",
       "url": "https://open.spotify.com/track/6eta0oe0t2clgw0CujrVI7"
+    },
+    {
+      "added_at": "2026-09-17 22:02:12",
+      "album": {
+        "name": "Alles Wat Ik Zoek (Radio Edit)",
+        "url": "https://open.spotify.com/album/5UUFAAiSKelbyEjBLzepjt"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "duration_ms": 168871,
+      "name": "Alles Wat Ik Zoek - Radio Edit",
+      "url": "https://open.spotify.com/track/1XdUtqaf0KdDxgnO8wY1y3"
     },
     {
       "added_at": "2026-09-17 22:02:12",
@@ -775,22 +775,6 @@
     {
       "added_at": "2026-09-17 22:02:12",
       "album": {
-        "name": "Leven In De Leegte",
-        "url": "https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe"
-      },
-      "artists": [
-        {
-          "name": "Hiigo",
-          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
-        }
-      ],
-      "duration_ms": 211343,
-      "name": "Niets Meer",
-      "url": "https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj"
-    },
-    {
-      "added_at": "2026-09-17 22:02:12",
-      "album": {
         "name": "Wat Er Morgen Komt",
         "url": "https://open.spotify.com/album/792TgZ3757WTiZjv4fovlt"
       },
@@ -803,6 +787,22 @@
       "duration_ms": 166895,
       "name": "Wat Er Morgen Komt",
       "url": "https://open.spotify.com/track/4wM8F7SWTi3TywSEOFiF6L"
+    },
+    {
+      "added_at": "2026-09-17 22:02:12",
+      "album": {
+        "name": "Leven In De Leegte",
+        "url": "https://open.spotify.com/album/7aV7m6fQ6DW1Vka6TpVwWe"
+      },
+      "artists": [
+        {
+          "name": "Hiigo",
+          "url": "https://open.spotify.com/artist/49wmW9ZxLK5Fg0grFZl0iX"
+        }
+      ],
+      "duration_ms": 211343,
+      "name": "Niets Meer",
+      "url": "https://open.spotify.com/track/24dVAws8icjFeBnWfRJMuj"
     },
     {
       "added_at": "2026-09-17 22:02:12",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 
 > Listen to women at full volume! September ambassador: <a href="spotify:artist:60bPC311AlvVdIzqQZyeHo">jet van der steen</a>
 
-[Spotify](https://open.spotify.com/user/spotify) - 14,456 likes - 56 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 14,459 likes - 56 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,8 +24,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 14 | [Vang Je Mij](https://open.spotify.com/track/6X3TryxL5jLNLKzs08Qobr) | [Roxeanne Hazes](https://open.spotify.com/artist/1GWpddfwL9bVovOzCtNQN6) | [Vang Je Mij](https://open.spotify.com/album/7s6BOKohhphxeeTCGX8OCL) | 3:39 |
 | 15 | [Jasmine](https://open.spotify.com/track/6rAnrBfi9URCSIP5FDqOOi) | [Isabèl Usher](https://open.spotify.com/artist/66Q9dkZ7EXdwU2h6tEkUdC) | [Jasmine](https://open.spotify.com/album/5v8BCqVyeuRbXHOpsLxhzl) | 3:17 |
 | 16 | [Bring Me Silence](https://open.spotify.com/track/67TydXvsDGZhxEmV3TOmRm) | [Floor Jansen](https://open.spotify.com/artist/2ZNTJ9Bu9QMJwBboMSpQgJ) | [Bring Me Silence](https://open.spotify.com/album/48dUmHLMg1vnYD9wwNAm8s) | 3:13 |
-| 17 | [Bad Gurl Summah](https://open.spotify.com/track/2gw2pqrywLSQQpNQBz2LZM) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Bad Gurl Summah](https://open.spotify.com/album/4q2qffBJ28tIOQwKDDfUK4) | 2:34 |
-| 18 | [Contactloos](https://open.spotify.com/track/45kAXiP2TF8jlyjLuit8pN) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Contactloos](https://open.spotify.com/album/0IDujmV9TeuiMCLHF6344g) | 2:47 |
+| 17 | [Contactloos](https://open.spotify.com/track/45kAXiP2TF8jlyjLuit8pN) | [FAY](https://open.spotify.com/artist/2rYvyXWazKzVHanTL5GyCE) | [Contactloos](https://open.spotify.com/album/0IDujmV9TeuiMCLHF6344g) | 2:47 |
+| 18 | [Bad Gurl Summah](https://open.spotify.com/track/2gw2pqrywLSQQpNQBz2LZM) | [Kaya Imani](https://open.spotify.com/artist/1vGqIJlfH4QS0KQzrKU8tw), [Famke Louise](https://open.spotify.com/artist/4Dm1MX4VPbtLssAQeBhHFo) | [Bad Gurl Summah](https://open.spotify.com/album/4q2qffBJ28tIOQwKDDfUK4) | 2:34 |
 | 19 | [Leave The Sun Behind](https://open.spotify.com/track/0W6oV7MeL0PWEymCdYJRvZ) | [Kovacs](https://open.spotify.com/artist/62peb1sKdVJQD00xYvMCKF) | [Leave The Sun Behind](https://open.spotify.com/album/6uBWqFmQLjfo7NLXTWEHk2) | 2:55 |
 | 20 | [Hoe Het Was \- Soundtrack Sugar](https://open.spotify.com/track/2bbHVpkJpKaOhWZC3Gc6gl) | [Delany](https://open.spotify.com/artist/1XTd9ZCFzkRPUoO9yHQAYP), [sor](https://open.spotify.com/artist/267wBt3XfmW3kdOC0JCtcO) | [Hoe Het Was \(Soundtrack Sugar\)](https://open.spotify.com/album/2TstwRNGkFEpozKUEmxscU) | 3:01 |
 | 21 | [The Edge](https://open.spotify.com/track/0z57lL3TxrWUL2twvKiSgI) | [Wendy Moore](https://open.spotify.com/artist/3hVaUYcJaBFuGQim6qmC6l) | [The Edge](https://open.spotify.com/album/2sStAGAPrMx3RROLDPU8Vz) | 2:33 |
@@ -45,8 +45,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaXn0hGbmLLg.md) - [plain]
 | 35 | [Mag ik vanavond bij je blijven?](https://open.spotify.com/track/3nFZydasAdmFjYrUyP2qoQ) | [Elaine](https://open.spotify.com/artist/4VIib2UJ5zptuPt5ObTv3l) | [Mag ik vanavond bij je blijven?](https://open.spotify.com/album/1GXM6VuZw7S37aZz3ZLQ9P) | 3:15 |
 | 36 | [It's Gotta Be Me](https://open.spotify.com/track/0Wd8KUSoSCJ7P0qaJ8Ze6H) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [It's Gotta Be Me](https://open.spotify.com/album/2HHEKBteGRBSv5VZXvKZma) | 3:45 |
 | 37 | [With You](https://open.spotify.com/track/4TTJ0NC67FNVDIBcUQchkN) | [Neema Nekesa](https://open.spotify.com/artist/3hkQvRtfUiRaZRK3gBsIOI), [Austin Marc](https://open.spotify.com/artist/38pZZmocTPfCj0Uf2pCWQZ) | [With You](https://open.spotify.com/album/4lLseIQahLfofOdwjXmJTI) | 2:39 |
-| 38 | [Trapped](https://open.spotify.com/track/3HEoMNpaketrF3QswuHptG) | [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC) | [Trapped](https://open.spotify.com/album/6mZvZOnQVz7AKPaTUS3UTK) | 3:11 |
-| 39 | [Wandering Eye](https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5) | [Wandering Eye](https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w) | 2:31 |
+| 38 | [Wandering Eye](https://open.spotify.com/track/4xFPSdYluTFPLKnN8Z9e5A) | [Carmen Forbes](https://open.spotify.com/artist/4XY6mCv2cLDP5bSYILeHk5) | [Wandering Eye](https://open.spotify.com/album/5uGA7BBl8jqsgfxfSLqk0w) | 2:31 |
+| 39 | [Trapped](https://open.spotify.com/track/3HEoMNpaketrF3QswuHptG) | [VE/RA](https://open.spotify.com/artist/5vzzAbMiHvpgS9TzUcM7aC) | [Trapped](https://open.spotify.com/album/6mZvZOnQVz7AKPaTUS3UTK) | 3:11 |
 | 40 | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/track/3ly2ySmmZPnHQrLrt5HTe9) | [Mathilde Bloom](https://open.spotify.com/artist/3BueSYVwTJWgJMCRwpT3xM) | [Is Bij Jou Het Licht Nog Aan](https://open.spotify.com/album/1LDTEdjLM3XzyZN6a8BpbZ) | 2:25 |
 | 41 | [Waking up slow](https://open.spotify.com/track/4PFWmQYECVuFaAHEIrSUBn) | [LAKSHMI](https://open.spotify.com/artist/3PSaVjQnbHmuOKLBbFVxuW) | [Here, I am alone with You](https://open.spotify.com/album/1GGvpQLxsIur6y55SzLsiY) | 2:37 |
 | 42 | [Echo En Toi](https://open.spotify.com/track/3A8jY0pokq2wMg52dPLV1x) | [Isolde Lasoen](https://open.spotify.com/artist/69LIgTfuoQOAiE5wbqkMci) | [My Kind of Drama](https://open.spotify.com/album/55ZHaZsdFqRIXy87OTVsaB) | 4:19 |

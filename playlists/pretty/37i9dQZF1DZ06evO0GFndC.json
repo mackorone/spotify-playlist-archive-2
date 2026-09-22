@@ -1,12 +1,12 @@
 {
   "description": "This is Grupo Los de la O. The essential tracks, all in one playlist.",
-  "num_followers": 64953,
+  "num_followers": 64966,
   "original_name": "This Is Grupo Los de la O",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAC1kSEsMjZH8TmsMacot9gn",
+  "snapshot_id": "aq8iAAAAAAAMJXmfOWifS40Xv9gOn+ff",
   "tracks": [
     {
       "added_at": null,
@@ -315,6 +315,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Pura Manzanita",
+        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 187066,
+      "name": "Criminales de Verdad - En Vivo",
+      "url": "https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pura Manzanita Vol. 3",
         "url": "https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7"
       },
@@ -331,22 +347,6 @@
       "duration_ms": 165760,
       "name": "Area 81",
       "url": "https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Pura Manzanita",
-        "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 187066,
-      "name": "Criminales de Verdad - En Vivo",
-      "url": "https://open.spotify.com/track/4l3BeSMDaVOgwnZQ151xA7"
     },
     {
       "added_at": null,
@@ -507,8 +507,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Tras las Rejas",
-        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
+        "name": "LEY DE VIDA",
+        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
       },
       "artists": [
         {
@@ -516,9 +516,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 212499,
-      "name": "Puro Gas",
-      "url": "https://open.spotify.com/track/1sRDG9M3EuT2Bm4PfRqYGQ"
+      "duration_ms": 156608,
+      "name": "LAS CULATAS",
+      "url": "https://open.spotify.com/track/2Yf9O2NcWVu88Rj1iQMKyt"
     },
     {
       "added_at": null,
@@ -539,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Se\u00f1or de la A",
-        "url": "https://open.spotify.com/album/2A8zSlVaebsKFUFntTkgcE"
+        "name": "Tras las Rejas",
+        "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },
       "artists": [
         {
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
         }
       ],
-      "duration_ms": 184354,
-      "name": "El Se\u00f1or de la A",
-      "url": "https://open.spotify.com/track/3qOTqVRKVp9wriaPh9H9qU"
+      "duration_ms": 212499,
+      "name": "Puro Gas",
+      "url": "https://open.spotify.com/track/1sRDG9M3EuT2Bm4PfRqYGQ"
     },
     {
       "added_at": null,
@@ -575,6 +575,54 @@
     {
       "added_at": null,
       "album": {
+        "name": "LEY DE VIDA",
+        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 174389,
+      "name": "JEFAZO",
+      "url": "https://open.spotify.com/track/0lfeNu6f5qXqe1omcMrhRE"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Resiliencia",
+        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 205717,
+      "name": "Mejor Sin Ti",
+      "url": "https://open.spotify.com/track/56gY9CWrtD5BMiKPxsLv5y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "El Se\u00f1or de la A",
+        "url": "https://open.spotify.com/album/2A8zSlVaebsKFUFntTkgcE"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 184354,
+      "name": "El Se\u00f1or de la A",
+      "url": "https://open.spotify.com/track/3qOTqVRKVp9wriaPh9H9qU"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Proyecto A",
         "url": "https://open.spotify.com/album/4v6dj7Tfa3wyALxNvMx6bQ"
       },
@@ -595,18 +643,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Resiliencia",
-        "url": "https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w"
+        "name": "LEY DE VIDA",
+        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        },
+        {
+          "name": "Jessy Castillo",
+          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
         }
       ],
-      "duration_ms": 205717,
-      "name": "Mejor Sin Ti",
-      "url": "https://open.spotify.com/track/56gY9CWrtD5BMiKPxsLv5y"
+      "duration_ms": 187583,
+      "name": "CLASE 63",
+      "url": "https://open.spotify.com/track/5K65GcDbhSPF2P8q7jcGN5"
     },
     {
       "added_at": null,
@@ -647,22 +699,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEY DE VIDA",
-        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 156608,
-      "name": "LAS CULATAS",
-      "url": "https://open.spotify.com/track/2Yf9O2NcWVu88Rj1iQMKyt"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "El Pinky",
         "url": "https://open.spotify.com/album/3fcnlKU8TRjOmpsvVgEhrD"
       },
@@ -679,6 +715,22 @@
       "duration_ms": 185615,
       "name": "El Pinky",
       "url": "https://open.spotify.com/track/0M7rgwIeogKvMzzpHbRqmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEY DE VIDA",
+        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 200722,
+      "name": "LEY DE VIDA",
+      "url": "https://open.spotify.com/track/3EfezkRzdn6K0WXRjZrT3J"
     },
     {
       "added_at": null,
@@ -719,22 +771,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "LEY DE VIDA",
-        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 174389,
-      "name": "JEFAZO",
-      "url": "https://open.spotify.com/track/0lfeNu6f5qXqe1omcMrhRE"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Pura Manzanita",
         "url": "https://open.spotify.com/album/4F68rXd0HXHAiFvyw7Mj0V"
       },
@@ -747,6 +783,22 @@
       "duration_ms": 194845,
       "name": "Se\u00f1or de la A - En Vivo",
       "url": "https://open.spotify.com/track/4LmuzqcwGGERD1BvBhz4vy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LEY DE VIDA",
+        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
+      },
+      "artists": [
+        {
+          "name": "Grupo Los de la O",
+          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
+        }
+      ],
+      "duration_ms": 180309,
+      "name": "AIR FORCE BLANCOS (Peezy)",
+      "url": "https://open.spotify.com/track/2NO7qNlPiutmEHQlXy5u01"
     },
     {
       "added_at": null,
@@ -771,42 +823,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Parque de Diversiones",
-        "url": "https://open.spotify.com/album/139h5UsommAbalxqYcSD4h"
+        "name": "Diez Mandamientos",
+        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
       },
       "artists": [
         {
           "name": "Grupo Los de la O",
           "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Abraham Vazquez",
-          "url": "https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD"
         }
       ],
-      "duration_ms": 162000,
-      "name": "Belik Frozen",
-      "url": "https://open.spotify.com/track/6FXryIsXIDVWtzoJ5vCKmw"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEY DE VIDA",
-        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        },
-        {
-          "name": "Jessy Castillo",
-          "url": "https://open.spotify.com/artist/6MPmMMvkDjhd2SxWm8jQ61"
-        }
-      ],
-      "duration_ms": 187583,
-      "name": "CLASE 63",
-      "url": "https://open.spotify.com/track/5K65GcDbhSPF2P8q7jcGN5"
+      "duration_ms": 207400,
+      "name": "Diez Mandamientos",
+      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
     },
     {
       "added_at": null,
@@ -827,22 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diez Mandamientos",
-        "url": "https://open.spotify.com/album/5gWxmJhCpWPQlMsC2U9pDn"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 207400,
-      "name": "Diez Mandamientos",
-      "url": "https://open.spotify.com/track/1rkibuPk7ICzB33axkx8Bc"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tras las Rejas",
         "url": "https://open.spotify.com/album/7hB1CaOKvGszWvjLKFkluN"
       },
@@ -855,22 +867,6 @@
       "duration_ms": 171000,
       "name": "Problemas Mentales",
       "url": "https://open.spotify.com/track/5eEESdRtqJYTt5flYYg3jE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LEY DE VIDA",
-        "url": "https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz"
-      },
-      "artists": [
-        {
-          "name": "Grupo Los de la O",
-          "url": "https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz"
-        }
-      ],
-      "duration_ms": 200722,
-      "name": "LEY DE VIDA",
-      "url": "https://open.spotify.com/track/3EfezkRzdn6K0WXRjZrT3J"
     }
   ],
   "unique_name": "This Is Grupo Los de la O",

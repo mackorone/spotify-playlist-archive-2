@@ -1,12 +1,12 @@
 {
   "description": "This is Mr Eazi. The essential tracks, all in one playlist.",
-  "num_followers": 21521,
+  "num_followers": 21524,
   "original_name": "This Is Mr Eazi",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAADhv/SW0zWuM3ju+trn0UWs",
+  "snapshot_id": "aq8iAAAAAADLHesx4PgFgqpLVWN7iT1m",
   "tracks": [
     {
       "added_at": null,
@@ -155,26 +155,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Colores",
-        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        },
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 186693,
-      "name": "Arco\u00edris",
-      "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Live From Nkrumah Krom Vol II: Home Run",
         "url": "https://open.spotify.com/album/2Vh06g2sKNucQUAJbUqSTh"
       },
@@ -191,6 +171,26 @@
       "duration_ms": 213360,
       "name": "Nobody",
       "url": "https://open.spotify.com/track/6YOFW94Vha0L3ph7GvT10e"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Colores",
+        "url": "https://open.spotify.com/album/2mX8ktJoWvyidWBU9U8Jis"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        },
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 186693,
+      "name": "Arco\u00edris",
+      "url": "https://open.spotify.com/track/5zzbORcD0GwLY0wQHP1Xs1"
     },
     {
       "added_at": null,
@@ -559,22 +559,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Evil Genius",
-        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        }
-      ],
-      "duration_ms": 168150,
-      "name": "Chop Time, No Friend",
-      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Life is Eazi, Vol. 2 - Lagos to London",
         "url": "https://open.spotify.com/album/76ONwEklilRE14yBV1e5td"
       },
@@ -595,6 +579,22 @@
       "duration_ms": 178106,
       "name": "Dabebi",
       "url": "https://open.spotify.com/track/63wuVACH3s92oXqKzvYBke"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Evil Genius",
+        "url": "https://open.spotify.com/album/0odZlVIliO8lwKtykjMUxG"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 168150,
+      "name": "Chop Time, No Friend",
+      "url": "https://open.spotify.com/track/4qbEAsnEwISp19ebujxhg4"
     },
     {
       "added_at": null,
@@ -711,26 +711,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Hide Your Love",
-        "url": "https://open.spotify.com/album/0oBaQIRl2fk3DYsmAA6ilx"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Dre Skull",
-          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
-        }
-      ],
-      "duration_ms": 157959,
-      "name": "Hide Your Love",
-      "url": "https://open.spotify.com/track/2yOU8KSP7dVlLBK1heneR9"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "F\u00e0\u00e0j\u00ed",
         "url": "https://open.spotify.com/album/6qPmOuoHmx9U4ZBCvMUxHt"
       },
@@ -747,6 +727,26 @@
       "duration_ms": 149741,
       "name": "F\u00e0\u00e0j\u00ed",
       "url": "https://open.spotify.com/track/1ObFmDHL5oeVzRf9uIcn09"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Hide Your Love",
+        "url": "https://open.spotify.com/album/0oBaQIRl2fk3DYsmAA6ilx"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        },
+        {
+          "name": "Dre Skull",
+          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
+        }
+      ],
+      "duration_ms": 157959,
+      "name": "Hide Your Love",
+      "url": "https://open.spotify.com/track/2yOU8KSP7dVlLBK1heneR9"
     },
     {
       "added_at": null,
@@ -1027,30 +1027,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Lambo",
-        "url": "https://open.spotify.com/album/1dCxh6mKSGZ4s6bq9TDQmG"
-      },
-      "artists": [
-        {
-          "name": "Mr Eazi",
-          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
-        },
-        {
-          "name": "Dre Skull",
-          "url": "https://open.spotify.com/artist/7xsrttFCLfrav97RsNjSPK"
-        },
-        {
-          "name": "Vybz Kartel",
-          "url": "https://open.spotify.com/artist/2NUz5P42WqkxilbI8ocN76"
-        }
-      ],
-      "duration_ms": 156734,
-      "name": "Lambo",
-      "url": "https://open.spotify.com/track/1rpShKnZmMlS1myDAtC0c8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Maison Rouge",
         "url": "https://open.spotify.com/album/3iVYEdFLoTQjndEUi2I67I"
       },
@@ -1063,6 +1039,22 @@
       "duration_ms": 156715,
       "name": "Violence",
       "url": "https://open.spotify.com/track/6T1UPPaTavTq4WlR2U9rKB"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "F1 The Album",
+        "url": "https://open.spotify.com/album/2HwRKkEp7jXbxXwcGyZYHK"
+      },
+      "artists": [
+        {
+          "name": "Mr Eazi",
+          "url": "https://open.spotify.com/artist/4TAoP0f9OuWZUesao43xUW"
+        }
+      ],
+      "duration_ms": 173149,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/5sjuPu1wyt0n5hybW07RyQ"
     }
   ],
   "unique_name": "This Is Mr Eazi",

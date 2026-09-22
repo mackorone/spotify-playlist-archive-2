@@ -1,10 +1,10 @@
 [pretty](/playlists/pretty/37i9dQZF1DXc9orRugI29r.md) - cumulative - [plain](/playlists/plain/37i9dQZF1DXc9orRugI29r) - [githistory](https://github.githistory.xyz/mackorone/spotify-playlist-archive-2/blob/main/playlists/plain/37i9dQZF1DXc9orRugI29r)
 
-### [HOT NOW \- Maluma & Shakira ](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
+### [HOT NOW \- El Bogueto](https://open.spotify.com/playlist/37i9dQZF1DXc9orRugI29r)
 
-> LAS CANCIONES MÁS 🔥🔥🔥
+> LAS CANCIONES MÁS 🔥🔥🔥 El Regreso del Bogueto Chakaaaaaaaaal
 
-1,196 songs - 2 day 15 hr 13 min
+1,197 songs - 2 day 15 hr 15 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1061,8 +1061,9 @@
 | [Timeless \(feat\. Playboi Carti & Doechii\) \- Remix](https://open.spotify.com/track/7kJyHFVVZMv1wQYRU9de9d) | [The Weeknd](https://open.spotify.com/artist/1Xyo4u8uXC1ZmMpatF05PJ), [Doechii](https://open.spotify.com/artist/4E2rKHVDssGJm2SCDOMMJB), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [Timeless \(Remix\)](https://open.spotify.com/album/0FWdxPnncm63s91g0PkTvv) | 3:48 | 2025-05-09 | 2025-05-24 |
 | [Tinnitus \(Wanna be a rock\)](https://open.spotify.com/track/0f0SbtoKGe41cX5LzlnX6X) | [TOMORROW X TOGETHER](https://open.spotify.com/artist/0ghlgldX5Dd6720Q3qFyQB) | [The Name Chapter: TEMPTATION](https://open.spotify.com/album/7gkb4MxKe9rnoR3wxbJXJg) | 2:37 | 2023-02-01 | 2023-05-12 |
 | [Tití Me Preguntó](https://open.spotify.com/track/1IHWl5LamUGEuP4ozKQSXZ) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [Un Verano Sin Ti](https://open.spotify.com/album/3RQQmkQEvNCY4prGKE6oc5) | 4:03 | 2022-11-04 | 2023-01-20 |
+| [Todas Mienten](https://open.spotify.com/track/1i4YutNLLzUJ8iyWLp3Yfe) | [El Bogueto](https://open.spotify.com/artist/3S9Hg7sRKhmtWunFZ2yAYP) | [Todas Mienten](https://open.spotify.com/album/5YKn74xV5MR54EzNiGiovW) | 2:42 | 2026-09-21 |  |
 | [Todo a Su Tiempo](https://open.spotify.com/track/4JLZyyWuvvse6xKiZqRdau) | [Neton Vega](https://open.spotify.com/artist/6pV5zH2LzjOUHaAvENdMMa) | [Todo a Su Tiempo](https://open.spotify.com/album/6kvBev4PFHNvLzWn3IMpEh) | 3:58 | 2025-01-10 | 2025-02-01 |
-| [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 | 2026-01-23 |  |
+| [Todo Lo Fue](https://open.spotify.com/track/0Sa8aRfGckW0qUGLrBwoBG) | [Lenin Ramírez](https://open.spotify.com/artist/3hTffafUYLLgO4yuPAxb5U) | [Reinicio](https://open.spotify.com/album/26p99q0JWVWzUQ98PtE2e7) | 3:12 | 2026-01-23 | 2026-09-22 |
 | [Todo My Love](https://open.spotify.com/track/0XOr0FAZIbUaxyU84o9AWJ) | [Kenia OS](https://open.spotify.com/artist/31VFEohvhOUKrtAONEBhMG) | [Todo My Love](https://open.spotify.com/album/3gdPLbvBV3OAqigyVaV7Lt) | 3:20 | 2022-08-05 | 2022-09-09 |
 | [Todo va Bien](https://open.spotify.com/track/4lVjokY2PSvcb0JTs5Tess) | [Omar Camacho](https://open.spotify.com/artist/0rUu2qzqezBrCddX1RuUyJ) | [Nunca Voy a Morir](https://open.spotify.com/album/4MsP9iWrITXsRXgW1ebsyy) | 2:34 | 2026-06-11 | 2026-07-17 |
 | [Todos nos Shipean](https://open.spotify.com/track/1oeOCmZsqxNOKTE4AWqojs) | [Fuerza Regida](https://open.spotify.com/artist/0ys2OFYzWYB5hRDLCsBqxt) | [Todos nos Shipean](https://open.spotify.com/album/3SPczqBl3VuAwAHWfHQwa4) | 2:16 | 2026-04-24 | 2026-06-11 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 
 > This is Maverick City Music\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,529 likes - 50 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,530 likes - 50 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3186ek.md) - [plain]
 | 49 | [Mi Oración \(La Niña de Tus Ojos\) \[feat\. Melody Adorno\]](https://open.spotify.com/track/7HPGVjYp7NmIEcfhPwgUB1) | [Maverick City Musica](https://open.spotify.com/artist/29lt2pgyQRRWbMqIeVHc9a), [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Melody Adorno](https://open.spotify.com/artist/43nq5HoQm5caEU9SCaO67o) | [Simple Adoración](https://open.spotify.com/album/1t1oByVYwJvDm1AI9GXtkk) | 8:35 |
 | 50 | [Nobody But Jesus \(feat\. Genavieve Linkowski & Nick Day\)](https://open.spotify.com/track/0p3j36w9WbvP9ulX7rbWQS) | [Maverick City Music](https://open.spotify.com/artist/58r1rB5t3VF5X6yXGPequV), [Song House](https://open.spotify.com/artist/4nGNf0VR9cA4lexGEflHwf), [Genavieve Linkowski](https://open.spotify.com/artist/3ZTcBbm31RFUaoTeFAuiJF), [Nick Day](https://open.spotify.com/artist/3qk6ZVoPsbOxEvOdXaoeaz) | [Nobody But Jesus \(feat\. Genavieve Linkowski & Nick Day\)](https://open.spotify.com/album/6Iu4zEbRkZYPdAaJoqPrbL) | 3:22 |
 
-Snapshot ID: `aq3QgAAAAABsQXf08DVihSWlYJM+9H6L`
+Snapshot ID: `aq8iAAAAAABkEt+1evROlIp9661FxvhG`

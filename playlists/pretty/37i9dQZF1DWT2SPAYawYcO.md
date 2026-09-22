@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 
 > Brand new music from Troye Sivan, Miley Cyrus, Dominic Fike, Emma Ogier, beabadoobee, Travis Scott + more
 
-[Spotify](https://open.spotify.com/user/spotify) - 459,629 likes - 102 songs - 5 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 459,603 likes - 102 songs - 5 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -97,7 +97,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT2SPAYawYcO.md) - [plain]
 | 87 | [True Love In Holland](https://open.spotify.com/track/35p8yu9BsZ82qLWE3PcHs5) | [Porcelain Boy](https://open.spotify.com/artist/6iQ4UCzbPgv9fb3zrG6GiX) | [VIOLENT & BRIGHT / True Love In Holland](https://open.spotify.com/album/7Mf8zRerzCToyAlEjT5OyH) | 2:33 |
 | 88 | [Company](https://open.spotify.com/track/1VixD42StOF93a1naJMGnb) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Company](https://open.spotify.com/album/1tHG3rISWudn1FJoDjV56d) | 2:52 |
 | 89 | [Tallahassee](https://open.spotify.com/track/3Kwdvrz5PTUpAObYKNPlz0) | [Jamie T](https://open.spotify.com/artist/3Rsr4Z96O6U3lToOiV3zBh) | [Tallahassee](https://open.spotify.com/album/1b5PANP3tfdYM5EKJpU0y9) | 4:25 |
-| 90 | [2AM In Colorado](https://open.spotify.com/track/1ygHJo3iSmqytTEErg0us5) | [KO Kelly](https://open.spotify.com/artist/5fAIoYrBiGhcDfgVsQ9Co8), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq) | [2AM In Colorado](https://open.spotify.com/album/6GIgjx1UOZgPk33S7lRPmH) | 3:49 |
+| 90 | [2AM In Colorado](https://open.spotify.com/track/1ygHJo3iSmqytTEErg0us5) | [KO Kelly](https://open.spotify.com/artist/5fAIoYrBiGhcDfgVsQ9Co8), [Dizzy Wright](https://open.spotify.com/artist/1LrWZc2qPhRCHyr6XtpBxq), [Stevie Stone](https://open.spotify.com/artist/2IvPBSC4CgNLYC1GHEAxcN) | [2AM In Colorado](https://open.spotify.com/album/6GIgjx1UOZgPk33S7lRPmH) | 3:49 |
 | 91 | [LET ME IN](https://open.spotify.com/track/29yce0XPCBsgvOQRLn8cnK) | [Pixie Lane](https://open.spotify.com/artist/3Br6ncRU4z030LyHPpfflF) | [LET ME IN](https://open.spotify.com/album/5mBzRZ2vR4tYc3bnGkjJOZ) | 3:29 |
 | 92 | [in your system](https://open.spotify.com/track/7uW6lqtu88nUWi5C8DHosF) | [Charlie Pittman](https://open.spotify.com/artist/2c4LNcrWUBi3z18mTTs5ly) | [in your system](https://open.spotify.com/album/53vXgKzoABPGXG1byS9KyL) | 2:26 |
 | 93 | [seven days a week](https://open.spotify.com/track/4UzCI5OvAhczflItEGqfyU) | [Amistat](https://open.spotify.com/artist/24gClotFFIb7genYn5C3OU) | [everything in between](https://open.spotify.com/album/5TBc9Vjb515B9nTLCuMuJO) | 3:33 |

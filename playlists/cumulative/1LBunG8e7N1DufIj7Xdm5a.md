@@ -4,7 +4,7 @@
 
 > playlist spotify free
 
-4,787 songs - 10 day 19 hr 5 min
+4,789 songs - 10 day 19 hr 13 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1116,6 +1116,7 @@
 | [Disfraz](https://open.spotify.com/track/6px55UKbJjmJkd5tvN3If6) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Tornasol](https://open.spotify.com/album/0LPohpqvg6wkGEioAs7aaC) | 3:10 | 2025-07-29 |  |
 | [Distant City Lights](https://open.spotify.com/track/6AcQDmsEEaSRAmyt3HXCx3) | [Labean Dreams](https://open.spotify.com/artist/4WOzApZ1D3ngpRaH9Qz0h6) | [Quiet Hours](https://open.spotify.com/album/1TS5WFpjEkERzNocaSz1hH) | 2:15 | 2025-06-05 |  |
 | [Distractor](https://open.spotify.com/track/0RcW4JVawac6ZoON71atbs) | [returnthemap](https://open.spotify.com/artist/6F3N9QmbCAjRGbxTF5Hvug) | [Distractor](https://open.spotify.com/album/0RitxJpTiPwJxZ3UOdygBt) | 4:33 | 2025-04-30 |  |
+| [Diva](https://open.spotify.com/track/3hIZPGjs9TryQuYdKhWEQo) | [Dubba](https://open.spotify.com/artist/1uGBqCecbXldhYptbL4HC5) | [Diva](https://open.spotify.com/album/5gMLNzsHMNdNMkPqoMGhz1) | 2:57 | 2026-09-21 |  |
 | [Divagar](https://open.spotify.com/track/2JFjeakLGQSZZ1OdOY4WqI) | [Lenoise](https://open.spotify.com/artist/1zbtdItCDLhQLlyL3ASTZG) | [Claroscuro](https://open.spotify.com/album/3w4KZQa7mGwhjPhuFAWR8P) | 3:33 | 2025-12-23 |  |
 | [Divide](https://open.spotify.com/track/5dsHDEtCMqELLu9cC0KCic) | [Tilt 360](https://open.spotify.com/artist/32oplagvPK0sLgWgOm5u2x) | [Blindspot](https://open.spotify.com/album/0mwDzmvlLD8w6XiMURxOiv) | 3:33 | 2025-11-26 |  |
 | [DIY Till I Die](https://open.spotify.com/track/4CD0MYDmHQpyIbkAebAb85) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 1:59 | 2025-09-19 |  |
@@ -3493,6 +3494,7 @@
 | [Science Fiction \- Single Version](https://open.spotify.com/track/25Jg6PxIEgjmvtr89RjbkZ) | [The Wedding Present](https://open.spotify.com/artist/4tyCvqG48h4LdcbFfWBjR9) | [Science Fiction](https://open.spotify.com/album/120i1NW38IiNKlyUC1sC41) | 4:30 | 2025-11-05 |  |
 | [Scorze di limone \- Radio Edit](https://open.spotify.com/track/78qwwWK2uQR2ZVPYKXxHws) | [Bumbart Dj](https://open.spotify.com/artist/2Ft53dnGW9FNcHT5rsR2L9) | [Scorze di limone \(Radio Edit\)](https://open.spotify.com/album/0n8xpYtyU6NwDu01S8a3aE) | 3:27 | 2025-03-21 |  |
 | [Screaming in Stereo](https://open.spotify.com/track/6gKpoqiqk4Jz4XCjIYoKB7) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Old school punk](https://open.spotify.com/album/7HRvEw1JJpUpB1CmseoZZQ) | 1:47 | 2025-09-19 |  |
+| [Screen](https://open.spotify.com/track/4EhKad8chQTN4Zv4qCtezw) | [Concourse](https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe) | [Screen](https://open.spotify.com/album/1SkEaZVIL9la1xOctdrvsH) | 4:54 | 2026-09-21 |  |
 | [Scroll and stare \#Music \#NewMusic \#Viral](https://open.spotify.com/track/7bMgMi01uLdOhZvBf0rYll) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Social network compilation \#Music \#NewMusic \#Viral](https://open.spotify.com/album/6PLoJqof88o7kLeL1ycWZg) | 2:29 | 2025-09-17 |  |
 | [Scroll and stare \(another\) \#Music \#NewMusic \#Viral](https://open.spotify.com/track/4gpfkohKlC8kdp2Qqptal8) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Social network compilation \#Music \#NewMusic \#Viral](https://open.spotify.com/album/6PLoJqof88o7kLeL1ycWZg) | 3:11 | 2025-09-17 |  |
 | [Scroll fever \#Music \#NewMusic \#Viral](https://open.spotify.com/track/6Cf4jGAmzTMgRA9TYYkPKZ) | [Absinthe SV](https://open.spotify.com/artist/3Cv96sBI0A62ZHVRDR2aj1) | [Social network compilation \#Music \#NewMusic \#Viral](https://open.spotify.com/album/6PLoJqof88o7kLeL1ycWZg) | 3:04 | 2025-09-17 |  |

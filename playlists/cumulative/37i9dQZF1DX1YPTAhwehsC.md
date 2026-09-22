@@ -4,7 +4,7 @@
 
 > Up and down I\-95\. Cover: Cash Cobain
 
-2,160 songs - 4 day 2 hr 13 min
+2,161 songs - 4 day 2 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -180,7 +180,7 @@
 | [Bad Days \(feat\. Sleepy Hallow\)](https://open.spotify.com/track/3uTd2Vf1GiVLsxFfzzeSim) | [Eli Fross](https://open.spotify.com/artist/6Vy1VMVCyTgbcmA1iz0QFg), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV) | [The Golden Child](https://open.spotify.com/album/5JtuaEXZo0QZ2scZGo7QVn) | 3:27 | 2022-07-22 | 2022-11-05 |
 | [BAD GUY](https://open.spotify.com/track/2iijN864tg1fz4OxklAieE) | [BIA](https://open.spotify.com/artist/6veh5zbFpm31XsPdjBgPER) | [BIANCA](https://open.spotify.com/album/7wmeALlMQDyo4HeNwf5EVV) | 2:18 | 2025-10-10 | 2025-12-06 |
 | [Bad Guy \(feat\. Dave East & Klass Murda\)](https://open.spotify.com/track/5DOGrRzvlXXAWtIWOMYwox) | [Benny The Butcher](https://open.spotify.com/artist/5Matrg5du62bXwer29cU5T), [38 Spesh](https://open.spotify.com/artist/32cT1WQRSDg4xsReG7eqyT), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S), [Dave East](https://open.spotify.com/artist/7e10JUMF7MJmmwYpnTSMI5), [Klass Murda](https://open.spotify.com/artist/3hJyF50noqrm36ZjBid67k) | [STABBED & SHOT 2](https://open.spotify.com/album/5TQOBBsanvWHldiUnPSy54) | 3:50 | 2024-10-18 | 2024-11-30 |
-| [Bad Role Model 2](https://open.spotify.com/track/1zYaAO7ZLLh2Q3A2trqJQq) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Bad Role Model 2](https://open.spotify.com/album/6553XMCHSPHetIz9kWjNtO) | 2:14 | 2026-08-28 |  |
+| [Bad Role Model 2](https://open.spotify.com/track/1zYaAO7ZLLh2Q3A2trqJQq) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Bad Role Model 2](https://open.spotify.com/album/6553XMCHSPHetIz9kWjNtO) | 2:14 | 2026-08-28 | 2026-09-22 |
 | [BAD TIME](https://open.spotify.com/track/1D9XWqsoNWIfLEzjHcrgMx) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [PLAN A](https://open.spotify.com/album/6uWva3kfeqqVIsNAJ2MmeL) | 3:30 | 2024-11-08 | 2025-04-12 |
 | [BAD TIME](https://open.spotify.com/track/2HrgD87YHrINdWlEU7o0gn) | [Lil Tecca](https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo) | [BAD TIME](https://open.spotify.com/album/0j8IPQxwlRChALfwro711D) | 3:30 | 2024-08-30 | 2024-11-09 |
 | [Bad Wrist](https://open.spotify.com/track/28t4yiKvtfV47jgybWcidm) | [Lil Tjay](https://open.spotify.com/artist/6jGMq4yGs7aQzuGsMgVgZR) | [They Just Ain't You](https://open.spotify.com/album/7JxNts9ZhHN2VvQ0NKU0tj) | 2:07 | 2026-05-01 |  |
@@ -1157,6 +1157,7 @@
 | [Loyalty \(feat\. Internet Money\)](https://open.spotify.com/track/7uvCi4BwD5xr0hkMNoEH2n) | [22Gz](https://open.spotify.com/artist/4JhbRL6zaItAyzqx4gHTqz), [Internet Money](https://open.spotify.com/artist/6MPCFvOQv5cIGfw3jODMF0) | [The Blixky Tape 2 \(Deluxe\)](https://open.spotify.com/album/5AeTBSf9ogUyItM9wLQK9u) | 2:00 | 2022-02-25 | 2022-04-29 |
 | [LTS](https://open.spotify.com/track/15QCRY4QkdNU8ypHsjF51g) | [Fat Trel](https://open.spotify.com/artist/1SncSgYiDk2kCBBaXIYcwd) | [LTS](https://open.spotify.com/album/1BCdultFrjTOTthBMZlHHh) | 2:24 | 2026-02-20 | 2026-03-28 |
 | [Lucky \(feat\. Bay Swag\)](https://open.spotify.com/track/3tz0qtH84pBaJNAIhNxLHu) | [Sheff G](https://open.spotify.com/artist/1tG7s7S4sq2eFFW0QZyLbm), [Sleepy Hallow](https://open.spotify.com/artist/6EPlBSH2RSiettczlz7ihV), [Bay Swag](https://open.spotify.com/artist/0ShmUyGC785pMDaRdP5Sap) | [Lucky \(feat\. Bay Swag\)](https://open.spotify.com/album/0ocwA2O6QfLP9AgADTlYdt) | 2:59 | 2025-09-12 | 2026-04-04 |
+| [Lucy](https://open.spotify.com/track/34YbeTCBe5iYjW1KJbjmzS) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Lucy](https://open.spotify.com/album/5v8hjldMShvQWxLvUfLFkN) | 2:13 | 2026-09-21 |  |
 | [Luv 4 My Block](https://open.spotify.com/track/7M1kT1qfYZjE8L2Bik8eUO) | [Sha EK](https://open.spotify.com/artist/3jVAqTL4NbB88q4lj94VX9), [Defiant Presents](https://open.spotify.com/artist/6kOvJAZH29zNIKqPLOEC65) | [Luv 4 My Block](https://open.spotify.com/album/6HV4YhvKzdeFJaHKaIB594) | 1:21 | 2023-03-24 | 2024-03-23 |
 | [Luv Me Again](https://open.spotify.com/track/6jXaJ37W4yKIBOEMpjGlli) | [PnB Rock](https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM) | [Luv Me Again](https://open.spotify.com/album/5eJKFgn1w9nPytqjnt1x0s) | 2:07 | 2022-09-02 | 2022-12-03 |
 | [Luv U Better](https://open.spotify.com/track/63CGufSOiD68JBaPEpSLEh) | [Maiya The Don](https://open.spotify.com/artist/6S6u5pS5ywg7rv50rhpobQ), [Shawny Binladen](https://open.spotify.com/artist/0JfrGVffhKwF36QHW9HXOL) | [Hot Commodity](https://open.spotify.com/album/7izAmu5sQIaqaKtXmqW5Dl) | 2:27 | 2024-01-12 | 2024-01-20 |

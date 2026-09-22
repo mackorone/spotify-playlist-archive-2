@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWT0upuUFtT7o.md) - [plain]
 
 > The best new indie tracks from independent artists & labels\. Cover: Coco Elise
 
-[Spotify](https://open.spotify.com/user/spotify) - 258,556 likes - 91 songs - 5 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,601 likes - 91 songs - 5 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

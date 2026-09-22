@@ -1,12 +1,12 @@
 {
   "description": "\u6b4c\u8a5e\u3092\u898b\u306a\u304c\u3089\u3001\u30d2\u30c3\u30c8\u66f2\u3092\u6b4c\u3044\u5c3d\u304f\u305d\u3046 \uff01",
-  "num_followers": 202501,
+  "num_followers": 202523,
   "original_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOOTLxaHuavwE4ln5Z2skyPkYTgQ",
+  "snapshot_id": "AAAAAAMZV/K6vFoqGzYk2BnqyS3b3O9r",
   "tracks": [
     {
       "added_at": "2026-09-14 08:03:44",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2026-09-14 08:03:44",
       "album": {
-        "name": "STARRING",
-        "url": "https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM"
-      },
-      "artists": [
-        {
-          "name": "King & Prince",
-          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
-        }
-      ],
-      "duration_ms": 200226,
-      "name": "Theater",
-      "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
-    },
-    {
-      "added_at": "2026-09-14 08:03:44",
-      "album": {
         "name": "\u771f\u590f\u306e\u679c\u5b9f",
         "url": "https://open.spotify.com/album/6yqQMQGUPlrEHUC8WHHwp1"
       },
@@ -1399,22 +1383,6 @@
       "duration_ms": 279300,
       "name": "\u771f\u590f\u306e\u679c\u5b9f",
       "url": "https://open.spotify.com/track/3AVLsBieDGotYuo5RPEL64"
-    },
-    {
-      "added_at": "2026-09-14 08:03:44",
-      "album": {
-        "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
-        "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
-      },
-      "artists": [
-        {
-          "name": "Sheena Ringo",
-          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
-        }
-      ],
-      "duration_ms": 235866,
-      "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
-      "url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL"
     },
     {
       "added_at": "2026-09-14 08:03:44",
@@ -1435,6 +1403,22 @@
     {
       "added_at": "2026-09-14 08:03:44",
       "album": {
+        "name": "\u7121\u7f6a\u30e2\u30e9\u30c8\u30ea\u30a2\u30e0",
+        "url": "https://open.spotify.com/album/2GPMPtwaSjGKvQ5zZui7s2"
+      },
+      "artists": [
+        {
+          "name": "Sheena Ringo",
+          "url": "https://open.spotify.com/artist/2XjqKvB2Xz9IdyjWPIHaXi"
+        }
+      ],
+      "duration_ms": 235866,
+      "name": "\u4e38\u30ce\u5185\u30b5\u30c7\u30a3\u30b9\u30c6\u30a3\u30c3\u30af",
+      "url": "https://open.spotify.com/track/1mWN1USPKg632qQXG9sfDL"
+    },
+    {
+      "added_at": "2026-09-14 08:03:44",
+      "album": {
         "name": "Mela!",
         "url": "https://open.spotify.com/album/1a6MAP1V8kZfvmLFzhn0QG"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 242066,
       "name": "Mela!",
       "url": "https://open.spotify.com/track/6IO5nn84TKArsi3cjpIqaD"
+    },
+    {
+      "added_at": "2026-09-14 08:03:44",
+      "album": {
+        "name": "STARRING",
+        "url": "https://open.spotify.com/album/32NZKUbT5ls5kYZy1j6yAM"
+      },
+      "artists": [
+        {
+          "name": "King & Prince",
+          "url": "https://open.spotify.com/artist/1nzId6SLDDTUTRV7lNbgxp"
+        }
+      ],
+      "duration_ms": 200226,
+      "name": "Theater",
+      "url": "https://open.spotify.com/track/6iltt0n1DkQ0AtCcwxXNZJ"
     },
     {
       "added_at": "2026-09-14 08:03:44",
@@ -1563,6 +1563,22 @@
     {
       "added_at": "2026-09-14 08:03:44",
       "album": {
+        "name": "MIC\uff0dA\u30fcHOLIC A\uff0eI\uff0e",
+        "url": "https://open.spotify.com/album/0MoIsl3FcGMAefu4Jldv51"
+      },
+      "artists": [
+        {
+          "name": "AI",
+          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+        }
+      ],
+      "duration_ms": 288506,
+      "name": "Story",
+      "url": "https://open.spotify.com/track/0V2axJ946WH1vt9t5SGMLV"
+    },
+    {
+      "added_at": "2026-09-14 08:03:44",
+      "album": {
         "name": "LOVE COOK",
         "url": "https://open.spotify.com/album/1QxbZHEnnPpSRobXGQBjaZ"
       },
@@ -1595,34 +1611,18 @@
     {
       "added_at": "2026-09-14 08:03:44",
       "album": {
-        "name": "MIC\uff0dA\u30fcHOLIC A\uff0eI\uff0e",
-        "url": "https://open.spotify.com/album/0MoIsl3FcGMAefu4Jldv51"
+        "name": "\u7a7a\u5275\u30af\u30ea\u30c3\u30d7",
+        "url": "https://open.spotify.com/album/1FNUB07yBe3CJwXUQQoOdh"
       },
       "artists": [
         {
-          "name": "AI",
-          "url": "https://open.spotify.com/artist/0aD7NQx7yauKlVDnqOxk6q"
+          "name": "Sukima Switch",
+          "url": "https://open.spotify.com/artist/0wRzWf3I4lUl9hdFF5uL0m"
         }
       ],
-      "duration_ms": 288506,
-      "name": "Story",
-      "url": "https://open.spotify.com/track/0V2axJ946WH1vt9t5SGMLV"
-    },
-    {
-      "added_at": "2026-09-14 08:03:44",
-      "album": {
-        "name": "Bad Girl",
-        "url": "https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH"
-      },
-      "artists": [
-        {
-          "name": "HANA",
-          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
-        }
-      ],
-      "duration_ms": 214045,
-      "name": "Bad Girl",
-      "url": "https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo"
+      "duration_ms": 272746,
+      "name": "\u5168\u529b\u5c11\u5e74",
+      "url": "https://open.spotify.com/track/3Ztjw8utVpcrzms1RrsJvR"
     },
     {
       "added_at": "2026-09-14 08:03:44",
@@ -1643,18 +1643,18 @@
     {
       "added_at": "2026-09-14 08:03:44",
       "album": {
-        "name": "\u30aa\u30ec\u30f3\u30b8",
-        "url": "https://open.spotify.com/album/4bpX1Wi81FjZ4d0GFlO1y3"
+        "name": "Bad Girl",
+        "url": "https://open.spotify.com/album/3v96qe3pw2Jz8xw0BrNXAH"
       },
       "artists": [
         {
-          "name": "SPYAIR",
-          "url": "https://open.spotify.com/artist/7gRg6C2qgQ1F01k3sgyEVt"
+          "name": "HANA",
+          "url": "https://open.spotify.com/artist/7fmXV2O48buswss04YetaN"
         }
       ],
-      "duration_ms": 235206,
-      "name": "\u30aa\u30ec\u30f3\u30b8",
-      "url": "https://open.spotify.com/track/6M6ZNRplLNspFEn6Ab3mOv"
+      "duration_ms": 214045,
+      "name": "Bad Girl",
+      "url": "https://open.spotify.com/track/2bLQ0HMyuUWI7uPRzCy5Lo"
     }
   ],
   "unique_name": "\u6b4c\u3046\u30dd\u30c3\u30d7\u30d2\u30c3\u30c4 - Sing-Along -",

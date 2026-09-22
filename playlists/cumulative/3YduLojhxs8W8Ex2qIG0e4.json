@@ -135,6 +135,24 @@
     },
     {
       "album": {
+        "name": "By My Side",
+        "url": "https://open.spotify.com/album/1SnyFAQDJpiM6CLCoZRz9W"
+      },
+      "artists": [
+        {
+          "name": "QRU",
+          "url": "https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 257032,
+      "name": "By My Side",
+      "url": "https://open.spotify.com/track/4r5fn2oVjZ56MnXszYHe8R"
+    },
+    {
+      "album": {
         "name": "Completely Justified",
         "url": "https://open.spotify.com/album/0FunPrSM4W7q9kD3WqD3cH"
       },
@@ -1440,6 +1458,28 @@
       "duration_ms": 150072,
       "name": "Your Girl's Upstairs",
       "url": "https://open.spotify.com/track/2e0mRX40r0777VSfnyzhWa"
+    },
+    {
+      "album": {
+        "name": "You\u00b4re Still Raising Me",
+        "url": "https://open.spotify.com/album/2tPWzSuJJiYbgSLK4Duzu8"
+      },
+      "artists": [
+        {
+          "name": "Donna Martin Graduates",
+          "url": "https://open.spotify.com/artist/647162B5EXRPXNNVffPt1C"
+        },
+        {
+          "name": "Burnt Log",
+          "url": "https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 249666,
+      "name": "You\u00b4re Still Raising Me",
+      "url": "https://open.spotify.com/track/43FdTfz44Q8QkTR7XhpoFn"
     },
     {
       "album": {

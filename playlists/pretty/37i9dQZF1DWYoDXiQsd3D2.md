@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 
 > look up, dream on, drift off...
 
-[Spotify](https://open.spotify.com/user/spotify) - 127,753 likes - 160 songs - 9 hr 37 min
+[Spotify](https://open.spotify.com/user/spotify) - 127,780 likes - 160 songs - 9 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,7 +27,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoDXiQsd3D2.md) - [plain]
 | 17 | [Spring](https://open.spotify.com/track/5b1GHRn5A3gIzcq8QbcSEH) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Spring](https://open.spotify.com/album/5XhJLua2stZmti8zml9O4G) | 3:06 |
 | 18 | [L'Écluse](https://open.spotify.com/track/6Xyd68r92sQdkxIkKkt1k3) | [Antonin Fourrier](https://open.spotify.com/artist/29ug8nIdqAncTzMXiO2pNE), [Tom Merrall](https://open.spotify.com/artist/6yA3IxrqgMBl7qOZDJZ3hG) | [L'Écluse](https://open.spotify.com/album/1TxTzgGtsPaQvH1kgd2PKp) | 2:10 |
 | 19 | [Through Northern Skies](https://open.spotify.com/track/1uq57BHsrdo2mzGK6ifqOs) | [Charlie Jefferson](https://open.spotify.com/artist/4Iz3aB0M8UTyMsq2K4r3NI) | [Jumping Off Point](https://open.spotify.com/album/28hsmt1fePyM0zIB00CcfX) | 3:40 |
-| 20 | [Tanpinar Museum](https://open.spotify.com/track/5Kyr1KYjLY2tq2GmN93Zp7) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Beyond Walls / Istanbul](https://open.spotify.com/album/05D1Ir0QCHnvMSGc2Otz9t) | 4:20 |
+| 20 | [Tanpınar Museum](https://open.spotify.com/track/5Kyr1KYjLY2tq2GmN93Zp7) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Beyond Walls / Istanbul](https://open.spotify.com/album/05D1Ir0QCHnvMSGc2Otz9t) | 4:20 |
 | 21 | [Immersion](https://open.spotify.com/track/3g5k3DuczrXtyZmTizPQuY) | [Christian Forshaw](https://open.spotify.com/artist/3hb2rYbbTMlvmd42CCH3kJ), [Grace Davidson](https://open.spotify.com/artist/1J87mxfzE58rZLrRIOx5I5) | [Immersion](https://open.spotify.com/album/6gXXWxVIieGLDwm9Otfj0r) | 3:10 |
 | 22 | [Calma](https://open.spotify.com/track/1kVGIwMtkoaZKG7rAJvpYs) | [Suena](https://open.spotify.com/artist/3ZCy1ehzbzEAcpcHnHJYXd) | [Calma](https://open.spotify.com/album/0T1VpvIZIlSGKIGna6jmf2) | 2:43 |
 | 23 | [Interlude](https://open.spotify.com/track/1E5lyA6z8rJY0wJioSLDAA) | [ABBOTT](https://open.spotify.com/artist/5CU8kbEERwvAfRatCVyPnt), [Canea Quartett](https://open.spotify.com/artist/2fDDFvi81fsu9osi2VhvNe) | [Interlude](https://open.spotify.com/album/2YtcUdOezNYBzIsWDGGcJN) | 3:38 |

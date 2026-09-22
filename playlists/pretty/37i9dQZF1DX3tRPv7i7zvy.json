@@ -1,6 +1,6 @@
 {
   "description": "We Outsideeeee!",
-  "num_followers": 22550,
+  "num_followers": 22565,
   "original_name": "Abonten ",
   "owner": {
     "name": "Spotify",
@@ -47,6 +47,26 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
+        "name": "Where We Come From, Vol. 01",
+        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        },
+        {
+          "name": "EMPIRE",
+          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
+        }
+      ],
+      "duration_ms": 152283,
+      "name": "Run",
+      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
         "name": "Escaladizzy II",
         "url": "https://open.spotify.com/album/0DSBgUcKAyKmto3gkKDqUu"
       },
@@ -71,26 +91,6 @@
       "duration_ms": 213559,
       "name": "Escaladizzy II",
       "url": "https://open.spotify.com/track/2h1aaSSMUspQfHKDl5uISY"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
-        "name": "Where We Come From, Vol. 01",
-        "url": "https://open.spotify.com/album/6w7LwKRKvtm3XjmUCvhVWO"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        },
-        {
-          "name": "EMPIRE",
-          "url": "https://open.spotify.com/artist/3hPFJ4ShHVEAaL689YeblD"
-        }
-      ],
-      "duration_ms": 152283,
-      "name": "Run",
-      "url": "https://open.spotify.com/track/5pXffsFBnfGGFG7Gjz7moX"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -159,6 +159,22 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
+        "name": "PopStar",
+        "url": "https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 156781,
+      "name": "PopStar",
+      "url": "https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
         "name": "Run Away (OMALICHA)",
         "url": "https://open.spotify.com/album/6ujoM3aPviamfNBV7qCpTh"
       },
@@ -179,34 +195,18 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "PopStar",
-        "url": "https://open.spotify.com/album/7KZIeyxwBz47w5bWbAF7XL"
+        "name": "Gen Z",
+        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
       },
       "artists": [
         {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
         }
       ],
-      "duration_ms": 156781,
-      "name": "PopStar",
-      "url": "https://open.spotify.com/track/2LO82nA2HMBbwqs0KNUeMx"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
-        "name": "Xtra Cool",
-        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
-      },
-      "artists": [
-        {
-          "name": "Young Jonn",
-          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
-        }
-      ],
-      "duration_ms": 150000,
-      "name": "Xtra Cool",
-      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+      "duration_ms": 145555,
+      "name": "Gen Z",
+      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -231,6 +231,22 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
+        "name": "Xtra Cool",
+        "url": "https://open.spotify.com/album/0VCIXWb1BjfOfBOLJTOOUL"
+      },
+      "artists": [
+        {
+          "name": "Young Jonn",
+          "url": "https://open.spotify.com/artist/4JM1zsVj1pt38Q8mhv5teI"
+        }
+      ],
+      "duration_ms": 150000,
+      "name": "Xtra Cool",
+      "url": "https://open.spotify.com/track/5F4OfeowSReF93KcH2eUcG"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
         "name": "Puul",
         "url": "https://open.spotify.com/album/7KKdwqiI0wG0pzpaDN7cTj"
       },
@@ -247,18 +263,18 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Gen Z",
-        "url": "https://open.spotify.com/album/34STIRb3phz57BiNq4JV3l"
+        "name": "SOMETHING",
+        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
       },
       "artists": [
         {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+          "name": "Gyakie",
+          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
         }
       ],
-      "duration_ms": 145555,
-      "name": "Gen Z",
-      "url": "https://open.spotify.com/track/5RsAzTqMKaOHAKVvkyzIP4"
+      "duration_ms": 188411,
+      "name": "SOMETHING",
+      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -275,22 +291,6 @@
       "duration_ms": 161639,
       "name": "Soma Obi",
       "url": "https://open.spotify.com/track/6QLkRE9Px8RvInJGvms5X6"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
-        "name": "SOMETHING",
-        "url": "https://open.spotify.com/album/3Qmuuv3vABDE0tTJ1vUO8D"
-      },
-      "artists": [
-        {
-          "name": "Gyakie",
-          "url": "https://open.spotify.com/artist/1zO1FWFxxNUCqUuGATxZQZ"
-        }
-      ],
-      "duration_ms": 188411,
-      "name": "SOMETHING",
-      "url": "https://open.spotify.com/track/1s2FsIDYlX6nhQ6UXF4V2w"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -335,6 +335,26 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
+        "name": "Darkest Style",
+        "url": "https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3"
+      },
+      "artists": [
+        {
+          "name": "D Global",
+          "url": "https://open.spotify.com/artist/4FQzUw5iPegRxTuJyKphkY"
+        },
+        {
+          "name": "Lasmid",
+          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
+        }
+      ],
+      "duration_ms": 138053,
+      "name": "Darkest Style",
+      "url": "https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
         "name": "JUNCTION",
         "url": "https://open.spotify.com/album/4NHInxPNr71YfYTLl90XNe"
       },
@@ -355,26 +375,6 @@
       "duration_ms": 169411,
       "name": "CUTLASS",
       "url": "https://open.spotify.com/track/5jD8HMgbV74dlOA7WZdK1I"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
-        "name": "Darkest Style",
-        "url": "https://open.spotify.com/album/7GvXEXzV1KzVVicSTLcge3"
-      },
-      "artists": [
-        {
-          "name": "D Global",
-          "url": "https://open.spotify.com/artist/4FQzUw5iPegRxTuJyKphkY"
-        },
-        {
-          "name": "Lasmid",
-          "url": "https://open.spotify.com/artist/3WDXKsCKcxJhvrvpdg5IGI"
-        }
-      ],
-      "duration_ms": 138053,
-      "name": "Darkest Style",
-      "url": "https://open.spotify.com/track/1PcHLgffCAgtPcHjFkIM0W"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -607,22 +607,6 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Find A Way",
-        "url": "https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK"
-      },
-      "artists": [
-        {
-          "name": "Black Sherif",
-          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
-        }
-      ],
-      "duration_ms": 154838,
-      "name": "Find A Way",
-      "url": "https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
         "name": "Holiday / Reason You",
         "url": "https://open.spotify.com/album/0MscDmFA5ibrxKmm0RiKpd"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 159100,
       "name": "Holiday",
       "url": "https://open.spotify.com/track/5yFhfeO5k8RuGLspbDCQlz"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
+        "name": "Find A Way",
+        "url": "https://open.spotify.com/album/2ecM4rRHCVgxRGB5RZV5yK"
+      },
+      "artists": [
+        {
+          "name": "Black Sherif",
+          "url": "https://open.spotify.com/artist/2LiqbH7OhqP0yuaG8VL1wJ"
+        }
+      ],
+      "duration_ms": 154838,
+      "name": "Find A Way",
+      "url": "https://open.spotify.com/track/3ioVE7SKMzbgrkhcCiTKWB"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -755,26 +755,6 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "The Championship",
-        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
-      },
-      "artists": [
-        {
-          "name": "Sarkodie",
-          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
-        },
-        {
-          "name": "Beeztrap KOTM",
-          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
-        }
-      ],
-      "duration_ms": 203077,
-      "name": "AMEN",
-      "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
         "name": "TSOOBI (AKONOBA)",
         "url": "https://open.spotify.com/album/298RAd7DjwBSO2PYx9NEIV"
       },
@@ -819,6 +799,26 @@
       "duration_ms": 174349,
       "name": "Wonda Boy",
       "url": "https://open.spotify.com/track/6qY996418IU4NbyI0ibC8U"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
+        "name": "The Championship",
+        "url": "https://open.spotify.com/album/5n8qjShh7JbArXrVMfJ4Cp"
+      },
+      "artists": [
+        {
+          "name": "Sarkodie",
+          "url": "https://open.spotify.com/artist/01DTVE3KmoPogPZaOvMqO8"
+        },
+        {
+          "name": "Beeztrap KOTM",
+          "url": "https://open.spotify.com/artist/39IXXExWT64CmkWwkO2ANn"
+        }
+      ],
+      "duration_ms": 203077,
+      "name": "AMEN",
+      "url": "https://open.spotify.com/track/0GzT6ee1Maf91W2f737jex"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -1019,6 +1019,22 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
+        "name": "Only You",
+        "url": "https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T"
+      },
+      "artists": [
+        {
+          "name": "Fameye",
+          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
+        }
+      ],
+      "duration_ms": 174717,
+      "name": "Only You",
+      "url": "https://open.spotify.com/track/6cYUGGEDcAouyCx8LJk8SG"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
         "name": "Exopa",
         "url": "https://open.spotify.com/album/1VPdhKOOdHoiDI7OGoFZS9"
       },
@@ -1035,22 +1051,6 @@
       "duration_ms": 190515,
       "name": "Exopa",
       "url": "https://open.spotify.com/track/74A0vehdP6e2ccKt7SRiRb"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
-        "name": "Only You",
-        "url": "https://open.spotify.com/album/5zj0HDCApqZ7ZSVwJxzD7T"
-      },
-      "artists": [
-        {
-          "name": "Fameye",
-          "url": "https://open.spotify.com/artist/3qzyWumjTf8agsBgNTkx7L"
-        }
-      ],
-      "duration_ms": 174717,
-      "name": "Only You",
-      "url": "https://open.spotify.com/track/6cYUGGEDcAouyCx8LJk8SG"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -1075,22 +1075,6 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "BOUNCE",
-        "url": "https://open.spotify.com/album/0mdQI91TjgOdXkAmKLoB9J"
-      },
-      "artists": [
-        {
-          "name": "KOJO BLAK",
-          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
-        }
-      ],
-      "duration_ms": 153782,
-      "name": "BOUNCE",
-      "url": "https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX"
-    },
-    {
-      "added_at": "2026-08-28 00:02:11",
-      "album": {
         "name": "Sneaky",
         "url": "https://open.spotify.com/album/4AaZnGqzpA2o47uXxrHt0o"
       },
@@ -1107,18 +1091,18 @@
     {
       "added_at": "2026-08-28 00:02:11",
       "album": {
-        "name": "Ruwa",
-        "url": "https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA"
+        "name": "BOUNCE",
+        "url": "https://open.spotify.com/album/0mdQI91TjgOdXkAmKLoB9J"
       },
       "artists": [
         {
-          "name": "Jubed",
-          "url": "https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC"
+          "name": "KOJO BLAK",
+          "url": "https://open.spotify.com/artist/6h7BNyws6Z0ISo5JfgdCnW"
         }
       ],
-      "duration_ms": 166779,
-      "name": "Ruwa",
-      "url": "https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb"
+      "duration_ms": 153782,
+      "name": "BOUNCE",
+      "url": "https://open.spotify.com/track/3BDCe3gcBmfH1AbG5c46gX"
     },
     {
       "added_at": "2026-08-28 00:02:11",
@@ -1135,6 +1119,22 @@
       "duration_ms": 202540,
       "name": "Praise",
       "url": "https://open.spotify.com/track/6vuItm60bi4U9UOgvYanSp"
+    },
+    {
+      "added_at": "2026-08-28 00:02:11",
+      "album": {
+        "name": "Ruwa",
+        "url": "https://open.spotify.com/album/6IMUdJjnOEELJxX7bir1CA"
+      },
+      "artists": [
+        {
+          "name": "Jubed",
+          "url": "https://open.spotify.com/artist/1cRKqHdKhNPTdouuF6HcbC"
+        }
+      ],
+      "duration_ms": 166779,
+      "name": "Ruwa",
+      "url": "https://open.spotify.com/track/54y06gXWPYQHxrgJU5CsYb"
     },
     {
       "added_at": "2026-08-28 00:02:11",

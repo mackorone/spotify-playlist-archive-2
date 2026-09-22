@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 
 > Lyrical, lo\-fi, and lowlife raps\. Cover: Rapsody
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,552,889 likes - 50 songs - 3 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,552,798 likes - 50 songs - 3 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSTeI2WWFaia.md) - [plain]
 | 24 | [Forever](https://open.spotify.com/track/7lCpzHEIIBf7BQKfRyRP01) | [Big L](https://open.spotify.com/artist/30fiiwr2EeZp1tAhzYCmyM), [Mac Miller](https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U), [Pale Jay](https://open.spotify.com/artist/7H3z77VbkJcCcFilmKqKNM) | [Harlem's Finest: Return Of The King](https://open.spotify.com/album/52bbgcaJfoKW3N2eO8TYMN) | 2:35 |
 | 25 | [LIFE](https://open.spotify.com/track/5BrduhEFRULhUw1YorXoJW) | [Traffic](https://open.spotify.com/artist/5z4GIgsp4Ex4mTJBaIcRG2), [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [Saint Pat Beatz](https://open.spotify.com/artist/6tU9QPA8WWVqRyTSeD8KkS), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [LIFE](https://open.spotify.com/album/6c6Yu97fDseg3vAuhnsF4W) | 4:00 |
 | 26 | [Firm Friends](https://open.spotify.com/track/3rssNOLucK9fzsRcKonhYu) | [Drake](https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4) | [ICEMAN](https://open.spotify.com/album/0OAv7DCME2AV4q1KPO95HY) | 5:02 |
-| 27 | [Raw Forever](https://open.spotify.com/track/3tlDxxC7rsOUynaEiNlXRk) | [CZARFACE](https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr), [Frankie Pulitzer](https://open.spotify.com/artist/03GXakQX7cf6cd7hZQqgYg), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Czarface Meets Frankie Pulitzer](https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6) | 4:01 |
-| 28 | [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 |
+| 27 | [man at the garden](https://open.spotify.com/track/5ho7VSXSmI2KM2nDjcnLyz) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [GNX](https://open.spotify.com/album/0hvT3yIEysuuvkK73vgdcW) | 3:53 |
+| 28 | [Raw Forever](https://open.spotify.com/track/3tlDxxC7rsOUynaEiNlXRk) | [CZARFACE](https://open.spotify.com/artist/4John8fJ3LKqFho0pselVr), [Frankie Pulitzer](https://open.spotify.com/artist/03GXakQX7cf6cd7hZQqgYg), [Busta Rhymes](https://open.spotify.com/artist/1YfEcTuGvBQ8xSD1f53UnK) | [Czarface Meets Frankie Pulitzer](https://open.spotify.com/album/42dcDultUHOEd4QU4umdq6) | 4:01 |
 | 29 | [The Fall\-Off is Inevitable](https://open.spotify.com/track/3kUHIvjJ8p9UzeaeeqHkfg) | [J\. Cole](https://open.spotify.com/artist/6l3HvQ5sa6mXTsMTB19rO5) | [The Fall\-Off](https://open.spotify.com/album/4jI9SU1GmpIVhHMuYZuvX7) | 2:56 |
 | 30 | [Life Is Beautiful](https://open.spotify.com/track/6hh74g3EXXM8dF1Boamcyn) | [Larry June](https://open.spotify.com/artist/1grN0519h2zYqpRtYbDZAl), [2 Chainz](https://open.spotify.com/artist/17lzZA2AlOHwCwFALHttmp), [The Alchemist](https://open.spotify.com/artist/0eVyjRhzZKke2KFYTcDkeu) | [Life Is Beautiful](https://open.spotify.com/album/7KldyyeQxbaR4oXtMprIJD) | 3:06 |
 | 31 | [WHATEVER WORKS](https://open.spotify.com/track/7GVuAK4EmYP7gvlXA4JXqU) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Ye](https://open.spotify.com/artist/3NlsBPwqJuDgtXZ2rv5Dmq) | [BULLY](https://open.spotify.com/album/5poA9SAx0Xiz1cf17fWBLS) | 1:59 |

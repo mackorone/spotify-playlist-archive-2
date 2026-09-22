@@ -1,6 +1,6 @@
 {
   "description": "Immerse yourself in the mysticism of Tulum!",
-  "num_followers": 475058,
+  "num_followers": 475187,
   "original_name": "Tulum Vibes",
   "owner": {
     "name": "Spotify",
@@ -521,22 +521,6 @@
       "url": "https://open.spotify.com/track/4mozAEJ8Gb7LOF5cX68LYh"
     },
     {
-      "added_at": "2024-09-06 18:30:54",
-      "album": {
-        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
-      },
-      "artists": [
-        {
-          "name": "kujipy",
-          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
-        }
-      ],
-      "duration_ms": 448947,
-      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
-      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
-    },
-    {
       "added_at": "2024-07-29 19:50:25",
       "album": {
         "name": "Live at KEXP!",
@@ -551,6 +535,22 @@
       "duration_ms": 300480,
       "name": "Move on Up - Live",
       "url": "https://open.spotify.com/track/4ejYPzCYRkyb11nNxWWaIn"
+    },
+    {
+      "added_at": "2024-09-06 18:30:54",
+      "album": {
+        "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+        "url": "https://open.spotify.com/album/4QoJioHnpqbl2l3XbTOqWo"
+      },
+      "artists": [
+        {
+          "name": "kujipy",
+          "url": "https://open.spotify.com/artist/3tDuuuTkPprgYHtL7QsvXs"
+        }
+      ],
+      "duration_ms": 448947,
+      "name": "J\u00e4jt\u00e4\u00b4\u00e4ky",
+      "url": "https://open.spotify.com/track/3d4nrq8ALR5uxqt6sgICS2"
     },
     {
       "added_at": "2024-06-27 19:57:19",
@@ -1065,22 +1065,6 @@
       "url": "https://open.spotify.com/track/1a8gHyHUGYfiDlJMhrQTTV"
     },
     {
-      "added_at": "2024-05-30 03:07:45",
-      "album": {
-        "name": "Malegr\u00eda",
-        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 180646,
-      "name": "Conexi\u00f3n Ancestral",
-      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "La N\u00famero Uno",
@@ -1095,6 +1079,22 @@
       "duration_ms": 244403,
       "name": "La N\u00famero Uno",
       "url": "https://open.spotify.com/track/2U0oiUjN3BqsIAVEdTgqoy"
+    },
+    {
+      "added_at": "2024-05-30 03:07:45",
+      "album": {
+        "name": "Malegr\u00eda",
+        "url": "https://open.spotify.com/album/0rN5KNEYHtYSuM7X9VuaV4"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 180646,
+      "name": "Conexi\u00f3n Ancestral",
+      "url": "https://open.spotify.com/track/3EjDI8FK3fMTVWNeclSP8v"
     },
     {
       "added_at": "2023-03-22 17:52:31",
@@ -1149,22 +1149,6 @@
       "url": "https://open.spotify.com/track/0k6JmVpT4JZrFz4SIIh0iS"
     },
     {
-      "added_at": "2023-11-16 17:08:10",
-      "album": {
-        "name": "Ya Va Pasar",
-        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
-      },
-      "artists": [
-        {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
-        }
-      ],
-      "duration_ms": 203494,
-      "name": "Ya Va Pasar",
-      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
-    },
-    {
       "added_at": "2022-06-15 04:26:09",
       "album": {
         "name": "Guadalupe",
@@ -1179,6 +1163,22 @@
       "duration_ms": 204705,
       "name": "Guadalupe",
       "url": "https://open.spotify.com/track/6iyOEhwDFzkwEEGaxMq2ny"
+    },
+    {
+      "added_at": "2023-11-16 17:08:10",
+      "album": {
+        "name": "Ya Va Pasar",
+        "url": "https://open.spotify.com/album/3OhQVFtpoMDIrUGrdnDYgI"
+      },
+      "artists": [
+        {
+          "name": "Reyna Tropical",
+          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+        }
+      ],
+      "duration_ms": 203494,
+      "name": "Ya Va Pasar",
+      "url": "https://open.spotify.com/track/6huxMX0WGdmd39W26DYCMZ"
     },
     {
       "added_at": "2022-06-15 04:26:09",
@@ -1233,24 +1233,24 @@
       "url": "https://open.spotify.com/track/2zdLcpv8D5mdyrF5QXEnbc"
     },
     {
-      "added_at": "2022-06-15 04:26:09",
+      "added_at": "2023-06-01 16:52:29",
       "album": {
-        "name": "Encerrada",
-        "url": "https://open.spotify.com/album/5jCdPRTOcPLQNPZNHugD0s"
+        "name": "RAMA",
+        "url": "https://open.spotify.com/album/5wC4ACPfltMaoWe9bTwPq5"
       },
       "artists": [
         {
-          "name": "Reyna Tropical",
-          "url": "https://open.spotify.com/artist/7i6bx5ASeX99tjQYqahDXL"
+          "name": "Mercedes Nasta",
+          "url": "https://open.spotify.com/artist/0eHEhyv8iCI5pLiD5Eh3vH"
         },
         {
-          "name": "Y La Bamba",
-          "url": "https://open.spotify.com/artist/6eb2gxfoBSQhmDYkQKz93b"
+          "name": "Rodrigo Blanco",
+          "url": "https://open.spotify.com/artist/21HbMlb9irHkIBRljFaoIK"
         }
       ],
-      "duration_ms": 183685,
-      "name": "Encerrada",
-      "url": "https://open.spotify.com/track/0iJU9tl5QNx0x9Tkg2Z7zt"
+      "duration_ms": 307882,
+      "name": "Rama",
+      "url": "https://open.spotify.com/track/40Qrc6OlhCPokKfigR987S"
     }
   ],
   "unique_name": "Tulum Vibes",

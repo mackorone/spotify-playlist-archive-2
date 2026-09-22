@@ -4,7 +4,7 @@
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Josh Baker
 
-1,281 songs - 3 day 15 hr 22 min
+1,282 songs - 3 day 15 hr 26 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -58,7 +58,7 @@
 | [Are We Dreaming](https://open.spotify.com/track/6THnoOgjKVCd17Y4kcs7dC) | [Fideles](https://open.spotify.com/artist/39RaU9BN81x3KBo299bwXs), [Re\-Type](https://open.spotify.com/artist/3kzXPj1qS9JlngpYcMgFjM) | [Are We Dreaming](https://open.spotify.com/album/0rUI5Ng4CH1DN3K4F6OWui) | 5:41 | 2024-01-12 | 2024-04-13 |
 | [Are You Ready? \(Radio Edit\)](https://open.spotify.com/track/7BryUEmykyolZXwvOFmEtI) | [Beave](https://open.spotify.com/artist/4hdzhylhAgcDNgyyMTNQaS), [TYGE](https://open.spotify.com/artist/2q49VHBhoxux4sAZbsn1hG) | [Are You Ready? \(Radio Edit\)](https://open.spotify.com/album/6G1hRBeLoGKNYMIJp7zNmt) | 2:41 | 2026-04-03 | 2026-05-28 |
 | [ARMS](https://open.spotify.com/track/6Se1RGQEVquqpxqG0tmyUe) | [Almanac](https://open.spotify.com/artist/2EJxcRlcIa5W1u2v42PvTv) | [ARMS](https://open.spotify.com/album/1trwwDURtIwr5Tebht4aR5) | 3:20 | 2025-07-02 | 2025-10-18 |
-| [As You Are](https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg) | [KDAY](https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC) | [The Arrival](https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl) | 3:31 | 2026-09-18 |  |
+| [As You Are](https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg) | [KDAY](https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC) | [The Arrival](https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl) | 3:31 | 2026-09-18 | 2026-09-22 |
 | [Aspire to Inspire](https://open.spotify.com/track/0DOZvF33lmAwocqif4wEaA) | [Hidde van Wee](https://open.spotify.com/artist/3BhQ6qO6Y8Pxbok6yUWRwH) | [Aspire to Inspire](https://open.spotify.com/album/10YVJOKLunCfm9ssAVkSzI) | 6:21 | 2025-05-16 | 2025-08-16 |
 | [At Lanta](https://open.spotify.com/track/6IAleUEkszXQZ1sMaS62El) | [Traumer](https://open.spotify.com/artist/55qp3isnfx4ZKPHw5oP4eh) | [At Lanta](https://open.spotify.com/album/4HwB4ldDeSIo64foCaOUMJ) | 6:50 | 2023-10-27 | 2023-11-07 |
 | [ATC](https://open.spotify.com/track/1GMTjnJIiPert5Hn5kb8cU) | [IDEMI](https://open.spotify.com/artist/09OK5GXLbMSjg8lOb4wRVT) | [ATC](https://open.spotify.com/album/64TL02xEWKb05YbU2v5SmV) | 3:40 | 2025-07-25 | 2025-10-04 |
@@ -93,6 +93,7 @@
 | [Basement \- Yoram Remix](https://open.spotify.com/track/1jJDfGEyZFS8kwHmcfGeip) | [ID ID](https://open.spotify.com/artist/5NF2J9XTpy7Riu5A5LQiHQ), [Yoram](https://open.spotify.com/artist/1Q0OZ1OprMRqD20wQRqf2t) | [Basement EP](https://open.spotify.com/album/3UrcLlrym37vDpjBx70FAX) | 5:53 | 2025-05-23 | 2025-06-07 |
 | [Basic Foundation](https://open.spotify.com/track/0lpTezzSBtSIrN0vKwvAIE) | [Ewan McVicar](https://open.spotify.com/artist/4d2NUjh9ZrzG1ZZdhpSDKH) | [Careless Drifter / Basic Foundation](https://open.spotify.com/album/5NgWWSu3TqUs2dfbIOtx10) | 6:32 | 2025-05-30 | 2025-06-25 |
 | [Basic Instinct](https://open.spotify.com/track/4coPwPfxxr5jHLR4jRnVSw) | [Obskür](https://open.spotify.com/artist/29MTNlaVntQaQiDyj8KGwx) | [Basic Instinct](https://open.spotify.com/album/3CLL8jbee2bkSTfw7CCTBP) | 2:49 | 2025-11-28 | 2026-01-31 |
+| [Bass Drop](https://open.spotify.com/track/5LOkqfRL9Wl6r7exO6Xm6P) | [AAT](https://open.spotify.com/artist/02B08CAGsMQ0y87xmg07M9) | [Bass Drop / Ready For You](https://open.spotify.com/album/3YQ3152ymIcpft2gZq5byU) | 3:18 | 2026-09-21 |  |
 | [Bass Go Boom](https://open.spotify.com/track/3vrxHzxEs2ncS6jX9g9XVg) | [JAYC](https://open.spotify.com/artist/6RaD7n2k5twat5wiryhGuJ) | [Bass Go Boom](https://open.spotify.com/album/0MpprW3oy6Mkf4FECwg3Zi) | 5:32 | 2025-06-06 | 2025-08-23 |
 | [Bass Go Boom \- Collier Remix](https://open.spotify.com/track/1nTHK6Qln7sWicfmlhMUe7) | [Joshwa](https://open.spotify.com/artist/1PzAgFVk9v8cxn9flrqrv5), [Collier](https://open.spotify.com/artist/44KWTN5dWQd0oAzu1p5xCj) | [Bass Go Boom \(Collier Remix\)](https://open.spotify.com/album/7jDzqqtw3O7q33iLA7LhlH) | 2:48 | 2024-10-04 | 2024-12-07 |
 | [Bass Hot](https://open.spotify.com/track/5XBiHt9IM1pYuYhca92k8O) | [Alex Dyer](https://open.spotify.com/artist/5XlRaE7I1tLbV9RYNRpfZ7) | [Bass Hot EP](https://open.spotify.com/album/6pLGmK9SW6FN6b1vrJtT6o) | 3:43 | 2026-04-03 | 2026-07-25 |

@@ -1,6 +1,6 @@
 {
   "description": "Bach's most popular piano pieces, performed by the greatest pianists of the last century.",
-  "num_followers": 74446,
+  "num_followers": 74458,
   "original_name": "Bach Piano",
   "owner": {
     "name": "Spotify",
@@ -507,30 +507,6 @@
     {
       "added_at": "2026-08-07 04:00:45",
       "album": {
-        "name": "Bach: Keyboard Concertos & Italian Concerto",
-        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Sonya Bach",
-          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
-        },
-        {
-          "name": "English Chamber Orchestra",
-          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
-        }
-      ],
-      "duration_ms": 156760,
-      "name": "Concerto No. 3 in D Major, BWV 1054: III. Allegro",
-      "url": "https://open.spotify.com/track/0gjL01yP9onMlvU9yVeIOk"
-    },
-    {
-      "added_at": "2026-08-07 04:00:45",
-      "album": {
         "name": "Bach: Keyboard Concertos",
         "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
       },
@@ -555,6 +531,30 @@
       "duration_ms": 184653,
       "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: I. \u2014",
       "url": "https://open.spotify.com/track/4AFBKPO6wT9zLHnSAQo4gf"
+    },
+    {
+      "added_at": "2026-08-07 04:00:45",
+      "album": {
+        "name": "Bach: Keyboard Concertos & Italian Concerto",
+        "url": "https://open.spotify.com/album/3hBLPwnpfzfkNmXvVTknmy"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Sonya Bach",
+          "url": "https://open.spotify.com/artist/0zIN9w6AXy4ROnxYqXImJz"
+        },
+        {
+          "name": "English Chamber Orchestra",
+          "url": "https://open.spotify.com/artist/2DO4p3CPDnInsJfg0jFfaF"
+        }
+      ],
+      "duration_ms": 156760,
+      "name": "Concerto No. 3 in D Major, BWV 1054: III. Allegro",
+      "url": "https://open.spotify.com/track/0gjL01yP9onMlvU9yVeIOk"
     },
     {
       "added_at": "2026-08-07 04:00:45",
@@ -623,6 +623,34 @@
     {
       "added_at": "2026-08-07 04:00:45",
       "album": {
+        "name": "Bach: Keyboard Concertos",
+        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
+      },
+      "artists": [
+        {
+          "name": "Johann Sebastian Bach",
+          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
+        },
+        {
+          "name": "Alexandre Tharaud",
+          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
+        },
+        {
+          "name": "Les Violons du Roy",
+          "url": "https://open.spotify.com/artist/0JjlFfPu43HSIHEUP3zKvP"
+        },
+        {
+          "name": "Bernard Labadie",
+          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
+        }
+      ],
+      "duration_ms": 187800,
+      "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
+      "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
+    },
+    {
+      "added_at": "2026-08-07 04:00:45",
+      "album": {
         "name": "Johann Sebastian Bach: The French Suites",
         "url": "https://open.spotify.com/album/50Tp1V8zhhorvJmhWBVSY8"
       },
@@ -683,34 +711,6 @@
       "duration_ms": 389706,
       "name": "Partita No. 4 in D Major, BWV 828: V. Sarabande",
       "url": "https://open.spotify.com/track/2L295fdTmcpXVAjCOhcjL5"
-    },
-    {
-      "added_at": "2026-08-07 04:00:45",
-      "album": {
-        "name": "Bach: Keyboard Concertos",
-        "url": "https://open.spotify.com/album/30Tv1tpCJciX7TAbdFyobi"
-      },
-      "artists": [
-        {
-          "name": "Johann Sebastian Bach",
-          "url": "https://open.spotify.com/artist/5aIqB5nVVvmFsvSdExz408"
-        },
-        {
-          "name": "Alexandre Tharaud",
-          "url": "https://open.spotify.com/artist/5HG9Eg7Ik8ZuNtMyGYTxLG"
-        },
-        {
-          "name": "Les Violons du Roy",
-          "url": "https://open.spotify.com/artist/0JjlFfPu43HSIHEUP3zKvP"
-        },
-        {
-          "name": "Bernard Labadie",
-          "url": "https://open.spotify.com/artist/0z1Xm1EDwfBTBpsMQlBFOD"
-        }
-      ],
-      "duration_ms": 187800,
-      "name": "Bach, JS: Piano Concerto No. 5 in F Minor, BWV 1056: II. Largo",
-      "url": "https://open.spotify.com/track/04jRwe67y8gkExGnRV1Zck"
     },
     {
       "added_at": "2026-08-07 04:00:45",

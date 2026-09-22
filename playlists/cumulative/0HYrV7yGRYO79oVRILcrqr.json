@@ -1965,6 +1965,36 @@
     },
     {
       "album": {
+        "name": "Change It",
+        "url": "https://open.spotify.com/album/5OyqYRNiss4SlC9qQMLYCq"
+      },
+      "artists": [
+        {
+          "name": "Uncle Ryano",
+          "url": "https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT"
+        },
+        {
+          "name": "Brei Carter",
+          "url": "https://open.spotify.com/artist/1ODtqEHcWPmq8LlAOWAu7i"
+        },
+        {
+          "name": "Megan Urby",
+          "url": "https://open.spotify.com/artist/0DpGBXTwcqB2PfuF1lQFuo"
+        },
+        {
+          "name": "Leif Shively Band",
+          "url": "https://open.spotify.com/artist/78WGTxMhFRCPmZsaV02Fc8"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206687,
+      "name": "Change It",
+      "url": "https://open.spotify.com/track/35zASnos8CRA1WkVHdY0us"
+    },
+    {
+      "album": {
         "name": "Chasing Yesterday",
         "url": "https://open.spotify.com/album/2bZ7Mt7GGbp1cB0K355wDw"
       },
@@ -3550,6 +3580,24 @@
       "duration_ms": 296133,
       "name": "Electric Haze",
       "url": "https://open.spotify.com/track/1YRywRERxc1HIFZzOrlmQB"
+    },
+    {
+      "album": {
+        "name": "Electric Man",
+        "url": "https://open.spotify.com/album/0X21UCO3pbocXs6kZ01aFg"
+      },
+      "artists": [
+        {
+          "name": "Dagga Rocks",
+          "url": "https://open.spotify.com/artist/0ecQj5R7x9OcjxJfZxtum6"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 261959,
+      "name": "Electric Man",
+      "url": "https://open.spotify.com/track/7LZJg1Fp65cIGGffXk1Tdp"
     },
     {
       "album": {
@@ -8539,6 +8587,24 @@
     },
     {
       "album": {
+        "name": "N\u00e3o Venha Sem Avisar",
+        "url": "https://open.spotify.com/album/2EUidS1qnhNkBZzAvPTPgs"
+      },
+      "artists": [
+        {
+          "name": "Thiago Martins",
+          "url": "https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171388,
+      "name": "N\u00e3o Venha Sem Avisar",
+      "url": "https://open.spotify.com/track/3HXJlragpVyaqhoAjtWwoJ"
+    },
+    {
+      "album": {
         "name": "The Alchemindmistyc",
         "url": "https://open.spotify.com/album/21DJLojbuDUBIGslS0yIIc"
       },
@@ -10032,6 +10098,24 @@
       "duration_ms": 204388,
       "name": "Rollin' + Twistin'",
       "url": "https://open.spotify.com/track/2CCdd0Lo1B5BY8N2ctOFNQ"
+    },
+    {
+      "album": {
+        "name": "GROWING PAINS",
+        "url": "https://open.spotify.com/album/5HBooct6GfHTclXwSw9FnO"
+      },
+      "artists": [
+        {
+          "name": "Cameron Ravenhill",
+          "url": "https://open.spotify.com/artist/6GStRwlHVeTkevfVsq3BUE"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 240000,
+      "name": "RORSCHACH (Album Edit)",
+      "url": "https://open.spotify.com/track/2kkEMle30gPNJhGDZJ1Vb0"
     },
     {
       "album": {

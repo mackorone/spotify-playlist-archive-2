@@ -1,6 +1,6 @@
 {
   "description": "The best new songs from modern singer-songwriters. Cover: Medium Build",
-  "num_followers": 90283,
+  "num_followers": 90304,
   "original_name": "Today's Singer-Songwriters",
   "owner": {
     "name": "Spotify",
@@ -551,26 +551,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Where's My Love (with Carla)",
-        "url": "https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu"
-      },
-      "artists": [
-        {
-          "name": "SYML",
-          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
-        },
-        {
-          "name": "Carla Morrison",
-          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
-        }
-      ],
-      "duration_ms": 243053,
-      "name": "Where's My Love - with Carla",
-      "url": "https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Want Me",
         "url": "https://open.spotify.com/album/0p2KyEFZmeOiHUWbDmpABJ"
       },
@@ -599,6 +579,26 @@
       "duration_ms": 168461,
       "name": "Feeling Fine",
       "url": "https://open.spotify.com/track/7rL903PspMN1lJBeFI7OKF"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Where's My Love (with Carla)",
+        "url": "https://open.spotify.com/album/4zC14Rw1n7omTz4JYAbNuu"
+      },
+      "artists": [
+        {
+          "name": "SYML",
+          "url": "https://open.spotify.com/artist/6AyATGg7mDgBlZ4N5uNog0"
+        },
+        {
+          "name": "Carla Morrison",
+          "url": "https://open.spotify.com/artist/0XK6kT7xcZAlcYrNjOgzJe"
+        }
+      ],
+      "duration_ms": 243053,
+      "name": "Where's My Love - with Carla",
+      "url": "https://open.spotify.com/track/50fvAL9S2IfvMWinKtSEBQ"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -983,18 +983,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Getting By",
-        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
+        "name": "Death in the Business of Whaling",
+        "url": "https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl"
       },
       "artists": [
         {
-          "name": "Lily Fitts",
-          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
+          "name": "Searows",
+          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
         }
       ],
-      "duration_ms": 165040,
-      "name": "Troubled Water",
-      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
+      "duration_ms": 221240,
+      "name": "Geese",
+      "url": "https://open.spotify.com/track/1S8EiawyV6O11rtcCfcxgN"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1015,18 +1015,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Death in the Business of Whaling",
-        "url": "https://open.spotify.com/album/5bqWbWR0tokA3hQio9h5cl"
+        "name": "Getting By",
+        "url": "https://open.spotify.com/album/6ZnlJFDMZzVftNALozU1LO"
       },
       "artists": [
         {
-          "name": "Searows",
-          "url": "https://open.spotify.com/artist/0nugNBwdWaptgIAsEtx1It"
+          "name": "Lily Fitts",
+          "url": "https://open.spotify.com/artist/1mY66135CEOJg0KTwDIk4N"
         }
       ],
-      "duration_ms": 221240,
-      "name": "Geese",
-      "url": "https://open.spotify.com/track/1S8EiawyV6O11rtcCfcxgN"
+      "duration_ms": 165040,
+      "name": "Troubled Water",
+      "url": "https://open.spotify.com/track/4GdfDopXzjpHVkVZIbSV6Q"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Little Boxes",
-        "url": "https://open.spotify.com/album/01h62VkdHGj6AUleVFbroG"
-      },
-      "artists": [
-        {
-          "name": "Katie Pruitt",
-          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
-        }
-      ],
-      "duration_ms": 273241,
-      "name": "Little Boxes",
-      "url": "https://open.spotify.com/track/7chSr6q1DmIJUGwi0O4h5L"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "if i'm honest for once",
         "url": "https://open.spotify.com/album/1KO7Ww4aCb59EumfKV2BhM"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 257384,
       "name": "generations in the making",
       "url": "https://open.spotify.com/track/5uLNEjToaNlAGaN2qvbjdQ"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Returning To Myself",
+        "url": "https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl"
+      },
+      "artists": [
+        {
+          "name": "Brandi Carlile",
+          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+        }
+      ],
+      "duration_ms": 257760,
+      "name": "Returning To Myself",
+      "url": "https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1227,18 +1227,18 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Returning To Myself",
-        "url": "https://open.spotify.com/album/59fZ3nKVEopfpxyRRr1Ksl"
+        "name": "Little Boxes",
+        "url": "https://open.spotify.com/album/01h62VkdHGj6AUleVFbroG"
       },
       "artists": [
         {
-          "name": "Brandi Carlile",
-          "url": "https://open.spotify.com/artist/2sG4zTOLvjKG1PSoOyf5Ej"
+          "name": "Katie Pruitt",
+          "url": "https://open.spotify.com/artist/1c5w8KrxGwq44fxM5lGB4s"
         }
       ],
-      "duration_ms": 257760,
-      "name": "Returning To Myself",
-      "url": "https://open.spotify.com/track/1AMUwhjbPqBvcPW4itoNXB"
+      "duration_ms": 273241,
+      "name": "Little Boxes",
+      "url": "https://open.spotify.com/track/7chSr6q1DmIJUGwi0O4h5L"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1271,6 +1271,22 @@
       "duration_ms": 259842,
       "name": "My Maker",
       "url": "https://open.spotify.com/track/0CytapqefuNILUq2YdFw78"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Postcards to Heaven",
+        "url": "https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz"
+      },
+      "artists": [
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 161931,
+      "name": "Northern Star",
+      "url": "https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1327,22 +1343,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Postcards to Heaven",
-        "url": "https://open.spotify.com/album/4T1awA0BJdq5BPKuXyoMPz"
-      },
-      "artists": [
-        {
-          "name": "Lily Meola",
-          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
-        }
-      ],
-      "duration_ms": 161931,
-      "name": "Northern Star",
-      "url": "https://open.spotify.com/track/1wrpdr361iTE0RpG4gqhsu"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Sad And Beautiful World",
         "url": "https://open.spotify.com/album/07aZwFEzDfh0BALXf1o6FH"
       },
@@ -1359,22 +1359,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Nostalgic for Nothing",
-        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
-      },
-      "artists": [
-        {
-          "name": "Thelma & James",
-          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
-        }
-      ],
-      "duration_ms": 205484,
-      "name": "Nostalgic for Nothing",
-      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Collarbones",
         "url": "https://open.spotify.com/album/2Nbf58InZWvZUxvgNoqRkL"
       },
@@ -1387,6 +1371,22 @@
       "duration_ms": 180947,
       "name": "Collarbones",
       "url": "https://open.spotify.com/track/1ufQW3SOuHHxO8rsxJCAaR"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Nostalgic for Nothing",
+        "url": "https://open.spotify.com/album/70nRLtk0vROIVpOD100D2c"
+      },
+      "artists": [
+        {
+          "name": "Thelma & James",
+          "url": "https://open.spotify.com/artist/60WW5HfHRijpxoTRlaU8BE"
+        }
+      ],
+      "duration_ms": 205484,
+      "name": "Nostalgic for Nothing",
+      "url": "https://open.spotify.com/track/1IyuQt0f9LFMIkyNeI84Cd"
     },
     {
       "added_at": "2026-09-04 04:02:01",
@@ -1559,22 +1559,6 @@
     {
       "added_at": "2026-09-04 04:02:01",
       "album": {
-        "name": "Nothing Comes Easy",
-        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
-      },
-      "artists": [
-        {
-          "name": "Joy Oladokun",
-          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
-        }
-      ],
-      "duration_ms": 174087,
-      "name": "Nothing Comes Easy",
-      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
-    },
-    {
-      "added_at": "2026-09-04 04:02:01",
-      "album": {
         "name": "Achilles",
         "url": "https://open.spotify.com/album/5baUTzkWiIeFGyEWFAMYB7"
       },
@@ -1587,6 +1571,22 @@
       "duration_ms": 191349,
       "name": "Call of Duty",
       "url": "https://open.spotify.com/track/7CyTAwPV2r7pBfZt9fVNDG"
+    },
+    {
+      "added_at": "2026-09-04 04:02:01",
+      "album": {
+        "name": "Nothing Comes Easy",
+        "url": "https://open.spotify.com/album/4uPXWqH0hBzxT5u67PxLHy"
+      },
+      "artists": [
+        {
+          "name": "Joy Oladokun",
+          "url": "https://open.spotify.com/artist/7rrTqtOUOwva4sgTx9C9F9"
+        }
+      ],
+      "duration_ms": 174087,
+      "name": "Nothing Comes Easy",
+      "url": "https://open.spotify.com/track/1DTsVhtb0tUaYncdT5yT6W"
     },
     {
       "added_at": "2026-09-04 04:02:01",

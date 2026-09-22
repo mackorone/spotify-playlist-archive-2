@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 
 > Lo más nuevo de la Música Mexicana\. Cover: Lupita Infante & Chiquis 📸
 
-[Spotify](https://open.spotify.com/user/spotify) - 729,399 likes - 64 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 729,341 likes - 64 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,7 +16,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 6 | [El Último Barco](https://open.spotify.com/track/6ibr5q3QBqTXDzANyvVh2c) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Joan Sebastian](https://open.spotify.com/artist/7FsRH5bw8iWpSbMX1G7xf1) | [El Último Barco](https://open.spotify.com/album/4BO1XueXjbnAOQOjM240Ai) | 3:01 |
 | 7 | [Por Tu Maldito Amor](https://open.spotify.com/track/1nyojJXZta55xUKSHwnyiF) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Banda MS de Sergio Lizárraga](https://open.spotify.com/artist/2C6i0I5RiGzDKN9IAF8reh) | [Por Tu Maldito Amor](https://open.spotify.com/album/5utoF22uxbuZ82olUuaogg) | 4:02 |
 | 8 | [Apunto](https://open.spotify.com/track/661kcuInHmXfnJzY0Bw35s) | [Efecto Elegante](https://open.spotify.com/artist/0NHX4tbvyRotP1QBhjTHX3) | [Apunto](https://open.spotify.com/album/63wtohOCmrIhb96NuxVYge) | 3:45 |
-| 9 | [Como Te Olvido](https://open.spotify.com/track/2DzLUxQ1QB30GSQBYa1zIT) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [Como Te Olvido](https://open.spotify.com/album/2RMo1JLJ9Kr1twPWbqzfBJ) | 3:27 |
+| 9 | [¿Cómo Te Olvido?](https://open.spotify.com/track/2DzLUxQ1QB30GSQBYa1zIT) | [Diferente Nivel](https://open.spotify.com/artist/5dHdCFMXwl9JofjKjS1MW0), [Grupo Arriesgado](https://open.spotify.com/artist/5NUPPRjsbXHNyVDrUESYeh) | [¿Cómo Te Olvido?](https://open.spotify.com/album/2RMo1JLJ9Kr1twPWbqzfBJ) | 3:28 |
 | 10 | [Para Ya Saben Quien](https://open.spotify.com/track/6qbN6LWApfySSYuOx6Emr0) | [Gerardo Coronel](https://open.spotify.com/artist/6JoYL9QYbdgPb6EuE5J2pC) | [Para Ya Saben Quien](https://open.spotify.com/album/0BLNc8tUgZJgZqw5GDrYBv) | 3:21 |
 | 11 | [Mis Canciones de Amor](https://open.spotify.com/track/3yqiCLBbNKVZxqUWqMDxkr) | [Diego Herrera](https://open.spotify.com/artist/2Gl3Sy0B1rtWvBURrOf6Gi), [Pancho Barraza](https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp) | [Mis Canciones de Amor](https://open.spotify.com/album/6EsSzv7EqP0UEATuuotQ9t) | 2:55 |
 | 12 | [Confundido](https://open.spotify.com/track/5P8jblieOpniI73tEboMYf) | [Marca MP](https://open.spotify.com/artist/44mEtidu0VdRkIqO4IbkNa) | [Confundido](https://open.spotify.com/album/22RqDWRI67ixEJb6KxeyK8) | 3:33 |
@@ -49,7 +49,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6Adf5JEwIPs.md) - [plain]
 | 39 | [El Tribal de los Helados](https://open.spotify.com/track/1BVInYfyyGo5ujPOl0z8UH) | [La Kumbre Con K](https://open.spotify.com/artist/4YsOJficccPjUQ8xGgObh3), [Sakura Norteño Banda](https://open.spotify.com/artist/58DGTgPL0gv8LIONvOPxaW) | [El Tribal de los Helados](https://open.spotify.com/album/3PB22zVWAZhpiCeX0v63Dj) | 2:33 |
 | 40 | [QLERO](https://open.spotify.com/track/2dk6XG1rbZVFO6GxJe0Oy8) | [Danny Felix](https://open.spotify.com/artist/51pVYU9oIKHUb72Y0v8iVV), [Reynaldos de la Sierra](https://open.spotify.com/artist/13rTu0fmZMKFl0oB2JC1oe) | [QLERO](https://open.spotify.com/album/6v1xfZjCdOeojj6dtFVgOY) | 2:59 |
 | 41 | [Nuestra Noche](https://open.spotify.com/track/6rslUgUfn6WRgKEXl8RolE) | [Antonio Cerda](https://open.spotify.com/artist/6IL1ygeul6zc8iu4ul4sOu), [La Zenda Norteña](https://open.spotify.com/artist/01brs471Oes6kMnkVJBfGG) | [Nuestra Noche](https://open.spotify.com/album/5o3dlbMkW6TJrCIT3gkFzf) | 2:48 |
-| 42 | [El Juego de la Vida](https://open.spotify.com/track/4NyG5IPOHTS0wrEkivQbP0) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [El Juego De La Vida](https://open.spotify.com/album/6sp2AU6KZxWqpINnipLnc1) | 2:55 |
+| 42 | [El Juego De La Vida](https://open.spotify.com/track/4NyG5IPOHTS0wrEkivQbP0) | [Pantera De Culiacan Sinaloa](https://open.spotify.com/artist/0mRXQOJkMRuEgfF345LOZ0) | [El Juego De La Vida](https://open.spotify.com/album/6sp2AU6KZxWqpINnipLnc1) | 2:55 |
 | 43 | [El Wey Del Espejo](https://open.spotify.com/track/011Ja7Em51TZtcYJ74n9zY) | [Mario villarreal](https://open.spotify.com/artist/5IFf9GZDYLVW6WG1VbEPsu), [Leandro Ríos](https://open.spotify.com/artist/1FEYq0PPuI50GJRqKKPT6w) | [El Wey Del Espejo](https://open.spotify.com/album/5kwVlQdjLftRc1aVOuFHC8) | 2:55 |
 | 44 | [Modo Avión](https://open.spotify.com/track/40rpVlWSMalwexSgMB2aOC) | [Anderson Raura](https://open.spotify.com/artist/2UFwqLoVXvOoTCxdlVbucA) | [Modo Avión](https://open.spotify.com/album/5ukabYDJVioUcR1Fguk8bN) | 2:28 |
 | 45 | [Dolce](https://open.spotify.com/track/67chrkLbeQZI1rsKrt9AcO) | [Brandon Reyes y Elvin](https://open.spotify.com/artist/5KwtioA5ns9gfpFaHpxqlq) | [REYES](https://open.spotify.com/album/66Ozkyc7zMI0EsbYaPC3i8) | 3:04 |

@@ -1,12 +1,12 @@
 {
-  "description": "Bringing out the best of latest love tracks\nCover : Idupu Kayitham",
-  "num_followers": 171511,
+  "description": "Bringing out the best of latest love tracks\nCover : The Paradise",
+  "num_followers": 171518,
   "original_name": "Latest Romance Telugu",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANLwmsUwMc6NCpRhzkygyRHJcPbi",
+  "snapshot_id": "AAAAAOoUTz3l8VxJZMvIUoPCry8pmHI6",
   "tracks": [
     {
       "added_at": "2026-09-11 12:07:38",
@@ -31,6 +31,58 @@
       "duration_ms": 242765,
       "name": "Srilatha (From \"Idupu Kayitham\")",
       "url": "https://open.spotify.com/track/5sbq5ARh8V37zGVmbTRwAo"
+    },
+    {
+      "added_at": "2026-09-21 12:45:25",
+      "album": {
+        "name": "Endhayya Saami (From \"Ranabaali\")",
+        "url": "https://open.spotify.com/album/0rP6tTyF90zUSqIgXLNGZk"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "duration_ms": 328023,
+      "name": "Endhayya Saami (From \"Ranabaali\")",
+      "url": "https://open.spotify.com/track/0HG0q1rtcVe1kXlreHz9Kf"
+    },
+    {
+      "added_at": "2026-09-21 15:02:16",
+      "album": {
+        "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/3SBWD56siGLfTGGm40Zsre"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "duration_ms": 230976,
+      "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
     },
     {
       "added_at": "2026-08-18 08:00:06",

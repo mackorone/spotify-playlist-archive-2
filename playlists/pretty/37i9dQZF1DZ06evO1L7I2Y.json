@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAD84FmopLY+akOC7wo1nUO9",
+  "snapshot_id": "aq8iAAAAAACXadHLhZ9Irff8d26fbjgA",
   "tracks": [
     {
       "added_at": null,
@@ -415,26 +415,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
-        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
-      },
-      "artists": [
-        {
-          "name": "Luedji Luna",
-          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
-        },
-        {
-          "name": "N.I.N.A",
-          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        }
-      ],
-      "duration_ms": 301182,
-      "name": "Met\u00e1fora",
-      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tudo Que Eu Sinto Faz Barulho",
         "url": "https://open.spotify.com/album/2aoEcifZSeLqfyFP9hrjl5"
       },
@@ -451,6 +431,26 @@
       "duration_ms": 178542,
       "name": "Efeito Mandela",
       "url": "https://open.spotify.com/track/72bgfihRCD9wIAQggaWP4Y"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Bom Mesmo \u00e9 Estar Debaixo D'\u00c1gua Deluxe",
+        "url": "https://open.spotify.com/album/1ygSTGeglAKt0UwfnZhfdm"
+      },
+      "artists": [
+        {
+          "name": "Luedji Luna",
+          "url": "https://open.spotify.com/artist/0sWTkzCrdEvuX7Du6MFLzc"
+        },
+        {
+          "name": "N.I.N.A",
+          "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        }
+      ],
+      "duration_ms": 301182,
+      "name": "Met\u00e1fora",
+      "url": "https://open.spotify.com/track/3ROiMsqkU7jbW29l2e8SEX"
     },
     {
       "added_at": null,
@@ -751,26 +751,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fases",
-        "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
+        "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
+        "url": "https://open.spotify.com/album/63B0JgFYO5FgQml993TnS5"
       },
       "artists": [
         {
-          "name": "Devasto Prod",
-          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "KIB7",
+          "url": "https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u"
+        },
+        {
+          "name": "diniBoy",
+          "url": "https://open.spotify.com/artist/1hXHVRZlpm93rvPRb7d7HU"
+        },
+        {
+          "name": "Brasil Grime Show",
+          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
+        },
+        {
+          "name": "Big Bllakk",
+          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
-        },
-        {
-          "name": "DRESSA",
-          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
         }
       ],
-      "duration_ms": 199860,
-      "name": "Fases",
-      "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
+      "duration_ms": 352500,
+      "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
+      "url": "https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq"
     },
     {
       "added_at": null,
@@ -819,38 +831,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
-        "url": "https://open.spotify.com/album/63B0JgFYO5FgQml993TnS5"
+        "name": "Fases",
+        "url": "https://open.spotify.com/album/36R1fAVyOsz8ockmiJVv1o"
       },
       "artists": [
         {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "KIB7",
-          "url": "https://open.spotify.com/artist/7lSYO6wq6ueSYYIEUbF92u"
-        },
-        {
-          "name": "diniBoy",
-          "url": "https://open.spotify.com/artist/1hXHVRZlpm93rvPRb7d7HU"
-        },
-        {
-          "name": "Brasil Grime Show",
-          "url": "https://open.spotify.com/artist/1MHo7H67rgMeXzF7UTqbjT"
-        },
-        {
-          "name": "Big Bllakk",
-          "url": "https://open.spotify.com/artist/2676LWh4GgqdAaYkRpqTcd"
+          "name": "Devasto Prod",
+          "url": "https://open.spotify.com/artist/0HXL3i1AV3ZRb3BhuzSvOc"
         },
         {
           "name": "N.I.N.A",
           "url": "https://open.spotify.com/artist/32NfHH4nSmu97Z4RQjPyET"
+        },
+        {
+          "name": "DRESSA",
+          "url": "https://open.spotify.com/artist/5BkfMMgLbEy1WzYk2gH8Al"
         }
       ],
-      "duration_ms": 352500,
-      "name": "Rock Danger Brasil Grime Show - Big Bllakk X N.I.N.A",
-      "url": "https://open.spotify.com/track/0otaj8BW7Jjr7pNt38tAjq"
+      "duration_ms": 199860,
+      "name": "Fases",
+      "url": "https://open.spotify.com/track/1oq5Gk7m0r3kRzOoh6GUOA"
     },
     {
       "added_at": null,

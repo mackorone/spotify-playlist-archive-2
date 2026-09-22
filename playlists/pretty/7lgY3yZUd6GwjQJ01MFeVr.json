@@ -1,13 +1,33 @@
 {
   "description": "Today's top country music! Cover: Cameron Whitcomb, Zach Bryan &amp; Cody Johnson",
-  "num_followers": 35276,
+  "num_followers": 35283,
   "original_name": "Top Country Hits",
   "owner": {
     "name": "Topsify Canada",
     "url": "https://open.spotify.com/user/playlistmecanada"
   },
-  "snapshot_id": "AAAfynizqPFh9i501x6/JEt0D9+NpL0t",
+  "snapshot_id": "AAAf0FQ+ttkimSdpjrkQSpUzbvciPgKm",
   "tracks": [
+    {
+      "added_at": "2026-09-17 17:20:29",
+      "album": {
+        "name": "Last Thing You Need (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+        }
+      ],
+      "duration_ms": 196000,
+      "name": "Last Thing You Need (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
+    },
     {
       "added_at": "2026-04-15 18:39:36",
       "album": {
@@ -89,20 +109,56 @@
       "url": "https://open.spotify.com/track/2jCJjRc9mz6VYBMhLy3H9i"
     },
     {
-      "added_at": "2026-08-04 15:59:44",
+      "added_at": "2026-08-21 17:12:48",
       "album": {
-        "name": "Been By Now",
-        "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4"
+        "name": "Young",
+        "url": "https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Dan + Shay",
+          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
+        },
+        {
+          "name": "Cody Johnson",
+          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
         }
       ],
-      "duration_ms": 213805,
-      "name": "Been By Now",
-      "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
+      "duration_ms": 193573,
+      "name": "The Old Guys",
+      "url": "https://open.spotify.com/track/1j6ad39OI8bXR6JvRkbCdy"
+    },
+    {
+      "added_at": "2026-08-28 17:42:30",
+      "album": {
+        "name": "Why Does the Moon",
+        "url": "https://open.spotify.com/album/1GHWkKhoL4E3zmm626abzC"
+      },
+      "artists": [
+        {
+          "name": "Jess Moskaluke",
+          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
+        }
+      ],
+      "duration_ms": 192566,
+      "name": "Why Does the Moon",
+      "url": "https://open.spotify.com/track/1XKHTxAHMDmJBpDWgRSk2c"
+    },
+    {
+      "added_at": "2026-09-21 14:26:52",
+      "album": {
+        "name": "Mule",
+        "url": "https://open.spotify.com/album/7u120MsUxCkPcyQg9LJnmo"
+      },
+      "artists": [
+        {
+          "name": "Orville Peck",
+          "url": "https://open.spotify.com/artist/46auOkH1pk28rWrSoUNhLo"
+        }
+      ],
+      "duration_ms": 179054,
+      "name": "Run Out Of Road",
+      "url": "https://open.spotify.com/track/2FJVgqIXOUUgkyaaAP72dI"
     },
     {
       "added_at": "2026-09-04 14:13:40",
@@ -137,24 +193,20 @@
       "url": "https://open.spotify.com/track/6B9XMxOKopfYkBKwA8cPtb"
     },
     {
-      "added_at": "2026-08-21 17:12:48",
+      "added_at": "2026-08-04 15:59:44",
       "album": {
-        "name": "Young",
-        "url": "https://open.spotify.com/album/14kBYIGOgQRJaUpeTUFupX"
+        "name": "Been By Now",
+        "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4"
       },
       "artists": [
         {
-          "name": "Dan + Shay",
-          "url": "https://open.spotify.com/artist/7z5WFjZAIYejWy0NI5lv4T"
-        },
-        {
-          "name": "Cody Johnson",
-          "url": "https://open.spotify.com/artist/6zLBxLdl60ekBLpawtT63I"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 193573,
-      "name": "The Old Guys",
-      "url": "https://open.spotify.com/track/1j6ad39OI8bXR6JvRkbCdy"
+      "duration_ms": 213805,
+      "name": "Been By Now",
+      "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
     },
     {
       "added_at": "2026-08-21 17:13:10",
@@ -171,22 +223,6 @@
       "duration_ms": 189085,
       "name": "Ride The River",
       "url": "https://open.spotify.com/track/2EsMBsv3uFaUEF8fCOLMoA"
-    },
-    {
-      "added_at": "2026-08-28 17:42:30",
-      "album": {
-        "name": "Why Does the Moon",
-        "url": "https://open.spotify.com/album/1GHWkKhoL4E3zmm626abzC"
-      },
-      "artists": [
-        {
-          "name": "Jess Moskaluke",
-          "url": "https://open.spotify.com/artist/5wCYmeBtrQWxKmOBsXx3et"
-        }
-      ],
-      "duration_ms": 192566,
-      "name": "Why Does the Moon",
-      "url": "https://open.spotify.com/track/1XKHTxAHMDmJBpDWgRSk2c"
     },
     {
       "added_at": "2026-08-04 15:55:13",
@@ -2295,26 +2331,6 @@
       "duration_ms": 160479,
       "name": "Hard Liquor",
       "url": "https://open.spotify.com/track/3X5AFec3grDuQGGjkdBjPT"
-    },
-    {
-      "added_at": "2026-09-17 17:20:29",
-      "album": {
-        "name": "Last Thing You Need (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls"
-      },
-      "artists": [
-        {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 196000,
-      "name": "Last Thing You Need (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
     }
   ],
   "unique_name": "Top Country Hits",

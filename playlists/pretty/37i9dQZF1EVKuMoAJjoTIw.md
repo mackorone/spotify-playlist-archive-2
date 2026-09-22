@@ -2,15 +2,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 
 ### [Sad Mix](https://open.spotify.com/playlist/37i9dQZF1EVKuMoAJjoTIw)
 
-> <a href=spotify:playlist:37i9dQZF1EIWBvTtlGcdKW>Djo</a>, <a href=spotify:playlist:37i9dQZF1EIUm1i3tc4k3j>Mazzy Star</a>, <a href=spotify:playlist:37i9dQZF1EIYcZwbbjckJd>Radiohead</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIUAb1pCe6QOZ>Whiskey Myers</a>, <a href=spotify:playlist:37i9dQZF1EIVo4rgqc9CZa>ABBA</a>, <a href=spotify:playlist:37i9dQZF1EIYu6DnUqszn9>Joji</a> and more
 
-[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 0 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [End of Beginning](https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD) | [Djo](https://open.spotify.com/artist/5p9HO3XC5P3BLxJs5Mtrhm) | [DECIDE](https://open.spotify.com/album/4JDXBZdRPId4devseaAOKH) | 2:39 |
-| 2 | [Fade Into You](https://open.spotify.com/track/1LzNfuep1bnAUR9skqdHCK) | [Mazzy Star](https://open.spotify.com/artist/37w38cCSGgKLdayTRjna4W) | [So Tonight That I Might See](https://open.spotify.com/album/5K18gTgac0q6Jma5HkV1vA) | 4:55 |
-| 3 | [Creep](https://open.spotify.com/track/70LcF31zb1H0PyJoS1Sx1r) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [Pablo Honey](https://open.spotify.com/album/3gBVdu4a1MMJVMy6vwPEb8) | 3:58 |
+| 1 | [Broken Window Serenade](https://open.spotify.com/track/1VOSSXuWRcBj2rpfxNdX9v) | [Whiskey Myers](https://open.spotify.com/artist/26opZSJcXshCmCwxgZQmBc) | [Firewater](https://open.spotify.com/album/304hLSMc8ZSHvMsh9YS4Jk) | 5:46 |
+| 2 | [The Winner Takes It All](https://open.spotify.com/track/3oEkrIfXfSh9zGnE7eBzSV) | [ABBA](https://open.spotify.com/artist/0LcJLqbBmaGUft1e9Mm8HV) | [Super Trouper](https://open.spotify.com/album/3ZdkT5buYFi1WQaB0XNNtf) | 4:54 |
+| 3 | [SLOW DANCING IN THE DARK](https://open.spotify.com/track/6rY5FAWxCdAGllYEOZMbjW) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 3:29 |
 | 4 | [Falling Down \- Bonus Track](https://open.spotify.com/track/4jvjzW7Hm0yK4LvvE0Paz9) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3), [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:16 |
 | 5 | [Broken](https://open.spotify.com/track/4W8sUeokQKfHt1uTXp0Jq0) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [Broken](https://open.spotify.com/album/2gMpqoJglKD1UJZot6YRZt) | 3:20 |
 | 6 | [Im Doing Fine](https://open.spotify.com/track/3KR1JFRwYzha78aE9SpX3a) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI), [Promoting Sounds](https://open.spotify.com/artist/5b0j3TTNSKCByBq4rHYKvG) | [Im Doing Fine](https://open.spotify.com/album/6Zb79k58m2PG70Pp0HICsb) | 1:39 |
@@ -26,17 +26,17 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 16 | [idfc](https://open.spotify.com/track/6y6jbcPG4Yn3Du4moXaenr) | [blackbear](https://open.spotify.com/artist/5WFiezOJkvmDmEWdwij3l4) | [deadroses](https://open.spotify.com/album/1TkwzY3l4LqAfrQwBAx45Q) | 4:05 |
 | 17 | [WHO I AM](https://open.spotify.com/track/06rpIOxnQoXUAcJHBV0u3k) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF), [Chyde](https://open.spotify.com/artist/5webehDlzqsSapoO8wmwNA) | [WHO I AM](https://open.spotify.com/album/025DsQ1VwWqpqavTpyXnkd) | 2:30 |
 | 18 | [Let Me Die](https://open.spotify.com/track/46T7puWlH8ptC6lx7bQ3TY) | [Lil Happy Lil Sad](https://open.spotify.com/artist/0r25HIHVcGcaEuJ8s5AK00) | [Let Me Die](https://open.spotify.com/album/4JSD9GfEAaodrPZp4sgpbe) | 3:38 |
-| 19 | [CRUDELIA \- I nervi](https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 3:50 |
-| 20 | [Forever](https://open.spotify.com/track/2GvOVIdVAi69jpCvRTxWg6) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Forever](https://open.spotify.com/album/2788McgqYDK3Ri1vvP2gAQ) | 1:48 |
-| 21 | [Silencieux Amoureux](https://open.spotify.com/track/3LGhfj2PToCNcpPyxCKKWk) | [Saphir](https://open.spotify.com/artist/4ERRpGwxvfMKNH7Dkr7Zfd) | [Silencieux Amoureux](https://open.spotify.com/album/5OTws4MfnqVhFhrmIMDNK1) | 2:00 |
-| 22 | [starcrossed girl](https://open.spotify.com/track/0rJ9ON5rJZMUb3jn8PidOX) | [Josiah MacCartney](https://open.spotify.com/artist/6Wm8af6tWJ7XAJ1poDozwY), [SadSky](https://open.spotify.com/artist/2ooLhcOE3idTK2H1rRrcGl) | [starcrossed girl](https://open.spotify.com/album/00OwCcHsBOjWMiJx5ltVp6) | 2:32 |
-| 23 | [Why Am I Waiting](https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld) | [Papithbk](https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw) | [Thbk.](https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo) | 1:35 |
-| 24 | [Doom](https://open.spotify.com/track/6lb1rcBfpEUmoGvbWhBxFL) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [DOOM](https://open.spotify.com/album/0wqNe0EDDKNpJ9SYMEVyLr) | 2:07 |
-| 25 | [YEAH RIGHT](https://open.spotify.com/track/52ooD6LHuXFubM6d1CDD93) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 2:54 |
+| 19 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
+| 20 | [CRUDELIA \- I nervi](https://open.spotify.com/track/0xEgDBXYO9gGzmxCFWKxNg) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [Persona](https://open.spotify.com/album/7cZB2w7ju8vYRGzTSJ1H1v) | 3:50 |
+| 21 | [Forever](https://open.spotify.com/track/2GvOVIdVAi69jpCvRTxWg6) | [ilyTOMMY](https://open.spotify.com/artist/4XWaILHqySwH1y6LhlYcsb) | [Forever](https://open.spotify.com/album/2788McgqYDK3Ri1vvP2gAQ) | 1:48 |
+| 22 | [Silencieux Amoureux](https://open.spotify.com/track/3LGhfj2PToCNcpPyxCKKWk) | [Saphir](https://open.spotify.com/artist/4ERRpGwxvfMKNH7Dkr7Zfd) | [Silencieux Amoureux](https://open.spotify.com/album/5OTws4MfnqVhFhrmIMDNK1) | 2:00 |
+| 23 | [starcrossed girl](https://open.spotify.com/track/0rJ9ON5rJZMUb3jn8PidOX) | [Josiah MacCartney](https://open.spotify.com/artist/6Wm8af6tWJ7XAJ1poDozwY), [SadSky](https://open.spotify.com/artist/2ooLhcOE3idTK2H1rRrcGl) | [starcrossed girl](https://open.spotify.com/album/00OwCcHsBOjWMiJx5ltVp6) | 2:32 |
+| 24 | [Why Am I Waiting](https://open.spotify.com/track/2po3166NqW72LwAwh8Hbld) | [Papithbk](https://open.spotify.com/artist/33r8rPgsHXfVN1r3adlrWw) | [Thbk.](https://open.spotify.com/album/0CXFZPOf5NILkxS9fpL3Jo) | 1:35 |
+| 25 | [Doom](https://open.spotify.com/track/6lb1rcBfpEUmoGvbWhBxFL) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [DOOM](https://open.spotify.com/album/0wqNe0EDDKNpJ9SYMEVyLr) | 2:07 |
 | 26 | [Tutto passa](https://open.spotify.com/track/5Op4TXHjmH8WLEKy1rLotG) | [Mostro](https://open.spotify.com/artist/5dPBeuSKtu5vLz1Et8YSVv) | [The Illest, Vol\. 2](https://open.spotify.com/album/5bBmBTQgEZiu3FS4TWeq1e) | 2:34 |
 | 27 | [Me, Myself & I](https://open.spotify.com/track/6Ln7dIucQFcVGmh1NrvIva) | [fenekot](https://open.spotify.com/artist/3x29Ap4i7afDnr89hUuhiM), [Seon](https://open.spotify.com/artist/4sADZZMvbgQIsCCkmqUYF8), [Drex Carter](https://open.spotify.com/artist/2zhgWhhKeDGw6gGd16y7tc) | [Me, Myself & I](https://open.spotify.com/album/0hgUCzkW1IYYYspr6cw8eF) | 2:16 |
 | 28 | [SE NON PROVO DOLORE](https://open.spotify.com/track/7kycm3mVY7yaNOtgiAK6lr) | [Madame](https://open.spotify.com/artist/1vgQksyJ0IVz8y9XerEOy3) | [L'AMORE](https://open.spotify.com/album/4SfgZ55Rx2K9Ae0ftl52YG) | 2:43 |
-| 29 | [Let Down](https://open.spotify.com/track/2fuYa3Lx06QQJAm0MjztKr) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 4:59 |
+| 29 | [YEAH RIGHT](https://open.spotify.com/track/52ooD6LHuXFubM6d1CDD93) | [Joji](https://open.spotify.com/artist/3MZsBdqDrRTJihTHQrO6Dq) | [BALLADS 1](https://open.spotify.com/album/5mIImcsuqpiSXg8XvFr81I) | 2:54 |
 | 30 | [NUMB](https://open.spotify.com/track/01TnVDiet1DFTsyWKUKovl) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4) | [?](https://open.spotify.com/album/2Ti79nwTsont5ZHfdxIzAm) | 3:06 |
 | 31 | [Life is Beautiful](https://open.spotify.com/track/5rYpwP1dHWGVMrSZbTmt3e) | [Lil Peep](https://open.spotify.com/artist/2kCcBybjl3SAtIcwdWpUe3) | [Come Over When You're Sober, Pt\. 2](https://open.spotify.com/album/52JymrguPgkmmwLaWIusst) | 3:27 |
 | 32 | [F\*ck Love](https://open.spotify.com/track/2kHrlDvECzPyjcbmSQNusl) | [Lund](https://open.spotify.com/artist/5uLkZ7FWMTBUg1corQqdkR) | [F\*ck Love](https://open.spotify.com/album/7a4z4EPeKp4TEVNbtgL3eg) | 3:17 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EVKuMoAJjoTIw.md) - [plain]
 | 42 | [they'll post it online](https://open.spotify.com/track/6yZzK6O3NRSv5TxcQMFmX3) | [overtonight](https://open.spotify.com/artist/3WUqGdcFJJquJgCPkEzCfs) | [it's over tonight.](https://open.spotify.com/album/2wVlRXuhfGaHp4vBskI9MG) | 1:30 |
 | 43 | [CRY](https://open.spotify.com/track/3MVCR2UGxXtvdhqFFEzmGX) | [Parker Jack](https://open.spotify.com/artist/5COD136qwj9wtuea78EGbF) | [CRY](https://open.spotify.com/album/5OKFXrFjt1N8adFAWpp3NZ) | 2:15 |
 | 44 | [S.A.D](https://open.spotify.com/track/0ZGNuav3HfUf1iOLoF3CaO) | [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR) | [S.A.D](https://open.spotify.com/album/2y4bx11ZTk9jxo0zXwLhLm) | 2:08 |
-| 45 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 |
-| 46 | [Uncomparable](https://open.spotify.com/track/5GToLrexykJHVIedB2W5QT) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Uncomparable](https://open.spotify.com/album/1UHjX5iIanOMTSYu9YE8vl) | 1:45 |
-| 47 | [Ti Amo](https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 4:25 |
-| 48 | [Computer Crash](https://open.spotify.com/track/0dRbdGC4pyli95gQrIqAmJ) | [Lui Joseph](https://open.spotify.com/artist/7MS7B4QRp1n6c5H8N7s3wB) | [Computer Crash](https://open.spotify.com/album/4uqczIUcsjZdnrFtXiO2by) | 2:49 |
-| 49 | [7 Years \(Remix\)](https://open.spotify.com/track/1kFlDnWmBTvCBxxeGDpIdp) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [7 Years \(Remix\)](https://open.spotify.com/album/1UR8sxJvEYKJRmKWBaHh67) | 2:14 |
-| 50 | [guerra dentro](https://open.spotify.com/track/2aPz4c03AsOhTgbuSnfrCs) | [nayt](https://open.spotify.com/artist/7tmTvmqgTBcX88ZrSHByrD), [3D](https://open.spotify.com/artist/5K92J8NwWAlu6fRN2uoHVN) | [HABITAT](https://open.spotify.com/album/5S2RzVtE5dwhqZHK9UH767) | 2:58 |
+| 45 | [No Surprises](https://open.spotify.com/track/10nyNJ6zNy2YVYLrcwLccB) | [Radiohead](https://open.spotify.com/artist/4Z8W4fKeB5YxbusRsdQVPb) | [OK Computer](https://open.spotify.com/album/6dVIqQ8qmQ5GBnJ9shOYGE) | 3:49 |
+| 46 | [DUBBI](https://open.spotify.com/track/4gxRyOZefp95AXZFaztdtO) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/0rgggvSYGSms079nUlcAGX) | 3:54 |
+| 47 | [Uncomparable](https://open.spotify.com/track/5GToLrexykJHVIedB2W5QT) | [EKKSTACY](https://open.spotify.com/artist/0ynzbXwyCzxicMKHBoOkSH) | [Uncomparable](https://open.spotify.com/album/1UHjX5iIanOMTSYu9YE8vl) | 1:45 |
+| 48 | [Ti Amo](https://open.spotify.com/track/1pq4fzp7UvGPLGzueOKaEf) | [Luchè](https://open.spotify.com/artist/3yiEJ9SByXZMXTwaKdVFN4) | [Malammore](https://open.spotify.com/album/4A9xE2QAA6dgTcqMrnjpqP) | 4:25 |
+| 49 | [Computer Crash](https://open.spotify.com/track/0dRbdGC4pyli95gQrIqAmJ) | [Lui Joseph](https://open.spotify.com/artist/7MS7B4QRp1n6c5H8N7s3wB) | [Computer Crash](https://open.spotify.com/album/4uqczIUcsjZdnrFtXiO2by) | 2:49 |
+| 50 | [7 Years \(Remix\)](https://open.spotify.com/track/1kFlDnWmBTvCBxxeGDpIdp) | [Sik World](https://open.spotify.com/artist/39G9Mcs99KhOEtVuthwztS) | [7 Years \(Remix\)](https://open.spotify.com/album/1UR8sxJvEYKJRmKWBaHh67) | 2:14 |
 
 Snapshot ID: `AAAAABdGcRNZCKy3sCOmZyX+mYEGx9CW`

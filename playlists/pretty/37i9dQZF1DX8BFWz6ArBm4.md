@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 
 > Κατευθείαν από την πίστα, τα καλύτερα λαϊκά τραγούδια αυτή τη στιγμή\. Εξώφυλλοr: Ilias Vrettos
 
-[Spotify](https://open.spotify.com/user/spotify) - 45,559 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 45,539 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8BFWz6ArBm4.md) - [plain]
 | 18 | [Mono Logia](https://open.spotify.com/track/5nLZH9sUmzExy4kOewevc9) | [Giorgos Tsalikis](https://open.spotify.com/artist/7wdFPENV7NBZ4o3tHqsWhD) | [Mono Logia](https://open.spotify.com/album/2GldFBWaLnny94cZ9gikGh) | 3:39 |
 | 19 | [Avgoustiatiko Feggari](https://open.spotify.com/track/4m1rVXIjwDNnWiuMZov3o9) | [Johanna](https://open.spotify.com/artist/1nYzZxdlUulgfZjKM5mmmk) | [Avgoustiatiko Feggari](https://open.spotify.com/album/0B76RWy33vHjif3wLg8POA) | 3:06 |
 | 20 | [Eipes](https://open.spotify.com/track/1w8p0vuFJ8PZBJka6jS6oA) | [Thodoris Ferris](https://open.spotify.com/artist/3JiKtJqdJ3qUhJRphJk1cT) | [Eipes](https://open.spotify.com/album/0MrlOOB8R7ACMmnTjlVEAB) | 4:03 |
-| 21 | [Me Xodepses](https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Me Xodepses](https://open.spotify.com/album/1qNcN5xAxlbJ5koajyPnZy) | 2:59 |
-| 22 | [Ximeia](https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Ximeia](https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ) | 3:13 |
+| 21 | [Ximeia](https://open.spotify.com/track/30zUFlAtXOEXikyIAhGhun) | [Katerina](https://open.spotify.com/artist/4YmXcY5FDRoG6AqbYr1niU) | [Ximeia](https://open.spotify.com/album/49AwHw1SaJ1crDen9HuIGQ) | 3:13 |
+| 22 | [Me Xodepses](https://open.spotify.com/track/2XDgYSMOmSSjNGpDoJCPDJ) | [Ioulia Kallimani](https://open.spotify.com/artist/6HsM9NbNIunWMEFLOk4d9p), [Michael Touratzidis](https://open.spotify.com/artist/5dwadtCk3MY582FXpBAHwz) | [Me Xodepses](https://open.spotify.com/album/1qNcN5xAxlbJ5koajyPnZy) | 2:59 |
 | 23 | [Sousouro](https://open.spotify.com/track/6Q9L85FERsbSTVmNaZjhd4) | [Andromache](https://open.spotify.com/artist/0dn2Cwr75Rl4bh7yTwTorv) | [Sousouro](https://open.spotify.com/album/1ZuGXCJPpIFwRcgMHSghLU) | 3:51 |
 | 24 | [Anasa](https://open.spotify.com/track/6QraIKM78nFy6sVIedXVOs) | [Giorgos Mazonakis](https://open.spotify.com/artist/1gyBRbQACz4JJX2HRROigK) | [Anasa](https://open.spotify.com/album/1cff2Mbs7o9xKdBxPmXgBD) | 4:43 |
 | 25 | [Pagkosmio Fainomeno](https://open.spotify.com/track/6D4HZbIu78JR8Dh9Owi7OO) | [Petros Iakovidis](https://open.spotify.com/artist/3MOXMqbM9HGr0zQgUOoVL5) | [Pagkosmio Fainomeno](https://open.spotify.com/album/0OdoqXPaomx7ylY27x7i6l) | 3:09 |

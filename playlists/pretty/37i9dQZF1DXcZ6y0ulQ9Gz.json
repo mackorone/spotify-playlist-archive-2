@@ -1,6 +1,6 @@
 {
   "description": "The best indie of then and the best of now w/ This is Lorelei",
-  "num_followers": 42336,
+  "num_followers": 42349,
   "original_name": "Indie Favourites",
   "owner": {
     "name": "Spotify",
@@ -795,18 +795,18 @@
     {
       "added_at": "2026-09-18 04:03:42",
       "album": {
-        "name": "Norman Fucking Rockwell!",
-        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
+        "name": "Nobody New",
+        "url": "https://open.spotify.com/album/0CHEK7iHmeB7bZ8lqAsbS3"
       },
       "artists": [
         {
-          "name": "Lana Del Rey",
-          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
+          "name": "The Mar\u00edas",
+          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
         }
       ],
-      "duration_ms": 202192,
-      "name": "Doin' Time",
-      "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
+      "duration_ms": 215200,
+      "name": "Nobody New",
+      "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt"
     },
     {
       "added_at": "2026-09-18 04:03:42",
@@ -827,18 +827,18 @@
     {
       "added_at": "2026-09-18 04:03:42",
       "album": {
-        "name": "Nobody New",
-        "url": "https://open.spotify.com/album/0CHEK7iHmeB7bZ8lqAsbS3"
+        "name": "Norman Fucking Rockwell!",
+        "url": "https://open.spotify.com/album/5XpEKORZ4y6OrCZSKsi46A"
       },
       "artists": [
         {
-          "name": "The Mar\u00edas",
-          "url": "https://open.spotify.com/artist/2sSGPbdZJkaSE2AbcGOACx"
+          "name": "Lana Del Rey",
+          "url": "https://open.spotify.com/artist/00FQb4jTyendYWaN8pK0wa"
         }
       ],
-      "duration_ms": 215200,
-      "name": "Nobody New",
-      "url": "https://open.spotify.com/track/3BUc2A0MJ53FHwiy3eohBt"
+      "duration_ms": 202192,
+      "name": "Doin' Time",
+      "url": "https://open.spotify.com/track/0Oqc0kKFsQ6MhFOLBNZIGX"
     },
     {
       "added_at": "2026-09-18 04:03:42",
@@ -995,6 +995,22 @@
     {
       "added_at": "2026-09-18 04:03:42",
       "album": {
+        "name": "Portal",
+        "url": "https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB"
+      },
+      "artists": [
+        {
+          "name": "Balu Brigada",
+          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
+        }
+      ],
+      "duration_ms": 383400,
+      "name": "Backseat",
+      "url": "https://open.spotify.com/track/7j6PWLaubVavCLE4peea8S"
+    },
+    {
+      "added_at": "2026-09-18 04:03:42",
+      "album": {
         "name": "14 minutes",
         "url": "https://open.spotify.com/album/2qwv7hNjSGfLarHY2adeq9"
       },
@@ -1023,22 +1039,6 @@
       "duration_ms": 184767,
       "name": "The Dress",
       "url": "https://open.spotify.com/track/0YMe6PHRbeDcN7KJdCG0bW"
-    },
-    {
-      "added_at": "2026-09-18 04:03:42",
-      "album": {
-        "name": "Portal",
-        "url": "https://open.spotify.com/album/3T5osCmLRKocwvc1yobKwB"
-      },
-      "artists": [
-        {
-          "name": "Balu Brigada",
-          "url": "https://open.spotify.com/artist/6O9vGMmTwzihULICPCsNf2"
-        }
-      ],
-      "duration_ms": 383400,
-      "name": "Backseat",
-      "url": "https://open.spotify.com/track/7j6PWLaubVavCLE4peea8S"
     },
     {
       "added_at": "2026-09-18 04:03:42",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2026-09-18 04:03:42",
       "album": {
-        "name": "Rose in the Dark",
-        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
-      },
-      "artists": [
-        {
-          "name": "Cleo Sol",
-          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
-        }
-      ],
-      "duration_ms": 335310,
-      "name": "When I'm in Your Arms",
-      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
-    },
-    {
-      "added_at": "2026-09-18 04:03:42",
-      "album": {
         "name": "A Little Rhythm and a Wicked Feeling",
         "url": "https://open.spotify.com/album/5OsXAPcYYYNTtkFuuB8TDc"
       },
@@ -1611,6 +1595,22 @@
       "duration_ms": 236363,
       "name": "Killshot",
       "url": "https://open.spotify.com/track/0LJTfmgOMvlLd0u4HU9twm"
+    },
+    {
+      "added_at": "2026-09-18 04:03:42",
+      "album": {
+        "name": "Rose in the Dark",
+        "url": "https://open.spotify.com/album/4o5dzQHDzmBBc4Z3jSWVR9"
+      },
+      "artists": [
+        {
+          "name": "Cleo Sol",
+          "url": "https://open.spotify.com/artist/3ETLPQkcEd7z4k3IbZmXMq"
+        }
+      ],
+      "duration_ms": 335310,
+      "name": "When I'm in Your Arms",
+      "url": "https://open.spotify.com/track/47s5hKfwGXliAAB8wKMiNo"
     },
     {
       "added_at": "2026-09-18 04:03:42",

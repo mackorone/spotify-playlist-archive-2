@@ -1,12 +1,12 @@
 {
   "description": "This is Ayra Starr. The essential tracks, all in one playlist.",
-  "num_followers": 58940,
+  "num_followers": 58963,
   "original_name": "This Is Ayra Starr",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAACDfZBTzjx5C3439lIg/ywp",
+  "snapshot_id": "aq8iAAAAAAAk6ZN0B5H2yO9yHQNsPbnE",
   "tracks": [
     {
       "added_at": null,
@@ -263,26 +263,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Year I Turned 21",
-        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Seyi Vibez",
-          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
-        }
-      ],
-      "duration_ms": 168406,
-      "name": "Bad Vibes (feat. Seyi Vibez)",
-      "url": "https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Wo, man (Edit)",
         "url": "https://open.spotify.com/album/2QTswa6ASdPGZ6DXfQWrax"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 200500,
       "name": "Wo, man - Edit",
       "url": "https://open.spotify.com/track/1SF8DK4wmqKcxehSfheLPS"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Year I Turned 21",
+        "url": "https://open.spotify.com/album/1W25XYjRQPob14CkgOYVms"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Seyi Vibez",
+          "url": "https://open.spotify.com/artist/4zmZ8lVLzGc84S4v2B1rLx"
+        }
+      ],
+      "duration_ms": 168406,
+      "name": "Bad Vibes (feat. Seyi Vibez)",
+      "url": "https://open.spotify.com/track/6VX4hVDmDMfClxp6EwDNQP"
     },
     {
       "added_at": null,
@@ -386,15 +386,11 @@
         {
           "name": "Ayra Starr",
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "kwn",
-          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 164718,
-      "name": "Amazing (feat. kwn)",
-      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
+      "duration_ms": 159424,
+      "name": "Treasure",
+      "url": "https://open.spotify.com/track/0ZeU1691bYmy26bDvFCUMc"
     },
     {
       "added_at": null,
@@ -466,11 +462,15 @@
         {
           "name": "Ayra Starr",
           "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "kwn",
+          "url": "https://open.spotify.com/artist/2KnhnL8zuqLhIhGk601fsb"
         }
       ],
-      "duration_ms": 159424,
-      "name": "Treasure",
-      "url": "https://open.spotify.com/track/0ZeU1691bYmy26bDvFCUMc"
+      "duration_ms": 164718,
+      "name": "Amazing (feat. kwn)",
+      "url": "https://open.spotify.com/track/5gW1KbtGBs7GTKYk95FXIJ"
     },
     {
       "added_at": null,

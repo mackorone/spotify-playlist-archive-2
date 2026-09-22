@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 
 > This is Django Reinhardt\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,875 likes - 50 songs - 2 hr 31 min
+[Spotify](https://open.spotify.com/user/spotify) - 36,883 likes - 50 songs - 2 hr 31 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,8 +23,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 13 | [Swinging with Django](https://open.spotify.com/track/75LBvLhNCU8KWqeOr6BSOd) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Stéphane Grappelli](https://open.spotify.com/artist/6AfbDYupHV5e6nse9W6tKG), [Quintette du Hot Club de France](https://open.spotify.com/artist/6ufQwLbg8fB1I6aRQb3aUn), [Michel Warlop](https://open.spotify.com/artist/2c0fwzZLBTcn71TtEY5rem) | [Djangologie Vol6 / 1937](https://open.spotify.com/album/2l8CUbWOm6tJHb7bzr5XPf) | 2:52 |
 | 14 | [What a Difference a Day Makes](https://open.spotify.com/track/3C9bNCnxHvUEVELsUvKGyy) | [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [All Star Sessions](https://open.spotify.com/album/1xUtY0bgOkiu3CS96r6pi3) | 3:23 |
 | 15 | [Out of Nowhere](https://open.spotify.com/track/1En79guqjRnfnceqaqsY2c) | [Arkadia Jazz All\-Stars](https://open.spotify.com/artist/6zvf7WeBSm26ESYpE9amLc), [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Coleman Hawkins](https://open.spotify.com/artist/0JM134st8VY7Ld9T2wQiH0) | [Arkadia Jazz: In the Beginning](https://open.spotify.com/album/51abtWR4ocrUuS3yXw8HPs) | 3:20 |
-| 16 | [September Song](https://open.spotify.com/track/4RIkHEEZVjjLpLQ4kGqNEN) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Maurice Meunier](https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru), [Eddie Bernard](https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww), [Eugène Vées](https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX), [Emmanuel Soudieux](https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh), [Jacques Martinon](https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7) | [Electric Django: Radio Recordings 1947](https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY) | 3:05 |
-| 17 | [Georgia on My Mind](https://open.spotify.com/track/0mKssLelwP7ymDV7HQLYlm) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [l'inoubliable](https://open.spotify.com/album/3yG7WbpgWrgPTg6zZV7amc) | 3:14 |
+| 16 | [Georgia on My Mind](https://open.spotify.com/track/0mKssLelwP7ymDV7HQLYlm) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [l'inoubliable](https://open.spotify.com/album/3yG7WbpgWrgPTg6zZV7amc) | 3:14 |
+| 17 | [September Song](https://open.spotify.com/track/4RIkHEEZVjjLpLQ4kGqNEN) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx), [Maurice Meunier](https://open.spotify.com/artist/34xNof7DCDBCGcq2toPcru), [Eddie Bernard](https://open.spotify.com/artist/5v4GIwgmJJVZcO8ZW8qjww), [Eugène Vées](https://open.spotify.com/artist/5ZdIuajeFWcNwpGZNHvUGX), [Emmanuel Soudieux](https://open.spotify.com/artist/4Spmg1LeyPbxigsgZY4fCh), [Jacques Martinon](https://open.spotify.com/artist/68eWE1EddoATAhH81LTWa7) | [Electric Django: Radio Recordings 1947](https://open.spotify.com/album/2mxUlTlIDbsn15mfvtFhBY) | 3:05 |
 | 18 | [Sweet Georgia Brown](https://open.spotify.com/track/3ytZXNJEyBQHqg6EcTxR2X) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Django Reinhardt](https://open.spotify.com/album/5yhbUBKJTxNrdpUZzvTIPd) | 3:07 |
 | 19 | [Naguine](https://open.spotify.com/track/3tLFWTuHRrBOFppiDA3pHT) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [The Best Of Django Reinhardt](https://open.spotify.com/album/6n4MbIocFJ9oHFszyhN1uF) | 2:29 |
 | 20 | [Scatterbrain](https://open.spotify.com/track/0aDbWBBoa2rkCImzeLugcE) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:20 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3wM7i8.md) - [plain]
 | 49 | [Sugar](https://open.spotify.com/track/2xsWxOTPFJKKA6xy7874HC) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol9 / 1939 \- 1940](https://open.spotify.com/album/1YEji9IzxLNdkjXiYANqun) | 2:40 |
 | 50 | [Tea for Two](https://open.spotify.com/track/3J0vC7T9DmAJdXDIp8Xq7v) | [Django Reinhardt](https://open.spotify.com/artist/5Z1XZyEFY0dewG8faEIiEx) | [Djangologie Vol7 / 1937 \- 1938](https://open.spotify.com/album/0IEVoMWaiOBOxgDpua2W5F) | 2:48 |
 
-Snapshot ID: `aq3QgAAAAAC93UdEptuPJZNpSW2wXj2C`
+Snapshot ID: `aq8iAAAAAADxBUJzKmfFPIb7Xp2GvAXA`

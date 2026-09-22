@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 
 > These are some independent rock bands you need to hear.
 
-[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,305 likes - 94 songs - 5 hr 33 min
+[Live To Jam](https://open.spotify.com/user/314as7ertwdr2zzyu25oqwcdsha4) - 1,315 likes - 95 songs - 5 hr 37 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -102,5 +102,6 @@ pretty - [cumulative](/playlists/cumulative/0OOg0uCLxEPEJokfcnwLsv.md) - [plain]
 | 92 | [Fairytale](https://open.spotify.com/track/3Py8FYfHyuzT9awE3LewQh) | [Dangerous Times for the Dead](https://open.spotify.com/artist/3oYyw3Wy4IuN27X2eIFVWD) | [Fairytale](https://open.spotify.com/album/0zyc2DisFokldezxabrmhY) | 3:42 |
 | 93 | [Power](https://open.spotify.com/track/3tfHumqKKjYOGC0DlfjM49) | [Emily Wolfe](https://open.spotify.com/artist/0WUpndpcjYMzyPwZ996Sha), [Judge & Jury](https://open.spotify.com/artist/2p1FiOhFr2sED9OxKVNRbB) | [Power](https://open.spotify.com/album/7IkJYzGSBxOuoidbs9a4vw) | 2:04 |
 | 94 | [Come In For A Ride](https://open.spotify.com/track/59WCT4u8ly3HmomMlOsAnm) | [Risco](https://open.spotify.com/artist/3dVFxGEdrAp9qWS9AdcuvL) | [Come In For A Ride](https://open.spotify.com/album/0LQCVXXY3h4hzLBgcZl8SI) | 3:02 |
+| 95 | [Devil's Blues](https://open.spotify.com/track/33X5j5PnNGzEx68ASBqaQv) | [Gravens](https://open.spotify.com/artist/3ynl82AyQaG2Rw8Kws3f7Y) | [Rising](https://open.spotify.com/album/5hawHjIi7zbq7iEbaArhUL) | 3:55 |
 
-Snapshot ID: `AAAHBwvDZo+ZjtClCWJZ1TRBzgzDz8zg`
+Snapshot ID: `AAAHCMTQZTEQVfBAp5UdAQXpZCoBaSMf`

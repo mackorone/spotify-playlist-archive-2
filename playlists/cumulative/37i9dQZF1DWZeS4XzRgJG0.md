@@ -4,7 +4,7 @@
 
 > focus modus is aan en leren maar
 
-389 songs - 22 hr 56 min
+390 songs - 22 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -249,6 +249,7 @@
 | [Nothing Really Matters](https://open.spotify.com/track/4fGbdX3qUTOS8Kpsc8hQT6) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Nothing Really Matters](https://open.spotify.com/album/4thfd5IORYpYB83wxnQAQ0) | 3:42 | 2022-11-11 | 2024-04-19 |
 | [Nothing Really Matters](https://open.spotify.com/track/7fWSIddv6LJG8ZXJFNVQyi) | [Mr\. Probz](https://open.spotify.com/artist/33W1pnW9zScZtYTnAoWnOT) | [Nothing Really Matters](https://open.spotify.com/album/3melTGvrnMU9IGdi7EpuuU) | 3:42 | 2024-03-25 |  |
 | [Nova](https://open.spotify.com/track/58320MeXvjRR0ATsTKSUja) | [Jaïr Faria](https://open.spotify.com/artist/0nzaebKwaLRFXNwKLrXBRe) | [Nova](https://open.spotify.com/album/6pzKtk1M2lDTaNT5wyH6AI) | 2:22 | 2025-01-23 |  |
+| [Obsessica](https://open.spotify.com/track/77Jy02wGI2iU5HCcynsBmS) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [Do That Again](https://open.spotify.com/album/3IKW2jLFBTUGEIwJha62vD) | 3:39 | 2026-09-21 |  |
 | [Oceaan](https://open.spotify.com/track/1YwR7Y6AmiaWEXFweKnTbj) | [Psychrex](https://open.spotify.com/artist/63xJDEUip5qjI1iCVmtkOZ) | [Oceaan](https://open.spotify.com/album/0wIJiV022gnasuXF4vWT2r) | 2:42 | 2022-11-11 | 2023-03-18 |
 | [Oceaan](https://open.spotify.com/track/4AUASx1KCTQFmpHu7qq6Kr) | [Racoon](https://open.spotify.com/artist/30mNTnmvPn3HwXA5dW1Iza) | [The Singles Collection](https://open.spotify.com/album/2BPly0LvQzfKNfn9v4ShE8) | 2:44 | 2022-11-11 | 2023-04-14 |
 | [ocean eyes](https://open.spotify.com/track/7hDVYcQq6MxkdJGweuCtl9) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [dont smile at me](https://open.spotify.com/album/7fRrTyKvE4Skh93v97gtcU) | 3:20 | 2025-09-25 |  |

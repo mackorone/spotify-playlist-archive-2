@@ -4,7 +4,7 @@
 
 > De nieuwste pop songs\. Cover: Miley
 
-1,577 songs - 3 day 8 hr 59 min
+1,578 songs - 3 day 9 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -261,6 +261,7 @@
 | [Come Over](https://open.spotify.com/track/6efcMTYO2lJ0zcpQEPk8m1) | [LE SSERAFIM](https://open.spotify.com/artist/4SpbR6yFEvexJuaBpgAU5p) | [HOT](https://open.spotify.com/album/3lyRrGhXCCMbt4jVO9Wur2) | 2:17 | 2025-03-20 | 2025-05-30 |
 | [Coming of Age \(feat\. Melle\)](https://open.spotify.com/track/7Did4KpyQRorJo0L3k8zx5) | [Maryn Charlie](https://open.spotify.com/artist/71JkqGrg5nuc5sIVCCTjvL), [Melle](https://open.spotify.com/artist/0tNutPAfpYEeY6YEzwIXQp) | [Out of the blue](https://open.spotify.com/album/31KrWGRwKiI6ZLjStdSZ1V) | 2:48 | 2024-02-05 | 2024-04-13 |
 | [Coming Up Roses](https://open.spotify.com/track/0QPdjsMOUhwouq1NS3HwfQ) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 4:08 | 2026-03-13 | 2026-06-09 |
+| [Company](https://open.spotify.com/track/1VixD42StOF93a1naJMGnb) | [Clean Bandit](https://open.spotify.com/artist/6MDME20pz9RveH9rEXvrOM), [Chlöe](https://open.spotify.com/artist/1FtBEIWAwvw5ymBen5GICR), [OMAH LAY](https://open.spotify.com/artist/5yOvAmpIR7hVxiS6Ls5DPO) | [Company](https://open.spotify.com/album/1tHG3rISWudn1FJoDjV56d) | 2:52 | 2026-09-21 |  |
 | [COMPASS](https://open.spotify.com/track/6PtvYwIwjxzdiGp75CpSEq) | [Matt Hansen](https://open.spotify.com/artist/6wlhqnATSJIc0NQ64VxOVJ) | [COMPASS](https://open.spotify.com/album/1lJt7C7eHagAriSFVvZMGH) | 2:46 | 2025-12-17 | 2026-03-03 |
 | [Complicated](https://open.spotify.com/track/1Ic99VrqmtQr6BHuzBDdrj) | [Isabel van Gelder](https://open.spotify.com/artist/4FAFRhpZUK7DnI1VWX2STP) | [Complicated](https://open.spotify.com/album/4ylYArRmCjDvKFS5Sd8HPE) | 3:39 | 2026-07-16 |  |
 | [Complicated](https://open.spotify.com/track/6JHZYOwjOuCnJ836WKaB9U) | [Sofia Camara](https://open.spotify.com/artist/5bdLfpk3TpFVwrlHWmPL55) | [Hard To Love](https://open.spotify.com/album/4Xu5xQYLQvdWXOp7QenPwp) | 3:07 | 2025-10-10 | 2026-01-27 |
@@ -539,7 +540,7 @@
 | [Gone Gone Gone](https://open.spotify.com/track/3Dy4xsff7c0fRaTJpA54yd) | [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Teddy Swims](https://open.spotify.com/artist/33qOK5uJ8AR2xuQQAhHump), [Tones And I](https://open.spotify.com/artist/2NjfBq1NflQcKSeiDooVjY) | [Gone Gone Gone](https://open.spotify.com/album/39FHrt5YWp4HY7dHDn8Owz) | 3:18 | 2025-10-17 | 2026-02-04 |
 | [Gone to Bed](https://open.spotify.com/track/4LQK4d8DCI8i16lFWk2kll) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gone to Bed](https://open.spotify.com/album/5Zmu0lS6RYtopzhAu9lQZW) | 2:56 | 2023-11-16 | 2023-11-21 |
 | [Gone to Bed](https://open.spotify.com/track/5YsZ5RcXZNT3FtelGBjOOM) | [Ally Brooke](https://open.spotify.com/artist/6TXM1kV4L8DsDAkAfbOPYk) | [Gone to Bed](https://open.spotify.com/album/6gQWEEUDu0XtFvJLgsdTr3) | 2:56 | 2023-09-29 | 2024-01-05 |
-| [Good At Leaving](https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Is This Heaven? \(Extended\)](https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK) | 2:49 | 2026-07-02 |  |
+| [Good At Leaving](https://open.spotify.com/track/6ROMMDonzrFEpC46ptxhcE) | [STELLA LEFTY](https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2) | [Is This Heaven? \(Extended\)](https://open.spotify.com/album/5UamcRKGRLG1mxQ16aonmK) | 2:49 | 2026-07-02 | 2026-09-22 |
 | [GOOD FEELiNGS](https://open.spotify.com/track/65wzicJctsW9GwnTnLWxQO) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [Ayra Starr](https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq) | [Moon Music](https://open.spotify.com/album/5SGtrmYbIo0Dsg4kJ4qjM6) | 3:37 | 2024-10-10 | 2024-12-13 |
 | [Good Girls](https://open.spotify.com/track/0asjqzMqp1Cw0l2IMhHy8p) | [Florence Arman](https://open.spotify.com/artist/2OTqocUdUt52tEuCd1sJ15) | [Good Girls](https://open.spotify.com/album/5zLyLLidlR9S3L1QcCyb2D) | 2:47 | 2023-06-01 | 2023-08-26 |
 | [Good Ones](https://open.spotify.com/track/5AuqGkHqaX9qdn9aZlvBUb) | [Sadie Jean](https://open.spotify.com/artist/0sMAHzxguan2KpnKFZPW2d) | [Good Ones](https://open.spotify.com/album/1RK7afQN4wTu90lEqbVDou) | 3:19 | 2026-05-21 | 2026-09-04 |

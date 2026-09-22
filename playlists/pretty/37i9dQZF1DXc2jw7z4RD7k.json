@@ -1,12 +1,12 @@
 {
   "description": "It's giving coastal grandmother, it's giving Diane Keaton, it's giving apple pies.",
-  "num_followers": 195261,
+  "num_followers": 195273,
   "original_name": "Grandma's Home",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAGaSNZCHTbd6Ci7RcOlPDI0G6S2r",
+  "snapshot_id": "AAAAAN/+TEUopl7k7EWZBLThM39AgadW",
   "tracks": [
     {
       "added_at": "2025-12-29 03:21:47",
@@ -311,6 +311,26 @@
       "duration_ms": 166026,
       "name": "Baby I Need Your Loving",
       "url": "https://open.spotify.com/track/3aCbwWCYCT3MJjZeUnlcp4"
+    },
+    {
+      "added_at": "2026-09-21 20:39:53",
+      "album": {
+        "name": "Goldfish",
+        "url": "https://open.spotify.com/album/2W6SenvzH0sU2fLjsV8Fbt"
+      },
+      "artists": [
+        {
+          "name": "Kenny Chesney",
+          "url": "https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O"
+        },
+        {
+          "name": "Lily Meola",
+          "url": "https://open.spotify.com/artist/5WC6EbIrTO76x30w5LtzS6"
+        }
+      ],
+      "duration_ms": 184760,
+      "name": "Goldfish",
+      "url": "https://open.spotify.com/track/5O69peW9EeytnJ84HFfS43"
     },
     {
       "added_at": "2025-12-29 03:21:47",
@@ -699,22 +719,6 @@
       "duration_ms": 293853,
       "name": "Wind Beneath My Wings",
       "url": "https://open.spotify.com/track/2Pxqs0WmxxHTV5QaTdmt3Q"
-    },
-    {
-      "added_at": "2025-12-29 03:21:47",
-      "album": {
-        "name": "A Man Without Love",
-        "url": "https://open.spotify.com/album/2zQM1HOK5OnDGF1SSWExnE"
-      },
-      "artists": [
-        {
-          "name": "Engelbert Humperdinck",
-          "url": "https://open.spotify.com/artist/17XXKfRBMCWvLrqGoNkJXm"
-        }
-      ],
-      "duration_ms": 203133,
-      "name": "A Man Without Love",
-      "url": "https://open.spotify.com/track/0oUBuOO4g9P4lREqfqR5nq"
     },
     {
       "added_at": "2025-12-29 03:21:47",

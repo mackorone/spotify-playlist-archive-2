@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbzqS7BvZFvj.md) - [plain]
 
 > 最前線のヒップホップ・シーンで活躍するアーティストのトラックをピックアップ。Cover: Nemzzz
 
-[Spotify](https://open.spotify.com/user/spotify) - 80,688 likes - 121 songs - 5 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 80,694 likes - 121 songs - 5 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

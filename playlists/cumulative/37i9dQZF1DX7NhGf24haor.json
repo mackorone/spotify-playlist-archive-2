@@ -1224,7 +1224,7 @@
       ],
       "date_added": "2026-06-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 201750,
       "name": "All I Am",
       "url": "https://open.spotify.com/track/7paqDj5KUo47My3t8latkt"
@@ -2798,7 +2798,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 171035,
       "name": "BACK TO BASICS",
       "url": "https://open.spotify.com/track/26Ia0YGbzItnlz5IpewDaI"
@@ -3250,6 +3250,24 @@
       "duration_ms": 212209,
       "name": "Bass Squad",
       "url": "https://open.spotify.com/track/7AZ3MHFkThHcwbweIFO6Ms"
+    },
+    {
+      "album": {
+        "name": "BASSLINE GENERATOR",
+        "url": "https://open.spotify.com/album/3CZDeK2mRFYQvgyieQcTIh"
+      },
+      "artists": [
+        {
+          "name": "Shogun",
+          "url": "https://open.spotify.com/artist/6fyH2BV1kLXnySKVxGek9l"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177882,
+      "name": "BASSLINE GENERATOR",
+      "url": "https://open.spotify.com/track/0Hd1FaAVpIbgX8S4Pq3yII"
     },
     {
       "album": {
@@ -7441,6 +7459,24 @@
     },
     {
       "album": {
+        "name": "Cold War",
+        "url": "https://open.spotify.com/album/3jGcgpAQPrf7NuMBtGB5dq"
+      },
+      "artists": [
+        {
+          "name": "Alex M",
+          "url": "https://open.spotify.com/artist/0F3x3BTKWHxpExSz8nAtuy"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 148500,
+      "name": "Cold War",
+      "url": "https://open.spotify.com/track/4sAfYmbsWNJ0c5drsicZQp"
+    },
+    {
+      "album": {
         "name": "Collusion",
         "url": "https://open.spotify.com/album/3Qz0E28Kj94FGAFcbi41p7"
       },
@@ -8346,7 +8382,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 171000,
       "name": "D13MENSION",
       "url": "https://open.spotify.com/track/2BDomGju8g74Iywz15Vqa4"
@@ -13304,7 +13340,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 159750,
       "name": "Feel The Rhythm",
       "url": "https://open.spotify.com/track/6n32md1tJScsO41p7A5Uxw"
@@ -17981,6 +18017,24 @@
     },
     {
       "album": {
+        "name": "Honor The Fight",
+        "url": "https://open.spotify.com/album/39muhpie6LOF8lcqv1phNf"
+      },
+      "artists": [
+        {
+          "name": "Brutalizer",
+          "url": "https://open.spotify.com/artist/6416cEVN24ELoGBIrpTsUe"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 154535,
+      "name": "Honor The Fight",
+      "url": "https://open.spotify.com/track/1XRGceZKEYu7rPeb43gMj4"
+    },
+    {
+      "album": {
         "name": "HOOYAH",
         "url": "https://open.spotify.com/album/208By9hRIyXqCXEtKygFxw"
       },
@@ -19390,7 +19444,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 214177,
       "name": "In The Cold",
       "url": "https://open.spotify.com/track/0bVhZad4vD2UIYBTQPKAQR"
@@ -20092,7 +20146,7 @@
       ],
       "date_added": "2026-09-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 203334,
       "name": "Iris",
       "url": "https://open.spotify.com/track/2REERyq54pbjeAuddwqJkR"
@@ -22647,6 +22701,24 @@
     },
     {
       "album": {
+        "name": "Light Inside",
+        "url": "https://open.spotify.com/album/3uPm21MXHQOqC0N9pe1vJg"
+      },
+      "artists": [
+        {
+          "name": "D\u00c2VIN\u00d8",
+          "url": "https://open.spotify.com/artist/5S7oiAcfKX87nwd1kqgvfh"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 254820,
+      "name": "Light Inside",
+      "url": "https://open.spotify.com/track/4ZpkB3mSWvFGfkojOPhn77"
+    },
+    {
+      "album": {
         "name": "Light Up Your Eardrums",
         "url": "https://open.spotify.com/album/3wtOpOr8t85bRLHwiEYfw3"
       },
@@ -24406,7 +24478,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 181333,
       "name": "MAKE ME FEEL",
       "url": "https://open.spotify.com/track/7caJCdkcLdZHeIuArPdbxV"
@@ -25610,6 +25682,28 @@
       "duration_ms": 139750,
       "name": "Monster",
       "url": "https://open.spotify.com/track/5dwOYJUWGZb7uKiw8EXM3M"
+    },
+    {
+      "album": {
+        "name": "MONSTERS",
+        "url": "https://open.spotify.com/album/1auAaOjrJVOmlrRwxdAreH"
+      },
+      "artists": [
+        {
+          "name": "Hard Driver",
+          "url": "https://open.spotify.com/artist/1rpLzYzfrueWdkpcIunZQl"
+        },
+        {
+          "name": "Digital Punk",
+          "url": "https://open.spotify.com/artist/3GAHYVHU0HppTq2qgzejcv"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 200250,
+      "name": "MONSTERS",
+      "url": "https://open.spotify.com/track/1RAxsBOTBZkTEAwNOdVBee"
     },
     {
       "album": {
@@ -27301,6 +27395,28 @@
     },
     {
       "album": {
+        "name": "No Days Off",
+        "url": "https://open.spotify.com/album/0fnzFgkRTYrNQ1euF3PuVa"
+      },
+      "artists": [
+        {
+          "name": "STANIMA",
+          "url": "https://open.spotify.com/artist/03SNzkbAeHfFnh16M8uxCk"
+        },
+        {
+          "name": "Manji",
+          "url": "https://open.spotify.com/artist/3kKttmkT96hcdqjZUvlhmn"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 151766,
+      "name": "No Days Off",
+      "url": "https://open.spotify.com/track/6CabvPrIzJ7N4zeBejZbl9"
+    },
+    {
+      "album": {
         "name": "No Escape",
         "url": "https://open.spotify.com/album/7JUEDj3uxcRpLkMX0jmQCM"
       },
@@ -28818,7 +28934,7 @@
       ],
       "date_added": "2026-07-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 151511,
       "name": "Only A Dream",
       "url": "https://open.spotify.com/track/7clq2H6YuiuSka2CdQz007"
@@ -29792,6 +29908,28 @@
       "duration_ms": 213000,
       "name": "Paradise",
       "url": "https://open.spotify.com/track/3vyw1KgD1UNpWbupv7vkE4"
+    },
+    {
+      "album": {
+        "name": "PARADISE DENIED",
+        "url": "https://open.spotify.com/album/1B8TZYjob9W7WlC4kYV4k6"
+      },
+      "artists": [
+        {
+          "name": "Bloodlust",
+          "url": "https://open.spotify.com/artist/1vDMUXdbIJHTSC8ZAf2Zqp"
+        },
+        {
+          "name": "Omnya",
+          "url": "https://open.spotify.com/artist/1YvxDrTQpgqX8uSK4gjtPL"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 214500,
+      "name": "PARADISE DENIED",
+      "url": "https://open.spotify.com/track/1kojNRCJH9Ox2FuZiNvZCK"
     },
     {
       "album": {
@@ -31417,6 +31555,28 @@
     },
     {
       "album": {
+        "name": "Rave All Night",
+        "url": "https://open.spotify.com/album/4mplHw7LGA9oUkmSVqPaWo"
+      },
+      "artists": [
+        {
+          "name": "LNY TNZ",
+          "url": "https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa"
+        },
+        {
+          "name": "Vorwerk",
+          "url": "https://open.spotify.com/artist/0JiAaia66Exx0UcsxD4TiC"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194050,
+      "name": "Rave All Night",
+      "url": "https://open.spotify.com/track/35HFqKxssjlArlOQDOpnda"
+    },
+    {
+      "album": {
         "name": "Rave Core",
         "url": "https://open.spotify.com/album/3WpXFV9C6AAtjh87Crm4CN"
       },
@@ -32636,7 +32796,7 @@
       ],
       "date_added": "2026-07-10",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 190071,
       "name": "Remember",
       "url": "https://open.spotify.com/track/2F7hssH5piweJqMyMJ0Neu"
@@ -36210,7 +36370,7 @@
       ],
       "date_added": "2026-08-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 138840,
       "name": "Spring - DROPIXX & Araysen Remix",
       "url": "https://open.spotify.com/track/6YUjk92DakxRy0RE5mEZVQ"
@@ -37442,7 +37602,7 @@
       ],
       "date_added": "2026-08-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 174674,
       "name": "Sun Goes Down",
       "url": "https://open.spotify.com/track/4OVI0F3RB7FiMvABD9Veor"
@@ -40056,6 +40216,24 @@
       "duration_ms": 144000,
       "name": "The Nightmare Project",
       "url": "https://open.spotify.com/track/1kMIk5PtG4v7089GiRjtFs"
+    },
+    {
+      "album": {
+        "name": "The Nights",
+        "url": "https://open.spotify.com/album/7JOKU2nuecI6SHOHqFnILA"
+      },
+      "artists": [
+        {
+          "name": "Da Tweekaz",
+          "url": "https://open.spotify.com/artist/6UOk7DmvqlzWmo6gjhZvn6"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 172906,
+      "name": "The Nights",
+      "url": "https://open.spotify.com/track/3ZwqxxxhTqJJPUFxRawNMj"
     },
     {
       "album": {
@@ -42750,7 +42928,7 @@
       ],
       "date_added": "2026-08-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 144753,
       "name": "UNDERGROUND",
       "url": "https://open.spotify.com/track/75jxcaLJYPZ5rPzR8LwoS0"
@@ -43301,6 +43479,24 @@
     },
     {
       "album": {
+        "name": "Up To No Good",
+        "url": "https://open.spotify.com/album/2NMShQxvxTtT8kDKnErGkk"
+      },
+      "artists": [
+        {
+          "name": "The Pitcher",
+          "url": "https://open.spotify.com/artist/1QsT3VKbdtjMxXoy9myb2X"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180905,
+      "name": "Up To No Good",
+      "url": "https://open.spotify.com/track/6zhUMptQ0zpkMFeqnMu7UL"
+    },
+    {
+      "album": {
         "name": "Up, Down, Left, Right",
         "url": "https://open.spotify.com/album/35vXtZNrFjgaoxmPYE9bLf"
       },
@@ -43574,6 +43770,28 @@
       "duration_ms": 240613,
       "name": "Venom (Protect Ya Neck)",
       "url": "https://open.spotify.com/track/1jWw2JCMWw9nqwSxIi7cH8"
+    },
+    {
+      "album": {
+        "name": "Verdwaald",
+        "url": "https://open.spotify.com/album/2TgzFwuzmAHALDjGrWefak"
+      },
+      "artists": [
+        {
+          "name": "De Kraaien",
+          "url": "https://open.spotify.com/artist/2TZJIIHDLfgdMLFejURyKf"
+        },
+        {
+          "name": "FIANCA",
+          "url": "https://open.spotify.com/artist/4dPZopCUTWz2NzZvWE1O0N"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 177719,
+      "name": "Verdwaald",
+      "url": "https://open.spotify.com/track/1pHLppMgE4lPneBfoEq3I7"
     },
     {
       "album": {
@@ -46624,6 +46842,24 @@
       "duration_ms": 195375,
       "name": "X.T.C.",
       "url": "https://open.spotify.com/track/753yCfzbjKWtG6q43B4E8i"
+    },
+    {
+      "album": {
+        "name": "XTAZEE",
+        "url": "https://open.spotify.com/album/7lz26GNZCCsRSGYgJMLoVU"
+      },
+      "artists": [
+        {
+          "name": "More Kords",
+          "url": "https://open.spotify.com/artist/732oUYDDflptHEHS7zy05D"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 170600,
+      "name": "XTAZEE",
+      "url": "https://open.spotify.com/track/4Z1V3GTqdm5tzyKkYB9rPW"
     },
     {
       "album": {

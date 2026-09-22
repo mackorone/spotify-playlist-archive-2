@@ -1,6 +1,6 @@
 {
   "description": "\u5230\u4e86\u9031\u672b\uff0c\u4f60\u61c9\u8a72\u8a66\u8457\u628a\u67d4\u8edf\u7684\u611f\u89ba\u627e\u56de\u4f86\uff0c\u5c0f\u61a9\u4e00\u4e0b\u3001\u5c0f\u8d70\u4e00\u6bb5\u3001\u5c0f\u914c\u4e00\u676f\u6216\u5c0f\u54ed\u4e00\u5834\u3002",
-  "num_followers": 130485,
+  "num_followers": 130484,
   "original_name": "\u9031\u672b\u6e05\u807d",
   "owner": {
     "name": "Spotify",
@@ -535,22 +535,18 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
-        "url": "https://open.spotify.com/album/38Qh0wQ32ixfQ8V5rx7jmt"
+        "name": "If Only...",
+        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
       },
       "artists": [
         {
-          "name": "Juice Boy",
-          "url": "https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H"
-        },
-        {
-          "name": "PIZZALI",
-          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
+          "name": "\u00d8ZI",
+          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
         }
       ],
-      "duration_ms": 164658,
-      "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
-      "url": "https://open.spotify.com/track/552mGoI859GSkBonycZohA"
+      "duration_ms": 187369,
+      "name": "If Only...",
+      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
     },
     {
       "added_at": "2026-02-12 16:00:30",
@@ -571,18 +567,22 @@
     {
       "added_at": "2026-02-12 16:00:30",
       "album": {
-        "name": "If Only...",
-        "url": "https://open.spotify.com/album/2PflyuQL0apWi1Mz079F4Y"
+        "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
+        "url": "https://open.spotify.com/album/38Qh0wQ32ixfQ8V5rx7jmt"
       },
       "artists": [
         {
-          "name": "\u00d8ZI",
-          "url": "https://open.spotify.com/artist/7Icsejk4pdIhkq2KO5A0jD"
+          "name": "Juice Boy",
+          "url": "https://open.spotify.com/artist/2PRHe0bqimdQP9pSORGE6H"
+        },
+        {
+          "name": "PIZZALI",
+          "url": "https://open.spotify.com/artist/5AIqzRLM5XgtjdCjnbvJx7"
         }
       ],
-      "duration_ms": 187369,
-      "name": "If Only...",
-      "url": "https://open.spotify.com/track/79rFtrqN1JHoZDAnBJ6TwJ"
+      "duration_ms": 164658,
+      "name": "\u4e00\u842c\u516c\u91cc\u5916\u7684\u4f60 (Acoustic)",
+      "url": "https://open.spotify.com/track/552mGoI859GSkBonycZohA"
     },
     {
       "added_at": "2026-02-12 16:00:30",

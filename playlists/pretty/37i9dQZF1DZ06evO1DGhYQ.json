@@ -1,12 +1,12 @@
 {
   "description": "This is ALI. The essential tracks, all in one playlist.",
-  "num_followers": 9778,
+  "num_followers": 9779,
   "original_name": "This Is ALI",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAADzA+lAzdYKW8h5y4utJiM",
+  "snapshot_id": "aq8iAAAAAAAA85/WkzJauZGqZGufXYDT",
   "tracks": [
     {
       "added_at": null,
@@ -454,11 +454,15 @@
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        },
+        {
+          "name": "SARM",
+          "url": "https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP"
         }
       ],
-      "duration_ms": 265300,
-      "name": "SPARKLE",
-      "url": "https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO"
+      "duration_ms": 269100,
+      "name": "IN THE MOOD FOR LOVE",
+      "url": "https://open.spotify.com/track/2M6CXNUL0Upsi5eTV944N3"
     },
     {
       "added_at": null,
@@ -479,22 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "INGLOURIOUS EASTERN COWBOY",
-        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 209200,
-      "name": "Dance You, Matilda",
-      "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Vim",
         "url": "https://open.spotify.com/album/5jPCOGSqbWXzcBs0ADhn5z"
       },
@@ -511,6 +499,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "INGLOURIOUS EASTERN COWBOY",
+        "url": "https://open.spotify.com/album/1inqg1yD9EMoVZqKXw5gmg"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 209200,
+      "name": "Dance You, Matilda",
+      "url": "https://open.spotify.com/track/3zhx8K4SxwHLWtAZRiNdsq"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "MUSIC WORLD",
         "url": "https://open.spotify.com/album/2CyKgEGTTDk877h5CDz5zW"
       },
@@ -518,15 +522,11 @@
         {
           "name": "ALI",
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        },
-        {
-          "name": "SARM",
-          "url": "https://open.spotify.com/artist/53pyDdbX1I71Wcyr8ZPJAP"
         }
       ],
-      "duration_ms": 269100,
-      "name": "IN THE MOOD FOR LOVE",
-      "url": "https://open.spotify.com/track/2M6CXNUL0Upsi5eTV944N3"
+      "duration_ms": 266133,
+      "name": "MELLOW CRUISE",
+      "url": "https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA"
     },
     {
       "added_at": null,
@@ -540,17 +540,13 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         },
         {
-          "name": "J-Rexxx",
-          "url": "https://open.spotify.com/artist/5RNhX2Lm64fQpfcHwOWSbx"
-        },
-        {
-          "name": "RUEED",
-          "url": "https://open.spotify.com/artist/4iIx9O5HVTda3EyChrHkTK"
+          "name": "Kazuo",
+          "url": "https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY"
         }
       ],
-      "duration_ms": 241133,
-      "name": "FIGHT DUB CLUB",
-      "url": "https://open.spotify.com/track/2Jgq2YG8bYFnwqFFFr0rbx"
+      "duration_ms": 254773,
+      "name": "KEEP YOUR HEAD UP",
+      "url": "https://open.spotify.com/track/6obSLuEgeFp54c5iDa8BsR"
     },
     {
       "added_at": null,
@@ -596,9 +592,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 266133,
-      "name": "MELLOW CRUISE",
-      "url": "https://open.spotify.com/track/5rwjc8p9p8jDcuyzWWKvKA"
+      "duration_ms": 265300,
+      "name": "SPARKLE",
+      "url": "https://open.spotify.com/track/2IIE9qJNoazhj61870dgkO"
     },
     {
       "added_at": null,
@@ -612,13 +608,17 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         },
         {
-          "name": "Kazuo",
-          "url": "https://open.spotify.com/artist/6JN1a5p0aucHtYCLSl3vnY"
+          "name": "J-Rexxx",
+          "url": "https://open.spotify.com/artist/5RNhX2Lm64fQpfcHwOWSbx"
+        },
+        {
+          "name": "RUEED",
+          "url": "https://open.spotify.com/artist/4iIx9O5HVTda3EyChrHkTK"
         }
       ],
-      "duration_ms": 254773,
-      "name": "KEEP YOUR HEAD UP",
-      "url": "https://open.spotify.com/track/6obSLuEgeFp54c5iDa8BsR"
+      "duration_ms": 241133,
+      "name": "FIGHT DUB CLUB",
+      "url": "https://open.spotify.com/track/2Jgq2YG8bYFnwqFFFr0rbx"
     },
     {
       "added_at": null,
@@ -647,8 +647,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wild Side",
-        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
+        "name": "VIVA LA MUSICA",
+        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
       },
       "artists": [
         {
@@ -656,9 +656,9 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 189466,
-      "name": "Jungle Love",
-      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
+      "duration_ms": 220800,
+      "name": "WILD ANGEL",
+      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "VIVA LA MUSICA",
-        "url": "https://open.spotify.com/album/2miX8EtW3WyZIB2cX4DlEx"
+        "name": "Wild Side",
+        "url": "https://open.spotify.com/album/3orsbAMCSTKfOflkip7puY"
       },
       "artists": [
         {
@@ -708,9 +708,25 @@
           "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
         }
       ],
-      "duration_ms": 220800,
-      "name": "WILD ANGEL",
-      "url": "https://open.spotify.com/track/5rng1DB3PaY6KSQCHVWyFM"
+      "duration_ms": 189466,
+      "name": "Jungle Love",
+      "url": "https://open.spotify.com/track/63QCUBOTQHjSU4Vawd5dNA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "LONELY LONELY",
+        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
+      },
+      "artists": [
+        {
+          "name": "ALI",
+          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
+        }
+      ],
+      "duration_ms": 277700,
+      "name": "LONELY LONELY",
+      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
     },
     {
       "added_at": null,
@@ -731,22 +747,6 @@
       "duration_ms": 246833,
       "name": "Whole Lotta Love",
       "url": "https://open.spotify.com/track/0qRGWueuXYkUmVTaVMXDRD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "LONELY LONELY",
-        "url": "https://open.spotify.com/album/2l1mdPEpGChK4mPY237m5z"
-      },
-      "artists": [
-        {
-          "name": "ALI",
-          "url": "https://open.spotify.com/artist/2Qqrew4ZcEwf9NY7UqWGfU"
-        }
-      ],
-      "duration_ms": 277700,
-      "name": "LONELY LONELY",
-      "url": "https://open.spotify.com/track/4g8L3UDYE1dyGqjwuEpvtP"
     },
     {
       "added_at": null,

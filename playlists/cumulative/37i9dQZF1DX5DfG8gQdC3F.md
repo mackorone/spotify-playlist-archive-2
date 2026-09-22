@@ -4,7 +4,7 @@
 
 > The latest from Carly Rae Jepsen, GTAVI, Yeat & Drake, Miley Cyrus, ROSÉ, beabadoobee, Troye Sivan, Dominic Fike, and more.
 
-24,010 songs - 53 day 4 hr 3 min
+24,010 songs - 53 day 4 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -13660,7 +13660,7 @@
 | [Monaco](https://open.spotify.com/track/6DVsivH0ZQS6zzvnHACEzB) | [Zach Zoya](https://open.spotify.com/artist/0lMsSW9R8prEif6Q3aVnEH), [Koko Love](https://open.spotify.com/artist/5asP5PYlJdyHHpFdVAw9kn), [Soran](https://open.spotify.com/artist/4CJrJassgp2sYfvhNPKh9x) | [Monaco](https://open.spotify.com/album/3NhCbVbQL1xDlTEDMTjo38) | 2:13 | 2024-06-14 | 2024-06-22 |
 | [MONACO \(with LZee\)](https://open.spotify.com/track/1bAhL3mGCamKx92Qrn1hTf) | [Anna Sofia](https://open.spotify.com/artist/3ONUI6Gh4s7kcv3h0EuG2K), [LZee](https://open.spotify.com/artist/3HnjTikMlwQmZt88pd5ONe) | [MONACO \(with LZee\)](https://open.spotify.com/album/3YMxLSVaZ8SbnXzHVjyMdY) | 2:37 | 2024-10-04 | 2024-10-12 |
 | [monalisa, we miss you//](https://open.spotify.com/track/2MFtNJEL5yexgzMT3wAXOU) | [KennyHoopla](https://open.spotify.com/artist/5ObBtv5VunwwhQaXXnUrsM) | [conditions of an orphan//](https://open.spotify.com/album/3zxmqudfcPr7f5Fk066Fid) | 3:38 | 2025-09-19 | 2025-09-27 |
-| [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 4:45 | 2026-09-18 |  |
+| [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 3:45 | 2026-09-18 |  |
 | [Monde à l'envers](https://open.spotify.com/track/5xPe20zJWnml85Wny8eVKp) | [White\-B](https://open.spotify.com/artist/2HnpdXm17xsrVYtmsf7CHM) | [Monde à l'envers](https://open.spotify.com/album/5qp7lZF7rprWVLg0oYPHYP) | 2:32 | 2024-10-18 | 2024-10-26 |
 | [Money](https://open.spotify.com/track/3PIgAVNHyiiAiKhxnvdrPw) | [Arkells](https://open.spotify.com/artist/3ShGiAyhxI6Rq3TknZ3gfk), [Portugal\. The Man](https://open.spotify.com/artist/4kI8Ie27vjvonwaB2ePh8T) | [Money](https://open.spotify.com/album/49seZuE8IzjfFOLEhU0F8X) | 3:32 | 2025-12-19 | 2026-01-03 |
 | [Money](https://open.spotify.com/track/3OMZYyePjXvyoYapvXha5j) | [JAY1](https://open.spotify.com/artist/0BKx4UjPvXVGY15u0xFbbi), [Chandler Jewels](https://open.spotify.com/artist/3Jd7z115OQPFsb8W96yPjv) | [Money](https://open.spotify.com/album/6KKUeARPA9fr5i2NVJftJY) | 2:17 | 2025-03-21 | 2025-03-29 |

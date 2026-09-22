@@ -4,7 +4,7 @@
 
 > The perfect backdrop to an evening spent relaxing in solitude.
 
-581 songs - 2 day 3 hr 38 min
+582 songs - 2 day 3 hr 42 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -382,6 +382,7 @@
 | [Perfectly Unhappy](https://open.spotify.com/track/5gyifUjBAt2XPhmCj70jGR) | [Espen Eriksen Trio](https://open.spotify.com/artist/57BkYLMXOYqJ7KHFhd1VST), [Andy Sheppard](https://open.spotify.com/artist/3xMyc3x1YAI2LmA2X5IQHD) | [In the Mountains](https://open.spotify.com/album/08ZNmk25bNcrUQ9Yj6VSr4) | 8:41 | 2022-04-28 | 2026-03-21 |
 | [Petrichor](https://open.spotify.com/track/0wXhAI4j4g1mZdcZwCvHIU) | [ARTEMIS](https://open.spotify.com/artist/7kjwuPH9RX2FaR1R0Tde4W) | [Petrichor](https://open.spotify.com/album/5xEYOG6rRWYjQ0Oaok4c0d) | 5:39 | 2025-02-14 | 2025-04-12 |
 | [Pictures \- Instrumental](https://open.spotify.com/track/080lT3us8k0pYleQ3JCAMt) | [Keyon Harrold](https://open.spotify.com/artist/4JG781pl96pL2h0AoERgOA) | [Pictures \(Instrumental\)](https://open.spotify.com/album/5VjByV0PJCgVWG0B0b2hx1) | 4:50 | 2025-01-10 | 2025-02-08 |
+| [Place of Two](https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf) | [Okvsho](https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9) | [Frozen Flashes](https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8) | 4:06 | 2026-09-21 |  |
 | [Plainsong](https://open.spotify.com/track/4SrykUt9al7hl3tDYd1G86) | [Fred Hersch](https://open.spotify.com/artist/7w7DFqQNjVMW5NRvjM8JPx), [Drew Gress](https://open.spotify.com/artist/4HMyzDtVu6uNLYQZqYeOXK), [Joey Baron](https://open.spotify.com/artist/0sQXx1Ji0yvldYg6cuEAOW) | [The Surrounding Green](https://open.spotify.com/album/0X4iyYATnXLm1IvSNp3bfq) | 5:50 | 2025-06-27 | 2025-08-24 |
 | [Point Of View](https://open.spotify.com/track/27MWj3buZO5OOZYpXJgAkx) | [Steven Feifke](https://open.spotify.com/artist/5YSPlTYVnXaRSQKCE9wH7S), [Blue Lou Marini](https://open.spotify.com/artist/7hudoVzdSvweH71zKP0B53) | [Point of View](https://open.spotify.com/album/4boY7cjoRXzsvnJaYEShIA) | 5:36 | 2025-08-29 | 2025-09-27 |
 | [PRAYER](https://open.spotify.com/track/5GIHgkip0SeCDcuBsEUGUi) | [Joel Ross](https://open.spotify.com/artist/5OSxNS2UGq8dW38T57o78l) | [PRAYER](https://open.spotify.com/album/1pR1odHigDWvudMQgYMrhs) | 7:45 | 2022-03-10 | 2022-06-23 |

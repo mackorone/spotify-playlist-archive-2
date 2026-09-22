@@ -4,7 +4,7 @@
 
 > Holdin' it down for the westside\. Cover: AZ Chike
 
-1,760 songs - 3 day 9 hr 43 min
+1,761 songs - 3 day 9 hr 45 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -64,7 +64,8 @@
 | [95](https://open.spotify.com/track/76Tf4CYX4mElzS20GySgXO) | [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q) | [95](https://open.spotify.com/album/0XcJnYkImcj4rFMXcde7m6) | 2:27 | 2022-10-28 | 2022-12-03 |
 | [9AM](https://open.spotify.com/track/0qbnL8Zm0Plstxefrp3pwM) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [Kamaiyah](https://open.spotify.com/artist/3XVpDdKav6C6zwlDXPhMEO), [Harry Fraud](https://open.spotify.com/artist/37ASGd4rWpHjuVonnYAN6S) | [9AM](https://open.spotify.com/album/4sbEtCeq0kWRNUYYy9ifAl) | 3:05 | 2023-09-29 | 2024-02-17 |
 | [A Few Things](https://open.spotify.com/track/6xyrDxA7m9ORwY5XMA1cJE) | [Guapdad 4000](https://open.spotify.com/artist/0NcPKaSNIHAM2RfioH9vMT), [Jai'Len Josey](https://open.spotify.com/artist/1BAN8UUSAMDeNfP1Wo5WWr) | [A Few Things](https://open.spotify.com/album/0byh8hdr3vZyWZ8mfeu8fN) | 3:21 | 2026-02-27 | 2026-03-28 |
-| [A Good Day](https://open.spotify.com/track/4CrnExkcZkg6Aek113hAWl) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6sMIP5Lvb3Is5dwkzOawtm) | 2:31 | 2026-09-18 |  |
+| [A Good Day](https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX) | 2:31 | 2026-09-21 |  |
+| [A Good Day](https://open.spotify.com/track/4CrnExkcZkg6Aek113hAWl) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6sMIP5Lvb3Is5dwkzOawtm) | 2:31 | 2026-09-18 | 2026-09-22 |
 | [A\-Wax & O\-Dog](https://open.spotify.com/track/0rM1ApMWW6RRk7Hbme8omR) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [What They Hittin 4](https://open.spotify.com/album/1vvhGE0zYoGnjQhhx0SWi9) | 2:58 | 2022-11-11 | 2023-02-11 |
 | [A\-Wax & O\-Dog](https://open.spotify.com/track/2kQysaEEoS0lC6aecJf6Yl) | [Jay Worthy](https://open.spotify.com/artist/7jDblfQQLFAZCKXFfoGZ9Q), [DJ Muggs](https://open.spotify.com/artist/7pDkjftAxiFHomWsPNkapS), [MC Eiht](https://open.spotify.com/artist/4XqfpACObRB5AsBcUYjL8X) | [What They Hittin 4](https://open.spotify.com/album/7v0WlaIQ04GDsdTuVd8xS9) | 2:58 | 2022-11-11 | 2022-11-16 |
 | [About You](https://open.spotify.com/track/0P9lyICk63dqZSqXV2HBP0) | [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [About You](https://open.spotify.com/album/24i8TDxRtaHGSDiWjVyseC) | 2:50 | 2021-12-03 | 2022-03-12 |

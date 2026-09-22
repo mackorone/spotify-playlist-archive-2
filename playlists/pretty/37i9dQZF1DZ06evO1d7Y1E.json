@@ -1,12 +1,12 @@
 {
   "description": "This is Mc Poze do Rodo. The essential tracks, all in one playlist.",
-  "num_followers": 117555,
+  "num_followers": 117562,
   "original_name": "This Is Mc Poze do Rodo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAABI3CbAQTtpGeYMiXDBhvf",
+  "snapshot_id": "aq8iAAAAAAAMvHXBIDqsgwUMwukZW0Jp",
   "tracks": [
     {
       "added_at": null,
@@ -371,6 +371,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Liberdade",
+        "url": "https://open.spotify.com/album/2lmzrJYfk5WQSQ4JawLrsb"
+      },
+      "artists": [
+        {
+          "name": "Oruam",
+          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
+        },
+        {
+          "name": "Galdino",
+          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Portugal No Beat",
+          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
+        }
+      ],
+      "duration_ms": 250434,
+      "name": "Madrugada \u00c9 Solid\u00e3o",
+      "url": "https://open.spotify.com/track/2zMggkRttYqOui9ZYr6QXS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Liberdade (Deluxe)",
         "url": "https://open.spotify.com/album/7zw5XT3YDZs9pIPqtyA1NN"
       },
@@ -399,34 +427,6 @@
       "duration_ms": 325039,
       "name": "Manifesto #1 - A Rua Cercada por Divis\u00e3o",
       "url": "https://open.spotify.com/track/3a1UkFymv1PL28nJHfqQO4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Liberdade",
-        "url": "https://open.spotify.com/album/2lmzrJYfk5WQSQ4JawLrsb"
-      },
-      "artists": [
-        {
-          "name": "Oruam",
-          "url": "https://open.spotify.com/artist/4yGgbQJMq9orWypwqtdzYT"
-        },
-        {
-          "name": "Galdino",
-          "url": "https://open.spotify.com/artist/0WvTL8PecsD3VxRGuHdSxj"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Portugal No Beat",
-          "url": "https://open.spotify.com/artist/71LRKKvAjoc6LyNmob269Q"
-        }
-      ],
-      "duration_ms": 250434,
-      "name": "Madrugada \u00c9 Solid\u00e3o",
-      "url": "https://open.spotify.com/track/2zMggkRttYqOui9ZYr6QXS"
     },
     {
       "added_at": null,
@@ -1427,6 +1427,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "A Nova Era",
+        "url": "https://open.spotify.com/album/2BbG0JEEVGpO2xscs9AYxT"
+      },
+      "artists": [
+        {
+          "name": "Chefin",
+          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
+        },
+        {
+          "name": "Mc Poze do Rodo",
+          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
+        },
+        {
+          "name": "Mainstreet",
+          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
+        }
+      ],
+      "duration_ms": 206557,
+      "name": "O Chamado",
+      "url": "https://open.spotify.com/track/7aiLJD8BtQyBoY8oDuranC"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Pen\u00e9lope Charmosa 3 (feat. Gibin)",
         "url": "https://open.spotify.com/album/1dEBQ4Owx5ekDmpEaSbXDI"
       },
@@ -1455,30 +1479,6 @@
       "duration_ms": 182000,
       "name": "Pen\u00e9lope Charmosa 3 (feat. Gibin)",
       "url": "https://open.spotify.com/track/1QYZ2WDtbDVZdnT1K1qONE"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "A Nova Era",
-        "url": "https://open.spotify.com/album/2BbG0JEEVGpO2xscs9AYxT"
-      },
-      "artists": [
-        {
-          "name": "Chefin",
-          "url": "https://open.spotify.com/artist/68PYmgkbRP1qZnEWOry7sB"
-        },
-        {
-          "name": "Mc Poze do Rodo",
-          "url": "https://open.spotify.com/artist/28ie4NNTa2VW2QV4Zray8M"
-        },
-        {
-          "name": "Mainstreet",
-          "url": "https://open.spotify.com/artist/25XJqeReVV38w0tR04GGBd"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "O Chamado",
-      "url": "https://open.spotify.com/track/7aiLJD8BtQyBoY8oDuranC"
     },
     {
       "added_at": null,

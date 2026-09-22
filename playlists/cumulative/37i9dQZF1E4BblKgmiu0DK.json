@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With Die Mannequin, Cherri Bomb, Allison Iraheta and more",
+  "description": "With Cherri Bomb, Die Mannequin, Allison Iraheta and more",
   "name": "Renee Cassar Radio",
   "tracks": [
     {
@@ -1500,7 +1500,7 @@
       ],
       "date_added": "2025-11-22",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 185333,
       "name": "Blackout",
       "url": "https://open.spotify.com/track/2HDo9PLQ66EOVESfVjydro"
@@ -3222,7 +3222,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 210226,
       "name": "Don't Waste The Pretty (feat. Orianthi)",
       "url": "https://open.spotify.com/track/1FvNFr9IROGVotFuxnAQpJ"
@@ -4422,7 +4422,7 @@
       ],
       "date_added": "2026-02-18",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 229506,
       "name": "Get You Off",
       "url": "https://open.spotify.com/track/0ZgaHE56xKJQhV2wroTuH5"
@@ -4854,7 +4854,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 254400,
       "name": "Hang On Me",
       "url": "https://open.spotify.com/track/34RCix3Dx61ufZFSDlIyNs"
@@ -6166,7 +6166,7 @@
       ],
       "date_added": "2025-11-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-08",
+      "date_removed": null,
       "duration_ms": 213640,
       "name": "It's Not You",
       "url": "https://open.spotify.com/track/6RjSUGBSoURetoxEdJ5JPE"
@@ -6184,7 +6184,7 @@
       ],
       "date_added": "2025-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 213480,
       "name": "It's Not You - SC Radio Mix",
       "url": "https://open.spotify.com/track/1gswIHZ2LUd4YYTo2Rw5CV"
@@ -6520,7 +6520,7 @@
       ],
       "date_added": "2026-09-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 240333,
       "name": "Kiss Me Fool",
       "url": "https://open.spotify.com/track/4ZaazZrdAqt0PrlK4gytA1"
@@ -8250,7 +8250,7 @@
       ],
       "date_added": "2026-08-01",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-17",
+      "date_removed": null,
       "duration_ms": 240453,
       "name": "No One Else",
       "url": "https://open.spotify.com/track/6nzzff6d9z3BYb2hYdutz0"
@@ -10173,6 +10173,24 @@
     },
     {
       "album": {
+        "name": "Better Than Blood",
+        "url": "https://open.spotify.com/album/3xs6yICbAPmqLUXk9Jjzks"
+      },
+      "artists": [
+        {
+          "name": "Megan McCauley",
+          "url": "https://open.spotify.com/artist/1YfkHHdFKLCMHUOFd1qHYs"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235266,
+      "name": "See Through",
+      "url": "https://open.spotify.com/track/0K7wNQkyiRqhAcoIxxXA37"
+    },
+    {
+      "album": {
         "name": "American Heretic",
         "url": "https://open.spotify.com/album/7GjjEuYWodTDyaLiLPZE8S"
       },
@@ -11158,7 +11176,7 @@
       ],
       "date_added": "2025-11-24",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 208266,
       "name": "Sweet Temptation (Hollow)",
       "url": "https://open.spotify.com/track/0P4Ne1Nzvf7wtcW5kdGuFF"
@@ -11266,7 +11284,7 @@
       ],
       "date_added": "2025-11-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 202560,
       "name": "Tap That",
       "url": "https://open.spotify.com/track/1Apbd1y0Umu8WtVPWKUmdJ"
@@ -12340,7 +12358,7 @@
       ],
       "date_added": "2026-05-17",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 115480,
       "name": "Watch Me Move",
       "url": "https://open.spotify.com/track/0E70YerfAQ1gbc6f7P2qdC"

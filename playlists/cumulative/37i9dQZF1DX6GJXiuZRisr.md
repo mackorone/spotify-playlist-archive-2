@@ -4,7 +4,7 @@
 
 > Progressive <a href="spotify:genre:edm\_dance">house</a> music for the late night highway.
 
-705 songs - 2 day 0 hr 14 min
+706 songs - 2 day 0 hr 17 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -373,8 +373,9 @@
 | [Love Instead](https://open.spotify.com/track/40VOWVEYAZ4PQZSW6yHzAP) | [SKGN](https://open.spotify.com/artist/4sVaOfvOqPgs3Qr1NDorKN), [Rico 56](https://open.spotify.com/artist/1fMQutD7EmZamY65WftFWm) | [Love Instead](https://open.spotify.com/album/60TqE96idOeQrOV29DNpk8) | 2:28 | 2022-09-09 | 2022-10-29 |
 | [Love Is Kind](https://open.spotify.com/track/2xntLwIz7kwJXqD2OgWfGT) | [The Chainsmokers](https://open.spotify.com/artist/69GGBxA162lTqCwzJG5jLp), [Oaks](https://open.spotify.com/artist/1X2sRzO3K7Uvry9JWbG2iO) | [Love Is Kind](https://open.spotify.com/album/0wP1ridvw0gHq6gOkIrLBU) | 4:07 | 2026-05-15 |  |
 | [Love Is The Only Thing](https://open.spotify.com/track/4r6c2ClnuYLwNv4lEM7XlW) | [Lost Frequencies](https://open.spotify.com/artist/7f5Zgnp2spUuuzKplmRkt7) | [Love Is The Only Thing](https://open.spotify.com/album/15jDxA16MFYS22jkKrzT59) | 2:51 | 2024-11-08 |  |
+| [Love Me Again](https://open.spotify.com/track/537GgjNn5YFi3OmjSKjBcq) | [Matt Pridgyn](https://open.spotify.com/artist/2RZVfmCJEK0AJ9JJ7Bphlu), [AURALIZE](https://open.spotify.com/artist/7aEgiw47d1LpJXF3wVl7sH), [Max Robinson](https://open.spotify.com/artist/6vB5aktp1Q3664BHNasLlx), [Lexi Scatena](https://open.spotify.com/artist/6OrvGE61MCrOZJM5naN4Vd) | [Love Me Again](https://open.spotify.com/album/3pmq8saXKW47PbcAGvBQNA) | 3:15 | 2026-09-18 |  |
 | [Love Run Out](https://open.spotify.com/track/1w7YDOf9iWyupxYPWtaXSw) | [Nora Van Elken](https://open.spotify.com/artist/04m3oUGzjO3EJTQidFzTgM) | [Love Run Out](https://open.spotify.com/album/1mFUcbjiAdsL62jdyMkEeV) | 2:38 | 2023-03-13 | 2023-07-24 |
-| [Love Shop](https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX) | [Love Shop](https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26) | 3:31 | 2025-05-23 |  |
+| [Love Shop](https://open.spotify.com/track/2P7S7IZOIs70ApL9ddtYwL) | [YOTTO](https://open.spotify.com/artist/5Dyfxq0ZrFjjeFBdSNxDbo), [Something Good](https://open.spotify.com/artist/0g5BdWwyb5SWkGnz9p4neX) | [Love Shop](https://open.spotify.com/album/5P33pqHNg5OYbLoDcvaO26) | 3:31 | 2025-05-23 | 2026-09-22 |
 | [Lucid](https://open.spotify.com/track/33UtAaighQ1xeciJ9Ls2BO) | [Duke & Jones](https://open.spotify.com/artist/3jNm5wvIx1eR5NDdXhMkNV) | [Lucid](https://open.spotify.com/album/60KEyWIuBF3tFUVSw1DJSR) | 3:04 | 2022-06-03 | 2022-08-04 |
 | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/track/24F3Ji64jymzmcjb7QUsUN) | [Paraleven](https://open.spotify.com/artist/0oWk2R8lkNaOsFSSxMRwUr), [Nathan Ball](https://open.spotify.com/artist/5a1CkvrJSjRH8ZzWTMRsCd) | [Lucid \(feat\. Nathan Ball\)](https://open.spotify.com/album/0o75gywf0q4UsAG9t1wrwg) | 4:54 | 2021-05-07 | 2022-07-29 |
 | [Luv 4 U](https://open.spotify.com/track/1w9E8Hdf1x6iCej4PzUApO) | [Cristoph](https://open.spotify.com/artist/532SqCIYmJyXEdEiCJLgYG), [SEIZMIC](https://open.spotify.com/artist/1si2uKDwgQfiJgetv2kHUd) | [Luv 4 U EP](https://open.spotify.com/album/1SqYOcBrrSReQAqfaCOyPH) | 5:27 | 2026-08-07 | 2026-09-13 |

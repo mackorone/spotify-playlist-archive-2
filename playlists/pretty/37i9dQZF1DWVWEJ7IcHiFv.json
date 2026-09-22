@@ -1,6 +1,6 @@
 {
   "description": "The Latin soundtrack of the 80s! Cover: Gloria Estefan",
-  "num_followers": 161929,
+  "num_followers": 161959,
   "original_name": "Los 80s",
   "owner": {
     "name": "Spotify",
@@ -191,22 +191,6 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
-        "name": "Busca Una Mujer",
-        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
-      },
-      "artists": [
-        {
-          "name": "Luis Miguel",
-          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
-        }
-      ],
-      "duration_ms": 235106,
-      "name": "Fr\u00eda Como El Viento",
-      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
         "name": "Gracias",
         "url": "https://open.spotify.com/album/306myLvJlcA5LBGoIYDp2D"
       },
@@ -235,6 +219,22 @@
       "duration_ms": 174946,
       "name": "Me Cuesta Tanto Olvidarte",
       "url": "https://open.spotify.com/track/5xsY1Bm1FItKFFoJ3b964t"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
+        "name": "Busca Una Mujer",
+        "url": "https://open.spotify.com/album/6JSqwckfTYWbJj4R1fdOOo"
+      },
+      "artists": [
+        {
+          "name": "Luis Miguel",
+          "url": "https://open.spotify.com/artist/2nszmSgqreHSdJA3zWPyrW"
+        }
+      ],
+      "duration_ms": 235106,
+      "name": "Fr\u00eda Como El Viento",
+      "url": "https://open.spotify.com/track/2J4qy8RyfwgXHt73cWOE6P"
     },
     {
       "added_at": "2024-05-14 17:26:04",
@@ -623,22 +623,6 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
-        "name": "Roberto Carlos (1981 Remasterizado)",
-        "url": "https://open.spotify.com/album/1BUoeZ3aXcdcn6vN2lOPLQ"
-      },
-      "artists": [
-        {
-          "name": "Roberto Carlos",
-          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
-        }
-      ],
-      "duration_ms": 199413,
-      "name": "Cama e Mesa - Vers\u00e3o Remasterizada",
-      "url": "https://open.spotify.com/track/4lN2okBBRNDimttONXGggW"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
         "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
         "url": "https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc"
       },
@@ -651,6 +635,22 @@
       "duration_ms": 253333,
       "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
       "url": "https://open.spotify.com/track/2HQqhVP8NOaoIhPTQ8I5bm"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
+        "name": "Roberto Carlos (1981 Remasterizado)",
+        "url": "https://open.spotify.com/album/1BUoeZ3aXcdcn6vN2lOPLQ"
+      },
+      "artists": [
+        {
+          "name": "Roberto Carlos",
+          "url": "https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65"
+        }
+      ],
+      "duration_ms": 199413,
+      "name": "Cama e Mesa - Vers\u00e3o Remasterizada",
+      "url": "https://open.spotify.com/track/4lN2okBBRNDimttONXGggW"
     },
     {
       "added_at": "2024-05-14 17:26:04",
@@ -703,22 +703,6 @@
     {
       "added_at": "2024-05-14 17:26:04",
       "album": {
-        "name": "15 A\u00f1os De Historia",
-        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
-      },
-      "artists": [
-        {
-          "name": "Menudo",
-          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
-        }
-      ],
-      "duration_ms": 250560,
-      "name": "Claridad",
-      "url": "https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0"
-    },
-    {
-      "added_at": "2024-05-14 17:26:04",
-      "album": {
         "name": "Ojal\u00e1 Que Llueva Caf\u00e9",
         "url": "https://open.spotify.com/album/1wLyFmyTJ8jUb4J6TwC9uc"
       },
@@ -731,6 +715,22 @@
       "duration_ms": 208013,
       "name": "Visa Para un Sue\u00f1o",
       "url": "https://open.spotify.com/track/6mmcsCrrASekHEUfjuNFOO"
+    },
+    {
+      "added_at": "2024-05-14 17:26:04",
+      "album": {
+        "name": "15 A\u00f1os De Historia",
+        "url": "https://open.spotify.com/album/4b1Ou1qQJRq6SvS18o0Vyp"
+      },
+      "artists": [
+        {
+          "name": "Menudo",
+          "url": "https://open.spotify.com/artist/3Edq1eT7m7GX0PvHW7yEDF"
+        }
+      ],
+      "duration_ms": 250560,
+      "name": "Claridad",
+      "url": "https://open.spotify.com/track/2Rh8bcrw6tt8wrRM8NljN0"
     },
     {
       "added_at": "2024-05-14 17:26:04",

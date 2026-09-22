@@ -1,6 +1,6 @@
 {
   "description": "Entre na onda com hits tropicais e remixes para curtir a praia com amigos.",
-  "num_followers": 508344,
+  "num_followers": 508353,
   "original_name": "Festa na Praia",
   "owner": {
     "name": "Spotify",
@@ -367,6 +367,26 @@
     {
       "added_at": "2026-08-21 03:03:11",
       "album": {
+        "name": "Celebration",
+        "url": "https://open.spotify.com/album/4H6UoTC7CTLPgcFGV3D3pi"
+      },
+      "artists": [
+        {
+          "name": "illusionize",
+          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
+        },
+        {
+          "name": "Zaark",
+          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
+        }
+      ],
+      "duration_ms": 144000,
+      "name": "Celebration",
+      "url": "https://open.spotify.com/track/6AmPB33GIbTMxicnQtht2m"
+    },
+    {
+      "added_at": "2026-08-21 03:03:11",
+      "album": {
         "name": "Fica Tudo Bem (Bhaskar Remix)",
         "url": "https://open.spotify.com/album/1SQmuxKhiwwGEAUO8ro97t"
       },
@@ -387,26 +407,6 @@
       "duration_ms": 174125,
       "name": "Fica Tudo Bem - Bhaskar Remix",
       "url": "https://open.spotify.com/track/7jLwNbEykLVZldRuvngpl9"
-    },
-    {
-      "added_at": "2026-08-21 03:03:11",
-      "album": {
-        "name": "Celebration",
-        "url": "https://open.spotify.com/album/4H6UoTC7CTLPgcFGV3D3pi"
-      },
-      "artists": [
-        {
-          "name": "illusionize",
-          "url": "https://open.spotify.com/artist/3RloA7E4XMItSP4FjMBv3L"
-        },
-        {
-          "name": "Zaark",
-          "url": "https://open.spotify.com/artist/0i8KSp7ollqyAfIpNNpM6r"
-        }
-      ],
-      "duration_ms": 144000,
-      "name": "Celebration",
-      "url": "https://open.spotify.com/track/6AmPB33GIbTMxicnQtht2m"
     },
     {
       "added_at": "2026-08-21 03:03:11",

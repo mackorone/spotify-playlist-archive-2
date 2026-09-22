@@ -1,12 +1,12 @@
 {
   "description": "This is Ali Farka Tour\u00e9. The essential tracks, all in one playlist.",
-  "num_followers": 22484,
+  "num_followers": 22485,
   "original_name": "This Is Ali Farka Tour\u00e9",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAACHU6TsuLfGOY7GDGv91/zW",
+  "snapshot_id": "aq8iAAAAAAD1Srt6vtnn4owuqB69tBSV",
   "tracks": [
     {
       "added_at": null,
@@ -223,6 +223,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "The Source",
+        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
+      },
+      "artists": [
+        {
+          "name": "Ali Farka Tour\u00e9",
+          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
+        }
+      ],
+      "duration_ms": 239266,
+      "name": "I Go Ka",
+      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "In the Heart of the Moon",
         "url": "https://open.spotify.com/album/678CCFFwG9HIWKR3XZbkmk"
       },
@@ -239,22 +255,6 @@
       "duration_ms": 300920,
       "name": "Hawa Dolo",
       "url": "https://open.spotify.com/track/3fHV9JUITZcOUvmoVzr3gK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Source",
-        "url": "https://open.spotify.com/album/23iUQhvQuPIHPm3mv16Vf3"
-      },
-      "artists": [
-        {
-          "name": "Ali Farka Tour\u00e9",
-          "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
-        }
-      ],
-      "duration_ms": 239266,
-      "name": "I Go Ka",
-      "url": "https://open.spotify.com/track/1qK2abPM1HTX2tHFBgmk4T"
     },
     {
       "added_at": null,
@@ -587,8 +587,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "The River",
-        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
+        "name": "Savane",
+        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
       },
       "artists": [
         {
@@ -596,9 +596,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 384866,
-      "name": "Goydiotodam",
-      "url": "https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc"
+      "duration_ms": 289120,
+      "name": "Beto",
+      "url": "https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz"
     },
     {
       "added_at": null,
@@ -635,8 +635,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Savane",
-        "url": "https://open.spotify.com/album/2WsP2BPz9GI5sJBdJFonrO"
+        "name": "The River",
+        "url": "https://open.spotify.com/album/0WYJawWwPI0i99889vtr7O"
       },
       "artists": [
         {
@@ -644,15 +644,15 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 289120,
-      "name": "Beto",
-      "url": "https://open.spotify.com/track/2I9ZSrLeX7tslnqn0ouVuz"
+      "duration_ms": 384866,
+      "name": "Goydiotodam",
+      "url": "https://open.spotify.com/track/1vOXlVPiI7F8hBwy9CD5qc"
     },
     {
       "added_at": null,
       "album": {
-        "name": "Niafunk\u00e9",
-        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
+        "name": "Radio Mali",
+        "url": "https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r"
       },
       "artists": [
         {
@@ -660,9 +660,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 200560,
-      "name": "Pieter Botha",
-      "url": "https://open.spotify.com/track/766OVjNXlPqftlR77DhQTS"
+      "duration_ms": 308866,
+      "name": "Soko",
+      "url": "https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH"
     },
     {
       "added_at": null,
@@ -687,8 +687,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Radio Mali",
-        "url": "https://open.spotify.com/album/1NGYT5b3crZfcJzhtBz25r"
+        "name": "Niafunk\u00e9",
+        "url": "https://open.spotify.com/album/5saGS2llpHUO3TOoACcmRq"
       },
       "artists": [
         {
@@ -696,9 +696,9 @@
           "url": "https://open.spotify.com/artist/3mNygoyrEKLgo6sx0MzwOL"
         }
       ],
-      "duration_ms": 308866,
-      "name": "Soko",
-      "url": "https://open.spotify.com/track/2QPRGNETO1GeEcth5pfWyH"
+      "duration_ms": 200560,
+      "name": "Pieter Botha",
+      "url": "https://open.spotify.com/track/766OVjNXlPqftlR77DhQTS"
     },
     {
       "added_at": null,

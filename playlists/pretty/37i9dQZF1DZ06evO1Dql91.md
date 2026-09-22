@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 
 > This is Infinity Song\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 3,043 likes - 44 songs - 2 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 3,044 likes - 44 songs - 2 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -45,12 +45,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Dql91.md) - [plain]
 | 35 | [Don’t You Ever](https://open.spotify.com/track/4QBeaYQMz6cx1Np9XNsprp) | [Victory](https://open.spotify.com/artist/16lrbkOHEyh1SXN2FP9Xmr), [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [The Broken Instrument](https://open.spotify.com/album/5NLCrRypAi1t9hwKi6w9jG) | 5:01 |
 | 36 | [When The Rain Starts](https://open.spotify.com/track/5NqQuvIwPJ6cJ7Y7BLyRCr) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 5:30 |
 | 37 | [Outside Myself](https://open.spotify.com/track/1a9AguakS4flm9g2UYavhm) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 4:04 |
-| 38 | [His Eye Is On the Sparrow](https://open.spotify.com/track/77ZMZHK7GSY19wbxxOHZ36) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 3:54 |
-| 39 | [Hater's Reprise \- Live](https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity Song LIVE](https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN) | 1:29 |
+| 38 | [Hater's Reprise \- Live](https://open.spotify.com/track/2zqWaSUAAn4JcBP0VtBe7o) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity Song LIVE](https://open.spotify.com/album/0n1hEUk6RJwHH5Wh8z3AtN) | 1:29 |
+| 39 | [His Eye Is On the Sparrow](https://open.spotify.com/track/77ZMZHK7GSY19wbxxOHZ36) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 3:54 |
 | 40 | [Just Loving Me](https://open.spotify.com/track/1Wg313696XypzoaKJktZ6o) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:48 |
 | 41 | [Becoming](https://open.spotify.com/track/1gxw2HNkbC48PXDQ4VRHMz) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love \(Deluxe\)](https://open.spotify.com/album/3lJ4EW6gMM4tUXgt6fXnAS) | 4:10 |
 | 42 | [Undefeated](https://open.spotify.com/track/0AXLbBrNlsz9JVKXxq21Pi) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Black History Always / Music For the Movement Vol\. 2](https://open.spotify.com/album/14PYt4FQmKarrCYOLnw7ng) | 1:44 |
 | 43 | [Dream Fighter](https://open.spotify.com/track/4cXDq7tCJoQppKfyOrx5T4) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Infinity's Song](https://open.spotify.com/album/0GoLzvpZeGV5OFOn1RZUkI) | 6:06 |
 | 44 | [We Are The Light](https://open.spotify.com/track/2eevyW5N3mnqwpYIOjXStk) | [Infinity Song](https://open.spotify.com/artist/2PZThLYBW7XtcYVzQms8oM) | [Mad Love](https://open.spotify.com/album/5qmLJG8mG05p5R9Gu2ckGn) | 3:27 |
 
-Snapshot ID: `aq3QgAAAAAB00G4H9KHtrPk5E/q6m6Cm`
+Snapshot ID: `aq8iAAAAAADYFCREleonVubXVFUha3vR`

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 
 > Your guide to R&B in Canada, with Kalisway from Toronto, ON.
 
-[Spotify](https://open.spotify.com/user/spotify) - 201,211 likes - 100 songs - 5 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 201,258 likes - 100 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,7 +41,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2PG4mbkilf3.md) - [plain]
 | 31 | [1 Strike](https://open.spotify.com/track/3E7n7acI76jQujE2iCs26Q) | [Burd & Keyz](https://open.spotify.com/artist/1lupQiqRkWWkepEckHRF2W), [HRTBRKFEVER](https://open.spotify.com/artist/06GLPi98waSpe7XKMjFfUe), [Devontée](https://open.spotify.com/artist/4rkobn5JkPJDD1yN9DVU2d) | [Burd's Eye View](https://open.spotify.com/album/14pjmYq6jFV1NELgluCVLd) | 2:48 |
 | 32 | [Let It Die](https://open.spotify.com/track/3KV99XGW5xzq8wO0lbzbRO) | [KOLA](https://open.spotify.com/artist/5f5JnmJLC6Wmi8FMXbJzsq), [Yzabo](https://open.spotify.com/artist/2agAYz3TYie8HOzvPE5BoP) | [Let It Die](https://open.spotify.com/album/1S4qisFcpxXZwMH8cZZz9t) | 3:55 |
 | 33 | [Beautiful](https://open.spotify.com/track/41hDtBjgJ2rN4yUiYSPbfg) | [Roy Woods](https://open.spotify.com/artist/7mDU6nMUJnOSY2Hkjz5oqM) | [X](https://open.spotify.com/album/2dbpbsUKhV5OSLjN2rdm0a) | 3:21 |
-| 34 | [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 4:45 |
+| 34 | [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 3:45 |
 | 35 | [Love Like Her](https://open.spotify.com/track/3w7rR5UzrbJyn3sK28qYkD) | [Kofi](https://open.spotify.com/artist/2MjVr5NjCCoPSEkXnl92Ld) | [Love Like Her](https://open.spotify.com/album/40Wp2QGzDk4y5zSsYyYOyf) | 2:06 |
 | 36 | [Close To You](https://open.spotify.com/track/06oM7R6y5fziLxhjPyvclN) | [Clerel](https://open.spotify.com/artist/5hGVJeSkWYpZgvXaDhbnE8), [C The Reason](https://open.spotify.com/artist/1SXilrjOlDsfjsSLP2mBFk) | [Close To you](https://open.spotify.com/album/3Kt3M0xhdeGcdlzLJj6lmB) | 3:09 |
 | 37 | [One Sided](https://open.spotify.com/track/04Z06rmw8BMSBahqr3KvS4) | [Myles Lloyd](https://open.spotify.com/artist/3OgXv5i2hFt93vxZ8iVLcc) | [One Sided](https://open.spotify.com/album/6LppWJEdvUgGInucQBWX34) | 3:02 |

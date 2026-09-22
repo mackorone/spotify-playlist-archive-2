@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 
 > This is Willie Nelson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 205,222 likes - 50 songs - 2 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 205,223 likes - 50 songs - 2 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 29 | [Shotgun Willie](https://open.spotify.com/track/7fMOzTcT7U5A9hVCwCfWgD) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:37 |
 | 30 | [Coconut Tree \(with Willie Nelson\) \(with Willie Nelson\)](https://open.spotify.com/track/0VGb5Vy75Hkb5DKBHvuJJg) | [Kenny Chesney](https://open.spotify.com/artist/3grHWM9bx2E9vwJCdlRv9O), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Life On A Rock](https://open.spotify.com/album/69A2qjbFkwSfxJgPNquFzx) | 3:24 |
 | 31 | [SMOKE HOUR ★ WILLIE NELSON](https://open.spotify.com/track/2dv2DYn0V0j0Wx6Ra40bce) | [Beyoncé](https://open.spotify.com/artist/6vWDO969PvNqNYHIOW5v0m), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [COWBOY CARTER](https://open.spotify.com/album/6BzxX6zkDsYKFJ04ziU5xQ) | 0:50 |
-| 32 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:37 |
-| 33 | [Me and Paul](https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Yesterday's Wine](https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf) | 3:49 |
+| 32 | [Me and Paul](https://open.spotify.com/track/4vcDnnuHUmombz20IRkzRO) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Yesterday's Wine](https://open.spotify.com/album/6ZraSUfutH0n071RZb3QZf) | 3:49 |
+| 33 | [Blue Skies](https://open.spotify.com/track/33LQxf2T3Jbgw3XQ1H3LMY) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 3:37 |
 | 34 | [Eu Só Penso em Você \(Always On My Mind\) \(feat\. Willie Nelson\)](https://open.spotify.com/track/5khbn2nR9I6QBE7992lrWL) | [Zezé Di Camargo & Luciano](https://open.spotify.com/artist/4dyYjqmYDjegbB3F2mbvcT), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Zezé Di Camargo & Luciano 1993](https://open.spotify.com/album/6LOFKEu2x9qznKyY0KUHD3) | 3:49 |
 | 35 | [Easy](https://open.spotify.com/track/2eA160jLLoHiJKOqvOFKJt) | [Lionel Richie](https://open.spotify.com/artist/3gMaNLQm7D9MornNILzdSl), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Tuskegee \(Deluxe Version\)](https://open.spotify.com/album/5FnNO3IO6veN62ZdaV7j3z) | 4:30 |
 | 36 | [Have You Ever Seen the Rain \(feat\. Paula Nelson\)](https://open.spotify.com/track/7ys0hKbMBZ0m7eQ4iR1hHU) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3), [Paula Nelson](https://open.spotify.com/artist/5uhowxcNLDhc0qsmXWaOHV) | [To All The Girls...](https://open.spotify.com/album/3ztZ9tYkxsTYPp9LQ4qeMx) | 4:39 |
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3v06CA.md) - [plain]
 | 42 | [Funny How Time Slips Away](https://open.spotify.com/track/0hXHpNiW5dHv21aUhYDEnA) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 3:05 |
 | 43 | [My Heroes Have Always Been Cowboys](https://open.spotify.com/track/0dlNwpfDzFIKdtuJSnHbzK) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [The Essential Willie Nelson](https://open.spotify.com/album/46xgry5j79IBHzX73dkgYU) | 3:03 |
 | 44 | [Crazy](https://open.spotify.com/track/7INR1BCI0tZMtiBitUm2WN) | [Carla Bruni](https://open.spotify.com/artist/1HVwzNriKEjaeE06okqSpx), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [French Touch](https://open.spotify.com/album/2bHQTGyLGnwMDqrsuMvTsQ) | 3:03 |
-| 45 | [Stay All Night \(Stay a Little Longer\)](https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:34 |
+| 45 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:22 |
 | 46 | [Crazy](https://open.spotify.com/track/0xqtcLB45iKNfHroi5y1em) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [And Then I Wrote](https://open.spotify.com/album/2Bsr45EWfyrQEUDfGhJwyu) | 2:53 |
-| 47 | [Georgia On My Mind](https://open.spotify.com/track/5GOFil3Umfp4yB75U2Ah4e) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Stardust](https://open.spotify.com/album/38uGoW7jS8jjJMvZA26sRq) | 4:22 |
+| 47 | [Stay All Night \(Stay a Little Longer\)](https://open.spotify.com/track/0ZXmbQXKbfXO8Cv9qxPdZu) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Shotgun Willie](https://open.spotify.com/album/6ja7Fceq3F7Igb2DrLKN6y) | 2:34 |
 | 48 | [I Can Get off on You \- Remastered](https://open.spotify.com/track/1tmCPGkgKKurSN1onKcaJt) | [Waylon Jennings](https://open.spotify.com/artist/7wCjDgV6nqBsHguQXPAaIM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Waylon & Willie](https://open.spotify.com/album/6GDs0ZZVR2jDV8n4m11KWO) | 2:27 |
 | 49 | [Heaven's Bad Day](https://open.spotify.com/track/5LPo4MHNYtWdh8FWIIkixD) | [Manu Chao](https://open.spotify.com/artist/6wH6iStAh4KIaWfuhf0NYM), [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [Viva Tu](https://open.spotify.com/album/0de0VSMdg29Rwoe9MG4ck2) | 2:05 |
 | 50 | [Nothing I Can Do About It Now](https://open.spotify.com/track/0xbY7q5aImO8winKbVTIwo) | [Willie Nelson](https://open.spotify.com/artist/5W5bDNCqJ1jbCgTxDD0Cb3) | [A Horse Called Music](https://open.spotify.com/album/2vmSwAyQzzXsCc8BjHT0hf) | 3:19 |
 
-Snapshot ID: `aq3QgAAAAACiVp2llBTWDI01BGZGHeCW`
+Snapshot ID: `aq8iAAAAAAB7zpWgmFrfaQt9DhSWT3MD`

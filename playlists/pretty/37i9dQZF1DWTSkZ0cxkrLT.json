@@ -1,6 +1,6 @@
 {
   "description": "M\u00fasica ideal para tomar el t\u00e9 y relajar.",
-  "num_followers": 426748,
+  "num_followers": 426728,
   "original_name": "T\u00e9 Para Tres",
   "owner": {
     "name": "Spotify",
@@ -947,18 +947,18 @@
     {
       "added_at": "2026-09-15 13:25:15",
       "album": {
-        "name": "Mon Laferte (Spotify Sessions)",
-        "url": "https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x"
+        "name": "El Camino De Solgo",
+        "url": "https://open.spotify.com/album/0kfXp9m25PGQsIfObVflk9"
       },
       "artists": [
         {
-          "name": "Mon Laferte",
-          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
+          "name": "Raly Barrionuevo",
+          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
         }
       ],
-      "duration_ms": 264389,
-      "name": "Melancol\u00eda - Spotify Sessions",
-      "url": "https://open.spotify.com/track/4my0baODOZTBBXjVZGHMUM"
+      "duration_ms": 230310,
+      "name": "Yo Vengo",
+      "url": "https://open.spotify.com/track/6LKtqajCJQ27SNHnMSL29D"
     },
     {
       "added_at": "2026-09-15 13:25:15",
@@ -979,18 +979,18 @@
     {
       "added_at": "2026-09-15 13:25:15",
       "album": {
-        "name": "El Camino De Solgo",
-        "url": "https://open.spotify.com/album/0kfXp9m25PGQsIfObVflk9"
+        "name": "Mon Laferte (Spotify Sessions)",
+        "url": "https://open.spotify.com/album/25QXSN5ubMJcqEfMVoOi0x"
       },
       "artists": [
         {
-          "name": "Raly Barrionuevo",
-          "url": "https://open.spotify.com/artist/0mdD8YXAyJDJ2BHxIKF0Yf"
+          "name": "Mon Laferte",
+          "url": "https://open.spotify.com/artist/4boI7bJtmB1L3b1cuL75Zr"
         }
       ],
-      "duration_ms": 230310,
-      "name": "Yo Vengo",
-      "url": "https://open.spotify.com/track/6LKtqajCJQ27SNHnMSL29D"
+      "duration_ms": 264389,
+      "name": "Melancol\u00eda - Spotify Sessions",
+      "url": "https://open.spotify.com/track/4my0baODOZTBBXjVZGHMUM"
     },
     {
       "added_at": "2026-09-15 13:25:15",
@@ -1207,22 +1207,6 @@
     {
       "added_at": "2026-09-15 13:25:15",
       "album": {
-        "name": "me hace bien amar(te)",
-        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
-      },
-      "artists": [
-        {
-          "name": "LAR\u00d3",
-          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
-        }
-      ],
-      "duration_ms": 223142,
-      "name": "me hace bien amar(te)",
-      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
-    },
-    {
-      "added_at": "2026-09-15 13:25:15",
-      "album": {
         "name": "Artificio",
         "url": "https://open.spotify.com/album/2cJcd1GVfPcSkbTONqwqPP"
       },
@@ -1235,6 +1219,22 @@
       "duration_ms": 200573,
       "name": "Tan temperamental",
       "url": "https://open.spotify.com/track/2LmQL1ptqEkIQSHy0O8zvu"
+    },
+    {
+      "added_at": "2026-09-15 13:25:15",
+      "album": {
+        "name": "me hace bien amar(te)",
+        "url": "https://open.spotify.com/album/2HAvhKv3XT3yIifmoPCKp2"
+      },
+      "artists": [
+        {
+          "name": "LAR\u00d3",
+          "url": "https://open.spotify.com/artist/30BfEIsC9RFTPJDIVy43ri"
+        }
+      ],
+      "duration_ms": 223142,
+      "name": "me hace bien amar(te)",
+      "url": "https://open.spotify.com/track/6tpri2UVMbpWLpiwvWz4fB"
     },
     {
       "added_at": "2026-09-15 13:25:15",
@@ -1323,22 +1323,6 @@
     {
       "added_at": "2026-09-15 13:25:15",
       "album": {
-        "name": "Tripolar",
-        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
-      },
-      "artists": [
-        {
-          "name": "Usted Se\u00f1alemelo",
-          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
-        }
-      ],
-      "duration_ms": 156738,
-      "name": "Nena, dime algo.",
-      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
-    },
-    {
-      "added_at": "2026-09-15 13:25:15",
-      "album": {
         "name": "Mi manera de querer",
         "url": "https://open.spotify.com/album/0sNxXiClNbKVecxR0LaizG"
       },
@@ -1351,6 +1335,22 @@
       "duration_ms": 233800,
       "name": "Mi manera de querer",
       "url": "https://open.spotify.com/track/4vf86rvT51NZtZHeLB1noi"
+    },
+    {
+      "added_at": "2026-09-15 13:25:15",
+      "album": {
+        "name": "Tripolar",
+        "url": "https://open.spotify.com/album/6ud8dLSruWnM0i6qdIBHjS"
+      },
+      "artists": [
+        {
+          "name": "Usted Se\u00f1alemelo",
+          "url": "https://open.spotify.com/artist/1a1v0OJC5GqtsLwzoqJm7j"
+        }
+      ],
+      "duration_ms": 156738,
+      "name": "Nena, dime algo.",
+      "url": "https://open.spotify.com/track/3McO6jC6I8FT8wd5EJAHCA"
     },
     {
       "added_at": "2026-09-15 13:25:15",

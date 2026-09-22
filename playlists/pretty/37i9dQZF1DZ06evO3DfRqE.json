@@ -1,12 +1,12 @@
 {
   "description": "This is Jake Shimabukuro. The essential tracks, all in one playlist.",
-  "num_followers": 8772,
+  "num_followers": 8773,
   "original_name": "This Is Jake Shimabukuro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABCfvcYIe0Tc9E7PUV2vy6C",
+  "snapshot_id": "aq8iAAAAAACsC8aSzC80iCl6xHlEDcDg",
   "tracks": [
     {
       "added_at": null,
@@ -451,6 +451,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "\u30c9\u30e9\u30b4\u30f3",
+        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 214533,
+      "name": "\u30bf\u30c3\u30c1",
+      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "\u30d5\u30e9\u30ac\u30fc\u30eb\u3000-\u30aa\u30ea\u30b8\u30ca\u30eb\u30fb\u30b5\u30a6\u30f3\u30c9\u30c8\u30e9\u30c3\u30af-",
         "url": "https://open.spotify.com/album/65IxZ84MXW0v5HEWTsfnj2"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 218933,
       "name": "\u30d5\u30e9\u30ac\u30fc\u30eb -\u8679\u3092-",
       "url": "https://open.spotify.com/track/3gT4ZSs2oMp8aDFYlZaZy6"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "\u30c9\u30e9\u30b4\u30f3",
-        "url": "https://open.spotify.com/album/7tYU2Iq0aHlpXJt9fqE4Ok"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 214533,
-      "name": "\u30bf\u30c3\u30c1",
-      "url": "https://open.spotify.com/track/1xDgHJCsHCL4hghDSgKQG8"
     },
     {
       "added_at": null,
@@ -580,7 +580,7 @@
       "added_at": null,
       "album": {
         "name": "Travels",
-        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
+        "url": "https://open.spotify.com/album/4N4xt7jHI0BOL8wxTfHuVg"
       },
       "artists": [
         {
@@ -588,9 +588,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 277813,
-      "name": "I'll Be There",
-      "url": "https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR"
+      "duration_ms": 206666,
+      "name": "NADA SOUSOU",
+      "url": "https://open.spotify.com/track/5fxN3wmbv8c121QjfbZhjZ"
     },
     {
       "added_at": null,
@@ -607,6 +607,22 @@
       "duration_ms": 175173,
       "name": "Wailau",
       "url": "https://open.spotify.com/track/6Ii2ZCcW7pEU1Rss5sF9qh"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
+        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 221560,
+      "name": "\u30d6\u30ea\u30fc\u30ba - Solo",
+      "url": "https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0"
     },
     {
       "added_at": null,
@@ -651,24 +667,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Golden",
-        "url": "https://open.spotify.com/album/6XMEZ2tu6GS1WGYC2MX0ad"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 175914,
-      "name": "Golden",
-      "url": "https://open.spotify.com/track/69nLHPzjWmgU3HaWF1WzUI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Travels",
-        "url": "https://open.spotify.com/album/4N4xt7jHI0BOL8wxTfHuVg"
+        "url": "https://open.spotify.com/album/7bE2ufPorjr870XNTADQwS"
       },
       "artists": [
         {
@@ -676,9 +676,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 206666,
-      "name": "NADA SOUSOU",
-      "url": "https://open.spotify.com/track/5fxN3wmbv8c121QjfbZhjZ"
+      "duration_ms": 277813,
+      "name": "I'll Be There",
+      "url": "https://open.spotify.com/track/7xRrUE3AaPEPBosN9z2EcR"
     },
     {
       "added_at": null,
@@ -699,8 +699,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30b8\u30a7\u30f3\u30c8\u30ea\u30fc\u30fb\u30a6\u30a3\u30fc\u30d7\u30b9",
-        "url": "https://open.spotify.com/album/0wyURoNZlzFweCCWPFO7Re"
+        "name": "\u30a2\u30af\u30ed\u30b9\u30fb\u30b6\u30fb\u30e6\u30cb\u30d0\u30fc\u30b9",
+        "url": "https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3"
       },
       "artists": [
         {
@@ -708,9 +708,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 221560,
-      "name": "\u30d6\u30ea\u30fc\u30ba - Solo",
-      "url": "https://open.spotify.com/track/6hX9K24qdVTWOPuVsyDHS0"
+      "duration_ms": 276386,
+      "name": "\u30b5\u30e0\u30b7\u30f3\u30b0",
+      "url": "https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua"
     },
     {
       "added_at": null,
@@ -763,8 +763,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "\u30a2\u30af\u30ed\u30b9\u30fb\u30b6\u30fb\u30e6\u30cb\u30d0\u30fc\u30b9",
-        "url": "https://open.spotify.com/album/7MxHfXPU4Ke807jckZJTP3"
+        "name": "Golden",
+        "url": "https://open.spotify.com/album/6XMEZ2tu6GS1WGYC2MX0ad"
       },
       "artists": [
         {
@@ -772,9 +772,9 @@
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 276386,
-      "name": "\u30b5\u30e0\u30b7\u30f3\u30b0",
-      "url": "https://open.spotify.com/track/4x41PAoR89XK2Lnnglf4Ua"
+      "duration_ms": 175914,
+      "name": "Golden",
+      "url": "https://open.spotify.com/track/69nLHPzjWmgU3HaWF1WzUI"
     },
     {
       "added_at": null,
@@ -796,7 +796,7 @@
       "added_at": null,
       "album": {
         "name": "Brightside",
-        "url": "https://open.spotify.com/album/0b57ZiCwZ1zNPiVxPD3nU6"
+        "url": "https://open.spotify.com/album/4aJHr1kwmCQYnOrkYUc4gK"
       },
       "artists": [
         {
@@ -810,7 +810,23 @@
       ],
       "duration_ms": 213621,
       "name": "Make It Paradise",
-      "url": "https://open.spotify.com/track/4K3O1bewDOnVxAJ5EaOrT5"
+      "url": "https://open.spotify.com/track/4ZV6NV1l7yHlufiaaKI6G1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calm Seas",
+        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
+      },
+      "artists": [
+        {
+          "name": "Jake Shimabukuro",
+          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
+        }
+      ],
+      "duration_ms": 532026,
+      "name": "Calm Seas - with nature",
+      "url": "https://open.spotify.com/track/5om8aMZ07hua18SXWjeN1e"
     },
     {
       "added_at": null,
@@ -867,22 +883,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calm Seas",
-        "url": "https://open.spotify.com/album/1H1nsvFuuDcRJLTEXRfuNr"
-      },
-      "artists": [
-        {
-          "name": "Jake Shimabukuro",
-          "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
-        }
-      ],
-      "duration_ms": 532026,
-      "name": "Calm Seas - with nature",
-      "url": "https://open.spotify.com/track/5om8aMZ07hua18SXWjeN1e"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Doogie Kamealoha, M.D. (Original Soundtrack)",
         "url": "https://open.spotify.com/album/5IIbiXNkg43JLSswf7L18p"
       },
@@ -903,22 +903,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Brickman Across America: Heart and Soul of American Music",
-        "url": "https://open.spotify.com/album/1gzWOkcpGe3ZR39b8sD6dw"
+        "name": "HandPicked",
+        "url": "https://open.spotify.com/album/3142HalSDI3XohoAIbR3vn"
       },
       "artists": [
         {
-          "name": "Jim Brickman",
-          "url": "https://open.spotify.com/artist/2NzWRNaaLByHyI3wpuec8P"
+          "name": "Earl Klugh",
+          "url": "https://open.spotify.com/artist/00Nnsh2ykMBYnCDsSFGXSY"
         },
         {
           "name": "Jake Shimabukuro",
           "url": "https://open.spotify.com/artist/69NjH5MsRLr0CX0zSlGmN3"
         }
       ],
-      "duration_ms": 246647,
-      "name": "Hawaii Rain",
-      "url": "https://open.spotify.com/track/3F2yqzrCqgFjbrCHQKZBe7"
+      "duration_ms": 485586,
+      "name": "Hotel California (Duet with Jake Shimabukuro)",
+      "url": "https://open.spotify.com/track/5kr66FsmwdvHiFDGt6kciO"
     }
   ],
   "unique_name": "This Is Jake Shimabukuro",

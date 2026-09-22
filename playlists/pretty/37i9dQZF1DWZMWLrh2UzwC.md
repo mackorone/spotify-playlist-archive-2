@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZMWLrh2UzwC.md) - [plain]
 
 > New music from ROSÉ, MILEY, Sarah Suhairi\. ChronicalZ, no na and many more!
 
-[Spotify](https://open.spotify.com/user/spotify) - 75,809 likes - 113 songs - 6 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 75,796 likes - 113 songs - 6 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

@@ -1,12 +1,12 @@
 {
   "description": "This is Eyshila. The essential tracks, all in one playlist.",
-  "num_followers": 66227,
+  "num_followers": 66225,
   "original_name": "This Is Eyshila",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABFELv+/jcLOCisQ6oochhm",
+  "snapshot_id": "aq8iAAAAAAAIU0dP6bdClC7bJ09yYLMm",
   "tracks": [
     {
       "added_at": null,
@@ -271,30 +271,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ele Se Move",
-        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
-        {
-          "name": "Aline Barros",
-          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
-        }
-      ],
-      "duration_ms": 341717,
-      "name": "Ele Se Move",
-      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Deus Prover\u00e1",
         "url": "https://open.spotify.com/album/45xNlZQyeXiB8aYcLZSjAm"
       },
@@ -307,6 +283,22 @@
       "duration_ms": 335946,
       "name": "Deus Prover\u00e1",
       "url": "https://open.spotify.com/track/6xPypgIH4fzWAFFP5DF2Zy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "At\u00e9 Tocar o C\u00e9u",
+        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 426039,
+      "name": "At\u00e9 Tocar o C\u00e9u",
+      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
     },
     {
       "added_at": null,
@@ -327,18 +319,26 @@
     {
       "added_at": null,
       "album": {
-        "name": "At\u00e9 Tocar o C\u00e9u",
-        "url": "https://open.spotify.com/album/0No068lRyBvHg02eKHItlq"
+        "name": "Ele Se Move",
+        "url": "https://open.spotify.com/album/1iwxIJJ1Uch7UCKnIfQ5pZ"
       },
       "artists": [
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Aline Barros",
+          "url": "https://open.spotify.com/artist/2aKyKSggb31Kw9s9i3iXoo"
         }
       ],
-      "duration_ms": 426039,
-      "name": "At\u00e9 Tocar o C\u00e9u",
-      "url": "https://open.spotify.com/track/1tqQHKQEsdWcgDboT9rnFL"
+      "duration_ms": 341717,
+      "name": "Ele Se Move",
+      "url": "https://open.spotify.com/track/61mM34xhgyclClrB6ayGwd"
     },
     {
       "added_at": null,
@@ -611,6 +611,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Nada Pode Calar Um Adorador",
+        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 283422,
+      "name": "Deus dos Vales, Deus dos Montes",
+      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
         "url": "https://open.spotify.com/album/4dKKLxDteUFQAwu8ygASe5"
       },
@@ -627,22 +643,6 @@
       "duration_ms": 260893,
       "name": "Minha Casa + Primeira Ess\u00eancia (Jardim Particular) (Ao Vivo)",
       "url": "https://open.spotify.com/track/1BhgFlaCVzAhJoCznssFpJ"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Nada Pode Calar Um Adorador",
-        "url": "https://open.spotify.com/album/4zlSXPnTQZOMipWUAzYLyE"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 283422,
-      "name": "Deus dos Vales, Deus dos Montes",
-      "url": "https://open.spotify.com/track/5TOu4YtEZFRGYiNURo6rEf"
     },
     {
       "added_at": null,
@@ -735,6 +735,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "O Tanque de Betesda (Ao Vivo)",
+        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
+      },
+      "artists": [
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 304280,
+      "name": "O Tanque de Betesda (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sopra Esp\u00edrito (Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo)",
         "url": "https://open.spotify.com/album/4xEhmC9MdsDeExOCIBTPVo"
       },
@@ -755,22 +771,6 @@
       "duration_ms": 326550,
       "name": "Sopra Esp\u00edrito - Na Igreja - In Memoriam Ludmila Ferber, Ao Vivo",
       "url": "https://open.spotify.com/track/3xllqibWTuiSHhuzw2YkVK"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Tanque de Betesda (Ao Vivo)",
-        "url": "https://open.spotify.com/album/6FkkGzO3T0ZcBAPKSQN9AG"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 304280,
-      "name": "O Tanque de Betesda (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6NwSwEUPsZy3WC7MbsyzmJ"
     },
     {
       "added_at": null,
@@ -875,8 +875,36 @@
     {
       "added_at": null,
       "album": {
-        "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
-        "url": "https://open.spotify.com/album/2zyADzeYjaUwdBh7ecCpSP"
+        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 1 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS"
+      },
+      "artists": [
+        {
+          "name": "Diante do Trono",
+          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
+        },
+        {
+          "name": "Ana Paula Valad\u00e3o",
+          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
+        },
+        {
+          "name": "Fernanda Brum",
+          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
+        },
+        {
+          "name": "Eyshila",
+          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
+        }
+      ],
+      "duration_ms": 482974,
+      "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
+      "url": "https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
+        "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
       },
       "artists": [
         {
@@ -884,13 +912,13 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": "J\u00e9ssica Augusto",
-          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
+          "name": "Marcus Salles",
+          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
         }
       ],
-      "duration_ms": 363600,
-      "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
-      "url": "https://open.spotify.com/track/0P32dn0FwLXHbGn9nUxT8H"
+      "duration_ms": 269133,
+      "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
+      "url": "https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K"
     },
     {
       "added_at": null,
@@ -919,8 +947,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/1mYCWjtalHjB8uksLAFFfL"
+        "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
+        "url": "https://open.spotify.com/album/2zyADzeYjaUwdBh7ecCpSP"
       },
       "artists": [
         {
@@ -928,29 +956,13 @@
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         },
         {
-          "name": "Marcus Salles",
-          "url": "https://open.spotify.com/artist/6IVEwGc6qJl8dsyWnMq1PI"
+          "name": "J\u00e9ssica Augusto",
+          "url": "https://open.spotify.com/artist/5lToDW3d2jgmKpVMi9RhHH"
         }
       ],
-      "duration_ms": 269133,
-      "name": "Fala Comigo + Estamos de P\u00e9 (Ao Vivo)",
-      "url": "https://open.spotify.com/track/6Yhm1rIVenrCzE9ELr0r8K"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
-        "url": "https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l"
-      },
-      "artists": [
-        {
-          "name": "Eyshila",
-          "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
-        }
-      ],
-      "duration_ms": 393533,
-      "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
-      "url": "https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4"
+      "duration_ms": 363600,
+      "name": "Deus Prover\u00e1 + De Nada Tenho Falta (Ao Vivo)",
+      "url": "https://open.spotify.com/track/0P32dn0FwLXHbGn9nUxT8H"
     },
     {
       "added_at": null,
@@ -971,30 +983,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mem\u00f3rias do Cora\u00e7\u00e3o - Vol. 1 (Ao Vivo)",
-        "url": "https://open.spotify.com/album/3gSlwMZxzxqPSDi5vjohCS"
+        "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
+        "url": "https://open.spotify.com/album/4zLHJvlN2JAmKaGg9JEx5l"
       },
       "artists": [
-        {
-          "name": "Diante do Trono",
-          "url": "https://open.spotify.com/artist/4AeWCU2yUgVFbqKmOezL75"
-        },
-        {
-          "name": "Ana Paula Valad\u00e3o",
-          "url": "https://open.spotify.com/artist/28rjo4eRvpmLW0EsCIy6FW"
-        },
-        {
-          "name": "Fernanda Brum",
-          "url": "https://open.spotify.com/artist/0ercYDYc6IMdLiiBfMwId8"
-        },
         {
           "name": "Eyshila",
           "url": "https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW"
         }
       ],
-      "duration_ms": 482974,
-      "name": "Medley A Do\u00e7ura do Teu Falar - Ao Vivo",
-      "url": "https://open.spotify.com/track/2onlvZpMAwpTKTAZN47Hr4"
+      "duration_ms": 393533,
+      "name": "O Milagre Sou Eu + Deus Est\u00e1 Me Ensinando (Ao Vivo)",
+      "url": "https://open.spotify.com/track/4JzWqicCz6Qhw3HrVVpLp4"
     },
     {
       "added_at": null,

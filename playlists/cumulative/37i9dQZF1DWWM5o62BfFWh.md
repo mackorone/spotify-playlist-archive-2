@@ -4,7 +4,7 @@
 
 > ¡Música que representa a Cuba! Cover: Wampi
 
-203 songs - 11 hr 33 min
+204 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -12,7 +12,7 @@
 | [A Veces](https://open.spotify.com/track/1c2lJocDQiD2hgXupkYdWz) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [A Veces](https://open.spotify.com/album/42B1duHMCKPjC2YRNJ1Wy9) | 3:15 | 2022-02-25 | 2026-07-01 |
 | [A Veces](https://open.spotify.com/track/6vCB60g1U7wIRfncvEcG0a) | [Chocolate Mc](https://open.spotify.com/artist/15QmBDKjNXo007uqM3KnNb), [Lenier](https://open.spotify.com/artist/4zWFlKgU4j7ryWg5nsOmU6) | [A Veces](https://open.spotify.com/album/1j599y64H6FzxwnpnbEzfd) | 3:15 | 2022-04-08 | 2022-11-13 |
 | [A Veces](https://open.spotify.com/track/6cXQX7pRILTVVamY7CJIVi) | [Jacob Forever](https://open.spotify.com/artist/4fCRFHEQgjqakvFgQCliMp), [Ernesto Losa](https://open.spotify.com/artist/74nlOfeYl09FVGJdX396zS) | [A Veces](https://open.spotify.com/album/4GKknALrtPPXtF31vd0uWT) | 3:01 | 2026-06-30 |  |
-| [Abrázame Muy Fuerte \- Prod\. by Dj Cham](https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Abrázame Muy Fuerte](https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu) | 3:39 | 2023-05-12 |  |
+| [Abrázame Muy Fuerte \- Prod\. by Dj Cham](https://open.spotify.com/track/3KbCHBxt8nAfx2fIYENyJG) | [Wow Popy](https://open.spotify.com/artist/6DwZmisccKHHGmMGnCn4yv) | [Abrázame Muy Fuerte](https://open.spotify.com/album/1YR1WYVZ9CRDGPHjDAmxPu) | 3:39 | 2023-05-12 | 2026-09-22 |
 | [After Party](https://open.spotify.com/track/1SUN7eeCyhKY08FxWBde8U) | [Gente De Zona](https://open.spotify.com/artist/2cy1zPcrFcXAJTP0APWewL) | [Demasiado](https://open.spotify.com/album/6uoYiEZJ2OfFan01ypD4Mj) | 2:37 | 2024-04-19 |  |
 | [Apagame la Luz](https://open.spotify.com/track/5YNm7rjtayQtYKgK1tLpcW) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Apagame la Luz](https://open.spotify.com/album/5A19cv9THtQaFe45nJ2beo) | 3:25 | 2022-04-08 | 2022-12-26 |
 | [Apagame la Luz](https://open.spotify.com/track/6KaCsW4E7ETLaukIDRkpon) | [El Chacal](https://open.spotify.com/artist/1xFn1xod58AGaSZjrxdiXA), [Srta\. Dayana](https://open.spotify.com/artist/3CeHl9feqxRIV99dtatz6W) | [Fiesta](https://open.spotify.com/album/42FfGtg64uJb5qUndVJ0bH) | 3:25 | 2022-04-08 | 2023-02-11 |
@@ -62,6 +62,7 @@
 | [Ella Es Mala](https://open.spotify.com/track/5c3In5YTWqlwSykfDVvfuD) | [Juanfran](https://open.spotify.com/artist/7zY0DMisq1oYXvNNgGwHBY), [El Micha](https://open.spotify.com/artist/0d7jzRhjOifL8X9hxNvbEn), [Omega](https://open.spotify.com/artist/1UjxAZqzphB1tsMb1aWBj0) | [Ella Es Mala](https://open.spotify.com/album/6XsZWLItXwmN3rH1HHuRiT) | 3:49 | 2022-02-25 | 2023-05-13 |
 | [Eso Es Bola](https://open.spotify.com/track/6w8gUMxJVV9IR56kgcd7Iu) | [Los Desiguales](https://open.spotify.com/artist/24HEuBZ2Iqcq7To1Vgi8qm) | [Eso Es Bola \(Deluxe Edition\) \[El Principe y Damian The Lion\]](https://open.spotify.com/album/3Ou24yQ2yf2ETvdcx8PMms) | 4:23 | 2022-02-25 | 2026-07-01 |
 | [Fantasia \- Prod\. by Dave Produce x Michel Boutic](https://open.spotify.com/track/1fm0VuzsnXbS1ovFLYol67) | [Baby Maikol](https://open.spotify.com/artist/5Gfu31ACxk44eRhZalyZ8U), [Ovi](https://open.spotify.com/artist/4o0NtnL2m0lzZmEdRas1qv), [Rey Tony](https://open.spotify.com/artist/7o5F7ecSmTFTIt9lrDtB0l), [Helabusador](https://open.spotify.com/artist/43FkTZ35A6B7miP8a5AlPX), [Dave Produce](https://open.spotify.com/artist/1BPaZM1risWEecSBYzkgl9), [Michel Boutic](https://open.spotify.com/artist/1uac76BPb8mnvmQv6AtBZ9) | [Fantasia](https://open.spotify.com/album/6GPX8ih1SqGIY87K4dcJ2Y) | 3:38 | 2026-06-30 |  |
+| [Firme Contigo](https://open.spotify.com/track/6bfQyhA4XY5sjL4zIcRe1k) | [Yexel](https://open.spotify.com/artist/1PeS3QND0gDk8tLtyQg4NL) | [Firme Contigo](https://open.spotify.com/album/7rFbb2R694sYJR8CNMzRRO) | 2:05 | 2026-09-11 |  |
 | [Focking Ni\*\*a](https://open.spotify.com/track/4LVXf7z1doa6vHEG6jDtNz) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Doping](https://open.spotify.com/album/0ctKjW2XrBAwmIiej2Ja3B) | 3:31 | 2022-04-08 | 2024-04-19 |
 | [Focking Nigga](https://open.spotify.com/track/3K5kIXRD9l9bEyraHIMagK) | [Yomil y El Dany](https://open.spotify.com/artist/2eQMfQXKQGV98HKiCOB7en) | [Doping](https://open.spotify.com/album/7b9WFowDYXFj0UVbv3c21j) | 3:31 | 2022-02-25 | 2026-07-01 |
 | [Formula Favorita](https://open.spotify.com/track/5lngWJVhe0Voo2jSFNxN4b) | [Skarlet](https://open.spotify.com/artist/5EBHFUWkDWg7EqzTk0yP1d), [MILAN](https://open.spotify.com/artist/53813mpn1haYsOi2xrLpeU) | [Formula Favorita](https://open.spotify.com/album/25ECDeb56UVUPXJD3tUozO) | 4:00 | 2022-04-08 | 2023-02-11 |

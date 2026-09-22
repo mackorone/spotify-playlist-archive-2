@@ -4,7 +4,7 @@
 
 > These are some independent rock bands you need to hear.
 
-667 songs - 1 day 17 hr 4 min
+668 songs - 1 day 17 hr 8 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -155,6 +155,7 @@
 | [Despierta](https://open.spotify.com/track/3DfMMtS8g3P3NvmaBKcCdB) | [Madame Babilonia](https://open.spotify.com/artist/1U1z22LC7vMv8sVmPImg1b) | [Despierta](https://open.spotify.com/album/7vtpUhuSrPg6OJW8PYgTQX) | 4:17 | 2025-12-12 | 2026-01-05 |
 | [Devil Begone](https://open.spotify.com/track/6rCn2DZD0FKDU8oSfCEJiT) | [Tirada](https://open.spotify.com/artist/5nYNaWd0EzkjojIr0NAp2v) | [Devil Begone](https://open.spotify.com/album/0nwYqMRgeyMvL6449gpl0s) | 4:39 | 2026-03-04 | 2026-04-20 |
 | [Devil Walking](https://open.spotify.com/track/2Mkil6K9WjFT0kv6OSFkmu) | [STRATUS](https://open.spotify.com/artist/6h4H9khRDVn7MpjH2KLWBz) | [Piñata + Devil Walking](https://open.spotify.com/album/7Ci40uuhp74svmar7a0Bl4) | 3:52 | 2026-03-14 | 2026-09-01 |
+| [Devil's Blues](https://open.spotify.com/track/33X5j5PnNGzEx68ASBqaQv) | [Gravens](https://open.spotify.com/artist/3ynl82AyQaG2Rw8Kws3f7Y) | [Rising](https://open.spotify.com/album/5hawHjIi7zbq7iEbaArhUL) | 3:55 | 2026-09-21 |  |
 | [Diagnostics](https://open.spotify.com/track/577UDXibdn2iqs7HS3gnev) | [The Galacticas](https://open.spotify.com/artist/3OqM9wx94VLVevksMclrGI) | [Diagnostics](https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0) | 3:26 | 2025-12-03 | 2025-12-28 |
 | [Different Ways.](https://open.spotify.com/track/11eAPhBGWABYFFmZBVAcVL) | [TURN BLUE.](https://open.spotify.com/artist/2UknGqLKQShkLJweCFYzjL) | [Different Ways.](https://open.spotify.com/album/0QCDJ5fyxvtBFYjAXNJgJu) | 3:49 | 2026-03-11 | 2026-05-17 |
 | [Difícil Ser Yo](https://open.spotify.com/track/17r9q4k5OSHfHd4TzDqDa0) | [Taa Prandi](https://open.spotify.com/artist/1YM7Tybd4BSrM9SrLJHxXX) | [Difícil Ser Yo](https://open.spotify.com/album/5meEldQC8AdbduXg64Xgt2) | 2:55 | 2025-11-29 | 2025-12-28 |

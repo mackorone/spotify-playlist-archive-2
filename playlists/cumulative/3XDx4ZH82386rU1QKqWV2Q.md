@@ -4,7 +4,7 @@
 
 > powered by www.releasejet.ai most popular tiktok phonk \- best phonk 2026 \-  viral phonk \- viral sigma \- best sigma male \- sigma workout \- sad sigma songs
 
-859 songs - 1 day 14 hr 28 min
+860 songs - 1 day 14 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -644,6 +644,7 @@
 | [RIP 2 \(with Yung Zime\)](https://open.spotify.com/track/0H2NTbEvV9V9bwia7z3DYM) | [MONOWIRE](https://open.spotify.com/artist/0ssyYSlMlTH7CWxonEhr12), [Yung Zime](https://open.spotify.com/artist/3iG3DOwDRNNcU4SD26P0qp) | [RIP 2 \(with Yung Zime\)](https://open.spotify.com/album/2bN0c7rwi4CPIdUj69ICem) | 2:00 | 2023-12-08 | 2024-01-14 |
 | [RIP Roach](https://open.spotify.com/track/658I1uDnmLSiltFCf98AWE) | [XXXTENTACION](https://open.spotify.com/artist/15UsOTVnJzReFVN1VCnxy4), [Ski Mask The Slump God](https://open.spotify.com/artist/2rhFzFmezpnW82MNqEKVry) | [Revenge](https://open.spotify.com/album/3vpXJ54S3MXLyzysw8qq7c) | 2:49 | 2023-06-12 | 2024-07-27 |
 | [Risky](https://open.spotify.com/track/57fvEC5j5aZrj3NH2w0Bi5) | [MIKE MAYJOR](https://open.spotify.com/artist/1FvSkPJlg3iCOfLPTct0MP) | [Hot Boy](https://open.spotify.com/album/3oHj5tVRfXewOiobMUSa1s) | 3:07 | 2023-06-28 | 2023-07-24 |
+| [RITMADA QUE VICIA](https://open.spotify.com/track/6eADbwVSH7H6WM0SKxnq3g) | [caio\-chan](https://open.spotify.com/artist/17pcUKUmXbsjefjeB2TFeV), [UNDERKAME](https://open.spotify.com/artist/6p7ik9CdZm5TIjSYj7kU9e), [C.X.W](https://open.spotify.com/artist/6CQrQixUJ5bBj8RBPyiiWm) | [RITMADA QUE VICIA](https://open.spotify.com/album/4Et6ERPT90p1UN9kpS4jJ4) | 1:39 | 2026-09-21 |  |
 | [RITMO DE DRIFT](https://open.spotify.com/track/24RDxxd0fEqNXxdVWU2xCJ) | [BERNZ](https://open.spotify.com/artist/1mEkCpjXPIymCGkKCJzcl5) | [RITMO DE DRIFT](https://open.spotify.com/album/0oKr8AwPdHRuNfZJrmZ2ir) | 2:00 | 2024-01-18 | 2024-04-16 |
 | [RMD](https://open.spotify.com/track/7uNm3noWw3nk0aRP7gPZjx) | [PNK HVT](https://open.spotify.com/artist/5jT2fYDs1niB1TEyvQhenb) | [RMD](https://open.spotify.com/album/0dDsTq3PbNBGgqeGGwLs5V) | 2:16 | 2023-12-08 | 2024-01-02 |
 | [Rockstar](https://open.spotify.com/track/4oJeK1Ve3yrNvmeo6Ng6tb) | [Sean Movez](https://open.spotify.com/artist/2N1W77ClLlCh3GtEwN3wrw) | [Rockstar](https://open.spotify.com/album/6qmSNCTGmx3gOlh4D5LUPF) | 2:53 | 2023-06-12 | 2024-07-12 |

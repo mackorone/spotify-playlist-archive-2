@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 
 > Music Cristiana para toda la familia!
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,210 likes - 50 songs - 2 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,212 likes - 50 songs - 2 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -18,8 +18,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXwOibfnQusw.md) - [plain]
 | 8 | [Jesús Te Llama](https://open.spotify.com/track/2C2wrIvH68aKP64Cboc9DS) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [Jesús Te Llama](https://open.spotify.com/album/4CduqUvu9W2nnH7FAE170N) | 3:23 |
 | 9 | [Dios Me Ama](https://open.spotify.com/track/3wHJTYvg75zrP0iXYcxrVQ) | [Canta Y Rie](https://open.spotify.com/artist/7LMW8Tb18FZ9btvEA4c3iH) | [Canta Y Rie](https://open.spotify.com/album/6DVmSe200tVimu1cLGwUkG) | 2:41 |
 | 10 | [Dios es](https://open.spotify.com/track/6stYPaNZhAYBbzQkVVKlCF) | [Lifetree Kids](https://open.spotify.com/artist/0WlbBY0t3hNDiAubKTSHAW) | [Dios es](https://open.spotify.com/album/03YCMCCrDXvU38o2E5vMm9) | 2:18 |
-| 11 | [Dios Es Amor](https://open.spotify.com/track/17MQ9P5y3CNy75tBJYsIEa) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:27 |
-| 12 | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/track/3XnQMj2uZMzUaPrNfbn8rT) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/album/2Dx8LkBcbxmBgKAXgOzmj8) | 2:20 |
+| 11 | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/track/3XnQMj2uZMzUaPrNfbn8rT) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [Cuando yo escucho el ¡miau, miau, miau!](https://open.spotify.com/album/2Dx8LkBcbxmBgKAXgOzmj8) | 2:20 |
+| 12 | [Dios Es Amor](https://open.spotify.com/track/17MQ9P5y3CNy75tBJYsIEa) | [Niños Cantores Verbo Divino](https://open.spotify.com/artist/3GEUOBCtlusAQO3rKsUYhU) | [¡Viva la Fe, Viva la Esperanza!](https://open.spotify.com/album/5shPSlRdDiaiXRiFJz1V1R) | 2:27 |
 | 13 | [Sansón](https://open.spotify.com/track/2hnAkfaKzF6aODzvixKtnh) | [Pequeños Héroes](https://open.spotify.com/artist/3tSxZVvYNRN21aZRRj0Ixg) | [10 Veces Más](https://open.spotify.com/album/1gcnkGsPkendVYFt9ASKD6) | 2:22 |
 | 14 | [A Danzar](https://open.spotify.com/track/5JJMWmzo2cWqHewyS8mnyp) | [Canticuentos](https://open.spotify.com/artist/4R4q5rN3KAEFfLvpC94T2j), [Coro Renacer](https://open.spotify.com/artist/49mv8PdWS6nUjC7BZlRPSP) | [A Danzar](https://open.spotify.com/album/5j00peGbFZlbph2dlQsZD1) | 1:31 |
 | 15 | [Fuerza y Movimiento](https://open.spotify.com/track/70Y52BJMJP4avDjtdlEUjZ) | [Biper Y Sus Amigos](https://open.spotify.com/artist/54ZO5aJHvR8nRTRnwNP1ok) | [Fuerza y Movimiento](https://open.spotify.com/album/5KzC1eJSOrCtlPQ2SvlbBM) | 2:04 |

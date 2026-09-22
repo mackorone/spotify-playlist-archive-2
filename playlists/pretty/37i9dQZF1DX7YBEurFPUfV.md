@@ -4,19 +4,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 
 > Les sons les plus frais du Rap Tunisien sont ici\. Cover : A.L.A
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,314 likes - 60 songs - 3 hr 21 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,327 likes - 60 songs - 3 hr 22 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [DIOR](https://open.spotify.com/track/0WCh8CNZumQd8RoXSvBckW) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [DIOR](https://open.spotify.com/album/0il2n2Jysdc7YTsCmWIEq1) | 2:22 |
+| 1 | [Wili](https://open.spotify.com/track/0Kg7JHDZ279vhB0EvMPcJa) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Wili](https://open.spotify.com/album/6c6V430K8KHwP30NFCkDjf) | 3:50 |
 | 2 | [Black List](https://open.spotify.com/track/0smqucTLlBbHGBBiyN7s28) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [G.G.A](https://open.spotify.com/artist/3Ofbm810VXiC3VaO76oMPP) | [Podcast](https://open.spotify.com/album/114VhmYj8kqeWgSvSB1m75) | 3:20 |
 | 3 | [OLA MAMACITA](https://open.spotify.com/track/5ha4Kh8bZZVDZbF1GfbAte) | [XIIVI](https://open.spotify.com/artist/7KSQKdaecID0uErHDg8y0N), [$MXTI](https://open.spotify.com/artist/53tyW4snELAqJ9VqZW0EkO) | [SOUND SHIFTA \(Vol\. 1\)](https://open.spotify.com/album/3OkS3vrMBiEHRYsclvuO1B) | 2:17 |
-| 4 | [A ce point](https://open.spotify.com/track/6R4IOjbkUhp6TqLFT424aC) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [A ce point](https://open.spotify.com/album/1GyTnZtOG9wD26lVIG99ZK) | 3:31 |
+| 4 | [1312](https://open.spotify.com/track/3AFZrucav0YrRQD0YB0QrV) | [DACHI](https://open.spotify.com/artist/0cIRG1SuDcnskRoSWENfzX), [DvrkBoy](https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW), [Catcher](https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl) | [1312](https://open.spotify.com/album/4qld1j9AcJAUB1ESIEKgnb) | 2:36 |
 | 5 | [Soumi Ghali](https://open.spotify.com/track/06pmPZIJER841SqzqkOlgu) | [Mouka](https://open.spotify.com/artist/06z6NBx0H2PDzZqw8mPTDz) | [Soumi Ghali](https://open.spotify.com/album/37lac9I41TB0xEslxzgFyd) | 2:56 |
-| 6 | [EEE](https://open.spotify.com/track/2OmAVXEptbA2EEApxV1IoC) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa) | [GAGA](https://open.spotify.com/album/7evma9YyvpwpHd6DRoawZj) | 2:19 |
-| 7 | [4 You](https://open.spotify.com/track/4a8HdnGS5vrVA9Yq4gNO2o) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [4 You](https://open.spotify.com/album/37uNbBPVOXcRfNo8AUaRK8) | 2:45 |
-| 8 | [Doctorat](https://open.spotify.com/track/4QelrPc5Hukm5cM6FKIRG0) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Doctorat](https://open.spotify.com/album/673MYs7BkJz4DoHiDUOeY2) | 3:32 |
-| 9 | [Solo](https://open.spotify.com/track/35SGxqqbEWmGTXbnsKkbYt) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Solo](https://open.spotify.com/album/01H3uuzW07GqjNtveuvWiV) | 3:22 |
+| 6 | [4 You](https://open.spotify.com/track/4a8HdnGS5vrVA9Yq4gNO2o) | [Samara](https://open.spotify.com/artist/0WfKB7Lqqykt6gdtirYJUm) | [4 You](https://open.spotify.com/album/37uNbBPVOXcRfNo8AUaRK8) | 2:45 |
+| 7 | [Doctorat](https://open.spotify.com/track/4QelrPc5Hukm5cM6FKIRG0) | [Young Rz](https://open.spotify.com/artist/0ffHBfcZybwhCvRnriDBVW) | [Doctorat](https://open.spotify.com/album/673MYs7BkJz4DoHiDUOeY2) | 3:32 |
+| 8 | [Solo](https://open.spotify.com/track/35SGxqqbEWmGTXbnsKkbYt) | [Sanfara](https://open.spotify.com/artist/2s55Po6VBr22RYwlCmYlY6), [Blingos](https://open.spotify.com/artist/2wVHWr2AjG5J5JUTBniwUB) | [Solo](https://open.spotify.com/album/01H3uuzW07GqjNtveuvWiV) | 3:22 |
+| 9 | [DIOR](https://open.spotify.com/track/0WCh8CNZumQd8RoXSvBckW) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [DIOR](https://open.spotify.com/album/0il2n2Jysdc7YTsCmWIEq1) | 2:22 |
 | 10 | [OMMA](https://open.spotify.com/track/6xWO3A8vPPOfEqqWeGWeaM) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [ZÉRO UN](https://open.spotify.com/album/0mj9I5TGwP77NT2rFhemlB) | 3:02 |
 | 11 | [6](https://open.spotify.com/track/5M88pOSbcI0MiP1LQIQRsw) | [Ktyb](https://open.spotify.com/artist/1i85OjmZoPeQqdnqX0NXBa), [John Six](https://open.spotify.com/artist/3GmOYEzhVHdhjo5aPfqdKv) | [15](https://open.spotify.com/album/7AuGYNOdAHok79QnGy56CX) | 2:29 |
 | 12 | [STORY](https://open.spotify.com/track/48Hx9OyVN0uNt785LNj6pQ) | [EMP1RE](https://open.spotify.com/artist/2aFZFL6yee8SaztShh7AST) | [STORY](https://open.spotify.com/album/3KIN37CuJ5aNrGaDcasprX) | 3:09 |
@@ -69,4 +69,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7YBEurFPUfV.md) - [plain]
 | 59 | [Nsit Noum](https://open.spotify.com/track/6a7mYd9Iud4JIAwUvRQtSC) | [A.L.A](https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX) | [Hybrid](https://open.spotify.com/album/1hlNp7808dp9wq80nqldHe) | 2:53 |
 | 60 | [THANNA](https://open.spotify.com/track/6ByC9ct1jz0yUnqWa4SRdz) | [Kaso](https://open.spotify.com/artist/1Brdq29oq6t0jyJeeLLMx0) | [Mode Avion](https://open.spotify.com/album/2Zcbkc45OI5UrS6d8W7N31) | 2:58 |
 
-Snapshot ID: `AAAAALNuN/XTeA+90sh+0Tvgmth+SOvU`
+Snapshot ID: `AAAAACZ0z6cIap84w2MYdx9zGOLFqd5k`

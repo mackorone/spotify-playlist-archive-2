@@ -1,6 +1,6 @@
 {
   "description": "Trendy x Chill K-Hip Hop.  (Cover: Jay Park)(\ud2b8\ub80c\ub514 x \uce60! \uc138\ub828\ub418\uace0 \ub4e3\uae30 \ud3b8\ud55c \ud799\ud569\uc74c\uc545\ub4e4\uc744 \uc990\uaca8\ubcf4\uc138\uc694.) ",
-  "num_followers": 221626,
+  "num_followers": 221620,
   "original_name": "TrenChill K-Hip Hop",
   "owner": {
     "name": "Spotify",
@@ -843,6 +843,26 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
+        "name": "LIVE FAST DIE SKRT",
+        "url": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR"
+      },
+      "artists": [
+        {
+          "name": "BILL STAX",
+          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
+        },
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 227234,
+      "name": "You're So Fine",
+      "url": "https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
         "name": "365&7",
         "url": "https://open.spotify.com/album/1qBuIFkfE3IWiWSiwMqiuL"
       },
@@ -863,22 +883,18 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
-        "name": "LIVE FAST DIE SKRT",
-        "url": "https://open.spotify.com/album/1MjbVCreOaE7j2f9gQG1dR"
+        "name": "SEOUL DRIFT",
+        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
       },
       "artists": [
         {
-          "name": "BILL STAX",
-          "url": "https://open.spotify.com/artist/459tVR1zPUmVwOROer0adD"
-        },
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+          "name": "ZICO",
+          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
         }
       ],
-      "duration_ms": 227234,
-      "name": "You're So Fine",
-      "url": "https://open.spotify.com/track/5WxYKs3nb6TGa8kThH4eAJ"
+      "duration_ms": 199626,
+      "name": "SEOUL DRIFT",
+      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -903,22 +919,6 @@
       "duration_ms": 170013,
       "name": "Burning slow (feat. Sik-K, GGM LIL DRAGON) - Remix",
       "url": "https://open.spotify.com/track/5q7uQrUfdGIrTnspd8tYu6"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
-        "name": "SEOUL DRIFT",
-        "url": "https://open.spotify.com/album/1nG8Wxn3f3buiaDg5rGzpC"
-      },
-      "artists": [
-        {
-          "name": "ZICO",
-          "url": "https://open.spotify.com/artist/4XpUIb8uuNlIWVKmgKZXC0"
-        }
-      ],
-      "duration_ms": 199626,
-      "name": "SEOUL DRIFT",
-      "url": "https://open.spotify.com/track/26ZVy8n9X8K59DXFyZtkT0"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
-        "name": "chukchuk (demo)",
-        "url": "https://open.spotify.com/album/0CKAGyVSfkjqQ7cHDIZpO1"
-      },
-      "artists": [
-        {
-          "name": "Loco",
-          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
-        }
-      ],
-      "duration_ms": 191622,
-      "name": "chukchuk - demo",
-      "url": "https://open.spotify.com/track/02T2UJuSftQ5JceWO5GhJd"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
         "name": "METAMORPHOSIS",
         "url": "https://open.spotify.com/album/7L1vFE7gqED2lVNZaCPgW4"
       },
@@ -1147,6 +1131,22 @@
       "duration_ms": 181173,
       "name": "Black Swan (Feat. Leellamarz, DON MALIK)",
       "url": "https://open.spotify.com/track/0rG31ihx1Jurb7hzc6ixc0"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
+        "name": "chukchuk (demo)",
+        "url": "https://open.spotify.com/album/0CKAGyVSfkjqQ7cHDIZpO1"
+      },
+      "artists": [
+        {
+          "name": "Loco",
+          "url": "https://open.spotify.com/artist/2e4G04F77jxVuDYo44TCSm"
+        }
+      ],
+      "duration_ms": 191622,
+      "name": "chukchuk - demo",
+      "url": "https://open.spotify.com/track/02T2UJuSftQ5JceWO5GhJd"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1271,26 +1271,6 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
-        "name": "BABY CACTUS",
-        "url": "https://open.spotify.com/album/3ShL6AibXcXnVm1b3goR1a"
-      },
-      "artists": [
-        {
-          "name": "TRADE L",
-          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
-        },
-        {
-          "name": "Crush",
-          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
-        }
-      ],
-      "duration_ms": 181384,
-      "name": "BUCKET LIST (feat. Crush)",
-      "url": "https://open.spotify.com/track/3dwKfii5Tr7aaiZ8QpJFwk"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
         "name": "HANG OUT : HIPHOPPLAYA COMPILATION ALBUM 2021 Part 3",
         "url": "https://open.spotify.com/album/43gjv7pPlPUNcHN4DZ8ZHA"
       },
@@ -1307,6 +1287,26 @@
       "duration_ms": 189157,
       "name": "HATE ME (feat. youra) (prod. WOOGIE)",
       "url": "https://open.spotify.com/track/5L2dd0GWhy2rXeGp0g5pnT"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
+        "name": "BABY CACTUS",
+        "url": "https://open.spotify.com/album/3ShL6AibXcXnVm1b3goR1a"
+      },
+      "artists": [
+        {
+          "name": "TRADE L",
+          "url": "https://open.spotify.com/artist/6b29EYSqnLhUyxC3yyNbyr"
+        },
+        {
+          "name": "Crush",
+          "url": "https://open.spotify.com/artist/6aLdhHUqgdKE86xbtNmY8g"
+        }
+      ],
+      "duration_ms": 181384,
+      "name": "BUCKET LIST (feat. Crush)",
+      "url": "https://open.spotify.com/track/3dwKfii5Tr7aaiZ8QpJFwk"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1371,6 +1371,22 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
+        "name": "1,2,3,4,5",
+        "url": "https://open.spotify.com/album/7D6P8Uo19ayw8P4kqrCzjz"
+      },
+      "artists": [
+        {
+          "name": "Coogie",
+          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
+        }
+      ],
+      "duration_ms": 182026,
+      "name": "1,2,3,4,5",
+      "url": "https://open.spotify.com/track/0b2uMH3ziqvmdPyyv02FA7"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
         "name": "LOVE MAZE",
         "url": "https://open.spotify.com/album/7rOm15Kcboervh20RasQPp"
       },
@@ -1391,22 +1407,6 @@
       "duration_ms": 227560,
       "name": "NG (Feat. pH-1, Jay Park)",
       "url": "https://open.spotify.com/track/1Oda9YbX3UIA8De6GhQN8M"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
-        "name": "1,2,3,4,5",
-        "url": "https://open.spotify.com/album/7D6P8Uo19ayw8P4kqrCzjz"
-      },
-      "artists": [
-        {
-          "name": "Coogie",
-          "url": "https://open.spotify.com/artist/0IznZPMUyaPGdqfP4oqBja"
-        }
-      ],
-      "duration_ms": 182026,
-      "name": "1,2,3,4,5",
-      "url": "https://open.spotify.com/track/0b2uMH3ziqvmdPyyv02FA7"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1535,6 +1535,26 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
+        "name": "Focused On Getting Rich",
+        "url": "https://open.spotify.com/album/19nQ5tfbjcexQxVXWToO1u"
+      },
+      "artists": [
+        {
+          "name": "KHAN",
+          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
+        },
+        {
+          "name": "OXYNOVA",
+          "url": "https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa"
+        }
+      ],
+      "duration_ms": 138280,
+      "name": "Over You",
+      "url": "https://open.spotify.com/track/53Ck0tEqxMbgP9GpBSN1cl"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
         "name": "BUZZIN (Feat. Coogie, GRAY)",
         "url": "https://open.spotify.com/album/2kutfq6QtMm6ZYyF6QktXd"
       },
@@ -1555,26 +1575,6 @@
       "duration_ms": 176371,
       "name": "BUZZIN (Feat. Coogie, GRAY)",
       "url": "https://open.spotify.com/track/2xaQzu6vkA5SUNrJUTFuJI"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
-        "name": "Focused On Getting Rich",
-        "url": "https://open.spotify.com/album/19nQ5tfbjcexQxVXWToO1u"
-      },
-      "artists": [
-        {
-          "name": "KHAN",
-          "url": "https://open.spotify.com/artist/13jYpBHek9LD68d1ZwWmu5"
-        },
-        {
-          "name": "OXYNOVA",
-          "url": "https://open.spotify.com/artist/72b3VgmhJa2YqlypqHdrXa"
-        }
-      ],
-      "duration_ms": 138280,
-      "name": "Over You",
-      "url": "https://open.spotify.com/track/53Ck0tEqxMbgP9GpBSN1cl"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1723,26 +1723,6 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
-        "name": "Day & Night (feat. Jay Park)",
-        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
-        }
-      ],
-      "duration_ms": 215573,
-      "name": "Day & Night (feat. Jay Park)",
-      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
         "name": "milli",
         "url": "https://open.spotify.com/album/3RZG9BV5a2GCxOe9OLjM8K"
       },
@@ -1755,22 +1735,6 @@
       "duration_ms": 150967,
       "name": "INSTAGRAM",
       "url": "https://open.spotify.com/track/7FLQ0h6DKO9s29WLzzHnVe"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
-        "name": "SOUL BABY",
-        "url": "https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr"
-      },
-      "artists": [
-        {
-          "name": "Raf Sandou",
-          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
-        }
-      ],
-      "duration_ms": 151500,
-      "name": "On the Weekend",
-      "url": "https://open.spotify.com/track/7vSnswbt8JRufDevmFgm0n"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1791,6 +1755,42 @@
       "duration_ms": 224397,
       "name": "Too laid back",
       "url": "https://open.spotify.com/track/1ZahPh50rup7FdclZCuDo2"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
+        "name": "SOUL BABY",
+        "url": "https://open.spotify.com/album/5sXJul476tGRt2eHMstVDr"
+      },
+      "artists": [
+        {
+          "name": "Raf Sandou",
+          "url": "https://open.spotify.com/artist/4FBKTurCVdtC6Fq8mSQgj8"
+        }
+      ],
+      "duration_ms": 151500,
+      "name": "On the Weekend",
+      "url": "https://open.spotify.com/track/7vSnswbt8JRufDevmFgm0n"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
+        "name": "Day & Night (feat. Jay Park)",
+        "url": "https://open.spotify.com/album/0pIB5R9hfgTH25CPrQWsyU"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 215573,
+      "name": "Day & Night (feat. Jay Park)",
+      "url": "https://open.spotify.com/track/7IuuFQShxmy7zMZ3vZvMFj"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1819,22 +1819,6 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
-        "name": "LOVESICK",
-        "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
-      },
-      "artists": [
-        {
-          "name": "Kid Milli",
-          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
-        }
-      ],
-      "duration_ms": 202035,
-      "name": "Who you?",
-      "url": "https://open.spotify.com/track/3IVMl7rrOX8BbQ8LNyotb0"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
         "name": "VISTA",
         "url": "https://open.spotify.com/album/6jghSUiZlBVm7isqJfYqtG"
       },
@@ -1859,6 +1843,22 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
+        "name": "LOVESICK",
+        "url": "https://open.spotify.com/album/3CHydLWaSOXR2aM4q8Hqqr"
+      },
+      "artists": [
+        {
+          "name": "Kid Milli",
+          "url": "https://open.spotify.com/artist/7IWshUcKfJyDWrbiF2XT8J"
+        }
+      ],
+      "duration_ms": 202035,
+      "name": "Who you?",
+      "url": "https://open.spotify.com/track/3IVMl7rrOX8BbQ8LNyotb0"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
         "name": "Bedroom Trip",
         "url": "https://open.spotify.com/album/1HDyIVnpOFHK3tRUWjdnKQ"
       },
@@ -1871,26 +1871,6 @@
       "duration_ms": 120374,
       "name": "Bedroom Trip",
       "url": "https://open.spotify.com/track/7IgqalEZ1xisip3UudYGtC"
-    },
-    {
-      "added_at": "2026-09-08 11:45:11",
-      "album": {
-        "name": "16 Fantasy",
-        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
-      },
-      "artists": [
-        {
-          "name": "Lee Young Ji",
-          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
-        },
-        {
-          "name": " jambino",
-          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
-        }
-      ],
-      "duration_ms": 193493,
-      "name": "ADHD (feat. Jambino)",
-      "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1911,6 +1891,26 @@
       "duration_ms": 162658,
       "name": "COT (feat. MILLI)",
       "url": "https://open.spotify.com/track/3vAte5domSgArlZsXlPFhC"
+    },
+    {
+      "added_at": "2026-09-08 11:45:11",
+      "album": {
+        "name": "16 Fantasy",
+        "url": "https://open.spotify.com/album/6ZE4nvpIEabJ0O9HbxqPHR"
+      },
+      "artists": [
+        {
+          "name": "Lee Young Ji",
+          "url": "https://open.spotify.com/artist/0Y2AcMPMpeuPXtPQGVvRBq"
+        },
+        {
+          "name": " jambino",
+          "url": "https://open.spotify.com/artist/1lcuNfp7bo4LCAHWrjAR9K"
+        }
+      ],
+      "duration_ms": 193493,
+      "name": "ADHD (feat. Jambino)",
+      "url": "https://open.spotify.com/track/4RswMuoJPErLTTdpYG5Qb0"
     },
     {
       "added_at": "2026-09-08 11:45:11",
@@ -1987,18 +1987,18 @@
     {
       "added_at": "2026-09-08 11:45:11",
       "album": {
-        "name": "Still Hot",
-        "url": "https://open.spotify.com/album/5uLwwJVwMZcSiSe9JbltKP"
+        "name": "Is Anybody Out There?",
+        "url": "https://open.spotify.com/album/7zYpUyqdyfgQlYu9GjMoWT"
       },
       "artists": [
         {
-          "name": "ZENE THE ZILLA",
-          "url": "https://open.spotify.com/artist/1MMbv4LTpwbh2APtXuwaZN"
+          "name": "DPR LIVE",
+          "url": "https://open.spotify.com/artist/0siBQaURCli5wn2lqv8WZg"
         }
       ],
-      "duration_ms": 122363,
-      "name": "Realized",
-      "url": "https://open.spotify.com/track/2GpquAGNGJlbKw2f6kLwOt"
+      "duration_ms": 278200,
+      "name": "Kiss Me",
+      "url": "https://open.spotify.com/track/3kjolpJ50jPf9Huqc3Y7jh"
     }
   ],
   "unique_name": "TrenChill K-Hip Hop",

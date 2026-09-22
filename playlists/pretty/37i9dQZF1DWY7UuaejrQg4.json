@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2018. Cover: The 1975",
-  "num_followers": 95725,
+  "num_followers": 95733,
   "original_name": "Best of Indie 2018",
   "owner": {
     "name": "Spotify",
@@ -451,22 +451,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Nation of Two",
-        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
-      },
-      "artists": [
-        {
-          "name": "Vance Joy",
-          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
-        }
-      ],
-      "duration_ms": 206360,
-      "name": "We're Going Home",
-      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "The Now Now",
         "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
       },
@@ -483,6 +467,22 @@
       "duration_ms": 197933,
       "name": "Humility (feat. George Benson)",
       "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Nation of Two",
+        "url": "https://open.spotify.com/album/5f6Eu9QtujgGggq5qbbycV"
+      },
+      "artists": [
+        {
+          "name": "Vance Joy",
+          "url": "https://open.spotify.com/artist/10exVja0key0uqUkk6LJRT"
+        }
+      ],
+      "duration_ms": 206360,
+      "name": "We're Going Home",
+      "url": "https://open.spotify.com/track/5J7zqPpQkN9JZiaELHNKSL"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "High As Hope",
-        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
-      },
-      "artists": [
-        {
-          "name": "Florence + The Machine",
-          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
-        }
-      ],
-      "duration_ms": 226160,
-      "name": "Sky Full Of Song",
-      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "7",
         "url": "https://open.spotify.com/album/65bVa55LFhY4PLx0kg8LjW"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 239306,
       "name": "Drunk in L.A.",
       "url": "https://open.spotify.com/track/579f7KQP5rpiiugsVuSuoQ"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "High As Hope",
+        "url": "https://open.spotify.com/album/0pKZJj9GzcKPCS8r4IaksA"
+      },
+      "artists": [
+        {
+          "name": "Florence + The Machine",
+          "url": "https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG"
+        }
+      ],
+      "duration_ms": 226160,
+      "name": "Sky Full Of Song",
+      "url": "https://open.spotify.com/track/64fzn2ewOdSH57wrxTPGov"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1327,22 +1327,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Needs",
-        "url": "https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE"
-      },
-      "artists": [
-        {
-          "name": "Verzache",
-          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
-        }
-      ],
-      "duration_ms": 177479,
-      "name": "Needs",
-      "url": "https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Shelter",
         "url": "https://open.spotify.com/album/4mYvYnX8cLr4w2UjmkpjnU"
       },
@@ -1359,6 +1343,22 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
+        "name": "Needs",
+        "url": "https://open.spotify.com/album/1QP3qNaDwOJByK4D0WHOFE"
+      },
+      "artists": [
+        {
+          "name": "Verzache",
+          "url": "https://open.spotify.com/artist/59KX7XUUgAOOo5IyDjca0T"
+        }
+      ],
+      "duration_ms": 177479,
+      "name": "Needs",
+      "url": "https://open.spotify.com/track/0WKmVAD4VWk5EdTyCFILi4"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
         "name": "Crush",
         "url": "https://open.spotify.com/album/66MRfhZmuTuyGCO1dJZTRB"
       },
@@ -1371,6 +1371,22 @@
       "duration_ms": 266666,
       "name": "Crush",
       "url": "https://open.spotify.com/track/4WfV1CNg91SBp8oG0VY0VB"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Be the Cowboy",
+        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
+      },
+      "artists": [
+        {
+          "name": "Mitski",
+          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
+        }
+      ],
+      "duration_ms": 128198,
+      "name": "Washing Machine Heart",
+      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1411,22 +1427,6 @@
     {
       "added_at": "2024-03-18 13:22:22",
       "album": {
-        "name": "Be the Cowboy",
-        "url": "https://open.spotify.com/album/653wRjqO0GOZPQPcXpeAXD"
-      },
-      "artists": [
-        {
-          "name": "Mitski",
-          "url": "https://open.spotify.com/artist/2uYWxilOVlUdk4oV9DvwqK"
-        }
-      ],
-      "duration_ms": 128198,
-      "name": "Washing Machine Heart",
-      "url": "https://open.spotify.com/track/4Ys8jQvZOISzmp34BsImRf"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
         "name": "Classic",
         "url": "https://open.spotify.com/album/2gHoyHYnaGEctKR8kysOAU"
       },
@@ -1439,6 +1439,22 @@
       "duration_ms": 194000,
       "name": "Awake",
       "url": "https://open.spotify.com/track/47ed9eO66cBHvWteLlF7C0"
+    },
+    {
+      "added_at": "2024-03-18 13:22:22",
+      "album": {
+        "name": "Lenses",
+        "url": "https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU"
+      },
+      "artists": [
+        {
+          "name": "Shoffy",
+          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
+        }
+      ],
+      "duration_ms": 191935,
+      "name": "Cool Again",
+      "url": "https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S"
     },
     {
       "added_at": "2024-03-18 13:22:22",
@@ -1459,22 +1475,6 @@
       "duration_ms": 234055,
       "name": "Drown",
       "url": "https://open.spotify.com/track/03ZkvqZOANKndGXfAAPywG"
-    },
-    {
-      "added_at": "2024-03-18 13:22:22",
-      "album": {
-        "name": "Lenses",
-        "url": "https://open.spotify.com/album/1RTm973fIk4zlqW69bqXOU"
-      },
-      "artists": [
-        {
-          "name": "Shoffy",
-          "url": "https://open.spotify.com/artist/4wO0kHiOwf8l9VMJJN9HmG"
-        }
-      ],
-      "duration_ms": 191935,
-      "name": "Cool Again",
-      "url": "https://open.spotify.com/track/4CFJuKGq5CiGF95M2Jrw3S"
     },
     {
       "added_at": "2024-03-18 13:22:22",

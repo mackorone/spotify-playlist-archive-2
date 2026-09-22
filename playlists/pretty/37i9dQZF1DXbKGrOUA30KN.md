@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbKGrOUA30KN.md) - [plain]
 
 > Deutschpop, der jetzt passiert\. Cover: Dani Lia, Yola
 
-[Spotify](https://open.spotify.com/user/spotify) - 643,784 likes - 90 songs - 3 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 643,735 likes - 90 songs - 3 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

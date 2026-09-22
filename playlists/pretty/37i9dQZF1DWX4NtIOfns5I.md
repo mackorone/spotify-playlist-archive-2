@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWX4NtIOfns5I.md) - [plain]
 
 > now all I know is the ending
 
-[Spotify](https://open.spotify.com/user/spotify) - 150,009 likes - 129 songs - 7 hr 44 min
+[Spotify](https://open.spotify.com/user/spotify) - 150,059 likes - 129 songs - 7 hr 44 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

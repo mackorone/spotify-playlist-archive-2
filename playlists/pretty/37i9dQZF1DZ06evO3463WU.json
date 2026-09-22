@@ -1,12 +1,12 @@
 {
   "description": "This is Pancho Barraza. The essential tracks, all in one playlist.",
-  "num_followers": 161023,
+  "num_followers": 161035,
   "original_name": "This Is Pancho Barraza",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAB4rGv4yaUEY/8OHhNQa8bM",
+  "snapshot_id": "aq8iAAAAAAAkboA3xVujJKr7IP2lIDah",
   "tracks": [
     {
       "added_at": null,
@@ -731,22 +731,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Vuelve Por Favor",
-        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
-      },
-      "artists": [
-        {
-          "name": "Pancho Barraza",
-          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
-        }
-      ],
-      "duration_ms": 156920,
-      "name": "Cuando Nadie Te Quiera",
-      "url": "https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Desde La Playa Vol. 2 (En Vivo)",
         "url": "https://open.spotify.com/album/1APPJC5KbjeamY8oscMlt9"
       },
@@ -791,6 +775,22 @@
       "duration_ms": 185736,
       "name": "De Frente Al Mar",
       "url": "https://open.spotify.com/track/4V73yEyOkURMlSPsXEDcGG"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Vuelve Por Favor",
+        "url": "https://open.spotify.com/album/1yAwz5raSrm3gda3WIIyBC"
+      },
+      "artists": [
+        {
+          "name": "Pancho Barraza",
+          "url": "https://open.spotify.com/artist/5dmU7FrmtbQaSzIvGsE4Jp"
+        }
+      ],
+      "duration_ms": 156920,
+      "name": "Cuando Nadie Te Quiera",
+      "url": "https://open.spotify.com/track/7siDteg05QhOq4fRlRLXO8"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 
 > Go hard or go home\. Cover: SOTA
 
-[Spotify](https://open.spotify.com/user/spotify) - 76,735 likes - 55 songs - 3 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 76,749 likes - 55 songs - 3 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4to60X6goeK.md) - [plain]
 | 31 | [Beamin’ \- K Motionz & skantia Remix](https://open.spotify.com/track/56qOWeHCiS8EbdYc39sjEr) | [K Motionz](https://open.spotify.com/artist/6QYdXToMo4XHnG1AnEVZYJ), [skantia](https://open.spotify.com/artist/0FZS1HlJfonbMpQGzTrh0M), [Songer](https://open.spotify.com/artist/1iW3b73XWPQSknLyH5kDrd) | [Beamin’ \(K Motionz & skantia Remix\)](https://open.spotify.com/album/4gmV6lUCXyhnOcUglQ0qPQ) | 4:03 |
 | 32 | [Satellite \- SOTA Remix](https://open.spotify.com/track/1whhLeg6WV3LiQne0adJW4) | [Dimension](https://open.spotify.com/artist/1QMgre3BHX161ZHtWMUu6S), [Alison Wonderland](https://open.spotify.com/artist/11gWrKZMBsGQWmobv3oNfW), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Satellite \(SOTA Remix\)](https://open.spotify.com/album/3PHykqDZ7hobh7byOyh0HZ) | 2:57 |
 | 33 | [Goose Chase](https://open.spotify.com/track/2qEZgjxNPG4bQ7A22np1Y0) | [Hoax](https://open.spotify.com/artist/3W1enT2cxmP2PjLG5zwmby) | [Goose Chase](https://open.spotify.com/album/4YTqjAUHJ3vqQk9uNJeGbX) | 3:00 |
-| 34 | [Lose Your Shit](https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ), [Phantom](https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a) | [Lose Your Shit](https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd) | 3:10 |
-| 35 | [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 |
+| 34 | [Outlaw](https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a) | [Flowidus](https://open.spotify.com/artist/410Yzyq0DmhJImIxqy5wOC), [Frisco](https://open.spotify.com/artist/1AKNroq6zJX4DlJaA0dcKw) | [Outlaw](https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ) | 2:57 |
+| 35 | [Lose Your Shit](https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm) | [A.M.C](https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ), [Phantom](https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a) | [Lose Your Shit](https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd) | 3:10 |
 | 36 | [Skanka](https://open.spotify.com/track/0oQsppeTfYFHbDHLrPFXno) | [Disrupta](https://open.spotify.com/artist/6VJ0MDdr6OO6ih2TKP5g2G), [Jaybee \(UK\)](https://open.spotify.com/artist/0Qe56XT4qjMaQhwVSFSFbH) | [Skanka](https://open.spotify.com/album/7iLy4GlBqnLAneS5KuPboU) | 3:10 |
 | 37 | [Raving In The Studio \(SOTA Remix\)](https://open.spotify.com/track/2imZwMeS2WLiPcgAbjo15T) | [Aitch](https://open.spotify.com/artist/2PJEagPIxaBugeMjIyKVXF), [Bou](https://open.spotify.com/artist/35dxfY1wywqVRUEaVuMm13), [SOTA](https://open.spotify.com/artist/78UYwUXnotbqcp2NTxjujP) | [Raving In The Studio \(SOTA Remix\)](https://open.spotify.com/album/52JIuqcABYS0gq7DBUiWeH) | 2:15 |
 | 38 | [Rhythm & Gash VIP](https://open.spotify.com/track/7HJufiWVirU6D6kHgqmmRF) | [Phibes](https://open.spotify.com/artist/21VZgcYa29ZVvRQzmUNakx) | [Rhythm & Gash VIP](https://open.spotify.com/album/4G3ulwIvimf6PqAXIBN2wg) | 2:44 |

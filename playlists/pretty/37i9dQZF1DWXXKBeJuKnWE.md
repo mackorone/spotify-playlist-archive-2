@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 
 > The sound of the underground\. Cover: Architects
 
-[Spotify](https://open.spotify.com/user/spotify) - 488,279 likes - 100 songs - 5 hr 52 min
+[Spotify](https://open.spotify.com/user/spotify) - 488,234 likes - 100 songs - 5 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,21 +52,21 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 42 | [Lucid Love](https://open.spotify.com/track/0HEO70JZIbctSuGFtf9SM6) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [⁠Lucid Love](https://open.spotify.com/album/7sp5UmnYQIP05DsjGiYYIH) | 3:30 |
 | 43 | [rehearsed](https://open.spotify.com/track/1VPfyXKI6BgPVdX5ZfftSO) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [rehearsed](https://open.spotify.com/album/4B9NHa0X2zpwmOckDL4ZAD) | 1:50 |
 | 44 | [Swept From Under \(Call of the Void\)](https://open.spotify.com/track/6qOSf7vfYCwcQfeqI5QPgX) | [156/Silence](https://open.spotify.com/artist/2qXHYRTtZytxMMfO9pW1V9) | [From A Distance](https://open.spotify.com/album/6i2dRG24s6ocnvWZPPTYDG) | 3:23 |
-| 45 | [Bullshit](https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Bullshit](https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr) | 3:35 |
-| 46 | [1x1](https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [1x1](https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts) | 3:56 |
-| 47 | [Where the Quiet Devours Me Whole](https://open.spotify.com/track/0WvR4onzFu05Lr1XLWxkON) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Where the Quiet Devours Me Whole](https://open.spotify.com/album/73goa6HpxvU7caNvTL6zAV) | 2:58 |
+| 45 | [1x1](https://open.spotify.com/track/1I85hmQ802nxEF0OAoUZxN) | [Hollywood Undead](https://open.spotify.com/artist/0CEFCo8288kQU7mJi25s6E) | [1x1](https://open.spotify.com/album/7s5Wf966z06OIL7WTLEwts) | 3:56 |
+| 46 | [Bullshit](https://open.spotify.com/track/7oA1ZNByPOTeJYz3tBGXas) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Bullshit](https://open.spotify.com/album/5ZS5O2upVRhSgeRiAlosYr) | 3:35 |
+| 47 | [An Ending In Itself](https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr) | 3:36 |
 | 48 | [split](https://open.spotify.com/track/5Sl5nxwOOREn5pBoZyPomu) | [thrown](https://open.spotify.com/artist/5eBCPtU2iPbzuMRre9BePt) | [split](https://open.spotify.com/album/2qpK5gD7V8q1GPtfSWWM8m) | 2:11 |
-| 49 | [An Ending In Itself](https://open.spotify.com/track/10NpRPR6vhJLF2LutMM2Qk) | [Sleeping With Sirens](https://open.spotify.com/artist/3N8Hy6xQnQv1F1XCiyGQqA) | [An Ending In Itself](https://open.spotify.com/album/2KY8x9VYNQK8163vDBxdcr) | 3:36 |
+| 49 | [Where the Quiet Devours Me Whole](https://open.spotify.com/track/0WvR4onzFu05Lr1XLWxkON) | [Like Moths To Flames](https://open.spotify.com/artist/6RRpZz1uPqY9E28kmSPAhw) | [Where the Quiet Devours Me Whole](https://open.spotify.com/album/73goa6HpxvU7caNvTL6zAV) | 2:58 |
 | 50 | [Live by the Sword](https://open.spotify.com/track/69ROVTWFPX1QGcJBEoTxPG) | [Movements](https://open.spotify.com/artist/1kkyfIopIiVvaPHHlbsfac) | [Live by the Sword](https://open.spotify.com/album/2m2PHGU8NJlTtwZbIClLp2) | 3:39 |
 | 51 | [Far](https://open.spotify.com/track/1SaUeEGwQCZFwiwPbYg2Cs) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Far](https://open.spotify.com/album/0ER0N9enALbr72SfW154lP) | 3:28 |
 | 52 | [Song Of The Swamp](https://open.spotify.com/track/3nImaje8npYkUGZG4AQlc4) | [Wage War](https://open.spotify.com/artist/6bu7CtcOMWcS0BMq7snHW6) | [Song Of The Swamp](https://open.spotify.com/album/7jx0RyYXimNfJDm7ohjIUN) | 3:18 |
-| 53 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 |
-| 54 | [Lay Cold](https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O) | [Overgrown](https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0) | [Lay Cold](https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx) | 3:40 |
+| 53 | [Lay Cold](https://open.spotify.com/track/6R2OlUznc0QnSYzu602S0O) | [Overgrown](https://open.spotify.com/artist/4nhRSSUxbE3wHY1DpWtCg0) | [Lay Cold](https://open.spotify.com/album/6tuo52gIlYEcpwJY65Zbqx) | 3:40 |
+| 54 | [Free](https://open.spotify.com/track/3oOhSGUZSmV6XsANXjaEDj) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Free](https://open.spotify.com/album/6HGItoMgIv712ocI5drxDN) | 3:08 |
 | 55 | [Sx](https://open.spotify.com/track/1ruMyUArnbPivLRjeHyOWH) | [Bury Tomorrow](https://open.spotify.com/artist/6BD4lgmnh4vy6kkCaZRDWt) | [Sx](https://open.spotify.com/album/7IZsiyiB3C0ZUA4osa6EXv) | 4:02 |
 | 56 | [Reflection](https://open.spotify.com/track/5ut6zrdYBeExWnpAEjPQBg) | [Holding Absence](https://open.spotify.com/artist/2tl280wIokrLjabzrSKTgU) | [Reflection](https://open.spotify.com/album/4KaSM2MFEW6qgsKC2kuCXg) | 3:43 |
 | 57 | [do or die](https://open.spotify.com/track/0Tg0Ac65nMkQE72afNKe0F) | [Windwaker](https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS) | [do or die](https://open.spotify.com/album/2dPk63GcANbZt1MxTijolk) | 3:24 |
-| 58 | [Pure Ecstasy](https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3) | 3:05 |
-| 59 | [Death To Something](https://open.spotify.com/track/691foVXBeyjG2KPY4PGeFy) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Death To Something](https://open.spotify.com/album/7jIb1kFkYPuDv4I6KR7LZ4) | 4:32 |
+| 58 | [Death To Something](https://open.spotify.com/track/691foVXBeyjG2KPY4PGeFy) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Death To Something](https://open.spotify.com/album/7jIb1kFkYPuDv4I6KR7LZ4) | 4:32 |
+| 59 | [Pure Ecstasy](https://open.spotify.com/track/3IoUXFzfbzbi1XIfosP0AP) | [Beartooth](https://open.spotify.com/artist/6vwjIs0tbIiseJMR3pqwiL) | [Pure Ecstasy](https://open.spotify.com/album/7LaRPSnFbhbbDVAPf6ewX3) | 3:05 |
 | 60 | [Black & Blue \- 2026 Repented](https://open.spotify.com/track/7KkbjjccZvAxo6dHiagV4i) | [Bring Me The Horizon](https://open.spotify.com/artist/1Ffb6ejR6Fe5IamqA5oRUF) | [Black & Blue \(2026 Repented\)](https://open.spotify.com/album/6U3DX5YduAdNPwupudPkbm) | 4:32 |
 | 61 | [Fangs](https://open.spotify.com/track/4zXA5VxlbMVvg21Hi5RjcC) | [Loathe](https://open.spotify.com/artist/4G9wSdX0klmoHfjm9i6DLd) | [Fangs](https://open.spotify.com/album/3OgRSLmGbLqG8WtiaLgAhb) | 4:09 |
 | 62 | [NOISE](https://open.spotify.com/track/7EB4ZaeORzAv9TBIfMfruC) | [ivri](https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS) | [NOISE](https://open.spotify.com/album/2jvQJsBySeUaqtZhhMg5rj) | 2:42 |
@@ -75,13 +75,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 65 | [Cry](https://open.spotify.com/track/4Ps8tS8Npo0426o7w3zN3i) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Cry](https://open.spotify.com/album/775FTflkHkZfaZYP130ALj) | 3:25 |
 | 66 | [Last One Here](https://open.spotify.com/track/7q7Hv1ofFjGNbNcaIWR6U7) | [Rev3rent](https://open.spotify.com/artist/45q5wK6iCBMgxlghmyjkUD) | [Last One Here](https://open.spotify.com/album/1FDfwBUZdcIV1Wtq8CNO4l) | 3:20 |
 | 67 | [Your Name In Red Ink](https://open.spotify.com/track/2Wuq5insP2K1DiQZrfGhGn) | [From First To Last](https://open.spotify.com/artist/5n71fmAB8Un2IfAPn64erN) | [Your Name In Red Ink](https://open.spotify.com/album/28BwYERM72BwDCFnwWDfb6) | 3:14 |
-| 68 | [Kill Count Increase](https://open.spotify.com/track/6Jq3KKVdU70ejCxLOAdsgt) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Kill Count Increase](https://open.spotify.com/album/4lsum4LQdOPJ8r29s3eqAW) | 2:28 |
-| 69 | [Pins](https://open.spotify.com/track/5NAA0Wl9d91UtSSuhdF6dK) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Pins](https://open.spotify.com/album/6NIiDsz5t6nWiBTL8Z0KEu) | 4:01 |
-| 70 | [Seraphim](https://open.spotify.com/track/7p7KXqzi34e2KEdYGWWNHD) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Seraphim](https://open.spotify.com/album/1XVWZrMKWwtDeqLq4NKfMj) | 3:23 |
-| 71 | [Growing Different Limbs](https://open.spotify.com/track/2Kh9Wt5b0rMjTfX0JSARGA) | [Lady Radiator](https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov), [Donovan Melero](https://open.spotify.com/artist/6Q3ralMRVqEqQKwnML65w4), [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Growing Different Limbs](https://open.spotify.com/album/7i41p72B1O46TVAit3eZB0) | 3:20 |
+| 68 | [Pins](https://open.spotify.com/track/5NAA0Wl9d91UtSSuhdF6dK) | [Gurriers](https://open.spotify.com/artist/0bPAi2zCrxUrPBREWdetZ5) | [Pins](https://open.spotify.com/album/6NIiDsz5t6nWiBTL8Z0KEu) | 4:01 |
+| 69 | [Kill Count Increase](https://open.spotify.com/track/6Jq3KKVdU70ejCxLOAdsgt) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Kill Count Increase](https://open.spotify.com/album/4lsum4LQdOPJ8r29s3eqAW) | 2:28 |
+| 70 | [Growing Different Limbs](https://open.spotify.com/track/2Kh9Wt5b0rMjTfX0JSARGA) | [Lady Radiator](https://open.spotify.com/artist/5U2FH1VnxiZYbLcUVWGrov), [Donovan Melero](https://open.spotify.com/artist/6Q3ralMRVqEqQKwnML65w4), [Hail The Sun](https://open.spotify.com/artist/0XblvrTo6mnHOxWIP1t5T6) | [Growing Different Limbs](https://open.spotify.com/album/7i41p72B1O46TVAit3eZB0) | 3:20 |
+| 71 | [Seraphim](https://open.spotify.com/track/7p7KXqzi34e2KEdYGWWNHD) | [SAVE US](https://open.spotify.com/artist/4zg7MdBZ6o5IFIcB6qXZg1) | [Seraphim](https://open.spotify.com/album/1XVWZrMKWwtDeqLq4NKfMj) | 3:23 |
 | 72 | [Sanctuary](https://open.spotify.com/track/6MK143VUXqTfGpXLXyZBHf) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Sanctuary](https://open.spotify.com/album/472qdwRDfEiZY3qSNZYqXQ) | 3:24 |
-| 73 | [Fatal Paradox](https://open.spotify.com/track/2Fftk3qAukmlWOwWN2SYHT) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Fatal Paradox](https://open.spotify.com/album/2C35JDhqsNoGB3ZBSqcDZo) | 2:42 |
-| 74 | [Shadow](https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Shadow](https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V) | 4:22 |
+| 73 | [Shadow](https://open.spotify.com/track/77azOBV68Xo1X7Vy4dHEXU) | [Profiler](https://open.spotify.com/artist/3rIfGORYIxh2aBVnThX8Lo) | [Shadow](https://open.spotify.com/album/2hd231cssl94Wx2seSvy3V) | 4:22 |
+| 74 | [Fatal Paradox](https://open.spotify.com/track/2Fftk3qAukmlWOwWN2SYHT) | [Hatebreed](https://open.spotify.com/artist/17Mb968quDHpjCkIyq30QV) | [Fatal Paradox](https://open.spotify.com/album/2C35JDhqsNoGB3ZBSqcDZo) | 2:42 |
 | 75 | [Kill Me First](https://open.spotify.com/track/1mFvTywPa4teyAeo9frqAY) | [The Ghost Inside](https://open.spotify.com/artist/6kQB2RN7WwryMdJ1MoQh1E), [Lakeview](https://open.spotify.com/artist/4m7IOKt2QRPsoHJSWBmeZD) | [Kill Me First](https://open.spotify.com/album/2SAoqo4aCJO8wshF6Lf1dX) | 3:07 |
 | 76 | [Chosen Hell](https://open.spotify.com/track/2KpZs2PLyA2ZA3Rea2SqzJ) | [Comeback Kid](https://open.spotify.com/artist/67f7GZXNMGRn98lqrtIdrN) | [Chosen Hell](https://open.spotify.com/album/5Rf79vAFPsJgSqmZnxWHV7) | 2:38 |
 | 77 | [Death Threat](https://open.spotify.com/track/5vajYYLucVGK38hPJWafyC) | [Miss May I](https://open.spotify.com/artist/2OTuoIi28WybVbVcykc237) | [Death Threat](https://open.spotify.com/album/7v6TeAPxPcUzkA07YhpwkJ) | 3:02 |
@@ -107,6 +107,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXXKBeJuKnWE.md) - [plain]
 | 97 | [blueprints](https://open.spotify.com/track/2IcdRdXh3E7E50rehZmAP5) | [unpeople](https://open.spotify.com/artist/515JoZzxBrdm0TxOhHa2n2) | [blueprints](https://open.spotify.com/album/4hmI2HMwNymNWg7wUAlaUx) | 3:48 |
 | 98 | [Like You](https://open.spotify.com/track/3QFVFxNgz4JZse0FnhFoeG) | [Any Given Sin](https://open.spotify.com/artist/1376cQHGVXyY9lSz0Wf900) | [Like You](https://open.spotify.com/album/0EPu0Y8gcdsRWd7bcFYGuv) | 3:06 |
 | 99 | [Living/Ending](https://open.spotify.com/track/77u9CeQx36eluADaPXVZyD) | [Godflesh](https://open.spotify.com/artist/5A4ebXQf38xWIq0xSWLhsS) | [Living/Ending](https://open.spotify.com/album/2t4y0xuK6G0Wgg2eiZycci) | 5:07 |
-| 100 | [Don't MisStep](https://open.spotify.com/track/61NDAaJEyNfixD2e0bmBe1) | [Madball](https://open.spotify.com/artist/1qh6ppVtiFTKMyta0NXsjf) | [Not Your Kingdom](https://open.spotify.com/album/5Ga69zVHRQGaY7Kqo0aGRU) | 1:34 |
+| 100 | [WEAPON](https://open.spotify.com/track/0PAQ2onMF2K69b2IYtK8yX) | [MOTHICA](https://open.spotify.com/artist/1JhiIIXT9DWqEU3BYFZwGA) | [Somewhere In Between](https://open.spotify.com/album/5KJPUWvsYR8QKCITHAY9zG) | 2:27 |
 
 Snapshot ID: `AAAAACeWJhyaGEo/JvWvMluD5/VpBKaQ`

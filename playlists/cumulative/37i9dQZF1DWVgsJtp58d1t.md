@@ -4,7 +4,7 @@
 
 > The best in Black music! Cover: <a href="spotify:artist:46pWGuE3dSwY3bMMXGBvVS">Chxrry</a>
 
-6,436 songs - 13 day 14 hr 41 min
+6,438 songs - 13 day 14 hr 46 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -160,7 +160,8 @@
 | [A Dream](https://open.spotify.com/track/0Ntl87gyxtztbpfK8hfqQr) | [Xavier Omär](https://open.spotify.com/artist/3UjPnt2nRmw10N58bBeNOg), [pat junior](https://open.spotify.com/artist/0lOsH3CaZpQIE3QO40SFvx) | [b l u r r](https://open.spotify.com/album/1lKab1olSSCNuFg3f2Jif0) | 2:41 | 2022-07-22 | 2022-08-06 |
 | [a girl like me](https://open.spotify.com/track/2KzkWP9RYW1xz4gqDRArQd) | [flowerovlove](https://open.spotify.com/artist/1JspXUvEv3D9ddMeLNqYWj) | [a girl like me](https://open.spotify.com/album/51gIsdlU8UIgzSgDJrEr9Z) | 2:42 | 2023-11-17 | 2023-11-30 |
 | [A Girl Like You](https://open.spotify.com/track/7hLkwgguzGRq1rTyA3P9pr) | [Bakar](https://open.spotify.com/artist/3K2Srho6NCF3o9MswGR76H) | [A Girl Like You](https://open.spotify.com/album/21bl39xHspuIISAteKFXoq) | 1:56 | 2024-08-16 | 2024-08-24 |
-| [A Good Day](https://open.spotify.com/track/4CrnExkcZkg6Aek113hAWl) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6sMIP5Lvb3Is5dwkzOawtm) | 2:31 | 2026-09-18 |  |
+| [A Good Day](https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX) | 2:31 | 2026-09-21 |  |
+| [A Good Day](https://open.spotify.com/track/4CrnExkcZkg6Aek113hAWl) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6sMIP5Lvb3Is5dwkzOawtm) | 2:31 | 2026-09-18 | 2026-09-22 |
 | [A Hundred](https://open.spotify.com/track/2C83kplH0uabvBCs8atvZN) | [Reyna Roberts](https://open.spotify.com/artist/4jpqm8g4We93Uk6M9M4FDh) | [The Lost Files](https://open.spotify.com/album/7dx3egWe4XydAlpBw3XznM) | 3:13 | 2024-09-20 | 2024-09-28 |
 | [A Kid From Toronto](https://open.spotify.com/track/0ItCQuRw6DglXZjTE8dFlv) | [Kalisway](https://open.spotify.com/artist/36w05i5hz4ktQ9sWnmKgtK) | [A Kid From Toronto](https://open.spotify.com/album/20hlfF3cuwNE13zQfwQwIp) | 3:13 | 2024-07-27 | 2024-08-03 |
 | [A Milli \- SIDEPIECE Remix](https://open.spotify.com/track/2jB8Y4OCA1azQrsIkva32z) | [Lil Wayne](https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865), [SIDEPIECE](https://open.spotify.com/artist/5czbzNZZfWpyFgZyfT3Mkk) | [A Milli \(SIDEPIECE Remix\)](https://open.spotify.com/album/7LZc53WdqALyOWeYYOw9nh) | 2:33 | 2023-01-13 | 2023-02-03 |
@@ -497,7 +498,7 @@
 | [Bad Idea \(feat\. Blxst\)](https://open.spotify.com/track/0igni3l2TL5YMWiTa2b1Qb) | [Arin Ray](https://open.spotify.com/artist/6TvjXbopXg71XRM9OZWqUc), [Blxst](https://open.spotify.com/artist/4qXC0i02bSFstECuXP2ZpL) | [Hello Poison](https://open.spotify.com/album/75ROXu2vbXVKe3OLeW54yS) | 3:36 | 2022-06-07 | 2022-06-25 |
 | [bad man](https://open.spotify.com/track/4r8vfDMCXnU4Kl9AYYaXRM) | [Q](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [10 songs](https://open.spotify.com/album/6kBVXxCYWSiuGEboOMYOl8) | 3:04 | 2025-04-04 | 2025-04-12 |
 | [Bad Night](https://open.spotify.com/track/4SGQQSXQvgYBNcRfBAPwHJ) | [Godly the Ruler](https://open.spotify.com/artist/2zdyZ3Dk59W2RKwAvGioLp) | [Bad Night](https://open.spotify.com/album/5Q6gXpfv7S8aKCgWdkk5TF) | 4:44 | 2025-07-25 | 2025-08-23 |
-| [Bad Role Model 2](https://open.spotify.com/track/1zYaAO7ZLLh2Q3A2trqJQq) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Bad Role Model 2](https://open.spotify.com/album/6553XMCHSPHetIz9kWjNtO) | 2:14 | 2026-08-28 |  |
+| [Bad Role Model 2](https://open.spotify.com/track/1zYaAO7ZLLh2Q3A2trqJQq) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Bad Role Model 2](https://open.spotify.com/album/6553XMCHSPHetIz9kWjNtO) | 2:14 | 2026-08-28 | 2026-09-22 |
 | [Bad Time](https://open.spotify.com/track/7F8e3Ph2sw6ASOAIoG0HEI) | [Joony](https://open.spotify.com/artist/0gY0jm6QAzJCAslmZC3T35), [Highway](https://open.spotify.com/artist/3ipYF6lYiU7lmIb5k3JGej) | [Bad Time](https://open.spotify.com/album/2LN6XGtqzQxXOW6WnFZnqQ) | 3:23 | 2023-03-03 | 2023-03-25 |
 | [Bad To Me](https://open.spotify.com/track/2pUlBBWq8R10ylbBvZJV9j) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Bad To Me](https://open.spotify.com/album/15hz0gTEdD5H9taOgDdrfJ) | 2:56 | 2022-09-16 | 2022-10-22 |
 | [bad vibes](https://open.spotify.com/track/6jUzV98Umr2CJ8bT5Gq9XG) | [Ollie](https://open.spotify.com/artist/5OyoCvyau6TiGqcCKnDBCR) | [Sunsets & Goodbyes](https://open.spotify.com/album/7zjWF8aJyTMv22bL7YZWRo) | 2:10 | 2022-10-14 | 2022-10-29 |
@@ -3395,6 +3396,7 @@
 | [Lucky \(ft\. Mando Hill\)](https://open.spotify.com/track/2lQCdMZiGHYqBBxhpYzck8) | [Kelechief](https://open.spotify.com/artist/5RYLLsBCVrGJtU2RrlXrOR), [Mando Hill](https://open.spotify.com/artist/3rdbqu1VIlXUShnHvjcxFS) | [Lucky \(ft\. Mando Hill\)](https://open.spotify.com/album/51hQIfNEWD3nS4lSZgD2SM) | 3:44 | 2022-12-16 | 2023-01-14 |
 | [Lucky Number One](https://open.spotify.com/track/3WuzwlDCQ4cQfkY9BlbRvL) | [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [NO RE\-ENTRY](https://open.spotify.com/album/3gUwFjbvPiO4i5vseJHg5G) | 2:26 | 2025-11-14 | 2025-12-04 |
 | [Lucky\[Hymn\]](https://open.spotify.com/track/0plo6dVRUzgOsVOV0OtjTw) | [Shygirl](https://open.spotify.com/artist/3M3wTTCDwicRubwMyHyEDy) | [Lucky\[Hymn\]](https://open.spotify.com/album/6mgCA7TIo6aHcehFNVQMBz) | 3:48 | 2026-09-11 |  |
+| [Lucy](https://open.spotify.com/track/34YbeTCBe5iYjW1KJbjmzS) | [Scorey](https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb) | [Lucy](https://open.spotify.com/album/5v8hjldMShvQWxLvUfLFkN) | 2:13 | 2026-09-21 |  |
 | [Luh Mo' Love](https://open.spotify.com/track/22fjiuuHawoPEnh9f0zL68) | [EJ Jones](https://open.spotify.com/artist/1Ub0AUonKoIZuFvy1WZbIC) | [Luh Mo' Love](https://open.spotify.com/album/07YxYfJhhvXyhXHUPOLthY) | 3:40 | 2026-06-19 |  |
 | [Lullaby](https://open.spotify.com/track/2s5bAoQpITfCJiX5LRBx60) | [Britti](https://open.spotify.com/artist/3hg7WmmcESGiEaNU40tqXn) | [Lullaby](https://open.spotify.com/album/2PT518qif2NTxvgizAObme) | 3:35 | 2024-02-02 | 2024-02-10 |
 | [luther \(with sza\)](https://open.spotify.com/track/2CGNAOSuO1MEFCbBRgUzjd) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [SZA](https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP) | [GNX](https://open.spotify.com/album/1Ss0ArMRr91m83mOgRBjSZ) | 2:57 | 2025-01-17 | 2025-11-07 |

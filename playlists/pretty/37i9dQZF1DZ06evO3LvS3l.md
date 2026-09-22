@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 
 > This is David Allan Coe\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 29,087 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 29,091 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -24,15 +24,15 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 14 | [Spotlight](https://open.spotify.com/track/5D9GKjpvU4xbw4Y2sreLXB) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 3:06 |
 | 15 | [Time Off For Bad Behavior](https://open.spotify.com/track/6teK395xJoARA0vVYXEfH5) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Live at Billy Bob's Texas](https://open.spotify.com/album/6UovhwsrRIA072Ywx6KgpV) | 2:38 |
 | 16 | [Ride Me Down Easy](https://open.spotify.com/track/54J5zUIelP4tPksfGSb1De) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Texas Moon \(Deluxe Edition\)](https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj) | 3:09 |
-| 17 | [I'm Gonna Hurt Her On the Radio](https://open.spotify.com/track/4QnQ1INIWEeDgz140kPqz1) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 2:38 |
-| 18 | [Don't Cry Darlin' \(Recitation by George Jones\)](https://open.spotify.com/track/5sTNElZHQWHWkz3WuIX3XA) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Darlin', Darlin'](https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B) | 2:48 |
+| 17 | [Don't Cry Darlin' \(Recitation by George Jones\)](https://open.spotify.com/track/5sTNElZHQWHWkz3WuIX3XA) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6), [George Jones](https://open.spotify.com/artist/2OpqcUtj10HHvGG6h9VYC5) | [Darlin', Darlin'](https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B) | 2:48 |
+| 18 | [I'm Gonna Hurt Her On the Radio](https://open.spotify.com/track/4QnQ1INIWEeDgz140kPqz1) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 2:38 |
 | 19 | [Son of the South](https://open.spotify.com/track/3T1wesBkJDrO3atfJJg0gk) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Son of the South](https://open.spotify.com/album/3PcXCSl8cdoDLspkdG0oKm) | 3:52 |
-| 20 | [Whiskey & Women](https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 2:34 |
-| 21 | [Dakota the Dancing Bear, Pt\. II](https://open.spotify.com/track/6YMUxXTDmU5ROJVGdZVxt0) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 3:57 |
+| 20 | [Dakota the Dancing Bear, Pt\. II](https://open.spotify.com/track/6YMUxXTDmU5ROJVGdZVxt0) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 3:57 |
+| 21 | [Whiskey & Women](https://open.spotify.com/track/3ivoFZ1Hc7jxWhVvYZMRii) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 2:34 |
 | 22 | [Blue Grass Morning](https://open.spotify.com/track/0DswKH36OANJJuRNlDXMLl) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Just Divorced](https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ) | 2:27 |
 | 23 | [London Homesick Blues](https://open.spotify.com/track/7DTNuvqJQPDNHKv9skEpIk) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Invictus \(Means\) Unconquered](https://open.spotify.com/album/7eR0fHwS4IHEBpos8ESiZb) | 2:59 |
-| 24 | [Mississippi River Queen](https://open.spotify.com/track/5fHhVrVYg4TloeZoVf6wJX) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 2:32 |
-| 25 | [Please Come to Boston](https://open.spotify.com/track/47ctsEbmgRRHXcFOfeeUVe) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [The Mysterious Rhinestone Cowboy](https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi) | 4:18 |
+| 24 | [Please Come to Boston](https://open.spotify.com/track/47ctsEbmgRRHXcFOfeeUVe) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [The Mysterious Rhinestone Cowboy](https://open.spotify.com/album/2CSVTNZdiHUM9U0IgeHQJi) | 4:18 |
+| 25 | [Mississippi River Queen](https://open.spotify.com/track/5fHhVrVYg4TloeZoVf6wJX) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Human Emotions](https://open.spotify.com/album/5rpL6mTBSeUqGhJiCKS8Lk) | 2:32 |
 | 26 | [It's Great to Be Single Again](https://open.spotify.com/track/3VX583L6pfYx5dPqK9654S) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Just Divorced](https://open.spotify.com/album/4RzPzFa3rXfDt3M0P5JAoQ) | 2:19 |
 | 27 | [Revenge](https://open.spotify.com/track/1TEFS1ROLeWKVShocGy8Vw) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Longhaired Redneck](https://open.spotify.com/album/79MXHXBV9uYoJgdrJESMKb) | 2:29 |
 | 28 | [Another Pretty Country Song](https://open.spotify.com/track/3ftt7udG1maQvpSTzzb0Ra) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 3:19 |
@@ -44,8 +44,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 34 | [Why You Been Gone So Long](https://open.spotify.com/track/38gJbvK9xkufMJmYelSyMz) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Darlin', Darlin'](https://open.spotify.com/album/0ttaFuz2MNLsozzwbTn07B) | 4:18 |
 | 35 | [Take This Job and Shove It Too](https://open.spotify.com/track/08iMxhW6hClhGiSo5QHIhc) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Family Album](https://open.spotify.com/album/7E52wkFEuclohpXk3MKgt2) | 2:57 |
 | 36 | [Piece of Wood and Steel](https://open.spotify.com/track/62xpXHNltQvHLtQUGX7ArA) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Once Upon a Rhyme](https://open.spotify.com/album/6YfHzMRBscPjVqcxIQoXom) | 4:02 |
-| 37 | [Just to Prove My Love for You](https://open.spotify.com/track/3K4J9hsXjF5Cnrf5YtnMMx) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Tattoo](https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W) | 2:23 |
-| 38 | [Ain't Worth the Powder](https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 3:12 |
+| 37 | [Ain't Worth the Powder](https://open.spotify.com/track/009rOUFn58lSEt2wzcNON3) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Unchained](https://open.spotify.com/album/7bM9q0YGIFtXJ3lw159O8w) | 3:12 |
+| 38 | [Just to Prove My Love for You](https://open.spotify.com/track/3K4J9hsXjF5Cnrf5YtnMMx) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Tattoo](https://open.spotify.com/album/3c1o4Jc3Fk0hbnhNgfLe2W) | 2:23 |
 | 39 | [The Fish Aren't Bitin' Today](https://open.spotify.com/track/1bYzoLz1GonUYnrqjMppKc) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Compass Point](https://open.spotify.com/album/1tEXpuNhfMIPwxOxPO59kr) | 3:08 |
 | 40 | [Southern Star](https://open.spotify.com/track/6X8awE7FqsGMyZCkH1psD7) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [A Matter of Life and Death](https://open.spotify.com/album/5iAcxskUK5WGatU8Yzkp2e) | 2:39 |
 | 41 | [Mama Tried](https://open.spotify.com/track/7opFp61IOAhDLbwXUAl3Jf) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [David Allan Coe Sings Merle Haggard](https://open.spotify.com/album/6vPAgi5fs170oyrkwHykD4) | 2:14 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3LvS3l.md) - [plain]
 | 49 | [Satisfied Mind](https://open.spotify.com/track/2TupUbFN9bwUOaIhiZo7q2) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [Texas Moon \(Deluxe Edition\)](https://open.spotify.com/album/0R5C0Zgqj6l4iyHYOv2zfj) | 4:26 |
 | 50 | [Hank Williams Junior\-Junior](https://open.spotify.com/track/1fiPB8rWT31z8it5R8V6Hv) | [David Allan Coe](https://open.spotify.com/artist/6nwh8AhPpbwOUnHZJWrHT6) | [I've Got Something to Say](https://open.spotify.com/album/0KjdMYe1vTK5Dz2jLfIrnN) | 2:42 |
 
-Snapshot ID: `aq3QgAAAAAB7tsTcNJeQiYoGNsoBYXHK`
+Snapshot ID: `aq8iAAAAAADktN4Hq8xsNKBQDj4Lwdda`

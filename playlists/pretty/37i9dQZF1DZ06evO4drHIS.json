@@ -1,12 +1,12 @@
 {
   "description": "This is Majo Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 19969,
+  "num_followers": 19972,
   "original_name": "This Is Majo Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAB852dPbEskJwCSCtxM449H",
+  "snapshot_id": "aq8iAAAAAAD85Uq0EiLjXh198xjkXKpF",
   "tracks": [
     {
       "added_at": null,
@@ -359,26 +359,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Luna Azul",
-        "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        },
-        {
-          "name": "Santa Fe Klan",
-          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
-        }
-      ],
-      "duration_ms": 188466,
-      "name": "Luna Azul",
-      "url": "https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "No Te Apartes de M\u00ed",
         "url": "https://open.spotify.com/album/7wHS73JJOpGAJwhNqrMdIk"
       },
@@ -403,18 +383,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+        "name": "Luna Azul",
+        "url": "https://open.spotify.com/album/7xO1HkxoLRT2iv8tdq84sP"
       },
       "artists": [
         {
           "name": "Majo Aguilar",
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        },
+        {
+          "name": "Santa Fe Klan",
+          "url": "https://open.spotify.com/artist/4tm8CEdm4pkQsEh4jIr9Yp"
         }
       ],
-      "duration_ms": 224120,
-      "name": "Mor\u00ed",
-      "url": "https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV"
+      "duration_ms": 188466,
+      "name": "Luna Azul",
+      "url": "https://open.spotify.com/track/6M7Ga3llZjDwKbb1b6oRFZ"
     },
     {
       "added_at": null,
@@ -435,8 +419,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Cielo Rojo",
-        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
       },
       "artists": [
         {
@@ -444,9 +428,9 @@
           "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
         }
       ],
-      "duration_ms": 258048,
-      "name": "Cielo Rojo",
-      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
+      "duration_ms": 224120,
+      "name": "Mor\u00ed",
+      "url": "https://open.spotify.com/track/6MTT7GTR2LCR5jvy0CFJiV"
     },
     {
       "added_at": null,
@@ -463,6 +447,22 @@
       "duration_ms": 192253,
       "name": "Para No Verte M\u00e1s",
       "url": "https://open.spotify.com/track/5ray3yUkUYoaP77QLmGks6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Cielo Rojo",
+        "url": "https://open.spotify.com/album/70DsT4xiJHLaWo1plNuB2G"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 258048,
+      "name": "Cielo Rojo",
+      "url": "https://open.spotify.com/track/34FglmHyQxeya2ZUpsOMvm"
     },
     {
       "added_at": null,
@@ -535,22 +535,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Se Canta Con El Coraz\u00f3n",
-        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 257640,
-      "name": "C\u00f3mo Te Olvido",
-      "url": "https://open.spotify.com/track/6apNNvYFcXv7pzVcTFKqpI"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi Y Tequila",
         "url": "https://open.spotify.com/album/6qgjHcLSRHblBP7T2UyVGu"
       },
@@ -563,6 +547,22 @@
       "duration_ms": 185346,
       "name": "Se Solicita",
       "url": "https://open.spotify.com/track/572C9YliZ90R176sy2702N"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Se Canta Con El Coraz\u00f3n",
+        "url": "https://open.spotify.com/album/3eLptwXDjQjRRXdDTxpKKd"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 257640,
+      "name": "C\u00f3mo Te Olvido",
+      "url": "https://open.spotify.com/track/6apNNvYFcXv7pzVcTFKqpI"
     },
     {
       "added_at": null,
@@ -839,22 +839,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mi Herencia, Mi Sangre",
-        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
-      },
-      "artists": [
-        {
-          "name": "Majo Aguilar",
-          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
-        }
-      ],
-      "duration_ms": 186880,
-      "name": "As\u00ed Es La Vida",
-      "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mariachi M\u00edo",
         "url": "https://open.spotify.com/album/1YIRDOZOst2mx333CDXD2h"
       },
@@ -867,6 +851,22 @@
       "duration_ms": 170000,
       "name": "Que Te Vaya Bien",
       "url": "https://open.spotify.com/track/5dnAqQrFUTYQgURxxHEuRt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mi Herencia, Mi Sangre",
+        "url": "https://open.spotify.com/album/7Fx68oIAPZovKJIIzaL1OH"
+      },
+      "artists": [
+        {
+          "name": "Majo Aguilar",
+          "url": "https://open.spotify.com/artist/77WEAaYIiO4SbK5IU9pWZP"
+        }
+      ],
+      "duration_ms": 186880,
+      "name": "As\u00ed Es La Vida",
+      "url": "https://open.spotify.com/track/5rreZRW9fX4aurmLt1e1m1"
     },
     {
       "added_at": null,

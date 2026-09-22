@@ -1,12 +1,12 @@
 {
   "description": "sweet. sharp. unbothered - VANITY on the cover",
-  "num_followers": 522787,
+  "num_followers": 522786,
   "original_name": "SALT",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAPojHbDH3ND7u7iv9CT93vZcOPR9",
+  "snapshot_id": "AAAAAJm7CDBfh1LW0NBBll+OvDAQl1QS",
   "tracks": [
     {
       "added_at": "2026-09-18 04:09:00",
@@ -41,6 +41,22 @@
       "url": "https://open.spotify.com/track/6xnfzLtvdnmV2t38O3C307"
     },
     {
+      "added_at": "2026-09-18 04:09:00",
+      "album": {
+        "name": "Bender",
+        "url": "https://open.spotify.com/album/0s4rVGY7s4aqu4kNLKCAEJ"
+      },
+      "artists": [
+        {
+          "name": "UPSAHL",
+          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
+        }
+      ],
+      "duration_ms": 130654,
+      "name": "Bender",
+      "url": "https://open.spotify.com/track/3lc0I6QEKB8BAp8342J8N6"
+    },
+    {
       "added_at": "2026-09-18 04:12:13",
       "album": {
         "name": "MOSH\u2605PIT",
@@ -55,6 +71,54 @@
       "duration_ms": 204663,
       "name": "Nothing To Do (nananananana)",
       "url": "https://open.spotify.com/track/1T0vvYFZuDJMlS1twljKq5"
+    },
+    {
+      "added_at": "2026-09-18 04:09:00",
+      "album": {
+        "name": "Don't Make Them Like Me",
+        "url": "https://open.spotify.com/album/5sNXI90Gvb0VPcW7HSGKQf"
+      },
+      "artists": [
+        {
+          "name": "Isabel LaRosa",
+          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
+        }
+      ],
+      "duration_ms": 223559,
+      "name": "Don't Make Them Like Me",
+      "url": "https://open.spotify.com/track/4xAIC3X3mntqjiiVbHZhUg"
+    },
+    {
+      "added_at": "2026-09-21 15:01:24",
+      "album": {
+        "name": "DANGEROUS",
+        "url": "https://open.spotify.com/album/04EZYdfe0BcthNa5agSelM"
+      },
+      "artists": [
+        {
+          "name": "Ella Collier",
+          "url": "https://open.spotify.com/artist/7wMFyA2xgxiMiM2ev2DVfJ"
+        }
+      ],
+      "duration_ms": 192976,
+      "name": "CHEERLEADER",
+      "url": "https://open.spotify.com/track/5Jtt9ek05ptNlGI0n2Qhty"
+    },
+    {
+      "added_at": "2026-09-21 19:52:24",
+      "album": {
+        "name": "Changing Times",
+        "url": "https://open.spotify.com/album/5ktczUr70zlsrwPYOaoa1Z"
+      },
+      "artists": [
+        {
+          "name": "Lenii",
+          "url": "https://open.spotify.com/artist/63X5yxHWDkAl13ZIOWHV94"
+        }
+      ],
+      "duration_ms": 219555,
+      "name": "Changing Times",
+      "url": "https://open.spotify.com/track/6Oxpm6WGkdWHrojl3NmJqj"
     },
     {
       "added_at": "2026-09-18 04:09:00",
@@ -75,38 +139,6 @@
       "duration_ms": 190154,
       "name": "delusional darling (ft. Ella Red)",
       "url": "https://open.spotify.com/track/4PhwBlT0m3gPbp2SQZ9rPI"
-    },
-    {
-      "added_at": "2026-09-18 04:09:00",
-      "album": {
-        "name": "Don't Make Them Like Me",
-        "url": "https://open.spotify.com/album/5sNXI90Gvb0VPcW7HSGKQf"
-      },
-      "artists": [
-        {
-          "name": "Isabel LaRosa",
-          "url": "https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4"
-        }
-      ],
-      "duration_ms": 223559,
-      "name": "Don't Make Them Like Me",
-      "url": "https://open.spotify.com/track/4xAIC3X3mntqjiiVbHZhUg"
-    },
-    {
-      "added_at": "2026-09-18 04:09:00",
-      "album": {
-        "name": "Bender",
-        "url": "https://open.spotify.com/album/0s4rVGY7s4aqu4kNLKCAEJ"
-      },
-      "artists": [
-        {
-          "name": "UPSAHL",
-          "url": "https://open.spotify.com/artist/1294QqYm1VuxxjRiL9M0h9"
-        }
-      ],
-      "duration_ms": 130654,
-      "name": "Bender",
-      "url": "https://open.spotify.com/track/3lc0I6QEKB8BAp8342J8N6"
     },
     {
       "added_at": "2026-09-11 04:01:36",
@@ -791,42 +823,6 @@
       "duration_ms": 138372,
       "name": "KILLSWITCH",
       "url": "https://open.spotify.com/track/2ONOuIhH0c9h8ioIxr2msm"
-    },
-    {
-      "added_at": "2026-05-01 04:43:50",
-      "album": {
-        "name": "American Apparel",
-        "url": "https://open.spotify.com/album/1PkDBmpEGEshxH1oteOZLy"
-      },
-      "artists": [
-        {
-          "name": "panicbaby",
-          "url": "https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA"
-        },
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 136397,
-      "name": "American Apparel",
-      "url": "https://open.spotify.com/track/1k9D2S8JBdGxrOe3UYNLCI"
-    },
-    {
-      "added_at": "2026-05-01 04:43:50",
-      "album": {
-        "name": "PRICE TAG",
-        "url": "https://open.spotify.com/album/4zLvUo0kxF4ULzX0XL3bui"
-      },
-      "artists": [
-        {
-          "name": "Sara James",
-          "url": "https://open.spotify.com/artist/6flsK6BZEkCqoz4t3M4oeV"
-        }
-      ],
-      "duration_ms": 190660,
-      "name": "PRICE TAG",
-      "url": "https://open.spotify.com/track/6ea45jrg9LYFUapPi4B0sC"
     }
   ],
   "unique_name": "SALT",

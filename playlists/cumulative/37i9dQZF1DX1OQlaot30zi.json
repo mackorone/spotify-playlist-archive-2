@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-12",
-  "description": "Sempre aggiornata \ud83d\ude08 Con nuovi brani di Khodi e Flaco, 22simba, Palazzi d'Oriente con Massimo Pericolo, Young Hash e tanti altri",
+  "description": "Sempre aggiornata \ud83d\ude08 Con nuovi brani di Sfera Ebbasta, Sayf, Khodi e Flaco, 22simba e tanti altri.",
   "name": "Novit\u00e0 Rap Italiano",
   "tracks": [
     {
@@ -81659,6 +81659,24 @@
     },
     {
       "album": {
+        "name": "Lontano",
+        "url": "https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229322,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV"
+    },
+    {
+      "album": {
         "name": "Lontano (feat. bnkr44)",
         "url": "https://open.spotify.com/album/2guF4dj1vcCmcLLZ1L3MuM"
       },
@@ -150196,6 +150214,32 @@
       "duration_ms": 143560,
       "name": "TOP NOTCH",
       "url": "https://open.spotify.com/track/5AbwCVu8Mf94hnfN0j2LOl"
+    },
+    {
+      "album": {
+        "name": "TOP OF THE POPS (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/68kUOOPBwN7IP9KeoVCMdA"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Dibla",
+          "url": "https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "TOP OF THE POPS (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/5OAQg4LJJ2kFWsNdkOeKO2"
     },
     {
       "album": {

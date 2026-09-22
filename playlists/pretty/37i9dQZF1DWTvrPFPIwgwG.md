@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 
 > Ouça as novidades e grandes louvores Pentecostais\. Foto: Sara Evelyn
 
-[Spotify](https://open.spotify.com/user/spotify) - 209,462 likes - 80 songs - 7 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 209,519 likes - 80 songs - 7 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,8 +65,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTvrPFPIwgwG.md) - [plain]
 | 55 | [Não Abrimos Mão do Teu Fogo \- Ao Vivo](https://open.spotify.com/track/0ZmJFfwGA6x21o09Vvuv8X) | [Nathália Braga](https://open.spotify.com/artist/4QkSOV4m3EYCOhZXK9y5vV), [Gabi Sampaio](https://open.spotify.com/artist/1mwuQroxtrC6ANU2Jwb8ZQ), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Não Abrimos Mão do Teu Fogo \(Ao Vivo\)](https://open.spotify.com/album/1pyGzBL2YK1rrJlo5cCmQD) | 10:47 |
 | 56 | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/track/4vfKTqehhEovOgZAR6CdkC) | [Ruthe Dayanne](https://open.spotify.com/artist/75b4ed2olY9BBhGZoHDjdo), [Léa Mendonça](https://open.spotify.com/artist/73Ye0Yvwvanmf6bqXAez97) | [Chora que a Vitória Vem \(Ao Vivo\)](https://open.spotify.com/album/4Gzy29Xj4HenuHeZ9keKKg) | 4:53 |
 | 57 | [Existe Um Deus](https://open.spotify.com/track/3PzPF5JZsGSYfhegiexh2i) | [Larissa Santos](https://open.spotify.com/artist/4RIEv1J3Fy104hJIQ5FQsk) | [Existe Um Deus](https://open.spotify.com/album/6bnQQHr5AXnX0JjIuEmYtS) | 4:42 |
-| 58 | [Pra Glória do Senhor \- Ao Vivo](https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr) | [Fernanda Souza](https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pra Glória do Senhor \(Ao Vivo\)](https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ) | 7:41 |
-| 59 | [Eu Sei Quem Sou](https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Sei Quem Sou](https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB) | 4:41 |
+| 58 | [Eu Sei Quem Sou](https://open.spotify.com/track/00hEnjHDpdDexILNsIcof4) | [Gislaine e Mylena](https://open.spotify.com/artist/0JoSPTks4LpgpfOGvQbbGk), [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Eu Sei Quem Sou](https://open.spotify.com/album/6i2QA12QyNxuT8uTClPlEB) | 4:41 |
+| 59 | [Pra Glória do Senhor \- Ao Vivo](https://open.spotify.com/track/5RaE44KT6BlZAcQv5qyXmr) | [Fernanda Souza](https://open.spotify.com/artist/4VhsHNsfm5uVl9gAOgdmtq), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Pra Glória do Senhor \(Ao Vivo\)](https://open.spotify.com/album/1qXobFa9nGR7Sou8XyMuwQ) | 7:41 |
 | 60 | [Exército de Deus](https://open.spotify.com/track/13ra4AnUP0MWBHekx1TtzJ) | [Elaine Martins](https://open.spotify.com/artist/4rVAT3ktBeOdexcKic0mC8) | [Exército de Deus](https://open.spotify.com/album/4n8JAe5vcKQLx3MFTijmHB) | 4:14 |
 | 61 | [Profetiza](https://open.spotify.com/track/27XhnRnhyicK7dn2Ui8AeH) | [Jozyanne](https://open.spotify.com/artist/4oJ2DIfW0G5XQ9embSbIyh), [Eyshila](https://open.spotify.com/artist/3mbX6eftyC0S5l17m31ZSW) | [Profetiza](https://open.spotify.com/album/6IgJb5EU0zSGlqlsLfFbzm) | 4:54 |
 | 62 | [Vai Passar \(Ao Vivo\)](https://open.spotify.com/track/6PaBG1inu5x0KbvaCuNeUo) | [Eula Cris](https://open.spotify.com/artist/0XQgPT3Tn4phmgHSL7iwGt), [Wilian Nascimento](https://open.spotify.com/artist/4PjjeofQKolTepWdilslSR) | [Vai Passar \(Ao Vivo\)](https://open.spotify.com/album/3kPti1iil4vdjVita5XbQj) | 5:15 |

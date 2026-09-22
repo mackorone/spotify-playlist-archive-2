@@ -1,12 +1,12 @@
 {
   "description": "This is Olivia Dean. The essential tracks, all in one playlist.",
-  "num_followers": 686059,
+  "num_followers": 686542,
   "original_name": "This Is Olivia Dean",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAACHJ4B+ygUxcVW7ZJOsCH7a",
+  "snapshot_id": "aq8iAAAAAAAlOJClGTav2WkAwTIR5WoM",
   "tracks": [
     {
       "added_at": null,
@@ -335,8 +335,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Growth",
-        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
+        "name": "Olivia Dean - Spotify Live Room",
+        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
       },
       "artists": [
         {
@@ -344,9 +344,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 170434,
-      "name": "Cross My Mind",
-      "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
+      "duration_ms": 184000,
+      "name": "Man I Need (Live) \u2013 Spotify Live Room",
+      "url": "https://open.spotify.com/track/3yYuSzBhxR4kd4CNtfyHN7"
     },
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Olivia Dean - Spotify Live Room",
-        "url": "https://open.spotify.com/album/2BH28DBpJbk7fVT7a4IdYX"
+        "name": "Growth",
+        "url": "https://open.spotify.com/album/4pCquj67SkPo5SNpJ5Rsjs"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/00x1fYSGhdqScXBRpSj3DW"
         }
       ],
-      "duration_ms": 184000,
-      "name": "Man I Need (Live) \u2013 Spotify Live Room",
-      "url": "https://open.spotify.com/track/3yYuSzBhxR4kd4CNtfyHN7"
+      "duration_ms": 170434,
+      "name": "Cross My Mind",
+      "url": "https://open.spotify.com/track/6TKMXuPoDlPZYEkpS5CMB7"
     },
     {
       "added_at": null,

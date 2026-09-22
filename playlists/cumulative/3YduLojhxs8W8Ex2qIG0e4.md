@@ -4,7 +4,7 @@
 
 > the best &amp; new indie rock\. all the belowed tracks &amp; artists
 
-79 songs - 4 hr 54 min
+81 songs - 5 hr 2 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -15,6 +15,7 @@
 | [Birdie](https://open.spotify.com/track/3MDmxXw6Su1AiBJTw923mC) | [Revisor451](https://open.spotify.com/artist/1jLZBkZfxvWd9wDucP1v25) | [Cinematics, Vol\. 2](https://open.spotify.com/album/0sh6xFsNqbya0rWzqtSmM2) | 0:50 | 2024-08-04 |  |
 | [Bitterness to Rest](https://open.spotify.com/track/2QBBaG4lpgzvHPiyp1h33L) | [The Hollow Frays](https://open.spotify.com/artist/4p9MmGhxHuh8SEcsOTiU9L) | [Bitterness to Rest](https://open.spotify.com/album/2l6zWlpbHw2YIMdSfNv7xp) | 3:05 | 2024-10-29 |  |
 | [Breathing Underwater Part 1](https://open.spotify.com/track/4wQqFFkqeOcCsEtv2v72a3) | [Andreas Gavlén](https://open.spotify.com/artist/3oyWiGnLb2la5YPtEZEeXL), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [Breathing Underwater](https://open.spotify.com/album/6oRzmaYK0TGgrvOJNWNQVh) | 4:34 | 2025-07-27 |  |
+| [By My Side](https://open.spotify.com/track/4r5fn2oVjZ56MnXszYHe8R) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [By My Side](https://open.spotify.com/album/1SnyFAQDJpiM6CLCoZRz9W) | 4:17 | 2026-09-21 |  |
 | [Completely Justified](https://open.spotify.com/track/1UuBAnA5UL9nbascLsY3Hy) | [Gun\-Shy Butterfly](https://open.spotify.com/artist/2D698ZbMEcU8FEOc7i1aWO) | [Completely Justified](https://open.spotify.com/album/0FunPrSM4W7q9kD3WqD3cH) | 3:17 | 2025-10-14 |  |
 | [Daily Playlists Said “Free Submissions”… So I Paid Anyway](https://open.spotify.com/track/7AaGdbre3gedjEYxk3WuGP) | [S/ash66](https://open.spotify.com/artist/1xsscyfz0W3JGZSUmIqp68), [The Blacktop Bandits](https://open.spotify.com/artist/4by5whOHavPyqKYPSbF0zK) | [Streams, Schemes & Algorithm Dreams](https://open.spotify.com/album/1w59e4nP3VtTBOVuELKtCw) | 2:25 | 2026-07-20 |  |
 | [Destello](https://open.spotify.com/track/3ZkkNDpRYUYVf7o1hWM9m5) | [Psicodesia](https://open.spotify.com/artist/01gRUVy7a2Xm7zv57gNROY) | [Destello](https://open.spotify.com/album/6z1qOHM9bI1HuYtDKRxTBz) | 2:37 | 2023-05-23 |  |
@@ -85,6 +86,7 @@
 | [Whole Lotta Lying](https://open.spotify.com/track/22MDQBuRfCxTxBKg6uLm5D) | [QRU](https://open.spotify.com/artist/1qc2ykp44EJxbFncDlTfQc) | [Whole Lotta Lying](https://open.spotify.com/album/3V4aCFXjH0JKJ76V0lUMqi) | 4:27 | 2026-03-14 |  |
 | [Wide Awake](https://open.spotify.com/track/4b34QqJbXageXnFaBkEmWm) | [Chronic Dream](https://open.spotify.com/artist/5DrfeL7Xz1eERHtX009WIk), [April Afternoon](https://open.spotify.com/artist/6gZQ5pWQx9xVEAMVw2SgXk) | [Wide Awake](https://open.spotify.com/album/5lv7wvo9Rs99PjAkpQdIYq) | 3:33 | 2025-10-21 |  |
 | [Your Girl's Upstairs](https://open.spotify.com/track/2e0mRX40r0777VSfnyzhWa) | [Casey Dienel](https://open.spotify.com/artist/6PfI4m0GOiwOZWbtu38cqP) | [Your Girl's Upstairs](https://open.spotify.com/album/0o23wkZisJMyeXItv6XICI) | 2:30 | 2025-08-26 |  |
+| [You´re Still Raising Me](https://open.spotify.com/track/43FdTfz44Q8QkTR7XhpoFn) | [Donna Martin Graduates](https://open.spotify.com/artist/647162B5EXRPXNNVffPt1C), [Burnt Log](https://open.spotify.com/artist/7q1PrhTwEgtU72kJ3g7qdC) | [You´re Still Raising Me](https://open.spotify.com/album/2tPWzSuJJiYbgSLK4Duzu8) | 4:09 | 2026-09-21 |  |
 | [Zu viel Kohle \(Schnapp\)](https://open.spotify.com/track/6Hotb91zmKRUhjXWIh2GgR) | [ANTTI 5](https://open.spotify.com/artist/2ST2iSLE7lbXxWz97QXcUU) | [Zu viel Kohle \(Schnapp\)](https://open.spotify.com/album/0qWkQ33sR4OgUF2qz6w4wf) | 2:26 | 2025-04-29 |  |
 | [Дома один](https://open.spotify.com/track/248OC3dvwgZPVTL259e0nV) | [Junk](https://open.spotify.com/artist/0sGDAJjNHwAN33COIELhnM) | [Дома один](https://open.spotify.com/album/6zVoBrYKeKrEXFRGx1Zlkc) | 2:06 | 2026-04-25 |  |
 

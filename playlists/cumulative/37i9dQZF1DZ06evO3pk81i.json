@@ -186,7 +186,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 198639,
-      "name": "Baby (Version Norte\u00f1a)",
+      "name": "Baby - Version Norte\u00f1a",
       "url": "https://open.spotify.com/track/7L5f1cWtVCeVn128pwTt5b"
     },
     {
@@ -604,7 +604,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 141811,
-      "name": "Esta Noche (Version Norte\u00f1a)",
+      "name": "Esta Noche - Version Norte\u00f1a",
       "url": "https://open.spotify.com/track/6pVS9jlTZ7tpMZPVeEs6uK"
     },
     {
@@ -844,7 +844,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 250240,
-      "name": "Labios Rojos (Version Norte\u00f1a)",
+      "name": "Labios Rojos - Version Norte\u00f1a",
       "url": "https://open.spotify.com/track/3zeOGStcMvRNYhN0QY9S95"
     },
     {
@@ -1505,28 +1505,6 @@
     },
     {
       "album": {
-        "name": "Luna De Miel",
-        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
-      },
-      "artists": [
-        {
-          "name": "Los Primos del Este",
-          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
-        },
-        {
-          "name": "Nivel",
-          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
-        }
-      ],
-      "date_added": "2026-01-26",
-      "date_added_asterisk": false,
-      "date_removed": null,
-      "duration_ms": 174210,
-      "name": "Que Vas a Hacer (Version Norte\u00f1a)",
-      "url": "https://open.spotify.com/track/4TQQ4KWBUDhhP6QhbzgJdy"
-    },
-    {
-      "album": {
         "name": "Que Vas a Hacer (Version Norte\u00f1a)",
         "url": "https://open.spotify.com/album/25aRwgpKOnQHqOj6HJvQiz"
       },
@@ -1558,6 +1536,28 @@
           "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
         },
         {
+          "name": "Nivel",
+          "url": "https://open.spotify.com/artist/5aHKxMwIrPVwy4m6FTOiXK"
+        }
+      ],
+      "date_added": "2026-01-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174210,
+      "name": "Que Vas a Hacer - Version Norte\u00f1a",
+      "url": "https://open.spotify.com/track/4TQQ4KWBUDhhP6QhbzgJdy"
+    },
+    {
+      "album": {
+        "name": "Luna De Miel",
+        "url": "https://open.spotify.com/album/0rNBpiw8fHCsqGb9fJXAUq"
+      },
+      "artists": [
+        {
+          "name": "Los Primos del Este",
+          "url": "https://open.spotify.com/artist/5MEewKjCN4Dw20OFV2IGMo"
+        },
+        {
           "name": "Julio LV",
           "url": "https://open.spotify.com/artist/4rh7r9ZUjRAZXg93Nr8S0S"
         }
@@ -1566,7 +1566,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 209554,
-      "name": "Quiero Darte (Version Norte\u00f1a)",
+      "name": "Quiero Darte - Version Norte\u00f1a",
       "url": "https://open.spotify.com/track/29sFRw9NgkqN8JAdtPa2fq"
     },
     {
@@ -1638,7 +1638,7 @@
       "date_added_asterisk": false,
       "date_removed": null,
       "duration_ms": 212013,
-      "name": "Quiero Ser (Version Norte\u00f1a)",
+      "name": "Quiero Ser - Version Norte\u00f1a",
       "url": "https://open.spotify.com/track/7Cte3d7S9NXqmT7jgAhntF"
     },
     {

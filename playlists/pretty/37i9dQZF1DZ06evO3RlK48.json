@@ -1,12 +1,12 @@
 {
   "description": "This is MUNA. The essential tracks, all in one playlist.",
-  "num_followers": 18391,
+  "num_followers": 18405,
   "original_name": "This Is MUNA",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAADJY90IsS0vwvVaIGxPY0uV",
+  "snapshot_id": "aq8iAAAAAAC+2wwYTLsbDagkumfHlA98",
   "tracks": [
     {
       "added_at": null,
@@ -563,6 +563,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "For Your Consideration",
+        "url": "https://open.spotify.com/album/4wTRDq3gIEGAj3LKpbQuUX"
+      },
+      "artists": [
+        {
+          "name": "Empress Of",
+          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
+        },
+        {
+          "name": "MUNA",
+          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
+        }
+      ],
+      "duration_ms": 189720,
+      "name": "What's Love",
+      "url": "https://open.spotify.com/track/4VSiqzvtOtatsHXPKN6IHw"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Let Me See Ya (feat. MUNA)",
         "url": "https://open.spotify.com/album/4RCMft0azAOIIGWv3rpd6B"
       },
@@ -583,26 +603,6 @@
       "duration_ms": 205592,
       "name": "Let Me See Ya (feat. MUNA)",
       "url": "https://open.spotify.com/track/6K0iZIS5wPirY5IHpxHvq5"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "For Your Consideration",
-        "url": "https://open.spotify.com/album/4wTRDq3gIEGAj3LKpbQuUX"
-      },
-      "artists": [
-        {
-          "name": "Empress Of",
-          "url": "https://open.spotify.com/artist/5QuBVnBPEzwYvFrgBbwpmU"
-        },
-        {
-          "name": "MUNA",
-          "url": "https://open.spotify.com/artist/6xdRb2GypJ7DqnWAI2mHGn"
-        }
-      ],
-      "duration_ms": 189720,
-      "name": "What's Love",
-      "url": "https://open.spotify.com/track/4VSiqzvtOtatsHXPKN6IHw"
     },
     {
       "added_at": null,

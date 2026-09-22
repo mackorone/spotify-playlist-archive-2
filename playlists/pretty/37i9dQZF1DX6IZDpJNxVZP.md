@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 
 > Celebrate the season with these fun and spooky tracks
 
-[Spotify](https://open.spotify.com/user/spotify) - 69,079 likes - 75 songs - 3 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 69,076 likes - 75 songs - 3 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -46,8 +46,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6IZDpJNxVZP.md) - [plain]
 | 36 | [Monster Moves](https://open.spotify.com/track/2LncSzAiksL7Wtm7eNhikm) | [Koo Koo](https://open.spotify.com/artist/7BZ3v2GTT5KHVmc9Gk1sRb) | [Celebrate This!](https://open.spotify.com/album/5hukeI5hHKtT4qgMkL0Im6) | 2:55 |
 | 37 | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/track/2nfkkepFVzBviOk0wZSklX) | [The Loud House](https://open.spotify.com/artist/49GEHeazyZ8JNJHAxpwAwB) | [Spooky Night \(from A Really Haunted Loud House\)](https://open.spotify.com/album/4KOq2cmP4PahZHDrY9d6xW) | 2:53 |
 | 38 | [This Is Halloween](https://open.spotify.com/track/2kKLdZHp3Tfj140BgnbiuJ) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/7mb79mhvW3ZTdeIQWos7xs) | 3:27 |
-| 39 | [Sesame Street Baby Band: Peek\-a\-Boo Pumpkins](https://open.spotify.com/track/2223h9RsHmtTFQPz3cK4c2) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r), [Ernie](https://open.spotify.com/artist/6rBZhEQ1RwYz6xOCE7CuUY) | [Trick\-or\-Treat on Sesame Street!](https://open.spotify.com/album/1Jwgbv1N5Bg7QaL4qKsnqK) | 1:29 |
-| 40 | [The Skeleton Band](https://open.spotify.com/track/68KxYt2b1mUhSjmm5XeFFU) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs](https://open.spotify.com/album/50abt8Xr5dP4kKPIaIM4pm) | 1:20 |
+| 39 | [The Skeleton Band](https://open.spotify.com/track/68KxYt2b1mUhSjmm5XeFFU) | [Pinkfong](https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ) | [Halloween Songs](https://open.spotify.com/album/50abt8Xr5dP4kKPIaIM4pm) | 1:20 |
+| 40 | [Sesame Street Baby Band: Peek\-a\-Boo Pumpkins](https://open.spotify.com/track/2223h9RsHmtTFQPz3cK4c2) | [Elmo](https://open.spotify.com/artist/64TYMfqkpGQsUEuF5xqS2R), [Cookie Monster](https://open.spotify.com/artist/0KUfoAHP20vQHuDhiEAa8r), [Ernie](https://open.spotify.com/artist/6rBZhEQ1RwYz6xOCE7CuUY) | [Trick\-or\-Treat on Sesame Street!](https://open.spotify.com/album/1Jwgbv1N5Bg7QaL4qKsnqK) | 1:29 |
 | 41 | [The Halloween Countdown](https://open.spotify.com/track/2FpnRvN8aW3p9N998s69El) | [Blippi](https://open.spotify.com/artist/30niqFGUKKUg1horQSgwBn), [Meekah](https://open.spotify.com/artist/7vXebg7HlyNsHfRPJnelJ3) | [Halloween Party](https://open.spotify.com/album/31J9agSWwEGoopsSfFL4Xp) | 2:10 |
 | 42 | [Supernatural](https://open.spotify.com/track/5WaCJ1h3VGVdMbcqSherY5) | [MusicClubKids!](https://open.spotify.com/artist/0swDLHqK8p8VqaUz8aR83w), [Sam Moran](https://open.spotify.com/artist/5hOJDPDGtR4hTrIyhO1OJq) | [Songs From The Hit Show \- Season One: Extra Seasoning](https://open.spotify.com/album/0Cjk4BEjRpMp2ZWNmAfPNq) | 3:06 |
 | 43 | [Spooky, Scary Skeletons](https://open.spotify.com/track/3sMMOiantU5YEOr2MoHIR3) | [Kidz Bop Kids](https://open.spotify.com/artist/1Vvvx45Apu6dQqwuZQxtgW) | [KIDZ BOP Halloween](https://open.spotify.com/album/2zZm0wOR7zx4BaN6bGViB1) | 2:40 |

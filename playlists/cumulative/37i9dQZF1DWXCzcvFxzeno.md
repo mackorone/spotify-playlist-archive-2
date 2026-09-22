@@ -4,7 +4,7 @@
 
 > 😈 welcome to the rave 😈  Cover: Nico Moreno, Novah
 
-405 songs - 1 day 3 hr 4 min
+406 songs - 1 day 3 hr 6 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -269,6 +269,7 @@
 | [NEVER STOP](https://open.spotify.com/track/3NV8bjW1TNXpjFbixuo1xm) | [LNY TNZ](https://open.spotify.com/artist/1x0ScxgiyFRQDKT4VwcLHa), [JSTJR](https://open.spotify.com/artist/5SNvvu3C0tFHMXcih3NdiP), [NLCK](https://open.spotify.com/artist/5vG7sNDSCANSuZ71jkHxCL) | [NEVER STOP](https://open.spotify.com/album/62bT2QRBas9WTZ6wIJo3PM) | 3:45 | 2026-01-29 | 2026-07-21 |
 | [Next Level](https://open.spotify.com/track/0OZcUuoM0InrwuH3UJoFoz) | [Holy Priest](https://open.spotify.com/artist/5UG2ipdnA4vk8Eevkf1s06) | [Next Level](https://open.spotify.com/album/4pSZsF6n4r1O1i3NTtPHBN) | 2:00 | 2024-08-31 | 2025-05-26 |
 | [Nightcore](https://open.spotify.com/track/7psSBBgBIjtjpakFl2AmFz) | [Lady Maru](https://open.spotify.com/artist/0oV0sSI6vWMWCBdJDu7P6Z) | [Nightcore](https://open.spotify.com/album/7AuwFqEx3f3hlujRij1y4W) | 3:42 | 2025-09-05 |  |
+| [No Ex, No Next \(The Best\)](https://open.spotify.com/track/0tsnEU7zBozTJsbH6GALvR) | [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY), [Thomas Deil](https://open.spotify.com/artist/5uYKQrTEx51AOXot2Z2Czl), [Felipe Zona](https://open.spotify.com/artist/4QchMOaJH8a3hgtnHk6BMS) | [No Ex, No Next \(The Best\)](https://open.spotify.com/album/2zzr1eZ7w5WrFahj7DG28a) | 2:16 | 2026-09-04 |  |
 | [Now Or Never](https://open.spotify.com/track/42dBUwO0gBAgMtsjdAPMl8) | [Juliet Fox](https://open.spotify.com/artist/7zH0EpzFgwmwpnEprtvDig), [Teneya](https://open.spotify.com/artist/0XKhH7joDKB3tQ5GQVo7iV) | [Now Or Never](https://open.spotify.com/album/00B55o9ApEwIw7KUxgoltM) | 3:45 | 2025-06-20 | 2026-02-14 |
 | [Obey](https://open.spotify.com/track/0cwMgUiZ3AMIbSBdWKUGmR) | [Marie Vaunt](https://open.spotify.com/artist/50KydUSYhBFGorhAgUcrL5) | [Obey](https://open.spotify.com/album/6mjQBhpD1wm0s3G9oqg0TZ) | 3:39 | 2024-06-28 | 2024-10-05 |
 | [Ode To The Bouncer \- Hard Techno Edit](https://open.spotify.com/track/0x3c6okTJMGsYmTYtz8NDA) | [Remon Verhoeve](https://open.spotify.com/artist/56EmpRe6MZOCu8NYE0BG9T), [Studio Killers](https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT) | [Ode To The Bouncer](https://open.spotify.com/album/3rU4QBfwX89HyLrfNk1wWF) | 3:17 | 2024-08-05 | 2025-05-22 |
@@ -312,7 +313,7 @@
 | [Real Lies](https://open.spotify.com/track/2gPgg1kOJ3LJZQwwKVCRhh) | [APHØTIC](https://open.spotify.com/artist/0bMxsn0N2APrVga72XmQJ4) | [Real Lies](https://open.spotify.com/album/1l2mHtjSxVp0BgTlMWugZW) | 5:27 | 2024-04-09 | 2025-02-08 |
 | [Reality Check](https://open.spotify.com/track/4RB7S3C5A6ziH6Jni0Jlxv) | [Sara Landry](https://open.spotify.com/artist/7eILArMiTFTQf8SEh5fFHK), [Godtripper](https://open.spotify.com/artist/3wXRRhirLZoMLwuw9d8PIb) | [Hekataia EP](https://open.spotify.com/album/6OqYMy7da8pAJmnLvMmpiW) | 4:52 | 2026-04-10 | 2026-09-04 |
 | [REMEMBER THIS FACE](https://open.spotify.com/track/7bwjc2oYo6mkLblcqh0IcD) | [KLOFAMA](https://open.spotify.com/artist/4oqOypVzFhq3syFLHJZc68), [WINSON](https://open.spotify.com/artist/2z9op9COiMU6QquVfY8HTN) | [REMEMBER THIS FACE](https://open.spotify.com/album/3cYKPp26P57F81IdlAtSnI) | 3:51 | 2026-06-11 |  |
-| [Renegade Master](https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Renegade Master](https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN) | 2:07 | 2025-02-07 |  |
+| [Renegade Master](https://open.spotify.com/track/57oprc6Ilu0qJdidmTKCDg) | [SP3CTRUM](https://open.spotify.com/artist/4CxsTRt2CXoMU1r0PhQshN), [Robbe](https://open.spotify.com/artist/58imfUscPVwuhuHt1MpBDA), [Danny Ores](https://open.spotify.com/artist/1ngKYk9gnZpMAoaayD6BGY) | [Renegade Master](https://open.spotify.com/album/3UiuvnjVYYx3Noe0CR7lJN) | 2:07 | 2025-02-07 | 2026-09-22 |
 | [Reverse Bitch](https://open.spotify.com/track/0X5SKepXgvauLJRWxS004t) | [BRÅWN](https://open.spotify.com/artist/6ZCwFfoR1cUmb4KR7mPGLt) | [FIRE SERIES Vol\. 2](https://open.spotify.com/album/1CspkKn0omUXfsqzcGnHkN) | 5:46 | 2024-04-09 | 2024-08-04 |
 | [Rock & Roll And More Techno](https://open.spotify.com/track/3DKD1qmzLysOK3Yt1vQlgf) | [Noise Mafia](https://open.spotify.com/artist/4MiEz25tF9BmzSEU0XKqxS) | [HARD\-CORE VA](https://open.spotify.com/album/59N8rHXJBjNtWo3Mhfuu93) | 5:53 | 2024-04-19 | 2024-08-03 |
 | [Rolling](https://open.spotify.com/track/2EvLRh3pgB0ScEnNWD92Yc) | [Maddix](https://open.spotify.com/artist/0RMeG9M8QFzss9bAbq99KA), [Space 92](https://open.spotify.com/artist/6TVdVlY6irsNPkMHT2HkfD) | [Rolling](https://open.spotify.com/album/5hIEv7z1BwnIceZkS5mVpy) | 2:44 | 2025-07-22 |  |

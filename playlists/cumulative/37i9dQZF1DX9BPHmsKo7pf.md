@@ -4,7 +4,7 @@
 
 > Cele mai de succes 50 de hituri în România\. Cover: Grasu XXL
 
-366 songs - 17 hr 22 min
+367 songs - 17 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -244,6 +244,7 @@
 | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/track/2ZqTbIID9vFPTXaGyzbb4q) | [Megan Thee Stallion](https://open.spotify.com/artist/181bsRPaVXVlUKXrxwZfHK), [RM](https://open.spotify.com/artist/2auC28zjQyVTsiZKNgPRGs) | [Neva Play \(feat\. RM of BTS\)](https://open.spotify.com/album/0Wmt50XH9EZvSuML0t1hlb) | 2:37 | 2024-09-09 | 2024-09-24 |
 | [NEW YORK](https://open.spotify.com/track/1izIwskWBBffJJK9NqV6JD) | [YS3](https://open.spotify.com/artist/0sCj2QO2EhzESiq79EBcX1), [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [MAFIA GITANA 2000](https://open.spotify.com/album/674HtELuJ5hUg9sKL3BRJB) | 2:59 | 2026-02-09 | 2026-05-26 |
 | [NICIODATĂ](https://open.spotify.com/track/02nkL2m6ajnKlENmQWi5aD) | [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Petre Stefan](https://open.spotify.com/artist/0yjc2FN5zju7xyuJsTfGkh), [Julian Darko](https://open.spotify.com/artist/1zlYmGfhETIjnrei9VhOX1) | [NICIODATĂ](https://open.spotify.com/album/2TuVLCoRH833BQFzv4auI3) | 2:57 | 2026-04-13 | 2026-04-28 |
+| [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-09-21 |  |
 | [Noaptea](https://open.spotify.com/track/3oXWlk7N7M6pOq2BkMBUZc) | [EMAA](https://open.spotify.com/artist/4j4xD0oanPaJMB0BVqsRGE) | [Noaptea](https://open.spotify.com/album/0UmWqIkPaJp3vmURbUY45n) | 2:46 | 2026-04-27 | 2026-06-16 |
 | [Not Like Us](https://open.spotify.com/track/6AI3ezQ4o3HUoP6Dhudph3) | [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg) | [Not Like Us](https://open.spotify.com/album/5JjnoGJyOxfSZUZtk2rRwZ) | 4:34 | 2024-07-01 | 2024-09-24 |
 | [NUEVAYoL](https://open.spotify.com/track/5TFD2bmFKGhoCRbX61nXY5) | [Bad Bunny](https://open.spotify.com/artist/4q3ewBCX7sLwd24euuV69X) | [DeBÍ TiRAR MáS FOToS](https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb) | 3:03 | 2025-01-13 | 2026-08-04 |
@@ -349,7 +350,7 @@
 | [TÂRZIU](https://open.spotify.com/track/2OGs4Cs3yxfp0rqBpdgiYE) | [RAVA](https://open.spotify.com/artist/6ocuMBOl5OFS3AViv3DnG6), [Antonia](https://open.spotify.com/artist/4TLzMoEaUDkcAfIlY3Xhxn) | [TÂRZIU](https://open.spotify.com/album/7f19U7dqscOlCWAr6BiA4A) | 4:18 | 2026-06-29 | 2026-08-11 |
 | [UP](https://open.spotify.com/track/6JrqrPXatWyG1Ra1dFE8LE) | [Badd G](https://open.spotify.com/artist/6E6YfcufPi0NVJqJqV6zBl), [AlbertNbn](https://open.spotify.com/artist/33CSqdyro89aOFiZb5fU5U), [VANILLA](https://open.spotify.com/artist/1fofiypUoSWqYH2i4frmHn) | [UP](https://open.spotify.com/album/6HNKceDWutd60fr1e7HugQ) | 2:17 | 2026-07-21 |  |
 | [Vara nu e vara](https://open.spotify.com/track/01bhnosc5HEyhHyszYtmtE) | [Denis Ramniceanu](https://open.spotify.com/artist/66Q5nZGMgEDpcjm6Q1ZC64), [Babasha](https://open.spotify.com/artist/1Iq14y98EVmnXUah4ldJnl) | [Vara nu e vara](https://open.spotify.com/album/7vMbS8vbdAl0ko9clIHTMc) | 2:35 | 2026-06-29 |  |
-| [Vb Frumos](https://open.spotify.com/track/52WSv1pJToTwF8qCZbHBHG) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [888](https://open.spotify.com/album/0nOx92YDM4B6KLWeTVhbhc) | 2:00 | 2026-08-10 |  |
+| [Vb Frumos](https://open.spotify.com/track/52WSv1pJToTwF8qCZbHBHG) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9) | [888](https://open.spotify.com/album/0nOx92YDM4B6KLWeTVhbhc) | 2:00 | 2026-08-10 | 2026-09-22 |
 | [Vin Sa Te Fur](https://open.spotify.com/track/3dWT54uwKiBQ7JEqg3WGev) | [Luis Gabriel](https://open.spotify.com/artist/74ZiBcTi46Xf8THfkdAqrg), [Haziran](https://open.spotify.com/artist/2GSGcb6NjNoA5eKTSKcTNL) | [Vin Sa Te Fur](https://open.spotify.com/album/3H0qoKhzglhG2QnbSkG7c8) | 3:07 | 2025-01-07 | 2025-06-04 |
 | [VIZZZCOL](https://open.spotify.com/track/2ewcWrKxkz5QZgBSX89cly) | [Aerozen](https://open.spotify.com/artist/5RqcTk3xp9dW1BLsdQ0NE9), [NOUA UNSPE](https://open.spotify.com/artist/1fYKCWegShlSGe4yATnpdp), [Ian](https://open.spotify.com/artist/0GoJXmDr5UBG8ValCZe4om), [Sapte](https://open.spotify.com/artist/5nbi8ytYDMpqTmmeufTwcG) | [Z CLASS](https://open.spotify.com/album/1RIkS7qJEXc9po7PQ664nf) | 3:37 | 2025-08-19 | 2026-02-24 |
 | [Vocea ta](https://open.spotify.com/track/7CMacubcnXb2QehV6HF4ew) | [Lele](https://open.spotify.com/artist/1vVemTBdqWTcJ0zCc0Oa6G), [Manele VTM](https://open.spotify.com/artist/5gxPLBxkeuP0I3Ey17rSba) | [Vocea ta](https://open.spotify.com/album/1KOUIh9JuOqVVD4LXu5brd) | 2:31 | 2024-07-01 | 2025-03-07 |

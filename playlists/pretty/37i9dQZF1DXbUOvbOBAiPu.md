@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbUOvbOBAiPu.md) - [plain]
 
 > New music from Miley Cyrus, GIMS, TeddyBear, Djadja & Dinaz, HUGEL x Neton Vega, Maluma x Shakira and more...
 
-[Spotify](https://open.spotify.com/user/spotify) - 53,843 likes - 123 songs - 6 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 53,848 likes - 123 songs - 6 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

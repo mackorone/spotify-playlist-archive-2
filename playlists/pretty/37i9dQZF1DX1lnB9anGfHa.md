@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 
 > ⚸⚸⚸ a journey into the unknown, dark, and experimental ⚸⚸⚸ featuring Marina Herlop
 
-[Spotify](https://open.spotify.com/user/spotify) - 252,483 likes - 75 songs - 5 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 252,484 likes - 75 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,8 +34,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 24 | [Moans](https://open.spotify.com/track/6HNKZARS17j6rToqn9fpjd) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Ghosts](https://open.spotify.com/album/2nxnCjbaiAEJ4yBDMnQhJ8) | 4:33 |
 | 25 | [Plenty For All The Masses](https://open.spotify.com/track/6DHV44sKNB0hchQaGCq4Hv) | [Dagmar Zuniga](https://open.spotify.com/artist/59ZW99eqMF7Iv6QayaCD3Q) | [in filth your mystery is kingdom / far smile peasant in yellow music](https://open.spotify.com/album/5x7MhNPVEZeicFl5I8u1OO) | 2:01 |
 | 26 | [American Coffee](https://open.spotify.com/track/2ywyJsQa0vew5YEbAr7Jgr) | [Jenny Hval](https://open.spotify.com/artist/5eerVxtb9lY9p6D7m89Bs7) | [Classic Objects](https://open.spotify.com/album/71T5vyKWwbd4oUPfDpyNwb) | 6:02 |
-| 27 | [The Heaven of our Misery](https://open.spotify.com/track/2HbbBoEhX4ubTlLThzHMcg) | [Bill Orcutt](https://open.spotify.com/artist/49ECnwhYzm6Nu97puMvwjG), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Almost Waking](https://open.spotify.com/album/2Eepx7kt4gbeqYIOGjUOw2) | 4:07 |
-| 28 | [Watching People Die](https://open.spotify.com/track/4YM0Qxg6D7hf2Ov4gasTG4) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Vanities](https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd) | 4:56 |
+| 27 | [Watching People Die](https://open.spotify.com/track/4YM0Qxg6D7hf2Ov4gasTG4) | [Malibu](https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B) | [Vanities](https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd) | 4:56 |
+| 28 | [The Heaven of our Misery](https://open.spotify.com/track/2HbbBoEhX4ubTlLThzHMcg) | [Bill Orcutt](https://open.spotify.com/artist/49ECnwhYzm6Nu97puMvwjG), [Mabe Fratti](https://open.spotify.com/artist/7yHfb2D8qIBgrzclpSsTeo) | [Almost Waking](https://open.spotify.com/album/2Eepx7kt4gbeqYIOGjUOw2) | 4:07 |
 | 29 | [Hello](https://open.spotify.com/track/0MBibh6TQByFYv5Po4nbNk) | [Hania Rani](https://open.spotify.com/artist/14YzutUdMwS9yTnI0IFBaD) | [Hello](https://open.spotify.com/album/6m70npuQphUT3nzx0AOhff) | 5:08 |
 | 30 | [Piazza Centrale](https://open.spotify.com/track/5o7L3qD86zgexWUSbshUed) | [Gaia Banfi](https://open.spotify.com/artist/60hS0Wt0Px2B3rr9Zzur8E) | [La Maccaia](https://open.spotify.com/album/4atG7yAO3KzgNissARQQM4) | 3:38 |
 | 31 | [Raat Ki Rani](https://open.spotify.com/track/5bYvn1VEE4f4kjug81vwmE) | [Arooj Aftab](https://open.spotify.com/artist/00JAfwtx5gNiiqyor88Dr5) | [Raat Ki Rani](https://open.spotify.com/album/595nZRWp2upqW6m8ZWA6Tx) | 5:13 |
@@ -80,8 +80,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1lnB9anGfHa.md) - [plain]
 | 70 | [Good Grounds](https://open.spotify.com/track/6PWkv2o1eN0zwCjv84RgtL) | [Fallwander](https://open.spotify.com/artist/2WcqiTkQbwFH3hHZ0Xrfl9) | [Good Grounds](https://open.spotify.com/album/4NnMcBS50RFGzf2Fe49qvO) | 5:05 |
 | 71 | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/track/0c8mwvjTYUZUMwiLn4vhbX) | [Maladé](https://open.spotify.com/artist/4pLZb6eSKa9V8EB0vF0VTl), [Orelle](https://open.spotify.com/artist/759n9HvatPa0PARbAtn6Cs), [Martina Primavera](https://open.spotify.com/artist/1f7xLN7zodIwUg2W2McjNn) | [Ripagnola Alle 19 \(feat\. Orelle, Martina Primavera\)](https://open.spotify.com/album/4FrLdV5HORBNYmyFTHgQhF) | 2:56 |
 | 72 | [An Embroidery](https://open.spotify.com/track/3fGOSGKCGV4WTnDIOhD22M) | [Clarissa Connelly](https://open.spotify.com/artist/5YTJVNTfb9qDXATTlzuR5S) | [Life of the Forbidden](https://open.spotify.com/album/2BMxhHwUGmuagtQWxIYw3R) | 4:09 |
-| 73 | [Thou Art Mortal \- Julia Holter Rework](https://open.spotify.com/track/6wt6su6c5kE2igsgHPs4Sj) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [OPVS NOVUM: A Requiem Reworked](https://open.spotify.com/album/0BDOnuEIPCcya95B82Z3RY) | 4:26 |
-| 74 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 |
+| 73 | [Drum Jump](https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG) | [Valentina Magaletti](https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz) | [Lucha Libre](https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA) | 4:12 |
+| 74 | [Thou Art Mortal \- Julia Holter Rework](https://open.spotify.com/track/6wt6su6c5kE2igsgHPs4Sj) | [Penelope Trappes](https://open.spotify.com/artist/6shE4Y1z4lzRqoDp65XfzT), [Julia Holter](https://open.spotify.com/artist/0bsV0sUjnCuCTYOnNHQl3E) | [OPVS NOVUM: A Requiem Reworked](https://open.spotify.com/album/0BDOnuEIPCcya95B82Z3RY) | 4:26 |
 | 75 | [Tripa](https://open.spotify.com/track/2ZHOJDeaKVg5pjzUkeowg0) | [EROSÃO PERCUSSION TRIO](https://open.spotify.com/artist/6pJEWTWt1LtDGRsUI94HCp), [Mariá Portugal](https://open.spotify.com/artist/76rKC4Y5Yi4H4iPKxztPlP), [Emilio Gordoa](https://open.spotify.com/artist/0Hvy8AUVAHtj1okGk0mQ7j), [Burkhard Beins](https://open.spotify.com/artist/55mu6j4QLbeRvGSQiN7dEg) | [EROSÃO PERCUSSION TRIO](https://open.spotify.com/album/0Cz8hm5ZVAsmfXHNAi2mZ8) | 5:44 |
 
 Snapshot ID: `AAAAACc/pVOtDrIK3vEwX9rhWBp4FuPT`

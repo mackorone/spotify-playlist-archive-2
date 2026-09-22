@@ -1,12 +1,12 @@
 {
   "description": "This is Mercy Chinwo. The essential tracks, all in one playlist.",
-  "num_followers": 15273,
+  "num_followers": 15279,
   "original_name": "This Is Mercy Chinwo",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABQw3N8xeRDfd7gL/XFcIXo",
+  "snapshot_id": "aq8iAAAAAABZAmQSPVA0Zb2C9I5rlmdw",
   "tracks": [
     {
       "added_at": null,
@@ -167,22 +167,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Promise Keeper",
-        "url": "https://open.spotify.com/album/0AXYZMk19oDLs0iHZBCCHb"
+        "name": "Overwhelming Victory",
+        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        },
-        {
-          "name": "Nathaniel Bassey",
-          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         }
       ],
-      "duration_ms": 953130,
-      "name": "Promise Keeper",
-      "url": "https://open.spotify.com/track/7v7F2NAs359SCkFk5YBZEK"
+      "duration_ms": 255553,
+      "name": "From The Rising",
+      "url": "https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe"
     },
     {
       "added_at": null,
@@ -203,18 +199,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Overwhelming Victory",
-        "url": "https://open.spotify.com/album/1RPUyIlbmnswrtnUidC7jV"
+        "name": "Promise Keeper",
+        "url": "https://open.spotify.com/album/0AXYZMk19oDLs0iHZBCCHb"
       },
       "artists": [
         {
           "name": "Mercy Chinwo",
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        },
+        {
+          "name": "Nathaniel Bassey",
+          "url": "https://open.spotify.com/artist/1ukmGETCwXTbgrTrkRDnmn"
         }
       ],
-      "duration_ms": 255553,
-      "name": "From The Rising",
-      "url": "https://open.spotify.com/track/5ds4VdSTfXXXFifcCGWYZe"
+      "duration_ms": 953130,
+      "name": "Promise Keeper",
+      "url": "https://open.spotify.com/track/7v7F2NAs359SCkFk5YBZEK"
     },
     {
       "added_at": null,
@@ -627,22 +627,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Okaka (The Mighty One)",
-        "url": "https://open.spotify.com/album/1yibchZLurBss8jiZLAw6A"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 498267,
-      "name": "Okaka (The Mighty One)",
-      "url": "https://open.spotify.com/track/6erhjuOK4EgCweQkA7dVvR"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Oyoyo Chukwu",
         "url": "https://open.spotify.com/album/6BftpYwx4vzlLi4FN35Ts8"
       },
@@ -663,6 +647,22 @@
       "duration_ms": 317986,
       "name": "Oyoyo Chukwu",
       "url": "https://open.spotify.com/track/2M4NkEkDAevPkb3FD7iyOQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 222740,
+      "name": "I Depend on You",
+      "url": "https://open.spotify.com/track/1v5aEbJExlPEVuTxau4xPu"
     },
     {
       "added_at": null,
@@ -703,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "In His Will",
-        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+        "name": "Okaka (The Mighty One)",
+        "url": "https://open.spotify.com/album/1yibchZLurBss8jiZLAw6A"
       },
       "artists": [
         {
@@ -712,9 +712,9 @@
           "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
         }
       ],
-      "duration_ms": 222740,
-      "name": "I Depend on You",
-      "url": "https://open.spotify.com/track/1v5aEbJExlPEVuTxau4xPu"
+      "duration_ms": 498267,
+      "name": "Okaka (The Mighty One)",
+      "url": "https://open.spotify.com/track/6erhjuOK4EgCweQkA7dVvR"
     },
     {
       "added_at": null,
@@ -823,6 +823,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "In His Will",
+        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 251201,
+      "name": "Heaven and Earth Adore You",
+      "url": "https://open.spotify.com/track/7FhCncQfoYG99q2nJkt2en"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Eze (feat. Preye Odede)",
         "url": "https://open.spotify.com/album/3PH6kZDIT5gJYMGNWzqqq2"
       },
@@ -843,22 +859,6 @@
       "duration_ms": 356063,
       "name": "Eze (feat. Preye Odede)",
       "url": "https://open.spotify.com/track/2Y2mu2RkaSmGKymRSA35od"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "In His Will",
-        "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 251201,
-      "name": "Heaven and Earth Adore You",
-      "url": "https://open.spotify.com/track/7FhCncQfoYG99q2nJkt2en"
     },
     {
       "added_at": null,
@@ -895,22 +895,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Onyeoma (Good God)",
-        "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
-      },
-      "artists": [
-        {
-          "name": "Mercy Chinwo",
-          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
-        }
-      ],
-      "duration_ms": 265538,
-      "name": "Onyeoma (Good God)",
-      "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "In His Will",
         "url": "https://open.spotify.com/album/1pL4cc5JPJ9nk44TvNPhom"
       },
@@ -923,6 +907,22 @@
       "duration_ms": 249673,
       "name": "You No Let Them",
       "url": "https://open.spotify.com/track/1ra32VEEafJj5MzV6NuoEc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Onyeoma (Good God)",
+        "url": "https://open.spotify.com/album/7wwg5quAluBg8IHJN1lUWM"
+      },
+      "artists": [
+        {
+          "name": "Mercy Chinwo",
+          "url": "https://open.spotify.com/artist/68ra9ISZg5HZYwKaPtKvMp"
+        }
+      ],
+      "duration_ms": 265538,
+      "name": "Onyeoma (Good God)",
+      "url": "https://open.spotify.com/track/7wowCk9oxF24GO00AhCwx8"
     },
     {
       "added_at": null,

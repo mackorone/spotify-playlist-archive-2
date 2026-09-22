@@ -1,12 +1,12 @@
 {
   "description": "Dale play y que la m\u00fasica te acompa\u00f1e  \ud83d\udcf8 Benjamin Amadeo",
-  "num_followers": 349265,
+  "num_followers": 349258,
   "original_name": "Radio Pop",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAFpOk2bJ0Mo08zB3MsABzPOPXrnf",
+  "snapshot_id": "AAAAAAy8yAWcfwAvwGe//4sOt6WRfT+v",
   "tracks": [
     {
       "added_at": "2026-09-11 18:59:39",
@@ -879,6 +879,22 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
+        "name": "Querida Yo",
+        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
+      },
+      "artists": [
+        {
+          "name": "Yami Safdie",
+          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
+        }
+      ],
+      "duration_ms": 157194,
+      "name": "Amor Aburrido",
+      "url": "https://open.spotify.com/track/1obViPsBiBhsZY2fuBPLD0"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
         "name": "Si T\u00fa La Quieres",
         "url": "https://open.spotify.com/album/7Hl7NKHiik1ckE2SI21RlU"
       },
@@ -895,22 +911,6 @@
       "duration_ms": 224761,
       "name": "Si T\u00fa La Quieres",
       "url": "https://open.spotify.com/track/35qwAQ3oZeKAMhR3hCV9IM"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
-        "name": "Querida Yo",
-        "url": "https://open.spotify.com/album/7pjlWfFGhfSxnUZP1OQct4"
-      },
-      "artists": [
-        {
-          "name": "Yami Safdie",
-          "url": "https://open.spotify.com/artist/4RWJOoYwgF978LOn8Fainp"
-        }
-      ],
-      "duration_ms": 157194,
-      "name": "Amor Aburrido",
-      "url": "https://open.spotify.com/track/1obViPsBiBhsZY2fuBPLD0"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1443,6 +1443,22 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
+        "name": "M\u00e1s all\u00e1",
+        "url": "https://open.spotify.com/album/5cqlNAQExeLN7YagrSjBAK"
+      },
+      "artists": [
+        {
+          "name": "PALO",
+          "url": "https://open.spotify.com/artist/32ErYjGxv6oBxX1KCMZmtk"
+        }
+      ],
+      "duration_ms": 157440,
+      "name": "Ay amor",
+      "url": "https://open.spotify.com/track/4uKLboqw7YmgKzYdrrrSGN"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
         "name": "Trepando Paredes",
         "url": "https://open.spotify.com/album/69GASdnczwa3sPHiTqYPVC"
       },
@@ -1459,6 +1475,26 @@
       "duration_ms": 233738,
       "name": "Trepando Paredes",
       "url": "https://open.spotify.com/track/2fTIBjzXEUeE6E4TwfPYrS"
+    },
+    {
+      "added_at": "2026-09-11 18:59:39",
+      "album": {
+        "name": "50 Horas",
+        "url": "https://open.spotify.com/album/1VAw66UdPTMhoKLRTk7OrA"
+      },
+      "artists": [
+        {
+          "name": "Coti",
+          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
+        },
+        {
+          "name": "Silvestre y La Naranja",
+          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
+        }
+      ],
+      "duration_ms": 164758,
+      "name": "50 Horas",
+      "url": "https://open.spotify.com/track/6F4aIikY2WK9tHZtJCubp9"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1483,22 +1519,6 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "M\u00e1s all\u00e1",
-        "url": "https://open.spotify.com/album/5cqlNAQExeLN7YagrSjBAK"
-      },
-      "artists": [
-        {
-          "name": "PALO",
-          "url": "https://open.spotify.com/artist/32ErYjGxv6oBxX1KCMZmtk"
-        }
-      ],
-      "duration_ms": 157440,
-      "name": "Ay amor",
-      "url": "https://open.spotify.com/track/4uKLboqw7YmgKzYdrrrSGN"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
         "name": "cool",
         "url": "https://open.spotify.com/album/6ZNxWPuBJUI0uWY5OQHUkJ"
       },
@@ -1515,26 +1535,6 @@
       "duration_ms": 175760,
       "name": "cool",
       "url": "https://open.spotify.com/track/5SlNwpcVtrQMhuzl25q50u"
-    },
-    {
-      "added_at": "2026-09-11 18:59:39",
-      "album": {
-        "name": "50 Horas",
-        "url": "https://open.spotify.com/album/1VAw66UdPTMhoKLRTk7OrA"
-      },
-      "artists": [
-        {
-          "name": "Coti",
-          "url": "https://open.spotify.com/artist/1OUDQLymoysITxprkd0Qvj"
-        },
-        {
-          "name": "Silvestre y La Naranja",
-          "url": "https://open.spotify.com/artist/1hE5imhaIrCEKoHLHW9aCO"
-        }
-      ],
-      "duration_ms": 164758,
-      "name": "50 Horas",
-      "url": "https://open.spotify.com/track/6F4aIikY2WK9tHZtJCubp9"
     },
     {
       "added_at": "2026-09-11 18:59:39",
@@ -1847,18 +1847,18 @@
     {
       "added_at": "2026-09-11 18:59:39",
       "album": {
-        "name": "Corriendo Con Tijeras",
-        "url": "https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ"
+        "name": "Bandana La Vuelta",
+        "url": "https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE"
       },
       "artists": [
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Bandana",
+          "url": "https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k"
         }
       ],
-      "duration_ms": 195133,
-      "name": "Corriendo Con Tijeras",
-      "url": "https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S"
+      "duration_ms": 194160,
+      "name": "Llega la Noche",
+      "url": "https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3"
     }
   ],
   "unique_name": "Radio Pop",

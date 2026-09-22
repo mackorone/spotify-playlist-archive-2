@@ -4,7 +4,7 @@
 
 > 新進気鋭の邦ロックサウンドをひとつのプレイリストに。cover: ザ・シスターズハイ
 
-1,958 songs - 4 day 22 hr 29 min
+1,959 songs - 4 day 22 hr 32 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1559,7 +1559,7 @@
 | [夜風のシャワー](https://open.spotify.com/track/7CwcEwAmYX8NOpjso6bZNC) | [時を唄えば](https://open.spotify.com/artist/4FSU8djxAdENIgpcvqQskn) | [夜風のシャワー](https://open.spotify.com/album/0ZOf3EiwIeWVhijDPj8mDe) | 4:10 | 2023-11-14 | 2023-11-22 |
 | [夢の中](https://open.spotify.com/track/0KX7owNUJrkyKUz3H4BICs) | [板歯目](https://open.spotify.com/artist/5DlTKCtag7pyzHlED3IGad) | [夢の中](https://open.spotify.com/album/7p2s4uSylYIAzHdX66ZfLb) | 3:03 | 2023-12-05 | 2024-01-10 |
 | [夢みるスーパーマン](https://open.spotify.com/track/7JEYvQLv4io6Xi5FldZMqw) | [Saucy Dog](https://open.spotify.com/artist/4WqXqPmUuenMIr4QaFrZXN) | [バットリアリー](https://open.spotify.com/album/4SlmPGkHTG19dxQffnB5SU) | 3:12 | 2024-04-16 | 2024-12-18 |
-| [夢を編む](https://open.spotify.com/track/4MzLUol2lHryNntyIYkqDP) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [夢を編む](https://open.spotify.com/album/4zbEronmbjcmC93NspcGcp) | 4:27 | 2026-07-14 |  |
+| [夢を編む](https://open.spotify.com/track/4MzLUol2lHryNntyIYkqDP) | [rubens](https://open.spotify.com/artist/00hFIHBsO61UDTsJ3iym1T) | [夢を編む](https://open.spotify.com/album/4zbEronmbjcmC93NspcGcp) | 4:27 | 2026-07-14 | 2026-09-22 |
 | [夢見るコトダマ](https://open.spotify.com/track/2MKluK2KfxYohBpYNmZz3M) | [KALMA](https://open.spotify.com/artist/5zHSpvhwGmYsYCd3dgo1Xc) | [夢見るコトダマ](https://open.spotify.com/album/3TPwiVWELo9ZZjnBAzw6oH) | 3:23 | 2023-09-05 | 2023-09-07 |
 | [大人になんて](https://open.spotify.com/track/6TnMlJWeIp9FfQeKvc3xeo) | [Organic Call](https://open.spotify.com/artist/53YLHx1OfHgQ18JpRV5Bi5) | [大人になんて](https://open.spotify.com/album/4VPavADCVN0qEROf23Atl5) | 3:17 | 2025-01-14 | 2025-02-15 |
 | [大脱走計画](https://open.spotify.com/track/4fP51Klo0ZAnnszEskcMGD) | [Luov](https://open.spotify.com/artist/65qX1IKOU3lXJsZ327lCww) | [LUOV](https://open.spotify.com/album/31ICdhFGDDicIofTM5MZGi) | 3:01 | 2025-04-01 | 2025-05-22 |
@@ -1734,6 +1734,7 @@
 | [東京](https://open.spotify.com/track/7LSF652I2HVsRcGNX1WYjP) | [Super social sandr](https://open.spotify.com/artist/6T3QAYc6bkesA1o8mCc7G4) | [う、ちゅー。](https://open.spotify.com/album/7a43PeAPwCmBHRdxFbNoGo) | 3:19 | 2026-08-05 |  |
 | [東京](https://open.spotify.com/track/4c9DOWDaboQ7x3qyHU8q0G) | [鉄風東京](https://open.spotify.com/artist/2dcQMsKiEfgJ9t7GolC4rn) | [From](https://open.spotify.com/album/6YPPPTvyZxrSq0MKId4PVt) | 5:48 | 2023-09-12 | 2023-09-14 |
 | [東京エレキテル](https://open.spotify.com/track/4lOkhMm3c4QfXsHTVjJljr) | [FINLANDS](https://open.spotify.com/artist/5A3KcZGxH4Ej7MIwJLweb9) | [東京エレキテル](https://open.spotify.com/album/447bOiGQKFDtJSf9Q7rlpA) | 3:13 | 2023-10-31 | 2023-11-16 |
+| [東京ショートスリーパー](https://open.spotify.com/track/3bAWqORaLmBzYiwqPaWAJT) | [CROWN HEAD](https://open.spotify.com/artist/0RFzlsPSCSgKapPUDwAgtK) | [東京ショートスリーパー](https://open.spotify.com/album/1dYjt6GxQJmMpJxHK9s1eR) | 2:34 | 2026-09-15 |  |
 | [東京ラストティーン](https://open.spotify.com/track/1EvXo6H2CXxesd6u96I81p) | [Blue Mash](https://open.spotify.com/artist/1qG4m6PAWqUuJ2b3Ahfr07) | [東京ラストティーン](https://open.spotify.com/album/4xuyQPVJr1yeBV9sPRtfvx) | 5:21 | 2023-11-14 | 2023-11-22 |
 | [東京ラブストーリー \- 7thStudio \- \- 2025 ver.](https://open.spotify.com/track/6kwnT1LDMB1GRjb1pL4PHs) | [セブンス・ベガ](https://open.spotify.com/artist/4vTpw8jh1edDWj0ATZYgd7) | [7thStudio \#1](https://open.spotify.com/album/5vGZc0VnXzNmRmL0z0newv) | 4:23 | 2026-03-10 | 2026-04-22 |
 | [東京駅](https://open.spotify.com/track/4FpE2FA3wVOUCjnXmyF0nd) | [Teikokukissa](https://open.spotify.com/artist/3Ea1v0dzfa8Q8hVc4qWqFQ) | [東京駅](https://open.spotify.com/album/33bK7NmRrbOg8KVrZHn5p9) | 3:19 | 2024-01-16 | 2024-02-14 |

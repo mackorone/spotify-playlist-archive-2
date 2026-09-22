@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 
 > Buscando um sono profundo? Essa playlist te ajuda a dormir melhor.
 
-[Spotify](https://open.spotify.com/user/spotify) - 276,555 likes - 391 songs - 17 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 276,685 likes - 391 songs - 17 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -92,7 +92,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWKap1fTevjS.md) - [plain]
 | 82 | [The Stillpoint Between Waves](https://open.spotify.com/track/5PSz8jVwK1l81SY7TpzdUX) | [Elunara Mare](https://open.spotify.com/artist/52VdaCQAM3PCg8pQjPUaEV) | [The Stillpoint Between Waves](https://open.spotify.com/album/3QPvbJB5pK5WSl37DNAQcT) | 2:04 |
 | 83 | [Ease](https://open.spotify.com/track/1VdkBmlS8G3I3Gd3U8hvqz) | [Nocturne Sky](https://open.spotify.com/artist/30MbBEUSCsD7Na1UHEXTge) | [Ease](https://open.spotify.com/album/7f2N7tvzMta1ebMuuEIgJO) | 2:35 |
 | 84 | [The Present Moment](https://open.spotify.com/track/2el2h2UNEhS4GMXUPRs6G6) | [Altered Source](https://open.spotify.com/artist/2iRhuolbUq4A4UP0Pz9SVI) | [The Present Moment](https://open.spotify.com/album/11i3QUfpwNuYdYRTEjVfdp) | 3:18 |
-| 85 | [Unleash Life](https://open.spotify.com/track/67z9CJricdxWeTFSxnKtTh) | [Ocean Pulse](https://open.spotify.com/artist/6gQD4JqqcAJWvbWObCMCTX) | [Unleash Life](https://open.spotify.com/album/5WVpFpba9AbDLH6GOsc9Pv) | 2:49 |
+| 85 | [Unleash Life](https://open.spotify.com/track/67z9CJricdxWeTFSxnKtTh) | [Ocean Pulse](https://open.spotify.com/artist/02GyXHiqxxpn6adlAJ49O3) | [Unleash Life](https://open.spotify.com/album/5WVpFpba9AbDLH6GOsc9Pv) | 2:49 |
 | 86 | [Gentle Air](https://open.spotify.com/track/3n8DZSXOzfr8PtQ1jHT7pp) | [Zonovia](https://open.spotify.com/artist/1vVOSYYOb8CpXiZ0nFEFvc) | [Gentle Air](https://open.spotify.com/album/10ck14X7IsaU50Z2qDvu9c) | 2:32 |
 | 87 | [Quiet and Free](https://open.spotify.com/track/1W37YiLlLzTho2oH4Z6zx0) | [Eldanova](https://open.spotify.com/artist/6UoafaEYntuLsS2Al0Ilju) | [Quiet and Free](https://open.spotify.com/album/2xAdvVae8KaX2JHcQ02lo5) | 3:00 |
 | 88 | [Mane](https://open.spotify.com/track/1VPuoTekZ0B8VyztiDq9aZ) | [Dilandi](https://open.spotify.com/artist/1xSGkHt0BPJIKiExI3Fw3d) | [Mane](https://open.spotify.com/album/7ftforu0vPwsKTwyPZKIFv) | 2:49 |

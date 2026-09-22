@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 
 > Uplifting and happy jazz christmas classics.
 
-[Spotify](https://open.spotify.com/user/spotify) - 200,877 likes - 70 songs - 3 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 200,869 likes - 70 songs - 3 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6piCqp6Q8ck.md) - [plain]
 | 26 | [Perfect Time Of Year](https://open.spotify.com/track/5UI0toFLwTpXiWoN4AWi7p) | [Caity Gyorgy](https://open.spotify.com/artist/7MCpoKftSxsTCS8UBu1GFa) | [Perfect Time of Year](https://open.spotify.com/album/5mx9avVIm8VDmOwwOjmN9y) | 3:26 |
 | 27 | [I've Got My Love To Keep Me Warm](https://open.spotify.com/track/0Ffhk7o19DQC3eU4nPxiJe) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz), [Louis Armstrong](https://open.spotify.com/artist/19eLuQmk9aCobbVDHc6eek) | [Louis Wishes You a Cool Yule](https://open.spotify.com/album/2KquMleTyS3Ykm7440PjL6) | 3:11 |
 | 28 | [Christmas Is](https://open.spotify.com/track/7w2N65YAK9aEQ8WbWtKunT) | [Bria Skonberg](https://open.spotify.com/artist/0ahtSggrsy1v2oJuKfmzGm) | [Christmas Is…](https://open.spotify.com/album/4lDNpF4lVOsq1hyrKJN59L) | 3:59 |
-| 29 | [Christmas Time Is Here \- Christmas Cards from David Hazeltine](https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G) | [David Hazletine](https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u) | [Christmas Time Is Here \(Christmas Cards from David Hazeltine\)](https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB) | 5:56 |
-| 30 | [The Man With The Bag](https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Man With The Bag](https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd) | 2:03 |
+| 29 | [The Man With The Bag](https://open.spotify.com/track/2R60AwEI6yNX8iJ0EEfKPD) | [Diana Krall](https://open.spotify.com/artist/5z1VAFwT35EVvCp1XlZZuL) | [The Man With The Bag](https://open.spotify.com/album/21Xq5vgILkNpVZiGKjBgdd) | 2:03 |
+| 30 | [Christmas Time Is Here \- Christmas Cards from David Hazeltine](https://open.spotify.com/track/2iquYk6RNrlZU4GiSLeA3G) | [David Hazletine](https://open.spotify.com/artist/2K0HazMlUFL8D5haDZEv0u) | [Christmas Time Is Here \(Christmas Cards from David Hazeltine\)](https://open.spotify.com/album/4zUEyVPEHFANqmnvUyB1LB) | 5:56 |
 | 31 | [Winter Wonderland](https://open.spotify.com/track/3Z5g0II4PtIdyhLLSRXERg) | [Armel Dupas Trio](https://open.spotify.com/artist/6Bnvdx2Rqxe2ewzFxObRdU) | [Winter Wonderland](https://open.spotify.com/album/1fJInYY8L0zWFIIzpoeVgx) | 2:58 |
 | 32 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/79Vow814grawUCdrBlYZbs) | [Ella Fitzgerald](https://open.spotify.com/artist/5V0MlUE1Bft0mbLlND7FJz) | [Ella & Louis Christmas](https://open.spotify.com/album/4Stxbm7asfnEVduhRpWpzl) | 2:44 |
 | 33 | [Little Drummer Boy](https://open.spotify.com/track/5lyN0bsNMnEp7NuAuHs9xY) | [Count Basie Orchestra](https://open.spotify.com/artist/2Hn9fch2OLB5jZuEAVjTCe) | [A Very Swingin’ Basie Christmas!](https://open.spotify.com/album/2YeKSxPeuQYiml0g6pzn7S) | 4:50 |

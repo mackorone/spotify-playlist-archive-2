@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 
 > This is Avenoir\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,058 likes - 26 songs - 1 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,061 likes - 26 songs - 1 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 | 15 | [Too Much](https://open.spotify.com/track/4rzfXpou7FRHP1kIAerMCH) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Too Much](https://open.spotify.com/album/38sQTEAfgwCCTWj5Grmosc) | 3:50 |
 | 16 | [Heaven](https://open.spotify.com/track/6YeBgabF5qNtrPVnrxD2d2) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb), [Bryant Barnes](https://open.spotify.com/artist/1URGXPcURc0aQzLeph65nK) | [Heaven](https://open.spotify.com/album/0DHx1mktkaDnrMFmEf0iHV) | 3:02 |
 | 17 | [DIFFERENT](https://open.spotify.com/track/0gf3IZ1k7teUROj3lmUOZM) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:35 |
-| 18 | [WHO DO U LUV](https://open.spotify.com/track/74KASQI7XvyWdsNyQcJuv9) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/5OSxxuKEwrcv9Xe8bZ4iSm) | 4:08 |
-| 19 | [Alone](https://open.spotify.com/track/69ms7KvY7nETPn8mYwTahK) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:25 |
+| 18 | [Alone](https://open.spotify.com/track/69ms7KvY7nETPn8mYwTahK) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:25 |
+| 19 | [WHO DO U LUV](https://open.spotify.com/track/74KASQI7XvyWdsNyQcJuv9) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [WHO DO U LUV](https://open.spotify.com/album/5OSxxuKEwrcv9Xe8bZ4iSm) | 4:08 |
 | 20 | [TRACK 02 \(Dangerous Lover\)](https://open.spotify.com/track/6YoIklDN0qyJA1NuXwKrEw) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:58 |
 | 21 | [MORAL](https://open.spotify.com/track/4FVeq46pcFppDtiMd8GReE) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [MORAL](https://open.spotify.com/album/7eMOW9nITxzhIs7RUzv26H) | 2:45 |
 | 22 | [Paradise](https://open.spotify.com/track/6mU00UhZ1jCEyEoja3B3hl) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 1:53 |
@@ -35,4 +35,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2kdn0g.md) - [plain]
 | 25 | [Desert Oasis](https://open.spotify.com/track/4raVYWt5YDX4GlLDUrRM9c) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [Mirage](https://open.spotify.com/album/37H6dgOYnjPeTDrcDBuPB2) | 2:34 |
 | 26 | [MORTAL](https://open.spotify.com/track/2DsKEr398bpEAOJvZjem6L) | [Avenoir](https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb) | [NOIRE](https://open.spotify.com/album/0g56OJU53oUbiCWB99D5S5) | 2:21 |
 
-Snapshot ID: `aq3QgAAAAABPa4Ct2D0CcxlVb/SZcC7O`
+Snapshot ID: `aq8iAAAAAACEIDu5Z7Qg72RousZiFEDo`

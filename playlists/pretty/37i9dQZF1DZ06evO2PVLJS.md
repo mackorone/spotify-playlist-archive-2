@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 
 > This is Vicente Fernández\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,128,978 likes - 50 songs - 2 hr 35 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,129,012 likes - 50 songs - 2 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2PVLJS.md) - [plain]
 | 49 | [Yo Quiero Saber de Ti](https://open.spotify.com/track/2BF35PjVtpRDyFYldHnxMt) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l) | [El Número Uno](https://open.spotify.com/album/36KRW7yc5rVeDpEzcBt8KN) | 3:11 |
 | 50 | [Aunque Mal Paguen Ellas \(with Roberto Carlos\)](https://open.spotify.com/track/16tSlxrIF7hDvU1VXkpL6U) | [Vicente Fernández](https://open.spotify.com/artist/4PPoI9LuYeFX8V674Z1R6l), [Roberto Carlos](https://open.spotify.com/artist/7fAKtXSdNInWAIf0jVUz65) | [Por Tu Maldito Amor](https://open.spotify.com/album/0l6LuLWe4X9EqsPSoU7CE7) | 3:26 |
 
-Snapshot ID: `aq3QgAAAAAADqiNEVMEOawTdttlwbDcl`
+Snapshot ID: `aq8iAAAAAAB3aIPTj4Z46BY2KOUTf0PH`

@@ -1,12 +1,12 @@
 {
   "description": "This is Mumford & Sons. The essential tracks, all in one playlist.",
-  "num_followers": 534831,
+  "num_followers": 534888,
   "original_name": "This Is Mumford & Sons",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAACkQv8o/b33wRTkpMbAAtw9",
+  "snapshot_id": "aq8iAAAAAAAffPccCGj47BqRPV8UmSj5",
   "tracks": [
     {
       "added_at": null,
@@ -80,7 +80,7 @@
       "added_at": null,
       "album": {
         "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
+        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
       },
       "artists": [
         {
@@ -88,13 +88,13 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         },
         {
-          "name": "Hozier",
-          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
+          "name": "Gracie Abrams",
+          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
         }
       ],
-      "duration_ms": 218400,
-      "name": "Rubber Band Man (with Hozier)",
-      "url": "https://open.spotify.com/track/1EgeiGYBJouzsieXUiX2wF"
+      "duration_ms": 178200,
+      "name": "Badlands (with Gracie Abrams)",
+      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
     },
     {
       "added_at": null,
@@ -148,7 +148,7 @@
       "added_at": null,
       "album": {
         "name": "Prizefighter",
-        "url": "https://open.spotify.com/album/36tMC1BcEdVTX2YN5Ygg7k"
+        "url": "https://open.spotify.com/album/4jnBkfheZqprSwXV7qyrc0"
       },
       "artists": [
         {
@@ -156,13 +156,13 @@
           "url": "https://open.spotify.com/artist/3gd8FJtBJtkRxdfbTu19U2"
         },
         {
-          "name": "Gracie Abrams",
-          "url": "https://open.spotify.com/artist/4tuJ0bMpJh08umKkEXKUI5"
+          "name": "Hozier",
+          "url": "https://open.spotify.com/artist/2FXC3k01G6Gw61bmprjgqS"
         }
       ],
-      "duration_ms": 178200,
-      "name": "Badlands (with Gracie Abrams)",
-      "url": "https://open.spotify.com/track/47Z5J8r3LrI0gSuqxijzSg"
+      "duration_ms": 218400,
+      "name": "Rubber Band Man (with Hozier)",
+      "url": "https://open.spotify.com/track/1EgeiGYBJouzsieXUiX2wF"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 
 > Rilisan baru pekan ini dari no na, ROSÉ, Miley Cyrus, Dominic Fike, Piche Kota, Akbar Chalay, Mingse dan masih banyak lagi dari dalam dan mancanegara.
 
-[Spotify](https://open.spotify.com/user/spotify) - 250,177 likes - 114 songs - 6 hr 23 min
+[Spotify](https://open.spotify.com/user/spotify) - 250,133 likes - 113 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -117,10 +117,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8vAahjzdXGC.md) - [plain]
 | 107 | [Cinta Tak Bisa Memaksa](https://open.spotify.com/track/1A9Lh9CEhpX6WRsi6w6EYi) | [Keiko Regine](https://open.spotify.com/artist/5aRhDG5HHCIXdtvVfxlFoU) | [Cinta Tak Bisa Memaksa](https://open.spotify.com/album/1wS0a988EaEAUUaDUX31oA) | 4:20 |
 | 108 | [hujan dan petir](https://open.spotify.com/track/0QVF3rDHoCVQx3L0NZrkVT) | [Amabel Odelia](https://open.spotify.com/artist/4PUkvkks3jURfv02pD0FKU) | [hujan dan petir](https://open.spotify.com/album/1qh9vZrV39vl08Ua8pjssf) | 3:36 |
 | 109 | [Luka Terakhir](https://open.spotify.com/track/5Tkph9fYagFVVxH67Ubep8) | [Sheera](https://open.spotify.com/artist/2gOwuKX4QblHw4XVi7B0pz) | [Luka Terakhir](https://open.spotify.com/album/1zcKUd2rC2lhuSmv2hXp0c) | 3:39 |
-| 110 | [Sampai Selamanya](https://open.spotify.com/track/5viPaABE0ffRML65icQFgS) | [Arrcely](https://open.spotify.com/artist/6JQNusH5zf95tDmBc4kK2F) | [Sampai Selamanya](https://open.spotify.com/album/2SxwogojOdNbrWEcxaOGIa) | 3:52 |
-| 111 | [Ye Ye Ye](https://open.spotify.com/track/4kuijZ9ZMRguf68lnOmIOV) | [Portura](https://open.spotify.com/artist/6imn87DXA6kYdRAVPs1rUG) | [Ye Ye Ye](https://open.spotify.com/album/0gxZn0JGe20KCI6f2QJimX) | 3:16 |
-| 112 | [Ending Yang Hilang](https://open.spotify.com/track/3ri44xOPVEQJFlNMO9xVPr) | [Zia Riza](https://open.spotify.com/artist/7bOaFlu8ukLdVnVabl5djq) | [Ending Yang Hilang](https://open.spotify.com/album/4We1yZbCzjVFbUMIcNGNEx) | 3:56 |
-| 113 | [Kisah Yang Dulu](https://open.spotify.com/track/61VFZajfQDeO89ftrfXmM2) | [Rosalina Samosir](https://open.spotify.com/artist/6iIW0ppZImIJzp3YXNWgNz) | [Kisah Yang Dulu](https://open.spotify.com/album/4Sxbf1PZzxz29wgwepaz6O) | 4:39 |
-| 114 | [Amarah Seperti Apa](https://open.spotify.com/track/3FgO25uJGqpMU6u06WLhui) | [Cast of Home Sweet Loan the Musical](https://open.spotify.com/artist/0pDMvRTt74pZSE1ZePrvTn), [Kalya Islamadina](https://open.spotify.com/artist/1DayT5WZ713uGDCbpmejfE) | [Home Sweet Loan The Musical \(Original Cast Recording\)](https://open.spotify.com/album/6Wo2yxuKQ65IkXzc1krd63) | 3:29 |
+| 110 | [Ye Ye Ye](https://open.spotify.com/track/4kuijZ9ZMRguf68lnOmIOV) | [Portura](https://open.spotify.com/artist/6imn87DXA6kYdRAVPs1rUG) | [Ye Ye Ye](https://open.spotify.com/album/0gxZn0JGe20KCI6f2QJimX) | 3:16 |
+| 111 | [Ending Yang Hilang](https://open.spotify.com/track/3ri44xOPVEQJFlNMO9xVPr) | [Zia Riza](https://open.spotify.com/artist/7bOaFlu8ukLdVnVabl5djq) | [Ending Yang Hilang](https://open.spotify.com/album/4We1yZbCzjVFbUMIcNGNEx) | 3:56 |
+| 112 | [Kisah Yang Dulu](https://open.spotify.com/track/61VFZajfQDeO89ftrfXmM2) | [Rosalina Samosir](https://open.spotify.com/artist/6iIW0ppZImIJzp3YXNWgNz) | [Kisah Yang Dulu](https://open.spotify.com/album/4Sxbf1PZzxz29wgwepaz6O) | 4:39 |
+| 113 | [Amarah Seperti Apa](https://open.spotify.com/track/3FgO25uJGqpMU6u06WLhui) | [Cast of Home Sweet Loan the Musical](https://open.spotify.com/artist/0pDMvRTt74pZSE1ZePrvTn), [Kalya Islamadina](https://open.spotify.com/artist/1DayT5WZ713uGDCbpmejfE) | [Home Sweet Loan The Musical \(Original Cast Recording\)](https://open.spotify.com/album/6Wo2yxuKQ65IkXzc1krd63) | 3:29 |
 
-Snapshot ID: `AAAAAKXOP8Z2aw1bKVwk73O6nb9cso3e`
+Snapshot ID: `AAAAAFb6wU+nSGf62Su2h4UCsq9AJHCz`

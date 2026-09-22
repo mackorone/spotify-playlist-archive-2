@@ -4,7 +4,7 @@
 
 > This is SOPHIE\. The essential tracks, all in one playlist.
 
-59 songs - 3 hr 37 min
+60 songs - 3 hr 40 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -14,6 +14,7 @@
 | [BIPP](https://open.spotify.com/track/5HuOQHBDbb0UJjEE2fw6Uq) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [BIPP](https://open.spotify.com/album/1xF4KA0folSWB5Wcfkv8QU) | 3:44 | 2025-10-28 |  |
 | [Blaze That Ass](https://open.spotify.com/track/4phLrBsqNbIIA4SA7iJn6z) | [Big Freedia](https://open.spotify.com/artist/2gyv1akuIB9fQvXoGSPaJr), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [Blaze That Ass](https://open.spotify.com/album/3HUmvO3t38JaKug0oIEOaL) | 2:55 | 2026-05-24 |  |
 | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/track/4fORekngPoCqeJpe3xg6GQ) | [BABYNYMPH](https://open.spotify.com/artist/2ecIs55o71mEFMhkcaUnyB), [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BAYLI](https://open.spotify.com/artist/2bvUCoFViWtg9pSkOX9du9) | [clown shit \(up the wall\) \[SOPHIE Remix\]](https://open.spotify.com/album/0w3ZduXZIPEMktyyVmEAbr) | 6:27 | 2025-10-28 |  |
+| [Cold Water](https://open.spotify.com/track/1rgpIW9CAWil4xc249VM7l) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 3:41 | 2026-09-22 |  |
 | [Cold Water](https://open.spotify.com/track/3qNjFM6QCj0eWllhAXSFLy) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 3:41 | 2025-12-05 | 2026-01-25 |
 | [Cold World](https://open.spotify.com/track/0PAQt9xBDPg2010l2KJmkY) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:25 | 2025-11-02 | 2026-05-20 |
 | [Cold World](https://open.spotify.com/track/1N5PpWpMl66VDyhJ9bNfg5) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 4:25 | 2025-10-28 | 2026-05-26 |
@@ -54,7 +55,7 @@
 | [OOH](https://open.spotify.com/track/5sW5xwuhgkvFA6CgY4key2) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [PRODUCT](https://open.spotify.com/album/0JB2T1lOZ03obXXun0CLzY) | 2:31 | 2025-10-28 |  |
 | [Pony Whip](https://open.spotify.com/track/1ORL2w9mpbWLUT6lHcqOgs) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:11 | 2025-10-28 |  |
 | [Ponyboy](https://open.spotify.com/track/7dUrhEQguPAglRgnACCzYw) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES](https://open.spotify.com/album/6Rv8V4QeLgfEC01czqJsiI) | 3:14 | 2025-10-28 |  |
-| [Pretending I Give In \(Let Go\)](https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:02 | 2026-05-26 |  |
+| [Pretending I Give In \(Let Go\)](https://open.spotify.com/track/6Inu26yd9h57cEFhorRkWi) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 4:02 | 2026-05-26 | 2026-09-22 |
 | [Push Emission \(Whore Moans\)](https://open.spotify.com/track/0Dpc620TAbro4ic3aRVRYF) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/7vQKfsKKrI0xObMqojazHR) | 5:27 | 2025-10-28 |  |
 | [Push Emission \(Whore Moans\)](https://open.spotify.com/track/508XruYEVyn4X8QudrlOFx) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu) | [OIL OF EVERY PEARL'S UN\-INSIDES NON\-STOP REMIX ALBUM](https://open.spotify.com/album/04N5ZJ3wvbkb2QmkO90HUZ) | 5:27 | 2026-05-07 | 2026-09-12 |
 | [Reason Why \(feat\. Kim Petras and BC Kingdom\)](https://open.spotify.com/track/6mZphEzS8nwzsUwQP4I4Fo) | [SOPHIE](https://open.spotify.com/artist/5a2w2tgpLwv26BYJf2qYwu), [Kim Petras](https://open.spotify.com/artist/3Xt3RrJMFv5SZkCfUE8C1J), [BC Kingdom](https://open.spotify.com/artist/7HVp0RVFZQBU8NJFZHe7vP) | [SOPHIE](https://open.spotify.com/album/2kX3enxQiHLTtuNwIXZMXU) | 3:52 | 2025-10-28 |  |

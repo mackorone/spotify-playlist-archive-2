@@ -1,12 +1,12 @@
 {
   "description": "This is Cynthia Luz. The essential tracks, all in one playlist.",
-  "num_followers": 81946,
+  "num_followers": 81944,
   "original_name": "This Is Cynthia Luz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAADV3o7PEjDa1H9RuPNdaZEV",
+  "snapshot_id": "aq8iAAAAAAAbJ1qgD9w+FAL7navX73FI",
   "tracks": [
     {
       "added_at": null,
@@ -658,11 +658,23 @@
         {
           "name": "2B",
           "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
+        },
+        {
+          "name": "Ribb",
+          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
+        },
+        {
+          "name": "ProdPetroceli",
+          "url": "https://open.spotify.com/artist/2xWsHocrC3fdhpGvMjsVGX"
+        },
+        {
+          "name": "byCaiiro",
+          "url": "https://open.spotify.com/artist/6QCmOKqxbN1wl5Y4KJYW89"
         }
       ],
-      "duration_ms": 161500,
-      "name": "Desafeto",
-      "url": "https://open.spotify.com/track/1z05v7xXsw9FTN1rIgiskK"
+      "duration_ms": 171789,
+      "name": "Desacelerar",
+      "url": "https://open.spotify.com/track/5t0zrHJR5j3EJvFsU9maav"
     },
     {
       "added_at": null,
@@ -750,23 +762,11 @@
         {
           "name": "2B",
           "url": "https://open.spotify.com/artist/3KpCpmkK2irJKgRDagnieE"
-        },
-        {
-          "name": "Ribb",
-          "url": "https://open.spotify.com/artist/0QDtEwBuAbylERTOT4PntE"
-        },
-        {
-          "name": "ProdPetroceli",
-          "url": "https://open.spotify.com/artist/2xWsHocrC3fdhpGvMjsVGX"
-        },
-        {
-          "name": "byCaiiro",
-          "url": "https://open.spotify.com/artist/6QCmOKqxbN1wl5Y4KJYW89"
         }
       ],
-      "duration_ms": 171789,
-      "name": "Desacelerar",
-      "url": "https://open.spotify.com/track/5t0zrHJR5j3EJvFsU9maav"
+      "duration_ms": 161500,
+      "name": "Desafeto",
+      "url": "https://open.spotify.com/track/1z05v7xXsw9FTN1rIgiskK"
     },
     {
       "added_at": null,
@@ -991,26 +991,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Teoria do Ciclo da \u00c1gua",
-        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
-      },
-      "artists": [
-        {
-          "name": "Froid",
-          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
-        },
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        }
-      ],
-      "duration_ms": 275905,
-      "name": "Garota",
-      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Poesia Ac\u00fastica Ep. Jeri",
         "url": "https://open.spotify.com/album/1MgfsdHI8sIaBcw97NhwBi"
       },
@@ -1043,6 +1023,26 @@
       "duration_ms": 262978,
       "name": "Poesia Ac\u00fastica Ep. Jeri",
       "url": "https://open.spotify.com/track/4tnMSnDkcMj43ovIXIwdMi"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Teoria do Ciclo da \u00c1gua",
+        "url": "https://open.spotify.com/album/2G0mpuNuqGqCmwuZokY4x5"
+      },
+      "artists": [
+        {
+          "name": "Froid",
+          "url": "https://open.spotify.com/artist/45Yz90pqjzEdJzpEQg1eII"
+        },
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        }
+      ],
+      "duration_ms": 275905,
+      "name": "Garota",
+      "url": "https://open.spotify.com/track/6ripdgnZJ8hGfVO6jp5ISV"
     },
     {
       "added_at": null,

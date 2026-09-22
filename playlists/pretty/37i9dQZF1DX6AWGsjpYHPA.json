@@ -1,6 +1,6 @@
 {
   "description": "Hand-curated cuts from the vault, no record player required. ",
-  "num_followers": 194363,
+  "num_followers": 194391,
   "original_name": "Turntable",
   "owner": {
     "name": "Spotify",
@@ -363,6 +363,22 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
+        "name": "Slick",
+        "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
+      },
+      "artists": [
+        {
+          "name": "Eddie Kendricks",
+          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
+        }
+      ],
+      "duration_ms": 353453,
+      "name": "Intimate Friends",
+      "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
         "name": "still slipping vol. 1",
         "url": "https://open.spotify.com/album/5atrOg1aO4d5KEcYo4UBIA"
       },
@@ -383,22 +399,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Slick",
-        "url": "https://open.spotify.com/album/2j2cyqYnr84LjriiNoTtqb"
-      },
-      "artists": [
-        {
-          "name": "Eddie Kendricks",
-          "url": "https://open.spotify.com/artist/2Uuon75BhnuuxdKLYn4wHn"
-        }
-      ],
-      "duration_ms": 353453,
-      "name": "Intimate Friends",
-      "url": "https://open.spotify.com/track/35YSCRS2BshfXYdNAQxrs8"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "By Your Side",
         "url": "https://open.spotify.com/album/4iv1fsRtMDanS6VB6RW0Hg"
       },
@@ -415,22 +415,6 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
-        "name": "Jazz Club After Hours",
-        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
-      },
-      "artists": [
-        {
-          "name": "Barry Can't Swim",
-          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
-        }
-      ],
-      "duration_ms": 294211,
-      "name": "Jazz Club After Hours",
-      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
         "name": "Part One",
         "url": "https://open.spotify.com/album/36qtMdwzo4s7lisavSgorV"
       },
@@ -443,6 +427,22 @@
       "duration_ms": 144440,
       "name": "I Won't Hurt You",
       "url": "https://open.spotify.com/track/59v1okflZrEkeb9JrxfJvX"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
+        "name": "Jazz Club After Hours",
+        "url": "https://open.spotify.com/album/7hJi1Ehtns1r862nCGzUZv"
+      },
+      "artists": [
+        {
+          "name": "Barry Can't Swim",
+          "url": "https://open.spotify.com/artist/0vTVU0KH0CVzijsoKGsTPl"
+        }
+      ],
+      "duration_ms": 294211,
+      "name": "Jazz Club After Hours",
+      "url": "https://open.spotify.com/track/0nPoWlU7nIz74B6px39NMz"
     },
     {
       "added_at": "2026-04-03 04:00:50",
@@ -723,6 +723,22 @@
     {
       "added_at": "2026-04-03 04:00:50",
       "album": {
+        "name": "Dr. Buzzard's Original Savannah Band",
+        "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
+      },
+      "artists": [
+        {
+          "name": "Dr. Buzzard's Original Savannah Band",
+          "url": "https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh"
+        }
+      ],
+      "duration_ms": 245573,
+      "name": "Sunshower",
+      "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
+    },
+    {
+      "added_at": "2026-04-03 04:00:50",
+      "album": {
         "name": "Shadows",
         "url": "https://open.spotify.com/album/62qsqtnaiVv09V1yjxfLx0"
       },
@@ -739,22 +755,6 @@
       "duration_ms": 285093,
       "name": "Shadows",
       "url": "https://open.spotify.com/track/4PDYYvVrcHWDvesiKo74Lh"
-    },
-    {
-      "added_at": "2026-04-03 04:00:50",
-      "album": {
-        "name": "Dr. Buzzard's Original Savannah Band",
-        "url": "https://open.spotify.com/album/7EZlo6A3wcmAAjKozsQhiq"
-      },
-      "artists": [
-        {
-          "name": "Dr. Buzzard's Original Savannah Band",
-          "url": "https://open.spotify.com/artist/0i64fKwsnTQsPqbov8mZUh"
-        }
-      ],
-      "duration_ms": 245573,
-      "name": "Sunshower",
-      "url": "https://open.spotify.com/track/5SWfqINCAFg3N4x9bcegYf"
     },
     {
       "added_at": "2026-04-03 04:00:50",

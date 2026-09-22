@@ -1,12 +1,12 @@
 {
   "description": "This is Forrest Frank. The essential tracks, all in one playlist.",
-  "num_followers": 216704,
+  "num_followers": 216800,
   "original_name": "This Is Forrest Frank",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAABsWiKp7I4VwySd5bmoDWb",
+  "snapshot_id": "aq8iAAAAAABkMthSkBYI3CAPzSHHQP4H",
   "tracks": [
     {
       "added_at": null,
@@ -583,22 +583,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "THE JESUS GENERATION",
-        "url": "https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 255197,
-      "name": "THE JESUS GENERATION",
-      "url": "https://open.spotify.com/track/4GWv7LurvNh9ubvT5bbD6f"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "LEMONADE (FOLK)",
         "url": "https://open.spotify.com/album/3d30N3D4MZguQ2aAJ0g7MJ"
       },
@@ -615,6 +599,22 @@
       "duration_ms": 183532,
       "name": "LEMONADE (FOLK)",
       "url": "https://open.spotify.com/track/6JM6fmIDkRckUrKmnCeT1a"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "THE JESUS GENERATION",
+        "url": "https://open.spotify.com/album/3aECJcdowUXQabxMNvCwkg"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 255197,
+      "name": "THE JESUS GENERATION",
+      "url": "https://open.spotify.com/track/4GWv7LurvNh9ubvT5bbD6f"
     },
     {
       "added_at": null,
@@ -691,22 +691,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Jesus Paid It All",
-        "url": "https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7"
-      },
-      "artists": [
-        {
-          "name": "Forrest Frank",
-          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
-        }
-      ],
-      "duration_ms": 236765,
-      "name": "Jesus Paid It All (Worthy of The Price)",
-      "url": "https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "New Hymns",
         "url": "https://open.spotify.com/album/5XIbReP0MPK9hGgBsPkqZP"
       },
@@ -719,6 +703,22 @@
       "duration_ms": 146613,
       "name": "It Is Well",
       "url": "https://open.spotify.com/track/5x2mhn1pPWj0IGn3iTSXBm"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Jesus Paid It All",
+        "url": "https://open.spotify.com/album/5xBcP6Mfjo9NX3eWYO3xS7"
+      },
+      "artists": [
+        {
+          "name": "Forrest Frank",
+          "url": "https://open.spotify.com/artist/1scVfBymTr3CeZ4imMj1QJ"
+        }
+      ],
+      "duration_ms": 236765,
+      "name": "Jesus Paid It All (Worthy of The Price)",
+      "url": "https://open.spotify.com/track/6TE0IntS8MrOKlKdIUvjST"
     },
     {
       "added_at": null,

@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAADEJdhnIXd6abxkyUZxXnw8",
+  "snapshot_id": "aq8iAAAAAACBL6vOIU+LYUdu06036d6D",
   "tracks": [
     {
       "added_at": null,
@@ -63,22 +63,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friend Remixes",
-        "url": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS"
+        "name": "Zid",
+        "url": "https://open.spotify.com/album/3thSuW2b2Udc4407eqqbcg"
       },
       "artists": [
-        {
-          "name": "james K",
-          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
-        },
         {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 313129,
-      "name": "Collapse (falling forward blissfully all the time) - Arushi Jain Remix",
-      "url": "https://open.spotify.com/track/2MO4UiXSVt3Ds2w3yRWG2J"
+      "duration_ms": 424766,
+      "name": "Zid",
+      "url": "https://open.spotify.com/track/4Dg2phZYxFdgh2pmPovfGB"
     },
     {
       "added_at": null,
@@ -115,18 +111,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Zid",
-        "url": "https://open.spotify.com/album/3thSuW2b2Udc4407eqqbcg"
+        "name": "Friend Remixes",
+        "url": "https://open.spotify.com/album/0ttON9DNtdujNQ8qcnIMMS"
       },
       "artists": [
+        {
+          "name": "james K",
+          "url": "https://open.spotify.com/artist/25BObiRSDCMwVrBGIVaLIf"
+        },
         {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 424766,
-      "name": "Zid",
-      "url": "https://open.spotify.com/track/4Dg2phZYxFdgh2pmPovfGB"
+      "duration_ms": 313129,
+      "name": "Collapse (falling forward blissfully all the time) - Arushi Jain Remix",
+      "url": "https://open.spotify.com/track/2MO4UiXSVt3Ds2w3yRWG2J"
     },
     {
       "added_at": null,
@@ -183,18 +183,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "We Shall Overcome / Hum Honge Kaamyaab",
-        "url": "https://open.spotify.com/album/7jg2abOJUGNjGyWaSo4m5z"
+        "name": "Just a Feeling",
+        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
       },
       "artists": [
         {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
+        },
+        {
+          "name": "OSE",
+          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 332464,
-      "name": "Hum Honge Kaamyab / We Shall Overcome",
-      "url": "https://open.spotify.com/track/6NCbGeuETdHYmhLX2fLnjT"
+      "duration_ms": 338546,
+      "name": "Anna",
+      "url": "https://open.spotify.com/track/2pUoIagEfkojQmTlW92nxS"
     },
     {
       "added_at": null,
@@ -284,9 +288,9 @@
           "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 698479,
-      "name": "I Feel Incomplete Without Sound",
-      "url": "https://open.spotify.com/track/6NfGbV2WnS5yv2y5Um4u6v"
+      "duration_ms": 645346,
+      "name": "Drown Out the Noise With Your Silence",
+      "url": "https://open.spotify.com/track/2hbHQ6sI7bn90uEkTmY3Yt"
     },
     {
       "added_at": null,
@@ -323,22 +327,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Just a Feeling",
-        "url": "https://open.spotify.com/album/38ypqk1q18yzLtTWbetzIw"
+        "name": "We Shall Overcome / Hum Honge Kaamyaab",
+        "url": "https://open.spotify.com/album/7jg2abOJUGNjGyWaSo4m5z"
       },
       "artists": [
         {
           "name": "Arushi Jain",
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
-        },
-        {
-          "name": "OSE",
-          "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 338546,
-      "name": "Anna",
-      "url": "https://open.spotify.com/track/2pUoIagEfkojQmTlW92nxS"
+      "duration_ms": 332464,
+      "name": "Hum Honge Kaamyab / We Shall Overcome",
+      "url": "https://open.spotify.com/track/6NCbGeuETdHYmhLX2fLnjT"
     },
     {
       "added_at": null,
@@ -356,9 +356,9 @@
           "url": "https://open.spotify.com/artist/4KVimrILKzTkQoo0A0ahvu"
         }
       ],
-      "duration_ms": 645346,
-      "name": "Drown Out the Noise With Your Silence",
-      "url": "https://open.spotify.com/track/2hbHQ6sI7bn90uEkTmY3Yt"
+      "duration_ms": 698479,
+      "name": "I Feel Incomplete Without Sound",
+      "url": "https://open.spotify.com/track/6NfGbV2WnS5yv2y5Um4u6v"
     },
     {
       "added_at": null,
@@ -388,9 +388,9 @@
           "url": "https://open.spotify.com/artist/7vQf39VMZhNhPo54R8hIzJ"
         }
       ],
-      "duration_ms": 294654,
-      "name": "A Portal To Silver Linings",
-      "url": "https://open.spotify.com/track/1847QMgarVgg8Md0LfK8EJ"
+      "duration_ms": 371917,
+      "name": "Infinite Delight",
+      "url": "https://open.spotify.com/track/6wdWROeCaDYr9nJTglF2P3"
     },
     {
       "added_at": null,

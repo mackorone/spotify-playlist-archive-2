@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-02-14",
-  "description": "Bringing out the best of latest love tracks\nCover : Idupu Kayitham",
+  "description": "Bringing out the best of latest love tracks\nCover : The Paradise",
   "name": "Latest Romance Telugu",
   "tracks": [
     {
@@ -596,6 +596,32 @@
       "duration_ms": 267500,
       "name": "Andhee Andhani Andham (From \"Mareechika\")",
       "url": "https://open.spotify.com/track/15j514qd14U4sC061jg0ds"
+    },
+    {
+      "album": {
+        "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
+        "url": "https://open.spotify.com/album/3SBWD56siGLfTGGm40Zsre"
+      },
+      "artists": [
+        {
+          "name": "Anirudh Ravichander",
+          "url": "https://open.spotify.com/artist/4zCH9qm4R2DADamUHMCa6O"
+        },
+        {
+          "name": "Sublahshini",
+          "url": "https://open.spotify.com/artist/0nh5cRtt03SU6LhzhVC5fv"
+        },
+        {
+          "name": "Kittu Vissapragada",
+          "url": "https://open.spotify.com/artist/5UDv7yHHkED5J7nXh3yoiy"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230976,
+      "name": "Anjaana Anjaani (From \"The Paradise\") (Telugu)",
+      "url": "https://open.spotify.com/track/5TjLPa8M104c3bImxulwpR"
     },
     {
       "album": {
@@ -2466,6 +2492,36 @@
       "duration_ms": 232000,
       "name": "Emundi Ra (From \"Krishna Vrinda Vihari\")",
       "url": "https://open.spotify.com/track/1EqsZQwACUqnn9GvtzLjHl"
+    },
+    {
+      "album": {
+        "name": "Endhayya Saami (From \"Ranabaali\")",
+        "url": "https://open.spotify.com/album/0rP6tTyF90zUSqIgXLNGZk"
+      },
+      "artists": [
+        {
+          "name": "Ajay-Atul",
+          "url": "https://open.spotify.com/artist/5fvTHKKzW44A9867nPDocM"
+        },
+        {
+          "name": "Ajay Gogavale",
+          "url": "https://open.spotify.com/artist/0vkpFzbSTmwPuGGnhsblFI"
+        },
+        {
+          "name": "Shweta Mohan",
+          "url": "https://open.spotify.com/artist/1rdQOMFFtoskDXXUVjiGo9"
+        },
+        {
+          "name": "Ramajogayya Sastry",
+          "url": "https://open.spotify.com/artist/4GISoVSxo2LkF5EyorXs9W"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 328023,
+      "name": "Endhayya Saami (From \"Ranabaali\")",
+      "url": "https://open.spotify.com/track/0HG0q1rtcVe1kXlreHz9Kf"
     },
     {
       "album": {

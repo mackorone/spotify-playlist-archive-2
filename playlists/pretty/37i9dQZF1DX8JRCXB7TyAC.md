@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 
 > Workout with Haryanvi Songs.
 
-[Spotify](https://open.spotify.com/user/spotify) - 62,040 likes - 50 songs - 2 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 62,079 likes - 50 songs - 2 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8JRCXB7TyAC.md) - [plain]
 | 29 | [GYM \(feat\. Vaishali Chaudhary\)](https://open.spotify.com/track/2sLLBFHDmGVKfwt4zYKiKq) | [Himanshu Kaushik](https://open.spotify.com/artist/0hIrW1jncz4tDCnJTm7pfZ), [Ruchika Jangid](https://open.spotify.com/artist/5NgijFuMvkarmVkTpCnwjE), [Shrikant](https://open.spotify.com/artist/1GFXuGQMPwZjdjzwt7WdQe), [Vaishali Chaudhary](https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq) | [GYM \(feat\. Vaishali Chaudhary\)](https://open.spotify.com/album/6xbQfYXB6QUfoVa4okMy8Z) | 2:14 |
 | 30 | [SYSTEM PAAD](https://open.spotify.com/track/5T0zX3YBzgxknRs74X50YM) | [Virat](https://open.spotify.com/artist/3uHCE9eimH5dJx7TLslsmE), [Masoom Sharma](https://open.spotify.com/artist/36iDrP3UnCxsSH9LuSdkDj), [Ashu Twinkle](https://open.spotify.com/artist/5J23fam8Qq5thmzmk91qob), [Vaishali Chaudhary](https://open.spotify.com/artist/1IAz1o1bWqWHYzx0qKoarq) | [SYSTEM PAAD](https://open.spotify.com/album/3mqaU3yGoA1XQXV7dj5t4Z) | 2:35 |
 | 31 | [BROTHERHOOD](https://open.spotify.com/track/3wFvPbq2unoV7EaQUHMQZ4) | [Naveen Chaudhary](https://open.spotify.com/artist/7mG5Kqg1c8YqOjzxwbmdxB), [OG Sandhu](https://open.spotify.com/artist/6BWgZpr1zVC2EYLpTv8ZVE) | [BROTHERHOOD](https://open.spotify.com/album/7FbUkl3XwYstd8g2xI9tQy) | 2:32 |
-| 32 | [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 |
-| 33 | [Whatcha Need?](https://open.spotify.com/track/0Kc6WPFogvELIRDXl43Kx1) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Whatcha Need?](https://open.spotify.com/album/5eFcTIchiD7Ehi3ir2MQZs) | 2:19 |
+| 32 | [Whatcha Need?](https://open.spotify.com/track/0Kc6WPFogvELIRDXl43Kx1) | [Ndee Kundu](https://open.spotify.com/artist/61P6g4b3TgZ9m2caJlXS4K) | [Whatcha Need?](https://open.spotify.com/album/5eFcTIchiD7Ehi3ir2MQZs) | 2:19 |
+| 33 | [Gym De Shokeen](https://open.spotify.com/track/2Nns0ymEJbIYVrihppq73O) | [Bhallwaan](https://open.spotify.com/artist/3FxW0tkjSNrYa2RvxqNKMG) | [Gym De Shokeen](https://open.spotify.com/album/4NXiyOVXNQ6HwGBpNGDF8b) | 3:45 |
 | 34 | [Near By Me](https://open.spotify.com/track/5y8ROfzveFCMOSkkrG3WmU) | [Bintu Pabra](https://open.spotify.com/artist/74L1hcSZY4R6mo3yWNflRe), [Kp Kundu](https://open.spotify.com/artist/23l9mH9i8YE46BCdI6isQn) | [Near By Me](https://open.spotify.com/album/6N66GsbNmVVOEvCUWKw68f) | 3:04 |
 | 35 | [Khappar Bharni](https://open.spotify.com/track/5ASiFCsFP4CxvaCeowGmqC) | [Amit Saini Rohtakiya](https://open.spotify.com/artist/4d8PlD50b5CG0eIBY6jm0b), [kanhoriaalashayar](https://open.spotify.com/artist/3bCwWvSKe3KxvKu32niGQP) | [Khappar Bharni](https://open.spotify.com/album/3nIA8Ef9lif6eBHiNA5ZWl) | 3:13 |
 | 36 | [Chore Haryane Aale](https://open.spotify.com/track/2YTKohkHJHXgRCut4Ew0HS) | [Elvish Yadav](https://open.spotify.com/artist/7IBZqnYGLR2eOTP3YJ1asp), [DG IMMORTALS](https://open.spotify.com/artist/7jbG8tDQ5FmqBbTCj5dJdy), [VIRTUAL\_AF](https://open.spotify.com/artist/1Ik6g05IoSfFmpqi4Jg7Kc), [PINNOCIO](https://open.spotify.com/artist/6iNOTxWm3HgwNKL3MhFvzY), [Ankit Baiyanpuria](https://open.spotify.com/artist/1tYgxFs8KyYSXCfQGFsnsu) | [Chore Haryane Aale](https://open.spotify.com/album/7fd96zMwZ0cbsMCmxHyhLf) | 3:27 |

@@ -4,7 +4,7 @@
 
 > Meet the future of music around the world\. Cover: Maia Reficco
 
-2,481 songs - 5 day 13 hr 16 min
+2,482 songs - 5 day 13 hr 19 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -1542,6 +1542,7 @@
 | [People 365](https://open.spotify.com/track/5GmDbVsfLql2Ltu9Fa6Tkk) | [First Love is Never Returned](https://open.spotify.com/artist/5TSbFJ8iUw0NTXGU9cmasG) | [POP OUT! Ⅱ](https://open.spotify.com/album/1WSGYCNUQ6h1vMME5cAA2d) | 4:36 | 2024-04-19 | 2024-08-27 |
 | [people pleaser](https://open.spotify.com/track/3UEOT0hD60yGB1OMWJxLQ8) | [Cat Burns](https://open.spotify.com/artist/6WFDpw4u23uSpon4BHvFRn) | [people pleaser / sleep at night](https://open.spotify.com/album/6zMAsUOpcpxqOCjYAIku7C) | 2:26 | 2022-10-06 | 2023-05-31 |
 | [Per sentirsi meno soli](https://open.spotify.com/track/23C3f0TckAwl0PFWXqDDKz) | [piazzabologna](https://open.spotify.com/artist/5Sae4YeLcFZ1P75vhzUDrp), [FIAT131](https://open.spotify.com/artist/517LowCOyXMoAyEYVK3nuA), [Antonello Venditti](https://open.spotify.com/artist/3hYLJPJuDyblFKersEaFd6) | [Per sentirsi meno soli](https://open.spotify.com/album/3wy8IYXn4kEco6DoCn0imf) | 2:10 | 2023-04-12 | 2023-10-21 |
+| [Perderte](https://open.spotify.com/track/7FXn0TLF8sxLG6l9kUtJij) | [Gara Durán](https://open.spotify.com/artist/1va3Zo4O6kJSYZ40c8D0Ag) | [Perderte](https://open.spotify.com/album/0yE4QsghHbOQZfhkRch9nF) | 3:04 | 2026-09-18 |  |
 | [Pergilah Cinta](https://open.spotify.com/track/1vfkegBOtAeEz9QL9TPe5q) | [Danial Kifli](https://open.spotify.com/artist/1M0tSSp60yHTRB36GTofGx) | [Pergilah Cinta](https://open.spotify.com/album/5S531uFkP9huwujuoiif1D) | 3:58 | 2025-04-18 | 2025-09-10 |
 | [Pernah Dicinta](https://open.spotify.com/track/3H1rqS1WKdTGbO27XETY8V) | [Elsa Japasal](https://open.spotify.com/artist/0tb30aVXPH9L9CRckFuBaB) | [Pernah Dicinta](https://open.spotify.com/album/6TWJ0R2mziIZM97nBmAnQZ) | 4:16 | 2025-04-18 | 2025-09-10 |
 | [Pernah Salah](https://open.spotify.com/track/1DLIKbsOcsNAoRLlGq6nJM) | [Mawar de Jongh](https://open.spotify.com/artist/6RoZip1Hn7ahR6MjzBKKLK) | [Pernah Salah](https://open.spotify.com/album/3I2QEgfVkBOKLLJAqaegoB) | 4:18 | 2022-02-03 | 2022-03-16 |
@@ -2156,7 +2157,7 @@
 | [where's the confetti?](https://open.spotify.com/track/3VL3aSOA8O3b5iOVBkD9iD) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 3:20 | 2023-10-13 | 2024-04-19 |
 | [where's your girlfriend](https://open.spotify.com/track/3a660Cnhydjs5O5g0yQ1ME) | [CON THE ARTIST](https://open.spotify.com/artist/7LVgykYWodtSi56b9cf9nz) | [where's your girlfriend](https://open.spotify.com/album/4allJNrFZH7Ob9jO98TofS) | 3:33 | 2026-05-15 | 2026-06-20 |
 | [WHERE’S THE FUN?](https://open.spotify.com/track/0vkms3fyDNfdg2TeOsGb2d) | [Eileen Alister](https://open.spotify.com/artist/2XPubfqZp6J4uEEJop2OL2) | [WHERE’S THE FUN?](https://open.spotify.com/album/2OVG4Je9r0VZHL6afteMDl) | 3:25 | 2026-06-19 | 2026-07-25 |
-| [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 | 2026-08-21 |  |
+| [WHIP](https://open.spotify.com/track/5VSUBxfNbjniBXbK4vjg72) | [Magi Merlin](https://open.spotify.com/artist/6uOvQgcFOmdzhunx7n83J2) | [POWER HOUSE](https://open.spotify.com/album/5kUUGiBRGfcA8tN0b79Z7h) | 3:12 | 2026-08-21 | 2026-09-22 |
 | [WHITE RABBIT](https://open.spotify.com/track/39VNot2WGk4Xj1ncP0Hj47) | [Daou Pittaya](https://open.spotify.com/artist/4qy25DAcdjRkcQkjxMcUmf) | [WHITE RABBIT](https://open.spotify.com/album/7BpPRBr9YRghxFoNpzEC61) | 2:42 | 2025-12-03 | 2026-01-17 |
 | [Who Do I Call?](https://open.spotify.com/track/7luOSOrHYssQ1usmsFbc66) | [Nathanie](https://open.spotify.com/artist/2n9S44nEklHQjqX0pedw8P) | [Who Do I Call?](https://open.spotify.com/album/7245tBW17hLcjSaOsn5k8n) | 1:54 | 2022-03-24 | 2022-08-02 |
 | [who's he gonna take home](https://open.spotify.com/track/6RmC8PwJ4qwVM1d6j2hfn2) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [who’s he gonna take home](https://open.spotify.com/album/6uqrJkdDkQgi61cLkTRqCw) | 2:20 | 2024-05-10 | 2024-06-02 |

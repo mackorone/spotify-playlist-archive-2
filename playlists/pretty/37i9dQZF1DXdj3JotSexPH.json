@@ -1,6 +1,6 @@
 {
   "description": "\u0627\u0636\u063a\u0637 \u0644\u0644\u0628\u062f\u0621",
-  "num_followers": 35913,
+  "num_followers": 35910,
   "original_name": "Yalla Gaming",
   "owner": {
     "name": "Spotify",
@@ -1287,6 +1287,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "AVANGARD",
+        "url": "https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc"
+      },
+      "artists": [
+        {
+          "name": "LONOWN",
+          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
+        }
+      ],
+      "duration_ms": 156843,
+      "name": "AVANGARD",
+      "url": "https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "i like the way you kiss me (remixes)",
         "url": "https://open.spotify.com/album/7jYsvUIbj8OktGfdnCU4LB"
       },
@@ -1307,22 +1323,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "AVANGARD",
-        "url": "https://open.spotify.com/album/0E77ZcJUnLuD3mijSftoLc"
-      },
-      "artists": [
-        {
-          "name": "LONOWN",
-          "url": "https://open.spotify.com/artist/700c9Qz2z6HZKTumeliKAw"
-        }
-      ],
-      "duration_ms": 156843,
-      "name": "AVANGARD",
-      "url": "https://open.spotify.com/track/0Ga86OpGoHJ5XjyfxYc4ov"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Azul",
         "url": "https://open.spotify.com/album/78gBvcyXKwElhWgNWECcD4"
       },
@@ -1335,6 +1335,26 @@
       "duration_ms": 226831,
       "name": "Azul",
       "url": "https://open.spotify.com/track/1KOTY2OVnEgua9eY76WxvT"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "ONE FOR YOU",
+        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
+      },
+      "artists": [
+        {
+          "name": "ALLEYCVT",
+          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
+        },
+        {
+          "name": "Levity",
+          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
+        }
+      ],
+      "duration_ms": 152516,
+      "name": "ONE FOR YOU",
+      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1359,26 +1379,6 @@
       "duration_ms": 227735,
       "name": "\u2060\u2060Butterflies",
       "url": "https://open.spotify.com/track/129zR3hX9D2BYXOMtk2jaT"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "ONE FOR YOU",
-        "url": "https://open.spotify.com/album/5HSr7vEpd8zbvP4F0hquzd"
-      },
-      "artists": [
-        {
-          "name": "ALLEYCVT",
-          "url": "https://open.spotify.com/artist/4JxRK2gxmri7L7OWaxnVD1"
-        },
-        {
-          "name": "Levity",
-          "url": "https://open.spotify.com/artist/1PbO7aQiVeKbGp8GYWDL9C"
-        }
-      ],
-      "duration_ms": 152516,
-      "name": "ONE FOR YOU",
-      "url": "https://open.spotify.com/track/3b26vJtV7KETHKtu4sxabB"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -1695,6 +1695,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "TOKYO DRIFT",
+        "url": "https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi"
+      },
+      "artists": [
+        {
+          "name": "PRXSXNT FXTURE",
+          "url": "https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw"
+        }
+      ],
+      "duration_ms": 124033,
+      "name": "TOKYO DRIFT",
+      "url": "https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "Lost In Time",
         "url": "https://open.spotify.com/album/1c7o9ajxJB1Cz3KuncnLDz"
       },
@@ -1715,22 +1731,6 @@
       "duration_ms": 147777,
       "name": "Lost In Time",
       "url": "https://open.spotify.com/track/4LcxZayrPlz96szZpTDvBV"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
-        "name": "TOKYO DRIFT",
-        "url": "https://open.spotify.com/album/2bs5hKmaQWtUrFXjARZggi"
-      },
-      "artists": [
-        {
-          "name": "PRXSXNT FXTURE",
-          "url": "https://open.spotify.com/artist/1KS3HFd7XL75m0ieoDhFvw"
-        }
-      ],
-      "duration_ms": 124033,
-      "name": "TOKYO DRIFT",
-      "url": "https://open.spotify.com/track/733RnlYLskyvWMhhzs70sy"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2039,22 +2039,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "oknottobeok",
-        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
-      },
-      "artists": [
-        {
-          "name": "okgiorgio",
-          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
-        }
-      ],
-      "duration_ms": 204788,
-      "name": "oknottobeok",
-      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "Echo Chamber",
         "url": "https://open.spotify.com/album/2TjelVZVTDssWHvROGDyC4"
       },
@@ -2075,22 +2059,18 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Feel the Beat",
-        "url": "https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO"
+        "name": "oknottobeok",
+        "url": "https://open.spotify.com/album/7Dt32PFY41gLe16zWQFFPh"
       },
       "artists": [
         {
-          "name": "LB aka LABAT",
-          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
-        },
-        {
-          "name": "Partiboi69",
-          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+          "name": "okgiorgio",
+          "url": "https://open.spotify.com/artist/3SAZh4k4iDPFngB60QKpxg"
         }
       ],
-      "duration_ms": 397189,
-      "name": "Feel the Beat - Partiboi69 Remix",
-      "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
+      "duration_ms": 204788,
+      "name": "oknottobeok",
+      "url": "https://open.spotify.com/track/5JAtlL8M4CyF9gbgd9jUab"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2107,6 +2087,26 @@
       "duration_ms": 171066,
       "name": "don't need u (i do)",
       "url": "https://open.spotify.com/track/1cPDRuKq2ghZrBu1VoktKD"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
+        "name": "Feel the Beat",
+        "url": "https://open.spotify.com/album/4izfgFschtwTedFJH5b4rO"
+      },
+      "artists": [
+        {
+          "name": "LB aka LABAT",
+          "url": "https://open.spotify.com/artist/02fHczhlgEBCCjzjsNvJAh"
+        },
+        {
+          "name": "Partiboi69",
+          "url": "https://open.spotify.com/artist/0CutULGVZ24wOr1HHYoEOL"
+        }
+      ],
+      "duration_ms": 397189,
+      "name": "Feel the Beat - Partiboi69 Remix",
+      "url": "https://open.spotify.com/track/2wNEBBr52TumYRmtYH1ocC"
     },
     {
       "added_at": "2026-04-13 15:38:24",
@@ -2207,30 +2207,6 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "MONTAGEM - PR FUNK",
-        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
-      },
-      "artists": [
-        {
-          "name": "S3BZS",
-          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
-        },
-        {
-          "name": "Mc Gw",
-          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
-        },
-        {
-          "name": "Mc Menor Do Alvorada",
-          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
-        }
-      ],
-      "duration_ms": 61634,
-      "name": "MONTAGEM - PR FUNK",
-      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
-    },
-    {
-      "added_at": "2026-04-13 15:38:24",
-      "album": {
         "name": "G\u00cdRIA",
         "url": "https://open.spotify.com/album/4LPcwAvRQ5GxCd9SzBdJM8"
       },
@@ -2259,6 +2235,22 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
+        "name": "Fast Money",
+        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
+      },
+      "artists": [
+        {
+          "name": "PITCHBLACK",
+          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+        }
+      ],
+      "duration_ms": 142529,
+      "name": "Fast Money",
+      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
+    },
+    {
+      "added_at": "2026-04-13 15:38:24",
+      "album": {
         "name": "As The Pendulum Swings",
         "url": "https://open.spotify.com/album/6lWtjIwHMyJdZlRaiGwVnd"
       },
@@ -2283,18 +2275,26 @@
     {
       "added_at": "2026-04-13 15:38:24",
       "album": {
-        "name": "Fast Money",
-        "url": "https://open.spotify.com/album/20mnxDAUfgNVr3KkxrwEaN"
+        "name": "MONTAGEM - PR FUNK",
+        "url": "https://open.spotify.com/album/2HuMAoXpr6HDryNHipbCpB"
       },
       "artists": [
         {
-          "name": "PITCHBLACK",
-          "url": "https://open.spotify.com/artist/0BHh71bPCPBbZDDCb3jaHW"
+          "name": "S3BZS",
+          "url": "https://open.spotify.com/artist/6zFMFB1JvNHkHvCSudF4id"
+        },
+        {
+          "name": "Mc Gw",
+          "url": "https://open.spotify.com/artist/0f1IECbrVV952unZkzrsg2"
+        },
+        {
+          "name": "Mc Menor Do Alvorada",
+          "url": "https://open.spotify.com/artist/0ivrHNM8urVaCkgRX8rtKH"
         }
       ],
-      "duration_ms": 142529,
-      "name": "Fast Money",
-      "url": "https://open.spotify.com/track/4HfiqUIw23qtbd9Wv58o0q"
+      "duration_ms": 61634,
+      "name": "MONTAGEM - PR FUNK",
+      "url": "https://open.spotify.com/track/6njJR3OIp3oA0Kc4aC9Tzf"
     },
     {
       "added_at": "2026-04-13 15:38:24",

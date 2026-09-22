@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 
 > Um pouco de reggae pra acompanhar a brisa do mar.
 
-[Spotify](https://open.spotify.com/user/spotify) - 420,406 likes - 75 songs - 4 hr 12 min
+[Spotify](https://open.spotify.com/user/spotify) - 420,411 likes - 75 songs - 4 hr 12 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,11 +28,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 18 | [Liberdade](https://open.spotify.com/track/3k7D91v3eUTY4yZbBwwbDZ) | [Gabriel O Pensador](https://open.spotify.com/artist/5BWqFYIPTnFx3OPWOoJvmD), [Armandinho](https://open.spotify.com/artist/3h7RaVXBvdSNa7LXQtVYqH) | [Antídoto Pra Todo Tipo de Veneno](https://open.spotify.com/album/5564Nl3uMeEUisl4Vz7JXK) | 3:05 |
 | 19 | [Pé na Areia](https://open.spotify.com/track/0rjLArKWivN8Yr92shllXF) | [MaLu](https://open.spotify.com/artist/5UAjN5x2sXD7mf8W0ehJAC) | [Café da MaLu, Vol\. 04](https://open.spotify.com/album/2QlHzW201MuSYycjwacPzD) | 2:43 |
 | 20 | [Vitória](https://open.spotify.com/track/7Cm5N53OPd5szi1KsD4a1d) | [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Vitória](https://open.spotify.com/album/0ZVIlN470lRMTipVeCUkJw) | 3:29 |
-| 21 | [Denso e Danço](https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:37 |
-| 22 | [Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Oh! Chuva \(Ao Vivo\)](https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK) | 3:14 |
+| 21 | [Oh! Chuva \- Ao Vivo](https://open.spotify.com/track/6pGzovjfmkZTwWZ5wMW5MZ) | [Falamansa](https://open.spotify.com/artist/6uTK3YD9CT3pLx2yEfVmXk), [Marcelo Falcão](https://open.spotify.com/artist/4r6d4drhz83kHCRVJnzgdr) | [Oh! Chuva \(Ao Vivo\)](https://open.spotify.com/album/1XvZ3fUOBfrvserZuP5DDK) | 3:14 |
+| 22 | [Denso e Danço](https://open.spotify.com/track/2xhFW63RJ7uFVp333kJ4ON) | [Agnes Nunes](https://open.spotify.com/artist/0OVOH98bZTn0lsdL7MclGw) | [Novela](https://open.spotify.com/album/2r8MFQSbAP5jB74eCRE6zx) | 3:37 |
 | 23 | [Incenso \- Ao Vivo](https://open.spotify.com/track/7eD9Z1zuAAb45QMAewX1SY) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb) | [Maneva 20 Anos, Origem \- Ao Vivo](https://open.spotify.com/album/3SIvQGMHVSFFR7br8uCsRr) | 2:32 |
-| 24 | [Time Won’t Wait](https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Time Won’t Wait](https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2) | 3:30 |
-| 25 | [Brisa Positiva](https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Brisa Positiva](https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT) | 3:24 |
+| 24 | [Brisa Positiva](https://open.spotify.com/track/0Yn9FO2pWt8vjHPIDjXrZE) | [Chimarruts](https://open.spotify.com/artist/6rNz4V8ocdBOLgXmLxLVcW) | [Brisa Positiva](https://open.spotify.com/album/5OWNjD9yPqqBGLfZcYuerT) | 3:24 |
+| 25 | [Time Won’t Wait](https://open.spotify.com/track/3wbqx5euzFgiPWg6zQRK7J) | [SOJA](https://open.spotify.com/artist/2vaWvC8suCFkRXejDOK7EE), [Di Ferrero](https://open.spotify.com/artist/2aimTInXI8IgnUeEwu25mB) | [Time Won’t Wait](https://open.spotify.com/album/53BphEUeLMphh5CCKe8Uo2) | 3:30 |
 | 26 | [Flor de Aruanda](https://open.spotify.com/track/53UWKafwpKToHDBB286Q0e) | [Rael](https://open.spotify.com/artist/0GWNKI3VPEcJsOIEhUjmxd) | [Flor de Aruanda](https://open.spotify.com/album/0zIowT1jTcN8v8bFa8t0Er) | 3:03 |
 | 27 | [Eita](https://open.spotify.com/track/2jpk5ZjsJ2sF26TR4fv2CU) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eita](https://open.spotify.com/album/74C6nKytgeKGdnw4yyblzH) | 3:03 |
 | 28 | [Tempestade](https://open.spotify.com/track/4nuC7MlHT9NOI8byXPn2da) | [Maneva](https://open.spotify.com/artist/1OFP2fSFWTfJ80rzUo5AGb), [Tati Portella](https://open.spotify.com/artist/0n1wKapVwhPJKt0REzPNfb) | [Tempestade](https://open.spotify.com/album/40wQAuq0wltC894JGWkxi6) | 2:42 |
@@ -84,4 +84,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1AjDRHleN7v.md) - [plain]
 | 74 | [Esotérico \- Regravação Take 01](https://open.spotify.com/track/5B4daMtt3TIB14vjYNHsjl) | [Gilberto Gil](https://open.spotify.com/artist/7oEkUINVIj1Nr3Wnj8tzqr) | [Um banda um](https://open.spotify.com/album/5UTteAAgtY5kX2vsb2EaWE) | 4:28 |
 | 75 | [Eu e Você](https://open.spotify.com/track/0S9n9al5pLhGJyp4NHX59Z) | [Gabriel Elias](https://open.spotify.com/artist/5M06IyTZgyRlWeNjazqsZK) | [Eu e Você](https://open.spotify.com/album/3dcLZdAGzgyfd04Ty7gatO) | 3:05 |
 
-Snapshot ID: `AAAAAO/9CSuAtQYI7foCjP0ehQljF4o3`
+Snapshot ID: `AAAAAHCOW57S76leI9Rm9gKnD3iEpoL6`

@@ -1,6 +1,6 @@
 {
   "description": "Gotowi na pumpkin spice latte? \ud83c\udf42\ud83c\udf83\u2615",
-  "num_followers": 342390,
+  "num_followers": 342490,
   "original_name": "Jesienny chill",
   "owner": {
     "name": "Spotify",
@@ -511,26 +511,6 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "folklore (deluxe version)",
-        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
-      },
-      "artists": [
-        {
-          "name": "Taylor Swift",
-          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
-        },
-        {
-          "name": "Bon Iver",
-          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
-        }
-      ],
-      "duration_ms": 285640,
-      "name": "exile (feat. Bon Iver)",
-      "url": "https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
         "name": "GET EVEN",
         "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
       },
@@ -551,18 +531,22 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
-        "name": "Stygnie lato",
-        "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
+        "name": "folklore (deluxe version)",
+        "url": "https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK"
       },
       "artists": [
         {
-          "name": "Kuba i Kuba",
-          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+          "name": "Taylor Swift",
+          "url": "https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02"
+        },
+        {
+          "name": "Bon Iver",
+          "url": "https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ"
         }
       ],
-      "duration_ms": 181846,
-      "name": "Stygnie lato",
-      "url": "https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0"
+      "duration_ms": 285640,
+      "name": "exile (feat. Bon Iver)",
+      "url": "https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -579,6 +563,22 @@
       "duration_ms": 194103,
       "name": "Write Me A Letter",
       "url": "https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
+        "name": "Stygnie lato",
+        "url": "https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn"
+      },
+      "artists": [
+        {
+          "name": "Kuba i Kuba",
+          "url": "https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh"
+        }
+      ],
+      "duration_ms": 181846,
+      "name": "Stygnie lato",
+      "url": "https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0"
     },
     {
       "added_at": "2026-09-18 07:26:29",
@@ -883,6 +883,22 @@
     {
       "added_at": "2026-09-18 07:26:29",
       "album": {
+        "name": "Stuck",
+        "url": "https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb"
+      },
+      "artists": [
+        {
+          "name": "Basia Ma\u0142ecka",
+          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
+        }
+      ],
+      "duration_ms": 141984,
+      "name": "Stuck",
+      "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
+    },
+    {
+      "added_at": "2026-09-18 07:26:29",
+      "album": {
         "name": "30m2",
         "url": "https://open.spotify.com/album/0jJ4AKJYWtzowEvXXPlwEj"
       },
@@ -899,22 +915,6 @@
       "duration_ms": 178000,
       "name": "30m2",
       "url": "https://open.spotify.com/track/6b5Bgo6ucY2DRq6lgf0DVd"
-    },
-    {
-      "added_at": "2026-09-18 07:26:29",
-      "album": {
-        "name": "Stuck",
-        "url": "https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb"
-      },
-      "artists": [
-        {
-          "name": "Basia Ma\u0142ecka",
-          "url": "https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY"
-        }
-      ],
-      "duration_ms": 141984,
-      "name": "Stuck",
-      "url": "https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw"
     },
     {
       "added_at": "2026-09-18 07:26:29",

@@ -187,6 +187,28 @@
     },
     {
       "album": {
+        "name": "Bienvenidos a Durango (En Vivo)",
+        "url": "https://open.spotify.com/album/4im9qFr0WIwHxcjzznVO1u"
+      },
+      "artists": [
+        {
+          "name": "Arley Perez",
+          "url": "https://open.spotify.com/artist/63zgw9LU9aqnuHnvHr3ZUZ"
+        },
+        {
+          "name": "Panter B\u00e9lico",
+          "url": "https://open.spotify.com/artist/7pESOE4dEq8Yk4OKlJa3pS"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 231722,
+      "name": "Bienvenidos a Durango (En Vivo)",
+      "url": "https://open.spotify.com/track/3LzboWQw4FoBoaxR15ByQQ"
+    },
+    {
+      "album": {
         "name": "Culiac\u00e1n Deluxe (En Vivo)",
         "url": "https://open.spotify.com/album/5mu67EL1k1lgn9uXjbxNHf"
       },

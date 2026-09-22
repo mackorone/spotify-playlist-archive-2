@@ -36,8 +36,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 26 | [Too Easy](https://open.spotify.com/track/1gDfAiHvXdPXlUlaWcfxNS) | [Tinashe](https://open.spotify.com/artist/0NIIxcxNHmOoyBx03SfTCD) | [Too Easy](https://open.spotify.com/album/69KTB2HVrTKtY8eIPLcHTc) | 1:54 |
 | 27 | [Blackberry Sap \(with Ari Lennox\)](https://open.spotify.com/track/5xpU73nutoJizKpX3TZRhS) | [Dreamville](https://open.spotify.com/artist/1iNqsUDUraNWrj00bqssQG), [Ari Lennox](https://open.spotify.com/artist/1vaQ6v3pOFxAIrFoPrAcom) | [D\-Day: A Gangsta Grillz Mixtape](https://open.spotify.com/album/3tFjhFPqGhhLrCULnPu7Wy) | 2:29 |
 | 28 | [Sunset](https://open.spotify.com/track/1qYnqHydtG4iV9YenAz8Ux) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [Dancing With The Devil…The Art of Starting Over \(Deluxe Edition\)](https://open.spotify.com/album/2zbfishc70HpcgMu8ymtri) | 4:04 |
-| 29 | [Çike Çike](https://open.spotify.com/track/1i0H5CstsEIWguEV7z6cNT) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:19 |
-| 30 | [Pretty Eyes \(feat\. FLO\)](https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Pretty Eyes](https://open.spotify.com/album/1XqkZ8GL8MHY3RG5B6IXBZ) | 3:09 |
+| 29 | [Pretty Eyes \(feat\. FLO\)](https://open.spotify.com/track/7CVAj2VLKIQQjFTTd3nYh5) | [sunkis](https://open.spotify.com/artist/4EKSBwzbRW2YnMP5JXnXYr), [FLO](https://open.spotify.com/artist/0s4kXsjYeH0S1xRyVGN4NO) | [Pretty Eyes](https://open.spotify.com/album/1XqkZ8GL8MHY3RG5B6IXBZ) | 3:09 |
+| 30 | [Çike Çike](https://open.spotify.com/track/1i0H5CstsEIWguEV7z6cNT) | [Bebe Rexha](https://open.spotify.com/artist/64M6ah0SkkRsnPGtGiRAbb) | [DIRTY BLONDE](https://open.spotify.com/album/2VcEHKTpMRNDRsWZ1cB8tG) | 2:19 |
 | 31 | [Yeah Yeah Yeah](https://open.spotify.com/track/1Z6yAybe9wz2Revpfy5eSa) | [WayV](https://open.spotify.com/artist/1qBsABYUrxg9afpMtyoFKz) | [Take Over The Moon \- The 2nd Mini Album](https://open.spotify.com/album/4ha80ucjDvhmQPLT77yyob) | 3:18 |
 | 32 | [Kickin' Pushin'](https://open.spotify.com/track/1ge67dpLAdg7HQzFxSjMGH) | [Destiny Rogers](https://open.spotify.com/artist/6gezkje7GoJlQbHBgLXHuu) | [Great Escape](https://open.spotify.com/album/1fTkNWLxLiuQZ4u5sdGXps) | 3:16 |
 | 33 | [Joshua Tree](https://open.spotify.com/track/6HzNXN730dXkoUeSlPFWrv) | [Demi Lovato](https://open.spotify.com/artist/6S2OmqARrzebs0tKUEyXyp) | [It’s Not That Deep \(Little Bit Extra Version\)](https://open.spotify.com/album/38jx3wDxS45zzKUIeAE4Z7) | 3:23 |
@@ -115,4 +115,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFR1U4quwaERH.md) - [plain]
 | 105 | [WADE](https://open.spotify.com/track/4oZRhm2x62qN6prKI3S4fO) | [Parker Phillips](https://open.spotify.com/artist/4G4U0Pmtl0I2JKqI7uvsJw) | [AWAKENING](https://open.spotify.com/album/4xblTWNkBQJQQF9l5p9suu) | 2:46 |
 | 106 | [Fire](https://open.spotify.com/track/3Ic9ajFl2aBmmQFXQus3Ed) | [Hawk Love](https://open.spotify.com/artist/3mNH3Eq13YnMTwo8vWwwTR) | [Fire](https://open.spotify.com/album/1h88EmeUgoP9Yjpdhz60Jh) | 4:16 |
 
-Snapshot ID: `Acc2BgAAAADtGXf3KawNzdhNlJj6eIzk`
+Snapshot ID: `Acc7ugAAAADF6CmKMsutntHtmK54j/rp`

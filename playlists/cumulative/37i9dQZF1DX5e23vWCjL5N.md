@@ -4,7 +4,7 @@
 
 > Punchline, storytelling, rap italiano\. Ele A in cover.
 
-455 songs - 23 hr 8 min
+456 songs - 23 hr 12 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -255,6 +255,7 @@
 | [Lilith](https://open.spotify.com/track/6YB8rH5Lr340A4ps8eV7hw) | [Kid Yugi](https://open.spotify.com/artist/0EUR8jz8L936AEbV2Spkca) | [I Nomi del Diavolo](https://open.spotify.com/album/1WeHoP0y9QcQqgpa5xgMAh) | 2:44 | 2024-03-15 | 2026-02-06 |
 | [Lo sai solo tu](https://open.spotify.com/track/5dA4w92G7FYSemcsXc7Idr) | [L'Elfo](https://open.spotify.com/artist/3QJjzLwRMgdGoFwzmVodxJ) | [Lo sai solo tu](https://open.spotify.com/album/2Tm1vK1bcf92x9sAv6phqX) | 2:41 | 2024-11-28 | 2025-01-10 |
 | [Lo\-fi For U](https://open.spotify.com/track/7GtexZT8gVCDExYIeUWnl9) | [Tedua](https://open.spotify.com/artist/1AgAVqo74e2q4FVvg0xpT7) | [Lo\-fi For U](https://open.spotify.com/album/0qQy8Go8njStQdH92jsSrb) | 3:23 | 2022-12-06 | 2025-12-12 |
+| [Lontano](https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV) | [Sfera Ebbasta](https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz) | [Lontano](https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h) | 3:49 | 2026-09-21 |  |
 | [LONTANO \- carlito's way](https://open.spotify.com/track/2t1dculU2L9HxEIzB00Xpk) | [Emis Killa](https://open.spotify.com/artist/6FtwCmLY6L1sqvjaQ2lV6G), [Neima Ezza](https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK) | [Effetto notte](https://open.spotify.com/album/39wuRno08Rl0Jsse2kCHga) | 2:46 | 2023-05-18 | 2023-12-01 |
 | [Lontano Dai Guai \(feat\. Mahmood\)](https://open.spotify.com/track/2CeXk2ZsTwmJFBWXUSXPzf) | [Guè](https://open.spotify.com/artist/7F2utINZ6tSokSiZTQBE27), [Mahmood](https://open.spotify.com/artist/06nvjg4wBANK6DCHjqtPNd) | [Madreperla](https://open.spotify.com/album/5FnVg6RBrEFUIEpHRw8EB1) | 3:40 | 2023-01-13 | 2023-03-18 |
 | [LORO](https://open.spotify.com/track/0A85tPJ5uRYudixySOsfIV) | [Marracash](https://open.spotify.com/artist/5AZuEF0feCXMkUCwQiQlW7) | [NOI, LORO, GLI ALTRI](https://open.spotify.com/album/2UgbcJeoUQ0m1gbLZNDZgp) | 3:18 | 2022-04-15 | 2025-04-19 |

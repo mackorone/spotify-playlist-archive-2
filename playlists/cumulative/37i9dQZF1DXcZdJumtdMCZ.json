@@ -5753,6 +5753,32 @@
     },
     {
       "album": {
+        "name": "Poda Padichiruken (From \"Meesaya Murukku 2\")",
+        "url": "https://open.spotify.com/album/4NViFR18eQC2RwFuEWhciO"
+      },
+      "artists": [
+        {
+          "name": "Hiphop Tamizha",
+          "url": "https://open.spotify.com/artist/7zFBW2JxM4bgTTKxCRcS8Q"
+        },
+        {
+          "name": "Gana Bala",
+          "url": "https://open.spotify.com/artist/6HtEIJH43LAZGQx6iNCqhg"
+        },
+        {
+          "name": "V.M. Mahalingam",
+          "url": "https://open.spotify.com/artist/6mHtkNCvRoFV9XMzvjSF1u"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147432,
+      "name": "Poda Padichiruken (From \"Meesaya Murukku 2\")",
+      "url": "https://open.spotify.com/track/1wPw9YNuLa8qsPBU9prAGN"
+    },
+    {
+      "album": {
         "name": "Podu Mike",
         "url": "https://open.spotify.com/album/1J2DFOau5e9iYK3JSAy4sh"
       },
@@ -5874,6 +5900,24 @@
       "duration_ms": 193469,
       "name": "Por Veeran (Azadi) (From \"Amaran\") (Tamil)",
       "url": "https://open.spotify.com/track/4afPWR4cRco3xv4yVrcr0n"
+    },
+    {
+      "album": {
+        "name": "Porada Kadha",
+        "url": "https://open.spotify.com/album/55mzVvZGfvzPnBV1DXygLj"
+      },
+      "artists": [
+        {
+          "name": "Da Papes",
+          "url": "https://open.spotify.com/artist/7GhVU0cLmPZ0H0MQm8ESXp"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 160263,
+      "name": "Porada Kadha",
+      "url": "https://open.spotify.com/track/6pypIHzckWUHEyK2bdfFyo"
     },
     {
       "album": {
@@ -8500,7 +8544,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 171789,
       "name": "Ve.Now Intro",
       "url": "https://open.spotify.com/track/1HbJIKuARoPOwT8doyZ2OB"

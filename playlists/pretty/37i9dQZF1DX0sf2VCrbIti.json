@@ -1111,6 +1111,22 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
+        "name": "Sentimental de Punta a Punta",
+        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+      },
+      "artists": [
+        {
+          "name": "Guayac\u00e1n Orquesta",
+          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+        }
+      ],
+      "duration_ms": 325642,
+      "name": "Oiga, Mire, Vea",
+      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
+    },
+    {
+      "added_at": "2025-10-24 15:29:30",
+      "album": {
         "name": "El Baile del Siglo Con Joe Arroyo",
         "url": "https://open.spotify.com/album/3vQgQ8nrQDTop2ycPhFkTp"
       },
@@ -1131,18 +1147,18 @@
     {
       "added_at": "2025-10-24 15:29:30",
       "album": {
-        "name": "Sentimental de Punta a Punta",
-        "url": "https://open.spotify.com/album/0MMzGqy6fMEb6ktGTuxEm2"
+        "name": "Paso Firme",
+        "url": "https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP"
       },
       "artists": [
         {
-          "name": "Guayac\u00e1n Orquesta",
-          "url": "https://open.spotify.com/artist/2pZ81eCkqxemIjqqfE1fhE"
+          "name": "Eddy Herrera",
+          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
         }
       ],
-      "duration_ms": 325642,
-      "name": "Oiga, Mire, Vea",
-      "url": "https://open.spotify.com/track/17Sfr3T1chYPGcmM4VlhCh"
+      "duration_ms": 282706,
+      "name": "A Dormir Juntitos - Liz featuring Eddy Herrera",
+      "url": "https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D"
     },
     {
       "added_at": "2025-10-24 15:29:30",
@@ -1159,22 +1175,6 @@
       "duration_ms": 157826,
       "name": "El Merecumbe",
       "url": "https://open.spotify.com/track/6Ni5cSEp0cNutVN0w2578Y"
-    },
-    {
-      "added_at": "2025-10-24 15:29:30",
-      "album": {
-        "name": "Paso Firme",
-        "url": "https://open.spotify.com/album/2PTAdKOYVSne2pTCLnjRtP"
-      },
-      "artists": [
-        {
-          "name": "Eddy Herrera",
-          "url": "https://open.spotify.com/artist/4yNdrUaF54csrLixVTnqzC"
-        }
-      ],
-      "duration_ms": 282706,
-      "name": "A Dormir Juntitos - Liz featuring Eddy Herrera",
-      "url": "https://open.spotify.com/track/3mra5ShNolELD0KNrMQo9D"
     },
     {
       "added_at": "2025-10-24 15:29:30",

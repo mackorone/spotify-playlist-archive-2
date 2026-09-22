@@ -1,6 +1,6 @@
 {
   "description": "\uc194\ub85c\uc5ec\ub3c4 \uad1c\ucc2e\uc740 \ub098\ub97c \uc704\ud55c \ub178\ub798\ub4e4",
-  "num_followers": 21340,
+  "num_followers": 21344,
   "original_name": "I'M FINE, SOLO. AND U?",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
+        "name": "Ask Bout Me",
+        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+      },
+      "artists": [
+        {
+          "name": "Jay Park",
+          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+        }
+      ],
+      "duration_ms": 221693,
+      "name": "Sexy 4 Eva",
+      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
         "name": "4444",
         "url": "https://open.spotify.com/album/3gl255N0kUUIkK0GgelT3j"
       },
@@ -851,18 +867,18 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
-        "name": "Ask Bout Me",
-        "url": "https://open.spotify.com/album/6XlL7j4p0WXpm1y8HqnBmM"
+        "name": "Love Part 1",
+        "url": "https://open.spotify.com/album/5erBmgThxgKG4bhsraVOTX"
       },
       "artists": [
         {
-          "name": "Jay Park",
-          "url": "https://open.spotify.com/artist/4XDi67ZENZcbfKnvMnTYsI"
+          "name": "Colde",
+          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
         }
       ],
-      "duration_ms": 221693,
-      "name": "Sexy 4 Eva",
-      "url": "https://open.spotify.com/track/1RPQAYvomUz5QAim2hj6cn"
+      "duration_ms": 192000,
+      "name": "You don't need my love?",
+      "url": "https://open.spotify.com/track/51bYu6E40GyZRu6ce6DVEB"
     },
     {
       "added_at": "2026-07-03 07:32:57",
@@ -879,22 +895,6 @@
       "duration_ms": 222826,
       "name": "Yesterday You Left Me",
       "url": "https://open.spotify.com/track/4iJZ12gvcunf80gym7qEM2"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
-        "name": "Love Part 1",
-        "url": "https://open.spotify.com/album/5erBmgThxgKG4bhsraVOTX"
-      },
-      "artists": [
-        {
-          "name": "Colde",
-          "url": "https://open.spotify.com/artist/3VQDqjQ4wJyw8PzpGdlZpB"
-        }
-      ],
-      "duration_ms": 192000,
-      "name": "You don't need my love?",
-      "url": "https://open.spotify.com/track/51bYu6E40GyZRu6ce6DVEB"
     },
     {
       "added_at": "2026-07-03 07:32:57",
@@ -931,26 +931,6 @@
     {
       "added_at": "2026-07-03 07:32:57",
       "album": {
-        "name": "SELFISH",
-        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
-      },
-      "artists": [
-        {
-          "name": "Moon Byul",
-          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
-        },
-        {
-          "name": "SEULGI",
-          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
-        }
-      ],
-      "duration_ms": 192577,
-      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
-      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
-    },
-    {
-      "added_at": "2026-07-03 07:32:57",
-      "album": {
         "name": "TOAST",
         "url": "https://open.spotify.com/album/7zj1ryzYXQdewJ1bWQaHbJ"
       },
@@ -971,6 +951,26 @@
       "duration_ms": 223973,
       "name": "End Better (Feat. Skinny Brown)",
       "url": "https://open.spotify.com/track/5BVRrg0ewd72Jdzj7Oizty"
+    },
+    {
+      "added_at": "2026-07-03 07:32:57",
+      "album": {
+        "name": "SELFISH",
+        "url": "https://open.spotify.com/album/0HtGtnnnFeWmtvgNFg0dr1"
+      },
+      "artists": [
+        {
+          "name": "Moon Byul",
+          "url": "https://open.spotify.com/artist/1eTft3tXynrKdo6XD7QHLL"
+        },
+        {
+          "name": "SEULGI",
+          "url": "https://open.spotify.com/artist/2QM5S4yO6xHgnNvF0nbZZq"
+        }
+      ],
+      "duration_ms": 192577,
+      "name": "SELFISH (Feat. SEULGI Of Red Velvet)",
+      "url": "https://open.spotify.com/track/4Lgd631IfDKMLPu6t7L0Tj"
     },
     {
       "added_at": "2026-07-03 07:32:57",

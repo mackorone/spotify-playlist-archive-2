@@ -4,7 +4,7 @@
 
 > Objectively good music
 
-1,363 songs - 3 day 11 hr 56 min
+1,364 songs - 3 day 11 hr 59 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -664,6 +664,7 @@
 | [Levitate](https://open.spotify.com/track/2uBhGx3m5iJrtsql8Qk00j) | [Twenty One Pilots](https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx) | [Trench](https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL) | 2:25 | 2021-08-05 |  |
 | [Liar](https://open.spotify.com/track/7EUhSxz4srS8pqh1cENbLB) | [Paramore](https://open.spotify.com/artist/74XFHRwlV6OrjEM0A2NCMF) | [This Is Why](https://open.spotify.com/album/6tG8sCK4htJOLjlWwb7gZB) | 4:21 | 2023-02-15 |  |
 | [Library Pictures](https://open.spotify.com/track/0qfGWpvJGlp17wdTm19ioK) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH) | [Suck It and See](https://open.spotify.com/album/2ym2jcqckXqWeTDoxz3Kst) | 2:22 | 2020-09-07 |  |
+| [Life 1 \(where did the time go\)](https://open.spotify.com/track/2c4On5vckm6Ay3vtuunQlk) | [Quadeca](https://open.spotify.com/artist/3zz52ViyCBcplK0ftEVPSS) | [Life 1 \(where did the time go\)](https://open.spotify.com/album/4BP7yEXI97xJV4OjXdRSVE) | 3:07 | 2026-09-21 |  |
 | [Life Of The Party \(with André 3000\)](https://open.spotify.com/track/7n4YpQcocaRfXRlEl07klO) | [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [André 3000](https://open.spotify.com/artist/74V3dE1a51skRkdII8y2C6) | [Life Of The Party](https://open.spotify.com/album/46BlnKQOwYucGwNHJmj2g3) | 6:31 | 2021-11-15 |  |
 | [Life's Too Short](https://open.spotify.com/track/4dcY1yNThcjgZ8T1YH96Db) | [Wild Party](https://open.spotify.com/artist/48PAAxWdIDbA4WHkHjgsEv) | [Phantom Pop](https://open.spotify.com/album/3raG7aYF8cqHX82yBPd7Qq) | 3:41 | 2025-03-20 |  |
 | [Lifespan](https://open.spotify.com/track/5fqUPNZKO1BUhxBN0H61Lx) | [forgive yourself](https://open.spotify.com/artist/4R0PDznz6UhsZTqglLC8Yq) | [Songs I'll Never Release](https://open.spotify.com/album/6a1cLgO7MZ6nFJcRfh5kjE) | 2:03 | 2025-08-30 |  |

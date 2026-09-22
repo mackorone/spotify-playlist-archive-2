@@ -1,6 +1,6 @@
 {
   "description": "La playlist con los m\u00e1s grandes \u00e9xitos de nuestrxs artistas mexicanxs. El Bogueto",
-  "num_followers": 872811,
+  "num_followers": 872871,
   "original_name": "Top M\u00e9xico",
   "owner": {
     "name": "Spotify",
@@ -407,22 +407,6 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Ll\u00e9vala a La Luna",
-        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
-      },
-      "artists": [
-        {
-          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
-          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
-        }
-      ],
-      "duration_ms": 164214,
-      "name": "Ll\u00e9vala a La Luna",
-      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
-    },
-    {
-      "added_at": "2026-09-18 06:00:16",
-      "album": {
         "name": "Que Se Siente",
         "url": "https://open.spotify.com/album/45XvFLRB93yz21YcXAB29L"
       },
@@ -439,6 +423,22 @@
       "duration_ms": 138512,
       "name": "Que Se Siente",
       "url": "https://open.spotify.com/track/2vTorS5pBxHr4LNrbbJk8K"
+    },
+    {
+      "added_at": "2026-09-18 06:00:16",
+      "album": {
+        "name": "Ll\u00e9vala a La Luna",
+        "url": "https://open.spotify.com/album/4ObKFfPdrIXOjJAGWoHJIP"
+      },
+      "artists": [
+        {
+          "name": "Juli\u00f3n \u00c1lvarez y su Norte\u00f1o Banda",
+          "url": "https://open.spotify.com/artist/1bfl0AU8SqmLkElptOprhC"
+        }
+      ],
+      "duration_ms": 164214,
+      "name": "Ll\u00e9vala a La Luna",
+      "url": "https://open.spotify.com/track/6PkTkoXBaZr0fa541u9c6t"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -883,22 +883,18 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "Es Triiste",
-        "url": "https://open.spotify.com/album/2bmyBADrmrhJ9XZjRaRXFw"
+        "name": "VITILIGO",
+        "url": "https://open.spotify.com/album/6tAmC0KN2CYiDze4QJNqUp"
       },
       "artists": [
         {
-          "name": "Cachirula",
-          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
-        },
-        {
-          "name": "Kreamly",
-          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
+          "name": "Dani Flow",
+          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
         }
       ],
-      "duration_ms": 185567,
-      "name": "Es Triiste",
-      "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
+      "duration_ms": 169098,
+      "name": "VITILIGO",
+      "url": "https://open.spotify.com/track/7zXvJEtNkm9MusMANz8qd0"
     },
     {
       "added_at": "2026-09-18 06:00:16",
@@ -923,18 +919,22 @@
     {
       "added_at": "2026-09-18 06:00:16",
       "album": {
-        "name": "VITILIGO",
-        "url": "https://open.spotify.com/album/6tAmC0KN2CYiDze4QJNqUp"
+        "name": "Es Triiste",
+        "url": "https://open.spotify.com/album/2bmyBADrmrhJ9XZjRaRXFw"
       },
       "artists": [
         {
-          "name": "Dani Flow",
-          "url": "https://open.spotify.com/artist/1yX62RHdYysNcIrO33WQxJ"
+          "name": "Cachirula",
+          "url": "https://open.spotify.com/artist/5vcFoQxKd0ZpA178xDU12G"
+        },
+        {
+          "name": "Kreamly",
+          "url": "https://open.spotify.com/artist/3g9MKjIP9xrMTY5Pbwr6Nk"
         }
       ],
-      "duration_ms": 169098,
-      "name": "VITILIGO",
-      "url": "https://open.spotify.com/track/7zXvJEtNkm9MusMANz8qd0"
+      "duration_ms": 185567,
+      "name": "Es Triiste",
+      "url": "https://open.spotify.com/track/04245jmXa38WxGA4clZMXC"
     },
     {
       "added_at": "2026-09-18 06:00:16",

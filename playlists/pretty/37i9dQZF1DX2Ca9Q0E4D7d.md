@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 
 > Find your flow state with Beta frequencies for increased concentration.
 
-[Spotify](https://open.spotify.com/user/spotify) - 155,339 likes - 80 songs - 3 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 155,376 likes - 80 songs - 3 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -89,4 +89,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX2Ca9Q0E4D7d.md) - [plain]
 | 79 | [Deep Learning Beta 91 Hz \- 105 Hz](https://open.spotify.com/track/2UlF8rX1lTattkc8f0geqN) | [Ookean](https://open.spotify.com/artist/3RRjbAYUzANb74qkNyT7vF) | [Deep Learning Beta 91 Hz \- 105 Hz](https://open.spotify.com/album/4J2IxsXND8fTkG3JpFWywX) | 2:52 |
 | 80 | [Beta Sinus 90 Hz \- 120 Hz](https://open.spotify.com/track/7hu35Cc7XxthGP1gZ7SkgK) | [Higher Highs](https://open.spotify.com/artist/4b6guplHYPbkerTOAplBK8) | [Higher Highs](https://open.spotify.com/album/7IxHihP3UrmIRVUeXPfl7t) | 3:31 |
 
-Snapshot ID: `AAAAACY1C0ROJmWBtqHBWs2H4ZQb77/J`
+Snapshot ID: `AAAAACAFMJ/um3cPg2pmCMOKFBmg6cJl`

@@ -1,6 +1,6 @@
 {
   "description": "riff-heavy, fuzzed-out numbers. ",
-  "num_followers": 549199,
+  "num_followers": 549210,
   "original_name": "Stoner Rock",
   "owner": {
     "name": "Spotify",
@@ -1307,6 +1307,22 @@
     {
       "added_at": "2026-03-13 04:00:13",
       "album": {
+        "name": "King of Cowards",
+        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
+      },
+      "artists": [
+        {
+          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
+          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
+        }
+      ],
+      "duration_ms": 349330,
+      "name": "GNT",
+      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
+    },
+    {
+      "added_at": "2026-03-13 04:00:13",
+      "album": {
         "name": "Nothing as the Ideal",
         "url": "https://open.spotify.com/album/2pP6WdEW09g6PgFVfKjefd"
       },
@@ -1335,22 +1351,6 @@
       "duration_ms": 3809026,
       "name": "Dopesmoker - 2022 Remastered Version",
       "url": "https://open.spotify.com/track/0m3NuZiabJ4wl4HmXONyIP"
-    },
-    {
-      "added_at": "2026-03-13 04:00:13",
-      "album": {
-        "name": "King of Cowards",
-        "url": "https://open.spotify.com/album/1ntUXL8IssCZ2UFlzbntlS"
-      },
-      "artists": [
-        {
-          "name": "Pigs Pigs Pigs Pigs Pigs Pigs Pigs",
-          "url": "https://open.spotify.com/artist/1F7QDWyZTLGzkyGLgFjEhU"
-        }
-      ],
-      "duration_ms": 349330,
-      "name": "GNT",
-      "url": "https://open.spotify.com/track/1LeBsQFSbyLMbVdEEj81bJ"
     },
     {
       "added_at": "2026-03-13 04:00:13",

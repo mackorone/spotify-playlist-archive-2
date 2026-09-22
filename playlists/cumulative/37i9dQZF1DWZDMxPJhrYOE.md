@@ -4,7 +4,7 @@
 
 > De stærkeste nye sange fra de seneste par måneder\. Så er du opdateret!
 
-1,289 songs - 2 day 19 hr 13 min
+1,290 songs - 2 day 19 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -595,6 +595,7 @@
 | [If u kno u kno \(feat\. Karoline Mousing\)](https://open.spotify.com/track/4baTMQfOgmcWJwzYHXM0rf) | [KEDDE](https://open.spotify.com/artist/1Vh77WpgUBG9bYi1X0kMQZ), [Karoline Mousing](https://open.spotify.com/artist/0BqpiQJEK4jycSLmjLN6z0) | [If u kno u kno](https://open.spotify.com/album/4dQO15Lp6hWvl2BhW6gvCx) | 2:25 | 2026-01-01 | 2026-03-27 |
 | [igen & igen](https://open.spotify.com/track/2r3BQc8MFSCpHXmnepCJDd) | [Gobs](https://open.spotify.com/artist/4ysmSq2N7badobfVT6YZ82), [One Two](https://open.spotify.com/artist/0b4zEyqVkKTcrrZbzw7Rl5) | [igen & igen](https://open.spotify.com/album/74Zmt6oaCyu0RKvlnlVxMj) | 2:44 | 2025-03-31 | 2025-06-25 |
 | [Ik en af dem](https://open.spotify.com/track/3UFV6Kapxn6IzX4MYYO2EB) | [Azhar](https://open.spotify.com/artist/3qzIW4bUKMS6EaF9mhszKZ) | [Ik en af dem](https://open.spotify.com/album/2OnecYOUuP9umnDjVSzmLs) | 2:58 | 2025-11-20 | 2025-12-12 |
+| [Ik Giv Slip](https://open.spotify.com/track/79jJellLfwEXw8OklbNQUt) | [Gilli](https://open.spotify.com/artist/2KbikmQKGiUPR2ARs1h0sq), [Mille](https://open.spotify.com/artist/1WLr84Nec3Bb8xuxgQZGb9) | [Verden Er Din](https://open.spotify.com/album/3hn55ItR1JDqf9dhnoVLMx) | 2:53 | 2026-09-17 |  |
 | [Illegal](https://open.spotify.com/track/1WmBVbFmLt0w6zPP37TeCG) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [Fancy That](https://open.spotify.com/album/3o81FH5FTYVtoBQOZr3T7y) | 2:29 | 2025-05-08 | 2025-08-08 |
 | [Illusion](https://open.spotify.com/track/59xD5osEFsaNt5PXfIKUnX) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we) | [Illusion](https://open.spotify.com/album/68mwSgiHv3JF9nrw9feMrt) | 3:08 | 2024-07-01 | 2024-08-01 |
 | [Imaginary Playerz](https://open.spotify.com/track/7ljZhhXv3rP8dJJ3RlupWt) | [Cardi B](https://open.spotify.com/artist/4kYSro6naA4h99UJvo89HB) | [Imaginary Playerz](https://open.spotify.com/album/1DZ4IYnszM0mxdZnQgkv4r) | 3:27 | 2025-08-14 | 2025-09-29 |
@@ -857,7 +858,7 @@
 | [One More Dance](https://open.spotify.com/track/2SyMl67slr9yJA9YJFC3mV) | [d4vd](https://open.spotify.com/artist/5y8tKLUfMvliMe8IKamR32) | [One More Dance](https://open.spotify.com/album/2mw1qufYqXPQ9yqA5vA0Aw) | 3:08 | 2025-02-06 | 2025-05-18 |
 | [One of the Greats](https://open.spotify.com/track/4MMQdCB91BabMdpeFSxhv3) | [Florence + The Machine](https://open.spotify.com/artist/1moxjboGR7GNWYIMWsRjgG) | [One of the Greats](https://open.spotify.com/album/2tJD14Pr3uNltSZJ4Iz4Yi) | 6:32 | 2025-09-25 | 2026-01-04 |
 | [One Thing](https://open.spotify.com/track/6KFQdIB3njXBQNcg1xUh9U) | [Lola Young](https://open.spotify.com/artist/67FB4n52MgexGQIG8s0yUH) | [One Thing](https://open.spotify.com/album/2pIQ2uWPJUvfnmM917UC1I) | 3:28 | 2025-05-15 | 2025-08-15 |
-| [One Thousand Roses](https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [MMM](https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz) | 2:37 | 2026-08-28 |  |
+| [One Thousand Roses](https://open.spotify.com/track/0UPFGyVw3giCxdOhqUUftu) | [Headie One](https://open.spotify.com/artist/6UCQYrcJ6wab6gnQ89OJFh) | [MMM](https://open.spotify.com/album/6vg7ipljQFLH4cq4fMHfgz) | 2:37 | 2026-08-28 | 2026-09-22 |
 | [Opening Night](https://open.spotify.com/track/7HXzuAd8UNJj2yCAS0NWbB) | [Arctic Monkeys](https://open.spotify.com/artist/7Ln80lUS6He07XvHI8qqHH), [War Child Records](https://open.spotify.com/artist/6LUTQHiyRTjNLKtt9Ypstg) | [Opening Night](https://open.spotify.com/album/0Q6JVakLI4J5kvjX2uW38i) | 4:19 | 2026-01-23 | 2026-04-18 |
 | [Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/track/23XKMzf0cK0thlSxbfMqW9) | [Gorillaz](https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ), [Bizarrap](https://open.spotify.com/artist/716NhGYqD1jl2wI1Qkgq36), [Kara Jackson](https://open.spotify.com/artist/2lciIw4vq0jQqevXA2TEUl), [Anoushka Shankar](https://open.spotify.com/artist/6MTByljF8u5omBltY2VKPU) | [The Hardest Thing \(feat\. Tony Allen\) / Orange County \(feat\. Bizarrap, Kara Jackson and Anoushka Shankar\)](https://open.spotify.com/album/4KP7VGPFNTDAbcnpTvrhq4) | 3:28 | 2026-01-15 | 2026-02-13 |
 | [Orbit](https://open.spotify.com/track/6LBMBIzdGj4RKhJeTcTBjr) | [Christopher](https://open.spotify.com/artist/3zDRCqOhJXJfS2YWOEwGMC) | [Fools Gold](https://open.spotify.com/album/2jYLzXEZ5ki5itbFQhADAV) | 3:12 | 2025-05-29 | 2025-07-24 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 
 > The best of Christian Rap & Hip Hop today\.  Cover: Zauntee
 
-[Spotify](https://open.spotify.com/user/spotify) - 303,676 likes - 69 songs - 3 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 303,688 likes - 69 songs - 3 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,7 +17,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXc4BD3pzYdKY.md) - [plain]
 | 7 | [LA VIDA LATINO](https://open.spotify.com/track/2PAp65qQraA54M0DvEbSdV) | [Brenno](https://open.spotify.com/artist/7lBcEp7abNiq3WyHT3RRqV) | [LA VIDA LATINO](https://open.spotify.com/album/6EDvjAqx47Z549Gz8SDNe0) | 2:44 |
 | 8 | [Lift Me Up](https://open.spotify.com/track/2Ggz2AJ3CumtXGZADTFWm3) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Lift Me Up](https://open.spotify.com/album/2RzG2BG61ABdIJ8KpezKsX) | 2:41 |
 | 9 | [UHH](https://open.spotify.com/track/3IpXVTLwOA2DW8tH5SVIyu) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [UHH](https://open.spotify.com/album/5SBooTiZZFESmvbuUbBUR6) | 2:39 |
-| 10 | [Kick It To My Twin](https://open.spotify.com/track/4LLeT4cF5xhpZv0VtkKtgn) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [DreBreeze Da Godson](https://open.spotify.com/artist/1kzhr2UCrvkc5jS8dhTTjh), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [Kick It To My Twin](https://open.spotify.com/album/3mjDA7XDc4aZLD8C9VbCpX) | 3:10 |
+| 10 | [Kick It To My Twin](https://open.spotify.com/track/4LLeT4cF5xhpZv0VtkKtgn) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [DreBeeze Da Godson](https://open.spotify.com/artist/2HVOHorbpCUYRkYjNuQS93), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [Kick It To My Twin](https://open.spotify.com/album/3mjDA7XDc4aZLD8C9VbCpX) | 3:10 |
 | 11 | [III\. Who Knows...](https://open.spotify.com/track/69BMwjZteLIGxVbgI1bbEV) | [350](https://open.spotify.com/artist/7tLS8BRv5KP3jPwm3KdsPl), [DJ Mykael V](https://open.spotify.com/artist/2WLOBjz9WOZrJcbS2w93zt), [Noexcuse](https://open.spotify.com/artist/0IyOmgAmods7syYBxwsZJK) | [III\. Who Knows...](https://open.spotify.com/album/2x0dyBrZwTbYCrdOGfrLiz) | 2:20 |
 | 12 | [Bend Til It Break](https://open.spotify.com/track/4fbQxo7v9HPSxYjcuG3UMv) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Bend Til It Break](https://open.spotify.com/album/6oYIL1ybiYQd0AuBWPJi4c) | 2:24 |
 | 13 | [WHAT YOU STANDIN' ON?](https://open.spotify.com/track/4YOGDxOYMP9E8TX8Bt9NGe) | [Mike Teezy](https://open.spotify.com/artist/6tO2zQcTIRfR2Xdsm9XnL7) | [WHAT YOU STANDIN' ON?](https://open.spotify.com/album/1p9fGTAQhndCMetdfelmHI) | 2:01 |

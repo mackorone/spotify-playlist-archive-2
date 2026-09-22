@@ -1,12 +1,12 @@
 {
   "description": "Rock out while you game.",
-  "num_followers": 714723,
+  "num_followers": 714818,
   "original_name": "Ultimate Rock Gaming",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAOOPfWmAJL/zkyURD2uXCjqTGyzn",
+  "snapshot_id": "AAAAAJ8i9sjPebnR69u2pPCfT0YDbdZB",
   "tracks": [
     {
       "added_at": "2026-03-02 16:13:57",
@@ -149,20 +149,24 @@
       "url": "https://open.spotify.com/track/4u3Cw2vfURpijHBMVFOmGQ"
     },
     {
-      "added_at": "2026-03-02 16:13:57",
+      "added_at": "2026-09-21 09:04:58",
       "album": {
-        "name": "Minutes to Midnight",
-        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
+        "name": "Bright Lights, Big City (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/1kpiZpM48ybu8qrh5DDa88"
       },
       "artists": [
         {
-          "name": "Linkin Park",
-          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
+          "name": "Keith Richards",
+          "url": "https://open.spotify.com/artist/08avsqaGIlK2x3i2Cu7rKH"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
         }
       ],
-      "duration_ms": 164426,
-      "name": "Bleed It Out",
-      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
+      "duration_ms": 210910,
+      "name": "Bright Lights, Big City (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/2X67K1KTLBg9EU2dMUQC42"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -183,18 +187,18 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
-        "name": "The Black Parade",
-        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+        "name": "Minutes to Midnight",
+        "url": "https://open.spotify.com/album/2tlTBLz2w52rpGCLBGyGw6"
       },
       "artists": [
         {
-          "name": "My Chemical Romance",
-          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+          "name": "Linkin Park",
+          "url": "https://open.spotify.com/artist/6XyY86QOPPrYVGvF9ch6wz"
         }
       ],
-      "duration_ms": 161920,
-      "name": "Teenagers",
-      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+      "duration_ms": 164426,
+      "name": "Bleed It Out",
+      "url": "https://open.spotify.com/track/0UFDKFqW2oGspYeYqo9wjA"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -235,6 +239,22 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
+        "name": "The Black Parade",
+        "url": "https://open.spotify.com/album/0FZK97MXMm5mUQ8mtudjuK"
+      },
+      "artists": [
+        {
+          "name": "My Chemical Romance",
+          "url": "https://open.spotify.com/artist/7FBcuc1gsnv6Y1nwFtNRCb"
+        }
+      ],
+      "duration_ms": 161920,
+      "name": "Teenagers",
+      "url": "https://open.spotify.com/track/7j31rVgGX9Q2blT92VBEA0"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
         "name": "Make Yourself",
         "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
       },
@@ -251,22 +271,6 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
-        "name": "The Jaws Of Life",
-        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
-      },
-      "artists": [
-        {
-          "name": "Pierce The Veil",
-          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
-        }
-      ],
-      "duration_ms": 236160,
-      "name": "So Far So Fake",
-      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
-    },
-    {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
         "name": "Magic",
         "url": "https://open.spotify.com/album/4m0Ki8UBZSIhxz0VoRrq2U"
       },
@@ -279,6 +283,22 @@
       "duration_ms": 222656,
       "name": "Magic",
       "url": "https://open.spotify.com/track/054npqr8dWDHfI9rLOGyN8"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
+        "name": "The Jaws Of Life",
+        "url": "https://open.spotify.com/album/5Am1LFOFRwS94TaVzrFQwZ"
+      },
+      "artists": [
+        {
+          "name": "Pierce The Veil",
+          "url": "https://open.spotify.com/artist/4iJLPqClelZOBCBifm8Fzv"
+        }
+      ],
+      "duration_ms": 236160,
+      "name": "So Far So Fake",
+      "url": "https://open.spotify.com/track/3fWibgdtgIie6LKTZ2rUoI"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -347,22 +367,6 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
-        "name": "In My Room",
-        "url": "https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB"
-      },
-      "artists": [
-        {
-          "name": "Julia Wolf",
-          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
-        }
-      ],
-      "duration_ms": 163874,
-      "name": "In My Room",
-      "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
-    },
-    {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
         "name": "private music",
         "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
       },
@@ -375,6 +379,22 @@
       "duration_ms": 170941,
       "name": "my mind is a mountain",
       "url": "https://open.spotify.com/track/0DMU0QiSypeYxL6BYdxjcy"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
+        "name": "In My Room",
+        "url": "https://open.spotify.com/album/6NOGTCUjEgYcF3UZsaFEpB"
+      },
+      "artists": [
+        {
+          "name": "Julia Wolf",
+          "url": "https://open.spotify.com/artist/5yvGiZLSWJTPBlZpVbPnEZ"
+        }
+      ],
+      "duration_ms": 163874,
+      "name": "In My Room",
+      "url": "https://open.spotify.com/track/79IgD1wf3xltQdDK3l5Why"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -443,22 +463,6 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
-        "name": "Make Yourself",
-        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
-      },
-      "artists": [
-        {
-          "name": "Incubus",
-          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
-        }
-      ],
-      "duration_ms": 223746,
-      "name": "Pardon Me",
-      "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
-    },
-    {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
         "name": "Your Favorite Toy",
         "url": "https://open.spotify.com/album/1GlbwU0fG3s91TwcuTh4ea"
       },
@@ -471,6 +475,22 @@
       "duration_ms": 176453,
       "name": "Your Favorite Toy",
       "url": "https://open.spotify.com/track/2ZSOU8Fx9uRBW57nwfPVAL"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
+        "name": "Make Yourself",
+        "url": "https://open.spotify.com/album/2i6nd4FV6y7K9fln6eelmR"
+      },
+      "artists": [
+        {
+          "name": "Incubus",
+          "url": "https://open.spotify.com/artist/3YcBF2ttyueytpXtEzn1Za"
+        }
+      ],
+      "duration_ms": 223746,
+      "name": "Pardon Me",
+      "url": "https://open.spotify.com/track/1Y13csEpu3TK5gQdzGLrd8"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -491,22 +511,6 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
-        "name": "the theory of you",
-        "url": "https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB"
-      },
-      "artists": [
-        {
-          "name": "ivri",
-          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
-        }
-      ],
-      "duration_ms": 208510,
-      "name": "tower of memories",
-      "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
-    },
-    {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
         "name": "Tell Me When the World Stops Ending",
         "url": "https://open.spotify.com/album/00UdeB6o8diQHvvdezymH9"
       },
@@ -519,6 +523,22 @@
       "duration_ms": 251590,
       "name": "Tell Me When the World Stops Ending",
       "url": "https://open.spotify.com/track/5r91BKf5kBgh5wiM6pteWt"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
+        "name": "the theory of you",
+        "url": "https://open.spotify.com/album/3qwXNQhZ3SzkgSiMmmmrcB"
+      },
+      "artists": [
+        {
+          "name": "ivri",
+          "url": "https://open.spotify.com/artist/5EjK7aUvQ9LMNqc2zXiWLS"
+        }
+      ],
+      "duration_ms": 208510,
+      "name": "tower of memories",
+      "url": "https://open.spotify.com/track/3KZTPBbTMFLNbfoQoxEpXn"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -727,22 +747,6 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
-        "name": "A/B",
-        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
-      },
-      "artists": [
-        {
-          "name": "KALEO",
-          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
-        }
-      ],
-      "duration_ms": 234240,
-      "name": "No Good",
-      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
-    },
-    {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
         "name": "Impose",
         "url": "https://open.spotify.com/album/0WGyY2UCxFPryMrmYYVIzR"
       },
@@ -755,6 +759,22 @@
       "duration_ms": 263198,
       "name": "Impose",
       "url": "https://open.spotify.com/track/3kMc83bWNdcaX1dmARQIII"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
+        "name": "A/B",
+        "url": "https://open.spotify.com/album/4he4SQup02hEIQdwhZlZlk"
+      },
+      "artists": [
+        {
+          "name": "KALEO",
+          "url": "https://open.spotify.com/artist/7jdFEYD2LTYjfwxOdlVjmc"
+        }
+      ],
+      "duration_ms": 234240,
+      "name": "No Good",
+      "url": "https://open.spotify.com/track/0Tr5G2mE56eLUGvCaXRM8I"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -885,22 +905,6 @@
       "url": "https://open.spotify.com/track/0wEGo9LsSrSUz9HOtraWAO"
     },
     {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
-        "name": "2005",
-        "url": "https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE"
-      },
-      "artists": [
-        {
-          "name": "South Arcade",
-          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
-        }
-      ],
-      "duration_ms": 203426,
-      "name": "2005",
-      "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
-    },
-    {
       "added_at": "2026-03-20 02:55:11",
       "album": {
         "name": "Creature In The Black Night",
@@ -915,6 +919,22 @@
       "duration_ms": 242346,
       "name": "Crawl Back To My Coffin",
       "url": "https://open.spotify.com/track/7rhDDCVryx9frLUnXSgrZ5"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
+        "name": "2005",
+        "url": "https://open.spotify.com/album/1y8VIK1Q5ajXcuMKmapNTE"
+      },
+      "artists": [
+        {
+          "name": "South Arcade",
+          "url": "https://open.spotify.com/artist/3vEL65ycUboLH76pgdtqlF"
+        }
+      ],
+      "duration_ms": 203426,
+      "name": "2005",
+      "url": "https://open.spotify.com/track/1JMKlrFJ28qptDhPhk2h3o"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -1063,6 +1083,22 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
+        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
+      },
+      "artists": [
+        {
+          "name": "Evanescence",
+          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
+        }
+      ],
+      "duration_ms": 249960,
+      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
+      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
         "name": "Paint The Town Blue (from the series Arcane League of Legends)",
         "url": "https://open.spotify.com/album/1bnLKOSyzZOiY4Mrw7GCGZ"
       },
@@ -1083,22 +1119,6 @@
       "duration_ms": 115533,
       "name": "Paint The Town Blue - from the series Arcane League of Legends",
       "url": "https://open.spotify.com/track/0g0qfC3nAaIsfbxS29ksJx"
-    },
-    {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
-        "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-        "url": "https://open.spotify.com/album/4pwZVViuVYftrIiZa0ROjY"
-      },
-      "artists": [
-        {
-          "name": "Evanescence",
-          "url": "https://open.spotify.com/artist/5nGIFgo0shDenQYSE0Sn7c"
-        }
-      ],
-      "duration_ms": 249960,
-      "name": "Afterlife (from the Netflix Series \"Devil May Cry\")",
-      "url": "https://open.spotify.com/track/3GAqddcV0nwMHQI5RfMXoI"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -1347,6 +1367,22 @@
     {
       "added_at": "2026-03-02 16:13:57",
       "album": {
+        "name": "FISSION",
+        "url": "https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA"
+      },
+      "artists": [
+        {
+          "name": "Dead Poet Society",
+          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
+        }
+      ],
+      "duration_ms": 213924,
+      "name": "HURT",
+      "url": "https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2"
+    },
+    {
+      "added_at": "2026-03-02 16:13:57",
+      "album": {
         "name": "Story Of My Life (feat. Trippie Redd)",
         "url": "https://open.spotify.com/album/6C4DfusL8qEXmt6MFhAMU6"
       },
@@ -1367,22 +1403,6 @@
       "duration_ms": 191124,
       "name": "Story Of My Life (feat. Trippie Redd)",
       "url": "https://open.spotify.com/track/1g7j5AxiNKTGjryhFIlAsA"
-    },
-    {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
-        "name": "FISSION",
-        "url": "https://open.spotify.com/album/6PUmlxsIK7Z2Gr5OSTa5YA"
-      },
-      "artists": [
-        {
-          "name": "Dead Poet Society",
-          "url": "https://open.spotify.com/artist/31M8EXHYtEqOqVb1X7JRVe"
-        }
-      ],
-      "duration_ms": 213924,
-      "name": "HURT",
-      "url": "https://open.spotify.com/track/0E0GPPvheTzleZgWckjef2"
     },
     {
       "added_at": "2026-03-02 16:13:57",
@@ -1647,22 +1667,6 @@
       "duration_ms": 212819,
       "name": "Dance, Kid, Dance",
       "url": "https://open.spotify.com/track/3FZUR5UnfKK1q5gqbouBeW"
-    },
-    {
-      "added_at": "2026-03-02 16:13:57",
-      "album": {
-        "name": "Funeral Soundtrack #4",
-        "url": "https://open.spotify.com/album/612gMZhBmHiDyWwA5phdZl"
-      },
-      "artists": [
-        {
-          "name": "Destroy Boys",
-          "url": "https://open.spotify.com/artist/7KeN0XX71T4fGysIYLB5J5"
-        }
-      ],
-      "duration_ms": 218121,
-      "name": "Shadow (I\u2019m Breaking Down)",
-      "url": "https://open.spotify.com/track/0Dtz6spSgAATlLo4q86GVp"
     },
     {
       "added_at": "2026-03-02 16:13:57",

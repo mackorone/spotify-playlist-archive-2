@@ -2,14 +2,14 @@
 
 ### [Hot Hits Türkiye](https://open.spotify.com/playlist/37i9dQZF1DX0FGW2dUyDef)
 
-> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: CRUSH
+> Dinlemekten vazgeçemediklerin ve en yeni hitler\.  Kapak: Bora Duran
 
-362 songs - 17 hr 41 min
+363 songs - 17 hr 44 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [16\-24](https://open.spotify.com/track/09tHyS9ROJEhXHWj8NpYMi) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [16\-24](https://open.spotify.com/album/42RLYxey9xLOaESHzuCUfO) | 2:27 | 2025-02-18 | 2025-04-02 |
-| [5 YILDIZ](https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [5 YILDIZ](https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw) | 1:30 | 2026-09-02 |  |
+| [5 YILDIZ](https://open.spotify.com/track/39pjQYwDrQYcsLj75d2tFs) | [Lvbel C5](https://open.spotify.com/artist/0V2oXYR7DtrZAEFeILRW2r), [AKDO](https://open.spotify.com/artist/17EAWIoXAMU9Vo9xRrdZQ0) | [5 YILDIZ](https://open.spotify.com/album/3cADa2wn9eUvhOWYsrvqKw) | 1:30 | 2026-09-02 | 2026-09-22 |
 | [55\-53](https://open.spotify.com/track/1X2dVSqwG22eENVjazeAB2) | [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [55\-53](https://open.spotify.com/album/5zZ36nu81XoL3vA4VeZhn7) | 1:58 | 2025-05-13 | 2025-06-17 |
 | [Adı İntikamdı \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:32 | 2026-05-18 | 2026-09-03 |
 | [Adı Yok](https://open.spotify.com/track/7IZ9Fw0EYYhReIdYiUUoIe) | [Murat Dalkılıç](https://open.spotify.com/artist/6dDaXbE1caD65TONToYXYx) | [Adı Yok](https://open.spotify.com/album/4sISEKhVWCYRb2Rct7iLLI) | 2:39 | 2025-06-30 | 2025-07-30 |
@@ -195,6 +195,7 @@
 | [karambol](https://open.spotify.com/track/3pPPDBOwb5F9drPF09wthF) | [Murda](https://open.spotify.com/artist/2y1VzMKAa5nmfXKtJL9jnj), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP) | [karambol](https://open.spotify.com/album/2ZBjdhZrB9zpD5c9eABnQp) | 3:27 | 2026-09-08 |  |
 | [KARANLIK](https://open.spotify.com/track/7ndejYcYfmvkbImaXiYf9C) | [Yung Kafa & Kücük Efendi](https://open.spotify.com/artist/5mPOOZTRDsRf0iIXixzfgn), [Motive](https://open.spotify.com/artist/6sBSLIunx1Je0Y2T77wpkP), [Jumpa](https://open.spotify.com/artist/4Xz5sxFWivrXWQlDlO25is) | [KARANLIK](https://open.spotify.com/album/3GvrN7SB3jMknEnFhhFTdU) | 2:54 | 2025-02-18 | 2025-04-02 |
 | [Karardı Bulutlar](https://open.spotify.com/track/1fxl1Lf3URpDDQFBOeEMlD) | [Wegh](https://open.spotify.com/artist/747jtvVsxwzOLCJeOOz3oT) | [Karardı Bulutlar](https://open.spotify.com/album/5QhPb4USrsjUD3i5PWJjqk) | 2:25 | 2024-09-02 | 2024-11-15 |
+| [KARMA](https://open.spotify.com/track/3SkE3kqg6PJvT9TkzXPXru) | [KARM6](https://open.spotify.com/artist/6NDMASsBLAUDX3QsJvki3r) | [KARMA](https://open.spotify.com/album/36kV8HNilxn08hO4AVLm7j) | 2:28 | 2026-09-21 |  |
 | [KAYKAY](https://open.spotify.com/track/6rRlb4jHYWovtdI4PJnr5q) | [Era7capone](https://open.spotify.com/artist/4UW9Hdsrx9kX2HdJ90jRKM) | [KAYKAY](https://open.spotify.com/album/29kZS6Qv2zGpM8j0FbUDw1) | 1:47 | 2025-10-22 | 2025-12-02 |
 | [Kayıp Kalp](https://open.spotify.com/track/3H4aYDeSswC31fSOWJtWdg) | [BLOK3](https://open.spotify.com/artist/1GMwSpFzrLd12jUX15bHB6) | [KAYIP PERSONA](https://open.spotify.com/album/0gWJ1CcNLmXTdlgT8e9QRp) | 2:33 | 2026-06-08 |  |
 | [Kehribar](https://open.spotify.com/track/3wtOAcctakLBwmzbCkRSHR) | [Burak Bulut](https://open.spotify.com/artist/2a2YSCx78HHWVOsCuMpeXz), [Ebru Yaşar](https://open.spotify.com/artist/0Qbd0AGWuzggX61s306wZN) | [Kehribar](https://open.spotify.com/album/2vJqCgVaPM5YpMlp9laiEX) | 2:48 | 2024-07-02 | 2025-01-14 |

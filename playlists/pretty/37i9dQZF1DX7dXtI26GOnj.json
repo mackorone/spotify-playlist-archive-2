@@ -1,6 +1,6 @@
 {
   "description": "Todo o calor latino aqui! Ay ay ay \ud83d\udd25  foto: Rauw Alejandro",
-  "num_followers": 247532,
+  "num_followers": 247544,
   "original_name": "Calorcito",
   "owner": {
     "name": "Spotify",
@@ -483,6 +483,26 @@
     {
       "added_at": "2026-09-18 03:00:12",
       "album": {
+        "name": "VAMO A VEL",
+        "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
+      },
+      "artists": [
+        {
+          "name": "ROA",
+          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
+        },
+        {
+          "name": "Anuel AA",
+          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
+        }
+      ],
+      "duration_ms": 240000,
+      "name": "VAMO A VEL",
+      "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
+    },
+    {
+      "added_at": "2026-09-18 03:00:12",
+      "album": {
         "name": "Los del Espacio",
         "url": "https://open.spotify.com/album/6DVg3IJPFr7JZDDXYcyPbU"
       },
@@ -527,6 +547,22 @@
     {
       "added_at": "2026-09-18 03:00:12",
       "album": {
+        "name": "MATADORA",
+        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
+      },
+      "artists": [
+        {
+          "name": "KAROL G",
+          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
+        }
+      ],
+      "duration_ms": 144650,
+      "name": "MATADORA",
+      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
+    },
+    {
+      "added_at": "2026-09-18 03:00:12",
+      "album": {
         "name": "OA",
         "url": "https://open.spotify.com/album/6YpCug9vNZz4uvlmlU7cet"
       },
@@ -555,22 +591,6 @@
       "duration_ms": 235200,
       "name": "OA",
       "url": "https://open.spotify.com/track/6gMj2DzKR2PjrrbNSwcGFR"
-    },
-    {
-      "added_at": "2026-09-18 03:00:12",
-      "album": {
-        "name": "MATADORA",
-        "url": "https://open.spotify.com/album/0fjs4nBJ9w4qk1A9mg90HW"
-      },
-      "artists": [
-        {
-          "name": "KAROL G",
-          "url": "https://open.spotify.com/artist/790FomKkXshlbRYZFtlgla"
-        }
-      ],
-      "duration_ms": 144650,
-      "name": "MATADORA",
-      "url": "https://open.spotify.com/track/6cWxlpfHEcNXojMyCKcIpx"
     },
     {
       "added_at": "2026-09-18 03:00:12",
@@ -635,26 +655,6 @@
       "duration_ms": 208730,
       "name": "Hips Don't Lie - Spotify Anniversary Version",
       "url": "https://open.spotify.com/track/2oaGtVSJwivQkslaiDXOTr"
-    },
-    {
-      "added_at": "2026-09-18 03:00:12",
-      "album": {
-        "name": "VAMO A VEL",
-        "url": "https://open.spotify.com/album/6Kv4lDBzqyg7vdbbIxnGEI"
-      },
-      "artists": [
-        {
-          "name": "ROA",
-          "url": "https://open.spotify.com/artist/4cYbf45YbZptNISnhay0xH"
-        },
-        {
-          "name": "Anuel AA",
-          "url": "https://open.spotify.com/artist/2R21vXR83lH98kGeO99Y66"
-        }
-      ],
-      "duration_ms": 240000,
-      "name": "VAMO A VEL",
-      "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
     },
     {
       "added_at": "2026-09-18 03:00:12",
@@ -775,8 +775,8 @@
     {
       "added_at": "2026-09-18 03:00:12",
       "album": {
-        "name": "FERXXO 151",
-        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
+        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
+        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
       },
       "artists": [
         {
@@ -784,13 +784,17 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "ICON",
-          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
+          "name": "Divino",
+          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
+        },
+        {
+          "name": "Baby Ranks",
+          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
         }
       ],
-      "duration_ms": 195653,
-      "name": "FERXXO 151",
-      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
+      "duration_ms": 208168,
+      "name": "SE PUSO FEO",
+      "url": "https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y"
     },
     {
       "added_at": "2026-09-18 03:00:12",
@@ -879,8 +883,8 @@
     {
       "added_at": "2026-09-18 03:00:12",
       "album": {
-        "name": "EL GREEN PRINT: La Saga (Disc 2) - EL CLUB DE LAS 19 FLORES",
-        "url": "https://open.spotify.com/album/5lKHDf06WmHx6pN2K4phgh"
+        "name": "FERXXO 151",
+        "url": "https://open.spotify.com/album/7JsvGZNqsoZlFOl41TKucq"
       },
       "artists": [
         {
@@ -888,17 +892,13 @@
           "url": "https://open.spotify.com/artist/2LRoIwlKmHjgvigdNGBHNo"
         },
         {
-          "name": "Divino",
-          "url": "https://open.spotify.com/artist/3PkVrt8lRBTV2RDSICxz5X"
-        },
-        {
-          "name": "Baby Ranks",
-          "url": "https://open.spotify.com/artist/3huof3P8bH0AJzMvy9kwv2"
+          "name": "ICON",
+          "url": "https://open.spotify.com/artist/0SSbTivuMrvdqgCt7ln6jD"
         }
       ],
-      "duration_ms": 208168,
-      "name": "SE PUSO FEO",
-      "url": "https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y"
+      "duration_ms": 195653,
+      "name": "FERXXO 151",
+      "url": "https://open.spotify.com/track/1LFXWfARjkBkc9Abofmgp8"
     },
     {
       "added_at": "2026-09-18 03:00:12",
@@ -943,6 +943,26 @@
     {
       "added_at": "2026-09-18 03:00:12",
       "album": {
+        "name": "Priti",
+        "url": "https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        },
+        {
+          "name": "Sech",
+          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
+        }
+      ],
+      "duration_ms": 130969,
+      "name": "Priti",
+      "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
+    },
+    {
+      "added_at": "2026-09-18 03:00:12",
+      "album": {
         "name": "T\u00cdMIDA, SANTA Y PELIGROSA",
         "url": "https://open.spotify.com/album/5Mc458p3XeHN1pljpu8rUY"
       },
@@ -963,26 +983,6 @@
       "duration_ms": 126722,
       "name": "T\u00cdMIDA, SANTA Y PELIGROSA",
       "url": "https://open.spotify.com/track/6yhlBas06D4GJ7hLWod9gH"
-    },
-    {
-      "added_at": "2026-09-18 03:00:12",
-      "album": {
-        "name": "Priti",
-        "url": "https://open.spotify.com/album/6PJtmcd3jv2afBCZ3GSdsB"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        },
-        {
-          "name": "Sech",
-          "url": "https://open.spotify.com/artist/77ziqFxp5gaInVrF2lj4ht"
-        }
-      ],
-      "duration_ms": 130969,
-      "name": "Priti",
-      "url": "https://open.spotify.com/track/5FLzweTtgQurkLPs0E7uEO"
     },
     {
       "added_at": "2026-09-18 03:00:12",

@@ -1,6 +1,6 @@
 {
   "description": "Cumbias de anta\u00f1o para bailar.",
-  "num_followers": 345042,
+  "num_followers": 345114,
   "original_name": "Cumbias Viejitas",
   "owner": {
     "name": "Spotify",
@@ -607,22 +607,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Dile, Cuentale",
-        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
-      },
-      "artists": [
-        {
-          "name": "Claudio Mor\u00e1n",
-          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
-        }
-      ],
-      "duration_ms": 250541,
-      "name": "Dile, Cuentale",
-      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "M\u00fasica Sin Limites - Tropical",
         "url": "https://open.spotify.com/album/44uggEuojKvKPTL1jQumGp"
       },
@@ -635,6 +619,22 @@
       "duration_ms": 161520,
       "name": "Amor De Unas Horas",
       "url": "https://open.spotify.com/track/61qpGyo77FZw8HixIR0S0K"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Dile, Cuentale",
+        "url": "https://open.spotify.com/album/4KBZ7utamIypncr1uN6iqu"
+      },
+      "artists": [
+        {
+          "name": "Claudio Mor\u00e1n",
+          "url": "https://open.spotify.com/artist/7nhmhY1TyOa8drWz4O6tAO"
+        }
+      ],
+      "duration_ms": 250541,
+      "name": "Dile, Cuentale",
+      "url": "https://open.spotify.com/track/3zl1a8RoZZTYQGoeEaDjtb"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -915,22 +915,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
-        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
-      },
-      "artists": [
-        {
-          "name": "Impacto De Montemorelos",
-          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
-        }
-      ],
-      "duration_ms": 177360,
-      "name": "Dejenla Que Baile",
-      "url": "https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Lo Mejor De Mike Laure",
         "url": "https://open.spotify.com/album/4phadJG0y214V03sl93hIT"
       },
@@ -943,6 +927,22 @@
       "duration_ms": 195210,
       "name": "La Banda Borracha",
       "url": "https://open.spotify.com/track/2PffzUyZQeg5YTqVtzMjqb"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Impacto de Montemorelos Sus Mejores 25 Canciones",
+        "url": "https://open.spotify.com/album/4389s7PxAGjzaOFOw915rf"
+      },
+      "artists": [
+        {
+          "name": "Impacto De Montemorelos",
+          "url": "https://open.spotify.com/artist/4pldrrIcYcMofdprdL2yFm"
+        }
+      ],
+      "duration_ms": 177360,
+      "name": "Dejenla Que Baile",
+      "url": "https://open.spotify.com/track/6sPin3aCx0NAVtYtIE4Ev9"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -963,22 +963,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Antolog\u00eda...Los Sonor's",
-        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
-      },
-      "artists": [
-        {
-          "name": "Los Sonor's",
-          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
-        }
-      ],
-      "duration_ms": 172920,
-      "name": "La feria de Cali",
-      "url": "https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Tequendama de Oro, Vol. 4",
         "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
       },
@@ -991,6 +975,22 @@
       "duration_ms": 180671,
       "name": "Pedacito de Mi Vida",
       "url": "https://open.spotify.com/track/4sCP5KRUAM03QrgCXF5cCo"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Antolog\u00eda...Los Sonor's",
+        "url": "https://open.spotify.com/album/4eVt6JVtBQGs63CkWEZkj6"
+      },
+      "artists": [
+        {
+          "name": "Los Sonor's",
+          "url": "https://open.spotify.com/artist/5t7uHzbQeU3ZeuLuT0Tzn0"
+        }
+      ],
+      "duration_ms": 172920,
+      "name": "La feria de Cali",
+      "url": "https://open.spotify.com/track/1v7xtNEebuvdi147gd7rRc"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "Cumbia Amazonica",
+        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
+      },
+      "artists": [
+        {
+          "name": "Los Mirlos",
+          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
+        }
+      ],
+      "duration_ms": 158760,
+      "name": "El Sonido de los Mirlos",
+      "url": "https://open.spotify.com/track/4MRbkMRzKLEPsgVvmSnDIJ"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "Tequendama de Oro, Vol. 4",
         "url": "https://open.spotify.com/album/52k7leNvJSZROJgEZhHuku"
       },
@@ -1275,22 +1291,6 @@
       "duration_ms": 147826,
       "name": "No Te Vayas, Coraz\u00f3n",
       "url": "https://open.spotify.com/track/6ZHOAF8cCGLXsSvNAFADMi"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Cumbia Amazonica",
-        "url": "https://open.spotify.com/album/3Almc0ajaT7YXLxpn18QBL"
-      },
-      "artists": [
-        {
-          "name": "Los Mirlos",
-          "url": "https://open.spotify.com/artist/1ga48mxYYI9RuUrWLa3voh"
-        }
-      ],
-      "duration_ms": 158760,
-      "name": "El Sonido de los Mirlos",
-      "url": "https://open.spotify.com/track/4MRbkMRzKLEPsgVvmSnDIJ"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1439,6 +1439,62 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "Cumbias de Oro: 16 Grandes \u00c9xitos",
+        "url": "https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY"
+      },
+      "artists": [
+        {
+          "name": "La Sonora Dinamita",
+          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
+        },
+        {
+          "name": "Lucho Perez",
+          "url": "https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj"
+        }
+      ],
+      "duration_ms": 155946,
+      "name": "Se Me Perdi\u00f3 la Cadenita",
+      "url": "https://open.spotify.com/track/3zhQ74Oan1RIO78RmMr1F4"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "30 Mezcladitas de Oro para la Farra",
+        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
+      },
+      "artists": [
+        {
+          "name": "Los Corraleros De Majagual",
+          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
+        },
+        {
+          "name": "Chico Cervantes",
+          "url": "https://open.spotify.com/artist/7lArxuFcsS5RPDfdXXrNCz"
+        }
+      ],
+      "duration_ms": 95360,
+      "name": "La Pollera Color\u00e1",
+      "url": "https://open.spotify.com/track/1tAUI1oiwjAioKJD91VgPi"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
+        "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
+      },
+      "artists": [
+        {
+          "name": "Rossy",
+          "url": "https://open.spotify.com/artist/5zH1mfgDhh4stcLYalyHxS"
+        }
+      ],
+      "duration_ms": 174278,
+      "name": "Carola",
+      "url": "https://open.spotify.com/track/3WdRFcWRXhChWbVpyUCxuF"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "Con la Fuerza de un Volc\u00e1n",
         "url": "https://open.spotify.com/album/1AIWTMWJGvs517UpZtQ09y"
       },
@@ -1478,35 +1534,11 @@
         {
           "name": "La Sonora Dinamita",
           "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        },
-        {
-          "name": "Lucho Perez",
-          "url": "https://open.spotify.com/artist/1FkShPhdyKcNIsGpxiYogj"
         }
       ],
-      "duration_ms": 155946,
-      "name": "Se Me Perdi\u00f3 la Cadenita",
-      "url": "https://open.spotify.com/track/3zhQ74Oan1RIO78RmMr1F4"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "30 Mezcladitas de Oro para la Farra",
-        "url": "https://open.spotify.com/album/5qEOiLqFFt7YYYDTlHbkks"
-      },
-      "artists": [
-        {
-          "name": "Los Corraleros De Majagual",
-          "url": "https://open.spotify.com/artist/4gUlOT8yUtjFDWKlkEpLI4"
-        },
-        {
-          "name": "Chico Cervantes",
-          "url": "https://open.spotify.com/artist/7lArxuFcsS5RPDfdXXrNCz"
-        }
-      ],
-      "duration_ms": 95360,
-      "name": "La Pollera Color\u00e1",
-      "url": "https://open.spotify.com/track/1tAUI1oiwjAioKJD91VgPi"
+      "duration_ms": 249079,
+      "name": "Capullo y Sorullo",
+      "url": "https://open.spotify.com/track/30y7TEQ9H7OiJC7i3sFJxu"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1559,22 +1591,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Cumbias de Oro: 16 Grandes \u00c9xitos",
-        "url": "https://open.spotify.com/album/1lFsVuX8eLCcNU6PCG8MHY"
-      },
-      "artists": [
-        {
-          "name": "La Sonora Dinamita",
-          "url": "https://open.spotify.com/artist/13or1Wf6ipcvSIiurZATvw"
-        }
-      ],
-      "duration_ms": 249079,
-      "name": "Capullo y Sorullo",
-      "url": "https://open.spotify.com/track/30y7TEQ9H7OiJC7i3sFJxu"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "Lo Mejor De Lo Mejor",
         "url": "https://open.spotify.com/album/5utAZ2gLHaRWCTAzbG5e0t"
       },
@@ -1607,38 +1623,6 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
-        "name": "Se Nos Paso La Mano En Sabor",
-        "url": "https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs"
-      },
-      "artists": [
-        {
-          "name": "Fito Olivares Y La Pura Sabrosura",
-          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
-        }
-      ],
-      "duration_ms": 185306,
-      "name": "Ag\u00fcita De Mel\u00f3n",
-      "url": "https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Llorar",
-        "url": "https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 223160,
-      "name": "Llorar",
-      "url": "https://open.spotify.com/track/6phWt5bRbTh96gjxZcnH4c"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
         "name": "El Disco de Oro para Equipos de Sonido, Vol. 2",
         "url": "https://open.spotify.com/album/4S7gUk1Ch5OLjaskyj4F1v"
       },
@@ -1667,6 +1651,38 @@
       "duration_ms": 199447,
       "name": "Cumbia de los Pobres",
       "url": "https://open.spotify.com/track/4IZX9MfsGtRDLtRoIedm8Z"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Se Nos Paso La Mano En Sabor",
+        "url": "https://open.spotify.com/album/6oL9RVp9PRaVi7ldTgMErs"
+      },
+      "artists": [
+        {
+          "name": "Fito Olivares Y La Pura Sabrosura",
+          "url": "https://open.spotify.com/artist/3qkJhpRpbTwDwga8CPMQ3o"
+        }
+      ],
+      "duration_ms": 185306,
+      "name": "Ag\u00fcita De Mel\u00f3n",
+      "url": "https://open.spotify.com/track/67RNKBsqRiyMOtor2RxfWR"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
+        "name": "Llorar",
+        "url": "https://open.spotify.com/album/1vUDDqbBTvOTVTNC0rs3Iz"
+      },
+      "artists": [
+        {
+          "name": "Los Socios Del Ritmo",
+          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
+        }
+      ],
+      "duration_ms": 223160,
+      "name": "Llorar",
+      "url": "https://open.spotify.com/track/6phWt5bRbTh96gjxZcnH4c"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -1915,6 +1931,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "El Condor Legendario",
+        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
+      },
+      "artists": [
+        {
+          "name": "Aniceto Molina",
+          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
+        }
+      ],
+      "duration_ms": 266866,
+      "name": "El Diario De Un Borracho",
+      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "15 \u00c9xitos",
         "url": "https://open.spotify.com/album/5Tu2cp5aCSB61PVU8vtzw9"
       },
@@ -1947,6 +1979,22 @@
     {
       "added_at": "2025-08-13 19:19:00",
       "album": {
+        "name": "Los Reyes de la Cumbia",
+        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
+      },
+      "artists": [
+        {
+          "name": "Grupo Kual?",
+          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
+        }
+      ],
+      "duration_ms": 311346,
+      "name": "Rumba Frenesi",
+      "url": "https://open.spotify.com/track/5LB9MFeblJWnzkqcDU0HA2"
+    },
+    {
+      "added_at": "2025-08-13 19:19:00",
+      "album": {
         "name": "Muy Tropical y Bailable",
         "url": "https://open.spotify.com/album/2MFR4ywLd3BPvVDa8U52Us"
       },
@@ -1963,22 +2011,6 @@
       "duration_ms": 242918,
       "name": "Tabaco y Ron",
       "url": "https://open.spotify.com/track/5kyyzquBdNuJis2kVC4GmT"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Los Reyes de la Cumbia",
-        "url": "https://open.spotify.com/album/7dqGNgngoKiz7sRR7DaBjw"
-      },
-      "artists": [
-        {
-          "name": "Grupo Kual?",
-          "url": "https://open.spotify.com/artist/4r880LQXdnpTflv3uqV4kX"
-        }
-      ],
-      "duration_ms": 311346,
-      "name": "Rumba Frenesi",
-      "url": "https://open.spotify.com/track/5LB9MFeblJWnzkqcDU0HA2"
     },
     {
       "added_at": "2025-08-13 19:19:00",
@@ -2011,38 +2043,6 @@
       "duration_ms": 218853,
       "name": "Agua de vida",
       "url": "https://open.spotify.com/track/4R6WYoefcvItKOQWbCWybg"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "Amor de Internet",
-        "url": "https://open.spotify.com/album/0x63AO9cXTLCjhRzdT1BuW"
-      },
-      "artists": [
-        {
-          "name": "Los Socios Del Ritmo",
-          "url": "https://open.spotify.com/artist/7bzt5lHL6bzLO3c9mkxNMW"
-        }
-      ],
-      "duration_ms": 230226,
-      "name": "Amor de Internet",
-      "url": "https://open.spotify.com/track/5LxGgIGHOjbzvPm5CclD1h"
-    },
-    {
-      "added_at": "2025-08-13 19:19:00",
-      "album": {
-        "name": "El Condor Legendario",
-        "url": "https://open.spotify.com/album/1JizA2c3lbWRkz7p0jZEeG"
-      },
-      "artists": [
-        {
-          "name": "Aniceto Molina",
-          "url": "https://open.spotify.com/artist/0vpwDjHfD1T65OcmvpcF0S"
-        }
-      ],
-      "duration_ms": 266866,
-      "name": "El Diario De Un Borracho",
-      "url": "https://open.spotify.com/track/3A4awt6Y9DwHBRuFDoRX5S"
     }
   ],
   "unique_name": "Cumbias Viejitas",

@@ -1,12 +1,12 @@
 {
   "description": "This is Leon Thomas. The essential tracks, all in one playlist.",
-  "num_followers": 25053,
+  "num_followers": 25062,
   "original_name": "This Is Leon Thomas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAADWAxpD+gDtsVO/xlPc2TgK",
+  "snapshot_id": "aq8iAAAAAAAiq7/mefLUWNVjXOs76dio",
   "tracks": [
     {
       "added_at": null,
@@ -119,26 +119,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Starrgirl",
-        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
-      },
-      "artists": [
-        {
-          "name": "Ayra Starr",
-          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 144270,
-      "name": "Pressure (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "everything is a lot.",
         "url": "https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN"
       },
@@ -155,6 +135,26 @@
       "duration_ms": 229112,
       "name": "Watching Us (with Leon Thomas)",
       "url": "https://open.spotify.com/track/1MWJ3pny2L1eiZTAYTaYwJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Starrgirl",
+        "url": "https://open.spotify.com/album/2xLmXWgnyK0bUBoqq17Mma"
+      },
+      "artists": [
+        {
+          "name": "Ayra Starr",
+          "url": "https://open.spotify.com/artist/3ZpEKRjHaHANcpk10u6Ntq"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 144270,
+      "name": "Pressure (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/2SbaSh8uSihvojWAuhhovp"
     },
     {
       "added_at": null,
@@ -343,26 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        },
-        {
-          "name": "Kehlani",
-          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
-        }
-      ],
-      "duration_ms": 219607,
-      "name": "DIRT ON MY SHOES (feat. Kehlani)",
-      "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Sweetness (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/4gUzNgnWO30XubUBBsLxLE"
       },
@@ -383,38 +363,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Friends Again",
-        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
       },
       "artists": [
         {
-          "name": "Baby Rose",
-          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
         },
         {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+          "name": "Kehlani",
+          "url": "https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX"
         }
       ],
-      "duration_ms": 218122,
-      "name": "Friends Again",
-      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Electric Dusk",
-        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 179478,
-      "name": "Sneak",
-      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
+      "duration_ms": 219607,
+      "name": "DIRT ON MY SHOES (feat. Kehlani)",
+      "url": "https://open.spotify.com/track/2AA05NFvw5tPQ9pvj68fsY"
     },
     {
       "added_at": null,
@@ -435,6 +399,42 @@
       "duration_ms": 283313,
       "name": "Until The End Of Time",
       "url": "https://open.spotify.com/track/0XdwIG7p28SeTam3DVdMX6"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Electric Dusk",
+        "url": "https://open.spotify.com/album/5u7OrPu6BbadcZNWuH10VT"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 179478,
+      "name": "Sneak",
+      "url": "https://open.spotify.com/track/17InvVlFT4I30J7mdeuorn"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Friends Again",
+        "url": "https://open.spotify.com/album/6LNPtTCwhVh1GIQboI1isu"
+      },
+      "artists": [
+        {
+          "name": "Baby Rose",
+          "url": "https://open.spotify.com/artist/6Z4JcgqrqgysyHIPRtDIHo"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 218122,
+      "name": "Friends Again",
+      "url": "https://open.spotify.com/track/4Ngjl2bK9B4iQI98DBano0"
     },
     {
       "added_at": null,
@@ -743,6 +743,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 235888,
+      "name": "HEEL",
+      "url": "https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "move it along (feat. Leon Thomas)",
         "url": "https://open.spotify.com/album/5MfGLjBa8qCdAWIS0BNomR"
       },
@@ -763,22 +779,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5mgaCfIZBK6BCg018gDXfL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 235888,
-      "name": "HEEL",
-      "url": "https://open.spotify.com/track/5JG9zYkmhPnc6X8nyO3Bv1"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Genesis",
         "url": "https://open.spotify.com/album/6RXMHSqYlYAEpDsNYYBj6B"
       },
@@ -791,26 +791,6 @@
       "duration_ms": 207572,
       "name": "Sunken Place",
       "url": "https://open.spotify.com/track/6QcSxvbao47AlbYOPv9nqv"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Documentary III",
-        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
-      },
-      "artists": [
-        {
-          "name": "The Game",
-          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
-        },
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 298920,
-      "name": "Run It Up (feat. Leon Thomas)",
-      "url": "https://open.spotify.com/track/6bJLLoNHb5PETQM2cfjzGW"
     },
     {
       "added_at": null,
@@ -831,6 +811,26 @@
       "duration_ms": 183589,
       "name": "Love Jones (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/0vbFrb1U7sRV2UhEPCmE3t"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Documentary III",
+        "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
+      },
+      "artists": [
+        {
+          "name": "The Game",
+          "url": "https://open.spotify.com/artist/0NbfKEOTQCcwd6o7wSDOHI"
+        },
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 298920,
+      "name": "Run It Up (feat. Leon Thomas)",
+      "url": "https://open.spotify.com/track/6bJLLoNHb5PETQM2cfjzGW"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "MUTT Deluxe: HEEL",
-        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
-      },
-      "artists": [
-        {
-          "name": "Leon Thomas",
-          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
-        }
-      ],
-      "duration_ms": 172844,
-      "name": "PRIZE",
-      "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "FRANCIS",
         "url": "https://open.spotify.com/album/4tIEFaeXJpNVw53d4AJwBs"
       },
@@ -903,6 +887,22 @@
       "duration_ms": 230936,
       "name": "dangerous game",
       "url": "https://open.spotify.com/track/1Qq1TDdMo7UjRP6nlSog2q"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "MUTT Deluxe: HEEL",
+        "url": "https://open.spotify.com/album/5m3rVDTPrTRwSgkKsvSYEL"
+      },
+      "artists": [
+        {
+          "name": "Leon Thomas",
+          "url": "https://open.spotify.com/artist/0nnBZ8FXWjG9wZgM2cpfeb"
+        }
+      ],
+      "duration_ms": 172844,
+      "name": "PRIZE",
+      "url": "https://open.spotify.com/track/2kk07MkCNiOC4NAJuSHJ8d"
     },
     {
       "added_at": null,

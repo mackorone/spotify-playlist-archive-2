@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 
 > Gotowi na pumpkin spice latte? 🍂🎃☕
 
-[Spotify](https://open.spotify.com/user/spotify) - 342,390 likes - 60 songs - 3 hr 27 min
+[Spotify](https://open.spotify.com/user/spotify) - 342,490 likes - 60 songs - 3 hr 27 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -37,10 +37,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 27 | [tylko kochaj mnie](https://open.spotify.com/track/5cYTaKj5sd6gQLqsLptOsQ) | [Zalia](https://open.spotify.com/artist/3VKQYnCpM6ofG8QUmlnW6d) | [tylko kochaj mnie](https://open.spotify.com/album/7Lq0KISXdnGyMfdlsWNgGi) | 2:41 |
 | 28 | [Lost Boys](https://open.spotify.com/track/2Rbkkd9pKlLtBOhsp5NmSI) | [Phoebe Bridgers](https://open.spotify.com/artist/1r1uxoy19fzMxunt3ONAkG) | [Lost Boys](https://open.spotify.com/album/7lJZpDWPKrfLjiY17OmwhP) | 4:14 |
 | 29 | [trees for the woods](https://open.spotify.com/track/4FXQTLl5v1jlaLvrp16mFk) | [Amie Blu](https://open.spotify.com/artist/3WWvqxymB3Nypxej8XcQKC) | [trees for the woods](https://open.spotify.com/album/5a1qNYmQldBmdb5NMLGi7a) | 4:07 |
-| 30 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 |
-| 31 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
-| 32 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
-| 33 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
+| 30 | [GET EVEN \(feat\. GIVEON\)](https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX) | [The Kid LAROI](https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J), [GIVĒON](https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP) | [GET EVEN](https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O) | 2:48 |
+| 31 | [exile \(feat\. Bon Iver\)](https://open.spotify.com/track/5S4aYQAJOwJMAamANWlICO) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Bon Iver](https://open.spotify.com/artist/4LEiUm1SRbFMgfqnQTwUbQ) | [folklore \(deluxe version\)](https://open.spotify.com/album/1pzvBxYgT6OVwJLtHkrdQK) | 4:45 |
+| 32 | [Write Me A Letter](https://open.spotify.com/track/2NQKHBLNYbTKyd3jHzAdoo) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:14 |
+| 33 | [Stygnie lato](https://open.spotify.com/track/4XeZLZoNzLd1fKxpLTEqE0) | [Kuba i Kuba](https://open.spotify.com/artist/43i9C47bAIVm8jKgEKYPfh) | [Stygnie lato](https://open.spotify.com/album/2DGpH0QbyyUEZYRL88lQxn) | 3:01 |
 | 34 | [Później Ci opowiem](https://open.spotify.com/track/2QdFZvfxgt0wI95l9gRNon) | [Dawid Kwiatkowski](https://open.spotify.com/artist/0hwjSlN7w3WWQY3mLdogAC), [Margaret](https://open.spotify.com/artist/6aGmKxXoKrSdovRUn8MBhZ) | [Później Ci opowiem](https://open.spotify.com/album/1H0QeC1ZHgBLnIaYoB5BPh) | 3:05 |
 | 35 | [cigarette smoke](https://open.spotify.com/track/0e4u0sFRGxHL4U2iFBrUvZ) | [Olivia Rodrigo](https://open.spotify.com/artist/1McMsnEElThX1knmY4oliG) | [you seem pretty sad for a girl so in love](https://open.spotify.com/album/3WZZF72ihlKPZBS4zSsNHl) | 5:40 |
 | 36 | [Ritual](https://open.spotify.com/track/6Bd87PKVxEe9hYWqymB4q8) | [David Kushner](https://open.spotify.com/artist/33NVpKoXjItPwUJTMZIOiY) | [Ritual](https://open.spotify.com/album/2vZxC42qVEkEqlne9QG2Br) | 3:12 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXakrXW5YU9SI.md) - [plain]
 | 48 | [BESOS](https://open.spotify.com/track/7xgb8DRD74b2UhUUkRtzqv) | [Jan Marczewski](https://open.spotify.com/artist/0JIgW2OFhm0hH8UdCMU5SU), [Hugo Tarres](https://open.spotify.com/artist/6VaYrjshHIPyNBnmVdLdgQ) | [BESOS](https://open.spotify.com/album/5iDoFpdKXCswpu35WTZMjg) | 2:38 |
 | 49 | [OPIUM](https://open.spotify.com/track/7CQhVGB9R9o8OHobV5tpSH) | [Julia Rocka](https://open.spotify.com/artist/3KK1cO0sCWl01U14rS7wwN) | [OPIUM / NIE POCIESZĘ CIĘ](https://open.spotify.com/album/0fSHqwhYc6FhRn5SEUhpjB) | 2:32 |
 | 50 | [Ja\-Amosia](https://open.spotify.com/track/4lCVXrW0aACVkMvKwCUZRM) | [ShataQS](https://open.spotify.com/artist/5xlqfXGTn6kq5lRVh3bRN4), [Leszek Możdżer](https://open.spotify.com/artist/4iJve8QGQMl0PpIDmRG73G) | [Ja\-Amosia](https://open.spotify.com/album/20bnR0GO0ur1vUnUZ8SOoW) | 4:18 |
-| 51 | [30m2](https://open.spotify.com/track/6b5Bgo6ucY2DRq6lgf0DVd) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3) | [30m2](https://open.spotify.com/album/0jJ4AKJYWtzowEvXXPlwEj) | 2:58 |
-| 52 | [Stuck](https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Stuck](https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb) | 2:21 |
+| 51 | [Stuck](https://open.spotify.com/track/7wfECN2xN5O0SwA9eRk2Xw) | [Basia Małecka](https://open.spotify.com/artist/6ORk5XjNPdW5mPj04Ac5XY) | [Stuck](https://open.spotify.com/album/0YEdQXONAw8RI4dQMVkYBb) | 2:21 |
+| 52 | [30m2](https://open.spotify.com/track/6b5Bgo6ucY2DRq6lgf0DVd) | [Bovska](https://open.spotify.com/artist/4E8L0A5xtDhcMaeBO7p0eg), [po prostu Kajtek](https://open.spotify.com/artist/2kk3YwIOrWbZHk9O3HKNY3) | [30m2](https://open.spotify.com/album/0jJ4AKJYWtzowEvXXPlwEj) | 2:58 |
 | 53 | [Gravity's Pull](https://open.spotify.com/track/4lBNkW8PZXnNey9o5rq7Dw) | [Soft Loft](https://open.spotify.com/artist/2AeL43nXvfqW3WrV9sDh5t) | [Throw The Dice](https://open.spotify.com/album/35RMq2UW1wvDT4mZga4861) | 3:26 |
 | 54 | [Słońca](https://open.spotify.com/track/2ftSQAOTflSTjSYs3GUpw0) | [Martyna Baranowska](https://open.spotify.com/artist/5qMLMV4Czbb9puv6O8Rd9b) | [Słońca](https://open.spotify.com/album/3s8WqPOFJ7RVFH0apHDV35) | 2:25 |
 | 55 | [Moment](https://open.spotify.com/track/5Z1RT5LfXWW7xTiKmYmKkX) | [Kinga Wołoszyn](https://open.spotify.com/artist/1Yb0ZnfUIx73l3N47KWmed) | [Moment](https://open.spotify.com/album/1SxgGDpTsjFDMHbmp23CNb) | 3:14 |

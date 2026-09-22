@@ -4,15 +4,16 @@
 
 > This is Grupo Los de la O\. The essential tracks, all in one playlist.
 
-84 songs - 4 hr 15 min
+85 songs - 4 hr 18 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
 | [24/7](https://open.spotify.com/track/5mTYlT2tJUFXK9mmRaV1TN) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:58 | 2025-07-21 | 2025-07-24 |
 | [31 Hats](https://open.spotify.com/track/7jB7UMt4AfL4jtbgQQzYxW) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [31 Hats](https://open.spotify.com/album/0kU84HlbzNzkVfcP5mTKSm) | 3:09 | 2025-09-09 | 2026-05-14 |
+| [AIR FORCE BLANCOS \(Peezy\)](https://open.spotify.com/track/2NO7qNlPiutmEHQlXy5u01) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [LEY DE VIDA](https://open.spotify.com/album/55AHWTTtd9lFfALLUYIGqz) | 3:00 | 2026-09-22 |  |
 | [Alucinado](https://open.spotify.com/track/3hHOW6QUvwImlYSQFDWFqo) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:59 | 2024-01-29 | 2025-07-20 |
 | [Area 81](https://open.spotify.com/track/3XlsdR2Fna6QHyDTfgSqZq) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Gerardo Ortiz](https://open.spotify.com/artist/4J13m9IZh03PEhoxAxRhXO) | [Pura Manzanita Vol\. 3](https://open.spotify.com/album/1FRle61xaVcvcjaD5PvNG7) | 2:45 | 2024-01-29 |  |
-| [Belik Frozen](https://open.spotify.com/track/6FXryIsXIDVWtzoJ5vCKmw) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:42 | 2024-01-29 |  |
+| [Belik Frozen](https://open.spotify.com/track/6FXryIsXIDVWtzoJ5vCKmw) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz), [Abraham Vazquez](https://open.spotify.com/artist/063Vp9es6lLAbFUDtIAkFD) | [Parque de Diversiones](https://open.spotify.com/album/139h5UsommAbalxqYcSD4h) | 2:42 | 2024-01-29 | 2026-09-22 |
 | [Bien Equipados](https://open.spotify.com/track/58jOk6VlZQxcUADl5RhOEq) | [Tony Aguirre](https://open.spotify.com/artist/6twEaJ9RPRYiCmWapjG8xh), [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Bien Equipados](https://open.spotify.com/album/2f0KcsjEftYpn1OmCJAs2P) | 2:50 | 2024-01-29 | 2026-09-21 |
 | [Borra Mi Número](https://open.spotify.com/track/2vYpW6xIpSnQGtUTFFsbNS) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Pura Manzanita Vol\. 4](https://open.spotify.com/album/3hNggryrDpZ8Z0MirfEskp) | 2:48 | 2025-07-20 | 2026-02-13 |
 | [Brillo Propio](https://open.spotify.com/track/7cVgN6hkW4FY8jEdO0ZA4S) | [Grupo Los de la O](https://open.spotify.com/artist/1glBi4zyzqaSQoy8ReU0rz) | [Resiliencia](https://open.spotify.com/album/5JlfkaYprQ3oDcaRtBOz4w) | 3:12 | 2024-06-03 | 2025-06-08 |

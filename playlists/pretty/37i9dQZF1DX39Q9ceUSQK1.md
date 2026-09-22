@@ -4,28 +4,28 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 
 > Nieuwe alternative & rock releases\. Cover: Moss
 
-[Spotify](https://open.spotify.com/user/spotify) - 59,032 likes - 100 songs - 5 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 59,037 likes - 100 songs - 5 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [FREEDOM](https://open.spotify.com/track/6Qj5X3OsIIzh4LorpSNo6r) | [De Staat](https://open.spotify.com/artist/4rZJKub3qA5t1yYcT3qmm4) | [DE STAAT](https://open.spotify.com/album/4JCV9bcfSToiqm3B6RPl3o) | 4:52 |
-| 2 | [Pure Honesty](https://open.spotify.com/track/18bVmSSmQjy2h7DuW9pJ2W) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn), [Rosie Stuart](https://open.spotify.com/artist/1AqfgDZnbgqJDNI8Odsq9m) | [Pure Honesty](https://open.spotify.com/album/0ifhkgei44CrT1ZzH731ol) | 3:28 |
+| 2 | [A Different Kind of Happiness](https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [A Different Kind of Happiness](https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP) | 4:06 |
 | 3 | [No Trouble](https://open.spotify.com/track/7r8om0E8jH8sxyZ0pLzG38) | [Triggerfinger](https://open.spotify.com/artist/3UhIlk54Oe4ja06V962ptU) | [Tarmac](https://open.spotify.com/album/4gmyQfu8sHmPu0vOnxPN7Y) | 2:33 |
 | 4 | [Why Oh Why](https://open.spotify.com/track/4ZfAR3Y0RR0k8kv5lqWTWI) | [Moss](https://open.spotify.com/artist/2b5IpGsb4QnU46rf1jpZQ0) | [Why Oh Why](https://open.spotify.com/album/5YCLa23FsP2NpftBqMc7RT) | 3:55 |
-| 5 | [Run Away](https://open.spotify.com/track/4djHuoHnH3bEKf5tbviToI) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/6gP36h0Cv8vTiBmdbHO3qI) | 3:39 |
-| 6 | [A Different Kind of Happiness](https://open.spotify.com/track/1Hd2Cw8guWWMyVx8cGftYA) | [Nothing But Thieves](https://open.spotify.com/artist/1kDGbuxWknIKx4FlgWxiSp) | [A Different Kind of Happiness](https://open.spotify.com/album/4qhgSq49DI10h3ZAvhtPoP) | 4:06 |
-| 7 | [Swallow The Bomb](https://open.spotify.com/track/6fi18o5Jp6dAIcXPlgzhWF) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Swallow The Bomb](https://open.spotify.com/album/15sTjwRdBcNiRwHT2fjso4) | 3:19 |
-| 8 | [My Whole World](https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [My Whole World](https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe) | 4:07 |
-| 9 | [Red Car](https://open.spotify.com/track/1iZsQ8JtDEjZojlFOBrDRi) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Melodie](https://open.spotify.com/album/3pCuWK1YLBdu96F3wIGqjy) | 3:28 |
-| 10 | [Simple Pleasures](https://open.spotify.com/track/2WrxJ6w8SWXFtCRs14cpso) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Simple Pleasures](https://open.spotify.com/album/1YAHNLFNRpKTg7BchT8crJ) | 3:52 |
-| 11 | [Seriously](https://open.spotify.com/track/3dZTrUqLpivFUkSuIpSoyb) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Seriously](https://open.spotify.com/album/6rE9QBWb6TtCjz13ipuwVv) | 4:09 |
-| 12 | [Cowboy Sinatra\_](https://open.spotify.com/track/7vDhn70WbYtahStdOAyGAJ) | [Magazines](https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz) | [Cowboy Sinatra\_](https://open.spotify.com/album/43XI5ywnMJ77CCi5gjVdif) | 2:58 |
-| 13 | [Wicked](https://open.spotify.com/track/1jDQwIqvtipS0wllReT1wN) | [Black Box Revelation](https://open.spotify.com/artist/3wFP2UY6scUTvqgucLALQq) | [Wicked](https://open.spotify.com/album/6s8ytPsPe9cssmrhurLucY) | 3:37 |
-| 14 | [Run Down Small Town](https://open.spotify.com/track/0VA0elhJ245MWVGB5HKfSN) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Run Down Small Town / This City Used To Be Alive](https://open.spotify.com/album/606IyE9Qxzh4oOlTeKtoAp) | 3:52 |
-| 15 | [Insignificant Other](https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Insignificant Other](https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib) | 5:53 |
-| 16 | [Who's That](https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Who's That](https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH) | 5:14 |
-| 17 | [STUNNER](https://open.spotify.com/track/2X7Pi01fFrlsDXTTvlpJwD) | [Danny Blue](https://open.spotify.com/artist/5s0rjfjcB5bk1bKAE2azc8) | [STUNNER](https://open.spotify.com/album/6tPS7AjRnmDbiXHkQdOBEx) | 4:02 |
-| 18 | [Niemand is Niemand](https://open.spotify.com/track/7IBd6evqgcAyWi4u9cmOm6) | [Jacht](https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO) | [Niemand is Niemand](https://open.spotify.com/album/0XsiHlbeCbDO27CSWam6j2) | 2:17 |
+| 5 | [Seriously](https://open.spotify.com/track/3dZTrUqLpivFUkSuIpSoyb) | [Editors](https://open.spotify.com/artist/6e9wIFWhBPHLE9bXK8gtBI) | [Seriously](https://open.spotify.com/album/6rE9QBWb6TtCjz13ipuwVv) | 4:09 |
+| 6 | [Simple Pleasures](https://open.spotify.com/track/2WrxJ6w8SWXFtCRs14cpso) | [Warhaus](https://open.spotify.com/artist/5uy67fWgovgNdbkP1kAf7m) | [Simple Pleasures](https://open.spotify.com/album/1YAHNLFNRpKTg7BchT8crJ) | 3:52 |
+| 7 | [Cowboy Sinatra\_](https://open.spotify.com/track/7vDhn70WbYtahStdOAyGAJ) | [Magazines](https://open.spotify.com/artist/24YiCboyRa5iK3cHYgzjaz) | [Cowboy Sinatra\_](https://open.spotify.com/album/43XI5ywnMJ77CCi5gjVdif) | 2:58 |
+| 8 | [Pure Honesty](https://open.spotify.com/track/18bVmSSmQjy2h7DuW9pJ2W) | [Portland](https://open.spotify.com/artist/0RHj75a0LpHdGbh0LUtpnn), [Rosie Stuart](https://open.spotify.com/artist/1AqfgDZnbgqJDNI8Odsq9m) | [Pure Honesty](https://open.spotify.com/album/0ifhkgei44CrT1ZzH731ol) | 3:28 |
+| 9 | [Swallow The Bomb](https://open.spotify.com/track/6fi18o5Jp6dAIcXPlgzhWF) | [Royal Blood](https://open.spotify.com/artist/2S5hlvw4CMtMGswFtfdK15) | [Swallow The Bomb](https://open.spotify.com/album/15sTjwRdBcNiRwHT2fjso4) | 3:19 |
+| 10 | [Run Away](https://open.spotify.com/track/4djHuoHnH3bEKf5tbviToI) | [Beck](https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS) | [Ride Lonesome](https://open.spotify.com/album/6gP36h0Cv8vTiBmdbHO3qI) | 3:39 |
+| 11 | [My Whole World](https://open.spotify.com/track/2tfc81XZfVReM0kYQqv7o3) | [Kings of Leon](https://open.spotify.com/artist/2qk9voo8llSGYcZ6xrBzKx) | [My Whole World](https://open.spotify.com/album/5J4m4brX6zUdVXeQbSpFpe) | 4:07 |
+| 12 | [Red Car](https://open.spotify.com/track/1iZsQ8JtDEjZojlFOBrDRi) | [Slow Pulp](https://open.spotify.com/artist/2JFTRDi5v7JtqoouVe1z5D) | [Melodie](https://open.spotify.com/album/3pCuWK1YLBdu96F3wIGqjy) | 3:28 |
+| 13 | [Niemand is Niemand](https://open.spotify.com/track/7IBd6evqgcAyWi4u9cmOm6) | [Jacht](https://open.spotify.com/artist/6idnmcf67erjR8vE9qLIoO) | [Niemand is Niemand](https://open.spotify.com/album/0XsiHlbeCbDO27CSWam6j2) | 2:17 |
+| 14 | [Insignificant Other](https://open.spotify.com/track/3NdLNUPkumBUIcacNxPlVE) | [Queens of the Stone Age](https://open.spotify.com/artist/4pejUc4iciQfgdX6OKulQn) | [Insignificant Other](https://open.spotify.com/album/2eoTB4LtFdMkPNDVT88Vib) | 5:53 |
+| 15 | [Wicked](https://open.spotify.com/track/1jDQwIqvtipS0wllReT1wN) | [Black Box Revelation](https://open.spotify.com/artist/3wFP2UY6scUTvqgucLALQq) | [Wicked](https://open.spotify.com/album/6s8ytPsPe9cssmrhurLucY) | 3:37 |
+| 16 | [Run Down Small Town](https://open.spotify.com/track/0VA0elhJ245MWVGB5HKfSN) | [Declan Welsh and The Decadent West](https://open.spotify.com/artist/6KNqvxgfYVRSzgAE1j2UT5) | [Run Down Small Town / This City Used To Be Alive](https://open.spotify.com/album/606IyE9Qxzh4oOlTeKtoAp) | 3:52 |
+| 17 | [Who's That](https://open.spotify.com/track/2YPP52aPZiFUxTmbQTUiR6) | [The War On Drugs](https://open.spotify.com/artist/6g0mn3tzAds6aVeUYRsryU) | [Who's That](https://open.spotify.com/album/5aPI8eIDOS7z4FwcLd0fDH) | 5:14 |
+| 18 | [STUNNER](https://open.spotify.com/track/2X7Pi01fFrlsDXTTvlpJwD) | [Danny Blue](https://open.spotify.com/artist/5s0rjfjcB5bk1bKAE2azc8) | [STUNNER](https://open.spotify.com/album/6tPS7AjRnmDbiXHkQdOBEx) | 4:02 |
 | 19 | [DUTCH HOUSE PARTIES](https://open.spotify.com/track/5G0r1pZOcqGcXKVfsG1a99) | [BERTHAJU](https://open.spotify.com/artist/78ZYaBigpiwJBwo2owu6ks) | [DUTCH HOUSE PARTIES](https://open.spotify.com/album/3Y3rCw2HAkjAux5Bu4v3cm) | 3:14 |
 | 20 | [Marianne](https://open.spotify.com/track/69rHKcrQpYGfToPThOV1UB) | [Fontaines D.C.](https://open.spotify.com/artist/3SXwqSqAoBz9WCI9PDQzY6) | [Marianne](https://open.spotify.com/album/3DWP3j1ZNxx2UsFGBsGFp9) | 3:45 |
 | 21 | [Copenhagen](https://open.spotify.com/track/7slWyXCqYjStw4zapVAZL0) | [Just Penelope](https://open.spotify.com/artist/2z8TqZbO16nv50m8PPPl9g) | [Copenhagen](https://open.spotify.com/album/1ZjbIGDluq6907nWxWqj4g) | 2:47 |
@@ -109,4 +109,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX39Q9ceUSQK1.md) - [plain]
 | 99 | [Cancel Me \(I’m Tired\)](https://open.spotify.com/track/5cYKa4Cowu3Xl6qD2Mh2e6) | [Fat Dog](https://open.spotify.com/artist/4DLjEphXbW7qIhX4iwmNEe) | [Cancel Me \(I'm Tired\)](https://open.spotify.com/album/3zy6TbZpMq8qDwEtJfVTvi) | 3:42 |
 | 100 | [If’s, But’s and Maybes](https://open.spotify.com/track/20tbDQSQ39sC9W8qZFIaWF) | [Cloudsurfers](https://open.spotify.com/artist/1elg1Km9e1Rmt61ggsGUp6) | [If’s, But’s and Maybes](https://open.spotify.com/album/5z3qAGtGkBAqT5xmCwhzhE) | 4:06 |
 
-Snapshot ID: `AAAAAB3qGQBgEEI/YVlt4hCOyVsF73Pa`
+Snapshot ID: `AAAAANTI7SpExI1KEPERzEZCrbVc5wuR`

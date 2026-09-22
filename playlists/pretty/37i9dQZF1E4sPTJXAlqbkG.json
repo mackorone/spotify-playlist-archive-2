@@ -1,6 +1,6 @@
 {
   "description": "With Sonder, Jhen\u00e9 Aiko, Drake and more",
-  "num_followers": 130109,
+  "num_followers": 130369,
   "original_name": "PARTYNEXTDOOR Radio",
   "owner": {
     "name": "Spotify",
@@ -119,6 +119,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "No Fuss",
+        "url": "https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA"
+      },
+      "artists": [
+        {
+          "name": "OG Parker",
+          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 190111,
+      "name": "No Fuss",
+      "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Keyz of Life",
         "url": "https://open.spotify.com/album/06MeJya7lqnT2r7EDRqBvm"
       },
@@ -147,26 +167,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "No Fuss",
-        "url": "https://open.spotify.com/album/2HEjp4r9NGBGLtXxk5TxsA"
-      },
-      "artists": [
-        {
-          "name": "OG Parker",
-          "url": "https://open.spotify.com/artist/5hhgghBFkLDdMn93GW4x3I"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 190111,
-      "name": "No Fuss",
-      "url": "https://open.spotify.com/track/7BAreLM0Yif723pgS8Kydl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Over It",
         "url": "https://open.spotify.com/album/1qgJNWnPIeK9rx7hF8JCPK"
       },
@@ -187,18 +187,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Shameless",
-        "url": "https://open.spotify.com/album/1cHm86on0UXY0KepCk1xui"
+        "name": "Me U & Hennessy (feat. Lil Wayne)",
+        "url": "https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO"
       },
       "artists": [
         {
-          "name": "Avenoir",
-          "url": "https://open.spotify.com/artist/3Z7onAknzpinUu3KtmgeZb"
+          "name": "DeJ Loaf",
+          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
+        },
+        {
+          "name": "Lil Wayne",
+          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
         }
       ],
-      "duration_ms": 175386,
-      "name": "Shameless",
-      "url": "https://open.spotify.com/track/2MJlhN2OockKCadeGS4AEP"
+      "duration_ms": 224971,
+      "name": "Me U & Hennessy (feat. Lil Wayne)",
+      "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
     },
     {
       "added_at": null,
@@ -219,22 +223,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Me U & Hennessy (feat. Lil Wayne)",
-        "url": "https://open.spotify.com/album/6pFVUvF0zOJvktayse6blO"
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
       },
       "artists": [
         {
-          "name": "DeJ Loaf",
-          "url": "https://open.spotify.com/artist/7kFfY4UjNdNyaeUgLIEbIF"
-        },
-        {
-          "name": "Lil Wayne",
-          "url": "https://open.spotify.com/artist/55Aa2cqylxrFIXC767Z865"
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
         }
       ],
-      "duration_ms": 224971,
-      "name": "Me U & Hennessy (feat. Lil Wayne)",
-      "url": "https://open.spotify.com/track/4TSDz7xZtxIXeKwiOuCe25"
+      "duration_ms": 231257,
+      "name": "Broken Clocks",
+      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
     },
     {
       "added_at": null,
@@ -331,22 +331,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 231257,
-      "name": "Broken Clocks",
-      "url": "https://open.spotify.com/track/2fXwCWkh6YG5zU1IyvQrbs"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Documentary III",
         "url": "https://open.spotify.com/album/4wAuas56CfyAbNVR3GIRVo"
       },
@@ -391,6 +375,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "MOVIE",
+        "url": "https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6"
+      },
+      "artists": [
+        {
+          "name": "DaniLeigh",
+          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 172391,
+      "name": "My Terms (feat. PARTYNEXTDOOR)",
+      "url": "https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "PARTYNEXTDOOR 4 (P4)",
         "url": "https://open.spotify.com/album/3mpMvyPWtxJnL3vywQHH5K"
       },
@@ -423,6 +427,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ctrl",
+        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
+      },
+      "artists": [
+        {
+          "name": "SZA",
+          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
+        }
+      ],
+      "duration_ms": 272193,
+      "name": "The Weekend",
+      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "The Last Wun",
         "url": "https://open.spotify.com/album/6l2aad6LJghHkbd0KX1f7w"
       },
@@ -439,26 +459,6 @@
       "duration_ms": 184440,
       "name": "wgft (feat. Burna Boy)",
       "url": "https://open.spotify.com/track/0WsC4ETIXyiHDMXRaPMvKe"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "MOVIE",
-        "url": "https://open.spotify.com/album/4d9fUkdY8BOJK0awqObMs6"
-      },
-      "artists": [
-        {
-          "name": "DaniLeigh",
-          "url": "https://open.spotify.com/artist/0XIKGBo9PnK1ApI5tZA60d"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 172391,
-      "name": "My Terms (feat. PARTYNEXTDOOR)",
-      "url": "https://open.spotify.com/track/4PjrqJ7IHDgb6CWHVQqsfM"
     },
     {
       "added_at": null,
@@ -531,22 +531,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ctrl",
-        "url": "https://open.spotify.com/album/76290XdXVF9rPzGdNRWdCh"
-      },
-      "artists": [
-        {
-          "name": "SZA",
-          "url": "https://open.spotify.com/artist/7tYKF4w9nC0nq9CsPZTHyP"
-        }
-      ],
-      "duration_ms": 272193,
-      "name": "The Weekend",
-      "url": "https://open.spotify.com/track/6gU9OKjOE7ghfEd55oRO57"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Journals",
         "url": "https://open.spotify.com/album/1rknZw4cyL9NInAqSwc8AA"
       },
@@ -563,22 +547,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Dreamin",
-        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
-      },
-      "artists": [
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        }
-      ],
-      "duration_ms": 147146,
-      "name": "Dreamin",
-      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Novacane",
         "url": "https://open.spotify.com/album/3RYdEXhGHojkTILUdtnRVJ"
       },
@@ -591,6 +559,22 @@
       "duration_ms": 302346,
       "name": "Novacane",
       "url": "https://open.spotify.com/track/4osgfFTICMkcGbbigdsa53"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PARTYNEXTDOOR TWO",
+        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+      },
+      "artists": [
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        }
+      ],
+      "duration_ms": 229776,
+      "name": "Sex on the Beach",
+      "url": "https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR"
     },
     {
       "added_at": null,
@@ -643,8 +627,32 @@
     {
       "added_at": null,
       "album": {
-        "name": "PARTYNEXTDOOR TWO",
-        "url": "https://open.spotify.com/album/1xwhNJCfTwuRia7Cpo7IbJ"
+        "name": "after.",
+        "url": "https://open.spotify.com/album/2lCHh2ojc3iRYCh2qX3bYS"
+      },
+      "artists": [
+        {
+          "name": "Amir Obe",
+          "url": "https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3"
+        },
+        {
+          "name": "PARTYNEXTDOOR",
+          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
+        },
+        {
+          "name": "G. Ry",
+          "url": "https://open.spotify.com/artist/2bAh3Pjl6JusfLvENVHu29"
+        }
+      ],
+      "duration_ms": 282993,
+      "name": "TALK TO ME NICE",
+      "url": "https://open.spotify.com/track/5SQvh2DpXwrwrIPf2v5tc4"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Dreamin",
+        "url": "https://open.spotify.com/album/4Oy8aMeS4lDCTK3Ukss3Dd"
       },
       "artists": [
         {
@@ -652,9 +660,9 @@
           "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
         }
       ],
-      "duration_ms": 229776,
-      "name": "Sex on the Beach",
-      "url": "https://open.spotify.com/track/1A8RGlqkdjAfwkXtEgJ7wR"
+      "duration_ms": 147146,
+      "name": "Dreamin",
+      "url": "https://open.spotify.com/track/35sZOqVnTQNIGWGURrFdLh"
     },
     {
       "added_at": null,
@@ -711,26 +719,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "after.",
-        "url": "https://open.spotify.com/album/2lCHh2ojc3iRYCh2qX3bYS"
+        "name": "GTTM: Goin Thru the Motions",
+        "url": "https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2"
       },
       "artists": [
         {
-          "name": "Amir Obe",
-          "url": "https://open.spotify.com/artist/6AWdGez5g1jxpfl9XD4wI3"
-        },
-        {
-          "name": "PARTYNEXTDOOR",
-          "url": "https://open.spotify.com/artist/2HPaUgqeutzr3jx5a9WyDV"
-        },
-        {
-          "name": "G. Ry",
-          "url": "https://open.spotify.com/artist/2bAh3Pjl6JusfLvENVHu29"
+          "name": "PnB Rock",
+          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
         }
       ],
-      "duration_ms": 282993,
-      "name": "TALK TO ME NICE",
-      "url": "https://open.spotify.com/track/5SQvh2DpXwrwrIPf2v5tc4"
+      "duration_ms": 245604,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw"
     },
     {
       "added_at": null,
@@ -747,22 +747,6 @@
       "duration_ms": 123080,
       "name": "TBH",
       "url": "https://open.spotify.com/track/236P5yLtfnHgTMxevc0q6F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GTTM: Goin Thru the Motions",
-        "url": "https://open.spotify.com/album/7eFfp9r4A30ueN9A5EJbk2"
-      },
-      "artists": [
-        {
-          "name": "PnB Rock",
-          "url": "https://open.spotify.com/artist/21WS9wngs9AqFckK7yYJPM"
-        }
-      ],
-      "duration_ms": 245604,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/2xbI8Vmyv3TkpTdywpPyNw"
     },
     {
       "added_at": null,
@@ -799,18 +783,38 @@
     {
       "added_at": null,
       "album": {
-        "name": "Eric B for President: Term 1",
-        "url": "https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3"
+        "name": "Last Day Of Summer",
+        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
       },
       "artists": [
         {
-          "name": "Eric Bellinger",
-          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
+          "name": "Summer Walker",
+          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
         }
       ],
-      "duration_ms": 178587,
-      "name": "Drive By",
-      "url": "https://open.spotify.com/track/1kEINOBYcSCQ5RwkP65g2A"
+      "duration_ms": 222374,
+      "name": "Girls Need Love (with Drake) - Remix",
+      "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Who Hurt You?",
+        "url": "https://open.spotify.com/album/5pg16PobNzDTjHzIa3WS4B"
+      },
+      "artists": [
+        {
+          "name": "Daniel Caesar",
+          "url": "https://open.spotify.com/artist/20wkVLutqVOYrc0kxFs7rA"
+        }
+      ],
+      "duration_ms": 231964,
+      "name": "Who Hurt You?",
+      "url": "https://open.spotify.com/track/3fX3N9yUo3hNatc2BbJDLs"
     },
     {
       "added_at": null,
@@ -831,22 +835,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Day Of Summer",
-        "url": "https://open.spotify.com/album/4hTM8jZ8DCCqglmZUDMSPz"
+        "name": "Eric B for President: Term 1",
+        "url": "https://open.spotify.com/album/7KNNWIPBk4Josbqhfa2KI3"
       },
       "artists": [
         {
-          "name": "Summer Walker",
-          "url": "https://open.spotify.com/artist/57LYzLEk2LcFghVwuWbcuS"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+          "name": "Eric Bellinger",
+          "url": "https://open.spotify.com/artist/7ibAWtDtmEfaVhc1FJ3Vl9"
         }
       ],
-      "duration_ms": 222374,
-      "name": "Girls Need Love (with Drake) - Remix",
-      "url": "https://open.spotify.com/track/14SaZBTjxlorHJQxXh01Hu"
+      "duration_ms": 178587,
+      "name": "Drive By",
+      "url": "https://open.spotify.com/track/1kEINOBYcSCQ5RwkP65g2A"
     },
     {
       "added_at": null,

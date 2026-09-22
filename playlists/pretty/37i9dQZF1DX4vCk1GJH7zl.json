@@ -1,6 +1,6 @@
 {
   "description": "Sucessos e novidades do rock calminho pra relaxar o seu dia! Foto: Bruna Foss",
-  "num_followers": 157004,
+  "num_followers": 157010,
   "original_name": "Rock Leve",
   "owner": {
     "name": "Spotify",
@@ -239,22 +239,6 @@
     {
       "added_at": "2026-09-04 03:03:14",
       "album": {
-        "name": "Causas Naturais",
-        "url": "https://open.spotify.com/album/041plE9wBqtZyzh3pxqEal"
-      },
-      "artists": [
-        {
-          "name": "Colomy",
-          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
-        }
-      ],
-      "duration_ms": 165823,
-      "name": "Causas Naturais",
-      "url": "https://open.spotify.com/track/3B8vuwgs2jyjiBFQe2WB9X"
-    },
-    {
-      "added_at": "2026-09-04 03:03:14",
-      "album": {
         "name": "Sonho Real, Raio de Sol",
         "url": "https://open.spotify.com/album/3kG1CJ42pOnL15mokG3IJb"
       },
@@ -267,6 +251,22 @@
       "duration_ms": 227028,
       "name": "Sonho Real",
       "url": "https://open.spotify.com/track/014b1uSr2h35A5jqMfpGfs"
+    },
+    {
+      "added_at": "2026-09-04 03:03:14",
+      "album": {
+        "name": "Causas Naturais",
+        "url": "https://open.spotify.com/album/041plE9wBqtZyzh3pxqEal"
+      },
+      "artists": [
+        {
+          "name": "Colomy",
+          "url": "https://open.spotify.com/artist/3cZPhYBGxe9nqWRe3xAlmp"
+        }
+      ],
+      "duration_ms": 165823,
+      "name": "Causas Naturais",
+      "url": "https://open.spotify.com/track/3B8vuwgs2jyjiBFQe2WB9X"
     },
     {
       "added_at": "2026-09-04 03:03:14",
@@ -871,22 +871,6 @@
     {
       "added_at": "2026-09-04 03:03:14",
       "album": {
-        "name": "Pelas Ruas das Am\u00e9ricas",
-        "url": "https://open.spotify.com/album/2Rl5oR4X2M60Cj811IEC0R"
-      },
-      "artists": [
-        {
-          "name": "Outros B\u00e1rbaros",
-          "url": "https://open.spotify.com/artist/38Hqlf0T70y7rcU9uyWduT"
-        }
-      ],
-      "duration_ms": 231303,
-      "name": "Pelas Ruas das Am\u00e9ricas",
-      "url": "https://open.spotify.com/track/6kkG5STTzm0bR8UIOFGvxt"
-    },
-    {
-      "added_at": "2026-09-04 03:03:14",
-      "album": {
         "name": "Pris\u00e3o das Ruas (Ao Vivo)",
         "url": "https://open.spotify.com/album/7KpmuoHTaT6qNYTv3zxzKh"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 214004,
       "name": "Pris\u00e3o das Ruas - Ao Vivo",
       "url": "https://open.spotify.com/track/5WiDk2Pe2Oj8x6woFwS6VF"
+    },
+    {
+      "added_at": "2026-09-04 03:03:14",
+      "album": {
+        "name": "Pelas Ruas das Am\u00e9ricas",
+        "url": "https://open.spotify.com/album/2Rl5oR4X2M60Cj811IEC0R"
+      },
+      "artists": [
+        {
+          "name": "Outros B\u00e1rbaros",
+          "url": "https://open.spotify.com/artist/38Hqlf0T70y7rcU9uyWduT"
+        }
+      ],
+      "duration_ms": 231303,
+      "name": "Pelas Ruas das Am\u00e9ricas",
+      "url": "https://open.spotify.com/track/6kkG5STTzm0bR8UIOFGvxt"
     },
     {
       "added_at": "2026-09-04 03:03:14",

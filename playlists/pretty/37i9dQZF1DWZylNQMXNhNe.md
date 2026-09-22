@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 
 > Os hits e novidades de artistas LGBTQIAPN+ estão aqui\. Foto: Katy da Voz e As Abusadas
 
-[Spotify](https://open.spotify.com/user/spotify) - 247,770 likes - 80 songs - 4 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 247,767 likes - 80 songs - 4 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZylNQMXNhNe.md) - [plain]
 | 30 | [O MUNDO É DETALHE PRA NÓS](https://open.spotify.com/track/0BUdmQFbk14Cvuduk29UGS) | [Duh Marinho](https://open.spotify.com/artist/0tE54MnqIWq8HHl1LzoFKf), [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [Ventos Favoráveis](https://open.spotify.com/album/3APk0mq8iLapPoU0uCCtT0) | 2:41 |
 | 31 | [SOCIALISMO DA PUTARIA](https://open.spotify.com/track/6aLtcUHFthF2k5C4UoDxAb) | [Isma](https://open.spotify.com/artist/2S8MKEWBgk4VQ1gxDPcO8Z), [Christopher Luz](https://open.spotify.com/artist/36MLP28p1UX0xIRdhZTeUc) | [MADE IN COHAB](https://open.spotify.com/album/66RYLrMIRZi4CgWC3fWM5S) | 3:12 |
 | 32 | [BABY](https://open.spotify.com/track/5TSJs1zz61YGQ39osV94uO) | [Mateus Carrilho](https://open.spotify.com/artist/0TSMy9QFSMnBR2si7qZ0VT), [DUPÊ](https://open.spotify.com/artist/33Ol2AOgNFyAlhIZXQmPEm) | [BABY](https://open.spotify.com/album/6MQslx0I6ZqGMFHKjpmrwf) | 2:57 |
-| 33 | [200 Anos \- Ao Vivo](https://open.spotify.com/track/5W8M8qtlrx9mEkmTir5ds4) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Intuição Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1Gb1JHL5TZ4GQKtdysHcQz) | 3:12 |
-| 34 | [Party Everyday](https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Party Everyday](https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L) | 2:17 |
+| 33 | [Party Everyday](https://open.spotify.com/track/2BYrtnBWyue0txwh8Pn0kR) | [Grag Queen](https://open.spotify.com/artist/6Q5YqxLl13ULqA5orHJotR) | [Party Everyday](https://open.spotify.com/album/2EXPXnfrcczGcIMTxOMx2L) | 2:17 |
+| 34 | [200 Anos \- Ao Vivo](https://open.spotify.com/track/5W8M8qtlrx9mEkmTir5ds4) | [Yasmin Santos](https://open.spotify.com/artist/597XBqZtaiZC7laCNx3nVz) | [Intuição Vol\. 2 \(Ao Vivo\)](https://open.spotify.com/album/1Gb1JHL5TZ4GQKtdysHcQz) | 3:12 |
 | 35 | [20K](https://open.spotify.com/track/2Fh08SKc6XQIFSX0JC7DLr) | [Vita](https://open.spotify.com/artist/6dfQmJiIvW1OedMalPDMnO), [André Miquelotti](https://open.spotify.com/artist/7DWlmonBAqM6AoN0m0lr54) | [VITA'S HOUSE](https://open.spotify.com/album/5D6uIJOGZdsBvlbejGbdFr) | 2:33 |
 | 36 | [Tarô](https://open.spotify.com/track/5YRD5hiYRWt95shTotBH3d) | [Aretuza Lovi](https://open.spotify.com/artist/3cKD8x85OnB9pu8T8k5GYe), [Linn da Quebrada](https://open.spotify.com/artist/5gGBopc7iw8yLqwxfPIv3t) | [Tarô](https://open.spotify.com/album/1CTPrzBcyeuiZjzvG6NCBD) | 3:20 |
 | 37 | [Desculpa por Eu Não Te Amar](https://open.spotify.com/track/7cYS59Va8yi9F12TxgAX8x) | [Thiago Pantaleão](https://open.spotify.com/artist/70HOdlw2Ud3B4A7W4CI1V6) | [Fim do Mundo](https://open.spotify.com/album/6an1lO7NMDUWg6eLPZQhVw) | 3:06 |

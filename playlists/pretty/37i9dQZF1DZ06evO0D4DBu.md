@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 
 > This is Chance the Rapper\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 210,706 likes - 50 songs - 3 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 210,710 likes - 50 songs - 3 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 22 | [Acid Rain](https://open.spotify.com/track/1aYeBUofVM4l9Pc1XGwz5q) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [Acid Rap](https://open.spotify.com/album/7Ffm3ZluTZRYEdlE5Jjlid) | 3:36 |
 | 23 | [Juke Jam \(feat\. Justin Bieber & Towkio\)](https://open.spotify.com/track/3eze1OsZ1rqeXkKStNfTmi) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s), [Towkio](https://open.spotify.com/artist/23sYU61n9f1CzYi8NJhAXS) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:39 |
 | 24 | [Bad Idea \(feat\. Chance the Rapper\)](https://open.spotify.com/track/5yK37zazHUe3WxEvymZs20) | [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [The Lost Boy](https://open.spotify.com/album/6Pb7PMZtW0fuEM1lCGvCDu) | 3:54 |
-| 25 | [YOU CAN ALWAYS COME BACK HOME](https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [YOU CAN ALWAYS COME BACK HOME](https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q) | 3:51 |
-| 26 | [Need To Know \(feat\. Chance The Rapper\)](https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 3:52 |
+| 25 | [Need To Know \(feat\. Chance The Rapper\)](https://open.spotify.com/track/1OsjZeUg7cGuiCr4E8schs) | [Macklemore & Ryan Lewis](https://open.spotify.com/artist/5BcAKTbp20cv7tC5VqPFoC), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY), [Ryan Lewis](https://open.spotify.com/artist/4myTppRgh0rojLxx8RycOp), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [This Unruly Mess I've Made](https://open.spotify.com/album/2kqn09pydzvKvB3xWbAxY4) | 3:52 |
+| 26 | [YOU CAN ALWAYS COME BACK HOME](https://open.spotify.com/track/1XCWAofU9kAmdHda2dJpbj) | [Jon Keith](https://open.spotify.com/artist/0PUc1lwaZpPJaMr0v4Gdvo), [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [YOU CAN ALWAYS COME BACK HOME](https://open.spotify.com/album/2ZKYQ4pgjZ87oMJBhdDV1Q) | 3:51 |
 | 27 | [All We Got \(feat\. Kanye West & Chicago Children's Choir\)](https://open.spotify.com/track/3ZLyt2ndLFBh148XRYjYYZ) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Kanye West](https://open.spotify.com/artist/5K4W6rqBFWDnAN6FQUkS6x), [Chicago Children's Choir](https://open.spotify.com/artist/6e64nPdtxyICfh90RJukpg) | [Coloring Book](https://open.spotify.com/album/71QyofYesSsRMwFOTafnhB) | 3:23 |
 | 28 | [The Highs & The Lows \(feat\. Joey BadA$$\)](https://open.spotify.com/track/3DYZnMH1MpCJRlHzZ7fR18) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Bada$$](https://open.spotify.com/artist/2P5sC9cVZDToPxyomzF1UH) | [STAR LINE](https://open.spotify.com/album/4if1BvvWfmG4go4uAmow8h) | 4:15 |
 | 29 | [Hot Shower](https://open.spotify.com/track/6TagqfYkLRIo8SPNdyaJ4f) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [MadeinTYO](https://open.spotify.com/artist/5SyGEPymt1G2uto47tVWvZ), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [The Big Day](https://open.spotify.com/album/27Z9dFpWc5c1cW7axN9Dy6) | 3:45 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO0D4DBu.md) - [plain]
 | 49 | [Bad Boys 2](https://open.spotify.com/track/1Vp6f1PNfAgVF6X5Aw4xtA) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf), [Joey Purp](https://open.spotify.com/artist/1ewyVtTZBqFYWIcepopRhp) | [Bad Boys 2](https://open.spotify.com/album/4Q6CEjIaKPUqyO99ZIkbvW) | 2:13 |
 | 50 | [14,400 Minutes](https://open.spotify.com/track/2C4qO9u7TFMm4gt5MReyAD) | [Chance the Rapper](https://open.spotify.com/artist/1anyVhU62p31KFi8MEzkbf) | [10 Day](https://open.spotify.com/album/71BfvzpZmuVgW6zdQ93bin) | 2:08 |
 
-Snapshot ID: `aq3QgAAAAADCxV/gYL1I6ZEZEqN+F1ca`
+Snapshot ID: `aq8iAAAAAAAtpr2DrI7ZS5DtRjKbVqnC`

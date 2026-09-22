@@ -1,12 +1,12 @@
 {
   "description": "This is \u00c1ngela Aguilar. The essential tracks, all in one playlist.",
-  "num_followers": 151176,
+  "num_followers": 151169,
   "original_name": "This Is \u00c1ngela Aguilar",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABbVfkvn41wBkmQeqzIcQ0Q",
+  "snapshot_id": "aq8iAAAAAABMhMKxDeZLoj1jEBDEs9kS",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicana Enamorada",
-        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 178934,
-      "name": "Inevitable",
-      "url": "https://open.spotify.com/track/0Je044p1uanai2hpiVY3ax"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "PRIMERO SOY MEXICANA",
         "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 235805,
       "name": "Cielo Rojo",
       "url": "https://open.spotify.com/track/1qpcAIt2DHxqD1JsOTy7XJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexicana Enamorada",
+        "url": "https://open.spotify.com/album/5A7zzI1YR0YnWmaahoQeD7"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 178934,
+      "name": "Inevitable",
+      "url": "https://open.spotify.com/track/0Je044p1uanai2hpiVY3ax"
     },
     {
       "added_at": null,
@@ -447,6 +447,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "PRIMERO SOY MEXICANA",
+        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
+      },
+      "artists": [
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        }
+      ],
+      "duration_ms": 170820,
+      "name": "Me Gustas Mucho",
+      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Qu\u00e9 Agon\u00eda (Remix)",
         "url": "https://open.spotify.com/album/6sV3b096rORDwNqdIh2CgK"
       },
@@ -467,22 +483,6 @@
       "duration_ms": 188206,
       "name": "Qu\u00e9 Agon\u00eda - Remix",
       "url": "https://open.spotify.com/track/6X7wUIz4tP7JcAauyU0h2j"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "PRIMERO SOY MEXICANA",
-        "url": "https://open.spotify.com/album/4IUdqipBmNWnFU3XJqq7TB"
-      },
-      "artists": [
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        }
-      ],
-      "duration_ms": 170820,
-      "name": "Me Gustas Mucho",
-      "url": "https://open.spotify.com/track/7c6L2XlUPwcmMlijRNu9Sd"
     },
     {
       "added_at": null,
@@ -727,8 +727,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que No Se Apague La M\u00fasica",
-        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
+        "name": "Los Aguilar Sinf\u00f3nico Desde El Hollywood Bowl (Live)",
+        "url": "https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7"
       },
       "artists": [
         {
@@ -736,9 +736,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 113619,
-      "name": "Amor, Amor de Mis Amores",
-      "url": "https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL"
+      "duration_ms": 206055,
+      "name": "Qu\u00e9 Agon\u00eda - Live",
+      "url": "https://open.spotify.com/track/7c575rH2pT1ltlzgku8MDa"
     },
     {
       "added_at": null,
@@ -759,8 +759,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Los Aguilar Sinf\u00f3nico Desde El Hollywood Bowl (Live)",
-        "url": "https://open.spotify.com/album/4T6hC12Jiee1Hv53N3VPq7"
+        "name": "Que No Se Apague La M\u00fasica",
+        "url": "https://open.spotify.com/album/58nt3Nu5aJypSy7RyVryZK"
       },
       "artists": [
         {
@@ -768,9 +768,9 @@
           "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
         }
       ],
-      "duration_ms": 206055,
-      "name": "Qu\u00e9 Agon\u00eda - Live",
-      "url": "https://open.spotify.com/track/7c575rH2pT1ltlzgku8MDa"
+      "duration_ms": 113619,
+      "name": "Amor, Amor de Mis Amores",
+      "url": "https://open.spotify.com/track/15hJAORUQLQnnP6gM9DHrL"
     },
     {
       "added_at": null,
@@ -855,30 +855,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mexicano Hasta los Huesos",
-        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
-      },
-      "artists": [
-        {
-          "name": "Pepe Aguilar",
-          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
-        },
-        {
-          "name": "\u00c1ngela Aguilar",
-          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
-        },
-        {
-          "name": "Leonardo Aguilar",
-          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
-        }
-      ],
-      "duration_ms": 194741,
-      "name": "Camino de Guanajuato",
-      "url": "https://open.spotify.com/track/2XzgEjNt8dnL53FUh8ozqX"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Homenaje a Los Grandes Compositores",
         "url": "https://open.spotify.com/album/1JdG9NiSeff8ZcFt5iG3fB"
       },
@@ -903,6 +879,30 @@
       "duration_ms": 261133,
       "name": "Medley Ranchero: El Cantador / Tristes Recuerdos (feat. Pepe Aguilar, \u00c1ngela Aguilar & Leonardo Aguilar)",
       "url": "https://open.spotify.com/track/5ply4jARRCAQ6UtGij6efs"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Mexicano Hasta los Huesos",
+        "url": "https://open.spotify.com/album/1eZy16Ti3twMuRo7Q0IS6w"
+      },
+      "artists": [
+        {
+          "name": "Pepe Aguilar",
+          "url": "https://open.spotify.com/artist/03Yb3iBy9GCifXiATEFcit"
+        },
+        {
+          "name": "\u00c1ngela Aguilar",
+          "url": "https://open.spotify.com/artist/3abT87tqQ4Q5PA5nw6CYyH"
+        },
+        {
+          "name": "Leonardo Aguilar",
+          "url": "https://open.spotify.com/artist/1QgrwYywvDuC43MDtR8cqq"
+        }
+      ],
+      "duration_ms": 194741,
+      "name": "Camino de Guanajuato",
+      "url": "https://open.spotify.com/track/2XzgEjNt8dnL53FUh8ozqX"
     },
     {
       "added_at": null,

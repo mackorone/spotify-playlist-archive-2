@@ -1,6 +1,6 @@
 {
   "description": "Go hard or go home. Cover: SOTA",
-  "num_followers": 76735,
+  "num_followers": 76749,
   "original_name": "Jump Up!",
   "owner": {
     "name": "Spotify",
@@ -671,26 +671,6 @@
     {
       "added_at": "2026-08-20 13:38:48",
       "album": {
-        "name": "Lose Your Shit",
-        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
-      },
-      "artists": [
-        {
-          "name": "A.M.C",
-          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
-        },
-        {
-          "name": "Phantom",
-          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
-        }
-      ],
-      "duration_ms": 190094,
-      "name": "Lose Your Shit",
-      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
-    },
-    {
-      "added_at": "2026-08-20 13:38:48",
-      "album": {
         "name": "Outlaw",
         "url": "https://open.spotify.com/album/1CmpfvkAdZF2M3X25bwsWQ"
       },
@@ -707,6 +687,26 @@
       "duration_ms": 177136,
       "name": "Outlaw",
       "url": "https://open.spotify.com/track/1dgTcXVMLvp0aeiBFPtW9a"
+    },
+    {
+      "added_at": "2026-08-20 13:38:48",
+      "album": {
+        "name": "Lose Your Shit",
+        "url": "https://open.spotify.com/album/5NpLx3dzzvrLblSu2N8ztd"
+      },
+      "artists": [
+        {
+          "name": "A.M.C",
+          "url": "https://open.spotify.com/artist/5DygptUY6coQHpmgFfISzQ"
+        },
+        {
+          "name": "Phantom",
+          "url": "https://open.spotify.com/artist/1LBNgntO0FfoRb4441kK6a"
+        }
+      ],
+      "duration_ms": 190094,
+      "name": "Lose Your Shit",
+      "url": "https://open.spotify.com/track/2EnqAS6Z6fwzbwrJbKp6sm"
     },
     {
       "added_at": "2026-08-20 13:38:48",

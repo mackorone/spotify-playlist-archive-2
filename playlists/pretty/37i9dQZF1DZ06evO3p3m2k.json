@@ -6,7 +6,7 @@
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAD/SzeuSRRytAX/5ThZSSGV",
+  "snapshot_id": "aq8iAAAAAAC9Akzm5UzOudlDPUWcfLzc",
   "tracks": [
     {
       "added_at": null,
@@ -87,6 +87,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "La GuapA",
+        "url": "https://open.spotify.com/album/7FJXAjtGwzdCr5Ku5qHPWE"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 136124,
+      "name": "La GuapA",
+      "url": "https://open.spotify.com/track/360BMRTge92ufqa7fiVffL"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -103,22 +119,6 @@
       "duration_ms": 170454,
       "name": "Manhattan",
       "url": "https://open.spotify.com/track/4JR4YPpC6Zcxf1bVy43mPD"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "La GuapA",
-        "url": "https://open.spotify.com/album/7FJXAjtGwzdCr5Ku5qHPWE"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 136124,
-      "name": "La GuapA",
-      "url": "https://open.spotify.com/track/360BMRTge92ufqa7fiVffL"
     },
     {
       "added_at": null,
@@ -159,22 +159,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pista",
-        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 166875,
-      "name": "La Colombiana",
-      "url": "https://open.spotify.com/track/3lR7MCIummieXz5REQDoYp"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mar Adentro",
         "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
@@ -187,6 +171,22 @@
       "duration_ms": 176056,
       "name": "Cuando Te Encuentre",
       "url": "https://open.spotify.com/track/1rIezJH3NQpbKJBAxZlIKQ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 166875,
+      "name": "La Colombiana",
+      "url": "https://open.spotify.com/track/3lR7MCIummieXz5REQDoYp"
     },
     {
       "added_at": null,
@@ -227,22 +227,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pista",
-        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 173486,
-      "name": "Flores de Primavera",
-      "url": "https://open.spotify.com/track/0ls534NwNdl4cNuJDP4Esw"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mar Adentro",
         "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
@@ -255,6 +239,22 @@
       "duration_ms": 172590,
       "name": "The Heaven",
       "url": "https://open.spotify.com/track/0dUEH1E7yUrXar2UZEERrg"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 173486,
+      "name": "Flores de Primavera",
+      "url": "https://open.spotify.com/track/0ls534NwNdl4cNuJDP4Esw"
     },
     {
       "added_at": null,
@@ -295,6 +295,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 241796,
+      "name": "Mar Adentro",
+      "url": "https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -311,22 +327,6 @@
       "duration_ms": 177389,
       "name": "Aurora",
       "url": "https://open.spotify.com/track/5ruXmcIszTA8a5GWfloGWV"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 241796,
-      "name": "Mar Adentro",
-      "url": "https://open.spotify.com/track/2PsSft1B1n0mZtmQ8xclLS"
     },
     {
       "added_at": null,
@@ -363,22 +363,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "La Pista",
-        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 239504,
-      "name": "De Nada Me Arrepiento",
-      "url": "https://open.spotify.com/track/31tKIt6qGlzqT3DV3NIQRF"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Mar Adentro",
         "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
       },
@@ -391,6 +375,22 @@
       "duration_ms": 187805,
       "name": "Paciente",
       "url": "https://open.spotify.com/track/2x6RrcueNTLQuloTnR1ULz"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "La Pista",
+        "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 239504,
+      "name": "De Nada Me Arrepiento",
+      "url": "https://open.spotify.com/track/31tKIt6qGlzqT3DV3NIQRF"
     },
     {
       "added_at": null,
@@ -431,6 +431,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 171000,
+      "name": "Submarino",
+      "url": "https://open.spotify.com/track/458HEdjsqtvw5x7QXmFNL6"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "La Pista",
         "url": "https://open.spotify.com/album/0vXg9Gnv5HPXLAKBF9ajil"
       },
@@ -447,22 +463,6 @@
       "duration_ms": 191313,
       "name": "Cara de Idiota",
       "url": "https://open.spotify.com/track/4dKJDvoZ70XB4BIHMoGnAU"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 171000,
-      "name": "Submarino",
-      "url": "https://open.spotify.com/track/458HEdjsqtvw5x7QXmFNL6"
     },
     {
       "added_at": null,
@@ -503,6 +503,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mar Adentro",
+        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+      },
+      "artists": [
+        {
+          "name": "Juliana",
+          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        }
+      ],
+      "duration_ms": 238460,
+      "name": "Desde La Orilla",
+      "url": "https://open.spotify.com/track/6JADr8YFprsEK8qczdQ01k"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Siempre Fui Yo 2 (Banda Sonora Original)",
         "url": "https://open.spotify.com/album/4KAbxF4x33ZrI1PnRTZ6Lw"
       },
@@ -523,8 +539,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mar Adentro",
-        "url": "https://open.spotify.com/album/0Tpibq09sH4zxMhEykvXlo"
+        "name": "Juliana",
+        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
       },
       "artists": [
         {
@@ -532,9 +548,9 @@
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
         }
       ],
-      "duration_ms": 238460,
-      "name": "Desde La Orilla",
-      "url": "https://open.spotify.com/track/6JADr8YFprsEK8qczdQ01k"
+      "duration_ms": 175286,
+      "name": "Presiento",
+      "url": "https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip"
     },
     {
       "added_at": null,
@@ -551,22 +567,6 @@
       "duration_ms": 303088,
       "name": "Narices Fr\u00edas",
       "url": "https://open.spotify.com/track/5SqOzL7GvRCJWTBmY7Kvvz"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Juliana",
-        "url": "https://open.spotify.com/album/6REdS1fIBEUTa0hkCEFX0x"
-      },
-      "artists": [
-        {
-          "name": "Juliana",
-          "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        }
-      ],
-      "duration_ms": 175286,
-      "name": "Presiento",
-      "url": "https://open.spotify.com/track/6xc4zqAPPvOr0zRaUo5tip"
     },
     {
       "added_at": null,
@@ -814,11 +814,15 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
+        },
+        {
+          "name": "Chromeo",
+          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         }
       ],
-      "duration_ms": 173962,
-      "name": "La \u00daltima Vez",
-      "url": "https://open.spotify.com/track/0b1yf2gOLwNAx80mjql6HP"
+      "duration_ms": 218460,
+      "name": "La Primera Vez - Remix",
+      "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
     },
     {
       "added_at": null,
@@ -866,15 +870,11 @@
         {
           "name": "Juliana",
           "url": "https://open.spotify.com/artist/5Mc6124m8waYCvdYLyM8CY"
-        },
-        {
-          "name": "Chromeo",
-          "url": "https://open.spotify.com/artist/2mV8aJphiSHYJf43DxL7Gt"
         }
       ],
-      "duration_ms": 218460,
-      "name": "La Primera Vez - Remix",
-      "url": "https://open.spotify.com/track/6OMi77EJouSqD8xBEu0jkV"
+      "duration_ms": 173962,
+      "name": "La \u00daltima Vez",
+      "url": "https://open.spotify.com/track/0b1yf2gOLwNAx80mjql6HP"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Caf\u00e9 caliente, sill\u00f3n blandito y la mejor lectura o compa\u00f1\u00eda.",
-  "num_followers": 813559,
+  "num_followers": 813498,
   "original_name": "Caf\u00e9, Libros.",
   "owner": {
     "name": "Spotify",
@@ -159,8 +159,8 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Birthplace",
-        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
+        "name": "I Make Sparks",
+        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
       },
       "artists": [
         {
@@ -168,9 +168,9 @@
           "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 202960,
-      "name": "Sleepless",
-      "url": "https://open.spotify.com/track/720kcKRMGl2rJh6jsfu8Z5"
+      "duration_ms": 218573,
+      "name": "I Make Sparks",
+      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -263,8 +263,8 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "I Make Sparks",
-        "url": "https://open.spotify.com/album/41C6CAsnARCxcgE26D0Sxm"
+        "name": "Birthplace",
+        "url": "https://open.spotify.com/album/0tWckYjFI6ioZptLr42J3p"
       },
       "artists": [
         {
@@ -272,9 +272,9 @@
           "url": "https://open.spotify.com/artist/0rZp7G3gIH6WkyeXbrZnGi"
         }
       ],
-      "duration_ms": 218573,
-      "name": "I Make Sparks",
-      "url": "https://open.spotify.com/track/5SDHPiJN0Z7qlUNvXJhPFo"
+      "duration_ms": 202960,
+      "name": "Sleepless",
+      "url": "https://open.spotify.com/track/720kcKRMGl2rJh6jsfu8Z5"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -819,22 +819,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Anyone",
-        "url": "https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8"
-      },
-      "artists": [
-        {
-          "name": "Bailey Jehl",
-          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
-        }
-      ],
-      "duration_ms": 172766,
-      "name": "Anyone",
-      "url": "https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "If I Can't Have You",
         "url": "https://open.spotify.com/album/120k8Zuxhz77mxl5fLXPuB"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 242776,
       "name": "If I Can't Have You",
       "url": "https://open.spotify.com/track/0NREkFloGwchkD4AKHZ10Y"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Anyone",
+        "url": "https://open.spotify.com/album/0KtdvlGTljVZ4D5Jarm4m8"
+      },
+      "artists": [
+        {
+          "name": "Bailey Jehl",
+          "url": "https://open.spotify.com/artist/3HX0wFvwBn3wbxrtHuEUus"
+        }
+      ],
+      "duration_ms": 172766,
+      "name": "Anyone",
+      "url": "https://open.spotify.com/track/0YhsOegsemgmT7ZHdWheUy"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -899,22 +899,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Summertime",
-        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
-      },
-      "artists": [
-        {
-          "name": "Gil Cohen",
-          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
-        }
-      ],
-      "duration_ms": 227250,
-      "name": "Summertime",
-      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Fade into You",
         "url": "https://open.spotify.com/album/70oTwRc3ogwa37NxrHqPdg"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 252596,
       "name": "Fade into You",
       "url": "https://open.spotify.com/track/0UV2btQxu47HidfjAaM6f8"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Summertime",
+        "url": "https://open.spotify.com/album/0XtsrrGHxCK1UTMhdL4x7A"
+      },
+      "artists": [
+        {
+          "name": "Gil Cohen",
+          "url": "https://open.spotify.com/artist/3RIFM8s5jyChTKVnP0ZeDe"
+        }
+      ],
+      "duration_ms": 227250,
+      "name": "Summertime",
+      "url": "https://open.spotify.com/track/0kucUUkDimdEREo8hsXOng"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1279,18 +1279,18 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Dynamite",
-        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+        "name": "Paolo Velera",
+        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
       },
       "artists": [
         {
-          "name": "Treadlights",
-          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+          "name": "Paolo Velera",
+          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
         }
       ],
-      "duration_ms": 151119,
-      "name": "Dynamite",
-      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
+      "duration_ms": 206557,
+      "name": "Life on Mars",
+      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1311,22 +1311,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Paolo Velera",
-        "url": "https://open.spotify.com/album/3vHWDnKJ7yBYDy5W3D85pC"
-      },
-      "artists": [
-        {
-          "name": "Paolo Velera",
-          "url": "https://open.spotify.com/artist/6IA4Wsjyp72OYkvWlkwyeH"
-        }
-      ],
-      "duration_ms": 206557,
-      "name": "Life on Mars",
-      "url": "https://open.spotify.com/track/2VxuqHEeXHxGMWZN6CqFcT"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Old Town Road",
         "url": "https://open.spotify.com/album/5tsNukHkjhrH3RWBA2AVAv"
       },
@@ -1339,6 +1323,22 @@
       "duration_ms": 171866,
       "name": "Old Town Road",
       "url": "https://open.spotify.com/track/6Q1Gvu87DTf9SUkwUeBGGl"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Dynamite",
+        "url": "https://open.spotify.com/album/5rq44uXnXAJ7ksLYjc4jvU"
+      },
+      "artists": [
+        {
+          "name": "Treadlights",
+          "url": "https://open.spotify.com/artist/75lqw9jUFPanWhAqLVYIIK"
+        }
+      ],
+      "duration_ms": 151119,
+      "name": "Dynamite",
+      "url": "https://open.spotify.com/track/3NJfUFlW79oBXVK7RTzGtV"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1643,22 +1643,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Wayne Mack",
-        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
-      },
-      "artists": [
-        {
-          "name": "Wayne Mack",
-          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
-        }
-      ],
-      "duration_ms": 193412,
-      "name": "Everything I wanted",
-      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Sweet but Psycho",
         "url": "https://open.spotify.com/album/5ZaipsjftYgiq8axb6Iv5e"
       },
@@ -1671,6 +1655,22 @@
       "duration_ms": 188712,
       "name": "Sweet but Psycho - Acoustic",
       "url": "https://open.spotify.com/track/09IZGpkbdHfJS4g33j6ALr"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Wayne Mack",
+        "url": "https://open.spotify.com/album/4rfj34FpgZZvfxUUXda0oU"
+      },
+      "artists": [
+        {
+          "name": "Wayne Mack",
+          "url": "https://open.spotify.com/artist/62eR2vdahhu9BuJesGEQCI"
+        }
+      ],
+      "duration_ms": 193412,
+      "name": "Everything I wanted",
+      "url": "https://open.spotify.com/track/74DKZHRy9gRJ50JWpe7hQY"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1755,22 +1755,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Attention",
-        "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
-      },
-      "artists": [
-        {
-          "name": "Reason",
-          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
-        }
-      ],
-      "duration_ms": 244946,
-      "name": "Attention",
-      "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Weird Fishes",
         "url": "https://open.spotify.com/album/2PFotGo5M1XaQifWQjc3Pv"
       },
@@ -1783,6 +1767,22 @@
       "duration_ms": 298720,
       "name": "Paper Thin",
       "url": "https://open.spotify.com/track/6D2ftw6BFEsczHNiqxuhHP"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Attention",
+        "url": "https://open.spotify.com/album/30yS0uvaCdl5ANFuupquVk"
+      },
+      "artists": [
+        {
+          "name": "Reason",
+          "url": "https://open.spotify.com/artist/1afLcYZN3PBlA09Bw2P6e6"
+        }
+      ],
+      "duration_ms": 244946,
+      "name": "Attention",
+      "url": "https://open.spotify.com/track/3vwj1C07osOH8vqi6qmOoY"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1915,22 +1915,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "The Day I Left Hanoi",
-        "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
-      },
-      "artists": [
-        {
-          "name": "Jokai",
-          "url": "https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz"
-        }
-      ],
-      "duration_ms": 229850,
-      "name": "The Day I Left Hanoi",
-      "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Tattoo",
         "url": "https://open.spotify.com/album/5166al4BHUVCdpJgzsvNsr"
       },
@@ -1943,6 +1927,22 @@
       "duration_ms": 176065,
       "name": "Tattoo",
       "url": "https://open.spotify.com/track/3Q9p99byx2eazd0PbRvjyP"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "The Day I Left Hanoi",
+        "url": "https://open.spotify.com/album/75RT0B9Cgu8NV03IXLpWeh"
+      },
+      "artists": [
+        {
+          "name": "Jokai",
+          "url": "https://open.spotify.com/artist/44XUW3rZnWuoxHFujME3mz"
+        }
+      ],
+      "duration_ms": 229850,
+      "name": "The Day I Left Hanoi",
+      "url": "https://open.spotify.com/track/1Imz1D6bPA4lFRHGbJxz7y"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -1979,6 +1979,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Hits",
+        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
+      },
+      "artists": [
+        {
+          "name": "Leonardo Reyes",
+          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
+        }
+      ],
+      "duration_ms": 194310,
+      "name": "Blinding Lights",
+      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "I Want It That Way (Acoustic)",
         "url": "https://open.spotify.com/album/7dWe7q05jeTrOsSr8mAIP2"
       },
@@ -1995,22 +2011,6 @@
       "duration_ms": 185446,
       "name": "I Want It That Way - Acoustic",
       "url": "https://open.spotify.com/track/0AVDgibcn4Ka9pEXEA4wEp"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Hits",
-        "url": "https://open.spotify.com/album/5g8gRKOKu7eKtnBCQYS9Pf"
-      },
-      "artists": [
-        {
-          "name": "Leonardo Reyes",
-          "url": "https://open.spotify.com/artist/5dK2EQpJRKs9eQbZ0PLnJG"
-        }
-      ],
-      "duration_ms": 194310,
-      "name": "Blinding Lights",
-      "url": "https://open.spotify.com/track/763nb3EOeLEeJsELNuel1b"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2047,22 +2047,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Beautiful People",
-        "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
-      },
-      "artists": [
-        {
-          "name": "Jessie Blue and Zach Solomon",
-          "url": "https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx"
-        }
-      ],
-      "duration_ms": 253872,
-      "name": "Lose You To Love Me",
-      "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Eastside",
         "url": "https://open.spotify.com/album/40Oh0dhENJI14y6hluK0Py"
       },
@@ -2075,6 +2059,22 @@
       "duration_ms": 210580,
       "name": "Eastside",
       "url": "https://open.spotify.com/track/1i4I5mPDn6GdHlO43c2O27"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Beautiful People",
+        "url": "https://open.spotify.com/album/05D2GqXLdj8WTJUndF8RlG"
+      },
+      "artists": [
+        {
+          "name": "Jessie Blue and Zach Solomon",
+          "url": "https://open.spotify.com/artist/6DdJ9J6G22rS3lC7VRVZtx"
+        }
+      ],
+      "duration_ms": 253872,
+      "name": "Lose You To Love Me",
+      "url": "https://open.spotify.com/track/2S6yL9ZiV5VzugxduC4vIv"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2143,22 +2143,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Se\u00f1orita",
-        "url": "https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 210912,
-      "name": "Se\u00f1orita",
-      "url": "https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Baby Teeth",
         "url": "https://open.spotify.com/album/2I3KNalSqYLftHnjHHVVKF"
       },
@@ -2171,6 +2155,22 @@
       "duration_ms": 262760,
       "name": "Bleachers",
       "url": "https://open.spotify.com/track/3Xsua9PZj5e0WeCar562Wr"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Se\u00f1orita",
+        "url": "https://open.spotify.com/album/075nJ6mnxkRQBDuVH5Bk80"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 210912,
+      "name": "Se\u00f1orita",
+      "url": "https://open.spotify.com/track/5ZgRacc91ygr4eJpNyRAjl"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2227,22 +2227,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Ransom",
-        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
-      },
-      "artists": [
-        {
-          "name": "NTMY",
-          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
-        }
-      ],
-      "duration_ms": 166698,
-      "name": "Ransom",
-      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Two Lives EP",
         "url": "https://open.spotify.com/album/121sNhgDvl16qTW2Jtb4NC"
       },
@@ -2255,6 +2239,22 @@
       "duration_ms": 167892,
       "name": "Is It Real - Acoustic",
       "url": "https://open.spotify.com/track/0caKRlLbKc3HCRaf041HbU"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Ransom",
+        "url": "https://open.spotify.com/album/0ZnQWH4dODWvFsYnEYriFb"
+      },
+      "artists": [
+        {
+          "name": "NTMY",
+          "url": "https://open.spotify.com/artist/733MYSyqhCFQsxdOri4rBR"
+        }
+      ],
+      "duration_ms": 166698,
+      "name": "Ransom",
+      "url": "https://open.spotify.com/track/4XpWM2KLvxXf3Me4kw74Eb"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2343,22 +2343,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Las Flores",
-        "url": "https://open.spotify.com/album/4jpS2bi5zJJaZ2J2vXyBNt"
-      },
-      "artists": [
-        {
-          "name": "Lea Aput",
-          "url": "https://open.spotify.com/artist/2LchpIHNCd70zS78KogG0Z"
-        }
-      ],
-      "duration_ms": 157826,
-      "name": "Las Flores",
-      "url": "https://open.spotify.com/track/6ngcjbVUoTOD2Up8AYJC7Y"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "Terrace Rain/Grid Search",
         "url": "https://open.spotify.com/album/1mOjrJHrhKH2io2XX3f4RI"
       },
@@ -2371,6 +2355,22 @@
       "duration_ms": 176548,
       "name": "Terrace Rain",
       "url": "https://open.spotify.com/track/3IneYkIxkwFCdb68hICqWA"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Las Flores",
+        "url": "https://open.spotify.com/album/4jpS2bi5zJJaZ2J2vXyBNt"
+      },
+      "artists": [
+        {
+          "name": "Lea Aput",
+          "url": "https://open.spotify.com/artist/2LchpIHNCd70zS78KogG0Z"
+        }
+      ],
+      "duration_ms": 157826,
+      "name": "Las Flores",
+      "url": "https://open.spotify.com/track/6ngcjbVUoTOD2Up8AYJC7Y"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2407,22 +2407,6 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
-        "name": "Confession",
-        "url": "https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x"
-      },
-      "artists": [
-        {
-          "name": "Zoe",
-          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
-        }
-      ],
-      "duration_ms": 249469,
-      "name": "Confession",
-      "url": "https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
         "name": "I Love It",
         "url": "https://open.spotify.com/album/6Xd37dauCtwJi10I25dnHR"
       },
@@ -2435,6 +2419,22 @@
       "duration_ms": 198960,
       "name": "I Love It",
       "url": "https://open.spotify.com/track/2jslzA7O0v1o15sN3z6SV6"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
+        "name": "Confession",
+        "url": "https://open.spotify.com/album/49qrtROuFFghHpaZgiOz6x"
+      },
+      "artists": [
+        {
+          "name": "Zoe",
+          "url": "https://open.spotify.com/artist/3sqVImm8iiI4bimAFeObcn"
+        }
+      ],
+      "duration_ms": 249469,
+      "name": "Confession",
+      "url": "https://open.spotify.com/track/0FPc0Iyw0hZfvBpM1ljGCs"
     },
     {
       "added_at": "2025-06-20 16:07:31",
@@ -2487,6 +2487,22 @@
     {
       "added_at": "2025-06-20 16:07:31",
       "album": {
+        "name": "Underground",
+        "url": "https://open.spotify.com/album/1U1lAdEOPh4Zs5SKL8XvKS"
+      },
+      "artists": [
+        {
+          "name": "Billie Mercedez",
+          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
+        }
+      ],
+      "duration_ms": 178260,
+      "name": "Underground",
+      "url": "https://open.spotify.com/track/7o6k7QXBptuHj0XWsatlQs"
+    },
+    {
+      "added_at": "2025-06-20 16:07:31",
+      "album": {
         "name": "Morning Sun",
         "url": "https://open.spotify.com/album/5ASteoHCRzSBltEuaP1kmh"
       },
@@ -2503,22 +2519,6 @@
       "duration_ms": 267019,
       "name": "Morning Sun",
       "url": "https://open.spotify.com/track/5ObGH4iynfz5WQ8KJAYpbZ"
-    },
-    {
-      "added_at": "2025-06-20 16:07:31",
-      "album": {
-        "name": "Underground",
-        "url": "https://open.spotify.com/album/1U1lAdEOPh4Zs5SKL8XvKS"
-      },
-      "artists": [
-        {
-          "name": "Billie Mercedez",
-          "url": "https://open.spotify.com/artist/6bERRNVRJkiIq1kChAyaQG"
-        }
-      ],
-      "duration_ms": 178260,
-      "name": "Underground",
-      "url": "https://open.spotify.com/track/7o6k7QXBptuHj0XWsatlQs"
     }
   ],
   "unique_name": "Caf\u00e9, Libros.",

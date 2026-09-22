@@ -1,6 +1,6 @@
 {
   "description": "Palos de ayer, cl\u00e1sicos para siempre. Foto: Bad Bunny.",
-  "num_followers": 605608,
+  "num_followers": 605721,
   "original_name": "Trap viejito",
   "owner": {
     "name": "Spotify",
@@ -1991,6 +1991,26 @@
     {
       "added_at": "2026-08-11 14:10:49",
       "album": {
+        "name": "Trap Tumbado",
+        "url": "https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb"
+      },
+      "artists": [
+        {
+          "name": "Natanael Cano",
+          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
+        },
+        {
+          "name": "Lil Tecca",
+          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
+        }
+      ],
+      "duration_ms": 158740,
+      "name": "Dime Pa Que",
+      "url": "https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C"
+    },
+    {
+      "added_at": "2026-08-11 14:10:49",
+      "album": {
         "name": "Fresko",
         "url": "https://open.spotify.com/album/5CF5dNA0aLDCPlgS4DlAia"
       },
@@ -2011,26 +2031,6 @@
       "duration_ms": 201290,
       "name": "Fresko",
       "url": "https://open.spotify.com/track/2Zbw0nOYZoKU27sOYbrsv7"
-    },
-    {
-      "added_at": "2026-08-11 14:10:49",
-      "album": {
-        "name": "Trap Tumbado",
-        "url": "https://open.spotify.com/album/6xO4H08B7Ps67z9wuPExZb"
-      },
-      "artists": [
-        {
-          "name": "Natanael Cano",
-          "url": "https://open.spotify.com/artist/0elWFr7TW8piilVRYJUe4P"
-        },
-        {
-          "name": "Lil Tecca",
-          "url": "https://open.spotify.com/artist/4Ga1P7PMIsmqEZqhYZQgDo"
-        }
-      ],
-      "duration_ms": 158740,
-      "name": "Dime Pa Que",
-      "url": "https://open.spotify.com/track/3qRv6M9TyPVTeeTSjXBj9C"
     },
     {
       "added_at": "2026-08-11 14:10:49",

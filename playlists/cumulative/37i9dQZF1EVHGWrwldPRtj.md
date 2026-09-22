@@ -2,7 +2,7 @@
 
 ### [Chill Mix](https://open.spotify.com/playlist/37i9dQZF1EVHGWrwldPRtj)
 
-> <a href=spotify:playlist:37i9dQZF1EIVOlGHvpBwBH>Tyler, The Creator</a>, <a href=spotify:playlist:37i9dQZF1EIZlNy1eYPptu>Shawn Mendes</a>, <a href=spotify:playlist:37i9dQZF1EIZJKtiGDpNNN>Temper City</a> and more
+> <a href=spotify:playlist:37i9dQZF1EIZ1HkjHHzYzZ>Billie Eilish</a>, <a href=spotify:playlist:37i9dQZF1EIZFSv8zffo2I>Arctic Monkeys</a>, <a href=spotify:playlist:37i9dQZF1EIVOlGHvpBwBH>Tyler, The Creator</a> and more
 
 1,254 songs - 2 day 23 hr 15 min
 
@@ -131,7 +131,7 @@
 | [Better Together](https://open.spotify.com/track/4VywXu6umkIQ2OS0m1I79y) | [Jack Johnson](https://open.spotify.com/artist/3GBPw9NK25X1Wt2OUvOwY3) | [In Between Dreams](https://open.spotify.com/album/7tTc46dNdE6GGuiQsssWxo) | 3:27 | 2024-02-06 | 2024-03-29 |
 | [Biking](https://open.spotify.com/track/2q0VexHJirnUPnEOhr2DxK) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM), [JAY\-Z](https://open.spotify.com/artist/3nFkdlSjzX9mRTtwJOzDYB), [Tyler, The Creator](https://open.spotify.com/artist/4V8LLVI7PbaPR0K2TGSxFF) | [Biking](https://open.spotify.com/album/7yOOPJjNelITCaYMqk8V6r) | 4:37 | 2023-12-29 | 2024-03-01 |
 | [Binhi](https://open.spotify.com/track/092cPwFlwBXdB3QF3X469W) | [Arthur Nery](https://open.spotify.com/artist/7uDdl5V5AETSFY7K3muu22) | [Letters Never Sent](https://open.spotify.com/album/6oZQZu4rTUF0A8PtpZeLFF) | 3:36 | 2024-01-05 | 2024-01-06 |
-| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-04 | 2026-09-16 |
+| [BIRDS OF A FEATHER](https://open.spotify.com/track/6dOtVTDdiauQNBQEDOtlAB) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [HIT ME HARD AND SOFT](https://open.spotify.com/album/7aJuG4TFXa2hmE4z1yxc3n) | 3:30 | 2024-06-04 |  |
 | [Bitter Lips](https://open.spotify.com/track/2TF9XlZFMKG1Lkp7jQeAPz) | [RUBII](https://open.spotify.com/artist/3gN8Ihw22Vt9mnK97gbwMQ) | [Bitter Lips](https://open.spotify.com/album/4l8Rh8SFKreE2IvMqqCO5H) | 3:20 | 2026-07-06 | 2026-09-15 |
 | [Bitter Sweet Symphony \- Remastered 2016](https://open.spotify.com/track/57iDDD9N9tTWe75x6qhStw) | [The Verve](https://open.spotify.com/artist/2cGwlqi3k18jFpUyTrsR84) | [Urban Hymns \(Remastered 2016\)](https://open.spotify.com/album/52AeC4gwbxDfFlLHgK1ByD) | 5:57 | 2026-05-07 | 2026-05-08 |
 | [black samuarai.](https://open.spotify.com/track/16JrfiRjHTFahRTV6fPKqQ) | [jev.](https://open.spotify.com/artist/6OmxkansdRyVTvo6BpZzKF) | [the color grey.](https://open.spotify.com/album/5ie8vTZ17RhunHEDIlBAwg) | 2:54 | 2025-07-08 | 2025-07-09 |
@@ -1068,7 +1068,7 @@
 | [The Sun](https://open.spotify.com/track/5xy8yHtC2E9mbVT45Z1VpO) | [Mauve](https://open.spotify.com/artist/4H6XYH7PhoJXhD45W93wkh) | [The Sun](https://open.spotify.com/album/1HGkSAFdttjLD5s1LXWOm0) | 2:37 | 2024-01-02 | 2024-01-06 |
 | [The Waiting Game](https://open.spotify.com/track/0tV6LXuVzJR4yifqwQuNwN) | [Harry Styles](https://open.spotify.com/artist/6KImCVD70vtIoJWnq6nGn3) | [Kiss All The Time\. Disco, Occasionally.](https://open.spotify.com/album/69BqE1V8Bzb9GCyeP1fFeR) | 2:49 | 2026-03-27 | 2026-04-01 |
 | [The Weight Is Gone \- The Purgatory Sessions](https://open.spotify.com/track/0kExggaYmBEq5RGfmf8GZp) | [Albin Lee Meldau](https://open.spotify.com/artist/1AdKbbV5v6ifuJertEjNeK) | [The Purgatory Sessions](https://open.spotify.com/album/4DDLyEMT3Dv6VCzDXmDaf0) | 3:06 | 2024-01-13 | 2024-01-14 |
-| [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 | 2026-07-01 |  |
+| [There's Nothing Holdin' Me Back](https://open.spotify.com/track/7JJmb5XwzOO8jgpou264Ml) | [Shawn Mendes](https://open.spotify.com/artist/7n2wHs1TKAczGzO7Dd2rGr) | [Illuminate \(Deluxe\)](https://open.spotify.com/album/3wBabo4pmzsYjALMSKY7Iq) | 3:19 | 2026-07-01 | 2026-09-22 |
 | [Things We Lost In The Fire](https://open.spotify.com/track/3pm1X3oQBKQ4vcp3i9PWRg) | [Bastille](https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc) | [Bad Blood](https://open.spotify.com/album/1jUoeAbO2HCADZ1uiyLYIo) | 4:00 | 2025-09-06 | 2025-09-07 |
 | [THINGS YOU DO](https://open.spotify.com/track/1j8TmNa6vaFAEAws43kP0Q) | [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [SWAG](https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ) | 1:48 | 2025-08-16 | 2025-09-17 |
 | [Thinkin Bout You](https://open.spotify.com/track/7DfFc7a6Rwfi3YQMRbDMau) | [Frank Ocean](https://open.spotify.com/artist/2h93pZq0e7k5yf4dywlkpM) | [channel ORANGE](https://open.spotify.com/album/392p3shh2jkxUxY2VHvlH8) | 3:20 | 2024-01-05 | 2026-06-30 |

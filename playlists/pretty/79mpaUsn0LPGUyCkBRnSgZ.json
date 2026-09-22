@@ -6,7 +6,7 @@
     "name": "Zack Amiton",
     "url": "https://open.spotify.com/user/6rcq1j21davq3yhbk1t0l5xnt"
   },
-  "snapshot_id": "AAAJsRLqAYU6VFQp9sadoAfdBH9kA1DH",
+  "snapshot_id": "AAAJspkYPhpI/9joxohpGIf/9tuNTHi7",
   "tracks": [
     {
       "added_at": "2021-08-26 23:11:19",
@@ -12923,6 +12923,22 @@
       "duration_ms": 323358,
       "name": "Oracle Road",
       "url": "https://open.spotify.com/track/4vMFEE1IsOBV4Ct4RNizS7"
+    },
+    {
+      "added_at": "2026-09-21 14:56:52",
+      "album": {
+        "name": "I Am",
+        "url": "https://open.spotify.com/album/4RLVTxnuVN5ZWZqBFnaaQt"
+      },
+      "artists": [
+        {
+          "name": "Earth, Wind & Fire",
+          "url": "https://open.spotify.com/artist/4QQgXkCYTt3BlENzhyNETg"
+        }
+      ],
+      "duration_ms": 288153,
+      "name": "In the Stone",
+      "url": "https://open.spotify.com/track/3qZHUZTQiTMfJXcUYzY5mT"
     }
   ],
   "unique_name": "Zacklog",

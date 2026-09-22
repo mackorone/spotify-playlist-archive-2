@@ -1,12 +1,12 @@
 {
   "description": "This is Outkast. The essential tracks, all in one playlist.",
-  "num_followers": 169478,
+  "num_followers": 169489,
   "original_name": "This Is Outkast",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAACxjmcp2N7Fb39nqiBN4PfD",
+  "snapshot_id": "aq8iAAAAAACFX0P+Jfp0hU6x3kzK/Tcs",
   "tracks": [
     {
       "added_at": null,
@@ -540,9 +540,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 238906,
-      "name": "Hootie Hoo",
-      "url": "https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba"
+      "duration_ms": 309866,
+      "name": "Crumblin' Erb",
+      "url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
     },
     {
       "added_at": null,
@@ -616,53 +616,9 @@
           "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
         }
       ],
-      "duration_ms": 309866,
-      "name": "Crumblin' Erb",
-      "url": "https://open.spotify.com/track/3T790QTg0ebUUk5tCRbtbN"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Street Swag, Vol. 2",
-        "url": "https://open.spotify.com/album/2A89rexB6sUic5498mls4J"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Jim Jones",
-          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
-        },
-        {
-          "name": "Unk",
-          "url": "https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA"
-        }
-      ],
-      "duration_ms": 200971,
-      "name": "Walk It Out",
-      "url": "https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Stankonia",
-        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
-      },
-      "artists": [
-        {
-          "name": "Outkast",
-          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
-        },
-        {
-          "name": "Erykah Badu",
-          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
-        }
-      ],
-      "duration_ms": 290666,
-      "name": "Humble Mumble (feat. Erykah Badu)",
-      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
+      "duration_ms": 238906,
+      "name": "Hootie Hoo",
+      "url": "https://open.spotify.com/track/2B7hM098uEDiLJqTsUY4Ba"
     },
     {
       "added_at": null,
@@ -687,6 +643,50 @@
       "duration_ms": 264400,
       "name": "Morris Brown (feat. Scar & Sleepy Brown)",
       "url": "https://open.spotify.com/track/18uAu5gCnoGGNYQu8LeAr1"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Stankonia",
+        "url": "https://open.spotify.com/album/2tm3Ht61kqqRZtIYsBjxEj"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Erykah Badu",
+          "url": "https://open.spotify.com/artist/7IfculRW2WXyzNQ8djX8WX"
+        }
+      ],
+      "duration_ms": 290666,
+      "name": "Humble Mumble (feat. Erykah Badu)",
+      "url": "https://open.spotify.com/track/5cN4KyXGUdNOve1TEPWmhL"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Street Swag, Vol. 2",
+        "url": "https://open.spotify.com/album/2A89rexB6sUic5498mls4J"
+      },
+      "artists": [
+        {
+          "name": "Outkast",
+          "url": "https://open.spotify.com/artist/1G9G7WwrXka3Z1r7aIDjI7"
+        },
+        {
+          "name": "Jim Jones",
+          "url": "https://open.spotify.com/artist/6AMa1VFQ7qCi61tCRtVWXe"
+        },
+        {
+          "name": "Unk",
+          "url": "https://open.spotify.com/artist/0PGtMx1bsqoCHCy3MB3gXA"
+        }
+      ],
+      "duration_ms": 200971,
+      "name": "Walk It Out",
+      "url": "https://open.spotify.com/track/1Zk1RUC3Lazme2erBiixIS"
     },
     {
       "added_at": null,

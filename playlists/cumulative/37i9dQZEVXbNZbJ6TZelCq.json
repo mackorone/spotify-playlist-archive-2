@@ -3880,7 +3880,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 154160,
       "name": "A\u0219a \u0219i a\u0219a",
       "url": "https://open.spotify.com/track/1MlChz5MNNWw0MZwFZu7ho"
@@ -9534,7 +9534,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 480186,
       "name": "Cinderella (feat. Ty Dolla $ign)",
       "url": "https://open.spotify.com/track/2lpygKqzPFtItQ4ss3cgfb"
@@ -15278,7 +15278,7 @@
       ],
       "date_added": "2026-05-30",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 132000,
       "name": "emotional swaggage",
       "url": "https://open.spotify.com/track/6p5TDjOyftfWjBcFfJNpmM"
@@ -23954,7 +23954,7 @@
       ],
       "date_added": "2026-05-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 184160,
       "name": "Jamaica - Live",
       "url": "https://open.spotify.com/track/4IbwrJnzm9udi46ear9lTC"
@@ -34834,7 +34834,7 @@
       ],
       "date_added": "2026-03-13",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-11",
+      "date_removed": null,
       "duration_ms": 162782,
       "name": "Papaya",
       "url": "https://open.spotify.com/track/3x380J5Y7jLYz9x8vvzKvb"
@@ -47161,6 +47161,24 @@
     },
     {
       "album": {
+        "name": "Ti-Am Sarutat Buzele",
+        "url": "https://open.spotify.com/album/59aKChQ8UtkmpMFtunDeEt"
+      },
+      "artists": [
+        {
+          "name": "Iuly Neamtu",
+          "url": "https://open.spotify.com/artist/5d3bc9MSib3NPeIDxYIIWD"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 193654,
+      "name": "Ti-Am Sarutat Buzele",
+      "url": "https://open.spotify.com/track/6WrdwQxdyRvWG1RpMnWMv3"
+    },
+    {
+      "album": {
         "name": "Tigara",
         "url": "https://open.spotify.com/album/24wQg5NgN0PLqpUohtA2P2"
       },
@@ -47822,7 +47840,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 194000,
       "name": "Toreador",
       "url": "https://open.spotify.com/track/0AAfrVdWsndvIBwimXaYz4"
@@ -49500,7 +49518,7 @@
       ],
       "date_added": "2026-07-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 137431,
       "name": "UP",
       "url": "https://open.spotify.com/track/6JrqrPXatWyG1Ra1dFE8LE"

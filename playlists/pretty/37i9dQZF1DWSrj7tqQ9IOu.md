@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 
 > Les meilleurs sons du mois sélectionnés par les éditos de Spotify\. Photo : Haute & Freddy
 
-[Spotify](https://open.spotify.com/user/spotify) - 401,525 likes - 40 songs - 2 hr 5 min
+[Spotify](https://open.spotify.com/user/spotify) - 401,528 likes - 40 songs - 2 hr 5 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -33,8 +33,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSrj7tqQ9IOu.md) - [plain]
 | 23 | [SHEGE](https://open.spotify.com/track/7kf67G87lsYqfnooZB913F) | [CKay](https://open.spotify.com/artist/048LktY5zMnakWq7PTtFrz) | [BANGER BOY](https://open.spotify.com/album/6HgyYGUF6mv2UaEZWQb0VN) | 2:26 |
 | 24 | [She’s the Best](https://open.spotify.com/track/0Q3djTu9TPL73BasvTMO7O) | [Troye Sivan](https://open.spotify.com/artist/3WGpXCj9YhhfX11TToZcXP) | [She’s the Best](https://open.spotify.com/album/2zUefc1oTIxCzYvO3JpR19) | 4:14 |
 | 25 | [silly boy](https://open.spotify.com/track/17QzouX9lff6aTC0SotV2P) | [Q Marsden](https://open.spotify.com/artist/22vqVhfPJab5kkU9txDGX3) | [DO YOU SEE ME?](https://open.spotify.com/album/6S90zcBYpK3jaKJyraF8uc) | 2:53 |
-| 26 | [Level Up](https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Level Up](https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3) | 2:36 |
-| 27 | [Comme des rats](https://open.spotify.com/track/30NnfTuqWG36upsxuT4QOG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Vitrine](https://open.spotify.com/album/7oBVdq9PC6arh2qpLuYleb) | 2:21 |
+| 26 | [Comme des rats](https://open.spotify.com/track/30NnfTuqWG36upsxuT4QOG) | [a6el](https://open.spotify.com/artist/3B4P9BeoaJXid1mY7BmUvY) | [Vitrine](https://open.spotify.com/album/7oBVdq9PC6arh2qpLuYleb) | 2:21 |
+| 27 | [Level Up](https://open.spotify.com/track/4H0Hf5KBC7pWDEvArrGqiU) | [BAMBII](https://open.spotify.com/artist/6kf69CwzgodrETRgzcjX95) | [Level Up](https://open.spotify.com/album/1GFjYh88k10fLtruQ3alh3) | 2:36 |
 | 28 | [Moni Hot](https://open.spotify.com/track/4e9nu6DvuWU7jdREGxmLlE) | [Darlingchouchou](https://open.spotify.com/artist/7yqZQGO6ZBlWdjPjjbJOgL) | [Moni Hot](https://open.spotify.com/album/1tACBgwmpKoAkyuSqy7o9L) | 1:46 |
 | 29 | [Two Roads](https://open.spotify.com/track/7qL3kkN6674wZeISb8zL1J) | [Majid Jordan](https://open.spotify.com/artist/4HzKw8XcD0piJmDrrPRCYk) | [Two Roads](https://open.spotify.com/album/3FQBF6UdQ6rEtkoU3vPZuU) | 4:00 |
 | 30 | [aimee lou wood freestyle](https://open.spotify.com/track/58yUKDNZNeq2RpGvEfZZIX) | [untitled \(halo\)](https://open.spotify.com/artist/3r9Q5Yy2TA8QG4CtJlvhIn) | [aimee lou wood freestyle](https://open.spotify.com/album/4xCr9omMNO0OPk9w2n2g3C) | 2:39 |

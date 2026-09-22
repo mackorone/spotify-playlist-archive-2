@@ -1,12 +1,12 @@
 {
   "description": "This is Morgan Wallen. The essential tracks, all in one playlist.",
-  "num_followers": 776944,
+  "num_followers": 777100,
   "original_name": "This Is Morgan Wallen",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAACE3f+JBSDHAo+0ALblodqz",
+  "snapshot_id": "aq8iAAAAAADS359grcxUdZtwJriEkLMT",
   "tracks": [
     {
       "added_at": null,
@@ -251,18 +251,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Spin You Around (1/24)",
-        "url": "https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It"
+        "name": "Last Thing You Need (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls"
       },
       "artists": [
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
         }
       ],
-      "duration_ms": 209427,
-      "name": "Spin You Around (1/24)",
-      "url": "https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE"
+      "duration_ms": 196000,
+      "name": "Last Thing You Need (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
     },
     {
       "added_at": null,
@@ -315,8 +319,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "If I Know Me",
-        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
+        "name": "Spin You Around (1/24)",
+        "url": "https://open.spotify.com/album/0hHXTxICTlnURMkIEfz3It"
       },
       "artists": [
         {
@@ -324,9 +328,9 @@
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 208280,
-      "name": "The Way I Talk",
-      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
+      "duration_ms": 209427,
+      "name": "Spin You Around (1/24)",
+      "url": "https://open.spotify.com/track/47Xj8eIAp7hYOOqArmkqZE"
     },
     {
       "added_at": null,
@@ -379,22 +383,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
-        "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
+        "name": "If I Know Me",
+        "url": "https://open.spotify.com/album/6WKNoni6aDzCTUN1CtJJ5R"
       },
       "artists": [
-        {
-          "name": "Diplo",
-          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
-        },
         {
           "name": "Morgan Wallen",
           "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 169226,
-      "name": "Heartless (feat. Morgan Wallen)",
-      "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
+      "duration_ms": 208280,
+      "name": "The Way I Talk",
+      "url": "https://open.spotify.com/track/6ok4IyXcJQekEeSlBjcI9Y"
     },
     {
       "added_at": null,
@@ -415,22 +415,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Last Thing You Need (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/3yYy3Vpqpxz2WxRIjMtuls"
+        "name": "Diplo Presents Thomas Wesley: Chapter 1 - Snake Oil",
+        "url": "https://open.spotify.com/album/2Om5VEKaBd4Afht33ToQGD"
       },
       "artists": [
         {
-          "name": "Morgan Wallen",
-          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+          "name": "Diplo",
+          "url": "https://open.spotify.com/artist/5fMUXHkw8R8eOP2RNVYEZX"
         },
         {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
         }
       ],
-      "duration_ms": 196000,
-      "name": "Last Thing You Need (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/5qGziX9216V8hKJjGg8RtH"
+      "duration_ms": 169226,
+      "name": "Heartless (feat. Morgan Wallen)",
+      "url": "https://open.spotify.com/track/3FU6urUVsgXa6RBuV2PdRk"
     },
     {
       "added_at": null,

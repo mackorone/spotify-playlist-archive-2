@@ -79,6 +79,32 @@
     },
     {
       "album": {
+        "name": "1312",
+        "url": "https://open.spotify.com/album/4qld1j9AcJAUB1ESIEKgnb"
+      },
+      "artists": [
+        {
+          "name": "DACHI",
+          "url": "https://open.spotify.com/artist/0cIRG1SuDcnskRoSWENfzX"
+        },
+        {
+          "name": "DvrkBoy",
+          "url": "https://open.spotify.com/artist/4WlUjtiySIpBOeUp49j1BW"
+        },
+        {
+          "name": "Catcher",
+          "url": "https://open.spotify.com/artist/6b6QZt0n4YNjqqRaTaEkAl"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156278,
+      "name": "1312",
+      "url": "https://open.spotify.com/track/3AFZrucav0YrRQD0YB0QrV"
+    },
+    {
+      "album": {
         "name": "180 Degre",
         "url": "https://open.spotify.com/album/6bthKO1rykO71a7llqYQp3"
       },
@@ -302,7 +328,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 211945,
       "name": "A ce point",
       "url": "https://open.spotify.com/track/6R4IOjbkUhp6TqLFT424aC"
@@ -980,7 +1006,7 @@
       ],
       "date_added": "2026-06-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 139921,
       "name": "EEE",
       "url": "https://open.spotify.com/track/2OmAVXEptbA2EEApxV1IoC"
@@ -3416,6 +3442,24 @@
       "duration_ms": 192052,
       "name": "Welou",
       "url": "https://open.spotify.com/track/686PvZSfRMuquXf7GzZsz4"
+    },
+    {
+      "album": {
+        "name": "Wili",
+        "url": "https://open.spotify.com/album/6c6V430K8KHwP30NFCkDjf"
+      },
+      "artists": [
+        {
+          "name": "A.L.A",
+          "url": "https://open.spotify.com/artist/3MKpGPhBp9KeXjGooKHNDX"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 230204,
+      "name": "Wili",
+      "url": "https://open.spotify.com/track/0Kg7JHDZ279vhB0EvMPcJa"
     },
     {
       "album": {

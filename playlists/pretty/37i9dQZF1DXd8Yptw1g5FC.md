@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 
 > Umur Doma ve haftanın en iyi çıkışları!
 
-[Spotify](https://open.spotify.com/user/spotify) - 326,272 likes - 145 songs - 7 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 326,262 likes - 145 songs - 7 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -34,7 +34,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8Yptw1g5FC.md) - [plain]
 | 24 | [Don't Make Them Like Me](https://open.spotify.com/track/4xAIC3X3mntqjiiVbHZhUg) | [Isabel LaRosa](https://open.spotify.com/artist/5arKwJZEvT5uKq4o0JfqR4) | [Don't Make Them Like Me](https://open.spotify.com/album/5sNXI90Gvb0VPcW7HSGKQf) | 3:43 |
 | 25 | [source of life](https://open.spotify.com/track/6ngCpcD8t3eo8sd3n5YzCV) | [Tove Lo](https://open.spotify.com/artist/4NHQUGzhtTLFvgF5SZesLK) | [ESTRUS](https://open.spotify.com/album/6di14tEch7EQ0jMglRwcf6) | 2:11 |
 | 26 | [Ben Yaralı Sen Yuvalı](https://open.spotify.com/track/4CmFfDoDDD59CcLqtpiaNh) | [Yasir Miy](https://open.spotify.com/artist/2FxIS6uj3aDXwHBU1Y2mBW) | [Ben Yaralı Sen Yuvalı](https://open.spotify.com/album/7LliVYmEwVqTjXFQeSNip6) | 4:21 |
-| 27 | [Tanpinar Museum](https://open.spotify.com/track/5Kyr1KYjLY2tq2GmN93Zp7) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Beyond Walls / Istanbul](https://open.spotify.com/album/05D1Ir0QCHnvMSGc2Otz9t) | 4:20 |
+| 27 | [Tanpınar Museum](https://open.spotify.com/track/5Kyr1KYjLY2tq2GmN93Zp7) | [Büşra Kayıkçı](https://open.spotify.com/artist/0iOvtl1pydfRgGpJWOOP8E) | [Beyond Walls / Istanbul](https://open.spotify.com/album/05D1Ir0QCHnvMSGc2Otz9t) | 4:20 |
 | 28 | [ALENEN](https://open.spotify.com/track/0ta6sqke3ZadTuA45Friha) | [Jefe](https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE), [Segah](https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P), [Kleo](https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm) | [ALENEN](https://open.spotify.com/album/0nIiF842LKMFL4WPyJW06M) | 2:54 |
 | 29 | [Doydun da mı Gittin](https://open.spotify.com/track/453B1BxuTBxPSbv1weP0OX) | [Gülden](https://open.spotify.com/artist/1aQhhnH3sUteqgE1EbmPec), [Özgür Can Çoban](https://open.spotify.com/artist/6J5uNSCReF2DcT9pbwc4MY) | [Gülden'e Geldik X Özgür Can Çoban](https://open.spotify.com/album/5c1t4UuiPWgadN3EKeOfwb) | 3:03 |
 | 30 | [OHAL](https://open.spotify.com/track/0jfg6WTzZuj5VkW4CtKdSc) | [Reder](https://open.spotify.com/artist/4rdvHU6ccREPfA1aS66pdg), [Kava](https://open.spotify.com/artist/1wpu4UggwSv2RUBltB2h1f), [Keskin](https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66), [Chiko](https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS), [ERAY067](https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT), [Mansur](https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm) | [OHAL](https://open.spotify.com/album/7IsidmMfjLWXxrMMjVeOnL) | 2:56 |

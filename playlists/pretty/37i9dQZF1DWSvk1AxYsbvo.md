@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 
 > 🐹김햄찌와 함께 이불 안 속처럼 포근하고 편안한 음악들과 함께 폭신한 기분을 만끽하세요\. \(Enjoy a cozy feeling, like inside a blanket, with music that is cozy and comfortable with Haemjji.\)
 
-[Spotify](https://open.spotify.com/user/spotify) - 26,481 likes - 50 songs - 2 hr 50 min
+[Spotify](https://open.spotify.com/user/spotify) - 26,479 likes - 50 songs - 2 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -39,8 +39,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvk1AxYsbvo.md) - [plain]
 | 29 | [Favorite Things](https://open.spotify.com/track/0rRoduSihSovRXNUSL4K01) | [Bok Dajin](https://open.spotify.com/artist/3CHmUAP0mBZtBzCMXKQ4Lx) | [Favorite Things](https://open.spotify.com/album/3AtZHZXImr6t1OatiMH19Z) | 3:08 |
 | 30 | [Dawnlight](https://open.spotify.com/track/1iaXPvoMPa2L9GYvAA7gHj) | [Darin](https://open.spotify.com/artist/3NeWfnkjhDK8umjBipcf5W) | [Autumn](https://open.spotify.com/album/1RSwpzDWOjzsrBCJAWco7r) | 3:31 |
 | 31 | [Dear, Barcelona](https://open.spotify.com/track/4xVsCSWd7Otr19tN9JNC8G) | [Milena](https://open.spotify.com/artist/2ODok2cPMF1Z1gZetfaL6n) | [Dear, Barcelona](https://open.spotify.com/album/26tVGQR0jl6vZ0JRszMl4e) | 3:43 |
-| 32 | [Albedo](https://open.spotify.com/track/4GOykxUL9b9hyHgvRDgz8H) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF), [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 4:22 |
-| 33 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 |
+| 32 | [Never Leave Me \(Feat\. pH\-1\)](https://open.spotify.com/track/3t0jz1RuFVgLHb0E5rG8TI) | [meenoi](https://open.spotify.com/artist/5KuvNz7npsGeDJdk8QHMVH), [pH\-1](https://open.spotify.com/artist/2u7CP5T30c8ctenzXgEV1W) | [NOI MAS](https://open.spotify.com/album/2lLUXuBMZZWb8NdSd3BIwm) | 3:36 |
+| 33 | [Albedo](https://open.spotify.com/track/4GOykxUL9b9hyHgvRDgz8H) | [Kangziwon](https://open.spotify.com/artist/0QppvAbksaKrGlNk0i1zzF), [Jake Sherman](https://open.spotify.com/artist/6AI2XSWC2XMytOFLLXX1TO) | [Ordinary Ever After](https://open.spotify.com/album/6YlzgfiTwwIF0BQ4GFTQOJ) | 4:22 |
 | 34 | [Beautiful Days](https://open.spotify.com/track/1ne3EsWyB95jx4kDQ0MHck) | [soye](https://open.spotify.com/artist/5jG6m64ShKn6a3A8IzIAcx) | [Beautiful Days \(Positively Yours X soye\) \[Original Soundtrack\]](https://open.spotify.com/album/4TfE5UZoCC7UpHmgUlpUBl) | 2:40 |
 | 35 | [Joy](https://open.spotify.com/track/4pzNQT5eROmrGNmdeIW5DI) | [xooos](https://open.spotify.com/artist/0OqnFLmTWiVGm3Ifk6mahQ) | [Made In Heart](https://open.spotify.com/album/5SFEorQR8TgWGYwLSg2nE2) | 2:40 |
 | 36 | [지금 이대로 Stay with me](https://open.spotify.com/track/54413VtpbmW1Xbhj0HoqWt) | [Jukjae](https://open.spotify.com/artist/7bWYN0sHvyH7yv1uefX07U) | [하루 한방울 One drop a day \(Original Soundtrack\), Pt\. 1](https://open.spotify.com/album/7ErAyd64YTQ0kLI2JsLFl3) | 3:10 |

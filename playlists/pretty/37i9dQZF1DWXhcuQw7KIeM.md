@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 
 > From the very deep spirit of the almighty North.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,635 likes - 75 songs - 6 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,734 likes - 75 songs - 6 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -16,8 +16,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 6 | [The Empire of Winds](https://open.spotify.com/track/2mg3b0qMy3z8aFZ08kT3U2) | [Alpine Universe](https://open.spotify.com/artist/2p2f0IoFel8v0mdBqGsw1C) | [The Empire of Winds \(Original Motion Picture Soundtrack\)](https://open.spotify.com/album/4yfCaNi6PU9euTYdQFAnjk) | 3:04 |
 | 7 | [In Maidjan](https://open.spotify.com/track/4vy2YnIiU37OB7BonhYWgZ) | [Heilung](https://open.spotify.com/artist/7sTKZr30LqC928DZ5P9mNQ) | [Lifa](https://open.spotify.com/album/5gUvVQFa8seLyMSuvOGC93) | 12:38 |
 | 8 | [Reida](https://open.spotify.com/track/72pSSwFywzACLPqVfycny6) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Reida](https://open.spotify.com/album/2hASh3qnghKaseEc9GXjd1) | 4:30 |
-| 9 | [Ghosts](https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Ghosts](https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN) | 4:51 |
-| 10 | [Shaman of Chaos](https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 4:11 |
+| 9 | [Shaman of Chaos](https://open.spotify.com/track/4Cf003BdpXLECiZWAa44wS) | [OMNIA](https://open.spotify.com/artist/6frUTw3CamrF5NAGaQchBS) | [Reflexions](https://open.spotify.com/album/5xjBih5IE6cz9tgayGPeXR) | 4:11 |
+| 10 | [Ghosts](https://open.spotify.com/track/68KqKNBzc7aEAD8sj39LGJ) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [Ghosts](https://open.spotify.com/album/0CrJwq0wZ3yAQBxKF71XmN) | 4:51 |
 | 11 | [The Path to Valhalla](https://open.spotify.com/track/5Y0890ieCPQ7InnCOMbpYm) | [Zergananda](https://open.spotify.com/artist/17l0IpeSiUshT3GEQjbJKb) | [The Path to Valhalla](https://open.spotify.com/album/5sqkryWnUZtlOCWbE5h5CB) | 4:50 |
 | 12 | [Nouse Lempi](https://open.spotify.com/track/48eEkbTrRzODKnK4YGFL3M) | [Kajos](https://open.spotify.com/artist/5qNZqgtemKrcwuOrTEQ28J) | [Nouse Lempi](https://open.spotify.com/album/13OIcK2yBAA8KR2c8pnry4) | 3:42 |
 | 13 | [Runar](https://open.spotify.com/track/1ffeWPrcBEnQF28uPE1BX9) | [Danheim](https://open.spotify.com/artist/1J1DiyVfll4d0cos64VSZb) | [Runar](https://open.spotify.com/album/4gkAmnywXdItmKEdP1E9IS) | 4:20 |
@@ -25,8 +25,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 15 | [Jaun Zuria](https://open.spotify.com/track/1L1Dm4HuSKhWzxnqbXHW7Z) | [Tartalo Music](https://open.spotify.com/artist/7bKo8Jgp76YNToFednF7kT) | [Jaun Zuria](https://open.spotify.com/album/6SgXHrTQdZSwkVg31WH409) | 2:29 |
 | 16 | [Blakey Ridge](https://open.spotify.com/track/3LUYP1KhWJg1UtkZW30IFd) | [Auri](https://open.spotify.com/artist/75lPfGiZ6x0pFKz5oYfBXx) | [III \- Candles & Beginnings](https://open.spotify.com/album/1lJtYR4SFPs4knPNtrT3lX) | 4:16 |
 | 17 | [Ótta](https://open.spotify.com/track/2LJZE1yXy9SdglruufEDHG) | [Sólstafir](https://open.spotify.com/artist/721C5U5rM8J0jjq6IQuSBK) | [Ótta](https://open.spotify.com/album/3jUZIR2RRcuddKrbetFftv) | 9:38 |
-| 18 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
-| 19 | [I Am](https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [A Frame of Mind](https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy) | 5:32 |
+| 18 | [I Am](https://open.spotify.com/track/5cqsXJryoGyPL60iM5Wk9O) | [Kalandra](https://open.spotify.com/artist/2N0vFuOoMtAQfBmhsRo24e) | [A Frame of Mind](https://open.spotify.com/album/7tmd1LZ4ZT9eoA4Jl1MNFy) | 5:32 |
+| 19 | [Black Thunder](https://open.spotify.com/track/3cX0XeN0p3QKxtLu0MxNNy) | [The HU](https://open.spotify.com/artist/0b2B3PwcYzQAhuJacmcYgc) | [Black Thunder](https://open.spotify.com/album/4b9ASxLZiYaJXC4XsFgeDv) | 4:15 |
 | 20 | [Uhrikivi](https://open.spotify.com/track/7e0Ew73g1nb4SoHDtcL8W6) | [Noitakuningas](https://open.spotify.com/artist/0JaS8jTdFq6nZjckUz4JT6) | [Uhrikivi](https://open.spotify.com/album/0h6tZsu7w2pF3TEXsBKDxg) | 5:37 |
 | 21 | [Fatherland](https://open.spotify.com/track/3Ptlm6O9Cs9Q789a8YJ1dl) | [Ensiferum](https://open.spotify.com/artist/0krXCIkthz13P8o0v2tksH) | [Winter Storm](https://open.spotify.com/album/6w4uNQ6QRqrBZ546GjNQLU) | 4:51 |
 | 22 | [Belladonna](https://open.spotify.com/track/01CBGRKQ7BGothCG4buKEE) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE) | [HEX](https://open.spotify.com/album/2T6UM5iM0cDeVnr7XVaam4) | 4:53 |
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXhcuQw7KIeM.md) - [plain]
 | 45 | [The Loom](https://open.spotify.com/track/0RXlC9M8kO5AMFdjUOYNgA) | [Anilah](https://open.spotify.com/artist/3NLzz9ITW7kJHd5OZIeysW) | [The Loom](https://open.spotify.com/album/1qFY5y13Go221ctiBh9yfj) | 7:13 |
 | 46 | [The Great Feast Underground](https://open.spotify.com/track/1mYq4zjy7PqLCaK8udRZEj) | [Wind Rose](https://open.spotify.com/artist/67ps5pbKVO7V9Fcb4lTIXz) | [The Great Feast Underground](https://open.spotify.com/album/6uTRCWcQo3LsnHFSvYCyUS) | 4:44 |
 | 47 | [Nimue](https://open.spotify.com/track/1aiRXPka4NIzsefkXElOO7) | [Faun](https://open.spotify.com/artist/2wPOgnQ6eW3X73uIJZ4YFE), [Chelsea Wolfe](https://open.spotify.com/artist/6ZK2nrW8aCTg8Bid7I7N10) | [Nimue](https://open.spotify.com/album/4kwS6yOQxGEWgBFULiTJr4) | 4:38 |
-| 48 | [Breaking from the Fold](https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv) | [Triddana](https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb) | [Breaking from the Fold](https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F) | 4:02 |
-| 49 | [SÁLA](https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Karl Seglem](https://open.spotify.com/artist/0byRdidl3crTKAt9Kj4iuS), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM), [Umbra](https://open.spotify.com/artist/5A8VWvvbZf5S9M7vZJWf3S), [Emilie Lorentzen](https://open.spotify.com/artist/2rDUs552em1yNX7FQEFzyd) | [SÁLA](https://open.spotify.com/album/2jWTe1EO0Xbg5ylm8T0t53) | 6:47 |
+| 48 | [SÁLA](https://open.spotify.com/track/3XBG05K4XT1lFiiJkmYhwB) | [Kati Ran](https://open.spotify.com/artist/6Ug5CwD7oxSB5WNQH69NUJ), [Karl Seglem](https://open.spotify.com/artist/0byRdidl3crTKAt9Kj4iuS), [Gaahls WYRD](https://open.spotify.com/artist/7h8V7XHdJ3akShW3uFaZyn), [Gealdýr](https://open.spotify.com/artist/0T3UezATgzQo2sJkjzEsmM), [Umbra](https://open.spotify.com/artist/5A8VWvvbZf5S9M7vZJWf3S), [Emilie Lorentzen](https://open.spotify.com/artist/2rDUs552em1yNX7FQEFzyd) | [SÁLA](https://open.spotify.com/album/2jWTe1EO0Xbg5ylm8T0t53) | 6:47 |
+| 49 | [Breaking from the Fold](https://open.spotify.com/track/6UKKQXlf8CC719Ra5LlCfv) | [Triddana](https://open.spotify.com/artist/0roc2y8jlLS01zexM1Uumb) | [Breaking from the Fold](https://open.spotify.com/album/6QCAQYvJvxs6CxKij68p1F) | 4:02 |
 | 50 | [Gnosis](https://open.spotify.com/track/6cn4fBdGfBaBhhEB67V39P) | [Equilibrium](https://open.spotify.com/artist/5KvkOKroKLz202ioXfGWR2) | [Gnosis](https://open.spotify.com/album/1YzQD6gRvgqJrjHPe4spGF) | 4:35 |
 | 51 | [Två Systrar](https://open.spotify.com/track/50QofZ82BfzPpZjv88dVRb) | [Garmarna](https://open.spotify.com/artist/7ED7dE68y0YZGpyXcuiRsI) | [Två Systrar](https://open.spotify.com/album/5pCP287g0eJdIxEUA8UNwB) | 5:52 |
 | 52 | [Akva \- Live](https://open.spotify.com/track/5sCfp94Viu01VFQlNL1Zf2) | [KAUAN](https://open.spotify.com/artist/2QgzO1Z5XYu9zj3nOYsXUa) | [Akva \(Live\)](https://open.spotify.com/album/0vJfKqs1FC63IShbggiyyu) | 6:44 |

@@ -5318,7 +5318,7 @@
       ],
       "date_added": "2026-09-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 173858,
       "name": "capaz (merengueton)",
       "url": "https://open.spotify.com/track/2dd3G3ZqEcG2cNS1tp3oEk"
@@ -16558,7 +16558,7 @@
       ],
       "date_added": "2026-03-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 195146,
       "name": "KOKO",
       "url": "https://open.spotify.com/track/1tz7RZirwiuaJw2p0jbdHb"
@@ -19610,7 +19610,7 @@
       ],
       "date_added": "2023-12-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 196800,
       "name": "LUNA",
       "url": "https://open.spotify.com/track/7bywjHOc0wSjGGbj04XbVi"
@@ -19832,7 +19832,7 @@
       ],
       "date_added": "2025-12-07",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 161935,
       "name": "Mal Amor",
       "url": "https://open.spotify.com/track/1j4XwpoLvqdkWllikDu7Rm"
@@ -20904,7 +20904,7 @@
       ],
       "date_added": "2026-08-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 156631,
       "name": "Mentira",
       "url": "https://open.spotify.com/track/06cC0Txd5AoUEX2otETGcs"
@@ -29870,7 +29870,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 208168,
       "name": "SE PUSO FEO",
       "url": "https://open.spotify.com/track/6r2FMcPFa2sthCwAd0328y"
@@ -33865,6 +33865,24 @@
     },
     {
       "album": {
+        "name": "Nacimiento Y Recuerdos",
+        "url": "https://open.spotify.com/album/6ImC1UjhzfhbhSD1ya55tl"
+      },
+      "artists": [
+        {
+          "name": "Frankie Ruiz",
+          "url": "https://open.spotify.com/artist/4dLvccxeQIM5u80Ri0u9OV"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 302373,
+      "name": "Tu Con El",
+      "url": "https://open.spotify.com/track/6cHHrFD3fmBG9MR3k8kvep"
+    },
+    {
+      "album": {
         "name": "Atrevido",
         "url": "https://open.spotify.com/album/4DKgafmoXFZmhi73FJ0UQt"
       },
@@ -35346,7 +35364,7 @@
       ],
       "date_added": "2025-07-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 172426,
       "name": "UWAIE",
       "url": "https://open.spotify.com/track/0fMjldiEpgjbWQ4bBQwVzH"
@@ -35488,7 +35506,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 240000,
       "name": "VAMO A VEL",
       "url": "https://open.spotify.com/track/10NP7LyY0Hs7p6xqAckosJ"
@@ -35670,7 +35688,7 @@
       ],
       "date_added": "2024-06-11",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 189025,
       "name": "Vete",
       "url": "https://open.spotify.com/track/6cZcn282SIMmuO8FHN8634"

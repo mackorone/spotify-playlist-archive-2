@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 
 > Para honrar a los muertos con el más sublime placer terrenal.
 
-[Spotify](https://open.spotify.com/user/spotify) - 227,318 likes - 100 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 227,316 likes - 100 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 32 | [Frankestein](https://open.spotify.com/track/59hECJ8oyCMJOuY0A1zhzL) | [Mister Chivo](https://open.spotify.com/artist/0Bxo11d6nt1FpPWCo4PGcw) | [¡¡En Escena!!](https://open.spotify.com/album/6dyxIMSQ3DDb41D2Myhp1U) | 4:25 |
 | 33 | [Muerto en Vida](https://open.spotify.com/track/5ZWMkJaf6f52V1UecbNjOP) | [Juan Gabriel](https://open.spotify.com/artist/2MRBDr0crHWE5JwPceFncq) | [El Mexico Que Se Nos Fue](https://open.spotify.com/album/09nIbsU2go0Lu1Im7zp63q) | 3:31 |
 | 34 | [Tata Dios](https://open.spotify.com/track/3hk6MLu7MCPDGQJPL6SY9s) | [Miguel Aceves Mejia](https://open.spotify.com/artist/23XJNT1Hb35h3ZCDl7lpWY) | [Lo Mejor De Lo Mejor De RCA Victor](https://open.spotify.com/album/2PactlWmapDE3PmauHBEPo) | 3:29 |
-| 35 | [La Muerte](https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 4:16 |
-| 36 | [Cuatro Cirios](https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 2:46 |
+| 35 | [Cuatro Cirios](https://open.spotify.com/track/3hShdCOJ49ylBCCjkN0hv1) | [Javier Solís](https://open.spotify.com/artist/7jerD1mbWgyDukHAmCvdCj) | [Payaso](https://open.spotify.com/album/1t1tLeEvAthN8QnMpB69QN) | 2:46 |
+| 36 | [La Muerte](https://open.spotify.com/track/6JbuWmDTkDWKD7L5uN0Jyv) | [Monsieur Periné](https://open.spotify.com/artist/36KsCCwgI0Dep97yVJWmkK) | [Hecho a Mano](https://open.spotify.com/album/58RU5pUqiS7098vJ5gJlIn) | 4:16 |
 | 37 | [Muerte](https://open.spotify.com/track/5DWOuxRP9nHMoozf9NPlxA) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [De Todas las Flores](https://open.spotify.com/album/4BJoDX0fIjR4RsFF4vyd81) | 5:49 |
 | 38 | [La muerte chiquita](https://open.spotify.com/track/4JH1M62gVDNDhDAUiQB3Qv) | [Café Tacvba](https://open.spotify.com/artist/09xj0S68Y1OU1vHMCZAIvz) | [Tiempo transcurrido](https://open.spotify.com/album/4IGFOWjEuIfnmeQYEEglUz) | 2:51 |
 | 39 | [Son de Difuntos](https://open.spotify.com/track/0nw90AIXzNTfb9acnlM9Mg) | [Lila Downs](https://open.spotify.com/artist/3mXI2gpwWnNO9qbQG3n3EP) | [Balas y Chocolate](https://open.spotify.com/album/0o0Z1UdNywJkrcEKpqgcNq) | 3:37 |
@@ -82,8 +82,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9O1Gd7qCBx1.md) - [plain]
 | 72 | [Dia De Los Muertos](https://open.spotify.com/track/3UTwxVRAc1mUOAbqxWqbl1) | [El Haru Kuroi](https://open.spotify.com/artist/683Jz9L8U9Ba2lGOBuRgj8) | [Sabung](https://open.spotify.com/album/2qOJpwhMowXGwlNVoBKVfA) | 3:10 |
 | 73 | [Para Cuando Muera](https://open.spotify.com/track/3zvvoPUq6g5vcO8M9LAMG1) | [Óscar Chávez](https://open.spotify.com/artist/4QHjJWgPhculd31AHEsjOb) | [Amorosas, Divertidas y Horrorosisímas Canciones de la Calaca Flaca](https://open.spotify.com/album/7AD6KZ2K8f93wLqnAk97S8) | 3:13 |
 | 74 | [A Mi Me Mató La Vida](https://open.spotify.com/track/6IXhgZRpbrZULT8aqNrC43) | [Astrid Hadad](https://open.spotify.com/artist/5UwFR1nHrA40JVhsZsI0i3) | [Vivir Muriendo](https://open.spotify.com/album/19X1XEM2hrbn7FNX3cyfP1) | 4:04 |
-| 75 | [Soledad](https://open.spotify.com/track/1pYqkpBtG8zfOZ5dwQqUGj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Desarrollo de Personaje](https://open.spotify.com/album/5OnNnY2u8aExKg7bkxbYXl) | 3:05 |
-| 76 | [Que Me Importa Morir](https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f) | [Wilbert Pere y Mariachi Tanampa](https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n) | [Día de los Muertos: El Mariachi](https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB) | 3:21 |
+| 75 | [Que Me Importa Morir](https://open.spotify.com/track/1W1wyCjpDdJ1VbZI2Yb55f) | [Wilbert Pere y Mariachi Tanampa](https://open.spotify.com/artist/0VWRpbGtIhxbRkrLX0Gp2n) | [Día de los Muertos: El Mariachi](https://open.spotify.com/album/7jqmdkq2YAaKY6U8ej89mB) | 3:21 |
+| 76 | [Soledad](https://open.spotify.com/track/1pYqkpBtG8zfOZ5dwQqUGj) | [David de la Luz](https://open.spotify.com/artist/3qViLpJR7GZmsde4FYn5Y3) | [Desarrollo de Personaje](https://open.spotify.com/album/5OnNnY2u8aExKg7bkxbYXl) | 3:05 |
 | 77 | [Danza de la Muerte \- Música fúnebre Yokot'anob o Chontal, Tucta, Tabasco](https://open.spotify.com/track/1upu86v6Sjtx7aAnjHwU0W) | [Fredi Román Arias](https://open.spotify.com/artist/1nO7RmunUeFeDEkJvGL4tp), [Martín Hernández](https://open.spotify.com/artist/6xwJg45oEU5NaX5CgdgiSN), [Maximino Esteban Magaña](https://open.spotify.com/artist/4zECOKY69nLvquyzMmt24x) | [La flauta indígena Mexicana\. Grabaciones de Campo de René Villanueva](https://open.spotify.com/album/0oPH8w1qMu6GgvpkOPP7RV) | 2:13 |
 | 78 | [Morir Soñando](https://open.spotify.com/track/63dcYPuE3PEauC0t480FKn) | [Mariachi Nuevo Tecalitlán](https://open.spotify.com/artist/3KtTHCjZygtJHbR1yI2ugS) | [Dia de los Muertos \(Con Mariachi\)](https://open.spotify.com/album/2jhrvg3VaRCvGwEvhLLsmw) | 3:40 |
 | 79 | [La huesuda](https://open.spotify.com/track/45Qh9HP3UPOhrkoFNPyKvM) | [Ariel Rot](https://open.spotify.com/artist/5kXK8waG1JeBQ8b5leWNSu) | [La huesuda](https://open.spotify.com/album/1EURs2L4xEKmMtnEvBPjS9) | 3:37 |

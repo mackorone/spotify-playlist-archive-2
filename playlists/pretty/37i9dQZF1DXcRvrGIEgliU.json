@@ -1,6 +1,6 @@
 {
   "description": "Celebrating 10 years of <a href=\"https://open.spotify.com/genre/0JQ5DAqbMKFImHYGo3eTSg\">independent artist discovery</a>. Cover: Laufey ",
-  "num_followers": 19848,
+  "num_followers": 19869,
   "original_name": "10 Years of Fresh Finds",
   "owner": {
     "name": "Spotify",
@@ -831,6 +831,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Small Change",
+        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
+      },
+      "artists": [
+        {
+          "name": "DON WEST",
+          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
+        }
+      ],
+      "duration_ms": 165020,
+      "name": "Small Change",
+      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "deep in it",
         "url": "https://open.spotify.com/album/5cAUJnj0TsAgnLdbEFj4iq"
       },
@@ -847,22 +863,6 @@
       "duration_ms": 154862,
       "name": "deep in it",
       "url": "https://open.spotify.com/track/6IoDmKMOqGMYwny9MjQ6dg"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Small Change",
-        "url": "https://open.spotify.com/album/3RZwwR7eh3FvVekFA2ivNp"
-      },
-      "artists": [
-        {
-          "name": "DON WEST",
-          "url": "https://open.spotify.com/artist/2FjzRd1bgtsmhESettmFAN"
-        }
-      ],
-      "duration_ms": 165020,
-      "name": "Small Change",
-      "url": "https://open.spotify.com/track/6iCH68EVZeUm0qlIBp5GOO"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1179,22 +1179,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Both Of Us",
-        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
-      },
-      "artists": [
-        {
-          "name": "Jayda G",
-          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
-        }
-      ],
-      "duration_ms": 229424,
-      "name": "Both Of Us - Edit",
-      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
         "url": "https://open.spotify.com/album/38rXnQ4McNlZGTA3WNPNc1"
       },
@@ -1207,6 +1191,22 @@
       "duration_ms": 233975,
       "name": "D\u00f9 Cho Mai V\u1ec1 Sau",
       "url": "https://open.spotify.com/track/4Iz5EWPCAT8jYNk4IpLoll"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Both Of Us",
+        "url": "https://open.spotify.com/album/6tKMQ3udmP1PErZYHKXnqA"
+      },
+      "artists": [
+        {
+          "name": "Jayda G",
+          "url": "https://open.spotify.com/artist/3NKVm2Jedcf6ibJr6pMUVx"
+        }
+      ],
+      "duration_ms": 229424,
+      "name": "Both Of Us - Edit",
+      "url": "https://open.spotify.com/track/75rGONmoi48LLYBFaGiYsv"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1227,22 +1227,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Obsessed (Deluxe)",
-        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
-      },
-      "artists": [
-        {
-          "name": "Yahritza Y Su Esencia",
-          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
-        }
-      ],
-      "duration_ms": 213999,
-      "name": "Soy El Unico",
-      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "japan",
         "url": "https://open.spotify.com/album/3iSywA8P9iVyMCDxAWYxaZ"
       },
@@ -1255,6 +1239,22 @@
       "duration_ms": 174935,
       "name": "japan",
       "url": "https://open.spotify.com/track/0H7Wdgn1C7vFy4z0o2kBUZ"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Obsessed (Deluxe)",
+        "url": "https://open.spotify.com/album/39CdVx9DN5FtCzIyqkrzAq"
+      },
+      "artists": [
+        {
+          "name": "Yahritza Y Su Esencia",
+          "url": "https://open.spotify.com/artist/51ZSh80McCt7vbqHouzW0A"
+        }
+      ],
+      "duration_ms": 213999,
+      "name": "Soy El Unico",
+      "url": "https://open.spotify.com/track/4pKhxDtzoLPVy4GzW1ibAz"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1511,22 +1511,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Emily Can't Sing",
-        "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
-      },
-      "artists": [
-        {
-          "name": "Joe P",
-          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
-        }
-      ],
-      "duration_ms": 213855,
-      "name": "Off My Mind",
-      "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "L\u1ee1 Say Bye L\u00e0 Bye",
         "url": "https://open.spotify.com/album/3BKiAnPnm2Xn2cWB2uWeE0"
       },
@@ -1543,6 +1527,22 @@
       "duration_ms": 214948,
       "name": "L\u1ee1 Say Bye L\u00e0 Bye",
       "url": "https://open.spotify.com/track/0d6dbFvKczX1Us3J7TsMMv"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Emily Can't Sing",
+        "url": "https://open.spotify.com/album/4KTZrjVFSMS2TqNAGVxMfJ"
+      },
+      "artists": [
+        {
+          "name": "Joe P",
+          "url": "https://open.spotify.com/artist/3pIwImfumJioKb0zHHP61x"
+        }
+      ],
+      "duration_ms": 213855,
+      "name": "Off My Mind",
+      "url": "https://open.spotify.com/track/7n6QMW76A5qgfn0Mb4aL7i"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1759,22 +1759,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Blondshell",
-        "url": "https://open.spotify.com/album/0RSPVYjnhUDpXfMOa7zTdE"
-      },
-      "artists": [
-        {
-          "name": "Blondshell",
-          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
-        }
-      ],
-      "duration_ms": 216852,
-      "name": "Olympus",
-      "url": "https://open.spotify.com/track/43I2PiBJCc781cQwY5EUVA"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Pound Town - EP",
         "url": "https://open.spotify.com/album/5aHCR84N5N62EPKhxQh1Bi"
       },
@@ -1791,6 +1775,22 @@
       "duration_ms": 129429,
       "name": "Pound Town",
       "url": "https://open.spotify.com/track/26cQkxTmCeXaKoOLnIMR26"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Blondshell",
+        "url": "https://open.spotify.com/album/0RSPVYjnhUDpXfMOa7zTdE"
+      },
+      "artists": [
+        {
+          "name": "Blondshell",
+          "url": "https://open.spotify.com/artist/7qrEXiLLnWkkYHhadZ1Oij"
+        }
+      ],
+      "duration_ms": 216852,
+      "name": "Olympus",
+      "url": "https://open.spotify.com/track/43I2PiBJCc781cQwY5EUVA"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1859,22 +1859,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "i haunt ur dreams",
-        "url": "https://open.spotify.com/album/6Nm1396bUjq3IUS0nlhcAP"
-      },
-      "artists": [
-        {
-          "name": "hey, nothing",
-          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
-        }
-      ],
-      "duration_ms": 216665,
-      "name": "i haunt ur dreams",
-      "url": "https://open.spotify.com/track/2JE60bG37E2hJA0pAuQ9wo"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Badkid",
         "url": "https://open.spotify.com/album/2QaQGxQuEV9hZYMhpS6Zax"
       },
@@ -1887,6 +1871,22 @@
       "duration_ms": 153437,
       "name": "Big Dreams",
       "url": "https://open.spotify.com/track/6q1nZrQOBplr60zI4Kku4a"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "i haunt ur dreams",
+        "url": "https://open.spotify.com/album/6Nm1396bUjq3IUS0nlhcAP"
+      },
+      "artists": [
+        {
+          "name": "hey, nothing",
+          "url": "https://open.spotify.com/artist/6YWqJQS9TETSb8LgZONUzI"
+        }
+      ],
+      "duration_ms": 216665,
+      "name": "i haunt ur dreams",
+      "url": "https://open.spotify.com/track/2JE60bG37E2hJA0pAuQ9wo"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Fuzzybrain",
-        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
-      },
-      "artists": [
-        {
-          "name": "Dayglow",
-          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
-        }
-      ],
-      "duration_ms": 277200,
-      "name": "False Direction",
-      "url": "https://open.spotify.com/track/110PnrQX9AJIt3HNJtjPgt"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Duality",
         "url": "https://open.spotify.com/album/7hlIZo0zmIL0cd76vieDzM"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 198466,
       "name": "Afterglow",
       "url": "https://open.spotify.com/track/5AOfrE1Sw9wWYfTkL2C7uP"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Fuzzybrain",
+        "url": "https://open.spotify.com/album/7GYzQIMfdDWo2XC4BDLHPk"
+      },
+      "artists": [
+        {
+          "name": "Dayglow",
+          "url": "https://open.spotify.com/artist/6eJa3zG1QZLRB3xgRuyxbm"
+        }
+      ],
+      "duration_ms": 277200,
+      "name": "False Direction",
+      "url": "https://open.spotify.com/track/110PnrQX9AJIt3HNJtjPgt"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Alone",
-        "url": "https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh"
-      },
-      "artists": [
-        {
-          "name": "Bazzi",
-          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
-        }
-      ],
-      "duration_ms": 196352,
-      "name": "Alone",
-      "url": "https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Shawty",
         "url": "https://open.spotify.com/album/2kF6bikHMAry39BlUpZkes"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 197727,
       "name": "Shawty",
       "url": "https://open.spotify.com/track/3tCCH9aaiKRmwOjvIKq76d"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Alone",
+        "url": "https://open.spotify.com/album/37VvmOrOA6b4TzbVSyoXsh"
+      },
+      "artists": [
+        {
+          "name": "Bazzi",
+          "url": "https://open.spotify.com/artist/4GvEc3ANtPPjt1ZJllr5Zl"
+        }
+      ],
+      "duration_ms": 196352,
+      "name": "Alone",
+      "url": "https://open.spotify.com/track/1kFToCzZBG7clK0axbKVWH"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2219,6 +2219,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "Sunday (1994) [Deluxe]",
+        "url": "https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ"
+      },
+      "artists": [
+        {
+          "name": "Sunday (1994)",
+          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
+        }
+      ],
+      "duration_ms": 270344,
+      "name": "Tired Boy",
+      "url": "https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Can't Hide",
         "url": "https://open.spotify.com/album/7mtjKxnZh0ISlfYa149pTW"
       },
@@ -2235,22 +2251,6 @@
       "duration_ms": 184000,
       "name": "Can't Hide",
       "url": "https://open.spotify.com/track/7CotyU8EcChJlqOFnxPPmI"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
-        "name": "Sunday (1994) [Deluxe]",
-        "url": "https://open.spotify.com/album/09pGoAwAEQdxuMitd6GqaJ"
-      },
-      "artists": [
-        {
-          "name": "Sunday (1994)",
-          "url": "https://open.spotify.com/artist/1vTFaCiaR50b2IXELHW52U"
-        }
-      ],
-      "duration_ms": 270344,
-      "name": "Tired Boy",
-      "url": "https://open.spotify.com/track/5AaP39wI0QvDSKSyivTFfX"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2287,22 +2287,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "Space Makes Me Sad",
-        "url": "https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX"
-      },
-      "artists": [
-        {
-          "name": "Fiji Blue",
-          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
-        }
-      ],
-      "duration_ms": 136419,
-      "name": "Space Makes Me Sad",
-      "url": "https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Khayaal",
         "url": "https://open.spotify.com/album/4EArcY1dBXz075hMxNgRUN"
       },
@@ -2319,6 +2303,22 @@
       "duration_ms": 162206,
       "name": "Khayaal",
       "url": "https://open.spotify.com/track/18qN1yxa4SVwmykQq1Icrl"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
+        "name": "Space Makes Me Sad",
+        "url": "https://open.spotify.com/album/4qW3WrCTZT7RcRkdHmikBX"
+      },
+      "artists": [
+        {
+          "name": "Fiji Blue",
+          "url": "https://open.spotify.com/artist/1e7K8jD3wRuQfnwDAOeGqe"
+        }
+      ],
+      "duration_ms": 136419,
+      "name": "Space Makes Me Sad",
+      "url": "https://open.spotify.com/track/5Op3wFn328uL17aJUIGJx3"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2403,6 +2403,22 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
+        "name": "34Corine",
+        "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
+      },
+      "artists": [
+        {
+          "name": "TiaCorine",
+          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+        }
+      ],
+      "duration_ms": 147920,
+      "name": "Lotto",
+      "url": "https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK"
+    },
+    {
+      "added_at": "2025-05-19 03:00:14",
+      "album": {
         "name": "Midnight Snack",
         "url": "https://open.spotify.com/album/2DMG0zobpx4Yv0eOux8mUc"
       },
@@ -2423,18 +2439,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "34Corine",
-        "url": "https://open.spotify.com/album/652rsvEfjS9L8RD2gEqJhL"
+        "name": "going...going...GONE!",
+        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
       },
       "artists": [
         {
-          "name": "TiaCorine",
-          "url": "https://open.spotify.com/artist/39i5B6umzWzkfMe12JrMwW"
+          "name": "hemlocke springs",
+          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
         }
       ],
-      "duration_ms": 147920,
-      "name": "Lotto",
-      "url": "https://open.spotify.com/track/5F8zXCNHA4Xzoqi3NR9kUK"
+      "duration_ms": 172773,
+      "name": "gimme all ur luv",
+      "url": "https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi"
     },
     {
       "added_at": "2025-05-19 03:00:14",
@@ -2455,22 +2471,6 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "going...going...GONE!",
-        "url": "https://open.spotify.com/album/6hnlO74dZkXLCk8dQNjLjf"
-      },
-      "artists": [
-        {
-          "name": "hemlocke springs",
-          "url": "https://open.spotify.com/artist/52PdgUJOjvS6Mpmjy1SAlx"
-        }
-      ],
-      "duration_ms": 172773,
-      "name": "gimme all ur luv",
-      "url": "https://open.spotify.com/track/1gaJMN7d2pSBnhx9oEQZbi"
-    },
-    {
-      "added_at": "2025-05-19 03:00:14",
-      "album": {
         "name": "Headz Gone West",
         "url": "https://open.spotify.com/album/53ctt5C17r7sd80eMLFsZ8"
       },
@@ -2487,18 +2487,18 @@
     {
       "added_at": "2025-05-19 03:00:14",
       "album": {
-        "name": "eyes don\u2019t lie",
-        "url": "https://open.spotify.com/album/6058NxZ7f2h99cX5nYai0Y"
+        "name": "High 4 U",
+        "url": "https://open.spotify.com/album/5MMBnre4vg3kHHjCuPzBRR"
       },
       "artists": [
         {
-          "name": "Kingfishr",
-          "url": "https://open.spotify.com/artist/6c2qQFq3xfxFJndX6wSe4f"
+          "name": "Artemas",
+          "url": "https://open.spotify.com/artist/0PCCGZ0wGLizHt2KZ7hhA2"
         }
       ],
-      "duration_ms": 226054,
-      "name": "Eyes Don't Lie",
-      "url": "https://open.spotify.com/track/7mVBncqtMZeCC6lnOx4GSv"
+      "duration_ms": 162793,
+      "name": "High 4 U",
+      "url": "https://open.spotify.com/track/0pRbwemRrnRUDOAniF6FOR"
     }
   ],
   "unique_name": "10 Years of Fresh Finds",

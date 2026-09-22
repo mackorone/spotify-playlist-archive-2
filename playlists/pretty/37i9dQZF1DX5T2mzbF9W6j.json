@@ -1,6 +1,6 @@
 {
   "description": "Wyzwania, cele, zadania, spotkania, dedlajny\u2026 ale najpierw kawa.",
-  "num_followers": 113023,
+  "num_followers": 113046,
   "original_name": "... ale najpierw kawa",
   "owner": {
     "name": "Spotify",
@@ -203,22 +203,6 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
-        "name": "FUNNY little FEARS",
-        "url": "https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO"
-      },
-      "artists": [
-        {
-          "name": "Damiano David",
-          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
-        }
-      ],
-      "duration_ms": 218266,
-      "name": "The First Time",
-      "url": "https://open.spotify.com/track/2t4RCWbICUqhPKVQeA7VPq"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
         "name": "new trick",
         "url": "https://open.spotify.com/album/1KDCZPL93TEvA8yMMRFKcw"
       },
@@ -231,6 +215,22 @@
       "duration_ms": 182582,
       "name": "new trick",
       "url": "https://open.spotify.com/track/5GKBPdWbW4RQtx9VkQ6xKO"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
+        "name": "FUNNY little FEARS",
+        "url": "https://open.spotify.com/album/09OXDzuUcSUACxAsU7zmsO"
+      },
+      "artists": [
+        {
+          "name": "Damiano David",
+          "url": "https://open.spotify.com/artist/7AaGbSgUxJFuZ49VvclNH6"
+        }
+      ],
+      "duration_ms": 218266,
+      "name": "The First Time",
+      "url": "https://open.spotify.com/track/2t4RCWbICUqhPKVQeA7VPq"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -263,26 +263,6 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
-        "name": "Burn It Down (feat. Leon Bridges)",
-        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
-      },
-      "artists": [
-        {
-          "name": "Shaboozey",
-          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
-        },
-        {
-          "name": "Leon Bridges",
-          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
-        }
-      ],
-      "duration_ms": 251032,
-      "name": "Burn it Down (feat. Leon Bridges)",
-      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
         "name": "AGUA",
         "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
       },
@@ -299,6 +279,26 @@
       "duration_ms": 191107,
       "name": "AGUA",
       "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
+        "name": "Burn It Down (feat. Leon Bridges)",
+        "url": "https://open.spotify.com/album/6paZ1REm9f4KE75egyuNGM"
+      },
+      "artists": [
+        {
+          "name": "Shaboozey",
+          "url": "https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH"
+        },
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "duration_ms": 251032,
+      "name": "Burn it Down (feat. Leon Bridges)",
+      "url": "https://open.spotify.com/track/4xej9vaOrovFRzZVKr8KlF"
     },
     {
       "added_at": "2026-09-18 08:00:22",
@@ -927,6 +927,22 @@
     {
       "added_at": "2026-09-18 08:00:22",
       "album": {
+        "name": "Widz\u0119 Ci\u0119",
+        "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
+      },
+      "artists": [
+        {
+          "name": "Diiya",
+          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
+        }
+      ],
+      "duration_ms": 143500,
+      "name": "Widz\u0119 Ci\u0119",
+      "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
+    },
+    {
+      "added_at": "2026-09-18 08:00:22",
+      "album": {
         "name": "Terapia dla par",
         "url": "https://open.spotify.com/album/3pNnMv1yyKgUB5XhBr45De"
       },
@@ -943,22 +959,6 @@
       "duration_ms": 241395,
       "name": "Terapia dla par",
       "url": "https://open.spotify.com/track/5OrUXKWrNXgfI7iLAYymbc"
-    },
-    {
-      "added_at": "2026-09-18 08:00:22",
-      "album": {
-        "name": "Widz\u0119 Ci\u0119",
-        "url": "https://open.spotify.com/album/5WihHGvLeXXicJVfXYqyRL"
-      },
-      "artists": [
-        {
-          "name": "Diiya",
-          "url": "https://open.spotify.com/artist/7cpXJIW3DMvOlUTHyIm4wx"
-        }
-      ],
-      "duration_ms": 143500,
-      "name": "Widz\u0119 Ci\u0119",
-      "url": "https://open.spotify.com/track/7dH6NU8Ok8JcG5TULrLjI6"
     },
     {
       "added_at": "2026-09-18 08:00:22",

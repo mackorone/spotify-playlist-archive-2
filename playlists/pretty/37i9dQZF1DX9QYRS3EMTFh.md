@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX9QYRS3EMTFh.md) - [plain]
 
 > Les hits dancehall, shatta & bouyon du moment\. Photo : N'Ken
 
-[Spotify](https://open.spotify.com/user/spotify) - 257,994 likes - 49 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 258,009 likes - 49 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

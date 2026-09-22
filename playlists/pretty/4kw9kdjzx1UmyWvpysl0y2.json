@@ -1,13 +1,29 @@
 {
   "description": "Brand new music from Monstercat, all in one place.",
-  "num_followers": 122663,
+  "num_followers": 122654,
   "original_name": "New Music Weekly | Monstercat",
   "owner": {
     "name": "Monstercat",
     "url": "https://open.spotify.com/user/monstercatmedia"
   },
-  "snapshot_id": "AAAVw3R7cHyhd7gCNMHnfjEM2x1nv+0+",
+  "snapshot_id": "AAAVxDI568f+1dVx9hSTo/B1hCXDFjDy",
   "tracks": [
+    {
+      "added_at": "2026-09-21 14:02:39",
+      "album": {
+        "name": "AIRBORNE",
+        "url": "https://open.spotify.com/album/6lwaXe7sHyluqyp9IDIxta"
+      },
+      "artists": [
+        {
+          "name": "TESSERACTS",
+          "url": "https://open.spotify.com/artist/2Oc62iD4J8F2YH34NoSALk"
+        }
+      ],
+      "duration_ms": 209302,
+      "name": "AIRBORNE",
+      "url": "https://open.spotify.com/track/3NMXYLZj8yylzTJI97TBXB"
+    },
     {
       "added_at": "2026-09-18 15:15:45",
       "album": {

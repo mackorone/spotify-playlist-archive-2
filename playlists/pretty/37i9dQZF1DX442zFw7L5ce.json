@@ -1,6 +1,6 @@
 {
   "description": "Get ready to these songs that'll make you feel like you're the QUEEEEN! \nCover : Sreeleela",
-  "num_followers": 63680,
+  "num_followers": 63699,
   "original_name": "#GRWM Telugu",
   "owner": {
     "name": "Spotify",
@@ -229,22 +229,6 @@
       "url": "https://open.spotify.com/track/4rc1WGmRJ2CsHXTmrBu3gH"
     },
     {
-      "added_at": "2026-08-12 09:24:21",
-      "album": {
-        "name": "Mahathma",
-        "url": "https://open.spotify.com/album/5Lcs851etHK2DXWPKAKncp"
-      },
-      "artists": [
-        {
-          "name": "Kasarla Shyam",
-          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
-        }
-      ],
-      "duration_ms": 216842,
-      "name": "Neela Poori",
-      "url": "https://open.spotify.com/track/48COQEa9dLJBadH5EO9VwB"
-    },
-    {
       "added_at": "2025-02-10 12:33:38",
       "album": {
         "name": "ANIMAL (TELUGU)",
@@ -267,6 +251,22 @@
       "duration_ms": 275439,
       "name": "Ammayi",
       "url": "https://open.spotify.com/track/4kVsV4GhcNpHSDs6siioM0"
+    },
+    {
+      "added_at": "2026-08-12 09:24:21",
+      "album": {
+        "name": "Mahathma",
+        "url": "https://open.spotify.com/album/5Lcs851etHK2DXWPKAKncp"
+      },
+      "artists": [
+        {
+          "name": "Kasarla Shyam",
+          "url": "https://open.spotify.com/artist/4wxBWsFkyA2K1BMBFj91qt"
+        }
+      ],
+      "duration_ms": 216842,
+      "name": "Neela Poori",
+      "url": "https://open.spotify.com/track/48COQEa9dLJBadH5EO9VwB"
     },
     {
       "added_at": "2025-02-10 12:33:38",
@@ -687,6 +687,22 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
+        "name": "Nuvvostanante Nenoddantana",
+        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "duration_ms": 255292,
+      "name": "Chandrullo Unde",
+      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
         "name": "Gharshana-New",
         "url": "https://open.spotify.com/album/1UjRLzKzCJqmrZK9Drt6Zx"
       },
@@ -703,22 +719,18 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Gabbar Singh",
-        "url": "https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr"
+        "name": "Aadavari Matalaku Ardhalu Veruley",
+        "url": "https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u"
       },
       "artists": [
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        },
-        {
-          "name": "Gopika Poornima",
-          "url": "https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF"
+          "name": "Udit Narayan",
+          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
         }
       ],
-      "duration_ms": 291188,
-      "name": "Akasam Ammayaithe",
-      "url": "https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu"
+      "duration_ms": 319686,
+      "name": "Emaindhi Eevela",
+      "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
     },
     {
       "added_at": "2025-02-10 12:33:38",
@@ -771,6 +783,26 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
+        "name": "Gabbar Singh",
+        "url": "https://open.spotify.com/album/57x6HaiiJdeTg9yhfoMcSr"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        },
+        {
+          "name": "Gopika Poornima",
+          "url": "https://open.spotify.com/artist/5Rj7UMjxB4u5OZnS5c1rXF"
+        }
+      ],
+      "duration_ms": 291188,
+      "name": "Akasam Ammayaithe",
+      "url": "https://open.spotify.com/track/14I31bbtEZVADFi1uCcxcu"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
         "name": "Thammudu",
         "url": "https://open.spotify.com/album/0BoUUhoyOBz3lNJH1wl5Dh"
       },
@@ -783,38 +815,6 @@
       "duration_ms": 316656,
       "name": "Vayari Bhama",
       "url": "https://open.spotify.com/track/4K4gYMKbZFMKh4ePHzXTQu"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Aadavari Matalaku Ardhalu Veruley",
-        "url": "https://open.spotify.com/album/2MsMl4xvzwGfgaIy1BLm0u"
-      },
-      "artists": [
-        {
-          "name": "Udit Narayan",
-          "url": "https://open.spotify.com/artist/70B80Lwx2sxti0M1Ng9e8K"
-        }
-      ],
-      "duration_ms": 319686,
-      "name": "Emaindhi Eevela",
-      "url": "https://open.spotify.com/track/3E8mVTnCMmXJNq6Pbcfkp7"
-    },
-    {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Nuvvostanante Nenoddantana",
-        "url": "https://open.spotify.com/album/5I3dEH9cXdYmo8MVIdOkxO"
-      },
-      "artists": [
-        {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
-        }
-      ],
-      "duration_ms": 255292,
-      "name": "Chandrullo Unde",
-      "url": "https://open.spotify.com/track/4b4xkbpRpA8jHbP8GVLYWR"
     },
     {
       "added_at": "2022-12-30 11:00:51",
@@ -855,6 +855,38 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
+        "name": "Life Is Beautiful",
+        "url": "https://open.spotify.com/album/1Hd2y0smTAvVSTvJeXj5lW"
+      },
+      "artists": [
+        {
+          "name": "Karthik",
+          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+        }
+      ],
+      "duration_ms": 283207,
+      "name": "Beautiful Girl",
+      "url": "https://open.spotify.com/track/3P8sXN7vsucV5k80lReeeq"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
+        "name": "Attarrintiki Daaredi",
+        "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
+      },
+      "artists": [
+        {
+          "name": "Shankar Mahadevan",
+          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+        }
+      ],
+      "duration_ms": 280000,
+      "name": "Bapu Gari Bommo",
+      "url": "https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F"
+    },
+    {
+      "added_at": "2022-10-13 05:39:22",
+      "album": {
         "name": "Attarrintiki Daaredi",
         "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
       },
@@ -887,18 +919,18 @@
     {
       "added_at": "2022-10-13 05:39:22",
       "album": {
-        "name": "Attarrintiki Daaredi",
-        "url": "https://open.spotify.com/album/4rjF7pEttnd3hMEt7iuzgk"
+        "name": "Chandamama",
+        "url": "https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC"
       },
       "artists": [
         {
-          "name": "Shankar Mahadevan",
-          "url": "https://open.spotify.com/artist/1SJOL9HJ08YOn92lFcYf8a"
+          "name": "Rajesh",
+          "url": "https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK"
         }
       ],
-      "duration_ms": 280000,
-      "name": "Bapu Gari Bommo",
-      "url": "https://open.spotify.com/track/1e3pqyiPgPzqnDm8m91x5F"
+      "duration_ms": 272759,
+      "name": "Buggey Bangarama",
+      "url": "https://open.spotify.com/track/18RUE4llLj46NIQKojerlw"
     },
     {
       "added_at": "2024-10-04 05:05:53",
@@ -929,42 +961,6 @@
       "url": "https://open.spotify.com/track/1dV7KaJKMVIBCrHdmCAdyA"
     },
     {
-      "added_at": "2022-10-13 05:39:22",
-      "album": {
-        "name": "Chandamama",
-        "url": "https://open.spotify.com/album/2eASY2UZa4O8pdXvK9SNgC"
-      },
-      "artists": [
-        {
-          "name": "Rajesh",
-          "url": "https://open.spotify.com/artist/6aQ5LDX0WlnyDLI8TGU0wK"
-        }
-      ],
-      "duration_ms": 272759,
-      "name": "Buggey Bangarama",
-      "url": "https://open.spotify.com/track/18RUE4llLj46NIQKojerlw"
-    },
-    {
-      "added_at": "2024-10-04 04:54:19",
-      "album": {
-        "name": "Rangasthalam",
-        "url": "https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF"
-      },
-      "artists": [
-        {
-          "name": "Devi Sri Prasad",
-          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
-        },
-        {
-          "name": "Chandra Bose",
-          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
-        }
-      ],
-      "duration_ms": 262122,
-      "name": "Yentha Sakkagunnave",
-      "url": "https://open.spotify.com/track/6ZwkWDAoj6aDCbng3xnGSl"
-    },
-    {
       "added_at": "2022-10-17 05:57:53",
       "album": {
         "name": "Kalusukovalani",
@@ -985,20 +981,24 @@
       "url": "https://open.spotify.com/track/4wKiaLGUIAdgRBSv80aeBW"
     },
     {
-      "added_at": "2022-10-13 05:39:22",
+      "added_at": "2024-10-04 04:54:19",
       "album": {
-        "name": "Life Is Beautiful",
-        "url": "https://open.spotify.com/album/1Hd2y0smTAvVSTvJeXj5lW"
+        "name": "Rangasthalam",
+        "url": "https://open.spotify.com/album/7tSkAxhqw7Gb2lvnAjxvwF"
       },
       "artists": [
         {
-          "name": "Karthik",
-          "url": "https://open.spotify.com/artist/0LSPREIgGMZXCuKVel7LVD"
+          "name": "Devi Sri Prasad",
+          "url": "https://open.spotify.com/artist/5sSzCxHtgL82pYDvx2QyEU"
+        },
+        {
+          "name": "Chandra Bose",
+          "url": "https://open.spotify.com/artist/3gZ3IpjebAehFzIYhFIJDK"
         }
       ],
-      "duration_ms": 283207,
-      "name": "Beautiful Girl",
-      "url": "https://open.spotify.com/track/3P8sXN7vsucV5k80lReeeq"
+      "duration_ms": 262122,
+      "name": "Yentha Sakkagunnave",
+      "url": "https://open.spotify.com/track/6ZwkWDAoj6aDCbng3xnGSl"
     },
     {
       "added_at": "2022-10-13 05:39:22",

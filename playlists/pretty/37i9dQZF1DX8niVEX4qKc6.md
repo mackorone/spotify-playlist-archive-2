@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 
 > Canciones desenchufadas, en la intimidad del estudio o en el fuego del escenario\. Foto: El Plan De La Mariposa
 
-[Spotify](https://open.spotify.com/user/spotify) - 193,997 likes - 100 songs - 6 hr 4 min
+[Spotify](https://open.spotify.com/user/spotify) - 193,995 likes - 100 songs - 6 hr 4 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -88,8 +88,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 78 | [Sad Balada](https://open.spotify.com/track/5gVtKWi5x6U74LMJ6YjyHw) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN) | [La Negación](https://open.spotify.com/album/6HVV8a7LZBFRoSdlMZjIu2) | 3:12 |
 | 79 | [Mil Mensajes](https://open.spotify.com/track/4MQGEeNOEzvhLgFK94Q9GL) | [Salvapantallas](https://open.spotify.com/artist/1VZQhmsaBc4voNvRGvFUgK) | [Mil Mensajes](https://open.spotify.com/album/4c80ZsZUjAp1lEcG6jWVDo) | 3:22 |
 | 80 | [Tren Al Sur](https://open.spotify.com/track/3hyKH9IW6LUHg8eTFagrpj) | [Xochi Krausse](https://open.spotify.com/artist/36u61FnGDFJVllsyOZ4tQh) | [Tren Al Sur](https://open.spotify.com/album/0oAqAR2iInqVKbSZgBdiNS) | 3:55 |
-| 81 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
-| 82 | [Como Te Voy A Olvidar](https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Como Te Voy A Olvidar](https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq) | 3:06 |
+| 81 | [Como Te Voy A Olvidar](https://open.spotify.com/track/7uHkKQQFt9qjWHt3crcuvu) | [Aurelia Goldspark](https://open.spotify.com/artist/23Vwx4SwKnBo2w3kAL32pW) | [Como Te Voy A Olvidar](https://open.spotify.com/album/1dgCyGMh2gFJgDWhS4o3Yq) | 3:06 |
+| 82 | [Timba](https://open.spotify.com/track/7hEb4FubnwHYtQCT7of7Ub) | [Papina de Palma](https://open.spotify.com/artist/2bkcXTFPnDVBhj5s7YEDx3) | [Esta podría ser la señal](https://open.spotify.com/album/5y5qNhfSQM4ip0yYRSdxaE) | 1:17 |
 | 83 | [Amanece \(A Pepe Mujica\)](https://open.spotify.com/track/2HZBmHn8uajdtUWQt7MR5E) | [Manuel García](https://open.spotify.com/artist/4LIR7XQRqn0CyXMYSjKoTX) | [Amanece \(a Pepe Mujica\)](https://open.spotify.com/album/2xPQysNWJoN1R5obe7as9o) | 3:52 |
 | 84 | [Campanas en la Noche \- Versión Juan José Vasconcellos](https://open.spotify.com/track/2lk3JQjjq5Dq6xO0T7NcSk) | [Los Tipitos](https://open.spotify.com/artist/1SykQGBiBwkQ1fcGpJ1BJt), [Juan José Vasconcellos](https://open.spotify.com/artist/2trqwU5np12DafTWRHGy0A) | [De Mi Flor](https://open.spotify.com/album/4SBRGOZH7Md3ayu8HzrK2P) | 3:41 |
 | 85 | [Salvaje](https://open.spotify.com/track/4Y8tIVK4IQOJP7rmRsbDS7) | [Malena Villa](https://open.spotify.com/artist/0RlibgJa8rtPvVn415J6WN), [Zoe Gotusso](https://open.spotify.com/artist/3XBw8ImFEo86mEB2dYh0vS) | [Salvaje](https://open.spotify.com/album/7BtgGOTyrA2LBwxvZtvtZR) | 2:53 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8niVEX4qKc6.md) - [plain]
 | 88 | [el film \- Versión Acústica](https://open.spotify.com/track/7wCAh65r75ZHqyCJL4ZgZn) | [Los Otros Días](https://open.spotify.com/artist/3XQc1ORL38qQC9U0Z4do9V) | [Acústico](https://open.spotify.com/album/0eyeF19njYTKXXGLOmY4G5) | 2:49 |
 | 89 | [Es Broma, En Serio](https://open.spotify.com/track/4q3b3PqYo9YBHmreU7cKx8) | [Diego Lorenzini](https://open.spotify.com/artist/58ogXGbkmpbFtAbePMPiQ4), [Rosario Alfonso](https://open.spotify.com/artist/7mirwC8eaTt7tswix93TFZ) | [Es Broma, En Serio](https://open.spotify.com/album/0psdT4uysQM3xQFlR2RELc) | 4:52 |
 | 90 | [Vámonos](https://open.spotify.com/track/5myKO56bSuaqnsOLrsIkbN) | [Benjamín Amadeo](https://open.spotify.com/artist/6GYXfifD78PYARjZzxQzrG) | [Vámonos](https://open.spotify.com/album/7IVxz2kb6WXJi3mMz9kO5h) | 2:45 |
-| 91 | [Mandolín \- Live](https://open.spotify.com/track/4URBvGjdh2WpLKNx4mr1SJ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Pardelion Music](https://open.spotify.com/artist/6jEflkhA5Lckl3nhvKUiar) | [Loli Molina Live on Pardelion Music](https://open.spotify.com/album/0kd7ojE2zKmEJeh2q97EyJ) | 5:04 |
-| 92 | [Amar No Está de Moda](https://open.spotify.com/track/6oS9syceL1xhMagN948BFn) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Congelamiento Global](https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ) | 3:05 |
+| 91 | [Amar No Está de Moda](https://open.spotify.com/track/6oS9syceL1xhMagN948BFn) | [Doble Valentina](https://open.spotify.com/artist/6vKHhATIB0in0rvrB1nbmU) | [Congelamiento Global](https://open.spotify.com/album/1zRInmv573tV80Asz4zYZJ) | 3:05 |
+| 92 | [Mandolín \- Live](https://open.spotify.com/track/4URBvGjdh2WpLKNx4mr1SJ) | [Loli Molina](https://open.spotify.com/artist/4mStQ3gsuRt6YDkloBov32), [Pardelion Music](https://open.spotify.com/artist/6jEflkhA5Lckl3nhvKUiar) | [Loli Molina Live on Pardelion Music](https://open.spotify.com/album/0kd7ojE2zKmEJeh2q97EyJ) | 5:04 |
 | 93 | [Love Song \- Acústico](https://open.spotify.com/track/4tDpOMKNX8oX2iQkwSnRHH) | [Nonpalidece](https://open.spotify.com/artist/0W1EfnztQTHuv03MuMzWPe) | [Hagan Correr la Voz](https://open.spotify.com/album/0ko2Kez1pYo91ELqWFPISY) | 4:05 |
 | 94 | [Hermoza From Heaven](https://open.spotify.com/track/3LW57dH9v1gZO7HC3Bzs09) | [Illya Kuryaki & The Valderramas](https://open.spotify.com/artist/2Rc3Tb5XUPF1YlnQwuPgjg) | [Ninja Mental \- Unplugged MTV](https://open.spotify.com/album/7mW1POPbHm8iPu4dqQ9d8c) | 4:37 |
 | 95 | [Sonhos](https://open.spotify.com/track/16zNapwhCye9uCg4sTEZ7I) | [Feli Colina](https://open.spotify.com/artist/4EmjPNMuvvKSEAyx7ibGrs) | [Sonhos](https://open.spotify.com/album/1Zm0YPGtmxhTfDjU0It8pB) | 6:09 |

@@ -1489,6 +1489,24 @@
     },
     {
       "album": {
+        "name": "Breathless",
+        "url": "https://open.spotify.com/album/1RbstNaZ2ujkf6aimlijQO"
+      },
+      "artists": [
+        {
+          "name": "CYRIL",
+          "url": "https://open.spotify.com/artist/11kt6ggsdxvI8MhyeSMKom"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 146260,
+      "name": "Breathless",
+      "url": "https://open.spotify.com/track/3gElwRzfAWrTpGi5Tf6aax"
+    },
+    {
+      "album": {
         "name": "Year Zero (Remixes)",
         "url": "https://open.spotify.com/album/3CAnVxeCkhqsvq83bpp5xK"
       },
@@ -1714,7 +1732,7 @@
       ],
       "date_added": "2025-10-31",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 163948,
       "name": "Camera (CYRIL Remix)",
       "url": "https://open.spotify.com/track/6J1L5q4tDfn2mfP9mFDZAF"
@@ -6870,7 +6888,7 @@
       ],
       "date_added": "2026-08-22",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 140433,
       "name": "Leak It - DENNIS Remix",
       "url": "https://open.spotify.com/track/0NtdDxJlVrKbZqdCUK0E7V"
@@ -8556,6 +8574,28 @@
       "duration_ms": 323080,
       "name": "Nieve - Good Times Ahead Remix",
       "url": "https://open.spotify.com/track/0Z89MaST5Egh1JGuWtIohT"
+    },
+    {
+      "album": {
+        "name": "No Air",
+        "url": "https://open.spotify.com/album/2VFS1Gyx1f9abu19Nf7kRd"
+      },
+      "artists": [
+        {
+          "name": "NGHTMRE",
+          "url": "https://open.spotify.com/artist/76M2Ekj8bG8W7X2nbx2CpF"
+        },
+        {
+          "name": "Jordin Sparks",
+          "url": "https://open.spotify.com/artist/2AQjGvtT0pFYfxR3neFcvz"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 197241,
+      "name": "No Air",
+      "url": "https://open.spotify.com/track/5MHzqBhWNta6P2jqws2CbA"
     },
     {
       "album": {
@@ -10699,6 +10739,36 @@
     },
     {
       "album": {
+        "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
+        "url": "https://open.spotify.com/album/5WZBSlCTwxhXZCg8W4WEr8"
+      },
+      "artists": [
+        {
+          "name": "ARTBAT",
+          "url": "https://open.spotify.com/artist/3BkRu2TGd2I1uBxZKddfg1"
+        },
+        {
+          "name": "David Guetta",
+          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
+        },
+        {
+          "name": "Gotye",
+          "url": "https://open.spotify.com/artist/2AsusXITU8P25dlRNhcAbG"
+        },
+        {
+          "name": "Kimbra",
+          "url": "https://open.spotify.com/artist/6hk7Yq1DU9QcCCrz9uc0Ti"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194645,
+      "name": "Somebody That I Used To Know (ARTBAT x David Guetta Mix) (feat. Gotye & Kimbra)",
+      "url": "https://open.spotify.com/track/4IKvewaZnwe4n3jJi3dT8t"
+    },
+    {
+      "album": {
         "name": "Someone For Me",
         "url": "https://open.spotify.com/album/1b5E2J5Uh6Trif3ZvPMu5o"
       },
@@ -11250,7 +11320,7 @@
       ],
       "date_added": "2022-08-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 173658,
       "name": "Sunroof - Loud Luxury Remix",
       "url": "https://open.spotify.com/track/1E8i4Xq9tH2LVWC0b1Sptj"

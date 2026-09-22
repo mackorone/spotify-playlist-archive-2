@@ -4,7 +4,7 @@
 
 > Dale play y que la música te acompañe  📸 Benjamin Amadeo
 
-501 songs - 1 day 3 hr 13 min
+502 songs - 1 day 3 hr 16 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -111,7 +111,7 @@
 | [Corazón Salvaje](https://open.spotify.com/track/3zwTjNO3wlSsLuXqIha8Sf) | [Marcela Morelo](https://open.spotify.com/artist/63xFjf6Ww22O5gHrBP79G9) | [Manantial](https://open.spotify.com/album/6Dq1c6Alg7V2QmzjadVcBE) | 4:27 | 2026-06-12 | 2026-07-25 |
 | [CORAZÓN VACÍO](https://open.spotify.com/track/3oNnzH6hmqIGIhJ1NcHlrh) | [Maria Becerra](https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG) | [CORAZÓN VACÍO](https://open.spotify.com/album/3YBQyY0Bj7bpxj0VHAse0P) | 2:40 | 2023-06-27 | 2026-08-01 |
 | [Correcaminos](https://open.spotify.com/track/3aCLD0IqnpnG09ZhfyUqIC) | [Alejandro Sanz](https://open.spotify.com/artist/5sUrlPAHlS9NEirDB8SEbF), [Danny Ocean](https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj) | [Correcaminos](https://open.spotify.com/album/5URH83B2vJrrZ47uTOb3zQ) | 3:02 | 2023-08-11 |  |
-| [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 | 2026-07-31 |  |
+| [Corriendo Con Tijeras](https://open.spotify.com/track/0nhG5W3lqZw7nzaTnYvV0S) | [Lasso](https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd) | [Corriendo Con Tijeras](https://open.spotify.com/album/7vgUy35KgshZVXCB7MebBQ) | 3:15 | 2026-07-31 | 2026-09-22 |
 | [CUANDO ES CON VOS](https://open.spotify.com/track/5PvzYLe95r3PG8MecvWZEq) | [Ele Mariani](https://open.spotify.com/artist/4E4wkESgUKE5VTB9zo308S), [Rosario Ortega](https://open.spotify.com/artist/6AvVNBiwAW7CXZPACAo2OB) | [CUANDO ES CON VOS](https://open.spotify.com/album/1yqDhZa1XEY1pcYCnoSW84) | 3:08 | 2026-02-27 | 2026-03-28 |
 | [Cuando Estamos Tú Y Yo](https://open.spotify.com/track/6WaUpoZCmtfX9bnhhdFl1m) | [Juanes](https://open.spotify.com/artist/0UWZUmn7sybxMCqrw9tGa7) | [Cuando Estamos Tú Y Yo](https://open.spotify.com/album/1DH8vPGBYBcmzTg0TGKotF) | 2:39 | 2025-08-01 | 2025-10-22 |
 | [Cuando Lo Veo](https://open.spotify.com/track/2vC2WsILe2MXS9pJwqmyjs) | [Pimpinela](https://open.spotify.com/artist/7E7CVSqFdLyh0K4AE9uTMo) | [Cuando Lo Veo](https://open.spotify.com/album/2AwXJgef7CAEAylXLqcWeF) | 4:01 | 2024-09-06 | 2026-07-18 |
@@ -245,6 +245,7 @@
 | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/track/463CkQjx2Zk1yXoBuierM9) | [Dua Lipa](https://open.spotify.com/artist/6M2wZ9GZgrQXHCFfjv46we), [DaBaby](https://open.spotify.com/artist/4r63FhuTkUYltbVAg5TQnk) | [Levitating \(feat\. DaBaby\)](https://open.spotify.com/album/04m06KhJUuwe1Q487puIud) | 3:23 | 2023-03-17 | 2023-05-28 |
 | [Lift Me Up \- From Black Panther: Wakanda Forever \- Music From and Inspired By](https://open.spotify.com/track/35ovElsgyAtQwYPYnZJECg) | [Rihanna](https://open.spotify.com/artist/5pKCCKE2ajJHZ9KAiaK11H) | [Lift Me Up \(From Black Panther: Wakanda Forever \- Music From and Inspired By\)](https://open.spotify.com/album/3Zzv75PyROH6AMeXN1Yr1h) | 3:16 | 2023-03-17 | 2023-07-29 |
 | [Llamada Perdida](https://open.spotify.com/track/1f6PB9enEpg3o07aHu0Cl4) | [Morat](https://open.spotify.com/artist/5C4PDR4LnhZTbVnKWXuDKD) | [Llamada Perdida](https://open.spotify.com/album/51D2HpSpX5cD0sSXcl6Nm1) | 2:46 | 2023-08-11 |  |
+| [Llega la Noche](https://open.spotify.com/track/3kkZwbfKs7NzpXL4tKKoA3) | [Bandana](https://open.spotify.com/artist/5SqghR4PmacEuzlpIOQI2k) | [Bandana La Vuelta](https://open.spotify.com/album/27reF3PyP0CJtHPIuqw1UE) | 3:14 | 2026-09-11 |  |
 | [Lo Azul de Mi](https://open.spotify.com/track/6Ojtbe9JYEmQB8e0bnnbFZ) | [Koino Yokan](https://open.spotify.com/artist/31kgZWvoPhxDcTKgVbgi3J) | [Lo Azul de Mi](https://open.spotify.com/album/6MR5564jgXNBKIHjpS8odI) | 2:34 | 2023-09-08 | 2023-09-23 |
 | [Lo Que Construimos](https://open.spotify.com/track/5wWxUdgn2OugIOvLJOdreH) | [Natalia Lafourcade](https://open.spotify.com/artist/1hcdI2N1023RvSwLzTtdsp) | [Hasta la Raíz \(Edición Especial\)](https://open.spotify.com/album/0Kww7Dpo0uSxtOiiFTvyCv) | 4:39 | 2023-08-11 |  |
 | [Lo Que en Ti Veo](https://open.spotify.com/track/2cLOSF54zDP52z6ma8mivK) | [Kany García](https://open.spotify.com/artist/69UypehHabb68utzfjAVlV), [Nahuel Pennisi](https://open.spotify.com/artist/4IjHltwoSKbUeZLPeULyDe) | [Mesa Para Dos](https://open.spotify.com/album/1ZGHMTg7kh6TRqDRkJyEHO) | 3:26 | 2023-08-11 | 2026-08-01 |

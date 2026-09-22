@@ -1,6 +1,6 @@
 {
   "description": "In this house we celebrate Australian music. Cover: C.O.F.F.I.N",
-  "num_followers": 139215,
+  "num_followers": 139212,
   "original_name": "Turn Up Aus",
   "owner": {
     "name": "Spotify",
@@ -315,6 +315,26 @@
     {
       "added_at": "2026-09-17 23:01:39",
       "album": {
+        "name": "GET EVEN",
+        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        },
+        {
+          "name": "GIV\u0112ON",
+          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
+        }
+      ],
+      "duration_ms": 168986,
+      "name": "GET EVEN (feat. GIVEON)",
+      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
+    },
+    {
+      "added_at": "2026-09-17 23:01:39",
+      "album": {
         "name": "Fickle",
         "url": "https://open.spotify.com/album/5wHazOcgweQjf3IoshDFzX"
       },
@@ -343,26 +363,6 @@
       "duration_ms": 199040,
       "name": "queen of the season",
       "url": "https://open.spotify.com/track/35Tzu0ZfS2YoDNsHfFIR7a"
-    },
-    {
-      "added_at": "2026-09-17 23:01:39",
-      "album": {
-        "name": "GET EVEN",
-        "url": "https://open.spotify.com/album/1npdSboUQi3hE4rrlPh17O"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        },
-        {
-          "name": "GIV\u0112ON",
-          "url": "https://open.spotify.com/artist/4fxd5Ee7UefO4CUXgwJ7IP"
-        }
-      ],
-      "duration_ms": 168986,
-      "name": "GET EVEN (feat. GIVEON)",
-      "url": "https://open.spotify.com/track/3LdHQCpIe5HQKsimwG4izX"
     },
     {
       "added_at": "2026-09-17 23:01:39",
@@ -403,6 +403,22 @@
     {
       "added_at": "2026-09-17 23:01:39",
       "album": {
+        "name": "A COLD PLAY",
+        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
+      },
+      "artists": [
+        {
+          "name": "The Kid LAROI",
+          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "A COLD PLAY",
+      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
+    },
+    {
+      "added_at": "2026-09-17 23:01:39",
+      "album": {
         "name": "Hummer",
         "url": "https://open.spotify.com/album/0EdUCo0oxkBCpNK5EM1hfs"
       },
@@ -431,22 +447,6 @@
       "duration_ms": 171630,
       "name": "Baby Blue",
       "url": "https://open.spotify.com/track/0zTcYZot5zfBwOQkdv02ls"
-    },
-    {
-      "added_at": "2026-09-17 23:01:39",
-      "album": {
-        "name": "A COLD PLAY",
-        "url": "https://open.spotify.com/album/3JMcOksjXIs6UV4olURFSS"
-      },
-      "artists": [
-        {
-          "name": "The Kid LAROI",
-          "url": "https://open.spotify.com/artist/2tIP7SsRs7vjIcLrU85W8J"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "A COLD PLAY",
-      "url": "https://open.spotify.com/track/4H5DcBcHSt6ReloheY37Yi"
     },
     {
       "added_at": "2026-09-17 23:01:39",
@@ -579,22 +579,6 @@
     {
       "added_at": "2026-09-17 23:01:39",
       "album": {
-        "name": "Swallowed By The World",
-        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
-      },
-      "artists": [
-        {
-          "name": "Cenobia",
-          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
-        }
-      ],
-      "duration_ms": 375642,
-      "name": "Swallowed By The World",
-      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
-    },
-    {
-      "added_at": "2026-09-17 23:01:39",
-      "album": {
         "name": "PQC",
         "url": "https://open.spotify.com/album/35hsDC9B2utVC66cjrJ1GY"
       },
@@ -607,6 +591,22 @@
       "duration_ms": 212195,
       "name": "PQC",
       "url": "https://open.spotify.com/track/0bP1I4aL8vehpEkXQ3dmgO"
+    },
+    {
+      "added_at": "2026-09-17 23:01:39",
+      "album": {
+        "name": "Swallowed By The World",
+        "url": "https://open.spotify.com/album/5vXwPWEwrvT03XDyM7VX8U"
+      },
+      "artists": [
+        {
+          "name": "Cenobia",
+          "url": "https://open.spotify.com/artist/6RncuM8SQrNoFWTzKeloDG"
+        }
+      ],
+      "duration_ms": 375642,
+      "name": "Swallowed By The World",
+      "url": "https://open.spotify.com/track/3B62Vcfx2MeaI7hWrtdPs9"
     },
     {
       "added_at": "2026-09-17 23:01:39",
@@ -659,22 +659,6 @@
     {
       "added_at": "2026-09-17 23:01:39",
       "album": {
-        "name": "End Of Summer",
-        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
-      },
-      "artists": [
-        {
-          "name": "Tame Impala",
-          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
-        }
-      ],
-      "duration_ms": 432566,
-      "name": "End Of Summer",
-      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
-    },
-    {
-      "added_at": "2026-09-17 23:01:39",
-      "album": {
         "name": "Dreamin (feat. Daya)",
         "url": "https://open.spotify.com/album/5qzM79iDx3eeLKgGi2pdgN"
       },
@@ -691,6 +675,22 @@
       "duration_ms": 171526,
       "name": "Dreamin (feat. Daya)",
       "url": "https://open.spotify.com/track/6e2uvfP3pRdxsQLFSnbJPO"
+    },
+    {
+      "added_at": "2026-09-17 23:01:39",
+      "album": {
+        "name": "End Of Summer",
+        "url": "https://open.spotify.com/album/3kgOKo0TlU22INB7U0Rqdj"
+      },
+      "artists": [
+        {
+          "name": "Tame Impala",
+          "url": "https://open.spotify.com/artist/5INjqkS1o8h1imAzPqGZBb"
+        }
+      ],
+      "duration_ms": 432566,
+      "name": "End Of Summer",
+      "url": "https://open.spotify.com/track/1Iw5iLfAwDvS6frI82gMoV"
     },
     {
       "added_at": "2026-09-17 23:01:39",
@@ -1255,22 +1255,6 @@
     {
       "added_at": "2026-09-17 23:01:39",
       "album": {
-        "name": "The Cherry Farm",
-        "url": "https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq"
-      },
-      "artists": [
-        {
-          "name": "Angus & Julia Stone",
-          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
-        }
-      ],
-      "duration_ms": 178955,
-      "name": "The Cherry Farm",
-      "url": "https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY"
-    },
-    {
-      "added_at": "2026-09-17 23:01:39",
-      "album": {
         "name": "GHOST WORLD",
         "url": "https://open.spotify.com/album/5TPfEvaVw0vhEniifuxLeK"
       },
@@ -1287,6 +1271,22 @@
       "duration_ms": 205693,
       "name": "Heaven",
       "url": "https://open.spotify.com/track/7Ei2LsA34MJPITPv72dvZw"
+    },
+    {
+      "added_at": "2026-09-17 23:01:39",
+      "album": {
+        "name": "The Cherry Farm",
+        "url": "https://open.spotify.com/album/5IsfijJGDAIof1NXts7gAq"
+      },
+      "artists": [
+        {
+          "name": "Angus & Julia Stone",
+          "url": "https://open.spotify.com/artist/4tvKz56Tr39bkhcQUTO0Xr"
+        }
+      ],
+      "duration_ms": 178955,
+      "name": "The Cherry Farm",
+      "url": "https://open.spotify.com/track/5k8tcbz1dQUyCcP2GlVRwY"
     },
     {
       "added_at": "2026-09-17 23:01:39",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-09-17 23:01:39",
       "album": {
-        "name": "Easy",
-        "url": "https://open.spotify.com/album/5sjPQMyBzNpCesF7mBR4Jk"
-      },
-      "artists": [
-        {
-          "name": "Midnight Til Morning",
-          "url": "https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd"
-        }
-      ],
-      "duration_ms": 187984,
-      "name": "Easy",
-      "url": "https://open.spotify.com/track/1hvxnJ2rwvFBCAiZMKCX87"
-    },
-    {
-      "added_at": "2026-09-17 23:01:39",
-      "album": {
         "name": "A PERFECT WORLD",
         "url": "https://open.spotify.com/album/1wdk3yKTc0PajYK7vLS8t4"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 187826,
       "name": "A PERFECT WORLD",
       "url": "https://open.spotify.com/track/248bSDOWnpNQtANZbpMH0Y"
+    },
+    {
+      "added_at": "2026-09-17 23:01:39",
+      "album": {
+        "name": "Easy",
+        "url": "https://open.spotify.com/album/5sjPQMyBzNpCesF7mBR4Jk"
+      },
+      "artists": [
+        {
+          "name": "Midnight Til Morning",
+          "url": "https://open.spotify.com/artist/7hQmntLjIT4MjvY3BiujTd"
+        }
+      ],
+      "duration_ms": 187984,
+      "name": "Easy",
+      "url": "https://open.spotify.com/track/1hvxnJ2rwvFBCAiZMKCX87"
     },
     {
       "added_at": "2026-09-17 23:01:39",
@@ -1475,6 +1475,22 @@
     {
       "added_at": "2026-09-17 23:01:39",
       "album": {
+        "name": "Music On The Radio",
+        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+      },
+      "artists": [
+        {
+          "name": "Empire Of The Sun",
+          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+        }
+      ],
+      "duration_ms": 176196,
+      "name": "Music On The Radio",
+      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+    },
+    {
+      "added_at": "2026-09-17 23:01:39",
+      "album": {
         "name": "Airbourne",
         "url": "https://open.spotify.com/album/5x82OmKG4iveTii2yecitJ"
       },
@@ -1491,18 +1507,18 @@
     {
       "added_at": "2026-09-17 23:01:39",
       "album": {
-        "name": "Music On The Radio",
-        "url": "https://open.spotify.com/album/4ksHUamq0S8eMf2nkd3Ekv"
+        "name": "Swimming In Jeans",
+        "url": "https://open.spotify.com/album/66K2nE9ch9gBmvn7E9Tyxf"
       },
       "artists": [
         {
-          "name": "Empire Of The Sun",
-          "url": "https://open.spotify.com/artist/67hb7towEyKvt5Z8Bx306c"
+          "name": "Jack Gray",
+          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
         }
       ],
-      "duration_ms": 176196,
-      "name": "Music On The Radio",
-      "url": "https://open.spotify.com/track/0FoEQ5MUMwOrnQ4pWyrfrA"
+      "duration_ms": 177201,
+      "name": "Blind Lovin'",
+      "url": "https://open.spotify.com/track/2VNWAAT6IXcZnKjNmOPnF9"
     },
     {
       "added_at": "2026-09-17 23:01:39",
@@ -1559,18 +1575,22 @@
     {
       "added_at": "2026-09-17 23:01:39",
       "album": {
-        "name": "Swimming In Jeans",
-        "url": "https://open.spotify.com/album/66K2nE9ch9gBmvn7E9Tyxf"
+        "name": "Super High",
+        "url": "https://open.spotify.com/album/6RALTNSTufwfCPE9ClWsSO"
       },
       "artists": [
         {
-          "name": "Jack Gray",
-          "url": "https://open.spotify.com/artist/0LvfDU74rGXrEGVWqW9rCw"
+          "name": "Odd Mob",
+          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
+        },
+        {
+          "name": "FAST BOY",
+          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
         }
       ],
-      "duration_ms": 177201,
-      "name": "Blind Lovin'",
-      "url": "https://open.spotify.com/track/2VNWAAT6IXcZnKjNmOPnF9"
+      "duration_ms": 182769,
+      "name": "Super High",
+      "url": "https://open.spotify.com/track/01ttMtGfWUAvSuMsZSvGIH"
     },
     {
       "added_at": "2026-09-17 23:01:39",
@@ -1611,22 +1631,6 @@
     {
       "added_at": "2026-09-17 23:01:39",
       "album": {
-        "name": "closer",
-        "url": "https://open.spotify.com/album/1ElrGX99sSg7iXR5QRujpi"
-      },
-      "artists": [
-        {
-          "name": "Windwaker",
-          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
-        }
-      ],
-      "duration_ms": 184293,
-      "name": "closer",
-      "url": "https://open.spotify.com/track/6Xw3YSJg4qNhscVBqMo9aD"
-    },
-    {
-      "added_at": "2026-09-17 23:01:39",
-      "album": {
         "name": "Giving Up Air",
         "url": "https://open.spotify.com/album/4exXV4JfJXcyHtrGelE0lw"
       },
@@ -1639,6 +1643,22 @@
       "duration_ms": 287411,
       "name": "Giving Up Air",
       "url": "https://open.spotify.com/track/4K49GNARzyKM5WuZVLB6Jy"
+    },
+    {
+      "added_at": "2026-09-17 23:01:39",
+      "album": {
+        "name": "closer",
+        "url": "https://open.spotify.com/album/1ElrGX99sSg7iXR5QRujpi"
+      },
+      "artists": [
+        {
+          "name": "Windwaker",
+          "url": "https://open.spotify.com/artist/46le9d4IkW3C6zTxhkuxIS"
+        }
+      ],
+      "duration_ms": 184293,
+      "name": "closer",
+      "url": "https://open.spotify.com/track/6Xw3YSJg4qNhscVBqMo9aD"
     },
     {
       "added_at": "2026-09-17 23:01:39",
@@ -1679,26 +1699,6 @@
       "duration_ms": 156302,
       "name": "Lose Control",
       "url": "https://open.spotify.com/track/72AXDPqbMBNHPOFaJFnpdh"
-    },
-    {
-      "added_at": "2026-09-17 23:01:39",
-      "album": {
-        "name": "Super High",
-        "url": "https://open.spotify.com/album/6RALTNSTufwfCPE9ClWsSO"
-      },
-      "artists": [
-        {
-          "name": "Odd Mob",
-          "url": "https://open.spotify.com/artist/4qLwtWhlhyAoQ4S9mSrDW9"
-        },
-        {
-          "name": "FAST BOY",
-          "url": "https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb"
-        }
-      ],
-      "duration_ms": 182769,
-      "name": "Super High",
-      "url": "https://open.spotify.com/track/01ttMtGfWUAvSuMsZSvGIH"
     },
     {
       "added_at": "2026-09-17 23:01:39",

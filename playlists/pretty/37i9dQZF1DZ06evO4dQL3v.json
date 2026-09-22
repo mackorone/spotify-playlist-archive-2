@@ -1,12 +1,12 @@
 {
   "description": "This is Banda Toro. The essential tracks, all in one playlist.",
-  "num_followers": 6664,
+  "num_followers": 6665,
   "original_name": "This Is Banda Toro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAAu9bSEFwpPHvevcjSfKdBD",
+  "snapshot_id": "aq8iAAAAAADcPhcUYdf1jRsxAxnchg13",
   "tracks": [
     {
       "added_at": null,
@@ -423,8 +423,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Nuestra Historia, Vol. 1",
-        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
+        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
+        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
       },
       "artists": [
         {
@@ -432,9 +432,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 176213,
-      "name": "Busca Tu Hueco",
-      "url": "https://open.spotify.com/track/7LS20bI2PZMUiuJlj5LZSp"
+      "duration_ms": 178213,
+      "name": "El Cotorro Enamorado - Tecno Banda",
+      "url": "https://open.spotify.com/track/4dOSUasUAhAEKIhEwTQwpZ"
     },
     {
       "added_at": null,
@@ -455,8 +455,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
-        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
+        "name": "Nuestra Historia, Vol. 1",
+        "url": "https://open.spotify.com/album/05iVJ4OpprJwMYu87M9Urj"
       },
       "artists": [
         {
@@ -464,9 +464,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 178213,
-      "name": "El Cotorro Enamorado - Tecno Banda",
-      "url": "https://open.spotify.com/track/4dOSUasUAhAEKIhEwTQwpZ"
+      "duration_ms": 176213,
+      "name": "Busca Tu Hueco",
+      "url": "https://open.spotify.com/track/7LS20bI2PZMUiuJlj5LZSp"
     },
     {
       "added_at": null,
@@ -487,8 +487,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Mis Primeras Canciones",
-        "url": "https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs"
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
       "artists": [
         {
@@ -496,9 +496,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 121400,
-      "name": "Libro Abierto - Con Mariachi",
-      "url": "https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP"
+      "duration_ms": 215093,
+      "name": "La Muerta",
+      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
     },
     {
       "added_at": null,
@@ -519,8 +519,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
+        "name": "Mis Primeras Canciones",
+        "url": "https://open.spotify.com/album/1O25aIOV3EXt2faP4ilwvs"
       },
       "artists": [
         {
@@ -528,25 +528,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 215093,
-      "name": "La Muerta",
-      "url": "https://open.spotify.com/track/1kH7t2zepTvq9zvOleNzlB"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "El Caminante Recordando los Exitos, Vol. 1",
-        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 151720,
-      "name": "Ya Llego la Banda Toro",
-      "url": "https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f"
+      "duration_ms": 121400,
+      "name": "Libro Abierto - Con Mariachi",
+      "url": "https://open.spotify.com/track/0ITWZNW8i7RtOj5Wg7LMwP"
     },
     {
       "added_at": null,
@@ -567,6 +551,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
+        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 200400,
+      "name": "Ando Que Me Lleva",
+      "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Rios de Babilonia",
         "url": "https://open.spotify.com/album/26MFmbTSTvku8A3QkHxhIa"
       },
@@ -583,8 +583,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ando Que Me Lleva \"Recordando los Exitos,\" Vol. 4",
-        "url": "https://open.spotify.com/album/5cWHhLz7o2mjajjJegxUWj"
+        "name": "El Caminante Recordando los Exitos, Vol. 1",
+        "url": "https://open.spotify.com/album/29NdNvEG0HVFUIjrPieSFf"
       },
       "artists": [
         {
@@ -592,9 +592,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 200400,
-      "name": "Ando Que Me Lleva",
-      "url": "https://open.spotify.com/track/5mZguGqaMDXVUN27KuctSS"
+      "duration_ms": 151720,
+      "name": "Ya Llego la Banda Toro",
+      "url": "https://open.spotify.com/track/12xoofQV0GsQGBRo8dgr9f"
     },
     {
       "added_at": null,
@@ -687,22 +687,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
-        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
-      },
-      "artists": [
-        {
-          "name": "Banda Toro",
-          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
-        }
-      ],
-      "duration_ms": 168053,
-      "name": "Las Nieves de Enero",
-      "url": "https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Cantando a Mexico",
         "url": "https://open.spotify.com/album/6ZhdQW2akD8c5I7XkOz0tw"
       },
@@ -719,8 +703,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
-        "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
+        "name": "El Hijo Desobediente \"Recordando los Exitos\", Vol. 2",
+        "url": "https://open.spotify.com/album/7I8olJc50BacLXAYIjSYIk"
       },
       "artists": [
         {
@@ -728,9 +712,25 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 195946,
-      "name": "Me Rio de Miedo",
-      "url": "https://open.spotify.com/track/2JdFjw7IlF2WmKuPmwuRfw"
+      "duration_ms": 168053,
+      "name": "Las Nieves de Enero",
+      "url": "https://open.spotify.com/track/0X4C0sntZ794G8AMPZUOOf"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+      },
+      "artists": [
+        {
+          "name": "Banda Toro",
+          "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "La Huella de Mis Besos - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/6xbOk6t6QrbXi5jssMRuYf"
     },
     {
       "added_at": null,
@@ -755,8 +755,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Estilo Tierra Caliente",
-        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+        "name": "Miraron Llorar un Hombre \"Recordando los Exitos\" Vol. 3",
+        "url": "https://open.spotify.com/album/1w6hBlQcrHFDEyamEl2Ypf"
       },
       "artists": [
         {
@@ -764,9 +764,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 132000,
-      "name": "La Huella de Mis Besos - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/6xbOk6t6QrbXi5jssMRuYf"
+      "duration_ms": 195946,
+      "name": "Me Rio de Miedo",
+      "url": "https://open.spotify.com/track/2JdFjw7IlF2WmKuPmwuRfw"
     },
     {
       "added_at": null,
@@ -787,8 +787,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Corridos y Canciones",
-        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
+        "name": "Al Estilo Tierra Caliente",
+        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
       },
       "artists": [
         {
@@ -796,9 +796,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 206880,
-      "name": "El Cantador - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
+      "duration_ms": 186346,
+      "name": "Con el Sabor Amargo - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/4HpWofvK0r3meE1KwDSjaS"
     },
     {
       "added_at": null,
@@ -823,8 +823,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Al Estilo Tierra Caliente",
-        "url": "https://open.spotify.com/album/1ZknT3Q5h1057gLzFagIkb"
+        "name": "Corridos y Canciones",
+        "url": "https://open.spotify.com/album/0PYwmrtNkESu3DPBZ6fVcZ"
       },
       "artists": [
         {
@@ -832,9 +832,9 @@
           "url": "https://open.spotify.com/artist/78Cl4OGrWUNLrm4QZKEKkg"
         }
       ],
-      "duration_ms": 186346,
-      "name": "Con el Sabor Amargo - Estilo Tierra Caliente",
-      "url": "https://open.spotify.com/track/4HpWofvK0r3meE1KwDSjaS"
+      "duration_ms": 206880,
+      "name": "El Cantador - Estilo Tierra Caliente",
+      "url": "https://open.spotify.com/track/7Fjs5cOOmfvARZF2BlCXlX"
     }
   ],
   "unique_name": "This Is Banda Toro",

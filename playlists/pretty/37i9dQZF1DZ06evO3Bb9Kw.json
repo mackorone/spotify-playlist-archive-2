@@ -1,12 +1,12 @@
 {
   "description": "This is Miranda Lambert. The essential tracks, all in one playlist.",
-  "num_followers": 173974,
+  "num_followers": 173969,
   "original_name": "This Is Miranda Lambert",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAA0K4OkMLE/nY8WjYDoj5u3",
+  "snapshot_id": "aq8iAAAAAAAnFIwsjTfzyxNdBGnG7nzz",
   "tracks": [
     {
       "added_at": null,
@@ -231,22 +231,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Kerosene",
-        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 185800,
-      "name": "Kerosene",
-      "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "The Weight of These Wings",
         "url": "https://open.spotify.com/album/563h536tB6n8Dn62jr4RZG"
       },
@@ -259,6 +243,22 @@
       "duration_ms": 240289,
       "name": "Vice",
       "url": "https://open.spotify.com/track/4Qtw0HNKSbIRT5sWUnbRXc"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Kerosene",
+        "url": "https://open.spotify.com/album/1NovG9mTUookEBrlHP6QC1"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 185800,
+      "name": "Kerosene",
+      "url": "https://open.spotify.com/track/2yhhcHTfvLC0HzSajGYL0h"
     },
     {
       "added_at": null,
@@ -391,22 +391,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Till The Going's Gone",
-        "url": "https://open.spotify.com/album/1qwO21OoseQGLolRb3FR6U"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 180146,
-      "name": "Till The Going's Gone",
-      "url": "https://open.spotify.com/track/0WkiA8rK5QLNTw0dT8KSDG"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Coal Miner's Daughter: A Tribute To Loretta Lynn",
         "url": "https://open.spotify.com/album/4Vt6f5tZiQiE4BnGj1nSr5"
       },
@@ -427,6 +411,22 @@
       "duration_ms": 191333,
       "name": "Coal Miner's Daughter (Featuring Loretta Lynn, Sheryl Crow and Miranda Lambert)",
       "url": "https://open.spotify.com/track/7eR2Kgh4bCmelLG1rakYFO"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Till The Going's Gone",
+        "url": "https://open.spotify.com/album/1qwO21OoseQGLolRb3FR6U"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 180146,
+      "name": "Till The Going's Gone",
+      "url": "https://open.spotify.com/track/0WkiA8rK5QLNTw0dT8KSDG"
     },
     {
       "added_at": null,
@@ -935,22 +935,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Revolution",
-        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
-      },
-      "artists": [
-        {
-          "name": "Miranda Lambert",
-          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
-        }
-      ],
-      "duration_ms": 230000,
-      "name": "Makin' Plans",
-      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Crazy Ex-Girlfriend",
         "url": "https://open.spotify.com/album/4y5aIMkIOdo6z1c8qsI6xb"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 208880,
       "name": "More Like Her",
       "url": "https://open.spotify.com/track/6vMiU1tMnWXkWlmMWjX6ZN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Revolution",
+        "url": "https://open.spotify.com/album/3uczBfJFFSNjSiF8ScC1pA"
+      },
+      "artists": [
+        {
+          "name": "Miranda Lambert",
+          "url": "https://open.spotify.com/artist/66lH4jAE7pqPlOlzUKbwA0"
+        }
+      ],
+      "duration_ms": 230000,
+      "name": "Makin' Plans",
+      "url": "https://open.spotify.com/track/4SgbELGcdmMdVtSbpkSG6x"
     },
     {
       "added_at": null,

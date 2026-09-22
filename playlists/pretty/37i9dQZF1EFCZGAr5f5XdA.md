@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/7v5dzv9oB0T3lZKkN2rduc">Jon Bellion</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 7,061 likes - 221 songs - 12 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 7,067 likes - 221 songs - 12 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -130,8 +130,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 120 | [Guy I Used To Be](https://open.spotify.com/track/6xGD0QAg4XmMsZkynm1oSV) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Family Business](https://open.spotify.com/album/6r4O8UTnfCu8GTyzowcpF9) | 3:47 |
 | 121 | [Thick Of It All](https://open.spotify.com/track/7ANesmCLYR6eSKsgmQvEa9) | [Alan Walker](https://open.spotify.com/artist/7vk5e3vY1uw9plTHJAMwjN), [Joe Jonas](https://open.spotify.com/artist/7gbmX8SsfjEjxDMzBi1ZOL), [Julia Michaels](https://open.spotify.com/artist/1eGrF3LMMCZIAlD7P41amX) | [Walkerworld 2.0](https://open.spotify.com/album/1R9fympoRsZJGpgNvMcJr2) | 3:19 |
 | 122 | [Let's Begin \(feat\. Roc Marciano, RZA, B.Keyz & Travis Mendes\)](https://open.spotify.com/track/2X1Tygc4uVunRgzNkFb1mG) | [Jon Bellion](https://open.spotify.com/artist/50JJSqHUf2RQ9xsHs0KMHg), [Roc Marciano](https://open.spotify.com/artist/5X0V59ipZnbvnubW0rQVri), [RZA](https://open.spotify.com/artist/4iCwCMnqsNZ6atvRiADgtn), [B.Keyz](https://open.spotify.com/artist/54tH0fUB8bJvHnpn0vSo8i), [Travis Mendes](https://open.spotify.com/artist/3PXLYt1l21hYC4eLDGVgT1) | [Glory Sound Prep](https://open.spotify.com/album/59YYObx9wFEFG5zVdlfwvf) | 5:40 |
-| 123 | [Less I Know](https://open.spotify.com/track/7IqFFpzXG4fE8ZSxwxXYGY) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [NOTED… \(Japan Edition\)](https://open.spotify.com/album/45gcIDScZD0UKwsib7Vfo8) | 2:46 |
-| 124 | [Dirty Water](https://open.spotify.com/track/62kqibRMj9qSFroX6HzTQT) | [The Debut: Dream Academy](https://open.spotify.com/artist/1ym6dTP4ClYi7SG6Xj9goe) | [The Debut: Dream Academy \- Live Finale](https://open.spotify.com/album/7C9bp0HbTNPzz0kgAIWmmo) | 2:41 |
+| 123 | [Dirty Water](https://open.spotify.com/track/62kqibRMj9qSFroX6HzTQT) | [The Debut: Dream Academy](https://open.spotify.com/artist/1ym6dTP4ClYi7SG6Xj9goe) | [The Debut: Dream Academy \- Live Finale](https://open.spotify.com/album/7C9bp0HbTNPzz0kgAIWmmo) | 2:41 |
+| 124 | [Less I Know](https://open.spotify.com/track/7IqFFpzXG4fE8ZSxwxXYGY) | [NOTD](https://open.spotify.com/artist/5jAMCwdNHWr7JThxtMuEyy), [Quinn XCII](https://open.spotify.com/artist/3ApUX1o6oSz321MMECyIYd) | [NOTED… \(Japan Edition\)](https://open.spotify.com/album/45gcIDScZD0UKwsib7Vfo8) | 2:46 |
 | 125 | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/track/1OYchHxLhckxWStYd5qTyq) | [Sueco](https://open.spotify.com/artist/4iDroUFo89Y7YBsdDTBmTD), [Bea Miller](https://open.spotify.com/artist/1o2NpYGqHiCq7FoiYdyd1x) | [Yours \(feat\. Bea Miller\)](https://open.spotify.com/album/4WyrqQW0Bo6kVjJxVOAkoQ) | 2:57 |
 | 126 | [It's Not All About You](https://open.spotify.com/track/3W78AGfNurMB54cAbYACqU) | [Lawrence](https://open.spotify.com/artist/5rwUYLyUq8gBsVaOUcUxpE) | [Hotel TV](https://open.spotify.com/album/4mCMVoyYEoCban5LkVG0KZ) | 2:31 |
 | 127 | [Friends](https://open.spotify.com/track/7aeC8XRoU9s8b0OPUfUbtJ) | [Andy Mineo](https://open.spotify.com/artist/1TMrnxBwZfmfRxsGzkNIHw) | [II: The Sword](https://open.spotify.com/album/0R1Eo8UVrKyn6Vo0rxFuNP) | 2:53 |
@@ -230,4 +230,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFCZGAr5f5XdA.md) - [plain]
 | 220 | [High Horse](https://open.spotify.com/track/7GMgbF87l9dj8XWLMlehdz) | [The Laissez Fairs](https://open.spotify.com/artist/1J4rwIayXHw7S6oEYBiiuP) | [Empire of Mars](https://open.spotify.com/album/6ukHxOWQZSt7Z2osTmKAGt) | 3:33 |
 | 221 | [Break These Walls](https://open.spotify.com/track/36Z2l0DlYqChUzYMjNqt9s) | [Imua Garza](https://open.spotify.com/artist/3ExFFbNEL1NWmOh9keikr7), [Kamu Sing](https://open.spotify.com/artist/2v97aslimxgi78AWRyqQom) | [Harmony City](https://open.spotify.com/album/1ewpID3ekASORuzC28Lh3K) | 4:00 |
 
-Snapshot ID: `Acc1/AAAAACt0IxiwB0eejRg1O+qSjN1`
+Snapshot ID: `Acc7nAAAAACOMnwro1ioxVE6fuWhZArI`

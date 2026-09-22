@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Malaysia.
 
-1,558 songs - 3 day 18 hr 11 min
+1,559 songs - 3 day 18 hr 14 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -766,7 +766,7 @@
 | [Less than a Lover](https://open.spotify.com/track/19UnXjpLshSLobPspdyxlD) | [JENNIE](https://open.spotify.com/artist/250b0Wlc5Vk0CoUsaCY84M) | [Less than a Lover](https://open.spotify.com/album/3YelZbxAGXdkKUP6pMXsrn) | 2:25 | 2026-07-25 | 2026-09-02 |
 | [Lesung Pipi](https://open.spotify.com/track/04mOx59pM3upWDkpp9PYkb) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/1LgqHywOebGDDDhfSrtbpE) | 3:45 | 2026-02-18 | 2026-04-15 |
 | [Lesung Pipi](https://open.spotify.com/track/2OxvanM5m1Na9OVlXyXmUp) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [Lesung Pipi](https://open.spotify.com/album/5HKEezqSNuJSD5Nbrs9bhG) | 3:45 | 2025-04-18 | 2026-02-01 |
-| [Lesung Pipi](https://open.spotify.com/track/4GSwtvjwdbUmb4blyUyCnD) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [iqro'](https://open.spotify.com/album/4FiZgqcHTC0jmfnnG2pDp0) | 3:45 | 2026-05-23 |  |
+| [Lesung Pipi](https://open.spotify.com/track/4GSwtvjwdbUmb4blyUyCnD) | [Raim Laode](https://open.spotify.com/artist/5LcNPa8f8bRmZqELgoRFkN) | [iqro'](https://open.spotify.com/album/4FiZgqcHTC0jmfnnG2pDp0) | 3:45 | 2026-05-23 | 2026-09-22 |
 | [Let It Snow! Let It Snow! Let It Snow!](https://open.spotify.com/track/2uFaJJtFpPDc5Pa95XzTvg) | [Dean Martin](https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9) | [A Winter Romance](https://open.spotify.com/album/5I48ENiZiaZZSOpec6PdS5) | 1:57 | 2021-12-25 | 2025-12-28 |
 | [Let Me In](https://open.spotify.com/track/5e6hUjvQG2inD4Svco0PvP) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [Let Me In](https://open.spotify.com/album/6QcaLmC3oxXlQ3L92VMVHl) | 3:17 | 2023-06-14 | 2023-06-17 |
 | [Let Me Love You](https://open.spotify.com/track/0lYBSQXN6rCTvUZvg9S0lU) | [DJ Snake](https://open.spotify.com/artist/540vIaP2JwjQb9dm3aArA4), [Justin Bieber](https://open.spotify.com/artist/1uNFoZAHBGtllmzznpCI3s) | [Encore](https://open.spotify.com/album/02sEJTj1sye1JaqxqpcSCp) | 3:25 | 2026-01-20 | 2026-04-30 |
@@ -930,6 +930,7 @@
 | [Ngapain Repot](https://open.spotify.com/track/2e70v3Urrt8X2Ogz9ON1nM) | [Toton Caribo](https://open.spotify.com/artist/0v1axjG0KwIz3aciZffFMu), [Wizz Baker](https://open.spotify.com/artist/4PUHVTv6waMpd1JUP7G6n2), [Fresly Nikijuluw](https://open.spotify.com/artist/27CTGmSgvs2cUMSErJ1Thc) | [Ngapain Repot](https://open.spotify.com/album/24r01TVnDO1TcnfejOEMSD) | 4:14 | 2025-11-14 | 2026-01-23 |
 | [Ngapain Repot](https://open.spotify.com/track/7EJn4U6IySwLSfLZX07muY) | [Toton Caribo](https://open.spotify.com/artist/0v1axjG0KwIz3aciZffFMu), [Wizz Baker](https://open.spotify.com/artist/4PUHVTv6waMpd1JUP7G6n2), [Fresly Nikijuluw](https://open.spotify.com/artist/27CTGmSgvs2cUMSErJ1Thc) | [Ngapain Repot](https://open.spotify.com/album/0hEt3PH6b53bkKUcjG09Ee) | 4:14 | 2025-09-29 | 2025-11-15 |
 | [Ngga Dulu](https://open.spotify.com/track/3c3JC5TjFrEqEKheU7227c) | [Akbar Chalay](https://open.spotify.com/artist/0dIJRlr9m4hUwdBYmKUTjW), [Zynakal](https://open.spotify.com/artist/3Cs5QQYz6pMhbEKaBNCtfi), [ciloqciliq](https://open.spotify.com/artist/3zcke1TsWc6mZhzB1BCC9T) | [Ngga Dulu](https://open.spotify.com/album/7D0OPQURSzPpxDDolKazGX) | 3:09 | 2025-11-08 | 2026-03-13 |
+| [Nicole Kidman](https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J) | [ADÉLA](https://open.spotify.com/artist/2qanRMyA5bNuTvz1dK45OP) | [PRIMA](https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs) | 3:01 | 2026-09-21 |  |
 | [Night Changes](https://open.spotify.com/track/5O2P9iiztwhomNh8xkR9lJ) | [One Direction](https://open.spotify.com/artist/4AK6F7OLvEQ5QYCBNiQWHq) | [FOUR \(Deluxe\)](https://open.spotify.com/album/4gCNyS7pidfK3rKWhB3JOY) | 3:46 | 2022-06-21 |  |
 | [No matter](https://open.spotify.com/track/5fumVsa0IxAEJvHHu2F2k5) | [EXO](https://open.spotify.com/artist/3cjEqqelV9zb4BYE3qDQ4O) | [DON'T FIGHT THE FEELING \- Special Album](https://open.spotify.com/album/7Jw48lPmYuYftfQv5LmAzI) | 3:42 | 2021-06-09 | 2021-06-11 |
 | [No More Dream](https://open.spotify.com/track/6GoFIkTKX9CIGgM9APx5UB) | [BTS](https://open.spotify.com/artist/3Nrfpe0tUJi4K4DXYWgMUX) | [The Best Of BTS \(Korea Edition\)](https://open.spotify.com/album/6IzIrnssfyQVtYZ9RDJfkh) | 3:43 | 2022-06-11 | 2022-06-13 |

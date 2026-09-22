@@ -1,6 +1,6 @@
 {
   "description": "The biggest songs of the 1960s. Cover: Aretha Franklin",
-  "num_followers": 3194079,
+  "num_followers": 3194009,
   "original_name": "All Out 60s",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "For Once In My Life",
-        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
-      },
-      "artists": [
-        {
-          "name": "Stevie Wonder",
-          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
-        }
-      ],
-      "duration_ms": 169800,
-      "name": "For Once In My Life",
-      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Strangers In The Night (Expanded Edition)",
         "url": "https://open.spotify.com/album/1kyb5tomEXcA106V57puFW"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 157866,
       "name": "Strangers In The Night",
       "url": "https://open.spotify.com/track/74VR3AkGPhbYXnxcOYa16x"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "For Once In My Life",
+        "url": "https://open.spotify.com/album/3pPBbp1Nl9n1AM9xFpdKtZ"
+      },
+      "artists": [
+        {
+          "name": "Stevie Wonder",
+          "url": "https://open.spotify.com/artist/7guDJrEfX3qb6FEbdPA5qi"
+        }
+      ],
+      "duration_ms": 169800,
+      "name": "For Once In My Life",
+      "url": "https://open.spotify.com/track/4kP69y3GKHi9tXckfgp4bK"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -671,22 +671,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Help! (Remastered)",
-        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
-      },
-      "artists": [
-        {
-          "name": "The Beatles",
-          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
-        }
-      ],
-      "duration_ms": 139560,
-      "name": "Help! - Remastered 2009",
-      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "At Last!",
         "url": "https://open.spotify.com/album/7rd4PorIOPjPTy7qdUeeCt"
       },
@@ -699,6 +683,22 @@
       "duration_ms": 196133,
       "name": "A Sunday Kind Of Love",
       "url": "https://open.spotify.com/track/0zGLlXbHlrAyBN1x6sY0rb"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Help! (Remastered)",
+        "url": "https://open.spotify.com/album/0PT5m6hwPRrpBwIHVnvbFX"
+      },
+      "artists": [
+        {
+          "name": "The Beatles",
+          "url": "https://open.spotify.com/artist/3WrFJ7ztbogyGnTHbHJFl2"
+        }
+      ],
+      "duration_ms": 139560,
+      "name": "Help! - Remastered 2009",
+      "url": "https://open.spotify.com/track/7DD7eSuYSC5xk2ArU62esN"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -899,22 +899,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Surrealistic Pillow",
-        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
-      },
-      "artists": [
-        {
-          "name": "Jefferson Airplane",
-          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
-        }
-      ],
-      "duration_ms": 174840,
-      "name": "Somebody to Love",
-      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Do you Believe In Magic",
         "url": "https://open.spotify.com/album/5bx2ZHa0KUDMD5T0r9V030"
       },
@@ -927,6 +911,22 @@
       "duration_ms": 125826,
       "name": "Do You Believe in Magic?",
       "url": "https://open.spotify.com/track/1udKn1oNKYQSQ9OmiIWCMu"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Surrealistic Pillow",
+        "url": "https://open.spotify.com/album/6lPb7Eoon6QPbscWbMsk6a"
+      },
+      "artists": [
+        {
+          "name": "Jefferson Airplane",
+          "url": "https://open.spotify.com/artist/2qFr8w5sWUITRlzZ9kZotF"
+        }
+      ],
+      "duration_ms": 174840,
+      "name": "Somebody to Love",
+      "url": "https://open.spotify.com/track/4uGIJG1jYFonGc4LGp5uQL"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1187,22 +1187,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Shut Down, Vol. 2 (Remastered)",
-        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
-      },
-      "artists": [
-        {
-          "name": "The Beach Boys",
-          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
-        }
-      ],
-      "duration_ms": 169933,
-      "name": "Don't Worry Baby - Remastered 2001",
-      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Delilah",
         "url": "https://open.spotify.com/album/0CMD71ge42KYLaPZVor3bp"
       },
@@ -1215,6 +1199,22 @@
       "duration_ms": 204160,
       "name": "Delilah",
       "url": "https://open.spotify.com/track/2v8B8d17Xxu9uLU5sNiHSL"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Shut Down, Vol. 2 (Remastered)",
+        "url": "https://open.spotify.com/album/1G8AfOjrE0FO9w1gfemIy1"
+      },
+      "artists": [
+        {
+          "name": "The Beach Boys",
+          "url": "https://open.spotify.com/artist/3oDbviiivRWhXwIE8hxkVV"
+        }
+      ],
+      "duration_ms": 169933,
+      "name": "Don't Worry Baby - Remastered 2001",
+      "url": "https://open.spotify.com/track/1GLmaPfulP0BrfijohQpN5"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1411,22 +1411,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Wimoweh!!! - The Best Of The Tokens",
-        "url": "https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0"
-      },
-      "artists": [
-        {
-          "name": "The Tokens",
-          "url": "https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy"
-        }
-      ],
-      "duration_ms": 162093,
-      "name": "The Lion Sleeps Tonight (Wimoweh)",
-      "url": "https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "The Velvet Underground & Nico 45th Anniversary",
         "url": "https://open.spotify.com/album/4xwx0x7k6c5VuThz5qVqmV"
       },
@@ -1447,6 +1431,22 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
+        "name": "Wimoweh!!! - The Best Of The Tokens",
+        "url": "https://open.spotify.com/album/6NBox81OQox7U4I0hZB9t0"
+      },
+      "artists": [
+        {
+          "name": "The Tokens",
+          "url": "https://open.spotify.com/artist/1GAJzApRTMmYZ9EjQ91VOy"
+        }
+      ],
+      "duration_ms": 162093,
+      "name": "The Lion Sleeps Tonight (Wimoweh)",
+      "url": "https://open.spotify.com/track/2F4FNcz68howQWD4zaGJSi"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
         "name": "Sings Lonely and Blue",
         "url": "https://open.spotify.com/album/5txtL5NwxbzS5ENtNEWGpS"
       },
@@ -1459,22 +1459,6 @@
       "duration_ms": 147759,
       "name": "Only the Lonely",
       "url": "https://open.spotify.com/track/0PkBTqRtN25z3oKasWoKlj"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
-        "name": "The Man Who Invented Soul",
-        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
-      },
-      "artists": [
-        {
-          "name": "Sam Cooke",
-          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
-        }
-      ],
-      "duration_ms": 125440,
-      "name": "(What A) Wonderful World",
-      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1495,6 +1479,22 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
+        "name": "The Man Who Invented Soul",
+        "url": "https://open.spotify.com/album/3Seie4YIVLWtPw2hQrouNY"
+      },
+      "artists": [
+        {
+          "name": "Sam Cooke",
+          "url": "https://open.spotify.com/artist/6hnWRPzGGKiapVX1UCdEAC"
+        }
+      ],
+      "duration_ms": 125440,
+      "name": "(What A) Wonderful World",
+      "url": "https://open.spotify.com/track/2g2GkH3vZHk4lWzBjgQ6nY"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
         "name": "Album 1700",
         "url": "https://open.spotify.com/album/3CDM5os6kA4y6mYYGukMIZ"
       },
@@ -1507,6 +1507,22 @@
       "duration_ms": 207240,
       "name": "Leaving on a Jet Plane",
       "url": "https://open.spotify.com/track/6ZSTinOwx5dKFYc6iYyGDn"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "This Time I'm Swingin'",
+        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
+      },
+      "artists": [
+        {
+          "name": "Dean Martin",
+          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
+        }
+      ],
+      "duration_ms": 133933,
+      "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
+      "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1539,22 +1555,6 @@
       "duration_ms": 201387,
       "name": "Lay, Lady, Lay",
       "url": "https://open.spotify.com/track/4uYwlMp841PLJmj1gJJwIq"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
-        "name": "This Time I'm Swingin'",
-        "url": "https://open.spotify.com/album/6BzWacVGd1soCBPYzGRm2Y"
-      },
-      "artists": [
-        {
-          "name": "Dean Martin",
-          "url": "https://open.spotify.com/artist/49e4v89VmlDcFCMyDv9wQ9"
-        }
-      ],
-      "duration_ms": 133933,
-      "name": "You're Nobody 'Til Somebody Loves You - Remastered/1997",
-      "url": "https://open.spotify.com/track/4WUcNkpoNSKoe5MUuyzrfC"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1623,22 +1623,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Disraeli Gears",
-        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
-      },
-      "artists": [
-        {
-          "name": "Cream",
-          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
-        }
-      ],
-      "duration_ms": 250000,
-      "name": "Sunshine Of Your Love",
-      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Between The Buttons",
         "url": "https://open.spotify.com/album/36BIYdP4WtviD9Ngqc4SK5"
       },
@@ -1651,6 +1635,22 @@
       "duration_ms": 196493,
       "name": "Ruby Tuesday",
       "url": "https://open.spotify.com/track/4hupcimlg3UBbW1kAQ6vrT"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Disraeli Gears",
+        "url": "https://open.spotify.com/album/6fRqzJT070Kp9RWlSXmKcY"
+      },
+      "artists": [
+        {
+          "name": "Cream",
+          "url": "https://open.spotify.com/artist/74oJ4qxwOZvX6oSsu1DGnw"
+        }
+      ],
+      "duration_ms": 250000,
+      "name": "Sunshine Of Your Love",
+      "url": "https://open.spotify.com/track/6FRwDxXsvSasw0y2eDArsz"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1831,22 +1831,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "The Wicked Pickett",
-        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
-      },
-      "artists": [
-        {
-          "name": "Wilson Pickett",
-          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
-        }
-      ],
-      "duration_ms": 187760,
-      "name": "Mustang Sally",
-      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Gettin' Ready (Expanded Edition)",
         "url": "https://open.spotify.com/album/3RE8NUULcBzFvVtCmlI4lb"
       },
@@ -1859,6 +1843,22 @@
       "duration_ms": 164160,
       "name": "Get Ready",
       "url": "https://open.spotify.com/track/676Rf0qIOh2gKNEl9TnCOx"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "The Wicked Pickett",
+        "url": "https://open.spotify.com/album/6tdCKyx1g6XV5uzOWmkxSC"
+      },
+      "artists": [
+        {
+          "name": "Wilson Pickett",
+          "url": "https://open.spotify.com/artist/0N5PyKJzS3M1XNlaCL7bbE"
+        }
+      ],
+      "duration_ms": 187760,
+      "name": "Mustang Sally",
+      "url": "https://open.spotify.com/track/5Sz09kaSzvpTC8lgm5W8Mt"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1895,6 +1895,22 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
+        "name": "The Dock of the Bay",
+        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
+      },
+      "artists": [
+        {
+          "name": "Otis Redding",
+          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
+        }
+      ],
+      "duration_ms": 166826,
+      "name": "(Sittin' On) the Dock of the Bay",
+      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
         "name": "Wheatfield Soul",
         "url": "https://open.spotify.com/album/5AXYslqV5fXOt8ayqflk4g"
       },
@@ -1923,22 +1939,6 @@
       "duration_ms": 157160,
       "name": "In the Midnight Hour",
       "url": "https://open.spotify.com/track/4NRQwaks9r58tTDvr4iEyv"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
-        "name": "The Dock of the Bay",
-        "url": "https://open.spotify.com/album/0kSkzG0sfuG4lRuFF5jWVr"
-      },
-      "artists": [
-        {
-          "name": "Otis Redding",
-          "url": "https://open.spotify.com/artist/60df5JBRRPcnSpsIMxxwQm"
-        }
-      ],
-      "duration_ms": 166826,
-      "name": "(Sittin' On) the Dock of the Bay",
-      "url": "https://open.spotify.com/track/4Y4Gd3ty8uut6Qw43c7yJc"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -1975,22 +1975,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
-        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
-      },
-      "artists": [
-        {
-          "name": "Janis Joplin",
-          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
-        }
-      ],
-      "duration_ms": 221790,
-      "name": "Maybe",
-      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Knock On Wood",
         "url": "https://open.spotify.com/album/07ojYfe9B08p7nmOL2kgNF"
       },
@@ -2003,6 +1987,22 @@
       "duration_ms": 189840,
       "name": "Knock on Wood",
       "url": "https://open.spotify.com/track/3YJx77Xx8JSwEoxqrkQO5c"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "I Got Dem Ol' Kozmic Blues Again Mama!",
+        "url": "https://open.spotify.com/album/5rFRfDq52l2l5RtS5kxA9A"
+      },
+      "artists": [
+        {
+          "name": "Janis Joplin",
+          "url": "https://open.spotify.com/artist/4NgfOZCL9Ml67xzM0xzIvC"
+        }
+      ],
+      "duration_ms": 221790,
+      "name": "Maybe",
+      "url": "https://open.spotify.com/track/0xGSeBsG4V8Scc5YqpZQ66"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2103,22 +2103,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Soul",
-        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
-      },
-      "artists": [
-        {
-          "name": "Ray Charles",
-          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
-        }
-      ],
-      "duration_ms": 119880,
-      "name": "Hit the Road Jack",
-      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Under the Boardwalk",
         "url": "https://open.spotify.com/album/7AgI5vniflcbh86Znea7yM"
       },
@@ -2151,22 +2135,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Comin' Home Baby",
-        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
-      },
-      "artists": [
-        {
-          "name": "Mel Torm\u00e9",
-          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
-        }
-      ],
-      "duration_ms": 165360,
-      "name": "Comin' Home Baby",
-      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "Take Good Care Of My Baby",
         "url": "https://open.spotify.com/album/4yB0nAAZLuRNK4xdme2axu"
       },
@@ -2183,6 +2151,22 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
+        "name": "Comin' Home Baby",
+        "url": "https://open.spotify.com/album/5OtQlb0pY3Xkg0teNeVm22"
+      },
+      "artists": [
+        {
+          "name": "Mel Torm\u00e9",
+          "url": "https://open.spotify.com/artist/4X8QFzZ1HqwPfwDfyjtwXC"
+        }
+      ],
+      "duration_ms": 165360,
+      "name": "Comin' Home Baby",
+      "url": "https://open.spotify.com/track/71tjsDvB4EMJqNG8EMmFnb"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
         "name": "The Best Of Dion",
         "url": "https://open.spotify.com/album/56sNE1JDGLJLDRK5F83Q0N"
       },
@@ -2195,6 +2179,22 @@
       "duration_ms": 167160,
       "name": "The Wanderer",
       "url": "https://open.spotify.com/track/1UwriLz98ILbRhrtohTca1"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Soul",
+        "url": "https://open.spotify.com/album/6ARDVnSbcuiC1ROfWYY4SD"
+      },
+      "artists": [
+        {
+          "name": "Ray Charles",
+          "url": "https://open.spotify.com/artist/1eYhYunlNJlDoQhtYBvPsi"
+        }
+      ],
+      "duration_ms": 119880,
+      "name": "Hit the Road Jack",
+      "url": "https://open.spotify.com/track/2HoqbEOXgbDSLZ5XCePEXt"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2247,22 +2247,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "It's Our Thing (Expanded Edition)",
-        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
-      },
-      "artists": [
-        {
-          "name": "The Isley Brothers",
-          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
-        }
-      ],
-      "duration_ms": 169296,
-      "name": "It's Your Thing",
-      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "How Do You Like It? [Mono And Stereo Version]",
         "url": "https://open.spotify.com/album/6KfKWfiXnXVcgYDH0JcIP2"
       },
@@ -2275,6 +2259,22 @@
       "duration_ms": 164173,
       "name": "You'll Never Walk Alone - Stereo; 1997 Remaster",
       "url": "https://open.spotify.com/track/2VfvfFSVD1Ki0PH0Xd0jcv"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "It's Our Thing (Expanded Edition)",
+        "url": "https://open.spotify.com/album/2tMcirhdFUp4hS2eJwsHvF"
+      },
+      "artists": [
+        {
+          "name": "The Isley Brothers",
+          "url": "https://open.spotify.com/artist/53QzNeFpzAaXYnrDBbDrIp"
+        }
+      ],
+      "duration_ms": 169296,
+      "name": "It's Your Thing",
+      "url": "https://open.spotify.com/track/3ZxfehzRtB3oJcBuxWXFZQ"
     },
     {
       "added_at": "2026-02-06 15:24:01",
@@ -2359,22 +2359,6 @@
     {
       "added_at": "2026-02-06 15:24:01",
       "album": {
-        "name": "Daydream",
-        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
-      },
-      "artists": [
-        {
-          "name": "The Lovin' Spoonful",
-          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
-        }
-      ],
-      "duration_ms": 139093,
-      "name": "Daydream",
-      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
-    },
-    {
-      "added_at": "2026-02-06 15:24:01",
-      "album": {
         "name": "The Ultimate Jackie Wilson",
         "url": "https://open.spotify.com/album/1NXxURGbIYbunQfXmChHAl"
       },
@@ -2387,6 +2371,22 @@
       "duration_ms": 181066,
       "name": "(Your Love Keeps Lifting Me) Higher & Higher",
       "url": "https://open.spotify.com/track/4TBBPZks71c60whhq0PgdP"
+    },
+    {
+      "added_at": "2026-02-06 15:24:01",
+      "album": {
+        "name": "Daydream",
+        "url": "https://open.spotify.com/album/678WzpMIeszIatLVnczSnS"
+      },
+      "artists": [
+        {
+          "name": "The Lovin' Spoonful",
+          "url": "https://open.spotify.com/artist/7CCn4PFRRRZF127jtCBAUe"
+        }
+      ],
+      "duration_ms": 139093,
+      "name": "Daydream",
+      "url": "https://open.spotify.com/track/3c06k9x6MHHdPQi3ix68yF"
     },
     {
       "added_at": "2026-02-06 15:24:01",

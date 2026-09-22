@@ -1,6 +1,6 @@
 {
   "description": "De la vitamine D en musique!",
-  "num_followers": 20880,
+  "num_followers": 20883,
   "original_name": "Sp\u00e9cial soleil",
   "owner": {
     "name": "Spotify",
@@ -1523,6 +1523,22 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
+        "name": "On s'enverra des fleurs",
+        "url": "https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH"
+      },
+      "artists": [
+        {
+          "name": "Fredz",
+          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
+        }
+      ],
+      "duration_ms": 140583,
+      "name": "La v\u00e9rit\u00e9",
+      "url": "https://open.spotify.com/track/239VMs4BzjqIRdFtltxfPo"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
         "name": "TIMELESS",
         "url": "https://open.spotify.com/album/3C3t2bKhwEL3wdKioqWUDh"
       },
@@ -1539,22 +1555,6 @@
       "duration_ms": 192017,
       "name": "Video (feat. Ravyn Lenae)",
       "url": "https://open.spotify.com/track/7CPz32jHbtNIZev8vpa9yb"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "On s'enverra des fleurs",
-        "url": "https://open.spotify.com/album/5C9adKmsorWrba3oDcgeGH"
-      },
-      "artists": [
-        {
-          "name": "Fredz",
-          "url": "https://open.spotify.com/artist/6vclJnUiJ9D7IW0OP54MFT"
-        }
-      ],
-      "duration_ms": 140583,
-      "name": "La v\u00e9rit\u00e9",
-      "url": "https://open.spotify.com/track/239VMs4BzjqIRdFtltxfPo"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1607,22 +1607,6 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
-        "name": "Br\u00fbler le feu",
-        "url": "https://open.spotify.com/album/7ftWS2YkyqOJvh602ob2l5"
-      },
-      "artists": [
-        {
-          "name": "Juliette Armanet",
-          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
-        }
-      ],
-      "duration_ms": 164986,
-      "name": "Flamme",
-      "url": "https://open.spotify.com/track/0bFRxLr67t3gtavWOVr51y"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
         "name": "Grafignes",
         "url": "https://open.spotify.com/album/4apNI8EVLPBkQH1ceRRcFl"
       },
@@ -1635,6 +1619,22 @@
       "duration_ms": 190906,
       "name": "D\u00e9potoir",
       "url": "https://open.spotify.com/track/2d6lf93GHyLwm4TWS0LoAl"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "Br\u00fbler le feu",
+        "url": "https://open.spotify.com/album/7ftWS2YkyqOJvh602ob2l5"
+      },
+      "artists": [
+        {
+          "name": "Juliette Armanet",
+          "url": "https://open.spotify.com/artist/61CPKXT0bcKj8MKTNTMOXa"
+        }
+      ],
+      "duration_ms": 164986,
+      "name": "Flamme",
+      "url": "https://open.spotify.com/track/0bFRxLr67t3gtavWOVr51y"
     },
     {
       "added_at": "2026-08-28 04:03:37",
@@ -1707,6 +1707,38 @@
     {
       "added_at": "2026-08-28 04:03:37",
       "album": {
+        "name": "Darl\u00e8ne",
+        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
+      },
+      "artists": [
+        {
+          "name": "Hubert Lenoir",
+          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
+        }
+      ],
+      "duration_ms": 238636,
+      "name": "Fille de personne II",
+      "url": "https://open.spotify.com/track/4lHLa0Z48pb3T7iuZ6T9xR"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
+        "name": "Robots Apr\u00e8s Tout",
+        "url": "https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9"
+      },
+      "artists": [
+        {
+          "name": "Philippe Katerine",
+          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
+        }
+      ],
+      "duration_ms": 182266,
+      "name": "Louxor j'adore",
+      "url": "https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV"
+    },
+    {
+      "added_at": "2026-08-28 04:03:37",
+      "album": {
         "name": "Madame",
         "url": "https://open.spotify.com/album/5SOuiSAWU96n3aOnTp838P"
       },
@@ -1743,38 +1775,6 @@
       "duration_ms": 148250,
       "name": "My Motivation (feat. NAIIM)",
       "url": "https://open.spotify.com/track/2JZHtLw2uT5vWEhpFCBSv9"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "Darl\u00e8ne",
-        "url": "https://open.spotify.com/album/2Mk09LFe9J7UXKs7Vzui6r"
-      },
-      "artists": [
-        {
-          "name": "Hubert Lenoir",
-          "url": "https://open.spotify.com/artist/0TZ8Slkdu2G6nobZiDsNEj"
-        }
-      ],
-      "duration_ms": 238636,
-      "name": "Fille de personne II",
-      "url": "https://open.spotify.com/track/4lHLa0Z48pb3T7iuZ6T9xR"
-    },
-    {
-      "added_at": "2026-08-28 04:03:37",
-      "album": {
-        "name": "Robots Apr\u00e8s Tout",
-        "url": "https://open.spotify.com/album/7hyeGnH5VdIBbfJ62zuKn9"
-      },
-      "artists": [
-        {
-          "name": "Philippe Katerine",
-          "url": "https://open.spotify.com/artist/61NKNrhSMTYg2q0f3vS46e"
-        }
-      ],
-      "duration_ms": 182266,
-      "name": "Louxor j'adore",
-      "url": "https://open.spotify.com/track/60udb73Xe8KJ7IzBhn3ptV"
     }
   ],
   "unique_name": "Sp\u00e9cial soleil",

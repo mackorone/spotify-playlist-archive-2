@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-01-11",
-  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: JEFF",
+  "description": "T\u00fcrk\u00e7e rap'in hit \u015fark\u0131lar\u0131 ve zirveye oynayanlar. Kapak: Reder, Kava, Keskin, Chiko, ERAY067, Mansur",
   "name": "NKVT",
   "tracks": [
     {
@@ -1136,6 +1136,32 @@
       "duration_ms": 153131,
       "name": "ALAYINA REST",
       "url": "https://open.spotify.com/track/1I3Arcs8lcEbsnHSwO1Xiz"
+    },
+    {
+      "album": {
+        "name": "ALENEN",
+        "url": "https://open.spotify.com/album/0nIiF842LKMFL4WPyJW06M"
+      },
+      "artists": [
+        {
+          "name": "Jefe",
+          "url": "https://open.spotify.com/artist/1qKIiOyjWNYf1xshikhwQE"
+        },
+        {
+          "name": "Segah",
+          "url": "https://open.spotify.com/artist/4J3UGufkoUJDn1tMOWPt4P"
+        },
+        {
+          "name": "Kleo",
+          "url": "https://open.spotify.com/artist/7Crlr0QgOu2yjCKSNEJcSm"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 174844,
+      "name": "ALENEN",
+      "url": "https://open.spotify.com/track/0ta6sqke3ZadTuA45Friha"
     },
     {
       "album": {
@@ -15867,6 +15893,44 @@
     },
     {
       "album": {
+        "name": "OHAL",
+        "url": "https://open.spotify.com/album/7IsidmMfjLWXxrMMjVeOnL"
+      },
+      "artists": [
+        {
+          "name": "Reder",
+          "url": "https://open.spotify.com/artist/4rdvHU6ccREPfA1aS66pdg"
+        },
+        {
+          "name": "Kava",
+          "url": "https://open.spotify.com/artist/1wpu4UggwSv2RUBltB2h1f"
+        },
+        {
+          "name": "Keskin",
+          "url": "https://open.spotify.com/artist/76gCQtIoyzxs0HDKIyQC66"
+        },
+        {
+          "name": "Chiko",
+          "url": "https://open.spotify.com/artist/7Hw13rFlmgIGSKEaEIDZhS"
+        },
+        {
+          "name": "ERAY067",
+          "url": "https://open.spotify.com/artist/7l1AEP7z8ERNZzknXqPUFT"
+        },
+        {
+          "name": "Mansur",
+          "url": "https://open.spotify.com/artist/1nXS8JvKsTNSGw75Axv6rm"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 176727,
+      "name": "OHAL",
+      "url": "https://open.spotify.com/track/0jfg6WTzZuj5VkW4CtKdSc"
+    },
+    {
+      "album": {
         "name": "Olacak",
         "url": "https://open.spotify.com/album/5JCDIVgnFmuo6sziJTBkeq"
       },
@@ -16562,6 +16626,28 @@
       "duration_ms": 181363,
       "name": "Pelerin",
       "url": "https://open.spotify.com/track/7CFOAqExFoOQ1M6Nrvi3Y0"
+    },
+    {
+      "album": {
+        "name": "Penceresiz",
+        "url": "https://open.spotify.com/album/5qUfa2sGVQ1KcttboNlcu1"
+      },
+      "artists": [
+        {
+          "name": "\u015eiir!",
+          "url": "https://open.spotify.com/artist/3xAajp4pZmP2HKx0NcTsdf"
+        },
+        {
+          "name": "No.1",
+          "url": "https://open.spotify.com/artist/4fR3W8XFXsqHB8f8IqEr1y"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187340,
+      "name": "Penceresiz",
+      "url": "https://open.spotify.com/track/5egahUdlOHZQHCbT8vVOaq"
     },
     {
       "album": {
@@ -17918,6 +18004,24 @@
       "duration_ms": 146964,
       "name": "Salla Salla",
       "url": "https://open.spotify.com/track/3BMS2ZxodzjxPKzb2iHxze"
+    },
+    {
+      "album": {
+        "name": "Salland\u0131 Bildi\u011fin",
+        "url": "https://open.spotify.com/album/5jGRDCwExfw72aYeOWvygi"
+      },
+      "artists": [
+        {
+          "name": "2run",
+          "url": "https://open.spotify.com/artist/2ChTJTWndw0hFKEnn4ukYv"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 171789,
+      "name": "Salland\u0131 Bildi\u011fin",
+      "url": "https://open.spotify.com/track/4M4LmZoqUi1WDewpn9wKgd"
     },
     {
       "album": {
@@ -21264,7 +21368,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 103222,
       "name": "uzayl\u0131lar bile dinliyo",
       "url": "https://open.spotify.com/track/2QuYeqwgiI6HNYWhITTFAG"
@@ -21456,7 +21560,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 132203,
       "name": "Violet",
       "url": "https://open.spotify.com/track/6STjxGrdAGBFuEemDBlpiD"
@@ -23078,7 +23182,7 @@
       ],
       "date_added": "2026-09-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 120500,
       "name": "ZIG ZAG",
       "url": "https://open.spotify.com/track/4OMTqFdVmGXGnV54WfWqbr"
@@ -23788,7 +23892,7 @@
       ],
       "date_added": "2026-08-27",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 123495,
       "name": "\u015ea\u015fk\u0131n",
       "url": "https://open.spotify.com/track/00enQAwyeXJ0hvZZzn98lT"

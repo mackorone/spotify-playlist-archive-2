@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 
 > This is Paulo Londra\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,308,965 likes - 50 songs - 2 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,308,976 likes - 50 songs - 2 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -52,11 +52,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO22B8T3.md) - [plain]
 | 42 | [Flashbacks \| CROSSOVER \#9](https://open.spotify.com/track/73JFuGO9niMXXqmJ2WAMPU) | [Big One](https://open.spotify.com/artist/2OhUNb01gLwygOizYvTm0e), [Wisin](https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Flashbacks \| CROSSOVER \#9](https://open.spotify.com/album/3RVunVsTpDf0UQ18IVVWBy) | 3:02 |
 | 43 | [Luces](https://open.spotify.com/track/77UICuAzXRYuJqdhcy6R3m) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [Luces](https://open.spotify.com/album/33y9UsVrEeUltpFdq8aPxZ) | 2:52 |
 | 44 | [SIN CADENAS](https://open.spotify.com/track/6SKKyjAlI1MwB7kjvte9Li) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 2:22 |
-| 45 | [Sentimiento Mágico \(feat\. FLOUSES\) \- Remix](https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [FLOUSES](https://open.spotify.com/artist/79uEbaIj1KmIfSa220Fawm) | [Sentimiento Mágico \(feat\. FLOUSES\) \[Remix\]](https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X) | 4:51 |
-| 46 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 |
+| 45 | [Itamambuca](https://open.spotify.com/track/2TWc1VLLfbDx9kaxPDx0vl) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luísa Sonza](https://open.spotify.com/artist/4PzYKhC14sTJNEr0dzoo0d) | [Itamambuca](https://open.spotify.com/album/2XbRcRLf7lrYOFBaHG8pDb) | 4:03 |
+| 46 | [Sentimiento Mágico \(feat\. FLOUSES\) \- Remix](https://open.spotify.com/track/3ApX5mxf1DYrgRTWstFVXV) | [Benja Valencia](https://open.spotify.com/artist/2N4rDzKt2aZK1ksES0YKBP), [SINAKA](https://open.spotify.com/artist/14jYF182Dap3pcHNfSxAUl), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Zion](https://open.spotify.com/artist/1pgDilWYDWLoOgGjf1iHNu), [FLOUSES](https://open.spotify.com/artist/79uEbaIj1KmIfSa220Fawm) | [Sentimiento Mágico \(feat\. FLOUSES\) \[Remix\]](https://open.spotify.com/album/4uqgHKAFAFiBXchoUpWD9X) | 4:51 |
 | 47 | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/track/5GF0X7GdNmnouKcdhhRmtm) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Duki](https://open.spotify.com/artist/1bAftSH8umNcGZ0uyV7LMg) | [Party en el Barrio \(feat\. Duki\)](https://open.spotify.com/album/2alxO71ik8lO8YIuNT2LKn) | 3:56 |
 | 48 | [PVSL](https://open.spotify.com/track/4Ej0vjqpzA8Glz5A00qGyZ) | [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [VERSUS](https://open.spotify.com/album/3S9l1Zky8ysxa8dEI1Hy1E) | 3:02 |
 | 49 | [A200 \- Remix](https://open.spotify.com/track/1h5Yg6TSSlNdUNMVcZfZf3) | [King Savagge](https://open.spotify.com/artist/7DXregrznS25AM30UY9sUU), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z), [Luck Ra](https://open.spotify.com/artist/4kcQWQDK0u9AftVSpdrAgk), [Bayron Fire](https://open.spotify.com/artist/2IAxPmQzx2NuutHe7ta7gs), [Jairo Vera](https://open.spotify.com/artist/5CAruGjgds3QlF5ICtEnnc), [LIT killah](https://open.spotify.com/artist/1vqR17Iv8VFdzure1TAXEq) | [A200 \(Remix\)](https://open.spotify.com/album/3CNSRkEeO9QWGiyqX8Ozok) | 5:19 |
 | 50 | [PERREITO PA LLORAR](https://open.spotify.com/track/3ZcUKMaqWY7jGEzAoU5mQs) | [Lola Indigo](https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna), [Paulo Londra](https://open.spotify.com/artist/3vQ0GE3mI0dAaxIMYe5g7z) | [PERREITO PA LLORAR](https://open.spotify.com/album/4IXouaHajcxSQwD8rlYwhv) | 3:33 |
 
-Snapshot ID: `aq3QgAAAAABcmIUhsgUE8P8z/3hH15r7`
+Snapshot ID: `aq8iAAAAAADJuJNEjGz7y1noLREdj9hv`

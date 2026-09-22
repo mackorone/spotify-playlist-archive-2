@@ -1,6 +1,6 @@
 {
   "description": "The country that made country cool. Cover: George Strait",
-  "num_followers": 2264485,
+  "num_followers": 2264791,
   "original_name": "90s Country",
   "owner": {
     "name": "Spotify",
@@ -731,18 +731,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Country Club",
-        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
+        "name": "Third Rock From The Sun",
+        "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
       },
       "artists": [
         {
-          "name": "Travis Tritt",
-          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
+          "name": "Joe Diffie",
+          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
         }
       ],
-      "duration_ms": 244933,
-      "name": "I'm Gonna Be Somebody",
-      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
+      "duration_ms": 216200,
+      "name": "Pickup Man",
+      "url": "https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -763,18 +763,18 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Third Rock From The Sun",
-        "url": "https://open.spotify.com/album/3DbH9awNYiSTpvyCNqxdkl"
+        "name": "Country Club",
+        "url": "https://open.spotify.com/album/3DcqxxwxranqrA4zTGmzmo"
       },
       "artists": [
         {
-          "name": "Joe Diffie",
-          "url": "https://open.spotify.com/artist/3THMgU4KdL7LlO5TEREs2g"
+          "name": "Travis Tritt",
+          "url": "https://open.spotify.com/artist/2M4Yt7oKGoYd0wqU44k4i2"
         }
       ],
-      "duration_ms": 216200,
-      "name": "Pickup Man",
-      "url": "https://open.spotify.com/track/60w5eL1G4Or7LlTSrR5r8a"
+      "duration_ms": 244933,
+      "name": "I'm Gonna Be Somebody",
+      "url": "https://open.spotify.com/track/4ICSwxlVyGaTquNqblL7Y9"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -1191,22 +1191,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "A Thousand Memories",
-        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
-      },
-      "artists": [
-        {
-          "name": "Rhett Akins",
-          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
-        }
-      ],
-      "duration_ms": 243106,
-      "name": "That Ain't My Truck",
-      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "Breathe",
         "url": "https://open.spotify.com/album/3BGPil8BDPVoDK0lnUPtvb"
       },
@@ -1219,6 +1203,22 @@
       "duration_ms": 186066,
       "name": "The Way You Love Me",
       "url": "https://open.spotify.com/track/6vgN6KGstss0GnBbKlMNK9"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "A Thousand Memories",
+        "url": "https://open.spotify.com/album/3dD77M8Lo9Ag3rSvzTD7Kb"
+      },
+      "artists": [
+        {
+          "name": "Rhett Akins",
+          "url": "https://open.spotify.com/artist/4qivGtDBIkQFLCeduRpi24"
+        }
+      ],
+      "duration_ms": 243106,
+      "name": "That Ain't My Truck",
+      "url": "https://open.spotify.com/track/7riuy1t0Kt3SRgMtFxX0FR"
     },
     {
       "added_at": "2026-02-11 22:52:29",
@@ -2139,22 +2139,6 @@
     {
       "added_at": "2026-02-11 22:52:29",
       "album": {
-        "name": "Love Can Build A Bridge",
-        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
-      },
-      "artists": [
-        {
-          "name": "The Judds",
-          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
-        }
-      ],
-      "duration_ms": 322706,
-      "name": "Love Can Build A Bridge",
-      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
-    },
-    {
-      "added_at": "2026-02-11 22:52:29",
-      "album": {
         "name": "When Love Finds You",
         "url": "https://open.spotify.com/album/33XyyiV7lMXdFbsorjt1sB"
       },
@@ -2167,6 +2151,22 @@
       "duration_ms": 259160,
       "name": "Whenever You Come Around",
       "url": "https://open.spotify.com/track/3PHLZ5wmtyZha1pp2405OT"
+    },
+    {
+      "added_at": "2026-02-11 22:52:29",
+      "album": {
+        "name": "Love Can Build A Bridge",
+        "url": "https://open.spotify.com/album/53q0MIHCc3NeBt075qOsZO"
+      },
+      "artists": [
+        {
+          "name": "The Judds",
+          "url": "https://open.spotify.com/artist/7MSTO40bsb3DOJQT6xLsIc"
+        }
+      ],
+      "duration_ms": 322706,
+      "name": "Love Can Build A Bridge",
+      "url": "https://open.spotify.com/track/40XW3d74CGOrWPcNpJDeUi"
     },
     {
       "added_at": "2026-02-11 22:52:29",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 
 > Uplift your spirit with these faith\-filled folk melodies\. Cover: Rend Collective
 
-[Spotify](https://open.spotify.com/user/spotify) - 38,892 likes - 75 songs - 4 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 38,946 likes - 75 songs - 4 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -61,7 +61,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0I2w6UmIBm1.md) - [plain]
 | 51 | [Our Bread \- Acoustic Version](https://open.spotify.com/track/7lLrhPJ83ThM2GN8Zau2N3) | [Tyler Corbin](https://open.spotify.com/artist/0Gk9udEVydWQ94pRvk7sKV), [Blake Lacy](https://open.spotify.com/artist/7C4Uh1pNVlCZOG19LPu5ZA) | [Help Me Try \(Acoustic Versions\)](https://open.spotify.com/album/4uXsPyBoc9uEWxNNZUtMoJ) | 3:36 |
 | 52 | [Visions](https://open.spotify.com/track/3WeWmxVQDN7VHm5yu9fKhh) | [Ivan Castro](https://open.spotify.com/artist/4HElG82P9GRSfQhqs1mt14) | [Visions](https://open.spotify.com/album/7gb8rVHzoK2r0FChlQ2mnH) | 4:06 |
 | 53 | [All I Need](https://open.spotify.com/track/6coXoKfiFIHGd8aAQvwP1R) | [Meyta](https://open.spotify.com/artist/60cyMKkZ9lTL1KwfvzK7Mc) | [All I Need](https://open.spotify.com/album/5eYdEf5o3xTed3ztXX948F) | 4:00 |
-| 54 | [Changing](https://open.spotify.com/track/6aUq2ImOnHlFQUjMqtzKRX) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Changing](https://open.spotify.com/album/6rrQswbIXq8hsl5EhY0urV) | 4:24 |
+| 54 | [Changing](https://open.spotify.com/track/6aUq2ImOnHlFQUjMqtzKRX) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk), [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [Changing](https://open.spotify.com/album/6rrQswbIXq8hsl5EhY0urV) | 4:24 |
 | 55 | [Something Greater](https://open.spotify.com/track/1BB08C42ZCxoMa97OgYLi7) | [Northwest Stories](https://open.spotify.com/artist/5w1g5MrRpY3zWraNx9HMXS) | [Something Greater](https://open.spotify.com/album/7qUfmnn51RAzZhCCHSoH1V) | 2:42 |
 | 56 | [Takes A While](https://open.spotify.com/track/0HWhi0DFHTgVwedSM9NyWY) | [Haddon](https://open.spotify.com/artist/7o6yQTxU693rRiRYMvXEez) | [Takes A While](https://open.spotify.com/album/1CzTUqYkRIW2kDew6vRKjv) | 2:37 |
 | 57 | [Restore To Me](https://open.spotify.com/track/3fXDXJJwDhvVp5Z9Vdoa5D) | [Brice Davis](https://open.spotify.com/artist/1b1HAA4FKPRckylVMBY9PM), [Madalyn Rae](https://open.spotify.com/artist/29ZmYR2TwSfAjdosOQmIpG) | [Restore To Me](https://open.spotify.com/album/1jED6aHS0QvnVw1kzNnQWv) | 4:22 |

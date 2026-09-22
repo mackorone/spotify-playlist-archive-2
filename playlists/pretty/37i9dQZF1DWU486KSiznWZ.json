@@ -1,13 +1,29 @@
 {
-  "description": "\u0646\u062e\u0628\u0629 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641: \u0645\u0627\u062c\u062f \u0627\u0644\u0645\u0647\u0646\u062f\u0633 ",
-  "num_followers": 270944,
+  "description": "\u0646\u062e\u0628\u0629 \u0627\u0644\u0623\u063a\u0627\u0646\u064a \u0627\u0644\u062e\u0644\u064a\u062c\u064a\u0629. \u0627\u0644\u063a\u0644\u0627\u0641:  \u0639\u0628\u062f\u0627\u0644\u0645\u062c\u064a\u062f \u0639\u0628\u062f\u0627\u0644\u0644\u0647 ",
+  "num_followers": 270978,
   "original_name": "Hits \u062e\u0644\u064a\u062c\u064a",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAACSXfh3gA4MyPe9XtTRcoAgwIgEE",
+  "snapshot_id": "AAAAAC/1wH4tFZDUlcBlpSzymFvWpHiH",
   "tracks": [
+    {
+      "added_at": "2026-09-21 06:42:39",
+      "album": {
+        "name": "Abdul Majeed Abdullah 2026",
+        "url": "https://open.spotify.com/album/5953e42Lj8BQHyeWqaGAPS"
+      },
+      "artists": [
+        {
+          "name": "Abdul Majeed Abdullah",
+          "url": "https://open.spotify.com/artist/2RxCv6j8Wu2rYbmtOBvg6F"
+        }
+      ],
+      "duration_ms": 231622,
+      "name": "Ana Yendm Alaye",
+      "url": "https://open.spotify.com/track/7d3lbR11DDE7AhjuRm89qV"
+    },
     {
       "added_at": "2025-08-08 12:05:13",
       "album": {
@@ -515,22 +531,6 @@
       "duration_ms": 242357,
       "name": "A'tather Wa Ageek - \u0627\u0639\u062a\u0630\u0631 \u0648\u0627\u062c\u064a\u0643",
       "url": "https://open.spotify.com/track/0JPtocbKcIil2SMHYbNewS"
-    },
-    {
-      "added_at": "2025-08-08 12:05:13",
-      "album": {
-        "name": "Al Enaq Al Akheer - Part 1",
-        "url": "https://open.spotify.com/album/4eUSh9XzAwRkfDfWdjUULm"
-      },
-      "artists": [
-        {
-          "name": "Ahlam",
-          "url": "https://open.spotify.com/artist/5BOaFDetB6x3cYQuyrwZhd"
-        }
-      ],
-      "duration_ms": 589165,
-      "name": "Al Enaq Al Akheer",
-      "url": "https://open.spotify.com/track/4GzJjtpF6AOGkZzmPHqCDc"
     },
     {
       "added_at": "2025-08-08 12:05:13",

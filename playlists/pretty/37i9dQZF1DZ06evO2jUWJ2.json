@@ -1,12 +1,12 @@
 {
   "description": "This is Elevation Worship. The essential tracks, all in one playlist.",
-  "num_followers": 333616,
+  "num_followers": 333680,
   "original_name": "This Is Elevation Worship",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAB9KvXeX2m0E/6VDDHJGeVX",
+  "snapshot_id": "aq8iAAAAAAD3CvWnXvab00L10PGviUmF",
   "tracks": [
     {
       "added_at": null,
@@ -471,6 +471,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Joy In The Morning (Horizon Edition)",
+        "url": "https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ"
+      },
+      "artists": [
+        {
+          "name": "Tauren Wells",
+          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
+        },
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 528413,
+      "name": "Joy In The Morning",
+      "url": "https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
         "url": "https://open.spotify.com/album/3317qFuusi41ZE9hfffsmq"
       },
@@ -491,26 +511,6 @@
       "duration_ms": 347640,
       "name": "SO BE IT (feat. Tiffany Hudson & Chris Brown)",
       "url": "https://open.spotify.com/track/1tYWIkEZg6wMrMuLO2mWcy"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Joy In The Morning (Horizon Edition)",
-        "url": "https://open.spotify.com/album/4k9NfmigtkDZLHB5MJ04RQ"
-      },
-      "artists": [
-        {
-          "name": "Tauren Wells",
-          "url": "https://open.spotify.com/artist/3SKza3YPBri1k43LB1Tqy4"
-        },
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 528413,
-      "name": "Joy In The Morning",
-      "url": "https://open.spotify.com/track/5m1eBDlvDe8WIkVhnJRA95"
     },
     {
       "added_at": null,
@@ -567,6 +567,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "CAN YOU IMAGINE?",
+        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        },
+        {
+          "name": "Chris Brown",
+          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
+        }
+      ],
+      "duration_ms": 354885,
+      "name": "Jehovah (feat. Chris Brown)",
+      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Wind Meets Fire",
         "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
       },
@@ -587,26 +607,6 @@
       "duration_ms": 430689,
       "name": "When Wind Meets Fire (feat. Chris Brown & Tiffany Hudson)",
       "url": "https://open.spotify.com/track/7ymQvrauqbRfH30XVkmIs2"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "CAN YOU IMAGINE?",
-        "url": "https://open.spotify.com/album/58ufb71YaU1PetJKQGqSd2"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        },
-        {
-          "name": "Chris Brown",
-          "url": "https://open.spotify.com/artist/03NN8FAKofZU6phsfHLKPw"
-        }
-      ],
-      "duration_ms": 354885,
-      "name": "Jehovah (feat. Chris Brown)",
-      "url": "https://open.spotify.com/track/4moUecMb5PN5kDTQANggc3"
     },
     {
       "added_at": null,
@@ -659,6 +659,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Kingdom Come",
+        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 294800,
+      "name": "Give Me Faith",
+      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "When Wind Meets Fire",
         "url": "https://open.spotify.com/album/2uwzangKgtBdy6Q1rPYqC0"
       },
@@ -675,22 +691,6 @@
       "duration_ms": 371698,
       "name": "Owe You Praise",
       "url": "https://open.spotify.com/track/04UnPwnSHJu7IhEWHHdF9G"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Kingdom Come",
-        "url": "https://open.spotify.com/album/1wnfwokJAwNET0FZ4X2KCH"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 294800,
-      "name": "Give Me Faith",
-      "url": "https://open.spotify.com/track/0Iahiy5y1VEmuwTFb65tG8"
     },
     {
       "added_at": null,
@@ -975,6 +975,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Graves Into Gardens (Live)",
+        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
+      },
+      "artists": [
+        {
+          "name": "Elevation Worship",
+          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
+        }
+      ],
+      "duration_ms": 432052,
+      "name": "RATTLE! (Live)",
+      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "So So Good (Live)",
         "url": "https://open.spotify.com/album/4dZx4AIFmNQo4KCUyhY3ru"
       },
@@ -995,22 +1011,6 @@
       "duration_ms": 288766,
       "name": "So So Good - Live",
       "url": "https://open.spotify.com/track/3uNx9NvRHm60mDwOBFCkqg"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Graves Into Gardens (Live)",
-        "url": "https://open.spotify.com/album/3obyvHd0Ja2gZaPQMerTU6"
-      },
-      "artists": [
-        {
-          "name": "Elevation Worship",
-          "url": "https://open.spotify.com/artist/3YCKuqpv9nCsIhJ2v8SMix"
-        }
-      ],
-      "duration_ms": 432052,
-      "name": "RATTLE! (Live)",
-      "url": "https://open.spotify.com/track/6fdglWE2qycjtz0JlW94HW"
     },
     {
       "added_at": null,

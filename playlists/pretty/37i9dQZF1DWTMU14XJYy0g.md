@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTMU14XJYy0g.md) - [plain]
 
 > Emblemas de nuestro rock 📸 Las Pelotas
 
-[Spotify](https://open.spotify.com/user/spotify) - 505,825 likes - 79 songs - 4 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 505,820 likes - 79 songs - 4 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

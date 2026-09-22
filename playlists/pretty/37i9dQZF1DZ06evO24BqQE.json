@@ -1,12 +1,12 @@
 {
   "description": "This is BNXN. The essential tracks, all in one playlist.",
-  "num_followers": 53569,
+  "num_followers": 53626,
   "original_name": "This Is BNXN",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAACR8sk4ozUjG+Oomu9Kn/8t",
+  "snapshot_id": "aq8iAAAAAAD+p6F8UmsNZ6iRHUG9SXSn",
   "tracks": [
     {
       "added_at": null,
@@ -619,26 +619,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Feeling",
-        "url": "https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD"
-      },
-      "artists": [
-        {
-          "name": "LADIPOE",
-          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
-        },
-        {
-          "name": "BNXN",
-          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
-        }
-      ],
-      "duration_ms": 224000,
-      "name": "Feeling",
-      "url": "https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Prince of the Street",
         "url": "https://open.spotify.com/album/6eAuO5yaH0N9ALkeKtuiaW"
       },
@@ -655,6 +635,26 @@
       "duration_ms": 125106,
       "name": "Oshimiri",
       "url": "https://open.spotify.com/track/2i5PqDEsME85JezRrq6BJy"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Feeling",
+        "url": "https://open.spotify.com/album/3JtqyAW9kr3vMKWyHlo6wD"
+      },
+      "artists": [
+        {
+          "name": "LADIPOE",
+          "url": "https://open.spotify.com/artist/379IT6Szv0zgnw4xrdu4mu"
+        },
+        {
+          "name": "BNXN",
+          "url": "https://open.spotify.com/artist/3zaDigUwjHvjOkSn0NDf9x"
+        }
+      ],
+      "duration_ms": 224000,
+      "name": "Feeling",
+      "url": "https://open.spotify.com/track/1z567QCaLLuRE7ZxQS5oYS"
     },
     {
       "added_at": null,

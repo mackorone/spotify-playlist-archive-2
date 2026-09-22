@@ -1,6 +1,6 @@
 {
   "description": "\u26b8\u26b8\u26b8 a journey into the unknown, dark, and experimental \u26b8\u26b8\u26b8 featuring Marina Herlop",
-  "num_followers": 252483,
+  "num_followers": 252484,
   "original_name": "Terra Incognita",
   "owner": {
     "name": "Spotify",
@@ -439,6 +439,22 @@
     {
       "added_at": "2026-08-03 08:02:19",
       "album": {
+        "name": "Vanities",
+        "url": "https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd"
+      },
+      "artists": [
+        {
+          "name": "Malibu",
+          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
+        }
+      ],
+      "duration_ms": 296000,
+      "name": "Watching People Die",
+      "url": "https://open.spotify.com/track/4YM0Qxg6D7hf2Ov4gasTG4"
+    },
+    {
+      "added_at": "2026-08-03 08:02:19",
+      "album": {
         "name": "Almost Waking",
         "url": "https://open.spotify.com/album/2Eepx7kt4gbeqYIOGjUOw2"
       },
@@ -455,22 +471,6 @@
       "duration_ms": 247146,
       "name": "The Heaven of our Misery",
       "url": "https://open.spotify.com/track/2HbbBoEhX4ubTlLThzHMcg"
-    },
-    {
-      "added_at": "2026-08-03 08:02:19",
-      "album": {
-        "name": "Vanities",
-        "url": "https://open.spotify.com/album/7ePZ3EZLrbIXyms6fc9hJd"
-      },
-      "artists": [
-        {
-          "name": "Malibu",
-          "url": "https://open.spotify.com/artist/3gfV2LBMvIE9gjpvowt11B"
-        }
-      ],
-      "duration_ms": 296000,
-      "name": "Watching People Die",
-      "url": "https://open.spotify.com/track/4YM0Qxg6D7hf2Ov4gasTG4"
     },
     {
       "added_at": "2026-08-03 08:02:19",
@@ -1215,6 +1215,22 @@
     {
       "added_at": "2026-08-03 08:02:19",
       "album": {
+        "name": "Lucha Libre",
+        "url": "https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA"
+      },
+      "artists": [
+        {
+          "name": "Valentina Magaletti",
+          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
+        }
+      ],
+      "duration_ms": 252000,
+      "name": "Drum Jump",
+      "url": "https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG"
+    },
+    {
+      "added_at": "2026-08-03 08:02:19",
+      "album": {
         "name": "OPVS NOVUM: A Requiem Reworked",
         "url": "https://open.spotify.com/album/0BDOnuEIPCcya95B82Z3RY"
       },
@@ -1231,22 +1247,6 @@
       "duration_ms": 266415,
       "name": "Thou Art Mortal - Julia Holter Rework",
       "url": "https://open.spotify.com/track/6wt6su6c5kE2igsgHPs4Sj"
-    },
-    {
-      "added_at": "2026-08-03 08:02:19",
-      "album": {
-        "name": "Lucha Libre",
-        "url": "https://open.spotify.com/album/5AaVrBrxC3MQ18DGqU6XUA"
-      },
-      "artists": [
-        {
-          "name": "Valentina Magaletti",
-          "url": "https://open.spotify.com/artist/0jPLDwuZUzb6qZdfi5XPHz"
-        }
-      ],
-      "duration_ms": 252000,
-      "name": "Drum Jump",
-      "url": "https://open.spotify.com/track/0mCZfrseEMpeQlCLf99UyG"
     },
     {
       "added_at": "2026-08-03 08:02:19",

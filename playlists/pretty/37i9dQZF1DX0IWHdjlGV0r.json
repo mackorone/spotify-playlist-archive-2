@@ -1,6 +1,6 @@
 {
   "description": "Alcuni amori bruciano pi\u00f9 di altri. Cover:  Shiva",
-  "num_followers": 130056,
+  "num_followers": 130076,
   "original_name": "Arsenico ",
   "owner": {
     "name": "Spotify",
@@ -231,22 +231,18 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "Milano Angels",
-        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
+        "name": "Milano Demons",
+        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
       },
       "artists": [
         {
           "name": "Shiva",
           "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
-        },
-        {
-          "name": "Tony Boy",
-          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 167921,
-      "name": "Polvere (feat. Tony Boy)",
-      "url": "https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh"
+      "duration_ms": 228454,
+      "name": "Non lo Sai",
+      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -363,18 +359,22 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
-        "name": "Milano Demons",
-        "url": "https://open.spotify.com/album/202T8cUT1c3oQarCOJBy6m"
+        "name": "Milano Angels",
+        "url": "https://open.spotify.com/album/1moDP6neOAWuwU9YylMeOL"
       },
       "artists": [
         {
           "name": "Shiva",
           "url": "https://open.spotify.com/artist/2K5nCggbhSZ00YCYP5qkZS"
+        },
+        {
+          "name": "Tony Boy",
+          "url": "https://open.spotify.com/artist/6PsQc21YZU7WNfiODG69Qk"
         }
       ],
-      "duration_ms": 228454,
-      "name": "Non lo Sai",
-      "url": "https://open.spotify.com/track/0D3QZNAMH2d5MFkVlebo6h"
+      "duration_ms": 167921,
+      "name": "Polvere (feat. Tony Boy)",
+      "url": "https://open.spotify.com/track/3ppXueOTvYpYp7zQUbuIKh"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -947,6 +947,26 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
+        "name": "Gi\u00f9",
+        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        },
+        {
+          "name": "Rondodasosa",
+          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
+        }
+      ],
+      "duration_ms": 202600,
+      "name": "LEI (feat. Rondodasosa)",
+      "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
         "name": "MOON (feat. Capo Plaza & Tony Boy)",
         "url": "https://open.spotify.com/album/257g998F1JZB1zxKp0CPNd"
       },
@@ -967,26 +987,6 @@
       "duration_ms": 186126,
       "name": "MOON (feat. Capo Plaza & Tony Boy)",
       "url": "https://open.spotify.com/track/2QieMRkH51KbJw4ZauGJfY"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
-        "name": "Gi\u00f9",
-        "url": "https://open.spotify.com/album/7vo7aun2FjdwkfP81Gy8w3"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        },
-        {
-          "name": "Rondodasosa",
-          "url": "https://open.spotify.com/artist/61bQ4nwIioR8w6PGxzpyY3"
-        }
-      ],
-      "duration_ms": 202600,
-      "name": "LEI (feat. Rondodasosa)",
-      "url": "https://open.spotify.com/track/298vG7EUMAUWmvapd4PHL8"
     },
     {
       "added_at": "2026-08-26 22:01:25",
@@ -1391,6 +1391,22 @@
     {
       "added_at": "2026-08-26 22:01:25",
       "album": {
+        "name": "Una vita fa",
+        "url": "https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl"
+      },
+      "artists": [
+        {
+          "name": "Neima Ezza",
+          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
+        }
+      ],
+      "duration_ms": 143487,
+      "name": "Una vita fa",
+      "url": "https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2"
+    },
+    {
+      "added_at": "2026-08-26 22:01:25",
+      "album": {
         "name": "Containers",
         "url": "https://open.spotify.com/album/4gjJj6UCG1hitjAk1CdgDc"
       },
@@ -1407,22 +1423,6 @@
       "duration_ms": 160227,
       "name": "Amore cieco (feat. Madame)",
       "url": "https://open.spotify.com/track/3brSEPeDXaGHUnf3HZqGXJ"
-    },
-    {
-      "added_at": "2026-08-26 22:01:25",
-      "album": {
-        "name": "Una vita fa",
-        "url": "https://open.spotify.com/album/7leF68HTvHBT2xOTXb7CDl"
-      },
-      "artists": [
-        {
-          "name": "Neima Ezza",
-          "url": "https://open.spotify.com/artist/754BUADwzMYecBgOoBaetK"
-        }
-      ],
-      "duration_ms": 143487,
-      "name": "Una vita fa",
-      "url": "https://open.spotify.com/track/37rCWMWi55l8HibKLrDCS2"
     },
     {
       "added_at": "2026-08-26 22:01:25",

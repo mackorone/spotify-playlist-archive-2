@@ -158,8 +158,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 148 | [Head Away](https://open.spotify.com/track/6Pq3iabH7bmUzsLW3Ql51G) | [Meg Mac](https://open.spotify.com/artist/4faUajx9k93O56nlmpkOuz) | [HOPE](https://open.spotify.com/album/5xDFzFfY4gWoTVUfc2JoRB) | 3:56 |
 | 149 | [Give You Everything](https://open.spotify.com/track/5yUbwHjzlYFmZc4t9slPwp) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Now And Then](https://open.spotify.com/album/7v1YvCBBDWRPp7Va3YXK6u) | 3:23 |
 | 150 | [Midnight](https://open.spotify.com/track/6PpDlEmRuXIfUM2CZYuznW) | [Abigail Liddle](https://open.spotify.com/artist/1B0TsblLRxK3u6DDYXehq1) | [Midnight](https://open.spotify.com/album/4rHE24L6n4yHtkxpRvUOd1) | 3:08 |
-| 151 | [Sentimental](https://open.spotify.com/track/0kcXLQMWQoEP15U58AM0O5) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Sentimental](https://open.spotify.com/album/3sBSLkTmKNxwCmSnycKqKE) | 3:50 |
-| 152 | [Crazy, Baby](https://open.spotify.com/track/27puT2rwyXM9tkOOTxTrQh) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Crazy, Baby](https://open.spotify.com/album/4Z647T2KuNTEtDjOHfhVR6) | 2:25 |
+| 151 | [Crazy, Baby](https://open.spotify.com/track/27puT2rwyXM9tkOOTxTrQh) | [Cara Delevingne](https://open.spotify.com/artist/4sv0K6oriSqkSI5O9bQbmd) | [Crazy, Baby](https://open.spotify.com/album/4Z647T2KuNTEtDjOHfhVR6) | 2:25 |
+| 152 | [Sentimental](https://open.spotify.com/track/0kcXLQMWQoEP15U58AM0O5) | [Eliza & The Delusionals](https://open.spotify.com/artist/5XOV5b7cxUgB9PcoLBn69l) | [Sentimental](https://open.spotify.com/album/3sBSLkTmKNxwCmSnycKqKE) | 3:50 |
 | 153 | [Holding Onto Something](https://open.spotify.com/track/7GokbTM2GnhBNOWqbFpdj0) | [Michael Marcagi](https://open.spotify.com/artist/4j96cMcT8GRi11qbvo1cLQ) | [Under The Streetlights](https://open.spotify.com/album/1CKtOvMSLqatFnR0OuYNxZ) | 3:52 |
 | 154 | [Headlights](https://open.spotify.com/track/0pcr5z7vzycdIDT6IscF53) | [Example](https://open.spotify.com/artist/6Vh6UDWfu9PUSXSzAaB3CW) | [Bangers & Ballads](https://open.spotify.com/album/1quIArjbWAPmvcSk77HoWy) | 3:27 |
 | 155 | [別廢話](https://open.spotify.com/track/5J6VuORfJF1sByc8m2woNY) | [TIA RAY](https://open.spotify.com/artist/70paW48PtCtUjtndElrjrL) | [TIARA](https://open.spotify.com/album/6PYyVGz15q2My7kkpKFyTf) | 2:59 |
@@ -171,4 +171,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFzD9XKRPIjnv.md) - [plain]
 | 161 | [I'm Blue](https://open.spotify.com/track/4fxjwpYb69BFXlVDZVUnGH) | [Marlowe Wilton](https://open.spotify.com/artist/2T33g5HKf9IdpHnx0swzwY) | [I'm Blue](https://open.spotify.com/album/3dALB5GpC5arbXCUEpHNoO) | 3:03 |
 | 162 | [Why](https://open.spotify.com/track/5h09Ksb1ctl0naenwVkrau) | [The Fabulous Cadillacs](https://open.spotify.com/artist/1pxfJicxxf1Ce8OEJnorT3) | [Classics \- The Fabulous Cadillacs](https://open.spotify.com/album/2IJa1TA0j0t06LWl1dt8Ft) | 1:50 |
 
-Snapshot ID: `Acc2BgAAAAAcTC8EipbflGZH+BDVgQh8`
+Snapshot ID: `Acc7ugAAAABeOBR2gfLwFs0hZONzC7z3`

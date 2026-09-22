@@ -4,7 +4,7 @@
 
 > This is Lakeyah\. The essential tracks, all in one playlist.
 
-89 songs - 3 hr 55 min
+90 songs - 3 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -65,8 +65,9 @@
 | [MilTroit \(feat\. Lakeyah\)](https://open.spotify.com/track/1K3LqqgTfHKyQfY0EMbnQF) | [Tee Grizzley](https://open.spotify.com/artist/6AUl0ykLLpvTktob97x9hO), [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Half Tee Half Beast](https://open.spotify.com/album/1MPQSjOwfHFILDB3DGoyrp) | 2:24 | 2022-10-28 |  |
 | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/track/5hR1PFUnx0uRkqYsW4Z4ja) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Latto](https://open.spotify.com/artist/3MdXrJWsbVzdn6fe5JYkSQ) | [Mind Yo Business \(Feat\. Latto\)](https://open.spotify.com/album/0NCupn1XlJsAHmUcCCGLQk) | 2:02 | 2022-10-28 |  |
 | [MS\. ROBIN$ON](https://open.spotify.com/track/4uSZbTLozA4lGEgJNM8TkH) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [MOTION PACK](https://open.spotify.com/album/1YvvObdtDdAha2JiKuMIc8) | 2:45 | 2026-09-21 |  |
-| [No Hesitation](https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Hesitation](https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W) | 2:13 | 2023-12-13 |  |
+| [No Hesitation](https://open.spotify.com/track/52jzQgpv1aGqOJh4uv3pst) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Hesitation](https://open.spotify.com/album/0rIPAeXpkVqMVzoOCf5H5W) | 2:13 | 2023-12-13 | 2026-09-22 |
 | [No Hook](https://open.spotify.com/track/2qPevuRQkYmm5dvJYWDCny) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [No Pressure \(Pt\. 2\)](https://open.spotify.com/album/7qFvB2y0azbdCp9j1dyRai) | 1:57 | 2022-10-28 |  |
+| [OLD SKOOL \(feat\. Bankroll Ni\)](https://open.spotify.com/track/0wssY5gSOybNywQ6VN5l2P) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [MOTION PACK](https://open.spotify.com/album/1YvvObdtDdAha2JiKuMIc8) | 3:14 | 2026-09-22 |  |
 | [Ooh Ahh](https://open.spotify.com/track/7iCmwZaQJOAOxTUp1kI2OM) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7) | [Keymix III](https://open.spotify.com/album/3ZkhHJ5yXx7q5EIPONr7Ni) | 2:38 | 2024-12-04 | 2025-01-18 |
 | [Out Your Mind](https://open.spotify.com/track/69mT96YFnkOLuV2giQbW95) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [DJ Drama](https://open.spotify.com/artist/5oNgAs7j5XcBMzWv3HAnHG) | [My Time \(Gangsta Grillz: Special Edition\)](https://open.spotify.com/album/7fN9TVZE3JJFV7QqyVisnh) | 2:24 | 2026-02-11 | 2026-02-21 |
 | [Perfect](https://open.spotify.com/track/7nOkNaXqygqopH34aDBmUl) | [Lakeyah](https://open.spotify.com/artist/77gMBvQ2frbQAPyCeoYGm7), [Yung Bleu](https://open.spotify.com/artist/3KNIG74xSTc3dj0TRy7pGX) | [In Due Time](https://open.spotify.com/album/3Oond2NSMqKhI5zseoD7Hu) | 2:21 | 2022-10-28 |  |

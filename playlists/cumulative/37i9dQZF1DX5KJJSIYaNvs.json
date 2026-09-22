@@ -4600,7 +4600,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 267272,
       "name": "Ek Din Title Track (Female) - From \"Ek Din\"",
       "url": "https://open.spotify.com/track/3kO4Zzo9tKkoq2iNElaPIz"
@@ -6312,6 +6312,24 @@
       "duration_ms": 267348,
       "name": "Jaan Da (Rab Ki Dua)",
       "url": "https://open.spotify.com/track/3BPckr3N2JP5gJogeKhA5w"
+    },
+    {
+      "album": {
+        "name": "Jaan lutaaun",
+        "url": "https://open.spotify.com/album/7zRTeFOgQlGQNK5xBTXBIS"
+      },
+      "artists": [
+        {
+          "name": "Utsavi Jha",
+          "url": "https://open.spotify.com/artist/51pcy004juIDA1mruOZJCX"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 253913,
+      "name": "Jaan lutaaun",
+      "url": "https://open.spotify.com/track/1AN89gHhSIhIROl06qodK5"
     },
     {
       "album": {
@@ -8900,7 +8918,7 @@
       ],
       "date_added": "2026-07-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 169014,
       "name": "Madhaniya",
       "url": "https://open.spotify.com/track/2G2Hj6kWQbD81whGiagW99"
@@ -12426,6 +12444,32 @@
       "duration_ms": 268800,
       "name": "Raahein Mili",
       "url": "https://open.spotify.com/track/6whyLoWqg7VjsGh2QCBMjW"
+    },
+    {
+      "album": {
+        "name": "Raanjha Ve",
+        "url": "https://open.spotify.com/album/1aKRuchDESVVFxttPnSl9i"
+      },
+      "artists": [
+        {
+          "name": "Tulsi Kumar",
+          "url": "https://open.spotify.com/artist/0T1CMVkqffHlqEk4BcAph1"
+        },
+        {
+          "name": "Abhijeet Srivastava",
+          "url": "https://open.spotify.com/artist/4FJhE5ToBQGzOGf0D5Xd1C"
+        },
+        {
+          "name": "Shayra Apoorva",
+          "url": "https://open.spotify.com/artist/2l6dWCvNtJVgvF2oR7kUg8"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 173043,
+      "name": "Raanjha Ve",
+      "url": "https://open.spotify.com/track/1H0f09c2KuSuXMfF0scX5j"
     },
     {
       "album": {

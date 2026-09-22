@@ -1,6 +1,6 @@
 {
   "description": "Celebrate the season with these fun and spooky tracks",
-  "num_followers": 69079,
+  "num_followers": 69076,
   "original_name": "Trick or Treat",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,22 @@
     {
       "added_at": "2026-08-31 16:10:03",
       "album": {
+        "name": "Halloween Songs",
+        "url": "https://open.spotify.com/album/50abt8Xr5dP4kKPIaIM4pm"
+      },
+      "artists": [
+        {
+          "name": "Pinkfong",
+          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
+        }
+      ],
+      "duration_ms": 80262,
+      "name": "The Skeleton Band",
+      "url": "https://open.spotify.com/track/68KxYt2b1mUhSjmm5XeFFU"
+    },
+    {
+      "added_at": "2026-08-31 16:10:03",
+      "album": {
         "name": "Trick-or-Treat on Sesame Street!",
         "url": "https://open.spotify.com/album/1Jwgbv1N5Bg7QaL4qKsnqK"
       },
@@ -707,22 +723,6 @@
       "duration_ms": 89773,
       "name": "Sesame Street Baby Band: Peek-a-Boo Pumpkins",
       "url": "https://open.spotify.com/track/2223h9RsHmtTFQPz3cK4c2"
-    },
-    {
-      "added_at": "2026-08-31 16:10:03",
-      "album": {
-        "name": "Halloween Songs",
-        "url": "https://open.spotify.com/album/50abt8Xr5dP4kKPIaIM4pm"
-      },
-      "artists": [
-        {
-          "name": "Pinkfong",
-          "url": "https://open.spotify.com/artist/7cTXfwpe9peK0UE1bZyIWZ"
-        }
-      ],
-      "duration_ms": 80262,
-      "name": "The Skeleton Band",
-      "url": "https://open.spotify.com/track/68KxYt2b1mUhSjmm5XeFFU"
     },
     {
       "added_at": "2026-08-31 16:10:03",

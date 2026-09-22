@@ -1,6 +1,6 @@
 {
   "description": "\ud55c\uacc4\ub97c \ub6f0\uc5b4\ub118\ub294 \ub2f9\uc2e0\uc744 \uc6b4\ub3d9\uc744 \uc704\ud558\uc5ec.",
-  "num_followers": 21773,
+  "num_followers": 21780,
   "original_name": "3\ub300 1000",
   "owner": {
     "name": "Spotify",
@@ -519,6 +519,26 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "act ii: date @ 8 (feat. Drake) [remix]",
+        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
+      },
+      "artists": [
+        {
+          "name": "4batz",
+          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
+        },
+        {
+          "name": "Drake",
+          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
+        }
+      ],
+      "duration_ms": 231338,
+      "name": "act ii: date @ 8 (feat. Drake) - remix",
+      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "Game Time (FIFA World Cup 2026\u2122)",
         "url": "https://open.spotify.com/album/2IrLgCHorjIvyYuZXiMY2e"
       },
@@ -539,26 +559,6 @@
       "duration_ms": 206166,
       "name": "Game Time",
       "url": "https://open.spotify.com/track/4KIRA3oOWWyYhuQkuoHnFr"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "act ii: date @ 8 (feat. Drake) [remix]",
-        "url": "https://open.spotify.com/album/7luH8lI8B6c4r3TxLJ2aU1"
-      },
-      "artists": [
-        {
-          "name": "4batz",
-          "url": "https://open.spotify.com/artist/5fi7lIgJGH3RgUpJYcffQ7"
-        },
-        {
-          "name": "Drake",
-          "url": "https://open.spotify.com/artist/3TVXtAsR1Inumwj472S9r4"
-        }
-      ],
-      "duration_ms": 231338,
-      "name": "act ii: date @ 8 (feat. Drake) - remix",
-      "url": "https://open.spotify.com/track/3QS9ZCtoSCJhmaJ7QNXSAS"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1751,46 +1751,6 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
-        "name": "Way Out (feat. Big Sean)",
-        "url": "https://open.spotify.com/album/4TEJbgC8t4vVyIhDyxA6DU"
-      },
-      "artists": [
-        {
-          "name": "Jack Harlow",
-          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
-        },
-        {
-          "name": "Big Sean",
-          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
-        }
-      ],
-      "duration_ms": 168906,
-      "name": "Way Out (feat. Big Sean)",
-      "url": "https://open.spotify.com/track/6rLi6PyWXu1rPlShuIZpj6"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
-        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
-      },
-      "artists": [
-        {
-          "name": "YOON MIRAE",
-          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
-        },
-        {
-          "name": "BIBI",
-          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
-        }
-      ],
-      "duration_ms": 189373,
-      "name": "LAW (Prod. Czaer)",
-      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
         "name": "SHOW ME THE MONEY 11 Episode 1",
         "url": "https://open.spotify.com/album/4Jghep0PatLW7okdHbZBfy"
       },
@@ -1831,6 +1791,62 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "Street Man Fighter Original Vol.3 (Mission by Rank)",
+        "url": "https://open.spotify.com/album/54UUQN3j32n8TA2OJxTcHP"
+      },
+      "artists": [
+        {
+          "name": "YOON MIRAE",
+          "url": "https://open.spotify.com/artist/1Do4bSzfUl0KWL9r1fITu0"
+        },
+        {
+          "name": "BIBI",
+          "url": "https://open.spotify.com/artist/6UbmqUEgjLA6jAcXwbM1Z9"
+        }
+      ],
+      "duration_ms": 189373,
+      "name": "LAW (Prod. Czaer)",
+      "url": "https://open.spotify.com/track/0VES0jpNQEdRpD31gYDIMe"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Way Out (feat. Big Sean)",
+        "url": "https://open.spotify.com/album/4TEJbgC8t4vVyIhDyxA6DU"
+      },
+      "artists": [
+        {
+          "name": "Jack Harlow",
+          "url": "https://open.spotify.com/artist/2LIk90788K0zvyj2JJVwkJ"
+        },
+        {
+          "name": "Big Sean",
+          "url": "https://open.spotify.com/artist/0c173mlxpT3dSFRgMO8XPh"
+        }
+      ],
+      "duration_ms": 168906,
+      "name": "Way Out (feat. Big Sean)",
+      "url": "https://open.spotify.com/track/6rLi6PyWXu1rPlShuIZpj6"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
+        "name": "Show Me The Money 12 Semi Final",
+        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 274000,
+      "name": "ON to the next (Prod. by Crush, ZICO)",
+      "url": "https://open.spotify.com/track/63JNA2B4qHmoedZCthpo0e"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "K-FLIP",
         "url": "https://open.spotify.com/album/2TJE6Xv4CZ5560So8iC48N"
       },
@@ -1855,22 +1871,6 @@
       "duration_ms": 189016,
       "name": "PUBLIC ENEMY (Feat. Roh Yun Ha, Wuuslime)",
       "url": "https://open.spotify.com/track/0k4IMjv3mF9LlphfeG8ZjA"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "Show Me The Money 12 Semi Final",
-        "url": "https://open.spotify.com/album/4mj2mIydZYvONlklytC17S"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 274000,
-      "name": "ON to the next (Prod. by Crush, ZICO)",
-      "url": "https://open.spotify.com/track/63JNA2B4qHmoedZCthpo0e"
     },
     {
       "added_at": "2026-06-29 08:20:19",
@@ -1955,6 +1955,22 @@
     {
       "added_at": "2026-06-29 08:20:19",
       "album": {
+        "name": "Yarrr",
+        "url": "https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ"
+      },
+      "artists": [
+        {
+          "name": "HAON",
+          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
+        }
+      ],
+      "duration_ms": 166999,
+      "name": "Yarrr",
+      "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"
+    },
+    {
+      "added_at": "2026-06-29 08:20:19",
+      "album": {
         "name": "Show Me The Money 12 Episode 2",
         "url": "https://open.spotify.com/album/1rLmqXt57Fcdp6MCVhAgTJ"
       },
@@ -1971,22 +1987,6 @@
       "duration_ms": 221197,
       "name": "EMERGENCY (Feat. J-Tong) (Prod. by Hukky Shibaseki)",
       "url": "https://open.spotify.com/track/4sKfiEkA7eCO0aztGv7kY7"
-    },
-    {
-      "added_at": "2026-06-29 08:20:19",
-      "album": {
-        "name": "Yarrr",
-        "url": "https://open.spotify.com/album/2xMOUARfRlDtpJD1PlCNtQ"
-      },
-      "artists": [
-        {
-          "name": "HAON",
-          "url": "https://open.spotify.com/artist/2krUNMgFZYm5s4Nn0g91W9"
-        }
-      ],
-      "duration_ms": 166999,
-      "name": "Yarrr",
-      "url": "https://open.spotify.com/track/4BT0LtYtDN8bBaCPN0CPo1"
     },
     {
       "added_at": "2026-06-29 08:20:19",

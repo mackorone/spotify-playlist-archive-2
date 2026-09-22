@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 
 > This is Black Coffee\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 202,121 likes - 49 songs - 5 hr 3 min
+[Spotify](https://open.spotify.com/user/spotify) - 202,168 likes - 49 songs - 5 hr 3 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -27,9 +27,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 17 | [Afraid Of The Dark](https://open.spotify.com/track/6SJgKMpTkkS3A7OTOOpOo6) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Nathan Adams](https://open.spotify.com/artist/4Qc2hTBOx11WvgZMK2M4O9) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 7:10 |
 | 18 | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/track/6tfXgZjluaSYht2GwnEw21) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Msaki](https://open.spotify.com/artist/5Oj5jQ98vsoHeIGqCS9Dfq) | [Wish You Were Here \(feat\. Msaki\)](https://open.spotify.com/album/17ER4tyUvz7mziBC55UBF3) | 4:32 |
 | 19 | [Africa Shine](https://open.spotify.com/track/2OQkQAJk9NEotTdt0DmIUS) | [Mi Casa](https://open.spotify.com/artist/6c7bGIcrxaMdYSn6htbHj0), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [Su Casa](https://open.spotify.com/album/0JnhG5mHpSHvdCQnzM3egu) | 5:26 |
-| 20 | [Come With Me \(feat\. Mque\)](https://open.spotify.com/track/0rI2QuTpF9jhXlfFjunPdd) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mque](https://open.spotify.com/artist/00LCD7uFxO2uUr4tmSoyKU) | [Come With Me \(feat\. Mque\)](https://open.spotify.com/album/3UU3FEti8TEKa1eD0zBSMS) | 3:17 |
+| 20 | [Gardens Of Eden](https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:11 |
 | 21 | [Keep Moving](https://open.spotify.com/track/0R1OKth6oLvhDDvjBoHxWW) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Kenny Bobien](https://open.spotify.com/artist/6UaZuYX5K6yNTinUTBCWDS) | [Africa Rising](https://open.spotify.com/album/1GdL8XkbVTTVQPORBzmcMp) | 6:54 |
-| 22 | [Gardens Of Eden](https://open.spotify.com/track/2ULJ82U9boJhUMi2yzgpuD) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Zonke](https://open.spotify.com/artist/1eBaQkCXWlq1vhCLMVFdqn) | [Home Brewed](https://open.spotify.com/album/4z9UkNYW3T0EZzcGNjBsSz) | 6:11 |
+| 22 | [Come With Me \(feat\. Mque\)](https://open.spotify.com/track/0rI2QuTpF9jhXlfFjunPdd) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Mque](https://open.spotify.com/artist/00LCD7uFxO2uUr4tmSoyKU) | [Come With Me \(feat\. Mque\)](https://open.spotify.com/album/3UU3FEti8TEKa1eD0zBSMS) | 3:17 |
 | 23 | [Your Eyes \(feat\. Shekhinah\)](https://open.spotify.com/track/2vaVwhktMuNE2jcM2j1RxJ) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Shekhinah](https://open.spotify.com/artist/1F42GOcKAImOu4yj1b04NB) | [Your Eyes \(feat\. Shekhinah\)](https://open.spotify.com/album/0HnnOQnucn7fZMlZuQKhNf) | 4:10 |
 | 24 | [Muyè \(Black Coffee Remix\)](https://open.spotify.com/track/4rSpUjqW7KTn4Whk9vEIv5) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Keinemusik](https://open.spotify.com/artist/26WKgv73kRHD0gEDKD1i8j) | [Sónar 25: An advanced music mixtape by Black Coffee](https://open.spotify.com/album/1xz36Gipe1dJJ1UNiFJviJ) | 7:20 |
 | 25 | [I'm Fallin \(feat\. RY X\)](https://open.spotify.com/track/5QnQSKDvXTvJzfHQDikskY) | [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [RY X](https://open.spotify.com/artist/2KjAo6wVc9d2WcxdxSArpV) | [Subconsciously](https://open.spotify.com/album/0sbLrd4onsuXXjd1f8uMzS) | 7:42 |
@@ -58,4 +58,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO3R5f8c.md) - [plain]
 | 48 | [Ready For The World \- Original Mix](https://open.spotify.com/track/2C5nA4hmzjzWPp8QW82pdo) | [Darque](https://open.spotify.com/artist/5ktaq0WEJHPcb5xo7uq105), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc), [Kaylow](https://open.spotify.com/artist/6nQFuQO2dqH8JR9ZhN0IyH) | [Ready For The World](https://open.spotify.com/album/02PUNZUgLIbRwg2QVKEfAN) | 7:53 |
 | 49 | [There's Music in the Air](https://open.spotify.com/track/2Eg5ArHjWEzUMnjishGZQK) | [Ami Faku](https://open.spotify.com/artist/3flcjKgRCeBVZTR8n8iShE), [Gallo Remixed](https://open.spotify.com/artist/3Pikdk5QNs7tCeudmFAyM8), [Black Coffee](https://open.spotify.com/artist/6wMr4zKPrrR0UVz08WtUWc) | [There's Music in the Air](https://open.spotify.com/album/3y0xLQNdKdxlrKzVmmvbYS) | 3:54 |
 
-Snapshot ID: `aq3QgAAAAABnVm7+XRfP4+5ld+pwxYzI`
+Snapshot ID: `aq8iAAAAAACBscRddkenA/6uN85qusor`

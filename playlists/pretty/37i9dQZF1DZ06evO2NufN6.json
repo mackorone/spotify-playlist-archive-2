@@ -1,12 +1,12 @@
 {
   "description": "This is Mac Miller. The essential tracks, all in one playlist.",
-  "num_followers": 1002702,
+  "num_followers": 1002778,
   "original_name": "This Is Mac Miller",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAC/4yl7wwNkI7cCXhTGYhDt",
+  "snapshot_id": "aq8iAAAAAAD5loegb5hF8x8d/O+7v114",
   "tracks": [
     {
       "added_at": null,
@@ -379,22 +379,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Live From Space",
-        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
-      },
-      "artists": [
-        {
-          "name": "Mac Miller",
-          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
-        }
-      ],
-      "duration_ms": 195453,
-      "name": "Life",
-      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "K.I.D.S. (Deluxe)",
         "url": "https://open.spotify.com/album/70Zkfb99ladZ3q0JVg97co"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 197929,
       "name": "Knock Knock",
       "url": "https://open.spotify.com/track/6AjXmTomWUWZ6Za0X6ypjl"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Live From Space",
+        "url": "https://open.spotify.com/album/4SRDdI1KeTePYz4R3Padx8"
+      },
+      "artists": [
+        {
+          "name": "Mac Miller",
+          "url": "https://open.spotify.com/artist/4LLpKhyESsyAXpc4laK94U"
+        }
+      ],
+      "duration_ms": 195453,
+      "name": "Life",
+      "url": "https://open.spotify.com/track/01juI6Hbx2KNaQCRY14kzz"
     },
     {
       "added_at": null,

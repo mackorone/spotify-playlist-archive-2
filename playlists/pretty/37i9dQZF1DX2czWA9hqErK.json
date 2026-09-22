@@ -1,6 +1,6 @@
 {
   "description": "Soft edges and slow motion moments \ud83e\udeb4",
-  "num_followers": 1309679,
+  "num_followers": 1309576,
   "original_name": "Easy",
   "owner": {
     "name": "Spotify",
@@ -667,6 +667,22 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
+        "name": "I Can\u2019t Believe We Never Went Out Dancing",
+        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
+      },
+      "artists": [
+        {
+          "name": "Sebastian Schub",
+          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
+        }
+      ],
+      "duration_ms": 224093,
+      "name": "I Can\u2019t Believe We Never Went Out Dancing",
+      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
         "name": "Shawn",
         "url": "https://open.spotify.com/album/5FYFgRnlsl9Qrm1xD8cqo7"
       },
@@ -695,22 +711,6 @@
       "duration_ms": 242240,
       "name": "No Way To Relax When You Are On Fire",
       "url": "https://open.spotify.com/track/5HSlL9XmvYOVDynR2E13vc"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
-        "name": "I Can\u2019t Believe We Never Went Out Dancing",
-        "url": "https://open.spotify.com/album/1MenqIX29GExcRwMxEqkhE"
-      },
-      "artists": [
-        {
-          "name": "Sebastian Schub",
-          "url": "https://open.spotify.com/artist/2tHFi6J76BSMMB6VyWIOeS"
-        }
-      ],
-      "duration_ms": 224093,
-      "name": "I Can\u2019t Believe We Never Went Out Dancing",
-      "url": "https://open.spotify.com/track/3lHK21L8Kf4Ajdwhjh0zDm"
     },
     {
       "added_at": "2026-04-16 23:00:52",
@@ -911,22 +911,6 @@
     {
       "added_at": "2026-04-16 23:00:52",
       "album": {
-        "name": "Shhugar",
-        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
-      },
-      "artists": [
-        {
-          "name": "Baby Nova",
-          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
-        }
-      ],
-      "duration_ms": 213552,
-      "name": "Dodge",
-      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
-    },
-    {
-      "added_at": "2026-04-16 23:00:52",
-      "album": {
         "name": "Old Man",
         "url": "https://open.spotify.com/album/7kAoW0zL7wkpCrkMk1lFP5"
       },
@@ -939,6 +923,22 @@
       "duration_ms": 207242,
       "name": "Old Man",
       "url": "https://open.spotify.com/track/5KjR1RHch1sHoG7kr5Aazg"
+    },
+    {
+      "added_at": "2026-04-16 23:00:52",
+      "album": {
+        "name": "Shhugar",
+        "url": "https://open.spotify.com/album/52ktymYrZxeaE07TNU39yk"
+      },
+      "artists": [
+        {
+          "name": "Baby Nova",
+          "url": "https://open.spotify.com/artist/2dvThKiNFqpd5CVFCtJuFf"
+        }
+      ],
+      "duration_ms": 213552,
+      "name": "Dodge",
+      "url": "https://open.spotify.com/track/0vNVin6XAa7EU6SGABR1gc"
     },
     {
       "added_at": "2026-04-16 23:00:52",

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/3rXMJJovziaMDuWRKpDI6f">Gianluca Buccellati</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-[Spotify](https://open.spotify.com/user/spotify) - 138 likes - 295 songs - 16 hr 47 min
+[Spotify](https://open.spotify.com/user/spotify) - 137 likes - 295 songs - 16 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -53,8 +53,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 43 | [ZaZa and Some Runtz \(Smoke Break\)](https://open.spotify.com/track/2gy4zjdL4S1nfuq2sVjz6e) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [Zaza and Some Runtz \(Smoke Break\)](https://open.spotify.com/album/0NZqrTCRCx9yxtCJx99z2e) | 3:19 |
 | 44 | [So Long](https://open.spotify.com/track/3wdWnJbBPFExinktlqD4d7) | [Danielle Ponder](https://open.spotify.com/artist/5rZUNweztKBI1Xy3XhYHoJ) | [Some Of Us Are Brave](https://open.spotify.com/album/3U9lnLFMvyzJfBq6Twv06y) | 2:23 |
 | 45 | [Combat](https://open.spotify.com/track/6pHIEG8q0I4jCuUVHC3s3m) | [Hazel English](https://open.spotify.com/artist/1nEGjL7aMVdNQzsfQPKdGr) | [Wake UP!](https://open.spotify.com/album/2hfCUR15idZb8Keg95B6qQ) | 3:48 |
-| 46 | [Warm in These Blue Jeans](https://open.spotify.com/track/3Gs1GKlY3g9Z3ufw0suxZH) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 5:29 |
-| 47 | [Memories](https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:48 |
+| 46 | [Memories](https://open.spotify.com/track/2Zy3t3v5NntHzEQW3NEd8K) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:48 |
+| 47 | [Warm in These Blue Jeans](https://open.spotify.com/track/3Gs1GKlY3g9Z3ufw0suxZH) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 5:29 |
 | 48 | [IDC](https://open.spotify.com/track/0GRrL3cbw4TiZTtTU1xaXd) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [WTF is even going on?](https://open.spotify.com/album/6zIhi4GkAn9OAZ1BCAZh2H) | 3:45 |
 | 49 | [Everybody's Safe Until…](https://open.spotify.com/track/1bH7cCjye8VYaujXBsvFEs) | [Paris Texas](https://open.spotify.com/artist/1SCrMreNPJYSRZIlRe9SUq) | [MID AIR](https://open.spotify.com/album/1ohUa4biJdcAhjnEbOOXYy) | 3:39 |
 | 50 | [See Me](https://open.spotify.com/track/2Tv7pZ9R4gJH0yW1VztyTB) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Verde](https://open.spotify.com/album/4UgPnKsu5oqfJSaK4kkLT1) | 4:32 |
@@ -115,22 +115,22 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 105 | [Personal](https://open.spotify.com/track/2nXa9R1HW85cFPDFxmnutP) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 4:19 |
 | 106 | [Joyride](https://open.spotify.com/track/4j6RgRpQ6HC4JsOUcjwVtN) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 2:55 |
 | 107 | [Freedom](https://open.spotify.com/track/0liZik8sBnhhlPrKt2Cdb7) | [Rasharn Powell](https://open.spotify.com/artist/0nfrbmmHxz4F91hpj1zUDw) | [Dusk & Dawn](https://open.spotify.com/album/24XhQKZKEEkfnwmjtejd36) | 3:35 |
-| 108 | [Beautiful Life](https://open.spotify.com/track/4kTdMaRfj7X032F1T6iv8o) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:50 |
-| 109 | [Ember](https://open.spotify.com/track/6KLZxWLnzXC8QLMF0iKTqm) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 2:40 |
-| 110 | [Tools](https://open.spotify.com/track/5r4DoowFEsJnhJLbZP2peg) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Tools](https://open.spotify.com/album/41L5bBrS0JOtEIU8xleJTZ) | 4:20 |
-| 111 | [Smoov](https://open.spotify.com/track/3wyhEjLpW8f4uJ2I88rA01) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:32 |
-| 112 | [Sleepy](https://open.spotify.com/track/6wT9GWmTMFSiR1AApuNKbG) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 4:26 |
-| 113 | [Lobster](https://open.spotify.com/track/69AlqL0LKvcc67srWDfE1w) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Oh! The Ocean](https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3) | 4:47 |
-| 114 | [It's Alright](https://open.spotify.com/track/4iCZIqJRspJ2N3N9c6ZuLN) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:51 |
-| 115 | [Lift Me](https://open.spotify.com/track/01qhpruXoanTD2p3srAWeE) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:33 |
-| 116 | [Reload](https://open.spotify.com/track/7MO410RG5hwbx7MNzpDFQ0) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:05 |
-| 117 | [Swimming](https://open.spotify.com/track/2yMxR5cpkZ9StrP79br3tN) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:01 |
-| 118 | [In Motion](https://open.spotify.com/track/0N6xvbX8lsB8u9Q9B6rJgt) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:07 |
-| 119 | [Like Flowers](https://open.spotify.com/track/1SraEfccIhpiLKrako6kQH) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:52 |
-| 120 | [Radio](https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:40 |
-| 121 | [Canyon Nights](https://open.spotify.com/track/2P3XEzMYI4mzb4ncbS0nC9) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Album II: The Land Of The Twisted Tree](https://open.spotify.com/album/6oKdKdacgWZBqmeqvp0thB) | 3:09 |
-| 122 | [Powerlines](https://open.spotify.com/track/7uvsxYvJwAGTdxMNJrgtbQ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:58 |
-| 123 | [Satellite](https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 4:45 |
+| 108 | [It's Alright](https://open.spotify.com/track/4iCZIqJRspJ2N3N9c6ZuLN) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:51 |
+| 109 | [Beautiful Life](https://open.spotify.com/track/4kTdMaRfj7X032F1T6iv8o) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 3:50 |
+| 110 | [Ember](https://open.spotify.com/track/6KLZxWLnzXC8QLMF0iKTqm) | [Colouring](https://open.spotify.com/artist/0p4HbDx1JTF3QLaBznAOrU) | [Wake](https://open.spotify.com/album/2GW5H0LObDv7faLyzGgMQi) | 2:40 |
+| 111 | [Tools](https://open.spotify.com/track/5r4DoowFEsJnhJLbZP2peg) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Tools](https://open.spotify.com/album/41L5bBrS0JOtEIU8xleJTZ) | 4:20 |
+| 112 | [In Motion](https://open.spotify.com/track/0N6xvbX8lsB8u9Q9B6rJgt) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 3:07 |
+| 113 | [Radio](https://open.spotify.com/track/4twr2sQAmUk6wuQy3Qcrbe) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:40 |
+| 114 | [Smoov](https://open.spotify.com/track/3wyhEjLpW8f4uJ2I88rA01) | [carpetgarden](https://open.spotify.com/artist/1rw5Io28PBVxMjikCwvevG) | [The Way He Looks](https://open.spotify.com/album/7pSgyeEXgLRpqhQWP6fyUJ) | 3:32 |
+| 115 | [Satellite](https://open.spotify.com/track/2tfzV1WcXJIb19GtcuIiVk) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 4:45 |
+| 116 | [Powerlines](https://open.spotify.com/track/7uvsxYvJwAGTdxMNJrgtbQ) | [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB), [Brendan Yates](https://open.spotify.com/artist/4AJe4qjJG5DrDEN7Ijz6Ar) | [Pylon](https://open.spotify.com/album/310lmJwtNvQv6SERdmD34Z) | 2:58 |
+| 117 | [Sleepy](https://open.spotify.com/track/6wT9GWmTMFSiR1AApuNKbG) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 4:26 |
+| 118 | [Lobster](https://open.spotify.com/track/69AlqL0LKvcc67srWDfE1w) | [The Wombats](https://open.spotify.com/artist/0Ya43ZKWHTKkAbkoJJkwIB) | [Oh! The Ocean](https://open.spotify.com/album/7jilN3HePAwS9COlqpSRR3) | 4:47 |
+| 119 | [Lift Me](https://open.spotify.com/track/01qhpruXoanTD2p3srAWeE) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:33 |
+| 120 | [Reload](https://open.spotify.com/track/7MO410RG5hwbx7MNzpDFQ0) | [Bien et Toi](https://open.spotify.com/artist/4suQx12DObcRABlwiuA96a), [Deyaz](https://open.spotify.com/artist/1wHWfSUySUXQV73PnpUBUc) | [London Safari II](https://open.spotify.com/album/40i9mNYIToCCPlKlKHXrZZ) | 2:05 |
+| 121 | [Swimming](https://open.spotify.com/track/2yMxR5cpkZ9StrP79br3tN) | [Terry Presume](https://open.spotify.com/artist/4JLuMu6NZUAU8gYhrzvOdX) | [What Box?](https://open.spotify.com/album/6zxHzgT0fKSMEgIi7BpoyQ) | 3:01 |
+| 122 | [Like Flowers](https://open.spotify.com/track/1SraEfccIhpiLKrako6kQH) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 2:52 |
+| 123 | [Canyon Nights](https://open.spotify.com/track/2P3XEzMYI4mzb4ncbS0nC9) | [Mike Sabath](https://open.spotify.com/artist/3UTCjjwxYJioyA39EX6ciu) | [Album II: The Land Of The Twisted Tree](https://open.spotify.com/album/6oKdKdacgWZBqmeqvp0thB) | 3:09 |
 | 124 | [let me breathe](https://open.spotify.com/track/6LuzSmPOOdA49bNE12ZTNo) | [sophie meiers](https://open.spotify.com/artist/4Qz5J3GBpmR1LcPgqFbzlW) | [shine\_\_space](https://open.spotify.com/album/6J0wi27wJvDbgGXpY42NES) | 3:05 |
 | 125 | [Your World](https://open.spotify.com/track/3UZbuunCmiobKhA3m38pea) | [Tei Shi](https://open.spotify.com/artist/1xcMOgFUM1IYZE22YjCvsL) | [Crawl Space](https://open.spotify.com/album/0j72ioWBnqYdL0jiihyNhf) | 3:55 |
 | 126 | [Solar Laws](https://open.spotify.com/track/7BEdiZEtJXLLSB67poYnc6) | [Yellerkin](https://open.spotify.com/artist/1GTLJyjWcb9wvimjnYtA3m) | [Solar Laws](https://open.spotify.com/album/5PiqqtRN16GSnGpM1qGw2b) | 4:45 |
@@ -274,8 +274,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 264 | [Sleeping Through It All](https://open.spotify.com/track/570t0wn5CYRqsMVh2dk8fn) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 1:58 |
 | 265 | [Lipstick](https://open.spotify.com/track/2m7NmDAmBpLGfFCZYkCgIb) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 3:44 |
 | 266 | [Heaven](https://open.spotify.com/track/26EFvel8n1Ky0uba3Ll67H) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:38 |
-| 267 | [Temptation](https://open.spotify.com/track/2GU4Z4apsGkS3YRUewQYU6) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 5:29 |
-| 268 | [Pressure](https://open.spotify.com/track/6i6dlak8cGUP1I9Owj9zPq) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:19 |
+| 267 | [Pressure](https://open.spotify.com/track/6i6dlak8cGUP1I9Owj9zPq) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Hang Up the Lights](https://open.spotify.com/album/2BA3GdQiKcy2OWSo18Otfb) | 3:19 |
+| 268 | [Temptation](https://open.spotify.com/track/2GU4Z4apsGkS3YRUewQYU6) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 5:29 |
 | 269 | [Beach Bum Palace](https://open.spotify.com/track/16aXAgdJ1gYnX4PB60h9KZ) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [Vibes](https://open.spotify.com/album/7tX62HHF8Z0I9NjGs4oG2x) | 4:28 |
 | 270 | [Bleed Me Dry](https://open.spotify.com/track/71vxHUZHN4EaThI2OHa9mI) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 3:16 |
 | 271 | [West Side Love](https://open.spotify.com/track/2NJPwg17EXbo8inxwwHMgl) | [White China](https://open.spotify.com/artist/5BN7KGVNvNFLWYw8mKrrNo) | [II](https://open.spotify.com/album/0IBDCndoIcB4quZYHLg8XW) | 4:26 |
@@ -304,4 +304,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1EFxZW2LNzoiFP.md) - [plain]
 | 294 | [Shame](https://open.spotify.com/track/7CtHfnRGEwcbN0aGr8WIJn) | [Rén with the Mane](https://open.spotify.com/artist/5XjRRITmUnTJXsOYjfbOlD) | [Shame](https://open.spotify.com/album/4q7m1vMzZ3vzjXUm13R6gf) | 4:23 |
 | 295 | [SPIKE JONZE](https://open.spotify.com/track/1jUlAFuYm0iTbfy8neFL1P) | [SUNFEELS](https://open.spotify.com/artist/3CcplobEljGcerDRDbMJKl) | [SUNFEELS](https://open.spotify.com/album/0jmXQK0xYNCeigwyhgC5Op) | 1:27 |
 
-Snapshot ID: `Acc2BgAAAAD/xR20RVOdwmrFxtEplpRo`
+Snapshot ID: `Acc7ugAAAADaUa0djzfvwA3GY8u8UOpQ`

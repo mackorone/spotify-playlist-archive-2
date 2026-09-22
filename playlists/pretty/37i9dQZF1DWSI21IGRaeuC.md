@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 
 > the deep & minimal side of house & tech ⛏️⛏️  <br/>featuring Josh Baker
 
-[Spotify](https://open.spotify.com/user/spotify) - 90,694 likes - 120 songs - 6 hr 48 min
+[Spotify](https://open.spotify.com/user/spotify) - 90,778 likes - 120 songs - 6 hr 47 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,9 +17,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 7 | [Want U Back](https://open.spotify.com/track/3qk3Sf3hnnSBIfWTjpB9Kv) | [Skeptic](https://open.spotify.com/artist/1b3IrBNhhpCTXFoJDA8DfI) | [Want U Back](https://open.spotify.com/album/64kspokjua1DDfhiuYoIeb) | 2:35 |
 | 8 | [Closure \- Soulfreq Remix](https://open.spotify.com/track/30JxmICN72zsldCJADryJj) | [Soulfreq](https://open.spotify.com/artist/0DYm4LvbfgVT9zgpHyat5o), [Carlos Real](https://open.spotify.com/artist/2tpI6dPH4iZwHgqCBl3mlT) | [Closure \(Soulfreq Remix\)](https://open.spotify.com/album/3RiOHKN8raZPjnVlyzNIAu) | 4:16 |
 | 9 | [Misery](https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn) | [Rossi.](https://open.spotify.com/artist/7itMGcVGRKS43LcTQvJitf) | [Misery](https://open.spotify.com/album/0KWx756J9ZMUPKq1WdVbrM) | 3:15 |
-| 10 | [Witty](https://open.spotify.com/track/6cKNCPypACC3mosprq9VQx) | [Kitty Hall](https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ) | [Witty](https://open.spotify.com/album/4bhf9v3REyvW96YzoY9Bh4) | 3:40 |
-| 11 | [As You Are](https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg) | [KDAY](https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC) | [The Arrival](https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl) | 3:31 |
-| 12 | [Sheetz](https://open.spotify.com/track/6BbT79lSfkd5rqLaaDN3Q8) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Energy Crew](https://open.spotify.com/album/1F4hYcrjNOuHqmitVgDQaT) | 3:21 |
+| 10 | [Sheetz](https://open.spotify.com/track/6BbT79lSfkd5rqLaaDN3Q8) | [Gaskin](https://open.spotify.com/artist/17uIxPZilMlZt3g31mL4sm) | [Energy Crew](https://open.spotify.com/album/1F4hYcrjNOuHqmitVgDQaT) | 3:21 |
+| 11 | [Bass Drop](https://open.spotify.com/track/5LOkqfRL9Wl6r7exO6Xm6P) | [AAT](https://open.spotify.com/artist/02B08CAGsMQ0y87xmg07M9) | [Bass Drop / Ready For You](https://open.spotify.com/album/3YQ3152ymIcpft2gZq5byU) | 3:18 |
+| 12 | [Witty](https://open.spotify.com/track/6cKNCPypACC3mosprq9VQx) | [Kitty Hall](https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ) | [Witty](https://open.spotify.com/album/4bhf9v3REyvW96YzoY9Bh4) | 3:40 |
 | 13 | [Another Night \- Ranger Trucco Remix](https://open.spotify.com/track/29Ryx73SRQjFLovbWRuG57) | [RUZE](https://open.spotify.com/artist/4UDibtvT2aaea2hEB3O3PP), [Chesster](https://open.spotify.com/artist/6YCbSjTwizmHBUBNjaqXlj), [Ranger Trucco](https://open.spotify.com/artist/36N80lh8tNu7XedcW55NC3) | [Another Night \(Ranger Trucco Remix\)](https://open.spotify.com/album/7p61COsWZOhuyy36degfBX) | 3:43 |
 | 14 | [In Your Atmosphere](https://open.spotify.com/track/41ODyVxJdKhRfSXhUlcgCT) | [DELACOUR](https://open.spotify.com/artist/3bFd5sav9N5kGzBklcXt6l) | [In Your Atmosphere](https://open.spotify.com/album/2SEKCUaPKm6ns4845s9dEu) | 3:27 |
 | 15 | [No Joke](https://open.spotify.com/track/0p1CghK2CZsvdTNXlOTuUX) | [Ben Griff](https://open.spotify.com/artist/0UBeWkZtGsqsGG83v4iCNZ) | [No Joke](https://open.spotify.com/album/19fK99qInBx1rJLqaCfvcC) | 3:29 |
@@ -129,4 +129,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSI21IGRaeuC.md) - [plain]
 | 119 | [Positive](https://open.spotify.com/track/0cZN3g7rtfNE6vsmX0k8OF) | [Jamback](https://open.spotify.com/artist/7n5VjDNd00Hy0ZDEGn0erB) | [Positive](https://open.spotify.com/album/4ZIJvPTy2VrVEUkc0FpdaI) | 2:49 |
 | 120 | [Touched](https://open.spotify.com/track/4b48Y7GyIThzRvLbDxlEHa) | [Louis Millne](https://open.spotify.com/artist/6oVWsUniV39LusFsC7axlb) | [Touched EP](https://open.spotify.com/album/3H8xdwZmthfEKUIFxb29Mu) | 4:02 |
 
-Snapshot ID: `AAAAAIger7pBS48bmiKWNrMhgLVLXK2b`
+Snapshot ID: `AAAAAN72LSq/VUaipYiDlGBI1glxmEVt`

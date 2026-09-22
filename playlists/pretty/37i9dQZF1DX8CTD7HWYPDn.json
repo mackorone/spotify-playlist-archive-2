@@ -1,6 +1,6 @@
 {
   "description": "Tu karaoke personal para darlo todo cantando.",
-  "num_followers": 1632272,
+  "num_followers": 1632170,
   "original_name": "Karaoke 2026",
   "owner": {
     "name": "Spotify",
@@ -1075,18 +1075,22 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Unity",
-        "url": "https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe"
+        "name": "F\u00e9nix",
+        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
       },
       "artists": [
         {
-          "name": "Big Mountain",
-          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
+          "name": "Nicky Jam",
+          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
+        },
+        {
+          "name": "Enrique Iglesias",
+          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
         }
       ],
-      "duration_ms": 249520,
-      "name": "Baby, I Love Your Way",
-      "url": "https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"
+      "duration_ms": 205906,
+      "name": "El Perd\u00f3n (with Enrique Iglesias)",
+      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1107,22 +1111,18 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "F\u00e9nix",
-        "url": "https://open.spotify.com/album/2dBgWXp41imu2zBNv9oFxZ"
+        "name": "Unity",
+        "url": "https://open.spotify.com/album/079QiYtMEMsGPv0TNAWZPe"
       },
       "artists": [
         {
-          "name": "Nicky Jam",
-          "url": "https://open.spotify.com/artist/1SupJlEpv7RS2tPNRaHViT"
-        },
-        {
-          "name": "Enrique Iglesias",
-          "url": "https://open.spotify.com/artist/7qG3b048QCHVRO5Pv1T5lw"
+          "name": "Big Mountain",
+          "url": "https://open.spotify.com/artist/0Jeckitay8SbvKwqAzWuYH"
         }
       ],
-      "duration_ms": 205906,
-      "name": "El Perd\u00f3n (with Enrique Iglesias)",
-      "url": "https://open.spotify.com/track/7qCAVkHWZkF44OzOUKf8Cr"
+      "duration_ms": 249520,
+      "name": "Baby, I Love Your Way",
+      "url": "https://open.spotify.com/track/2le9fblYnfoLr9dkZIsJUa"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1435,22 +1435,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "How Can You Mend A Broken Heart",
-        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
-      },
-      "artists": [
-        {
-          "name": "Bee Gees",
-          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
-        }
-      ],
-      "duration_ms": 285373,
-      "name": "Stayin Alive",
-      "url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "I Never Loved a Man the Way I Love You",
         "url": "https://open.spotify.com/album/5WndWfzGwCkHzAbQXVkg2V"
       },
@@ -1463,6 +1447,22 @@
       "duration_ms": 147600,
       "name": "Respect",
       "url": "https://open.spotify.com/track/7s25THrKz86DM225dOYwnr"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "How Can You Mend A Broken Heart",
+        "url": "https://open.spotify.com/album/4vAhQeeWkSjVn0p5GAaLBx"
+      },
+      "artists": [
+        {
+          "name": "Bee Gees",
+          "url": "https://open.spotify.com/artist/1LZEQNv7sE11VDY3SdxQeN"
+        }
+      ],
+      "duration_ms": 285373,
+      "name": "Stayin Alive",
+      "url": "https://open.spotify.com/track/5ubvP9oKmxLUVq506fgLhk"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
+        "name": "The Miseducation of Lauryn Hill",
+        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
+      },
+      "artists": [
+        {
+          "name": "Ms. Lauryn Hill",
+          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
+        }
+      ],
+      "duration_ms": 221466,
+      "name": "Can't Take My Eyes Off of You - (I Love You Baby)",
+      "url": "https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
         "name": "\u00bfQu\u00e9 pides t\u00fa?",
         "url": "https://open.spotify.com/album/2C7L4EkbJEfR7cJnQduvXr"
       },
@@ -1599,22 +1615,6 @@
       "duration_ms": 310866,
       "name": "Sin miedo a nada (feat. Amaia Montero)",
       "url": "https://open.spotify.com/track/0EA40dd5ghMqemzoqWvo3E"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
-        "name": "The Miseducation of Lauryn Hill",
-        "url": "https://open.spotify.com/album/1BZoqf8Zje5nGdwZhOjAtD"
-      },
-      "artists": [
-        {
-          "name": "Ms. Lauryn Hill",
-          "url": "https://open.spotify.com/artist/2Mu5NfyYm8n5iTomuKAEHl"
-        }
-      ],
-      "duration_ms": 221466,
-      "name": "Can't Take My Eyes Off of You - (I Love You Baby)",
-      "url": "https://open.spotify.com/track/2GFExyKXf9383tSRSrEHEt"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -1731,22 +1731,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Jazz (Deluxe Remastered Version)",
-        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
-      },
-      "artists": [
-        {
-          "name": "Queen",
-          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
-        }
-      ],
-      "duration_ms": 209413,
-      "name": "Don't Stop Me Now - Remastered 2011",
-      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Desde Abajo",
         "url": "https://open.spotify.com/album/7dhQWDiTlbp3Np8sdLMY3R"
       },
@@ -1759,6 +1743,22 @@
       "duration_ms": 177293,
       "name": "La Botella",
       "url": "https://open.spotify.com/track/3dtGHZyEGmKSmQoAPcbvyb"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Jazz (Deluxe Remastered Version)",
+        "url": "https://open.spotify.com/album/21HMAUrbbYSj9NiPPlGumy"
+      },
+      "artists": [
+        {
+          "name": "Queen",
+          "url": "https://open.spotify.com/artist/1dfeR4HaWDbWqFHLkxsg1d"
+        }
+      ],
+      "duration_ms": 209413,
+      "name": "Don't Stop Me Now - Remastered 2011",
+      "url": "https://open.spotify.com/track/7hQJA50XrCWABAu5v6QZ4i"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2451,22 +2451,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Andy Y Lucas",
-        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
-      },
-      "artists": [
-        {
-          "name": "Andy & Lucas",
-          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
-        }
-      ],
-      "duration_ms": 231813,
-      "name": "Son de Amores",
-      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Zapatillas",
         "url": "https://open.spotify.com/album/3dToFs6qDSWkR1HttqgpnF"
       },
@@ -2479,6 +2463,22 @@
       "duration_ms": 145826,
       "name": "Besos",
       "url": "https://open.spotify.com/track/7MKO7rUZzjw8p87zdZDgqa"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Andy Y Lucas",
+        "url": "https://open.spotify.com/album/4s4s0t7K2ZRwwcPvV2ohYm"
+      },
+      "artists": [
+        {
+          "name": "Andy & Lucas",
+          "url": "https://open.spotify.com/artist/4dqi10p8S91S2ChvcWsi1L"
+        }
+      ],
+      "duration_ms": 231813,
+      "name": "Son de Amores",
+      "url": "https://open.spotify.com/track/7BCer0V0I1CZDI6S6kYD44"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2531,22 +2531,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Mi Vida Es Cantar",
-        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
-      },
-      "artists": [
-        {
-          "name": "Celia Cruz",
-          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
-        }
-      ],
-      "duration_ms": 275253,
-      "name": "La Vida Es Un Carnaval",
-      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Estados de Animo",
         "url": "https://open.spotify.com/album/6Fs4ZLz6N8IZtXR20zjwjy"
       },
@@ -2559,6 +2543,22 @@
       "duration_ms": 209893,
       "name": "Una Foto en Blanco y Negro",
       "url": "https://open.spotify.com/track/1LuW4h5s9ZumBbMh7qhDDj"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Mi Vida Es Cantar",
+        "url": "https://open.spotify.com/album/2clEi9iP3VkzZzkydAjFDA"
+      },
+      "artists": [
+        {
+          "name": "Celia Cruz",
+          "url": "https://open.spotify.com/artist/2weA6hhVqTIN2gSn9PUB9U"
+        }
+      ],
+      "duration_ms": 275253,
+      "name": "La Vida Es Un Carnaval",
+      "url": "https://open.spotify.com/track/3Rjc14RoRucHhEWvv3W3xW"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -2611,22 +2611,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "Anthology: Jackson 5",
-        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
-      },
-      "artists": [
-        {
-          "name": "The Jackson 5",
-          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
-        }
-      ],
-      "duration_ms": 179226,
-      "name": "I Want You Back",
-      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "Just Another Band From East L.A.: A Collection",
         "url": "https://open.spotify.com/album/0BZQ56leyRCyZu3jdXMZ87"
       },
@@ -2639,6 +2623,22 @@
       "duration_ms": 172733,
       "name": "La Bamba",
       "url": "https://open.spotify.com/track/6uU5OBhGUE1ngSKDj4wtoq"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "Anthology: Jackson 5",
+        "url": "https://open.spotify.com/album/0EwhxzV0N61hu3S3PkB2Ku"
+      },
+      "artists": [
+        {
+          "name": "The Jackson 5",
+          "url": "https://open.spotify.com/artist/2iE18Oxc8YSumAU232n4rW"
+        }
+      ],
+      "duration_ms": 179226,
+      "name": "I Want You Back",
+      "url": "https://open.spotify.com/track/3tSi6iFO9yLGIYIqMEgjC9"
     },
     {
       "added_at": "2026-03-17 11:58:46",
@@ -3075,22 +3075,6 @@
     {
       "added_at": "2026-03-17 11:58:46",
       "album": {
-        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [International Version]",
-        "url": "https://open.spotify.com/album/5lNzygOpCmzRx4N301icBB"
-      },
-      "artists": [
-        {
-          "name": "Black Eyed Peas",
-          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
-        }
-      ],
-      "duration_ms": 289133,
-      "name": "I Gotta Feeling",
-      "url": "https://open.spotify.com/track/70cTMpcgWMcR18t9MRJFjB"
-    },
-    {
-      "added_at": "2026-03-17 11:58:46",
-      "album": {
         "name": "No Need To Argue",
         "url": "https://open.spotify.com/album/5GugLrmYMl5VRoe2zNgLGp"
       },
@@ -3103,6 +3087,22 @@
       "duration_ms": 306426,
       "name": "Zombie",
       "url": "https://open.spotify.com/track/2IZZqH4K02UIYg5EohpNHF"
+    },
+    {
+      "added_at": "2026-03-17 11:58:46",
+      "album": {
+        "name": "THE E.N.D. (THE ENERGY NEVER DIES) [International Version]",
+        "url": "https://open.spotify.com/album/5lNzygOpCmzRx4N301icBB"
+      },
+      "artists": [
+        {
+          "name": "Black Eyed Peas",
+          "url": "https://open.spotify.com/artist/1yxSLGMDHlW21z4YXirZDS"
+        }
+      ],
+      "duration_ms": 289133,
+      "name": "I Gotta Feeling",
+      "url": "https://open.spotify.com/track/70cTMpcgWMcR18t9MRJFjB"
     },
     {
       "added_at": "2026-03-17 11:58:46",

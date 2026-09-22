@@ -1,6 +1,6 @@
 {
   "description": "Heavy beats for midnight drifting in Tokyo.",
-  "num_followers": 26697,
+  "num_followers": 26705,
   "original_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",
   "owner": {
     "name": "Spotify",
@@ -367,22 +367,6 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Selfish",
-        "url": "https://open.spotify.com/album/6F0eQIfRBLiX1ZmDNnn8uc"
-      },
-      "artists": [
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
-        }
-      ],
-      "duration_ms": 224437,
-      "name": "Selfish",
-      "url": "https://open.spotify.com/track/44WuchXFmBX72dU65OAhdg"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
         "name": "098RADIO vol.1 Hosted by Awich",
         "url": "https://open.spotify.com/album/3pI2uSbHBV35jRs5QsZyEs"
       },
@@ -407,6 +391,22 @@
       "duration_ms": 289846,
       "name": "RASEN in OKINAWA",
       "url": "https://open.spotify.com/track/7d5uA21GZEzdlnyP251Ou0"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
+        "name": "Selfish",
+        "url": "https://open.spotify.com/album/6F0eQIfRBLiX1ZmDNnn8uc"
+      },
+      "artists": [
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "duration_ms": 224437,
+      "name": "Selfish",
+      "url": "https://open.spotify.com/track/44WuchXFmBX72dU65OAhdg"
     },
     {
       "added_at": "2026-08-19 00:34:26",
@@ -463,6 +463,26 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
+        "name": "Kick Up (feat. ralph)",
+        "url": "https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT"
+      },
+      "artists": [
+        {
+          "name": "JUMADIBA",
+          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
+        }
+      ],
+      "duration_ms": 187696,
+      "name": "Kick Up (feat. ralph)",
+      "url": "https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc"
+    },
+    {
+      "added_at": "2026-08-19 00:34:26",
+      "album": {
         "name": "Assassin (feat. S.J.soldier & Carz) [Remix]",
         "url": "https://open.spotify.com/album/1AVLaWJ2CC1dWDKfOfsx7B"
       },
@@ -483,26 +503,6 @@
       "duration_ms": 204179,
       "name": "Assassin (feat. S.J.soldier & Carz) - Remix",
       "url": "https://open.spotify.com/track/2yfiMKCJryhN7QMpJbVZvf"
-    },
-    {
-      "added_at": "2026-08-19 00:34:26",
-      "album": {
-        "name": "Kick Up (feat. ralph)",
-        "url": "https://open.spotify.com/album/0VTOiRW8jyQiTFXZP8fcsT"
-      },
-      "artists": [
-        {
-          "name": "JUMADIBA",
-          "url": "https://open.spotify.com/artist/1a6hwHX0XKVKDpicEmwzCj"
-        },
-        {
-          "name": "Ralph",
-          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
-        }
-      ],
-      "duration_ms": 187696,
-      "name": "Kick Up (feat. ralph)",
-      "url": "https://open.spotify.com/track/4aZpjruA4GGvDNH9XwXaXc"
     },
     {
       "added_at": "2026-08-19 00:34:26",
@@ -1007,18 +1007,22 @@
     {
       "added_at": "2026-08-19 00:34:26",
       "album": {
-        "name": "Rainy Day",
-        "url": "https://open.spotify.com/album/6KQNF7grqYtG4v1XwwEgc9"
+        "name": "POP KILLERS (feat. ralph)",
+        "url": "https://open.spotify.com/album/06l8AppEOLd6MaxxqAcLf5"
       },
       "artists": [
         {
-          "name": "D3adStock",
-          "url": "https://open.spotify.com/artist/4dLZhocl3oLLpp6IcGlhjd"
+          "name": "C.O.S.A.",
+          "url": "https://open.spotify.com/artist/7kj57NIwoqvnBTSpSgrO3p"
+        },
+        {
+          "name": "Ralph",
+          "url": "https://open.spotify.com/artist/62z45XSe0e3HqK8VbhfFT0"
         }
       ],
-      "duration_ms": 110500,
-      "name": "Rainy Day",
-      "url": "https://open.spotify.com/track/3Gd02MdGmacvasxJDXeQNM"
+      "duration_ms": 159620,
+      "name": "POP KILLERS (feat. ralph)",
+      "url": "https://open.spotify.com/track/6tjAXcxgDNtkvaXFUXDUQC"
     }
   ],
   "unique_name": "Tokyo Drift: \u30c8\u30fc\u30ad\u30e7\u30fc\u30fb\u30c9\u30ea\u30d5\u30c8",

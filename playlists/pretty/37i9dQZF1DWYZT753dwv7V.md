@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 
 > I più grandi successi della storia del festival 🏆
 
-[Spotify](https://open.spotify.com/user/spotify) - 102,956 likes - 100 songs - 6 hr 9 min
+[Spotify](https://open.spotify.com/user/spotify) - 102,952 likes - 100 songs - 6 hr 9 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -87,8 +87,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYZT753dwv7V.md) - [plain]
 | 77 | [Canzone per te](https://open.spotify.com/track/7dLmy2KzDJYGIxfFoJIcMX) | [Sergio Endrigo](https://open.spotify.com/artist/4ERMFbVCuwsv0eiUrG7LF3) | [Endrigo \(1968\)](https://open.spotify.com/album/2HUcliwNVmeS7kS2tpQmF8) | 3:35 |
 | 78 | [Ancora](https://open.spotify.com/track/5eE62U7Hwg2uUCfXl0gyJV) | [Eduardo De Crescenzo](https://open.spotify.com/artist/5YECQ35f0dFPI1OPXCwP8g) | [Eduardo De Crescenzo \- All The Best](https://open.spotify.com/album/3cXL75H1fbfQyALn8xypEr) | 3:21 |
 | 79 | [Per sentirmi vivo](https://open.spotify.com/track/5U3ln41nbhztweY70Mv5b3) | [Fasma](https://open.spotify.com/artist/1hM06YHQ635cZwwUbn7dpk), [GG](https://open.spotify.com/artist/0kbBijEWCi7FWrBpnpOcHd) | [Per sentirmi vivo](https://open.spotify.com/album/5owbVnzLpbq9SlftvHXjTa) | 2:59 |
-| 80 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
-| 81 | [Spalle al muro](https://open.spotify.com/track/1oLHRlZMfBcBDMKFgrWScm) | [Renato Zero](https://open.spotify.com/artist/7i7EQonx0GrqoKiNQL4gFO) | [Prometeo](https://open.spotify.com/album/4ee82ry9x4oOMuPW0wp5Ka) | 5:00 |
+| 80 | [Spalle al muro](https://open.spotify.com/track/1oLHRlZMfBcBDMKFgrWScm) | [Renato Zero](https://open.spotify.com/artist/7i7EQonx0GrqoKiNQL4gFO) | [Prometeo](https://open.spotify.com/album/4ee82ry9x4oOMuPW0wp5Ka) | 5:00 |
+| 81 | [Quelli Che Non Hanno Età \- Gabry Ponte Power Cut](https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR) | [Eiffel 65](https://open.spotify.com/artist/64rxQRJsLgZwHHyWKB8fiF), [Gabry Ponte](https://open.spotify.com/artist/5ENS85nZShljwNgg4wFD7D) | [Eiffel 65 \(Italian Album\)](https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg) | 3:59 |
 | 82 | [La musica e' finita](https://open.spotify.com/track/32qXoBe0jtIaqjd97ofKTo) | [Ornella Vanoni](https://open.spotify.com/artist/4MR6tQyIrWK82b56cYPBDv) | [Ornella Vanoni](https://open.spotify.com/album/4iYQlJ7fVg5kBcJb30CCiR) | 3:10 |
 | 83 | [Ringo Starr](https://open.spotify.com/track/17j76Q3fmROd2eL4M7Vira) | [Pinguini Tattici Nucleari](https://open.spotify.com/artist/6RdcIWVKYYzNzjQRd3oyHS) | [Ringo Starr](https://open.spotify.com/album/7Li84Fi6QLiE5SAlsruDwS) | 3:03 |
 | 84 | [L'ADDIO](https://open.spotify.com/track/4Xqs9LHjvq41AEhjNn36Oe) | [Coma\_Cose](https://open.spotify.com/artist/0Sv8sjzMHBbAWXt4CGB9Us) | [L'ADDIO](https://open.spotify.com/album/2iUk6UtdpU0J5LHF5ZPcaJ) | 3:27 |

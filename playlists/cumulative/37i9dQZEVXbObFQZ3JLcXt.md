@@ -4,7 +4,7 @@
 
 > Your daily update of the most played tracks right now \- Indonesia.
 
-779 songs - 2 day 0 hr 45 min
+780 songs - 2 day 0 hr 49 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -236,7 +236,7 @@
 | [Forever Young](https://open.spotify.com/track/4S1VYqwfkLit9mKVY3MXoo) | [Alphaville](https://open.spotify.com/artist/0xliTEbFfy5HQHvsTknTkX) | [Forever Young](https://open.spotify.com/album/2256qKBSQdt53T5dz4Kdcs) | 3:46 | 2024-07-24 | 2024-09-19 |
 | [Fortnight \(feat\. Post Malone\)](https://open.spotify.com/track/2OzhQlSqBEmt7hmkYxfT6m) | [Taylor Swift](https://open.spotify.com/artist/06HL4z0CvFAxyc27GXpf02), [Post Malone](https://open.spotify.com/artist/246dkjvS1zLTtiykXe5h60) | [THE TORTURED POETS DEPARTMENT](https://open.spotify.com/album/1Mo4aZ8pdj6L1jx8zSwJnt) | 3:48 | 2024-04-20 | 2024-05-19 |
 | [Fortune Cookie Yang Mencinta](https://open.spotify.com/track/469lObbmed3vMkCi7EaXib) | [JKT48](https://open.spotify.com/artist/2l8I5pWUnfF7bMK1z6EJRk) | [Mahagita: Kamikyokutachi](https://open.spotify.com/album/6r0wtZqJ6giE5JieQTwPse) | 4:42 | 2022-02-17 | 2022-02-26 |
-| [Foto kita blur](https://open.spotify.com/track/5POrnkQAprvkordH0kB25O) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 4:31 | 2026-07-01 |  |
+| [Foto kita blur](https://open.spotify.com/track/5POrnkQAprvkordH0kB25O) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 4:31 | 2026-07-01 | 2026-09-22 |
 | [FXCK UP THE WORLD \(feat\. Future\)](https://open.spotify.com/track/4rBRRLgdB9DYJhqA9uVcWt) | [LISA](https://open.spotify.com/artist/5L1lO4eRHmJ7a0Q6csE5cT), [Future](https://open.spotify.com/artist/1RyvyyTE3xzB2ZywiAwp0i) | [Alter Ego](https://open.spotify.com/album/5eoWRkeplmcCL97afSMJVm) | 3:04 | 2025-03-01 | 2025-03-06 |
 | [Gala bunga matahari](https://open.spotify.com/track/5eBk8ZXcd0pb0AO4a5PpOg) | [Sal Priadi](https://open.spotify.com/artist/1NjxFrpEGZTV2Ny0OJxeWu) | [MARKERS AND SUCH PENS FLASHDISKS](https://open.spotify.com/album/5uAcLj2EJLtQtKMyDYCI0Q) | 3:29 | 2024-06-29 | 2025-02-19 |
 | [Garam & Madu](https://open.spotify.com/track/6Xsn8juDq6ebLmTNy9zvp4) | [Refa Fvnky Rimex](https://open.spotify.com/artist/1RtyD71NJEpvCkDEXsEdHZ) | [Garam & Madu](https://open.spotify.com/album/4yGwBHJ3V0cQbdfC2kSq0x) | 5:00 | 2025-01-01 | 2025-01-06 |
@@ -702,6 +702,7 @@
 | [Tenang](https://open.spotify.com/track/6ICTnGsaokIDEYobnwuCjZ) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tenang](https://open.spotify.com/album/3jBKuTZYLpu7x5fl6PEtEH) | 4:07 | 2021-04-23 | 2021-10-23 |
 | [Tenang](https://open.spotify.com/track/7lr82r1RMJudgcKQ8y7H9K) | [Yura Yunita](https://open.spotify.com/artist/02Tq76MwpeoRu3BHIAiaio) | [Tutur Batin](https://open.spotify.com/album/4ehjkt2KhPomUc7duIqeyD) | 4:07 | 2021-10-23 | 2021-10-28 |
 | [Teramini](https://open.spotify.com/track/238QZNu3LMzPj2PUoE8AIk) | [Ghea Indrawari](https://open.spotify.com/artist/3qL7BzwJOXq3EzAio36aLX) | [Berdamai](https://open.spotify.com/album/1RKSbvPUDUEeKPIhGdnzSD) | 3:40 | 2024-04-06 | 2024-06-02 |
+| [Terbelah Jadi Dua](https://open.spotify.com/track/3aM3bFzA2dCtej0U3h4WKH) | [Gloria Jessica](https://open.spotify.com/artist/0W1RLAMxDfMFW5w5pUsJpS), [Ade Govinda](https://open.spotify.com/artist/1lg1jqQMMJQQFFMnkxn0zV) | [Terbelah Jadi Dua](https://open.spotify.com/album/7yOC8uTLy0iwjg1n7YBz4P) | 4:15 | 2026-09-21 |  |
 | [Terbuang Dalam Waktu](https://open.spotify.com/track/5fmyW3X3kncOOVlmcWhORH) | [Barasuara](https://open.spotify.com/artist/5RbI1PF4n02wWKmgjk7hAE) | [Jalaran Sadrah](https://open.spotify.com/album/65hiBZugUD4hPjDM4RurWC) | 4:41 | 2025-07-18 | 2026-09-12 |
 | [terima kasih](https://open.spotify.com/track/2m1ozXAKFam3YQXRPDnEfE) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/0RIVNgA95YzOPDHD4aYbqZ) | 3:24 | 2025-02-02 | 2025-02-06 |
 | [terima kasih](https://open.spotify.com/track/0JtEuERxvGfXYcg0ALOwPu) | [Hal](https://open.spotify.com/artist/5vTG3EyFrsARtIGDWZNRzu) | [terima kasih](https://open.spotify.com/album/3YfSbSFwpbxxGb1wGl1H20) | 3:24 | 2023-02-15 | 2023-02-22 |

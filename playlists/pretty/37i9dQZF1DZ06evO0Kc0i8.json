@@ -1,12 +1,12 @@
 {
   "description": "This is Rauw Alejandro. The essential tracks, all in one playlist.",
-  "num_followers": 894608,
+  "num_followers": 894662,
   "original_name": "This Is Rauw Alejandro",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAACVI6a+hAdL55MT/gg/VDw9",
+  "snapshot_id": "aq8iAAAAAAAfOjcnthsRjYo0RTW5bMnl",
   "tracks": [
     {
       "added_at": null,
@@ -779,22 +779,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "El Androide",
-        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
+        "name": "Macacoa 2000 (from GTAVI: The Album)",
+        "url": "https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw"
       },
       "artists": [
         {
-          "name": "El Alfa",
-          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
-        },
-        {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Grand Theft Auto VI",
+          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
         }
       ],
-      "duration_ms": 163265,
-      "name": "Besalo",
-      "url": "https://open.spotify.com/track/2PUdyEnqZUh3zICKE4Fu8N"
+      "duration_ms": 173881,
+      "name": "Macacoa 2000 (from GTAVI: The Album)",
+      "url": "https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn"
     },
     {
       "added_at": null,
@@ -827,26 +827,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Que Somos",
-        "url": "https://open.spotify.com/album/7uuWmAExHtNRHYi2ODfDcQ"
+        "name": "El Androide",
+        "url": "https://open.spotify.com/album/7haP1A1a1ssJKXBKskVLvG"
       },
       "artists": [
         {
+          "name": "El Alfa",
+          "url": "https://open.spotify.com/artist/2oQX8QiMXOyuqbcZEFsZfm"
+        },
+        {
           "name": "Rauw Alejandro",
           "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Lyanno",
-          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
-        },
-        {
-          "name": "Mathew",
-          "url": "https://open.spotify.com/artist/3d2n85YLj0M861ScqWEhmC"
         }
       ],
-      "duration_ms": 227500,
-      "name": "Que Somos",
-      "url": "https://open.spotify.com/track/5FXARQTlf6UwUVuIS60Vn2"
+      "duration_ms": 163265,
+      "name": "Besalo",
+      "url": "https://open.spotify.com/track/2PUdyEnqZUh3zICKE4Fu8N"
     },
     {
       "added_at": null,
@@ -871,6 +867,30 @@
     {
       "added_at": null,
       "album": {
+        "name": "Que Somos",
+        "url": "https://open.spotify.com/album/7uuWmAExHtNRHYi2ODfDcQ"
+      },
+      "artists": [
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "Lyanno",
+          "url": "https://open.spotify.com/artist/1Ts9of7VPZElwPQnqnDSfW"
+        },
+        {
+          "name": "Mathew",
+          "url": "https://open.spotify.com/artist/3d2n85YLj0M861ScqWEhmC"
+        }
+      ],
+      "duration_ms": 227500,
+      "name": "Que Somos",
+      "url": "https://open.spotify.com/track/5FXARQTlf6UwUVuIS60Vn2"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "TRAP CAKE VOL. 2",
         "url": "https://open.spotify.com/album/2ZXwd2AzsVWTwp1oT3tfMI"
       },
@@ -883,26 +903,6 @@
       "duration_ms": 255412,
       "name": "MUSEO",
       "url": "https://open.spotify.com/track/6WfxIJKmYRSpsBJv0tEAKX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Macacoa 2000 (from GTAVI: The Album)",
-        "url": "https://open.spotify.com/album/0aTw0UBIeTrqyRvmDUuhIw"
-      },
-      "artists": [
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "Grand Theft Auto VI",
-          "url": "https://open.spotify.com/artist/15o7qdDTBzs6xWRUYUtZc1"
-        }
-      ],
-      "duration_ms": 173881,
-      "name": "Macacoa 2000 (from GTAVI: The Album)",
-      "url": "https://open.spotify.com/track/7GtO6G2Iue3yfIYhx36JZn"
     },
     {
       "added_at": null,
@@ -947,30 +947,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "ROSITA",
-        "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
-      },
-      "artists": [
-        {
-          "name": "Tainy",
-          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
-        },
-        {
-          "name": "Rauw Alejandro",
-          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
-        },
-        {
-          "name": "JHAYCO",
-          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
-        }
-      ],
-      "duration_ms": 245469,
-      "name": "ROSITA",
-      "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "La Nota",
         "url": "https://open.spotify.com/album/61qU7ompl7BKKGEgsbO4Ly"
       },
@@ -991,6 +967,30 @@
       "duration_ms": 216107,
       "name": "La Nota",
       "url": "https://open.spotify.com/track/7ndTONDDRFGiPnnhOzOXxq"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "ROSITA",
+        "url": "https://open.spotify.com/album/3kU2wmmT1ix5kSHtNm1rFD"
+      },
+      "artists": [
+        {
+          "name": "Tainy",
+          "url": "https://open.spotify.com/artist/0GM7qgcRCORpGnfcN2tCiB"
+        },
+        {
+          "name": "Rauw Alejandro",
+          "url": "https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq"
+        },
+        {
+          "name": "JHAYCO",
+          "url": "https://open.spotify.com/artist/6nVcHLIgY5pE2YCl8ubca1"
+        }
+      ],
+      "duration_ms": 245469,
+      "name": "ROSITA",
+      "url": "https://open.spotify.com/track/4HyPxBQDLUnY3w7gukITrW"
     },
     {
       "added_at": null,

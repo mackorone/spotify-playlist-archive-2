@@ -1,12 +1,12 @@
 {
   "description": "This is Deftones. The essential tracks, all in one playlist.",
-  "num_followers": 512771,
+  "num_followers": 512921,
   "original_name": "This Is Deftones",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAADp13eslLO+yKHQcVWiEtDL",
+  "snapshot_id": "aq8iAAAAAACV2ZsXpV2JM9xNiKTUL34R",
   "tracks": [
     {
       "added_at": null,
@@ -427,22 +427,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "private music",
-        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
-      },
-      "artists": [
-        {
-          "name": "Deftones",
-          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
-        }
-      ],
-      "duration_ms": 170941,
-      "name": "my mind is a mountain",
-      "url": "https://open.spotify.com/track/0DMU0QiSypeYxL6BYdxjcy"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Diamond Eyes",
         "url": "https://open.spotify.com/album/1GjjBpY2iDwSQs5bykQI5e"
       },
@@ -455,6 +439,22 @@
       "duration_ms": 272560,
       "name": "976-EVIL",
       "url": "https://open.spotify.com/track/3hb4W4FUPjyWUbYY2Sfih5"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "private music",
+        "url": "https://open.spotify.com/album/1gmWnG5TeRj91Tdm2lpEvJ"
+      },
+      "artists": [
+        {
+          "name": "Deftones",
+          "url": "https://open.spotify.com/artist/6Ghvu1VvMGScGpOUJBAHNH"
+        }
+      ],
+      "duration_ms": 170941,
+      "name": "my mind is a mountain",
+      "url": "https://open.spotify.com/track/0DMU0QiSypeYxL6BYdxjcy"
     },
     {
       "added_at": null,

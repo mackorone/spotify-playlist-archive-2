@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 
 > Celebrating the women of all the genres of Christian & Gospel music!  Cover: Terrian
 
-[Spotify](https://open.spotify.com/user/spotify) - 239,742 likes - 80 songs - 4 hr 42 min
+[Spotify](https://open.spotify.com/user/spotify) - 239,739 likes - 80 songs - 4 hr 42 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -21,7 +21,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVrSccL9KVUt.md) - [plain]
 | 11 | [Terms & Conditions](https://open.spotify.com/track/3z2KaIHWp94IgAhbbxMxqz) | [Zoe Levert](https://open.spotify.com/artist/0f7KVpp4sPg1v2EzCwTmD8) | [Terms & Conditions](https://open.spotify.com/album/6AhdxB1DQE96eRfYGQ3iT5) | 4:07 |
 | 12 | [Shed A Little Light](https://open.spotify.com/track/0buYt4WUS7LbKHycFU16SO) | [Mackenzie Phillips](https://open.spotify.com/artist/0Sw7CtJQ5uo1DL8XgQChLY) | [Shed A Little Light](https://open.spotify.com/album/7ibnjULaRmRtSS2jsxxfoG) | 2:40 |
 | 13 | [Splinters](https://open.spotify.com/track/5Avn8pagmCvgk9mlO2FxPh) | [Hailey Hutcheson](https://open.spotify.com/artist/3AffCW7hqf6m5tx0cE2G1i) | [Splinters](https://open.spotify.com/album/0F7V0lPrggeiRzURF6sQLg) | 2:35 |
-| 14 | [Changing](https://open.spotify.com/track/6aUq2ImOnHlFQUjMqtzKRX) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk) | [Changing](https://open.spotify.com/album/6rrQswbIXq8hsl5EhY0urV) | 4:24 |
+| 14 | [Changing](https://open.spotify.com/track/6aUq2ImOnHlFQUjMqtzKRX) | [Rachel Morley](https://open.spotify.com/artist/79vNtKxpQNwJMHhbxkYaMk), [Kyndal](https://open.spotify.com/artist/4VFMlrDAmF0wwua3FVD8Qx) | [Changing](https://open.spotify.com/album/6rrQswbIXq8hsl5EhY0urV) | 4:24 |
 | 15 | [follow](https://open.spotify.com/track/7KDZAiD9Muuov5B7hrbxjy) | [Taylented](https://open.spotify.com/artist/3IOqaQSOAsNh3zsTVOAchE) | [follow](https://open.spotify.com/album/27jxIK3fcIMIhugaMaHMbq) | 2:44 |
 | 16 | [You Got Me](https://open.spotify.com/track/167dOeoPac1tywNPZvIAlt) | [Toyalove](https://open.spotify.com/artist/5OoxlokuJXx0MIk9GyR1f6) | [You Got Me](https://open.spotify.com/album/7zhtmr4xBV9r8sCbbBqRgW) | 2:06 |
 | 17 | [Roots](https://open.spotify.com/track/4PDQlJW9xltAaMQ2i93kNf) | [Jamie MacDonald](https://open.spotify.com/artist/0cZttbEqSCC76paqdgVLL4), [The Chosen](https://open.spotify.com/artist/4zaS9mItqCC5OQpML2VDu2) | [Roots](https://open.spotify.com/album/0hxt1oPU61fYIwVCJYJt9G) | 3:12 |

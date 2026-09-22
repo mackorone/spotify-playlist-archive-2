@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 
 > The home of rage rap\. Cover: Playboi Carti
 
-[Spotify](https://open.spotify.com/user/spotify) - 160,674 likes - 65 songs - 3 hr 0 min
+[Spotify](https://open.spotify.com/user/spotify) - 160,732 likes - 65 songs - 3 hr 0 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7e6SyPRzzx0.md) - [plain]
 | 5 | [Yoko](https://open.spotify.com/track/3BCQW29mk4HJTypRKVLEqQ) | [Lil Uzi Vert](https://open.spotify.com/artist/4O15NlyKLIASxsJ0PrXPfz) | [Maverick “Almost Forever” EP](https://open.spotify.com/album/4fClD0ZJtv7YfzCUEwotDo) | 2:53 |
 | 6 | [COMË N GO](https://open.spotify.com/track/2mNGL7mZILSqZHxGboJaO9) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [DANGEROUS SUMMER](https://open.spotify.com/album/61PCQeDaTD2gwfpHFikpbh) | 3:18 |
 | 7 | [deaf note \(with Playboi Carti\)](https://open.spotify.com/track/17BcTd9O7iLnHQfGo31ntV) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 3:18 |
-| 8 | [Never Tell](https://open.spotify.com/track/5uzRXTJF2a5dsvj0OY7nYz) | [Narco Juliet](https://open.spotify.com/artist/6BzV00UB67RkdQEdg2AGkT), [Ken Carson](https://open.spotify.com/artist/6NuphuJjIbOHlwGOtligTb), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx), [SUMMER ALONE](https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek) | [Never Tell](https://open.spotify.com/album/3QXwzjiIJJSrys2gmRd14t) | 3:16 |
+| 8 | [Never Tell](https://open.spotify.com/track/5uzRXTJF2a5dsvj0OY7nYz) | [Narco Juliet](https://open.spotify.com/artist/6BzV00UB67RkdQEdg2AGkT), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx), [SUMMER ALONE](https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek) | [Never Tell](https://open.spotify.com/album/3QXwzjiIJJSrys2gmRd14t) | 3:16 |
 | 9 | [MONSTER](https://open.spotify.com/track/2rSNj3zySzJ09yWUQar6Iz) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [MONSTER](https://open.spotify.com/album/67UBaBuoT0TiWBOmaa7T4k) | 2:37 |
 | 10 | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/track/3Q1XHO8wAsa6WJ6urhF1xQ) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [the acronym \(with Destroy Lonely\)](https://open.spotify.com/album/2hrihzusVRHJXJoZkcKqN7) | 2:27 |
 | 11 | [COCOON](https://open.spotify.com/track/0YgLjBYLRynYgsAip8bPwu) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [COCOON](https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL) | 1:58 |

@@ -1,6 +1,6 @@
 {
   "description": "The highlights of Eurovision from the 50s, 60s & 70s. Cover: ABBA",
-  "num_followers": 6213,
+  "num_followers": 6212,
   "original_name": "Eurovision Gold",
   "owner": {
     "name": "Spotify",
@@ -835,6 +835,22 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
+        "name": "Mega 50 - Die 70er Jahre",
+        "url": "https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls"
+      },
+      "artists": [
+        {
+          "name": "Gitte H\u00e6nning",
+          "url": "https://open.spotify.com/artist/61colh5ssNlVYwuzlQyB1u"
+        }
+      ],
+      "duration_ms": 200306,
+      "name": "Junger Tag",
+      "url": "https://open.spotify.com/track/1MFZ9Qn3D2Mq7CGBM20T0q"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
         "name": "Duetos - Diz-me Com Quem Cantas",
         "url": "https://open.spotify.com/album/6PNhOIaCoi6f3gX18qXOzH"
       },
@@ -851,22 +867,6 @@
       "duration_ms": 237152,
       "name": "Tourada",
       "url": "https://open.spotify.com/track/5x4vPEqiO7mzrI2QG3S4YV"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
-        "name": "Mega 50 - Die 70er Jahre",
-        "url": "https://open.spotify.com/album/4Jy5Oy9tA5kSnjsz0YyAls"
-      },
-      "artists": [
-        {
-          "name": "Gitte H\u00e6nning",
-          "url": "https://open.spotify.com/artist/61colh5ssNlVYwuzlQyB1u"
-        }
-      ],
-      "duration_ms": 200306,
-      "name": "Junger Tag",
-      "url": "https://open.spotify.com/track/1MFZ9Qn3D2Mq7CGBM20T0q"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -903,22 +903,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Er steht im Tor - Ihre grossen Erfolge",
-        "url": "https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw"
-      },
-      "artists": [
-        {
-          "name": "Wencke Myhre",
-          "url": "https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo"
-        }
-      ],
-      "duration_ms": 151986,
-      "name": "Ein Hoch der Liebe",
-      "url": "https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Una vida de canciones",
         "url": "https://open.spotify.com/album/1PFJDPnHZuEwSlIbDy4G2c"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 171666,
       "name": "Hablemos del amor",
       "url": "https://open.spotify.com/track/1uG9IM78KZTIEBzcWEd2E8"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Er steht im Tor - Ihre grossen Erfolge",
+        "url": "https://open.spotify.com/album/705ZSYIGNPIkRTwRaA9igw"
+      },
+      "artists": [
+        {
+          "name": "Wencke Myhre",
+          "url": "https://open.spotify.com/artist/6W5ilMykftL18jlBb7CHuo"
+        }
+      ],
+      "duration_ms": 151986,
+      "name": "Ein Hoch der Liebe",
+      "url": "https://open.spotify.com/track/1SlsyDG3PMLZ57fLzp5WVI"
     },
     {
       "added_at": "2025-03-14 16:55:23",
@@ -1095,22 +1095,6 @@
     {
       "added_at": "2025-03-14 16:55:23",
       "album": {
-        "name": "Reeling In The Decades",
-        "url": "https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ"
-      },
-      "artists": [
-        {
-          "name": "The Swarbriggs",
-          "url": "https://open.spotify.com/artist/2lDzSLqo8rRCm5koxElxRb"
-        }
-      ],
-      "duration_ms": 173013,
-      "name": "That's What Friends Are For",
-      "url": "https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp"
-    },
-    {
-      "added_at": "2025-03-14 16:55:23",
-      "album": {
         "name": "Brez besed",
         "url": "https://open.spotify.com/album/17XZ6Nn2VQ1xbnUU27d8U9"
       },
@@ -1123,6 +1107,22 @@
       "duration_ms": 165293,
       "name": "Brez besed - Evrovizija 1966",
       "url": "https://open.spotify.com/track/3OZqPWY86jhuv6DV5TV0kK"
+    },
+    {
+      "added_at": "2025-03-14 16:55:23",
+      "album": {
+        "name": "Reeling In The Decades",
+        "url": "https://open.spotify.com/album/4FLE3sQpCWW9zwB1HE7erQ"
+      },
+      "artists": [
+        {
+          "name": "The Swarbriggs",
+          "url": "https://open.spotify.com/artist/2lDzSLqo8rRCm5koxElxRb"
+        }
+      ],
+      "duration_ms": 173013,
+      "name": "That's What Friends Are For",
+      "url": "https://open.spotify.com/track/1rz4rSUxJmeIF4CuYarTnp"
     },
     {
       "added_at": "2025-03-14 16:55:23",

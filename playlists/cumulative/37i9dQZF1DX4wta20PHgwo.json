@@ -7969,6 +7969,24 @@
     },
     {
       "album": {
+        "name": "Frozen Flashes",
+        "url": "https://open.spotify.com/album/21GPT25bZsfbb5qYXDvgL8"
+      },
+      "artists": [
+        {
+          "name": "Okvsho",
+          "url": "https://open.spotify.com/artist/30b8dNhkUcfPVsDbwyXlC9"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246957,
+      "name": "Place of Two",
+      "url": "https://open.spotify.com/track/2mVQXLMuQCe6BiTrdLRbhf"
+    },
+    {
+      "album": {
         "name": "The Surrounding Green",
         "url": "https://open.spotify.com/album/0X4iyYATnXLm1IvSNp3bfq"
       },

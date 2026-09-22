@@ -1,6 +1,6 @@
 {
   "description": "I pi\u00f9 grandi successi della storia del festival \ud83c\udfc6 ",
-  "num_followers": 102956,
+  "num_followers": 102952,
   "original_name": "Sanremo: La Storia",
   "owner": {
     "name": "Spotify",
@@ -1331,6 +1331,22 @@
     {
       "added_at": "2026-01-25 23:01:06",
       "album": {
+        "name": "Prometeo",
+        "url": "https://open.spotify.com/album/4ee82ry9x4oOMuPW0wp5Ka"
+      },
+      "artists": [
+        {
+          "name": "Renato Zero",
+          "url": "https://open.spotify.com/artist/7i7EQonx0GrqoKiNQL4gFO"
+        }
+      ],
+      "duration_ms": 300869,
+      "name": "Spalle al muro",
+      "url": "https://open.spotify.com/track/1oLHRlZMfBcBDMKFgrWScm"
+    },
+    {
+      "added_at": "2026-01-25 23:01:06",
+      "album": {
         "name": "Eiffel 65 (Italian Album)",
         "url": "https://open.spotify.com/album/1JhmNKRWia4bEo6IH8AFpg"
       },
@@ -1347,22 +1363,6 @@
       "duration_ms": 239407,
       "name": "Quelli Che Non Hanno Et\u00e0 - Gabry Ponte Power Cut",
       "url": "https://open.spotify.com/track/2mz1KvlR3aHoLSJTdh1nwR"
-    },
-    {
-      "added_at": "2026-01-25 23:01:06",
-      "album": {
-        "name": "Prometeo",
-        "url": "https://open.spotify.com/album/4ee82ry9x4oOMuPW0wp5Ka"
-      },
-      "artists": [
-        {
-          "name": "Renato Zero",
-          "url": "https://open.spotify.com/artist/7i7EQonx0GrqoKiNQL4gFO"
-        }
-      ],
-      "duration_ms": 300869,
-      "name": "Spalle al muro",
-      "url": "https://open.spotify.com/track/1oLHRlZMfBcBDMKFgrWScm"
     },
     {
       "added_at": "2026-01-25 23:01:06",

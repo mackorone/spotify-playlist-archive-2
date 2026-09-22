@@ -1,6 +1,6 @@
 {
   "description": "Os hits e novos nomes do pop dividindo o mesmo palco! Foto: Ananda",
-  "num_followers": 356197,
+  "num_followers": 356158,
   "original_name": "Palco POP",
   "owner": {
     "name": "Spotify",
@@ -543,22 +543,6 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
-        "name": "Desassossego",
-        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
-      },
-      "artists": [
-        {
-          "name": "Mariana Volker",
-          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
-        }
-      ],
-      "duration_ms": 176409,
-      "name": "Desassossego",
-      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
         "name": "Tempo Bom",
         "url": "https://open.spotify.com/album/3qRdvGtOvtDxzWZdtXy1Tb"
       },
@@ -571,6 +555,22 @@
       "duration_ms": 194000,
       "name": "Gamou",
       "url": "https://open.spotify.com/track/2EGHkUBszUG17w0aJjXEDJ"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
+        "name": "Desassossego",
+        "url": "https://open.spotify.com/album/7n2v4Z2PxSF3CRKhkM4PPy"
+      },
+      "artists": [
+        {
+          "name": "Mariana Volker",
+          "url": "https://open.spotify.com/artist/0L8NDdn0V7vaqvUyibKLmq"
+        }
+      ],
+      "duration_ms": 176409,
+      "name": "Desassossego",
+      "url": "https://open.spotify.com/track/069xpAmTWaJphQGAn2N7hE"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -763,26 +763,6 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
-        "name": "DE COSTAS",
-        "url": "https://open.spotify.com/album/3mWaOArRlj3PiI6fScDY0K"
-      },
-      "artists": [
-        {
-          "name": "Carol Passos",
-          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
-        },
-        {
-          "name": "JOK3R",
-          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
-        }
-      ],
-      "duration_ms": 224902,
-      "name": "DE COSTAS",
-      "url": "https://open.spotify.com/track/7e5cq16VImSKSV0liWo3c6"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
         "name": "Inimagin\u00e1vel",
         "url": "https://open.spotify.com/album/5on2cyZTeIfRnXYngdxnz2"
       },
@@ -803,6 +783,26 @@
       "duration_ms": 163110,
       "name": "Mar\u00e9 De Sorte - Remix",
       "url": "https://open.spotify.com/track/33MTRgQrOhkRkA2oYEJ0lu"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
+        "name": "DE COSTAS",
+        "url": "https://open.spotify.com/album/3mWaOArRlj3PiI6fScDY0K"
+      },
+      "artists": [
+        {
+          "name": "Carol Passos",
+          "url": "https://open.spotify.com/artist/5PTSuEffMevlta7r4D3asP"
+        },
+        {
+          "name": "JOK3R",
+          "url": "https://open.spotify.com/artist/2YvHMMn0rYDvE3rs6dqzhq"
+        }
+      ],
+      "duration_ms": 224902,
+      "name": "DE COSTAS",
+      "url": "https://open.spotify.com/track/7e5cq16VImSKSV0liWo3c6"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -951,6 +951,26 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
+        "name": "Flerte",
+        "url": "https://open.spotify.com/album/73oomwMP1uozxcNp9JE7v7"
+      },
+      "artists": [
+        {
+          "name": "Magi",
+          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
+        },
+        {
+          "name": "Pilar",
+          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
+        }
+      ],
+      "duration_ms": 186532,
+      "name": "Flerte",
+      "url": "https://open.spotify.com/track/7dyZtAHEQAxyDt1CIZ3GJZ"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
         "name": "Agarradinho - Spotify Singles",
         "url": "https://open.spotify.com/album/6ldTBilOX402xGqAcFeFWi"
       },
@@ -979,26 +999,6 @@
       "duration_ms": 191304,
       "name": "Emocionalmente Indispon\u00edvel",
       "url": "https://open.spotify.com/track/6rFutStZO3p8FAfxCrTPJ3"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
-        "name": "Flerte",
-        "url": "https://open.spotify.com/album/73oomwMP1uozxcNp9JE7v7"
-      },
-      "artists": [
-        {
-          "name": "Magi",
-          "url": "https://open.spotify.com/artist/1wO4Q3O7ljz4tGRAVZVQXy"
-        },
-        {
-          "name": "Pilar",
-          "url": "https://open.spotify.com/artist/73m22Pkj7wtATvxtsnuLhe"
-        }
-      ],
-      "duration_ms": 186532,
-      "name": "Flerte",
-      "url": "https://open.spotify.com/track/7dyZtAHEQAxyDt1CIZ3GJZ"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -1111,6 +1111,22 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
+        "name": "A Minha Flor",
+        "url": "https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX"
+      },
+      "artists": [
+        {
+          "name": "Felipe Lobo",
+          "url": "https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED"
+        }
+      ],
+      "duration_ms": 189570,
+      "name": "A Minha Flor",
+      "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
+    },
+    {
+      "added_at": "2026-09-18 15:34:45",
+      "album": {
         "name": "Me Leva",
         "url": "https://open.spotify.com/album/6fx3dzXM3pMifJMQcPeKau"
       },
@@ -1131,18 +1147,22 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
-        "name": "A Minha Flor",
-        "url": "https://open.spotify.com/album/7uvaisCBNjJ5uWGEhKLzPX"
+        "name": "Sem foto, sem v\u00eddeo",
+        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
       },
       "artists": [
         {
-          "name": "Felipe Lobo",
-          "url": "https://open.spotify.com/artist/1wzIEr2dddn0yLrEkbHxED"
+          "name": "SANTIN",
+          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+        },
+        {
+          "name": "Jade Baraldo",
+          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
         }
       ],
-      "duration_ms": 189570,
-      "name": "A Minha Flor",
-      "url": "https://open.spotify.com/track/6Ws8Z00SaE191uuRtH7Z6o"
+      "duration_ms": 194407,
+      "name": "Sem foto, sem v\u00eddeo",
+      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -1159,26 +1179,6 @@
       "duration_ms": 223636,
       "name": "Clara",
       "url": "https://open.spotify.com/track/1MGhZBsBTpuoDDy6osaAf3"
-    },
-    {
-      "added_at": "2026-09-18 15:34:45",
-      "album": {
-        "name": "Te Amar Me D\u00e1 Asas",
-        "url": "https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ"
-      },
-      "artists": [
-        {
-          "name": "Geovanna Jainy",
-          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
-        },
-        {
-          "name": "Ricky Ndombashi",
-          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
-        }
-      ],
-      "duration_ms": 195124,
-      "name": "Te Amar Me D\u00e1 Asas",
-      "url": "https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC"
     },
     {
       "added_at": "2026-09-18 15:34:45",
@@ -1203,22 +1203,22 @@
     {
       "added_at": "2026-09-18 15:34:45",
       "album": {
-        "name": "Sem foto, sem v\u00eddeo",
-        "url": "https://open.spotify.com/album/1SverQN2YSrveKTN2cRtRh"
+        "name": "Te Amar Me D\u00e1 Asas",
+        "url": "https://open.spotify.com/album/3YjWJrgTyefjWVap5tSDZZ"
       },
       "artists": [
         {
-          "name": "SANTIN",
-          "url": "https://open.spotify.com/artist/477D9liHuINESjeGNCN1wF"
+          "name": "Geovanna Jainy",
+          "url": "https://open.spotify.com/artist/0N8j1fdrTFzTCyzP4bGbSj"
         },
         {
-          "name": "Jade Baraldo",
-          "url": "https://open.spotify.com/artist/5sz2Sp7OkasBBmDkKerv45"
+          "name": "Ricky Ndombashi",
+          "url": "https://open.spotify.com/artist/6gevwu0s8NHgdG6HAExvqK"
         }
       ],
-      "duration_ms": 194407,
-      "name": "Sem foto, sem v\u00eddeo",
-      "url": "https://open.spotify.com/track/1qYD1qpRCi53yAfXrez1r8"
+      "duration_ms": 195124,
+      "name": "Te Amar Me D\u00e1 Asas",
+      "url": "https://open.spotify.com/track/0VtwbacjRcHrpPtQzAEDBC"
     },
     {
       "added_at": "2026-09-18 15:34:45",

@@ -2,7 +2,7 @@
 
 ### [GLOW](https://open.spotify.com/playlist/37i9dQZF1DX3LyU0mhfqgP)
 
-> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: La Bruja de Texcoco
+> Celebrate and honor Pride with songs from LGBTQIA+ artists\. Cover: Jodie Harsh
 
 1,920 songs - 4 day 8 hr 3 min
 
@@ -426,7 +426,7 @@
 | [Devotion](https://open.spotify.com/track/5IcivgTMTJQFxh0ug2sg65) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx) | [My Soft Machine](https://open.spotify.com/album/4YCScpRHPfvu81qmsIGGmn) | 2:45 | 2023-10-10 | 2023-11-14 |
 | [Diary Entry](https://open.spotify.com/track/1nrYyJjjY74BS8w40vVQmF) | [Jenna Doe](https://open.spotify.com/artist/537KNo7PHzbkHiv5SGQ0eT) | [Diary Entry](https://open.spotify.com/album/5spyMJk3tjLaMb0IamqZLs) | 3:35 | 2022-04-15 | 2022-07-28 |
 | [Did You Settle Down Too Soon](https://open.spotify.com/track/5T7PoODCm2YYd5N4IbWUUr) | [Brandon Stansell](https://open.spotify.com/artist/7oTLMAni4yK84Nwsta0fYz) | [Did You Settle Down Too Soon](https://open.spotify.com/album/3h2xq62A7iX7XMix2Br0ss) | 2:59 | 2021-12-17 | 2022-01-09 |
-| [Different](https://open.spotify.com/track/1mIcjUXRuiRQ7zOzVDMmlb) | [Metrosexual](https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb) | [Different](https://open.spotify.com/album/08UhSt1OaxZEv9V23g5GsD) | 2:34 | 2026-08-11 |  |
+| [Different](https://open.spotify.com/track/1mIcjUXRuiRQ7zOzVDMmlb) | [Metrosexual](https://open.spotify.com/artist/1cMwAkW75xurkmm79aLqnb) | [Different](https://open.spotify.com/album/08UhSt1OaxZEv9V23g5GsD) | 2:34 | 2026-08-11 | 2026-09-22 |
 | [Dilemma](https://open.spotify.com/track/69WbDrmumjFCiIF1QRJle5) | [K.Keed](https://open.spotify.com/artist/6vQfwusCjTLgxy5uW20T3e), [A\-Reece](https://open.spotify.com/artist/5TirRF3azWV5OpyufcDCFP) | [Bite the Bullet](https://open.spotify.com/album/3euOg7fkkA8Ix4P0R75BOQ) | 3:41 | 2025-03-11 | 2025-05-07 |
 | [Dime Store](https://open.spotify.com/track/2B9VZHQPfFYauqTK8OQgLq) | [BLUAI](https://open.spotify.com/artist/5CJhBRBaE9MaWfPwcg2WbF) | [Dime Store](https://open.spotify.com/album/6evUY5bQw2c7HkptPzwex0) | 2:58 | 2023-03-07 | 2023-04-01 |
 | [Dirty Laundry](https://open.spotify.com/track/3fpyiBLsUT22KK9p4EQTMp) | [Parson James](https://open.spotify.com/artist/48sLioddyaXkuhyHXSkpsB), [JoJo](https://open.spotify.com/artist/5xuNBZoM7z1Vv8IQ6uM0p6) | [Dirty Laundry](https://open.spotify.com/album/6gSpF2OsSuwpp4z0qAmeVu) | 2:49 | 2021-12-17 | 2022-01-27 |
@@ -797,7 +797,7 @@
 | [I F\*cking Love You](https://open.spotify.com/track/7duGuHM4EiL8unwYQ4aDk5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/0PJoyjLXZFuYNY4m1TCbQw) | 3:00 | 2022-11-30 | 2023-01-25 |
 | [I F\*cking Love You](https://open.spotify.com/track/7lYjepjDeboEus0v2nSqu5) | [Zolita](https://open.spotify.com/artist/7nnTzZ5tZrPx14iDnmjksU) | [I F\*cking Love You](https://open.spotify.com/album/2CslMUzH2LTc4rnAuATJCE) | 3:00 | 2022-04-29 | 2022-10-08 |
 | [I Feel Alive](https://open.spotify.com/track/0uvCOD3I7rr86UEQfXXijF) | [IMRI](https://open.spotify.com/artist/0SWdzEo0WG8A0CsBiJMuJS) | [I Feel Alive](https://open.spotify.com/album/3TKOCUg8OiPqpU2Ln1S59m) | 3:00 | 2025-05-13 | 2025-05-20 |
-| [I Feel It](https://open.spotify.com/track/5J5TFaezewttgaKDsI9MLd) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [I Feel It](https://open.spotify.com/album/4wmKWqt9VDleEkn68D2ret) | 2:50 | 2026-08-11 | 2026-09-09 |
+| [I Feel It](https://open.spotify.com/track/5J5TFaezewttgaKDsI9MLd) | [Jodie Harsh](https://open.spotify.com/artist/0470FSE19wkoZe4R06GW9i) | [I Feel It](https://open.spotify.com/album/4wmKWqt9VDleEkn68D2ret) | 2:50 | 2026-08-11 |  |
 | [I Give Everything](https://open.spotify.com/track/7dX7gCMEviiaH9YDb9RnCJ) | [Ryland James](https://open.spotify.com/artist/4WXIF211lYZfYEn0d13Ac0) | [I Give Everything](https://open.spotify.com/album/2ljtGIdS43Dx9caG9glR2z) | 2:52 | 2022-01-07 | 2022-07-28 |
 | [i hate being cool](https://open.spotify.com/track/64uMhhVtwbC05h7N0T2fzn) | [a kid named rufus](https://open.spotify.com/artist/7K6yjBaUgEaSFnjJMxLO4j) | [whatever works](https://open.spotify.com/album/6gEyHGNecWqivhWhMn7fFj) | 3:33 | 2023-08-08 | 2023-10-11 |
 | [I Kissed a Boy](https://open.spotify.com/track/0ZZ1vpHL9AnwEujppPudhK) | [Aisho Nakajima](https://open.spotify.com/artist/73TJEwnZTYd2p0qRbn2Pi3), [Yohji Igarashi](https://open.spotify.com/artist/4Wp4OXDldnaJ0JPRpkUKQs) | [I Kissed a Boy](https://open.spotify.com/album/59lADBYwihYtPGRSnt0W1a) | 3:12 | 2025-06-05 | 2025-10-15 |

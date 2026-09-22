@@ -1,12 +1,12 @@
 {
   "description": "This is Julieta Venegas. The essential tracks, all in one playlist.",
-  "num_followers": 244951,
+  "num_followers": 244965,
   "original_name": "This Is Julieta Venegas",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAAeyYiZAfNgHzoTWRn3npj8",
+  "snapshot_id": "aq8iAAAAAADEqhcpar8nGbMmFmSHiyOY",
   "tracks": [
     {
       "added_at": null,
@@ -763,6 +763,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Mar Dulce",
+        "url": "https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa"
+      },
+      "artists": [
+        {
+          "name": "Bajofondo",
+          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
+        },
+        {
+          "name": "Julieta Venegas",
+          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
+        }
+      ],
+      "duration_ms": 218920,
+      "name": "Pa' Bailar (Siempre Quiero Mas)",
+      "url": "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Esta Ma\u00f1ana Y Otros Cuentos",
         "url": "https://open.spotify.com/album/6iqB5PzsLs7YIXVd8V84Ds"
       },
@@ -795,26 +815,6 @@
       "duration_ms": 207160,
       "name": "Te solt\u00e9 la rienda",
       "url": "https://open.spotify.com/track/28NllT6A5uDaJYJ4HdyFPX"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Mar Dulce",
-        "url": "https://open.spotify.com/album/15ytkLYbOtIWS558V44aWa"
-      },
-      "artists": [
-        {
-          "name": "Bajofondo",
-          "url": "https://open.spotify.com/artist/4Wk0MW9d5uu6WbAgRCuH4O"
-        },
-        {
-          "name": "Julieta Venegas",
-          "url": "https://open.spotify.com/artist/2QWIScpFDNxmS6ZEMIUvgm"
-        }
-      ],
-      "duration_ms": 218920,
-      "name": "Pa' Bailar (Siempre Quiero Mas)",
-      "url": "https://open.spotify.com/track/7kRZrgXVxoBkIDHgi7Z7lx"
     },
     {
       "added_at": null,

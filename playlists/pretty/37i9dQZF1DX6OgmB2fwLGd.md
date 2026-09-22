@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6OgmB2fwLGd.md) - [plain]
 
 > xxxxxxxx\_hyper\_sleaze.electro\_glitch\_prod.nina\_ʕ̡̢̡ʘ̅͟͜͡ʘ̲̅ʔ̢̡̢\_\[FINAL\]\_\[REAL\]\_\_coverartist.2charm
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,369,069 likes - 70 songs - 3 hr 26 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,368,975 likes - 70 songs - 3 hr 26 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

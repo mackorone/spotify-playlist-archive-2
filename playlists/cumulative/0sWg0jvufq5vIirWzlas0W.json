@@ -383,6 +383,24 @@
     },
     {
       "album": {
+        "name": "Been By Now",
+        "url": "https://open.spotify.com/album/2CW0gIlEO8iQBUdtRyxnb4"
+      },
+      "artists": [
+        {
+          "name": "Morgan Wallen",
+          "url": "https://open.spotify.com/artist/4oUHIQIBe0LHzYfvXNW4QM"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 213805,
+      "name": "Been By Now",
+      "url": "https://open.spotify.com/track/3xwMjQriBVW0OGEvNKo9c0"
+    },
+    {
+      "album": {
         "name": "Being Free",
         "url": "https://open.spotify.com/album/4QqwaUHjqb9QsoP4F2fqHe"
       },
@@ -1251,6 +1269,24 @@
     },
     {
       "album": {
+        "name": "Songs From The Big Chair",
+        "url": "https://open.spotify.com/album/5STbVtgFy6y7uPshY1RRqb"
+      },
+      "artists": [
+        {
+          "name": "Tears For Fears",
+          "url": "https://open.spotify.com/artist/4bthk9UfsYUYdcFyqxmSUU"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 251480,
+      "name": "Everybody Wants To Rule The World",
+      "url": "https://open.spotify.com/track/2YiCMmONQcoMPX2bV1LxE0"
+    },
+    {
+      "album": {
         "name": "Tracy Chapman",
         "url": "https://open.spotify.com/album/6hmmX5UP4rIvOpGSaPerV8"
       },
@@ -1280,7 +1316,7 @@
       ],
       "date_added": "2026-07-12",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 257120,
       "name": "Fat Bottomed Girls",
       "url": "https://open.spotify.com/track/5GT2mT3P8vMK4U9R4zzu7a"
@@ -2069,6 +2105,24 @@
     },
     {
       "album": {
+        "name": "The Better Life",
+        "url": "https://open.spotify.com/album/5gO2acKSOaJnP0Mcy8IpU6"
+      },
+      "artists": [
+        {
+          "name": "3 Doors Down",
+          "url": "https://open.spotify.com/artist/2RTUTCvo6onsAnheUk3aL9"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 233933,
+      "name": "Kryptonite",
+      "url": "https://open.spotify.com/track/6ZOBP3NvffbU4SZcrnt1k6"
+    },
+    {
+      "album": {
         "name": "Laid",
         "url": "https://open.spotify.com/album/5pALyxshOPc8LLKggzNvQe"
       },
@@ -2098,7 +2152,7 @@
       ],
       "date_added": "2025-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 163854,
       "name": "Last Night",
       "url": "https://open.spotify.com/track/583dMdiUquLMenarTp7PQm"
@@ -2332,7 +2386,7 @@
       ],
       "date_added": "2024-10-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 204828,
       "name": "Love Somebody",
       "url": "https://open.spotify.com/track/7hR22TOX3RorxJPcsz5Wbo"
@@ -2840,7 +2894,7 @@
       ],
       "date_added": "2023-10-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 405600,
       "name": "Paradise City",
       "url": "https://open.spotify.com/track/6eN1f9KNmiWEhpE2RhQqB5"

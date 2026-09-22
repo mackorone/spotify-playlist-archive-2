@@ -1,6 +1,6 @@
 {
   "description": "P\u00f4r do sol com p\u00e9 na areia e aquela resenha com viol\u00e3o e muita rima.",
-  "num_followers": 158097,
+  "num_followers": 158090,
   "original_name": "Resenha na Praia",
   "owner": {
     "name": "Spotify",
@@ -783,6 +783,22 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
+        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
+        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
+      },
+      "artists": [
+        {
+          "name": "Vitinho",
+          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
+        }
+      ],
+      "duration_ms": 208485,
+      "name": "4 da Manh\u00e3 - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
         "name": "Tanta Hist\u00f3ria",
         "url": "https://open.spotify.com/album/4aWI6XIjlv7Ccs3AnufvzR"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 195295,
       "name": "Tanta Hist\u00f3ria",
       "url": "https://open.spotify.com/track/1SQssy9EIJzkbp9nOtd89B"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
-        "name": "Ac\u00fastico: Sem Perceber + 4 da Manh\u00e3",
-        "url": "https://open.spotify.com/album/6wInOtdqAA15z0ZK6v0AjR"
-      },
-      "artists": [
-        {
-          "name": "Vitinho",
-          "url": "https://open.spotify.com/artist/09djLPsTydbIFC9duW5mQp"
-        }
-      ],
-      "duration_ms": 208485,
-      "name": "4 da Manh\u00e3 - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/57bo2W60Td9nuMYvwCCty2"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1143,30 +1143,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Minissaia",
-        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Carla Sol",
-          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
-        },
-        {
-          "name": "Ecologyk",
-          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
-        }
-      ],
-      "duration_ms": 139714,
-      "name": "Minissaia",
-      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "VIRADA DE CHAVE",
         "url": "https://open.spotify.com/album/4UEBroaikJEkW1tGDqGVGL"
       },
@@ -1187,6 +1163,30 @@
       "duration_ms": 188470,
       "name": "QUARTAS DE CINZA",
       "url": "https://open.spotify.com/track/6469XGbPcTiCKuZxOuvTYP"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Minissaia",
+        "url": "https://open.spotify.com/album/0pIPuAkKEsxtI8yqQhMVsr"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Carla Sol",
+          "url": "https://open.spotify.com/artist/5fsVgeMY2QWGXbNW6rIjgN"
+        },
+        {
+          "name": "Ecologyk",
+          "url": "https://open.spotify.com/artist/1mohmQWtxDNZcBGkfxG4eW"
+        }
+      ],
+      "duration_ms": 139714,
+      "name": "Minissaia",
+      "url": "https://open.spotify.com/track/0LZRq8008FVX8gNVI0yybo"
     },
     {
       "added_at": "2026-08-14 17:39:50",
@@ -1263,26 +1263,6 @@
     {
       "added_at": "2026-08-14 17:39:50",
       "album": {
-        "name": "Ciclo Vicioso",
-        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
-      },
-      "artists": [
-        {
-          "name": "Cynthia Luz",
-          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
-        },
-        {
-          "name": "Andr\u00e9 Nine",
-          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
-        }
-      ],
-      "duration_ms": 206142,
-      "name": "Pegando Carona",
-      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
-    },
-    {
-      "added_at": "2026-08-14 17:39:50",
-      "album": {
         "name": "Passa a Bola (Ao Vivo em Noronha)",
         "url": "https://open.spotify.com/album/4eCXQWkuhMpQJpF33batUs"
       },
@@ -1299,6 +1279,26 @@
       "duration_ms": 188319,
       "name": "Passa a Bola - Ao Vivo em Noronha",
       "url": "https://open.spotify.com/track/41nNYqljJ4TY1ORtcMoNA1"
+    },
+    {
+      "added_at": "2026-08-14 17:39:50",
+      "album": {
+        "name": "Ciclo Vicioso",
+        "url": "https://open.spotify.com/album/5NN6jAsZ5ePXElnkk3gCuJ"
+      },
+      "artists": [
+        {
+          "name": "Cynthia Luz",
+          "url": "https://open.spotify.com/artist/0QHGCPmM4UgeNvrNPntSlu"
+        },
+        {
+          "name": "Andr\u00e9 Nine",
+          "url": "https://open.spotify.com/artist/5cc7XCY3YdVmFDYw9LklMq"
+        }
+      ],
+      "duration_ms": 206142,
+      "name": "Pegando Carona",
+      "url": "https://open.spotify.com/track/4tc1q7IeDAfld5pKg0k4TA"
     },
     {
       "added_at": "2026-08-14 17:39:50",

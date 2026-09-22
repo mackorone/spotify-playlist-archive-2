@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 
 > Chill rap e R&B: É um mood suave e envolvente\. Foto: Bispo, Ad
 
-[Spotify](https://open.spotify.com/user/spotify) - 55,883 likes - 75 songs - 4 hr 10 min
+[Spotify](https://open.spotify.com/user/spotify) - 55,901 likes - 75 songs - 4 hr 10 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -28,8 +28,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 18 | [Even](https://open.spotify.com/track/1cTamrfYAUHnoiMf2gpq55) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS), [Van Zee](https://open.spotify.com/artist/2Rjx4IV5w0P4JOv17xCWMS), [FRANKIEONTHEGUITAR](https://open.spotify.com/artist/4p2ytjUztJseG5ujVkv5Po) | [IT WILL HURT BOTH WAYS](https://open.spotify.com/album/4GeL7dcG2LxnYTsypnE9MJ) | 3:07 |
 | 19 | [JÁ TÁ TARDE](https://open.spotify.com/track/2eUL8ZydJ3j3D2fNheqxuI) | [Balata](https://open.spotify.com/artist/0E3h7iT1bT5h7kZ52qsica), [Fraga](https://open.spotify.com/artist/0Fg2MQOKY2fF3IRX12X7YJ) | [JÁ TÁ TARDE](https://open.spotify.com/album/3IZ5X0uAK51OF7zPRnv9VX) | 3:24 |
 | 20 | [ON EST LÀ \(feat\. Wet Bed Gang\)](https://open.spotify.com/track/6EWt6TUm52Dr5RgL2L5e4c) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Wet Bed Gang](https://open.spotify.com/artist/5jfz7uWPwf03hdEewW8AI8) | [ON EST LÀ \(feat\. Wet Bed Gang\)](https://open.spotify.com/album/0M14SqaCcdPVegOFFgpJkv) | 4:02 |
-| 21 | [Agradecido](https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Agradecido](https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa) | 4:54 |
-| 22 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
+| 21 | [Fica](https://open.spotify.com/track/5x2NQmYWyqExdyyXjNIWh3) | [Domingues](https://open.spotify.com/artist/7BcPoZhXI08icbiq1mpxFx) | [Fica](https://open.spotify.com/album/1pOpD6cFStho3wbAcx6Npr) | 4:20 |
+| 22 | [Agradecido](https://open.spotify.com/track/2qeTrAkcS5cFP8ptFix18T) | [Plutonio](https://open.spotify.com/artist/39HJXjH5hKcCzaU0g6mv8G) | [Agradecido](https://open.spotify.com/album/4xqDWbbExMyT3F6Z8hz7wa) | 4:54 |
 | 23 | [Direção Paris](https://open.spotify.com/track/47vme38PigHgHq5YVEzUt8) | [Dillaz](https://open.spotify.com/artist/15p1isN7VcGsjeSq8s9YeP) | [O Próprio](https://open.spotify.com/album/52B67tLSbAC5pS3GZc2Gnd) | 4:02 |
 | 24 | [Do You No Wrong](https://open.spotify.com/track/6FInCuMbSlhdlkiFv36KUi) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [Lisboa](https://open.spotify.com/album/4fg5poNVFhqlldfPzrPrMh) | 4:03 |
 | 25 | [Contra Probabilidades](https://open.spotify.com/track/5nYYQ85x9DwEiEpETQNlNC) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Julinho Ksd](https://open.spotify.com/artist/7kR1Yw4RqYhhDD3a8QRyG6) | [Contra Probabilidades](https://open.spotify.com/album/2w1V6Gjc1HVZ6TGYMlzqT8) | 3:23 |
@@ -58,8 +58,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcLnINu2mUk0.md) - [plain]
 | 48 | [Não Presto](https://open.spotify.com/track/5DKTdgyYNXI8MGOM2GemRe) | [Piruka](https://open.spotify.com/artist/5iZ6jMDkRa7RKLQplJuQUC) | [Menino Da Mamã \(Deluxe Edition\)](https://open.spotify.com/album/3LZsPR3MOg0h3B4927BAXO) | 3:18 |
 | 49 | [Voz da Multidão](https://open.spotify.com/track/31D9NOd8syWRzk2c9Aj0Hl) | [Deejay Telio](https://open.spotify.com/artist/7BWNRZyZ9mhgp5t0m7Ny0n) | [Voz da Multidão](https://open.spotify.com/album/4Dk6TDTbaP2pNdeOWYBLeE) | 3:26 |
 | 50 | [SUPER](https://open.spotify.com/track/7G4Icmrbwe5jQTVMOQ5NbV) | [LZ](https://open.spotify.com/artist/7ylnIZOT3I0EdTMcWVTLud), [XROOTZ](https://open.spotify.com/artist/0ZDuMqcz7YEc0sJDijQmEb), [Horrid Mx](https://open.spotify.com/artist/4cCrZCtMwCzFFvEXfHf1AK) | [SUPER](https://open.spotify.com/album/4eTP8dIvGNdgYAf0D1ixNJ) | 3:42 |
-| 51 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
-| 52 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
+| 51 | [Essa Saia](https://open.spotify.com/track/2OI0z4fQD8NQPfYf5v6a2E) | [Bispo](https://open.spotify.com/artist/3LZCMaZWwvhYyQeEfWgVdY), [Ivandro](https://open.spotify.com/artist/1pPbDeOdNUcLq32HTTLbZm) | [Essa Saia](https://open.spotify.com/album/47vPVhxPOVncM7tPBxFlFX) | 3:29 |
+| 52 | [Chama](https://open.spotify.com/track/5HnyAdCgZ4LkQ0LX7epYwQ) | [CADU](https://open.spotify.com/artist/632Kw78b8XGotuWxpKV2A3) | [Chama](https://open.spotify.com/album/7c0pS0w9PBaIobszlefBT7) | 2:33 |
 | 53 | [À Janela](https://open.spotify.com/track/0xSMmvj8aQl9twNz7RQoEt) | [Aragão](https://open.spotify.com/artist/6uVPyqbCsr2hcfDwGTmdl4) | [À Janela](https://open.spotify.com/album/1axhHB2sKWodQFnJHEnidG) | 2:55 |
 | 54 | [Aguarela](https://open.spotify.com/track/7d0P02kHN2V2dD4LRFqF2S) | [Myles 6ix](https://open.spotify.com/artist/2PGHvstK1cEjR9AX2ERq9l), [Teetwo](https://open.spotify.com/artist/5VJa8cNehs0vBfqAEd92ar), [TeniTeach](https://open.spotify.com/artist/79p4kSzCWg2NOxhCJtktwE) | [Aguarela](https://open.spotify.com/album/3xn6NxoK4rdQRyWndt4ylL) | 3:16 |
 | 55 | [Fora do Normal \(feat\. Nenny & Chelsea Dinorath\)](https://open.spotify.com/track/5l5yIu3BV9JFcS7lBDJGIU) | [Mizzy Miles](https://open.spotify.com/artist/0QoKkMC6uy7fUng96fab1I), [Nenny](https://open.spotify.com/artist/2DEfqyWjAMIfKYMXb1V8L1), [Chelsea Dinorath](https://open.spotify.com/artist/0iFUMxC62joHJMxZwMZvzp) | [FIM DO NADA DELUXE](https://open.spotify.com/album/4IV29ZB0IT2qKAnbFze2KO) | 4:00 |

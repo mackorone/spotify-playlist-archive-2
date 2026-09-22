@@ -1,12 +1,12 @@
 {
   "description": "This is Roberta Flack. The essential tracks, all in one playlist.",
-  "num_followers": 49732,
+  "num_followers": 49733,
   "original_name": "This Is Roberta Flack",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAACdq6tHC3xhujPct23QuYeP",
+  "snapshot_id": "aq8iAAAAAAD6/j9Mk3+ECjCEcBZ6UC95",
   "tracks": [
     {
       "added_at": null,
@@ -495,18 +495,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+        "name": "Born To Love",
+        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
       "artists": [
+        {
+          "name": "Peabo Bryson",
+          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
+        },
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 299693,
-      "name": "Let It Be Me",
-      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
+      "duration_ms": 243466,
+      "name": "You're Lookin' Like Love To Me",
+      "url": "https://open.spotify.com/track/3ry3B05LnmDlL43M4UUl3S"
     },
     {
       "added_at": null,
@@ -527,22 +531,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Born To Love",
-        "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
       },
       "artists": [
-        {
-          "name": "Peabo Bryson",
-          "url": "https://open.spotify.com/artist/49iKbKGqgn8OESkW5WduX0"
-        },
         {
           "name": "Roberta Flack",
           "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
         }
       ],
-      "duration_ms": 243466,
-      "name": "You're Lookin' Like Love To Me",
-      "url": "https://open.spotify.com/track/3ry3B05LnmDlL43M4UUl3S"
+      "duration_ms": 299693,
+      "name": "Let It Be Me",
+      "url": "https://open.spotify.com/track/3JQhucHpNxG2iDwFYHUwur"
     },
     {
       "added_at": null,
@@ -627,6 +627,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "Roberta Flack Featuring Donny Hathaway",
+        "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        },
+        {
+          "name": "Donny Hathaway",
+          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
+        }
+      ],
+      "duration_ms": 246066,
+      "name": "Only Heaven Can Wait (For Love) (feat. Donny Hathaway)",
+      "url": "https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Love Lives Forever",
         "url": "https://open.spotify.com/album/5uBMH0TZQnMyDyMsDpYy1n"
       },
@@ -647,26 +667,6 @@
       "duration_ms": 420986,
       "name": "Here We Go",
       "url": "https://open.spotify.com/track/4Ro6O6zW2bNaHLNVGixHwF"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Roberta Flack Featuring Donny Hathaway",
-        "url": "https://open.spotify.com/album/4cNXauC0sitXWsOmuOtGvg"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        },
-        {
-          "name": "Donny Hathaway",
-          "url": "https://open.spotify.com/artist/0HU0U9kdXEHZVxUNbuQe8S"
-        }
-      ],
-      "duration_ms": 246066,
-      "name": "Only Heaven Can Wait (For Love) (feat. Donny Hathaway)",
-      "url": "https://open.spotify.com/track/7FOSBjOxnDd3vns3AKx8rr"
     },
     {
       "added_at": null,
@@ -795,6 +795,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Chapter Two",
+        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
+      },
+      "artists": [
+        {
+          "name": "Roberta Flack",
+          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
+        }
+      ],
+      "duration_ms": 299000,
+      "name": "Until It's Time for You to Go",
+      "url": "https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Born To Love",
         "url": "https://open.spotify.com/album/2tM4mgvIwXse9Ty1i59yVE"
       },
@@ -811,22 +827,6 @@
       "duration_ms": 243666,
       "name": "I Just Came Here To Dance",
       "url": "https://open.spotify.com/track/0uNqTYH6znvlSHEBkGBVnL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Chapter Two",
-        "url": "https://open.spotify.com/album/3IOY0CeApn7qAjL6k5pRz4"
-      },
-      "artists": [
-        {
-          "name": "Roberta Flack",
-          "url": "https://open.spotify.com/artist/0W498bDDNlJIrYMKXdpLHA"
-        }
-      ],
-      "duration_ms": 299000,
-      "name": "Until It's Time for You to Go",
-      "url": "https://open.spotify.com/track/0f3FOlNpyINc62ys6DfQHv"
     },
     {
       "added_at": null,

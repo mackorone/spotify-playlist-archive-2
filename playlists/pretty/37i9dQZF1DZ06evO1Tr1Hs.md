@@ -4,11 +4,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 
 > This is Ken Carson\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 47,422 likes - 34 songs - 1 hr 30 min
+[Spotify](https://open.spotify.com/user/spotify) - 47,438 likes - 35 songs - 1 hr 35 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [Never Tell](https://open.spotify.com/track/5uzRXTJF2a5dsvj0OY7nYz) | [Narco Juliet](https://open.spotify.com/artist/6BzV00UB67RkdQEdg2AGkT), [Ken Carson](https://open.spotify.com/artist/6NuphuJjIbOHlwGOtligTb), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx), [SUMMER ALONE](https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek) | [Never Tell](https://open.spotify.com/album/3QXwzjiIJJSrys2gmRd14t) | 3:16 |
+| 1 | [Never Tell](https://open.spotify.com/track/5uzRXTJF2a5dsvj0OY7nYz) | [Narco Juliet](https://open.spotify.com/artist/6BzV00UB67RkdQEdg2AGkT), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Miri Ben\-Ari](https://open.spotify.com/artist/7i0Z1tzWVamskO8eLnZ3Kx), [SUMMER ALONE](https://open.spotify.com/artist/7ozWZAI5CjNLOp9iFFSzek) | [Never Tell](https://open.spotify.com/album/3QXwzjiIJJSrys2gmRd14t) | 3:16 |
 | 2 | [vamp city \(with OsamaSon\)](https://open.spotify.com/track/4UyE3xTsvuyovBIODvhDV0) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [OsamaSon](https://open.spotify.com/artist/0uj6QiPsPfK8ywLC7uwBE1) | [xperiment \- cartunez](https://open.spotify.com/album/6XeYRwn2Db1C0g78HoXxn7) | 1:50 |
 | 3 | [Yale](https://open.spotify.com/track/66yPalPs9DrhbGb9gR3vD9) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [Teen X](https://open.spotify.com/album/0NMHUXzCJRMrrwS5UDI8rM) | 1:46 |
 | 4 | [gynecologist](https://open.spotify.com/track/6AoCjfTG81tgoy08bOLX2H) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [xperiment](https://open.spotify.com/album/0EOwIqfcx025yJLSIpcNi9) | 2:15 |
@@ -42,5 +42,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO1Tr1Hs.md) - [plain]
 | 32 | [Off The Meter \(with Playboi Carti & Destroy Lonely\)](https://open.spotify.com/track/2Y98lEkMVALCXni7o2g28b) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX), [Playboi Carti](https://open.spotify.com/artist/699OTQXzgjhIYAHMy9RyPD), [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD) | [More Chaos](https://open.spotify.com/album/1TiWFnZwyZ152viq7v9C31) | 3:39 |
 | 33 | [VETERAN \(feat\. Ken Carson\)](https://open.spotify.com/track/6nB8lELQBAmRXeNQivxBJ4) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [NO STYLIST](https://open.spotify.com/album/0G4XTKDAeBmdfV8pZFaYu2) | 2:56 |
 | 34 | [catastrophe](https://open.spotify.com/track/7LLIyWvrVCoOW35WqG9Jx7) | [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [catastrophe](https://open.spotify.com/album/1JZmYxLAjD3XgMFnhuiPPd) | 2:10 |
+| 35 | [money & sex](https://open.spotify.com/track/2cQxzcGw5eUJtqIdYuRoLq) | [Destroy Lonely](https://open.spotify.com/artist/1HPW4jeRjXBFRoUnSvBzoD), [Ken Carson](https://open.spotify.com/artist/3gBZUcNeVumkeeJ19CY2sX) | [If Looks Could Kill](https://open.spotify.com/album/2Sl8X3Uu2N4B2pVa9y5U29) | 4:32 |
 
-Snapshot ID: `aq3QgAAAAAAPk9UcXtRu2i8iQzobIv/0`
+Snapshot ID: `aq8iAAAAAAAHnQOL8l9+nZp4PYHMn4lI`

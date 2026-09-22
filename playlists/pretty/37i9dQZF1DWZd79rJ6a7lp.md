@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 
 > Gentle Ambient piano to help you fall asleep.
 
-[Spotify](https://open.spotify.com/user/spotify) - 6,715,181 likes - 384 songs - 17 hr 19 min
+[Spotify](https://open.spotify.com/user/spotify) - 6,716,401 likes - 384 songs - 17 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -371,7 +371,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZd79rJ6a7lp.md) - [plain]
 | 361 | [Opening](https://open.spotify.com/track/3q3MXI7TXxfrzGLMlNcWA8) | [Sky Sailor](https://open.spotify.com/artist/1wNyUBqk3zMlwfuyoiCIzS) | [Opening](https://open.spotify.com/album/1ZMP0olCCafDsFN3ruxse2) | 2:18 |
 | 362 | [Placid Interval](https://open.spotify.com/track/3rejhbJj7L7YG8dYkaq1Th) | [Zyair Price](https://open.spotify.com/artist/767ee2dusb4P76a8GXPf6t) | [Placid Interval](https://open.spotify.com/album/7d55HIpi8OCtp0LiiU2KQK) | 2:44 |
 | 363 | [Northern Lights](https://open.spotify.com/track/49M1JaGyrEF94bra6LvwzS) | [Obdormiam](https://open.spotify.com/artist/1oribWbIvS6aMLdzoAqRTy) | [Northern Lights](https://open.spotify.com/album/31UKreiSXDDzLgPT2r3L2E) | 2:10 |
-| 364 | [Unleash Life](https://open.spotify.com/track/67z9CJricdxWeTFSxnKtTh) | [Ocean Pulse](https://open.spotify.com/artist/6gQD4JqqcAJWvbWObCMCTX) | [Unleash Life](https://open.spotify.com/album/5WVpFpba9AbDLH6GOsc9Pv) | 2:49 |
+| 364 | [Unleash Life](https://open.spotify.com/track/67z9CJricdxWeTFSxnKtTh) | [Ocean Pulse](https://open.spotify.com/artist/02GyXHiqxxpn6adlAJ49O3) | [Unleash Life](https://open.spotify.com/album/5WVpFpba9AbDLH6GOsc9Pv) | 2:49 |
 | 365 | [Dream Fountain](https://open.spotify.com/track/4en66Y5GGUZeUK5Q89RGvJ) | [Eirwyn North](https://open.spotify.com/artist/29zgjcMG5XRMfqrwBenRta) | [Dream Fountain](https://open.spotify.com/album/3TjtXdldQx6It13RoLVtRA) | 2:57 |
 | 366 | [As Darkness Settles](https://open.spotify.com/track/0zqeRrslVVNXgzagEFnagz) | [Claira Mikkelsen](https://open.spotify.com/artist/1UW4IN55vQzgYjkdR3ivVE) | [As Darkness Settles](https://open.spotify.com/album/1qN9cPUD1UGf356yrYacVE) | 2:26 |
 | 367 | [Celestial Lights](https://open.spotify.com/track/43ZPbZA6MRtn3MzwuQh0wE) | [Leon White](https://open.spotify.com/artist/72ScelHE6WamhCvVXl9lp2) | [Celestial Lights](https://open.spotify.com/album/2FkbPQFsoBizcGbrkT4u7S) | 2:40 |

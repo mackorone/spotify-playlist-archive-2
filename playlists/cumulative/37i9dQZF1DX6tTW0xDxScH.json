@@ -262,7 +262,7 @@
       ],
       "date_added": "2024-07-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 235382,
       "name": "awe",
       "url": "https://open.spotify.com/track/20liuVONukHV5oK7kghgOI"
@@ -352,7 +352,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 235666,
       "name": "Back, Baby",
       "url": "https://open.spotify.com/track/6qPr2b9A2aw4n0rbDoUFUg"
@@ -872,7 +872,7 @@
       ],
       "date_added": "2024-07-03",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 289964,
       "name": "Change (feat. Remi Wolf)",
       "url": "https://open.spotify.com/track/3mehDctP70zwlcRaY4iQ1X"
@@ -991,6 +991,24 @@
     },
     {
       "album": {
+        "name": "Coming Home (Deluxe)",
+        "url": "https://open.spotify.com/album/21KIagsx1ZvYcv0sVkEAWv"
+      },
+      "artists": [
+        {
+          "name": "Leon Bridges",
+          "url": "https://open.spotify.com/artist/3qnGvpP8Yth1AqSBMqON5x"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 206386,
+      "name": "Coming Home",
+      "url": "https://open.spotify.com/track/65GbQI9VDTs7vo6MJL2iJA"
+    },
+    {
+      "album": {
         "name": "Concentrate",
         "url": "https://open.spotify.com/album/12Q6rsos506fgL55F1c5Ca"
       },
@@ -1074,7 +1092,7 @@
       ],
       "date_added": "2023-12-15",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 240759,
       "name": "Coolshit Bullshit",
       "url": "https://open.spotify.com/track/1NaDkeb2bSKFvuP5dZazet"
@@ -1777,6 +1795,24 @@
     },
     {
       "album": {
+        "name": "Life And Life Only (Expanded Edition)",
+        "url": "https://open.spotify.com/album/3EymXDTbsZ4suA5sqlZcyJ"
+      },
+      "artists": [
+        {
+          "name": "The Heavy Heavy",
+          "url": "https://open.spotify.com/artist/5WSRRbhBJlhqvzgbOm3U2Q"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 266106,
+      "name": "Go Down River",
+      "url": "https://open.spotify.com/track/5HQtRirC8ERASUifigbapJ"
+    },
+    {
+      "album": {
         "name": "The Tearoom",
         "url": "https://open.spotify.com/album/31nDiExE01bogsQo8Njb9o"
       },
@@ -2308,7 +2344,7 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 202720,
       "name": "I Don't",
       "url": "https://open.spotify.com/track/7Gzm2IS4zLi5W46dudWn7H"
@@ -3315,6 +3351,24 @@
     },
     {
       "album": {
+        "name": "Live It Down",
+        "url": "https://open.spotify.com/album/5qyYwVLbn1hWMzLPNObBV0"
+      },
+      "artists": [
+        {
+          "name": "Tyler Ballgame",
+          "url": "https://open.spotify.com/artist/1pQ0Axx7UF8LDDOqSgdVmK"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 223715,
+      "name": "Live It Down",
+      "url": "https://open.spotify.com/track/46LMLiMIgmpftDNsEirs02"
+    },
+    {
+      "album": {
         "name": "Fragile Plane: B-Sides",
         "url": "https://open.spotify.com/album/1RORYbQMEFI6n8LjzBJtWs"
       },
@@ -3912,7 +3966,7 @@
       ],
       "date_added": "2024-12-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 257904,
       "name": "Mouth of a Flower",
       "url": "https://open.spotify.com/track/0rHsI1XMHFqORFBxjzgDP5"
@@ -4489,6 +4543,24 @@
     },
     {
       "album": {
+        "name": "Reasons",
+        "url": "https://open.spotify.com/album/5VLjMfC2GGKl98RElwNnhv"
+      },
+      "artists": [
+        {
+          "name": "Luke Tyler Shelton",
+          "url": "https://open.spotify.com/artist/403x11RUETcMwsBZlbneLC"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183776,
+      "name": "Reasons",
+      "url": "https://open.spotify.com/track/6qp7oXl2E2DDwDMJPhb1xX"
+    },
+    {
+      "album": {
         "name": "recently",
         "url": "https://open.spotify.com/album/295qW3R6DSM1WfePwUpgux"
       },
@@ -4576,6 +4648,28 @@
       "duration_ms": 204386,
       "name": "Reflections After Jane",
       "url": "https://open.spotify.com/track/4tvcK5VeTECYIepVxloVSG"
+    },
+    {
+      "album": {
+        "name": "Rina",
+        "url": "https://open.spotify.com/album/1WL3GoeS3sad2UrkUTAPXd"
+      },
+      "artists": [
+        {
+          "name": "Sylvie",
+          "url": "https://open.spotify.com/artist/027ntpFbzyT1mGw71h1OaZ"
+        },
+        {
+          "name": "Alex Amen",
+          "url": "https://open.spotify.com/artist/70qCuX4YtspN8K6g4lKHnM"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 279066,
+      "name": "Rina",
+      "url": "https://open.spotify.com/track/6FCJOwTvlHzpFDWx82L6WF"
     },
     {
       "album": {
@@ -5024,6 +5118,24 @@
       "duration_ms": 230625,
       "name": "Skin",
       "url": "https://open.spotify.com/track/467t3218y3yihFcyDGWjr0"
+    },
+    {
+      "album": {
+        "name": "Sleeping",
+        "url": "https://open.spotify.com/album/3MaY7jwsacEjRQDw8sG98V"
+      },
+      "artists": [
+        {
+          "name": "Fenne Lily",
+          "url": "https://open.spotify.com/artist/7iPH2BRBF9wKa6ljxvdext"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 212391,
+      "name": "Sleeping",
+      "url": "https://open.spotify.com/track/7IqurzUAAiSkZtH0CmO04u"
     },
     {
       "album": {
@@ -6328,10 +6440,28 @@
       ],
       "date_added": "2026-01-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 180727,
       "name": "What About Me",
       "url": "https://open.spotify.com/track/3cWxzr90hIxXwtWxSq6SHk"
+    },
+    {
+      "album": {
+        "name": "Big World",
+        "url": "https://open.spotify.com/album/7FxTrIkmdXRF14Pmp71ezy"
+      },
+      "artists": [
+        {
+          "name": "Hovvdy",
+          "url": "https://open.spotify.com/artist/59RNNqeEfkq3X5pfOQxZ3C"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181333,
+      "name": "What I Had",
+      "url": "https://open.spotify.com/track/73X9SAt8qtPtbUjY1Ngl1N"
     },
     {
       "album": {

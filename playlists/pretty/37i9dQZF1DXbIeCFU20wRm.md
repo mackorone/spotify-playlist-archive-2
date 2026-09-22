@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbIeCFU20wRm.md) - [plain]
 
 > Enter another dimension of classical music with these atmospheric Sci\-fi soundtracks.
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,863 likes - 53 songs - 3 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,949 likes - 53 songs - 3 hr 20 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

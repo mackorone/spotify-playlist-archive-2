@@ -4,7 +4,7 @@
 
 > This is Banda Rafaga\. The essential tracks, all in one playlist.
 
-147 songs - 8 hr 1 min
+148 songs - 8 hr 4 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -90,8 +90,9 @@
 | [Medias Negras](https://open.spotify.com/track/48f4eACs0OsZO80PlFsChR) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Las Medias Negras](https://open.spotify.com/album/7uwZBfrVF7eFyVQLKVXAA3) | 2:38 | 2022-12-29 |  |
 | [Merezco Tu Olvido](https://open.spotify.com/track/18ioQcnn3CE7WL7yDA3MGR) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/4DnkB5NeZ51czGipXVAkWF) | 3:16 | 2025-04-04 | 2025-04-07 |
 | [Merezco Tu Olvido](https://open.spotify.com/track/5nr4GX8nllvylj38HBSrTH) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Y Todavía Hay Amor](https://open.spotify.com/album/2LuwmVfxHSTDH0ElkczrQl) | 3:16 | 2025-04-07 | 2025-04-08 |
-| [Mi Amor Bendito](https://open.spotify.com/track/0A7bJdzkWDMTCZKkj2GTvU) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 3:04 | 2025-04-07 |  |
+| [Mi Amor Bendito](https://open.spotify.com/track/0A7bJdzkWDMTCZKkj2GTvU) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0qdsE73HbB4e6weGZqekHv) | 3:04 | 2025-04-07 | 2026-09-22 |
 | [Mi Amor Bendito](https://open.spotify.com/track/5gIPwxhkCDameLVPiykU8n) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/0PtRxQa8bn2Twomg9uwL39) | 3:04 | 2022-06-01 | 2025-04-07 |
+| [Mi Amor Bendito](https://open.spotify.com/track/6A5sDbz1D4YeCAETLz3LAM) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Para Ellas](https://open.spotify.com/album/66LlA9AN6tO3EdzncOu0a4) | 3:04 | 2026-09-22 |  |
 | [Mi Primer Amor](https://open.spotify.com/track/0yJqmBLDWBGsCqjTR26B2V) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Soy de Carne y Hueso](https://open.spotify.com/album/1Z0XIv35WxRIsrHFERZfBq) | 3:30 | 2022-06-01 | 2022-08-27 |
 | [Mi Ultima Parranda \(En Vivo\)](https://open.spotify.com/track/7n9VbJdI8uT7Wh3qi0eWdd) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [En Vivo! Desde Pico Rivera, Ca](https://open.spotify.com/album/4XqFliWLK6IJUXGeFVFArd) | 3:33 | 2022-06-02 | 2022-08-27 |
 | [Mi Ultima Parranda \- En Vivo](https://open.spotify.com/track/3QyfrvlB1OGCHsFeOAgglU) | [Banda Rafaga](https://open.spotify.com/artist/7wkJfPIttlgTC5P9dLhqzJ) | [Banda Rafaga en Vivo! Desde Tepic, Nayarit](https://open.spotify.com/album/43Ub9pI2gNLDPGBY1H3PAp) | 3:27 | 2022-08-30 | 2024-06-01 |

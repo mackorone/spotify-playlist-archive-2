@@ -1,12 +1,12 @@
 {
   "description": "This is Slipmami. The essential tracks, all in one playlist.",
-  "num_followers": 9820,
+  "num_followers": 9821,
   "original_name": "This Is Slipmami",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABU0sTpTtH/3RYbH8eDMR72",
+  "snapshot_id": "aq8iAAAAAAA6GLqMLrhlPL/5je2wpKSJ",
   "tracks": [
     {
       "added_at": null,
@@ -343,30 +343,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Ascens\u00e3o do Cisne Negro",
-        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
-      },
-      "artists": [
-        {
-          "name": "Major RD",
-          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
-        },
-        {
-          "name": "Rock Danger",
-          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
-        },
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 206869,
-      "name": "Show Lotado",
-      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Malvatrem (Deluxe)",
         "url": "https://open.spotify.com/album/2K2cBGYWQOe1M3SDEqRQuv"
       },
@@ -387,6 +363,30 @@
       "duration_ms": 142500,
       "name": "14 Sem Vaselina",
       "url": "https://open.spotify.com/track/2JV98Y7WyUvIOYiFbRnikA"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Ascens\u00e3o do Cisne Negro",
+        "url": "https://open.spotify.com/album/5F6uYU6Gf5sFNDLEd17dpZ"
+      },
+      "artists": [
+        {
+          "name": "Major RD",
+          "url": "https://open.spotify.com/artist/76hYPcWML9NGEh8LashwT5"
+        },
+        {
+          "name": "Rock Danger",
+          "url": "https://open.spotify.com/artist/1mjuRRMumbLmGmHmYvMDcb"
+        },
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 206869,
+      "name": "Show Lotado",
+      "url": "https://open.spotify.com/track/3nFSNBEHUosZ2JvcRQB6fT"
     },
     {
       "added_at": null,
@@ -583,6 +583,26 @@
     {
       "added_at": null,
       "album": {
+        "name": "GODZILLA",
+        "url": "https://open.spotify.com/album/3afnPcuccMKmiiVtzDMCXq"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        },
+        {
+          "name": "AG Beatz",
+          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
+        }
+      ],
+      "duration_ms": 151578,
+      "name": "GODZILLA",
+      "url": "https://open.spotify.com/track/1BrIXH2RmVHzeFszEefAGP"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Preta.Foda.Quente",
         "url": "https://open.spotify.com/album/23yPDm5pk1v4QrJFahAdrQ"
       },
@@ -607,26 +627,6 @@
       "duration_ms": 181951,
       "name": "Preta.Foda.Quente",
       "url": "https://open.spotify.com/track/6jvrsFHPR8CWW8qNwIRvYL"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "GODZILLA",
-        "url": "https://open.spotify.com/album/3afnPcuccMKmiiVtzDMCXq"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        },
-        {
-          "name": "AG Beatz",
-          "url": "https://open.spotify.com/artist/3vy0Vu1deAyyjs5WgeEcFJ"
-        }
-      ],
-      "duration_ms": 151578,
-      "name": "GODZILLA",
-      "url": "https://open.spotify.com/track/1BrIXH2RmVHzeFszEefAGP"
     },
     {
       "added_at": null,
@@ -895,6 +895,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "Moranguinho",
+        "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
+      },
+      "artists": [
+        {
+          "name": "Slipmami",
+          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
+        }
+      ],
+      "duration_ms": 114465,
+      "name": "Moranguinho",
+      "url": "https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Cria de Caxias",
         "url": "https://open.spotify.com/album/3J7pd00FYE2TSKfvwVVpn4"
       },
@@ -911,22 +927,6 @@
       "duration_ms": 127866,
       "name": "cria de caxias",
       "url": "https://open.spotify.com/track/2lkBXmDoJs7dgRASg3vHP4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Moranguinho",
-        "url": "https://open.spotify.com/album/13T073GRitV1LYzHFhoVoK"
-      },
-      "artists": [
-        {
-          "name": "Slipmami",
-          "url": "https://open.spotify.com/artist/1tnx55teqOt1cV6IlKcgNs"
-        }
-      ],
-      "duration_ms": 114465,
-      "name": "Moranguinho",
-      "url": "https://open.spotify.com/track/0fyxmtliWPVuQxVD3erEKy"
     },
     {
       "added_at": null,

@@ -1,6 +1,6 @@
 {
   "description": "Aqu\u00ed viven las ac\u00fasticas. Cover: Valentina Rico",
-  "num_followers": 1746627,
+  "num_followers": 1746403,
   "original_name": "Ac\u00fasticas",
   "owner": {
     "name": "Spotify",
@@ -735,22 +735,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "SUBEME LA RADIO",
-        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
-      },
-      "artists": [
-        {
-          "name": "Aberola",
-          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
-        }
-      ],
-      "duration_ms": 209826,
-      "name": "SUBEME LA RADIO",
-      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Natalia Lafourcade (Spotify Session)",
         "url": "https://open.spotify.com/album/0s9tY7YgGKtTxBuWPiJFFj"
       },
@@ -763,6 +747,22 @@
       "duration_ms": 280080,
       "name": "Nunca Es Suficiente - Spotify Session",
       "url": "https://open.spotify.com/track/6rYXXaxMjvHpIFfEWze5lm"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "SUBEME LA RADIO",
+        "url": "https://open.spotify.com/album/4OtgtFKL8VgTfRH1TuNAGo"
+      },
+      "artists": [
+        {
+          "name": "Aberola",
+          "url": "https://open.spotify.com/artist/0i3cbCgMSQS3tXMVFXoaTC"
+        }
+      ],
+      "duration_ms": 209826,
+      "name": "SUBEME LA RADIO",
+      "url": "https://open.spotify.com/track/0NwNDC0W5mn6naEhJYwq6d"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -807,6 +807,26 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
+        "name": "NUEVE",
+        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
+      },
+      "artists": [
+        {
+          "name": "Micro TDH",
+          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
+        },
+        {
+          "name": "Pablo Albor\u00e1n",
+          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
+        }
+      ],
+      "duration_ms": 208057,
+      "name": "EL LOBBY",
+      "url": "https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
         "name": "La Mexicana",
         "url": "https://open.spotify.com/album/3jvseqHtHdkQXMWDjsoT4C"
       },
@@ -827,26 +847,6 @@
       "duration_ms": 163213,
       "name": "\u00bfTe Ha Pasado?",
       "url": "https://open.spotify.com/track/6MPmTzi1FdDKu3yhfhVd1Y"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
-        "name": "NUEVE",
-        "url": "https://open.spotify.com/album/1QarGcpgUIOxlH658yPZ5R"
-      },
-      "artists": [
-        {
-          "name": "Micro TDH",
-          "url": "https://open.spotify.com/artist/1aWJsBQa67l72j1VT3D6Ow"
-        },
-        {
-          "name": "Pablo Albor\u00e1n",
-          "url": "https://open.spotify.com/artist/5M9Bb4adKAgrOFOhc05Y50"
-        }
-      ],
-      "duration_ms": 208057,
-      "name": "EL LOBBY",
-      "url": "https://open.spotify.com/track/63ECpf4a5crKp0R12BhMXQ"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -903,22 +903,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "ACOUSTIC SESSION",
-        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
-      },
-      "artists": [
-        {
-          "name": "Maria Becerra",
-          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
-        }
-      ],
-      "duration_ms": 161000,
-      "name": "CORAZ\u00d3N VAC\u00cdO",
-      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Un Chingo",
         "url": "https://open.spotify.com/album/5JvTVY2AYNpX6g4KIXzkdT"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 177285,
       "name": "Un Chingo",
       "url": "https://open.spotify.com/track/7nIMGS6kTXvlci76i6neKb"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "ACOUSTIC SESSION",
+        "url": "https://open.spotify.com/album/3KAXRhZrmuSvoPTiKX20J7"
+      },
+      "artists": [
+        {
+          "name": "Maria Becerra",
+          "url": "https://open.spotify.com/artist/1DxLCyH42yaHKGK3cl5bvG"
+        }
+      ],
+      "duration_ms": 161000,
+      "name": "CORAZ\u00d3N VAC\u00cdO",
+      "url": "https://open.spotify.com/track/7IXUNuBYPd6sreTGL6jiW2"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1239,22 +1239,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Santiago",
-        "url": "https://open.spotify.com/album/5kpdmaT9zISP1HUPdSXYoF"
-      },
-      "artists": [
-        {
-          "name": "Luis Fonsi",
-          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
-        }
-      ],
-      "duration_ms": 199720,
-      "name": "Santiago",
-      "url": "https://open.spotify.com/track/7erP3zGsGtBhhCN8OWPXoC"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "X Aqu\u00ed X All\u00e1 (Acustico)",
         "url": "https://open.spotify.com/album/1fnwRevrGaRoY5MSmfOBVO"
       },
@@ -1271,6 +1255,22 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
+        "name": "Santiago",
+        "url": "https://open.spotify.com/album/5kpdmaT9zISP1HUPdSXYoF"
+      },
+      "artists": [
+        {
+          "name": "Luis Fonsi",
+          "url": "https://open.spotify.com/artist/4V8Sr092TqfHkfAA5fXXqG"
+        }
+      ],
+      "duration_ms": 199720,
+      "name": "Santiago",
+      "url": "https://open.spotify.com/track/7erP3zGsGtBhhCN8OWPXoC"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
         "name": "En Ac\u00fastico",
         "url": "https://open.spotify.com/album/6SIva4NYVKvJoJVfExZYDk"
       },
@@ -1283,26 +1283,6 @@
       "duration_ms": 207207,
       "name": "Destino - Ac\u00fastico",
       "url": "https://open.spotify.com/track/1UUAtmVInu4DNChh5HYiHk"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
-        "name": "Cuanto antes (feat. Lali)",
-        "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
-      },
-      "artists": [
-        {
-          "name": "Alex Ubago",
-          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
-        },
-        {
-          "name": "Lali",
-          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
-        }
-      ],
-      "duration_ms": 226844,
-      "name": "Cuanto antes (feat. Lali)",
-      "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1339,22 +1319,22 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Souvenir (Ac\u00fastico)",
-        "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
+        "name": "Cuanto antes (feat. Lali)",
+        "url": "https://open.spotify.com/album/7tvTZlX7UOKrQnhKOy84UV"
       },
       "artists": [
         {
-          "name": "Lasso",
-          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+          "name": "Alex Ubago",
+          "url": "https://open.spotify.com/artist/2tY2GFdhH0Wa2VBvsxew5X"
         },
         {
-          "name": "Lucah",
-          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+          "name": "Lali",
+          "url": "https://open.spotify.com/artist/22P1OY4TRFRwhP0q29loQ8"
         }
       ],
-      "duration_ms": 198213,
-      "name": "Souvenir - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
+      "duration_ms": 226844,
+      "name": "Cuanto antes (feat. Lali)",
+      "url": "https://open.spotify.com/track/0fT2QQjnDRJIUqGXGMX6x6"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1371,6 +1351,26 @@
       "duration_ms": 281640,
       "name": "No Lo So\u00f1\u00e9 - Version Acustico",
       "url": "https://open.spotify.com/track/6chtkBSmt7RorTFD8EQtXx"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Souvenir (Ac\u00fastico)",
+        "url": "https://open.spotify.com/album/5SY3H12qUEisZPFwdDliJY"
+      },
+      "artists": [
+        {
+          "name": "Lasso",
+          "url": "https://open.spotify.com/artist/3SCOuAxngTC1yGjKMcIPEd"
+        },
+        {
+          "name": "Lucah",
+          "url": "https://open.spotify.com/artist/2L0nCuTUHFPHC3Y8uqbUKw"
+        }
+      ],
+      "duration_ms": 198213,
+      "name": "Souvenir - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/7DdrGHH2WVJE5mu8shi6If"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1415,22 +1415,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Mp3",
-        "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
-      },
-      "artists": [
-        {
-          "name": "Mario Puglia",
-          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
-        }
-      ],
-      "duration_ms": 181368,
-      "name": "Mp3",
-      "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Qu\u00e9 Dulce",
         "url": "https://open.spotify.com/album/0ne8odvK5xWK613ruve7X5"
       },
@@ -1447,6 +1431,22 @@
       "duration_ms": 133666,
       "name": "Qu\u00e9 Dulce",
       "url": "https://open.spotify.com/track/6xrBdJISdw3WTMtJVxll7W"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Mp3",
+        "url": "https://open.spotify.com/album/3dwG8Qc0o6b63lBFT4jqPd"
+      },
+      "artists": [
+        {
+          "name": "Mario Puglia",
+          "url": "https://open.spotify.com/artist/3TTSyoNDmtiQ8jSpELHinT"
+        }
+      ],
+      "duration_ms": 181368,
+      "name": "Mp3",
+      "url": "https://open.spotify.com/track/0PWLHDSK39Kh8Adc83Ltw6"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1487,22 +1487,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "Mocca",
-        "url": "https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q"
-      },
-      "artists": [
-        {
-          "name": "Melanie Espinosa",
-          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
-        }
-      ],
-      "duration_ms": 95000,
-      "name": "Mocca",
-      "url": "https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "Flotando (Ac\u00fastico)",
         "url": "https://open.spotify.com/album/6ESGXcMWl63n7PzIzPdtxh"
       },
@@ -1515,6 +1499,22 @@
       "duration_ms": 256708,
       "name": "Flotando (Ac\u00fastico)",
       "url": "https://open.spotify.com/track/1UmmEBHP4MKyExlob4MJbu"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "Mocca",
+        "url": "https://open.spotify.com/album/0phsHpTN3MkMVVN74oyM3Q"
+      },
+      "artists": [
+        {
+          "name": "Melanie Espinosa",
+          "url": "https://open.spotify.com/artist/2ZfqsIUeid08QO6i4Bqbi6"
+        }
+      ],
+      "duration_ms": 95000,
+      "name": "Mocca",
+      "url": "https://open.spotify.com/track/55TZBuEIVVCIAKMmITvrFe"
     },
     {
       "added_at": "2026-09-11 04:01:24",
@@ -1551,22 +1551,6 @@
     {
       "added_at": "2026-09-11 04:01:24",
       "album": {
-        "name": "2.1",
-        "url": "https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay"
-      },
-      "artists": [
-        {
-          "name": "Piso 21",
-          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
-        }
-      ],
-      "duration_ms": 192250,
-      "name": "FICHAJE DEL A\u00d1O - Ac\u00fastico",
-      "url": "https://open.spotify.com/track/5a437RY3t1O6kN3rocX6qw"
-    },
-    {
-      "added_at": "2026-09-11 04:01:24",
-      "album": {
         "name": "el jardinero",
         "url": "https://open.spotify.com/album/3dkSczh5f21IespeDXjz8Q"
       },
@@ -1579,6 +1563,22 @@
       "duration_ms": 177391,
       "name": "el jardinero",
       "url": "https://open.spotify.com/track/4YlkjZVjQjtjFaTTxiADLw"
+    },
+    {
+      "added_at": "2026-09-11 04:01:24",
+      "album": {
+        "name": "2.1",
+        "url": "https://open.spotify.com/album/3fbssJkOhkgAPAdpgjcJay"
+      },
+      "artists": [
+        {
+          "name": "Piso 21",
+          "url": "https://open.spotify.com/artist/4bw2Am3p9ji3mYsXNXtQcd"
+        }
+      ],
+      "duration_ms": 192250,
+      "name": "FICHAJE DEL A\u00d1O - Ac\u00fastico",
+      "url": "https://open.spotify.com/track/5a437RY3t1O6kN3rocX6qw"
     },
     {
       "added_at": "2026-09-11 04:01:24",

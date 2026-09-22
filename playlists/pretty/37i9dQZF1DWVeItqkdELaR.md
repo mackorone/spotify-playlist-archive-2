@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 
 > Ouve os hits do verão de 2026! 🌞
 
-[Spotify](https://open.spotify.com/user/spotify) - 134,925 likes - 59 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 134,930 likes - 59 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -56,9 +56,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVeItqkdELaR.md) - [plain]
 | 46 | [Bring Your Love](https://open.spotify.com/track/7rAr4Ai9dysthnfNRRC55Q) | [Madonna](https://open.spotify.com/artist/6tbjWDEIzxoDsBA1FuhfPW), [Sabrina Carpenter](https://open.spotify.com/artist/74KM79TiuVKeVCqs8QtB0B) | [Bring Your Love](https://open.spotify.com/album/2lZVlp5shY7TufyMXOuACy) | 3:42 |
 | 47 | [KISS ME](https://open.spotify.com/track/3phYFzn8h6sjbUtWD8Nig3) | [MARO](https://open.spotify.com/artist/3NP4jJcW3R6qO6rbtnH0wn) | [SO MUCH HAS CHANGED](https://open.spotify.com/album/6jzDn8rtuoRiFattZv8lXA) | 3:03 |
 | 48 | [Leva Tudo](https://open.spotify.com/track/05vX30MflAXWQnYkwXbczt) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Dilsinho](https://open.spotify.com/artist/4NUePmzDvCYqilXBFa91Hg) | [Leva Tudo](https://open.spotify.com/album/0c0ybHUuK8uVqzhX3kHfcN) | 3:11 |
-| 49 | [YOU](https://open.spotify.com/track/67hRfkimnr96M2zPmcfrJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [YOU](https://open.spotify.com/album/7fR9AC0fV437sT5qBEWFhk) | 3:29 |
+| 49 | [Dona De Si](https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Dona De Si](https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ) | 2:47 |
 | 50 | [Onde É Que Eu Tinha a Cabeça](https://open.spotify.com/track/78gj0hNtrkZITSudLFfJmF) | [Vizinhos](https://open.spotify.com/artist/3phiMOerdzoGRyTJ240Sxj) | [Só Se Estraga uma Casa](https://open.spotify.com/album/6EOhRsOSNynBykeiAZ0avh) | 2:50 |
-| 51 | [Dona De Si](https://open.spotify.com/track/4YNKRfYZfnviDQ6ICmL1Ra) | [Os Alentons](https://open.spotify.com/artist/4l0cDeXPYEksWKHCk424K2) | [Dona De Si](https://open.spotify.com/album/7dfgDaCjkhPs49Yaj3xmCZ) | 2:47 |
+| 51 | [YOU](https://open.spotify.com/track/67hRfkimnr96M2zPmcfrJZ) | [Richie Campbell](https://open.spotify.com/artist/2swvbEAfN70ZFcQB4Y7MaS) | [YOU](https://open.spotify.com/album/7fR9AC0fV437sT5qBEWFhk) | 3:29 |
 | 52 | [Carta De Despejo](https://open.spotify.com/track/5Y4F4vmrDh1OMfdBpUWm4G) | [Anna Joyce](https://open.spotify.com/artist/0TFtGB2jsMA97sNDTLJ8QX) | [Carta De Despejo](https://open.spotify.com/album/48il9SDcT48up45p76yGzD) | 3:20 |
 | 53 | [Xê Dama](https://open.spotify.com/track/45P31dabxkY0NzFGo4Y5Us) | [Calema](https://open.spotify.com/artist/6PIIKavZx20FlVKyIvb4Um), [Lauana Prado](https://open.spotify.com/artist/6TYimByryGphZCtwYopH0y) | [Xê Dama](https://open.spotify.com/album/47Nebu1RN8AXDGywJ2QG4J) | 2:40 |
 | 54 | [NOBLE](https://open.spotify.com/track/2LSmH4vxyRhkJ2pPqcmkXw) | [F3miii](https://open.spotify.com/artist/0gmx7cndNJbFM0DAO7fT0s) | [NOBLE](https://open.spotify.com/album/0g2so560PUSwl895vWwaQK) | 3:05 |

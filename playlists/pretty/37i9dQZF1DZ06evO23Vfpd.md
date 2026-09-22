@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 
 > This is Shaboozey\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 71,513 likes - 40 songs - 2 hr 1 min
+[Spotify](https://open.spotify.com/user/spotify) - 71,566 likes - 40 songs - 2 hr 1 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -17,12 +17,12 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 7 | [Amen](https://open.spotify.com/track/3anaHXs7z8NwLUatPxqJlE) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Jelly Roll](https://open.spotify.com/artist/19k8AgwwTSxeaxkOuCQEJs) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 3:17 |
 | 8 | [Let It Burn](https://open.spotify.com/track/2lcJpkoLQqeSvZDKk27pEA) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/5lL9OB0cw7ARy9LYx7FKzh) | 3:44 |
 | 9 | [Home \(feat\. Shaboozey\)](https://open.spotify.com/track/59a0H53cBcHWDVn7eAyk4F) | [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [I Hope You're Happy \(Commentary Version\)](https://open.spotify.com/album/7yJCzSTBRhJIisv20lXlQ5) | 2:15 |
-| 10 | [Bullets & Blades \(feat\. Kehlani\)](https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 3:15 |
+| 10 | [High Noon \(feat\. Gunna\)](https://open.spotify.com/track/2dxJQIhkfXnpAkDv3kSvmt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 2:30 |
 | 11 | [Blink Twice](https://open.spotify.com/track/213uaappJODsexwkR9rxhS) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Myles Smith](https://open.spotify.com/artist/3bO19AOone0ubCsfDXDtYt) | [Where I've Been, Isn't Where I'm Going: The Complete Edition](https://open.spotify.com/album/4iSZXBgHUpzVGl8qfuZSEv) | 2:36 |
 | 12 | [Last Of My Kind \(feat\. Paul Cauthen\)](https://open.spotify.com/track/5BmmDKMuVvqENYA6g750OX) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Paul Cauthen](https://open.spotify.com/artist/6yHM0XQEdu9sIlbILMaKBp) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 3:21 |
-| 13 | [Vegas \- A COLORS SHOW](https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Vegas \- A COLORS SHOW](https://open.spotify.com/album/1UipsejbT67IizPimBSxN3) | 3:01 |
-| 14 | [High Noon \(feat\. Gunna\)](https://open.spotify.com/track/2dxJQIhkfXnpAkDv3kSvmt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Gunna](https://open.spotify.com/artist/2hlmm7s2ICUX0LVIhVFlZQ) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 2:30 |
-| 15 | [Let 'Em Know](https://open.spotify.com/track/3oxVbPoTwXbN2Pl4HWLINy) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let 'Em Know](https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc) | 3:00 |
+| 13 | [Let 'Em Know](https://open.spotify.com/track/3oxVbPoTwXbN2Pl4HWLINy) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Let 'Em Know](https://open.spotify.com/album/1fgiofWg6yMYvIXeTHfUZc) | 3:00 |
+| 14 | [Bullets & Blades \(feat\. Kehlani\)](https://open.spotify.com/track/1mC3QkmmYh02CysAKb9NM2) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [Kehlani](https://open.spotify.com/artist/0cGUm45nv7Z6M6qdXYQGTX) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 3:15 |
+| 15 | [Vegas \- A COLORS SHOW](https://open.spotify.com/track/1nOEnc4w1DeeIFJBw5F2ID) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [COLORS](https://open.spotify.com/artist/3FvwVFWRyvxmLyVBO9nBmM) | [Vegas \- A COLORS SHOW](https://open.spotify.com/album/1UipsejbT67IizPimBSxN3) | 3:01 |
 | 16 | [Drink Don't Need No Mix \(feat\. BigXthaPlug\)](https://open.spotify.com/track/1WhCAd5sv7rIO78kVgFxIt) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH), [BigXthaPlug](https://open.spotify.com/artist/6qxpnaukVayrQn6ViNvu9I) | [Where I've Been, Isn't Where I'm Going](https://open.spotify.com/album/0DLvFVIfwt3OHdK9kGeEM3) | 2:13 |
 | 17 | [Tall Boy](https://open.spotify.com/track/3Lm5jGGulOPH2TRlpPqL9H) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Cowboys Live Forever, Outlaws Never Die](https://open.spotify.com/album/3QEQeBF0NJ5BvvPY8lyWsP) | 2:20 |
 | 18 | [Lone Survivor](https://open.spotify.com/track/47Xbv5RaPpIAfHMXSmaZda) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [The Outlaw Cherie Lee & Other Western Tales](https://open.spotify.com/album/6t5UZQ2C2Rt6PtBA7GPbE2) | 2:28 |
@@ -49,4 +49,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO23Vfpd.md) - [plain]
 | 39 | [Lonely \(with Shaboozey\)](https://open.spotify.com/track/5SA97SnIegYVy0CfEGB0iR) | [Wale](https://open.spotify.com/artist/67nwj3Y5sZQLl72VNUHEYE), [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [everything is a lot.](https://open.spotify.com/album/0AIADbs20wMj3229QY0XnN) | 3:20 |
 | 40 | [Faithfully](https://open.spotify.com/track/3HD3JJPE7iWKLV0zf86ShQ) | [Shaboozey](https://open.spotify.com/artist/3y2cIKLjiOlp1Np37WiUdH) | [Lady Wrangler](https://open.spotify.com/album/2xUAnts1jM9tnbxi23Jf5O) | 3:39 |
 
-Snapshot ID: `aq3QgAAAAAAts4vQGwKcdC2OUwCFBKDc`
+Snapshot ID: `aq8iAAAAAACiZUnYUWmG/xNWbV232aiA`

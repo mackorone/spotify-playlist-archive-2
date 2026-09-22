@@ -6,7 +6,7 @@
     "name": "Cristian Nevola",
     "url": "https://open.spotify.com/user/1188041238"
   },
-  "snapshot_id": "AAAKGQa2CZllcOWvFl9s1r+EtTAAgp/u",
+  "snapshot_id": "AAAKG1wK2SDZ5vnqLG0Q8vD/HJ09y3lP",
   "tracks": [
     {
       "added_at": "2026-05-07 07:57:17",
@@ -79167,6 +79167,38 @@
       "duration_ms": 161745,
       "name": "I Don't Wanna",
       "url": "https://open.spotify.com/track/68HJ0xRRiP5lmfvpP83GF4"
+    },
+    {
+      "added_at": "2026-09-21 20:07:52",
+      "album": {
+        "name": "Screen",
+        "url": "https://open.spotify.com/album/1SkEaZVIL9la1xOctdrvsH"
+      },
+      "artists": [
+        {
+          "name": "Concourse",
+          "url": "https://open.spotify.com/artist/3huqIWF9fBYluGW3Cw1DRe"
+        }
+      ],
+      "duration_ms": 294442,
+      "name": "Screen",
+      "url": "https://open.spotify.com/track/4EhKad8chQTN4Zv4qCtezw"
+    },
+    {
+      "added_at": "2026-09-21 20:22:12",
+      "album": {
+        "name": "Diva",
+        "url": "https://open.spotify.com/album/5gMLNzsHMNdNMkPqoMGhz1"
+      },
+      "artists": [
+        {
+          "name": "Dubba",
+          "url": "https://open.spotify.com/artist/1uGBqCecbXldhYptbL4HC5"
+        }
+      ],
+      "duration_ms": 177534,
+      "name": "Diva",
+      "url": "https://open.spotify.com/track/3hIZPGjs9TryQuYdKhWEQo"
     }
   ],
   "unique_name": "playlist spotify free",

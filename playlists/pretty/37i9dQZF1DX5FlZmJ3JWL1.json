@@ -1,6 +1,6 @@
 {
   "description": "Let's go! \ud83d\udcaa\u200a",
-  "num_followers": 772740,
+  "num_followers": 772761,
   "original_name": "Fit Beats ",
   "owner": {
     "name": "Spotify",
@@ -507,26 +507,22 @@
     {
       "added_at": "2026-08-26 14:45:59",
       "album": {
-        "name": "Dancin (feat. Luvli) [southstar Remix]",
-        "url": "https://open.spotify.com/album/3dWZnjwCr9m3yz2N1OYguT"
+        "name": "Tattoo (Topic Remix)",
+        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
       },
       "artists": [
         {
-          "name": "Aaron Smith",
-          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
+          "name": "Loreen",
+          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
         },
         {
-          "name": "Luvli",
-          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
-        },
-        {
-          "name": "southstar",
-          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
+          "name": "Topic",
+          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
         }
       ],
-      "duration_ms": 173333,
-      "name": "Dancin (feat. Luvli) - southstar Remix",
-      "url": "https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u"
+      "duration_ms": 211400,
+      "name": "Tattoo - Topic Remix",
+      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
     },
     {
       "added_at": "2026-08-26 14:45:59",
@@ -551,22 +547,26 @@
     {
       "added_at": "2026-08-26 14:45:59",
       "album": {
-        "name": "Tattoo (Topic Remix)",
-        "url": "https://open.spotify.com/album/1nAJInWgfbBTHuK4osAGM9"
+        "name": "Dancin (feat. Luvli) [southstar Remix]",
+        "url": "https://open.spotify.com/album/3dWZnjwCr9m3yz2N1OYguT"
       },
       "artists": [
         {
-          "name": "Loreen",
-          "url": "https://open.spotify.com/artist/49aaHxvAJ0tCh0F15OnwIl"
+          "name": "Aaron Smith",
+          "url": "https://open.spotify.com/artist/77qukKzmdI5BeMBR7WGUrN"
         },
         {
-          "name": "Topic",
-          "url": "https://open.spotify.com/artist/0u6GtibW46tFX7koQ6uNJZ"
+          "name": "Luvli",
+          "url": "https://open.spotify.com/artist/6dqohi36avY0M9urnyhITr"
+        },
+        {
+          "name": "southstar",
+          "url": "https://open.spotify.com/artist/1GVuCyb4PlArufUZDUnRQi"
         }
       ],
-      "duration_ms": 211400,
-      "name": "Tattoo - Topic Remix",
-      "url": "https://open.spotify.com/track/2HJBsWX5LQK8Y95JzPJ4zp"
+      "duration_ms": 173333,
+      "name": "Dancin (feat. Luvli) - southstar Remix",
+      "url": "https://open.spotify.com/track/5VGel8rVmBQrr7mSAtpW2u"
     },
     {
       "added_at": "2026-08-26 14:45:59",

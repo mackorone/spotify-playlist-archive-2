@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 
 > Relaxe com hinos acústicos\. Foto: Fernandinho
 
-[Spotify](https://open.spotify.com/user/spotify) - 386,382 likes - 79 songs - 5 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 386,438 likes - 79 songs - 5 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -31,8 +31,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 21 | [Teus Sonhos \- Acústico](https://open.spotify.com/track/5nzYFnyJ8E8l8NPzWGrc4u) | [Fernandinho](https://open.spotify.com/artist/6iAY2AyUZLSX3PWLIAfFZY) | [Série Acústica Com Fernandinho, Vol\. 2 \(Acústico\)](https://open.spotify.com/album/6auA8qJDI0OqKehNzbWc6q) | 4:25 |
 | 22 | [Oração De Gratidão](https://open.spotify.com/track/2BrZxM2Acd5g3iESZMV37m) | [AMÉM](https://open.spotify.com/artist/6A2IF7XPAGiwRZAxXTKpYP), [Julliany Souza](https://open.spotify.com/artist/0d71FlLkqZzdpEQifcngQq), [Léo Brandão](https://open.spotify.com/artist/7Hy3BcTukq6HpDzVFrnJ8L) | [Oração De Gratidão](https://open.spotify.com/album/0zyRK8liOTanEtFqhQTnI5) | 3:56 |
 | 23 | [Quem Te Guarda É Deus](https://open.spotify.com/track/2jK5rOxNUXibAJrHaFVDak) | [Anderson Freire](https://open.spotify.com/artist/1HxtfSGL8pWUwAyVgpbU5B) | [Quem Te Guarda É Deus](https://open.spotify.com/album/4vZcPGoLtOAbsvANPIdt5h) | 3:13 |
-| 24 | [Encaixe](https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Encaixe](https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5) | 3:42 |
-| 25 | [Meu Barquinho](https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Meu Barquinho](https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va) | 3:56 |
+| 24 | [Meu Barquinho](https://open.spotify.com/track/7ap8AwNHEltHYVd889t6Wc) | [André e Felipe](https://open.spotify.com/artist/5QQUuUIP9gjrkI8amLfIlb), [Preto no Branco](https://open.spotify.com/artist/0JC6R3kbXUHe5QrxqzFwom) | [Meu Barquinho](https://open.spotify.com/album/313crnqVtVcq7iTiaxn4Va) | 3:56 |
+| 25 | [Encaixe](https://open.spotify.com/track/0HpeuEm6f4TRJzwuItkX0h) | [Thalles Roberto](https://open.spotify.com/artist/2Js5EdWOVgL2B2CbtXr5n1) | [Encaixe](https://open.spotify.com/album/5tD8hdyOaLddaSlKwHlWO5) | 3:42 |
 | 26 | [Carta de Deus \- Ao Vivo](https://open.spotify.com/track/0w9aIkvIjBIStv0AIQrf1O) | [Stella Laura](https://open.spotify.com/artist/1lqxvuE0yfesGRZ4sdVVNm), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Carta de Deus \(Ao Vivo\)](https://open.spotify.com/album/5Oj7rg1N453qQUBEix1afa) | 5:08 |
 | 27 | [Teu Amor Por Mim](https://open.spotify.com/track/6uDKN3fyXi2zu0ZNapjtkz) | [Igor Roque](https://open.spotify.com/artist/64Zevud6ZejXRQjAMhlZS8) | [Teu Amor Por Mim](https://open.spotify.com/album/4NXpbo0APYOP2Q8waVCdtK) | 3:05 |
 | 28 | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/track/6Kap705m9jHPY9CbyBopkk) | [Trilo](https://open.spotify.com/artist/76bLMQAatDGLJ8yyuyVPjD) | [Lugar Secreto / Qual É O Pensamento](https://open.spotify.com/album/1pJNA4RcbsPPY8Rpf8aJK6) | 3:31 |
@@ -42,8 +42,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7O8ONc6Mo0L.md) - [plain]
 | 32 | [Ele é Exaltado](https://open.spotify.com/track/2n3P2SVzYw0OKAFplrJLY4) | [Marcelo Cacilias](https://open.spotify.com/artist/4JKjfrzVzizGyOoK7QfQbV) | [Instrumental Acoustic Worship II](https://open.spotify.com/album/5xLbO3Th92Wv9YiPmyF22q) | 5:31 |
 | 33 | [Pode Morar Aqui \- Acústico](https://open.spotify.com/track/2TwohRKItIZe5bnJkQXQyU) | [Theo Rubia](https://open.spotify.com/artist/3bTnUXCo3suJiLVb79pExe) | [Pode Morar Aqui \(Acústico\)](https://open.spotify.com/album/26vrgC3uwDY9OGwbDiCFsL) | 5:04 |
 | 34 | [Milagres \- Acústico](https://open.spotify.com/track/6ael0a5FVQXGupOfzpkoOB) | [Lukas Agustinho](https://open.spotify.com/artist/14IQ7niDNXIIrOSjr32E7O) | [Milagres \(Acústico\)](https://open.spotify.com/album/7p8ZJylSvIeJZcGGUvBcnE) | 4:50 |
-| 35 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
-| 36 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 |
+| 35 | [Vendavais \- Em Casa Acústico](https://open.spotify.com/track/5TQGLSiv6jJexsucU0wcPm) | [Rebeca Carvalho](https://open.spotify.com/artist/7ejjZWVYdXuGjkLsUPW4xL) | [Vendavais \(Em Casa Acústico\)](https://open.spotify.com/album/6CzDtMttfdOFaZmWR4UGW3) | 4:41 |
+| 36 | [Me Deixe Aqui](https://open.spotify.com/track/31j38rRemGuqA4z83EQduw) | [Weslei Santos](https://open.spotify.com/artist/4y6Ve3GJGW72qVUqalUvKi) | [Unplugged](https://open.spotify.com/album/7IvxPrVTnaP3iOqQQgsQ12) | 4:37 |
 | 37 | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/track/4jTRJm7GsfpgLDMizIwBKE) | [Paulo Neto](https://open.spotify.com/artist/24lc8iaQY0UHitOufmSGko), [Paola Carla](https://open.spotify.com/artist/0pD33OcFUmNfYfg1EHoVU6) | [Primeira Essência \(Ao Vivo\)](https://open.spotify.com/album/6Q7ME1Xouz2udfWff8BHEo) | 4:56 |
 | 38 | [Seu Amor: YOUnique \- Acústico](https://open.spotify.com/track/3m0CtqEbzclwKxit7C48T3) | [LUDI](https://open.spotify.com/artist/5jaTnKaikL73O3eAQgtwde) | [Seu Amor: YOUnique \(Acústico\)](https://open.spotify.com/album/1279LGdx3pj2hv2p0hivMA) | 7:24 |
 | 39 | [Se Não Fosse Ele](https://open.spotify.com/track/3TsTuRLUCG7FeHzXRk2yUJ) | [Felipe Costa](https://open.spotify.com/artist/7G8to6zPJFY3FJWrqNyumG), [Pedro Henrique](https://open.spotify.com/artist/5z5z7mb9JYMVdmi4Lfnu0t), [Todah Music](https://open.spotify.com/artist/1A5kGvmKIVtX7NhcbtTZJY) | [Se Não Fosse Ele](https://open.spotify.com/album/09qMoSr73LwGwAFhqtUvNr) | 4:49 |

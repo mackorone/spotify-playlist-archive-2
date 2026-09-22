@@ -27151,6 +27151,28 @@
     },
     {
       "album": {
+        "name": "IT'S THE SUMMER",
+        "url": "https://open.spotify.com/album/3RLfkoofXwZ9f838I2DBwl"
+      },
+      "artists": [
+        {
+          "name": "Babyfxce E",
+          "url": "https://open.spotify.com/artist/7a8ZndeHGrkS7xIM8060Xw"
+        },
+        {
+          "name": "Fox BD",
+          "url": "https://open.spotify.com/artist/2yGWnsBhRJCKKjuaiUsoYD"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 147748,
+      "name": "IT'S THE SUMMER",
+      "url": "https://open.spotify.com/track/2JPuwCAPNO48ntbidozk0T"
+    },
+    {
+      "album": {
         "name": "The X Tape (Deluxe)",
         "url": "https://open.spotify.com/album/1OhznYXcpOhfoWIdUgsNW4"
       },
@@ -31557,6 +31579,24 @@
     },
     {
       "album": {
+        "name": "Lucy",
+        "url": "https://open.spotify.com/album/4q0pCdIiL81KuRKLARHxXO"
+      },
+      "artists": [
+        {
+          "name": "Scorey",
+          "url": "https://open.spotify.com/artist/0X3nsc84A9qlFilmlWNwQb"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 133333,
+      "name": "Lucy",
+      "url": "https://open.spotify.com/track/5Y5B21cj0Og19Ss143bozv"
+    },
+    {
+      "album": {
         "name": "Summer's Mine",
         "url": "https://open.spotify.com/album/2T5rnsXB2Hu0LOw554ciPS"
       },
@@ -35906,7 +35946,7 @@
       ],
       "date_added": "2026-08-28",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 138461,
       "name": "Never Ending Run",
       "url": "https://open.spotify.com/track/62Bndc6EWlnx4RgXeIqSYx"
@@ -57928,7 +57968,7 @@
       ],
       "date_added": "2026-09-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 120904,
       "name": "WHAT I CREATED",
       "url": "https://open.spotify.com/track/0aBnc2iSC5kl7RgSP0smT7"

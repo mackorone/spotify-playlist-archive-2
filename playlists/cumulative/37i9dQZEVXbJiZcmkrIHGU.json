@@ -7598,7 +7598,7 @@
       ],
       "date_added": "2026-07-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 127071,
       "name": "Augenblick",
       "url": "https://open.spotify.com/track/1qfwmUz3Zj5WkLoAHXgskK"
@@ -10054,7 +10054,7 @@
       ],
       "date_added": "2026-04-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 258296,
       "name": "Beat It",
       "url": "https://open.spotify.com/track/3BovdzfaX4jb5KFQwoPfAw"
@@ -13480,7 +13480,7 @@
       ],
       "date_added": "2026-08-04",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 177428,
       "name": "bloodstream",
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
@@ -22056,7 +22056,7 @@
       ],
       "date_added": "2026-01-02",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 267080,
       "name": "Don't Stop The Music",
       "url": "https://open.spotify.com/track/0ByMNEPAPpOR5H69DVrTNy"
@@ -25094,7 +25094,7 @@
       ],
       "date_added": "2024-02-23",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 159245,
       "name": "End of Beginning",
       "url": "https://open.spotify.com/track/3qhlB30KknSejmIvZZLjOD"
@@ -34038,7 +34038,7 @@
       ],
       "date_added": "2026-06-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 188852,
       "name": "Gut Genug (mit Blumengarten & Shirin David)",
       "url": "https://open.spotify.com/track/1FsURdV1P2M3VCKdbTsZak"
@@ -36246,7 +36246,7 @@
       ],
       "date_added": "2026-06-13",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 158206,
       "name": "Hin und Her",
       "url": "https://open.spotify.com/track/5PcZTsUAo5ZH9JcTmBNy5t"
@@ -36286,7 +36286,7 @@
       ],
       "date_added": "2026-05-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 220360,
       "name": "Hips Don't Lie (feat. Wyclef Jean)",
       "url": "https://open.spotify.com/track/3d0WouFnFmr0K3kjeza3fF"
@@ -42671,6 +42671,24 @@
     },
     {
       "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182893,
+      "name": "Kapitel 01: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/0v0jR15q6GwzpcjzoFNAcV"
+    },
+    {
+      "album": {
         "name": "Folge 237: und der rote B\u00fcffel",
         "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
       },
@@ -42686,6 +42704,24 @@
       "duration_ms": 190600,
       "name": "Kapitel 01: und der rote B\u00fcffel - Folge 237",
       "url": "https://open.spotify.com/track/2PGIvAKMuDMZL1Etzxap1Y"
+    },
+    {
+      "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182680,
+      "name": "Kapitel 02: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/3ZQJIZKA3yvqbBiEXat5vH"
     },
     {
       "album": {
@@ -42707,6 +42743,24 @@
     },
     {
       "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182400,
+      "name": "Kapitel 03: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/0AbgIorz9tYbHHmYlGwvcf"
+    },
+    {
+      "album": {
         "name": "Folge 237: und der rote B\u00fcffel",
         "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
       },
@@ -42722,6 +42776,24 @@
       "duration_ms": 188186,
       "name": "Kapitel 03: und der rote B\u00fcffel - Folge 237",
       "url": "https://open.spotify.com/track/72PI7ycm6nFgkcTCpXMtRH"
+    },
+    {
+      "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183506,
+      "name": "Kapitel 04: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/4Ylr926r7kmHevJaY94VAp"
     },
     {
       "album": {
@@ -42761,6 +42833,24 @@
     },
     {
       "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185173,
+      "name": "Kapitel 05: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/4s8pGeZw3iRzXqHUkTJRFb"
+    },
+    {
+      "album": {
         "name": "Folge 237: und der rote B\u00fcffel",
         "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
       },
@@ -42794,6 +42884,24 @@
       "duration_ms": 188986,
       "name": "Kapitel 05: und die schwarze Rose - Folge 240",
       "url": "https://open.spotify.com/track/2GbAecpyZt3YnQ7magIYJw"
+    },
+    {
+      "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183613,
+      "name": "Kapitel 06: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/0vDlsHVy76hGpmKdyzGgUi"
     },
     {
       "album": {
@@ -42851,6 +42959,24 @@
     },
     {
       "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181600,
+      "name": "Kapitel 07: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/0bSDT4yqaXH113ANfUVAn5"
+    },
+    {
+      "album": {
         "name": "Folge 237: und der rote B\u00fcffel",
         "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
       },
@@ -42884,6 +43010,24 @@
       "duration_ms": 182186,
       "name": "Kapitel 07: und die schwarze Rose - Folge 240",
       "url": "https://open.spotify.com/track/6GXrYoAzFEFJmFpKugmo6C"
+    },
+    {
+      "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 184266,
+      "name": "Kapitel 08: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/3oFCDhwr2ZpYw5NONtSNyw"
     },
     {
       "album": {
@@ -42923,6 +43067,24 @@
     },
     {
       "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182720,
+      "name": "Kapitel 09: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/7a1c0vc0PvJgC1MzmMZnwR"
+    },
+    {
+      "album": {
         "name": "Folge 237: und der rote B\u00fcffel",
         "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
       },
@@ -42956,6 +43118,24 @@
       "duration_ms": 183493,
       "name": "Kapitel 09: und die schwarze Rose - Folge 240",
       "url": "https://open.spotify.com/track/1fGcepqRv6T6bTLnyI7p1n"
+    },
+    {
+      "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 181493,
+      "name": "Kapitel 10: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/1RxXL4P0cC0Dc4uv7NIdeF"
     },
     {
       "album": {
@@ -42995,6 +43175,24 @@
     },
     {
       "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 183986,
+      "name": "Kapitel 11: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/6olEEpfG6LcFGi3Ekhp3p2"
+    },
+    {
+      "album": {
         "name": "Folge 237: und der rote B\u00fcffel",
         "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
       },
@@ -43031,6 +43229,24 @@
     },
     {
       "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 182213,
+      "name": "Kapitel 12: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/0TwO4gfRgPKSmPvOM8PwRB"
+    },
+    {
+      "album": {
         "name": "Folge 237: und der rote B\u00fcffel",
         "url": "https://open.spotify.com/album/1IkEurD7s47M9ukevi0bWA"
       },
@@ -43064,6 +43280,24 @@
       "duration_ms": 180000,
       "name": "Kapitel 12: und die schwarze Rose - Folge 240",
       "url": "https://open.spotify.com/track/1TDiYSja3GQTIt4McnS5w5"
+    },
+    {
+      "album": {
+        "name": "Folge 241: Meister des Lichts",
+        "url": "https://open.spotify.com/album/3yMvUfGBieqtsmwQ35lCoA"
+      },
+      "artists": [
+        {
+          "name": "Die drei ???",
+          "url": "https://open.spotify.com/artist/3meJIgRw7YleJrmbpbJK6S"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 187120,
+      "name": "Kapitel 13: Meister des Lichts - Folge 241",
+      "url": "https://open.spotify.com/track/0blClfLUWmWWRstuR6JNWR"
     },
     {
       "album": {
@@ -51328,7 +51562,7 @@
       ],
       "date_added": "2026-05-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 130090,
       "name": "Makina Time",
       "url": "https://open.spotify.com/track/4jSrN7kXdQUmbVxJe5x6Xg"
@@ -59880,7 +60114,7 @@
       ],
       "date_added": "2025-01-24",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 236200,
       "name": "Nur ein Wort",
       "url": "https://open.spotify.com/track/4hYinIaRxdaoEFSQni6K6I"
@@ -62624,7 +62858,7 @@
       ],
       "date_added": "2026-09-19",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 157291,
       "name": "Paper",
       "url": "https://open.spotify.com/track/4OHZawF8aSfIBErnsh0oJZ"
@@ -69498,7 +69732,7 @@
       ],
       "date_added": "2023-01-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 243600,
       "name": "S&M",
       "url": "https://open.spotify.com/track/7ySUcLPVX7KudhnmNcgY2D"
@@ -78130,7 +78364,7 @@
       ],
       "date_added": "2026-09-04",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 238426,
       "name": "Talking Body",
       "url": "https://open.spotify.com/track/5vXnH99Tn0qAh84SWU5sfc"
@@ -79446,7 +79680,7 @@
       ],
       "date_added": "2024-11-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 190427,
       "name": "The Emptiness Machine",
       "url": "https://open.spotify.com/track/1EDPVGbyPKJPeGqATwXZvN"
@@ -79536,7 +79770,7 @@
       ],
       "date_added": "2025-10-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 226073,
       "name": "The Fate of Ophelia",
       "url": "https://open.spotify.com/track/53iuhJlwXhSER5J2IYYv1W"
@@ -83868,7 +84102,7 @@
       ],
       "date_added": "2024-01-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 259333,
       "name": "Unwritten",
       "url": "https://open.spotify.com/track/3U5JVgI2x4rDyHGObzJfNf"
@@ -90852,7 +91086,7 @@
       ],
       "date_added": "2026-07-16",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 258773,
       "name": "Wonderwall - Remastered",
       "url": "https://open.spotify.com/track/7ygpwy2qP3NbrxVkHvUhXY"

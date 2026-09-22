@@ -1,12 +1,12 @@
 {
   "description": "This is Gorillaz. The essential tracks, all in one playlist.",
-  "num_followers": 1251703,
+  "num_followers": 1251780,
   "original_name": "This Is Gorillaz",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAADa4Q98KiE/IkkLLnyEHV1Z",
+  "snapshot_id": "aq8iAAAAAABteeSuHZKo58tbNSynfqPm",
   "tracks": [
     {
       "added_at": null,
@@ -483,46 +483,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "George Benson",
-          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
-        }
-      ],
-      "duration_ms": 197933,
-      "name": "Humility (feat. George Benson)",
-      "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Cracker Island",
-        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Stevie Nicks",
-          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
-        }
-      ],
-      "duration_ms": 230141,
-      "name": "Oil (feat. Stevie Nicks)",
-      "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Plastic Beach",
         "url": "https://open.spotify.com/album/2dIGnmEIy1WZIcZCFSj6i8"
       },
@@ -547,6 +507,46 @@
     {
       "added_at": null,
       "album": {
+        "name": "Cracker Island",
+        "url": "https://open.spotify.com/album/4wtZQMNTC1O79kDxMBsEan"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Stevie Nicks",
+          "url": "https://open.spotify.com/artist/7crPfGd2k81ekOoSqQKWWz"
+        }
+      ],
+      "duration_ms": 230141,
+      "name": "Oil (feat. Stevie Nicks)",
+      "url": "https://open.spotify.com/track/36MGfjOTOwx1udRX5dDnoJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "George Benson",
+          "url": "https://open.spotify.com/artist/4N8BwYTEC6XqykGvXXlmfv"
+        }
+      ],
+      "duration_ms": 197933,
+      "name": "Humility (feat. George Benson)",
+      "url": "https://open.spotify.com/track/3NeiYiBn3rQBgurfVk92Zm"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Sleeping Powder",
         "url": "https://open.spotify.com/album/5D31GSU5erwgjB6uvLzlcu"
       },
@@ -559,42 +559,6 @@
       "duration_ms": 166481,
       "name": "Sleeping Powder",
       "url": "https://open.spotify.com/track/5pE9vMyvVNOpZFutt6lyy4"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Now Now",
-        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        }
-      ],
-      "duration_ms": 274760,
-      "name": "Souk Eye",
-      "url": "https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "The Mountain",
-        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
-      },
-      "artists": [
-        {
-          "name": "Gorillaz",
-          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
-        },
-        {
-          "name": "Mark E. Smith",
-          "url": "https://open.spotify.com/artist/2OkI92pmbuPtH6b1GDtrvJ"
-        }
-      ],
-      "duration_ms": 232173,
-      "name": "Delirium (feat. Mark E. Smith)",
-      "url": "https://open.spotify.com/track/4uIXvy8PbYLEhs0PZgaP8p"
     },
     {
       "added_at": null,
@@ -619,6 +583,42 @@
       "duration_ms": 227213,
       "name": "Plastic Beach (feat. Mick Jones and Paul Simonon)",
       "url": "https://open.spotify.com/track/2nZ33CKRbgpJQJJQKHuGXb"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Mountain",
+        "url": "https://open.spotify.com/album/1RvJmGd47lKS4XMXs9j8hD"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        },
+        {
+          "name": "Mark E. Smith",
+          "url": "https://open.spotify.com/artist/2OkI92pmbuPtH6b1GDtrvJ"
+        }
+      ],
+      "duration_ms": 232173,
+      "name": "Delirium (feat. Mark E. Smith)",
+      "url": "https://open.spotify.com/track/4uIXvy8PbYLEhs0PZgaP8p"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "The Now Now",
+        "url": "https://open.spotify.com/album/1amYhlukNF8WdaQC3gKkgL"
+      },
+      "artists": [
+        {
+          "name": "Gorillaz",
+          "url": "https://open.spotify.com/artist/3AA28KZvwAUcZuOKwyblJQ"
+        }
+      ],
+      "duration_ms": 274760,
+      "name": "Souk Eye",
+      "url": "https://open.spotify.com/track/4fjzDf54eBNOlW45mNe14U"
     },
     {
       "added_at": null,

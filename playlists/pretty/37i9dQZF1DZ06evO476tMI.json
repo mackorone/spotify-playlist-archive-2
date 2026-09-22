@@ -1,12 +1,12 @@
 {
   "description": "This is Whitney Houston. The essential tracks, all in one playlist.",
-  "num_followers": 644388,
+  "num_followers": 644411,
   "original_name": "This Is Whitney Houston",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAABxD6yrqUqNCq+S7sRU2v+",
+  "snapshot_id": "aq8iAAAAAAABT2InrH3HebvdqlWY8gMq",
   "tracks": [
     {
       "added_at": null,
@@ -571,18 +571,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney",
-        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
+        "name": "Whitney Houston",
+        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
+        },
+        {
+          "name": "Teddy Pendergrass",
+          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 333536,
-      "name": "For the Love of You",
-      "url": "https://open.spotify.com/track/2MJQbnpAPKR83FFk19Bq3p"
+      "duration_ms": 362758,
+      "name": "Hold Me (with Teddy Pendergrass)",
+      "url": "https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR"
     },
     {
       "added_at": null,
@@ -603,22 +607,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Whitney Houston",
-        "url": "https://open.spotify.com/album/2MH37enG6IPvNK5QFLyKes"
+        "name": "Whitney",
+        "url": "https://open.spotify.com/album/5Vdzprr5cOqXQo44eHeV7t"
       },
       "artists": [
         {
           "name": "Whitney Houston",
           "url": "https://open.spotify.com/artist/6XpaIBNiVzIetEPCWDvAFP"
-        },
-        {
-          "name": "Teddy Pendergrass",
-          "url": "https://open.spotify.com/artist/68kACMx6A3D2BYiO056MeQ"
         }
       ],
-      "duration_ms": 362758,
-      "name": "Hold Me (with Teddy Pendergrass)",
-      "url": "https://open.spotify.com/track/00W1p1EeD140DHSrVjhhlR"
+      "duration_ms": 333536,
+      "name": "For the Love of You",
+      "url": "https://open.spotify.com/track/2MJQbnpAPKR83FFk19Bq3p"
     },
     {
       "added_at": null,

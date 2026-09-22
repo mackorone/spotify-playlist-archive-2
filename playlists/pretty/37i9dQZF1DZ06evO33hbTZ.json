@@ -1,12 +1,12 @@
 {
   "description": "This is Victor Thompson. The essential tracks, all in one playlist.",
-  "num_followers": 6135,
+  "num_followers": 6136,
   "original_name": "This Is Victor Thompson",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAACTFMPP1/yZPU3wZpNQnloo",
+  "snapshot_id": "aq8iAAAAAAAriG/ysBAIG71PuW4WdKeE",
   "tracks": [
     {
       "added_at": null,
@@ -67,6 +67,22 @@
     {
       "added_at": null,
       "album": {
+        "name": "God Has Done",
+        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 179817,
+      "name": "God Has Done",
+      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Psalm 8",
         "url": "https://open.spotify.com/album/6bofpfSpiFNcdUC8TS8534"
       },
@@ -83,22 +99,6 @@
       "duration_ms": 199250,
       "name": "Psalm 8",
       "url": "https://open.spotify.com/track/1lXslR0zZxDkdEK9uWaJQc"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "God Has Done",
-        "url": "https://open.spotify.com/album/1ziaEKFSpubNis50aiMcrg"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 179817,
-      "name": "God Has Done",
-      "url": "https://open.spotify.com/track/3k3Ax0x2M9OJGLOEtix5YB"
     },
     {
       "added_at": null,
@@ -523,22 +523,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Calm",
-        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
-      },
-      "artists": [
-        {
-          "name": "Victor Thompson",
-          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
-        }
-      ],
-      "duration_ms": 195124,
-      "name": "Calm",
-      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Blessed",
         "url": "https://open.spotify.com/album/5wyDRKWKtPq3znLWVOtUIk"
       },
@@ -551,6 +535,22 @@
       "duration_ms": 192029,
       "name": "Carry me like Baby",
       "url": "https://open.spotify.com/track/2g5uy0nM9DW0JJJLefJFgJ"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Calm",
+        "url": "https://open.spotify.com/album/2o5zh0Zz3MOgeeehAW7NVw"
+      },
+      "artists": [
+        {
+          "name": "Victor Thompson",
+          "url": "https://open.spotify.com/artist/5c0lDrNyT2RnFhujZpPIas"
+        }
+      ],
+      "duration_ms": 195124,
+      "name": "Calm",
+      "url": "https://open.spotify.com/track/5lAMVtYJNbMyQWrLOQtogT"
     },
     {
       "added_at": null,

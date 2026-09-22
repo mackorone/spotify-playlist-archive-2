@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 
 > Lo mejor de agosto 2026\. Cover: Nsqk
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,542,121 likes - 50 songs - 2 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,541,943 likes - 50 songs - 2 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -23,10 +23,10 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWZoF06RIo9el.md) - [plain]
 | 13 | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/track/1jwOmkFny7BUQ8ecRVa355) | [benny blanco](https://open.spotify.com/artist/5CiGnKThu5ctn9pBxv7DGa), [Selena Gomez](https://open.spotify.com/artist/0C8ZW7ezQVs4URX5aX7Kqx), [Becky G](https://open.spotify.com/artist/4obzFoKoKRHIphyHzJ35G3) | [Te Olvido \(La La\) \(with Selena Gomez & Becky G\)](https://open.spotify.com/album/0vJ7dYMRW2KFtO8rdbfm3h) | 2:30 |
 | 14 | [tokyo](https://open.spotify.com/track/4dIYdBeZRIG0m1YDcbQRUO) | [Niko Rubio](https://open.spotify.com/artist/6XdCL1kwMFNqPim2JwXjKa) | [tokyo](https://open.spotify.com/album/3fYkRi38mnzbWkeALrc77E) | 3:26 |
 | 15 | [Azul \(Versão Espanhol\)](https://open.spotify.com/track/12maUurRo817VZnqvl9Gjw) | [Anitta](https://open.spotify.com/artist/7FNnA9vBm6EKceENgCGRMb) | [EQUILIBRIVM II](https://open.spotify.com/album/0SU1jLaS0QasvGqIT8XIVg) | 3:22 |
-| 16 | [Tal Vez Mañana](https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [Tal Vez Mañana](https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N) | 3:28 |
-| 17 | [El Árbol](https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [El Árbol](https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v) | 3:01 |
-| 18 | [MADRID](https://open.spotify.com/track/6kUvZUtJDZLZNzjhCqJ7Wk) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [MADRID](https://open.spotify.com/album/3HpVlyht3MQIXBS4VifchT) | 3:04 |
-| 19 | [Tell Me](https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Tell Me](https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz) | 2:40 |
+| 16 | [El Árbol](https://open.spotify.com/track/1a3CdHpetHGFLATswUsWm9) | [Camilo](https://open.spotify.com/artist/28gNT5KBp7IjEOQoevXf9N) | [El Árbol](https://open.spotify.com/album/2ZV7lzoMDlrzLZBswCZs3v) | 3:01 |
+| 17 | [Tal Vez Mañana](https://open.spotify.com/track/7yoTLJ4DdQ62CtTEIMJuRM) | [LAGOS](https://open.spotify.com/artist/7uQ1D2NNHs5cUL3CLKRbia), [Yorghaki](https://open.spotify.com/artist/4eq1q0o9XPyNq9RG3fNDD1) | [Tal Vez Mañana](https://open.spotify.com/album/51elj8SNea5ht8B7Cd7l5N) | 3:28 |
+| 18 | [Tell Me](https://open.spotify.com/track/6iXIvHGsLMJ89TuW1S9E3C) | [54 Ultra](https://open.spotify.com/artist/6X5L6rmyvrWWu60Gx6exiZ) | [Tell Me](https://open.spotify.com/album/4Ot2EAeM6AWOYMrnba7amz) | 2:40 |
+| 19 | [MADRID](https://open.spotify.com/track/6kUvZUtJDZLZNzjhCqJ7Wk) | [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO) | [MADRID](https://open.spotify.com/album/3HpVlyht3MQIXBS4VifchT) | 3:04 |
 | 20 | [BUBALU](https://open.spotify.com/track/0pLD9XfKOLuv1Qlhu3qF3e) | [Kendo Kaponi](https://open.spotify.com/artist/1WMwuNKzEFtU6pPkdtryYS), [Yandel](https://open.spotify.com/artist/0eHQ9o50hj6ZDNBt6Ys1sD), [Cheniel Capone](https://open.spotify.com/artist/67j0h2QVE98L5orBkBPm5H) | [APOCALIPTO](https://open.spotify.com/album/5rJi3PGyqB4zFK3bwvsgjt) | 3:36 |
 | 21 | [si la ves](https://open.spotify.com/track/7jZepEMIwqWvnB9YFDJqCt) | [Paloma Morphy](https://open.spotify.com/artist/30Ph7pfibYhG9VcdOj7xZw) | [si la ves](https://open.spotify.com/album/2kkqISXrbSTaVHjj1iKL5R) | 2:57 |
 | 22 | [Honguito \- Remix](https://open.spotify.com/track/7A8zFqJKiZh9qbwduW7Ylj) | [Dalex](https://open.spotify.com/artist/0KPX4Ucy9dk82uj4GpKesn), [Farruko](https://open.spotify.com/artist/329e4yvIujISKGKz1BZZbO), [KHEA](https://open.spotify.com/artist/4m6ubhNsdwF4psNf3R8kwR), [Jombriel](https://open.spotify.com/artist/3Y9A8EQQtWU8RStiTlzErv), [Jlexis](https://open.spotify.com/artist/0oDm8JpITQs9Um4olDVk7B), [Rubí](https://open.spotify.com/artist/0DA4L4QIuO2hKNrMURuEHJ) | [Honguito \(Remix\)](https://open.spotify.com/album/4KipFJH8j4pvOfURrKJvEE) | 4:13 |

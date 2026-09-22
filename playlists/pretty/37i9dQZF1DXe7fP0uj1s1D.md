@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXe7fP0uj1s1D.md) - [plain]
 
 > Every Taylor Swift music video\. Watch now.
 
-[Spotify](https://open.spotify.com/user/spotify) - 153,895 likes - 58 songs - 3 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 156,710 likes - 58 songs - 3 hr 54 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

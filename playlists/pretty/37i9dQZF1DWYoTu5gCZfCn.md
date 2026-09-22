@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoTu5gCZfCn.md) - [plain]
 
 > Welcome to the oil business\. Listen to the music from Landman, now streaming on Paramount+.
 
-[Spotify](https://open.spotify.com/user/spotify) - 116,683 likes - 118 songs - 6 hr 59 min
+[Spotify](https://open.spotify.com/user/spotify) - 116,733 likes - 118 songs - 6 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,7 +59,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYoTu5gCZfCn.md) - [plain]
 | 49 | [Touch And Go \- Songs From and Inspired by the Paramount+ Original Series Landman \(Volume II\)](https://open.spotify.com/track/00J5FO5w8T6X4uPIWwVQEY) | [Drayton Farley](https://open.spotify.com/artist/05o2ENqv0CV8aD6BWKEaBD), [Sunny Sweeney](https://open.spotify.com/artist/3uBMhKEXqr2UtRlx7Jn9LL), [Dani Rose](https://open.spotify.com/artist/2cbJIwmifF9ZZO8yhoZHo8) | [Landman \[Songs From and Inspired by the Paramount+ Original Series \(Volume II\)\]](https://open.spotify.com/album/2TebzeAkIJUKxCErlT3RBN) | 3:18 |
 | 50 | [Bitin' List](https://open.spotify.com/track/0x5wJ0cDp7miv49jSMTSkq) | [Tyler Childers](https://open.spotify.com/artist/13ZEDW6vyBF12HYcZRr4EV) | [Snipe Hunter](https://open.spotify.com/album/00rssxYxFqqdbuO1lz1Gxa) | 2:56 |
 | 51 | [Cheers to Disagree](https://open.spotify.com/track/1V4jv3fGY1oMrXBkb9uNlo) | [Hunter Hicks](https://open.spotify.com/artist/6BEOyviLtjXnOGYdBn0ddd) | [Here’s to You](https://open.spotify.com/album/7BguGaWcG1jelJAKPP7joi) | 4:04 |
-| 52 | [Gettin' By \(Far Out West Sessions\)](https://open.spotify.com/track/0ZGZfkOY6rzjYENR0t8kqe) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Far Out West Sessions](https://open.spotify.com/album/3NBu070teiIiuoivtTPpWC) | 3:28 |
+| 52 | [Gettin' By \- Far Out West Sessions](https://open.spotify.com/track/0ZGZfkOY6rzjYENR0t8kqe) | [Flatland Cavalry](https://open.spotify.com/artist/4SfGzWmeoNPKIOmiyc7Pav) | [Far Out West Sessions](https://open.spotify.com/album/3NBu070teiIiuoivtTPpWC) | 3:28 |
 | 53 | [Nothing You Can Do](https://open.spotify.com/track/3RU53XEYB7hILTvCbeNjzx) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 3:31 |
 | 54 | [Game I Can’t Win](https://open.spotify.com/track/6bKHKbf4zCd3LJ6NjMyWsd) | [Charley Crockett](https://open.spotify.com/artist/3BJX1nYizKvWpZTY5HOAr4) | [Lonesome Drifter](https://open.spotify.com/album/64lDGn2XUSnXAncXh9Zzow) | 3:21 |
 | 55 | [The Devil Plies His Trade \(Sn 6 Ep 3\)](https://open.spotify.com/track/745ArzqQTwanAWmgwTGq7t) | [Turnpike Troubadours](https://open.spotify.com/artist/1YSA4byX5AL1zoTsSTlB03) | [The Price of Admission](https://open.spotify.com/album/0lMU9le9QkLUKR0VFBwxSq) | 4:16 |

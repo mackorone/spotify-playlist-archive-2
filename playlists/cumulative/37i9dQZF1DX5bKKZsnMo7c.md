@@ -4,7 +4,7 @@
 
 > Dramatic, theatrical pop: Grace Power it's your moment!
 
-617 songs - 1 day 9 hr 35 min
+619 songs - 1 day 9 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -55,7 +55,7 @@
 | [Backseat Girl](https://open.spotify.com/track/4GcjmPentdxkwiIR9y8xfI) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Backseat Girl](https://open.spotify.com/album/1Ht5DzGkQdXs6iXCQjjRC9) | 2:23 | 2024-03-01 | 2024-04-24 |
 | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/track/535x8FTM99UR6ZhZN8BM4A) | [Jagwar Twin](https://open.spotify.com/artist/4luZExkmgn39Kj5XsYWria) | [Bad Feeling \(Oompa Loompa\)](https://open.spotify.com/album/6WABWHx7oAsBhp5swwp296) | 2:13 | 2023-12-27 | 2025-10-18 |
 | [BAD LUCK!](https://open.spotify.com/track/38POirUtTfpoDWpX8QLiKP) | [Jhariah](https://open.spotify.com/artist/5iMYu8Sj8dZEDsWJxSFwPP) | [A BEGINNER'S GUIDE TO FAKING YOUR DEATH](https://open.spotify.com/album/6LLqwrFRS3rgwKVCRBYGYy) | 3:33 | 2022-05-17 | 2022-12-10 |
-| [Bangladesh](https://open.spotify.com/track/0i9OExe67MrZuKuPbr3v2A) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Season 3](https://open.spotify.com/album/6dcUN4U2uhwnrl1hPII9Qe) | 0:49 | 2026-07-20 |  |
+| [Bangladesh](https://open.spotify.com/track/0i9OExe67MrZuKuPbr3v2A) | [Ian McConnell](https://open.spotify.com/artist/4cnccBVC82QHFHuOVxzqM1) | [Season 3](https://open.spotify.com/album/6dcUN4U2uhwnrl1hPII9Qe) | 0:49 | 2026-07-20 | 2026-09-22 |
 | [Beautiful Little Life](https://open.spotify.com/track/4CLWxgdo4e2z27PGQ9uxme) | [Eva Westphal](https://open.spotify.com/artist/32obs0w1xupMz2CXf5B9wb) | [Beautiful Little Life](https://open.spotify.com/album/5L4UWzUa7sGi70mbu1wcxF) | 3:01 | 2022-06-03 | 2022-06-11 |
 | [Beauty Pageant](https://open.spotify.com/track/5bvK9yntY8XIcNkTKSSNYr) | [Holly Humberstone](https://open.spotify.com/artist/0nnYdIpahs41QiZ9MWp5Wx) | [Cruel World](https://open.spotify.com/album/43TBVIMYFCJNsKSJK6H6TU) | 3:15 | 2026-04-10 |  |
 | [Better People to Leave on Read](https://open.spotify.com/track/2udku1cSrUneAFrBqJlsX4) | [Emei](https://open.spotify.com/artist/7E2aQQjErJocovYFjYLzWU) | [Better People to Leave on Read](https://open.spotify.com/album/5etWv6LmZ9I27HawXUMRnY) | 2:11 | 2023-05-14 | 2023-06-03 |
@@ -183,7 +183,7 @@
 | [Expiration Dating](https://open.spotify.com/track/4RY8NabvRv6Y95x96asZbr) | [Madelline](https://open.spotify.com/artist/7t6dcfG1BhMh3LTAXhxmeL) | [Expiration Dating](https://open.spotify.com/album/6FFDFr43db7FFvrpOT6xAg) | 3:00 | 2025-05-23 | 2025-10-11 |
 | [Fable](https://open.spotify.com/track/1e0vsza0hIVYv9Mkz542qn) | [Gigi Perez](https://open.spotify.com/artist/1iCnM8foFssWlPRLfAbIwo) | [Fable](https://open.spotify.com/album/74JuKBkLUssHnghX4WusJw) | 4:21 | 2024-10-25 | 2025-07-12 |
 | [Fabulous](https://open.spotify.com/track/1LkpaAtSjAx5n4rrTkIQyu) | [MEEK](https://open.spotify.com/artist/1eg46ke5TEIuJpypjaSvi0) | [Fabulous](https://open.spotify.com/album/4RxIQmhjviMgTLRbCosPoN) | 2:33 | 2026-01-30 |  |
-| [fairest fruit](https://open.spotify.com/track/4eTLw4k738PaAaHz81XXC6) | [Stateira](https://open.spotify.com/artist/5kS1vwsmrRriPqB1OLOTUZ) | [fairest fruit](https://open.spotify.com/album/7EYeVtJIk3E8gQGDWs4E0s) | 4:02 | 2026-02-27 |  |
+| [fairest fruit](https://open.spotify.com/track/4eTLw4k738PaAaHz81XXC6) | [Stateira](https://open.spotify.com/artist/5kS1vwsmrRriPqB1OLOTUZ) | [fairest fruit](https://open.spotify.com/album/7EYeVtJIk3E8gQGDWs4E0s) | 4:02 | 2026-02-27 | 2026-09-22 |
 | [Fairytale](https://open.spotify.com/track/4eDtZP99H6xfasP4Tku9Ee) | [Livingston](https://open.spotify.com/artist/2fPsJqR6zfoHatC1eFr0eQ) | [Lighthouse](https://open.spotify.com/album/4Pmm7z9aZUxOifop5oDvOJ) | 2:49 | 2022-05-23 | 2022-06-02 |
 | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/track/0rH1Y0mcALJgAq8EKF2Zwt) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [beabadoobee](https://open.spotify.com/artist/35l9BRT7MXmM8bv2WDQiyB) | [Fall In Love With A Girl \(feat\. Beabadoobee\)](https://open.spotify.com/album/18czgkFPCbEyxqTGt3dBQ1) | 3:11 | 2022-05-17 | 2022-06-02 |
 | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/track/3oDm8bWMqVw2Hn4R8nYwyZ) | [Cavetown](https://open.spotify.com/artist/2hR4h1Cao2ueuI7Cx9c7V8), [Orla Gartland](https://open.spotify.com/artist/3ajf12ub55b51qcS94d9Co) | [Fall In Love With A Girl \(feat\. Orla Gartland\)](https://open.spotify.com/album/4rhuxHJsNJdATS6PHxMvQ6) | 2:48 | 2022-06-10 | 2022-07-08 |
@@ -275,7 +275,7 @@
 | [I Hear a Symphony](https://open.spotify.com/track/3KfTWH9HcFZtOnZXaMT0Rt) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/0ipYqwFFvSHdNU6CcbQEsZ) | 3:05 | 2022-05-17 | 2024-09-07 |
 | [I Hear a Symphony](https://open.spotify.com/track/4ZHGRFGwjnEIXHG2FhcDPv) | [Cody Fry](https://open.spotify.com/artist/7dOCnyDR2oEa1hQlvTXvdT) | [Flying](https://open.spotify.com/album/2gM39a0pG4TMzkb1ExkqgT) | 3:05 | 2022-08-05 | 2024-04-19 |
 | [I Know You're Hurting.](https://open.spotify.com/track/0ka0xUb0kho8KMOCuuPOZJ) | [RAYE](https://open.spotify.com/artist/5KKpBU5eC2tJDzf0wmlRp2) | [THIS MUSIC MAY CONTAIN HOPE.](https://open.spotify.com/album/3ZN01xzenGMhWHdC5kfAe9) | 6:17 | 2026-09-11 |  |
-| [I Lit The Fire](https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1) | [Sara Beth](https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r) | [I Lit The Fire](https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C) | 2:34 | 2026-02-20 |  |
+| [I Lit The Fire](https://open.spotify.com/track/3AbrErcms1clz7cbakuQt1) | [Sara Beth](https://open.spotify.com/artist/4ikrWdvs3CdWAz3IZmi17r) | [I Lit The Fire](https://open.spotify.com/album/5VsdcHGCvGXeA1pX3ERo8C) | 2:34 | 2026-02-20 | 2026-09-22 |
 | [I Love To Dance](https://open.spotify.com/track/3IbT4cFEQYLz1P9MFnRmYu) | [Isaac Dunbar](https://open.spotify.com/artist/2sBVpvpeQxK01FqIt5t816) | [Beep Beep Repeat](https://open.spotify.com/album/5UpFCX4FXDQ6WhKIVRYBVY) | 1:59 | 2024-04-26 | 2024-05-25 |
 | [I Might Be The Problem](https://open.spotify.com/track/6xwzEcxLH5O3guCY5opAmV) | [Rio Romeo](https://open.spotify.com/artist/22y08IZx7u6SWpsfap1Cub) | [Good Grief!](https://open.spotify.com/album/16MOkD1vWiHfWBTbkkMbBU) | 2:55 | 2025-07-18 | 2025-11-11 |
 | [i only smoke to feel bad](https://open.spotify.com/track/5gtAq2cTH1MpT2Ek8zv7mt) | [KiNG MALA](https://open.spotify.com/artist/5Lz5CnywFeg4Rs4l76OtG2) | [SPILT MILK](https://open.spotify.com/album/7bjMUmI8UUbAMWUIW0GCkk) | 3:00 | 2023-11-10 | 2024-02-10 |
@@ -350,6 +350,7 @@
 | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/track/70gFbSkpt8Yj4DhToyXzpG) | [Madylin Gilbert](https://open.spotify.com/artist/4Ul5nI6dNwODUPY8lufzk2) | [Lover \(take me to the moon\) \- demo](https://open.spotify.com/album/55uW1iNFxaYXYq3dIw8Blx) | 2:01 | 2023-03-07 | 2024-01-27 |
 | [Lovesick](https://open.spotify.com/track/3Fug6rfarsHtM6Ws9ofzaD) | [Jenna Raine](https://open.spotify.com/artist/3aHe9rMa5HFTjXHw8tEz0A) | [Lovesick](https://open.spotify.com/album/0i1zYZV7sWFxu4Nbcpr2Lc) | 2:31 | 2024-01-26 | 2024-08-10 |
 | [LSD \(Love, Sex & Diamonds\)](https://open.spotify.com/track/2Im1SpnilgeC7uSHWC9KzG) | [VANITY](https://open.spotify.com/artist/5pbQSj4OwloGemk4m3w7S7) | [Mascara Masquerade](https://open.spotify.com/album/0pCtKj5fPOStJZqWCLE6t0) | 3:56 | 2026-09-18 |  |
+| [Lucky You're A Star](https://open.spotify.com/track/6ohOpO4diHtaf0EPtBpzFg) | [Valencia Grace](https://open.spotify.com/artist/5cb5ljWIIrvUxokdf2vl6A) | [Lucky You're A Star](https://open.spotify.com/album/4bxmtYbz2ncL7LG09boZAx) | 3:32 | 2026-09-21 |  |
 | [lucy\~](https://open.spotify.com/track/4TKn4vUnYvdWsxpcFysvcN) | [Corbon Amodio](https://open.spotify.com/artist/7tYRwBffjJ0FiLIkPTCGMQ) | [lucy\~](https://open.spotify.com/album/6mQTLSfYBuF2yDqhbUoPtq) | 1:58 | 2024-04-24 | 2025-09-24 |
 | [Lust](https://open.spotify.com/track/2Tf3o75XkU0IS06tYgEuvn) | [Marino](https://open.spotify.com/artist/3HedFe4b2Nqeg1CEzmt6ZI), [Alexandria](https://open.spotify.com/artist/0SQG4wPVUlfbmbGQfqB47y) | [Lust](https://open.spotify.com/album/5nQalzcY5OAeEjf2AfpOu0) | 1:55 | 2025-10-17 | 2026-01-15 |
 | [Mad Hoes](https://open.spotify.com/track/7g1o1CUxSRbuTWa8m1Afgi) | [TAELA](https://open.spotify.com/artist/0UpJN0IU36gOyMJLHYHTYq) | [Mad Hoes](https://open.spotify.com/album/7tuRGmj8L9bUYjlpkNXJWT) | 2:43 | 2022-09-02 | 2022-09-28 |
@@ -576,6 +577,7 @@
 | [TV](https://open.spotify.com/track/3GYlZ7tbxLOxe6ewMNVTkw) | [Billie Eilish](https://open.spotify.com/artist/6qqNVTkY8uBg9cP3Jd7DAH) | [Guitar Songs](https://open.spotify.com/album/1YPWxMpQEC8kcOuefgXbhj) | 4:41 | 2022-07-22 | 2022-12-10 |
 | [Two Birds](https://open.spotify.com/track/2n0U2OG5d6TuW5mKx7YrC0) | [Regina Spektor](https://open.spotify.com/artist/3z6Gk257P9jNcZbBXJNX5i) | [Far](https://open.spotify.com/album/5t0lQDPLF22wmWCtSZkIVv) | 3:15 | 2022-05-17 | 2023-05-27 |
 | [Typical Me](https://open.spotify.com/track/7qHwYBcgT5UFchyGXFyifq) | [kroh](https://open.spotify.com/artist/6IOp54e0ZK9Ccnb8WUIeUa) | [Unfinished Symphony](https://open.spotify.com/album/5QmoeSOvBYGuSLQcd0tzk7) | 3:06 | 2022-05-17 | 2024-01-27 |
+| [u made a smart girl dumb!!](https://open.spotify.com/track/3ur2WdAFUct2Ym88kJDdJH) | [panicbaby](https://open.spotify.com/artist/2na7I8tiC5cQ1TxJlXlrRA) | [f u jonathan](https://open.spotify.com/album/3PEnbXK1C1ysxnQxguIgZg) | 2:37 | 2026-09-21 |  |
 | [Under My Skin](https://open.spotify.com/track/5oiZiF3fBLHqgTDaH0Pj7M) | [Jukebox The Ghost](https://open.spotify.com/artist/0L8jXe7QeS9oYUoXbANmX4) | [Let Live & Let Ghosts](https://open.spotify.com/album/0zQxOFhjixRmW1w6LftIyX) | 3:19 | 2022-05-17 | 2022-12-10 |
 | [Underworld](https://open.spotify.com/track/7G7v5g0WC8E1RoidL43T6X) | [Grace Power](https://open.spotify.com/artist/5kiTZEnGddxglBPRbM6XqP) | [Witching Hour](https://open.spotify.com/album/35TPXfDh8oqj7xpkaWhIKJ) | 3:20 | 2025-10-31 | 2026-05-16 |
 | [Unicorn](https://open.spotify.com/track/2vfhsZ9jm2ncXDV8MrFR7X) | [Em Beihold](https://open.spotify.com/artist/7o2ZQYM7nTsaVdkXY38UAA) | [Tales of a Failed Shapeshifter](https://open.spotify.com/album/2RL64278RxtHMgDH04qzex) | 2:28 | 2026-02-27 |  |

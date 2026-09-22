@@ -1,6 +1,6 @@
 {
   "description": "os mlk a milh\u00e3o do 013 ao 019",
-  "num_followers": 1432002,
+  "num_followers": 1431865,
   "original_name": "creme",
   "owner": {
     "name": "Spotify",
@@ -703,6 +703,26 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
+        "name": "Milimetricamente",
+        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
+      },
+      "artists": [
+        {
+          "name": "Luana Maia",
+          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
+        },
+        {
+          "name": "DJ Caio Santos",
+          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
+        }
+      ],
+      "duration_ms": 122834,
+      "name": "Milimetricamente",
+      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
         "name": "Meu Dinheiro, Minhas Regras (Lado B)",
         "url": "https://open.spotify.com/album/0hRDah9ZhuNq0OQPhV2XkX"
       },
@@ -723,26 +743,6 @@
       "duration_ms": 136444,
       "name": "Bebeto e Rom\u00e1rio House Mix",
       "url": "https://open.spotify.com/track/2ACAmCTopxv5r8midi1z07"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
-        "name": "Milimetricamente",
-        "url": "https://open.spotify.com/album/2bLC72Tw2KnX4TtZzjGdjP"
-      },
-      "artists": [
-        {
-          "name": "Luana Maia",
-          "url": "https://open.spotify.com/artist/4Q5AZ3aMWXTKNb1JULAqr6"
-        },
-        {
-          "name": "DJ Caio Santos",
-          "url": "https://open.spotify.com/artist/2mL8DEeGlhWuFI0BawEili"
-        }
-      ],
-      "duration_ms": 122834,
-      "name": "Milimetricamente",
-      "url": "https://open.spotify.com/track/3ft54zejZ2blYytvFuXqbH"
     },
     {
       "added_at": "2026-09-11 13:11:58",
@@ -1043,26 +1043,6 @@
     {
       "added_at": "2026-09-11 13:11:58",
       "album": {
-        "name": "AMO FLOR",
-        "url": "https://open.spotify.com/album/6YYPOvxm6JO1bHRT1ZHMUg"
-      },
-      "artists": [
-        {
-          "name": "F\u00faria",
-          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
-        },
-        {
-          "name": "808 Luke",
-          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
-        }
-      ],
-      "duration_ms": 154782,
-      "name": "AMO FLOR",
-      "url": "https://open.spotify.com/track/7qJlW3BjwiVwUiHqdVOSij"
-    },
-    {
-      "added_at": "2026-09-11 13:11:58",
-      "album": {
         "name": "Pra Quando Sentir Saudade",
         "url": "https://open.spotify.com/album/4MOLLTmG2IrwLhqauHLspA"
       },
@@ -1083,6 +1063,26 @@
       "duration_ms": 135692,
       "name": "Apaguei Tuas Fotos",
       "url": "https://open.spotify.com/track/5xruMjNnQGitf2bUvvisKx"
+    },
+    {
+      "added_at": "2026-09-11 13:11:58",
+      "album": {
+        "name": "AMO FLOR",
+        "url": "https://open.spotify.com/album/6YYPOvxm6JO1bHRT1ZHMUg"
+      },
+      "artists": [
+        {
+          "name": "F\u00faria",
+          "url": "https://open.spotify.com/artist/2NhLpGMfLNc4066odPOKBS"
+        },
+        {
+          "name": "808 Luke",
+          "url": "https://open.spotify.com/artist/2keoDDeLnCh60v17ZQf7sa"
+        }
+      ],
+      "duration_ms": 154782,
+      "name": "AMO FLOR",
+      "url": "https://open.spotify.com/track/7qJlW3BjwiVwUiHqdVOSij"
     },
     {
       "added_at": "2026-09-11 13:11:58",

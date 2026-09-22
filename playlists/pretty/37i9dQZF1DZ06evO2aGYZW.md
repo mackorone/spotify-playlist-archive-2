@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 
 > This is Macklemore\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 207,910 likes - 48 songs - 3 hr 8 min
+[Spotify](https://open.spotify.com/user/spotify) - 208,210 likes - 48 songs - 3 hr 8 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -57,4 +57,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2aGYZW.md) - [plain]
 | 47 | [FDT \- Pt\. 2](https://open.spotify.com/track/6ZcCLhMqQEZEzsDhhS767O) | [YG](https://open.spotify.com/artist/0A0FS04o6zMoto8OKPsDwY), [G\-Eazy](https://open.spotify.com/artist/02kJSzxNuaWGqwubyUba0Z), [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [FDT \(Pt\. 2\)](https://open.spotify.com/album/7It7smBGs7Ie1KS2iYtKP5) | 3:42 |
 | 48 | [American](https://open.spotify.com/track/5m4X2HQ0eiviwuKPoREanT) | [Macklemore](https://open.spotify.com/artist/3JhNCzhSMTxs9WLGJJxWOY) | [The Unplanned Mixtape](https://open.spotify.com/album/0Oy5pcr8Ijx4TqNn9AbC2k) | 4:13 |
 
-Snapshot ID: `aq3QgAAAAADaVirWQyArKH9jCdIn+VE4`
+Snapshot ID: `aq8iAAAAAAA2u+C7LR+BQwFsn8H4C3Fw`

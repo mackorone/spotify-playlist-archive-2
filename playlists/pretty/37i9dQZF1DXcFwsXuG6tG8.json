@@ -1,6 +1,6 @@
 {
   "description": "y el soundtrack suena as\u00ed...",
-  "num_followers": 24566,
+  "num_followers": 24578,
   "original_name": "mi vida es una peli",
   "owner": {
     "name": "Spotify",
@@ -643,22 +643,6 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
-        "name": "venequia.",
-        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
-      },
-      "artists": [
-        {
-          "name": "Danny Ocean",
-          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
-        }
-      ],
-      "duration_ms": 140930,
-      "name": "una ni\u00f1a de Venezuela",
-      "url": "https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
         "name": "zarcillos de plata",
         "url": "https://open.spotify.com/album/1QwiMdV2NkhUBxThH3y31c"
       },
@@ -671,6 +655,22 @@
       "duration_ms": 198009,
       "name": "zarcillos de plata",
       "url": "https://open.spotify.com/track/7DPqv56SdujBXE0eJhQjBh"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
+        "name": "venequia.",
+        "url": "https://open.spotify.com/album/7qF0L6bZnkDlezwvUJeFet"
+      },
+      "artists": [
+        {
+          "name": "Danny Ocean",
+          "url": "https://open.spotify.com/artist/5H1nN1SzW0qNeUEZvuXjAj"
+        }
+      ],
+      "duration_ms": 140930,
+      "name": "una ni\u00f1a de Venezuela",
+      "url": "https://open.spotify.com/track/1mbSJCKltV0640VQhm3dqX"
     },
     {
       "added_at": "2026-04-10 04:03:03",
@@ -1167,6 +1167,22 @@
     {
       "added_at": "2026-04-10 04:03:03",
       "album": {
+        "name": "grillos",
+        "url": "https://open.spotify.com/album/72dy2ivRHVBBycsT0347Mc"
+      },
+      "artists": [
+        {
+          "name": "GIULIA BE",
+          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
+        }
+      ],
+      "duration_ms": 204194,
+      "name": "grillos",
+      "url": "https://open.spotify.com/track/7A9cJvJvTynNe4yjcHS30A"
+    },
+    {
+      "added_at": "2026-04-10 04:03:03",
+      "album": {
         "name": "Nuestro A\u00f1o",
         "url": "https://open.spotify.com/album/4ZPaxmMpDiXDt9Lem847ES"
       },
@@ -1183,22 +1199,6 @@
       "duration_ms": 189821,
       "name": "Nuestro A\u00f1o",
       "url": "https://open.spotify.com/track/5ql03bthJo4B6Lm4zQiSuQ"
-    },
-    {
-      "added_at": "2026-04-10 04:03:03",
-      "album": {
-        "name": "grillos",
-        "url": "https://open.spotify.com/album/72dy2ivRHVBBycsT0347Mc"
-      },
-      "artists": [
-        {
-          "name": "GIULIA BE",
-          "url": "https://open.spotify.com/artist/0kjGPGtoyKwKVOZAKmv5K6"
-        }
-      ],
-      "duration_ms": 204194,
-      "name": "grillos",
-      "url": "https://open.spotify.com/track/7A9cJvJvTynNe4yjcHS30A"
     },
     {
       "added_at": "2026-04-10 04:03:03",

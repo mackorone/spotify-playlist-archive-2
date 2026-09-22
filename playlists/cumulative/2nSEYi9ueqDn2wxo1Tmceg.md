@@ -4,7 +4,7 @@
 
 > Domino present you with their selection of the best independent music around\. Enjoy! Cover: <a>Fat Dog</a>
 
-1,725 songs - 4 day 20 hr 54 min
+1,726 songs - 4 day 20 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -88,7 +88,7 @@
 | [Alright Alright Alright](https://open.spotify.com/track/6FoYuFpYLbu4kKIKOtARBm) | [Westside Cowboy](https://open.spotify.com/artist/5LfO4rbJarBvHjB34mU9m2) | [Alright Alright Alright](https://open.spotify.com/album/2loYX0tWMVfFu6AyWSZTDw) | 2:04 | 2025-06-25 | 2025-08-14 |
 | [Always Been \- Edit](https://open.spotify.com/track/7BRfaJyBsD2kixpq6TC9bS) | [I\. JORDAN](https://open.spotify.com/artist/5RMLpCv3ic2KtGnqJ7eMG4) | [Always Been](https://open.spotify.com/album/10SELiFQ5TbsmxH0pmAHYs) | 3:28 | 2022-10-20 | 2022-11-24 |
 | [Always There](https://open.spotify.com/track/0vq5vqbGfNydG2XaSBVRxx) | [Daphni](https://open.spotify.com/artist/4nhvb6x9ZhPiYCzrHDNia9) | [Cherry](https://open.spotify.com/album/0cmEfkFvLVgKhLIUgGhRG5) | 3:41 | 2022-10-12 | 2022-11-17 |
-| [Amaro](https://open.spotify.com/track/7ju5clDlfi2w1Busf1TjJT) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Amaro](https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq) | 3:08 | 2026-03-11 |  |
+| [Amaro](https://open.spotify.com/track/7ju5clDlfi2w1Busf1TjJT) | [Bibi Club](https://open.spotify.com/artist/3TcKgwcrTy4oLOQoEq3tGD) | [Amaro](https://open.spotify.com/album/2bq7mOidVQrgdhNq5ZveNq) | 3:08 | 2026-03-11 | 2026-09-22 |
 | [Ambulance](https://open.spotify.com/track/3jZNHYcFJZoLKN9cW1su7T) | [Cloth](https://open.spotify.com/artist/3ZKUFIrYS6aAgIxu5AfTX5) | [Secret Measure](https://open.spotify.com/album/73LD5wqN5VgYoWQN5gNN6q) | 2:52 | 2023-05-10 | 2023-06-29 |
 | [American Airlines](https://open.spotify.com/track/7z5Y9yzEe4tj7ToFrVGW0W) | [the GOLDEN DREGS](https://open.spotify.com/artist/5HS4BCPnb2zYSwsmXunf8d) | [American Airlines](https://open.spotify.com/album/1M7JnxPhr7qDTIOJKRAUKc) | 3:56 | 2022-10-06 | 2022-11-10 |
 | [american food](https://open.spotify.com/track/5lTL2lj3PUKA5qiIK3i5hw) | [They Are Gutting a Body of Water](https://open.spotify.com/artist/2VhTBaV2Io9AJe661MUTEj) | [american food](https://open.spotify.com/album/7rLnSbLPod9IoPvcu3NWrd) | 3:11 | 2025-05-28 | 2025-06-26 |
@@ -761,6 +761,7 @@
 | [I'm Not Sad](https://open.spotify.com/track/1En8CBKqljHuYPJjqETcfu) | [The Cords](https://open.spotify.com/artist/0nWOfr0ZQ0uxIbpWwLO8DD) | [The Cords](https://open.spotify.com/album/1shf97BXfxZ99LAP1eZikm) | 1:40 | 2025-10-01 | 2025-11-13 |
 | [I'm So Serious](https://open.spotify.com/track/15EOCEksKtUd844TrW9Tjv) | [Daryl Johns](https://open.spotify.com/artist/7K48RaFMB6BhTLc0KspbTh) | [Daryl Johns](https://open.spotify.com/album/1KcMm91Cfdgf60yhnhTbFj) | 3:42 | 2024-12-04 | 2025-03-06 |
 | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/track/5UJTM4M8b1Tw3No5kNI2N3) | [Arlo Parks](https://open.spotify.com/artist/4kIwETcbpuFgRukE8o7Opx), [Lous and The Yakuza](https://open.spotify.com/artist/2HPiMwJktBXqakN0hnON2R) | [I'm Sorry \(ft\. Lous and The Yakuza\)](https://open.spotify.com/album/1oGJEqTSFq3OkYzUMtjkC9) | 3:07 | 2023-12-13 | 2024-02-01 |
+| [I'm Writing a New Song Every Month from One Birthday til the Next: August](https://open.spotify.com/track/4p9jsPvuvW8MpkE9p2LVBD) | [Dylan Henner](https://open.spotify.com/artist/1L9mUjZqdG9QZnys4EDI7C) | [I'm Writing a New Song Every Month from One Birthday til the Next: August](https://open.spotify.com/album/5dVQO5WFvxItwEOFGK8pTR) | 3:40 | 2026-09-21 |  |
 | [I'm Yours Baby](https://open.spotify.com/track/1MDnq89tyEoVGtwSnASJin) | [Hater](https://open.spotify.com/artist/4Xi4aFTZvoMChGDmSVgxTz) | [Sincere](https://open.spotify.com/album/2wfDR4Efo4EpwyMAR40sk3) | 4:34 | 2022-06-08 | 2022-06-17 |
 | [I.L.T.S.](https://open.spotify.com/track/12TB5WLNviUpqLglb8yTXX) | [SAULT](https://open.spotify.com/artist/1uRxRKC7d9zwYGSRflTKDR) | [10](https://open.spotify.com/album/6MT7ungOXS7u5TcKQt4fve) | 3:29 | 2025-04-30 | 2025-06-05 |
 | [Idea June](https://open.spotify.com/track/3gSOdj4d5OKbF8waDFoBHx) | [Chanel Beads](https://open.spotify.com/artist/3x11XrMEnyP18hv73pmKRL) | [Embarrassed Dog](https://open.spotify.com/album/4WQJQbKm9POFMDat9js98A) | 1:30 | 2024-03-20 | 2024-05-09 |

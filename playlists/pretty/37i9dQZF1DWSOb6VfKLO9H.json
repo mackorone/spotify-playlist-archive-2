@@ -1,6 +1,6 @@
 {
   "description": "Alle oude party tunes!",
-  "num_followers": 111390,
+  "num_followers": 111409,
   "original_name": "Oude Party Tunes",
   "owner": {
     "name": "Spotify",
@@ -635,6 +635,34 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Amsterdam",
+        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
+      },
+      "artists": [
+        {
+          "name": "Cristian D",
+          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
+        },
+        {
+          "name": "$hirak",
+          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
+        },
+        {
+          "name": "Brysa",
+          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
+        },
+        {
+          "name": "Ashafar",
+          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
+        }
+      ],
+      "duration_ms": 173534,
+      "name": "Amsterdam",
+      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Lituatie",
         "url": "https://open.spotify.com/album/7EFLpuRbwruKlDJpbMZcsG"
       },
@@ -663,34 +691,6 @@
       "duration_ms": 164900,
       "name": "Dansen Op Labanta",
       "url": "https://open.spotify.com/track/1QQQEsgRzhUirI0vdKDz66"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Amsterdam",
-        "url": "https://open.spotify.com/album/6l9Rmkdj8tWkzalxMKtfk3"
-      },
-      "artists": [
-        {
-          "name": "Cristian D",
-          "url": "https://open.spotify.com/artist/1uBw9o9xJfe2H3geRocQq4"
-        },
-        {
-          "name": "$hirak",
-          "url": "https://open.spotify.com/artist/1uUuCEXmWpKN2YLl5xSoT2"
-        },
-        {
-          "name": "Brysa",
-          "url": "https://open.spotify.com/artist/20bXifvyaank813LMJGw5G"
-        },
-        {
-          "name": "Ashafar",
-          "url": "https://open.spotify.com/artist/438nTuoZFCZCyBl33jE9dU"
-        }
-      ],
-      "duration_ms": 173534,
-      "name": "Amsterdam",
-      "url": "https://open.spotify.com/track/1YR7VB3xx85Iad2n3soyMb"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -743,6 +743,22 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Goed Teken",
+        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
+      },
+      "artists": [
+        {
+          "name": "Jonna Fraser",
+          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
+        }
+      ],
+      "duration_ms": 170497,
+      "name": "Ik Kan Je Niet Laten",
+      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "18 Plus",
         "url": "https://open.spotify.com/album/2Gc6j66PjKX8VY8Mf3jK0N"
       },
@@ -759,22 +775,6 @@
       "duration_ms": 205000,
       "name": "18 Plus",
       "url": "https://open.spotify.com/track/6M6Tkjn7e4TTVXBpudaGxb"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Goed Teken",
-        "url": "https://open.spotify.com/album/08XCGZJvFATyHBwUzddDyn"
-      },
-      "artists": [
-        {
-          "name": "Jonna Fraser",
-          "url": "https://open.spotify.com/artist/5adKMaYrGOMyOfnbiLPuHg"
-        }
-      ],
-      "duration_ms": 170497,
-      "name": "Ik Kan Je Niet Laten",
-      "url": "https://open.spotify.com/track/5xWZZwFbtuotkPBsY0Km3c"
     },
     {
       "added_at": "2024-07-19 06:38:33",
@@ -1331,6 +1331,30 @@
     {
       "added_at": "2024-07-19 06:38:33",
       "album": {
+        "name": "Big Man",
+        "url": "https://open.spotify.com/album/5GKqyIUHBWSwyCF1apkT9X"
+      },
+      "artists": [
+        {
+          "name": "Sevn Alias",
+          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
+        },
+        {
+          "name": "Mula",
+          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
+        },
+        {
+          "name": "Trobi",
+          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
+        }
+      ],
+      "duration_ms": 163125,
+      "name": "Big Man",
+      "url": "https://open.spotify.com/track/6bJ9c5VIx8jbf5U34qHAFm"
+    },
+    {
+      "added_at": "2024-07-19 06:38:33",
+      "album": {
         "name": "Dashawn",
         "url": "https://open.spotify.com/album/1Oxf0qjQqyYUvFDhLcKFb0"
       },
@@ -1355,30 +1379,6 @@
       "duration_ms": 167184,
       "name": "Chemistry (feat. Mula B)",
       "url": "https://open.spotify.com/track/32KaEzzoNXtjTyMT55ZT7y"
-    },
-    {
-      "added_at": "2024-07-19 06:38:33",
-      "album": {
-        "name": "Big Man",
-        "url": "https://open.spotify.com/album/5GKqyIUHBWSwyCF1apkT9X"
-      },
-      "artists": [
-        {
-          "name": "Sevn Alias",
-          "url": "https://open.spotify.com/artist/0HDMwoCS316xhKCZlJPBnc"
-        },
-        {
-          "name": "Mula",
-          "url": "https://open.spotify.com/artist/6zEaCvF0CqEHs7kFyBkLHi"
-        },
-        {
-          "name": "Trobi",
-          "url": "https://open.spotify.com/artist/0MBLQbpbPvJ4oXM0Cj4aKR"
-        }
-      ],
-      "duration_ms": 163125,
-      "name": "Big Man",
-      "url": "https://open.spotify.com/track/6bJ9c5VIx8jbf5U34qHAFm"
     },
     {
       "added_at": "2024-07-19 06:38:33",

@@ -1,6 +1,6 @@
 {
   "description": "Los pr\u00f3ceres de la historia del rock nacional. Jonathan \"Honas\" Mel\u00e9ndez por siempre ",
-  "num_followers": 578449,
+  "num_followers": 578484,
   "original_name": "Iconos del Rock Mexicano",
   "owner": {
     "name": "Spotify",
@@ -1379,22 +1379,6 @@
     {
       "added_at": "2026-09-04 06:00:54",
       "album": {
-        "name": "Enciendelo",
-        "url": "https://open.spotify.com/album/1FS51yvmt7SUIo2Swz7Gtr"
-      },
-      "artists": [
-        {
-          "name": "Coda",
-          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
-        }
-      ],
-      "duration_ms": 296266,
-      "name": "Eternamente",
-      "url": "https://open.spotify.com/track/0WCJWPeQXE0TRguyX9b3nU"
-    },
-    {
-      "added_at": "2026-09-04 06:00:54",
-      "album": {
         "name": "Botas Negras",
         "url": "https://open.spotify.com/album/7bcjqAbck3cO5Pv1dcrVox"
       },
@@ -1407,6 +1391,22 @@
       "duration_ms": 343826,
       "name": "Botas Negras",
       "url": "https://open.spotify.com/track/33gx6JR9By6ahTupIh2kCT"
+    },
+    {
+      "added_at": "2026-09-04 06:00:54",
+      "album": {
+        "name": "Enciendelo",
+        "url": "https://open.spotify.com/album/1FS51yvmt7SUIo2Swz7Gtr"
+      },
+      "artists": [
+        {
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
+        }
+      ],
+      "duration_ms": 296266,
+      "name": "Eternamente",
+      "url": "https://open.spotify.com/track/0WCJWPeQXE0TRguyX9b3nU"
     },
     {
       "added_at": "2026-09-04 06:00:54",
@@ -1555,18 +1555,18 @@
     {
       "added_at": "2026-09-04 06:00:54",
       "album": {
-        "name": "Enciendelo",
-        "url": "https://open.spotify.com/album/1FS51yvmt7SUIo2Swz7Gtr"
+        "name": "Rock Milenium",
+        "url": "https://open.spotify.com/album/2AusEMAvDewcPfe635W38x"
       },
       "artists": [
         {
-          "name": "Coda",
-          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
+          "name": "La Lupita",
+          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
         }
       ],
-      "duration_ms": 234333,
-      "name": "Sin Ti No S\u00e9 Continuar",
-      "url": "https://open.spotify.com/track/60bbmVffz9u4RzIbxuGiKv"
+      "duration_ms": 167226,
+      "name": "Paquita Disco",
+      "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
     },
     {
       "added_at": "2026-09-04 06:00:54",
@@ -1587,18 +1587,18 @@
     {
       "added_at": "2026-09-04 06:00:54",
       "album": {
-        "name": "Rock Milenium",
-        "url": "https://open.spotify.com/album/2AusEMAvDewcPfe635W38x"
+        "name": "Enciendelo",
+        "url": "https://open.spotify.com/album/1FS51yvmt7SUIo2Swz7Gtr"
       },
       "artists": [
         {
-          "name": "La Lupita",
-          "url": "https://open.spotify.com/artist/64Fg1xlMcuDptp5EiNIIcB"
+          "name": "Coda",
+          "url": "https://open.spotify.com/artist/3qX79XCeQcRJdmlrcZZVIy"
         }
       ],
-      "duration_ms": 167226,
-      "name": "Paquita Disco",
-      "url": "https://open.spotify.com/track/4CJaBuM4AhPM7jJNnKZqc3"
+      "duration_ms": 234333,
+      "name": "Sin Ti No S\u00e9 Continuar",
+      "url": "https://open.spotify.com/track/60bbmVffz9u4RzIbxuGiKv"
     },
     {
       "added_at": "2026-09-04 06:00:54",

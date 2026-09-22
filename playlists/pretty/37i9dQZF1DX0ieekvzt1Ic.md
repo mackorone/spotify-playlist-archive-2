@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX0ieekvzt1Ic.md) - [plain]
 
 > The hottest tracks in India\. <br/>Cover: Dua Lipa
 
-[Spotify](https://open.spotify.com/user/spotify) - 570,064 likes - 54 songs - 2 hr 51 min
+[Spotify](https://open.spotify.com/user/spotify) - 570,084 likes - 54 songs - 2 hr 51 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

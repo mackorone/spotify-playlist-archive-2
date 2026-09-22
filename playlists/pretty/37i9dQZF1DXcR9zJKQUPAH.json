@@ -1,6 +1,6 @@
 {
   "description": "The Indie highlights of 2017. Cover: The xx",
-  "num_followers": 163160,
+  "num_followers": 163165,
   "original_name": "Best of Indie 2017",
   "owner": {
     "name": "Spotify",
@@ -819,22 +819,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Colors",
-        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
-      },
-      "artists": [
-        {
-          "name": "Beck",
-          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
-        }
-      ],
-      "duration_ms": 314486,
-      "name": "Dreams",
-      "url": "https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Sunset Season",
         "url": "https://open.spotify.com/album/16pubXUlqRziVWRsT6lLNz"
       },
@@ -847,6 +831,22 @@
       "duration_ms": 237920,
       "name": "Idle Town",
       "url": "https://open.spotify.com/track/0cXRafInOlc1QH519RXltN"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Colors",
+        "url": "https://open.spotify.com/album/6BOQkxcHspMoRWEwEexf4l"
+      },
+      "artists": [
+        {
+          "name": "Beck",
+          "url": "https://open.spotify.com/artist/3vbKDsSS70ZX9D2OcvbZmS"
+        }
+      ],
+      "duration_ms": 314486,
+      "name": "Dreams",
+      "url": "https://open.spotify.com/track/14zhqtMI5xHrfCFCLhFcsn"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -903,22 +903,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "World Gone Mad (From Bright: The Album)",
-        "url": "https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw"
-      },
-      "artists": [
-        {
-          "name": "Bastille",
-          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
-        }
-      ],
-      "duration_ms": 195700,
-      "name": "World Gone Mad",
-      "url": "https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Now & Then",
         "url": "https://open.spotify.com/album/6uR4bPGGdQHDphbyubK9zc"
       },
@@ -931,6 +915,22 @@
       "duration_ms": 205893,
       "name": "Now & Then",
       "url": "https://open.spotify.com/track/41oqThgUF4yiNz77TazXtl"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "World Gone Mad (From Bright: The Album)",
+        "url": "https://open.spotify.com/album/1eRw8LHFNcfucLRf0PWbHw"
+      },
+      "artists": [
+        {
+          "name": "Bastille",
+          "url": "https://open.spotify.com/artist/7EQ0qTo7fWT7DPxmxtSYEc"
+        }
+      ],
+      "duration_ms": 195700,
+      "name": "World Gone Mad",
+      "url": "https://open.spotify.com/track/1ZyQGXH9dZ4AecevHhKUxi"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1371,22 +1371,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "raingurl",
-        "url": "https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr"
-      },
-      "artists": [
-        {
-          "name": "Yaeji",
-          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
-        }
-      ],
-      "duration_ms": 237231,
-      "name": "raingurl",
-      "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Begin (feat. Wales)",
         "url": "https://open.spotify.com/album/3611xLiDgXb1doMwP0YizT"
       },
@@ -1403,6 +1387,22 @@
       "duration_ms": 242859,
       "name": "Begin (feat. Wales)",
       "url": "https://open.spotify.com/track/3uSwz1gv799BQhkqgIgfSz"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "raingurl",
+        "url": "https://open.spotify.com/album/3YtDhWqQOTOT6XD2DQHpBr"
+      },
+      "artists": [
+        {
+          "name": "Yaeji",
+          "url": "https://open.spotify.com/artist/2RqrWplViWHSGLzlhmDcbt"
+        }
+      ],
+      "duration_ms": 237231,
+      "name": "raingurl",
+      "url": "https://open.spotify.com/track/4gRAniZdYF2zVrDUsNC9tU"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1519,22 +1519,6 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
-        "name": "Goodie Bag",
-        "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
-      },
-      "artists": [
-        {
-          "name": "Still Woozy",
-          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
-        }
-      ],
-      "duration_ms": 146390,
-      "name": "Goodie Bag",
-      "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
         "name": "Stranger in the Alps",
         "url": "https://open.spotify.com/album/0AkAmg94XyiHODJaiGHh9O"
       },
@@ -1547,6 +1531,22 @@
       "duration_ms": 229760,
       "name": "Motion Sickness",
       "url": "https://open.spotify.com/track/6LxcPUqx6noURdA5qc4BAT"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
+        "name": "Goodie Bag",
+        "url": "https://open.spotify.com/album/31u58iuxrUOJeKJj4SKqOl"
+      },
+      "artists": [
+        {
+          "name": "Still Woozy",
+          "url": "https://open.spotify.com/artist/4iMO20EPodreIaEl8qW66y"
+        }
+      ],
+      "duration_ms": 146390,
+      "name": "Goodie Bag",
+      "url": "https://open.spotify.com/track/297rZsBEjFw9d0Gl3iBLnd"
     },
     {
       "added_at": "2024-03-18 13:08:31",
@@ -1583,6 +1583,22 @@
     {
       "added_at": "2024-03-18 13:08:31",
       "album": {
+        "name": "Soft Sounds from Another Planet",
+        "url": "https://open.spotify.com/album/6AOaqWipm2Zk0oBp0uUey2"
+      },
+      "artists": [
+        {
+          "name": "Japanese Breakfast",
+          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
+        }
+      ],
+      "duration_ms": 213986,
+      "name": "Boyish",
+      "url": "https://open.spotify.com/track/0De8H4o9xzPtjRp9dns0L5"
+    },
+    {
+      "added_at": "2024-03-18 13:08:31",
+      "album": {
         "name": "Apricot Princess",
         "url": "https://open.spotify.com/album/2NBVxjZcbH5H1N1Ab2ExDH"
       },
@@ -1611,22 +1627,6 @@
       "duration_ms": 204004,
       "name": "Retrospect - Single Version",
       "url": "https://open.spotify.com/track/1YlOdKPa0LBTqOnFAxWPLQ"
-    },
-    {
-      "added_at": "2024-03-18 13:08:31",
-      "album": {
-        "name": "Soft Sounds from Another Planet",
-        "url": "https://open.spotify.com/album/6AOaqWipm2Zk0oBp0uUey2"
-      },
-      "artists": [
-        {
-          "name": "Japanese Breakfast",
-          "url": "https://open.spotify.com/artist/7MoIc5s9KXolCBH1fy9kkw"
-        }
-      ],
-      "duration_ms": 213986,
-      "name": "Boyish",
-      "url": "https://open.spotify.com/track/0De8H4o9xzPtjRp9dns0L5"
     },
     {
       "added_at": "2024-03-18 13:08:31",

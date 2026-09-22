@@ -874,7 +874,7 @@
       ],
       "date_added": "2021-10-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 304893,
       "name": "Ella se Hizo Deseo",
       "url": "https://open.spotify.com/track/6xcpIxu4IDH2gzAYCr6dIR"
@@ -1044,6 +1044,24 @@
       "duration_ms": 279840,
       "name": "Ese Hombre",
       "url": "https://open.spotify.com/track/3vFxhY2ejPkBPPI8tTFB1V"
+    },
+    {
+      "album": {
+        "name": "Por Derecho Propio",
+        "url": "https://open.spotify.com/album/519dNSSpFOivv1krsuQnC2"
+      },
+      "artists": [
+        {
+          "name": "Tito Rojas",
+          "url": "https://open.spotify.com/artist/2kgCV0fFS0wt3q6M5B39nH"
+        }
+      ],
+      "date_added": "2024-07-12",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 317293,
+      "name": "Esperandote",
+      "url": "https://open.spotify.com/track/6ZAtxAnkwup5qX814jyYIe"
     },
     {
       "album": {

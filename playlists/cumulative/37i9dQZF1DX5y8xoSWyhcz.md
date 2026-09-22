@@ -4,7 +4,7 @@
 
 > it's a vibe \(◡ ‿ ◡ ✿\).
 
-1,756 songs - 3 day 19 hr 27 min
+1,757 songs - 3 day 19 hr 30 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -766,6 +766,7 @@
 | [I miss you](https://open.spotify.com/track/4JhEfCn7X3Syktrto0x7wW) | [Emily Coulston](https://open.spotify.com/artist/2sCX3fYnuGfFCgkM4EJN1w) | [I miss you](https://open.spotify.com/album/7IJ8nXx3KJU6BiXNLhXDsd) | 2:59 | 2026-02-27 | 2026-03-14 |
 | [I must apologise](https://open.spotify.com/track/08g7wxW8iELmpxO0ppcwnI) | [PinkPantheress](https://open.spotify.com/artist/78rUTD7y6Cy67W1RVzYs7t) | [I must apologise](https://open.spotify.com/album/0m1wwIx9Eoa7fWb9KYh7pt) | 1:48 | 2021-10-09 | 2022-01-22 |
 | [I Need To Sleep](https://open.spotify.com/track/0EOK77QqaKReUNZntadFlK) | [Elise Elvira](https://open.spotify.com/artist/4UgJMtggKFjXHMoTDS5KjU) | [I Need To Sleep](https://open.spotify.com/album/2BlLzVPNvLCgGl1bxfOJUL) | 2:59 | 2026-01-30 | 2026-03-21 |
+| [I Owe You](https://open.spotify.com/track/6PO0BfzvLWeZKGsqHxYst0) | [Claud](https://open.spotify.com/artist/5MaQlvNGOaTj39apHsXVq1) | [I Owe You](https://open.spotify.com/album/6kZQ5n5NOvsmSG65S7Vhck) | 3:30 | 2026-09-21 |  |
 | [i remember](https://open.spotify.com/track/4MWFPLrhkekG6gcix2l3vJ) | [bbno$](https://open.spotify.com/artist/41X1TR6hrK8Q2ZCpp2EqCz) | [i remember](https://open.spotify.com/album/5fkoeeumL7hJ91pqy3XBYc) | 3:23 | 2021-09-25 | 2021-12-18 |
 | [i saw you parked outside](https://open.spotify.com/track/5oCFmLOutNv59PwBBBeiG0) | [Cassidi](https://open.spotify.com/artist/3hHnYAexHQ3wYGYno6LArK) | [i saw you parked outside](https://open.spotify.com/album/5AbxsqRQd7oYGhBoEKqDRp) | 3:34 | 2022-01-07 | 2022-03-19 |
 | [I Saw Your Face](https://open.spotify.com/track/3cLBx0lEWPKSM99hx5RVcx) | [Malcolm Todd](https://open.spotify.com/artist/7eKkW1zo5uzW8kUntiiBvz) | [I Saw Your Face](https://open.spotify.com/album/6PM2d4YZxyXLO05TWXoSm7) | 3:09 | 2026-04-24 |  |

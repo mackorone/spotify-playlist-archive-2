@@ -1065,6 +1065,24 @@
     },
     {
       "album": {
+        "name": "Caught Myself Believing",
+        "url": "https://open.spotify.com/album/4AkVIIaqdPkD6VBX0e70cY"
+      },
+      "artists": [
+        {
+          "name": "Bleachers",
+          "url": "https://open.spotify.com/artist/2eam0iDomRHGBypaDQLwWI"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 180116,
+      "name": "Caught Myself Believing",
+      "url": "https://open.spotify.com/track/3PU9R1MbG4OMCuvDMbyvmA"
+    },
+    {
+      "album": {
         "name": "Twilight Tales From The Prairies Of The Sun",
         "url": "https://open.spotify.com/album/5fJVIiklRAtq8xC0TdYZvO"
       },

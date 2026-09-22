@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 
 > techno you can relax/study to
 
-[Spotify](https://open.spotify.com/user/spotify) - 5,547 likes - 100 songs - 11 hr 46 min
+[Spotify](https://open.spotify.com/user/spotify) - 5,564 likes - 100 songs - 11 hr 46 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -42,11 +42,11 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 32 | [Ranges \- Expanded](https://open.spotify.com/track/4Zj2LMXmr4k3LOZmPTYI4T) | [Vainqueur](https://open.spotify.com/artist/3X6ixxUtf9bJr1aZbhFuia) | [Ranges](https://open.spotify.com/album/5styeI4sfo152kXdl1kYmR) | 9:20 |
 | 33 | [Mass Transit Railway](https://open.spotify.com/track/5yQiWObx6cnM7QQXfMCGdi) | [Monolake](https://open.spotify.com/artist/4XvKzACpcdk5iiZbWNvfbq) | [Hongkong Remastered](https://open.spotify.com/album/3EX7B1sZJJ116srzApFlXK) | 7:17 |
 | 34 | [From A Distance](https://open.spotify.com/track/7k9lcsMwgPlhLOCHQbUzlU) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Silent State](https://open.spotify.com/album/3DCJgMiJJWBBJbKcQPQ7Vb) | 6:59 |
-| 35 | [Deep Direction](https://open.spotify.com/track/3yMmxpT2GmDzPZ4ygvjVyt) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr) | [Light Soil](https://open.spotify.com/album/5PGhIaEB7r2ZHEdt2HbfYk) | 8:01 |
-| 36 | [Carrier](https://open.spotify.com/track/08bhHsCotWjcBpBTWJA8PS) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 6:27 |
+| 35 | [Carrier](https://open.spotify.com/track/08bhHsCotWjcBpBTWJA8PS) | [Rhythm & Sound](https://open.spotify.com/artist/5e5DeHuHjgcj0DbdrdYKMo) | [Rhythm & Sound](https://open.spotify.com/album/1gKsehEyIyBj5bUeSAEe8w) | 6:27 |
+| 36 | [Deep Direction](https://open.spotify.com/track/3yMmxpT2GmDzPZ4ygvjVyt) | [Sven Weisemann](https://open.spotify.com/artist/1MvenC6senxNCufFqueTlr) | [Light Soil](https://open.spotify.com/album/5PGhIaEB7r2ZHEdt2HbfYk) | 8:01 |
 | 37 | [Creation Dub](https://open.spotify.com/track/3jWZXDktZVgDelnDJx9DtO) | [Forest Drive West](https://open.spotify.com/artist/0K1lHu1BP65Z1DErnljxUw) | [Parallel Space EP](https://open.spotify.com/album/00qCuTBME8tBVE31DUC9A5) | 5:52 |
-| 38 | [Nautical Dub](https://open.spotify.com/track/2zk7IoOyTJkJ4FexIzO99W) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Biokinetics](https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg) | 5:48 |
-| 39 | [Made Your Point](https://open.spotify.com/track/3rcnMWIelZsqIrfsbS8Z79) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Unknown Exception](https://open.spotify.com/album/6SkIxWmWqV3gEWHEoqAQUt) | 6:03 |
+| 38 | [Made Your Point](https://open.spotify.com/track/3rcnMWIelZsqIrfsbS8Z79) | [Andy Stott](https://open.spotify.com/artist/6BuDxEE5rfuYeyhxQsl53K) | [Unknown Exception](https://open.spotify.com/album/6SkIxWmWqV3gEWHEoqAQUt) | 6:03 |
+| 39 | [Nautical Dub](https://open.spotify.com/track/2zk7IoOyTJkJ4FexIzO99W) | [Porter Ricks](https://open.spotify.com/artist/47yoe54A38qmHti0GlTPXR) | [Biokinetics](https://open.spotify.com/album/53NpZCeQB2JdALLsHsObjg) | 5:48 |
 | 40 | [Silberfisch](https://open.spotify.com/track/57f2cCxf67aA6BtD6Y8wbR) | [Pole](https://open.spotify.com/artist/2oAUWVDrNRE76jqj9IkVK6) | [3](https://open.spotify.com/album/5bWOl4J17QLviFkJYboxGL) | 6:36 |
 | 41 | [First Narrows](https://open.spotify.com/track/1LDQpmzXg5ZFfdqdBQFw03) | [Loscil](https://open.spotify.com/artist/3GM5cpCBadq2PMHjFoEvhK) | [First Narrows](https://open.spotify.com/album/40DIozF4oXPydyjLVqnFQj) | 10:19 |
 | 42 | [Montego Bay](https://open.spotify.com/track/5eQV0AvbqNHJnpcjCwMRfx) | [Intrusion](https://open.spotify.com/artist/3CWQ6k34DbG3G2UJpo8W1U) | [The Seduction of Silence](https://open.spotify.com/album/0B5zNMsNTnaaXQVlfNA0Wd) | 8:12 |
@@ -98,8 +98,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX4wG1zZBw7hm.md) - [plain]
 | 88 | [Oktember](https://open.spotify.com/track/49MosPm9tMO3Xzzs2nzokf) | [GAS](https://open.spotify.com/artist/0J8cNhY7V2NoRt9O6uCeUX) | [Oktember](https://open.spotify.com/album/6Dafde7J7kH2MQeyplCGVk) | 15:13 |
 | 89 | [Draught](https://open.spotify.com/track/4MQZjU6uaFobbj5MaxtAGe) | [Moritz Von Oswald](https://open.spotify.com/artist/33GGoMV3iYpV5tlsh32N7q), [Ordo Sakhna](https://open.spotify.com/artist/3SnKKOKMywsI29DK4qoIIe) | [Moritz Von Oswald & Ordo Sakhna](https://open.spotify.com/album/0GWKJ6ct7XkaD7KwDYPJk4) | 4:44 |
 | 90 | [Jazz Da Bazz](https://open.spotify.com/track/2crt4Lq4DTkAHdThJiWU7r) | [Recoil \[ZA\]](https://open.spotify.com/artist/0GzKP9rOJeR7mkw0kfqjJa), [Secret Cinema](https://open.spotify.com/artist/6TrT2n9RVox8c9xpffVKyW) | [Jazz Da Bazz](https://open.spotify.com/album/24MqTjPyjWFrCFdPpxx8wt) | 6:54 |
-| 91 | [Deep Stare](https://open.spotify.com/track/2gZot3iNjcZVaAV8YmM2bf) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound \- Pt\. 2](https://open.spotify.com/album/3WdGXHFwYIyQ8cyZ4Di0rX) | 7:17 |
-| 92 | [Never Give Up \- Vril Remix](https://open.spotify.com/track/7EAHb7b3ZlEUmthme75PwN) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Vril](https://open.spotify.com/artist/1nOi03kPUAMbOCl4lX9Avp) | [Never Give Up \(Vril Remix\)](https://open.spotify.com/album/0zN0nsDnNCiaP2YpfxbAlY) | 5:48 |
+| 91 | [Never Give Up \- Vril Remix](https://open.spotify.com/track/7EAHb7b3ZlEUmthme75PwN) | [Mathame](https://open.spotify.com/artist/6QSwQEz8CDMg8Rqk8dEkxS), [Vril](https://open.spotify.com/artist/1nOi03kPUAMbOCl4lX9Avp) | [Never Give Up \(Vril Remix\)](https://open.spotify.com/album/0zN0nsDnNCiaP2YpfxbAlY) | 5:48 |
+| 92 | [Deep Stare](https://open.spotify.com/track/2gZot3iNjcZVaAV8YmM2bf) | [STL](https://open.spotify.com/artist/3Aa3AP52gyOW8I2PlnxaIg) | [Message Of Sound \- Pt\. 2](https://open.spotify.com/album/3WdGXHFwYIyQ8cyZ4Di0rX) | 7:17 |
 | 93 | [Solid State Rain](https://open.spotify.com/track/1ZOsVzvEQxbId9cGSagZdx) | [Kangding Ray](https://open.spotify.com/artist/20UWNE4rEU7YMO0GHq4F26) | [Polar EP](https://open.spotify.com/album/39sJr4ODaxsa9LrmL5XeJQ) | 4:52 |
 | 94 | [Longing For U \- Priori Remix](https://open.spotify.com/track/1JAtFMjeinlNwgq4kWixQD) | [Tour\-Maubourg](https://open.spotify.com/artist/7sbDfGq4RVRz6cEt5PH4Su), [Priori](https://open.spotify.com/artist/76UMzIcqhjgf2Xr8gPdKO1) | [Longing For U \(Priori Remix\)](https://open.spotify.com/album/3R8vyXTOjgjcqMBEHi1sFm) | 5:39 |
 | 95 | [Becoming](https://open.spotify.com/track/6ph9UH93G5BfN7VdgVXGjm) | [Eusebeia](https://open.spotify.com/artist/6Vya9cujyDikgMmgOo1DRD) | [Becoming](https://open.spotify.com/album/5tT6tt9lzkn205BbqstafQ) | 5:44 |

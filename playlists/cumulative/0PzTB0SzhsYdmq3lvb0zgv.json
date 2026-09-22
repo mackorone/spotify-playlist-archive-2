@@ -7269,6 +7269,24 @@
     },
     {
       "album": {
+        "name": "Angel",
+        "url": "https://open.spotify.com/album/6mQC4efviywahzfwgLvye0"
+      },
+      "artists": [
+        {
+          "name": "Lizzy McAlpine",
+          "url": "https://open.spotify.com/artist/1GmsPCcpKgF9OhlNXjOsbS"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 305875,
+      "name": "Over country",
+      "url": "https://open.spotify.com/track/0YyYarMXa1WsS6hwUxSt6n"
+    },
+    {
+      "album": {
         "name": "Overthinking",
         "url": "https://open.spotify.com/album/76Mk1uTeXf0gQHgOQQrCDB"
       },
@@ -8597,6 +8615,24 @@
     },
     {
       "album": {
+        "name": "Small Town",
+        "url": "https://open.spotify.com/album/5HWgZgMLGybC8F7RMHL7Y2"
+      },
+      "artists": [
+        {
+          "name": "Dominic Fike",
+          "url": "https://open.spotify.com/artist/6USv9qhCn6zfxlBQIYJ9qs"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 169981,
+      "name": "Small Town",
+      "url": "https://open.spotify.com/track/3i1eMUF4POV3G1xkQIisoN"
+    },
+    {
+      "album": {
         "name": "Smile & Smile (Instrumental Version)",
         "url": "https://open.spotify.com/album/1JP7DmMzxOjggMMvCQnTkn"
       },
@@ -8972,6 +9008,28 @@
       "duration_ms": 249654,
       "name": "Still Crying",
       "url": "https://open.spotify.com/track/4HUcERrYOgYrSNo37IPpZp"
+    },
+    {
+      "album": {
+        "name": "Stitch or Gantu",
+        "url": "https://open.spotify.com/album/08b5A9eIWVojq1GQATB6cl"
+      },
+      "artists": [
+        {
+          "name": "Carbonara Collective",
+          "url": "https://open.spotify.com/artist/0xQtEAccpoBnlgXdSf75f6"
+        },
+        {
+          "name": "ZYHH",
+          "url": "https://open.spotify.com/artist/0gPcmVDfRgMGgnZCr3qvuO"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 150754,
+      "name": "Stitch or Gantu",
+      "url": "https://open.spotify.com/track/3tt296QleD9BM59VWBPRq2"
     },
     {
       "album": {

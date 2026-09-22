@@ -4,7 +4,7 @@
 
 > The hottest new pop with all the drops\. Cover: Troye Sivan
 
-2,243 songs - 4 day 13 hr 56 min
+2,244 songs - 4 day 14 hr 0 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -87,6 +87,7 @@
 | [All My Life](https://open.spotify.com/track/3bX3KMbLrkbxUb4p1jzaus) | [Purple Disco Machine](https://open.spotify.com/artist/2WBJQGf1bT1kxuoqziH5g4), [The Magician](https://open.spotify.com/artist/4WUGQykLBGFfsl0Qjl6TDM) | [Paradise](https://open.spotify.com/album/4sMMQskdXE5TJn62BHulqy) | 3:22 | 2024-09-20 | 2024-11-30 |
 | [All My Life](https://open.spotify.com/track/3qCCQas6tIP15Yjgu3gl9S) | [Tiësto](https://open.spotify.com/artist/2o5jDhtHVPhrJdv3cEQ99Z), [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [All My Life](https://open.spotify.com/album/2AhoXwTvHcGjBwNMDOwEZp) | 2:26 | 2024-01-05 | 2024-03-16 |
 | [All My Life](https://open.spotify.com/track/3fjlSzfjCknoHMMmJcXwAM) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Nea](https://open.spotify.com/artist/7nqlScm2smydSRl13eaP8E) | [All My Life](https://open.spotify.com/album/0kIhUloKIwUC3CxomG14qz) | 2:36 | 2021-11-26 | 2022-03-05 |
+| [All My Life \- Channel Tres Remix](https://open.spotify.com/track/0TgLFlVroT5JBtzPYq3qZT) | [Mariah Carey](https://open.spotify.com/artist/4iHNK0tOyZPYnBU7nGAgpQ), [Channel Tres](https://open.spotify.com/artist/4cUkGQyhLFqKHBtL58HYVp) | [All My Life \(Channel Tres Remix\)](https://open.spotify.com/album/50y7CGtM5ZI3OwmwME9vBb) | 4:40 | 2026-09-21 |  |
 | [All My Love](https://open.spotify.com/track/1XE7pQ0L1CdZk5q33YZjjS) | [CIEL.](https://open.spotify.com/artist/7k3cId1oZqUxRM5QgjMKJU) | [All My Love](https://open.spotify.com/album/7qcyVIFELYfWPB1vlDnnri) | 2:33 | 2026-08-03 |  |
 | [ALL MY LOVE \- PNAU x Coldplay](https://open.spotify.com/track/0TwKov50GELgwuAW4I3oeN) | [Coldplay](https://open.spotify.com/artist/4gzpq5DPGxSnKTe4SA8HAU), [PNAU](https://open.spotify.com/artist/6n28c9qs9hNGriNa72b26u) | [ALL MY LOVE \(PNAU x Coldplay\)](https://open.spotify.com/album/5ndvwHbg1XuPobvdNIhguO) | 3:14 | 2024-11-29 | 2025-03-01 |
 | [All Night](https://open.spotify.com/track/2CNQXaZCnqxYXehrSUzHTa) | [Brando](https://open.spotify.com/artist/5uEeqYFuIChoWKy34jp8xE) | [All Night](https://open.spotify.com/album/7EYNbpq4dQNjSmZUPElNU3) | 2:53 | 2021-11-05 | 2022-02-05 |
@@ -661,7 +662,7 @@
 | [Fireflies](https://open.spotify.com/track/1gbPA7apUePF8do9EfUYmq) | [Martin Garrix](https://open.spotify.com/artist/60d24wfXkVzDSfLS6hyCjZ), [U2](https://open.spotify.com/artist/51Blml2LZPmy7TTiAg47vQ) | [Fireflies](https://open.spotify.com/album/6VYjqAdWExFAfDdAudVT23) | 4:23 | 2026-07-24 |  |
 | [Firewalk](https://open.spotify.com/track/1NKpQ4bVY4rsTdUl7f4Cp7) | [Morgan Page](https://open.spotify.com/artist/1N9n8MSxrr4Emhb566493b), [Lissie](https://open.spotify.com/artist/3j4FHbC5zwmYGJ7r0ZgaMt) | [Firewalk](https://open.spotify.com/album/7q1cqbwRgGWzz341ZFFOpD) | 2:58 | 2023-02-10 | 2023-03-25 |
 | [Flames \(feat\. Bandit\)](https://open.spotify.com/track/0U5cp34yeoKN4GTcedhAFo) | [Robin Schulz](https://open.spotify.com/artist/3t5xRXzsuZmMDkQzgOX35S), [Bandit](https://open.spotify.com/artist/4mI8m4MJtY9yKLsxxa3Ri2) | [Flames \(feat\. Bandit\)](https://open.spotify.com/album/1b8vR0TRZsK1BDtk12sg5O) | 2:59 | 2026-02-20 | 2026-04-18 |
-| [Flip Side](https://open.spotify.com/track/2DZCnwzOR9S7r7n0oGqGAc) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [Flip Side](https://open.spotify.com/album/0uDZT87RUjaSsQR5LXXPSM) | 2:23 | 2026-06-19 |  |
+| [Flip Side](https://open.spotify.com/track/2DZCnwzOR9S7r7n0oGqGAc) | [YouNotUs](https://open.spotify.com/artist/67ghKnycRX6VM1xfqJSMlH), [Daddy DJ](https://open.spotify.com/artist/2Bc52Zzq4Hx7Dqm0Qw8bJL) | [Flip Side](https://open.spotify.com/album/0uDZT87RUjaSsQR5LXXPSM) | 2:23 | 2026-06-19 | 2026-09-22 |
 | [Fluent](https://open.spotify.com/track/1Ie6i08seXm2qBYyaPyvkI) | [Sofiloud](https://open.spotify.com/artist/6pGgP4CDlYMumihpD3CAwm) | [Fluent](https://open.spotify.com/album/0l7YP2Nebj6PF8CTYCaNlM) | 2:08 | 2026-02-06 | 2026-04-04 |
 | [Focus \(feat\. CLOVES\)](https://open.spotify.com/track/0xaXwvcjq7aAKwMKe22Bw7) | [John Summit](https://open.spotify.com/artist/7kNqXtgeIwFtelmRjWv205), [CLOVES](https://open.spotify.com/artist/355SqtHY4qKt2wIXrWku0c) | [Focus \(feat\. CLOVES\)](https://open.spotify.com/album/4hwsD3b6V8962BDX5nCiFF) | 3:58 | 2025-01-17 | 2025-04-26 |
 | [Follow](https://open.spotify.com/track/5ZQNoHS5dOGWjIhoXKW7Zt) | [Otto Knows](https://open.spotify.com/artist/5fahUm8t5c0GIdeTq0ZaG8), [Sarah Klang](https://open.spotify.com/artist/6Pm0evhKSUGTGYDxzpGGKf) | [Follow](https://open.spotify.com/album/5lGxKoO5OJLcV7ZgKvuv1G) | 4:47 | 2025-08-29 | 2025-10-11 |

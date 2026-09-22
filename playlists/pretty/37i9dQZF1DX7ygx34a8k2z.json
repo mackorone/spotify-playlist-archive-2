@@ -1,6 +1,6 @@
 {
   "description": "dig through the record bin.",
-  "num_followers": 322358,
+  "num_followers": 322418,
   "original_name": "Thrifted",
   "owner": {
     "name": "Spotify",
@@ -1243,6 +1243,22 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
+        "name": "Mic City Sons",
+        "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
+      },
+      "artists": [
+        {
+          "name": "Heatmiser",
+          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
+        }
+      ],
+      "duration_ms": 208000,
+      "name": "Plainclothes Man",
+      "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
         "name": "Hello Nasty (Deluxe Edition/Remastered)",
         "url": "https://open.spotify.com/album/6eGYLONkDMja0MNtZWnRRB"
       },
@@ -1259,22 +1275,6 @@
       "duration_ms": 180373,
       "name": "I Don't Know - Remastered 2009",
       "url": "https://open.spotify.com/track/10FLYqpqDN4uo6eWtD6WEB"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
-        "name": "Mic City Sons",
-        "url": "https://open.spotify.com/album/0D3hElyxCMZnBVI4pDMSAL"
-      },
-      "artists": [
-        {
-          "name": "Heatmiser",
-          "url": "https://open.spotify.com/artist/59IPo3F7aZifhZtHnoGHbo"
-        }
-      ],
-      "duration_ms": 208000,
-      "name": "Plainclothes Man",
-      "url": "https://open.spotify.com/track/7yYf5GF0jX6M6KywKygE0c"
     },
     {
       "added_at": "2025-01-15 04:11:50",
@@ -1583,22 +1583,6 @@
     {
       "added_at": "2025-01-15 04:11:50",
       "album": {
-        "name": "The Boy With the Arab Strap",
-        "url": "https://open.spotify.com/album/0PnuQg8OK4KoOPrwhgyKRQ"
-      },
-      "artists": [
-        {
-          "name": "Belle and Sebastian",
-          "url": "https://open.spotify.com/artist/4I2BJf80C0skQpp1sQmA0h"
-        }
-      ],
-      "duration_ms": 314066,
-      "name": "The Boy With the Arab Strap",
-      "url": "https://open.spotify.com/track/5GPPI3rnZDptLYRN4vTUoZ"
-    },
-    {
-      "added_at": "2025-01-15 04:11:50",
-      "album": {
         "name": "Soup",
         "url": "https://open.spotify.com/album/1oFb2lITfburNYlKeyGnMO"
       },
@@ -1627,6 +1611,22 @@
       "duration_ms": 233573,
       "name": "That's When I Reach for My Revolver",
       "url": "https://open.spotify.com/track/3bSKHihztyH9D1ZyQsoqzI"
+    },
+    {
+      "added_at": "2025-01-15 04:11:50",
+      "album": {
+        "name": "Knock Knock",
+        "url": "https://open.spotify.com/album/3XzbVl7oibSdnmpCGzCK6A"
+      },
+      "artists": [
+        {
+          "name": "Smog",
+          "url": "https://open.spotify.com/artist/2ajVJyxI4sHmTMtTA3ENko"
+        }
+      ],
+      "duration_ms": 254160,
+      "name": "Cold Blooded Old Times",
+      "url": "https://open.spotify.com/track/5PvqFnDaO9L2BTOY8HLVk8"
     }
   ],
   "unique_name": "Thrifted",

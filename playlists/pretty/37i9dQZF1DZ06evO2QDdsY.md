@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 
 > This is Valerie June\. The essential tracks, all in one playlist.
 
-[Spotify](https://open.spotify.com/user/spotify) - 16,922 likes - 50 songs - 2 hr 55 min
+[Spotify](https://open.spotify.com/user/spotify) - 16,923 likes - 50 songs - 2 hr 55 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -49,9 +49,9 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 39 | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/track/74XZykTeeq5oGRfNcXN3Zf) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [High Note \[Feat\. Stax Music Academy\]](https://open.spotify.com/album/4vB0ksPKPmBGnv4FTn227w) | 3:02 |
 | 40 | [Pushin’ Against A Stone](https://open.spotify.com/track/0DhXt0ky95iGN2uhP41Nv3) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Pushin' Against A Stone](https://open.spotify.com/album/02ayfOwf2rHWQoQoP4PCwQ) | 5:14 |
 | 41 | [Fallin'](https://open.spotify.com/track/6MDmdCyYOIxgwRrohXy1CI) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers](https://open.spotify.com/album/3pjk4sukkPuJXmRhvvYEhO) | 3:18 |
-| 42 | [Tyrannosaur](https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Tyrannosaur](https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB) | 3:19 |
+| 42 | [Don't Start \(feat\. Valerie June\)](https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 3:03 |
 | 43 | [Cry Baby \- feat\. Valerie June](https://open.spotify.com/track/10TS4rn0t7GRGEB3gGLjUv) | [Sunny War](https://open.spotify.com/artist/01GKiTphQwz4guZQntMha8), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Armageddon In A Summer Dress](https://open.spotify.com/album/4QHHLKn8d51lY9i6OiOohV) | 3:14 |
-| 44 | [Don't Start \(feat\. Valerie June\)](https://open.spotify.com/track/1NAyk3RK82m5M1IKki0caf) | [Gary Clark Jr.](https://open.spotify.com/artist/01aC2ikO4Xgb2LUpf9JfKp), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [JPEG RAW](https://open.spotify.com/album/09XurHGqbBgvj7SH96UbPV) | 3:03 |
+| 44 | [Tyrannosaur](https://open.spotify.com/track/4ZdFgFJ4nsXneiT5QeLVM3) | [Sachal Vasandani](https://open.spotify.com/artist/4sctitB70tTmziCPMwYJJr), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Tyrannosaur](https://open.spotify.com/album/4tOWMzJgaAw6wg8BgbyUpB) | 3:19 |
 | 45 | [Summer's End](https://open.spotify.com/track/1GOcYcVoojwz4FH1aD8ZKP) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Broken Hearts & Dirty Windows: Songs of John Prine, Vol\. 2](https://open.spotify.com/album/1zeu2tjunNLjS6rWNWCZ70) | 3:29 |
 | 46 | [Friendship \[Feat\. Carla Thomas, Stax Music Academy\]](https://open.spotify.com/track/65uCEtnZZyOJ9PUH3DGr8W) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM), [Carla Thomas](https://open.spotify.com/artist/1QAGLCom3FHTTiuRFsjzOj), [Stax Music Academy](https://open.spotify.com/artist/1lyc78UkOc30h9TYRSN98K) | [Friendship \[Feat\. Carla Thomas and Stax Music Academy\]](https://open.spotify.com/album/5OcQ95byjeN44N1DAp3de3) | 3:39 |
 | 47 | [Big Dream](https://open.spotify.com/track/5Kpt9U5o9qDUkT5RyvOwmg) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [My Black Country: The Songs of Alice Randall](https://open.spotify.com/album/55YFzxmWdGxAUFSp9zh9sN) | 2:23 |
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DZ06evO2QDdsY.md) - [plain]
 | 49 | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/track/4IttML3TgHecmpPe0Ytffs) | [GROUPLOVE](https://open.spotify.com/artist/3kVUvbeRdcrqQ3oHk5hPdx), [PawPaw Rod](https://open.spotify.com/artist/23KIrX6iPiVOkx60F4bjNq), [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [Cheese \(feat\. PawPaw Rod & Valerie June\)](https://open.spotify.com/album/3qSABvJGms0qKHNI6aqYov) | 3:49 |
 | 50 | [Within You \- Moon And Stars / Acoustic](https://open.spotify.com/track/3CGswhS4HazxivUCTfDlZq) | [Valerie June](https://open.spotify.com/artist/4QZdOCb3UacKbQ1ybDFAKM) | [The Moon And Stars: Prescriptions For Dreamers \(Deluxe Edition\)](https://open.spotify.com/album/1zShXPlRJNXANZolct3VzL) | 4:02 |
 
-Snapshot ID: `aq3QgAAAAACpPOYcO5hVGJIDqB94q7NI`
+Snapshot ID: `aq8iAAAAAACd8j8h2XteC3uvyf0MwRKD`

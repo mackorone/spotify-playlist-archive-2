@@ -1,6 +1,6 @@
 {
   "description": "The world series of Ska. Cover: Massendefekt\n",
-  "num_followers": 73101,
+  "num_followers": 73113,
   "original_name": "Ska Around The Globe",
   "owner": {
     "name": "Spotify",
@@ -1095,6 +1095,22 @@
     {
       "added_at": "2026-08-21 06:00:30",
       "album": {
+        "name": "Hard Band For Dead",
+        "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
+      },
+      "artists": [
+        {
+          "name": "The Toasters",
+          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
+        }
+      ],
+      "duration_ms": 199560,
+      "name": "2-Tone Army",
+      "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
+    },
+    {
+      "added_at": "2026-08-21 06:00:30",
+      "album": {
         "name": "Raise A Glass (feat. Dicky Barrett of The Defiant & The Mighty Mighty Bosstones)",
         "url": "https://open.spotify.com/album/1urJBgoe0uuLb6sjL5l32C"
       },
@@ -1119,22 +1135,6 @@
       "duration_ms": 219216,
       "name": "Raise A Glass (feat. Dicky Barrett of The Defiant & The Mighty Mighty Bosstones)",
       "url": "https://open.spotify.com/track/65PmhK4bAAqQm7LYovOM5X"
-    },
-    {
-      "added_at": "2026-08-21 06:00:30",
-      "album": {
-        "name": "Hard Band For Dead",
-        "url": "https://open.spotify.com/album/7JvECHKFPs5FYeaDtsGAoj"
-      },
-      "artists": [
-        {
-          "name": "The Toasters",
-          "url": "https://open.spotify.com/artist/5TefXCuvQWtRxpWfDdKmNj"
-        }
-      ],
-      "duration_ms": 199560,
-      "name": "2-Tone Army",
-      "url": "https://open.spotify.com/track/3kHgSbSSd3ZvOowtlFXNEw"
     },
     {
       "added_at": "2026-08-21 06:00:30",

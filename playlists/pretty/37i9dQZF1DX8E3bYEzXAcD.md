@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX8E3bYEzXAcD.md) - [plain]
 
 > "ik ben terug van weggeweest ze bleven me vragen waar was je"\. cover: Boufi
 
-[Spotify](https://open.spotify.com/user/spotify) - 36,953 likes - 40 songs - 1 hr 45 min
+[Spotify](https://open.spotify.com/user/spotify) - 37,020 likes - 40 songs - 1 hr 45 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

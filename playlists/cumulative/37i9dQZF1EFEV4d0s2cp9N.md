@@ -4,7 +4,7 @@
 
 > The essentials from songwriter <a href="https://artists.spotify.com/songwriter/56ZBiYuSM6W68EojT5WORo">Blush Davis</a>, all in one playlist\. <a href="spotify:genre:0JQ5DAqbMKFSCjnQr8QZ3O">Discover more songwriters on Spotify</a>.
 
-90 songs - 4 hr 28 min
+91 songs - 4 hr 31 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -62,6 +62,7 @@
 | [Lipstick on the Rearview](https://open.spotify.com/track/4nyWwTljQ9I6h6a4KxihN3) | [Blush Davis](https://open.spotify.com/artist/6miJWM5MVL1dqJeQ9cPFYE) | [No Room For Two](https://open.spotify.com/album/6fE8mUVWPj7tO5e8O2lrId) | 2:34 | 2025-10-05 |  |
 | [Loveless](https://open.spotify.com/track/19So3cXuMUSiffB8AXzr9r) | [FAST BOY](https://open.spotify.com/artist/56Qz2XwGj7FxnNKrfkWjnb) | [Loveless](https://open.spotify.com/album/1IsfgWTtfRYs3VyVQXll1s) | 2:54 | 2025-03-13 |  |
 | [MAGIC](https://open.spotify.com/track/6OhYnnNVRvLRBy580Wit9k) | [Park kang hyun](https://open.spotify.com/artist/6GuseRhHqcubzIgtBob2Pk) | [Music Collaboration\-MAGIC](https://open.spotify.com/album/6CR946phNnK0cI2Qnw4L1O) | 3:10 | 2024-05-01 |  |
+| [Manhattan](https://open.spotify.com/track/0x4hqWguXOxlO1sEwVXB7V) | [Carlita](https://open.spotify.com/artist/1GVbOnrND8b3eh2JZ4opw8), [SOFI TUKKER](https://open.spotify.com/artist/586uxXMyD5ObPuzjtrzO1Q) | [Manhattan](https://open.spotify.com/album/08aHhaSaB4nkfoQ9Md0k7m) | 3:35 | 2026-09-21 |  |
 | [Meaning](https://open.spotify.com/track/1pjHUdacuwY14inKRpcJld) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 | 2025-05-07 |  |
 | [Meaning \- Inst.](https://open.spotify.com/track/4Y5oE4Xn5VMCRce5UgyIkM) | [AILEE](https://open.spotify.com/artist/3uGFTJ7JMllvhgGpumieHF) | [\(Me\)moir](https://open.spotify.com/album/1KixiCbpzXKydBJqWiA9kB) | 2:54 | 2025-05-07 |  |
 | [Nine](https://open.spotify.com/track/4MBYWqDACegUtkazjtukJm) | [Ruuth](https://open.spotify.com/artist/6BsONo5WrLwCzPZ2qHKoN4) | [Nine](https://open.spotify.com/album/5CUQHXJ3gW7Dw30QlZPsN2) | 2:39 | 2024-05-01 | 2025-01-15 |

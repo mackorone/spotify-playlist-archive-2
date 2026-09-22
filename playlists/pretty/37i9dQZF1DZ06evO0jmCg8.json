@@ -1,12 +1,12 @@
 {
   "description": "This is Arch Enemy. The essential tracks, all in one playlist.",
-  "num_followers": 81634,
+  "num_followers": 81642,
   "original_name": "This Is Arch Enemy",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABeB4/v+4GeOIW/EjPbtiEx",
+  "snapshot_id": "aq8iAAAAAAD52QC0EPLV8S/xJRqbDZVn",
   "tracks": [
     {
       "added_at": null,
@@ -123,8 +123,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "War Eternal",
-        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
+        "name": "Khaos Legions",
+        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
       },
       "artists": [
         {
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 277320,
-      "name": "You Will Know My Name",
-      "url": "https://open.spotify.com/track/45eGeRq5VjhY6RTN1TOefI"
+      "duration_ms": 254653,
+      "name": "No Gods, No Masters",
+      "url": "https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Khaos Legions",
-        "url": "https://open.spotify.com/album/7e6aLYzxgcsbD9NA9LpQQX"
+        "name": "War Eternal",
+        "url": "https://open.spotify.com/album/3qzrNVuUyOJxfzMYRCh5qN"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/0DCw6lHkzh9t7f8Hb4Z0Sx"
         }
       ],
-      "duration_ms": 254653,
-      "name": "No Gods, No Masters",
-      "url": "https://open.spotify.com/track/2SR0CHOWgkVt0nLI9YwYti"
+      "duration_ms": 277320,
+      "name": "You Will Know My Name",
+      "url": "https://open.spotify.com/track/45eGeRq5VjhY6RTN1TOefI"
     },
     {
       "added_at": null,

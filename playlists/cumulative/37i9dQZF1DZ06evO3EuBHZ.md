@@ -4,7 +4,7 @@
 
 > This is Big Mama Thornton\. The essential tracks, all in one playlist.
 
-205 songs - 11 hr 27 min
+206 songs - 11 hr 36 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -47,7 +47,8 @@
 | [Gimme a Penny \- Take 5](https://open.spotify.com/track/0FPclO4WvVRtcTs49LECAZ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 3:59 | 2025-03-04 | 2025-03-08 |
 | [Gimme a Penny \- Take 6](https://open.spotify.com/track/5XDdfhTKYX8rzmxXZPZs0e) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 4:38 | 2023-02-27 | 2024-05-05 |
 | [Goin' Down Slow \- Live](https://open.spotify.com/track/26vU7wmBi4sU0Snu4x0OAI) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Have Mercy! \(Live 1973\)](https://open.spotify.com/album/3BHzpq2sfTq7TdVOceaizJ) | 4:05 | 2022-08-10 | 2024-01-05 |
-| [Gonna Leave You](https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Complete Vanguard Recordings](https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD) | 8:56 | 2022-08-05 |  |
+| [Gonna Leave You](https://open.spotify.com/track/57YhANZmUuMJMLNlYJUVAP) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Vanguard Visionaries](https://open.spotify.com/album/0stTggxNXyDdU256QF94Z1) | 8:56 | 2026-09-22 |  |
+| [Gonna Leave You](https://open.spotify.com/track/1dEkRQ2ASVMTLF7Ig5Mud7) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [The Complete Vanguard Recordings](https://open.spotify.com/album/6B6mr0IienXSnBgjQj3nOD) | 8:56 | 2022-08-05 | 2026-09-22 |
 | [Good Time in London](https://open.spotify.com/track/6PQIAg09Oa1jMVhaDX0GlQ) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [In Europe](https://open.spotify.com/album/4GKo7UgPccJMRAm4ljs8Tz) | 4:25 | 2023-01-09 | 2024-06-06 |
 | [Guide Me Home](https://open.spotify.com/track/1Wa6w3xBoZNPYmuKOOy2g0) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO), [Muddy Waters Blues Band](https://open.spotify.com/artist/3r8nssufxenC7JoWBfKfNK) | [Big Mama Thornton with the Muddy Waters Blues Band \- 1966](https://open.spotify.com/album/1GhQkAGbg2ciWb6BDNHKIB) | 4:23 | 2022-08-07 | 2024-07-23 |
 | [Hard Times](https://open.spotify.com/track/45rMIdrrTjnGrhM3WYev2c) | [Big Mama Thornton](https://open.spotify.com/artist/6bR0cgMtkCVpm0I5yrDNzO) | [Hound Dog \- The Essential Collection](https://open.spotify.com/album/7AX4dOBsgMfBeNewikf2X4) | 2:11 | 2026-03-13 |  |

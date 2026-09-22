@@ -4,17 +4,17 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 
 > A weekly rotation of new indie,  alternative, dreampop, electronic, postpunk and lofi music 💜
 
-[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,588 likes - 1,793 songs - 4 day 3 hr 59 min
+[David Dean Burkhart](https://open.spotify.com/user/0z4xefp3blhykemskd7ymri3j) - 60,593 likes - 1,793 songs - 4 day 3 hr 59 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
-| 1 | [I Go Up, You Go Down](https://open.spotify.com/track/5R7eEpMcP5nNDyAY607Zkj) | [My Precious Bunny](https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2) | [A Moment In My Eyes](https://open.spotify.com/album/65KsWH5H4VpKz1VJ2pGr2Y) | 3:36 |
-| 2 | [Sparkle Dub//I'll Dream InStead](https://open.spotify.com/track/3CCUQteL6FYL8cVBQy1llL) | [Boyhood](https://open.spotify.com/artist/1xDHtidGRtMHL5ZV2CwMeL) | [Sparkle Dub//I'll Dream InStead](https://open.spotify.com/album/20FAmyCDFygR3OFMe8GIA5) | 2:36 |
-| 3 | [Ride or Die](https://open.spotify.com/track/6RF1tFa8IdvWgT9D3ovkeo) | [Glasshouse Red Spider Mite](https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli) | [Ride or Die](https://open.spotify.com/album/2U3rlBImJjkhUQbjb3CyeE) | 3:26 |
-| 4 | [Life is a Circle](https://open.spotify.com/track/2e29lpBqynzUDD6Eqw3uYb) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Life is a Circle](https://open.spotify.com/album/3yAX260QbY7TbkjAUcMTPF) | 3:45 |
-| 5 | [Futuretripping](https://open.spotify.com/track/6dfJR3nbMqV3O1JwBqJ9DT) | [Ganser](https://open.spotify.com/artist/32ONqBogM4wH7VRbcMZYtE) | [Futuretripping](https://open.spotify.com/album/2X0SXf0xxE1lsJG9eZZcLv) | 3:22 |
-| 6 | [The Velvet Sundowner](https://open.spotify.com/track/3f4ewAc8OeFGVMRRJUU5NX) | [Mono Mochi](https://open.spotify.com/artist/590oTtci51zp4b3VAFRJtF) | [Static Pleasure](https://open.spotify.com/album/3vNeKX5pAZxYLqpv4fbsPh) | 3:48 |
-| 7 | [impatient](https://open.spotify.com/track/5EsTIRcvHtq6WCXQWeTO4Z) | [Joe Leytrick](https://open.spotify.com/artist/5LFHwd1hbAGrwn9lMbZBSw) | [impatient](https://open.spotify.com/album/22ZYJXiLrq8PqCl5XI6Y69) | 2:17 |
+| 1 | [Sparkle Dub//I'll Dream InStead](https://open.spotify.com/track/3CCUQteL6FYL8cVBQy1llL) | [Boyhood](https://open.spotify.com/artist/1xDHtidGRtMHL5ZV2CwMeL) | [Sparkle Dub//I'll Dream InStead](https://open.spotify.com/album/20FAmyCDFygR3OFMe8GIA5) | 2:36 |
+| 2 | [I Go Up, You Go Down](https://open.spotify.com/track/5R7eEpMcP5nNDyAY607Zkj) | [My Precious Bunny](https://open.spotify.com/artist/0F9Ze647kaLptWQU2Pg0u2) | [A Moment In My Eyes](https://open.spotify.com/album/65KsWH5H4VpKz1VJ2pGr2Y) | 3:36 |
+| 3 | [The Velvet Sundowner](https://open.spotify.com/track/3f4ewAc8OeFGVMRRJUU5NX) | [Mono Mochi](https://open.spotify.com/artist/590oTtci51zp4b3VAFRJtF) | [Static Pleasure](https://open.spotify.com/album/3vNeKX5pAZxYLqpv4fbsPh) | 3:48 |
+| 4 | [impatient](https://open.spotify.com/track/5EsTIRcvHtq6WCXQWeTO4Z) | [Joe Leytrick](https://open.spotify.com/artist/5LFHwd1hbAGrwn9lMbZBSw) | [impatient](https://open.spotify.com/album/22ZYJXiLrq8PqCl5XI6Y69) | 2:17 |
+| 5 | [Ride or Die](https://open.spotify.com/track/6RF1tFa8IdvWgT9D3ovkeo) | [Glasshouse Red Spider Mite](https://open.spotify.com/artist/7uT24Q40bMgOOCwcUVWwli) | [Ride or Die](https://open.spotify.com/album/2U3rlBImJjkhUQbjb3CyeE) | 3:26 |
+| 6 | [Life is a Circle](https://open.spotify.com/track/2e29lpBqynzUDD6Eqw3uYb) | [Sex Week](https://open.spotify.com/artist/5bcg41eahXhsa30vaMvv0r) | [Life is a Circle](https://open.spotify.com/album/3yAX260QbY7TbkjAUcMTPF) | 3:45 |
+| 7 | [Futuretripping](https://open.spotify.com/track/6dfJR3nbMqV3O1JwBqJ9DT) | [Ganser](https://open.spotify.com/artist/32ONqBogM4wH7VRbcMZYtE) | [Futuretripping](https://open.spotify.com/album/2X0SXf0xxE1lsJG9eZZcLv) | 3:22 |
 | 8 | [seven](https://open.spotify.com/track/1IDT9Znm4fTLiR6cKmeHZh) | [The Crying Nudes](https://open.spotify.com/artist/3tM7dj8ztmzKcugbIVMxy0) | [DJ](https://open.spotify.com/album/1ZceDFFcq6JWL5ES3rPEdJ) | 1:59 |
 | 9 | [Get Out Of My Life](https://open.spotify.com/track/1gGAivV6WCU48CFxac8SUE) | [June McDoom](https://open.spotify.com/artist/01dkMVgxs4d9pNMIOgyXVV) | [Get Out Of My Life](https://open.spotify.com/album/0aCTOwf7uDiYTzGKnPQvVX) | 3:18 |
 | 10 | [Tonight \(HOLD ME\)](https://open.spotify.com/track/74PZYc3hn4Kcdoj8mcTt2H) | [O Slow](https://open.spotify.com/artist/0ijd9yK1L498sGUvOmv4KA) | [Antenna](https://open.spotify.com/album/6w6MOXDyTOEjXYheasQk5v) | 3:13 |
@@ -40,8 +40,8 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 30 | [Stream Entry](https://open.spotify.com/track/4dVZmOpt0yHhJgYtXWJjgi) | [Blimp](https://open.spotify.com/artist/5r70c4qAGAlJ5WPuPkDdAC) | [Stream Entry](https://open.spotify.com/album/5x8xw0HTu28svo0qNF8wxh) | 4:12 |
 | 31 | [When We First Met](https://open.spotify.com/track/5IkNi8sYuM2B4sD7G7v24t) | [Twisted Teens](https://open.spotify.com/artist/40Hgbyjt4LQmrZYecbXebv) | [When We First Met](https://open.spotify.com/album/6VCUINTbuW3a9DFpljReRd) | 1:52 |
 | 32 | [The Horse](https://open.spotify.com/track/3AblmA7jQky3ZKZriL7HBi) | [Cutouts](https://open.spotify.com/artist/6ZYpTpvAwv0T78s6Ueh5g1) | [The Horse](https://open.spotify.com/album/4wPj0C64QdSycFMb5nkCuR) | 2:46 |
-| 33 | [Devout](https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Devout](https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS) | 3:37 |
-| 34 | [dry spell](https://open.spotify.com/track/1wuEVv4vBpv5xpRBWeUKXR) | [Computer Kill](https://open.spotify.com/artist/3u50Zfk1E0uxAbFwDIEqof) | [dry spell](https://open.spotify.com/album/3K4SPVtiDSHA42SotAbt4G) | 3:17 |
+| 33 | [dry spell](https://open.spotify.com/track/1wuEVv4vBpv5xpRBWeUKXR) | [Computer Kill](https://open.spotify.com/artist/3u50Zfk1E0uxAbFwDIEqof) | [dry spell](https://open.spotify.com/album/3K4SPVtiDSHA42SotAbt4G) | 3:17 |
+| 34 | [Devout](https://open.spotify.com/track/1sTAj78W8yYgeklQ1HdyYs) | [Working Men's Club](https://open.spotify.com/artist/7cCi9XoRu8Y1SyJ9c94fhc) | [Devout](https://open.spotify.com/album/2GYkcdrntYrGjqJhKcj7gS) | 3:37 |
 | 35 | [Go Gentle](https://open.spotify.com/track/75Ss1KGNLi258wHppyAybo) | [Honddu](https://open.spotify.com/artist/1sZogQeUlgFPcRiNnfj8DZ) | [Go Gentle](https://open.spotify.com/album/7F1Qw07RQOIvvSHEPmPir4) | 3:46 |
 | 36 | [Radio Station](https://open.spotify.com/track/2ixKxWKW6ejtIVr5gm00K7) | [Ex:Re](https://open.spotify.com/artist/3FIsBWNLmqLvTQnhJLAWUJ) | [Radio Station](https://open.spotify.com/album/71x0gASJv5sOZdv6J6MQ66) | 4:12 |
 | 37 | [Product of Profit \(P.O.P\)](https://open.spotify.com/track/5UC5TYNozc9cqm0zSrLNTf) | [daine](https://open.spotify.com/artist/4lyCoxLN0aW7nJy5rec0tG) | [Product of Profit \(P.O.P\)](https://open.spotify.com/album/4nesad7XJjFFoQc0FhZF0C) | 3:29 |
@@ -1802,4 +1802,4 @@ pretty - [cumulative](/playlists/cumulative/6c6Ra1iI1JjhADV2gnT7p6.md) - [plain]
 | 1792 | [Lifeloose](https://open.spotify.com/track/3zUJcgFg0tspBiRlVRijv6) | [Lifeloose](https://open.spotify.com/artist/0vaeDzewhDalyyjU2dzgMG) | [Lifeloose](https://open.spotify.com/album/6vViE9AAjxWXb3CRyvtANS) | 3:16 |
 | 1793 | [Everything But Myself](https://open.spotify.com/track/671cWwKtIvaTlk6XlwUGa5) | [Immaterialize](https://open.spotify.com/artist/6fpB62JZ8hQXbUYzZst0by), [Fire\-Toolz](https://open.spotify.com/artist/7nJawFIm90c4jAQFLabc1o) | [Everything But Myself](https://open.spotify.com/album/2RPM6F6EljolsGoV1fPR17) | 4:00 |
 
-Snapshot ID: `AABbS0N52rZXJ4gjzgjQT31YuN9sn2Ew`
+Snapshot ID: `AABbUKf41Scn11XQp/kU0s0SAGXz+Jhd`

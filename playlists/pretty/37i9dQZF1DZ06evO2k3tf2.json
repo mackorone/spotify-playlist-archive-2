@@ -1,12 +1,12 @@
 {
   "description": "This is Twenty One Pilots. The essential tracks, all in one playlist.",
-  "num_followers": 1452192,
+  "num_followers": 1452295,
   "original_name": "This Is Twenty One Pilots",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAClae6GJ1ojS1nhUsvi6mKr",
+  "snapshot_id": "aq8iAAAAAACBmIL7fzUC01pXK1eQFlO9",
   "tracks": [
     {
       "added_at": null,
@@ -367,8 +367,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Scaled And Icy",
-        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
+        "name": "Trench",
+        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
       },
       "artists": [
         {
@@ -376,9 +376,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 224398,
-      "name": "Mulberry Street",
-      "url": "https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj"
+      "duration_ms": 225040,
+      "name": "Nico and the Niners",
+      "url": "https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt"
     },
     {
       "added_at": null,
@@ -415,8 +415,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Trench",
-        "url": "https://open.spotify.com/album/621cXqrTSSJi1WqDMSLmbL"
+        "name": "Scaled And Icy",
+        "url": "https://open.spotify.com/album/0Q5XBpCYFgUWiG9DUWyAmJ"
       },
       "artists": [
         {
@@ -424,9 +424,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 225040,
-      "name": "Nico and the Niners",
-      "url": "https://open.spotify.com/track/5SehvGGC53A7SZKCLXQcyt"
+      "duration_ms": 224398,
+      "name": "Mulberry Street",
+      "url": "https://open.spotify.com/track/19kX6hSlYH31js2SL4jgrj"
     },
     {
       "added_at": null,
@@ -527,8 +527,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "More Than We Ever Imagined (Live in Mexico City)",
-        "url": "https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr"
+        "name": "Level of Concern",
+        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
       },
       "artists": [
         {
@@ -536,9 +536,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 422080,
-      "name": "Nico/Heavydirtysoul - Live in Mexico City",
-      "url": "https://open.spotify.com/track/7EoHimXt4xsKlCbmlfe346"
+      "duration_ms": 220051,
+      "name": "Level of Concern",
+      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
     },
     {
       "added_at": null,
@@ -591,8 +591,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Level of Concern",
-        "url": "https://open.spotify.com/album/4h3HXlnt6lryGzGbWmcFuY"
+        "name": "More Than We Ever Imagined (Live in Mexico City)",
+        "url": "https://open.spotify.com/album/7dUxfVqKIjBK0vqR1GxAjr"
       },
       "artists": [
         {
@@ -600,9 +600,9 @@
           "url": "https://open.spotify.com/artist/3YQKmKGau1PzlVlkL1iodx"
         }
       ],
-      "duration_ms": 220051,
-      "name": "Level of Concern",
-      "url": "https://open.spotify.com/track/6xZ4Q2k2ompmDppyeESIY8"
+      "duration_ms": 422080,
+      "name": "Nico/Heavydirtysoul - Live in Mexico City",
+      "url": "https://open.spotify.com/track/7EoHimXt4xsKlCbmlfe346"
     },
     {
       "added_at": null,

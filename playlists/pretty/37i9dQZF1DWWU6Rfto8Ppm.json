@@ -1,12 +1,12 @@
 {
   "description": "Reggaet\u00f3n de antes y de siempre en compa\u00f1\u00eda de Plan B.",
-  "num_followers": 4049117,
+  "num_followers": 4049539,
   "original_name": "Reggaet\u00f3n Viejito",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAABMwda80iejslnX+NgGYNguJ4Tgc",
+  "snapshot_id": "AAAAAAyT+Z226ziRRA7ptx029NCcsYei",
   "tracks": [
     {
       "added_at": "2026-07-08 14:18:15",
@@ -607,6 +607,22 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
+        "name": "El Fenomeno",
+        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
+      },
+      "artists": [
+        {
+          "name": "Arc\u00e1ngel",
+          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
+        }
+      ],
+      "duration_ms": 234026,
+      "name": "Por Amar A Ciegas",
+      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
         "name": "Mas Flow - Los Benjamins",
         "url": "https://open.spotify.com/album/0sMHBG6T20O56Wrtu1pR1f"
       },
@@ -635,22 +651,6 @@
       "duration_ms": 263293,
       "name": "Noche De Entierro",
       "url": "https://open.spotify.com/track/6ksWMnPcHNyNoNf3y1BQCO"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "El Fenomeno",
-        "url": "https://open.spotify.com/album/5MLBEmgDNIltSfxvXesq9s"
-      },
-      "artists": [
-        {
-          "name": "Arc\u00e1ngel",
-          "url": "https://open.spotify.com/artist/4SsVbpTthjScTS7U2hmr1X"
-        }
-      ],
-      "duration_ms": 234026,
-      "name": "Por Amar A Ciegas",
-      "url": "https://open.spotify.com/track/2BrfJdTXohQRtWBKsBTIp0"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -883,22 +883,6 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Casa De Leones",
-        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
-      },
-      "artists": [
-        {
-          "name": "Casa De Leones",
-          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
-        }
-      ],
-      "duration_ms": 246080,
-      "name": "Shorty",
-      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
         "name": "Reggaeton Viejo",
         "url": "https://open.spotify.com/album/4GMkQYncdGgsXtXxquk2An"
       },
@@ -915,6 +899,22 @@
       "duration_ms": 245346,
       "name": "La Locura Autom\u00e1tica - Reggaeton",
       "url": "https://open.spotify.com/track/1xEBxyr5QI0uvIoRa3WPi4"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "Casa De Leones",
+        "url": "https://open.spotify.com/album/63vg9JvOEbbKJo1cVIGj5A"
+      },
+      "artists": [
+        {
+          "name": "Casa De Leones",
+          "url": "https://open.spotify.com/artist/26YAHs5On4KQDNsU2cYFdL"
+        }
+      ],
+      "duration_ms": 246080,
+      "name": "Shorty",
+      "url": "https://open.spotify.com/track/7d05Cx72W1WsWUw7MAD7ia"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -939,6 +939,22 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
+        "name": "Mi Ni\u00f1a Bonita - Reloaded",
+        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
+      },
+      "artists": [
+        {
+          "name": "Chino & Nacho",
+          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
+        }
+      ],
+      "duration_ms": 216786,
+      "name": "Ni\u00f1a Bonita",
+      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
         "name": "Mucha Calidad",
         "url": "https://open.spotify.com/album/3EnaZ9NS7K6avHw6TfOUta"
       },
@@ -955,22 +971,6 @@
       "duration_ms": 222240,
       "name": "Aprovecha (feat. Daddy Yankee)",
       "url": "https://open.spotify.com/track/09qIdioXLJPGXAM9zsy20v"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "Mi Ni\u00f1a Bonita - Reloaded",
-        "url": "https://open.spotify.com/album/5WdtDMLZ889QUGhstd0r96"
-      },
-      "artists": [
-        {
-          "name": "Chino & Nacho",
-          "url": "https://open.spotify.com/artist/5NS0854TqZQVoRmJKSWtFZ"
-        }
-      ],
-      "duration_ms": 216786,
-      "name": "Ni\u00f1a Bonita",
-      "url": "https://open.spotify.com/track/4u5xLMRN0dgKBFFN8FiNgv"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -1695,22 +1695,6 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "La Familia",
-        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
-      },
-      "artists": [
-        {
-          "name": "J Balvin",
-          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
-        }
-      ],
-      "duration_ms": 199933,
-      "name": "Tranquila",
-      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
         "name": "Conspiracion 2",
         "url": "https://open.spotify.com/album/1gEvJBXsQmn4PMDh9SYFrX"
       },
@@ -1739,6 +1723,22 @@
       "duration_ms": 216440,
       "name": "Felina",
       "url": "https://open.spotify.com/track/3QLApyuGYQdSQZTmBXFaSt"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "La Familia",
+        "url": "https://open.spotify.com/album/0eaYHx42IseJf6jfxKi2Nr"
+      },
+      "artists": [
+        {
+          "name": "J Balvin",
+          "url": "https://open.spotify.com/artist/1vyhD5VmyZ7KMfW5gqLgo5"
+        }
+      ],
+      "duration_ms": 199933,
+      "name": "Tranquila",
+      "url": "https://open.spotify.com/track/6klAm7Z2oR2FM7lozc7agF"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -2243,22 +2243,6 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "El Que los Puso a Entonar",
-        "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
-      },
-      "artists": [
-        {
-          "name": "Alberto Stylee",
-          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
-        }
-      ],
-      "duration_ms": 202053,
-      "name": "Te Imagino",
-      "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
         "name": "The Pitbulls",
         "url": "https://open.spotify.com/album/3OGa8iAHFfNXNT6wngG1eH"
       },
@@ -2271,6 +2255,22 @@
       "duration_ms": 195200,
       "name": "Eso Ehh..!!!",
       "url": "https://open.spotify.com/track/7uCZiUZqnKSGBnr3YZTcxA"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "El Que los Puso a Entonar",
+        "url": "https://open.spotify.com/album/5rlYUO0BB8CMczbXc25Wrr"
+      },
+      "artists": [
+        {
+          "name": "Alberto Stylee",
+          "url": "https://open.spotify.com/artist/5mgqYTU6dhKlEdi7DOy4uU"
+        }
+      ],
+      "duration_ms": 202053,
+      "name": "Te Imagino",
+      "url": "https://open.spotify.com/track/2RQnsXfNDcg2CvlSRSxJi9"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3311,26 +3311,6 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "El Sobreviviente",
-        "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
-      },
-      "artists": [
-        {
-          "name": "Wisin",
-          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
-        },
-        {
-          "name": "Daddy Yankee",
-          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
-        }
-      ],
-      "duration_ms": 184906,
-      "name": "Saoco",
-      "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
         "name": "Loose",
         "url": "https://open.spotify.com/album/2X0W94w0tW0yKzzO8pf3Qs"
       },
@@ -3347,6 +3327,26 @@
       "duration_ms": 219106,
       "name": "No Hay Igual",
       "url": "https://open.spotify.com/track/1Er2I7cx6EeIAnPznRhyhZ"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
+        "name": "El Sobreviviente",
+        "url": "https://open.spotify.com/album/4k5YrELX73vK5ALegjEReh"
+      },
+      "artists": [
+        {
+          "name": "Wisin",
+          "url": "https://open.spotify.com/artist/3E6xrwgnVfYCrCs0ePERDz"
+        },
+        {
+          "name": "Daddy Yankee",
+          "url": "https://open.spotify.com/artist/4VMYDCV2IEDYJArk749S6m"
+        }
+      ],
+      "duration_ms": 184906,
+      "name": "Saoco",
+      "url": "https://open.spotify.com/track/5c9CsmVAhOQ5jQKwmNd5fk"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3723,22 +3723,18 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
-        "name": "Yo Se Que Tu Quieres (feat. \u00d1engo Flow)",
-        "url": "https://open.spotify.com/album/01PhXmyyzAVc5bkcgS2cms"
+        "name": "DIVA- Platinum Edition",
+        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
       },
       "artists": [
         {
-          "name": "Sammy & Falsetto",
-          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
-        },
-        {
-          "name": "\u00d1engo Flow",
-          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+          "name": "Ivy Queen",
+          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
         }
       ],
-      "duration_ms": 208117,
-      "name": "Yo Se Que Tu Quieres (feat. \u00d1engo Flow)",
-      "url": "https://open.spotify.com/track/3fNnPoIaVT16aLZnswQdCV"
+      "duration_ms": 175533,
+      "name": "Quiero Saber",
+      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
     },
     {
       "added_at": "2026-07-08 14:18:15",
@@ -3759,6 +3755,26 @@
     {
       "added_at": "2026-07-08 14:18:15",
       "album": {
+        "name": "Yo Se Que Tu Quieres (feat. \u00d1engo Flow)",
+        "url": "https://open.spotify.com/album/01PhXmyyzAVc5bkcgS2cms"
+      },
+      "artists": [
+        {
+          "name": "Sammy & Falsetto",
+          "url": "https://open.spotify.com/artist/6AT27ojKlBuZToFIGwQZDc"
+        },
+        {
+          "name": "\u00d1engo Flow",
+          "url": "https://open.spotify.com/artist/12vb80Km0Ew53ABfJOepVz"
+        }
+      ],
+      "duration_ms": 208117,
+      "name": "Yo Se Que Tu Quieres (feat. \u00d1engo Flow)",
+      "url": "https://open.spotify.com/track/3fNnPoIaVT16aLZnswQdCV"
+    },
+    {
+      "added_at": "2026-07-08 14:18:15",
+      "album": {
         "name": "Goldstar Music La Familia Reggaeton Hits",
         "url": "https://open.spotify.com/album/4OapfRPzZGP0iphPp5byyk"
       },
@@ -3775,22 +3791,6 @@
       "duration_ms": 248406,
       "name": "D\u00e9jale Caer To' El Peso (feat. Yomo)",
       "url": "https://open.spotify.com/track/6eyrEbsUwKUPXNxv6FuCqv"
-    },
-    {
-      "added_at": "2026-07-08 14:18:15",
-      "album": {
-        "name": "DIVA- Platinum Edition",
-        "url": "https://open.spotify.com/album/0Sv18KP8WCk1eHGnhJqTrb"
-      },
-      "artists": [
-        {
-          "name": "Ivy Queen",
-          "url": "https://open.spotify.com/artist/6p2442ymrT9lZEuCZJdYcH"
-        }
-      ],
-      "duration_ms": 175533,
-      "name": "Quiero Saber",
-      "url": "https://open.spotify.com/track/4VKI2yBkCE4mWhFBwZp0LU"
     },
     {
       "added_at": "2026-07-08 14:18:15",

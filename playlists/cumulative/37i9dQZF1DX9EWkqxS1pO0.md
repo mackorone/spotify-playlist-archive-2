@@ -4,7 +4,7 @@
 
 > Yeni favori sanatçını keşfet ⚡ Kapak: Tesadüfen Karşılaştık
 
-427 songs - 21 hr 55 min
+428 songs - 21 hr 58 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -102,6 +102,7 @@
 | [Bunun Adı Aşk Değil](https://open.spotify.com/track/5VWsQWfnybilHFndqRdQxT) | [Masal](https://open.spotify.com/artist/0T8Qsmk6VosVBTPdx5hX7x) | [Bunun Adı Aşk Değil](https://open.spotify.com/album/3aSM6ZFZSjyGCqm1Y6HZ6W) | 3:30 | 2026-01-08 | 2026-02-14 |
 | [Böylesi Güzel](https://open.spotify.com/track/5VcQzVAwGJbCY8Aha6udxz) | [Düşgezer](https://open.spotify.com/artist/4ocqexTJMtJOJ0IEytggmJ), [Zeki Dizdar](https://open.spotify.com/artist/24APBiHTNXuEpwYC2jag26) | [Böylesi Güzel](https://open.spotify.com/album/1C4T1wO4TPEvpElQUx93K0) | 4:37 | 2025-05-15 | 2025-05-30 |
 | [Büyük Burhan](https://open.spotify.com/track/4CIAQMDiSbmkrN9dHPHAV8) | [Primat](https://open.spotify.com/artist/0rGp3jjwe7o4Puj6h5EJQc) | [Saf Peynir ve Hassas Mesele](https://open.spotify.com/album/6OzizVir8qkw3DFU9tpfUr) | 3:18 | 2026-02-27 | 2026-04-07 |
+| [Büyükada](https://open.spotify.com/track/5my8ujDPtkMKAcRWuL9cmL) | [Ece Yığman](https://open.spotify.com/artist/0ST54KGCLRkT6Er3z2MMwY) | [Büyükada](https://open.spotify.com/album/6t1LcFy7Ftip2RPYDHcrHi) | 3:14 | 2026-09-15 |  |
 | [Bırak Yağsın Üstümüze](https://open.spotify.com/track/5PNjTV9IaVXBwM62tnlvas) | [Soft Analog](https://open.spotify.com/artist/0FWmCLXYps2U14dmCsiK82) | [Bırak Yağsın Üstümüze](https://open.spotify.com/album/66b0VdRWG80fxAxkwYUysu) | 3:20 | 2025-09-25 |  |
 | [Bıraktım Kendimi](https://open.spotify.com/track/7korBCTdbsKmVODaL0HZbe) | [Büşra Targan](https://open.spotify.com/artist/3B7KIZNV69En8cYOMQhGHg) | [Bıraktım Kendimi](https://open.spotify.com/album/13ej0ETDvXuyZb9yXGB18Y) | 3:02 | 2025-09-25 | 2025-11-07 |
 | [Bıraktığın Gibi](https://open.spotify.com/track/6xbGuKshqxhGvECYXF2hD9) | [Ege Sel](https://open.spotify.com/artist/3ppamONbm5lz6Ho7wSWzVy) | [Bıraktığın Gibi](https://open.spotify.com/album/5SmRlGzV4wXUFrVcEoyfFJ) | 2:33 | 2025-01-23 | 2025-02-08 |
@@ -242,7 +243,7 @@
 | [Kırlangıçlar](https://open.spotify.com/track/3H3k1XBns0Wh9MRvQcht7u) | [ENGIN](https://open.spotify.com/artist/2iINz7L7OFlJmxVndzlWEg) | [Kırlangıçlar](https://open.spotify.com/album/2Lg3sLUbFvN241rtsaAanx) | 4:32 | 2025-02-13 | 2025-07-01 |
 | [Laleler Beyaz](https://open.spotify.com/track/2QTpa3t9Jl913GbfiTJxjQ) | [Dilhan Şeşen](https://open.spotify.com/artist/3Xq8A0LnlgWAIFOaRM6LE1) | [Laleler Beyaz](https://open.spotify.com/album/6QlahLGtmsSu94e6dT9Gtd) | 4:24 | 2024-11-07 | 2024-12-13 |
 | [Light](https://open.spotify.com/track/0frszVHvP779Yw6TWEUsTU) | [Batuhan Uçar](https://open.spotify.com/artist/27Eb4FYTeuRw3jQpuEocVR) | [Light](https://open.spotify.com/album/7p261Sq9epuCiFFnYpA16I) | 2:28 | 2025-09-25 | 2025-10-16 |
-| [Mahvettim](https://open.spotify.com/track/0RtzvHBV65ThWzML2a6EDA) | [Bostancı Dayı](https://open.spotify.com/artist/49R24Ako5Qa6SV3HAR06gS) | [Mahvettim](https://open.spotify.com/album/5yiS1Re5SgJ3Q9VxRF8TyT) | 3:39 | 2024-08-08 |  |
+| [Mahvettim](https://open.spotify.com/track/0RtzvHBV65ThWzML2a6EDA) | [Bostancı Dayı](https://open.spotify.com/artist/49R24Ako5Qa6SV3HAR06gS) | [Mahvettim](https://open.spotify.com/album/5yiS1Re5SgJ3Q9VxRF8TyT) | 3:39 | 2024-08-08 | 2026-09-22 |
 | [Manifesto](https://open.spotify.com/track/2vfWhl5oPeAjMI5JESDNXE) | [Şenay Lambaoğlu](https://open.spotify.com/artist/3TBKeKodYFrl3UaYKTcapT) | [Manifesto](https://open.spotify.com/album/3zppMe7LDeYDf9wER7yiLz) | 2:57 | 2025-02-27 | 2025-04-25 |
 | [MARTI](https://open.spotify.com/track/5pkFggQmNg7Urr3d214VuZ) | [Suismekanik](https://open.spotify.com/artist/69vDGU1FgjGZykiikXCEKP) | [MARTI](https://open.spotify.com/album/30j1yS4acoMuCQ1zgsbXOr) | 2:59 | 2026-04-10 | 2026-05-09 |
 | [Mazide](https://open.spotify.com/track/78Ph3Ffyp3vV0BqaBLJRXN) | [KARDELEN](https://open.spotify.com/artist/4mNGMbwJpaXOAAqbAOEQms) | [Mazide](https://open.spotify.com/album/0rjCBkzUULXmudEq4vy0hi) | 3:00 | 2024-09-27 |  |

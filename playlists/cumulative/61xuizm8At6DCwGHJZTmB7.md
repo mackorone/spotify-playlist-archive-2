@@ -4,7 +4,7 @@
 
 > Top Christian Worship 2026 \| Praise and Worship with today's top Worship tracks\. From Bible study to Sunday Morning Worship\. Featuring artist's like Chris Tomlin, Kari Jobe, Cody Carnes and Tauren Wells! Soaking worship music \| Jelly Roll gospel \. cinco de mayo , gospel songs jelly roll christian
 
-804 songs - 3 day 5 hr 11 min
+806 songs - 3 day 5 hr 25 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -336,6 +336,7 @@
 | [How Great Is Our God](https://open.spotify.com/track/0jOSpB2zK2O0SNxj8ZT5lp) | [Chris Tomlin](https://open.spotify.com/artist/6pRi6EIPXz4QJEOEsBaA0m) | [How Great Is Our God: The Essential Collection](https://open.spotify.com/album/63o2Wjzlnv5FsMSuEmT0Xu) | 5:05 | 2022-05-27 | 2023-04-15 |
 | [How Great Is The Greatness Of God \- Live](https://open.spotify.com/track/01CUfTSNq5ezINj1MyGuBr) | [Matt Boswell](https://open.spotify.com/artist/2cRQc5dlsvrO2lVLCgdugm), [Bryan Fowler](https://open.spotify.com/artist/73tMHfGoCsakZYN5lMUWSc), [Matt Papa](https://open.spotify.com/artist/7C9hIwTUxeWIJzxK6rGH0d), [Sing!](https://open.spotify.com/artist/4yLrqCnweM5i52DkFUkTl9) | [How Great Is The Greatness Of God \(Live\)](https://open.spotify.com/album/1QSwnSoqgAPTq3T1vmaRMK) | 3:44 | 2024-10-18 | 2026-02-07 |
 | [How Great Thou Art](https://open.spotify.com/track/36BSCJokEke5nqVvGxTiJs) | [Jesus Image](https://open.spotify.com/artist/47UT3dPXB5ttLBnyM76GQc) | [HOLY](https://open.spotify.com/album/3UWJtNJgw056wOIQzWhKKT) | 16:47 | 2025-11-07 | 2026-08-20 |
+| [How Majestic](https://open.spotify.com/track/1FyQ5pIkttPTzsLHvBIm6o) | [Gateway Worship](https://open.spotify.com/artist/2b6REyd5UBBp4ZPDhZ2TNB), [Kristian Stanfill](https://open.spotify.com/artist/61fqRzZ9aHyPeTdUIqEEFx), [Matthew Harris](https://open.spotify.com/artist/24UGiLnPAOZVxfHE3B31MN) | [How Majestic](https://open.spotify.com/album/7lNSEuwea3EGZ98Odvgp5R) | 4:52 | 2026-09-21 |  |
 | [How Many Times](https://open.spotify.com/track/6Uv5DJ5pC1NrJb1MofECsR) | [Newsboys](https://open.spotify.com/artist/1SZMaiNHfdUuU0qZKZ6y62) | [Worldwide Revival \(Pt\. 1\)](https://open.spotify.com/album/55mAmj3fdRPzBhmv30Bf2r) | 3:12 | 2024-07-19 | 2025-06-28 |
 | [How You Do It](https://open.spotify.com/track/1S9WH9pMtICzkYvmsjH1wH) | [Influence Music](https://open.spotify.com/artist/7ory6rfLtmQet7a16o4vvC), [Anjin Teal](https://open.spotify.com/artist/2u4ZlEZudVyc62sqwYYTBc) | [How You Do It](https://open.spotify.com/album/4E1ib0EKYCeMIcMzFs3SFI) | 4:03 | 2025-07-18 | 2026-02-07 |
 | [Hurry \- Live](https://open.spotify.com/track/22E1XhnhvSi1NDbRmb5BDn) | [Kim Walker\-Smith](https://open.spotify.com/artist/4leTWyczsXYGlzUh8sFGSz) | [Revival Nights \(Pt\. 2\) \[Live\]](https://open.spotify.com/album/4ilCyBUGUzbgZ9AZlOJD21) | 6:30 | 2022-02-17 | 2022-06-10 |
@@ -462,6 +463,7 @@
 | [Man Of Sorrows \- Live](https://open.spotify.com/track/7tURQQhMTcJXIVe1dvji7v) | [Hillsong Worship](https://open.spotify.com/artist/3SgHzT552wy2W8pNLaLk24) | [Glorious Ruins \(Live\)](https://open.spotify.com/album/7xLjYHAsg4pe76OLFWGFks) | 5:14 | 2022-04-05 | 2022-10-20 |
 | [Manasseh \- Live](https://open.spotify.com/track/2TzZevxgyPuD68uWx5GTfJ) | [Anna Golden](https://open.spotify.com/artist/3YChYj3gO6EJmFwI79cUSe) | [Church \(Live\)](https://open.spotify.com/album/41shdA7VJJmH5uJTzbH9Lc) | 6:02 | 2023-08-18 | 2024-03-05 |
 | [May It Be Jesus](https://open.spotify.com/track/0o6CXBA4butPnekwaekOA3) | [29:11 Worship](https://open.spotify.com/artist/2PNEy4Ho4xAIAkX63GBULX), [Zion Rempel](https://open.spotify.com/artist/05Z69sozelP8QXh3nS5Aop) | [May It Be Jesus](https://open.spotify.com/album/2ELDOknO7bQrzRGCwdjFsC) | 4:53 | 2022-07-01 | 2022-07-14 |
+| [Memory](https://open.spotify.com/track/1EDdsfw8FVk6Zdn35yOWmg) | [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Memory](https://open.spotify.com/album/71g3oJneC3LzwgZy5X8kHE) | 9:45 | 2026-09-21 |  |
 | [Mercy Of Jesus](https://open.spotify.com/track/4DUYGD9qBMUJEOYPisadF2) | [Canyon Hills Worship](https://open.spotify.com/artist/3VMNXGDuX4KdTQBEXF6XlK) | [Mercy Of Jesus](https://open.spotify.com/album/34v3tdnUyhImBD23XlyeJx) | 4:31 | 2022-03-18 | 2022-07-14 |
 | [Midst](https://open.spotify.com/track/3iEVhb9l6mFqj2I2LUDGua) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Andrew Holt](https://open.spotify.com/artist/1j8bXG4Lll7k3sZRC6JbF8) | [Midst](https://open.spotify.com/album/1iytTNnPCBeEtX9JyyVR77) | 6:38 | 2026-01-23 |  |
 | [Mighty Name of Jesus \- Live](https://open.spotify.com/track/1ysuxhzGyjJPpqPQQyK8Uw) | [The Belonging Co](https://open.spotify.com/artist/1XnyRY1hSHsZxiIEX8Nzl5), [Hope Darst](https://open.spotify.com/artist/0B5924KrMyjdeYqZsPpw36) | [Mighty Name of Jesus & This Place \(Live\)](https://open.spotify.com/album/49siZ2o3xfh6ZR56eI5ZPr) | 8:02 | 2024-09-20 |  |

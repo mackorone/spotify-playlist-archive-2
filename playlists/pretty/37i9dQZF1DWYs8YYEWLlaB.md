@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 
 > viral, trend ve yükselenler\. Kapak: Baneva
 
-[Spotify](https://open.spotify.com/user/spotify) - 588,209 likes - 50 songs - 2 hr 24 min
+[Spotify](https://open.spotify.com/user/spotify) - 588,227 likes - 50 songs - 2 hr 24 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -59,4 +59,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYs8YYEWLlaB.md) - [plain]
 | 49 | [İyi Köpek](https://open.spotify.com/track/7iqPBG7YqLgO86UZ5j6Zqt) | [Murat Ceylan Wish](https://open.spotify.com/artist/3OtUW9avgYnDVlywxxjzml) | [İyi Köpek](https://open.spotify.com/album/03BQLyK7DzzGtNoRx7NydV) | 3:09 |
 | 50 | [Adı İntikamdı \- Mustafa Sandal Saygı 1](https://open.spotify.com/track/7nbo62zsKUJb8VESKqsk9i) | [Afra](https://open.spotify.com/artist/4TofTRvEUQsznrSPnYnHx9), [Mustafa Sandal](https://open.spotify.com/artist/0mkH5jj3goQ51JtPKVodTo) | [Mustafa Sandal Saygı 1](https://open.spotify.com/album/1yXAegiicPvKSc3vgy6kqq) | 3:32 |
 
-Snapshot ID: `AAAAAKP/pO2sMBiF42SqwqEggYlCnF5Q`
+Snapshot ID: `AAAAAONINayz+xNUv1F6GrMYkKMq7AVz`

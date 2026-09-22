@@ -1,6 +1,6 @@
 {
   "description": "Le meilleur du rock fran\u00e7ais moderne. Photo : Last Train",
-  "num_followers": 220624,
+  "num_followers": 220622,
   "original_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",
   "owner": {
     "name": "Spotify",
@@ -687,22 +687,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 238133,
-      "name": "I'm Picky",
-      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Aston Villa",
         "url": "https://open.spotify.com/album/6JkbhM2APycjDSEV6e1vlm"
       },
@@ -715,6 +699,22 @@
       "duration_ms": 307440,
       "name": "Raisonne",
       "url": "https://open.spotify.com/track/7hSTh1YWoPGMlVnevO6Rev"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 238133,
+      "name": "I'm Picky",
+      "url": "https://open.spotify.com/track/4LIN465EXxcZwgGsQsG0TC"
     },
     {
       "added_at": "2025-11-13 09:07:41",
@@ -783,22 +783,6 @@
     {
       "added_at": "2025-11-13 09:07:41",
       "album": {
-        "name": "The Geeks and the Jerkin' Socks",
-        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
-      },
-      "artists": [
-        {
-          "name": "Shaka Ponk",
-          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
-        }
-      ],
-      "duration_ms": 207132,
-      "name": "My Name Is Stain",
-      "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
-    },
-    {
-      "added_at": "2025-11-13 09:07:41",
-      "album": {
         "name": "Rock'n'Roll Part 9",
         "url": "https://open.spotify.com/album/22V8tkzrBoB1b2MWh2uDpK"
       },
@@ -811,6 +795,22 @@
       "duration_ms": 175173,
       "name": "Chirac En Prison",
       "url": "https://open.spotify.com/track/7kZwIyIu8k8RWnEriuGEqp"
+    },
+    {
+      "added_at": "2025-11-13 09:07:41",
+      "album": {
+        "name": "The Geeks and the Jerkin' Socks",
+        "url": "https://open.spotify.com/album/1oFbpb8ynzEKH17ZIZGmYK"
+      },
+      "artists": [
+        {
+          "name": "Shaka Ponk",
+          "url": "https://open.spotify.com/artist/0VJIBKdqJygrupAxpSTk7q"
+        }
+      ],
+      "duration_ms": 207132,
+      "name": "My Name Is Stain",
+      "url": "https://open.spotify.com/track/5CGoooF86pFWxjbkIfl5q4"
     }
   ],
   "unique_name": "G\u00e9n\u00e9ration Rock Fran\u00e7ais",

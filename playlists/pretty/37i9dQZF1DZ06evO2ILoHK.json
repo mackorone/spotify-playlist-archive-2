@@ -1,12 +1,12 @@
 {
   "description": "This is Basement. The essential tracks, all in one playlist.",
-  "num_followers": 13558,
+  "num_followers": 13562,
   "original_name": "This Is Basement",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAAHzYHkLZOo9xr35ZX6uykJ",
+  "snapshot_id": "aq8iAAAAAACf1xMZA+i6RspNIdHMXKAD",
   "tracks": [
     {
       "added_at": null,
@@ -68,9 +68,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 192014,
-      "name": "Broken By Design",
-      "url": "https://open.spotify.com/track/0nW3s3rXOwR21EcR6FWVnm"
+      "duration_ms": 201475,
+      "name": "Time Waster",
+      "url": "https://open.spotify.com/track/6KkVR92mAwsA7d011KEFoi"
     },
     {
       "added_at": null,
@@ -132,9 +132,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 201475,
-      "name": "Time Waster",
-      "url": "https://open.spotify.com/track/6KkVR92mAwsA7d011KEFoi"
+      "duration_ms": 192014,
+      "name": "Broken By Design",
+      "url": "https://open.spotify.com/track/0nW3s3rXOwR21EcR6FWVnm"
     },
     {
       "added_at": null,
@@ -155,8 +155,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "Beside Myself",
-        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
+        "name": "I Wish I Could Stay Here",
+        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
       },
       "artists": [
         {
@@ -164,9 +164,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 209533,
-      "name": "Be Here Now",
-      "url": "https://open.spotify.com/track/0uYPcHgqGXG5jXFHoSaIJM"
+      "duration_ms": 154560,
+      "name": "Earl Grey",
+      "url": "https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54"
     },
     {
       "added_at": null,
@@ -219,8 +219,8 @@
     {
       "added_at": null,
       "album": {
-        "name": "I Wish I Could Stay Here",
-        "url": "https://open.spotify.com/album/50q9wsn54FNDpVV7S7idOG"
+        "name": "Beside Myself",
+        "url": "https://open.spotify.com/album/6GR8EnywUgDFHmqUHO19RO"
       },
       "artists": [
         {
@@ -228,9 +228,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 154560,
-      "name": "Earl Grey",
-      "url": "https://open.spotify.com/track/2cQwslOlA0ICGxSLm2Dv54"
+      "duration_ms": 209533,
+      "name": "Be Here Now",
+      "url": "https://open.spotify.com/track/0uYPcHgqGXG5jXFHoSaIJM"
     },
     {
       "added_at": null,
@@ -500,9 +500,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 130972,
-      "name": "Meet Me In St. Louis",
-      "url": "https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D"
+      "duration_ms": 166336,
+      "name": "White Elephant",
+      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
     },
     {
       "added_at": null,
@@ -548,9 +548,9 @@
           "url": "https://open.spotify.com/artist/4DUQBYAyOTZotSEdKhaf6c"
         }
       ],
-      "duration_ms": 166336,
-      "name": "White Elephant",
-      "url": "https://open.spotify.com/track/4Oq6yOs0L5Dfa7f3pxkQfq"
+      "duration_ms": 130972,
+      "name": "Meet Me In St. Louis",
+      "url": "https://open.spotify.com/track/40I5U24KYHNKMkRf4jXZ9D"
     },
     {
       "added_at": null,

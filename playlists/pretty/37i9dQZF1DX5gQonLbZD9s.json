@@ -1,6 +1,6 @@
 {
   "description": "The best uptempo pop for the workout girlies",
-  "num_followers": 1473453,
+  "num_followers": 1473481,
   "original_name": "Pumped Pop",
   "owner": {
     "name": "Spotify",
@@ -791,22 +791,6 @@
     {
       "added_at": "2026-04-06 14:44:29",
       "album": {
-        "name": "Love. Angel. Music. Baby.",
-        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
-      },
-      "artists": [
-        {
-          "name": "Gwen Stefani",
-          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
-        }
-      ],
-      "duration_ms": 199853,
-      "name": "Hollaback Girl",
-      "url": "https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE"
-    },
-    {
-      "added_at": "2026-04-06 14:44:29",
-      "album": {
         "name": "What It Is (Versions)",
         "url": "https://open.spotify.com/album/71MqBkcflJ1Rz1SHo8XSi5"
       },
@@ -819,6 +803,22 @@
       "duration_ms": 189824,
       "name": "What It Is (Solo Version)",
       "url": "https://open.spotify.com/track/73RbfOTJIjHzi2pcVHjeHM"
+    },
+    {
+      "added_at": "2026-04-06 14:44:29",
+      "album": {
+        "name": "Love. Angel. Music. Baby.",
+        "url": "https://open.spotify.com/album/34y7m68F7rN9ou6m5GWohR"
+      },
+      "artists": [
+        {
+          "name": "Gwen Stefani",
+          "url": "https://open.spotify.com/artist/4yiQZ8tQPux8cPriYMWUFP"
+        }
+      ],
+      "duration_ms": 199853,
+      "name": "Hollaback Girl",
+      "url": "https://open.spotify.com/track/0eqH0ALoDQevq59YcQ53KE"
     },
     {
       "added_at": "2026-04-06 14:44:29",
@@ -1051,22 +1051,6 @@
     {
       "added_at": "2026-04-06 14:44:29",
       "album": {
-        "name": "Who You Are (Platinum Edition)",
-        "url": "https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r"
-      },
-      "artists": [
-        {
-          "name": "Jessie J",
-          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
-        }
-      ],
-      "duration_ms": 231693,
-      "name": "Domino",
-      "url": "https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK"
-    },
-    {
-      "added_at": "2026-04-06 14:44:29",
-      "album": {
         "name": "The Dead Dance",
         "url": "https://open.spotify.com/album/1KdrtZn2AmuQPHKIr3h4e6"
       },
@@ -1079,6 +1063,22 @@
       "duration_ms": 228518,
       "name": "The Dead Dance",
       "url": "https://open.spotify.com/track/3NFs3XUduzBfvc5Bx1gmzh"
+    },
+    {
+      "added_at": "2026-04-06 14:44:29",
+      "album": {
+        "name": "Who You Are (Platinum Edition)",
+        "url": "https://open.spotify.com/album/3ga4adzUpLaS2LDcoqfs2r"
+      },
+      "artists": [
+        {
+          "name": "Jessie J",
+          "url": "https://open.spotify.com/artist/2gsggkzM5R49q6jpPvazou"
+        }
+      ],
+      "duration_ms": 231693,
+      "name": "Domino",
+      "url": "https://open.spotify.com/track/6MAdEUilV2p9RQUqE5bMAK"
     },
     {
       "added_at": "2026-04-06 14:44:29",

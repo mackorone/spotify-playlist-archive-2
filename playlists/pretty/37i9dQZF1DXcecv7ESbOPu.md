@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcecv7ESbOPu.md) - [plain]
 
 > Äntligen fredag och ny musik från Benjamin Ingrosso, Tove Lo och Yung Lean med flera\. Happy New Music Friday!
 
-[Spotify](https://open.spotify.com/user/spotify) - 236,069 likes - 102 songs - 5 hr 29 min
+[Spotify](https://open.spotify.com/user/spotify) - 236,060 likes - 102 songs - 5 hr 29 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

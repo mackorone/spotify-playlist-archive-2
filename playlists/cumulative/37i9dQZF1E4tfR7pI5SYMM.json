@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2025-11-19",
-  "description": "With MIK's Reaction, Roderiko Pop, David Von Beahm and more",
+  "description": "With MIK's Reaction, Roderiko Pop, NEWLAND and more",
   "name": "Bipolar Superstar Radio",
   "tracks": [
     {
@@ -746,6 +746,24 @@
       "duration_ms": 216000,
       "name": "Angels and Demons",
       "url": "https://open.spotify.com/track/3YdXRS9Mecl4G97R11yTkl"
+    },
+    {
+      "album": {
+        "name": "Trauma Junkie",
+        "url": "https://open.spotify.com/album/7rhjjRgPwWAXJ3G0nWSnzW"
+      },
+      "artists": [
+        {
+          "name": "The Dogs",
+          "url": "https://open.spotify.com/artist/42LXKkD9d7JJlL7sy5ImDC"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 246425,
+      "name": "Another Child of the Cross",
+      "url": "https://open.spotify.com/track/1j2STlOO3gHxnroYPNqhXW"
     },
     {
       "album": {
@@ -7250,7 +7268,7 @@
       ],
       "date_added": "2026-08-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 253384,
       "name": "If Only",
       "url": "https://open.spotify.com/track/0cmDlTOXaIdvvNvFXRKaqf"
@@ -8556,7 +8574,7 @@
       ],
       "date_added": "2026-04-08",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 340000,
       "name": "Life Whisper & New Life - Reprise",
       "url": "https://open.spotify.com/track/6FhnVWokFfKBvsW33H5HCA"
@@ -11520,7 +11538,7 @@
       ],
       "date_added": "2026-01-18",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 338747,
       "name": "Pandora",
       "url": "https://open.spotify.com/track/3ErzdaWtq7GJvLN0VfPFh5"
@@ -12294,7 +12312,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 285552,
       "name": "RAMMIT!",
       "url": "https://open.spotify.com/track/3oxPn44jchGV9YvSuXumnm"
@@ -12546,7 +12564,7 @@
       ],
       "date_added": "2026-01-21",
       "date_added_asterisk": false,
-      "date_removed": "2026-01-22",
+      "date_removed": null,
       "duration_ms": 290186,
       "name": "Rock Bottom",
       "url": "https://open.spotify.com/track/2dzQApMQvr9l3aUBMj0b2U"
@@ -14648,6 +14666,24 @@
       "duration_ms": 215725,
       "name": "Terms and Conditions Apply",
       "url": "https://open.spotify.com/track/0sRxAObesclcIixu23x3Sy"
+    },
+    {
+      "album": {
+        "name": "The Ambulance Song",
+        "url": "https://open.spotify.com/album/3cU6pSrnhdejWtD5Na1bKi"
+      },
+      "artists": [
+        {
+          "name": "Rat Silo",
+          "url": "https://open.spotify.com/artist/0FOHbrm4R5uiYlGzyetiI7"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 156095,
+      "name": "The Ambulance Song",
+      "url": "https://open.spotify.com/track/7paZM4Elsbx6BgTGBnUwvQ"
     },
     {
       "album": {
@@ -17280,7 +17316,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 234473,
       "name": "Walls of Jericho",
       "url": "https://open.spotify.com/track/0njgrVooBdPsUuZkRjL3Uc"

@@ -1,6 +1,6 @@
 {
   "description": "El Malo del Bronx y su legado siempre estar\u00e1n presentes. DEP, Willie Col\u00f3n. ",
-  "num_followers": 429717,
+  "num_followers": 429714,
   "original_name": "Willie Col\u00f3n Por Siempre",
   "owner": {
     "name": "Spotify",
@@ -1479,22 +1479,6 @@
     {
       "added_at": "2026-02-23 19:56:34",
       "album": {
-        "name": "Salsa Exitos",
-        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
-      },
-      "artists": [
-        {
-          "name": "Pedro Conga",
-          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
-        }
-      ],
-      "duration_ms": 284240,
-      "name": "Me Niegas Tanto Amor",
-      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
-    },
-    {
-      "added_at": "2026-02-23 19:56:34",
-      "album": {
         "name": "El Caballero De La Salsa - La Historia Tropical",
         "url": "https://open.spotify.com/album/4AKdvM4gN7a6EWtBywDVcA"
       },
@@ -1507,6 +1491,22 @@
       "duration_ms": 312426,
       "name": "Vivir Sin Ella",
       "url": "https://open.spotify.com/track/5ugemlM6AII73sb0k6yqux"
+    },
+    {
+      "added_at": "2026-02-23 19:56:34",
+      "album": {
+        "name": "Salsa Exitos",
+        "url": "https://open.spotify.com/album/7d6NQ9TSwDphlr9UExZMUW"
+      },
+      "artists": [
+        {
+          "name": "Pedro Conga",
+          "url": "https://open.spotify.com/artist/5AvuagpXeJtpvaq7OtBG1y"
+        }
+      ],
+      "duration_ms": 284240,
+      "name": "Me Niegas Tanto Amor",
+      "url": "https://open.spotify.com/track/5rZ4XYvFC48L2fw2rUNc3o"
     },
     {
       "added_at": "2026-02-23 19:56:34",

@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2024-12-14",
-  "description": "With UrvTek, sixwing, STYXVII and more",
+  "description": "With SPARKLEWOLF RADIO, UrvTek, sixwing and more",
   "name": "Kittydog Radio",
   "tracks": [
     {
@@ -52,7 +52,7 @@
       ],
       "date_added": "2025-03-23",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 178262,
       "name": "14",
       "url": "https://open.spotify.com/track/2PXdncpwO9IpRe6f7QrIMC"
@@ -810,7 +810,7 @@
       ],
       "date_added": "2024-12-29",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-18",
+      "date_removed": null,
       "duration_ms": 181777,
       "name": "BEAR YOUR FANGS",
       "url": "https://open.spotify.com/track/6Rl5PrsLA0Vz9bx3E0QV9G"
@@ -2548,7 +2548,7 @@
       ],
       "date_added": "2025-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 185403,
       "name": "GET A GRIP",
       "url": "https://open.spotify.com/track/39mM3KXqR0wJbPudGacS8s"
@@ -2826,7 +2826,7 @@
       ],
       "date_added": "2026-06-17",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-20",
+      "date_removed": null,
       "duration_ms": 232922,
       "name": "HORRIBLE TRUTH",
       "url": "https://open.spotify.com/track/429sQD0nz6qU1r7eviz0gb"
@@ -4056,7 +4056,7 @@
       ],
       "date_added": "2026-02-05",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 202757,
       "name": "MARTYR (MARTYR)",
       "url": "https://open.spotify.com/track/3jRoQo8sAABg45bCIO9SuB"
@@ -4768,7 +4768,7 @@
       ],
       "date_added": "2026-05-20",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 216472,
       "name": "party of one \u2606",
       "url": "https://open.spotify.com/track/7szR3EmmSMlQcwWqzw7cTy"
@@ -5922,7 +5922,7 @@
       ],
       "date_added": "2024-12-14",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-21",
+      "date_removed": null,
       "duration_ms": 131378,
       "name": "superposition",
       "url": "https://open.spotify.com/track/0foq1CuScisKw9QXmktboo"
@@ -6338,7 +6338,7 @@
       ],
       "date_added": "2025-07-10",
       "date_added_asterisk": false,
-      "date_removed": "2026-09-16",
+      "date_removed": null,
       "duration_ms": 130769,
       "name": "THIS ONE'S FOR THE 2000's FURRIES",
       "url": "https://open.spotify.com/track/4nrFzMzbS7FPdAZXTo0BYE"
@@ -6519,6 +6519,24 @@
     },
     {
       "album": {
+        "name": "UR BF'S A LIAR (Remixes)",
+        "url": "https://open.spotify.com/album/3cA2aQk3Pl96wGkRqIo6BB"
+      },
+      "artists": [
+        {
+          "name": "D3s1ph3r",
+          "url": "https://open.spotify.com/artist/01jFnAwn0INqOjRi0DjRp7"
+        }
+      ],
+      "date_added": "2026-09-22",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 126669,
+      "name": "UR BF'S A LIAR - Nightcore",
+      "url": "https://open.spotify.com/track/7pBHmRtCg8wZIYqfpCUbKI"
+    },
+    {
+      "album": {
         "name": "Ur not an icon!",
         "url": "https://open.spotify.com/album/4QVa6m9hkg0RXMWd6A7eID"
       },
@@ -6534,7 +6552,7 @@
       ],
       "date_added": "2026-09-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 108000,
       "name": "Ur not an icon!",
       "url": "https://open.spotify.com/track/5uireLNJSDWOd7EcXOSUst"

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 
 > This week's best new tracks of all Christian, Gospel, Worship & Inspirational music genres! Cover: Abbie Gamboa
 
-[Spotify](https://open.spotify.com/user/spotify) - 374,427 likes - 99 songs - 6 hr 11 min
+[Spotify](https://open.spotify.com/user/spotify) - 374,428 likes - 99 songs - 6 hr 11 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -63,7 +63,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVtgG63SDdt8.md) - [plain]
 | 53 | [Hunters Orange](https://open.spotify.com/track/6uVdq0wvgY8esvyWvWTQ7S) | [Hyper Fenton](https://open.spotify.com/artist/2q5QIs6iibW6xyHZZRSeh2) | [Hunters Orange](https://open.spotify.com/album/09mwlXeiwZpKB23saWX1aa) | 2:18 |
 | 54 | [Jesus Is King](https://open.spotify.com/track/2szFJdSlRxutOqvSnKtRBp) | [Transformation Worship](https://open.spotify.com/artist/4pwGjEvQsgeFE27Sk31r7I), [Roosevelt Stewart](https://open.spotify.com/artist/2KVpuzFwWhwa7oR6g5tvmk) | [Jesus Is King](https://open.spotify.com/album/3aLw0QTQIgJkXBlobKh0Wx) | 2:50 |
 | 55 | [Bend Til It Break](https://open.spotify.com/track/4fbQxo7v9HPSxYjcuG3UMv) | [Caleb Gordon](https://open.spotify.com/artist/6s3XaJkcT7464G4oII9V41) | [Bend Til It Break](https://open.spotify.com/album/6oYIL1ybiYQd0AuBWPJi4c) | 2:24 |
-| 56 | [Kick It To My Twin](https://open.spotify.com/track/4LLeT4cF5xhpZv0VtkKtgn) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [DreBreeze Da Godson](https://open.spotify.com/artist/1kzhr2UCrvkc5jS8dhTTjh), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [Kick It To My Twin](https://open.spotify.com/album/3mjDA7XDc4aZLD8C9VbCpX) | 3:10 |
+| 56 | [Kick It To My Twin](https://open.spotify.com/track/4LLeT4cF5xhpZv0VtkKtgn) | [Steven Malcolm](https://open.spotify.com/artist/5yqWHaDl8ZrYgeKANLyIv8), [DreBeeze Da Godson](https://open.spotify.com/artist/2HVOHorbpCUYRkYjNuQS93), [DKG KIE](https://open.spotify.com/artist/1eeYg6dFkaRT5GA0lsCVHA) | [Kick It To My Twin](https://open.spotify.com/album/3mjDA7XDc4aZLD8C9VbCpX) | 3:10 |
 | 57 | [ICONIC](https://open.spotify.com/track/1GGiKExc0Nftj3nV19vV0u) | [Childlike CiCi](https://open.spotify.com/artist/1cgfDToH1viXSfFzd5WOz1) | [ICONIC](https://open.spotify.com/album/5yyJ6mcoT0EJEhs8XsyJfr) | 2:06 |
 | 58 | [UHH](https://open.spotify.com/track/3IpXVTLwOA2DW8tH5SVIyu) | [Miles Minnick](https://open.spotify.com/artist/1VEtrxO5KlDXfYGKBI6Ldr), [Lecrae](https://open.spotify.com/artist/1CFCsEqKrCyvAFKOATQHiW), [nobigdyl.](https://open.spotify.com/artist/2d8NsBa8O4C6bgQatFP5V4) | [UHH](https://open.spotify.com/album/5SBooTiZZFESmvbuUbBUR6) | 2:39 |
 | 59 | [Lift Me Up](https://open.spotify.com/track/2Ggz2AJ3CumtXGZADTFWm3) | [Derek Minor](https://open.spotify.com/artist/3fn8lZLy7Q61AXCWWPYC4B) | [Lift Me Up](https://open.spotify.com/album/2RzG2BG61ABdIJ8KpezKsX) | 2:41 |

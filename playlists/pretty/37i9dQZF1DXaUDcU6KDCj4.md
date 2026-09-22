@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXaUDcU6KDCj4.md) - [plain]
 
 > Hear what's new in folk, roots & indie singer\-songwriter\. Cover: Katie Pruitt
 
-[Spotify](https://open.spotify.com/user/spotify) - 882,723 likes - 164 songs - 9 hr 53 min
+[Spotify](https://open.spotify.com/user/spotify) - 882,731 likes - 164 songs - 9 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

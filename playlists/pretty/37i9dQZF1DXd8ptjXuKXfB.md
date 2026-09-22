@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 
 > A legmenőbb és legtrendibb dalok egy helyen 🔥🔥🔥
 
-[Spotify](https://open.spotify.com/user/spotify) - 33,130 likes - 80 songs - 3 hr 49 min
+[Spotify](https://open.spotify.com/user/spotify) - 33,137 likes - 80 songs - 3 hr 49 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -65,14 +65,14 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXd8ptjXuKXfB.md) - [plain]
 | 55 | [PANASONIC](https://open.spotify.com/track/7gdHcrgGNeQSXD3cwOvMRR) | [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y) | [INTERREGNUM](https://open.spotify.com/album/2RN4jUusVHvFiiEg4EBHGD) | 3:08 |
 | 56 | [special 2026](https://open.spotify.com/track/0ENokHRN2tmGOFC9Jeygoa) | [Grasa](https://open.spotify.com/artist/7roOHVUjZASn8tsyBoyn7C) | [special 2026](https://open.spotify.com/album/2N9fTNl951zgM3eG13ILtQ) | 1:54 |
 | 57 | [TOP TIER \- SPACCONE](https://open.spotify.com/track/4n9zK3ZjwyNfs0Bp1cUNiQ) | [Bruno X Spacc](https://open.spotify.com/artist/5ALUgNuS421MZrrrAhM9Bv) | [TOP TIER \(SPACCONE\)](https://open.spotify.com/album/4gU7TCAmI5c8zz2w34BAvx) | 2:02 |
-| 58 | [FLESS](https://open.spotify.com/track/2SYOjGmLH8lGvlE85oNX3Y) | [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [FLESS](https://open.spotify.com/album/261KMZNJIPk6fZnhokAu7U) | 2:50 |
-| 59 | [KERTES HÁZ](https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [KERTES HÁZ](https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd) | 2:19 |
-| 60 | [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 |
-| 61 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 |
+| 58 | [KERTES HÁZ](https://open.spotify.com/track/1YEzjWjdDNHFeycih2VNGm) | [LMEN PRALA](https://open.spotify.com/artist/3IIFNhvPllMor8rcbecmSj) | [KERTES HÁZ](https://open.spotify.com/album/1ny0U9RJ5otFtQwBpyxfDd) | 2:19 |
+| 59 | [Csurran, cseppen](https://open.spotify.com/track/17WGfCmpgardtW5rRbaE7T) | [Majka](https://open.spotify.com/artist/0D8reSG6hzc5KEQWZPYGFB) | [Csurran, cseppen](https://open.spotify.com/album/4qfxHp5vOfiCHKXwtEcwcM) | 4:10 |
+| 60 | [VÁRJ MEG](https://open.spotify.com/track/4RyGoGUAR8cAC7hA9qzc5b) | [VZS](https://open.spotify.com/artist/0x57YRyWq4ke3e1Sd9E7SV), [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4) | [HA MEGHALOK SE](https://open.spotify.com/album/5tUNJHOtRKtuftYTS5EVfZ) | 2:45 |
+| 61 | [FLESS](https://open.spotify.com/track/2SYOjGmLH8lGvlE85oNX3Y) | [RZMVS](https://open.spotify.com/artist/2OFqNrzP6JRCfsX9xglMH4), [KKevin](https://open.spotify.com/artist/2O9w0WQhGtr7oQWG6nUqh5) | [FLESS](https://open.spotify.com/album/261KMZNJIPk6fZnhokAu7U) | 2:50 |
 | 62 | [Estelente](https://open.spotify.com/track/3vATKG0ju6znf3IchoY3aQ) | [imago mundi](https://open.spotify.com/artist/4pD0Y4NqCiTWh4IhpH2NQO) | [SZÉTHULLIKAVILÁG](https://open.spotify.com/album/61j7GEdlMGrqUluP2G6oi8) | 3:17 |
-| 63 | [erotika](https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [elterelés](https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc) | 2:48 |
-| 64 | [Beszívom](https://open.spotify.com/track/76rWiHUfPWXAxgWVVP5lyi) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Beszívom](https://open.spotify.com/album/4yAG1pxLUJ6MVVjfWvCAeb) | 2:56 |
-| 65 | [EMELEM A TÉTET](https://open.spotify.com/track/7IpQfpX3nNGfxlTBjB2CLl) | [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0) | [EMELEM A TÉTET](https://open.spotify.com/album/0v7us2KpvvfQV6IP1zwUDp) | 2:33 |
+| 63 | [Beszívom](https://open.spotify.com/track/76rWiHUfPWXAxgWVVP5lyi) | [Follow The Flow](https://open.spotify.com/artist/1UIPahyz7pEKaU6RQvU3FC) | [Beszívom](https://open.spotify.com/album/4yAG1pxLUJ6MVVjfWvCAeb) | 2:56 |
+| 64 | [EMELEM A TÉTET](https://open.spotify.com/track/7IpQfpX3nNGfxlTBjB2CLl) | [ANUBII$](https://open.spotify.com/artist/13Et80WfHLQ1cBn2YTQ7Zd), [Beton.Hofi](https://open.spotify.com/artist/5x9gQC3VztdH5mQO5EEi9y), [Co Lee](https://open.spotify.com/artist/7AFCBet5F4Pocp1il3bxv0) | [EMELEM A TÉTET](https://open.spotify.com/album/0v7us2KpvvfQV6IP1zwUDp) | 2:33 |
+| 65 | [erotika](https://open.spotify.com/track/6WsEsdHsrvxCW47qLE25fG) | [ByeAlex és a Slepp](https://open.spotify.com/artist/2dmFGufs1lJpgKnb5NyPNS) | [elterelés](https://open.spotify.com/album/3qmORfcKkMXuIEqm3b7BMc) | 2:48 |
 | 66 | [Fújj meg szél](https://open.spotify.com/track/4pWG3fl6XukJyLm349JLfS) | [Parno Graszt](https://open.spotify.com/artist/5hBCfYFEDK8otrksMYuzoL) | [Suttog a szél](https://open.spotify.com/album/4IxmvNpvwBFC8vj1JVl9qY) | 4:31 |
 | 67 | [Ha bukok](https://open.spotify.com/track/1jqthYE9Qyki3574xA7ZPL) | [Pogány Induló](https://open.spotify.com/artist/7JOS2dpikWR1qxVZfLbKju) | [Ha bukok](https://open.spotify.com/album/3FzfbbJxJfabT3WiKmE2Fd) | 2:19 |
 | 68 | [kamera](https://open.spotify.com/track/0lFWkfW4AshK7Fz451VdWl) | [Dzsúdló](https://open.spotify.com/artist/3PMRY3PR5xAe5UpRfPPuaG) | [civil](https://open.spotify.com/album/2VPjzGe5Sd8Vvj8sbzAH9N) | 2:42 |

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 
 > Le plus chauds d'Afrique Francophone\. Cover: TRK.
 
-[Spotify](https://open.spotify.com/user/spotify) - 18,677 likes - 80 songs - 4 hr 6 min
+[Spotify](https://open.spotify.com/user/spotify) - 18,705 likes - 80 songs - 4 hr 6 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -32,8 +32,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXcQLgwrlNRLz.md) - [plain]
 | 22 | [Malin \(feat\. Lil Jay Bingerack\)](https://open.spotify.com/track/1Wazsfj5rPwUIAgaZai89s) | [Diane Dddd](https://open.spotify.com/artist/62MufOQctTd5rxW46i0ehY), [Lil Jay Bingerack](https://open.spotify.com/artist/5v1lkZbpgPYKmyDzqc4Klu) | [FAITH 929](https://open.spotify.com/album/40ElVLrKguJ0TVs4L7PI9X) | 2:30 |
 | 23 | [CARTIER](https://open.spotify.com/track/7AUMxm5ArZPHojwDbdi8Vi) | [Gazo](https://open.spotify.com/artist/5gqmbbfjcikQBzPB5Hv13I), [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [LA MELO EST GANGX](https://open.spotify.com/album/4C9mVDiMHuxOZ2eORwkCE1) | 3:48 |
 | 24 | [M3lo](https://open.spotify.com/track/7ELft1cx8anhsXE405kckI) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh) | [Mélo](https://open.spotify.com/album/3YjNC4de1PEvhuyZjMyxJU) | 2:18 |
-| 25 | [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 |
-| 26 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 |
+| 25 | [I love you](https://open.spotify.com/track/2QcTf5lLMrrWTiElDInpTb) | [Dadju](https://open.spotify.com/artist/4sbXXFzEWJY2zsZjelerjX), [Tayc](https://open.spotify.com/artist/7gU9VyFRN3JWPJ5oHOil60) | [I love you](https://open.spotify.com/album/58fJZLZiBzdbcEEIxi3FC6) | 3:57 |
+| 26 | [Baddies](https://open.spotify.com/track/7arCRGABaKdEFvGa3gCM9d) | [Aya Nakamura](https://open.spotify.com/artist/7IlRNXHjoOCgEAWN5qYksg), [Joé Dwèt Filé](https://open.spotify.com/artist/26zgIfFyTCImkHAp5gwKW8) | [Baddies](https://open.spotify.com/album/0jFImXcAyYYxdCB7z9lYtJ) | 3:27 |
 | 27 | [Pyramide](https://open.spotify.com/track/4PWc65kJf7tKzgINh7rQmK) | [Werenoi](https://open.spotify.com/artist/3YBJLs7RqR0aPGBgU27nDh), [Damso](https://open.spotify.com/artist/2UwqpfQtNuhBwviIC0f2ie) | [Pyramide](https://open.spotify.com/album/2vlx06Uuwpy5gOIkgcdu6Y) | 3:28 |
 | 28 | [Bouwéy](https://open.spotify.com/track/3sxcR3k3ZkNmvmXQB28Qnr) | [1T1](https://open.spotify.com/artist/29DEO5ubNTmLbFSEZDP2we), [Theomaa](https://open.spotify.com/artist/49j7GvUPWXDkBZf3uUwMe6) | [CHORD](https://open.spotify.com/album/7t1nqu0zfrVlPCxukwIxRc) | 2:37 |
 | 29 | [NO LIMIT](https://open.spotify.com/track/39ibrmn8jwwJlPsn1idye2) | [Tiakola](https://open.spotify.com/artist/3vUMXQ9kPnZAQkMkZZ7Hfh), [KLN](https://open.spotify.com/artist/4qZ8YxDrcaqbBjcTUKNaEe) | [BDLM VOL.1](https://open.spotify.com/album/3dGu8wqLHABmZl6YtfNy7Y) | 3:14 |

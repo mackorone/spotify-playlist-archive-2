@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 
 > La  selección  musical de la inconmensurable tristeza latina bajo la mirada de un simple editor de Spotify
 
-[Spotify](https://open.spotify.com/user/spotify) - 39,324 likes - 50 songs - 2 hr 54 min
+[Spotify](https://open.spotify.com/user/spotify) - 39,320 likes - 50 songs - 2 hr 53 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -20,8 +20,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 10 | [El Camino de Morir Triste](https://open.spotify.com/track/4ogBUSzG4ZuxdAzFUmeV2L) | [Canciones Tristes Para Gente Fea](https://open.spotify.com/artist/4PNJEsAAKAR84J0bkyVic6) | [El Camino de Morir Triste](https://open.spotify.com/album/1hUgqfi21opxvTslhKNkcU) | 3:07 |
 | 11 | [Piel](https://open.spotify.com/track/0d5dMFrbWRkTVmElV35Inv) | [Estoy Bien](https://open.spotify.com/artist/3L2tBKYsn5RF3NM1NLQEda) | [Apoyo Emocional](https://open.spotify.com/album/657j47iSoFWivyz6e55mph) | 2:14 |
 | 12 | [Tan fácil que es hablar las cosas](https://open.spotify.com/track/7gYA78JHsoo6ETyLWA0oWX) | [Honey Pot!](https://open.spotify.com/artist/2ChMQHl50BYiWfrN0OxqY7) | [Tan fácil que es hablar las cosas](https://open.spotify.com/album/1PHF6JzIJ7id63Rzh598fU) | 5:22 |
-| 13 | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt) | [Taller para Niños](https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn), [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG) | 2:52 |
-| 14 | [es estúpido cuánto quiero que vuelvas](https://open.spotify.com/track/5ywFeJ8mQLHOFRWy005Zur) | [mil ataris por segundo](https://open.spotify.com/artist/4YprYq1vIq74xBwBaTTgfs) | [epílogo, Ícaro, globo, destinito, bruja, madrugada, dormidera,](https://open.spotify.com/album/6AXvwpN6jA46pAWWfJKJjM) | 3:24 |
+| 13 | [es estúpido cuánto quiero que vuelvas](https://open.spotify.com/track/5ywFeJ8mQLHOFRWy005Zur) | [mil ataris por segundo](https://open.spotify.com/artist/4YprYq1vIq74xBwBaTTgfs) | [epílogo, Ícaro, globo, destinito, bruja, madrugada, dormidera,](https://open.spotify.com/album/6AXvwpN6jA46pAWWfJKJjM) | 3:24 |
+| 14 | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/track/17BBXV7LiZ0fXviquoHLkt) | [Taller para Niños](https://open.spotify.com/artist/4AHgsY0GJKLwzLa4xmIFDn), [Say Ocean](https://open.spotify.com/artist/2zRUJl2CGyWrg4wrh8KYe9) | [¿Quién Jugará Nintendo? \(25 Aniversario\)](https://open.spotify.com/album/5HgOFgLZXGvtD4ZrUR33vG) | 2:52 |
 | 15 | [San Borja](https://open.spotify.com/track/4WkmfCW0sLQS2agZAK8nn9) | [Tenemos Explosivos](https://open.spotify.com/artist/4GmjIrXTH2V78cvkcYnOYS) | [Cortacalles](https://open.spotify.com/album/3xET3sNqvuuqwUbh1dCWyM) | 4:35 |
 | 16 | [Estética Unisex](https://open.spotify.com/track/7cyaNzIBHiKiUj9qYYc7MV) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Estética Unisex](https://open.spotify.com/album/17yFPNdiIHiEbyg8heJyOS) | 1:53 |
 | 17 | [La Noche](https://open.spotify.com/track/1jpP9y8UW2BMBAYYy4QCqQ) | [Fin del Mundo](https://open.spotify.com/artist/4PpMBcLg4QALOMjz0umVkn) | [Todo Va Hacia el Mar](https://open.spotify.com/album/3hUBWCquWieokQRa0Yzvmx) | 3:33 |
@@ -29,8 +29,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 19 | [D'lorean](https://open.spotify.com/track/4V75KgotlsXYWuoBLBr19A) | [Hikikomori Club](https://open.spotify.com/artist/7aaAVtrEeoNmTZONrYa3Rm) | [Mi Mundo Yo Perdí](https://open.spotify.com/album/4j7QcYBm2Gk7VJWwIWtv9b) | 4:23 |
 | 20 | [kickflip](https://open.spotify.com/track/3z35ncyRmvJA1jORp83naX) | [Cuando el problema no existe](https://open.spotify.com/artist/6jNLWMmQOaV3OeQbjPmWOn) | [kickflip](https://open.spotify.com/album/6H1xzfMVhMoST3Pfvqb01d) | 4:18 |
 | 21 | [Charlie contra los monjes](https://open.spotify.com/track/3uUOxbnLTaG1FpSFWobwgY) | [cacomixtle](https://open.spotify.com/artist/5BPV50KIHSSKCHuQwh30fP) | [Flora y Fauna del Estado de México](https://open.spotify.com/album/37TT0YwBeoYDSx4xq68gQ8) | 3:12 |
-| 22 | [Efecto Placebo](https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM) | [DOSMILDOS](https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh) | [Efecto Placebo](https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J) | 2:16 |
-| 23 | [Todos Preguntaron por Ti](https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw) | [Nunca Pasa Nada](https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T) | [Guía para Comprender los Sueños](https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2) | 2:29 |
+| 22 | [Todos Preguntaron por Ti](https://open.spotify.com/track/4ourGpcFizvbpzZyuhGKaw) | [Nunca Pasa Nada](https://open.spotify.com/artist/3Cl3fuQkAki9QL1lVUWK6T) | [Guía para Comprender los Sueños](https://open.spotify.com/album/45tOnoQXrFSdGMLR0EAQB2) | 2:29 |
+| 23 | [Efecto Placebo](https://open.spotify.com/track/57XDhKqfWNeIvaDL8cGeGM) | [DOSMILDOS](https://open.spotify.com/artist/5HLVzM3Asmcjtxa2KxIFOh) | [Efecto Placebo](https://open.spotify.com/album/0DyJ2rtkZIjJE4vPcm5C0J) | 2:16 |
 | 24 | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/track/2lquh3pOdhnhmvtkIPjlV5) | [Almost Done](https://open.spotify.com/artist/19uFCH9vBe6F7cOZNK5DZ9) | [Perfecto acuerdo para estar en desacuerdo](https://open.spotify.com/album/4GituU8n4ox6vxg8fh2Wlm) | 3:31 |
 | 25 | [Santa Rosa](https://open.spotify.com/track/59pr4mXuQU6VbpXQjVoN5L) | [Procrastinación 1 Yo 0](https://open.spotify.com/artist/1MSazhd5p3dgnK1WBLduaT) | [El Mejor Regalo De Nuestras Vidas](https://open.spotify.com/album/4twfyKaFL5bFXEqUbeLx5q) | 2:56 |
 | 26 | [Jardín de Plastilina](https://open.spotify.com/track/5TlBGBCObj3AGtuwUIcJE9) | [recuerdo acariciar con miedo las alas de un ave herida](https://open.spotify.com/artist/5VpDAX7Mz6ZYj0odIGXcHu) | [Muchas Formas de Decir Casa](https://open.spotify.com/album/6w90GXtYSucNXlwo19qk0u) | 3:52 |
@@ -57,6 +57,6 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX7QM9rGRCxSN.md) - [plain]
 | 47 | [Míráme](https://open.spotify.com/track/59vdxakMPGSDidajykh9sa) | [Buh](https://open.spotify.com/artist/6QWJGmTjhSkRhtOcNWJJat) | [El Split de Buh & Millones de Colores](https://open.spotify.com/album/7KNtgrH3CJojbrDzBtePCR) | 0:54 |
 | 48 | [Fantasmas en Casa](https://open.spotify.com/track/43ghfQUS2whU1tTyyPL9H4) | [Películas como Juno](https://open.spotify.com/artist/4xb8uZ6aiaVBeypI8rGal8) | [Fantasmas en Casa](https://open.spotify.com/album/36BLAYZliGj9SE4bOtlenX) | 3:00 |
 | 49 | [fluya +](https://open.spotify.com/track/29RMIfhBVpZ05aPaR1oGVc) | [prado norte](https://open.spotify.com/artist/401yTJ8VYSgtLSeVfr3AjB) | [fluya +](https://open.spotify.com/album/5CXiG2ciD1cWf2pgfL00nX) | 4:02 |
-| 50 | [Uno](https://open.spotify.com/track/2wXMK6SwSDkbAAli8jLcs8) | [Adiós Cometa](https://open.spotify.com/artist/2WDkQfpJLw23w73V2cZDBl) | [Zero / Uno](https://open.spotify.com/album/1VXROXZraDF0vVe2loabMd) | 6:21 |
+| 50 | [Estallar](https://open.spotify.com/track/76lfQ80UnsyvJDxRbKOs3w) | [Inválido](https://open.spotify.com/artist/7xVdVY75NJnzJ2OLmV22Sq) | [Todo el Silencio](https://open.spotify.com/album/0DFXz6haQbrLCMD1kYMHnL) | 5:50 |
 
 Snapshot ID: `AAAAADuMrUBovmn/Oucjo2vTjirCjaqm`

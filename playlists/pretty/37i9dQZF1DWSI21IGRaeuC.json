@@ -1,12 +1,12 @@
 {
   "description": "the deep & minimal side of house & tech \u26cf\ufe0f\u26cf\ufe0f  \nfeaturing Josh Baker",
-  "num_followers": 90694,
+  "num_followers": 90778,
   "original_name": "Deep & Minimal",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAIger7pBS48bmiKWNrMhgLVLXK2b",
+  "snapshot_id": "AAAAAN72LSq/VUaipYiDlGBI1glxmEVt",
   "tracks": [
     {
       "added_at": "2026-08-28 04:01:45",
@@ -161,38 +161,6 @@
       "url": "https://open.spotify.com/track/3t6829TdVyxeSSj7SJ7uWn"
     },
     {
-      "added_at": "2026-09-18 04:02:15",
-      "album": {
-        "name": "Witty",
-        "url": "https://open.spotify.com/album/4bhf9v3REyvW96YzoY9Bh4"
-      },
-      "artists": [
-        {
-          "name": "Kitty Hall",
-          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
-        }
-      ],
-      "duration_ms": 220000,
-      "name": "Witty",
-      "url": "https://open.spotify.com/track/6cKNCPypACC3mosprq9VQx"
-    },
-    {
-      "added_at": "2026-09-18 04:02:15",
-      "album": {
-        "name": "The Arrival",
-        "url": "https://open.spotify.com/album/1sHYTZjj6zi02moVuuJkwl"
-      },
-      "artists": [
-        {
-          "name": "KDAY",
-          "url": "https://open.spotify.com/artist/1KKKcBrYzcNamS31OMPGFC"
-        }
-      ],
-      "duration_ms": 211363,
-      "name": "As You Are",
-      "url": "https://open.spotify.com/track/0tGhQm627q0UTFXCwkgrJg"
-    },
-    {
       "added_at": "2026-09-04 04:01:18",
       "album": {
         "name": "Energy Crew",
@@ -207,6 +175,38 @@
       "duration_ms": 201400,
       "name": "Sheetz",
       "url": "https://open.spotify.com/track/6BbT79lSfkd5rqLaaDN3Q8"
+    },
+    {
+      "added_at": "2026-09-21 15:14:56",
+      "album": {
+        "name": "Bass Drop / Ready For You",
+        "url": "https://open.spotify.com/album/3YQ3152ymIcpft2gZq5byU"
+      },
+      "artists": [
+        {
+          "name": "AAT",
+          "url": "https://open.spotify.com/artist/02B08CAGsMQ0y87xmg07M9"
+        }
+      ],
+      "duration_ms": 198945,
+      "name": "Bass Drop",
+      "url": "https://open.spotify.com/track/5LOkqfRL9Wl6r7exO6Xm6P"
+    },
+    {
+      "added_at": "2026-09-18 04:02:15",
+      "album": {
+        "name": "Witty",
+        "url": "https://open.spotify.com/album/4bhf9v3REyvW96YzoY9Bh4"
+      },
+      "artists": [
+        {
+          "name": "Kitty Hall",
+          "url": "https://open.spotify.com/artist/3bq7T2hgRWGSJa2HLoU6EQ"
+        }
+      ],
+      "duration_ms": 220000,
+      "name": "Witty",
+      "url": "https://open.spotify.com/track/6cKNCPypACC3mosprq9VQx"
     },
     {
       "added_at": "2026-08-28 04:01:45",

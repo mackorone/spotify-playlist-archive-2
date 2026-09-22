@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 
 > New music and recent favorites from rising and iconic songsmiths and storytellers\. Cover: Rhiannon Giddens
 
-[Spotify](https://open.spotify.com/user/spotify) - 170,413 likes - 100 songs - 6 hr 34 min
+[Spotify](https://open.spotify.com/user/spotify) - 170,406 likes - 100 songs - 6 hr 34 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -94,19 +94,19 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX1nqy6pUAoUv.md) - [plain]
 | 84 | [High and Low \(Acoustic\)](https://open.spotify.com/track/0CvC5iLvWfLCTeter5jYuQ) | [Joshua Radin](https://open.spotify.com/artist/7omzannyG2lfDqP5xyZo34) | [The Fall \(Deluxe\)](https://open.spotify.com/album/1Am7IvBB7DdjJl2qCGpNTu) | 2:47 |
 | 85 | [My Heart Aches](https://open.spotify.com/track/2JexGQLlpihuwBxihoTM9r) | [Eliza Gilkyson](https://open.spotify.com/artist/1x2vfyp8dGA84qgwb3D9QG) | [2020](https://open.spotify.com/album/7zzz0Fqahwtd6jd2BgBFj6) | 3:49 |
 | 86 | [In Another Life](https://open.spotify.com/track/1DKzWnbwEwtoAZEFMQ97Ds) | [Beth Whitney](https://open.spotify.com/artist/5LASBhBbwWl7iTNL2HQVbu) | [In Another Life](https://open.spotify.com/album/2PsEEtCJbG1AfrWeLP6POz) | 3:58 |
-| 87 | [The Fray \(feat\. The Milk Carton Kids\)](https://open.spotify.com/track/2a4Et8Q8QUBnmgjO4FDMS6) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:09 |
-| 88 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 |
+| 87 | [Myth](https://open.spotify.com/track/3Ll96SgqzoBimiOFVfa9VZ) | [Amythyst Kiah](https://open.spotify.com/artist/1lhaaKpTyXOnjp79M3xYBl) | [Dig](https://open.spotify.com/album/1hUTpdHFjDm365Py5avBU7) | 4:35 |
+| 88 | [The Fray \(feat\. The Milk Carton Kids\)](https://open.spotify.com/track/2a4Et8Q8QUBnmgjO4FDMS6) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [The Milk Carton Kids](https://open.spotify.com/artist/7fxtWEwKKrFaykKItspdYg) | [The Fray](https://open.spotify.com/album/1r16zCSIhxkc5b9dSQ9DpT) | 4:09 |
 | 89 | [Unmistakable Love](https://open.spotify.com/track/55nO2n9SV9qxkN8JtN9Tdt) | [Spencer Burton](https://open.spotify.com/artist/4g86a03cASyc60kG0Rbgjq) | [Songs Of](https://open.spotify.com/album/6g5ItIBzaEAOrpPmbC8qGY) | 3:55 |
 | 90 | [In the Kingdom of Dreams](https://open.spotify.com/track/0XbCoGsNuQIDrG88dxN3uD) | [Ian Felice](https://open.spotify.com/artist/7xF3W3WQYFx9xd5A5j6Ksv) | [In the Kingdom of Dreams](https://open.spotify.com/album/5GW93yhGtbaZf9yL8WplU7) | 3:56 |
 | 91 | [Love Will Win the War](https://open.spotify.com/track/2vsm6CwQSxeAL2SAFQdQf9) | [Darden Smith](https://open.spotify.com/artist/6CUKhaUkMI9j5qAEyuRfaA) | [Everything](https://open.spotify.com/album/3vmJA3thCzpAOBHWsQp9Ov) | 3:54 |
 | 92 | [Avalon \(with Francesco Turrisi\)](https://open.spotify.com/track/3cJI6VFdyRdriDVwB0sU3Y) | [Rhiannon Giddens](https://open.spotify.com/artist/1EI0NtLHoh9KBziYCeN1vM), [Francesco Turrisi](https://open.spotify.com/artist/4ds2NOrovBxUtTi29RWIBC) | [They're Calling Me Home \(with Francesco Turrisi\)](https://open.spotify.com/album/75qSKqLqEt7zOei7If7Lms) | 3:54 |
-| 93 | [The Ocean](https://open.spotify.com/track/2mhc2vUjVw1yEvX0sLXEDG) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [The Ocean](https://open.spotify.com/album/3FM3jYla1quF55JdBUM7gc) | 3:21 |
+| 93 | [Walk Into a Storm](https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk Into a Storm](https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp) | 5:06 |
 | 94 | [IOU](https://open.spotify.com/track/5m99jhaZsRfk7NKIYS5eN7) | [Olivia Chaney](https://open.spotify.com/artist/0IRzm0TuehkXRBVKNzSX7e) | [IOU](https://open.spotify.com/album/7bKPZt1pGO2c0EjLiMMqsF) | 4:03 |
-| 95 | [Walk Into a Storm](https://open.spotify.com/track/7hL9BH60dGwbxC0Q2D1zJ4) | [The Lone Bellow](https://open.spotify.com/artist/7JFtD8KnbAADBBDleIMuH7) | [Walk Into a Storm](https://open.spotify.com/album/33pifMgAr6MdQkAodTFYBp) | 5:06 |
+| 95 | [The Ocean](https://open.spotify.com/track/2mhc2vUjVw1yEvX0sLXEDG) | [Wallis Bird](https://open.spotify.com/artist/0aogyPVqx5tlIkR0BHAehX) | [The Ocean](https://open.spotify.com/album/3FM3jYla1quF55JdBUM7gc) | 3:21 |
 | 96 | [Eye to Eye](https://open.spotify.com/track/0tTPqTWwd4lyd3HQUPIr8C) | [John Smith](https://open.spotify.com/artist/56GNqAFg9wJNTwcHsJhyS2), [Sarah Jarosz](https://open.spotify.com/artist/6nFBonVf7Lqaj05R0v5VGJ) | [Eye to Eye](https://open.spotify.com/album/6z3SLJb0PKfBStprLMMEvW) | 3:51 |
 | 97 | [Saint Elizabeth](https://open.spotify.com/track/0AXVGjlzkolKVm7ZnD6pqB) | [Kaia Kater](https://open.spotify.com/artist/3SIjUKYSRchIKIoFO9vBjm) | [Nine Pin](https://open.spotify.com/album/4an7nc1bshv75YnXbyp8bs) | 3:59 |
 | 98 | [Candy Man](https://open.spotify.com/track/1w9BpnmUQwiizWK6ZRp3kh) | [Jerron Paxton](https://open.spotify.com/artist/6UjmSUS82bBSEjsybZkVc2) | [Music from The American Epic Sessions \(Deluxe\)](https://open.spotify.com/album/2j0XMCTd58fYlrwNAaixQP) | 2:52 |
-| 99 | [Pacific Northwest Bound](https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN) | [Mike McKenna Jr.](https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0) | [Pacific Northwest Bound](https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ) | 2:53 |
-| 100 | [Time to Give](https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [From Where I Started](https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M) | 2:34 |
+| 99 | [Time to Give](https://open.spotify.com/track/4gZk63HrMAizs6cLtCYJhO) | [Sera Cahoone](https://open.spotify.com/artist/3wC39cIBlyNFSP8bO84FCJ) | [From Where I Started](https://open.spotify.com/album/5RiJv1zalIyCyjWfGUJq8M) | 2:34 |
+| 100 | [Pacific Northwest Bound](https://open.spotify.com/track/1fWzprUcryTPfypChOG8eN) | [Mike McKenna Jr.](https://open.spotify.com/artist/3ZkurU6rzZv1M7zZM33iq0) | [Pacific Northwest Bound](https://open.spotify.com/album/2eox9WDTU2GkXhktIrDbJQ) | 2:53 |
 
 Snapshot ID: `AAAAADuUGcp1eqEmQwpVh1DOj7B7hfsx`

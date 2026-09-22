@@ -1,12 +1,12 @@
 {
   "description": "This is BK. The essential tracks, all in one playlist.",
-  "num_followers": 112552,
+  "num_followers": 112737,
   "original_name": "This Is BK",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABLdG4pzhqQumxWpPZ4dUEq",
+  "snapshot_id": "aq8iAAAAAACE05RvF1z9nBgWGMNNPiYo",
   "tracks": [
     {
       "added_at": null,
@@ -727,34 +727,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
-        "url": "https://open.spotify.com/album/1OQpOh2CpuG85LuJzomUC3"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "JXNV$",
-          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
-        },
-        {
-          "name": "Pretinho da Serrinha",
-          "url": "https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw"
-        },
-        {
-          "name": "Trio Mocoto",
-          "url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
-        }
-      ],
-      "duration_ms": 230400,
-      "name": "N\u00e3o Adianta Chorar",
-      "url": "https://open.spotify.com/track/5gxljBy1tymSkb9hJZJaEl"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/1vNlE8yT5AAswQPy8jCHlV"
       },
@@ -783,6 +755,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Diamantes, L\u00e1grimas e Rostos para Esquecer",
+        "url": "https://open.spotify.com/album/1OQpOh2CpuG85LuJzomUC3"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "JXNV$",
+          "url": "https://open.spotify.com/artist/2eYGPD8O1chWmQ92TvdtCW"
+        },
+        {
+          "name": "Pretinho da Serrinha",
+          "url": "https://open.spotify.com/artist/4qDFGliScFrzPiFS9caqnw"
+        },
+        {
+          "name": "Trio Mocoto",
+          "url": "https://open.spotify.com/artist/5nriuBVz6NDh6k8gTU5WgP"
+        }
+      ],
+      "duration_ms": 230400,
+      "name": "N\u00e3o Adianta Chorar",
+      "url": "https://open.spotify.com/track/5gxljBy1tymSkb9hJZJaEl"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Castelos & Ru\u00ednas",
         "url": "https://open.spotify.com/album/4PLPuHFM0cnpLLWYBCzuY9"
       },
@@ -803,6 +803,30 @@
       "duration_ms": 159984,
       "name": "O Que Sobra Disso Tudo",
       "url": "https://open.spotify.com/track/06y977jqu2JnTiAx3CMNGR"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "FOR\u00c7A DA JUVENTUDE",
+        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
+      },
+      "artists": [
+        {
+          "name": "Os Garotin",
+          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
+        },
+        {
+          "name": "Marina Sena",
+          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
+        },
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        }
+      ],
+      "duration_ms": 245710,
+      "name": "se joga",
+      "url": "https://open.spotify.com/track/6pf9VyjlAVzgHoyuBFYCGM"
     },
     {
       "added_at": null,
@@ -831,30 +855,6 @@
       "duration_ms": 227093,
       "name": "Almas",
       "url": "https://open.spotify.com/track/2nOaBepWvTS9HdZ25YYode"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "FOR\u00c7A DA JUVENTUDE",
-        "url": "https://open.spotify.com/album/1rjWs2gqsxkKVP9LIs2Luo"
-      },
-      "artists": [
-        {
-          "name": "Os Garotin",
-          "url": "https://open.spotify.com/artist/6aMpeys8CsM9RuRR74RNMP"
-        },
-        {
-          "name": "Marina Sena",
-          "url": "https://open.spotify.com/artist/0nFdWpwl7h6fp3ADRyG14L"
-        },
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        }
-      ],
-      "duration_ms": 245710,
-      "name": "se joga",
-      "url": "https://open.spotify.com/track/6pf9VyjlAVzgHoyuBFYCGM"
     },
     {
       "added_at": null,
@@ -899,26 +899,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "$amuka",
-          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
-        }
-      ],
-      "duration_ms": 189914,
-      "name": "Gatilhos",
-      "url": "https://open.spotify.com/track/3kPQJBcNyV2VjuksuhKtWf"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ICARUS",
         "url": "https://open.spotify.com/album/1vNlE8yT5AAswQPy8jCHlV"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 206378,
       "name": "Em nome do que sinto",
       "url": "https://open.spotify.com/track/32i85bbgGRH6ls0OXdcigN"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "$amuka",
+          "url": "https://open.spotify.com/artist/2rgAT15zhmX8wrjbYcXTFj"
+        }
+      ],
+      "duration_ms": 189914,
+      "name": "Gatilhos",
+      "url": "https://open.spotify.com/track/3kPQJBcNyV2VjuksuhKtWf"
     },
     {
       "added_at": null,
@@ -1007,34 +1007,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "PRODUTO DO AMBIENTE",
-        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
-      },
-      "artists": [
-        {
-          "name": "BK",
-          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
-        },
-        {
-          "name": "OPhael",
-          "url": "https://open.spotify.com/artist/4Qzr7WNNoEnt9Dgv4taxdf"
-        },
-        {
-          "name": "PHANE",
-          "url": "https://open.spotify.com/artist/6pnSMysu1Ryk2rTmyaadSm"
-        },
-        {
-          "name": "MSE",
-          "url": "https://open.spotify.com/artist/00e8h3bLUKM05k9bBnnTPh"
-        }
-      ],
-      "duration_ms": 170192,
-      "name": "Por A\u00ed",
-      "url": "https://open.spotify.com/track/0HdWS8OLFeAQTntk2jBoMj"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "ALFA",
         "url": "https://open.spotify.com/album/57wEbqqEigzEjG2YV1t6z9"
       },
@@ -1059,6 +1031,34 @@
       "duration_ms": 231110,
       "name": "Karat\u00ea",
       "url": "https://open.spotify.com/track/5Lvm4MGdCXErM0Svb8ICUC"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "PRODUTO DO AMBIENTE",
+        "url": "https://open.spotify.com/album/3OB3nqd1Vm38NSTT4gC1gN"
+      },
+      "artists": [
+        {
+          "name": "BK",
+          "url": "https://open.spotify.com/artist/1YOVBTvznjiDvtAj4ExHeo"
+        },
+        {
+          "name": "OPhael",
+          "url": "https://open.spotify.com/artist/4Qzr7WNNoEnt9Dgv4taxdf"
+        },
+        {
+          "name": "PHANE",
+          "url": "https://open.spotify.com/artist/6pnSMysu1Ryk2rTmyaadSm"
+        },
+        {
+          "name": "MSE",
+          "url": "https://open.spotify.com/artist/00e8h3bLUKM05k9bBnnTPh"
+        }
+      ],
+      "duration_ms": 170192,
+      "name": "Por A\u00ed",
+      "url": "https://open.spotify.com/track/0HdWS8OLFeAQTntk2jBoMj"
     },
     {
       "added_at": null,

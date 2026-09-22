@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWXtcXUwhuzFM.md) - [plain]
 
 > Uutta musaa tarjoilevat KERZA, ELLIMEI, Nelli Matula..\. ja moni muu  🎶
 
-[Spotify](https://open.spotify.com/user/spotify) - 108,495 likes - 102 songs - 5 hr 13 min
+[Spotify](https://open.spotify.com/user/spotify) - 108,488 likes - 102 songs - 5 hr 13 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

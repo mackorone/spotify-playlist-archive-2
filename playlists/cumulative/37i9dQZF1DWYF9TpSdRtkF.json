@@ -4991,6 +4991,72 @@
     },
     {
       "album": {
+        "name": "Starry Melody (Brand New Ver.)",
+        "url": "https://open.spotify.com/album/4ScFE4kJaTJOtSGGAoEIZd"
+      },
+      "artists": [
+        {
+          "name": "\u6625\u65e5\u672a\u6765 (CV.\u5c71\u5d0e\u306f\u308b\u304b)",
+          "url": "https://open.spotify.com/artist/4pmQgY13xkPyGdHeK4y4uv"
+        },
+        {
+          "name": "\u5927\u795e \u74b0 (CV.\u7a32\u5ddd\u82f1\u91cc)",
+          "url": "https://open.spotify.com/artist/5c4iSbsBs20H32f0mpPHxn"
+        },
+        {
+          "name": "\u5317\u6ca2\u5fd7\u4fdd (CV.\u96e8\u5bae \u5929)",
+          "url": "https://open.spotify.com/artist/7nDgFIZOhzZpIfhriPxdw0"
+        },
+        {
+          "name": "\u9ad8\u5742\u6d77\u7f8e (CV.\u4e0a\u7530\u9e97\u5948)",
+          "url": "https://open.spotify.com/artist/6AZndMQu5mgIHidhE5rB7v"
+        },
+        {
+          "name": "Momoko Suou (CV: Keiko Watanabe)",
+          "url": "https://open.spotify.com/artist/3Amsmaln3plXWWVJi684Kr"
+        },
+        {
+          "name": "Kotoha Tanaka (CV: Risa Taneda)",
+          "url": "https://open.spotify.com/artist/7vOsyxqAygo6QgUJ5AIeyr"
+        },
+        {
+          "name": "\u5fb3\u5ddd\u307e\u3064\u308a (CV.\u8acf\u8a2a\u5f69\u82b1)",
+          "url": "https://open.spotify.com/artist/2uTw4D9HmyZI0NmjCIJ7Mk"
+        },
+        {
+          "name": "\u8c4a\u5ddd\u98a8\u82b1 (CV.\u672b\u67c4\u91cc\u6075)",
+          "url": "https://open.spotify.com/artist/5hQQjU2TGeQY6H3Uo9t7Wz"
+        },
+        {
+          "name": "\u91ce\u3005\u539f \u831c (CV.\u5c0f\u7b20\u539f\u65e9\u7d00)",
+          "url": "https://open.spotify.com/artist/4xBZB18tZyqwiVBaULud9U"
+        },
+        {
+          "name": "\u7bb1\u5d0e\u661f\u68a8\u82b1 (CV.\u9ebb\u5009\u3082\u3082)",
+          "url": "https://open.spotify.com/artist/78eYeI3ejgsTsQfe8tnke2"
+        },
+        {
+          "name": "\u99ac\u5834\u3053\u306e\u307f (CV.\u9ad9\u6a4b\u30df\u30ca\u30df)",
+          "url": "https://open.spotify.com/artist/1RZ0BzKzGpd2CVCy5ZIN9F"
+        },
+        {
+          "name": "\u677e\u7530\u4e9c\u5229\u6c99 (CV.\u6751\u5ddd\u68a8\u8863)",
+          "url": "https://open.spotify.com/artist/6LI5tAKp5afnUGZ9VBWPnV"
+        },
+        {
+          "name": "Miya Miyao (CV: Choucho Kiritani)",
+          "url": "https://open.spotify.com/artist/2MenDm4cLUCQkODm7Zkbar"
+        }
+      ],
+      "date_added": "2025-03-26",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 273893,
+      "name": "Starry Melody - Brand New Ver.",
+      "url": "https://open.spotify.com/track/3OINcBmfD5Npj7rtj5HnEp"
+    },
+    {
+      "album": {
         "name": "THE IDOLM@STER MILLION LIVE! M@STER SPARKLE 06",
         "url": "https://open.spotify.com/album/5CRLZr1sxIMRisYdnUyEO9"
       },
@@ -6220,7 +6286,7 @@
       ],
       "date_added": "2025-01-14",
       "date_added_asterisk": false,
-      "date_removed": "2025-03-26",
+      "date_removed": null,
       "duration_ms": 254826,
       "name": "\u30ab\u30fc\u30cb\u30f4\u30a1\u30eb\u30fb\u30b8\u30e3\u30d1\u30cd\u30b9\u30af",
       "url": "https://open.spotify.com/track/2G4881yNHdKhNdFV3BbjyJ"
@@ -6264,7 +6330,7 @@
       ],
       "date_added": "2025-03-26",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 225066,
       "name": "\u30ae\u30d6\u30df\u30fc\u30e1\u30bf\u30d5\u30a1\u30fc",
       "url": "https://open.spotify.com/track/2dBk9WLrtWT2n6dFwvstrY"
@@ -7922,7 +7988,7 @@
       ],
       "date_added": "2024-10-01",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 307280,
       "name": "\u5408\u8a00\u8449\u306f\u30b9\u30bf\u30fc\u30c8\u30a2\u30c3\u30d7\uff01",
       "url": "https://open.spotify.com/track/7mcEj3zGkVXa25JooTmKgH"

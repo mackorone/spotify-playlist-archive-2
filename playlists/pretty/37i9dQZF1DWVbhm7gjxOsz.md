@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 
 > Crusin' is not a crime, it's a lifestyle!
 
-[Spotify](https://open.spotify.com/user/spotify) - 141,115 likes - 150 songs - 8 hr 41 min
+[Spotify](https://open.spotify.com/user/spotify) - 141,155 likes - 150 songs - 8 hr 41 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -64,8 +64,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 54 | [Earth Angel \(Will You Be Mine\)](https://open.spotify.com/track/11XR0tRT4g5ov4u8M92wbF) | [The Penguins](https://open.spotify.com/artist/6lOk7hCr8x3O9vHwylXyHR) | [The Best Of The Penguins](https://open.spotify.com/album/22MQotgEOE29gE6YnhN4Ox) | 2:59 |
 | 55 | [Don't Let No One Get You Down](https://open.spotify.com/track/08aSprc2fv1viNls6RmLdN) | [War](https://open.spotify.com/artist/3ICyfoySNDZqtBVmaBT84I) | [Why Can't We Be Friends?](https://open.spotify.com/album/59euB5Ns7yGbS06OYHwxRN) | 4:00 |
 | 56 | [On A Sunday Afternoon](https://open.spotify.com/track/1cM25iyn6zKOfnywTNtvyb) | [Lighter Shade Of Brown](https://open.spotify.com/artist/7AyywyUcQP99oit737gZK2) | [Frost Presents...Raza Radio](https://open.spotify.com/album/5OcYPEWf4e0R673hpjY3Mj) | 3:32 |
-| 57 | [I'm So Proud](https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Never Ending Impressions](https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF) | 2:51 |
-| 58 | [Eighteen With A Bullet](https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz) | [Pete Wingfield](https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb) | [Breakfast Special](https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb) | 3:31 |
+| 57 | [Eighteen With A Bullet](https://open.spotify.com/track/5Db6sVQqeSoe8SN7JZrpPz) | [Pete Wingfield](https://open.spotify.com/artist/3aXekkmx3vITr2rZSgpVDb) | [Breakfast Special](https://open.spotify.com/album/0x2Hgl58dtwTdA1AdgG0Zb) | 3:31 |
+| 58 | [I'm So Proud](https://open.spotify.com/track/3bq9YHKExHdNzMCublodNs) | [The Impressions](https://open.spotify.com/artist/1b1N51wmSK0ckxFAMPSSHO) | [The Never Ending Impressions](https://open.spotify.com/album/2ucSzISgPDj3DgVHxQaLuF) | 2:51 |
 | 59 | [Sad Girl](https://open.spotify.com/track/1eAZTu3kRk98Exu0n92YMC) | [The Intruders](https://open.spotify.com/artist/30q5mqJmdYPaKabPMytzvv) | [Cowboys to Girls](https://open.spotify.com/album/4otscgqzgKPQZSdPhiC5fr) | 2:00 |
 | 60 | [Don't Tell Me](https://open.spotify.com/track/2zu0W9Kgo53F0Cbv91jltm) | [Joey Quiñones](https://open.spotify.com/artist/0I2oicRXKxaqqjpHKlyTpP) | [Don't Tell Me](https://open.spotify.com/album/7mwaHlZf72E7QOdNo6kcyl) | 3:53 |
 | 61 | [In The Rain](https://open.spotify.com/track/6aKFAhG7hCy71wLDMKjP5G) | [The Dramatics](https://open.spotify.com/artist/2W8UTum7bU7ue6m0r14H97) | [The Very Best Of The Dramatics](https://open.spotify.com/album/1smTgNR8x8iq1EkhFyoFT7) | 3:29 |
@@ -89,8 +89,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWVbhm7gjxOsz.md) - [plain]
 | 79 | [When You're Gone](https://open.spotify.com/track/1fZC5RQre8kgyhqNVflPTm) | [Brenda And The Tabulations](https://open.spotify.com/artist/7knQlwjtPZ9VP98f5XXhhn) | [Dry Your Eyes](https://open.spotify.com/album/7gRd19Kccnk9PEw3SngTeG) | 2:35 |
 | 80 | [Shining Star](https://open.spotify.com/track/4VO88hvgij1NzgmGpV1MPV) | [The Manhattans](https://open.spotify.com/artist/1DpIDwg8FGD50N9Tfunfsf) | [The Best Of The Manhattans: Kiss And Say Goodbye](https://open.spotify.com/album/4shPsyHdXeoYwJeqt10Ttq) | 4:39 |
 | 81 | [Love on a Two Way Street](https://open.spotify.com/track/2gImbBWvXQWQ9ZDSQUWvNI) | [The Moments](https://open.spotify.com/artist/6avGAzQTmqu8mfSmZrN7gT) | [Love On A Two\-Way Street \(US Release\)](https://open.spotify.com/album/2fCREhUDXAPsGzkRMU6cI9) | 3:37 |
-| 82 | [I Really Love You](https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [The Best Of Dee Dee Sharp 1962\-1966](https://open.spotify.com/album/319S820SmHsr88JCQDCEYv) | 2:48 |
-| 83 | [Nite Owl \(A.K.A\. Night Owl\)](https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO) | [Tony Allen](https://open.spotify.com/artist/0uaoL1sn2yAzYbsREwtYFH), [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [The Specialty Story](https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh) | 2:45 |
+| 82 | [Nite Owl \(A.K.A\. Night Owl\)](https://open.spotify.com/track/2nvQcGTDCJpqAt22M4zqrO) | [Tony Allen](https://open.spotify.com/artist/0uaoL1sn2yAzYbsREwtYFH), [The Champs](https://open.spotify.com/artist/3yt4IVDHz0luREG9Uf9xrp) | [The Specialty Story](https://open.spotify.com/album/0CRWmTIjmMumhwYI6BO4Nh) | 2:45 |
+| 83 | [I Really Love You](https://open.spotify.com/track/1iYrvHaZXNrLolzjR6ZCe5) | [Dee Dee Sharp](https://open.spotify.com/artist/2NtGOVTuHBMDfR5PMNPBGT) | [The Best Of Dee Dee Sharp 1962\-1966](https://open.spotify.com/album/319S820SmHsr88JCQDCEYv) | 2:48 |
 | 84 | [Since I Don't Have You \(Alternative Take\)](https://open.spotify.com/track/4uAalOPic5WOPJF1kANXCt) | [The Skyliners](https://open.spotify.com/artist/4JeG1IusHcsL2owYnsJ7wk) | [The Skyliners](https://open.spotify.com/album/1NkPqMACJL2PejSrAZzbiQ) | 2:38 |
 | 85 | [Oh What A Nite](https://open.spotify.com/track/1S5eC9PiwzHG6QkVeQYbWn) | [The Dells](https://open.spotify.com/artist/0wbrRIw2po5DV4LeaHw55S) | [Dreams Of Contentment \(Special Deluxe Collection\)](https://open.spotify.com/album/1d010u6FB9UIUlk2P9BRYI) | 2:56 |
 | 86 | [What Love Has Joined Together \- Single Version](https://open.spotify.com/track/1mEToiltl9clpWzTfVHyCd) | [Mary Wells](https://open.spotify.com/artist/1cjZk1xXn3YCToNg3uJpA7) | [Looking Back 1961\-1964](https://open.spotify.com/album/3b9B5jlDpGSwzMVMYKkDGX) | 2:57 |

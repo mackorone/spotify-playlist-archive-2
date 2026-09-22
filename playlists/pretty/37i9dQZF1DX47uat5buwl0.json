@@ -1,12 +1,12 @@
 {
   "description": "Banger na banger. Cover: Nachtdienst & Amelie \ud83d\udd25",
-  "num_followers": 313694,
+  "num_followers": 313689,
   "original_name": "Studenten Hits 2026",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAANufDiSeec5Knfl7y2yLC7e0eM/l",
+  "snapshot_id": "AAAAABk5OWP88Yp/uREpPd7qZtQF+IiZ",
   "tracks": [
     {
       "added_at": "2026-09-17 22:00:40",
@@ -27,6 +27,26 @@
       "duration_ms": 142153,
       "name": "Tot Sluit",
       "url": "https://open.spotify.com/track/5F20cnv9WGzTQeFVp4BGGU"
+    },
+    {
+      "added_at": "2026-09-17 22:00:40",
+      "album": {
+        "name": "Draaien",
+        "url": "https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx"
+      },
+      "artists": [
+        {
+          "name": "Def",
+          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
+        },
+        {
+          "name": "DJBrittneySGAT",
+          "url": "https://open.spotify.com/artist/2gR2NUAeODffVXH8Bdcj0Z"
+        }
+      ],
+      "duration_ms": 93576,
+      "name": "Draaien",
+      "url": "https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH"
     },
     {
       "added_at": "2026-09-17 22:00:40",
@@ -67,22 +87,38 @@
     {
       "added_at": "2026-09-17 22:00:40",
       "album": {
-        "name": "Draaien",
-        "url": "https://open.spotify.com/album/2Avnk219NeZpsseuzAgpJx"
+        "name": "What Did You Come For ?",
+        "url": "https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e"
       },
       "artists": [
         {
-          "name": "Def",
-          "url": "https://open.spotify.com/artist/7xSvzzpRGlGKyXVOI6IeWk"
-        },
-        {
-          "name": "DJBrittneySGAT",
-          "url": "https://open.spotify.com/artist/2gR2NUAeODffVXH8Bdcj0Z"
+          "name": "Kolter",
+          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
         }
       ],
-      "duration_ms": 93576,
-      "name": "Draaien",
-      "url": "https://open.spotify.com/track/1UWizODYadn4ICqGvYrmrH"
+      "duration_ms": 221535,
+      "name": "Trapped - Radio-Edit",
+      "url": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
+    },
+    {
+      "added_at": "2026-09-17 22:00:40",
+      "album": {
+        "name": "Ode To The Bouncer",
+        "url": "https://open.spotify.com/album/1wQns64m9xxJPe6b9kp3fF"
+      },
+      "artists": [
+        {
+          "name": "Lumine",
+          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
+        },
+        {
+          "name": "Studio Killers",
+          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
+        }
+      ],
+      "duration_ms": 147042,
+      "name": "Ode To The Bouncer",
+      "url": "https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK"
     },
     {
       "added_at": "2026-09-17 22:00:40",
@@ -211,18 +247,26 @@
     {
       "added_at": "2026-09-17 22:00:40",
       "album": {
-        "name": "What Did You Come For ?",
-        "url": "https://open.spotify.com/album/3HK2AgbyXwcMfYBjG2A71e"
+        "name": "Sant\u00e9",
+        "url": "https://open.spotify.com/album/3bPJcUhzrJeN2PXR9PW5kg"
       },
       "artists": [
         {
-          "name": "Kolter",
-          "url": "https://open.spotify.com/artist/2Invsp3HSrAeJy4u7Retry"
+          "name": "LA$$A",
+          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
+        },
+        {
+          "name": "Nachtdienst",
+          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
+        },
+        {
+          "name": "Amelie",
+          "url": "https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu"
         }
       ],
-      "duration_ms": 221535,
-      "name": "Trapped - Radio-Edit",
-      "url": "https://open.spotify.com/track/7LhaYxesZoZQ8b9WJGuLDx"
+      "duration_ms": 158769,
+      "name": "Sant\u00e9",
+      "url": "https://open.spotify.com/track/2lFTGVULcx1tRHhm2TY56I"
     },
     {
       "added_at": "2026-09-17 22:00:40",
@@ -335,70 +379,38 @@
     {
       "added_at": "2026-09-17 22:00:40",
       "album": {
-        "name": "Sant\u00e9",
-        "url": "https://open.spotify.com/album/3bPJcUhzrJeN2PXR9PW5kg"
+        "name": "Ruggengraat",
+        "url": "https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj"
       },
       "artists": [
-        {
-          "name": "LA$$A",
-          "url": "https://open.spotify.com/artist/36WPIJMvnC1lSvjwMHrGAR"
-        },
         {
           "name": "Nachtdienst",
           "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
-        },
-        {
-          "name": "Amelie",
-          "url": "https://open.spotify.com/artist/34R5rx4TvQmpxz3fyRfiKu"
         }
       ],
-      "duration_ms": 158769,
-      "name": "Sant\u00e9",
-      "url": "https://open.spotify.com/track/2lFTGVULcx1tRHhm2TY56I"
+      "duration_ms": 134619,
+      "name": "Ruggengraat",
+      "url": "https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS"
     },
     {
-      "added_at": "2026-09-17 22:00:40",
+      "added_at": "2026-09-21 12:00:13",
       "album": {
-        "name": "Tony Montana",
-        "url": "https://open.spotify.com/album/3NoVsXS2KNdSsO98EZ0Lkg"
+        "name": "Turbo",
+        "url": "https://open.spotify.com/album/3icJIpqP0JuPWteHT6gSjM"
       },
       "artists": [
         {
-          "name": "Ninochello",
-          "url": "https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF"
+          "name": "New Kids",
+          "url": "https://open.spotify.com/artist/2dYdfgSbtfu9Y9MkTPv3jX"
         },
         {
-          "name": "Young Ellens",
-          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
-        },
-        {
-          "name": "Luca Ferron",
-          "url": "https://open.spotify.com/artist/19AdBUGKGQJk2hyMb8MKG0"
+          "name": "Paul Elstak",
+          "url": "https://open.spotify.com/artist/123hDJRbi4KtCdBaaKNHW6"
         }
       ],
-      "duration_ms": 132000,
-      "name": "Tony Montana",
-      "url": "https://open.spotify.com/track/2ROoZSN30VTNKpAR0TVva2"
-    },
-    {
-      "added_at": "2026-09-17 22:00:40",
-      "album": {
-        "name": "Ode To The Bouncer",
-        "url": "https://open.spotify.com/album/1wQns64m9xxJPe6b9kp3fF"
-      },
-      "artists": [
-        {
-          "name": "Lumine",
-          "url": "https://open.spotify.com/artist/2ZdXzNlryuJP0pnFn8CMAr"
-        },
-        {
-          "name": "Studio Killers",
-          "url": "https://open.spotify.com/artist/7avo0PmlW8O1YLEt9DnWQT"
-        }
-      ],
-      "duration_ms": 147042,
-      "name": "Ode To The Bouncer",
-      "url": "https://open.spotify.com/track/1d1B0o6MT7cMUu5Xd8zTiK"
+      "duration_ms": 215653,
+      "name": "Turbo",
+      "url": "https://open.spotify.com/track/3hlgTuy3fa9xQM48rOLofD"
     },
     {
       "added_at": "2026-09-17 22:00:40",
@@ -501,6 +513,46 @@
       "url": "https://open.spotify.com/track/12vfSzaIb3fz94rdkJ33Jl"
     },
     {
+      "added_at": "2026-09-21 12:00:13",
+      "album": {
+        "name": "Feessie",
+        "url": "https://open.spotify.com/album/4dtiKzti1SpG8AIrkNa2KZ"
+      },
+      "artists": [
+        {
+          "name": "Fons Veurink",
+          "url": "https://open.spotify.com/artist/3rBMW23ztdIPx3poh9Z0G0"
+        }
+      ],
+      "duration_ms": 188726,
+      "name": "Feessie",
+      "url": "https://open.spotify.com/track/3ZfJ4YkM03y1KLK5pfqz8o"
+    },
+    {
+      "added_at": "2026-09-17 22:00:40",
+      "album": {
+        "name": "Tony Montana",
+        "url": "https://open.spotify.com/album/3NoVsXS2KNdSsO98EZ0Lkg"
+      },
+      "artists": [
+        {
+          "name": "Ninochello",
+          "url": "https://open.spotify.com/artist/6JdcexCU89cX0E9tDtTcsF"
+        },
+        {
+          "name": "Young Ellens",
+          "url": "https://open.spotify.com/artist/0SuC1Z51R9kleDO1pj3Gub"
+        },
+        {
+          "name": "Luca Ferron",
+          "url": "https://open.spotify.com/artist/19AdBUGKGQJk2hyMb8MKG0"
+        }
+      ],
+      "duration_ms": 132000,
+      "name": "Tony Montana",
+      "url": "https://open.spotify.com/track/2ROoZSN30VTNKpAR0TVva2"
+    },
+    {
       "added_at": "2026-09-17 22:00:40",
       "album": {
         "name": "Meet The Orphans",
@@ -537,6 +589,46 @@
       "url": "https://open.spotify.com/track/0niU8VMrQzSNhrmsiLlmeS"
     },
     {
+      "added_at": "2026-09-21 12:00:13",
+      "album": {
+        "name": "Likkie Likkie",
+        "url": "https://open.spotify.com/album/4KEpk6bIGB88xWWPUDnhDo"
+      },
+      "artists": [
+        {
+          "name": "Timothy",
+          "url": "https://open.spotify.com/artist/6v5JdXLpMDlN4PY3kdRQAS"
+        }
+      ],
+      "duration_ms": 151546,
+      "name": "Likkie Likkie",
+      "url": "https://open.spotify.com/track/5OA9135TYIuPvonDP6L52U"
+    },
+    {
+      "added_at": "2026-09-17 22:00:40",
+      "album": {
+        "name": "Free Your Mind",
+        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
+      },
+      "artists": [
+        {
+          "name": "Prospa",
+          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
+        },
+        {
+          "name": "Cloonee",
+          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
+        },
+        {
+          "name": "Sybil",
+          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
+        }
+      ],
+      "duration_ms": 201700,
+      "name": "Free Your Mind",
+      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
+    },
+    {
       "added_at": "2026-09-17 22:00:40",
       "album": {
         "name": "Feestje Op Mijn Graf",
@@ -571,30 +663,6 @@
       "duration_ms": 159500,
       "name": "Just The Way You Are",
       "url": "https://open.spotify.com/track/1LepWHpwtahzEQL0vNjpEt"
-    },
-    {
-      "added_at": "2026-09-17 22:00:40",
-      "album": {
-        "name": "Free Your Mind",
-        "url": "https://open.spotify.com/album/0uo2O3BcYrZJzCnHk0I0BU"
-      },
-      "artists": [
-        {
-          "name": "Prospa",
-          "url": "https://open.spotify.com/artist/6HabM2PUM519iIxervGWSb"
-        },
-        {
-          "name": "Cloonee",
-          "url": "https://open.spotify.com/artist/7MdlXmq2HViAJWo9cf30sR"
-        },
-        {
-          "name": "Sybil",
-          "url": "https://open.spotify.com/artist/1EbIfIjVcauDatNO4vagL1"
-        }
-      ],
-      "duration_ms": 201700,
-      "name": "Free Your Mind",
-      "url": "https://open.spotify.com/track/6TWbY1dq8eYtFiMiGdBlOa"
     },
     {
       "added_at": "2026-09-17 22:00:40",
@@ -763,22 +831,6 @@
       "duration_ms": 222173,
       "name": "Schudden",
       "url": "https://open.spotify.com/track/2E3Vt7fF1tuvnkwc8Pqk7B"
-    },
-    {
-      "added_at": "2026-09-17 22:00:40",
-      "album": {
-        "name": "Ruggengraat",
-        "url": "https://open.spotify.com/album/3zgxV46zAmDeRTCq6dOvaj"
-      },
-      "artists": [
-        {
-          "name": "Nachtdienst",
-          "url": "https://open.spotify.com/artist/3064mDVay7KaKF8TyuD8kw"
-        }
-      ],
-      "duration_ms": 134619,
-      "name": "Ruggengraat",
-      "url": "https://open.spotify.com/track/0bY43tNRq1G03VoWMWIapS"
     },
     {
       "added_at": "2026-09-17 22:00:40",
@@ -1139,22 +1191,6 @@
     {
       "added_at": "2026-09-17 22:00:40",
       "album": {
-        "name": "Stiekem Dansen",
-        "url": "https://open.spotify.com/album/5mAosSoggHR0G5mNXYo1Ci"
-      },
-      "artists": [
-        {
-          "name": "Toontje Lager",
-          "url": "https://open.spotify.com/artist/7isSKzkNHe3Tsmht2ar6Ai"
-        }
-      ],
-      "duration_ms": 214975,
-      "name": "Stiekem Gedanst",
-      "url": "https://open.spotify.com/track/7hIR9M1Gz5COo3UQGfM0sy"
-    },
-    {
-      "added_at": "2026-09-17 22:00:40",
-      "album": {
         "name": "Tot Het Eind Van Mij",
         "url": "https://open.spotify.com/album/5j5NTP6nC9pSNzmxkyaARU"
       },
@@ -1325,6 +1361,22 @@
       "url": "https://open.spotify.com/track/7osE6MJVDWyX9XUVC7Q242"
     },
     {
+      "added_at": "2026-09-21 12:00:13",
+      "album": {
+        "name": "Tropical Nights",
+        "url": "https://open.spotify.com/album/644wQvJItGFNAqbP5CPejq"
+      },
+      "artists": [
+        {
+          "name": "Ren\u00e9 le Blanc",
+          "url": "https://open.spotify.com/artist/44pNYV200BTCAtGuaA8bY8"
+        }
+      ],
+      "duration_ms": 167651,
+      "name": "Tropical Nights",
+      "url": "https://open.spotify.com/track/0f0Hs7X5XYPWNtYXdMQJhq"
+    },
+    {
       "added_at": "2026-09-17 22:00:40",
       "album": {
         "name": "Hart In Brand",
@@ -1343,30 +1395,6 @@
       "duration_ms": 146400,
       "name": "Hart In Brand",
       "url": "https://open.spotify.com/track/30k0WUGuf3QCotkXbxnrOx"
-    },
-    {
-      "added_at": "2026-09-17 22:00:40",
-      "album": {
-        "name": "Play Hard (feat. Ne-Yo & Akon) [New Edit]",
-        "url": "https://open.spotify.com/album/2RjYiccB99aFRJ8C0QxDf7"
-      },
-      "artists": [
-        {
-          "name": "David Guetta",
-          "url": "https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai"
-        },
-        {
-          "name": "Akon",
-          "url": "https://open.spotify.com/artist/0z4gvV4rjIZ9wHck67ucSV"
-        },
-        {
-          "name": "Ne-Yo",
-          "url": "https://open.spotify.com/artist/21E3waRsmPlU7jZsS13rcj"
-        }
-      ],
-      "duration_ms": 208845,
-      "name": "Play Hard (feat. Ne-Yo & Akon) - New Edit",
-      "url": "https://open.spotify.com/track/16Cs9KsHzgunxaEfGrXysG"
     },
     {
       "added_at": "2026-09-17 22:00:40",

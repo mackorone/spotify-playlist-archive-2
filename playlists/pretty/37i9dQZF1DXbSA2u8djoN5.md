@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 
 > Lasă\-te inspirat pe ritmuri de hip\-hop & R'n'B\. Cover: Alduts Sherdley
 
-[Spotify](https://open.spotify.com/user/spotify) - 23,577 likes - 50 songs - 2 hr 25 min
+[Spotify](https://open.spotify.com/user/spotify) - 23,607 likes - 50 songs - 2 hr 25 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -55,8 +55,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DXbSA2u8djoN5.md) - [plain]
 | 45 | [Ani Și Ani La Rând](https://open.spotify.com/track/1QFiWgUF28Gd05gshJgmae) | [Cabron](https://open.spotify.com/artist/0cw3wLz2S9ryZXmL0vWWQF), [Ciresan](https://open.spotify.com/artist/0Mj28B7EnKRpq7SzirqvNy) | [Ani Și Ani La Rând](https://open.spotify.com/album/7lCD0Y24nvG623iKmVIPUV) | 3:20 |
 | 46 | [IBIZA](https://open.spotify.com/track/1wBmizk9qYCjYK8oe7kjdT) | [M.G.L.](https://open.spotify.com/artist/040gmk9Wd9sKXx199imiSM), [Johny Romano](https://open.spotify.com/artist/049DlsIPXRROSgnc8mJeWd) | [HE$OYAM](https://open.spotify.com/album/4qR7ZiEzBEFgNx4EP5ULz2) | 3:03 |
 | 47 | [Auzeam, Gheorghe](https://open.spotify.com/track/1DxP6zSM7lgFhd1bllTk1x) | [Magnat](https://open.spotify.com/artist/3WdvjbFmE73xrtArJxfLKJ), [Feoctist](https://open.spotify.com/artist/4N03JKbnaPn7rsntNg24ql) | [Auzeam, Gheorghe](https://open.spotify.com/album/3xtGoVN6IHFt5JZQbReNsx) | 3:06 |
-| 48 | [Câte pietre ai aruncat](https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Tata Vlad](https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ) | [Câte pietre ai aruncat](https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc) | 2:30 |
-| 49 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
+| 48 | [Copiii Care Am Fost](https://open.spotify.com/track/4mzfGRUi0JxDp4fXdPyVuz) | [Calinacho](https://open.spotify.com/artist/050D4ZE1dXVfLSrQADtEu3), [Bastien](https://open.spotify.com/artist/5LJQcYC7NvCItwZraE7NUS) | [Copiii Care Am Fost](https://open.spotify.com/album/2hH9yLdchCyhiiEKhACBkT) | 2:58 |
+| 49 | [Câte pietre ai aruncat](https://open.spotify.com/track/1K2wJdw9otKH4wwoFCO6DD) | [Daria Lupi](https://open.spotify.com/artist/3aKBCihX2b5tkHe2vzeJvw), [Tata Vlad](https://open.spotify.com/artist/43gmvBpHS4rHUZ1PANytWQ) | [Câte pietre ai aruncat](https://open.spotify.com/album/6G2axtVpnFP3v4OJNgzpLc) | 2:30 |
 | 50 | [Morgana](https://open.spotify.com/track/1AdA4NpknwbWImnnZMrAcq) | [F.Charm](https://open.spotify.com/artist/0g9bClZlYEbEAIzdYw7Q3I) | [Morgana](https://open.spotify.com/album/7rGsaNzNAN4DjjeRRKInj9) | 3:12 |
 
 Snapshot ID: `AAAAAN5SiWmW6o/lmKLpVqYI0MYCUfBu`

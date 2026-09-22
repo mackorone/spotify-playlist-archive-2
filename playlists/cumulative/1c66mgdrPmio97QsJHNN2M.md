@@ -4,7 +4,7 @@
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-2,892 songs - 6 day 8 hr 42 min
+2,897 songs - 6 day 8 hr 54 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -558,6 +558,7 @@
 | [Day Over Night](https://open.spotify.com/track/09zHsEmES1XK4sawUvMzY7) | [Leyhausen](https://open.spotify.com/artist/4A3YHYnYKh3NOEewx8fE8z) | [Day Over Night](https://open.spotify.com/album/7aohC1rvldlwtAlJK6X21c) | 3:08 | 2026-08-07 | 2026-09-09 |
 | [Days Go By](https://open.spotify.com/track/1J1gh4SlZViM3dbI6yksuK) | [REWL](https://open.spotify.com/artist/1jk3vHOzuNEFKUCPIwrswh) | [Days Go By](https://open.spotify.com/album/0GmqvawyGxMLIddFjcmdOs) | 3:00 | 2026-01-01 | 2026-02-03 |
 | [Days Like This](https://open.spotify.com/track/3mf54V3ZB3xPP7HE2AHYJ5) | [Marley Merz](https://open.spotify.com/artist/13DsETisptRjIHLlag0aWM) | [Days Like This](https://open.spotify.com/album/1ZLTlOONPvIc6lWTh5qZ5z) | 1:49 | 2026-01-21 | 2026-02-24 |
+| [days like this](https://open.spotify.com/track/26XminzCDpGt5DUHEGZSMA) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [lindsay elizabeth](https://open.spotify.com/artist/0Xkg8TCB0Xfqypnz559jat) | [days like this](https://open.spotify.com/album/4fxU7HuDwMiVlbHPL9afNU) | 2:20 | 2026-09-21 |  |
 | [Dead Planet](https://open.spotify.com/track/5Aa7JWBD51tQlWerC1rC6c) | [Harrison Jay](https://open.spotify.com/artist/1IP2JOtGneRPhNZEJTo4TG) | [Dead Planet](https://open.spotify.com/album/2MKebxGUIdwIFW8czsJjeZ) | 2:15 | 2026-04-29 | 2026-05-30 |
 | [DEAD WEIGHT](https://open.spotify.com/track/2rY6U6EFbybjYFTXuu9kLN) | [Mainframe Bird](https://open.spotify.com/artist/7zrn1RRWZSyZM6SgNmcrWt) | [WHERE THE RIVER FLOWS](https://open.spotify.com/album/4zcmnA4Yzq7HVSoyydBfta) | 3:23 | 2026-06-13 | 2026-07-16 |
 | [Deadline](https://open.spotify.com/track/7m4aYJfsylAXqh7ubCBAYu) | [Dylan Debiase](https://open.spotify.com/artist/31BVM6BLaoSP8ad00i8m25) | [Deadline](https://open.spotify.com/album/0F90Lm1VW1f7YNQ0BRHwQd) | 2:54 | 2026-06-30 | 2026-08-01 |
@@ -835,6 +836,7 @@
 | [Find Me a River \- Act II](https://open.spotify.com/track/5M6cIqrl4Dj7yBH2uJJbTq) | [SubPersona](https://open.spotify.com/artist/6bEyGSxcQRd8JUrCsq22aD) | [Find Me a River \- Act II](https://open.spotify.com/album/081Er3iarpbckLdrmvCUcY) | 2:40 | 2026-02-23 | 2026-03-26 |
 | [Fine](https://open.spotify.com/track/6sOAG3OgB3YqPc35nJ9huM) | [CR33PIA](https://open.spotify.com/artist/0qyYZ1jH3kYBdWUpJNGukG) | [Fine](https://open.spotify.com/album/19iIit9dUd3hKf45HAVjJ0) | 2:52 | 2026-01-02 | 2026-02-03 |
 | [Fingertips](https://open.spotify.com/track/2dgWPDkKgTl7po9V9VjS3x) | [Twilson](https://open.spotify.com/artist/5v1RcPb9SdjfYYheQDxftF), [Diva Bhatia](https://open.spotify.com/artist/0mmB0Mg1FLVSuttqwykBZw) | [Fingertips](https://open.spotify.com/album/69pUgZqvpQFRCKsRfKTKvg) | 3:02 | 2025-11-28 | 2025-12-31 |
+| [Firefly](https://open.spotify.com/track/4l0d56ufLXArLf4x6dZQBN) | [DrMz\*](https://open.spotify.com/artist/7JWZHEwvEhiuvq9dpy53vj) | [Firefly](https://open.spotify.com/album/21PrkYhBVvw3PIVXGKOhoj) | 2:49 | 2026-09-21 |  |
 | [Fireplace\(s\)](https://open.spotify.com/track/3gDr1UkSmUd0RxptxsIwEc) | [Christien](https://open.spotify.com/artist/57PjjATXH3rAHAKI5uOeti) | [Fireplace\(s\)](https://open.spotify.com/album/2LiBUXPaHABZn7obIrhCxd) | 3:32 | 2026-09-18 |  |
 | [First Drink I Swear](https://open.spotify.com/track/2xl7DqSCDQUWK0HZyj0tVU) | [Broke&Ben](https://open.spotify.com/artist/379YaRIEFGmyUmfvhM0Ig6) | [First Drink I Swear](https://open.spotify.com/album/2SQFGBE51pIRDa49viAXBE) | 3:21 | 2026-05-18 | 2026-06-08 |
 | [First Light Flow](https://open.spotify.com/track/5vwMcIO5RHjT1vFcungrin) | [Moonlight Chorizo](https://open.spotify.com/artist/0cCNixvpASdvsL7l1678xt) | [Breakfast Beats, Vol\. 2.5](https://open.spotify.com/album/4Dv6fwxPKfmT31RaIkmjYq) | 3:39 | 2025-11-14 | 2025-12-15 |
@@ -871,6 +873,7 @@
 | [Forest Light Way](https://open.spotify.com/track/5dlcMhb5SRQ0FTANx8RYmr) | [Hiroki Ikawa](https://open.spotify.com/artist/7wTNjkaDZolWLXGeq3aGCB), [Yasuyuki Shimizu](https://open.spotify.com/artist/4aZXvPPAdVNH03dnQT6jQ4) | [Forest Light Way](https://open.spotify.com/album/2NlMajHSlroUv36jLjMVCk) | 3:35 | 2026-07-09 | 2026-08-11 |
 | [Forest Retreat](https://open.spotify.com/track/2AE08iJEPxvbrbFfgJPKvn) | [Max Brent](https://open.spotify.com/artist/28HcPK3qm9fkG1ub39P2fG) | [Forest Retreat](https://open.spotify.com/album/6uSfX5lVWYX1IwprduRZWW) | 2:47 | 2026-09-07 |  |
 | [Forever Falling for You](https://open.spotify.com/track/3CyyUvpDlu89HZVsUghlj4) | [Harrison Jay](https://open.spotify.com/artist/1IP2JOtGneRPhNZEJTo4TG), [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Forever Falling for You](https://open.spotify.com/album/6secmtblrcxaNuXhA7Wlrx) | 2:11 | 2026-07-13 | 2026-08-15 |
+| [Forever Falling for You \- Stripped Version](https://open.spotify.com/track/224fC2Q52qIALsPvB3LB6e) | [Harrison Jay](https://open.spotify.com/artist/1IP2JOtGneRPhNZEJTo4TG), [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Forever Falling for You \(Stripped Version\)](https://open.spotify.com/album/1xrNRpX5PwTb12eHotrEGA) | 2:14 | 2026-09-21 |  |
 | [forever in love](https://open.spotify.com/track/1m10LyCR3p57Bgeop58y7A) | [florida 2003](https://open.spotify.com/artist/6hd1PpkLk5BEmBoRIJrBGY) | [forever in love](https://open.spotify.com/album/1EzbuyUw7MnUrBYvwa5JeI) | 3:28 | 2026-04-16 | 2026-05-18 |
 | [Forever in Your Smile](https://open.spotify.com/track/1pi3jSLTWdXTR9NudWKaLd) | [Dany Sound](https://open.spotify.com/artist/3Hv2GlPTMZkKpgUiQNzoxX) | [Forever in Your Smile](https://open.spotify.com/album/6UiZGOk164ot1qva6owkI9) | 2:40 | 2026-01-27 | 2026-02-28 |
 | [Forever Is Long](https://open.spotify.com/track/7tfI6aIhu9nv1lKdrbBPJp) | [Freakstorm](https://open.spotify.com/artist/2JTsOoSYJ4TFSR8hLwfn8j) | [Dust Of Glory](https://open.spotify.com/album/5OBHybQPFVyfj5xK8LlHKV) | 2:51 | 2025-12-15 | 2026-01-17 |
@@ -2274,6 +2277,7 @@
 | [Staklena kruna \- Radio Edit](https://open.spotify.com/track/6DblWwa2kbikfxSatSPT7p) | [Ghost track Srb](https://open.spotify.com/artist/6cNatKIPuvLRew7sM1X2iD) | [Staklena kruna \(Radio Edit\)](https://open.spotify.com/album/39cjrrlZu0c8MWYKKWVM2W) | 2:17 | 2026-04-24 | 2026-05-25 |
 | [Stand on Your Promises](https://open.spotify.com/track/2uQB4L626QWKxXEoJ3XTEV) | [Kate Stanford](https://open.spotify.com/artist/4BVwjeV33enWxFuRSwMNpk) | [Stand on Your Promises](https://open.spotify.com/album/1Gwva06uiQGVrHdv3kNnCf) | 3:17 | 2025-11-11 | 2025-12-13 |
 | [Star Sibling](https://open.spotify.com/track/3u9HcnzxRL7PZcxc0VUMRb) | [Absorbingpersona](https://open.spotify.com/artist/19vhCix1RBZqXR9PqKZXAo) | [Star Sibling](https://open.spotify.com/album/3YUkHFSyk3XilT0plsZKG7) | 2:46 | 2026-05-19 | 2026-06-20 |
+| [STARS](https://open.spotify.com/track/0vKynRZaxj6wgOjCdQLdPD) | [AS](https://open.spotify.com/artist/1IiSlUyc2h1vCsqsuEkaqB) | [STARS](https://open.spotify.com/album/2NIiP6SgDoBMHqqJi2dwaY) | 2:49 | 2026-09-21 |  |
 | [Stars](https://open.spotify.com/track/25qXhrnJxeqmxpUrsBWcJA) | [Iraya92](https://open.spotify.com/artist/4eX7FgAZmYVJAX4LGY7XTY) | [Stars](https://open.spotify.com/album/0REcrthWxBjEf4A0V2arPO) | 3:28 | 2026-07-06 | 2026-08-08 |
 | [Start without you](https://open.spotify.com/track/53S62rqHsM7BTg8cwtmykB) | [Mary Lou](https://open.spotify.com/artist/1Ndek8c7r79Cuhq7QfeIuW) | [Start without you](https://open.spotify.com/album/6zVzrRjS3ABsIujGrO7D4H) | 3:04 | 2026-09-04 |  |
 | [Static](https://open.spotify.com/track/1kzWMsaMGoQEg0I4xSNHsB) | [Jay's Expedition](https://open.spotify.com/artist/0E2u7IhwC4nHDtw6oG29jW) | [Static](https://open.spotify.com/album/6D0XQtNHp3uWmCIVjFMZgz) | 2:45 | 2025-11-24 | 2025-12-25 |
@@ -2689,6 +2693,7 @@
 | [Wasting Away](https://open.spotify.com/track/0Ur4LARoYNns0qTMMOIVQZ) | [Zach Riley](https://open.spotify.com/artist/64yNKXnjBeL1YKkn4K8KWV) | [Wasting Away](https://open.spotify.com/album/38bUdvbgSMsrLnd57q8yuT) | 2:44 | 2026-06-17 | 2026-07-19 |
 | [Wasting My Time](https://open.spotify.com/track/09b5kXOEsKtC42qD5AJNcA) | [Guest](https://open.spotify.com/artist/5F8rALP4C5MXmNeLgOtJ0t) | [Wasting My Time](https://open.spotify.com/album/0V4qWW8XqxvGrEFttE3Bus) | 2:52 | 2025-12-27 | 2026-01-28 |
 | [Watch me now](https://open.spotify.com/track/3IwGgRGKUZdUH27rcnYYrU) | [DEM7](https://open.spotify.com/artist/1cRsOMnhRg27AWRj6ksOOy) | [Watch me now](https://open.spotify.com/album/2rpeBbbNrlabhngYUHD2Ln) | 3:05 | 2026-03-13 | 2026-04-14 |
+| [Watch Me Win It](https://open.spotify.com/track/0f8HpeeOJ0AaTXCW0nv02t) | [Queen Anne](https://open.spotify.com/artist/2BpcZGwpd2C95Nn109Fj7x) | [Watch Me Win It](https://open.spotify.com/album/6Ztn2v2DKhIN0LsaXNV9yi) | 2:31 | 2026-09-21 |  |
 | [WAVE RAIDER](https://open.spotify.com/track/5xJcH5Z8tKd9FLPOE0sQGM) | [DJBigShot](https://open.spotify.com/artist/4W9avyG0YorkIUIadsZ1w8) | [UNFILTERED](https://open.spotify.com/album/0c1hFwlzsb83Wk1ky78686) | 2:39 | 2026-09-08 |  |
 | [Way more than dollars](https://open.spotify.com/track/2gaFfeDdwBd9Y37cur5QmG) | [AVNG](https://open.spotify.com/artist/6FSNhma3n201aAiYBH0Hoo) | [Way more than dollars](https://open.spotify.com/album/4tuQRbMufO3yw7szvqees1) | 3:21 | 2026-05-12 | 2026-06-15 |
 | [Way Up](https://open.spotify.com/track/4V1HRIgeqM3M1Y7hJpefeq) | [Pedro Scott](https://open.spotify.com/artist/6JvANZh6cdEh6TzeNfRM5d) | [Way Up](https://open.spotify.com/album/1CxLGQz44rDMJA1lg22fbP) | 2:30 | 2026-06-11 | 2026-07-13 |

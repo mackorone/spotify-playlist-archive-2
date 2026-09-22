@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 
 > 👉 Free Pitch : audiartist.com \| Insta : stardust\_from\_sun \| Email : musiqueslibre2droit@gmail.com \| 🎸 Rock &\#x27;n Blues delivers Blues Rock, Classic Rock, Southern Rock, Hard Rock, R&amp;B &amp; Soul\. Soulful rhythms, timeless riffs, and electrifying energy\. Follow now and vibe with the best of rock and blues!
 
-[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,902 likes - 101 songs - 6 hr 36 min
+[Audiartist](https://open.spotify.com/user/3165go7ysisqitdjcbt5rhjwno24) - 1,904 likes - 105 songs - 6 hr 50 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -109,5 +109,9 @@ pretty - [cumulative](/playlists/cumulative/0HYrV7yGRYO79oVRILcrqr.md) - [plain]
 | 99 | [How I Roll](https://open.spotify.com/track/32paNGShaeE7O5USN1pC4M) | [Static Revolver](https://open.spotify.com/artist/6eTSkEyLMFwPXksXdUmwVi) | [How I Roll](https://open.spotify.com/album/03LIKVBmtQtxm2u0wxO35n) | 3:41 |
 | 100 | [WARNING](https://open.spotify.com/track/1XAymPdjKe5BhcRblNExsX) | [Brandon Bing](https://open.spotify.com/artist/3iZ4FWTAjIRDhQI9El9dlR) | [WARNING](https://open.spotify.com/album/3pwrFb9IheebnknYXKNxCI) | 3:05 |
 | 101 | [And I](https://open.spotify.com/track/5voWbOW9uiUxyY8Dc5SzPk) | [Ramblings of Mad Men](https://open.spotify.com/artist/75HRhhpgS05x2R6YVGihyv) | [And I](https://open.spotify.com/album/3TMufmZ9VQZbJf5oTyNsdC) | 4:41 |
+| 102 | [RORSCHACH \(Album Edit\)](https://open.spotify.com/track/2kkEMle30gPNJhGDZJ1Vb0) | [Cameron Ravenhill](https://open.spotify.com/artist/6GStRwlHVeTkevfVsq3BUE) | [GROWING PAINS](https://open.spotify.com/album/5HBooct6GfHTclXwSw9FnO) | 4:00 |
+| 103 | [Electric Man](https://open.spotify.com/track/7LZJg1Fp65cIGGffXk1Tdp) | [Dagga Rocks](https://open.spotify.com/artist/0ecQj5R7x9OcjxJfZxtum6) | [Electric Man](https://open.spotify.com/album/0X21UCO3pbocXs6kZ01aFg) | 4:21 |
+| 104 | [Change It](https://open.spotify.com/track/35zASnos8CRA1WkVHdY0us) | [Uncle Ryano](https://open.spotify.com/artist/5rqp4K9umZGDvEqwGIDWWT), [Brei Carter](https://open.spotify.com/artist/1ODtqEHcWPmq8LlAOWAu7i), [Megan Urby](https://open.spotify.com/artist/0DpGBXTwcqB2PfuF1lQFuo), [Leif Shively Band](https://open.spotify.com/artist/78WGTxMhFRCPmZsaV02Fc8) | [Change It](https://open.spotify.com/album/5OyqYRNiss4SlC9qQMLYCq) | 3:26 |
+| 105 | [Não Venha Sem Avisar](https://open.spotify.com/track/3HXJlragpVyaqhoAjtWwoJ) | [Thiago Martins](https://open.spotify.com/artist/6iAjoerYEBM94s2kYhdWof) | [Não Venha Sem Avisar](https://open.spotify.com/album/2EUidS1qnhNkBZzAvPTPgs) | 2:51 |
 
-Snapshot ID: `AAAMkij0m/sP8XoH8Pagxo/h+o665Ej6`
+Snapshot ID: `AAAMliUcVZim+LIV79r+VdPI/s0m9bn6`

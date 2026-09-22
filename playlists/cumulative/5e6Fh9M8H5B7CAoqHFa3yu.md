@@ -4,7 +4,7 @@
 
 > forever young  playlist Spotify, our Music Free, playlist funny, playlist everytime, Playlist to Study, crisvola playlist spotify
 
-2,569 songs - 6 day 6 hr 31 min
+2,572 songs - 6 day 6 hr 41 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -110,6 +110,7 @@
 | [All These Things That I've Done](https://open.spotify.com/track/1GBUtYkXgKZc0XXi2zpvho) | [The Killers](https://open.spotify.com/artist/0C0XlULifJtAgn6ZNCW2eu) | [Hot Fuss](https://open.spotify.com/album/1ujPmNlTMp41h4EG6OOBGR) | 5:01 | 2024-03-04 |  |
 | [All Things Bright and Beautiful \(Royal Oak\)](https://open.spotify.com/track/40dM0ula2c15gwEdGJtCwm) | [Helkemar](https://open.spotify.com/artist/1a6v8eZD7UBHDpYjYd0eQl) | [All Things Bright and Beautiful \(Royal Oak\)](https://open.spotify.com/album/59SZkS83sfEHpMuVsGq1I4) | 2:20 | 2026-03-13 |  |
 | [All You Need](https://open.spotify.com/track/40dp3G8s6UDUZEpU91eQFj) | [Bri Toria](https://open.spotify.com/artist/2IFQhbtInhmThd1x2WDMOb) | [Eye Am Isis](https://open.spotify.com/album/0J1HQjgTZvZqKpDsUIYFya) | 1:45 | 2025-10-07 |  |
+| [Alles Okay](https://open.spotify.com/track/04WUfyc04zu4Jvn39b0OUZ) | [Jamin](https://open.spotify.com/artist/2ENKqKJLJHCtan7k5y7s69) | [Alles Okay](https://open.spotify.com/album/3E7Opp5ENpxtjyJbBsEOVp) | 2:26 | 2026-09-21 |  |
 | [Almighty Dub](https://open.spotify.com/track/7HLsetwqaowJBbkESkV0pU) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc) | [Almighty Thunder](https://open.spotify.com/album/2ajdSwm0kLmcQ0n4f1haA7) | 4:38 | 2024-03-25 |  |
 | [Almighty Thunder](https://open.spotify.com/track/7FFhwQnE5tyRpO0xF7MpNg) | [High & I](https://open.spotify.com/artist/1RepiCceWk7ifIps3wwxOc) | [Almighty Thunder](https://open.spotify.com/album/2ajdSwm0kLmcQ0n4f1haA7) | 4:40 | 2024-03-25 |  |
 | [Almonds](https://open.spotify.com/track/2D7JDaHR4Puir8CIyV5hN8) | [isobel](https://open.spotify.com/artist/6m5hsSoDJX5LFsRFUk9DVx) | [Almonds](https://open.spotify.com/album/6sRNguxPEZaJ2QxP3BN8GY) | 2:43 | 2025-10-15 |  |
@@ -1191,6 +1192,7 @@
 | [Knee High Dub](https://open.spotify.com/track/5mvmflxGIgUuvZBoMabTT2) | [Rob Bong](https://open.spotify.com/artist/0Ksf9lLTrsKkpABj1VxhIK) | [Knee High Dub EP](https://open.spotify.com/album/3MCpFX0jvp88rQsyWE8nmi) | 6:26 | 2024-11-17 |  |
 | [Knives](https://open.spotify.com/track/6yBQZLGvfjYMWFVitDfEAd) | [Hunting Owls](https://open.spotify.com/artist/321swUj9aARDAAFRa439j4) | [The Never List Soundtrack](https://open.spotify.com/album/7DYbbxzzg6SCmy6pEl5N6N) | 2:53 | 2025-05-25 |  |
 | [Kompass im Sturm](https://open.spotify.com/track/5s4WTSpokHJVZInTBfZ7g6) | [ArneB](https://open.spotify.com/artist/76B0pivpAcHhfEeIRpaZL7) | [Sonntagsrevolte](https://open.spotify.com/album/068kde1sjRgpCAuJHbIMUB) | 3:22 | 2025-08-03 |  |
+| [Kopf aus, Herz an](https://open.spotify.com/track/7qVf3mM1KTblvIvBHH5x4K) | [Claudius Mach](https://open.spotify.com/artist/0pwgyvU4c9jWbzHuP0yPUY) | [Kopf aus, Herz an](https://open.spotify.com/album/5nnFUHq6srcKC86jXRm6Zm) | 4:08 | 2026-09-21 |  |
 | [Kosaca](https://open.spotify.com/track/0KNrHMOCtPgItg8Vzbfjrc) | [Pancha](https://open.spotify.com/artist/1NCyHLIUPd2MDVtExBx1Xw), [Lucy Patané](https://open.spotify.com/artist/0ocA2OjaXb4KyFX7zJE2Ld) | [Kosaca](https://open.spotify.com/album/1aXT1CwSCzqqsBIo7YqHpM) | 2:57 | 2025-05-12 |  |
 | [Krazy Fly](https://open.spotify.com/track/63fTDMggPOZl8KFLWFE3en) | [Zelda Mab](https://open.spotify.com/artist/3tRheBiXq85niJZd1pN84U) | [Krazy Fly](https://open.spotify.com/album/0nw5Lh2StuDmifWAH4dWxt) | 3:54 | 2025-04-12 |  |
 | [Kupala](https://open.spotify.com/track/6xwL8pXyUL09NTTV6OOya2) | [Halera](https://open.spotify.com/artist/7xPzY5l1ihZL1BgCxHIFvJ) | [Insamnia](https://open.spotify.com/album/1WSKcxdUuJQtYjLxp4UlTL) | 3:14 | 2025-10-09 |  |
@@ -1893,7 +1895,7 @@
 | [Santana Quantum](https://open.spotify.com/track/3HtuepZ8z6COrZmwn4UKO6) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/7E9a09zDefBbgF5WFVnHKq) | 4:54 | 2025-06-16 |  |
 | [Santana Quantum](https://open.spotify.com/track/7o4JNk3y6kUJOCCKiWbNWe) | [DJ Zonattão](https://open.spotify.com/artist/2cxBEPRf0CjXSaD7DiuLtT) | [Dj Zonattão & Liquid Souza Band](https://open.spotify.com/album/5AsykpYGStzUL2uPQwiRtA) | 4:54 | 2026-03-16 |  |
 | [Santorini at Night](https://open.spotify.com/track/1bafg2GBWeQ0ygCxgC4SlH) | [Valenti & Blanda](https://open.spotify.com/artist/6GuZuT7ZlXzoVKypl18jmW) | [Santorini at Night](https://open.spotify.com/album/6w9P7SnVwGaul47z3kJsGK) | 3:19 | 2026-08-30 |  |
-| [Sardinia](https://open.spotify.com/track/5cLDgmrRqxhW27wKEf30G9) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn) | [Sardinia](https://open.spotify.com/album/6kNKTlgBDM7FWeTUtDnNM9) | 2:47 | 2026-07-09 |  |
+| [Sardinia](https://open.spotify.com/track/5cLDgmrRqxhW27wKEf30G9) | [Meditherranea](https://open.spotify.com/artist/6ILfkoygH2iQwWrR0H0gHe), [Prova MI](https://open.spotify.com/artist/0owRwclwgsWS9XiRSFcdFb), [José Sechi.](https://open.spotify.com/artist/7iIoRgouvtDqZ8BplUUShj), [001 BEST](https://open.spotify.com/artist/6TRNSImrwuzqY01nZHXiSn), [Meditherranea & Prova MI & José Sechi\. & 001 BEST](https://open.spotify.com/artist/6zNtfoNKlu5QCWehjOth3a) | [Sardinia](https://open.spotify.com/album/6kNKTlgBDM7FWeTUtDnNM9) | 2:47 | 2026-07-09 |  |
 | [Satta Dub](https://open.spotify.com/track/0VUmktag6J6iZ5edAoM44D) | [The Manor](https://open.spotify.com/artist/6gdW8jo9cNfl6up39hTKOp), [Madi Simmons](https://open.spotify.com/artist/3SQE1dVGhld5RE9qJHaFD1) | [Feel The Vibration](https://open.spotify.com/album/4dBIS62UE1vl1CqDmqGtzD) | 4:12 | 2024-06-30 |  |
 | [Saturday \(HIIT 30\-10\)](https://open.spotify.com/track/4pBJxEFPlwEOvjvwjcyQPy) | [THE TRAINER](https://open.spotify.com/artist/4B1n4QNr8vjhUnTgERok66) | [80s DISCO HIIT DANCE WORKOUT](https://open.spotify.com/album/6opKcFjmEz92mrvuMdD1c8) | 1:20 | 2024-03-08 |  |
 | [Save me from this dimension](https://open.spotify.com/track/3tUFw2DOlINiAqwon49BiX) | [ROD](https://open.spotify.com/artist/1wIBNTCu23Gplflrlv2Cqt) | [Save me from this dimension](https://open.spotify.com/album/0t7vaJnDeApfYgktBtWuyf) | 4:26 | 2025-01-22 |  |
@@ -2171,6 +2173,7 @@
 | [The 9\-to\-5 Nirvana](https://open.spotify.com/track/07y7u9DNnZnqBJiCz34d6r) | [m78 Studio](https://open.spotify.com/artist/1j1lkQcJeOW7GgaxBQsbCT) | [The Great Void's Echo](https://open.spotify.com/album/4iBlc0gBxnwL8xNHNTZXf5) | 2:39 | 2026-04-23 |  |
 | [The 900 Number](https://open.spotify.com/track/5u3eiRm1CNn80OFO1xNDpN) | [45 King](https://open.spotify.com/artist/5g41NCgZ70kV1xXoSYoL8f) | [The 900 Number](https://open.spotify.com/album/7EpaXaZTojhl7DQuqILcHz) | 3:34 | 2026-02-07 |  |
 | [The Alien](https://open.spotify.com/track/5eKfpH2dQ7FltCqb7LWEGJ) | [Manchester Orchestra](https://open.spotify.com/artist/5wFXmYsg3KFJ8BDsQudJ4f) | [A Black Mile To The Surface](https://open.spotify.com/album/4hruYceqit29o6m4arpAql) | 5:28 | 2026-04-12 |  |
+| [The Big House](https://open.spotify.com/track/1horHByM1axyVe7mQmgI9I) | [Alessandro Liccardo](https://open.spotify.com/artist/256CcBQU76vRqixx59jpgN) | [The Venosa Session](https://open.spotify.com/album/5zQmf6E0PQ5Ln7hPOUZUkT) | 3:47 | 2026-09-21 |  |
 | [The Bridge Is Over \(Red Alert Version\)](https://open.spotify.com/track/3ncD9UOwfdZWGE5oaY0xcY) | [Boogie Down Productions](https://open.spotify.com/artist/4toEjJSZu1rbfX2hfVdZFA) | [Criminal Minded \(Deluxe\)](https://open.spotify.com/album/3PkWTXolCR9RkJrKiAsf55) | 3:24 | 2026-02-07 |  |
 | [The Charlie Song](https://open.spotify.com/track/01wjH8ORTll0A52useIlp5) | [One MInd Music](https://open.spotify.com/artist/1PoRHqbNOaCn3fGlnxWnZv), [Apolline](https://open.spotify.com/artist/776fUz9VPpXm6Xg1cQjtpC) | [The Charlie Song](https://open.spotify.com/album/6QMv1mpzswQYopYNTuum6z) | 2:50 | 2025-06-09 |  |
 | [The Club](https://open.spotify.com/track/2IXMBNDc6Zd4sNIy1yeASH) | [The Multides](https://open.spotify.com/artist/0EBOhu8N5TYGpwRIWe1oQG) | [Dark Skies](https://open.spotify.com/album/6msdDrMHEmyWefzameIaQC) | 3:43 | 2025-12-14 |  |

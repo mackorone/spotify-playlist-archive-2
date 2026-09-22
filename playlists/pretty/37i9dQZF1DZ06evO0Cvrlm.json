@@ -1,12 +1,12 @@
 {
   "description": "This is George Michael. The essential tracks, all in one playlist.",
-  "num_followers": 598663,
+  "num_followers": 598682,
   "original_name": "This Is George Michael",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAAB42V2aEX3yA85Qa30PwmoB",
+  "snapshot_id": "aq8iAAAAAADwEbHbjNt55otir+tONNZ7",
   "tracks": [
     {
       "added_at": null,
@@ -672,9 +672,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 195957,
-      "name": "Feeling Good - Live",
-      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
+      "duration_ms": 309821,
+      "name": "Through - Live",
+      "url": "https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee"
     },
     {
       "added_at": null,
@@ -711,30 +711,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Always",
-        "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
+        "name": "Older (Expanded Edition)",
+        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
       },
       "artists": [
         {
-          "name": "Waze & Odyssey",
-          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
-        },
-        {
           "name": "George Michael",
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        },
-        {
-          "name": "Mary J. Blige",
-          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
-        },
-        {
-          "name": "Tommy Theo",
-          "url": "https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B"
         }
       ],
-      "duration_ms": 186300,
-      "name": "Always",
-      "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
+      "duration_ms": 276418,
+      "name": "You Know That I Want To",
+      "url": "https://open.spotify.com/track/2Xf3MCSo4McLjbCtAAsxcB"
     },
     {
       "added_at": null,
@@ -748,9 +736,9 @@
           "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
         }
       ],
-      "duration_ms": 309821,
-      "name": "Through - Live",
-      "url": "https://open.spotify.com/track/6B8vO1gto58lY9cPVNLRee"
+      "duration_ms": 195957,
+      "name": "Feeling Good - Live",
+      "url": "https://open.spotify.com/track/4J40h1He466xC8PNnGvFAY"
     },
     {
       "added_at": null,
@@ -787,6 +775,34 @@
     {
       "added_at": null,
       "album": {
+        "name": "Always",
+        "url": "https://open.spotify.com/album/1QiwBjsjHlnfFSKumhozCu"
+      },
+      "artists": [
+        {
+          "name": "Waze & Odyssey",
+          "url": "https://open.spotify.com/artist/0D9AnJzAnYyu1kfJFQDY5d"
+        },
+        {
+          "name": "George Michael",
+          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
+        },
+        {
+          "name": "Mary J. Blige",
+          "url": "https://open.spotify.com/artist/1XkoF8ryArs86LZvFOkbyr"
+        },
+        {
+          "name": "Tommy Theo",
+          "url": "https://open.spotify.com/artist/3FIKR274tI6Xk3uw9Dqu5B"
+        }
+      ],
+      "duration_ms": 186300,
+      "name": "Always",
+      "url": "https://open.spotify.com/track/1BHyi5tS67s00jDSlGQXg4"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "An Easier Affair",
         "url": "https://open.spotify.com/album/3CAdviwYifBp5ZyjTb8hnk"
       },
@@ -799,22 +815,6 @@
       "duration_ms": 277000,
       "name": "An Easier Affair",
       "url": "https://open.spotify.com/track/4233YFbNFeo3QXBdgIpg1F"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Older (Expanded Edition)",
-        "url": "https://open.spotify.com/album/6vrPb5bne9kMaRB22t1Rmn"
-      },
-      "artists": [
-        {
-          "name": "George Michael",
-          "url": "https://open.spotify.com/artist/19ra5tSw0tWufvUp8GotLo"
-        }
-      ],
-      "duration_ms": 276418,
-      "name": "You Know That I Want To",
-      "url": "https://open.spotify.com/track/2Xf3MCSo4McLjbCtAAsxcB"
     },
     {
       "added_at": null,

@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWWvvyNmW9V9a.md) - [plain]
 
 > we got it covered
 
-[Spotify](https://open.spotify.com/user/spotify) - 2,083,037 likes - 106 songs - 5 hr 33 min
+[Spotify](https://open.spotify.com/user/spotify) - 2,082,960 likes - 106 songs - 5 hr 33 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|

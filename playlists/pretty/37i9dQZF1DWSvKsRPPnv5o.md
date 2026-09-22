@@ -4,13 +4,13 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 
 > Holdin' it down for the westside\. Cover: AZ Chike
 
-[Spotify](https://open.spotify.com/user/spotify) - 755,244 likes - 107 songs - 4 hr 58 min
+[Spotify](https://open.spotify.com/user/spotify) - 755,178 likes - 107 songs - 4 hr 58 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
 | 1 | [God's Favorite](https://open.spotify.com/track/7fBStyA2XOfFpDhrlzdvIs) | [AZ Chike](https://open.spotify.com/artist/6fqjJNsLs7g6F3PXy01Xnw) | [No Rest for The Wicked](https://open.spotify.com/album/0YlI85OJE1zupVO6kNXVeL) | 3:08 |
 | 2 | [EARNËD IT](https://open.spotify.com/track/0F0uSTQGmuF1JxmEtbZFxw) | [Yeat](https://open.spotify.com/artist/3qiHUAX7zY4Qnjx8TNUzVx) | [COCOON](https://open.spotify.com/album/53KzNbmfx39uABoUZ3VGNL) | 2:31 |
-| 3 | [A Good Day](https://open.spotify.com/track/4CrnExkcZkg6Aek113hAWl) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6sMIP5Lvb3Is5dwkzOawtm) | 2:31 |
+| 3 | [A Good Day](https://open.spotify.com/track/0KDgGJf3DYJNzXDIlmRtxJ) | [Anderson .Paak](https://open.spotify.com/artist/3jK9MiCrA42lLAdMGUZpwa), [Cordae](https://open.spotify.com/artist/0huGjMyP507tBCARyzSkrv) | [A Good Day](https://open.spotify.com/album/6CvhDt8XclejVEWC19b2lX) | 2:31 |
 | 4 | [Officer Blackman](https://open.spotify.com/track/7MaBbSrilprZz8Xp7vifg0) | [The Drop \- Cast](https://open.spotify.com/artist/6F1LvXB89e750kJnqZdIr3), [Buddy](https://open.spotify.com/artist/6PDLwWvgYNMfBRLqC1h5cJ) | [Rydah \(From "The Drop: A Snowfall Saga"\)](https://open.spotify.com/album/4bP9H04X9fRg9yLFcArTlD) | 1:49 |
 | 5 | [500 Horses](https://open.spotify.com/track/6hUZIxN8u8VhaEYeEcudXQ) | [Nipsey Hussle](https://open.spotify.com/artist/0EeQBlQJFiAfJeVN2vT9s0), [Bino Rideaux](https://open.spotify.com/artist/3pcerTbRFAPvWWtAfySFWB) | [PROLIFIC](https://open.spotify.com/album/6NlDs4YE9oo1Gd2R6dcTxJ) | 3:48 |
 | 6 | [How To Pray](https://open.spotify.com/track/5M8eNQ6wLYPT9D60hbcxVU) | [Dahi](https://open.spotify.com/artist/5BozIJTTNCufaZpjhy2der), [Kendrick Lamar](https://open.spotify.com/artist/2YZyLoL8N0Wb9xBt1NhZWg), [Amber Mark](https://open.spotify.com/artist/0tbeZu9lv8YEKSQ9tZSslu) | [Black Boy \(Alternative\)](https://open.spotify.com/album/6DMwCmRxKHQtbCtGcFqljG) | 2:47 |
@@ -116,4 +116,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWSvKsRPPnv5o.md) - [plain]
 | 106 | [Brrrrrdadumdum](https://open.spotify.com/track/6kWcOCCyJ2Pk3tLNBbxHw1) | [Joe Moses](https://open.spotify.com/artist/54QA4zjZDOyaLN8bVthBjP) | [LA Nights](https://open.spotify.com/album/2zDpiDdNVACJmuA2G18EdH) | 2:40 |
 | 107 | [All That](https://open.spotify.com/track/4UTHol8qqLAJrdzNYgZwDA) | [Ab\-Soul](https://open.spotify.com/artist/0g9vAlRPK9Gt3FKCekk4TW), [JasonMartin](https://open.spotify.com/artist/0399oiMcmbOzzsYQDNYqxn), [Thirsty P](https://open.spotify.com/artist/4nOxgd1o86NLuiVwYQ9qMx) | [All That](https://open.spotify.com/album/0LPNDHInvkvdxtnUL0XMn2) | 3:01 |
 
-Snapshot ID: `AAAAAJl3SAkRsdtdS+/Mj97ledeYQs+D`
+Snapshot ID: `AAAAACzFK1KtRwnuO174IM1lYrNdcZUK`

@@ -1,6 +1,6 @@
 {
   "description": "Sommer f\u00fcr immer!",
-  "num_followers": 439393,
+  "num_followers": 439367,
   "original_name": "Sommerklassiker",
   "owner": {
     "name": "Spotify",
@@ -775,6 +775,22 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
+        "name": "Double Wide",
+        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
+      },
+      "artists": [
+        {
+          "name": "Uncle Kracker",
+          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
+        }
+      ],
+      "duration_ms": 218439,
+      "name": "Follow Me",
+      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
         "name": "Breaking Me",
         "url": "https://open.spotify.com/album/3nBQlhUvErkw8DVpF47WAn"
       },
@@ -791,22 +807,6 @@
       "duration_ms": 166793,
       "name": "Breaking Me",
       "url": "https://open.spotify.com/track/3H7ihDc1dqLriiWXwsc2po"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
-        "name": "Double Wide",
-        "url": "https://open.spotify.com/album/0Fc7RtFLwtDz5pD622l7kQ"
-      },
-      "artists": [
-        {
-          "name": "Uncle Kracker",
-          "url": "https://open.spotify.com/artist/2DnqqkzzDKm3vAoyHtn8So"
-        }
-      ],
-      "duration_ms": 218439,
-      "name": "Follow Me",
-      "url": "https://open.spotify.com/track/4KoecuyOpZaNFZ0UqVsllc"
     },
     {
       "added_at": "2025-07-08 16:22:28",
@@ -1055,22 +1055,6 @@
     {
       "added_at": "2025-07-08 16:22:28",
       "album": {
-        "name": "Mar De Colores (Versi\u00f3n Extendida)",
-        "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
-      },
-      "artists": [
-        {
-          "name": "Alvaro Soler",
-          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
-        }
-      ],
-      "duration_ms": 204666,
-      "name": "La Cintura",
-      "url": "https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI"
-    },
-    {
-      "added_at": "2025-07-08 16:22:28",
-      "album": {
         "name": "Fireball (feat. John Ryan)",
         "url": "https://open.spotify.com/album/30gRxZHDWRrAMdnF0TcMSX"
       },
@@ -1087,6 +1071,22 @@
       "duration_ms": 235012,
       "name": "Fireball (feat. John Ryan)",
       "url": "https://open.spotify.com/track/49eplIHvgCLY8HAgcaWrUb"
+    },
+    {
+      "added_at": "2025-07-08 16:22:28",
+      "album": {
+        "name": "Mar De Colores (Versi\u00f3n Extendida)",
+        "url": "https://open.spotify.com/album/66IXFg1AukADK41CP0xANr"
+      },
+      "artists": [
+        {
+          "name": "Alvaro Soler",
+          "url": "https://open.spotify.com/artist/2urF8dgLVfDjunO0pcHUEe"
+        }
+      ],
+      "duration_ms": 204666,
+      "name": "La Cintura",
+      "url": "https://open.spotify.com/track/6VUJQqyeQhAZHkQbSDqLtI"
     },
     {
       "added_at": "2025-07-08 16:22:28",

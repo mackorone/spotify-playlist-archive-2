@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 
 > FREE SUBMISSIONS \- Got unreleased music in 2025 or like to hear unsigned artists?  30 days free promotion for new music\. Just submit via my linktree: https:&\#x2F;&\#x2F;linktr.ee&\#x2F;Anythings.Possible.Music
 
-[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,962 likes - 217 songs - 11 hr 35 min
+[Anything's Possible Music](https://open.spotify.com/user/ashdown1981) - 5,978 likes - 222 songs - 11 hr 48 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -225,5 +225,10 @@ pretty - [cumulative](/playlists/cumulative/1c66mgdrPmio97QsJHNN2M.md) - [plain]
 | 215 | [Letter to God](https://open.spotify.com/track/6dwHAKKtoPSWj5im7ojzIu) | [Dhixxo](https://open.spotify.com/artist/2OhHSxyxyIwjDNk5H8983a) | [Letter to God](https://open.spotify.com/album/0iGnnNCm6feL9XtxO5sVZx) | 2:21 |
 | 216 | [Forgotten Feelings](https://open.spotify.com/track/5ttaFygpb9JDeAJDOEbSON) | [O.a.G.](https://open.spotify.com/artist/6bTy0eTAe3oX7kxsErjfvN) | [Forgotten Feelings](https://open.spotify.com/album/6PeqD7wdIYkjaItFA6dIhe) | 3:35 |
 | 217 | [Shine Your Light](https://open.spotify.com/track/5vBTfGSVuiHyGjPCH21yZC) | [Tiny Rock Star Kids](https://open.spotify.com/artist/20gSn3431k1lhQLMHgWfsO) | [Shine Your Light](https://open.spotify.com/album/5Hg07qsAbxSvi0oiOMrJpw) | 3:15 |
+| 218 | [Forever Falling for You \- Stripped Version](https://open.spotify.com/track/224fC2Q52qIALsPvB3LB6e) | [Harrison Jay](https://open.spotify.com/artist/1IP2JOtGneRPhNZEJTo4TG), [Obsidian Rose](https://open.spotify.com/artist/7iVNdqLpRus9I1Z5zGCbmx) | [Forever Falling for You \(Stripped Version\)](https://open.spotify.com/album/1xrNRpX5PwTb12eHotrEGA) | 2:14 |
+| 219 | [Watch Me Win It](https://open.spotify.com/track/0f8HpeeOJ0AaTXCW0nv02t) | [Queen Anne](https://open.spotify.com/artist/2BpcZGwpd2C95Nn109Fj7x) | [Watch Me Win It](https://open.spotify.com/album/6Ztn2v2DKhIN0LsaXNV9yi) | 2:31 |
+| 220 | [Firefly](https://open.spotify.com/track/4l0d56ufLXArLf4x6dZQBN) | [DrMz\*](https://open.spotify.com/artist/7JWZHEwvEhiuvq9dpy53vj) | [Firefly](https://open.spotify.com/album/21PrkYhBVvw3PIVXGKOhoj) | 2:49 |
+| 221 | [days like this](https://open.spotify.com/track/26XminzCDpGt5DUHEGZSMA) | [Rogue](https://open.spotify.com/artist/64161WbeOZvWb8N5RmxgFQ), [lindsay elizabeth](https://open.spotify.com/artist/0Xkg8TCB0Xfqypnz559jat) | [days like this](https://open.spotify.com/album/4fxU7HuDwMiVlbHPL9afNU) | 2:20 |
+| 222 | [STARS](https://open.spotify.com/track/0vKynRZaxj6wgOjCdQLdPD) | [AS](https://open.spotify.com/artist/1IiSlUyc2h1vCsqsuEkaqB) | [STARS](https://open.spotify.com/album/2NIiP6SgDoBMHqqJi2dwaY) | 2:49 |
 
-Snapshot ID: `AAA8eEbX9rOH2SJERTFnt8ScsvKvpHuH`
+Snapshot ID: `AAA8fVKS67F1RtzYwDhUbsTvzB6XtsLC`

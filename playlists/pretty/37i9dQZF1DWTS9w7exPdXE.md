@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 
 > Nederpop en Volkspop meezingers.
 
-[Spotify](https://open.spotify.com/user/spotify) - 173,016 likes - 100 songs - 5 hr 16 min
+[Spotify](https://open.spotify.com/user/spotify) - 173,046 likes - 100 songs - 5 hr 16 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -41,8 +41,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 31 | [Rosanne](https://open.spotify.com/track/2O3kmOZ0N8A3PtBW4DWqFm) | [Nick & Simon](https://open.spotify.com/artist/3jBNLmJDEBWEoidTT7l1Jn) | [Vandaag](https://open.spotify.com/album/6Y5EgKqE0tlU8smzFCHoCa) | 2:39 |
 | 32 | [Lekkerding](https://open.spotify.com/track/5sTqteIZDJJtx04xHBTbBD) | [John West](https://open.spotify.com/artist/1gNkL43OfyaGHUThYKYvMy), [Lange Frans](https://open.spotify.com/artist/5I2d294l90n7EMWVNUZczE) | [Jouw Glimlach Op Je Mond](https://open.spotify.com/album/19DQ4S9J7ga2NczygNpl58) | 3:43 |
 | 33 | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/track/0le8EcVp4x1JjMhwRKIOVi) | [BLØF](https://open.spotify.com/artist/0KQX2wRHV2VLjuscfJFNxB), [Geike](https://open.spotify.com/artist/5mkzx9Hq5mYTx1LZ0CUGiP) | [Zoutelande \(feat\. Geike\)](https://open.spotify.com/album/0lijSwwkPwnIv3NOnwL5O0) | 3:43 |
-| 34 | [Nooit Meer Voorbij](https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Nooit Meer Voorbij](https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx) | 2:30 |
-| 35 | [Gevangenis](https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Gevangenis](https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM) | 2:44 |
+| 34 | [Gevangenis](https://open.spotify.com/track/0bFpdupc6OTPxSjrRvN8IL) | [Robert van Hemert](https://open.spotify.com/artist/79TBgzOALTo3GOcKl1Rn8k) | [Gevangenis](https://open.spotify.com/album/7lCZYmgMOeMlgV4h5rpvDM) | 2:44 |
+| 35 | [Nooit Meer Voorbij](https://open.spotify.com/track/2uWEvrQazVzAwzDIXE8ZhC) | [Afro Bros](https://open.spotify.com/artist/3wtMPMvPtiFylbnNXF6CAj), [Billy Dans](https://open.spotify.com/artist/1eCYPvT9MAbK5htIBYQ4dW), [Brace](https://open.spotify.com/artist/2eHZ1Vns5972fZNdhnjopG) | [Nooit Meer Voorbij](https://open.spotify.com/album/3xA8HtZ3rmd8hnETY8YWDx) | 2:30 |
 | 36 | [Jij Liet Me Vallen](https://open.spotify.com/track/2Q01M0X7yJeLfGg4ebLORO) | [Tino Martin](https://open.spotify.com/artist/0iVHnv2bQN5iee8J6iCVO4) | [Jij Liet Me Vallen](https://open.spotify.com/album/01rLwvJx2VUjcsppCnWNDd) | 3:38 |
 | 37 | [Ik Spaar Geen Centen](https://open.spotify.com/track/6h6hSyEABJubJdCn7Y8hEE) | [Mart Hoogkamer](https://open.spotify.com/artist/6jhluGyF1XVIlfPol7oXqa) | [Ik Spaar Geen Centen](https://open.spotify.com/album/1zKEr4hhGjFSaeXeO450RS) | 2:46 |
 | 38 | [Hobbelen](https://open.spotify.com/track/5qFZg7EFHunqo78JB088TG) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Hobbelen](https://open.spotify.com/album/0smgsY2IM7sKhlOcH64Csg) | 3:03 |
@@ -71,8 +71,8 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWTS9w7exPdXE.md) - [plain]
 | 61 | [Voel Je Dan Niet?](https://open.spotify.com/track/2Y8Ln46xwFJYKOsUltJjkA) | [Milan Milano](https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS) | [Voel Je Dan Niet?](https://open.spotify.com/album/5Jl8vDC0r5ITwmIsQJbQOK) | 3:00 |
 | 62 | [Mij Niet Bellen](https://open.spotify.com/track/3fo32mcaj3m4dTui2li6dw) | [RAYMON HERMANS](https://open.spotify.com/artist/74nbJZq9ryws0hx2U2CE8G) | [Mij Niet Bellen](https://open.spotify.com/album/31ZdyOkYPnn8ySorGmEv4q) | 2:41 |
 | 63 | [Een bom](https://open.spotify.com/track/5lBqbc17iKcxxGIuHvN0Oj) | [Henk Dissel](https://open.spotify.com/artist/1xD7SAwt2tLdg9wGPbCkO2) | [Een bom](https://open.spotify.com/album/09P95sPQcFfaKuQdaqVD9C) | 3:24 |
-| 64 | [Kom Allemaal Maar In Mijn Armen](https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Wesly Bronkhorst](https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc) | 3:21 |
-| 65 | [We Dansen Op De Mambo](https://open.spotify.com/track/3guMKFst9U0pYgBClN4nGK) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [We Dansen Op De Mambo](https://open.spotify.com/album/3rJ62KNdaZ5iozmVKVN2R3) | 2:46 |
+| 64 | [We Dansen Op De Mambo](https://open.spotify.com/track/3guMKFst9U0pYgBClN4nGK) | [Django Wagner](https://open.spotify.com/artist/2onmCslqboJDdDoCo7ZPd2) | [We Dansen Op De Mambo](https://open.spotify.com/album/3rJ62KNdaZ5iozmVKVN2R3) | 2:46 |
+| 65 | [Kom Allemaal Maar In Mijn Armen](https://open.spotify.com/track/3iNkLhEIArpx8TcQjDO4bR) | [Wesly Bronkhorst](https://open.spotify.com/artist/6PBYhsdRwm1WbQC4GvNiCp) | [Wesly Bronkhorst](https://open.spotify.com/album/4Sl1xNSD1vGfoseOGy9wYc) | 3:21 |
 | 66 | [Hoe Zou Je Doen](https://open.spotify.com/track/0FBitHFoxy7y5k7Oy81RIs) | [Milan Milano](https://open.spotify.com/artist/3wpbnuD8rmBA06MXEiqhpS) | [Hoe Zou Je Doen](https://open.spotify.com/album/3YP7ZFDcW1V1B7frKSd6qj) | 3:04 |
 | 67 | [In Elk Stadje](https://open.spotify.com/track/5IKHFjUy4bfoewKfqEptxg) | [Ferry de Lits](https://open.spotify.com/artist/1OJJQqCxS45X02Nw8k0Izm) | [In Elk Stadje](https://open.spotify.com/album/4zlkF9UTxf5vJU8z0aWY3x) | 3:30 |
 | 68 | [Een Blik In Jouw Ogen](https://open.spotify.com/track/3WO8p20Km1ZSxrA2no6zjB) | [Wesley Klein](https://open.spotify.com/artist/1FrJF7ob2Mov0nd7Kv7Lz2) | [Een Blik In Jouw Ogen](https://open.spotify.com/album/79V2WA8KNNs2dL9qhojN5i) | 3:04 |

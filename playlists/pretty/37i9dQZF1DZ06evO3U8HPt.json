@@ -1,12 +1,12 @@
 {
   "description": "This is Ella Langley. The essential tracks, all in one playlist.",
-  "num_followers": 144734,
+  "num_followers": 145063,
   "original_name": "This Is Ella Langley",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABO0hqAArsEvmBRsa62JioV",
+  "snapshot_id": "aq8iAAAAAABw0pAIHAxU9RLGHTpgTFzh",
   "tracks": [
     {
       "added_at": null,
@@ -271,22 +271,18 @@
     {
       "added_at": null,
       "album": {
-        "name": "Excuse The Mess",
-        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
+        "name": "Wish I Didn't Know Now",
+        "url": "https://open.spotify.com/album/0rPZBEzGKgrKRXC8wSwViY"
       },
       "artists": [
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
-        },
-        {
-          "name": "Koe Wetzel",
-          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 163973,
-      "name": "That's Why We Fight (feat. Koe Wetzel)",
-      "url": "https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg"
+      "duration_ms": 266760,
+      "name": "Wish I Didn't Know Now",
+      "url": "https://open.spotify.com/track/1EOJEjcoc4UhOmb9sFOQgU"
     },
     {
       "added_at": null,
@@ -307,18 +303,22 @@
     {
       "added_at": null,
       "album": {
-        "name": "Wish I Didn't Know Now",
-        "url": "https://open.spotify.com/album/0rPZBEzGKgrKRXC8wSwViY"
+        "name": "Excuse The Mess",
+        "url": "https://open.spotify.com/album/16GDL2iCmBKN5tmf3pbiZ7"
       },
       "artists": [
         {
           "name": "Ella Langley",
           "url": "https://open.spotify.com/artist/6BRxQ8cD3eqnrVj6WKDok8"
+        },
+        {
+          "name": "Koe Wetzel",
+          "url": "https://open.spotify.com/artist/1Tie3AZgLQZqYEp8Fv4zOZ"
         }
       ],
-      "duration_ms": 266760,
-      "name": "Wish I Didn't Know Now",
-      "url": "https://open.spotify.com/track/1EOJEjcoc4UhOmb9sFOQgU"
+      "duration_ms": 163973,
+      "name": "That's Why We Fight (feat. Koe Wetzel)",
+      "url": "https://open.spotify.com/track/5yIOCX7Mnu8WFvil2NGLRg"
     },
     {
       "added_at": null,

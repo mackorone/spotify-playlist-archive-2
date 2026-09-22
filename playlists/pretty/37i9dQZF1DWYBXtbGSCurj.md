@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 
 > O Trap brasileiro puro ouro, pra você garimpar lançamentos\. Foto: Gapes, Barsi
 
-[Spotify](https://open.spotify.com/user/spotify) - 608,560 likes - 75 songs - 3 hr 15 min
+[Spotify](https://open.spotify.com/user/spotify) - 608,498 likes - 75 songs - 3 hr 15 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -15,7 +15,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DWYBXtbGSCurj.md) - [plain]
 | 5 | [NEY NO BARCELONA](https://open.spotify.com/track/2zlHRa29HFO8dnNpdWea0D) | [G.A](https://open.spotify.com/artist/4yFJeWVY6IZLc5KcYCvtBE), [Niink](https://open.spotify.com/artist/6MQ7E3HXWR3Djm3miL79mn), [Nagalli](https://open.spotify.com/artist/6TPJK8tv3AKKSsw0lENTQk), [Supernova Ent](https://open.spotify.com/artist/3prRKGJz16RRMRSIM97nHw) | [NEY NO BARCELONA \(STUDIO\#10\)](https://open.spotify.com/album/0lsy2PbOVIC4fXeBvQ2bYq) | 2:36 |
 | 6 | [CRISTAIS](https://open.spotify.com/track/2hjR3lf8SO7rHfQ8ftg7p3) | [Stef](https://open.spotify.com/artist/1EMUjMLPKwHMe4tgY2szbF) | [MEMÓRIAS DE MARTE](https://open.spotify.com/album/2Z4zE2Ac3enQJvTVux7JGk) | 2:08 |
 | 7 | [Dona Estela 2](https://open.spotify.com/track/4S0Nga8imClHEgUwy9WT7s) | [Aklipe44](https://open.spotify.com/artist/3Sdc0xD6vTtMz4j6z5tFtz), [LH CHUCRO](https://open.spotify.com/artist/3Im4m6K9QvxFBUJIOttSuH), [prodmelo!](https://open.spotify.com/artist/2g6DsXyUDFSxE6ld7WzAFZ), [prod by bila](https://open.spotify.com/artist/5nbCda7BnnfQC3V1Ft5ic2) | [Dona Estela 2](https://open.spotify.com/album/7ojOfkNp6tWC6JKU8RtWQX) | 2:34 |
-| 8 | [Mas existe um lugar pt.2](https://open.spotify.com/track/4xAQsUtivNV4EvzMEV29qW) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [DJ Costela](https://open.spotify.com/artist/45YHWNn0knoX6a04C3PP7s) | [Mas existe um lugar pt.2](https://open.spotify.com/album/6lvxNDk3RWIsqN5SAGGYTn) | 3:17 |
+| 8 | [Mas existe um lugar pt.2](https://open.spotify.com/track/4xAQsUtivNV4EvzMEV29qW) | [Cryzin](https://open.spotify.com/artist/6EU3PugukCcYs0n3JuXjrH), [DJ Costela](https://open.spotify.com/artist/45YHWNn0knoX6a04C3PP7s), [Paola Spena](https://open.spotify.com/artist/2qjS6yiDEeaxWrl9YgMDNX) | [Mas existe um lugar pt.2](https://open.spotify.com/album/6lvxNDk3RWIsqN5SAGGYTn) | 3:17 |
 | 9 | [HEY!](https://open.spotify.com/track/4Ga0nbC7A3Vllz4Tiib5UU) | [kouth](https://open.spotify.com/artist/2KMezb1S2TuirqGVavMXqY), [Necroez](https://open.spotify.com/artist/6mfg3kWylXNvu6hwrPEcTZ) | [HEY!](https://open.spotify.com/album/1SItss2l4S3kGDwWP5hMyt) | 2:18 |
 | 10 | [Ramé](https://open.spotify.com/track/2KIveVSpXcrKwmTZ3NoAfA) | [Leal](https://open.spotify.com/artist/1BnymgkHol5jSOx3KBkBjs), [MX Records](https://open.spotify.com/artist/2SmF9aooF9FNl6F3xkEQsE), [Se7e Beats](https://open.spotify.com/artist/5FazMHHPkgx22z62GEdemR) | [VENI VIDI VICI](https://open.spotify.com/album/1QhE6KZaYxAk5Sk9q0BeT5) | 2:02 |
 | 11 | [Burberry](https://open.spotify.com/track/7ua0E8uKCFN1TsWc9opt2u) | [LX](https://open.spotify.com/artist/2Mpz3shu5Ud330kOoJFYpF), [akao.47](https://open.spotify.com/artist/28lnuiU2tScvRMesfbeHMh), [aknine9shawty](https://open.spotify.com/artist/6cOFvudPRQRxUpILJpHTyt), [wav.isaac](https://open.spotify.com/artist/6lejqAAmk3AoEgCgjyTPiC) | [Cicatrizes, Vol\. 1](https://open.spotify.com/album/45zIzL6soJ5yT8jv3CIXpl) | 2:55 |

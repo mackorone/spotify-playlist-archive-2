@@ -1,15 +1,15 @@
 {
   "description": "Hot Hits \u2013 st\u00f6rsta och b\u00e4sta hitsen just nu!",
-  "num_followers": 842921,
+  "num_followers": 842863,
   "original_name": "Hot Hits Sweden",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "AAAAAON3mF4uND0lSNW7YSjBZF1GywKL",
+  "snapshot_id": "AAAAAMoWgooYi8h331+wfQJSIWmLda06",
   "tracks": [
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "funny feeling",
         "url": "https://open.spotify.com/album/0jDeDHlr4rJduEYTa2zKsI"
@@ -25,7 +25,7 @@
       "url": "https://open.spotify.com/track/4qvR1iPYj6XZKtJnpcSELd"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Happiness Is So Sad",
         "url": "https://open.spotify.com/album/4WLLacwBaBRtV0qOzpFPMW"
@@ -45,7 +45,7 @@
       "url": "https://open.spotify.com/track/5Vz9XUiw2emOIRLobTMEkD"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Vem du \u00e4n \u00e4r",
         "url": "https://open.spotify.com/album/5ErLUOWuqlTFRPMeYx9FCF"
@@ -61,7 +61,7 @@
       "url": "https://open.spotify.com/track/1q0wUKp7z4PahhgYe1Db5P"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Azalea",
         "url": "https://open.spotify.com/album/1eTgGT1hadTFKHsAIF2g7W"
@@ -77,7 +77,7 @@
       "url": "https://open.spotify.com/track/0Dkp8CfJx2xSEaIuX8F2hx"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Highway to Heaven",
         "url": "https://open.spotify.com/album/4WXSyC7wKpLZ49I8Io73Hr"
@@ -93,7 +93,59 @@
       "url": "https://open.spotify.com/track/4z1ex5e2r3hyY9Qd43afdm"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
+      "album": {
+        "name": "Boston",
+        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
+      },
+      "artists": [
+        {
+          "name": "STELLA LEFTY",
+          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
+        }
+      ],
+      "duration_ms": 170859,
+      "name": "Boston",
+      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
+    },
+    {
+      "added_at": "2026-09-21 07:51:31",
+      "album": {
+        "name": "waste my time",
+        "url": "https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI"
+      },
+      "artists": [
+        {
+          "name": "Benjamin Ingrosso",
+          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
+        }
+      ],
+      "duration_ms": 212333,
+      "name": "waste my time",
+      "url": "https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy"
+    },
+    {
+      "added_at": "2026-09-21 07:51:31",
+      "album": {
+        "name": "T\u00e4nk om",
+        "url": "https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db"
+      },
+      "artists": [
+        {
+          "name": "Victor Leksell",
+          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
+        },
+        {
+          "name": "Molly Sand\u00e9n",
+          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
+        }
+      ],
+      "duration_ms": 170500,
+      "name": "T\u00e4nk om",
+      "url": "https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0"
+    },
+    {
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Tomma glas (feat. Molly Sand\u00e9n & Dante)",
         "url": "https://open.spotify.com/album/2zSpEzpWaPkCjjFLXtM1JP"
@@ -117,59 +169,7 @@
       "url": "https://open.spotify.com/track/6XBKxNfb7kmxoGXyicHYHz"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
-      "album": {
-        "name": "waste my time",
-        "url": "https://open.spotify.com/album/5ePyXmFNZNEmKfzuFBCTtI"
-      },
-      "artists": [
-        {
-          "name": "Benjamin Ingrosso",
-          "url": "https://open.spotify.com/artist/7jEEE187pVG6InOxn03oA5"
-        }
-      ],
-      "duration_ms": 212333,
-      "name": "waste my time",
-      "url": "https://open.spotify.com/track/2xSllS4AsXs2AjbKhtQuFy"
-    },
-    {
-      "added_at": "2026-09-17 22:01:21",
-      "album": {
-        "name": "Boston",
-        "url": "https://open.spotify.com/album/4YLIRb8DdBTXbgHiFLicH2"
-      },
-      "artists": [
-        {
-          "name": "STELLA LEFTY",
-          "url": "https://open.spotify.com/artist/6hp2uD84OrQ3u3ukmTjLz2"
-        }
-      ],
-      "duration_ms": 170859,
-      "name": "Boston",
-      "url": "https://open.spotify.com/track/36idurZmYRjJ56KQ8JD9bN"
-    },
-    {
-      "added_at": "2026-09-17 22:01:21",
-      "album": {
-        "name": "T\u00e4nk om",
-        "url": "https://open.spotify.com/album/7sg1PdX4NcgI8AFMWfR3db"
-      },
-      "artists": [
-        {
-          "name": "Victor Leksell",
-          "url": "https://open.spotify.com/artist/6RJXSfbIkEMoCJ8GAg2dVO"
-        },
-        {
-          "name": "Molly Sand\u00e9n",
-          "url": "https://open.spotify.com/artist/0NRMzT05nsc8mTm4iUvuHY"
-        }
-      ],
-      "duration_ms": 170500,
-      "name": "T\u00e4nk om",
-      "url": "https://open.spotify.com/track/1HUiVQFHxfb3ZYoFletQV0"
-    },
-    {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Dai Dai",
         "url": "https://open.spotify.com/album/2eeufspLkAubwTJfOGSrI8"
@@ -189,7 +189,7 @@
       "url": "https://open.spotify.com/track/0kosUz0jePvjiz4ctmR6wL"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Visitor",
         "url": "https://open.spotify.com/album/1Aye7tEOHfJ3hDJIeJFggF"
@@ -205,7 +205,7 @@
       "url": "https://open.spotify.com/track/7ujApz6iFP3PmKIDGcaGbe"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Fel p\u00e5 dig",
         "url": "https://open.spotify.com/album/4dVOq4Bs0pF1VqnQZcEUiA"
@@ -225,7 +225,7 @@
       "url": "https://open.spotify.com/track/4UGJVXMoSyTUl61OdVJ3N0"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "\u00c4r det h\u00e4r det \u00e4r party",
         "url": "https://open.spotify.com/album/5f6dKBzjWA6S1anxk4wW58"
@@ -241,7 +241,7 @@
       "url": "https://open.spotify.com/track/3LUv3ZP70kKfDx9ui4mF2f"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Animal (on the dance floor)",
         "url": "https://open.spotify.com/album/19T0bG3OXAXTePmYZCVK9Z"
@@ -257,7 +257,7 @@
       "url": "https://open.spotify.com/track/0ZdppjPgr8yoNS1xbfqjtG"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Atom",
         "url": "https://open.spotify.com/album/2PH7ApIbAdLECzTi0iX5yB"
@@ -277,7 +277,7 @@
       "url": "https://open.spotify.com/track/24j5pHISv4r7Au45ueiZ8r"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Det ligger n\u00e5t i luften",
         "url": "https://open.spotify.com/album/5CrGCx8NwnkfYlqJv7DXXE"
@@ -293,7 +293,7 @@
       "url": "https://open.spotify.com/track/4okV0gcEkY1BlqQNDvaQCw"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "hate that i made you love me",
         "url": "https://open.spotify.com/album/1x159B5VzbDWAGBik5cr1z"
@@ -309,7 +309,7 @@
       "url": "https://open.spotify.com/track/20jbSiX29FDX4oQxBXyUEi"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Superlim & silvertejp",
         "url": "https://open.spotify.com/album/6jZHjCPFSxmbsCWUo4FxVm"
@@ -329,7 +329,7 @@
       "url": "https://open.spotify.com/track/5lOGSH8HAnmJlvwnVFBa1s"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "SHE DID IT AGAIN (feat. Zara Larsson)",
         "url": "https://open.spotify.com/album/13DVwg7TPRUC8BnLjblv5B"
@@ -349,7 +349,7 @@
       "url": "https://open.spotify.com/track/3jucj0h0tajme6rUEadmWN"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "FEVER DREAM",
         "url": "https://open.spotify.com/album/1tJQ5Mp1XSf7waZzH6KhlJ"
@@ -365,7 +365,7 @@
       "url": "https://open.spotify.com/track/7ogpGbKc4Io6NCU6ydxXwZ"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Bl\u00e5 Minnen",
         "url": "https://open.spotify.com/album/13ByjiUBq9febVMy4Vv1vx"
@@ -385,7 +385,7 @@
       "url": "https://open.spotify.com/track/6ZLneg9qoP8A6y8dviALMf"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Mr. Know It All",
         "url": "https://open.spotify.com/album/6pSMDQxVmzO16b4feWczz1"
@@ -401,7 +401,7 @@
       "url": "https://open.spotify.com/track/2g5kPQh1EexoG8kGZH2nOZ"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "bloodstream",
         "url": "https://open.spotify.com/album/4rndAJfXwOHMEPpMT8rn7Q"
@@ -417,7 +417,7 @@
       "url": "https://open.spotify.com/track/2oWFJJW9d1bIra3zHjR6GO"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Dandelion",
         "url": "https://open.spotify.com/album/6nrtxtgaD9zSYBl9APvOCH"
@@ -433,7 +433,7 @@
       "url": "https://open.spotify.com/track/7scFxt9VhL4FJwuPSfRlfN"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "360",
         "url": "https://open.spotify.com/album/7bjLLZrVTfWp0RrYfWhfNy"
@@ -457,7 +457,7 @@
       "url": "https://open.spotify.com/track/1qSKSqfJ3eLWeSEb9phekc"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "L'undertaker Part.1",
         "url": "https://open.spotify.com/album/5hgB3YhDFqOPsEd9WnWanj"
@@ -473,7 +473,7 @@
       "url": "https://open.spotify.com/track/3Vac8kKIqOTCEE3nuaIcec"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Withness",
         "url": "https://open.spotify.com/album/4q72fmveNOwffTj4hJ07Zo"
@@ -493,7 +493,7 @@
       "url": "https://open.spotify.com/track/5zEcbencrcP0p5Z8508vWz"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Ain't In LA",
         "url": "https://open.spotify.com/album/3qGInqGfOePTekb0y7AZ4s"
@@ -509,7 +509,7 @@
       "url": "https://open.spotify.com/track/02HyFYmpzt02VJ8k0CqxKj"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Hurricane",
         "url": "https://open.spotify.com/album/3hEjufLp0R2YfqS6cWvCdO"
@@ -525,7 +525,7 @@
       "url": "https://open.spotify.com/track/4rXHS9bOSDLYMABNzl9CaK"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "The Life of a Showgirl",
         "url": "https://open.spotify.com/album/1W57oNaAkGObOQKBTxg4e9"
@@ -541,7 +541,7 @@
       "url": "https://open.spotify.com/track/31TXxq8gfgYyrYClnYY48m"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Higher Calling",
         "url": "https://open.spotify.com/album/6GfIlRYwl488VlI6eekvtx"
@@ -561,7 +561,7 @@
       "url": "https://open.spotify.com/track/50e8Mxn4TxgDKCDNZ2UY9j"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Magnetic / Addicted To Your Love",
         "url": "https://open.spotify.com/album/5spP5OwikL076tVBuw7gb8"
@@ -577,7 +577,7 @@
       "url": "https://open.spotify.com/track/4hFDFmMnSYZ32ssqNUOCjt"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "iloveitiloveitiloveit",
         "url": "https://open.spotify.com/album/6XxrC3tz3EuqoW5RMbYzaF"
@@ -593,7 +593,7 @@
       "url": "https://open.spotify.com/track/5IMpnpD0tQVcqWlVIgtAtV"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Viva L\u2019Amor",
         "url": "https://open.spotify.com/album/4b0SCc4EWD8oAJmkpo0wr7"
@@ -609,7 +609,7 @@
       "url": "https://open.spotify.com/track/7AfJuBQaZQxmKDofbP73TT"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Deadbeat",
         "url": "https://open.spotify.com/album/5WulAOx9ilWy1h8UGZ1gkI"
@@ -625,7 +625,7 @@
       "url": "https://open.spotify.com/track/7bxaFZ1O3cHkgLKMsdC3xR"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "PRIMA",
         "url": "https://open.spotify.com/album/2yDFVH9CeOHt0sc9eI0aBs"
@@ -641,7 +641,7 @@
       "url": "https://open.spotify.com/track/70cHKK8bHAfJrOGVnfRG9J"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "N\u00e4r vi gr\u00e4ver guld i USA - Spotify Singles",
         "url": "https://open.spotify.com/album/7pH41TuSykueUvJElnq0go"
@@ -665,7 +665,7 @@
       "url": "https://open.spotify.com/track/3vKjA3z6VhX5A6kppUOkHV"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Stateside + Zara Larsson",
         "url": "https://open.spotify.com/album/553gwPPa6VUWikljMiQyGM"
@@ -685,7 +685,7 @@
       "url": "https://open.spotify.com/track/7tM3yPeSBxnIIQlkz22vId"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "My System",
         "url": "https://open.spotify.com/album/3vEbSE1WfltM5peuucqYU0"
@@ -701,7 +701,7 @@
       "url": "https://open.spotify.com/track/1XmLPHkuv95o5NUodggzfv"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Self Aware",
         "url": "https://open.spotify.com/album/7Cdqksm4yTfiq0EfKPa86M"
@@ -717,7 +717,7 @@
       "url": "https://open.spotify.com/track/4qW3BbQAwZsrnu8a3ZRdyT"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Svagare \u00e4n jag",
         "url": "https://open.spotify.com/album/1G4oPYw6MmSYJH04bBIdtr"
@@ -733,7 +733,7 @@
       "url": "https://open.spotify.com/track/5xsHQu1SXYS6DYOJwIWhSC"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "SWAG",
         "url": "https://open.spotify.com/album/5vD5M5VW62LL78Ko8x0CVZ"
@@ -749,7 +749,7 @@
       "url": "https://open.spotify.com/track/5BZsQlgw21vDOAjoqkNgKb"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "WILD",
         "url": "https://open.spotify.com/album/2d0AkZUJV30oIOJAeEyzC6"
@@ -765,7 +765,7 @@
       "url": "https://open.spotify.com/track/6oUUmBcUbZa5O48V5pjgAD"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Fr\u00f6jdo Frido",
         "url": "https://open.spotify.com/album/1hwTLZPs4MKVGad7frWF2e"
@@ -781,7 +781,7 @@
       "url": "https://open.spotify.com/track/05v3imcEyaTpAeWXnuurKt"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "WHERE IS MY HUSBAND!",
         "url": "https://open.spotify.com/album/01sqwTOTrN9gaYQc1rr6Zw"
@@ -797,7 +797,7 @@
       "url": "https://open.spotify.com/track/55lijDD6OAjLFFUHU9tcDm"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Tusen sp\u00e4nn",
         "url": "https://open.spotify.com/album/65IQow1xXrvDc5j1H0DJiL"
@@ -817,7 +817,7 @@
       "url": "https://open.spotify.com/track/01RdEXps15f3VmQMV6OuTM"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Midnight Sun",
         "url": "https://open.spotify.com/album/014U2yqVgeCNqykPGzgyki"
@@ -833,7 +833,7 @@
       "url": "https://open.spotify.com/track/37UCSVSqiPGdR1DijOFyYY"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "I Just Might",
         "url": "https://open.spotify.com/album/2YOfpbW6kCd2XHW2Ln2Uih"
@@ -849,7 +849,7 @@
       "url": "https://open.spotify.com/track/12bYYQaLqHliSXvRIYlq8G"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "DeB\u00cd TiRAR M\u00e1S FOToS",
         "url": "https://open.spotify.com/album/5K79FLRUCSysQnVESLcTdb"
@@ -865,7 +865,7 @@
       "url": "https://open.spotify.com/track/3sK8wGT43QFpWrvNQsrQya"
     },
     {
-      "added_at": "2026-09-17 22:01:21",
+      "added_at": "2026-09-21 07:51:31",
       "album": {
         "name": "Man I Need",
         "url": "https://open.spotify.com/album/0Bv6OJO0L5gcf20DMww54a"

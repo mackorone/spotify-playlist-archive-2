@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 
 > Take a deep breath and relax.
 
-[Spotify](https://open.spotify.com/user/spotify) - 1,012,382 likes - 165 songs - 7 hr 40 min
+[Spotify](https://open.spotify.com/user/spotify) - 1,012,278 likes - 165 songs - 7 hr 40 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -132,7 +132,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX6oU7rbE4ffh.md) - [plain]
 | 122 | [Uncharted Waters](https://open.spotify.com/track/1VwwHEp89LaODgq1C1K9D7) | [Rouge Haven](https://open.spotify.com/artist/7iLEu7Ib4kevZUat8dJkvR) | [Uncharted Waters](https://open.spotify.com/album/7DJuYgnFYv57uofopR1ItU) | 2:46 |
 | 123 | [Glowing Stones](https://open.spotify.com/track/1Wt5GdOAQn6jIE2Z6vskmZ) | [Cosmazul](https://open.spotify.com/artist/4M5wBkrIVuFDwwoBZUm1W2) | [Glowing Stones](https://open.spotify.com/album/6Igm2A5lY3tiXO6X5hySv9) | 2:51 |
 | 124 | [Let Hold](https://open.spotify.com/track/5Ez9MVB548QiSaE8p174Nz) | [Eyelydia](https://open.spotify.com/artist/1NMaigUYKD51IMP9EZZw27) | [Osceola](https://open.spotify.com/album/2rgWavCT6uQSqHuUSztjbE) | 2:30 |
-| 125 | [Levitate](https://open.spotify.com/track/0GRyPs3q2ywZWnUFyc1yUb) | [Ocean Pulse](https://open.spotify.com/artist/6gQD4JqqcAJWvbWObCMCTX) | [Levitate](https://open.spotify.com/album/0zeZuh7s0PugfanmMyWBpN) | 3:16 |
+| 125 | [Levitate](https://open.spotify.com/track/0GRyPs3q2ywZWnUFyc1yUb) | [Ocean Pulse](https://open.spotify.com/artist/02GyXHiqxxpn6adlAJ49O3) | [Levitate](https://open.spotify.com/album/0zeZuh7s0PugfanmMyWBpN) | 3:16 |
 | 126 | [Serene Reflections](https://open.spotify.com/track/0TT2Tzi8mEETCqYZ1ffiHh) | [Eternalistic](https://open.spotify.com/artist/77efGNIP8xtX0iCb5RCHCG) | [Serene Reflections](https://open.spotify.com/album/56qdyXFvkjg9Ja5YByyghv) | 3:09 |
 | 127 | [Interval](https://open.spotify.com/track/5beZ2FfZVWYUfguamVswOD) | [Luminary Night](https://open.spotify.com/artist/1nWniKVaY64039kcA7kfRj) | [Interval](https://open.spotify.com/album/2Lp1JXEQHW4W7uSGteugMY) | 2:28 |
 | 128 | [Waiting for the Day](https://open.spotify.com/track/22B9k7DDhLUp2GJCil8FwM) | [Noctivelle](https://open.spotify.com/artist/78M5cxVaEF6dh65RntlKbq) | [Waiting for the Day](https://open.spotify.com/album/6OOLcpth4ARFCI5egfYbcq) | 2:56 |

@@ -1,12 +1,12 @@
 {
   "description": "This is Marcos Witt. The essential tracks, all in one playlist.",
-  "num_followers": 98648,
+  "num_followers": 98653,
   "original_name": "This Is Marcos Witt",
   "owner": {
     "name": "Spotify",
     "url": "https://open.spotify.com/user/spotify"
   },
-  "snapshot_id": "aq3QgAAAAABf2qVZywcHxjKItS+BRWvl",
+  "snapshot_id": "aq8iAAAAAABsKil8T163kzwCVM7scBFM",
   "tracks": [
     {
       "added_at": null,
@@ -156,9 +156,9 @@
           "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
         }
       ],
-      "duration_ms": 439484,
-      "name": "Enciende Una Luz",
-      "url": "https://open.spotify.com/track/4lTtpXPGs7NAqyQxgtDAct"
+      "duration_ms": 366158,
+      "name": "Escucharte Hablar",
+      "url": "https://open.spotify.com/track/6Ku2awaZo4UZ0TqEfp5plY"
     },
     {
       "added_at": null,
@@ -203,6 +203,38 @@
     {
       "added_at": null,
       "album": {
+        "name": "Tu y Yo",
+        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 236042,
+      "name": "De Gloria en Gloria",
+      "url": "https://open.spotify.com/track/4hJRjBuejum1jizRt1q2bt"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Enciende una Luz",
+        "url": "https://open.spotify.com/album/4feGmOBJgIy4LD7SNt2XAa"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 439484,
+      "name": "Enciende Una Luz",
+      "url": "https://open.spotify.com/track/4lTtpXPGs7NAqyQxgtDAct"
+    },
+    {
+      "added_at": null,
+      "album": {
         "name": "Dios es Bueno (En Vivo)",
         "url": "https://open.spotify.com/album/7MenDLEbG0q3kbykELJeoa"
       },
@@ -219,38 +251,6 @@
       "duration_ms": 325029,
       "name": "En los Montes, En los Valles",
       "url": "https://open.spotify.com/track/5f2PRDxosdBcx2zWgezrab"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Enciende una Luz",
-        "url": "https://open.spotify.com/album/4feGmOBJgIy4LD7SNt2XAa"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 366158,
-      "name": "Escucharte Hablar",
-      "url": "https://open.spotify.com/track/6Ku2awaZo4UZ0TqEfp5plY"
-    },
-    {
-      "added_at": null,
-      "album": {
-        "name": "Tu y Yo",
-        "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 236042,
-      "name": "De Gloria en Gloria",
-      "url": "https://open.spotify.com/track/4hJRjBuejum1jizRt1q2bt"
     },
     {
       "added_at": null,
@@ -871,22 +871,6 @@
     {
       "added_at": null,
       "album": {
-        "name": "Homenaje a Jes\u00fas (En Vivo)",
-        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
-      },
-      "artists": [
-        {
-          "name": "Marcos Witt",
-          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
-        }
-      ],
-      "duration_ms": 406987,
-      "name": "Con Tu sangre",
-      "url": "https://open.spotify.com/track/2EoIy20ie1pADLLfVzGiOZ"
-    },
-    {
-      "added_at": null,
-      "album": {
         "name": "Tu y Yo",
         "url": "https://open.spotify.com/album/69i6c6spdPMcm3NYCFmjnx"
       },
@@ -899,6 +883,22 @@
       "duration_ms": 355552,
       "name": "Cu\u00e1n Bello es el Se\u00f1or",
       "url": "https://open.spotify.com/track/3iJcqcWzfTi5Pkp2or41d9"
+    },
+    {
+      "added_at": null,
+      "album": {
+        "name": "Homenaje a Jes\u00fas (En Vivo)",
+        "url": "https://open.spotify.com/album/0tZHLKTmqIiWnNjOEszm7J"
+      },
+      "artists": [
+        {
+          "name": "Marcos Witt",
+          "url": "https://open.spotify.com/artist/4x7kxyIgzgtrHYDQ8SCzo2"
+        }
+      ],
+      "duration_ms": 406987,
+      "name": "Con Tu sangre",
+      "url": "https://open.spotify.com/track/2EoIy20ie1pADLLfVzGiOZ"
     },
     {
       "added_at": null,

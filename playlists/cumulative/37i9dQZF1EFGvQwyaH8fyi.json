@@ -913,6 +913,28 @@
     },
     {
       "album": {
+        "name": "mainstream sellout",
+        "url": "https://open.spotify.com/album/3sKZHtQoq3tPtkXbT8PJAc"
+      },
+      "artists": [
+        {
+          "name": "mgk",
+          "url": "https://open.spotify.com/artist/6TIYQ3jFPwQSRmorSezPxX"
+        },
+        {
+          "name": "iann dior",
+          "url": "https://open.spotify.com/artist/6ASri4ePR7RlsvIQgWPJpS"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 143204,
+      "name": "fake love don't last (feat. iann dior)",
+      "url": "https://open.spotify.com/track/4UHyrGQCHu0Orh2utUxbNY"
+    },
+    {
+      "album": {
         "name": "FAST",
         "url": "https://open.spotify.com/album/1ZWTlivbZSFkmow0ho97xf"
       },

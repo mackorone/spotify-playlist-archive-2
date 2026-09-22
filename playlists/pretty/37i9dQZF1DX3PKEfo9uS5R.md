@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 
 > Chill house tracks to power your pilates session.
 
-[Spotify](https://open.spotify.com/user/spotify) - 166,628 likes - 125 songs - 5 hr 7 min
+[Spotify](https://open.spotify.com/user/spotify) - 166,698 likes - 125 songs - 5 hr 7 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -134,4 +134,4 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX3PKEfo9uS5R.md) - [plain]
 | 124 | [sundown](https://open.spotify.com/track/793JxLnZphGoLRvoncnjhT) | [moe sizzle](https://open.spotify.com/artist/75YPg1tHKK7NxcFD3te2Lg) | [Sundown](https://open.spotify.com/album/4citJntYFmKucI98xwscZT) | 3:06 |
 | 125 | [Margarita Sunset](https://open.spotify.com/track/5GkA0AyzE3yldb6uxxs87f) | [YORAN](https://open.spotify.com/artist/57jfWnNFwMXYcf7hKJdcWw) | [Margarita Sunset](https://open.spotify.com/album/28IxemFfEUh7qVHDKMmK00) | 2:50 |
 
-Snapshot ID: `AAAAAOxI2xMGy2j4Y6keXpESjW/C+Y2S`
+Snapshot ID: `AAAAALbfeDryZRgxa/XOtVJjR18vXAgY`

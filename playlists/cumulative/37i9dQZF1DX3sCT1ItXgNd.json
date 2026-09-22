@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2023-03-20",
-  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Luis Fonsi.",
+  "description": "Lo mejor del pop en espa\u00f1ol. Foto: Shakira, Maluma.",
   "name": "Pop con \u00d1",
   "tracks": [
     {
@@ -394,7 +394,7 @@
       ],
       "date_added": "2026-07-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 133565,
       "name": "7 RASPAO",
       "url": "https://open.spotify.com/track/0HotYACZDDOJmfc6t1OURQ"
@@ -666,6 +666,28 @@
       "duration_ms": 153564,
       "name": "AGORA",
       "url": "https://open.spotify.com/track/0EVxchTHYIgx618OrpcrdQ"
+    },
+    {
+      "album": {
+        "name": "AGUA",
+        "url": "https://open.spotify.com/album/5Y5rJEiGpeNsSHCEwgKGIF"
+      },
+      "artists": [
+        {
+          "name": "Maluma",
+          "url": "https://open.spotify.com/artist/1r4hJ1h58CWwUQe3MxPuau"
+        },
+        {
+          "name": "Shakira",
+          "url": "https://open.spotify.com/artist/0EmeFodog0BfCgMzAIvKQp"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 191107,
+      "name": "AGUA",
+      "url": "https://open.spotify.com/track/5UIyNcyxW33PXKyf86GJW9"
     },
     {
       "album": {
@@ -2733,6 +2755,28 @@
     },
     {
       "album": {
+        "name": "El Cuatro",
+        "url": "https://open.spotify.com/album/0rdMbD2CFL8gS6p2RrUJnm"
+      },
+      "artists": [
+        {
+          "name": "Pablo L\u00f3pez",
+          "url": "https://open.spotify.com/artist/4uyqaioPEdClDxU6zvYlAZ"
+        },
+        {
+          "name": "Lola Indigo",
+          "url": "https://open.spotify.com/artist/3bvfu2KAve4lPHrhEFDZna"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 131047,
+      "name": "Casi Siempre",
+      "url": "https://open.spotify.com/track/3pBOArToUvBauronnElvVk"
+    },
+    {
+      "album": {
         "name": "Catira",
         "url": "https://open.spotify.com/album/5N4avOZpzaFrMbB2XJrsCY"
       },
@@ -3018,7 +3062,7 @@
       ],
       "date_added": "2026-09-07",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 183636,
       "name": "Coleccionando atardeceres",
       "url": "https://open.spotify.com/track/0DtwhA7t6K4H72slDDCzxs"
@@ -4410,7 +4454,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 163809,
       "name": "De Sue\u00f1o en Sue\u00f1o",
       "url": "https://open.spotify.com/track/027M0nMG5b1cojrWeR0k7N"
@@ -4454,7 +4498,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 142797,
       "name": "Decido Esperarte",
       "url": "https://open.spotify.com/track/7F771VHU72apKX2kVd1VYz"
@@ -7327,6 +7371,24 @@
     },
     {
       "album": {
+        "name": "fill de la mar (2026)",
+        "url": "https://open.spotify.com/album/6nwZerT6S5mNbj2MLdJgVt"
+      },
+      "artists": [
+        {
+          "name": "Rels B",
+          "url": "https://open.spotify.com/artist/2IMZYfNi21MGqxopj9fWx8"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 117857,
+      "name": "gaviotas de cristal",
+      "url": "https://open.spotify.com/track/73Qs48OY5Won2FWwUeh6wh"
+    },
+    {
+      "album": {
         "name": "Pueblo Salvaje I",
         "url": "https://open.spotify.com/album/3fZEI7J4il33xVIddfYL7O"
       },
@@ -9768,6 +9830,24 @@
       "duration_ms": 230867,
       "name": "Lo Que Queda de M\u00ed",
       "url": "https://open.spotify.com/track/5ONDwiSzjziWVwmxRZCen6"
+    },
+    {
+      "album": {
+        "name": "lo siento",
+        "url": "https://open.spotify.com/album/2fhUpJ1UAf5OP7qIUmXd2r"
+      },
+      "artists": [
+        {
+          "name": "\u00c1lvaro De Luna",
+          "url": "https://open.spotify.com/artist/5N3YDBGT2gUzXgLDTwPRi5"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 260180,
+      "name": "lo siento",
+      "url": "https://open.spotify.com/track/4UhaXDKOZZHT4AJVN1kSC6"
     },
     {
       "album": {
@@ -13043,6 +13123,28 @@
     },
     {
       "album": {
+        "name": "OJOS DE GATA",
+        "url": "https://open.spotify.com/album/5F2dt2c2b8nc1DmJf2H3e0"
+      },
+      "artists": [
+        {
+          "name": "Enol",
+          "url": "https://open.spotify.com/artist/5f7z2thkqWrA4vp5Hh476O"
+        },
+        {
+          "name": "Toni M\u00e9ndez",
+          "url": "https://open.spotify.com/artist/7LMhzgN8b4DL5rakmDjm5G"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 153436,
+      "name": "OJOS DE GATA",
+      "url": "https://open.spotify.com/track/0hmTWSs7vMfx89WUXz7fYm"
+    },
+    {
+      "album": {
         "name": "Ojos Verdes",
         "url": "https://open.spotify.com/album/4EeOwzI5OcHYrETtQqkmQk"
       },
@@ -15161,6 +15263,28 @@
     },
     {
       "album": {
+        "name": "todo saldr\u00e1 bien",
+        "url": "https://open.spotify.com/album/5hlUNgUgQZd0TPH1KIjX5f"
+      },
+      "artists": [
+        {
+          "name": "Carmen Ferre",
+          "url": "https://open.spotify.com/artist/0YQ5lCNqrjymrsqmSn62YV"
+        },
+        {
+          "name": "Bombai",
+          "url": "https://open.spotify.com/artist/4sbKCRFKQ8sAUn1pWR5iKZ"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 179009,
+      "name": "qu\u00e9malo",
+      "url": "https://open.spotify.com/track/190fhODebqheJJCtnILbHL"
+    },
+    {
+      "album": {
         "name": "La Espa\u00f1ola",
         "url": "https://open.spotify.com/album/1MwLojETQBImC8Gf7tGuyi"
       },
@@ -16336,7 +16460,7 @@
       ],
       "date_added": "2024-11-21",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 185440,
       "name": "Sigueme Besando Asi",
       "url": "https://open.spotify.com/track/5Pe01pJteufOjmf7KZeFJB"
@@ -16590,7 +16714,7 @@
       ],
       "date_added": "2026-09-14",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 138352,
       "name": "Solo Si Es Contigo",
       "url": "https://open.spotify.com/track/6F0rA7v2dWIp8KaOOWqa2V"

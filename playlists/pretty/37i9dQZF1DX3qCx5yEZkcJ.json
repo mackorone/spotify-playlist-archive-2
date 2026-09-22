@@ -1,6 +1,6 @@
 {
   "description": "Stay relaxed with these low-key beats and instrumentals.",
-  "num_followers": 1464466,
+  "num_followers": 1464407,
   "original_name": "Mellow Beats",
   "owner": {
     "name": "Spotify",
@@ -687,6 +687,30 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
+        "name": "Azure",
+        "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
+      },
+      "artists": [
+        {
+          "name": "Seizan Ishigaki",
+          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
+        },
+        {
+          "name": "Lola",
+          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
+        },
+        {
+          "name": "Devaloop",
+          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
+        }
+      ],
+      "duration_ms": 139508,
+      "name": "Azure",
+      "url": "https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
         "name": "Next to Nothing (Instrumental)",
         "url": "https://open.spotify.com/album/3rLvFBULjCUBLKmiB7zYB2"
       },
@@ -699,6 +723,26 @@
       "duration_ms": 110500,
       "name": "Next to Nothing - Instrumental",
       "url": "https://open.spotify.com/track/4oVvF4NSVB48GXqpQU5d0T"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
+        "name": "Syn Fonia I",
+        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
+      },
+      "artists": [
+        {
+          "name": "EVISBEATS",
+          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
+        },
+        {
+          "name": "Kazuhiko Maeda",
+          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
+        }
+      ],
+      "duration_ms": 228750,
+      "name": "Space Orgazm",
+      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
     },
     {
       "added_at": "2026-08-30 05:37:31",
@@ -727,50 +771,6 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
-        "name": "Syn Fonia I",
-        "url": "https://open.spotify.com/album/0LprKxhCl7cBBkQHzBbWRU"
-      },
-      "artists": [
-        {
-          "name": "EVISBEATS",
-          "url": "https://open.spotify.com/artist/3dkhk6RTgOerN0NQEmt8Nc"
-        },
-        {
-          "name": "Kazuhiko Maeda",
-          "url": "https://open.spotify.com/artist/1bBgJ0Q6qVnnx23ZtpCSMZ"
-        }
-      ],
-      "duration_ms": 228750,
-      "name": "Space Orgazm",
-      "url": "https://open.spotify.com/track/5BxPmRFKVf9bMGr2q9ZmEA"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
-        "name": "Azure",
-        "url": "https://open.spotify.com/album/2qDTdW3kp496Ebr6edjM62"
-      },
-      "artists": [
-        {
-          "name": "Seizan Ishigaki",
-          "url": "https://open.spotify.com/artist/2YVKRBTfIy4rKoqpwzkbO0"
-        },
-        {
-          "name": "Lola",
-          "url": "https://open.spotify.com/artist/1qDK6LhZ26Z6od4yq1VBKT"
-        },
-        {
-          "name": "Devaloop",
-          "url": "https://open.spotify.com/artist/0eEQAbC1TFqlGdqIa5YjKY"
-        }
-      ],
-      "duration_ms": 139508,
-      "name": "Azure",
-      "url": "https://open.spotify.com/track/0Yo1t0lsn2vqvZLd0kxJ5P"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
         "name": "Sasanqua",
         "url": "https://open.spotify.com/album/0BMJ7h0QsY0wNSjsteLRSd"
       },
@@ -791,6 +791,22 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
+        "name": "Paris Nights",
+        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
+      },
+      "artists": [
+        {
+          "name": "Bajune Tobeta",
+          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
+        }
+      ],
+      "duration_ms": 244000,
+      "name": "Paris Nights",
+      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
         "name": "Raincoat (Paul Grant Remix)",
         "url": "https://open.spotify.com/album/6UxnjFQfPhF7OqkgDZUUVi"
       },
@@ -807,22 +823,6 @@
       "duration_ms": 193125,
       "name": "Raincoat (Paul Grant Remix)",
       "url": "https://open.spotify.com/track/7qTS3XAGwebfMgFWgQcB1i"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
-        "name": "Paris Nights",
-        "url": "https://open.spotify.com/album/2td1WP2YHS2pieTpm3uqCQ"
-      },
-      "artists": [
-        {
-          "name": "Bajune Tobeta",
-          "url": "https://open.spotify.com/artist/1fAAIQj0OEjNlUeGTW26W7"
-        }
-      ],
-      "duration_ms": 244000,
-      "name": "Paris Nights",
-      "url": "https://open.spotify.com/track/5g7QWbsPaa6QenF1FlOYcy"
     },
     {
       "added_at": "2026-08-30 05:37:31",
@@ -903,26 +903,6 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
-        "name": "Primo",
-        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
-      },
-      "artists": [
-        {
-          "name": "edbl",
-          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
-        },
-        {
-          "name": "JPRK",
-          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
-        }
-      ],
-      "duration_ms": 162324,
-      "name": "Primo",
-      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
         "name": "Flow Motion",
         "url": "https://open.spotify.com/album/4cJ8GhgQkfaoQLpHcESCJB"
       },
@@ -943,6 +923,26 @@
       "duration_ms": 132152,
       "name": "Flow Motion",
       "url": "https://open.spotify.com/track/6letr2UF42D0KowDsi8IRN"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
+        "name": "Primo",
+        "url": "https://open.spotify.com/album/0yQ2Z7C1W9zjXnRcVWkln4"
+      },
+      "artists": [
+        {
+          "name": "edbl",
+          "url": "https://open.spotify.com/artist/7ncd26zzbpqgZRroBKmReO"
+        },
+        {
+          "name": "JPRK",
+          "url": "https://open.spotify.com/artist/3ZYTH2LzMs6c3DiRn6n2qH"
+        }
+      ],
+      "duration_ms": 162324,
+      "name": "Primo",
+      "url": "https://open.spotify.com/track/2uCgOs0VUkQYlnXtfi4uuK"
     },
     {
       "added_at": "2026-08-30 05:37:31",
@@ -1259,30 +1259,6 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
-        "name": "Hip Shop",
-        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
-      },
-      "artists": [
-        {
-          "name": "Coffee Date",
-          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
-        },
-        {
-          "name": "Curly",
-          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
-        },
-        {
-          "name": "GameChops",
-          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
-        }
-      ],
-      "duration_ms": 123008,
-      "name": "Hip Shop",
-      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
         "name": "Tender Rose",
         "url": "https://open.spotify.com/album/3aEAavtW6Q8wYX9I2tdJFP"
       },
@@ -1311,6 +1287,30 @@
       "duration_ms": 112080,
       "name": "ZENSORIUM",
       "url": "https://open.spotify.com/track/5Y5g5KeujSAI3CTpLw9ff8"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
+        "name": "Hip Shop",
+        "url": "https://open.spotify.com/album/0KRl72v3V3cZHeGVlRqDvC"
+      },
+      "artists": [
+        {
+          "name": "Coffee Date",
+          "url": "https://open.spotify.com/artist/74ZWzuwsxGAt05s2sWtq0j"
+        },
+        {
+          "name": "Curly",
+          "url": "https://open.spotify.com/artist/4AE4o0hck4magAI2urzzlh"
+        },
+        {
+          "name": "GameChops",
+          "url": "https://open.spotify.com/artist/1T7zBkQCOCacKjbnmFX7cp"
+        }
+      ],
+      "duration_ms": 123008,
+      "name": "Hip Shop",
+      "url": "https://open.spotify.com/track/169xT0Be1P2Hgjd9hq5Lk1"
     },
     {
       "added_at": "2026-08-30 05:37:31",
@@ -1347,26 +1347,6 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
-        "name": "Sakura Bloom",
-        "url": "https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM"
-      },
-      "artists": [
-        {
-          "name": "MrSuperCraft",
-          "url": "https://open.spotify.com/artist/1tEFFbxotubUSWVUqCowki"
-        },
-        {
-          "name": "Kanimayo",
-          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
-        }
-      ],
-      "duration_ms": 122105,
-      "name": "Sakura Bloom",
-      "url": "https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
         "name": "White Tea",
         "url": "https://open.spotify.com/album/76vUTeslD03OfFhbybNJQZ"
       },
@@ -1383,6 +1363,26 @@
       "duration_ms": 88279,
       "name": "White Tea",
       "url": "https://open.spotify.com/track/4HQ2Xd0Ao8h3YKhAXYjEuZ"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
+        "name": "Sakura Bloom",
+        "url": "https://open.spotify.com/album/5Dz1PR8PLIh6MwS9w3ORLM"
+      },
+      "artists": [
+        {
+          "name": "MrSuperCraft",
+          "url": "https://open.spotify.com/artist/1tEFFbxotubUSWVUqCowki"
+        },
+        {
+          "name": "Kanimayo",
+          "url": "https://open.spotify.com/artist/4SVWzWmrg2LqMlVrt0ZZq1"
+        }
+      ],
+      "duration_ms": 122105,
+      "name": "Sakura Bloom",
+      "url": "https://open.spotify.com/track/4iDljp0M9qJ5bV7Q9YwKIz"
     },
     {
       "added_at": "2026-08-30 05:37:31",
@@ -1443,22 +1443,6 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
-        "name": "Hotel Melancholia",
-        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
-      },
-      "artists": [
-        {
-          "name": "Cap Kendricks",
-          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
-        }
-      ],
-      "duration_ms": 147200,
-      "name": "Faded Curtains",
-      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
-    },
-    {
-      "added_at": "2026-08-30 05:37:31",
-      "album": {
         "name": "CELEBRATION OF JAY 3",
         "url": "https://open.spotify.com/album/1syUvpgwFvqWYj1axPFgRo"
       },
@@ -1475,18 +1459,18 @@
     {
       "added_at": "2026-08-30 05:37:31",
       "album": {
-        "name": "pastels",
-        "url": "https://open.spotify.com/album/4eiL6uYYp4Nn2IjLgR9usG"
+        "name": "Hotel Melancholia",
+        "url": "https://open.spotify.com/album/4tFdtVgyhHP4x9yWdcWGH0"
       },
       "artists": [
         {
-          "name": "Sachiho",
-          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+          "name": "Cap Kendricks",
+          "url": "https://open.spotify.com/artist/3Nc3vycu3NLmfOLxGKPXLj"
         }
       ],
-      "duration_ms": 128571,
-      "name": "pastels",
-      "url": "https://open.spotify.com/track/2CIR0nS7E3kJxim6o4rmK0"
+      "duration_ms": 147200,
+      "name": "Faded Curtains",
+      "url": "https://open.spotify.com/track/3oCd3FOFHmHna7DDGXosAJ"
     },
     {
       "added_at": "2026-08-30 05:37:31",
@@ -1507,6 +1491,22 @@
       "duration_ms": 182022,
       "name": "Safe ground (homage of luz by haruka nakamura)",
       "url": "https://open.spotify.com/track/5GvMAF5GSWcWaPMDYw8oMw"
+    },
+    {
+      "added_at": "2026-08-30 05:37:31",
+      "album": {
+        "name": "pastels",
+        "url": "https://open.spotify.com/album/4eiL6uYYp4Nn2IjLgR9usG"
+      },
+      "artists": [
+        {
+          "name": "Sachiho",
+          "url": "https://open.spotify.com/artist/5tf5EwCHOh2BP2zYdBvdqa"
+        }
+      ],
+      "duration_ms": 128571,
+      "name": "pastels",
+      "url": "https://open.spotify.com/track/2CIR0nS7E3kJxim6o4rmK0"
     }
   ],
   "unique_name": "Mellow Beats",

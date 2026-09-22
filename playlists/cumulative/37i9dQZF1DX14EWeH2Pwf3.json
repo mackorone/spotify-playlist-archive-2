@@ -20,7 +20,7 @@
       ],
       "date_added": "2026-08-06",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 125669,
       "name": "#hihaters (feat. Enny P)",
       "url": "https://open.spotify.com/track/7hE0Grm8Fx7DSltgcTFavY"
@@ -2222,7 +2222,7 @@
       ],
       "date_added": "2026-06-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 155268,
       "name": "Arricchiti (feat. Gu\u00e8)",
       "url": "https://open.spotify.com/track/7agE2kK4XZnjRrbwnVJV1T"
@@ -13137,6 +13137,24 @@
     },
     {
       "album": {
+        "name": "Lontano",
+        "url": "https://open.spotify.com/album/2c2OLLaL6HCeZPxyvCNB9h"
+      },
+      "artists": [
+        {
+          "name": "Sfera Ebbasta",
+          "url": "https://open.spotify.com/artist/23TFHmajVfBtlRx5MXqgoz"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 229322,
+      "name": "Lontano",
+      "url": "https://open.spotify.com/track/6g1kj7TaeCmdKauViBylxV"
+    },
+    {
+      "album": {
         "name": "FASTLIFE 5 : Audio Luxury",
         "url": "https://open.spotify.com/album/0jdldWggjh2SDk71zCsu0T"
       },
@@ -17628,7 +17646,7 @@
       ],
       "date_added": "2026-06-25",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 154920,
       "name": "Parapluie",
       "url": "https://open.spotify.com/track/4JKX37OcxWbq2qL0eyVYs2"
@@ -21713,6 +21731,28 @@
     },
     {
       "album": {
+        "name": "Miria",
+        "url": "https://open.spotify.com/album/72SNCe5q2phtJlMlPkEAMw"
+      },
+      "artists": [
+        {
+          "name": "22simba",
+          "url": "https://open.spotify.com/artist/4Xsf5hhfIyhTgiVymlPLA7"
+        },
+        {
+          "name": "Promessa",
+          "url": "https://open.spotify.com/artist/57XSE1wSSI6Xnpx6LMWAKN"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 121943,
+      "name": "Sipario feat. Promessa",
+      "url": "https://open.spotify.com/track/1eLDswtuYz5COqLRXyGOcv"
+    },
+    {
+      "album": {
         "name": "RAPPER",
         "url": "https://open.spotify.com/album/6UwZiJrgeVIMk24rUyxwWF"
       },
@@ -23450,6 +23490,32 @@
       "duration_ms": 154564,
       "name": "TOP MODEL (HEY MAMBO!)",
       "url": "https://open.spotify.com/track/1YvfAyh0iuMaQoOLgaPLYZ"
+    },
+    {
+      "album": {
+        "name": "TOP OF THE POPS (Red Bull 64 Bars)",
+        "url": "https://open.spotify.com/album/68kUOOPBwN7IP9KeoVCMdA"
+      },
+      "artists": [
+        {
+          "name": "Sayf",
+          "url": "https://open.spotify.com/artist/3HAwumPgGOSXlZSyGWuLhB"
+        },
+        {
+          "name": "Dibla",
+          "url": "https://open.spotify.com/artist/01XCyobLTxOrswogL7YNIu"
+        },
+        {
+          "name": "Jiz",
+          "url": "https://open.spotify.com/artist/38CThoTDmXugNnfonW466d"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 194250,
+      "name": "TOP OF THE POPS (Red Bull 64 Bars)",
+      "url": "https://open.spotify.com/track/5OAQg4LJJ2kFWsNdkOeKO2"
     },
     {
       "album": {

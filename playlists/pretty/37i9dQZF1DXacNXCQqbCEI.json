@@ -1,6 +1,6 @@
 {
   "description": "M\u00edstico y amaz\u00f3nico... Este es el sonido de latinoam\u00e9rica. Foto: Meridian Brothers",
-  "num_followers": 341352,
+  "num_followers": 341332,
   "original_name": "El\u00e9ctrica Selv\u00e1tica",
   "owner": {
     "name": "Spotify",
@@ -499,22 +499,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "La Monta\u00f1a",
-        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
-      },
-      "artists": [
-        {
-          "name": "Felipe Schuster",
-          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
-        }
-      ],
-      "duration_ms": 213146,
-      "name": "Tamarugal (Para de Mirarme)",
-      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Efecto Manglar",
         "url": "https://open.spotify.com/album/6yE10mtUlGMVyTH7J7gnyz"
       },
@@ -531,6 +515,22 @@
       "duration_ms": 308213,
       "name": "Efecto Manglar",
       "url": "https://open.spotify.com/track/6nZXV4QBvUomA2XPYnbEFc"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "La Monta\u00f1a",
+        "url": "https://open.spotify.com/album/3aUiHq5tSrFLsF3GtoyDGV"
+      },
+      "artists": [
+        {
+          "name": "Felipe Schuster",
+          "url": "https://open.spotify.com/artist/0qFRRA7zKheBLIsqHA2ouE"
+        }
+      ],
+      "duration_ms": 213146,
+      "name": "Tamarugal (Para de Mirarme)",
+      "url": "https://open.spotify.com/track/737ifSsVNWrDFKeGnGVp6A"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -663,6 +663,26 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
+        "name": "Hijo de Tigre",
+        "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
+      },
+      "artists": [
+        {
+          "name": "La Cumbia Chicharra",
+          "url": "https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr"
+        },
+        {
+          "name": "Emilie Rambaud",
+          "url": "https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG"
+        }
+      ],
+      "duration_ms": 261240,
+      "name": "Mapal\u00e9",
+      "url": "https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
         "name": "Corriente EP",
         "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
       },
@@ -695,26 +715,6 @@
       "duration_ms": 307436,
       "name": "Tierra Moj\u00e1 - Cerrero Dub Mix",
       "url": "https://open.spotify.com/track/57LjA8Nq2X6gut8TRpfhZZ"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
-        "name": "Hijo de Tigre",
-        "url": "https://open.spotify.com/album/1QpR9x1tMvitsrR48Fd7dB"
-      },
-      "artists": [
-        {
-          "name": "La Cumbia Chicharra",
-          "url": "https://open.spotify.com/artist/5DT5ozQExex14fHR7KtrEr"
-        },
-        {
-          "name": "Emilie Rambaud",
-          "url": "https://open.spotify.com/artist/6zSjAU2RuN3iBx8dcqcBgG"
-        }
-      ],
-      "duration_ms": 261240,
-      "name": "Mapal\u00e9",
-      "url": "https://open.spotify.com/track/4FYOLa4OMokaDwZCUVXZvz"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -783,26 +783,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Trending Tropics",
-        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
-      },
-      "artists": [
-        {
-          "name": "Trending Tropics",
-          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
-        },
-        {
-          "name": "iLe",
-          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
-        }
-      ],
-      "duration_ms": 189430,
-      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
-      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Remixeado a Lo Bien",
         "url": "https://open.spotify.com/album/5Z7B0vlfjT6ddaoPajl36c"
       },
@@ -823,18 +803,22 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Purna Mantra",
-        "url": "https://open.spotify.com/album/1lifFdcLgIs13FWXsjKHDp"
+        "name": "Trending Tropics",
+        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
       "artists": [
         {
-          "name": "Manuela Mejia",
-          "url": "https://open.spotify.com/artist/3lRxoMB4YMbbCOvvR5dekK"
+          "name": "Trending Tropics",
+          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
+        },
+        {
+          "name": "iLe",
+          "url": "https://open.spotify.com/artist/1CztIa6fCQ0WmVPidXuwSs"
         }
       ],
-      "duration_ms": 406974,
-      "name": "Purna Mantra",
-      "url": "https://open.spotify.com/track/6ZyH5rtwg2PvQxSGyo1xGF"
+      "duration_ms": 189430,
+      "name": "El Futuro Ya Pas\u00f3 (feat. iLe)",
+      "url": "https://open.spotify.com/track/2ubSZ3rgGRYWm64ksUb0rg"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -851,6 +835,22 @@
       "duration_ms": 199799,
       "name": "Frio Severo",
       "url": "https://open.spotify.com/track/5fe1pHUsM3WE06tQF24idO"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Purna Mantra",
+        "url": "https://open.spotify.com/album/1lifFdcLgIs13FWXsjKHDp"
+      },
+      "artists": [
+        {
+          "name": "Manuela Mejia",
+          "url": "https://open.spotify.com/artist/3lRxoMB4YMbbCOvvR5dekK"
+        }
+      ],
+      "duration_ms": 406974,
+      "name": "Purna Mantra",
+      "url": "https://open.spotify.com/track/6ZyH5rtwg2PvQxSGyo1xGF"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -935,22 +935,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Corriente EP",
-        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
-      },
-      "artists": [
-        {
-          "name": "Terror/Cactus",
-          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
-        }
-      ],
-      "duration_ms": 179634,
-      "name": "La Corriente",
-      "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Capul\u00ed",
         "url": "https://open.spotify.com/album/0UiSo3oYw78LcfmkvwPXoz"
       },
@@ -963,6 +947,22 @@
       "duration_ms": 293750,
       "name": "Capul\u00ed",
       "url": "https://open.spotify.com/track/1H7EboPM7h87XxTmHDE6Ug"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Corriente EP",
+        "url": "https://open.spotify.com/album/17BOLG1QS5Fc9SuBPZDgql"
+      },
+      "artists": [
+        {
+          "name": "Terror/Cactus",
+          "url": "https://open.spotify.com/artist/6zDCcrKdLCpKPtgFcD26rq"
+        }
+      ],
+      "duration_ms": 179634,
+      "name": "La Corriente",
+      "url": "https://open.spotify.com/track/0nZ5ofnjgp1t7a4WOV8Neg"
     },
     {
       "added_at": "2024-07-12 22:50:04",
@@ -1079,26 +1079,6 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Trending Tropics",
-        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
-      },
-      "artists": [
-        {
-          "name": "Trending Tropics",
-          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
-        },
-        {
-          "name": "Ziggy Marley",
-          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
-        }
-      ],
-      "duration_ms": 312623,
-      "name": "Reasons to Fight (feat. Ziggy Marley)",
-      "url": "https://open.spotify.com/track/1828klsRwI6LODnQ7dg5jG"
-    },
-    {
-      "added_at": "2024-07-12 22:50:04",
-      "album": {
         "name": "Amanecer\u00e1 (Bial Hclap Remix)",
         "url": "https://open.spotify.com/album/0LpvThgcIor5tzATUijCrx"
       },
@@ -1119,22 +1099,42 @@
     {
       "added_at": "2024-07-12 22:50:04",
       "album": {
-        "name": "Yo Me Voy (Cerrero Remix)",
-        "url": "https://open.spotify.com/album/6wczt1oubi6EZecQHkbhxz"
+        "name": "Trending Tropics",
+        "url": "https://open.spotify.com/album/1TpBabkFoMsanBmClrqu2V"
       },
       "artists": [
         {
-          "name": "Bejuco",
-          "url": "https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk"
+          "name": "Trending Tropics",
+          "url": "https://open.spotify.com/artist/0zMG6jvwyAyy2MDrxB7vpC"
         },
+        {
+          "name": "Ziggy Marley",
+          "url": "https://open.spotify.com/artist/0o0rlxlC3ApLWsxFkUjMXc"
+        }
+      ],
+      "duration_ms": 312623,
+      "name": "Reasons to Fight (feat. Ziggy Marley)",
+      "url": "https://open.spotify.com/track/1828klsRwI6LODnQ7dg5jG"
+    },
+    {
+      "added_at": "2024-07-12 22:50:04",
+      "album": {
+        "name": "Chureito en la Ma\u00f1ana",
+        "url": "https://open.spotify.com/album/5B9smDQD7JTx7n6XPhqD6V"
+      },
+      "artists": [
         {
           "name": "Cerrero",
           "url": "https://open.spotify.com/artist/5cVZnnikhcTwPENYemDKF6"
+        },
+        {
+          "name": "Bejuco",
+          "url": "https://open.spotify.com/artist/4zlSN95eTYn6VD5wtWFkTk"
         }
       ],
-      "duration_ms": 383360,
-      "name": "Yo Me Voy - Cerrero Remix",
-      "url": "https://open.spotify.com/track/51dzuq7fCzEYJJn6WSw8pP"
+      "duration_ms": 278528,
+      "name": "Chureito en la ma\u00f1ana",
+      "url": "https://open.spotify.com/track/1mRkO12GcDopMRRW9o4p5c"
     }
   ],
   "unique_name": "El\u00e9ctrica Selv\u00e1tica",

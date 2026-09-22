@@ -4,7 +4,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 
 > The latest from Carly Rae Jepsen, GTAVI, Yeat & Drake, Miley Cyrus, ROSÉ, beabadoobee, Troye Sivan, Dominic Fike, and more.
 
-[Spotify](https://open.spotify.com/user/spotify) - 597,983 likes - 100 songs - 5 hr 20 min
+[Spotify](https://open.spotify.com/user/spotify) - 597,928 likes - 100 songs - 5 hr 19 min
 
 | No. | Title | Artist(s) | Album | Length |
 |---|---|---|---|---|
@@ -100,7 +100,7 @@ pretty - [cumulative](/playlists/cumulative/37i9dQZF1DX5DfG8gQdC3F.md) - [plain]
 | 90 | [These Days](https://open.spotify.com/track/3SRlVBEKrbZ2eV7281uH7q) | [Faiza](https://open.spotify.com/artist/1rnl1q5bktJv9GiZTH91mD) | [These Days](https://open.spotify.com/album/2ok0t0EGlpNAdnSrDuQt1j) | 2:52 |
 | 91 | [More Than Friends](https://open.spotify.com/track/5AIb4hlpd7eJE9zYfuSGFL) | [Laroie](https://open.spotify.com/artist/3vm1wp0nCMQSIaPVT6f0IY) | [Mirrors](https://open.spotify.com/album/6NnixWVuf1eDLyV3i9teuT) | 3:45 |
 | 92 | [Heaven](https://open.spotify.com/track/1kSc0GSypXj9kPpeHSciYs) | [Rosado](https://open.spotify.com/artist/09I1DVqDIIWMfy9wGUe6gj), [Gäelle](https://open.spotify.com/artist/6aiaoT7eRRVYKgpYDB4s6T) | [Heaven](https://open.spotify.com/album/5lOhA0YUvK25MewX6sHa84) | 2:18 |
-| 93 | [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 4:45 |
+| 93 | [Mondays](https://open.spotify.com/track/2WPHzEOILx9aYavCUkC1Fb) | [TAKES A VILLAGE](https://open.spotify.com/artist/23nBDuK91u8T5Es8May1Ih), [kaiyel](https://open.spotify.com/artist/03rXop4hKhPSjd6S6oQNUn), [Manniffer](https://open.spotify.com/artist/4if25v3uR55MhFBazgzEjT), [Avi Roy](https://open.spotify.com/artist/6Vw6YuccwIlDPMSYtp64BC), [Keanu Richal](https://open.spotify.com/artist/4qJRmylvCMLmthGfG2Im8p) | [B\-Room All Stars](https://open.spotify.com/album/6SCzB4F6vtZT2pBoVfEv6k) | 3:45 |
 | 94 | [Everything](https://open.spotify.com/track/5NVugldVEeCdMTfPqYNgNC) | [Isla Den](https://open.spotify.com/artist/2kF8VjhAZ6auoV6JTzIhDJ) | [Heaven Can Wait](https://open.spotify.com/album/3oDGg33jx7UYzLs32oPCRZ) | 2:50 |
 | 95 | [Sour \(ft\. Ana Garrow\)](https://open.spotify.com/track/6QtB3ouZgi7Rhh0tj4azTK) | [DCR MILDA](https://open.spotify.com/artist/5AS0k6J1K3MrVUtKKahv64), [Ana Garrow](https://open.spotify.com/artist/3Uj9frkffmawt9xwKaQAGi) | [Sour \(ft\. Ana Garrow\)](https://open.spotify.com/album/6YC5HapPDj0f2nw0AenIZF) | 2:39 |
 | 96 | [i was gone](https://open.spotify.com/track/4tc63itlGrACm0prjhHD8v) | [Maky Lavender](https://open.spotify.com/artist/7MdVBhgLJFByn0NuiMWwQ6), [David Campana](https://open.spotify.com/artist/0yVnVpHr5djmPUqPtg3efc) | [i was gone](https://open.spotify.com/album/5Rrmr45Yfy9dqttbh5k1ia) | 2:36 |

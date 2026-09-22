@@ -1,6 +1,6 @@
 {
   "date_first_scraped": "2022-05-13",
-  "description": "The hottest hits right now. Cover: Stormy",
+  "description": "The hottest hits right now. Cover: Shaw",
   "name": "Hot Hits Morocco",
   "tracks": [
     {
@@ -502,7 +502,7 @@
       ],
       "date_added": "2025-05-11",
       "date_added_asterisk": false,
-      "date_removed": null,
+      "date_removed": "2026-09-22",
       "duration_ms": 164409,
       "name": "Amn\u00e9sie",
       "url": "https://open.spotify.com/track/624UJb49U6Wtvoa7aj8nQ2"
@@ -2046,6 +2046,28 @@
       "duration_ms": 188370,
       "name": "Corazon",
       "url": "https://open.spotify.com/track/4p7xoPQH7WpffmIEm5artb"
+    },
+    {
+      "album": {
+        "name": "UFUL",
+        "url": "https://open.spotify.com/album/5awnUcwNt3LJln1uyKyxy3"
+      },
+      "artists": [
+        {
+          "name": "Draganov",
+          "url": "https://open.spotify.com/artist/2g8Pu5gVtDpkYGsP3RLepJ"
+        },
+        {
+          "name": "TIF",
+          "url": "https://open.spotify.com/artist/2NgTPluNpfsoYZnoeU2VsH"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 185663,
+      "name": "Couci Couca",
+      "url": "https://open.spotify.com/track/0xzlFAGrJHRYDrpk7x8dWe"
     },
     {
       "album": {

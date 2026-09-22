@@ -4,7 +4,7 @@
 
 > This is Wizkid\. The essential tracks, all in one playlist.
 
-173 songs - 9 hr 48 min
+174 songs - 9 hr 51 min
 
 | Title | Artist(s) | Album | Length | Added | Removed |
 |---|---|---|---|---|---|
@@ -105,6 +105,7 @@
 | [Karamo](https://open.spotify.com/track/4H4l7wkB7UcEMFvfIbGsuq) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:41 | 2024-11-25 | 2025-02-02 |
 | [Kese \(Dance\)](https://open.spotify.com/track/27durTCg4qj3qAbKsSVNX4) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Kese \(Dance\)](https://open.spotify.com/album/2sE6Gv7CIc5jUFffN3zsaS) | 2:54 | 2024-11-17 | 2024-12-15 |
 | [Kese \(Dance\)](https://open.spotify.com/track/6JvWMLscnWYkgX1zPufIGT) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:54 | 2024-12-15 | 2026-08-09 |
+| [Lagos to Kampala](https://open.spotify.com/track/5eUKFq7L2qX6YRjJ2YfBDI) | [Runtown](https://open.spotify.com/artist/6mMtnxEQkYoY5FfJIQ9Rhb), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Ghetto University](https://open.spotify.com/album/45rFRMLtbRbX96BNxYvdSa) | 3:34 | 2026-09-22 |  |
 | [Lighter](https://open.spotify.com/track/0yfuV7ZI2e4baQxZUBegUr) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lighter](https://open.spotify.com/album/6QmqxSyG8tSOBIVXgOc875) | 3:06 | 2025-06-29 | 2025-08-24 |
 | [Lighter \- Wizkid Extended](https://open.spotify.com/track/1SffpfUfYXXcgm84dHrlrD) | [A7S](https://open.spotify.com/artist/5Wg2b4Mp42gicxEeDNawf7), [David Guetta](https://open.spotify.com/artist/1Cs0zKBU1kc0i8ypK3B9ai), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Lighter \(Wizkid Extended\)](https://open.spotify.com/album/3Tks1gB5di5SbSV0tjFozr) | 3:06 | 2025-08-24 | 2025-11-05 |
 | [Like That \(bomboclatt\) \(feat\. Wizkid\)](https://open.spotify.com/track/0zMMCk14o9OSRjTfanJUv6) | [Shallipopi](https://open.spotify.com/artist/4TKhxSkqClXrdtUWgKqHVU), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Auracle](https://open.spotify.com/album/2zRkv0mDlxuIb7ZnQRwNF7) | 3:38 | 2025-12-08 | 2026-05-17 |
@@ -149,7 +150,7 @@
 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/2nYeyMeqYDiFSYYtl2BWD6) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/album/2aM3higgzzkjpJf4EDJ8Gq) | 4:19 | 2024-10-20 | 2024-12-25 |
 | [Piece of My Heart \(feat\. Brent Faiyaz\)](https://open.spotify.com/track/7Ijsqi4y74qZB04PaxnYBq) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp), [Brent Faiyaz](https://open.spotify.com/artist/3tlXnStJ1fFhdScmQeLpuG) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 4:19 | 2025-04-06 | 2025-11-05 |
 | [PONGO](https://open.spotify.com/track/3vohqCtAozZw4ifTAtwbxu) | [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [PONGO](https://open.spotify.com/album/2enHgKCtJSopIOoi0uhy0Y) | 3:09 | 2026-03-22 |  |
-| [pongo remix](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 | 2026-07-15 |  |
+| [pongo remix](https://open.spotify.com/track/1Z02pAigkKXgTfy3GMiQ6x) | [RØZ](https://open.spotify.com/artist/0aULg7LximLNhI6lLzxcXI), [Rvssian](https://open.spotify.com/artist/1fctva4kpRbg2k3v7kwRuS), [Rauw Alejandro](https://open.spotify.com/artist/1mcTU81TzQhprhouKaTkpq), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [pAL\_veranito.mp3](https://open.spotify.com/album/2FAyVjETQ3RSG1vrNtf87z) | 2:49 | 2026-07-15 | 2026-09-22 |
 | [Pray](https://open.spotify.com/track/5HeW3DSp2lsfcXXRuJkZUy) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Morayo](https://open.spotify.com/album/3dLXfyaG1kYeSQknLs2LP1) | 2:52 | 2026-01-26 |  |
 | [Reckless](https://open.spotify.com/track/19ehhyzTggrwMzaOzYt85g) | [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Made In Lagos](https://open.spotify.com/album/6HpMdN52TfJAwVbmkrFeBN) | 3:53 | 2024-05-25 |  |
 | [Shayo](https://open.spotify.com/track/37KRtNYpPJ2tK6UcT8PGr0) | [Ceeza Milli](https://open.spotify.com/artist/11b21KVATwG7LgLPiD3a1A), [Wizkid](https://open.spotify.com/artist/3tVQdUvClmAT7URs9V3rsp) | [Diamond in the Rough](https://open.spotify.com/album/6t7hQNIVpEOG7Lpk5rJIYZ) | 2:52 | 2022-10-12 | 2023-03-22 |

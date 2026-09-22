@@ -11025,6 +11025,28 @@
     },
     {
       "album": {
+        "name": "Concrete Break",
+        "url": "https://open.spotify.com/album/0FP5xcqdxPwjeiukBcjS1R"
+      },
+      "artists": [
+        {
+          "name": "D-Fence",
+          "url": "https://open.spotify.com/artist/5WUnGF4pM7DerBF0GSivNv"
+        },
+        {
+          "name": "Furyan",
+          "url": "https://open.spotify.com/artist/7KAMvC5fpPMWUgZYu3mEYJ"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 186215,
+      "name": "Concrete Break",
+      "url": "https://open.spotify.com/track/3xMCvWASoA5StWbvtqZjFN"
+    },
+    {
+      "album": {
         "name": "Medication Time",
         "url": "https://open.spotify.com/album/5lY6xm28v9eoW62rY8b91T"
       },
@@ -31350,6 +31372,24 @@
       "duration_ms": 208000,
       "name": "Just Pretend",
       "url": "https://open.spotify.com/track/15nZMHZYSpIXPuVUkNi5vS"
+    },
+    {
+      "album": {
+        "name": "Just The Way You Are",
+        "url": "https://open.spotify.com/album/1uDbB7gK6vw2XlRYjYrVms"
+      },
+      "artists": [
+        {
+          "name": "Mish",
+          "url": "https://open.spotify.com/artist/65kwwmTEJIlKRldGhmUM0b"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 112875,
+      "name": "Just The Way You Are",
+      "url": "https://open.spotify.com/track/6Q40wOVD1CN9th89QbXGOJ"
     },
     {
       "album": {

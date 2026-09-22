@@ -2683,6 +2683,24 @@
     },
     {
       "album": {
+        "name": "Rising",
+        "url": "https://open.spotify.com/album/5hawHjIi7zbq7iEbaArhUL"
+      },
+      "artists": [
+        {
+          "name": "Gravens",
+          "url": "https://open.spotify.com/artist/3ynl82AyQaG2Rw8Kws3f7Y"
+        }
+      ],
+      "date_added": "2026-09-21",
+      "date_added_asterisk": false,
+      "date_removed": null,
+      "duration_ms": 235000,
+      "name": "Devil's Blues",
+      "url": "https://open.spotify.com/track/33X5j5PnNGzEx68ASBqaQv"
+    },
+    {
+      "album": {
         "name": "Diagnostics",
         "url": "https://open.spotify.com/album/0vr0A7UdkhXpkzp13c8TX0"
       },
